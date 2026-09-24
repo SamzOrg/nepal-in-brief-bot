@@ -1,7 +1,7 @@
 """Nepal In Brief: RSS -> dedupe -> translate (EN<->NE) -> branded images -> Facebook Page + Instagram.
 
 Every story is posted twice (English + Nepali), never more. Run every 30 min (GitHub Actions).
-One LLM request per run (Groq gpt-oss-20b, falling back to Gemini Flash-Lite), only for items
+One LLM request per run (Groq gpt-oss-120b, falling back to Gemini Flash-Lite), only for items
 never seen before, only to translate headlines + flag duplicates. If both fail, those items
 retry on the next run.
 
@@ -22,8 +22,8 @@ BRAND          = "NEPAL IN BRIEF"
 # Max 1 successful request per run.
 GROQ_X = {"reasoning_effort": "low", "include_reasoning": False}
 PROVIDERS = [
-    ("groq gpt-oss-20b",  "https://api.groq.com/openai/v1/chat/completions",
-     "GROQ_API_KEY",   "openai/gpt-oss-20b",       GROQ_X),
+    ("groq gpt-oss-120b", "https://api.groq.com/openai/v1/chat/completions",
+     "GROQ_API_KEY",   "openai/gpt-oss-120b",      GROQ_X),
     ("gemini flash-lite", "https://generativelanguage.googleapis.com/v1beta/openai/chat/completions",
      "GEMINI_API_KEY", "gemini-flash-lite-latest", {}),
 ]
