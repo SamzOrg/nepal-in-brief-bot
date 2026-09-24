@@ -2,7 +2,7 @@ name: Nepal In Brief autopost
 
 on:
   schedule:
-    - cron: "*/30 * * * *"     # every 30 min: 2 stories x 2 languages per run. Keep the repo PUBLIC (unlimited free minutes).
+    - cron: "7,37 * * * *"     # every 30 min at :07 and :37 UTC (avoids GitHub's busy :00/:30). Keep the repo PUBLIC.
   workflow_dispatch:            # "Run workflow" button for manual runs
     inputs:
       dry_run:
