@@ -34,6 +34,7 @@ jobs:
       - name: Run bot
         env:
           GROQ_API_KEY:  ${{ secrets.GROQ_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           FB_PAGE_ID:    ${{ secrets.FB_PAGE_ID }}
           FB_PAGE_TOKEN: ${{ secrets.FB_PAGE_TOKEN }}
           IG_USER_ID:    ${{ secrets.IG_USER_ID }}

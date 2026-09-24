@@ -1,10 +1,11 @@
 """Nepal In Brief: RSS -> dedupe -> translate (EN<->NE) -> branded images -> Facebook Page + Instagram.
 
 Every story is posted twice (English + Nepali), never more. Run every 30 min (GitHub Actions).
-Groq is called at most ONCE per run, only for items never seen before, and only to translate
-headlines + flag duplicates. If Groq fails, a free Google Translate endpoint is used instead.
+One LLM request per run (Groq gpt-oss-20b, falling back to Gemini Flash-Lite), only for items
+never seen before, only to translate headlines + flag duplicates. If both fail, those items
+retry on the next run.
 
-Env (GitHub Secrets): GROQ_API_KEY, FB_PAGE_ID, FB_PAGE_TOKEN, IG_USER_ID
+Env (GitHub Secrets): GROQ_API_KEY, GEMINI_API_KEY (backup), FB_PAGE_ID, FB_PAGE_TOKEN, IG_USER_ID
 Optional env: DRY_RUN=1 (render + print only, no posting, state untouched)
 """
 import calendar, html, json, os, re, pathlib, sys, time, traceback
@@ -17,11 +18,18 @@ from PIL import Image, ImageDraw, ImageFont
 
 # ================= CONFIG =================
 BRAND          = "NEPAL IN BRIEF"
-MODEL          = "openai/gpt-oss-20b"   # translation only, 20b is enough and cheaper on limits
-BASE_URL       = "https://api.groq.com/openai/v1"
+# Translation + duplicate flags. Groq first; Gemini only if Groq fails (limit, outage, key issue).
+# Max 1 successful request per run.
+GROQ_X = {"reasoning_effort": "low", "include_reasoning": False}
+PROVIDERS = [
+    ("groq gpt-oss-20b",  "https://api.groq.com/openai/v1/chat/completions",
+     "GROQ_API_KEY",   "openai/gpt-oss-20b",       GROQ_X),
+    ("gemini flash-lite", "https://generativelanguage.googleapis.com/v1beta/openai/chat/completions",
+     "GEMINI_API_KEY", "gemini-flash-lite-latest", {}),
+]
 GRAPH          = "https://graph.facebook.com/v23.0"
 MAX_AGE_H      = 8      # stories older than this are dropped (seen + queue)
-LLM_BATCH      = 25     # max new items per Groq call (1 call per run)
+LLM_BATCH      = 25     # max new items per LLM request (Groq free TPM is 8K, so keep <= ~30)
 STORIES_PER_RUN = 2     # each story = 1 EN + 1 NE post on each platform
 FB_DAILY_CAP   = 200    # FB posts per rolling 24h (no hard API cap; lower it if reach drops)
 IG_DAILY_CAP   = 96     # IG API hard limit is 100 per rolling 24h
@@ -134,7 +142,7 @@ def fetch(feed):
     return out
 
 
-# ---------------- translation (1 Groq call per run) ----------------
+# ---------------- translation (1 LLM request per run) ----------------
 PROMPT = """Translate news headlines for a Nepal news page and flag duplicates.
 
 For each NEW item:
@@ -153,49 +161,43 @@ NEW:
 """
 
 
-def groq_translate(batch, existing):
+def llm_translate(batch, existing):
     prompt = PROMPT.format(
         existing="\n".join(f"E{i}: {t}" for i, t in enumerate(existing)) or "(none)",
         new="\n".join(f"{i} [{b['lang']}] {b['title']}" for i, b in enumerate(batch)))
-    r = requests.post(f"{BASE_URL}/chat/completions",
-                      headers={"Authorization": f"Bearer {os.environ['GROQ_API_KEY']}"},
-                      json={"model": MODEL, "temperature": 0.1, "max_completion_tokens": 6000,
-                            "reasoning_effort": "low", "include_reasoning": False,
-                            "response_format": {"type": "json_object"},
-                            "messages": [{"role": "user", "content": prompt}]},
-                      timeout=90)
-    if r.status_code != 200:
-        raise RuntimeError(f"Groq {r.status_code}: {r.text[:300]}")
-    rows = json.loads(r.json()["choices"][0]["message"]["content"])["r"]
-    return {int(x["i"]): (clean(x.get("t", "")), x.get("d")) for x in rows if "i" in x}
-
-
-def gtx(text, tl):
-    """Free Google Translate fallback (unofficial endpoint, used only when Groq fails)."""
-    r = requests.get("https://translate.googleapis.com/translate_a/single", timeout=20,
-                     params={"client": "gtx", "sl": "auto", "tl": tl, "dt": "t", "q": text})
-    r.raise_for_status()
-    return clean("".join(p[0] for p in r.json()[0] if p and p[0]))
+    for name, url, key_env, model, extra in PROVIDERS:
+        key = os.getenv(key_env)
+        if not key:
+            continue
+        try:
+            r = requests.post(url, headers={"Authorization": f"Bearer {key}"}, timeout=90,
+                              json={"model": model, "temperature": 0.1, "max_completion_tokens": 6000,
+                                    "response_format": {"type": "json_object"},
+                                    "messages": [{"role": "user", "content": prompt}], **extra})
+            if r.status_code != 200:
+                raise RuntimeError(f"{r.status_code}: {r.text[:200]}")
+            text = r.json()["choices"][0]["message"]["content"]
+            text = text[text.find("{"):text.rfind("}") + 1]  # tolerate ```json fences
+            rows = json.loads(text)["r"]
+            log(f"LLM ok via {name}")
+            return {int(x["i"]): (clean(x.get("t", "")), x.get("d")) for x in rows if "i" in x}
+        except Exception as ex:
+            log(f"LLM {name} failed: {ex!r}")
+    raise RuntimeError("all LLM providers failed")
 
 
 def translate(batch, existing):
-    try:
-        res = groq_translate(batch, existing)
-        log(f"Groq translated {len(res)}/{len(batch)}")
-    except Exception as ex:
-        log(f"Groq failed ({ex!r}), using Google fallback")
-        res = {}
+    """Raises if both models fail; caller then leaves the items unseen so the next run retries."""
+    res = llm_translate(batch, existing)
+    log(f"LLM translated {len(res)}/{len(batch)}")
+    out = []
     for i, b in enumerate(batch):
         t, d = res.get(i, ("", None))
-        if not t:
-            try:
-                t = gtx(b["title"], "en" if b["lang"] == "ne" else "ne")
-            except Exception as ex:
-                log(f"translate fail: {ex!r}")
-                continue
-        b["en"], b["ne"] = (t, b["title"]) if b["lang"] == "ne" else (b["title"], t)
-        b["dup"] = d
-    return [b for b in batch if b.get("en")]
+        if t:
+            b["en"], b["ne"] = (t, b["title"]) if b["lang"] == "ne" else (b["title"], t)
+            b["dup"] = d
+            out.append(b)
+    return out
 
 
 # ---------------- image ----------------
@@ -325,12 +327,16 @@ def main():
         new.append(it)
     log(f"{len(items)} fresh items, {len(fresh)} unseen, {len(new)} after local dedupe")
 
-    # 3. ONE Groq call for up to LLM_BATCH new items (rest wait for next run)
+    # 3. ONE LLM request for up to LLM_BATCH new items (rest wait for next run)
     if new:
         batch = new[:LLM_BATCH]
         existing = [p["en"] for p in recent_posted][-40:] + [q["en"] for q in queue]
         n_posted = len([p["en"] for p in recent_posted][-40:])
-        done = translate(batch, existing)
+        try:
+            done = translate(batch, existing)
+        except Exception as ex:
+            log(f"{ex}; these {len(batch)} items will retry next run")
+            done, batch = [], []
         for b in batch:
             seen[b["link"]] = now
         for i, b in enumerate(done):
@@ -394,7 +400,7 @@ def save(state, seen, queue, posted):
 
 
 if __name__ == "__main__":
-    need = ("GROQ_API_KEY",) + (() if DRY else ("FB_PAGE_ID", "FB_PAGE_TOKEN", "IG_USER_ID"))
+    need = () if DRY else ("FB_PAGE_ID", "FB_PAGE_TOKEN", "IG_USER_ID")
     missing = [k for k in need if not os.getenv(k)]
     if missing:
         sys.exit(f"Missing env vars: {', '.join(missing)}")
