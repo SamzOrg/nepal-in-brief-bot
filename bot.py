@@ -34,6 +34,7 @@ STORIES_PER_RUN = 2     # each story = 1 EN + 1 NE post on each platform
 FB_DAILY_CAP   = 200    # FB posts per rolling 24h (no hard API cap; lower it if reach drops)
 IG_DAILY_CAP   = 96     # IG API hard limit is 100 per rolling 24h
 DUP_JACCARD    = 0.5    # word-overlap threshold for local duplicate detection
+INCLUDE_SUMMARY = False  # False: caption = headline + source + link only (no copied article text)
 HASHTAGS_EN    = "#Nepal #NepalNews #NepalInBrief"
 HASHTAGS_NE    = "#नेपाल #समाचार #NepalInBrief"
 
@@ -48,11 +49,19 @@ FEEDS = [
     ("Nagarik News",    "https://nagariknews.nagariknetwork.com/feed",    False, 3),
     ("Setopati",        "https://www.setopati.com/feed",                  False, 3),
     ("Ratopati",        "https://www.ratopati.com/feed",                  False, 3),
+    ("Khabarhub",       "https://khabarhub.com/feed",                     False, 3),
+    ("Gorkhapatra",     "https://gorkhapatraonline.com/rss",              False, 3),
+    ("Annapurna Post",  "https://annapurnapost.com/rss",                  False, 3),
+    ("Baahrakhari",     "https://baahrakhari.com/feed",                   False, 2),
+    ("Ujyaalo",         "https://ujyaaloonline.com/feed",                 False, 2),
+    ("Deshsanchar",     "https://deshsanchar.com/feed",                   False, 2),
+    ("Lokaantar",       "https://lokaantar.com/feed",                     False, 2),
     # Nepal, English
     ("Kathmandu Post",  "https://kathmandupost.com/rss",                  False, 3),
     ("Onlinekhabar EN", "https://english.onlinekhabar.com/feed",          False, 3),
     ("Himalayan Times", "https://thehimalayantimes.com/rssFeed/15",       False, 3),
     ("Rising Nepal",    "https://risingnepaldaily.com/rss",               False, 2),
+    ("Khabarhub EN",    "https://english.khabarhub.com/feed",             False, 2),
     # International, only items that mention Nepal
     ("Google News",     "https://news.google.com/rss/search?q=Nepal+when:1d&hl=en-US&gl=US&ceid=US:en", True, 2),
     ("Google News IN",  "https://news.google.com/rss/search?q=Nepal+when:1d&hl=en-IN&gl=IN&ceid=IN:en", True, 2),
@@ -74,6 +83,7 @@ OUT   = HERE / "out"
 NPT   = timezone(timedelta(hours=5, minutes=45))
 DRY   = os.getenv("DRY_RUN") == "1"
 UA    = {"User-Agent": "Mozilla/5.0 (NepalInBrief bot)"}
+URL_DATE = re.compile(r"/(20\d\d)/(\d\d)/(\d\d)/")
 DEVA  = re.compile(r"[ऀ-ॿ]")
 
 REPL = {"‘": "'", "’": "'", "“": '"', "”": '"',
@@ -124,7 +134,12 @@ def fetch(feed):
     now, out = time.time(), []
     for e in entries:
         pub = e.get("published_parsed") or e.get("updated_parsed")
-        ts = calendar.timegm(pub) if pub else now
+        link = norm_link(e.get("link"))
+        m = URL_DATE.search(link)
+        if m and now - calendar.timegm((int(m[1]), int(m[2]), int(m[3]), 23, 59, 0)) > 86400:
+            continue  # URL says it's from before yesterday: stale, whatever the feed claims
+        # undated items would otherwise look brand new on every run and crowd out other sources
+        ts = calendar.timegm(pub) if pub else now - 4 * 3600
         if now - ts > MAX_AGE_H * 3600:
             continue
         title, summary, src = clean(e.get("title")), clean(e.get("summary")), name
@@ -133,12 +148,24 @@ def fetch(feed):
             title, summary = re.sub(rf"\s+-\s+{re.escape(src)}$", "", title), ""
         if needs_nepal and not NEPAL.search(f"{title} {summary}"):
             continue
-        link = norm_link(e.get("link"))
         if title and link:
             out.append({"title": title, "summary": shorten(summary, 220), "link": link,
                         "source": src, "ts": ts, "weight": weight,
                         "lang": "ne" if DEVA.search(title) else "en"})
     log(f"{name}: {len(out)} fresh")
+    return out
+
+
+def round_robin(items, n):
+    """Take items source by source (A, B, C, A, B, C...) so no single outlet fills the batch."""
+    by = {}
+    for it in items:  # items are already newest first
+        by.setdefault(it["source"], []).append(it)
+    out = []
+    while len(out) < n and any(by.values()):
+        for src in by:
+            if by[src] and len(out) < n:
+                out.append(by[src].pop(0))
     return out
 
 
@@ -282,7 +309,7 @@ def post_instagram(img_url, text):
 
 
 def captions(s, lang):
-    summ = s["summary"] if s["lang"] == lang and s["summary"] else ""
+    summ = s["summary"] if INCLUDE_SUMMARY and s["lang"] == lang and s["summary"] else ""
     body = f"{s[lang]}\n\n{summ + chr(10) + chr(10) if summ else ''}"
     if lang == "ne":
         fb = f"{body}पूरा समाचार: {s['link']}\nस्रोत: {s['source']}\n\n{HASHTAGS_NE}"
@@ -339,7 +366,7 @@ def main():
 
     # 3. ONE LLM request for up to LLM_BATCH new items (rest wait for next run)
     if new:
-        batch = new[:LLM_BATCH]
+        batch = round_robin(new, LLM_BATCH)
         existing = [p["en"] for p in recent_posted][-40:] + [q["en"] for q in queue]
         n_posted = len([p["en"] for p in recent_posted][-40:])
         try:
@@ -366,8 +393,9 @@ def main():
                 continue
             queue.append({**b, "hits": 1})
 
-    # 4. post the top stories (more sources = more important, then trusted, then newest)
-    queue.sort(key=lambda q: (-q["hits"], -q["weight"], -q["ts"]))
+    # 4. post the top stories: most-covered first, then the outlet we've used least recently
+    #    (so the feed mixes Onlinekhabar, Setopati, Ratopati, Nagarik, KP...), then trusted, then newest
+    recent_src = [p.get("source") for p in posted][-8:]
     fb_24 = sum(p.get("n_fb", 0) for p in posted if p["ts"] > now - 86400)
     ig_24 = sum(p.get("n_ig", 0) for p in posted if p["ts"] > now - 86400)
     log(f"queue {len(queue)} | last 24h: FB {fb_24}, IG {ig_24}")
@@ -376,12 +404,16 @@ def main():
     for _ in range(STORIES_PER_RUN):
         if not queue or fb_24 + 2 > FB_DAILY_CAP:
             break
-        s = queue.pop(0)
+        s = min(queue, key=lambda q: (-q["hits"], recent_src.count(q["source"]), -q["weight"], -q["ts"]))
+        queue.remove(s)
+        recent_src.append(s["source"])
         if s["link"] in page_links:
             log(f"already on Page, skipping: {s['en']}")
-            posted.append({"ts": time.time(), "en": s["en"], "ne": s["ne"], "link": s["link"], "n_fb": 0, "n_ig": 0})
+            posted.append({"ts": time.time(), "en": s["en"], "ne": s["ne"], "link": s["link"],
+                           "source": s["source"], "n_fb": 0, "n_ig": 0})
             continue
-        rec = {"ts": time.time(), "en": s["en"], "ne": s["ne"], "link": s["link"], "n_fb": 0, "n_ig": 0}
+        rec = {"ts": time.time(), "en": s["en"], "ne": s["ne"], "link": s["link"],
+               "source": s["source"], "n_fb": 0, "n_ig": 0}
         if not DRY:
             posted.append(rec)  # recorded BEFORE posting: a crash can never cause a repeat
             save(state, seen, queue, posted)
