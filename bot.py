@@ -293,6 +293,16 @@ def captions(s, lang):
     return fb, ig
 
 
+def recent_page_links():
+    """Links in the Page's last 50 posts, so a lost state.json can never cause a repost."""
+    try:
+        j = graph("GET", f"{os.environ['FB_PAGE_ID']}/posts", fields="message", limit=50)
+        return set(re.findall(r"https?://\S+", " ".join(p.get("message", "") for p in j.get("data", []))))
+    except Exception as ex:
+        log(f"could not read Page posts: {ex!r}")
+        return set()
+
+
 # ---------------- main ----------------
 def main():
     state = json.loads(STATE.read_text("utf-8")) if STATE.exists() else {}
@@ -362,10 +372,15 @@ def main():
     ig_24 = sum(p.get("n_ig", 0) for p in posted if p["ts"] > now - 86400)
     log(f"queue {len(queue)} | last 24h: FB {fb_24}, IG {ig_24}")
 
+    page_links = set() if DRY else recent_page_links()
     for _ in range(STORIES_PER_RUN):
         if not queue or fb_24 + 2 > FB_DAILY_CAP:
             break
         s = queue.pop(0)
+        if s["link"] in page_links:
+            log(f"already on Page, skipping: {s['en']}")
+            posted.append({"ts": time.time(), "en": s["en"], "ne": s["ne"], "link": s["link"], "n_fb": 0, "n_ig": 0})
+            continue
         rec = {"ts": time.time(), "en": s["en"], "ne": s["ne"], "link": s["link"], "n_fb": 0, "n_ig": 0}
         if not DRY:
             posted.append(rec)  # recorded BEFORE posting: a crash can never cause a repeat

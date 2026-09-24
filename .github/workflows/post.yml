@@ -58,4 +58,8 @@ jobs:
           git add state.json 2>/dev/null || exit 0
           git diff --cached --quiet && exit 0
           git commit -m "state: $(date -u +%FT%TZ)"
-          git push
+          for i in 1 2 3; do
+            git pull --rebase -X theirs && git push && exit 0
+            sleep 5
+          done
+          exit 1
