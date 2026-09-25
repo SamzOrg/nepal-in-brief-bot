@@ -1,3 +1,4 @@
 feedparser>=6.0
 requests>=2.31
 pillow>=10.1
+nepali-datetime>=1.0.8

@@ -14,6 +14,10 @@ from datetime import datetime, timedelta, timezone
 from urllib.parse import urlsplit, urlunsplit, parse_qsl, urlencode
 
 import feedparser, requests
+try:
+    import nepali_datetime  # Bikram Sambat dates for the Nepali half of the stamp
+except ImportError:
+    nepali_datetime = None
 from PIL import Image, ImageDraw, ImageFont
 
 # ================= CONFIG =================
@@ -82,7 +86,8 @@ FEEDS = [
 # ---- image ----
 HERE      = pathlib.Path(__file__).parent
 TEMPLATE  = HERE / "assets" / "template.jpg"   # branded template (1254x1254); headline goes in the panel
-BOX       = (100, 490, 1054, 420)              # headline area inside the panel: left, top, width, height
+BOX       = (100, 520, 1054, 400)              # headline area inside the panel: left, top, width, height
+STAMP_Y   = 482                                # centre line of the date pill, just under the LATEST ribbon
 TEXT_RGB  = (255, 255, 255)
 FONT_BOLD = [HERE / "assets" / "fonts" / "headline.ttf", "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf"]
 # ==========================================
@@ -268,6 +273,22 @@ def fit_text(draw, text, box, files, start=92, stop=40, spacing=1.22):
     return f, wrap(draw, text, f, w), int(stop * spacing)
 
 
+NE_DIGITS = str.maketrans("0123456789", "०१२३४५६७८९")
+NE_MONTHS = ["बैशाख", "जेठ", "असार", "साउन", "भदौ", "असोज", "कात्तिक", "मंसिर", "पुस", "माघ", "फागुन", "चैत"]
+
+
+def date_stamp(ts):
+    """'25 Sep 2026, 12:00 PM   |   २०८३ असोज ९, दिउँसो १२:००' in Nepal time."""
+    t = datetime.fromtimestamp(ts, NPT)
+    en = t.strftime("%d %b %Y, %I:%M %p").lstrip("0")
+    if nepali_datetime is None:
+        return en
+    b = nepali_datetime.datetime.from_datetime_datetime(t.replace(tzinfo=None))
+    part = "बिहान" if 4 <= t.hour < 12 else "दिउँसो" if t.hour < 17 else "साँझ" if t.hour < 20 else "राति"
+    ne = f"{b.year} {NE_MONTHS[b.month - 1]} {b.day}, {part} {t.hour % 12 or 12}:{t.minute:02d}"
+    return f"{en}   |   {ne.translate(NE_DIGITS)}"
+
+
 def render(story, lang):
     """Headline only, centered in the template panel. Source + link go in the caption."""
     OUT.mkdir(exist_ok=True)
@@ -279,6 +300,14 @@ def render(story, lang):
     for i, line in enumerate(lines):
         lx = x + (w - d.textlength(line, font=f)) // 2
         d.text((lx, ty + i * lh), line, font=f, fill=TEXT_RGB)
+
+    # date pill under the LATEST ribbon (same post time on the EN and NE image)
+    stamp = date_stamp(story.get("post_ts") or time.time())
+    sf = font(FONT_BOLD, 28)
+    cx, sw = x + w // 2, d.textlength(stamp, font=sf)
+    d.rounded_rectangle([cx - sw / 2 - 24, STAMP_Y - 21, cx + sw / 2 + 24, STAMP_Y + 21],
+                        radius=21, fill=(8, 14, 32), outline=(220, 30, 45), width=2)
+    d.text((cx, STAMP_Y), stamp, font=sf, fill=TEXT_RGB, anchor="mm")
     path = OUT / f"{int(time.time()*1000)}_{lang}.jpg"
     img.save(path, "JPEG", quality=92, optimize=True)  # IG accepts JPEG only
     return path
@@ -449,6 +478,7 @@ def main():
         if not DRY:
             posted.append(rec)  # recorded BEFORE posting: a crash can never cause a repeat
             save(state, seen, queue, posted)
+        s["post_ts"] = time.time()
         for lang in ("en", "ne"):
             img = render(s, lang)
             fb_text, ig_text = captions(s, lang)
