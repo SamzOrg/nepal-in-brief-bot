@@ -36,10 +36,20 @@ MAX_AGE_H      = 8      # stories older than this are dropped (seen + queue)
 LLM_BATCH      = 25     # max new items per LLM request (Groq free TPM is 8K, so keep <= ~30)
 STORIES_PER_RUN = 1     # normal stories per run (each = 1 EN + 1 NE post); runs every ~10 min
 BREAKING_PER_RUN = 3    # breaking stories skip the pacing and go out immediately, up to this many
-BREAKING_PER_HOUR = 4   # hard cap so a busy news day can't turn into a flood of "breaking" posts
+BREAKING_PER_HOUR = 6   # hard cap so a busy news day can't turn into a flood of "breaking" posts
 BREAKING_MAX_AGE_MIN = 90  # only fresh stories can count as breaking
-MIN_GAP_MIN    = 10     # min minutes between normal (non-breaking) stories
-IG_BREAKING_RESERVE = 10  # IG posts kept free for breaking news in every rolling 24h
+ACTIVE_HOURS   = (4, 23)  # Nepal time: regular news only from 04:00 to 23:00, daily limits spread evenly
+BREAKING_24H   = True     # breaking news may still post at night (uses the IG reserve below)
+IG_BREAKING_RESERVE = 16  # IG posts (8 stories) kept free for breaking news in every rolling 24h
+FB_BREAKING_RESERVE = 20  # FB posts (10 stories) kept free for breaking news
+# How much of the day's regular budget each hour gets (Nepal time). Follows when Nepali
+# audiences are online: morning scroll 6-9, lunch 12-2, and the big evening peak 6-10 PM.
+HOUR_WEIGHT = {4: 0.3, 5: 0.6, 6: 1.0, 7: 1.3, 8: 1.3, 9: 1.1, 10: 1.1, 11: 1.1, 12: 1.2,
+               13: 1.1, 14: 0.8, 15: 0.8, 16: 0.9, 17: 1.1, 18: 1.4, 19: 1.6, 20: 1.6,
+               21: 1.3, 22: 0.9}
+# Saturday and Sunday: people are online all day, so 9 AM to 10 PM gets a bigger share
+WEEKEND = {9: 1.3, 10: 1.3, 11: 1.3, 12: 1.3, 13: 1.3, 14: 1.2, 15: 1.2, 16: 1.2,
+           17: 1.3, 18: 1.4, 19: 1.6, 20: 1.6, 21: 1.6}
 BREAKING = re.compile(r"\b(breaking|earthquake|quake|flood\w*|landslide\w*|avalanche|inundat\w*|"
                       r"killed|dead|death\w*|dies|died|fire|blaze|blast|explosion|crash\w*|accident|"
                       r"collapse\w*|missing|rescue\w*|evacuat\w*|curfew|resign\w*|arrest\w*|"
@@ -445,13 +455,35 @@ def main():
 
     brk_hour = sum(1 for p in posted if p.get("brk") and p["ts"] > time.time() - 3600)
 
-    last_post = max((p["ts"] for p in posted if p.get("n_fb")), default=0)
-    normal_ok = time.time() - last_post >= MIN_GAP_MIN * 60
+    # Even pacing across the active window: by X% of the window, at most X% of the day's budget
+    # may be used, so the limits can't run out at noon and leave the evening empty.
+    t = datetime.now(NPT)
+    start_h, end_h = ACTIVE_HOURS
+    day_start = t.replace(hour=start_h, minute=0, second=0, microsecond=0).timestamp()
+    active = start_h <= t.hour < end_h
+    weights = {**HOUR_WEIGHT, **(WEEKEND if t.weekday() in (5, 6) else {})}  # 5 = Sat, 6 = Sun
+    w = [weights.get(h, 0) for h in range(start_h, end_h)]
+    done = sum(w[: max(0, t.hour - start_h)])
+    if active:
+        done += w[t.hour - start_h] * (t.minute * 60 + t.second) / 3600
+    frac = min(1.0, done / sum(w)) if t.hour >= start_h else 0.0   # share of the day's budget usable by now
+    # "today" also covers the quiet hours before the window, so night-time breaking posts
+    # are paid for out of the same day's budget
+    since = day_start - (24 - (end_h - start_h)) * 3600
+    fb_today = sum(p.get("n_fb", 0) for p in posted if p["ts"] >= since)
+    ig_today = sum(p.get("n_ig", 0) for p in posted if p["ts"] >= since)
+    fb_budget = (FB_DAILY_CAP - FB_BREAKING_RESERVE) * frac + 2   # posts allowed so far (+1 story slack)
+    ig_budget = (IG_DAILY_CAP - IG_BREAKING_RESERVE) * frac + 2
+    normal_ok = active and fb_today + 2 <= fb_budget and fb_24 + 2 <= FB_DAILY_CAP - FB_BREAKING_RESERVE
+    ig_normal_ok = ig_today + 2 <= ig_budget and ig_24 + 2 <= IG_DAILY_CAP - IG_BREAKING_RESERVE
+    log(f"{'active' if active else 'quiet hours'} | today FB {fb_today}/{fb_budget:.0f}, "
+        f"IG {ig_today}/{ig_budget:.0f}")
     page_links = set() if DRY else recent_page_links()
     n_breaking = n_normal = 0
     while queue and fb_24 + 2 <= FB_DAILY_CAP:
         br = [q for q in queue if is_breaking(q)]
-        if br and n_breaking < BREAKING_PER_RUN and brk_hour + n_breaking < BREAKING_PER_HOUR:
+        if (br and (active or BREAKING_24H) and n_breaking < BREAKING_PER_RUN
+                and brk_hour + n_breaking < BREAKING_PER_HOUR):
             pool, breaking = br, True
         elif normal_ok and n_normal < STORIES_PER_RUN:
             pool, breaking = queue, False
@@ -479,6 +511,10 @@ def main():
             posted.append(rec)  # recorded BEFORE posting: a crash can never cause a repeat
             save(state, seen, queue, posted)
         s["post_ts"] = time.time()
+        use_ig = breaking or ig_normal_ok  # decide once per story, so EN and NE go together
+        if use_ig:
+            ig_today += 2
+            ig_normal_ok = ig_today + 2 <= ig_budget and ig_24 + 4 <= IG_DAILY_CAP - IG_BREAKING_RESERVE
         for lang in ("en", "ne"):
             img = render(s, lang)
             fb_text, ig_text = captions(s, lang)
@@ -489,7 +525,7 @@ def main():
                 pid, url = post_facebook(img, fb_text)
                 rec["n_fb"] += 1; fb_24 += 1
                 log(f"FB {lang} ok {pid}{' [BREAKING]' if breaking else ''}")
-                if ig_24 + 1 <= IG_DAILY_CAP - (0 if breaking else IG_BREAKING_RESERVE):
+                if use_ig and ig_24 + 1 <= IG_DAILY_CAP - (0 if breaking else IG_BREAKING_RESERVE):
                     log(f"IG {lang} ok {post_instagram(url, ig_text)}")
                     rec["n_ig"] += 1; ig_24 += 1
             except Exception:
