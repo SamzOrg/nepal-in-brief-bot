@@ -23,7 +23,8 @@ from PIL import Image, ImageDraw, ImageFilter, ImageFont, ImageOps
 
 # ================= CONFIG =================
 BRAND          = "NEPAL IN BRIEF"
-# Translation + duplicate flags. Groq first; Gemini only if Groq fails (limit, outage, key issue).
+# Translation + duplicate flags. Full batches: Groq first, Gemini if Groq fails. Small urgent calls:
+# Gemini first, Groq if Gemini fails (spreads the daily load over both free tiers).
 # Max 1 successful request per run.
 GROQ_X = {"reasoning_effort": "low", "include_reasoning": False}
 PROVIDERS = [
@@ -35,6 +36,16 @@ PROVIDERS = [
 GRAPH          = "https://graph.facebook.com/v23.0"
 MAX_AGE_H      = 8      # stories older than this are dropped (seen + queue)
 LLM_BATCH      = 25     # max new items per LLM request (Groq free TPM is 8K, so keep <= ~30)
+LLM_MIN_BATCH  = 20     # wait for this many new headlines before a full AI call...
+LLM_MAX_WAIT_MIN = 30   # ...or until the oldest waiting one has waited this long.
+                        # Critical-looking headlines skip the wait via a small "urgent" call (below).
+LLM_MAX_OUT    = 2500   # reserved answer tokens. Groq counts prompt + this against its 8K/min limit
+# Headlines critical enough to translate right away in a small separate call (EN + NE words)
+CRITICAL = re.compile(r"\b(breaking|earthquakes?|quakes?|tremors?|floods?|flooded|flooding|flash[- ]floods?|"
+                      r"landslides?|avalanches?|glof|cloudbursts?|killed|dead|deaths?|dies|died|explosion|"
+                      r"blast|curfew|emergency|collapse\w*|defeat\w*|wins?)\b"
+                      r"|भूकम्प|बाढी|पहिरो|हिमपहिरो|मृत्यु|मृतक|विस्फोट|कर्फ्यु|संकटकाल|हरायो|जित्यो", re.I)
+URGENT_MAX = 4          # headlines per urgent call
 STORIES_PER_RUN = 1     # normal stories per run (each = 1 EN + 1 NE post); runs every ~10 min
 BREAKING_PER_RUN = 3    # breaking stories skip the pacing and go out immediately, up to this many
 BREAKING_PER_HOUR = 6   # hard cap so a busy news day can't turn into a flood of "breaking" posts
@@ -345,17 +356,18 @@ NEW:
 """
 
 
-def llm_translate(batch, existing):
+def llm_translate(batch, existing, prefer_gemini=False):
     prompt = PROMPT.format(
         existing="\n".join(f"E{i}: {t}" for i, t in enumerate(existing)) or "(none)",
         new="\n".join(f"{i} [{b['lang']}] {b['title']}" for i, b in enumerate(batch)))
-    for name, url, key_env, model, extra in PROVIDERS:
+    order = PROVIDERS[::-1] if prefer_gemini else PROVIDERS  # spread load across both free tiers
+    for name, url, key_env, model, extra in order:
         key = os.getenv(key_env)
         if not key:
             continue
         try:
             r = requests.post(url, headers={"Authorization": f"Bearer {key}"}, timeout=90,
-                              json={"model": model, "temperature": 0.1, "max_completion_tokens": 6000,
+                              json={"model": model, "temperature": 0.1, "max_completion_tokens": LLM_MAX_OUT,
                                     "response_format": {"type": "json_object"},
                                     "messages": [{"role": "user", "content": prompt}], **extra})
             if r.status_code != 200:
@@ -370,9 +382,9 @@ def llm_translate(batch, existing):
     raise RuntimeError("all LLM providers failed")
 
 
-def translate(batch, existing):
+def translate(batch, existing, prefer_gemini=False):
     """Raises if both models fail; caller then leaves the items unseen so the next run retries."""
-    res = llm_translate(batch, existing)
+    res = llm_translate(batch, existing, prefer_gemini)
     log(f"LLM translated {len(res)}/{len(batch)}")
     out = []
     for i, b in enumerate(batch):
@@ -576,19 +588,40 @@ def main():
         new.append(it)
     log(f"{len(items)} fresh items, {len(fresh)} unseen, {len(new)} after local dedupe")
 
-    # 3. ONE LLM request for up to LLM_BATCH new items (rest wait for next run)
-    if new:
-        batch = round_robin(new, LLM_BATCH)
-        # the AI must see EVERYTHING that could be the same story: all of the last 12h's posts and the
-        # whole queue (headlines trimmed to 70 chars to keep the request small)
-        posted_ctx = [p["en"][:70] for p in recent_posted if p["ts"] > now - 12 * 3600][-40:]
-        queue_ctx = queue[-60:]
-        existing = posted_ctx + [q["en"][:70] for q in queue_ctx]
+    # 3. ONE LLM request for up to LLM_BATCH new items (rest wait for next run).
+    #    Batched to save tokens: call only when enough headlines are waiting, one has waited too long,
+    #    or something looks urgent. Otherwise they are simply picked up again next run.
+    if new and not state.get("pending_since"):
+        state["pending_since"] = now
+    if not new:
+        state["pending_since"] = None
+    waited = now - (state.get("pending_since") or now) >= LLM_MAX_WAIT_MIN * 60
+    critical = [n for n in new if CRITICAL.search(n["title"])]
+    mode = "full" if new and (waited or len(new) >= LLM_MIN_BATCH) else "urgent" if critical else None
+    if new and not mode:
+        log(f"{len(new)} new headlines waiting for a fuller batch")
+    if mode == "full":
+        state["pending_since"] = None if len(new) <= LLM_BATCH else now
+    if mode:
+        if mode == "full":
+            batch = round_robin(new, LLM_BATCH)
+            # same-story context: the last 12h's posts (up to 30) + newest 40 queued, trimmed to 60 chars
+            posted_ctx = [p["en"][:60] for p in recent_posted if p["ts"] > now - 12 * 3600][-30:]
+            queue_ctx = queue[-40:]
+        else:
+            # small request: only the critical headlines, checked against the last 3h of posts
+            batch = critical[:URGENT_MAX]
+            posted_ctx = [p["en"][:60] for p in recent_posted if p["ts"] > now - 3 * 3600][-15:]
+            queue_ctx = []
+        log(f"LLM {mode} call: {len(batch)} headlines, {len(posted_ctx) + len(queue_ctx)} context")
+        existing = posted_ctx + [q["en"][:60] for q in queue_ctx]
         n_posted = len(posted_ctx)
         try:
-            done = translate(batch, existing)
+            # small urgent calls go to Gemini first, full batches to Groq first
+            done = translate(batch, existing, prefer_gemini=(mode == "urgent"))
         except Exception as ex:
             log(f"{ex}; these {len(batch)} items will retry next run")
+            state["pending_since"] = now - LLM_MAX_WAIT_MIN * 60  # retry on the very next run
             done, batch = [], []
         for b in batch:
             seen[b["link"]] = now
