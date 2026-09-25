@@ -30,7 +30,16 @@ PROVIDERS = [
 GRAPH          = "https://graph.facebook.com/v23.0"
 MAX_AGE_H      = 8      # stories older than this are dropped (seen + queue)
 LLM_BATCH      = 25     # max new items per LLM request (Groq free TPM is 8K, so keep <= ~30)
-STORIES_PER_RUN = 2     # each story = 1 EN + 1 NE post on each platform
+STORIES_PER_RUN = 1     # normal stories per run (each = 1 EN + 1 NE post); runs every ~10 min
+BREAKING_PER_RUN = 3    # breaking stories skip the pacing and go out immediately, up to this many
+BREAKING_PER_HOUR = 4   # hard cap so a busy news day can't turn into a flood of "breaking" posts
+BREAKING_MAX_AGE_MIN = 90  # only fresh stories can count as breaking
+MIN_GAP_MIN    = 10     # min minutes between normal (non-breaking) stories
+IG_BREAKING_RESERVE = 10  # IG posts kept free for breaking news in every rolling 24h
+BREAKING = re.compile(r"\b(breaking|earthquake|quake|flood\w*|landslide\w*|avalanche|inundat\w*|"
+                      r"killed|dead|death\w*|dies|died|fire|blaze|blast|explosion|crash\w*|accident|"
+                      r"collapse\w*|missing|rescue\w*|evacuat\w*|curfew|resign\w*|arrest\w*|"
+                      r"protest\w*|clash\w*|shoot\w*|attack\w*|emergency|alert|storm)\b", re.I)
 FB_DAILY_CAP   = 200    # FB posts per rolling 24h (no hard API cap; lower it if reach drops)
 IG_DAILY_CAP   = 96     # IG API hard limit is 100 per rolling 24h
 DUP_JACCARD    = 0.5    # word-overlap threshold for local duplicate detection
@@ -367,8 +376,9 @@ def main():
     # 3. ONE LLM request for up to LLM_BATCH new items (rest wait for next run)
     if new:
         batch = round_robin(new, LLM_BATCH)
-        existing = [p["en"] for p in recent_posted][-40:] + [q["en"] for q in queue]
-        n_posted = len([p["en"] for p in recent_posted][-40:])
+        # keep the dedupe context small: runs are frequent, so this is what dominates token use
+        existing = [p["en"] for p in recent_posted][-15:] + [q["en"] for q in queue][-15:]
+        n_posted = len([p["en"] for p in recent_posted][-15:])
         try:
             done = translate(batch, existing)
         except Exception as ex:
@@ -400,20 +410,42 @@ def main():
     ig_24 = sum(p.get("n_ig", 0) for p in posted if p["ts"] > now - 86400)
     log(f"queue {len(queue)} | last 24h: FB {fb_24}, IG {ig_24}")
 
+    def is_breaking(q):  # fresh AND (several outlets on it at once, or an urgent keyword)
+        fresh = time.time() - q["ts"] <= BREAKING_MAX_AGE_MIN * 60
+        return fresh and (q["hits"] >= 3 or bool(BREAKING.search(q["en"])))
+
+    brk_hour = sum(1 for p in posted if p.get("brk") and p["ts"] > time.time() - 3600)
+
+    last_post = max((p["ts"] for p in posted if p.get("n_fb")), default=0)
+    normal_ok = time.time() - last_post >= MIN_GAP_MIN * 60
     page_links = set() if DRY else recent_page_links()
-    for _ in range(STORIES_PER_RUN):
-        if not queue or fb_24 + 2 > FB_DAILY_CAP:
+    n_breaking = n_normal = 0
+    while queue and fb_24 + 2 <= FB_DAILY_CAP:
+        br = [q for q in queue if is_breaking(q)]
+        if br and n_breaking < BREAKING_PER_RUN and brk_hour + n_breaking < BREAKING_PER_HOUR:
+            pool, breaking = br, True
+        elif normal_ok and n_normal < STORIES_PER_RUN:
+            pool, breaking = queue, False
+        else:
             break
-        s = min(queue, key=lambda q: (-q["hits"], recent_src.count(q["source"]), -q["weight"], -q["ts"]))
+        s = min(pool, key=lambda q: (-q["hits"], recent_src.count(q["source"]), -q["weight"], -q["ts"]))
         queue.remove(s)
+        if breaking:
+            n_breaking += 1
+        else:
+            n_normal += 1
         recent_src.append(s["source"])
         if s["link"] in page_links:
             log(f"already on Page, skipping: {s['en']}")
+            if breaking:  # a skip doesn't use up this run's slot
+                n_breaking -= 1
+            else:
+                n_normal -= 1
             posted.append({"ts": time.time(), "en": s["en"], "ne": s["ne"], "link": s["link"],
                            "source": s["source"], "n_fb": 0, "n_ig": 0})
             continue
         rec = {"ts": time.time(), "en": s["en"], "ne": s["ne"], "link": s["link"],
-               "source": s["source"], "n_fb": 0, "n_ig": 0}
+               "source": s["source"], "n_fb": 0, "n_ig": 0, "brk": breaking}
         if not DRY:
             posted.append(rec)  # recorded BEFORE posting: a crash can never cause a repeat
             save(state, seen, queue, posted)
@@ -426,8 +458,8 @@ def main():
             try:
                 pid, url = post_facebook(img, fb_text)
                 rec["n_fb"] += 1; fb_24 += 1
-                log(f"FB {lang} ok {pid}")
-                if ig_24 + 1 <= IG_DAILY_CAP:
+                log(f"FB {lang} ok {pid}{' [BREAKING]' if breaking else ''}")
+                if ig_24 + 1 <= IG_DAILY_CAP - (0 if breaking else IG_BREAKING_RESERVE):
                     log(f"IG {lang} ok {post_instagram(url, ig_text)}")
                     rec["n_ig"] += 1; ig_24 += 1
             except Exception:
