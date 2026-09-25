@@ -52,7 +52,7 @@ BREAKING_PER_HOUR = 6   # hard cap so a busy news day can't turn into a flood of
 BREAKING_MAX_AGE_MIN = 90  # only fresh stories can count as breaking
 ACTIVE_HOURS   = (4, 23)  # Nepal time: regular news only from 04:00 to 23:00, daily limits spread evenly
 BREAKING_24H   = True     # breaking news may still post at night (uses the IG reserve below)
-IG_BREAKING_RESERVE = 16  # IG posts (8 stories) kept free for breaking news in every rolling 24h
+IG_BREAKING_RESERVE = 16  # IG posts (16 stories, English only) kept free for breaking news in every rolling 24h
 FB_BREAKING_RESERVE = 20  # FB posts (10 stories) kept free for breaking news
 # How much of the day's regular budget each hour gets (Nepal time). Follows when Nepali
 # audiences are online: morning scroll 6-9, lunch 12-2, and the big evening peak 6-10 PM.
@@ -81,6 +81,7 @@ BREAKING = re.compile(
     r"defeat\w*|wins?)\b", re.I)
 FB_DAILY_CAP   = 200    # FB posts per rolling 24h (no hard API cap; lower it if reach drops)
 IG_DAILY_CAP   = 96     # IG API hard limit is 100 per rolling 24h
+IG_LANGS       = ("en",)  # Instagram gets the English version only (1 IG post per story)
 DUP_JACCARD    = 0.5    # word-overlap threshold for local duplicate detection
 INCLUDE_SUMMARY = False  # False: caption = headline + source + link only (no copied article text)
 HASHTAGS_EN    = "#Nepal #NepalNews #NepalInBrief"
@@ -706,9 +707,9 @@ def main():
     fb_today = sum(p.get("n_fb", 0) for p in posted if p["ts"] >= since)
     ig_today = sum(p.get("n_ig", 0) for p in posted if p["ts"] >= since)
     fb_budget = (FB_DAILY_CAP - FB_BREAKING_RESERVE) * frac + 2   # posts allowed so far (+1 story slack)
-    ig_budget = (IG_DAILY_CAP - IG_BREAKING_RESERVE) * frac + 2
+    ig_budget = (IG_DAILY_CAP - IG_BREAKING_RESERVE) * frac + len(IG_LANGS)
     normal_ok = active and fb_today + 2 <= fb_budget and fb_24 + 2 <= FB_DAILY_CAP - FB_BREAKING_RESERVE
-    ig_normal_ok = ig_today + 2 <= ig_budget and ig_24 + 2 <= IG_DAILY_CAP - IG_BREAKING_RESERVE
+    ig_normal_ok = ig_today + len(IG_LANGS) <= ig_budget and ig_24 + len(IG_LANGS) <= IG_DAILY_CAP - IG_BREAKING_RESERVE
     log(f"{'active' if active else 'quiet hours'} | today FB {fb_today}/{fb_budget:.0f}, "
         f"IG {ig_today}/{ig_budget:.0f}")
     if DRY:  # preview: top 4 stories from different outlets, rendered in EN + NE
@@ -771,10 +772,11 @@ def main():
         s["post_ts"] = time.time()
         s["_photo"] = load_photo(s)
         s["_breaking"] = breaking
-        use_ig = breaking or ig_normal_ok  # decide once per story, so EN and NE go together
+        use_ig = breaking or ig_normal_ok  # decided once per story
         if use_ig:
-            ig_today += 2
-            ig_normal_ok = ig_today + 2 <= ig_budget and ig_24 + 4 <= IG_DAILY_CAP - IG_BREAKING_RESERVE
+            n = len(IG_LANGS)
+            ig_today += n
+            ig_normal_ok = ig_today + n <= ig_budget and ig_24 + 2 * n <= IG_DAILY_CAP - IG_BREAKING_RESERVE
         for lang in ("en", "ne"):
             img = render(s, lang)
             fb_text, ig_text = captions(s, lang)
@@ -785,7 +787,7 @@ def main():
                 pid, url = post_facebook(img, fb_text)
                 rec["n_fb"] += 1; fb_24 += 1
                 log(f"FB {lang} ok {pid}{' [BREAKING]' if breaking else ''}")
-                if use_ig and ig_24 + 1 <= IG_DAILY_CAP - (0 if breaking else IG_BREAKING_RESERVE):
+                if use_ig and lang in IG_LANGS and ig_24 + 1 <= IG_DAILY_CAP - (0 if breaking else IG_BREAKING_RESERVE):
                     log(f"IG {lang} ok {post_instagram(url, ig_text)}")
                     rec["n_ig"] += 1; ig_24 += 1
             except Exception:
