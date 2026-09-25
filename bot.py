@@ -50,6 +50,7 @@ STORIES_PER_RUN = 1     # normal stories per run (each = 1 EN + 1 NE post); runs
 BREAKING_PER_RUN = 1    # breaking stories skip the pacing and go out immediately, up to this many
 NORMAL_GAP_MIN = 30     # at most one regular (non-breaking) story every 30 minutes
 NORMAL_MIN_IMPACT = 3   # regular stories need AI impact >= 3 (1-5 scale); lower ones are never posted
+RESUME_LEAD_MIN = 45    # when posting is paused, start collecting again this long before it resumes
 MAX_STORIES_PER_RUN = 1 # never more than this many stories in one run (no bursts: Meta flags them as spam)
 POST_GAP_S = 45         # seconds between the EN and NE post of a story
 BLOCK_COOLDOWN_H = 6    # Meta spam block (error 368): stop posting this long, doubled if it happens again within 48h
@@ -620,6 +621,23 @@ def main():
     seen   = {k: v for k, v in state.get("seen", {}).items() if v > now - 2 * 86400}
     queue  = [q for q in state.get("queue", []) if q["ts"] > age_cut and not blocked(q.get("source"))]
     posted = [p for p in state.get("posted", []) if p["ts"] > now - 7 * 86400]
+
+    # 0. nothing can be posted for a while (Meta block, or the 24h cap is full)? Then skip the
+    #    whole run: no feed fetching, no AI calls. Work resumes 45 min before posting is possible,
+    #    so the queue is fresh and translated by then.
+    if not DRY:
+        def fb24(t):
+            return sum(p.get("n_fb", 0) for p in posted if t - 86400 < p["ts"] <= now)
+        cap_free = next((now + m * 300 for m in range(0, 24 * 12 + 1)
+                         if fb24(now + m * 300) + 2 <= FB_DAILY_CAP), now)
+        resume = max(cap_free, state.get("fb_block_until", 0))
+        if resume - now > RESUME_LEAD_MIN * 60:
+            why = "Meta spam-block cooldown" if resume == state.get("fb_block_until") else \
+                  f"24h Facebook cap full ({fb24(now)}/{FB_DAILY_CAP})"
+            log(f"paused: {why}. Posting possible from "
+                f"{datetime.fromtimestamp(resume, NPT):%d %b %H:%M} NPT; skipping this run "
+                f"(no fetch, no AI calls)")
+            return
 
     # 1. fetch + drop anything already seen / queued / posted
     with ThreadPoolExecutor(8) as ex:
