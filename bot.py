@@ -84,7 +84,7 @@ BREAKING = re.compile(
     r"curfew|resign\w*|arrest\w*|protest\w*|clash\w*|shoot\w*|attack\w*|emergency|alert|"
     # sports results
     r"defeat\w*|wins?)\b", re.I)
-FB_DAILY_CAP   = 60     # FB posts (= stories, 1 bilingual post each) per rolling 24h. 116 in a day got the Page spam-blocked
+FB_DAILY_CAP   = 0      # optional FB posts-per-24h cap; 0 = off (pacing below + the Meta-block pause keep volume safe)
 IG_DAILY_CAP   = 96     # IG API hard limit is 100 per rolling 24h
 DUP_JACCARD    = 0.5    # word-overlap threshold for local duplicate detection
 INCLUDE_SUMMARY = False  # False: caption = headline + source + link only (no copied article text)
@@ -655,8 +655,8 @@ def main():
     if not DRY:
         def fb24(t):
             return sum(p.get("n_fb", 0) for p in posted if t - 86400 < p["ts"] <= now)
-        cap_free = next((now + m * 300 for m in range(0, 24 * 12 + 1)
-                         if fb24(now + m * 300) + 1 <= FB_DAILY_CAP), now)
+        cap_free = now if not FB_DAILY_CAP else next(
+            (now + m * 300 for m in range(0, 24 * 12 + 1) if fb24(now + m * 300) + 1 <= FB_DAILY_CAP), now)
         resume = max(cap_free, state.get("fb_block_until", 0))
         if resume - now > RESUME_LEAD_MIN * 60:
             why = "Meta spam-block cooldown" if resume == state.get("fb_block_until") else \
@@ -786,13 +786,13 @@ def main():
     ig_budget = (IG_DAILY_CAP - IG_BREAKING_RESERVE) * frac + 1
     last_normal = max((p["ts"] for p in posted if p.get("n_fb") and not p.get("brk")), default=0)
     gap_ok = time.time() - last_normal >= (NORMAL_GAP_MIN - 1) * 60  # -1 min: runs drift by a few seconds
-    normal_ok = (active and gap_ok and fb_today + 1 <= fb_budget
-                 and fb_24 + 1 <= FB_DAILY_CAP - FB_BREAKING_RESERVE)
+    normal_ok = active and gap_ok and (not FB_DAILY_CAP or (
+        fb_today + 1 <= fb_budget and fb_24 + 1 <= FB_DAILY_CAP - FB_BREAKING_RESERVE))
     ig_normal_ok = ig_today + 1 <= ig_budget and ig_24 + 1 <= IG_DAILY_CAP - IG_BREAKING_RESERVE
     wait = max(0, (last_normal + NORMAL_GAP_MIN * 60 - time.time()) / 60)
     log(f"next regular story in {wait:.0f} min | "
         f"impact in queue: " + ", ".join(f"{k}:{sum(1 for q in queue if impact(q) == k)}" for k in (5, 4, 3, 2, 1)))
-    log(f"{'active' if active else 'quiet hours'} | today FB {fb_today}/{fb_budget:.0f}, "
+    log(f"{'active' if active else 'quiet hours'} | today FB {fb_today}/{f'{fb_budget:.0f}' if FB_DAILY_CAP else 'no cap'}, "
         f"IG {ig_today}/{ig_budget:.0f}")
     if DRY:  # preview: top 4 stories from different outlets, rendered in EN + NE
         picks, used = [], set()
@@ -825,7 +825,7 @@ def main():
         save(state, seen, queue, posted)
         return
     fb_blocked = False
-    while queue and not fb_blocked and n_breaking + n_normal < MAX_STORIES_PER_RUN and fb_24 + 1 <= FB_DAILY_CAP:
+    while queue and not fb_blocked and n_breaking + n_normal < MAX_STORIES_PER_RUN and (not FB_DAILY_CAP or fb_24 + 1 <= FB_DAILY_CAP):
         br = [q for q in queue if is_breaking(q)]
         if (br and (active or BREAKING_24H) and n_breaking < BREAKING_PER_RUN
                 and brk_hour + n_breaking < BREAKING_PER_HOUR):
