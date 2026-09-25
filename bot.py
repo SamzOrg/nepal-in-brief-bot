@@ -46,20 +46,19 @@ CRITICAL = re.compile(r"\b(breaking|earthquakes?|quakes?|tremors?|floods?|floode
                       r"blast|curfew|emergency|collapse\w*|defeat\w*|wins?)\b"
                       r"|भूकम्प|बाढी|पहिरो|हिमपहिरो|मृत्यु|मृतक|विस्फोट|कर्फ्यु|संकटकाल|हरायो|जित्यो", re.I)
 URGENT_MAX = 4          # headlines per urgent call
-STORIES_PER_RUN = 1     # normal stories per run (each = 1 EN + 1 NE post); runs every ~10 min
+STORIES_PER_RUN = 1     # normal stories per run (each = 1 bilingual post on FB and on IG); runs every ~10 min
 BREAKING_PER_RUN = 1    # breaking stories skip the pacing and go out immediately, up to this many
 NORMAL_GAP_MIN = 30     # at most one regular (non-breaking) story every 30 minutes
 NORMAL_MIN_IMPACT = 3   # regular stories need AI impact >= 3 (1-5 scale); lower ones are never posted
 RESUME_LEAD_MIN = 45    # when posting is paused, start collecting again this long before it resumes
 MAX_STORIES_PER_RUN = 1 # never more than this many stories in one run (no bursts: Meta flags them as spam)
-POST_GAP_S = 45         # seconds between the EN and NE post of a story
 BLOCK_COOLDOWN_H = 5    # Meta spam block (error 368): stop posting this long, doubled if it happens again within 48h
 BREAKING_PER_HOUR = 3   # hard cap so a busy news day can't turn into a flood of "breaking" posts
 BREAKING_MAX_AGE_MIN = 90  # only fresh stories can count as breaking
 ACTIVE_HOURS   = (4, 23)  # Nepal time: regular news only from 04:00 to 23:00, daily limits spread evenly
 BREAKING_24H   = True     # breaking news may still post at night (uses the IG reserve below)
-IG_BREAKING_RESERVE = 16  # IG posts (16 stories, English only) kept free for breaking news in every rolling 24h
-FB_BREAKING_RESERVE = 12  # FB posts (6 stories) kept free for breaking news
+IG_BREAKING_RESERVE = 8   # IG posts (stories) kept free for breaking news in every rolling 24h
+FB_BREAKING_RESERVE = 8   # FB posts (stories) kept free for breaking news
 # How much of the day's regular budget each hour gets (Nepal time). Follows when Nepali
 # audiences are online: morning scroll 6-9, lunch 12-2, and the big evening peak 6-10 PM.
 HOUR_WEIGHT = {4: 0.3, 5: 0.6, 6: 1.0, 7: 1.3, 8: 1.3, 9: 1.1, 10: 1.1, 11: 1.1, 12: 1.2,
@@ -85,9 +84,8 @@ BREAKING = re.compile(
     r"curfew|resign\w*|arrest\w*|protest\w*|clash\w*|shoot\w*|attack\w*|emergency|alert|"
     # sports results
     r"defeat\w*|wins?)\b", re.I)
-FB_DAILY_CAP   = 100    # FB posts per rolling 24h (no hard API cap, but 116 in a day got the Page spam-blocked)
+FB_DAILY_CAP   = 60     # FB posts (= stories, 1 bilingual post each) per rolling 24h. 116 in a day got the Page spam-blocked
 IG_DAILY_CAP   = 96     # IG API hard limit is 100 per rolling 24h
-IG_LANGS       = ("en",)  # Instagram gets the English version only (1 IG post per story)
 DUP_JACCARD    = 0.5    # word-overlap threshold for local duplicate detection
 INCLUDE_SUMMARY = False  # False: caption = headline + source + link only (no copied article text)
 HASHTAGS_EN    = "#Nepal #NepalNews #NepalInBrief"
@@ -140,31 +138,30 @@ FEEDS = [
 
 # ---- image ----
 HERE      = pathlib.Path(__file__).parent
-TEMPLATE  = HERE / "assets" / "template.jpg"   # branded template (1254x1254); headline goes in the panel
-BOX       = (100, 520, 1054, 400)              # headline area inside the panel: left, top, width, height
-STAMP_Y   = 482                                # centre line of the date pill, just under the LATEST ribbon
-TEXT_RGB  = (255, 255, 255)
-PHOTO_LAYOUT = "background"   # "background" (translucent photo behind the headline) or "off"
-PHOTO_OPACITY = 0.42          # how visible the photo is behind the headline (0 = hidden, 1 = full)
-PHOTO_TOP  = 515              # photo starts below the LATEST ribbon + date pill, fading in over PHOTO_FADE px
-PHOTO_FADE = 70
-TEXT_STROKE = 3               # thin black outline around the white headline
+TEXT_STROKE = 3               # outline around the headline (black on dark, white on the white template)
+PHOTO_LAYOUT = "background"   # "background" (translucent news photo behind the headlines) or "off"
+PHOTO_FADE = 60               # px over which the photo fades in below the date pill
 PHOTO_BLOCKLIST = set()       # outlet names whose photos must never be used, e.g. {"Kathmandu Post"}
-PANEL     = (49, 424, 1205, 954)   # the template's dark panel (where the photo goes)
 FONT_BOLD = [HERE / "assets" / "fonts" / "headline.ttf", "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf"]
 NAVY      = (14, 28, 64)
-# Per-language design: English posts use the dark template, Nepali posts the white one.
+THEME     = "alternate"       # "dark", "white", or "alternate" (dark and white take turns, story by story)
+HEADLINE_MAX_PX = 84          # biggest headline size; long headlines shrink to fit (same size for EN and NE)
+HEADLINE_LINE_H = 1.30        # line height as a multiple of the font size
+# One post per story: English headline on top, Nepali below. Panel = the template's box
+# (left, top, right, bottom); ribbon = bottom of the LATEST/BREAKING ribbon at the centre.
 STYLES = {
-    "en": {"template": TEMPLATE, "breaking_template": HERE / "assets" / "template_breaking.jpg", "panel": PANEL, "box": BOX, "photo_box": (100, 540, 1054, 370),
-           "stamp_y": STAMP_Y, "photo_top": PHOTO_TOP, "credit_at": (1150, 928),
-           "text": TEXT_RGB, "stroke": (0, 0, 0), "credit": (255, 255, 255, 128),
-           "dark_panel": True, "opacity": PHOTO_OPACITY},
-    "ne": {"template": HERE / "assets" / "template_ne.jpg",
-           "breaking_template": HERE / "assets" / "template_ne_breaking.jpg", "panel": (38, 440, 1218, 945),
-           "box": (100, 540, 1054, 380), "photo_box": (100, 555, 1054, 360),
-           "stamp_y": 500, "photo_top": 535, "credit_at": (1160, 922),
-           "text": NAVY, "stroke": (255, 255, 255), "credit": (14, 28, 64, 140),
-           "dark_panel": False, "opacity": 0.36},
+    "dark":  {"template": HERE / "assets" / "template.jpg",
+              "breaking_template": HERE / "assets" / "template_breaking.jpg",
+              "panel": (47, 352, 1208, 950), "ribbon": 360,
+              "breaking_panel": (47, 372, 1208, 972), "breaking_ribbon": 388,
+              "text": (255, 255, 255), "stroke": (0, 0, 0), "credit": (255, 255, 255, 128),
+              "dark_panel": True, "opacity": 0.42},
+    "white": {"template": HERE / "assets" / "template_ne.jpg",
+              "breaking_template": HERE / "assets" / "template_ne_breaking.jpg",
+              "panel": (38, 403, 1218, 942), "ribbon": 400,
+              "breaking_panel": (38, 408, 1218, 942), "breaking_ribbon": 411,
+              "text": NAVY, "stroke": (255, 255, 255), "credit": (14, 28, 64, 140),
+              "dark_panel": False, "opacity": 0.36},
 }
 # ==========================================
 
@@ -477,15 +474,14 @@ def date_stamp(ts):
     return f"{en}   |   {ne.translate(NE_DIGITS)}"
 
 
-def place_photo(img, photo, st):
-    """Translucent news photo behind the headline. The top of the panel (LATEST ribbon + date pill)
+def place_photo(img, photo, st, panel_box, photo_top):
+    """Translucent news photo behind the headlines. The top of the panel (ribbon + date pill)
     stays clean; the photo fades in below it. Border and red corners stay on top."""
-    panel_box = st["panel"]
     size = (panel_box[2] - panel_box[0], panel_box[3] - panel_box[1])
     ph = ImageOps.fit(photo, size).filter(ImageFilter.GaussianBlur(1.2))
     panel = img.crop(panel_box)
     # vertical alpha: 0 above photo_top, fading up to PHOTO_OPACITY
-    top = st["photo_top"] - panel_box[1]
+    top = photo_top - panel_box[1]
     col = [0 if y < top else int(255 * st["opacity"] * min(1, (y - top) / PHOTO_FADE)) for y in range(size[1])]
     alpha = Image.new("L", (1, size[1]))
     alpha.putdata(col)
@@ -504,45 +500,79 @@ def place_photo(img, photo, st):
     ImageDraw.Draw(shape).rounded_rectangle([4, 0, size[0] - 5, size[1] - 5], radius=26, fill=255)
     alpha = Image.composite(alpha, Image.new("L", size, 0), shape)
     img.paste(Image.composite(ph, panel, alpha), panel_box[:2])
-    return st["photo_box"], st["credit_at"]
 
 
-def render(story, lang):
-    """Headline in the template panel, optional news photo, date pill. Source + link go in the caption.
-    English uses the dark template, Nepali the white one (see STYLES)."""
+def balanced_wrap(draw, text, fnt, width):
+    """Same number of lines as a greedy wrap, but evenly filled (no lone word on the last line)."""
+    n = len(wrap(draw, text, fnt, width))
+    lo, hi = width // 2, width
+    while lo < hi:
+        mid = (lo + hi) // 2
+        if len(wrap(draw, text, fnt, mid)) <= n:
+            hi = mid
+        else:
+            lo = mid + 1
+    return wrap(draw, text, fnt, lo)
+
+
+def render(story, theme="dark"):
+    """One image per story: English headline on top, Nepali below, same size, optional translucent
+    news photo behind, date pill under the ribbon. Source + link go in the caption."""
     OUT.mkdir(exist_ok=True)
-    st = STYLES[lang]
-    tpl = st["breaking_template"] if story.get("_breaking") and st["breaking_template"].exists() else st["template"]
-    img = Image.open(tpl).convert("RGB")   # BREAKING ribbon for breaking news, LATEST otherwise
-    box, credit_at = st["box"], None
+    st = STYLES[theme]
+    brk = bool(story.get("_breaking")) and st["breaking_template"].exists()
+    img = Image.open(st["breaking_template"] if brk else st["template"]).convert("RGB")
+    panel = st["breaking_panel"] if brk else st["panel"]
+    l, top, r, b = panel
+    pill_y = (st["breaking_ribbon"] if brk else st["ribbon"]) + 40
+    x, w = l + 55, (r - l) - 110                 # side padding
+    y0, y1 = pill_y + 21 + 34, b - 40            # below the date pill, above the panel bottom
+    gap = 50                                     # space between the two languages (divider sits here)
+
+    credit = False
     photo = story.get("_photo")
     if photo is not None and PHOTO_LAYOUT != "off":
-        box, credit_at = place_photo(img, photo, st)
+        place_photo(img, photo, st, panel, pill_y + 30)
+        credit = True
     d = ImageDraw.Draw(img)
-    x, y, w, h = box
-    f, lines, lh = fit_text(d, story[lang], box, FONT_BOLD)
-    ty = y + (h - lh * len(lines)) // 2
-    for i, line in enumerate(lines):
-        lx = x + (w - d.textlength(line, font=f)) // 2
-        d.text((lx, ty + i * lh), line, font=f, fill=st["text"],
-               stroke_width=TEXT_STROKE, stroke_fill=st["stroke"])
 
-    if credit_at:  # small, semi-transparent photo credit
+    def height(size):  # both languages share the space; same font size for both
+        f = font(FONT_BOLD, size)
+        blocks = [wrap(d, story[k], f, w) for k in ("en", "ne")]
+        if any(d.textlength(line, font=f) > w for bl in blocks for line in bl):
+            return 10 ** 6
+        return sum(len(bl) for bl in blocks) * int(size * HEADLINE_LINE_H) + gap
+
+    size = HEADLINE_MAX_PX
+    while size > 40 and height(size) > y1 - y0:
+        size -= 2
+    f, lh = font(FONT_BOLD, size), int(size * HEADLINE_LINE_H)
+    blocks = [balanced_wrap(d, story[k], f, w) for k in ("en", "ne")]
+    ty = y0 + (y1 - y0 - (sum(len(bl) for bl in blocks) * lh + gap)) // 2
+    for i, bl in enumerate(blocks):
+        for line in bl:
+            lx = x + (w - d.textlength(line, font=f)) // 2
+            d.text((lx, ty), line, font=f, fill=st["text"], stroke_width=TEXT_STROKE, stroke_fill=st["stroke"])
+            ty += lh
+        if i == 0:  # small red divider between English and Nepali
+            my = ty + gap // 2 - lh * 0.08
+            d.line([(627 - 190, my), (627 + 190, my)], fill=(220, 30, 45), width=4)
+            ty += gap
+
+    if credit:  # small, semi-transparent photo credit
         layer = Image.new("RGBA", img.size, (0, 0, 0, 0))
-        ImageDraw.Draw(layer).text(credit_at, f"Photo: {story['source']}", font=font(FONT_BOLD, 17),
+        ImageDraw.Draw(layer).text((r - 50, b - 22), f"Photo: {story['source']}", font=font(FONT_BOLD, 17),
                                    fill=st["credit"], anchor="rs")
         img = Image.alpha_composite(img.convert("RGBA"), layer).convert("RGB")
         d = ImageDraw.Draw(img)
 
-    # date pill under the LATEST ribbon (same post time on the EN and NE image)
     stamp = date_stamp(story.get("post_ts") or time.time())
     sf = font(FONT_BOLD, 28)
-    sy = st["stamp_y"]
     cx, sw = 627, d.textlength(stamp, font=sf)
-    d.rounded_rectangle([cx - sw / 2 - 24, sy - 21, cx + sw / 2 + 24, sy + 21],
+    d.rounded_rectangle([cx - sw / 2 - 24, pill_y - 21, cx + sw / 2 + 24, pill_y + 21],
                         radius=21, fill=(8, 14, 32), outline=(220, 30, 45), width=2)
-    d.text((cx, sy), stamp, font=sf, fill=(255, 255, 255), anchor="mm")
-    path = OUT / f"{int(time.time()*1000)}_{lang}.jpg"
+    d.text((cx, pill_y), stamp, font=sf, fill=(255, 255, 255), anchor="mm")
+    path = OUT / f"{int(time.time()*1000)}_{theme}.jpg"
     img.save(path, "JPEG", quality=92, optimize=True)  # IG accepts JPEG only
     return path
 
@@ -580,16 +610,13 @@ def post_instagram(img_url, text):
     return graph("POST", f"{ig}/media_publish", creation_id=cid)["id"]
 
 
-def captions(s, lang):
-    summ = s["summary"] if INCLUDE_SUMMARY and s["lang"] == lang and s["summary"] else ""
-    body = f"{s[lang]}\n\n{summ + chr(10) + chr(10) if summ else ''}"
-    if lang == "ne":
-        fb = f"{body}पूरा समाचार: {s['link']}\nस्रोत: {s['source']}\n\n{HASHTAGS_NE}"
-        ig = f"{body}स्रोत: {s['source']}\nपूरा समाचार: {s['link']}\n\n{HASHTAGS_NE}"
-    else:
-        fb = f"{body}Read more: {s['link']}\nSource: {s['source']}\n\n{HASHTAGS_EN}"
-        ig = f"{body}Source: {s['source']}\nFull story: {s['link']}\n\n{HASHTAGS_EN}"
-    return fb, ig
+def captions(s):
+    """One caption with both languages (same text on FB and IG)."""
+    tags = HASHTAGS_EN + " " + " ".join(t for t in HASHTAGS_NE.split() if t not in HASHTAGS_EN.split())
+    text = (f"{s['en']}\n{s['ne']}\n\n"
+            f"Source / स्रोत: {s['source']}\n"
+            f"Read more / पूरा समाचार: {s['link']}\n\n{tags}")
+    return text, text
 
 
 def ig_quota():
@@ -629,7 +656,7 @@ def main():
         def fb24(t):
             return sum(p.get("n_fb", 0) for p in posted if t - 86400 < p["ts"] <= now)
         cap_free = next((now + m * 300 for m in range(0, 24 * 12 + 1)
-                         if fb24(now + m * 300) + 2 <= FB_DAILY_CAP), now)
+                         if fb24(now + m * 300) + 1 <= FB_DAILY_CAP), now)
         resume = max(cap_free, state.get("fb_block_until", 0))
         if resume - now > RESUME_LEAD_MIN * 60:
             why = "Meta spam-block cooldown" if resume == state.get("fb_block_until") else \
@@ -755,13 +782,13 @@ def main():
     since = day_start - (24 - (end_h - start_h)) * 3600
     fb_today = sum(p.get("n_fb", 0) for p in posted if p["ts"] >= since)
     ig_today = sum(p.get("n_ig", 0) for p in posted if p["ts"] >= since)
-    fb_budget = (FB_DAILY_CAP - FB_BREAKING_RESERVE) * frac + 2   # posts allowed so far (+1 story slack)
-    ig_budget = (IG_DAILY_CAP - IG_BREAKING_RESERVE) * frac + len(IG_LANGS)
+    fb_budget = (FB_DAILY_CAP - FB_BREAKING_RESERVE) * frac + 1   # posts allowed so far (+1 story slack)
+    ig_budget = (IG_DAILY_CAP - IG_BREAKING_RESERVE) * frac + 1
     last_normal = max((p["ts"] for p in posted if p.get("n_fb") and not p.get("brk")), default=0)
     gap_ok = time.time() - last_normal >= (NORMAL_GAP_MIN - 1) * 60  # -1 min: runs drift by a few seconds
-    normal_ok = (active and gap_ok and fb_today + 2 <= fb_budget
-                 and fb_24 + 2 <= FB_DAILY_CAP - FB_BREAKING_RESERVE)
-    ig_normal_ok = ig_today + len(IG_LANGS) <= ig_budget and ig_24 + len(IG_LANGS) <= IG_DAILY_CAP - IG_BREAKING_RESERVE
+    normal_ok = (active and gap_ok and fb_today + 1 <= fb_budget
+                 and fb_24 + 1 <= FB_DAILY_CAP - FB_BREAKING_RESERVE)
+    ig_normal_ok = ig_today + 1 <= ig_budget and ig_24 + 1 <= IG_DAILY_CAP - IG_BREAKING_RESERVE
     wait = max(0, (last_normal + NORMAL_GAP_MIN * 60 - time.time()) / 60)
     log(f"next regular story in {wait:.0f} min | "
         f"impact in queue: " + ", ".join(f"{k}:{sum(1 for q in queue if impact(q) == k)}" for k in (5, 4, 3, 2, 1)))
@@ -779,8 +806,8 @@ def main():
             q["_photo"] = load_photo(q)
             q["_breaking"] = is_breaking(q)
             log(f"[PREVIEW] {q['source']}{' [BREAKING]' if q['_breaking'] else ''}: photo {'found' if q['_photo'] is not None else 'NOT found'} | {q['en']}")
-            for lang in ("en", "ne"):
-                log(f"   {lang}: {render(q, lang)}")
+            for theme in ("dark", "white"):
+                log(f"   {theme}: {render(q, theme)}")
         return
 
     page_links = set() if DRY else recent_page_links()
@@ -788,7 +815,7 @@ def main():
     if q is not None:
         log(f"IG quota from Meta: {q}/100 used in last 24h (bot's own count {ig_24})")
         ig_24 = max(ig_24, q)
-        ig_normal_ok = ig_normal_ok and ig_24 + len(IG_LANGS) <= IG_DAILY_CAP - IG_BREAKING_RESERVE
+        ig_normal_ok = ig_normal_ok and ig_24 + 1 <= IG_DAILY_CAP - IG_BREAKING_RESERVE
     n_breaking = n_normal = 0
     blocks = [b for b in state.get("fb_blocks", []) if b > now - 48 * 3600]
     block_until = state.get("fb_block_until", 0)
@@ -798,7 +825,7 @@ def main():
         save(state, seen, queue, posted)
         return
     fb_blocked = False
-    while queue and not fb_blocked and n_breaking + n_normal < MAX_STORIES_PER_RUN and fb_24 + 2 <= FB_DAILY_CAP:
+    while queue and not fb_blocked and n_breaking + n_normal < MAX_STORIES_PER_RUN and fb_24 + 1 <= FB_DAILY_CAP:
         br = [q for q in queue if is_breaking(q)]
         if (br and (active or BREAKING_24H) and n_breaking < BREAKING_PER_RUN
                 and brk_hour + n_breaking < BREAKING_PER_HOUR):
@@ -842,26 +869,26 @@ def main():
         s["post_ts"] = time.time()
         s["_photo"] = load_photo(s)
         s["_breaking"] = breaking
-        use_ig = breaking or ig_normal_ok  # decided once per story
+        use_ig = breaking or ig_normal_ok
         if use_ig:
-            n = len(IG_LANGS)
-            ig_today += n
-            ig_normal_ok = ig_today + n <= ig_budget and ig_24 + 2 * n <= IG_DAILY_CAP - IG_BREAKING_RESERVE
-        for lang in ("en", "ne"):
-            img = render(s, lang)
-            fb_text, ig_text = captions(s, lang)
-            if DRY:
-                log(f"[DRY] {img}\n--- FB {lang} ---\n{fb_text}\n--- IG {lang} ---\n{ig_text}\n")
-                continue
+            ig_today += 1
+            ig_normal_ok = ig_today + 1 <= ig_budget and ig_24 + 2 <= IG_DAILY_CAP - IG_BREAKING_RESERVE
+        # dark and white templates take turns (THEME = "alternate"), or a fixed one
+        theme = THEME if THEME in STYLES else ("dark", "white")[sum(1 for p in posted if p.get("n_fb")) % 2]
+        img = render(s, theme)
+        fb_text, ig_text = captions(s)
+        if DRY:
+            log(f"[DRY] {img}\n--- caption ---\n{fb_text}\n")
+        else:
             try:
                 pid, url = post_facebook(img, fb_text)
                 rec["n_fb"] += 1; fb_24 += 1
-                log(f"FB {lang} ok {pid}{' [BREAKING]' if breaking else ''} impact {s.get('imp')}")
-                if use_ig and lang in IG_LANGS and ig_24 + 1 <= IG_DAILY_CAP - (0 if breaking else IG_BREAKING_RESERVE):
-                    log(f"IG {lang} ok {post_instagram(url, ig_text)}")
+                log(f"FB ok {pid} ({theme}){' [BREAKING]' if breaking else ''} impact {s.get('imp')}")
+                if use_ig and ig_24 + 1 <= IG_DAILY_CAP - (0 if breaking else IG_BREAKING_RESERVE):
+                    log(f"IG ok {post_instagram(url, ig_text)}")
                     rec["n_ig"] += 1; ig_24 += 1
             except Exception as ex:
-                log(f"POST FAIL {lang}:\n" + traceback.format_exc())
+                log("POST FAIL:\n" + traceback.format_exc())
                 if "'code': 368" in str(ex):  # Meta rate/spam block: stop and back off, don't keep hammering
                     hours = BLOCK_COOLDOWN_H * 2 ** len(blocks)
                     blocks.append(time.time())
@@ -872,9 +899,7 @@ def main():
                     if rec["n_fb"] == 0 and rec in posted:  # nothing went out: keep the story for later
                         posted.remove(rec)
                         queue.append(s)
-                    break
             save(state, seen, queue, posted)
-            time.sleep(POST_GAP_S)
         s.pop("_photo", None)
         s.pop("_breaking", None)
     save(state, seen, queue, posted)
