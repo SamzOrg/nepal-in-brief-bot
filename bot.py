@@ -148,11 +148,12 @@ FONT_BOLD = [HERE / "assets" / "fonts" / "headline.ttf", "/usr/share/fonts/truet
 NAVY      = (14, 28, 64)
 # Per-language design: English posts use the dark template, Nepali posts the white one.
 STYLES = {
-    "en": {"template": TEMPLATE, "panel": PANEL, "box": BOX, "photo_box": (100, 540, 1054, 370),
+    "en": {"template": TEMPLATE, "breaking_template": HERE / "assets" / "template_breaking.jpg", "panel": PANEL, "box": BOX, "photo_box": (100, 540, 1054, 370),
            "stamp_y": STAMP_Y, "photo_top": PHOTO_TOP, "credit_at": (1150, 928),
            "text": TEXT_RGB, "stroke": (0, 0, 0), "credit": (255, 255, 255, 128),
            "dark_panel": True, "opacity": PHOTO_OPACITY},
-    "ne": {"template": HERE / "assets" / "template_ne.jpg", "panel": (38, 440, 1218, 945),
+    "ne": {"template": HERE / "assets" / "template_ne.jpg",
+           "breaking_template": HERE / "assets" / "template_ne_breaking.jpg", "panel": (38, 440, 1218, 945),
            "box": (100, 540, 1054, 380), "photo_box": (100, 555, 1054, 360),
            "stamp_y": 500, "photo_top": 535, "credit_at": (1160, 922),
            "text": NAVY, "stroke": (255, 255, 255), "credit": (14, 28, 64, 140),
@@ -496,7 +497,8 @@ def render(story, lang):
     English uses the dark template, Nepali the white one (see STYLES)."""
     OUT.mkdir(exist_ok=True)
     st = STYLES[lang]
-    img = Image.open(st["template"]).convert("RGB")
+    tpl = st["breaking_template"] if story.get("_breaking") and st["breaking_template"].exists() else st["template"]
+    img = Image.open(tpl).convert("RGB")   # BREAKING ribbon for breaking news, LATEST otherwise
     box, credit_at = st["box"], None
     photo = story.get("_photo")
     if photo is not None and PHOTO_LAYOUT != "off":
@@ -768,6 +770,7 @@ def main():
             save(state, seen, queue, posted)
         s["post_ts"] = time.time()
         s["_photo"] = load_photo(s)
+        s["_breaking"] = breaking
         use_ig = breaking or ig_normal_ok  # decide once per story, so EN and NE go together
         if use_ig:
             ig_today += 2
@@ -790,6 +793,7 @@ def main():
             save(state, seen, queue, posted)
             time.sleep(8)
         s.pop("_photo", None)
+        s.pop("_breaking", None)
     save(state, seen, queue, posted)
 
 
