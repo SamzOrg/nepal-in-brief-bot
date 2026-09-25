@@ -145,6 +145,19 @@ TEXT_STROKE = 3               # thin black outline around the white headline
 PHOTO_BLOCKLIST = set()       # outlet names whose photos must never be used, e.g. {"Kathmandu Post"}
 PANEL     = (49, 424, 1205, 954)   # the template's dark panel (where the photo goes)
 FONT_BOLD = [HERE / "assets" / "fonts" / "headline.ttf", "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf"]
+NAVY      = (14, 28, 64)
+# Per-language design: English posts use the dark template, Nepali posts the white one.
+STYLES = {
+    "en": {"template": TEMPLATE, "panel": PANEL, "box": BOX, "photo_box": (100, 540, 1054, 370),
+           "stamp_y": STAMP_Y, "photo_top": PHOTO_TOP, "credit_at": (1150, 928),
+           "text": TEXT_RGB, "stroke": (0, 0, 0), "credit": (255, 255, 255, 128),
+           "dark_panel": True, "opacity": PHOTO_OPACITY},
+    "ne": {"template": HERE / "assets" / "template_ne.jpg", "panel": (38, 440, 1218, 945),
+           "box": (100, 540, 1054, 380), "photo_box": (100, 555, 1054, 360),
+           "stamp_y": 500, "photo_top": 535, "credit_at": (1160, 922),
+           "text": NAVY, "stroke": (255, 255, 255), "credit": (14, 28, 64, 140),
+           "dark_panel": False, "opacity": 0.36},
+}
 # ==========================================
 
 STATE = HERE / "state.json"
@@ -448,56 +461,70 @@ def date_stamp(ts):
     return f"{en}   |   {ne.translate(NE_DIGITS)}"
 
 
-def place_photo(img, photo):
+def place_photo(img, photo, st):
     """Translucent news photo behind the headline. The top of the panel (LATEST ribbon + date pill)
     stays clean; the photo fades in below it. Border and red corners stay on top."""
-    size = (PANEL[2] - PANEL[0], PANEL[3] - PANEL[1])
+    panel_box = st["panel"]
+    size = (panel_box[2] - panel_box[0], panel_box[3] - panel_box[1])
     ph = ImageOps.fit(photo, size).filter(ImageFilter.GaussianBlur(1.2))
-    panel = img.crop(PANEL)
-    # vertical alpha: 0 above PHOTO_TOP, fading up to PHOTO_OPACITY
-    top = PHOTO_TOP - PANEL[1]
-    col = [0 if y < top else int(255 * PHOTO_OPACITY * min(1, (y - top) / PHOTO_FADE)) for y in range(size[1])]
+    panel = img.crop(panel_box)
+    # vertical alpha: 0 above photo_top, fading up to PHOTO_OPACITY
+    top = st["photo_top"] - panel_box[1]
+    col = [0 if y < top else int(255 * st["opacity"] * min(1, (y - top) / PHOTO_FADE)) for y in range(size[1])]
     alpha = Image.new("L", (1, size[1]))
     alpha.putdata(col)
     alpha = alpha.resize(size)
     # never paint over the template's own details (panel border, red corner accents)
-    details = panel.convert("L").point(lambda v: 255 if v > 55 else 0).filter(ImageFilter.MaxFilter(5))
+    if st["dark_panel"]:
+        details = panel.convert("L").point(lambda v: 255 if v > 55 else 0)
+    else:  # white panel: details are the coloured / darker pixels
+        hsv_s = panel.convert("HSV").split()[1].point(lambda v: 255 if v > 70 else 0)
+        dark = panel.convert("L").point(lambda v: 255 if v < 200 else 0)
+        details = Image.composite(Image.new("L", size, 255), dark, hsv_s)
+    details = details.filter(ImageFilter.MaxFilter(5))
     alpha = Image.composite(Image.new("L", size, 0), alpha, details)
-    img.paste(Image.composite(ph, panel, alpha), PANEL[:2])
-    return (100, 540, 1054, 370), (1150, 928)
+    # keep the photo inside the panel's rounded corners
+    shape = Image.new("L", size, 0)
+    ImageDraw.Draw(shape).rounded_rectangle([4, 0, size[0] - 5, size[1] - 5], radius=26, fill=255)
+    alpha = Image.composite(alpha, Image.new("L", size, 0), shape)
+    img.paste(Image.composite(ph, panel, alpha), panel_box[:2])
+    return st["photo_box"], st["credit_at"]
 
 
 def render(story, lang):
-    """Headline in the template panel, optional news photo, date pill. Source + link go in the caption."""
+    """Headline in the template panel, optional news photo, date pill. Source + link go in the caption.
+    English uses the dark template, Nepali the white one (see STYLES)."""
     OUT.mkdir(exist_ok=True)
-    img = Image.open(TEMPLATE).convert("RGB")
-    box, credit_at = BOX, None
+    st = STYLES[lang]
+    img = Image.open(st["template"]).convert("RGB")
+    box, credit_at = st["box"], None
     photo = story.get("_photo")
     if photo is not None and PHOTO_LAYOUT != "off":
-        box, credit_at = place_photo(img, photo)
+        box, credit_at = place_photo(img, photo, st)
     d = ImageDraw.Draw(img)
     x, y, w, h = box
     f, lines, lh = fit_text(d, story[lang], box, FONT_BOLD)
     ty = y + (h - lh * len(lines)) // 2
     for i, line in enumerate(lines):
         lx = x + (w - d.textlength(line, font=f)) // 2
-        d.text((lx, ty + i * lh), line, font=f, fill=TEXT_RGB,
-               stroke_width=TEXT_STROKE, stroke_fill=(0, 0, 0))
+        d.text((lx, ty + i * lh), line, font=f, fill=st["text"],
+               stroke_width=TEXT_STROKE, stroke_fill=st["stroke"])
 
-    # date pill under the LATEST ribbon (same post time on the EN and NE image)
-    if credit_at:  # small, 50% transparent photo credit
+    if credit_at:  # small, semi-transparent photo credit
         layer = Image.new("RGBA", img.size, (0, 0, 0, 0))
         ImageDraw.Draw(layer).text(credit_at, f"Photo: {story['source']}", font=font(FONT_BOLD, 17),
-                                   fill=(255, 255, 255, 128), anchor="rs")
+                                   fill=st["credit"], anchor="rs")
         img = Image.alpha_composite(img.convert("RGBA"), layer).convert("RGB")
         d = ImageDraw.Draw(img)
 
+    # date pill under the LATEST ribbon (same post time on the EN and NE image)
     stamp = date_stamp(story.get("post_ts") or time.time())
     sf = font(FONT_BOLD, 28)
-    cx, sw = BOX[0] + BOX[2] // 2, d.textlength(stamp, font=sf)
-    d.rounded_rectangle([cx - sw / 2 - 24, STAMP_Y - 21, cx + sw / 2 + 24, STAMP_Y + 21],
+    sy = st["stamp_y"]
+    cx, sw = 627, d.textlength(stamp, font=sf)
+    d.rounded_rectangle([cx - sw / 2 - 24, sy - 21, cx + sw / 2 + 24, sy + 21],
                         radius=21, fill=(8, 14, 32), outline=(220, 30, 45), width=2)
-    d.text((cx, STAMP_Y), stamp, font=sf, fill=TEXT_RGB, anchor="mm")
+    d.text((cx, sy), stamp, font=sf, fill=(255, 255, 255), anchor="mm")
     path = OUT / f"{int(time.time()*1000)}_{lang}.jpg"
     img.save(path, "JPEG", quality=92, optimize=True)  # IG accepts JPEG only
     return path
