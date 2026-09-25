@@ -62,6 +62,15 @@ INCLUDE_SUMMARY = False  # False: caption = headline + source + link only (no co
 HASHTAGS_EN    = "#Nepal #NepalNews #NepalInBrief"
 HASHTAGS_NE    = "#नेपाल #समाचार #NepalInBrief"
 
+# Outlets never to post from (matched anywhere in the source name, case-insensitive).
+# Covers stories that arrive via Google News under the publisher's name.
+SOURCE_BLOCKLIST = ["nepalnews"]   # nepalnews.com: undated / very late updates
+
+
+def blocked(source):
+    return any(b in (source or "").lower() for b in SOURCE_BLOCKLIST)
+
+
 NEPAL = re.compile(r"\b(nepal\w*|kathmandu|pokhara|lumbini|everest|sagarmatha|himalaya\w*|"
                    r"terai|madhesh|gurkha\w*|gorkha\w*|lalitpur|bhaktapur|biratnagar|birgunj|"
                    r"chitwan|janakpur)\b", re.I)
@@ -251,6 +260,8 @@ def fetch(feed):
             src = (e.get("source") or {}).get("title") or name
             title, summary = re.sub(rf"\s+-\s+{re.escape(src)}$", "", title), ""
         if needs_nepal and not NEPAL.search(f"{title} {summary}"):
+            continue
+        if blocked(src):
             continue
         if title and link:
             out.append({"title": title, "summary": shorten(summary, 220), "link": link,
@@ -496,7 +507,7 @@ def main():
     now = time.time()
     age_cut = now - MAX_AGE_H * 3600
     seen   = {k: v for k, v in state.get("seen", {}).items() if v > now - 2 * 86400}
-    queue  = [q for q in state.get("queue", []) if q["ts"] > age_cut]
+    queue  = [q for q in state.get("queue", []) if q["ts"] > age_cut and not blocked(q.get("source"))]
     posted = [p for p in state.get("posted", []) if p["ts"] > now - 7 * 86400]
 
     # 1. fetch + drop anything already seen / queued / posted
