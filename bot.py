@@ -48,6 +48,8 @@ CRITICAL = re.compile(r"\b(breaking|earthquakes?|quakes?|tremors?|floods?|floode
 URGENT_MAX = 4          # headlines per urgent call
 STORIES_PER_RUN = 1     # normal stories per run (each = 1 EN + 1 NE post); runs every ~10 min
 BREAKING_PER_RUN = 1    # breaking stories skip the pacing and go out immediately, up to this many
+NORMAL_GAP_MIN = 30     # at most one regular (non-breaking) story every 30 minutes
+NORMAL_MIN_IMPACT = 3   # regular stories need AI impact >= 3 (1-5 scale); lower ones are never posted
 MAX_STORIES_PER_RUN = 1 # never more than this many stories in one run (no bursts: Meta flags them as spam)
 POST_GAP_S = 45         # seconds between the EN and NE post of a story
 BLOCK_COOLDOWN_H = 6    # Meta spam block (error 368): stop posting this long, doubled if it happens again within 48h
@@ -367,8 +369,12 @@ For each NEW item:
   Devanagari). Faithful, concise, news-headline style, max 100 characters, no added facts, no quotes.
 - "d": if it reports the SAME event as an EXISTING story or an EARLIER new item, give that ref
   ("E3" or "5"); otherwise null.
+- "s": impact for people in Nepal, 1-5. 5 = national emergency or major disaster, many deaths, fall of
+  government. 4 = important national news: deaths, major decisions, highways or services shut, big Nepal
+  sports results. 3 = notable news worth sharing. 2 = routine or local. 1 = trivial, photo features,
+  events, or foreign news with little bearing on Nepal.
 
-Respond with JSON only: {{"r": [{{"i": 0, "t": "...", "d": null}}]}} with one entry per new item.
+Respond with JSON only: {{"r": [{{"i": 0, "t": "...", "d": null, "s": 3}}]}} with one entry per new item.
 
 EXISTING:
 {existing}
@@ -398,7 +404,7 @@ def llm_translate(batch, existing, prefer_gemini=False):
             text = text[text.find("{"):text.rfind("}") + 1]  # tolerate ```json fences
             rows = json.loads(text)["r"]
             log(f"LLM ok via {name}")
-            return {int(x["i"]): (clean(x.get("t", "")), x.get("d")) for x in rows if "i" in x}
+            return {int(x["i"]): (clean(x.get("t", "")), x.get("d"), x.get("s")) for x in rows if "i" in x}
         except Exception as ex:
             log(f"LLM {name} failed: {ex!r}")
     raise RuntimeError("all LLM providers failed")
@@ -410,10 +416,14 @@ def translate(batch, existing, prefer_gemini=False):
     log(f"LLM translated {len(res)}/{len(batch)}")
     out = []
     for i, b in enumerate(batch):
-        t, d = res.get(i, ("", None))
+        t, d, imp = res.get(i, ("", None, None))
         if t:
             b["en"], b["ne"] = (t, b["title"]) if b["lang"] == "ne" else (b["title"], t)
             b["dup"] = d
+            try:
+                b["imp"] = min(5, max(1, int(imp)))
+            except (TypeError, ValueError):
+                b["imp"] = None  # unknown: treated as 3
             out.append(b)
     return out
 
@@ -699,7 +709,14 @@ def main():
 
     def is_breaking(q):  # fresh AND (several outlets on it at once, or an urgent keyword)
         fresh = time.time() - q["ts"] <= BREAKING_MAX_AGE_MIN * 60
-        return fresh and bool(BREAKING.search(q["en"]))  # urgent keyword required (3+ outlets alone isn't breaking)
+        imp = q.get("imp")
+        if imp is None:  # no AI score: urgent keyword decides
+            return fresh and bool(BREAKING.search(q["en"]))
+        # AI score 5 is always breaking; 4 needs an urgent keyword too
+        return fresh and (imp >= 5 or (imp >= 4 and bool(BREAKING.search(q["en"]))))
+
+    def impact(q):
+        return q.get("imp") or 3
 
     brk_hour = sum(1 for p in posted if p.get("brk") and p["ts"] > time.time() - 3600)
 
@@ -722,8 +739,14 @@ def main():
     ig_today = sum(p.get("n_ig", 0) for p in posted if p["ts"] >= since)
     fb_budget = (FB_DAILY_CAP - FB_BREAKING_RESERVE) * frac + 2   # posts allowed so far (+1 story slack)
     ig_budget = (IG_DAILY_CAP - IG_BREAKING_RESERVE) * frac + len(IG_LANGS)
-    normal_ok = active and fb_today + 2 <= fb_budget and fb_24 + 2 <= FB_DAILY_CAP - FB_BREAKING_RESERVE
+    last_normal = max((p["ts"] for p in posted if p.get("n_fb") and not p.get("brk")), default=0)
+    gap_ok = time.time() - last_normal >= (NORMAL_GAP_MIN - 1) * 60  # -1 min: runs drift by a few seconds
+    normal_ok = (active and gap_ok and fb_today + 2 <= fb_budget
+                 and fb_24 + 2 <= FB_DAILY_CAP - FB_BREAKING_RESERVE)
     ig_normal_ok = ig_today + len(IG_LANGS) <= ig_budget and ig_24 + len(IG_LANGS) <= IG_DAILY_CAP - IG_BREAKING_RESERVE
+    wait = max(0, (last_normal + NORMAL_GAP_MIN * 60 - time.time()) / 60)
+    log(f"next regular story in {wait:.0f} min | "
+        f"impact in queue: " + ", ".join(f"{k}:{sum(1 for q in queue if impact(q) == k)}" for k in (5, 4, 3, 2, 1)))
     log(f"{'active' if active else 'quiet hours'} | today FB {fb_today}/{fb_budget:.0f}, "
         f"IG {ig_today}/{ig_budget:.0f}")
     if DRY:  # preview: top 4 stories from different outlets, rendered in EN + NE
@@ -762,11 +785,12 @@ def main():
         if (br and (active or BREAKING_24H) and n_breaking < BREAKING_PER_RUN
                 and brk_hour + n_breaking < BREAKING_PER_HOUR):
             pool, breaking = br, True
-        elif normal_ok and n_normal < STORIES_PER_RUN:
-            pool, breaking = queue, False
+        elif normal_ok and n_normal < STORIES_PER_RUN and any(impact(q) >= NORMAL_MIN_IMPACT for q in queue):
+            pool, breaking = [q for q in queue if impact(q) >= NORMAL_MIN_IMPACT], False
         else:
             break
-        s = min(pool, key=lambda q: (-q["hits"], recent_src.count(q["source"]), -q["weight"], -q["ts"]))
+        # most impactful first, then most-covered, then the outlet used least recently, then trusted, then newest
+        s = min(pool, key=lambda q: (-impact(q), -q["hits"], recent_src.count(q["source"]), -q["weight"], -q["ts"]))
         queue.remove(s)
         if breaking:
             n_breaking += 1
@@ -814,7 +838,7 @@ def main():
             try:
                 pid, url = post_facebook(img, fb_text)
                 rec["n_fb"] += 1; fb_24 += 1
-                log(f"FB {lang} ok {pid}{' [BREAKING]' if breaking else ''}")
+                log(f"FB {lang} ok {pid}{' [BREAKING]' if breaking else ''} impact {s.get('imp')}")
                 if use_ig and lang in IG_LANGS and ig_24 + 1 <= IG_DAILY_CAP - (0 if breaking else IG_BREAKING_RESERVE):
                     log(f"IG {lang} ok {post_instagram(url, ig_text)}")
                     rec["n_ig"] += 1; ig_24 += 1
