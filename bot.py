@@ -53,7 +53,7 @@ NORMAL_MIN_IMPACT = 3   # regular stories need AI impact >= 3 (1-5 scale); lower
 RESUME_LEAD_MIN = 45    # when posting is paused, start collecting again this long before it resumes
 MAX_STORIES_PER_RUN = 1 # never more than this many stories in one run (no bursts: Meta flags them as spam)
 POST_GAP_S = 45         # seconds between the EN and NE post of a story
-BLOCK_COOLDOWN_H = 6    # Meta spam block (error 368): stop posting this long, doubled if it happens again within 48h
+BLOCK_COOLDOWN_H = 5    # Meta spam block (error 368): stop posting this long, doubled if it happens again within 48h
 BREAKING_PER_HOUR = 3   # hard cap so a busy news day can't turn into a flood of "breaking" posts
 BREAKING_MAX_AGE_MIN = 90  # only fresh stories can count as breaking
 ACTIVE_HOURS   = (4, 23)  # Nepal time: regular news only from 04:00 to 23:00, daily limits spread evenly
