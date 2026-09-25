@@ -167,9 +167,37 @@ def words(s):
     return {w for w in re.findall(r"[\wऀ-ॿ]+", s.lower()) if len(w) > 2}
 
 
+STOP = {"the", "and", "for", "with", "from", "after", "over", "into", "amid", "says", "said", "will",
+        "has", "have", "been", "its", "their", "his", "her", "new", "today", "nepal", "nepali",
+        "nepalese", "news", "update", "latest", "event", "photos", "video"}
+
+
+def stem(w):
+    if len(w) <= 4:
+        return w
+    if w.endswith(("ches", "shes", "sses", "xes")):
+        return w[:-2]
+    for suf in ("ing", "ed", "s"):
+        if len(w) > len(suf) + 3 and w.endswith(suf) and not w.endswith("ss"):
+            return w[: -len(suf)]
+    return w
+
+
+def key_words(s):
+    return {stem(w) for w in words(s) if w not in STOP}
+
+
 def similar(a, b):
-    a, b = words(a), words(b)
-    return bool(a and b) and len(a & b) / len(a | b) >= DUP_JACCARD
+    """Same story? Either the old word-overlap test, or 2+ shared key words (ignoring 'Nepal', 'the'...,
+    and matching defeat/defeats/defeated) covering at least half of the shorter headline, one of
+    them a longer name-like word (e.g. 'afghanistan', 'landslide')."""
+    wa, wb = words(a), words(b)
+    if wa and wb and len(wa & wb) / len(wa | wb) >= DUP_JACCARD:
+        return True
+    ka, kb = key_words(a), key_words(b)
+    shared = ka & kb
+    return (len(shared) >= 2 and len(shared) / max(1, min(len(ka), len(kb))) >= 0.5
+            and any(len(w) >= 6 for w in shared))
 
 
 def shorten(s, n):
@@ -551,9 +579,12 @@ def main():
     # 3. ONE LLM request for up to LLM_BATCH new items (rest wait for next run)
     if new:
         batch = round_robin(new, LLM_BATCH)
-        # keep the dedupe context small: runs are frequent, so this is what dominates token use
-        existing = [p["en"] for p in recent_posted][-15:] + [q["en"] for q in queue][-15:]
-        n_posted = len([p["en"] for p in recent_posted][-15:])
+        # the AI must see EVERYTHING that could be the same story: all of the last 12h's posts and the
+        # whole queue (headlines trimmed to 70 chars to keep the request small)
+        posted_ctx = [p["en"][:70] for p in recent_posted if p["ts"] > now - 12 * 3600][-40:]
+        queue_ctx = queue[-60:]
+        existing = posted_ctx + [q["en"][:70] for q in queue_ctx]
+        n_posted = len(posted_ctx)
         try:
             done = translate(batch, existing)
         except Exception as ex:
@@ -565,7 +596,7 @@ def main():
             d, target = b.pop("dup", None), None
             if isinstance(d, str) and d.startswith("E") and d[1:].isdigit():
                 k = int(d[1:])
-                target = queue[k - n_posted] if n_posted <= k < len(existing) else "posted"
+                target = queue_ctx[k - n_posted] if n_posted <= k < len(existing) else "posted"
             elif d is not None and str(d).isdigit() and int(d) < batch.index(b):
                 target = next((q for q in queue if q["link"] == batch[int(d)]["link"]), None)
             if target is None:  # safety net on English text
@@ -647,6 +678,16 @@ def main():
         else:
             n_normal += 1
         recent_src.append(s["source"])
+        # last check right before posting: same story already posted in the last 12h?
+        twin = next((p for p in posted if p["ts"] > now - 12 * 3600 and p.get("n_fb")
+                     and similar(s["en"], p["en"])), None)
+        if twin:
+            log(f"same story already posted ({twin['en'][:60]}), skipping: {s['en']}")
+            if breaking:
+                n_breaking -= 1
+            else:
+                n_normal -= 1
+            continue
         if s["link"] in page_links:
             log(f"already on Page, skipping: {s['en']}")
             if breaking:  # a skip doesn't use up this run's slot
