@@ -113,12 +113,16 @@ FEEDS = [
     ("Ujyaalo",         "https://ujyaaloonline.com/feed",                 False, 2),
     ("Deshsanchar",     "https://deshsanchar.com/feed",                   False, 2),
     ("Lokaantar",       "https://lokaantar.com/feed",                     False, 2),
+    ("News24 Nepal",    "https://news24nepal.tv/feed/",                   False, 3),
     # Nepal, English
     ("Kathmandu Post",  "https://kathmandupost.com/rss",                  False, 3),
     ("Onlinekhabar EN", "https://english.onlinekhabar.com/feed",          False, 3),
     ("Himalayan Times", "https://thehimalayantimes.com/rssFeed/15",       False, 3),
     ("Rising Nepal",    "https://risingnepaldaily.com/rss",               False, 2),
     ("Khabarhub EN",    "https://english.khabarhub.com/feed",             False, 2),
+    # myRepublica has no RSS feed, so its stories come via a Google News search limited to its site
+    ("Google News Republica", "https://news.google.com/rss/search?q=site:myrepublica.nagariknetwork.com+when:1d"
+                              "&hl=en-US&gl=US&ceid=US:en",               False, 3),
     # International, only items that mention Nepal
     ("Google News",     "https://news.google.com/rss/search?q=Nepal+when:1d&hl=en-US&gl=US&ceid=US:en", True, 2),
     ("Google News IN",  "https://news.google.com/rss/search?q=Nepal+when:1d&hl=en-IN&gl=IN&ceid=IN:en", True, 2),
