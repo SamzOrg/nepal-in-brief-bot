@@ -55,7 +55,7 @@ BREAKING = re.compile(r"\b(breaking|earthquake|quake|flood\w*|landslide\w*|avala
                       r"killed|dead|death\w*|dies|died|fire|blaze|blast|explosion|crash\w*|accident|"
                       r"collapse\w*|missing|rescue\w*|evacuat\w*|curfew|resign\w*|arrest\w*|"
                       r"protest\w*|clash\w*|shoot\w*|attack\w*|emergency|alert|storm|"
-                      r"defeat\w*|wins?|won)\b", re.I)
+                      r"defeat\w*|wins?)\b", re.I)
 FB_DAILY_CAP   = 200    # FB posts per rolling 24h (no hard API cap; lower it if reach drops)
 IG_DAILY_CAP   = 96     # IG API hard limit is 100 per rolling 24h
 DUP_JACCARD    = 0.5    # word-overlap threshold for local duplicate detection
