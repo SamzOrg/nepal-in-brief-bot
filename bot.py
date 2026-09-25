@@ -722,7 +722,8 @@ def main():
         for q in picks:
             q["post_ts"] = time.time()
             q["_photo"] = load_photo(q)
-            log(f"[PREVIEW] {q['source']}: photo {'found' if q['_photo'] is not None else 'NOT found'} | {q['en']}")
+            q["_breaking"] = is_breaking(q)
+            log(f"[PREVIEW] {q['source']}{' [BREAKING]' if q['_breaking'] else ''}: photo {'found' if q['_photo'] is not None else 'NOT found'} | {q['en']}")
             for lang in ("en", "ne"):
                 log(f"   {lang}: {render(q, lang)}")
         return
