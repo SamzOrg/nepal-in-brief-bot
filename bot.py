@@ -578,6 +578,17 @@ def captions(s, lang):
     return fb, ig
 
 
+def ig_quota():
+    """Instagram's own count of API posts in the last rolling 24h (includes deleted posts
+    and anything posted outside this bot). None if it can't be read."""
+    try:
+        j = graph("GET", f"{os.environ['IG_USER_ID']}/content_publishing_limit", fields="quota_usage,config")
+        return int(j["data"][0]["quota_usage"])
+    except Exception as ex:
+        log(f"could not read IG quota: {ex!r}")
+        return None
+
+
 def recent_page_links():
     """Links in the Page's last 50 posts, so a lost state.json can never cause a repost."""
     try:
@@ -729,6 +740,11 @@ def main():
         return
 
     page_links = set() if DRY else recent_page_links()
+    q = None if DRY else ig_quota()
+    if q is not None:
+        log(f"IG quota from Meta: {q}/100 used in last 24h (bot's own count {ig_24})")
+        ig_24 = max(ig_24, q)
+        ig_normal_ok = ig_normal_ok and ig_24 + len(IG_LANGS) <= IG_DAILY_CAP - IG_BREAKING_RESERVE
     n_breaking = n_normal = 0
     while queue and fb_24 + 2 <= FB_DAILY_CAP:
         br = [q for q in queue if is_breaking(q)]
