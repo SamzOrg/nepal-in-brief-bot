@@ -160,6 +160,23 @@ OG_IMAGE = re.compile(r"""<meta[^>]+(?:property|name)=["'](?:og:image|twitter:im
                       r"""|<meta[^>]+content=["']([^"']+)["'][^>]+(?:property|name)=["'](?:og:image|twitter:image)["']""", re.I)
 
 
+BROWSER_UA = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+                            "(KHTML, like Gecko) Chrome/128.0 Safari/537.36"}
+RAW_ITEM = re.compile(r"<item\b.*?</item>", re.S | re.I)
+RAW_LINK = re.compile(r"<link>\s*(?:<!\[CDATA\[)?\s*(.*?)\s*(?:\]\]>)?\s*</link>", re.S | re.I)
+RAW_IMG = re.compile(r"<image>\s*(?:<!\[CDATA\[)?\s*(https?://[^<\]\s]+)", re.I)
+
+
+def raw_images(xml):
+    """Some feeds (e.g. Onlinekhabar) put a plain <image> tag in each item, which feedparser drops."""
+    out = {}
+    for block in RAW_ITEM.findall(xml):
+        lk, im = RAW_LINK.search(block), RAW_IMG.search(block)
+        if lk and im:
+            out[norm_link(html.unescape(lk.group(1)))] = html.unescape(im.group(1))
+    return out
+
+
 def feed_image(e):
     """The thumbnail the feed itself publishes for this item (no extra request)."""
     for key in ("media_content", "media_thumbnail"):
@@ -177,23 +194,34 @@ def feed_image(e):
 
 
 def load_photo(story):
-    """Thumbnail from the feed, else the article's og:image (the link-preview image). None if unusable."""
-    if PHOTO_LAYOUT == "off" or story["source"] in PHOTO_BLOCKLIST or "news.google.com" in story["link"]:
+    """Thumbnail from the feed, else the article's og:image (the link-preview image). None if unusable.
+    Always logs what happened, so a post without a photo can be explained from the Actions log."""
+    tag = f"photo ({story['source']})"
+    if PHOTO_LAYOUT == "off" or story["source"] in PHOTO_BLOCKLIST:
         return None
-    url = story.get("img")
+    if "news.google.com" in story["link"]:
+        log(f"{tag}: none, Google News link (by design)")
+        return None
+    url, where = story.get("img"), "feed"
     try:
         if not url:
-            page = requests.get(story["link"], timeout=15, headers=UA).text[:300000]
+            where = "og:image"
+            page = requests.get(story["link"], timeout=15, headers=BROWSER_UA).text[:400000]
             m = OG_IMAGE.search(page)
             url = html.unescape(m.group(1) or m.group(2)) if m else None
         if not url:
+            log(f"{tag}: none, no image in feed or article page")
             return None
-        r = requests.get(url, timeout=15, headers=UA)
+        r = requests.get(url, timeout=15, headers={**BROWSER_UA, "Referer": story["link"]})
         r.raise_for_status()
         im = Image.open(io.BytesIO(r.content)).convert("RGB")
-        return im if min(im.size) >= 250 else None   # skip icons / tiny logos
+        if min(im.size) < 250:
+            log(f"{tag}: none, image too small {im.size}")
+            return None
+        log(f"{tag}: ok from {where} {im.size}")
+        return im
     except Exception as ex:
-        log(f"photo skipped ({story['source']}): {ex!r}")
+        log(f"{tag}: none, {where} failed: {ex!r}"[:300])
         return None
 
 
@@ -203,6 +231,7 @@ def fetch(feed):
         r = requests.get(url, timeout=20, headers=UA)
         r.raise_for_status()
         entries = feedparser.parse(r.content).entries
+        raw_imgs = raw_images(r.content.decode("utf-8", "ignore"))
     except Exception as ex:
         log(f"FEED FAIL {name}: {ex!r}")
         return []
@@ -225,7 +254,8 @@ def fetch(feed):
             continue
         if title and link:
             out.append({"title": title, "summary": shorten(summary, 220), "link": link,
-                        "source": src, "ts": ts, "weight": weight, "img": feed_image(e),
+                        "source": src, "ts": ts, "weight": weight,
+                        "img": feed_image(e) or raw_imgs.get(link),
                         "lang": "ne" if DEVA.search(title) else "en"})
     log(f"{name}: {len(out)} fresh")
     return out
