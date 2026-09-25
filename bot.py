@@ -47,13 +47,16 @@ CRITICAL = re.compile(r"\b(breaking|earthquakes?|quakes?|tremors?|floods?|floode
                       r"|भूकम्प|बाढी|पहिरो|हिमपहिरो|मृत्यु|मृतक|विस्फोट|कर्फ्यु|संकटकाल|हरायो|जित्यो", re.I)
 URGENT_MAX = 4          # headlines per urgent call
 STORIES_PER_RUN = 1     # normal stories per run (each = 1 EN + 1 NE post); runs every ~10 min
-BREAKING_PER_RUN = 3    # breaking stories skip the pacing and go out immediately, up to this many
-BREAKING_PER_HOUR = 6   # hard cap so a busy news day can't turn into a flood of "breaking" posts
+BREAKING_PER_RUN = 1    # breaking stories skip the pacing and go out immediately, up to this many
+MAX_STORIES_PER_RUN = 1 # never more than this many stories in one run (no bursts: Meta flags them as spam)
+POST_GAP_S = 45         # seconds between the EN and NE post of a story
+BLOCK_COOLDOWN_H = 6    # Meta spam block (error 368): stop posting this long, doubled if it happens again within 48h
+BREAKING_PER_HOUR = 3   # hard cap so a busy news day can't turn into a flood of "breaking" posts
 BREAKING_MAX_AGE_MIN = 90  # only fresh stories can count as breaking
 ACTIVE_HOURS   = (4, 23)  # Nepal time: regular news only from 04:00 to 23:00, daily limits spread evenly
 BREAKING_24H   = True     # breaking news may still post at night (uses the IG reserve below)
 IG_BREAKING_RESERVE = 16  # IG posts (16 stories, English only) kept free for breaking news in every rolling 24h
-FB_BREAKING_RESERVE = 20  # FB posts (10 stories) kept free for breaking news
+FB_BREAKING_RESERVE = 12  # FB posts (6 stories) kept free for breaking news
 # How much of the day's regular budget each hour gets (Nepal time). Follows when Nepali
 # audiences are online: morning scroll 6-9, lunch 12-2, and the big evening peak 6-10 PM.
 HOUR_WEIGHT = {4: 0.3, 5: 0.6, 6: 1.0, 7: 1.3, 8: 1.3, 9: 1.1, 10: 1.1, 11: 1.1, 12: 1.2,
@@ -79,7 +82,7 @@ BREAKING = re.compile(
     r"curfew|resign\w*|arrest\w*|protest\w*|clash\w*|shoot\w*|attack\w*|emergency|alert|"
     # sports results
     r"defeat\w*|wins?)\b", re.I)
-FB_DAILY_CAP   = 200    # FB posts per rolling 24h (no hard API cap; lower it if reach drops)
+FB_DAILY_CAP   = 100    # FB posts per rolling 24h (no hard API cap, but 116 in a day got the Page spam-blocked)
 IG_DAILY_CAP   = 96     # IG API hard limit is 100 per rolling 24h
 IG_LANGS       = ("en",)  # Instagram gets the English version only (1 IG post per story)
 DUP_JACCARD    = 0.5    # word-overlap threshold for local duplicate detection
@@ -696,7 +699,7 @@ def main():
 
     def is_breaking(q):  # fresh AND (several outlets on it at once, or an urgent keyword)
         fresh = time.time() - q["ts"] <= BREAKING_MAX_AGE_MIN * 60
-        return fresh and (q["hits"] >= 3 or bool(BREAKING.search(q["en"])))
+        return fresh and bool(BREAKING.search(q["en"]))  # urgent keyword required (3+ outlets alone isn't breaking)
 
     brk_hour = sum(1 for p in posted if p.get("brk") and p["ts"] > time.time() - 3600)
 
@@ -746,7 +749,15 @@ def main():
         ig_24 = max(ig_24, q)
         ig_normal_ok = ig_normal_ok and ig_24 + len(IG_LANGS) <= IG_DAILY_CAP - IG_BREAKING_RESERVE
     n_breaking = n_normal = 0
-    while queue and fb_24 + 2 <= FB_DAILY_CAP:
+    blocks = [b for b in state.get("fb_blocks", []) if b > now - 48 * 3600]
+    block_until = state.get("fb_block_until", 0)
+    if not DRY and time.time() < block_until:
+        left = (block_until - time.time()) / 3600
+        log(f"Meta spam block cooldown: no posting for {left:.1f}h more (news is still collected)")
+        save(state, seen, queue, posted)
+        return
+    fb_blocked = False
+    while queue and not fb_blocked and n_breaking + n_normal < MAX_STORIES_PER_RUN and fb_24 + 2 <= FB_DAILY_CAP:
         br = [q for q in queue if is_breaking(q)]
         if (br and (active or BREAKING_24H) and n_breaking < BREAKING_PER_RUN
                 and brk_hour + n_breaking < BREAKING_PER_HOUR):
@@ -807,10 +818,21 @@ def main():
                 if use_ig and lang in IG_LANGS and ig_24 + 1 <= IG_DAILY_CAP - (0 if breaking else IG_BREAKING_RESERVE):
                     log(f"IG {lang} ok {post_instagram(url, ig_text)}")
                     rec["n_ig"] += 1; ig_24 += 1
-            except Exception:
+            except Exception as ex:
                 log(f"POST FAIL {lang}:\n" + traceback.format_exc())
+                if "'code': 368" in str(ex):  # Meta rate/spam block: stop and back off, don't keep hammering
+                    hours = BLOCK_COOLDOWN_H * 2 ** len(blocks)
+                    blocks.append(time.time())
+                    state["fb_blocks"] = blocks
+                    state["fb_block_until"] = time.time() + hours * 3600
+                    log(f"Meta spam block (368): pausing all posting for {hours}h")
+                    fb_blocked = True
+                    if rec["n_fb"] == 0 and rec in posted:  # nothing went out: keep the story for later
+                        posted.remove(rec)
+                        queue.append(s)
+                    break
             save(state, seen, queue, posted)
-            time.sleep(8)
+            time.sleep(POST_GAP_S)
         s.pop("_photo", None)
         s.pop("_breaking", None)
     save(state, seen, queue, posted)
