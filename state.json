@@ -1157,7 +1157,12 @@
   "https://www.onlinekhabar.com/2026/09/2025779/defense-university-will-it-be-a-military-or-academic-institution": 1790337683.366466,
   "https://gorkhapatraonline.com/news/224241": 1790337683.366466,
   "https://www.onlinekhabar.com/2026/09/2025802/man-sentenced-to-2-years-in-prison-and-6-2-million-rupees-fine-arrested": 1790337683.366466,
-  "https://www.onlinekhabar.com/2026/09/2025806/chief-minister-discusses-10th-national-games-and-tourism-with-hoteliers": 1790337683.366466
+  "https://www.onlinekhabar.com/2026/09/2025806/chief-minister-discusses-10th-national-games-and-tourism-with-hoteliers": 1790337683.366466,
+  "https://www.ratopati.com/story/594910/barud-singh-is-the-main-accused-in-the-death-of-two-youths": 1790338252.2548459,
+  "https://khabarhub.com/2026/25/1029124/": 1790338252.2548459,
+  "https://www.setopati.com/social/399258": 1790338252.2548459,
+  "https://kathmandupost.com/columns/2026/09/25/balendra-shah-dropped-the-mic-at-unga-but-is-that-enough": 1790338252.2548459,
+  "https://gorkhapatraonline.com/news/224248": 1790338252.2548459
  },
  "queue": [
   {
@@ -1542,18 +1547,6 @@
    "lang": "en",
    "en": "Nepal's Next Tourism Chapter",
    "ne": "नेपालको नयाँ पर्यटन अध्याय",
-   "hits": 1
-  },
-  {
-   "title": "Climate justice is not only about money, says Nepal PM Shah",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5neS1sUjRsU2FSUG5EM2k2S2NTU2RpNEZaRDVWOXJWbGtuVXJ3V0ZRaWdUZzVMRDVqZnRsTVQwWUFoeHFoaGhHUWxPSTNBSVlxeDQ4YkU5MA?oc=5",
-   "source": "The Annapurna Express",
-   "ts": 1790309348,
-   "weight": 2,
-   "lang": "en",
-   "en": "Climate justice is not only about money, says Nepal PM Shah",
-   "ne": "जलवायु न्याय पैसा मात्र होइन, प्रधानमन्त्री शाहको टिप्पणी",
    "hits": 1
   },
   {
@@ -3162,7 +3155,7 @@
    "lang": "en",
    "en": "Five Takeaways From Nepal PM Balendra Shahs Speech at the UNGA",
    "ne": "नेपालका प्रधानमन्त्री बलेंद्र शाहको यूएनजीए भाषणका पाँच मुख्य बुँदाहरू",
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "नेपालले टी-२० अन्तर्राष्ट्रिय क्रिकेटमा १२ वर्षपछि अफगानिस्तानलाई हरायो",
@@ -6834,6 +6827,20 @@
    "ne": "दशौं राष्ट्रिय खेलकुद र पर्यटनबारे मुख्यमन्त्रीले गरे होटल व्यवसायीसँग छलफल",
    "imp": 2,
    "hits": 1
+  },
+  {
+   "title": "जेल सजाय भोगिरहेका यादव दुई युवा मृत्यु प्रकरणका मुख्य अभियुक्त",
+   "summary": "रौतहट, असोज ९ गते । अपहरण, शरीर बन्धक तथा सङ्गठित अपराधलगायतका मुद्दामा दोषी ठहर भई हाल जिल्ला कारागार रौतहटमा जेल सजाय भोगिरहेका 'बारुद सिंह' भनिने सुरेन्द्रप्रसाद यादवको स्थानीय...",
+   "link": "https://gorkhapatraonline.com/news/224248",
+   "source": "Gorkhapatra",
+   "ts": 1790338220,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/384802/conversions/jail-original.jpg",
+   "lang": "ne",
+   "en": "Yadav serving jail sentence is main accused in two youth deaths",
+   "ne": "जेल सजाय भोगिरहेका यादव दुई युवा मृत्यु प्रकरणका मुख्य अभियुक्त",
+   "imp": 3,
+   "hits": 1
   }
  ],
  "posted": [
@@ -7495,6 +7502,6 @@
    "brk": false
   }
  ],
- "updated": 1790337693,
- "pending_since": null
+ "updated": 1790338257,
+ "pending_since": 1790338252.2548459
 }
