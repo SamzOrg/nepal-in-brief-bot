@@ -100,9 +100,13 @@ TEMPLATE  = HERE / "assets" / "template.jpg"   # branded template (1254x1254); h
 BOX       = (100, 520, 1054, 400)              # headline area inside the panel: left, top, width, height
 STAMP_Y   = 482                                # centre line of the date pill, just under the LATEST ribbon
 TEXT_RGB  = (255, 255, 255)
-PHOTO_LAYOUT = "background"   # "background" (photo fills the panel), "circle" (round photo left), "off"
+PHOTO_LAYOUT = "background"   # "background" (translucent photo behind the headline) or "off"
+PHOTO_OPACITY = 0.42          # how visible the photo is behind the headline (0 = hidden, 1 = full)
+PHOTO_TOP  = 515              # photo starts below the LATEST ribbon + date pill, fading in over PHOTO_FADE px
+PHOTO_FADE = 70
+TEXT_STROKE = 3               # thin black outline around the white headline
 PHOTO_BLOCKLIST = set()       # outlet names whose photos must never be used, e.g. {"Kathmandu Post"}
-PANEL     = (49, 424, 1205, 954)   # the template's dark panel (for the background layout)
+PANEL     = (49, 424, 1205, 954)   # the template's dark panel (where the photo goes)
 FONT_BOLD = [HERE / "assets" / "fonts" / "headline.ttf", "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf"]
 # ==========================================
 
@@ -346,50 +350,49 @@ def date_stamp(ts):
     return f"{en}   |   {ne.translate(NE_DIGITS)}"
 
 
-def place_photo(img, photo, layout):
-    """Put the news photo into the template. Returns the headline box to use."""
-    if layout == "circle":
-        r, cx, cy = 115, 150, 720
-        p = ImageOps.fit(photo, (2 * r, 2 * r))
-        m = Image.new("L", p.size, 0)
-        ImageDraw.Draw(m).ellipse([0, 0, 2 * r - 1, 2 * r - 1], fill=255)
-        ImageDraw.Draw(img).ellipse([cx - r - 7, cy - r - 7, cx + r + 7, cy + r + 7], fill=(220, 30, 45))
-        img.paste(p, (cx - r, cy - r), m)
-        return (290, 530, 880, 390), (cx, cy + r + 30)
-    # background: photo replaces only the flat dark panel; ribbon, border and red corners stay on top
+def place_photo(img, photo):
+    """Translucent news photo behind the headline. The top of the panel (LATEST ribbon + date pill)
+    stays clean; the photo fades in below it. Border and red corners stay on top."""
     size = (PANEL[2] - PANEL[0], PANEL[3] - PANEL[1])
-    ph = ImageOps.fit(photo, size).filter(ImageFilter.GaussianBlur(1))
-    grad = Image.linear_gradient("L").resize(size).point(lambda v: int(95 + v * 0.55))
-    ph = Image.composite(Image.new("RGB", size, (8, 14, 32)), ph, grad)
+    ph = ImageOps.fit(photo, size).filter(ImageFilter.GaussianBlur(1.2))
     panel = img.crop(PANEL)
-    keep = panel.convert("L").point(lambda v: 255 if v > 55 else 0).filter(ImageFilter.MaxFilter(3))
-    img.paste(Image.composite(panel, ph, keep), PANEL[:2])
-    return (100, 560, 1054, 330), (1150, 925)
+    # vertical alpha: 0 above PHOTO_TOP, fading up to PHOTO_OPACITY
+    top = PHOTO_TOP - PANEL[1]
+    col = [0 if y < top else int(255 * PHOTO_OPACITY * min(1, (y - top) / PHOTO_FADE)) for y in range(size[1])]
+    alpha = Image.new("L", (1, size[1]))
+    alpha.putdata(col)
+    alpha = alpha.resize(size)
+    # never paint over the template's own details (panel border, red corner accents)
+    details = panel.convert("L").point(lambda v: 255 if v > 55 else 0).filter(ImageFilter.MaxFilter(5))
+    alpha = Image.composite(Image.new("L", size, 0), alpha, details)
+    img.paste(Image.composite(ph, panel, alpha), PANEL[:2])
+    return (100, 540, 1054, 370), (1150, 928)
 
 
-def render(story, lang, layout=None):
+def render(story, lang):
     """Headline in the template panel, optional news photo, date pill. Source + link go in the caption."""
     OUT.mkdir(exist_ok=True)
     img = Image.open(TEMPLATE).convert("RGB")
-    layout = layout or PHOTO_LAYOUT
     box, credit_at = BOX, None
     photo = story.get("_photo")
-    if photo is not None and layout != "off":
-        box, credit_at = place_photo(img, photo, layout)
+    if photo is not None and PHOTO_LAYOUT != "off":
+        box, credit_at = place_photo(img, photo)
     d = ImageDraw.Draw(img)
     x, y, w, h = box
     f, lines, lh = fit_text(d, story[lang], box, FONT_BOLD)
     ty = y + (h - lh * len(lines)) // 2
     for i, line in enumerate(lines):
         lx = x + (w - d.textlength(line, font=f)) // 2
-        d.text((lx, ty + i * lh), line, font=f, fill=TEXT_RGB)
+        d.text((lx, ty + i * lh), line, font=f, fill=TEXT_RGB,
+               stroke_width=TEXT_STROKE, stroke_fill=(0, 0, 0))
 
     # date pill under the LATEST ribbon (same post time on the EN and NE image)
-    if credit_at:  # small photo credit, always naming the outlet the photo came from
-        cf = font(FONT_BOLD, 20)
-        anchor = "ms" if layout == "circle" else "rs"
-        d.text((credit_at[0] + 1, credit_at[1] + 1), f"Photo: {story['source']}", font=cf, fill=(0, 0, 0), anchor=anchor)
-        d.text(credit_at, f"Photo: {story['source']}", font=cf, fill=(215, 220, 230), anchor=anchor)
+    if credit_at:  # small, 50% transparent photo credit
+        layer = Image.new("RGBA", img.size, (0, 0, 0, 0))
+        ImageDraw.Draw(layer).text(credit_at, f"Photo: {story['source']}", font=font(FONT_BOLD, 17),
+                                   fill=(255, 255, 255, 128), anchor="rs")
+        img = Image.alpha_composite(img.convert("RGBA"), layer).convert("RGB")
+        d = ImageDraw.Draw(img)
 
     stamp = date_stamp(story.get("post_ts") or time.time())
     sf = font(FONT_BOLD, 28)
@@ -557,7 +560,7 @@ def main():
     ig_normal_ok = ig_today + 2 <= ig_budget and ig_24 + 2 <= IG_DAILY_CAP - IG_BREAKING_RESERVE
     log(f"{'active' if active else 'quiet hours'} | today FB {fb_today}/{fb_budget:.0f}, "
         f"IG {ig_today}/{ig_budget:.0f}")
-    if DRY:  # preview: top 4 stories from different outlets, each in every photo layout
+    if DRY:  # preview: top 4 stories from different outlets, rendered in EN + NE
         picks, used = [], set()
         for q in sorted(queue, key=lambda q: (-q["hits"], -q["weight"], -q["ts"])):
             if q["source"] not in used and "news.google.com" not in q["link"]:
@@ -568,9 +571,8 @@ def main():
             q["post_ts"] = time.time()
             q["_photo"] = load_photo(q)
             log(f"[PREVIEW] {q['source']}: photo {'found' if q['_photo'] is not None else 'NOT found'} | {q['en']}")
-            for layout in ("background", "circle", "off"):
-                for lang in ("en", "ne"):
-                    log(f"   {layout}/{lang}: {render(q, lang, layout)}")
+            for lang in ("en", "ne"):
+                log(f"   {lang}: {render(q, lang)}")
         return
 
     page_links = set() if DRY else recent_page_links()
