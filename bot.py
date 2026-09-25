@@ -18,7 +18,8 @@ try:
     import nepali_datetime  # Bikram Sambat dates for the Nepali half of the stamp
 except ImportError:
     nepali_datetime = None
-from PIL import Image, ImageDraw, ImageFont
+import io
+from PIL import Image, ImageDraw, ImageFilter, ImageFont, ImageOps
 
 # ================= CONFIG =================
 BRAND          = "NEPAL IN BRIEF"
@@ -99,13 +100,17 @@ TEMPLATE  = HERE / "assets" / "template.jpg"   # branded template (1254x1254); h
 BOX       = (100, 520, 1054, 400)              # headline area inside the panel: left, top, width, height
 STAMP_Y   = 482                                # centre line of the date pill, just under the LATEST ribbon
 TEXT_RGB  = (255, 255, 255)
+PHOTO_LAYOUT = "background"   # "background" (photo fills the panel), "circle" (round photo left), "off"
+PHOTO_BLOCKLIST = set()       # outlet names whose photos must never be used, e.g. {"Kathmandu Post"}
+PANEL     = (49, 424, 1205, 954)   # the template's dark panel (for the background layout)
 FONT_BOLD = [HERE / "assets" / "fonts" / "headline.ttf", "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf"]
 # ==========================================
 
 STATE = HERE / "state.json"
 OUT   = HERE / "out"
 NPT   = timezone(timedelta(hours=5, minutes=45))
-DRY   = os.getenv("DRY_RUN") == "1"
+# dry run: render + print only. Runs from any branch other than main are always dry (preview branches).
+DRY   = os.getenv("DRY_RUN") == "1" or os.getenv("GITHUB_REF_NAME", "main") != "main"
 UA    = {"User-Agent": "Mozilla/5.0 (NepalInBrief bot)"}
 URL_DATE = re.compile(r"/(20\d\d)/(\d\d)/(\d\d)/")
 DEVA  = re.compile(r"[ऀ-ॿ]")
@@ -146,6 +151,48 @@ def shorten(s, n):
 
 
 # ---------------- fetch ----------------
+IMG_TAG = re.compile(r"""<img[^>]+src=["']([^"']+)""", re.I)
+OG_IMAGE = re.compile(r"""<meta[^>]+(?:property|name)=["'](?:og:image|twitter:image)["'][^>]+content=["']([^"']+)"""
+                      r"""|<meta[^>]+content=["']([^"']+)["'][^>]+(?:property|name)=["'](?:og:image|twitter:image)["']""", re.I)
+
+
+def feed_image(e):
+    """The thumbnail the feed itself publishes for this item (no extra request)."""
+    for key in ("media_content", "media_thumbnail"):
+        for m in e.get(key) or []:
+            if m.get("url"):
+                return m["url"]
+    for enc in e.get("enclosures") or []:
+        if str(enc.get("type", "")).startswith("image") and enc.get("href"):
+            return enc["href"]
+    for c in (e.get("content") or []) + [{"value": e.get("summary", "")}]:
+        m = IMG_TAG.search(c.get("value") or "")
+        if m:
+            return html.unescape(m.group(1))
+    return None
+
+
+def load_photo(story):
+    """Thumbnail from the feed, else the article's og:image (the link-preview image). None if unusable."""
+    if PHOTO_LAYOUT == "off" or story["source"] in PHOTO_BLOCKLIST or "news.google.com" in story["link"]:
+        return None
+    url = story.get("img")
+    try:
+        if not url:
+            page = requests.get(story["link"], timeout=15, headers=UA).text[:300000]
+            m = OG_IMAGE.search(page)
+            url = html.unescape(m.group(1) or m.group(2)) if m else None
+        if not url:
+            return None
+        r = requests.get(url, timeout=15, headers=UA)
+        r.raise_for_status()
+        im = Image.open(io.BytesIO(r.content)).convert("RGB")
+        return im if min(im.size) >= 250 else None   # skip icons / tiny logos
+    except Exception as ex:
+        log(f"photo skipped ({story['source']}): {ex!r}")
+        return None
+
+
 def fetch(feed):
     name, url, needs_nepal, weight = feed
     try:
@@ -174,7 +221,7 @@ def fetch(feed):
             continue
         if title and link:
             out.append({"title": title, "summary": shorten(summary, 220), "link": link,
-                        "source": src, "ts": ts, "weight": weight,
+                        "source": src, "ts": ts, "weight": weight, "img": feed_image(e),
                         "lang": "ne" if DEVA.search(title) else "en"})
     log(f"{name}: {len(out)} fresh")
     return out
@@ -299,22 +346,54 @@ def date_stamp(ts):
     return f"{en}   |   {ne.translate(NE_DIGITS)}"
 
 
-def render(story, lang):
-    """Headline only, centered in the template panel. Source + link go in the caption."""
+def place_photo(img, photo, layout):
+    """Put the news photo into the template. Returns the headline box to use."""
+    if layout == "circle":
+        r, cx, cy = 115, 150, 720
+        p = ImageOps.fit(photo, (2 * r, 2 * r))
+        m = Image.new("L", p.size, 0)
+        ImageDraw.Draw(m).ellipse([0, 0, 2 * r - 1, 2 * r - 1], fill=255)
+        ImageDraw.Draw(img).ellipse([cx - r - 7, cy - r - 7, cx + r + 7, cy + r + 7], fill=(220, 30, 45))
+        img.paste(p, (cx - r, cy - r), m)
+        return (290, 530, 880, 390), (cx, cy + r + 30)
+    # background: photo replaces only the flat dark panel; ribbon, border and red corners stay on top
+    size = (PANEL[2] - PANEL[0], PANEL[3] - PANEL[1])
+    ph = ImageOps.fit(photo, size).filter(ImageFilter.GaussianBlur(1))
+    grad = Image.linear_gradient("L").resize(size).point(lambda v: int(95 + v * 0.55))
+    ph = Image.composite(Image.new("RGB", size, (8, 14, 32)), ph, grad)
+    panel = img.crop(PANEL)
+    keep = panel.convert("L").point(lambda v: 255 if v > 55 else 0).filter(ImageFilter.MaxFilter(3))
+    img.paste(Image.composite(panel, ph, keep), PANEL[:2])
+    return (100, 560, 1054, 330), (1150, 925)
+
+
+def render(story, lang, layout=None):
+    """Headline in the template panel, optional news photo, date pill. Source + link go in the caption."""
     OUT.mkdir(exist_ok=True)
     img = Image.open(TEMPLATE).convert("RGB")
+    layout = layout or PHOTO_LAYOUT
+    box, credit_at = BOX, None
+    photo = story.get("_photo")
+    if photo is not None and layout != "off":
+        box, credit_at = place_photo(img, photo, layout)
     d = ImageDraw.Draw(img)
-    x, y, w, h = BOX
-    f, lines, lh = fit_text(d, story[lang], BOX, FONT_BOLD)
+    x, y, w, h = box
+    f, lines, lh = fit_text(d, story[lang], box, FONT_BOLD)
     ty = y + (h - lh * len(lines)) // 2
     for i, line in enumerate(lines):
         lx = x + (w - d.textlength(line, font=f)) // 2
         d.text((lx, ty + i * lh), line, font=f, fill=TEXT_RGB)
 
     # date pill under the LATEST ribbon (same post time on the EN and NE image)
+    if credit_at:  # small photo credit, always naming the outlet the photo came from
+        cf = font(FONT_BOLD, 20)
+        anchor = "ms" if layout == "circle" else "rs"
+        d.text((credit_at[0] + 1, credit_at[1] + 1), f"Photo: {story['source']}", font=cf, fill=(0, 0, 0), anchor=anchor)
+        d.text(credit_at, f"Photo: {story['source']}", font=cf, fill=(215, 220, 230), anchor=anchor)
+
     stamp = date_stamp(story.get("post_ts") or time.time())
     sf = font(FONT_BOLD, 28)
-    cx, sw = x + w // 2, d.textlength(stamp, font=sf)
+    cx, sw = BOX[0] + BOX[2] // 2, d.textlength(stamp, font=sf)
     d.rounded_rectangle([cx - sw / 2 - 24, STAMP_Y - 21, cx + sw / 2 + 24, STAMP_Y + 21],
                         radius=21, fill=(8, 14, 32), outline=(220, 30, 45), width=2)
     d.text((cx, STAMP_Y), stamp, font=sf, fill=TEXT_RGB, anchor="mm")
@@ -478,6 +557,22 @@ def main():
     ig_normal_ok = ig_today + 2 <= ig_budget and ig_24 + 2 <= IG_DAILY_CAP - IG_BREAKING_RESERVE
     log(f"{'active' if active else 'quiet hours'} | today FB {fb_today}/{fb_budget:.0f}, "
         f"IG {ig_today}/{ig_budget:.0f}")
+    if DRY:  # preview: top 4 stories from different outlets, each in every photo layout
+        picks, used = [], set()
+        for q in sorted(queue, key=lambda q: (-q["hits"], -q["weight"], -q["ts"])):
+            if q["source"] not in used and "news.google.com" not in q["link"]:
+                picks.append(q); used.add(q["source"])
+            if len(picks) == 4:
+                break
+        for q in picks:
+            q["post_ts"] = time.time()
+            q["_photo"] = load_photo(q)
+            log(f"[PREVIEW] {q['source']}: photo {'found' if q['_photo'] is not None else 'NOT found'} | {q['en']}")
+            for layout in ("background", "circle", "off"):
+                for lang in ("en", "ne"):
+                    log(f"   {layout}/{lang}: {render(q, lang, layout)}")
+        return
+
     page_links = set() if DRY else recent_page_links()
     n_breaking = n_normal = 0
     while queue and fb_24 + 2 <= FB_DAILY_CAP:
@@ -511,6 +606,7 @@ def main():
             posted.append(rec)  # recorded BEFORE posting: a crash can never cause a repeat
             save(state, seen, queue, posted)
         s["post_ts"] = time.time()
+        s["_photo"] = load_photo(s)
         use_ig = breaking or ig_normal_ok  # decide once per story, so EN and NE go together
         if use_ig:
             ig_today += 2
@@ -532,6 +628,7 @@ def main():
                 log(f"POST FAIL {lang}:\n" + traceback.format_exc())
             save(state, seen, queue, posted)
             time.sleep(8)
+        s.pop("_photo", None)
     save(state, seen, queue, posted)
 
 
