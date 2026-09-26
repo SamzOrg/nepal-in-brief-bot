@@ -2667,7 +2667,8 @@
   "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYkU4ZmhfYUlPUDJnWmxLSlNpR3BNVTA1d0pxRTJUZTlhbGNfSVJtWmkxSHhLT2xaeWZub2xYMTNRNmd0cWtxMzZkc0ExUFBfU2tOZlhYT0tnYUlMT2FTd2lTaXlESFhncEU0d0hiMy1wWXZNa1pjZFFBckpiUl9ISTdUUFY?oc=5": 1790455245.7397401,
   "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdHR0MEVIbUVGRGJ3RGM0dml6cWJjTUNRUzJLOHJRSHNpcm01N2NMeWRXa0VnQlhOSEJGR09FTzM1QXhIUWMtSm9PLW5QN0R5YjhiVzY1WWt5SHdNRXN3bzN0STRoS1RlMzBtb29pclQ4MHk1ZjRUTGtva1dtVFBPTU1R?oc=5": 1790455245.7397401,
   "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1IVmlXWU9iV1kxNk9ybHlxbFpjNnZVNTd4cHZLSE5mTC1fXzhCa1hBN0tWY1dObVdmeURCQWVISF9NT0JFbm9Qclo3blI?oc=5": 1790456472.6676142,
-  "https://news.google.com/rss/articles/CBMib0FVX3lxTE1vbm9tZV9Ra1ZteW12c2xMNDhjS2ZJUzBUbEdMSWJzME1wLVpHMG5FalRnTlJveWZWeUI5bzJiWVlkWmdXektMaUxGY0FyMXk1Ni1fOWNIcWZ1am1nbE9wXzRKd2NSWTg5UUx0UTNhcw?oc=5": 1790457643.371423
+  "https://news.google.com/rss/articles/CBMib0FVX3lxTE1vbm9tZV9Ra1ZteW12c2xMNDhjS2ZJUzBUbEdMSWJzME1wLVpHMG5FalRnTlJveWZWeUI5bzJiWVlkWmdXektMaUxGY0FyMXk1Ni1fOWNIcWZ1am1nbE9wXzRKd2NSWTg5UUx0UTNhcw?oc=5": 1790457643.371423,
+  "https://news.google.com/rss/articles/CBMiakFVX3lxTE1nOTZVT0ZWRWZjbjV5N09oYmU5NjNOZWpnQXBva2pkVU1pMnc5bi04MDF3OVZZYmFjVnpRSEl5b2h6a24xaEJrcXVScUV6UkhJVHhVRUc0QlZycTc0d0pNWEZFZ20zcFlkWVE?oc=5": 1790458362.0191164
  },
  "queue": [
   {
@@ -2813,61 +2814,6 @@
     "Canada"
    ],
    "hits": 1
-  },
-  {
-   "title": "२५ औँ श्रृङ्खलामा विविध विषयका १८ प्रश्नोत्तर",
-   "summary": "काठमाडौँ, असोज १० गते । गोरखापत्र अनलाइनको लोकसेवा तयारी विशेष कार्यक्रमको २५ औँ शृङ्खलामा समसामयिक विषयमा १८ वटा प्रश्नोत्तर समावेश छन् ।गोरखापत्र अनलाइनका लागि समाचारदाता सपना था...",
-   "link": "https://gorkhapatraonline.com/news/224355",
-   "source": "Gorkhapatra",
-   "ts": 1790429141,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/385027/conversions/825310502_1577638227428371_144992989094608950_n-original.jpg",
-   "lang": "ne",
-   "en": "18 Q&A on diverse topics in the 25th series",
-   "ne": "२५ औँ श्रृङ्खलामा विविध विषयका १८ प्रश्नोत्तर",
-   "imp": 1,
-   "tags": [
-    "QandA",
-    "Series25"
-   ],
-   "hits": 1
-  },
-  {
-   "title": "आगामी महाधिवेशन हाम्रो परीक्षाको घडी हो : संयोजक कोइराला",
-   "summary": "काठमाडौं- नेपाली कांग्रेसको संस्थापन इतर समूहका संयोजक डा. शशांक कोइरालाले नेपाली कांग्रेसको आगामी १५औँ महाधिवेशन आफूहरूको परीक्षाको घडी भएको बताए । महाराजगञ्ज-चुनदेवीस्थित सम्पर्क कार्यालयमा आज आयोजित पत्रकार सम्मेलनमा...",
-   "link": "https://khabarhub.com/2026/26/1029526/",
-   "source": "Khabarhub",
-   "ts": 1790428908,
-   "weight": 3,
-   "img": "https://www.khabarhub.com/wp-content/uploads/2019/09/sasanka-koirala-700x480.jpg",
-   "lang": "ne",
-   "en": "Upcoming mega-convention is our exam time: coordinator Koirala",
-   "ne": "आगामी महाधिवेशन हाम्रो परीक्षाको घडी हो : संयोजक कोइराला",
-   "imp": 2,
-   "tags": [
-    "MegaConvention",
-    "Koirala"
-   ],
-   "hits": 3
-  },
-  {
-   "title": "सुदूरपश्चिममा लगातार वर्षा, नदी-खोलामा बहाव बढ्यो, सतर्कता अपनाउन आग्रह",
-   "summary": "धनगढी । सुदूरपश्चिममा लगातार वर्षाका कारण नदी, खोला तथा जलस्रोतमा पानीको बहाव बढ्न थालेको छ । तत्कालै ठुलो बाढीको चेतावनी दिने अवस्था नरहे पनि आगामी दुई दिनसम्म वर्षा हुने पूर्वानुमान रहेकाले कैलाली, कञ्चनपुरसहित पहाडी...",
-   "link": "https://www.ratopati.com/story/595128/continuous-rain-in-the-far-west-increased-flow-in-rivers-and-streams-urges-caution",
-   "source": "Ratopati",
-   "ts": 1790429229,
-   "weight": 3,
-   "img": "https://npcdn.ratopati.com/media/news/dhangadhi-duban_10hwI0dcSk.jpg",
-   "lang": "ne",
-   "en": "Continuous rain in far west raises river flow, urging caution",
-   "ne": "सुदूरपश्चिममा लगातार वर्षा, नदी-खोलामा बहाव बढ्यो, सतर्कता अपनाउन आग्रह",
-   "imp": 3,
-   "tags": [
-    "FarWest",
-    "Rainfall",
-    "Caution"
-   ],
-   "hits": 2
   },
   {
    "title": "रुसले युद्धमोर्चामा ६०० वर्षअघि मृत्यु भएका राजकुमारको अवशेष किन पठाइरहेको छ ?",
@@ -3316,7 +3262,7 @@
     "Tag"
    ],
    "cat": "other",
-   "hits": 7
+   "hits": 8
   },
   {
    "title": "१५ सय मिटरमा हिट चरणमै सीमित भए मुकेश",
@@ -5031,7 +4977,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1790457648,
+ "updated": 1790458366,
  "pending_since": 1790457043.154621,
  "fb_blocks": [
   1790350880.4125228,
