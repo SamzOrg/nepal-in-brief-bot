@@ -23,15 +23,15 @@ from PIL import Image, ImageDraw, ImageFilter, ImageFont, ImageOps
 
 # ================= CONFIG =================
 BRAND          = "NEPAL IN BRIEF"
-# Translation + duplicate flags. Full batches: Groq first, Gemini if Groq fails. Small urgent calls:
-# Gemini first, Groq if Gemini fails (spreads the daily load over both free tiers).
+# Translation + duplicate flags. Google Gemini Flash first (much better Nepali), Groq if Gemini fails.
 # Max 1 successful request per run.
 GROQ_X = {"reasoning_effort": "low", "include_reasoning": False}
+GEMINI_X = {"reasoning_effort": "low", "max_completion_tokens": 6000}   # thinking tokens count too
 PROVIDERS = [
+    ("gemini flash", "https://generativelanguage.googleapis.com/v1beta/openai/chat/completions",
+     "GEMINI_API_KEY", "gemini-flash-latest", GEMINI_X),
     ("groq gpt-oss-120b", "https://api.groq.com/openai/v1/chat/completions",
      "GROQ_API_KEY",   "openai/gpt-oss-120b",      GROQ_X),
-    ("gemini flash-lite", "https://generativelanguage.googleapis.com/v1beta/openai/chat/completions",
-     "GEMINI_API_KEY", "gemini-flash-lite-latest", {}),
 ]
 GRAPH          = "https://graph.facebook.com/v23.0"
 MAX_AGE_H      = 8      # stories older than this are dropped (seen + queue)
@@ -192,8 +192,30 @@ def log(*a):
     print(time.strftime("%H:%M:%S"), *a, flush=True)
 
 
+# "(photo)", "(photos)", "(video)", "(तस्बिर)", "(भिडियोसहित)", "[Photos]"...: outlets tag photo/video pages this
+# way. Only a bracketed tag is removed; the word itself in a real headline ("Photo of X goes viral") stays.
+_MEDIA = (r"(?:photos?|pictures?|pics?|in\s+pictures|photo\s*(?:feature|story|gallery)|gallery|videos?|"
+          r"with\s+videos?|watch|live|तस्बिर(?:हरू|सहित)?|तस्विर(?:हरू|सहित)?|फोटो(?:हरू|सहित|\s*फिचर)?|"
+          r"भिडियो(?:सहित)?|भीडियो(?:सहित)?)")
+MEDIA_TAG = re.compile(r"\s*[\(\[]\s*" + _MEDIA + r"(?:\s*(?:[,/&+]|and|र)\s*" + _MEDIA + r")*\s*[\)\]]", re.I)
+
+
+# "(photo)", "(photos)", "(video)", "(तस्बिर)", "(फोटो फिचर)" etc: the outlet's gallery label, not news.
+# Only bracketed labels are removed; "photo" as a real word in a headline stays.
+MEDIA_TAG = re.compile(
+    r"\s*[\(\[]\s*(?:photos?|pics?|pictures?|in pictures|images?|videos?|watch|gallery|photo\s*feature|"
+    r"photo\s*story|live|तस्बिर(?:हरू)?|तस्वीर(?:हरू)?|फोटो(?:\s*फिचर)?|फोटोफिचर|भिडियो|भिडियोसहित|"
+    r"तस्बिरसहित|फोटोसहित|लाइभ)\s*(?:(?:and|&|र|सहित)\s*(?:photos?|videos?|तस्बिर|भिडियो)\s*)?[\)\]]",
+    re.I)
+
+
+def strip_media_tag(t):
+    return re.sub(r"\s{2,}", " ", MEDIA_TAG.sub("", t or "")).strip(" -:|")
+
+
 def clean(s):
     s = html.unescape(re.sub(r"<[^>]+>", " ", s or ""))
+    s = MEDIA_TAG.sub("", s)
     for k, v in REPL.items():
         s = s.replace(k, v)
     s = re.sub(r"The post .{0,200}? appeared first on .*$", "", s)  # WordPress footer
@@ -339,7 +361,7 @@ def fetch(feed):
         ts = calendar.timegm(pub) if pub else now - 4 * 3600
         if now - ts > MAX_AGE_H * 3600:
             continue
-        title, summary, src = clean(e.get("title")), clean(e.get("summary")), name
+        title, summary, src = strip_media_tag(clean(e.get("title"))), clean(e.get("summary")), name
         if name.startswith("Google News"):  # "Headline - Publisher", summary is just link soup
             src = (e.get("source") or {}).get("title") or name
             title, summary = re.sub(rf"\s+-\s+{re.escape(src)}$", "", title), ""
@@ -374,7 +396,17 @@ PROMPT = """Translate news headlines for a Nepal news page and flag duplicates.
 
 For each NEW item:
 - "t": the headline translated into the OTHER language ([ne] item -> English, [en] item -> Nepali in
-  Devanagari). Faithful, concise, news-headline style, max 100 characters, no added facts, no quotes.
+  Devanagari). Max 100 characters, no added facts, no quotes. Drop labels like "(photo)", "(video)",
+  "(तस्बिर)", "(भिडियो)".
+  Nepali: write it the way Onlinekhabar or Kantipur would headline it, natural and idiomatic, NOT
+  word-for-word. Standard spelling, Nepali digits (१२), Nepali names for places and people
+  (Kathmandu -> काठमाडौं, Koshi -> कोशी, Prime Minister -> प्रधानमन्त्री), active voice, no English words
+  where a common Nepali word exists. Examples:
+    "Landslide blocks Prithvi Highway at Krishna Bhir" -> "कृष्णभिरमा पहिरो, पृथ्वी राजमार्ग अवरुद्ध"
+    "Floods kill 12 in eastern Nepal, dozens missing" -> "पूर्वी नेपालमा बाढीले १२ जनाको मृत्यु, दर्जनौं बेपत्ता"
+    "Nepal beat Afghanistan by five wickets" -> "नेपालले अफगानिस्तानलाई ५ विकेटले हरायो"
+    "Government raises petrol price by Rs 5" -> "पेट्रोलको मूल्य ५ रुपैयाँले बढ्यो"
+  English: plain, clear news-headline English.
 - "d": if it reports the SAME event as an EXISTING story or an EARLIER new item, give that ref
   ("E3" or "5"); otherwise null.
 - "s": impact for people in Nepal, 1-5. 5 = national emergency or major disaster, many deaths, fall of
@@ -399,7 +431,7 @@ def llm_translate(batch, existing, prefer_gemini=False):
     prompt = PROMPT.format(
         existing="\n".join(f"E{i}: {t}" for i, t in enumerate(existing)) or "(none)",
         new="\n".join(f"{i} [{b['lang']}] {b['title']}" for i, b in enumerate(batch)))
-    order = PROVIDERS[::-1] if prefer_gemini else PROVIDERS  # spread load across both free tiers
+    order = PROVIDERS  # Gemini first, Groq as backup
     for name, url, key_env, model, extra in order:
         key = os.getenv(key_env)
         if not key:
@@ -430,6 +462,7 @@ def translate(batch, existing, prefer_gemini=False):
     for i, b in enumerate(batch):
         t, d, imp, tags = res.get(i, ("", None, None, None))
         if t:
+            t = strip_media_tag(t)
             b["en"], b["ne"] = (t, b["title"]) if b["lang"] == "ne" else (b["title"], t)
             b["dup"] = d
             try:
@@ -927,6 +960,7 @@ def main():
         if not DRY:
             posted.append(rec)  # recorded BEFORE posting: a crash can never cause a repeat
             save(state, seen, queue, posted)
+        s["en"], s["ne"] = strip_media_tag(s["en"]), strip_media_tag(s["ne"])
         s["post_ts"] = time.time()
         s["_photo"] = load_photo(s)
         s["_breaking"] = breaking
