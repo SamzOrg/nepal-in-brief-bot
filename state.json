@@ -2628,7 +2628,8 @@
   "https://baahrakhari.com/detail/502820": 1790439512.942701,
   "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5lbzJsTjVrYkx1NzAwYjFUekJ1eVh4SFBzTTJxNEx6Q0t5dFMwOHJrRlpOWU9RWnlWamFYaUJyZkV1dXZBTFJBLUZ5V3JfUFZPQUtjQ2o3YlR2cEZiSHY3dno1N3Y?oc=5": 1790439512.942701,
   "https://www.setopati.com/sports/sports-activity/399308": 1790439512.942701,
-  "http://annapurnapost.com/story/508429": 1790439512.942701
+  "http://annapurnapost.com/story/508429": 1790439512.942701,
+  "https://gorkhapatraonline.com/news/224411": 1790439679.367212
  },
  "queue": [
   {
@@ -6037,7 +6038,7 @@
     "Ramghat",
     "Alert"
    ],
-   "hits": 3
+   "hits": 4
   },
   {
    "title": "गायिका रिया खत्रीद्वारा 'युके शहर' सार्वजनिक",
@@ -7626,8 +7627,8 @@
    "cat": "politics"
   }
  ],
- "updated": 1790439521,
- "pending_since": null,
+ "updated": 1790439684,
+ "pending_since": 1790439679.367212,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
