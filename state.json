@@ -2661,26 +2661,6 @@
    "hits": 1
   },
   {
-   "title": "म्यानचेस्टर सिटीका उपाधि खोसिएला? दोषी ठहरिएपछि अब सबैको नजर अन्तिम आदेशमा",
-   "summary": "म्यानचेस्टर सिटीलाई प्रिमियर लिगका वित्तीय नियम उल्लंघनसम्बन्धी अधिकांश आरोपमा दोषी ठहर गरिएपछि अब अर्को ठूलो प्रश्न उठेको छ-सिटीले जितेका पुराना उपाधि पनि खोसिन्छन् त?",
-   "link": "https://www.setopati.com/sports/football/399307",
-   "source": "Setopati",
-   "ts": 1790436480,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "en": "Manchester City may lose title after guilty verdict, all eyes on final order",
-   "ne": "म्यानचेस्टर सिटीका उपाधि खोसिएला? दोषी ठहरिएपछि अब सबैको नजर अन्तिम आदेशमा",
-   "imp": 3,
-   "tags": [
-    "ManchesterCity",
-    "TitleStripping",
-    "Football"
-   ],
-   "cat": "sports",
-   "hits": 1
-  },
-  {
    "title": "२२ वर्षीया रूबी झापा-२ बाट कांग्रेस महाधिवेशन प्रतिनिधि",
    "summary": "१० असोज, काठमाडौं । नेपाली कांग्रेसको १५औँ महाधिवेशनअन्तर्गत झापा जिल्ला निर्वाचन क्षेत्र नं. २ मा युवा महिलाको तर्फबाट रूबी सिटौला महाधिवेशन प्रतिनिधि निर्वाचित भएकी छिन् । २२ वर्षीया उनी निर्विरोध महाधिवेशन प्रतिनिधि...",
    "link": "https://www.onlinekhabar.com/2026/09/2026475/ruby-23-is-a-congress-general-convention-representative-from-jhapa-2",
@@ -2718,65 +2698,6 @@
    ],
    "cat": "tech",
    "hits": 2
-  },
-  {
-   "title": "पूर्वी नेपालतर्फ मौसम सुधार, पश्चिमी क्षेत्रमा आइतबारदेखि",
-   "summary": "काठमाडौँ । नेपालीको पूर्वी क्षेत्रमा मौसम क्रमशः सुधार हुँदै गए पनि पश्चिम नेपालतर्फ भने प्रभाव कायमै रहेको छ। मौसम विज्ञान विभागकाअनुसार आOतवारसम्म पश्चिम नेपालमा भारी वर्षाको सम्भावना कायम नै रहेको छ। पश्चिमी...",
-   "link": "https://khabarhub.com/2026/26/1029557/",
-   "source": "Khabarhub",
-   "ts": 1790435520,
-   "weight": 3,
-   "img": "https://www.khabarhub.com/wp-content/uploads/2026/09/india-raining-400x220.jpg",
-   "lang": "ne",
-   "en": "Weather improves in eastern Nepal, western region expected to improve from Sunday",
-   "ne": "पूर्वी नेपालतर्फ मौसम सुधार, पश्चिमी क्षेत्रमा आइतबारदेखि",
-   "imp": 2,
-   "tags": [
-    "Weather",
-    "EasternNepal",
-    "WesternNepal"
-   ],
-   "cat": "disaster",
-   "hits": 1
-  },
-  {
-   "title": "१५ सय मिटरमा हिट चरणमै सीमित भए मुकेश",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/502817",
-   "source": "Baahrakhari",
-   "ts": 1790436044,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "en": "Mukesh restricted to hit stage at 1500 metres",
-   "ne": "१५ सय मिटरमा हिट चरणमै सीमित भए मुकेश",
-   "imp": 2,
-   "tags": [
-    "Mukesh",
-    "HitStage"
-   ],
-   "cat": "sports",
-   "hits": 1
-  },
-  {
-   "title": "भ्रष्टाचारमा शंकास्पद व्यक्तिको पोलिग्राफ परीक्षणमा बाटो खुल्यो",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/502816",
-   "source": "Baahrakhari",
-   "ts": 1790435699,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "en": "Polygraf test opens path for suspect in corruption case",
-   "ne": "भ्रष्टाचारमा शंकास्पद व्यक्तिको पोलिग्राफ परीक्षणमा बाटो खुल्यो",
-   "imp": 3,
-   "tags": [
-    "Corruption",
-    "Polygraph",
-    "Suspect"
-   ],
-   "cat": "politics",
-   "hits": 1
   },
   {
    "title": "बाढीको त्रासले जितगढी मन्दिरमा पुगे तिनाउ किनारका बासिन्दा",
@@ -4354,9 +4275,20 @@
    "n_ig": 0,
    "brk": false,
    "cat": "disaster"
+  },
+  {
+   "ts": 1790464849.427916,
+   "en": "Manchester City may lose title after guilty verdict, all eyes on final order",
+   "ne": "म्यानचेस्टर सिटीका उपाधि खोसिएला? दोषी ठहरिएपछि अब सबैको नजर अन्तिम आदेशमा",
+   "link": "https://www.setopati.com/sports/football/399307",
+   "source": "Setopati",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "sports"
   }
  ],
- "updated": 1790464250,
+ "updated": 1790464865,
  "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
