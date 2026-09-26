@@ -48,12 +48,16 @@ CRITICAL = re.compile(r"\b(breaking|earthquakes?|quakes?|tremors?|floods?|floode
 URGENT_MAX = 4          # headlines per urgent call
 STORIES_PER_RUN = 1     # normal stories per run (each = 1 bilingual post on FB and on IG); runs every ~10 min
 BREAKING_PER_RUN = 1    # breaking stories skip the pacing and go out immediately, up to this many
+TOPIC_WINDOW   = 4      # look at the last 4 posts for topic variety
+TOPIC_PENALTY  = 0.75   # each recent same-topic post lowers a story's score by this much (impact is 1-5)
+DISASTER = re.compile(r"flood|landslide|mudslide|inundat|heavy rain|rainfall|downpour|river|barrage|cusec|"
+                      r"quake|avalanche|snowfall|storm|glof|बाढी|पहिरो|डुबान|वर्षा|भूकम्प|हिमपहिरो", re.I)
 NORMAL_GAP_MIN = 30     # at most one regular (non-breaking) story every 30 minutes
 NORMAL_MIN_IMPACT = 3   # regular stories need AI impact >= 3 (1-5 scale); lower ones are never posted
 RESUME_LEAD_MIN = 45    # when posting is paused, start collecting again this long before it resumes
 MAX_STORIES_PER_RUN = 1 # never more than this many stories in one run (no bursts: Meta flags them as spam)
 BLOCK_COOLDOWN_H = 5    # Meta spam block (error 368): stop posting this long, doubled if it happens again within 48h
-BREAKING_PER_HOUR = 3   # hard cap so a busy news day can't turn into a flood of "breaking" posts
+BREAKING_PER_HOUR = 2   # hard cap so a busy news day can't turn into a flood of "breaking" posts
 BREAKING_MAX_AGE_MIN = 90  # only fresh stories can count as breaking
 ACTIVE_HOURS   = (4, 23)  # Nepal time: regular news only from 04:00 to 23:00, daily limits spread evenly
 BREAKING_24H   = True     # breaking news may still post at night (uses the IG reserve below)
@@ -413,10 +417,12 @@ For each NEW item:
   government. 4 = important national news: deaths, major decisions, highways or services shut, big Nepal
   sports results. 3 = notable news worth sharing. 2 = routine or local. 1 = trivial, photo features,
   events, or foreign news with little bearing on Nepal.
+- "c": the story's topic, one of: disaster, politics, economy, sports, world, society, crime, health,
+  education, tech, culture, other. (Floods, landslides, rain, quakes, rescue = disaster.)
 - "h": 2-4 hashtags for the story's key topic, places, people or organisations, without "#".
   CamelCase English (e.g. "Landslide", "PrithviHighway", "Chitwan"); one may be Nepali (e.g. "पहिरो").
 
-Respond with JSON only: {{"r": [{{"i": 0, "t": "...", "d": null, "s": 3, "h": ["Landslide", "Chitwan"]}}]}}
+Respond with JSON only: {{"r": [{{"i": 0, "t": "...", "d": null, "s": 3, "c": "disaster", "h": ["Landslide", "Chitwan"]}}]}}
 with one entry per new item.
 
 EXISTING:
@@ -447,7 +453,7 @@ def llm_translate(batch, existing, prefer_gemini=False):
             text = text[text.find("{"):text.rfind("}") + 1]  # tolerate ```json fences
             rows = json.loads(text)["r"]
             log(f"LLM ok via {name}")
-            return {int(x["i"]): (clean(x.get("t", "")), x.get("d"), x.get("s"), x.get("h"))
+            return {int(x["i"]): (clean(x.get("t", "")), x.get("d"), x.get("s"), x.get("h"), x.get("c"))
                     for x in rows if "i" in x}
         except Exception as ex:
             log(f"LLM {name} failed: {ex!r}")
@@ -460,7 +466,7 @@ def translate(batch, existing, prefer_gemini=False):
     log(f"LLM translated {len(res)}/{len(batch)}")
     out = []
     for i, b in enumerate(batch):
-        t, d, imp, tags = res.get(i, ("", None, None, None))
+        t, d, imp, tags, cat = res.get(i, ("", None, None, None, None))
         if t:
             t = strip_media_tag(t)
             b["en"], b["ne"] = (t, b["title"]) if b["lang"] == "ne" else (b["title"], t)
@@ -470,6 +476,7 @@ def translate(batch, existing, prefer_gemini=False):
             except (TypeError, ValueError):
                 b["imp"] = None  # unknown: treated as 3
             b["tags"] = [clean_tag(x) for x in tags if clean_tag(x)][:4] if isinstance(tags, list) else []
+            b["cat"] = str(cat).lower() if cat else None
             out.append(b)
     return out
 
@@ -851,11 +858,23 @@ def main():
         imp = q.get("imp")
         if imp is None:  # no AI score: urgent keyword decides
             return fresh and bool(BREAKING.search(q["en"]))
-        # AI score 5 is always breaking; 4 needs an urgent keyword too
-        return fresh and (imp >= 5 or (imp >= 4 and bool(BREAKING.search(q["en"]))))
+        # AI score 5 is always breaking; 4 needs an urgent keyword AND 2+ outlets reporting it
+        return fresh and (imp >= 5 or (imp >= 4 and q["hits"] >= 2 and bool(BREAKING.search(q["en"]))))
 
     def impact(q):
         return q.get("imp") or 3
+
+    def topic(q):  # AI category, or a keyword guess for stories queued before categories existed
+        return q.get("cat") or ("disaster" if DISASTER.search(f"{q['en']} {q.get('ne', '')}") else "other")
+
+    # topic variety: every recent post on the same topic costs a candidate TOPIC_PENALTY impact points,
+    # so a flood week still leaves room for politics, sports, economy...
+    recent_topics = [p.get("cat") or ("disaster" if DISASTER.search(p.get("en", "")) else "other")
+                     for p in posted if p.get("n_fb")][-TOPIC_WINDOW:]
+
+    def rank(q):
+        score = impact(q) - TOPIC_PENALTY * recent_topics.count(topic(q))
+        return (-score, -q["hits"], recent_src.count(q["source"]), -q["weight"], -q["ts"])
 
     brk_hour = sum(1 for p in posted if p.get("brk") and p["ts"] > time.time() - 3600)
 
@@ -929,7 +948,7 @@ def main():
         else:
             break
         # most impactful first, then most-covered, then the outlet used least recently, then trusted, then newest
-        s = min(pool, key=lambda q: (-impact(q), -q["hits"], recent_src.count(q["source"]), -q["weight"], -q["ts"]))
+        s = min(pool, key=(lambda q: (-impact(q), -q["hits"], -q["ts"])) if breaking else rank)
         queue.remove(s)
         if breaking:
             n_breaking += 1
@@ -956,7 +975,7 @@ def main():
                            "source": s["source"], "n_fb": 0, "n_ig": 0})
             continue
         rec = {"ts": time.time(), "en": s["en"], "ne": s["ne"], "link": s["link"],
-               "source": s["source"], "n_fb": 0, "n_ig": 0, "brk": breaking}
+               "source": s["source"], "n_fb": 0, "n_ig": 0, "brk": breaking, "cat": topic(s)}
         if not DRY:
             posted.append(rec)  # recorded BEFORE posting: a crash can never cause a repeat
             save(state, seen, queue, posted)
