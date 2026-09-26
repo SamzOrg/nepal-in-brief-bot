@@ -155,13 +155,15 @@ STYLES = {
               "breaking_template": HERE / "assets" / "template_breaking.jpg",
               "panel": (47, 352, 1208, 950), "ribbon": 360,
               "breaking_panel": (47, 372, 1208, 972), "breaking_ribbon": 388,
-              "text": (255, 255, 255), "stroke": (0, 0, 0), "credit": (255, 255, 255, 128),
+              "text": (255, 255, 255), "text_ne": (255, 206, 84), "stroke": (0, 0, 0),
+              "credit": (255, 255, 255, 128),
               "dark_panel": True, "opacity": 0.42},
     "white": {"template": HERE / "assets" / "template_ne.jpg",
               "breaking_template": HERE / "assets" / "template_ne_breaking.jpg",
               "panel": (38, 403, 1218, 942), "ribbon": 400,
               "breaking_panel": (38, 408, 1218, 942), "breaking_ribbon": 411,
-              "text": NAVY, "stroke": (255, 255, 255), "credit": (14, 28, 64, 140),
+              "text": NAVY, "text_ne": (196, 18, 36), "stroke": (255, 255, 255),
+              "credit": (14, 28, 64, 140),
               "dark_panel": False, "opacity": 0.36},
 }
 # ==========================================
@@ -558,7 +560,8 @@ def render(story, theme="dark"):
     for i, bl in enumerate(blocks):
         for line in bl:
             lx = x + (w - d.textlength(line, font=f)) // 2
-            d.text((lx, ty), line, font=f, fill=st["text"], stroke_width=TEXT_STROKE, stroke_fill=st["stroke"])
+            colour = st["text"] if i == 0 else st.get("text_ne", st["text"])  # Nepali in the accent colour
+            d.text((lx, ty), line, font=f, fill=colour, stroke_width=TEXT_STROKE, stroke_fill=st["stroke"])
             ty += lh
         if i == 0:  # small red divider between English and Nepali
             my = ty + gap // 2 - lh * 0.08
