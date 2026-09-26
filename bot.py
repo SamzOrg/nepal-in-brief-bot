@@ -88,7 +88,8 @@ FB_DAILY_CAP   = 0      # optional FB posts-per-24h cap; 0 = off (pacing below +
 IG_DAILY_CAP   = 96     # IG API hard limit is 100 per rolling 24h
 DUP_JACCARD    = 0.5    # word-overlap threshold for local duplicate detection
 INCLUDE_SUMMARY = False  # False: caption = headline + source + link only (no copied article text)
-HASHTAGS_EN    = "#Nepal #NepalNews #NepalInBrief"
+HASHTAGS_EN    = "#NepalInBrief #NepalNews"   # brand tags on every post
+MAX_HASHTAGS   = 5      # Instagram only counts 5 hashtags per post; more can hurt reach (also on Facebook)
 HASHTAGS_NE    = "#नेपाल #समाचार #NepalInBrief"
 
 # Outlets never to post from (matched anywhere in the source name, case-insensitive).
@@ -371,8 +372,11 @@ For each NEW item:
   government. 4 = important national news: deaths, major decisions, highways or services shut, big Nepal
   sports results. 3 = notable news worth sharing. 2 = routine or local. 1 = trivial, photo features,
   events, or foreign news with little bearing on Nepal.
+- "h": 2-4 hashtags for the story's key topic, places, people or organisations, without "#".
+  CamelCase English (e.g. "Landslide", "PrithviHighway", "Chitwan"); one may be Nepali (e.g. "पहिरो").
 
-Respond with JSON only: {{"r": [{{"i": 0, "t": "...", "d": null, "s": 3}}]}} with one entry per new item.
+Respond with JSON only: {{"r": [{{"i": 0, "t": "...", "d": null, "s": 3, "h": ["Landslide", "Chitwan"]}}]}}
+with one entry per new item.
 
 EXISTING:
 {existing}
@@ -402,7 +406,8 @@ def llm_translate(batch, existing, prefer_gemini=False):
             text = text[text.find("{"):text.rfind("}") + 1]  # tolerate ```json fences
             rows = json.loads(text)["r"]
             log(f"LLM ok via {name}")
-            return {int(x["i"]): (clean(x.get("t", "")), x.get("d"), x.get("s")) for x in rows if "i" in x}
+            return {int(x["i"]): (clean(x.get("t", "")), x.get("d"), x.get("s"), x.get("h"))
+                    for x in rows if "i" in x}
         except Exception as ex:
             log(f"LLM {name} failed: {ex!r}")
     raise RuntimeError("all LLM providers failed")
@@ -414,7 +419,7 @@ def translate(batch, existing, prefer_gemini=False):
     log(f"LLM translated {len(res)}/{len(batch)}")
     out = []
     for i, b in enumerate(batch):
-        t, d, imp = res.get(i, ("", None, None))
+        t, d, imp, tags = res.get(i, ("", None, None, None))
         if t:
             b["en"], b["ne"] = (t, b["title"]) if b["lang"] == "ne" else (b["title"], t)
             b["dup"] = d
@@ -422,6 +427,7 @@ def translate(batch, existing, prefer_gemini=False):
                 b["imp"] = min(5, max(1, int(imp)))
             except (TypeError, ValueError):
                 b["imp"] = None  # unknown: treated as 3
+            b["tags"] = [clean_tag(x) for x in tags if clean_tag(x)][:4] if isinstance(tags, list) else []
             out.append(b)
     return out
 
@@ -610,9 +616,44 @@ def post_instagram(img_url, text):
     return graph("POST", f"{ig}/media_publish", creation_id=cid)["id"]
 
 
+def clean_tag(t):
+    """'Prithvi Highway' -> 'PrithviHighway'; keeps letters, digits and Devanagari; max 30 chars."""
+    t = "".join(w[:1].upper() + w[1:] for w in re.split(r"[^\w\u0900-\u097F]+", str(t)) if w)
+    return t[:30] if len(t) >= 3 and not t.isdigit() else ""
+
+
+TAG_SKIP = {"Nepal", "Nepali", "News", "The", "A", "An", "In", "On", "At", "Of", "For", "And", "To", "With",
+            "After", "Over", "From", "By", "As", "Is", "Are", "Says", "Said", "New", "Its", "His", "Her"}
+
+
+def topic_tags(s):
+    """Hashtags for this story: from the AI (\"h\"), else capitalised names + urgent keywords in the headline."""
+    tags = list(s.get("tags") or [])
+    if not tags:
+        words = re.findall(r"[A-Za-z][A-Za-z'-]*", s["en"])
+        names, run = [], []
+        for i, w in enumerate(words + ["x"]):          # runs of capitalised words = one name
+            if w[0].isupper() and w not in TAG_SKIP and i < len(words):
+                run.append(w)
+            else:
+                if run:
+                    names.append("".join(run))
+                run = []
+        topics = [m for m in BREAKING.findall(s["en"]) if not m.lower().endswith(("ed", "s"))]
+        tags = [clean_tag(m) for m in topics] + [clean_tag(n) for n in names]
+    out, low = [], {t.lower().lstrip("#") for t in (HASHTAGS_EN + " " + HASHTAGS_NE).split()} | {"nepal", "news"}
+    for t in tags:
+        if t and t.lower() not in low:
+            out.append("#" + t); low.add(t.lower())
+    return out[:4]
+
+
 def captions(s):
-    """One caption with both languages (same text on FB and IG)."""
-    tags = HASHTAGS_EN + " " + " ".join(t for t in HASHTAGS_NE.split() if t not in HASHTAGS_EN.split())
+    """One caption with both languages (same text on FB and IG); story hashtags first, then the defaults."""
+    # Instagram counts at most 5 hashtags per post (Dec 2025 rule): story tags first, then the brand tags
+    brand = HASHTAGS_EN.split()
+    story = topic_tags(s)[:max(0, MAX_HASHTAGS - len(brand))]
+    tags = " ".join(story + brand)
     text = (f"{s['en']}\n{s['ne']}\n\n"
             f"Source / स्रोत: {s['source']}\n"
             f"Read more / पूरा समाचार: {s['link']}\n\n{tags}")
