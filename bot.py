@@ -162,7 +162,7 @@ STYLES = {
               "breaking_template": HERE / "assets" / "template_ne_breaking.jpg",
               "panel": (38, 403, 1218, 942), "ribbon": 400,
               "breaking_panel": (38, 408, 1218, 942), "breaking_ribbon": 411,
-              "text": NAVY, "text_ne": (196, 18, 36), "stroke": (255, 255, 255),
+              "text": NAVY, "text_ne": (110, 14, 30), "stroke": (255, 255, 255),
               "credit": (14, 28, 64, 140),
               "dark_panel": False, "opacity": 0.36},
 }
