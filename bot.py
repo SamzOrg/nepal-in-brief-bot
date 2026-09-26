@@ -148,6 +148,8 @@ NAVY      = (14, 28, 64)
 THEME     = "alternate"       # "dark", "white", or "alternate" (dark and white take turns, story by story)
 HEADLINE_MAX_PX = 76          # biggest headline size; long headlines shrink to fit (same size for EN and NE)
 HEADLINE_PAD_X  = 90          # space between the headline and the panel's left/right edge
+HEADLINE_GAP    = 50          # space between the English and Nepali headline (the red divider sits here)
+DATE_PX         = 28          # font size of the date pill under the ribbon
 HEADLINE_LINE_H = 1.30        # line height as a multiple of the font size
 # One post per story: English headline on top, Nepali below. Panel = the template's box
 # (left, top, right, bottom); ribbon = bottom of the LATEST/BREAKING ribbon at the centre.
@@ -158,14 +160,18 @@ STYLES = {
               "breaking_panel": (47, 372, 1208, 972), "breaking_ribbon": 388,
               "text": (255, 255, 255), "text_ne": (255, 206, 84), "stroke": (0, 0, 0),
               "credit": (255, 255, 255, 128),
-              "dark_panel": True, "opacity": 0.68, "stroke_w": TEXT_STROKE},
+              # layout "C": max 66px text, 115px side space, 56px between languages, date 24px
+              "max_px": 66, "pad_x": 115, "gap": 56, "date_px": 24, "line_h": 1.34,
+              "dark_panel": True, "opacity": 0.55, "stroke_w": TEXT_STROKE},
     "white": {"template": HERE / "assets" / "template_ne.jpg",
               "breaking_template": HERE / "assets" / "template_ne_breaking.jpg",
               "panel": (38, 403, 1218, 942), "ribbon": 400,
               "breaking_panel": (38, 408, 1218, 942), "breaking_ribbon": 411,
-              "text": NAVY, "text_ne": (110, 14, 30), "stroke": (255, 255, 255),
+              "text": (20, 20, 24), "text_ne": (110, 14, 30), "stroke": (255, 255, 255),
               "credit": (14, 28, 64, 140),
-              "dark_panel": False, "opacity": 0.62, "stroke_w": 2},
+              # layout "F": max 60px text, 130px side space, 62px between languages, date 22px
+              "max_px": 60, "pad_x": 130, "gap": 62, "date_px": 22, "line_h": 1.38,
+              "dark_panel": False, "opacity": 0.45, "stroke_w": 2},
 }
 # ==========================================
 
@@ -534,9 +540,12 @@ def render(story, theme="dark"):
     panel = st["breaking_panel"] if brk else st["panel"]
     l, top, r, b = panel
     pill_y = (st["breaking_ribbon"] if brk else st["ribbon"]) + 40
-    x, w = l + HEADLINE_PAD_X, (r - l) - 2 * HEADLINE_PAD_X   # side padding
+    pad_x = st.get("pad_x", HEADLINE_PAD_X)
+    x, w = l + pad_x, (r - l) - 2 * pad_x                     # side padding
     y0, y1 = pill_y + 21 + 45, b - 55            # below the date pill, above the panel bottom
-    gap = 50                                     # space between the two languages (divider sits here)
+    gap = st.get("gap", HEADLINE_GAP)            # space between the two languages (divider sits here)
+    line_h = st.get("line_h", HEADLINE_LINE_H)
+    date_px = st.get("date_px", DATE_PX)
 
     credit = False
     photo = story.get("_photo")
@@ -550,12 +559,12 @@ def render(story, theme="dark"):
         blocks = [wrap(d, story[k], f, w) for k in ("en", "ne")]
         if any(d.textlength(line, font=f) > w for bl in blocks for line in bl):
             return 10 ** 6
-        return sum(len(bl) for bl in blocks) * int(size * HEADLINE_LINE_H) + gap
+        return sum(len(bl) for bl in blocks) * int(size * line_h) + gap
 
-    size = HEADLINE_MAX_PX
+    size = st.get("max_px", HEADLINE_MAX_PX)
     while size > 40 and height(size) > y1 - y0:
         size -= 2
-    f, lh = font(FONT_BOLD, size), int(size * HEADLINE_LINE_H)
+    f, lh = font(FONT_BOLD, size), int(size * line_h)
     blocks = [balanced_wrap(d, story[k], f, w) for k in ("en", "ne")]
     ty = y0 + (y1 - y0 - (sum(len(bl) for bl in blocks) * lh + gap)) // 2
     for i, bl in enumerate(blocks):
@@ -578,10 +587,11 @@ def render(story, theme="dark"):
         d = ImageDraw.Draw(img)
 
     stamp = date_stamp(story.get("post_ts") or time.time())
-    sf = font(FONT_BOLD, 28)
+    sf = font(FONT_BOLD, date_px)
     cx, sw = 627, d.textlength(stamp, font=sf)
-    d.rounded_rectangle([cx - sw / 2 - 24, pill_y - 21, cx + sw / 2 + 24, pill_y + 21],
-                        radius=21, fill=(8, 14, 32), outline=(220, 30, 45), width=2)
+    ph_ = int(date_px * 0.75)                    # pill half-height follows the font size
+    d.rounded_rectangle([cx - sw / 2 - 24, pill_y - ph_, cx + sw / 2 + 24, pill_y + ph_],
+                        radius=ph_, fill=(8, 14, 32), outline=(220, 30, 45), width=2)
     d.text((cx, pill_y), stamp, font=sf, fill=(255, 255, 255), anchor="mm")
     path = OUT / f"{int(time.time()*1000)}_{theme}.jpg"
     img.save(path, "JPEG", quality=92, optimize=True)  # IG accepts JPEG only
