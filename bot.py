@@ -664,15 +664,20 @@ def topic_tags(s):
 
 
 def captions(s):
-    """One caption with both languages (same text on FB and IG); story hashtags first, then the defaults."""
+    """Facebook: both languages. Instagram: English only. Story hashtags first, then the brand tags."""
     # Instagram counts at most 5 hashtags per post (Dec 2025 rule): story tags first, then the brand tags
     brand = HASHTAGS_EN.split()
     story = topic_tags(s)[:max(0, MAX_HASHTAGS - len(brand))]
     tags = " ".join(story + brand)
-    text = (f"{s['en']}\n{s['ne']}\n\n"
-            f"Source / स्रोत: {s['source']}\n"
-            f"Read more / पूरा समाचार: {s['link']}\n\n{tags}")
-    return text, text
+    fb = (f"{s['en']}\n{s['ne']}\n\n"
+          f"Source / स्रोत: {s['source']}\n"
+          f"Read more / पूरा समाचार: {s['link']}\n\n{tags}")
+    # Instagram caption: English only (the image already carries both languages)
+    en_story = [t for t in topic_tags(s) if t.isascii()][:max(0, MAX_HASHTAGS - len(brand))]
+    ig = (f"{s['en']}\n\n"
+          f"Source: {s['source']}\n"
+          f"Full story: {s['link']}\n\n{' '.join(en_story + brand)}")
+    return fb, ig
 
 
 def ig_quota():
