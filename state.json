@@ -2835,7 +2835,15 @@
   "http://lokaantar.com/story/329867/2026/9/27/narayani-": 1790477443.5932944,
   "https://gorkhapatraonline.com/news/224449": 1790477443.5932944,
   "https://nagariknews.nagariknetwork.com/social-affairs/various-road-sections-in-makawanpur-blocked-traffic-on-prithvi-highway-halted-60-62.html": 1790477443.5932944,
-  "http://lokaantar.com/story/329866/2026/9/27/round-up-": 1790477443.5932944
+  "http://lokaantar.com/story/329866/2026/9/27/round-up-": 1790477443.5932944,
+  "https://khabarhub.com/2026/27/1029642/": 1790478076.2228446,
+  "https://www.setopati.com/social/399315": 1790478076.2228446,
+  "https://news.google.com/rss/articles/CBMipAFBVV95cUxNekp4ODlpbnZBYkxsam5sZzRxVjR6Ukx0ajJ0NUtabEo5TjN4d2hVT0Mxd0V6dVp5c0ttSWx4RlJTRUZDcFg2ZGRNY2VLVzM1LUswQ21KTEhLN0VSMDZnWjZxS08tUTA3TkllYWdCeGJRWWJXU0hVTXBkUWlwVDRTUGRQQzlmZ0dfTVVqeGdDN2ZCTHVQYUNRYkJ4cGlQU044TVFrLQ?oc=5": 1790478076.2228446,
+  "https://gorkhapatraonline.com/news/224452": 1790478076.2228446,
+  "https://risingnepaldaily.com/news/87081": 1790478076.2228446,
+  "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeEhuX3pHeEdtLWVFUmxUNmVxNmZua3pXeEplN3hJazRWME0tUi1hZmdOUUI0UTk0UklpRlJsbWNqYng4dDR3d1M4QUtoSEgxZXc3MjR3U1FOVWh1b0NzZTlqbjA3dUtncnZ3U3hHSnB6Ui1zbmNHR2ZIc2EtTG9OQ0NINlRYWVZETFQyTHFYcUNIQXNnWHQtNGxWSG9lakYtci1HQXJwU1dIUTlNNEZxR0NMRjBadllodDNn?oc=5": 1790478076.2228446,
+  "https://kathmandupost.com/columns/2026/09/27/how-nepali-literature-should-respond-to-political-changes": 1790478076.2228446,
+  "https://kathmandupost.com/opinion/2026/09/27/can-nepal-walk-the-talk-on-green-investment": 1790478076.2228446
  },
  "queue": [
   {
@@ -2970,7 +2978,7 @@
     "Traffic"
    ],
    "cat": "disaster",
-   "hits": 3
+   "hits": 4
   },
   {
    "title": "Families seek loan relief over missing kin in Nepal",
@@ -3260,7 +3268,7 @@
     "PoliticalChange"
    ],
    "cat": "politics",
-   "hits": 1
+   "hits": 3
   },
   {
    "title": "एक साता पनि टिकेन बजारमा कार्ययोजनाको प्रभाव",
@@ -3822,7 +3830,7 @@
     "MirmiHamichaurBridge"
    ],
    "cat": "disaster",
-   "hits": 7
+   "hits": 8
   },
   {
    "title": "सोह्र वर्षपछि पुनः सञ्चालनमा सिनेमा घर",
@@ -4129,7 +4137,7 @@
     "Armenia"
    ],
    "cat": "politics",
-   "hits": 5
+   "hits": 6
   },
   {
    "title": "तनहुँका ६७ हजार परिवारको जीविकासँग जोडिँदै सामुदायिक वन",
@@ -4799,7 +4807,7 @@
     "LocalName"
    ],
    "cat": "disaster",
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "तिनाउको बाढीले बेथरीका ६० घर डुबानमा",
@@ -6136,8 +6144,8 @@
    "cat": "health"
   }
  ],
- "updated": 1790477467,
- "pending_since": null,
+ "updated": 1790478079,
+ "pending_since": 1790478076.2228446,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
