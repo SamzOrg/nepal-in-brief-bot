@@ -2756,29 +2756,17 @@
   "https://gorkhapatraonline.com/news/224442": 1790474470.9562862,
   "https://www.ratopati.com/story/595167/floods-in-parbat-wash-away-more-than-20-houses": 1790474470.9562862,
   "https://baahrakhari.com/detail/502841": 1790474470.9562862,
-  "https://www.onlinekhabar.com/2026/09/2026542/landslides-block-roads-at-krishnabhir-and-tingrangkhani-on-prithvi-highway": 1790474470.9562862
+  "https://www.onlinekhabar.com/2026/09/2026542/landslides-block-roads-at-krishnabhir-and-tingrangkhani-on-prithvi-highway": 1790474470.9562862,
+  "https://khabarhub.com/2026/27/1029620/": 1790475042.0553844,
+  "https://www.onlinekhabar.com/2026/09/2026540/fly-dubais-pokhara-dubai-flight-is-exciting": 1790475042.0553844,
+  "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTUtyMERYQmFha0ozUDBPUFRuN3hlUU1RSmxYdTlxMGNITm9ZZ25aWm1leVYyaGxnSnhEbWowemNXZ0RFOXdFQm11S3Zmek5wUTNxSmNBYlBHMFpjWVBkOHBtS2czSjNMMFpON0ZseVpHbjBNYTV2eWoyQ3lMNjRZTlQ1Q2ltZEc1YWkxbDgxcUlwV0xHWlYxNUZpYWdmTGM?oc=5": 1790475042.0553844,
+  "http://lokaantar.com/story/329863/2026/9/27/flood-": 1790475042.0553844,
+  "https://www.onlinekhabar.com/2026/09/2026545/landslides-at-two-places-on-kantilokpath": 1790475042.0553844,
+  "https://baahrakhari.com/detail/502843": 1790475042.0553844,
+  "https://www.ratopati.com/story/595168/landslide-buries-house-in-giwang-myagdi-2-people-missing": 1790475042.0553844,
+  "https://kathmandupost.com/national/2026/09/27/khanal-meets-uae-counterpart-thanks-abu-dhabi-for-25m-flood-aid": 1790475042.0553844
  },
  "queue": [
-  {
-   "title": "उत्तर-पश्चिमी पाकिस्तानमा प्रहरी जाँच चौकीमा आत्मघाती विस्फोट, कम्तीमा ११ जनाको मृत्यु",
-   "summary": "डेरा इस्माइल खान (पाकिस्तान), असोज १० गते । उत्तर-पश्चिमी पाकिस्तानमा शनिबार सडकछेउको प्रहरी जाँच चौकीमा आत्मघाती आक्रमणकारीले विस्फोटक पदार्थले भरिएको सवारीसाधन विस्फोट गराउँदा कम...",
-   "link": "https://gorkhapatraonline.com/news/224419",
-   "source": "Gorkhapatra",
-   "ts": 1790446158,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/385051/conversions/pakistan-original.jpg",
-   "lang": "ne",
-   "en": "Suicide bombing at police checkpoint in northwest Pakistan kills at least 11",
-   "ne": "उत्तर-पश्चिमी पाकिस्तानमा प्रहरी जाँच चौकीमा आत्मघाती विस्फोट, कम्तीमा ११ जनाको मृत्यु",
-   "imp": 1,
-   "tags": [
-    "Pakistan",
-    "SuicideBombing",
-    "PakistanPolice"
-   ],
-   "cat": "world",
-   "hits": 1
-  },
   {
    "title": "नेपाल र बेलारुसबीच कूटनीतिक, सरकारी तथा सेवा राहदानीवाहकलाई भिसा छुट दिने सम्झौता",
    "summary": "काठमाडौँ, असोज १० गते । नेपाल र बेलारुसबीच कूटनीतिक, सरकारी तथा सेवा राहदानीवाहकलाई भिसा छुट दिनेसम्बन्धी सम्झौतामा हस्ताक्षर भएको छ ।संयुक्त राष्ट्रसङ्घको ८१औँ महासभाका अवसरमा न्य...",
@@ -3183,7 +3171,7 @@
     "PokharaDubai"
    ],
    "cat": "tech",
-   "hits": 3
+   "hits": 4
   },
   {
    "title": "Scottsdale recycling plan faces backlash",
@@ -3845,7 +3833,7 @@
     "Flood"
    ],
    "cat": "disaster",
-   "hits": 4
+   "hits": 5
   },
   {
    "title": "मिर्मी-हर्मिचौर जोड्ने पुल कालीगण्डकीको बाढीले बगायो",
@@ -3864,7 +3852,7 @@
     "MirmiHamichaurBridge"
    ],
    "cat": "disaster",
-   "hits": 4
+   "hits": 6
   },
   {
    "title": "सोह्र वर्षपछि पुनः सञ्चालनमा सिनेमा घर",
@@ -4252,21 +4240,43 @@
    "hits": 1
   },
   {
-   "title": "पहिरोका कारण पृथ्वी राजमार्गको कृष्णभिर र तिङग्राङखानीमा सडक अवरुद्ध",
-   "summary": "धादिङको बेनीघाट रोराङ गाउँपालिका-७ स्थित कृष्णभिर र बेनीघाट रोराङ गाउँपालिका-१० को तिङग्राङखानीमा पहिरो खस्दा पृथ्वी राजमार्ग दुईतर्फी अवरुद्ध रहेको छ ।",
-   "link": "https://www.onlinekhabar.com/2026/09/2026542/landslides-block-roads-at-krishnabhir-and-tingrangkhani-on-prithvi-highway",
-   "source": "Onlinekhabar",
-   "ts": 1790473776,
-   "weight": 3,
-   "img": "https://www.onlinekhabar.com/wp-content/uploads/2026/09/Krishnabhir-6.jpg",
+   "title": "अविरल वर्षाले मकवानपुरका विभिन्न स्थानमा पहिरो",
+   "summary": "",
+   "link": "https://baahrakhari.com/detail/502843",
+   "source": "Baahrakhari",
+   "ts": 1790474669,
+   "weight": 2,
+   "img": null,
    "lang": "ne",
-   "en": "Landslide blocks Prithvi Highway at Krishna Bhir and Tinggrangkhani",
-   "ne": "पहिरोका कारण पृथ्वी राजमार्गको कृष्णभिर र तिङग्राङखानीमा सडक अवरुद्ध",
+   "en": "Incessant rainfall triggers landslides in various parts of Makwanpur",
+   "ne": "अविरल वर्षाले मकवानपुरका विभिन्न स्थानमा पहिरो",
+   "imp": 3,
+   "tags": [
+    "Makwanpur",
+    "Landslide",
+    "Rainfall",
+    "पहिरो"
+   ],
+   "cat": "disaster",
+   "hits": 1
+  },
+  {
+   "title": "म्याग्दीको गिवाङमा पहिरोले घर पुरियो, २ जना सम्पर्कविहीन",
+   "summary": "पोखरा । म्याग्दीको अन्नपूर्ण गाउँपालिका ५ मा रहेको पाउदार गिवाङमा पहिरोले घर पुरिएको छ । लगातारको वर्षापछि आएको पहिरोले घर पुरिएको हो । घरमा २ जना रहेको र उनीहरू सम्पर्कमा नभएको जिल्ला प्रशासन कार्यालयले जनाएको छ",
+   "link": "https://www.ratopati.com/story/595168/landslide-buries-house-in-giwang-myagdi-2-people-missing",
+   "source": "Ratopati",
+   "ts": 1790474479,
+   "weight": 3,
+   "img": "https://npcdn.ratopati.com/media/news/pahiro_DlTNPbiB6E.jpg",
+   "lang": "ne",
+   "en": "House buried by landslide in Givang of Myagdi, 2 missing",
+   "ne": "म्याग्दीको गिवाङमा पहिरोले घर पुरियो, २ जना सम्पर्कविहीन",
    "imp": 4,
    "tags": [
+    "Myagdi",
     "Landslide",
-    "KrishnaBhir",
-    "PrithviHighway"
+    "Disaster",
+    "पहिरो"
    ],
    "cat": "disaster",
    "hits": 1
@@ -5391,9 +5401,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "disaster"
+  },
+  {
+   "ts": 1790475051.510198,
+   "en": "Landslide blocks Prithvi Highway at Krishna Bhir and Tinggrangkhani",
+   "ne": "पहिरोका कारण पृथ्वी राजमार्गको कृष्णभिर र तिङग्राङखानीमा सडक अवरुद्ध",
+   "link": "https://www.onlinekhabar.com/2026/09/2026542/landslides-block-roads-at-krishnabhir-and-tingrangkhani-on-prithvi-highway",
+   "source": "Onlinekhabar",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": true,
+   "cat": "disaster"
   }
  ],
- "updated": 1790474495,
+ "updated": 1790475069,
  "pending_since": 1790473842.6329122,
  "fb_blocks": [
   1790350880.4125228,
