@@ -1,38 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMiswFBVV95cUxPLWJpem5DM29JNDR1ZlRZY1czdWtlR2JjMXpoWGRCYXZ2alVPanBvS0tnNGxId1F3SDhJRlJmbkVuZ20wX1hFQWQxMUhFQjZBMWp4WmJqcEU3SkVkOHVxbHRWdUVuNVJnRVk4dDRWSEhvdnQzV3k0b0ZLSnRHYlFDd1E4RExlNmx5MnFvdjhveWc4dTg4RHNnYlZIdzE5Zk9hXzI2TnZsTkxKMW5HRURDOEtKMA?oc=5": 1790367048.8523514,
-  "https://news.google.com/rss/articles/CBMiigJBVV95cUxQdHRyNGwxdVlfX2xJd2Y2SkliRkloXzE2aHZPbHhaQTI4UW9jREVtamsxZF9SbjNZS3E3UlpycFEzVXUwaDVyV0s2NkNHMUV0Zl82RkZVYXVLeHhid3dXbVlHRkszX1kxclVVTW5tc2tlRGh3dzdmb3h0dWdGQm45SUxSV3ZYY09zUThSdjc3QXF5SWVhNWxCTTc4c09YdlJfdnpZY0d6RXVOUE9DcFVSWkptbmNTbDgzbHV4a2Y4dk9jT2ZtR2plcjBVNFJOS3pqazBuMjd2TGpwaHluckFBck9nQUxaQ0VYbVlnQlpXWkM3UkFOTFNkaTVob1hJREFjSEtRU1BENE1UZw?oc=5": 1790367048.8523514,
-  "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUW9WWE9fdXFTdlNNd2dHNFJsWVg0THV0VGYxLUczYlhKLUxZVER2VzJTUWJ1b1o2MjdGTFE3X25GOXFGTUFJOUI2Y1FZUE5iMkNRbm1hUG80ak9od3FlZThlRU9lUzZpN1NyNlJSaU8zN3VCcUQ4b01mdEZRWkIzTUJhUzYyQTByUG45TF9CMV8xc1JMcC11Y3A4cHAyb3dOS3ZoVUItdXdwUXVaU0ZpcHNtcTNDYW1kM3BDNGloTkxrRzh2cF92TkU3TEhQc0k?oc=5": 1790367048.8523514,
-  "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRmJzR3haR2hHNU82dGVBTmZYMDNuUV8tZE9yVXA3M0FyZWJLWWxOQ1hnRGczRC1tNmVoYU5Yc2N5UXlJVUZ5N1ZuUldNUHh2a204ZmphMFZFZEt0VkhtaTBRUzc1bHlQUUQ3UjE0YTNYb3RxaHRGcERSbzZjQ3d0S3EwVzZHeEFZQUdvNnRudDE2T1o1dGhITg?oc=5": 1790367048.8523514,
-  "https://news.google.com/rss/articles/CBMif0FVX3lxTE5wOEh1TWpGeVJVWFpKbzVGdFBUWmFwbDg4emhwNFBYQVFBYUx0VDNLZVVtaUg2TkRDZTVxVHFtWWtWUUtuc1JMZUxkMlF2cXNMYmZXcUg2VDlUbGhObE5Nem9sLWhjLU1jSkl6dEdPMHJJcjA0QjNNUjlPNHRzaE0?oc=5": 1790367048.8523514,
-  "https://news.google.com/rss/articles/CBMivwFBVV95cUxORV9udFFiUm5aWTlfSjZUdGJpa0wwck9JRlItWElnTXU3N2thcTcycmZGTU5XSzZEUUJlR2g0czBTd2ZoWTN1cXlyVGpJOWRuUU0yWEw4cldyWlNBWjdackkyc29ZVDRLTXVzRGJHV0ZCZzVZNngxandfVlJ2UjZKQTY1TnVWVnJsTjdqNU9EVkwzbVdCYWtkdW5fTlFNbFF4dWJzMGdoRGFsSUFOT0tpTTV0M0ZERUpac1h6bVE2WQ?oc=5": 1790367048.8523514,
-  "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNWVaQVQ5aEMyZG01anZhSFU2amZScWFoLVZuRElSTTJmYWJVWGJVeFprZndMd3IyUlpEMVZTQVlNQzBsNTUtZXhlWm9aNW5tMnZqVkQ0Z1UzbUp4ckFqOE5HcXBRbkVaVjB3NGg1WXBSSlhRcUZRR3dyUDNRTm5PLXZ1SGhXbnliM0E?oc=5": 1790367048.8523514,
-  "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPQ3R6VUtVSEdOVWxvaGxQY2NsOGxvTWx1VWpmWjFRakJISUp5UHRreGkzYzByNHU1QWZMU3ZDUzB6djVsMVVsMGtNVmJ1ZHJOblU5elBhdE5hOTg0M1BuRlJKUzEzQmZJMklxRkp2MUJOM3UwNVZsS2hSa2lhYW5PcTFRMml6WHJlWG1Oa3ZpZndKUXNUZUF3dXpROUhWWW5ma0o3Z3JEVEI3OEpuM2xlM0FsRHAyNU56YnIxbjVGbl9Vbm9rbEVBUzdyWjl4eFI2VmRIYTV3c3Q0d2pZYks3Nm5yR19VSk9rQkZFaWR5NXNpUjg2VVh0RzRRWndMN1XSAf8BQVVfeXFMT0N0elVLVUhHTlVsb2hsUGNjbDhsb01sdVVqZloxUWpCSElKeVB0a3hpM2MwcjR1NUFmTFN2Q1MwenY1bDFVbDBrTVZidWRyTm5VOXpQYXROYTk4NDNQbkZSSlMxM0JmSTJJcUZKdjFCTjN1MDVWbEtoUmtpYWFuT3ExUTJpelhyZVhtTmt2aWZ3SlFzVGVBd3V6UTlIVlluZmtKN2dyRFRCNzhKbjNsZTNBbERwMjVOemJyMW41Rm5fVW5va2xFQVM3clo5eHhSNlZkSGE1d3N0NHdqWWJLNzZuckdfVUpPa0JGRWlkeTVzaVI4NlVYdEc0UVp3TDdV?oc=5": 1790367048.8523514,
-  "https://www.ratopati.com/story/594960/12-oclock-12-news-preparations-for-balens-visit-to-india-indrajatra-celebrated-in-basantapur-amidst-rain": 1790367048.8523514,
-  "https://news.google.com/rss/articles/CBMixwFBVV95cUxObGRSUmJrQk95RmpQNnotVlV0UG1mcDdVZmMxQmJpTFplVGV4dC1uaF8tMFBKdGtTWi1BcmRtMGpPc0lZVXpiSGNTZWtsSDBLWlBOR3dkUmxzTmxQWWEtMnRsYU94Vm1yZm91NWlWWTltaHhKa18zdGs4dGFsMEk3Z00tVEdBR0EyeEdOOWYtZHROUWZKXy1Sdy1RbDNSTGdqeUlvY3hPQ3VXeVJQaWo5bG80MFE4a255UkNZMmxxVllEby1JblVB0gHMAUFVX3lxTFBhR1ozNE1ScUJZWFIyTEgxZTRTS0Z5OWVaREV0NExiRU52Nm91VVFJZHJpdUVFUG5pZjBEUkEwRllDQTBIT25FR3pNTWhreG9mcFdrZTJlSGNLQnEtN0RIeEo2RjFDN3EtWHhleHRiYUdLbkdyNFJ5YUNiSVVZSkRmRE1OLUdNVHhITXp5Vm91Y3VjeE5waTdfRVphQ1o0bUplYlFhVVA2d2pCU1JEUkhPOVNjS2k2aUlmZ19wdWRadmJGV0VRdk9pSWdVNA?oc=5": 1790367048.8523514,
-  "https://baahrakhari.com/detail/502750": 1790367048.8523514,
-  "https://gorkhapatraonline.com/news/224264": 1790367048.8523514,
-  "https://khabarhub.com/2026/25/1029200/": 1790367048.8523514,
-  "https://www.onlinekhabar.com/2026/09/2025317/glaciers-and-floods-do-not-travel-with-a-visa-stamp-in-the-passport": 1790367048.8523514,
-  "https://kathmandupost.com/national/2026/09/25/international-media-highlight-shah-s-climate-message-regional-proposal-and-shades": 1790367048.8523514,
-  "http://lokaantar.com/story/329775/2026/9/25/sudur-": 1790367048.8523514,
-  "http://annapurnapost.com/story/508374": 1790367048.8523514,
-  "https://nagariknews.nagariknetwork.com/social-affairs/six-shepherds-trapped-in-snow-contacted-500-sheep-still-missing-55-21.html": 1790367048.8523514,
-  "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQUZkdmw2YjFrVFhSV2U3S182UG5ZeEhaei1CdjVud3NuS3VzWkthODJpTnUtOTFPYjB4c0ZSVmlmZklKYklseTU4bzNaOEJnNnYxTVZVNG5rM2pseGFTTzRTb1ZoeWE2QngwZVNBUUFJaGExSXktYjVuUzJHZndXU1cwLVpyZEpjS0xWYi1rckVnOVRIWUZ2TVBoQmZqbUZnTFZaUFJLN0lrejc2dERrdy14enJ3YXVqLUZvd0FRTVNsTXE3MENXWV9FZjhqdVVqQVpPc0hR0gHbAUFVX3lxTE85bWs2ZVVaLWJsbGpSbERRRzFyTVNpeUkxZEJKR18xYjd2WVhUVEVsaGFpNFJfVnBKWkppZXpBM1VkeWdvSmIzaFhiRF9OVlBnbmQ4djFNZnlDSkplQmpkWEhGbmdBOXNvVEtNQnpydHJ4Ym1WbkFzZDZYdXRpWXVmTkRtSXhWeFFlZk55TlJIV2tZdTVvb2hlWDJqMWtDQWY5VHg2ejltUXhnVldIcUJsRjJvRFQxbms0RGo1MUE3cnp3LU5IUE84UGZxSUpsYTVZZXl4emFzUWZ0RQ?oc=5": 1790367048.8523514,
-  "https://news.google.com/rss/articles/CBMidkFVX3lxTE5zelcySmJIdldPa3gxUkpQdlFnd0JUSHJLOVhUUEE0YmVBNUNxQm10NERPQ0pid0xSNHdiQklpUVUyMWU1R1hlS3ZxVzA1THZRdDcycWk4aWZ2eWZ0YzFEc3V0ZjRqekg1bl9FVWxfYWR2aDZfa3c?oc=5": 1790367048.8523514,
-  "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkV201Yzg3cXp2bjJqR3JYb2hyVm1IWGFra3kxYTdBa0xHaVQxTG1TSTFyT0tyYlRES01HTUxmdjJ0Q09oS0lUb3pNSHVaYmVIOTN2UUVwVVU5d0FqU09DMjJvU1dqczFxc1Fwei1jVjd3ZHFtTkZBMmRoRXJMX3M?oc=5": 1790367048.8523514,
-  "https://www.ratopati.com/story/594959/praise-for-china-austria-relations": 1790367048.8523514,
-  "https://baahrakhari.com/detail/502749": 1790367048.8523514,
-  "https://gorkhapatraonline.com/news/224263": 1790367048.8523514,
-  "https://khabarhub.com/2026/25/1029195/": 1790367048.8523514,
-  "https://www.onlinekhabar.com/2026/09/2026006/15-committees-formed-for-congress-general-convention-gagan-to-be-coordinator-of-steering-committee": 1790367048.8523514,
-  "http://lokaantar.com/story/329773/2026/9/25/eu-": 1790367048.8523514,
-  "http://annapurnapost.com/story/508373": 1790367048.8523514,
-  "https://nagariknews.nagariknetwork.com/international/couples-forced-to-stay-married-for-13-years-because-divorce-is-expensive-74-61.html": 1790367048.8523514,
-  "https://news.google.com/rss/articles/CBMixgFBVV95cUxQT1JxdmZjT2ZDa2ZWTk5QNTNZQ2ktZGRwMWpsZUdhYmpFTUJGNVFXVWZhbk1fV0ZTdHFnOHdCcHVtcGNTaU1LeXBMemVrXzNKcGliMzNuU3FhRzVMakJnNmtpVG0yel83M1F2THJoSjhyQm94NU5jbDBnZ3JSYXhsRl9YcUpNVGtaQ3JBWXJRdzZuTUpXRkZ6Y01MMzB0QnN5V2NRYllGaGFVdWtXeFlhYzhoYmtaWlNIMGJvLTE1RnlVekZBQlE?oc=5": 1790367048.8523514,
-  "https://www.ratopati.com/story/594957/landslide-in-ghansikuwa-cleared-traffic-services-resume-on-prithvi-highway": 1790367048.8523514,
-  "https://baahrakhari.com/detail/502748": 1790367048.8523514,
-  "https://gorkhapatraonline.com/news/224262": 1790367048.8523514,
   "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSnBXMmJrX1EzenVpQXhkb1lOdlNnY0RFVjNlRGhidGpUeVZlNHhCMnVFRTY0dGxOeUxHbUNkbVZjbjdrY0Z5Mms1NGhjZXFCLWhpSzVPV3hnenlhQy1DdXV5LTVLOWNrcnRzbi1tU2xOcDVSbVZ2NVVNUFBDaU9QcERNUDVham1IeUVNSmtoQXhrZG5hU0VDcVdjZFdianFTVktoYllHRHhtOEU3cWF5NDRLeEJLZFhQeFJRMG5lVS13cktETklpX2NyRQ?oc=5": 1790367657.8485866,
   "https://news.google.com/rss/articles/CBMihgFBVV95cUxORVZqaHNrd1lmSmNIaDBkcDF0ODJNdE5QVndnZ1VwajNiZGJfT3p0THBNcTBaZTBJcXNUbkRBdUU0b0M4R2p3OEtWcl9RTEp2LVpoTHVLMlhJVG1DakNKc1Exb2w5aWtfNkZka2NCX3JUbGU3b3ZNSVFveUsyZlBCcEpJbUx1dw?oc=5": 1790367657.8485866,
   "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUFRpbS1ybEYtUFpVdVcxdjJZVURhSTN6V2tXcW02RmpQT1ctNW5hX0VsUnN5Tk1sTGQ1V2tRZXJuQjh3bGlub095ZUwyRGItWi0wVld5MWVua2h0V1oyamlpWEZ6YXB0bjI4YjRSWWs2Qi1PcDc5RGNWQlRjb0U1aEk2aUJjZU5KSGJOQ3Vn?oc=5": 1790367657.8485866,
@@ -3016,47 +2983,11 @@
   "https://www.ratopati.com/story/595387/communication-outage-in-three-districts-after-fiber-ruptures": 1790538646.0334327,
   "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeHBiNE1SY0JjTVZGWUY1bjZmc1hQSkhiRTlnbGFsQjcta2dXX19rR1hOUXpYLVdxUkZtdllxc2V2MV84MnBabUx1M0tULWI4Y3N1aWlIbnREVTVibFRyNkwwTndVV0xSLW5kcXYyY1ZubnNZMUZBZUZxc3FOVVBtQWJuMFZSRU9iaU1YVDhxVEUxclFrQ3UxUTRWREpZUjJfVWZKMHBGak41Zw?oc=5": 1790538646.0334327,
   "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOQXU1T3RrZjg1X1RwQ0RuSjlYcVFuSFNnb2FIRlhXYzZzRTB6eC1acWdkaF9uaTdXVlRVekpNOXhnR1FsZnJDOUJhRlBXMlNoczJRRGNGcTJ6N0psZkxEcW9KQ3NfQ2pKT3hZYVJtNHFWbTJkeEowZ3R0NTBjWDRpY0RDRno0MGN4S2ppYjgyY0p0OG5ndV9iUjJnLVpuMVlzdTh5VUdQZE94c2s0NE5FdHlTY1NjaV8xa3BIQmNuTXphVTA2MUZGZ0ZNa25ZcF9jUXBBM2IzZ0ZqR0prUFplSFB6WGpDaVRYWXdDUkctSTNRUU9mMFHSAfsBQVVfeXFMTzlUNjZCblg0VVpRVVAxNngzVU1xZEZhTjRVNG1YNl96eURDdmZiVlBMSnV0LUdEbWVrbmQ3OVlOMjgwSFNObDhHUE50RlVYSFdleWxhOVYtclJHRVVWUXJ2bk0tVThrR1hPdzd0eWdNdUNFYnlpeGdJMm9QVlQyS1FNQnA1S1JlVGd3U3VZZGJaOXVvQmlaNVFCSm1kTEFDblA5X2RCR3pFRlR0ZHV1SjZtbVVrYS1yTkVzaFQ4dm1QRXBPdHd0NUtDVjZwemZ4OEl2TzU5LUJ0RVJkRWZ0WjJiTXRpQUIwSTNWTTk3SUh0dWxaXy1XR19XZGM?oc=5": 1790539846.0433395,
-  "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMUhDeGFsaXZqeTNwS2JzWmNYdzk2TkNiTnR4UkhZRW5QeXA5YlBMREQtUXJUOGpxUlZkc1V1bGtmVS1RcFdOYmdMNkJJb18wb0JLUjl6d0VxckxaX3ZQYVRNMWh5ZzliNDI3ZVA3Q3lXNnFGRUw3ZXliaFpzY3FMN0ZjVExRQ2Zfck1qRTJXbWRQWF9pVUdtMWVoY9IBoAFBVV95cUxNeVI0bUxaUGVnVlZsSmcteUZYZzhkamEtcGx3b21LNmRvOGctbFpha08tQ3A0emNVdVl1MGd3Y1FoMGRDaXNIa0VRU2RONURlb0R4T2VVZHFXZ1J2eURwYWRWR2haSU54ZlhsU3Y4djNuUEdLVEhadUZfSjZwYmNmYUVyZjlyaFZhOXlFS2w3N1Y5ZVY1V1pIMXNqZWc2T1Uz?oc=5": 1790539846.0433395
+  "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMUhDeGFsaXZqeTNwS2JzWmNYdzk2TkNiTnR4UkhZRW5QeXA5YlBMREQtUXJUOGpxUlZkc1V1bGtmVS1RcFdOYmdMNkJJb18wb0JLUjl6d0VxckxaX3ZQYVRNMWh5ZzliNDI3ZVA3Q3lXNnFGRUw3ZXliaFpzY3FMN0ZjVExRQ2Zfck1qRTJXbWRQWF9pVUdtMWVoY9IBoAFBVV95cUxNeVI0bUxaUGVnVlZsSmcteUZYZzhkamEtcGx3b21LNmRvOGctbFpha08tQ3A0emNVdVl1MGd3Y1FoMGRDaXNIa0VRU2RONURlb0R4T2VVZHFXZ1J2eURwYWRWR2haSU54ZlhsU3Y4djNuUEdLVEhadUZfSjZwYmNmYUVyZjlyaFZhOXlFS2w3N1Y5ZVY1V1pIMXNqZWc2T1Uz?oc=5": 1790539846.0433395,
+  "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVlQwNkJ5ZWJKY2FmbmJzaWluOFlQeHR6RWptT2ZuQS1DbGVXSHExcHJVa1VZcC1WeWF0MzJYX1RjcXhSd0w1RDNVbFZ5a2tGT0RIZHFEZ3J0alZDNlJBbkdsZkYtSFFjcHF0ZkI4VmttRU42aGpQTWpvQ2hmTGhtbGdEUWlkSjUw0gGIAUFVX3lxTE1WVDA2QnllYkpjYWZuYnNpaW44WVB4dHpFam1PZm5BLUNsZVdIcTFwclVrVVlwLVZ5YXQzMlhfVGNxeFJ3TDVEM1VsVnlra0ZPREhkcURncnRqVkM2UkFuR2xmRi1IUWNwcXRmQjhWa21FTjZoalBNam9DaGZMaG1sZ0RRaWRKNTA?oc=5": 1790540445.6794825,
+  "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUTBteWNkeldjRVlscmhPWnppcjNzQ1Bsa084ZWlzQ3BwQU5SSUo4OVdHTnJfQXFIZzJwb21fRUVqTW5TWElaM0J4SEVxLWg1M3RnVjJ6aVpNd1ZPYldlSDBsM2pZWFpvWm5BWk9XZjJfQ3Ywdy1FREhhN1NxdGFfSlc5cWRVX0w3bndvd1pfMlBmU3drNVlMY0tXOWpRMUdyVEpWQi1DWXptb0lZUXlUTThBNDFaejBRbG8yVnQ2U05SbUJ00gHKAUFVX3lxTE15WXJPS2FKbGNxaDJPYVlwRnliV185VFV6NE80akJyVXh4THBIdnNtSlotWHVDb0M5c1VrNDV5Yk9ST0VKdUNPVjExOGg1bGh6ZFZKelRUZnFLSG5GUHlnRDdmYUNOejh2VFM3NjhVZGxQWUpSLS1QWDk1M3pNSmdpLUhsYzVkR1pvOG42QlFnSlpxVmYyQUZoeXlWMG0xX3hSTTFQYUdhYmdvVkl5MEhCV0p3VHUwSVE3SVdqNkJ5Z2JNeVVROGg5X2c?oc=5": 1790540445.6794825
  },
  "queue": [
-  {
-   "title": "२५ भन्दा बढी हेभी उपकरण परिचालन गरेर पहिरो हटाइँदै",
-   "summary": "काठमाडौँ । पृथ्वी राजमार्गअन्तर्गत नौबिसे-मुग्लिन सडकखण्डमा खसेका पहिरो तथा सडक अवरोध हटाउने काम तीव्र गतिमा भइरहेको छ। कमेरेभिर, १२ किलो, बाँगेमोड, पोखरेखोला, चालिसे, परेवाभिर, शीतलबजार, गोमती, कृष्णभिर, ज्यामिरेघाट,...",
-   "link": "https://www.ratopati.com/story/595322/landslide-removal-underway-by-mobilizing-over-25-heavy-equipment",
-   "source": "Ratopati",
-   "ts": 1790511402,
-   "weight": 3,
-   "img": "https://npcdn.ratopati.com/media/news/pp_ksSo5cKesf.webp",
-   "lang": "ne",
-   "en": "More than 25 heavy machines deployed to clear landslides",
-   "ne": "२५ भन्दा बढी हेभी उपकरण परिचालन गरेर पहिरो हटाइँदै",
-   "imp": 2,
-   "tags": [
-    "Landslide",
-    "HeavyMachinery"
-   ],
-   "cat": "disaster",
-   "hits": 1
-  },
-  {
-   "title": "तनहुँमा पहिरोले १८ घर बस्न नमिल्ने गरी भत्किए",
-   "summary": "केही दिनदेखिको अविरल वर्षाका कारण तनहुँका विभिन्न स्थानमा खसेको पहिरो र बाढीले १८ घरमा क्षति पुर्‍याएको छ। बाढी-पहिरोले कतिपय घर बगाएर परिवार नै विस्थापित भएका छन् भने धेरैजसो घर बस्नै नमिल्ने गरी क्षतिग्रस्त बनेका...",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/landslide-in-tanahun-leaves-18-houses-uninhabitable-br-41-12.html",
-   "source": "Nagarik News",
-   "ts": 1790511233,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1790510899_tanahun.png",
-   "lang": "ne",
-   "en": "Landslide in Tanahun destroys 18 homes, rendering them uninhabitable",
-   "ne": "तनहुँमा पहिरोले १८ घर बस्न नमिल्ने गरी भत्किए",
-   "imp": 3,
-   "tags": [
-    "Tanahun",
-    "Landslide"
-   ],
-   "cat": "disaster",
-   "hits": 1
-  },
   {
    "title": "कंगोको किभु तालमा डुङ्गा पल्टिँदा १२ जनाको मृत्यु, दर्जनौँ बेपत्ता",
    "summary": "पूर्वी कङ्गोको किभु तालमा व्यापारीहरू बोकेको डुङ्गा पल्टिँदा कम्तीमा १२ जनाको मृत्यु भएको छ भने दर्जनौँ यात्रु बेपत्ता भएका छन् ।",
@@ -3114,24 +3045,6 @@
     "DigitalBanking"
    ],
    "cat": "economy",
-   "hits": 1
-  },
-  {
-   "title": "अब थामिएको हो वर्षा?",
-   "summary": "मनसुन अझै बाँकी रहेकाले पानी नै पर्दैन भन्ने निष्कर्ष निकाल्न नमिल्ने उनी बताउँछिन्।",
-   "link": "https://www.setopati.com/social/399381",
-   "source": "Setopati",
-   "ts": 1790511420,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "en": "अब वर्षा रोकिएला?",
-   "ne": "अब थामिएको हो वर्षा?",
-   "imp": 1,
-   "tags": [
-    "Rain"
-   ],
-   "cat": "other",
    "hits": 1
   },
   {
@@ -3211,25 +3124,6 @@
    "hits": 1
   },
   {
-   "title": "कोशीमा रोकिएको ठेक्का प्रक्रियाको काम सुरु",
-   "summary": "११ असोज, विराटनगर । कोशी प्रदेश सरकारको भौतिक पूर्वाधार विकास मन्त्रालयले चालु आर्थिक वर्षका लागि रोकिएका विकास निर्माणसँग सम्बन्धित आयोजनाहरूको ठेक्का प्रक्रिया सुचारु गरेको छ । मन्त्रालयले प्रदेश मातहतका १४ वटै...",
-   "link": "https://www.onlinekhabar.com/2026/09/2027097/work-on-the-stalled-contract-process-in-koshi-begins",
-   "source": "Onlinekhabar",
-   "ts": 1790511341,
-   "weight": 3,
-   "img": "https://www.onlinekhabar.com/wp-content/uploads/2026/09/koshi-province-3.jpg",
-   "lang": "ne",
-   "en": "कोशीमा रोकिएको ठेक्का कार्य पुनः सुरु",
-   "ne": "कोशीमा रोकिएको ठेक्का प्रक्रियाको काम सुरु",
-   "imp": 2,
-   "tags": [
-    "Koshi",
-    "Contract"
-   ],
-   "cat": "economy",
-   "hits": 1
-  },
-  {
    "title": "एक वर्षमा एक लाख बढीले गरे सुरक्षित गर्भपतन, कानुनी सुधार हुँदै",
    "summary": "",
    "link": "https://baahrakhari.com/detail/502931",
@@ -3284,43 +3178,6 @@
     "1300MW"
    ],
    "cat": "economy",
-   "hits": 1
-  },
-  {
-   "title": "पितृप्रति कृतज्ञताको पर्व सोह्र श्राद्ध",
-   "summary": "काठमाडौँ, असोज ११ गते । आफ्ना पितृप्रति कृतज्ञता जनाउँदै गरिने सोह्र श्राद्ध अर्थात पितृपक्ष आजबाट सुरु भएको छ । आज पहिलो दिन प्रतिपदा तीथिको श्राद्ध गरिएको हो । पितृबाट पाएको जीवन...",
-   "link": "https://gorkhapatraonline.com/news/224539",
-   "source": "Gorkhapatra",
-   "ts": 1790511528,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/385223/conversions/s-2-original.jpg",
-   "lang": "ne",
-   "en": "पितृप्रति कृतज्ञताको सोह्र श्राद्ध पर्व",
-   "ne": "पितृप्रति कृतज्ञताको पर्व सोह्र श्राद्ध",
-   "imp": 1,
-   "tags": [
-    "Shraddha"
-   ],
-   "cat": "culture",
-   "hits": 1
-  },
-  {
-   "title": "सरकारको बाटो कुरिरहेका छन् मनाङवासी- 'सक्ने भए उद्धार गर्न आउनु, मरेपछि लास खोज्न नआउनू'",
-   "summary": "पोखरा । सहायक प्रमुख जिल्ला अधिकारी कृष्णप्रसाद पौडेलसँग समाचारका लागि फोन गर्दा उनी पहिरोको अघिल्तिर भागिरहेका सुनिन्थे । भने, 'सर फोनमा कुरा गर्न सक्ने अवस्था बनेन । अहिले राख्नु, म भाग्नुपर्ने भयो ।' मनाङको चामेमा",
-   "link": "https://www.ratopati.com/story/595323/manang-residents-are-waiting-for-the-government-come-to-rescue-if-you-can-dont-come-to-look-for-the-body-after-it-dies",
-   "source": "Ratopati",
-   "ts": 1790511491,
-   "weight": 3,
-   "img": "https://npcdn.ratopati.com/media/news/capture2_2IEMwHXk3J.webp",
-   "lang": "ne",
-   "en": "मनाङवासी सरकारको बाटो कुर्दै - 'सक्ने भए उद्धार गर्न आउनु, मरेपछि लास खोज्न नआउनु'",
-   "ne": "सरकारको बाटो कुरिरहेका छन् मनाङवासी- 'सक्ने भए उद्धार गर्न आउनु, मरेपछि लास खोज्न नआउनू'",
-   "imp": 2,
-   "tags": [
-    "Manang",
-    "Rescue"
-   ],
-   "cat": "politics",
    "hits": 1
   },
   {
@@ -7112,7 +6969,7 @@
    "cat": "sports"
   }
  ],
- "updated": 1790539850,
+ "updated": 1790540448,
  "pending_since": 1790539273.6624773,
  "fb_blocks": [
   1790350880.4125228,
