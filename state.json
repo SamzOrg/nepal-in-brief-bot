@@ -1,27 +1,5 @@
 {
  "seen": {
-  "https://khabarhub.com/2026/25/1029009/": 1790326880.3088832,
-  "https://nagariknews.nagariknetwork.com/social-affairs/205-2-mm-of-rain-falls-in-archale-palpa-54-23.html": 1790326880.3088832,
-  "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOdENtUDhBdWphcENkQTA0azRhR1pfVUVoNGlLM01MMThoVWdoWmhpTW44SDY5Rkg0TDNEdU1TdE02cXdtRE9oMG8zOEtvMlZUSVNpR3ltcUp6RzRBR1U5UzRDSnl5eWdXTkFOeUtWZUg4RXhSdEEzVVRfVDJEdUJZN3BfRW1BSFdUWWg3cnY2RVJEVldaT0o3RkNMQV9nR3RNRTRtY2liY0lkcUhhakpDTi15andPb3A4NWlBNkVac3hUcjJJVVNMMnVTdjZVcC15ZmxBREJrQ3dnT3ZLd0Z0amJiMk81anUzOFlhMTRma01kcWphNnlIeGdwX3JreWVPMk5wWjZ1TmtacDDSAYsCQVVfeXFMTnRDbVA4QXVqYXBDZEEwNGs0YUdaX1VFaDRpSzNNTDE4aFVnaFpoaU1uOEg2OUZINEwzRHVNU3RNNnF3bURPaDBvMzhLbzJWVElTaUd5bXFKekc0QUdVOVM0Q0p5eXlnV05BTnlLVmVIOEV4UnRBM1VUX1QyRHVCWTdwX0VtQUhXVFloN3J2NkVSRFZXWk9KN0ZDTEFfZ0d0TUU0bWNpYmNJZHFIYWpKQ04teWp3T29wODVpQTZFWnN4VHIySVVTTDJ1U3Y2VXAteWZsQURCa0N3Z092S3dGdGpiYjJPNWp1MzhZYTE0ZmtNZHFqYTZ5SHhncF9ya3llTzJOcFo2dU5rWnAw?oc=5": 1790326880.3088832,
-  "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ZdV9sVE53SjVmN3pPaExWblQzVGl2X3dxS0xURDJXVDQ4ZEFNcnZDUWZTQnNyZzVHWFF4eHFmOVVUeFF5dnZCbmZPN3g4Z1dSdktTTFEzMlJhRWJGZWlHaGNPemktWGdBNnV3dVhNZEZzYldIQlM0?oc=5": 1790326880.3088832,
-  "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNMEVyY1ZwX0Z1djdJU0JZSWxpYUY1dmZHWFhqcHJOUms1TS1BVC10dFoxbkhxT1N2SXREZW9QdXJRS3puc0dIejEwa01id1BSbFdZX0IwZGNOdWczXzJOWTQyNFA1amF4VU84eEtieHVYb0RBbGN0RnVrM0M5UzZYeHUzOFU5T0lqOW54Z1hvSHliMkxiNV81OFBBUUZMZVZvQ1F2N0tCbllHZFIxU3NrQVJlaEJmakRWZUNMWGM0TlJGLTFQWW9WSlAtN0FKeUp1N2JDSU9nZnRKck9oTHYyZFhaTEV2bi1uYnlsNkwtNXA3U3E4ZzBVSFhB?oc=5": 1790326880.3088832,
-  "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRVNJNkNpY3Y5LXdzTTFvOVQwMGg4bGFNQU9pXzRlX0J4cGpRSXlmNEpRc3E1dmF2VmhuTlVYSDZjVC1Sd2stT3NQRE1tdnlkVm5tMXhLZ2VhTFUxTElLWlp1azNRUE81enN1Ri16ZnN6YU5yNkxaV0JTd01CNVVlQ3ZJYkU5YTA2QnhMSC1BUjBQckprWUFvVnpjaVpNRkN4?oc=5": 1790326880.3088832,
-  "https://news.google.com/rss/articles/CBMisgFBVV95cUxPank4a3N2Szhqb2hXTXNJcXhZbDBSV25wRTMxNDRhN1RqNGE0SWp6WXBYYXJUZGNWdmhDdXlBQlZrcnR5ZUdPeXFkc2VUUVBZLUc3bThrZ3pxcHU2LXEyOHpMRXVuVExfNlJ4Q3FBZnpFYVNoa2JfU0EwSF9hUG5FSDRodGlreWFiMl8ySjE4RXpBNjV2NFFsTUJscFBTVy11WmJ0VVpmWFN3LUxGRlJMOUpn?oc=5": 1790326880.3088832,
-  "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVzBOQ2RETE5Wa2tLV1VrVEs2VGwxZzB0UER3YmdUOXdSdFM3ZTR3QkpwTFctTW1uVEJkbHp0bFMxZzN3TXEtQnJGcUo3amJxZC1XTnBIYVU2NEVYWm5yTEpKQWtJUzNJa1dWSzVTSmdsLUc4Q0pHelBXb01QRl94VjN2YXJoTUlLN2ZqVjRhTzRBNklJX1Y5MDlvOVRNX2pj0gGgAUFVX3lxTE5XME5DZERMTlZra0tXVWtUSzZUbDFnMHRQRHdiZ1Q5d1J0UzdlNHdCSnBMVy1NbW5UQmRsenRsUzFnM3dNcS1CckZxSjdqYnFkLVdOcEhhVTY0RVhabnJMSkpBa0lTM0lrV1ZLNVNKZ2wtRzhDSkd6UFdvTVBGX3hWM3ZhcmhNSUs3ZmpWNGFPNEE2SUlfVjkwOW85VE1famM?oc=5": 1790326880.3088832,
-  "https://www.ratopati.com/story/594847/womens-health-dont-miss-these-health-checkups-after-30": 1790326880.3088832,
-  "https://baahrakhari.com/detail/502691": 1790326880.3088832,
-  "https://www.setopati.com/art/bollywood/399236": 1790326880.3088832,
-  "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVTVna0JQZWtUSFZVd2FielVCWlNINFpjZFg0WXNrSGNCVGVMaVF1OVdfMGg4aVZHRTVKU09mX2V2TFRWb1hsSWEtQ1FTeWRPX01KcXpXUXBJMGxyelBBZmdiSHVBOXYzdzd5NzNVTzMzczcyMVdaRTdNWlJBbHo2TzhRdkszOUZKYWgwRHNIMXBwcDVnWGJPb3JnOWlsY1AyZk5YZy00M2dBVndrb2FyMFFMUTlHRTBjZ2huUThxdWhPaGJyQnl2bFNwYllZODFHb3ZjU3BIYlBOTFXSAdsBQVVfeXFMTlU1Z2tCUGVrVEhWVXdhYnpVQlpTSDRaY2RYNFlza0hjQlRlTGlRdTlXXzBoOGlWR0U1SlNPZl9ldkxUVm9YbElhLUNRU3lkT19NSnF6V1FwSTBscnpQQWZnYkh1QTl2M3c3eTczVU8zM3M3MjFXWkU3TVpSQWx6Nk84UXZLMzlGSmFoMERzSDFwcHA1Z1hiT29yZzlpbGNQMmZOWGctNDNnQVZ3a29hcjBRTFE5R0UwY2doblE4cXVoT2hickJ5dmxTcGJZWTgxR292Y1NwSGJQTkxV?oc=5": 1790326880.3088832,
-  "https://www.onlinekhabar.com/2026/09/2025651/red-alert-in-koshi-31-gates-of-barrage-opened": 1790326880.3088832,
-  "https://nagariknews.nagariknetwork.com/social-affairs/dobhan-fire-causes-rs-145-6-million-in-damage-br-84-93.html": 1790326880.3088832,
-  "http://annapurnapost.com/story/508341": 1790326880.3088832,
-  "https://www.ratopati.com/story/594846/nepali-passports-in-dubai-will-now-be-delivered-to-your-home-via-post": 1790326880.3088832,
-  "https://baahrakhari.com/detail/502697": 1790326880.3088832,
-  "https://www.setopati.com/art/bollywood/399235": 1790326880.3088832,
-  "https://news.google.com/rss/articles/CBMitgFBVV95cUxOU3Nvd3hzRXNwNGhpM3A4ZmNoQ0QwVjZrUU0yc0NYbUtPT0hsRzFRVlNMYVl2OEFOUUY0b1VVc0lJLUtDczJkbE90WUtvUTJEbUdzS1dLXzJWa2NVNzZfaUhMZW90QnFBNUU1dmJQWC1zZTBoRGJvc2k0TDU0VXBVSFNVUjdkUm4tY3EtUndYcGpsSU10WTBjdmlxU3E0X3hqanh4WGp3WndRX0E0V3l5OE03N19WQdIBuwFBVV95cUxPTEpMY0ttZW5nNHo2LWJVNlg5Y3pqMDBVbmJMOVAzV3BpLXJRUUs5SUJzejc1azljUVM4NG1BNXo3a3VwdzFwbWNPdVlJdVE3V0J5U2lfbVFiU1N5c2Jxa2k1ekplMFhrcWlRR3V5azdoRnYwTXVfaTZfNVpKN3Zhb0stSUNhekt5QzVBQU9wWHFvZnFicTFJNjVCNVJQX1RmN3gwdktPaUpsSEZjSDYxdjdtLTFHVzlJcGk0?oc=5": 1790326880.3088832,
-  "https://www.onlinekhabar.com/2026/09/2025596/new-distortion-in-cooperatives-commission-on-savings-collection": 1790326880.3088832,
-  "https://www.ratopati.com/story/594845/national-trauma-center-contributes-over-43-million-to-prime-ministers-disaster-relief-fund": 1790326880.3088832,
-  "https://www.ratopati.com/story/594844/bale-confronts-the-film-in-which-he-was-removed": 1790326880.3088832,
   "https://www.onlinekhabar.com/2026/09/2025669/trumps-state-dinner-for-xi": 1790327449.1533663,
   "https://english.onlinekhabar.com/gates-opened-at-koshi-barrage.html": 1790327449.1533663,
   "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVXgtcGh6RXlVQjltMnJYQi0tNm5fVERfNktsSzk3WjRvVTBhU3M0aVoxWDlyV3ozUEpQU0h4VUJaRWVMcXVnaHlBYUUzOFZQeEtfUFVWS1lXbUtCR1FzVEx5azMzQXMtLVdkSmNLY2hrOGFZWHcteng1REZwc0owc3VUQ1RtemM3YWw3Z1lJd3JwMENJTDg4c0QyTDZoRTlwMHc3M0M4eFlHNjRIdjdXVXBJWTh5Nm5ZTXJkWnA0Z2VwbC1SdHUxNHZjRWM2eFl1R2xocjRn0gHbAUFVX3lxTE5VNWdrQlBla1RIVlV3YWJ6VUJaU0g0WmNkWDRZc2tIY0JUZUxpUXU5V18waDhpVkdFNUpTT2ZfZXZMVFZvWGxJYS1DUVN5ZE9fTUpxeldRcEkwbHJ6UEFmZ2JIdUE5djN3N3k3M1VPMzNzNzIxV1pFN01aUkFsejZPOFF2SzM5RkphaDBEc0gxcHBwNWdYYk9vcmc5aWxjUDJmTlhnLTQzZ0FWd2tvYXIwUUxROUdFMGNnaG5ROHF1aE9oYnJCeXZsU3BiWVk4MUdvdmNTcEhiUE5MVQ?oc=5": 1790327449.1533663,
@@ -2921,104 +2899,25 @@
   "https://www.ratopati.com/story/595259/europes-far-right-parties-are-suspicious-of-germanys-afd": 1790499674.5049303,
   "https://www.setopati.com/art/art-activity/399357": 1790499674.5049303,
   "https://www.ratopati.com/story/595258/south-africa-to-face-australia-on-pink-day": 1790499674.5049303,
-  "https://www.ratopati.com/story/595257/one-person-found-dead-in-bhangi-drain": 1790499674.5049303
+  "https://www.ratopati.com/story/595257/one-person-found-dead-in-bhangi-drain": 1790499674.5049303,
+  "https://www.ratopati.com/story/595266/narayangadh-muglin-road-operational-prithvi-highway-to-be-put-into-operation-today": 1790500244.4189677,
+  "https://gorkhapatraonline.com/news/224512": 1790500244.4189677,
+  "https://khabarhub.com/2026/27/1029856/": 1790500244.4189677,
+  "https://english.onlinekhabar.com/public-service-commission-bill.html": 1790500244.4189677,
+  "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWjZwZjhMeWUwaUhTMXdlSTZTUWN3OEx6Ymt3V2hadWVVc1daN3FhTHJtcThPbzFMVHQyVFlOamNCR3dnRjZyd0JiVmNMS3Q4bjVSTmtUYXVlYkgxVGpfZDNQYklkWFNkb2NNZ3Z0aWV2M09MVWxYQWg3eDJjMlJES3BSNkFQR2NJUkJ5S0xiTXJTVDAtZkp4RFpLMjV5QTZ5d0ZYYXNRNVdFYTcwLXc?oc=5": 1790500244.4189677,
+  "https://news.google.com/rss/articles/CBMingFBVV95cUxPd0F3YnFSY29KeXJvcHlZNC1MNEEtOVhMM1dSM1gzd2ZpbmZtdmlkQkJvX3Q2T2JaTHRwb05oVUs0UFU5OUlaMkctWkI4WGhQd3RKWWVXd3VsUDczcnpydmVUTXoyZVlnNmExMTczeEtVbjRCRmIyY1VaZGhhODdxWERhS1JlcmdVNS10UVFkVUlTWHJPSWJScy1SXy04dw?oc=5": 1790500244.4189677,
+  "https://english.onlinekhabar.com/former-chief-justice-cholendra-shumsher-rana-released-handed-over-to-family.html": 1790500244.4189677,
+  "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZUc3UWhOTnp1WUh6c2p6N09HLXZheXk5VHZRTjNOck1IczAwRjlrZmxGbjlCa3Bnc2xkWVVoMWhTWnkxeWtQNVlMNVZXRlplYXBucWNrbmJnVW84NzFlRnhJeW5JWGVsbmZZZ0dSZlM2dzB4TUliLVNpVWRQWHc2d29BaVpKemo1R1M0VDZLWG03M1dpV3BwdHVxaHRidmxNYkczZHJVazlNNTJISFlwak5ZSdIBuAFBVV95cUxOUkZlM3g2Z3laR1RFUnZVWGFTWmtjQnNRTDRYamo0dHFyRk9XR1BwMU9UWDBNRUJveC1wdkg2ZHdROVFLdVEzemQ4OUROQU1nNDVxck9yS3d6RVZOTDNQaFN5c3BNZ08yODQ3R2xJekNMM1d2b3dlVXFqeS1rYnRSM2dFaF9abWl4LW41TThlNklJb005VUhJWkZac0xJemRHZC14SjJiUS1rSjZGNzBhUlVESEVVOS1l?oc=5": 1790500244.4189677,
+  "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOeS1ZSlIyQUVyR3dLbFRjQzRfMFM4M29ROGl6eHJMb3R5R21zQlE5RlludlZFQTBQX3M1RG43ZEU1RlZGSldJRUwxLW9SYzByN0QwMUJxZHpZQktaMFJVNUdOVHFTUEM4V1BndWJjQ0NMOThiQnlhVFBXMkowOXJDUkgyX0JPS1NDRXpDUU9Fbnk2RWtULXoyajA5OXJadTFSUXRraTNSWEtJOU44ZTY5VHJTZ2ppUndVTDN1anBqc1N3NDVVaDM1Vm5GbUhNUHRxVUVMUkJ2TkJGNVRJZGVkRkQ2am0yOGdIT21PS0YxSGQ3dGpvQ0ktVThLVVUwdjg?oc=5": 1790500244.4189677,
+  "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOR25OYzdjb29YTkdURThQOU5rN2VKSTgxZmI5dHdZZHNUNHR6YlVHdm9KV3BIbHhfV0U3ekJ0dXVOcGxhOU5xWThUMk51STVJTUlNQjZWWDI3OVpqVnhUc0RzNFc5a1ZnRE5aTk03ekN6TnVueEVGN1ktdGxWX1RYTnhZaDdOUGg2a1NyUmhQNUxkajVTbWlmUTJKU0pFRE80ejFBWS1iX1VqN2pLSGpoSXFRRmRwMy1CSElF0gHIAUFVX3lxTFBSanhISHJfbE0wdVY4Z1Bnb1Q3bkZyekp4VTkwUTJ5MFVUc2pKWWlrQUljMlp1MEFNQlRMeE4wUDFaT3RIOEVTVTIzZF9rSzVydUsyV0UzZXNCNnZBdWNfZmJPcE9lN1gtcFlXY3lPczVZV3pYS2l1a19JM0NfMXNIZW0tZ1ZqNVY5cHVtSzEwVGV6UTctaDJlREdDU2NreGNsRkRDcU5QWG1WMzZueTJJRnNib3lUdWNzWVQwRXJlRkRrejZ2anpY?oc=5": 1790500244.4189677,
+  "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdDM4NGN3bEtERGdjdEJLTkhIbnoxYy1LUmlieXRWNV9udlRwblpTUThYel9WWUswSm1HanJxdEJ0SGtTSWE4VFpNeHdOWlVWUVBNZm9RNGp0R2xieTdLUWlxVldQSW8xOEFYcF95Yld2NmphdmJ2WXVRV0ZFNXc4WTNjY3dUN1RQczRVUzhObGszT0RuejZmWUhFSjNSMHc2ZWt3YTRHWExlbVFqZzJ3WGdDWGxUN0ZBQmxraFljcU04bjDSAcMBQVVfeXFMTXQzODRjd2xLRERnY3RCS05ISG56MWMtS1JpYnl0VjVfbnZUcG5aU1E4WHpfVllLMEptR2pycXRCdEhrU0lhOFRaTXh3TlpVVlFQTWZvUTRqdEdsYnk3S1FpcVZXUElvMThBWHBfeWJXdjZqYXZidll1UVdGRTV3OFkzY2N3VDdUUHM0VVM4TmxrM09Ebno2ZllIRUozUjB3NmVrd2E0R1hMZW1Ramcyd1hnQ1hsVDdGQUJsa2hZY3FNOG4w?oc=5": 1790500244.4189677,
+  "http://lokaantar.com/story/329887/2026/9/27/pahiro-": 1790500244.4189677,
+  "http://annapurnapost.com/story/508469": 1790500244.4189677,
+  "http://annapurnapost.com/story/508468": 1790500244.4189677,
+  "https://www.ratopati.com/story/595264/bodies-of-three-people-buried-in-landslide-found": 1790500244.4189677,
+  "https://www.ratopati.com/story/595263/large-amount-of-explosives-found-near-british-airfield-used-by-us-military": 1790500244.4189677
  },
  "queue": [
-  {
-   "title": "पछिल्लो २४ घण्टामा सबैधन्दा धेरै वर्षा चितवनमा",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/502834",
-   "source": "Baahrakhari",
-   "ts": 1790471386,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "en": "Chitwan experiences heavy rain in the last 24 hours",
-   "ne": "पछिल्लो २४ घण्टामा सबैधन्दा धेरै वर्षा चितवनमा",
-   "imp": 2,
-   "tags": [
-    "HeavyRain",
-    "Chitwan"
-   ],
-   "cat": "disaster",
-   "hits": 4
-  },
-  {
-   "title": "अन्तर्राष्ट्रिय मञ्चमा नेपालको प्रतिष्ठा उच्च",
-   "summary": "गोरखापत्र समाचारदाताकाठमाडौँ, असोज ११ गते । प्रधानमन्त्री वालेन्द्र शाह बुद्धले देखाएको बाटोमा विश्व अग्रसर बन्न सकोस् भन्ने सन्देश दिँदै अमेरिकाबाट शनिबार स्वदेश फर्कनुभएको छ । सं...",
-   "link": "https://gorkhapatraonline.com/news/224431",
-   "source": "Gorkhapatra",
-   "ts": 1790471357,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/385064/conversions/PM-AIRPORT-original.jpg",
-   "lang": "ne",
-   "en": "नेपालको प्रतिष्ठा अन्तर्राष्ट्रिय मञ्चमा उच्च",
-   "ne": "अन्तर्राष्ट्रिय मञ्चमा नेपालको प्रतिष्ठा उच्च",
-   "imp": 2,
-   "tags": [
-    "InternationalReputation",
-    "नेपाल"
-   ],
-   "cat": "world",
-   "hits": 1
-  },
-  {
-   "title": "ललितपुरमा स्कुटर दुर्घटना हुँदा एक युवकको ज्यान गयो",
-   "summary": "११ असोज, काठमाडौं । ललितपुरको सानागाउँमा स्कुटर दुर्घटना हुँदा एक युवकको ज्यान गएको छ । इमाडोलबाट लुभुतर्फ जाँदै गरेको बागमती प्रदेश ०२-०५९ प २९३८ नम्बरको स्कुटर शनिबार बेलुका करिब सवा सात बजे आफैं अनियन्त्रित भई...",
-   "link": "https://www.onlinekhabar.com/2026/09/2026521/a-young-man-died-in-a-scooter-accident-in-lalitpur",
-   "source": "Onlinekhabar",
-   "ts": 1790471118,
-   "weight": 3,
-   "img": "https://www.onlinekhabar.com/wp-content/uploads/2017/11/Accident.jpg",
-   "lang": "ne",
-   "en": "Lalitpur scooter crash kills a youth",
-   "ne": "ललितपुरमा स्कुटर दुर्घटना हुँदा एक युवकको ज्यान गयो",
-   "imp": 3,
-   "tags": [
-    "ScooterAccident",
-    "Lalitpur"
-   ],
-   "cat": "society",
-   "hits": 2
-  },
-  {
-   "title": "Nepal's tourism industry keeps absorbing one crisis after another - and keeps coming back",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWEJvbTFqalRBQ0k0TG5FV3p0OHZ6SkVkRFZKX0tndUhpc2ItUklWeTVQWlljRHZOY2doOXRwWEhYT0cwRGhPVkY1cGJIR0RJT1ZCdkpXR28zQXVCUTNHVUlCQ1p0Z1VMUTNaQWxMVUdIeHFWeUZmbnIzZmZEME1VbkdVcFB1YTNTb1QwREpSZ1lIQXNRWWEtRTBEWEMwd1FHT3E0aFdVdzhPMF9JRExRQWpfVGVDZl9XTzB4RmZzYTdEWXNTU1QwZjFR?oc=5",
-   "source": "The Kathmandu Post",
-   "ts": 1790471071,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "en": "Nepal's tourism industry keeps absorbing one crisis after another - and keeps coming back",
-   "ne": "नेपालको पर्यटन उद्योगले निरन्तर संकटहरू झेल्दै पुनः उभिएर आएको छ",
-   "imp": 3,
-   "tags": [
-    "Tourism",
-    "Resilience"
-   ],
-   "cat": "economy",
-   "hits": 1
-  },
-  {
-   "title": "'साझा पहलको नेतृत्व लिन नेपाल तयार'",
-   "summary": "काठमाडौँ, असोज ११ गते । हिमाल र समुद्रबिचको सम्बन्ध विश्वलाई बुझाउन नेपालले संयुक्त राष्ट्रसङ्घको ८१ औँ महासभामा उच्चस्तरीय विशेष सत्र सम्पन्न गरेको छ । 'सगरमाथादेखि समुद्रसम्म : ज...",
-   "link": "https://gorkhapatraonline.com/news/224429",
-   "source": "Gorkhapatra",
-   "ts": 1790471001,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/385061/conversions/12-original.jpg",
-   "lang": "ne",
-   "en": "नेपाल तयार साझा पहलको नेतृत्व लिन",
-   "ne": "'साझा पहलको नेतृत्व लिन नेपाल तयार'",
-   "imp": 2,
-   "tags": [
-    "JointInitiative",
-    "नेपाल"
-   ],
-   "cat": "politics",
-   "hits": 1
-  },
   {
    "title": "पाकिस्तानको डेरा इस्माइल खानमा आत्मघाती विस्फोट",
    "summary": "पाकिस्तानकमा भएको आत्मघाती बम विस्फोटमा कम्तीमा १२ जनाको मृत्यु भएको छ भने ३० जना घाइते भएका छन् ।",
@@ -3344,7 +3243,7 @@
     "पहिरो"
    ],
    "cat": "disaster",
-   "hits": 14
+   "hits": 15
   },
   {
    "title": "Economic Digest: A Snapshot of Nepal's Business News",
@@ -4414,7 +4313,7 @@
     "RoadWash"
    ],
    "cat": "disaster",
-   "hits": 4
+   "hits": 5
   },
   {
    "title": "Nepal, Belarus agree on visa exemption for official passport holders",
@@ -5108,7 +5007,7 @@
     "Tennis"
    ],
    "cat": "sports",
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "मलंगवा सबस्टेसनमा पानी पसेपछि १० पालिकामा विद्युत् अवरुद्ध",
@@ -6502,7 +6401,7 @@
     "Manang"
    ],
    "cat": "disaster",
-   "hits": 7
+   "hits": 8
   },
   {
    "title": "Deadly flash flood wipes away villages in Nepal, Tibet",
@@ -6561,7 +6460,7 @@
     "RoadCollapse"
    ],
    "cat": "disaster",
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "राष्ट्रसंघ मुख्यालयनजिकै पुगे तर महासभामा किन गएनन् सी चिनफिङ ?",
@@ -6853,7 +6752,7 @@
     "पहिरो"
    ],
    "cat": "disaster",
-   "hits": 3
+   "hits": 4
   },
   {
    "title": "पहलमान सिंहस्वाँर मार्ग भासियो",
@@ -6994,7 +6893,7 @@
     "DisasterMitigation"
    ],
    "cat": "economy",
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "Six missing in avalanche as severe weather batters Nepal",
@@ -7768,7 +7667,7 @@
     "HomeSecurity"
    ],
    "cat": "politics",
-   "hits": 5
+   "hits": 6
   },
   {
    "title": "Nepal needs prevention systems before tragedy strikes",
@@ -8177,7 +8076,7 @@
     "CivilServiceBill"
    ],
    "cat": "politics",
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "'खै के भयो यो जिन्दगी' सार्वजनिक",
@@ -8571,6 +8470,46 @@
     "Australia"
    ],
    "cat": "sports",
+   "hits": 1
+  },
+  {
+   "title": "पहिरोमा पुरिएका तीन जनाको शव फेला",
+   "summary": "बुटवल। पाल्पाको माथागढी गाउँपालिका-३ भसकाट्टामा पहिरोले घर पुरिँदा बेपत्ता भएका तीनै जनाको शव भेटिएको छ। पहिरोमा परी बेपत्ता भएका ७५ वर्षीय लिलबहादुर घर्ती, १७ वर्षीया दिना घर्ती मगर र १५ वर्षीया झरना घर्तीको शव...",
+   "link": "https://www.ratopati.com/story/595264/bodies-of-three-people-buried-in-landslide-found",
+   "source": "Ratopati",
+   "ts": 1790499886,
+   "weight": 3,
+   "img": "https://npcdn.ratopati.com/media/news/sab_ZHLCZn69qM.webp",
+   "lang": "ne",
+   "en": "Bodies of three buried in landslide recovered",
+   "ne": "पहिरोमा पुरिएका तीन जनाको शव फेला",
+   "imp": 3,
+   "tags": [
+    "Landslide",
+    "पहिरो",
+    "DisasterNepal"
+   ],
+   "cat": "disaster",
+   "hits": 1
+  },
+  {
+   "title": "अमेरिकी सेना प्रयोग गर्ने बेलायती हवाई अड्डानजिक ठुलो मात्रामा विस्फोटक पदार्थ फेला",
+   "summary": "लन्डन । बेलायतको पश्चिमी क्षेत्रमा रहेको अमेरिकी सेनाले समेत प्रयोग गर्ने एक हवाई अड्डानजिक विस्फोटक पदार्थ भेटिएको छ । घटनामा संग्लग्नताको आशंकामा प्रहरीले कैयौँ पुरुषलाई पक्राउ गरेको छ । ग्लुस्टरशायर प्रहरीले आइतबार...",
+   "link": "https://www.ratopati.com/story/595263/large-amount-of-explosives-found-near-british-airfield-used-by-us-military",
+   "source": "Ratopati",
+   "ts": 1790499740,
+   "weight": 3,
+   "img": "https://npcdn.ratopati.com/media/news/cnnphoto_hpQv6bqX5K.avif",
+   "lang": "ne",
+   "en": "Large cache of explosives found near UK air base used by US military",
+   "ne": "अमेरिकी सेना प्रयोग गर्ने बेलायती हवाई अड्डानजिक ठुलो मात्रामा विस्फोटक पदार्थ फेला",
+   "imp": 1,
+   "tags": [
+    "UKBase",
+    "ExplosivesFound",
+    "USMilitary"
+   ],
+   "cat": "world",
    "hits": 1
   }
  ],
@@ -9937,8 +9876,8 @@
    "cat": "disaster"
   }
  ],
- "updated": 1790499701,
- "pending_since": null,
+ "updated": 1790500250,
+ "pending_since": 1790500244.4189677,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
