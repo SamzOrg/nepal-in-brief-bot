@@ -2660,29 +2660,11 @@
   "https://nagariknews.nagariknetwork.com/Dharma-Saskriti/ashwin-krishna-paksha-sohra-shraddha-pitra-paksha-starts-ceremonially-from-today-11-23.html": 1790470291.4621313,
   "https://nagariknews.nagariknetwork.com/social-affairs/impact-of-floods-and-rains-on-tourism-business-br-39-53.html": 1790470291.4621313,
   "https://kathmandupost.com/national/2026/09/27/police-arrest-former-chief-justice-cholendra-shumsher-rana": 1790470291.4621313,
-  "https://nagariknews.nagariknetwork.com/social-affairs/flooding-in-narayani-river-increasing-crosses-danger-level-in-devghat-21-83.html": 1790470291.4621313
+  "https://nagariknews.nagariknetwork.com/social-affairs/flooding-in-narayani-river-increasing-crosses-danger-level-in-devghat-21-83.html": 1790470291.4621313,
+  "https://baahrakhari.com/detail/502831": 1790470871.4999673,
+  "http://lokaantar.com/story/329850/2026/9/27/cholendra-samsher-": 1790470871.4999673
  },
  "queue": [
-  {
-   "title": "लुम्बिनी र सुदूरपश्चिममा हावाहुरी, भारी वर्षाको जोखिम",
-   "summary": "जानु पाण्डेकपिलवस्तु, असोज १० गते । बंगालको खाडीबाट विकसित भएको न्यून चापीय प्रणाली 'डिप्रेसन' नेपालतर्फ अघि बढेसँगै लुम्बिनी र सुदूरपश्चिम प्रदेशका विभिन्न जिल्लामा हावाहुरी र वर्...",
-   "link": "https://gorkhapatraonline.com/news/224414",
-   "source": "Gorkhapatra",
-   "ts": 1790441906,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/385043/conversions/hawahuri-original.jpg",
-   "lang": "ne",
-   "en": "Heavy winds and high rain risk in Lumbini and Sudurpashchim",
-   "ne": "लुम्बिनी र सुदूरपश्चिममा हावाहुरी, भारी वर्षाको जोखिम",
-   "imp": 3,
-   "tags": [
-    "HeavyWind",
-    "Lumbini",
-    "Sudurpashchim"
-   ],
-   "cat": "disaster",
-   "hits": 1
-  },
   {
    "title": "इरानको युद्धविराम प्रस्ताव ट्रम्पले गरे अस्वीकार",
    "summary": "काठमाडौँ । अमेरिकाका राष्ट्रपति डोनाल्ड ट्रम्पले इरानको युद्धविराम प्रस्ताव अस्वीकार गरेका छन्। अमेरिकी पत्रिका द वाल स्ट्रिट जर्नलका अनुसार ट्रम्प देशको मध्यावधि निर्वाचनपछि इरानविरुद्ध हवाई आक्रमण पुनः सुरु गर्न...",
@@ -2702,26 +2684,6 @@
    ],
    "cat": "world",
    "hits": 1
-  },
-  {
-   "title": "Samrat: Bihar, Centre to coordinate on cross-border crimes along Nepal border",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxORVNiQ2ZiZGJ5ZjF0SVdJM3FxOTV5OTFHcFdEYkdheFdUZVZIcGpJZVEybFNaSXBpblpBZVFXY0N6RkdFQWdVQm1sZUxkaFpJcFJ5UUZjZHZBbzBtYmtlTm80TjJmSm5WRmk5MVNPV3RhV3dxWEhsY2g4ejRaOW43TFVpaXJhSnZzWEk4UmhXci03b1draElhaGVQSnhOWWhZZFlpODlnY3A1b2FqRmhWdEdoN0VFb0ZEZUdQa0RTM0dJMzdFN19PYnVsOUZIblhzenBvQjdJdmoxV1pkZFNteDlB?oc=5",
-   "source": "The Times of India",
-   "ts": 1790441640,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "en": "Samrat: Bihar, Centre to coordinate on cross-border crimes along Nepal border",
-   "ne": "नेपाल सीमामा हुने सीमापार अपराध नियन्त्रण गर्न बिहार र केन्द्रबीच समन्वय हुने: सम्राट",
-   "imp": 2,
-   "tags": [
-    "NepalIndiaBorder",
-    "Bihar",
-    "CrossBorderCrime"
-   ],
-   "cat": "crime",
-   "hits": 2
   },
   {
    "title": "उत्तर-पश्चिमी पाकिस्तानमा प्रहरी जाँच चौकीमा आत्मघाती विस्फोट, कम्तीमा ११ जनाको मृत्यु",
@@ -2761,7 +2723,7 @@
     "नेपाल"
    ],
    "cat": "politics",
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "१२ बजे १२ समाचार : यस्ता छन् आजका प्रमुख समाचार",
@@ -4587,7 +4549,7 @@
    "cat": "economy"
   }
  ],
- "updated": 1790470311,
+ "updated": 1790470874,
  "pending_since": 1790470291.4621313,
  "fb_blocks": [
   1790350880.4125228,
