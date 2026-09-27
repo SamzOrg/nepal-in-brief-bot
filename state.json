@@ -2745,7 +2745,18 @@
   "https://www.ratopati.com/story/595163/the-flow-of-the-kaligandaki-river-is-high-washing-away-the-concrete-bridge-connecting-syangja-and-gulmi": 1790473842.6329122,
   "https://nagariknews.nagariknetwork.com/social-affairs/water-flow-in-indrasarovar-dam-increases-to-1-525-15-cusecs-10-27.html": 1790473842.6329122,
   "https://gorkhapatraonline.com/news/224433": 1790473842.6329122,
-  "https://nagariknews.nagariknetwork.com/arts/jhingedau-2-sees-strong-business-on-second-saturday-shows-added-after-excellent-response-from-audience-br-80-62.html": 1790473842.6329122
+  "https://nagariknews.nagariknetwork.com/arts/jhingedau-2-sees-strong-business-on-second-saturday-shows-added-after-excellent-response-from-audience-br-80-62.html": 1790473842.6329122,
+  "https://gorkhapatraonline.com/news/224441": 1790474470.9562862,
+  "https://khabarhub.com/2026/27/1029615/": 1790474470.9562862,
+  "https://baahrakhari.com/detail/502842": 1790474470.9562862,
+  "https://english.onlinekhabar.com/cholendra-shumsher-rana-arrested.html": 1790474470.9562862,
+  "http://lokaantar.com/story/329861/2026/9/27/nepal-bela-": 1790474470.9562862,
+  "http://lokaantar.com/story/329860/2026/9/27/jibro": 1790474470.9562862,
+  "http://lokaantar.com/story/329859/2026/9/27/kaligandaki-": 1790474470.9562862,
+  "https://gorkhapatraonline.com/news/224442": 1790474470.9562862,
+  "https://www.ratopati.com/story/595167/floods-in-parbat-wash-away-more-than-20-houses": 1790474470.9562862,
+  "https://baahrakhari.com/detail/502841": 1790474470.9562862,
+  "https://www.onlinekhabar.com/2026/09/2026542/landslides-block-roads-at-krishnabhir-and-tingrangkhani-on-prithvi-highway": 1790474470.9562862
  },
  "queue": [
   {
@@ -2786,7 +2797,7 @@
     "नेपाल"
    ],
    "cat": "politics",
-   "hits": 3
+   "hits": 4
   },
   {
    "title": "१२ बजे १२ समाचार : यस्ता छन् आजका प्रमुख समाचार",
@@ -3134,7 +3145,7 @@
     "Viredrabhakta"
    ],
    "cat": "culture",
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "लगातारको वर्षाले अनन्ते मेला प्रभावित",
@@ -3431,7 +3442,7 @@
     "राशिफल"
    ],
    "cat": "other",
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "आज विश्व पर्यटन दिवस",
@@ -3834,7 +3845,7 @@
     "Flood"
    ],
    "cat": "disaster",
-   "hits": 3
+   "hits": 4
   },
   {
    "title": "मिर्मी-हर्मिचौर जोड्ने पुल कालीगण्डकीको बाढीले बगायो",
@@ -3853,7 +3864,7 @@
     "MirmiHamichaurBridge"
    ],
    "cat": "disaster",
-   "hits": 2
+   "hits": 4
   },
   {
    "title": "सोह्र वर्षपछि पुनः सञ्चालनमा सिनेमा घर",
@@ -4180,7 +4191,7 @@
     "Armenia"
    ],
    "cat": "politics",
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "तनहुँका ६७ हजार परिवारको जीविकासँग जोडिँदै सामुदायिक वन",
@@ -4199,7 +4210,7 @@
     "CommunityForest"
    ],
    "cat": "society",
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "वैदेशिक लगानी : प्रतिबद्धताको तिस प्रतिशत मात्रै भित्रियो",
@@ -4218,6 +4229,46 @@
     "Commitments"
    ],
    "cat": "economy",
+   "hits": 1
+  },
+  {
+   "title": "पर्वतको जलजलामा बाढीले २० भन्दा बढी घर बगायो",
+   "summary": "पोखरा । अविरल परेको वर्षापछि कालिगण्डकी नदीको बाढीले पर्वतको जलजलामा २० भन्दा बढी घर बगाएको छ । वडा नम्बर ८ फर्से क्षेत्रमा अहिलेसम्म २० भन्दा बढी घर बगाइसकेको र यसको रफ्तार बढ्दो क्रममा रहेको वडाध्यक्ष",
+   "link": "https://www.ratopati.com/story/595167/floods-in-parbat-wash-away-more-than-20-houses",
+   "source": "Ratopati",
+   "ts": 1790474072,
+   "weight": 3,
+   "img": "https://npcdn.ratopati.com/media/news/jaljala_ZORVApcqju.webp",
+   "lang": "ne",
+   "en": "Parbat's Jaljala flood displaces over 20 houses",
+   "ne": "पर्वतको जलजलामा बाढीले २० भन्दा बढी घर बगायो",
+   "imp": 2,
+   "tags": [
+    "Parbat",
+    "Jaljala",
+    "Flood"
+   ],
+   "cat": "disaster",
+   "hits": 1
+  },
+  {
+   "title": "पहिरोका कारण पृथ्वी राजमार्गको कृष्णभिर र तिङग्राङखानीमा सडक अवरुद्ध",
+   "summary": "धादिङको बेनीघाट रोराङ गाउँपालिका-७ स्थित कृष्णभिर र बेनीघाट रोराङ गाउँपालिका-१० को तिङग्राङखानीमा पहिरो खस्दा पृथ्वी राजमार्ग दुईतर्फी अवरुद्ध रहेको छ ।",
+   "link": "https://www.onlinekhabar.com/2026/09/2026542/landslides-block-roads-at-krishnabhir-and-tingrangkhani-on-prithvi-highway",
+   "source": "Onlinekhabar",
+   "ts": 1790473776,
+   "weight": 3,
+   "img": "https://www.onlinekhabar.com/wp-content/uploads/2026/09/Krishnabhir-6.jpg",
+   "lang": "ne",
+   "en": "Landslide blocks Prithvi Highway at Krishna Bhir and Tinggrangkhani",
+   "ne": "पहिरोका कारण पृथ्वी राजमार्गको कृष्णभिर र तिङग्राङखानीमा सडक अवरुद्ध",
+   "imp": 4,
+   "tags": [
+    "Landslide",
+    "KrishnaBhir",
+    "PrithviHighway"
+   ],
+   "cat": "disaster",
    "hits": 1
   }
  ],
@@ -5342,7 +5393,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1790473868,
+ "updated": 1790474495,
  "pending_since": 1790473842.6329122,
  "fb_blocks": [
   1790350880.4125228,
