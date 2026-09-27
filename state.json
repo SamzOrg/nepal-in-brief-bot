@@ -2792,7 +2792,13 @@
   "https://nagariknews.nagariknetwork.com/arts/landslide-br-98-76.html": 1790475647.4958973,
   "https://gorkhapatraonline.com/news/224444": 1790475647.4958973,
   "https://gorkhapatraonline.com/news/224443": 1790475647.4958973,
-  "https://gorkhapatraonline.com/news/224440": 1790475647.4958973
+  "https://gorkhapatraonline.com/news/224440": 1790475647.4958973,
+  "https://english.khabarhub.com/2026/27/569457/": 1790476260.8353622,
+  "https://khabarhub.com/2026/27/1029636/": 1790476260.8353622,
+  "https://risingnepaldaily.com/news/87078": 1790476260.8353622,
+  "https://www.ratopati.com/story/595170/incessant-rains-have-caused-flooding-and-landslides-in-various-places-how-much-damage-has-been-caused": 1790476260.8353622,
+  "https://www.ratopati.com/story/595171/various-organizations-in-the-us-provide-assistance-to-bhotekoshi-flood-victims": 1790476260.8353622,
+  "http://annapurnapost.com/story/508436": 1790476260.8353622
  },
  "queue": [
   {
@@ -2951,7 +2957,7 @@
     "HeavyRain"
    ],
    "cat": "disaster",
-   "hits": 4
+   "hits": 5
   },
   {
    "title": "चर्किएको जमिन, त्रासमा बस्ती",
@@ -3841,7 +3847,7 @@
     "MirmiHamichaurBridge"
    ],
    "cat": "disaster",
-   "hits": 6
+   "hits": 7
   },
   {
    "title": "सोह्र वर्षपछि पुनः सञ्चालनमा सिनेमा घर",
@@ -4148,7 +4154,7 @@
     "Armenia"
    ],
    "cat": "politics",
-   "hits": 3
+   "hits": 4
   },
   {
    "title": "तनहुँका ६७ हजार परिवारको जीविकासँग जोडिँदै सामुदायिक वन",
@@ -4227,7 +4233,7 @@
     "पहिरो"
    ],
    "cat": "disaster",
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "म्याग्दीको गिवाङमा पहिरोले घर पुरियो, २ जना सम्पर्कविहीन",
@@ -4643,6 +4649,27 @@
     "ExchangeRate"
    ],
    "cat": "economy",
+   "hits": 1
+  },
+  {
+   "title": "राति गयो सामागाउँमा पहिरो, सुतिरहेका स्थानीय र विदेशी पर्यटक सुरक्षित स्थानतिर भागे",
+   "summary": "गोरखा : विदेशी पर्यटकले भरिभराउ रहेको उत्तरी गोरखाको चुमनुब्री १ सामागाउँमा पहिरो आएको छ। मनास्लुको फेदीबाट राती ३ बजेतिर गाउँमा पहिरो झरेको स्थानीय नाङ्सल छोदेनले जानकारी दिइन्।रातमा पहिरो झरेपछि सामागाउँका बासिन्दा...",
+   "link": "http://annapurnapost.com/story/508436",
+   "source": "Annapurna Post",
+   "ts": 1790461861.1896563,
+   "weight": 3,
+   "img": null,
+   "lang": "ne",
+   "en": "Overnight landslide in Samagaun forces locals and foreign tourists to flee",
+   "ne": "राति गयो सामागाउँमा पहिरो, सुतिरहेका स्थानीय र विदेशी पर्यटक सुरक्षित स्थानतिर भागे",
+   "imp": 3,
+   "tags": [
+    "Samagaun",
+    "Landslide",
+    "Gorkha",
+    "पहिरो"
+   ],
+   "cat": "disaster",
    "hits": 1
   }
  ],
@@ -5789,8 +5816,8 @@
    "cat": "world"
   }
  ],
- "updated": 1790475682,
- "pending_since": null,
+ "updated": 1790476286,
+ "pending_since": 1790476260.8353622,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
