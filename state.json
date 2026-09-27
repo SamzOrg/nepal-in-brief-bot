@@ -2693,7 +2693,11 @@
   "https://gorkhapatraonline.com/news/224428": 1790471447.9668996,
   "https://www.onlinekhabar.com/2026/09/2026508/the-sky-is-opening-up-in-koshi-and-madhesh-significant-improvement-will-also-be-seen-in-kathmandu-valley": 1790471447.9668996,
   "https://nagariknews.nagariknetwork.com/Bazar/foreign-currency-exchange-rates-set-for-today-50-33.html": 1790471447.9668996,
-  "https://gorkhapatraonline.com/news/224427": 1790471447.9668996
+  "https://gorkhapatraonline.com/news/224427": 1790471447.9668996,
+  "https://www.ratopati.com/story/595161/water-level-rises-in-lal-bakaiya-river-in-makawanpur-urges-people-to-adopt-high-alert": 1790472044.0494113,
+  "https://baahrakhari.com/detail/502835": 1790472044.0494113,
+  "http://lokaantar.com/story/329853/2026/9/27/tinau-flood-": 1790472044.0494113,
+  "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWDBEdUtQcmRRcTVIZTRMTmxmZmRyUVNsYi05aFBCZFNfTTFNQS0taWEyU1UzT19lSUdmY3Atd2FZSXo3cVZQckpSR1NrWnJZb0o0VDRLTVI1T0VJSDQwN3h0UFhhSWtEbVZBQzNzRW0xRU5ubWNrbTNTaWMtQ1FodFZMSDRSM25QMnRYMDRRaVk3VGxCNHUwZVF5YkNKRjV2VEJoNDNOTQ?oc=5": 1790472044.0494113
  },
  "queue": [
   {
@@ -3557,25 +3561,6 @@
    "hits": 1
   },
   {
-   "title": "Former Chief Justice Rana detained in Nepal - Kathmandu Post",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaU9NQ2oyMDR1VmF1bGRoZ0NyUmUydXdNM0hoRmhUaFVNVlhDZFotcUN6NHJLRWpqS0pnUENDZlp3ZF9rZDJ1S0pDV20xQ3ZWdUdnckRxdlh6OWROeXFweUJFWmF2OWRlVnpSNWRPajBLU2dkNjJ2aC1FSWdWUXlGZVg2LTNZc1BKQXNXWHZFS09ESU1J?oc=5",
-   "source": "UA.NEWS",
-   "ts": 1790470753,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "en": "Former Chief Justice Rana detained in Nepal - Kathmandu Post",
-   "ne": "पूर्व मुख्य न्यायाधीश राणा नेपालमा पक्राउ",
-   "imp": 4,
-   "tags": [
-    "ChiefJusticeRana",
-    "Detention"
-   ],
-   "cat": "politics",
-   "hits": 1
-  },
-  {
    "title": "National Karam festival concludes",
    "summary": "By Jaikrishna Yadav, Inaruwa, Sept. 27: The national Karam festival of the Oraon community has been celebrated with grea...",
    "link": "https://risingnepaldaily.com/news/87073",
@@ -3629,7 +3614,7 @@
     "Flood"
    ],
    "cat": "disaster",
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "बाढी-पहिरोले लुम्बिनीका दर्जनौं सडक अवरुद्ध, नदी क्षेत्रका नागरिक जोखिममा",
@@ -3782,6 +3767,45 @@
     "Snowfall"
    ],
    "cat": "weather",
+   "hits": 1
+  },
+  {
+   "title": "पाकिस्तानको डेरा इस्माइल खानमा आत्मघाती विस्फोट",
+   "summary": "पाकिस्तानकमा भएको आत्मघाती बम विस्फोटमा कम्तीमा १२ जनाको मृत्यु भएको छ भने ३० जना घाइते भएका छन् ।",
+   "link": "https://baahrakhari.com/detail/502835",
+   "source": "Baahrakhari",
+   "ts": 1790471650,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "en": "Suicide blast at Pakistan's Dera Ismail Khan",
+   "ne": "पाकिस्तानको डेरा इस्माइल खानमा आत्मघाती विस्फोट",
+   "imp": 1,
+   "tags": [
+    "SuicideBlast",
+    "DeraIsmailKhan"
+   ],
+   "cat": "world",
+   "hits": 1
+  },
+  {
+   "title": "तिनाउ नदीमा आएको बाढीले बुटवलका ६ घर बगायो",
+   "summary": "रुपन्देहीको तिनाउ नदीमा आएको बाढीले नदी किनारका ६ घर बगाएको छ । बुटवल उपमहानगरपालिका-११ को टप मझुवा क्षेत्रका घर शनिबार राति बगाएको हो । जिल्ला प्रहरी कार्यालय, रुपन्देहीका प्रवक्ता, डीएसपी कृष्णकुमार चन्दले २ वटा पक्की...",
+   "link": "http://lokaantar.com/story/329853/2026/9/27/tinau-flood-",
+   "source": "Lokaantar",
+   "ts": 1790457645.004335,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "en": "Tinau River flood washes away six houses in Butwal",
+   "ne": "तिनाउ नदीमा आएको बाढीले बुटवलका ६ घर बगायो",
+   "imp": 2,
+   "tags": [
+    "TinauRiver",
+    "Butwal",
+    "Flood"
+   ],
+   "cat": "disaster",
    "hits": 1
   }
  ],
@@ -4882,9 +4906,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "economy"
+  },
+  {
+   "ts": 1790472053.2015789,
+   "en": "Former Chief Justice Rana detained in Nepal - Kathmandu Post",
+   "ne": "पूर्व मुख्य न्यायाधीश राणा नेपालमा पक्राउ",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaU9NQ2oyMDR1VmF1bGRoZ0NyUmUydXdNM0hoRmhUaFVNVlhDZFotcUN6NHJLRWpqS0pnUENDZlp3ZF9rZDJ1S0pDV20xQ3ZWdUdnckRxdlh6OWROeXFweUJFWmF2OWRlVnpSNWRPajBLU2dkNjJ2aC1FSWdWUXlGZVg2LTNZc1BKQXNXWHZFS09ESU1J?oc=5",
+   "source": "UA.NEWS",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "politics"
   }
  ],
- "updated": 1790471457,
+ "updated": 1790472067,
  "pending_since": 1790471447.9668996,
  "fb_blocks": [
   1790350880.4125228,
