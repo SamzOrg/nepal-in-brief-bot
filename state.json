@@ -2662,28 +2662,11 @@
   "https://baahrakhari.com/detail/502825": 1790467846.97276,
   "https://news.google.com/rss/articles/CBMijAFBVV95cUxNN0VBR0U1RlpkRWFRSnBDWXFJMGM2RU92X3BOQzh3ZTZvWHdldGdNZDdWbnpDNWQ3NHEtcFYzNnFQeTlkOVFOZHlxcFlJR2lfOUgxRkowdjdHTWxCRmNDbUttSWtuTExOenpvaFpwNGN2R0RHaWg1aUt2QU9rT3FjNEpTeUlyUmd2ZjRsdg?oc=5": 1790467846.97276,
   "https://risingnepaldaily.com/news/87066": 1790468442.2018385,
-  "https://khabarhub.com/2026/27/1029589/": 1790468442.2018385
+  "https://khabarhub.com/2026/27/1029589/": 1790468442.2018385,
+  "https://khabarhub.com/2026/27/1029594/": 1790469057.1230726,
+  "https://news.google.com/rss/articles/CBMi3gFBVV95cUxORzBUZUp4OEppUFZ6aDN0bEdUUDB0TWZCQnBkQ015Y0p4V2lPWkdqY2hpQ25wRVdVcFloYjlQb1NvdFVVM0VKa19LSVcwMFNQZVhtSW56LWNXOFlIbHYwZkJneFF2akEtV0FZeHJRRUxab3NFMHZUTzJwN2VpTHZ3Yk1QcG5BNVc0NTJXeDNhVkRWVy1MN2FzM0NZcW1zXzMxSXViSTFkbmJKdGJZNjhXZkJPWlhjOXQ3d2VHckhuZk1TVl9YTHhUZWdzbk1jbi1jaEM1YmlIM193NVVWWlE?oc=5": 1790469057.1230726
  },
  "queue": [
-  {
-   "title": "कैलालीमा रुखबाट लडेर एक जनाको मृत्यु",
-   "summary": "धनगढी । कैलालीमा रुखबाट लडेर एक जनाको मृत्यु भएको छ। गौरीगङ्गा नगरपालिका-६ बनबेहडाकी पार्वती साउदको रुखबाट लडेर मृत्यु भएको प्रहरीले जनाएको छ। जिल्ला प्रहरी कार्यालय कैलालीका अनुसार शुक्रवार ४ः४५ बजे घाँस काट्न...",
-   "link": "https://www.ratopati.com/story/595141/one-person-dies-after-falling-from-a-tree-in-kailali",
-   "source": "Ratopati",
-   "ts": 1790440023,
-   "weight": 3,
-   "img": "https://npcdn.ratopati.com/media/news/kailali-map_kznzdtkbxk_IZaujX2iw5.webp",
-   "lang": "ne",
-   "en": "One person dies battling a tree in Kailali",
-   "ne": "कैलालीमा रुखबाट लडेर एक जनाको मृत्यु",
-   "imp": 2,
-   "tags": [
-    "Kailali",
-    "TreeAccident"
-   ],
-   "cat": "disaster",
-   "hits": 1
-  },
   {
    "title": "लुम्बिनी र सुदूरपश्चिममा हावाहुरी, भारी वर्षाको जोखिम",
    "summary": "जानु पाण्डेकपिलवस्तु, असोज १० गते । बंगालको खाडीबाट विकसित भएको न्यून चापीय प्रणाली 'डिप्रेसन' नेपालतर्फ अघि बढेसँगै लुम्बिनी र सुदूरपश्चिम प्रदेशका विभिन्न जिल्लामा हावाहुरी र वर्...",
@@ -3304,6 +3287,27 @@
     "PokharaDubai"
    ],
    "cat": "tech",
+   "hits": 1
+  },
+  {
+   "title": "IN PHOTOS: Four killed in Nepal as sudden surge in Bhote Koshi River devastates settlements",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxORzBUZUp4OEppUFZ6aDN0bEdUUDB0TWZCQnBkQ015Y0p4V2lPWkdqY2hpQ25wRVdVcFloYjlQb1NvdFVVM0VKa19LSVcwMFNQZVhtSW56LWNXOFlIbHYwZkJneFF2akEtV0FZeHJRRUxab3NFMHZUTzJwN2VpTHZ3Yk1QcG5BNVc0NTJXeDNhVkRWVy1MN2FzM0NZcW1zXzMxSXViSTFkbmJKdGJZNjhXZkJPWlhjOXQ3d2VHckhuZk1TVl9YTHhUZWdzbk1jbi1jaEM1YmlIM193NVVWWlE?oc=5",
+   "source": "Mid-Day",
+   "ts": 1790462115,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "en": "IN PHOTOS: Four killed in Nepal as sudden surge in Bhote Koshi River devastates settlements",
+   "ne": "भोटेकोशीमा आएको बाढीले बस्ती बगाउँदा ४ जनाको मृत्यु",
+   "imp": 4,
+   "tags": [
+    "BhoteKoshi",
+    "Flood",
+    "Disaster",
+    "बाढी"
+   ],
+   "cat": "disaster",
    "hits": 1
   }
  ],
@@ -4386,7 +4390,7 @@
    "cat": "politics"
   }
  ],
- "updated": 1790468467,
+ "updated": 1790469062,
  "pending_since": 1790467846.97276,
  "fb_blocks": [
   1790350880.4125228,
