@@ -2959,7 +2959,8 @@
   "https://www.ratopati.com/story/595397/which-zodiac-sign-is-auspicious-on-monday-see-horoscope": 1790551394.0587423,
   "https://news.google.com/rss/articles/CBMilgFBVV95cUxQenMxcUdybmpmSjdfNlFkOE1BNnhESXVjMW4yQXdQTnJTZ0lGNDNTb05sR01VUy1iM25zbTBEVGRPeXhzU1ZLQjJyU0dKZFl6R0Q0NlBiZE5Qd1E3SFp0elp3c05ZdDBLVTRYNFNvVGd6by1VallMYWluRGpISFBSYWF0N1VEMmVZWlk4MDI5cFZpZ3A1ZFE?oc=5": 1790551394.0587423,
   "https://www.ratopati.com/story/595396/huge-investment-in-educational-infrastructure-now-pressure-to-show-achievements": 1790551394.0587423,
-  "https://www.ratopati.com/story/595395/national-digital-literacy-campaign-launched": 1790551394.0587423
+  "https://www.ratopati.com/story/595395/national-digital-literacy-campaign-launched": 1790551394.0587423,
+  "https://news.google.com/rss/articles/CBMibkFVX3lxTE42aXBiQjNfdkpxSnRFV1NCbDRQVzJrZ3JFajR3NlBtNVJoblV0WkpUR0VaYmZ6dXBscC1qVElKV3k1RnZOT2k2RmZxMmo2VFNCb1kzSDVvd3Nvc3RYM3VJZ21pMFpxejRLd0J4b253?oc=5": 1790551859.2475007
  },
  "queue": [
   {
@@ -2980,26 +2981,6 @@
    ],
    "cat": "society",
    "hits": 3
-  },
-  {
-   "title": "इजरायली मन्त्रीद्वारा गाजा-लेबनानका क्षेत्र गाभ्न आह्वान",
-   "summary": "जेरुसेलम - इजरायलका अति-दक्षिणपन्थी अर्थमन्त्री बेजालेल स्मोट्रिचले गाजा पट्टी र दक्षिण लेबनानका केही क्षेत्र इजरायलमा गाभ्न आह्वान गरेका छन् । उनले कब्जा गरिएको वेस्ट बैंकमा प्यालेस्टाइनीहरू विरुद्ध सैन्य कारबाही अघि...",
-   "link": "https://khabarhub.com/2026/27/1030054/",
-   "source": "Khabarhub",
-   "ts": 1790522973,
-   "weight": 3,
-   "img": "https://www.khabarhub.com/wp-content/uploads/2025/09/gaja-400x220.jpg",
-   "lang": "ne",
-   "en": "Israeli minister calls for securing Gaza-Lebanon border",
-   "ne": "इजरायली मन्त्रीद्वारा गाजा-लेबनानका क्षेत्र गाभ्न आह्वान",
-   "imp": 3,
-   "tags": [
-    "Israel",
-    "GazaLebanon",
-    "BorderSecurity"
-   ],
-   "cat": "world",
-   "hits": 1
   },
   {
    "title": "'मिस युनिभर्स नेपाल २०२६'काे उपाधि प्रयाशनालाई",
@@ -4043,6 +4024,26 @@
     "NationalCampaign"
    ],
    "cat": "tech",
+   "hits": 1
+  },
+  {
+   "title": "Bangladesh embassy warns tourists against travelling to flood-hit areas in Nepal",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE42aXBiQjNfdkpxSnRFV1NCbDRQVzJrZ3JFajR3NlBtNVJoblV0WkpUR0VaYmZ6dXBscC1qVElKV3k1RnZOT2k2RmZxMmo2VFNCb1kzSDVvd3Nvc3RYM3VJZ21pMFpxejRLd0J4b253?oc=5",
+   "source": "daily-sun.com",
+   "ts": 1790549943,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "en": "Bangladesh embassy warns tourists against travelling to flood-hit areas in Nepal",
+   "ne": "नेपालका बाढी प्रभावित क्षेत्रमा नजान बंगलादेशी दूतावासको आफ्ना नागरिकलाई आग्रह",
+   "imp": 2,
+   "tags": [
+    "BangladeshEmbassy",
+    "NepalFloods",
+    "बाढी"
+   ],
+   "cat": "society",
    "hits": 1
   }
  ],
@@ -5684,8 +5685,8 @@
    "cat": "crime"
   }
  ],
- "updated": 1790551400,
- "pending_since": null,
+ "updated": 1790551864,
+ "pending_since": 1790551859.2475007,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
