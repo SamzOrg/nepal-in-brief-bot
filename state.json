@@ -2877,7 +2877,16 @@
   "https://baahrakhari.com/detail/502848": 1790479242.7172046,
   "http://annapurnapost.com/story/508438": 1790479242.7172046,
   "https://www.ratopati.com/story/595175/incessant-rains-drown-talgaun-in-manang": 1790479242.7172046,
-  "https://gorkhapatraonline.com/news/224453": 1790479242.7172046
+  "https://gorkhapatraonline.com/news/224453": 1790479242.7172046,
+  "https://english.onlinekhabar.com/narayani-river-crosses-danger-mark.html": 1790479864.66845,
+  "https://www.ratopati.com/story/595180/road-washed-away-in-simaltal-traffic-in-one-way-traffic": 1790479864.66845,
+  "https://baahrakhari.com/detail/502854": 1790479864.66845,
+  "https://baahrakhari.com/detail/502853": 1790479864.66845,
+  "https://news.google.com/rss/articles/CBMipwFBVV95cUxON2lDcXVJSG9INjNLSkV5WmVBdWctNTc2ZmNQbV9wamcwXzVqYkxNM3JMRVhHMTlGQm9IZjBibmJMT2JuWEhkMGhGMkNyQXhSZkJiSWVYSXQycVd3akFPT0gxTmh5ak1YYnFBUjZBaFBFZl95djhZNlN3dEhWNktxOU1sdTdYNjZ2TjlrWUMzTFRTa2ZWTXdLMWYtRHAtNUwtZnBwbTFDbw?oc=5": 1790479864.66845,
+  "https://kathmandupost.com/national/2026/09/27/relentless-rain-triggers-floods-landslides-across-nepal": 1790479864.66845,
+  "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdFZOYy1keWtUdXM2TW5XYlhSdU5GWUh6OFo0WnB6eDBmaTFZWGNQQ1VtS1dONDdzcVNIZTctdEFZQjZLRWhDbGFPckYwMGF5RVFfTFBHZURadUZJalNCa2FKbUdOUjhvVnVWVjU0T2RWVFBBUkdWdHcwLWYxQWZWQU14VnlCM1RHOE1NM0dDQXdqN3dZNUVlQ0JCRE1VMTFFNVFudGxrSHJKaWxpSkpPeDJOYlJRdEdEY1pTOGxfZTBrTi1CY3c?oc=5": 1790479864.66845,
+  "https://risingnepaldaily.com/news/87072": 1790479864.66845,
+  "https://news.google.com/rss/articles/CBMiowFBVV95cUxPM1hVTURFU3pyUUdYXzhVYm5rX0F1eXQtRDRUdW0zQzlaS0hVSTlhVG92Q20wQWZtcVJQdVE2dXFJeTFIcW1mVHlBd1QyMXNqOTBfQU14RDRSTmMzYTI1RXc4aGhwN3l4Z0s0UjNyZzN3MjI5Z0NFWFBKRkFHb1BLbjRaSm1EdGNUdlRkRDRaaFZzTHhXNTdIdWQ3cGY5M3oyR1ZZ?oc=5": 1790479864.66845
  },
  "queue": [
   {
@@ -3012,7 +3021,7 @@
     "Traffic"
    ],
    "cat": "disaster",
-   "hits": 4
+   "hits": 5
   },
   {
    "title": "Families seek loan relief over missing kin in Nepal",
@@ -3676,24 +3685,6 @@
    "hits": 2
   },
   {
-   "title": "Latest News",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVWRkTmZ1ZFZUQ3pUQUlYcGxvZDVhYkhmVS1HWUxVaDBraDBGMTM5a1Z3d3F2MG9PNm1Nd0o5akZiRWt1Nl9XY0c0RGpXeEh3R1JVLWhvSUFUcmdESTBGUmhFTWw5aGxxaHhQcExwZ1lqQmNxY3FuQWJvWHFrT1M4SVQ0SWxCbmNaZEhhdXJUTWVGRlJ2dTAzaU0zaWxTelU?oc=5",
-   "source": "myRepublica",
-   "ts": 1790450858,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "en": "Latest News",
-   "ne": "ताजा समाचार",
-   "imp": 1,
-   "tags": [
-    "LatestNews"
-   ],
-   "cat": "other",
-   "hits": 3
-  },
-  {
    "title": "'साझा पहलको नेतृत्व लिन नेपाल तयार'",
    "summary": "काठमाडौँ, असोज ११ गते । हिमाल र समुद्रबिचको सम्बन्ध विश्वलाई बुझाउन नेपालले संयुक्त राष्ट्रसङ्घको ८१ औँ महासभामा उच्चस्तरीय विशेष सत्र सम्पन्न गरेको छ । 'सगरमाथादेखि समुद्रसम्म : ज...",
    "link": "https://gorkhapatraonline.com/news/224429",
@@ -4114,7 +4105,7 @@
     "Rainfall"
    ],
    "cat": "disaster",
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "विद्युत् ट्रान्सफर्मरमा टाँसिएको अवस्थामा चितुवा मृत फेला",
@@ -4785,7 +4776,7 @@
     "Climate"
    ],
    "cat": "economy",
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "दियो",
@@ -5418,6 +5409,67 @@
     "Narayani",
     "Rescue",
     "Flood"
+   ],
+   "cat": "disaster",
+   "hits": 1
+  },
+  {
+   "title": "Families Of Missing Malaysians From Nepal Flood To Receive Briefing At Wisma Putra",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdFZOYy1keWtUdXM2TW5XYlhSdU5GWUh6OFo0WnB6eDBmaTFZWGNQQ1VtS1dONDdzcVNIZTctdEFZQjZLRWhDbGFPckYwMGF5RVFfTFBHZURadUZJalNCa2FKbUdOUjhvVnVWVjU0T2RWVFBBUkdWdHcwLWYxQWZWQU14VnlCM1RHOE1NM0dDQXdqN3dZNUVlQ0JCRE1VMTFFNVFudGxrSHJKaWxpSkpPeDJOYlJRdEdEY1pTOGxfZTBrTi1CY3c?oc=5",
+   "source": "BusinessToday Malaysia",
+   "ts": 1790479661,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "en": "Families Of Missing Malaysians From Nepal Flood To Receive Briefing At Wisma Putra",
+   "ne": "नेपाल बाढी: बेपत्ता मलेसियाली नागरिकका परिवारलाई विस्मा पुत्रमा जानकारी गराइने",
+   "imp": 2,
+   "tags": [
+    "NepalFloods",
+    "Malaysia",
+    "Missing"
+   ],
+   "cat": "disaster",
+   "hits": 1
+  },
+  {
+   "title": "Nor'easter floods New Jersey roads, homes",
+   "summary": "Providence, R.i. Sept. 27: Thousands were without power on the U.S. East Coast on Friday night as roads flooded in some...",
+   "link": "https://risingnepaldaily.com/news/87072",
+   "source": "Rising Nepal",
+   "ts": 1790479537,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "en": "Nor'easter floods New Jersey roads, homes",
+   "ne": "न्यु जर्सीमा आँधी र बाढीका कारण सडक तथा घरहरू जलमग्न",
+   "imp": 1,
+   "tags": [
+    "NewJersey",
+    "Flood",
+    "Noreaster"
+   ],
+   "cat": "world",
+   "hits": 1
+  },
+  {
+   "title": "Relentless rain triggers floods, landslides across Nepal",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPM1hVTURFU3pyUUdYXzhVYm5rX0F1eXQtRDRUdW0zQzlaS0hVSTlhVG92Q20wQWZtcVJQdVE2dXFJeTFIcW1mVHlBd1QyMXNqOTBfQU14RDRSTmMzYTI1RXc4aGhwN3l4Z0s0UjNyZzN3MjI5Z0NFWFBKRkFHb1BLbjRaSm1EdGNUdlRkRDRaaFZzTHhXNTdIdWQ3cGY5M3oyR1ZZ?oc=5",
+   "source": "kathmandupost.com",
+   "ts": 1790479475,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "en": "Relentless rain triggers floods, landslides across Nepal",
+   "ne": "लगातारको वर्षाले देशभर बाढी र पहिरो",
+   "imp": 4,
+   "tags": [
+    "NepalFloods",
+    "Landslide",
+    "पहिरो",
+    "Rainfall"
    ],
    "cat": "disaster",
    "hits": 1
@@ -6599,8 +6651,8 @@
    "cat": "society"
   }
  ],
- "updated": 1790479267,
- "pending_since": null,
+ "updated": 1790479873,
+ "pending_since": 1790479864.66845,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
