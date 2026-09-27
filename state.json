@@ -3006,50 +3006,14 @@
   "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdHZ3bEd1TXpQUENESGhxN2E1eXMxRzBjOGp5WGZkUmFEQU5hLXZFNUpIaHg5ZjBqN3RvQ2gyc0FBY1J0bXR6TTBCQ2FuaWxuUWxiUWhfR2hmVTA5RDY0X3doa01rQUVmS1p4NVVrOGY0UFFkMGphMFF3N2ZlQW53VWlYcWN6U0lYT01OblNyVW5SQk40RG53d2NsY2w3emRKcmg0Q3NEalJ4S3lORVEzeXd0bjRTaEVRS0puMw?oc=5": 1790527245.3613093,
   "https://khabarhub.com/2026/27/1030066/": 1790527245.3613093,
   "https://nagariknews.nagariknetwork.com/social-affairs/a-man-died-after-being-swept-away-in-a-drain-in-kanchanpur-he-had-been-missing-since-saturday-87-47.html": 1790527245.3613093,
-  "https://nagariknews.nagariknetwork.com/social-affairs/flood-threat-in-marsyangdi-police-mike-to-evacuate-coastal-settlements-in-lamjung-46-46.html": 1790527245.3613093
+  "https://nagariknews.nagariknetwork.com/social-affairs/flood-threat-in-marsyangdi-police-mike-to-evacuate-coastal-settlements-in-lamjung-46-46.html": 1790527245.3613093,
+  "https://khabarhub.com/2026/27/1030068/": 1790527844.7766054,
+  "https://gorkhapatraonline.com/news/224555": 1790527844.7766054,
+  "https://news.google.com/rss/articles/CBMiogFBVV95cUxPV0w4NTE2VzI4ZnBrcVBfQkFCMS1neFVOV1J5T3FLcXF6cjFET0VlbHVpSnRkMDRRNUdUR2xHbURQalM4ZFlabHEtOEJXVndFTTZHZjBMZWpReXRWQV9uZlFHTTkzTVNDVUg0QnVXcDBGNGY1U3UtZTRnaE1TSFpMbGZsSUpKV3JJMFJSQjRvb0xLaXd0b2VVak5scFFsSVZvM3c?oc=5": 1790527844.7766054,
+  "http://lokaantar.com/story/329926/2026/9/27/myagdi-": 1790527844.7766054,
+  "https://www.ratopati.com/story/595380/saudi-airstrike-in-taiz-7-killed": 1790527844.7766054
  },
  "queue": [
-  {
-   "title": "बाढीले देशभर एक हजार मेगावाट विद्युत् उत्पादन अवरुद्ध",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/502900",
-   "source": "Baahrakhari",
-   "ts": 1790498936,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "en": "Floods halt 1,000 MW hydropower generation nationwide",
-   "ne": "बाढीले देशभर एक हजार मेगावाट विद्युत् उत्पादन अवरुद्ध",
-   "imp": 4,
-   "tags": [
-    "Floods",
-    "Hydropower",
-    "NEA",
-    "जलविद्युत"
-   ],
-   "cat": "disaster",
-   "hits": 1
-  },
-  {
-   "title": "पहिरोले छ घरपरिवार विस्थापित, विद्यालयमा क्षति",
-   "summary": "गोकर्ण दयालबैतडी, असोज ११ गते । लगातारको वर्षाले पहिरो खस्दा बैतडीको दशरथचन्द नगरपालिका -४, बवेत गाउँका ६ घरपरिवार र मेलौलीमा नगरपालिकाको एक विद्यालय क्षति पुगेको छ । आइतबार विहान...",
-   "link": "https://gorkhapatraonline.com/news/224509",
-   "source": "Gorkhapatra",
-   "ts": 1790498716,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/385182/conversions/achham1-original.jpg",
-   "lang": "ne",
-   "en": "Landslide displaces six families, damages school",
-   "ne": "पहिरोले छ घरपरिवार विस्थापित, विद्यालयमा क्षति",
-   "imp": 3,
-   "tags": [
-    "Landslide",
-    "Disaster",
-    "पहिरो"
-   ],
-   "cat": "disaster",
-   "hits": 1
-  },
   {
    "title": "अन्नपूर्ण, मनास्लु र गौरीशङ्कर संरक्षण क्षेत्रमा पदयात्राका लागि नयाँ नियम र पूर्वसतर्कता लागू",
    "summary": "काठमाडौं- राष्ट्रिय प्रकृति संरक्षण कोष, अन्नपूर्ण संरक्षण क्षेत्र आयोजनाले भारी वर्षाको सम्भावनालाई मध्यनजर गर्दै पर्यटक तथा सम्बन्धित सबै सरोकारवालाहरूका लागि अत्यन्त जरुरी सूचना जारी गरेको छ । जल तथा मौसम पूर्वानुमान...",
@@ -3131,25 +3095,6 @@
    "hits": 3
   },
   {
-   "title": "ईयूमा उडान वृद्धि २.३ प्रतिशत, स्लोभाकियामा ३७ प्रतिशत",
-   "summary": "काठमाडौं- स्लोभाकियामा अगस्ट महिनामा व्यावसायिक उडानको संख्या अघिल्लो वर्षको सोही अवधिको तुलनामा ३७ प्रतिशतले बढेको छ। यो युरोपेली संघ (ईयू) का सदस्य राष्ट्रमध्ये सबैभन्दा उच्च वृद्धि हो । युरोस्टाटका अनुसार अगस्टमा...",
-   "link": "https://khabarhub.com/2026/27/1029841/",
-   "source": "Khabarhub",
-   "ts": 1790498801,
-   "weight": 3,
-   "img": "https://www.khabarhub.com/wp-content/uploads/2026/09/eu-flight-400x220.png",
-   "lang": "ne",
-   "en": "EU flights up 2.3 percent, Slovakia surges by 37 percent",
-   "ne": "ईयूमा उडान वृद्धि २.३ प्रतिशत, स्लोभाकियामा ३७ प्रतिशत",
-   "imp": 1,
-   "tags": [
-    "Aviation",
-    "EuropeanUnion"
-   ],
-   "cat": "world",
-   "hits": 2
-  },
-  {
    "title": "'मध्यरातमा भागेर ज्यान जोगायौं, पर्यटकहरू रोए'",
    "summary": "'मैले अस्ट्रेलियाका पर्यटकलाई चामेमा यस्तो हालत छ, हाम्रो नेपाल सरकारलाई भनिदिनु है भनेकी थिएँ,' उनले भनिन्, 'पर्यटकले 'स्योर' भनेका थिए।'",
    "link": "https://www.setopati.com/social/399359",
@@ -3190,66 +3135,6 @@
    "hits": 1
   },
   {
-   "title": "रक्षा बमको प्रश्न- तपाईंको अक्षमता ढाकछोप गर्न प्रयोग हुने शब्द हो जेनजी?",
-   "summary": "जेनजी अभियानी रक्षा बमले पूर्वप्रधान न्यायाधीश चोलेन्द्र शमशेर जबरालाई 'जेनजीबाट सुरक्षा थ्रेट' रहेको भन्दै पक्राउ पुर्जीबिनै मध्यरातमा पक्राउ गरिएको भन्दै प्रश्न उठाएकी छन्।",
-   "link": "https://www.setopati.com/social/399358",
-   "source": "Setopati",
-   "ts": 1790498520,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "en": "Rakshya Bam asks: Is Gen Z just a buzzword to mask your incompetence?",
-   "ne": "रक्षा बमको प्रश्न- तपाईंको अक्षमता ढाकछोप गर्न प्रयोग हुने शब्द हो जेनजी?",
-   "imp": 2,
-   "tags": [
-    "GenZ",
-    "Politics",
-    "Youth"
-   ],
-   "cat": "politics",
-   "hits": 1
-  },
-  {
-   "title": "जर्मनीको 'एएफडी'प्रति युरोपका दक्षिणपन्थी दल नै सशंकित",
-   "summary": "बर्लिन । जर्मनीको दक्षिणपन्थी पार्टी अल्टरनेटिभ फर जर्मनी (एएफडी) ले देशभित्र आफ्नो राजनीतिक समर्थन तीव्र रूपमा बढाइरहेका बेला युरोपका केही दक्षिणपन्थी तथा कट्टर दक्षिणपन्थी दल भने उससँगको दूरी कायम राख्न थालेका छन् ।...",
-   "link": "https://www.ratopati.com/story/595259/europes-far-right-parties-are-suspicious-of-germanys-afd",
-   "source": "Ratopati",
-   "ts": 1790498770,
-   "weight": 3,
-   "img": "https://npcdn.ratopati.com/media/news/afd-candidate_Vqs33XSPsa.avif",
-   "lang": "ne",
-   "en": "European right-wing parties wary of Germany's AfD",
-   "ne": "जर्मनीको 'एएफडी'प्रति युरोपका दक्षिणपन्थी दल नै सशंकित",
-   "imp": 1,
-   "tags": [
-    "Germany",
-    "AfD",
-    "EuropePolitics"
-   ],
-   "cat": "world",
-   "hits": 1
-  },
-  {
-   "title": "'पिन्क डे' मा दक्षिण अफ्रिका अस्ट्रेलियासँग मैदानमा",
-   "summary": "काठमाडौँ । अस्ट्रेलियासँगको दोस्रो एक दिवसीय खेलमा दक्षिण अफ्रिकाले टोलीमा चार परिवर्तन गरेको छ । तीन खेलको शृङ्खलामा अग्रता बनाउने लक्ष्यसहित घरेलु टोली 'पिन्क डे' विशेष अवसरमा मैदानमा उत्रिएको हो । दक्षिण अफ्रिकामा...",
-   "link": "https://www.ratopati.com/story/595258/south-africa-to-face-australia-on-pink-day",
-   "source": "Ratopati",
-   "ts": 1790498763,
-   "weight": 3,
-   "img": "https://npcdn.ratopati.com/media/news/825256701_1607748264163005_2296768786750356998_n_4iuyR2b8kR.webp",
-   "lang": "ne",
-   "en": "South Africa takes on Australia on 'Pink Day'",
-   "ne": "'पिन्क डे' मा दक्षिण अफ्रिका अस्ट्रेलियासँग मैदानमा",
-   "imp": 1,
-   "tags": [
-    "Cricket",
-    "SouthAfrica",
-    "Australia"
-   ],
-   "cat": "sports",
-   "hits": 1
-  },
-  {
    "title": "पहिरोमा पुरिएका तीन जनाको शव फेला",
    "summary": "बुटवल। पाल्पाको माथागढी गाउँपालिका-३ भसकाट्टामा पहिरोले घर पुरिँदा बेपत्ता भएका तीनै जनाको शव भेटिएको छ। पहिरोमा परी बेपत्ता भएका ७५ वर्षीय लिलबहादुर घर्ती, १७ वर्षीया दिना घर्ती मगर र १५ वर्षीया झरना घर्तीको शव...",
    "link": "https://www.ratopati.com/story/595264/bodies-of-three-people-buried-in-landslide-found",
@@ -3267,7 +3152,7 @@
     "DisasterNepal"
    ],
    "cat": "disaster",
-   "hits": 5
+   "hits": 6
   },
   {
    "title": "अमेरिकी सेना प्रयोग गर्ने बेलायती हवाई अड्डानजिक ठुलो मात्रामा विस्फोटक पदार्थ फेला",
@@ -4286,7 +4171,7 @@
     "HeavyVehicles"
    ],
    "cat": "disaster",
-   "hits": 6
+   "hits": 7
   },
   {
    "title": "पक्की पुल र सडक कटानसँगै कोरलासँग सिधा सडक सम्पर्क विच्छेद",
@@ -6006,7 +5891,7 @@
     "Himlung"
    ],
    "cat": "disaster",
-   "hits": 8
+   "hits": 9
   },
   {
    "title": "प्युठानमा आज साँझदेखि विद्युत् सेवा क्रमशः सुचारु हुने",
@@ -6430,7 +6315,7 @@
     "Crowd"
    ],
    "cat": "society",
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "मनाङको चामेमा पहिरो खसेर मर्स्याङ्दी नदी थुनियो, तटीय क्षेत्रमा सतर्क रहन आग्रह",
@@ -6508,25 +6393,6 @@
    ],
    "cat": "economy",
    "hits": 1
-  },
-  {
-   "title": "सोमबहादुरले बनाए ८०० मिटर दौडमा नयाँ राष्ट्रिय कीर्तिमान",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/502938",
-   "source": "Baahrakhari",
-   "ts": 1790517484,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "en": "Som Bahadur sets new national record in 800‑metre run",
-   "ne": "सोमबहादुरले बनाए ८०० मिटर दौडमा नयाँ राष्ट्रिय कीर्तिमान",
-   "imp": 3,
-   "tags": [
-    "800m",
-    "NationalRecord"
-   ],
-   "cat": "sports",
-   "hits": 2
   },
   {
    "title": "झरीका बीच सोह्र श्राद्धको पहिलो दिन पशुपतिमा ६०० बढीले गरे पिण्डदान",
@@ -7906,6 +7772,26 @@
     "Flood"
    ],
    "cat": "disaster",
+   "hits": 1
+  },
+  {
+   "title": "ताइजमा साउदी हवाई आक्रमण, ७ जनाको मृत्यु",
+   "summary": "यमन । दक्षिण-पश्चिम यमनको ताइजमा साउदी हवाई आक्रमणमा ७ जनाको मृत्यु हुनुका साथै ४० जना घाइते भएको हुथी सञ्चारमाध्यमले आइतबार जनाएको छ । इरान-समर्थित हुथी विद्रोहीको 'अल-मसिराह' टेलिभिजनका अनुसार, ताइजको एक प्रमुख बजारमा...",
+   "link": "https://www.ratopati.com/story/595380/saudi-airstrike-in-taiz-7-killed",
+   "source": "Ratopati",
+   "ts": 1790527584,
+   "weight": 3,
+   "img": "https://npcdn.ratopati.com/media/news/saudi-arabia-2560x1248_uclhhbcdax_c3lQSKIg55.jpg",
+   "lang": "ne",
+   "en": "Saudi airstrike in Taiz kills 7",
+   "ne": "ताइजमा साउदी हवाई आक्रमण, ७ जनाको मृत्यु",
+   "imp": 1,
+   "tags": [
+    "SaudiAirstrike",
+    "Taiz",
+    "Yemen"
+   ],
+   "cat": "world",
    "hits": 1
   }
  ],
@@ -9501,9 +9387,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "politics"
+  },
+  {
+   "ts": 1790527848.869039,
+   "en": "Som Bahadur sets new national record in 800‑metre run",
+   "ne": "सोमबहादुरले बनाए ८०० मिटर दौडमा नयाँ राष्ट्रिय कीर्तिमान",
+   "link": "https://baahrakhari.com/detail/502938",
+   "source": "Baahrakhari",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "sports"
   }
  ],
- "updated": 1790527272,
+ "updated": 1790527863,
  "pending_since": 1790526663.9110377,
  "fb_blocks": [
   1790350880.4125228,
