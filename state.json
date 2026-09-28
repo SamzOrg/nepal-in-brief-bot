@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://baahrakhari.com/detail/502814": 1790435445.3622208,
-  "http://annapurnapost.com/story/508428": 1790435445.3622208,
   "https://english.khabarhub.com/2026/26/569406/": 1790436046.6436908,
   "https://www.ratopati.com/story/595137/airstrikes-intensify-between-russia-and-ukraine-seven-killed-on-both-sides": 1790436046.6436908,
   "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAxbEN0RUdtSUgzazVRMzYtcUk5RVlQV3hybVJsQzNQS3hwelN5REV5aUxlRS1sR1dzcllZMXVKaHB1RGNqdDA0cTU5TjlvamtvQ20zb2JHU0RBYnltQ0E?oc=5": 1790436046.6436908,
@@ -3638,30 +3636,21 @@
   "https://www.onlinekhabar.com/2026/09/2028037/mahalaxmi-bikas-bank-and-rotary-collaborate-on-education-and-literacy": 1790607051.5217063,
   "https://www.onlinekhabar.com/2026/09/2028029/10-people-from-humla-who-went-to-collect-herbs-came-into-contact": 1790607051.5217063,
   "https://khabarhub.com/2026/28/1030483/": 1790607687.046997,
-  "https://kathmandupost.com/health/2026/09/28/a-four-year-old-died-of-rabies-at-home-last-week-but-his-death-does-not-appear-in-government-records": 1790607687.046997
+  "https://kathmandupost.com/health/2026/09/28/a-four-year-old-died-of-rabies-at-home-last-week-but-his-death-does-not-appear-in-government-records": 1790607687.046997,
+  "https://nagariknews.nagariknetwork.com/social-affairs/permission-to-detain-durga-prasai-for-three-days-for-investigation-62-17.html": 1790608246.3365765,
+  "https://nagariknews.nagariknetwork.com/social-affairs/end-of-obligation-to-transport-diesel-by-helicopter-solar-system-installed-on-telephone-tower-in-timure-rasuwa-81-72.html": 1790608246.3365765,
+  "https://news.google.com/rss/articles/CBMid0FVX3lxTE5EWXRKbDNXZFFXTE9XcGtJd05wMmd1N0I3OTRKWE1IdHhRVjJZWGlVSDB0R2ZmTW95YzhIZmx2S1pWUkFBTm9pTnhINzNnUmtxdFZCMFB2SDRjVm11ZnNvZW9GV1VtbVVBZkEtQmt0RnNUblR4VUpn?oc=5": 1790608246.3365765,
+  "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUDhDcTMycDdJSWEyZ1RNRldRczZocnR3RlVBU3h5OVhsSVJfX3cwQW0teTlQTDNUVUp6aVQ4OWx5X2VyVk1VNkN1LTVRek00RUVaMkt2Z1lTQVJfd3dnZHc3NnJfWDlxU2Npem51YWt2cUJVdWZiX1ZUMndpelhpT1BYZmVVbGd4TzRTNEtoODhFYkZJd0dXOUFFLVJrV0JNMFlzbjlGN0tNVU5lRDF6TlVZNHAtbGVBRXd6WHgzRlbSAcABQVVfeXFMUFA4Q3EzMnA3SUlhMmdUTUZXUXM2aHJ0d0ZVQVN4eTlYbElSX193MEFtLXk5UEwzVFVKemlUODlseV9lclZNVTZDdS01UXpNNEVFWjJLdmdZU0FSX3d3Z2R3NzZyX1g5cVNjaXpudWFrdnFCVXVmYl9WVDJ3aXpYaU9QWGZlVWxneE80UzRLaDg4RWJGSXdHVzlBRS1Sa1dCTTBZc245RjdLTVVOZUQxek5VWTRwLWxlQUV3elh4M0ZW?oc=5": 1790608246.3365765,
+  "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNTI2RGgxZGVGUGxPclRDOGF6TGpQSGFaelRzZGhGWXpVdzlFb3RITzdpa2lKVm5qRmNQakUyMUlaNmRJc29qSDI0ZWh1ZFFIS2dFcV9obTJFVXJZcFNGU3pjTVlfYThzSF9SZmdxd2JXcHZQSEkzeTczNEZFMHkzVlRxOWlYTlNTRDVJeTZaUXpXVGFKaDlvUWhsLW50cFZ1MUZvR2g0dTZHMlnSAbABQVVfeXFMUDg0dVdtR3pBaTZfeDNOc0xhZmJqM1M5ZW1QM2o2cV9CaUlOREUtOXp1U19pVGRyVVhPSUJUd3dURWhjeEY5TzVDTTZjWjhaY1c5XzJpbWlNVTlQN0dtQllVdmNBbi1MUHJPaVFMQzhLSXFRVTlxY2dYTmR5Y01WVnMxSjhhbFlkaUtMUHpVbDREbEJMckN4UGhPRUl5Ums5bGZwWW45RUhuRmdvaEZnbDY?oc=5": 1790608246.3365765,
+  "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOemhWc3NlRkFicldQdlpJX3B1RDZqT1NzRUFuUkdtRmhXQkQyRmwyNzBzVlcyY1FKWlJsMHRobWU1WndXU05EX3liaDNJUWxfT0MteEZpZDhYcWg4Vmk5NlJOYm16cnZjMVUxb3RYcUE5ZnpDRFF3dTIyOUpYc3pmcVhVd3UwVWZYRmtZ?oc=5": 1790608246.3365765,
+  "https://kathmandupost.com/sports/2026/09/28/rain-could-end-nepal-s-asian-games-medal-hopes": 1790608246.3365765,
+  "http://lokaantar.com/story/330017/2026/9/28/tinau-": 1790608246.3365765,
+  "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOGR2VEwtVUNaYW5WUjQtcXBZalJic1E1WWNsc2paX2tfOWV4MGtLc0lUVk9OVjR4LVc1ell2cC04VXJycHZWQXgzLW9weng5ZHBnVXFXLUJhR3lCbnZERnJZOTVwelZ1UkRQNkRNSXZScmJMN1ZLejI1ZHpZQnp4dFVheTB6VlVzU3c?oc=5": 1790608246.3365765,
+  "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZ0MyVW1JZVlfZDlDb2RHR2JTbTJEMDdGMmM4OGFhWEFPODR4UGV6TktmdmRTZ3V3WTBMRVFyRTBqbFRFenJaVFlhTTM3OVVIUXZDNlhpVXpMMlZ4eEgxUVRmNUlFYVBKZENsSm1pUF84OUNCTVl2eDJGR3ZUTHBsYjA3TXUwbXIxdVY2MHRUNi00dFpkTDc1SXBsdw?oc=5": 1790608246.3365765,
+  "https://www.ratopati.com/story/595632/27-dead-7-injured-4-missing-in-floods-and-landslides": 1790608246.3365765,
+  "https://www.onlinekhabar.com/2026/09/2028062/electricity-generation-resumes-from-both-marsyangdi-projects-after-floodwaters-recede": 1790608246.3365765
  },
  "queue": [
-  {
-   "title": "10 dead, one missing in landslide in Baglung",
-   "summary": "Baglung, September 28 A tragic landslide in Baglung has claimed the lives of 10 people, with one individual still unaccounted for, following relentless rainfall in the area. The past couple of days have seen a...",
-   "link": "https://english.onlinekhabar.com/10-dead-one-missing-in-landslide-in-baglung.html",
-   "source": "Onlinekhabar EN",
-   "ts": 1790579063,
-   "weight": 3,
-   "img": "http://english.onlinekhabar.com/wp-content/uploads/2020/07/landslide-in-nepal-1-1024x749.jpg",
-   "lang": "en",
-   "en": "10 dead, one missing in landslide in Baglung",
-   "ne": "बागलुङमा पहिरोले १० जनाको मृत्यु, एक जना बेपत्ता",
-   "imp": 4,
-   "tags": [
-    "Baglung",
-    "Landslide"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 8
-  },
   {
    "title": "धनगढीमा भेस्पा र अप्रिलियाको नयाँ शोरुम सञ्चालनमा",
    "summary": "कैलाली । नेपालका लागि भेस्पा तथा अप्रिलियाको आधिकारिक वितरक डेल्टा अटोकर्प प्रा. लि. ले धनगढीमा नयाँ शोरुम विस्तार गरेको छ। भेस्पा र अप्रिलियाप्रति बढ्दै गएको युवापुस्ताको रुचि तथा ग्राहकवर्गको सहजतालाई मध्यनजर गर्दै...",
@@ -3831,27 +3820,6 @@
    "hits": 2
   },
   {
-   "title": "Prayashna Gurung becomes Miss Universe Nepal, Binita Oli takes Miss Earth Nepal crown",
-   "summary": "Kathmandu, September 28 The winners of two prestigious beauty pageants have been announced this year. The Miss Universe Nepal and Miss Earth winners were declared at the grand finale held on Sunday evening. Prayashna...",
-   "link": "https://english.onlinekhabar.com/prayashna-gurung-miss-universe.html",
-   "source": "Onlinekhabar EN",
-   "ts": 1790579214,
-   "weight": 3,
-   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/09/miss_universe1.jpg",
-   "lang": "en",
-   "en": "Prayashna Gurung becomes Miss Universe Nepal, Binita Oli takes Miss Earth Nepal crown",
-   "ne": "प्रयशना गुरुङ मिस युनिभर्स नेपाल, बिनिता ओली मिस अर्थ नेपाल",
-   "imp": 2,
-   "tags": [
-    "MissUniverseNepal",
-    "MissEarthNepal"
-   ],
-   "cat": "sports",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "यूएन महासभामा व्यक्त गरेको विषयलाई बालेनले बाढीपीडितका परिवारसम्म कसरी पुर्‍याउँछन् ?",
    "summary": "संयुक्त राष्ट्र संघ महासभाको मञ्च संसारका कुनै पनि राष्ट्र प्रमुख वा सरकार प्रमुखका लागि केवल भाषण गर्ने ठाउँ होइन । आफ्नो देशको आवाजलाई विश्वसामु स्थापित गर्ने दुर्लभ अवसर हो । त्यसैले प्रधानमन्त्री बालेन्द्र शाहले ८१औँ",
    "link": "https://www.ratopati.com/story/595510/how-does-balen-convey-the-issues-raised-at-the-un-general-assembly-to-the-families-of-flood-victims",
@@ -3931,28 +3899,6 @@
     "Convention",
     "Candidate",
     "Politics"
-   ],
-   "cat": "politics",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "खोला छेउमा बाँकी बस्तीको व्यवस्थापन गर्नुपर्‍यो : कबिन्द्र बुर्लाकोटी",
-   "summary": "१२ असोज, काठमाडौं । राष्ट्रिय स्वतन्त्र पार्टीका मुख्य सचेतक कबिन्द्र बुर्लाकोटीले खोला छेउमा रहेका बस्तीको व्यवस्थापन गर्नुपपर्ने बताएका छन् । प्रतिनिधिसभाको बैठकमा बोल्दै उनले यस्तो बताएका हुन् । 'खोला छेउको बस्ती...",
-   "link": "https://www.onlinekhabar.com/2026/09/2027578/the-remaining-settlements-along-the-river-had-to-be-managed-kabindra-burlakoti",
-   "source": "Onlinekhabar",
-   "ts": 1790578954,
-   "weight": 3,
-   "img": "https://www.onlinekhabar.com/wp-content/uploads/2026/08/Kabindra-burlakoti-2.jpg",
-   "lang": "ne",
-   "en": "Remaining settlement by the riverbank must be managed: Kabindra Buralakoti",
-   "ne": "खोला छेउमा बाँकी बस्तीको व्यवस्थापन गर्नुपर्‍यो : कबिन्द्र बुर्लाकोटी",
-   "imp": 2,
-   "tags": [
-    "Riverbank",
-    "Settlement",
-    "KabindraBuralakoti"
    ],
    "cat": "politics",
    "val": 2,
@@ -4043,28 +3989,6 @@
    ],
    "cat": "politics",
    "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "गगनको भन्दा देउवा पक्षको महाधिवेशनमा सभापति उठ्न १० हजार सस्तो",
-   "summary": "१२ असोज, काठमाडौं । नेपाली कांग्रेसको १५औं महाधिवेशनका लागि सभापति गगन थापा नेतृत्वको संस्थापन पक्ष र पूर्वसभापति शेरबहादुर देउवा नेतृत्वको संस्थापनइतर समूहले छुट्टाछुट्टै तयारी गरिरहेका बेला उम्मेदवारी मनोनयन शुल्कमा...",
-   "link": "https://www.onlinekhabar.com/2026/09/2027566/it-is-10000-cheaper-to-become-the-president-of-the-deuba-factions-general-convention-than-gagans",
-   "source": "Onlinekhabar",
-   "ts": 1790578940,
-   "weight": 3,
-   "img": "https://www.onlinekhabar.com/wp-content/uploads/2026/08/sherbahadur-deuwa-gagan-thapa-2.png",
-   "lang": "ne",
-   "en": "Deuba party's grand convention speaker fee 10,000 cheaper than Gagan's",
-   "ne": "गगनको भन्दा देउवा पक्षको महाधिवेशनमा सभापति उठ्न १० हजार सस्तो",
-   "imp": 2,
-   "tags": [
-    "DeubaParty",
-    "SpeakerFee",
-    "GaganThapa"
-   ],
-   "cat": "politics",
-   "val": 2,
    "teaser": false,
    "hits": 1
   },
@@ -4939,7 +4863,7 @@
    "cat": "culture",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "श्रीलंका र नेपालबीचको क्वाटरफाइनलमा वर्षाको डर",
@@ -6545,7 +6469,7 @@
    "cat": "politics",
    "val": 2,
    "teaser": false,
-   "hits": 3
+   "hits": 4
   },
   {
    "title": "कुलोमा करेन्ट लगाएर माछा मार्ने क्रममा रूपन्देहीमा एक जनाको मृत्यु",
@@ -7156,7 +7080,7 @@
    "cat": "tech",
    "val": 2,
    "teaser": false,
-   "hits": 6
+   "hits": 7
   },
   {
    "title": "महालक्ष्मी विकास बैंक र रोटरी इन्टरनेसनल डिस्ट्रिक्ट ३२९२ बीच सम्झौता",
@@ -9088,7 +9012,7 @@
    "cat": "crime",
    "val": 2,
    "teaser": false,
-   "hits": 8
+   "hits": 9
   },
   {
    "title": "प्रधानसेनापति ट्रफी सुरु",
@@ -9593,7 +9517,7 @@
    "cat": "health",
    "val": 2,
    "teaser": true,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "Mitsubishi Electric to Donate ¥5 Million for Nepal-China Border Flood Relief",
@@ -10761,27 +10685,6 @@
    "hits": 1
   },
   {
-   "title": "Nepal Tourism Faces Rising Climate Losses in the Himalayas",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kRjJ0Yjc5UnFQakExeTdpM1RpY2MwT1FEZHNNSUVEWHNVYTFvZ2pvTUxMYnlXcFRtN0hSNEkwR3BtR0pUTDBWeFNzMmFGaTZ1c1AxalhnejRlb1BHUEdhVXVyUF9fazhibHFKd2x5QzFBRFAyNVhJUzFKdndyNEU?oc=5",
-   "source": "eTurboNews",
-   "ts": 1790606083,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "en": "Nepal Tourism Faces Rising Climate Losses in the Himalayas",
-   "ne": "हिमालयमा जलवायु परिवर्तनका कारण नेपाल पर्यटनको घाटा बढ्दै",
-   "imp": 4,
-   "tags": [
-    "Tourism",
-    "Himalayas"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "हिजो देउवाविरुद्ध एक ढिक्का कास्की कांग्रेसका नेता आज छुट्टाछुट्टै समूहमा",
    "summary": "अझ रोचक कुरा त के छ भने विगतमा देउवा समूहमा रहेका तर अहिले संस्थापन पक्षमा रहेकाहरूलाई टाउको उठाउन नदिने रणनीतिसमेत अपनाएको पाइएको छ।...",
    "link": "https://nagariknews.nagariknetwork.com/politics/kaski-congress-leaders-who-were-united-against-deuba-yesterday-are-now-in-separate-groups-today-46-84.html",
@@ -11029,6 +10932,50 @@
     "नेपाल"
    ],
    "cat": "health",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "५१३ मनसुनजन्य घटना, २७ जनाको मृत्यु",
+   "summary": "काठमाडौँ। अविरल वर्षासँगै आएको बाढी, पहिरो, डुबान, हावाहुरी र चट्याङका कारण देशभर २७ जनाको मृत्यु भएको छ । ७ जना घाइते भएका छन् भने ४ जना अझै सम्पर्कविहीन छन् । असोज ८ गतेदेखि हालसम्म भएका ५१३",
+   "link": "https://www.ratopati.com/story/595632/27-dead-7-injured-4-missing-in-floods-and-landslides",
+   "source": "Ratopati",
+   "ts": 1790608082,
+   "weight": 3,
+   "img": "https://npcdn.ratopati.com/media/news/bipad_y4QkRefvuY.webp",
+   "lang": "ne",
+   "en": "513 monsoon-related incidents, 27 dead",
+   "ne": "५१३ मनसुनजन्य घटना, २७ जनाको मृत्यु",
+   "imp": 4,
+   "tags": [
+    "Monsoon",
+    "Deaths",
+    "नेपाल"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "बाढीको बहाव घटेपछि मर्स्याङ्दीका दुवै आयोजनाबाट विद्युत् उत्पादन सुरु",
+   "summary": "लमजुङ जिल्लामा सञ्चालित ७० मेगावाटको मध्यमर्स्याङ्दी र ५० मेगावाटको माथिल्लो मर्स्याङ्दी 'ए' जलविद्युत् आयोजना आजदेखि पुन: सञ्चालनमा आएका हुन् ।",
+   "link": "https://www.onlinekhabar.com/2026/09/2028062/electricity-generation-resumes-from-both-marsyangdi-projects-after-floodwaters-recede",
+   "source": "Onlinekhabar",
+   "ts": 1790607409,
+   "weight": 3,
+   "img": "https://www.onlinekhabar.com/wp-content/uploads/2022/06/marsyandi-dam.jpg",
+   "lang": "ne",
+   "en": "Power generation resumes at both Meri Sangi plants after flood waters recede",
+   "ne": "बाढीको बहाव घटेपछि मर्स्याङ्दीका दुवै आयोजनाबाट विद्युत् उत्पादन सुरु",
+   "imp": 2,
+   "tags": [
+    "MeriSangi",
+    "PowerGeneration",
+    "Flood"
+   ],
+   "cat": "economy",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -13132,9 +13079,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "politics"
+  },
+  {
+   "ts": 1790608270.4395533,
+   "en": "Nepal Tourism Faces Rising Climate Losses in the Himalayas",
+   "ne": "हिमालयमा जलवायु परिवर्तनका कारण नेपाल पर्यटनको घाटा बढ्दै",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kRjJ0Yjc5UnFQakExeTdpM1RpY2MwT1FEZHNNSUVEWHNVYTFvZ2pvTUxMYnlXcFRtN0hSNEkwR3BtR0pUTDBWeFNzMmFGaTZ1c1AxalhnejRlb1BHUEdhVXVyUF9fazhibHFKd2x5QzFBRFAyNVhJUzFKdndyNEU?oc=5",
+   "source": "eTurboNews",
+   "n_fb": 1,
+   "n_ig": 0,
+   "brk": false,
+   "cat": "economy"
   }
  ],
- "updated": 1790607710,
+ "updated": 1790608278,
  "pending_since": 1790607687.046997,
  "fb_blocks": [
   1790350880.4125228,
