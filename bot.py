@@ -52,7 +52,7 @@ TOPIC_WINDOW   = 4      # look at the last 4 posts for topic variety
 TOPIC_PENALTY  = 0.75   # each recent same-topic post lowers a story's score by this much (impact is 1-5)
 DISASTER = re.compile(r"flood|landslide|mudslide|inundat|heavy rain|rainfall|downpour|river|barrage|cusec|"
                       r"quake|avalanche|snowfall|storm|glof|बाढी|पहिरो|डुबान|वर्षा|भूकम्प|हिमपहिरो", re.I)
-NORMAL_GAP_MIN = 30     # at most one regular (non-breaking) story every 30 minutes
+NORMAL_GAP_MIN = 0      # TEMP TEST (revert to 30) # at most one regular (non-breaking) story every 30 minutes
 TEASER_TRIES_PER_RUN = 2  # max teaser headlines to complete from the article per run (1 small AI call each)
 MIN_HEADLINE_VALUE = 2  # skip stories whose headline alone says nothing concrete (AI "v" 1-3; unknown = allowed)
 NORMAL_MIN_IMPACT = 3   # regular stories need AI impact >= 3 (1-5 scale); lower ones are never posted
