@@ -224,8 +224,15 @@ MEDIA_TAG = re.compile(
     re.I)
 
 
+# Leading labels like "Watch:", "VIDEO |", "In pictures -", "हेर्नुहोस्:", "भिडियो:" (a video/gallery page, not news)
+MEDIA_PREFIX = re.compile(r"^\s*(?:watch|video|videos|photos?|in pictures|live|live updates|हेर्नुहोस्|हेर्नुस्|भिडियो|"
+                          r"तस्बिर(?:हरू)?|फोटो)\s*[:|\-–]\s*", re.I)
+
+
 def strip_media_tag(t):
-    return re.sub(r"\s{2,}", " ", MEDIA_TAG.sub("", t or "")).strip(" -:|")
+    t = MEDIA_PREFIX.sub("", MEDIA_TAG.sub("", t or ""))
+    t = re.sub(r"\s*(?:\.\.\.|…)\s*$", "", t)  # cut-off endings like "debris comes crashing..."
+    return re.sub(r"\s{2,}", " ", t).strip(" -:|")
 
 
 def clean(s):
@@ -439,8 +446,10 @@ For each NEW item:
   something new or surprising). 2 = a clear point, a bit general. 1 = generic or vague: you must read the
   article to learn anything (e.g. "Floods disrupt economy and daily life", "How AI is changing disaster
   management", "What the budget means for you" without the answer).
-- "q": true if the headline is a TEASER: it promises specific information it does not give ("here is the
-  agenda", "यस्तो छ कार्यसूची", "these are the new rules", "find out who won"); otherwise false.
+- "q": true if the headline is a TEASER: it promises or refers to specifics it does not give ("here is the
+  agenda", "यस्तो छ कार्यसूची", "these are the new rules", "find out who won", "government's attention drawn
+  to various issues", "MPs raise several concerns", "5 major decisions") -- the reader must ask "which ones?";
+  otherwise false. Ignore labels like "Watch:" or "Video:".
 - "c": the story's topic, one of: disaster, politics, economy, sports, world, society, crime, health,
   education, tech, culture, other. (Floods, landslides, rain, quakes, rescue = disaster.)
 - "h": 2-4 hashtags for the story's key topic, places, people or organisations, without "#".
@@ -554,6 +563,31 @@ def complete_headline(s):
     return True
 
 
+PROMPT_SAME = """Is the NEW headline about the SAME event or development as any of the RECENT posts below
+(same incident, same announcement, same figures even if the numbers or wording differ)? Follow-ups with a
+genuinely new fact (death toll rises, verdict announced) are NOT the same.
+Respond with JSON only: {{"same": <index of the matching recent post or null>}}
+
+NEW: {new}
+
+RECENT:
+{recent}
+"""
+
+
+def same_event(s, recent):
+    """AI check against the last hours' posts. Returns the matching headline, or None. Fails open."""
+    if not recent:
+        return None
+    j = llm_json(PROMPT_SAME.format(new=s["en"], recent="\n".join(f"{i}: {t}" for i, t in enumerate(recent))),
+                 max_out=200)
+    k = (j or {}).get("same")
+    try:
+        return recent[int(k)] if k is not None and str(k).lstrip("-").isdigit() and 0 <= int(k) < len(recent) else None
+    except (TypeError, ValueError):
+        return None
+
+
 def translate(batch, existing, prefer_gemini=False):
     """Raises if both models fail; caller then leaves the items unseen so the next run retries."""
     res = llm_translate(batch, existing, prefer_gemini)
@@ -564,6 +598,11 @@ def translate(batch, existing, prefer_gemini=False):
         if t:
             t = strip_media_tag(clean(t))
             if foreign_script(t):
+                continue
+            # the translation must really be in the other language (the model sometimes echoes the original)
+            if (b["lang"] == "ne" and (DEVA.search(t) or not re.search(r"[A-Za-z]", t))) or \
+               (b["lang"] == "en" and not DEVA.search(t)):
+                log(f"translation not in the other language, skipping: {b['title'][:60]}")
                 continue
             b["en"], b["ne"] = (t, b["title"]) if b["lang"] == "ne" else (b["title"], t)
             b["dup"] = d
@@ -624,7 +663,7 @@ def date_stamp(ts):
     en = t.strftime("%d %b %Y, %I:%M %p").lstrip("0")
     if nepali_datetime is None:
         return en
-    b = nepali_datetime.datetime.from_datetime_datetime(t.replace(tzinfo=None))
+    b = nepali_datetime.date.from_datetime_date(t.date())  # date only: the datetime version adds +5:45 again
     part = "बिहान" if 4 <= t.hour < 12 else "दिउँसो" if t.hour < 17 else "साँझ" if t.hour < 20 else "राति"
     ne = f"{b.year} {NE_MONTHS[b.month - 1]} {b.day}, {part} {t.hour % 12 or 12}:{t.minute:02d}"
     return f"{en}   |   {ne.translate(NE_DIGITS)}"
@@ -1071,8 +1110,11 @@ def main():
             n_normal += 1
         recent_src.append(s["source"])
         # last check right before posting: same story already posted in the last 12h?
-        twin = next((p for p in posted if p["ts"] > now - 12 * 3600 and p.get("n_fb")
-                     and similar(s["en"], p["en"])), None)
+        recent_posts = [p for p in posted if p["ts"] > now - 12 * 3600 and p.get("n_fb")]
+        twin = next((p for p in recent_posts if similar(s["en"], p["en"])), None)
+        if not twin and not DRY:  # wording differs (e.g. 620 MW vs 1,000 MW): ask the AI
+            match = same_event(s, [p["en"] for p in recent_posts][-25:])
+            twin = {"en": match} if match else None
         if twin:
             log(f"same story already posted ({twin['en'][:60]}), skipping: {s['en']}")
             if breaking:
@@ -1105,8 +1147,8 @@ def main():
             posted.append(rec)  # recorded BEFORE posting: a crash can never cause a repeat
             save(state, seen, queue, posted)
         s["en"], s["ne"] = strip_media_tag(clean(s["en"])), strip_media_tag(clean(s["ne"]))
-        if foreign_script(s["en"], s["ne"], s["source"]):
-            log(f"skipping, not English/Nepali text: {s['en'][:60]} ({s['source']})")
+        if foreign_script(s["en"], s["ne"], s["source"]) or DEVA.search(s["en"]) or not DEVA.search(s["ne"]):
+            log(f"skipping, English/Nepali lines wrong or untranslated: {s['en'][:60]} ({s['source']})")
             if breaking:
                 n_breaking -= 1
             else:
