@@ -3251,29 +3251,15 @@
   "https://risingnepaldaily.com/news/87120": 1790565647.1105354,
   "https://gorkhapatraonline.com/news/224599": 1790565647.1105354,
   "https://gorkhapatraonline.com/news/224598": 1790565647.1105354,
-  "https://gorkhapatraonline.com/news/224597": 1790565647.1105354
+  "https://gorkhapatraonline.com/news/224597": 1790565647.1105354,
+  "https://www.setopati.com/social/399408": 1790566259.6197486,
+  "https://nagariknews.nagariknetwork.com/social-affairs/landslide-in-dhapakhel-lalitpur-collapses-two-and-a-half-story-house-47-89.html": 1790566259.6197486,
+  "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOamhYdmlSY3FtdVh1ZUp6YzRtZmp6YlNlUHBoTGZOT0hCMTBqYVZNYzZic1k2MDI5ZGdYcVpHTWRMVU9UbUpHdERRTl83bmljbDRYaU9NR1JGQWp6VXJMemsxb1RZR3NxV1dGQzlXOTVJVVpOVDVrQmkzUXlXV1g3cHlaLXphZ3d6ejA0UEZ2TVFYLWFQU1I0LUNqcTNjWHFNak1DT0VydkNQODJuZ3lSeWJRMjJXd0F3RDMw0gHAAUFVX3lxTE5fUER4MlhOSTFXSTROYlVNNXRQeUY4cmlaZl82LUJfcUlkWTlLdWN2TThNZm5zQU5ISnkzRFhZT210SzdIMkNLYzhvUTNhLThLblhpRHplWm45RjFXVmJlSmRLRktiQ0ZaYjJydzMwOXY5N0JuS2c0Z0ttcHdobVpZR2NvWV84QUp4RlRaWlRkOFNIV0ZPa0c4cUZUVEk2c1NUV2tnV1o3OHFuUlpPbkY3QlZ3WE1jQ3BVcldFVFFkbg?oc=5": 1790566259.6197486,
+  "https://news.google.com/rss/articles/CBMingFBVV95cUxOWXN3cUZUN0U0d0ppc3lXSG50cUtwekpjeEx6MEQ4MEdQWU9tdDYwUW9PS21KMkJZTkd1M2dPdkhhcWpkNVRpc0NpU3ZhWXVjN2JmUzc3YldodFVVaUNhTWMwLWpQRkJXeHVLdV9xemljQnFnMTBWdzEwUDBFRzBLeEQtWnRoRk1hbWgzdmo0MGQ0OV9DLUxqeEdRUm1rUQ?oc=5": 1790566259.6197486,
+  "https://baahrakhari.com/detail/502973": 1790566259.6197486,
+  "https://www.onlinekhabar.com/2026/09/2027348/weather-improves-in-chame-after-flood-scare-photos": 1790566259.6197486
  },
  "queue": [
-  {
-   "title": "सडक अवरुद्ध भएपछि भैरहवामा दर्जनौँ बस रोकिए",
-   "summary": "रूपन्देही । लगातारको वर्षासँगै विभिन्न राजमार्ग तथा सडकखण्डमा पहिरो खसेर सडक अवरुद्ध भएपछि भैरहवाबाट सञ्चालन हुने लामो दूरीका यातायात सेवा प्रभावित भएका छन् । काठमाडौँ, पोखरा, बागलुङ, बेनी, जनकपुरलगायतका गन्तव्यमा जाने...",
-   "link": "https://www.ratopati.com/story/595388/dozens-of-buses-stopped-in-bhairahawa-after-road-blockage",
-   "source": "Ratopati",
-   "ts": 1790537403,
-   "weight": 3,
-   "img": "https://npcdn.ratopati.com/media/news/buspark-nirbachan-farkifi-(11)_QXSQWZK8h8.jpg",
-   "lang": "ne",
-   "en": "Dozens of buses halted after road blockage in Bhairahawa",
-   "ne": "सडक अवरुद्ध भएपछि भैरहवामा दर्जनौँ बस रोकिए",
-   "imp": 2,
-   "tags": [
-    "Bhairahawa",
-    "RoadBlock",
-    "Buses"
-   ],
-   "cat": "society",
-   "hits": 1
-  },
   {
    "title": "A month after Nepal's floods, husband still hopes his wife can be found - ABC News & Headlines - Australian Broadcasting Corporation",
    "summary": "",
@@ -4537,7 +4523,7 @@
     "Myagdi"
    ],
    "cat": "disaster",
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "बाढी र विपद् व्यवस्थापनमा तटीय क्षेत्रका बासिन्दाको सहारा बने स्थानीय स्वयंसेवक",
@@ -5684,7 +5670,7 @@
     "Lalitpur"
    ],
    "cat": "disaster",
-   "hits": 1
+   "hits": 3
   },
   {
    "title": "Breaking Dangerous Myth About Rabies",
@@ -5912,26 +5898,6 @@
     "Athletics"
    ],
    "cat": "sports",
-   "hits": 1
-  },
-  {
-   "title": "एकै वर्षमा शिक्षा र भ्रमणमा दुई खर्ब बाहिरियो",
-   "summary": "नेपालबाट विदेश अध्ययन र भ्रमणमा जाँदा मोटो रकम बाहिरिने गरेको छ।",
-   "link": "https://nagariknews.nagariknetwork.com/economy/two-trillion-rupees-spent-on-education-and-tourism-in-a-single-year-br-27-40.html",
-   "source": "Nagarik News",
-   "ts": 1790563615,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1775977262_artha%20Mantralaya.jpg",
-   "lang": "ne",
-   "en": "Two trillion spent on education and tourism in one year",
-   "ne": "एकै वर्षमा शिक्षा र भ्रमणमा दुई खर्ब बाहिरियो",
-   "imp": 4,
-   "tags": [
-    "Education",
-    "Tourism",
-    "Budget"
-   ],
-   "cat": "economy",
    "hits": 1
   },
   {
@@ -6422,6 +6388,48 @@
    "tags": [
     "BheriRiver",
     "Rescue"
+   ],
+   "cat": "disaster",
+   "hits": 1
+  },
+  {
+   "title": "धितो बाढीले बगायो, ऋण भुक्तानी कसरी मिलाइँदै छ ?",
+   "summary": "",
+   "link": "https://baahrakhari.com/detail/502973",
+   "source": "Baahrakhari",
+   "ts": 1790565685,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "en": "Collateral swept away by floods: How loan repayments are being managed",
+   "ne": "धितो बाढीले बगायो, ऋण भुक्तानी कसरी मिलाइँदै छ ?",
+   "imp": 3,
+   "tags": [
+    "Floods",
+    "NepalEconomy",
+    "BankLoans",
+    "बाढी"
+   ],
+   "cat": "economy",
+   "hits": 1
+  },
+  {
+   "title": "बाढीको त्रासपछि चामेमा खुलेको मौसम",
+   "summary": "कालो बादलको टुक्रासमेत नदेखिएको मनाङका सहायक सीडीओ कृष्णप्रसाद पौडेलले बताए । 'बिहान सबै मौसम खुलेको छ । स्थानीय खोलामा बाढी रोकिएको छ र मानिसहरु घर फर्किएका छन् ।'",
+   "link": "https://www.onlinekhabar.com/2026/09/2027348/weather-improves-in-chame-after-flood-scare-photos",
+   "source": "Onlinekhabar",
+   "ts": 1790565411,
+   "weight": 3,
+   "img": "https://www.onlinekhabar.com/wp-content/uploads/2026/09/Chame-weather-oooo-4.jpg",
+   "lang": "ne",
+   "en": "Weather clears in Chame following flood fears",
+   "ne": "बाढीको त्रासपछि चामेमा खुलेको मौसम",
+   "imp": 2,
+   "tags": [
+    "Manang",
+    "Chame",
+    "NepalWeather",
+    "Floods"
    ],
    "cat": "disaster",
    "hits": 1
@@ -8162,10 +8170,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "tech"
+  },
+  {
+   "ts": 1790566265.3494878,
+   "en": "Two trillion spent on education and tourism in one year",
+   "ne": "एकै वर्षमा शिक्षा र भ्रमणमा दुई खर्ब बाहिरियो",
+   "link": "https://nagariknews.nagariknetwork.com/economy/two-trillion-rupees-spent-on-education-and-tourism-in-a-single-year-br-27-40.html",
+   "source": "Nagarik News",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "economy"
   }
  ],
- "updated": 1790565659,
- "pending_since": null,
+ "updated": 1790566282,
+ "pending_since": 1790566259.6197486,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
