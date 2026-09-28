@@ -2963,29 +2963,15 @@
   "https://news.google.com/rss/articles/CBMibkFVX3lxTE42aXBiQjNfdkpxSnRFV1NCbDRQVzJrZ3JFajR3NlBtNVJoblV0WkpUR0VaYmZ6dXBscC1qVElKV3k1RnZOT2k2RmZxMmo2VFNCb1kzSDVvd3Nvc3RYM3VJZ21pMFpxejRLd0J4b253?oc=5": 1790551859.2475007,
   "https://www.ratopati.com/story/595400/floods-and-landslides-disrupt-road-network-in-dhaulagiri-region": 1790552444.8575404,
   "https://www.onlinekhabar.com/2026/09/2027285/this-is-the-foreign-currency-exchange-rate-for-today-31": 1790553047.0565307,
-  "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNmdRM191WEpBVVdFME1FSUVKRVFwbkVlcHVwXzRCTVRaUlJKVFExcXoxV0JVLVUxcmdMLWlQYV94M29XbnNwRzhnSmNZRmVXOFIxZlNjcms0Y0dpZWhpRkxxN2g2TWxTMGY5V2ZXNkEyc2twZFdxM29lN0U3RVgzRmlPNEFXQXNWazFfWUNIbm1NSS1iUDRvQmZ2ZW5CTmhjU2F3bA?oc=5": 1790553047.0565307
+  "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNmdRM191WEpBVVdFME1FSUVKRVFwbkVlcHVwXzRCTVRaUlJKVFExcXoxV0JVLVUxcmdMLWlQYV94M29XbnNwRzhnSmNZRmVXOFIxZlNjcms0Y0dpZWhpRkxxN2g2TWxTMGY5V2ZXNkEyc2twZFdxM29lN0U3RVgzRmlPNEFXQXNWazFfWUNIbm1NSS1iUDRvQmZ2ZW5CTmhjU2F3bA?oc=5": 1790553047.0565307,
+  "https://risingnepaldaily.com/news/87105": 1790553680.3359015,
+  "https://www.ratopati.com/story/595402/fires-twice-in-6-years-dobhan-residents-in-trouble-again": 1790553680.3359015,
+  "https://gorkhapatraonline.com/news/224563": 1790553680.3359015,
+  "https://www.ratopati.com/story/595401/foreign-currency-exchange-rates-set-for-today": 1790553680.3359015,
+  "https://www.ratopati.com/story/595399/both-houses-of-the-federal-parliament-are-meeting-today-here-is-the-possible-agenda": 1790553680.3359015,
+  "https://www.ratopati.com/story/595398/from-lemons-to-dragon-fruit-the-courage-of-three-young-people-made-dreams-bloom-in-a-barren-field": 1790553680.3359015
  },
  "queue": [
-  {
-   "title": "वर्षा र पहिरोले विभिन्न राजमार्ग प्रभावित, केही सडक एकतर्फी सञ्चालनमा",
-   "summary": "काठमाडौँ । लगातारको वर्षा, पहिरो, बाढी तथा सडक कटानका कारण देशका विभिन्न राष्ट्रिय राजमार्ग तथा प्रमुख सडकखण्डमा यातायात प्रभावित भएको छ। सडक विभागले पछिल्लो अवस्थाबारे जानकारी दिँदै अवरुद्ध सडक खुलाउने तथा जोखिमयुक्त...",
-   "link": "https://www.ratopati.com/story/595369/rain-and-landslides-affect-highways-across-the-country-some-roads-are-in-one-way-operation",
-   "source": "Ratopati",
-   "ts": 1790524392,
-   "weight": 3,
-   "img": "https://npcdn.ratopati.com/media/news/prithivi-rajmarg_n1RWVXGqVL.webp",
-   "lang": "ne",
-   "en": "Rain and landslides affect several highways, some roads operating one‑way",
-   "ne": "वर्षा र पहिरोले विभिन्न राजमार्ग प्रभावित, केही सडक एकतर्फी सञ्चालनमा",
-   "imp": 3,
-   "tags": [
-    "Rain",
-    "Landslide",
-    "Highways"
-   ],
-   "cat": "disaster",
-   "hits": 2
-  },
   {
    "title": "बाढीपहिरो तथा डुबान प्रभावित क्षेत्रबाट ६८२ जनाको उद्धार",
    "summary": "काठमाडौँ। नेपाली सेनाले अविरल वर्षासँगैको पहिरो, बाढी तथा डुबान प्रभावित क्षेत्रबाट आज ६८४ जनाको उद्धार गरेको छ । सेनाले आज पर्वत, म्याग्दी, बागलुङ र जाजरकोटका विभिन्न स्थानबाट उनीहरुलाई उद्धार गरी सुरक्षित स्थलमा...",
@@ -3062,83 +3048,6 @@
    ],
    "cat": "politics",
    "hits": 1
-  },
-  {
-   "title": "नेपाल टेनिसको मिक्स्ड डबल्स, पहिलो चरणमै सीमित",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/502945",
-   "source": "Baahrakhari",
-   "ts": 1790524500,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "en": "Nepal's mixed doubles tennis eliminated in the first round",
-   "ne": "नेपाल टेनिसको मिक्स्ड डबल्स, पहिलो चरणमै सीमित",
-   "imp": 2,
-   "tags": [
-    "Tennis",
-    "MixedDoubles",
-    "Nepal"
-   ],
-   "cat": "sports",
-   "hits": 1
-  },
-  {
-   "title": "मनकामना केबुलकार सेवा सुचारु, मुग्लिनतर्फ वैकल्पिक पार्किङ",
-   "summary": "मनकामना पहुँच मार्गको दोस्रो घुम्तीमुनि पहिरो खसेर सडक प्रभावित भए पनि मनकामना मन्दिर दर्शन तथा केबुलकार सेवा नियमित र सुरक्षित रूपमा सञ्चालन भइरहेको छ।...",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/manakamana-cable-car-service-resumes-alternative-parking-towards-muglin-98-60.html",
-   "source": "Nagarik News",
-   "ts": 1790524423,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1758106672_manakamana_cable_car.jpg",
-   "lang": "ne",
-   "en": "Manakamana cable car service resumed, alternative parking towards Muglin",
-   "ne": "मनकामना केबुलकार सेवा सुचारु, मुग्लिनतर्फ वैकल्पिक पार्किङ",
-   "imp": 2,
-   "tags": [
-    "ManakamanaCableCar",
-    "MuglinParking"
-   ],
-   "cat": "other",
-   "hits": 1
-  },
-  {
-   "title": "चामेवासी कोही सुरक्षित ठाउँ खोज्दै जंगलतिर, कोही ब्यारेकमा",
-   "summary": "लगातारको वर्षासँगै चामे बजार आसपासका सबैजसो स्थानीय खोलामा बाढी आएको थियो । बिहान हिमलुङ हिमालमा हिम पहिरो जाँदा १० जना बेपत्ता भएकोमा २ जनाको शव चामे ल्याइएको छ ।",
-   "link": "https://www.onlinekhabar.com/2026/09/2027268/some-chame-residents-are-looking-for-a-safe-place-some-are-heading-to-the-forest-some-are-heading-to-the-barracks",
-   "source": "Onlinekhabar",
-   "ts": 1790524845,
-   "weight": 3,
-   "img": "https://www.onlinekhabar.com/wp-content/uploads/2026/09/Manang-gaupalika.jpg",
-   "lang": "ne",
-   "en": "Some Chameli residents seek safety in the forest, others in the barracks",
-   "ne": "चामेवासी कोही सुरक्षित ठाउँ खोज्दै जंगलतिर, कोही ब्यारेकमा",
-   "imp": 2,
-   "tags": [
-    "Chameli",
-    "Displacement"
-   ],
-   "cat": "society",
-   "hits": 1
-  },
-  {
-   "title": "लागुऔषध कारोबारी पक्राउ गर्न धनुषा प्रहरीले गर्‍यो हवाई फायर",
-   "summary": "जनकपुरधाम । धनुषा प्रहरीले लागुऔषध खैरो हेरोइन कारोबार भइरहेको सूचनाका आधारमा कारबाही गर्दै एक युवकलाई पक्राउ गरेको छ। पक्राउ गर्ने क्रममा प्रहरीमाथि स्थानीयको समूहले आक्रमण गर्न खोजेपछि प्रहरीले एक राउण्ड हवाई फायरसमेत...",
-   "link": "https://www.ratopati.com/story/595370/dhanusha-police-fire-in-the-air-to-arrest-drug-trafficker",
-   "source": "Ratopati",
-   "ts": 1790524860,
-   "weight": 3,
-   "img": "https://npcdn.ratopati.com/media/news/pk_MbFjNINTQJ.webp",
-   "lang": "ne",
-   "en": "Dhanusha police carried out a raid to arrest illegal drug traders",
-   "ne": "लागुऔषध कारोबारी पक्राउ गर्न धनुषा प्रहरीले गर्‍यो हवाई फायर",
-   "imp": 2,
-   "tags": [
-    "DhanushaPolice",
-    "DrugBust"
-   ],
-   "cat": "crime",
-   "hits": 2
   },
   {
    "title": "बाढी प्रभावित जनप्रतिनिधिसँग मन्त्री लम्सालको छलफल",
@@ -3871,6 +3780,130 @@
     "बाढी"
    ],
    "cat": "disaster",
+   "hits": 1
+  },
+  {
+   "title": "Disaster preparedness helps minimise human casualties",
+   "summary": "By A Staff Reporter, Kathmandu, Sept. 28: Timely preparedness, early warnings and effective coordination have helped min...",
+   "link": "https://risingnepaldaily.com/news/87105",
+   "source": "Rising Nepal",
+   "ts": 1790553591,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "en": "Disaster preparedness helps minimise human casualties",
+   "ne": "विपद् पूर्वतयारीले मानवीय क्षति न्यूनीकरण गर्न मद्दत पुग्छ",
+   "imp": 2,
+   "tags": [
+    "DisasterManagement",
+    "DisasterPreparedness",
+    "विपद्"
+   ],
+   "cat": "disaster",
+   "hits": 1
+  },
+  {
+   "title": "६ वर्षमा दुई पटक आगलागी, दोभानवासीको फेरि बिचल्ली",
+   "summary": "ताप्लेजुङ । ताप्लेजुङको दोस्रो ठुलो व्यापारिक केन्द्र मानिने मेरिङ्देन गाउँपालिका-३ स्थित दोभान बजारमा छ वर्षको अवधिमा दुई पटक ठुलो आगलागी भएको छ । पहिलो आगलागीबाट सर्वस्व गुमाएका दोभानवासी बिस्तारै आफ्नो...",
+   "link": "https://www.ratopati.com/story/595402/fires-twice-in-6-years-dobhan-residents-in-trouble-again",
+   "source": "Ratopati",
+   "ts": 1790553315,
+   "weight": 3,
+   "img": "https://rpcdn.ratopati.com/media/albums/taplejung-fire_P8YEUswbcy.PNG",
+   "lang": "ne",
+   "en": "Dovan residents devastated as second fire in six years strikes",
+   "ne": "६ वर्षमा दुई पटक आगलागी, दोभानवासीको फेरि बिचल्ली",
+   "imp": 2,
+   "tags": [
+    "Taplejung",
+    "DovanFire",
+    "FireIncident",
+    "आगलागी"
+   ],
+   "cat": "disaster",
+   "hits": 1
+  },
+  {
+   "title": "सडक अवरुद्ध हुनासाथ खुलाउने प्रयास",
+   "summary": "काठमाडौँ, असोज १२ गते । वर्षाका कारण देशका प्रमुख राजमार्ग तथा सडकमा आएको बाढीपहिरोको अवरोध हटाउन सरकारले विशेष आपत्कालीन कार्ययोजना कार्यान्वयनमा ल्याएको छ । सरकारले पूर्वाधार विक...",
+   "link": "https://gorkhapatraonline.com/news/224563",
+   "source": "Gorkhapatra",
+   "ts": 1790553116,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/385258/conversions/RP_KAVRE_cfaf0235-93c5-4c40-9063-82b2b668c890-original.jpg",
+   "lang": "ne",
+   "en": "Efforts underway to reopen blocked roads immediately",
+   "ne": "सडक अवरुद्ध हुनासाथ खुलाउने प्रयास",
+   "imp": 3,
+   "tags": [
+    "RoadClearance",
+    "RoadBlockage",
+    "DepartmentOfRoads",
+    "सडक"
+   ],
+   "cat": "disaster",
+   "hits": 1
+  },
+  {
+   "title": "आजका लागि तोकियो विदेशी मुद्राको विनिमय दर",
+   "summary": "काठमाडौँ । नेपाल राष्ट्र बैंकले आजका लागि विदेशी मुद्राको विनिमय दर निर्धारण गरेको छ । राष्ट्र बैंकका अनुसार अमेरिकी डलर एकको खरिददर १५३ रुपैयाँ ०१ पैसा र बिक्रीदर १५३ रुपैयाँ ६१ पैसा निर्धारण गरिएको छ",
+   "link": "https://www.ratopati.com/story/595401/foreign-currency-exchange-rates-set-for-today",
+   "source": "Ratopati",
+   "ts": 1790552578,
+   "weight": 3,
+   "img": "https://rpcdn.ratopati.com/media/albums/forex_3HNlavACP4.jpg",
+   "lang": "ne",
+   "en": "Foreign exchange rates fixed for today",
+   "ne": "आजका लागि तोकियो विदेशी मुद्राको विनिमय दर",
+   "imp": 2,
+   "tags": [
+    "ForexRates",
+    "NepalRastraBank",
+    "Economy",
+    "मुद्राविनिमय"
+   ],
+   "cat": "economy",
+   "hits": 1
+  },
+  {
+   "title": "सङ्घीय संसद्का दुवै सदनको बैठक आज बस्दै, यस्तो छ सम्भावित कार्यसूची",
+   "summary": "काठमाडौँ । सङ्घीय संसद्का दुवै सदन (प्रतिनिधिसभा र राष्ट्रियसभा) को बैठक आज बस्दै छ । प्रतिनिधिसभाको बैठक बिहान ११ः ०० बजे तथा राष्ट्रियसभाको बैठक अपराह्न १ः१५ बजेका लागि बोलाइएको छ । आजको प्रतिनिधिसभा बैठकमा...",
+   "link": "https://www.ratopati.com/story/595399/both-houses-of-the-federal-parliament-are-meeting-today-here-is-the-possible-agenda",
+   "source": "Ratopati",
+   "ts": 1790552231,
+   "weight": 3,
+   "img": "https://npcdn.ratopati.com/media/news/samsad_9q2zyeYiS3.jpg",
+   "lang": "ne",
+   "en": "Both houses of Federal Parliament to meet today; here is the agenda",
+   "ne": "सङ्घीय संसद्का दुवै सदनको बैठक आज बस्दै, यस्तो छ सम्भावित कार्यसूची",
+   "imp": 3,
+   "tags": [
+    "FederalParliament",
+    "ParliamentNepal",
+    "संसद"
+   ],
+   "cat": "politics",
+   "hits": 1
+  },
+  {
+   "title": "कागतीदेखि ड्रागन फ्रुटसम्मः तीन युवाको आँटले बाँझा खेतमा फुल्यो सपना",
+   "summary": "लमजुङ । बेँसीसहर नगरपालिका-१० बाँझा खेतमा मस्र्याङ्दी नदी किनारको जग्गामा तीन युवाले सुरु गरेको ड्रागन फ्रुटखेतीले नयाँ सम्भावना देखाएको छ । केही वर्षअघि कागतीखेतीबाट अपेक्षित आम्दानी लिन नसकेपछि इन्द्र घले, योगबहादुर...",
+   "link": "https://www.ratopati.com/story/595398/from-lemons-to-dragon-fruit-the-courage-of-three-young-people-made-dreams-bloom-in-a-barren-field",
+   "source": "Ratopati",
+   "ts": 1790551885,
+   "weight": 3,
+   "img": "https://npcdn.ratopati.com/media/news/x3R5zYKkVB.jpg",
+   "lang": "ne",
+   "en": "From lemons to dragon fruit: Three youths turn barren fields into thriving farm",
+   "ne": "कागतीदेखि ड्रागन फ्रुटसम्मः तीन युवाको आँटले बाँझा खेतमा फुल्यो सपना",
+   "imp": 2,
+   "tags": [
+    "YouthAgriculture",
+    "DragonFruit",
+    "Farming",
+    "कृषि"
+   ],
+   "cat": "economy",
    "hits": 1
   }
  ],
@@ -5523,8 +5556,8 @@
    "cat": "politics"
   }
  ],
- "updated": 1790553080,
- "pending_since": 1790551859.2475007,
+ "updated": 1790553693,
+ "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
