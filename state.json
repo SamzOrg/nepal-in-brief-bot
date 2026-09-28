@@ -1,15 +1,5 @@
 {
  "seen": {
-  "https://www.ratopati.com/story/595045/the-highest-rainfall-in-the-last-24-hours-was-recorded-in-panchase-kaski": 1790409042.4327016,
-  "https://khabarhub.com/2026/26/1029358/": 1790409042.4327016,
-  "https://www.setopati.com/politics/399284": 1790409042.4327016,
-  "https://www.ratopati.com/story/595044/water-levels-of-major-rivers-rising-significantly-risk-of-flash-floods-in-dozens-of-districts": 1790409042.4327016,
-  "https://nagariknews.nagariknetwork.com/social-affairs/the-highest-rainfall-in-the-last-24-hours-was-recorded-in-panchase-kaski-82-55.html": 1790409042.4327016,
-  "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZ2lpV1gtbVM5UDlTUmRVallULTNrYXRaYkhXMUlXQzBFUEtQaUxhU0l6RnhnMXZOZW92ZzhjWG93QUxwMmtqdUxJU1VGUXZiRlhHYTFXUmNzLTRZU2JmT2xGLS1UV0R6bEtva2Jtb3laWW1VbWtBRTVYREJsaU9rQXF4TVpkVjdzN0xDb3FndVgtaG5pT2lkWGVhN2R2VDhrX1JxcUhTMWRNWUozTDJlUkNSaXZPenVjTTRmX0RTZ0E?oc=5": 1790409042.4327016,
-  "https://kathmandupost.com/national/2026/09/26/rain-across-nepal-where-the-impact-is-being-felt": 1790409042.4327016,
-  "http://lokaantar.com/story/329812/2026/9/26/kaligandaki-": 1790409042.4327016,
-  "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNS1OeWo1bVFzWU5FdmRwTTdPcFotLVd4b1V2bU4yNHp3Tk42b3hDTTVCbXdWdTlrTThMMmpSMjFvamJkd04weTI1S0E4UlRmUDI3blRpMzdZUzE1Qm9xRXNQMGpaakxoNjhCQ3dKRjNCa3FJN2tZTEcta0h3NGJsa3ZFbFFBZ3d2dXNtMlhPZThsUWRianQ4RzJZQ0w3RFlnaFFmWUtTNTJKZUZ0d29DLVhrWmwtci1zVkRjQkdPbEU4eWdGWEktSXBPMUotYkE?oc=5": 1790409042.4327016,
-  "https://baahrakhari.com/detail/502789": 1790409042.4327016,
   "https://khabarhub.com/2026/26/1029360/": 1790409675.7899318,
   "https://www.onlinekhabar.com/2026/09/2026174/continuous-rain-affects-electricity-service-in-surkhet": 1790409675.7899318,
   "https://news.google.com/rss/articles/CBMimgFBVV95cUxOS2RGOVMxMUR6YXhVMU5QX2xhOUJ3eF8zTjdmZHp5cThRLTJxUmRfRVFESUZsLWliRUhtZG4wVkZoMXRBQ2VyZDhYdUJ4Tm9OSUdTaDB4aXB3UXZGUEFoT3B4R3pxSklpYXhHVjRVTVJtbk85WldVX1d3UGVRRFJkdVZRZ29GaDF2Nk01bkJvVnhEUlBMMGpQRV9n?oc=5": 1790409675.7899318,
@@ -3400,29 +3390,37 @@
   "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdVhlMTNremticmJQVGRtUHZ0R1BMcVpWcGVCRmlfMEM1Ty1Ga1VJdUd0TXgyRWFzRk9rbllOYno0cW0wWDJMX1FtZVpUR0IxTFVKb3p6V1hnZGRvMVE1dXJpZU9TUlBBdExMTmdvcjc1cjk0SjdSdVcyNUkxMVdZWWhzWDJld0xMN2dxSmwwcHhjWVpW?oc=5": 1790581265.2097814,
   "https://www.setopati.com/social/399431": 1790581265.2097814,
   "https://www.onlinekhabar.com/2026/09/2027613/how-much-damage-did-the-recent-flood-cause-to-infrastructure": 1790581265.2097814,
-  "https://kathmandupost.com/national/2026/09/28/a-month-in-tents-jajarkot-landslide-survivors-face-fresh-misery-in-the-rain": 1790581265.2097814
+  "https://kathmandupost.com/national/2026/09/28/a-month-in-tents-jajarkot-landslide-survivors-face-fresh-misery-in-the-rain": 1790581265.2097814,
+  "https://english.onlinekhabar.com/how-much-damage-have-recent-floods-caused-to-nepals-infrastructure.html": 1790581852.1670368,
+  "https://khabarhub.com/2026/28/1030254/": 1790581852.1670368,
+  "https://english.khabarhub.com/2026/28/569698/": 1790581852.1670368,
+  "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUGxRNldROW9mTXBjMzU1NWF3QkRsZzh3VnNLSG9qTTVoWnJfTHFXX01GZnZ2eHVyZm9PQk5EYUVfVnBTZ09UaG9mWHhoNjk2cG50UEowcjBGX0R6TE9ZcHlkMUE0bzFPbTc5SGVfOUh2NlNwZXQtVEt1TVNMaVdXdnliYS1reE04UDh3STl3bTdhNzdxMEZXZWtrb1JPWEs0MjlrS2Q4QWNhcTZ3ZlM4RDVn?oc=5": 1790581852.1670368,
+  "https://english.onlinekhabar.com/madan-bhandari-cup-international-mens-volleyball-tournament-begins.html": 1790581852.1670368,
+  "http://lokaantar.com/story/329974/2026/9/28/e-sewa-": 1790581852.1670368,
+  "https://english.onlinekhabar.com/film-piracy-spreads.html": 1790581852.1670368,
+  "https://baahrakhari.com/detail/503009": 1790581852.1670368,
+  "https://www.ratopati.com/story/595517/relief-materials-sent-by-helicopter-to-baglung-landslide-victims-photos": 1790581852.1670368,
+  "https://www.onlinekhabar.com/2026/09/2027622/bar-demands-selection-of-constitutional-bench-judges-through-seniority-or-lottery-process": 1790581852.1670368,
+  "https://news.google.com/rss/articles/CBMiigJBVV95cUxQS0VyN2s2dVJsU0MzNVRBdDBWZFpXWVBMSUtMRm93blYwNEFyTWp4OXJTNnVNZDZzZmhzeXpnVmVoaTRXWHhrUHdjMGF6ZUtSek45MWliMkUxbFV2RXpyYTBXNFM5RXpvejEta043ZFVNTVdkTlFGYTZ4RWh0ZlBKSFdqNzFFWnNRUUwwSGptaGtCNjZXUWFIS1YtYXQ2ZVV6SkQ5b3RjdlRUc2wxZHRFVFBjSC1YUm1wVnBrVW1vc1dEVV9OY2N1Q1BKUmVyZzZRa3dPT0o3RXJQbjlzMk1NVlU4RFBjdzBfZmEtSm0xeWF3aHlheDQ2REJCUkVEa3B0LXRvYmlSZGh5QdIBigJBVV95cUxQS0VyN2s2dVJsU0MzNVRBdDBWZFpXWVBMSUtMRm93blYwNEFyTWp4OXJTNnVNZDZzZmhzeXpnVmVoaTRXWHhrUHdjMGF6ZUtSek45MWliMkUxbFV2RXpyYTBXNFM5RXpvejEta043ZFVNTVdkTlFGYTZ4RWh0ZlBKSFdqNzFFWnNRUUwwSGptaGtCNjZXUWFIS1YtYXQ2ZVV6SkQ5b3RjdlRUc2wxZHRFVFBjSC1YUm1wVnBrVW1vc1dEVV9OY2N1Q1BKUmVyZzZRa3dPT0o3RXJQbjlzMk1NVlU4RFBjdzBfZmEtSm0xeWF3aHlheDQ2REJCUkVEa3B0LXRvYmlSZGh5QQ?oc=5": 1790581852.1670368,
+  "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcHUza29CODFlenhwOV80NE5FcG5TeXdPZG5YLUFHR2FnaWZoWjFNeUllbl9aWmgySkFMc0lNUlNCbVl5MG56eU5kaGhDYXF0VmVvZElJbGE1WW4xZEc4QnhOeTd2RFlac21OS05UbmlyU3U5ZmtPbExzY0p2dmVhWG0zMzU0UzNfTEo4MzluTXhuVEFMa2lNYlZzMnY5eDY4eU4xclJackVaRnRvV3FaOTk2NjRPMjlTb184SjlpaGZBdm0zbTJzZkYwbHRXOFRuby1J0gHTAUFVX3lxTE9wdTNrb0I4MWV6eHA5XzQ0TkVwblN5d09kblgtQUdHYWdpZmhaMU15SWVuX1paaDJKQUxzSU1SU0JtWXkwbnp5TmRoaENhcXRWZW9kSUlsYTVZbjFkRzhCeE55N3ZEWVpzbU5LTlRuaXJTdTlma09sTHNjSnZ2ZWFYbTMzNTRTM19MSjgzOW5NeG5UQUxraU1iVnMydjl4Njh5TjFyUlpyRVpGdG9XcVo5OTY2NE8yOVNvXzhKOWloZkF2bTNtMnNmRjBsdFc4VG5vLUk?oc=5": 1790581852.1670368,
+  "http://lokaantar.com/story/329973/2026/9/28/china-": 1790581852.1670368,
+  "http://annapurnapost.com/story/508533": 1790581852.1670368,
+  "https://baahrakhari.com/detail/503008": 1790581852.1670368,
+  "https://www.ratopati.com/story/595516/oil-prices-rise-as-tensions-with-iran-escalate-putting-pressure-on-global-markets": 1790581852.1670368,
+  "https://www.onlinekhabar.com/2026/09/2027618/peoples-sorrows-play-in-their-minds-when-they-come-to-singha-durbar-on-a-bicycle-mp-gajurel": 1790581852.1670368,
+  "http://lokaantar.com/story/329972/2026/9/28/nepathya-korea-": 1790581852.1670368,
+  "http://annapurnapost.com/story/508532": 1790581852.1670368,
+  "https://baahrakhari.com/detail/503007": 1790581852.1670368,
+  "https://www.ratopati.com/story/595515/jhingedau-2-dominates-the-box-office": 1790581852.1670368,
+  "https://www.onlinekhabar.com/2026/09/2027610/governments-attention-drawn-to-provide-relief-to-flood-and-elephant-victims-in-saptari": 1790581852.1670368,
+  "http://lokaantar.com/story/329971/2026/9/28/pakistan-": 1790581852.1670368,
+  "https://www.ratopati.com/story/595514/when-a-landslide-swept-away-a-two-and-a-half-story-house-in-dhapakhel-lalitpur-and-carried-it-into-a-river-photos": 1790581852.1670368,
+  "https://www.onlinekhabar.com/2026/09/2027603/remembering-the-fear-of-rivers-saula-amrit-sang-koshis-water-is-my-life": 1790581852.1670368,
+  "https://www.ratopati.com/story/595513/raghubir-had-proposed-making-vidya-a-senior-leader-in-uml": 1790581852.1670368,
+  "https://www.ratopati.com/story/595512/overcrowding-of-prisoners-a-challenge-in-management": 1790581852.1670368,
+  "https://www.ratopati.com/story/595511/israeli-military-operation-in-gaza-claims-to-have-killed-person-involved-in-nova-festival-hijacking": 1790581852.1670368
  },
  "queue": [
-  {
-   "title": "Many unanswered questions a month after Nepal floods",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNmdRM191WEpBVVdFME1FSUVKRVFwbkVlcHVwXzRCTVRaUlJKVFExcXoxV0JVLVUxcmdMLWlQYV94M29XbnNwRzhnSmNZRmVXOFIxZlNjcms0Y0dpZWhpRkxxN2g2TWxTMGY5V2ZXNkEyc2twZFdxM29lN0U3RVgzRmlPNEFXQXNWazFfWUNIbm1NSS1iUDRvQmZ2ZW5CTmhjU2F3bA?oc=5",
-   "source": "The Star",
-   "ts": 1790552689,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "en": "Many unanswered questions a month after Nepal floods",
-   "ne": "नेपालमा बाढी आएको एक महिना बित्दा पनि थुप्रै प्रश्नहरू अनुत्तरित",
-   "imp": 3,
-   "tags": [
-    "NepalFloods",
-    "Floods",
-    "बाढी"
-   ],
-   "cat": "disaster",
-   "hits": 1
-  },
   {
    "title": "Disaster preparedness helps minimise human casualties",
    "summary": "By A Staff Reporter, Kathmandu, Sept. 28: Timely preparedness, early warnings and effective coordination have helped min...",
@@ -3484,27 +3482,6 @@
    ],
    "cat": "disaster",
    "hits": 2
-  },
-  {
-   "title": "आजका लागि तोकियो विदेशी मुद्राको विनिमय दर",
-   "summary": "काठमाडौँ । नेपाल राष्ट्र बैंकले आजका लागि विदेशी मुद्राको विनिमय दर निर्धारण गरेको छ । राष्ट्र बैंकका अनुसार अमेरिकी डलर एकको खरिददर १५३ रुपैयाँ ०१ पैसा र बिक्रीदर १५३ रुपैयाँ ६१ पैसा निर्धारण गरिएको छ",
-   "link": "https://www.ratopati.com/story/595401/foreign-currency-exchange-rates-set-for-today",
-   "source": "Ratopati",
-   "ts": 1790552578,
-   "weight": 3,
-   "img": "https://rpcdn.ratopati.com/media/albums/forex_3HNlavACP4.jpg",
-   "lang": "ne",
-   "en": "Foreign exchange rates fixed for today",
-   "ne": "आजका लागि तोकियो विदेशी मुद्राको विनिमय दर",
-   "imp": 2,
-   "tags": [
-    "ForexRates",
-    "NepalRastraBank",
-    "Economy",
-    "मुद्राविनिमय"
-   ],
-   "cat": "economy",
-   "hits": 7
   },
   {
    "title": "Floods hit about 1,000 MW power generation",
@@ -3834,24 +3811,26 @@
    "hits": 1
   },
   {
-   "title": "बाढी र पहिरोले तनहुँमा २४ घरमा क्षति",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/502957",
-   "source": "Baahrakhari",
+   "title": "जब पहिरोले ललितपुरको धापाखेलमा साढे दुईतले घर बगाएर खोलामा पुर्‍यायो, तस्बिरहरू",
+   "summary": "ललितपुर । अविरल वर्षासँगै आएको पहिरोले ललितपुरको धापाखेलमा साढे दुईतले घर पूर्ण रूपमा ढलेको छ। ललितपुर महानगरपालिका-२४ धापाखेलस्थित सोबितकुमार थापाको घर सोमबार बिहान ६:३५ बजे पहिरोले बगाएर खोलामा पुर्‍याएको हो। जिल्ला...",
+   "link": "https://www.ratopati.com/story/595514/when-a-landslide-swept-away-a-two-and-a-half-story-house-in-dhapakhel-lalitpur-and-carried-it-into-a-river-photos",
+   "source": "Ratopati",
    "ts": 1790556718,
-   "weight": 2,
-   "img": null,
+   "weight": 3,
+   "img": "https://npcdn.ratopati.com/media/news/laltipur-pahiro-11_Y1LjMfTwKx.webp",
    "lang": "ne",
-   "en": "Flood and landslide damage 24 houses in Tanahun",
-   "ne": "बाढी र पहिरोले तनहुँमा २४ घरमा क्षति",
+   "en": "When landslides swept houses in Lalitpur's Dhapakhali two and a half floors down to the river, photos show the damage",
+   "ne": "जब पहिरोले ललितपुरको धापाखेलमा साढे दुईतले घर बगाएर खोलामा पुर्‍यायो, तस्बिरहरू",
    "imp": 2,
    "tags": [
-    "Flood",
-    "Tanahun",
-    "Landslide"
+    "Lalitpur",
+    "Landslide",
+    "Dhapakhali"
    ],
    "cat": "disaster",
-   "hits": 3
+   "hits": 4,
+   "val": 3,
+   "teaser": false
   },
   {
    "title": "बेलायतमा रहेका नागरिकहरूलाई अमेरिकाको नयाँ ट्राभल एड्भाइजरी",
@@ -5568,7 +5547,7 @@
     "HouseCollapse"
    ],
    "cat": "disaster",
-   "hits": 4
+   "hits": 5
   },
   {
    "title": "जमिन चर्किने समस्या",
@@ -6030,25 +6009,6 @@
    "hits": 1
   },
   {
-   "title": "३ वर्ष नपुग्दै १० कार्यालय प्रमुख फेरबदल",
-   "summary": "जनकपुरधाम : निजामती वा प्राविधिक कर्मचारीले एउटै कार्यालयमा बर्षाै अड्डा जमाएर बस्ने प्रवृत्ति नौलो होइन। तर, मधेस सरकारको भौतिक पूर्वाधार विकास मन्त्रालय मातहतको पूर्वाधार विकास कार्यालय, बारा कलैया स्थापनाको तीन वर्ष...",
-   "link": "http://annapurnapost.com/story/508507",
-   "source": "Annapurna Post",
-   "ts": 1790553048.4095912,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "en": "Ten department heads reshuffled before completing three years",
-   "ne": "३ वर्ष नपुग्दै १० कार्यालय प्रमुख फेरबदल",
-   "imp": 2,
-   "tags": [
-    "DeptHeads",
-    "Reshuffle"
-   ],
-   "cat": "politics",
-   "hits": 1
-  },
-  {
    "title": "बिपी राजमार्गको अवरोध हटाइँदै",
    "summary": "केदार तिमल्सिना बनेपा, असोज १२ गते । बाढीपहिरोका कारण पूर्ण रूपमा बन्द रहेको बिपी राजमार्ग सञ्चालनमा आउन अझै दुई दिन लाग्ने भएको छ । सडक डिभिजन कार्यालय भक्तपुरले बाढीपहिरोका कारण...",
    "link": "https://gorkhapatraonline.com/news/224609",
@@ -6260,7 +6220,7 @@
     "NirajSharma"
    ],
    "cat": "other",
-   "hits": 6
+   "hits": 7
   },
   {
    "title": "Two decades on, Nepal's conservationists search for new 'dream' generation",
@@ -7869,7 +7829,7 @@
     "Volleyball"
    ],
    "cat": "sports",
-   "hits": 4
+   "hits": 5
   },
   {
    "title": "एआईको दुरुपयोग र सोसल मिडियाप्रति आक्रोशित सलमान : प्रेस कार्ड कसले दियो ?",
@@ -8527,7 +8487,7 @@
    "cat": "disaster",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "यात्रु ठग्ने र क्षमताभन्दा बढी यात्रु बोक्नेमाथि कडा कारबाही गर्न पूर्वाधार समितिको निर्देशन",
@@ -9403,7 +9363,7 @@
    "cat": "disaster",
    "val": 1,
    "teaser": true,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "A month in tents, Jajarkot landslide survivors face fresh misery in the rain",
@@ -9422,6 +9382,423 @@
     "Jajarkot"
    ],
    "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Nikhil Upreti and Divya Dev Pant urge viewers not to gamble with producers' investments as film piracy spreads",
+   "summary": "Kathmandu, September 28 Films currently in theatres are being hit by copyright violations (piracy). Just two days after its release, scenes from Nikhil Upreti's action-heavy film \"Acharya\" are all over social media. Not...",
+   "link": "https://english.onlinekhabar.com/film-piracy-spreads.html",
+   "source": "Onlinekhabar EN",
+   "ts": 1790581829,
+   "weight": 3,
+   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/09/divyadev_nikhil.jpg",
+   "lang": "en",
+   "en": "Nikhil Upreti and Divya Dev Pant urge viewers not to gamble with producers' investments as film piracy spreads",
+   "ne": "निखिल उप्रेती र दिव्या देव पन्तले फिल्म चोरी बढ्दा निर्माताहरूको लगानीलाई जुवा नमान्न दर्शकलाई चेतावनी",
+   "imp": 2,
+   "tags": [
+    "FilmPiracy",
+    "NikhilUpreti",
+    "DivyaDevPant"
+   ],
+   "cat": "culture",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "भोटेकोसी बाढीबारे गठित विशेष समितिको सभापति निर्वाचन असोज १४ मा",
+   "summary": "",
+   "link": "https://baahrakhari.com/detail/503009",
+   "source": "Baahrakhari",
+   "ts": 1790581680,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "en": "Chairman of the special committee on the Bhotekoshi flood to be elected on Asoj 14",
+   "ne": "भोटेकोसी बाढीबारे गठित विशेष समितिको सभापति निर्वाचन असोज १४ मा",
+   "imp": 3,
+   "tags": [
+    "BhotekoshiFlood",
+    "SpecialCommittee",
+    "Asoj14"
+   ],
+   "cat": "politics",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "बागलुङका पहिरोपीडितलाई हेलिकप्टरमार्फत राहत सामग्री पठाइयो, तस्बिरहरू",
+   "summary": "बागलुङ । बागलुङमा पहिरोका कारण विस्थापित भएका नागरिकका लागि बागलुङ बजारबाट हेलिकप्टरमार्फत राहत सामग्री पठाउन थालिएको छ। पहिलो चरणमा नेपाल रेडक्रस सोसाइटी बागलुङ, उद्योग वाणिज्य सङ्घ र जिल्ला प्रशासन कार्यालय बागलुङको...",
+   "link": "https://www.ratopati.com/story/595517/relief-materials-sent-by-helicopter-to-baglung-landslide-victims-photos",
+   "source": "Ratopati",
+   "ts": 1790581625,
+   "weight": 3,
+   "img": "https://npcdn.ratopati.com/media/news/baglung-rahat-photos_npl-15_ZChCBhJw3P.webp",
+   "lang": "ne",
+   "en": "Helicopter delivers relief supplies to landslide victims in Baglung",
+   "ne": "बागलुङका पहिरोपीडितलाई हेलिकप्टरमार्फत राहत सामग्री पठाइयो, तस्बिरहरू",
+   "imp": 4,
+   "tags": [
+    "Baglung",
+    "Landslide",
+    "HelicopterAid"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "वरिष्ठताक्रम वा गोला प्रक्रियाबाट संवैधानिक इजलासका न्यायाधीश चयन गर्न बारको माग",
+   "summary": "१२ असोज, काठमाडौं । नेपाल बार एशोसिएसनले वरिष्ठताक्रम वा गोला प्रक्रियाबाट सर्वोच्च अदालतको संवैधानिक इजलासका चार न्यायाधीश चयन गर्न माग गरेको छ । न्यायिक स्वच्छता र शुद्धताका लागि भन्दै बारले जबरा पक्राउको घटनासँग...",
+   "link": "https://www.onlinekhabar.com/2026/09/2027622/bar-demands-selection-of-constitutional-bench-judges-through-seniority-or-lottery-process",
+   "source": "Onlinekhabar",
+   "ts": 1790581279,
+   "weight": 3,
+   "img": "https://www.onlinekhabar.com/wp-content/uploads/2016/04/nepal-bar.jpg",
+   "lang": "ne",
+   "en": "Seniority or balloting to select constitutional impeachment judges demanded by the bar",
+   "ne": "वरिष्ठताक्रम वा गोला प्रक्रियाबाट संवैधानिक इजलासका न्यायाधीश चयन गर्न बारको माग",
+   "imp": 4,
+   "tags": [
+    "JudicialImpeachment",
+    "BarDemand",
+    "Constitution"
+   ],
+   "cat": "politics",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "An Indian-origin chef is bringing the flavours of India, Sri Lanka, Pakistan, Nepal, Trinidad, and Guyana to New York",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQS0VyN2s2dVJsU0MzNVRBdDBWZFpXWVBMSUtMRm93blYwNEFyTWp4OXJTNnVNZDZzZmhzeXpnVmVoaTRXWHhrUHdjMGF6ZUtSek45MWliMkUxbFV2RXpyYTBXNFM5RXpvejEta043ZFVNTVdkTlFGYTZ4RWh0ZlBKSFdqNzFFWnNRUUwwSGptaGtCNjZXUWFIS1YtYXQ2ZVV6SkQ5b3RjdlRUc2wxZHRFVFBjSC1YUm1wVnBrVW1vc1dEVV9OY2N1Q1BKUmVyZzZRa3dPT0o3RXJQbjlzMk1NVlU4RFBjdzBfZmEtSm0xeWF3aHlheDQ2REJCUkVEa3B0LXRvYmlSZGh5QdIBigJBVV95cUxQS0VyN2s2dVJsU0MzNVRBdDBWZFpXWVBMSUtMRm93blYwNEFyTWp4OXJTNnVNZDZzZmhzeXpnVmVoaTRXWHhrUHdjMGF6ZUtSek45MWliMkUxbFV2RXpyYTBXNFM5RXpvejEta043ZFVNTVdkTlFGYTZ4RWh0ZlBKSFdqNzFFWnNRUUwwSGptaGtCNjZXUWFIS1YtYXQ2ZVV6SkQ5b3RjdlRUc2wxZHRFVFBjSC1YUm1wVnBrVW1vc1dEVV9OY2N1Q1BKUmVyZzZRa3dPT0o3RXJQbjlzMk1NVlU4RFBjdzBfZmEtSm0xeWF3aHlheDQ2REJCUkVEa3B0LXRvYmlSZGh5QQ?oc=5",
+   "source": "harpersbazaar.in",
+   "ts": 1790581276,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "en": "An Indian-origin chef is bringing the flavours of India, Sri Lanka, Pakistan, Nepal, Trinidad, and Guyana to New York",
+   "ne": "भारतीय मूलका शेफले न्यूयोर्कमा भारत, श्रीलंका, पाकिस्तान, नेपाल, त्रिनिदाद-गुयाना-को स्वाद ल्याइरहेका छन्",
+   "imp": 2,
+   "tags": [
+    "Chef",
+    "NewYork",
+    "SouthAsianCuisine"
+   ],
+   "cat": "culture",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Fresh floods in Nepal leave hundreds of homes damaged, 1,500 displaced",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcHUza29CODFlenhwOV80NE5FcG5TeXdPZG5YLUFHR2FnaWZoWjFNeUllbl9aWmgySkFMc0lNUlNCbVl5MG56eU5kaGhDYXF0VmVvZElJbGE1WW4xZEc4QnhOeTd2RFlac21OS05UbmlyU3U5ZmtPbExzY0p2dmVhWG0zMzU0UzNfTEo4MzluTXhuVEFMa2lNYlZzMnY5eDY4eU4xclJackVaRnRvV3FaOTk2NjRPMjlTb184SjlpaGZBdm0zbTJzZkYwbHRXOFRuby1J0gHTAUFVX3lxTE9wdTNrb0I4MWV6eHA5XzQ0TkVwblN5d09kblgtQUdHYWdpZmhaMU15SWVuX1paaDJKQUxzSU1SU0JtWXkwbnp5TmRoaENhcXRWZW9kSUlsYTVZbjFkRzhCeE55N3ZEWVpzbU5LTlRuaXJTdTlma09sTHNjSnZ2ZWFYbTMzNTRTM19MSjgzOW5NeG5UQUxraU1iVnMydjl4Njh5TjFyUlpyRVpGdG9XcVo5OTY2NE8yOVNvXzhKOWloZkF2bTNtMnNmRjBsdFc4VG5vLUk?oc=5",
+   "source": "India Today",
+   "ts": 1790581248,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "en": "Fresh floods in Nepal leave hundreds of homes damaged, 1,500 displaced",
+   "ne": "Fresh floods in Nepal leave hundreds of homes damaged, 1,500 displaced",
+   "imp": 5,
+   "tags": [
+    "Floods",
+    "Displacement",
+    "Nepal"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "प्रविधि उद्योगको नाफा बढ्दा पनि किन खुम्चिँदैछ चिनियाँ अर्थतन्त्र ?",
+   "summary": "कृत्रिम बौद्धिकता (एआई) क्षेत्रको बूमका कारण प्रविधि उत्पादन क्षेत्र बलियो देखिए पनि कमजोर घरेलु आन्तरिक मागका कारण चीनको औद्योगिक नाफा वृद्धिको गति अगस्ट महिनामा थप सुस्त भएको छ। कमजोर उपभोग र केही क्षेत्रमा रहेको...",
+   "link": "http://lokaantar.com/story/329973/2026/9/28/china-",
+   "source": "Lokaantar",
+   "ts": 1790567452.9516282,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "en": "Why is the Chinese economy shrinking even as the tech sector's profit rises?",
+   "ne": "प्रविधि उद्योगको नाफा बढ्दा पनि किन खुम्चिँदैछ चिनियाँ अर्थतन्त्र ?",
+   "imp": 2,
+   "tags": [
+    "China",
+    "TechProfit",
+    "EconomicSlowdown"
+   ],
+   "cat": "economy",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "सरकारलाई अर्थ समितिका सभापतिको ध्यानाकर्षण : अलपत्र विकास आयोजनालाई 'क्रिटिकल आयोजना'मा वर्गीकरण गरेर काम गरौं",
+   "summary": "काठमाडौं : अर्थ समितिका सभापति डा.कृष्णहरि बुढाथोकीले अलपत्र, रुग्ण तथा लामो समयदेखि सम्पन्न हुन नसकेका आयोजनालाई 'क्रिटिकल आयोजना'का रूपमा वर्गीकरण गरेर काम अगाडि बढाउनुपर्ने बताएका छन्। आज प्रतिनिधि सभाको शून्य समयमा...",
+   "link": "http://annapurnapost.com/story/508533",
+   "source": "Annapurna Post",
+   "ts": 1790567452.5952203,
+   "weight": 3,
+   "img": null,
+   "lang": "ne",
+   "en": "Call to classify abandoned development projects as 'critical' to attract government attention",
+   "ne": "सरकारलाई अर्थ समितिका सभापतिको ध्यानाकर्षण : अलपत्र विकास आयोजनालाई 'क्रिटिकल आयोजना'मा वर्गीकरण गरेर काम गरौं",
+   "imp": 3,
+   "tags": [
+    "CriticalProjects",
+    "Government",
+    "Development"
+   ],
+   "cat": "politics",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "जलविद्युत् आयोजनाका सुरुङसम्बन्धी मापदण्ड परिमार्जन आवश्यक : सांसद लामिछाने",
+   "summary": "",
+   "link": "https://baahrakhari.com/detail/503008",
+   "source": "Baahrakhari",
+   "ts": 1790581594,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "en": "MP Lamichhane says hydro-electric project tunnel standards need revision",
+   "ne": "जलविद्युत् आयोजनाका सुरुङसम्बन्धी मापदण्ड परिमार्जन आवश्यक : सांसद लामिछाने",
+   "imp": 3,
+   "tags": [
+    "Hydropower",
+    "TunnelStandards",
+    "Lamichhane"
+   ],
+   "cat": "politics",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "इरानसँगको तनाव बढेपछि तेलको मूल्य बढ्यो, विश्व बजारमा दबाब",
+   "summary": "वासिङ्टन डीसी । अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्पले इरानले प्रस्ताव गरेको सातदिने युद्धविराम अस्वीकार गरेपछि सोमबार अन्तर्राष्ट्रिय बजारमा कच्चा तेलको मूल्य बढेको छ । तेलको मूल्यमा भएको वृद्धिसँगै विश्वव्यापी...",
+   "link": "https://www.ratopati.com/story/595516/oil-prices-rise-as-tensions-with-iran-escalate-putting-pressure-on-global-markets",
+   "source": "Ratopati",
+   "ts": 1790581585,
+   "weight": 3,
+   "img": "https://npcdn.ratopati.com/media/news/oil_4gk4Vold51.png",
+   "lang": "ne",
+   "en": "Oil prices rise as tensions with Iran increase, pressuring world markets",
+   "ne": "इरानसँगको तनाव बढेपछि तेलको मूल्य बढ्यो, विश्व बजारमा दबाब",
+   "imp": 3,
+   "tags": [
+    "OilPrices",
+    "IranTension",
+    "GlobalMarket"
+   ],
+   "cat": "economy",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "साइकलमा सिंहदरबार आउँदा जनताका दुःख दिमागमा खेल्छन् : सांसद गजुरेल",
+   "summary": "सत्तारुढ दल रास्वपाका आशिष गजुरेलले संसद् बैठकका लागि सिंहदरबार आउँदा जनताका दुःख दिमागमा खेल्ने गरेको बताएका छन् ।",
+   "link": "https://www.onlinekhabar.com/2026/09/2027618/peoples-sorrows-play-in-their-minds-when-they-come-to-singha-durbar-on-a-bicycle-mp-gajurel",
+   "source": "Onlinekhabar",
+   "ts": 1790580908,
+   "weight": 3,
+   "img": "https://www.onlinekhabar.com/wp-content/uploads/2026/09/Ashish-gajurel-1.jpg",
+   "lang": "ne",
+   "en": "MP Gajurel says cyclists entering Singha Durbar make people's worries a game",
+   "ne": "साइकलमा सिंहदरबार आउँदा जनताका दुःख दिमागमा खेल्छन् : सांसद गजुरेल",
+   "imp": 1,
+   "tags": [
+    "SinghaDurbar",
+    "Cyclists",
+    "Gajurel"
+   ],
+   "cat": "politics",
+   "val": 1,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "नेपथ्यले गरायो कोरियामा बृहत् नेपाली जमघट",
+   "summary": "महत्त्वपूर्ण पर्व छुसक चलिरहेको बेला दक्षिण कोरियामा बसोबास गर्ने नेपालीका लागि एउटा साङ्गीतिक कार्यक्रम उत्सवमा परिणत भयो, जसमा व्यापक सहभागिताबीच एकै स्थानमा नेपालीपनका विविध आनन्द समेटिएका थिए । लोकरक गीत सुनाउन...",
+   "link": "http://lokaantar.com/story/329972/2026/9/28/nepathya-korea-",
+   "source": "Lokaantar",
+   "ts": 1790567452.9516282,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "en": "Nepathya organized a massive Nepali gathering in Korea",
+   "ne": "नेपथ्यले गरायो कोरियामा बृहत् नेपाली जमघट",
+   "imp": 2,
+   "tags": [
+    "Nepathya",
+    "Korea",
+    "Concert"
+   ],
+   "cat": "culture",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "वर्षापछि भएको धनजनको क्षतिको यथार्थ विवरण तत्काल सार्वजनिक गर्न सांसदको माग",
+   "summary": "काठमाडौं : नेकपा (एमाले) संसदीय दलकी उपनेता पद्माकुमारी अर्यालले हालैको वर्षापछि भएको धनजनको क्षतिको जिल्लागत यथार्थ विवरण तत्काल सार्वजनिक गर्न माग गरेकी छन्। सोमबार प्रतिनिधिसभा बैठकमा अर्यालले असोज ८ देखि ११...",
+   "link": "http://annapurnapost.com/story/508532",
+   "source": "Annapurna Post",
+   "ts": 1790567452.5952203,
+   "weight": 3,
+   "img": null,
+   "lang": "ne",
+   "en": "MP demands immediate public release of the actual damage report of the Dhanjan landslide after a year",
+   "ne": "वर्षापछि भएको धनजनको क्षतिको यथार्थ विवरण तत्काल सार्वजनिक गर्न सांसदको माग",
+   "imp": 3,
+   "tags": [
+    "DhanjanLandslide",
+    "DamageReport",
+    "MPDemand"
+   ],
+   "cat": "disaster",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "बक्स अफिसमा 'झिँगेदाउ २' को दबदबा",
+   "summary": "काठमाडौँ । असोज २ गतेदेखि एकसाथ प्रदर्शनमा आएका तीन नेपाली फिल्ममध्ये बक्स अफिसमा 'झिँगेदाउ २' ले उत्कृष्ट सुरुवात गरेको छ । सोही मितिमा रिलिज भएका 'कार्की साइँला' र 'माया बस्छ कि के हो !' भने",
+   "link": "https://www.ratopati.com/story/595515/jhingedau-2-dominates-the-box-office",
+   "source": "Ratopati",
+   "ts": 1790581407,
+   "weight": 3,
+   "img": "https://npcdn.ratopati.com/media/news/capture_Mod3izJEWW.webp",
+   "lang": "ne",
+   "en": "Box office dominated by 'Jhigedau 2'",
+   "ne": "बक्स अफिसमा 'झिँगेदाउ २' को दबदबा",
+   "imp": 1,
+   "tags": [
+    "BoxOffice",
+    "Jhigedau2"
+   ],
+   "cat": "culture",
+   "val": 1,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "पीटीआईको प्रदर्शन रोक्न इस्लामाबाद सिल, हजारौँ सुरक्षाकर्मी परिचालन",
+   "summary": "पाकिस्तानका पूर्वप्रधानमन्त्री इमरान खानको रिहाइको माग गर्दै उनको राजनीतिक दल 'पाकिस्तान तेस्री इन्साफ'ले राष्ट्रिय प्रदर्शन गर्ने घोषणा गरेपछि सरकारले राजधानी इस्लामाबादलाई पूर्ण रूपमा सिलबन्दी गरेको छ। सरकारले...",
+   "link": "http://lokaantar.com/story/329971/2026/9/28/pakistan-",
+   "source": "Lokaantar",
+   "ts": 1790567452.9516282,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "en": "PTI protest halted in Islamabad; thousands of security personnel deployed",
+   "ne": "पीटीआईको प्रदर्शन रोक्न इस्लामाबाद सिल, हजारौँ सुरक्षाकर्मी परिचालन",
+   "imp": 2,
+   "tags": [
+    "PTI",
+    "Islamabad",
+    "Security"
+   ],
+   "cat": "politics",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "नदीनालाबाट डराउनुपर्ने स्थिती सम्झिँदै सउलमा अमृतले गाए- 'कोशीको पानी यो जिन्दगानी'",
+   "summary": "सउल (दक्षिण कोरिया) । महत्वपूर्ण पर्व छुसक चलिरहेको बेला दक्षिण कोरियामा बसोबास गर्ने नेपालीका लागि एउटा साङ्गीतिक कार्यक्रम उत्सवमा परिणत भयो, जसमा व्यापक सहभागिताबीच एकै स्थानमा नेपालीपनका विविध आनन्द समेटिएका थिए ।...",
+   "link": "https://www.onlinekhabar.com/2026/09/2027603/remembering-the-fear-of-rivers-saula-amrit-sang-koshis-water-is-my-life",
+   "source": "Onlinekhabar",
+   "ts": 1790580567,
+   "weight": 3,
+   "img": "https://www.onlinekhabar.com/wp-content/uploads/2026/09/amrit_gurung_nepathya1.jpg",
+   "lang": "ne",
+   "en": "Recalling the need to fear river floods, Amrit sang in Seoul: 'Koshi's water is life'",
+   "ne": "नदीनालाबाट डराउनुपर्ने स्थिती सम्झिँदै सउलमा अमृतले गाए- 'कोशीको पानी यो जिन्दगानी'",
+   "imp": 2,
+   "tags": [
+    "KoshiRiver",
+    "Seoul",
+    "Amrit"
+   ],
+   "cat": "culture",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "एमालेमा रघुवीरले राखेका थिए विद्यालाई 'वरिष्ठ नेता' बनाउने प्रस्ताव",
+   "summary": "काठमाडौँ । नेकपा एमालेको तेस्रो केन्द्रीय कमिटी बैठकले पूर्वराष्ट्रपति विद्यादेवी भण्डारीलाई पार्टीको सम्मानित वरिष्ठ नेता बनाउने निर्णय गरेसँगै एमालेभित्र उठ्दै आएको पार्टी पुनर्गठनको मुद्दा तत्काललाई सामसुम भएको छ ।...",
+   "link": "https://www.ratopati.com/story/595513/raghubir-had-proposed-making-vidya-a-senior-leader-in-uml",
+   "source": "Ratopati",
+   "ts": 1790580943,
+   "weight": 3,
+   "img": "https://npcdn.ratopati.com/media/news/raghubir_gLLZ3K6jhI.webp",
+   "lang": "ne",
+   "en": "Raghubir's proposal in UML to make Vidyala a senior leader was dropped",
+   "ne": "एमालेमा रघुवीरले राखेका थिए विद्यालाई 'वरिष्ठ नेता' बनाउने प्रस्ताव",
+   "imp": 2,
+   "tags": [
+    "UML",
+    "Raghubir",
+    "Vidyala"
+   ],
+   "cat": "politics",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "कपिलवस्तु कारागारमा क्षमताभन्दा बढी कैदीबन्दी",
+   "summary": "कपिलवस्तु । कपिलवस्तु कारागारमा क्षमताभन्दा ७६ जना बढी कैदीबन्दी भएकाले व्यवस्थापनमा चुनौती देखिएको छ । करिब ३५० जना क्षमता रहेको उक्त कारागारमा हाल ४२६ जना कैदीबन्दी रहेको कारागार प्रमुख मानबहादुर सारुले जानकारी दिए ।...",
+   "link": "https://www.ratopati.com/story/595512/overcrowding-of-prisoners-a-challenge-in-management",
+   "source": "Ratopati",
+   "ts": 1790580848,
+   "weight": 3,
+   "img": "https://npcdn.ratopati.com/media/news/kapilbastu_wQtVe5bMqe.jpg",
+   "lang": "ne",
+   "en": "Kapilvastu prison overcrowded beyond capacity",
+   "ne": "कपिलवस्तु कारागारमा क्षमताभन्दा बढी कैदीबन्दी",
+   "imp": 3,
+   "tags": [
+    "Kapilvastu",
+    "Prison",
+    "Overcrowding"
+   ],
+   "cat": "society",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "गाजामा इजरायली सेनाको कारबाही, नोभा महोत्सव अपहरणमा संलग्न व्यक्ति मारिएको दाबी",
+   "summary": "गाजा । इजरायली सेनाले सन् २०२३ अक्टोबर ७ मा हमासको घातक आक्रमणका क्रममा संगीत महोत्सवबाट दुई जनालाई अपहरण गरेको दृश्यमा देखिएका एक प्यालेस्टिनी लडाकू मारिएको दाबी गरेको छ । आक्रमणपछि व्यापक रूपमा सार्वजनिक भएको भिडियोमा...",
+   "link": "https://www.ratopati.com/story/595511/israeli-military-operation-in-gaza-claims-to-have-killed-person-involved-in-nova-festival-hijacking",
+   "source": "Ratopati",
+   "ts": 1790580680,
+   "weight": 3,
+   "img": "https://npcdn.ratopati.com/media/news/gaja_DuCn4OFrpz.webp",
+   "lang": "ne",
+   "en": "Israeli forces act in Gaza; claim of killing person involved in Nova Festival kidnapping",
+   "ne": "गाजामा इजरायली सेनाको कारबाही, नोभा महोत्सव अपहरणमा संलग्न व्यक्ति मारिएको दाबी",
+   "imp": 4,
+   "tags": [
+    "Gaza",
+    "IsraeliForces",
+    "NovaFestival"
+   ],
+   "cat": "world",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -11296,8 +11673,8 @@
    "cat": "disaster"
   }
  ],
- "updated": 1790581293,
- "pending_since": 1790581265.2097814,
+ "updated": 1790581866,
+ "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
