@@ -53,6 +53,7 @@ TOPIC_PENALTY  = 0.75   # each recent same-topic post lowers a story's score by 
 DISASTER = re.compile(r"flood|landslide|mudslide|inundat|heavy rain|rainfall|downpour|river|barrage|cusec|"
                       r"quake|avalanche|snowfall|storm|glof|बाढी|पहिरो|डुबान|वर्षा|भूकम्प|हिमपहिरो", re.I)
 NORMAL_GAP_MIN = 30     # at most one regular (non-breaking) story every 30 minutes
+MIN_HEADLINE_VALUE = 2  # skip stories whose headline alone says nothing concrete (AI "v" 1-3; unknown = allowed)
 NORMAL_MIN_IMPACT = 3   # regular stories need AI impact >= 3 (1-5 scale); lower ones are never posted
 RESUME_LEAD_MIN = 45    # when posting is paused, start collecting again this long before it resumes
 MAX_STORIES_PER_RUN = 1 # never more than this many stories in one run (no bursts: Meta flags them as spam)
@@ -432,12 +433,17 @@ For each NEW item:
   government. 4 = important national news: deaths, major decisions, highways or services shut, big Nepal
   sports results. 3 = notable news worth sharing. 2 = routine or local. 1 = trivial, photo features,
   events, or foreign news with little bearing on Nepal.
+- "v": how much the headline ALONE tells a reader scrolling past, 1-3, whatever the article type.
+  3 = a clear, concrete takeaway on its own (who did what, a number, a result, a decision, a named claim,
+  something new or surprising). 2 = a clear point, a bit general. 1 = generic or vague: you must read the
+  article to learn anything (e.g. "Floods disrupt economy and daily life", "How AI is changing disaster
+  management", "What the budget means for you" without the answer).
 - "c": the story's topic, one of: disaster, politics, economy, sports, world, society, crime, health,
   education, tech, culture, other. (Floods, landslides, rain, quakes, rescue = disaster.)
 - "h": 2-4 hashtags for the story's key topic, places, people or organisations, without "#".
   CamelCase English (e.g. "Landslide", "PrithviHighway", "Chitwan"); one may be Nepali (e.g. "पहिरो").
 
-Respond with JSON only: {{"r": [{{"i": 0, "t": "...", "d": null, "s": 3, "c": "disaster", "h": ["Landslide", "Chitwan"]}}]}}
+Respond with JSON only: {{"r": [{{"i": 0, "t": "...", "d": null, "s": 3, "v": 3, "c": "disaster", "h": ["Landslide", "Chitwan"]}}]}}
 with one entry per new item.
 
 EXISTING:
@@ -468,8 +474,8 @@ def llm_translate(batch, existing, prefer_gemini=False):
             text = text[text.find("{"):text.rfind("}") + 1]  # tolerate ```json fences
             rows = json.loads(text)["r"]
             log(f"LLM ok via {name}")
-            return {int(x["i"]): (clean(x.get("t", "")), x.get("d"), x.get("s"), x.get("h"), x.get("c"))
-                    for x in rows if "i" in x}
+            return {int(x["i"]): (clean(x.get("t", "")), x.get("d"), x.get("s"), x.get("h"), x.get("c"),
+                                  x.get("v")) for x in rows if "i" in x}
         except Exception as ex:
             log(f"LLM {name} failed: {ex!r}")
     raise RuntimeError("all LLM providers failed")
@@ -481,7 +487,7 @@ def translate(batch, existing, prefer_gemini=False):
     log(f"LLM translated {len(res)}/{len(batch)}")
     out = []
     for i, b in enumerate(batch):
-        t, d, imp, tags, cat = res.get(i, ("", None, None, None, None))
+        t, d, imp, tags, cat, val = res.get(i, ("", None, None, None, None, None))
         if t:
             t = strip_media_tag(clean(t))
             if foreign_script(t):
@@ -494,6 +500,10 @@ def translate(batch, existing, prefer_gemini=False):
                 b["imp"] = None  # unknown: treated as 3
             b["tags"] = [clean_tag(x) for x in tags if clean_tag(x)][:4] if isinstance(tags, list) else []
             b["cat"] = str(cat).lower() if cat else None
+            try:
+                b["val"] = min(3, max(1, int(val)))   # headline substance, 1-3
+            except (TypeError, ValueError):
+                b["val"] = None                        # unknown: allowed
             out.append(b)
     return out
 
@@ -881,6 +891,9 @@ def main():
     def impact(q):
         return q.get("imp") or 3
 
+    def substantive(q):  # the headline alone must tell the reader something
+        return (q.get("val") or MIN_HEADLINE_VALUE) >= MIN_HEADLINE_VALUE
+
     def topic(q):  # AI category, or a keyword guess for stories queued before categories existed
         return q.get("cat") or ("disaster" if DISASTER.search(f"{q['en']} {q.get('ne', '')}") else "other")
 
@@ -956,12 +969,13 @@ def main():
         return
     fb_blocked = False
     while queue and not fb_blocked and n_breaking + n_normal < MAX_STORIES_PER_RUN and (not FB_DAILY_CAP or fb_24 + 1 <= FB_DAILY_CAP):
-        br = [q for q in queue if is_breaking(q)]
+        br = [q for q in queue if is_breaking(q) and substantive(q)]
+        regular = [q for q in queue if impact(q) >= NORMAL_MIN_IMPACT and substantive(q)]
         if (br and (active or BREAKING_24H) and n_breaking < BREAKING_PER_RUN
                 and brk_hour + n_breaking < BREAKING_PER_HOUR):
             pool, breaking = br, True
-        elif normal_ok and n_normal < STORIES_PER_RUN and any(impact(q) >= NORMAL_MIN_IMPACT for q in queue):
-            pool, breaking = [q for q in queue if impact(q) >= NORMAL_MIN_IMPACT], False
+        elif normal_ok and n_normal < STORIES_PER_RUN and regular:
+            pool, breaking = regular, False
         else:
             break
         # most impactful first, then most-covered, then the outlet used least recently, then trusted, then newest
