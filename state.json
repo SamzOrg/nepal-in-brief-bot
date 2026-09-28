@@ -5011,27 +5011,6 @@
    "hits": 1
   },
   {
-   "title": "गैरकानुनी गिरफ्तारीप्रति फुलकोर्टमा चिन्ता, सर्वोच्चले सम्झायो सीमा",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/503066",
-   "source": "Baahrakhari",
-   "ts": 1790613660,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "en": "Supreme Court cautions against illegal arrests, urges Federal Court to respect limits",
-   "ne": "गैरकानुनी गिरफ्तारीप्रति फुलकोर्टमा चिन्ता, सर्वोच्चले सम्झायो सीमा",
-   "imp": 4,
-   "tags": [
-    "SupremeCourt",
-    "LegalRights"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Nepal promotes tourism recovery at Tourism Expo Japan 2026",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOazFEMnVwZHlkMm00aTBVTHIxeVB1QU1ybTJtY3Q2V25JVDlwbEtoZHI1SkRVcGM5dmlvNVdtMmd2R0YxeG1nNmxmLVNJcTBNRDVMalU3U3hyMjZzaTJacGNralBWdjJpOXUyS2M0TFV1ZzhnVkhCOHJ3bURZRVRyMUFtVndwX1FCbmg2Q2x1Unl2dHFka3VvTE5XWUdJUjhUUFZucW82dUMydw?oc=5",
@@ -8016,9 +7995,20 @@
    "n_ig": 0,
    "brk": false,
    "cat": "disaster"
+  },
+  {
+   "ts": 1790632661.4225395,
+   "en": "Supreme Court cautions against illegal arrests, urges Federal Court to respect limits",
+   "ne": "गैरकानुनी गिरफ्तारीप्रति फुलकोर्टमा चिन्ता, सर्वोच्चले सम्झायो सीमा",
+   "link": "https://baahrakhari.com/detail/503066",
+   "source": "Baahrakhari",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "politics"
   }
  ],
- "updated": 1790632540,
+ "updated": 1790632676,
  "pending_since": 1790631068.8574917,
  "fb_blocks": [
   1790350880.4125228,
