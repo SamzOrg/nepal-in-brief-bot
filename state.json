@@ -2969,29 +2969,11 @@
   "https://gorkhapatraonline.com/news/224563": 1790553680.3359015,
   "https://www.ratopati.com/story/595401/foreign-currency-exchange-rates-set-for-today": 1790553680.3359015,
   "https://www.ratopati.com/story/595399/both-houses-of-the-federal-parliament-are-meeting-today-here-is-the-possible-agenda": 1790553680.3359015,
-  "https://www.ratopati.com/story/595398/from-lemons-to-dragon-fruit-the-courage-of-three-young-people-made-dreams-bloom-in-a-barren-field": 1790553680.3359015
+  "https://www.ratopati.com/story/595398/from-lemons-to-dragon-fruit-the-courage-of-three-young-people-made-dreams-bloom-in-a-barren-field": 1790553680.3359015,
+  "https://news.google.com/rss/articles/CBMijwFBVV95cUxQd2ZIR0N1UWVZdVFjZzZJX3k3ajY4N2xDSWE1YUNDQ1RpTU8wSmdGRUxoTUhRRUZvRTEzZ19RZ21FdXp1RXBSR1U3c2V3bWMxdUJCOFdKdTVaSVAyd0twNjNZLWhrS3BMeFRWT0V6VjVOLW12U2tvbWxFRGhsWENzblg2d2ZvdUtJcXA4a3F6UQ?oc=5": 1790554242.4612358,
+  "https://risingnepaldaily.com/news/87106": 1790554242.4612358
  },
  "queue": [
-  {
-   "title": "बाढीपहिरो तथा डुबान प्रभावित क्षेत्रबाट ६८२ जनाको उद्धार",
-   "summary": "काठमाडौँ। नेपाली सेनाले अविरल वर्षासँगैको पहिरो, बाढी तथा डुबान प्रभावित क्षेत्रबाट आज ६८४ जनाको उद्धार गरेको छ । सेनाले आज पर्वत, म्याग्दी, बागलुङ र जाजरकोटका विभिन्न स्थानबाट उनीहरुलाई उद्धार गरी सुरक्षित स्थलमा...",
-   "link": "https://www.ratopati.com/story/595372/682-people-rescued-from-flood-and-landslide-affected-areas",
-   "source": "Ratopati",
-   "ts": 1790525388,
-   "weight": 3,
-   "img": "https://npcdn.ratopati.com/media/news/sena_20WTViv5vo.webp",
-   "lang": "ne",
-   "en": "682 people rescued from flood, landslide and inundated areas",
-   "ne": "बाढीपहिरो तथा डुबान प्रभावित क्षेत्रबाट ६८२ जनाको उद्धार",
-   "imp": 4,
-   "tags": [
-    "Flood",
-    "Landslide",
-    "उद्धार"
-   ],
-   "cat": "disaster",
-   "hits": 1
-  },
   {
    "title": "Today's News in a Nutshell",
    "summary": "KATHMANDU: Khabarhub brings you a glimpse of major developments of the day in Nepal, including politics, business/economy, sports, entertainment, and more. PM Shah says disaster risk remains, urges public to stay alert...",
@@ -3028,25 +3010,6 @@
     "Militants"
    ],
    "cat": "world",
-   "hits": 1
-  },
-  {
-   "title": "चोलेन्द्रले आफ्नै मानेको सरकारले किन समात्यो, किन छाड्यो ?",
-   "summary": "चोलेन्द्रले रास्वपालाई 'हाम्रो पार्टी' भन्न थालिसकेका थिए, अनि आफूलाई भावी राष्ट्रपति । तर 'आफ्नो पार्टीको भनिएको सरकार' ले किन उनलाई समात्यो, किन यत्तिकै छोड्यो- त्यसको अन्तर्यचाहिँ बाहिर देखिएभन्दा फरक छ :",
-   "link": "https://www.onlinekhabar.com/2026/09/2027135/kupandols-power-shifted-to-bansbari-balen-team-suffered-a-setback",
-   "source": "Onlinekhabar",
-   "ts": 1790525072,
-   "weight": 3,
-   "img": "https://www.onlinekhabar.com/wp-content/uploads/2026/09/Cholendra-samser-jabara-4.png",
-   "lang": "ne",
-   "en": "Why did Cholendra seize and then abandon the government he claimed?",
-   "ne": "चोलेन्द्रले आफ्नै मानेको सरकारले किन समात्यो, किन छाड्यो ?",
-   "imp": 2,
-   "tags": [
-    "CholendraRana",
-    "Politics"
-   ],
-   "cat": "politics",
    "hits": 1
   },
   {
@@ -3863,7 +3826,7 @@
     "मुद्राविनिमय"
    ],
    "cat": "economy",
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "सङ्घीय संसद्का दुवै सदनको बैठक आज बस्दै, यस्तो छ सम्भावित कार्यसूची",
@@ -3904,6 +3867,26 @@
     "कृषि"
    ],
    "cat": "economy",
+   "hits": 1
+  },
+  {
+   "title": "Floods hit about 1,000 MW power generation",
+   "summary": "Kathmandu, Sept. 28: The continuous rainfall and floods across the country caused by the low-pressure monsoon system tha...",
+   "link": "https://risingnepaldaily.com/news/87106",
+   "source": "Rising Nepal",
+   "ts": 1790553758,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "en": "Floods hit about 1,000 MW power generation",
+   "ne": "बाढीले लगभग १,००० मेगावाट विद्युत उत्पादनलाई असर गर्यो",
+   "imp": 3,
+   "tags": [
+    "Floods",
+    "PowerGeneration",
+    "बाढी"
+   ],
+   "cat": "disaster",
    "hits": 1
   }
  ],
@@ -5556,8 +5539,8 @@
    "cat": "politics"
   }
  ],
- "updated": 1790553693,
- "pending_since": null,
+ "updated": 1790554246,
+ "pending_since": 1790554242.4612358,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
