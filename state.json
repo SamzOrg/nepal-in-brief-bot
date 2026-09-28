@@ -3301,7 +3301,12 @@
   "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdmgtZlpYRVNQZGNLTW4tdUNZMFJ4ZnNFZkU5SlltVS1pWlRQN0xQV2ZMZmY2X3NoZllvMER1aXlWTnVDVHpGdHBZTUMwY2t1eWtaTEc2Q2hCNU1MR29WZVFFRF9tcWhpY3pIZmxmVHZRSEl2dDNxS0MyR01oR2ZaeEhEaWFTN2xjMVFTNi13Y18tVDRjQmkzakJ1MWZGX2NhclZZUDdTREsxbWlD?oc=5": 1790568081.5130234,
   "https://kathmandupost.com/national/2026/09/28/rescuers-search-for-14-missing-after-himlung-avalanche": 1790568081.5130234,
   "http://lokaantar.com/story/329957/2026/9/28/sadak-awaruddha-": 1790568081.5130234,
-  "https://www.ratopati.com/story/595448/water-level-of-narayani-river-decreasing-flood-risk-eliminated-in-all-other-major-rivers": 1790568081.5130234
+  "https://www.ratopati.com/story/595448/water-level-of-narayani-river-decreasing-flood-risk-eliminated-in-all-other-major-rivers": 1790568081.5130234,
+  "https://khabarhub.com/2026/28/1030140/": 1790568646.3486922,
+  "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMWFsXzN3bm9ILWhyRDZ1OTBFMmdYVktrUUwyWHZ1eHY1YWRJSm9FUC1PNUl4OXZQaFRMUnVoR21mVjVnMWZfTktLSHl2aV9fb3hiWjZPdjdqU0dJakJXb2Q2Rjh3ZzZFTE9lWVdDc1NKMm4xM0E0V0dsNU0wX0FORXJKb1dVTUN3eHlkQ09WWjhkdFl0R0NSRk9mMzFhZ0U2S0xhQ25WbTdWOXpxRjNiTTROcnNmaGRUQ3RmbzF4aHZ6UGdXWUNr0gHOAUFVX3lxTE0tTWRxS21pZzhEU05pZDM5c1kzWV84UlU4dXFtVkRNaERvU1VSM3lSYkI3aGlBVENPb3Zkd2F3OC1hdzhUdkpOLVZlaUJDMVNhV0pNZHFueklZNWszVi1LS2MwaHpZWXd0em13TlQwUlpCdkI5dS00NEZFUFBNa280eGpkTmRRQWowZ0REWWNDRmxwbk5HM19wMWdZRmN3VG9nblBJSGF6NlEwTzZtVGtva2h1UmxxVzRGMVFHNk9RTHl2T3lPQ1RZMVlFWDF3?oc=5": 1790568646.3486922,
+  "http://annapurnapost.com/story/508509": 1790568646.3486922,
+  "https://nagariknews.nagariknetwork.com/international/storm-nor-easter-floods-us-more-than-100-000-customers-without-power-22-84.html": 1790568646.3486922,
+  "https://www.onlinekhabar.com/2026/09/2027393/kaligandaki-a-closed-after-floods-to-resume-operations-from-today": 1790568646.3486922
  },
  "queue": [
   {
@@ -3703,7 +3708,7 @@
     "पहिरो"
    ],
    "cat": "disaster",
-   "hits": 7
+   "hits": 8
   },
   {
    "title": "बिनासूचना गैरहाजिर रहेका नौ जना प्रहरी कर्मचारीलाई हाजिर हुन सात दिने अल्टिमेटम",
@@ -5615,7 +5620,7 @@
     "TechnicalTalk"
    ],
    "cat": "other",
-   "hits": 3
+   "hits": 4
   },
   {
    "title": "मनाङको हिम्लुङ हिमपहिरोमा गोरखाका दुई जना बेपत्ता",
@@ -6742,6 +6747,46 @@
     "MajorRivers"
    ],
    "cat": "disaster",
+   "hits": 1
+  },
+  {
+   "title": "नोरिस्टर आँधीले अमेरिकामा बाढी : एक लाख बढी ग्राहक विद्युतविहीन",
+   "summary": "स्थानीय समयअनुसार आइतबार रातिसम्म आँधी कमजोर हुने अनुमान गरिएको भए पनि सोमबार रातिको उच्च ज्वारभाटाले न्यु जर्सी र न्यु योर्कमा थप बाढी ल्याउन सक्ने चेतावनी दिइएको छ।...",
+   "link": "https://nagariknews.nagariknetwork.com/international/storm-nor-easter-floods-us-more-than-100-000-customers-without-power-22-84.html",
+   "source": "Nagarik News",
+   "ts": 1790568198,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2026/third-party/1790568068_Powerful%20nor%E2%80%99easter%20floods%20Northeast%20again.jpg",
+   "lang": "ne",
+   "en": "Norister storm triggers floods in US, over 100,000 lose power",
+   "ne": "नोरिस्टर आँधीले अमेरिकामा बाढी : एक लाख बढी ग्राहक विद्युतविहीन",
+   "imp": 1,
+   "tags": [
+    "NoristerStorm",
+    "USA",
+    "PowerOutage"
+   ],
+   "cat": "disaster",
+   "hits": 1
+  },
+  {
+   "title": "बाढीपछि बन्द भएको कालीगण्डकी 'ए' आजदेखि सञ्चालनमा आउने",
+   "summary": "कालीगण्डकी 'ए' जलविद्युत् केन्द्रका प्रमुख आत्मेस पौडेलले बाढीपछिको अवस्थाबारे प्राविधिक टोलीले निरीक्षण गरिसकेकाले उत्पादन सुरु गर्न सकिने जानकारी दिए ।",
+   "link": "https://www.onlinekhabar.com/2026/09/2027393/kaligandaki-a-closed-after-floods-to-resume-operations-from-today",
+   "source": "Onlinekhabar",
+   "ts": 1790567812,
+   "weight": 3,
+   "img": "https://www.onlinekhabar.com/wp-content/uploads/2026/09/kaligandaki-1-banner.jpg",
+   "lang": "ne",
+   "en": "Kaligandaki 'A' hydro plant reopens today after flood shutdown",
+   "ne": "बाढीपछि बन्द भएको कालीगण्डकी 'ए' आजदेखि सञ्चालनमा आउने",
+   "imp": 2,
+   "tags": [
+    "KaligandakiA",
+    "Hydropower",
+    "FloodRecovery"
+   ],
+   "cat": "economy",
    "hits": 1
   }
  ],
@@ -8504,7 +8549,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1790568115,
+ "updated": 1790568651,
  "pending_since": 1790567448.063147,
  "fb_blocks": [
   1790350880.4125228,
