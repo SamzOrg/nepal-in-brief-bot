@@ -3015,29 +3015,20 @@
   "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBaS0pzYllzYnA1VHgwMUxsOWRSWnl0eEFtekNXbE1YOVFrcERTSFhBd3BlQ29WaEFiZnlFUS00SnNXcDVRSWVPeU1DWQ?oc=5": 1790556644.6572268,
   "https://gorkhapatraonline.com/news/224565": 1790556644.6572268,
   "https://nagariknews.nagariknetwork.com/social-affairs/landslide-in-baglung-10-people-killed-one-missing-70-39.html": 1790556644.6572268,
-  "http://lokaantar.com/story/329933/2026/9/28/baglung-": 1790556644.6572268
+  "http://lokaantar.com/story/329933/2026/9/28/baglung-": 1790556644.6572268,
+  "https://risingnepaldaily.com/news/87108": 1790557277.0963082,
+  "https://www.setopati.com/politics/399400": 1790557277.0963082,
+  "https://nagariknews.nagariknetwork.com/social-affairs/communication-cut-off-in-three-districts-19-26.html": 1790557277.0963082,
+  "http://lokaantar.com/story/329935/2026/9/28/arrest-": 1790557277.0963082,
+  "http://lokaantar.com/story/329934/2026/9/28/highway-": 1790557277.0963082,
+  "http://lokaantar.com/story/329936/2026/9/28/fiber-": 1790557277.0963082,
+  "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWUl4TG9IenU1dVNmWWs5YmNoQTFDcVVueF9iUTRURUJVRVYyOUZ1bkR3SXl0bURyM0o3bl9aV0FiM0JiaDdjZFo3TDdVZFNmZC0xZVJpX3p5eVpnTWhuQjg3VUttWEdCQ3RpeDlVWnhfdFRMZUJVMDhqblZGRk92cnV2M2hnTThmYVpDSkNYTlRvX1hSdTRuVQ?oc=5": 1790557277.0963082,
+  "https://baahrakhari.com/detail/502957": 1790557277.0963082,
+  "https://kathmandupost.com/money/2026/09/28/landslides-knock-358mw-offline-in-kaligandaki-corridor": 1790557277.0963082,
+  "https://kathmandupost.com/province-no-3/2026/09/28/flood-took-his-home-his-old-citizenship-photo-is-denying-him-relief": 1790557277.0963082,
+  "http://annapurnapost.com/story/508499": 1790557277.0963082
  },
  "queue": [
-  {
-   "title": "भोटेकोसीको पीडामाथि ऋणको भारी, मिनाहाको व्यवस्था भए पनि छैन कुनै तयारी",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/502947",
-   "source": "Baahrakhari",
-   "ts": 1790528096,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "en": "Bhotekoshi flood victims face debt burden as loan waiver prep stalls",
-   "ne": "भोटेकोसीको पीडामाथि ऋणको भारी, मिनाहाको व्यवस्था भए पनि छैन कुनै तयारी",
-   "imp": 3,
-   "tags": [
-    "Bhotekoshi",
-    "FloodRelief",
-    "DebtWaiver"
-   ],
-   "cat": "economy",
-   "hits": 1
-  },
   {
    "title": "बाढीले उजाडियो पर्वतको फर्से बजार",
    "summary": "गण्डकी । कालीगण्डकी नदीमा आएको बाढीले पर्वतको जलजला गाउँपालिका-८ फर्सेको पुरानो बजार क्षणभरमै उजाड बनेको छ । निरन्तरको वर्षापछि आज बिहान आएको बाढीले फर्सेका ६६ घर क्षतिग्रस्त बनेका छन् । यस्तै, २५ घर उच्च जोखिममा",
@@ -3273,7 +3264,7 @@
     "ThreeDistricts"
    ],
    "cat": "tech",
-   "hits": 1
+   "hits": 3
   },
   {
    "title": "Floods and Landslides Disrupt Nepal's Economy and Daily Life",
@@ -3394,7 +3385,7 @@
     "Bhaktapur"
    ],
    "cat": "culture",
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "जलवायु न्यायको आवाजलाई अन्तर्राष्ट्रिय मञ्चमा प्रभावकारी रूपमा प्रस्तुत गरिनेछ : वनमन्त्री चौधरी",
@@ -3653,7 +3644,7 @@
     "संसद"
    ],
    "cat": "politics",
-   "hits": 4
+   "hits": 5
   },
   {
    "title": "कागतीदेखि ड्रागन फ्रुटसम्मः तीन युवाको आँटले बाँझा खेतमा फुल्यो सपना",
@@ -3714,7 +3705,7 @@
     "पहिरो"
    ],
    "cat": "disaster",
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "बिनासूचना गैरहाजिर रहेका नौ जना प्रहरी कर्मचारीलाई हाजिर हुन सात दिने अल्टिमेटम",
@@ -4073,6 +4064,89 @@
     "Baglung",
     "Landslide",
     "पहिरो"
+   ],
+   "cat": "disaster",
+   "hits": 1
+  },
+  {
+   "title": "बाढी र पहिरोले तनहुँमा २४ घरमा क्षति",
+   "summary": "",
+   "link": "https://baahrakhari.com/detail/502957",
+   "source": "Baahrakhari",
+   "ts": 1790556718,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "en": "Flood and landslide damage 24 houses in Tanahun",
+   "ne": "बाढी र पहिरोले तनहुँमा २४ घरमा क्षति",
+   "imp": 2,
+   "tags": [
+    "Flood",
+    "Tanahun",
+    "Landslide"
+   ],
+   "cat": "disaster",
+   "hits": 1
+  },
+  {
+   "title": "Landslides knock 358MW offline in Kaligandaki corridor",
+   "summary": "Damage to pylons along the Dana-Kushma section of the 220kV line has cut off 12 hydropower projects. Precautionary shutdown of projects has pushed the total generation loss to over 790MW.",
+   "link": "https://kathmandupost.com/money/2026/09/28/landslides-knock-358mw-offline-in-kaligandaki-corridor",
+   "source": "Kathmandu Post",
+   "ts": 1790542878.3936687,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "en": "Landslides knock 358MW offline in Kaligandaki corridor",
+   "ne": "कालीगण्डकी मार्गमा पहिरोले ३५८ मेगावाट विद्युत् उत्पादन रोक्यो",
+   "imp": 4,
+   "tags": [
+    "Landslide",
+    "Kaligandaki",
+    "PowerOutage",
+    "पहिरो"
+   ],
+   "cat": "disaster",
+   "hits": 1
+  },
+  {
+   "title": "Flood took his home. His old citizenship photo is denying him relief",
+   "summary": "Juthe Tamang is living under a tarp in Nuwakot after losing his shelter and work, but the image on his citizenship certificate has been an issue for opening a bank account, a must for receiving relief money.",
+   "link": "https://kathmandupost.com/province-no-3/2026/09/28/flood-took-his-home-his-old-citizenship-photo-is-denying-him-relief",
+   "source": "Kathmandu Post",
+   "ts": 1790542878.3936687,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "en": "Flood took his home. His old citizenship photo is denying him relief",
+   "ne": "बाढीले उनको घर बगायो, पुरानो नागरिकता फोटोले राहतबाट रोक्यो",
+   "imp": 2,
+   "tags": [
+    "Flood",
+    "ReliefDenial",
+    "Citizenship",
+    "राहत"
+   ],
+   "cat": "disaster",
+   "hits": 1
+  },
+  {
+   "title": "बाढीपहिरोले १ हजार १३ मेगावाट विद्युत् आपूर्ति प्रभावित",
+   "summary": "काठमाडौं : अविरल वर्षासँगै आएको बाढीपहिरोका कारण देशभर १ हजार १३.२ मेगावाट विद्युत् आपूर्ति प्रभावित भएको छ। बाढीपहिरोका कारण प्रसारण लाइनमा क्षति पुग्नुका साथै जोखिममा रहेका जलविद्युत् आयोजनाको उत्पादनसमेत सुरक्षात्मक...",
+   "link": "http://annapurnapost.com/story/508499",
+   "source": "Annapurna Post",
+   "ts": 1790542877.2876685,
+   "weight": 3,
+   "img": null,
+   "lang": "ne",
+   "en": "Flood and landslide affect 1,013 MW power supply",
+   "ne": "बाढीपहिरोले १ हजार १३ मेगावाट विद्युत् आपूर्ति प्रभावित",
+   "imp": 4,
+   "tags": [
+    "Flood",
+    "Landslide",
+    "PowerSupply",
+    "बाढी"
    ],
    "cat": "disaster",
    "hits": 1
@@ -5749,7 +5823,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1790556662,
+ "updated": 1790557305,
  "pending_since": 1790556644.6572268,
  "fb_blocks": [
   1790350880.4125228,
