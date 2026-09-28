@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMib0FVX3lxTE1vbm9tZV9Ra1ZteW12c2xMNDhjS2ZJUzBUbEdMSWJzME1wLVpHMG5FalRnTlJveWZWeUI5bzJiWVlkWmdXektMaUxGY0FyMXk1Ni1fOWNIcWZ1am1nbE9wXzRKd2NSWTg5UUx0UTNhcw?oc=5": 1790457643.371423,
   "https://news.google.com/rss/articles/CBMiakFVX3lxTE1nOTZVT0ZWRWZjbjV5N09oYmU5NjNOZWpnQXBva2pkVU1pMnc5bi04MDF3OVZZYmFjVnpRSEl5b2h6a24xaEJrcXVScUV6UkhJVHhVRUc0QlZycTc0d0pNWEZFZ20zcFlkWVE?oc=5": 1790458362.0191164,
   "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaG1LMW1KaHBGQ1psanlQMlB0eDlMRGFOeFhRNkI1NmtzVlZxU04yTXREX3c1Q082WmZJMGJ6UDIxbGFjR3dUS19wYVVnOEZMQkVNZmdvRE16UllHaGJCaWRrbmR1Q0hnM0lnMHFvMzRQVzJLNWIwWGlTZXlmR2t5ZHlteVY4eXdtdU95WEsxNEpEOVFNUWhlZEhTVmg2WVg4QXN4MXFYWktxTndDTGMw?oc=5": 1790459444.4460032,
   "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBnLXVtOUVra19jYkNvMk9KbEJXQWptUHhncFpZbzhpc3BPaHo4R3ZYSDB0YnRyWTlZYWxXaHNwT2pEOEYyR2pXQ0RNenVLM0oxakp0Z3Z5NmhnZ20yTTBkcEpiQQ?oc=5": 1790459444.4460032,
@@ -3777,92 +3776,6 @@
    "hits": 2
   },
   {
-   "title": "Nepali Congress Set to Delay 15th General Convention",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE13dW1SNVVHWmVkbnRBbHBPRkpxUmpOY3NRaWJyOGNIdFA0QXBid2tVRWlGRmdYVzZaQWY1RndGalJ4Vlp4bjk1cHRBSklhdEU1Y2lLd3ZjR0xVb08xc3hVcEl0YTlLOXlXN1ViLVhFOTBxcFhUQVNnSUd2VQ?oc=5",
-   "source": "Khoj Samachar",
-   "ts": 1790601616,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "en": "Nepali Congress Set to Delay 15th General Convention",
-   "ne": "नेपाली काँग्रेसले १५औं महा सभाको मिति स्थगित गर्ने",
-   "imp": 2,
-   "tags": [
-    "नेपालीकाँग्रेस",
-    "महासभा",
-    "स्थगन"
-   ],
-   "cat": "politics",
-   "val": 2,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "Nepal's flood recovery must address the heightened risks facing women and girls",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPODMyYW1KX0ZGLVJWelYtcHF6MU5CRElURDRqZnNQX3hZSC1LOFpVeXdJd2gycVhnSHluSU9wdWhMLUdYSVBUTTMtZzc2MV8xZWFSeXV0eS1oa3lVVVlWS0hOc01PbWcyT1dTNVZvZjNXcEhsZkx1ZmxxVERkWWtZU1B1ZGU1a1BWbFNsSkRLc3JkRV9YYURpN2czOWw0TG55VC10aUVKQ3hQazAwVHoyel9Ca29uM0E4eVZaNWlhZEJTd0Jj?oc=5",
-   "source": "Equality Now",
-   "ts": 1790601536,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "en": "Nepal's flood recovery must address the heightened risks facing women and girls",
-   "ne": "बाढी पुनरुद्धारले महिलाहरू र केटीहरूका बढ्दो जोखिमलाई सम्बोधन गर्नुपर्छ",
-   "imp": 3,
-   "tags": [
-    "FloodRecovery",
-    "Women",
-    "Girls"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "The fiscal cost of Bhotekoshi",
-   "summary": "The most expensive consequence of Bhotekoshi was not the flood itself. It was the bill it created. The government-led Rapid Damage and Needs Assessment placed direct physical damage and economic losses at Rs408.29...",
-   "link": "https://english.onlinekhabar.com/the-fiscal-cost-of-bhotekoshi.html",
-   "source": "Onlinekhabar EN",
-   "ts": 1790601300,
-   "weight": 3,
-   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/08/Trishuli-Bazar.jpg",
-   "lang": "en",
-   "en": "The fiscal cost of Bhotekoshi",
-   "ne": "भोटेकोशीको वित्तीय लागत",
-   "imp": 2,
-   "tags": [
-    "Bhotekoshi",
-    "FiscalCost"
-   ],
-   "cat": "economy",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "'कांग्रेस २.०' मा बढ्दो युवा आकर्षण : ४४ हजारले पाए जिम्मेवारी, एक लाख बने उम्मेदवार",
-   "summary": "पार्टीको नयाँ व्यवस्था अनुसार ३५ वर्ष मुनिका झण्डै ४४ हजार युवाले पार्टीको पदीय जिम्मेवारी नै पाएको कांग्रेसको विधान मस्यौदा समितिका सदस्य सचिव प्रताप पौडेलले जानकारी दिए।...",
-   "link": "https://nagariknews.nagariknetwork.com/politics/growing-youth-attraction-in-congress-2-0-44-000-people-got-responsibilities-100-000-became-candidates-32-98.html",
-   "source": "Nagarik News",
-   "ts": 1790601437,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1774403088_Congress.jpg",
-   "lang": "ne",
-   "en": "In 'Congress 2.0' 44,000 youths took responsibilities, one lakh became candidates",
-   "ne": "'कांग्रेस २.०' मा बढ्दो युवा आकर्षण : ४४ हजारले पाए जिम्मेवारी, एक लाख बने उम्मेदवार",
-   "imp": 2,
-   "tags": [
-    "Congress20",
-    "Youth"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
    "title": "आगामी हिउँदमा ११ सय ५४ मेगावाट विद्युत् आयात गरिने",
    "summary": "प्राधिकरणले आगामी जनवरीदेखि मेसम्मका लागि ११ सय ५४ मेगावाट बिजुली आयात गर्ने जनाएको हो ।",
    "link": "https://www.onlinekhabar.com/2026/09/2027979/1154-megawatts-of-electricity-to-be-imported-in-the-coming-winter",
@@ -4292,28 +4205,6 @@
     "Meeting"
    ],
    "cat": "politics",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "सिंचाइ कार्यालयकी अनुपमा 'म्याम', जसले मन्त्री र सचिवका नाममा 'पर्सेन्ट' माग्थिन्",
-   "summary": "डिप बोरिङ गरेर ट्युवबेल गाड्ने ठेक्कामा घुस मागेको आरोपमा पक्राउ परेकी कार्यालय प्रमुख अनुपमा ढकालको कुराकानी पत्याउने हो भने, उनले लिएको कमिसनको हिस्सा प्रदेश मन्त्री र सचिवसम्म पुग्थ्यो ।",
-   "link": "https://www.onlinekhabar.com/2026/09/2027925/anupama-maam-of-the-irrigation-office-who-used-to-ask-for-percentage-in-the-name-of-the-minister-and-secretary",
-   "source": "Onlinekhabar",
-   "ts": 1790601053,
-   "weight": 3,
-   "img": "https://www.onlinekhabar.com/wp-content/uploads/2026/09/anupama-1.png",
-   "lang": "ne",
-   "en": "Irrigation office clerk 'Myam' demanded percentages in minister and secretary names",
-   "ne": "सिंचाइ कार्यालयकी अनुपमा 'म्याम', जसले मन्त्री र सचिवका नाममा 'पर्सेन्ट' माग्थिन्",
-   "imp": 2,
-   "tags": [
-    "IrrigationOffice",
-    "ClerkMyam",
-    "Corruption"
-   ],
-   "cat": "society",
    "val": 2,
    "teaser": false,
    "hits": 1
@@ -8547,8 +8438,8 @@
    "cat": "disaster"
   }
  ],
- "updated": 1790629870,
- "pending_since": 1790628650.2422078,
+ "updated": 1790630450,
+ "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
