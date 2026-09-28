@@ -3126,7 +3126,10 @@
   "https://gorkhapatraonline.com/news/224577": 1790560245.8446562,
   "https://www.ratopati.com/story/595417/is-it-okay-to-eat-bananas-on-an-empty-stomach-or-at-night-this-is-what-experts-say": 1790560245.8446562,
   "http://lokaantar.com/story/329942/2026/9/28/sandeep-pudyal-": 1790560245.8446562,
-  "https://gorkhapatraonline.com/news/224576": 1790560245.8446562
+  "https://gorkhapatraonline.com/news/224576": 1790560245.8446562,
+  "https://www.ratopati.com/story/595422/landslide-in-ghansikuwa-affects-transport-services-on-prithvi-highway": 1790560672.6310687,
+  "https://risingnepaldaily.com/news/87113": 1790560672.6310687,
+  "https://www.onlinekhabar.com/2026/09/2027310/himlung-avalanche-bodies-of-2-people-being-taken-to-kathmandu-search-for-missing-person-underway-since-morning": 1790560672.6310687
  },
  "queue": [
   {
@@ -3164,25 +3167,6 @@
    "tags": [
     "FloodReconstruction",
     "Ashoj"
-   ],
-   "cat": "disaster",
-   "hits": 1
-  },
-  {
-   "title": "अविरल वर्षा र हावाहुरीले बाँके खजुराका प्रेम दमाईको घर ढल्यो",
-   "summary": "सिराज खान नेपालगन्ज, असोज ११ गते । लगातारको बर्षा र हावाहुरीले गर्दा बाँकेका विभिन्न स्थानमा डुबान हुनुका साथै केही कच्ची घर समेत ढलेका छन् । जिल्ला प्रहरी कार्यालय बाँकेले दिएको ज...",
-   "link": "https://gorkhapatraonline.com/news/224560",
-   "source": "Gorkhapatra",
-   "ts": 1790531474,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/385255/conversions/barkha-le-bhatkayeko-ghar-original.jpg",
-   "lang": "ne",
-   "en": "Heavy rain and wind topple house in Baneke Khajuraka, Banepa",
-   "ne": "अविरल वर्षा र हावाहुरीले बाँके खजुराका प्रेम दमाईको घर ढल्यो",
-   "imp": 3,
-   "tags": [
-    "Rain",
-    "Banepa"
    ],
    "cat": "disaster",
    "hits": 1
@@ -3666,7 +3650,7 @@
     "पहिरो"
    ],
    "cat": "disaster",
-   "hits": 6
+   "hits": 7
   },
   {
    "title": "बिनासूचना गैरहाजिर रहेका नौ जना प्रहरी कर्मचारीलाई हाजिर हुन सात दिने अल्टिमेटम",
@@ -4205,26 +4189,6 @@
     "Australia"
    ],
    "cat": "sports",
-   "hits": 1
-  },
-  {
-   "title": "सर्बियाका राष्ट्रपति भुचिकको राजीनामा : प्रधानमन्त्रीमा उम्मेदवारी दिने तयारी",
-   "summary": "सर्बियाका राष्ट्रपति अलेक्जान्डर भुचिकले आगामी प्रारम्भिक संसदीय चुनावमा प्रधानमन्त्री बन्ने तयारी गर्दै आइतबार राष्ट्रपतिको पदबाट राजीनामा दिएका छन्।...",
-   "link": "https://nagariknews.nagariknetwork.com/international/serbian-president-vucic-resigns-preparations-to-run-for-prime-minister-91-75.html",
-   "source": "Nagarik News",
-   "ts": 1790556848,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1790556809_Serbian%20president%20resigns%20(1).jpg",
-   "lang": "ne",
-   "en": "Serbian President Vučić resigns, prepares to run for prime minister",
-   "ne": "सर्बियाका राष्ट्रपति भुचिकको राजीनामा : प्रधानमन्त्रीमा उम्मेदवारी दिने तयारी",
-   "imp": 4,
-   "tags": [
-    "Serbia",
-    "Vučić",
-    "Resignation"
-   ],
-   "cat": "politics",
    "hits": 1
   },
   {
@@ -6637,10 +6601,21 @@
    "n_ig": 1,
    "brk": true,
    "cat": "disaster"
+  },
+  {
+   "ts": 1790560685.2843773,
+   "en": "Serbian President Vučić resigns, prepares to run for prime minister",
+   "ne": "सर्बियाका राष्ट्रपति भुचिकको राजीनामा : प्रधानमन्त्रीमा उम्मेदवारी दिने तयारी",
+   "link": "https://nagariknews.nagariknetwork.com/international/serbian-president-vucic-resigns-preparations-to-run-for-prime-minister-91-75.html",
+   "source": "Nagarik News",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "politics"
   }
  ],
- "updated": 1790560281,
- "pending_since": null,
+ "updated": 1790560701,
+ "pending_since": 1790560672.6310687,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
