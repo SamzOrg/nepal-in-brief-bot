@@ -53,6 +53,7 @@ TOPIC_PENALTY  = 0.75   # each recent same-topic post lowers a story's score by 
 DISASTER = re.compile(r"flood|landslide|mudslide|inundat|heavy rain|rainfall|downpour|river|barrage|cusec|"
                       r"quake|avalanche|snowfall|storm|glof|बाढी|पहिरो|डुबान|वर्षा|भूकम्प|हिमपहिरो", re.I)
 NORMAL_GAP_MIN = 30     # at most one regular (non-breaking) story every 30 minutes
+TEASER_TRIES_PER_RUN = 2  # max teaser headlines to complete from the article per run (1 small AI call each)
 MIN_HEADLINE_VALUE = 2  # skip stories whose headline alone says nothing concrete (AI "v" 1-3; unknown = allowed)
 NORMAL_MIN_IMPACT = 3   # regular stories need AI impact >= 3 (1-5 scale); lower ones are never posted
 RESUME_LEAD_MIN = 45    # when posting is paused, start collecting again this long before it resumes
@@ -438,12 +439,14 @@ For each NEW item:
   something new or surprising). 2 = a clear point, a bit general. 1 = generic or vague: you must read the
   article to learn anything (e.g. "Floods disrupt economy and daily life", "How AI is changing disaster
   management", "What the budget means for you" without the answer).
+- "q": true if the headline is a TEASER: it promises specific information it does not give ("here is the
+  agenda", "यस्तो छ कार्यसूची", "these are the new rules", "find out who won"); otherwise false.
 - "c": the story's topic, one of: disaster, politics, economy, sports, world, society, crime, health,
   education, tech, culture, other. (Floods, landslides, rain, quakes, rescue = disaster.)
 - "h": 2-4 hashtags for the story's key topic, places, people or organisations, without "#".
   CamelCase English (e.g. "Landslide", "PrithviHighway", "Chitwan"); one may be Nepali (e.g. "पहिरो").
 
-Respond with JSON only: {{"r": [{{"i": 0, "t": "...", "d": null, "s": 3, "v": 3, "c": "disaster", "h": ["Landslide", "Chitwan"]}}]}}
+Respond with JSON only: {{"r": [{{"i": 0, "t": "...", "d": null, "s": 3, "v": 3, "q": false, "c": "disaster", "h": ["Landslide", "Chitwan"]}}]}}
 with one entry per new item.
 
 EXISTING:
@@ -475,10 +478,80 @@ def llm_translate(batch, existing, prefer_gemini=False):
             rows = json.loads(text)["r"]
             log(f"LLM ok via {name}")
             return {int(x["i"]): (clean(x.get("t", "")), x.get("d"), x.get("s"), x.get("h"), x.get("c"),
-                                  x.get("v")) for x in rows if "i" in x}
+                                  x.get("v"), x.get("q")) for x in rows if "i" in x}
         except Exception as ex:
             log(f"LLM {name} failed: {ex!r}")
     raise RuntimeError("all LLM providers failed")
+
+
+def llm_json(prompt, max_out=1200):
+    """One small JSON request: Gemini first, Groq as backup. Returns the parsed dict or None."""
+    for name, url, key_env, model, extra in PROVIDERS:
+        key = os.getenv(key_env)
+        if not key:
+            continue
+        try:
+            body = {"model": model, "temperature": 0.1, "max_completion_tokens": max_out,
+                    "response_format": {"type": "json_object"},
+                    "messages": [{"role": "user", "content": prompt}], **extra}
+            if name.startswith("gemini"):
+                body["max_completion_tokens"] = max(max_out, 3000)  # room for its thinking tokens
+            r = requests.post(url, headers={"Authorization": f"Bearer {key}"}, timeout=60, json=body)
+            if r.status_code != 200:
+                raise RuntimeError(f"{r.status_code}: {r.text[:200]}")
+            text = r.json()["choices"][0]["message"]["content"]
+            return json.loads(text[text.find("{"):text.rfind("}") + 1])
+        except Exception as ex:
+            log(f"LLM {name} failed: {ex!r}"[:300])
+    return None
+
+
+PROMPT_COMPLETE = """This news headline is a teaser: it promises information it does not give.
+Using ONLY facts stated in the article text below, write a complete headline that states the key
+specifics (the actual agenda items, names, numbers, decision...). Max 110 characters, news-headline
+style, no added facts. Also write the Nepali version the way Onlinekhabar or Kantipur would headline it
+(natural, Nepali digits). If the article text does not contain the specifics, return {{"ok": false}}.
+Respond with JSON only: {{"ok": true, "en": "...", "ne": "..."}}
+
+HEADLINE: {headline}
+
+ARTICLE:
+{article}
+"""
+
+
+def article_text(link, limit=3500):
+    """Main paragraphs of the article page (empty string if it can't be read)."""
+    if "news.google.com" in link:
+        return ""  # Google News redirect pages have no article text
+    try:
+        page = requests.get(link, timeout=15, headers=BROWSER_UA).text[:600000]
+    except Exception as ex:
+        log(f"article fetch failed: {ex!r}"[:200])
+        return ""
+    page = re.sub(r"(?is)<(script|style|noscript)[^>]*>.*?</\1>", " ", page)
+    paras = [clean(p) for p in re.findall(r"(?is)<p[^>]*>(.*?)</p>", page)]
+    return "\n".join(p for p in paras if len(p) > 40)[:limit]
+
+
+def complete_headline(s):
+    """Turn a teaser ("here is the agenda") into a headline with the actual facts, from the article.
+    Returns True if the story now has a complete headline, False if it should be skipped."""
+    body = article_text(s["link"])
+    if len(body) < 200:
+        log(f"teaser, article text unavailable, skipping: {s['en'][:70]}")
+        return False
+    j = llm_json(PROMPT_COMPLETE.format(headline=f"{s['en']} / {s['ne']}", article=body))
+    if not j or not j.get("ok") or not j.get("en") or not j.get("ne"):
+        log(f"teaser, no specifics found in article, skipping: {s['en'][:70]}")
+        return False
+    en, ne = strip_media_tag(clean(j["en"])), strip_media_tag(clean(j["ne"]))
+    if foreign_script(en, ne) or len(en) > 160 or len(ne) > 180:
+        log(f"teaser completion rejected: {en[:80]}")
+        return False
+    log(f"teaser completed: '{s['en'][:60]}' -> '{en}'")
+    s["en"], s["ne"], s["teaser"] = en, ne, False
+    return True
 
 
 def translate(batch, existing, prefer_gemini=False):
@@ -487,7 +560,7 @@ def translate(batch, existing, prefer_gemini=False):
     log(f"LLM translated {len(res)}/{len(batch)}")
     out = []
     for i, b in enumerate(batch):
-        t, d, imp, tags, cat, val = res.get(i, ("", None, None, None, None, None))
+        t, d, imp, tags, cat, val, teaser = res.get(i, ("", None, None, None, None, None, None))
         if t:
             t = strip_media_tag(clean(t))
             if foreign_script(t):
@@ -504,6 +577,7 @@ def translate(batch, existing, prefer_gemini=False):
                 b["val"] = min(3, max(1, int(val)))   # headline substance, 1-3
             except (TypeError, ValueError):
                 b["val"] = None                        # unknown: allowed
+            b["teaser"] = teaser is True or str(teaser).lower() == "true"
             out.append(b)
     return out
 
@@ -870,6 +944,15 @@ def main():
                 continue
             if isinstance(target, dict):
                 target["hits"] += 1
+                # keep the most informative headline among the outlets' versions of this story
+                better = (target.get("teaser") and not b.get("teaser")) or \
+                         ((b.get("val") or 2) > (target.get("val") or 2) and not b.get("teaser"))
+                if better:
+                    log(f"better headline for same story: '{target['en'][:50]}' -> '{b['en'][:50]}' ({b['source']})")
+                    for k in ("en", "ne", "title", "lang", "link", "source", "img", "weight", "val",
+                              "teaser", "tags", "summary"):
+                        if k in b:
+                            target[k] = b[k]
                 continue
             queue.append({**b, "hits": 1})
 
@@ -892,7 +975,7 @@ def main():
         return q.get("imp") or 3
 
     def substantive(q):  # the headline alone must tell the reader something
-        return (q.get("val") or MIN_HEADLINE_VALUE) >= MIN_HEADLINE_VALUE
+        return q.get("teaser") or (q.get("val") or MIN_HEADLINE_VALUE) >= MIN_HEADLINE_VALUE
 
     def topic(q):  # AI category, or a keyword guess for stories queued before categories existed
         return q.get("cat") or ("disaster" if DISASTER.search(f"{q['en']} {q.get('ne', '')}") else "other")
@@ -968,6 +1051,7 @@ def main():
         save(state, seen, queue, posted)
         return
     fb_blocked = False
+    teaser_tries = 0
     while queue and not fb_blocked and n_breaking + n_normal < MAX_STORIES_PER_RUN and (not FB_DAILY_CAP or fb_24 + 1 <= FB_DAILY_CAP):
         br = [q for q in queue if is_breaking(q) and substantive(q)]
         regular = [q for q in queue if impact(q) >= NORMAL_MIN_IMPACT and substantive(q)]
@@ -1004,6 +1088,16 @@ def main():
                 n_normal -= 1
             posted.append({"ts": time.time(), "en": s["en"], "ne": s["ne"], "link": s["link"],
                            "source": s["source"], "n_fb": 0, "n_ig": 0})
+            continue
+        if s.get("teaser") and not DRY and teaser_tries >= TEASER_TRIES_PER_RUN:
+            queue.append(s)  # out of tries this run: keep it for the next one
+            break
+        teaser_tries += bool(s.get("teaser"))
+        if s.get("teaser") and not DRY and not complete_headline(s):
+            if breaking:  # a skipped teaser doesn't use up this run's slot
+                n_breaking -= 1
+            else:
+                n_normal -= 1
             continue
         rec = {"ts": time.time(), "en": s["en"], "ne": s["ne"], "link": s["link"],
                "source": s["source"], "n_fb": 0, "n_ig": 0, "brk": breaking, "cat": topic(s)}
