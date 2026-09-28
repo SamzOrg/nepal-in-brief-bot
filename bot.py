@@ -188,8 +188,17 @@ UA    = {"User-Agent": "Mozilla/5.0 (NepalInBrief bot)"}
 URL_DATE = re.compile(r"/(20\d\d)/(\d\d)/(\d\d)/")
 DEVA  = re.compile(r"[ऀ-ॿ]")
 
-REPL = {"‘": "'", "’": "'", "“": '"', "”": '"',
-        "–": "-", "—": "-", "…": "...", " ": " "}
+REPL = {"\u2018": "'", "\u2019": "'", "\u201c": '"', "\u201d": '"', "\u201a": "'", "\u201e": '"',
+        "\u2032": "'", "\u2033": '"', "\u2013": "-", "\u2014": "-", "\u2010": "-", "\u2011": "-",
+        "\u2012": "-", "\u2015": "-", "\u2212": "-", "\u2026": "...", "\u2022": "-",
+        "\u00a0": " ", "\u2009": " ", "\u202f": " ", "\u200b": "", "\ufeff": ""}
+# Only English (Latin) and Nepali (Devanagari) text is allowed. A headline or outlet name in any other
+# script (Arabic, Chinese...) is skipped: our font can't draw it and the audience can't read it.
+OTHER_SCRIPT = re.compile(r"[^\u0000-\u024F\u0900-\u097F\u1E00-\u1EFF\u2000-\u206F\u20A8-\u20B9\u2100-\u214F\s]")
+
+
+def foreign_script(*texts):
+    return any(OTHER_SCRIPT.search(t or "") for t in texts)
 
 
 def log(*a):
@@ -367,8 +376,14 @@ def fetch(feed):
             continue
         title, summary, src = strip_media_tag(clean(e.get("title"))), clean(e.get("summary")), name
         if name.startswith("Google News"):  # "Headline - Publisher", summary is just link soup
-            src = (e.get("source") or {}).get("title") or name
-            title, summary = re.sub(rf"\s+-\s+{re.escape(src)}$", "", title), ""
+            src = clean((e.get("source") or {}).get("title")) or name
+            # drop the trailing " - Publisher" (publishers can contain " - " themselves, in any order)
+            parts = title.split(" - ")
+            while len(parts) > 1 and (parts[-1].strip() in src or foreign_script(parts[-1])):
+                parts.pop()
+            title, summary = " - ".join(parts).strip(), ""
+        if foreign_script(title, src):
+            continue  # not English or Nepali (e.g. an Arabic-language agency via Google News)
         if needs_nepal and not NEPAL.search(f"{title} {summary}"):
             continue
         if blocked(src):
@@ -468,7 +483,9 @@ def translate(batch, existing, prefer_gemini=False):
     for i, b in enumerate(batch):
         t, d, imp, tags, cat = res.get(i, ("", None, None, None, None))
         if t:
-            t = strip_media_tag(t)
+            t = strip_media_tag(clean(t))
+            if foreign_script(t):
+                continue
             b["en"], b["ne"] = (t, b["title"]) if b["lang"] == "ne" else (b["title"], t)
             b["dup"] = d
             try:
@@ -979,7 +996,14 @@ def main():
         if not DRY:
             posted.append(rec)  # recorded BEFORE posting: a crash can never cause a repeat
             save(state, seen, queue, posted)
-        s["en"], s["ne"] = strip_media_tag(s["en"]), strip_media_tag(s["ne"])
+        s["en"], s["ne"] = strip_media_tag(clean(s["en"])), strip_media_tag(clean(s["ne"]))
+        if foreign_script(s["en"], s["ne"], s["source"]):
+            log(f"skipping, not English/Nepali text: {s['en'][:60]} ({s['source']})")
+            if breaking:
+                n_breaking -= 1
+            else:
+                n_normal -= 1
+            continue
         s["post_ts"] = time.time()
         s["_photo"] = load_photo(s)
         s["_breaking"] = breaking
