@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcnVGOWFuaWpIRnZFMlFfQ3E1Vk9tektQYl9tamt1VFhBNDV5cVZHeWQycElDT3FuX2ZuaVhsNWZPQ3d0OXpNaGJxVTBLV2xNWkNJUkttbHhMVE03cUpRMU04ak9rNWNsLXFETEthMHdacmdFWGNRWFc3eGZWTVR4LS1iejhEY1pnTVh2bjE3Y1YwbHR0ZFUzeVVjRzFFTUVkT1Vz?oc=5": 1790462444.512703,
   "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcDBvNXNGdm9mbVBwQmlhMzdVSlFjYmlXaHcwaWhWV3M4Y1dGMlZtOUJSc01VRmFKZ3dEUkFqcWxaaTF0MHhzbnBKQ1N0aVRnSUhyX1J2OW5LUnFKZG5nbzlCd3huYUhUamx5TGpKQVMxMzJ1Y21leU0tdjc3bzB1UHRyb3dkRHpCdnZxbWlfeFcxbGlQeU5iNWJKTmM3dmFpRVlnM1BNMVk?oc=5": 1790463040.6601253,
   "https://www.ratopati.com/story/595149/impact-of-floods-and-rain-on-tourism-business": 1790465460.8216221,
   "https://gorkhapatraonline.com/news/224422": 1790466643.9585657,
@@ -3782,27 +3781,6 @@
    "hits": 2
   },
   {
-   "title": "मधेश भौतिक पूर्वाधार मन्त्रालयमा बेथिति : मनपरी सरुवाले कर्मचारी आजित",
-   "summary": "मधेश प्रदेशको भौतिक पूर्वाधार मन्त्रालयमा बेथिति चुलिएको छ । आफू अनुकूल काम गर्नेलाई लामो समय वा निमित्तको जिम्मा दिने र सिनियरहरूलाई पाखा लगाउने प्रवृत्ति बढेको कर्मचारीहरू बताउँछन् ।",
-   "link": "https://www.onlinekhabar.com/2026/09/2027988/madhesh-ministry-of-physical-infrastructure-in-disarray-arbitrary-transfers-leave-employees-in-a-state-of-disarray",
-   "source": "Onlinekhabar",
-   "ts": 1790606372,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "en": "Madhesh physical infrastructure ministry in chaos: Manpuri Saruwa hires staff arbitrarily",
-   "ne": "मधेश भौतिक पूर्वाधार मन्त्रालयमा बेथिति : मनपरी सरुवाले कर्मचारी आजित",
-   "imp": 2,
-   "tags": [
-    "Madhesh",
-    "Infrastructure"
-   ],
-   "cat": "politics",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "५१३ मनसुनजन्य घटना, २७ जनाको मृत्यु",
    "summary": "काठमाडौँ। अविरल वर्षासँगै आएको बाढी, पहिरो, डुबान, हावाहुरी र चट्याङका कारण देशभर २७ जनाको मृत्यु भएको छ । ७ जना घाइते भएका छन् भने ४ जना अझै सम्पर्कविहीन छन् । असोज ८ गतेदेखि हालसम्म भएका ५१३",
    "link": "https://www.ratopati.com/story/595632/27-dead-7-injured-4-missing-in-floods-and-landslides",
@@ -4391,27 +4369,6 @@
     "Rescue"
    ],
    "cat": "infrastructure",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "विराटनगर भन्सारको राजस्व असुली लक्ष्यको ९७ प्रतिशत",
-   "summary": "विराटनगर भन्सार कार्यालयले साउन महिनाका लागि तीन अर्ब नौ करोड तीन लाख रुपैयाँ संकलन गर्ने लक्ष्य पाएको भए पनि दुई अर्ब ७३ करोड ३९ लाख रुपैयाँ मात्रै संकलन गरेको थियो।...",
-   "link": "https://nagariknews.nagariknetwork.com/economy/biratnagar-customs-achieves-97-percent-of-revenue-collection-target-59-63.html",
-   "source": "Nagarik News",
-   "ts": 1790606429,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1790606407_Bhansar.jpg",
-   "lang": "ne",
-   "en": "Viratnagar customs revenue collection hit 97 % of target",
-   "ne": "विराटनगर भन्सारको राजस्व असुली लक्ष्यको ९७ प्रतिशत",
-   "imp": 2,
-   "tags": [
-    "Viratnagar",
-    "Customs"
-   ],
-   "cat": "economy",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -7534,7 +7491,7 @@
    "cat": "economy"
   }
  ],
- "updated": 1790635124,
+ "updated": 1790635251,
  "pending_since": 1790634661.1112154,
  "fb_blocks": [
   1790350880.4125228,
