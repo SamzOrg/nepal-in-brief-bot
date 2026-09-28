@@ -1160,7 +1160,14 @@ def main():
         s["post_ts"] = time.time()
         s["_photo"] = load_photo(s)
         s["_breaking"] = breaking
-        use_ig = breaking or ig_normal_ok
+        use_ig = breaking or ig_normal_ok or not FB_PUBLISH  # Instagram is the only outlet when FB isn't published
+        if not FB_PUBLISH and ig_24 + 1 > IG_DAILY_CAP:
+            log(f"Instagram 24h cap reached ({ig_24}/{IG_DAILY_CAP}), keeping story for later: {s['en'][:60]}")
+            if rec in posted:
+                posted.remove(rec)
+            s.pop("_photo", None); s.pop("_breaking", None)
+            queue.append(s)
+            break
         if use_ig:
             ig_today += 1
             ig_normal_ok = ig_today + 1 <= ig_budget and ig_24 + 2 <= IG_DAILY_CAP - IG_BREAKING_RESERVE
@@ -1175,7 +1182,7 @@ def main():
                 pid, url = post_facebook(img, fb_text)
                 rec["n_fb"] += 1; fb_24 += 1
                 log(f"FB {'ok' if FB_PUBLISH else 'image uploaded (unpublished)'} {pid} ({theme}){' [BREAKING]' if breaking else ''} impact {s.get('imp')}")
-                if use_ig and ig_24 + 1 <= IG_DAILY_CAP - (0 if breaking else IG_BREAKING_RESERVE):
+                if use_ig and ig_24 + 1 <= IG_DAILY_CAP - (0 if breaking or not FB_PUBLISH else IG_BREAKING_RESERVE):
                     log(f"IG ok {post_instagram(url, ig_text)}")
                     rec["n_ig"] += 1; ig_24 += 1
             except Exception as ex:
