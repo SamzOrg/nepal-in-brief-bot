@@ -61,7 +61,9 @@ MAX_STORIES_PER_RUN = 1 # never more than this many stories in one run (no burst
 BLOCK_COOLDOWN_H = 5    # Meta spam block (error 368): stop posting this long, doubled if it happens again within 48h
 BREAKING_PER_HOUR = 2   # hard cap so a busy news day can't turn into a flood of "breaking" posts
 BREAKING_MAX_AGE_MIN = 90  # only fresh stories can count as breaking
-ACTIVE_HOURS   = (4, 23)  # Nepal time: regular news only from 04:00 to 23:00, daily limits spread evenly
+FB_PUBLISH     = False    # False: don't create a Facebook post (the app isn't published, so posts are
+                          # hidden anyway); the image is still uploaded unpublished to get a public URL for Instagram
+ACTIVE_HOURS   = (0, 24)  # TEMP TEST (revert to (4, 23)) # Nepal time: regular news only from 04:00 to 23:00, daily limits spread evenly
 BREAKING_24H   = True     # breaking news may still post at night (uses the IG reserve below)
 IG_BREAKING_RESERVE = 8   # IG posts (stories) kept free for breaking news in every rolling 24h
 FB_BREAKING_RESERVE = 8   # FB posts (stories) kept free for breaking news
@@ -792,8 +794,9 @@ def graph(method, path, **data):
 
 def post_facebook(img, text):
     with open(img, "rb") as fh:
+        extra = {} if FB_PUBLISH else {"published": "false"}  # unpublished: image only, no Page post
         j = graph("POST", f"{os.environ['FB_PAGE_ID']}/photos", message=text,
-                  files={"source": ("post.jpg", fh, "image/jpeg")})
+                  files={"source": ("post.jpg", fh, "image/jpeg")}, **extra)
     images = graph("GET", j["id"], fields="images")["images"]  # FB CDN copy = public URL for IG
     return j.get("post_id") or j["id"], max(images, key=lambda i: i["width"])["source"]
 
@@ -1171,7 +1174,7 @@ def main():
             try:
                 pid, url = post_facebook(img, fb_text)
                 rec["n_fb"] += 1; fb_24 += 1
-                log(f"FB ok {pid} ({theme}){' [BREAKING]' if breaking else ''} impact {s.get('imp')}")
+                log(f"FB {'ok' if FB_PUBLISH else 'image uploaded (unpublished)'} {pid} ({theme}){' [BREAKING]' if breaking else ''} impact {s.get('imp')}")
                 if use_ig and ig_24 + 1 <= IG_DAILY_CAP - (0 if breaking else IG_BREAKING_RESERVE):
                     log(f"IG ok {post_instagram(url, ig_text)}")
                     rec["n_ig"] += 1; ig_24 += 1
