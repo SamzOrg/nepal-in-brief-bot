@@ -3129,7 +3129,10 @@
   "https://gorkhapatraonline.com/news/224576": 1790560245.8446562,
   "https://www.ratopati.com/story/595422/landslide-in-ghansikuwa-affects-transport-services-on-prithvi-highway": 1790560672.6310687,
   "https://risingnepaldaily.com/news/87113": 1790560672.6310687,
-  "https://www.onlinekhabar.com/2026/09/2027310/himlung-avalanche-bodies-of-2-people-being-taken-to-kathmandu-search-for-missing-person-underway-since-morning": 1790560672.6310687
+  "https://www.onlinekhabar.com/2026/09/2027310/himlung-avalanche-bodies-of-2-people-being-taken-to-kathmandu-search-for-missing-person-underway-since-morning": 1790560672.6310687,
+  "https://gorkhapatraonline.com/news/224584": 1790560878.7485447,
+  "https://www.setopati.com/social/399404": 1790560878.7485447,
+  "https://khabarhub.com/2026/28/1030109/": 1790560878.7485447
  },
  "queue": [
   {
@@ -3527,7 +3530,7 @@
     "आगलागी"
    ],
    "cat": "disaster",
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "सडक अवरुद्ध हुनासाथ खुलाउने प्रयास",
@@ -4907,6 +4910,46 @@
     "Goal"
    ],
    "cat": "sports",
+   "hits": 1
+  },
+  {
+   "title": "घाँसीकुवामा पहिरो खस्दा पृथ्वीराजमार्गमा यातायात प्रभावित",
+   "summary": "पहिरोका कारण सडक अवरुद्ध भएको खबर प्राप्त हुनासाथ जिल्ला प्रहरी कार्यालयबाट प्रहरी टोली घटनास्थलमा खटिएको छ।",
+   "link": "https://www.setopati.com/social/399404",
+   "source": "Setopati",
+   "ts": 1790560718,
+   "weight": 3,
+   "img": null,
+   "lang": "ne",
+   "en": "Landslide in Ghasikuwa disrupts traffic on Prithvi Raj Road",
+   "ne": "घाँसीकुवामा पहिरो खस्दा पृथ्वीराजमार्गमा यातायात प्रभावित",
+   "imp": 2,
+   "tags": [
+    "Landslide",
+    "Ghasikuwa",
+    "PrithviRajRoad"
+   ],
+   "cat": "disaster",
+   "hits": 1
+  },
+  {
+   "title": "बाढीपहिरोले धवलागिरि क्षेत्रमा सडक सञ्जाल विच्छेद",
+   "summary": "गण्डकी- कालीगण्डकी नदीमा आइतबार आएको बाढीका कारण धवलागिरि क्षेत्रका पर्वत, बागलुङ, म्याग्दी र मुस्ताङलाई राष्ट्रिय सडक सञ्जालमा जोड्ने मध्यपहाडी लोकमार्ग ठाउँठाउँमा अवरूद्ध भएको छ । बाढीले पर्वतको कुश्मा नगरपालिकास्थित...",
+   "link": "https://khabarhub.com/2026/28/1030109/",
+   "source": "Khabarhub",
+   "ts": 1790560696,
+   "weight": 3,
+   "img": "https://www.khabarhub.com/wp-content/uploads/2026/09/dhawalagiri-sadak-400x220.jpg",
+   "lang": "ne",
+   "en": "Flood and landslide cut road network in Dhawalagiri region",
+   "ne": "बाढीपहिरोले धवलागिरि क्षेत्रमा सडक सञ्जाल विच्छेद",
+   "imp": 3,
+   "tags": [
+    "Flood",
+    "Landslide",
+    "Dhawalagiri"
+   ],
+   "cat": "disaster",
    "hits": 1
   }
  ],
@@ -6614,7 +6657,7 @@
    "cat": "politics"
   }
  ],
- "updated": 1790560701,
+ "updated": 1790560883,
  "pending_since": 1790560672.6310687,
  "fb_blocks": [
   1790350880.4125228,
