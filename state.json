@@ -3822,46 +3822,6 @@
    "hits": 1
   },
   {
-   "title": "सानिमा बैंकले साधारण सेयर पूँजीको १० प्रतिशत लाभांश दिने",
-   "summary": "सर्वसाधारण सेयरधनीका तर्फबाट तेजबहादुर चन्द र महेश घिमिरे सञ्चालकमा निर्विरोध निर्वाचित भएका छन् ।",
-   "link": "https://www.onlinekhabar.com/2026/09/2028003/sanima-bank-to-pay-10-percent-dividend-on-ordinary-share-capital",
-   "source": "Onlinekhabar",
-   "ts": 1790603543,
-   "weight": 3,
-   "img": "https://www.onlinekhabar.com/wp-content/uploads/2026/09/AGM-photo.jpg",
-   "lang": "ne",
-   "en": "Sanima Bank to pay 10% dividend on ordinary share capital",
-   "ne": "सानिमा बैंकले साधारण सेयर पूँजीको १० प्रतिशत लाभांश दिने",
-   "imp": 2,
-   "tags": [],
-   "cat": "economy",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "भरतपुर ईभी आगलागी प्रकरण : प्राविधिक टोली झिकाएर अनुसन्धान गर्दै प्रहरी",
-   "summary": "काठमाडौंँ । गत भदौ २६ गते बिहान चितवनको भरतपुरमा गुडिरहेको विद्युतीय (ईभी) कारमा अचानक आगलागी हुँदा एक जनाको मृत्यु भएको घटनाको प्रहरीले प्राविधिक अनुसन्धान अगाडि बढाएको छ । भरतपुर महानगरपालिका-९ स्थित बसन्तचोक नजिकै...",
-   "link": "https://www.ratopati.com/story/595619/bharatpur-ev-fire-case-police-investigating-by-bringing-in-a-technical-team",
-   "source": "Ratopati",
-   "ts": 1790603578,
-   "weight": 3,
-   "img": "https://npcdn.ratopati.com/media/news/ev-aaglagi_WdCAoSz7hl.webp",
-   "lang": "ne",
-   "en": "Bharatpur EV fire case: technical team removes equipment, police investigate",
-   "ne": "भरतपुर ईभी आगलागी प्रकरण : प्राविधिक टोली झिकाएर अनुसन्धान गर्दै प्रहरी",
-   "imp": 3,
-   "tags": [
-    "Bharatpur",
-    "EVFire",
-    "Investigation"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "एआई एजेन्टलाई नियन्त्रण गर्न एनभिडियाको नयाँ सुरक्षा प्रणाली सार्वजनिक",
    "summary": "अमेरिकी प्रविधि कम्पनी एनभिडियाले एआई एजेन्टलाई सुरक्षित रूपमा चलाउन र तोकिएको सीमाभन्दा बाहिर जान नदिन नयाँ सुरक्षा प्रणाली सार्वजनिक गरेको छ।...",
    "link": "https://nagariknews.nagariknetwork.com/technology/nvidia-unveils-new-security-system-to-control-ai-agents-61-87.html",
@@ -5897,29 +5857,6 @@
    "tags": [
     "Disaster",
     "Kiwis",
-    "नेपाल"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Nepal hit by deadly floods, landslides, and avalanche",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBtQl9MZ1NyMGswSkRCbDhYaUJKbGZGZUl0WDNGb1QySUxKeHlVNkFnYkJGMzRBd3NrVDlYcFlXZnlYQ0tNNGVSQTQtZEk3UHFBVlRXSlNFcWNMQy020gFcQVVfeXFMUG1CX0xnU3IwazBKREJsOFhpQkpsZkZlSXRYM0ZvVDJJTEp4eVU2QWdiQkYzNEF3c2tUOVhwWVdmeVhDS000ZVJBNC1kSTdQcUFWVFdKU0VxY0xDLTY?oc=5",
-   "source": "Modern Ghana",
-   "ts": 1790626673,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "en": "Nepal hit by deadly floods, landslides, and avalanche",
-   "ne": "नेपालमा घातक बाढी, पहिरो र हिमस्खलन",
-   "imp": 5,
-   "tags": [
-    "Floods",
-    "Landslide",
-    "Avalanche",
     "नेपाल"
    ],
    "cat": "disaster",
@@ -8112,9 +8049,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "disaster"
+  },
+  {
+   "ts": 1790632382.7588859,
+   "en": "Nepal hit by deadly floods, landslides, and avalanche",
+   "ne": "नेपालमा घातक बाढी, पहिरो र हिमस्खलन",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBtQl9MZ1NyMGswSkRCbDhYaUJKbGZGZUl0WDNGb1QySUxKeHlVNkFnYkJGMzRBd3NrVDlYcFlXZnlYQ0tNNGVSQTQtZEk3UHFBVlRXSlNFcWNMQy020gFcQVVfeXFMUG1CX0xnU3IwazBKREJsOFhpQkpsZkZlSXRYM0ZvVDJJTEp4eVU2QWdiQkYzNEF3c2tUOVhwWVdmeVhDS000ZVJBNC1kSTdQcUFWVFdKU0VxY0xDLTY?oc=5",
+   "source": "Modern Ghana",
+   "n_fb": 1,
+   "n_ig": 0,
+   "brk": false,
+   "cat": "disaster"
   }
  ],
- "updated": 1790632249,
+ "updated": 1790632384,
  "pending_since": 1790631068.8574917,
  "fb_blocks": [
   1790350880.4125228,
