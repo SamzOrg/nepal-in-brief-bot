@@ -3340,7 +3340,16 @@
   "https://www.onlinekhabar.com/2026/09/2027408/preparations-to-start-electricity-generation-as-water-level-in-kaligandaki-drops": 1790569863.4510252,
   "http://annapurnapost.com/story/508510": 1790569863.4510252,
   "https://gorkhapatraonline.com/news/224620": 1790569863.4510252,
-  "https://khabarhub.com/2026/28/1030165/": 1790569863.4510252
+  "https://khabarhub.com/2026/28/1030165/": 1790569863.4510252,
+  "https://www.setopati.com/social/399410": 1790570447.843795,
+  "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9wN1dGdmptMW50RzRSTkN5T2FoWWI3a296NlpkLVRlWEdPZS1oS0ZlUWRDWHcyT2xyVl9VM0tTY0VQd2FaaWphVXhZbVd4bjBMRVVwSTJPSGE?oc=5": 1790570447.843795,
+  "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5sa0VDZmNNSW8ycnRXX0ZpaUFmM3c0Wi1vbFMxUFprRWZMeHBfOEFydThtTWRIUnNCbU15UHdtd2o2VGlvcDJEZXp0WU9ZOXNGbnZNSEZPSjZNWlM0alE?oc=5": 1790570447.843795,
+  "https://nagariknews.nagariknetwork.com/social-affairs/a-plane-flew-to-suketar-again-after-three-and-a-half-months-14-47.html": 1790570447.843795,
+  "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOcXVnaHEzQzFsVWNXdkE5YjhULWdoUjNJV1ktMW1yVVVua1RKT1BHRXVTR1VOSmtOcnNRRFdwNDAzSks3R2g5RzI4MWJSSTVubDhIOTc4SWdVbXZjRmQzZWU1cnp3MVZQeFZnT1FqYkxnRERVbHhPOW1vV3JVUTc1dEN2YzR2UjRqVmtQd2ZvcGN5QW5YOG1LeGFYT19oWHQyRE9xRnRxNkJHRVdNaE4xZWZhUUxsVG1ScEZySmpCN05mVDJRZUE4cHBjYVdUbjBvZDJCSks2X1owcEI5NW9vNEEzMWstRDQ?oc=5": 1790570447.843795,
+  "https://gorkhapatraonline.com/news/224624": 1790570447.843795,
+  "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMjJKSWRjN1lfNlBoQmZzaHpobWx3ZVE4NUxnQmhFN2htakJ1YmUyWlB2alBHOG1kTlVhY1JXS0pPOWhjcGpRaTRyTEl5cTNXdjh6aUtKVko0MVZ2cTR6dnRsTFpFcEtqM0xMOGd2TDVtakhGNTBmcklFV0FkeXdMSWlJT1o3ZEZYSHRUbkJ1N2VyOEc4OVNzLUI2ejdBYS1rYkprNFp4WjB4ZjZKLVJQZ2Exc3BIb1VPRGFVa3dqcGh3X1JOZFRudA?oc=5": 1790570447.843795,
+  "https://gorkhapatraonline.com/news/224621": 1790570447.843795,
+  "https://nagariknews.nagariknetwork.com/diaspora/candlelight-vigil-held-in-london-in-memory-of-bhotekoshi-flood-victims-20-22.html": 1790570447.843795
  },
  "queue": [
   {
@@ -3538,7 +3547,7 @@
     "बाढी"
    ],
    "cat": "society",
-   "hits": 4
+   "hits": 5
   },
   {
    "title": "Many unanswered questions a month after Nepal floods",
@@ -3857,24 +3866,6 @@
    "hits": 2
   },
   {
-   "title": "मौसममा सुधार, २०० मिमिसम्म वर्षा",
-   "summary": "काठमाडौं : २४ घण्टाको अवधिमा मुलुकका केही ठाउँमा २०० मिलिमिटरभन्दा धेरै वर्षा भएको छ । तर, १०० मिमिभन्दा बढी वर्षाले नै नेपालमा विनाश ल्याउने गरेको मौसमविद्हरूले जनाएका छन् ।मौसम पूर्वानुमान महाशाखाका अनुसार गण्डकी...",
-   "link": "http://annapurnapost.com/story/508498",
-   "source": "Annapurna Post",
-   "ts": 1790541646.2410889,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "en": "Improved weather, up to 200 mm rainfall",
-   "ne": "मौसममा सुधार, २०० मिमिसम्म वर्षा",
-   "imp": 2,
-   "tags": [
-    "Rainfall"
-   ],
-   "cat": "disaster",
-   "hits": 2
-  },
-  {
    "title": "सूचनामा विश्वव्यापी पहुँचको अन्तर्राष्ट्रिय दिवस नेपालमा मनाइँदै",
    "summary": "काठमाडौँ। सूचनामा विश्वव्यापी पहुँचका लागि अन्तर्राष्ट्रिय दिवस नेपालमा पनि आज विविध कार्यक्रम आयोजना गरी मनाइँदै छ। प्रत्येक वर्ष सेप्टेम्बर २८ का दिन यो दिवस मनाउने गरिन्छ। सन् २०१९ अक्टोबर १५ मा संयुक्त राष्ट्रसङ्घको...",
    "link": "https://www.ratopati.com/story/595407/international-day-for-universal-access-to-information-is-being-celebrated-in-nepal",
@@ -3928,24 +3919,6 @@
     "Priest"
    ],
    "cat": "culture",
-   "hits": 1
-  },
-  {
-   "title": "जबरा प्रकरणमा गैरकानुनी रवैया",
-   "summary": "पूर्वप्रधानन्यायाधीश चोलेन्द्रशमशेर जबरामाथि राज्य संयन्त्रले केटाकेटी शैलीमा गरेको व्यवहारले मुलुकभित्र अहिले के भइरहेको छ र मुलुक कता जाँदैछ भन्ने प्रस्ट पार्दछ। जबरालाई मध्यराति घरबाट उठाएर लैजाँदा पक्राउ पुर्जी थियो...",
-   "link": "http://annapurnapost.com/story/508497",
-   "source": "Annapurna Post",
-   "ts": 1790541646.2410889,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "en": "Illegal stance in the Jabara case",
-   "ne": "जबरा प्रकरणमा गैरकानुनी रवैया",
-   "imp": 2,
-   "tags": [
-    "JabaraCase"
-   ],
-   "cat": "politics",
    "hits": 1
   },
   {
@@ -4004,7 +3977,7 @@
     "NepalSriLanka"
    ],
    "cat": "sports",
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "नेपाल-श्रीलंका भिडन्त : नेपालको वास्तविक परीक्षा",
@@ -4451,7 +4424,7 @@
     "Kaligandaki"
    ],
    "cat": "disaster",
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "What Caused the Nepal Flood? Scientists Explain",
@@ -6394,7 +6367,7 @@
     "Flights"
    ],
    "cat": "economy",
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "भेरी नदीको टापुमा फसेका चार जनाको हेलिकोप्टरबाट उद्धार",
@@ -7226,6 +7199,44 @@
     "WaterLevel"
    ],
    "cat": "disaster",
+   "hits": 1
+  },
+  {
+   "title": "जापानको कुमामोतोमा भूकम्पपछि ७१ हजारभन्दा बढी घरमा क्षति",
+   "summary": "टोकियो, असोज १२ गते । दक्षिणपश्चिमी जापानको कुमामोतो प्रिफेक्चरमा जुलाई २८ मा गएको शक्तिशाली भूकम्पको दुई महिनापछि पनि एक हजार ५०० भन्दा बढी मानिस आश्रयस्थलमा बसिरहेका स्थानीय सञ्च...",
+   "link": "https://gorkhapatraonline.com/news/224624",
+   "source": "Gorkhapatra",
+   "ts": 1790570274,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/385328/conversions/1785303423-AwTJf-original.jpg",
+   "lang": "ne",
+   "en": "Over 71,000 homes damaged after earthquake in Kumamoto, Japan",
+   "ne": "जापानको कुमामोतोमा भूकम्पपछि ७१ हजारभन्दा बढी घरमा क्षति",
+   "imp": 2,
+   "tags": [
+    "Earthquake",
+    "Kumamoto"
+   ],
+   "cat": "disaster",
+   "hits": 1
+  },
+  {
+   "title": "Hunger Strike at 5,030 Metres: How One Man Fasted on a Mountain to Stop the Next Nepal Flood",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMjJKSWRjN1lfNlBoQmZzaHpobWx3ZVE4NUxnQmhFN2htakJ1YmUyWlB2alBHOG1kTlVhY1JXS0pPOWhjcGpRaTRyTEl5cTNXdjh6aUtKVko0MVZ2cTR6dnRsTFpFcEtqM0xMOGd2TDVtakhGNTBmcklFV0FkeXdMSWlJT1o3ZEZYSHRUbkJ1N2VyOEc4OVNzLUI2ejdBYS1rYkprNFp4WjB4ZjZKLVJQZ2Exc3BIb1VPRGFVa3dqcGh3X1JOZFRudA?oc=5",
+   "source": "Resonate Voices",
+   "ts": 1790570217,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "en": "Hunger Strike at 5,030 Metres: How One Man Fasted on a Mountain to Stop the Next Nepal Flood",
+   "ne": "५,०३० मिटर उचाइमा भोकहड़ताल: बाढी रोक्न पहाडमा उपवास",
+   "imp": 3,
+   "tags": [
+    "भोकहड़ताल",
+    "भविष्यकोबाढी"
+   ],
+   "cat": "society",
    "hits": 1
   }
  ],
@@ -8999,7 +9010,7 @@
    "cat": "world"
   }
  ],
- "updated": 1790569884,
+ "updated": 1790570455,
  "pending_since": 1790569863.4510252,
  "fb_blocks": [
   1790350880.4125228,
