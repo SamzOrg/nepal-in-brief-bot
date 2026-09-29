@@ -3718,7 +3718,11 @@
   "https://www.ratopati.com/story/595692/administrations-proactiveness-to-prevent-food-prices-from-rising-during-festivals": 1790653846.9267955,
   "https://www.onlinekhabar.com/2026/09/2028211/gagan-thapa-unanimously-elected-as-general-convention-representative-bishwaprakash-elected-from-the-election": 1790653846.9267955,
   "https://nagariknews.nagariknetwork.com/politics/baburam-bhattarai-s-comment-it-is-ironic-that-the-government-is-backing-down-on-the-issue-of-catching-big-fish-79-55.html": 1790653846.9267955,
-  "https://gorkhapatraonline.com/news/224739": 1790653846.9267955
+  "https://gorkhapatraonline.com/news/224739": 1790653846.9267955,
+  "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdDBjYWZIdDUzVVgxOEx4c0tlWGdTelhUemNkSTVHamJwbGdTRGM5VU9PSmJvcmd2Y0gtY3ZrZmU1dWpxbmdzSEdiRmF0Ynl0T3ZCU0RmY2V4dmFxRUVOdW82cXdLNmxadFgySzhfQkVVZW83d2J2NncwajNRWjFCcmZWZlJxYTNVMl84WGdVNkg0d0J2V29hMFZuVFQtR2VoSG5NSnJWb1FMaV9tNUFWS213OUpFUUQtZGowTw?oc=5": 1790654475.9234788,
+  "https://news.google.com/rss/articles/CBMixAFBVV95cUxOY1VzQXNDeTB6YmhUZXRucFQ5eGtXTHluS3poZElrTHB5RURvTUV4T1BYQ0UzaVplemtnS3BYUDJCQ3BrRXV2b1VzWmxYMmFPLUVJc3kzQm1KUHJ5T0xWZGozRG1DVExDXzRia1pva2d0ZlBCUWN2S3BicUlQSFczVF9JRkllOTZMdUVabVNOdG9lSnFEVnV1bTkySDExODM2TUhGUDhLbS1sM2xDUkFxTjU2XzlOeS1aNGNReGdhcy12NDBQ?oc=5": 1790654475.9234788,
+  "https://www.ratopati.com/story/595695/bhotekoshi-flood-kaski-provides-over-rs-30-million-in-assistance": 1790654475.9234788,
+  "https://gorkhapatraonline.com/news/224747": 1790654475.9234788
  },
  "queue": [
   {
@@ -3785,7 +3789,7 @@
    "cat": "tech",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "पर्साका विद्यालयलाई सहयोग",
@@ -4025,7 +4029,7 @@
    "cat": "disaster",
    "val": 3,
    "teaser": false,
-   "hits": 4
+   "hits": 5
   },
   {
    "title": "Govt steps up relief, restoration efforts after floods, landslides",
@@ -6619,6 +6623,50 @@
    "val": 1,
    "teaser": true,
    "hits": 1
+  },
+  {
+   "title": "भोटेकोशी बाढी : कास्कीबाट पौने तीन करोड बढी सहयोग",
+   "summary": "कास्की । रसुवाको भोटेकोशी नदीमा गत भदौ १० गते आएको बाढीबाट प्रभावित परिवारको राहत, उद्धार तथा पुनःस्थापनाका लागि कास्कीबाट रु दुई करोड ८३ लाख ५३ हजार ९७७ सहयोग जुटेको छ । जिल्ला प्रशासन कार्यालय कास्कीका अनुसार",
+   "link": "https://www.ratopati.com/story/595695/bhotekoshi-flood-kaski-provides-over-rs-30-million-in-assistance",
+   "source": "Ratopati",
+   "ts": 1790654360,
+   "weight": 3,
+   "img": "https://npcdn.ratopati.com/media/news/trishuli-flood_aCrwcvye1T.webp",
+   "lang": "ne",
+   "en": "Kaski pledges over Rs 3 crore aid for Bhotekoshi flood",
+   "ne": "भोटेकोशी बाढी : कास्कीबाट पौने तीन करोड बढी सहयोग",
+   "imp": 3,
+   "tags": [
+    "Bhotekoshi",
+    "Kaski",
+    "Flood"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "सांसदले गराए बाढीपहिरोबारे ध्यानाकर्षण",
+   "summary": "गोरखापत्र समाचारदाताकाठमाडौँ, असोज १३ गते । प्रतिनिधि सभाको सोमाबारको बैठकमा सांसदले बाढीपहिरोको विषयमा सरकारको ध्यानाकर्षण गराउनुभएको छ । आकस्मिक समयमा एमाले सांसद पद्मा अर्यालले...",
+   "link": "https://gorkhapatraonline.com/news/224747",
+   "source": "Gorkhapatra",
+   "ts": 1790654148,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/385501/conversions/Untitled-1-original.jpg",
+   "lang": "ne",
+   "en": "Lawmakers draw attention to flood and landslide",
+   "ne": "सांसदले गराए बाढीपहिरोबारे ध्यानाकर्षण",
+   "imp": 2,
+   "tags": [
+    "Parliament",
+    "Flood",
+    "Landslide"
+   ],
+   "cat": "politics",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
@@ -8994,7 +9042,7 @@
    "cat": "economy"
   }
  ],
- "updated": 1790653856,
+ "updated": 1790654483,
  "pending_since": 1790653846.9267955,
  "fb_blocks": [
   1790350880.4125228,
