@@ -822,8 +822,13 @@ def balanced_wrap(draw, text, fnt, width):
     return wrap(draw, text, fnt, lo)
 
 
-BULLET_RATIO = 0.62   # bullet text size relative to the headline
-BULLET_GAP = 0.9      # space between headline and bullets, in headline line heights
+BULLET_RATIO = 0.72   # bullet text size relative to the headline
+BULLET_GAP = 0.6      # space between headline and bullets, in headline line heights
+BULLET_LINE_H = 1.22  # bullet line height (x bullet font size)
+BULLET_SPACING = 0.2  # extra space between bullets (x bullet line height)
+POINTS_MARGIN_Y = 20  # the headline + bullets block may use this much more of the panel, top and bottom
+POINTS_PAD_X = 70     # side padding in the headline + bullets layout (narrower than the plain headline's)
+POINTS_MAX_SCALE = 1.25  # headline may grow up to this x the template's max_px to fill the panel
 
 
 def _render_points(d, st, headline, points, x, w, y0, y1, line_h):
@@ -835,11 +840,11 @@ def _render_points(d, st, headline, points, x, w, y0, y1, line_h):
         pl = [wrap(d, p, pf, w - ind) for p in points]
         if any(d.textlength(t, font=hf) > w for t in hl) or any(d.textlength(t, font=pf) > w - ind for b in pl for t in b):
             return None
-        hlh, plh = int(size * line_h), int(pf.size * 1.32)
-        total = len(hl) * hlh + int(hlh * BULLET_GAP) + sum(len(b) for b in pl) * plh + (len(pl) - 1) * int(plh * 0.35)
+        hlh, plh = int(size * line_h), int(pf.size * BULLET_LINE_H)
+        total = len(hl) * hlh + int(hlh * BULLET_GAP) + sum(len(b) for b in pl) * plh + (len(pl) - 1) * int(plh * BULLET_SPACING)
         return hf, pf, hl, pl, ind, hlh, plh, total
 
-    size = st.get("max_px", HEADLINE_MAX_PX)
+    size = int(st.get("max_px", HEADLINE_MAX_PX) * POINTS_MAX_SCALE)
     while size > 36:
         L = layout(size)
         if L and L[-1] <= y1 - y0:
@@ -865,7 +870,7 @@ def _render_points(d, st, headline, points, x, w, y0, y1, line_h):
         for t in b:
             d.text((bx + ind, ty), t, font=pf, fill=colour, stroke_width=max(0, sw - 1), stroke_fill=sf)
             ty += plh
-        ty += int(plh * 0.35)
+        ty += int(plh * BULLET_SPACING)
 
 
 def render(story, theme="dark"):
@@ -902,7 +907,9 @@ def render(story, theme="dark"):
     keys = ("hl",) if story.get("hl") and IG_ONLY else ("en", "ne")
     points = story.get("points") if len(keys) == 1 else None
     if points:  # Instagram-only: headline on top, then the key facts as bullet points
-        _render_points(d, st, story["hl"], points, x, w, y0, y1, line_h)
+        grow = pad_x - POINTS_PAD_X if pad_x > POINTS_PAD_X else 0
+        _render_points(d, st, story["hl"], points, x - grow, w + 2 * grow,
+                       y0 - POINTS_MARGIN_Y, y1 + POINTS_MARGIN_Y, line_h)
         keys = ()
     size = int(st.get("max_px", HEADLINE_MAX_PX) * (1.2 if len(keys) == 1 else 1))
     while keys and size > 40 and height(size) > y1 - y0:
