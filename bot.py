@@ -828,6 +828,7 @@ BULLET_LINE_H = 1.22  # bullet line height (x bullet font size)
 BULLET_SPACING = 0.2  # extra space between bullets (x bullet line height)
 POINTS_MARGIN_Y = 20  # the headline + bullets block may use this much more of the panel, top and bottom
 POINTS_PAD_X = 70     # side padding in the headline + bullets layout (narrower than the plain headline's)
+FEWER_LINES_MAX_SHRINK = 0.15  # take 2 wide headline lines over 3 narrow ones if the text shrinks <= 15%
 POINTS_MAX_SCALE = 1.25  # headline may grow up to this x the template's max_px to fill the panel
 
 
@@ -844,12 +845,19 @@ def _render_points(d, st, headline, points, x, w, y0, y1, line_h):
         total = len(hl) * hlh + int(hlh * BULLET_GAP) + sum(len(b) for b in pl) * plh + (len(pl) - 1) * int(plh * BULLET_SPACING)
         return hf, pf, hl, pl, ind, hlh, plh, total
 
-    size = int(st.get("max_px", HEADLINE_MAX_PX) * POINTS_MAX_SCALE)
-    while size > 36:
+    # every size that fits, biggest first; then prefer fewer headline lines (wide, not a narrow column)
+    # unless that costs more than FEWER_LINES_MAX_SHRINK of the text size
+    fits = []
+    for size in range(int(st.get("max_px", HEADLINE_MAX_PX) * POINTS_MAX_SCALE), 34, -2):
         L = layout(size)
         if L and L[-1] <= y1 - y0:
-            break
-        size -= 2
+            fits.append((size, L))
+    if not fits:
+        fits = [(36, layout(36))]
+    best_size, L = fits[0]
+    for size, cand in fits:
+        if len(cand[2]) < len(L[2]) and size >= best_size * (1 - FEWER_LINES_MAX_SHRINK):
+            L = cand
     hf, pf, hl, pl, ind, hlh, plh, total = L
     ty = y0 + (y1 - y0 - total) // 2
     sw, sf = st.get("stroke_w", TEXT_STROKE), st["stroke"]
