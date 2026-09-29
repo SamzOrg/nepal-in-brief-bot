@@ -3729,7 +3729,12 @@
   "https://www.onlinekhabar.com/2026/09/2028186/both-regional-presidents-of-nepali-congress-elected-unopposed-in-rolpa": 1790652048.6877182,
   "https://nagariknews.nagariknetwork.com/politics/water-and-energy-commission-secretariat-launches-policy-dialogue-97-75.html": 1790652048.6877182,
   "http://annapurnapost.com/story/508577": 1790652048.6877182,
-  "https://gorkhapatraonline.com/news/224736": 1790652048.6877182
+  "https://gorkhapatraonline.com/news/224736": 1790652048.6877182,
+  "https://www.onlinekhabar.com/2026/09/2028187/foreign-minister-khanal-meets-with-sri-lankan-foreign-minister-herath": 1790652663.6274436,
+  "https://www.ratopati.com/story/595690/prithvi-and-bp-highways-in-one-way-operation": 1790652663.6274436,
+  "http://lokaantar.com/story/330044/2026/9/29/tatopani-": 1790652663.6274436,
+  "https://gorkhapatraonline.com/news/224741": 1790652663.6274436,
+  "https://www.ratopati.com/story/595691/flood-damages-singa-hot-spring-a-natural-healing-site": 1790652663.6274436
  },
  "queue": [
   {
@@ -4591,7 +4596,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 8
+   "hits": 9
   },
   {
    "title": "जापानमा ४.९ म्याग्निच्युडको भूकम्प : टोकियोसहितका क्षेत्रमा धक्का",
@@ -4655,7 +4660,7 @@
    "cat": "disaster",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "आजको राशिफल",
@@ -4782,7 +4787,7 @@
    "cat": "disaster",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "अर्थ र सार्वजनिक नीति समितिको बैठक बस्दै",
@@ -6145,6 +6150,28 @@
    ],
    "cat": "sports",
    "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "प्राकृतिक उपचारस्थल सिंगा तातोपानी कुण्डमा बाढीले क्षति",
+   "summary": "म्याग्दी । यही असोज ८ देखि ११ गतेसम्मको अविरल वर्षापछि म्याग्दी नदीमा आएको बाढीले बेनी नगरपालिका-४ मा रहेको प्राकृतिक उपचारस्थल सिंगा तातोपानी कुण्डमा क्षति पुर्याएको छ । तीन वटा पोखरीमध्ये बिरामीहरुले उपचारका लागि...",
+   "link": "https://www.ratopati.com/story/595691/flood-damages-singa-hot-spring-a-natural-healing-site",
+   "source": "Ratopati",
+   "ts": 1790652183,
+   "weight": 3,
+   "img": "https://npcdn.ratopati.com/media/news/bxjfa6peM3.jpg",
+   "lang": "ne",
+   "en": "Flood damages Singa Tatopani Kund, a natural therapy site",
+   "ne": "प्राकृतिक उपचारस्थल सिंगा तातोपानी कुण्डमा बाढीले क्षति",
+   "imp": 2,
+   "tags": [
+    "Flood",
+    "SingaTatopani",
+    "बाढी"
+   ],
+   "cat": "disaster",
+   "val": 3,
    "teaser": false,
    "hits": 1
   }
@@ -8511,8 +8538,8 @@
    "cat": "disaster"
   }
  ],
- "updated": 1790652081,
- "pending_since": null,
+ "updated": 1790652670,
+ "pending_since": 1790652663.6274436,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
