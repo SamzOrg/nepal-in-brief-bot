@@ -28,8 +28,8 @@ BRAND          = "NEPAL IN BRIEF"
 GROQ_X = {"reasoning_effort": "low", "include_reasoning": False}
 GEMINI_X = {"reasoning_effort": "low", "max_completion_tokens": 6000}   # thinking tokens count too
 PROVIDERS = [
-    ("gemini flash", "https://generativelanguage.googleapis.com/v1beta/openai/chat/completions",
-     "GEMINI_API_KEY", "gemini-flash-latest", GEMINI_X),
+    ("gemini flash-lite", "https://generativelanguage.googleapis.com/v1beta/openai/chat/completions",
+     "GEMINI_API_KEY", "gemini-flash-lite-latest", GEMINI_X),   # free tier ~500 req/day (Flash: ~20)
     ("groq gpt-oss-120b", "https://api.groq.com/openai/v1/chat/completions",
      "GROQ_API_KEY",   "openai/gpt-oss-120b",      GROQ_X),
 ]
@@ -61,6 +61,10 @@ MAX_STORIES_PER_RUN = 1 # never more than this many stories in one run (no burst
 BLOCK_COOLDOWN_H = 5    # Meta spam block (error 368): stop posting this long, doubled if it happens again within 48h
 BREAKING_PER_HOUR = 2   # hard cap so a busy news day can't turn into a flood of "breaking" posts
 BREAKING_MAX_AGE_MIN = 90  # only fresh stories can count as breaking
+IG_ONLY        = True     # Instagram-only mode (until Meta business verification): no translation; each
+                          # story is posted in its source's own language, with a fuller headline and a 2-3
+                          # sentence summary written from the article. Set False (and FB_PUBLISH True) to go
+                          # back to the bilingual Facebook + Instagram version (git tag fb-bilingual-v1).
 FB_PUBLISH     = False    # False: don't create a Facebook post (the app isn't published, so posts are
                           # hidden anyway); the image is still uploaded unpublished to get a public URL for Instagram
 ACTIVE_HOURS   = (4, 23)  # Nepal time: regular news only from 04:00 to 23:00, daily limits spread evenly
@@ -468,8 +472,14 @@ NEW:
 """
 
 
+PROMPT_NO_T = re.sub(r'- "t": .*?(?=\n- "d")', "", PROMPT, flags=re.S) \
+    .replace("Translate news headlines for a Nepal news page and flag duplicates.",
+             "Score news headlines for a Nepal news page and flag duplicates.") \
+    .replace('"t": "...", ', "")
+
+
 def llm_translate(batch, existing, prefer_gemini=False):
-    prompt = PROMPT.format(
+    prompt = (PROMPT_NO_T if IG_ONLY else PROMPT).format(
         existing="\n".join(f"E{i}: {t}" for i, t in enumerate(existing)) or "(none)",
         new="\n".join(f"{i} [{b['lang']}] {b['title']}" for i, b in enumerate(batch)))
     order = PROVIDERS  # Gemini first, Groq as backup
@@ -590,6 +600,51 @@ def same_event(s, recent):
         return None
 
 
+PROMPT_ENRICH = """You write Instagram news posts for "Nepal In Brief". Using ONLY facts stated in the article
+below, write in {lang_name} (the article's language; do not translate):
+- "h": one complete headline that gives the reader the real news on its own: who, what, where, numbers,
+  decisions. Max 110 characters, news-headline style, no clickbait, no "here is...", no quotes.{nepali_style}
+- "s": a 2-3 sentence summary (max 320 characters) with the key facts a reader needs, plain and neutral.
+If the article text does not contain real facts for this headline, return {{"ok": false}}.
+Respond with JSON only: {{"ok": true, "h": "...", "s": "..."}}
+
+HEADLINE: {headline}
+
+ARTICLE:
+{article}
+"""
+NEPALI_STYLE = ("\n  Nepali: natural Onlinekhabar/Kantipur headline style, standard spelling, Nepali digits (१२).")
+
+
+def enrich(s):
+    """Instagram-only mode: rewrite the headline from the article body and add a short summary, in the
+    story's own language. Returns False only for a teaser that couldn't be completed (skip it)."""
+    ne = s.get("lang") == "ne" or bool(DEVA.search(s.get("hl") or s["en"]))
+    body = article_text(s["link"])
+    if len(body) < 200:
+        if s.get("teaser"):
+            log(f"teaser, article text unavailable, skipping: {s['en'][:70]}")
+            return False
+        return True  # post the original headline, no summary
+    j = llm_json(PROMPT_ENRICH.format(lang_name="Nepali (Devanagari)" if ne else "English",
+                                      nepali_style=NEPALI_STYLE if ne else "",
+                                      headline=s.get("hl") or s["en"], article=body), max_out=700)
+    if not j or not j.get("ok") or not j.get("h"):
+        if s.get("teaser"):
+            log(f"teaser, no specifics found in article, skipping: {s['en'][:70]}")
+            return False
+        return True
+    h, summ = strip_media_tag(clean(j["h"])), clean(j.get("s") or "")
+    same_lang = bool(DEVA.search(h)) == ne
+    if foreign_script(h, summ) or len(h) > 160 or not same_lang:
+        log(f"enrich result rejected: {h[:80]}")
+        return not s.get("teaser")
+    log(f"enriched: '{(s.get('hl') or s['en'])[:60]}' -> '{h}'")
+    s["hl"], s["summary_ai"], s["teaser"] = h, summ[:400], False
+    s["en"] = s["ne"] = h
+    return True
+
+
 def translate(batch, existing, prefer_gemini=False):
     """Raises if both models fail; caller then leaves the items unseen so the next run retries."""
     res = llm_translate(batch, existing, prefer_gemini)
@@ -597,7 +652,11 @@ def translate(batch, existing, prefer_gemini=False):
     out = []
     for i, b in enumerate(batch):
         t, d, imp, tags, cat, val, teaser = res.get(i, ("", None, None, None, None, None, None))
-        if t:
+        if IG_ONLY and i in res:  # no translation: the story keeps its source language
+            t, b["hl"] = b["title"], b["title"]
+            b["en"] = b["ne"] = b["title"]
+            b["dup"] = d
+        elif t:
             t = strip_media_tag(clean(t))
             if foreign_script(t):
                 continue
@@ -608,18 +667,20 @@ def translate(batch, existing, prefer_gemini=False):
                 continue
             b["en"], b["ne"] = (t, b["title"]) if b["lang"] == "ne" else (b["title"], t)
             b["dup"] = d
-            try:
-                b["imp"] = min(5, max(1, int(imp)))
-            except (TypeError, ValueError):
-                b["imp"] = None  # unknown: treated as 3
-            b["tags"] = [clean_tag(x) for x in tags if clean_tag(x)][:4] if isinstance(tags, list) else []
-            b["cat"] = str(cat).lower() if cat else None
-            try:
-                b["val"] = min(3, max(1, int(val)))   # headline substance, 1-3
-            except (TypeError, ValueError):
-                b["val"] = None                        # unknown: allowed
-            b["teaser"] = teaser is True or str(teaser).lower() == "true"
-            out.append(b)
+        else:
+            continue
+        try:
+            b["imp"] = min(5, max(1, int(imp)))
+        except (TypeError, ValueError):
+            b["imp"] = None  # unknown: treated as 3
+        b["tags"] = [clean_tag(x) for x in tags if clean_tag(x)][:4] if isinstance(tags, list) else []
+        b["cat"] = str(cat).lower() if cat else None
+        try:
+            b["val"] = min(3, max(1, int(val)))   # headline substance, 1-3
+        except (TypeError, ValueError):
+            b["val"] = None                        # unknown: allowed
+        b["teaser"] = teaser is True or str(teaser).lower() == "true"
+        out.append(b)
     return out
 
 
@@ -738,17 +799,18 @@ def render(story, theme="dark"):
 
     def height(size):  # both languages share the space; same font size for both
         f = font(FONT_BOLD, size)
-        blocks = [wrap(d, story[k], f, w) for k in ("en", "ne")]
+        blocks = [wrap(d, story[k], f, w) for k in keys]
         if any(d.textlength(line, font=f) > w for bl in blocks for line in bl):
             return 10 ** 6
-        return sum(len(bl) for bl in blocks) * int(size * line_h) + gap
+        return sum(len(bl) for bl in blocks) * int(size * line_h) + (gap if len(keys) > 1 else 0)
 
-    size = st.get("max_px", HEADLINE_MAX_PX)
+    keys = ("hl",) if story.get("hl") and IG_ONLY else ("en", "ne")
+    size = int(st.get("max_px", HEADLINE_MAX_PX) * (1.2 if len(keys) == 1 else 1))
     while size > 40 and height(size) > y1 - y0:
         size -= 2
     f, lh = font(FONT_BOLD, size), int(size * line_h)
-    blocks = [balanced_wrap(d, story[k], f, w) for k in ("en", "ne")]
-    ty = y0 + (y1 - y0 - (sum(len(bl) for bl in blocks) * lh + gap)) // 2
+    blocks = [balanced_wrap(d, story[k], f, w) for k in keys]
+    ty = y0 + (y1 - y0 - (sum(len(bl) for bl in blocks) * lh + (gap if len(keys) > 1 else 0))) // 2
     for i, bl in enumerate(blocks):
         for line in bl:
             lx = x + (w - d.textlength(line, font=f)) // 2
@@ -756,7 +818,7 @@ def render(story, theme="dark"):
             d.text((lx, ty), line, font=f, fill=colour, stroke_width=st.get("stroke_w", TEXT_STROKE),
                    stroke_fill=st["stroke"])
             ty += lh
-        if i == 0:  # small red divider between English and Nepali
+        if i == 0 and len(blocks) > 1:  # small red divider between English and Nepali
             my = ty + gap // 2 - lh * 0.08
             d.line([(627 - 190, my), (627 + 190, my)], fill=(220, 30, 45), width=4)
             ty += gap
@@ -860,6 +922,13 @@ def captions(s):
     ig = (f"{s['en']}\n\n"
           f"Source: {s['source']}\n"
           f"Full story: {s['link']}\n\n{' '.join(en_story + brand)}")
+    if IG_ONLY:  # source language only: headline, summary, source, link
+        ne = bool(DEVA.search(s.get("hl") or ""))
+        summ = s.get("summary_ai") or ""
+        src, more = ("स्रोत", "पूरा समाचार") if ne else ("Source", "Full story")
+        ig = (f"{s.get('hl') or s['en']}\n\n" + (f"{summ}\n\n" if summ else "") +
+              f"{src}: {s['source']}\n{more}: {s['link']}\n\n{' '.join(story + brand)}")
+        fb = ig
     return fb, ig
 
 
@@ -1005,13 +1074,16 @@ def main():
     ig_24 = sum(p.get("n_ig", 0) for p in posted if p["ts"] > now - 86400)
     log(f"queue {len(queue)} | last 24h: FB {fb_24}, IG {ig_24}")
 
+    def urgent(q):  # urgent keyword, English or Nepali (Nepali-only stories in Instagram-only mode)
+        return bool(BREAKING.search(q["en"]) or CRITICAL.search(q["en"]) or CRITICAL.search(q.get("ne") or ""))
+
     def is_breaking(q):  # fresh AND (several outlets on it at once, or an urgent keyword)
         fresh = time.time() - q["ts"] <= BREAKING_MAX_AGE_MIN * 60
         imp = q.get("imp")
         if imp is None:  # no AI score: urgent keyword decides
-            return fresh and bool(BREAKING.search(q["en"]))
+            return fresh and urgent(q)
         # AI score 5 is always breaking; 4 needs an urgent keyword AND 2+ outlets reporting it
-        return fresh and (imp >= 5 or (imp >= 4 and q["hits"] >= 2 and bool(BREAKING.search(q["en"]))))
+        return fresh and (imp >= 5 or (imp >= 4 and q["hits"] >= 2 and urgent(q)))
 
     def impact(q):
         return q.get("imp") or 3
@@ -1134,7 +1206,17 @@ def main():
             posted.append({"ts": time.time(), "en": s["en"], "ne": s["ne"], "link": s["link"],
                            "source": s["source"], "n_fb": 0, "n_ig": 0})
             continue
-        if s.get("teaser") and not DRY and teaser_tries >= TEASER_TRIES_PER_RUN:
+        if IG_ONLY and not s.get("hl"):  # queued before the switch: use the original-language headline
+            s["hl"] = s.get("title") or (s["ne"] if s.get("lang") == "ne" else s["en"])
+            s["en"] = s["ne"] = s["hl"]
+        if IG_ONLY and not DRY:
+            if not enrich(s):
+                if breaking:
+                    n_breaking -= 1
+                else:
+                    n_normal -= 1
+                continue
+        elif s.get("teaser") and not DRY and teaser_tries >= TEASER_TRIES_PER_RUN:
             queue.append(s)  # out of tries this run: keep it for the next one
             break
         teaser_tries += bool(s.get("teaser"))
@@ -1150,13 +1232,16 @@ def main():
             posted.append(rec)  # recorded BEFORE posting: a crash can never cause a repeat
             save(state, seen, queue, posted)
         s["en"], s["ne"] = strip_media_tag(clean(s["en"])), strip_media_tag(clean(s["ne"]))
-        if foreign_script(s["en"], s["ne"], s["source"]) or DEVA.search(s["en"]) or not DEVA.search(s["ne"]):
+        if foreign_script(s["en"], s["ne"], s["source"]) or (
+                not IG_ONLY and (DEVA.search(s["en"]) or not DEVA.search(s["ne"]))):
             log(f"skipping, English/Nepali lines wrong or untranslated: {s['en'][:60]} ({s['source']})")
             if breaking:
                 n_breaking -= 1
             else:
                 n_normal -= 1
             continue
+        if IG_ONLY:
+            s["hl"] = s["en"]
         s["post_ts"] = time.time()
         s["_photo"] = load_photo(s)
         s["_breaking"] = breaking
