@@ -3752,7 +3752,11 @@
   "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5MdGtiU0pkLVBqckkzbkVjOGZYUkhuQ21RQm1STEsza0FIQzFWWFFwMmRGSV96Q3FqMlJlRFQxNkxXYXgzRUFGRnJKbG1yb3Ry?oc=5": 1790649065.1226437,
   "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPd2cwQXRuRjRNNkhNZTdjdHRGQUVIR25iLWVrYmMtSURlUHljZHR2ODl5M1JmVXQyaWo1UWc2bEFxUFllM0NLdnc1cGFCSVBSX3JGUExnZldScFpYOFFyRWFqT0VTRFpySmVtaERHUWpXLVRSRmpoeXhVLU91Z0Vtckp5Ml9pSF9mWG8xV0xfeWIzU3lpU3hqNldxNUxleWloRGdmUEJsS2d3UnFuRjhPdTlzVThLbG9KMXJVYjhBeHU3QTIxQ2lncGowUTBfTG03S2Rr?oc=5": 1790649065.1226437,
   "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPb3ZWRURZdVpFY3pIMUs3UEhUdGdOVmNXZ3pQZ3ZnOXNiUGlLSU40U3dfbHN0YUFZdl9fNE82RUp5TG4tVlBJalRoN1RrN1poTE5WNG54ZnF2VDBsODNpNExBTG0zb2wyX0RjVHVmNTBCR1VwRDJhQVJMV3N5UF9NWE8yMG1zVVBmRjFsQzdzcXRLUUNZWW1rdFY3S3Z1VzZDRENkTElVRVlqdw?oc=5": 1790649065.1226437,
-  "https://www.ratopati.com/story/595683/one-person-trapped-after-landslide-buries-house-rescued-safely": 1790649065.1226437
+  "https://www.ratopati.com/story/595683/one-person-trapped-after-landslide-buries-house-rescued-safely": 1790649065.1226437,
+  "https://khabarhub.com/2026/29/1030575/": 1790649223.497785,
+  "https://nagariknews.nagariknetwork.com/politics/foreign-minister-khanal-meets-with-sri-lankan-foreign-minister-herath-57-82.html": 1790649223.497785,
+  "https://nagariknews.nagariknetwork.com/social-affairs/baglung-landslide-death-toll-reaches-12-one-still-missing-61-87.html": 1790649223.497785,
+  "https://nagariknews.nagariknetwork.com/social-affairs/bhotekoshi-flood-a-smile-on-the-lips-and-an-indelible-wound-in-the-heart-42-74.html": 1790649223.497785
  },
  "queue": [
   {
@@ -3776,28 +3780,6 @@
    "val": 3,
    "teaser": false,
    "hits": 3
-  },
-  {
-   "title": "Video Emerges From Snow-Covered Nepal Peak Where 4 Died In Avalanche",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQWdxdzh4bkd0TjhLY0U3alNaSVpTc2NXcXp5TU5lZDVqUGxRV1pQRzRreVhLaHluc2pTcE5tcjJZZXNNc2JCYXlrYXpFb1phd3ZHd3VFRkpBMm5UWXJpYy1TWjhMQ1BlbzBWbWRFZjhFZkIweE9FaHhEM01ScHdOQ2c0MGNudXJXYnUyQVNVN1NBbDV1VlUzMThWTE9LUGhUbmxOcS1SZWFHNkNKZEHSAbYBQVVfeXFMTUQxS015Q1BOOE02R1dTckFlb2FzZXZtVEROcFpyODYxNG5BTG5VbGdHbEU0Zlh3TGFWMXMxM1B1NmFsdFUtMmMtZWNEX19yRmFOV3NnY3pWQ3FFS3lxVjFDOG45OEwtdTJiamwzYW8tTkxOTExyX0JPcjhySkZsaHRuMC1wNm52bVNCaGQtMXlHdjZERkdjR3Q3ZWc0ZHR1RTluZ2pzM0F5QmdkVHI3bWlZODhBalE?oc=5",
-   "source": "NDTV",
-   "ts": 1790620407,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "en": "Video Emerges From Snow-Covered Nepal Peak Where 4 Died In Avalanche",
-   "ne": "हिमाच्छादित शिखरमा ४ जनाको मृत्यु भएको हिमस्खलनको भिडियो देखियो",
-   "imp": 3,
-   "tags": [
-    "Avalanche",
-    "Video",
-    "हिमस्खलन"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
   },
   {
    "title": "Nepal Landslide: 2 dead and at least 10 missing as search efforts continue",
@@ -4190,7 +4172,7 @@
    "cat": "disaster",
    "val": 3,
    "teaser": false,
-   "hits": 5
+   "hits": 6
   },
   {
    "title": "Homestays, heritage trails boost Lamjung's Singdi tourism growth",
@@ -4765,7 +4747,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 4
+   "hits": 6
   },
   {
    "title": "जापानमा ४.९ म्याग्निच्युडको भूकम्प : टोकियोसहितका क्षेत्रमा धक्का",
@@ -5485,6 +5467,28 @@
    ],
    "cat": "disaster",
    "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "भोटेकोशी बाढी : ओठको मुस्कान र मनभरि नमेटिने घाउ",
+   "summary": "उनको आँखामा कुनै गुनासोभन्दा ठूलो एउटा शून्यता छ। केही दिनअघिसम्म भरिभराउ रहेको उनको संसार अहिले एउटा त्रिपालभित्र खुम्चिएको छ।...",
+   "link": "https://nagariknews.nagariknetwork.com/social-affairs/bhotekoshi-flood-a-smile-on-the-lips-and-an-indelible-wound-in-the-heart-42-74.html",
+   "source": "Nagarik News",
+   "ts": 1790646696,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2026/third-party/1790648229_Flood%20Update.jpg",
+   "lang": "ne",
+   "en": "Bhotekoshi flood: a smile on the lips, wounds that linger in the heart",
+   "ne": "भोटेकोशी बाढी : ओठको मुस्कान र मनभरि नमेटिने घाउ",
+   "imp": 2,
+   "tags": [
+    "BhotekoshiFlood",
+    "HeartWounds",
+    "भोटेकोशी"
+   ],
+   "cat": "disaster",
+   "val": 2,
    "teaser": false,
    "hits": 1
   }
@@ -7818,7 +7822,7 @@
    "cat": "sports"
   }
  ],
- "updated": 1790649070,
+ "updated": 1790649230,
  "pending_since": 1790649065.1226437,
  "fb_blocks": [
   1790350880.4125228,
