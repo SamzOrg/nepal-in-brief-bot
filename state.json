@@ -1,13 +1,5 @@
 {
  "seen": {
-  "https://khabarhub.com/2026/27/1029620/": 1790475042.0553844,
-  "https://www.onlinekhabar.com/2026/09/2026540/fly-dubais-pokhara-dubai-flight-is-exciting": 1790475042.0553844,
-  "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTUtyMERYQmFha0ozUDBPUFRuN3hlUU1RSmxYdTlxMGNITm9ZZ25aWm1leVYyaGxnSnhEbWowemNXZ0RFOXdFQm11S3Zmek5wUTNxSmNBYlBHMFpjWVBkOHBtS2czSjNMMFpON0ZseVpHbjBNYTV2eWoyQ3lMNjRZTlQ1Q2ltZEc1YWkxbDgxcUlwV0xHWlYxNUZpYWdmTGM?oc=5": 1790475042.0553844,
-  "http://lokaantar.com/story/329863/2026/9/27/flood-": 1790475042.0553844,
-  "https://www.onlinekhabar.com/2026/09/2026545/landslides-at-two-places-on-kantilokpath": 1790475042.0553844,
-  "https://baahrakhari.com/detail/502843": 1790475042.0553844,
-  "https://www.ratopati.com/story/595168/landslide-buries-house-in-giwang-myagdi-2-people-missing": 1790475042.0553844,
-  "https://kathmandupost.com/national/2026/09/27/khanal-meets-uae-counterpart-thanks-abu-dhabi-for-25m-flood-aid": 1790475042.0553844,
   "https://gorkhapatraonline.com/news/224447": 1790475647.4958973,
   "https://english.khabarhub.com/2026/27/569404/": 1790475647.4958973,
   "https://nagariknews.nagariknetwork.com/social-affairs/flood-washes-away-bridge-in-mirmi-58-85.html": 1790475647.4958973,
@@ -3754,7 +3746,13 @@
   "https://gorkhapatraonline.com/news/224718": 1790647279.466244,
   "https://nagariknews.nagariknetwork.com/politics/cheating-on-cooperatives-and-getting-into-trouble-abroad-27-55.html": 1790647279.466244,
   "https://www.onlinekhabar.com/2026/09/2028144/right-to-information-implementation-weak-in-salyan-government-offices": 1790647279.466244,
-  "https://nagariknews.nagariknetwork.com/editorial/road-noise-13-85.html": 1790647279.466244
+  "https://nagariknews.nagariknetwork.com/editorial/road-noise-13-85.html": 1790647279.466244,
+  "https://gorkhapatraonline.com/news/224726": 1790647854.6300619,
+  "https://www.ratopati.com/story/595681/baglung-landslide-update-death-toll-reaches-12": 1790647854.6300619,
+  "https://khabarhub.com/2026/29/1030569/": 1790647854.6300619,
+  "http://lokaantar.com/story/330038/2026/9/29/baglung-pahiro-": 1790647854.6300619,
+  "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5QNU1FY1ZKbTZVaFRzeV8xeEM5YXBxZ1gzZlppRnV3OWhTdGEyWThtc0k4bk9WWkdCbTdBdWdXT1VvTktSd1BZTUNPWVRTSmFQbEp4VjdOTDZHNzN6Q0tvR0taNDVwbnPSAVxBVV95cUxQbUJfTGdTcjBrMEpEQmw4WGlCSmxmRmVJdFgzRm9UMklMSnh5VTZBZ2JCRjM0QXdza1Q5WHBZV2Z5WENLTTRlUkE0LWRJN1BxQVZUV0pTRXFjTEMtNg?oc=5": 1790647854.6300619,
+  "https://www.onlinekhabar.com/2026/09/2028154/baglung-floods-and-landslides-death-toll-reaches-12-one-more-missing": 1790647854.6300619
  },
  "queue": [
   {
@@ -4194,25 +4192,26 @@
    "hits": 1
   },
   {
-   "title": "म्याग्दी पहिरोमा मृतकको सङ्ख्या ७ पुग्यो",
-   "summary": "असोज ८ देखि ११ गतेसम्मको निरन्तरको झरीपछिको पहिरोका कारण म्याग्दीमा ज्यान गुमाउनेको सङ्ख्या सात पुगेको छ ।विपद्मा परी दुई जना बेपत्ता भएका छन् । पहिरोको जोखिममा रहेको अन्नपूर्ण गाउँपालिका-५ पाउद्वार, गिवाङ, नेपाने,...",
-   "link": "http://lokaantar.com/story/330030/2026/9/29/dead-",
-   "source": "Lokaantar",
+   "title": "बागलुङ बाढीपहिरो : मृतकको संख्या १२ पुग्यो, अझै एक जना बेपत्ता",
+   "summary": "पछिल्लो तीन दिनयता बागलुङको विभिन्न स्थानमा गएको पहिरोले घर पुरिँदा १२ जनाको मृत्यु भएको छ भने एक जना अझै बेपत्ता छन् ।",
+   "link": "https://www.onlinekhabar.com/2026/09/2028154/baglung-floods-and-landslides-death-toll-reaches-12-one-more-missing",
+   "source": "Onlinekhabar",
    "ts": 1790627465.475686,
-   "weight": 2,
-   "img": null,
+   "weight": 3,
+   "img": "https://www.onlinekhabar.com/wp-content/uploads/2020/07/Baglung-Pahiro.jpg",
    "lang": "ne",
-   "en": "Myagdi landslide death toll remains at 7",
-   "ne": "म्याग्दी पहिरोमा मृतकको सङ्ख्या ७ पुग्यो",
+   "en": "Baglung flood and landslide death toll reaches 12, one still missing",
+   "ne": "बागलुङ बाढीपहिरो : मृतकको संख्या १२ पुग्यो, अझै एक जना बेपत्ता",
    "imp": 4,
    "tags": [
-    "Landslide",
-    "Myagdi"
+    "Baglung",
+    "FloodLandslide",
+    "पहिरो"
    ],
    "cat": "disaster",
-   "val": 2,
+   "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 4
   },
   {
    "title": "Homestays, heritage trails boost Lamjung's Singdi tourism growth",
@@ -4975,27 +4974,6 @@
     "Highways"
    ],
    "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Nepal knocked out after Asian Games cricket match washed out",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE92MTlDLXg4TTcyQjNBSzUxb2tac3liZEJXMzhpLVpRdHF4NlpKZUprWURMZWhRVWRMN0lzRTBUNU5PZXViVUpzcEdydEt2djMtck5PYWYxX1U?oc=5",
-   "source": "english.khabarhub.com",
-   "ts": 1790646069,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "en": "Nepal knocked out after Asian Games cricket match washed out",
-   "ne": "बाढीले एशियन गेम्स क्रिकेट म्याच रद्द, नेपाल टुर्नामेन्टबाट बाहिर",
-   "imp": 4,
-   "tags": [
-    "Cricket",
-    "AsianGames"
-   ],
-   "cat": "sports",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -7522,10 +7500,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "disaster"
+  },
+  {
+   "ts": 1790647861.9902284,
+   "en": "Nepal knocked out after Asian Games cricket match washed out",
+   "ne": "बाढीले एशियन गेम्स क्रिकेट म्याच रद्द, नेपाल टुर्नामेन्टबाट बाहिर",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE92MTlDLXg4TTcyQjNBSzUxb2tac3liZEJXMzhpLVpRdHF4NlpKZUprWURMZWhRVWRMN0lzRTBUNU5PZXViVUpzcEdydEt2djMtck5PYWYxX1U?oc=5",
+   "source": "english.khabarhub.com",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "sports"
   }
  ],
- "updated": 1790647293,
- "pending_since": null,
+ "updated": 1790647875,
+ "pending_since": 1790647854.6300619,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
