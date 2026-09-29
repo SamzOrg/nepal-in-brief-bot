@@ -3747,93 +3747,14 @@
   "https://www.ratopati.com/story/595824/asian-games-nepali-archery-team-medalless-despite-improvement-in-individual-performance": 1790676651.5767484,
   "https://www.ratopati.com/story/595822/esewa-launches-buy-now-pay-later-service-digital-loans-up-to-rs-2-lakh": 1790676651.5767484,
   "https://www.ratopati.com/story/595821/skills-in-education-program-implemented-in-limchungbung": 1790676651.5767484,
-  "https://www.ratopati.com/story/595819/fear-of-load-shedding-in-winter": 1790676651.5767484
+  "https://www.ratopati.com/story/595819/fear-of-load-shedding-in-winter": 1790676651.5767484,
+  "https://english.khabarhub.com/2026/29/569880/": 1790677251.7453942,
+  "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYTQ0TEpnT3BsUGNIWGZBY1lqRGoxT1JMU3pob2hLMlVFdnVNY1dNOUxNTl9jREdxSEFZZHMwM2dIb0FPNlBCa2NoMldweW50LVFxeTU3ZExvSk96QlFycmhsZl9tdEh6VTN1Rk9MYlI2WUZjQXdnUVROQWtjeFRPcVJsMDlQR3lwdk1UYWtnTVVZeVpFV1ZfaQ?oc=5": 1790677251.7453942,
+  "https://news.google.com/rss/articles/CBMivwFBVV95cUxOeFpmRUc4M3RFWjhHRm1vMEt5Y3ZvMldiaW4zNHVWUjc5N21feFpEM3hfYVJSOGRualNianAxUlZ6Vm9sckJnS2ZHTGpxaHNOek16SENwUnBWZHlKQ3ZLaFdBUmZNUU04SkFhakRHNENwS1VNOXNJRGtKZFVTM3FLMTljUGNHSWVMeHhJb1NrVFFSeno0LUVKRDVNS3RkeUxVbzdWMkZrWWE2U1RMbFF4MjlsMm1oTmlHNC1fM29wNA?oc=5": 1790677251.7453942,
+  "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSzV2eWVsLXZXWGNHOGNaTWtSbTdqdVpGU1pQelZiMEc5WnhKeVpvd0tSbzdQQ2ZlNmhCSFQ1R3lpbm9SNFF2aHBWOVY4T1ZKWDNVT01YamUtRXJRTEt1X2dkeUpFUjRFMklXTWh0TWxUS3pYTXRXOWFkcXB6RjB3SGlOWVZtb09Oa2V0VUJ0OV9vQQ?oc=5": 1790677251.7453942,
+  "https://thehimalayantimes.com/nepal/bp-highway-reopens-after-four-day-closure-caused-by-floods-slides": 1790677251.7453942
  },
  "queue": [
-  {
-   "title": "Nepal-China Cooperation In Emergencies",
-   "summary": "Nepal faces a complex security environment shaped by natural disasters, cyber threats and geopolitical competition. It n...",
-   "link": "https://risingnepaldaily.com/news/87157",
-   "source": "Rising Nepal",
-   "ts": 1790648412,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "en": "Nepal-China Cooperation In Emergencies",
-   "ne": "विपद् व्यवस्थापनमा नेपाल-चीन सहकार्य",
-   "imp": 2,
-   "tags": [
-    "NepalChina",
-    "DisasterManagement"
-   ],
-   "cat": "disaster",
-   "val": 1,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "हामीले विद्यार्थीलाई कस्तो नागरिक बनाउने हो?",
-   "summary": "बालविकासदेखि उच्च माध्यमिकसम्मको शैक्षिक यात्रा पूरा गरेका विद्यार्थीहरू हामी कस्ता नागरिक बनेका देख्न चाहन्छौं? विद्यार्थीले पढेर कति कुरा जानेका छन् भन्दा पनि तिनले के बुझेका छन्, कसरी सोच्छन् र समस्या कसरी हल गर्छन्...",
-   "link": "https://www.setopati.com/opinion/399470",
-   "source": "Setopati",
-   "ts": 1790648291,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "en": "What kind of citizens are we preparing students to be?",
-   "ne": "हामीले विद्यार्थीलाई कस्तो नागरिक बनाउने हो?",
-   "imp": 2,
-   "tags": [
-    "Education",
-    "NepalStudents"
-   ],
-   "cat": "education",
-   "val": 1,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Economic Digest: A Snapshot of Nepal's Business News",
-   "summary": "KATHMANDU: Economic Digest presents a brief yet comprehensive roundup of major business developments in Nepal, delivered in clear and accessible summaries. Nepal's economy is facing simultaneous pressures from...",
-   "link": "https://english.khabarhub.com/2026/29/569752/",
-   "source": "Khabarhub EN",
-   "ts": 1790648134,
-   "weight": 2,
-   "img": "https://english.khabarhub.com/wp-content/uploads/2024/05/Economic-Digest-640x360.jpg",
-   "lang": "en",
-   "en": "Economic Digest: A Snapshot of Nepal's Business News",
-   "ne": "नेपालको आर्थिक तथा व्यावसायिक क्षेत्रको संक्षिप्त झलक",
-   "imp": 2,
-   "tags": [
-    "NepalEconomy",
-    "BusinessNews"
-   ],
-   "cat": "economy",
-   "val": 1,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Nepali tennis players gain valuable experience at Asiad",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE55LTJBQWc3TERzLUlxd1RfenFoZ3RZUlNGbXFSVW5NWXA2b1RBRmFqeE1CZjlEWmx0MXJzN0wyWnJUcmkxTmd1QTBHMm9GYkcx?oc=5",
-   "source": "The Rising Nepal",
-   "ts": 1790648088,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "en": "Nepali tennis players gain valuable experience at Asiad",
-   "ne": "एसियाली खेलकुदबाट नेपाली टेनिस खेलाडीलाई महत्त्वपूर्ण अनुभव",
-   "imp": 2,
-   "tags": [
-    "AsianGames",
-    "NepalTennis"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
   {
    "title": "पहिरोले घर पुरिँदा च्यापिएका एक जनाको सकुशल उद्धार",
    "summary": "पर्वत । जलजला गाउँपालिका-७, लामाबगरमा सुख्खा पहिरोले घर पुरिँदा च्यापिएका एक जनाको सकुशल उद्धार गरिएको छ। आज बिहान करिब ०५:३० बजे माथिबाट ढुङ्गा-माटोसहितको सुख्खा पहिरो खस्दा सोही स्थान बस्ने अन्दाजी ६५ वर्षीय आत्माराम...",
@@ -4070,27 +3991,6 @@
    "hits": 1
   },
   {
-   "title": "New Disaster in Nepal",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbWNHVEQwSzd0QlZlbFNFR2MxNU1qVEFfQ3loVFVwRkRycGRXZFZ4V3UwaEp3eTVpQ0M1aHVzMjFXQlZCb0ZQVnd0QjNKbHNyQkxManhrRzl0UzNJcUY0OFdPa2xHbmxScTNQRVlwLXVFYjQzUHViSlB3QVlmNzVhOEtORFhONk1ma2p0R0Jn?oc=5",
-   "source": "Daily Kos",
-   "ts": 1790648167,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "en": "New Disaster in Nepal",
-   "ne": "नेपालमा नयाँ आपतकालीन स्थिति",
-   "imp": 4,
-   "tags": [
-    "Disaster",
-    "Nepal"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "मनास्लु पदमार्ग खुला, सतर्कता अपनाएर यात्रा गर्न प्रशासनको आग्रह",
    "summary": "सुलीकोट (गोरखा), असोज १३ गते । लगातारको वर्षाका कारण केही दिनदेखि रोकिएको मनास्लु संरक्षण क्षेत्रअन्तर्गतको मनास्लु पदयात्रा पुनः सञ्चालनमा आएको छ । मौसममा सुधार आएपछि मनास्लु संरक...",
    "link": "https://gorkhapatraonline.com/news/224732",
@@ -4152,27 +4052,6 @@
    "val": 3,
    "teaser": false,
    "hits": 3
-  },
-  {
-   "title": "रित्ता घरको अर्थशास्त्र, माटोमा मिल्दैछ १० खर्ब",
-   "summary": "एउटा घर निर्माणमा सरदर २ लाख रुपैयाँको हिसाब लगाउने हो भने नेपालमा झण्डै १० खर्ब लगानीको भौतिक संरचना प्रयोगविहीन छ । यो संरचना हरेक दिन ढलिरहेको छ । एउटा संरचना ढल्दा कम्तीमा २ लाख रुपैयाँ माटोमा मिलिरहेको छ ।",
-   "link": "https://www.onlinekhabar.com/2026/09/2028007/the-economics-of-an-empty-house-1-trillion-is-being-turned-into-dust",
-   "source": "Onlinekhabar",
-   "ts": 1790648109,
-   "weight": 3,
-   "img": "https://www.onlinekhabar.com/wp-content/uploads/2026/09/Chetan-Adhikari-1.png",
-   "lang": "ne",
-   "en": "Ritta house economics, 10 trillion mixing in soil",
-   "ne": "रित्ता घरको अर्थशास्त्र, माटोमा मिल्दैछ १० खर्ब",
-   "imp": 1,
-   "tags": [
-    "RittaHouse",
-    "Economics"
-   ],
-   "cat": "economy",
-   "val": 1,
-   "teaser": false,
-   "hits": 1
   },
   {
    "title": "इतिहास रच्ने अवसर",
@@ -7032,27 +6911,6 @@
    "hits": 1
   },
   {
-   "title": "पूर्वप्रधानन्यायाधीश पक्राउ प्रकरण : एसएसपी खड्कापछि गृहमन्त्री र आईजीपीसँग सोधपुछको तयारी",
-   "summary": "काठमाडौं : पूर्वप्रधानन्यायाधीश चोलेन्द्रशमशेर जबरालाई प्रहरी हिरासतमा भेट्न नदिएपछि खेद व्यक्त गरेको राष्ट्रिय मानव अधिकार आयोगले थप अनुसन्धान गर्ने भएको छ।दुई पाटोबाट अनुसन्धान गर्ने क्रममा गृहमन्त्री सुधन गुरुङसहित...",
-   "link": "http://annapurnapost.com/story/508592",
-   "source": "Annapurna Post",
-   "ts": 1790648449.6116462,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "en": "Former chief justice arrest case: after SSP's removal, inquiries planned with Home Minister and IG",
-   "ne": "पूर्वप्रधानन्यायाधीश पक्राउ प्रकरण : एसएसपी खड्कापछि गृहमन्त्री र आईजीपीसँग सोधपुछको तयारी",
-   "imp": 3,
-   "tags": [
-    "ChiefJustice",
-    "Investigation"
-   ],
-   "cat": "politics",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "प्रतिनिधिसभाः क्षतिग्रस्त पूर्वाधार पुनर्निर्माण र कालोबजारी नियन्त्रणको माग",
    "summary": "काठमाडौँ, असोज १३ गते । सांसदहरुले मनसुनजन्य विपद्बाट क्षतिग्रस्त सडक पूर्वाधारको पुनर्निर्माण र डुबान तथा जोखिममा रहेका बस्ती सुरक्षित स्थानमा स्थानान्तरण गर्न सरकारको ध्यानाकर्षण...",
    "link": "https://gorkhapatraonline.com/news/224777",
@@ -7156,28 +7014,6 @@
    "val": 2,
    "teaser": false,
    "hits": 3
-  },
-  {
-   "title": "मुख्य अन्नबालीसँगै डुब्यो लगानी : हुरीसँगैको वर्षाले पाक्ने बेलाको धानबाली सोत्तर",
-   "summary": "नेपालगन्ज : भीषण हावाहुरीसँगै आएको मुसलधारे वर्षाले खेतमा पाकेर भिœयाउने बेलाको धानबाली ढालेर सोत्तर त बनाइदिएको छ नै, किसानको लगानीसमेत डुबेको छ। वर्षभरि खाने अन्नबाली नष्ट भएपछि बाँके बोगटियाका तीर्थराज बर्मा अब के...",
-   "link": "http://annapurnapost.com/story/508590",
-   "source": "Annapurna Post",
-   "ts": 1790648449.6116462,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "en": "Main crops drowned along with investment: rice harvest delayed by heavy rains",
-   "ne": "मुख्य अन्नबालीसँगै डुब्यो लगानी : हुरीसँगैको वर्षाले पाक्ने बेलाको धानबाली सोत्तर",
-   "imp": 3,
-   "tags": [
-    "Crops",
-    "Rice",
-    "Rain"
-   ],
-   "cat": "disaster",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
   },
   {
    "title": "जोखिममा हिमाल",
@@ -11183,30 +11019,6 @@
    "hits": 1
   },
   {
-   "title": "रसुवा बाढी प्रभावितलाई बीमा दाबीमा राहत, ५ लाखसम्मको दाबीमा सर्भेयर नचाहिने",
-   "summary": "बाढीमा परी बेपत्ता भएका व्यक्तिको हकमा अधिकार प्राप्त निकायको सिफारिस र हकवालाको स्वघोषणाका आधारमा बीमा दाबी भुक्तानी गर्न सकिनेछ।",
-   "link": "https://www.setopati.com/kinmel/banking/399512",
-   "source": "Setopati",
-   "ts": 1790671789,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "रसुवा बाढी प्रभावितलाई बीमा दाबीमा राहत, ५ लाखसम्मको दाबीमा सर्भेयर नचाहिने",
-   "en": "रसुवा बाढी प्रभावितलाई बीमा दाबीमा राहत, ५ लाखसम्मको दाबीमा सर्भेयर नचाहिने",
-   "ne": "रसुवा बाढी प्रभावितलाई बीमा दाबीमा राहत, ५ लाखसम्मको दाबीमा सर्भेयर नचाहिने",
-   "imp": 4,
-   "tags": [
-    "Rasuwa",
-    "Flood",
-    "Insurance",
-    "विमा"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Nepal-China High-Level Delegation Inspects Kodari Checkpoint",
    "summary": "Kathmandu. A high-level delegation from the Government of Nepal has conducted a site inspection and joint monitoring with the objective...",
    "link": "http://english.ratopati.com/story/81460/joint-monitoring-at-kodari-border-to-facilitate-nepal-china-trade-emphasis-on-infrastructure-improvements",
@@ -11273,7 +11085,7 @@
    "cat": "economy",
    "val": 3,
    "teaser": false,
-   "hits": 3
+   "hits": 4
   },
   {
    "title": "Hotel Association Chief Urges Global Safety Message for Nepal Tourism",
@@ -13285,6 +13097,28 @@
     "Winter"
    ],
    "cat": "economy",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Himlung Himal Avalanche in Nepal Buries 16 Climbers at Base Camp",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSzV2eWVsLXZXWGNHOGNaTWtSbTdqdVpGU1pQelZiMEc5WnhKeVpvd0tSbzdQQ2ZlNmhCSFQ1R3lpbm9SNFF2aHBWOVY4T1ZKWDNVT01YamUtRXJRTEt1X2dkeUpFUjRFMklXTWh0TWxUS3pYTXRXOWFkcXB6RjB3SGlOWVZtb09Oa2V0VUJ0OV9vQQ?oc=5",
+   "source": "SnowBrains",
+   "ts": 1790676880,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "Himlung Himal Avalanche in Nepal Buries 16 Climbers at Base Camp",
+   "en": "Himlung Himal Avalanche in Nepal Buries 16 Climbers at Base Camp",
+   "ne": "Himlung Himal Avalanche in Nepal Buries 16 Climbers at Base Camp",
+   "imp": 4,
+   "tags": [
+    "Avalanche",
+    "HimlungHimal"
+   ],
+   "cat": "disaster",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -15848,10 +15682,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "world"
+  },
+  {
+   "ts": 1790677261.0988016,
+   "en": "रसुवा बाढी प्रभावितलाई बीमा दाबीमा राहत, ५ लाखसम्मको दाबीमा सर्भेयर नचाहिने",
+   "ne": "रसुवा बाढी प्रभावितलाई बीमा दाबीमा राहत, ५ लाखसम्मको दाबीमा सर्भेयर नचाहिने",
+   "link": "https://www.setopati.com/kinmel/banking/399512",
+   "source": "Setopati",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "economy"
   }
  ],
- "updated": 1790676661,
- "pending_since": null,
+ "updated": 1790677276,
+ "pending_since": 1790677251.7453942,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
