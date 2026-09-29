@@ -605,8 +605,10 @@ below, write in {lang_name} (the article's language; do not translate):
 - "h": one complete headline that gives the reader the real news on its own: who, what, where, numbers,
   decisions. Max 110 characters, news-headline style, no clickbait, no "here is...", no quotes.{nepali_style}
 - "s": a 2-3 sentence summary (max 320 characters) with the key facts a reader needs, plain and neutral.
+- "p": 2-3 bullet points for the image, each ONE short concrete fact NOT already in "h" (numbers, names,
+  places, dates, what happens next). Max 60 characters each, no full stop at the end, no bullet symbol.
 If the article text does not contain real facts for this headline, return {{"ok": false}}.
-Respond with JSON only: {{"ok": true, "h": "...", "s": "..."}}
+Respond with JSON only: {{"ok": true, "h": "...", "s": "...", "p": ["...", "..."]}}
 
 HEADLINE: {headline}
 
@@ -640,7 +642,9 @@ def enrich(s):
         log(f"enrich result rejected: {h[:80]}")
         return not s.get("teaser")
     log(f"enriched: '{(s.get('hl') or s['en'])[:60]}' -> '{h}'")
-    s["hl"], s["summary_ai"], s["teaser"] = h, summ[:400], False
+    pts = [strip_media_tag(clean(str(x))).rstrip("।.").strip() for x in (j.get("p") or []) if str(x).strip()]
+    pts = [x for x in pts if 8 <= len(x) <= 90 and not foreign_script(x) and bool(DEVA.search(x)) == ne][:3]
+    s["hl"], s["summary_ai"], s["teaser"], s["points"] = h, summ[:400], False, pts
     s["en"] = s["ne"] = h
     return True
 
@@ -773,6 +777,52 @@ def balanced_wrap(draw, text, fnt, width):
     return wrap(draw, text, fnt, lo)
 
 
+BULLET_RATIO = 0.62   # bullet text size relative to the headline
+BULLET_GAP = 0.9      # space between headline and bullets, in headline line heights
+
+
+def _render_points(d, st, headline, points, x, w, y0, y1, line_h):
+    """Headline (centred, bold) + a short red rule + 2-3 left-aligned bullet facts, all fitted to the panel."""
+    def layout(size):
+        hf, pf = font(FONT_BOLD, size), font(FONT_BOLD, max(26, int(size * BULLET_RATIO)))
+        hl = balanced_wrap(d, headline, hf, w)
+        ind = int(pf.size * 1.1)
+        pl = [wrap(d, p, pf, w - ind) for p in points]
+        if any(d.textlength(t, font=hf) > w for t in hl) or any(d.textlength(t, font=pf) > w - ind for b in pl for t in b):
+            return None
+        hlh, plh = int(size * line_h), int(pf.size * 1.32)
+        total = len(hl) * hlh + int(hlh * BULLET_GAP) + sum(len(b) for b in pl) * plh + (len(pl) - 1) * int(plh * 0.35)
+        return hf, pf, hl, pl, ind, hlh, plh, total
+
+    size = st.get("max_px", HEADLINE_MAX_PX)
+    while size > 36:
+        L = layout(size)
+        if L and L[-1] <= y1 - y0:
+            break
+        size -= 2
+    hf, pf, hl, pl, ind, hlh, plh, total = L
+    ty = y0 + (y1 - y0 - total) // 2
+    sw, sf = st.get("stroke_w", TEXT_STROKE), st["stroke"]
+    for t in hl:
+        d.text((x + (w - d.textlength(t, font=hf)) // 2, ty), t, font=hf, fill=st["text"], stroke_width=sw, stroke_fill=sf)
+        ty += hlh
+    my = ty + int(hlh * BULLET_GAP) // 2 - hlh * 0.12
+    d.line([(627 - 70, my), (627 + 70, my)], fill=(220, 30, 45), width=4)
+    ty += int(hlh * BULLET_GAP)
+    # bullets as a left-aligned column, centred in the panel as a block
+    bw = max(d.textlength(t, font=pf) for b in pl for t in b) + ind
+    bx = x + (w - bw) // 2
+    colour = st.get("text_ne", st["text"])
+    for b in pl:
+        r_ = pf.size * 0.2
+        cy = ty + pf.size * 0.62
+        d.ellipse([bx + 2, cy - r_, bx + 2 + 2 * r_, cy + r_], fill=(220, 30, 45))
+        for t in b:
+            d.text((bx + ind, ty), t, font=pf, fill=colour, stroke_width=max(0, sw - 1), stroke_fill=sf)
+            ty += plh
+        ty += int(plh * 0.35)
+
+
 def render(story, theme="dark"):
     """One image per story: English headline on top, Nepali below, same size, optional translucent
     news photo behind, date pill under the ribbon. Source + link go in the caption."""
@@ -805,8 +855,12 @@ def render(story, theme="dark"):
         return sum(len(bl) for bl in blocks) * int(size * line_h) + (gap if len(keys) > 1 else 0)
 
     keys = ("hl",) if story.get("hl") and IG_ONLY else ("en", "ne")
+    points = story.get("points") if len(keys) == 1 else None
+    if points:  # Instagram-only: headline on top, then the key facts as bullet points
+        _render_points(d, st, story["hl"], points, x, w, y0, y1, line_h)
+        keys = ()
     size = int(st.get("max_px", HEADLINE_MAX_PX) * (1.2 if len(keys) == 1 else 1))
-    while size > 40 and height(size) > y1 - y0:
+    while keys and size > 40 and height(size) > y1 - y0:
         size -= 2
     f, lh = font(FONT_BOLD, size), int(size * line_h)
     blocks = [balanced_wrap(d, story[k], f, w) for k in keys]
