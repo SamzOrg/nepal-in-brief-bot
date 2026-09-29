@@ -1,16 +1,5 @@
 {
  "seen": {
-  "https://khabarhub.com/2026/27/1029749/": 1790487642.5241969,
-  "https://baahrakhari.com/detail/502869": 1790487642.5241969,
-  "https://khabarhub.com/2026/27/1029731/": 1790487642.5241969,
-  "https://english.khabarhub.com/2026/27/569490/": 1790487642.5241969,
-  "https://khabarhub.com/2026/27/1029734/": 1790487642.5241969,
-  "https://news.google.com/rss/articles/CBMijwFBVV95cUxPT19qTm5meWdfS0l5R1F0UWdMTGZCbnN6QlZHemlGejJ2T0lpUmNMeVVuLUFJWWd4bXUwMkhtR3NrLWZkS3ZDXzZkaXZoRFIwbVdsSUk2bmpZQlhJNGlJaEdPMlhXcmNNZzZQaEliU3haQ1Q3MHR6ZFhxNlI3cmxrYlZqMnNoVGY0MVhndk1RVQ?oc=5": 1790487642.5241969,
-  "https://news.google.com/rss/articles/CBMibEFVX3lxTFBQQWRYU1MxSFlpSGdWcDBnNWlMWGNqcjJ1eDE5cFYtLXJSZ1dsODZ3bHZQZTNTaHVXZUVIbEtoNmk1QlExSnE2UWRkZDZ2OWNQMDN4Wk5oemQyTGh4T2E4dzlLVGdyOFBBOW9NRg?oc=5": 1790487642.5241969,
-  "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaVRhRlVhTS1kUjlHb3Q1Y29Vb3FQbndXcU1NNUNSQjVZWTlsZ0dNRTdCZk9vM0RoTnM5Y1YyQ2dtbHRjdHF1U2VyM3ZDb3JZN0NtSFhDb2VkdTdWREM0cGNiYmxkb1k0b1ViR3FOdHRLNzlMS3BBWHVzQ0VqdkpzZVo1OXJQR1Mta0ZZM3NIdjViN1Jzc25WQkYtNENpU2dmSnVwSHIwZkl2d0dmZXhJVHFLUQ?oc=5": 1790487642.5241969,
-  "https://news.google.com/rss/articles/CBMiV0FVX3lxTE94QjdFcUZsMDEzNWdHaFFnMWFuQjI0LUhXeXptU01wQnktTlFyNUdSZkJnMk4zUnItNDlwUHBzNXpyVEpndkxfTWh4MktDS25RSGtxRUg4aw?oc=5": 1790487642.5241969,
-  "https://nagariknews.nagariknetwork.com/social-affairs/landslide-removal-work-continues-on-karnali-highway-84-41.html": 1790487642.5241969,
-  "https://www.ratopati.com/story/595208/talgaun-surrounded-by-marsyangdi-floods-municipality-chairman-says-the-village-is-under-blockade": 1790487642.5241969,
   "https://baahrakhari.com/detail/502872": 1790488243.9586575,
   "https://khabarhub.com/2026/27/1029753/": 1790488243.9586575,
   "https://english.khabarhub.com/2026/27/569483/": 1790488243.9586575,
@@ -3669,7 +3658,14 @@
   "https://kathmandupost.com/science-technology/2026/09/29/openai-shelves-new-ai-model-release-over-safety-concerns": 1790659864.1292872,
   "http://annapurnapost.com/story/508585": 1790659864.1292872,
   "https://gorkhapatraonline.com/news/224767": 1790659864.1292872,
-  "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbkkwbTd5Tl8xekZaYlZEQWd6T0JtbDhKSW4zVENNQlk0UVpOTjVxaE1SY3hLZ0NIZHZXN3RUQWVWWHhGVHhKekJPYnQ1azJoRkJ4WkJCZVRfUXZ5a1VGZFo0LXQwWTJKZU1GV0RXbmFGVjAzSkpIY3hPalNmb1JUdVlwS1V0cDV5R0HSAY8BQVVfeXFMTzgxaW9rNFBPTDdvY2l1QloyTy01d216azRXMHREZVcxUE1EWXZsaFNMN3hmMWw0UHN2d0s2TTQ1QTBQaC14QW8xYTQzS2c4TGNGX2pBQ2N2M3JJNDlUVDNXWkJKWG8xNzdDend2OE9ySXExVVNPamVTVnpjNkd3ZVBpb0M2YWg5OEMyQWhsRTA?oc=5": 1790659864.1292872
+  "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbkkwbTd5Tl8xekZaYlZEQWd6T0JtbDhKSW4zVENNQlk0UVpOTjVxaE1SY3hLZ0NIZHZXN3RUQWVWWHhGVHhKekJPYnQ1azJoRkJ4WkJCZVRfUXZ5a1VGZFo0LXQwWTJKZU1GV0RXbmFGVjAzSkpIY3hPalNmb1JUdVlwS1V0cDV5R0HSAY8BQVVfeXFMTzgxaW9rNFBPTDdvY2l1QloyTy01d216azRXMHREZVcxUE1EWXZsaFNMN3hmMWw0UHN2d0s2TTQ1QTBQaC14QW8xYTQzS2c4TGNGX2pBQ2N2M3JJNDlUVDNXWkJKWG8xNzdDend2OE9ySXExVVNPamVTVnpjNkd3ZVBpb0M2YWg5OEMyQWhsRTA?oc=5": 1790659864.1292872,
+  "https://khabarhub.com/2026/29/1030624/": 1790660451.2496605,
+  "https://english.khabarhub.com/2026/29/569849/": 1790660451.2496605,
+  "https://khabarhub.com/2026/29/1030625/": 1790660451.2496605,
+  "https://www.onlinekhabar.com/2026/09/2028294/4-injured-after-stone-falls-on-moving-bus-in-kapilvastu": 1790660451.2496605,
+  "https://www.onlinekhabar.com/2026/09/2028282/mp-dangi-demands-government-to-protect-nepali-jute-industry": 1790660451.2496605,
+  "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQ3locVJrWS1JYkdqbnpnaXU1QVhJaVNDSTVPZ1RZQkdjdHJ0RnFfVTBUN3ZQMlZkNTdCS0x5emZNbVFSMVpqUFJIMFZ5OW5BdEQzUE9UOUVfdVY4R3NKeTVJVHBCakhMZ29URnJGWl9HRWJLX2lTZmpyMHY2LW5lTThIa0czbzBpcVNhZm0xekQxSUps?oc=5": 1790660451.2496605,
+  "https://news.google.com/rss/articles/CBMizwFBVV95cUxQY1VvV2xReXJtcUQyYTQyeWhGZVNRUmRQYlhGdVlkcmdkQ3VoMjlpT2FXY1YxS25xSzRPTmo4WUttQ2M1UjE1VUZWN2daX1d6NDdLZWJoWWhndGtTUmNXRlVoY2ppUnRWVDF2RjEzTWs2a2ZwN1lxZUk0Y1lMRUtkMlZYYldwczBWVURCWE83bTVicVBWWDBIY0VBMXJkV1dLV2QtUE9jWG5FSEhzZzF4bXFRdmtlUEVtaHNvUEtSUVBvYkRNYUo4bUV2a3B4d2M?oc=5": 1790660451.2496605
  },
  "queue": [
   {
@@ -3736,7 +3732,7 @@
    "cat": "tech",
    "val": 3,
    "teaser": false,
-   "hits": 3
+   "hits": 4
   },
   {
    "title": "पर्साका विद्यालयलाई सहयोग",
@@ -6353,7 +6349,7 @@
    "cat": "politics",
    "val": 2,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "बालेन्द्र-रविको तस्बिर सेयर गर्दै बाबुरामले भने : ठूला माछा समात्ने प्रकरणमा सरकार पछि हट्नु विडम्बना",
@@ -6564,7 +6560,7 @@
    "cat": "disaster",
    "val": 2,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "आईसीसीमाथि प्रश्न- वरीयताको अन्तिम निर्णय कसरी स्वीकार्य हुन्छ ?",
@@ -7372,27 +7368,6 @@
    "hits": 1
   },
   {
-   "title": "Cooperative fraud suspects live lavish lives abroad",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZVY0Qjk2Yy1VelY5WVVDMGMwTGxXWGtQc2hybHc0UGxrbEcxNjNBU2Uya1NOZjItQnZHRElveTRVZld3dUhyZm9FS1RaTlVFOC1XWFowUVNBY1JjVnZ1TWtqQjluZHdOS1hzQUNEYU5zZkpFSkpsaVZkM2puai03WjI0Tk90dEpneVozRGItRUlSX1k5bVdGa0U5WTN0NDJOcE1OVWtYRFBKQQ?oc=5",
-   "source": "myRepublica",
-   "ts": 1790651760,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "en": "Cooperative fraud suspects live lavish lives abroad",
-   "ne": "सहकारी धोखाधड़ीका शंकास्पदहरू विदेशमा शानदार जीवन बाँच्दै",
-   "imp": 3,
-   "tags": [
-    "CooperativeFraud",
-    "Abroad"
-   ],
-   "cat": "crime",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
    "title": "धादिङको धुनिबेशीमा एकै ठाउँमा ६ वटा गाडी ठोक्किए",
    "summary": "धादिङ : धादिङको धुनिबेशी नगरपालिका-६ स्थित मितेरी टोलमा पृथ्वी राजमार्गमा ६ वटा सवारीसाधन एकआपसमा ठोक्किएर दुर्घटना भएको हो।अगाडिको गाडीले अचानक ब्रेक लगाएपछि पछाडि रहेका सवारी साधनको ब्रेक नलाग्दा एकआपसमा ठोक्किएर...",
    "link": "http://annapurnapost.com/story/508584",
@@ -7599,7 +7574,7 @@
    "cat": "economy",
    "val": 2,
    "teaser": true,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "When rain decides the winner, what is cricket really measuring?",
@@ -7704,7 +7679,7 @@
    "cat": "politics",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "हिमबाढीको रौद्र रूप",
@@ -10164,9 +10139,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "disaster"
+  },
+  {
+   "ts": 1790660457.4813788,
+   "en": "Cooperative fraud suspects live lavish lives abroad",
+   "ne": "सहकारी धोखाधड़ीका शंकास्पदहरू विदेशमा शानदार जीवन बाँच्दै",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZVY0Qjk2Yy1VelY5WVVDMGMwTGxXWGtQc2hybHc0UGxrbEcxNjNBU2Uya1NOZjItQnZHRElveTRVZld3dUhyZm9FS1RaTlVFOC1XWFowUVNBY1JjVnZ1TWtqQjluZHdOS1hzQUNEYU5zZkpFSkpsaVZkM2puai03WjI0Tk90dEpneVozRGItRUlSX1k5bVdGa0U5WTN0NDJOcE1OVWtYRFBKQQ?oc=5",
+   "source": "myRepublica",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "crime"
   }
  ],
- "updated": 1790659869,
+ "updated": 1790660474,
  "pending_since": 1790659864.1292872,
  "fb_blocks": [
   1790350880.4125228,
