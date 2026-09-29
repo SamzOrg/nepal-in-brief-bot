@@ -50,8 +50,9 @@ URGENT_MAX = 4          # headlines per urgent call
 STORIES_PER_RUN = 1     # normal stories per run (each = 1 bilingual post on FB and on IG); runs every ~10 min
 BREAKING_PER_RUN = 1    # breaking stories skip the pacing and go out immediately, up to this many
 TOPIC_WINDOW   = 4      # look at the last 4 posts for topic variety
-NEPALI_PENALTY = 1.0    # Instagram-only mode: Nepali-language stories rank this many impact points lower, so
-                        # English (what Instagram recommends most) wins unless the Nepali story is clearly bigger
+EN_SIBLING     = {"Onlinekhabar": "Onlinekhabar EN", "Khabarhub": "Khabarhub EN"}  # same outlet, two languages
+SIBLING_PENALTY = 1.0   # Instagram-only mode: while the English edition of the SAME outlet has a story waiting,
+                        # that outlet's Nepali stories rank this many impact points lower. Other outlets unaffected.
 TOPIC_PENALTY  = 0.75   # each recent same-topic post lowers a story's score by this much (impact is 1-5)
 DISASTER = re.compile(r"flood|landslide|mudslide|inundat|heavy rain|rainfall|downpour|river|barrage|cusec|"
                       r"quake|avalanche|snowfall|storm|glof|बाढी|पहिरो|डुबान|वर्षा|भूकम्प|हिमपहिरो", re.I)
@@ -1147,7 +1148,7 @@ def main():
                 # keep the most informative headline among the outlets' versions of this story
                 better = (target.get("teaser") and not b.get("teaser")) or \
                          ((b.get("val") or 2) > (target.get("val") or 2) and not b.get("teaser")) or \
-                         (IG_ONLY and b.get("lang") == "en" and target.get("lang") == "ne" and not b.get("teaser"))
+                         (IG_ONLY and EN_SIBLING.get(target.get("source")) == b.get("source") and not b.get("teaser"))
                 if better:
                     log(f"better headline for same story: '{target['en'][:50]}' -> '{b['en'][:50]}' ({b['source']})")
                     for k in ("en", "ne", "hl", "title", "lang", "link", "source", "img", "weight", "val",
@@ -1191,8 +1192,9 @@ def main():
 
     def rank(q):
         score = impact(q) - TOPIC_PENALTY * recent_topics.count(topic(q))
-        if IG_ONLY and (q.get("lang") == "ne" or DEVA.search(q.get("hl") or q["en"])):
-            score -= NEPALI_PENALTY
+        sib = EN_SIBLING.get(q["source"])
+        if IG_ONLY and sib and any(x["source"] == sib for x in queue):
+            score -= SIBLING_PENALTY
         return (-score, -q["hits"], recent_src.count(q["source"]), -q["weight"], -q["ts"])
 
     brk_hour = sum(1 for p in posted if p.get("brk") and p["ts"] > time.time() - 3600)
