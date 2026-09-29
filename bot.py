@@ -12,6 +12,7 @@ import calendar, html, json, os, re, pathlib, sys, time, traceback
 from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timedelta, timezone
 from urllib.parse import urlsplit, urlunsplit, parse_qsl, urlencode
+import urllib.parse
 
 import feedparser, requests
 try:
@@ -541,6 +542,33 @@ ARTICLE:
 """
 
 
+def resolve_gnews(link):
+    """Google News RSS links (news.google.com/rss/articles/CBMi...) are redirects that only work in a
+    browser. Ask Google News itself for the real article URL (the same call its web page makes).
+    Returns the publisher URL, or None if Google didn't give one."""
+    try:
+        aid = urllib.parse.urlparse(link).path.rstrip("/").split("/")[-1]
+        page = requests.get(f"https://news.google.com/rss/articles/{aid}", timeout=15, headers=BROWSER_UA).text
+        sg, ts = re.search(r'data-n-a-sg="([^"]+)"', page), re.search(r'data-n-a-ts="([^"]+)"', page)
+        if not (sg and ts):
+            log("google news link: no signature on the article page")
+            return None
+        inner = ["garturlreq", [["X", "X", ["X", "X"], None, None, 1, 1, "US:en", None, 1, None, None, None,
+                                  None, None, 0, 1], "X", "X", 1, [1, 1, 1], 1, 1, None, 0, 0, None, 0],
+                 aid, int(ts.group(1)), sg.group(1)]
+        req = [[["Fbv4je", json.dumps(inner), None, "generic"]]]
+        r = requests.post("https://news.google.com/_/DotsSplashUi/data/batchexecute", timeout=15,
+                          headers={**BROWSER_UA, "Content-Type": "application/x-www-form-urlencoded;charset=UTF-8"},
+                          data="f.req=" + urllib.parse.quote(json.dumps(req)))
+        url = json.loads(json.loads(r.text.split("\n\n", 1)[1])[0][2])[1]
+        if isinstance(url, str) and url.startswith("http") and "news.google.com" not in url:
+            return url
+        log(f"google news link: unexpected answer {str(url)[:120]}")
+    except Exception as ex:
+        log(f"google news link could not be resolved: {ex!r}"[:200])
+    return None
+
+
 def article_text(link, limit=3500):
     """Main paragraphs of the article page (empty string if it can't be read)."""
     if "news.google.com" in link:
@@ -622,6 +650,11 @@ def enrich(s):
     """Instagram-only mode: rewrite the headline from the article body and add a short summary, in the
     story's own language. Returns False only for a teaser that couldn't be completed (skip it)."""
     ne = s.get("lang") == "ne" or bool(DEVA.search(s.get("hl") or s["en"]))
+    if "news.google.com" in s["link"]:  # swap the Google redirect for the real article (text, photo, caption)
+        real = resolve_gnews(s["link"])
+        if real:
+            log(f"google news link -> {real}")
+            s["link"], s["img"] = real, None
     body = article_text(s["link"])
     if len(body) < 200:
         if s.get("teaser"):
