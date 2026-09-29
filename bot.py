@@ -50,7 +50,14 @@ URGENT_MAX = 4          # headlines per urgent call
 STORIES_PER_RUN = 1     # normal stories per run (each = 1 bilingual post on FB and on IG); runs every ~10 min
 BREAKING_PER_RUN = 1    # breaking stories skip the pacing and go out immediately, up to this many
 TOPIC_WINDOW   = 4      # look at the last 4 posts for topic variety
-EN_SIBLING     = {"Onlinekhabar": "Onlinekhabar EN", "Khabarhub": "Khabarhub EN"}  # same outlet, two languages
+EN_SIBLING     = {  # Nepali outlet -> its own English edition(s) (feed names, or Google News source names)
+    "Onlinekhabar":   {"Onlinekhabar EN"},
+    "Khabarhub":      {"Khabarhub EN"},
+    "Annapurna Post": {"Annapurna Express"},
+    "Ratopati":       {"Ratopati EN"},
+    "Gorkhapatra":    {"Rising Nepal"},
+    "Nagarik News":   {"myRepublica", "My Republica", "Republica", "Google News Republica"},
+}
 SIBLING_PENALTY = 1.0   # Instagram-only mode: while the English edition of the SAME outlet has a story waiting,
                         # that outlet's Nepali stories rank this many impact points lower. Other outlets unaffected.
 TOPIC_PENALTY  = 0.75   # each recent same-topic post lowers a story's score by this much (impact is 1-5)
@@ -142,6 +149,8 @@ FEEDS = [
     ("Himalayan Times", "https://thehimalayantimes.com/rssFeed/15",       False, 3),
     ("Rising Nepal",    "https://risingnepaldaily.com/rss",               False, 2),
     ("Khabarhub EN",    "https://english.khabarhub.com/feed",             False, 2),
+    ("Annapurna Express", "https://theannapurnaexpress.com/rss",          False, 3),  # English of Annapurna Post
+    ("Ratopati EN",     "https://english.ratopati.com/feed",              False, 2),
     # myRepublica has no RSS feed, so its stories come via a Google News search limited to its site
     ("Google News Republica", "https://news.google.com/rss/search?q=site:myrepublica.nagariknetwork.com+when:1d"
                               "&hl=en-US&gl=US&ceid=US:en",               False, 3),
@@ -1148,7 +1157,7 @@ def main():
                 # keep the most informative headline among the outlets' versions of this story
                 better = (target.get("teaser") and not b.get("teaser")) or \
                          ((b.get("val") or 2) > (target.get("val") or 2) and not b.get("teaser")) or \
-                         (IG_ONLY and EN_SIBLING.get(target.get("source")) == b.get("source") and not b.get("teaser"))
+                         (IG_ONLY and b.get("source") in EN_SIBLING.get(target.get("source"), ()) and not b.get("teaser"))
                 if better:
                     log(f"better headline for same story: '{target['en'][:50]}' -> '{b['en'][:50]}' ({b['source']})")
                     for k in ("en", "ne", "hl", "title", "lang", "link", "source", "img", "weight", "val",
@@ -1193,7 +1202,7 @@ def main():
     def rank(q):
         score = impact(q) - TOPIC_PENALTY * recent_topics.count(topic(q))
         sib = EN_SIBLING.get(q["source"])
-        if IG_ONLY and sib and any(x["source"] == sib for x in queue):
+        if IG_ONLY and sib and any(x["source"] in sib for x in queue):
             score -= SIBLING_PENALTY
         return (-score, -q["hits"], recent_src.count(q["source"]), -q["weight"], -q["ts"])
 
