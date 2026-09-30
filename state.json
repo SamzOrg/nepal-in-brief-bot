@@ -3672,75 +3672,6 @@
  },
  "queue": [
   {
-   "title": "MegaVoice brings Gospel hope to Nepal after disaster",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaF9OY1pOSk14RHpGc2lNTVRqOWpsS25aS2lBVU5zenM2XzFtcEFNZl83QWZOSV9zdlQwc0lGZ1EzdkdMcWxIYzZFLUtVYzhfMWhlOFEwRU5xNkoybWFuNGhtV19oZ1JESEVzV3pZbGhKbTNBQlVCWDlvSHpVNWNfNnhMWG1FRW5VNElrcQ?oc=5",
-   "source": "Mission Network News",
-   "ts": 1790773139,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "MegaVoice brings Gospel hope to Nepal after disaster",
-   "en": "MegaVoice brings Gospel hope to Nepal after disaster",
-   "ne": "MegaVoice brings Gospel hope to Nepal after disaster",
-   "imp": 1,
-   "tags": [
-    "MegaVoice",
-    "Nepal",
-    "Disaster"
-   ],
-   "cat": "society",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "सर्वोच्चको सरकारलाई आदेश- वातावरणमैत्री उद्योगलाई करमा संक्रमणकालीन सहुलियत दिनू",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/503287",
-   "source": "Baahrakhari",
-   "ts": 1790773131,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "सर्वोच्चको सरकारलाई आदेश- वातावरणमैत्री उद्योगलाई करमा संक्रमणकालीन सहुलियत दिनू",
-   "en": "सर्वोच्चको सरकारलाई आदेश- वातावरणमैत्री उद्योगलाई करमा संक्रमणकालीन सहुलियत दिनू",
-   "ne": "सर्वोच्चको सरकारलाई आदेश- वातावरणमैत्री उद्योगलाई करमा संक्रमणकालीन सहुलियत दिनू",
-   "imp": 3,
-   "tags": [
-    "SupremeCourt",
-    "NepalGovernment",
-    "TaxRelief"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "दराजको १०.१० दसैं धमाका सुरू हुँदै",
-   "summary": "",
-   "link": "https://www.setopati.com/kinmel/business/399632",
-   "source": "Setopati",
-   "ts": 1790772731,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "दराजको १०.१० दसैं धमाका सुरू हुँदै",
-   "en": "दराजको १०.१० दसैं धमाका सुरू हुँदै",
-   "ne": "दराजको १०.१० दसैं धमाका सुरू हुँदै",
-   "imp": 2,
-   "tags": [
-    "Daraz",
-    "Dashain",
-    "Ecommerce"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
    "title": "पावर प्लान्टको विकल्प बन्दै घरघरका ब्याट्री, अमेरिकाको भर्मोन्टमा नयाँ ऊर्जा प्रयोग",
    "summary": "भर्मोन्ट । अमेरिकाको उत्तरपूर्वी राज्य भर्मोन्टमा ठुला विद्युत् गृहको विकल्पका रूपमा घरघरमा जडान गरिएका ब्याट्री प्रयोग हुन थालेका छन् । हजारौँ घरमा जडान गरिएका ब्याट्रीलाई एउटै प्रणालीमा जोडेर बनाइएको 'भर्चुअल पावर...",
    "link": "https://www.ratopati.com/story/596175/home-batteries-are-becoming-an-alternative-to-power-plants-new-energy-use-in-vermont-usa",
@@ -10127,7 +10058,7 @@
    "cat": "society"
   }
  ],
- "updated": 1790801450,
+ "updated": 1790802087,
  "pending_since": 1790801445.0913444,
  "fb_blocks": [
   1790350880.4125228,
