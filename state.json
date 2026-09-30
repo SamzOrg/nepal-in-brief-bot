@@ -3708,29 +3708,6 @@
  },
  "queue": [
   {
-   "title": "MP Manish Jha Draws Attention to Flood Risks from Unmanaged Natural Resources",
-   "summary": "Kathmandu. National Independent Party MP Manish Jha has drawn the government's attention to the increased risk of floods and landslides...",
-   "link": "http://english.ratopati.com/story/81626/unorganized-management-of-natural-resources-poses-risk-of-floods-and-landslides-in-the-terai-mp-manish-jha",
-   "source": "Ratopati EN",
-   "ts": 1790762868,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/manish-jha_C8hK6eY97n.webp",
-   "lang": "en",
-   "hl": "MP Manish Jha Draws Attention to Flood Risks from Unmanaged Natural Resources",
-   "en": "MP Manish Jha Draws Attention to Flood Risks from Unmanaged Natural Resources",
-   "ne": "MP Manish Jha Draws Attention to Flood Risks from Unmanaged Natural Resources",
-   "imp": 3,
-   "tags": [
-    "ManishJha",
-    "FloodRisk",
-    "NaturalResources"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
    "title": "Iran Sentences Two to Death for Anti-Government Protests",
    "summary": "Tehran. Iran's judiciary has delivered a verdict including the death penalty for two people in connection with anti-government protests that...",
    "link": "http://english.ratopati.com/story/81630/two-anti-government-protesters-sentenced-to-death-in-iran",
@@ -4117,52 +4094,6 @@
    "val": 3,
    "teaser": false,
    "hits": 2
-  },
-  {
-   "title": "Parliamentary climate committee begins work under Ganesh Parajuli",
-   "summary": "Kathmandu, September 30 Ganesh Parajuli has been unanimously elected chair of the parliamentary special committee formed to study the impact of climate change in the Himalayas, climate justice and the...",
-   "link": "https://english.onlinekhabar.com/ganesh-parajuli-parliamentary-special-committee.html",
-   "source": "Onlinekhabar EN",
-   "ts": 1790762928,
-   "weight": 3,
-   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/09/Ganesh-Parajuli-1.jpg",
-   "lang": "en",
-   "hl": "Parliamentary climate committee begins work under Ganesh Parajuli",
-   "en": "Parliamentary climate committee begins work under Ganesh Parajuli",
-   "ne": "Parliamentary climate committee begins work under Ganesh Parajuli",
-   "imp": 2,
-   "tags": [
-    "GaneshParajuli",
-    "ClimateCommittee",
-    "Parliament"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "अस्ट्रेलियामा कार्डबाट भुक्तानी गर्दा लाग्ने अतिरिक्त शुल्क हट्ने",
-   "summary": "अस्ट्रेलियामा डेबिट वा क्रेडिट कार्डमार्फत सामान खरिद तथा भुक्तानी गर्दा लाग्ने अतिरिक्त शुल्क आगामी अक्टोबरदेखि पूर्ण रूपमा हट्ने भएको छ।",
-   "link": "https://www.onlinekhabar.com/2026/09/2029431/additional-fees-for-card-payments-in-australia-to-be-eliminated",
-   "source": "Onlinekhabar",
-   "ts": 1790762846,
-   "weight": 3,
-   "img": "https://www.onlinekhabar.com/wp-content/uploads/2026/09/Aus-card.jpg",
-   "lang": "ne",
-   "hl": "अस्ट्रेलियामा कार्डबाट भुक्तानी गर्दा लाग्ने अतिरिक्त शुल्क हट्ने",
-   "en": "अस्ट्रेलियामा कार्डबाट भुक्तानी गर्दा लाग्ने अतिरिक्त शुल्क हट्ने",
-   "ne": "अस्ट्रेलियामा कार्डबाट भुक्तानी गर्दा लाग्ने अतिरिक्त शुल्क हट्ने",
-   "imp": 1,
-   "tags": [
-    "Australia",
-    "Surcharge",
-    "CreditCard"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
   },
   {
    "title": "Gandaki Province Defeats Bhutanese Cricket Team by 64 Runs in Second Practice Match",
@@ -13118,7 +13049,7 @@
    "cat": "society"
   }
  ],
- "updated": 1790791641,
+ "updated": 1790791852,
  "pending_since": 1790791631.777399,
  "fb_blocks": [
   1790350880.4125228,
