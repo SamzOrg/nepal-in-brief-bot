@@ -3662,213 +3662,10 @@
   "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0yNm5KT2ZjQ0txdGRENWlSLUZ2Vi1HTk1INC1ZbWlUUDVlZE1na3lVaEdYMHBVeWl6TEhDTk5zdHBzTHFkQkdVTzFUT0V1ZklWbURYLWd3SkdOdw?oc=5": 1790803252.2310886,
   "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBsclRhWnlBUFd1TVFNVDBEV1VQZnJpTzlaMkFMRGtldHBva1l2dGpRSnRGTlNyLV9ObkhZcEd1UkpYWEt4b2NwUS1Tdm5hU1pUTVlYTHRwQTFZWVU?oc=5": 1790806258.5543568,
   "https://www.bbc.co.uk/news/articles/c607l4l3vn0eo?at_medium=RSS&at_campaign=rss": 1790806258.5543568,
-  "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1QU2VEMUc1M0FmYlNMQ1BsS0NOdkw5dlppWTNjd2RKNEtwQW9RXzBWMWFyRnVLU0g1a1dGMFFLRmNqWnNWVFhHdHQ4TlZob0h6a21YejExSmJHZHhiQ1E?oc=5": 1790806258.5543568
+  "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1QU2VEMUc1M0FmYlNMQ1BsS0NOdkw5dlppWTNjd2RKNEtwQW9RXzBWMWFyRnVLU0g1a1dGMFFLRmNqWnNWVFhHdHQ4TlZob0h6a21YejExSmJHZHhiQ1E?oc=5": 1790806258.5543568,
+  "https://news.google.com/rss/articles/CBMingFBVV95cUxNeXRBN2FrTXMwRFVtcF9kTTl1Y2JFSzIxMzBsRXZBQ3JvZjB1NmxIUktYb0dyazdxWWFXRnB3VjdDMUVDN3Mxd2JDTTRRNGFQZl9IcWw5WW9pZTBCVVhVYWVFUjlTdG14VGs3aDEtdlNza1VlS1N0ZEF2TGNQMXV6cFFkYi1DZElXN19paWZoUzIyTHZoRGt5QnBPYmJ1QQ?oc=5": 1790806842.5408223
  },
  "queue": [
-  {
-   "title": "Prime Minister's Relief Fund balance exceeds Rs 16.15 billion",
-   "summary": "KATHMANDU: Financial contributions to the Prime Minister's Disaster Relief Fund and Prime Minister's Relief Fund have continued following the Bhotekoshi River floods in Rasuwa. According to the Office of the Prime...",
-   "link": "https://english.khabarhub.com/2026/30/570073/",
-   "source": "Khabarhub EN",
-   "ts": 1790777725,
-   "weight": 2,
-   "img": "https://english.khabarhub.com/wp-content/uploads/2026/09/IMG_1724-400x220.jpeg",
-   "lang": "en",
-   "hl": "Prime Minister's Relief Fund balance exceeds Rs 16.15 billion",
-   "en": "Prime Minister's Relief Fund balance exceeds Rs 16.15 billion",
-   "ne": "Prime Minister's Relief Fund balance exceeds Rs 16.15 billion",
-   "imp": 3,
-   "tags": [
-    "ReliefFund",
-    "PrimeMinister"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 4
-  },
-  {
-   "title": "'पिच र चौडा बनाउनेतिर मात्रै हाम्रो ध्यान गयो, मौसम प्रतिरोधी सडक बनाउन चुक्यौँ'",
-   "summary": "काठमाडौँ । वर्षा र बाढीपहिरोले देशको पूर्वाधार क्षेत्र नराम्ररी प्रभावित भएको छ । मुख्य राजमार्गहरू अवरुद्ध हुँदा दसैंको मुखमा यात्रुहरू मर्कामा छन् भने जलविद्युत् आयोजना र प्रसारण लाइनमा पुगेको क्षतिका कारण हिउँदमा...",
-   "link": "https://www.ratopati.com/story/596073/we-focused-only-on-making-the-road-paved-and-wide-we-missed-making-it-weatherproof",
-   "source": "Ratopati",
-   "ts": 1790777700,
-   "weight": 3,
-   "img": "https://npcdn.ratopati.com/media/news/ashish-gajurel-banner_R2JtNN2EIR.webp",
-   "lang": "ne",
-   "hl": "'पिच र चौडा बनाउनेतिर मात्रै हाम्रो ध्यान गयो, मौसम प्रतिरोधी सडक बनाउन चुक्यौँ'",
-   "en": "'पिच र चौडा बनाउनेतिर मात्रै हाम्रो ध्यान गयो, मौसम प्रतिरोधी सडक बनाउन चुक्यौँ'",
-   "ne": "'पिच र चौडा बनाउनेतिर मात्रै हाम्रो ध्यान गयो, मौसम प्रतिरोधी सडक बनाउन चुक्यौँ'",
-   "imp": 2,
-   "tags": [
-    "RoadConstruction",
-    "WeatherResilience"
-   ],
-   "cat": "infrastructure",
-   "val": 2,
-   "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "आइतबारदेखि फेरि पानी पर्ने अनुमान : यसपालिको दसैं हिलाम्मे होला कि घमाइलो?",
-   "summary": "पाँच दिनसम्म लगातार परेको झरी थामिएर मंगलबारदेखि घाम लाग्न थालेका बेला मौसमविदहरूले फेरि नयाँ अनुमान सार्वजनिक गरेका छन्।",
-   "link": "https://www.setopati.com/social/399634",
-   "source": "Setopati",
-   "ts": 1790777645,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "आइतबारदेखि फेरि पानी पर्ने अनुमान : यसपालिको दसैं हिलाम्मे होला कि घमाइलो?",
-   "en": "आइतबारदेखि फेरि पानी पर्ने अनुमान : यसपालिको दसैं हिलाम्मे होला कि घमाइलो?",
-   "ne": "आइतबारदेखि फेरि पानी पर्ने अनुमान : यसपालिको दसैं हिलाम्मे होला कि घमाइलो?",
-   "imp": 2,
-   "tags": [
-    "RainForecast",
-    "Dashain"
-   ],
-   "cat": "weather",
-   "val": 2,
-   "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "राष्ट्रपति जेलेन्स्कीद्वारा अग्रपङ्क्तिका सैनिकसँग भेट",
-   "summary": "किएभ- युक्रेनी राष्ट्रपति भोलोदिमिर जेलेन्स्कीले बुधबार अग्रपङ्क्तिमा खटिएका सैनिकसँग भेट गरी उनीहरूको अवस्था र सैन्य अभियानबारे जानकारी लिएका छन् । राष्ट्रपति जेलेन्स्कीले सामाजिक सञ्जालमार्फत लिमान क्षेत्रमा अभियानमा...",
-   "link": "https://khabarhub.com/2026/30/1031416/",
-   "source": "Khabarhub",
-   "ts": 1790777524,
-   "weight": 3,
-   "img": "https://www.khabarhub.com/wp-content/uploads/2026/09/jelensky-400x220.jpg",
-   "lang": "ne",
-   "hl": "राष्ट्रपति जेलेन्स्कीद्वारा अग्रपङ्क्तिका सैनिकसँग भेट",
-   "en": "राष्ट्रपति जेलेन्स्कीद्वारा अग्रपङ्क्तिका सैनिकसँग भेट",
-   "ne": "राष्ट्रपति जेलेन्स्कीद्वारा अग्रपङ्क्तिका सैनिकसँग भेट",
-   "imp": 3,
-   "tags": [
-    "PresidentJelenski",
-    "FrontlineSoldiers"
-   ],
-   "cat": "politics",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "West Indies Sets Massive 406-Run Target for India in Second ODI",
-   "summary": "Guwahati. West Indies has given India a huge target of 406 runs in the second one-day match.Batting first after losing...",
-   "link": "http://english.ratopati.com/story/81661/west-indies-set-india-a-huge-target-of-406-runs",
-   "source": "Ratopati EN",
-   "ts": 1790777513,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/west-indies_tRoveHeNm7.webp",
-   "lang": "en",
-   "hl": "West Indies Sets Massive 406-Run Target for India in Second ODI",
-   "en": "West Indies Sets Massive 406-Run Target for India in Second ODI",
-   "ne": "West Indies Sets Massive 406-Run Target for India in Second ODI",
-   "imp": 2,
-   "tags": [
-    "WestIndies",
-    "ODI",
-    "Cricket"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "सिङ्गापुर : सरकारी कर्मचारीका लागि 'डेटिङ' सेवा सुरु",
-   "summary": "सिङ्गापुर . सिङ्गापुरले सरकारी अधिकारीहरूका लागि 'डेटिङ प्लेटफर्म' सुरु गरेको छ । यो राज्यको घट्दो विवाह र कम प्रजनन दरसँग जुध्न ल्याइएको नवीनतम प्रयोग हो। मङ्गलबार सार्वजनिक गरिएको र पहिलो भेट (फर्स्टडेट) नाम दिइएको यो...",
-   "link": "https://www.ratopati.com/story/596186/singapore-dating-service-launched-for-government-employees",
-   "source": "Ratopati",
-   "ts": 1790777668,
-   "weight": 3,
-   "img": "https://npcdn.ratopati.com/media/news/6d847b10-bcb4-11f1-a3e9-bbda6f9b9e25jpg_Iz0qpTo73n.webp",
-   "lang": "ne",
-   "hl": "सिङ्गापुर : सरकारी कर्मचारीका लागि 'डेटिङ' सेवा सुरु",
-   "en": "सिङ्गापुर : सरकारी कर्मचारीका लागि 'डेटिङ' सेवा सुरु",
-   "ne": "सिङ्गापुर : सरकारी कर्मचारीका लागि 'डेटिङ' सेवा सुरु",
-   "imp": 2,
-   "tags": [
-    "Singapore",
-    "GovtEmployees",
-    "DatingService"
-   ],
-   "cat": "society",
-   "val": 2,
-   "teaser": true,
-   "hits": 4
-  },
-  {
-   "title": "मकवानपुर-१ बाट १८ वर्षीय अभिप्सा पौडेल बनिन कांग्रेस महाधिवेशन प्रतिनिधि",
-   "summary": "काठमाडाैँ । नेपाली कांग्रेसको १५औँ राष्ट्रिय महाधिवेशनअन्तर्गत मकवानपुर प्रतिनिधि सभा क्षेत्र नम्बर १ बाट हेटौँडा-९ की १८वर्षीया अभिप्सा पौडेल महाधिवेशन प्रतिनिधिमा निर्वाचित भएकी छन्। पौडेल यसअघि कांग्रेसको वडा...",
-   "link": "https://www.ratopati.com/story/596185/18-year-old-abhipsa-poudel-to-be-congress-general-convention-representative-from-makawanpur-1",
-   "source": "Ratopati",
-   "ts": 1790777524,
-   "weight": 3,
-   "img": "https://npcdn.ratopati.com/media/news/abhispa_neBQzcQ80X.webp",
-   "lang": "ne",
-   "hl": "मकवानपुर-१ बाट १८ वर्षीय अभिप्सा पौडेल बनिन कांग्रेस महाधिवेशन प्रतिनिधि",
-   "en": "मकवानपुर-१ बाट १८ वर्षीय अभिप्सा पौडेल बनिन कांग्रेस महाधिवेशन प्रतिनिधि",
-   "ne": "मकवानपुर-१ बाट १८ वर्षीय अभिप्सा पौडेल बनिन कांग्रेस महाधिवेशन प्रतिनिधि",
-   "imp": 3,
-   "tags": [
-    "Makwanpur",
-    "AbhipsaPaudel",
-    "Congress"
-   ],
-   "cat": "politics",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "भारतलाई वेस्टइन्डिजले दियो ४०६ रनको विशाल लक्ष्य",
-   "summary": "गुवाहाटी । वेस्टइन्डिजले दोस्रो एकदिवसीय खेलमा भारतलाई ४०६ रनको विशाल लक्ष्य दिएको छ । टस हारेर पहिले ब्याटिङ गरेको वेस्टइन्डिजले निर्धारित ५० ओभरमा ७ विकेट गुमाएर ४०५ रन बनाएको हो । यो वेस्टइन्डिजको एकदिवसीय...",
-   "link": "https://www.ratopati.com/story/596184/west-indies-set-india-a-huge-target-of-406-runs",
-   "source": "Ratopati",
-   "ts": 1790777518,
-   "weight": 3,
-   "img": "https://npcdn.ratopati.com/media/news/west-indies_tRoveHeNm7.webp",
-   "lang": "ne",
-   "hl": "भारतलाई वेस्टइन्डिजले दियो ४०६ रनको विशाल लक्ष्य",
-   "en": "भारतलाई वेस्टइन्डिजले दियो ४०६ रनको विशाल लक्ष्य",
-   "ne": "भारतलाई वेस्टइन्डिजले दियो ४०६ रनको विशाल लक्ष्य",
-   "imp": 2,
-   "tags": [
-    "WestIndies",
-    "406Runs",
-    "India"
-   ],
-   "cat": "sports",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "UP Flood Fury: Kushinagar Inundated, Villages Submerged After Nepal Water Release",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZ2xxLW5zVjlkNk5tS3FOcmM1RngzaVNhRzlKQnVON2NhMmRxaU8zNGNHTmJPTEhNS2tFOEpJYjZIdmp5X0tFOFpZcU9BbUd0aFYyZldva2hUVEROUktzYVgtaWNmaDNuUjdIejRQbmkyZVV6SEhtVmZXX1BxWnNpWG05U29YZk1KOG9OZHhJM0p2dkxoMS1idDFZMnZnX2tqRmhuNXNvRTFwX2ZyaEJNUWRKQVJRazFtMnJIdzVCeXNtRUprb0ZWeWtobkdicnJJcGZsS1lYbmvSAd4BQVVfeXFMUHRuOWNWajd2ZGY2aDVPdVVtSmprNHdnX3AxQkVIb0Utc0lIRGJ1VmRUaXBJUDctZVB0Q3BoNm5zNVYtajNPT3ZlWkZ6OEpHT0ZmTUs3LUFOczRDOTJMOFZPZkFtRzhKTm00Z0pPTzRzMVJZS2k1RG5YTmxfSVR0NUxVOF8zNm9TQ2VBM1RqOW1tdl9UVjUwRS1YeThlRGRtNXpvczd6WXJBVVpqSk16WnBpeUZWNUJPNkMzWGJnLXUzbUo1ZjY0RDZlcnBELUxhLU90T0Nmd252cEp1TVJ3?oc=5",
-   "source": "India Today",
-   "ts": 1790777844,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "UP Flood Fury: Kushinagar Inundated, Villages Submerged After Nepal Water Release",
-   "en": "UP Flood Fury: Kushinagar Inundated, Villages Submerged After Nepal Water Release",
-   "ne": "UP Flood Fury: Kushinagar Inundated, Villages Submerged After Nepal Water Release",
-   "imp": 3,
-   "tags": [
-    "UPFlood",
-    "Kushinagar",
-    "NepalWater",
-    "बाढी"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
   {
    "title": "न्यूयोर्ककोमा रहेका उपल्लो मुस्ताङवासीले बाढीपीडितका लागि गरे १ लाख डलर सहयोग",
    "summary": "१४ असोज, न्यूयोर्क । अमेरिकाको न्यूयोर्कमा बसोबास गरिरहेका उपल्लो मुस्ताङवासीले नेपालका भोटेकोशी र त्रिशूली बाढीपीडितहरूको सहायतार्थ एक लाख ४ हजार ६ सय ८८ अमेरिकी डलर (एक करोड साठी लाख ४६ हजार ५७६) रुपैयाँ आर्थिक सहयोग...",
@@ -4380,30 +4177,6 @@
    "hits": 1
   },
   {
-   "title": "वीरगञ्जका मेयर सिंहले ल्याए चार अर्ब २१ करोडको संशोधन बजेट",
-   "summary": "मधेश प्रदेशको एक मात्र महानगर, वीरगञ्जका प्रमुख राजेशमान सिंहले विशेष नगरसभाबाट चार अर्ब २१ करोड ३४ लाखको संशोधन बजेट ल्याइएको बताएका छन्।...",
-   "link": "https://nagariknews.nagariknetwork.com/economy/birgunj-mayor-singh-brings-revised-budget-of-rs-4-21-billion-22-59.html",
-   "source": "Nagarik News",
-   "ts": 1790777950,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1790777900_Birjung%20Mahanagar.jpg",
-   "lang": "ne",
-   "hl": "वीरगञ्जका मेयर सिंहले ल्याए चार अर्ब २१ करोडको संशोधन बजेट",
-   "en": "वीरगञ्जका मेयर सिंहले ल्याए चार अर्ब २१ करोडको संशोधन बजेट",
-   "ne": "वीरगञ्जका मेयर सिंहले ल्याए चार अर्ब २१ करोडको संशोधन बजेट",
-   "imp": 3,
-   "tags": [
-    "Birgunj",
-    "Mayor",
-    "Budget",
-    "वीरगञ्ज"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "१२ हजार रन पूरा गर्दै रोहित शर्माले बनाए अर्को कीर्तिमान",
    "summary": "काठमाडाैं - भारतीय क्रिकेट टोलीका अनुभवी ब्याटर रोहित शर्माले एकदिवसीय अन्तर्राष्ट्रिय क्रिकेटमा अर्को ठूलो उपलब्धि हासिल गरेका छन् । वेस्ट इन्डिजविरुद्धको दोस्रो एकदिवसीय खेलमा रोहितले १२ हजार रन पूरा गर्नुका साथै...",
    "link": "https://khabarhub.com/2026/30/1031433/",
@@ -4844,27 +4617,6 @@
    "hits": 1
   },
   {
-   "title": "Latest News",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5CRXpZMjJIVk9xdHh1S1NhZERlSlVRUlRHajJwZW5xRDVEejdEdzFJOXJ5c2VKTklIMVE3V3JmSjBlNTBKRzJfdjhValc0TWpPOXRfUG1LTVp6eHNrRTBvckVtazZjVE1jT19vUkpweEUxd1FDVzJYaDZGVUJtUQ?oc=5",
-   "source": "myRepublica",
-   "ts": 1790777916,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Latest News",
-   "en": "Latest News",
-   "ne": "Latest News",
-   "imp": 1,
-   "tags": [
-    "LatestNews"
-   ],
-   "cat": "other",
-   "val": 1,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "गिलले बनाए सबैभन्दा छिटो दोहोरो शतक, भारत जितनजिक",
    "summary": "गुहावटी । भारतीय कप्तान शुभमन गिलले एकदिवसीय क्रिकेटमा सबैभन्दा छिटो दोहोरो शतक बनाउने कीर्तिमान कायम गरेका छन् । वेस्टइन्डिजविरुद्धको दोस्रो एकदिवसीय खेलमा गिलले ११७ बलमा दोहोरो शतक पूरा गरेका हुन् । गिलले ईशान किशनको...",
    "link": "https://www.ratopati.com/story/596210/gill-scores-fastest-double-century-india-close-to-victory",
@@ -4931,29 +4683,6 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "उडिरहेको जहाजको 'ककपिट' भित्रै किन एक- अर्काको ज्या'न लिन उत्रिए पाइलट ?",
-   "summary": "करिब ३३ हजार फिटको उचाइमा उडिरहेको विमान एक मिनेटभन्दा कम समयमा १७ हजार फिटको आसपास तल झरेपछि यात्रुहरूमा त्रास फैलियो।...",
-   "link": "https://nagariknews.nagariknetwork.com/international/why-did-one-pilot-jump-into-the-cockpit-of-a-flying-plane-to-take-the-life-of-another-19-27.html",
-   "source": "Nagarik News",
-   "ts": 1790777970,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1790786056_final.png",
-   "lang": "ne",
-   "hl": "उडिरहेको जहाजको 'ककपिट' भित्रै किन एक- अर्काको ज्या'न लिन उत्रिए पाइलट ?",
-   "en": "उडिरहेको जहाजको 'ककपिट' भित्रै किन एक- अर्काको ज्या'न लिन उत्रिए पाइलट ?",
-   "ne": "उडिरहेको जहाजको 'ककपिट' भित्रै किन एक- अर्काको ज्या'न लिन उत्रिए पाइलट ?",
-   "imp": 1,
-   "tags": [
-    "Aviation",
-    "Cockpit",
-    "Pilot"
-   ],
-   "cat": "world",
-   "val": 1,
-   "teaser": true,
    "hits": 1
   },
   {
@@ -5070,29 +4799,6 @@
    "val": 3,
    "teaser": false,
    "hits": 2
-  },
-  {
-   "title": "Govt preparing separate law to regulate social media, age restrictions for children",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNkZteU8zRnZXS0Nucjl6ak01dDBKZkdYRGt1RmVNMHBkTF9BbFVGTmRGYnE0bHpveDI4d19RSzVKWWx6bFBJdmxGRTZsUVNuZlZUVTFjWjhTNzlqWktHNkJtZ2hLQ3R5ejFtZ3U4dmN3VlZFam9VR0JlVGdTU2hnMk5rSHVFYWd0VWhFbm1KcXF1WGFXWUJob3l6S1hHd2tPR1FwM2V4dzRTNzBKdGNWa3Q0WS13NVFSZDJRRm1uS25BQjNtbklSeERR?oc=5",
-   "source": "myRepublica",
-   "ts": 1790777760,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Govt preparing separate law to regulate social media, age restrictions for children",
-   "en": "Govt preparing separate law to regulate social media, age restrictions for children",
-   "ne": "Govt preparing separate law to regulate social media, age restrictions for children",
-   "imp": 4,
-   "tags": [
-    "SocialMedia",
-    "NepalGovernment",
-    "Law"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
   },
   {
    "title": "Four Arrested for Embezzling Rs 3.48 Million in Foreign Employment Fraud",
@@ -5671,30 +5377,6 @@
    ],
    "cat": "politics",
    "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Annapurna Circuit: Trekkers helicoptered off mountains as more deadly landslides hit Nepal",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1QU2VEMUc1M0FmYlNMQ1BsS0NOdkw5dlppWTNjd2RKNEtwQW9RXzBWMWFyRnVLU0g1a1dGMFFLRmNqWnNWVFhHdHQ4TlZob0h6a21YejExSmJHZHhiQ1E?oc=5",
-   "source": "BBC",
-   "ts": 1790805676,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Annapurna Circuit: Trekkers helicoptered off mountains as more deadly landslides hit Nepal",
-   "en": "Annapurna Circuit: Trekkers helicoptered off mountains as more deadly landslides hit Nepal",
-   "ne": "Annapurna Circuit: Trekkers helicoptered off mountains as more deadly landslides hit Nepal",
-   "imp": 4,
-   "tags": [
-    "AnnapurnaCircuit",
-    "Landslide",
-    "Nepal",
-    "पहिरो"
-   ],
-   "cat": "disaster",
-   "val": 3,
    "teaser": false,
    "hits": 1
   }
@@ -8961,10 +8643,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "society"
+  },
+  {
+   "ts": 1790806849.1107507,
+   "en": "Nepal Landslides Kill 30 and Strand Trekkers on Annapurna Circuit",
+   "ne": "Nepal Landslides Kill 30 and Strand Trekkers on Annapurna Circuit",
+   "link": "https://www.bbc.co.uk/news/articles/c607l4l3vn0eo",
+   "source": "BBC",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": true,
+   "cat": "disaster"
   }
  ],
- "updated": 1790806264,
- "pending_since": 1790805041.7020693,
+ "updated": 1790806860,
+ "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
