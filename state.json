@@ -3710,7 +3710,9 @@
   "https://www.ratopati.com/story/595951/four-killed-as-soldier-opens-fire-on-colleague-in-jammu-and-kashmir": 1790736050.6229389,
   "https://baahrakhari.com/detail/503206": 1790736050.6229389,
   "http://english.ratopati.com/story/81519/lashkar-commander-hashim-musa-killed-in-jammu-and-kashmir-claims-report": 1790736050.6229389,
-  "https://risingnepaldaily.com/news/87194": 1790736050.6229389
+  "https://risingnepaldaily.com/news/87194": 1790736050.6229389,
+  "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBkamFwUXVFMUxYamtKN0pZY2w3OEgycGpjZ3NIZ3JjRExneXpwdjhCZnNQTTRoVUVVSWJMS21ESnAzbXBqcjdEM0FwT3RpazA2?oc=5": 1790736643.8103292,
+  "https://www.onlinekhabar.com/2026/09/2029000/48-goats-washed-away-by-flood-in-bhotkhola-in-sankhuwasabha": 1790736643.8103292
  },
  "queue": [
   {
@@ -3733,30 +3735,6 @@
    ],
    "cat": "economy",
    "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "ढालियो इन्द्रजात्राको लिङ्गो, राष्ट्रपतिद्वारा कुमारीसँग टीका प्रसाद ग्रहण",
-   "summary": "काठमाडौँ । ऐतिहासिक तथा सांस्कृतिक पर्व इन्द्रजात्राको लिङ्गो आज राति ०९ः२५ बजेको साइतमा ढालिएको (इन्द्रध्वजपातन) छ । भाद्र शुक्ल द्वादशीका दिन हनुमानढोका दरबार क्षेत्रमा इन्द्रध्वजोत्थान गरी सुरु भएको इन्द्रजात्रा...",
-   "link": "https://www.ratopati.com/story/595920/indra-jatra-festival-lingo-unveiled-president-receives-tika-prasad-from-kumari",
-   "source": "Ratopati",
-   "ts": 1790707256,
-   "weight": 3,
-   "img": "https://npcdn.ratopati.com/media/news/Tr8L13dASh.jpg",
-   "lang": "ne",
-   "hl": "ढालियो इन्द्रजात्राको लिङ्गो, राष्ट्रपतिद्वारा कुमारीसँग टीका प्रसाद ग्रहण",
-   "en": "ढालियो इन्द्रजात्राको लिङ्गो, राष्ट्रपतिद्वारा कुमारीसँग टीका प्रसाद ग्रहण",
-   "ne": "ढालियो इन्द्रजात्राको लिङ्गो, राष्ट्रपतिद्वारा कुमारीसँग टीका प्रसाद ग्रहण",
-   "imp": 3,
-   "tags": [
-    "IndraJatra",
-    "President",
-    "Kumari",
-    "इन्द्रजात्रा"
-   ],
-   "cat": "culture",
-   "val": 3,
    "teaser": false,
    "hits": 1
   },
@@ -4284,29 +4262,6 @@
    "val": 2,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "Nepali kayakers reach Asiad semis",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBVb1JNZG1kTnNSYXlMN0k1cjRKelZXSTQyLVJUYVhfWVo5MTlLblF3QUQ3WHhNZThZeW4zak01MUxvSDduUHhxLTZMU09rMkdY?oc=5",
-   "source": "The Rising Nepal",
-   "ts": 1790728279,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Nepali kayakers reach Asiad semis",
-   "en": "Nepali kayakers reach Asiad semis",
-   "ne": "Nepali kayakers reach Asiad semis",
-   "imp": 3,
-   "tags": [
-    "AsianGames",
-    "Kayaking",
-    "Nepal"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 3
   },
   {
    "title": "देशभर मनसुनी र पश्चिमी वायुको आंशिक प्रभाव, आज यी ६ प्रदेशमा वर्षाको सम्भावना",
@@ -6434,6 +6389,30 @@
     "बीमा"
    ],
    "cat": "economy",
+   "val": 3,
+   "teaser": false,
+   "hits": 2
+  },
+  {
+   "title": "संखुवासभाको भोटखोला बाढीले ४८ बाख्रा बगायो",
+   "summary": "१४ असोज, संखुवासभा । संखुवासभाको भोटखोला गाउँपालिका-४ ठाडोखोलामा आएको बाढीले ४८ वटा बाख्रा बगाएको छ । भोटखोला-४ का नवीन गुरुङको खोरमा रहेका ४८ वटा बाख्रा बाढीले बगाएको जिल्ला प्रहरी कार्यालय संखुवासभाका सूचना अधिकारी...",
+   "link": "https://www.onlinekhabar.com/2026/09/2029000/48-goats-washed-away-by-flood-in-bhotkhola-in-sankhuwasabha",
+   "source": "Onlinekhabar",
+   "ts": 1790736114,
+   "weight": 3,
+   "img": "https://www.onlinekhabar.com/wp-content/uploads/2026/09/Bhotkhola.jpg",
+   "lang": "ne",
+   "hl": "संखुवासभाको भोटखोला बाढीले ४८ बाख्रा बगायो",
+   "en": "संखुवासभाको भोटखोला बाढीले ४८ बाख्रा बगायो",
+   "ne": "संखुवासभाको भोटखोला बाढीले ४८ बाख्रा बगायो",
+   "imp": 3,
+   "tags": [
+    "Sankhuwasabha",
+    "Bhotkhola",
+    "Flood",
+    "बाढी"
+   ],
+   "cat": "disaster",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -9305,9 +9284,20 @@
    "n_ig": 1,
    "brk": true,
    "cat": "disaster"
+  },
+  {
+   "ts": 1790736654.5635443,
+   "en": "Nepali kayakers Bijaya Majhi and Aashish Rana Magar reach Asiad semis",
+   "ne": "Nepali kayakers Bijaya Majhi and Aashish Rana Magar reach Asiad semis",
+   "link": "https://risingnepaldaily.com/news/87183",
+   "source": "The Rising Nepal",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "sports"
   }
  ],
- "updated": 1790736074,
+ "updated": 1790736676,
  "pending_since": 1790735463.8680873,
  "fb_blocks": [
   1790350880.4125228,
