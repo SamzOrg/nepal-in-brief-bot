@@ -1,10 +1,5 @@
 {
  "seen": {
-  "https://gorkhapatraonline.com/news/224584": 1790560878.7485447,
-  "https://www.setopati.com/social/399404": 1790560878.7485447,
-  "https://khabarhub.com/2026/28/1030109/": 1790560878.7485447,
-  "https://www.setopati.com/social/399405": 1790561447.509183,
-  "http://lokaantar.com/story/329947/2026/9/28/sadak-": 1790561447.509183,
   "https://khabarhub.com/2026/28/1030112/": 1790562042.489073,
   "https://risingnepaldaily.com/news/87117": 1790562042.489073,
   "https://www.onlinekhabar.com/2026/09/2027323/indian-national-arrested-with-gold-at-tribhuvan-airport": 1790562042.489073,
@@ -3736,7 +3731,9 @@
   "https://gorkhapatraonline.com/news/224846": 1790733676.6479104,
   "https://nagariknews.nagariknetwork.com/opinion/from-disorderly-urbanization-to-planned-development-br-86-23.html": 1790733676.6479104,
   "https://gorkhapatraonline.com/news/224845": 1790733676.6479104,
-  "https://nagariknews.nagariknetwork.com/Aparadh/daughter-in-law-arrested-after-son-files-defamation-complaint-47-40.html": 1790733676.6479104
+  "https://nagariknews.nagariknetwork.com/Aparadh/daughter-in-law-arrested-after-son-files-defamation-complaint-47-40.html": 1790733676.6479104,
+  "http://english.ratopati.com/story/81515/narayani-coastal-chaos-building-a-municipality-draining-the-river": 1790734248.3334684,
+  "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTDR4dDhIUmRTY2NnemNOTjlLd0V5WUJYTXctQndOcGlFQ3dkMlQ2VVN3ZU9iTllic3ZRdGlobUNZRHg5Ulhtc1psTWUzb3hjMGRzRjN5TzFvZ2hSLVBFSDNfWTVlV0RHeXBESlhYdmdOV3BYMjlaS2p0OHY5ZHkzdA?oc=5": 1790734248.3334684
  },
  "queue": [
   {
@@ -6135,6 +6132,52 @@
     "Crime"
    ],
    "cat": "crime",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Narayani Riverbank Development Project Fails Due to Flooding",
+   "summary": "Chitwan. The dream of Bharatpur residents to beautify the Narayani riverbank, located adjacent to Narayangadh bazaar, will not be fulfilled....",
+   "link": "http://english.ratopati.com/story/81515/narayani-coastal-chaos-building-a-municipality-draining-the-river",
+   "source": "Ratopati EN",
+   "ts": 1790734047,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/n1ofmxq298.jpg",
+   "lang": "en",
+   "hl": "Narayani Riverbank Development Project Fails Due to Flooding",
+   "en": "Narayani Riverbank Development Project Fails Due to Flooding",
+   "ne": "Narayani Riverbank Development Project Fails Due to Flooding",
+   "imp": 3,
+   "tags": [
+    "NarayaniRiver",
+    "Flooding",
+    "ProjectFailure"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "BLACKYAK Kang Tae-sun Sharing Foundation Provides KRW 2 Billion Worth of Relief Supplies to Flood Victims in Nepal",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTDR4dDhIUmRTY2NnemNOTjlLd0V5WUJYTXctQndOcGlFQ3dkMlQ2VVN3ZU9iTllic3ZRdGlobUNZRHg5Ulhtc1psTWUzb3hjMGRzRjN5TzFvZ2hSLVBFSDNfWTVlV0RHeXBESlhYdmdOV3BYMjlaS2p0OHY5ZHkzdA?oc=5",
+   "source": "sportschosun.com",
+   "ts": 1790731853,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "BLACKYAK Kang Tae-sun Sharing Foundation Provides KRW 2 Billion Worth of Relief Supplies to Flood Victims in Nepal",
+   "en": "BLACKYAK Kang Tae-sun Sharing Foundation Provides KRW 2 Billion Worth of Relief Supplies to Flood Victims in Nepal",
+   "ne": "BLACKYAK Kang Tae-sun Sharing Foundation Provides KRW 2 Billion Worth of Relief Supplies to Flood Victims in Nepal",
+   "imp": 3,
+   "tags": [
+    "BLACKYAK",
+    "FloodRelief",
+    "Nepa"
+   ],
+   "cat": "disaster",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -8975,7 +9018,7 @@
    "cat": "health"
   }
  ],
- "updated": 1790733685,
+ "updated": 1790734255,
  "pending_since": 1790733676.6479104,
  "fb_blocks": [
   1790350880.4125228,
