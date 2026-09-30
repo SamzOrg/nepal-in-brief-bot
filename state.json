@@ -3739,32 +3739,15 @@
   "https://khabarhub.com/2026/30/1031045/": 1790730079.5827644,
   "https://news.google.com/rss/articles/CBMie0FVX3lxTE8tSkJPdmY3TmdrS2tNWDlwNWJ6eUtzeDZCaFFxMS1Sa2xudzUxSnFYbTZ1YkcyaVYxR2ZSZENDSHBTWngwQUp1THlBbXNlUE8tNUxtOE5odGtTZHJnMUl3R3d6d21iUW5HeGFuZVNtaTZVUVc3U1FYUjQ2Yw?oc=5": 1790730079.5827644,
   "http://lokaantar.com/story/330109/2026/9/30/maldhungga-": 1790730079.5827644,
-  "https://khabarhub.com/2026/30/1031044/": 1790730079.5827644
+  "https://khabarhub.com/2026/30/1031044/": 1790730079.5827644,
+  "https://www.setopati.com/social/399563": 1790730644.9904983,
+  "https://nagariknews.nagariknetwork.com/social-affairs/recommendation-for-declaring-myagdi-a-disaster-prone-district-drinking-water-problem-in-beni-46-54.html": 1790730644.9904983,
+  "https://gorkhapatraonline.com/news/224834": 1790730644.9904983,
+  "https://nagariknews.nagariknetwork.com/politics/four-parliamentary-committees-are-meeting-today-31-75.html": 1790730644.9904983,
+  "https://nagariknews.nagariknetwork.com/social-affairs/nepal-canada-parliamentary-friendship-group-meeting-underway-60-13.html": 1790730644.9904983,
+  "https://kathmandupost.com/national/2026/09/30/a-month-after-the-flood-survivors-have-nowhere-to-go-no-way-to-earn": 1790730644.9904983
  },
  "queue": [
-  {
-   "title": "Russian Military Plane Crashes in Amur Region, Six Crew Members Dead",
-   "summary": "Kathmandu. Six crew members died and one was injured when a Russian military plane crashed in Russia's far eastern Amur...",
-   "link": "http://english.ratopati.com/story/81501/military-plane-crashes-in-russias-far-east-six-dead",
-   "source": "Ratopati EN",
-   "ts": 1790701420,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/russia-flag_ZRMevq69o7.jpg",
-   "lang": "en",
-   "hl": "Russian Military Plane Crashes in Amur Region, Six Crew Members Dead",
-   "en": "Russian Military Plane Crashes in Amur Region, Six Crew Members Dead",
-   "ne": "Russian Military Plane Crashes in Amur Region, Six Crew Members Dead",
-   "imp": 1,
-   "tags": [
-    "Russia",
-    "MilitaryPlane",
-    "AmurRegion"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
   {
    "title": "लापसे गरी सवारी चलाउने तीन चालक पक्राउ",
    "summary": "काठमाडौँ, असोज १३ गते । काठमाडौँ उपत्यका ट्राफिक प्रहरी कार्यालयले लागुऔषध (लापसे) सेवन गरी सवारीसाधन चलाउने तीन चालकलाई नियन्त्रणमा लिएको छ ।कीर्तिपुरस्थित त्रिभुवन विश्वविद्यालयक...",
@@ -4177,7 +4160,7 @@
    "cat": "disaster",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "मनाङमै अड्किए पर्यटक",
@@ -4517,7 +4500,7 @@
    "cat": "disaster",
    "val": 1,
    "teaser": true,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "'Seto Dunga Feriyeko Bato' staged in Pokhara",
@@ -4976,6 +4959,29 @@
    ],
    "cat": "sports",
    "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "A month after the flood, survivors have nowhere to go, no way to earn",
+   "summary": "Relief has helped families through the immediate aftermath, but damaged roads, lost homes, closed schools and shattered livelihoods are making recovery harder.",
+   "link": "https://kathmandupost.com/national/2026/09/30/a-month-after-the-flood-survivors-have-nowhere-to-go-no-way-to-earn",
+   "source": "Kathmandu Post",
+   "ts": 1790716246.1702785,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "A month after the flood, survivors have nowhere to go, no way to earn",
+   "en": "A month after the flood, survivors have nowhere to go, no way to earn",
+   "ne": "A month after the flood, survivors have nowhere to go, no way to earn",
+   "imp": 3,
+   "tags": [
+    "Flood",
+    "Survivors",
+    "बाढी"
+   ],
+   "cat": "disaster",
+   "val": 1,
    "teaser": false,
    "hits": 1
   }
@@ -7793,7 +7799,7 @@
    "cat": "society"
   }
  ],
- "updated": 1790730090,
+ "updated": 1790730655,
  "pending_since": 1790729443.1534414,
  "fb_blocks": [
   1790350880.4125228,
