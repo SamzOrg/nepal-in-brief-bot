@@ -3725,7 +3725,12 @@
   "https://gorkhapatraonline.com/news/224865": 1790742664.8355317,
   "https://nagariknews.nagariknetwork.com/economy/gautam-buddha-airport-which-was-invested-in-billions-is-deserted-shah-government-hopes-to-resume-regular-flights-98-92.html": 1790742664.8355317,
   "https://gorkhapatraonline.com/news/224864": 1790742664.8355317,
-  "https://nagariknews.nagariknetwork.com/social-affairs/all-three-trade-points-towards-china-closed-vehicles-worth-billions-stranded-on-roads-and-at-the-points-br-94-14.html": 1790742664.8355317
+  "https://nagariknews.nagariknetwork.com/social-affairs/all-three-trade-points-towards-china-closed-vehicles-worth-billions-stranded-on-roads-and-at-the-points-br-94-14.html": 1790742664.8355317,
+  "https://baahrakhari.com/detail/503216": 1790743246.2902374,
+  "https://khabarhub.com/2026/30/1031090/": 1790743246.2902374,
+  "https://www.ratopati.com/story/595971/beni-maldhunga-korla-road-landslide-removal-and-structure-construction-work-intensifies": 1790743246.2902374,
+  "https://english.khabarhub.com/2026/30/569981/": 1790743246.2902374,
+  "https://kathmandupost.com/sudurpaschim-province/2026/09/30/flood-damages-iconic-dodhara-chandani-suspension-footbridge": 1790743246.2902374
  },
  "queue": [
   {
@@ -7207,7 +7212,7 @@
    "cat": "disaster",
    "val": 3,
    "teaser": false,
-   "hits": 5
+   "hits": 6
   },
   {
    "title": "At least 23 dead in Thailand floods, Bangkok airport in chaos",
@@ -7758,7 +7763,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "प्रदेशहरू प्रशासनिक रूपमा आत्मनिर्भर नभएसम्म संघीयताको वास्तविक कार्यान्वयन हुँदैन",
@@ -8575,6 +8580,75 @@
     "Rasuwagadhi"
    ],
    "cat": "economy",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "बेनी-मालढुंगा-कोरला सडक : पहिरो हटाउने र संरचना निर्माण कार्य तीव्र",
+   "summary": "काठमाडौँ । बाढीपहिरोका कारण अवरुद्ध बेनी-मालढुंगा-कोरला सडकखण्डमा यातायात सञ्चालनका लागि सडक विभागले मर्मत तथा पुनःनिर्माणको काम तीव्र बनाएको छ । सडक विभागका अनुसार घासा-कोरला सडकखण्डमा पहिरो हटाएर दुईतर्फी यातायात...",
+   "link": "https://www.ratopati.com/story/595971/beni-maldhunga-korla-road-landslide-removal-and-structure-construction-work-intensifies",
+   "source": "Ratopati",
+   "ts": 1790743186,
+   "weight": 3,
+   "img": "https://npcdn.ratopati.com/media/news/825336864_122116274163439468_7036631424135422053_n_81zHnsuwmf.webp",
+   "lang": "ne",
+   "hl": "बेनी-मालढुंगा-कोरला सडक : पहिरो हटाउने र संरचना निर्माण कार्य तीव्र",
+   "en": "बेनी-मालढुंगा-कोरला सडक : पहिरो हटाउने र संरचना निर्माण कार्य तीव्र",
+   "ne": "बेनी-मालढुंगा-कोरला सडक : पहिरो हटाउने र संरचना निर्माण कार्य तीव्र",
+   "imp": 3,
+   "tags": [
+    "Beni",
+    "Mustang",
+    "पहिरो"
+   ],
+   "cat": "disaster",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Int'l community keen to help with post-Bhotekoshi flood reconstruction: Foreign Minister Khanal",
+   "summary": "KATHMANDU: Foreign Minister Shisir Khanal has said the international community has expressed strong interest in supporting Nepal's post-Bhotekoshi flood reconstruction efforts and its fight against the climate crisis....",
+   "link": "https://english.khabarhub.com/2026/30/569981/",
+   "source": "Khabarhub EN",
+   "ts": 1790742936,
+   "weight": 2,
+   "img": "https://english.khabarhub.com/wp-content/uploads/2026/09/Shisir-Khanal-1-400x220.jpg",
+   "lang": "en",
+   "hl": "Int'l community keen to help with post-Bhotekoshi flood reconstruction: Foreign Minister Khanal",
+   "en": "Int'l community keen to help with post-Bhotekoshi flood reconstruction: Foreign Minister Khanal",
+   "ne": "Int'l community keen to help with post-Bhotekoshi flood reconstruction: Foreign Minister Khanal",
+   "imp": 4,
+   "tags": [
+    "Bhotekoshi",
+    "Flood",
+    "ArzuRanaKhanal"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Flood damages iconic Dodhara Chandani suspension footbridge",
+   "summary": "Damage to the third span of the 1.5-km footbridge has prompted authorities to inspect the structure and warn people against using the affected section.",
+   "link": "https://kathmandupost.com/sudurpaschim-province/2026/09/30/flood-damages-iconic-dodhara-chandani-suspension-footbridge",
+   "source": "Kathmandu Post",
+   "ts": 1790728847.6698372,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "Flood damages iconic Dodhara Chandani suspension footbridge",
+   "en": "Flood damages iconic Dodhara Chandani suspension footbridge",
+   "ne": "Flood damages iconic Dodhara Chandani suspension footbridge",
+   "imp": 4,
+   "tags": [
+    "DodharaChandani",
+    "Flood",
+    "Bridge"
+   ],
+   "cat": "disaster",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -11514,8 +11588,8 @@
    "cat": "politics"
   }
  ],
- "updated": 1790742692,
- "pending_since": null,
+ "updated": 1790743252,
+ "pending_since": 1790743246.2902374,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
