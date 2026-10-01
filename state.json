@@ -3707,7 +3707,9 @@
   "https://www.ratopati.com/story/596508/embankment-protects-gaindakot-settlement": 1790897461.3674412,
   "https://www.ratopati.com/story/596510/metropolitan-municipality-launches-postnatal-care-pnc-home-visit-program": 1790897461.3674412,
   "http://english.ratopati.com/story/81855/this-is-the-foreign-exchange-rate-on-friday": 1790898043.5611448,
-  "http://english.ratopati.com/story/81854/the-dream-of-a-farmer-washed-away-by-the-floods-of-kaligandaki": 1790898043.5611448
+  "http://english.ratopati.com/story/81854/the-dream-of-a-farmer-washed-away-by-the-floods-of-kaligandaki": 1790898043.5611448,
+  "https://www.ratopati.com/story/596514/this-is-the-foreign-exchange-rate-on-friday": 1790898643.8990269,
+  "http://english.ratopati.com/story/81856/both-houses-of-the-federal-parliament-are-meeting-today-here-is-the-agenda": 1790898643.8990269
  },
  "queue": [
   {
@@ -3840,29 +3842,6 @@
     "जेनजी",
     "आन्दोलन",
     "Committee"
-   ],
-   "cat": "politics",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "प्रचण्डको टिप्पणी- सरकार ठिक दिशातिर गएको छैन",
-   "summary": "१५ असोज, काठमाडौं । नेपाली कम्युनिष्ट पार्टी (नेकपा)का संयोजक पुष्पकमल दाहाल प्रचण्डले सरकार ठिक दिशामा अगाडि बढ्न नसकेको टिप्पणी गर्नुभएको छ । बिहीबार पार्टीको दुवै सदनको संसदीय समितिको संयुक्त बैठक पछि सञ्चारकर्मीसँग...",
-   "link": "https://www.onlinekhabar.com/2026/10/2030406/prachandas-comment-the-government-is-not-going-in-the-right-direction",
-   "source": "Onlinekhabar",
-   "ts": 1790869794,
-   "weight": 3,
-   "img": "https://www.onlinekhabar.com/wp-content/uploads/2026/10/Prachanda-.jpg",
-   "lang": "ne",
-   "hl": "प्रचण्डको टिप्पणी- सरकार ठिक दिशातिर गएको छैन",
-   "en": "प्रचण्डको टिप्पणी- सरकार ठिक दिशातिर गएको छैन",
-   "ne": "प्रचण्डको टिप्पणी- सरकार ठिक दिशातिर गएको छैन",
-   "imp": 3,
-   "tags": [
-    "प्रचण्ड",
-    "Prachanda",
-    "Government"
    ],
    "cat": "politics",
    "val": 2,
@@ -4046,29 +4025,6 @@
     "CristianoRonaldo",
     "Portugal",
     "Football"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "आईसीसी क्रिकेट विश्वकपको समूह विभाजन, खेलतालिका सार्वजनिक",
-   "summary": "१५ असोज, काठमाडौं । दक्षिण अफ्रिका, जिम्बाबे र नामिबियामा संयुक्त रूपमा आयोजना हुने सन् २०२७ को आईसीसी एकदिवसीय क्रिकेट विश्वकपको समूह विभाजनसँगै खेलतालिका सार्वजनिक भएको छ । दक्षिण अफ्रिकाको केप टाउनमा बिहीबार आयोजित...",
-   "link": "https://www.onlinekhabar.com/2026/10/2030389/icc-cricket-world-cup-group-division-match-schedule-announced",
-   "source": "Onlinekhabar",
-   "ts": 1790871648,
-   "weight": 3,
-   "img": "https://www.onlinekhabar.com/wp-content/uploads/2026/10/icc-cwc-2027-groups.png",
-   "lang": "ne",
-   "hl": "आईसीसी क्रिकेट विश्वकपको समूह विभाजन, खेलतालिका सार्वजनिक",
-   "en": "आईसीसी क्रिकेट विश्वकपको समूह विभाजन, खेलतालिका सार्वजनिक",
-   "ne": "आईसीसी क्रिकेट विश्वकपको समूह विभाजन, खेलतालिका सार्वजनिक",
-   "imp": 3,
-   "tags": [
-    "ICC",
-    "WorldCup",
-    "Cricket"
    ],
    "cat": "sports",
    "val": 3,
@@ -4288,28 +4244,6 @@
    "hits": 2
   },
   {
-   "title": "१२ बजे १२ समाचार : 'हेल्थ प्याकेज'का नाममा अस्पतालको मनपरी असुली, विद्युत् व्यापारमा नयाँ क्रान्ति",
-   "summary": "काठमाडौँ । आज दिनभरका मुख्यमुख्य घटनाक्रमसहित रातोपाटीको रात्रिकालीन प्रस्तुति रातोपाटी ब्रिफिङमा १० बजे १० समाचार लिएर उपस्थित भएका छौँ- १. विद्युत व्यापारमा नयाँ क्रान्ति ऊर्जा क्षेत्रमा लामो समयदेखि प्रतीक्षा गरिएको...",
-   "link": "https://www.ratopati.com/story/596498/12-oclock-12-news-hospitals-arbitrary-recovery-in-the-name-of-health-package-new-revolution-in-electricity-business",
-   "source": "Ratopati",
-   "ts": 1790878516,
-   "weight": 3,
-   "img": "https://npcdn.ratopati.com/media/news/cover-12-news_KPRcCiOpIQ.webp",
-   "lang": "ne",
-   "hl": "१२ बजे १२ समाचार : 'हेल्थ प्याकेज'का नाममा अस्पतालको मनपरी असुली, विद्युत् व्यापारमा नयाँ क्रान्ति",
-   "en": "१२ बजे १२ समाचार : 'हेल्थ प्याकेज'का नाममा अस्पतालको मनपरी असुली, विद्युत् व्यापारमा नयाँ क्रान्ति",
-   "ne": "१२ बजे १२ समाचार : 'हेल्थ प्याकेज'का नाममा अस्पतालको मनपरी असुली, विद्युत् व्यापारमा नयाँ क्रान्ति",
-   "imp": 4,
-   "tags": [
-    "HealthPackage",
-    "ElectricityTrade"
-   ],
-   "cat": "health",
-   "val": 3,
-   "teaser": true,
-   "hits": 1
-  },
-  {
    "title": "सुरुङ मार्गमा ट्राफिक नियम उल्लंघन गर्ने २०० बढी कारबाहीमा",
    "summary": "",
    "link": "https://baahrakhari.com/detail/503431",
@@ -4442,29 +4376,6 @@
    "hits": 1
   },
   {
-   "title": "MP Rai asks why Gen Z protesters remain jailed as some become MPs, ministers",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbHRMV0ZmaWhJalkwR2taLUNTcG9yYWZidmlTb3hxb0pTdnhtSHdiV1VJckJXalRFSkNxLTJJbzZCR2xLZDViWWxQdmhuSVJ6V2xNbEczV3ZRNEVfdGp1TkdVd1BZZ2pBX3g5bkw0ejVEemRHdVEtUWZIdTg2d0hTWWFoSFpNRjZ6Q1YxNzJpWVp4d3g5ZzFmaGZENU13alZBYTNhMnVBcTdEeHVuZHNzSDhkQnBnSHI2bXZUU3RqckJHSFRaZEQxSmtn?oc=5",
-   "source": "myRepublica",
-   "ts": 1790869397,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "MP Rai asks why Gen Z protesters remain jailed as some become MPs, ministers",
-   "en": "MP Rai asks why Gen Z protesters remain jailed as some become MPs, ministers",
-   "ne": "MP Rai asks why Gen Z protesters remain jailed as some become MPs, ministers",
-   "imp": 3,
-   "tags": [
-    "GenZ",
-    "Parliament",
-    "Nepal"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
    "title": "Transmission Line Repair Begins in Myagdi and Mustang After Flood Damage",
    "summary": "Myagdi. Repair of the transmission line for electricity supply in Annapurna Rural Municipality and Mustang of Myagdi, affected by floods...",
    "link": "http://english.ratopati.com/story/81849/transmission-line-repairs-begin-in-myagdi",
@@ -4504,29 +4415,6 @@
    "tags": [
     "Myagdi",
     "TransmissionLine"
-   ],
-   "cat": "tech",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "AEPC, GRIPS 2 train 45 engineers in battery storage technology",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWEJjcnBGLWtVWHBvaUtMV2JvdWhEUnFaN1pORlVXc2F3WTlzRGxlemxRcEdxbnhsZGNqRks5elRNLXhIcHlaOTU0ZGdYX3lvWXJYeU5kOWVRNHctZ2ZCeldlRU03SUdOb3Q5OEJHa0JmS09IX1lKUkRwdFR0RWxmZm44eWpKTzRXVUxyQlRpYXdocHlqMVR5RFJ4M2wtdlNWZFpMZUI2aE9KbUI5ZzBhRzNqZ3Npb2M?oc=5",
-   "source": "myRepublica",
-   "ts": 1790869384,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "AEPC, GRIPS 2 train 45 engineers in battery storage technology",
-   "en": "AEPC, GRIPS 2 train 45 engineers in battery storage technology",
-   "ne": "AEPC, GRIPS 2 train 45 engineers in battery storage technology",
-   "imp": 3,
-   "tags": [
-    "AEPC",
-    "BatteryStorage",
-    "Engineers"
    ],
    "cat": "tech",
    "val": 3,
@@ -8661,9 +8549,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "crime"
+  },
+  {
+   "ts": 1790898658.4946785,
+   "en": "सन् २०२७ को एकदिवसीय विश्वकपको समूह र खेलतालिका सार्वजनिक",
+   "ne": "सन् २०२७ को एकदिवसीय विश्वकपको समूह र खेलतालिका सार्वजनिक",
+   "link": "https://www.onlinekhabar.com/2026/10/2030389/icc-cricket-world-cup-group-division-match-schedule-announced",
+   "source": "Onlinekhabar",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "sports"
   }
  ],
- "updated": 1790898049,
+ "updated": 1790898668,
  "pending_since": 1790898043.5611448,
  "fb_blocks": [
   1790350880.4125228,
