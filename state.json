@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://www.ratopati.com/story/595917/darchula-hospital-under-construction-to-be-completed-by-mid-december": 1790705448.2099571,
-  "https://gorkhapatraonline.com/news/224828": 1790706048.1118155,
   "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWjdXdF8zODVDRmVMTjVucV9rYUNqRkYtcHZianplbHVvZEJTZXlodi1WcnM0dmVsTk1zU2RRVjZFLTNtN2E2TU45RUlVdk1LSnJ3T2tpaU9RNEZVT3l0dzYyTXdrRVpaczB1Qy1UemhnMXRNek5IZm12SV84aWswX2M1dTZEMzJBR3p6WTUyVTliQTNnaUZNM2c0TFRtN2F5a09qQlhmeVM1TkJGZGIteENIWjlka0tUblQ1OVFKUFVpN2ZmSE5EZDdVcVVleXJaQ2Zz?oc=5": 1790706667.9051836,
   "https://gorkhapatraonline.com/news/224830": 1790706667.9051836,
   "https://www.ratopati.com/story/595916/12-oclock-12-news-health-ministers-forgettable-6-month-tenure-increased-pressure-on-infrastructure-in-the-far-west": 1790706667.9051836,
@@ -3722,7 +3720,16 @@
   "https://gorkhapatraonline.com/news/225081": 1790877681.5800116,
   "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTG1NRC1aM2JTTEl4aWF3QUFlb1Q4NGt2dnZXRVlvLXEySjl0QnpOaUlRaTduRFlwWkpPUUczN0M2dm81c3FubzRJN0wwc0sxbW01dktoY1hmRVdDdWtjelh0VmhYd2pwSkxTMmJfSU45dnNDS2t5U3d2dm9Od1JxTTgxMF9nMWU0OUU4cGNIMUNOMW1NdUJZTkJhbUpqS3c?oc=5": 1790877681.5800116,
   "https://gorkhapatraonline.com/news/225082": 1790878247.4584067,
-  "https://baahrakhari.com/detail/503432": 1790878247.4584067
+  "https://baahrakhari.com/detail/503432": 1790878247.4584067,
+  "https://gorkhapatraonline.com/news/225083": 1790878852.2729185,
+  "https://www.ratopati.com/story/596498/12-oclock-12-news-hospitals-arbitrary-recovery-in-the-name-of-health-package-new-revolution-in-electricity-business": 1790878852.2729185,
+  "https://baahrakhari.com/detail/503431": 1790878852.2729185,
+  "http://english.ratopati.com/story/81848/research-on-ai-security-at-anthropic-and-openai": 1790878852.2729185,
+  "https://nagariknews.nagariknetwork.com/international/why-couldn-t-this-female-prisoner-be-punished-even-though-she-was-given-medicine-twice-49-82.html": 1790878852.2729185,
+  "https://news.google.com/rss/articles/CBMitgFBVV95cUxQS3IteHp2Z3c5NmZCVWtwQ0dwTURLd3psN1pSb3hzZEx0akhiMkdPaTdxejNLUENKcl9aTk9nc0pRSnRRVVdYaUp0Ung0Y25SbndsdUtYbk9uaFROdk40VWdqSEJTcnpycW0zdl9UdkdGV0xuUVdLby1sTTEtVl9YNGtBWkpmUnNSd0s3Y0NpU2lOam96NGR3c21vN2dfMVVaUE15RnNKSkdPZ0otOUNWZ2hubmpZUQ?oc=5": 1790878852.2729185,
+  "http://lokaantar.com/story/330261/2026/10/1/surung-": 1790878852.2729185,
+  "https://www.ratopati.com/story/596497/indian-citizen-arrested-with-fake-currency-notes": 1790878852.2729185,
+  "https://www.ratopati.com/story/596496/former-congress-parsa-president-ajay-dwivedi-not-selected-as-a-general-convention-delegate-claims-to-have-resigned": 1790878852.2729185
  },
  "queue": [
   {
@@ -3791,96 +3798,6 @@
    "val": 3,
    "teaser": false,
    "hits": 2
-  },
-  {
-   "title": "Government Proposes Menstrual Leave for Female Employees in Civil Service Bill",
-   "summary": "Kathmandu. The issue has gained attention after the government introduced a bill to provide leave to female employees during menstruation. The...",
-   "link": "http://english.ratopati.com/story/81815/menstrual-leave-proposed-in-nepal-this-is-the-practice-in-countries-around-the-world",
-   "source": "Ratopati EN",
-   "ts": 1790850044,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/mahinawari_ifZdFvcIOB.webp",
-   "lang": "en",
-   "hl": "Government Proposes Menstrual Leave for Female Employees in Civil Service Bill",
-   "en": "Government Proposes Menstrual Leave for Female Employees in Civil Service Bill",
-   "ne": "Government Proposes Menstrual Leave for Female Employees in Civil Service Bill",
-   "imp": 3,
-   "tags": [
-    "MenstrualLeave",
-    "CivilService",
-    "Government"
-   ],
-   "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 3
-  },
-  {
-   "title": "45 engineers trained in solar, battery storage systems in Nepal",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZGRCQzFJUFZjeGN5TTM2R1pjVFZTV1lDM2M0b0lJQW40MFFvc2VncGtTUzhxWVd2dGkwejUtaHdhd1J1VDlvczFZY2Q0WHlVMmFZZXFIdmplZGpnUHQ2SHJSQ19VRUdsWEFWVHRZbU9lNm1jRWZwRm80NDBMOEFQXzU5WjZkMXV3ekJwQS00SVBuSmpkSEpvZDQ5dGFIQS0tbFNTQVFLZkc4OERlZXfSAVxBVV95cUxOazBGTHBPbnhuUnU4VExqemZBV2ROMXNNcHJUY3NYU2FBb1BmRk1FV0dRMWs0Nmt6RjEzZi1ZLUJCbE5zQmh5RUpzMVhsLUI3REJxNmJEMVZrb0Q0Yw?oc=5",
-   "source": "The Himalayan Times",
-   "ts": 1790849830,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "45 engineers trained in solar, battery storage systems in Nepal",
-   "en": "45 engineers trained in solar, battery storage systems in Nepal",
-   "ne": "45 engineers trained in solar, battery storage systems in Nepal",
-   "imp": 2,
-   "tags": [
-    "SolarEnergy",
-    "Engineers",
-    "Nepal"
-   ],
-   "cat": "tech",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "संयुक्त राष्ट्रसंघीय शान्ति मिसनमा खटिन नेपाली सेनाको टोली प्रस्थान",
-   "summary": "विश्वका द्वन्द्वग्रस्त मुलुकहरूमा शान्ति स्थापनाका लागि संयुक्त राष्ट्रसंघ (यूएन) को आह्वानमा नेपाली सेनाको नयाँ टोली कार्यक्षेत्रतर्फ प्रस्थान गरेको छ।...",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/nepali-army-team-departs-for-un-peacekeeping-mission-69-54.html",
-   "source": "Nagarik News",
-   "ts": 1790849745,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1790849284_adalabadali.jpg",
-   "lang": "ne",
-   "hl": "संयुक्त राष्ट्रसंघीय शान्ति मिसनमा खटिन नेपाली सेनाको टोली प्रस्थान",
-   "en": "संयुक्त राष्ट्रसंघीय शान्ति मिसनमा खटिन नेपाली सेनाको टोली प्रस्थान",
-   "ne": "संयुक्त राष्ट्रसंघीय शान्ति मिसनमा खटिन नेपाली सेनाको टोली प्रस्थान",
-   "imp": 2,
-   "tags": [
-    "UNPeacekeeping",
-    "NepaliArmy"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "RSP united, no internal dispute: Lawmaker Amaresh Kumar Singh",
-   "summary": "KATHMANDU: Rastriya Swatantra Party (RSP) lawmaker Dr. Amaresh Kumar Singh has said there is no internal conflict within the party and that its leaders and cadres remain united. Speaking to journalists at the Parliament...",
-   "link": "https://english.khabarhub.com/2026/01/570167/",
-   "source": "Khabarhub EN",
-   "ts": 1790849728,
-   "weight": 2,
-   "img": "https://english.khabarhub.com/wp-content/uploads/2026/10/Amaresh-400x220.png",
-   "lang": "en",
-   "hl": "RSP united, no internal dispute: Lawmaker Amaresh Kumar Singh",
-   "en": "RSP united, no internal dispute: Lawmaker Amaresh Kumar Singh",
-   "ne": "RSP united, no internal dispute: Lawmaker Amaresh Kumar Singh",
-   "imp": 3,
-   "tags": [
-    "RSP",
-    "AmareshKumarSingh"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
   },
   {
    "title": "राष्ट्रिय प्रसारण ग्रीडको प्रसारण शुल्क निर्धारण",
@@ -3969,96 +3886,6 @@
    ],
    "cat": "crime",
    "val": 1,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "जेससकै आग्रहमा संन्यास रोकेका रोनाल्डो उनैसँग विवादपछि क्याम्पबाट बाहिरिए",
-   "summary": "रोनाल्डोको पोर्चुगल यात्राको अन्त्य यसरी हुनु उचित होइन।",
-   "link": "https://www.setopati.com/sports/football/399712",
-   "source": "Setopati",
-   "ts": 1790850000,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "जेससकै आग्रहमा संन्यास रोकेका रोनाल्डो उनैसँग विवादपछि क्याम्पबाट बाहिरिए",
-   "en": "जेससकै आग्रहमा संन्यास रोकेका रोनाल्डो उनैसँग विवादपछि क्याम्पबाट बाहिरिए",
-   "ne": "जेससकै आग्रहमा संन्यास रोकेका रोनाल्डो उनैसँग विवादपछि क्याम्पबाट बाहिरिए",
-   "imp": 1,
-   "tags": [
-    "Ronaldo",
-    "Football"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "प्रधानमन्त्रीलाई सांसद दुलालको व्यङ्ग्य- एक्स्ट्रा अर्डिनरीमा पर्ने रास्वपाका इन्जिनियर सांसदहरूलाई बधाइ",
-   "summary": "१५ असोज, काठमाडौं । नेपाली कम्युनिस्ट पार्टीका प्रमुख सचेतक युवराज दुलालले प्रधानमन्त्री वालेन्द्र शाहले सांसदहरूकोे स्तर निर्धारण गरेको भनेर व्यङ्ग्य गरेका छन् । 'राणा शाषकहरूले आफूलाइ ए, बि, र सि क्लासमा विभाजन गरेका...",
-   "link": "https://www.onlinekhabar.com/2026/10/2030106/mp-dulals-satire-on-the-prime-minister-congratulations-to-the-engineer-mps-of-the-rashtriya-swayamsevak-sangh-rss-who-are-in-the-extraordinary-session",
-   "source": "Onlinekhabar",
-   "ts": 1790849857,
-   "weight": 3,
-   "img": "https://www.onlinekhabar.com/wp-content/uploads/2026/07/yubaraj-dulal-1.jpg",
-   "lang": "ne",
-   "hl": "प्रधानमन्त्रीलाई सांसद दुलालको व्यङ्ग्य- एक्स्ट्रा अर्डिनरीमा पर्ने रास्वपाका इन्जिनियर सांसदहरूलाई बधाइ",
-   "en": "प्रधानमन्त्रीलाई सांसद दुलालको व्यङ्ग्य- एक्स्ट्रा अर्डिनरीमा पर्ने रास्वपाका इन्जिनियर सांसदहरूलाई बधाइ",
-   "ne": "प्रधानमन्त्रीलाई सांसद दुलालको व्यङ्ग्य- एक्स्ट्रा अर्डिनरीमा पर्ने रास्वपाका इन्जिनियर सांसदहरूलाई बधाइ",
-   "imp": 2,
-   "tags": [
-    "RSP",
-    "Parliament",
-    "Nepal"
-   ],
-   "cat": "politics",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "प्रतिनिधिसभामा प्रविधिको चुनौतीदेखि जनताका समस्यासम्मका विषय उठान",
-   "summary": "प्रतिनिधिसभाको विशेष समयमा बोल्दै सांसदहरूले भोटेकोशी बाढीमा बेपत्ता नागरिकको खोजी, सुशासन कायम, विकास, समृद्धिलगायत विषयमा धारणा व्यक्त गरे।...",
-   "link": "https://nagariknews.nagariknetwork.com/politics/issues-ranging-from-technological-challenges-to-public-problems-are-being-raised-in-the-house-of-representatives-43-56.html",
-   "source": "Nagarik News",
-   "ts": 1790849643,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1790672138_parlament%20013.jpg",
-   "lang": "ne",
-   "hl": "प्रतिनिधिसभामा प्रविधिको चुनौतीदेखि जनताका समस्यासम्मका विषय उठान",
-   "en": "प्रतिनिधिसभामा प्रविधिको चुनौतीदेखि जनताका समस्यासम्मका विषय उठान",
-   "ne": "प्रतिनिधिसभामा प्रविधिको चुनौतीदेखि जनताका समस्यासम्मका विषय उठान",
-   "imp": 3,
-   "tags": [
-    "HouseOfRepresentatives",
-    "Nepal"
-   ],
-   "cat": "politics",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "२०२६ मा स्वीट्जरल्यान्डका हिमनदीको मात्रा ५ प्रतिशतभन्दा बढीले घट्यो",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/503387",
-   "source": "Baahrakhari",
-   "ts": 1790849617,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "२०२६ मा स्वीट्जरल्यान्डका हिमनदीको मात्रा ५ प्रतिशतभन्दा बढीले घट्यो",
-   "en": "२०२६ मा स्वीट्जरल्यान्डका हिमनदीको मात्रा ५ प्रतिशतभन्दा बढीले घट्यो",
-   "ne": "२०२६ मा स्वीट्जरल्यान्डका हिमनदीको मात्रा ५ प्रतिशतभन्दा बढीले घट्यो",
-   "imp": 2,
-   "tags": [
-    "Switzerland",
-    "Glaciers",
-    "ClimateChange"
-   ],
-   "cat": "world",
-   "val": 3,
    "teaser": false,
    "hits": 1
   },
@@ -4269,51 +4096,6 @@
    "hits": 1
   },
   {
-   "title": "Nepal Telecom Authority Advances 5G Service Expansion with Additional Frequency",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPM2NLOGI1Nnlud2tlc0h2cndNR2tDOFZXOWQ3QWhOcFBjXzk0bTFKaUkydnBzYnA2bDBVUDBtUUVUTUc3bGU5VVl1T2hUeGJ0dVpUdXRfcW5JdnRBOUdvS2h1a2tTeXhlQ1dWZkhrbHU1OUJnVXZoUGJ5VFdfQlk5amVNal9HNGlHc20zUjRfLS1XamlsT2Z1Y21iS1NOUWNTSktUcVB1MF9mRFlOMGxNZTJmRWZnMDNPVFhzdkNZZ29qS045dEhaUm1sQlRwaF84VDFlMGFpakJpMkNwNlV6cTlsekZ0cXBQb0k0dkpR?oc=5",
-   "source": "Ratopati",
-   "ts": 1790849938,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Nepal Telecom Authority Advances 5G Service Expansion with Additional Frequency",
-   "en": "Nepal Telecom Authority Advances 5G Service Expansion with Additional Frequency",
-   "ne": "Nepal Telecom Authority Advances 5G Service Expansion with Additional Frequency",
-   "imp": 3,
-   "tags": [
-    "NepalTelecomAuthority",
-    "Telecom"
-   ],
-   "cat": "tech",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "18 Fuel Tankers Destroyed in Afghanistan Border Fire",
-   "summary": "Kathmandu. In a major fire at the Islam Qala border crossing in Herat province of western Afghanistan on Wednesday evening,...",
-   "link": "http://english.ratopati.com/story/81810/fire-at-afghan-border-post",
-   "source": "Ratopati EN",
-   "ts": 1790849575,
-   "weight": 2,
-   "img": "https://rpcdn.ratopati.com/media/albums/afaganistan-flag_cGwiUtcPIe.PNG",
-   "lang": "en",
-   "hl": "18 Fuel Tankers Destroyed in Afghanistan Border Fire",
-   "en": "18 Fuel Tankers Destroyed in Afghanistan Border Fire",
-   "ne": "18 Fuel Tankers Destroyed in Afghanistan Border Fire",
-   "imp": 1,
-   "tags": [
-    "Afghanistan",
-    "Fire",
-    "FuelTankers"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "'पहिले राणा शासकले आफूलाई क्लासमा विभाजन गर्थे, अहिले प्रधानमन्त्रीले गर्न थाल्नुभएछ'",
    "summary": "'महान दार्शनिक अरस्तुको असल शासकका गुणहरू प्रतिस्थापन भए कि बाँकी नै छन् ? र, प्रधानमन्त्री स्वयंलाई निर्देशन दिने पार्टी सभापति एभरेजमा पर्नुभयो कि बिलो एभरेजमा ?,' उनले प्रश्न गरे ।",
    "link": "https://www.onlinekhabar.com/2026/10/2030112/earlier-the-rana-rulers-used-to-divide-themselves-into-classes-now-the-prime-minister-has-started-doing-so",
@@ -4335,51 +4117,6 @@
    "val": 1,
    "teaser": true,
    "hits": 1
-  },
-  {
-   "title": "नेपालमा फाइभजी सेवा विस्तारका लागि थप फ्रिक्वेन्सी वितरण गर्ने तयारी",
-   "summary": "काठमाडौँ। नेपाल दूरसञ्चार प्राधिकरणले नेपालमा फाइभजी सेवा विस्तारका लागि थप फ्रिक्वेन्सी उपलब्ध गराउने प्रक्रिया अघि बढाएको छ। प्राधिकरणमा बिहीबार आयोजित पत्रकार सम्मेलनमा प्रवक्ता मिनप्रसाद अर्यालले विद्यमान...",
-   "link": "https://www.ratopati.com/story/596399/preparations-to-distribute-additional-frequencies-for-expansion-of-5g-services-in-nepal-telecommunications-authority",
-   "source": "Ratopati",
-   "ts": 1790849771,
-   "weight": 3,
-   "img": "https://npcdn.ratopati.com/media/news/min-prasad-aryal_st64Cyb9Gf.webp",
-   "lang": "ne",
-   "hl": "नेपालमा फाइभजी सेवा विस्तारका लागि थप फ्रिक्वेन्सी वितरण गर्ने तयारी",
-   "en": "नेपालमा फाइभजी सेवा विस्तारका लागि थप फ्रिक्वेन्सी वितरण गर्ने तयारी",
-   "ne": "नेपालमा फाइभजी सेवा विस्तारका लागि थप फ्रिक्वेन्सी वितरण गर्ने तयारी",
-   "imp": 3,
-   "tags": [
-    "NepalTelecom",
-    "Internet"
-   ],
-   "cat": "tech",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "अपाङ्गता भएका व्यक्तिका लागि व्यक्तिगत सहयोगी सेवा सञ्चालनसम्बन्धी कार्यविधि तयार",
-   "summary": "काठमाडौँ। सरकारले पूर्ण तथा अतिअशक्त एवं अपाङ्गता भएका व्यक्तिका लागि व्यक्तिगत सहयोगी सेवा सञ्चालनसम्बन्धी कार्यविधि तयारी गरेर रायका लागि अर्थ मन्त्रालय पठाएको छ। राष्ट्रियसभाको बिहीबारको बैठकमा सांसदको प्रश्नको जवाफ...",
-   "link": "https://www.ratopati.com/story/596397/procedures-for-operating-personal-support-services-for-people-with-disabilities-prepared",
-   "source": "Ratopati",
-   "ts": 1790849453,
-   "weight": 3,
-   "img": "https://npcdn.ratopati.com/media/news/sita-badi_Q2E2gTtiQG.jpg",
-   "lang": "ne",
-   "hl": "अपाङ्गता भएका व्यक्तिका लागि व्यक्तिगत सहयोगी सेवा सञ्चालनसम्बन्धी कार्यविधि तयार",
-   "en": "अपाङ्गता भएका व्यक्तिका लागि व्यक्तिगत सहयोगी सेवा सञ्चालनसम्बन्धी कार्यविधि तयार",
-   "ne": "अपाङ्गता भएका व्यक्तिका लागि व्यक्तिगत सहयोगी सेवा सञ्चालनसम्बन्धी कार्यविधि तयार",
-   "imp": 3,
-   "tags": [
-    "Disability",
-    "SupportService",
-    "Government"
-   ],
-   "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "मनाङ हिमपहिरो: थप चार जनाको शव भेटियो, मृतकको संख्या ८ पुग्यो",
@@ -4541,29 +4278,6 @@
    "val": 3,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "Corus International receives $6.4 million grant from Takeda to reduce climate-related health risks in Nepal",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObklMTzYxZTVGaU9EYjVHU2IzNmxHdkN5VkR4MFIzU0F4THZiczQ3cGVqcFdVNHhwN09RZjZlRXNFY0c2NE9Qc2Q2bjBEaFFCTFpzV2dpVFQ1MzNNeE9qbXQtY0ZSSWxuR2RseGh3d2NySEYwVWFULV9yTXE0ZWVTMGJQTzhQTDlJODdfd21uNHhsQnU0czFUNFZpNmlOR2dKQVNRdHZqRFoyQnNIYVZn?oc=5",
-   "source": "Lutheran World Relief",
-   "ts": 1790849841,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Corus International receives $6.4 million grant from Takeda to reduce climate-related health risks in Nepal",
-   "en": "Corus International receives $6.4 million grant from Takeda to reduce climate-related health risks in Nepal",
-   "ne": "Corus International receives $6.4 million grant from Takeda to reduce climate-related health risks in Nepal",
-   "imp": 3,
-   "tags": [
-    "CorusInternational",
-    "Takeda",
-    "ClimateHealth"
-   ],
-   "cat": "health",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "सातौँ भन्सार सुधार तथा आधुनिकीकरण योजना सार्वजनिक, ७ अर्ब बढी बजेट परिचालन गरिने",
@@ -8338,51 +8052,6 @@
    "hits": 1
   },
   {
-   "title": "Traditional Tharu Jhumra Song 'Jabunik Rukhwa' drops on YouTube",
-   "summary": "The 'Karkha-Charkha' YouTube channel has officially released 'Jabunik Rukhwa', a traditional Tharu 'Jhumra' folk music video shot on location across Deukhuri.Belonging to the 'Ratanchawa' sub-genre of Jhumra,...",
-   "link": "https://theannapurnaexpress.com/story/67593",
-   "source": "Annapurna Express",
-   "ts": 1790849453.27603,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Traditional Tharu Jhumra Song 'Jabunik Rukhwa' drops on YouTube",
-   "en": "Traditional Tharu Jhumra Song 'Jabunik Rukhwa' drops on YouTube",
-   "ne": "Traditional Tharu Jhumra Song 'Jabunik Rukhwa' drops on YouTube",
-   "imp": 2,
-   "tags": [
-    "Tharu",
-    "Jhumra",
-    "Song"
-   ],
-   "cat": "culture",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "अफगानिस्तानमा हवाई आक्रमण, १० सर्वसाधारणको मृत्यु",
-   "summary": "अफगानिस्तानमा भएका हवाई आक्रमणमा कम्तीमा १० सर्वसाधारणको मृत्यु भएको संयुक्त राष्ट्रसङ्घले जनाएको छ। मृतकमध्ये अधिकांश बालबालिका छन्।संयुक्त राष्ट्रसङ्घको अफगानिस्तान मिसन (यूएनएएमए) का अनुसार हेलमन्द र पाकिस्तानसँग...",
-   "link": "http://lokaantar.com/story/330248/2026/10/1/afgan-",
-   "source": "Lokaantar",
-   "ts": 1790849452.53061,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "अफगानिस्तानमा हवाई आक्रमण, १० सर्वसाधारणको मृत्यु",
-   "en": "अफगानिस्तानमा हवाई आक्रमण, १० सर्वसाधारणको मृत्यु",
-   "ne": "अफगानिस्तानमा हवाई आक्रमण, १० सर्वसाधारणको मृत्यु",
-   "imp": 1,
-   "tags": [
-    "Afghanistan",
-    "Airstrike"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
    "title": "विद्युत् व्यापारमा नयाँ क्रान्ति : राष्ट्रिय ग्रिडमा निजी क्षेत्रलाई खुला पहुँच",
    "summary": "काठमाडौँ । ऊर्जा क्षेत्रमा लामो समयदेखि प्रतीक्षा गरिएको विद्युत् व्यापारमा खुला पहुँचको ढोका औपचारिक रूपमा खुलेको छ । विद्युत् नियमन आयोगले पहिलो पटक राष्ट्रिय विद्युत् प्रसारण ग्रिडको प्रयोग गरेबापत लाग्ने प्रसारण...",
    "link": "https://www.ratopati.com/story/596453/new-revolution-in-electricity-trading-open-access-to-the-national-grid-for-the-private-sector",
@@ -8446,29 +8115,6 @@
     "Lawsuit"
    ],
    "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "रसुवा बाढी : पुनर्निर्माणका लागि बागमतीले संघ सरकारसँग एक अर्ब रुपैयाँ माग्यो",
-   "summary": "१५ असोज, हेटौंडा । बागमती प्रदेश सरकारले भोटेकोशी बाढीका कारण क्षतिग्रस्त भएका भौतिक संरचना पुनर्निर्माणका लागि नेपाल सरकारसँग एक अर्ब रुपैयाँ अनुदान माग गर्ने निर्णय गरेको छ । बिहीबार बसेको प्रदेश मन्त्रिपरिषद् बैठकले...",
-   "link": "https://www.onlinekhabar.com/2026/10/2030373/rasuwa-flood-bagmati-asks-for-one-billion-rupees-from-the-federal-government-for-reconstruction",
-   "source": "Onlinekhabar",
-   "ts": 1790849452.53061,
-   "weight": 3,
-   "img": "https://www.onlinekhabar.com/wp-content/uploads/2026/09/Bagamati-sarkar.jpg",
-   "lang": "ne",
-   "hl": "रसुवा बाढी : पुनर्निर्माणका लागि बागमतीले संघ सरकारसँग एक अर्ब रुपैयाँ माग्यो",
-   "en": "रसुवा बाढी : पुनर्निर्माणका लागि बागमतीले संघ सरकारसँग एक अर्ब रुपैयाँ माग्यो",
-   "ne": "रसुवा बाढी : पुनर्निर्माणका लागि बागमतीले संघ सरकारसँग एक अर्ब रुपैयाँ माग्यो",
-   "imp": 3,
-   "tags": [
-    "Rasuwa",
-    "BagmatiProvince",
-    "रसुवा"
-   ],
-   "cat": "disaster",
    "val": 3,
    "teaser": false,
    "hits": 2
@@ -9038,7 +8684,7 @@
    "cat": "society",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "'विशेष महाधिवेशनले कांग्रेसको जरा जोगायो, अब मतदाताको मन जित्छौं'",
@@ -10575,6 +10221,181 @@
     "पहिरो"
    ],
    "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "१२ बजे १२ समाचार : 'हेल्थ प्याकेज'का नाममा अस्पतालको मनपरी असुली, विद्युत् व्यापारमा नयाँ क्रान्ति",
+   "summary": "काठमाडौँ । आज दिनभरका मुख्यमुख्य घटनाक्रमसहित रातोपाटीको रात्रिकालीन प्रस्तुति रातोपाटी ब्रिफिङमा १० बजे १० समाचार लिएर उपस्थित भएका छौँ- १. विद्युत व्यापारमा नयाँ क्रान्ति ऊर्जा क्षेत्रमा लामो समयदेखि प्रतीक्षा गरिएको...",
+   "link": "https://www.ratopati.com/story/596498/12-oclock-12-news-hospitals-arbitrary-recovery-in-the-name-of-health-package-new-revolution-in-electricity-business",
+   "source": "Ratopati",
+   "ts": 1790878516,
+   "weight": 3,
+   "img": "https://npcdn.ratopati.com/media/news/cover-12-news_KPRcCiOpIQ.webp",
+   "lang": "ne",
+   "hl": "१२ बजे १२ समाचार : 'हेल्थ प्याकेज'का नाममा अस्पतालको मनपरी असुली, विद्युत् व्यापारमा नयाँ क्रान्ति",
+   "en": "१२ बजे १२ समाचार : 'हेल्थ प्याकेज'का नाममा अस्पतालको मनपरी असुली, विद्युत् व्यापारमा नयाँ क्रान्ति",
+   "ne": "१२ बजे १२ समाचार : 'हेल्थ प्याकेज'का नाममा अस्पतालको मनपरी असुली, विद्युत् व्यापारमा नयाँ क्रान्ति",
+   "imp": 4,
+   "tags": [
+    "HealthPackage",
+    "ElectricityTrade"
+   ],
+   "cat": "health",
+   "val": 3,
+   "teaser": true,
+   "hits": 1
+  },
+  {
+   "title": "सुरुङ मार्गमा ट्राफिक नियम उल्लंघन गर्ने २०० बढी कारबाहीमा",
+   "summary": "",
+   "link": "https://baahrakhari.com/detail/503431",
+   "source": "Baahrakhari",
+   "ts": 1790876812,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "सुरुङ मार्गमा ट्राफिक नियम उल्लंघन गर्ने २०० बढी कारबाहीमा",
+   "en": "सुरुङ मार्गमा ट्राफिक नियम उल्लंघन गर्ने २०० बढी कारबाहीमा",
+   "ne": "सुरुङ मार्गमा ट्राफिक नियम उल्लंघन गर्ने २०० बढी कारबाहीमा",
+   "imp": 3,
+   "tags": [
+    "TunnelTraffic",
+    "RoadSafety"
+   ],
+   "cat": "society",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "US FTC Investigates AI Safety Practices of Anthropic and OpenAI",
+   "summary": "Kathmandu. The US Federal Trade Commission (FTC) has launched a comprehensive investigation into Anthropic and OpenAI regarding artificial intelligence (AI)...",
+   "link": "http://english.ratopati.com/story/81848/research-on-ai-security-at-anthropic-and-openai",
+   "source": "Ratopati EN",
+   "ts": 1790876430,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/open-ai_TgC8SRKjnD.jpg",
+   "lang": "en",
+   "hl": "US FTC Investigates AI Safety Practices of Anthropic and OpenAI",
+   "en": "US FTC Investigates AI Safety Practices of Anthropic and OpenAI",
+   "ne": "US FTC Investigates AI Safety Practices of Anthropic and OpenAI",
+   "imp": 1,
+   "tags": [
+    "FTC"
+   ],
+   "cat": "tech",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "दुई पटक औषधि दिए पनि यी महिला कैदीलाई किन सजाय दिन सकिएन ?",
+   "summary": "प्रत्यक्षदर्शीका अनुसार उनी घुरेको आवाज सुनिन्थ्यो र कहिलेकाहीँ शरीर पनि हल्लाएकी थिइन्। त्यसपछि उनलाई एम्बुलेन्समार्फत अस्पताल लगिएको थियो। उनका वकिलले उनलाई जीवनरक्षक उपचार दिइरहेको बताएका छन्।...",
+   "link": "https://nagariknews.nagariknetwork.com/international/why-couldn-t-this-female-prisoner-be-punished-even-though-she-was-given-medicine-twice-49-82.html",
+   "source": "Nagarik News",
+   "ts": 1790873176,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2026/third-party/1790873211_USA%20Photo.jpg",
+   "lang": "ne",
+   "hl": "दुई पटक औषधि दिए पनि यी महिला कैदीलाई किन सजाय दिन सकिएन ?",
+   "en": "दुई पटक औषधि दिए पनि यी महिला कैदीलाई किन सजाय दिन सकिएन ?",
+   "ne": "दुई पटक औषधि दिए पनि यी महिला कैदीलाई किन सजाय दिन सकिएन ?",
+   "imp": 2,
+   "tags": [
+    "PrisonerRights",
+    "Medication"
+   ],
+   "cat": "crime",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "National Assembly forms special committee to study disasters",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQS3IteHp2Z3c5NmZCVWtwQ0dwTURLd3psN1pSb3hzZEx0akhiMkdPaTdxejNLUENKcl9aTk9nc0pRSnRRVVdYaUp0Ung0Y25SbndsdUtYbk9uaFROdk40VWdqSEJTcnpycW0zdl9UdkdGV0xuUVdLby1sTTEtVl9YNGtBWkpmUnNSd0s3Y0NpU2lOam96NGR3c21vN2dfMVVaUE15RnNKSkdPZ0otOUNWZ2hubmpZUQ?oc=5",
+   "source": "myRepublica",
+   "ts": 1790866560,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "National Assembly forms special committee to study disasters",
+   "en": "National Assembly forms special committee to study disasters",
+   "ne": "National Assembly forms special committee to study disasters",
+   "imp": 4,
+   "tags": [
+    "DisasterCommittee",
+    "NationalAssembly"
+   ],
+   "cat": "politics",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "नागढुङ्गा सुरुङमार्गमा मनपरी चलाउने २८४ चालक कारबाहीमा",
+   "summary": "नागढुङ्गास्थित सुरुङमार्गमा पटकपटक ट्राफिक नियम उल्लङ्घन गर्ने २८४ जना सवारी चालक कारबाहीमा परेका छन्।काठमाडौँ उपत्यका ट्राफिक प्रहरी कार्यालयका अनुसार सुरुङमार्गभित्र लेन अनुशासन कायम नगर्ने, तीव्रगतिमा सवारी चलाउने,...",
+   "link": "http://lokaantar.com/story/330261/2026/10/1/surung-",
+   "source": "Lokaantar",
+   "ts": 1790864453.3178744,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "नागढुङ्गा सुरुङमार्गमा मनपरी चलाउने २८४ चालक कारबाहीमा",
+   "en": "नागढुङ्गा सुरुङमार्गमा मनपरी चलाउने २८४ चालक कारबाहीमा",
+   "ne": "नागढुङ्गा सुरुङमार्गमा मनपरी चलाउने २८४ चालक कारबाहीमा",
+   "imp": 3,
+   "tags": [
+    "NagdhungaTunnel",
+    "DriverActions"
+   ],
+   "cat": "society",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "नक्कली नोटसहित भारतीय नागरिक पक्राउ",
+   "summary": "झापा । झापामा रु ३५ हजार भारतीय नक्कली नोटसहित दुई भारतीय नागरिक पक्राउ परेका छन् । जिल्ला प्रहरी कार्यालयका सूचना अधिकारी रञ्जन अवाका अनुसार दमक नगरपालिका-६ स्थित देवकोटा चोकबाट बुधबार बेलुका उनीहरूलाई पक्राउ गरिएको हो...",
+   "link": "https://www.ratopati.com/story/596497/indian-citizen-arrested-with-fake-currency-notes",
+   "source": "Ratopati",
+   "ts": 1790878019,
+   "weight": 3,
+   "img": "https://npcdn.ratopati.com/media/news/two-arrest-jail_vasZWTNXwT.png",
+   "lang": "ne",
+   "hl": "नक्कली नोटसहित भारतीय नागरिक पक्राउ",
+   "en": "नक्कली नोटसहित भारतीय नागरिक पक्राउ",
+   "ne": "नक्कली नोटसहित भारतीय नागरिक पक्राउ",
+   "imp": 2,
+   "tags": [
+    "FakeNotes",
+    "Arrest"
+   ],
+   "cat": "crime",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "कांग्रेस पर्साका पूर्वसभापति अजय द्विवेदी महाधिवेशन प्रतिनिधिमा चयन भएनन्, 'त्याग गरेको' दाबी",
+   "summary": "वीरगन्ज। नेपाली कांग्रेस पर्साका पूर्वसभापति एवं पूर्वसांसद अजय द्विवेदी पार्टीको १५ औँ महाधिवेशनका लागि महाधिवेशन प्रतिनिधि चयन हुन सकेनन् । कांग्रेसको १५औँ महाधिवेशनअन्तर्गत सम्पन्न क्षेत्रीय अधिवेशनबाट पर्सा क्षेत्र...",
+   "link": "https://www.ratopati.com/story/596496/former-congress-parsa-president-ajay-dwivedi-not-selected-as-a-general-convention-delegate-claims-to-have-resigned",
+   "source": "Ratopati",
+   "ts": 1790877608,
+   "weight": 3,
+   "img": "https://npcdn.ratopati.com/media/news/ajaya-dubedi_ps00ZsneLS.webp",
+   "lang": "ne",
+   "hl": "कांग्रेस पर्साका पूर्वसभापति अजय द्विवेदी महाधिवेशन प्रतिनिधिमा चयन भएनन्, 'त्याग गरेको' दाबी",
+   "en": "कांग्रेस पर्साका पूर्वसभापति अजय द्विवेदी महाधिवेशन प्रतिनिधिमा चयन भएनन्, 'त्याग गरेको' दाबी",
+   "ne": "कांग्रेस पर्साका पूर्वसभापति अजय द्विवेदी महाधिवेशन प्रतिनिधिमा चयन भएनन्, 'त्याग गरेको' दाबी",
+   "imp": 3,
+   "tags": [
+    "AjayDwivedi",
+    "Congress"
+   ],
+   "cat": "politics",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -14383,8 +14204,8 @@
    "cat": "disaster"
   }
  ],
- "updated": 1790878252,
- "pending_since": 1790877044.8370552,
+ "updated": 1790878881,
+ "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
