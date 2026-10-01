@@ -167,6 +167,7 @@ HERE      = pathlib.Path(__file__).parent
 TEXT_STROKE = 3               # outline around the headline (black on dark, white on the white template)
 PHOTO_LAYOUT = "background"   # "background" (translucent news photo behind the headlines) or "off"
 PHOTO_FADE = 60               # px over which the photo fades in below the date pill
+PHOTO_BLUR = 3.5              # blur on the background photo so its details never compete with the text
 PHOTO_BLOCKLIST = set()       # outlet names whose photos must never be used, e.g. {"Kathmandu Post"}
 FONT_BOLD = [HERE / "assets" / "fonts" / "headline.ttf", "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf"]
 NAVY      = (14, 28, 64)
@@ -187,7 +188,7 @@ STYLES = {
               "credit": (255, 255, 255, 128),
               # layout "C": max 66px text, 115px side space, 56px between languages, date 24px
               "max_px": 66, "pad_x": 115, "gap": 56, "date_px": 24, "line_h": 1.34,
-              "dark_panel": True, "opacity": 0.55, "stroke_w": TEXT_STROKE},
+              "dark_panel": True, "opacity": 0.28, "stroke_w": TEXT_STROKE},
     "white": {"template": HERE / "assets" / "template_ne.jpg",
               "breaking_template": HERE / "assets" / "template_ne_breaking.jpg",
               "panel": (38, 403, 1218, 942), "ribbon": 400,
@@ -196,7 +197,7 @@ STYLES = {
               "credit": (14, 28, 64, 140),
               # layout "F": max 60px text, 130px side space, 62px between languages, date 22px
               "max_px": 60, "pad_x": 130, "gap": 62, "date_px": 22, "line_h": 1.38,
-              "dark_panel": False, "opacity": 0.45, "stroke_w": 2},
+              "dark_panel": False, "opacity": 0.22, "stroke_w": 2},
 }
 # ==========================================
 
@@ -785,7 +786,7 @@ def place_photo(img, photo, st, panel_box, photo_top):
     """Translucent news photo behind the headlines. The top of the panel (ribbon + date pill)
     stays clean; the photo fades in below it. Border and red corners stay on top."""
     size = (panel_box[2] - panel_box[0], panel_box[3] - panel_box[1])
-    ph = ImageOps.fit(photo, size).filter(ImageFilter.GaussianBlur(1.2))
+    ph = ImageOps.fit(photo, size).filter(ImageFilter.GaussianBlur(PHOTO_BLUR))
     panel = img.crop(panel_box)
     # vertical alpha: 0 above photo_top, fading up to PHOTO_OPACITY
     top = photo_top - panel_box[1]
