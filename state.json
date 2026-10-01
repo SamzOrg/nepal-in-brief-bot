@@ -1,11 +1,5 @@
 {
  "seen": {
-  "https://www.setopati.com/politics/399472": 1790641248.0346484,
-  "https://khabarhub.com/2026/29/1030541/": 1790641248.0346484,
-  "http://lokaantar.com/story/330027/2026/9/29/thagi-": 1790641248.0346484,
-  "http://lokaantar.com/story/330025/2026/9/29/samsad-": 1790641248.0346484,
-  "http://lokaantar.com/story/330024/2026/9/29/forex-": 1790641248.0346484,
-  "https://risingnepaldaily.com/news/87145": 1790641248.0346484,
   "https://baahrakhari.com/detail/503072": 1790641864.5556374,
   "https://english.khabarhub.com/2026/29/569790/": 1790641864.5556374,
   "https://baahrakhari.com/detail/503071": 1790641864.5556374,
@@ -3664,7 +3658,8 @@
   "https://baahrakhari.com/detail/503312": 1790814044.6721756,
   "https://risingnepaldaily.com/news/87228": 1790814044.6721756,
   "https://www.ratopati.com/story/596236/this-is-the-foreign-exchange-rate-today": 1790814044.6721756,
-  "http://lokaantar.com/story/330190/2026/10/1/samsad-": 1790814044.6721756
+  "http://lokaantar.com/story/330190/2026/10/1/samsad-": 1790814044.6721756,
+  "https://nagariknews.nagariknetwork.com/politics/both-houses-of-the-federal-parliament-are-meeting-25-82.html": 1790814662.9066865
  },
  "queue": [
   {
@@ -3689,75 +3684,6 @@
    "val": 3,
    "teaser": false,
    "hits": 2
-  },
-  {
-   "title": "गिलले बनाए सबैभन्दा छिटो दोहोरो शतक, भारत जितनजिक",
-   "summary": "गुहावटी । भारतीय कप्तान शुभमन गिलले एकदिवसीय क्रिकेटमा सबैभन्दा छिटो दोहोरो शतक बनाउने कीर्तिमान कायम गरेका छन् । वेस्टइन्डिजविरुद्धको दोस्रो एकदिवसीय खेलमा गिलले ११७ बलमा दोहोरो शतक पूरा गरेका हुन् । गिलले ईशान किशनको...",
-   "link": "https://www.ratopati.com/story/596210/gill-scores-fastest-double-century-india-close-to-victory",
-   "source": "Ratopati",
-   "ts": 1790785621,
-   "weight": 3,
-   "img": "https://npcdn.ratopati.com/media/news/shuvman_CloZLT9C99.webp",
-   "lang": "ne",
-   "hl": "गिलले बनाए सबैभन्दा छिटो दोहोरो शतक, भारत जितनजिक",
-   "en": "गिलले बनाए सबैभन्दा छिटो दोहोरो शतक, भारत जितनजिक",
-   "ne": "गिलले बनाए सबैभन्दा छिटो दोहोरो शतक, भारत जितनजिक",
-   "imp": 2,
-   "tags": [
-    "Cricket",
-    "India",
-    "ShubmanGill"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "'गिद्ध वातावरणको रक्षक'",
-   "summary": "अविनाश चौधरीधनगढी, असोज १४ गते । मरेको सिनो खान हाम्रो गाउँघरतिर पनि पुग्ने गिद्धहरुले वातावरण रक्षकको भूमिका निर्वाह गर्ने गरेको सरोकारवालाले बताएका छन् । गिद्धका लागि सुरक्षित आह...",
-   "link": "https://gorkhapatraonline.com/news/224942",
-   "source": "Gorkhapatra",
-   "ts": 1790785750,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/385776/conversions/Giddha-2222-original.jpg",
-   "lang": "ne",
-   "hl": "'गिद्ध वातावरणको रक्षक'",
-   "en": "'गिद्ध वातावरणको रक्षक'",
-   "ne": "'गिद्ध वातावरणको रक्षक'",
-   "imp": 2,
-   "tags": [
-    "Vulture",
-    "Environment",
-    "गिद्ध"
-   ],
-   "cat": "culture",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "पूर्व मधेस प्रदेशसभा सदस्य यादव तीन लाख धरौटीमा रिहा",
-   "summary": "जनार्जन खत्रीसर्लाही, असोज १४ गते । पूर्व मधेस प्रदेशसभा सदस्य एवम् नेपाली कम्युनिष्ट पार्टीका नेता अशोककुमार यादव तीन लाख रुपियाँ धरौटी बुझाएर रिहा हुनुभएको छ । बुधबार सर्लाही जिल...",
-   "link": "https://gorkhapatraonline.com/news/224941",
-   "source": "Gorkhapatra",
-   "ts": 1790785330,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/385775/conversions/Ashok-Yadav-photo-original.jpg",
-   "lang": "ne",
-   "hl": "पूर्व मधेस प्रदेशसभा सदस्य यादव तीन लाख धरौटीमा रिहा",
-   "en": "पूर्व मधेस प्रदेशसभा सदस्य यादव तीन लाख धरौटीमा रिहा",
-   "ne": "पूर्व मधेस प्रदेशसभा सदस्य यादव तीन लाख धरौटीमा रिहा",
-   "imp": 2,
-   "tags": [
-    "MadheshProvince",
-    "Corruption",
-    "Bail"
-   ],
-   "cat": "crime",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
   },
   {
    "title": "भोटेकोसी विपद् : तीन हजार ६०० बढी डीएनए परीक्षण जारी",
@@ -4080,29 +4006,6 @@
    "val": 2,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "पोखरा-बेनी सडक सञ्चालन",
-   "summary": "म्याग्दी, असोज १४ गते । बाढीपहिरोका कारण पाँच दिनदेखि अवरुद्ध बेनी-पोखरा सडकमा यातायात सञ्चालनमा आएको छ। पर्वतको कुश्मा नगरपालिका -१ सहश्रधारादेखि म्याग्दीको बेनीसम्म विभिन्न ठाउँम...",
-   "link": "https://gorkhapatraonline.com/news/224949",
-   "source": "Gorkhapatra",
-   "ts": 1790791664,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/385783/conversions/bato-original.jpg",
-   "lang": "ne",
-   "hl": "पोखरा-बेनी सडक सञ्चालन",
-   "en": "पोखरा-बेनी सडक सञ्चालन",
-   "ne": "पोखरा-बेनी सडक सञ्चालन",
-   "imp": 4,
-   "tags": [
-    "पोखरा",
-    "बेनी",
-    "सडक"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "What Nepal's Floods Reveal About Building in the Indian Himalayas",
@@ -4519,7 +4422,7 @@
    "cat": "politics",
    "val": 1,
    "teaser": true,
-   "hits": 4
+   "hits": 5
   },
   {
    "title": "बन्दीपुर अस्पताल: अतिरिक्त समयमा ओपिडी सेवा लिने बढी",
@@ -7931,9 +7834,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "society"
+  },
+  {
+   "ts": 1790814671.0160656,
+   "en": "पाँच दिनदेखि अवरुद्ध बेनी-पोखरा सडक सञ्चालनमा",
+   "ne": "पाँच दिनदेखि अवरुद्ध बेनी-पोखरा सडक सञ्चालनमा",
+   "link": "https://gorkhapatraonline.com/news/224949",
+   "source": "Gorkhapatra",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "disaster"
   }
  ],
- "updated": 1790814048,
+ "updated": 1790814686,
  "pending_since": 1790812888.9247956,
  "fb_blocks": [
   1790350880.4125228,
