@@ -3647,31 +3647,11 @@
   "http://lokaantar.com/story/330198/2026/10/1/deuba-": 1790818269.1587737,
   "https://gorkhapatraonline.com/news/224964": 1790818269.1587737,
   "https://news.google.com/rss/articles/CBMifkFVX3lxTE1oaVhpVXBucEdOY01zelFCb2FkcDZieXRNT25ldFJZSVhsZGlXdXA2Y3JMREktQUd1dE9fd2NZSUZJdXhMWUNlM3p6eGsxT0djZjdBNzZKM09DRUtPRTRLdjJlN2pqc1M5NjBlM09mYVNEREdnbmpJRWFsZll2dw?oc=5": 1790818456.5298371,
-  "https://www.onlinekhabar.com/2026/10/2029723/one-dead-three-injured-in-motorcycle-and-scooter-collision-in-thapathali": 1790818456.5298371
+  "https://www.onlinekhabar.com/2026/10/2029723/one-dead-three-injured-in-motorcycle-and-scooter-collision-in-thapathali": 1790818456.5298371,
+  "https://baahrakhari.com/detail/503317": 1790818845.4964201,
+  "https://kathmandupost.com/columns/2026/09/30/a-generation-taught-itself-democracy-nepal-s-schools-must-finish-the-job": 1790818845.4964201
  },
  "queue": [
-  {
-   "title": "तमानखोला पहिरोमा बेपत्ताको शव फेला",
-   "summary": "नवराज नेपाली गलकोट (बागलुङ), असोज १४ गते । असोज ११ गते आएको पहिरोले घर बगाउदा बेपत्ता तमानखोला गाउँपालिका-४ स्थित सन्तर निवासी ५३ वर्षीया पुनसरा विकको शव बुधबार फेला परेको छ । जिल्...",
-   "link": "https://gorkhapatraonline.com/news/224946",
-   "source": "Gorkhapatra",
-   "ts": 1790789946,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/385780/conversions/news-photo2-original.jpg",
-   "lang": "ne",
-   "hl": "तमानखोला पहिरोमा बेपत्ताको शव फेला",
-   "en": "तमानखोला पहिरोमा बेपत्ताको शव फेला",
-   "ne": "तमानखोला पहिरोमा बेपत्ताको शव फेला",
-   "imp": 3,
-   "tags": [
-    "Landslide",
-    "Tamankhola"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
   {
    "title": "अस्ट्रेलियामा १९७४ एडीको रक यात्रा, नेपाली संगीतमा झुमे दर्शक",
    "summary": "",
@@ -5246,7 +5226,7 @@
    "cat": "politics",
    "val": 2,
    "teaser": false,
-   "hits": 4
+   "hits": 5
   },
   {
    "title": "Nepal Rastra Bank announces today's foreign exchange rates for major currencies",
@@ -8926,7 +8906,7 @@
    "cat": "tech"
   }
  ],
- "updated": 1790818477,
+ "updated": 1790818849,
  "pending_since": 1790818269.1587737,
  "fb_blocks": [
   1790350880.4125228,
