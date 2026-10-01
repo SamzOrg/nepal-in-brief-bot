@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMivwFBVV95cUxQY016bjBMQkRvaFB3T09ETzZPbXowV2VRLUJlNk1kcWl1YUhNekgxVE15YndoeG5mR1g0NkRnRTlwWjhzc00yZnRTdGRzVkFYREwxbWpoczNoQkV0R2hFUk9ocVJHZVpXaXJTTkFDVWlvSzNSWFN3UWJzTHRELWZkY2dSQURFRWZrQnBxb05TZWIxNnpqWTdWWFVUOExLUkRjcWRsNXNMc3F5SG9kX3R5N0RFWjE0N2pLX0ZxakV5TQ?oc=5": 1790646048.1645074,
-  "https://gorkhapatraonline.com/news/224719": 1790646048.1645074,
   "https://www.setopati.com/politics/399475": 1790646658.3330038,
   "https://english.khabarhub.com/2026/29/569808/": 1790646658.3330038,
   "https://nagariknews.nagariknetwork.com/social-affairs/relief-materials-worth-rs-1-4-million-handed-over-to-140-flood-affected-families-in-gaindakot-2-34-13.html": 1790646658.3330038,
@@ -3649,7 +3647,12 @@
   "https://news.google.com/rss/articles/CBMifkFVX3lxTE1oaVhpVXBucEdOY01zelFCb2FkcDZieXRNT25ldFJZSVhsZGlXdXA2Y3JMREktQUd1dE9fd2NZSUZJdXhMWUNlM3p6eGsxT0djZjdBNzZKM09DRUtPRTRLdjJlN2pqc1M5NjBlM09mYVNEREdnbmpJRWFsZll2dw?oc=5": 1790818456.5298371,
   "https://www.onlinekhabar.com/2026/10/2029723/one-dead-three-injured-in-motorcycle-and-scooter-collision-in-thapathali": 1790818456.5298371,
   "https://baahrakhari.com/detail/503317": 1790818845.4964201,
-  "https://kathmandupost.com/columns/2026/09/30/a-generation-taught-itself-democracy-nepal-s-schools-must-finish-the-job": 1790818845.4964201
+  "https://kathmandupost.com/columns/2026/09/30/a-generation-taught-itself-democracy-nepal-s-schools-must-finish-the-job": 1790818845.4964201,
+  "https://english.khabarhub.com/2026/01/570117/": 1790819444.8136568,
+  "https://news.google.com/rss/articles/CBMimAFBVV95cUxONkdjNkxSWUZNVDVKWV9yS0p1UWhVb05rdHZCRW9PcGUzd1dzc2RHUjZsOFFuRzRFTk1wNGhPYzRNYi1HTzd5eVE2YlVPQ2c3WTlnMi1zY3YyTHJKemc2WXVPemkyd3lDektXVWxQQzE4dVBTNmprRW9nSlN2Yk51YmQtdUpfZFllQWhvXzFZY2tzX2JPZm5Taw?oc=5": 1790819444.8136568,
+  "http://english.ratopati.com/story/81685/deuba-appeals-to-hold-ward-convention-in-grand-style": 1790819444.8136568,
+  "http://lokaantar.com/story/330201/2026/10/1/matdata-": 1790819444.8136568,
+  "https://gorkhapatraonline.com/news/224966": 1790819444.8136568
  },
  "queue": [
   {
@@ -3673,29 +3676,6 @@
    "cat": "culture",
    "val": 3,
    "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "पूर्वप्रधानमन्त्रीद्वयसँग वीरगन्जका उद्योगी-व्यवसायीको छलफल",
-   "summary": "पर्सा । वीरगन्ज उद्योग वाणिज्य सङ्घको प्रतिनिधिमण्डलले आज नेपाल कम्युनिस्ट पार्टीका संयोजक पुष्पकमल दाहाल 'प्रचण्ड' र सहसंयोजक माधवकुमार नेपालसँग भेट गरी उद्योगी-व्यवसायीले भोग्दै आएका समस्या तथा चुनौतीबारे छलफल गरेको छ...",
-   "link": "https://www.ratopati.com/story/596216/birgunj-industrialists-and-businessmen-hold-discussions-with-former-prime-ministers",
-   "source": "Ratopati",
-   "ts": 1790790091,
-   "weight": 3,
-   "img": "https://npcdn.ratopati.com/media/news/parsa-district-map_0ZIfD6x5iq.jpg",
-   "lang": "ne",
-   "hl": "पूर्वप्रधानमन्त्रीद्वयसँग वीरगन्जका उद्योगी-व्यवसायीको छलफल",
-   "en": "पूर्वप्रधानमन्त्रीद्वयसँग वीरगन्जका उद्योगी-व्यवसायीको छलफल",
-   "ne": "पूर्वप्रधानमन्त्रीद्वयसँग वीरगन्जका उद्योगी-व्यवसायीको छलफल",
-   "imp": 3,
-   "tags": [
-    "Birgunj",
-    "Business",
-    "Politics"
-   ],
-   "cat": "politics",
-   "val": 2,
-   "teaser": true,
    "hits": 1
   },
   {
@@ -3765,7 +3745,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "इन्धनको मूल्य बढेर आयो, निगमले मूल्य बृद्धि नगर्ने",
@@ -4769,7 +4749,7 @@
    "cat": "politics",
    "val": 2,
    "teaser": false,
-   "hits": 2
+   "hits": 5
   },
   {
    "title": "'बस्ती नै छोडेर जानुपर्ने अवस्था आउने हो कि भन्ने चिन्ता छ'",
@@ -5536,6 +5516,29 @@
     "Kathmandu",
     "Accident",
     "दुर्घटना"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "दरमखोलाको बाढीले गलकोटका २२ घरमा क्षति",
+   "summary": "बागलुङ समाचारदाताबागलुङ, असोज १५ गते । दरमखोलामा आएको बाढीले बागलुङको गलकोट नगरपालिकाका २२ घरमा क्षति पुर्‍याएको छ। नगरपालिकाको प्रारम्भिक क्षतिको विवरणअनुसार असोज ११ गते आएको बाढी...",
+   "link": "https://gorkhapatraonline.com/news/224966",
+   "source": "Gorkhapatra",
+   "ts": 1790819429,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/385803/conversions/baglung-original.jpg",
+   "lang": "ne",
+   "hl": "दरमखोलाको बाढीले गलकोटका २२ घरमा क्षति",
+   "en": "दरमखोलाको बाढीले गलकोटका २२ घरमा क्षति",
+   "ne": "दरमखोलाको बाढीले गलकोटका २२ घरमा क्षति",
+   "imp": 3,
+   "tags": [
+    "Baglung",
+    "Flood",
+    "बाढी"
    ],
    "cat": "disaster",
    "val": 3,
@@ -8906,7 +8909,7 @@
    "cat": "tech"
   }
  ],
- "updated": 1790818849,
+ "updated": 1790819451,
  "pending_since": 1790818269.1587737,
  "fb_blocks": [
   1790350880.4125228,
