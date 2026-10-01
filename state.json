@@ -3702,7 +3702,9 @@
   "http://english.ratopati.com/story/81717/15-million-passengers-leaving-the-valley-during-dashain-preparations-underway-from-traffic-to-road-department": 1790832664.2035873,
   "https://www.onlinekhabar.com/2026/10/2029801/agriculture-minister-clarifies-on-audio-scandal-i-dont-know-the-person-i-will-face-him-with-proof": 1790832664.2035873,
   "https://gorkhapatraonline.com/news/225005": 1790832664.2035873,
-  "https://theannapurnaexpress.com/story/67573": 1790832664.2035873
+  "https://theannapurnaexpress.com/story/67573": 1790832664.2035873,
+  "https://khabarhub.com/2026/01/1031546/": 1790833242.5725212,
+  "https://www.ratopati.com/story/596283/ncell-customers-get-special-bundle-package-on-iphone-18-purchase": 1790833242.5725212
  },
  "queue": [
   {
@@ -5086,7 +5088,7 @@
    "cat": "society",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "न्यू रोड क्षेत्रमा राति पहिरो, १५ घरमा क्षति",
@@ -7969,7 +7971,7 @@
    "cat": "tech",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "गौरमा बजार अनुगमन : डेरीलाई २ लाख जरिवाना, मासु पसललाई चेतावनी",
@@ -9083,29 +9085,6 @@
    "val": 3,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "1.5 Million Travelers Expected to Leave Kathmandu Valley During Dashain Festival",
-   "summary": "Kathmandu. This year, it is projected that about 1.5 million passengers will leave the Kathmandu Valley on the occasion of...",
-   "link": "http://english.ratopati.com/story/81717/15-million-passengers-leaving-the-valley-during-dashain-preparations-underway-from-traffic-to-road-department",
-   "source": "Ratopati EN",
-   "ts": 1790831632,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/yatayat_wXYvodeJnC.webp",
-   "lang": "en",
-   "hl": "1.5 Million Travelers Expected to Leave Kathmandu Valley During Dashain Festival",
-   "en": "1.5 Million Travelers Expected to Leave Kathmandu Valley During Dashain Festival",
-   "ne": "1.5 Million Travelers Expected to Leave Kathmandu Valley During Dashain Festival",
-   "imp": 4,
-   "tags": [
-    "Dashain",
-    "KathmanduValley",
-    "Travel"
-   ],
-   "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "Brazilian soccer teams cry foul at Lula's online betting ban",
@@ -12602,10 +12581,21 @@
    "n_ig": 1,
    "brk": true,
    "cat": "disaster"
+  },
+  {
+   "ts": 1790833248.719367,
+   "en": "1.5M Travelers Expected to Leave Kathmandu Valley for Dashain Festival",
+   "ne": "1.5M Travelers Expected to Leave Kathmandu Valley for Dashain Festival",
+   "link": "http://english.ratopati.com/story/81717/15-million-passengers-leaving-the-valley-during-dashain-preparations-underway-from-traffic-to-road-department",
+   "source": "Ratopati EN",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "society"
   }
  ],
- "updated": 1790832694,
- "pending_since": null,
+ "updated": 1790833262,
+ "pending_since": 1790833242.5725212,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
