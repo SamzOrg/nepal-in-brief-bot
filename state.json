@@ -3709,7 +3709,12 @@
   "https://www.ratopati.com/story/596543/a-man-who-went-to-pick-mushrooms-died-in-a-tiger-attack": 1790913681.236675,
   "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVFNZYWRXemszTnFNQVViUC1uMHVHemk5OGlyYk1SdGxmNTcwT2xPemQ2WUg5YlZpWVJQUGFEbXJySnB1d2RCUmFZRzRUZUgzV2xSeVBxM3VVRm9EaGhRMS16LVdGR2o2RzhhZktsSkc1RWZCeG1MdXVGVXgtUFhkS3RrUC1UYkYyblFpbWFHeEV4cGpMaFFVUWRIMFFSNmNGa1djTXVrYzhRVnhOc3NiZmhYWFlBUWlaUXc?oc=5": 1790913681.236675,
   "http://english.ratopati.com/story/81881/a-man-who-went-to-pick-mushrooms-died-in-a-tiger-attack": 1790913681.236675,
-  "https://theannapurnaexpress.com/story/67606": 1790913681.236675
+  "https://theannapurnaexpress.com/story/67606": 1790913681.236675,
+  "https://khabarhub.com/2026/02/1032034/": 1790914246.8307526,
+  "https://www.onlinekhabar.com/2026/10/2030499/one-person-dies-in-tiger-attack-in-kailali": 1790914246.8307526,
+  "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MSmNvWXE1OTZRTGZwdnFzYi1MY2xuT3ZBcWs0QTZTaklCSWdCbEgwTmVReEU0M1FFN0xCbTZTRXVuWkg2OVQxVi1yUHRJYjBQVGJ1TTZSelJTdw?oc=5": 1790914246.8307526,
+  "https://gorkhapatraonline.com/news/225125": 1790914246.8307526,
+  "https://baahrakhari.com/detail/503453": 1790914246.8307526
  },
  "queue": [
   {
@@ -4914,7 +4919,7 @@
    "cat": "accident",
    "val": 3,
    "teaser": false,
-   "hits": 3
+   "hits": 4
   },
   {
    "title": "११३ वर्ष अघिको गोर्खापत्र",
@@ -7398,7 +7403,7 @@
    "cat": "world",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Embankment protects Gaindakot settlements from record Narayani flood",
@@ -7829,6 +7834,52 @@
    ],
    "cat": "disaster",
    "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "गौरीगंगामा बाघको आक्रमणबाट एक पुरुषको मृत्यु",
+   "summary": "घोडाघोडी (कैलाली), असोज १६ गते । कैलालीको गौरीगंगा नगरपालिका-६ मोयास्थित भैरव महिला सामुदायिक वनमा बाघको आक्रमणबाट एक पुरुषको मृत्यु भएको छ।जिल्ला प्रहरी कार्यालय कैलालीका अनुसार ग...",
+   "link": "https://gorkhapatraonline.com/news/225125",
+   "source": "Gorkhapatra",
+   "ts": 1790913994,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/386020/conversions/1000194257-original.jpg",
+   "lang": "ne",
+   "hl": "गौरीगंगामा बाघको आक्रमणबाट एक पुरुषको मृत्यु",
+   "en": "गौरीगंगामा बाघको आक्रमणबाट एक पुरुषको मृत्यु",
+   "ne": "गौरीगंगामा बाघको आक्रमणबाट एक पुरुषको मृत्यु",
+   "imp": 4,
+   "tags": [
+    "TigerAttack",
+    "Gauriganga",
+    "बाघ"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "भोटेकोसी बाढीको ३८ दिनसम्म पनि सरकार 'उद्‍गम विन्दु'मा पुग्न सकेन, सूचना चीनसँगै निर्भर !",
+   "summary": "",
+   "link": "https://baahrakhari.com/detail/503453",
+   "source": "Baahrakhari",
+   "ts": 1790913952,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "भोटेकोसी बाढीको ३८ दिनसम्म पनि सरकार 'उद्‍गम विन्दु'मा पुग्न सकेन, सूचना चीनसँगै निर्भर !",
+   "en": "भोटेकोसी बाढीको ३८ दिनसम्म पनि सरकार 'उद्‍गम विन्दु'मा पुग्न सकेन, सूचना चीनसँगै निर्भर !",
+   "ne": "भोटेकोसी बाढीको ३८ दिनसम्म पनि सरकार 'उद्‍गम विन्दु'मा पुग्न सकेन, सूचना चीनसँगै निर्भर !",
+   "imp": 4,
+   "tags": [
+    "BhoteKoshi",
+    "Flood",
+    "बाढी"
+   ],
+   "cat": "disaster",
+   "val": 2,
    "teaser": false,
    "hits": 1
   }
@@ -11749,7 +11800,7 @@
    "cat": "politics"
   }
  ],
- "updated": 1790913706,
+ "updated": 1790914252,
  "pending_since": 1790913681.236675,
  "fb_blocks": [
   1790350880.4125228,
