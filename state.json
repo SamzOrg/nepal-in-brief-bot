@@ -1,8 +1,5 @@
 {
  "seen": {
-  "https://gorkhapatraonline.com/news/224890": 1790748648.3571253,
-  "https://gorkhapatraonline.com/news/224889": 1790748648.3571253,
-  "https://english.onlinekhabar.com/beni-babiachour-road.html": 1790748648.3571253,
   "https://risingnepaldaily.com/news/87201": 1790749248.304773,
   "https://www.onlinekhabar.com/2026/09/2029136/one-person-died-due-to-electrocution-3": 1790749248.304773,
   "https://www.onlinekhabar.com/2026/09/2029133/jeep-accident-in-sindhuli-8-injured": 1790749248.304773,
@@ -3719,7 +3716,9 @@
   "https://www.ratopati.com/story/596565/it-will-cost-eight-billion-to-repair-four-engines-nac-urges-to-resolve-policy-complications": 1790921332.9402163,
   "https://www.ratopati.com/story/596564/81st-united-nations-general-assembly-challenges-and-nepals-presentation": 1790921332.9402163,
   "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYnNDbk02ay1DZFI0S1pwZnA1X184c1N5clppUlFlTE9ELVJCMmRhNW9kSHVMT0dRbGFwTkl5QjllVVdXdE41V2JRX1AzQXg1dTl2MUJ1SnNuZER0RXk2Rm1pREVMWkE1ZEJkSkNHT1ZaQkJjbkozb0FJVEZSQ2dENXFuSDgwSXZuUlZ3VVBvakxLSEc5WVpoRWJUZEl0aVRWcVJXYUZtc1N0ZllfVTJLOVZOR2tlakp1bEZHaA?oc=5": 1790921332.9402163,
-  "https://www.ratopati.com/story/596563/nepal-airlines-corporation-in-crisis-due-to-high-interest-rates-and-debt-burden": 1790921332.9402163
+  "https://www.ratopati.com/story/596563/nepal-airlines-corporation-in-crisis-due-to-high-interest-rates-and-debt-burden": 1790921332.9402163,
+  "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMFBCY05Ga0JSMmxLYnFNYTZocjJOblFMbWFqanBFZFZPSkxNXzN0QnBPeDZnYjgzR0FOeUZzNFE4V1BSbzd3NlJPYk5reFpRTnBReDV0eC04cWpiRGpwMm9oWTNPQUNtbkxBcmNiNGx6MnpJMTZERjAzMzdlenVHVVktQ2M0aWdKWXpaRkVDcTFhRnM5eXdjOWkwbkEyZldjenlQYWoyeEFBbW5jUkZOR0lNRjFYTkdJMHJOYmFNb1c?oc=5": 1790921448.3648872,
+  "https://news.google.com/rss/articles/CBMinAFBVV95cUxOM3B2MzVnc3Vrd2pVYUczQzZGUGIwVnoyd1VCM0thOW53dTNrUUVzdTlZYW5SQkFVRkhkYVhERlRwUXdGbWY2RUZTd0pWaTVkUmJVLV9FUklrNXNPX1YxSmNVRUZkc21VVFZRWnA0S09lYmxSV0t4bUtRUU5qOTB4RzBWVzF4aEN2VFM2VXJuV2RlNHM3TV85TThCTEc?oc=5": 1790921448.3648872
  },
  "queue": [
   {
@@ -5290,29 +5289,6 @@
    "cat": "politics",
    "val": 3,
    "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "एन्टिबायोटिक खाइरहनुभएको छ ? गुलियो खानाबाट टाढै रहनुहोस् !",
-   "summary": "एन्टिबायोटिक औषधिको उपचारसँगै चिनीयुक्त खाना मिसाएर खाँदा मानिसको पेटको माइक्रोबायोमलाई गम्भीर नोक्सान पुग्न सक्ने एक नयाँ अध्ययनले देखाएको छ । प्रतिष्ठित वैज्ञानिक जर्नल 'नेचर'मा बुधबार प्रकाशित नयाँ अनुसन्धानले स्टेम...",
-   "link": "http://lokaantar.com/story/330279/2026/10/2/eating-sugar-",
-   "source": "Lokaantar",
-   "ts": 1790892646.1255329,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "एन्टिबायोटिक खाइरहनुभएको छ ? गुलियो खानाबाट टाढै रहनुहोस् !",
-   "en": "एन्टिबायोटिक खाइरहनुभएको छ ? गुलियो खानाबाट टाढै रहनुहोस् !",
-   "ne": "एन्टिबायोटिक खाइरहनुभएको छ ? गुलियो खानाबाट टाढै रहनुहोस् !",
-   "imp": 2,
-   "tags": [
-    "Antibiotics",
-    "HealthTips",
-    "स्वास्थ्य"
-   ],
-   "cat": "health",
-   "val": 3,
-   "teaser": false,
    "hits": 1
   },
   {
@@ -8671,7 +8647,7 @@
    "cat": "world",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "'Shree Bijjo Bhoot' brings forth Sudurpaschim story",
@@ -9516,28 +9492,6 @@
    ],
    "cat": "culture",
    "val": 2,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "Minister: Structural Reforms Needed Before Adding Aircraft to Nepal Airlines",
-   "summary": "Kathmandu. Minister for Culture, Tourism and Civil Aviation Khadakraj Paudel has clarified that there is no justification for bringing more...",
-   "link": "http://english.ratopati.com/story/81903/there-is-no-justification-for-introducing-new-aircraft-into-the-corporation-without-structural-reforms-minister-poudel",
-   "source": "Ratopati EN",
-   "ts": 1790920184,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/ganesh_6AULfix3PC.webp",
-   "lang": "en",
-   "hl": "Minister: Structural Reforms Needed Before Adding Aircraft to Nepal Airlines",
-   "en": "Minister: Structural Reforms Needed Before Adding Aircraft to Nepal Airlines",
-   "ne": "Minister: Structural Reforms Needed Before Adding Aircraft to Nepal Airlines",
-   "imp": 4,
-   "tags": [
-    "NepalAirlines",
-    "Aviation"
-   ],
-   "cat": "economy",
-   "val": 3,
    "teaser": false,
    "hits": 2
   },
@@ -10578,44 +10532,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1790316550.574634,
-   "en": "A month after Nepal-Tibet floods, families await answers over 50 missing Ukrainians",
-   "ne": "नेपाल-तिब्बत बाढीको एक महिना पछि, परिवारहरू ५० हराएका युक्रेनीहरूका उत्तरको पर्खाइमा",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcmtycFlQUDJJNGEzdURGSWNfNUFqWUxxM2Zmd3RKOFZZRGVYbjJtbVlFc0lMeUVtS3ZwNVNtZGF1OHdqbEQ2WDN1eFBHRl90aXZvZ1V5ZUEtYm5IYTV6NGU1RkJOaG9ha3RBb2MxWGFoQXRJWUJXQjRLM01VM0I2b3ZpRl8zblpRYzllY05tSV9vTWZDVkZON0lTc2VyMGdpaUE?oc=5",
-   "source": "The Independent",
-   "n_fb": 0,
-   "n_ig": 0
-  },
-  {
-   "ts": 1790316550.5751407,
-   "en": "High alert in Gandaki basin hydropower projects",
-   "ne": "गण्डकी बेसिनका जलविद्युत आयोजनामा उच्च सतर्कता",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/high-alert-for-hydroelectric-projects-in-gandaki-basin-40-18.html",
-   "source": "Nagarik News",
-   "n_fb": 0,
-   "n_ig": 0
-  },
-  {
-   "ts": 1790316550.5756118,
-   "en": "Landslide in Krishna Bhir, Earth Highway blocked at 7 points",
-   "ne": "कृष्णभीरमा पहिरो, पृथ्वी राजमार्ग ७ ठाउँमा अवरूद्ध",
-   "link": "https://www.setopati.com/social/399205",
-   "source": "Setopati",
-   "n_fb": 2,
-   "n_ig": 2,
-   "brk": true
-  },
-  {
-   "ts": 1790316601.0489469,
-   "en": "Nepal's PM says flash flood was 'warning to world' as he scolds leaders at UN over climate change",
-   "ne": "नेपालका प्रधानमन्त्रीले बाढीलाई 'विश्वलाई चेतावनी' भने, यूएनमा नेताहरूलाई जलवायु परिवर्तनमा टोक्दै",
-   "link": "https://www.theguardian.com/world/2026/sep/25/nepal-pm-flash-floods-warning-to-world-climate-change",
-   "source": "The Guardian",
-   "n_fb": 2,
-   "n_ig": 2,
-   "brk": true
-  },
   {
    "ts": 1790316651.5387442,
    "en": "Flash Flood in Nepal: Daily Life Between Grief and Reconstruction",
@@ -14517,10 +14433,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "disaster"
+  },
+  {
+   "ts": 1790921453.8211343,
+   "en": "Nepal Airlines Needs Structural Reforms Before Adding Aircraft, Says Minister Paudel",
+   "ne": "Nepal Airlines Needs Structural Reforms Before Adding Aircraft, Says Minister Paudel",
+   "link": "http://english.ratopati.com/story/81903/there-is-no-justification-for-introducing-new-aircraft-into-the-corporation-without-structural-reforms-minister-poudel",
+   "source": "Ratopati EN",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "economy"
   }
  ],
- "updated": 1790921339,
- "pending_since": null,
+ "updated": 1790921470,
+ "pending_since": 1790921448.3648872,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
