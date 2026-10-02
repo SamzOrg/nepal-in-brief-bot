@@ -1,7 +1,5 @@
 {
  "seen": {
-  "http://english.ratopati.com/story/81515/narayani-coastal-chaos-building-a-municipality-draining-the-river": 1790734248.3334684,
-  "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTDR4dDhIUmRTY2NnemNOTjlLd0V5WUJYTXctQndOcGlFQ3dkMlQ2VVN3ZU9iTllic3ZRdGlobUNZRHg5Ulhtc1psTWUzb3hjMGRzRjN5TzFvZ2hSLVBFSDNfWTVlV0RHeXBESlhYdmdOV3BYMjlaS2p0OHY5ZHkzdA?oc=5": 1790734248.3334684,
   "https://english.khabarhub.com/2026/30/569944/": 1790734849.9416685,
   "https://english.khabarhub.com/2026/30/569971/": 1790735463.8680873,
   "https://gorkhapatraonline.com/news/224850": 1790735463.8680873,
@@ -3707,7 +3705,11 @@
   "https://gorkhapatraonline.com/news/225106": 1790907045.1537275,
   "https://www.ratopati.com/story/596526/mother-safety-and-newborn-baby-program-launched-in-kohalpur": 1790907045.1537275,
   "http://english.ratopati.com/story/81864/mother-safety-and-newborn-baby-program-launched-in-kohalpur": 1790907045.1537275,
-  "https://gorkhapatraonline.com/news/225105": 1790907045.1537275
+  "https://gorkhapatraonline.com/news/225105": 1790907045.1537275,
+  "https://english.khabarhub.com/2026/02/570233/": 1790907649.11033,
+  "https://khabarhub.com/2026/02/1032012/": 1790907649.11033,
+  "https://english.onlinekhabar.com/el-nino-drought-flood.html": 1790907649.11033,
+  "https://baahrakhari.com/detail/503443": 1790907649.11033
  },
  "queue": [
   {
@@ -3987,7 +3989,7 @@
    "cat": "world",
    "val": 3,
    "teaser": false,
-   "hits": 4
+   "hits": 5
   },
   {
    "title": "कुन राशिलाई शुभ, कुनलाई मध्यम ? हेर्नुहोस् आजको राशिफल",
@@ -4773,29 +4775,6 @@
    "hits": 1
   },
   {
-   "title": "Nepal's poor campaign in 20th Asiad continues",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBkOGg0MG9tREVaNlI1V29LZElMZVo1Zk8wNmZVTUJ1WDRxVWRBemVGeG1pcVNfbUtVaV9xUUpWeXNDLUV4NDNRZ2NHMTBEaTBa?oc=5",
-   "source": "The Rising Nepal",
-   "ts": 1790903369,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Nepal's poor campaign in 20th Asiad continues",
-   "en": "Nepal's poor campaign in 20th Asiad continues",
-   "ne": "Nepal's poor campaign in 20th Asiad continues",
-   "imp": 3,
-   "tags": [
-    "AsianGames",
-    "NepalSports",
-    "Asiad"
-   ],
-   "cat": "sports",
-   "val": 2,
-   "teaser": false,
-   "hits": 2
-  },
-  {
    "title": "Nawagi festival begins in Dhankuta",
    "summary": "By Santosh Subedi, Dhankuta, Oct. 2: The Athpahariya community of Dhankuta has begun celebrating Nawagi, one of its majo...",
    "link": "https://risingnepaldaily.com/news/87282",
@@ -5048,29 +5027,6 @@
    "cat": "disaster",
    "val": 1,
    "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "Track opened on flood-damaged Galchhi-Betrawati road",
-   "summary": "By A Staff Reporter, Kathmandu, Oct. 4: A track has been opened along the flood-damaged Galchhi-Betrawati road section i...",
-   "link": "https://risingnepaldaily.com/news/87284",
-   "source": "Rising Nepal",
-   "ts": 1790904337,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Track opened on flood-damaged Galchhi-Betrawati road",
-   "en": "Track opened on flood-damaged Galchhi-Betrawati road",
-   "ne": "Track opened on flood-damaged Galchhi-Betrawati road",
-   "imp": 4,
-   "tags": [
-    "GalchhiBetrawatiRoad",
-    "Flood",
-    "RoadRepair"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
    "hits": 1
   },
   {
@@ -5966,6 +5922,29 @@
    "cat": "crime",
    "val": 1,
    "teaser": true,
+   "hits": 1
+  },
+  {
+   "title": "How can the same El Niño cause drought in one part of the world and floods in another?",
+   "summary": "The Pacific Ocean is warming unusually quickly, and this year's El Niño has already surpassed previous records. Forecasters expect it to strengthen even further before approaching its usual peak around December. El...",
+   "link": "https://english.onlinekhabar.com/el-nino-drought-flood.html",
+   "source": "Onlinekhabar EN",
+   "ts": 1790907300,
+   "weight": 3,
+   "img": "https://images.theconversation.com/files/762633/original/file-20260928-50-syw0e.jpg?ixlib=rb-4.1.1&rect=318%2C0%2C4323%2C2431&q=45&auto=format&w=754&fit=clip",
+   "lang": "en",
+   "hl": "How can the same El Niño cause drought in one part of the world and floods in another?",
+   "en": "How can the same El Niño cause drought in one part of the world and floods in another?",
+   "ne": "How can the same El Niño cause drought in one part of the world and floods in another?",
+   "imp": 1,
+   "tags": [
+    "ElNino",
+    "Weather",
+    "Climate"
+   ],
+   "cat": "world",
+   "val": 1,
+   "teaser": false,
    "hits": 1
   }
  ],
@@ -9817,10 +9796,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "politics"
+  },
+  {
+   "ts": 1790907658.4158347,
+   "en": "Nepal's 20th Asiad campaign struggles with early exits as golfer Subash Tamang makes cut in Japan",
+   "ne": "Nepal's 20th Asiad campaign struggles with early exits as golfer Subash Tamang makes cut in Japan",
+   "link": "https://risingnepaldaily.com/news/87283",
+   "source": "The Rising Nepal",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "sports"
   }
  ],
- "updated": 1790907052,
- "pending_since": null,
+ "updated": 1790907677,
+ "pending_since": 1790907649.11033,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
