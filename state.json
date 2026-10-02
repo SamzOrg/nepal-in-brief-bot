@@ -1,10 +1,5 @@
 {
  "seen": {
-  "https://www.setopati.com/social/399562": 1790730079.5827644,
-  "https://khabarhub.com/2026/30/1031045/": 1790730079.5827644,
-  "https://news.google.com/rss/articles/CBMie0FVX3lxTE8tSkJPdmY3TmdrS2tNWDlwNWJ6eUtzeDZCaFFxMS1Sa2xudzUxSnFYbTZ1YkcyaVYxR2ZSZENDSHBTWngwQUp1THlBbXNlUE8tNUxtOE5odGtTZHJnMUl3R3d6d21iUW5HeGFuZVNtaTZVUVc3U1FYUjQ2Yw?oc=5": 1790730079.5827644,
-  "http://lokaantar.com/story/330109/2026/9/30/maldhungga-": 1790730079.5827644,
-  "https://khabarhub.com/2026/30/1031044/": 1790730079.5827644,
   "https://www.setopati.com/social/399563": 1790730644.9904983,
   "https://nagariknews.nagariknetwork.com/social-affairs/recommendation-for-declaring-myagdi-a-disaster-prone-district-drinking-water-problem-in-beni-46-54.html": 1790730644.9904983,
   "https://gorkhapatraonline.com/news/224834": 1790730644.9904983,
@@ -3714,33 +3709,16 @@
   "https://www.setopati.com/social/399742": 1790902877.2647257,
   "https://nagariknews.nagariknetwork.com/social-affairs/jaleshwor-submerged-after-dam-collapses-14-88.html": 1790902877.2647257,
   "https://nagariknews.nagariknetwork.com/social-affairs/flooding-at-relekhola-dam-power-generation-halted-br-55-72.html": 1790902877.2647257,
-  "https://www.setopati.com/social/399741": 1790902877.2647257
+  "https://www.setopati.com/social/399741": 1790902877.2647257,
+  "https://risingnepaldaily.com/news/87283": 1790903444.7745972,
+  "https://gorkhapatraonline.com/news/225094": 1790903444.7745972,
+  "https://www.setopati.com/social/399743": 1790903444.7745972,
+  "https://www.onlinekhabar.com/2026/10/2030445/flood-damages-relekhola-project-dam-halts-electricity-generation": 1790903444.7745972,
+  "http://lokaantar.com/story/330275/2026/10/2/electricity-": 1790903444.7745972,
+  "https://www.ratopati.com/story/596521/christa-pike-dies-despite-being-given-lethal-injection-twice-to-be-executed-fighting-for-life-in-hospital": 1790903444.7745972,
+  "http://english.ratopati.com/story/81859/christa-pike-dies-despite-being-given-lethal-injection-twice-to-be-executed-fighting-for-life-in-hospital": 1790903444.7745972
  },
  "queue": [
-  {
-   "title": "भोटेकोशी बाढीमा आफन्त गुमाएका परिवारलाई एक्लो महसुस नगर्न अर्थमन्त्री डा. वाग्लेको आग्रह",
-   "summary": "काठमाडौँ, असोज १५ गते । अर्थमन्त्री डा. स्वर्णिम वाग्लेले भोटेकोशी-रसुवा बाढीमा परी ज्यान गुमाउनुभएका र हराइरहेका भन्सार कर्मचारीका परिवारलाई पीडाको घडीमा एक्लो महसुस नगर्न आग्रह ग...",
-   "link": "https://gorkhapatraonline.com/news/225079",
-   "source": "Gorkhapatra",
-   "ts": 1790874150,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/385962/conversions/6f40e2a5-64b0-4d7d-878d-c71e126bc85c-original.jpg",
-   "lang": "ne",
-   "hl": "भोटेकोशी बाढीमा आफन्त गुमाएका परिवारलाई एक्लो महसुस नगर्न अर्थमन्त्री डा. वाग्लेको आग्रह",
-   "en": "भोटेकोशी बाढीमा आफन्त गुमाएका परिवारलाई एक्लो महसुस नगर्न अर्थमन्त्री डा. वाग्लेको आग्रह",
-   "ne": "भोटेकोशी बाढीमा आफन्त गुमाएका परिवारलाई एक्लो महसुस नगर्न अर्थमन्त्री डा. वाग्लेको आग्रह",
-   "imp": 3,
-   "tags": [
-    "BhoteKoshi",
-    "Flood",
-    "FinanceMinister",
-    "बाढी"
-   ],
-   "cat": "disaster",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
   {
    "title": "सप्तरीबाट गाँजासहित तीन जना पक्राउ",
    "summary": "देवराम यादवसप्तरी असोज १५ गते । सप्तरीको सप्तकोशी नगरपालिका १ फत्तेपुरबाट बिहिवार ९ किलो २७५ ग्राम प्रतिबन्धित लागूऔषध गाँजासहित तीन जनालाई प्रहरीले पक्राउ गरेका छन् । जिल्लाको कञ्...",
@@ -4270,7 +4248,7 @@
    "cat": "world",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "कुन राशिलाई शुभ, कुनलाई मध्यम ? हेर्नुहोस् आजको राशिफल",
@@ -4548,7 +4526,7 @@
    "cat": "economy",
    "val": 2,
    "teaser": false,
-   "hits": 3
+   "hits": 4
   },
   {
    "title": "सरकारी सेवा थप समावेशी बन्ने",
@@ -4963,28 +4941,26 @@
    "hits": 1
   },
   {
-   "title": "रेलेखोलाको बाँधमा बाढी, विद्युत उत्पादन बन्द",
-   "summary": "रेलेखर्क क्षेत्रमा पहिरो गई रेलेखोलामा बाढीको सतह बढेर आउँदा बाँधमा थुप्रिएको छ।",
-   "link": "https://www.setopati.com/social/399741",
-   "source": "Setopati",
-   "ts": 1790902380,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "रेलेखोलाको बाँधमा बाढी, विद्युत उत्पादन बन्द",
-   "en": "रेलेखोलाको बाँधमा बाढी, विद्युत उत्पादन बन्द",
-   "ne": "रेलेखोलाको बाँधमा बाढी, विद्युत उत्पादन बन्द",
-   "imp": 4,
+   "title": "Tennessee Death Row Inmate Christa Pike Survives Two Lethal Injections, Condition Critical",
+   "summary": "Tennessee. Christa Pike, who was given lethal injection twice in Tennessee, USA, is still alive. However, her lawyer said her...",
+   "link": "http://english.ratopati.com/story/81859/christa-pike-dies-despite-being-given-lethal-injection-twice-to-be-executed-fighting-for-life-in-hospital",
+   "source": "Ratopati EN",
+   "ts": 1790902842,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/3e8eb493-627a-42a5-8718-1ed7d27e70bd_1920x1080_qTGb3qIkuh.webp",
+   "lang": "en",
+   "hl": "Tennessee Death Row Inmate Christa Pike Survives Two Lethal Injections, Condition Critical",
+   "en": "Tennessee Death Row Inmate Christa Pike Survives Two Lethal Injections, Condition Critical",
+   "ne": "Tennessee Death Row Inmate Christa Pike Survives Two Lethal Injections, Condition Critical",
+   "imp": 1,
    "tags": [
-    "RelenKhola",
-    "Flood",
-    "Hydropower",
-    "बाढी"
+    "ChristaPike",
+    "DeathRow"
    ],
-   "cat": "disaster",
+   "cat": "world",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   }
  ],
  "posted": [
@@ -8802,9 +8778,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "politics"
+  },
+  {
+   "ts": 1790903458.4642925,
+   "en": "म्याग्दीको ६ मेगावाटको रेलेखोला जलविद्युत आयोजना बाढीले बन्द",
+   "ne": "म्याग्दीको ६ मेगावाटको रेलेखोला जलविद्युत आयोजना बाढीले बन्द",
+   "link": "https://www.setopati.com/social/399741",
+   "source": "Setopati",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": true,
+   "cat": "disaster"
   }
  ],
- "updated": 1790902886,
+ "updated": 1790903475,
  "pending_since": 1790902249.3151944,
  "fb_blocks": [
   1790350880.4125228,
