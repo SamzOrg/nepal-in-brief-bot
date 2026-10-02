@@ -3710,31 +3710,15 @@
   "http://lokaantar.com/story/330267/2026/10/2/khasiboka-": 1790900447.6168928,
   "http://lokaantar.com/story/330266/2026/10/2/cricket-team-": 1790900447.6168928,
   "http://lokaantar.com/story/330265/2026/10/2/salt-": 1790900447.6168928,
-  "http://lokaantar.com/story/330264/2026/10/2/hilsa-": 1790900447.6168928
+  "http://lokaantar.com/story/330264/2026/10/2/hilsa-": 1790900447.6168928,
+  "https://english.khabarhub.com/2026/02/570242/": 1790901061.4439876,
+  "http://english.ratopati.com/story/81857/partial-effect-of-monsoon-and-westerly-winds-across-the-country-possibility-of-rain-in-these-6-provinces-today": 1790901061.4439876,
+  "https://khabarhub.com/2026/02/1031994/": 1790901061.4439876,
+  "https://nagariknews.nagariknetwork.com/politics/both-houses-of-the-federal-parliament-are-meeting-88-23.html": 1790901061.4439876,
+  "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdUhLQ0pyMXNkRHpsVkVOTnBETnZmQTVKY3R2UjJ6ZFl1RmhzVVB6REtrYnZDU21DM04xV044aUpEUC1tQ1Eyb1JTcWtKRzFjdUd6SUdGSmI5bDBKV2pOMXFTaWVfNlppdHFnejVWWFJvWjNVc0dxMHA3VDNRSjVfa0lBRUttdERLNUtFRzVQWUtUeXhmUlo1VEJEOHNaM1d4RDRqRlFTODlhN2hNOXZpX05CRmdsUQ?oc=5": 1790901061.4439876,
+  "http://lokaantar.com/story/330270/2026/10/2/cricket-": 1790901061.4439876
  },
  "queue": [
-  {
-   "title": "Dhodara Chandani Suspension Bridge Collapses, Locals Express Dismay",
-   "summary": "Mahendranagar. Former ward member of Dodhara Chandani Municipality-4, 77-year-old Bhim Bahadur Singh, was found observing the collapsed suspension bridge on...",
-   "link": "http://english.ratopati.com/story/81842/after-the-historic-bridge-connecting-dodhara-chadani-to-muldhara-collapsed",
-   "source": "Ratopati EN",
-   "ts": 1790872253,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/03-dodharachandani-pool_nepal-photo-library_2_C8QoDgQyjF.webp",
-   "lang": "en",
-   "hl": "Dhodara Chandani Suspension Bridge Collapses, Locals Express Dismay",
-   "en": "Dhodara Chandani Suspension Bridge Collapses, Locals Express Dismay",
-   "ne": "Dhodara Chandani Suspension Bridge Collapses, Locals Express Dismay",
-   "imp": 2,
-   "tags": [
-    "DhodaraChandani",
-    "BridgeCollapse"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 3
-  },
   {
    "title": "प्रशिक्षकसँगको विवादपछि राष्ट्रिय टोलीमा रोनाल्डोको भविष्य अनिश्चित",
    "summary": "काठमाडाैं - प्रशिक्षक जर्ज जेससले बिहीबार डेनमार्कविरुद्धको खेलमा पोर्चुगलका सुपरस्टार क्रिस्टियानो रोनाल्डोलाई सुरुवाती ११ मा नराख्ने घोषणा गरेपछि बढेको विवादबीच उनको राष्ट्रिय टोलीमा भविष्य अनिश्चित बनेको छ।...",
@@ -4261,7 +4245,7 @@
    "cat": "sports",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "Sewa USA Launches Nepal Flood Relief, Missing-Person Helpdesk",
@@ -4588,7 +4572,7 @@
    "cat": "politics",
    "val": 1,
    "teaser": true,
-   "hits": 1
+   "hits": 3
   },
   {
    "title": "अमेरिकी र सिंगापुर डलरको भाउ बढ्यो, युरो, पाउण्ड, अष्ट्रेलियन र क्यानेडियन डलरको घट्यो",
@@ -4749,7 +4733,7 @@
    "cat": "economy",
    "val": 1,
    "teaser": true,
-   "hits": 1
+   "hits": 2
   }
  ],
  "posted": [
@@ -8576,7 +8560,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1790900484,
+ "updated": 1790901065,
  "pending_since": 1790900447.6168928,
  "fb_blocks": [
   1790350880.4125228,
