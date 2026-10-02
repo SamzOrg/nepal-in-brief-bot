@@ -1,9 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBsclRhWnlBUFd1TVFNVDBEV1VQZnJpTzlaMkFMRGtldHBva1l2dGpRSnRGTlNyLV9ObkhZcEd1UkpYWEt4b2NwUS1Tdm5hU1pUTVlYTHRwQTFZWVU?oc=5": 1790806258.5543568,
-  "https://www.bbc.co.uk/news/articles/c607l4l3vn0eo?at_medium=RSS&at_campaign=rss": 1790806258.5543568,
-  "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1QU2VEMUc1M0FmYlNMQ1BsS0NOdkw5dlppWTNjd2RKNEtwQW9RXzBWMWFyRnVLU0g1a1dGMFFLRmNqWnNWVFhHdHQ4TlZob0h6a21YejExSmJHZHhiQ1E?oc=5": 1790806258.5543568,
-  "https://news.google.com/rss/articles/CBMingFBVV95cUxNeXRBN2FrTXMwRFVtcF9kTTl1Y2JFSzIxMzBsRXZBQ3JvZjB1NmxIUktYb0dyazdxWWFXRnB3VjdDMUVDN3Mxd2JDTTRRNGFQZl9IcWw5WW9pZTBCVVhVYWVFUjlTdG14VGs3aDEtdlNza1VlS1N0ZEF2TGNQMXV6cFFkYi1DZElXN19paWZoUzIyTHZoRGt5QnBPYmJ1QQ?oc=5": 1790806842.5408223,
   "https://www.ratopati.com/story/596226/floods-and-landslides-in-ghiring-damage-seven-suspension-bridges-and-a-bailey-bridge": 1790808642.765928,
   "https://www.ratopati.com/story/596227/wildlife-crime-control-becoming-effective-in-the-far-west": 1790809845.6849678,
   "http://english.ratopati.com/story/81673/fire-extinguishers-are-being-made-mandatory-on-public-transport": 1790809845.6849678,
@@ -3749,30 +3745,6 @@
  },
  "queue": [
   {
-   "title": "Parsa resident wins Rs one million under taxpayer incentive scheme",
-   "summary": "KATHMANDU: Lalbabu Sah Kanu of Parsa has won a Rs 1 million prize under the government's taxpayer incentive scheme. The Inland Revenue Department announced his name on Friday, October 2, for transactions made during the...",
-   "link": "https://english.khabarhub.com/2026/02/570375/",
-   "source": "Khabarhub EN",
-   "ts": 1790950550,
-   "weight": 2,
-   "img": "https://english.khabarhub.com/wp-content/uploads/2026/10/Prize-Lalbabu-Sah-400x220.jpeg",
-   "lang": "en",
-   "hl": "Parsa resident wins Rs one million under taxpayer incentive scheme",
-   "en": "Parsa resident wins Rs one million under taxpayer incentive scheme",
-   "ne": "Parsa resident wins Rs one million under taxpayer incentive scheme",
-   "imp": 2,
-   "tags": [
-    "Parsa",
-    "Taxpayer",
-    "Incentive",
-    "करदाता"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "रसुवा बाढीपीडितलाई मगर संघ अमेरिकाद्वारा ३० लाख सहयोग",
    "summary": "अमेरिकामा बसोवास गर्दै आएका मगर समुदायले बाढीपीडितको राहत तथा पुनर्स्थापनाका लागि ३० लाख ३० हजार रुपैयाँ सहयोग गरेको छ ।",
    "link": "https://www.onlinekhabar.com/2026/10/2031063/magar-association-of-america-provides-rs-3-million-to-rasuwa-flood-victims",
@@ -3958,29 +3930,6 @@
    "hits": 1
   },
   {
-   "title": "Rabi Lamichhane-Balen Shah Relationship Under Scrutiny Amidst Political Speculation",
-   "summary": "Kathmandu. Differing perspectives are being publicly aired in political circles regarding the relationship between ruling party Rastriya Swatantra Party (RSP)...",
-   "link": "http://english.ratopati.com/story/82013/difference-between-ravi-and-balen-or-a-power-struggle-among-second-tier-leaders",
-   "source": "Ratopati EN",
-   "ts": 1790950500,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/rabi-balen_zXu2fIIJsc.jpg",
-   "lang": "en",
-   "hl": "Rabi Lamichhane-Balen Shah Relationship Under Scrutiny Amidst Political Speculation",
-   "en": "Rabi Lamichhane-Balen Shah Relationship Under Scrutiny Amidst Political Speculation",
-   "ne": "Rabi Lamichhane-Balen Shah Relationship Under Scrutiny Amidst Political Speculation",
-   "imp": 3,
-   "tags": [
-    "RabiLamichhane",
-    "BalenShah",
-    "Politics"
-   ],
-   "cat": "politics",
-   "val": 2,
-   "teaser": false,
-   "hits": 2
-  },
-  {
    "title": "द्रुतमार्गको सुस्त गति : १० वर्षमा आधा काम, म्याद थपियो ३ वर्ष",
    "summary": "यो आयोजना चैत २०८३ मा सम्पन्न हुनुपर्ने थियो । उक्त अवधिमा सम्पन्न हुने निश्चित नभएपछि २० साउनमा बसेको मन्त्रिपरिषद् बैठकले द्रुतमार्गको म्याद थप गरी चैत २०८६ पुर्‍याएको हो ।",
    "link": "https://www.onlinekhabar.com/2026/10/2031088/slow-progress-of-expressway-half-of-the-work-done-in-10-years-deadline-extended-by-3-years",
@@ -4119,29 +4068,6 @@
    "hits": 1
   },
   {
-   "title": "चीनलाई हराउँदै ४४ वर्षपछि एसियाली खेलकुदमा भारतलाई स्वर्ण",
-   "summary": "खेलको १०औँ मिनेटमा लालरेमसियामीले उत्कृष्ट टोमाहकमार्फत भारतका लागि निर्णायक गोल गरिन्।",
-   "link": "https://nagariknews.nagariknetwork.com/sports/india-wins-gold-at-asian-games-after-44-years-defeating-china-75-92.html",
-   "source": "Nagarik News",
-   "ts": 1790950731,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1790950703_India%20Beat%20China.jpg",
-   "lang": "ne",
-   "hl": "चीनलाई हराउँदै ४४ वर्षपछि एसियाली खेलकुदमा भारतलाई स्वर्ण",
-   "en": "चीनलाई हराउँदै ४४ वर्षपछि एसियाली खेलकुदमा भारतलाई स्वर्ण",
-   "ne": "चीनलाई हराउँदै ४४ वर्षपछि एसियाली खेलकुदमा भारतलाई स्वर्ण",
-   "imp": 2,
-   "tags": [
-    "India",
-    "China",
-    "AsianGames"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "डोटी कांग्रेसको अधिवेशनविरुद्ध केन्द्रमा उजुरी",
    "summary": "महाधिवेशन प्रतिनिधिका उम्मेदवार धर्म फुलाराले पार्टी केन्द्रीय कार्यालय र निर्वाचन समितिमा उजुरी हालेका हुन् । उनको उजुरी केन्द्रीय कार्यालयमा दर्ता भइसकेको छ ।",
    "link": "https://www.onlinekhabar.com/2026/10/2031084/complaint-filed-at-the-center-against-doti-congress-convention",
@@ -4184,29 +4110,6 @@
    ],
    "cat": "disaster",
    "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "फिफाले एन्फालाई निलम्बन गरेको सय दिन पुग्यो, छैन फुकुवाको संकेत",
-   "summary": "फिफाको सर्त मान्दा भारत र पाकिस्तानमाथि निलम्बन छोटो समयमै फुकुवा भएको छ, फिफाको सर्त पालना नगरी नेपालको निलम्बन फुकुवा सम्भव छ ?",
-   "link": "https://www.onlinekhabar.com/2026/10/2031052/its-been-100-days-since-fifa-suspended-anfa-with-no-sign-of-lifting-it",
-   "source": "Onlinekhabar",
-   "ts": 1790950341,
-   "weight": 3,
-   "img": "https://www.onlinekhabar.com/wp-content/uploads/2026/10/FIFA-ANFA.png",
-   "lang": "ne",
-   "hl": "फिफाले एन्फालाई निलम्बन गरेको सय दिन पुग्यो, छैन फुकुवाको संकेत",
-   "en": "फिफाले एन्फालाई निलम्बन गरेको सय दिन पुग्यो, छैन फुकुवाको संकेत",
-   "ne": "फिफाले एन्फालाई निलम्बन गरेको सय दिन पुग्यो, छैन फुकुवाको संकेत",
-   "imp": 2,
-   "tags": [
-    "ANFA",
-    "FIFA",
-    "Football"
-   ],
-   "cat": "sports",
-   "val": 3,
    "teaser": false,
    "hits": 1
   },
@@ -5403,29 +5306,6 @@
    "val": 3,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "MP Khagendra Sunar Vows to Risk Life for Truth in Million-Dollar Uniform Scam",
-   "summary": "Kathmandu. Rastriya Swatantra Party (RSP) MP Khagendra Sunar has stated that he is ready to put not only his position...",
-   "link": "http://english.ratopati.com/story/82024/there-may-be-an-attempt-to-clean-up-the-investigation-into-the-purchase-of-temporary-police-uniforms-i-am-ready-to-risk-my-life-for-the-truth-mp-khagendra-sunar",
-   "source": "Ratopati EN",
-   "ts": 1790962148,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/1-khagendra-sunar_aLMUA84LOE.jpg",
-   "lang": "en",
-   "hl": "MP Khagendra Sunar Vows to Risk Life for Truth in Million-Dollar Uniform Scam",
-   "en": "MP Khagendra Sunar Vows to Risk Life for Truth in Million-Dollar Uniform Scam",
-   "ne": "MP Khagendra Sunar Vows to Risk Life for Truth in Million-Dollar Uniform Scam",
-   "imp": 4,
-   "tags": [
-    "KhagendraSunar",
-    "UniformScam",
-    "Corruption"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "मदिनाको विद्युत् केन्द्रमा हुथीमाथि ड्रोन आक्रमण",
@@ -9646,9 +9526,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "crime"
+  },
+  {
+   "ts": 1790979652.924232,
+   "en": "RSP MP Khagendra Sunar Vows to Risk Life in Police Uniform Corruption Probe",
+   "ne": "RSP MP Khagendra Sunar Vows to Risk Life in Police Uniform Corruption Probe",
+   "link": "http://english.ratopati.com/story/82024/there-may-be-an-attempt-to-clean-up-the-investigation-into-the-purchase-of-temporary-police-uniforms-i-am-ready-to-risk-my-life-for-the-truth-mp-khagendra-sunar",
+   "source": "Ratopati EN",
+   "n_fb": 1,
+   "n_ig": 0,
+   "brk": false,
+   "cat": "politics"
   }
  ],
- "updated": 1790979051,
+ "updated": 1790979659,
  "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
