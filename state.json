@@ -3710,32 +3710,13 @@
   "https://nagariknews.nagariknetwork.com/social-affairs/a-man-who-jumped-into-the-tinau-river-is-missing-70-13.html": 1790902249.3151944,
   "http://lokaantar.com/story/330273/2026/10/2/time-": 1790902249.3151944,
   "https://risingnepaldaily.com/news/87279": 1790902249.3151944,
-  "https://www.onlinekhabar.com/2026/10/2030442/myagdi-floods-and-landslides-repairs-to-electricity-transmission-lines-begin-in-affected-areas": 1790902249.3151944
+  "https://www.onlinekhabar.com/2026/10/2030442/myagdi-floods-and-landslides-repairs-to-electricity-transmission-lines-begin-in-affected-areas": 1790902249.3151944,
+  "https://www.setopati.com/social/399742": 1790902877.2647257,
+  "https://nagariknews.nagariknetwork.com/social-affairs/jaleshwor-submerged-after-dam-collapses-14-88.html": 1790902877.2647257,
+  "https://nagariknews.nagariknetwork.com/social-affairs/flooding-at-relekhola-dam-power-generation-halted-br-55-72.html": 1790902877.2647257,
+  "https://www.setopati.com/social/399741": 1790902877.2647257
  },
  "queue": [
-  {
-   "title": "प्रशिक्षकसँगको विवादपछि राष्ट्रिय टोलीमा रोनाल्डोको भविष्य अनिश्चित",
-   "summary": "काठमाडाैं - प्रशिक्षक जर्ज जेससले बिहीबार डेनमार्कविरुद्धको खेलमा पोर्चुगलका सुपरस्टार क्रिस्टियानो रोनाल्डोलाई सुरुवाती ११ मा नराख्ने घोषणा गरेपछि बढेको विवादबीच उनको राष्ट्रिय टोलीमा भविष्य अनिश्चित बनेको छ।...",
-   "link": "https://khabarhub.com/2026/01/1031982/",
-   "source": "Khabarhub",
-   "ts": 1790873836,
-   "weight": 3,
-   "img": "https://www.khabarhub.com/wp-content/uploads/2026/06/Ronaldo-1-1-400x220.jpg",
-   "lang": "ne",
-   "hl": "प्रशिक्षकसँगको विवादपछि राष्ट्रिय टोलीमा रोनाल्डोको भविष्य अनिश्चित",
-   "en": "प्रशिक्षकसँगको विवादपछि राष्ट्रिय टोलीमा रोनाल्डोको भविष्य अनिश्चित",
-   "ne": "प्रशिक्षकसँगको विवादपछि राष्ट्रिय टोलीमा रोनाल्डोको भविष्य अनिश्चित",
-   "imp": 1,
-   "tags": [
-    "CristianoRonaldo",
-    "Portugal",
-    "Football"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
   {
    "title": "भोटेकोशी बाढीमा आफन्त गुमाएका परिवारलाई एक्लो महसुस नगर्न अर्थमन्त्री डा. वाग्लेको आग्रह",
    "summary": "काठमाडौँ, असोज १५ गते । अर्थमन्त्री डा. स्वर्णिम वाग्लेले भोटेकोशी-रसुवा बाढीमा परी ज्यान गुमाउनुभएका र हराइरहेका भन्सार कर्मचारीका परिवारलाई पीडाको घडीमा एक्लो महसुस नगर्न आग्रह ग...",
@@ -4406,7 +4387,7 @@
    "cat": "economy",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "अमेरिकी र सिंगापुर डलरको भाउ बढ्यो, युरो, पाउण्ड, अष्ट्रेलियन र क्यानेडियन डलरको घट्यो",
@@ -4978,6 +4959,30 @@
    ],
    "cat": "disaster",
    "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "रेलेखोलाको बाँधमा बाढी, विद्युत उत्पादन बन्द",
+   "summary": "रेलेखर्क क्षेत्रमा पहिरो गई रेलेखोलामा बाढीको सतह बढेर आउँदा बाँधमा थुप्रिएको छ।",
+   "link": "https://www.setopati.com/social/399741",
+   "source": "Setopati",
+   "ts": 1790902380,
+   "weight": 3,
+   "img": null,
+   "lang": "ne",
+   "hl": "रेलेखोलाको बाँधमा बाढी, विद्युत उत्पादन बन्द",
+   "en": "रेलेखोलाको बाँधमा बाढी, विद्युत उत्पादन बन्द",
+   "ne": "रेलेखोलाको बाँधमा बाढी, विद्युत उत्पादन बन्द",
+   "imp": 4,
+   "tags": [
+    "RelenKhola",
+    "Flood",
+    "Hydropower",
+    "बाढी"
+   ],
+   "cat": "disaster",
+   "val": 3,
    "teaser": false,
    "hits": 1
   }
@@ -8799,7 +8804,7 @@
    "cat": "politics"
   }
  ],
- "updated": 1790902272,
+ "updated": 1790902886,
  "pending_since": 1790902249.3151944,
  "fb_blocks": [
   1790350880.4125228,
