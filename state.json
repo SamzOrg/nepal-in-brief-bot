@@ -1,11 +1,5 @@
 {
  "seen": {
-  "https://risingnepaldaily.com/news/87201": 1790749248.304773,
-  "https://www.onlinekhabar.com/2026/09/2029136/one-person-died-due-to-electrocution-3": 1790749248.304773,
-  "https://www.onlinekhabar.com/2026/09/2029133/jeep-accident-in-sindhuli-8-injured": 1790749248.304773,
-  "http://lokaantar.com/story/330133/2026/9/30/siddhartha-thapa-": 1790749248.304773,
-  "http://annapurnapost.com/story/508663": 1790749248.304773,
-  "https://english.onlinekhabar.com/dies-of-electrocution.html": 1790749248.304773,
   "https://english.khabarhub.com/2026/30/570004/": 1790749862.9102788,
   "https://khabarhub.com/2026/30/1031138/": 1790749862.9102788,
   "https://nagariknews.nagariknetwork.com/social-affairs/road-to-resunga-airport-blocked-due-to-road-collapse-62-12.html": 1790749862.9102788,
@@ -3718,33 +3712,44 @@
   "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYnNDbk02ay1DZFI0S1pwZnA1X184c1N5clppUlFlTE9ELVJCMmRhNW9kSHVMT0dRbGFwTkl5QjllVVdXdE41V2JRX1AzQXg1dTl2MUJ1SnNuZER0RXk2Rm1pREVMWkE1ZEJkSkNHT1ZaQkJjbkozb0FJVEZSQ2dENXFuSDgwSXZuUlZ3VVBvakxLSEc5WVpoRWJUZEl0aVRWcVJXYUZtc1N0ZllfVTJLOVZOR2tlakp1bEZHaA?oc=5": 1790921332.9402163,
   "https://www.ratopati.com/story/596563/nepal-airlines-corporation-in-crisis-due-to-high-interest-rates-and-debt-burden": 1790921332.9402163,
   "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMFBCY05Ga0JSMmxLYnFNYTZocjJOblFMbWFqanBFZFZPSkxNXzN0QnBPeDZnYjgzR0FOeUZzNFE4V1BSbzd3NlJPYk5reFpRTnBReDV0eC04cWpiRGpwMm9oWTNPQUNtbkxBcmNiNGx6MnpJMTZERjAzMzdlenVHVVktQ2M0aWdKWXpaRkVDcTFhRnM5eXdjOWkwbkEyZldjenlQYWoyeEFBbW5jUkZOR0lNRjFYTkdJMHJOYmFNb1c?oc=5": 1790921448.3648872,
-  "https://news.google.com/rss/articles/CBMinAFBVV95cUxOM3B2MzVnc3Vrd2pVYUczQzZGUGIwVnoyd1VCM0thOW53dTNrUUVzdTlZYW5SQkFVRkhkYVhERlRwUXdGbWY2RUZTd0pWaTVkUmJVLV9FUklrNXNPX1YxSmNVRUZkc21VVFZRWnA0S09lYmxSV0t4bUtRUU5qOTB4RzBWVzF4aEN2VFM2VXJuV2RlNHM3TV85TThCTEc?oc=5": 1790921448.3648872
+  "https://news.google.com/rss/articles/CBMinAFBVV95cUxOM3B2MzVnc3Vrd2pVYUczQzZGUGIwVnoyd1VCM0thOW53dTNrUUVzdTlZYW5SQkFVRkhkYVhERlRwUXdGbWY2RUZTd0pWaTVkUmJVLV9FUklrNXNPX1YxSmNVRUZkc21VVFZRWnA0S09lYmxSV0t4bUtRUU5qOTB4RzBWVzF4aEN2VFM2VXJuV2RlNHM3TV85TThCTEc?oc=5": 1790921448.3648872,
+  "https://risingnepaldaily.com/news/87304": 1790922117.5816262,
+  "https://www.setopati.com/social/399760": 1790922117.5816262,
+  "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeUtrOUttRlhqT3lsLUxXcWE0TEVUZHJoMWNjc2RIemFpUzV5cW9Rc3VFbFl4SlpsRnhiV1lYQml1aDBDSmdMMnhFOExGcEhvVXZGNjRXT2MyaW9VQWFjbzg1eENBeXVjR21jV0h0bTlJU08xYnRVa2pVcktCcHRpa0paZ0Y0aFU?oc=5": 1790922117.5816262,
+  "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNFVLZUl4TnlLbHBJa2RTODFVMVR3NElobzF2aXV3b2dNdnVEdFZYZTgzY1JHQWVXYVFMTzZja1dNMUIySC1xcTdSTE1mLXdlcmZ1cmM0WnBYWHV2cTRzM2lseGFLVTNCdVFWRXdzRm9ZOHhGd0kxSzBMRzNxb2syZkFQNWxObUNyYjZTQ2lwcVV6Z25ha1lXQU5NRktuZTRBdTV3UWNIM1RKcnVxYWkxRG5hdFkxcnFvbm8w?oc=5": 1790922117.5816262,
+  "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZlBfQ2FBU2dIRklfbjdyd2FSRHJlYnFZdzA3MVR0aGQzVERsVkI2ZUlucXRWS1ZkNkhVMENoLWxfQTMtYTlKN2VIYlIybGgwbjN4Y1Q4WjRHTkplaHNaRjZGSWhFZzVqaW1FblF1Z1RaMVZHeTNjMlZKOU5BMm9jMl85ZDlKMkh6ZTgzVWgwZVRtN05WSDlnWDFIby1qSHZkYmlBcTlHT1NNVzhWV0pRRGlyczdiSGlJRVgzSVRQMUxiRnNkS3NZY3hySlF0LUdZd3lhX1FfZ9IB1wFBVV95cUxQZlBfQ2FBU2dIRklfbjdyd2FSRHJlYnFZdzA3MVR0aGQzVERsVkI2ZUlucXRWS1ZkNkhVMENoLWxfQTMtYTlKN2VIYlIybGgwbjN4Y1Q4WjRHTkplaHNaRjZGSWhFZzVqaW1FblF1Z1RaMVZHeTNjMlZKOU5BMm9jMl85ZDlKMkh6ZTgzVWgwZVRtN05WSDlnWDFIby1qSHZkYmlBcTlHT1NNVzhWV0pRRGlyczdiSGlJRVgzSVRQMUxiRnNkS3NZY3hySlF0LUdZd3lhX1FfZw?oc=5": 1790922117.5816262,
+  "https://news.google.com/rss/articles/CBMinAFBVV95cUxPLWFPRlFVTHV5QVJES091LVd1Y2NRRWRXcTAyQ2xMcU9nVjY2QkJoa2hobmVHRV9UeE1MX3VkMWFDWVRkRk00d0FNSDIyQ24wejlKS1JZQzdPTHRHN2Z6LVNTN2l4TFlZNjUwaWtuUi1fYmdyY2VXS3R6dnVPOFRWaTBLcDZ4TEpYV0pndThKRWlwVWVVN1VwRk9xRUXSAZwBQVVfeXFMTy1hT0ZRVUx1eUFSREtPdS1XdWNjUUVkV3EwMkNsTHFPZ1Y2NkJCaGtoaG5lR0VfVHhNTF91ZDFhQ1lUZEZNNHdBTUgyMkNuMHo5SktSWUM3T0x0Rzdmei1TUzdpeExZWTY1MGlrblItX2JncmNlV0t0enZ1TzhUVmkwS3A2eExKWFdKZ3U4SkVpcFVlVTdVcEZPcUVF?oc=5": 1790922117.5816262,
+  "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSUw1d3B2aXA4U1VEUXl5UHl1NnBCa21TNDFpNEpkaURNU0dpWnIxWjVRSjhaMG5NclVJU0p1bURXY1lrOWRhVDBGeTkyTnMzaEZFa0xnYXlzc0VsX3g3cEJHYUdIUGdjb2FaZlpNR0h0c2ZfdUd6cWc3bUtQSkdKZlphYWxfZndDSm51d0M1cTE1YmxfenhPcUhJV0M?oc=5": 1790922117.5816262,
+  "http://lokaantar.com/story/330290/2026/10/2/prajapal-giri-": 1790922117.5816262,
+  "http://annapurnapost.com/story/508798": 1790922117.5816262,
+  "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcEdQZUoyY3FWS3ZoRmV3cHIya2EzWWxwaXVHVUlXMk9LamlSdHBqVk9rbk0zaGFPdmNfcFJpM1pxR0M2Yjk5R1E3VkNFR1lXOTRydk4wRUpwczBBNmI1SWIwVkFGaHVEcFhicE1pY1NTNWE1X3dOOHJleTVPOVZSN1Y1OGRfSnZHZmQ5Y2p0OHpvLXdIZ0lqb3FHamdIUFpzYl9r?oc=5": 1790922117.5816262,
+  "https://english.onlinekhabar.com/nepals-squad-announced.html": 1790922117.5816262,
+  "https://www.setopati.com/kinmel/banking/399757": 1790922117.5816262,
+  "https://khabarhub.com/2026/02/1032079/": 1790922117.5816262,
+  "https://www.ratopati.com/story/596584/mp-ansari-alleges-a-racket-is-going-on-at-the-national-medical-college-in-birgunj": 1790922117.5816262,
+  "http://english.ratopati.com/story/81917/mp-ansari-alleges-a-racket-is-going-on-at-the-national-medical-college-in-birgunj": 1790922117.5816262,
+  "https://baahrakhari.com/detail/503460": 1790922117.5816262,
+  "https://english.khabarhub.com/2026/02/570304/": 1790922117.5816262,
+  "https://www.onlinekhabar.com/2026/10/2030566/mp-rai-gives-divine-blessings-to-rspb-last-for-five-years-dont-topple-your-own-government": 1790922117.5816262,
+  "https://gorkhapatraonline.com/news/225146": 1790922117.5816262,
+  "https://nagariknews.nagariknetwork.com/politics/opposition-s-demands-ignored-in-the-house-i-am-returning-to-bhojpur-empty-handed-mp-rai-br-75-33.html": 1790922117.5816262,
+  "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wb1pfYXlLUWJXalN0blVZaHlQenpTa1Zxa3FKQ0ZBZ3pfV0dwX2ZOY3RDUHBTY0V6SlFHT2ZRQ0RreVplb0dMSVUzdzMyY0JqellZMU0tT3V2Zw?oc=5": 1790922117.5816262,
+  "https://news.google.com/rss/articles/CBMixAFBVV95cUxPc1RjUnhwbVJxTVpMdVpjSkowS3RNWnFycjNRdFZfeW5CVFRHUUo2Zm9EOHZ3eHBCVHY4SmNKbTkxSU5qQ0tTeTJ0WHplNmVlVlhmbWFaQWFSejIzZWxJaXU0OXV3ZWlRaFZkVDV4cVVGNXYxRHk3UEpYcjlvUUZVbGxtenNWNURXTzdhWlktdHUtX2xra0lRNXhuZEZiN1NNLUZrR29RVUc2TU5MblFhT1RzUVltOVlVMEFNYjJOaVlPT2Nu?oc=5": 1790922117.5816262,
+  "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSEZ2bFlEQUVXNTRfMWhpM0oyYlgxdE9LemRGMlpRMkpvNlBLcjdydF9WNnhLdklPVjRJcFZFVm40LTQ1ai1EYlQ0UXpTSEs2S2xIQ1VhUDY0N1NGendQRU5tdWtLVWxQOTRsWmVHdG84SjVWT1FCZVFad085emxXRE16MjJjWlJJSWtna2pkMkw5Sk9mTHdWX2JxaXJ4STJNaWhoOFFiT3FkSUJtTzhMdG5FY1dpa2FOU1pKbmhXNXo5NWVmaUJyMzMxc1lidFk?oc=5": 1790922117.5816262,
+  "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQ3JrME1OV2VTbmVmbzU2U2hnM1R3cF9fRmFTdWtaNG9uQlB0QWFyMVFCcFhpUUl1WUJBOW8xcHBXNlB1eVpGdFJXZm1JRVZOX0wxTnBtc2dZQXlEMDJqZ2hPMWFZQTRYaGZQR3RKaVctdlNPcDRtbV9vM1NUUVdILTBod2ZOSTQ?oc=5": 1790922117.5816262,
+  "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSVVKaVYxd0pPbXM1VzhzUThYNV9zUXlvZGdQLWZzOVMtaU9kcDQzYmpTb2UyWnduSmxMVDBiRlI4RVNkVkNHNWpKY1g0cjJ1OGNkdTRCaHhuUVZpMXN5OGhJa21GN1dpdHpLZzNQbTJQaWdVcklGekRvVzlISUNNbnZVbjdUemthUlJoQ1pDS3lrbEpPdGJpOFd0ZjRjWERURjNIejJSRFJTdw?oc=5": 1790922117.5816262,
+  "http://lokaantar.com/story/330289/2026/10/2/tinahu-river-": 1790922117.5816262,
+  "http://annapurnapost.com/story/508797": 1790922117.5816262,
+  "https://www.ratopati.com/story/596583/thebe-draws-governments-attention-to-the-difficult-life-of-residents-of-the-buffer-zone": 1790922117.5816262,
+  "http://english.ratopati.com/story/81916/thebe-draws-governments-attention-to-the-difficult-life-of-residents-of-the-buffer-zone": 1790922117.5816262,
+  "https://baahrakhari.com/detail/503459": 1790922117.5816262,
+  "http://lokaantar.com/story/330288/2026/10/2/morang-6-congress-": 1790922117.5816262,
+  "https://www.ratopati.com/story/596554/madhesh-provincial-assembly-has-been-stalled-for-two-and-a-half-months": 1790922117.5816262,
+  "http://english.ratopati.com/story/81896/chigger-mite-outbreak-in-salyan": 1790922117.5816262,
+  "https://www.ratopati.com/story/596582/student-protests-escalate-in-france-nearly-2000-arrested-in-one-day-305-police-injured": 1790922117.5816262,
+  "http://english.ratopati.com/story/81889/madhesh-provincial-assembly-has-been-stalled-for-two-and-a-half-months": 1790922117.5816262
  },
  "queue": [
-  {
-   "title": "Germany Defeats Serbia 2-0 in Nations League",
-   "summary": "Kathmandu. Germany has registered an easy 2-0 goal victory over Serbia in the group stage match of the UEFA Nations...",
-   "link": "http://english.ratopati.com/story/81852/germanys-2-0-win-over-serbia",
-   "source": "Ratopati EN",
-   "ts": 1790893155,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/germany_2FcTKpziUU.webp",
-   "lang": "en",
-   "hl": "Germany Defeats Serbia 2-0 in Nations League",
-   "en": "Germany Defeats Serbia 2-0 in Nations League",
-   "ne": "Germany Defeats Serbia 2-0 in Nations League",
-   "imp": 1,
-   "tags": [
-    "Germany",
-    "Serbia",
-    "NationsLeague",
-    "Football"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
   {
    "title": "Wales Comeback Win Against 10-Man Norway in Nations League",
    "summary": "Kathmandu. In the group stage match under the UEFA Nations League, Wales registered a comeback 2-1 victory over 10-man Norway....",
@@ -3761,29 +3766,6 @@
    "tags": [
     "Wales",
     "Norway"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "डेनमार्कमाथि पोर्चुगलको ४-२ गोलको रोमाञ्चक जित",
-   "summary": "काठमाडौँ । युइएफए नेसन्स लिगअन्तर्गत समूह चरणको खेलमा पोर्चुगलले डेनमार्कमाथि ४-२ गोल अन्तरको रोमाञ्चक जित हात पारेको छ । समूह 'डी' को तेस्रो खेलमा शुक्रबार बिहान पोर्चुगललाई जित दिलाउन चार फरक खेलाडीले गोल गरे । खेलको",
-   "link": "https://www.ratopati.com/story/596505/portugals-thrilling-4-2-win-over-denmark",
-   "source": "Ratopati",
-   "ts": 1790892934,
-   "weight": 3,
-   "img": "https://npcdn.ratopati.com/media/news/portugal-vs-denmark_HTBIOPfWFJ.webp",
-   "lang": "ne",
-   "hl": "डेनमार्कमाथि पोर्चुगलको ४-२ गोलको रोमाञ्चक जित",
-   "en": "डेनमार्कमाथि पोर्चुगलको ४-२ गोलको रोमाञ्चक जित",
-   "ne": "डेनमार्कमाथि पोर्चुगलको ४-२ गोलको रोमाञ्चक जित",
-   "imp": 3,
-   "tags": [
-    "Portugal",
-    "Denmark",
-    "Euro2024Qualifiers"
    ],
    "cat": "sports",
    "val": 3,
@@ -5977,7 +5959,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "वेस्ट इन्डिजमाथि भारतको जित",
@@ -6115,7 +6097,7 @@
    "cat": "health",
    "val": 2,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "Rajर्षि Janak University's 11th Assembly Meeting Scheduled for Ashwin 21",
@@ -9538,7 +9520,7 @@
    "cat": "sports",
    "val": 3,
    "teaser": false,
-   "hits": 4
+   "hits": 5
   },
   {
    "title": "Humla's Hilsa border: 41 Nepalis stranded as heavy snowfall blocks route",
@@ -9741,7 +9723,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "विकासको सास्ती र एकीकृत बस्ती",
@@ -10098,7 +10080,7 @@
    "cat": "economy",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "त्रिशूली करिडोरको विकासका लागि एकीकृत गुरुयोजनाको खाँचो",
@@ -10529,48 +10511,423 @@
    "val": 3,
    "teaser": false,
    "hits": 2
+  },
+  {
+   "title": "Nepal's squad announced for League 2 series in Oman",
+   "summary": "Kathmandu, October Nepal's squad has been announced for the series between Oman, Canada and Nepal, to be held in Oman under the ICC Cricket World Cup League 2. The Cricket Association of Nepal (CAN) announced the Nepali...",
+   "link": "https://english.onlinekhabar.com/nepals-squad-announced.html",
+   "source": "Onlinekhabar EN",
+   "ts": 1790922032,
+   "weight": 3,
+   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/09/nepal-acc-premier-cup.jpg",
+   "lang": "en",
+   "hl": "Nepal's squad announced for League 2 series in Oman",
+   "en": "Nepal's squad announced for League 2 series in Oman",
+   "ne": "Nepal's squad announced for League 2 series in Oman",
+   "imp": 3,
+   "tags": [
+    "NepalCricket",
+    "ICCLeague2",
+    "Oman"
+   ],
+   "cat": "sports",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "सुलभ अग्रवालको कामाख्या फिनकर्पलाई कम्पनी रजिस्ट्रारको प्रश्न: दुई महिनामै कसरी मूल्य आठ गुणा बढ्यो?",
+   "summary": "सम्बन्धित पक्षलाई सुनुवाइको पर्याप्त अवसर प्रदान गरी कानुनबमोजिम निर्णय गर्नुपर्ने भन्दै उच्च अदालतबाट मिसिल फिर्ता आएपछि कम्पनीको नाममा यसअघि पठाइएको म्याद सूचनाको जवाफ प्राप्त नभएकाले पुनः सूचना प्रकाशित गरिएको...",
+   "link": "https://www.setopati.com/kinmel/banking/399757",
+   "source": "Setopati",
+   "ts": 1790921977,
+   "weight": 3,
+   "img": null,
+   "lang": "ne",
+   "hl": "सुलभ अग्रवालको कामाख्या फिनकर्पलाई कम्पनी रजिस्ट्रारको प्रश्न: दुई महिनामै कसरी मूल्य आठ गुणा बढ्यो?",
+   "en": "सुलभ अग्रवालको कामाख्या फिनकर्पलाई कम्पनी रजिस्ट्रारको प्रश्न: दुई महिनामै कसरी मूल्य आठ गुणा बढ्यो?",
+   "ne": "सुलभ अग्रवालको कामाख्या फिनकर्पलाई कम्पनी रजिस्ट्रारको प्रश्न: दुई महिनामै कसरी मूल्य आठ गुणा बढ्यो?",
+   "imp": 3,
+   "tags": [
+    "SulabAgarwal",
+    "KamakhyaFincorp",
+    "CompanyRegistrar"
+   ],
+   "cat": "economy",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "MP Ansari Highlights Irregularities at National Medical College",
+   "summary": "Kathmandu. Rastriya Swatantra Party (RSP) MP Rahabar Ansari has drawn the government's attention to the widespread irregularities and rackets operating...",
+   "link": "http://english.ratopati.com/story/81917/mp-ansari-alleges-a-racket-is-going-on-at-the-national-medical-college-in-birgunj",
+   "source": "Ratopati EN",
+   "ts": 1790921881,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/rahabar_kSejvEF4Li.webp",
+   "lang": "en",
+   "hl": "MP Ansari Highlights Irregularities at National Medical College",
+   "en": "MP Ansari Highlights Irregularities at National Medical College",
+   "ne": "MP Ansari Highlights Irregularities at National Medical College",
+   "imp": 3,
+   "tags": [
+    "NationalMedicalCollege",
+    "Birgunj",
+    "HealthSector"
+   ],
+   "cat": "health",
+   "val": 3,
+   "teaser": false,
+   "hits": 2
+  },
+  {
+   "title": "बैंकिङ प्रणालीबाट १८ अर्ब निक्षेप तान्तै राष्ट्र बैंक",
+   "summary": "",
+   "link": "https://baahrakhari.com/detail/503460",
+   "source": "Baahrakhari",
+   "ts": 1790921874,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "बैंकिङ प्रणालीबाट १८ अर्ब निक्षेप तान्तै राष्ट्र बैंक",
+   "en": "बैंकिङ प्रणालीबाट १८ अर्ब निक्षेप तान्तै राष्ट्र बैंक",
+   "ne": "बैंकिङ प्रणालीबाट १८ अर्ब निक्षेप तान्तै राष्ट्र बैंक",
+   "imp": 4,
+   "tags": [
+    "NepalRastraBank",
+    "Liquidity",
+    "Banking"
+   ],
+   "cat": "economy",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Kathmandu Valley transport master plan proposes mass transit, tunnels and car-free zones",
+   "summary": "KATHMANDU: The draft Strategic Environmental Assessment Report of the Kathmandu Valley Urban Transport System Master Plan, jointly prepared by the Ministry of Physical Infrastructure and Transport and a team of experts...",
+   "link": "https://english.khabarhub.com/2026/02/570304/",
+   "source": "Khabarhub EN",
+   "ts": 1790921483,
+   "weight": 2,
+   "img": "https://english.khabarhub.com/wp-content/uploads/2026/10/Kathmandu-Valley-transport-master-plan-400x220.jpg",
+   "lang": "en",
+   "hl": "Kathmandu Valley transport master plan proposes mass transit, tunnels and car-free zones",
+   "en": "Kathmandu Valley transport master plan proposes mass transit, tunnels and car-free zones",
+   "ne": "Kathmandu Valley transport master plan proposes mass transit, tunnels and car-free zones",
+   "imp": 3,
+   "tags": [
+    "KathmanduValley",
+    "TransportMasterPlan",
+    "Infrastructure"
+   ],
+   "cat": "society",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "रास्वपालाई सांसद राईले दिए देउसी आशिष्- पाँचै वर्ष टिक्नू, आफैँले आफ्नो सरकार नढाल्नू",
+   "summary": "१६ असोज, काठमाडौं । श्रम संस्कृति पार्टीका सांसद ध्रुवराज राईले सत्तारुढ दल राष्ट्रिय स्वतन्त्र पार्टी र सरकारलाई सत्ता र सरकार जोगाएर पाँचै वर्ष शासन गर्न शुभकामना दिएका छन् । वर्षे अधिवेशनको समीक्षा गर्दै उनले...",
+   "link": "https://www.onlinekhabar.com/2026/10/2030566/mp-rai-gives-divine-blessings-to-rspb-last-for-five-years-dont-topple-your-own-government",
+   "source": "Onlinekhabar",
+   "ts": 1790921360,
+   "weight": 3,
+   "img": null,
+   "lang": "ne",
+   "hl": "रास्वपालाई सांसद राईले दिए देउसी आशिष्- पाँचै वर्ष टिक्नू, आफैँले आफ्नो सरकार नढाल्नू",
+   "en": "रास्वपालाई सांसद राईले दिए देउसी आशिष्- पाँचै वर्ष टिक्नू, आफैँले आफ्नो सरकार नढाल्नू",
+   "ne": "रास्वपालाई सांसद राईले दिए देउसी आशिष्- पाँचै वर्ष टिक्नू, आफैँले आफ्नो सरकार नढाल्नू",
+   "imp": 3,
+   "tags": [
+    "RSP",
+    "Parliament",
+    "NepalPolitics"
+   ],
+   "cat": "politics",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "सनपाटको डाँठ सन्ठीले समेत पाउन थाल्यो मूल्य",
+   "summary": "उर्लाबारी समाचारदाताउर्लाबारी, असोज १६ गते । सनपाटको रेसा निकालिसकेपछि भित्रको डाँठ (सन्ठी) ले समेत राम्रो मूल्य पाउन थालेको छ । मूल्य पाउन थालेपछि किसानले आफैँ मोरङका गाउँ-गाउँमा...",
+   "link": "https://gorkhapatraonline.com/news/225146",
+   "source": "Gorkhapatra",
+   "ts": 1790921340,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/386049/conversions/sanpat-original.jpg",
+   "lang": "ne",
+   "hl": "सनपाटको डाँठ सन्ठीले समेत पाउन थाल्यो मूल्य",
+   "en": "सनपाटको डाँठ सन्ठीले समेत पाउन थाल्यो मूल्य",
+   "ne": "सनपाटको डाँठ सन्ठीले समेत पाउन थाल्यो मूल्य",
+   "imp": 2,
+   "tags": [
+    "Agriculture",
+    "Economy",
+    "सनपाट"
+   ],
+   "cat": "economy",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "सदनमा प्रतिपक्षको माग बेवास्ता भयो, रित्तै हात भोजपुर फर्किँदैछु : सांसद राई",
+   "summary": "प्रतिनिधिसभाको अधिवेशन अन्त्य हुँदै गर्दा श्रम संस्कृति पार्टीका सांसद ध्रुवराज राईले सरकारले प्रतिपक्षले उठाएका प्रश्न र मागलाई बेवास्ता गरेको बताएका छन्।...",
+   "link": "https://nagariknews.nagariknetwork.com/politics/opposition-s-demands-ignored-in-the-house-i-am-returning-to-bhojpur-empty-handed-mp-rai-br-75-33.html",
+   "source": "Nagarik News",
+   "ts": 1790921047,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2026/third-party/1790921131_RAIII.jpg",
+   "lang": "ne",
+   "hl": "सदनमा प्रतिपक्षको माग बेवास्ता भयो, रित्तै हात भोजपुर फर्किँदैछु : सांसद राई",
+   "en": "सदनमा प्रतिपक्षको माग बेवास्ता भयो, रित्तै हात भोजपुर फर्किँदैछु : सांसद राई",
+   "ne": "सदनमा प्रतिपक्षको माग बेवास्ता भयो, रित्तै हात भोजपुर फर्किँदैछु : सांसद राई",
+   "imp": 3,
+   "tags": [
+    "Bhojpur",
+    "Parliament",
+    "Opposition"
+   ],
+   "cat": "politics",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Nepal's Domestic Airline Liability Bill set for Friday passage, proposes $100,000 passenger compensation",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPc1RjUnhwbVJxTVpMdVpjSkowS3RNWnFycjNRdFZfeW5CVFRHUUo2Zm9EOHZ3eHBCVHY4SmNKbTkxSU5qQ0tTeTJ0WHplNmVlVlhmbWFaQWFSejIzZWxJaXU0OXV3ZWlRaFZkVDV4cVVGNXYxRHk3UEpYcjlvUUZVbGxtenNWNURXTzdhWlktdHUtX2xra0lRNXhuZEZiN1NNLUZrR29RVUc2TU5MblFhT1RzUVltOVlVMEFNYjJOaVlPT2Nu?oc=5",
+   "source": "Asia News Network",
+   "ts": 1790916683,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "Nepal's Domestic Airline Liability Bill set for Friday passage, proposes $100,000 passenger compensation",
+   "en": "Nepal's Domestic Airline Liability Bill set for Friday passage, proposes $100,000 passenger compensation",
+   "ne": "Nepal's Domestic Airline Liability Bill set for Friday passage, proposes $100,000 passenger compensation",
+   "imp": 3,
+   "tags": [
+    "Aviation",
+    "Insurance",
+    "Parliament"
+   ],
+   "cat": "economy",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Bhotekoshi flood: Wagle assures support to families of missing customs staff",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSEZ2bFlEQUVXNTRfMWhpM0oyYlgxdE9LemRGMlpRMkpvNlBLcjdydF9WNnhLdklPVjRJcFZFVm40LTQ1ai1EYlQ0UXpTSEs2S2xIQ1VhUDY0N1NGendQRU5tdWtLVWxQOTRsWmVHdG84SjVWT1FCZVFad085emxXRE16MjJjWlJJSWtna2pkMkw5Sk9mTHdWX2JxaXJ4STJNaWhoOFFiT3FkSUJtTzhMdG5FY1dpa2FOU1pKbmhXNXo5NWVmaUJyMzMxc1lidFk?oc=5",
+   "source": "myRepublica",
+   "ts": 1790914800,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "Bhotekoshi flood: Wagle assures support to families of missing customs staff",
+   "en": "Bhotekoshi flood: Wagle assures support to families of missing customs staff",
+   "ne": "Bhotekoshi flood: Wagle assures support to families of missing customs staff",
+   "imp": 3,
+   "tags": [
+    "Bhotekoshi",
+    "Flood",
+    "Customs"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "We Travelled To 'ground Zero' Of Nepal's Devastating Flash Flood Finanza (ZlxYPqf50c)",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQ3JrME1OV2VTbmVmbzU2U2hnM1R3cF9fRmFTdWtaNG9uQlB0QWFyMVFCcFhpUUl1WUJBOW8xcHBXNlB1eVpGdFJXZm1JRVZOX0wxTnBtc2dZQXlEMDJqZ2hPMWFZQTRYaGZQR3RKaVctdlNPcDRtbV9vM1NUUVdILTBod2ZOSTQ?oc=5",
+   "source": "Unisba Media",
+   "ts": 1790914617,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "We Travelled To 'ground Zero' Of Nepal's Devastating Flash Flood Finanza (ZlxYPqf50c)",
+   "en": "We Travelled To 'ground Zero' Of Nepal's Devastating Flash Flood Finanza (ZlxYPqf50c)",
+   "ne": "We Travelled To 'ground Zero' Of Nepal's Devastating Flash Flood Finanza (ZlxYPqf50c)",
+   "imp": 4,
+   "tags": [
+    "FlashFlood",
+    "Disaster",
+    "GroundZero"
+   ],
+   "cat": "disaster",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Energy ministry addresses transmission line construction hurdles in Nepal",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSVVKaVYxd0pPbXM1VzhzUThYNV9zUXlvZGdQLWZzOVMtaU9kcDQzYmpTb2UyWnduSmxMVDBiRlI4RVNkVkNHNWpKY1g0cjJ1OGNkdTRCaHhuUVZpMXN5OGhJa21GN1dpdHpLZzNQbTJQaWdVcklGekRvVzlISUNNbnZVbjdUemthUlJoQ1pDS3lrbEpPdGJpOFd0ZjRjWERURjNIejJSRFJTdw?oc=5",
+   "source": "Deshsanchar",
+   "ts": 1790914007,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "Energy ministry addresses transmission line construction hurdles in Nepal",
+   "en": "Energy ministry addresses transmission line construction hurdles in Nepal",
+   "ne": "Energy ministry addresses transmission line construction hurdles in Nepal",
+   "imp": 3,
+   "tags": [
+    "EnergyMinistry",
+    "TransmissionLine",
+    "Infrastructure"
+   ],
+   "cat": "economy",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "तिनाउ नदीमा हाम फालेका युवकको शव भेटियो",
+   "summary": "बुटवलको तिनाउ नदीमा बिहीबार राति हाम फालेर बेपत्ता भएका युवा मृत अवस्थामा फेला परेका छन्। शुक्रबार बिहान उनको शव तिलोत्तमा गोरकट्टा नजिकै फेला परेको हो । उनको पहिचान खुल्न नसकेको इलाका प्रहरी कार्यालय बुटवलमा प्रहरी...",
+   "link": "http://lokaantar.com/story/330289/2026/10/2/tinahu-river-",
+   "source": "Lokaantar",
+   "ts": 1790907718.4660537,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "तिनाउ नदीमा हाम फालेका युवकको शव भेटियो",
+   "en": "तिनाउ नदीमा हाम फालेका युवकको शव भेटियो",
+   "ne": "तिनाउ नदीमा हाम फालेका युवकको शव भेटियो",
+   "imp": 3,
+   "tags": [
+    "TinauRiver",
+    "Butwal",
+    "Accident"
+   ],
+   "cat": "society",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "विपद्का बेला तत्काल रकम उपलब्ध हुनेगरी हानि-नोक्सानी कोष पूर्णरूपमा पूँजीकृत गर्नुपर्छ : मन्त्री खनाल",
+   "summary": "काठमाडौं : परराष्ट्रमन्त्री शिशिर खनालले हानि-नोक्सानी कोष प्रशासनिक तथा प्रक्रियागत झन्झटमा अल्झन नहुने बताएका छन्। शुक्रबार काठमाडौंमा काठमाडौं क्लाइमेट सप्ताह उद्घाटन गर्दै मन्त्री खनालले हानि-नोक्सानी कोष प्रशासनिक...",
+   "link": "http://annapurnapost.com/story/508797",
+   "source": "Annapurna Post",
+   "ts": 1790907717.7840707,
+   "weight": 3,
+   "img": null,
+   "lang": "ne",
+   "hl": "विपद्का बेला तत्काल रकम उपलब्ध हुनेगरी हानि-नोक्सानी कोष पूर्णरूपमा पूँजीकृत गर्नुपर्छ : मन्त्री खनाल",
+   "en": "विपद्का बेला तत्काल रकम उपलब्ध हुनेगरी हानि-नोक्सानी कोष पूर्णरूपमा पूँजीकृत गर्नुपर्छ : मन्त्री खनाल",
+   "ne": "विपद्का बेला तत्काल रकम उपलब्ध हुनेगरी हानि-नोक्सानी कोष पूर्णरूपमा पूँजीकृत गर्नुपर्छ : मन्त्री खनाल",
+   "imp": 3,
+   "tags": [
+    "DisasterFund",
+    "Government",
+    "विपद्"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "समयसीमासहितको कार्ययोजना सार्वजनिक गर्न माग",
+   "summary": "",
+   "link": "https://baahrakhari.com/detail/503459",
+   "source": "Baahrakhari",
+   "ts": 1790921618,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "समयसीमासहितको कार्ययोजना सार्वजनिक गर्न माग",
+   "en": "समयसीमासहितको कार्ययोजना सार्वजनिक गर्न माग",
+   "ne": "समयसीमासहितको कार्ययोजना सार्वजनिक गर्न माग",
+   "imp": 2,
+   "tags": [
+    "Government",
+    "ActionPlan",
+    "कार्ययोजना"
+   ],
+   "cat": "politics",
+   "val": 1,
+   "teaser": true,
+   "hits": 1
+  },
+  {
+   "title": "झडपपछि स्थगित कांग्रेस मोरङ-६ को अधिवेशन शुरू, क्षेत्रीय सभापति तामाङ पक्षले गर्यो बहिष्कार",
+   "summary": "कार्यकर्ताबीच भएको झडपका कारण स्थगित भएको नेपाली कांग्रेस मोरङ क्षेत्र नम्बर ६ को क्षेत्रीय अधिवेशन शुक्रबार बिहानदेखि पुनः शुरू भएको छ।यसअघि सुन्दरहरैँचामा अवरुद्ध भएको अधिवेशन स्थल परिवर्तन गरी बूढीगङ्गा गाउँपालिका-३...",
+   "link": "http://lokaantar.com/story/330288/2026/10/2/morang-6-congress-",
+   "source": "Lokaantar",
+   "ts": 1790907718.4660537,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "झडपपछि स्थगित कांग्रेस मोरङ-६ को अधिवेशन शुरू, क्षेत्रीय सभापति तामाङ पक्षले गर्यो बहिष्कार",
+   "en": "झडपपछि स्थगित कांग्रेस मोरङ-६ को अधिवेशन शुरू, क्षेत्रीय सभापति तामाङ पक्षले गर्यो बहिष्कार",
+   "ne": "झडपपछि स्थगित कांग्रेस मोरङ-६ को अधिवेशन शुरू, क्षेत्रीय सभापति तामाङ पक्षले गर्यो बहिष्कार",
+   "imp": 3,
+   "tags": [
+    "NepaliCongress",
+    "Morang",
+    "Convention"
+   ],
+   "cat": "politics",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Madhesh Province Assembly Meeting Stalled for Over Two Months",
+   "summary": "Janakpurdham. The Madhesh Province Assembly meeting has not been held for two and a half months. Speaker Ram Ashish Yadav...",
+   "link": "http://english.ratopati.com/story/81889/madhesh-provincial-assembly-has-been-stalled-for-two-and-a-half-months",
+   "source": "Ratopati EN",
+   "ts": 1790921700,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/madhaes_BivRw1sZSc.webp",
+   "lang": "en",
+   "hl": "Madhesh Province Assembly Meeting Stalled for Over Two Months",
+   "en": "Madhesh Province Assembly Meeting Stalled for Over Two Months",
+   "ne": "Madhesh Province Assembly Meeting Stalled for Over Two Months",
+   "imp": 3,
+   "tags": [
+    "MadheshProvince",
+    "ProvincialAssembly",
+    "Politics"
+   ],
+   "cat": "politics",
+   "val": 3,
+   "teaser": false,
+   "hits": 2
+  },
+  {
+   "title": "फ्रान्समा विद्यार्थी आन्दोलन चर्कियो, एकै दिन झण्डै २ हजार पक्राउ, ३०५ प्रहरी घाइते",
+   "summary": "पेरिस । कक्षा कोठामा विद्यार्थीको चाप, शिक्षक अभाव र जीर्ण विद्यालय भवनको विरोधमा फ्रान्सभर सुरु भएको उच्च माध्यमिक तहका विद्यार्थीको आन्दोलन थप चर्किएको छ । बिहीबार देशका विभिन्न सहरमा विद्यार्थीले विद्यालय अगाडि अवरोध...",
+   "link": "https://www.ratopati.com/story/596582/student-protests-escalate-in-france-nearly-2000-arrested-in-one-day-305-police-injured",
+   "source": "Ratopati",
+   "ts": 1790921646,
+   "weight": 3,
+   "img": "https://npcdn.ratopati.com/media/news/france-protest2_VE5ueNWiHa.webp",
+   "lang": "ne",
+   "hl": "फ्रान्समा विद्यार्थी आन्दोलन चर्कियो, एकै दिन झण्डै २ हजार पक्राउ, ३०५ प्रहरी घाइते",
+   "en": "फ्रान्समा विद्यार्थी आन्दोलन चर्कियो, एकै दिन झण्डै २ हजार पक्राउ, ३०५ प्रहरी घाइते",
+   "ne": "फ्रान्समा विद्यार्थी आन्दोलन चर्कियो, एकै दिन झण्डै २ हजार पक्राउ, ३०५ प्रहरी घाइते",
+   "imp": 1,
+   "tags": [
+    "France",
+    "StudentProtest",
+    "Paris"
+   ],
+   "cat": "world",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1790316651.5387442,
-   "en": "Flash Flood in Nepal: Daily Life Between Grief and Reconstruction",
-   "ne": "फ्ल्यास बाढी: दुःख र पुनर्निर्माणको बीचको दैनिक जीवन",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUW1EYkdSbVF1RUhWVEJRUklrRWhqXzRxMmVfTlZhWHYtZGdYZGhScGF4bVV6S0tJRnZaUG9jLUF0ZDZ0eGtjZTVPcll3NnNTYUw4RFRpaXhzU0U1S0RnZXBDbWhaTzhLVXY3SGQ0UVd5MTlucjNXenR2dDhQVl9sLUVsSU9PZENQaVdsVWlDVWxzSGtXa0pQTGo0U3BfQ21rY1Izc3hvZw?oc=5",
-   "source": "blue News",
-   "n_fb": 2,
-   "n_ig": 2,
-   "brk": true
-  },
-  {
-   "ts": 1790316701.75775,
-   "en": "Nepal proposes himalayan climate resilience mechanism with India, China after flash floods",
-   "ne": "बाढीपछि नेपालले भारत, चीनसँग हिमाली जलवायु लचिलो मेकानिज्म प्रस्ताव गर्‍यो",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQUJZZ1NuMkxsUGdrOElrdEtNU0hvMW83N1BhSTdLMGJLRWViNDVKSnhsbXp1UmZ5M1JTcmJ2Y3NlVERlQnVaLXkzSHQ2dW1NSTU2LWM4bmhfV29WOER0djdlZVk3WjU2MkZ5VlNUeWlQVTFkbHlDWFJuUUIwWU9naTlwVy1mcVlFdjctdGNGLThDWE5QV1pJcWN0LTZfYmQtMzZwNTJWUElTMVhVOWdoZmI1dXByNEVCMHpENEdCUnNxVFJqTmFRZHRqNFZEMVA3V0NBZNIB2gFBVV95cUxPLW1Bb3pKSk93UkoybHAtQXJDUGxtdE5aVmxzdEdyTUFycXJPS0xqc0FSTHp1U3Z0bGtlVkNpa0x6YlpCNnFCSkJTVFEyQ0ZMVjlLem9CczBsR1N6ZU1Wc2xLbzROd3dRUVV5YXlmR2ZyRjQ3em54dWdmUUtvcl9QU0lGY0FEY2ZTN1otdmhMSTdSaHpkRWFla0hvQ2FvVTJYWFVVSGFkQTMyalNHbkxLcXRERW5OLXZmZlZlUUg3ME9VRTJRRTR5cU1mVG94QjQ4UWhXWmdCdHBxQQ?oc=5",
-   "source": "Telegraph India",
-   "n_fb": 0,
-   "n_ig": 0
-  },
-  {
-   "ts": 1790316701.75839,
-   "en": "Night travel banned in 10 districts of Karnali",
-   "ne": "कर्णालीका १० जिल्लामा राति सवारी सञ्चालनमा रोक",
-   "link": "https://gorkhapatraonline.com/news/224182",
-   "source": "Gorkhapatra",
-   "n_fb": 2,
-   "n_ig": 2,
-   "brk": false
-  },
-  {
-   "ts": 1790316811.8498294,
-   "en": "One person arrested in banking fraud case involving 12 banks.",
-   "ne": "१२ वटा बैंकिङ कसुर मुद्दाका एक व्यक्ति पक्राउ",
-   "link": "https://www.onlinekhabar.com/2026/09/2025438/one-person-arrested-in-12-banking-offense-cases",
-   "source": "Onlinekhabar",
-   "n_fb": 2,
-   "n_ig": 2,
-   "brk": true
-  },
   {
    "ts": 1790317909.8717668,
    "en": "Prime Minister Balen says Nepal will not make disaster a geopolitical issue",
@@ -14446,8 +14803,8 @@
    "cat": "economy"
   }
  ],
- "updated": 1790921470,
- "pending_since": 1790921448.3648872,
+ "updated": 1790922126,
+ "pending_since": 1790922117.5816262,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
