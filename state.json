@@ -1,9 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMid0FVX3lxTE1yNmRiUkJuNjFNNmJreWk1WU04UGxLNThSa21MbWs4VER5NE5yd1JObVpYUk95OEVmdm1pd1NkWWdMTmdZNTdDQlhGMTBiMWZudm92ZnJ0NnJKNTVna0R5R215eXZpenBUSzVPaU92S0YzT21YUVU0?oc=5": 1790782856.27577,
-  "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZ240UGx0QVJGNHN5VHYwd0RuRTAzeFJ1QV9jZm5uY0szN1hSTURIUy15V1JKWDlhRFd6cHZ3QUlHNFJRVk1qV0pLUmhQUFpFMFB4Y3NuelhEVG9Ld3UyTnpMOXhKSkpZSmlmZUtPYnZGY3R4OXp6OXRoNE02dC1uTk4yNHFvOXB6Sjd6QndTdk1ZM0hrbFNxcHl1ZWNOLXk0WTVUVTkydFlmWTNjcUlTNDlNbms3dXVRSUxvLUhFY296anM4bkR3VVZ3VnBXS0VNU3gwQnFmRllqTk5Y?oc=5": 1790782856.27577,
-  "https://kathmandupost.com/national/2026/09/30/nepal-flood-survivors-are-leaving-temporary-camps-as-government-delays-rehabilitation": 1790782856.27577,
-  "https://news.google.com/rss/articles/CBMiywFBVV95cUxOU08yemlkT1VfbGNRVEg3eWpjQjhZdVJmOXlSVjZjWE1vMnB3bUdfYnJ4bW1sQ184Wk1iTGMxUGJFcFctQ3lwT3E3cHJpVHluREd4U2ZyNHpMMGRXZTFvanAzbWwtOGp3NkFRWmpKSExPQ0gtemE1YTgyUjFJN1FKMHVKNnprU0ludHR2MnNiMDJVNktBRGliczJHWTFlaGtvc0lGdG5mMGxNQ3RQWG9OV2FEejBYX2dpN2pPMDNHWHZ6TWxBMkpFQW80Yw?oc=5": 1790782856.27577,
   "https://risingnepaldaily.com/news/87224": 1790783450.3531055,
   "https://english.khabarhub.com/2026/30/570065/": 1790783450.3531055,
   "https://nagariknews.nagariknetwork.com/others/this-country-launched-a-dating-service-for-employees-to-increase-fertility-rates-40-21.html": 1790783450.3531055,
@@ -3724,7 +3720,10 @@
   "https://khabarhub.com/2026/02/1032371/": 1790955649.480305,
   "http://lokaantar.com/story/330334/2026/10/2/pokhara-": 1790955649.480305,
   "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdGtzNlZmTkRmUGd2MFBlTWJ1N20zdnFpTTNnYnpVX1dPNVkyZ3NRTU1kSXFKSEx5c3JlVU5VdmItOWl4bHE0VnVHSXhIdEkzWGthXzlPZHVyU29ISkJKWjVXeVVnVGlrdXhpS3dqSFBIRlJxU0s3MnlfMEVNTGdqT0hBRGVhLXFqSE1OdUhHY1RBRjY5bjA5T1JaN3lNZy1GczZIVGpR?oc=5": 1790955649.480305,
-  "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbUJ1cHhLYi1lemhjejl5dWx3T0FvYWRmTmNZOFB2a1BoREFGbURONzJUNDU2WG9JM0R4T2VJRDNXbkczRThIeDlPLVg3ajJOelVXTUhRNE9DRUdDamNERE9WOFBvR0QtQy1mbjZDM1VCUDNscFgtbXNWazNjTzc4QTlYMHYxZ2wtaTlLMGZ1RDU4YlZ0MUFwYdIBnwFBVV95cUxQMnRzbmRQVkNuVGo2Vk9wNHFCZnBWYnRRb05mUGxlbVRrSGlMU2ZxVjNhMFJ6d1VLWDZ0Q3FKblRlZjM4NmtHbDlUNVVHYm9xbWRfU0h6M0FSYkprLU5xWnEyOTBjdlJaQXlXRlBaeDZyMXZEZGo3NGp0Z1RiOXBrWUlzSEVlUWlYaDNBOVZWY2QzOTBuZkZ1RTRVRXlBdHc?oc=5": 1790955649.480305
+  "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbUJ1cHhLYi1lemhjejl5dWx3T0FvYWRmTmNZOFB2a1BoREFGbURONzJUNDU2WG9JM0R4T2VJRDNXbkczRThIeDlPLVg3ajJOelVXTUhRNE9DRUdDamNERE9WOFBvR0QtQy1mbjZDM1VCUDNscFgtbXNWazNjTzc4QTlYMHYxZ2wtaTlLMGZ1RDU4YlZ0MUFwYdIBnwFBVV95cUxQMnRzbmRQVkNuVGo2Vk9wNHFCZnBWYnRRb05mUGxlbVRrSGlMU2ZxVjNhMFJ6d1VLWDZ0Q3FKblRlZjM4NmtHbDlUNVVHYm9xbWRfU0h6M0FSYkprLU5xWnEyOTBjdlJaQXlXRlBaeDZyMXZEZGo3NGp0Z1RiOXBrWUlzSEVlUWlYaDNBOVZWY2QzOTBuZkZ1RTRVRXlBdHc?oc=5": 1790955649.480305,
+  "https://khabarhub.com/2026/02/1032376/": 1790956250.0706284,
+  "https://www.ratopati.com/story/596752/escaped-prisoner-sentenced-to-18-years-in-prison-arrested": 1790956250.0706284,
+  "http://lokaantar.com/story/330335/2026/10/2/road-": 1790956250.0706284
  },
  "queue": [
   {
@@ -3868,54 +3867,6 @@
    "hits": 1
   },
   {
-   "title": "एमालेको आरोप- संकटमा सरकारको पहलकदमी कमजोर, जनताको जनजीवनमा ठोस उपलब्धि भएन",
-   "summary": "काठमाडौं- नेकपा (एमाले) संसदीय दलका नेता रामबहादुर थापा 'बादल'ले जनताको जनजीवनको पक्षमा ठोस उपलब्धि हुन नसकेको बताएका छन् । प्रतिनिधिसभाको आजको बैठकमा समय लिएर बोल्दै विश्वमा देखिएका अनेकौँ सङ्कटसँगै नेपालमा देखिएका...",
-   "link": "https://khabarhub.com/2026/02/1032124/",
-   "source": "Khabarhub",
-   "ts": 1790927068,
-   "weight": 3,
-   "img": "https://www.khabarhub.com/wp-content/uploads/2026/10/rambhadur-thapa-400x220.jpg",
-   "lang": "ne",
-   "hl": "एमालेको आरोप- संकटमा सरकारको पहलकदमी कमजोर, जनताको जनजीवनमा ठोस उपलब्धि भएन",
-   "en": "एमालेको आरोप- संकटमा सरकारको पहलकदमी कमजोर, जनताको जनजीवनमा ठोस उपलब्धि भएन",
-   "ne": "एमालेको आरोप- संकटमा सरकारको पहलकदमी कमजोर, जनताको जनजीवनमा ठोस उपलब्धि भएन",
-   "imp": 3,
-   "tags": [
-    "CPN_UML",
-    "Government",
-    "Protest",
-    "एमाले"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "बादलले भने- मध्य रातमा प्रमुख नेता गैरकानुनी ढंगले पक्राउ परे अनौठो हुँदैन",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/503478",
-   "source": "Baahrakhari",
-   "ts": 1790927446,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "बादलले भने- मध्य रातमा प्रमुख नेता गैरकानुनी ढंगले पक्राउ परे अनौठो हुँदैन",
-   "en": "बादलले भने- मध्य रातमा प्रमुख नेता गैरकानुनी ढंगले पक्राउ परे अनौठो हुँदैन",
-   "ne": "बादलले भने- मध्य रातमा प्रमुख नेता गैरकानुनी ढंगले पक्राउ परे अनौठो हुँदैन",
-   "imp": 3,
-   "tags": [
-    "Badal",
-    "LeaderArrest",
-    "Politics",
-    "राजनीति"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Karnali Province Chief Minister Mangal Bahadur Shahi's Property Details Made Public",
    "summary": "Surkhet. Karnali Province Chief Minister Mangal Bahadur Shahi's property details have been made public. Shahi made his property details public...",
    "link": "http://english.ratopati.com/story/81946/karnali-chief-minister-shahis-assets-7-cowsbulls-20-tolas-of-gold-and-silver",
@@ -3937,77 +3888,6 @@
    "val": 3,
    "teaser": false,
    "hits": 2
-  },
-  {
-   "title": "६ महिना सत्तापक्षको ठ्यापठ्याप सुन्यौँ, विधि निर्माणमा एकाधिकार : बादल",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/503477",
-   "source": "Baahrakhari",
-   "ts": 1790927040,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "६ महिना सत्तापक्षको ठ्यापठ्याप सुन्यौँ, विधि निर्माणमा एकाधिकार : बादल",
-   "en": "६ महिना सत्तापक्षको ठ्यापठ्याप सुन्यौँ, विधि निर्माणमा एकाधिकार : बादल",
-   "ne": "६ महिना सत्तापक्षको ठ्यापठ्याप सुन्यौँ, विधि निर्माणमा एकाधिकार : बादल",
-   "imp": 3,
-   "tags": [
-    "Badal",
-    "LawMaking",
-    "Parliament",
-    "संसद"
-   ],
-   "cat": "politics",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Australia Tightens Student Visa Rules",
-   "summary": "Melbourne. Australia has made student visa rules stricter for international students. The new system came into effect from October 2,...",
-   "link": "http://english.ratopati.com/story/81945/australia-tightens-student-visa-regulations-new-rules-come-into-effect-from-today",
-   "source": "Ratopati EN",
-   "ts": 1790927078,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/australia-visa_fbGqTFjOM6.webp",
-   "lang": "en",
-   "hl": "Australia Tightens Student Visa Rules",
-   "en": "Australia Tightens Student Visa Rules",
-   "ne": "Australia Tightens Student Visa Rules",
-   "imp": 2,
-   "tags": [
-    "Australia",
-    "StudentVisa",
-    "Immigration"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "वर्तमान सरकारको ६ महिने कार्यकालप्रति एमाले असन्तुष्ट, 'फासीवादी शासन'को संज्ञा",
-   "summary": "काठमाडौँ । प्रतिपक्ष दल नेकपा एमालेका संसदीय दलका नेता रामबहादुर थापाले वर्तमान सरकारको छ महिने कार्यशैलीप्रति असन्तुष्टि व्यक्त गरेका छन्। प्रतिनिधि सभाको शुक्रबार बसेको बैठकमा बोल्दै उनले सरकारको पछिल्लो गतिविधिलाई...",
-   "link": "https://www.ratopati.com/story/596616/uml-dissatisfied-with-current-governments-6-month-tenure-calls-it-fascist-regime",
-   "source": "Ratopati",
-   "ts": 1790927016,
-   "weight": 3,
-   "img": "https://npcdn.ratopati.com/media/news/ram-bahadur-thapa-badal_YUap5kAubh.webp",
-   "lang": "ne",
-   "hl": "वर्तमान सरकारको ६ महिने कार्यकालप्रति एमाले असन्तुष्ट, 'फासीवादी शासन'को संज्ञा",
-   "en": "वर्तमान सरकारको ६ महिने कार्यकालप्रति एमाले असन्तुष्ट, 'फासीवादी शासन'को संज्ञा",
-   "ne": "वर्तमान सरकारको ६ महिने कार्यकालप्रति एमाले असन्तुष्ट, 'फासीवादी शासन'को संज्ञा",
-   "imp": 3,
-   "tags": [
-    "CPN_UML",
-    "Government",
-    "Opposition",
-    "एमाले"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 4
   },
   {
    "title": "सदनमा उठाइएका आवाजबारे सरकार गम्भीर भएन : उपनेता हमाल",
@@ -13375,7 +13255,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "नयाँ भवन ऐन दर्ता, हरेक नागरिकलाई आवासको सुनिश्चितता",
@@ -17125,7 +17005,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1790955667,
+ "updated": 1790956254,
  "pending_since": 1790955649.480305,
  "fb_blocks": [
   1790350880.4125228,
