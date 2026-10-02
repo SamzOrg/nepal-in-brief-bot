@@ -1,9 +1,5 @@
 {
  "seen": {
-  "https://baahrakhari.com/detail/503305": 1790785868.5397844,
-  "https://khabarhub.com/2026/30/1031447/": 1790785868.5397844,
-  "https://www.onlinekhabar.com/2026/09/2029678/leftist-leader-ghanendra-basnet-a-warrior-of-the-jhapa-movement-passes-away": 1790785868.5397844,
-  "https://theannapurnaexpress.com/story/67561": 1790785868.5397844,
   "https://baahrakhari.com/detail/503306": 1790786448.1362166,
   "https://www.ratopati.com/story/596208/india": 1790786448.1362166,
   "https://gorkhapatraonline.com/news/224943": 1790786448.1362166,
@@ -3721,7 +3717,11 @@
   "https://baahrakhari.com/detail/503555": 1790958049.5761294,
   "https://www.ratopati.com/story/596758/floods-swept-away-the-fields-while-rice-was-being-brought-in": 1790958049.5761294,
   "http://lokaantar.com/story/330338/2026/10/2/road-": 1790958049.5761294,
-  "https://nagariknews.nagariknetwork.com/social-affairs/death-toll-in-himlung-avalanche-reaches-15-one-still-missing-br-88-29.html": 1790958049.5761294
+  "https://nagariknews.nagariknetwork.com/social-affairs/death-toll-in-himlung-avalanche-reaches-15-one-still-missing-br-88-29.html": 1790958049.5761294,
+  "https://khabarhub.com/2026/02/1032397/": 1790959247.3184357,
+  "https://www.ratopati.com/story/596763/17-year-old-boy-goes-missing-after-drowning-in-khutia-river": 1790959247.3184357,
+  "https://khabarhub.com/2026/02/1032393/": 1790959247.3184357,
+  "http://english.ratopati.com/story/82017/22-women-entrepreneurs-honored-by-handicraft-federation": 1790959247.3184357
  },
  "queue": [
   {
@@ -3794,28 +3794,6 @@
    "hits": 1
   },
   {
-   "title": "उर्वशीले मागिन् एआई कम्पनीसँग ७ हजार करोड भारु क्षतिपूर्ति",
-   "summary": "मुम्बई । बलिउड अभिनेत्री उर्वशी रौतेलाको टोलीले अमेरिकाको लस एन्जलसस्थित बलिउड एआई कम्पनीविरुद्ध कानुनी कारबाही अघि बढाउने बताएको छ । अभिनेत्रीको अनुमति नलिई उनको नाम, तस्बिर र भिडियो प्रयोग गरेको आरोप लगाउँदै टोलीले...",
-   "link": "https://www.onlinekhabar.com/2026/10/2030683/urvashi-demands-rs-7000-crore-compensation-from-ai-company",
-   "source": "Onlinekhabar",
-   "ts": 1790930338,
-   "weight": 3,
-   "img": "https://www.onlinekhabar.com/wp-content/uploads/2026/10/urvashi_rautela.jpg",
-   "lang": "ne",
-   "hl": "उर्वशीले मागिन् एआई कम्पनीसँग ७ हजार करोड भारु क्षतिपूर्ति",
-   "en": "उर्वशीले मागिन् एआई कम्पनीसँग ७ हजार करोड भारु क्षतिपूर्ति",
-   "ne": "उर्वशीले मागिन् एआई कम्पनीसँग ७ हजार करोड भारु क्षतिपूर्ति",
-   "imp": 1,
-   "tags": [
-    "UrvashiRautela",
-    "Bollywood"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "House panel forms subcommittee to probe election police uniform procurement",
    "summary": "Kathmandu, October 2 The Public Accounts Committee of the House of Representatives has formed a subcommittee to study the procurement of uniforms for election police. A meeting of the Public Accounts Committee on Friday...",
    "link": "https://english.onlinekhabar.com/house-panel-forms-subcommittee-to-probe-election-police-uniform-procurement.html",
@@ -3837,98 +3815,6 @@
    "val": 3,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "विपद् पुनर्निर्माण र पुनर्स्थापना सरकारको पहिलो प्राथमिकता हो : मुख्यमन्त्री थापा",
-   "summary": "हेटौँडा। बागमती प्रदेशका मुख्यमन्त्री किरण थापा मगरले सरकारको प्राथमिकता विपद् प्रभावित क्षेत्रको पुनर्निर्माण र पुनर्स्थापना हुने भएको बताएका छन् । उनले प्रदेशका रसुवा, नुवाकोट, धादिङ र चितवन लगायतका जिल्लामा आएको...",
-   "link": "https://www.ratopati.com/story/596637/disaster-reconstruction-and-rehabilitation-is-the-governments-first-priority-chief-minister-thapa",
-   "source": "Ratopati",
-   "ts": 1790930340,
-   "weight": 3,
-   "img": "https://npcdn.ratopati.com/media/news/kiran-thapa_5fbGKihSKg.webp",
-   "lang": "ne",
-   "hl": "विपद् पुनर्निर्माण र पुनर्स्थापना सरकारको पहिलो प्राथमिकता हो : मुख्यमन्त्री थापा",
-   "en": "विपद् पुनर्निर्माण र पुनर्स्थापना सरकारको पहिलो प्राथमिकता हो : मुख्यमन्त्री थापा",
-   "ne": "विपद् पुनर्निर्माण र पुनर्स्थापना सरकारको पहिलो प्राथमिकता हो : मुख्यमन्त्री थापा",
-   "imp": 3,
-   "tags": [
-    "DisasterManagement",
-    "ChiefMinister",
-    "Thapa"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "'१२ गाउँ २' को गीत 'लाली गुराँस'मा समीर र कृशुको नृत्य",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/503488",
-   "source": "Baahrakhari",
-   "ts": 1790930184,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "'१२ गाउँ २' को गीत 'लाली गुराँस'मा समीर र कृशुको नृत्य",
-   "en": "'१२ गाउँ २' को गीत 'लाली गुराँस'मा समीर र कृशुको नृत्य",
-   "ne": "'१२ गाउँ २' को गीत 'लाली गुराँस'मा समीर र कृशुको नृत्य",
-   "imp": 1,
-   "tags": [
-    "BarhaGaun",
-    "MovieSong",
-    "चलचित्र"
-   ],
-   "cat": "culture",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "जन्तर-मन्तरमा प्रदर्शन : १०० भन्दा बढी पक्राउ, ११ मेट्रो स्टेसन बन्द",
-   "summary": "नयाँ दिल्ली । भारतको राजधानी नयाँ दिल्लीमा मुख्य निर्वाचन आयुक्त ज्ञानेश कुमारको राजीनामा माग गर्दै भएको प्रदर्शनका क्रममा प्रहरीले १०० भन्दा बढी प्रदर्शनकारीलाई नियन्त्रणमा लिएको छ । आम आदमी पार्टी (आप), विद्यार्थी...",
-   "link": "https://www.ratopati.com/story/596636/protest-at-jantar-mantar-over-100-arrested-11-metro-stations-closed",
-   "source": "Ratopati",
-   "ts": 1790930117,
-   "weight": 3,
-   "img": "https://npcdn.ratopati.com/media/news/jantarmantar_PG7AWyQY6x.webp",
-   "lang": "ne",
-   "hl": "जन्तर-मन्तरमा प्रदर्शन : १०० भन्दा बढी पक्राउ, ११ मेट्रो स्टेसन बन्द",
-   "en": "जन्तर-मन्तरमा प्रदर्शन : १०० भन्दा बढी पक्राउ, ११ मेट्रो स्टेसन बन्द",
-   "ne": "जन्तर-मन्तरमा प्रदर्शन : १०० भन्दा बढी पक्राउ, ११ मेट्रो स्टेसन बन्द",
-   "imp": 1,
-   "tags": [
-    "Delhi",
-    "Protest",
-    "India"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "ग्लोबल आइएमई बैंकको २०औँ साधारण सभा सम्पन्न, सेयरधनीहरुको १० प्रतिशत लाभांश पारित",
-   "summary": "काठमाडौँ । ग्लोबल आइएमई बैंक लिमिटेडको २० औँ वार्षिक साधारण सभा शुक्रबार काठमाडौँको भृकुटीमण्डपस्थित नेपाल पुलिस क्लबमा भव्यताका साथ सम्पन्न भएको छ । सभाले आर्थिक वर्ष २०८२/८३ को मुनाफाबाट आफ्ना सेयरधनीहरुलाई चुक्ता...",
-   "link": "https://www.ratopati.com/story/596635/global-ime-banks-20th-general-meeting-concludes-shareholders-approve-10-percent-dividend",
-   "source": "Ratopati",
-   "ts": 1790930064,
-   "weight": 3,
-   "img": "https://npcdn.ratopati.com/media/news/global-ime-bank_gkfwwRDPip.webp",
-   "lang": "ne",
-   "hl": "ग्लोबल आइएमई बैंकको २०औँ साधारण सभा सम्पन्न, सेयरधनीहरुको १० प्रतिशत लाभांश पारित",
-   "en": "ग्लोबल आइएमई बैंकको २०औँ साधारण सभा सम्पन्न, सेयरधनीहरुको १० प्रतिशत लाभांश पारित",
-   "ne": "ग्लोबल आइएमई बैंकको २०औँ साधारण सभा सम्पन्न, सेयरधनीहरुको १० प्रतिशत लाभांश पारित",
-   "imp": 3,
-   "tags": [
-    "GlobalIMEBank",
-    "AGM",
-    "Dividend"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 8
   },
   {
    "title": "Weather tracker: Eastern Spain braces for torrential rain and flooding",
@@ -8080,7 +7966,7 @@
    "cat": "world",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Over 800 historical documents from 13th to 20th century handed to Foreign Minister",
@@ -9214,29 +9100,6 @@
    ],
    "cat": "world",
    "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "समय बर्बाद गरे ब्याटरलाई ५ रनको जरिवानादेखि 'वाइड बल'मा लचकता र प्रशिक्षकलाई मैदान छिर्ने छुटसम्म",
-   "summary": "अन्तर्राष्ट्रिय क्रिकेट काउन्सिल (आईसीसी)ले क्रिकेटका सबै ढाँचा (फर्म्याट)का लागि नयाँ 'प्लेइङ कन्डिसन्स' अर्थात्, खेलका सर्तहरू सार्वजनिक गरेको छ ।सन् २०२६ को अक्टोबर १ वा त्यसपछि शुरू हुने सबै अन्तर्राष्ट्रिय...",
-   "link": "http://lokaantar.com/story/330320/2026/10/2/icc-new-rules-",
-   "source": "Lokaantar",
-   "ts": 1790929872.8671422,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "समय बर्बाद गरे ब्याटरलाई ५ रनको जरिवानादेखि 'वाइड बल'मा लचकता र प्रशिक्षकलाई मैदान छिर्ने छुटसम्म",
-   "en": "समय बर्बाद गरे ब्याटरलाई ५ रनको जरिवानादेखि 'वाइड बल'मा लचकता र प्रशिक्षकलाई मैदान छिर्ने छुटसम्म",
-   "ne": "समय बर्बाद गरे ब्याटरलाई ५ रनको जरिवानादेखि 'वाइड बल'मा लचकता र प्रशिक्षकलाई मैदान छिर्ने छुटसम्म",
-   "imp": 2,
-   "tags": [
-    "Cricket",
-    "ICC",
-    "Rules"
-   ],
-   "cat": "sports",
-   "val": 2,
    "teaser": false,
    "hits": 1
   },
@@ -10490,7 +10353,7 @@
    "cat": "economy",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "अर्जुन दोङ मृत्यु प्रकरण : छानबिन समितिको पहिलो बैठक बस्यो",
@@ -11167,29 +11030,6 @@
    "hits": 1
   },
   {
-   "title": "World powers gather in Pacific to chart climate battle",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbXlvcnJydWhsdmV2SXpjZkpwanNUeDlKRXpwN25XUVNNNDJCYnJ4Yzl4azNlWjlrN3FXOWJJRWpFVzRFVTNpemwyRVU2VU1NNzI0YzdNMGQ1OW9zR0puQVhfUDI2cjd0TnM4amtKR24zU2FDWFJqYXJlbUxPc1Q1anhSaXZiVElhcEFiWW93THVDb1R1cDVzbnNlQ1lKclc1ZnpNOTdtZHV2Z2xrSFE?oc=5",
-   "source": "myRepublica",
-   "ts": 1790930274,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "World powers gather in Pacific to chart climate battle",
-   "en": "World powers gather in Pacific to chart climate battle",
-   "ne": "World powers gather in Pacific to chart climate battle",
-   "imp": 1,
-   "tags": [
-    "Pacific",
-    "ClimateChange",
-    "WorldPowers"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "मोदीसँगको कुराकानीमा पाइलट स्मितले भने- म ती मानिसहरूलाई मर्न दिन सक्दिनँथे",
    "summary": "काठमाडौं : भारतीय प्रधानमन्त्री नरेन्द्र मोदीले फ्लाइदुबईका पाइलट क्याप्टेन स्मित मच्छरसँग फोनमा कुराकानी गरेका छन्। उनले स्मितको साहस र सुझबुझको प्रशंसासमेत गरेका छन्।प्रधानमन्त्री मोदीले देशभर उनका लागि दीर्घायु र...",
    "link": "http://annapurnapost.com/story/508841",
@@ -11716,7 +11556,7 @@
    "cat": "disaster",
    "val": 3,
    "teaser": false,
-   "hits": 3
+   "hits": 4
   },
   {
    "title": "पोखरा विश्वविद्यालयको १ अर्ब ७५ करोड ८० लाखको बजेट पारित",
@@ -12244,29 +12084,6 @@
    "val": 3,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "नागरिक उड्डयन प्राधिकरण टुक्राउने दुई विधेयक संसद्मा दर्ता",
-   "summary": "नागरिक उड्डयन प्राधिकरणलाई टुक्राउने दुई विधेयक प्रतिनिधिसभामा दर्ता भएका छन्। आज संस्कृति, पर्यटन तथा नागरिक उड्डयनमन्त्री खडक राज पौडेलले ती विधेयक संसद्मा दर्ता गराएका हुन्।मन्त्री पौडेलले नेपाल हवाई सेवा प्राधिकरण...",
-   "link": "http://lokaantar.com/story/330332/2026/10/2/nagarik-",
-   "source": "Lokaantar",
-   "ts": 1790940667.8334916,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "नागरिक उड्डयन प्राधिकरण टुक्राउने दुई विधेयक संसद्मा दर्ता",
-   "en": "नागरिक उड्डयन प्राधिकरण टुक्राउने दुई विधेयक संसद्मा दर्ता",
-   "ne": "नागरिक उड्डयन प्राधिकरण टुक्राउने दुई विधेयक संसद्मा दर्ता",
-   "imp": 4,
-   "tags": [
-    "CAAN",
-    "Parliament",
-    "विधेयक"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 3
   },
   {
    "title": "नयाँ भवन ऐन दर्ता, हरेक नागरिकलाई आवासको सुनिश्चितता",
@@ -16603,9 +16420,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "crime"
+  },
+  {
+   "ts": 1790959258.8930979,
+   "en": "नागरिक उड्डयन प्राधिकरण टुक्राउने दुई विधेयक प्रतिनिधिसभामा दर्ता",
+   "ne": "नागरिक उड्डयन प्राधिकरण टुक्राउने दुई विधेयक प्रतिनिधिसभामा दर्ता",
+   "link": "http://lokaantar.com/story/330332/2026/10/2/nagarik-",
+   "source": "Lokaantar",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "politics"
   }
  ],
- "updated": 1790958671,
+ "updated": 1790959275,
  "pending_since": 1790958049.5761294,
  "fb_blocks": [
   1790350880.4125228,
