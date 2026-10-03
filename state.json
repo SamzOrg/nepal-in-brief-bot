@@ -1,10 +1,5 @@
 {
  "seen": {
-  "https://english.khabarhub.com/2026/01/570117/": 1790819444.8136568,
-  "https://news.google.com/rss/articles/CBMimAFBVV95cUxONkdjNkxSWUZNVDVKWV9yS0p1UWhVb05rdHZCRW9PcGUzd1dzc2RHUjZsOFFuRzRFTk1wNGhPYzRNYi1HTzd5eVE2YlVPQ2c3WTlnMi1zY3YyTHJKemc2WXVPemkyd3lDektXVWxQQzE4dVBTNmprRW9nSlN2Yk51YmQtdUpfZFllQWhvXzFZY2tzX2JPZm5Taw?oc=5": 1790819444.8136568,
-  "http://english.ratopati.com/story/81685/deuba-appeals-to-hold-ward-convention-in-grand-style": 1790819444.8136568,
-  "http://lokaantar.com/story/330201/2026/10/1/matdata-": 1790819444.8136568,
-  "https://gorkhapatraonline.com/news/224966": 1790819444.8136568,
   "https://khabarhub.com/2026/01/1031480/": 1790820079.053456,
   "https://www.setopati.com/sports/football/399658": 1790820079.053456,
   "https://nagariknews.nagariknetwork.com/sports/chepang-road-partially-operational-due-to-landslide-36-72.html": 1790820079.053456,
@@ -3745,7 +3740,8 @@
   "https://gorkhapatraonline.com/news/225207": 1790992241.3380024,
   "https://nagariknews.nagariknetwork.com/politics/congress-general-convention-in-kitchlo-a-series-of-controversies-since-its-formation-br-35-68.html": 1790992241.3380024,
   "https://www.ratopati.com/story/596801/floods-and-landslides-have-affected-various-highways-in-the-country-what-is-the-status-of-which-with-list": 1790992241.3380024,
-  "https://gorkhapatraonline.com/news/225206": 1790992241.3380024
+  "https://gorkhapatraonline.com/news/225206": 1790992241.3380024,
+  "https://gorkhapatraonline.com/news/225210": 1790992410.69967
  },
  "queue": [
   {
@@ -5588,29 +5584,6 @@
    "val": 3,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "Koshi Province Government Prepares to Pass Language Bill Before Dashain",
-   "summary": "Biratnagar. The Koshi Province government has prepared to pass the much-discussed 'Koshi Province Government Official Language Management Bill' from the...",
-   "link": "http://english.ratopati.com/story/82036/preparations-to-pass-the-language-bill-before-dashain",
-   "source": "Ratopati EN",
-   "ts": 1790991900,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/koshi_JiWmW2M1oO.webp",
-   "lang": "en",
-   "hl": "Koshi Province Government Prepares to Pass Language Bill Before Dashain",
-   "en": "Koshi Province Government Prepares to Pass Language Bill Before Dashain",
-   "ne": "Koshi Province Government Prepares to Pass Language Bill Before Dashain",
-   "imp": 4,
-   "tags": [
-    "KoshiProvince",
-    "LanguageBill",
-    "Dashain"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "Nepal To Raise Issue Of Climate-Induced Disasters At Inter-Parliamentary Union",
@@ -9548,10 +9521,21 @@
    "n_ig": 1,
    "brk": true,
    "cat": "disaster"
+  },
+  {
+   "ts": 1790992416.8752272,
+   "en": "Koshi Province to Pass Official Language Bill Before Dashain",
+   "ne": "Koshi Province to Pass Official Language Bill Before Dashain",
+   "link": "http://english.ratopati.com/story/82036/preparations-to-pass-the-language-bill-before-dashain",
+   "source": "Ratopati EN",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "politics"
   }
  ],
- "updated": 1790992262,
- "pending_since": null,
+ "updated": 1790992427,
+ "pending_since": 1790992410.69967,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
