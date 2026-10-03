@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://khabarhub.com/2026/01/1031546/": 1790833242.5725212,
-  "https://www.ratopati.com/story/596283/ncell-customers-get-special-bundle-package-on-iphone-18-purchase": 1790833242.5725212,
   "https://risingnepaldaily.com/news/87250": 1790833846.3604825,
   "https://khabarhub.com/2026/01/1031549/": 1790833846.3604825,
   "https://www.setopati.com/kinmel/information-technology/399669": 1790833846.3604825,
@@ -3642,32 +3640,10 @@
   "https://gorkhapatraonline.com/news/225245": 1791006042.483707,
   "https://nagariknews.nagariknetwork.com/politics/discussions-between-the-commission-and-political-parties-for-election-reforms-br-94-24.html": 1791006042.483707,
   "https://www.ratopati.com/story/596822/the-copperplate-read-by-mind-catch": 1791006042.483707,
-  "http://english.ratopati.com/story/82066/besisahar-chame-road-blocked-for-6-days-now-operational": 1791006042.483707
+  "http://english.ratopati.com/story/82066/besisahar-chame-road-blocked-for-6-days-now-operational": 1791006042.483707,
+  "http://lokaantar.com/story/330360/2026/10/3/congress-": 1791006645.193799
  },
  "queue": [
-  {
-   "title": "LA Archdiocese Plans Special Collections for Nepal Flood Victims",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQY1BCMGJsRVFWYmc2bVFWb1l2UjRHQV9KOG8yNi1xUjY4NWFzek5Gc0Vob2ZvUVNhemVUTVFzTmZkdmFEaWZOQTdtNXg0VzZUcWdRRGlRVDMtd2h5NklYdlh0VGFHNC1ybEgyZ1NLY1FMTjlpUVFxWGhOSnJYc004bVo4TVI4QTBzdThKQm45aE5md19oNmNJZ2xaX2tyWGF0ak5tMGZ3?oc=5",
-   "source": "mynewsla.com",
-   "ts": 1790977440,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "LA Archdiocese Plans Special Collections for Nepal Flood Victims",
-   "en": "LA Archdiocese Plans Special Collections for Nepal Flood Victims",
-   "ne": "LA Archdiocese Plans Special Collections for Nepal Flood Victims",
-   "imp": 2,
-   "tags": [
-    "LAArchdiocese",
-    "NepalFloods",
-    "FloodRelief"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
   {
    "title": "Belgium Defeats Turkey 3-0 in Nations League",
    "summary": "Kathmandu. In a UEFA Nations League football group stage match, Belgium achieved an easy 3-0 victory over Turkey.In the Group...",
@@ -5048,29 +5024,6 @@
    "hits": 1
   },
   {
-   "title": "Young convention delegates look to reshape Nepali Congress",
-   "summary": "Hundreds of under-35 representatives, including a growing number of Gen Z delegates, are seeking a bigger role in the party after last year's youth-led movement.",
-   "link": "https://kathmandupost.com/politics/2026/10/03/young-convention-delegates-look-to-reshape-nepali-congress",
-   "source": "Kathmandu Post",
-   "ts": 1790977842.584653,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Young convention delegates look to reshape Nepali Congress",
-   "en": "Young convention delegates look to reshape Nepali Congress",
-   "ne": "Young convention delegates look to reshape Nepali Congress",
-   "imp": 3,
-   "tags": [
-    "NepaliCongress",
-    "YouthDelegates",
-    "Politics"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "प्रज्ञामा 'मोती-लय' गुञ्जायमान",
    "summary": "काठमाडौँ, असोज १७ गते । एक दुई गर्दै प्रेक्षालय खचाखच भयो । नेपथ्यमा गुन्जिएको मधुर सङ्गीतले आमन्त्रितलाई मन्त्रमुग्ध बनायो । सुरेशराज वज्राचार्यले 'सरोदवादन' मार्फत प्रस्तुत गर्नु...",
    "link": "https://gorkhapatraonline.com/news/225208",
@@ -6330,7 +6283,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "कांग्रेस महाधिवेशनमा ३० स्वास्थ्यकर्मी सहितको हेल्थ डेस्क, दुई एम्बुलेन्स मैदानमै",
@@ -12159,7 +12112,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1791006064,
+ "updated": 1791006648,
  "pending_since": 1791006042.483707,
  "fb_blocks": [
   1790350880.4125228,
