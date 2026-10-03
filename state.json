@@ -1,8 +1,5 @@
 {
  "seen": {
-  "https://baahrakhari.com/detail/503311": 1790812888.9247956,
-  "https://www.ratopati.com/story/596237/floods-submerge-homes-residents-of-anandabagar-worry-about-leaving-their-homes": 1790812888.9247956,
-  "http://english.ratopati.com/story/81678/floods-submerge-homes-residents-of-anandabagar-worry-about-leaving-their-homes": 1790812888.9247956,
   "https://www.onlinekhabar.com/2026/10/2029700/meeting-of-the-house-of-representatives-and-the-national-assembly-is-underway-here-is-the-agenda": 1790813451.8577092,
   "https://baahrakhari.com/detail/503312": 1790814044.6721756,
   "https://risingnepaldaily.com/news/87228": 1790814044.6721756,
@@ -3745,29 +3742,6 @@
  },
  "queue": [
   {
-   "title": "अर्जुन दोङ घटनामा जेनजी अभियन्ताको गृहमन्त्रीमाथि प्रश्न",
-   "summary": "काठमाडौँ । जेनजी अभियन्ता अजय सोडारीले गृहमन्त्री सुधन गुरुङले गणेश नेपालीको घटनामा देखाएको संवेदना अर्जुन दोङको घटनामा नदेखाएको भन्दै प्रश्न गरेका छन्। सोडारीले गणेश नेपाली र अर्जुन दोङको घटना, स्थान तथा प्रकृति एउटै...",
-   "link": "https://www.ratopati.com/story/596756/genji-activist-questions-home-minister-over-arjun-dong-incident",
-   "source": "Ratopati",
-   "ts": 1790957242,
-   "weight": 3,
-   "img": "https://npcdn.ratopati.com/media/news/ajaya-sodari_pgXlfMUjHy.jpg",
-   "lang": "ne",
-   "hl": "अर्जुन दोङ घटनामा जेनजी अभियन्ताको गृहमन्त्रीमाथि प्रश्न",
-   "en": "अर्जुन दोङ घटनामा जेनजी अभियन्ताको गृहमन्त्रीमाथि प्रश्न",
-   "ne": "अर्जुन दोङ घटनामा जेनजी अभियन्ताको गृहमन्त्रीमाथि प्रश्न",
-   "imp": 3,
-   "tags": [
-    "ArjunDong",
-    "HomeMinistry",
-    "GenZ"
-   ],
-   "cat": "politics",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "नाम्सी पुलमा खसेको ढुंगासहितको पहिरो पन्छाइयो",
    "summary": "",
    "link": "https://baahrakhari.com/detail/503555",
@@ -3787,29 +3761,6 @@
    ],
    "cat": "disaster",
    "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "धान भित्र्याउने बेलामा बाढीले खेतै लग्यो",
-   "summary": "गण्डकी। फाँटमा धान झुलेर पहेँलो हुँदै थियो । किसान दसैँको अघिपछि धान भित्र्याउने सुरसारमा थिए । तर, केही दिनअघि दरमखोलामा आएको बाढीले दुःखजिलो गरेर उब्जाएको धानबालीमात्र लगेन खेत बगाइदियो । बागलुङको गलकोट नगरपालिका-९ का...",
-   "link": "https://www.ratopati.com/story/596758/floods-swept-away-the-fields-while-rice-was-being-brought-in",
-   "source": "Ratopati",
-   "ts": 1790957423,
-   "weight": 3,
-   "img": "https://npcdn.ratopati.com/media/news/rY0WkngTDz.jpg",
-   "lang": "ne",
-   "hl": "धान भित्र्याउने बेलामा बाढीले खेतै लग्यो",
-   "en": "धान भित्र्याउने बेलामा बाढीले खेतै लग्यो",
-   "ne": "धान भित्र्याउने बेलामा बाढीले खेतै लग्यो",
-   "imp": 4,
-   "tags": [
-    "Flood",
-    "Agriculture",
-    "बाढी"
-   ],
-   "cat": "disaster",
-   "val": 2,
    "teaser": false,
    "hits": 2
   },
@@ -8584,7 +8535,7 @@
    "cat": "education"
   }
  ],
- "updated": 1790985683,
+ "updated": 1790986250,
  "pending_since": 1790985677.721706,
  "fb_blocks": [
   1790350880.4125228,
