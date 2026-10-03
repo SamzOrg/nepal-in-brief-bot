@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMiWEFVX3lxTE51OWtPNXNVakt0YS1xd1l5aGx0TDh2Wm9JendiUjZnRkh5NkF1N0xBRmlLeEdJRldFbms0ZEZQNVdTR1hmOUZDWnZSZ1VPTlNvMFpWNW9YbmE?oc=5": 1790821864.6886892,
   "https://www.ratopati.com/story/596250/recommendation-to-the-president-to-end-the-current-parliament-session-from-asoj-16": 1790822445.9292676,
   "https://baahrakhari.com/detail/503321": 1790822445.9292676,
   "https://khabarhub.com/2026/01/1031485/": 1790822445.9292676,
@@ -3706,7 +3705,11 @@
   "https://theannapurnaexpress.com/story/67627": 1790994662.3339212,
   "https://kathmandupost.com/money/2026/10/03/ministers-pledge-legal-reforms-ahead-of-nepal-infrastructure-summit": 1790994662.3339212,
   "http://english.ratopati.com/story/82042/setiveni-destroyed-after-flood-losses-worth-crores": 1790994662.3339212,
-  "http://lokaantar.com/story/330351/2026/10/3/dog-": 1790994662.3339212
+  "http://lokaantar.com/story/330351/2026/10/3/dog-": 1790994662.3339212,
+  "https://gorkhapatraonline.com/news/225216": 1790995244.1871655,
+  "https://www.ratopati.com/story/596805/two-killed-one-injured-in-motorcycle-accident-in-morang": 1790995244.1871655,
+  "https://khabarhub.com/2026/03/1032434/": 1790995244.1871655,
+  "http://english.ratopati.com/story/82043/two-killed-one-injured-in-motorcycle-accident-in-morang": 1790995244.1871655
  },
  "queue": [
   {
@@ -6093,6 +6096,52 @@
     "Delhi"
    ],
    "cat": "sports",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "नवलपरासीमा बस दुर्घटना, ६ जनाको मृत्यु, १० घाइते",
+   "summary": "नवलपरासी- नवलपरासी (बर्दघाट सुस्ता पूर्व)को विनयी त्रिवेणी गाउँपालिका-२ एस मोडस्थित पूर्व-पश्चिम राजमार्गमा यात्रुवाहक बस दुर्घटना हुँदा ६ जनाको मृत्यु भएको छ । घटनामा १० जना घाइते भएका छन् । नेपालगञ्जबाट काठमाडौँतर्फ...",
+   "link": "https://khabarhub.com/2026/03/1032434/",
+   "source": "Khabarhub",
+   "ts": 1790995001,
+   "weight": 3,
+   "img": "https://www.khabarhub.com/wp-content/uploads/2026/10/accident1-1-400x220.jpg",
+   "lang": "ne",
+   "hl": "नवलपरासीमा बस दुर्घटना, ६ जनाको मृत्यु, १० घाइते",
+   "en": "नवलपरासीमा बस दुर्घटना, ६ जनाको मृत्यु, १० घाइते",
+   "ne": "नवलपरासीमा बस दुर्घटना, ६ जनाको मृत्यु, १० घाइते",
+   "imp": 4,
+   "tags": [
+    "BusAccident",
+    "Nawalparasi",
+    "दुर्घटना"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Two Dead, One Injured in Morang Motorcycle Accident",
+   "summary": "Morang. Two people have died and one has been injured in a motorcycle accident on the inner road section of...",
+   "link": "http://english.ratopati.com/story/82043/two-killed-one-injured-in-motorcycle-accident-in-morang",
+   "source": "Ratopati EN",
+   "ts": 1790994676,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/bike-accident_9hqaUAiOwT.webp",
+   "lang": "en",
+   "hl": "Two Dead, One Injured in Morang Motorcycle Accident",
+   "en": "Two Dead, One Injured in Morang Motorcycle Accident",
+   "ne": "Two Dead, One Injured in Morang Motorcycle Accident",
+   "imp": 3,
+   "tags": [
+    "MotorcycleAccident",
+    "Morang",
+    "Accident"
+   ],
+   "cat": "crime",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -9838,7 +9887,7 @@
    "cat": "sports"
   }
  ],
- "updated": 1790994683,
+ "updated": 1790995250,
  "pending_since": 1790994662.3339212,
  "fb_blocks": [
   1790350880.4125228,
