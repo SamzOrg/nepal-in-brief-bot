@@ -3701,32 +3701,14 @@
   "http://english.ratopati.com/story/82040/passenger-bus-accident-in-nawalparasi-6-dead-10-injured": 1790994044.475236,
   "https://kathmandupost.com/politics/2026/10/03/congress-to-raise-office-bearer-positions-to-21-to-include-gen-z-women": 1790994044.475236,
   "https://gorkhapatraonline.com/news/225211": 1790994044.475236,
-  "https://www.onlinekhabar.com/2026/10/2031173/demonstrations-are-still-being-held-at-jantar-mantar-today": 1790994044.475236
+  "https://www.onlinekhabar.com/2026/10/2031173/demonstrations-are-still-being-held-at-jantar-mantar-today": 1790994044.475236,
+  "https://www.ratopati.com/story/596804/setiveni-destroyed-after-flood-losses-worth-crores": 1790994662.3339212,
+  "https://theannapurnaexpress.com/story/67627": 1790994662.3339212,
+  "https://kathmandupost.com/money/2026/10/03/ministers-pledge-legal-reforms-ahead-of-nepal-infrastructure-summit": 1790994662.3339212,
+  "http://english.ratopati.com/story/82042/setiveni-destroyed-after-flood-losses-worth-crores": 1790994662.3339212,
+  "http://lokaantar.com/story/330351/2026/10/3/dog-": 1790994662.3339212
  },
  "queue": [
-  {
-   "title": "आरआर क्याम्पसमा विद्यार्थीका लागि अतिथि कक्षा",
-   "summary": "काठमाडौँ । प्रदर्शनीमार्गस्थित रत्न राज्यलक्ष्मी (आरआर) क्याम्पसमा स्नातक तह चौथो वर्षमा अध्ययनरत विद्यार्थीका लागि अतिथि कक्षा तथा अन्तरक्रिया कार्यक्रम सम्पन्न भएको छ । पत्रकारिता तथा आमसञ्चार विभागको आयोजनामा भएको...",
-   "link": "https://www.ratopati.com/story/596775/guest-class-for-students-at-rr-campus",
-   "source": "Ratopati",
-   "ts": 1790965800,
-   "weight": 3,
-   "img": "https://npcdn.ratopati.com/media/news/rr-campus_THleT9vWqq.jpg",
-   "lang": "ne",
-   "hl": "आरआर क्याम्पसमा विद्यार्थीका लागि अतिथि कक्षा",
-   "en": "आरआर क्याम्पसमा विद्यार्थीका लागि अतिथि कक्षा",
-   "ne": "आरआर क्याम्पसमा विद्यार्थीका लागि अतिथि कक्षा",
-   "imp": 2,
-   "tags": [
-    "RRCampus",
-    "Student",
-    "आरआरक्याम्पस"
-   ],
-   "cat": "education",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
   {
    "title": "Honda pledges support for Nepal flash flood relief",
    "summary": "",
@@ -5704,7 +5686,7 @@
    "cat": "disaster",
    "val": 3,
    "teaser": false,
-   "hits": 5
+   "hits": 6
   },
   {
    "title": "बाढीपछि उजाडियो सेतीवेणी, करोडौँको क्षति",
@@ -5727,7 +5709,7 @@
    "cat": "disaster",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Economic Digest: A Snapshot of Nepal's Business News",
@@ -5795,29 +5777,6 @@
    "cat": "politics",
    "val": 1,
    "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "100 days under FIFA suspension, Nepal football remains in limbo",
-   "summary": "Kathmandu, October 2 It has been 100 days since FIFA suspended the All Nepal Football Association (ANFA), but there is still no clear indication of when the ban on Nepali football will be lifted. FIFA suspended ANFA...",
-   "link": "https://english.onlinekhabar.com/fifa-suspension-anfa-limbo.html",
-   "source": "Onlinekhabar EN",
-   "ts": 1790993700,
-   "weight": 3,
-   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/10/FIFA-ANFA-1024x500-1.png",
-   "lang": "en",
-   "hl": "100 days under FIFA suspension, Nepal football remains in limbo",
-   "en": "100 days under FIFA suspension, Nepal football remains in limbo",
-   "ne": "100 days under FIFA suspension, Nepal football remains in limbo",
-   "imp": 3,
-   "tags": [
-    "FIFA",
-    "NepalFootball",
-    "ANFA"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
    "hits": 1
   },
   {
@@ -6090,6 +6049,51 @@
    ],
    "cat": "politics",
    "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Flooding Devastates Seti Beni; Homes Washed Away, Businesses Destroyed",
+   "summary": "Parbat. Despite receiving advance notice of continuous rainfall from October 8, locals in Seti Beni, the confluence of Kaligandaki and...",
+   "link": "http://english.ratopati.com/story/82042/setiveni-destroyed-after-flood-losses-worth-crores",
+   "source": "Ratopati EN",
+   "ts": 1790994338,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/aoxaHz6FS3.jpg",
+   "lang": "en",
+   "hl": "Flooding Devastates Seti Beni; Homes Washed Away, Businesses Destroyed",
+   "en": "Flooding Devastates Seti Beni; Homes Washed Away, Businesses Destroyed",
+   "ne": "Flooding Devastates Seti Beni; Homes Washed Away, Businesses Destroyed",
+   "imp": 4,
+   "tags": [
+    "SetiRiver",
+    "Beni",
+    "Floods"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "मृत्युपछि गोलाले जित्यो दिल्लीको 'सबैभन्दा मोटो कुकुर'को उपाधि, ३९ हजार मतान्तरले बन्यो च्याम्पियन",
+   "summary": "'दिलवालोंको सहर' भारतको राजधानी दिल्लीले एक नयाँ 'सुपर हेवीवेट च्याम्पियन' पाएको छ, जसको नाम गोला हो । तर, यो प्रतियोगिता जित्नुअघि नै गोलाको मृत्यु भइसकेको थियो। अनलाइन र अफलाइन दुवै माध्यमबाट गरिएको प्रतियोगितामा...",
+   "link": "http://lokaantar.com/story/330351/2026/10/3/dog-",
+   "source": "Lokaantar",
+   "ts": 1790980263.4076807,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "मृत्युपछि गोलाले जित्यो दिल्लीको 'सबैभन्दा मोटो कुकुर'को उपाधि, ३९ हजार मतान्तरले बन्यो च्याम्पियन",
+   "en": "मृत्युपछि गोलाले जित्यो दिल्लीको 'सबैभन्दा मोटो कुकुर'को उपाधि, ३९ हजार मतान्तरले बन्यो च्याम्पियन",
+   "ne": "मृत्युपछि गोलाले जित्यो दिल्लीको 'सबैभन्दा मोटो कुकुर'को उपाधि, ३९ हजार मतान्तरले बन्यो च्याम्पियन",
+   "imp": 1,
+   "tags": [
+    "DogChampion",
+    "Delhi"
+   ],
+   "cat": "sports",
+   "val": 3,
    "teaser": false,
    "hits": 1
   }
@@ -9821,10 +9825,21 @@
    "n_ig": 1,
    "brk": true,
    "cat": "disaster"
+  },
+  {
+   "ts": 1790994671.7745254,
+   "en": "Nepal football completes 100 days under FIFA suspension with no clear lift date",
+   "ne": "Nepal football completes 100 days under FIFA suspension with no clear lift date",
+   "link": "https://english.onlinekhabar.com/fifa-suspension-anfa-limbo.html",
+   "source": "Onlinekhabar EN",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "sports"
   }
  ],
- "updated": 1790994071,
- "pending_since": null,
+ "updated": 1790994683,
+ "pending_since": 1790994662.3339212,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
