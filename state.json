@@ -3666,32 +3666,15 @@
   "https://gorkhapatraonline.com/news/225230": 1791000646.6777709,
   "https://www.ratopati.com/story/596814/pretorius-breaks-chris-gayles-record": 1791000646.6777709,
   "http://english.ratopati.com/story/82050/kakarbhitta-laukahi-connecting-to-international-road-network": 1791000646.6777709,
-  "https://gorkhapatraonline.com/news/225227": 1791000646.6777709
+  "https://gorkhapatraonline.com/news/225227": 1791000646.6777709,
+  "https://baahrakhari.com/detail/503582": 1791001247.0314007,
+  "https://www.setopati.com/social/399842": 1791001247.0314007,
+  "https://www.onlinekhabar.com/2026/10/2031198/kakarbhitta-laukahi-connecting-to-international-road-network": 1791001247.0314007,
+  "https://news.google.com/rss/articles/CBMitgFBVV95cUxQajFVLTRrZDJWa3NVUmZKZlNTQTFhMkhzWTRfV3lpRVRPZWNRWk44a3RRVk5JdG16b1N2a25BS2tYdmhXaGFrRF9pU0t0RUVZY1ZiS0FjbEJsVGhXVDQ0YTVxRzAxMDNFYWowaXN0ZW4tN3A3b0tsZjlyQlYzZXFJWEF4eFQyQ0swS2x2VFVjb1RBRVpzYWFzckFMcXZnMHN1SUNYQ0U2R2ozZFBTQTZhMW5xNnVMZw?oc=5": 1791001247.0314007,
+  "https://news.google.com/rss/articles/CBMisgFBVV95cUxQREZyaEZSU2NjYkZEUk5RSkZiejZDQVFSNm1rRnBNa2duXzIxRE1mU3JjSHVpWTllMXk3YnRRdXBITFV1UFBwM19GQ0pkMUhveE43WDl4eGtxalJnOHBqbHYySG5GcUdkZmhqU1BCMDlqQXJCblJtQzh4V1B1T0tZOUZIc05qY2k1d0RFV1dMUkNwNEVzT3V0ZjZ1aTI0OFZ5N3ExYUxoemtTdm5KZnJCZTZB?oc=5": 1791001247.0314007,
+  "https://news.google.com/rss/articles/CBMigwJBVV95cUxPdlk3cmJSZHZleFRzMFBheExrX3BYMm13dzFIME5PZkxMa2JuUHlvczNNTUwwNl9FU1AtWjZVRmRTNjhTa3MteE1jeXQ0YzR5dkRxaXdDckRtZU9ER1NYbmw1b0FFSUtaZXo3eGZOaU9PMGNSSUtuOGlRUlhvZHpTa1p5MTVXbEZaV0ZXVjNpSlRVUEptS2hYR1A5QUROSWNpam0zN2psQXp0R1dldVB6c3d4WHpqWnZtTHFYYk9JVHhrX0k5LTFMQXhQOGgyOFF2cmlJMGxOTGZaekMzM2dsWWtFUGNMWF9ONTFHZWJwTkdaV3VyNUNvc25WbEp3UDBvWmVZ?oc=5": 1791001247.0314007
  },
  "queue": [
-  {
-   "title": "Australia Job Vacancies Decline for Second Consecutive Quarter",
-   "summary": "Kathmandu. The number of available job vacancies in Australia for employment has decreased for the second consecutive three-month period. This...",
-   "link": "http://english.ratopati.com/story/82027/job-demand-in-australia-is-declining",
-   "source": "Ratopati EN",
-   "ts": 1790972100,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/australia_TJt6Ijz1E0.jpg",
-   "lang": "en",
-   "hl": "Australia Job Vacancies Decline for Second Consecutive Quarter",
-   "en": "Australia Job Vacancies Decline for Second Consecutive Quarter",
-   "ne": "Australia Job Vacancies Decline for Second Consecutive Quarter",
-   "imp": 1,
-   "tags": [
-    "Australia",
-    "JobVacancies",
-    "Economy"
-   ],
-   "cat": "economy",
-   "val": 2,
-   "teaser": false,
-   "hits": 2
-  },
   {
    "title": "धौलीगङ्गा जलविद्युत् परियोजनाको बाँध पुनः खोलिँदै",
    "summary": "बैतडी । भारतको उत्तराखण्ड प्रदेशको पिढौरागढस्थित धौलीगङ्गा जलविद्युत् परियोजनाको बाँधका ढोका पुनः खोल्न लागिएको छ । परियोजनाले बाँधमा जमेको सिल्ट सफाइ गर्न ४८ घण्टाका लागि ढोका खोल्न लागेको हो । एनएचपिसी लिमिटेड,...",
@@ -5891,7 +5874,7 @@
    "cat": "world",
    "val": 3,
    "teaser": false,
-   "hits": 3
+   "hits": 4
   },
   {
    "title": "पूर्वाधारमा सिँचाइ गाभिने",
@@ -6330,7 +6313,7 @@
    "cat": "economy",
    "val": 2,
    "teaser": false,
-   "hits": 3
+   "hits": 5
   },
   {
    "title": "शिक्षामा छ महिना : नीतिगत सुधार, गुनासो सुनुवाइलाई प्राथमिकता",
@@ -11048,7 +11031,7 @@
    "cat": "society"
   }
  ],
- "updated": 1791000669,
+ "updated": 1791001251,
  "pending_since": 1791000646.6777709,
  "fb_blocks": [
   1790350880.4125228,
