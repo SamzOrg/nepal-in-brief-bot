@@ -3149,7 +3149,10 @@
   "https://www.setopati.com/politics/399884": 1791081065.536138,
   "https://baahrakhari.com/detail/503652": 1791081065.536138,
   "https://www.setopati.com/social/399883": 1791081065.536138,
-  "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBSUFV1aHZ0QnNpdWpHSGd3T09QMmlnYkRYa3ZSSEUwSHpuWjR1bVRaV2pwQUgtWHpLQXp4RU5ZMEM0WVh4Q0o1UUJuRlh1bzFCQk5HNmg0TGg?oc=5": 1791081065.536138
+  "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBSUFV1aHZ0QnNpdWpHSGd3T09QMmlnYkRYa3ZSSEUwSHpuWjR1bVRaV2pwQUgtWHpLQXp4RU5ZMEM0WVh4Q0o1UUJuRlh1bzFCQk5HNmg0TGg?oc=5": 1791081065.536138,
+  "https://english.khabarhub.com/2026/04/570552/": 1791081646.3603392,
+  "https://www.ratopati.com/story/596982/300-families-displaced-by-floods-and-landslides-in-parbat": 1791081646.3603392,
+  "http://english.ratopati.com/story/82180/300-families-displaced-by-floods-and-landslides-in-parbat": 1791081646.3603392
  },
  "queue": [
   {
@@ -8894,9 +8897,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "disaster"
+  },
+  {
+   "ts": 1791081652.7504377,
+   "en": "Parbat District Hit by Landslides, 300 Families Displaced",
+   "ne": "Parbat District Hit by Landslides, 300 Families Displaced",
+   "link": "http://english.ratopati.com/story/82180/300-families-displaced-by-floods-and-landslides-in-parbat",
+   "source": "Ratopati EN",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": true,
+   "cat": "disaster"
   }
  ],
- "updated": 1791081081,
+ "updated": 1791081668,
  "pending_since": 1791081065.536138,
  "fb_blocks": [
   1790350880.4125228,
