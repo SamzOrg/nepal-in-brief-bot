@@ -3160,7 +3160,11 @@
   "http://english.ratopati.com/story/82195/uml-calls-parliamentary-party-meeting-at-party-office": 1791091248.5515523,
   "https://gorkhapatraonline.com/news/225351": 1791091248.5515523,
   "https://www.ratopati.com/story/597001/uml-calls-parliamentary-party-meeting-at-party-office": 1791091248.5515523,
-  "https://english.onlinekhabar.com/nepali-congress-to-use-paper-ballots-for-15th-general-convention.html": 1791091248.5515523
+  "https://english.onlinekhabar.com/nepali-congress-to-use-paper-ballots-for-15th-general-convention.html": 1791091248.5515523,
+  "http://english.ratopati.com/story/82202/youth-arrested-on-charges-of-kidnapping-girl-in-rupandehi": 1791091865.4317143,
+  "https://khabarhub.com/2026/04/1032743/": 1791091865.4317143,
+  "https://nagariknews.nagariknetwork.com/social-affairs/armed-police-seize-customs-evading-goods-73-30.html": 1791091865.4317143,
+  "https://gorkhapatraonline.com/news/225356": 1791091865.4317143
  },
  "queue": [
   {
@@ -7219,7 +7223,7 @@
    "cat": "economy",
    "val": 3,
    "teaser": false,
-   "hits": 4
+   "hits": 5
   },
   {
    "title": "भारतमा फुटबलको ऐतिहासिक रात, नेपाली फुटबल सन्नाटामै",
@@ -7244,30 +7248,6 @@
    "val": 2,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "UML Chair not to attend NC General convention",
-   "summary": "KATHMANDU: CPN-UML Chair KP Sharma Oli has decided not to attend the inauguration ceremony of the Nepali Congress's 15th general convention, scheduled to be held at the Khula Manch in Kathmandu today. Oli had earlier...",
-   "link": "https://english.khabarhub.com/2026/04/570566/",
-   "source": "Khabarhub EN",
-   "ts": 1791089733,
-   "weight": 2,
-   "img": "https://english.khabarhub.com/wp-content/uploads/2026/07/kp-oli-1-e1784460457602-400x220.jpg",
-   "lang": "en",
-   "hl": "UML Chair not to attend NC General convention",
-   "en": "UML Chair not to attend NC General convention",
-   "ne": "UML Chair not to attend NC General convention",
-   "imp": 3,
-   "tags": [
-    "UML",
-    "KPSharmaOli",
-    "NepaliCongress",
-    "Convention"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 3
   },
   {
    "title": "गाउँको उत्पादन बजारसम्म पुर्‍याउनै सकस",
@@ -7825,7 +7805,7 @@
    "cat": "crime",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "दुई उपसभापति, एक महामन्त्री, दुई सह-महामन्त्री तथा १० केन्द्रीय सदस्य थप्ने तयारी",
@@ -11695,10 +11675,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "disaster"
+  },
+  {
+   "ts": 1791091872.5615761,
+   "en": "UML Chair KP Sharma Oli to skip NC's 15th general convention today",
+   "ne": "UML Chair KP Sharma Oli to skip NC's 15th general convention today",
+   "link": "https://english.khabarhub.com/2026/04/570566/",
+   "source": "Khabarhub EN",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "politics"
   }
  ],
- "updated": 1791091256,
- "pending_since": null,
+ "updated": 1791091880,
+ "pending_since": 1791091865.4317143,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
