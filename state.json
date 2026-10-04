@@ -3085,28 +3085,6 @@
    "hits": 1
   },
   {
-   "title": "LA Archdiocese Take Special Collections to Help Nepal Disaster Victims",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWTVBOHZWSjVXaWZtdUY4NzVGTGg4LXdZY0N4N0UxcXNIZXJMenhyNC1zOXJoVlYtc2xFTzQxOXp0SnlITlRaVnRqNmIxeFg3dm1zMWRHYkZMd3NlQkhnQWFpQ0J6ME84NzFOTzZvWUJMMWFNVTQtTU1mYzNhMTBIOF9sM2tLakRWVUdKVU5vYy1ULVE?oc=5",
-   "source": "MyNewsLA.com",
-   "ts": 1791124020,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "LA Archdiocese Take Special Collections to Help Nepal Disaster Victims",
-   "en": "LA Archdiocese Take Special Collections to Help Nepal Disaster Victims",
-   "ne": "LA Archdiocese Take Special Collections to Help Nepal Disaster Victims",
-   "imp": 2,
-   "tags": [
-    "NepalDisaster",
-    "Relief"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "कांग्रेसमा गगनको 'क्रमभङ्ग', यस्तो छ २९ बुँदे खाका",
    "summary": "नेपाली कांग्रेसका सभापति गगन थापाले पार्टीलाई परम्परागत सत्ताकेन्द्रित राजनीतिक शैलीबाट बाहिर निकालेर पूर्णतः नयाँ ढाँचामा रूपान्तरण गर्ने विस्तृत प्रस्ताव अघि सारेका छन्।...",
    "link": "https://nagariknews.nagariknetwork.com/politics/gagan-s-disintegration-in-the-congress-this-is-the-29-point-blueprint-br-65-41.html",
@@ -3151,29 +3129,6 @@
    "val": 2,
    "teaser": false,
    "hits": 2
-  },
-  {
-   "title": "वर्षौंदेखि नवीकरण नभएका ४६ सय संस्था प्रशासनको निगरानीमा",
-   "summary": "दर्ता भएका संस्था सञ्चालनमा छन् वा कागजमै सीमित छन् भन्ने यकिन गर्न प्रशासनले दुई महिनाको समयसीमा तोकेर विवरण अद्यावधिक गर्न थालेको हो ।...",
-   "link": "https://nagariknews.nagariknetwork.com/economy/4-600-institutions-that-have-not-been-renewed-for-years-are-under-the-administration-s-surveillance-23-23.html",
-   "source": "Nagarik News",
-   "ts": 1791123844,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1757851121_Morang%20Prasasan.jpg",
-   "lang": "ne",
-   "hl": "वर्षौंदेखि नवीकरण नभएका ४६ सय संस्था प्रशासनको निगरानीमा",
-   "en": "वर्षौंदेखि नवीकरण नभएका ४६ सय संस्था प्रशासनको निगरानीमा",
-   "ne": "वर्षौंदेखि नवीकरण नभएका ४६ सय संस्था प्रशासनको निगरानीमा",
-   "imp": 2,
-   "tags": [
-    "Administration",
-    "NGOs",
-    "Government"
-   ],
-   "cat": "society",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
   },
   {
    "title": "यस्तो छ कांग्रेसको निर्वाचन कार्यक्रम, मनोनयन दर्ता मंगलबार",
@@ -4792,17 +4747,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1790547648.9630802,
-   "en": "Two bodies recovered after avalanche hits Himalayan climbing group in Nepal",
-   "ne": "हिमाली आरोहण समूहमा हिमस्खलनपछि दुई शव फेला",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTFdsZ2pEZmNsdmR0RnBObDVOUE1XR3B3M1pYYkZHWkFWd2dhdzludVZndUE3OFp5cGlpYnBCQ1FfSEFhVVdEbU1EbWVUal9BaG9naFdfM1IyMVNHNnl2WHM3cXV3cGpwOUJ1LWZuRnd4Q1AwUnJtTFFvbnRkcFFhU1VZLWFwWUJwUkhscTZLYzdyS2hqYk5lVFdxMnRSQXo2eXhQckhlV3Rsb0d2RmEza3JIV2JzcU1zbHFmM3lB?oc=5",
-   "source": "tbsnews.net",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "disaster"
-  },
   {
    "ts": 1790549450.1989653,
    "en": "Floods, landslides lash Indian state, Nepal",
@@ -8399,8 +8343,8 @@
    "cat": "politics"
   }
  ],
- "updated": 1791152452,
- "pending_since": null,
+ "updated": 1791153084,
+ "pending_since": 1791153062.933221,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
