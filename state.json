@@ -1,9 +1,5 @@
 {
  "seen": {
-  "https://www.setopati.com/social/399819": 1790947867.9842203,
-  "https://khabarhub.com/2026/02/1032336/": 1790947867.9842203,
-  "https://www.ratopati.com/story/596738/commission-holds-discussions-with-parties-for-election-reforms-priority-given-to-overseas-voting": 1790947867.9842203,
-  "https://nagariknews.nagariknetwork.com/social-affairs/impact-of-kaligandaki-floods-rahughat-s-trial-production-halted-br-76-44.html": 1790947867.9842203,
   "https://nagariknews.nagariknetwork.com/social-affairs/police-increasing-public-transport-surveillance-during-festivals-passenger-help-desks-at-48-locations-98-34.html": 1790948447.92781,
   "https://baahrakhari.com/detail/503542": 1790948447.92781,
   "https://nagariknews.nagariknetwork.com/politics/parliament-has-not-become-weak-we-are-continuously-working-speaker-aryal-br-35-77.html": 1790948447.92781,
@@ -3027,7 +3023,10 @@
   "https://baahrakhari.com/detail/503743": 1791120661.9763715,
   "https://www.ratopati.com/story/597138/us-president-trump-appoints-national-intelligence-director-as-new-ai-chief": 1791120661.9763715,
   "https://www.onlinekhabar.com/2026/10/2032229/i-have-come-the-problem-is-not-because-of-chhu-mantar-gagan-thapa": 1791120661.9763715,
-  "https://baahrakhari.com/detail/503742": 1791120661.9763715
+  "https://baahrakhari.com/detail/503742": 1791120661.9763715,
+  "https://baahrakhari.com/detail/503746": 1791121245.773995,
+  "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUnVIWmFpV3RMVXY0WWhNSDhHaW1FV1BkUEJkSkRBajFaRVBheHdtWWw5MzNXVUFkZndrZFJBY09rU0VuRXN2M3c4aUVGeEpWWVBydml1aGFWQkZtLUpoRXRReFN5WHc1d0MxRHNHSUdRWVJRbGdPTjJYelZ6bDVJbjNtUGgtdW5WLV9lMjVTQ29YVVpCZG5waDZR?oc=5": 1791121245.773995,
+  "https://www.ratopati.com/story/597141/bhotekoshi-flood-raises-awareness-on-climate-change-focused-policymaking": 1791121245.773995
  },
  "queue": [
   {
@@ -3119,72 +3118,6 @@
    "hits": 1
   },
   {
-   "title": "One injured in accidental shooting in Rupandehi",
-   "summary": "Butwal, October 4 A 22-year-old man was injured after a gun went off at a house in Devdaha Municipality, Rupandehi, on Saturday. According to the District Police Office, Rupandehi, the incident occurred when a man...",
-   "link": "https://english.onlinekhabar.com/one-injured-in-accidental-shooting-in-rupandehi.html",
-   "source": "Onlinekhabar EN",
-   "ts": 1791092436,
-   "weight": 3,
-   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/10/police-logo.jpg",
-   "lang": "en",
-   "hl": "One injured in accidental shooting in Rupandehi",
-   "en": "One injured in accidental shooting in Rupandehi",
-   "ne": "One injured in accidental shooting in Rupandehi",
-   "imp": 3,
-   "tags": [
-    "Rupandehi",
-    "Shooting",
-    "Police"
-   ],
-   "cat": "crime",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "हास्य कलाकार 'जोगिन्दर पानवाला' ले कांग्रेसको केन्द्रीय सदस्यमा उम्मेदवारी दिने",
-   "summary": "काठमाडौँ । चर्चित हास्य कलाकार शिवशंकर रिजाल 'जोगिन्दर पानवाला' ले नेपाली कांग्रेसको केन्द्रीय सदस्यमा उम्मेदवारी दिने भएका छन् । आजबाट सुरु हुन लागेको नेपाली कांग्रेसको १५औँ महाधिवेशनमा सर्लाही क्षेत्र नम्बर ४ बाट...",
-   "link": "https://www.ratopati.com/story/597010/comedian-joginder-paanwala-to-run-for-congress-central-member",
-   "source": "Ratopati",
-   "ts": 1791092310,
-   "weight": 3,
-   "img": "https://npcdn.ratopati.com/media/news/833219111_28751230167876285_2769520057824528461_n_MxQYWLAgCV.webp",
-   "lang": "ne",
-   "hl": "हास्य कलाकार 'जोगिन्दर पानवाला' ले कांग्रेसको केन्द्रीय सदस्यमा उम्मेदवारी दिने",
-   "en": "हास्य कलाकार 'जोगिन्दर पानवाला' ले कांग्रेसको केन्द्रीय सदस्यमा उम्मेदवारी दिने",
-   "ne": "हास्य कलाकार 'जोगिन्दर पानवाला' ले कांग्रेसको केन्द्रीय सदस्यमा उम्मेदवारी दिने",
-   "imp": 2,
-   "tags": [
-    "JoginderPanwala"
-   ],
-   "cat": "politics",
-   "val": 2,
-   "teaser": false,
-   "hits": 4
-  },
-  {
-   "title": "'प्रत्येक मातृभाषाले आफ्नै इतिहास, जीवनदृष्टि र सांस्कृतिक स्मृति बोकेको हुन्छ'",
-   "summary": "टेकुको ऐतिहासिक तथा सांस्कृतिक परिवेशमा आयोजना गरिएको कार्यक्रमले साहित्यलाई मन्दिर, संग्रहालय, संस्कृति र समुदायको जीवनसँग जोड्ने प्रयास समेत गरेको थियो।...",
-   "link": "https://nagariknews.nagariknetwork.com/arts/each-mother-tongue-carries-its-own-history-outlook-on-life-and-cultural-memory-61-82.html",
-   "source": "Nagarik News",
-   "ts": 1791092208,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1791092615_hi%20kai%2098.jpg",
-   "lang": "ne",
-   "hl": "'प्रत्येक मातृभाषाले आफ्नै इतिहास, जीवनदृष्टि र सांस्कृतिक स्मृति बोकेको हुन्छ'",
-   "en": "'प्रत्येक मातृभाषाले आफ्नै इतिहास, जीवनदृष्टि र सांस्कृतिक स्मृति बोकेको हुन्छ'",
-   "ne": "'प्रत्येक मातृभाषाले आफ्नै इतिहास, जीवनदृष्टि र सांस्कृतिक स्मृति बोकेको हुन्छ'",
-   "imp": 2,
-   "tags": [
-    "MotherTongue",
-    "CulturalHeritage"
-   ],
-   "cat": "culture",
-   "val": 1,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "तेल प्रशोधन केन्द्रमा हमला गरी रूसलाई जबाफ दिने जेलेन्स्कीको चेतावनी",
    "summary": "तर रुसले डोनबासमाथि नियन्त्रण पाएपछि मात्रै युद्ध अन्त्य गर्छ भन्ने भ्रममा नपर्न उनले अमेरिकालाई आग्रह गरेका छन्।",
    "link": "https://www.setopati.com/politics/399910",
@@ -3224,28 +3157,6 @@
     "RedTika"
    ],
    "cat": "culture",
-   "val": 1,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "सुधारिएको कांग्रेस हेर्ने इच्छा छ : रक्षा बम",
-   "summary": "उनले कांग्रेसको १५औँ महाधिवेशनले पार्टीभित्रको आत्मालोचना र सुधारको आवश्यकतालाई गम्भीरतापूर्वक लिनुपर्ने बताएकी छन्।...",
-   "link": "https://nagariknews.nagariknetwork.com/politics/i-want-to-see-a-reformed-congress-raksha-bam-br-14-80.html",
-   "source": "Nagarik News",
-   "ts": 1791092082,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1767686196_Rakshya.jpg",
-   "lang": "ne",
-   "hl": "सुधारिएको कांग्रेस हेर्ने इच्छा छ : रक्षा बम",
-   "en": "सुधारिएको कांग्रेस हेर्ने इच्छा छ : रक्षा बम",
-   "ne": "सुधारिएको कांग्रेस हेर्ने इच्छा छ : रक्षा बम",
-   "imp": 1,
-   "tags": [
-    "Congress",
-    "Defense"
-   ],
-   "cat": "politics",
    "val": 1,
    "teaser": false,
    "hits": 1
@@ -3973,29 +3884,6 @@
    "val": 3,
    "teaser": false,
    "hits": 5
-  },
-  {
-   "title": "Wagle to meet US Treasury Secretary, World Bank President",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdkhDWW90Y2NnUEZmSzg2QV9PRnoxYmw5T3ZTZ3VfMVQ3Wm05UDRteWE2WnpXWXd1LUZRRjhUdy1ETUJqMXY3bnA1c2hGVWpES0s5VkRPYnA1ejY4Rk9heWowaVRBNjkwc1VXckV5enFKNTd2NjV2cERyeHlFbHVLSG1TS3JMX3BUVTJBYmFKbnlMN3NQMHZxNlg1aWJ2MGg1a1FQNWFVLWZaLTlzM2NPMg?oc=5",
-   "source": "myRepublica",
-   "ts": 1791091920,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Wagle to meet US Treasury Secretary, World Bank President",
-   "en": "Wagle to meet US Treasury Secretary, World Bank President",
-   "ne": "Wagle to meet US Treasury Secretary, World Bank President",
-   "imp": 3,
-   "tags": [
-    "Wagle",
-    "USTreasury",
-    "WorldBank"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
   },
   {
    "title": "बबरमहलमा राखियो आकाशे पुल",
@@ -5650,7 +5538,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 6
+   "hits": 7
   },
   {
    "title": "कम्प्युटिङ, विज्ञान, इन्जिनियरिङ तथा प्रविधिमा नवप्रवर्तन सम्बन्धी तेस्रो अन्तर्राष्ट्रिय सम्मेलन",
@@ -7019,29 +6907,6 @@
    ],
    "cat": "economy",
    "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "मोरङमा संस्थाहरुको हिसाबकिताब खोज्दै प्रशासन, नयाँ दर्तामा अस्थायी रोक",
-   "summary": "विराटनगर : दर्ता भएका संस्था कागजमा मात्रै सीमित छन् कि सक्रिय रूपमा काम गरिरहेका छन् ? वर्षौंदेखि नवीकरण नगर्ने संस्थाको आर्थिक तथा प्रशासनिक अवस्था कस्तो छ ? यिनै प्रश्नको जवाफ खोज्दै जिल्ला प्रशासन कार्यालय मोरङले...",
-   "link": "http://annapurnapost.com/story/508940",
-   "source": "Annapurna Post",
-   "ts": 1791092342.5962415,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "मोरङमा संस्थाहरुको हिसाबकिताब खोज्दै प्रशासन, नयाँ दर्तामा अस्थायी रोक",
-   "en": "मोरङमा संस्थाहरुको हिसाबकिताब खोज्दै प्रशासन, नयाँ दर्तामा अस्थायी रोक",
-   "ne": "मोरङमा संस्थाहरुको हिसाबकिताब खोज्दै प्रशासन, नयाँ दर्तामा अस्थायी रोक",
-   "imp": 2,
-   "tags": [
-    "Morang",
-    "Administration",
-    "प्रशासन"
-   ],
-   "cat": "society",
-   "val": 2,
    "teaser": false,
    "hits": 1
   },
@@ -11127,7 +10992,7 @@
    "cat": "sports",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "लिग-२ को निर्णायक यात्रामा जाने टोलीको बिदाइ",
@@ -11989,6 +11854,30 @@
    ],
    "cat": "politics",
    "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "'भोटेकोशी बाढीले जलवायु परिवर्तन केन्द्रित नीति निर्माणमा सचेत गरायो'",
+   "summary": "काठमाडौँ। हालैको भोटेकोशी बाढी, यसको प्रभाव र भावी योजनामा केन्द्रित भएर काठमाडौँमा आइतबार खुला बहस गरिएको छ। विद्यासागर फाउण्डेसनले सम्बन्धित क्षेत्रका विज्ञ, नीति निर्माता सांसदलगायत सरोकारवालाको उपस्थितिमा जलवायु...",
+   "link": "https://www.ratopati.com/story/597141/bhotekoshi-flood-raises-awareness-on-climate-change-focused-policymaking",
+   "source": "Ratopati",
+   "ts": 1791120791,
+   "weight": 3,
+   "img": "https://npcdn.ratopati.com/media/news/open-dialogue-on-_climate-change_-disaster-management_climate-justice-1_KnSksRwo43.webp",
+   "lang": "ne",
+   "hl": "'भोटेकोशी बाढीले जलवायु परिवर्तन केन्द्रित नीति निर्माणमा सचेत गरायो'",
+   "en": "'भोटेकोशी बाढीले जलवायु परिवर्तन केन्द्रित नीति निर्माणमा सचेत गरायो'",
+   "ne": "'भोटेकोशी बाढीले जलवायु परिवर्तन केन्द्रित नीति निर्माणमा सचेत गरायो'",
+   "imp": 3,
+   "tags": [
+    "BhoteKoshi",
+    "Flood",
+    "ClimateChange",
+    "बाढी"
+   ],
+   "cat": "disaster",
+   "val": 2,
    "teaser": false,
    "hits": 1
   }
@@ -15623,8 +15512,8 @@
    "cat": "health"
   }
  ],
- "updated": 1791120690,
- "pending_since": null,
+ "updated": 1791121249,
+ "pending_since": 1791121245.773995,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
