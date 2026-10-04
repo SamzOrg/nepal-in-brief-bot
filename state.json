@@ -1,11 +1,5 @@
 {
  "seen": {
-  "https://english.khabarhub.com/2026/02/570242/": 1790901061.4439876,
-  "http://english.ratopati.com/story/81857/partial-effect-of-monsoon-and-westerly-winds-across-the-country-possibility-of-rain-in-these-6-provinces-today": 1790901061.4439876,
-  "https://khabarhub.com/2026/02/1031994/": 1790901061.4439876,
-  "https://nagariknews.nagariknetwork.com/politics/both-houses-of-the-federal-parliament-are-meeting-88-23.html": 1790901061.4439876,
-  "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdUhLQ0pyMXNkRHpsVkVOTnBETnZmQTVKY3R2UjJ6ZFl1RmhzVVB6REtrYnZDU21DM04xV044aUpEUC1tQ1Eyb1JTcWtKRzFjdUd6SUdGSmI5bDBKV2pOMXFTaWVfNlppdHFnejVWWFJvWjNVc0dxMHA3VDNRSjVfa0lBRUttdERLNUtFRzVQWUtUeXhmUlo1VEJEOHNaM1d4RDRqRlFTODlhN2hNOXZpX05CRmdsUQ?oc=5": 1790901061.4439876,
-  "http://lokaantar.com/story/330270/2026/10/2/cricket-": 1790901061.4439876,
   "https://nagariknews.nagariknetwork.com/sports/nepali-cricket-team-returns-home-25-71.html": 1790901644.7399619,
   "https://english.khabarhub.com/2026/02/570244/": 1790901644.7399619,
   "https://www.onlinekhabar.com/2026/10/2030438/goat-and-sheep-trade-increases-in-dharan-as-festivals-approach": 1790901644.7399619,
@@ -3165,7 +3159,8 @@
   "https://risingnepaldaily.com/news/87347": 1791073250.3689425,
   "https://www.onlinekhabar.com/2026/10/2031546/nepali-congresss-15th-general-convention-today": 1791073250.3689425,
   "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNEtOSUV1Y1dqNDBwblBFaVpvdUtaOXNSUXFRbkVxWHpydWRrcVNIWURUd0lramVPM3QtM0ttV29sY2Y2VFo4alAtclBoOXdwZHVpNzZ3bFc5amx4WXVIUGs5NU4wOG02RFpXQVpqTGhtZ2hHMkpOeTdIVW90cDF0dGF6N3ZpWHJoazZ0Uw?oc=5": 1791073250.3689425,
-  "https://risingnepaldaily.com/news/87346": 1791073250.3689425
+  "https://risingnepaldaily.com/news/87346": 1791073250.3689425,
+  "https://baahrakhari.com/detail/503638": 1791073865.393912
  },
  "queue": [
   {
@@ -3257,29 +3252,6 @@
     "सडक"
    ],
    "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "राष्ट्रिय युवा संघ सल्यानले पायो नयाँ नेतृत्व, अध्यक्षमा प्रेम घर्ती",
-   "summary": "शंकर केसीशारदा (सल्यान), असोज १७ गते । राष्ट्रिय युवा संघ नेपाल सल्यानको १२ औँ जिल्ला अधिवेशनले प्रेम घर्ती मगरको अध्यक्षतामा नयाँ जिल्ला कमिटी सर्वसम्मत चयन गरेको छ । शनिबार श्रीन...",
-   "link": "https://gorkhapatraonline.com/news/225309",
-   "source": "Gorkhapatra",
-   "ts": 1791044682,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/386309/conversions/Naya-Kamiti,-Salyan-original.jpg",
-   "lang": "ne",
-   "hl": "राष्ट्रिय युवा संघ सल्यानले पायो नयाँ नेतृत्व, अध्यक्षमा प्रेम घर्ती",
-   "en": "राष्ट्रिय युवा संघ सल्यानले पायो नयाँ नेतृत्व, अध्यक्षमा प्रेम घर्ती",
-   "ne": "राष्ट्रिय युवा संघ सल्यानले पायो नयाँ नेतृत्व, अध्यक्षमा प्रेम घर्ती",
-   "imp": 2,
-   "tags": [
-    "YouthAssociation",
-    "Salyan",
-    "PremGharti"
-   ],
-   "cat": "politics",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -4255,17 +4227,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1790468452.4515672,
-   "en": "Former Chief Justice Cholen Shamsher forcibly arrested",
-   "ne": "पूर्व प्रधानन्यायाधीश चोलेन्द्रशमशेर जबरा पक्राउ",
-   "link": "https://www.ratopati.com/story/595150/former-chief-justice-cholendra-shumsher-jabra-arrested",
-   "source": "Ratopati",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "politics"
-  },
   {
    "ts": 1790470295.852025,
    "en": "IN PHOTOS: Four killed in Nepal as sudden surge in Bhote Koshi River devastates settlements",
@@ -8003,8 +7964,8 @@
    "cat": "disaster"
   }
  ],
- "updated": 1791073292,
- "pending_since": null,
+ "updated": 1791073869,
+ "pending_since": 1791073865.393912,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
