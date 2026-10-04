@@ -3164,7 +3164,11 @@
   "https://www.onlinekhabar.com/2026/10/2031575/janmat-to-finalize-new-working-committee-today": 1791078642.4803379,
   "https://risingnepaldaily.com/news/87359": 1791079281.3600848,
   "https://khabarhub.com/2026/04/1032699/": 1791079281.3600848,
-  "https://nagariknews.nagariknetwork.com/economy/the-number-of-industries-being-liquidated-is-increasing-24-15.html": 1791079281.3600848
+  "https://nagariknews.nagariknetwork.com/economy/the-number-of-industries-being-liquidated-is-increasing-24-15.html": 1791079281.3600848,
+  "https://www.onlinekhabar.com/2026/10/2031585/nepal-police-wins-madan-bhandari-cup-international-volleyball-title": 1791079841.8881035,
+  "https://gorkhapatraonline.com/news/225331": 1791079841.8881035,
+  "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOVRzUFhxUUVVaFllV1F6eU1ZV3JUMGVwNENJbXh5UE91cVBocWdlV2NSeExIbm1pVUFVOHNpekI3TWthZUppOHlRbFlEaGI1SVNUMHVUUzFlZDlJMGVvSjF0eVMwQnlTNERSS25ZMXVaazBPcFc2RWdhd3ZKVy03MkRhZTZOd3pUVnJyYVVNSDF5LWdIdEZITkdWS1psSDF0QU5mOTBMdHdkU2M?oc=5": 1791079841.8881035,
+  "https://theannapurnaexpress.com/story/67630": 1791079841.8881035
  },
  "queue": [
   {
@@ -3213,30 +3217,6 @@
    "val": 1,
    "teaser": true,
    "hits": 1
-  },
-  {
-   "title": "मन्त्री पोखरेलद्वारा देउखुरी क्रिकेट रङ्गशालाको निरीक्षण",
-   "summary": "दाङ, असोज १७ गते । शिक्षा तथा खेलकुदमन्त्री सस्मित पोखरेलले दाङको देउखुरीस्थित देउखुरी अन्तर्राष्ट्रिय क्रिकेट रङ्गशालाको निरीक्षण गर्नुभएको छ ।दसौँ राष्ट्रिय खेलकुद प्रतियोगितालाई...",
-   "link": "https://gorkhapatraonline.com/news/225314",
-   "source": "Gorkhapatra",
-   "ts": 1791050952,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/386315/conversions/484b1207-7791-4b34-a76a-6f593a333bf6-original.jpg",
-   "lang": "ne",
-   "hl": "मन्त्री पोखरेलद्वारा देउखुरी क्रिकेट रङ्गशालाको निरीक्षण",
-   "en": "मन्त्री पोखरेलद्वारा देउखुरी क्रिकेट रङ्गशालाको निरीक्षण",
-   "ne": "मन्त्री पोखरेलद्वारा देउखुरी क्रिकेट रङ्गशालाको निरीक्षण",
-   "imp": 2,
-   "tags": [
-    "Pokharel",
-    "CricketStadium",
-    "Dang",
-    "क्रिकेट"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "सिँचाइ विभागले ल्यायो वैदेशिक रोजगारीबाट फर्केका युवा लक्षित कार्यक्रम",
@@ -3300,28 +3280,6 @@
    "tags": [
     "NepaliCongress",
     "Diaspora"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Nepal-India Border Security Meeting Held in Jogbani",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNM2VVU01LbERvbFBMVVpCVHBYTzhnQXJWUTJqNVBDb1l1WFMtQWtSNnpsQTdWWEZUVUdxYVV6Ty1VX0ItcHZDRFFtZUEtbTVNNmVNb0VyRTBUcEVrbjBERlZoQmtvY0x0cUtDc3paZS00TnFDaTVwR0ZneHh4UlA0Q01QUzNfMHNtaDlsd1UyODQ1V0t3YzJCaHBneGNHdVpMekRmNGpUcGs?oc=5",
-   "source": "Ratopati",
-   "ts": 1791050659,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Nepal-India Border Security Meeting Held in Jogbani",
-   "en": "Nepal-India Border Security Meeting Held in Jogbani",
-   "ne": "Nepal-India Border Security Meeting Held in Jogbani",
-   "imp": 3,
-   "tags": [
-    "BorderSecurity",
-    "Jogbani"
    ],
    "cat": "politics",
    "val": 3,
@@ -3489,7 +3447,7 @@
    "cat": "culture",
    "val": 2,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "आज २०८३ साल असोज १८ गते आइतबारको राशिफल",
@@ -4156,7 +4114,7 @@
    "cat": "world",
    "val": 1,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "अधिकारीको 'अस्तित्वको ब्रह्माण्ड' लोकार्पण",
@@ -4609,7 +4567,7 @@
    "cat": "world",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "मुख्य निर्वाचन आयुक्तको राजीनामा माग्दै कक्रोच पार्टीद्वारा दिल्ली मार्च आह्वान",
@@ -8573,7 +8531,7 @@
    "cat": "society"
   }
  ],
- "updated": 1791079301,
+ "updated": 1791079846,
  "pending_since": 1791079281.3600848,
  "fb_blocks": [
   1790350880.4125228,
