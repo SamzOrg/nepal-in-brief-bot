@@ -3144,7 +3144,9 @@
   "https://baahrakhari.com/detail/503651": 1791082243.9587793,
   "http://english.ratopati.com/story/82182/6-nepalis-arrested-with-24-bags-of-chocolates-at-india-nepal-border": 1791082880.4660363,
   "https://www.onlinekhabar.com/2026/10/2031615/sita-gurung-announces-candidacy-for-congress-joint-general-secretary": 1791082880.4660363,
-  "http://lokaantar.com/story/330418/2026/10/4/sita-gurung-": 1791082880.4660363
+  "http://lokaantar.com/story/330418/2026/10/4/sita-gurung-": 1791082880.4660363,
+  "https://english.onlinekhabar.com/nepali-congress-general-convention-2.html": 1791083443.5612469,
+  "https://news.google.com/rss/articles/CBMif0FVX3lxTE52TGNhRzZzLVF2VWhOenBfNjJwcEVsM3ByWnhrdXY5R1RVbnN0cUFiU1Ezc00zTVhIN1A5UzNGbERFUEkzaHFrQjNEMlBJRkZPNEdaUmFVTlQ3d2NmQlRBV3FscUUzSlJDVVZpd2JhTndwYzhmWWU3YnAtbHhWVVk?oc=5": 1791083443.5612469
  },
  "queue": [
   {
@@ -4494,27 +4496,6 @@
    ],
    "cat": "disaster",
    "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Tag",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5xVTBXM1V4OWRkZFJ1MXpOanJFVFBrN2xyR185R3FyTTVSQ09LOVNsTFlCZHM3dENLYmo1Vl9rbGlSX21Dekc4N0xwVXB3S05uVWVpN1dieXR1TERzTFNNTnRRcmw3b2h0NGc?oc=5",
-   "source": "myRepublica",
-   "ts": 1791054579,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Tag",
-   "en": "Tag",
-   "ne": "Tag",
-   "imp": 1,
-   "tags": [
-    "Tag"
-   ],
-   "cat": "other",
-   "val": 1,
    "teaser": false,
    "hits": 1
   },
@@ -9283,7 +9264,7 @@
    "cat": "society"
   }
  ],
- "updated": 1791082900,
+ "updated": 1791083447,
  "pending_since": 1791082243.9587793,
  "fb_blocks": [
   1790350880.4125228,
