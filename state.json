@@ -3165,7 +3165,11 @@
   "https://nagariknews.nagariknetwork.com/arts/kosak-connecting-books-with-parents-br-82-35.html": 1791084666.875361,
   "https://nagariknews.nagariknetwork.com/sports/shai-hope-s-record-century-leads-west-indies-to-historic-win-48-76.html": 1791084666.875361,
   "https://nagariknews.nagariknetwork.com/politics/congress-general-convention-domestic-delegates-must-make-their-own-accommodation-arrangements-party-will-bear-the-expenses-of-those-coming-from-abroad-82-55.html": 1791084666.875361,
-  "https://nagariknews.nagariknetwork.com/arts/i-wonder-what-should-i-write-br-90-76.html": 1791084666.875361
+  "https://nagariknews.nagariknetwork.com/arts/i-wonder-what-should-i-write-br-90-76.html": 1791084666.875361,
+  "https://khabarhub.com/2026/04/1032726/": 1791085246.7925763,
+  "https://www.ratopati.com/story/596988/farmers-and-consumers-benefit-from-agricultural-produce-centers": 1791085246.7925763,
+  "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcVpZcFpiZ0M2T05FczE5ckVtdm5HQ3ZxbUlnSzVEVEoyZDhGOGdtY21JUGcxdzB0QmdkcENMQnZuOEtzd3BOTXVLdG5iak5jVXpWaW9mczlzNzJYdnIyaDBHQ3ltZmFCSnlmeTFIX2FJSmdwUC1sNGczN3pfRlRBWGwzaklKVGJRRVpYR1pybXVkeFlWTUFkbUs2VzJfa21qX1dFSWk0cFU1Zw?oc=5": 1791085246.7925763,
+  "https://thehimalayantimes.com/nepal/madhes-records-459-disasters-in-two-months-92-deaths": 1791085246.7925763
  },
  "queue": [
   {
@@ -3743,7 +3747,7 @@
    "cat": "economy",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "2,548 Girls Vaccinated Against Cervical Cancer in Tanahun",
@@ -4833,7 +4837,7 @@
    "cat": "health",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Experts, leaders urge Congress to adopt a sharper foreign policy",
@@ -6078,7 +6082,7 @@
    "cat": "economy",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "असोज ३० देखि कात्तिक १-२ गतेसम्म मौसम बिग्रिन सक्छ : मौसमविद् पोखरेल",
@@ -6260,6 +6264,29 @@
    ],
    "cat": "culture",
    "val": 1,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Madhes records 459 disasters in two months, 92 deaths",
+   "summary": "JANAKPURDHAM, OCTOBER 4Madhes Province recorded 459 disaster incidents in the first two months of the current fiscal year, claiming 92 lives and affecting 510 families, according t...",
+   "link": "https://thehimalayantimes.com/nepal/madhes-records-459-disasters-in-two-months-92-deaths",
+   "source": "Himalayan Times",
+   "ts": 1791084613,
+   "weight": 3,
+   "img": "https://thehimalayantimes.com/thehimalayantimes/uploads/images/2026/10/04/51321.jpg",
+   "lang": "en",
+   "hl": "Madhes records 459 disasters in two months, 92 deaths",
+   "en": "Madhes records 459 disasters in two months, 92 deaths",
+   "ne": "Madhes records 459 disasters in two months, 92 deaths",
+   "imp": 4,
+   "tags": [
+    "Madhes",
+    "Disaster",
+    "मधेस"
+   ],
+   "cat": "disaster",
+   "val": 3,
    "teaser": false,
    "hits": 1
   }
@@ -9993,8 +10020,8 @@
    "cat": "crime"
   }
  ],
- "updated": 1791084689,
- "pending_since": null,
+ "updated": 1791085252,
+ "pending_since": 1791085246.7925763,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
