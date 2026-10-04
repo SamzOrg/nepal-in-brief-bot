@@ -1,12 +1,5 @@
 {
  "seen": {
-  "https://risingnepaldaily.com/news/87283": 1790903444.7745972,
-  "https://gorkhapatraonline.com/news/225094": 1790903444.7745972,
-  "https://www.setopati.com/social/399743": 1790903444.7745972,
-  "https://www.onlinekhabar.com/2026/10/2030445/flood-damages-relekhola-project-dam-halts-electricity-generation": 1790903444.7745972,
-  "http://lokaantar.com/story/330275/2026/10/2/electricity-": 1790903444.7745972,
-  "https://www.ratopati.com/story/596521/christa-pike-dies-despite-being-given-lethal-injection-twice-to-be-executed-fighting-for-life-in-hospital": 1790903444.7745972,
-  "http://english.ratopati.com/story/81859/christa-pike-dies-despite-being-given-lethal-injection-twice-to-be-executed-fighting-for-life-in-hospital": 1790903444.7745972,
   "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZEZhb3lFSWlwcVZRci1mWnVwUHlPVzhfWmhOUmE3aGhQS2JYaWd4d3FDdGN1RHJ1UWlDMmF5bWtkN3AxamMyZElVQ2wyVXAwSGdPekVldnp6bFdwcUFsN0h6aXg0R3RlbHN1ekxNVXp3aHY0OVBRUE1sUFZVdERPNQ?oc=5": 1790904042.5105348,
   "https://www.ratopati.com/story/596522/15-year-old-indian-cricketer-vaibhav-suryavanshi-makes-it-to-times-influential-list": 1790904042.5105348,
   "https://nagariknews.nagariknetwork.com/social-affairs/1-049-quintals-of-salt-stock-in-jumla-90-83.html": 1790904042.5105348,
@@ -3162,7 +3155,10 @@
   "https://risingnepaldaily.com/news/87350": 1791075679.0836866,
   "https://www.ratopati.com/story/596968/partial-influence-of-monsoon-and-westerly-winds-continues-possibility-of-rain-in-these-parts-of-the-country-today": 1791075679.0836866,
   "http://english.ratopati.com/story/82168/partial-influence-of-monsoon-and-westerly-winds-continues-possibility-of-rain-in-these-parts-of-the-country-today": 1791075679.0836866,
-  "http://annapurnapost.com/story/508910": 1791075679.0836866
+  "http://annapurnapost.com/story/508910": 1791075679.0836866,
+  "https://kathmandupost.com/columns/2026/10/04/why-passive-neutrality-won-t-take-nepal-anywhere": 1791076250.5323942,
+  "http://lokaantar.com/story/330407/2026/10/4/galkot-": 1791076250.5323942,
+  "https://baahrakhari.com/detail/503643": 1791076250.5323942
  },
  "queue": [
   {
@@ -3207,29 +3203,6 @@
    "cat": "world",
    "val": 2,
    "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "फ्लाईदुबई विमान दुर्घटनाग्रस्त हुनबाट जोगाउने दुई 'रहस्यमयी' पाइलटबारे यात्रु के भन्छन् ?",
-   "summary": "उनका अनुसार हरेक उडानमा दुई अतिरिक्त पाइलट सवार हुँदैनन्। तर उक्त उडानमा ती दुई पाइलटलाई पछि तेल अभिभबाट दुबई फर्किने विमान सम्हाल्नुपर्ने भएकाले सँगै ल्याइएको थियो।...",
-   "link": "https://nagariknews.nagariknetwork.com/international/what-do-passengers-say-about-the-two-mysterious-pilots-who-saved-a-flydubai-plane-from-crashing-68-97.html",
-   "source": "Nagarik News",
-   "ts": 1791046974,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1791046908_FlyDubai%20plane",
-   "lang": "ne",
-   "hl": "फ्लाईदुबई विमान दुर्घटनाग्रस्त हुनबाट जोगाउने दुई 'रहस्यमयी' पाइलटबारे यात्रु के भन्छन् ?",
-   "en": "फ्लाईदुबई विमान दुर्घटनाग्रस्त हुनबाट जोगाउने दुई 'रहस्यमयी' पाइलटबारे यात्रु के भन्छन् ?",
-   "ne": "फ्लाईदुबई विमान दुर्घटनाग्रस्त हुनबाट जोगाउने दुई 'रहस्यमयी' पाइलटबारे यात्रु के भन्छन् ?",
-   "imp": 2,
-   "tags": [
-    "Flydubai",
-    "Pilot",
-    "Aviation"
-   ],
-   "cat": "world",
-   "val": 2,
-   "teaser": true,
    "hits": 1
   },
   {
@@ -4316,6 +4289,29 @@
    "cat": "sports",
    "val": 3,
    "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "बाढीपहिरोका कारण गलकोटमा कति घरमा भयो क्षति ?",
+   "summary": "",
+   "link": "https://baahrakhari.com/detail/503643",
+   "source": "Baahrakhari",
+   "ts": 1791075932,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "बाढीपहिरोका कारण गलकोटमा कति घरमा भयो क्षति ?",
+   "en": "बाढीपहिरोका कारण गलकोटमा कति घरमा भयो क्षति ?",
+   "ne": "बाढीपहिरोका कारण गलकोटमा कति घरमा भयो क्षति ?",
+   "imp": 3,
+   "tags": [
+    "Galkot",
+    "Flood",
+    "पहिरो"
+   ],
+   "cat": "disaster",
+   "val": 1,
+   "teaser": true,
    "hits": 1
   }
  ],
@@ -8048,8 +8044,8 @@
    "cat": "sports"
   }
  ],
- "updated": 1791075684,
- "pending_since": null,
+ "updated": 1791076256,
+ "pending_since": 1791076250.5323942,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
