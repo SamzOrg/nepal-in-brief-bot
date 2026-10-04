@@ -3161,7 +3161,13 @@
   "https://www.onlinekhabar.com/2026/10/2031656/landslide-damages-63-houses-in-galkot-baglung": 1791086482.7535868,
   "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTFo4N1k3OE9LdEhJelNCNHpCRTd1V3NvXzBqMGZ6UHoxUzg5VGUwdmhqcTQ1WGRNckZqam9QSVJxc3JFeUE0Yzl2T2FKZ3AyS25MbkdxUmZ1eFF5WXRwVFdlVkJDa24wV0xKcW9COF9uYnA5WGlvNUdMRlBKY0FOYjlQRjBZb0w2dmp1bXRYNDBVQ2w1dVU4c3BKdVBOejlBZEJ3bnFYZEZ2R2FPQTRpU0lpWnBYMGxld1pTekgwcThQLXlv?oc=5": 1791086482.7535868,
   "http://lokaantar.com/story/330419/2026/10/4/bima-": 1791086482.7535868,
-  "https://www.ratopati.com/story/596993/flood-warnings-travel-restrictions-after-heavy-rain-in-spain": 1791086482.7535868
+  "https://www.ratopati.com/story/596993/flood-warnings-travel-restrictions-after-heavy-rain-in-spain": 1791086482.7535868,
+  "https://www.ratopati.com/story/596994/seven-hundred-and-thirty-two-thousand-citizens-are-covered-by-health-insurance": 1791087046.623359,
+  "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQXMxQVplcDJHeE9vZkFSaVZsZm10T084cWliLVhpZWtwN2J2RDNEbG54enphckV6QlN1ZUdOcjdiTmV0SldXSl9BZG9hSEZFQWtzY2RlbWowY05XeWF1MGpFeHZTWVVmaHVfaEF2a3NjUUd1S0xPOVA0ME1tbnJ1eXhfMjU3ejlrUFl5U2tGSkRjV2EybWM3YU93bm1QaHRHOGFBYjRMUEZLdXPSAbMBQVVfeXFMT2ZkenlUSFdkeFhncER0TVRaOFlIT1dsYXNDSldqQ1FnQWRoU3dOWnBzOUJfQmNoZUhDalFLdER0WnZEUXMxMG5fNDR4NkVOSnhzY0NLeDFZM0RoRzQ1QndfSGdPODZoTGpqY0syNGVKM1N6VVQ4UmhERzFaRzlucG95TVd0dnNMZ1p2SEVXRmhVMDQ2QVd0RjlXcHFNMUVRbHA2SWxpdFd5WGk2ZWFXMjFwSkk?oc=5": 1791087046.623359,
+  "https://theannapurnaexpress.com/story/67633": 1791087046.623359,
+  "http://annapurnapost.com/story/508921": 1791087046.623359,
+  "https://gorkhapatraonline.com/news/225346": 1791087046.623359,
+  "https://www.onlinekhabar.com/2026/10/2031675/parbat-floods-and-landslides-three-hundred-families-displaced": 1791087046.623359
  },
  "queue": [
   {
@@ -5363,7 +5369,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 3
+   "hits": 4
   },
   {
    "title": "साहित्यकार भट्टराईलाई 'लीलाध्वज थापा स्रष्टा सम्मान'",
@@ -5503,7 +5509,7 @@
    "cat": "society",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "कांग्रेसका आठ दशक",
@@ -6394,7 +6400,7 @@
    "cat": "health",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "संसद्प्रतिको जनअपेक्षा",
@@ -6576,6 +6582,29 @@
    "cat": "world",
    "val": 2,
    "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "बाढीपीडितलाई पुनर्स्थापनाको चुनौती",
+   "summary": "बागलुङ समाचारदाताबागलुङ, असोज १८ गते । पश्चिम बागलुङको निसीखोला गाउँपालिकास्थित कानाबगर र झिँवाखोला बजार बाढीले क्षतविक्षत बनाएको छ । निसीखोला किनारका ३५ घर बाढीमा बगेका छन् भने २५...",
+   "link": "https://gorkhapatraonline.com/news/225346",
+   "source": "Gorkhapatra",
+   "ts": 1791086787,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/386357/conversions/nishi-khola-le-gareko-cheti--original.jpg",
+   "lang": "ne",
+   "hl": "बाढीपीडितलाई पुनर्स्थापनाको चुनौती",
+   "en": "बाढीपीडितलाई पुनर्स्थापनाको चुनौती",
+   "ne": "बाढीपीडितलाई पुनर्स्थापनाको चुनौती",
+   "imp": 4,
+   "tags": [
+    "Flood",
+    "Rehabilitation",
+    "बाढी"
+   ],
+   "cat": "disaster",
+   "val": 1,
+   "teaser": true,
    "hits": 1
   }
  ],
@@ -10286,7 +10315,7 @@
    "cat": "health"
   }
  ],
- "updated": 1791086502,
+ "updated": 1791087051,
  "pending_since": 1791086482.7535868,
  "fb_blocks": [
   1790350880.4125228,
