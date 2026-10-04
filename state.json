@@ -3009,79 +3009,15 @@
   "https://www.setopati.com/politics/399925": 1791101450.6803167,
   "https://english.onlinekhabar.com/police-raid-gambling-den.html": 1791101450.6803167,
   "https://nagariknews.nagariknetwork.com/arts/today-s-news-br-57-75.html": 1791101450.6803167,
-  "https://www.setopati.com/opinion/399923": 1791101450.6803167
+  "https://www.setopati.com/opinion/399923": 1791101450.6803167,
+  "http://english.ratopati.com/story/82231/what-is-in-the-political-report-submitted-by-prabhu-sah-at-the-ajp-central-committee-meeting-with-full-text": 1791102049.4832902,
+  "https://www.setopati.com/politics/399928": 1791102049.4832902,
+  "https://www.onlinekhabar.com/2026/10/2031898/folk-singer-thapa-files-candidacy-for-congress-central-member": 1791102049.4832902,
+  "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZjlIZGI1RmpUNUN3RnY5LWIwWWVubVNuTGZlWHVvQ2FwUUlHeml1UlhNOFJtbWZxQWc1enFwaURpbVJlSEZUVVM4WnQ5bTJxcllSSlhCQ1J0NXBRNE80NWtJdzRwaTJzT0lRdXF1REVYQmpFYTFRTFg0cFUzOVZ0aDdfNVczT1pCRGd4bWNOcnlWdDJ0TVVGVQ?oc=5": 1791102049.4832902,
+  "https://theannapurnaexpress.com/story/67642": 1791102049.4832902,
+  "http://lokaantar.com/story/330432/2026/10/4/biraj-bhakta-": 1791102049.4832902
  },
  "queue": [
-  {
-   "title": "Weather Forecast: Western Winds Affecting Karnali and Sudurpashchim, Monsoon Influence Elsewhere",
-   "summary": "Kathmandu. The Meteorological Forecasting Division has stated that the influence of western winds is present in all parts of Karnali...",
-   "link": "http://english.ratopati.com/story/82168/partial-influence-of-monsoon-and-westerly-winds-continues-possibility-of-rain-in-these-parts-of-the-country-today",
-   "source": "Ratopati EN",
-   "ts": 1791072822,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/rain-cover_7kzTqcsPea.webp",
-   "lang": "en",
-   "hl": "Weather Forecast: Western Winds Affecting Karnali and Sudurpashchim, Monsoon Influence Elsewhere",
-   "en": "Weather Forecast: Western Winds Affecting Karnali and Sudurpashchim, Monsoon Influence Elsewhere",
-   "ne": "Weather Forecast: Western Winds Affecting Karnali and Sudurpashchim, Monsoon Influence Elsewhere",
-   "imp": 2,
-   "tags": [
-    "Weather",
-    "Karnali",
-    "Sudurpashchim",
-    "Monsoon"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 4
-  },
-  {
-   "title": "पैसा कहिले पठाउने भन्दै घरबाट फोन आउँछ, यता तलब नआएको कसरी सुनाउनु?",
-   "summary": "परदेशमा बिरामी हुँदा होस् वा काममा समस्या पर्दा, नजिकै परिवार र आफन्त नहुँदा आफ्नै दुःख आफैले सम्हाल्नुपर्छ। घरमा पैसा पठाउनैपर्ने जिम्मेवारीले थाकेको शरीरलाई पनि फेरि काममा जान बाध्य बनाउँछ। रोमानियामा काम गरिरहेका...",
-   "link": "https://www.setopati.com/global/europe/399862",
-   "source": "Setopati",
-   "ts": 1791072750,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "पैसा कहिले पठाउने भन्दै घरबाट फोन आउँछ, यता तलब नआएको कसरी सुनाउनु?",
-   "en": "पैसा कहिले पठाउने भन्दै घरबाट फोन आउँछ, यता तलब नआएको कसरी सुनाउनु?",
-   "ne": "पैसा कहिले पठाउने भन्दै घरबाट फोन आउँछ, यता तलब नआएको कसरी सुनाउनु?",
-   "imp": 2,
-   "tags": [
-    "MigrantWorkers",
-    "Economy",
-    "वैदेशिकरोजगारी"
-   ],
-   "cat": "society",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "Folk, dohori academy convention to be held in Madhes",
-   "summary": "By Ajay Shah, Gaushala (Mahottari), Oct. 4: The ninth National Convention and Silver Jubilee-2083 of the National Folk a...",
-   "link": "https://risingnepaldaily.com/news/87349",
-   "source": "Rising Nepal",
-   "ts": 1791072747,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Folk, dohori academy convention to be held in Madhes",
-   "en": "Folk, dohori academy convention to be held in Madhes",
-   "ne": "Folk, dohori academy convention to be held in Madhes",
-   "imp": 2,
-   "tags": [
-    "Dohori",
-    "Madhes",
-    "Culture"
-   ],
-   "cat": "culture",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
   {
    "title": "इरान वरपर अमेरिकी सैन्य तैनाथीले के सन्देश दिइरहेको छ ?",
    "summary": "",
@@ -4099,7 +4035,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 22
+   "hits": 23
   },
   {
    "title": "भैरहवामा थपियो आयातको चाप",
@@ -4264,7 +4200,7 @@
    "cat": "culture",
    "val": 3,
    "teaser": false,
-   "hits": 4
+   "hits": 5
   },
   {
    "title": "Westerly winds influence several regions across Nepal",
@@ -5737,53 +5673,6 @@
    ],
    "cat": "society",
    "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Why was Deepak Bhatta moved to Sindhupalchok prison?",
-   "summary": "Officials say the transfer was routine, but a prison department source says concerns over Bhatta's alleged efforts to influence proceedings from inside Nakkhu may have prompted the move.",
-   "link": "https://kathmandupost.com/national/2026/10/04/why-was-deepak-bhatta-moved-to-sindhupalchok-prison",
-   "source": "Kathmandu Post",
-   "ts": 1791073247.4038181,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Why was Deepak Bhatta moved to Sindhupalchok prison?",
-   "en": "Why was Deepak Bhatta moved to Sindhupalchok prison?",
-   "ne": "Why was Deepak Bhatta moved to Sindhupalchok prison?",
-   "imp": 2,
-   "tags": [
-    "DeepakBhatta",
-    "Prison",
-    "Sindhupalchok"
-   ],
-   "cat": "crime",
-   "val": 3,
-   "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "अर्थतन्त्र शिथिल, लगानी ठप्प",
-   "summary": "काठमाडौं : बैंक तथा वित्तीय संस्थासँग १३ खर्ब ६३ अर्ब रुपैयाँ अतिरिक्त तरलता छ। नेपाल राष्ट्र बैंकका अनुसार १० खर्बभन्दा बढी त लगानीयोग्य रकम नै छ।' पैसा थुप्रिएसँगै बैंक तथा वित्तीय संस्थाहरूले ब्याजदर घटाएर ४ देखि ५...",
-   "link": "http://annapurnapost.com/story/508922",
-   "source": "Annapurna Post",
-   "ts": 1791073246.6372874,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "अर्थतन्त्र शिथिल, लगानी ठप्प",
-   "en": "अर्थतन्त्र शिथिल, लगानी ठप्प",
-   "ne": "अर्थतन्त्र शिथिल, लगानी ठप्प",
-   "imp": 3,
-   "tags": [
-    "Economy",
-    "Investment",
-    "Market",
-    "अर्थतन्त्र"
-   ],
-   "cat": "economy",
-   "val": 3,
    "teaser": false,
    "hits": 1
   },
@@ -7807,7 +7696,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "गाजामा हमास अधिकारीलाई लक्षित गरी हवाई हमला",
@@ -9360,7 +9249,7 @@
    "cat": "economy",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "रिपोर्ट कार्ड अनिवार्य पेस गर्न रविको निर्देशन, बालेनबारे के भने ?",
@@ -9913,7 +9802,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "किसानका घरआँगनमा कृषिमन्त्री चौधरी",
@@ -13763,7 +13652,7 @@
    "cat": "politics"
   }
  ],
- "updated": 1791101458,
+ "updated": 1791102055,
  "pending_since": 1791101450.6803167,
  "fb_blocks": [
   1790350880.4125228,
