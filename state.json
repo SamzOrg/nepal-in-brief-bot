@@ -3105,7 +3105,8 @@
   "https://nagariknews.nagariknetwork.com/Bazar/the-price-of-gold-fell-today-how-much-did-it-reach-69-20.html": 1791179449.6816442,
   "https://nagariknews.nagariknetwork.com/opinion/the-15th-general-convention-and-the-future-direction-of-the-nepali-congress-br-35-84.html": 1791179449.6816442,
   "https://nagariknews.nagariknetwork.com/sports/nations-league-football-irish-players-style-of-protest-against-israel-is-in-the-spotlight-86-79.html": 1791179449.6816442,
-  "https://nagariknews.nagariknetwork.com/politics/minister-directs-concerned-bodies-to-increase-production-and-utilization-of-timber-and-forest-products-23-96.html": 1791179449.6816442
+  "https://nagariknews.nagariknetwork.com/politics/minister-directs-concerned-bodies-to-increase-production-and-utilization-of-timber-and-forest-products-23-96.html": 1791179449.6816442,
+  "https://www.ratopati.com/story/597264/cabinet-meeting-at-3-pm": 1791180085.0559855
  },
  "queue": [
   {
@@ -8305,29 +8306,6 @@
    "hits": 1
   },
   {
-   "title": "Gagan misses opportunity to become unifying leader",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQV2hqQlI3MloySUc2SXdjTkVMaGZNRkE5T191NU9fcnlnUURUdDVrckdSOUVMUUdPbEdud0pqREZmX3h0bE9ZZ1FsVnlHdWgwY3RMbVN6M1lyZ2g3TWF3RGxYcm9YRmZnWWVUa0t2b0VqSFc0SURfTTYxbTdLS3VaT2xQVHp2MXowaGp6MkZDOU1DUEJRRG1GVFdVZEZXRkhZXzVsT0VlRF8?oc=5",
-   "source": "myRepublica",
-   "ts": 1791171676,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Gagan misses opportunity to become unifying leader",
-   "en": "Gagan misses opportunity to become unifying leader",
-   "ne": "Gagan misses opportunity to become unifying leader",
-   "imp": 4,
-   "tags": [
-    "Gagan",
-    "Leadership",
-    "Congress"
-   ],
-   "cat": "politics",
-   "val": 2,
-   "teaser": false,
-   "hits": 2
-  },
-  {
    "title": "प्रि ओपन सेसनमा नेप्से परिसूचक सामान्य अंकले घट्यो",
    "summary": "काठमाडौं : साताको पहिलो सेयर कारोबार दिन सोमबार प्रि ओपन सेसनमा नेप्से परिसूचक सामान्य अंकले घटेर बन्द भएको छ। यो समयमा ६३ वटा स्क्रिप्सको ६ हजार ३८९ कित्ता सेयर २४ लाख १३ हजार ८३० रुपैयाँमा खरिदबिक्री भए। कारोबारमा...",
    "link": "http://annapurnapost.com/story/508988",
@@ -8782,7 +8760,7 @@
    "cat": "politics",
    "val": 1,
    "teaser": true,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "काजीको प्रेम कथालाई अन्त्य गर्ने उद्देश्यले तयार गरिएको 'कबड्डी ५'",
@@ -9379,17 +9357,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1790574659.0568786,
-   "en": "Rescue teams search Nepal mountain for 12 swept by avalanche",
-   "ne": "भूस्खलनले बगाएका १२ जनाको खोजीमा बचाउ टोलीहरू नेपालका पहाडमा",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNU0sxZDlDNVUxOU5lT2Z6Ny1rR2swOWZxOHI1N0VzT1lBSmNLd3BMVVdwcFRPS2xQTGhBUnN5dVJ5YWpPRE1pYk5oVFV1N09McVdlNXVTQ3NGc0xURjJEdE5pUk1SaHZiNGZ0RHd6TzZpQy1GZEwySUxjalNYVlRhdVJORk14b3o3RVFyRE42R3hzSTk5dnJCcXB3Y3c0VnVFNHNVeldRMW9ndDUwMFVtQmNfd0ZrOEUwalJLZ3QyQWo2SEN0anBjMWM2NkhKclBsTDBpc2RUZl84cGFHWjR4bHQ4TEhKWnNnQ2pZ?oc=5",
-   "source": "Oskaloosa Herald",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": true,
-   "cat": "disaster"
-  },
   {
    "ts": 1790575305.0034642,
    "en": "Both houses of Federal Parliament to meet today; here is the agenda",
@@ -12984,10 +12951,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "tech"
+  },
+  {
+   "ts": 1791180108.5287,
+   "en": "Nepali Congress opens 15th General Convention in Kathmandu amid deep party division",
+   "ne": "Nepali Congress opens 15th General Convention in Kathmandu amid deep party division",
+   "link": "https://myrepublica.nagariknetwork.com/news/gagan-misses-opportunity-to-become-unifying-leader-41-48.html",
+   "source": "myRepublica",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "politics"
   }
  ],
- "updated": 1791179457,
- "pending_since": null,
+ "updated": 1791180129,
+ "pending_since": 1791180085.0559855,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
