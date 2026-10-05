@@ -36,6 +36,7 @@ PROVIDERS = [
 ]
 GRAPH          = "https://graph.facebook.com/v23.0"
 MAX_AGE_H      = 8      # stories older than this are dropped (seen + queue)
+ARTICLE_MAX_AGE_H = 48  # the article page's own publish date must be within this (feeds sometimes re-date old news)
 LLM_BATCH      = 25     # max new items per LLM request (Groq free TPM is 8K, so keep <= ~30)
 LLM_MIN_BATCH  = 20     # wait for this many new headlines before a full AI call...
 LLM_MAX_WAIT_MIN = 30   # ...or until the oldest waiting one has waited this long.
@@ -584,12 +585,43 @@ def resolve_gnews(link):
     return None
 
 
+PUB_DATE = [  # the article's own publish date, most reliable first
+    re.compile(r'<meta[^>]+(?:property|name|itemprop)=["\'](?:article:published_time|og:published_time|'
+               r'datePublished|publish-date|pubdate|sailthru\.date|parsely-pub-date)["\'][^>]*?content=["\']([^"\']+)', re.I),
+    re.compile(r'<meta[^>]+content=["\']([^"\']+)["\'][^>]*?(?:property|name|itemprop)=["\'](?:article:published_time|'
+               r'og:published_time|datePublished|publish-date|pubdate)["\']', re.I),
+    re.compile(r'"datePublished"\s*:\s*"([^"]+)"'),
+]
+_PAGES = {}
+
+
+def article_published(link):
+    """Publish date (unix time) the article page states about itself, or None if it doesn't say."""
+    page = _PAGES.get(link) or ""
+    for rx in PUB_DATE:
+        m = rx.search(page)
+        if not m:
+            continue
+        v = m.group(1).strip().replace("Z", "+00:00")
+        for fmt in (None, "%Y-%m-%d %H:%M:%S", "%Y-%m-%d"):
+            try:
+                d = datetime.fromisoformat(v) if fmt is None else datetime.strptime(v[:19 if "H" in fmt else 10], fmt)
+                if d.tzinfo is None:
+                    d = d.replace(tzinfo=timezone(timedelta(hours=5, minutes=45)))  # Nepal time if unstated
+                return d.timestamp()
+            except ValueError:
+                continue
+    return None
+
+
 def article_text(link, limit=3500):
     """Main paragraphs of the article page (empty string if it can't be read)."""
     if "news.google.com" in link:
         return ""  # Google News redirect pages have no article text
     try:
         page = requests.get(link, timeout=15, headers=BROWSER_UA).text[:600000]
+        _PAGES.clear()
+        _PAGES[link] = page
     except Exception as ex:
         log(f"article fetch failed: {ex!r}"[:200])
         return ""
@@ -650,8 +682,9 @@ below, write in {lang_name} (the article's language; do not translate):
 - "s": a 2-3 sentence summary (max 320 characters) with the key facts a reader needs, plain and neutral.
 - "p": 2-3 bullet points for the image, each ONE short concrete fact NOT already in "h" (numbers, names,
   places, dates, what happens next). Max 60 characters each, no full stop at the end, no bullet symbol.
+- "d": the article's own publication date (YYYY-MM-DD) if the article text states it (dateline, "Published on"), else null. Not dates of events it mentions.
 If the article text does not contain real facts for this headline, return {{"ok": false}}.
-Respond with JSON only: {{"ok": true, "h": "...", "s": "...", "p": ["...", "..."]}}
+Respond with JSON only: {{"ok": true, "h": "...", "s": "...", "p": ["...", "..."], "d": null}}
 
 HEADLINE: {headline}
 
@@ -663,14 +696,23 @@ NEPALI_STYLE = ("\n  Nepali: natural Onlinekhabar/Kantipur headline style, stand
 
 def enrich(s):
     """Instagram-only mode: rewrite the headline from the article body and add a short summary, in the
-    story's own language. Returns False only for a teaser that couldn't be completed (skip it)."""
+    story's own language. Returns False to skip the story: a teaser that couldn't be completed, or an
+    old article that a feed re-dated as new."""
     ne = s.get("lang") == "ne" or bool(DEVA.search(s.get("hl") or s["en"]))
     if "news.google.com" in s["link"]:  # swap the Google redirect for the real article (text, photo, caption)
         real = resolve_gnews(s["link"])
         if real:
             log(f"google news link -> {real}")
             s["link"], s["img"] = real, None
+    m = URL_DATE.search(s["link"])
+    if m and time.time() - calendar.timegm((int(m[1]), int(m[2]), int(m[3]), 23, 59, 0)) > 86400:
+        log(f"stale: article URL is dated {m[1]}-{m[2]}-{m[3]}, skipping: {s['en'][:70]}")
+        return False
     body = article_text(s["link"])
+    pub = article_published(s["link"])
+    if pub and time.time() - pub > ARTICLE_MAX_AGE_H * 3600:
+        log(f"stale: article says published {datetime.fromtimestamp(pub, timezone.utc):%Y-%m-%d}, skipping: {s['en'][:70]}")
+        return False
     if len(body) < 200:
         if s.get("teaser"):
             log(f"teaser, article text unavailable, skipping: {s['en'][:70]}")
@@ -684,6 +726,13 @@ def enrich(s):
             log(f"teaser, no specifics found in article, skipping: {s['en'][:70]}")
             return False
         return True
+    try:  # backstop when the page had no date metadata: the date the article itself states
+        dd = datetime.strptime(str(j.get("d") or "")[:10], "%Y-%m-%d").replace(tzinfo=timezone.utc)
+        if not pub and time.time() - dd.timestamp() > (ARTICLE_MAX_AGE_H + 24) * 3600:
+            log(f"stale: article text dated {dd:%Y-%m-%d}, skipping: {s['en'][:70]}")
+            return False
+    except ValueError:
+        pass
     h, summ = strip_media_tag(clean(j["h"])), clean(j.get("s") or "")
     same_lang = bool(DEVA.search(h)) == ne
     if foreign_script(h, summ) or len(h) > 160 or not same_lang:
