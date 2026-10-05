@@ -3078,7 +3078,12 @@
   "https://www.setopati.com/politics/400061": 1791202849.1585312,
   "https://nagariknews.nagariknetwork.com/politics/risks-arising-from-the-internet-must-be-anticipated-chief-justice-br-33-13.html": 1791202849.1585312,
   "https://baahrakhari.com/detail/503873": 1791202849.1585312,
-  "https://www.setopati.com/politics/400074": 1791202849.1585312
+  "https://www.setopati.com/politics/400074": 1791202849.1585312,
+  "https://risingnepaldaily.com/news/87435": 1791203470.668864,
+  "https://gorkhapatraonline.com/news/225532": 1791203470.668864,
+  "https://english.onlinekhabar.com/ranjit-karna-announces-candidacy.html": 1791203470.668864,
+  "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUVJvdlZocWVFOURFdGlxT3ZMdUNYLVBxT2NIeUNlYXBlaE54NTlzbTRaYVVvZTZ5VjVtZEhncGt4ZldwU1dVMTdpUkoxREtEWlhQRlZIc2dFbnZiQ3gxenRiX0JTeHNRYWlLQjA2Nlc0UnJ6X1lqUndlS0pXQWhWYU5FM0phTG5rVHU4TVkwQ2NveG55X05abW9BZ1cxVUF6aTl5Qkl5d1JDM09LTmNkYklR0gG2AUFVX3lxTE14a0NjekNZbzUxYXpJMGQtQU9iYjBYNWNQMDVmSWZRYlNiOXVBeEVuOTQyWW5qeWhwVktQZTh3cURGeC1FQnBKWGpIUkNYdGxud0lMLUJzc3NybVRDVHRQdWpCUS1JOW1zRnZudlZFQ2haTWhGZTliV3VobUJ2bVA2d0FmTWxteWJYamdrOTNrNlRmSVhnMzZ4SHB1NnRid1M5WUJINU1Zdnp5Z2pvT3ZBTHo4Q1RB?oc=5": 1791203470.668864,
+  "https://nagariknews.nagariknetwork.com/international/death-toll-from-thailand-floods-reaches-31-br-64-87.html": 1791203470.668864
  },
  "queue": [
   {
@@ -3150,51 +3155,6 @@
    "hits": 2
   },
   {
-   "title": "Nepal's politics has changed. Its political culture has not",
-   "summary": "Kathmandu, October 5 Had Sher Bahadur Deuba arrived to occupy the chief guest's chair at the Nepali Congress general convention, Gagan Thapa might have had one less thing to worry about. As he began addressing the...",
-   "link": "https://english.onlinekhabar.com/nepal-politics-has-changed.html",
-   "source": "Onlinekhabar EN",
-   "ts": 1791174652,
-   "weight": 3,
-   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/10/Rabi-lamichhane-gagan-thapa-1024x500.jpg",
-   "lang": "en",
-   "hl": "Nepal's politics has changed. Its political culture has not",
-   "en": "Nepal's politics has changed. Its political culture has not",
-   "ne": "Nepal's politics has changed. Its political culture has not",
-   "imp": 3,
-   "tags": [
-    "NepalPolitics",
-    "PoliticalCulture"
-   ],
-   "cat": "politics",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Khaptad Area Tourism Development and Management Committee Under New Leadership Aims for Development",
-   "summary": "Dhangadhi. After new leadership came under the chairmanship of Jamuna Chand last March, the Khaptad Area Tourism Development and Management...",
-   "link": "http://english.ratopati.com/story/82317/how-is-the-womens-leadership-working-in-the-khaptad-area-tourism-development-and-management-committee",
-   "source": "Ratopati EN",
-   "ts": 1791174648,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/jamuna_YVgZtDulgk.webp",
-   "lang": "en",
-   "hl": "Khaptad Area Tourism Development and Management Committee Under New Leadership Aims for Development",
-   "en": "Khaptad Area Tourism Development and Management Committee Under New Leadership Aims for Development",
-   "ne": "Khaptad Area Tourism Development and Management Committee Under New Leadership Aims for Development",
-   "imp": 2,
-   "tags": [
-    "Khaptad",
-    "Tourism",
-    "खप्तड"
-   ],
-   "cat": "culture",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
    "title": "दुई सय अठासी किलोमिटरमा गुड्यो गाडी",
    "summary": "खलङ्गा समाचारदाता खलङ्गा (दार्चुला), असोज १९ गते । राष्ट्रिय गौरवको आयोजनाका रूपमा रहेको महाकाली कोरिडोर अन्तर्गत ट्र्याक खोलिएको २८८.५ किलोमिटर क्षेत्रमा गाडी गुडेको छ । बर्सातका...",
    "link": "https://gorkhapatraonline.com/news/225482",
@@ -3212,73 +3172,6 @@
    ],
    "cat": "other",
    "val": 1,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "उत्पादन राम्रो, बजार पुर्‍याउन सकसः चुमनुब्रीका किसान चिन्तित",
-   "summary": "सुलीकोट (गोरखा), असोज १९ गते । गोरखाको हिमाली गाउँ चुमनुब्रीमा यतिबेला स्याउका बगैँचा राताम्मे बनेका छन्। बगैँचामा लटरम्म फलेका स्याउ टिप्ने सिजन सुरु भएसँगै किसान व्यस्त छन्। उत्प...",
-   "link": "https://gorkhapatraonline.com/news/225481",
-   "source": "Gorkhapatra",
-   "ts": 1791174536,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/386541/conversions/sau-photho-chumnubri-original.jpg",
-   "lang": "ne",
-   "hl": "उत्पादन राम्रो, बजार पुर्‍याउन सकसः चुमनुब्रीका किसान चिन्तित",
-   "en": "उत्पादन राम्रो, बजार पुर्‍याउन सकसः चुमनुब्रीका किसान चिन्तित",
-   "ne": "उत्पादन राम्रो, बजार पुर्‍याउन सकसः चुमनुब्रीका किसान चिन्तित",
-   "imp": 2,
-   "tags": [
-    "Agriculture",
-    "Farmers",
-    "ChumNubri"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "विधि विज्ञान प्रयोगशाला अवलोकन",
-   "summary": "मकवानपुर समाचारदातामकवानपुर, असोज १९ गते । बागमती प्रदेश सरकारका मुख्यमन्त्री किरण थापामगरले हेटौँडामा हालै सञ्चालनमा ल्याइएको नेपाल प्रहरी विधि विज्ञान प्रयोगशाला अवलोकन गर्नुभएको...",
-   "link": "https://gorkhapatraonline.com/news/225480",
-   "source": "Gorkhapatra",
-   "ts": 1791174522,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/386540/conversions/233-original.jpg",
-   "lang": "ne",
-   "hl": "विधि विज्ञान प्रयोगशाला अवलोकन",
-   "en": "विधि विज्ञान प्रयोगशाला अवलोकन",
-   "ne": "विधि विज्ञान प्रयोगशाला अवलोकन",
-   "imp": 2,
-   "tags": [
-    "ForensicLab",
-    "Police"
-   ],
-   "cat": "crime",
-   "val": 1,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "लालपुर्जाको पर्खाइमा पचास घरपरिवार",
-   "summary": "बनेपा समाचारदाताबनेपा, असोज १९ गते । घर छ, आँगन छ, अन्न उब्जाउने खेतबारी छ तर उक्त जमिन आफ्नो हो भन्ने प्रमाणका रूपमा हातमा जग्गाधनी प्रमाणपुर्जा (लालपुर्जा) छैन । काभ्रेपलाञ्चोकको...",
-   "link": "https://gorkhapatraonline.com/news/225478",
-   "source": "Gorkhapatra",
-   "ts": 1791174057,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/386538/conversions/3224-original.jpg",
-   "lang": "ne",
-   "hl": "लालपुर्जाको पर्खाइमा पचास घरपरिवार",
-   "en": "लालपुर्जाको पर्खाइमा पचास घरपरिवार",
-   "ne": "लालपुर्जाको पर्खाइमा पचास घरपरिवार",
-   "imp": 2,
-   "tags": [
-    "LandOwnership",
-    "Lalpurja"
-   ],
-   "cat": "society",
-   "val": 3,
    "teaser": false,
    "hits": 1
   },
@@ -3621,29 +3514,6 @@
    ],
    "cat": "society",
    "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "विराटनगरको बस्ती नजिकै दुर्लभ नीलगाई मृ*त फेला",
-   "summary": "विराटनगरको बस्तीनजिकै नीलगाई मृत भेटिनुको कारण भने खुलेको छैन।",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/rare-water-buffalo-found-dead-near-biratnagar-settlement-43-54.html",
-   "source": "Nagarik News",
-   "ts": 1791174538,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1791174517_nilgai.jpg",
-   "lang": "ne",
-   "hl": "विराटनगरको बस्ती नजिकै दुर्लभ नीलगाई मृ*त फेला",
-   "en": "विराटनगरको बस्ती नजिकै दुर्लभ नीलगाई मृ*त फेला",
-   "ne": "विराटनगरको बस्ती नजिकै दुर्लभ नीलगाई मृ*त फेला",
-   "imp": 2,
-   "tags": [
-    "Biratnagar",
-    "Nilgai",
-    "Wildlife"
-   ],
-   "cat": "disaster",
-   "val": 3,
    "teaser": false,
    "hits": 1
   },
@@ -4191,52 +4061,6 @@
    "hits": 1
   },
   {
-   "title": "१५औं महाधिवेशन र नेपाली कांग्रेसको भावी दिशा",
-   "summary": "नेपाली कांग्रेसको १५औं महाधिवेशन नेपालको समकालीन राजनीतिक यात्रामा चासोका साथ हेरिएको एउटा महत्त्वपूर्ण राजनीतिक घटना हो।...",
-   "link": "https://nagariknews.nagariknetwork.com/opinion/the-15th-general-convention-and-the-future-direction-of-the-nepali-congress-br-35-84.html",
-   "source": "Nagarik News",
-   "ts": 1791174269,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1791174371_hidu%2098%20oooooooooooooooo.jpg",
-   "lang": "ne",
-   "hl": "१५औं महाधिवेशन र नेपाली कांग्रेसको भावी दिशा",
-   "en": "१५औं महाधिवेशन र नेपाली कांग्रेसको भावी दिशा",
-   "ne": "१५औं महाधिवेशन र नेपाली कांग्रेसको भावी दिशा",
-   "imp": 3,
-   "tags": [
-    "NepaliCongress",
-    "GeneralConvention",
-    "कांग्रेस"
-   ],
-   "cat": "politics",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "नेसन्स लिग फुटबल : इजरायलविरुद्ध आयरिस खेलाडीको विरोधको शैली चर्चामा",
-   "summary": "आयरल्यान्ड फुटबल संघले व्यापक बहिष्कारको आह्वानपछि आइतबारको खेल डब्लिनबाट सारेर तटस्थ मैदानमा गराएको थियो। खेल दर्शकबिना खेलाइएको थियो।...",
-   "link": "https://nagariknews.nagariknetwork.com/sports/nations-league-football-irish-players-style-of-protest-against-israel-is-in-the-spotlight-86-79.html",
-   "source": "Nagarik News",
-   "ts": 1791174179,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1791174114_Ireland%20soccer%20players.jpg",
-   "lang": "ne",
-   "hl": "नेसन्स लिग फुटबल : इजरायलविरुद्ध आयरिस खेलाडीको विरोधको शैली चर्चामा",
-   "en": "नेसन्स लिग फुटबल : इजरायलविरुद्ध आयरिस खेलाडीको विरोधको शैली चर्चामा",
-   "ne": "नेसन्स लिग फुटबल : इजरायलविरुद्ध आयरिस खेलाडीको विरोधको शैली चर्चामा",
-   "imp": 1,
-   "tags": [
-    "NationsLeague",
-    "Israel",
-    "Ireland"
-   ],
-   "cat": "sports",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Flood Victims in Parbat Face Challenges with Lost Books and School Supplies",
    "summary": "Parbat. Books and stationery of Divash KC, a student studying in class 10 at Shiva Secondary School in Jalsjala Rural...",
    "link": "http://english.ratopati.com/story/82341/flood-affected-children-worry-about-bags-and-books-exams-are-coming-up-what-should-they-study-for",
@@ -4762,29 +4586,6 @@
    "val": 3,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "Discussion on Aryal's book, Nepal-Japan Sports Relations, held in Tokyo",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUlVzYTRSdGlISG1XbllYRWMyU3o2b0U2bXJGbDJzMVVkZVFlYUlWWDJoNF8xVG8wRmNJOEtLMVViQTVjN0djdmZQSFlfU0NadG9YRGJLZE02VWNZcDR3cVdIbld5MjluNFg4c3ZVckVyZTExVkpXRkh0a0VrbU8yUHF6bjYtdUo3UDJ4eWM3N2JvZkFTdWJydGhoVG9oNXFaUWs3UkZVSk1KQVFXUC1KRUkteWxmb3ZiTHJxMHBXZXM?oc=5",
-   "source": "myRepublica",
-   "ts": 1791174261,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Discussion on Aryal's book, Nepal-Japan Sports Relations, held in Tokyo",
-   "en": "Discussion on Aryal's book, Nepal-Japan Sports Relations, held in Tokyo",
-   "ne": "Discussion on Aryal's book, Nepal-Japan Sports Relations, held in Tokyo",
-   "imp": 2,
-   "tags": [
-    "Tokyo",
-    "NepalJapan",
-    "SportsRelations"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 3
   },
   {
    "title": "'Ba: Ek Yoddha' Tops Box Office Among Three New Releases",
@@ -8943,7 +8744,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "CPN Calls Central Coordination Committee Meeting Amidst Leader's New Campaign",
@@ -9286,7 +9087,7 @@
    "cat": "society",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "बेत्रावतीमा बिलाएकी मेरी उनी!",
@@ -9469,7 +9270,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Supreme Court orders government not to restrict children of Bhutanese refugees from leaving Nepal",
@@ -9996,20 +9797,32 @@
    "val": 3,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "थाइल्याण्डमा बाढीबाट मृ*त्यु हुनेको सङ्ख्या ३१ पुग्यो",
+   "summary": "सेप्टेम्बरको मध्यदेखि देशभर आएको बाढीबाट मृ*त्यु हुनेको सङ्ख्या ३१ पुगेपछि थाइल्याण्डका अधिकारीले थप वर्षा र आकस्मिक बाढीको जोखिमबारे चेतावनी दिएका छन्।...",
+   "link": "https://nagariknews.nagariknetwork.com/international/death-toll-from-thailand-floods-reaches-31-br-64-87.html",
+   "source": "Nagarik News",
+   "ts": 1791202808,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2026/third-party/1791202800_THAI%20019.jpg",
+   "lang": "ne",
+   "hl": "थाइल्याण्डमा बाढीबाट मृ*त्यु हुनेको सङ्ख्या ३१ पुग्यो",
+   "en": "थाइल्याण्डमा बाढीबाट मृ*त्यु हुनेको सङ्ख्या ३१ पुग्यो",
+   "ne": "थाइल्याण्डमा बाढीबाट मृ*त्यु हुनेको सङ्ख्या ३१ पुग्यो",
+   "imp": 1,
+   "tags": [
+    "Thailand",
+    "Flood",
+    "Deaths"
+   ],
+   "cat": "world",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1790598064.104644,
-   "en": "Power outage of 1,000 MW due to floods and landslides, says Energy Minister",
-   "ne": "बाढी-पहिरोका कारण एक हजार मेगावाट विद्युत् उत्पादन अवरुद्ध भयो : ऊर्जामन्त्री",
-   "link": "https://www.onlinekhabar.com/2026/09/2027836/1000-megawatts-of-electricity-generation-disrupted-due-to-floods-and-landslides-energy-minister",
-   "source": "Onlinekhabar",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": true,
-   "cat": "disaster"
-  },
   {
    "ts": 1790598681.2910564,
    "en": "Floods and landslides knock out 620 MW of power system",
@@ -13562,7 +13375,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1791202921,
+ "updated": 1791203494,
  "pending_since": 1791202849.1585312,
  "fb_blocks": [
   1790350880.4125228,
