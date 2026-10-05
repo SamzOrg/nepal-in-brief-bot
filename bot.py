@@ -58,6 +58,8 @@ EN_SIBLING     = {  # Nepali outlet -> its own English edition(s) (feed names, o
     "Gorkhapatra":    {"Rising Nepal"},
     "Nagarik News":   {"myRepublica", "My Republica", "Republica", "Google News Republica"},
 }
+NE_DROP_IG_ONLY = {"Onlinekhabar", "Khabarhub", "Annapurna Post", "Ratopati"}  # Instagram-only mode: these
+                        # Nepali feeds are not read at all, their own English editions are used instead
 SIBLING_PENALTY = 1.0   # Instagram-only mode: while the English edition of the SAME outlet has a story waiting,
                         # that outlet's Nepali stories rank this many impact points lower. Other outlets unaffected.
 TOPIC_PENALTY  = 0.75   # each recent same-topic post lowers a story's score by this much (impact is 1-5)
@@ -1096,7 +1098,8 @@ def main():
 
     # 1. fetch + drop anything already seen / queued / posted
     with ThreadPoolExecutor(8) as ex:
-        items = [i for batch in ex.map(fetch, FEEDS) for i in batch]
+        feeds = [f for f in FEEDS if not (IG_ONLY and f[0] in NE_DROP_IG_ONLY)]
+        items = [i for batch in ex.map(fetch, feeds) for i in batch]
     known = set(seen) | {q["link"] for q in queue} | {p["link"] for p in posted}
     fresh = {}
     for it in sorted(items, key=lambda i: -i["ts"]):
@@ -1182,6 +1185,9 @@ def main():
                             target[k] = b[k]
                 continue
             queue.append({**b, "hits": 1})
+
+    if IG_ONLY:  # drop stories queued earlier from the Nepali feeds that are now skipped
+        queue[:] = [q for q in queue if q["source"] not in NE_DROP_IG_ONLY]
 
     # 4. post the top stories: most-covered first, then the outlet we've used least recently
     #    (so the feed mixes Onlinekhabar, Setopati, Ratopati, Nagarik, KP...), then trusted, then newest
