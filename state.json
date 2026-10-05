@@ -3092,7 +3092,12 @@
   "https://gorkhapatraonline.com/news/225511": 1791186650.2621803,
   "https://baahrakhari.com/detail/503818": 1791186650.2621803,
   "http://english.ratopati.com/story/82368/discussion-on-advance-ticket-booking-for-dashain-on-tuesday": 1791186650.2621803,
-  "http://english.ratopati.com/story/82367/meeting-of-the-national-council-for-disaster-risk-reduction-and-management-who-said-what": 1791186650.2621803
+  "http://english.ratopati.com/story/82367/meeting-of-the-national-council-for-disaster-risk-reduction-and-management-who-said-what": 1791186650.2621803,
+  "http://english.ratopati.com/story/82373/this-is-the-political-proposal-presented-by-president-gagan-thapa-at-the-closing-session-of-the-nepali-congress-general-convention-with-full-text": 1791187286.051922,
+  "https://baahrakhari.com/detail/503822": 1791187286.051922,
+  "https://kathmandupost.com/world/2026/10/05/spanish-pm-sanchez-calls-snap-election-for-november-29": 1791187286.051922,
+  "https://risingnepaldaily.com/news/87419": 1791187286.051922,
+  "https://nagariknews.nagariknetwork.com/social-affairs/children-suffer-from-reading-difficulties-after-losing-books-34-72.html": 1791187286.051922
  },
  "queue": [
   {
@@ -3186,29 +3191,6 @@
    "val": 2,
    "teaser": false,
    "hits": 4
-  },
-  {
-   "title": "Weather Forecast: Dual Influence of Monsoon and Westerly Winds Across Nepal",
-   "summary": "Kathmandu. The Department of Hydrology and Meteorology has stated that there is currently a dual influence of monsoon and westerly...",
-   "link": "http://english.ratopati.com/story/82295/partly-cloudy-in-the-terai-possibility-of-rain-and-snowfall-in-the-hills-and-mountains",
-   "source": "Ratopati EN",
-   "ts": 1791158281,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/kn_dang_rss_17_1000267002_t2g87IrN4I.webp",
-   "lang": "en",
-   "hl": "Weather Forecast: Dual Influence of Monsoon and Westerly Winds Across Nepal",
-   "en": "Weather Forecast: Dual Influence of Monsoon and Westerly Winds Across Nepal",
-   "ne": "Weather Forecast: Dual Influence of Monsoon and Westerly Winds Across Nepal",
-   "imp": 3,
-   "tags": [
-    "WeatherForecast",
-    "Monsoon",
-    "WesterlyWinds"
-   ],
-   "cat": "disaster",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
   },
   {
    "title": "Will the Mechanism Proposed by Balen Be Acceptable to China?",
@@ -5264,7 +5246,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 5
+   "hits": 6
   },
   {
    "title": "फ्रान्समा विद्यार्थी आन्दोलन चर्कियो, सोमबार ५०० सम्म विद्यालय बन्द हुन सक्ने",
@@ -6871,7 +6853,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 5
+   "hits": 6
   },
   {
    "title": "मनासलु पदमार्ग धमाधम मर्मत हुँदै",
@@ -9272,6 +9254,52 @@
    ],
    "cat": "society",
    "val": 2,
+   "teaser": true,
+   "hits": 1
+  },
+  {
+   "title": "Chor Khola landslide blocks Rapti highway",
+   "summary": "By Shankar KC, Salyan, Oct 5: Vehicular movement has been disrupted in Kapurkot-Tulsipur road section along the Rapti Hi...",
+   "link": "https://risingnepaldaily.com/news/87419",
+   "source": "Rising Nepal",
+   "ts": 1791186633,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "Chor Khola landslide blocks Rapti highway",
+   "en": "Chor Khola landslide blocks Rapti highway",
+   "ne": "Chor Khola landslide blocks Rapti highway",
+   "imp": 4,
+   "tags": [
+    "Landslide",
+    "RaptiHighway",
+    "पहिरो"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "बाढीले किताब बगायो, अब पढाइ के हुन्छ ?",
+   "summary": "कालीगण्डकी बाढीले बगेको पर्वतको फर्सेस्थित शिव माविमा पढ्ने ४० विद्यार्थीको कापी कलम र किताबसहित विद्यालय पोसाक बगेको छ।...",
+   "link": "https://nagariknews.nagariknetwork.com/social-affairs/children-suffer-from-reading-difficulties-after-losing-books-34-72.html",
+   "source": "Nagarik News",
+   "ts": 1791184775,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2026/third-party/1791185345_hidu%2089.jpg",
+   "lang": "ne",
+   "hl": "बाढीले किताब बगायो, अब पढाइ के हुन्छ ?",
+   "en": "बाढीले किताब बगायो, अब पढाइ के हुन्छ ?",
+   "ne": "बाढीले किताब बगायो, अब पढाइ के हुन्छ ?",
+   "imp": 3,
+   "tags": [
+    "Flood",
+    "Education",
+    "बाढी"
+   ],
+   "cat": "society",
+   "val": 1,
    "teaser": true,
    "hits": 1
   }
@@ -12851,8 +12879,8 @@
    "cat": "disaster"
   }
  ],
- "updated": 1791186658,
- "pending_since": null,
+ "updated": 1791187292,
+ "pending_since": 1791187286.051922,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
