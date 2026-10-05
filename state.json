@@ -3079,7 +3079,12 @@
   "https://nagariknews.nagariknetwork.com/politics/minister-shrestha-directs-to-facilitate-the-system-of-paying-electricity-bills-digitally-from-mobile-phones-53-63.html": 1791176485.2897809,
   "https://gorkhapatraonline.com/news/225486": 1791176485.2897809,
   "https://nagariknews.nagariknetwork.com/social-affairs/rare-water-buffalo-found-dead-near-biratnagar-settlement-43-54.html": 1791176485.2897809,
-  "https://gorkhapatraonline.com/news/225485": 1791176485.2897809
+  "https://gorkhapatraonline.com/news/225485": 1791176485.2897809,
+  "https://www.ratopati.com/story/597250/fire-at-kawadi-warehouse-in-bhaktapur-causes-damage-of-around-rs-5-million": 1791177047.2084227,
+  "https://www.ratopati.com/story/597249/congress-central-committee-meeting-begins-in-open-forum": 1791177047.2084227,
+  "https://www.onlinekhabar.com/2026/10/2032470/congress-general-convention-central-working-committee-meets-in-open-forum-to-set-agenda-for-closed-session": 1791177047.2084227,
+  "https://news.google.com/rss/articles/CBMif0FVX3lxTFBzQXMzdUZsa2ZfNVNKcHFHZG81ZnJkRmNiN1lxS0lxSV9aVEpabHpGNTdFWGJfS1ItZ0xLMm1VNFV4dlFoV1JlVFk1b0Utb3ZUcEpVS092MDc0RUJDMDVIMF9pMHhRd3VjNTQwNnFZVUpNTE1Ha0JRTHBBdG9Ld2M?oc=5": 1791177047.2084227,
+  "https://www.setopati.com/politics/399998": 1791177047.2084227
  },
  "queue": [
   {
@@ -4114,30 +4119,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 3
-  },
-  {
-   "title": "Dahal: Gaganji Led the Nepali Congress Toward a New History",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPXzdMSVR0Y2ZqdTFLVXVmRXpnNW9FY2VhZjBsb01RY2wxdUZuMWR1cE9nc0ppRUkyUzl6RUI1VW8tZDdWNWszWkpfV0JXSGJLdWN6QXRGSU5ldXAxQ3lLZ2w3a1Byd0E4WldDXzE0dDlHTG9aTHBISFBrLThOTEtNdXlsSE5HTGxXT3M3MXQ0cXhWQnpWWnd1eHZvZ2NXamdSSnBNcmVvMDMxc3Z6eE5sMA?oc=5",
-   "source": "Ekantipur",
-   "ts": 1791147832,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Dahal: Gaganji Led the Nepali Congress Toward a New History",
-   "en": "Dahal: Gaganji Led the Nepali Congress Toward a New History",
-   "ne": "Dahal: Gaganji Led the Nepali Congress Toward a New History",
-   "imp": 3,
-   "tags": [
-    "PushpaKamalDahal",
-    "GaganThapa",
-    "NepaliCongress"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
+   "hits": 5
   },
   {
    "title": "पाकिस्तानमा इमरान खानलाई रिहा गर्न माग गर्दै लङ मार्च",
@@ -6041,7 +6023,7 @@
    "cat": "disaster",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "विश्व अण्डा दिवस : पहेँलो भाग खानुहुन्न भन्ने सोच बदलिँदै, के भन्छन् विज्ञ ?",
@@ -8332,17 +8314,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1790571686.480753,
-   "en": "Myagdi landslide kills six, including 5‑year‑old girl, 78 rescued",
-   "ne": "म्याग्दी पहिरो : पाँच वर्षीया बालिकासहित ६ जनाको श*व फेला, ७८ को उद्धार",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/myagdi-landslide-bodies-of-6-people-including-a-five-year-old-girl-found-78-rescued-32-79.html",
-   "source": "Nagarik News",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "disaster"
-  },
   {
    "ts": 1790573471.3592,
    "en": "South Korea angry with Ukraine for breaking secret pact on transfer of North Korean war prisoners",
@@ -11939,7 +11910,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1791176495,
+ "updated": 1791177053,
  "pending_since": 1791176485.2897809,
  "fb_blocks": [
   1790350880.4125228,
