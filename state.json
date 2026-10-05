@@ -1,9 +1,5 @@
 {
  "seen": {
-  "https://gorkhapatraonline.com/news/225216": 1790995244.1871655,
-  "https://www.ratopati.com/story/596805/two-killed-one-injured-in-motorcycle-accident-in-morang": 1790995244.1871655,
-  "https://khabarhub.com/2026/03/1032434/": 1790995244.1871655,
-  "http://english.ratopati.com/story/82043/two-killed-one-injured-in-motorcycle-accident-in-morang": 1790995244.1871655,
   "https://baahrakhari.com/detail/503574": 1790995851.8163502,
   "https://www.setopati.com/social/399837": 1790995851.8163502,
   "http://annapurnapost.com/story/508858": 1790995851.8163502,
@@ -3038,7 +3034,12 @@
   "https://risingnepaldaily.com/news/87404": 1791167465.102197,
   "https://www.ratopati.com/story/597222/gagan-puts-forward-the-vision-of-the-coming-decade-of-national-renaissance-and-prosperity": 1791167465.102197,
   "http://english.ratopati.com/story/82309/gagan-puts-forward-the-vision-of-the-coming-decade-of-national-renaissance-and-prosperity": 1791167465.102197,
-  "https://risingnepaldaily.com/news/87402": 1791167465.102197
+  "https://risingnepaldaily.com/news/87402": 1791167465.102197,
+  "https://gorkhapatraonline.com/news/225460": 1791168047.9599519,
+  "https://theannapurnaexpress.com/story/67650": 1791168047.9599519,
+  "https://gorkhapatraonline.com/news/225461": 1791168047.9599519,
+  "https://www.onlinekhabar.com/2026/10/2032394/natural-scenery-of-barekot-including-ramidanda-the-epicenter-of-the-earthquake-photos": 1791168047.9599519,
+  "https://theannapurnaexpress.com/story/67653": 1791168047.9599519
  },
  "queue": [
   {
@@ -3064,53 +3065,6 @@
    "val": 2,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "Luxury watch showroom heist triggers massive manhunt across states and into Nepal",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOYTNacUpReTdlODBOUDc3SkY4X3A4MjRsZmlTcEFTTW1kMzdrQ1MwYXNJa0l3bDduQ1d4VHB2Y1hBNEhNZ3F2dVNUT2xRZm56ZG04a2pWcE1EcTFneVlFbEZ1cTdLSTZ2eGNVZ2JpTUV4a01ZU2s2bWR0cDRWWkVjMmo2WGZPTGxLMzVSN0x0NGhvRzBXdGFxMUdmTjBUZWI4WkRYM0JyX0p3dmdHd2syQlpmbUt6MmpTb25XWTdFVWhnYVBrQUJIQlg2b2ZHUE5QczRjcUZhZmpNNGdaOHRkeXJmNzRDdmNwQmFJ0gHwAUFVX3lxTE5MS2d4d0lHSDd0WkhJdEROcmQ4dWl3Qi1qM082M21ZNGh1Q1IxcVRoV042QjNZazhka2xVckpRQ0V4Q3F1QVBKdElFZlJ5ekVyU1pxSko2bENMNmdjcERGd29LbE9LdlJnbklVQmhqZWZDUzNmYmJrY0Qzb1dXaUJkZWIyQlVpX0RFTmZHUVNyUjg1YUNnSm5kREFvNi1TZWhLSzJGcm1MWlFyUWlTek1KVWtUNW5hVzhXcWdaR2gzM3oteFdBR041UnJXVGdlcEo5LWVITFpLNTJSTWlhV20wbHd6TDh4SHpubkwteTMtRg?oc=5",
-   "source": "The Times of India",
-   "ts": 1791139140,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Luxury watch showroom heist triggers massive manhunt across states and into Nepal",
-   "en": "Luxury watch showroom heist triggers massive manhunt across states and into Nepal",
-   "ne": "Luxury watch showroom heist triggers massive manhunt across states and into Nepal",
-   "imp": 2,
-   "tags": [
-    "WatchHeist",
-    "Police",
-    "Crime"
-   ],
-   "cat": "crime",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "वर्षाका कारण अवरुद्ध सडक दसैँअघि नै सञ्चालनमा आउने",
-   "summary": "बागमती । वर्षाका कारण गत असारदेखि सवारीसाधन आवतजावत रोकिएको बकैया गाउँपालिका-६ सुदादेखि ज्यामिरेसम्मको बाटो दसैँअघि नै सञ्चालनमा ल्याउने गरी मर्मत गर्न थालिएको छ । वर्षाको समयमा उक्त सडकखण्डमा पर्ने ज्यामिरे खोलामा...",
-   "link": "https://www.ratopati.com/story/597179/road-blocked-due-to-rain-to-be-operational-before-dashain",
-   "source": "Ratopati",
-   "ts": 1791138987,
-   "weight": 3,
-   "img": "https://rpcdn.ratopati.com/media/albums/makawanpur_u1HVdNoaEH.jpg",
-   "lang": "ne",
-   "hl": "वर्षाका कारण अवरुद्ध सडक दसैँअघि नै सञ्चालनमा आउने",
-   "en": "वर्षाका कारण अवरुद्ध सडक दसैँअघि नै सञ्चालनमा आउने",
-   "ne": "वर्षाका कारण अवरुद्ध सडक दसैँअघि नै सञ्चालनमा आउने",
-   "imp": 4,
-   "tags": [
-    "Rain",
-    "Highway",
-    "सडक",
-    "Dashain"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "भोटेकोशी बाढी: रसुवाका ४५ विद्यार्थी अझै सम्पर्कविहीन",
@@ -3432,7 +3386,7 @@
    "cat": "world",
    "val": 3,
    "teaser": false,
-   "hits": 3
+   "hits": 4
   },
   {
    "title": "नेपालगन्जमा सहुलियत दरमा चामल बिक्री",
@@ -4678,7 +4632,7 @@
    "cat": "disaster",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "युक्रेनमा रुसको ड्रोन आक्रमण जारी, किभका दुई प्रमुख पुलमा प्रहार",
@@ -6070,20 +6024,78 @@
    "val": 3,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "बाढीपहिरोले मध्यपहाडी लोकमार्गमा क्षति, पुनर्निर्माणमा ३० करोड लाग्ने",
+   "summary": "गोरखापत्र समाचारदाताबागलुङ, असोज १९ गते । असोज ८ देखि ११ गतेसम्म परेको अविरल वर्षासँगै आएको बाढीपहिरोबाट बागलुङमा सबैभन्दा बढी पूर्वाधारमा क्षति पुगेको छ। बाढीपहिरोबाट जिल्लामा करो...",
+   "link": "https://gorkhapatraonline.com/news/225461",
+   "source": "Gorkhapatra",
+   "ts": 1791167908,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/386518/conversions/baglung-original.jpg",
+   "lang": "ne",
+   "hl": "बाढीपहिरोले मध्यपहाडी लोकमार्गमा क्षति, पुनर्निर्माणमा ३० करोड लाग्ने",
+   "en": "बाढीपहिरोले मध्यपहाडी लोकमार्गमा क्षति, पुनर्निर्माणमा ३० करोड लाग्ने",
+   "ne": "बाढीपहिरोले मध्यपहाडी लोकमार्गमा क्षति, पुनर्निर्माणमा ३० करोड लाग्ने",
+   "imp": 4,
+   "tags": [
+    "MadhyapahadiHighway",
+    "Landslide",
+    "बाढीपहिरो"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "भूकम्पको केन्द्र रामीडाँडासहित बारेकोटको प्राकृतिक दृश्य",
+   "summary": "बारेकोटको लिम्सा र आसपासका क्षेत्र पहाडी भूगोल, डाँडाकाँडा, हरियाली र प्राकृतिक सौन्दर्यले भरिपूर्ण छन्। यहाँको भौगोलिक बनावट र प्राकृतिक वातावरणले पर्यटकीय सम्भावना बोकेको छ।",
+   "link": "https://www.onlinekhabar.com/2026/10/2032394/natural-scenery-of-barekot-including-ramidanda-the-epicenter-of-the-earthquake-photos",
+   "source": "Onlinekhabar",
+   "ts": 1791167388,
+   "weight": 3,
+   "img": "https://www.onlinekhabar.com/wp-content/uploads/2026/10/rami-danda-1230.jpg",
+   "lang": "ne",
+   "hl": "भूकम्पको केन्द्र रामीडाँडासहित बारेकोटको प्राकृतिक दृश्य",
+   "en": "भूकम्पको केन्द्र रामीडाँडासहित बारेकोटको प्राकृतिक दृश्य",
+   "ne": "भूकम्पको केन्द्र रामीडाँडासहित बारेकोटको प्राकृतिक दृश्य",
+   "imp": 2,
+   "tags": [
+    "Earthquake",
+    "Jajarkot",
+    "Ramidanda"
+   ],
+   "cat": "society",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Brazil election goes to run-off as right-wing Flávio Bolsonaro wins first round",
+   "summary": "The right-wing Flavio Bolsonaro has won the first round of Brazil's presidential election, beating the incumbent left-wing President Lula da Silva. But he did not obtain more than 50% of the votes required to win...",
+   "link": "https://theannapurnaexpress.com/story/67653",
+   "source": "Annapurna Express",
+   "ts": 1791153649.2957354,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "Brazil election goes to run-off as right-wing Flávio Bolsonaro wins first round",
+   "en": "Brazil election goes to run-off as right-wing Flávio Bolsonaro wins first round",
+   "ne": "Brazil election goes to run-off as right-wing Flávio Bolsonaro wins first round",
+   "imp": 1,
+   "tags": [
+    "Brazil",
+    "Election",
+    "FlavioBolsonaro"
+   ],
+   "cat": "world",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1790562675.0426998,
-   "en": "Iran captured a second US underwater drone in Hormuz?",
-   "ne": "इरानले होर्मुजमा दोस्रो अमेरिकी अन्डरवाटर ड्रोन कब्जा गरेको हो ?",
-   "link": "https://baahrakhari.com/detail/502963",
-   "source": "Baahrakhari",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "world"
-  },
   {
    "ts": 1790564489.3390245,
    "en": "From Nepal to India, how AI is improving disaster management",
@@ -9680,7 +9692,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1791167496,
+ "updated": 1791168053,
  "pending_since": 1791167465.102197,
  "fb_blocks": [
   1790350880.4125228,
