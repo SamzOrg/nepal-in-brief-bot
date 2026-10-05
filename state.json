@@ -3009,7 +3009,8 @@
   "https://khabarhub.com/2026/05/1033259/": 1791162891.011736,
   "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQXh1cXJ5eDkzQkNqTFdMdUlQTFRfTllwdEIwZ0I1OEdheTJsRktOcXlYelllWkJzR3hyMU9iYlN4bmxvakhsQ0JkeEVCamY3M0l1X2FFc3A5R3N1bVBCZnRLNXdQVFlwVDZhVEpZTUFTWUJhbU5xVG9KMlhuZjhCZ3drVVNobFYwU2Qzd2Z5R2NyX3NfeGZ5WTFPOFlBUnVZQWVvNmZkcEtrZWQzUzRHa0xBNVB5UQ?oc=5": 1791162891.011736,
   "https://nagariknews.nagariknetwork.com/social-affairs/bhotekoshi-flood-45-students-from-rasuwa-still-without-contact-34-92.html": 1791162891.011736,
-  "http://lokaantar.com/story/330489/2026/10/5/chamal-": 1791162891.011736
+  "http://lokaantar.com/story/330489/2026/10/5/chamal-": 1791162891.011736,
+  "http://english.ratopati.com/story/82298/domestic-footwear-and-sandal-industry-facing-disaster-ahead-of-dashain": 1791163241.9885578
  },
  "queue": [
   {
@@ -3120,29 +3121,6 @@
    ],
    "cat": "politics",
    "val": 2,
-   "teaser": false,
-   "hits": 4
-  },
-  {
-   "title": "कांग्रेस महाधिवेशन : आज मतदाता नामावली प्रकाशन हुँदै",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/503766",
-   "source": "Baahrakhari",
-   "ts": 1791137681,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "कांग्रेस महाधिवेशन : आज मतदाता नामावली प्रकाशन हुँदै",
-   "en": "कांग्रेस महाधिवेशन : आज मतदाता नामावली प्रकाशन हुँदै",
-   "ne": "कांग्रेस महाधिवेशन : आज मतदाता नामावली प्रकाशन हुँदै",
-   "imp": 3,
-   "tags": [
-    "NepaliCongress",
-    "VoterList",
-    "महाधिवेशन"
-   ],
-   "cat": "politics",
-   "val": 3,
    "teaser": false,
    "hits": 4
   },
@@ -3909,28 +3887,6 @@
    "hits": 1
   },
   {
-   "title": "Why climate security must matter to Nepal's diplomacy",
-   "summary": "The Trishuli valley has been a trade and pilgrimage route for centuries, linking Nepal with China. On August 26, it became the path of one of the most devastating mountain disasters in recent years. A rapid slope...",
-   "link": "https://english.onlinekhabar.com/climate-security-diplomacy.html",
-   "source": "Onlinekhabar EN",
-   "ts": 1791159300,
-   "weight": 3,
-   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/09/Rasuwa-flood-syaphrubesi-bhotekoshi-16-1024x683.jpg",
-   "lang": "en",
-   "hl": "Why climate security must matter to Nepal's diplomacy",
-   "en": "Why climate security must matter to Nepal's diplomacy",
-   "ne": "Why climate security must matter to Nepal's diplomacy",
-   "imp": 3,
-   "tags": [
-    "ClimateSecurity",
-    "NepalDiplomacy"
-   ],
-   "cat": "world",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
-  },
-  {
    "title": "Airlines Prioritize Foreign Tourists Over Nepalis Amidst Road Disruption",
    "summary": "Pokhara. Aditya Rasaili, secretary of the Mustang Journalists Association, who wanted to come to Pokhara for urgent work, reached the...",
    "link": "http://english.ratopati.com/story/82296/the-plane-to-mustang-only-carries-foreigners-nepalis-are-not-allowed-to-fly-even-if-they-pay",
@@ -4449,6 +4405,30 @@
     "TrafficPolice"
    ],
    "cat": "society",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Shoe and Footwear Market Impacted by Floods, Prices to Remain Stable",
+   "summary": "Kathmandu. The floods in Bhote Koshi on August 26 and subsequent landslides have also affected the domestic shoe and footwear...",
+   "link": "http://english.ratopati.com/story/82298/domestic-footwear-and-sandal-industry-facing-disaster-ahead-of-dashain",
+   "source": "Ratopati EN",
+   "ts": 1791162900,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/jutta_ueHuN8IYGB.jpg",
+   "lang": "en",
+   "hl": "Shoe and Footwear Market Impacted by Floods, Prices to Remain Stable",
+   "en": "Shoe and Footwear Market Impacted by Floods, Prices to Remain Stable",
+   "ne": "Shoe and Footwear Market Impacted by Floods, Prices to Remain Stable",
+   "imp": 3,
+   "tags": [
+    "ShoeMarket",
+    "Floods",
+    "Inflation",
+    "जुत्ता"
+   ],
+   "cat": "economy",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -8071,9 +8051,20 @@
    "n_ig": 1,
    "brk": true,
    "cat": "disaster"
+  },
+  {
+   "ts": 1791163285.1123216,
+   "en": "Ice-rock avalanche strikes Trishuli valley on August 26",
+   "ne": "Ice-rock avalanche strikes Trishuli valley on August 26",
+   "link": "https://english.onlinekhabar.com/climate-security-diplomacy.html",
+   "source": "Onlinekhabar EN",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "world"
   }
  ],
- "updated": 1791162894,
+ "updated": 1791163299,
  "pending_since": 1791162891.011736,
  "fb_blocks": [
   1790350880.4125228,
