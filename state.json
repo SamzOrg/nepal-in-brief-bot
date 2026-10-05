@@ -1,6 +1,5 @@
 {
  "seen": {
-  "http://lokaantar.com/story/330345/2026/10/3/haiti-": 1790988645.616476,
   "https://baahrakhari.com/detail/503566": 1790989274.1631591,
   "https://www.setopati.com/social/399831": 1790989274.1631591,
   "https://english.khabarhub.com/2026/03/570426/": 1790989851.2076309,
@@ -2994,55 +2993,15 @@
   "https://risingnepaldaily.com/news/87400": 1791160847.4209425,
   "https://www.onlinekhabar.com/2026/10/2032361/congress-15th-general-convention-closed-session-from-today-election-program-also-begins": 1791160847.4209425,
   "http://annapurnapost.com/story/508973": 1791160847.4209425,
-  "http://lokaantar.com/story/330483/2026/10/5/accident-": 1791160847.4209425
+  "http://lokaantar.com/story/330483/2026/10/5/accident-": 1791160847.4209425,
+  "https://www.setopati.com/politics/399980": 1791161446.127525,
+  "https://nagariknews.nagariknetwork.com/politics/emphasis-should-be-placed-on-skills-research-and-innovation-along-with-education-minister-pun-87-12.html": 1791161446.127525,
+  "https://baahrakhari.com/detail/503769": 1791161446.127525,
+  "https://nagariknews.nagariknetwork.com/social-affairs/a-thousand-sheep-arrive-in-mustang-strewn-with-snow-62-99.html": 1791161446.127525,
+  "https://www.ratopati.com/story/597205/nepali-congress-central-working-committee-meeting-held-in-open-forum": 1791161446.127525,
+  "http://lokaantar.com/story/330484/2026/10/5/flood-": 1791161446.127525
  },
  "queue": [
-  {
-   "title": "सिफारिस बाहिरकालाई १५ औँ महाधिवेशन प्रतिनिधिबाट हटाउन लोकतान्त्रिक शेर्पा संघको माग",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/503763",
-   "source": "Baahrakhari",
-   "ts": 1791132393,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "सिफारिस बाहिरकालाई १५ औँ महाधिवेशन प्रतिनिधिबाट हटाउन लोकतान्त्रिक शेर्पा संघको माग",
-   "en": "सिफारिस बाहिरकालाई १५ औँ महाधिवेशन प्रतिनिधिबाट हटाउन लोकतान्त्रिक शेर्पा संघको माग",
-   "ne": "सिफारिस बाहिरकालाई १५ औँ महाधिवेशन प्रतिनिधिबाट हटाउन लोकतान्त्रिक शेर्पा संघको माग",
-   "imp": 3,
-   "tags": [
-    "NC15thConvention",
-    "SherpaSangh",
-    "कांग्रेस"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "घरअगाडि भेटियो अत्यन्त विषालु रसेल भाइपर, एकैदिन तीन सर्पको उद्धार",
-   "summary": "गजेन्द्र गुरुङखजुरा (बाँके), असोज १८ गते । कोहलपुर नगर प्रहरीले आइतबार अत्यन्तै विषालु सर्प रसेल भाइपरसहित तीन वटा विषालु सर्पको उद्धार गरेको छ । कोहलपुर नगरपालिका वडा नम्बर २ स्थि...",
-   "link": "https://gorkhapatraonline.com/news/225426",
-   "source": "Gorkhapatra",
-   "ts": 1791132335,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/386477/conversions/rasel-bhaipar-sarpa-original.jpg",
-   "lang": "ne",
-   "hl": "घरअगाडि भेटियो अत्यन्त विषालु रसेल भाइपर, एकैदिन तीन सर्पको उद्धार",
-   "en": "घरअगाडि भेटियो अत्यन्त विषालु रसेल भाइपर, एकैदिन तीन सर्पको उद्धार",
-   "ne": "घरअगाडि भेटियो अत्यन्त विषालु रसेल भाइपर, एकैदिन तीन सर्पको उद्धार",
-   "imp": 2,
-   "tags": [
-    "SnakeRescue",
-    "RussellViper",
-    "सर्प"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
   {
    "title": "स्वास्थ्य शिविरबाट चार सय जना लाभान्वित",
    "summary": "पर्सा । बाराको परवानीपुर गाउँपालिका-१, बुनियादमा आयोजित निःशुल्क आँखा तथा दन्त स्वास्थ्य शिविरबाट चार सय जना लाभान्वित भएका छन् । एलएस हस्पिटल एन्ड मेडिकल कलेजको सहयोगमा आयोजित शिविरमा स्थानीयवासीको आँखा तथा दाँतको...",
@@ -3406,7 +3365,7 @@
    "cat": "disaster",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "मोटरसाइकल दुर्घटनामा एकको मृत्यु",
@@ -3429,7 +3388,7 @@
    "cat": "crime",
    "val": 2,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "Nepal floods: Wait continues for kin of Telangana natives",
@@ -3500,7 +3459,7 @@
    "cat": "education",
    "val": 1,
    "teaser": true,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Nepali national killed and another critically injured after Streetlight pole collapses during Ganesha Immersion procession in Marathahalli Bengaluru",
@@ -3959,7 +3918,7 @@
    "cat": "culture",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "परीक्षामा कांग्रेस",
@@ -4115,29 +4074,6 @@
    ],
    "cat": "disaster",
    "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Kathmandu braces for 1.5M Dashain exodus",
-   "summary": "By A Staff ReporterKathmandu, Oct. 5: Around 1.5 million people are expected to leave Kathmandu Valley for their hometow...",
-   "link": "https://risingnepaldaily.com/news/87396",
-   "source": "Rising Nepal",
-   "ts": 1791159151,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Kathmandu braces for 1.5M Dashain exodus",
-   "en": "Kathmandu braces for 1.5M Dashain exodus",
-   "ne": "Kathmandu braces for 1.5M Dashain exodus",
-   "imp": 4,
-   "tags": [
-    "Kathmandu",
-    "Dashain",
-    "Migration"
-   ],
-   "cat": "society",
-   "val": 3,
    "teaser": false,
    "hits": 1
   },
@@ -7888,9 +7824,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "sports"
+  },
+  {
+   "ts": 1791161453.5714896,
+   "en": "1.5M expected to leave Kathmandu for Dashain festival",
+   "ne": "1.5M expected to leave Kathmandu for Dashain festival",
+   "link": "https://risingnepaldaily.com/news/87396",
+   "source": "Rising Nepal",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "society"
   }
  ],
- "updated": 1791160854,
+ "updated": 1791161466,
  "pending_since": 1791160847.4209425,
  "fb_blocks": [
   1790350880.4125228,
