@@ -1,8 +1,5 @@
 {
  "seen": {
-  "http://english.ratopati.com/story/82058/the-festival-of-maternal-love-ie-jitiya": 1791001861.4692037,
-  "https://kathmandupost.com/national/2026/10/03/six-killed-12-injured-as-bus-crashes-in-nawalparasi-east": 1791001861.4692037,
-  "http://annapurnapost.com/story/508866": 1791001861.4692037,
   "https://www.ratopati.com/story/596823/g-7-nations-agree-to-bring-100-million-barrels-of-oil-to-market": 1791002446.7423751,
   "https://news.google.com/rss/articles/CBMigwFBVV95cUxOR21ZWE8xOU9pN2wtRDl5WVcxRzkxbGxFNE9CRkFDNlExUkNUWl9SNzVRUVVQMkxTNnFvYjFPVXRTcWY1dTlCdlZjeUlxa3g4bzBNbW56VFZGM2dxZHBXWjJTMlpJbDRiQUtJaHNNNEpKV2h6S1FYVkFPTkVIWFp3cTRHUQ?oc=5": 1791002446.7423751,
   "https://nagariknews.nagariknetwork.com/politics/finance-minister-wagle-departs-for-america-55-50.html": 1791002446.7423751,
@@ -3056,7 +3053,11 @@
   "https://www.onlinekhabar.com/2026/10/2032444/preparations-to-open-jeep-safari-in-chitwan-national-park-from-23-asoj": 1791174047.6239657,
   "https://nagariknews.nagariknetwork.com/politics/an-open-platform-is-needed-in-parliament-and-parties-88-22.html": 1791174047.6239657,
   "https://theannapurnaexpress.com/story/67658": 1791174047.6239657,
-  "https://english.onlinekhabar.com/vip-prisoners-dillibazar-jail.html": 1791174047.6239657
+  "https://english.onlinekhabar.com/vip-prisoners-dillibazar-jail.html": 1791174047.6239657,
+  "https://english.onlinekhabar.com/pandey-nepali-congress-vice-president.html": 1791174667.3467174,
+  "https://nagariknews.nagariknetwork.com/politics/congress-general-convention-controversy-over-selection-of-representatives-in-jumla-21-87.html": 1791174667.3467174,
+  "https://gorkhapatraonline.com/news/225479": 1791174667.3467174,
+  "http://annapurnapost.com/story/508984": 1791174667.3467174
  },
  "queue": [
   {
@@ -3515,27 +3516,6 @@
    ],
    "cat": "society",
    "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Search results for",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5tajJaSlo1eC1nVUdKbk8tVHdmQWZTTlRRR3ZrZXYxVXJBSHBQT3puUXluRGVoTkkyMEliTXRVaHhRd3RYTVFtU3lBbmxKT2JLNmw2RDVWWEY5cEotdllmWVRxNldlWUVzY0o1cVZObFdOOXFWZWc5WGxUWQ?oc=5",
-   "source": "myRepublica",
-   "ts": 1791145557,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Search results for",
-   "en": "Search results for",
-   "ne": "Search results for",
-   "imp": 1,
-   "tags": [
-    "Search"
-   ],
-   "cat": "other",
-   "val": 1,
    "teaser": false,
    "hits": 1
   },
@@ -6586,7 +6566,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "अब्दुल सत्तार मुस्लिम क्लस्टरबाट कांग्रेसको सहमहामन्त्री उम्मेदवार",
@@ -6790,7 +6770,7 @@
    "cat": "politics",
    "val": 1,
    "teaser": true,
-   "hits": 3
+   "hits": 4
   },
   {
    "title": "पाँचथरका बालबालिकालाई पहिलो पटक स्वर्णबिन्दु प्राशन",
@@ -7403,7 +7383,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Nepal Rastra Bank Invites Bids for 300 Million Coins",
@@ -7581,6 +7561,29 @@
     "Portugal"
    ],
    "cat": "sports",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "रेलिङमा ठोक्कियो मोटरसाइकल,१८ वर्षीय युवकको मृत्यु",
+   "summary": "विराटनगर : मोरङको बूढीगंगा गाउँपालिका-२ मा सोमबार बिहान दुर्घटना हुँदा १८ वर्षीय युवकको मृत्यु भएको छ । दुईजना घाइते भएका छन् । कोशी लोकमार्गअन्तर्गत नेपाल फ्युल सेन्टरअगाडि बिहान करिब ६ बजेतिर दुर्घटना भएको हो । मोरङ...",
+   "link": "http://annapurnapost.com/story/508984",
+   "source": "Annapurna Post",
+   "ts": 1791160267.5640218,
+   "weight": 3,
+   "img": null,
+   "lang": "ne",
+   "hl": "रेलिङमा ठोक्कियो मोटरसाइकल,१८ वर्षीय युवकको मृत्यु",
+   "en": "रेलिङमा ठोक्कियो मोटरसाइकल,१८ वर्षीय युवकको मृत्यु",
+   "ne": "रेलिङमा ठोक्कियो मोटरसाइकल,१८ वर्षीय युवकको मृत्यु",
+   "imp": 3,
+   "tags": [
+    "MotorcycleAccident",
+    "Youth",
+    "दुर्घटना"
+   ],
+   "cat": "accident",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -11194,7 +11197,7 @@
    "cat": "society"
   }
  ],
- "updated": 1791174088,
+ "updated": 1791174672,
  "pending_since": 1791174047.6239657,
  "fb_blocks": [
   1790350880.4125228,
