@@ -3099,7 +3099,12 @@
   "http://lokaantar.com/story/330511/2026/10/5/saugat-thapa-": 1791184252.4195614,
   "http://english.ratopati.com/story/82353/ward-conventions-of-deupa-faction-in-lumbini-districts-in-final-phase": 1791184252.4195614,
   "https://nagariknews.nagariknetwork.com/social-affairs/podway-under-construction-in-biratnagar-br-89-34.html": 1791184252.4195614,
-  "http://english.ratopati.com/story/82352/decision-to-amend-the-constitution-from-the-congress-central-committee-meeting": 1791184252.4195614
+  "http://english.ratopati.com/story/82352/decision-to-amend-the-constitution-from-the-congress-central-committee-meeting": 1791184252.4195614,
+  "https://english.khabarhub.com/2026/05/570759/": 1791184846.3611972,
+  "https://news.google.com/rss/articles/CBMie0FVX3lxTE9kR1pVME5OdlNGWDUwVWQ2QVExNGR2QWZtRFo3cktwZVVJWXQ0RUhZUFJVTXVFLVdPNXNYRUFqTUlrbnlpWmF6NWgybmNlbDMyRy1heGpWMVg5UTJKR2lvQTdxaDNzeXBWRW9qaUNIUFhBQzFTTmpJN1ZHZw?oc=5": 1791184846.3611972,
+  "https://news.google.com/rss/articles/CBMiowFBVV95cUxQX19Xa3lJNWdOcGltU080V3pPMERncm5jMnBGZkJzbm9ndnVEV1pOVnFHazJYNkd0ck5DT3k0MW9oQVZOWTFLMDZkV3dsYkY0X3JhMkJvZlhnVW1Pd1FBcC1CY0E1Y1U0Sm5ESXdiU2FqNFNuYWRnRmdlQlpab01jR1BfaERBdnMxdUg5RUw5NmJ1QXMycFBFNE45ZnlLdnJQT0c4?oc=5": 1791184846.3611972,
+  "https://risingnepaldaily.com/news/87417": 1791184846.3611972,
+  "https://theannapurnaexpress.com/story/67665": 1791184846.3611972
  },
  "queue": [
   {
@@ -8388,7 +8393,7 @@
    "cat": "culture",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "प्रेमिकासँग म:म खाइरहेका श्रीमानलाई श्रीमतीले रंगेहात भेटेपछि",
@@ -8522,7 +8527,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "भेडाको बथानलाई गराइयो पाथीभरा मन्दिरको परिक्रमा, विधिपूर्वक पूजाअर्चना गरी छाडियो",
@@ -8706,17 +8711,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1790579453.6428585,
-   "en": "Opposition MPs demand answers on why ex-Chief Justice was detained and freed",
-   "ne": "विपक्षी सांसदहरूले पूर्व मुख्य न्यायाधीशलाई पक्राउ गरी रिहा गरिनुको कारणको जवाफ मागे",
-   "link": "https://english.onlinekhabar.com/mps-chief-justice-detained.html",
-   "source": "Onlinekhabar EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "politics"
-  },
   {
    "ts": 1790580069.0898705,
    "en": "Video: Mountain vanishes in seconds in Nepal landslide as heavy rain kills 24",
@@ -12302,7 +12296,7 @@
    "cat": "crime"
   }
  ],
- "updated": 1791184261,
+ "updated": 1791184849,
  "pending_since": 1791184252.4195614,
  "fb_blocks": [
   1790350880.4125228,
