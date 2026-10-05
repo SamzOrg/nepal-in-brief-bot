@@ -1,9 +1,5 @@
 {
  "seen": {
-  "https://gorkhapatraonline.com/news/225210": 1790992410.69967,
-  "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZEVJNGJ0ZE14dFE3Q2NHemxUZkdHblBLV0k1cHFkclE0RzkwRVF1VFFmQU5kcnVhczJfVUZJU0tCZFhwb3E4c0QtZHJwZ2o5cDFyTURhZUw2SVB0ZEFIUGRCaUxSdmtrVVo5X1BaaVlMZ3M3Y3FmTXFPX3p5TlJzXzY4VW1fTnVzS2JWRXBudGNWMUhNaGxEWGVOSlRIdGtQQ0pWSjFnOA?oc=5": 1790992872.80522,
-  "http://annapurnapost.com/story/508855": 1790992872.80522,
-  "https://www.ratopati.com/story/596802/passenger-bus-accident-in-nawalparasi-6-dead-10-injured": 1790992872.80522,
   "https://nagariknews.nagariknetwork.com/social-affairs/passenger-bus-accident-on-its-way-from-nepalgunj-to-kathmandu-6-dead-10-injured-69-44.html": 1790993444.164814,
   "http://lokaantar.com/story/330350/2026/10/3/accident-": 1790993444.164814,
   "https://news.google.com/rss/articles/CBMickFVX3lxTE5nQVF2ZGFSMlFEM2VtaW9RMW5NLU9ZN3hhUHBPem0xalVEdWJZQmNWU1VkSTI0SFRIZVY1QVBucDZYX1p4cXkwUmZpUVFDYThwUWhfWnlmZkg2S25GOVpmc0ZiU1hYOTkyVHBwTzMzV05QZw?oc=5": 1790994044.475236,
@@ -3014,7 +3010,10 @@
   "https://gorkhapatraonline.com/news/225452": 1791165046.9209163,
   "https://gorkhapatraonline.com/news/225451": 1791165046.9209163,
   "https://gorkhapatraonline.com/news/225450": 1791165046.9209163,
-  "https://gorkhapatraonline.com/news/225449": 1791165046.9209163
+  "https://gorkhapatraonline.com/news/225449": 1791165046.9209163,
+  "https://www.setopati.com/politics/399984": 1791165678.1899774,
+  "https://risingnepaldaily.com/news/87403": 1791165678.1899774,
+  "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUUdXVkIwQ1lzZ29VMWE5eU5kbnBDZ01JekdJVVBENzZwR0hadXBSbkk4SmNpRmlKV3U3RXpjQVBtWVZLUEJtMTAwcV96TExYVnU5T19iRmpFblVjRGxhaHFxWGhqZjRZelpWS0prMGROVnNxNmc4TUtBM0E3RFJkVE8xYm5SaFlZVEw4SDdGcHoxalM0QTlkYk0tS1lPMTdkRTJyNGZZaS1QQVpaUk1xaDVmbmI5SF9WU3RwTHRuX3A2WXlO?oc=5": 1791165678.1899774
  },
  "queue": [
   {
@@ -3039,52 +3038,6 @@
    "val": 2,
    "teaser": false,
    "hits": 4
-  },
-  {
-   "title": "पहिले पनि पक्राउ परेका थिए मध्यरातमा बालिका अपहरण गर्ने युवराज",
-   "summary": "",
-   "link": "https://www.setopati.com/social/399979",
-   "source": "Setopati",
-   "ts": 1791136500,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "पहिले पनि पक्राउ परेका थिए मध्यरातमा बालिका अपहरण गर्ने युवराज",
-   "en": "पहिले पनि पक्राउ परेका थिए मध्यरातमा बालिका अपहरण गर्ने युवराज",
-   "ne": "पहिले पनि पक्राउ परेका थिए मध्यरातमा बालिका अपहरण गर्ने युवराज",
-   "imp": 3,
-   "tags": [
-    "Kidnapping",
-    "Crime",
-    "अपराध"
-   ],
-   "cat": "crime",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "फिर्के खोलाका २६ संरचना हटाइयो",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/503765",
-   "source": "Baahrakhari",
-   "ts": 1791136376,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "फिर्के खोलाका २६ संरचना हटाइयो",
-   "en": "फिर्के खोलाका २६ संरचना हटाइयो",
-   "ne": "फिर्के खोलाका २६ संरचना हटाइयो",
-   "imp": 2,
-   "tags": [
-    "FirkeKhola",
-    "Pokhara",
-    "Encroachment"
-   ],
-   "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
   },
   {
    "title": "१२ बजे १२ समाचार : बालेनलाई काउन्टरदेखि दसैँपछि थप राजदूत नियुक्ति गर्दै सरकारसम्म",
@@ -5065,7 +5018,7 @@
    "cat": "politics",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "थारू परिकारको व्यावसायिकीकरणसँगै बढ्दै रोजगारी",
@@ -5297,31 +5250,31 @@
    "val": 2,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "Will the civil campaign inspired by the Bhotekoshi flood sustain itself?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUUdXVkIwQ1lzZ29VMWE5eU5kbnBDZ01JekdJVVBENzZwR0hadXBSbkk4SmNpRmlKV3U3RXpjQVBtWVZLUEJtMTAwcV96TExYVnU5T19iRmpFblVjRGxhaHFxWGhqZjRZelpWS0prMGROVnNxNmc4TUtBM0E3RFJkVE8xYm5SaFlZVEw4SDdGcHoxalM0QTlkYk0tS1lPMTdkRTJyNGZZaS1QQVpaUk1xaDVmbmI5SF9WU3RwTHRuX3A2WXlO?oc=5",
+   "source": "myRepublica",
+   "ts": 1791163382,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "Will the civil campaign inspired by the Bhotekoshi flood sustain itself?",
+   "en": "Will the civil campaign inspired by the Bhotekoshi flood sustain itself?",
+   "ne": "Will the civil campaign inspired by the Bhotekoshi flood sustain itself?",
+   "imp": 2,
+   "tags": [
+    "Bhotekoshi",
+    "CivilCampaign"
+   ],
+   "cat": "society",
+   "val": 1,
+   "teaser": true,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1790560262.5486126,
-   "en": "Rain causes 21 deaths, five injured, five missing",
-   "ne": "वर्षाका कारण २१ जनाको मृ*त्यु, पाँच घाइते, पाँच बेपत्ता",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/21-dead-five-injured-five-missing-due-to-rain-88-95.html",
-   "source": "Nagarik News",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": true,
-   "cat": "disaster"
-  },
-  {
-   "ts": 1790560685.2843773,
-   "en": "Serbian President Vučić resigns, prepares to run for prime minister",
-   "ne": "सर्बियाका राष्ट्रपति भुचिकको राजीनामा : प्रधानमन्त्रीमा उम्मेदवारी दिने तयारी",
-   "link": "https://nagariknews.nagariknetwork.com/international/serbian-president-vucic-resigns-preparations-to-run-for-prime-minister-91-75.html",
-   "source": "Nagarik News",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "politics"
-  },
   {
    "ts": 1790562050.66299,
    "en": "Continuous rain in Myagdi kills 6, three missing",
@@ -8929,7 +8882,7 @@
    "cat": "economy"
   }
  ],
- "updated": 1791165072,
+ "updated": 1791165684,
  "pending_since": 1791165046.9209163,
  "fb_blocks": [
   1790350880.4125228,
