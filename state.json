@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://baahrakhari.com/detail/503566": 1790989274.1631591,
-  "https://www.setopati.com/social/399831": 1790989274.1631591,
   "https://english.khabarhub.com/2026/03/570426/": 1790989851.2076309,
   "https://www.ratopati.com/story/596796/alternative-road-to-furkekhola-to-be-closed-for-five-hours": 1790989851.2076309,
   "https://khabarhub.com/2026/03/1032421/": 1790989851.2076309,
@@ -2999,7 +2997,11 @@
   "https://baahrakhari.com/detail/503769": 1791161446.127525,
   "https://nagariknews.nagariknetwork.com/social-affairs/a-thousand-sheep-arrive-in-mustang-strewn-with-snow-62-99.html": 1791161446.127525,
   "https://www.ratopati.com/story/597205/nepali-congress-central-working-committee-meeting-held-in-open-forum": 1791161446.127525,
-  "http://lokaantar.com/story/330484/2026/10/5/flood-": 1791161446.127525
+  "http://lokaantar.com/story/330484/2026/10/5/flood-": 1791161446.127525,
+  "https://www.onlinekhabar.com/2026/10/2032383/myagdi-floods-and-landslides-550-households-affected": 1791162081.5008686,
+  "https://nagariknews.nagariknetwork.com/Bazar/foreign-currency-exchange-rates-set-for-today-92-53.html": 1791162081.5008686,
+  "http://lokaantar.com/story/330485/2026/10/5/congress-": 1791162081.5008686,
+  "https://www.ratopati.com/story/597206/floods-and-landslides-affect-550-households-in-myagdi-seven-people-die": 1791162081.5008686
  },
  "queue": [
   {
@@ -3093,28 +3095,6 @@
    "hits": 2
   },
   {
-   "title": "गगनले देखाए कांग्रेस उभिने राजनीतिक धरातल",
-   "summary": "राजनीतिक परिस्थितिहरूको विश्लेषण गर्दै सभापति गगन थापाले दुई अतिवादी सोचबारे कांग्रेस प्रष्ट रहेको सन्देश दिए । विगतका सबै आन्दोलनमा तत्कालीन समयको प्रश्न कांग्रेससँग रहेको तथ्य उनले प्रस्तुत गरे ।",
-   "link": "https://www.onlinekhabar.com/2026/10/2032341/gagan-showed-the-political-ground-on-which-congress-can-stand",
-   "source": "Onlinekhabar",
-   "ts": 1791132758,
-   "weight": 3,
-   "img": "https://www.onlinekhabar.com/wp-content/uploads/2026/10/Gagan-kumar-Thapa-4.jpg",
-   "lang": "ne",
-   "hl": "गगनले देखाए कांग्रेस उभिने राजनीतिक धरातल",
-   "en": "गगनले देखाए कांग्रेस उभिने राजनीतिक धरातल",
-   "ne": "गगनले देखाए कांग्रेस उभिने राजनीतिक धरातल",
-   "imp": 3,
-   "tags": [
-    "NepaliCongress",
-    "GaganThapa"
-   ],
-   "cat": "politics",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
-  },
-  {
    "title": "भन्सार छलीका सामान बरामद",
    "summary": "रुपन्देही । रुपन्देही प्रहरीले जिल्लाका विभिन्न स्थानबाट भन्सार छली तथा चोरी पैठारी गरी ल्याइएका रु पाँच लाख एक हजार ३६८ बराबरका सामान बरामद गरेको छ । जिल्ला प्रहरी कार्यालय रुपन्देहीबाट खटिएको प्रहरी टोलीले जिल्लाका...",
    "link": "https://www.ratopati.com/story/597175/customs-evasion-goods-seized",
@@ -3179,7 +3159,7 @@
    "cat": "politics",
    "val": 2,
    "teaser": false,
-   "hits": 3
+   "hits": 4
   },
   {
    "title": "कांग्रेस महाधिवेशन : आज मतदाता नामावली प्रकाशन हुँदै",
@@ -4216,20 +4196,33 @@
    "val": 3,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "बाढी पहिरोले म्याग्दीमा साढे पाँच सय घरपरिवार प्रभावित, सात जनाको मृत्यु",
+   "summary": "म्याग्दी । असोज ८ देखि ११ गतेसम्मको निरन्तरको झरीपछि आएको बाढी पहिरोले म्याग्दीका करिब पाँच सय ५० घरपरिवार प्रभावित भएका छन् । पहिरोका कारण एक सय ११ घरमा पूर्ण क्षति भएको छ भने ९३ घरमा आंशिक",
+   "link": "https://www.ratopati.com/story/597206/floods-and-landslides-affect-550-households-in-myagdi-seven-people-die",
+   "source": "Ratopati",
+   "ts": 1791161811,
+   "weight": 3,
+   "img": "https://npcdn.ratopati.com/media/news/Us79lGEcGb.jpg",
+   "lang": "ne",
+   "hl": "बाढी पहिरोले म्याग्दीमा साढे पाँच सय घरपरिवार प्रभावित, सात जनाको मृत्यु",
+   "en": "बाढी पहिरोले म्याग्दीमा साढे पाँच सय घरपरिवार प्रभावित, सात जनाको मृत्यु",
+   "ne": "बाढी पहिरोले म्याग्दीमा साढे पाँच सय घरपरिवार प्रभावित, सात जनाको मृत्यु",
+   "imp": 4,
+   "tags": [
+    "Myagdi",
+    "Flood",
+    "Landslide",
+    "बाढीपहिरो"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1790556649.9671931,
-   "en": "Unusual Torrential Rains Hammer Northern India and Nepal, Leaving at Least 68 Dead",
-   "ne": "नेपाल र उत्तर भारतमा अविरल वर्षाका कारण कम्तीमा ६८ जनाको मृत्यु",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9SSV9QQXJSODd0Y0Y2WndUS0FMLVNsNGxtWVAwRG9oVVQ0ZnV0YkVhLU1uTFh5X1U5NS1zaXdRdkljcHV2QzMwenBmOHA0QTdFY1VEUDcyRGtQbW51LUNPNTVRUVZVcERkSU1CWVZn0gFmQVVfeXFMTkNIRVhnTHJpQWtZdEE3OUszOWl2Wkg3LUsxYzdIc0R0ZDV0R19VNXpfZHVYNFpaOTRkRHZFZW45dEpMcDJXcTNaak92Nm9La0Z5ZktKakZsLV9pTGhyT3FGb0dvRWVB?oc=5",
-   "source": "news.sbs.co.kr",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "disaster"
-  },
   {
    "ts": 1790558449.8464239,
    "en": "Floods and Landslides Disrupt Nepal's Economy and Daily Life",
@@ -7837,7 +7830,7 @@
    "cat": "society"
   }
  ],
- "updated": 1791161466,
+ "updated": 1791162085,
  "pending_since": 1791160847.4209425,
  "fb_blocks": [
   1790350880.4125228,
