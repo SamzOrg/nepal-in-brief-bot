@@ -1,8 +1,5 @@
 {
  "seen": {
-  "https://khabarhub.com/2026/03/1032670/": 1791043282.1230087,
-  "http://lokaantar.com/story/330401/2026/10/3/congress-": 1791043282.1230087,
-  "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbE5rQ2ZNNWVQS19TbWtLSUxfVWV6dDR1aWZnNXdTLTgtN09oZkk4QW1PM3FrSVNINzhpbUZOR2hlMnI5aVJKbDAzU3pwUUtZM1U2SlZvZ2kyQnlydzcxaTJEOFd3T2hDTTh0cW95eHkydmpzajRIeUc5eFA4dXJFNlhBbm9RRUY4cXlOcW8zVUdxRWNwc2oycDJNalc2MzQ0ZWVxUUgteXRHenUxM3d6RVM2Yld2V2xYcEVVSTRkNUFKcFdVVkNNU2EzT1padUkyUG82ctIB2gFBVV95cUxPM1FWaXdPMEFYQjQwYmQwX29iZUh6RG9ZaWtMTWJfVXc0cVVHZXhaRkFFUHBBLVJTY2FHQ2VKYmpwUnZKaGxzZE9VZ1hfVXpvOGItcVJsaUtRVExLb1lMTkxsVXlLb2RGbFJQMFp1VHkzSGpkZUlNUE1YOG5XdE91cnZmX2phVkF0SE5Ca2JNNWdpM0JHYm5iemVSYVhWSXVqVTd0M2l0al9fa0tBOGFhdFhyUE5sUmRZMUJVamlPcjVVWUVaUFplRmJJZldHWHE4ODEwMDFadnJRQQ?oc=5": 1791043282.1230087,
   "http://annapurnapost.com/story/508908": 1791043853.0007324,
   "https://khabarhub.com/2026/03/1032673/": 1791044447.1994722,
   "https://english.khabarhub.com/2026/03/570486/": 1791044447.1994722,
@@ -3040,7 +3037,8 @@
   "http://lokaantar.com/story/330564/2026/10/5/mahila-": 1791215452.949433,
   "https://baahrakhari.com/detail/503898": 1791215452.949433,
   "http://english.ratopati.com/story/82442/midterm-elections-in-the-us-on-november-3-will-determine-trumps-political-direction": 1791215452.949433,
-  "https://baahrakhari.com/detail/503897": 1791215452.949433
+  "https://baahrakhari.com/detail/503897": 1791215452.949433,
+  "http://lokaantar.com/story/330566/2026/10/5/dead-": 1791216086.0507002
  },
  "queue": [
   {
@@ -3133,29 +3131,6 @@
    "hits": 1
   },
   {
-   "title": "RSP Chair Lamichhane, Australian Ambassador Ernst discuss bilateral relations",
-   "summary": "KATHMANDU: Rastriya Swatantra Party (RSP) Chair Rabi Lamichhane and Australian Ambassador Simon Ernst held talks on Monday, discussing economic development, social justice, democracy and good governance. During the...",
-   "link": "https://english.khabarhub.com/2026/05/570761/",
-   "source": "Khabarhub EN",
-   "ts": 1791187153,
-   "weight": 2,
-   "img": "https://english.khabarhub.com/wp-content/uploads/2026/10/Rabi-Lamichane-Simon-Ernst--400x220.png",
-   "lang": "en",
-   "hl": "RSP Chair Lamichhane, Australian Ambassador Ernst discuss bilateral relations",
-   "en": "RSP Chair Lamichhane, Australian Ambassador Ernst discuss bilateral relations",
-   "ne": "RSP Chair Lamichhane, Australian Ambassador Ernst discuss bilateral relations",
-   "imp": 2,
-   "tags": [
-    "RSP",
-    "Lamichhane",
-    "Australia"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "सिंजा सभ्यताको संरक्षण सरकारको दायित्व : मुख्यमन्त्री शाही",
    "summary": "ऐतिहासिक सिंजा सभ्यताको संरक्षणदेखि वर्षौंदेखि अधुरा सडक आयोजनासम्मका माग बोकेर स्थानीय तहले कर्णाली प्रदेश सरकारको ध्यानाकर्षण गराएको छ।...",
    "link": "https://nagariknews.nagariknetwork.com/politics/government-s-responsibility-to-preserve-sinja-civilization-chief-minister-shahi-28-39.html",
@@ -3222,118 +3197,6 @@
    "val": 3,
    "teaser": false,
    "hits": 2
-  },
-  {
-   "title": "Beni-Jomsom-Korala road to remain closed for another week",
-   "summary": "Kathmandu, October 5 The Beni-Jomsom road connecting to the Korala border point between Nepal and China will remain closed for about another week, despite partial progress in reopening the route. According to the...",
-   "link": "https://english.onlinekhabar.com/beni-jomsom-korala-road-closed.html",
-   "source": "Onlinekhabar EN",
-   "ts": 1791187136,
-   "weight": 3,
-   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/10/Beni-Jomsom-Road-768x1024-1.jpg",
-   "lang": "en",
-   "hl": "Beni-Jomsom-Korala road to remain closed for another week",
-   "en": "Beni-Jomsom-Korala road to remain closed for another week",
-   "ne": "Beni-Jomsom-Korala road to remain closed for another week",
-   "imp": 3,
-   "tags": [
-    "BeniJomsomRoad",
-    "Highway"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "बेत्रावतीमा बेलिब्रिज जडान सुरु, दसैँअघि सञ्चालनमा आउने",
-   "summary": "भोटेकोशी हुँदै त्रिशूली नदीमा आएको बाढीले क्षति पुर्याएसँगै नुवाकोट र रसुवा जोड्ने बेत्रावतीस्थित फलाखु खोलामा बेलिब्रिज जडान सुरु भएको छ।...",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/bailey-bridge-installation-begins-in-betravati-to-be-operational-before-dashain-24-13.html",
-   "source": "Nagarik News",
-   "ts": 1791187279,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1791187274_betrawoti.jpg",
-   "lang": "ne",
-   "hl": "बेत्रावतीमा बेलिब्रिज जडान सुरु, दसैँअघि सञ्चालनमा आउने",
-   "en": "बेत्रावतीमा बेलिब्रिज जडान सुरु, दसैँअघि सञ्चालनमा आउने",
-   "ne": "बेत्रावतीमा बेलिब्रिज जडान सुरु, दसैँअघि सञ्चालनमा आउने",
-   "imp": 3,
-   "tags": [
-    "Betrawati",
-    "Bridge",
-    "बेत्रावती"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "१ सयभन्दा बढी ड्राफ्टपछि तयार भएको थियो 'दृश्यम ३'को क्लाइमेक्स!",
-   "summary": "फिल्मले राम्रो गरिरहँदा यसको क्लाइमेक्सलाई लिएर पनि चर्चा भइरहेको छ।",
-   "link": "https://www.setopati.com/art/bollywood/400022",
-   "source": "Setopati",
-   "ts": 1791187140,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "१ सयभन्दा बढी ड्राफ्टपछि तयार भएको थियो 'दृश्यम ३'को क्लाइमेक्स!",
-   "en": "१ सयभन्दा बढी ड्राफ्टपछि तयार भएको थियो 'दृश्यम ३'को क्लाइमेक्स!",
-   "ne": "१ सयभन्दा बढी ड्राफ्टपछि तयार भएको थियो 'दृश्यम ३'को क्लाइमेक्स!",
-   "imp": 1,
-   "tags": [
-    "Drishyam3",
-    "Movie"
-   ],
-   "cat": "culture",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "सुबिसुको 'कनेक्ट-२०२६', सेवाग्राहीसँग सम्बन्ध थप बलियो बनाउने प्रतिबद्धता",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/503825",
-   "source": "Baahrakhari",
-   "ts": 1791187184,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "सुबिसुको 'कनेक्ट-२०२६', सेवाग्राहीसँग सम्बन्ध थप बलियो बनाउने प्रतिबद्धता",
-   "en": "सुबिसुको 'कनेक्ट-२०२६', सेवाग्राहीसँग सम्बन्ध थप बलियो बनाउने प्रतिबद्धता",
-   "ne": "सुबिसुको 'कनेक्ट-२०२६', सेवाग्राहीसँग सम्बन्ध थप बलियो बनाउने प्रतिबद्धता",
-   "imp": 2,
-   "tags": [
-    "Subisu",
-    "Internet"
-   ],
-   "cat": "tech",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "सस्तो इन्टरनेट हटाउने निर्णयमा प्रश्न",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/503823",
-   "source": "Baahrakhari",
-   "ts": 1791186840,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "सस्तो इन्टरनेट हटाउने निर्णयमा प्रश्न",
-   "en": "सस्तो इन्टरनेट हटाउने निर्णयमा प्रश्न",
-   "ne": "सस्तो इन्टरनेट हटाउने निर्णयमा प्रश्न",
-   "imp": 3,
-   "tags": [
-    "Internet",
-    "ISP",
-    "Economy"
-   ],
-   "cat": "economy",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
   },
   {
    "title": "EU and China to Negotiate Trade Tensions Amidst Growing Imbalance",
@@ -6513,7 +6376,7 @@
    "cat": "world",
    "val": 3,
    "teaser": false,
-   "hits": 3
+   "hits": 4
   },
   {
    "title": "कति मूल्य र स्पीडको इन्टरनेट प्याकेज बन्द हुन्छ ?",
@@ -11956,8 +11819,8 @@
    "cat": "health"
   }
  ],
- "updated": 1791215486,
- "pending_since": null,
+ "updated": 1791216090,
+ "pending_since": 1791216086.0507002,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
