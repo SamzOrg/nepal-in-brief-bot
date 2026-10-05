@@ -1,8 +1,5 @@
 {
  "seen": {
-  "https://khabarhub.com/2026/03/1032457/": 1791003045.8076222,
-  "https://english.khabarhub.com/2026/03/570446/": 1791003045.8076222,
-  "https://gorkhapatraonline.com/news/225238": 1791003045.8076222,
   "https://nagariknews.nagariknetwork.com/sports/besisahar-chame-road-blocked-for-six-days-now-operational-85-84.html": 1791003679.9354627,
   "https://www.ratopati.com/story/596825/two-time-world-cup-winner-moeen-ali-signed-with-janakpur-bolts": 1791003679.9354627,
   "http://english.ratopati.com/story/82063/two-time-world-cup-winner-moeen-ali-signed-with-janakpur-bolts": 1791003679.9354627,
@@ -3058,55 +3055,13 @@
   "https://www.ratopati.com/story/597236/durga-prasais-habeas-corpus-writ-to-be-heard-today": 1791175247.5799983,
   "https://gorkhapatraonline.com/news/225478": 1791175247.5799983,
   "https://www.ratopati.com/story/597232/nepal-rastra-bank-is-printing-300-million-two-rupee-coins": 1791175247.5799983,
-  "https://www.ratopati.com/story/597231/amresh-singhs-reply-to-gagan-thapa-i-was-forced-to-leave-the-party-after-it-was-handed-over-to-thugs-corrupt-people-and-contractors": 1791175247.5799983
+  "https://www.ratopati.com/story/597231/amresh-singhs-reply-to-gagan-thapa-i-was-forced-to-leave-the-party-after-it-was-handed-over-to-thugs-corrupt-people-and-contractors": 1791175247.5799983,
+  "https://khabarhub.com/2026/05/1033285/": 1791175846.937492,
+  "https://www.ratopati.com/story/597242/central-working-committee-meeting-to-set-agenda-for-closed-session-leaders-on-open-stage": 1791175846.937492,
+  "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdFJ6a1pzOGQ2Qk1VdlRNNW1xRzRZNTlMeUN3OWlZclpGNjlyT215N0xGaUxfNnRNSXVVUXYtQk5IZHNZMGpMVE12NU0xY0ZpTGt4NkQySlY4ME5DeEZoVjl4TUdBMS1LNS1RR0lTdzVZRVM1ajI3bDJPbUtzV0dwRm41TXE5MU54QzhxZEpkVFhvNkV6clNWZUcyN3FVVUJ4aTktUkNB?oc=5": 1791175846.937492,
+  "http://annapurnapost.com/story/508986": 1791175846.937492
  },
  "queue": [
-  {
-   "title": "१० खेलाडीमा सीमित पोर्चुगलद्वारा नर्वे २-१ ले पराजित",
-   "summary": "काठमाडौँ । युइएफए नेसन्स लिग फुटबलअन्तर्गत समूह चरणको खेलमा पोर्चुगलले नर्वेमाथि २-१ गोलको पुनरागमन जित दर्ता गरेको छ । समूह 'डी' अन्तर्गत चौथो चरणको खेलमा सुरुवाती अग्रता भने नर्वेले लिएको थियो । खेलको ३६औँ मिनेटमा...",
-   "link": "https://www.ratopati.com/story/597188/portugal-reduced-to-10-players-defeats-norway-2-1",
-   "source": "Ratopati",
-   "ts": 1791146850,
-   "weight": 3,
-   "img": "https://npcdn.ratopati.com/media/news/portugal_VSGhaKNHqg.webp",
-   "lang": "ne",
-   "hl": "१० खेलाडीमा सीमित पोर्चुगलद्वारा नर्वे २-१ ले पराजित",
-   "en": "१० खेलाडीमा सीमित पोर्चुगलद्वारा नर्वे २-१ ले पराजित",
-   "ne": "१० खेलाडीमा सीमित पोर्चुगलद्वारा नर्वे २-१ ले पराजित",
-   "imp": 1,
-   "tags": [
-    "Portugal",
-    "Norway",
-    "NationsLeague"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Greece and Germany Draw 0-0 in Nations League",
-   "summary": "Kathmandu. Greece and Germany shared points by playing a goalless draw in the group stage match of the UEFA Nations...",
-   "link": "http://english.ratopati.com/story/82288/greece-and-germany-tied-goalless-greece-second-and-germany-third",
-   "source": "Ratopati EN",
-   "ts": 1791146684,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/germany_vXo1VxWU1c.webp",
-   "lang": "en",
-   "hl": "Greece and Germany Draw 0-0 in Nations League",
-   "en": "Greece and Germany Draw 0-0 in Nations League",
-   "ne": "Greece and Germany Draw 0-0 in Nations League",
-   "imp": 1,
-   "tags": [
-    "Greece",
-    "Germany",
-    "NationsLeague"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
   {
    "title": "Geologists Study 26 Landslides in Myagdi",
    "summary": "Myagdi. A team of geologists has conducted a field study of 26 landslides in Myagdi, which has been affected by...",
@@ -3660,29 +3615,6 @@
    "hits": 1
   },
   {
-   "title": "अनियन्त्रित बुलेट बाइक सडक छेउको रुखमा ठोक्कियो, एक जनाको मृत्यु",
-   "summary": "चितवनको इच्छाकामना गाउँपालिका-७ सिमलढापमा मोटरसाइकल दुर्घटनामा परी भरतपुर महानगरपालिका-११ निवासी २९ वर्षीय देवेन्द्र थापाको मृत्यु भएको छ । सिमलढापबाट भरतपुरतर्फ आउँदै गरेको बुलेट मोटरसाइकल आइतबार साँझ अनियन्त्रित भई...",
-   "link": "http://lokaantar.com/story/330483/2026/10/5/accident-",
-   "source": "Lokaantar",
-   "ts": 1791146448.2826483,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "अनियन्त्रित बुलेट बाइक सडक छेउको रुखमा ठोक्कियो, एक जनाको मृत्यु",
-   "en": "अनियन्त्रित बुलेट बाइक सडक छेउको रुखमा ठोक्कियो, एक जनाको मृत्यु",
-   "ne": "अनियन्त्रित बुलेट बाइक सडक छेउको रुखमा ठोक्कियो, एक जनाको मृत्यु",
-   "imp": 2,
-   "tags": [
-    "BikeAccident",
-    "RoadSafety",
-    "दुर्घटना"
-   ],
-   "cat": "crime",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Road Board Nepal Invites Applications for Executive Director Position",
    "summary": "Kathmandu. Road Board Nepal has called for applications to fill the vacant post of Executive Director through open competition.As per...",
    "link": "http://english.ratopati.com/story/82302/call-for-applications-for-the-post-of-executive-director-of-the-road-board",
@@ -4162,7 +4094,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Dahal: Gaganji Led the Nepali Congress Toward a New History",
@@ -6681,30 +6613,6 @@
    "hits": 1
   },
   {
-   "title": "Bhotekoshi floods: 45 students from Rasuwa still unaccounted for",
-   "summary": "Forty-five students from three community schools and one private school in Rasuwa remain unaccounted for following the devastating August 26 floods.According to Durga Prasad Silwal, Chief of the Education and...",
-   "link": "https://theannapurnaexpress.com/story/67655",
-   "source": "Annapurna Express",
-   "ts": 1791157245.4555144,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Bhotekoshi floods: 45 students from Rasuwa still unaccounted for",
-   "en": "Bhotekoshi floods: 45 students from Rasuwa still unaccounted for",
-   "ne": "Bhotekoshi floods: 45 students from Rasuwa still unaccounted for",
-   "imp": 4,
-   "tags": [
-    "Bhotekoshi",
-    "Flood",
-    "Rasuwa",
-    "बाढी"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "मेलिना र बिधानको दसैँ गीत 'मै परे चटक्कै' सार्वजनिक",
    "summary": "मेलिना राई र बिधान कालिकोटेको स्वरमा दसैँ गीत 'मै परे चटक्कै' सार्वजनिक भएको छ।",
    "link": "https://www.setopati.com/art/music/399994",
@@ -7338,7 +7246,7 @@
    "cat": "society",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "कांग्रेस केन्द्रीय सदस्यमा उम्मेदवारी दिने निमा गिरीको घोषणा",
@@ -11541,10 +11449,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "society"
+  },
+  {
+   "ts": 1791175855.9314914,
+   "en": "45 students from Rasuwa unaccounted for after August 26 Bhotekoshi floods",
+   "ne": "45 students from Rasuwa unaccounted for after August 26 Bhotekoshi floods",
+   "link": "https://theannapurnaexpress.com/story/67655",
+   "source": "Annapurna Express",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "disaster"
   }
  ],
- "updated": 1791175257,
- "pending_since": null,
+ "updated": 1791175872,
+ "pending_since": 1791175846.937492,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
