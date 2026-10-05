@@ -3047,50 +3047,6 @@
    "hits": 1
   },
   {
-   "title": "पहिलो आवासीय घर बनाउँदै हुनुहुन्छ? विधेयक पास भए नि:शुल्क पाइने छन् यी सुविधा",
-   "summary": "सरकारले नेपालभित्र कतै पनि घर नभएको परिवारलाई पहिलो आवासीय घर निर्माणमा सहयोग गर्ने गरी कानुन बनाउने प्रक्रिया अघि बढाएको छ।",
-   "link": "https://www.setopati.com/politics/400076",
-   "source": "Setopati",
-   "ts": 1791209280,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "पहिलो आवासीय घर बनाउँदै हुनुहुन्छ? विधेयक पास भए नि:शुल्क पाइने छन् यी सुविधा",
-   "en": "पहिलो आवासीय घर बनाउँदै हुनुहुन्छ? विधेयक पास भए नि:शुल्क पाइने छन् यी सुविधा",
-   "ne": "पहिलो आवासीय घर बनाउँदै हुनुहुन्छ? विधेयक पास भए नि:शुल्क पाइने छन् यी सुविधा",
-   "imp": 2,
-   "tags": [
-    "Housing",
-    "Bill"
-   ],
-   "cat": "society",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "नेपालको आर्थिक विकासमा भारतको सधैँ साथ : कन्सुलर सिंह",
-   "summary": "सिंहले भारतले नेपालको विकासमा सन् २००३ देखि नै सहयोग गर्दै आएको स्मरण गराउँदै त्यस्तो सहयोग नेपालको स्थानीय निकायहरूमार्फत सञ्चालन गर्ने गरेको बताए।...",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/india-s-constant-support-for-nepal-s-economic-development-consul-singh-89-67.html",
-   "source": "Nagarik News",
-   "ts": 1791209273,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1791209263_Consuler_Singh_Nagar%20Hospital.jpg",
-   "lang": "ne",
-   "hl": "नेपालको आर्थिक विकासमा भारतको सधैँ साथ : कन्सुलर सिंह",
-   "en": "नेपालको आर्थिक विकासमा भारतको सधैँ साथ : कन्सुलर सिंह",
-   "ne": "नेपालको आर्थिक विकासमा भारतको सधैँ साथ : कन्सुलर सिंह",
-   "imp": 3,
-   "tags": [
-    "India",
-    "NepalIndia"
-   ],
-   "cat": "world",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "मनकामना केबलकार मङ्गलबार बन्द रहने",
    "summary": "चितवनको कुरिनटारबाट गोरखाको प्रसिद्ध मनकामना मन्दिर जोड्ने मनकामना केबलकार सेवा भोलि मङ्गलबार एक दिनका लागि बन्द हुने भएको छ।...",
    "link": "https://nagariknews.nagariknetwork.com/social-affairs/manakamana-cable-car-to-remain-closed-on-tuesday-83-34.html",
@@ -4153,28 +4109,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1790632890.4487658,
-   "en": "Nepal Faces Sri Lanka in Asian Games Cricket Amidst Rain Concerns",
-   "ne": "Nepal faces Sri Lanka in Asian Games cricket amid rain concerns",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOd0p6a2htNVJRcFhla05xbkM1UV9hRlM0SFlJR2swbnhid0VtTUkyUFpCUU8xTFdKaHNsTGluenRMUnVMSUhmMW1ZSzdCVnJuV1BTR2JLbnVycDFOLUV3Zm5PWHhqMEl6M1htRHpjWmoyWFl4VVpMbEZpblFJbHotNUp0RmhNMHZGd3ZhazFkWQ?oc=5",
-   "source": "Ratopati",
-   "n_fb": 0,
-   "n_ig": 0,
-   "brk": false,
-   "cat": "sports"
-  },
-  {
-   "ts": 1790632891.0603464,
-   "en": "A woman from northern Gorkha, suffering severe labor pain, rescued by helicopter",
-   "ne": "सुत्केरी व्यथाले च्यापेकी उत्तरी गोरखाकी एक महिलालाई हेलिकप्टरबाट उद्धार",
-   "link": "https://khabarhub.com/2026/28/1030517/",
-   "source": "Khabarhub",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "society"
-  },
   {
    "ts": 1790634666.1515806,
    "en": "Kalikandaki corridor blocked, affecting imports and exports at Korala Naka; authorities aim to reopen within 3-6 days",
@@ -7630,7 +7564,7 @@
    "cat": "crime"
   }
  ],
- "updated": 1791237692,
+ "updated": 1791238259,
  "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
