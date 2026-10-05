@@ -3027,29 +3027,6 @@
  },
  "queue": [
   {
-   "title": "Thailand Warns of More Rain and Flash Floods as Death Toll Reaches 31",
-   "summary": "Kathmandu. After the number of deaths from floods across the country since mid-September reached 31, Thai authorities have warned of...",
-   "link": "http://english.ratopati.com/story/82445/thailand-warns-of-more-rain-flood-death-toll-rises-to-31",
-   "source": "Ratopati EN",
-   "ts": 1791214782,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/rain_5mquIqrDHn.webp",
-   "lang": "en",
-   "hl": "Thailand Warns of More Rain and Flash Floods as Death Toll Reaches 31",
-   "en": "Thailand Warns of More Rain and Flash Floods as Death Toll Reaches 31",
-   "ne": "Thailand Warns of More Rain and Flash Floods as Death Toll Reaches 31",
-   "imp": 1,
-   "tags": [
-    "Thailand",
-    "Flood",
-    "FlashFlood"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
    "title": "नेपाल-ब्राजिल सहकार्य र साझेदारीलाई थप सुदृढ बनाउने परराष्ट्रमन्त्रीको प्रतिबद्धता",
    "summary": "",
    "link": "https://baahrakhari.com/detail/503900",
@@ -3070,29 +3047,6 @@
    ],
    "cat": "politics",
    "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "आम जनता पार्टी (आजपा) Central Committee Meeting Concludes, Decides on Interim Government",
-   "summary": "Kathmandu. The central committee full meeting of the Aam Janata Party (AJP) has concluded. The meeting, held on Monday under...",
-   "link": "http://english.ratopati.com/story/82444/ajp-meeting-concludes-decisions-from-moving-forward-with-the-movement-to-reorganization-of-the-organization",
-   "source": "Ratopati EN",
-   "ts": 1791214704,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/ajp_Q39VBxTjAH.webp",
-   "lang": "ne",
-   "hl": "आम जनता पार्टी (आजपा) Central Committee Meeting Concludes, Decides on Interim Government",
-   "en": "आम जनता पार्टी (आजपा) Central Committee Meeting Concludes, Decides on Interim Government",
-   "ne": "आम जनता पार्टी (आजपा) Central Committee Meeting Concludes, Decides on Interim Government",
-   "imp": 3,
-   "tags": [
-    "AAP",
-    "CentralCommittee",
-    "आजपा"
-   ],
-   "cat": "politics",
-   "val": 3,
    "teaser": false,
    "hits": 1
   },
@@ -3631,17 +3585,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1790638277.9451313,
-   "en": "Nepal Flood Relief Fundraiser Hugely Successful",
-   "ne": "नेपाल बाढी राहत फण्डरेजर अत्यन्त सफल",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbWtOcW9fYVlLd0Z2V1dReXMzSVBZZ0NlZi04Mk1sQU1TV3M2YVNsMjNldDZfZl9naTU1Q0JsaXFLZWpjVGJSREdsQVNlcjA5ZmFIVlZrek9fdTk4MGRQNzJEam1uRjM1WnUxVzJRbllVVThJblU1TGZiN1F3RnBaX28tN1lVV28w?oc=5",
-   "source": "sonomasun.com",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "disaster"
-  },
   {
    "ts": 1790640095.2290716,
    "en": "Judge Society says state-provided security residents mistreated",
@@ -7097,7 +7040,7 @@
    "cat": "world"
   }
  ],
- "updated": 1791243074,
+ "updated": 1791243651,
  "pending_since": 1791243067.4437304,
  "fb_blocks": [
   1790350880.4125228,
