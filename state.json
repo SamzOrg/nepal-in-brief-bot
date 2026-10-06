@@ -1,6 +1,5 @@
 {
  "seen": {
-  "http://lokaantar.com/story/330466/2026/10/4/game-": 1791124846.1122837,
   "https://khabarhub.com/2026/04/1033217/": 1791125444.499471,
   "https://nagariknews.nagariknetwork.com/international/trump-appoints-national-intelligence-chief-as-new-ai-chief-62-62.html": 1791125444.499471,
   "http://lokaantar.com/story/330467/2026/10/4/cricket-": 1791125444.499471,
@@ -2641,7 +2640,9 @@
   "https://gorkhapatraonline.com/news/225664": 1791297069.402116,
   "https://baahrakhari.com/detail/504063": 1791297069.402116,
   "http://english.ratopati.com/story/82623/pushpa-bhusals-sole-candidacy-for-the-post-of-congress-vice-president": 1791297069.402116,
-  "https://www.setopati.com/social/400207": 1791297069.402116
+  "https://www.setopati.com/social/400207": 1791297069.402116,
+  "https://risingnepaldaily.com/news/87479": 1791297654.529135,
+  "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV2NLNWJDeUJ1eGVfbDI1QXU2QkJkTkJXYjQyZ2ZwLXpNQ2pieGtWQWNMVldPMHFpNlNhZHZINXFTcFBLbnZMM090N3hBSjRBU2JDVEpuVnFyVGRRaHV5SlZENVVkWEo1c3d4ZUFvakhwSzI1Z0t3TkRjNGxpWG5zcENxcUF2SklwUzhBU1pSazZCMG40RTIyd0Q2T3pXaTljWExtMlF4SGxESzQ?oc=5": 1791297654.529135
  },
  "queue": [
   {
@@ -2738,98 +2739,6 @@
    "hits": 10
   },
   {
-   "title": "Gas vendors write to Oil Corporation, demand end to retail sales from industries",
-   "summary": "Kathmandu, October 6 The Gas Vendors' Federation Nepal has drawn the attention of the Nepal Oil Corporation, saying the shortage of cooking gas in Nepal is worsening and consumers are suffering. The federation submitted...",
-   "link": "https://english.onlinekhabar.com/gas-vendors-end-to-retail-sales.html",
-   "source": "Onlinekhabar EN",
-   "ts": 1791268794,
-   "weight": 3,
-   "img": "http://english.onlinekhabar.com/wp-content/uploads/2022/04/cooking-gas-lpg-cylinder.jpg",
-   "lang": "en",
-   "hl": "Gas vendors write to Oil Corporation, demand end to retail sales from industries",
-   "en": "Gas vendors write to Oil Corporation, demand end to retail sales from industries",
-   "ne": "Gas vendors write to Oil Corporation, demand end to retail sales from industries",
-   "imp": 3,
-   "tags": [
-    "GasVendors",
-    "OilCorporation",
-    "Business"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "कांग्रेस पदाधिकारीदेखि केन्द्रीय सदस्यसम्म बागलुङबाट मात्रै १५ आकांक्षी",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/503952",
-   "source": "Baahrakhari",
-   "ts": 1791268853,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "कांग्रेस पदाधिकारीदेखि केन्द्रीय सदस्यसम्म बागलुङबाट मात्रै १५ आकांक्षी",
-   "en": "कांग्रेस पदाधिकारीदेखि केन्द्रीय सदस्यसम्म बागलुङबाट मात्रै १५ आकांक्षी",
-   "ne": "कांग्रेस पदाधिकारीदेखि केन्द्रीय सदस्यसम्म बागलुङबाट मात्रै १५ आकांक्षी",
-   "imp": 3,
-   "tags": [
-    "NepaliCongress",
-    "Baglung",
-    "कांग्रेस"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "एक्सन अवतारमा फर्किए रजनीकान्त, यस्तो छ 'जेलर २'को ट्रेलर",
-   "summary": "'जेलर २' अक्टोबर १५ (असोज २९)देखि विश्वव्यापी प्रदर्शनमा आउने तयारीमा छ।",
-   "link": "https://www.setopati.com/art/bollywood/400125",
-   "source": "Setopati",
-   "ts": 1791268800,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "एक्सन अवतारमा फर्किए रजनीकान्त, यस्तो छ 'जेलर २'को ट्रेलर",
-   "en": "एक्सन अवतारमा फर्किए रजनीकान्त, यस्तो छ 'जेलर २'को ट्रेलर",
-   "ne": "एक्सन अवतारमा फर्किए रजनीकान्त, यस्तो छ 'जेलर २'को ट्रेलर",
-   "imp": 1,
-   "tags": [
-    "Rajinikanth",
-    "Jailer2",
-    "Trailer"
-   ],
-   "cat": "culture",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "गम्भीर अपराधमा उन्मुक्ति अस्वीकार्य",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/503950",
-   "source": "Baahrakhari",
-   "ts": 1791268323,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "गम्भीर अपराधमा उन्मुक्ति अस्वीकार्य",
-   "en": "गम्भीर अपराधमा उन्मुक्ति अस्वीकार्य",
-   "ne": "गम्भीर अपराधमा उन्मुक्ति अस्वीकार्य",
-   "imp": 3,
-   "tags": [
-    "Crime",
-    "Impunity",
-    "अपराध"
-   ],
-   "cat": "crime",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
-  },
-  {
    "title": "कांग्रेस महाधिवेशन : उमेदवारी दर्ताका लागि यी कागजात अनिवार्य",
    "summary": "",
    "link": "https://baahrakhari.com/detail/503960",
@@ -2917,52 +2826,6 @@
     "Education"
    ],
    "cat": "education",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "India clears Nepal's 98 MW power export bottleneck as monsoon surplus peaks",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZ010TjB5ODdxdGZLYlJKdzdsWkE2NTM5dXI2dGhVSjdoV1hIQnk2VDBrMTFBdEZLRXRMQlZuWVpuX1RlVnQyZUxLS1czNmUzeWQtUHYxcm84SVI0RnRxR2l0Nl9vWFdvZUppSDZUcDlfWVlhZ1VqSGhPak0tR2t1aUR6RTA3NU9DdzNIMkVPbjByWGZaanBUUlVSMWh6a2dqbENNSE5qS3FnQ0N40gGyAUFVX3lxTE83dE95WWkxZzh4Y19FX2NpU04wdWt5UWtyc3hlUXhrZ0FLTmFKRy1DWC15akV5SG53SHJlbkY0Q2FMVjBGQUxBWVhSYUxxNkRWdktkVW9oTUZ1ekQ0T1Jhalg0R3dQdkFWc19iUTVSdDRyWWxRWjNOVDZ5YVlzb0JzV041UC0wQzVCbEVNUklqUlZKTXV3ZXlqNy1qUlZaNnpURlp1R2Y4U2pvZWRKUzBKQlE?oc=5",
-   "source": "Firstpost",
-   "ts": 1791268629,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "India clears Nepal's 98 MW power export bottleneck as monsoon surplus peaks",
-   "en": "India clears Nepal's 98 MW power export bottleneck as monsoon surplus peaks",
-   "ne": "India clears Nepal's 98 MW power export bottleneck as monsoon surplus peaks",
-   "imp": 3,
-   "tags": [
-    "PowerExport",
-    "India",
-    "Electricity"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "The 4th World March for Peace and Non-violence in Nepal",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRUxDT19ZejFTS1dpaS1IZjU2eXNOcGRiT0dqUjEtamZkeTRYQ2RqOFVweXNSUmhUU254Vnk0ZDdLdHlxUjVVNUdGSDRvNzhCU0lmSGhqbExSazFYaFh5WkJEZTFJVmRrem5mV29pT1pTTVBYTUlncXViNGtRbDM2amNKTmJuMUhuQlhzRGVSVi1WdnJK?oc=5",
-   "source": "Pressenza - International Press Agency",
-   "ts": 1791268444,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "The 4th World March for Peace and Non-violence in Nepal",
-   "en": "The 4th World March for Peace and Non-violence in Nepal",
-   "ne": "The 4th World March for Peace and Non-violence in Nepal",
-   "imp": 2,
-   "tags": [
-    "WorldMarchForPeace",
-    "Nepal",
-    "Peace"
-   ],
-   "cat": "society",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -3334,7 +3197,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 14
+   "hits": 15
   },
   {
    "title": "भारतमा मुख्य निर्वाचन आयुक्त ज्ञानेश कुमारविरुद्ध विपक्षी इन्डिया गठबन्धनको विरोध मार्च",
@@ -3401,29 +3264,6 @@
     "विज्ञान"
    ],
    "cat": "tech",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "अर्चना पूरन सिंहको ३५ वर्षको वैवाहिक जीवन टुट्न लागेको हो ?",
-   "summary": "एउटा भिडियो क्लिपको कारण अहिले बलिउड अभिनेत्री अर्चना पूरन सिंह र उनका पति परमीत सेठीको ३५ वर्ष लामो वैवाहिक जीवन टुट्न लागेको चर्चा चुलिएको छ।...",
-   "link": "https://nagariknews.nagariknetwork.com/arts/archana-puran-singh-s-35-year-marriage-is-breaking-up-76-51.html",
-   "source": "Nagarik News",
-   "ts": 1791268755,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1791268727_11.jpg",
-   "lang": "ne",
-   "hl": "अर्चना पूरन सिंहको ३५ वर्षको वैवाहिक जीवन टुट्न लागेको हो ?",
-   "en": "अर्चना पूरन सिंहको ३५ वर्षको वैवाहिक जीवन टुट्न लागेको हो ?",
-   "ne": "अर्चना पूरन सिंहको ३५ वर्षको वैवाहिक जीवन टुट्न लागेको हो ?",
-   "imp": 1,
-   "tags": [
-    "ArchanaPuranSingh",
-    "Bollywood",
-    "Celebrity"
-   ],
-   "cat": "culture",
    "val": 1,
    "teaser": true,
    "hits": 1
@@ -8244,6 +8084,29 @@
    "val": 3,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "Before the Floods: What Nepal Teaches Us About the Cost of Interrupted Research",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV2NLNWJDeUJ1eGVfbDI1QXU2QkJkTkJXYjQyZ2ZwLXpNQ2pieGtWQWNMVldPMHFpNlNhZHZINXFTcFBLbnZMM090N3hBSjRBU2JDVEpuVnFyVGRRaHV5SlZENVVkWEo1c3d4ZUFvakhwSzI1Z0t3TkRjNGxpWG5zcENxcUF2SklwUzhBU1pSazZCMG40RTIyd0Q2T3pXaTljWExtMlF4SGxESzQ?oc=5",
+   "source": "Harvard Kennedy School",
+   "ts": 1791288000,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "Before the Floods: What Nepal Teaches Us About the Cost of Interrupted Research",
+   "en": "Before the Floods: What Nepal Teaches Us About the Cost of Interrupted Research",
+   "ne": "Before the Floods: What Nepal Teaches Us About the Cost of Interrupted Research",
+   "imp": 1,
+   "tags": [
+    "Nepal",
+    "Research",
+    "Floods"
+   ],
+   "cat": "society",
+   "val": 1,
+   "teaser": true,
+   "hits": 1
   }
  ],
  "posted": [
@@ -11647,8 +11510,8 @@
    "cat": "crime"
   }
  ],
- "updated": 1791297079,
- "pending_since": null,
+ "updated": 1791297659,
+ "pending_since": 1791297654.529135,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
