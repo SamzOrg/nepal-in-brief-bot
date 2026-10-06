@@ -1,8 +1,5 @@
 {
  "seen": {
-  "http://english.ratopati.com/story/82182/6-nepalis-arrested-with-24-bags-of-chocolates-at-india-nepal-border": 1791082880.4660363,
-  "https://www.onlinekhabar.com/2026/10/2031615/sita-gurung-announces-candidacy-for-congress-joint-general-secretary": 1791082880.4660363,
-  "http://lokaantar.com/story/330418/2026/10/4/sita-gurung-": 1791082880.4660363,
   "https://english.onlinekhabar.com/nepali-congress-general-convention-2.html": 1791083443.5612469,
   "https://news.google.com/rss/articles/CBMif0FVX3lxTE52TGNhRzZzLVF2VWhOenBfNjJwcEVsM3ByWnhrdXY5R1RVbnN0cUFiU1Ezc00zTVhIN1A5UzNGbERFUEkzaHFrQjNEMlBJRkZPNEdaUmFVTlQ3d2NmQlRBV3FscUUzSlJDVVZpd2JhTndwYzhmWWU3YnAtbHhWVVk?oc=5": 1791083443.5612469,
   "https://www.ratopati.com/story/596986/jitiya-festival-ends-today": 1791084047.1449766,
@@ -2958,7 +2955,12 @@
   "https://gorkhapatraonline.com/news/225583": 1791255046.9306872,
   "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbXpKMWZ6MTBwU1NpQmVybjl6dW5ENTRPWmdYSlFjVjRYY291WXZjOHpNRVlMN3V1THl5TmZROXhHRGhmWllIdmRlcHFRV3dPVzA1MXRkbGJLTVNOYjFyRjY5UVBTbkJNaDkzbEhMVFBtUGtPNzZaMjV2VUNLVFpmdHVJN1NvbUNtWDc2TzBCdw?oc=5": 1791255046.9306872,
   "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMkRNdUJDMkxsRlBOUTh6SDJMLWRvSGJKTXcyclMyd29fVWJ1aDBENW50eWo1elZ6ZzV5bmpLczFiVEZRNUpySW1oeHA3QnFPRWpVNkVZd0dsaElHdTRDX2FQcU1BOFV1bU1qblMzZ2U2eG51ZXZiUjk1YllVVmdxOFozMFQ1RW5FLWE3amRHZUcwdw?oc=5": 1791255046.9306872,
-  "http://english.ratopati.com/story/82480/meeting-of-the-parliamentary-special-committee-to-study-the-impact-of-the-bhotekoshi-floods-is-being-held-today": 1791255046.9306872
+  "http://english.ratopati.com/story/82480/meeting-of-the-parliamentary-special-committee-to-study-the-impact-of-the-bhotekoshi-floods-is-being-held-today": 1791255046.9306872,
+  "https://gorkhapatraonline.com/news/225587": 1791255687.4556534,
+  "https://gorkhapatraonline.com/news/225585": 1791255687.4556534,
+  "https://www.setopati.com/politics/400097": 1791255687.4556534,
+  "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdTA3aF9lN195MlpSbXVBaG5kRFVHTGhjeUJmVHBvTXZ1WUtPN1U5Y2hiTmh5T2VzWGJfeW5DandSbG9LMXpvek1xMWp1V2J1enIwN0RjeUVJa1o1a2dObFNHZjhHNnpDTTF1anhsclM2Y1hfV1hzTDRvelhKd1BzdjdmTGJiclFNbEpJdHJuc01VUnMtVlN3Y3RNWTI3TzNvSkx0OUNRSjdEWmsyQjJ6UkxIa3BXdkhsMGdQQWNuaU1hRkdqS0loN3RNWnJSWlE?oc=5": 1791255687.4556534,
+  "https://theannapurnaexpress.com/story/67683": 1791255687.4556534
  },
  "queue": [
   {
@@ -3191,7 +3193,7 @@
    "cat": "world",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Nepal likely to receive rain despite monsoon retreat",
@@ -3653,7 +3655,7 @@
    "cat": "economy",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Three Governments, One System: Intergovernmental Relations in the Federal Civil Service Bill",
@@ -3931,7 +3933,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 9
+   "hits": 10
   },
   {
    "title": "सुशील पण्डितद्वारा कांग्रेस केन्द्रीय सदस्यमा उमेदवारी घोषणा",
@@ -4229,7 +4231,7 @@
    "cat": "politics",
    "val": 2,
    "teaser": false,
-   "hits": 3
+   "hits": 4
   },
   {
    "title": "Sri Lankan migrant worker sentenced to death in Saudi Arabia for Facebook post",
@@ -4252,7 +4254,7 @@
    "cat": "world",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "खनियाघाटको झोलुङ्गे पुलमा दुईपाङ्ग्रे सवारी चलाउन रोक",
@@ -8487,7 +8489,7 @@
    "cat": "economy"
   }
  ],
- "updated": 1791255067,
+ "updated": 1791255692,
  "pending_since": 1791255046.9306872,
  "fb_blocks": [
   1790350880.4125228,
