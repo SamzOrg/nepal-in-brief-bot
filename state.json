@@ -2593,7 +2593,8 @@
   "https://gorkhapatraonline.com/news/225663": 1791307865.6287744,
   "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBrd1Q2MnItMllDeXJsOTlZMU1sRGp1MFZsSjVoUmIydDlpNmNjY2pPWmFHcEotUEJ3eHFEVlI2dk9TN2JQQ2ZsTEZSRlQ5dFllODk0UTU0a2NIeVU?oc=5": 1791307865.6287744,
   "https://baahrakhari.com/detail/504074": 1791307865.6287744,
-  "https://news.google.com/rss/articles/CBMifEFVX3lxTFBCT3ViVi1fZHRvNnZNbFo3c3RmZ3VVR25YUmtqeHVTUlRRSjd2NUdSRlZFeDYwNVppcmhaTHJESGc2THVfaHhaNE1QNHdxaTBnQ2l2NGZGeTVYWUl6REN2bndUOHhXMEFUVHlqbUJSVGJrbHd5cUJlMFBLUG4?oc=5": 1791308447.9492984
+  "https://news.google.com/rss/articles/CBMifEFVX3lxTFBCT3ViVi1fZHRvNnZNbFo3c3RmZ3VVR25YUmtqeHVTUlRRSjd2NUdSRlZFeDYwNVppcmhaTHJESGc2THVfaHhaNE1QNHdxaTBnQ2l2NGZGeTVYWUl6REN2bndUOHhXMEFUVHlqbUJSVGJrbHd5cUJlMFBLUG4?oc=5": 1791308447.9492984,
+  "https://baahrakhari.com/detail/504079": 1791309049.7376661
  },
  "queue": [
   {
@@ -2774,51 +2775,6 @@
    ],
    "cat": "disaster",
    "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "काठमाडौंसहित पाँच प्रदेशमा असिनापानी र हावाहुरी",
-   "summary": "काठमाडौं उपत्यकासहित देशका विभिन्न भू-भागमा मंगलबार दिउँसो मेघगर्जन, चट्याङ र असिनासहित वर्षा सुरु भएको छ।...",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/hail-rain-and-windstorm-in-five-provinces-including-kathmandu-33-15.html",
-   "source": "Nagarik News",
-   "ts": 1791279999,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1769597882_Rain14.jpg",
-   "lang": "ne",
-   "hl": "काठमाडौंसहित पाँच प्रदेशमा असिनापानी र हावाहुरी",
-   "en": "काठमाडौंसहित पाँच प्रदेशमा असिनापानी र हावाहुरी",
-   "ne": "काठमाडौंसहित पाँच प्रदेशमा असिनापानी र हावाहुरी",
-   "imp": 3,
-   "tags": [
-    "Weather",
-    "Kathmandu",
-    "असिनापानी"
-   ],
-   "cat": "disaster",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Mustang: A Dream Destination for Nepalis",
-   "summary": "Mustang, a district beyond the Himalayas, is also a dream destination for many Nepalis. The geographical structure, natural conditions, and...",
-   "link": "http://english.ratopati.com/story/82578/upper-mustang-an-exciting-journey-through-the-red-mountains-and-caves-of-the-desert",
-   "source": "Ratopati EN",
-   "ts": 1791279953,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/setting/banner-image_sPOGzj8QHe.jpg",
-   "lang": "en",
-   "hl": "Mustang: A Dream Destination for Nepalis",
-   "en": "Mustang: A Dream Destination for Nepalis",
-   "ne": "Mustang: A Dream Destination for Nepalis",
-   "imp": 2,
-   "tags": [
-    "Mustang",
-    "Tourism"
-   ],
-   "cat": "culture",
-   "val": 3,
    "teaser": false,
    "hits": 1
   },
@@ -10085,7 +10041,7 @@
    "cat": "society"
   }
  ],
- "updated": 1791308450,
+ "updated": 1791309055,
  "pending_since": 1791308447.9492984,
  "fb_blocks": [
   1790350880.4125228,
