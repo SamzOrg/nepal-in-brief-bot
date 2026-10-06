@@ -1,8 +1,5 @@
 {
  "seen": {
-  "https://risingnepaldaily.com/news/87359": 1791079281.3600848,
-  "https://khabarhub.com/2026/04/1032699/": 1791079281.3600848,
-  "https://nagariknews.nagariknetwork.com/economy/the-number-of-industries-being-liquidated-is-increasing-24-15.html": 1791079281.3600848,
   "https://www.onlinekhabar.com/2026/10/2031585/nepal-police-wins-madan-bhandari-cup-international-volleyball-title": 1791079841.8881035,
   "https://gorkhapatraonline.com/news/225331": 1791079841.8881035,
   "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOVRzUFhxUUVVaFllV1F6eU1ZV3JUMGVwNENJbXh5UE91cVBocWdlV2NSeExIbm1pVUFVOHNpekI3TWthZUppOHlRbFlEaGI1SVNUMHVUUzFlZDlJMGVvSjF0eVMwQnlTNERSS25ZMXVaazBPcFc2RWdhd3ZKVy03MkRhZTZOd3pUVnJyYVVNSDF5LWdIdEZITkdWS1psSDF0QU5mOTBMdHdkU2M?oc=5": 1791079841.8881035,
@@ -2967,32 +2964,13 @@
   "http://lokaantar.com/story/330579/2026/10/6/congress-": 1791250851.4952276,
   "http://english.ratopati.com/story/82472/2371-more-voters-in-the-15th-general-convention-than-in-the-14th": 1791251447.081525,
   "http://english.ratopati.com/story/82471/congress-general-convention-nomination-registration-begins-at-1230-pm": 1791251447.081525,
-  "https://nagariknews.nagariknetwork.com/politics/congress-general-convention-nomination-registration-begins-this-afternoon-86-56.html": 1791251447.081525
+  "https://nagariknews.nagariknetwork.com/politics/congress-general-convention-nomination-registration-begins-this-afternoon-86-56.html": 1791251447.081525,
+  "https://risingnepaldaily.com/news/87450": 1791252120.4924276,
+  "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1WcFc4X0FLRTVJdGpnSTJqaE9RYWlXQm52WkZvOGhkR3ptdklDLU1jVHdPOTlyM056UWhkT0FncVNLdlFKLVQ4bEZDOWl6YXJw?oc=5": 1791252120.4924276,
+  "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMWh6RW9fSGpPYXF0RVpHRjVCMlZIeDctMG1yMXB6WWVPUkJyT1VMSXp5cXRLN1pxSTRkQ0hZX2hna0hfLU4wVzlnVnNqTnNmM0c0Ti1uYlU1ZXpWQTBEM19JcElqVWZKNnYxUG5Gc2pDd3FfRlM5U3VnLU1ENC1GVngwMlFQRm1lb2NSRFhB?oc=5": 1791252120.4924276,
+  "http://english.ratopati.com/story/82473/death-penalty-in-saudi-arabia-for-writing-on-facebook": 1791252120.4924276
  },
  "queue": [
-  {
-   "title": "घुस लिएको आरोपमा मुद्दा दायर",
-   "summary": "काठमाडौँ, असोज १९ गते । अख्तियार दुरुपयोग अनुसन्धान आयोगले नेपाल विद्युत् प्राधिकरण, इटहरी वितरण केन्द्रमा कार्यरत इञ्जिनियर कृष्णनारायण यादवविरुद्ध विशेष अदालतमा मुद्दा दायर गरेको...",
-   "link": "https://gorkhapatraonline.com/news/225558",
-   "source": "Gorkhapatra",
-   "ts": 1791222968,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/386642/conversions/CIAA-original.jpg",
-   "lang": "ne",
-   "hl": "घुस लिएको आरोपमा मुद्दा दायर",
-   "en": "घुस लिएको आरोपमा मुद्दा दायर",
-   "ne": "घुस लिएको आरोपमा मुद्दा दायर",
-   "imp": 3,
-   "tags": [
-    "Corruption",
-    "CIAA",
-    "घुस"
-   ],
-   "cat": "crime",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
-  },
   {
    "title": "Jajarkot Records 102.6mm Rainfall in 6 Hours, Highest Nationwide",
    "summary": "Kathmandu. In Jajarkot district, 102.6 millimeters of rainfall has been measured in the last 6 hours. According to the weather...",
@@ -3131,7 +3109,7 @@
    "cat": "economy",
    "val": 3,
    "teaser": false,
-   "hits": 3
+   "hits": 4
   },
   {
    "title": "Turtles Facing Extinction Due to Habitat Loss and Pollution",
@@ -3662,7 +3640,7 @@
    "cat": "disaster",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Movie review: 'Digger' is a blockbuster-sized waste of a carbon footprint",
@@ -4309,6 +4287,29 @@
    "val": 2,
    "teaser": false,
    "hits": 2
+  },
+  {
+   "title": "Sri Lankan migrant worker sentenced to death in Saudi Arabia for Facebook post",
+   "summary": "Saudi Arabia. A 24-year-old Sri Lankan migrant worker, Anujan Sivarasa, has been sentenced to death in Saudi Arabia on charges...",
+   "link": "http://english.ratopati.com/story/82473/death-penalty-in-saudi-arabia-for-writing-on-facebook",
+   "source": "Ratopati EN",
+   "ts": 1791251882,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/cccb3130-c093-11f1-a4af-19dbf5352a59png_APtB00sVq2.webp",
+   "lang": "en",
+   "hl": "Sri Lankan migrant worker sentenced to death in Saudi Arabia for Facebook post",
+   "en": "Sri Lankan migrant worker sentenced to death in Saudi Arabia for Facebook post",
+   "ne": "Sri Lankan migrant worker sentenced to death in Saudi Arabia for Facebook post",
+   "imp": 1,
+   "tags": [
+    "SriLanka",
+    "SaudiArabia",
+    "MigrantWorker"
+   ],
+   "cat": "world",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
@@ -7767,7 +7768,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1791251466,
+ "updated": 1791252124,
  "pending_since": 1791251447.081525,
  "fb_blocks": [
   1790350880.4125228,
