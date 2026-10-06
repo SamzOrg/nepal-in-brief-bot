@@ -1,9 +1,5 @@
 {
  "seen": {
-  "https://www.ratopati.com/story/596969/how-was-your-week-check-out-your-horoscope": 1791074448.0105104,
-  "https://www.onlinekhabar.com/2026/10/2031557/overhead-canopy-bridge-being-added-to-narayangadh-butwal-road-section": 1791074448.0105104,
-  "http://annapurnapost.com/story/508909": 1791074448.0105104,
-  "https://risingnepaldaily.com/news/87351": 1791074448.0105104,
   "https://baahrakhari.com/detail/503640": 1791075049.0438063,
   "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNLVJhYzVRU2hnaWVVcXBjcVFLRnU2b3Z2Slczc0habGNDUlV1cDZBa3FNUEFaRU1OM05FWTdRdGY2VTVJeXV5YTZ6blJlR094ZDdEOVhQXzVOVVJIemx2TzluS0ZrckVmVnF6Rkc5UWIzSWczTWV0WUkxVmxDUDRPLWV4Yl9DblFRcENkRWIzdVphRFowcjJEdTB0eXo2TXNYWUc5Si0tOW9ZOVhzUl9WcGk0VUlNZE9RRmNBUkZzOEpzX0JNdWQzMXg4SHB3ajJnVjBleVpDdmFTVlUxdG52SGRB?oc=5": 1791075679.0836866,
   "https://english.khabarhub.com/2026/04/570531/": 1791075679.0836866,
@@ -2997,32 +2993,11 @@
   "https://gorkhapatraonline.com/news/225562": 1791244890.8178017,
   "http://english.ratopati.com/story/82462/this-is-the-foreign-exchange-rate-on-tuesday": 1791244890.8178017,
   "http://english.ratopati.com/story/82461/turtles-are-becoming-rare-as-their-habitats-are-destroyed": 1791244890.8178017,
-  "http://english.ratopati.com/story/82460/farmers-worried-after-orange-disease": 1791244890.8178017
+  "http://english.ratopati.com/story/82460/farmers-worried-after-orange-disease": 1791244890.8178017,
+  "http://lokaantar.com/story/330574/2026/10/6/dollar-": 1791247250.727975,
+  "https://english.khabarhub.com/2026/06/570834/": 1791247250.727975
  },
  "queue": [
-  {
-   "title": "ह्वाइट हाउस छाडेकी क्यारोलिन फक्स न्युजमा जोडिइन्",
-   "summary": "लेभिटले जनवरी २०२५ देखि अगस्ट २०२६ सम्म ट्रम्पको दोस्रो प्रशासनमा ३६औँ ह्वाइट हाउस प्रेस सचिवका रूपमा काम गरेकी थिइन्। उनी अमेरिकी इतिहासकै सबैभन्दा कम उमेरकी ह्वाइट हाउस प्रेस सचिव बनेकी थिइन्।...",
-   "link": "https://nagariknews.nagariknetwork.com/international/caroline-who-left-the-white-house-joined-fox-news-84-22.html",
-   "source": "Nagarik News",
-   "ts": 1791218300,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1791218289_Karoline%20Leavitt.jpg",
-   "lang": "ne",
-   "hl": "ह्वाइट हाउस छाडेकी क्यारोलिन फक्स न्युजमा जोडिइन्",
-   "en": "ह्वाइट हाउस छाडेकी क्यारोलिन फक्स न्युजमा जोडिइन्",
-   "ne": "ह्वाइट हाउस छाडेकी क्यारोलिन फक्स न्युजमा जोडिइन्",
-   "imp": 1,
-   "tags": [
-    "WhiteHouse",
-    "FoxNews",
-    "Karoline"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
   {
    "title": "ताप्लेजुङमा चार दिनमा ९५ क्विन्टल चिनी बिक्री",
    "summary": "साहारा लिम्बू फुङलिङ, असोज १९ गते । ताप्लेजुङमा चार दिनको अवधिमा खाद्य व्यवस्था तथा व्यापार कम्पनी लिमिटेडले ९५ क्विन्टल चिनी बिक्री गरेको छ । स्थापना भएको ४८ वर्षपछि ताप्लेजुङमा ब...",
@@ -3368,6 +3343,30 @@
    ],
    "cat": "economy",
    "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Floods, landslides cause extensive damage to road infrastructure in Baglung",
+   "summary": "BAGLUNG: Floods and landslides have caused extensive loss of life and property in Baglung, with 13 people reported dead and damage to major road infrastructure alone estimated at around Rs 500 million. Roads under the...",
+   "link": "https://english.khabarhub.com/2026/06/570834/",
+   "source": "Khabarhub EN",
+   "ts": 1791247113,
+   "weight": 2,
+   "img": "https://english.khabarhub.com/wp-content/uploads/2026/10/Road-damage-landslide-400x220.jpg",
+   "lang": "en",
+   "hl": "Floods, landslides cause extensive damage to road infrastructure in Baglung",
+   "en": "Floods, landslides cause extensive damage to road infrastructure in Baglung",
+   "ne": "Floods, landslides cause extensive damage to road infrastructure in Baglung",
+   "imp": 4,
+   "tags": [
+    "Floods",
+    "Landslide",
+    "Baglung",
+    "पहिरो"
+   ],
+   "cat": "disaster",
+   "val": 2,
    "teaser": false,
    "hits": 1
   }
@@ -6828,7 +6827,7 @@
    "cat": "crime"
   }
  ],
- "updated": 1791246681,
+ "updated": 1791247254,
  "pending_since": 1791245452.63722,
  "fb_blocks": [
   1790350880.4125228,
