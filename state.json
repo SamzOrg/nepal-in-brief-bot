@@ -2981,7 +2981,10 @@
   "https://kathmandupost.com/columns/2026/10/05/how-the-prime-minister-s-assessment-of-mps-challenges-democratic-principles": 1791249648.2452495,
   "https://gorkhapatraonline.com/news/225567": 1791249648.2452495,
   "https://nagariknews.nagariknetwork.com/editorial/safe-travel-during-festivals-is-the-responsibility-of-the-state-55-72.html": 1791249648.2452495,
-  "https://gorkhapatraonline.com/news/225566": 1791249648.2452495
+  "https://gorkhapatraonline.com/news/225566": 1791249648.2452495,
+  "http://english.ratopati.com/story/82469/these-are-the-congress-delegates-with-names": 1791250264.5449939,
+  "https://nagariknews.nagariknetwork.com/economy/private-sector-participation-in-electricity-trading-is-being-managed-83-65.html": 1791250264.5449939,
+  "http://lokaantar.com/story/330578/2026/10/6/congress-": 1791250264.5449939
  },
  "queue": [
   {
@@ -3005,29 +3008,6 @@
    "cat": "crime",
    "val": 1,
    "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "सल्यानमा एकैदिन थप ५५ जनामा स्क्रब टाइफस पुष्टि",
-   "summary": "शंकर केसीशारदा (सल्यान), असोज १९ गते । सल्यानमा एकै दिन थप ५५ जनामा स्क्रब टाइफस रोगको सङ्क्रमण पुष्टि भएको छ । स्वास्थ्य सेवा कार्यालय सल्यानका अनुसार सोमबार जिल्लाको दार्मा गाउँप...",
-   "link": "https://gorkhapatraonline.com/news/225556",
-   "source": "Gorkhapatra",
-   "ts": 1791220948,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/386640/conversions/01-Photo-Salyan-original.jpg",
-   "lang": "ne",
-   "hl": "सल्यानमा एकैदिन थप ५५ जनामा स्क्रब टाइफस पुष्टि",
-   "en": "सल्यानमा एकैदिन थप ५५ जनामा स्क्रब टाइफस पुष्टि",
-   "ne": "सल्यानमा एकैदिन थप ५५ जनामा स्क्रब टाइफस पुष्टि",
-   "imp": 3,
-   "tags": [
-    "ScrubTyphoid",
-    "Salyan",
-    "सल्यान"
-   ],
-   "cat": "health",
-   "val": 3,
-   "teaser": false,
    "hits": 1
   },
   {
@@ -3652,7 +3632,7 @@
    "cat": "economy",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "साउदीमा सेना तैनाथ गर्न टर्की र पाकिस्तान सहमत",
@@ -7437,8 +7417,8 @@
    "cat": "society"
   }
  ],
- "updated": 1791249670,
- "pending_since": null,
+ "updated": 1791250267,
+ "pending_since": 1791250264.5449939,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
