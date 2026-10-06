@@ -2684,123 +2684,15 @@
   "https://www.setopati.com/politics/400197": 1791289868.5900235,
   "https://baahrakhari.com/detail/504046": 1791289868.5900235,
   "https://www.setopati.com/kinmel/medical/400193": 1791289868.5900235,
-  "https://www.setopati.com/politics/400196": 1791289868.5900235
+  "https://www.setopati.com/politics/400196": 1791289868.5900235,
+  "https://baahrakhari.com/detail/504050": 1791290449.8615627,
+  "https://baahrakhari.com/detail/504049": 1791290449.8615627,
+  "https://www.setopati.com/politics/400198": 1791290449.8615627,
+  "https://english.onlinekhabar.com/gagan-thapa-candidacy-president.html": 1791290449.8615627,
+  "http://english.ratopati.com/story/82616/gagan-is-being-challenged-for-the-post-of-president-by-his-own-mentor": 1791290449.8615627,
+  "http://lokaantar.com/story/330641/2026/10/6/gagan-thapa-": 1791290449.8615627
  },
  "queue": [
-  {
-   "title": "Anyone leaking sensitive state information will face action: Home Minister",
-   "summary": "KATHMANDU: Home Minister Sudan Gurung has vowed to take action against anyone who breaches the confidentiality entrusted to them by the state, saying no one will be spared for deliberately leaking sensitive information....",
-   "link": "https://english.khabarhub.com/2026/06/570877/",
-   "source": "Khabarhub EN",
-   "ts": 1791261508,
-   "weight": 2,
-   "img": "https://english.khabarhub.com/wp-content/uploads/2026/04/Sudan-Gurung-1-400x220.jpg",
-   "lang": "en",
-   "hl": "Anyone leaking sensitive state information will face action: Home Minister",
-   "en": "Anyone leaking sensitive state information will face action: Home Minister",
-   "ne": "Anyone leaking sensitive state information will face action: Home Minister",
-   "imp": 3,
-   "tags": [
-    "HomeMinister",
-    "Government",
-    "Nepal"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 7
-  },
-  {
-   "title": "इरान युद्ध अन्त्यको पहल बुझ्न राष्ट्रसंघका महासचिव पाकिस्तानमा",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/503931",
-   "source": "Baahrakhari",
-   "ts": 1791261447,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "इरान युद्ध अन्त्यको पहल बुझ्न राष्ट्रसंघका महासचिव पाकिस्तानमा",
-   "en": "इरान युद्ध अन्त्यको पहल बुझ्न राष्ट्रसंघका महासचिव पाकिस्तानमा",
-   "ne": "इरान युद्ध अन्त्यको पहल बुझ्न राष्ट्रसंघका महासचिव पाकिस्तानमा",
-   "imp": 1,
-   "tags": [
-    "Iran",
-    "Pakistan",
-    "इरान"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Civil Society Faces Challenges in Nepal Amidst Political and Social Contradictions",
-   "summary": "Kathmandu. Nepali society is currently standing at a crossroads of serious social, psychological, and political contradictions. On one hand, there...",
-   "link": "http://english.ratopati.com/story/82495/civic-space-being-swallowed-up-by-the-artificial-polarization-of-new-and-old",
-   "source": "Ratopati EN",
-   "ts": 1791261398,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/nagarik_V9hy6LDtkh.webp",
-   "lang": "en",
-   "hl": "Civil Society Faces Challenges in Nepal Amidst Political and Social Contradictions",
-   "en": "Civil Society Faces Challenges in Nepal Amidst Political and Social Contradictions",
-   "ne": "Civil Society Faces Challenges in Nepal Amidst Political and Social Contradictions",
-   "imp": 2,
-   "tags": [
-    "CivilSociety",
-    "Nepal",
-    "Politics"
-   ],
-   "cat": "society",
-   "val": 2,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "जग्गा विकास आयोजना अघि बढ्द",
-   "summary": "बनेपा समाचारदाताबनेपा, असोज २० गते । विवाद र कानुनी उल्झनका कारण अलपत्र परेको धुलिखेल जग्गा विकास आयोजनाको काम २२ वर्षपछि पुनः अघि बढेको छ । आयोजनालाई निकास दिन गत वैशाख २२ गते कार...",
-   "link": "https://gorkhapatraonline.com/news/225604",
-   "source": "Gorkhapatra",
-   "ts": 1791261347,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/386695/conversions/Untitled-1-original.jpg",
-   "lang": "ne",
-   "hl": "जग्गा विकास आयोजना अघि बढ्द",
-   "en": "जग्गा विकास आयोजना अघि बढ्द",
-   "ne": "जग्गा विकास आयोजना अघि बढ्द",
-   "imp": 2,
-   "tags": [
-    "LandDevelopment",
-    "जग्गा"
-   ],
-   "cat": "economy",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "खाद्यान्न अभाव नहुने",
-   "summary": "मनाङ समाचारदाता मनाङ, असोज २० गते । बाढीपहिरोका कारण सडक यातायातमा कठिनाइ भए पनि मनाङमा पर्याप्त खाद्यवस्तुको मौज्दात रहेकाले आगामी चाडपर्वमा खाद्यान्न अभाव नहुने भएको छ । खाद्य व्...",
-   "link": "https://gorkhapatraonline.com/news/225603",
-   "source": "Gorkhapatra",
-   "ts": 1791261131,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/386694/conversions/456-original.jpg",
-   "lang": "ne",
-   "hl": "खाद्यान्न अभाव नहुने",
-   "en": "खाद्यान्न अभाव नहुने",
-   "ne": "खाद्यान्न अभाव नहुने",
-   "imp": 2,
-   "tags": [
-    "FoodSecurity",
-    "Market",
-    "खाद्यान्न"
-   ],
-   "cat": "economy",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
-  },
   {
    "title": "Woman Dies During Childbirth at Paropkar Hospital, Family Alleges Negligence",
    "summary": "Kathmandu. The mother died during childbirth at Paropkar Maternity and Women's Hospital in Thapathali, Kathmandu. After the baby was born...",
@@ -3102,30 +2994,6 @@
    "hits": 1
   },
   {
-   "title": "जहदाबाट २१० किलो गाँजा बरामद",
-   "summary": "मोरङको जहदा गाउँपालिकाबाट सशस्त्र प्रहरीले ठुलो परिमाणमा लागुऔषध गाँजा बरामद गरेको छ।",
-   "link": "https://nagariknews.nagariknetwork.com/Aparadh/210-kg-of-marijuana-seized-from-jahada-91-32.html",
-   "source": "Nagarik News",
-   "ts": 1791261425,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1791261413_New%20Project%20(2).jpg",
-   "lang": "ne",
-   "hl": "जहदाबाट २१० किलो गाँजा बरामद",
-   "en": "जहदाबाट २१० किलो गाँजा बरामद",
-   "ne": "जहदाबाट २१० किलो गाँजा बरामद",
-   "imp": 2,
-   "tags": [
-    "DrugSeizure",
-    "Jahada",
-    "Cannabis",
-    "गाँजा"
-   ],
-   "cat": "crime",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
    "title": "Mountain Climate Fund Advocated for Climate-Affected Regions",
    "summary": "Kathmandu. The Former Planners Forum has drawn the government's attention to advocate globally for the establishment of a special Mountain...",
    "link": "http://english.ratopati.com/story/82497/pre-planning-forum-demands-establishment-of-special-mountain-climate-fund",
@@ -3167,29 +3035,6 @@
     "SwarnaBinduPrashan"
    ],
    "cat": "health",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "ठुला विद्यालयमा ६ अर्ब लगानी गर्दै सरकार",
-   "summary": "शिक्षा विभागका अधिकृत प्रेम त्रिपाठीका अनुसार देशभर दुई हजारभन्दा बढी विद्यार्थी भएका १०९ सामुदायिक विद्यालय पहिचान भएका छन्।...",
-   "link": "https://nagariknews.nagariknetwork.com/education/government-investing-6-billion-in-big-schools-67-70.html",
-   "source": "Nagarik News",
-   "ts": 1791261178,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1791261160_Sarkar.jpg",
-   "lang": "ne",
-   "hl": "ठुला विद्यालयमा ६ अर्ब लगानी गर्दै सरकार",
-   "en": "ठुला विद्यालयमा ६ अर्ब लगानी गर्दै सरकार",
-   "ne": "ठुला विद्यालयमा ६ अर्ब लगानी गर्दै सरकार",
-   "imp": 3,
-   "tags": [
-    "SchoolEducation",
-    "GovernmentInvestment",
-    "EducationBudget"
-   ],
-   "cat": "education",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -3352,7 +3197,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 3
+   "hits": 4
   },
   {
    "title": "सञ्चारमन्त्री डा तिमिल्सिनाद्वारा नुवाकोटका बाढीपीडितसँग छलफल",
@@ -5789,29 +5634,6 @@
    "hits": 2
   },
   {
-   "title": "Honor announces triple fest excitement for customers",
-   "summary": "This festive season, Honor Nepal is turning celebrations into an experience filled with excitement, rewards, and unforgettable moments with its latest \"Tin Chaadh Ko Bahaar, Honor Ko Saath Ma Upahaari Upahaar\" campaign....",
-   "link": "https://theannapurnaexpress.com/story/67699",
-   "source": "Annapurna Express",
-   "ts": 1791261075.7651772,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Honor announces triple fest excitement for customers",
-   "en": "Honor announces triple fest excitement for customers",
-   "ne": "Honor announces triple fest excitement for customers",
-   "imp": 1,
-   "tags": [
-    "Honor",
-    "Smartphone",
-    "Tech"
-   ],
-   "cat": "tech",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Nepali Congress Leader Rita Khnal Registers Candidacy for General Secretary",
    "summary": "Nepali Congress leader Rita Khnal has registered her candidacy for the post of General Secretary.She registered her candidacy for the...",
    "link": "http://english.ratopati.com/story/82547/rita-khanal-files-candidacy-for-nepali-congress-general-secretary",
@@ -6748,7 +6570,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 5
+   "hits": 6
   },
   {
    "title": "कांग्रेस उपसभापति पदमा हालसम्म ६ जनाको उम्मेदवारी दर्ता",
@@ -8187,7 +8009,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "नेपाली क्रिकेट अब खेलरोमा, खेल हेर्नेसँगै अनुमान गर्ने र लिडरबोर्डमा प्रतिस्पर्धा गर्ने अवसर",
@@ -8599,7 +8421,7 @@
    "cat": "infrastructure",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "18-Year-Old Abhipsa Poudel Files Candidacy for Nepali Congress Central Committee",
@@ -9067,17 +8889,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1790685077.516558,
-   "en": "Nepal plans up to 1,100 MW power imports from India after floods damage projects",
-   "ne": "Nepal plans up to 1,100 MW power imports from India after floods damage projects",
-   "link": "https://www.businesstoday.in/india/story/nepal-plans-up-to-1100-mw-power-imports-from-india-after-floods-damage-hydropower-projects-558590-2026-09-29",
-   "source": "Business Today",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": true,
-   "cat": "disaster"
-  },
   {
    "ts": 1790685728.3647768,
    "en": "Govt recommends Dr. Manoj Kumar Sharma as Chief Justice, bypassing seniority",
@@ -12467,7 +12278,7 @@
    "cat": "society"
   }
  ],
- "updated": 1791289871,
+ "updated": 1791290452,
  "pending_since": 1791289868.5900235,
  "fb_blocks": [
   1790350880.4125228,
