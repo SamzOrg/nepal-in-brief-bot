@@ -2982,7 +2982,9 @@
   "https://gorkhapatraonline.com/news/225584": 1791256254.386123,
   "https://baahrakhari.com/detail/503914": 1791256254.386123,
   "https://nagariknews.nagariknetwork.com/international/okinawa-case-american-marine-arrested-what-did-the-japanese-prime-minister-say-35-14.html": 1791256254.386123,
-  "https://gorkhapatraonline.com/news/225582": 1791256254.386123
+  "https://gorkhapatraonline.com/news/225582": 1791256254.386123,
+  "https://kathmandupost.com/world/2026/10/06/trump-says-us-bombers-moved-from-uk-due-to-threats": 1791256729.317285,
+  "http://lokaantar.com/story/330591/2026/10/6/swarnim-": 1791256729.317285
  },
  "queue": [
   {
@@ -3677,7 +3679,7 @@
    "cat": "economy",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "Three Governments, One System: Intergovernmental Relations in the Federal Civil Service Bill",
@@ -5375,7 +5377,7 @@
    "cat": "world",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "लुम्बिनीमा स्वास्थ्य सेवा सुधारदेखि आयुर्वेद औषधी उत्पादनसम्मका १३ प्रतिबद्धता",
@@ -5448,17 +5450,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1790651461.7722244,
-   "en": "Baglung flood and landslide death toll reaches 12, one still missing",
-   "ne": "बागलुङ बाढीपहिरो : मृतकको संख्या १२ पुग्यो, अझै एक जना बेपत्ता",
-   "link": "https://www.onlinekhabar.com/2026/09/2028154/baglung-floods-and-landslides-death-toll-reaches-12-one-more-missing",
-   "source": "Onlinekhabar",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "disaster"
-  },
   {
    "ts": 1790652063.7687476,
    "en": "At least 19 killed in landslides, floods across Nepal",
@@ -8903,8 +8894,8 @@
    "cat": "economy"
   }
  ],
- "updated": 1791256261,
- "pending_since": null,
+ "updated": 1791256732,
+ "pending_since": 1791256729.317285,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
