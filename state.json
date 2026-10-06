@@ -1,8 +1,5 @@
 {
  "seen": {
-  "https://kathmandupost.com/columns/2026/10/04/why-passive-neutrality-won-t-take-nepal-anywhere": 1791076250.5323942,
-  "http://lokaantar.com/story/330407/2026/10/4/galkot-": 1791076250.5323942,
-  "https://baahrakhari.com/detail/503643": 1791076250.5323942,
   "https://baahrakhari.com/detail/503644": 1791076845.426897,
   "https://www.onlinekhabar.com/2026/10/2031561/10-destinations-in-lamjung-to-visit-during-dashain-holidays": 1791076845.426897,
   "http://lokaantar.com/story/330411/2026/10/4/dashain-": 1791076845.426897,
@@ -2986,7 +2983,8 @@
   "https://risingnepaldaily.com/news/87441": 1791247849.6043904,
   "https://nagariknews.nagariknetwork.com/Bazar/foreign-currency-exchange-rates-set-for-today-24-93.html": 1791248488.3861809,
   "https://nagariknews.nagariknetwork.com/social-affairs/damage-to-road-infrastructure-due-to-floods-and-landslides-25-55.html": 1791248488.3861809,
-  "http://lokaantar.com/story/330576/2026/10/6/baglung-": 1791248488.3861809
+  "http://lokaantar.com/story/330576/2026/10/6/baglung-": 1791248488.3861809,
+  "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBjWV9ITkdFOHQ3c3RHckJLWXBQN3RKNVRLbDJ4MkQ5Y2F0eUlVYlp1bGdxUkt6eEM5ZVhqMWhoQlJ5Ty1tcUxnSE9uaW5hdGpEazIyWTc5Z1I0alpwRWZJV0lpdw?oc=5": 1791249052.4522684
  },
  "queue": [
   {
@@ -3008,29 +3006,6 @@
     "चिनी"
    ],
    "cat": "economy",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "पाथीभरामा भेडाको बथानको पूजा",
-   "summary": "चन्द्र पन्दाकताप्लेजुङ, असोज १९ गते । ताप्लेजुङस्थित प्रसिद्ध तीर्थस्थल पाथीभरामा भेडाको बथानको पूजा गरिएको छ । पाथीभरा उत्पतिको किम्बदन्तीसँग जोडिएको भेडाको बथानको सोमबार पूजा गरि...",
-   "link": "https://gorkhapatraonline.com/news/225554",
-   "source": "Gorkhapatra",
-   "ts": 1791220013,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/386638/conversions/Veda_pathivara-Taplejung_50-(1)-original.jpg",
-   "lang": "ne",
-   "hl": "पाथीभरामा भेडाको बथानको पूजा",
-   "en": "पाथीभरामा भेडाको बथानको पूजा",
-   "ne": "पाथीभरामा भेडाको बथानको पूजा",
-   "imp": 1,
-   "tags": [
-    "Pathibhara",
-    "Culture",
-    "पाथीभरा"
-   ],
-   "cat": "culture",
    "val": 2,
    "teaser": false,
    "hits": 1
@@ -3684,17 +3659,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1790643700.2352853,
-   "en": "Nepal seeks US$20m from UN loss-and-damage fund for the devastating Bhotekoshi floods",
-   "ne": "नेपालले विनाशकारी भोटेकोशी बाढीका लागि यूएनको हानि-रिपेयर कोषबाट २० मिलियन डलर माग्छ",
-   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxORk5KTVBvcmZpU253RlphM2lJUEt6LWxPcnl6V3dWN1FzOWlXMmRBSGp0aWN4cTVyR3h2LU1xLUc1U3g3U3JPM1FhQ0FrSEdfYURwV3ZFVmtsRFVPV205VG5iVGZ2VnBuakl3TFBodEZFM3ZKUXZHTTZrV2ROYTFVTElNUHlkZFhWT0ZCbWtEM2I5MGN6YThyckV2RW41bmtpX1BwZUI4ZEdpcVlGcjd2bTVTV3gwZzJhRnl0WXJwb0M0c0hYN0hwa2NEaTROZzlnSmNsUl9UQUhRZHdsS2FyV0JLd1VveHBId0FpaHlYcHNtU0Vad09hUkRmaTZ0dw?oc=5",
-   "source": "Asia Insurance Review",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": true,
-   "cat": "disaster"
-  },
   {
    "ts": 1790644258.2217,
    "en": "After the flood, the grey list is now a national emergency",
@@ -7150,7 +7114,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1791248493,
+ "updated": 1791249056,
  "pending_since": 1791248488.3861809,
  "fb_blocks": [
   1790350880.4125228,
