@@ -2592,32 +2592,10 @@
   "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNVFVckpMcmZrY2x2YU9xSkF3d0pLaUcxLWhjQ0xqNEQzaW5mb05ucnB1Z2ZMMGIzb3NxeVpkVkhZY2pRbXVGU0VaZHA5UW1SR0hMcjZnaUJZUWlseHFkcWRjLUtIVDM4ckNuYnJKV1BZN1JzcG9QZWVIay1pNGs5MnlFa1hZdWp4ZllWYW9TOTFNbjBaYi1mZnYwUm5ISTAtMEhxN3ZiTlg?oc=5": 1791305452.7080722,
   "http://english.ratopati.com/story/82636/fierce-clashes-between-houthi-and-government-forces-more-than-270-dead-in-24-hours": 1791305452.7080722,
   "https://gorkhapatraonline.com/news/225674": 1791305452.7080722,
-  "https://news.google.com/rss/articles/CBMizwFBVV95cUxPOFpUWU0yN3A1d0EtOThpODRmZHlHUkNKS0lyS3NqTDJzRGJTem5LeHJncDc0azk0N0ZsWk9GZ3BxcVFvamtMU1pITURjX1hjME9yNjREalMzWUxBbXFWZWh5eXhsRTVoRlBiVXV1RnVjN2pFM0hXRGZwYldNbmZKYkRqMndJZWVtODZTRGZ6ZG1xcEJwbzgxaTRDZnpUQnp5U0NXX1FPZm5jWVpLYTZ0bVJMdFFPSkFtNTI5SDBmekhkMHFyVkI5RERlZHhRQzA?oc=5": 1791306112.1024802
+  "https://news.google.com/rss/articles/CBMizwFBVV95cUxPOFpUWU0yN3A1d0EtOThpODRmZHlHUkNKS0lyS3NqTDJzRGJTem5LeHJncDc0azk0N0ZsWk9GZ3BxcVFvamtMU1pITURjX1hjME9yNjREalMzWUxBbXFWZWh5eXhsRTVoRlBiVXV1RnVjN2pFM0hXRGZwYldNbmZKYkRqMndJZWVtODZTRGZ6ZG1xcEJwbzgxaTRDZnpUQnp5U0NXX1FPZm5jWVpLYTZ0bVJMdFFPSkFtNTI5SDBmekhkMHFyVkI5RERlZHhRQzA?oc=5": 1791306112.1024802,
+  "https://gorkhapatraonline.com/news/225675": 1791306577.6657777
  },
  "queue": [
-  {
-   "title": "Kolpukhola Bridge Damaged by Flood, Repair Underway",
-   "summary": "Dhading. The Kolpukhola bridge located at the border of Dhading and Nuwakot was damaged by the flood that came through...",
-   "link": "http://english.ratopati.com/story/82559/locals-forced-to-commute-at-risk-after-flood-damages-bridge",
-   "source": "Ratopati EN",
-   "ts": 1791277384,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/kolpukhola-bridge-nuwakot-and-dhading_npl_shankarshrestha-3_OcqT703Irl.webp",
-   "lang": "en",
-   "hl": "Kolpukhola Bridge Damaged by Flood, Repair Underway",
-   "en": "Kolpukhola Bridge Damaged by Flood, Repair Underway",
-   "ne": "Kolpukhola Bridge Damaged by Flood, Repair Underway",
-   "imp": 3,
-   "tags": [
-    "KolpukholaBridge",
-    "Flood",
-    "Infrastructure"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
   {
    "title": "बाढीपछि त्रिशूलीमा फेरि सुरू भयो र्‍याफ्टिङ",
    "summary": "पटक-पटक अध्ययन तथा निरीक्षण गरेपछि र्‍याफ्टिङ पुनः सञ्चालन गरिएको नाराका अध्यक्ष कमल ठकुरीले बताए।",
@@ -2820,28 +2798,6 @@
    "val": 1,
    "teaser": true,
    "hits": 1
-  },
-  {
-   "title": "NC extends nomination registration deadline to 6 pm",
-   "summary": "Kathmandu, October 6 The Nepali Congress has extended the deadline for registering nomination papers for its 15th General Convention. The nomination registration period for candidates contesting the election to the...",
-   "link": "https://english.onlinekhabar.com/nc-extends-nomination-registration-deadline-to-6-pm.html",
-   "source": "Onlinekhabar EN",
-   "ts": 1791277713,
-   "weight": 3,
-   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/10/Congress-mahadhibeshan-25-1024x683-1.jpg",
-   "lang": "en",
-   "hl": "NC extends nomination registration deadline to 6 pm",
-   "en": "NC extends nomination registration deadline to 6 pm",
-   "ne": "NC extends nomination registration deadline to 6 pm",
-   "imp": 3,
-   "tags": [
-    "NepaliCongress",
-    "Election"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 3
   },
   {
    "title": "गण्डकीका मुख्यमन्त्री सुरेन्द्रराज पाण्डेले दिए उपसभापतिमा उमेदवारी",
@@ -7016,6 +6972,29 @@
    "val": 3,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "मोटरसाइकलको ठक्करबाट बालकको मृत्यु",
+   "summary": "अनिल पराजुलीहेटौँडा, असोज २० गते । पूर्वी मकवानपुरको बागमती गाउँपालिकामा मोटरसाइकलको ठक्करबाट चार वर्षीय बालकको मृत्यु भएको छ । मृत्यु हुनेमा बागमती गाउँपालिका -८, सात तलेका चार वर...",
+   "link": "https://gorkhapatraonline.com/news/225675",
+   "source": "Gorkhapatra",
+   "ts": 1791306545,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/386806/conversions/Bike-accident-original.jpg",
+   "lang": "ne",
+   "hl": "मोटरसाइकलको ठक्करबाट बालकको मृत्यु",
+   "en": "मोटरसाइकलको ठक्करबाट बालकको मृत्यु",
+   "ne": "मोटरसाइकलको ठक्करबाट बालकको मृत्यु",
+   "imp": 3,
+   "tags": [
+    "Accident",
+    "Motorcycle",
+    "सवारीदुर्घटना"
+   ],
+   "cat": "crime",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
@@ -10408,7 +10387,7 @@
    "cat": "society"
   }
  ],
- "updated": 1791306116,
+ "updated": 1791306583,
  "pending_since": 1791305452.7080722,
  "fb_blocks": [
   1790350880.4125228,
