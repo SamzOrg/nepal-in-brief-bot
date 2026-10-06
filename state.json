@@ -1,8 +1,5 @@
 {
  "seen": {
-  "https://www.ratopati.com/story/597188/portugal-reduced-to-10-players-defeats-norway-2-1": 1791148849.635299,
-  "http://english.ratopati.com/story/82288/greece-and-germany-tied-goalless-greece-second-and-germany-third": 1791148849.635299,
-  "https://www.ratopati.com/story/597187/greece-and-germany-tied-goalless-greece-second-and-germany-third": 1791148849.635299,
   "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNHBxLVdUbFZ1OTdsYTZIUFpEdGlnQ1J2TTNqZFlGSlJOUzVWdVI5bF9xSmdZYTdRc0Q4czJsUDBVYWRpY1VmU0lkQ2ZpS2ZLSXRHVU1wRjhuMnNSNTA1ZWk5dFRQUnlPbE5nODJSLWlNeFZoNUtaVUpUaGd4bV9CRHVhSXFIUktjWTljbnVIdHJsTktSTV9FUy1BZk5nOXlhUUZhT3NMZ3FQVU1yTFNpMXZEaldaY3J1b3fSAboBQVVfeXFMTzRwcS1XVGxWdTk3bGE2SFBaRHRpZ0NSdk0zamRZRkpSTlM1VnVSOWxfcUpnWWE3UXNEOHMybFAwVWFkaWNVZlNJZENmaUtmS0l0R1VNcEY4bjJzUjUwNWVpOXRUUFJ5T2xOZzgyUi1pTXhWaDVLWlVKVGhneG1fQkR1YUlxSFJLY1k5Y251SHRybE5LUk1fRVMtQWZOZzl5YVFGYU9zTGdxUFVNckxTaTF2RGpXWmNydW93?oc=5": 1791154248.5197048,
   "https://www.ratopati.com/story/597190/on-site-study-of-26-landslides-in-myagdi": 1791154248.5197048,
   "http://english.ratopati.com/story/82291/on-site-study-of-26-landslides-in-myagdi": 1791154248.5197048,
@@ -2706,29 +2703,6 @@
    "hits": 1
   },
   {
-   "title": "Energy Ministry forms high-level panel to resolve issues facing energy sector",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRVMwU1VSVE5oa2VIZUtZUXhucW1hWlA5WmpQWGpaOC12LTFnSTVpZ2k0Rkc5dy1LYmhzMVFiUzlYRWRSM2dfODRZTC05LU1fVzZHZHJoMTFSQzNRSExuMXJBaEJYRFgzaUNiZnI5YnJKTUE0RGJYcUgtaVNBMUhuQ3dPX080cmpyRWNUXy1HR2NwMUlvbmk2Q3NHY2dLajJrVlctV1BwN00xLXlfazBzd0JPNFhXTzlSc1FMYklHR1pmVmhDZUpSUUpn?oc=5",
-   "source": "myRepublica",
-   "ts": 1791292800,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Energy Ministry forms high-level panel to resolve issues facing energy sector",
-   "en": "Energy Ministry forms high-level panel to resolve issues facing energy sector",
-   "ne": "Energy Ministry forms high-level panel to resolve issues facing energy sector",
-   "imp": 3,
-   "tags": [
-    "EnergyMinistry",
-    "Panel",
-    "EnergySector"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "न्यायाधीशको दरबन्दी पुनरवलोकनका लागि उच्चस्तरीय समिति",
    "summary": "",
    "link": "https://baahrakhari.com/detail/504058",
@@ -2772,30 +2746,6 @@
     "Visit"
    ],
    "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Lionel Messi to Play Final Match for Argentina, Future in Club Ownership and Business Ventures Explored",
-   "summary": "Lionel Messi is playing his last match for Argentina. Messi, who is the country's most capped player and record goalscorer,...",
-   "link": "http://english.ratopati.com/story/82613/messis-new-innings-off-the-field-business-and-growing-investment-in-youth-football",
-   "source": "Ratopati EN",
-   "ts": 1791292500,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/messi_gYJzViCmvB.webp",
-   "lang": "en",
-   "hl": "Lionel Messi to Play Final Match for Argentina, Future in Club Ownership and Business Ventures Explored",
-   "en": "Lionel Messi to Play Final Match for Argentina, Future in Club Ownership and Business Ventures Explored",
-   "ne": "Lionel Messi to Play Final Match for Argentina, Future in Club Ownership and Business Ventures Explored",
-   "imp": 1,
-   "tags": [
-    "LionelMessi",
-    "Argentina",
-    "Football",
-    "Business"
-   ],
-   "cat": "sports",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -7800,8 +7750,8 @@
    "cat": "disaster"
   }
  ],
- "updated": 1791321062,
- "pending_since": 1791320486.0724313,
+ "updated": 1791321656,
+ "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
