@@ -1,11 +1,5 @@
 {
  "seen": {
-  "https://www.setopati.com/politics/399980": 1791161446.127525,
-  "https://nagariknews.nagariknetwork.com/politics/emphasis-should-be-placed-on-skills-research-and-innovation-along-with-education-minister-pun-87-12.html": 1791161446.127525,
-  "https://baahrakhari.com/detail/503769": 1791161446.127525,
-  "https://nagariknews.nagariknetwork.com/social-affairs/a-thousand-sheep-arrive-in-mustang-strewn-with-snow-62-99.html": 1791161446.127525,
-  "https://www.ratopati.com/story/597205/nepali-congress-central-working-committee-meeting-held-in-open-forum": 1791161446.127525,
-  "http://lokaantar.com/story/330484/2026/10/5/flood-": 1791161446.127525,
   "https://www.onlinekhabar.com/2026/10/2032383/myagdi-floods-and-landslides-550-households-affected": 1791162081.5008686,
   "https://nagariknews.nagariknetwork.com/Bazar/foreign-currency-exchange-rates-set-for-today-92-53.html": 1791162081.5008686,
   "http://lokaantar.com/story/330485/2026/10/5/congress-": 1791162081.5008686,
@@ -2568,31 +2562,12 @@
   "http://english.ratopati.com/story/82645/congress-general-convention-list-of-candidates-for-the-central-working-committee-made-public": 1791333652.6379578,
   "https://risingnepaldaily.com/news/87488": 1791333652.6379578,
   "http://lokaantar.com/story/330663/2026/10/7/congress-": 1791333652.6379578,
-  "https://risingnepaldaily.com/news/87489": 1791333652.6379578
+  "https://risingnepaldaily.com/news/87489": 1791333652.6379578,
+  "http://english.ratopati.com/story/82646/who-is-running-for-the-position-of-congress-joint-general-secretary": 1791334249.704574,
+  "https://baahrakhari.com/detail/504086": 1791334249.704574,
+  "https://www.bbc.co.uk/news/articles/ck054zm1701qo?at_medium=RSS&at_campaign=rss": 1791334249.704574
  },
  "queue": [
-  {
-   "title": "Yemen Conflict: Over 270 Killed in 24 Hours of Clashes",
-   "summary": "Kathmandu. In the ongoing clashes in Yemen, more than 270 people, including government army soldiers and Iran-backed Houthi rebels, have...",
-   "link": "http://english.ratopati.com/story/82636/fierce-clashes-between-houthi-and-government-forces-more-than-270-dead-in-24-hours",
-   "source": "Ratopati EN",
-   "ts": 1791305350,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/yeman_zpGf4Lassx.webp",
-   "lang": "en",
-   "hl": "Yemen Conflict: Over 270 Killed in 24 Hours of Clashes",
-   "en": "Yemen Conflict: Over 270 Killed in 24 Hours of Clashes",
-   "ne": "Yemen Conflict: Over 270 Killed in 24 Hours of Clashes",
-   "imp": 1,
-   "tags": [
-    "Yemen",
-    "Conflict"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
   {
    "title": "Himachal and Punjab Gorkha Association donates Rs 17L to flood-hit Nepal",
    "summary": "",
@@ -2634,72 +2609,6 @@
    ],
    "cat": "crime",
    "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "सुदूरपश्चिम सरकारले बुधबार बजेट ल्याउने : कृषि र पर्यटन प्राथमिकतामा, आकार नबढ्ने",
-   "summary": "लामो समयदेखि बजेटविहीनताको अवस्था झेलिरहेको सुदूरपश्चिम प्रदेश सरकारले चालु आर्थिक वर्ष २०८३/८४ को बजेट बुधबार प्रस्तुत गर्ने भएको छ।...",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/far-western-government-to-present-budget-on-wednesday-agriculture-and-tourism-to-be-prioritized-size-not-to-increase-63-61.html",
-   "source": "Nagarik News",
-   "ts": 1791305166,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1787904543_1686668796_sudurpaschim-1200x560.jpg",
-   "lang": "ne",
-   "hl": "सुदूरपश्चिम सरकारले बुधबार बजेट ल्याउने : कृषि र पर्यटन प्राथमिकतामा, आकार नबढ्ने",
-   "en": "सुदूरपश्चिम सरकारले बुधबार बजेट ल्याउने : कृषि र पर्यटन प्राथमिकतामा, आकार नबढ्ने",
-   "ne": "सुदूरपश्चिम सरकारले बुधबार बजेट ल्याउने : कृषि र पर्यटन प्राथमिकतामा, आकार नबढ्ने",
-   "imp": 3,
-   "tags": [
-    "Sudurpashchim",
-    "Budget"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "पश्चिमबाट मनसुनको प्रभाव क्रमशः कम हुँदैआएको छ",
-   "summary": "काठमाडौँ, असोज २० गते । नेपाल मौसम विज्ञान विभागअन्तर्गतको मौसम पूर्वानुमान महाशाखाका अनुसार हाल देशमा पश्चिमी न्यून चापीय प्रणालीका साथै मनसुनी वायुको प्रभाव समेत रहेको छ । देशका...",
-   "link": "https://gorkhapatraonline.com/news/225663",
-   "source": "Gorkhapatra",
-   "ts": 1791305281,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/386805/conversions/830856182_28969405479362110_1508850090687620831_n-(1)-original.jpg",
-   "lang": "ne",
-   "hl": "पश्चिमबाट मनसुनको प्रभाव क्रमशः कम हुँदैआएको छ",
-   "en": "पश्चिमबाट मनसुनको प्रभाव क्रमशः कम हुँदैआएको छ",
-   "ne": "पश्चिमबाट मनसुनको प्रभाव क्रमशः कम हुँदैआएको छ",
-   "imp": 2,
-   "tags": [
-    "Monsoon",
-    "Weather"
-   ],
-   "cat": "disaster",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "कृषिमन्त्री र विश्व वन्यजन्तु कोष अमेरिका प्रमुखबीच भेटवार्ता",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/504074",
-   "source": "Baahrakhari",
-   "ts": 1791305340,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "कृषिमन्त्री र विश्व वन्यजन्तु कोष अमेरिका प्रमुखबीच भेटवार्ता",
-   "en": "कृषिमन्त्री र विश्व वन्यजन्तु कोष अमेरिका प्रमुखबीच भेटवार्ता",
-   "ne": "कृषिमन्त्री र विश्व वन्यजन्तु कोष अमेरिका प्रमुखबीच भेटवार्ता",
-   "imp": 2,
-   "tags": [
-    "AgricultureMinister",
-    "WWF"
-   ],
-   "cat": "politics",
-   "val": 3,
    "teaser": false,
    "hits": 1
   },
@@ -2862,30 +2771,6 @@
    "val": 3,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "Sri Lanka, Nepal officials keen on state's labour welfare model",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOFk5MDU3Z0NScFV5akdhazVjZ0xHSlFocjhWcjFJUjNtVUVER2NOeHBEdGptY0pmaTZ5ZkZXczBPa2hMSkFSX3F6ZmtJXzI0U0tqUFQ3c28xOXo4R1Q3Y3A4WDBLZkpRZzlOY1o4dmw0bUVDS296OE9lTmZyT0JJeEt1cUp2Wnlobk5zVWRIQmI3OV9Db2hQWnE4S1ZOT2Z0dkVuZ2NTb2daUlNCV1R6NTY1Si14NkxodTEya1NiQ2k1SDFlVkFkN9IByAFBVV95cUxPOFk5MDU3Z0NScFV5akdhazVjZ0xHSlFocjhWcjFJUjNtVUVER2NOeHBEdGptY0pmaTZ5ZkZXczBPa2hMSkFSX3F6ZmtJXzI0U0tqUFQ3c28xOXo4R1Q3Y3A4WDBLZkpRZzlOY1o4dmw0bUVDS296OE9lTmZyT0JJeEt1cUp2Wnlobk5zVWRIQmI3OV9Db2hQWnE4S1ZOT2Z0dkVuZ2NTb2daUlNCV1R6NTY1Si14NkxodTEya1NiQ2k1SDFlVkFkNw?oc=5",
-   "source": "The Tribune",
-   "ts": 1791317905,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Sri Lanka, Nepal officials keen on state's labour welfare model",
-   "en": "Sri Lanka, Nepal officials keen on state's labour welfare model",
-   "ne": "Sri Lanka, Nepal officials keen on state's labour welfare model",
-   "imp": 3,
-   "tags": [
-    "SriLanka",
-    "Nepal",
-    "LabourWelfare",
-    "वैदेशिकरोजगार"
-   ],
-   "cat": "economy",
-   "val": 2,
-   "teaser": false,
-   "hits": 3
   },
   {
    "title": "In 'Tenzing,' the Everest-scaling Sherpa Tenzing Norgay finally gets the spotlight",
@@ -3225,6 +3110,29 @@
    "cat": "disaster",
    "val": 1,
    "teaser": true,
+   "hits": 1
+  },
+  {
+   "title": "नाइजेरियामा विमान दुर्घटना, २५ जनाको मृत्यु",
+   "summary": "",
+   "link": "https://baahrakhari.com/detail/504086",
+   "source": "Baahrakhari",
+   "ts": 1791334015,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "नाइजेरियामा विमान दुर्घटना, २५ जनाको मृत्यु",
+   "en": "नाइजेरियामा विमान दुर्घटना, २५ जनाको मृत्यु",
+   "ne": "नाइजेरियामा विमान दुर्घटना, २५ जनाको मृत्यु",
+   "imp": 1,
+   "tags": [
+    "Nigeria",
+    "PlaneCrash",
+    "विमानदुर्घटना"
+   ],
+   "cat": "world",
+   "val": 3,
+   "teaser": false,
    "hits": 1
   }
  ],
@@ -6616,9 +6524,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "disaster"
+  },
+  {
+   "ts": 1791334257.102201,
+   "en": "Sri Lanka and Nepal officials study Himachal Pradesh labour welfare model",
+   "ne": "Sri Lanka and Nepal officials study Himachal Pradesh labour welfare model",
+   "link": "https://www.tribuneindia.com/news/himachal/sri-lanka-nepal-officials-keen-on-states-labour-welfare-model/amp/?utm=relatedarticles",
+   "source": "The Tribune",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "economy"
   }
  ],
- "updated": 1791333658,
+ "updated": 1791334275,
  "pending_since": 1791333064.3760002,
  "fb_blocks": [
   1790350880.4125228,
