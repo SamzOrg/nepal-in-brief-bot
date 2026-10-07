@@ -1,11 +1,5 @@
 {
  "seen": {
-  "https://gorkhapatraonline.com/news/225441": 1791162891.011736,
-  "https://khabarhub.com/2026/05/1033259/": 1791162891.011736,
-  "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQXh1cXJ5eDkzQkNqTFdMdUlQTFRfTllwdEIwZ0I1OEdheTJsRktOcXlYelllWkJzR3hyMU9iYlN4bmxvakhsQ0JkeEVCamY3M0l1X2FFc3A5R3N1bVBCZnRLNXdQVFlwVDZhVEpZTUFTWUJhbU5xVG9KMlhuZjhCZ3drVVNobFYwU2Qzd2Z5R2NyX3NfeGZ5WTFPOFlBUnVZQWVvNmZkcEtrZWQzUzRHa0xBNVB5UQ?oc=5": 1791162891.011736,
-  "https://nagariknews.nagariknetwork.com/social-affairs/bhotekoshi-flood-45-students-from-rasuwa-still-without-contact-34-92.html": 1791162891.011736,
-  "http://lokaantar.com/story/330489/2026/10/5/chamal-": 1791162891.011736,
-  "http://english.ratopati.com/story/82298/domestic-footwear-and-sandal-industry-facing-disaster-ahead-of-dashain": 1791163241.9885578,
   "https://www.setopati.com/kinmel/banking/399982": 1791163861.7149193,
   "https://english.khabarhub.com/2026/05/570705/": 1791163861.7149193,
   "https://gorkhapatraonline.com/news/225447": 1791163861.7149193,
@@ -2573,50 +2567,6 @@
  },
  "queue": [
   {
-   "title": "Himachal and Punjab Gorkha Association donates Rs 17L to flood-hit Nepal",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeGdscUoyWkc1aGNDdTFVVVYzZklIcmVLUkdlU0tnUVo2blR5cGVmamN5VUlabWFOU1FpT0E4YWwycXRIZkJub05wdHRnZlFzRFpLNW0tbUluS2JOWVQwdzY2YjJCQVlRblBWeVM3RmlRWTJZZ0p0eUpiZFl0Z3JlU255Xy15Uno3TzQwX3dNcjNNclNlSU9zWGFteW16VEt2VzhoS1lCSTY2aUp3SW1IU3hyd9IBtwFBVV95cUxONDV1RjVOYkhEeWhJRTYxcEx0TW1YN19hRDF2aWJUcWdneVIyOE04NDcxRl9RUkdtWmpqRXZoZm96N0JKZVp5RXMxOWp5TDZEZVVRcTRYeVZsWGcxWXdmb21SUDg5RWdaNUw2U25PTVlMTWZQaDRZSjFheGJHYlBSTnZIdDNfNUZlVll1MGIzMXJQNXBUXzdFUTJuQV80YjRzbW1LajE4c1R1RFV2ZWkzZFlDdkt0RlU?oc=5",
-   "source": "The Tribune",
-   "ts": 1791307040,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Himachal and Punjab Gorkha Association donates Rs 17L to flood-hit Nepal",
-   "en": "Himachal and Punjab Gorkha Association donates Rs 17L to flood-hit Nepal",
-   "ne": "Himachal and Punjab Gorkha Association donates Rs 17L to flood-hit Nepal",
-   "imp": 3,
-   "tags": [
-    "GorkhaAssociation",
-    "FloodRelief"
-   ],
-   "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "भन्सार छली गरेका १२ लाख बढीका सामान बरामद",
-   "summary": "रेखीराम रानातानसेन, असोज २० गते । भन्सार छलेर पाल्पातर्फ भित्र्याएका लत्ताकपडा र कस्मेटिक सामग्री प्रहरीले बरामद गरेको छ । प्रहरीले तानसेन-६, काजीपौवास्थित सिद्धार्थ राजमार्ग भ्यान...",
-   "link": "https://gorkhapatraonline.com/news/225676",
-   "source": "Gorkhapatra",
-   "ts": 1791306690,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/386807/conversions/baramad-samagri-original.jpg",
-   "lang": "ne",
-   "hl": "भन्सार छली गरेका १२ लाख बढीका सामान बरामद",
-   "en": "भन्सार छली गरेका १२ लाख बढीका सामान बरामद",
-   "ne": "भन्सार छली गरेका १२ लाख बढीका सामान बरामद",
-   "imp": 2,
-   "tags": [
-    "Smuggling",
-    "Revenue"
-   ],
-   "cat": "crime",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "फ्रान्समा किन चर्कियो विद्यार्थी आन्दोलन ?",
    "summary": "",
    "link": "https://baahrakhari.com/detail/504080",
@@ -3300,29 +3250,6 @@
    "val": 2,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "नेपाल-रुस परामर्श संयन्त्रको तेस्रो बैठक आज",
-   "summary": "नेपाल र रुसबीचको द्विपक्षीय परामर्श संयन्त्रको तेस्रो बैठक आज यहाँ हुँदैछ । नेपाल र रुसले कूटनीतिक सम्बन्ध स्थापना भएको ७० औँ वर्ष मनाइरहेका बेला हुन लागेको बैठकमा नेपाली प्रतिनिधिमण्डलको नेतृत्व परराष्ट्र सचिव...",
-   "link": "http://lokaantar.com/story/330668/2026/10/7/nepal-russia-",
-   "source": "Lokaantar",
-   "ts": 1791320484.932378,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "नेपाल-रुस परामर्श संयन्त्रको तेस्रो बैठक आज",
-   "en": "नेपाल-रुस परामर्श संयन्त्रको तेस्रो बैठक आज",
-   "ne": "नेपाल-रुस परामर्श संयन्त्रको तेस्रो बैठक आज",
-   "imp": 3,
-   "tags": [
-    "NepalRussia",
-    "Diplomacy",
-    "परराष्ट्र"
-   ],
-   "cat": "politics",
-   "val": 2,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "Trump says millions of barrels of oil passed through Hormuz in couple of days",
@@ -6980,9 +6907,20 @@
    "n_ig": 1,
    "brk": true,
    "cat": "disaster"
+  },
+  {
+   "ts": 1791336057.973234,
+   "en": "नेपाल र रुसबीचको द्विपक्षीय परामर्श संयन्त्रको तेस्रो बैठक आज",
+   "ne": "नेपाल र रुसबीचको द्विपक्षीय परामर्श संयन्त्रको तेस्रो बैठक आज",
+   "link": "http://lokaantar.com/story/330668/2026/10/7/nepal-russia-",
+   "source": "Lokaantar",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "politics"
   }
  ],
- "updated": 1791335474,
+ "updated": 1791336077,
  "pending_since": 1791334884.3459127,
  "fb_blocks": [
   1790350880.4125228,
