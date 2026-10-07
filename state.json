@@ -1,8 +1,5 @@
 {
  "seen": {
-  "https://www.setopati.com/politics/399984": 1791165678.1899774,
-  "https://risingnepaldaily.com/news/87403": 1791165678.1899774,
-  "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUUdXVkIwQ1lzZ29VMWE5eU5kbnBDZ01JekdJVVBENzZwR0hadXBSbkk4SmNpRmlKV3U3RXpjQVBtWVZLUEJtMTAwcV96TExYVnU5T19iRmpFblVjRGxhaHFxWGhqZjRZelpWS0prMGROVnNxNmc4TUtBM0E3RFJkVE8xYm5SaFlZVEw4SDdGcHoxalM0QTlkYk0tS1lPMTdkRTJyNGZZaS1QQVpaUk1xaDVmbmI5SF9WU3RwTHRuX3A2WXlO?oc=5": 1791165678.1899774,
   "https://baahrakhari.com/detail/503775": 1791166244.9165876,
   "https://www.ratopati.com/story/597221/boy-missing-for-10-years-found-in-india-police-hand-him-over-to-family": 1791166244.9165876,
   "https://kathmandupost.com/money/2026/10/05/nepal-india-move-to-digitise-cross-border-vehicle-permits": 1791166244.9165876,
@@ -2538,31 +2535,11 @@
   "https://www.setopati.com/social/400216": 1791337248.8660107,
   "http://lokaantar.com/story/330673/2026/10/7/narayani-": 1791337248.8660107,
   "https://nagariknews.nagariknetwork.com/politics/congress-general-convention-three-candidates-for-the-post-of-president-bishwa-and-pushpa-unopposed-br-36-34.html": 1791337849.0627332,
-  "https://nagariknews.nagariknetwork.com/social-affairs/flooding-of-narayani-river-damages-1-150-meters-of-embankment-98-87.html": 1791337849.0627332
+  "https://nagariknews.nagariknetwork.com/social-affairs/flooding-of-narayani-river-damages-1-150-meters-of-embankment-98-87.html": 1791337849.0627332,
+  "http://english.ratopati.com/story/82653/58-candidates-for-11-joint-general-secretaries": 1791338483.9576254,
+  "https://risingnepaldaily.com/news/87493": 1791338483.9576254
  },
  "queue": [
-  {
-   "title": "फ्रान्समा किन चर्कियो विद्यार्थी आन्दोलन ?",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/504080",
-   "source": "Baahrakhari",
-   "ts": 1791309371,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "फ्रान्समा किन चर्कियो विद्यार्थी आन्दोलन ?",
-   "en": "फ्रान्समा किन चर्कियो विद्यार्थी आन्दोलन ?",
-   "ne": "फ्रान्समा किन चर्कियो विद्यार्थी आन्दोलन ?",
-   "imp": 1,
-   "tags": [
-    "France",
-    "StudentProtest"
-   ],
-   "cat": "world",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
-  },
   {
    "title": "छिमेकीको हत्या आरोपमा पोखरामा एकजना पक्राउ",
    "summary": "",
@@ -3759,20 +3736,32 @@
    "val": 2,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "Far-right win fuels migrant fears",
+   "summary": "Berlin, Oct. 7: Ever since the far-right, anti-immigrant Alternative for Germany party won a regional election last mont...",
+   "link": "https://risingnepaldaily.com/news/87493",
+   "source": "Rising Nepal",
+   "ts": 1791337944,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "Far-right win fuels migrant fears",
+   "en": "Far-right win fuels migrant fears",
+   "ne": "Far-right win fuels migrant fears",
+   "imp": 1,
+   "tags": [
+    "FarRight",
+    "Migration",
+    "Europe"
+   ],
+   "cat": "world",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1790733081.1864436,
-   "en": "नेपालमा मुटुरोगले वार्षिक ३० हजारको मृत्यु, १३ देखि ४५ वर्ष उमेर समूहका एकतिहाइ",
-   "ne": "नेपालमा मुटुरोगले वार्षिक ३० हजारको मृत्यु, १३ देखि ४५ वर्ष उमेर समूहका एकतिहाइ",
-   "link": "https://baahrakhari.com/detail/503199",
-   "source": "Baahrakhari",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "health"
-  },
   {
    "ts": 1790734865.729647,
    "en": "'We've prayed for a miracle:' Family holds onto hope for Canton woman missing after Nepal floods",
@@ -7184,7 +7173,7 @@
    "cat": "crime"
   }
  ],
- "updated": 1791337879,
+ "updated": 1791338496,
  "pending_since": 1791336700.6978476,
  "fb_blocks": [
   1790350880.4125228,
