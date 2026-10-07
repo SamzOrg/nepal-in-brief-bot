@@ -1,9 +1,5 @@
 {
  "seen": {
-  "https://khabarhub.com/2026/05/1033285/": 1791175846.937492,
-  "https://www.ratopati.com/story/597242/central-working-committee-meeting-to-set-agenda-for-closed-session-leaders-on-open-stage": 1791175846.937492,
-  "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdFJ6a1pzOGQ2Qk1VdlRNNW1xRzRZNTlMeUN3OWlZclpGNjlyT215N0xGaUxfNnRNSXVVUXYtQk5IZHNZMGpMVE12NU0xY0ZpTGt4NkQySlY4ME5DeEZoVjl4TUdBMS1LNS1RR0lTdzVZRVM1ajI3bDJPbUtzV0dwRm41TXE5MU54QzhxZEpkVFhvNkV6clNWZUcyN3FVVUJ4aTktUkNB?oc=5": 1791175846.937492,
-  "http://annapurnapost.com/story/508986": 1791175846.937492,
   "https://gorkhapatraonline.com/news/225491": 1791176485.2897809,
   "https://www.setopati.com/politics/399997": 1791176485.2897809,
   "https://baahrakhari.com/detail/503791": 1791176485.2897809,
@@ -2492,33 +2488,10 @@
   "https://gorkhapatraonline.com/news/225724": 1791348051.572309,
   "https://nagariknews.nagariknetwork.com/politics/uml-calls-for-standing-committee-meeting-28-12.html": 1791348051.572309,
   "http://english.ratopati.com/story/82676/ronaldo-accuses-coach-of-breaking-promise-apologizes-for-leaving-camp": 1791348051.572309,
-  "https://gorkhapatraonline.com/news/225723": 1791348051.572309
+  "https://gorkhapatraonline.com/news/225723": 1791348051.572309,
+  "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5RUkkyRDJ1Sk4tdWRvanRYcjJONURfSEdEWW9LZV9rWEhRc0R1SDJxZEVoX1VFNnBuc1MzRnEwM3FIenBDM3VtaGxoZVNOYVBV?oc=5": 1791348653.3003895
  },
  "queue": [
-  {
-   "title": "Spain Defeats Croatia 2-1 in Nations League",
-   "summary": "Kathmandu. In the UEFA Nations League group stage match, Spain registered a comeback victory of 2-1 goals against Croatia. Mikel...",
-   "link": "http://english.ratopati.com/story/82638/spains-2-1-comeback-win-over-croatia",
-   "source": "Ratopati EN",
-   "ts": 1791319444,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/spain_cIV3fjAQxG.webp",
-   "lang": "en",
-   "hl": "Spain Defeats Croatia 2-1 in Nations League",
-   "en": "Spain Defeats Croatia 2-1 in Nations League",
-   "ne": "Spain Defeats Croatia 2-1 in Nations League",
-   "imp": 1,
-   "tags": [
-    "Spain",
-    "Croatia",
-    "NationsLeague",
-    "Football"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
   {
    "title": "Tanahun to Connect Major Tourist Destinations into a Single Circuit",
    "summary": "Tanahun. Preparations are underway to connect the major tourist and religious destinations of Tanahun into a single tourism circuit. Targeting...",
@@ -5555,7 +5528,7 @@
    "cat": "economy",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "मध्यपहाडी लोकमार्ग : कास्कीमा तीन मोटरेबल निर्माण",
@@ -5670,29 +5643,6 @@
    "cat": "politics",
    "val": 1,
    "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "India renews export approvals for four Nepali hydropower projects",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOd09uQkJDdHIyY19hM3hpRHRoeWwzdk5BZ2p2N094YlFjejlfSVBaRFNEYkJIRW9zRElkNmp6MERMSVNjamVmT1FMb0lXSnc1c0lPZ0c2dWQ2RG4zcl9zOWViWnY2dUJYWWhtc25CSmlrdmh6bGw4QmIwSFFlY1FzeHpZTXNuUFNPQ2ZWVm0xLUEwczRtRUE?oc=5",
-   "source": "Asia News Network",
-   "ts": 1791344776,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "India renews export approvals for four Nepali hydropower projects",
-   "en": "India renews export approvals for four Nepali hydropower projects",
-   "ne": "India renews export approvals for four Nepali hydropower projects",
-   "imp": 4,
-   "tags": [
-    "Hydropower",
-    "India",
-    "Exports"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
    "hits": 1
   },
   {
@@ -9301,10 +9251,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "politics"
+  },
+  {
+   "ts": 1791348658.3552291,
+   "en": "India renews export approvals for four Nepali hydropower projects",
+   "ne": "India renews export approvals for four Nepali hydropower projects",
+   "link": "https://asianews.network/india-renews-export-approvals-for-four-nepali-hydropower-projects/",
+   "source": "Asia News Network",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "economy"
   }
  ],
- "updated": 1791348063,
- "pending_since": null,
+ "updated": 1791348680,
+ "pending_since": 1791348653.3003895,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
