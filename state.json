@@ -2502,7 +2502,9 @@
   "https://nagariknews.nagariknetwork.com/sports/messi-s-final-match-saw-argentina-win-3-0-scoring-a-goal-and-retiring-from-the-national-team-97-21.html": 1791340848.0063848,
   "https://gorkhapatraonline.com/news/225696": 1791340848.0063848,
   "https://nagariknews.nagariknetwork.com/politics/third-meeting-of-nepal-russia-consultative-mechanism-to-be-held-today-44-91.html": 1791341451.8463786,
-  "https://risingnepaldaily.com/news/87498": 1791341451.8463786
+  "https://risingnepaldaily.com/news/87498": 1791341451.8463786,
+  "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRzU1M1BTLTE3SUg1aUZKVmJ5YjUwOVpWY0N3N0k2Y1E0U3pIWkxiZ2R3eHItc2dFREcwZm84R25NbDFVUlNZdEtQRTFNNHpneW5qSlVxNW5fS09VN3ByQnFlQXhscDA5RnA3Vkg4cGNWMmxVRGRDY3RCQnZJWFlsUHhGZGk4cThoX1ZQaGNSYnQ?oc=5": 1791342084.0692968,
+  "http://lokaantar.com/story/330594/2026/10/7/major-development-projects-": 1791342084.0692968
  },
  "queue": [
   {
@@ -2598,48 +2600,6 @@
    "val": 3,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "Tag",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBZblhnM3lZRi1tY0dfUEtWOXQ4Z3h0R2NvYmpVVVlhWkFEbXhsRUdJNlZzdERwMFN1QXFtOXp5eUNZLWpfZGFyTGlOSHpYeVZia1hWRVUyTFhCRHIybkpNT2FvWUx1S1FaMlV6QkVVY0xOWUdIbWc?oc=5",
-   "source": "myRepublica",
-   "ts": 1791313040,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Tag",
-   "en": "Tag",
-   "ne": "Tag",
-   "imp": 1,
-   "tags": [
-    "Tag"
-   ],
-   "cat": "other",
-   "val": 1,
-   "teaser": false,
-   "hits": 3
-  },
-  {
-   "title": "Latest News",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxOa1FReUxmTmJLMkQ4eHBSMFdQdnA3b0o5aUFNVlF0UklmN29jVF91cVFjUGRLM195N1lrajBhVzNRWWNDVHBRREhUbTlRSlYwNmVtRkpzLUxuLUwxTUwzQWVzeGNjSHFkVVNRVnpDZHRlQjRiYTVjeWNVNXdUWDF1V25PbmZpY3BYV0MtSnVqZ19WY0lyWXZyMTRER0RKbzFJVW5YZHUxb1E1LXFNNnhybHpsa2Y3bEJIMVZ2bExjOW9EbVg3dEwwSEtFMktzZDFzU0YwRDVzc1BCUkQzVFFDd01IVDBYTlVmQ2dtdnRudkJYVjZxdkRfbEprdVN6aTFSanYxS3VFZkdYOGcwOFN2dXFUUlg4M29NWEgxS3FLTEF3bkN6aDdQOE9SeWUwdVNsV3JuLXhmWERYVWNrcmppS1E0TU1Jdw?oc=5",
-   "source": "myRepublica",
-   "ts": 1791313038,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Latest News",
-   "en": "Latest News",
-   "ne": "Latest News",
-   "imp": 1,
-   "tags": [
-    "News"
-   ],
-   "cat": "other",
-   "val": 1,
-   "teaser": true,
-   "hits": 3
   },
   {
    "title": "Hetauda: A City of Untapped Tourist Potential",
@@ -2800,7 +2760,7 @@
    "cat": "world",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "Nepali Congress Election Committee Coordinator States No Candidate Who Registered Will Be Excluded",
@@ -3891,7 +3851,7 @@
    "cat": "politics",
    "val": 1,
    "teaser": true,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "अन्तर्राष्ट्रिय फुटबलबाट मेसीको सुखद बिदाइ",
@@ -4377,17 +4337,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1790736654.5635443,
-   "en": "Nepali kayakers Bijaya Majhi and Aashish Rana Magar reach Asiad semis",
-   "ne": "Nepali kayakers Bijaya Majhi and Aashish Rana Magar reach Asiad semis",
-   "link": "https://risingnepaldaily.com/news/87183",
-   "source": "The Rising Nepal",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "sports"
-  },
   {
    "ts": 1790738455.387637,
    "en": "गौतमबुद्ध विमानस्थल सञ्चालनमा आएको साढे चार वर्ष हुँदा पनि नियमित उडान हुन सकेन",
@@ -7788,7 +7737,7 @@
    "cat": "economy"
   }
  ],
- "updated": 1791341485,
+ "updated": 1791342106,
  "pending_since": 1791341451.8463786,
  "fb_blocks": [
   1790350880.4125228,
