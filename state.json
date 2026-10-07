@@ -1,8 +1,5 @@
 {
  "seen": {
-  "https://www.onlinekhabar.com/2026/10/2032424/abc-is-full-of-tourists-as-the-weather-improves": 1791171065.9326482,
-  "https://www.setopati.com/social/399989": 1791171065.9326482,
-  "https://baahrakhari.com/detail/503782": 1791171065.9326482,
   "https://www.setopati.com/politics/399992": 1791171643.8413868,
   "https://www.ratopati.com/story/597226/three-buried-in-landslide-during-road-excavation": 1791171643.8413868,
   "https://theannapurnaexpress.com/story/67656": 1791171643.8413868,
@@ -2502,7 +2499,11 @@
   "http://english.ratopati.com/story/82664/npl-preparations-in-final-stages-spectator-facilities-and-capacity-being-enhanced-photos": 1791343252.5537455,
   "https://english.khabarhub.com/2026/07/571002/": 1791343252.5537455,
   "https://nagariknews.nagariknetwork.com/social-affairs/heavy-rain-likely-in-these-provinces-for-three-days-from-today-54-70.html": 1791343252.5537455,
-  "http://lokaantar.com/story/330678/2026/10/7/redcross-": 1791343252.5537455
+  "http://lokaantar.com/story/330678/2026/10/7/redcross-": 1791343252.5537455,
+  "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBSOEZiNXlXT2tMTXhxSUJYX0R0YzU2dmhoSENVc044cWk3OTJDZEJCMDV0RlVYQmljVUxvTGNZRUZaY01leThIMmktSWpIc0w0eWQ4ZVFkRDA?oc=5": 1791343868.3659098,
+  "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPR3Ewbk9KSUc0SmVKdnFSNm13cG42cDhidW5pUkp6X3I0bUZZWEpnM2wwelhnbWdsRVdQczIxNGt3aGFyZVVqSFA4ZjB5SXFEZkl5ZWxGUTRJV1A1YnhOZTUzT3lZWHUzWGVHbE1ndnlhOWphbU5sRTdYaDY3eF9RaGlBZ0tBaXNVNEZwa0Q3XzZQc2ZkRWp4dEVnekRCc2hjZ1diNVc0SzJJOUVEUG5XTW1Oc3ZKRGdnb1lpZ1Zqc0l3Zw?oc=5": 1791343868.3659098,
+  "https://news.google.com/rss/articles/CBMihwFBVV95cUxQem5walQ2S0llWHJlTFhyTWRzOW1Ra0hBc2VGekVvLWlmVUJhMUNTbHdhRXYwdmRIWGFwZDNfdVVtc3lzeThhTVljdFdvQ1RlSHhkRko0OE5iMlRlNnkyeU1nUHVHdl9mUDI1NGxvZENvOEQ2aWZ5MGQyYy1hWkk2d2xiMFAtY1nSAYcBQVVfeXFMUHpucGpUNktJZVhyZUxYck1kczltUWtIQXNlRnpFby1pZlVCYTFDU2x3YUV2MHZkSFhhcGQzX3VVbXN5c3k4YU1ZY3RXb0NUZUh4ZEZKNDhOYjJUZTZ5MnlNZ1B1R3ZfZlAyNTRsb2RDbzhENmlmeTBkMmMtYVpJNndsYjBQLWNZ?oc=5": 1791343868.3659098,
+  "http://english.ratopati.com/story/82665/balm-for-flood-wounds-or-naming-destruction": 1791343868.3659098
  },
  "queue": [
   {
@@ -4399,7 +4400,7 @@
    "cat": "world",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Sudan's al-Burhan rejects talks, vows to retake all territory from RSF",
@@ -4606,20 +4607,32 @@
    "val": 3,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "Government Fails to Provide Accurate Flood Damage Details, Families Await News of Missing Loved Ones",
+   "summary": "Nearly a month has passed since the devastating flood in the Bhote Koshi on Bhadra 10th, which ravaged markets, settlements,...",
+   "link": "http://english.ratopati.com/story/82665/balm-for-flood-wounds-or-naming-destruction",
+   "source": "Ratopati EN",
+   "ts": 1791343652,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/rasuwa-bhotekoshi-badhi_xJnNFwOg50.webp",
+   "lang": "en",
+   "hl": "Government Fails to Provide Accurate Flood Damage Details, Families Await News of Missing Loved Ones",
+   "en": "Government Fails to Provide Accurate Flood Damage Details, Families Await News of Missing Loved Ones",
+   "ne": "Government Fails to Provide Accurate Flood Damage Details, Families Await News of Missing Loved Ones",
+   "imp": 4,
+   "tags": [
+    "Flood",
+    "Government",
+    "बाढी"
+   ],
+   "cat": "disaster",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1790738455.387637,
-   "en": "गौतमबुद्ध विमानस्थल सञ्चालनमा आएको साढे चार वर्ष हुँदा पनि नियमित उडान हुन सकेन",
-   "ne": "गौतमबुद्ध विमानस्थल सञ्चालनमा आएको साढे चार वर्ष हुँदा पनि नियमित उडान हुन सकेन",
-   "link": "http://lokaantar.com/story/330119/2026/9/30/gautam-budda-",
-   "source": "Lokaantar",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "economy"
-  },
   {
    "ts": 1790739657.9239886,
    "en": "विद्यालयमा नारायणीको बाढी सफा गर्दै शिक्षक र विद्यार्थी",
@@ -8020,7 +8033,7 @@
    "cat": "health"
   }
  ],
- "updated": 1791343276,
+ "updated": 1791343872,
  "pending_since": 1791342658.3971715,
  "fb_blocks": [
   1790350880.4125228,
