@@ -1,13 +1,5 @@
 {
  "seen": {
-  "https://english.onlinekhabar.com/digital-technology-should-be-promoted-chief-justice-sharma.html": 1791189651.7062275,
-  "https://gorkhapatraonline.com/news/225517": 1791189651.7062275,
-  "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA1VEJJZ1RPbkcxaHo4NmZHZWdHbWJMb2RsQlppVkhxd1JHdnltYWRHbEVPZmdjMUdhWjNoRHY0eXVUQjVsUm9nTXREWkpleWZqZ3VLQXFLOTA?oc=5": 1791189651.7062275,
-  "http://english.ratopati.com/story/82382/kiran-kcs-candidacy-for-congress-central-member": 1791189651.7062275,
-  "http://english.ratopati.com/story/82381/gagan-thapas-three-point-proposal-to-determine-the-overall-direction-of-the-party-organization": 1791189651.7062275,
-  "http://english.ratopati.com/story/82380/nepal-airlines-corporation-is-burdened-by-high-interest-rates-on-loans-with-over-130-million-rupees-outstanding-to-be-collected": 1791189651.7062275,
-  "https://english.khabarhub.com/2026/05/570766/": 1791189651.7062275,
-  "https://kathmandupost.com/health/2026/10/05/nepal-to-field-dr-sangeeta-kaushal-mishra-for-who-regional-chief": 1791189651.7062275,
   "http://english.ratopati.com/story/82389/42-indian-nationals-stranded-in-itambhatta-rautahat-lakshmipur-rescued": 1791190251.3577166,
   "https://risingnepaldaily.com/news/87421": 1791190251.3577166,
   "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZHBtUjJSWmJrUkk2ZXhXOHlFY3llU2ZVREl4SDhHd0JsYi0zdVNpZ3ppV0Q5eWZGUzExYi0xMVNaTENfNlJhUHkyVmNROGVGS2U3UzdlZXF2UDVuWnNaVktQN1dzUzZ3aDJfYWxjcFp2WW9wbHRiTVE0bkVHeGlfcUVBdEczUEFSbjUtNWxFcVB2WGJl0gFcQVVfeXFMTlJKai1WcGJudzRXQWdUNlhKdnp5YVdFSExZT1RuXzZEVWFjSV85b3pKZXpYSmNPZ29iUlRPM1owN3hqMXhfamVhejV0cW5lSFVPcnZtVkxaNGRYc20?oc=5": 1791190251.3577166,
@@ -2481,31 +2473,43 @@
   "http://english.ratopati.com/story/82720/swiss-senior-policy-advisor-pays-courtesy-call-on-minister-of-communications-dr-timilsina": 1791361875.8626049,
   "https://news.google.com/rss/articles/CBMisgFBVV95cUxQODFsa0NZMjdmVkwxaDhmdTNLSUd6SDRVRmRLRmVVc09feHdNRXpHMXp1ZG1qZHFLd1RyaXoyYndBeXZlVnNKQlJOUFhlVHJ0blJIZTlCRUhTS3VrY19JR1dpdVZaRVZVaDUySHB4bWR1dUpXaUZ2alNIRnlkRm1MYkVfMkVMS0hBOEw2b2ZjSE5yNjdxYWQ3YzBNYmFaMm0wUm1rcVFRcng2MXBHdXFzNnZ30gFcQVVfeXFMT2NzTGw1aENmemtBaGFvaW5VMGZqOXhJQ3ZidTRKemNLVmlxY1luMkFQbXRuR1R3MlNfWXFQekktejBOeVZ6VXBwek5GVHpNYWZvTDhoN05ETTA1cWk?oc=5": 1791361875.8626049,
   "https://news.google.com/rss/articles/CBMikAFBVV95cUxNS2pwek1MOVNXVnc1Y0JOTnZKWDFtQkVWY2N4TEh0S3djb1ZkMkl4cC1wSnphNENlOU9ST2FOWWt5VERqcHFsOEdPbDZvbnU5LU1HZGtrWjYxR2M2ZEpRajQ0Q2JqbGYyTkF5WUdYZG1XdGxmclVGc3hQckdWTEdaSFloZ1VoVC1fWFBhSmlQVEY?oc=5": 1791361875.8626049,
-  "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTkdpaFJyQW1uMlJGMGttTl9EN2RPYlUyb083QlNaeThIZ2tCRUg5WW5yb2xxRTRIWG9taU0tSEV0TWxwZl9LUHlKaC1DVHhSUkZobkwxVXlDV3BrN1B3aEMya1Rsa0IwdTRheFNTRzlNSjFxNTRLaU5qakVIY1gyYXJsd3RQbG5fMlpjRUNuTy1JNmxuUWNmaXl6WF9SbW5FYVR1WnMwZnQ3M0VPWUd1TFhoZWZsMklfd3JJX1ZTMVBnQzRTWUItc1N4Nnh5M0U?oc=5": 1791361875.8626049
+  "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTkdpaFJyQW1uMlJGMGttTl9EN2RPYlUyb083QlNaeThIZ2tCRUg5WW5yb2xxRTRIWG9taU0tSEV0TWxwZl9LUHlKaC1DVHhSUkZobkwxVXlDV3BrN1B3aEMya1Rsa0IwdTRheFNTRzlNSjFxNTRLaU5qakVIY1gyYXJsd3RQbG5fMlpjRUNuTy1JNmxuUWNmaXl6WF9SbW5FYVR1WnMwZnQ3M0VPWUd1TFhoZWZsMklfd3JJX1ZTMVBnQzRTWUItc1N4Nnh5M0U?oc=5": 1791361875.8626049,
+  "https://nagariknews.nagariknetwork.com/international/trump-s-shadow-on-nobel-peace-prize-61-26.html": 1791362459.2347708,
+  "https://english.khabarhub.com/2026/07/571056/": 1791362459.2347708,
+  "http://english.ratopati.com/story/82721/congress-election-digital-when-it-comes-to-campaigning-traditional-when-it-comes-to-doing-it-photo-feature": 1791362459.2347708,
+  "https://gorkhapatraonline.com/news/225775": 1791362459.2347708,
+  "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOREZacV91czBYaGlna3pKSTM0RGtpM25YOUN0QlhJb3pKUGxWdlY5cklLY3JLQks2ZDJ4cWhBRHAzZTNKZ3ZjdEpDX0U2ZWtrcDcwUWtlZjZ1dFZMTm5PblBRYnM5aGZWeG1Zb3lZLUhKUW9SRXN2UDFQclczQ2Rjd2lic21RNFh6SWNIUm5BV0c3bEdhcEN6ZjBvSURUX1lTcmNfRFlNN1VtNWZkYUh2S1pBSkZNVUExT1ZMajNyeFVlX2pqamtDc1JVQW53S2k3MEQ4M3NfYTNXd2VLbm40UA?oc=5": 1791362459.2347708,
+  "https://news.google.com/rss/articles/CBMikgJBVV95cUxPTW1MVGNEUmE0blpSZmRuY2hnM1RITi1VdWRBS2tid05ab3FlODZnNUpxbVlEQmJ3eHBvRERTUXhlVF84TzZpc1dCWjJfdmlDQXQyRk1Ob2xRU3FrajZWdVQ2WHY1SThOVmVTS1U5alctQU1xMThrQXVHUE9SNHRqb3haenR5QWpPZmxwRVE4UTBOLVdsek80eXJWU3hVdzFKVDdubDZ5UVkzVGpZdVZNZmRJd3VLX1ljZ0RLdEVzd0tDa0NVeWhlRDNCeU5ZeVdNOHBkUk5uSkhhRnZDVHpqcEY5bXl5MlBFWEJ5SDl3V1hHejRFS0w2dDAzdzZldnFnOTZ2UVNCX3VhYVZrbmI5Vi1R?oc=5": 1791362459.2347708,
+  "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZVNsVk12VmNHX3A3aHI1QmE2WXl1c2k0QXpGQVo0VXozYjlvM0Vwc0M5RVRfaG4wSUFGRjVUb1M2WjRsTFgzSUhzTEFqQWU4M19TMFlEM3R2U0ExRWdldjRldkl6aVkxN1VwWXRkNV9UOFV3aUpRYU9QbV8xbUFmdHo3NUpyQllsWGR1aXEzazBVWHVqTUVCUjJ6eGY4Z3N6YWhtYnk0ejNkLUpBWEZRZU9JOXdBZ3BUNENfRm1ObVhuY1A4cVVaa1k4X0tpWWU2WVZWelprMXRqdmxzV3REMnA5cHV0SVE?oc=5": 1791362459.2347708,
+  "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbFp1MS0yM29nQ2dySlJHRUkyb0pZaUs1Vm55MktnbmZhZmhUUUpySF91c0wxZG1ucWJXVVM2b2JBX1pUN0FPb05RdzYzcE85UEg0QjVCaTFob19FUlpla1dIVF8yLXdaVVZILXNUcFZZdFYzWHp4LWhEWU4tNm9MLTd2THRQMmxwZm1BZ0RLbkRNaG1acHFfVHh3VHFiVjAtcHd3WDJieGZtTWVSQlE?oc=5": 1791362459.2347708,
+  "http://lokaantar.com/story/330705/2026/10/7/death-": 1791362459.2347708,
+  "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOY0tMSXZaTE5zSjA2a0lJa3kxX1gxaDFpVkFqeVVqYXFrem14NS04aV9PZUtMSGg1Wm1scm1aUkpDTnFQbjJ3ZWltRmM5VGZXeEh4emJRWF8wcU10N2s1VTlLWEU2d3k1TmtkV2JXSWNiZkFOcEhhQkdfeXRNY2RObWt0MFhEUlI2NHZOSHU5bDJoNXA5YUQxUTVmVXVQVUcxZm90d0R2RTRtLTN0eWdfWkE5ZkpHaEpDUGFWLXp1TmRhM2VfOVUxTUtTRG9idi02dEp6WnQ4Q2M3R1nSAdsBQVVfeXFMTmNLTEl2WkxOc0owNmtJSWt5MV9YMWgxaVZBanlVamFxa3pteDUtOGlfT2VLTEhoNVptbHJtWlJKQ05xUG4yd2VpbUZjOVRmV3hIeHpiUVhfMHFNdDdrNVU5S1hFNnd5NU5rZFdiV0ljYmZBTnBIYUJHX3l0TWNkTm1rdDBYRFJSNjR2Tkh1OWwyaDVwOWFEMVE1ZlV1UFVHMWZvdHdEdkU0bS0zdHlnX1pBOWZKR2hKQ1BhVi16dU5kYTNlXzlVMU1LU0RvYnYtNnRKelp0OENjN0dZ?oc=5": 1791362459.2347708,
+  "https://risingnepaldaily.com/news/87513": 1791362459.2347708,
+  "https://english.onlinekhabar.com/new-notes-easier-for-dashain.html": 1791362459.2347708,
+  "https://baahrakhari.com/detail/504136": 1791362459.2347708,
+  "http://english.ratopati.com/story/82722/cjp-announces-protest-in-delhi-on-october-10": 1791362459.2347708,
+  "https://gorkhapatraonline.com/news/225776": 1791362459.2347708,
+  "https://www.setopati.com/politics/400250": 1791362459.2347708,
+  "https://nagariknews.nagariknetwork.com/economy/sugar-industry-takes-collective-stand-against-buying-low-yielding-sugarcane-urges-farmers-to-move-towards-improved-varieties-87-87.html": 1791362459.2347708,
+  "https://news.google.com/rss/articles/CBMiygFBVV95cUxQR2l4WVRhV0lHY0tMMHlwMzd3X2Rtb2cyaHJ0Ql9TVUVPWjhOVVFpYXN4Wk8tVkhUSjZGQm5CM2VQd1MzY1Bsbm9MWlFha2lUaEZUWFo1OUp5UzRCVE5QM1M3R3U0a0ZIQnk0T0p2ZFIyeDFMRnJuZThVX0MzQTJ0YXN0eVFWeE5oTnJCR0lLLTI0SkdpVTBYaVlCRXRDVi1PdDRMWTUtVldNUW9zNVY1T3RRZ2FxM0p1UWp1M04wNGt1bkV1UmVidzRn?oc=5": 1791362459.2347708,
+  "https://news.google.com/rss/articles/CBMirAFBVV95cUxObXktaTJqcHFsWUdmaFZpVEoyUVRyYnlGSTRwSVkxcHZDMXlmYi1WQmg5NFNRODZTM1dNUHhwbHl4eHpqR2ZfRElPSkhudmwxLWNQRGFIS2I5SlFMUlBrMlk2TVZpWFNjVTloNWI0ZEkzOE5WLWl0RDM1LXFxZzQzMmJIb1F1Q2VvejhtVVdkazRjaGJIWFZmV2FuNzVCR0ZJd3dxOGhHeGFwY3ct?oc=5": 1791362459.2347708,
+  "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1VbnMyeWplSTZERnNsZkdjb1g2WVoyay1VMmlwbGVxdExlb0FaZXRHcmlaUVNNQmpMM211TVdSTXVuaHl3cmlLcjBjZUhZUlBZc2FhWVBXQ0JBazhh0gFcQVVfeXFMTVVuczJ5amVJNkRGc2xmR2NvWDZZWjJrLVUyaXBsZXF0TGVvQVpldEdyaVpRU01CakwzbXVNV1JNdW5oeXdyaUtyMGNlSFlSUFlzYWFZUFdDQkFrOGE?oc=5": 1791362459.2347708,
+  "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5rWkNINzNoNTB6bGk5WFFoY0hhLWI3STJyRlNUZ0t6Tzk5cGNvNTM2M2JHUTkweWRPNTBCdkg0NmI2NHVzbnJKR2kzZUdmLUZi?oc=5": 1791362459.2347708,
+  "http://lokaantar.com/story/330695/2026/10/7/kumari-bank-": 1791362459.2347708,
+  "https://english.onlinekhabar.com/former-nsu-dominate-nc-leadership-race.html": 1791362459.2347708,
+  "https://baahrakhari.com/detail/504135": 1791362459.2347708,
+  "http://english.ratopati.com/story/82719/national-pabsons-11-point-suggestion-to-include-private-school-issues-in-the-education-act": 1791362459.2347708,
+  "https://gorkhapatraonline.com/news/225771": 1791362459.2347708,
+  "https://nagariknews.nagariknetwork.com/politics/mojahid-haque-a-muslim-community-candidate-is-running-in-the-under-35-youth-category-32-84.html": 1791362459.2347708,
+  "https://news.google.com/rss/articles/CBMioAFBVV95cUxORU9PcXR4WDhCS0pMUjIybTNOcm5qa016OW1iOTJ2OTBWQUtjdGloLTY5YUlWdE9vWllKV0hQNGFhOHJhVkJoVDRvcVcwV0tsUXlySEJYaERnVGRTR2UzNk9CRjQ5dFhBa0Zuc0NhdVNYbUtLeERjTTB0T2V5TEY4M2RPZ3drQjVyMVBYREQxcS1PVDBCZnpfS3Ezai1RWnBj0gFcQVVfeXFMT05tWUpwN01DT1JKeHVveWZfRmQ4WTk5TGk1QW56S1RSaVpIYVlzWGN5QzBFTFc2RnRVOTZJbDZIOUw1Sk42Y1V1cGVTVGwzTFB2dHB2ZmtTUzhKQXI?oc=5": 1791362459.2347708,
+  "https://english.onlinekhabar.com/more-than-500-containers-stranded-from-lete-to-korala.html": 1791362459.2347708,
+  "https://nagariknews.nagariknetwork.com/arts/nepali-films-heating-up-the-halls-during-dashain-a-clash-from-pal-shah-to-sameer-bhatta-59-48.html": 1791362459.2347708,
+  "https://english.onlinekhabar.com/heavy-rain-in-7-districts.html": 1791362459.2347708,
+  "https://nagariknews.nagariknetwork.com/social-affairs/one-arrested-for-publishing-photos-and-videos-without-permission-br-31-94.html": 1791362459.2347708,
+  "https://nagariknews.nagariknetwork.com/social-affairs/more-than-500-containers-have-been-stopped-from-leyte-to-korla-br-45-17.html": 1791362459.2347708,
+  "https://nagariknews.nagariknetwork.com/social-affairs/fruit-farming-gardens-grow-but-production-is-low-br-90-45.html": 1791362459.2347708
  },
  "queue": [
-  {
-   "title": "Restore Flood-hit Firms",
-   "summary": "The Bhotekoshi flood killed more than 1,400 people and left above 5,000 unaccounted for, damaged houses, infrastructure...",
-   "link": "https://risingnepaldaily.com/news/87489",
-   "source": "Rising Nepal",
-   "ts": 1791333381,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Restore Flood-hit Firms",
-   "en": "Restore Flood-hit Firms",
-   "ne": "Restore Flood-hit Firms",
-   "imp": 3,
-   "tags": [
-    "Flood",
-    "Business"
-   ],
-   "cat": "disaster",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
-  },
   {
    "title": "नाइजेरियामा विमान दुर्घटना, २५ जनाको मृत्यु",
    "summary": "",
@@ -2527,7 +2531,7 @@
    "cat": "world",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Floods cut off Beni-Darwang road, put settlement at risk",
@@ -2599,53 +2603,6 @@
    "hits": 1
   },
   {
-   "title": "Tourists flock to Birendra Lake in Gorkha",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE95VDh0cFQ3aS1pM1oxUDhpbUx4UDF5aDdUUjdmZS1kZVQ3ZzRLcWs3NzNNeENFd09yTGtmaWh1M25nMG56TzNOLUJGZ2hyV2pa?oc=5",
-   "source": "The Rising Nepal",
-   "ts": 1791333338,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Tourists flock to Birendra Lake in Gorkha",
-   "en": "Tourists flock to Birendra Lake in Gorkha",
-   "ne": "Tourists flock to Birendra Lake in Gorkha",
-   "imp": 2,
-   "tags": [
-    "Tourism",
-    "BirendraLake",
-    "Gorkha"
-   ],
-   "cat": "culture",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "वाग्मतीसहित चारवटा प्रदेशमा भारी वर्षाको सम्भावना",
-   "summary": "लुम्बिनी र सुदूरपश्चिम प्रदेशको तराई भूभागका केही स्थानमा तथा मधेसलगायत कोसी, वाग्मती, गण्डकी प्रदेशको तराई भूभागको थोरै स्थानमा मेघगर्जन/चट्याङ, हावाहुरी र असिनासहित मध्यमवर्षाको सम्भावना छ ।",
-   "link": "https://baahrakhari.com/detail/504085",
-   "source": "Baahrakhari",
-   "ts": 1791333105,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "वाग्मतीसहित चारवटा प्रदेशमा भारी वर्षाको सम्भावना",
-   "en": "वाग्मतीसहित चारवटा प्रदेशमा भारी वर्षाको सम्भावना",
-   "ne": "वाग्मतीसहित चारवटा प्रदेशमा भारी वर्षाको सम्भावना",
-   "imp": 3,
-   "tags": [
-    "Weather",
-    "Monsoon",
-    "Rain",
-    "वर्षा"
-   ],
-   "cat": "disaster",
-   "val": 2,
-   "teaser": false,
-   "hits": 4
-  },
-  {
    "title": "आजका लागि तोकियो विदेशी मुद्राको विनिमयदर",
    "summary": "काठमाडौँ, असोज २१ गते । नेपाल राष्ट्र बैङ्कले बुधबारका लागि विदेशी मुद्राको विनिमयदर निर्धारण गरेको छ । राष्ट्र बैङ्कका अनुसार अमेरिकी डलर एकको खरिददर १५३ रुपियाँ ९८ पैसा र बिक्रीद...",
    "link": "https://gorkhapatraonline.com/news/225685",
@@ -2688,52 +2645,6 @@
     "Dashain"
    ],
    "cat": "economy",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "रास्वपाद्वारा स्थानीय निर्वाचनको तयारी",
-   "summary": "गोरखापत्र समाचारदाताकाठमाडौँ, असोज २१ गते । सत्तारूढ राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) ले आगामी स्थानीय तहको निर्वाचनलक्षित पालिकास्तरमा 'हामी आउँदै छौँ' अभियान सुरु गरेको छ । म...",
-   "link": "https://gorkhapatraonline.com/news/225684",
-   "source": "Gorkhapatra",
-   "ts": 1791333600,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/386816/conversions/Rastra-Swatantra-party-original.jpg",
-   "lang": "ne",
-   "hl": "रास्वपाद्वारा स्थानीय निर्वाचनको तयारी",
-   "en": "रास्वपाद्वारा स्थानीय निर्वाचनको तयारी",
-   "ne": "रास्वपाद्वारा स्थानीय निर्वाचनको तयारी",
-   "imp": 3,
-   "tags": [
-    "RSP",
-    "LocalElection",
-    "रास्वपा"
-   ],
-   "cat": "politics",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "विदेशमा रहेका नेपालीलाई मताधिकारबारे परामर्श",
-   "summary": "काठमाडौँ, असोज २१ गते । निर्वाचन आयोगले विदेशमा रहेका नेपालीलाई मतदानमा सहभागी गराउनेबारे परामर्श थालेको छ । आगामी प्रदेश र स्थानीय तहको निर्वाचनलक्षित आयोगले अस्थायी रूपमा विदेशमा...",
-   "link": "https://gorkhapatraonline.com/news/225683",
-   "source": "Gorkhapatra",
-   "ts": 1791333096,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/386815/conversions/election-commission-nepal-original.jpg",
-   "lang": "ne",
-   "hl": "विदेशमा रहेका नेपालीलाई मताधिकारबारे परामर्श",
-   "en": "विदेशमा रहेका नेपालीलाई मताधिकारबारे परामर्श",
-   "ne": "विदेशमा रहेका नेपालीलाई मताधिकारबारे परामर्श",
-   "imp": 3,
-   "tags": [
-    "NRN",
-    "VotingRights",
-    "ElectionCommission"
-   ],
-   "cat": "politics",
    "val": 2,
    "teaser": false,
    "hits": 1
@@ -2964,29 +2875,6 @@
     "Travel"
    ],
    "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "जीप सफारीमार्फत पर्यटकीय गन्तव्य जोड्ने तयारी",
-   "summary": "तनहुँका प्रमुख पर्यटकीय तथा धार्मिक गन्तव्यलाई एउटै पर्यटन सर्किटमा जोड्ने तयारी गरिएको छ।",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/preparations-to-connect-tourist-destinations-through-jeep-safaris-br-75-51.html",
-   "source": "Nagarik News",
-   "ts": 1791333333,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1791333556_fari%2098.jpg",
-   "lang": "ne",
-   "hl": "जीप सफारीमार्फत पर्यटकीय गन्तव्य जोड्ने तयारी",
-   "en": "जीप सफारीमार्फत पर्यटकीय गन्तव्य जोड्ने तयारी",
-   "ne": "जीप सफारीमार्फत पर्यटकीय गन्तव्य जोड्ने तयारी",
-   "imp": 2,
-   "tags": [
-    "Tourism",
-    "JeepSafari",
-    "पर्यटन"
-   ],
-   "cat": "culture",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -3272,30 +3160,6 @@
    ],
    "cat": "health",
    "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "Saving Hydro, Not Delays",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVzh1RWZ2ZmMydW9FZ3NDS1hQaTF1SV9QbXFPQ1hMd19jU0MwY0xfa3RjSjNMeGNwaEEwcUoyYTZ1Rkk3ZkJGR1hvdzJ3YUUyTXZJYUt1VTF4OWQ3MXhlLXI0aE9uM1UtcTVBTWxPU0w5MzlUQk5IQVJjeFA0aDZkeEswdGxzaV9BdFE?oc=5",
-   "source": "myRepublica",
-   "ts": 1791333224,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Saving Hydro, Not Delays",
-   "en": "Saving Hydro, Not Delays",
-   "ne": "Saving Hydro, Not Delays",
-   "imp": 3,
-   "tags": [
-    "Hydropower",
-    "EnergySector",
-    "Investment",
-    "जलविद्युत"
-   ],
-   "cat": "economy",
-   "val": 2,
    "teaser": false,
    "hits": 2
   },
@@ -5928,7 +5792,7 @@
    "cat": "education",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "Udayshumsher Rana Announces Candidacy for General Secretary in Nepali Congress's 15th General Convention",
@@ -7493,7 +7357,7 @@
    "cat": "politics",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "कांग्रेसको खुला महामन्त्रीमा आठ प्रतिस्पर्धी : निवर्तमानलाई कडा टक्कर",
@@ -7657,7 +7521,7 @@
    "cat": "economy",
    "val": 3,
    "teaser": false,
-   "hits": 3
+   "hits": 4
   },
   {
    "title": "Flood cuts off market access for Rasuwa farmers as vegetables pile up",
@@ -7726,7 +7590,7 @@
    "cat": "society",
    "val": 2,
    "teaser": false,
-   "hits": 4
+   "hits": 5
   },
   {
    "title": "मेसीपछि अर्जेन्टिनाको '१०' नम्बर जर्सी कसले लगाउला? यी खेलाडी छन् चर्चामा",
@@ -7841,7 +7705,7 @@
    "cat": "world",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Two more arrested on charges of fraud over promises to send people to Israel",
@@ -8046,29 +7910,6 @@
    "hits": 1
   },
   {
-   "title": "बाढीपहिरोले थुनिए कोरला नाकाका पाँच सयभन्दा बढी कन्टेनर",
-   "summary": "मुस्ताङ, असोज २१ गते । मुस्ताङको लेतेदेखि कोरला नाकासम्म पाँच सयभन्दा बढी कन्टेनर सडकमा लामबद्ध अवस्थामा रोकिएका छन् ।असोज ८ देखि ११ गतेसम्म भएको वर्षापछिको बाढी, पहिरो र हिमपातका...",
-   "link": "https://gorkhapatraonline.com/news/225768",
-   "source": "Gorkhapatra",
-   "ts": 1791360042,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/386906/conversions/converted_image-(44)-original.jpg",
-   "lang": "ne",
-   "hl": "बाढीपहिरोले थुनिए कोरला नाकाका पाँच सयभन्दा बढी कन्टेनर",
-   "en": "बाढीपहिरोले थुनिए कोरला नाकाका पाँच सयभन्दा बढी कन्टेनर",
-   "ne": "बाढीपहिरोले थुनिए कोरला नाकाका पाँच सयभन्दा बढी कन्टेनर",
-   "imp": 4,
-   "tags": [
-    "Landslide",
-    "KoralaBorder",
-    "बाढीपहिरो"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Can Nepal's geography become an advantage in space technology?",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE51VFJwcFlFRC1La3FTcUMzTWRNam1tVjdzNU5yUjdCT0YwZGNPbjJqQzAtRE5Jdy12R1RKR2t5SU85LXhHbTcyOW5MQlF5djZ2SEJJdXVkVQ?oc=5",
@@ -8159,7 +8000,7 @@
    "cat": "world",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "सञ्चारमन्त्री तिमिल्सिनासँग स्विट्जरल्यान्डका वरिष्ठ नीति सल्लाहकारको शिष्टाचार भेट",
@@ -8182,7 +8023,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "राष्ट्रद्रोहको आरोपमा जर्मनीका पूर्वगुप्तचर प्रमुख पक्राउ",
@@ -8545,6 +8386,396 @@
    ],
    "cat": "health",
    "val": 1,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "LWPF becomes member of UN APDEN",
+   "summary": "By TRN Online, Kathmandu, Oct 7: The Lumbini World Peace Forum (LWPF) has been admitted as a member of the Asia-Pacific...",
+   "link": "https://risingnepaldaily.com/news/87513",
+   "source": "Rising Nepal",
+   "ts": 1791362392,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "LWPF becomes member of UN APDEN",
+   "en": "LWPF becomes member of UN APDEN",
+   "ne": "LWPF becomes member of UN APDEN",
+   "imp": 1,
+   "tags": [
+    "LWPF",
+    "APDEN"
+   ],
+   "cat": "society",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "केन्द्रीय सदस्यमा राष्ट्रियसभाका पूर्वसदस्य अनिता देवकोटाको उमेदवारी",
+   "summary": "",
+   "link": "https://baahrakhari.com/detail/504136",
+   "source": "Baahrakhari",
+   "ts": 1791362219,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "केन्द्रीय सदस्यमा राष्ट्रियसभाका पूर्वसदस्य अनिता देवकोटाको उमेदवारी",
+   "en": "केन्द्रीय सदस्यमा राष्ट्रियसभाका पूर्वसदस्य अनिता देवकोटाको उमेदवारी",
+   "ne": "केन्द्रीय सदस्यमा राष्ट्रियसभाका पूर्वसदस्य अनिता देवकोटाको उमेदवारी",
+   "imp": 3,
+   "tags": [
+    "NepaliCongress",
+    "AnitaDevkota",
+    "नेपालीकांग्रेस"
+   ],
+   "cat": "politics",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "CJP to Protest in Delhi Over Election Commission Irregularities",
+   "summary": "New Delhi. India's youth political group Crocodile Janata Party (CJP) has announced that it will protest at Jantar Mantar in...",
+   "link": "http://english.ratopati.com/story/82722/cjp-announces-protest-in-delhi-on-october-10",
+   "source": "Ratopati EN",
+   "ts": 1791362086,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "CJP to Protest in Delhi Over Election Commission Irregularities",
+   "en": "CJP to Protest in Delhi Over Election Commission Irregularities",
+   "ne": "CJP to Protest in Delhi Over Election Commission Irregularities",
+   "imp": 1,
+   "tags": [
+    "CJP",
+    "Delhi",
+    "ElectionCommission"
+   ],
+   "cat": "world",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "अवैध काठ बोकेका दुई वटा ट्रक नियन्त्रण",
+   "summary": "राधा लुइटेलफिदिम, असोज २१ गते । अवैध रूपमा काठका गोलिया ओसारपसार गरिरहेका दुई वटा ट्रक प्रहरीले पाँचथरको मिक्लाजुङ गाउँपालिका-६ कन्याटार बजारबाट नियन्त्रणमा लिएको छ ।इलाका प्रहरी क...",
+   "link": "https://gorkhapatraonline.com/news/225776",
+   "source": "Gorkhapatra",
+   "ts": 1791361905,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/386914/conversions/kath-original.jpg",
+   "lang": "ne",
+   "hl": "अवैध काठ बोकेका दुई वटा ट्रक नियन्त्रण",
+   "en": "अवैध काठ बोकेका दुई वटा ट्रक नियन्त्रण",
+   "ne": "अवैध काठ बोकेका दुई वटा ट्रक नियन्त्रण",
+   "imp": 2,
+   "tags": [
+    "IllegalTimber",
+    "Truck",
+    "कानून"
+   ],
+   "cat": "crime",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "को हुन् गगनसँग सभापतिमा प्रतिस्पर्धा गर्ने श्यामकृष्ण र किशोरसिंह?",
+   "summary": "यीमध्ये काठमाडौंको तारकेश्वर नगरपालिका-२ का श्यामकृष्ण खड्कीको उम्मेदवारी भने चर्चामा आएको छ। कारण हो-सभापति पदका अर्का प्रतिस्पर्धी गगन थापासँगको उनको पुरानो सम्बन्ध।",
+   "link": "https://www.setopati.com/politics/400250",
+   "source": "Setopati",
+   "ts": 1791361808,
+   "weight": 3,
+   "img": null,
+   "lang": "ne",
+   "hl": "को हुन् गगनसँग सभापतिमा प्रतिस्पर्धा गर्ने श्यामकृष्ण र किशोरसिंह?",
+   "en": "को हुन् गगनसँग सभापतिमा प्रतिस्पर्धा गर्ने श्यामकृष्ण र किशोरसिंह?",
+   "ne": "को हुन् गगनसँग सभापतिमा प्रतिस्पर्धा गर्ने श्यामकृष्ण र किशोरसिंह?",
+   "imp": 3,
+   "tags": [
+    "NepaliCongress",
+    "GaganThapa",
+    "महाधिवेशन"
+   ],
+   "cat": "politics",
+   "val": 1,
+   "teaser": true,
+   "hits": 1
+  },
+  {
+   "title": "कम उत्पादन दिने उखु नकिन्ने चिनी उद्योगको सामूहिक अडान, किसानलाई उन्नत जाततर्फ लाग्न आग्रह",
+   "summary": "मधेस प्रदेशका चिनी उद्योगले कम उत्पादन र कम चिनी प्रतिलाभ हुने जातको उखु यसपालि खरिद नगर्ने निर्णय गरेका छन्।...",
+   "link": "https://nagariknews.nagariknetwork.com/economy/sugar-industry-takes-collective-stand-against-buying-low-yielding-sugarcane-urges-farmers-to-move-towards-improved-varieties-87-87.html",
+   "source": "Nagarik News",
+   "ts": 1791361788,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2025/third-party/1791361774_ukhu.jpg",
+   "lang": "ne",
+   "hl": "कम उत्पादन दिने उखु नकिन्ने चिनी उद्योगको सामूहिक अडान, किसानलाई उन्नत जाततर्फ लाग्न आग्रह",
+   "en": "कम उत्पादन दिने उखु नकिन्ने चिनी उद्योगको सामूहिक अडान, किसानलाई उन्नत जाततर्फ लाग्न आग्रह",
+   "ne": "कम उत्पादन दिने उखु नकिन्ने चिनी उद्योगको सामूहिक अडान, किसानलाई उन्नत जाततर्फ लाग्न आग्रह",
+   "imp": 3,
+   "tags": [
+    "Sugarcane",
+    "Agriculture",
+    "उखु"
+   ],
+   "cat": "economy",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "NC general convention set to endorse four key reports",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObXktaTJqcHFsWUdmaFZpVEoyUVRyYnlGSTRwSVkxcHZDMXlmYi1WQmg5NFNRODZTM1dNUHhwbHl4eHpqR2ZfRElPSkhudmwxLWNQRGFIS2I5SlFMUlBrMlk2TVZpWFNjVTloNWI0ZEkzOE5WLWl0RDM1LXFxZzQzMmJIb1F1Q2VvejhtVVdkazRjaGJIWFZmV2FuNzVCR0ZJd3dxOGhHeGFwY3ct?oc=5",
+   "source": "myRepublica",
+   "ts": 1791358353,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "NC general convention set to endorse four key reports",
+   "en": "NC general convention set to endorse four key reports",
+   "ne": "NC general convention set to endorse four key reports",
+   "imp": 3,
+   "tags": [
+    "NepaliCongress",
+    "GeneralConvention",
+    "महाधिवेशन"
+   ],
+   "cat": "politics",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "कुमारी बैंक र महिला उद्यमी महासंघबीच महिलाको दिगो आर्थिक सशक्तीकरण प्रवर्द्धनका लागि साझेदारी",
+   "summary": "कुमारी बैंक लिमिटेडले आफ्ना उत्पादन, जनशक्ति तथा रणनीतिक साझेदारीमार्फत दिगोपनप्रतिको प्रतिबद्धतालाई निरन्तरता दिँदै महिला उद्यमी महासंघ नेपालसँग सम्झौता गरेको छ ।यस साझेदारीको उद्देश्य महिलाको आर्थिक सशक्तीकरण, दिगो...",
+   "link": "http://lokaantar.com/story/330695/2026/10/7/kumari-bank-",
+   "source": "Lokaantar",
+   "ts": 1791348059.8458567,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "कुमारी बैंक र महिला उद्यमी महासंघबीच महिलाको दिगो आर्थिक सशक्तीकरण प्रवर्द्धनका लागि साझेदारी",
+   "en": "कुमारी बैंक र महिला उद्यमी महासंघबीच महिलाको दिगो आर्थिक सशक्तीकरण प्रवर्द्धनका लागि साझेदारी",
+   "ne": "कुमारी बैंक र महिला उद्यमी महासंघबीच महिलाको दिगो आर्थिक सशक्तीकरण प्रवर्द्धनका लागि साझेदारी",
+   "imp": 2,
+   "tags": [
+    "KumariBank",
+    "WomenEntrepreneurs",
+    "बैंक"
+   ],
+   "cat": "economy",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Former NSU leaders dominate Nepali Congress leadership race",
+   "summary": "Kathmandu, October 7 Former leaders of the Nepali Congress-affiliated Nepal Student Union (NSU) are playing a prominent role in the party's ongoing leadership contest, underscoring the student organisation's...",
+   "link": "https://english.onlinekhabar.com/former-nsu-dominate-nc-leadership-race.html",
+   "source": "Onlinekhabar EN",
+   "ts": 1791362023,
+   "weight": 3,
+   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/10/nsu-nc-2.png",
+   "lang": "en",
+   "hl": "Former NSU leaders dominate Nepali Congress leadership race",
+   "en": "Former NSU leaders dominate Nepali Congress leadership race",
+   "ne": "Former NSU leaders dominate Nepali Congress leadership race",
+   "imp": 3,
+   "tags": [
+    "NepaliCongress",
+    "NSU",
+    "Leadership"
+   ],
+   "cat": "politics",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "National PABSON Submits 11-Point Suggestions on Proposed Education Bill",
+   "summary": "Kathmandu. The National Private and Residential Schools' Association Nepal (National PABSON) has put forward 11-point suggestions to incorporate the interests...",
+   "link": "http://english.ratopati.com/story/82719/national-pabsons-11-point-suggestion-to-include-private-school-issues-in-the-education-act",
+   "source": "Ratopati EN",
+   "ts": 1791361216,
+   "weight": 2,
+   "img": "https://rpcdn.ratopati.com/media/albums/npabson_sMDp0PNauM.JPG",
+   "lang": "en",
+   "hl": "National PABSON Submits 11-Point Suggestions on Proposed Education Bill",
+   "en": "National PABSON Submits 11-Point Suggestions on Proposed Education Bill",
+   "ne": "National PABSON Submits 11-Point Suggestions on Proposed Education Bill",
+   "imp": 3,
+   "tags": [
+    "PABSON",
+    "EducationBill",
+    "शिक्षा"
+   ],
+   "cat": "education",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "फैसला कार्यान्वयन अभियानमा रौतहटबाट ३७ फरार प्रतिवादी पक्राउ",
+   "summary": "रौतहट, असोज २१ गते । फैसला कार्यान्वयन विशेष अभियानअन्तर्गत रौतहटमा विभिन्न मुद्दामा दोषी ठहर भई फरार रहेका ३७ जना प्रतिवादी पक्राउ परेका छन् ।जिल्ला प्रहरी कार्यालय रौतहट तथा मातह...",
+   "link": "https://gorkhapatraonline.com/news/225771",
+   "source": "Gorkhapatra",
+   "ts": 1791361427,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/386909/conversions/arest_police-original.jpg",
+   "lang": "ne",
+   "hl": "फैसला कार्यान्वयन अभियानमा रौतहटबाट ३७ फरार प्रतिवादी पक्राउ",
+   "en": "फैसला कार्यान्वयन अभियानमा रौतहटबाट ३७ फरार प्रतिवादी पक्राउ",
+   "ne": "फैसला कार्यान्वयन अभियानमा रौतहटबाट ३७ फरार प्रतिवादी पक्राउ",
+   "imp": 2,
+   "tags": [
+    "Rautahat",
+    "Police",
+    "प्रहरी"
+   ],
+   "cat": "crime",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "३५ वर्षमुनिको युवा समूहमा मुस्लिम समुदायका मोजाहिद हकको उम्मेदवारी",
+   "summary": "नेपाली कांग्रेसको १५औँ महाधिवेशन अन्तर्गत मोरङका ३० वर्षीय मोजाहिद हकले केन्द्रीय सदस्य पदमा उम्मेदवारी दर्ता गराएका छन्।...",
+   "link": "https://nagariknews.nagariknetwork.com/politics/mojahid-haque-a-muslim-community-candidate-is-running-in-the-under-35-youth-category-32-84.html",
+   "source": "Nagarik News",
+   "ts": 1791361315,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2025/third-party/1791361305_congresspic.jpg",
+   "lang": "ne",
+   "hl": "३५ वर्षमुनिको युवा समूहमा मुस्लिम समुदायका मोजाहिद हकको उम्मेदवारी",
+   "en": "३५ वर्षमुनिको युवा समूहमा मुस्लिम समुदायका मोजाहिद हकको उम्मेदवारी",
+   "ne": "३५ वर्षमुनिको युवा समूहमा मुस्लिम समुदायका मोजाहिद हकको उम्मेदवारी",
+   "imp": 2,
+   "tags": [
+    "YouthParliament",
+    "MuslimCommunity",
+    "युवा"
+   ],
+   "cat": "politics",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Heavy rain, thunderstorms likely in several parts of Nepal",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORU9PcXR4WDhCS0pMUjIybTNOcm5qa016OW1iOTJ2OTBWQUtjdGloLTY5YUlWdE9vWllKV0hQNGFhOHJhVkJoVDRvcVcwV0tsUXlySEJYaERnVGRTR2UzNk9CRjQ5dFhBa0Zuc0NhdVNYbUtLeERjTTB0T2V5TEY4M2RPZ3drQjVyMVBYREQxcS1PVDBCZnpfS3Ezai1RWnBj0gFcQVVfeXFMT05tWUpwN01DT1JKeHVveWZfRmQ4WTk5TGk1QW56S1RSaVpIYVlzWGN5QzBFTFc2RnRVOTZJbDZIOUw1Sk42Y1V1cGVTVGwzTFB2dHB2ZmtTUzhKQXI?oc=5",
+   "source": "The Himalayan Times",
+   "ts": 1791348128,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "Heavy rain, thunderstorms likely in several parts of Nepal",
+   "en": "Heavy rain, thunderstorms likely in several parts of Nepal",
+   "ne": "Heavy rain, thunderstorms likely in several parts of Nepal",
+   "imp": 3,
+   "tags": [
+    "Weather",
+    "Monsoon",
+    "मौसम"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "दसैंमा हल तताउँदै नेपाली फिल्म : पल शाहदेखि समीर भट्टसम्मको भिडन्त",
+   "summary": "नेपाली सिने क्षेत्रका लागि दसैं 'प्राइम टाइम' मानिने गरिन्छ। निर्मातालाई मात्र होइन कलाकारलाई समेत आफ्नो चलचित्र दसैं ताका प्रदर्शनमा आयोस् भन्ने सपना हुन्छ।...",
+   "link": "https://nagariknews.nagariknetwork.com/arts/nepali-films-heating-up-the-halls-during-dashain-a-clash-from-pal-shah-to-sameer-bhatta-59-48.html",
+   "source": "Nagarik News",
+   "ts": 1791361224,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2026/third-party/1791361197_Nepali%20Flim.jpg",
+   "lang": "ne",
+   "hl": "दसैंमा हल तताउँदै नेपाली फिल्म : पल शाहदेखि समीर भट्टसम्मको भिडन्त",
+   "en": "दसैंमा हल तताउँदै नेपाली फिल्म : पल शाहदेखि समीर भट्टसम्मको भिडन्त",
+   "ne": "दसैंमा हल तताउँदै नेपाली फिल्म : पल शाहदेखि समीर भट्टसम्मको भिडन्त",
+   "imp": 2,
+   "tags": [
+    "Dashain",
+    "NepaliMovies",
+    "चलचित्र"
+   ],
+   "cat": "culture",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Very heavy rain in Arghakhanchi, heavy rain in 7 districts",
+   "summary": "Kathmandu, October 7 Arghakhanchi has recorded the most rainfall in the past 24 hours. According to the Meteorological Forecasting Division, Arghakhanchi had received very heavy rain by the time this report was...",
+   "link": "https://english.onlinekhabar.com/heavy-rain-in-7-districts.html",
+   "source": "Onlinekhabar EN",
+   "ts": 1791361725,
+   "weight": 3,
+   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/09/Rainfall-Raining-1024x668-1.jpg",
+   "lang": "en",
+   "hl": "Very heavy rain in Arghakhanchi, heavy rain in 7 districts",
+   "en": "Very heavy rain in Arghakhanchi, heavy rain in 7 districts",
+   "ne": "Very heavy rain in Arghakhanchi, heavy rain in 7 districts",
+   "imp": 3,
+   "tags": [
+    "Arghakhanchi",
+    "HeavyRain",
+    "मौसम"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "मन्जुरीबिना तस्बिर र भिडियो प्रकाशन गरेको आरोपमा एक जना पक्राउ",
+   "summary": "बाँकेको कोहलपुरमा वैयक्तिक गोपनीयता भंग हुने गरी तस्बिर तथा भिडियो प्रकाशन गरेको आरोपमा प्रहरीले एक जनालाई पक्राउ गरेको छ।...",
+   "link": "https://nagariknews.nagariknetwork.com/social-affairs/one-arrested-for-publishing-photos-and-videos-without-permission-br-31-94.html",
+   "source": "Nagarik News",
+   "ts": 1791360134,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2026/third-party/1782487226_1767683851_Pakrau-1200x560.jpg",
+   "lang": "ne",
+   "hl": "मन्जुरीबिना तस्बिर र भिडियो प्रकाशन गरेको आरोपमा एक जना पक्राउ",
+   "en": "मन्जुरीबिना तस्बिर र भिडियो प्रकाशन गरेको आरोपमा एक जना पक्राउ",
+   "ne": "मन्जुरीबिना तस्बिर र भिडियो प्रकाशन गरेको आरोपमा एक जना पक्राउ",
+   "imp": 2,
+   "tags": [
+    "CyberCrime",
+    "Privacy",
+    "साइबर"
+   ],
+   "cat": "crime",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "फलफूल खेतीः बगैँचा बढे तर उत्पादन न्यून",
+   "summary": "मधेस आँप, लिची र केरासहितका फलफूल उत्पादनको उर्वर ठाउँ मानिन्छ । यहाँ ती फलफूल खेतीले खासै गति लिएको छैन।...",
+   "link": "https://nagariknews.nagariknetwork.com/social-affairs/fruit-farming-gardens-grow-but-production-is-low-br-90-45.html",
+   "source": "Nagarik News",
+   "ts": 1791359249,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2025/third-party/1791360077_aa%20li%2098.jpg",
+   "lang": "ne",
+   "hl": "फलफूल खेतीः बगैँचा बढे तर उत्पादन न्यून",
+   "en": "फलफूल खेतीः बगैँचा बढे तर उत्पादन न्यून",
+   "ne": "फलफूल खेतीः बगैँचा बढे तर उत्पादन न्यून",
+   "imp": 2,
+   "tags": [
+    "FruitFarming",
+    "Agriculture",
+    "कृषि"
+   ],
+   "cat": "economy",
+   "val": 3,
    "teaser": false,
    "hits": 1
   }
@@ -11904,10 +12135,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "crime"
+  },
+  {
+   "ts": 1791362504.044113,
+   "en": "बाढीपहिरो र हिमपातले मुस्ताङमा पाँच सयभन्दा बढी कन्टेनर रोकिए",
+   "ne": "बाढीपहिरो र हिमपातले मुस्ताङमा पाँच सयभन्दा बढी कन्टेनर रोकिए",
+   "link": "https://gorkhapatraonline.com/news/225768",
+   "source": "Gorkhapatra",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": true,
+   "cat": "disaster"
   }
  ],
- "updated": 1791361898,
- "pending_since": 1791361253.1017344,
+ "updated": 1791362521,
+ "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
