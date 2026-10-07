@@ -1,8 +1,5 @@
 {
  "seen": {
-  "https://kathmandupost.com/climate-environment/2026/10/05/collared-kingfisher-sighted-in-dhanusha-a-first-for-nepal": 1791166845.2164018,
-  "https://kathmandupost.com/interviews/2026/10/05/journalist-kunda-dixit-on-a-young-fragile-himalayas-and-the-risks-nepal-is-ignoring": 1791166845.2164018,
-  "http://lokaantar.com/story/330497/2026/10/5/gagan-thapa-": 1791166845.2164018,
   "https://khabarhub.com/2026/05/1033271/": 1791167465.102197,
   "https://english.khabarhub.com/2026/05/570688/": 1791167465.102197,
   "https://risingnepaldaily.com/news/87410": 1791167465.102197,
@@ -2539,29 +2536,6 @@
  },
  "queue": [
   {
-   "title": "छिमेकीको हत्या आरोपमा पोखरामा एकजना पक्राउ",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/504081",
-   "source": "Baahrakhari",
-   "ts": 1791310272,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "छिमेकीको हत्या आरोपमा पोखरामा एकजना पक्राउ",
-   "en": "छिमेकीको हत्या आरोपमा पोखरामा एकजना पक्राउ",
-   "ne": "छिमेकीको हत्या आरोपमा पोखरामा एकजना पक्राउ",
-   "imp": 3,
-   "tags": [
-    "Pokhara",
-    "Murder",
-    "पक्राउ"
-   ],
-   "cat": "crime",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Spain Defeats Croatia 2-1 in Nations League",
    "summary": "Kathmandu. In the UEFA Nations League group stage match, Spain registered a comeback victory of 2-1 goals against Croatia. Mikel...",
    "link": "http://english.ratopati.com/story/82638/spains-2-1-comeback-win-over-croatia",
@@ -4088,30 +4062,6 @@
     "दसैँ"
    ],
    "cat": "culture",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Judicial Council sidesteps seniority, recommends 16th-ranked judge for SC",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORExlYWFFY29FQ0lqNFB0ZlIwZzRiQ2dEMGxRaDRZUTFpa1lWbkdIRDFnbmVPYXJPMXB5MmtWbWVLRm1teDNHM3p6SXhyVGZmbVJnekcwUlEweTY5anRITjFMNy0zLUVhU2xJelRWT2M0MkJXQjNYMi1XV2tXY2lJaFN0dlVSNTc3bWx5S0FmTXRidXlXYUFpY3l4QlhlbGVQMDFKZjRfTWNfa3c0OTZua0FJcFBJN1JkNzhSSGs5UkhSZXF6SEU5RThB?oc=5",
-   "source": "myRepublica",
-   "ts": 1791334363,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Judicial Council sidesteps seniority, recommends 16th-ranked judge for SC",
-   "en": "Judicial Council sidesteps seniority, recommends 16th-ranked judge for SC",
-   "ne": "Judicial Council sidesteps seniority, recommends 16th-ranked judge for SC",
-   "imp": 4,
-   "tags": [
-    "JudicialCouncil",
-    "SupremeCourt",
-    "JudgeRecommendation",
-    "न्यायिकपरिषद"
-   ],
-   "cat": "politics",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -7599,9 +7549,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "crime"
+  },
+  {
+   "ts": 1791339657.3503778,
+   "en": "Judicial Council recommends 16th-ranked judge for Supreme Court",
+   "ne": "Judicial Council recommends 16th-ranked judge for Supreme Court",
+   "link": "https://myrepublica.nagariknetwork.com/news/judicial-council-sidesteps-seniority-recommends-16th-ranked-judge-for-supre-46-86.html",
+   "source": "myRepublica",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "politics"
   }
  ],
- "updated": 1791339059,
+ "updated": 1791339674,
  "pending_since": 1791339053.0181298,
  "fb_blocks": [
   1790350880.4125228,
