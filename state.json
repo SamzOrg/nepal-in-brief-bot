@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://www.ratopati.com/story/597200/bijouri-kotheri-road-is-being-upgraded-rapidly": 1791159044.4911222,
-  "https://www.onlinekhabar.com/2026/10/2032351/motorcycle-crashes-into-tree-in-chitwan-one-dead-one-injured": 1791159044.4911222,
   "https://news.google.com/rss/articles/CBMickFVX3lxTE5mMkl5c0pvNDRfVExnejN6VHBoeVpxY1ZodnZFNjlPUFhRZWhQMEhEWU9JTUdURjNSbktHbHZxSHcyRFRUVjdQYl94YWpHNkF0aTdkeUpraUZob205Y2xJOE5STVdleW1jZ1pHLVg3bml6dw?oc=5": 1791159647.0645359,
   "https://khabarhub.com/2026/05/1033256/": 1791160260.222691,
   "https://baahrakhari.com/detail/503768": 1791160260.222691,
@@ -2585,29 +2583,6 @@
  },
  "queue": [
   {
-   "title": "Five Militants Killed in Pakistan's Khyber Pakhtunkhwa Province",
-   "summary": "Kathmandu. Five militants were killed and two injured in an intelligence-based operation by security forces in Pakistan's northwestern Khyber Pakhtunkhwa...",
-   "link": "http://english.ratopati.com/story/82633/military-operation-in-northwest-pakistan-kills-five-militants",
-   "source": "Ratopati EN",
-   "ts": 1791302570,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/pakistan-flag_VxB0GaBXso.jpg",
-   "lang": "en",
-   "hl": "Five Militants Killed in Pakistan's Khyber Pakhtunkhwa Province",
-   "en": "Five Militants Killed in Pakistan's Khyber Pakhtunkhwa Province",
-   "ne": "Five Militants Killed in Pakistan's Khyber Pakhtunkhwa Province",
-   "imp": 1,
-   "tags": [
-    "Pakistan",
-    "KhyberPakhtunkhwa",
-    "Militants"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "पर्यटकलाई दुःख दिने १५ जना पक्राउ",
    "summary": "कास्की, असोज २० गते । पोखरा महानगरपालिकाका विभिन्न क्षेत्रमा कास्की प्रहरीले आज सञ्चालन गरेको 'स्वीप अप्रेसन' का क्रममा १५ जना पक्राउ परेका छन् । चाडपर्वको समयमा पर्यटकलाई जबरजस्ती...",
    "link": "https://gorkhapatraonline.com/news/225673",
@@ -2675,52 +2650,6 @@
    "hits": 1
   },
   {
-   "title": "जलवायु परिवर्तनबाट निजी क्षेत्र प्रताडित : अध्यक्ष श्रेष्ठ",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/504072",
-   "source": "Baahrakhari",
-   "ts": 1791303027,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "जलवायु परिवर्तनबाट निजी क्षेत्र प्रताडित : अध्यक्ष श्रेष्ठ",
-   "en": "जलवायु परिवर्तनबाट निजी क्षेत्र प्रताडित : अध्यक्ष श्रेष्ठ",
-   "ne": "जलवायु परिवर्तनबाट निजी क्षेत्र प्रताडित : अध्यक्ष श्रेष्ठ",
-   "imp": 3,
-   "tags": [
-    "ClimateChange",
-    "PrivateSector",
-    "जलवायु"
-   ],
-   "cat": "economy",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Nepal pitches 'Sagarmatha to Sea' alliance ahead of COP31",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbWNSdzljaURQSE1RYklBem1hZ01Bdjk4MHUybWF2M3p0cm1hWFk3dDE2bG1wUW15dVdMTUpmWVktVlE4ZlZ4VXFZUFBST3JQNXNSTTVXWWNWaHZtTVpVNUZtU0REZHJjM25Bb0dFUTM0eDZEc1JxbVNMZ05KMVNsNU1TYnhKMDUzdl9ULTJ4d1hfSElZd3lBUW1pYngwa0x4MkhZ?oc=5",
-   "source": "The Kathmandu Post",
-   "ts": 1791302613,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Nepal pitches 'Sagarmatha to Sea' alliance ahead of COP31",
-   "en": "Nepal pitches 'Sagarmatha to Sea' alliance ahead of COP31",
-   "ne": "Nepal pitches 'Sagarmatha to Sea' alliance ahead of COP31",
-   "imp": 3,
-   "tags": [
-    "SagarmathaToSea",
-    "COP31",
-    "Nepal"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "सडक ठप्प भएपछि डोल्पा, मुगु र मुस्ताङका च्याङ्ग्रा हिँडाएरै पोखरा झारिँदै",
    "summary": "बाढीपहिरोले कालिगण्डकी करिडोर ठप्प छ। करिडोर खुलाउन अझै केहीदिन लाग्ने सडक विभागले बताइसकेको छ।...",
    "link": "https://nagariknews.nagariknetwork.com/economy/dashain-s-chyangra-19-89.html",
@@ -2742,52 +2671,6 @@
    "cat": "economy",
    "val": 3,
    "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "विराटनगरमा असोज २२ देखि 'विराट ट्रेड फेयर'",
-   "summary": "दसैं-तिहार लगायतका चाडपर्वलाई लक्षित गर्दै विराटनगरमा आयोजना हुन लागेको दोस्रो संस्करणको 'विराट ट्रेड फेयर' को तयारी अन्तिम चरणमा पुगेको छ।...",
-   "link": "https://nagariknews.nagariknetwork.com/economy/preparations-for-virat-trade-fair-complete-br-24-82.html",
-   "source": "Nagarik News",
-   "ts": 1791302925,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1791302968_birat.jpg",
-   "lang": "ne",
-   "hl": "विराटनगरमा असोज २२ देखि 'विराट ट्रेड फेयर'",
-   "en": "विराटनगरमा असोज २२ देखि 'विराट ट्रेड फेयर'",
-   "ne": "विराटनगरमा असोज २२ देखि 'विराट ट्रेड फेयर'",
-   "imp": 2,
-   "tags": [
-    "Biratnagar",
-    "TradeFair",
-    "व्यापार"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "कांग्रेस सभापतिमा उम्मेदवारी दर्तापछि गगन, खड्गी र राठौरले के भने ?",
-   "summary": "नेपाली कांग्रेसको १५औं महाधिवेशनअन्तर्गत नयाँ नेतृत्व चयनका लागि सभापति पदमा तीन जना नेता चुनावी मैदानमा उत्रिएका छन्।...",
-   "link": "https://nagariknews.nagariknetwork.com/politics/what-did-gagan-khadgi-and-rathore-say-after-filing-their-candidacies-for-the-post-of-congress-president-61-91.html",
-   "source": "Nagarik News",
-   "ts": 1791302562,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1791302681_sabhapati_umdesar.png",
-   "lang": "ne",
-   "hl": "कांग्रेस सभापतिमा उम्मेदवारी दर्तापछि गगन, खड्गी र राठौरले के भने ?",
-   "en": "कांग्रेस सभापतिमा उम्मेदवारी दर्तापछि गगन, खड्गी र राठौरले के भने ?",
-   "ne": "कांग्रेस सभापतिमा उम्मेदवारी दर्तापछि गगन, खड्गी र राठौरले के भने ?",
-   "imp": 3,
-   "tags": [
-    "GaganThapa",
-    "NepaliCongress",
-    "कांग्रेस"
-   ],
-   "cat": "politics",
-   "val": 2,
-   "teaser": true,
    "hits": 1
   },
   {
@@ -6723,7 +6606,7 @@
    "cat": "society"
   }
  ],
- "updated": 1791331293,
+ "updated": 1791331857,
  "pending_since": 1791330650.6846294,
  "fb_blocks": [
   1790350880.4125228,
