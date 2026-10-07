@@ -2563,7 +2563,12 @@
   "https://nagariknews.nagariknetwork.com/sports/preparations-for-npl-in-final-stages-85-67.html": 1791336565.9223304,
   "https://gorkhapatraonline.com/news/225688": 1791336565.9223304,
   "https://nagariknews.nagariknetwork.com/social-affairs/preparations-to-connect-tourist-destinations-through-jeep-safaris-br-75-51.html": 1791336565.9223304,
-  "https://nagariknews.nagariknetwork.com/editorial/rising-risk-of-cancer-challenges-in-prevention-br-66-66.html": 1791336565.9223304
+  "https://nagariknews.nagariknetwork.com/editorial/rising-risk-of-cancer-challenges-in-prevention-br-66-66.html": 1791336565.9223304,
+  "https://www.setopati.com/sports/npl/400217": 1791337248.8660107,
+  "http://english.ratopati.com/story/82652/3-journalists-file-candidacies-for-nc-central-committee-members-from-professional-and-thematic-fields": 1791337248.8660107,
+  "https://english.khabarhub.com/2026/07/570991/": 1791337248.8660107,
+  "https://www.setopati.com/social/400216": 1791337248.8660107,
+  "http://lokaantar.com/story/330673/2026/10/7/narayani-": 1791337248.8660107
  },
  "queue": [
   {
@@ -2586,29 +2591,6 @@
    "cat": "world",
    "val": 1,
    "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "दुई लाख बढी नगदसहित सुनसरीबाट जुवा खेलिरहेका पाँचजना पक्राउ",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/504078",
-   "source": "Baahrakhari",
-   "ts": 1791308076,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "दुई लाख बढी नगदसहित सुनसरीबाट जुवा खेलिरहेका पाँचजना पक्राउ",
-   "en": "दुई लाख बढी नगदसहित सुनसरीबाट जुवा खेलिरहेका पाँचजना पक्राउ",
-   "ne": "दुई लाख बढी नगदसहित सुनसरीबाट जुवा खेलिरहेका पाँचजना पक्राउ",
-   "imp": 2,
-   "tags": [
-    "Gambling",
-    "Sunsari",
-    "जुवा"
-   ],
-   "cat": "crime",
-   "val": 3,
-   "teaser": false,
    "hits": 1
   },
   {
@@ -3805,7 +3787,7 @@
    "cat": "sports",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "अधिकांश हवाई टिकट बुक",
@@ -7276,9 +7258,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "politics"
+  },
+  {
+   "ts": 1791337255.4496284,
+   "en": "Narayani river flood damages 1.15 km of embankment in Chitwan",
+   "ne": "Narayani river flood damages 1.15 km of embankment in Chitwan",
+   "link": "https://english.khabarhub.com/2026/07/570991/",
+   "source": "Khabarhub EN",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": true,
+   "cat": "disaster"
   }
  ],
- "updated": 1791336705,
+ "updated": 1791337272,
  "pending_since": 1791336700.6978476,
  "fb_blocks": [
   1790350880.4125228,
