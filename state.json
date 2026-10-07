@@ -1,9 +1,5 @@
 {
  "seen": {
-  "http://english.ratopati.com/story/82396/government-changes-road-design-code-due-to-rs-215-billion-damage-to-road-infrastructure": 1791192048.5444572,
-  "https://nagariknews.nagariknetwork.com/politics/the-closed-session-of-the-15th-general-convention-of-the-nepali-congress-begins-in-three-clusters-39-14.html": 1791192048.5444572,
-  "https://www.setopati.com/politics/400030": 1791192048.5444572,
-  "https://news.google.com/rss/articles/CBMixwFBVV95cUxQeG1ielNRUHRnS3VVY04wQ0prenpxUzQtY2JWOHlmeFJ0THZCR1lUVnRyaThuanBuVGx4QTc0QzhmMTdhYzZNMDJLSDl4aHBmcFNrMnNYWGZkbFVBMldYaTFSTS1tYzJDOFQ3ZlJxVVFBU0xBaGFORTlQbnI2S0lCSExJbnpDWFZaTlVBcXpJcGhMQ2NLdnU4YnhOU1dydjQzZktPTUU5bU9uVy1uanNJRDhadU1DbVcweFZianhQYWplanYwUkJn?oc=5": 1791192048.5444572,
   "https://baahrakhari.com/detail/503837": 1791192673.4675167,
   "https://www.setopati.com/social/400034": 1791192673.4675167,
   "https://www.setopati.com/politics/400033": 1791192673.4675167,
@@ -2483,7 +2479,16 @@
   "https://english.onlinekhabar.com/finland-orders-google-to-halt-data-centre-construction-over-environmental-concerns.html": 1791364252.9018877,
   "http://lokaantar.com/story/330706/2026/10/7/constitutional-court-": 1791364252.9018877,
   "https://baahrakhari.com/detail/504137": 1791364252.9018877,
-  "https://english.onlinekhabar.com/expands-telemedicine-services.html": 1791364252.9018877
+  "https://english.onlinekhabar.com/expands-telemedicine-services.html": 1791364252.9018877,
+  "https://news.google.com/rss/articles/CBMie0FVX3lxTFBickJIVUNPZjJqRnBEZWdxOW93eTB3ZFZOaEhZZjJFSF9ET3AtaUNoczItOGFBN2dOeUhaTjUzWWJFYUhBS2FvOV81elpJdVBWVlZkM1pmbHRTakg4eGxWTmtBWkZySlNobWVZU0x5ZUJRaElvYTFtRWh3MA?oc=5": 1791364855.5790176,
+  "https://news.google.com/rss/articles/CBMiogFBVV95cUxQS0w0ZjI3eG5oN0NPcVlBYXhZWVBzVXBHZU84d29aWmtCdndmTjBpWWlqWnhjTlQ3allIVENQem9hRzdaUW9qeVM0aTE4TVF6VVdtcmpkdHlUd2NfYVRiSHozLTRHQWlRVm5adDVPRFh1Z2hJZ2RMWDRuSzlFbk82eGIyQUR0cnBOdWhHb2c2QUQ3RGNxUFJxcXQzUnh2RXRaUWc?oc=5": 1791364855.5790176,
+  "https://news.google.com/rss/articles/CBMimwNBVV95cUxPNFRmLVpJQ29reVc4dG1DZHpxbFp0VUcxaTMwUlQ3UExKWXNHTjVxazRVR2l2dlJKalZlZl9ESm9FaEw1MVNjX2VJS2NPdWh1VUwwQ25nQ0dibzE2RGhFV2tMLXZVeUFVRGdCbF9KM2s5LXlHT091NVNOZlRNTk91elVlS3ZwNmxYYm5KSTI1NFpOYktkUEFtSTctRVc3V3NBMDZUclJ2UlR0dkhiR1owR1ZudElfWVctUWhMVkdHX0JDc240YVpXaEZfenQ2WkNNTERyelp1YjVOZzRjUEw5X2Z0b1Z6SVFPTGtKQ1lETlFwVkdOVmN3Rnh0dUlLVFZOM2VtNWhnMmV1TFcwbE5yTThUZXNXajdPaUJVcTNXMnpVbHNjYnVyZlB2TDlkbS11U3pBWEl2azk5WWxkTzJVY3N3aExlS3ZxWFh5R2VYcFh4d2ZXUVBkQktVbmY4RVl1V3FuUkJsb2xqdFI1cW1vc3NtRGpFOWV1T19uMS1LVTl1OVZkY2VSMG9GWDZyWGVVZHdtcnc5UEFIYTQ?oc=5": 1791364855.5790176,
+  "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNEN4MDBLOUVWbC10QTJLRU5SemF2bV81QnhoY1A4eUhhbXkxUVMtcFRSd0thZ2NOSHdNQUZ4QlRFUzliamJHN3NHT0FYVTJVQ0dVMF9qVHR5QlAwWl9IMUxONWZEazdjR3ZvYW5DNjhnWmJpUDloNUN3TmZaUVFXdVZPT0plNl82MzljZkU5VEpMaWZXUjlPRTlXTXV2MVdUbTV3MGY5aFNJOFJDRHlsS3hGYVg1QlhPUWNNc1RDdUtobGRq0gHKAUFVX3lxTE5sVTBYRkFYWGJKdnJvSkliTjdmZndCUzI2V2tfbVB1ZE5PbzdwemVDcXRlcGRYNFdBaUFSUVRNQWlOZGV2SVFPUnlfVmxMRkxyTGhVTU4xT3o3OXJEbE9wVWl6VlhLeEZ1Sm9zcmFhaEFXYXNiZjlfVk9MaGtydXl1RHR4VEdRNEVRa0hkRVB5YnlkdXU2akY4TVdDWkhaVXVjT0drSDRhY1BUVDBCdEEwWkIzcDUwc2tWOVpjOVdlVzViOEFGVk9kMFE?oc=5": 1791364855.5790176,
+  "https://news.google.com/rss/articles/CBMikAJBVV95cUxNbDRSem9kcFNPekVOWWtpMHdlWTFwaVhjWXJvcUx1Y0tLOGRnMTYxb2lhdXVwY1NWMmlHem1jay1RanZuUzl4WmpJNmpNYWIxSnctcGk5WjBTSUJzZElEX3VObUpQN0szbzRWYnJFSzhBbW8yTEY4SmpwMUVGWVNycklCMzJKeUw2U3dicHlTWlpNWF9VQ2E2U20tNGFOQzF3dkdVeF9oS3BKTkd2S0lPQXZzUGFCVnYxSzdzbmVzdTdIVFNJYlBDRVRCY0JkNlNmN2NYZUg3SllxNXpvd3BNUGptSy0xWjE2TXF3WTR4YnBmc1p0elgtOHdlenkxbHN1bHFfTEd2MmRMQ0NGUjdQQg?oc=5": 1791364855.5790176,
+  "https://news.google.com/rss/articles/CBMigAJBVV95cUxOSGVCaFB0RU1kQXhZNnUwUVRGMVpCenloaDBhbkhtOFdXeXd5MlB0RGpkSXRWb01XaW4xU0dTSG5TMV95OVZYYVFKVm1wRXhhN0VUNFk0QTdRUDhnVDVaLVpidnBKV1NNYUJ4MVNCemtxSGpURmFlenY3cVdyWmNJU0VySkJlQklQb1lQOGE0aWhPenhDVS0yU2Exb0VKSHNpRThmRU9GenE1SURJWjRTZGNiLXZveVpHbVd0VURIdjFZUVdXZ2tJcnU1VmN5UkE2RzRVMUdMR0lMRmpnT1UwdkQxaFRRUWhDTjBhbXJidGZRdkZqMGtEREw1ZjIydFdj?oc=5": 1791364855.5790176,
+  "https://news.google.com/rss/articles/CBMixAFBVV95cUxORnFmQUFjd0pqMlVMMVhPMWpKX3gzeVVuWHVSX1k3WWZ0OTR3RjBXRzliem9QOHpmM0hFc0VtempfUzhVVXA5RjlRTURaOUdNc1BsazdYSFpJWWQwVnM3cUswTVJaejA5R1pIS0x0MWU2ekcyMGNrczJzTW55bkNDX2ZnUTFHZERUSk1KdUFOYXZPdHlJVHFDNGxEQjRGYTM2STZuVFdOdGlTeHZBWmc1YzZfTmJkNlpqSEZidXBpYV9qbTNu?oc=5": 1791364855.5790176,
+  "http://lokaantar.com/story/330709/2026/10/7/gagan-thapa-": 1791364855.5790176,
+  "https://english.onlinekhabar.com/russian-lab-death-plague-concern.html": 1791364855.5790176
  },
  "queue": [
   {
@@ -2506,121 +2511,6 @@
    ],
    "cat": "economy",
    "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "From Relief To Sustainable Livelihood",
-   "summary": "The pathway of development in Nepal seems to be facing never-ending hurdles, be it the impact of climate change, natural...",
-   "link": "https://risingnepaldaily.com/news/87491",
-   "source": "Rising Nepal",
-   "ts": 1791335835,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "From Relief To Sustainable Livelihood",
-   "en": "From Relief To Sustainable Livelihood",
-   "ne": "From Relief To Sustainable Livelihood",
-   "imp": 3,
-   "tags": [
-    "Relief",
-    "Livelihood",
-    "पुनर्स्थापना"
-   ],
-   "cat": "society",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "भारतमा मुख्य निर्वाचन आयुक्त विरूद्ध चर्कियो आन्दोलन, भाजपालाई फाइदा पुर्‍याएको आरोप",
-   "summary": "भारतमा निर्वाचन आयोग र प्रमुख निर्वाचन आयुक्त ज्ञानेश कुमारलाई लिएर राजनीतिक विवाद चर्किएको छ। मतदाता नामावली पुनरवलोकनको एसआइआर, आयोगभित्रै देखिएको असहमति र भाजपालाई फाइदा पुर्‍याएको विपक्षीको आरोपले विवाद सडकदेखि...",
-   "link": "https://www.setopati.com/special-stories/international-feature/400212",
-   "source": "Setopati",
-   "ts": 1791335820,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "भारतमा मुख्य निर्वाचन आयुक्त विरूद्ध चर्कियो आन्दोलन, भाजपालाई फाइदा पुर्‍याएको आरोप",
-   "en": "भारतमा मुख्य निर्वाचन आयुक्त विरूद्ध चर्कियो आन्दोलन, भाजपालाई फाइदा पुर्‍याएको आरोप",
-   "ne": "भारतमा मुख्य निर्वाचन आयुक्त विरूद्ध चर्कियो आन्दोलन, भाजपालाई फाइदा पुर्‍याएको आरोप",
-   "imp": 1,
-   "tags": [
-    "India",
-    "ElectionCommission",
-    "BJP"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 3
-  },
-  {
-   "title": "Seven complaints filed against 13 proposed ambassadors",
-   "summary": "Kathmandu, October 6 The parliamentary hearing process for 13 ambassadors proposed by the government has begun, with the Parliamentary Hearing Committee distributing the complaints filed against the nominees among its...",
-   "link": "https://english.onlinekhabar.com/seven-complaints-against-proposed-ambassadors.html",
-   "source": "Onlinekhabar EN",
-   "ts": 1791335700,
-   "weight": 3,
-   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/09/Ambassadors-1024x569.jpeg",
-   "lang": "en",
-   "hl": "Seven complaints filed against 13 proposed ambassadors",
-   "en": "Seven complaints filed against 13 proposed ambassadors",
-   "ne": "Seven complaints filed against 13 proposed ambassadors",
-   "imp": 3,
-   "tags": [
-    "Ambassador",
-    "Complaint",
-    "Government"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "नयाँ सिलिन्डरको बिक्री रोक्न माग",
-   "summary": "गोरखापत्र समाचारदाताकाठमाडौँ, असोज २१ गते । ग्यास विक्रेता महासङ्घले उद्योगबाट नयाँ सिलिन्डर बिक्री रोक्न माग गरेको छ । महासङ्घले मङ्गलबार नेपाल आयल निगमलाई ज्ञापनपत्र बुझाउँदै उद्...",
-   "link": "https://gorkhapatraonline.com/news/225691",
-   "source": "Gorkhapatra",
-   "ts": 1791335824,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/386824/conversions/gas-original.jpg",
-   "lang": "ne",
-   "hl": "नयाँ सिलिन्डरको बिक्री रोक्न माग",
-   "en": "नयाँ सिलिन्डरको बिक्री रोक्न माग",
-   "ne": "नयाँ सिलिन्डरको बिक्री रोक्न माग",
-   "imp": 3,
-   "tags": [
-    "LPG",
-    "GasCylinder",
-    "सिलिन्डर"
-   ],
-   "cat": "economy",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "हावाहुरी र वर्षाले धानबालीमा क्षति",
-   "summary": "बबई समाचारदाताबबई (बर्दिया), असोज २१ गते । धान भित्र्याउने समय सुरु भएका बेला बर्दियामा सोमबार राति आएको हावाहुरीसहितको वर्षाले धानबालीमा क्षति पु¥याएको छ । पाकेको तथा पाक्ने तयारी...",
-   "link": "https://gorkhapatraonline.com/news/225690",
-   "source": "Gorkhapatra",
-   "ts": 1791335631,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/386823/conversions/345-original.jpg",
-   "lang": "ne",
-   "hl": "हावाहुरी र वर्षाले धानबालीमा क्षति",
-   "en": "हावाहुरी र वर्षाले धानबालीमा क्षति",
-   "ne": "हावाहुरी र वर्षाले धानबालीमा क्षति",
-   "imp": 3,
-   "tags": [
-    "Agriculture",
-    "CropDamage",
-    "धान"
-   ],
-   "cat": "economy",
-   "val": 3,
    "teaser": false,
    "hits": 1
   },
@@ -2764,29 +2654,6 @@
    "val": 3,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "White House denies Trump suggested Iran should 'take out' US cities",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeEVQU00yM19YeWJ6Y3JldU9aYVY0eWp3NHc5MGpMVTdUUDQtUWs5alpCUTJjOHZ3X0p1RGRUc0FTMG13Y21CM0sxYUtoS2VvZnFuazN6bTVGM3F5d0xabHFzUXJKS3gxaXE4bzlnTDZlOHAwMXhzZXlVRVFTSGU5TXpuUmlscDE3WWVub1VsMlh6d2xIOHQ5MENoazVYRG1jOGhnN2l2VGFWTEFhbWNQQm02UHJ4SmhmMzRaZW1EWFJQQQ?oc=5",
-   "source": "myRepublica",
-   "ts": 1791335461,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "White House denies Trump suggested Iran should 'take out' US cities",
-   "en": "White House denies Trump suggested Iran should 'take out' US cities",
-   "ne": "White House denies Trump suggested Iran should 'take out' US cities",
-   "imp": 1,
-   "tags": [
-    "WhiteHouse",
-    "DonaldTrump",
-    "Iran"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "अन्तर्राष्ट्रिय फुटबलबाट मेसीको सुखद बिदाइ",
@@ -6918,7 +6785,7 @@
    "cat": "society",
    "val": 1,
    "teaser": true,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "इराकमा ठूलो परिमाणको लागूऔषध बरामद, तस्करी योजना विफल",
@@ -7244,7 +7111,7 @@
    "cat": "society",
    "val": 2,
    "teaser": false,
-   "hits": 6
+   "hits": 7
   },
   {
    "title": "मेसीपछि अर्जेन्टिनाको '१०' नम्बर जर्सी कसले लगाउला? यी खेलाडी छन् चर्चामा",
@@ -8547,7 +8414,7 @@
    "cat": "sports",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "युद्ध अन्त्य गर्न इरानले आणविक प्रशोधन क्षमता घटाउनुपर्ने अमेरिकी सर्त",
@@ -8888,6 +8755,29 @@
    ],
    "cat": "health",
    "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Why a Russian lab worker's death has raised plague concerns",
+   "summary": "Conflicting information about the death of a lab worker at a Russian plague research institute has fuelled fears about the possibility of pneumonic plague spreading. Nearly 200 people are in quarantine in Siberia after...",
+   "link": "https://english.onlinekhabar.com/russian-lab-death-plague-concern.html",
+   "source": "Onlinekhabar EN",
+   "ts": 1791364471,
+   "weight": 3,
+   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/10/trnava-university-Lr_MKzNGhUU-unsplash-1024x683.jpg",
+   "lang": "en",
+   "hl": "Why a Russian lab worker's death has raised plague concerns",
+   "en": "Why a Russian lab worker's death has raised plague concerns",
+   "ne": "Why a Russian lab worker's death has raised plague concerns",
+   "imp": 1,
+   "tags": [
+    "Russia",
+    "Plague",
+    "LabWorker"
+   ],
+   "cat": "world",
+   "val": 2,
    "teaser": false,
    "hits": 1
   }
@@ -12260,8 +12150,8 @@
    "cat": "politics"
   }
  ],
- "updated": 1791364261,
- "pending_since": null,
+ "updated": 1791364860,
+ "pending_since": 1791364855.5790176,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
