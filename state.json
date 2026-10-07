@@ -1,12 +1,5 @@
 {
  "seen": {
-  "https://english.khabarhub.com/2026/05/570702/": 1791160847.4209425,
-  "http://english.ratopati.com/story/82300/nepali-congress-central-working-committee-meeting-held-in-open-forum": 1791160847.4209425,
-  "https://english.khabarhub.com/2026/05/570700/": 1791160847.4209425,
-  "https://risingnepaldaily.com/news/87400": 1791160847.4209425,
-  "https://www.onlinekhabar.com/2026/10/2032361/congress-15th-general-convention-closed-session-from-today-election-program-also-begins": 1791160847.4209425,
-  "http://annapurnapost.com/story/508973": 1791160847.4209425,
-  "http://lokaantar.com/story/330483/2026/10/5/accident-": 1791160847.4209425,
   "https://www.setopati.com/politics/399980": 1791161446.127525,
   "https://nagariknews.nagariknetwork.com/politics/emphasis-should-be-placed-on-skills-research-and-innovation-along-with-education-minister-pun-87-12.html": 1791161446.127525,
   "https://baahrakhari.com/detail/503769": 1791161446.127525,
@@ -2571,7 +2564,11 @@
   "http://english.ratopati.com/story/82644/the-influence-of-westerly-and-monsoon-winds-continues-with-heavy-rain-likely-in-these-5-provinces-today": 1791333064.3760002,
   "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4xNjQzY09reUxSUW5zSTBkeDNoTU82R2k3LXFfOEExREdXNzV2bHJTQ21JR29jb2s1RWRjaWlnMmc3VFhaWDFZUXk3Y2phRnlm?oc=5": 1791333064.3760002,
   "https://risingnepaldaily.com/news/87485": 1791333064.3760002,
-  "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VTVRPMWpyNGNCUmExNGgyRnFhZDZvVm5yUW1EODFoSVEwMzllNXc5U0xvOVo4dWtZb2Y5Ti02MkhIdnpMdXFhSF9UY0ZyNDBVd2QwLWNDUHYwdw?oc=5": 1791333064.3760002
+  "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VTVRPMWpyNGNCUmExNGgyRnFhZDZvVm5yUW1EODFoSVEwMzllNXc5U0xvOVo4dWtZb2Y5Ti02MkhIdnpMdXFhSF9UY0ZyNDBVd2QwLWNDUHYwdw?oc=5": 1791333064.3760002,
+  "http://english.ratopati.com/story/82645/congress-general-convention-list-of-candidates-for-the-central-working-committee-made-public": 1791333652.6379578,
+  "https://risingnepaldaily.com/news/87488": 1791333652.6379578,
+  "http://lokaantar.com/story/330663/2026/10/7/congress-": 1791333652.6379578,
+  "https://risingnepaldaily.com/news/87489": 1791333652.6379578
  },
  "queue": [
   {
@@ -2592,28 +2589,6 @@
     "Conflict"
    ],
    "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "मकवानपुरमा छुट्टाछुट्टै सवारी दुर्घटनामा प्रहरीसहित तीन जनाको मृत्यु",
-   "summary": "राममणि दाहालमकवानपुर, असोज २० गते । मकवानपुरमा भएको छुट्टाछुट्टै सवारी दुर्घटनामा एक प्रहरीसहित तीन जनाको मृत्युभएको छ । मकवानपुरको भीमफेदी गाउँपालिका- ६ धानगोदामस्थित भीमफेदी-कुले...",
-   "link": "https://gorkhapatraonline.com/news/225674",
-   "source": "Gorkhapatra",
-   "ts": 1791304847,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/386804/conversions/Accident1-original.jpg",
-   "lang": "ne",
-   "hl": "मकवानपुरमा छुट्टाछुट्टै सवारी दुर्घटनामा प्रहरीसहित तीन जनाको मृत्यु",
-   "en": "मकवानपुरमा छुट्टाछुट्टै सवारी दुर्घटनामा प्रहरीसहित तीन जनाको मृत्यु",
-   "ne": "मकवानपुरमा छुट्टाछुट्टै सवारी दुर्घटनामा प्रहरीसहित तीन जनाको मृत्यु",
-   "imp": 2,
-   "tags": [
-    "Makwanpur",
-    "TrafficAccident"
-   ],
-   "cat": "disaster",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -3228,6 +3203,28 @@
    "cat": "politics",
    "val": 2,
    "teaser": false,
+   "hits": 2
+  },
+  {
+   "title": "Restore Flood-hit Firms",
+   "summary": "The Bhotekoshi flood killed more than 1,400 people and left above 5,000 unaccounted for, damaged houses, infrastructure...",
+   "link": "https://risingnepaldaily.com/news/87489",
+   "source": "Rising Nepal",
+   "ts": 1791333381,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "Restore Flood-hit Firms",
+   "en": "Restore Flood-hit Firms",
+   "ne": "Restore Flood-hit Firms",
+   "imp": 3,
+   "tags": [
+    "Flood",
+    "Business"
+   ],
+   "cat": "disaster",
+   "val": 1,
+   "teaser": true,
    "hits": 1
   }
  ],
@@ -6621,7 +6618,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1791333067,
+ "updated": 1791333658,
  "pending_since": 1791333064.3760002,
  "fb_blocks": [
   1790350880.4125228,
