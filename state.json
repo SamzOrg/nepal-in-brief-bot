@@ -1,9 +1,5 @@
 {
  "seen": {
-  "https://english.onlinekhabar.com/pandey-nepali-congress-vice-president.html": 1791174667.3467174,
-  "https://nagariknews.nagariknetwork.com/politics/congress-general-convention-controversy-over-selection-of-representatives-in-jumla-21-87.html": 1791174667.3467174,
-  "https://gorkhapatraonline.com/news/225479": 1791174667.3467174,
-  "http://annapurnapost.com/story/508984": 1791174667.3467174,
   "https://www.ratopati.com/story/597241/saraswati-bhatta-to-file-candidacy-for-nc-central-member": 1791175247.5799983,
   "https://news.google.com/rss/articles/CBMickFVX3lxTE4yNUFMcEh3QUQ5VjF1UVJUSDhNQmpqRWtwX3pRSG1IU3Fvb3BoSWcteEJiMWF4QWxYTmZaWUJMY1pMSzAzVUp2T1ZPb05pS1p0bnZsSHRzdzc4MDNncWNXUGtzRHFmb01aaUwyRzV4V3p2UQ?oc=5": 1791175247.5799983,
   "http://annapurnapost.com/story/508985": 1791175247.5799983,
@@ -2492,7 +2488,12 @@
   "https://nagariknews.nagariknetwork.com/international/security-concerns-weigh-on-netanyahu-s-campaign-ahead-of-israeli-elections-95-26.html": 1791346853.4645472,
   "http://english.ratopati.com/story/82670/women-should-be-able-to-compete-openly-not-just-through-quotas-to-achieve-inclusion-sita-gurung": 1791346853.4645472,
   "https://nagariknews.nagariknetwork.com/international/82-year-old-halzen-wins-nobel-prize-in-physics-90-23.html": 1791346853.4645472,
-  "https://nagariknews.nagariknetwork.com/social-affairs/industry-being-displaced-from-biratnagar-br-46-66.html": 1791346853.4645472
+  "https://nagariknews.nagariknetwork.com/social-affairs/industry-being-displaced-from-biratnagar-br-46-66.html": 1791346853.4645472,
+  "https://gorkhapatraonline.com/news/225722": 1791347468.783364,
+  "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5NVzJTRjNhbFhZVWU5Q080OHFwQXZXWTNLckxJTWJyQmduQ1VJT2JiTjFsNk1aenNVS08yOHl2b19fZTJEODZQUGdjd3lPcWVf?oc=5": 1791347468.783364,
+  "https://theannapurnaexpress.com/story/67720": 1791347468.783364,
+  "https://theannapurnaexpress.com/story/67719": 1791347468.783364,
+  "https://baahrakhari.com/detail/504102": 1791347468.783364
  },
  "queue": [
   {
@@ -3889,7 +3890,7 @@
    "cat": "health",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Saving Hydro, Not Delays",
@@ -4847,7 +4848,7 @@
    "cat": "politics",
    "val": 2,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "Tag",
@@ -5269,7 +5270,7 @@
    "cat": "sports",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "दक्षिण कोरियाली कप्तानले मागे माफी",
@@ -5531,6 +5532,29 @@
    ],
    "cat": "economy",
    "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "गुल्मीमा करेन्ट लागेर २४ वर्षीय युवकको मृत्यु",
+   "summary": "",
+   "link": "https://baahrakhari.com/detail/504102",
+   "source": "Baahrakhari",
+   "ts": 1791347436,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "गुल्मीमा करेन्ट लागेर २४ वर्षीय युवकको मृत्यु",
+   "en": "गुल्मीमा करेन्ट लागेर २४ वर्षीय युवकको मृत्यु",
+   "ne": "गुल्मीमा करेन्ट लागेर २४ वर्षीय युवकको मृत्यु",
+   "imp": 3,
+   "tags": [
+    "Gulmi",
+    "Electrocution",
+    "दुर्घटना"
+   ],
+   "cat": "disaster",
+   "val": 3,
    "teaser": false,
    "hits": 1
   }
@@ -8925,8 +8949,8 @@
    "cat": "politics"
   }
  ],
- "updated": 1791346874,
- "pending_since": null,
+ "updated": 1791347473,
+ "pending_since": 1791347468.783364,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
