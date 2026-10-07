@@ -2609,51 +2609,6 @@
    "hits": 1
   },
   {
-   "title": "नेपाली उत्पादनको प्रतिस्पर्धात्मक क्षमता बढाउनुपर्नेमा जोड",
-   "summary": "विगतमा प्राप्त तयारी अवधिको अपेक्षित उपयोग हुन नसकेको उल्लेख गर्दै उनले अब उपलब्ध समयलाई प्रभावकारी रूपमा सदुपयोग गर्नुपर्नेमा जोड दिए।...",
-   "link": "https://nagariknews.nagariknetwork.com/economy/emphasis-on-increasing-the-competitive-capacity-of-nepali-products-88-29.html",
-   "source": "Nagarik News",
-   "ts": 1791385761,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1791385699_Bhaktpur.jpg",
-   "lang": "ne",
-   "hl": "नेपाली उत्पादनको प्रतिस्पर्धात्मक क्षमता बढाउनुपर्नेमा जोड",
-   "en": "नेपाली उत्पादनको प्रतिस्पर्धात्मक क्षमता बढाउनुपर्नेमा जोड",
-   "ne": "नेपाली उत्पादनको प्रतिस्पर्धात्मक क्षमता बढाउनुपर्नेमा जोड",
-   "imp": 3,
-   "tags": [
-    "NepaliProduction",
-    "Economy"
-   ],
-   "cat": "economy",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "CIB Recommends Charges Against ANFA President, General Secretary, and Two Others",
-   "summary": "Kathmandu. The Central Investigation Bureau (CIB) of the police has recommended filing a case against All Nepal Football Association (ANFA)...",
-   "link": "http://english.ratopati.com/story/82779/police-advise-to-prosecute-4-people-including-anfa-president-and-general-secretary-for-crimes-against-national-interest",
-   "source": "Ratopati EN",
-   "ts": 1791385546,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/kiran_7qLWvFzOar.jpg",
-   "lang": "en",
-   "hl": "CIB Recommends Charges Against ANFA President, General Secretary, and Two Others",
-   "en": "CIB Recommends Charges Against ANFA President, General Secretary, and Two Others",
-   "ne": "CIB Recommends Charges Against ANFA President, General Secretary, and Two Others",
-   "imp": 4,
-   "tags": [
-    "CIB",
-    "ANFA",
-    "Corruption"
-   ],
-   "cat": "crime",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Flood Relief Fund Receives Continued Financial Support",
    "summary": "Kathmandu. Following the flood in the Bhote Koshi river in Rasuwa, financial assistance continues to be collected in the Prime...",
    "link": "http://english.ratopati.com/story/82781/balance-in-prime-ministers-relief-fund-exceeds-17-billion",
@@ -3649,17 +3604,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1790809285.3328094,
-   "en": "Kaligandaki Corridor Road Reopens in Gulmi After Rain Disruption",
-   "ne": "Kaligandaki Corridor Road Reopens in Gulmi After Rain Disruption",
-   "link": "http://english.ratopati.com/story/81672/kaligandaki-corridor-in-operation",
-   "source": "Ratopati EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "disaster"
-  },
   {
    "ts": 1790811066.2469378,
    "en": "Four Arrested in Kathmandu for Rs 3.48M Foreign Employment Fraud",
@@ -6983,8 +6927,8 @@
    "cat": "crime"
   }
  ],
- "updated": 1791414088,
- "pending_since": null,
+ "updated": 1791414654,
+ "pending_since": 1791414650.8592541,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
