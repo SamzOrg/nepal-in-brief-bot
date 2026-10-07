@@ -2502,7 +2502,10 @@
   "https://nagariknews.nagariknetwork.com/education/madhes-university-expands-three-academic-programs-59-42.html": 1791345053.9937706,
   "https://www.setopati.com/politics/400223": 1791345053.9937706,
   "https://gorkhapatraonline.com/news/225712": 1791345053.9937706,
-  "https://nagariknews.nagariknetwork.com/social-affairs/28-6-mm-of-rain-falls-in-lamjung-in-one-hour-rain-continues-in-some-provinces-38-15.html": 1791345053.9937706
+  "https://nagariknews.nagariknetwork.com/social-affairs/28-6-mm-of-rain-falls-in-lamjung-in-one-hour-rain-continues-in-some-provinces-38-15.html": 1791345053.9937706,
+  "https://english.onlinekhabar.com/messi-bids-farewell-argentina.html": 1791345685.203574,
+  "https://gorkhapatraonline.com/news/225717": 1791345685.203574,
+  "https://kathmandupost.com/national/2026/10/07/flood-hit-districts-remain-cut-off-from-national-road-network": 1791345685.203574
  },
  "queue": [
   {
@@ -2552,29 +2555,6 @@
    "val": 3,
    "teaser": false,
    "hits": 3
-  },
-  {
-   "title": "In Search of Unclimbed Summits: Sträng and Kolbjørnsgard to Explore Far-West Nepal",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVHdjdThZenl5YlRQWmp3Z1p2eHQ2WXhqLUdtZFJsX3lab2c0ZUdPVl9zZUlYRmp2QkRwOUVOWnhyazNsc3VPanRuX0Y3ZGlvYzY2cHhvOXBUd01GaTIxUVNyU2I5UmVZcUxuc2JwZWNQSl8wNDlxVE5jbUktRDFZQkU2eERtN0FtSFdWOWdFcEVEbjc5RzVnYmRqci1yVHV1amszMUZicEljd0hsTTRRV3JYMXpEUFBqS0E?oc=5",
-   "source": "Dream Wanderlust",
-   "ts": 1791316546,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "In Search of Unclimbed Summits: Sträng and Kolbjørnsgard to Explore Far-West Nepal",
-   "en": "In Search of Unclimbed Summits: Sträng and Kolbjørnsgard to Explore Far-West Nepal",
-   "ne": "In Search of Unclimbed Summits: Sträng and Kolbjørnsgard to Explore Far-West Nepal",
-   "imp": 2,
-   "tags": [
-    "Strang",
-    "Kolbjornsgard",
-    "FarWest"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
   },
   {
    "title": "Tanahun to Connect Major Tourist Destinations into a Single Circuit",
@@ -4651,7 +4631,7 @@
    "cat": "sports",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "आरा र रन्दा चलाउँदै भविष्य कुँदिरहेका यी ५ युवती",
@@ -5062,6 +5042,30 @@
    ],
    "cat": "disaster",
    "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "हुम्लाका चार दर्जनभन्दा बढी बस्ती बाढीपहिरोको उच्च जोखिममा",
+   "summary": "हुम्ला समाचारदाताहुम्ला, असोज २१ गते । हिमाली जिल्ला हुम्लाका सातवटै गाउँपालिकाका चार दर्जनभन्दा बढी बस्ती बाढीपहिरोको उच्च जोखिममा रहेका छन्। भिरालो जमिनमा वर्षा हुँदा पहिरो जाने...",
+   "link": "https://gorkhapatraonline.com/news/225717",
+   "source": "Gorkhapatra",
+   "ts": 1791345614,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/386854/conversions/13-original.jpg",
+   "lang": "ne",
+   "hl": "हुम्लाका चार दर्जनभन्दा बढी बस्ती बाढीपहिरोको उच्च जोखिममा",
+   "en": "हुम्लाका चार दर्जनभन्दा बढी बस्ती बाढीपहिरोको उच्च जोखिममा",
+   "ne": "हुम्लाका चार दर्जनभन्दा बढी बस्ती बाढीपहिरोको उच्च जोखिममा",
+   "imp": 4,
+   "tags": [
+    "Humla",
+    "Flood",
+    "Landslide",
+    "बाढीपहिरो"
+   ],
+   "cat": "disaster",
+   "val": 2,
    "teaser": false,
    "hits": 1
   }
@@ -8456,7 +8460,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1791345081,
+ "updated": 1791345690,
  "pending_since": 1791345053.9937706,
  "fb_blocks": [
   1790350880.4125228,
