@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQzNuNVhMQU5xN3NjREU2SFFzZEx3cmRlMHlFelJpT2dhTm9JR0VBX3pyejJKeG5USmJycUFjTDJ0YjRTQk9IUEI4alUwZEFnLVBVOHdTQi1zWDUtLS0xbkgyRkY5Rzg5S1dISUxPQUtwakZPSUhhdVgwV3pYLWpCQkNNZF9QRUFqcnVrLXBWaGlrOURPT25qVHlDcFYwZkZvc2tGa1htWS1vZWJVY2lXcU5FR0JFQQ?oc=5": 1791262892.1809459,
   "https://www.setopati.com/politics/400108": 1791263456.1015692,
   "http://english.ratopati.com/story/82500/the-state-always-ignores-the-agricultural-sector-during-disasters": 1791263456.1015692,
   "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRmQ2OEVBTXNQcHpVV3lLcEQtMlVYUndoZ0ZTNFJiSlJuamhyOTdkR2VOQXpMc09XeGZYMmhTMFFMZFFTRDdtM0NXbk1MU0JWazVGblFIaGxlOG96Q0hmb19yS3NDOUYtanNiV2s3REpkMUJZYVluVnVMeGoxUHVveUp0YmRNdHoyQVUxWmU1bW52aUtydXJtNEcwcVFWNWc2Yy01bWtyZjRVLVdiZWhZ?oc=5": 1791263456.1015692,
@@ -2624,7 +2623,8 @@
   "https://gorkhapatraonline.com/news/225871": 1791435687.7109942,
   "https://gorkhapatraonline.com/news/225870": 1791435687.7109942,
   "https://gorkhapatraonline.com/news/225869": 1791435687.7109942,
-  "https://gorkhapatraonline.com/news/225868": 1791435687.7109942
+  "https://gorkhapatraonline.com/news/225868": 1791435687.7109942,
+  "http://english.ratopati.com/story/82828/uml-standing-committee-meeting-to-be-held-immediately-after-vidya-takes-oath": 1791436251.73287
  },
  "queue": [
   {
@@ -10112,8 +10112,8 @@
    "cat": "disaster"
   }
  ],
- "updated": 1791435708,
- "pending_since": null,
+ "updated": 1791436256,
+ "pending_since": 1791436251.73287,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
