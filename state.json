@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://risingnepaldaily.com/news/87479": 1791297654.529135,
-  "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV2NLNWJDeUJ1eGVfbDI1QXU2QkJkTkJXYjQyZ2ZwLXpNQ2pieGtWQWNMVldPMHFpNlNhZHZINXFTcFBLbnZMM090N3hBSjRBU2JDVEpuVnFyVGRRaHV5SlZENVVkWEo1c3d4ZUFvakhwSzI1Z0t3TkRjNGxpWG5zcENxcUF2SklwUzhBU1pSazZCMG40RTIyd0Q2T3pXaTljWExtMlF4SGxESzQ?oc=5": 1791297654.529135,
   "https://english.khabarhub.com/2026/06/570966/": 1791298289.289418,
   "http://english.ratopati.com/story/82629/nepali-congress-general-convention-5-candidates-for-vice-president-from-gandaki": 1791298289.289418,
   "https://www.setopati.com/politics/400211": 1791298289.289418,
@@ -2459,7 +2457,9 @@
   "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWWhJRTZ5a2dXaExWZ1JYTnhUU3luZGtNbTRIcm9xeV9LSmRpZnZQczJNVUlSUl94ZWRCOTRiLWJ5YXhjUnVZQ1I0SXUwNXhQSkIxZURyU1hiUlU5dXJHOEJHZ0VHMUM0d2V0c3RCYm9TeXZnTFV1WXcxUHgxSW1JQnVFbnotekZUei1z?oc=5": 1791470450.7052686,
   "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVHJlZExRS1kyT2FvQWVlamxtdmIxbGlUbGJBTkZEVjhKd2tLdkJlbGxncWR5VDdsTzFGRmNzNVlBbXVRU0lDWUlqb2lqSklFMERCQ0wyMVlXcUw3dlQxWFAyN2pFM2dxMVF6ZEROOEt0RGJOdEdHd2hFTWNUTC1Xc3UxT0xOclY4MEFEZ0pjWnpYNkxJQXNXTW1EV0F6dGVISDd5T0pkekk1cTdPS21jcVppazJCaVI0eDZpekVTSlNGTHVMa3hHbHVFOVpRckQ4?oc=5": 1791470450.7052686,
   "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcnVZLU1QYkFCVkZSR1FWWGlLdmZYS0k4X05yRDFmcHg4THlCa21CRU5wTVZQOUNJOW5rbUFKOXhIemExd1dlWS0tbEdXN3lGQzlvMHowNEREcndpY2RUR0lXLUJ1RW94WG9pT2dLWTdoTXQwSjc5TWRoNGZwQU5DTlVVWlJLT2JS?oc=5": 1791470450.7052686,
-  "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPTG93OXNmYVAwekZEam8wa3RCWVE4SFo2ckpZQ3Z0a3pGQ3hCbmdOM0xONUw3VGtuZldiVm04YkZfRmFqN3ozN25WWWVjZE5scDRCeHdnQUpJcFVOODctelVyaU9tVFZfdExTUW84blpnYlZCajJoZTN2YUVEb0tnRE9NLTlROEo3a0RrMnhCZGpQOE8wY0pmb0Fta1RmLVA3QkJCVGdEME9oMWlzcFBwV2hqWDZ1ZFh2NUdQb1hRZTB1Y1dIQ24tV2FTUXlFOGFEXzNEcmxlWlFLckQzWjBnazBKTdIB6AFBVV95cUxOVnlKZ0hJNDlsNjhVRTVVMnVodlNqRy15UzhwMXEtZmxsQ3hfTV83QllCY1ByZENYS1FuV001cDM2M2hQM1ZoLWNaX2xoTWFLX3RlVnMwWU9QUERxb1BObjVSMDkwdXBlVGNUbTJjak1BRVpEWHo3ckNGTGlVZUFDbUZDaHlfTktZcW9ROVhLdkI0MUJkSFhDNjVmb2d5aUFTTW00WVduUGdCZ3kyOUh0eEZJeXpEWVdGYXNoREk3WWVUaFdDQlR6NmFXdUxfa0VYdzZvcHVKbFdUUUYwWW1jOGVJcjdaT0w1?oc=5": 1791470450.7052686
+  "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPTG93OXNmYVAwekZEam8wa3RCWVE4SFo2ckpZQ3Z0a3pGQ3hCbmdOM0xONUw3VGtuZldiVm04YkZfRmFqN3ozN25WWWVjZE5scDRCeHdnQUpJcFVOODctelVyaU9tVFZfdExTUW84blpnYlZCajJoZTN2YUVEb0tnRE9NLTlROEo3a0RrMnhCZGpQOE8wY0pmb0Fta1RmLVA3QkJCVGdEME9oMWlzcFBwV2hqWDZ1ZFh2NUdQb1hRZTB1Y1dIQ24tV2FTUXlFOGFEXzNEcmxlWlFLckQzWjBnazBKTdIB6AFBVV95cUxOVnlKZ0hJNDlsNjhVRTVVMnVodlNqRy15UzhwMXEtZmxsQ3hfTV83QllCY1ByZENYS1FuV001cDM2M2hQM1ZoLWNaX2xoTWFLX3RlVnMwWU9QUERxb1BObjVSMDkwdXBlVGNUbTJjak1BRVpEWHo3ckNGTGlVZUFDbUZDaHlfTktZcW9ROVhLdkI0MUJkSFhDNjVmb2d5aUFTTW00WVduUGdCZ3kyOUh0eEZJeXpEWVdGYXNoREk3WWVUaFdDQlR6NmFXdUxfa0VYdzZvcHVKbFdUUUYwWW1jOGVJcjdaT0w1?oc=5": 1791470450.7052686,
+  "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTnppM0hOMU16bFV4eTdKUUphY0JQSXB2NnFFeEQ2WkwtVjlzRWdWOVVVM0NfdjdOdDB6dklRcHVZWUpQYlQtQXk3SUl0SERnaHRzYk9OQlBYY0RsNmFKNzA3VHJ6bU1TTnlXYmwyZ3BYNVdfbEd2RkFJV0xKQnhPckFRcmtzZjJCTDJ1R2d0N0NXRW5qNFZTM2lkME84dkExX25pcDZoSXpWbWJqY1FfQkwzU3FvTWZ4dVQxdHpRYlk3ZHo1Mldv?oc=5": 1791471054.1896725,
+  "https://kathmandupost.com/province-no-3/2026/10/08/breaking-21-kilos-of-gold-seized-in-kathmandu": 1791471054.1896725
  },
  "queue": [
   {
@@ -2598,29 +2598,6 @@
    "cat": "culture",
    "val": 3,
    "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "महत्त्वाकांक्षी नारा र दबाबमा थिचिएको एसियाड सपना : किन असफल भयो नेपाल ?",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/504158",
-   "source": "Baahrakhari",
-   "ts": 1791441720,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "महत्त्वाकांक्षी नारा र दबाबमा थिचिएको एसियाड सपना : किन असफल भयो नेपाल ?",
-   "en": "महत्त्वाकांक्षी नारा र दबाबमा थिचिएको एसियाड सपना : किन असफल भयो नेपाल ?",
-   "ne": "महत्त्वाकांक्षी नारा र दबाबमा थिचिएको एसियाड सपना : किन असफल भयो नेपाल ?",
-   "imp": 3,
-   "tags": [
-    "AsianGames",
-    "NepalSports",
-    "एसियाड"
-   ],
-   "cat": "sports",
-   "val": 2,
-   "teaser": true,
    "hits": 1
   },
   {
@@ -2849,29 +2826,6 @@
     "नारायणीनदी"
    ],
    "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "चुनाव प्रचार गर्न पुगेका ट्रम्पलाई प्रदर्शनकारीले पटक-पटक रोकेपछि",
-   "summary": "ट्रम्पले सभामा ठुला लागूपदार्थ व्यापारी, मानव तस्कर र प्रहरी अधिकारीको हत्या गर्ने व्यक्तिलाई मृत्युदण्ड दिनुपर्ने आफ्नो धारणा दोहोर्‍याए।...",
-   "link": "https://nagariknews.nagariknetwork.com/international/after-protesters-repeatedly-stopped-trump-from-campaigning-37-49.html",
-   "source": "Nagarik News",
-   "ts": 1791441810,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1791441775_Trump%20interrupted%20by%20protesters.jpg",
-   "lang": "ne",
-   "hl": "चुनाव प्रचार गर्न पुगेका ट्रम्पलाई प्रदर्शनकारीले पटक-पटक रोकेपछि",
-   "en": "चुनाव प्रचार गर्न पुगेका ट्रम्पलाई प्रदर्शनकारीले पटक-पटक रोकेपछि",
-   "ne": "चुनाव प्रचार गर्न पुगेका ट्रम्पलाई प्रदर्शनकारीले पटक-पटक रोकेपछि",
-   "imp": 1,
-   "tags": [
-    "Trump",
-    "USA",
-    "Protest"
-   ],
-   "cat": "world",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -3911,7 +3865,7 @@
    "cat": "economy",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "विद्युत् क्षेत्रको नियमन प्रभावकारी र विश्वसनीय बनाउन मन्त्री श्रेष्ठको जोड",
@@ -8230,20 +8184,32 @@
    "val": 3,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "Breaking-21 kilos of gold seized in Kathmandu",
+   "summary": "Police seize 11 kilos of processed gold and 10 kilos kept for processing from Budhanilkantha; several individuals arrested.",
+   "link": "https://kathmandupost.com/province-no-3/2026/10/08/breaking-21-kilos-of-gold-seized-in-kathmandu",
+   "source": "Kathmandu Post",
+   "ts": 1791456655.2402751,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "Breaking-21 kilos of gold seized in Kathmandu",
+   "en": "Breaking-21 kilos of gold seized in Kathmandu",
+   "ne": "Breaking-21 kilos of gold seized in Kathmandu",
+   "imp": 4,
+   "tags": [
+    "GoldSmuggling",
+    "Kathmandu",
+    "सुन"
+   ],
+   "cat": "crime",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1790865659.2122858,
-   "en": "फिफा निलम्बन नहटेपछि नेपालले पहिलोपटक गुमायो साफ च्याम्पियनसिप",
-   "ne": "फिफा निलम्बन नहटेपछि नेपालले पहिलोपटक गुमायो साफ च्याम्पियनसिप",
-   "link": "https://nagariknews.nagariknetwork.com/sports/nepal-will-miss-saff-championship-for-the-first-time-if-suspension-is-not-lifted-75-81.html",
-   "source": "Nagarik News",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "sports"
-  },
   {
    "ts": 1790867452.8322957,
    "en": "Former Chief Justice Cholendra Shumsher Rana Arrested at Midnight",
@@ -11490,7 +11456,7 @@
    "cat": "health"
   }
  ],
- "updated": 1791470464,
+ "updated": 1791471058,
  "pending_since": 1791469255.9394534,
  "fb_blocks": [
   1790350880.4125228,
