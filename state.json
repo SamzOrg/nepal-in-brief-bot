@@ -2584,7 +2584,11 @@
   "https://baahrakhari.com/detail/504230": 1791438654.751317,
   "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWm93R2FfSFZmdDM2QUtNQnRUdGVCc2t5WDZGTV9IZTU1ZENyRHZ3V1BaV1FBRjhycE04bmpYUV9CaFZWYVBLYXRtaGJxaG1WX3JNaHBOb1lRQ2lnR29zTHJpdXM3TmFoc0lhOGpPd2NOU0FlS1AwaThzOWJaTU4tWGtVUzVoUU5LTWxSem5WQVBWRzVfTThqRnlXdUJEYjhqNEZBMGdnVTJPSTkyWlNLMXVaVkMtYUJwQk9YVkhn?oc=5": 1791438654.751317,
   "https://www.setopati.com/social/400327": 1791438654.751317,
-  "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPd3dhUElUZVJFQnNpb0dmWUdYY1ItTEdyR3hyMzN2cHMwUDh4bTNZS18xTWRMT2Q1OXZ4aWtFdzZSY05oU2tMb3NtcnV4RzgySlRiMXhYR2dhaGpsNFF6RW91WVVPVDhySWh5MUhWaXdCT0VwajU3TnRORHh4U0VaZ2dwV0xkYUJ4UGt2Wmh2dmhfUDRacGFVMjFtU2F6QlF4bmd2anJmSHFXMzVaeHFfbzNWM3Vzc21IdFRwSG9pZzcwS0E?oc=5": 1791438654.751317
+  "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPd3dhUElUZVJFQnNpb0dmWUdYY1ItTEdyR3hyMzN2cHMwUDh4bTNZS18xTWRMT2Q1OXZ4aWtFdzZSY05oU2tMb3NtcnV4RzgySlRiMXhYR2dhaGpsNFF6RW91WVVPVDhySWh5MUhWaXdCT0VwajU3TnRORHh4U0VaZ2dwV0xkYUJ4UGt2Wmh2dmhfUDRacGFVMjFtU2F6QlF4bmd2anJmSHFXMzVaeHFfbzNWM3Vzc21IdFRwSG9pZzcwS0E?oc=5": 1791438654.751317,
+  "https://english.onlinekhabar.com/world-sight-day-observed-today.html": 1791439286.265357,
+  "https://english.onlinekhabar.com/cib-recommends-filing-case-against-four-anfa-officials.html": 1791439286.265357,
+  "https://english.onlinekhabar.com/tribhuvan-university-budget.html": 1791439286.265357,
+  "https://english.onlinekhabar.com/passenger-traffic-surges-on-pokhara-jomsom-air-route.html": 1791439286.265357
  },
  "queue": [
   {
@@ -3685,7 +3689,7 @@
    "cat": "health",
    "val": 2,
    "teaser": false,
-   "hits": 4
+   "hits": 5
   },
   {
    "title": "एन्फा विवादः ६६ लाख बढी अनियमितता, नेम्वाङसहित चार जनाविरुद्ध मुद्दा चलाउन सिफारिस",
@@ -6045,27 +6049,6 @@
    "val": 3,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "Tag",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15TkFaOGRLcUFQV0dUazhHa3R2S2dQNUlpX1hhMTRwM3FuYkt3ZzdCNldNLU9pMjZkQzVaZ3g2eVJqdEVMOXVfLXRzQWhwcFc1c29uLTQySlAteFBJdjNUcGhRWS1IOXVVOVpyc3pqMGstUmw4RWNBRzdEa3lJRTg?oc=5",
-   "source": "myRepublica",
-   "ts": 1791410322,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Tag",
-   "en": "Tag",
-   "ne": "Tag",
-   "imp": 1,
-   "tags": [
-    "Tag"
-   ],
-   "cat": "other",
-   "val": 1,
-   "teaser": true,
-   "hits": 2
   },
   {
    "title": "बाजुरामा ४.१ रेक्टर स्केलको भूकम्प",
@@ -10451,7 +10434,7 @@
    "cat": "world"
   }
  ],
- "updated": 1791438698,
+ "updated": 1791439289,
  "pending_since": 1791438654.751317,
  "fb_blocks": [
   1790350880.4125228,
