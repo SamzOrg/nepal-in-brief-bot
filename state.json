@@ -2552,7 +2552,10 @@
   "http://english.ratopati.com/story/82859/nepal-improves-one-place-in-odi-rankings": 1791443845.9282846,
   "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQm83TG5ZUkx3U0VNdF82cXNvN2JDOE9KYzBHN01VZHAzVlZmM3BoMTZaY1JwaWVadzJpNDFnTGFQUW80MG15dEJNMmpLbXBBcDFvakl1aWFBQWhGZTIwNl9qa3JnUjlnSC1FOXVBc1F2VnFpYVhIRnNLVGs5RGM5dFcwdXZBdw?oc=5": 1791443845.9282846,
   "http://lokaantar.com/story/330784/2026/10/8/congress-": 1791443845.9282846,
-  "https://thehimalayantimes.com/nepal/scientist-who-hunts-mysterious-ghost-particles-in-the-antarctic-ice-wins-nobel-prize-for-physics": 1791443845.9282846
+  "https://thehimalayantimes.com/nepal/scientist-who-hunts-mysterious-ghost-particles-in-the-antarctic-ice-wins-nobel-prize-for-physics": 1791443845.9282846,
+  "https://risingnepaldaily.com/news/87552": 1791444050.6092658,
+  "https://theannapurnaexpress.com/story/67763": 1791444050.6092658,
+  "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTzVxVVFWbXRKc3AwQXJzcHFMNnFoSDI2d2g3U3daTjllUnNLRkptRVBtRF8yS1dUNFdoX2k3bUtjVWtFQXFnV2FYY1hab05jN05jNEEwa0Y4UnM0Wjk0QlZaUlBzb1JpcWRIVjl0eVFuZVI1c3BJRkI1aE1CdlY2aHEtUVpCODhGeUJHUWhyZnhXLVVSLVFTN05aNklQTEZyblRta1EyWjBMTGFu0gGyAUFVX3lxTE9TdkNSVmk0c2FaeWNaSGwtem80NVVUZWhXYnUyenhxRlotLTNNQ2NUZHdpYXREOWVha2szd005Uk4xaWltSi1TRURaSFZkOTFrbk9JSzNEZjJ1SXozdVJ4b240NlczT0tyLXhZMWc3aU0xMEladHdudm04Q1ZMTWdOeURVdUxpQzRUWmtxaGl6eWdaTXU4ZFktQlpTS3hHUHNvN0xQblBqSGNYellWOTBaQ2c?oc=5": 1791444050.6092658
  },
  "queue": [
   {
@@ -6983,7 +6986,7 @@
    "cat": "economy",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "एनएमबी बैंकले घोषणा गऱ्यो लाभांश",
@@ -7443,7 +7446,7 @@
    "cat": "economy",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "चुहावट रोक्न फार्मेसी र प्रयोगशालामा निगरानी",
@@ -7833,6 +7836,29 @@
    ],
    "cat": "world",
    "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "'It stood like a serpent right there staring at us': American who survived deadly Nepal flood tells her story",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTzVxVVFWbXRKc3AwQXJzcHFMNnFoSDI2d2g3U3daTjllUnNLRkptRVBtRF8yS1dUNFdoX2k3bUtjVWtFQXFnV2FYY1hab05jN05jNEEwa0Y4UnM0Wjk0QlZaUlBzb1JpcWRIVjl0eVFuZVI1c3BJRkI1aE1CdlY2aHEtUVpCODhGeUJHUWhyZnhXLVVSLVFTN05aNklQTEZyblRta1EyWjBMTGFu0gGyAUFVX3lxTE9TdkNSVmk0c2FaeWNaSGwtem80NVVUZWhXYnUyenhxRlotLTNNQ2NUZHdpYXREOWVha2szd005Uk4xaWltSi1TRURaSFZkOTFrbk9JSzNEZjJ1SXozdVJ4b240NlczT0tyLXhZMWc3aU0xMEladHdudm04Q1ZMTWdOeURVdUxpQzRUWmtxaGl6eWdaTXU4ZFktQlpTS3hHUHNvN0xQblBqSGNYellWOTBaQ2c?oc=5",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "ts": 1791416939,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "'It stood like a serpent right there staring at us': American who survived deadly Nepal flood tells her story",
+   "en": "'It stood like a serpent right there staring at us': American who survived deadly Nepal flood tells her story",
+   "ne": "'It stood like a serpent right there staring at us': American who survived deadly Nepal flood tells her story",
+   "imp": 3,
+   "tags": [
+    "Flood",
+    "Survivor",
+    "बाढी"
+   ],
+   "cat": "disaster",
+   "val": 2,
    "teaser": false,
    "hits": 1
   }
@@ -11139,7 +11165,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1791443850,
+ "updated": 1791444055,
  "pending_since": 1791443845.9282846,
  "fb_blocks": [
   1790350880.4125228,
