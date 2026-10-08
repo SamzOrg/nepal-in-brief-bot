@@ -2546,7 +2546,13 @@
   "http://english.ratopati.com/story/82852/should-the-chief-minister-of-gandaki-seek-a-vote-of-confidence-or-not": 1791443486.920462,
   "https://baahrakhari.com/detail/504158": 1791443486.920462,
   "http://english.ratopati.com/story/82851/written-demand-from-11-members-for-anfa-meeting": 1791443486.920462,
-  "http://english.ratopati.com/story/82844/protest-against-election-commission-in-india": 1791443486.920462
+  "http://english.ratopati.com/story/82844/protest-against-election-commission-in-india": 1791443486.920462,
+  "https://risingnepaldaily.com/news/87551": 1791443845.9282846,
+  "https://english.onlinekhabar.com/nobel-prize-in-chemistry-awarded-to-french-and-japanese-scientists.html": 1791443845.9282846,
+  "http://english.ratopati.com/story/82859/nepal-improves-one-place-in-odi-rankings": 1791443845.9282846,
+  "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQm83TG5ZUkx3U0VNdF82cXNvN2JDOE9KYzBHN01VZHAzVlZmM3BoMTZaY1JwaWVadzJpNDFnTGFQUW80MG15dEJNMmpLbXBBcDFvakl1aWFBQWhGZTIwNl9qa3JnUjlnSC1FOXVBc1F2VnFpYVhIRnNLVGs5RGM5dFcwdXZBdw?oc=5": 1791443845.9282846,
+  "http://lokaantar.com/story/330784/2026/10/8/congress-": 1791443845.9282846,
+  "https://thehimalayantimes.com/nepal/scientist-who-hunts-mysterious-ghost-particles-in-the-antarctic-ice-wins-nobel-prize-for-physics": 1791443845.9282846
  },
  "queue": [
   {
@@ -3669,7 +3675,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 14
+   "hits": 15
   },
   {
    "title": "ढिकी-जाँतो विस्थापित हुँदा मौलिकता हराउने चिन्ता",
@@ -4557,7 +4563,7 @@
    "cat": "politics",
    "val": 1,
    "teaser": true,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "मोटरसाइकलको ठक्करबाट चेकिङमा बसेका तीन प्रहरी घाइते, एक प्रहरी आइसियूमा",
@@ -6700,7 +6706,7 @@
    "cat": "tech",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "High Court Patan Issues Show Cause Order on Information Disclosure",
@@ -7554,7 +7560,7 @@
    "cat": "sports",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Wind damages tomato farming in Gulmi",
@@ -7801,6 +7807,29 @@
     "India",
     "ElectionCommission",
     "VoterList"
+   ],
+   "cat": "world",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Scientist who hunts mysterious ghost particles in the Antarctic ice wins Nobel Prize for physics",
+   "summary": "STOCKHOLM, OCTOBER 8Belgian-born scientist Francis Halzen won the Nobel Prize in physics Tuesday for his efforts to demystify a rare group of neutrinos, tiny cosmic particles that...",
+   "link": "https://thehimalayantimes.com/nepal/scientist-who-hunts-mysterious-ghost-particles-in-the-antarctic-ice-wins-nobel-prize-for-physics",
+   "source": "Himalayan Times",
+   "ts": 1791443560,
+   "weight": 3,
+   "img": "https://thehimalayantimes.com/thehimalayantimes/uploads/images/2026/10/08/51414.jpg",
+   "lang": "en",
+   "hl": "Scientist who hunts mysterious ghost particles in the Antarctic ice wins Nobel Prize for physics",
+   "en": "Scientist who hunts mysterious ghost particles in the Antarctic ice wins Nobel Prize for physics",
+   "ne": "Scientist who hunts mysterious ghost particles in the Antarctic ice wins Nobel Prize for physics",
+   "imp": 1,
+   "tags": [
+    "NobelPrize",
+    "Physics",
+    "Antarctic"
    ],
    "cat": "world",
    "val": 3,
@@ -11110,8 +11139,8 @@
    "cat": "disaster"
   }
  ],
- "updated": 1791443493,
- "pending_since": null,
+ "updated": 1791443850,
+ "pending_since": 1791443845.9282846,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
