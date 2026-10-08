@@ -2585,7 +2585,10 @@
   "https://gorkhapatraonline.com/news/225835": 1791422452.0802639,
   "https://risingnepaldaily.com/news/87536": 1791422452.0802639,
   "https://gorkhapatraonline.com/news/225834": 1791422452.0802639,
-  "https://gorkhapatraonline.com/news/225833": 1791422452.0802639
+  "https://gorkhapatraonline.com/news/225833": 1791422452.0802639,
+  "https://news.google.com/rss/articles/CBMiogJBVV95cUxORWoxalRldnpjZFZ3LWUzTkxxNi1ic1MwaGFyS05MSGpNc1U3blFveDAtU1hiYWszOGRPb25GZENpVmNEWktUbTN5djdJZzRocmJoOVp5US1Dd0liM1NhdVBxdEpwZXVCTkxrYjVhTFVDOGw4VU9yQVdvZXgxMnhTMHVZU3FKd3hHSEFKSmFmNUFYd1hrVkV2bjByODZtTWNHWjdrU2JSbnBHYk5CcnJGeUtxLUpoRG1xcjFnMC1VY1ZjOWVONHluWnp6Z01fQzN4SjVhSUxHNmFWbHNSZkhTRWg4d1hEWkNnUER6MGs5NTNpUjZ0b2hQOEo1elc1bkR1VmZMTEdiRW8xRXN6QVQ0ekFLMG9kUHVBcDJhYWI5bE9HQQ?oc=5": 1791423064.3857355,
+  "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOdFNYTkpWRWZ4dVNBRXVUYUJNTVozSGJxSjlYdVd0Y1BpRmt5dUdHY0lOMVl3cFlHZEV5Nkp4cS16RVdzY1F1RG12SFJVLXB3MGk3eWtPbU5SZml3Qm1uckdlZFphMGV2WE1RbXdBX3I3VkZIazM3M1RUaW55SlRGS3Z4YlRsMDRKVWdNaWFGcGhsYVE5eXlxMUM0UG5oSTE1aWtoeWxfLTZuNjQ5Y3c5bGRGeGRtZ0NxMVRzMzJRQV9BOVNDNlFPSWxaVDBMMFpQQWRQLXpqSXdoS2FUMmhTTGJ0eTFyZ1BmR05zWEFQRmt4Z9IB9wFBVV95cUxQcVRKVDJrTjlOMzdRcXE1Yk5pT1ZLU255dEgtbU9FTm1xWXk3NjJBckdkRjlEdVFUcXlVdFdQei1kWHMzQWRna0s2dHdVTlNGemJPM2hBZnBhLU1ldWpjdGNZOU52UHN0c3pNdkk3MGVndW9fellPMldBSHlVdHJEWHRfVGRLSngyT0FDYmRHR3QyRkppZmllWHBpZGF6Rnk4ZWNhRkVKWjN1Wmx5cmphYkJ1bW5uWEdWY0otZmxZd3BsRXppT3dMRE1heHdKZ2tkSldYTVZCb19NNm1nNTgzN09ERy1yQWkwWDREcHUyNE5uUXNkYlJr?oc=5": 1791423064.3857355,
+  "https://nagariknews.nagariknetwork.com/social-affairs/transport-federation-warns-action-will-be-taken-against-charging-excessive-fares-during-dashain-76-84.html": 1791423064.3857355
  },
  "queue": [
   {
@@ -2654,28 +2657,6 @@
     "वाग्मती"
    ],
    "cat": "health",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "दोस्रो सन्तानको आमाबुवा बन्दै कियारा र सिद्धार्थ",
-   "summary": "कियारा पछिल्लो समय यशसँगको फिल्म 'टक्सिक'मा देखिएकी थिइन् भने सिद्धार्थको पछिल्लो फिल्म 'द भ्वान' हो।",
-   "link": "https://www.setopati.com/art/bollywood/400302",
-   "source": "Setopati",
-   "ts": 1791393840,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "दोस्रो सन्तानको आमाबुवा बन्दै कियारा र सिद्धार्थ",
-   "en": "दोस्रो सन्तानको आमाबुवा बन्दै कियारा र सिद्धार्थ",
-   "ne": "दोस्रो सन्तानको आमाबुवा बन्दै कियारा र सिद्धार्थ",
-   "imp": 1,
-   "tags": [
-    "KiaraAdvani",
-    "SidharthMalhotra"
-   ],
-   "cat": "world",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -3062,7 +3043,7 @@
    "cat": "economy",
    "val": 3,
    "teaser": false,
-   "hits": 3
+   "hits": 4
   },
   {
    "title": "Rain to continue through Friday, weather improves Saturday",
@@ -6989,8 +6970,8 @@
    "cat": "crime"
   }
  ],
- "updated": 1791422478,
- "pending_since": null,
+ "updated": 1791423070,
+ "pending_since": 1791423064.3857355,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
