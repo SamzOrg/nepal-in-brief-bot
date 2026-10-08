@@ -1,11 +1,5 @@
 {
  "seen": {
-  "https://baahrakhari.com/detail/504050": 1791290449.8615627,
-  "https://baahrakhari.com/detail/504049": 1791290449.8615627,
-  "https://www.setopati.com/politics/400198": 1791290449.8615627,
-  "https://english.onlinekhabar.com/gagan-thapa-candidacy-president.html": 1791290449.8615627,
-  "http://english.ratopati.com/story/82616/gagan-is-being-challenged-for-the-post-of-president-by-his-own-mentor": 1791290449.8615627,
-  "http://lokaantar.com/story/330641/2026/10/6/gagan-thapa-": 1791290449.8615627,
   "https://english.khabarhub.com/2026/06/570949/": 1791291049.577784,
   "https://news.google.com/rss/articles/CBMilAFBVV95cUxPd29YbXd6RzUxV0tHSGVJMUs1c01oV3BWZ3lpMFB3UlRwdVBOSWFBbnZYcUEyUDJQYjU1UXBYOGhnMm9JUWFVVndqV2FiOFhqOUpKcHVkVW9XZWZiTmhMc1lhY2tNX3ZfOG1WTW9sYU5fd1lQell5dFpmNHU3VDR6R3VkQWswS1R1eS10NFFFVTV5c2xp?oc=5": 1791291049.577784,
   "https://www.setopati.com/politics/400202": 1791291049.577784,
@@ -2475,7 +2469,11 @@
   "https://www.setopati.com/politics/400371": 1791462674.2631617,
   "https://nagariknews.nagariknetwork.com/politics/uml-to-hold-committee-convention-on-mangsir-10-and-municipal-convention-on-poush-10-br-13-82.html": 1791462674.2631617,
   "http://english.ratopati.com/story/82931/due-to-adverse-weather-conditions-it-was-deemed-appropriate-to-start-voting-in-the-morning-instead-of-at-night-election-committee": 1791462674.2631617,
-  "https://gorkhapatraonline.com/news/225945": 1791462674.2631617
+  "https://gorkhapatraonline.com/news/225945": 1791462674.2631617,
+  "http://english.ratopati.com/story/82937/advance-ticket-bookings-open-for-dashain-from-bussewa-discount-of-up-to-rs-100-when-buying-tickets-online": 1791463250.9434614,
+  "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZFpkbkdsbGh2SjQ4azFVX2xQOHpqZ2l0c2dJOHlfamNVSTlEaENFaVQwZmxhaG1ERU9EOHlfTS1RTEd2b0I1d0Q5Z2dqR1hLdk1ua2FXS0h1TGxjNHRQZzFNenJCU2Vob3RQQzMweUJyUnNuNy16WG5iT1VYZ040UlhBNXNkNjItenVZMmJ2d2VjakVNejZpZU5Ja1VKNVB2N001TndrTTBZWi1qTFdsMVNvcjdEZ0pHN0Zn?oc=5": 1791463250.9434614,
+  "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9GSFZBbWhHMm1ZdlM4R015NDB0eTJrVFU1dFlRWUs4WXdCOHpfTkRTR2szdzBKbGtZb3RQT1VkUUY3alpROHZOcHFpUG9uTUJ2Z2FHdzB5QQ?oc=5": 1791463250.9434614,
+  "https://baahrakhari.com/detail/504292": 1791463250.9434614
  },
  "queue": [
   {
@@ -2617,29 +2615,6 @@
    "hits": 1
   },
   {
-   "title": "कांग्रेस सुदूरपश्चिम प्रदेश संसदीय दलले भन्यो- अध्यादेशबाट बजेट ल्याइए स्वीकार्य हुँदैन",
-   "summary": "कांग्रेस संसदीय दलको असोज ६ गतेको बैठकले १५ गते भित्र बजेट ल्याउन सुझाएको थियो।",
-   "link": "https://www.setopati.com/politics/400319",
-   "source": "Setopati",
-   "ts": 1791433979,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "कांग्रेस सुदूरपश्चिम प्रदेश संसदीय दलले भन्यो- अध्यादेशबाट बजेट ल्याइए स्वीकार्य हुँदैन",
-   "en": "कांग्रेस सुदूरपश्चिम प्रदेश संसदीय दलले भन्यो- अध्यादेशबाट बजेट ल्याइए स्वीकार्य हुँदैन",
-   "ne": "कांग्रेस सुदूरपश्चिम प्रदेश संसदीय दलले भन्यो- अध्यादेशबाट बजेट ल्याइए स्वीकार्य हुँदैन",
-   "imp": 3,
-   "tags": [
-    "NepaliCongress",
-    "Sudurpashchim",
-    "Budget"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "नेपाली विद्यार्थीलाई न्यायोचित व्यवस्था गर्न अस्ट्रेलियालाई आग्रह",
    "summary": "",
    "link": "https://baahrakhari.com/detail/504227",
@@ -2709,29 +2684,6 @@
    "hits": 1
   },
   {
-   "title": "Former Pakistan PM Imran Khan's Release Demand Long March Reaches Peshawar",
-   "summary": "Peshawar. The long march started demanding the release of former Pakistan Prime Minister Imran Khan is reaching Peshawar today. Security...",
-   "link": "http://english.ratopati.com/story/82824/imran-supporters-march-towards-islamabad-high-alert-in-peshawar-mobile-services-affected",
-   "source": "Ratopati EN",
-   "ts": 1791434425,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/imran-khan_pzxOslQBC2.webp",
-   "lang": "en",
-   "hl": "Former Pakistan PM Imran Khan's Release Demand Long March Reaches Peshawar",
-   "en": "Former Pakistan PM Imran Khan's Release Demand Long March Reaches Peshawar",
-   "ne": "Former Pakistan PM Imran Khan's Release Demand Long March Reaches Peshawar",
-   "imp": 1,
-   "tags": [
-    "ImranKhan",
-    "Pakistan",
-    "Peshawar"
-   ],
-   "cat": "world",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "वन्यजन्तु तस्करीविरुद्ध नौ देशमा इन्टरपोलको कारबाही : २३३ पक्राउ, हजार बढी जनावर बरामद",
    "summary": "इन्टरपोलको समन्वयमा भएको यस कारबाहीमा एक हजारभन्दा बढी जीवित जनावर बरामद भएका छन् भने ६० हजार हेक्टर वन अवैध रूपमा फँडानी गरिएको पाइएको छ।...",
    "link": "https://nagariknews.nagariknetwork.com/international/interpol-s-action-against-wildlife-trafficking-in-nine-countries-233-arrested-over-a-thousand-animals-seized-32-65.html",
@@ -2771,75 +2723,6 @@
     "Tiger",
     "Wildlife",
     "बाघ"
-   ],
-   "cat": "society",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "खसीको किनबेच हचुवाका भरमा",
-   "summary": "भक्तिविलास पोखरेल गाईघाट, असोज २२ गते । मासु बजारको उचित व्यवस्थापन नहुँदा उदयपुरका ग्रामीण क्षेत्रका किसानले परम्परागत रूपमा पाल्दै आएका खसी हचुवाको भरमा बेच्न बाध्य छन् । गाउँघरक...",
-   "link": "https://gorkhapatraonline.com/news/225871",
-   "source": "Gorkhapatra",
-   "ts": 1791434340,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/387057/conversions/Untitled-1-original.jpg",
-   "lang": "ne",
-   "hl": "खसीको किनबेच हचुवाका भरमा",
-   "en": "खसीको किनबेच हचुवाका भरमा",
-   "ne": "खसीको किनबेच हचुवाका भरमा",
-   "imp": 2,
-   "tags": [
-    "Agriculture",
-    "Meat",
-    "खसी"
-   ],
-   "cat": "economy",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "गुल्मीमा विद्युत् संरचनामा एक करोडभन्दा बढीको क्षति",
-   "summary": "तिलाचन पाण्डेतम्घास (गुल्मी), असोज २२ गते । गत हप्ता आएको बाढीपहिरोका कारण गुल्मीमा विद्युत् संरचनामा एक करोडभन्दा बढीको क्षति भएको छ। नेपाल विद्युत् प्राधिकरण वितरण केन्द्र गुल्मी...",
-   "link": "https://gorkhapatraonline.com/news/225870",
-   "source": "Gorkhapatra",
-   "ts": 1791434195,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/387055/conversions/light-office-original.jpg",
-   "lang": "ne",
-   "hl": "गुल्मीमा विद्युत् संरचनामा एक करोडभन्दा बढीको क्षति",
-   "en": "गुल्मीमा विद्युत् संरचनामा एक करोडभन्दा बढीको क्षति",
-   "ne": "गुल्मीमा विद्युत् संरचनामा एक करोडभन्दा बढीको क्षति",
-   "imp": 2,
-   "tags": [
-    "Gulmi",
-    "Electricity",
-    "गुल्मी"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "बसाइँ सर्न थाले कर्‍याङकुरुङ",
-   "summary": "धनगढी समाचारदाताधनगढी, असोज २२ गते । सारस प्रजातिका कर्‍याङकुरुङ चरा बसाइँ सर्न थालेका छन् । मङ्गोलियामा हुर्किएका बच्चा लिएर ती प्रजातिका चरा कैलालीका विभिन्न क्षेत्र हुँदै भारततर...",
-   "link": "https://gorkhapatraonline.com/news/225869",
-   "source": "Gorkhapatra",
-   "ts": 1791434184,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/387056/conversions/3333-original.jpg",
-   "lang": "ne",
-   "hl": "बसाइँ सर्न थाले कर्‍याङकुरुङ",
-   "en": "बसाइँ सर्न थाले कर्‍याङकुरुङ",
-   "ne": "बसाइँ सर्न थाले कर्‍याङकुरुङ",
-   "imp": 2,
-   "tags": [
-    "Birds",
-    "Migration",
-    "कऱ्याङकुरुङ"
    ],
    "cat": "society",
    "val": 2,
@@ -4556,29 +4439,6 @@
    "hits": 1
   },
   {
-   "title": "Spotlight on Nepal: Two kingdoms, one long exhale",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWDlfY0dlY3pfZTNQV0dYZ1ZtakYxdk5kbDNkcHVyck91Q0VSUkVpWG90TENpWngySkZfd2FZUUxtMC1yTXIweWszV25MZFc5QktJOTdHZzVYU0o1bWE2d3ZkZ2UzMUlYeTNzaTlQRElWSnNmbndMdnBDOHdGYlczOHhB?oc=5",
-   "source": "travelweekly.com.au",
-   "ts": 1791434198,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Spotlight on Nepal: Two kingdoms, one long exhale",
-   "en": "Spotlight on Nepal: Two kingdoms, one long exhale",
-   "ne": "Spotlight on Nepal: Two kingdoms, one long exhale",
-   "imp": 1,
-   "tags": [
-    "SpotlightNepal",
-    "Travel",
-    "Culture"
-   ],
-   "cat": "world",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
-  },
-  {
    "title": "खाद्य उद्योगमा एआई र नयाँ प्रविधिको प्रयोग बढ्दै",
    "summary": "बार्सिलोना, असोज २२ गते । खाद्य उद्योगमा कृत्रिम बुद्धिमत्ता (एआई), नयाँ प्रविधि र नयाँ प्रकारका खाद्य सामग्रीको प्रयोग बढ्दै गएको छ । यिनै प्रविधि र नयाँ उपायबारे जानकारी दिन स्पे...",
    "link": "https://gorkhapatraonline.com/news/225904",
@@ -6202,7 +6062,7 @@
    "cat": "society",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "सामान्य अंकले बढ्यो नेप्से, कारोबार रकममा पनि सुधार",
@@ -6932,7 +6792,7 @@
    "cat": "society",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "कांग्रेसमा निर्विकल्प कोही छैन, निष्पक्ष निर्वाचन होस् : श्यामकृष्ण खड्गी",
@@ -8501,29 +8361,6 @@
    "hits": 1
   },
   {
-   "title": "20 Individuals and Entities Sued for Fund Embezzlement and Money Laundering at Himalayan Re-insurance",
-   "summary": "Kathmandu. A lawsuit has been filed in the Kathmandu District Court against 20 individuals and entities including businessman Deepak Bhatta,...",
-   "link": "http://english.ratopati.com/story/82933/himalayan-reinsurance-fraud-and-money-laundering-case-case-filed-against-20-people-including-bhatta-golchha-silwal",
-   "source": "Ratopati EN",
-   "ts": 1791461448,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/dipak-bhatta_lu40okPqHx.webp",
-   "lang": "en",
-   "hl": "20 Individuals and Entities Sued for Fund Embezzlement and Money Laundering at Himalayan Re-insurance",
-   "en": "20 Individuals and Entities Sued for Fund Embezzlement and Money Laundering at Himalayan Re-insurance",
-   "ne": "20 Individuals and Entities Sued for Fund Embezzlement and Money Laundering at Himalayan Re-insurance",
-   "imp": 4,
-   "tags": [
-    "HimalayanReinsurance",
-    "Embezzlement",
-    "MoneyLaundering"
-   ],
-   "cat": "crime",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Three ordinances reach President's Office",
    "summary": "Kathmandu, October 8 Three ordinances recommended by the government have reached the President's Office. The ordinances arrived at around 5pm on Thursday, according to Krishna Bahadur Shahi, spokesperson for the...",
    "link": "https://english.onlinekhabar.com/three-ordinances-reach-presidents-office.html",
@@ -8680,6 +8517,29 @@
     "एमाले"
    ],
    "cat": "politics",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "वाग्मती सरकारले बाढी प्रभावित क्षेत्रमा ५ झोलुंगे पुल र २ बेलिब्रिज बनाउने",
+   "summary": "",
+   "link": "https://baahrakhari.com/detail/504292",
+   "source": "Baahrakhari",
+   "ts": 1791462915,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "वाग्मती सरकारले बाढी प्रभावित क्षेत्रमा ५ झोलुंगे पुल र २ बेलिब्रिज बनाउने",
+   "en": "वाग्मती सरकारले बाढी प्रभावित क्षेत्रमा ५ झोलुंगे पुल र २ बेलिब्रिज बनाउने",
+   "ne": "वाग्मती सरकारले बाढी प्रभावित क्षेत्रमा ५ झोलुंगे पुल र २ बेलिब्रिज बनाउने",
+   "imp": 3,
+   "tags": [
+    "Bagmati",
+    "FloodRelief",
+    "Bridges"
+   ],
+   "cat": "disaster",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -11952,9 +11812,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "economy"
+  },
+  {
+   "ts": 1791463257.8696983,
+   "en": "20 Individuals and Entities Sued for Fund Embezzlement and Money Laundering at Himalayan Re-insurance",
+   "ne": "20 Individuals and Entities Sued for Fund Embezzlement and Money Laundering at Himalayan Re-insurance",
+   "link": "http://english.ratopati.com/story/82933/himalayan-reinsurance-fraud-and-money-laundering-case-case-filed-against-20-people-including-bhatta-golchha-silwal",
+   "source": "Ratopati EN",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "crime"
   }
  ],
- "updated": 1791462681,
+ "updated": 1791463271,
  "pending_since": 1791462674.2631617,
  "fb_blocks": [
   1790350880.4125228,
