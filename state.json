@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMifEFVX3lxTFBCT3ViVi1fZHRvNnZNbFo3c3RmZ3VVR25YUmtqeHVTUlRRSjd2NUdSRlZFeDYwNVppcmhaTHJESGc2THVfaHhaNE1QNHdxaTBnQ2l2NGZGeTVYWUl6REN2bndUOHhXMEFUVHlqbUJSVGJrbHd5cUJlMFBLUG4?oc=5": 1791308447.9492984,
   "https://baahrakhari.com/detail/504079": 1791309049.7376661,
   "https://theannapurnaexpress.com/story/67706": 1791310253.071076,
   "https://gorkhapatraonline.com/news/225679": 1791310253.071076,
@@ -2445,33 +2444,10 @@
   "http://english.ratopati.com/story/82945/new-torture-charges-filed-against-former-venezuelan-leader-maduro-and-maduros-wife": 1791478898.3391213,
   "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSDRjd3RPWmpwT2M1aV8ySUxhamJTMHg2bm1EeWxTb1huMHJiNlE0RE5tdlA0YUkzcDJSVG5jSjgwcS16b3FQcW9ibm4teXE3aU1tRWQ3WDduNFFyYTlxWmNwdDItdXFyTHlWYmJxN1c5djVGaWRFcUNWdGpJblppNFZOZTBLYllTNXZ1R1FUbl9GZ09oQWNnY20zU1lHV2EyWFE3WTAyUnlndENoek1iaXFSbjZPT0Jp?oc=5": 1791479450.710187,
   "http://lokaantar.com/story/330825/2026/10/8/dead-": 1791480680.997184,
-  "https://baahrakhari.com/detail/504315": 1791480680.997184
+  "https://baahrakhari.com/detail/504315": 1791480680.997184,
+  "http://lokaantar.com/story/330826/2026/10/8/lotse-": 1791481249.1008065
  },
  "queue": [
-  {
-   "title": "अमेरिकाले जित्यो आइसिसी विश्वकप लिग-२ को उपाधि",
-   "summary": "अमेरिकाले नामिबियालाई ४ विकेटले हराउँदै आइसिसी क्रिकेट विश्वकप लिग-२ को उपाधि जितेको छ।",
-   "link": "https://www.setopati.com/sports/cricket/400346",
-   "source": "Setopati",
-   "ts": 1791451980,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "अमेरिकाले जित्यो आइसिसी विश्वकप लिग-२ को उपाधि",
-   "en": "अमेरिकाले जित्यो आइसिसी विश्वकप लिग-२ को उपाधि",
-   "ne": "अमेरिकाले जित्यो आइसिसी विश्वकप लिग-२ को उपाधि",
-   "imp": 3,
-   "tags": [
-    "ICCLeague2",
-    "Cricket",
-    "USA",
-    "क्रिकेट"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
   {
    "title": "Janakpur hospital director transferred after snakebite patient dies amid ICU shortage",
    "summary": "Janakpur, October 8 The director of Janakpur Provincial Hospital has been transferred to the Madhesh Ministry of Health and Population following the death of a snakebite patient who was reportedly referred elsewhere...",
@@ -2610,28 +2586,6 @@
    "hits": 5
   },
   {
-   "title": "Accounts Officer Transferred After Budget Dispute in Suryagadhi Rural Municipality",
-   "summary": "Kathmandu. Sampada Neupane, the accounts officer of Suryagadhi Rural Municipality in Nuwakot, who had written a letter to the chief...",
-   "link": "http://english.ratopati.com/story/82898/the-accounting-officer-who-cut-the-letter-to-the-chief-administrative-officer-was-dragged-to-the-ministry",
-   "source": "Ratopati EN",
-   "ts": 1791452374,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/suryagadhi_tfhgv6fbdc_vNjUq7rqOO.webp",
-   "lang": "en",
-   "hl": "Accounts Officer Transferred After Budget Dispute in Suryagadhi Rural Municipality",
-   "en": "Accounts Officer Transferred After Budget Dispute in Suryagadhi Rural Municipality",
-   "ne": "Accounts Officer Transferred After Budget Dispute in Suryagadhi Rural Municipality",
-   "imp": 2,
-   "tags": [
-    "Suryagadhi",
-    "AccountsOfficer"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Malaysia row pushes foreign employment agencies' association towards split",
    "summary": "Kathmandu, October 8 The Nepal Association of Foreign Employment Agencies is on the verge of a split following a dispute over the listing of 275 manpower agencies in Malaysia's Foreign Worker Centralized Management...",
    "link": "https://english.onlinekhabar.com/malaysia-row-pushes-foreign-employment-agencies-association-towards-split.html",
@@ -2677,28 +2631,6 @@
    "hits": 1
   },
   {
-   "title": "पोखरामा असोज ३० देखि अन्तर्राष्ट्रिय हिमालयन बुटोह फेस्टिभल",
-   "summary": "महोत्सव अदृश्य आर्टस्, आर्ट घर र सद्भाव थिएटर नेपालको संयुक्त सहकार्यमा आयोजना हुन लागेको हो।",
-   "link": "https://www.setopati.com/art/ranga-manch/400344",
-   "source": "Setopati",
-   "ts": 1791452040,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "पोखरामा असोज ३० देखि अन्तर्राष्ट्रिय हिमालयन बुटोह फेस्टिभल",
-   "en": "पोखरामा असोज ३० देखि अन्तर्राष्ट्रिय हिमालयन बुटोह फेस्टिभल",
-   "ne": "पोखरामा असोज ३० देखि अन्तर्राष्ट्रिय हिमालयन बुटोह फेस्टिभल",
-   "imp": 2,
-   "tags": [
-    "Pokhara",
-    "HimalayanBootohFestival"
-   ],
-   "cat": "culture",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "परिषद् भन्छ, 'वरिष्ठता मात्रै पर्याप्त आधार होइन'",
    "summary": "काठमाडौं, असोज २२ गते । सर्वोच्च अदालतमा चार न्यायाधीश नियुक्तिका लागि न्याय परिषद्ले गरेको सिफारिसलाई लिएर नेपाल बार एसोसिएसनले प्रश्न उठाएको छ । बारले सिफारिस प्रक्रियामा वरिष्ठत...",
    "link": "https://gorkhapatraonline.com/news/225921",
@@ -2719,52 +2651,6 @@
    "val": 2,
    "teaser": true,
    "hits": 1
-  },
-  {
-   "title": "कांग्रेस महाधिवेशन : मतपत्र तयारीमा ढिलाइ हुँदा मतदान अनिश्चित",
-   "summary": "बिहीबार दिउँसो साढे २ बजेदेखि मतदान सुरु गर्ने तयारी गरिए पनि मतपत्र छपाइ तथा तयारीमा ढिलाइ भएपछि सवा ३ बजेसम्म मतदान सुरु हुन नसकेको हो।...",
-   "link": "https://nagariknews.nagariknetwork.com/politics/congress-general-convention-voting-uncertain-due-to-delays-in-ballot-preparation-br-13-64.html",
-   "source": "Nagarik News",
-   "ts": 1791452197,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1791452170_NC%20Matadan.png",
-   "lang": "ne",
-   "hl": "कांग्रेस महाधिवेशन : मतपत्र तयारीमा ढिलाइ हुँदा मतदान अनिश्चित",
-   "en": "कांग्रेस महाधिवेशन : मतपत्र तयारीमा ढिलाइ हुँदा मतदान अनिश्चित",
-   "ne": "कांग्रेस महाधिवेशन : मतपत्र तयारीमा ढिलाइ हुँदा मतदान अनिश्चित",
-   "imp": 3,
-   "tags": [
-    "NepaliCongress",
-    "कांग्रेस",
-    "GeneralConvention"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 8
-  },
-  {
-   "title": "विपद् अध्ययन समितिका सभापति पौडेलले लिए शपथ",
-   "summary": "मन्त्री गौतमलगायतको उपस्थितिमा सिंहदरबारस्थित संसदीय समिति कक्षमा शपथ ग्रहण कार्यक्रम आयोजना गरिएको हो।...",
-   "link": "https://nagariknews.nagariknetwork.com/politics/poudel-takes-oath-as-chairman-of-disaster-study-committee-br-91-69.html",
-   "source": "Nagarik News",
-   "ts": 1791451988,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1791453456_New%20Project%20(2).jpg",
-   "lang": "ne",
-   "hl": "विपद् अध्ययन समितिका सभापति पौडेलले लिए शपथ",
-   "en": "विपद् अध्ययन समितिका सभापति पौडेलले लिए शपथ",
-   "ne": "विपद् अध्ययन समितिका सभापति पौडेलले लिए शपथ",
-   "imp": 2,
-   "tags": [
-    "DisasterManagement",
-    "Poudel",
-    "विपद"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "मन्त्री श्रेष्ठद्वारा ऊर्जा प्रणाली विविधीकरण र लगानीमैत्री नियमनमा जोड",
@@ -9921,7 +9807,7 @@
    "cat": "economy"
   }
  ],
- "updated": 1791480688,
+ "updated": 1791481252,
  "pending_since": 1791480057.1292565,
  "fb_blocks": [
   1790350880.4125228,
