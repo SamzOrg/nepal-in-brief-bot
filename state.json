@@ -2613,7 +2613,9 @@
   "https://www.setopati.com/opinion/400298": 1791433870.2011087,
   "https://gorkhapatraonline.com/news/225864": 1791433870.2011087,
   "https://nagariknews.nagariknetwork.com/others/world-record-set-at-19-years-old-by-playing-candy-crush-17-20.html": 1791433870.2011087,
-  "https://gorkhapatraonline.com/news/225861": 1791433870.2011087
+  "https://gorkhapatraonline.com/news/225861": 1791433870.2011087,
+  "http://english.ratopati.com/story/82823/the-festive-economy-amidst-natural-disasters-and-government-indifference": 1791434448.4616413,
+  "https://theannapurnaexpress.com/story/67759": 1791434448.4616413
  },
  "queue": [
   {
@@ -2657,28 +2659,6 @@
     "School"
    ],
    "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Mount Everest Kitchen brings a taste of Nepal to south Fargo",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeHBsLU1oWjllbDhYR255R0FLWDU2ZTBULVEyTndXRTVZb3lHUnBfajlhdnJtaGxtQ2t1bG8tUkNFbXF1c3N1SU5aM2FYSzRWckljYVdkQ2FoNWlIX3Q5ZkFqYWQ2RFdOMkJsN0o2NmQ1Tlc1Uk5adjZpUUkxUVQxRmItc2hjejdsR2VWSFVpdWZrU3lRMEZfYTczeWNnVTNwdTByVUQzM1VtZTR1Zl9yb1ZaZDMyRmZWZWpJbEZJWm1jSGJzZnYyTER4U0g3bVhO?oc=5",
-   "source": "Prairie Public",
-   "ts": 1791405534,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Mount Everest Kitchen brings a taste of Nepal to south Fargo",
-   "en": "Mount Everest Kitchen brings a taste of Nepal to south Fargo",
-   "ne": "Mount Everest Kitchen brings a taste of Nepal to south Fargo",
-   "imp": 1,
-   "tags": [
-    "NepaliFood",
-    "Fargo"
-   ],
-   "cat": "culture",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -3892,7 +3872,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 6
+   "hits": 7
   },
   {
    "title": "ढिकी-जाँतो विस्थापित हुँदा मौलिकता हराउने चिन्ता",
@@ -9721,8 +9701,8 @@
    "cat": "education"
   }
  ],
- "updated": 1791433876,
- "pending_since": null,
+ "updated": 1791434453,
+ "pending_since": 1791434448.4616413,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
