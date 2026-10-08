@@ -2441,28 +2441,6 @@
  },
  "queue": [
   {
-   "title": "Nana Patekar's Life: From Sidewalks to Screen, A Journey of Resilience and Artistry",
-   "summary": "'One day someone asked me, what do you grow in the field? I said, firewood. I am growing myself. Otherwise,...",
-   "link": "http://english.ratopati.com/story/82935/if-it-werent-for-these-people-i-would-probably-be-in-the-underworld",
-   "source": "Ratopati EN",
-   "ts": 1791470700,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/nana-patekar_JKciMS4oia.webp",
-   "lang": "en",
-   "hl": "Nana Patekar's Life: From Sidewalks to Screen, A Journey of Resilience and Artistry",
-   "en": "Nana Patekar's Life: From Sidewalks to Screen, A Journey of Resilience and Artistry",
-   "ne": "Nana Patekar's Life: From Sidewalks to Screen, A Journey of Resilience and Artistry",
-   "imp": 1,
-   "tags": [
-    "NanaPatekar",
-    "Bollywood"
-   ],
-   "cat": "culture",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "संघीय निजामती सेवा विधेयकमाथि पूर्वकर्मचारी समाजको छलफल",
    "summary": "",
    "link": "https://baahrakhari.com/detail/504310",
@@ -2620,29 +2598,6 @@
    "val": 3,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "मादुरो दम्पतीविरुद्ध नयाँ अभियोग थप्ने अमेरिकाको तयारी",
-   "summary": "मादुरो सन् २०१३ देखि करिब १३ वर्षसम्म भेनेजुएलाको राष्ट्रपति थिए। उनको शासनकालमा अमेरिका र भेनेजुएलाबिचको सम्बन्ध निकै तनावपूर्ण बनेको थियो।...",
-   "link": "https://nagariknews.nagariknetwork.com/international/us-preparing-to-add-new-charges-against-maduro-couple-84-57.html",
-   "source": "Nagarik News",
-   "ts": 1791470777,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1767500139_Maduro",
-   "lang": "ne",
-   "hl": "मादुरो दम्पतीविरुद्ध नयाँ अभियोग थप्ने अमेरिकाको तयारी",
-   "en": "मादुरो दम्पतीविरुद्ध नयाँ अभियोग थप्ने अमेरिकाको तयारी",
-   "ne": "मादुरो दम्पतीविरुद्ध नयाँ अभियोग थप्ने अमेरिकाको तयारी",
-   "imp": 2,
-   "tags": [
-    "Maduro",
-    "USA",
-    "Venezuela"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "कालीगण्डकी बाढीप्रभावित राहुघाट जलविद्युत् आयोजना सञ्चालन",
@@ -3098,29 +3053,6 @@
     "WesternNepal"
    ],
    "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Airline companies agree to reduce ticket fares following govt intervention",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaW1PR2dKSXc3SmFpTDR6X1dpVEVlNXFVbGxCWGZ3TGowSWczZHpLRTBsbG80WVR3aF8tVHh2Um5yb1k1VmdmZGlMblFQVDcxZzVoU2t6MnJXQ0FQcXVtMWNIU2RzbmI1clppMmp0MVg2SVM3cGNTYzc0OUJFd0VNY0pLcHZudjZqc0lvbnNpRVlZek5qcVBsRm5fdV95SFV3RnM1cTA2WkdlUkRycXF2UHZDR0tzZ21GUnFUTURkVkVZc1lkLWZ3Xw?oc=5",
-   "source": "myRepublica",
-   "ts": 1791476947,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Airline companies agree to reduce ticket fares following govt intervention",
-   "en": "Airline companies agree to reduce ticket fares following govt intervention",
-   "ne": "Airline companies agree to reduce ticket fares following govt intervention",
-   "imp": 4,
-   "tags": [
-    "Airlines",
-    "AirFare",
-    "Government"
-   ],
-   "cat": "economy",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -6602,10 +6534,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "disaster"
+  },
+  {
+   "ts": 1791499853.2736247,
+   "en": "Nepal Airlines Reduce Fares For Dashain After Govt Intervention",
+   "ne": "Nepal Airlines Reduce Fares For Dashain After Govt Intervention",
+   "link": "https://myrepublica.nagariknetwork.com/news/airline-companies-agree-to-reduce-ticket-fares-following-govt-intervention-35-39.html",
+   "source": "myRepublica",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "economy"
   }
  ],
- "updated": 1791499251,
- "pending_since": null,
+ "updated": 1791499866,
+ "pending_since": 1791499846.9553478,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
