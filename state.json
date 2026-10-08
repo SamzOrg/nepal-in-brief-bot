@@ -2559,7 +2559,13 @@
   "http://english.ratopati.com/story/82845/73-percent-of-customers-still-at-the-counter-annual-cost-of-rs-600-million-just-to-collect-tolls": 1791441653.1975832,
   "https://nagariknews.nagariknetwork.com/social-affairs/surveillance-in-pharmacies-and-laboratories-to-prevent-leakage-br-53-94.html": 1791441653.1975832,
   "https://gorkhapatraonline.com/news/225889": 1791441653.1975832,
-  "https://baahrakhari.com/detail/504236": 1791441653.1975832
+  "https://baahrakhari.com/detail/504236": 1791441653.1975832,
+  "https://baahrakhari.com/detail/504240": 1791442251.1699114,
+  "https://english.khabarhub.com/2026/08/571170/": 1791442251.1699114,
+  "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOTNmOGlpbHdXNGlwRHkwbmIyWEczNFNVRXhHRVloMGdjYW0tVVI2TTJMZHNQcHpMTmstbnE1U3lhdDgzR05zaENXSTlTODVPRmFmLTZuVmxWcnRLdDZuZGwyUXlyT1ZJcDNUMmQzdWFZMGN6TmJmUTNnU1M3ODc1ZEU1ZjNlaFhHampFeEV6NWk4LXVTalE?oc=5": 1791442251.1699114,
+  "http://english.ratopati.com/story/82850/saudi-arabia-transfers-humanitarian-aid-to-nepal": 1791442251.1699114,
+  "https://english.khabarhub.com/2026/08/571175/": 1791442251.1699114,
+  "http://lokaantar.com/story/330782/2026/10/8/death-": 1791442251.1699114
  },
  "queue": [
   {
@@ -7036,7 +7042,7 @@
    "cat": "economy",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "एनएमबी बैंकले घोषणा गऱ्यो लाभांश",
@@ -7201,30 +7207,6 @@
    "hits": 1
   },
   {
-   "title": "Nepal sees heavy rain in parts, flash flood risk rises in West",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaGdURS1SSENqTlBnRVB1ZnJyVC15a1RHS1RCMTVLaHJ6bjNaaGh2UzR2cGVRY09aZ3ZNd2U0NnNxM2h5WXc3UTR6dWhZVnlhYWZuS2tFUzBLMTBzQXNscHlXYWhOVWxUTzdhbGpxYlo5b0RkZVpMWUctVjNYN2wxb2NvVHZyTmVMcnp1cVJFMC1FRXFsTjA3WkRUQXNjOXlDV2F6MjNwVjNqVG5SVFU0LQ?oc=5",
-   "source": "Pioneer Daily",
-   "ts": 1791441613,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Nepal sees heavy rain in parts, flash flood risk rises in West",
-   "en": "Nepal sees heavy rain in parts, flash flood risk rises in West",
-   "ne": "Nepal sees heavy rain in parts, flash flood risk rises in West",
-   "imp": 4,
-   "tags": [
-    "HeavyRain",
-    "FlashFlood",
-    "Nepal",
-    "वर्षा"
-   ],
-   "cat": "disaster",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "बेनी खानेपानीको पाइपलाइन पुनर्निर्माण गर्न झण्डै १५ करोड लाग्ने",
    "summary": "बेनी समाचारदाताम्याग्दी (बेनी), असोज २२ गते । यही असोज ८ देखि ११ गतेसम्म परेको भारी वर्षाका कारण म्याग्दीको सदरमुकाम बेनीमा खानेपानी आपूर्ति गरिँदै आएको पाइपलाइन क्षतिग्रस्त भएपछि...",
    "link": "https://gorkhapatraonline.com/news/225892",
@@ -7314,7 +7296,7 @@
    "cat": "politics",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Nepal: Flood destroyed homes, but power utility still bills victims",
@@ -7592,20 +7574,32 @@
    "val": 3,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "पहिरोमा ज्यान गुमाएका तीन जनाको परिवारलाई एक-एक लाख",
+   "summary": "बागलुङको ताराखोलामा पहिरोमा परी ज्यान गुमाएका तीन जनाको परिवारलाई प्रतिपरिवार एक लाख रुपैयाँ प्रदान गरिएको छ । ताराखोला गाउँपालिकाले पहिरोले घर पुरिएर ज्यान गुमाउनेकापरिवारलाई एक एक लाखका दरले नगद राहत उपलध गराएको हो ।...",
+   "link": "http://lokaantar.com/story/330782/2026/10/8/death-",
+   "source": "Lokaantar",
+   "ts": 1791427851.9584365,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "पहिरोमा ज्यान गुमाएका तीन जनाको परिवारलाई एक-एक लाख",
+   "en": "पहिरोमा ज्यान गुमाएका तीन जनाको परिवारलाई एक-एक लाख",
+   "ne": "पहिरोमा ज्यान गुमाएका तीन जनाको परिवारलाई एक-एक लाख",
+   "imp": 3,
+   "tags": [
+    "Landslide",
+    "Relief",
+    "पहिरो"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1790836860.399283,
-   "en": "New Federal Civil Service bill sets two-year cooling-off period",
-   "ne": "New Federal Civil Service bill sets two-year cooling-off period",
-   "link": "https://english.onlinekhabar.com/new-bill-cooling-off-period.html",
-   "source": "Onlinekhabar EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "politics"
-  },
   {
    "ts": 1790838661.3929448,
    "en": "ILO: Nepal Floods Threaten Jobs and Livelihoods Beyond Affected Areas",
@@ -10894,9 +10888,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "politics"
+  },
+  {
+   "ts": 1791442258.9098656,
+   "en": "Nepal sees heavy rain; flash flood risk rises in western districts",
+   "ne": "Nepal sees heavy rain; flash flood risk rises in western districts",
+   "link": "https://dailypioneer.com/news/slug-lite/nepal-sees-heavy-rain-in-parts-flash-flood-risk-rises-in-west?year=2026",
+   "source": "Pioneer Daily",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": true,
+   "cat": "disaster"
   }
  ],
- "updated": 1791441660,
+ "updated": 1791442273,
  "pending_since": 1791441653.1975832,
  "fb_blocks": [
   1790350880.4125228,
