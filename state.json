@@ -1,9 +1,5 @@
 {
  "seen": {
-  "https://theannapurnaexpress.com/story/67693": 1791268268.6524856,
-  "https://english.onlinekhabar.com/efforts-rehabilitate-minister-lamsal.html": 1791268268.6524856,
-  "https://gorkhapatraonline.com/news/225625": 1791268268.6524856,
-  "http://english.ratopati.com/story/82519/pressure-from-mps-on-the-committee-build-temporary-housing-and-bailey-bridge-before-the-festival": 1791268268.6524856,
   "https://baahrakhari.com/detail/503951": 1791268849.8290057,
   "https://english.onlinekhabar.com/laws-for-disaster-affected-people.html": 1791268849.8290057,
   "http://english.ratopati.com/story/82521/proposed-ambassadors-hearing-to-be-held-from-16-to-18-asoj-7-complaints-against-13-people": 1791268849.8290057,
@@ -2541,7 +2537,12 @@
   "https://nagariknews.nagariknetwork.com/social-affairs/road-safety-bill-in-parliament-doubts-over-reduction-in-accidents-br-56-95.html": 1791439852.2031195,
   "http://english.ratopati.com/story/82838/congress-announces-split-fund-plans-to-build-new-house": 1791439852.2031195,
   "http://english.ratopati.com/story/82831/question-to-congress-is-there-really-an-ideological-gap-between-congress-and-rashtriya-swayamsevak-sangh-rss-or-not": 1791440450.3866022,
-  "https://news.google.com/rss/articles/CBMikgJBVV95cUxNdEEteFIzc19ianVUVElhTDlPdzdZQzhDVS1EUzc4ajFDTEpvWEVGUERMOHB0eVpCQXFxQ2NEZWVqNlZvdkZ3QjlqdVVXbko2bVh4NWxtUE9YUk5NX2xVZnRKa04zVzZ3bGZnU1kyMGVsUVA4NlkyVWh1SElYdlVjNnpzWVRaWlhnOEU0dEk2a0tUOGJVMDlzbHR3NHBFUXhmQmpyWjdfTzVZaGVsalhXWXRJQjZiQWNvcl9OQ1VXWXllcVFUMkJPMlo2eWNkVkYteUN1SDg2YUx3XzhSckdjTHpKbnkzZXd0MW5EWWpNYlc1dGFGTm95RzlBTkxDRHJMNlBtNlBpLUJfUnpzTmRRaTB3?oc=5": 1791440450.3866022
+  "https://news.google.com/rss/articles/CBMikgJBVV95cUxNdEEteFIzc19ianVUVElhTDlPdzdZQzhDVS1EUzc4ajFDTEpvWEVGUERMOHB0eVpCQXFxQ2NEZWVqNlZvdkZ3QjlqdVVXbko2bVh4NWxtUE9YUk5NX2xVZnRKa04zVzZ3bGZnU1kyMGVsUVA4NlkyVWh1SElYdlVjNnpzWVRaWlhnOEU0dEk2a0tUOGJVMDlzbHR3NHBFUXhmQmpyWjdfTzVZaGVsalhXWXRJQjZiQWNvcl9OQ1VXWXllcVFUMkJPMlo2eWNkVkYteUN1SDg2YUx3XzhSckdjTHpKbnkzZXd0MW5EWWpNYlc1dGFGTm95RzlBTkxDRHJMNlBtNlBpLUJfUnpzTmRRaTB3?oc=5": 1791440450.3866022,
+  "http://english.ratopati.com/story/82847/tribhuvan-universitys-annual-budget-is-30-billion-87-million": 1791441071.1092684,
+  "https://baahrakhari.com/detail/504235": 1791441071.1092684,
+  "http://english.ratopati.com/story/82846/building-a-prosperous-nepal-is-possible-only-through-a-common-national-resolve-president-poudel": 1791441071.1092684,
+  "https://www.setopati.com/global/other-global/400331": 1791441071.1092684,
+  "https://kathmandupost.com/national/2026/10/08/bodies-of-two-mugu-men-missing-in-avalanche-found": 1791441071.1092684
  },
  "queue": [
   {
@@ -5632,7 +5633,7 @@
    "cat": "culture",
    "val": 1,
    "teaser": true,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Bangladesh nuclear plant sparks hope, concern",
@@ -7341,6 +7342,53 @@
    "cat": "politics",
    "val": 2,
    "teaser": true,
+   "hits": 1
+  },
+  {
+   "title": "मनाङका बाढी पहिरो प्रभावित ६४ परिवारलाई एनआरएनएको राहत सहयोग",
+   "summary": "",
+   "link": "https://www.setopati.com/global/other-global/400331",
+   "source": "Setopati",
+   "ts": 1791440640,
+   "weight": 3,
+   "img": null,
+   "lang": "ne",
+   "hl": "मनाङका बाढी पहिरो प्रभावित ६४ परिवारलाई एनआरएनएको राहत सहयोग",
+   "en": "मनाङका बाढी पहिरो प्रभावित ६४ परिवारलाई एनआरएनएको राहत सहयोग",
+   "ne": "मनाङका बाढी पहिरो प्रभावित ६४ परिवारलाई एनआरएनएको राहत सहयोग",
+   "imp": 3,
+   "tags": [
+    "Manang",
+    "Flood",
+    "NRNA",
+    "बाढीपहिरो"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Bodies of two Mugu men missing in avalanche found",
+   "summary": "The two had been missing since September 18 after setting out with a 13-member group to collect medicinal herbs near the Mugu-Humla border.",
+   "link": "https://kathmandupost.com/national/2026/10/08/bodies-of-two-mugu-men-missing-in-avalanche-found",
+   "source": "Kathmandu Post",
+   "ts": 1791426671.8903944,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "Bodies of two Mugu men missing in avalanche found",
+   "en": "Bodies of two Mugu men missing in avalanche found",
+   "ne": "Bodies of two Mugu men missing in avalanche found",
+   "imp": 3,
+   "tags": [
+    "Mugu",
+    "Avalanche",
+    "Rescue"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
    "hits": 1
   }
  ],
@@ -10646,7 +10694,7 @@
    "cat": "politics"
   }
  ],
- "updated": 1791440472,
+ "updated": 1791441078,
  "pending_since": 1791440450.3866022,
  "fb_blocks": [
   1790350880.4125228,
