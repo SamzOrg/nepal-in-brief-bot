@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMie0FVX3lxTFBja09UME5zSENlWFA5SktKRFRMaDY3OUthZW1IMmhGM1BsVFdjNmVkREN2QW5MVmR2Q2hpaEhxSE80OTJxRzVLbHdkNnJneE5CeE5tejdUUGIzVTlzbmdaYTltV19VcUdyVTZGd2pwM2VrLWtWRFVaUFh4MA?oc=5": 1791325873.1876993,
-  "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1yOUVxZkQzYVpqZHJrcnI3TGtVU28yUzFqTDhsVTIzaFR0b21qbW9EaG5FcEg1QU14RXNtMnZjR2VMOFAySnlyakdhV2dSWUNPeUdJSkUzcDVJTUE?oc=5": 1791325873.1876993,
   "http://english.ratopati.com/story/82639/preparations-to-connect-tourist-destinations-through-jeep-safaris": 1791327049.8517654,
   "https://news.google.com/rss/articles/CBMidkFVX3lxTFBZblhnM3lZRi1tY0dfUEtWOXQ4Z3h0R2NvYmpVVVlhWkFEbXhsRUdJNlZzdERwMFN1QXFtOXp5eUNZLWpfZGFyTGlOSHpYeVZia1hWRVUyTFhCRHIybkpNT2FvWUx1S1FaMlV6QkVVY0xOWUdIbWc?oc=5": 1791327049.8517654,
   "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1QR2tpLTNnUkV4U1NYdjlLTERXeFhHZVNBa0ViNF93TnJySVBvSFZrVzJVMGJhRTltLWxZcXFua3FDZw?oc=5": 1791327049.8517654,
@@ -2461,51 +2459,6 @@
    ],
    "cat": "culture",
    "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "ICC board meeting may be held in Nepal during NPL",
-   "summary": "Kathmandu, October 8 The International Cricket Council (ICC) is preparing to hold its upcoming board meeting in Nepal during the Nepal Premier League (NPL) 2026, according to Cricket Association of Nepal (CAN)...",
-   "link": "https://english.onlinekhabar.com/icc-board-meeting-nepal-npl.html",
-   "source": "Onlinekhabar EN",
-   "ts": 1791470003,
-   "weight": 3,
-   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/10/ICC-board-meeting.png",
-   "lang": "en",
-   "hl": "ICC board meeting may be held in Nepal during NPL",
-   "en": "ICC board meeting may be held in Nepal during NPL",
-   "ne": "ICC board meeting may be held in Nepal during NPL",
-   "imp": 3,
-   "tags": [
-    "ICC",
-    "NPL",
-    "Cricket"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "नेपाली सेनालाई बेलायतमा भएको 'क्यामब्रेन पट्रोल २०२६' मा स्वर्णपदक",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/504306",
-   "source": "Baahrakhari",
-   "ts": 1791469999,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "नेपाली सेनालाई बेलायतमा भएको 'क्यामब्रेन पट्रोल २०२६' मा स्वर्णपदक",
-   "en": "नेपाली सेनालाई बेलायतमा भएको 'क्यामब्रेन पट्रोल २०२६' मा स्वर्णपदक",
-   "ne": "नेपाली सेनालाई बेलायतमा भएको 'क्यामब्रेन पट्रोल २०२६' मा स्वर्णपदक",
-   "imp": 3,
-   "tags": [
-    "NepaliArmy",
-    "CambrianPatrol"
-   ],
-   "cat": "society",
-   "val": 3,
    "teaser": false,
    "hits": 1
   },
@@ -6651,7 +6604,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1791498668,
+ "updated": 1791499251,
  "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
