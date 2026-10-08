@@ -1,8 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMizwFBVV95cUxPOFpUWU0yN3A1d0EtOThpODRmZHlHUkNKS0lyS3NqTDJzRGJTem5LeHJncDc0azk0N0ZsWk9GZ3BxcVFvamtMU1pITURjX1hjME9yNjREalMzWUxBbXFWZWh5eXhsRTVoRlBiVXV1RnVjN2pFM0hXRGZwYldNbmZKYkRqMndJZWVtODZTRGZ6ZG1xcEJwbzgxaTRDZnpUQnp5U0NXX1FPZm5jWVpLYTZ0bVJMdFFPSkFtNTI5SDBmekhkMHFyVkI5RERlZHhRQzA?oc=5": 1791306112.1024802,
-  "https://gorkhapatraonline.com/news/225675": 1791306577.6657777,
-  "https://news.google.com/rss/articles/CBMi1wJBVV95cUxNNGR5M0JzTjFpcTBwOEtWS2xGeWNxb2FsV25LUlE3Yl9VVU1TRGU0bUtOdmtiRVVSRXV5cjBlZXJxOUxLRThyZ1gzZmFzVjVoOHlvUlhVNDNESUl6T1gxaUlxM0NpX1RjVTRwMDFwYXlvVlhwdTJpbEhHdF9wRHhlNUJULXg0UUg1SFZSN2Y3SFhPcE5HTHpHUFE3OGMtdW5WUlFTQjZIR1ZEcXdFRG8xTlc4TXhHWTZqZHd5X0UzRlBkbTlJMk5XYUdRdmUzV2Ffek9DZjB6b09JcVJvV2h5YlRiME4tQkliQ21GU21UUjRYVV80VWt3ajBIRmhNanMycl9ONUMwN3JRUUtvOU1DUFAyMmQ0NEw0bFNIcHh2bVFISHVuZWU2Rjc3RXJVaHUyeWtMQUdBMFUyTHlvYUxMdmNrZkF4VU52VDR3N1pvd3Qzb210OGk4?oc=5": 1791306650.3132668,
   "https://baahrakhari.com/detail/504076": 1791307250.2092912,
   "http://english.ratopati.com/story/82637/51-magnitude-earthquake-hits-uttarakhand-india-tremors-felt-in-the-far-west": 1791307865.6287744,
   "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSVpGQ2dXamoxZGRabURpRjJYaGgyWEFBQWcyYkFJaHNlU0JXdDdoOW1Hb01hNnU0eTZRUzZqb3FCUGlCUV9FX1Z5cGZGX2laV3RvRGN4Qkt1Nk9qd2ZfTEhJYkRVenRFMENiMEFYeVpoZ0tzcUo3WVV2OXBiN3ZlVmRkOVg4aVlVQl9NLW1R?oc=5": 1791307865.6287744,
@@ -2460,7 +2457,8 @@
   "https://theannapurnaexpress.com/story/67773": 1791478898.3391213,
   "https://gorkhapatraonline.com/news/225963": 1791478898.3391213,
   "http://english.ratopati.com/story/82947/9th-general-convention-of-folk-and-duo-song-foundation-in-bardibas": 1791478898.3391213,
-  "http://english.ratopati.com/story/82945/new-torture-charges-filed-against-former-venezuelan-leader-maduro-and-maduros-wife": 1791478898.3391213
+  "http://english.ratopati.com/story/82945/new-torture-charges-filed-against-former-venezuelan-leader-maduro-and-maduros-wife": 1791478898.3391213,
+  "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSDRjd3RPWmpwT2M1aV8ySUxhamJTMHg2bm1EeWxTb1huMHJiNlE0RE5tdlA0YUkzcDJSVG5jSjgwcS16b3FQcW9ibm4teXE3aU1tRWQ3WDduNFFyYTlxWmNwdDItdXFyTHlWYmJxN1c5djVGaWRFcUNWdGpJblppNFZOZTBLYllTNXZ1R1FUbl9GZ09oQWNnY20zU1lHV2EyWFE3WTAyUnlndENoek1iaXFSbjZPT0Jp?oc=5": 1791479450.710187
  },
  "queue": [
   {
@@ -2552,7 +2550,7 @@
    "cat": "education",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "IMF Reaches Staff-Level Agreement with Pakistan for $1.2 Billion Loan",
@@ -2601,29 +2599,6 @@
    "hits": 1
   },
   {
-   "title": "Bajura police launch school campaign to prevent sexual violence",
-   "summary": "Key Takeaways: Girls aged 10-18 accounted for 60.9 percent of recorded victims Police recorded 64 sexual violence cases in Bajura over five years Awareness posters distributed...",
-   "link": "https://thehimalayantimes.com/nepal/bajura-police-launch-school-campaign-to-prevent-sexual-violence",
-   "source": "Himalayan Times",
-   "ts": 1791450352,
-   "weight": 3,
-   "img": "https://thehimalayantimes.com/thehimalayantimes/uploads/images/2026/10/08/51418.jpeg",
-   "lang": "en",
-   "hl": "Bajura police launch school campaign to prevent sexual violence",
-   "en": "Bajura police launch school campaign to prevent sexual violence",
-   "ne": "Bajura police launch school campaign to prevent sexual violence",
-   "imp": 2,
-   "tags": [
-    "Bajura",
-    "Police",
-    "SexualViolence"
-   ],
-   "cat": "crime",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "सरकारी सम्पत्तिको संरक्षणमा उदासीन नहोऊ",
    "summary": "",
    "link": "https://baahrakhari.com/detail/504265",
@@ -2643,29 +2618,6 @@
    "cat": "society",
    "val": 1,
    "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "१७ उपसचिवको सरुवा, गृहबाट बाहिरिने धेरै",
-   "summary": "गृह मन्त्रालयमा कार्यरत १७ जना उपसचिवलाई अन्य मन्त्रालय तथा निकायमा सरुवा गरिएको छ भने विभिन्न स्थानमा कार्यरत ६ जना उपसचिवलाई गृहमा ल्याइएको छ।...",
-   "link": "https://nagariknews.nagariknetwork.com/politics/17-deputy-secretaries-transferred-many-leaving-the-home-office-84-90.html",
-   "source": "Nagarik News",
-   "ts": 1791450502,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1786454495_Prativa%20Rawal.jpg",
-   "lang": "ne",
-   "hl": "१७ उपसचिवको सरुवा, गृहबाट बाहिरिने धेरै",
-   "en": "१७ उपसचिवको सरुवा, गृहबाट बाहिरिने धेरै",
-   "ne": "१७ उपसचिवको सरुवा, गृहबाट बाहिरिने धेरै",
-   "imp": 2,
-   "tags": [
-    "HomeMinistry",
-    "UnderSecretary",
-    "सरुवा"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
    "hits": 1
   },
   {
@@ -2738,29 +2690,6 @@
    "hits": 1
   },
   {
-   "title": "स्केचर्सले ल्यायो 'सप मोर, गेट मोर' योजना",
-   "summary": "अभियानअन्तर्गत ग्राहकले आकर्षक छुट, विशेष पुरस्कार तथा बम्पर उपहार जित्ने अवसरसहित थप लाभदायी किनमेल अनुभव प्राप्त गर्नेछन्।...",
-   "link": "https://nagariknews.nagariknetwork.com/Bazar/skechers-launches-shop-more-get-more-plan-12-93.html",
-   "source": "Nagarik News",
-   "ts": 1791450206,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1791450174_Skecher.png",
-   "lang": "ne",
-   "hl": "स्केचर्सले ल्यायो 'सप मोर, गेट मोर' योजना",
-   "en": "स्केचर्सले ल्यायो 'सप मोर, गेट मोर' योजना",
-   "ne": "स्केचर्सले ल्यायो 'सप मोर, गेट मोर' योजना",
-   "imp": 1,
-   "tags": [
-    "Skechers",
-    "Discount",
-    "स्केचर्स"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "West Asian Oil Producers Vie for Market Share Amidst Iran Conflict",
    "summary": "Dubai. West Asian oil-producing countries have started a scramble to regain the oil market share lost due to the Iran...",
    "link": "http://english.ratopati.com/story/82884/west-asias-oil-market-struggles-to-attract-lost-customers",
@@ -2802,29 +2731,6 @@
     "India"
    ],
    "cat": "tech",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Sashastra Prahari Bal Implements Special Security Plan for Festivals",
-   "summary": "Kathmandu. Targeting festivals like Dashain, Tihar, and Chhath, the Sashastra Prahari Bal, Nepal has prepared a 'Festival-Targeted Special Security Plan,...",
-   "link": "http://english.ratopati.com/story/82889/special-security-plan-implemented-for-festivals-over-28000-armed-police-deployed-at-the-ground",
-   "source": "Ratopati EN",
-   "ts": 1791450379,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/apf_ovmuoXIbXZ.webp",
-   "lang": "en",
-   "hl": "Sashastra Prahari Bal Implements Special Security Plan for Festivals",
-   "en": "Sashastra Prahari Bal Implements Special Security Plan for Festivals",
-   "ne": "Sashastra Prahari Bal Implements Special Security Plan for Festivals",
-   "imp": 3,
-   "tags": [
-    "ArmedPoliceForce",
-    "FestivalSecurity",
-    "सशस्त्रप्रहरी"
-   ],
-   "cat": "society",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -10498,7 +10404,7 @@
    "cat": "economy"
   }
  ],
- "updated": 1791478905,
+ "updated": 1791479454,
  "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
