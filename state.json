@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMimwFBVV95cUxOS05KbW5qMGZadTRXVXZyZVBRU2xONUdCd0tyRnpodkthUnN1TVZNRERQLUl3aXpVMG83ZjNOaUxHRzU2aElMWFFYeEVJSjItZGI1MGNsZE0xNzFlQmVrMzlhVGxLRGJsdlIyQmcwalMwS2E3UVlHTHRvQk56V2p4TG1qdWJPRm9hZnJUR2JSZG5yYjVwVHkzZ2EwMA?oc=5": 1791303654.5997884,
   "https://baahrakhari.com/detail/504073": 1791304269.7618027,
   "http://lokaantar.com/story/330657/2026/10/6/police-": 1791304269.7618027,
   "http://english.ratopati.com/story/82634/who-will-support-and-who-will-stop-those-who-supported-the-special-general-convention": 1791304859.231194,
@@ -2470,7 +2469,8 @@
   "http://english.ratopati.com/story/82943/congress": 1791475858.531808,
   "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSHZ2ZXk5Rk9jV25TTDNGdk03UkZvcG1CZzNQRmpUYjNrcDBaQXB1REhmYV90LVFfSnZEZWVuZXZHTDZsSUx5d1lfdTg1dnZKbDdmZ1hKR2EySVdjS19hZTZ4dEtPeUNlTGlXUjhReC1JMTJ5bHRVV3ZnZ3lzR0dMSHVNclpiQkRkallzTkY1VHgyS19LdzZSTmVob1NRQXdORWdXWDV0QTJwZk5FSVFpOEdB?oc=5": 1791475858.531808,
   "http://lokaantar.com/story/330823/2026/10/8/madan-": 1791475858.531808,
-  "http://english.ratopati.com/story/82942/mamta-kafle-disappearance-case-hearing-begins-in-naresh-bhatts-case-accused-of-murdering-his-wife": 1791475858.531808
+  "http://english.ratopati.com/story/82942/mamta-kafle-disappearance-case-hearing-begins-in-naresh-bhatts-case-accused-of-murdering-his-wife": 1791475858.531808,
+  "https://baahrakhari.com/detail/504311": 1791476454.688562
  },
  "queue": [
   {
@@ -2594,30 +2594,6 @@
    "hits": 2
   },
   {
-   "title": "एल निनो डिसेम्बरमा उत्कर्षमा पुग्ने",
-   "summary": "जेनेभा, असोज २२ गते । प्रशान्त महासागरको समुद्री सतहको तापक्रम असामान्य रूपमा बढेसँगै एल निनो तीव्र बन्दै गएको र आगामी डिसेम्बरमा उत्कर्षमा पुग्ने संयुक्त राष्ट्रसङ्घको विश्व मौसम...",
-   "link": "https://gorkhapatraonline.com/news/225908",
-   "source": "Gorkhapatra",
-   "ts": 1791447498,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/387107/conversions/yel-nilo-original.jpg",
-   "lang": "ne",
-   "hl": "एल निनो डिसेम्बरमा उत्कर्षमा पुग्ने",
-   "en": "एल निनो डिसेम्बरमा उत्कर्षमा पुग्ने",
-   "ne": "एल निनो डिसेम्बरमा उत्कर्षमा पुग्ने",
-   "imp": 2,
-   "tags": [
-    "ElNino",
-    "Weather",
-    "Climate",
-    "मौसम"
-   ],
-   "cat": "disaster",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "भृकुटीमण्डपमा बजाज 'गेम अफ पावर' एक्सचेन्ज कार्निभल आयोजना",
    "summary": "",
    "link": "https://baahrakhari.com/detail/504257",
@@ -2642,30 +2618,6 @@
    "hits": 4
   },
   {
-   "title": "Nepali Congress election voting time pushed back again, now set for 2:30 pm",
-   "summary": "Kathmandu, October 8 Voting to elect the new leadership of the Nepali Congress has been delayed again, with the Election Committee now scheduling the voting process to begin at 2:30pm. Voting was initially scheduled for...",
-   "link": "https://english.onlinekhabar.com/nepali-congress-election-voting.html",
-   "source": "Onlinekhabar EN",
-   "ts": 1791447175,
-   "weight": 3,
-   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/10/Nepali-congress-13-1024x500-1.jpg",
-   "lang": "en",
-   "hl": "Nepali Congress election voting time pushed back again, now set for 2:30 pm",
-   "en": "Nepali Congress election voting time pushed back again, now set for 2:30 pm",
-   "ne": "Nepali Congress election voting time pushed back again, now set for 2:30 pm",
-   "imp": 3,
-   "tags": [
-    "NepaliCongress",
-    "Election",
-    "Voting",
-    "Convention"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 3
-  },
-  {
    "title": "Education Minister Sashim Pokharel Shown Black Banner by Students",
    "summary": "Kathmandu. Students showed a black banner to Education and Sports Minister Sashim Pokharel who had gone to attend the 67th...",
    "link": "http://english.ratopati.com/story/82875/education-minister-pokharel-was-shown-a-black-banner-while-attending-the-tribhuvan-university-assembly",
@@ -2685,102 +2637,6 @@
     "शिक्षा"
    ],
    "cat": "education",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "विश्व वरियतामा नेपाल १६औँ स्थानमा",
-   "summary": "अन्तर्राष्ट्रिय क्रिकेट परिषद् (आइसिसी) ले आज सार्वजनिक गरेको आइसिसी एकदिवसीय विश्व वरियतामा नेपाल १६ स्थानमा उक्लिएको छ।...",
-   "link": "https://nagariknews.nagariknetwork.com/sports/nepal-ranks-16th-in-the-world-rankings-65-63.html",
-   "source": "Nagarik News",
-   "ts": 1791447356,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1788670135_Nepal.jpg",
-   "lang": "ne",
-   "hl": "विश्व वरियतामा नेपाल १६औँ स्थानमा",
-   "en": "विश्व वरियतामा नेपाल १६औँ स्थानमा",
-   "ne": "विश्व वरियतामा नेपाल १६औँ स्थानमा",
-   "imp": 2,
-   "tags": [
-    "WorldRanking",
-    "Nepal",
-    "Sports",
-    "खेलकुद"
-   ],
-   "cat": "sports",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Hyundai Vehicle Assembly in Nepal Faces Scrutiny Over Tax Benefits",
-   "summary": "Kathmandu. How would it be to get to ride a car at a cheap price by assembling it in Nepal?...",
-   "link": "http://english.ratopati.com/story/82873/hyundai-vehicle-assembly-consumers-are-blindsided-by-tax-exemptions-taking-advantage-of-them-video-report",
-   "source": "Ratopati EN",
-   "ts": 1791447172,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Hyundai Vehicle Assembly in Nepal Faces Scrutiny Over Tax Benefits",
-   "en": "Hyundai Vehicle Assembly in Nepal Faces Scrutiny Over Tax Benefits",
-   "ne": "Hyundai Vehicle Assembly in Nepal Faces Scrutiny Over Tax Benefits",
-   "imp": 3,
-   "tags": [
-    "Hyundai",
-    "VehicleAssembly",
-    "TaxBenefits",
-    "Automotive"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "वर्षा रोकियो, रोकिएन डर",
-   "summary": "सडक चिरिएसँगै यहाँका करिब ३० घरपरिवार जोखिममा छन्। विशेषगरी धाँजा फाटेको सडकको दक्षिणतर्फ रहेका घरपरिवार बढी जोखिममा छन्।...",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/the-rain-stopped-but-the-fear-didn-t-stop-54-50.html",
-   "source": "Nagarik News",
-   "ts": 1791447276,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1791447268_chira%20pareko%20sadak.jpg",
-   "lang": "ne",
-   "hl": "वर्षा रोकियो, रोकिएन डर",
-   "en": "वर्षा रोकियो, रोकिएन डर",
-   "ne": "वर्षा रोकियो, रोकिएन डर",
-   "imp": 3,
-   "tags": [
-    "Rain",
-    "Monsoon",
-    "FloodRisk",
-    "वर्षा"
-   ],
-   "cat": "disaster",
-   "val": 1,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "नेपाल र जापानबीच दुई अर्ब ७३ करोडबराबरको अनुदान सम्झौता",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/504255",
-   "source": "Baahrakhari",
-   "ts": 1791447145,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "नेपाल र जापानबीच दुई अर्ब ७३ करोडबराबरको अनुदान सम्झौता",
-   "en": "नेपाल र जापानबीच दुई अर्ब ७३ करोडबराबरको अनुदान सम्झौता",
-   "ne": "नेपाल र जापानबीच दुई अर्ब ७३ करोडबराबरको अनुदान सम्झौता",
-   "imp": 3,
-   "tags": [
-    "Japan",
-    "Grant",
-    "Aid",
-    "अर्थतन्त्र"
-   ],
-   "cat": "economy",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -7027,7 +6883,7 @@
    "cat": "culture",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "'भोटेकोशी प्रभावितलाई राहतसँगै पुनर्स्थापना जीविकोपार्जन योजना आवश्यक'",
@@ -7214,29 +7070,6 @@
    "val": 3,
    "teaser": false,
    "hits": 2
-  },
-  {
-   "title": "विपद्‌मा खर्बौंको सम्पत्ति नष्ट : बिमाप्रति जिम्मेवार को ?",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/504267",
-   "source": "Baahrakhari",
-   "ts": 1791470220,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "विपद्‌मा खर्बौंको सम्पत्ति नष्ट : बिमाप्रति जिम्मेवार को ?",
-   "en": "विपद्‌मा खर्बौंको सम्पत्ति नष्ट : बिमाप्रति जिम्मेवार को ?",
-   "ne": "विपद्‌मा खर्बौंको सम्पत्ति नष्ट : बिमाप्रति जिम्मेवार को ?",
-   "imp": 4,
-   "tags": [
-    "Disaster",
-    "Insurance",
-    "विपद्"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": true,
-   "hits": 1
   },
   {
    "title": "History and Challenges of Nepal's Criminal Justice System",
@@ -8043,17 +7876,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1790871060.2570307,
-   "en": "सीमा अपराध नियन्त्रणमा निर्मम ढंगले लाग्न सशस्त्र आइजी पौडेलको निर्देशन",
-   "ne": "सीमा अपराध नियन्त्रणमा निर्मम ढंगले लाग्न सशस्त्र आइजी पौडेलको निर्देशन",
-   "link": "https://www.setopati.com/social/399727",
-   "source": "Setopati",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "crime"
-  },
   {
    "ts": 1790872857.2878878,
    "en": "Govt opens national transmission grid to private sector, fixes wheeling charges",
@@ -11298,10 +11120,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "politics"
+  },
+  {
+   "ts": 1791476460.8461936,
+   "en": "पछिल्लो डेढ वर्षमा विपद्बाट खर्बौंको क्षति, बिमामा सहभागिता ३ प्रतिशतले मात्र बढ्यो",
+   "ne": "पछिल्लो डेढ वर्षमा विपद्बाट खर्बौंको क्षति, बिमामा सहभागिता ३ प्रतिशतले मात्र बढ्यो",
+   "link": "https://baahrakhari.com/detail/504267",
+   "source": "Baahrakhari",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "disaster"
   }
  ],
- "updated": 1791475867,
- "pending_since": null,
+ "updated": 1791476476,
+ "pending_since": 1791476454.688562,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
