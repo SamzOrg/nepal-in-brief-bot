@@ -1,8 +1,5 @@
 {
  "seen": {
-  "https://english.khabarhub.com/2026/07/571009/": 1791346252.7219124,
-  "http://english.ratopati.com/story/82673/messis-emotional-farewell-in-the-last-tango-ending-a-21-year-international-journey": 1791346252.7219124,
-  "https://english.khabarhub.com/2026/07/571005/": 1791346252.7219124,
   "http://english.ratopati.com/story/82674/now-youth-and-subject-matter-experts-should-be-in-the-leadership-of-political-parties-ranjit-karna": 1791346853.4645472,
   "https://www.setopati.com/politics/400227": 1791346853.4645472,
   "https://gorkhapatraonline.com/news/225721": 1791346853.4645472,
@@ -2432,7 +2429,14 @@
   "https://risingnepaldaily.com/news/87584": 1791519048.3506806,
   "https://risingnepaldaily.com/news/87592": 1791519048.3506806,
   "https://theannapurnaexpress.com/story/67780": 1791519048.3506806,
-  "https://nagariknews.nagariknetwork.com/social-affairs/reconstruction-process-begins-for-public-structures-damaged-by-floods-52-14.html": 1791519048.3506806
+  "https://nagariknews.nagariknetwork.com/social-affairs/reconstruction-process-begins-for-public-structures-damaged-by-floods-52-14.html": 1791519048.3506806,
+  "https://nagariknews.nagariknetwork.com/social-affairs/school-bus-accident-in-pokhara-five-dead-14-injured-84-76.html": 1791519653.340944,
+  "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZFd5QmpHM0ZxMzZ1ajVCMDZ0enRMSFhrT1hQN2JBRUxMT19xV0NMaHNnM0RxeTVua1BteS1neER6bmNfLXVTSEhPRHVEMHZjeVNoWGxIRjh4bXdMRzAzTWpIMEc1ampsdmtYQlZieHJuRC12YmZadzVyMnRrd1BJci1lY2NqZjAyOWVSTEstdVBIeURtenpTajYyUXlDc2s0OUtJeTlreWcxdmZwR1M4?oc=5": 1791519653.340944,
+  "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSC00TXAwdEIwN2hQLVBJYlBEVk41bE5XdkwtVk9wTjM3bFNndmppOVVWekRSWXlleFFnTC0xVm1NRkJ5SjZkSWdBbC03QWpBaFpYa05zV2NiZElUcXpVUE5hUjRzczlQcG1VbmMzcm85Mjg0RENUU3ZVWkFfWEt1cDdmYXNkbzNwb20yTy12QmlPQ0Z0NmQxTEZHU0VFem1uREhIWDVaOF95enNNcy10ZzBKdEpSUG15cUsxNEFWS1J1NWM?oc=5": 1791519653.340944,
+  "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZzl0U3lSckVubWllamt2Wktmck9RdkxwcHpWQ1NzQk5Vc2VfcTJJZEN4aUZUMGJFbmtiQ2s3RXdqTGpZcTYtSFdpZHVRQkdTbEt1LThmVURwYnAyZ09oZGVmaFJac3hfZjIwVGg0QWlxR01ibElTejY3cFRKN2ZST2hqenBMamdHZnpQc29JbDJWS0swMTYycnR5OW92R1FveGw4?oc=5": 1791519653.340944,
+  "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRGg0M3BRbjBIM1FlTGJTYmZhRjZZX1c1eU5fa05JRUxVbzFsQUFTbFA3X1ZHM3g2N2dRMkJHTDFleU4wMERQalVGRHB6bDNwUHhGMEU2dUh0VEpFUURTNWhWNG5iZjA2VENIZllYWUhoUVlGMks2MVNuaVY2RFg1Nl8zYVRSZktXUndudVY3WEY0cmtBQmQzUjlOVXl2Z2MzMUFQY3ljWGhYMGtpay1yN05YTERmVmlIc204WFZuSjNKRUU2RXNwWmln?oc=5": 1791519653.340944,
+  "https://gorkhapatraonline.com/news/226010": 1791519653.340944,
+  "https://news.google.com/rss/articles/CBMingFBVV95cUxPT1NWTFNqS0JGRm0wYXpNaHFIU2xUYlF5a2E5eEw1XzU1cUFOZTVLUzJsZEJ2ZWtMLW02RmsyLUV6V2N5RGVIUE5kSmR2NFBSaTR0WURoc2Q5Z25aeHFyZ0ljNlBTZms4bDMzWkExblFRTWVFQnE0eHZNQ3BzbUU3TXpQYm1iUVMydml0V0hMYW1LZnZ1Mlg5REZjaHdsUQ?oc=5": 1791519653.340944
  },
  "queue": [
   {
@@ -3986,7 +3990,7 @@
    "cat": "world",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "चाडपर्व विशेष सुरक्षा : सशस्त्र प्रहरीका २८ हजार जनशक्ति परिचालित",
@@ -4543,28 +4547,6 @@
    "hits": 1
   },
   {
-   "title": "NC election postponed for Today",
-   "summary": "By A Staff ReporterKathmandu, Oct. 9: The voting for the election of the Nepali Congress 15th General Convention has bee...",
-   "link": "https://risingnepaldaily.com/news/87583",
-   "source": "Rising Nepal",
-   "ts": 1791513700,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "NC election postponed for Today",
-   "en": "NC election postponed for Today",
-   "ne": "NC election postponed for Today",
-   "imp": 4,
-   "tags": [
-    "NepaliCongress",
-    "NCElection"
-   ],
-   "cat": "politics",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "दसैँ नजिकिँदै, तातोपानी नाका खुल्ने टुङ्गो छैन",
    "summary": "सिन्धुपाल्चोक, असोज २३ गते । चिनियाँ पक्षले भदौ १५ गतेदेखि एकतर्फी रूपमा बन्द गरेको तातोपानी नाका लामो समय बितिसक्दा पनि कहिले खुल्छ भन्ने निश्चित भएको छैन। नाका खुल्ने टुङ्गो नलाग...",
    "link": "https://gorkhapatraonline.com/news/225997",
@@ -4609,29 +4591,6 @@
    "val": 3,
    "teaser": false,
    "hits": 3
-  },
-  {
-   "title": "कांग्रेस सभापतिका उमेदवार खड्गीले गरे मतदान",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/504335",
-   "source": "Baahrakhari",
-   "ts": 1791513120,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "कांग्रेस सभापतिका उमेदवार खड्गीले गरे मतदान",
-   "en": "कांग्रेस सभापतिका उमेदवार खड्गीले गरे मतदान",
-   "ne": "कांग्रेस सभापतिका उमेदवार खड्गीले गरे मतदान",
-   "imp": 4,
-   "tags": [
-    "NepaliCongress",
-    "GeneralConvention",
-    "Voting"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "मैले एमाले छाडेर हिँड्नु 'ब्लन्डर' भयो",
@@ -5110,7 +5069,7 @@
    "cat": "crime",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "A Month Of Celestial Wonders",
@@ -8735,9 +8694,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "society"
+  },
+  {
+   "ts": 1791519666.6676533,
+   "en": "World Bank estimates $1.66B in physical damage from Nepal floods",
+   "ne": "World Bank estimates $1.66B in physical damage from Nepal floods",
+   "link": "https://telanganatoday.com/world-bank-estimates-1-66-billion-in-physical-damage-from-nepal-floods",
+   "source": "Telangana Today",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "economy"
   }
  ],
- "updated": 1791519053,
+ "updated": 1791519683,
  "pending_since": 1791519048.3506806,
  "fb_blocks": [
   1790350880.4125228,
