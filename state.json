@@ -2363,29 +2363,6 @@
    "hits": 2
   },
   {
-   "title": "रौतहटका तीन युवक ५२ थान नागरिकतासहित हेटौँडाबाट पक्राउ",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/504428",
-   "source": "Baahrakhari",
-   "ts": 1791555084,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "रौतहटका तीन युवक ५२ थान नागरिकतासहित हेटौँडाबाट पक्राउ",
-   "en": "रौतहटका तीन युवक ५२ थान नागरिकतासहित हेटौँडाबाट पक्राउ",
-   "ne": "रौतहटका तीन युवक ५२ थान नागरिकतासहित हेटौँडाबाट पक्राउ",
-   "imp": 3,
-   "tags": [
-    "Rautahat",
-    "Citizenship",
-    "Hetauda"
-   ],
-   "cat": "crime",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Youth Arrested for Looting Gold Necklace from Elderly Woman in Gokarneshwor",
    "summary": "Kathmandu. Police have arrested a youth who looted a gold tilhari from the neck of an elderly woman in Makalbari,...",
    "link": "http://english.ratopati.com/story/83073/elderly-womans-tilhari-robbery-suspect-arrested",
@@ -3086,28 +3063,6 @@
    "val": 3,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "'Tough to stay here': Nepal flood survivors wait for homes",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBkQ0F1UktBaW1XTWF0SmM0bXo3d3BJN0x1Y0xLcGtrWEk3YnlSUFNHLXJfdzR1NHNMSEZLVlNqdDFXbnY0S1V2aHNrWQ?oc=5",
-   "source": "AFP.com",
-   "ts": 1791563397,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "'Tough to stay here': Nepal flood survivors wait for homes",
-   "en": "'Tough to stay here': Nepal flood survivors wait for homes",
-   "ne": "'Tough to stay here': Nepal flood survivors wait for homes",
-   "imp": 4,
-   "tags": [
-    "Flood",
-    "Survivors"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "कर्णालीमा स्थानीय सेवाको शैक्षिक योग्यता संशोधन, पशु चिकित्सकको तहगत व्यवस्था फेरियो",
@@ -6585,9 +6540,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "society"
+  },
+  {
+   "ts": 1791584457.3846526,
+   "en": "Nepal flood survivors live in tents as over 1,400 die and thousands remain missing after glacier collapse",
+   "ne": "Nepal flood survivors live in tents as over 1,400 die and thousands remain missing after glacier collapse",
+   "link": "https://www.afp.com/de/node/3846377",
+   "source": "AFP.com",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "disaster"
   }
  ],
- "updated": 1791583855,
+ "updated": 1791584473,
  "pending_since": 1791582653.7072783,
  "fb_blocks": [
   1790350880.4125228,
