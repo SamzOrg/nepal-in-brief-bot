@@ -2425,7 +2425,8 @@
   "https://baahrakhari.com/detail/504320": 1791504088.0651822,
   "https://gorkhapatraonline.com/news/225971": 1791504088.0651822,
   "https://english.khabarhub.com/2026/09/571255/": 1791504088.0651822,
-  "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdjA3eEZiLVBJeUJISUFLXzJ1cm5oSUJlaW1XbUgxNXgxTUw5S0VnYnNmMmFNaml4WjlRWnA4SnhhNkgwNU5MR1EwdElMczdUMXYwdFJwcGExWlZ5VU4yVXlwSDFXVFAwanJGeXBjaDhLZWJkVENRRDNhTG1kaHdOTE9WN24xY202Njh0MVlfMTRRNExKOTZyU2dGdWpsTUQ4X0dGQ0dIMTBHU0o0N0ZHRzJXb0RMOE5DUDc4U01IdFJ2aUlBdkE?oc=5": 1791504088.0651822
+  "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdjA3eEZiLVBJeUJISUFLXzJ1cm5oSUJlaW1XbUgxNXgxTUw5S0VnYnNmMmFNaml4WjlRWnA4SnhhNkgwNU5MR1EwdElMczdUMXYwdFJwcGExWlZ5VU4yVXlwSDFXVFAwanJGeXBjaDhLZWJkVENRRDNhTG1kaHdOTE9WN24xY202Njh0MVlfMTRRNExKOTZyU2dGdWpsTUQ4X0dGQ0dIMTBHU0o0N0ZHRzJXb0RMOE5DUDc4U01IdFJ2aUlBdkE?oc=5": 1791504088.0651822,
+  "https://risingnepaldaily.com/news/87570": 1791504647.1212912
  },
  "queue": [
   {
@@ -2975,6 +2976,29 @@
    ],
    "cat": "education",
    "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Bhotekoshi flood becomes IPU emergency agenda",
+   "summary": "By A Staff Reporter,Kathmandu, Oct. 9: The devastating Bhotekoshi flood of August 26 has become an emergency motion at t...",
+   "link": "https://risingnepaldaily.com/news/87570",
+   "source": "Rising Nepal",
+   "ts": 1791504308,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "Bhotekoshi flood becomes IPU emergency agenda",
+   "en": "Bhotekoshi flood becomes IPU emergency agenda",
+   "ne": "Bhotekoshi flood becomes IPU emergency agenda",
+   "imp": 3,
+   "tags": [
+    "Bhotekoshi",
+    "Flood",
+    "IPU"
+   ],
+   "cat": "world",
+   "val": 2,
    "teaser": false,
    "hits": 1
   }
@@ -6226,8 +6250,8 @@
    "cat": "society"
   }
  ],
- "updated": 1791504095,
- "pending_since": null,
+ "updated": 1791504651,
+ "pending_since": 1791504647.1212912,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
