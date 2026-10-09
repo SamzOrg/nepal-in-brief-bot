@@ -2422,7 +2422,11 @@
   "https://english.onlinekhabar.com/gold-price-rises-5.html": 1791523869.6223602,
   "https://gorkhapatraonline.com/news/226025": 1791523869.6223602,
   "http://lokaantar.com/story/330855/2026/10/9/nepali-congress": 1791523869.6223602,
-  "https://gorkhapatraonline.com/news/226027": 1791523869.6223602
+  "https://gorkhapatraonline.com/news/226027": 1791523869.6223602,
+  "https://thehimalayantimes.com/nepal/five-killed-14-injured-as-school-bus-plunges-off-road-in-pokhara": 1791524449.2237287,
+  "https://gorkhapatraonline.com/news/226016": 1791524449.2237287,
+  "https://www.setopati.com/sports/football/400418": 1791524449.2237287,
+  "https://nagariknews.nagariknetwork.com/social-affairs/still-restless-families-of-civil-servants-killed-in-floods-50-93.html": 1791524449.2237287
  },
  "queue": [
   {
@@ -3361,28 +3365,6 @@
    ],
    "cat": "culture",
    "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "What we get wrong about 'data'",
-   "summary": "From 1986 citizenship photos to ancestral land records, we treat data like a smartphone problem. It's actually about who controls your story.",
-   "link": "https://kathmandupost.com/columns/2026/10/08/what-we-get-wrong-about-data",
-   "source": "Kathmandu Post",
-   "ts": 1791495648.8524024,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "What we get wrong about 'data'",
-   "en": "What we get wrong about 'data'",
-   "ne": "What we get wrong about 'data'",
-   "imp": 1,
-   "tags": [
-    "Data",
-    "Technology"
-   ],
-   "cat": "tech",
-   "val": 1,
    "teaser": false,
    "hits": 1
   },
@@ -5790,7 +5772,7 @@
    "cat": "culture",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "विशेष महाधिवेशनको पक्ष-विपक्ष नहेरी मतदान गर्न विश्वप्रकाशको आग्रह",
@@ -5927,7 +5909,7 @@
    "cat": "sports",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "Latest News",
@@ -9872,7 +9854,7 @@
    "cat": "crime"
   }
  ],
- "updated": 1791523886,
+ "updated": 1791524454,
  "pending_since": 1791523869.6223602,
  "fb_blocks": [
   1790350880.4125228,
