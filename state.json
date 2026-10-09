@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://kathmandupost.com/national/2026/10/07/dalela-proposed-as-next-india-envoy-to-nepal": 1791387651.607495,
-  "http://lokaantar.com/story/330745/2026/10/7/ukraine-": 1791387651.607495,
   "https://news.google.com/rss/articles/CBMibEFVX3lxTFAzeFpSOVZLZ1FpSGJKNFZhTFJJNjlINkpoWTFKSE54N0x6ekYtdjJPOE5lNkdoa05uWnNDSldiNUpwUGtwSmZ0TkZBV0F1Sk5RR0ZEaDhramQtR3VXN0Z3NS1aQ3puWXV4UXZVOA?oc=5": 1791388256.0921967,
   "https://nagariknews.nagariknetwork.com/politics/supreme-court-issues-interim-order-to-gandaki-government-not-to-make-long-term-decisions-on-trust-vote-dispute-32-26.html": 1791388256.0921967,
   "http://lokaantar.com/story/330746/2026/10/7/modi-": 1791388256.0921967,
@@ -2353,188 +2351,6 @@
  },
  "queue": [
   {
-   "title": "Former Birgunj mayor Sarawagi leaves UML",
-   "summary": "Kathmandu, October 9 Vijay Kumar Sarawagi, former mayor of Birgunj Metropolitan City, has announced that he is leaving the CPN-UML. Sarawagi announced his departure from the UML on Facebook. \"I hereby inform everyone...",
-   "link": "https://english.onlinekhabar.com/former-mayor-sarawagi-leaves-uml.html",
-   "source": "Onlinekhabar EN",
-   "ts": 1791531585,
-   "weight": 3,
-   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/10/Bijakumar-Sarawagi-1024x599-1.jpg",
-   "lang": "en",
-   "hl": "Former Birgunj mayor Sarawagi leaves UML",
-   "en": "Former Birgunj mayor Sarawagi leaves UML",
-   "ne": "Former Birgunj mayor Sarawagi leaves UML",
-   "imp": 3,
-   "tags": [
-    "Birgunj",
-    "UML",
-    "Sarawagi"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Nana Patekar's Five Upcoming Films to Release Posthumously",
-   "summary": "Mumbai. Bollywood veteran actor Nana Patekar has passed away at the age of 75 on Thursday. Although he left this...",
-   "link": "http://english.ratopati.com/story/83031/nana-patekar-has-5-films-yet-to-be-released",
-   "source": "Ratopati EN",
-   "ts": 1791531517,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/nana-patekar_XIe91rupN1.webp",
-   "lang": "en",
-   "hl": "Nana Patekar's Five Upcoming Films to Release Posthumously",
-   "en": "Nana Patekar's Five Upcoming Films to Release Posthumously",
-   "ne": "Nana Patekar's Five Upcoming Films to Release Posthumously",
-   "imp": 1,
-   "tags": [
-    "NanaPatekar",
-    "Bollywood"
-   ],
-   "cat": "culture",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "सात एजेन्डामा नेकपाले गर्दै छ पेरिसडाँडामा छलफल",
-   "summary": "बैठकले महाधिवेशन सम्बन्धमा पनि छलफल र निर्णय गर्नेछ।",
-   "link": "https://www.setopati.com/politics/400428",
-   "source": "Setopati",
-   "ts": 1791531473,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "सात एजेन्डामा नेकपाले गर्दै छ पेरिसडाँडामा छलफल",
-   "en": "सात एजेन्डामा नेकपाले गर्दै छ पेरिसडाँडामा छलफल",
-   "ne": "सात एजेन्डामा नेकपाले गर्दै छ पेरिसडाँडामा छलफल",
-   "imp": 3,
-   "tags": [
-    "CPN",
-    "Parisdanda",
-    "एजेन्डा"
-   ],
-   "cat": "politics",
-   "val": 1,
-   "teaser": true,
-   "hits": 2
-  },
-  {
-   "title": "बाँकेमा बढ्यो डेंगु संक्रमण",
-   "summary": "नेपालगन्ज, असोज २३ गते । भारतसँग सिमाना जोठिएको बाँके जिल्लामा डेंगुको संक्रमण बढ्दै गएको छ । स्वास्थ्य कार्यालय बाँकेका अनुसार हालसम्म जिल्लामा ९० जनामा डेंगुको संक्रमण पुष्टि भएक...",
-   "link": "https://gorkhapatraonline.com/news/226044",
-   "source": "Gorkhapatra",
-   "ts": 1791531357,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/387279/conversions/swsthy-karrylay-banke-original.jpg",
-   "lang": "ne",
-   "hl": "बाँकेमा बढ्यो डेंगु संक्रमण",
-   "en": "बाँकेमा बढ्यो डेंगु संक्रमण",
-   "ne": "बाँकेमा बढ्यो डेंगु संक्रमण",
-   "imp": 3,
-   "tags": [
-    "Banke",
-    "Dengue",
-    "डेंगु"
-   ],
-   "cat": "health",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Three organisations donate over Rs 3.54 million to flood victims",
-   "summary": "KATHMANDU: Three organisations-the Japan Nepal Society (JNS), Tokyo; the JICA Alumni Association of Nepal (JAAN); and the Institution for Suitable Actions for Prosperity (ISAP)-have donated a total of Rs 3,547,536 to...",
-   "link": "https://english.khabarhub.com/2026/09/571312/",
-   "source": "Khabarhub EN",
-   "ts": 1791531317,
-   "weight": 2,
-   "img": "https://english.khabarhub.com/wp-content/uploads/2026/08/rasuwa-bhotekoshi-5-2-400x220.jpg",
-   "lang": "en",
-   "hl": "Three organisations donate over Rs 3.54 million to flood victims",
-   "en": "Three organisations donate over Rs 3.54 million to flood victims",
-   "ne": "Three organisations donate over Rs 3.54 million to flood victims",
-   "imp": 3,
-   "tags": [
-    "FloodVictims",
-    "Donation"
-   ],
-   "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "चार वर्षपछि १०औँ राष्ट्रिय खेलकुदको तयारी: अनलाइनबाटै खेलाडी दर्ता, ७१ करोड बजेट सहमति !",
-   "summary": "विभिन्न कारणले विगतमा पटक-पटक स्थगित हुँदै आएको बृहत् राष्ट्रिय खेलकुद प्रतियोगिताको १०औँ संस्करण अन्ततः मूर्तरूप लिने चरणमा छ । बृहत् राष्ट्रिय खेलकुदलाई घरेलु खेलकुदको मेरुदण्डका रूपमा लिइन्छ ।पछिल्लो समय सरकारले १०औँ...",
-   "link": "http://lokaantar.com/story/330871/2026/10/9/rastriya-khelkud",
-   "source": "Lokaantar",
-   "ts": 1791531300,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "चार वर्षपछि १०औँ राष्ट्रिय खेलकुदको तयारी: अनलाइनबाटै खेलाडी दर्ता, ७१ करोड बजेट सहमति !",
-   "en": "चार वर्षपछि १०औँ राष्ट्रिय खेलकुदको तयारी: अनलाइनबाटै खेलाडी दर्ता, ७१ करोड बजेट सहमति !",
-   "ne": "चार वर्षपछि १०औँ राष्ट्रिय खेलकुदको तयारी: अनलाइनबाटै खेलाडी दर्ता, ७१ करोड बजेट सहमति !",
-   "imp": 3,
-   "tags": [
-    "NationalGames",
-    "Sports",
-    "खेलकुद"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "Biratnagar Kings train in India, practising with Ranji Trophy players",
-   "summary": "Kathmandu, October 9 Biratnagar Kings, preparing for the third edition of the Nepal Premier League (NPL), are training at the Purvanchal Cricket Academy in Uttar Pradesh, India. All players except captain Sandeep...",
-   "link": "https://english.onlinekhabar.com/biratnagar-kings-train-in-india.html",
-   "source": "Onlinekhabar EN",
-   "ts": 1791531128,
-   "weight": 3,
-   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/10/biratnagar-training-india.png",
-   "lang": "en",
-   "hl": "Biratnagar Kings train in India, practising with Ranji Trophy players",
-   "en": "Biratnagar Kings train in India, practising with Ranji Trophy players",
-   "ne": "Biratnagar Kings train in India, practising with Ranji Trophy players",
-   "imp": 2,
-   "tags": [
-    "BiratnagarKings",
-    "Cricket",
-    "India"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "लालबकैया नदीमाथिको निर्माणाधीन पुलको काम धमाधम",
-   "summary": "गोरखापत्र अनलाइनकाठमाडौं, असोज २३ गते । रौतहटको निजगढस्थित लालबकैया नदीमाथि निर्माणाधीन पुल लामो समयको अन्योल र ढिलाइपछि सञ्चालनमा आउने चरणमा पुगेको छ। पुलका सबै ६ वटा स्पानको निर्...",
-   "link": "https://gorkhapatraonline.com/news/226043",
-   "source": "Gorkhapatra",
-   "ts": 1791531152,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/387277/conversions/PUL--original.jpg",
-   "lang": "ne",
-   "hl": "लालबकैया नदीमाथिको निर्माणाधीन पुलको काम धमाधम",
-   "en": "लालबकैया नदीमाथिको निर्माणाधीन पुलको काम धमाधम",
-   "ne": "लालबकैया नदीमाथिको निर्माणाधीन पुलको काम धमाधम",
-   "imp": 2,
-   "tags": [
-    "LalbakaiyaRiver",
-    "Bridge",
-    "लालबकैया"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
    "title": "महाधिवेशनमा युवाको ठूलो आकर्षण देखियो : विश्वप्रकाश शर्मा",
    "summary": "शर्माले अहिलेको महाधिवेशन कुनै एउटा पुस्ताको महाधिवेशन नभई चार-पाँच वटा पुस्ताको सन्तुलन भएकाले गाउँमा खट्ने श्रमिकदेखि बौद्धिक वर्गसम्म सबैलाई जोड्ने प्रयास गरिएको उल्लेख गरे ।",
    "link": "https://baahrakhari.com/detail/504364",
@@ -2762,29 +2578,6 @@
    "val": 2,
    "teaser": true,
    "hits": 2
-  },
-  {
-   "title": "खाद्यको सहुलियत बिक्री केन्द्रमा उपभोक्ता आकर्षित",
-   "summary": "चाडपर्वलाई लक्षित गरी खाद्य व्यवस्था तथा व्यापार कम्पनी लिमिटेडको नेपालगञ्जस्थित मुख्य शाखा कार्यालयले सञ्चालन गरेको सहुलियत बिक्री केन्द्रमा उपभोक्ता आकर्षित भएका छन्।...",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/consumers-attracted-to-food-concession-centers-81-83.html",
-   "source": "Nagarik News",
-   "ts": 1791531568,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1791531554_New%20Project%20(11).jpg",
-   "lang": "ne",
-   "hl": "खाद्यको सहुलियत बिक्री केन्द्रमा उपभोक्ता आकर्षित",
-   "en": "खाद्यको सहुलियत बिक्री केन्द्रमा उपभोक्ता आकर्षित",
-   "ne": "खाद्यको सहुलियत बिक्री केन्द्रमा उपभोक्ता आकर्षित",
-   "imp": 2,
-   "tags": [
-    "FoodManagement",
-    "Dashain",
-    "Khadya"
-   ],
-   "cat": "economy",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
   },
   {
    "title": "तनहुमा बाढीपहिरोले आठ झोलुङ्गे र पाँच पक्की पुलमा क्षति",
@@ -7433,30 +7226,6 @@
    "hits": 1
   },
   {
-   "title": "बसले मोटरसाइकललाई ठक्कर दिँदा सरकारी कर्मचारीको मृत्यु",
-   "summary": "",
-   "link": "https://www.setopati.com/social/400486",
-   "source": "Setopati",
-   "ts": 1791558707,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "बसले मोटरसाइकललाई ठक्कर दिँदा सरकारी कर्मचारीको मृत्यु",
-   "en": "बसले मोटरसाइकललाई ठक्कर दिँदा सरकारी कर्मचारीको मृत्यु",
-   "ne": "बसले मोटरसाइकललाई ठक्कर दिँदा सरकारी कर्मचारीको मृत्यु",
-   "imp": 4,
-   "tags": [
-    "Accident",
-    "GovernmentEmployee",
-    "Nepal",
-    "दुर्घटना"
-   ],
-   "cat": "crime",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Youth Arrested for Looting Gold Necklace from Elderly Woman in Gokarneshwor",
    "summary": "Kathmandu. Police have arrested a youth who looted a gold tilhari from the neck of an elderly woman in Makalbari,...",
    "link": "http://english.ratopati.com/story/83073/elderly-womans-tilhari-robbery-suspect-arrested",
@@ -7618,29 +7387,6 @@
    "hits": 1
   },
   {
-   "title": "India A tour of Nepal, 2026 Schedule (Dec 9 to Dec 13), Results & Match Updateds - myKhel.com",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVjNObzBVa1pfdDB4NjltQURlZjh0NlhLY1pzLXB0Wkg1YjNwM0JGTXZmSkFhREhlMmpqMkV6ckswcThndk14RFVZYzlXeXRwVks0TW1raTNkQUV4WUJiLUpndzhFbDBwY3ZvV2JIV1FwcW9aMmxNZDRtNkl4c2c2a1pnYWxIUDcxcGp0czdleXNWVzg?oc=5",
-   "source": "myKhel malayalam",
-   "ts": 1791531343,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "India A tour of Nepal, 2026 Schedule (Dec 9 to Dec 13), Results & Match Updateds - myKhel.com",
-   "en": "India A tour of Nepal, 2026 Schedule (Dec 9 to Dec 13), Results & Match Updateds - myKhel.com",
-   "ne": "India A tour of Nepal, 2026 Schedule (Dec 9 to Dec 13), Results & Match Updateds - myKhel.com",
-   "imp": 2,
-   "tags": [
-    "IndiaATour",
-    "Cricket",
-    "NepalCricket"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Congress's Transformation: Rhetoric vs. Reality",
    "summary": "With the slogan 'We changed Congress, we will change the country,' the Nepali Congress's general convention is currently underway in...",
    "link": "http://english.ratopati.com/story/83072/who-is-new-congress-or-gagan",
@@ -7726,29 +7472,6 @@
     "TransportMinistry",
     "FederalGovernment",
     "यातायात"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "President Paudel issues ordinance to amend disaster-related laws",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTk4zTExyc2kyRThpcnhVNDVadTFXaU1kWHExX3FPOWRlN3l3a1J0MVI3U04tbG44RzVEaTJ6TkJhSmdnM3pMajl5RkdkTDZoNDRnSFg1X29rSmQyVWh1M0pwYnQ5S2hWNHBsNHh3ZVhuNlFkV0psYlBaWWJ1dGd0QWg2M2lwUnVxX0hmUVlTbE5SVTYwbk5MT01nMFA5emhOR0ZqM1F5ZzZ5VzZQQl9DamVyRzViZWN4bEJj?oc=5",
-   "source": "myRepublica",
-   "ts": 1791555666,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "President Paudel issues ordinance to amend disaster-related laws",
-   "en": "President Paudel issues ordinance to amend disaster-related laws",
-   "ne": "President Paudel issues ordinance to amend disaster-related laws",
-   "imp": 4,
-   "tags": [
-    "PresidentPaudel",
-    "Ordinance",
-    "DisasterManagement"
    ],
    "cat": "politics",
    "val": 3,
@@ -11117,9 +10840,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "sports"
+  },
+  {
+   "ts": 1791560458.7796652,
+   "en": "President Paudel issues ordinance to amend disaster-related laws",
+   "ne": "President Paudel issues ordinance to amend disaster-related laws",
+   "link": "https://myrepublica.nagariknetwork.com/news/president-paudel-issues-ordinance-to-amend-disaster-related-laws-17-26.html",
+   "source": "myRepublica",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "politics"
   }
  ],
- "updated": 1791559885,
+ "updated": 1791560475,
  "pending_since": 1791559877.4555023,
  "fb_blocks": [
   1790350880.4125228,
