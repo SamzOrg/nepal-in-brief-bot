@@ -2400,32 +2400,13 @@
   "https://kathmandupost.com/world/2026/10/09/why-india-s-tens-of-millions-of-voter-deletions-have-led-to-widespread-protests": 1791537053.4620447,
   "https://www.setopati.com/art/bollywood/400434": 1791537053.4620447,
   "https://english.khabarhub.com/2026/09/571321/": 1791537053.4620447,
-  "https://www.setopati.com/politics/400433": 1791537053.4620447
+  "https://www.setopati.com/politics/400433": 1791537053.4620447,
+  "http://english.ratopati.com/story/83043/disaster-prone-areas-added-to-local-levels-with-list": 1791537649.5492775,
+  "https://english.khabarhub.com/2026/09/571332/": 1791537649.5492775,
+  "https://english.onlinekhabar.com/govt-declares-flood-hit-areas-in-6-districts-disaster-zones.html": 1791537649.5492775,
+  "https://kathmandupost.com/world/2026/10/09/navanethem-navi-pillay-wins-2026-nobel-peace-prize": 1791537649.5492775
  },
  "queue": [
-  {
-   "title": "रुसी बम आक्रमणमा युक्रेनमा ३० जनाको मृत्यु",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/504325",
-   "source": "Baahrakhari",
-   "ts": 1791508332,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "रुसी बम आक्रमणमा युक्रेनमा ३० जनाको मृत्यु",
-   "en": "रुसी बम आक्रमणमा युक्रेनमा ३० जनाको मृत्यु",
-   "ne": "रुसी बम आक्रमणमा युक्रेनमा ३० जनाको मृत्यु",
-   "imp": 1,
-   "tags": [
-    "Russia",
-    "Ukraine",
-    "Airstrike"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
   {
    "title": "Adopt Rational Development Agenda",
    "summary": "Our development track record is more a matter of execution than ideas. Nepal has not succeeded in terms of economic grow...",
@@ -2472,29 +2453,6 @@
    "hits": 1
   },
   {
-   "title": "France's student protests are echoing 1968 - but the politics are very different",
-   "summary": "The student demonstrations that have spread across France in recent weeks are not unprecedented. Indeed, commentators have been quick to point to comparisons with the events of May and June 1968, where, at their peak,...",
-   "link": "https://english.onlinekhabar.com/french-student-protests.html",
-   "source": "Onlinekhabar EN",
-   "ts": 1791508500,
-   "weight": 3,
-   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/10/877553-01-02-1024x683.jpg",
-   "lang": "en",
-   "hl": "France's student protests are echoing 1968 - but the politics are very different",
-   "en": "France's student protests are echoing 1968 - but the politics are very different",
-   "ne": "France's student protests are echoing 1968 - but the politics are very different",
-   "imp": 1,
-   "tags": [
-    "France",
-    "StudentProtests",
-    "World"
-   ],
-   "cat": "world",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "'कय्ता तंम्ह नेवाः' प्रथम",
    "summary": "गोरखापत्र समाचारदाताकाठमाडौँ, असोज २३ गते । उपत्यकाव्यापी हास्यव्यङ्ग्य रङ्गमञ्च प्रतियोगितामा 'कय्ता तंम्ह नेवाः' (काँस हराएको नेवार) नाटकले प्रथम स्थान हासिल गरेको छ । मुनासःको आ...",
    "link": "https://gorkhapatraonline.com/news/225986",
@@ -2514,29 +2472,6 @@
    ],
    "cat": "culture",
    "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Koshi Province Public Service Commission's Arbitrary Actions Lead to Promotion Recommendations Based on Quashed Advertisements",
-   "summary": "Biratnagar. It has been found that the Koshi Province government has recommended promotions for employees based on advertisements that the...",
-   "link": "http://english.ratopati.com/story/82956/employee-promotion-recommendation-based-on-an-advertisement-that-was-invalidated-by-the-court",
-   "source": "Ratopati EN",
-   "ts": 1791508590,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/kishi_zLItHt5lfB.webp",
-   "lang": "en",
-   "hl": "Koshi Province Public Service Commission's Arbitrary Actions Lead to Promotion Recommendations Based on Quashed Advertisements",
-   "en": "Koshi Province Public Service Commission's Arbitrary Actions Lead to Promotion Recommendations Based on Quashed Advertisements",
-   "ne": "Koshi Province Public Service Commission's Arbitrary Actions Lead to Promotion Recommendations Based on Quashed Advertisements",
-   "imp": 3,
-   "tags": [
-    "KoshiProvince",
-    "PublicService",
-    "Promotion"
-   ],
-   "cat": "politics",
-   "val": 3,
    "teaser": false,
    "hits": 1
   },
@@ -2561,52 +2496,6 @@
    "cat": "economy",
    "val": 3,
    "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "चाडपर्व खर्च अनिवार्य उपलब्ध गराउन निर्देशन",
-   "summary": "गोरखापत्र समाचारदाता काठमाडौँ, असोज २३ गते । श्रम तथा व्यवसायजन्य सुरक्षा विभागले श्रमिकलाई अनिवार्य रूपमा 'चाडपर्व खर्च' उपलब्ध गराउन सबै रोजगारदाता तथा प्रतिष्ठानलाई निर्देशन दिए...",
-   "link": "https://gorkhapatraonline.com/news/225984",
-   "source": "Gorkhapatra",
-   "ts": 1791508595,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/387209/conversions/saram_e1GL4A95iy-original.jpg",
-   "lang": "ne",
-   "hl": "चाडपर्व खर्च अनिवार्य उपलब्ध गराउन निर्देशन",
-   "en": "चाडपर्व खर्च अनिवार्य उपलब्ध गराउन निर्देशन",
-   "ne": "चाडपर्व खर्च अनिवार्य उपलब्ध गराउन निर्देशन",
-   "imp": 3,
-   "tags": [
-    "Govt",
-    "FestivalExpense",
-    "चाडपर्व"
-   ],
-   "cat": "politics",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "'साझा राष्ट्रिय सङ्कल्पबाट समृद्धि'",
-   "summary": "गोरखापत्र समाचारदाताकाठमाडौँ, असोज २३ गते । राष्ट्रपति रामचन्द्र पौडेलले मुलुकको समृद्धि सरकार वा कुनै एक क्षेत्रको मात्र प्रयासबाट सम्भव नहुने बताउनुभएको छ । राज्य, निजी क्षेत्र र...",
-   "link": "https://gorkhapatraonline.com/news/225983",
-   "source": "Gorkhapatra",
-   "ts": 1791508359,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/387208/conversions/PHOTO-2026-10-08-11-40-58-original.jpg",
-   "lang": "ne",
-   "hl": "'साझा राष्ट्रिय सङ्कल्पबाट समृद्धि'",
-   "en": "'साझा राष्ट्रिय सङ्कल्पबाट समृद्धि'",
-   "ne": "'साझा राष्ट्रिय सङ्कल्पबाट समृद्धि'",
-   "imp": 3,
-   "tags": [
-    "NationalResolution",
-    "Prosperity",
-    "सङ्कल्प"
-   ],
-   "cat": "politics",
-   "val": 2,
-   "teaser": true,
    "hits": 1
   },
   {
@@ -7051,7 +6940,7 @@
    "cat": "society",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "कृषियन्त्र पुर्‍याउन नसक्दा किसानलाई सास्ती",
@@ -8840,41 +8729,52 @@
    "hits": 1
   },
   {
-   "title": "NC General Convention: Voting extended until 5 pm",
-   "summary": "KATHMANDU: The voting time for the election of the new Central Working Committee of the Nepali Congress (NC), being held as part of the party's 15th General Convention in Kathmandu, has been extended until 5 pm on...",
-   "link": "https://english.khabarhub.com/2026/09/571321/",
-   "source": "Khabarhub EN",
-   "ts": 1791536330,
-   "weight": 2,
-   "img": "https://english.khabarhub.com/wp-content/uploads/2026/10/Nepali-Congress-voting-400x220.jpg",
+   "title": "Govt declares flood-hit areas in 6 districts disaster zones",
+   "summary": "Kathmandu, October 9 The government has declared local governments affected by floods and landslides between Asoj 8 and 11 as disaster-hit areas. The Ministry of Home Affairs published a notice in the Nepal Gazette...",
+   "link": "https://english.onlinekhabar.com/govt-declares-flood-hit-areas-in-6-districts-disaster-zones.html",
+   "source": "Onlinekhabar EN",
+   "ts": 1791537587,
+   "weight": 3,
+   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/10/manang-1024x500-1.jpg",
    "lang": "en",
-   "hl": "NC General Convention: Voting extended until 5 pm",
-   "en": "NC General Convention: Voting extended until 5 pm",
-   "ne": "NC General Convention: Voting extended until 5 pm",
+   "hl": "Govt declares flood-hit areas in 6 districts disaster zones",
+   "en": "Govt declares flood-hit areas in 6 districts disaster zones",
+   "ne": "Govt declares flood-hit areas in 6 districts disaster zones",
    "imp": 4,
    "tags": [
-    "NCGeneralConvention",
-    "Voting",
-    "NepaliCongress"
+    "Govt",
+    "Flood",
+    "Nepal"
    ],
-   "cat": "politics",
+   "cat": "disaster",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 1
+  },
+  {
+   "title": "Navanethem \"Navi\" Pillay wins 2026 Nobel Peace Prize",
+   "summary": "The peace prize is the fifth Nobel awarded this week, after literature, chemistry, physics and medicine. Venezuelan opposition leader Maria Corina Machado won in 2025.",
+   "link": "https://kathmandupost.com/world/2026/10/09/navanethem-navi-pillay-wins-2026-nobel-peace-prize",
+   "source": "Kathmandu Post",
+   "ts": 1791523250.4985516,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "Navanethem \"Navi\" Pillay wins 2026 Nobel Peace Prize",
+   "en": "Navanethem \"Navi\" Pillay wins 2026 Nobel Peace Prize",
+   "ne": "Navanethem \"Navi\" Pillay wins 2026 Nobel Peace Prize",
+   "imp": 1,
+   "tags": [
+    "NobelPeacePrize",
+    "NavanethemPillay"
+   ],
+   "cat": "world",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1790932259.7801955,
-   "en": "NCP Deputy Leader Hamal Accuses Gov't of Authoritarianism and Ignoring Parliament",
-   "ne": "NCP Deputy Leader Hamal Accuses Gov't of Authoritarianism and Ignoring Parliament",
-   "link": "http://english.ratopati.com/story/81949/ncp-alleges-that-the-government-is-extremely-indifferent-towards-the-parliament-and-is-moving-towards-an-autocratic-direction",
-   "source": "Ratopati EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "politics"
-  },
   {
    "ts": 1790934058.7438116,
    "en": "प्रधानमन्त्रीको अभिव्यक्ति फिर्ता लिन सांसद मदनकुमारी शाहको माग",
@@ -12075,10 +11975,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "disaster"
+  },
+  {
+   "ts": 1791537655.4443347,
+   "en": "NC Extends 15th General Convention Voting Until 5 PM in Kathmandu",
+   "ne": "NC Extends 15th General Convention Voting Until 5 PM in Kathmandu",
+   "link": "https://english.khabarhub.com/2026/09/571321/",
+   "source": "Khabarhub EN",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "politics"
   }
  ],
- "updated": 1791537059,
- "pending_since": null,
+ "updated": 1791537667,
+ "pending_since": 1791537649.5492775,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
