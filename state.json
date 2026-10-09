@@ -2348,7 +2348,9 @@
   "https://nagariknews.nagariknetwork.com/social-affairs/suryabinayak-woman-s-experience-domestic-disputes-decreased-after-she-started-earning-29-11.html": 1791557452.9654,
   "https://nagariknews.nagariknetwork.com/international/riyadh-airport-reopens-after-three-people-including-pilot-die-71-91.html": 1791557452.9654,
   "https://nagariknews.nagariknetwork.com/politics/bista-appointed-as-chief-advocate-of-sudurpaschim-78-18.html": 1791558095.5133111,
-  "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8ybG9fRkN4YmlfVmlqekhnQjM5WnREcnkzWUo1ajNpTXlfTGpHNXltV3JycGJJMUlUTmpQeEhYUVl1MlFfUEN6RVdQa09XYlNyd0dIRm93?oc=5": 1791558095.5133111
+  "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8ybG9fRkN4YmlfVmlqekhnQjM5WnREcnkzWUo1ajNpTXlfTGpHNXltV3JycGJJMUlUTmpQeEhYUVl1MlFfUEN6RVdQa09XYlNyd0dIRm93?oc=5": 1791558095.5133111,
+  "https://english.onlinekhabar.com/banshiraj-dahal-dismissed.html": 1791558656.1248062,
+  "https://kathmandupost.com/national/2026/10/09/armed-police-force-aig-banshiraj-dahal-dismissed": 1791558656.1248062
  },
  "queue": [
   {
@@ -2419,29 +2421,6 @@
    "val": 3,
    "teaser": false,
    "hits": 5
-  },
-  {
-   "title": "नियामकसँग अब फिनटेक कम्पनीहरूको पहुँच पुग्नेछ- डेपुटी गभर्नर",
-   "summary": "राष्ट्र बैंकले डिजिटल फाइनान्सिङ हब बनाइरहेको र अबका दिनमा हरेक वर्ष 'रेगुलेटर फिनटेक सोकेस' समेत आयोजना गर्ने तयारी भइरहेको उनले जानकारी दिए।",
-   "link": "https://www.setopati.com/kinmel/banking/400427",
-   "source": "Setopati",
-   "ts": 1791529424,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "नियामकसँग अब फिनटेक कम्पनीहरूको पहुँच पुग्नेछ- डेपुटी गभर्नर",
-   "en": "नियामकसँग अब फिनटेक कम्पनीहरूको पहुँच पुग्नेछ- डेपुटी गभर्नर",
-   "ne": "नियामकसँग अब फिनटेक कम्पनीहरूको पहुँच पुग्नेछ- डेपुटी गभर्नर",
-   "imp": 2,
-   "tags": [
-    "Fintech",
-    "NepalRastraBank",
-    "फिनटेक"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
   },
   {
    "title": "MPs cannot intimidate or threaten state institutions, Bartaula says",
@@ -2529,29 +2508,6 @@
     "Kathmandu",
     "ElectricStoves",
     "विद्यार्थी"
-   ],
-   "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "हिल्सा नाका बन्द हुँदा सीमा क्षेत्रका नेपाली प्रभावित",
-   "summary": "चीनसँगको सीमानाका हिल्सा लामो समयदेखि बन्द हुँदा सीमा क्षेत्रमा रहेका नेपाली नागरिक तथा सुरक्षाकर्मीले खाद्यान्न, खानेपानीदेखि स्वास्थ्य उपचारसम्मको चरम अभाव झेल्नुपरेको छ।...",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/nepalis-in-border-areas-affected-by-hilsa-border-closure-94-81.html",
-   "source": "Nagarik News",
-   "ts": 1791529514,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1791529495_1608018957_hilsa%20naka-1200x560.jpg",
-   "lang": "ne",
-   "hl": "हिल्सा नाका बन्द हुँदा सीमा क्षेत्रका नेपाली प्रभावित",
-   "en": "हिल्सा नाका बन्द हुँदा सीमा क्षेत्रका नेपाली प्रभावित",
-   "ne": "हिल्सा नाका बन्द हुँदा सीमा क्षेत्रका नेपाली प्रभावित",
-   "imp": 2,
-   "tags": [
-    "HilsaBorder",
-    "Trade",
-    "नाका"
    ],
    "cat": "society",
    "val": 3,
@@ -7550,29 +7506,6 @@
    "hits": 1
   },
   {
-   "title": "Nepal government approves World Bank earthquake cat bond mandate agreement",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQnJ5Vk9nN2NuR1pGY195ZjhNVUowZzRhbzJ6dEtvVC1tbUlEb2FPcDNDS2p0di1TSGVBbXBGS1BVUWExMmNCUTg2QVYxY0hmZlJWTl8zRUZRaFJGbGg2akYtanFqUHZvclduWl9mQzJCZ1ZSSVJrdFZZQ0EyelFId2RDQUs5aWNlV3pCaFVoaUZ0TURQSW1ld2t6QUtlZG1DRjVWc2xR?oc=5",
-   "source": "Artemis.bm",
-   "ts": 1791555687,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Nepal government approves World Bank earthquake cat bond mandate agreement",
-   "en": "Nepal government approves World Bank earthquake cat bond mandate agreement",
-   "ne": "Nepal government approves World Bank earthquake cat bond mandate agreement",
-   "imp": 4,
-   "tags": [
-    "WorldBank",
-    "Earthquake",
-    "NepalGovernment"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Storms and heavy rain devastate crops across western Nepal",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSkVXSFREUFFNODJrX0lVU1gtVzFqazJhU3VwQzF2NHZmN3ZiVG00UFowVnhYRW5zSWxQTW1HZE1iRUplWldLSVNWdFJzS2VYSFo3T19jcWlBclJPbkdNdXlJV0p3aWZaN2xTMkZzNGVVMnNnNTE1LW5NbWdQWVRwV25SQlJnRmJjcFRlM3dSdm0zMUNhTTFiTHFkUU5YV2g4V0FR?oc=5",
@@ -7640,29 +7573,6 @@
    "val": 3,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "Nepal out of top-four race in ICC Cricket World Cup League 2",
-   "summary": "Kathmandu, October 9 Nepal are guaranteed to finish outside the top four in the ICC Cricket World Cup League 2 after Oman defeated Canada on Friday, ending their hopes of qualifying directly for the Cricket World Cup...",
-   "link": "https://english.onlinekhabar.com/nepal-out-top-four-race-lague-2.html",
-   "source": "Onlinekhabar EN",
-   "ts": 1791555050,
-   "weight": 3,
-   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/10/Nepal-Cricket-team.png",
-   "lang": "en",
-   "hl": "Nepal out of top-four race in ICC Cricket World Cup League 2",
-   "en": "Nepal out of top-four race in ICC Cricket World Cup League 2",
-   "ne": "Nepal out of top-four race in ICC Cricket World Cup League 2",
-   "imp": 4,
-   "tags": [
-    "Cricket",
-    "ICCLink",
-    "WorldCup"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "Nepali products need better branding and market expansion, says commerce leader",
@@ -11208,9 +11118,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "sports"
+  },
+  {
+   "ts": 1791558665.6289551,
+   "en": "Nepal out of top-four race in ICC Cricket World Cup League 2",
+   "ne": "Nepal out of top-four race in ICC Cricket World Cup League 2",
+   "link": "https://english.onlinekhabar.com/nepal-out-top-four-race-lague-2.html",
+   "source": "Onlinekhabar EN",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "sports"
   }
  ],
- "updated": 1791558099,
+ "updated": 1791558683,
  "pending_since": 1791557452.9654,
  "fb_blocks": [
   1790350880.4125228,
