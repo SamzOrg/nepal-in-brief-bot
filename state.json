@@ -2432,7 +2432,9 @@
   "https://gorkhapatraonline.com/news/226008": 1791520268.9014814,
   "http://english.ratopati.com/story/82978/medical-college-administrators-pressure-government-to-reconsider-seats-and-fees": 1791520268.9014814,
   "https://gorkhapatraonline.com/news/226007": 1791520268.9014814,
-  "http://english.ratopati.com/story/82977/presidential-candidate-shyam-krishna-khadki-casts-his-vote": 1791520268.9014814
+  "http://english.ratopati.com/story/82977/presidential-candidate-shyam-krishna-khadki-casts-his-vote": 1791520268.9014814,
+  "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSXlsbDF2QUNObHd3SkFrVjI2dnN1UGgxdmRqc1EwdGpuUUlOVXNVOTZlTFRCY0ZZYTVrNTJUUGZCbWxLTks4aDVrd0taalVUNzlRUkl6Y25SNm9xSFFrS2xBTVNjNUlnQU1XTGw0cGdHbVZHUFdFOEF5QkphNDVFb0tmWlo0aDhGN2J1VXVES25tekJBamlsVEtzMGRIVTVHaGVMYTJHT1E0ZksxcHR3?oc=5": 1791520848.6495762,
+  "https://www.setopati.com/social/400404": 1791520848.6495762
  },
  "queue": [
   {
@@ -5659,7 +5661,7 @@
    "cat": "sports",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Nepal Election Commission delegation in meeting with EC",
@@ -5869,17 +5871,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1790915483.810661,
-   "en": "कैलालीको गौरीगंगामा बाघको आक्रमणबाट ३८ वर्षीय पुरुषको मृत्यु",
-   "ne": "कैलालीको गौरीगंगामा बाघको आक्रमणबाट ३८ वर्षीय पुरुषको मृत्यु",
-   "link": "https://gorkhapatraonline.com/news/225125",
-   "source": "Gorkhapatra",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": true,
-   "cat": "disaster"
-  },
   {
    "ts": 1790916052.6006851,
    "en": "Gurkhas Give UK Government December 31 Ultimatum Over Equal Rights",
@@ -9093,7 +9084,7 @@
    "cat": "economy"
   }
  ],
- "updated": 1791520275,
+ "updated": 1791520855,
  "pending_since": 1791520268.9014814,
  "fb_blocks": [
   1790350880.4125228,
