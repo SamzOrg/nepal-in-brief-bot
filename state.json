@@ -2421,7 +2421,10 @@
   "http://lokaantar.com/story/330833/2026/10/9/beni-jomsom-": 1791508274.0375793,
   "https://nagariknews.nagariknetwork.com/arts/the-love-that-lived-with-lamjung-durbar-br-83-67.html": 1791508274.0375793,
   "https://gorkhapatraonline.com/news/225978": 1791508274.0375793,
-  "https://gorkhapatraonline.com/news/225977": 1791508274.0375793
+  "https://gorkhapatraonline.com/news/225977": 1791508274.0375793,
+  "https://nagariknews.nagariknetwork.com/Aparadh/youth-arrested-for-online-betting-and-crypto-trading-worth-over-rs-33-8-million-93-15.html": 1791508845.699585,
+  "https://nagariknews.nagariknetwork.com/Aparadh/old-rishibai-incident-one-dead-one-seriously-injured-in-stabbing-22-12.html": 1791508845.699585,
+  "https://baahrakhari.com/detail/504325": 1791508845.699585
  },
  "queue": [
   {
@@ -2444,7 +2447,7 @@
    "cat": "crime",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "लापसे गरी सवारी चलाउने पाँच चालक कारबाहीमा",
@@ -2626,29 +2629,6 @@
     "Arrest"
    ],
    "cat": "crime",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Nepal-Oman Bilateral Consultation meeting concludes",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1GcjIxWl96ZWJSdGo1azBTOFkzWmhqR1o0R0VxSnk2bkZtRXBTU3FYY3FUNC04TnVxR0p1OW5XdWQ3RXNCTWtiX01CSHVob29jM3pmZG44Yw?oc=5",
-   "source": "The Annapurna Express",
-   "ts": 1791481470,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Nepal-Oman Bilateral Consultation meeting concludes",
-   "en": "Nepal-Oman Bilateral Consultation meeting concludes",
-   "ne": "Nepal-Oman Bilateral Consultation meeting concludes",
-   "imp": 3,
-   "tags": [
-    "Nepal",
-    "Oman",
-    "BilateralConsultation"
-   ],
-   "cat": "world",
    "val": 3,
    "teaser": false,
    "hits": 2
@@ -3014,29 +2994,6 @@
     "Rain"
    ],
    "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Advance bus ticket booking opens ahead of festival season",
-   "summary": "KATHMANDU: Advance ticket booking for long- and medium-distance buses has opened today (Friday) to facilitate travel during the upcoming festival season, according to the Federation of Nepalese National Transport...",
-   "link": "https://english.khabarhub.com/2026/09/571259/",
-   "source": "Khabarhub EN",
-   "ts": 1791505517,
-   "weight": 2,
-   "img": "https://english.khabarhub.com/wp-content/uploads/2025/09/Bus-Park-Gongabu-400x220.jpg",
-   "lang": "en",
-   "hl": "Advance bus ticket booking opens ahead of festival season",
-   "en": "Advance bus ticket booking opens ahead of festival season",
-   "ne": "Advance bus ticket booking opens ahead of festival season",
-   "imp": 4,
-   "tags": [
-    "Dashain",
-    "BusTickets",
-    "Travel"
-   ],
-   "cat": "society",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -3507,28 +3464,6 @@
    "hits": 1
   },
   {
-   "title": "Nepali Congress 15th General Convention: Voting Underway for New Central Working Committee",
-   "summary": "Kathmandu. Voters have been lining up since early morning for the voting to elect the new central working committee in...",
-   "link": "http://english.ratopati.com/story/82953/voters-in-line-since-morning-voting-from-7-am-preparations-to-begin-counting-today",
-   "source": "Ratopati EN",
-   "ts": 1791506548,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/nepali-congress-election-publicity_KV3a882pFV.webp",
-   "lang": "en",
-   "hl": "Nepali Congress 15th General Convention: Voting Underway for New Central Working Committee",
-   "en": "Nepali Congress 15th General Convention: Voting Underway for New Central Working Committee",
-   "ne": "Nepali Congress 15th General Convention: Voting Underway for New Central Working Committee",
-   "imp": 4,
-   "tags": [
-    "NepaliCongress",
-    "GeneralConvention"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "CAS to rule on Senegal-Morocco title",
    "summary": "London, Oct. 9: Senegal and Morocco played a chaotic Africa Cup of Nations final in January and they contested the title...",
    "link": "https://risingnepaldaily.com/news/87575",
@@ -3679,6 +3614,29 @@
    ],
    "cat": "politics",
    "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "रुसी बम आक्रमणमा युक्रेनमा ३० जनाको मृत्यु",
+   "summary": "",
+   "link": "https://baahrakhari.com/detail/504325",
+   "source": "Baahrakhari",
+   "ts": 1791508332,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "रुसी बम आक्रमणमा युक्रेनमा ३० जनाको मृत्यु",
+   "en": "रुसी बम आक्रमणमा युक्रेनमा ३० जनाको मृत्यु",
+   "ne": "रुसी बम आक्रमणमा युक्रेनमा ३० जनाको मृत्यु",
+   "imp": 1,
+   "tags": [
+    "Russia",
+    "Ukraine",
+    "Airstrike"
+   ],
+   "cat": "world",
+   "val": 3,
    "teaser": false,
    "hits": 1
   }
@@ -6917,10 +6875,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "disaster"
+  },
+  {
+   "ts": 1791508853.1742241,
+   "en": "Nepal and Oman conclude second bilateral consultation meeting in Kathmandu",
+   "ne": "Nepal and Oman conclude second bilateral consultation meeting in Kathmandu",
+   "link": "https://theannapurnaexpress.com/story/67772/",
+   "source": "The Annapurna Express",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "world"
   }
  ],
- "updated": 1791508286,
- "pending_since": null,
+ "updated": 1791508865,
+ "pending_since": 1791508845.699585,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
