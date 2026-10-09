@@ -1,8 +1,5 @@
 {
  "seen": {
-  "https://english.onlinekhabar.com/messi-bids-farewell-argentina.html": 1791345685.203574,
-  "https://gorkhapatraonline.com/news/225717": 1791345685.203574,
-  "https://kathmandupost.com/national/2026/10/07/flood-hit-districts-remain-cut-off-from-national-road-network": 1791345685.203574,
   "https://english.khabarhub.com/2026/07/571009/": 1791346252.7219124,
   "http://english.ratopati.com/story/82673/messis-emotional-farewell-in-the-last-tango-ending-a-21-year-international-journey": 1791346252.7219124,
   "https://english.khabarhub.com/2026/07/571005/": 1791346252.7219124,
@@ -2431,7 +2428,11 @@
   "http://lokaantar.com/story/330847/2026/10/9/samsung-": 1791518483.1971428,
   "http://english.ratopati.com/story/82973/ncp-coordination-committee-meeting-underway": 1791518483.1971428,
   "https://risingnepaldaily.com/news/87581": 1791518483.1971428,
-  "https://nagariknews.nagariknetwork.com/sports/infantino-s-re-election-as-fifa-president-looks-likely-94-72.html": 1791518483.1971428
+  "https://nagariknews.nagariknetwork.com/sports/infantino-s-re-election-as-fifa-president-looks-likely-94-72.html": 1791518483.1971428,
+  "https://risingnepaldaily.com/news/87584": 1791519048.3506806,
+  "https://risingnepaldaily.com/news/87592": 1791519048.3506806,
+  "https://theannapurnaexpress.com/story/67780": 1791519048.3506806,
+  "https://nagariknews.nagariknetwork.com/social-affairs/reconstruction-process-begins-for-public-structures-damaged-by-floods-52-14.html": 1791519048.3506806
  },
  "queue": [
   {
@@ -5497,20 +5498,32 @@
    "val": 3,
    "teaser": true,
    "hits": 1
+  },
+  {
+   "title": "बाढीबाट क्षतिग्रस्त सार्वजनिक संरचनामाको पुनर्निर्माण प्रक्रिया प्रारम्भ",
+   "summary": "हालैको बाढीबाट सार्वजनिक संरचनामा व्यापक क्षति भएको छ। क्षतिग्रस्त संरचनाको पुनःनिर्माणको प्रक्रिया पनि सम्बन्धित निकायले प्रारम्भ गरेका छन्।...",
+   "link": "https://nagariknews.nagariknetwork.com/social-affairs/reconstruction-process-begins-for-public-structures-damaged-by-floods-52-14.html",
+   "source": "Nagarik News",
+   "ts": 1791518546,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2025/third-party/1791518533_Tanahau.jpg",
+   "lang": "ne",
+   "hl": "बाढीबाट क्षतिग्रस्त सार्वजनिक संरचनामाको पुनर्निर्माण प्रक्रिया प्रारम्भ",
+   "en": "बाढीबाट क्षतिग्रस्त सार्वजनिक संरचनामाको पुनर्निर्माण प्रक्रिया प्रारम्भ",
+   "ne": "बाढीबाट क्षतिग्रस्त सार्वजनिक संरचनामाको पुनर्निर्माण प्रक्रिया प्रारम्भ",
+   "imp": 3,
+   "tags": [
+    "Flood",
+    "Reconstruction",
+    "बाढी"
+   ],
+   "cat": "disaster",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1790913690.0118754,
-   "en": "Nepali Congress prepares for 15th general convention after eight decades",
-   "ne": "Nepali Congress prepares for 15th general convention after eight decades",
-   "link": "https://english.onlinekhabar.com/nepali-congress-reflection-transition.html",
-   "source": "Onlinekhabar EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "politics"
-  },
   {
    "ts": 1790915483.810661,
    "en": "कैलालीको गौरीगंगामा बाघको आक्रमणबाट ३८ वर्षीय पुरुषको मृत्यु",
@@ -8724,8 +8737,8 @@
    "cat": "society"
   }
  ],
- "updated": 1791518491,
- "pending_since": null,
+ "updated": 1791519053,
+ "pending_since": 1791519048.3506806,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
