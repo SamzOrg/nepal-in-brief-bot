@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://nagariknews.nagariknetwork.com/politics/congress-general-convention-three-candidates-for-the-post-of-president-bishwa-and-pushpa-unopposed-br-36-34.html": 1791337849.0627332,
-  "https://nagariknews.nagariknetwork.com/social-affairs/flooding-of-narayani-river-damages-1-150-meters-of-embankment-98-87.html": 1791337849.0627332,
   "http://english.ratopati.com/story/82653/58-candidates-for-11-joint-general-secretaries": 1791338483.9576254,
   "https://risingnepaldaily.com/news/87493": 1791338483.9576254,
   "http://english.ratopati.com/story/82656/narayani-river-flood-damage-to-1150-meters-of-embankment": 1791339053.0181298,
@@ -2421,7 +2419,8 @@
   "https://www.setopati.com/social/400395": 1791510645.686562,
   "https://nagariknews.nagariknetwork.com/social-affairs/advance-ticket-booking-for-dashain-opens-today-passenger-queues-at-the-new-bus-park-since-night-59-39.html": 1791510645.686562,
   "https://kathmandupost.com/national/2026/10/09/tribhuvan-university-to-distribute-question-papers-online-publish-results-within-60-days": 1791510645.686562,
-  "http://lokaantar.com/story/330838/2026/10/9/gagan-thapa-": 1791510645.686562
+  "http://lokaantar.com/story/330838/2026/10/9/gagan-thapa-": 1791510645.686562,
+  "https://gorkhapatraonline.com/news/225989": 1791511281.286392
  },
  "queue": [
   {
@@ -3820,17 +3819,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1790905856.6122036,
-   "en": "संघीय निजामती सेवा विधेयक संसद्मा दर्ता, ३०/५५ को प्रावधानले १० हजार कर्मचारी अवकाशमा पर्ने",
-   "ne": "संघीय निजामती सेवा विधेयक संसद्मा दर्ता, ३०/५५ को प्रावधानले १० हजार कर्मचारी अवकाशमा पर्ने",
-   "link": "http://annapurnapost.com/story/508777",
-   "source": "Annapurna Post",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "politics"
-  },
   {
    "ts": 1790907658.4158347,
    "en": "Nepal's 20th Asiad campaign struggles with early exits as golfer Subash Tamang makes cut in Japan",
@@ -7066,7 +7054,7 @@
    "cat": "politics"
   }
  ],
- "updated": 1791510662,
+ "updated": 1791511284,
  "pending_since": 1791510645.686562,
  "fb_blocks": [
   1790350880.4125228,
