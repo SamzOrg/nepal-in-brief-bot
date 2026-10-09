@@ -2351,55 +2351,12 @@
   "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8ybG9fRkN4YmlfVmlqekhnQjM5WnREcnkzWUo1ajNpTXlfTGpHNXltV3JycGJJMUlUTmpQeEhYUVl1MlFfUEN6RVdQa09XYlNyd0dIRm93?oc=5": 1791558095.5133111,
   "https://english.onlinekhabar.com/banshiraj-dahal-dismissed.html": 1791558656.1248062,
   "https://kathmandupost.com/national/2026/10/09/armed-police-force-aig-banshiraj-dahal-dismissed": 1791558656.1248062,
-  "https://www.setopati.com/social/400486": 1791558881.1984425
+  "https://www.setopati.com/social/400486": 1791558881.1984425,
+  "https://baahrakhari.com/detail/504434": 1791559246.3801787,
+  "https://english.khabarhub.com/2026/09/571376/": 1791559246.3801787,
+  "https://nagariknews.nagariknetwork.com/politics/voting-for-the-congress-general-convention-has-ended-19-31.html": 1791559246.3801787
  },
  "queue": [
-  {
-   "title": "Pashupati Sharma elected president of National Folk and Duet Song Academy Nepal",
-   "summary": "Kathmandu, October 9 Pashupati Sharma has been elected president of the National Folk and Duet Song Academy Nepal. He was elected unopposed at the ongoing general convention in Bardibas, Mahottari. This is the Academy's...",
-   "link": "https://english.onlinekhabar.com/pashupati-sharma-elected-president.html",
-   "source": "Onlinekhabar EN",
-   "ts": 1791530424,
-   "weight": 3,
-   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/10/pashupati-sharma.jpg",
-   "lang": "en",
-   "hl": "Pashupati Sharma elected president of National Folk and Duet Song Academy Nepal",
-   "en": "Pashupati Sharma elected president of National Folk and Duet Song Academy Nepal",
-   "ne": "Pashupati Sharma elected president of National Folk and Duet Song Academy Nepal",
-   "imp": 2,
-   "tags": [
-    "PashupatiSharma",
-    "NationalFolkAndDuetSongAcademy",
-    "संगीत"
-   ],
-   "cat": "culture",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "MPs cannot intimidate or threaten state institutions, Bartaula says",
-   "summary": "Kathmandu, October 9 CPN-UML leader Mahesh Bartaula has said that being a member of parliament is not a licence to intimidate or threaten state institutions. He made the remarks while urging an impartial investigation...",
-   "link": "https://english.onlinekhabar.com/mps-cannot-intimidate-or-threaten-state-institutions-bartaula-says.html",
-   "source": "Onlinekhabar EN",
-   "ts": 1791530188,
-   "weight": 3,
-   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/10/mahesh-bartaula-2.jpg",
-   "lang": "en",
-   "hl": "MPs cannot intimidate or threaten state institutions, Bartaula says",
-   "en": "MPs cannot intimidate or threaten state institutions, Bartaula says",
-   "ne": "MPs cannot intimidate or threaten state institutions, Bartaula says",
-   "imp": 3,
-   "tags": [
-    "Bartaula",
-    "Parliament",
-    "राजनीति"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
   {
    "title": "Former Birgunj mayor Sarawagi leaves UML",
    "summary": "Kathmandu, October 9 Vijay Kumar Sarawagi, former mayor of Birgunj Metropolitan City, has announced that he is leaving the CPN-UML. Sarawagi announced his departure from the UML on Facebook. \"I hereby inform everyone...",
@@ -2670,29 +2627,6 @@
    ],
    "cat": "society",
    "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Six-time French Champions Bordeaux to Play in Sixth Division Due to Financial Irregularities",
-   "summary": "Paris. Following action due to financial irregularities, six-time French champions Bordeaux club will play in the sixth division of French...",
-   "link": "http://english.ratopati.com/story/83028/six-time-french-champion-bordeaux-relegated-to-sixth-division-after-financial-action",
-   "source": "Ratopati EN",
-   "ts": 1791530413,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/2024-06-09t193748z_1238274897_up1ek691iixks_rtrmadp_3_soccer-friendly-fra-can-report-1791494662_EZ9R6xyfrE.webp",
-   "lang": "en",
-   "hl": "Six-time French Champions Bordeaux to Play in Sixth Division Due to Financial Irregularities",
-   "en": "Six-time French Champions Bordeaux to Play in Sixth Division Due to Financial Irregularities",
-   "ne": "Six-time French Champions Bordeaux to Play in Sixth Division Due to Financial Irregularities",
-   "imp": 1,
-   "tags": [
-    "Bordeaux",
-    "France",
-    "Football"
-   ],
-   "cat": "sports",
-   "val": 3,
    "teaser": false,
    "hits": 1
   },
@@ -3681,7 +3615,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Blue Diamond Society marks 25 years of LGBTQ+ rights advocacy",
@@ -5530,7 +5464,7 @@
    "cat": "economy",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "गृहले गर्यो दुई सहसचिवको पदस्थापन, उदयपुर र अर्घाखाँचीले पाए नयाँ सीडीओ",
@@ -6998,7 +6932,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "ओमानको जितसँगै नेपालको पनि सिधै विश्वकपको छनोट चरणमा पुग्ने सम्भावना सकियो",
@@ -10983,7 +10917,7 @@
    "cat": "sports"
   }
  ],
- "updated": 1791558885,
+ "updated": 1791559268,
  "pending_since": 1791557452.9654,
  "fb_blocks": [
   1790350880.4125228,
