@@ -2336,7 +2336,9 @@
   "http://english.ratopati.com/story/83075/preparations-for-the-10th-national-games-nsc-member-secretary-discusses-with-provincial-member-secretaries": 1791561693.3096309,
   "http://english.ratopati.com/story/83074/nepali-team-bids-farewell-to-paralympic-games-in-japan": 1791561693.3096309,
   "http://english.ratopati.com/story/83080/two-day-tiktok-masterclass-for-journalism-students": 1791562255.6589503,
-  "http://english.ratopati.com/story/83079/senior-accounting-officer-dies-after-being-hit-by-passenger-bus": 1791562255.6589503
+  "http://english.ratopati.com/story/83079/senior-accounting-officer-dies-after-being-hit-by-passenger-bus": 1791562255.6589503,
+  "http://english.ratopati.com/story/83082/power-outages-in-some-areas-of-kathmandu-valley-on-saturday-and-sunday": 1791562851.030577,
+  "http://lokaantar.com/story/330917/2026/10/9/dead-": 1791562851.030577
  },
  "queue": [
   {
@@ -2405,7 +2407,7 @@
    "cat": "economy",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "एमालेको स्थायी कमिटी बैठक जारी",
@@ -2477,75 +2479,6 @@
    "hits": 1
   },
   {
-   "title": "Nepal's Bikram Gautam on his goal of becoming a Master Sommelier",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdVZZbU50dS1fbkdOVUpET1FDQWVlSElXQWdxZDQ4ODlHNUp4bUVEaXF1VEFQa0wwWGhkeG00NVlFRm55VWlhMExSMm9FZV9TREQtc2JYZGNPS2ZuWllLMU1rdDd5em1XN3lwbTFUZm5BRGcySWVoNzhuVlpRUERkZTNLZ2hBM2U3WXV1eUZ5d1duZXU0TnNxLXBaTGlwRTN0b3N3b1JYNWxmTUE?oc=5",
-   "source": "The-Buyer.net",
-   "ts": 1791533844,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Nepal's Bikram Gautam on his goal of becoming a Master Sommelier",
-   "en": "Nepal's Bikram Gautam on his goal of becoming a Master Sommelier",
-   "ne": "Nepal's Bikram Gautam on his goal of becoming a Master Sommelier",
-   "imp": 2,
-   "tags": [
-    "BikramGautam",
-    "Sommelier",
-    "Nepal"
-   ],
-   "cat": "culture",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Salyan's paddy fields turn golden as rice ripens",
-   "summary": "Paddy fields across Salyan have turned golden as the rice crop farmers planted a few months ago ripens. The fields and terraces have taken on a golden hue, creating picturesque scenes across the district's rural areas....",
-   "link": "https://english.onlinekhabar.com/salyans-paddy-fields-turn-golden-as-rice-ripens-photos.html",
-   "source": "Onlinekhabar EN",
-   "ts": 1791533825,
-   "weight": 3,
-   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/10/dhan-kheti-salyan-1-1024x683-1.jpg",
-   "lang": "en",
-   "hl": "Salyan's paddy fields turn golden as rice ripens",
-   "en": "Salyan's paddy fields turn golden as rice ripens",
-   "ne": "Salyan's paddy fields turn golden as rice ripens",
-   "imp": 2,
-   "tags": [
-    "Salyan",
-    "Agriculture",
-    "धान"
-   ],
-   "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "मतदान",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/504365",
-   "source": "Baahrakhari",
-   "ts": 1791533991,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "मतदान",
-   "en": "मतदान",
-   "ne": "मतदान",
-   "imp": 1,
-   "tags": [
-    "Election",
-    "Voting",
-    "मतदान"
-   ],
-   "cat": "politics",
-   "val": 1,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "प्रधानमन्त्री बालेनले बोलाए मन्त्रिपरिषद्को बैठक",
    "summary": "मन्त्रालयका विभिन्न एजेन्डामा छलफल तथा निर्णय गर्न मन्त्रिपरिषद्को बैठक आज बस्ने भएको छ।सिंहदरबारस्थित प्रधानमन्त्री तथा मन्त्रिपरिषद्को कार्यालयमा दिउँसो ३ बजे बैठक बस्न लागेको प्रधानमन्त्रीको सचिवालयले जनाएको छ...",
    "link": "http://lokaantar.com/story/330875/2026/10/9/cabinet-",
@@ -2567,29 +2500,6 @@
    "val": 3,
    "teaser": false,
    "hits": 3
-  },
-  {
-   "title": "बोल्सोनारोलाई तेस्रो उम्मेदवारको समर्थन",
-   "summary": "साओ पाउलो, असोज २३ गते । ब्राजिलको राष्ट्रपति निर्वाचनमा दक्षिणपन्थी उम्मेदवार फ्लेभियो बोल्सोनारोले तेस्रो स्थानका उम्मेदवार अगस्टो क्युरीको समर्थन प्राप्त गर्नुभएको छ । यसले वर्त...",
-   "link": "https://gorkhapatraonline.com/news/226047",
-   "source": "Gorkhapatra",
-   "ts": 1791533936,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/387281/conversions/Bolsonaro-original.jpg",
-   "lang": "ne",
-   "hl": "बोल्सोनारोलाई तेस्रो उम्मेदवारको समर्थन",
-   "en": "बोल्सोनारोलाई तेस्रो उम्मेदवारको समर्थन",
-   "ne": "बोल्सोनारोलाई तेस्रो उम्मेदवारको समर्थन",
-   "imp": 1,
-   "tags": [
-    "Bolsonaro",
-    "Brazil",
-    "Politics"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
   },
   {
    "title": "बाँकेमा जङ्गली धानको मूल बीउ जोगाउन समस्या",
@@ -2636,52 +2546,6 @@
    "val": 3,
    "teaser": false,
    "hits": 3
-  },
-  {
-   "title": "माधव नेपालले बराबरी अध्यक्ष मागेपछि एमालेसँग एकता भाँडियो : झलनाथ खनाल",
-   "summary": "नेपाली कम्युनिस्ट पार्टीका नेता झलनाथ खनालले माधवकुमार नेपालले एमालेसँगको एकता प्रक्रियामा आफू पनि बराबरीको अध्यक्ष हुनुपर्ने अडान राखेपछि एकता भाँडिएको बताएका छन्।...",
-   "link": "https://nagariknews.nagariknetwork.com/politics/unity-with-uml-broke-after-madhav-nepal-demanded-equal-chairmanship-jhalanath-khanal-br-82-99.html",
-   "source": "Nagarik News",
-   "ts": 1791533864,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1791447512_22%20khanal.jpg",
-   "lang": "ne",
-   "hl": "माधव नेपालले बराबरी अध्यक्ष मागेपछि एमालेसँग एकता भाँडियो : झलनाथ खनाल",
-   "en": "माधव नेपालले बराबरी अध्यक्ष मागेपछि एमालेसँग एकता भाँडियो : झलनाथ खनाल",
-   "ne": "माधव नेपालले बराबरी अध्यक्ष मागेपछि एमालेसँग एकता भाँडियो : झलनाथ खनाल",
-   "imp": 4,
-   "tags": [
-    "MadhavNepal",
-    "UML",
-    "JhalanathKhanal"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "रियल मड्रिडको नजर ओलिसेमाथि, बायर्नले भने क्लबमै राख्ने",
-   "summary": "स्पेनिस क्लब रियल मड्रिडले जर्मन क्लब बायर्न म्युनिखका फ्रान्सेली विंगर माइकल ओलिसेलाई अनुबन्ध गर्ने चासो देखाउँदै आएको छ।...",
-   "link": "https://nagariknews.nagariknetwork.com/sports/real-madrid-eye-oliseh-bayern-to-keep-him-at-the-club-22-65.html",
-   "source": "Nagarik News",
-   "ts": 1791533582,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1791533562_New%20Project%20(12).jpg",
-   "lang": "ne",
-   "hl": "रियल मड्रिडको नजर ओलिसेमाथि, बायर्नले भने क्लबमै राख्ने",
-   "en": "रियल मड्रिडको नजर ओलिसेमाथि, बायर्नले भने क्लबमै राख्ने",
-   "ne": "रियल मड्रिडको नजर ओलिसेमाथि, बायर्नले भने क्लबमै राख्ने",
-   "imp": 2,
-   "tags": [
-    "RealMadrid",
-    "BayernMunich",
-    "Football"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
   },
   {
    "title": "नाना पाटेकरका पाँच फिल्म प्रदर्शन हुन बाँकी, कुन-कुन हुन्?",
@@ -2843,29 +2707,6 @@
    "val": 3,
    "teaser": false,
    "hits": 3
-  },
-  {
-   "title": "US activists deploy poll volunteers over Trump intimidation fears",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNd2pqWDhXSWJvMEhyeUNCTkF4TzcxbFRoVTc1U2stQUxtT3NrSEdGVmtqRTZ6c1pfVUFWaWczeXNaVWROYmhPcG1LSXJ0SkdUcHpNTHk5UjN2UTJCWjJtWDNvOWUtRjlfcEtNeC1pZU5yTUx6QmJxNVpodHlaeGJzTC10VEJuNFJkUjVOVnF2VnFaX3ZSVmVPdGZxeXA4YzhfZ2RPX1U0aWp5WE1vOW1DaWNFcHNCTFdzek5HUA?oc=5",
-   "source": "myRepublica",
-   "ts": 1791533825,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "US activists deploy poll volunteers over Trump intimidation fears",
-   "en": "US activists deploy poll volunteers over Trump intimidation fears",
-   "ne": "US activists deploy poll volunteers over Trump intimidation fears",
-   "imp": 1,
-   "tags": [
-    "USA",
-    "Elections",
-    "Trump"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "यी हुन् २१ किलो सुनसहित पक्राउ परेका तीन जना",
@@ -6458,7 +6299,7 @@
    "cat": "accident",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "वर्षौंदेखि अलपत्र दोलखाका २२ निर्माण ठेक्का तोडिए",
@@ -7414,17 +7255,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1790957459.5370498,
-   "en": "सुरक्षा मुद्रण केन्द्रका पूर्वप्रमुख विकल पौडेल भ्रष्टाचार मुद्दामा दोषी ठहर",
-   "ne": "सुरक्षा मुद्रण केन्द्रका पूर्वप्रमुख विकल पौडेल भ्रष्टाचार मुद्दामा दोषी ठहर",
-   "link": "http://lokaantar.com/story/330333/2026/10/2/bises-",
-   "source": "Lokaantar",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "crime"
-  },
   {
    "ts": 1790959258.8930979,
    "en": "नागरिक उड्डयन प्राधिकरण टुक्राउने दुई विधेयक प्रतिनिधिसभामा दर्ता",
@@ -10649,7 +10479,7 @@
    "cat": "health"
   }
  ],
- "updated": 1791562279,
+ "updated": 1791562855,
  "pending_since": 1791562255.6589503,
  "fb_blocks": [
   1790350880.4125228,
