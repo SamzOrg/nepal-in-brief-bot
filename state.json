@@ -2426,7 +2426,8 @@
   "https://gorkhapatraonline.com/news/225971": 1791504088.0651822,
   "https://english.khabarhub.com/2026/09/571255/": 1791504088.0651822,
   "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdjA3eEZiLVBJeUJISUFLXzJ1cm5oSUJlaW1XbUgxNXgxTUw5S0VnYnNmMmFNaml4WjlRWnA4SnhhNkgwNU5MR1EwdElMczdUMXYwdFJwcGExWlZ5VU4yVXlwSDFXVFAwanJGeXBjaDhLZWJkVENRRDNhTG1kaHdOTE9WN24xY202Njh0MVlfMTRRNExKOTZyU2dGdWpsTUQ4X0dGQ0dIMTBHU0o0N0ZHRzJXb0RMOE5DUDc4U01IdFJ2aUlBdkE?oc=5": 1791504088.0651822,
-  "https://risingnepaldaily.com/news/87570": 1791504647.1212912
+  "https://risingnepaldaily.com/news/87570": 1791504647.1212912,
+  "http://lokaantar.com/story/330828/2026/10/8/forex-": 1791505248.8482568
  },
  "queue": [
   {
@@ -2453,50 +2454,6 @@
    "hits": 2
   },
   {
-   "title": "Foreign Minister Shishir Khanal Meets NSW Premier Chris Minns in Sydney",
-   "summary": "Kathmandu. Foreign Minister Shishir Khanal met with Premier of New South Wales, Australia, Christopher (Chris) John Minns in Sydney.During the...",
-   "link": "http://english.ratopati.com/story/82948/new-south-wales-premier-meets-foreign-minister-khanal-in-sydney",
-   "source": "Ratopati EN",
-   "ts": 1791477863,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/hf18b9II6O.jpg",
-   "lang": "en",
-   "hl": "Foreign Minister Shishir Khanal Meets NSW Premier Chris Minns in Sydney",
-   "en": "Foreign Minister Shishir Khanal Meets NSW Premier Chris Minns in Sydney",
-   "ne": "Foreign Minister Shishir Khanal Meets NSW Premier Chris Minns in Sydney",
-   "imp": 3,
-   "tags": [
-    "ShishirKhanal",
-    "NSWPremier",
-    "Australia"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "Today's News in a Nutshell",
-   "summary": "KATHMANDU: Khabarhub brings you a glimpse of major developments of the day in Nepal, including politics, business/economy, sports, entertainment, and more. PM Disaster Relief Funds Reach Rs 17.06 Billion Contributions...",
-   "link": "https://english.khabarhub.com/2026/08/571246/",
-   "source": "Khabarhub EN",
-   "ts": 1791476113,
-   "weight": 2,
-   "img": "https://english.khabarhub.com/wp-content/uploads/2024/05/News-Nutshell-640x360.jpg",
-   "lang": "en",
-   "hl": "Today's News in a Nutshell",
-   "en": "Today's News in a Nutshell",
-   "ne": "Today's News in a Nutshell",
-   "imp": 1,
-   "tags": [
-    "NewsSummary"
-   ],
-   "cat": "other",
-   "val": 1,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "National Folk and Dohori Song Institute Nepal's 9th Central General Convention Begins in Bardibas",
    "summary": "Kathmandu. The 9th Central General Convention of the National Folk and Dohori Song Institute Nepal has started in Bardibas, Mahottari....",
    "link": "http://english.ratopati.com/story/82947/9th-general-convention-of-folk-and-duo-song-foundation-in-bardibas",
@@ -2518,29 +2475,6 @@
    "val": 3,
    "teaser": false,
    "hits": 2
-  },
-  {
-   "title": "US Files New Torture Charges Against Venezuela's Maduro and Wife",
-   "summary": "America. The United States on Thursday filed new torture charges against Venezuela's ousted President Nicolas Maduro and his wife Cilia...",
-   "link": "http://english.ratopati.com/story/82945/new-torture-charges-filed-against-former-venezuelan-leader-maduro-and-maduros-wife",
-   "source": "Ratopati EN",
-   "ts": 1791475985,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/maduro_2x0L4YeSvx.webp",
-   "lang": "en",
-   "hl": "US Files New Torture Charges Against Venezuela's Maduro and Wife",
-   "en": "US Files New Torture Charges Against Venezuela's Maduro and Wife",
-   "ne": "US Files New Torture Charges Against Venezuela's Maduro and Wife",
-   "imp": 2,
-   "tags": [
-    "Maduro",
-    "USJustice",
-    "Venezuela"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
   },
   {
    "title": "धनुषामा चक्कु प्रहारबाट एकजनाको मृत्यु, एकजना गम्भीर घाइते",
@@ -2767,29 +2701,6 @@
    ],
    "cat": "other",
    "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "दसैंको मुखमा मध्यपहाडको 'लाइफलाइन' विच्छेद, डोल्पादेखि कोरलासम्मै सास्ती",
-   "summary": "चाडबाडको मुखमा मध्यपहाडी लोकमार्ग र कालीगण्डकी करिडोर दुई सातादेखि ठप्प हुँदा गण्डकी प्रदेशका हिमाली तथा पहाडी जिल्लाको जनजीवन अस्तव्यस्त बनेको छ।...",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/mid-hills-lifeline-severed-on-the-eve-of-dashain-life-from-korala-to-dolpa-comes-to-a-standstill-goods-stranded-on-the-road-88-81.html",
-   "source": "Nagarik News",
-   "ts": 1791476316,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1791476184_pul_damage.jpg",
-   "lang": "ne",
-   "hl": "दसैंको मुखमा मध्यपहाडको 'लाइफलाइन' विच्छेद, डोल्पादेखि कोरलासम्मै सास्ती",
-   "en": "दसैंको मुखमा मध्यपहाडको 'लाइफलाइन' विच्छेद, डोल्पादेखि कोरलासम्मै सास्ती",
-   "ne": "दसैंको मुखमा मध्यपहाडको 'लाइफलाइन' विच्छेद, डोल्पादेखि कोरलासम्मै सास्ती",
-   "imp": 4,
-   "tags": [
-    "Dashain",
-    "MidHillHighway",
-    "Dolpa"
-   ],
-   "cat": "disaster",
-   "val": 2,
    "teaser": false,
    "hits": 1
   },
@@ -6248,9 +6159,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "society"
+  },
+  {
+   "ts": 1791505252.6654167,
+   "en": "Foreign Minister Shishir Khanal Meets NSW Premier Chris Minns in Sydney",
+   "ne": "Foreign Minister Shishir Khanal Meets NSW Premier Chris Minns in Sydney",
+   "link": "http://english.ratopati.com/story/82948/new-south-wales-premier-meets-foreign-minister-khanal-in-sydney",
+   "source": "Ratopati EN",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "politics"
   }
  ],
- "updated": 1791504651,
+ "updated": 1791505266,
  "pending_since": 1791504647.1212912,
  "fb_blocks": [
   1790350880.4125228,
