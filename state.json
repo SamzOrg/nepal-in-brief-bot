@@ -1,9 +1,5 @@
 {
  "seen": {
-  "http://english.ratopati.com/story/82664/npl-preparations-in-final-stages-spectator-facilities-and-capacity-being-enhanced-photos": 1791343252.5537455,
-  "https://english.khabarhub.com/2026/07/571002/": 1791343252.5537455,
-  "https://nagariknews.nagariknetwork.com/social-affairs/heavy-rain-likely-in-these-provinces-for-three-days-from-today-54-70.html": 1791343252.5537455,
-  "http://lokaantar.com/story/330678/2026/10/7/redcross-": 1791343252.5537455,
   "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBSOEZiNXlXT2tMTXhxSUJYX0R0YzU2dmhoSENVc044cWk3OTJDZEJCMDV0RlVYQmljVUxvTGNZRUZaY01leThIMmktSWpIc0w0eWQ4ZVFkRDA?oc=5": 1791343868.3659098,
   "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPR3Ewbk9KSUc0SmVKdnFSNm13cG42cDhidW5pUkp6X3I0bUZZWEpnM2wwelhnbWdsRVdQczIxNGt3aGFyZVVqSFA4ZjB5SXFEZkl5ZWxGUTRJV1A1YnhOZTUzT3lZWHUzWGVHbE1ndnlhOWphbU5sRTdYaDY3eF9RaGlBZ0tBaXNVNEZwa0Q3XzZQc2ZkRWp4dEVnekRCc2hjZ1diNVc0SzJJOUVEUG5XTW1Oc3ZKRGdnb1lpZ1Zqc0l3Zw?oc=5": 1791343868.3659098,
   "https://news.google.com/rss/articles/CBMihwFBVV95cUxQem5walQ2S0llWHJlTFhyTWRzOW1Ra0hBc2VGekVvLWlmVUJhMUNTbHdhRXYwdmRIWGFwZDNfdVVtc3lzeThhTVljdFdvQ1RlSHhkRko0OE5iMlRlNnkyeU1nUHVHdl9mUDI1NGxvZENvOEQ2aWZ5MGQyYy1hWkk2d2xiMFAtY1nSAYcBQVVfeXFMUHpucGpUNktJZVhyZUxYck1kczltUWtIQXNlRnpFby1pZlVCYTFDU2x3YUV2MHZkSFhhcGQzX3VVbXN5c3k4YU1ZY3RXb0NUZUh4ZEZKNDhOYjJUZTZ5MnlNZ1B1R3ZfZlAyNTRsb2RDbzhENmlmeTBkMmMtYVpJNndsYjBQLWNZ?oc=5": 1791343868.3659098,
@@ -2440,7 +2436,10 @@
   "https://baahrakhari.com/detail/504331": 1791516045.8329573,
   "https://nagariknews.nagariknetwork.com/politics/the-government-will-pay-interest-on-the-purchase-of-vehicles-for-teachers-up-to-5-million-for-secondary-school-first-and-4-million-for-secondary-school-second-48-54.html": 1791516045.8329573,
   "https://baahrakhari.com/detail/504330": 1791516045.8329573,
-  "https://nagariknews.nagariknetwork.com/sports/despite-allegations-of-financial-irregularities-there-is-confidence-in-city-s-leadership-maresca-56-77.html": 1791516045.8329573
+  "https://nagariknews.nagariknetwork.com/sports/despite-allegations-of-financial-irregularities-there-is-confidence-in-city-s-leadership-maresca-56-77.html": 1791516045.8329573,
+  "https://www.setopati.com/social/400402": 1791516664.413321,
+  "https://baahrakhari.com/detail/504334": 1791516664.413321,
+  "https://news.google.com/rss/articles/CBMixwFBVV95cUxObmlPbEI4LUh1NzlRSVR5Y0s4di0wVzlfTEZpMHRrRjF5V25oNjU3NnFNMzV2VEltZHpuNVBQTXJEWVdubUpTU1QxOTNJZmg4X3ZCcHdlRFdtU0RnX1Z3d0ZBUU93QmVYNzY2LVpSNVdVWlJLcFprNzVuNTBETGlwNVVqanNzck50c21UMlVJRVFjMnhkRXBaeFpLeVlraVVlWnNSSmJZbE9uUmJLaXl6MmNFT1ZuVy0xLWtqMVI4ZXJ3RDBidUsw?oc=5": 1791516664.413321
  },
  "queue": [
   {
@@ -5117,6 +5116,54 @@
    ],
    "cat": "sports",
    "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "दार्चुलामा भारी वर्षा, बाढीको जोखिम",
+   "summary": "",
+   "link": "https://baahrakhari.com/detail/504334",
+   "source": "Baahrakhari",
+   "ts": 1791516498,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "दार्चुलामा भारी वर्षा, बाढीको जोखिम",
+   "en": "दार्चुलामा भारी वर्षा, बाढीको जोखिम",
+   "ne": "दार्चुलामा भारी वर्षा, बाढीको जोखिम",
+   "imp": 4,
+   "tags": [
+    "Darchula",
+    "HeavyRain",
+    "Flood",
+    "दार्चुला"
+   ],
+   "cat": "disaster",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Govt to build 50 model houses for Bhotekoshi flood victims before Dashain",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObmlPbEI4LUh1NzlRSVR5Y0s4di0wVzlfTEZpMHRrRjF5V25oNjU3NnFNMzV2VEltZHpuNVBQTXJEWVdubUpTU1QxOTNJZmg4X3ZCcHdlRFdtU0RnX1Z3d0ZBUU93QmVYNzY2LVpSNVdVWlJLcFprNzVuNTBETGlwNVVqanNzck50c21UMlVJRVFjMnhkRXBaeFpLeVlraVVlWnNSSmJZbE9uUmJLaXl6MmNFT1ZuVy0xLWtqMVI4ZXJ3RDBidUsw?oc=5",
+   "source": "myRepublica",
+   "ts": 1791512613,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "Govt to build 50 model houses for Bhotekoshi flood victims before Dashain",
+   "en": "Govt to build 50 model houses for Bhotekoshi flood victims before Dashain",
+   "ne": "Govt to build 50 model houses for Bhotekoshi flood victims before Dashain",
+   "imp": 4,
+   "tags": [
+    "Bhotekoshi",
+    "FloodVictims",
+    "Dashain",
+    "Housing"
+   ],
+   "cat": "society",
+   "val": 3,
    "teaser": false,
    "hits": 1
   }
@@ -8357,8 +8404,8 @@
    "cat": "economy"
   }
  ],
- "updated": 1791516065,
- "pending_since": null,
+ "updated": 1791516668,
+ "pending_since": 1791516664.413321,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
