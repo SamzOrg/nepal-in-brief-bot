@@ -1,10 +1,5 @@
 {
  "seen": {
-  "https://baahrakhari.com/detail/504104": 1791349290.300281,
-  "https://www.setopati.com/social/400233": 1791349290.300281,
-  "https://nagariknews.nagariknetwork.com/social-affairs/ngo-relief-programs-in-flood-affected-areas-21-64.html": 1791349290.300281,
-  "https://gorkhapatraonline.com/news/225731": 1791349290.300281,
-  "https://gorkhapatraonline.com/news/225730": 1791349290.300281,
   "https://news.google.com/rss/articles/CBMingFBVV95cUxQZnozcDZpMnFndzFSd0RNaDVUTHRXQ044anlyczZWUmFBWjRDRE5IZHFLM2F5VHlyVGlkeG5aVGVlWHNLU043MDE0eV9hdzlJT3R4T0owanprQ0VRajF3N3NTc0hacTg0Unp0eDA0QklBX2hwWTJCeUtsaUgtSkFaZGY2RXpzTWxTNmlVeXBmc1lRM0pCbk1VZWRoZl9zdw?oc=5": 1791349850.4843123,
   "https://gorkhapatraonline.com/news/225733": 1791349850.4843123,
   "https://www.setopati.com/social/400234": 1791349850.4843123,
@@ -2438,32 +2433,14 @@
   "https://gorkhapatraonline.com/news/226014": 1791522082.500327,
   "https://www.setopati.com/politics/400405": 1791522082.500327,
   "https://gorkhapatraonline.com/news/226012": 1791522082.500327,
-  "https://www.setopati.com/politics/400406": 1791522082.500327
+  "https://www.setopati.com/politics/400406": 1791522082.500327,
+  "https://www.setopati.com/politics/400410": 1791522647.5156264,
+  "http://english.ratopati.com/story/82988/nepal-youth-entrepreneurship-conference-2083-begins-in-kathmandu": 1791522647.5156264,
+  "https://nagariknews.nagariknetwork.com/sports/npl-dadeldhura-s-tech-raj-thalal-is-an-iconic-player-for-sudurpaschim-royals-84-71.html": 1791522647.5156264,
+  "https://nagariknews.nagariknetwork.com/arts/goa-police-investigates-nana-patekar-s-death-registers-unnatural-death-case-79-54.html": 1791522647.5156264,
+  "https://baahrakhari.com/detail/504342": 1791522647.5156264
  },
  "queue": [
-  {
-   "title": "Caterpillar Foundation Provides Recovery Support for Nepal Floods",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNGpOb0psRmV6VDZsTTJnWGk1YnBaeW9SWTBoNk5NMUh0WHFfY290OFB1eFJIZTZSVm9MLTJ6aF9EWUxIcVVxaWpTc0NDRFNFMVRBOWk5YVRxYWliMEV5MGdTSUVTTXpIVzRtU3ZYaWFWcm1yQ21PTktadlRaeXdWc09DZlJyNmhDcEFpTHl5bXl5ekU5aldjcDFIYjNCSWF1bTJDVHRBdmtPZHVOWURfREZINHNMSlhDV3ZhS0Vtc3BDb1JLcmc?oc=5",
-   "source": "Caterpillar",
-   "ts": 1791493518,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Caterpillar Foundation Provides Recovery Support for Nepal Floods",
-   "en": "Caterpillar Foundation Provides Recovery Support for Nepal Floods",
-   "ne": "Caterpillar Foundation Provides Recovery Support for Nepal Floods",
-   "imp": 3,
-   "tags": [
-    "CaterpillarFoundation",
-    "NepalFloods",
-    "FloodRelief"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
   {
    "title": "AmCham Nepal and U.S. Embassy convene business roundtable with USPTO on Intellectual Property and Business Confidence",
    "summary": "",
@@ -2532,7 +2509,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 4
+   "hits": 5
   },
   {
    "title": "Bhotekoshi flood becomes IPU emergency agenda",
@@ -6054,7 +6031,7 @@
    "cat": "sports",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Latest News",
@@ -6325,6 +6302,29 @@
    "cat": "politics",
    "val": 2,
    "teaser": true,
+   "hits": 1
+  },
+  {
+   "title": "नाना पाटेकरको निधनबारे गोवा प्रहरीद्वारा अनुसन्धान, अप्राकृतिक मृत्युको मुद्दा दर्ता",
+   "summary": "गोवा प्रहरीले अभिनेता नाना पाटेकरको निधनको घटनामा अप्राकृतिक मृत्यु (यूडी) सम्बन्धी मुद्दा दर्ता गरी अनुसन्धान सुरु गरेको छ।...",
+   "link": "https://nagariknews.nagariknetwork.com/arts/goa-police-investigates-nana-patekar-s-death-registers-unnatural-death-case-79-54.html",
+   "source": "Nagarik News",
+   "ts": 1791522197,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2025/third-party/1791522180_nana.jpg",
+   "lang": "ne",
+   "hl": "नाना पाटेकरको निधनबारे गोवा प्रहरीद्वारा अनुसन्धान, अप्राकृतिक मृत्युको मुद्दा दर्ता",
+   "en": "नाना पाटेकरको निधनबारे गोवा प्रहरीद्वारा अनुसन्धान, अप्राकृतिक मृत्युको मुद्दा दर्ता",
+   "ne": "नाना पाटेकरको निधनबारे गोवा प्रहरीद्वारा अनुसन्धान, अप्राकृतिक मृत्युको मुद्दा दर्ता",
+   "imp": 1,
+   "tags": [
+    "NanaPatekar",
+    "GoaPolice",
+    "Bollywood"
+   ],
+   "cat": "world",
+   "val": 3,
+   "teaser": false,
    "hits": 1
   }
  ],
@@ -9542,8 +9542,8 @@
    "cat": "sports"
   }
  ],
- "updated": 1791522088,
- "pending_since": null,
+ "updated": 1791522651,
+ "pending_since": 1791522647.5156264,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
