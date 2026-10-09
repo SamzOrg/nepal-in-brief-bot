@@ -2430,32 +2430,12 @@
   "https://risingnepaldaily.com/news/87572": 1791506453.2365298,
   "https://gorkhapatraonline.com/news/225973": 1791506453.2365298,
   "https://risingnepaldaily.com/news/87571": 1791506453.2365298,
-  "https://gorkhapatraonline.com/news/225972": 1791506453.2365298
+  "https://gorkhapatraonline.com/news/225972": 1791506453.2365298,
+  "https://english.khabarhub.com/2026/09/571266/": 1791507679.4715137,
+  "https://nagariknews.nagariknetwork.com/politics/congress-general-convention-voting-begins-at-7-am-where-will-representatives-from-which-provinces-vote-45-16.html": 1791507679.4715137,
+  "https://nagariknews.nagariknetwork.com/social-affairs/floods-damage-bridges-disrupting-traffic-affecting-tourism-and-trade-68-13.html": 1791507679.4715137
  },
  "queue": [
-  {
-   "title": "बेनी-जोमसोम सडकः पोखरेबगर पुलको पहुँचमार्ग जोडियो",
-   "summary": "ठाकुरप्रसाद आचार्यम्याग्दी (बेनी), असोज २३ गते । कालीगण्डकी नदीमा आएको बाढीले पहुँचमार्ग बगाएपछि झण्डै दुई सातादेखि अवरुद्ध रहेको कालीगण्डकी करिडोर अन्तर्गत बेनी-जोमसोम-कोरला सडकको...",
-   "link": "https://gorkhapatraonline.com/news/225964",
-   "source": "Gorkhapatra",
-   "ts": 1791478259,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/387186/conversions/pokharebagar-pul-original.jpg",
-   "lang": "ne",
-   "hl": "बेनी-जोमसोम सडकः पोखरेबगर पुलको पहुँचमार्ग जोडियो",
-   "en": "बेनी-जोमसोम सडकः पोखरेबगर पुलको पहुँचमार्ग जोडियो",
-   "ne": "बेनी-जोमसोम सडकः पोखरेबगर पुलको पहुँचमार्ग जोडियो",
-   "imp": 2,
-   "tags": [
-    "Pokhara",
-    "Jomsom",
-    "Bridge"
-   ],
-   "cat": "other",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
   {
    "title": "धनुषामा चक्कु प्रहारबाट एकजनाको मृत्यु, एकजना गम्भीर घाइते",
    "summary": "",
@@ -2800,7 +2780,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "Over 85 percent of public schools now have internet access",
@@ -2914,7 +2894,7 @@
    "cat": "economy",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Foreign currency exchange rates fixed for today",
@@ -3207,20 +3187,33 @@
    "val": 1,
    "teaser": true,
    "hits": 1
+  },
+  {
+   "title": "बाढीले पुलमा क्षति पुर्याएपछि यातायात ठप्प, पर्यटन र व्यापारमा असर",
+   "summary": "चाडबाडको समयमा पछिल्ला केही वर्षयता बागलुङका विभिन्न गन्तव्यमा पर्यटक भरिभराउ हुन्थे।",
+   "link": "https://nagariknews.nagariknetwork.com/social-affairs/floods-damage-bridges-disrupting-traffic-affecting-tourism-and-trade-68-13.html",
+   "source": "Nagarik News",
+   "ts": 1791506529,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2025/third-party/1791506517_New%20Project%20(1).jpg",
+   "lang": "ne",
+   "hl": "बाढीले पुलमा क्षति पुर्याएपछि यातायात ठप्प, पर्यटन र व्यापारमा असर",
+   "en": "बाढीले पुलमा क्षति पुर्याएपछि यातायात ठप्प, पर्यटन र व्यापारमा असर",
+   "ne": "बाढीले पुलमा क्षति पुर्याएपछि यातायात ठप्प, पर्यटन र व्यापारमा असर",
+   "imp": 4,
+   "tags": [
+    "Flood",
+    "Transport",
+    "Tourism",
+    "बाढी"
+   ],
+   "cat": "disaster",
+   "val": 1,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1790902256.0810916,
-   "en": "राष्ट्रियसभा बैठक आज बस्दै, राष्ट्रिय विधि विज्ञान प्रयोगशाला विधेयक प्रस्तुत हुँदै",
-   "ne": "राष्ट्रियसभा बैठक आज बस्दै, राष्ट्रिय विधि विज्ञान प्रयोगशाला विधेयक प्रस्तुत हुँदै",
-   "link": "https://baahrakhari.com/detail/503436",
-   "source": "Baahrakhari",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "politics"
-  },
   {
    "ts": 1790903458.4642925,
    "en": "म्याग्दीको ६ मेगावाटको रेलेखोला जलविद्युत आयोजना बाढीले बन्द",
@@ -6467,7 +6460,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1791507070,
+ "updated": 1791507683,
  "pending_since": 1791507051.5396943,
  "fb_blocks": [
   1790350880.4125228,
