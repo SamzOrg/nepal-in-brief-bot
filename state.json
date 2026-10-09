@@ -1,10 +1,5 @@
 {
  "seen": {
-  "https://www.setopati.com/sports/npl/400217": 1791337248.8660107,
-  "http://english.ratopati.com/story/82652/3-journalists-file-candidacies-for-nc-central-committee-members-from-professional-and-thematic-fields": 1791337248.8660107,
-  "https://english.khabarhub.com/2026/07/570991/": 1791337248.8660107,
-  "https://www.setopati.com/social/400216": 1791337248.8660107,
-  "http://lokaantar.com/story/330673/2026/10/7/narayani-": 1791337248.8660107,
   "https://nagariknews.nagariknetwork.com/politics/congress-general-convention-three-candidates-for-the-post-of-president-bishwa-and-pushpa-unopposed-br-36-34.html": 1791337849.0627332,
   "https://nagariknews.nagariknetwork.com/social-affairs/flooding-of-narayani-river-damages-1-150-meters-of-embankment-98-87.html": 1791337849.0627332,
   "http://english.ratopati.com/story/82653/58-candidates-for-11-joint-general-secretaries": 1791338483.9576254,
@@ -2422,32 +2417,13 @@
   "http://english.ratopati.com/story/82956/employee-promotion-recommendation-based-on-an-advertisement-that-was-invalidated-by-the-court": 1791510047.8328671,
   "https://gorkhapatraonline.com/news/225985": 1791510047.8328671,
   "https://gorkhapatraonline.com/news/225984": 1791510047.8328671,
-  "https://gorkhapatraonline.com/news/225983": 1791510047.8328671
+  "https://gorkhapatraonline.com/news/225983": 1791510047.8328671,
+  "https://www.setopati.com/social/400395": 1791510645.686562,
+  "https://nagariknews.nagariknetwork.com/social-affairs/advance-ticket-booking-for-dashain-opens-today-passenger-queues-at-the-new-bus-park-since-night-59-39.html": 1791510645.686562,
+  "https://kathmandupost.com/national/2026/10/09/tribhuvan-university-to-distribute-question-papers-online-publish-results-within-60-days": 1791510645.686562,
+  "http://lokaantar.com/story/330838/2026/10/9/gagan-thapa-": 1791510645.686562
  },
  "queue": [
-  {
-   "title": "लापसे गरी सवारी चलाउने पाँच चालक कारबाहीमा",
-   "summary": "अनिल पराजुलीहेटौँडा, असोज २२ गते । हेटौँडा-काठमाडौँ सडकखण्डअन्तर्गत मकवानपुरमा लागूपदार्थ सेवन (लापसे) गरी सवारी चलाउने पाँच चालक कारबाहीमा परेका छन् । सवारी दुर्घटना तथा क्षति न्य...",
-   "link": "https://gorkhapatraonline.com/news/225962",
-   "source": "Gorkhapatra",
-   "ts": 1791481389,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/387189/conversions/ARREST-original.jpg",
-   "lang": "ne",
-   "hl": "लापसे गरी सवारी चलाउने पाँच चालक कारबाहीमा",
-   "en": "लापसे गरी सवारी चलाउने पाँच चालक कारबाहीमा",
-   "ne": "लापसे गरी सवारी चलाउने पाँच चालक कारबाहीमा",
-   "imp": 2,
-   "tags": [
-    "TrafficPolice",
-    "DrinkDriving",
-    "कारबाही"
-   ],
-   "cat": "society",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
   {
    "title": "Nepal's flood recovery starts with helping people rebuild their lives",
    "summary": "",
@@ -3658,29 +3634,6 @@
    "cat": "health",
    "val": 1,
    "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "Nepal's Constitutional Bench caught in seniority, 'pick and choose' dispute",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNzJYZ0Rhc0c1Vm1MUEpzSTAtSFFXQmpOQXBqdVRTTkRCSVJmS1l1X0lRcXZRRVl2dmhkOUg5aUNVZkJyaS1CdVVaanUxY2trbnlzSWFsaXk2SDFhTURDUF8waW43Uy1NYUVUbnhrcnFoMGFSSk1nVFowWmJseXlYc0RDcFVGczZoRHJybFplcXN5blpsQktqTjN6bUhrZw?oc=5",
-   "source": "Asia News Network",
-   "ts": 1791508645,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Nepal's Constitutional Bench caught in seniority, 'pick and choose' dispute",
-   "en": "Nepal's Constitutional Bench caught in seniority, 'pick and choose' dispute",
-   "ne": "Nepal's Constitutional Bench caught in seniority, 'pick and choose' dispute",
-   "imp": 4,
-   "tags": [
-    "SupremeCourt",
-    "Nepal",
-    "ConstitutionalBench"
-   ],
-   "cat": "politics",
-   "val": 2,
-   "teaser": false,
    "hits": 1
   },
   {
@@ -7100,10 +7053,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "world"
+  },
+  {
+   "ts": 1791510650.6969662,
+   "en": "Nepal's Constitutional Bench caught in seniority, 'pick and choose' dispute",
+   "ne": "Nepal's Constitutional Bench caught in seniority, 'pick and choose' dispute",
+   "link": "https://asianews.network/nepals-constitutional-bench-caught-in-seniority-pick-and-choose-dispute/",
+   "source": "Asia News Network",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "politics"
   }
  ],
- "updated": 1791510054,
- "pending_since": null,
+ "updated": 1791510662,
+ "pending_since": 1791510645.686562,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
