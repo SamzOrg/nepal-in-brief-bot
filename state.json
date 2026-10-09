@@ -1,10 +1,5 @@
 {
  "seen": {
-  "https://english.khabarhub.com/2026/07/570996/": 1791340266.9064531,
-  "https://english.khabarhub.com/2026/07/570973/": 1791340266.9064531,
-  "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeTFyVmxHYTBVVGNOX05DaFh0NGNQNDhaYllYVTUySlJNZGRVQUxSV2haTkxOYnlzR3lGRHFCVGhUUTA2bnpOQ0ZNRWJyclNLbUlpR2VEbU5vY1JQNEtqTHlDaXYzR3FFRC1DZmNkM0RnRU4xUXp2TjBRZmJtNU9yckwzc3I?oc=5": 1791340266.9064531,
-  "http://lokaantar.com/story/330675/2026/10/7/messi-": 1791340266.9064531,
-  "https://nagariknews.nagariknetwork.com/social-affairs/red-cross-to-provide-rs-100-000-cash-assistance-to-families-of-missing-and-deceased-in-bhotekoshi-flood-63-85.html": 1791340266.9064531,
   "https://gorkhapatraonline.com/news/225705": 1791340848.0063848,
   "https://baahrakhari.com/detail/504093": 1791340848.0063848,
   "https://risingnepaldaily.com/news/87495": 1791340848.0063848,
@@ -2443,7 +2438,10 @@
   "https://nagariknews.nagariknetwork.com/social-affairs/five-thousand-police-officers-to-be-mobilized-in-karnali-63-42.html": 1791513063.3257346,
   "https://nagariknews.nagariknetwork.com/sports/now-the-title-of-the-africa-cup-of-nations-will-be-decided-by-the-court-62-81.html": 1791513063.3257346,
   "https://nagariknews.nagariknetwork.com/social-affairs/heavy-rain-likely-in-various-parts-of-the-country-urges-caution-66-26.html": 1791513063.3257346,
-  "https://nagariknews.nagariknetwork.com/sports/three-games-tonight-in-europe-s-three-biggest-leagues-72-32.html": 1791513063.3257346
+  "https://nagariknews.nagariknetwork.com/sports/three-games-tonight-in-europe-s-three-biggest-leagues-72-32.html": 1791513063.3257346,
+  "https://nagariknews.nagariknetwork.com/social-affairs/refresh-center-established-in-janakpur-and-lalgarh-37-16.html": 1791513647.4471688,
+  "https://www.setopati.com/politics/400398": 1791513647.4471688,
+  "https://risingnepaldaily.com/news/87582": 1791513647.4471688
  },
  "queue": [
   {
@@ -4302,7 +4300,7 @@
    "cat": "society",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Nancy Khadka Debuts in 'Akshara' After '12 Gaun'",
@@ -4464,6 +4462,28 @@
     "Sports"
    ],
    "cat": "sports",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Report on flood damage in Rasuwa submitted",
+   "summary": "By Anil Parajuli, Hetauda, Oct. 9: An integrated report on the human and physical damage caused by the flooding of the B...",
+   "link": "https://risingnepaldaily.com/news/87582",
+   "source": "Rising Nepal",
+   "ts": 1791513304,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "Report on flood damage in Rasuwa submitted",
+   "en": "Report on flood damage in Rasuwa submitted",
+   "ne": "Report on flood damage in Rasuwa submitted",
+   "imp": 3,
+   "tags": [
+    "Flood",
+    "Rasuwa"
+   ],
+   "cat": "disaster",
    "val": 2,
    "teaser": false,
    "hits": 1
@@ -7705,8 +7725,8 @@
    "cat": "society"
   }
  ],
- "updated": 1791513069,
- "pending_since": null,
+ "updated": 1791513651,
+ "pending_since": 1791513647.4471688,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
