@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRzU1M1BTLTE3SUg1aUZKVmJ5YjUwOVpWY0N3N0k2Y1E0U3pIWkxiZ2R3eHItc2dFREcwZm84R25NbDFVUlNZdEtQRTFNNHpneW5qSlVxNW5fS09VN3ByQnFlQXhscDA5RnA3Vkg4cGNWMmxVRGRDY3RCQnZJWFlsUHhGZGk4cThoX1ZQaGNSYnQ?oc=5": 1791342084.0692968,
-  "http://lokaantar.com/story/330594/2026/10/7/major-development-projects-": 1791342084.0692968,
   "http://english.ratopati.com/story/82663/who-are-the-candidates-for-congress-office-bearers-from-bagmati": 1791342658.3971715,
   "https://gorkhapatraonline.com/news/225710": 1791342658.3971715,
   "https://www.setopati.com/sports/football/400222": 1791342658.3971715,
@@ -2443,7 +2441,8 @@
   "https://theannapurnaexpress.com/story/67777": 1791514883.2304692,
   "https://gorkhapatraonline.com/news/225996": 1791514883.2304692,
   "https://theannapurnaexpress.com/story/67776": 1791514883.2304692,
-  "https://theannapurnaexpress.com/story/67775": 1791514883.2304692
+  "https://theannapurnaexpress.com/story/67775": 1791514883.2304692,
+  "http://english.ratopati.com/story/82969/pokhara-school-bus-accident-update-grade-10-students-were-being-brought-for-tuition": 1791515448.3584123
  },
  "queue": [
   {
@@ -4808,17 +4807,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1790910085.8017623,
-   "en": "Nepal's Forest Cover Reaches 46 Percent, But Timber Imports Continue",
-   "ne": "Nepal's Forest Cover Reaches 46 Percent, But Timber Imports Continue",
-   "link": "https://myrepublica.nagariknetwork.com/news/transforming-nepals-green-cover-to-green-wealth-59-31.html",
-   "source": "myRepublica",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "economy"
-  },
   {
    "ts": 1790911871.618822,
    "en": "बाढीपहिरोका कारण बागमती र गण्डकीका ९ स्थानमा राजमार्ग अवरुद्ध",
@@ -8043,8 +8031,8 @@
    "cat": "disaster"
   }
  ],
- "updated": 1791514889,
- "pending_since": null,
+ "updated": 1791515452,
+ "pending_since": 1791515448.3584123,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
