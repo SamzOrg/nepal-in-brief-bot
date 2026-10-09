@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5RUkkyRDJ1Sk4tdWRvanRYcjJONURfSEdEWW9LZV9rWEhRc0R1SDJxZEVoX1VFNnBuc1MzRnEwM3FIenBDM3VtaGxoZVNOYVBV?oc=5": 1791348653.3003895,
   "https://baahrakhari.com/detail/504104": 1791349290.300281,
   "https://www.setopati.com/social/400233": 1791349290.300281,
   "https://nagariknews.nagariknetwork.com/social-affairs/ngo-relief-programs-in-flood-affected-areas-21-64.html": 1791349290.300281,
@@ -2415,7 +2414,31 @@
   "https://theannapurnaexpress.com/story/67782": 1791521451.8407693,
   "http://lokaantar.com/story/330852/2026/10/9/dhammika-": 1791521451.8407693,
   "https://baahrakhari.com/detail/504340": 1791521451.8407693,
-  "https://gorkhapatraonline.com/news/226013": 1791521451.8407693
+  "https://gorkhapatraonline.com/news/226013": 1791521451.8407693,
+  "https://english.onlinekhabar.com/five-killed-14-injured-as-school-bus-plunges-off-road-in-pokhara.html": 1791522082.500327,
+  "https://nagariknews.nagariknetwork.com/social-affairs/the-access-road-to-the-kaligandaki-bridge-towards-tanahun-is-being-reconstructed-33-79.html": 1791522082.500327,
+  "http://english.ratopati.com/story/82987/it-seems-impossible-for-any-miraculous-change-to-occur-in-madhesh": 1791522082.500327,
+  "https://gorkhapatraonline.com/news/226018": 1791522082.500327,
+  "https://www.setopati.com/politics/400409": 1791522082.500327,
+  "https://risingnepaldaily.com/news/87586": 1791522082.500327,
+  "https://english.onlinekhabar.com/anfa-president-general-secretary-fraud.html": 1791522082.500327,
+  "https://nagariknews.nagariknetwork.com/social-affairs/a-two-tiered-moonlight-shelter-protected-by-an-embankment-74-84.html": 1791522082.500327,
+  "https://theannapurnaexpress.com/story/67784": 1791522082.500327,
+  "http://lokaantar.com/story/330853/2026/10/9/tekraj-thalal-": 1791522082.500327,
+  "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaFlWZHFWZFAxaS1EQWtnQUFxRm1ma3BGTXVrRnFkOU1zMXNKRFpnSGF3Wm1QVE5vRkRLMXBuZnRzZ2poRUl2MlAydXFnWEVxeWl6MXByc0p4NnRFZWNpYmhLLXBtTDdKeWNFaWlSRVpiLVRleXozcS1IdDRkeFE5SW5rRDRMYnFoSFh2dHZ0bzBDdnZrNjBxZmw4ZG5UTXM?oc=5": 1791522082.500327,
+  "http://english.ratopati.com/story/82984/dadeldhuras-tekraj-among-sudurpaschim-royals-iconic-players": 1791522082.500327,
+  "https://gorkhapatraonline.com/news/226017": 1791522082.500327,
+  "https://www.setopati.com/social/400408": 1791522082.500327,
+  "https://nagariknews.nagariknetwork.com/social-affairs/weaving-a-headscarf-teaching-a-skill-br-82-63.html": 1791522082.500327,
+  "https://theannapurnaexpress.com/story/67783": 1791522082.500327,
+  "http://english.ratopati.com/story/82983/uml-completes-committees-including-politburo": 1791522082.500327,
+  "https://gorkhapatraonline.com/news/226015": 1791522082.500327,
+  "https://www.setopati.com/politics/400407": 1791522082.500327,
+  "http://english.ratopati.com/story/82982/trump-administration-preparing-to-live-stream-execution-of-former-major-who-killed-13-soldiers": 1791522082.500327,
+  "https://gorkhapatraonline.com/news/226014": 1791522082.500327,
+  "https://www.setopati.com/politics/400405": 1791522082.500327,
+  "https://gorkhapatraonline.com/news/226012": 1791522082.500327,
+  "https://www.setopati.com/politics/400406": 1791522082.500327
  },
  "queue": [
   {
@@ -4820,7 +4843,7 @@
    "cat": "economy",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "जलवायु न्यायको गृहकार्य",
@@ -5141,7 +5164,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 3
+   "hits": 4
   },
   {
    "title": "World Mental Health Day Observed with Focus on Lived Experiences",
@@ -5780,7 +5803,7 @@
    "cat": "education",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "नजिकिँदै दसैँ : बिग्रिएका सडक मर्मत सुरु",
@@ -5849,6 +5872,459 @@
    "cat": "disaster",
    "val": 2,
    "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Madhesi Politics: Expert Discusses Challenges and Future",
+   "summary": "Another local level and provincial assembly election will be held next year. The ruling party, Rastriya Swatantra Party, has already...",
+   "link": "http://english.ratopati.com/story/82987/it-seems-impossible-for-any-miraculous-change-to-occur-in-madhesh",
+   "source": "Ratopati EN",
+   "ts": 1791521883,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/bhogendra-jha_gu9cddfsz6.webp",
+   "lang": "en",
+   "hl": "Madhesi Politics: Expert Discusses Challenges and Future",
+   "en": "Madhesi Politics: Expert Discusses Challenges and Future",
+   "ne": "Madhesi Politics: Expert Discusses Challenges and Future",
+   "imp": 2,
+   "tags": [
+    "MadhesiPolitics",
+    "Nepal"
+   ],
+   "cat": "politics",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "समावेशीकरणको दिशामा नयाँ फड्को : गोरखापत्रद्वारा प्रकाशित सन्थाली भाषा",
+   "summary": "",
+   "link": "https://gorkhapatraonline.com/news/226018",
+   "source": "Gorkhapatra",
+   "ts": 1791521784,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/387247/conversions/7-original.jpg",
+   "lang": "ne",
+   "hl": "समावेशीकरणको दिशामा नयाँ फड्को : गोरखापत्रद्वारा प्रकाशित सन्थाली भाषा",
+   "en": "समावेशीकरणको दिशामा नयाँ फड्को : गोरखापत्रद्वारा प्रकाशित सन्थाली भाषा",
+   "ne": "समावेशीकरणको दिशामा नयाँ फड्को : गोरखापत्रद्वारा प्रकाशित सन्थाली भाषा",
+   "imp": 2,
+   "tags": [
+    "Gorakhpatra",
+    "SanthaliLanguage",
+    "संवर्धन"
+   ],
+   "cat": "culture",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "विशेष महाधिवेशनको पक्ष-विपक्ष नहेरी मतदान गर्न विश्वप्रकाशको आग्रह",
+   "summary": "सभापतिको नाम जोडेर विवादमा ल्याउने प्रयास नगर्नसमेत शर्माले आग्रह गरेका छन्।",
+   "link": "https://www.setopati.com/politics/400409",
+   "source": "Setopati",
+   "ts": 1791521460,
+   "weight": 3,
+   "img": null,
+   "lang": "ne",
+   "hl": "विशेष महाधिवेशनको पक्ष-विपक्ष नहेरी मतदान गर्न विश्वप्रकाशको आग्रह",
+   "en": "विशेष महाधिवेशनको पक्ष-विपक्ष नहेरी मतदान गर्न विश्वप्रकाशको आग्रह",
+   "ne": "विशेष महाधिवेशनको पक्ष-विपक्ष नहेरी मतदान गर्न विश्वप्रकाशको आग्रह",
+   "imp": 3,
+   "tags": [
+    "NepaliCongress",
+    "BiswoPrakashSharma"
+   ],
+   "cat": "politics",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Goods stranded in Mustang to be sent first after one-way road opens",
+   "summary": "By Hari Krishna Sharma,Muktinath (Mustang), Oct. 9: Goods stranded in Mustang following the disruption of the road, incl...",
+   "link": "https://risingnepaldaily.com/news/87586",
+   "source": "Rising Nepal",
+   "ts": 1791521247,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "Goods stranded in Mustang to be sent first after one-way road opens",
+   "en": "Goods stranded in Mustang to be sent first after one-way road opens",
+   "ne": "Goods stranded in Mustang to be sent first after one-way road opens",
+   "imp": 3,
+   "tags": [
+    "Mustang",
+    "Highway",
+    "Transport"
+   ],
+   "cat": "economy",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "ANFA president, general secretary and two others charged over alleged financial irregularities",
+   "summary": "Kathmandu, October 9 The District Government Attorney's Office in Lalitpur has filed a case against All Nepal Football Association (ANFA) President Pankaj Bikram Nembang, General Secretary Kiran Rai and two other...",
+   "link": "https://english.onlinekhabar.com/anfa-president-general-secretary-fraud.html",
+   "source": "Onlinekhabar EN",
+   "ts": 1791520762,
+   "weight": 3,
+   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/10/anfa-4-jana-cover.png",
+   "lang": "en",
+   "hl": "ANFA president, general secretary and two others charged over alleged financial irregularities",
+   "en": "ANFA president, general secretary and two others charged over alleged financial irregularities",
+   "ne": "ANFA president, general secretary and two others charged over alleged financial irregularities",
+   "imp": 4,
+   "tags": [
+    "ANFA",
+    "Football",
+    "PankajNembang"
+   ],
+   "cat": "sports",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "तटबन्धले सुरक्षित दोधारा चाँदनीको कुतियाकवर",
+   "summary": "महाकाली र जोगबुढा नदीमा पक्की तटबन्ध निर्माण भएपछि कञ्चनपुरको दोधारा चाँदनी नगरपालिका-१० कुतियाकवर सुरक्षित भएको छ।...",
+   "link": "https://nagariknews.nagariknetwork.com/social-affairs/a-two-tiered-moonlight-shelter-protected-by-an-embankment-74-84.html",
+   "source": "Nagarik News",
+   "ts": 1791520317,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2025/third-party/1791520308_New%20Project%20(8).jpg",
+   "lang": "ne",
+   "hl": "तटबन्धले सुरक्षित दोधारा चाँदनीको कुतियाकवर",
+   "en": "तटबन्धले सुरक्षित दोधारा चाँदनीको कुतियाकवर",
+   "ne": "तटबन्धले सुरक्षित दोधारा चाँदनीको कुतियाकवर",
+   "imp": 2,
+   "tags": [
+    "DodharaChandani",
+    "Flood",
+    "तटबन्ध"
+   ],
+   "cat": "disaster",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Xhaka handed suspended fine over fake COVID-19 vaccination certificate",
+   "summary": "Sunderland captain Granit Xhaka has received a suspended fine of 150,000 Swiss francs ($180,159) after admitting he obtained a fake COVID-19 vaccination certificate, the midfielder said on social media on Thursday,...",
+   "link": "https://theannapurnaexpress.com/story/67784",
+   "source": "Annapurna Express",
+   "ts": 1791507683.8396592,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "Xhaka handed suspended fine over fake COVID-19 vaccination certificate",
+   "en": "Xhaka handed suspended fine over fake COVID-19 vaccination certificate",
+   "ne": "Xhaka handed suspended fine over fake COVID-19 vaccination certificate",
+   "imp": 1,
+   "tags": [
+    "GranitXhaka",
+    "Football",
+    "Switzerland"
+   ],
+   "cat": "sports",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "सुदूरपश्चिम रोयल्सको 'आइकोनिक खेलाडी'मा डडेल्धुराका टेकराज थलाल",
+   "summary": "नेपाल प्रिमियर लिग (एनपीएल)को तेस्रो संस्करणका लागि सुदूरपश्चिम रोयल्सले आयोजना गरेको ट्यालेन्ट हन्टबाट बायाँहाते मध्यमगतिका बलर टेकराज थलाल 'आइकोनिक खेलाडी'का रूपमा छनोट भएका छन् ।सुदूरपश्चिमका विभिन्न जिल्लामा आयोजना...",
+   "link": "http://lokaantar.com/story/330853/2026/10/9/tekraj-thalal-",
+   "source": "Lokaantar",
+   "ts": 1791507683.1782012,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "सुदूरपश्चिम रोयल्सको 'आइकोनिक खेलाडी'मा डडेल्धुराका टेकराज थलाल",
+   "en": "सुदूरपश्चिम रोयल्सको 'आइकोनिक खेलाडी'मा डडेल्धुराका टेकराज थलाल",
+   "ne": "सुदूरपश्चिम रोयल्सको 'आइकोनिक खेलाडी'मा डडेल्धुराका टेकराज थलाल",
+   "imp": 3,
+   "tags": [
+    "SudurpaschimRoyals",
+    "TekrajThalal",
+    "NPL"
+   ],
+   "cat": "sports",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Latest News",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaFlWZHFWZFAxaS1EQWtnQUFxRm1ma3BGTXVrRnFkOU1zMXNKRFpnSGF3Wm1QVE5vRkRLMXBuZnRzZ2poRUl2MlAydXFnWEVxeWl6MXByc0p4NnRFZWNpYmhLLXBtTDdKeWNFaWlSRVpiLVRleXozcS1IdDRkeFE5SW5rRDRMYnFoSFh2dHZ0bzBDdnZrNjBxZmw4ZG5UTXM?oc=5",
+   "source": "myRepublica",
+   "ts": 1791501155,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "Latest News",
+   "en": "Latest News",
+   "ne": "Latest News",
+   "imp": 1,
+   "tags": [
+    "News"
+   ],
+   "cat": "other",
+   "val": 1,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Sudurpaschim Royals Select Tekraj Thala as Iconic Player for NPL Season 3",
+   "summary": "Kathmandu. Sudurpaschim Royals have selected Dadeldhura's left-arm medium pacer Tekraj Thala as the 'iconic' player for the third season of...",
+   "link": "http://english.ratopati.com/story/82984/dadeldhuras-tekraj-among-sudurpaschim-royals-iconic-players",
+   "source": "Ratopati EN",
+   "ts": 1791520919,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/tekraj-thalal_wgJOeQnfS1.webp",
+   "lang": "en",
+   "hl": "Sudurpaschim Royals Select Tekraj Thala as Iconic Player for NPL Season 3",
+   "en": "Sudurpaschim Royals Select Tekraj Thala as Iconic Player for NPL Season 3",
+   "ne": "Sudurpaschim Royals Select Tekraj Thala as Iconic Player for NPL Season 3",
+   "imp": 3,
+   "tags": [
+    "SudurpaschimRoyals",
+    "TekrajThalal",
+    "NPL"
+   ],
+   "cat": "sports",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "कांग्रेस महाधिवेशनमा मतदानको चहलपहल",
+   "summary": "काठमाडौँ, असोज २३ गते । नेपाली कांग्रेसको १५औँ महाधिवेशनअन्तर्गत नयाँ केन्द्रीय कार्यसमिति चयनका लागि मतदान जारी रहेको छ । निर्वाचन समितिका सदस्यसचिव राजु कटुवालका अनुसार शुक्रबार...",
+   "link": "https://gorkhapatraonline.com/news/226017",
+   "source": "Gorkhapatra",
+   "ts": 1791521750,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/387246/conversions/6-original.jpg",
+   "lang": "ne",
+   "hl": "कांग्रेस महाधिवेशनमा मतदानको चहलपहल",
+   "en": "कांग्रेस महाधिवेशनमा मतदानको चहलपहल",
+   "ne": "कांग्रेस महाधिवेशनमा मतदानको चहलपहल",
+   "imp": 3,
+   "tags": [
+    "NepaliCongress",
+    "Election"
+   ],
+   "cat": "politics",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "डोको बुन्दै, सीप सिकाउँदै",
+   "summary": "गाउँघरमा कृषि तथा घरायसी काममा प्रयोग हुने डोको पछिल्लो समय बजारमा पाइने आधुनिक सामग्रीका कारण निकै कम मात्रामा प्रयोग हुन थालेको छ।...",
+   "link": "https://nagariknews.nagariknetwork.com/social-affairs/weaving-a-headscarf-teaching-a-skill-br-82-63.html",
+   "source": "Nagarik News",
+   "ts": 1791519802,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2024/third-party/1791519950_dft%20dft%2098.jpg",
+   "lang": "ne",
+   "hl": "डोको बुन्दै, सीप सिकाउँदै",
+   "en": "डोको बुन्दै, सीप सिकाउँदै",
+   "ne": "डोको बुन्दै, सीप सिकाउँदै",
+   "imp": 1,
+   "tags": [
+    "Doko",
+    "Skill",
+    "डोको"
+   ],
+   "cat": "culture",
+   "val": 1,
+   "teaser": true,
+   "hits": 1
+  },
+  {
+   "title": "Haaland tells embattled Man City fans to 'stick together'",
+   "summary": "Manchester City striker Erling Haaland urged the embattled club's supporters to stick together in his first public comments since City were found guilty of more than 100 charges relating to breaches of Premier League...",
+   "link": "https://theannapurnaexpress.com/story/67783",
+   "source": "Annapurna Express",
+   "ts": 1791507683.8396592,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "Haaland tells embattled Man City fans to 'stick together'",
+   "en": "Haaland tells embattled Man City fans to 'stick together'",
+   "ne": "Haaland tells embattled Man City fans to 'stick together'",
+   "imp": 1,
+   "tags": [
+    "ErlingHaaland",
+    "ManchesterCity",
+    "EPL"
+   ],
+   "cat": "sports",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "CPN UML Standing Committee Meeting to Finalize Party Committees and Organizations",
+   "summary": "Kathmandu. The Standing Committee meeting of the CPN UML today, Friday, will discuss the issue of finalizing party committees and...",
+   "link": "http://english.ratopati.com/story/82983/uml-completes-committees-including-politburo",
+   "source": "Ratopati EN",
+   "ts": 1791520348,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/uml-office-chyasal_18_nebsmbkay5_9QFm6lpYG8.jpg",
+   "lang": "en",
+   "hl": "CPN UML Standing Committee Meeting to Finalize Party Committees and Organizations",
+   "en": "CPN UML Standing Committee Meeting to Finalize Party Committees and Organizations",
+   "ne": "CPN UML Standing Committee Meeting to Finalize Party Committees and Organizations",
+   "imp": 3,
+   "tags": [
+    "CPNUML",
+    "Meeting"
+   ],
+   "cat": "politics",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "साइबर अपराधविरुद्ध सचेतना फैलाउँदै विद्यार्थी",
+   "summary": "अमरगढी समाचारदाताडडेलधुरा, असोज २३ गते । साइबर अपराध, यौनहिंसा, मानसिक तनाव तथा यौन तथा प्रजनन स्वास्थ्य अधिकारका विषयमा समुदायमा सचेतना फैलाउने उद्देश्यले अमरगढी नगरपालिका-५, खलङ्...",
+   "link": "https://gorkhapatraonline.com/news/226015",
+   "source": "Gorkhapatra",
+   "ts": 1791521165,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/387244/conversions/1234-original.jpg",
+   "lang": "ne",
+   "hl": "साइबर अपराधविरुद्ध सचेतना फैलाउँदै विद्यार्थी",
+   "en": "साइबर अपराधविरुद्ध सचेतना फैलाउँदै विद्यार्थी",
+   "ne": "साइबर अपराधविरुद्ध सचेतना फैलाउँदै विद्यार्थी",
+   "imp": 2,
+   "tags": [
+    "CyberCrime",
+    "Students",
+    "साइबर"
+   ],
+   "cat": "crime",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "सभापति उम्मेदवार श्यामकृष्ण खड्गीले गरे मतदान",
+   "summary": "नेपाली कांग्रेसको १५ औं महाधिवेशनअन्तर्गत आज निर्वाचन भइरहेको छ।",
+   "link": "https://www.setopati.com/politics/400407",
+   "source": "Setopati",
+   "ts": 1791520800,
+   "weight": 3,
+   "img": null,
+   "lang": "ne",
+   "hl": "सभापति उम्मेदवार श्यामकृष्ण खड्गीले गरे मतदान",
+   "en": "सभापति उम्मेदवार श्यामकृष्ण खड्गीले गरे मतदान",
+   "ne": "सभापति उम्मेदवार श्यामकृष्ण खड्गीले गरे मतदान",
+   "imp": 3,
+   "tags": [
+    "NepaliCongress",
+    "ShyamKrishnaKhadgi"
+   ],
+   "cat": "politics",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "US Army Major Nidal Hasan's Execution to be Broadcast Live",
+   "summary": "Washington DC. Former soldier Major Nidal Hasan, who shot and killed 13 soldiers at the Fort Hood military camp in...",
+   "link": "http://english.ratopati.com/story/82982/trump-administration-preparing-to-live-stream-execution-of-former-major-who-killed-13-soldiers",
+   "source": "Ratopati EN",
+   "ts": 1791520341,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/cover-recovered_tGhezx1PfT.webp",
+   "lang": "en",
+   "hl": "US Army Major Nidal Hasan's Execution to be Broadcast Live",
+   "en": "US Army Major Nidal Hasan's Execution to be Broadcast Live",
+   "ne": "US Army Major Nidal Hasan's Execution to be Broadcast Live",
+   "imp": 1,
+   "tags": [
+    "USArmy",
+    "NidalHasan",
+    "Execution"
+   ],
+   "cat": "world",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "धनकुटामा सडक दुर्घटना न्यूनीकरण तथा उद्धार अभ्यास",
+   "summary": "धनकुटा समाचारदाताधनकुटा, असोज २३ गते । सडक दुर्घटना न्यूनीकरण तथा दुर्घटनापछिको उद्धार कार्यलाई प्रभावकारी बनाउने उद्देश्यले धनकुटामा सडक दुर्घटना तथा उद्धारसम्बन्धी संयुक्त अभ्यास...",
+   "link": "https://gorkhapatraonline.com/news/226014",
+   "source": "Gorkhapatra",
+   "ts": 1791521158,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/387243/conversions/IMG_3393-original.jpg",
+   "lang": "ne",
+   "hl": "धनकुटामा सडक दुर्घटना न्यूनीकरण तथा उद्धार अभ्यास",
+   "en": "धनकुटामा सडक दुर्घटना न्यूनीकरण तथा उद्धार अभ्यास",
+   "ne": "धनकुटामा सडक दुर्घटना न्यूनीकरण तथा उद्धार अभ्यास",
+   "imp": 2,
+   "tags": [
+    "Dhankuta",
+    "RoadSafety",
+    "दुर्घटना"
+   ],
+   "cat": "society",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "गौरव आयोजनाको सडक बनाउँदै स्थानीय तह",
+   "summary": "खलङ्गा समाचारदाता खलङ्गा (दार्चुला), असोज २३ गते । सुदूरपश्चिम प्रदेश सरकारको गौरवको योजनाका रूपमा रहेको दार्चुलास्थित निर्माणाधीन खलङ्गा-खार-देथला-पारिबगड सडकखण्डको स्तरोन्नति महा...",
+   "link": "https://gorkhapatraonline.com/news/226012",
+   "source": "Gorkhapatra",
+   "ts": 1791520698,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/387241/conversions/211-original.jpg",
+   "lang": "ne",
+   "hl": "गौरव आयोजनाको सडक बनाउँदै स्थानीय तह",
+   "en": "गौरव आयोजनाको सडक बनाउँदै स्थानीय तह",
+   "ne": "गौरव आयोजनाको सडक बनाउँदै स्थानीय तह",
+   "imp": 2,
+   "tags": [
+    "Infrastructure",
+    "LocalGovernment",
+    "सडक"
+   ],
+   "cat": "economy",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "भोट माग्दै गगन थापा",
+   "summary": "नेपाली कांग्रेसको १५ औं महाधिवेशनमा सभापति पदका उम्मेदवार गगन थापाले महाधिवेशन प्रतिनिधिहरूलाई भेटेर मत मागेका छन्।",
+   "link": "https://www.setopati.com/politics/400406",
+   "source": "Setopati",
+   "ts": 1791520625,
+   "weight": 3,
+   "img": null,
+   "lang": "ne",
+   "hl": "भोट माग्दै गगन थापा",
+   "en": "भोट माग्दै गगन थापा",
+   "ne": "भोट माग्दै गगन थापा",
+   "imp": 3,
+   "tags": [
+    "GaganThapa",
+    "NepaliCongress",
+    "चुनाव"
+   ],
+   "cat": "politics",
+   "val": 2,
+   "teaser": true,
    "hits": 1
   }
  ],
@@ -9066,8 +9542,8 @@
    "cat": "sports"
   }
  ],
- "updated": 1791521476,
- "pending_since": 1791520268.9014814,
+ "updated": 1791522088,
+ "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
