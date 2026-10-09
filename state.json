@@ -1,8 +1,5 @@
 {
  "seen": {
-  "http://english.ratopati.com/story/82646/who-is-running-for-the-position-of-congress-joint-general-secretary": 1791334249.704574,
-  "https://baahrakhari.com/detail/504086": 1791334249.704574,
-  "https://www.bbc.co.uk/news/articles/ck054zm1701qo?at_medium=RSS&at_campaign=rss": 1791334249.704574,
   "http://english.ratopati.com/story/82647/42-candidates-contest-open-womens-central-committee-seat-15-to-be-elected": 1791334884.3459127,
   "http://lokaantar.com/story/330665/2026/10/7/congress-": 1791334884.3459127,
   "http://lokaantar.com/story/330662/2026/10/7/congress-": 1791334884.3459127,
@@ -2893,29 +2890,6 @@
    ],
    "cat": "world",
    "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "कोसी, वाग्मती र सुदूरपश्चिमका केही स्थानमा भारी वर्षाको पूर्वानुमान",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/504322",
-   "source": "Baahrakhari",
-   "ts": 1791506100,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "कोसी, वाग्मती र सुदूरपश्चिमका केही स्थानमा भारी वर्षाको पूर्वानुमान",
-   "en": "कोसी, वाग्मती र सुदूरपश्चिमका केही स्थानमा भारी वर्षाको पूर्वानुमान",
-   "ne": "कोसी, वाग्मती र सुदूरपश्चिमका केही स्थानमा भारी वर्षाको पूर्वानुमान",
-   "imp": 4,
-   "tags": [
-    "Weather",
-    "HeavyRain",
-    "मौसम"
-   ],
-   "cat": "disaster",
-   "val": 3,
    "teaser": false,
    "hits": 1
   },
@@ -6480,10 +6454,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "politics"
+  },
+  {
+   "ts": 1791507058.0231984,
+   "en": "कोसी, वाग्मती र सुदूरपश्चिमका केही स्थानमा भारी वर्षाको पूर्वानुमान",
+   "ne": "कोसी, वाग्मती र सुदूरपश्चिमका केही स्थानमा भारी वर्षाको पूर्वानुमान",
+   "link": "https://baahrakhari.com/detail/504322",
+   "source": "Baahrakhari",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "disaster"
   }
  ],
- "updated": 1791506459,
- "pending_since": null,
+ "updated": 1791507070,
+ "pending_since": 1791507051.5396943,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
