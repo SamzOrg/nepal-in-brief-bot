@@ -2298,79 +2298,12 @@
   "https://baahrakhari.com/detail/504452": 1791592851.4505038,
   "http://lokaantar.com/story/330928/2026/10/10/road-": 1791592851.4505038,
   "https://baahrakhari.com/detail/504451": 1791592851.4505038,
-  "http://lokaantar.com/story/330927/2026/10/10/pokhara-": 1791592851.4505038
+  "http://lokaantar.com/story/330927/2026/10/10/pokhara-": 1791592851.4505038,
+  "https://www.setopati.com/social/400495": 1791593448.11883,
+  "http://english.ratopati.com/story/83099/foreign-minister-khanal-meets-with-australian-governor-general-mostyn": 1791593448.11883,
+  "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZzRFeUV2YjV4cXhJN0VYMFpvbTlNSkI5RUxhT0ZhbmNWeHMwSm9wTldDc3Y0OFYzOVJYQy1lVm5YWXZNWEE0VW96azF1Y3pSdDl0U2NuRndRTmlUaGFfLWZIT0JQVXRKRFdsQUJ6ZGxWNkh6TVMwVElxUTdkam9mOFJraTRjMm5KaXRIYW1tcEwtNE1YYTNOUmtMN0YtMm9SNndXR1RR?oc=5": 1791593448.11883
  },
  "queue": [
-  {
-   "title": "Decision to approve investment in two semi-reservoir hydropower projects",
-   "summary": "Kathmandu, Oct 9: The Investment Board has decided to approve investment in two semi-reservoir hydropower projects. The...",
-   "link": "https://risingnepaldaily.com/news/87611",
-   "source": "Rising Nepal",
-   "ts": 1791564210,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Decision to approve investment in two semi-reservoir hydropower projects",
-   "en": "Decision to approve investment in two semi-reservoir hydropower projects",
-   "ne": "Decision to approve investment in two semi-reservoir hydropower projects",
-   "imp": 3,
-   "tags": [
-    "Hydropower",
-    "Investment",
-    "Cabinet"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 3
-  },
-  {
-   "title": "Acting Chief of District Health Office, Taplejung Accused of Using Fake Educational Certificate",
-   "summary": "Kathmandu. The Commission for Investigation of Abuse of Authority has today filed a charge sheet in the Special Court against...",
-   "link": "http://english.ratopati.com/story/83086/chargesheet-filed-for-fake-educational-certificate",
-   "source": "Ratopati EN",
-   "ts": 1791564244,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/akhtiyar_BwsfsVofIQ.jpg",
-   "lang": "en",
-   "hl": "Acting Chief of District Health Office, Taplejung Accused of Using Fake Educational Certificate",
-   "en": "Acting Chief of District Health Office, Taplejung Accused of Using Fake Educational Certificate",
-   "ne": "Acting Chief of District Health Office, Taplejung Accused of Using Fake Educational Certificate",
-   "imp": 3,
-   "tags": [
-    "Taplejung",
-    "FakeCertificate",
-    "HealthOffice"
-   ],
-   "cat": "education",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "United Sherpa Association of Colorado sends $30k to Nepal for flood relief",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdHloUk91bDN0bzdhZ1BBTlFhQmdEVWNleGI3UERBdjN1UUUtUC1Sd0Vlckx3UGJzV2hGeDFkYkR1TVVoSlg2R3R2eXFaOTF0R19tSVUxWFFjQzlLZkJOb3o5QTBHdU12VzdMQmxPRExkMHhPZlU4RDdiSDFRRGFpOHRQWHNiLXJMZ2xuNEx2THplZ0w2b1dmNEEyNG8yMEVxcWc?oc=5",
-   "source": "Rocky Mountain PBS",
-   "ts": 1791565332,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "United Sherpa Association of Colorado sends $30k to Nepal for flood relief",
-   "en": "United Sherpa Association of Colorado sends $30k to Nepal for flood relief",
-   "ne": "United Sherpa Association of Colorado sends $30k to Nepal for flood relief",
-   "imp": 3,
-   "tags": [
-    "UnitedSherpaAssociation",
-    "Colorado",
-    "FloodRelief",
-    "बाढी"
-   ],
-   "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
   {
    "title": "कर्णालीमा स्थानीय सेवाको शैक्षिक योग्यता संशोधन, पशु चिकित्सकको तहगत व्यवस्था फेरियो",
    "summary": "",
@@ -2553,7 +2486,7 @@
    "cat": "politics",
    "val": 2,
    "teaser": false,
-   "hits": 3
+   "hits": 4
   },
   {
    "title": "Genetic Sleuthing Confirms the Mysterious Tibetan Brown Bear Roams Nepal's High Deserts",
@@ -2806,7 +2739,7 @@
    "cat": "disaster",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "मात्र औपचारिकता !",
@@ -6054,10 +5987,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "politics"
+  },
+  {
+   "ts": 1791593453.4705954,
+   "en": "Colorado Sherpa Association Sends $30k to Nepal for Flood Relief",
+   "ne": "Colorado Sherpa Association Sends $30k to Nepal for Flood Relief",
+   "link": "https://www.rmpbs.org/news/business-economy/united-sherpa-association-of-colorado-nepal-flood-relief",
+   "source": "Rocky Mountain PBS",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "society"
   }
  ],
- "updated": 1791592857,
- "pending_since": null,
+ "updated": 1791593468,
+ "pending_since": 1791593448.11883,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
