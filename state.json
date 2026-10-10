@@ -2117,52 +2117,6 @@
    "hits": 1
   },
   {
-   "title": "हजुरआमाको निधनपछि अभिजितलाई घर फर्कन दिन प्रहरीको प्रस्ताव",
-   "summary": "ककरोच जनता पार्टी (सीजेपी) का संस्थापक अभिजित दिप्केलाई ८५ वर्षीया हजुरआमाको निधनपछि घर फर्कन सहजीकरण गर्ने प्रस्ताव दिल्ली प्रहरीले गरेको छ।...",
-   "link": "https://nagariknews.nagariknetwork.com/international/police-offer-to-let-abhijit-return-home-after-grandmother-s-death-29-28.html",
-   "source": "Nagarik News",
-   "ts": 1791635356,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1791635342_Dipke.jpg",
-   "lang": "ne",
-   "hl": "हजुरआमाको निधनपछि अभिजितलाई घर फर्कन दिन प्रहरीको प्रस्ताव",
-   "en": "हजुरआमाको निधनपछि अभिजितलाई घर फर्कन दिन प्रहरीको प्रस्ताव",
-   "ne": "हजुरआमाको निधनपछि अभिजितलाई घर फर्कन दिन प्रहरीको प्रस्ताव",
-   "imp": 2,
-   "tags": [
-    "Police",
-    "Abhijit",
-    "Kathmandu"
-   ],
-   "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "International Gurung Buddhism Council Concludes",
-   "summary": "Kathmandu, Oct 10: The second international conference of the International Gurung Buddhism Council (IGBC), a global org...",
-   "link": "https://risingnepaldaily.com/news/87643",
-   "source": "Rising Nepal",
-   "ts": 1791635340,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "International Gurung Buddhism Council Concludes",
-   "en": "International Gurung Buddhism Council Concludes",
-   "ne": "International Gurung Buddhism Council Concludes",
-   "imp": 1,
-   "tags": [
-    "Buddhism",
-    "Gurung",
-    "InternationalCouncil"
-   ],
-   "cat": "culture",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "AI literacy pilot programme ends with call for inclusive digital transformation",
    "summary": "Lalitpur, October 10 : A community-based AI literacy pilot concluded with participants calling for accessible, practical...",
    "link": "https://risingnepaldaily.com/news/87642",
@@ -2184,52 +2138,6 @@
    "val": 3,
    "teaser": false,
    "hits": 3
-  },
-  {
-   "title": "दिल्लीमा ४० हजार बढी सुरक्षाकर्मी परिचालन, १५ सयभन्दा बढी पक्राउ",
-   "summary": "दिल्लीको जन्तरमन्तरमा सिजेपीले गर्न लागेको प्रदर्शन रोक्न ४० हजार बढी सुरक्षाकर्मी परिचालन गरिएको छ।",
-   "link": "https://www.setopati.com/politics/400529",
-   "source": "Setopati",
-   "ts": 1791635355,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "दिल्लीमा ४० हजार बढी सुरक्षाकर्मी परिचालन, १५ सयभन्दा बढी पक्राउ",
-   "en": "दिल्लीमा ४० हजार बढी सुरक्षाकर्मी परिचालन, १५ सयभन्दा बढी पक्राउ",
-   "ne": "दिल्लीमा ४० हजार बढी सुरक्षाकर्मी परिचालन, १५ सयभन्दा बढी पक्राउ",
-   "imp": 1,
-   "tags": [
-    "Delhi",
-    "Security",
-    "India"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "बलिउडका 'भाइजान' किन आए युट्युबमा?",
-   "summary": "सलमानले 'बिइङ द सलमान खान' नामको युट्युब च्यानल सुरू गरेका हुन्।",
-   "link": "https://www.setopati.com/art/bollywood/400527",
-   "source": "Setopati",
-   "ts": 1791634920,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "बलिउडका 'भाइजान' किन आए युट्युबमा?",
-   "en": "बलिउडका 'भाइजान' किन आए युट्युबमा?",
-   "ne": "बलिउडका 'भाइजान' किन आए युट्युबमा?",
-   "imp": 1,
-   "tags": [
-    "Bollywood",
-    "YouTube",
-    "SalmanKhan"
-   ],
-   "cat": "culture",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
   },
   {
    "title": "ट्रम्प-पुटिन डिजेल सम्झौताको भोलिपल्टै युक्रेनमा रुसी आक्रमण, आठ जनाको मृत्यु",
@@ -7362,8 +7270,8 @@
    "cat": "world"
   }
  ],
- "updated": 1791663659,
- "pending_since": null,
+ "updated": 1791664275,
+ "pending_since": 1791664271.9738598,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
