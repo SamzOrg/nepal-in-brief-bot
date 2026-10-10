@@ -1,9 +1,5 @@
 {
  "seen": {
-  "https://english.onlinekhabar.com/world-sight-day-observed-today.html": 1791439286.265357,
-  "https://english.onlinekhabar.com/cib-recommends-filing-case-against-four-anfa-officials.html": 1791439286.265357,
-  "https://english.onlinekhabar.com/tribhuvan-university-budget.html": 1791439286.265357,
-  "https://english.onlinekhabar.com/passenger-traffic-surges-on-pokhara-jomsom-air-route.html": 1791439286.265357,
   "http://english.ratopati.com/story/82841/congress-objects-to-the-government-not-presenting-the-budget-even-55-days-after-its-formation": 1791439852.2031195,
   "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZmlYSWkxRVJndVllSkZob3lXczZnVE9zd0JzMG5KbVdmcTBucFlUY09DU3FYOUt6azhIZjdCZmpDcDhxNE92OC1fSm9VeDZWR3g1NHd0eUpTRHhOeExXYW9ZOXByeXVnSGdWRnViM21HZ1dQaHlOaGthei1sWFYxRy10S0RVbFY0eVdQR29DUQ?oc=5": 1791439852.2031195,
   "https://gorkhapatraonline.com/news/225886": 1791439852.2031195,
@@ -2254,7 +2250,8 @@
   "https://baahrakhari.com/detail/504479": 1791612085.7604458,
   "https://nagariknews.nagariknetwork.com/international/cjp-s-protest-600-people-including-dhruv-rathi-arrested-br-29-90.html": 1791612085.7604458,
   "https://gorkhapatraonline.com/news/226148": 1791612085.7604458,
-  "https://baahrakhari.com/detail/504478": 1791612085.7604458
+  "https://baahrakhari.com/detail/504478": 1791612085.7604458,
+  "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMVBxVWdnZzhuLVoxTERfYXF3bEZ3TVpKSGpoS3JrYk83OENZOFVhYVctN1QwRWhrSHBOZUUtMkhIU3F2YnlPM2J2Z0xrZFU1N1hZZDg4QjNmZ0h3UXM1bVRjclRubXYtYV9QcTV2LThoN3VUN1J6cXdWNE4wM0VhSTZRZXBzYWMzZ2d6NkdxMm4wTDVNc0ZrTjVUSWxaT3M1ck9pbkVXV2ZnVXJDUVlsRWVZbWxKMnc?oc=5": 1791612649.5635262
  },
  "queue": [
   {
@@ -3029,29 +3026,6 @@
    "val": 3,
    "teaser": false,
    "hits": 4
-  },
-  {
-   "title": "पनामामा ७.७ म्याग्निच्युडको शक्तिशाली भूकम्प, संरचनामा ठूलो क्षति",
-   "summary": "मध्य अमेरिकी देश पनामामा ७.७ म्याग्निच्युडको शक्तिशाली भूकम्प गएको छ। अमेरिकी भूगर्भ सर्वेक्षण (यूएट्ठजीएस) का अनुसार भूकम्पका कारण करिब ४६ लाख मानिसले मध्यमदेखि तीव्र झट्का महसुस गरेका छन् स्थानीय समयअनुसार शुक्रबार...",
-   "link": "http://lokaantar.com/story/330934/2026/10/10/powerful-earthquake-shakes-panama-",
-   "source": "Lokaantar",
-   "ts": 1791583287.1457157,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "पनामामा ७.७ म्याग्निच्युडको शक्तिशाली भूकम्प, संरचनामा ठूलो क्षति",
-   "en": "पनामामा ७.७ म्याग्निच्युडको शक्तिशाली भूकम्प, संरचनामा ठूलो क्षति",
-   "ne": "पनामामा ७.७ म्याग्निच्युडको शक्तिशाली भूकम्प, संरचनामा ठूलो क्षति",
-   "imp": 3,
-   "tags": [
-    "Panama",
-    "Earthquake",
-    "भूकम्प"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "Boost Reading Culture",
@@ -5867,7 +5841,7 @@
    "cat": "world",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "President Paudel Stresses Practical, Value-Based Education",
@@ -9220,8 +9194,8 @@
    "cat": "disaster"
   }
  ],
- "updated": 1791612093,
- "pending_since": null,
+ "updated": 1791612653,
+ "pending_since": 1791612649.5635262,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
