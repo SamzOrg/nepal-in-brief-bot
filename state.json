@@ -2177,7 +2177,12 @@
   "https://nagariknews.nagariknetwork.com/politics/yogesh-bhattarai-urges-kp-oli-give-priority-to-youth-under-40-26-88.html": 1791619287.370191,
   "https://nagariknews.nagariknetwork.com/social-affairs/a-girl-died-after-eating-wild-mushrooms-60-61.html": 1791619287.370191,
   "https://nagariknews.nagariknetwork.com/politics/the-legal-affairs-chief-of-the-cockroach-party-was-also-arrested-77-88.html": 1791619287.370191,
-  "https://nagariknews.nagariknetwork.com/international/after-deepak-s-arrest-rahul-said-now-the-modi-government-will-end-br-42-62.html": 1791619287.370191
+  "https://nagariknews.nagariknetwork.com/international/after-deepak-s-arrest-rahul-said-now-the-modi-government-will-end-br-42-62.html": 1791619287.370191,
+  "https://risingnepaldaily.com/news/87634": 1791619848.9875255,
+  "https://english.khabarhub.com/2026/10/571445/": 1791619848.9875255,
+  "https://risingnepaldaily.com/news/87633": 1791619848.9875255,
+  "http://lokaantar.com/story/330958/2026/10/10/pradeep-paudel-": 1791619848.9875255,
+  "https://gorkhapatraonline.com/news/226170": 1791619848.9875255
  },
  "queue": [
   {
@@ -2294,28 +2299,6 @@
    "val": 3,
    "teaser": false,
    "hits": 2
-  },
-  {
-   "title": "मात्र औपचारिकता !",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/504451",
-   "source": "Baahrakhari",
-   "ts": 1791590621,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "मात्र औपचारिकता !",
-   "en": "मात्र औपचारिकता !",
-   "ne": "मात्र औपचारिकता !",
-   "imp": 1,
-   "tags": [
-    "Editorial",
-    "Opinion"
-   ],
-   "cat": "other",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
   },
   {
    "title": "मानसिक स्वास्थ्यको आवाजदेखि राष्ट्रिय अभियानसम्म : नेपालमा मानसिक स्वास्थ्य दिवसको यात्रा र अबको बाटो",
@@ -4551,7 +4534,7 @@
    "cat": "economy",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Months of searching leave Anju Sah's family in anguish",
@@ -5559,7 +5542,7 @@
    "cat": "education",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "करारका भरमा चल्दै छ अस्पताल",
@@ -6424,7 +6407,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "National Human Rights Commission Expresses Concern Over Mental Health Rights",
@@ -6608,7 +6591,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Moula-pur Municipality Launches Cleanliness Campaign During Durga Puja",
@@ -9918,7 +9901,7 @@
    "cat": "society"
   }
  ],
- "updated": 1791619306,
+ "updated": 1791619853,
  "pending_since": 1791619287.370191,
  "fb_blocks": [
   1790350880.4125228,
