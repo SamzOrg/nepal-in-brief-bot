@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNeHBrSlF0c2toTGNxMzJUN2lUeS1Rd2xWekNURDNTazkwS1dITlVwRzJFTldpSkw3d1QwcEtTUGx4dFR3TE5ERHp6emc4N3V3TlozVmc4aEJJMF9SN1FGNXZ3WXNBbzRGczhQR0EwNXY2YW9yMV8ybUZVTzNjRE5xaDZkUDRUakh2dU5Bamw2VDF3d0FvS1RibzhYUUlFX2xUN2VhOHN5c2ZTalRiNk5SRl9IdnREYTZMMDd5SERwN1lxUFFhREp4TVJfazlGbTdXMExmMDJSV0hPWnRTV2Vj0gHfAUFVX3lxTE14cGtKUXRza2hMY3EzMlQ3aVR5LVF3bFZ6Q1REM1NrOTBLV0hOVXBHMkVOV2lKTDd3VDBwS1NQbHh0VHdMTkREenp6Zzg3dXdOWjNWZzhoQkkwX1I3UUY1dndZc0FvNEZzOFBHQTA1djZhb3IxXzJtRlVPM2NETnFoNmRQNFRqSHZ1TkFqbDZUMXd3QW9LVGJvOFhRSUVfbFQ3ZWE4c3lzZlNqVGI2TlJGX0h2dERhNkwwN3lIRHA3WXFQUWFESnhNUl9rOUZtN1cwTGYwMlJXSE9adFNXZWM?oc=5": 1791465058.659803,
   "https://www.setopati.com/social/400378": 1791465653.8180697,
   "https://nagariknews.nagariknetwork.com/social-affairs/construction-of-a-bailey-bridge-begins-in-syaphrubesi-57-71.html": 1791466274.5953133,
   "https://nagariknews.nagariknetwork.com/economy/yeti-discontinues-upper-class-fares-for-flights-departing-from-kathmandu-during-dashain-huge-discounts-on-return-flights-92-16.html": 1791466274.5953133,
@@ -2084,7 +2083,11 @@
   "https://nagariknews.nagariknetwork.com/politics/politics-should-have-no-other-purpose-than-serving-the-people-shashank-koirala-br-17-45.html": 1791637850.1494129,
   "http://english.ratopati.com/story/83226/inspector-general-of-police-karki-directs-to-adopt-special-security-plan-targeting-festivals": 1791637850.1494129,
   "http://english.ratopati.com/story/83225/committee-formed-to-study-government-software-and-hardware-procurement": 1791637850.1494129,
-  "http://english.ratopati.com/story/83224/bagmati-river-cleanup-campaign-in-its-700th-week": 1791637850.1494129
+  "http://english.ratopati.com/story/83224/bagmati-river-cleanup-campaign-in-its-700th-week": 1791637850.1494129,
+  "https://gorkhapatraonline.com/news/226205": 1791638450.4143925,
+  "http://english.ratopati.com/story/83230/bill-on-working-languages-passed-in-koshi-province-13-languages-including-maithili-and-limbu-recognized": 1791638450.4143925,
+  "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSXExZkpQbktmYXFTS3ZvZVBPTHZYOHpzZEpKbXpkUVNFVDdCVjltYzVHRkdKUDMxRHNHY3JuUTlXR1dCWlJKeXU2QVJIdHRVSjRSRXhyaE9mMkUtZXRQbGtReVd1QlN0TFM0czg4VjBNYmlueGhjZmM2bWJjaU5fNnRJTm0yMThTazZqZ1UwM3YzTmoxS0gtRFhOZzRUdngtVDA4VWpkNWsydUtCUlczeW5IdFBRNlNsbEVV?oc=5": 1791638450.4143925,
+  "https://english.khabarhub.com/2026/10/571484/": 1791638450.4143925
  },
  "queue": [
   {
@@ -2249,29 +2252,6 @@
    "hits": 1
   },
   {
-   "title": "सीताहरू",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/504476",
-   "source": "Baahrakhari",
-   "ts": 1791609443,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "सीताहरू",
-   "en": "सीताहरू",
-   "ne": "सीताहरू",
-   "imp": 1,
-   "tags": [
-    "Story",
-    "Literature",
-    "कविता"
-   ],
-   "cat": "culture",
-   "val": 1,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "भोगटेनीमा स्ट्रबेरी खेती फस्टाउँदै",
    "summary": "उर्लाबारी समाचारदाताउर्लाबारी, असोज २४ गते । चार वर्षअघिसम्म मकै, कोदो, जुनेलो र गहुँ खेती गर्ने मोरङको केराबारी-३, भोगटेनीका किसान यतिबेला धमाधम स्ट्रबेरी रोपिरहेका छन् । परम्पराग...",
    "link": "https://gorkhapatraonline.com/news/226135",
@@ -2290,52 +2270,6 @@
     "कृषि"
    ],
    "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "अन्तिम नोटिफिकेसन",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/504475",
-   "source": "Baahrakhari",
-   "ts": 1791609135,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "अन्तिम नोटिफिकेसन",
-   "en": "अन्तिम नोटिफिकेसन",
-   "ne": "अन्तिम नोटिफिकेसन",
-   "imp": 1,
-   "tags": [
-    "Story",
-    "Literature",
-    "साहित्य"
-   ],
-   "cat": "culture",
-   "val": 1,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "सोह्रश्राद्धको औँसीमा पनि सुनसान कागबेनी",
-   "summary": "मुक्तिनाथ समाचारदातामुक्तिनाथ (मुस्ताङ), असोज २४ गते । सोह्रश्राद्धको अन्तिम दिन औँसी तिथिमा पनि मुस्ताङको बारागुङ मुक्तिक्षेत्र गाउँपालिका-४ मा अवस्थित पवित्र तीर्थस्थल कागबेनी सु...",
-   "link": "https://gorkhapatraonline.com/news/226145",
-   "source": "Gorkhapatra",
-   "ts": 1791609379,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/387406/conversions/kagbeni-original.jpg",
-   "lang": "ne",
-   "hl": "सोह्रश्राद्धको औँसीमा पनि सुनसान कागबेनी",
-   "en": "सोह्रश्राद्धको औँसीमा पनि सुनसान कागबेनी",
-   "ne": "सोह्रश्राद्धको औँसीमा पनि सुनसान कागबेनी",
-   "imp": 2,
-   "tags": [
-    "Kagbeni",
-    "Sohrasrraddha",
-    "मुस्ताङ"
-   ],
-   "cat": "culture",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -4050,7 +3984,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "UN chief calls for cessation of hostilities in northern Ethiopia",
@@ -5920,7 +5854,7 @@
    "cat": "health",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "विद्यार्थीले बनाए एआई रोबोटिक्स उपकरण",
@@ -6034,7 +5968,7 @@
    "cat": "culture",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "ट्रम्प-पुटिन डिजेल सम्झौताको भोलिपल्टै युक्रेनमा रुसी आक्रमण, आठ जनाको मृत्यु",
@@ -6319,20 +6253,32 @@
    "val": 3,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "Motorcyclist killed in collision with jeep in Sarlahi",
+   "summary": "SARLAHI: A motorcyclist was killed after a Magic jeep collided with his motorcycle on the Nawalpur-Malangwa road section at Jagatpur in Haripur Municipality-8, Sarlahi, on Saturday morning. The accident occurred at...",
+   "link": "https://english.khabarhub.com/2026/10/571484/",
+   "source": "Khabarhub EN",
+   "ts": 1791638123,
+   "weight": 2,
+   "img": "https://english.khabarhub.com/wp-content/uploads/2024/10/Khabar-Hub-News_Accident_1200px-630X-px-Final_2021.01.21-Upload-e1748330914908-400x220.webp",
+   "lang": "en",
+   "hl": "Motorcyclist killed in collision with jeep in Sarlahi",
+   "en": "Motorcyclist killed in collision with jeep in Sarlahi",
+   "ne": "Motorcyclist killed in collision with jeep in Sarlahi",
+   "imp": 3,
+   "tags": [
+    "Sarlahi",
+    "Accident",
+    "Motorcycle"
+   ],
+   "cat": "crime",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1791033062.356883,
-   "en": "नेपाल पुलिस क्लबले जिते मदन भण्डारी कप भलिबलको उपाधि",
-   "ne": "नेपाल पुलिस क्लबले जिते मदन भण्डारी कप भलिबलको उपाधि",
-   "link": "https://baahrakhari.com/detail/503620",
-   "source": "Baahrakhari",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "sports"
-  },
   {
    "ts": 1791034854.7602005,
    "en": "रुससँगको सुरक्षा चिन्ता र महँगीबिच लात्भियामा शनिबार संसदीय निर्वाचन हुँदै",
@@ -9513,8 +9459,8 @@
    "cat": "society"
   }
  ],
- "updated": 1791637855,
- "pending_since": null,
+ "updated": 1791638454,
+ "pending_since": 1791638450.4143925,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
