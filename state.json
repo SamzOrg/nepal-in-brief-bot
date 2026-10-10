@@ -2047,30 +2047,6 @@
  },
  "queue": [
   {
-   "title": "Actor Imran Khan Arrested in Delhi Protest",
-   "summary": "New Delhi. Actor Imran Khan has been arrested by the police in a protest in India's capital New Delhi in...",
-   "link": "http://english.ratopati.com/story/83229/actor-imran-khan-arrested-for-participating-in-cjp-protest",
-   "source": "Ratopati EN",
-   "ts": 1791637782,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/imran-khan_xiNtsKY5wv.webp",
-   "lang": "en",
-   "hl": "Actor Imran Khan Arrested in Delhi Protest",
-   "en": "Actor Imran Khan Arrested in Delhi Protest",
-   "ne": "Actor Imran Khan Arrested in Delhi Protest",
-   "imp": 1,
-   "tags": [
-    "ImranKhan",
-    "Delhi",
-    "Protest",
-    "भारत"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Motorcyclist killed in collision with jeep in Sarlahi",
    "summary": "SARLAHI: A motorcyclist was killed after a Magic jeep collided with his motorcycle on the Nawalpur-Malangwa road section at Jagatpur in Haripur Municipality-8, Sarlahi, on Saturday morning. The accident occurred at...",
    "link": "https://english.khabarhub.com/2026/10/571484/",
@@ -2548,29 +2524,6 @@
     "NepalFlood"
    ],
    "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "APF Assistant Sub-Inspector goes missing in Mahakali River during NTC cable repair",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOOHpFTXVxU1VCSVhjMzBDTXBtaFVrc3hoeThtV1RyVWxfRUJEY3phSTZKeWFhOUt5MFljWnp4UXVPc0p1YXNCSUpIY3ZYVU1ibWcxWmFRZEVPQ2p4RjB1YWhkQzBPbWxQLUhGLUFiYjJJY2lEU1NzUC1TLTFCZDNTLU5lSk9YTG5YZVlnTEIwUFlmRi05Zzc2ZklwR091TV9vRE1SdzlsQnd0dVNkWjA3UWwtdTdPNlNHRFd0RVh4UkhoM0tuQWEtdGxoUGFNNXc?oc=5",
-   "source": "myRepublica",
-   "ts": 1791637801,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "APF Assistant Sub-Inspector goes missing in Mahakali River during NTC cable repair",
-   "en": "APF Assistant Sub-Inspector goes missing in Mahakali River during NTC cable repair",
-   "ne": "APF Assistant Sub-Inspector goes missing in Mahakali River during NTC cable repair",
-   "imp": 3,
-   "tags": [
-    "MahakaliRiver",
-    "APF",
-    "Missing"
-   ],
-   "cat": "disaster",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -3677,29 +3630,6 @@
    "val": 3,
    "teaser": false,
    "hits": 2
-  },
-  {
-   "title": "Saudi humanitarian assistance handed over to Nepal",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE00ZUFRT0RDRmhKTTVPb1VXRVpSM2RwUEc0b0RsZUhoYVgtN0llTFpPUUZpaHE3TDMtVlBNVjlBLVk4U29RUVE1Tjdod09wN0xz?oc=5",
-   "source": "The Rising Nepal",
-   "ts": 1791637565,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Saudi humanitarian assistance handed over to Nepal",
-   "en": "Saudi humanitarian assistance handed over to Nepal",
-   "ne": "Saudi humanitarian assistance handed over to Nepal",
-   "imp": 3,
-   "tags": [
-    "SaudiArabia",
-    "HumanitarianAid",
-    "सहयोग"
-   ],
-   "cat": "society",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
   }
  ],
  "posted": [
@@ -6894,7 +6824,7 @@
    "cat": "world"
   }
  ],
- "updated": 1791666092,
+ "updated": 1791666654,
  "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
