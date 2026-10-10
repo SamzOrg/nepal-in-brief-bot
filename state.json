@@ -1,6 +1,5 @@
 {
  "seen": {
-  "http://english.ratopati.com/story/82828/uml-standing-committee-meeting-to-be-held-immediately-after-vidya-takes-oath": 1791436251.73287,
   "https://gorkhapatraonline.com/news/225882": 1791436849.8497152,
   "https://news.google.com/rss/articles/CBMimwFBVV95cUxPc3NCOFM4VVVNUnduTzYzZXNKZThxYU5hUmVNemQzci1lWDBDNWROQmdwRG5SS0k1Ymc1dmw5MHFCVHE4UUxfYUo3S2tMaHhVanRWUXV0c2NKQUtRaFo1VnlFZFRhUXgxZWlqRnhxeFY2TVFxei04UENUZzRVdWxTdElWeVVON1hoajJlZ20zQzhvZ1gzMmwzdXQzTQ?oc=5": 1791436849.8497152,
   "http://english.ratopati.com/story/82833/arteta-to-stay-at-arsenal-until-2030": 1791437469.939069,
@@ -2240,7 +2239,8 @@
   "https://gorkhapatraonline.com/news/226138": 1791608488.3941348,
   "https://nagariknews.nagariknetwork.com/arts/unexpected-br-66-83.html": 1791608488.3941348,
   "https://baahrakhari.com/detail/504470": 1791608488.3941348,
-  "https://nagariknews.nagariknetwork.com/social-affairs/incessant-rains-block-various-highways-17-95.html": 1791608488.3941348
+  "https://nagariknews.nagariknetwork.com/social-affairs/incessant-rains-block-various-highways-17-95.html": 1791608488.3941348,
+  "http://english.ratopati.com/story/83134/farhan-and-sadaqats-excellent-batting-pakistan-defeats-sri-lanka-in-first-t20": 1791609053.9106252
  },
  "queue": [
   {
@@ -5258,6 +5258,30 @@
    "cat": "culture",
    "val": 1,
    "teaser": true,
+   "hits": 1
+  },
+  {
+   "title": "Pakistan Defeats Sri Lanka by 4 Wickets in First T20 International",
+   "summary": "Rawalpindi. Pakistan performed excellently and defeated Sri Lanka by 4 wickets in the first T20 International match.Pakistan achieved the target...",
+   "link": "http://english.ratopati.com/story/83134/farhan-and-sadaqats-excellent-batting-pakistan-defeats-sri-lanka-in-first-t20",
+   "source": "Ratopati EN",
+   "ts": 1791608873,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/sahibzada-farhan_b3jkgodfFv.webp",
+   "lang": "en",
+   "hl": "Pakistan Defeats Sri Lanka by 4 Wickets in First T20 International",
+   "en": "Pakistan Defeats Sri Lanka by 4 Wickets in First T20 International",
+   "ne": "Pakistan Defeats Sri Lanka by 4 Wickets in First T20 International",
+   "imp": 1,
+   "tags": [
+    "Cricket",
+    "Pakistan",
+    "SriLanka",
+    "T20"
+   ],
+   "cat": "sports",
+   "val": 3,
+   "teaser": false,
    "hits": 1
   }
  ],
@@ -8453,8 +8477,8 @@
    "cat": "world"
   }
  ],
- "updated": 1791608496,
- "pending_since": null,
+ "updated": 1791609058,
+ "pending_since": 1791609053.9106252,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
