@@ -1,8 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQejNsVzVBallpYW9OMGI5QWF1cVhrUjdKd3VsdnJOaTltc3YyZ0lIWS1JUm5hZURrejZveXdCQlZnd1czS3FMWEpfeE1ISlFfZ0ZzV0VKU3pmeFJjdVJTdGJDWFZORzFPdllHbVJyaE0wM2w4TkxpeG1UeUxWTjlPYmNZWkNyTjBlSGhhT3dfNTVadDJ4c09uaG12NUNrUzQ0cDNpd3lwenRMa3c?oc=5": 1791481847.488498,
-  "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOT0lhV2wyQmhZamNPblBQcDNVU2NWcDdzSWNjS1FsN2hmVmRXTTZGR2FvZFhORU1JRVF2a04zclZpSi05M3BIdmFHNWtLbktBRkRRNjJKZ3dmeXFuZEFGZHI4d2hvak9FVjF1dWJwU05jdnhhUkpKY280bjJvV3NSZnJDeTRWaEF4V0w3YXpqOVRZV1pYcGZxZnM0b0lVQ2EycldXUGFWaTNDbnVEb08tNGdJVWlvaE1peENwcjdwV3JSUQ?oc=5": 1791481847.488498,
-  "http://lokaantar.com/story/330827/2026/10/8/maduro-": 1791481847.488498,
   "https://gorkhapatraonline.com/news/225966": 1791482496.8215897,
   "https://gorkhapatraonline.com/news/225968": 1791482496.8215897,
   "https://baahrakhari.com/detail/504317": 1791482496.8215897,
@@ -2296,29 +2293,6 @@
    ],
    "cat": "politics",
    "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "'गलत कामको भारी पार्टीले बोक्दैन, हामी नयाँ इतिहास रच्छौं'",
-   "summary": "नेपाली कांग्रेसका सभापति गगन थापाले पार्टीमा आबद्ध कसैले पनि गलत वा गैरकानुनी काम गरे त्यसको भारी पार्टीले नबोक्ने बताएका छन्।...",
-   "link": "https://nagariknews.nagariknetwork.com/politics/the-party-does-not-bear-the-burden-of-wrongdoing-we-create-new-history-86-19.html",
-   "source": "Nagarik News",
-   "ts": 1791625811,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1791625294_thapa.png",
-   "lang": "ne",
-   "hl": "'गलत कामको भारी पार्टीले बोक्दैन, हामी नयाँ इतिहास रच्छौं'",
-   "en": "'गलत कामको भारी पार्टीले बोक्दैन, हामी नयाँ इतिहास रच्छौं'",
-   "ne": "'गलत कामको भारी पार्टीले बोक्दैन, हामी नयाँ इतिहास रच्छौं'",
-   "imp": 3,
-   "tags": [
-    "NepaliCongress",
-    "Corruption",
-    "GaganThapa"
-   ],
-   "cat": "politics",
-   "val": 2,
    "teaser": false,
    "hits": 1
   },
@@ -8956,7 +8930,7 @@
    "cat": "world"
   }
  ],
- "updated": 1791654528,
+ "updated": 1791654651,
  "pending_since": 1791654523.7127016,
  "fb_blocks": [
   1790350880.4125228,
