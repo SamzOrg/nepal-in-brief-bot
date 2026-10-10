@@ -2043,29 +2043,6 @@
  },
  "queue": [
   {
-   "title": "From 'cockroach' post to protest leader: India's Dipke tests Modi government",
-   "summary": "Dipke, 31, born in a Dalit family on the lower rungs of India's caste system, shot to fame this year after his six-word response to Supreme Court Chief Justice Surya Kant's remarks likening unemployed youth to...",
-   "link": "https://kathmandupost.com/world/2026/10/10/from-cockroach-post-to-protest-leader-india-s-dipke-tests-modi-government",
-   "source": "Kathmandu Post",
-   "ts": 1791642252,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "From 'cockroach' post to protest leader: India's Dipke tests Modi government",
-   "en": "From 'cockroach' post to protest leader: India's Dipke tests Modi government",
-   "ne": "From 'cockroach' post to protest leader: India's Dipke tests Modi government",
-   "imp": 1,
-   "tags": [
-    "India",
-    "Modi",
-    "Protest"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
    "title": "Australia All Out for 390 in First Test Against South Africa",
    "summary": "Durban. Australia was all out for 390 runs in their first innings on the second day of the first Test...",
    "link": "http://english.ratopati.com/story/83240/renschs-brilliant-century-puts-australia-in-a-strong-position-in-the-durban-test",
@@ -2087,51 +2064,6 @@
    "val": 3,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "राष्ट्रिय टोलीको क्याम्प छाडेपछि क्रिस्टियानो रोनाल्डो निलम्बित",
-   "summary": "पोर्चुगिज फुटबल महासंघ (एफपीएफ) ले राष्ट्रिय टोलीको क्याम्प छाडेर हिँडेका ४१ वर्षीय स्टार फरवार्ड क्रिस्टियानो रोनाल्डोलाई अस्थायी रूपमा निलम्बन गरेको छ।...",
-   "link": "https://nagariknews.nagariknetwork.com/sports/cristiano-ronaldo-suspended-after-leaving-national-team-camp-76-54.html",
-   "source": "Nagarik News",
-   "ts": 1791642171,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1791641984_ronaldo.png",
-   "lang": "ne",
-   "hl": "राष्ट्रिय टोलीको क्याम्प छाडेपछि क्रिस्टियानो रोनाल्डो निलम्बित",
-   "en": "राष्ट्रिय टोलीको क्याम्प छाडेपछि क्रिस्टियानो रोनाल्डो निलम्बित",
-   "ne": "राष्ट्रिय टोलीको क्याम्प छाडेपछि क्रिस्टियानो रोनाल्डो निलम्बित",
-   "imp": 1,
-   "tags": [
-    "CristianoRonaldo",
-    "Football"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 3
-  },
-  {
-   "title": "Restaurant Fined NPR 250,000 for Poor Hygiene and Pests",
-   "summary": "Kathmandu. The government has fined 'Mantra Thakaali' (Green Tara Hospitality Pvt. Ltd.) located in Maharajgunj, Kathmandu, two hundred fifty thousand...",
-   "link": "http://english.ratopati.com/story/83239/raid-on-mantra-thakali-after-complaint-of-worms-in-food-fined-rs-25-lakh",
-   "source": "Ratopati EN",
-   "ts": 1791642210,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/whatsapp-image-2026-10-10-at-60649-pm_yYeaVIMtp6.webp",
-   "lang": "en",
-   "hl": "Restaurant Fined NPR 250,000 for Poor Hygiene and Pests",
-   "en": "Restaurant Fined NPR 250,000 for Poor Hygiene and Pests",
-   "ne": "Restaurant Fined NPR 250,000 for Poor Hygiene and Pests",
-   "imp": 2,
-   "tags": [
-    "FoodSafety",
-    "Fine",
-    "Restaurant"
-   ],
-   "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "निसीखोलामा बाढीपहिरोले १० करोडको क्षति, एकै परिवारका चारसहित पाँचको मृ`त्यु",
@@ -2986,17 +2918,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1791066052.8255424,
-   "en": "दसैँका लागि काठमाडौँ उपत्यकाबाट घर फर्किने यात्रुको चाप बढ्यो, ८ लाखभन्दा बढी बाहिरिने अनुमान",
-   "ne": "दसैँका लागि काठमाडौँ उपत्यकाबाट घर फर्किने यात्रुको चाप बढ्यो, ८ लाखभन्दा बढी बाहिरिने अनुमान",
-   "link": "https://gorkhapatraonline.com/news/225315",
-   "source": "Gorkhapatra",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "society"
-  },
   {
    "ts": 1791067852.6124716,
    "en": "Glacier collapse in Nepal's Rasuwa triggers destructive flash flood",
@@ -6188,7 +6109,7 @@
    "cat": "accident"
   }
  ],
- "updated": 1791670866,
+ "updated": 1791671470,
  "pending_since": 1791669688.9725788,
  "fb_blocks": [
   1790350880.4125228,
