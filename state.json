@@ -2045,32 +2045,13 @@
   "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9oYXVidUtJWFlrY1RnaXRoYi1hQUtYTnFEWmstNWZJM2lQMEZxRDl0WDlwTjB4QThNZjhjd3o3OWh0d3d1N1haSkRyNUFkbnJIYngyQVJ1LXI?oc=5": 1791672053.2537498,
   "https://theannapurnaexpress.com/story/67812": 1791673284.4525666,
   "https://news.google.com/rss/articles/CBMitAFBVV95cUxPc1FTeE1JUWFPYWd1UFlqSlNlb2hMTzdhMXJhVzllR2NtR0tRUUJ4ZkZkd0pCQXdiSXFnOGNMMm1lS2hmVzR2S1djRHJtUWUxS28yZjh1eHJPOGViY2hXQW9SbmowWHV5WjI4SjFBMURzSThXS0xKb2xXUzFnUWlEaGd3emlaQzhPQ2R2T1BjeW55ekd5ZnF1aTRwZG5PNVJRVzhuVU5lYWhsWUdudl84cEI1SFY?oc=5": 1791673850.0355787,
-  "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVHpjeDg2V1EtalByRHlCbmh0MkRwMklqdTNqVjkzMEdxd1k0eXMzWG84eHdOUGhyTEZPcVloaHk0S1djeW1KOWtDV2I3djF3bTh4bnlEY1R4MFZaQ18tVDBUenJYZ1IwNENIZWYya1BvSDFpQmtyRXlyUmYtd2pHSWI2b21YSXB3aURhQ3dXVHNIR2t3RTJXMENHR3JBSEF3Y3hNX2tnMVUtX0psNGpxTVh3?oc=5": 1791673850.0355787
+  "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVHpjeDg2V1EtalByRHlCbmh0MkRwMklqdTNqVjkzMEdxd1k0eXMzWG84eHdOUGhyTEZPcVloaHk0S1djeW1KOWtDV2I3djF3bTh4bnlEY1R4MFZaQ18tVDBUenJYZ1IwNENIZWYya1BvSDFpQmtyRXlyUmYtd2pHSWI2b21YSXB3aURhQ3dXVHNIR2t3RTJXMENHR3JBSEF3Y3hNX2tnMVUtX0psNGpxTVh3?oc=5": 1791673850.0355787,
+  "https://baahrakhari.com/detail/504528": 1791675067.8829474,
+  "https://theannapurnaexpress.com/story/67814": 1791675067.8829474,
+  "https://baahrakhari.com/detail/504527": 1791675067.8829474,
+  "https://theannapurnaexpress.com/story/67811": 1791675067.8829474
  },
  "queue": [
-  {
-   "title": "अमेरिकाको पेन्सिलभेनियामा दुई बालबालिकासहित नौ जनाको मृ`त्यु",
-   "summary": "पेन्सिलभेनियाका गभर्नर जोश शापिरोले पनि शनिबार बिहान घटनाप्रति दुःख व्यक्त गरेका छन्। उनले एरीका मेयरसँग कुराकानी गरेको र प्रभावित परिवार तथा समुदायलाई सहयोग गर्न आफ्नो प्रशासन तयार रहेको बताए।...",
-   "link": "https://nagariknews.nagariknetwork.com/international/nine-people-including-two-children-die-in-pennsylvania-us-31-99.html",
-   "source": "Nagarik News",
-   "ts": 1791646008,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1791645865_USA.jpg",
-   "lang": "ne",
-   "hl": "अमेरिकाको पेन्सिलभेनियामा दुई बालबालिकासहित नौ जनाको मृ`त्यु",
-   "en": "अमेरिकाको पेन्सिलभेनियामा दुई बालबालिकासहित नौ जनाको मृ`त्यु",
-   "ne": "अमेरिकाको पेन्सिलभेनियामा दुई बालबालिकासहित नौ जनाको मृ`त्यु",
-   "imp": 2,
-   "tags": [
-    "USA",
-    "Pennsylvania",
-    "Accident"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
   {
    "title": "कागजका जहाज र रबरका बल मैदानमा फ्याँकेपछि ला लिगाको खेल रद्द!",
    "summary": "स्पेनिस ला लिगा क्लब रायो भालेकानोका समर्थकले क्लबका मालिकविरुद्ध अनौठो शैलीमा विरोध प्रदर्शन गरेपछि एथलेटिक क्लबविरुद्धको खेल नै रद्द भएको छ।",
@@ -2622,20 +2603,55 @@
    "val": 2,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "Trump Says Putin Agrees to Release Russian Diesel to Global Markets",
+   "summary": "US President Donald Trump said Friday that Russian President Vladimir Putin had agreed to release diesel to US and global markets to help ease rising fuel costs ahead of the US midterm elections.Trump said the agreement...",
+   "link": "https://theannapurnaexpress.com/story/67814",
+   "source": "Annapurna Express",
+   "ts": 1791660669.3490589,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "Trump Says Putin Agrees to Release Russian Diesel to Global Markets",
+   "en": "Trump Says Putin Agrees to Release Russian Diesel to Global Markets",
+   "ne": "Trump Says Putin Agrees to Release Russian Diesel to Global Markets",
+   "imp": 1,
+   "tags": [
+    "DonaldTrump",
+    "VladimirPutin",
+    "Russia"
+   ],
+   "cat": "world",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Trump Calls for New Ukrainian Leadership to End War with Russia",
+   "summary": "U.S. President Donald Trump suggested on Saturday that Ukraine should replace President Volodymyr Zelenskyy, arguing that the Ukrainian leader has failed to take the necessary steps to conclude the ongoing war with...",
+   "link": "https://theannapurnaexpress.com/story/67811",
+   "source": "Annapurna Express",
+   "ts": 1791660669.3490589,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "Trump Calls for New Ukrainian Leadership to End War with Russia",
+   "en": "Trump Calls for New Ukrainian Leadership to End War with Russia",
+   "ne": "Trump Calls for New Ukrainian Leadership to End War with Russia",
+   "imp": 1,
+   "tags": [
+    "DonaldTrump",
+    "Ukraine",
+    "Russia"
+   ],
+   "cat": "world",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1791069650.0849168,
-   "en": "स्थानीय चुनावमा पनि एमाले-नेकपाबीच सहकार्य हुन्छ : प्रचण्ड",
-   "ne": "स्थानीय चुनावमा पनि एमाले-नेकपाबीच सहकार्य हुन्छ : प्रचण्ड",
-   "link": "https://baahrakhari.com/detail/503633",
-   "source": "Baahrakhari",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "politics"
-  },
   {
    "ts": 1791071453.174821,
    "en": "HC questions legality of stopping 3 women from flying to Nepal",
@@ -5827,8 +5843,8 @@
    "cat": "health"
   }
  ],
- "updated": 1791674471,
- "pending_since": 1791672656.0325925,
+ "updated": 1791675073,
+ "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
