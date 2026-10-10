@@ -1,6 +1,5 @@
 {
  "seen": {
-  "http://english.ratopati.com/story/82833/arteta-to-stay-at-arsenal-until-2030": 1791437469.939069,
   "http://english.ratopati.com/story/82836/police-urge-people-to-immediately-call-100-if-they-see-suspicious-activity": 1791438054.012458,
   "http://english.ratopati.com/story/82832/gold-prices-rose-silver-prices-fell": 1791438054.012458,
   "https://nagariknews.nagariknetwork.com/politics/congress-general-convention-who-is-competing-for-office-bearers-85-91.html": 1791438054.012458,
@@ -2266,7 +2265,9 @@
   "https://gorkhapatraonline.com/news/226144": 1791610269.8684235,
   "http://english.ratopati.com/story/83133/for-the-first-time-in-149-years-of-test-history-australia-has-no-players-under-30-in-the-team": 1791610269.8684235,
   "https://gorkhapatraonline.com/news/226143": 1791610269.8684235,
-  "https://gorkhapatraonline.com/news/226142": 1791610269.8684235
+  "https://gorkhapatraonline.com/news/226142": 1791610269.8684235,
+  "http://english.ratopati.com/story/83143/yogesh-congratulates-gagan-thapa-and-bishwaprakash": 1791610848.9260461,
+  "http://lokaantar.com/story/330948/2026/10/10/cjp-": 1791610848.9260461
  },
  "queue": [
   {
@@ -8871,8 +8872,8 @@
    "cat": "crime"
   }
  ],
- "updated": 1791610276,
- "pending_since": null,
+ "updated": 1791610851,
+ "pending_since": 1791610848.9260461,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
