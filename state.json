@@ -2259,7 +2259,13 @@
   "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVU1RYldSUWNHY1J4Smh4dlJOOWZVenRBb2o4U2pzb29jLWI1QkxYS3hEVjJVdHYzYjhEX0tsdVNwRFF1T25fa0I3NHlSUkFOTFNEbWtjYUc0d3l3dWtBWHRmV1V5allocDlpR1lQc2tpUVpHcVpHbXRrN3BOVVRXZTgzYldBd0NQTy00?oc=5": 1791600055.2144985,
   "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOLWl4N2hKeXlSVTEtYUVFQ0pJcjdqem1hWGpGTVh0RkNQRXFwTUhUX19VOF96NGVRLUpMMXF5ZjFLRDRDUE5tSGpvcWsyc0hteEFqVXRxc3hHM1NvYkIxaHdYU0VieXNtRWxBRGh1ZGZEZ2dVTVNOY0o0OGYtbnZiWEROVzZuTUtYa0wxZV9BODhyY3BCZUpla0h6aEFWUU15X2UxbVZLVzZUMUZGWkEtZWpsQm1xaV8tR1U5bVpUN2l2UQ?oc=5": 1791600055.2144985,
   "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaEdsY1BUZ2h2TGVHcEhtOC1lSlIyZnI3eXZ0UzA0aFhhZlppZlVXWmRPNDNqSUl0czR5bWdfVEZmMEdDVzRtdUozUFdwNUVIOWJ4RnNNcjBIMUw2RFhYM3NOOU1XblNkM1JwUEFUQnhob01fTVJVT1lMbGpRaGRaeGs3c3lVZ01WdmlVaHZ1UXlBYXBXYmRITWp3djZVbTQ2XzRsbExIS09oQmNrZThSN19SOERlYzZPYUE?oc=5": 1791600055.2144985,
-  "http://english.ratopati.com/story/83108/bhotekoshi-flood-1457-people-dead-4720-missing": 1791600055.2144985
+  "http://english.ratopati.com/story/83108/bhotekoshi-flood-1457-people-dead-4720-missing": 1791600055.2144985,
+  "https://nagariknews.nagariknetwork.com/economy/power-supply-to-be-affected-in-the-kathmandu-valley-today-and-tomorrow-from-9-am-to-5-pm-23-66.html": 1791600649.302936,
+  "https://nagariknews.nagariknetwork.com/social-affairs/new-traffic-schedule-implemented-on-tribhuvan-highway-27-47.html": 1791600649.302936,
+  "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOa2NwYUpXSGpCczhpWHd1dkhzYjFVRUVNTjR1NEY5QTg3YU01NmpFRWZOWHZRc0RzQWtnRFdyUHJETVV1aDBKYjN0eUFCY3AwR3duS0dlQUduMUQ5RUZ3dW1xbnBKbHVFcmZIQ09IMFU5aENtYWlDLVhJbjBSLTlGRUZPamJteTRxZXlTUG5tdlBKb3c0T3NaZTZ5b0xJSnZ1UnBLaEpDTVg2aHc?oc=5": 1791600649.302936,
+  "https://kathmandupost.com/national/2026/10/10/nepal-s-gold-smuggling-networks-survive-crackdown-after-crackdown": 1791600649.302936,
+  "http://english.ratopati.com/story/83109/one-dead-2-injured-after-bike-hits-pedestrian-in-birendranagar": 1791600649.302936,
+  "https://gorkhapatraonline.com/news/226114": 1791600649.302936
  },
  "queue": [
   {
@@ -2514,7 +2520,7 @@
    "cat": "disaster",
    "val": 2,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "मात्र औपचारिकता !",
@@ -2943,30 +2949,6 @@
    ],
    "cat": "world",
    "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Nepali Congress candidate Vinita Khadka arrested for fraud in Kathmandu",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYVRVc2lpXzNia0JqUHdvQ1EwWERfWUxMUzM2ZzVWQmVSRm9HSnRwTTJOQ1RuSERtTUdHdGlGZk13dUVtODk1clpmSFd2NlVwWEZGeXFYNjl6X0g0dHN5M2tSRlZSVlFiSFpjZEVIVlluM011N2RFN1dnZkRLX0JsWXVsNExyNzZyTHByMDdnUkZfMWRkZUxONnprZFZWV1BCMU8xc1B6VQ?oc=5",
-   "source": "Deshsanchar",
-   "ts": 1791584038,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Nepali Congress candidate Vinita Khadka arrested for fraud in Kathmandu",
-   "en": "Nepali Congress candidate Vinita Khadka arrested for fraud in Kathmandu",
-   "ne": "Nepali Congress candidate Vinita Khadka arrested for fraud in Kathmandu",
-   "imp": 3,
-   "tags": [
-    "Kathmandu",
-    "Arrest",
-    "NepaliCongress",
-    "Fraud"
-   ],
-   "cat": "crime",
-   "val": 3,
    "teaser": false,
    "hits": 1
   },
@@ -3509,7 +3491,7 @@
    "cat": "economy",
    "val": 2,
    "teaser": true,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "सप्तरीमा चाडपर्व लक्षित सुरक्षा योजना, ८९६ प्रहरी परिचालन गरिने",
@@ -3556,6 +3538,29 @@
    ],
    "cat": "economy",
    "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "One Dead, Two Injured in Motorcycle Accident in Birendranagar",
+   "summary": "Surkhet. One person died and two were injured when a bullet motorcycle hit pedestrians in Birendranagar last night.The deceased has...",
+   "link": "http://english.ratopati.com/story/83109/one-dead-2-injured-after-bike-hits-pedestrian-in-birendranagar",
+   "source": "Ratopati EN",
+   "ts": 1791600143,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/accident1_0HVVwEUEAJ.jpg",
+   "lang": "en",
+   "hl": "One Dead, Two Injured in Motorcycle Accident in Birendranagar",
+   "en": "One Dead, Two Injured in Motorcycle Accident in Birendranagar",
+   "ne": "One Dead, Two Injured in Motorcycle Accident in Birendranagar",
+   "imp": 2,
+   "tags": [
+    "Accident",
+    "Birendranagar",
+    "सवारीदुर्घटना"
+   ],
+   "cat": "crime",
+   "val": 3,
    "teaser": false,
    "hits": 1
   }
@@ -6761,9 +6766,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "economy"
+  },
+  {
+   "ts": 1791600657.4799643,
+   "en": "Nepali Congress candidate Vinita Khadka arrested in Kathmandu for Israel job fraud",
+   "ne": "Nepali Congress candidate Vinita Khadka arrested in Kathmandu for Israel job fraud",
+   "link": "https://english.deshsanchar.com/nepali-congress-candidate-vinita-khadka-arrested-for-fraud-in-kathmandu/",
+   "source": "Deshsanchar",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "crime"
   }
  ],
- "updated": 1791600059,
+ "updated": 1791600673,
  "pending_since": 1791600055.2144985,
  "fb_blocks": [
   1790350880.4125228,
