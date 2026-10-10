@@ -1,11 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMiygFBVV95cUxQblJrcU16Rml2OXprWVdDcDRFZHRtZzdGTFhLX3FERXYwVi1rTHY0RVBEaENuT0JmVVpfbWdHSmJGbHFxNE1lMDJvVTMyNFU4Q3R4Q2s5MG1UbU1kaU1CS1JHOVNZSmJxSVpjbmhVTDhBc2ZKLXRHTU1HWmRyZFhXSUJ4dkV1dThWdjJGWGdPbWNrTkRTR3RtdlIxT3BBNUtYMnNnV1FZblJEOXJnazc1TFN5S0IxT0JvYldFM0ZScGdMODctWUt4SmF3?oc=5": 1791472255.205308,
-  "http://lokaantar.com/story/330821/2026/10/8/prize-": 1791472255.205308,
-  "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUlRkWUQzdUEybXFpcUdrMEtBZ0FsQlcwZ3ZQcV8xVGRLRmhzcW0ySnRVRW9QSmVyZ0NjRVZTTlQwVzhZMW5hUTNuNndsVlVnV2tyd0I0OV9LWU4wNWF5QWNuZFpubTJTUnh2WlZLZW9rWDEwTzI2S3Z0RGoxODJ4ejZKYzYyZjgzbVNmZGYzTE5aZ1U?oc=5": 1791472255.205308,
-  "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeXg3emZkYVgyMGpfT3ZyTXRMbXpWTzFncDhmRVFuLVdQb0xRTzJnM1diQk85QUxoZjFQb3dCUTUtTlVVNXA0RGdfUGgzSUNJQWczZzNNVXlKZng2V0VkWnYwWnl5UTdOR1g4UDJXMG5hYmhoZTI3SEJVUGNsaWtPdGl5TFQ?oc=5": 1791472255.205308,
-  "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQnYtQkJYMzlXWlYtOW0wRmR0WGJmNFA5Q0tkc1FDMWk3XzB1LW1TbGc1VlI0aWRRNU1lS21VbUxIMXU0S2FTUzE5My1qQ3ROZTgzd2xtZnN4eGxIcHVMNUppdHZsaGNJa1BkX0NiNGI0UUtnbVB5eXAtaVF3bXJXN1AxWmlyYmxxRzZXVk5jTEFQZllHM1Y5d2EzN2ZkVk1pNF9uMXNSeVA3MTlQVG5WVVVjUEJFQQ?oc=5": 1791472255.205308,
-  "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVXZnZGhiVGQ3MVdSLTB4Y0NqVTlZQlp0RzBkY195MTRhMDZSS293YTdndDItRjRHS3EwX0tfWkd1S0F2NDExb0ItT0FWUUQ4VjdaaW1iQXV4VUdwRVVwbDFUU0F5R1NKSUxSc2lDVHZMNXJZRDBUMWRPLWZjV3JuaE56c3FoWElLeDBxbA?oc=5": 1791472255.205308,
   "https://english.khabarhub.com/2026/08/571244/": 1791472855.861054,
   "https://kathmandupost.com/politics/2026/10/08/former-president-bhandari-returns-to-uml-under-ex-pm-oli": 1791472855.861054,
   "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaG9VRmdxNTUxcUNUekV2a01LaWZvaEhFc2JSZ2NCYm5jMldES1hVX1daS3QyNGtXZjl2azhPRFlhUzFCZEV1MldSMXNQR1NFSTBCQVRHOW13cDhEdFRSVmM2NTE2NjFhaDRodGQ5MFdHTU9DNHNPT3RLZG04OGRBUzFEankta3M5UFZn?oc=5": 1791472855.861054,
@@ -2067,7 +2061,9 @@
   "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOeUk5Y0JSNFFlNm5PM3J3ZFdFUnR2UjhkTU5ObEs2a3ZDNHZfMmR1bnZBMTlGaHFBMHZnc3lkS1FXSGZqQy1XVUZMcXRUVTVzMy10LUVSNnc5SW1lRThibERfVkUxUVB0QmM3SF9LYTVYdndvRkRVU1VhM1dJNm1rNjg3VEpIa1JaOURIanJCeWprZUxmUnZscHAyRHZmUldzZXVyVEFvZFQ2NGpLdEFsWFRBTFZuNEN2REdwQzV2MGFwYXplU3NnS1djLTJKZGVkVG9hTVc4U2XSAd4BQVVfeXFMTlV5QURnVzgxNmplMy1iNkJrem5hY0lfeU9ucnJNQWFrNG80ZUZUYWo1eGVNUTZxUFdWdDJWVnFiUUE2bWJuMkpCVF9rdEZyMXdUakhnbnhIMm1INml6LWFqNVZiY2VGRjVtMk9sUjlKZHZLZXdTanNOc0Jhd09HVzRsb2Jsd09KdGVSa3MxMXdmWTUyRElRRktHbXFTYmJEbHdpRFdWQlZzM1c5cTNWSFBLUmUzcGctaURyS0gxU3R4UVpHLWJxbU15a3ZMeG9KX25LOEFYWGFHMmxyZlJR?oc=5": 1791645049.4295135,
   "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcTJPVGd5RGd0YVp1bzhwWjFQREZoM3NhdjFlbkZzV28wZVpfVkhBVWlHbHNoYzRRYVRoRlUxTVVLZEFqUzFOcl91TWN3TXp6Unc2ZWYzVXpBNS14Sk1DYmhLcVBXMzBJMmtxbWNVUjZqbzREV2lCd0VUY2IxV1Y0VA?oc=5": 1791645049.4295135,
   "https://gorkhapatraonline.com/news/226214": 1791645049.4295135,
-  "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNEcxZUx4blR0eVNDZXlwbGI5dzVObDQtdkhzZGZDbzdUbjJqblhsdHV5SHctaHdSaTdwUkprTFFvdk1TV29jMEVmYlUySjJEbE90Vm1RR29aN3hVMzZhdk42cXc4LVZfVi1WelVaX3gzSDBCbEdYbkdHbnZKUEdNakcwVXVVZk9DbTVMbm9ITi05TzhnTmtCdjJBR1hWaWtBWWozRjF4MzQ1Z3RESHJB?oc=5": 1791645049.4295135
+  "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNEcxZUx4blR0eVNDZXlwbGI5dzVObDQtdkhzZGZDbzdUbjJqblhsdHV5SHctaHdSaTdwUkprTFFvdk1TV29jMEVmYlUySjJEbE90Vm1RR29aN3hVMzZhdk42cXc4LVZfVi1WelVaX3gzSDBCbEdYbkdHbnZKUEdNakcwVXVVZk9DbTVMbm9ITi05TzhnTmtCdjJBR1hWaWtBWWozRjF4MzQ1Z3RESHJB?oc=5": 1791645049.4295135,
+  "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcE83Tk1fc1RJRlVCY18wZXlJVkhQMHdnNUpVVElYN0x4eTNVNnRjcUptQlktUWtWSUFnOFEtdnNtT21yNnpfMUdyWjNXOXJfUEpxcnJWU0x3Wk1VT2MxaEowM3dqamxlLWZEUzhiWTk3VVF0RmZYVzlVR29kVmdhUER4cFFBam1xTlhubjBmRl9pV0hjSkV4cm9WT3RXMGhwSUVHQy1qelZJYWEyV1JKRU5Rb05EYVhFbE54akh1bFJGSzhPb2tna3FxRTFsREk?oc=5": 1791645647.9280593,
+  "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVE9qRzNxbUhGWnEtZnZ3Q3p1TW1UcnRSZXFEV2RFVURvRk4tQWRhOWdTdDRpbl85UWdVVjQ5Q3E5Ni1JSUNua2xkb0hveXIxS0c0WVc0dDRRTUpMOGh1T01PaWxYRWVaS2RsUGlMcGtSdi1EN3FXUDdvbFNtZGJxRUppUlA1dTQyRFdzMF92VQ?oc=5": 1791645647.9280593
  },
  "queue": [
   {
@@ -2254,29 +2250,6 @@
    "hits": 2
   },
   {
-   "title": "Moula-pur Municipality Launches Cleanliness Campaign During Durga Puja",
-   "summary": "Rautahat. A cleanliness campaign has been launched in Maulapur Municipality of Rautahat on the occasion of Durga Puja. The campaign...",
-   "link": "http://english.ratopati.com/story/83162/cleanliness-campaign-begins-in-maulapur-on-the-occasion-of-durga-puja",
-   "source": "Ratopati EN",
-   "ts": 1791616362,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Moula-pur Municipality Launches Cleanliness Campaign During Durga Puja",
-   "en": "Moula-pur Municipality Launches Cleanliness Campaign During Durga Puja",
-   "ne": "Moula-pur Municipality Launches Cleanliness Campaign During Durga Puja",
-   "imp": 2,
-   "tags": [
-    "Moulapur",
-    "DurgaPuja",
-    "CleanlinessCampaign"
-   ],
-   "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "अल नासरको जितमा रोनाल्डोको गोल, करिअरको ९८०औँ गोल पूरा",
    "summary": "पोर्चुगिज स्टार क्रिस्टियानो रोनाल्डोले साउदी प्रो लिगमा गोल गर्दै अल नासरलाई जित दिलाएका छन्।...",
    "link": "https://nagariknews.nagariknetwork.com/sports/ronaldo-scores-in-al-nasr-s-win-completes-980th-career-goal-61-43.html",
@@ -2344,29 +2317,6 @@
    "val": 3,
    "teaser": false,
    "hits": 3
-  },
-  {
-   "title": "दिपके पक्राउ परेपछि राहुलले भने : अब मोदी सरकार सिद्धिन्छ",
-   "summary": "कक्रोच जनता पार्टीका संस्थापक अभिजित दिपकेसहित पक्राउ परेपछि मोदी सरकारको चर्को आलोचना भएको छ।...",
-   "link": "https://nagariknews.nagariknetwork.com/international/after-deepak-s-arrest-rahul-said-now-the-modi-government-will-end-br-42-62.html",
-   "source": "Nagarik News",
-   "ts": 1791616795,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1773412842_Modi%20vs%20Rahul.jpg",
-   "lang": "ne",
-   "hl": "दिपके पक्राउ परेपछि राहुलले भने : अब मोदी सरकार सिद्धिन्छ",
-   "en": "दिपके पक्राउ परेपछि राहुलले भने : अब मोदी सरकार सिद्धिन्छ",
-   "ne": "दिपके पक्राउ परेपछि राहुलले भने : अब मोदी सरकार सिद्धिन्छ",
-   "imp": 1,
-   "tags": [
-    "AbhijeetDipke",
-    "RahulGandhi",
-    "ModiGovernment"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
   },
   {
    "title": "Climate Risk Consideration Essential for Hydropower Projects, Expert Deepak KC States",
@@ -2620,29 +2570,6 @@
    "val": 3,
    "teaser": false,
    "hits": 3
-  },
-  {
-   "title": "नेपाल टेलिकमको दसैंतिहार अफर : ४९९ रुपैयाँमा ५ जीबी दैनिक डाटा",
-   "summary": "नेपाल टेलिकमले दसैं, तिहार तथा छठ पर्वको अवसरमा ग्राहकका लागि 'दसैं तिहार अफर २०८३' ल्याएको छ।",
-   "link": "https://nagariknews.nagariknetwork.com/economy/nepal-telecom-s-dashain-tihar-offer-5-gb-daily-data-for-rs-499-80-46.html",
-   "source": "Nagarik News",
-   "ts": 1791616503,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1738667817_nepal_telecom.jpg",
-   "lang": "ne",
-   "hl": "नेपाल टेलिकमको दसैंतिहार अफर : ४९९ रुपैयाँमा ५ जीबी दैनिक डाटा",
-   "en": "नेपाल टेलिकमको दसैंतिहार अफर : ४९९ रुपैयाँमा ५ जीबी दैनिक डाटा",
-   "ne": "नेपाल टेलिकमको दसैंतिहार अफर : ४९९ रुपैयाँमा ५ जीबी दैनिक डाटा",
-   "imp": 2,
-   "tags": [
-    "NepalTelecom",
-    "DashainOffer",
-    "Data"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
   },
   {
    "title": "पोखरामा विमानस्थल आसपासमा चंगा र ड्रोन उडाउन निषेध",
@@ -3675,30 +3602,6 @@
     "दुर्घटना"
    ],
    "cat": "crime",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Mercure Kathmandu Sukedhara Heights becomes Nepal's first Green Key-certified hotel",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPT3BsZUtpSDdoTkQxVmFHalNTRGpNUHR0UmtEQ2dMaDNmc2NLaGJKTHhBUnhyQmRCWVgwbDIyc1NQd3E4Vm04ZlBIR1Z1LTJnc2x1XzdXUEVmaE81UmN5MDZSMzZhRGhaQlRic3NTclB1cmJqSFZ3V0QxYUNoY09fQVF4dDR4blhKYXRxdS1JQVBHMHVwMWFVdjd6VU90bVBUWGNiX0VHNzA0dkNXRTJhcDFJN1h5VnFSQVlIenpBLUsyS3M?oc=5",
-   "source": "BW Hotelier",
-   "ts": 1791616579,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Mercure Kathmandu Sukedhara Heights becomes Nepal's first Green Key-certified hotel",
-   "en": "Mercure Kathmandu Sukedhara Heights becomes Nepal's first Green Key-certified hotel",
-   "ne": "Mercure Kathmandu Sukedhara Heights becomes Nepal's first Green Key-certified hotel",
-   "imp": 2,
-   "tags": [
-    "MercureHotel",
-    "GreenKey",
-    "Kathmandu",
-    "Tourism"
-   ],
-   "cat": "economy",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -5187,7 +5090,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "Nepal: Rebar prices fall by NPR 1,500/t amid monsoon, festive demand slowdown",
@@ -5971,17 +5874,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1791040253.72015,
-   "en": "Heavy rain in Nepal linked to Bihar floods, Gandak river's record rise: Deputy CM cites NASA data",
-   "ne": "Heavy rain in Nepal linked to Bihar floods, Gandak river's record rise: Deputy CM cites NASA data",
-   "link": "https://www.telegraphindia.com/amp/india/heavy-rain-in-nepal-linked-to-bihar-floods-gandak-rivers-record-rise-deputy-cm-cites-nasa-data/cid/2182962",
-   "source": "Telegraph India",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "disaster"
-  },
   {
    "ts": 1791042055.6341739,
    "en": "Prime Minister Balen Shah's Himalayan Tourist Highway Project Faces Criticism",
@@ -9162,7 +9054,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1791645053,
+ "updated": 1791645653,
  "pending_since": 1791643853.8211942,
  "fb_blocks": [
   1790350880.4125228,
