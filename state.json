@@ -2280,7 +2280,14 @@
   "https://nagariknews.nagariknetwork.com/arts/our-ancestors-and-us-br-40-94.html": 1791604884.8341942,
   "https://nagariknews.nagariknetwork.com/arts/mother-s-faith-41-39.html": 1791604884.8341942,
   "https://nagariknews.nagariknetwork.com/arts/chadfestival-br-85-25.html": 1791604884.8341942,
-  "https://nagariknews.nagariknetwork.com/social-affairs/new-chinese-group-involved-in-gold-smuggling-br-97-54.html": 1791604884.8341942
+  "https://nagariknews.nagariknetwork.com/social-affairs/new-chinese-group-involved-in-gold-smuggling-br-97-54.html": 1791604884.8341942,
+  "https://risingnepaldaily.com/news/87630": 1791605451.4646802,
+  "https://nagariknews.nagariknetwork.com/economy/internet-charges-have-not-increased-action-will-be-taken-if-customers-are-inconvenienced-telecommunications-authority-98-92.html": 1791605451.4646802,
+  "http://english.ratopati.com/story/83122/lights-will-go-out-in-these-areas-of-kathmandu-on-saturday-and-sunday": 1791605451.4646802,
+  "https://english.khabarhub.com/2026/10/571421/": 1791605451.4646802,
+  "http://english.ratopati.com/story/83121/internet-fees-have-not-increased-action-will-be-taken-against-those-who-charge-more": 1791605451.4646802,
+  "https://gorkhapatraonline.com/news/226129": 1791605451.4646802,
+  "https://nagariknews.nagariknetwork.com/social-affairs/bhotekoshi-flood-1-457-dead-4-720-missing-63-71.html": 1791605451.4646802
  },
  "queue": [
   {
@@ -3146,7 +3153,7 @@
    "cat": "tech",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "पनामामा ७.७ म्याग्निच्युडको शक्तिशाली भूकम्प, संरचनामा ठूलो क्षति",
@@ -3621,7 +3628,7 @@
    "cat": "crime",
    "val": 3,
    "teaser": false,
-   "hits": 3
+   "hits": 4
   },
   {
    "title": "Nepal's gold-smuggling networks survive crackdown after crackdown",
@@ -3804,7 +3811,7 @@
    "cat": "culture",
    "val": 1,
    "teaser": true,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "जादुमय प्राकृतिक गन्तव्य",
@@ -7830,8 +7837,8 @@
    "cat": "disaster"
   }
  ],
- "updated": 1791604895,
- "pending_since": null,
+ "updated": 1791605456,
+ "pending_since": 1791605451.4646802,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
