@@ -2298,7 +2298,8 @@
   "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONUFZdzgzNy1HMEF2cTdUeDFUbDRMX01HNU5IeEdHclIzYTBZQS1ZeHRDelNvNFdsY2hVYkxHNXJ6azhJN3BzanVEUXQ5c3VCQlJjclhHU05GekV0V1h3STJxcXNFVGw3aWQzdEhoNHk4RWNqOHVMblRNV1d0Tzg4LVlGM0owTDRaczVHRHNfcU5EU3BkbE5QSExwem4tS0dmaW50cmlIMnF3dw?oc=5": 1791591050.0986173,
   "http://lokaantar.com/story/330923/2026/10/10/congress-": 1791591050.0986173,
   "https://risingnepaldaily.com/news/87613": 1791591496.5793016,
-  "http://lokaantar.com/story/330924/2026/10/10/gagan-thapa-": 1791591496.5793016
+  "http://lokaantar.com/story/330924/2026/10/10/gagan-thapa-": 1791591496.5793016,
+  "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWEhjeHVfc2MtMnJxTXRzeDdTalpRaV9UUzdNU050TU5OS0g0YWJqOUttVEZZVUJUSTVYMUViZnZoWWo0My1YbE04Q2ZPeVZFc1NUVFNhaUNkWnBmSGh5czBFMHRPeTRfYzZXQUZDeWhmcWpNYVgzZm5zSVp4dV9MUEt4ZWF0RDdrVlFvUHRRWlMzMFVBMEdZOTZpNGlGZUNlTjdnQk5yY29jMlh2N25TdVdVVVliMUtoUU1XX3BNUllTQk4tbVd5ajVmOW1fbWpuV0VGQUZFbUlVLWF2ekE?oc=5": 1791591647.6309464
  },
  "queue": [
   {
@@ -2695,28 +2696,27 @@
    "hits": 1
   },
   {
-   "title": "कांग्रेस सभापतिमा गगन थापा निर्वाचित",
+   "title": "Gagan Thapa elected Nepali Congress president with 6,584 votes, defeating Shyam Krishna Khadgi",
    "summary": "",
-   "link": "https://baahrakhari.com/detail/504450",
-   "source": "Baahrakhari",
-   "ts": 1791588420,
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWEhjeHVfc2MtMnJxTXRzeDdTalpRaV9UUzdNU050TU5OS0g0YWJqOUttVEZZVUJUSTVYMUViZnZoWWo0My1YbE04Q2ZPeVZFc1NUVFNhaUNkWnBmSGh5czBFMHRPeTRfYzZXQUZDeWhmcWpNYVgzZm5zSVp4dV9MUEt4ZWF0RDdrVlFvUHRRWlMzMFVBMEdZOTZpNGlGZUNlTjdnQk5yY29jMlh2N25TdVdVVVliMUtoUU1XX3BNUllTQk4tbVd5ajVmOW1fbWpuV0VGQUZFbUlVLWF2ekE?oc=5",
+   "source": "ANI News",
+   "ts": 1791591240,
    "weight": 2,
    "img": null,
-   "lang": "ne",
-   "hl": "कांग्रेस सभापतिमा गगन थापा निर्वाचित",
-   "en": "कांग्रेस सभापतिमा गगन थापा निर्वाचित",
-   "ne": "कांग्रेस सभापतिमा गगन थापा निर्वाचित",
+   "lang": "en",
+   "hl": "Gagan Thapa elected Nepali Congress president with 6,584 votes, defeating Shyam Krishna Khadgi",
+   "en": "Gagan Thapa elected Nepali Congress president with 6,584 votes, defeating Shyam Krishna Khadgi",
+   "ne": "Gagan Thapa elected Nepali Congress president with 6,584 votes, defeating Shyam Krishna Khadgi",
    "imp": 4,
    "tags": [
     "NepaliCongress",
     "GaganThapa",
-    "कांग्रेस",
-    "सभापति"
+    "Politics"
    ],
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 3
+   "hits": 1
   }
  ],
  "posted": [
@@ -5942,9 +5942,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "disaster"
+  },
+  {
+   "ts": 1791591655.3877447,
+   "en": "कांग्रेस सभापतिमा गगन थापा निर्वाचित, ६,५८४ मत प्राप्त",
+   "ne": "कांग्रेस सभापतिमा गगन थापा निर्वाचित, ६,५८४ मत प्राप्त",
+   "link": "https://baahrakhari.com/detail/504450",
+   "source": "Baahrakhari",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "politics"
   }
  ],
- "updated": 1791591500,
+ "updated": 1791591667,
  "pending_since": 1791591050.0986173,
  "fb_blocks": [
   1790350880.4125228,
