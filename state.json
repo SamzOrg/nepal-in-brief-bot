@@ -2045,7 +2045,8 @@
   "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVE1CVzFNMGc2SmdYQmtfXzZOUmJmU3ljODZLOWNRLW4zd2tPd3N6VU1vLVV2TXhmWkxzR1g0UkljQ3V0eTB2SE16dTdaTzd1Ym0zU2E4MFIxb1NKZzhZa3V5Y29iOEtxUDBvSTlzeXBqZGxlRlR6Ri0zR0QzYVJfZQ?oc=5": 1791657072.8794441,
   "https://news.google.com/rss/articles/CBMilwFBVV95cUxNN2lKejR5ZnMwUjJEUE04Z1VOZGNYQ1RORzNiVDZxSEFLV044WWVBN3VwN1NzX1kzNEhVQl9OelJoVnp1RzVVd040eTcxblhFaE51YW1HamhDTlpCTEpDZDRWbkNzVXJvNFNtbXFfbjhBN3hUZUxkRldjVGVaV3RMOEF6aGd1Vlh2OTBJSzBsNjduN3JIVk13?oc=5": 1791658891.729244,
   "https://news.google.com/rss/articles/CBMiWkFVX3lxTE54RlFGOTFwaExfVDc4bEtwcGkwRWk4UG95X3FST3B2VUs2NGNRZnA1YVZXX3pmaWx1NnFDS2tRaGZqSlhjRDhoYTJtSml5OEZxc19idllrTzM4d9IBWkFVX3lxTE54RlFGOTFwaExfVDc4bEtwcGkwRWk4UG95X3FST3B2VUs2NGNRZnA1YVZXX3pmaWx1NnFDS2tRaGZqSlhjRDhoYTJtSml5OEZxc19idllrTzM4dw?oc=5": 1791658891.729244,
-  "https://baahrakhari.com/detail/504526": 1791661249.741025
+  "https://baahrakhari.com/detail/504526": 1791661249.741025,
+  "https://news.google.com/rss/articles/CBMinAFBVV95cUxPanp3VWRYRWJDLWpTREhTNVVhZFROMVl4Rm9iZVBzNTRXNkQzd1RyWkY2YzM3bzNOVFRua29yZ2pYWkNsdXQ3bnNjSlpDa3VVTVF4eEd0ZVlXOHF6RXhtTVFBeVN6clU3S0tZdHN0Wlp1WFFoQ0lrUkJ3aFlKaXo3MkxTN1BRV29vWVdETlFycy1vSUVwY3otM0FrNXDSAVpBVV95cUxOeEZRRjkxcGhMX1Q3OGxLcHBpMEVpOFBveV9xUk9wdlVLNjRjUWZwNWFWV196ZmlsdTZxQ0trUWhmakpYY0Q4aGEybUppeThGcXNfYnZZa08zOHc?oc=5": 1791661849.5872967
  },
  "queue": [
   {
@@ -2114,144 +2115,6 @@
    ],
    "cat": "health",
    "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "गगनले सम्झिए पाँच वर्षअघिको विश्वप्रकाशका वाचा",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/504507",
-   "source": "Baahrakhari",
-   "ts": 1791632989,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "गगनले सम्झिए पाँच वर्षअघिको विश्वप्रकाशका वाचा",
-   "en": "गगनले सम्झिए पाँच वर्षअघिको विश्वप्रकाशका वाचा",
-   "ne": "गगनले सम्झिए पाँच वर्षअघिको विश्वप्रकाशका वाचा",
-   "imp": 2,
-   "tags": [
-    "GaganThapa",
-    "BishwaPrakashSharma",
-    "कांग्रेस"
-   ],
-   "cat": "politics",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Journalism Awards and Honors Presented by Active Journalists Forum Bhaktapur",
-   "summary": "Bhaktapur. The Active Journalists Forum Bhaktapur has presented journalism awards and honors to various individuals today. At the forum's 16th...",
-   "link": "http://english.ratopati.com/story/83213/chief-minister-and-mayor-honored-journalist-thami-receives-posthumous-journalism-award",
-   "source": "Ratopati EN",
-   "ts": 1791632891,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/ln8nGjb9at.jpg",
-   "lang": "en",
-   "hl": "Journalism Awards and Honors Presented by Active Journalists Forum Bhaktapur",
-   "en": "Journalism Awards and Honors Presented by Active Journalists Forum Bhaktapur",
-   "ne": "Journalism Awards and Honors Presented by Active Journalists Forum Bhaktapur",
-   "imp": 2,
-   "tags": [
-    "JournalismAward",
-    "Bhaktapur",
-    "पत्रकारिता"
-   ],
-   "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "मबाटै अनियमितता भए मेरो बचाउमा कांग्रेस बोल्नुपर्दैन- गगन थापा",
-   "summary": "'कुनै पनि गलत काम गर्छ, गैरकानुनी काम गर्छ भने त्यसको भारी त्यो व्यक्ति आफैंले बोक्नुपर्छ। पार्टीले त्यो भारी बोक्दैन,' उनले भने।",
-   "link": "https://www.setopati.com/politics/400525",
-   "source": "Setopati",
-   "ts": 1791632700,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "मबाटै अनियमितता भए मेरो बचाउमा कांग्रेस बोल्नुपर्दैन- गगन थापा",
-   "en": "मबाटै अनियमितता भए मेरो बचाउमा कांग्रेस बोल्नुपर्दैन- गगन थापा",
-   "ne": "मबाटै अनियमितता भए मेरो बचाउमा कांग्रेस बोल्नुपर्दैन- गगन थापा",
-   "imp": 3,
-   "tags": [
-    "GaganThapa",
-    "NepaliCongress",
-    "Corruption"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "कुशवाहा समाजको अध्यक्षमा रामनारायण मेहता",
-   "summary": "विनय कर्ण कल्याणपुर (सप्तरी) असोज २४ गते। नेपाल कुशवाहा कल्याण समाज सप्तरीको अध्यक्षमा रामनारायण मेहता निर्वाचित हुनुभएको छ । शनिबार सम्पन्न भएको पाँचौ जिल्ला अधिवेशनबाट अध्यक्ष पद...",
-   "link": "https://gorkhapatraonline.com/news/226194",
-   "source": "Gorkhapatra",
-   "ts": 1791632915,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/387469/conversions/Messenger_creation_2F567A72-6A6D-45CB-8BF8-78721F766550-original.jpg",
-   "lang": "ne",
-   "hl": "कुशवाहा समाजको अध्यक्षमा रामनारायण मेहता",
-   "en": "कुशवाहा समाजको अध्यक्षमा रामनारायण मेहता",
-   "ne": "कुशवाहा समाजको अध्यक्षमा रामनारायण मेहता",
-   "imp": 2,
-   "tags": [
-    "KushwahaSociety",
-    "RamNarayanMehta",
-    "समाज"
-   ],
-   "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Home Minister Sudhan Gurung Discusses Trade, Border Management with Business Leaders Before BIMSTEC Meeting",
-   "summary": "Kathmandu. Home Minister Sudhan Gurung has held discussions with top industrialists and businessmen of Nepal before leaving to participate in...",
-   "link": "http://english.ratopati.com/story/83212/discussion-between-home-minister-and-industrialists-ahead-of-bimstec-meeting-issues-of-nepal-india-trade-and-border-management-to-be-raised",
-   "source": "Ratopati EN",
-   "ts": 1791632568,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/sudhan_Z5KF74PlaT.webp",
-   "lang": "en",
-   "hl": "Home Minister Sudhan Gurung Discusses Trade, Border Management with Business Leaders Before BIMSTEC Meeting",
-   "en": "Home Minister Sudhan Gurung Discusses Trade, Border Management with Business Leaders Before BIMSTEC Meeting",
-   "ne": "Home Minister Sudhan Gurung Discusses Trade, Border Management with Business Leaders Before BIMSTEC Meeting",
-   "imp": 3,
-   "tags": [
-    "BIMSTEC",
-    "SudhanGurung",
-    "Trade"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "पत्रकार महासङ्घ बागलुङमा १० लाखको लेखनवृत्ति कोष स्थापना",
-   "summary": "नवराज नेपाली गलकोट (बागलुङ), असोज २४ गते । नेपाल पत्रकार महासङ्घ, बागलुङ शाखाले खोजी र विश्लेषणात्मक समाचार लेख्ने पत्रकारलाई प्रोत्साहित गर्ने उद्देश्यले १० लाख रुपियाँको 'पत्रकार...",
-   "link": "https://gorkhapatraonline.com/news/226193",
-   "source": "Gorkhapatra",
-   "ts": 1791632781,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/387468/conversions/1000087681-original.jpg",
-   "lang": "ne",
-   "hl": "पत्रकार महासङ्घ बागलुङमा १० लाखको लेखनवृत्ति कोष स्थापना",
-   "en": "पत्रकार महासङ्घ बागलुङमा १० लाखको लेखनवृत्ति कोष स्थापना",
-   "ne": "पत्रकार महासङ्घ बागलुङमा १० लाखको लेखनवृत्ति कोष स्थापना",
-   "imp": 2,
-   "tags": [
-    "Baglung",
-    "JournalismFund",
-    "पत्रकारिता"
-   ],
-   "cat": "society",
-   "val": 3,
    "teaser": false,
    "hits": 1
   },
@@ -2436,29 +2299,6 @@
    ],
    "cat": "health",
    "val": 1,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Taiwan's leader says increasing defence spending to 'deter war'",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbldMNElUU2Q0VUhQdFh6b1A2MDFGZy0wdld6U19ycW9od0ItQUFWX2lrNkcxeXg0TVotRWVUOFhUSHZmTDk5WVF6elNYZC0za1JrZHpTTlN4MTctcHZiT3FvejM3X09veXJGaXRvczNWdTlhcjlPUVBWXzVVaFZQS0h4UlR6SjRpY3UxOWtHb1R0WERtS09COUk5Z2g2X2pfZmx2TkptQVZTNE5qWWhMb2xza3o3UQ?oc=5",
-   "source": "myRepublica",
-   "ts": 1791632700,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Taiwan's leader says increasing defence spending to 'deter war'",
-   "en": "Taiwan's leader says increasing defence spending to 'deter war'",
-   "ne": "Taiwan's leader says increasing defence spending to 'deter war'",
-   "imp": 1,
-   "tags": [
-    "Taiwan",
-    "DefenseSpending",
-    "China"
-   ],
-   "cat": "world",
-   "val": 3,
    "teaser": false,
    "hits": 1
   },
@@ -3871,30 +3711,6 @@
    "hits": 1
   },
   {
-   "title": "आँधीका कारण फ्लोरिडा र अलाबामामा दुईको मृत्यु, ८ लाख ४० हजारभन्दा बढी मानिस अन्धकारमा",
-   "summary": "अमेरिकाको गल्फ कोस्ट क्षेत्रमा आएको आँधीका कारण ठूलो जनधनको क्षति पुर्‍याएको छ। श्रेणी ३ को चक्रवातका रूपमा विकसित भई फ्लोरिडामा अवतरण गरेको यस आँधीका कारण कम्तीमा दुई जनाको मृत्यु भएको छ भने ८ लाख ४० हजारभन्दा बढी...",
-   "link": "http://lokaantar.com/story/330990/2026/10/10/dead-",
-   "source": "Lokaantar",
-   "ts": 1791633049.1611025,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "आँधीका कारण फ्लोरिडा र अलाबामामा दुईको मृत्यु, ८ लाख ४० हजारभन्दा बढी मानिस अन्धकारमा",
-   "en": "आँधीका कारण फ्लोरिडा र अलाबामामा दुईको मृत्यु, ८ लाख ४० हजारभन्दा बढी मानिस अन्धकारमा",
-   "ne": "आँधीका कारण फ्लोरिडा र अलाबामामा दुईको मृत्यु, ८ लाख ४० हजारभन्दा बढी मानिस अन्धकारमा",
-   "imp": 1,
-   "tags": [
-    "Florida",
-    "Alabama",
-    "Storm",
-    "USA"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Journalist killed in Mexico, ninth this year: NGO",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNM29XekI0Vkt5TjFJbzh1clhRS09qMUQ1WTFlSlB3V1lla0pLRm9sdk9fcTBzcTFjLV9RZVRvZlNSQmVCd09jXzBSS2xsSmU5Z2ZGY3RxR2xhdXFLNnVBdzhSYVlNOWF2U1VIeW5wdGxyZW9zRFpXaVJqRi1HTlRyaVJHWF9IVzJ3VnJRdnliMVhQN0VOTTMyUHg0QXVOWnRjdmFIXw?oc=5",
@@ -4629,7 +4445,7 @@
    "cat": "world",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   }
  ],
  "posted": [
@@ -7824,8 +7640,8 @@
    "cat": "world"
   }
  ],
- "updated": 1791661253,
- "pending_since": null,
+ "updated": 1791661852,
+ "pending_since": 1791661849.5872967,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
