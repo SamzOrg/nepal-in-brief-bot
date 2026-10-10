@@ -2295,32 +2295,10 @@
   "https://gorkhapatraonline.com/news/226093": 1791595248.205475,
   "https://nagariknews.nagariknetwork.com/social-affairs/chance-of-rain-from-koshi-to-sudurpaschim-thunderstorms-in-the-himalayan-and-hilly-areas-50-69.html": 1791595248.205475,
   "https://gorkhapatraonline.com/news/226092": 1791595248.205475,
-  "https://nagariknews.nagariknetwork.com/economy/price-hikes-of-up-to-50-percent-consumers-hit-hard-ahead-of-dashain-br-98-91.html": 1791595248.205475
+  "https://nagariknews.nagariknetwork.com/economy/price-hikes-of-up-to-50-percent-consumers-hit-hard-ahead-of-dashain-br-98-91.html": 1791595248.205475,
+  "https://nagariknews.nagariknetwork.com/sports/sahibzada-farhan-s-explosive-batting-leads-pakistan-to-a-stunning-victory-over-sri-lanka-69-69.html": 1791596448.246756
  },
  "queue": [
-  {
-   "title": "कर्णालीमा स्थानीय सेवाको शैक्षिक योग्यता संशोधन, पशु चिकित्सकको तहगत व्यवस्था फेरियो",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/504448",
-   "source": "Baahrakhari",
-   "ts": 1791567637,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "कर्णालीमा स्थानीय सेवाको शैक्षिक योग्यता संशोधन, पशु चिकित्सकको तहगत व्यवस्था फेरियो",
-   "en": "कर्णालीमा स्थानीय सेवाको शैक्षिक योग्यता संशोधन, पशु चिकित्सकको तहगत व्यवस्था फेरियो",
-   "ne": "कर्णालीमा स्थानीय सेवाको शैक्षिक योग्यता संशोधन, पशु चिकित्सकको तहगत व्यवस्था फेरियो",
-   "imp": 3,
-   "tags": [
-    "Karnali",
-    "Education",
-    "Veterinary"
-   ],
-   "cat": "education",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
   {
    "title": "अन्तर्राष्ट्रिय फौजदारी अदालतमाथि अमेरिकाले लगायो प्रतिबन्ध",
    "summary": "",
@@ -3001,6 +2979,30 @@
    ],
    "cat": "politics",
    "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "साहिबजादा फरहानको विस्फोटक ब्याटिङमा श्रीलंकाविरुद्ध पाकिस्तानको शानदार जित",
+   "summary": "साहिबजादा फरहानले कप्तानका रूपमा पहिलो टी-२० अन्तर्राष्ट्रिय खेलमै विस्फोटक ब्याटिङ गरेपछि पाकिस्तानले श्रीलंकाविरुद्ध शानदार जित निकालेको छ।...",
+   "link": "https://nagariknews.nagariknetwork.com/sports/sahibzada-farhan-s-explosive-batting-leads-pakistan-to-a-stunning-victory-over-sri-lanka-69-69.html",
+   "source": "Nagarik News",
+   "ts": 1791595589,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2025/third-party/1791595581_New%20Project%20(1).jpg",
+   "lang": "ne",
+   "hl": "साहिबजादा फरहानको विस्फोटक ब्याटिङमा श्रीलंकाविरुद्ध पाकिस्तानको शानदार जित",
+   "en": "साहिबजादा फरहानको विस्फोटक ब्याटिङमा श्रीलंकाविरुद्ध पाकिस्तानको शानदार जित",
+   "ne": "साहिबजादा फरहानको विस्फोटक ब्याटिङमा श्रीलंकाविरुद्ध पाकिस्तानको शानदार जित",
+   "imp": 1,
+   "tags": [
+    "SahibzadaFarhan",
+    "Pakistan",
+    "SriLanka",
+    "क्रिकेट"
+   ],
+   "cat": "sports",
+   "val": 3,
    "teaser": false,
    "hits": 1
   }
@@ -6230,7 +6232,7 @@
    "cat": "politics"
   }
  ],
- "updated": 1791595875,
+ "updated": 1791596452,
  "pending_since": 1791595248.205475,
  "fb_blocks": [
   1790350880.4125228,
