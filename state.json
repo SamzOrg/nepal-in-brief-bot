@@ -2049,28 +2049,6 @@
  },
  "queue": [
   {
-   "title": "मोटरसाइकलको ठक्करबाट मृत्युपछि स्थानीय आक्रोशित",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/504505",
-   "source": "Baahrakhari",
-   "ts": 1791631103,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "मोटरसाइकलको ठक्करबाट मृत्युपछि स्थानीय आक्रोशित",
-   "en": "मोटरसाइकलको ठक्करबाट मृत्युपछि स्थानीय आक्रोशित",
-   "ne": "मोटरसाइकलको ठक्करबाट मृत्युपछि स्थानीय आक्रोशित",
-   "imp": 2,
-   "tags": [
-    "MotorcycleCrash",
-    "LocalProtest"
-   ],
-   "cat": "society",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "मुख्यमन्त्री र नगर प्रमुखलाई सम्मान, पत्रकार थामीलाई मरणोपरान्त पत्रकारिता पुरस्कार",
    "summary": "भक्तपुर, असोज २४ गते । क्रियाशिल पत्रकार मञ्च भक्तपुरले विभिन्न व्यक्तिलाई आज पत्रकारिता पुरस्कार एवम् सम्मान प्रदान गरेको छ । मञ्चको १६औँ वार्षिक साधारणसभा, छैठौँ केन्द्रीय अधिवेश...",
    "link": "https://gorkhapatraonline.com/news/226191",
@@ -2114,123 +2092,6 @@
    ],
    "cat": "economy",
    "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "लोकसेवा तयारी : सत्ताइसौँ श्रृङ्खलामा २१ वटा प्रश्नोत्तर",
-   "summary": "काठमाडौँ, असोज २४ गते । गोरखापत्रको लोकसेवा तयारी विशेष कार्यक्रमको २७ औं श्रृङ्खलामा विभिन्न समसामयिक विषयका २१ वटा वस्तुगत प्रश्नोत्तर समावेश छन् । गोरखापत्र अनलाइनका लागि सपना थ...",
-   "link": "https://gorkhapatraonline.com/news/226088",
-   "source": "Gorkhapatra",
-   "ts": 1791631223,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/387466/conversions/839724233_2147084192681920_508905419052504951_n-original.jpg",
-   "lang": "ne",
-   "hl": "लोकसेवा तयारी : सत्ताइसौँ श्रृङ्खलामा २१ वटा प्रश्नोत्तर",
-   "en": "लोकसेवा तयारी : सत्ताइसौँ श्रृङ्खलामा २१ वटा प्रश्नोत्तर",
-   "ne": "लोकसेवा तयारी : सत्ताइसौँ श्रृङ्खलामा २१ वटा प्रश्नोत्तर",
-   "imp": 1,
-   "tags": [
-    "Loksewa",
-    "Preparation",
-    "लोकसेवा"
-   ],
-   "cat": "education",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "हरेक अनुहारभित्र लुकेको एउटा कारूणिक कथा",
-   "summary": "'सहनुको विकल्प छैन , मैले पनि अकालमा बुबाआमा गुमाएँ। श्रीमतीलाई क्यान्सरले लग्यो।' आँसु पुछ्दै भनेँ।",
-   "link": "https://www.setopati.com/literature/400522",
-   "source": "Setopati",
-   "ts": 1791631027,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "हरेक अनुहारभित्र लुकेको एउटा कारूणिक कथा",
-   "en": "हरेक अनुहारभित्र लुकेको एउटा कारूणिक कथा",
-   "ne": "हरेक अनुहारभित्र लुकेको एउटा कारूणिक कथा",
-   "imp": 1,
-   "tags": [
-    "Story",
-    "Feature",
-    "साहित्य"
-   ],
-   "cat": "culture",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "Beli Bridge Construction Nears Completion in Betrawati, Syabrubesi",
-   "summary": "Kathmandu. The construction work of the Beli bridge in Betrawati, Nuwakot has reached the final stage. Former Lieutenant General of...",
-   "link": "http://english.ratopati.com/story/83207/bailey-bridge-to-be-operational-in-betravati-from-tomorrow",
-   "source": "Ratopati EN",
-   "ts": 1791630983,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/betrawati-belibridge_npl-12_KUfAfxcn0n.webp",
-   "lang": "en",
-   "hl": "Beli Bridge Construction Nears Completion in Betrawati, Syabrubesi",
-   "en": "Beli Bridge Construction Nears Completion in Betrawati, Syabrubesi",
-   "ne": "Beli Bridge Construction Nears Completion in Betrawati, Syabrubesi",
-   "imp": 3,
-   "tags": [
-    "BeliBridge",
-    "Betrawati",
-    "Syabrubesi",
-    "सडक"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "डुंगाबाट तार तान्ने क्रममा महाकालीमा खसे सशस्त्रका सई",
-   "summary": "उनी सहितको टोली बाढीले क्षति पुर्‍याएको टेलिकमको तार तान्न खटिएको थियो ।",
-   "link": "https://www.setopati.com/social/400521",
-   "source": "Setopati",
-   "ts": 1791630740,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "डुंगाबाट तार तान्ने क्रममा महाकालीमा खसे सशस्त्रका सई",
-   "en": "डुंगाबाट तार तान्ने क्रममा महाकालीमा खसे सशस्त्रका सई",
-   "ne": "डुंगाबाट तार तान्ने क्रममा महाकालीमा खसे सशस्त्रका सई",
-   "imp": 3,
-   "tags": [
-    "MahakaliRiver",
-    "APF",
-    "Missing",
-    "महाकाली"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Mental Health: Beyond Temporary Relief to Inner Peace",
-   "summary": "We adopt various measures to keep our body healthy. We pay attention to diet, exercise, and seek treatment when sick....",
-   "link": "http://english.ratopati.com/story/83201/why-do-you-have-to-scream-to-hear-your-own-heart",
-   "source": "Ratopati EN",
-   "ts": 1791630900,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/sobita-simkhada_cYm4GAseza.webp",
-   "lang": "en",
-   "hl": "Mental Health: Beyond Temporary Relief to Inner Peace",
-   "en": "Mental Health: Beyond Temporary Relief to Inner Peace",
-   "ne": "Mental Health: Beyond Temporary Relief to Inner Peace",
-   "imp": 2,
-   "tags": [
-    "MentalHealth",
-    "Wellness",
-    "Psychology"
-   ],
-   "cat": "health",
-   "val": 1,
    "teaser": false,
    "hits": 1
   },
@@ -2414,29 +2275,6 @@
    ],
    "cat": "politics",
    "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "दसैँका लागि मूर्ति बनाउन भ्याइनभ्याइ",
-   "summary": "विगत ८ वर्ष देखि मूर्ति बनाउने धन्दामा लागेका तिवारीलाई मुखैमा आएको दसैँ कैलागि मूर्ति बनाउन भ्याइनभ्याइ छ।...",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/busy-making-idols-for-dashain-br-25-65.html",
-   "source": "Nagarik News",
-   "ts": 1791630914,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1791630791_durga%20murti.jpg",
-   "lang": "ne",
-   "hl": "दसैँका लागि मूर्ति बनाउन भ्याइनभ्याइ",
-   "en": "दसैँका लागि मूर्ति बनाउन भ्याइनभ्याइ",
-   "ne": "दसैँका लागि मूर्ति बनाउन भ्याइनभ्याइ",
-   "imp": 2,
-   "tags": [
-    "Dashain",
-    "IdolMaking",
-    "दसैँ"
-   ],
-   "cat": "culture",
-   "val": 2,
    "teaser": false,
    "hits": 1
   },
@@ -8170,7 +8008,7 @@
    "cat": "world"
   }
  ],
- "updated": 1791659450,
+ "updated": 1791660052,
  "pending_since": 1791659447.9116898,
  "fb_blocks": [
   1790350880.4125228,
