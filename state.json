@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSDRjd3RPWmpwT2M1aV8ySUxhamJTMHg2bm1EeWxTb1huMHJiNlE0RE5tdlA0YUkzcDJSVG5jSjgwcS16b3FQcW9ibm4teXE3aU1tRWQ3WDduNFFyYTlxWmNwdDItdXFyTHlWYmJxN1c5djVGaWRFcUNWdGpJblppNFZOZTBLYllTNXZ1R1FUbl9GZ09oQWNnY20zU1lHV2EyWFE3WTAyUnlndENoek1iaXFSbjZPT0Jp?oc=5": 1791479450.710187,
   "http://lokaantar.com/story/330825/2026/10/8/dead-": 1791480680.997184,
   "https://baahrakhari.com/detail/504315": 1791480680.997184,
   "http://lokaantar.com/story/330826/2026/10/8/lotse-": 1791481249.1008065,
@@ -2090,52 +2089,6 @@
    "val": 3,
    "teaser": false,
    "hits": 5
-  },
-  {
-   "title": "युद्धविरामको एक वर्षपछि पनि गाजामा भोकमरी र कुपोषणको सङ्कट",
-   "summary": "खान युनिस, असोज २४ गते । इजरायल र हमासबिच युद्धविराम भएको एक वर्ष बितिसक्दा पनि गाजामा भोकमरी र कुपोषणको समस्या गम्भीर अवस्थामा रहेको छ । खाद्य सहायता भित्रिन थाले पनि पर्याप्त पोष...",
-   "link": "https://gorkhapatraonline.com/news/226177",
-   "source": "Gorkhapatra",
-   "ts": 1791623680,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/387440/conversions/bhokmari-original.jpg",
-   "lang": "ne",
-   "hl": "युद्धविरामको एक वर्षपछि पनि गाजामा भोकमरी र कुपोषणको सङ्कट",
-   "en": "युद्धविरामको एक वर्षपछि पनि गाजामा भोकमरी र कुपोषणको सङ्कट",
-   "ne": "युद्धविरामको एक वर्षपछि पनि गाजामा भोकमरी र कुपोषणको सङ्कट",
-   "imp": 1,
-   "tags": [
-    "Gaza",
-    "Famine",
-    "Palestine"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "नोबेल शान्ति पुरस्कार नपाएकामा ट्रम्प रुष्ट- आठ द्वन्द्व समाधान गरेँ",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/504495",
-   "source": "Baahrakhari",
-   "ts": 1791623580,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "नोबेल शान्ति पुरस्कार नपाएकामा ट्रम्प रुष्ट- आठ द्वन्द्व समाधान गरेँ",
-   "en": "नोबेल शान्ति पुरस्कार नपाएकामा ट्रम्प रुष्ट- आठ द्वन्द्व समाधान गरेँ",
-   "ne": "नोबेल शान्ति पुरस्कार नपाएकामा ट्रम्प रुष्ट- आठ द्वन्द्व समाधान गरेँ",
-   "imp": 1,
-   "tags": [
-    "DonaldTrump",
-    "NobelPeacePrize",
-    "USA"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 3
   },
   {
    "title": "अम्बानीलाई 'भारतका प्रधानमन्त्री' भन्दै मस्कको व्यंग्य, कमल हासनको जवाफ : भारत उपनिवेश होइन",
@@ -5900,17 +5853,6 @@
  ],
  "posted": [
   {
-   "ts": 1791047454.1756268,
-   "en": "Ground cracks displace 15 families in Makawanpur, 80 houses at risk",
-   "ne": "Ground cracks displace 15 families in Makawanpur, 80 houses at risk",
-   "link": "https://kathmandupost.com/national/2026/10/03/ground-cracks-displace-15-families-in-makawanpur-80-houses-at-risk",
-   "source": "Kathmandu Post",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "disaster"
-  },
-  {
    "ts": 1791066052.8255424,
    "en": "दसैँका लागि काठमाडौँ उपत्यकाबाट घर फर्किने यात्रुको चाप बढ्यो, ८ लाखभन्दा बढी बाहिरिने अनुमान",
    "ne": "दसैँका लागि काठमाडौँ उपत्यकाबाट घर फर्किने यात्रुको चाप बढ्यो, ८ लाखभन्दा बढी बाहिरिने अनुमान",
@@ -9090,7 +9032,7 @@
    "cat": "crime"
   }
  ],
- "updated": 1791652254,
+ "updated": 1791652852,
  "pending_since": 1791651688.8775551,
  "fb_blocks": [
   1790350880.4125228,
