@@ -1,7 +1,5 @@
 {
  "seen": {
-  "http://english.ratopati.com/story/82823/the-festive-economy-amidst-natural-disasters-and-government-indifference": 1791434448.4616413,
-  "https://theannapurnaexpress.com/story/67759": 1791434448.4616413,
   "http://english.ratopati.com/story/82825/congress-general-convention-voting-to-begin-with-senior-voters": 1791435051.18712,
   "https://baahrakhari.com/detail/504226": 1791435051.18712,
   "https://www.setopati.com/politics/400320": 1791435051.18712,
@@ -2250,7 +2248,8 @@
   "https://nagariknews.nagariknetwork.com/politics/vishwaprakash-congratulates-gagan-thapa-it-is-the-beginning-of-a-journey-not-the-achievement-of-a-goal-35-26.html": 1791606673.3047144,
   "https://gorkhapatraonline.com/news/226132": 1791606673.3047144,
   "https://gorkhapatraonline.com/news/226131": 1791606673.3047144,
-  "https://gorkhapatraonline.com/news/226130": 1791606673.3047144
+  "https://gorkhapatraonline.com/news/226130": 1791606673.3047144,
+  "http://english.ratopati.com/story/83127/the-road-that-collapsed-in-the-galaudi-area-of-the-prithvi-highway-is-being-repaired-and-will-be-operational-within-8-hours": 1791607250.1929567
  },
  "queue": [
   {
@@ -8095,8 +8094,8 @@
    "cat": "society"
   }
  ],
- "updated": 1791606679,
- "pending_since": null,
+ "updated": 1791607255,
+ "pending_since": 1791607250.1929567,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
