@@ -2245,7 +2245,11 @@
   "https://nagariknews.nagariknetwork.com/politics/the-challenge-for-gagan-to-unite-the-congress-br-31-76.html": 1791613873.3641195,
   "https://gorkhapatraonline.com/news/226156": 1791613873.3641195,
   "https://gorkhapatraonline.com/news/226155": 1791613873.3641195,
-  "https://gorkhapatraonline.com/news/226154": 1791613873.3641195
+  "https://gorkhapatraonline.com/news/226154": 1791613873.3641195,
+  "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORkJFQWFubDFUc1V0WEc1c3VISlBOSW5XZlZvQU5TWHRma3ptYlVBUTVfOTJmdFkzWW1TM3BpWkdNTXRURHFqZWJwcTZMc3ZDNTViaU9NSVRmeEFKcWQ2STZCREx0WDJpVmFrLTNLMWw3VjJocGRHZHFXM3dNaWNfUWEzX2YzRkRNUVZuczhPS3lNWHhrUlZ3VUxzbGJwOGkwekdhQ3RjUXJXc2ZzMERsMUZ1d0xPM2Iyc2Fv?oc=5": 1791614449.4585006,
+  "https://news.google.com/rss/articles/CBMivwFBVV95cUxPa0RfeFNwSEI1NUk1aTExb3l2c05KOGt5VUhQR2dMNERWeGJMdGxoRWZGRGlrQjVPWEFPaXZOM1oxVlJ3LXQ4dGpndk1meldGMHpUQXNBYjNiLVZoaV9pUE0tbjltd3FycGtXWjJ5VzhiVUoweFdPVXc2ZzZhRkZHWEh2SENlZ25IQW13SG9ZTkwzU1A1aEFqX1FhUVFzLVJ2Unp5LVMyUU9oZVQ4Y081YnhramRSQk9MR1hyMGpWZw?oc=5": 1791614449.4585006,
+  "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMHVaNG1JbU1ILXdqU1Z6aEM2c3B0TU9BdjB6dTl3eTVMdElxRFVhS1ZycFdXV3U2MU5fZmFPSFNfOGdHeFZGV005Yi1jMjdIRjg0VXdPTmZPNnhUdmlxMklzbEZ0ZE9PeGg4U0diR1BtTWRvMFdTM1E5VUtmeEdpZDdxOEEwVmhWcmdaNWtodldfZEJJVWZYZlBKOA?oc=5": 1791614449.4585006,
+  "https://baahrakhari.com/detail/504486": 1791614449.4585006
  },
  "queue": [
   {
@@ -3863,29 +3867,6 @@
    "val": 3,
    "teaser": false,
    "hits": 3
-  },
-  {
-   "title": "Four in Ten Nepali Teens Show Problematic Internet Use, Study Finds",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQ0x5WVlnbzNTN0g1bEdnUkQ1bEIyaHRiV1N2cWZ1Mm40dFFzaExvRGNtZF9Od3Fta2dQY2J0Y2N4TS1FdGNXN0FoWVlpY3J6cEcyNmdxc1d4eC1jTWxGN2k5a1JvTk5mNjNDLWdPR1V5SEZPQVgzMFg3R2Jfc3N0NVVyeHFpdzZrRlBsR0JxZFo2YjNNcGc?oc=5",
-   "source": "Bioengineer.org",
-   "ts": 1791585520,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Four in Ten Nepali Teens Show Problematic Internet Use, Study Finds",
-   "en": "Four in Ten Nepali Teens Show Problematic Internet Use, Study Finds",
-   "ne": "Four in Ten Nepali Teens Show Problematic Internet Use, Study Finds",
-   "imp": 3,
-   "tags": [
-    "InternetAddiction",
-    "Teens",
-    "Study"
-   ],
-   "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
   },
   {
    "title": "Pokhara to host Butoh Festival",
@@ -5654,7 +5635,7 @@
    "cat": "world",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "झलारीमा प्रदेशस्तरीय ब्याडमिन्टन प्रतियोगिता",
@@ -6402,6 +6383,29 @@
     "Farmers"
    ],
    "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "मकवानपुरमा अरिंगाल पोल्ने क्रममा रुखबाट खसेका युवकको मृत्यु",
+   "summary": "",
+   "link": "https://baahrakhari.com/detail/504486",
+   "source": "Baahrakhari",
+   "ts": 1791614040,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "मकवानपुरमा अरिंगाल पोल्ने क्रममा रुखबाट खसेका युवकको मृत्यु",
+   "en": "मकवानपुरमा अरिंगाल पोल्ने क्रममा रुखबाट खसेका युवकको मृत्यु",
+   "ne": "मकवानपुरमा अरिंगाल पोल्ने क्रममा रुखबाट खसेका युवकको मृत्यु",
+   "imp": 2,
+   "tags": [
+    "Makwanpur",
+    "Accident",
+    "मृत्यु"
+   ],
+   "cat": "society",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -9599,8 +9603,8 @@
    "cat": "tech"
   }
  ],
- "updated": 1791613885,
- "pending_since": null,
+ "updated": 1791614453,
+ "pending_since": 1791614449.4585006,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
