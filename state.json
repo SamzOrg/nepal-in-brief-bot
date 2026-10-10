@@ -2240,7 +2240,9 @@
   "https://nagariknews.nagariknetwork.com/arts/unexpected-br-66-83.html": 1791608488.3941348,
   "https://baahrakhari.com/detail/504470": 1791608488.3941348,
   "https://nagariknews.nagariknetwork.com/social-affairs/incessant-rains-block-various-highways-17-95.html": 1791608488.3941348,
-  "http://english.ratopati.com/story/83134/farhan-and-sadaqats-excellent-batting-pakistan-defeats-sri-lanka-in-first-t20": 1791609053.9106252
+  "http://english.ratopati.com/story/83134/farhan-and-sadaqats-excellent-batting-pakistan-defeats-sri-lanka-in-first-t20": 1791609053.9106252,
+  "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUTV6TDgta3ZQS2FoaG5nQ1R2R3ZiWC0wQno2UjFKRE1NR01hU0tIYktJNkxtM1RpcmJHc1d2Y0dzRjlzRFpRT0VNSm42bmE3eXpkZWdZTl91U3ZlOEdFbnp3RjUxNXhndWZiaVY3UW1KWEFfa1NWY2NydjFGVzgwMXc1NkI1bWo2emRKUlk3WkZSSFgwYUdaa1Zn?oc=5": 1791609646.8652174,
+  "https://kathmandupost.com/national/2026/10/10/nabin-raj-basnet-arrested-in-13-year-old-sandalwood-smuggling-case": 1791609646.8652174
  },
  "queue": [
   {
@@ -3490,29 +3492,6 @@
    "val": 3,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "Businessman Nabin Basnet Arrested in Red Sandalwood Smuggling Case",
-   "summary": "Kathmandu. Police have arrested businessman Nabin Basnet. A CIB team arrested Basnet from his house in Pepsi Cola on Friday...",
-   "link": "http://english.ratopati.com/story/83110/businessman-navin-basnet-arrested-in-old-case-of-red-sandalwood-smuggling",
-   "source": "Ratopati EN",
-   "ts": 1791600515,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/nabin-basnet_4kTGwSzwen.webp",
-   "lang": "en",
-   "hl": "Businessman Nabin Basnet Arrested in Red Sandalwood Smuggling Case",
-   "en": "Businessman Nabin Basnet Arrested in Red Sandalwood Smuggling Case",
-   "ne": "Businessman Nabin Basnet Arrested in Red Sandalwood Smuggling Case",
-   "imp": 3,
-   "tags": [
-    "NabinBasnet",
-    "Smuggling",
-    "RedSandalwood"
-   ],
-   "cat": "crime",
-   "val": 3,
-   "teaser": false,
-   "hits": 4
   },
   {
    "title": "Nepal's gold-smuggling networks survive crackdown after crackdown",
@@ -5286,17 +5265,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1791004259.433414,
-   "en": "रास्वपाको केन्द्रीय समिति बैठक शनिबार अपराह्न ३ बजे बस्दै",
-   "ne": "रास्वपाको केन्द्रीय समिति बैठक शनिबार अपराह्न ३ बजे बस्दै",
-   "link": "https://www.setopati.com/politics/399836",
-   "source": "Setopati",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "politics"
-  },
   {
    "ts": 1791006051.7658515,
    "en": "Besishahar-Chame Road Reopens After Six Days Following Landslides",
@@ -8475,9 +8443,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "world"
+  },
+  {
+   "ts": 1791609652.4115667,
+   "en": "Businessman Nabin Basnet Arrested in Red Sandalwood Smuggling Case",
+   "ne": "Businessman Nabin Basnet Arrested in Red Sandalwood Smuggling Case",
+   "link": "http://english.ratopati.com/story/83110/businessman-navin-basnet-arrested-in-old-case-of-red-sandalwood-smuggling",
+   "source": "Ratopati EN",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "crime"
   }
  ],
- "updated": 1791609058,
+ "updated": 1791609668,
  "pending_since": 1791609053.9106252,
  "fb_blocks": [
   1790350880.4125228,
