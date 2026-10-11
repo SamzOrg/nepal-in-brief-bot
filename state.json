@@ -1,8 +1,5 @@
 {
  "seen": {
-  "https://www.setopati.com/social/400402": 1791516664.413321,
-  "https://baahrakhari.com/detail/504334": 1791516664.413321,
-  "https://news.google.com/rss/articles/CBMixwFBVV95cUxObmlPbEI4LUh1NzlRSVR5Y0s4di0wVzlfTEZpMHRrRjF5V25oNjU3NnFNMzV2VEltZHpuNVBQTXJEWVdubUpTU1QxOTNJZmg4X3ZCcHdlRFdtU0RnX1Z3d0ZBUU93QmVYNzY2LVpSNVdVWlJLcFprNzVuNTBETGlwNVVqanNzck50c21UMlVJRVFjMnhkRXBaeFpLeVlraVVlWnNSSmJZbE9uUmJLaXl6MmNFT1ZuVy0xLWtqMVI4ZXJ3RDBidUsw?oc=5": 1791516664.413321,
   "https://english.khabarhub.com/2026/09/571285/": 1791517247.291331,
   "http://english.ratopati.com/story/82972/death-toll-in-pokhara-school-bus-accident-reaches-5": 1791517247.291331,
   "https://news.google.com/rss/articles/CBMiUEFVX3lxTE95SDJLYV85ZVE2R1VrTTktZnBUMEdvN3RJWF93OHJCSGNvWm9CTmFzTnUxbXhuQUdKdWphbE5tazV4RGZ5eHM3dndEYUFoaE5C?oc=5": 1791517247.291331,
@@ -2066,7 +2063,14 @@
   "https://nagariknews.nagariknetwork.com/arts/normal-br-80-22.html": 1791688848.289263,
   "https://nagariknews.nagariknetwork.com/politics/binod-chaudhary-s-lead-in-inclusion-for-congress-deputy-president-80-44.html": 1791688848.289263,
   "https://nagariknews.nagariknetwork.com/arts/rhythmic-br-44-86.html": 1791688848.289263,
-  "https://nagariknews.nagariknetwork.com/social-affairs/dussehra-celebrations-increase-in-mithila-82-37.html": 1791688848.289263
+  "https://nagariknews.nagariknetwork.com/social-affairs/dussehra-celebrations-increase-in-mithila-82-37.html": 1791688848.289263,
+  "https://gorkhapatraonline.com/news/226252": 1791689467.2898812,
+  "https://kathmandupost.com/gandaki-province/2026/10/11/four-people-unaccounted-for-after-budhi-gandaki-floods": 1791689467.2898812,
+  "http://lokaantar.com/story/331017/2026/10/11/gorkha-flood-": 1791689467.2898812,
+  "https://www.setopati.com/social/400550": 1791689467.2898812,
+  "https://nagariknews.nagariknetwork.com/social-affairs/budhigandaki-flood-bridges-at-soti-and-machikhola-washed-away-condition-of-four-people-unknown-28-22.html": 1791689467.2898812,
+  "https://nagariknews.nagariknetwork.com/social-affairs/risk-persists-as-flood-flow-in-budhigandaki-continues-to-fluctuate-chief-parajuli-96-34.html": 1791689467.2898812,
+  "https://risingnepaldaily.com/news/87657": 1791689467.2898812
  },
  "queue": [
   {
@@ -3130,29 +3134,6 @@
     "EducationMinistry"
    ],
    "cat": "education",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "देशभर ३१ वटा विपद्का घटनामा एक जनाको मृत्यु, १६ घाइते",
-   "summary": "देशभर पछिल्लो २४ घण्टामा भएका विभिन्न प्रकृतिका ३१ वटा विपद्का घटनामा परी एक जनाको मृत्यु भएको छ भने १६ जना घाइते भएका छन् । ती घटनाबाट ११ वटा चौपायासमेत क्षति भएको छ भने करिब रु २३ लाख १८ हजार ४०० बराबरको आर्थिक क्षति...",
-   "link": "http://lokaantar.com/story/331009/2026/10/11/flood-",
-   "source": "Lokaantar",
-   "ts": 1791668448.741184,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "देशभर ३१ वटा विपद्का घटनामा एक जनाको मृत्यु, १६ घाइते",
-   "en": "देशभर ३१ वटा विपद्का घटनामा एक जनाको मृत्यु, १६ घाइते",
-   "ne": "देशभर ३१ वटा विपद्का घटनामा एक जनाको मृत्यु, १६ घाइते",
-   "imp": 4,
-   "tags": [
-    "NepalDisaster",
-    "Flood",
-    "विपद्"
-   ],
-   "cat": "disaster",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -7202,10 +7183,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "economy"
+  },
+  {
+   "ts": 1791689473.6917682,
+   "en": "देशभर पछिल्लो २४ घण्टामा ३१ विपद् घटना: १ को मृत्यु, १६ घाइते",
+   "ne": "देशभर पछिल्लो २४ घण्टामा ३१ विपद् घटना: १ को मृत्यु, १६ घाइते",
+   "link": "http://lokaantar.com/story/331009/2026/10/11/flood-",
+   "source": "Lokaantar",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "disaster"
   }
  ],
- "updated": 1791688854,
- "pending_since": null,
+ "updated": 1791689487,
+ "pending_since": 1791689467.2898812,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
