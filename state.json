@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1VQzBBWElLdWQ3M2pmbkhEcGhaVGR4aGtWUUZBdXF5VXlDZjFvUHFRbkRJY2NnUllKTUpNU055YzlQVEdXdlctNDFXaUlaOF9ycm52VXdwdzhDV2wtNmI1TEJTTkU?oc=5": 1791579688.4099975,
-  "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNV3k3SjNMTHdJcmM4MEVoeUdjaThJWTM2M0sxeTVhWkJhaGpCYlJ3cko2VDkwdlpxM2Q4OS1xWlJTaFhPR09CX3BPRkExV3BBektCTDZHT3RyeWRKa0lNXzgyVDItZzhrTUNIRWxEaW9NaUtTQTB6VHNGOGpZUUNvVER2VU53ZnBHb1lBNE1sUE94UGN4ODdVUkh3czY2QkhYUEJsaVRmcFV6QWk3NXd1OWd6am1BdFI4WDFKeFdBcTM?oc=5": 1791579688.4099975,
   "https://news.google.com/rss/articles/CBMid0FVX3lxTE9vaFp6dTlhLUtvQTVpLU1TMHJtS0NDSVVhWk5RbkgxcEZDNFY4dE1zWVY3Z09rNjNoZVFMOURDOW9ZMFExRDJNSVdQS3g1b1Rza2JhR2hUdmlVb3BMWVpWeXB6ZjRHYk9KaFFHMXo0ckpncm5RdEFv?oc=5": 1791582653.7072783,
   "http://english.ratopati.com/story/83095/counting-of-votes-for-the-post-of-congress-president-continues": 1791585073.1244426,
   "https://news.google.com/rss/articles/CBMisAFBVV95cUxNY1BiWXhkYmVMbThwM1pNWjVGanNySkUweklSOEJMVWp5TEYzMjhHZWJiN3NtYWtzQXpqVVpGZi1mYkFCTm1od3RvbmhLNVYyVEJFcEE3blUzdzU5VHNRbl9yM3o0bmU3Vkh4NDdpX1dDRTJrOTAyaUhUbUdNVUxUOVoxLUg4WC1pR0dPODNZNm9pdkJRdnl6UUZUck5jak1uT2JnekRkSnJVRF9fQWN6MQ?oc=5": 1791585073.1244426,
@@ -2261,29 +2259,6 @@
   "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRXk4U3F2YUg5OUU4dEVJaVdNb2J5UUFSQTJkLVlSb3NBRHo0UkxENHNlTzRDeWlZVkVkVHFtV3YzcHA0LXU1NnhBa1VkaTJnMEhjZklLV3praXNoR0EwYnA2LVFlNDIyWElTQ3k0cTZpdk1xMzUwX25OYURnNTZhYmhTOHUtTFlPRWdJd2tIOG5KME0?oc=5": 1791752488.3936925
  },
  "queue": [
-  {
-   "title": "बाढीपहिरोले कल्भर्ट बगाएपछि सडक अवरुद्ध",
-   "summary": "हुम्ला समाचारदाताहुम्ला असोज २५ गते । कर्णाली करिडोरको सिमकोट हिल्सा सडकको नाम्खा गाउँपालिका- २ को ढाँड केर्मीमा खहरे खोलाका लागि निर्माण गरिएको कल्भर्ट बाढीपहिरोले बगाएको छ । शनिब...",
-   "link": "https://gorkhapatraonline.com/news/226330",
-   "source": "Gorkhapatra",
-   "ts": 1791723898,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/387673/conversions/838910569_38927383523572369_4727866223755801390_n-original.jpg",
-   "lang": "ne",
-   "hl": "बाढीपहिरोले कल्भर्ट बगाएपछि सडक अवरुद्ध",
-   "en": "बाढीपहिरोले कल्भर्ट बगाएपछि सडक अवरुद्ध",
-   "ne": "बाढीपहिरोले कल्भर्ट बगाएपछि सडक अवरुद्ध",
-   "imp": 4,
-   "tags": [
-    "Flood",
-    "RoadBlocked",
-    "बाढीपहिरो"
-   ],
-   "cat": "disaster",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
   {
    "title": "उपसभापतिमा भण्डारीको दुई हजार ३४३ मत, अन्य कसकाे कति ?",
    "summary": "",
@@ -6836,7 +6811,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1791752493,
+ "updated": 1791753053,
  "pending_since": 1791752488.3936925,
  "fb_blocks": [
   1790350880.4125228,
