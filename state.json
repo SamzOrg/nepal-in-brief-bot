@@ -2282,29 +2282,6 @@
    "hits": 1
   },
   {
-   "title": "अल्ट्रा ट्रेल रेसको उपाधि मनकुमार रोका र कल्पना बुढालाई",
-   "summary": "पोखराका पाँच कोट कास्कीकोटसहित सराङकोट, झुप्राङकोट, अर्मलाकोट र काहुँकोटलाई साहसिक खेलकुदको गन्तव्य बनाउँदै पोखराको समग्र पर्यटन प्रवर्द्धन गर्ने उद्देश्यले प्रतियोगिता आयोजना गरिएको हो।...",
-   "link": "https://nagariknews.nagariknetwork.com/sports/mankumar-roka-and-kalpana-budha-win-the-ultra-trail-race-title-91-96.html",
-   "source": "Nagarik News",
-   "ts": 1791729687,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1791729661_Pokhara%20News%20(2).png",
-   "lang": "ne",
-   "hl": "अल्ट्रा ट्रेल रेसको उपाधि मनकुमार रोका र कल्पना बुढालाई",
-   "en": "अल्ट्रा ट्रेल रेसको उपाधि मनकुमार रोका र कल्पना बुढालाई",
-   "ne": "अल्ट्रा ट्रेल रेसको उपाधि मनकुमार रोका र कल्पना बुढालाई",
-   "imp": 3,
-   "tags": [
-    "UltraTrail",
-    "ManKumarRoka",
-    "KalpanaBudha"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Pakistan Imposes Emergency Law in Khyber Pakhtunkhwa Amid Protests",
    "summary": "Kathmandu. As per the statement from the President's office on Sunday, Pakistan has decided to place the northern province of...",
    "link": "http://english.ratopati.com/story/83352/state-of-emergency-declared-in-former-pm-khans-provincial-stronghold",
@@ -2602,28 +2579,6 @@
    "hits": 1
   },
   {
-   "title": "17 local govts take loans without federal approval or budget allocation",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeUR2U2JrOEc1MzIyWnQ0dUZyS1haNjdnRElhSWh3V014OFhlQWRSUTVYaUdqMTRPS3FMajRVY0RocS1oWWFCcWQzdFRjeGlzRXRNUFpVeXJKN0UwdU1qUmo2UU95a0tUelluNUdZTkpEVkZYYkh6YmZta01kYl80Zm1JY0NWM1ZqVjN5S2M5ZXZTNVNfd0NFTGY3MXVtdlcxWV80TmlybFhmNEVJNDJ4RmhhYWlidk1YRFdkZ0FRR09zeUY4?oc=5",
-   "source": "myRepublica",
-   "ts": 1791729900,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "17 local govts take loans without federal approval or budget allocation",
-   "en": "17 local govts take loans without federal approval or budget allocation",
-   "ne": "17 local govts take loans without federal approval or budget allocation",
-   "imp": 3,
-   "tags": [
-    "LocalGovernment",
-    "Loan"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "इलाममा भरूवा बन्दुकसहित एकजना पक्राउ",
    "summary": "",
    "link": "https://baahrakhari.com/detail/504643",
@@ -2826,29 +2781,6 @@
    ],
    "cat": "disaster",
    "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Nepal amplifies climate justice agenda in int'l platform",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBKZllaN2ZvVlNnS2JBSWtPbGhMckRDMlFCZG5EeWVKTzlqYWRnbmFKMHhJQnBDQzh4UWhONjhPMVEydS1UdXFvVjRodzJLVUo5QUlYTHZsUFUyQQ?oc=5",
-   "source": "Nepali Patro",
-   "ts": 1791746241,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Nepal amplifies climate justice agenda in int'l platform",
-   "en": "Nepal amplifies climate justice agenda in int'l platform",
-   "ne": "Nepal amplifies climate justice agenda in int'l platform",
-   "imp": 3,
-   "tags": [
-    "ClimateJustice",
-    "Nepal",
-    "COP"
-   ],
-   "cat": "world",
-   "val": 2,
    "teaser": false,
    "hits": 1
   }
@@ -6131,10 +6063,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "sports"
+  },
+  {
+   "ts": 1791759058.2166016,
+   "en": "Nepal amplifies climate justice agenda in int'l platform",
+   "ne": "Nepal amplifies climate justice agenda in int'l platform",
+   "link": "https://nepalipatro.com.np/share/news/c2fedda9",
+   "source": "Nepali Patro",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "world"
   }
  ],
- "updated": 1791758455,
- "pending_since": 1791758451.4010818,
+ "updated": 1791759069,
+ "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
