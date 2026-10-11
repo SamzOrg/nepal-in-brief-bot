@@ -2048,7 +2048,10 @@
   "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNUlBIQ2cxR2ZHdmhUaVZuQ1FBR09WaTdCRXFVUHktX0kyVUgydDZKUXFxN0g0VEdOMjZQWWVsOW50YWxNaFU3M2d4aUtCTW9fSWllSWdWVU9QY0RhV19Xd1ByNy1ncUM5TmlmSlVCb3Vid0hPdVJEeUg5OTlxTVFpZnkzWVBzR3M1Z1psWDRkSDBVYXltN2hOU0lsaFk2SjFqY2NESUNvZXNuUnEwZW1FamY4X3p5WXhMVHVEQU5HSzNFOExEQUh6NU1IcmRvN3dvSWRzNXRnbGcyemZGSWVhS190b3BmNkJjTE9tQTFseXRsVUU?oc=5": 1791677448.7079837,
   "https://baahrakhari.com/detail/504531": 1791677448.7079837,
   "https://baahrakhari.com/detail/504530": 1791677448.7079837,
-  "https://baahrakhari.com/detail/504529": 1791677448.7079837
+  "https://baahrakhari.com/detail/504529": 1791677448.7079837,
+  "http://lokaantar.com/story/330994/2026/10/11/forex-": 1791678582.759699,
+  "http://english.ratopati.com/story/83247/budhi-gandaki-flood-update-salleri-bazaar-washed-away-jagat-bazaar-also-suffered-major-damage": 1791678582.759699,
+  "http://lokaantar.com/story/330995/2026/10/11/flood-": 1791678582.759699
  },
  "queue": [
   {
@@ -2418,7 +2421,7 @@
    "cat": "economy",
    "val": 1,
    "teaser": true,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "अब स्वस्थ मासु मात्र भान्सामा",
@@ -2514,17 +2517,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1791073276.1000674,
-   "en": "Tibet-Nepal Border Floods Raise Questions Over Casualty Disparities",
-   "ne": "Tibet-Nepal Border Floods Raise Questions Over Casualty Disparities",
-   "link": "https://indianewengland.com/tibet-nepal-floods-put-chinas-death-toll-gap-and-rising-climate-risks-under-spotlight/",
-   "source": "INDIA New England News",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "disaster"
-  },
   {
    "ts": 1791075055.2933872,
    "en": "Bishal and Ayushma win titles at third Gaughat Green Run in Banke",
@@ -5714,9 +5706,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "culture"
+  },
+  {
+   "ts": 1791678587.720347,
+   "en": "Gorkha Flood Washes Away Sallery Market, Damages Jagat Market",
+   "ne": "Gorkha Flood Washes Away Sallery Market, Damages Jagat Market",
+   "link": "http://english.ratopati.com/story/83247/budhi-gandaki-flood-update-salleri-bazaar-washed-away-jagat-bazaar-also-suffered-major-damage",
+   "source": "Ratopati EN",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": true,
+   "cat": "disaster"
   }
  ],
- "updated": 1791678070,
+ "updated": 1791678603,
  "pending_since": 1791678049.0088937,
  "fb_blocks": [
   1790350880.4125228,
