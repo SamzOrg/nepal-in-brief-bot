@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://risingnepaldaily.com/news/87570": 1791504647.1212912,
   "http://lokaantar.com/story/330828/2026/10/8/forex-": 1791505248.8482568,
   "http://lokaantar.com/story/330830/2026/10/9/dollar-": 1791505864.5389605,
   "http://lokaantar.com/story/330831/2026/10/9/ticket-": 1791506453.2365298,
@@ -2043,54 +2042,16 @@
   "https://baahrakhari.com/detail/504528": 1791675067.8829474,
   "https://theannapurnaexpress.com/story/67814": 1791675067.8829474,
   "https://baahrakhari.com/detail/504527": 1791675067.8829474,
-  "https://theannapurnaexpress.com/story/67811": 1791675067.8829474
+  "https://theannapurnaexpress.com/story/67811": 1791675067.8829474,
+  "https://risingnepaldaily.com/news/87646": 1791677448.7079837,
+  "https://baahrakhari.com/detail/504532": 1791677448.7079837,
+  "https://gorkhapatraonline.com/news/226224": 1791677448.7079837,
+  "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNUlBIQ2cxR2ZHdmhUaVZuQ1FBR09WaTdCRXFVUHktX0kyVUgydDZKUXFxN0g0VEdOMjZQWWVsOW50YWxNaFU3M2d4aUtCTW9fSWllSWdWVU9QY0RhV19Xd1ByNy1ncUM5TmlmSlVCb3Vid0hPdVJEeUg5OTlxTVFpZnkzWVBzR3M1Z1psWDRkSDBVYXltN2hOU0lsaFk2SjFqY2NESUNvZXNuUnEwZW1FamY4X3p5WXhMVHVEQU5HSzNFOExEQUh6NU1IcmRvN3dvSWRzNXRnbGcyemZGSWVhS190b3BmNkJjTE9tQTFseXRsVUU?oc=5": 1791677448.7079837,
+  "https://baahrakhari.com/detail/504531": 1791677448.7079837,
+  "https://baahrakhari.com/detail/504530": 1791677448.7079837,
+  "https://baahrakhari.com/detail/504529": 1791677448.7079837
  },
  "queue": [
-  {
-   "title": "कागजका जहाज र रबरका बल मैदानमा फ्याँकेपछि ला लिगाको खेल रद्द!",
-   "summary": "स्पेनिस ला लिगा क्लब रायो भालेकानोका समर्थकले क्लबका मालिकविरुद्ध अनौठो शैलीमा विरोध प्रदर्शन गरेपछि एथलेटिक क्लबविरुद्धको खेल नै रद्द भएको छ।",
-   "link": "https://www.setopati.com/sports/football/400536",
-   "source": "Setopati",
-   "ts": 1791648425,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "कागजका जहाज र रबरका बल मैदानमा फ्याँकेपछि ला लिगाको खेल रद्द!",
-   "en": "कागजका जहाज र रबरका बल मैदानमा फ्याँकेपछि ला लिगाको खेल रद्द!",
-   "ne": "कागजका जहाज र रबरका बल मैदानमा फ्याँकेपछि ला लिगाको खेल रद्द!",
-   "imp": 1,
-   "tags": [
-    "LaLiga",
-    "Football"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "गौरीशंकर महिला क्रिकेटको उपाधि काठमाडौं जिल्लालाई",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/504521",
-   "source": "Baahrakhari",
-   "ts": 1791648189,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "गौरीशंकर महिला क्रिकेटको उपाधि काठमाडौं जिल्लालाई",
-   "en": "गौरीशंकर महिला क्रिकेटको उपाधि काठमाडौं जिल्लालाई",
-   "ne": "गौरीशंकर महिला क्रिकेटको उपाधि काठमाडौं जिल्लालाई",
-   "imp": 2,
-   "tags": [
-    "Cricket",
-    "Kathmandu",
-    "महिलाक्रिकेट"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
   {
    "title": "होप्स टेबलटेनिस प्रतियोगितामा गनन्जय र शेखरको जोडी च्याम्पियन",
    "summary": "",
@@ -2479,6 +2440,166 @@
     "Russia"
    ],
    "cat": "world",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Violation of victims' rights: When trauma becomes media content",
+   "summary": "BY BIBEK SHRESTHA, Kathmandu, Oct. 11: \"How are you feeling after the disaster?\" \"What did you lose?\" \"What went through...",
+   "link": "https://risingnepaldaily.com/news/87646",
+   "source": "Rising Nepal",
+   "ts": 1791677174,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "Violation of victims' rights: When trauma becomes media content",
+   "en": "Violation of victims' rights: When trauma becomes media content",
+   "ne": "Violation of victims' rights: When trauma becomes media content",
+   "imp": 2,
+   "tags": [
+    "VictimsRights",
+    "MediaEthics"
+   ],
+   "cat": "society",
+   "val": 1,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "कति पुग्यो युरोको मूल्य ? यस्तो छ विदेशी मुद्राको विनिमयदर",
+   "summary": "नेपाल राष्ट्र बैंकले आइतबारका लागि विदेशी मुद्राको विनिमयदर निर्धारण गरेको छ । राष्ट्र बैंकका अनुसार अमेरिकी डलर एकको खरिददर १५४ रुपैयाँ ४८ पैसा र बिक्रीदर १५५ रुपैयाँ ०८ पैसा निर्धारण गरिएको छ ।",
+   "link": "https://baahrakhari.com/detail/504532",
+   "source": "Baahrakhari",
+   "ts": 1791676809,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "कति पुग्यो युरोको मूल्य ? यस्तो छ विदेशी मुद्राको विनिमयदर",
+   "en": "कति पुग्यो युरोको मूल्य ? यस्तो छ विदेशी मुद्राको विनिमयदर",
+   "ne": "कति पुग्यो युरोको मूल्य ? यस्तो छ विदेशी मुद्राको विनिमयदर",
+   "imp": 2,
+   "tags": [
+    "ExchangeRate",
+    "Euro",
+    "विदेशीमुद्रा"
+   ],
+   "cat": "economy",
+   "val": 1,
+   "teaser": true,
+   "hits": 1
+  },
+  {
+   "title": "अब स्वस्थ मासु मात्र भान्सामा",
+   "summary": "काठमाडौँ, असोज २५ गते । चाडपर्व होस् वा सामान्य दिन, नेपाली भान्सामा मासु पुग्ने तरिका प्रायः उस्तै हुन्छ । पसल पुग्ने, रोज्ने र बिक्रेताले भनेकै भरमा किन्ने तर एक किलोको १६ सय रुप...",
+   "link": "https://gorkhapatraonline.com/news/226224",
+   "source": "Gorkhapatra",
+   "ts": 1791676766,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/387516/conversions/meat-story-anchor-sketch-98735-original.jpg",
+   "lang": "ne",
+   "hl": "अब स्वस्थ मासु मात्र भान्सामा",
+   "en": "अब स्वस्थ मासु मात्र भान्सामा",
+   "ne": "अब स्वस्थ मासु मात्र भान्सामा",
+   "imp": 2,
+   "tags": [
+    "MeatSafety",
+    "Health",
+    "मासु"
+   ],
+   "cat": "health",
+   "val": 1,
+   "teaser": true,
+   "hits": 1
+  },
+  {
+   "title": "Climate Solutions Company Treasure Carbon Brings Climate Finance to Nepal for Long-Term Climate Action",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNUlBIQ2cxR2ZHdmhUaVZuQ1FBR09WaTdCRXFVUHktX0kyVUgydDZKUXFxN0g0VEdOMjZQWWVsOW50YWxNaFU3M2d4aUtCTW9fSWllSWdWVU9QY0RhV19Xd1ByNy1ncUM5TmlmSlVCb3Vid0hPdVJEeUg5OTlxTVFpZnkzWVBzR3M1Z1psWDRkSDBVYXltN2hOU0lsaFk2SjFqY2NESUNvZXNuUnEwZW1FamY4X3p5WXhMVHVEQU5HSzNFOExEQUh6NU1IcmRvN3dvSWRzNXRnbGcyemZGSWVhS190b3BmNkJjTE9tQTFseXRsVUU?oc=5",
+   "source": "markets.businessinsider.com",
+   "ts": 1791675367,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "Climate Solutions Company Treasure Carbon Brings Climate Finance to Nepal for Long-Term Climate Action",
+   "en": "Climate Solutions Company Treasure Carbon Brings Climate Finance to Nepal for Long-Term Climate Action",
+   "ne": "Climate Solutions Company Treasure Carbon Brings Climate Finance to Nepal for Long-Term Climate Action",
+   "imp": 3,
+   "tags": [
+    "ClimateFinance",
+    "TreasureCarbon",
+    "Nepal"
+   ],
+   "cat": "economy",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "ऊर्जा बचत नगर्ने उद्योगलाई जरिबाना, बचत प्रमाणपत्र किनबेच गर्न पाइने",
+   "summary": "",
+   "link": "https://baahrakhari.com/detail/504531",
+   "source": "Baahrakhari",
+   "ts": 1791676620,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "ऊर्जा बचत नगर्ने उद्योगलाई जरिबाना, बचत प्रमाणपत्र किनबेच गर्न पाइने",
+   "en": "ऊर्जा बचत नगर्ने उद्योगलाई जरिबाना, बचत प्रमाणपत्र किनबेच गर्न पाइने",
+   "ne": "ऊर्जा बचत नगर्ने उद्योगलाई जरिबाना, बचत प्रमाणपत्र किनबेच गर्न पाइने",
+   "imp": 3,
+   "tags": [
+    "EnergyConservation",
+    "Industry",
+    "ऊर्जा"
+   ],
+   "cat": "economy",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "कस्तो रहनेछ आज दिनभरको मौसम ?",
+   "summary": "",
+   "link": "https://baahrakhari.com/detail/504530",
+   "source": "Baahrakhari",
+   "ts": 1791676533,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "कस्तो रहनेछ आज दिनभरको मौसम ?",
+   "en": "कस्तो रहनेछ आज दिनभरको मौसम ?",
+   "ne": "कस्तो रहनेछ आज दिनभरको मौसम ?",
+   "imp": 2,
+   "tags": [
+    "Weather",
+    "Forecast",
+    "मौसम"
+   ],
+   "cat": "disaster",
+   "val": 1,
+   "teaser": true,
+   "hits": 1
+  },
+  {
+   "title": "बडादसैँ सुरु, आज घटस्थापना गरिँदै",
+   "summary": "",
+   "link": "https://baahrakhari.com/detail/504529",
+   "source": "Baahrakhari",
+   "ts": 1791676195,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "बडादसैँ सुरु, आज घटस्थापना गरिँदै",
+   "en": "बडादसैँ सुरु, आज घटस्थापना गरिँदै",
+   "ne": "बडादसैँ सुरु, आज घटस्थापना गरिँदै",
+   "imp": 4,
+   "tags": [
+    "Dashain",
+    "Ghatasthapana",
+    "बडादसैँ"
+   ],
+   "cat": "culture",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -5676,8 +5797,8 @@
    "cat": "crime"
   }
  ],
- "updated": 1791676893,
- "pending_since": 1791675647.6742551,
+ "updated": 1791677453,
+ "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
