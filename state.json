@@ -1,10 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMinwFBVV95cUxNc25JQkJ2eHZfeWRqWDRkdEpkQTFJa0JQeVh2V3h3SDRVaGRXekVTOVY3c3NGcU9FbnFMYTM0RW1hOVQyM2pObmI2YlZwcHJjcUs3YURLeFJCcUdfbnFCRHBGaFBudHZDcWFjNlpVVXBiRUF5S2pkY1NkUENqdU5Wei1FX1E4RWl2SzFHbTVmZm90RjBWRWFwdU1IMGIzS0E?oc=5": 1791504088.0651822,
-  "https://baahrakhari.com/detail/504320": 1791504088.0651822,
-  "https://gorkhapatraonline.com/news/225971": 1791504088.0651822,
-  "https://english.khabarhub.com/2026/09/571255/": 1791504088.0651822,
-  "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdjA3eEZiLVBJeUJISUFLXzJ1cm5oSUJlaW1XbUgxNXgxTUw5S0VnYnNmMmFNaml4WjlRWnA4SnhhNkgwNU5MR1EwdElMczdUMXYwdFJwcGExWlZ5VU4yVXlwSDFXVFAwanJGeXBjaDhLZWJkVENRRDNhTG1kaHdOTE9WN24xY202Njh0MVlfMTRRNExKOTZyU2dGdWpsTUQ4X0dGQ0dIMTBHU0o0N0ZHRzJXb0RMOE5DUDc4U01IdFJ2aUlBdkE?oc=5": 1791504088.0651822,
   "https://risingnepaldaily.com/news/87570": 1791504647.1212912,
   "http://lokaantar.com/story/330828/2026/10/8/forex-": 1791505248.8482568,
   "http://lokaantar.com/story/330830/2026/10/9/dollar-": 1791505864.5389605,
@@ -2097,29 +2092,6 @@
    "hits": 2
   },
   {
-   "title": "बेनी-जोमसोम सडकमा जोखिम, यात्रा चुनौतीपूर्ण",
-   "summary": "ठाकुरप्रसाद आचार्यम्याग्दी (बेनी), असोज २४ गते । बाढीपहिरो र कालीगण्डकी नदीको कटानले क्षतविक्षत बनेको कालीगण्डकी करिडोर अन्तर्गतको बेनी-जोमसोम-कोरला सडक मर्मत सम्भारपछि एकतर्फी रुप...",
-   "link": "https://gorkhapatraonline.com/news/226216",
-   "source": "Gorkhapatra",
-   "ts": 1791647782,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/387507/conversions/beni-jomsom-sadak--(3)-original.jpg",
-   "lang": "ne",
-   "hl": "बेनी-जोमसोम सडकमा जोखिम, यात्रा चुनौतीपूर्ण",
-   "en": "बेनी-जोमसोम सडकमा जोखिम, यात्रा चुनौतीपूर्ण",
-   "ne": "बेनी-जोमसोम सडकमा जोखिम, यात्रा चुनौतीपूर्ण",
-   "imp": 3,
-   "tags": [
-    "BeniJomsomRoad",
-    "Travel",
-    "पहिरो"
-   ],
-   "cat": "disaster",
-   "val": 2,
-   "teaser": true,
-   "hits": 1
-  },
-  {
    "title": "होप्स टेबलटेनिस प्रतियोगितामा गनन्जय र शेखरको जोडी च्याम्पियन",
    "summary": "",
    "link": "https://baahrakhari.com/detail/504523",
@@ -2513,17 +2485,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1791071453.174821,
-   "en": "HC questions legality of stopping 3 women from flying to Nepal",
-   "ne": "HC questions legality of stopping 3 women from flying to Nepal",
-   "link": "https://www.tbsnews.net/bangladesh/court/hc-asks-why-3-women-were-stopped-flying-nepal-despite-valid-documents-1557761",
-   "source": "The Business Standard",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "world"
-  },
   {
    "ts": 1791073276.1000674,
    "en": "Tibet-Nepal Border Floods Raise Questions Over Casualty Disparities",
@@ -5715,7 +5676,7 @@
    "cat": "crime"
   }
  ],
- "updated": 1791676274,
+ "updated": 1791676893,
  "pending_since": 1791675647.6742551,
  "fb_blocks": [
   1790350880.4125228,
