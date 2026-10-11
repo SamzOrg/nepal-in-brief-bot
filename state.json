@@ -1,9 +1,5 @@
 {
  "seen": {
-  "https://www.setopati.com/social/400395": 1791510645.686562,
-  "https://nagariknews.nagariknetwork.com/social-affairs/advance-ticket-booking-for-dashain-opens-today-passenger-queues-at-the-new-bus-park-since-night-59-39.html": 1791510645.686562,
-  "https://kathmandupost.com/national/2026/10/09/tribhuvan-university-to-distribute-question-papers-online-publish-results-within-60-days": 1791510645.686562,
-  "http://lokaantar.com/story/330838/2026/10/9/gagan-thapa-": 1791510645.686562,
   "https://gorkhapatraonline.com/news/225989": 1791511281.286392,
   "https://www.setopati.com/social/400397": 1791511855.2318456,
   "https://baahrakhari.com/detail/504326": 1791511855.2318456,
@@ -2057,7 +2053,10 @@
   "https://gorkhapatraonline.com/news/226237": 1791682847.9011304,
   "http://english.ratopati.com/story/83256/budhi-gandaki-flood-police-urge-people-to-exercise-caution-up-to-trishuli-estuary": 1791682847.9011304,
   "http://lokaantar.com/story/331011/2026/10/11/badhi-": 1791682847.9011304,
-  "http://lokaantar.com/story/331009/2026/10/11/flood-": 1791682847.9011304
+  "http://lokaantar.com/story/331009/2026/10/11/flood-": 1791682847.9011304,
+  "https://nagariknews.nagariknetwork.com/social-affairs/floods-in-budhi-gandaki-salleri-bazaar-washed-away-huge-damage-to-the-area-situation-critical-36-34.html": 1791683450.25479,
+  "https://theannapurnaexpress.com/story/67815": 1791683450.25479,
+  "http://lokaantar.com/story/331012/2026/10/11/flood-": 1791683450.25479
  },
  "queue": [
   {
@@ -2084,29 +2083,6 @@
    "hits": 1
   },
   {
-   "title": "धिमेबाजा प्रतियोगिताको सिरुटारका दुई खल बने विजेता र उपविजेता",
-   "summary": "भक्तपुर, असोज २४ गते । नगद रु ७५ हजार पुरस्कारसहित सूर्यविनायक नगरपालिका-१ सिरुटारको नासः धिमे खलःले सूर्यविनायक नगरस्तरीय धिमेबाजा प्रतियोगिता-२०८३ को विजेता बन्न सफल भएको छ । आज...",
-   "link": "https://gorkhapatraonline.com/news/226221",
-   "source": "Gorkhapatra",
-   "ts": 1791654063,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/387513/conversions/IMG_2471-original.jpg",
-   "lang": "ne",
-   "hl": "धिमेबाजा प्रतियोगिताको सिरुटारका दुई खल बने विजेता र उपविजेता",
-   "en": "धिमेबाजा प्रतियोगिताको सिरुटारका दुई खल बने विजेता र उपविजेता",
-   "ne": "धिमेबाजा प्रतियोगिताको सिरुटारका दुई खल बने विजेता र उपविजेता",
-   "imp": 2,
-   "tags": [
-    "DhimeBaja",
-    "Sirutar",
-    "धिमेबाजा"
-   ],
-   "cat": "culture",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Ritam's heartbreaking tribute to her friend Dejan after Nepal floods",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVE1CVzFNMGc2SmdYQmtfXzZOUmJmU3ljODZLOWNRLW4zd2tPd3N6VU1vLVV2TXhmWkxzR1g0UkljQ3V0eTB2SE16dTdaTzd1Ym0zU2E4MFIxb1NKZzhZa3V5Y29iOEtxUDBvSTlzeXBqZGxlRlR6Ri0zR0QzYVJfZQ?oc=5",
@@ -2128,30 +2104,6 @@
    "val": 1,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "Oman and Nepal discuss enhancing bilateral ties",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE54RlFGOTFwaExfVDc4bEtwcGkwRWk4UG95X3FST3B2VUs2NGNRZnA1YVZXX3pmaWx1NnFDS2tRaGZqSlhjRDhoYTJtSml5OEZxc19idllrTzM4d9IBWkFVX3lxTE54RlFGOTFwaExfVDc4bEtwcGkwRWk4UG95X3FST3B2VUs2NGNRZnA1YVZXX3pmaWx1NnFDS2tRaGZqSlhjRDhoYTJtSml5OEZxc19idllrTzM4dw?oc=5",
-   "source": "Oman Observer",
-   "ts": 1791654421,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Oman and Nepal discuss enhancing bilateral ties",
-   "en": "Oman and Nepal discuss enhancing bilateral ties",
-   "ne": "Oman and Nepal discuss enhancing bilateral ties",
-   "imp": 2,
-   "tags": [
-    "Oman",
-    "Nepal",
-    "BilateralTies",
-    "कूटनीति"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "The Fourth World March for Peace and Nonviolence in Nepal: My Experience",
@@ -2513,28 +2465,6 @@
    "val": 1,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "Smuggling networks exploit Nepal's open border to flood markets with untaxed goods",
-   "summary": "From sugar and fertiliser to clothes, mobile phones and medicines, illicit consignments continue to enter Nepal through southern border crossings, depriving the state of revenue and undercutting legitimate traders.",
-   "link": "https://kathmandupost.com/national/2026/10/11/smuggling-networks-exploit-nepal-s-open-border-to-flood-markets-with-untaxed-goods",
-   "source": "Kathmandu Post",
-   "ts": 1791666086.5255394,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Smuggling networks exploit Nepal's open border to flood markets with untaxed goods",
-   "en": "Smuggling networks exploit Nepal's open border to flood markets with untaxed goods",
-   "ne": "Smuggling networks exploit Nepal's open border to flood markets with untaxed goods",
-   "imp": 4,
-   "tags": [
-    "Smuggling",
-    "OpenBorder"
-   ],
-   "cat": "crime",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "Former King Gyanendra Shah to Forego Tika and Jamara for Public This Vijaya Dashami",
@@ -3308,17 +3238,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1791078649.8979678,
-   "en": "Baglung Municipality Reports 63 Houses Damaged by Flood, Landslide, and Storm",
-   "ne": "Baglung Municipality Reports 63 Houses Damaged by Flood, Landslide, and Storm",
-   "link": "http://english.ratopati.com/story/82174/natural-disaster-in-galkot-63-houses-damaged",
-   "source": "Ratopati EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": true,
-   "cat": "disaster"
-  },
   {
    "ts": 1791079288.1597247,
    "en": "कर्णाली राजमार्गमा काम नगर्ने ६ निर्माण कम्पनी कालोसूचीमा",
@@ -6519,9 +6438,20 @@
    "n_ig": 1,
    "brk": true,
    "cat": "disaster"
+  },
+  {
+   "ts": 1791683458.0322862,
+   "en": "Smuggling networks exploit Nepal-India border to flood markets with untaxed goods",
+   "ne": "Smuggling networks exploit Nepal-India border to flood markets with untaxed goods",
+   "link": "https://kathmandupost.com/national/2026/10/11/smuggling-networks-exploit-nepal-s-open-border-to-flood-markets-with-untaxed-goods",
+   "source": "Kathmandu Post",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "crime"
   }
  ],
- "updated": 1791682851,
+ "updated": 1791683475,
  "pending_since": 1791682847.9011304,
  "fb_blocks": [
   1790350880.4125228,
