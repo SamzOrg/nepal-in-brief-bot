@@ -1,9 +1,5 @@
 {
  "seen": {
-  "http://english.ratopati.com/story/83080/two-day-tiktok-masterclass-for-journalism-students": 1791562255.6589503,
-  "http://english.ratopati.com/story/83079/senior-accounting-officer-dies-after-being-hit-by-passenger-bus": 1791562255.6589503,
-  "http://english.ratopati.com/story/83082/power-outages-in-some-areas-of-kathmandu-valley-on-saturday-and-sunday": 1791562851.030577,
-  "http://lokaantar.com/story/330917/2026/10/9/dead-": 1791562851.030577,
   "http://english.ratopati.com/story/83084/congress-general-convention-770-votes-lost-from-gandaki-province": 1791563472.685179,
   "https://theannapurnaexpress.com/story/67801": 1791563472.685179,
   "http://lokaantar.com/story/330919/2026/10/9/gas-": 1791563472.685179,
@@ -2245,7 +2241,12 @@
   "http://lokaantar.com/story/331079/2026/10/11/budhigandaki-": 1791734488.6074479,
   "http://lokaantar.com/story/331078/2026/10/11/nic-": 1791734488.6074479,
   "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeDdZLVNRWTRvWTRtZEp6VVNweGxVODdGZXYzVU5heUFLRjRhVXhZRENCZzNCTDltR2E2ampHQnZFUWN0NHRyVWZ0SGJKZXFxaFcxUWRqcTFtTTd2RlY3TW1VenRtaHhZYzJHa1RMaHIzWWVTdHk4aE96aW1GZVl0TUlFME9qc1FFT1ZBTHVXUENKQQ?oc=5": 1791735052.3139544,
-  "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQQS1FbEVZQTIwRllaZ0F5c0plUVZaVDNQbTI4SG5jejQyVmlyX3d3Q0tiU1lzR0RqTjdESG45Xy1EX3cwazh4UTdEWWE1Nk9ERTNGaTFwbGdNTjdWdG1oNVNvXzlZekdtSXYxbFdMak9YaHJwMlZxT1hRZDZJNzF3SlFRTWpkVnZYREp2QUhuNDdLTmx1NmJEWVlZOHp1ZUZIX09rVXBkYkRiS29Hb2ktX0ttNV9YY0x0MzVmb1ZCWWQwN2pfX0JIRU9EUF9CZnIwMDFia19mZjd6cFF6LVFITU1GUVQ1c29IYjVUZUJoSQ?oc=5": 1791735052.3139544
+  "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQQS1FbEVZQTIwRllaZ0F5c0plUVZaVDNQbTI4SG5jejQyVmlyX3d3Q0tiU1lzR0RqTjdESG45Xy1EX3cwazh4UTdEWWE1Nk9ERTNGaTFwbGdNTjdWdG1oNVNvXzlZekdtSXYxbFdMak9YaHJwMlZxT1hRZDZJNzF3SlFRTWpkVnZYREp2QUhuNDdLTmx1NmJEWVlZOHp1ZUZIX09rVXBkYkRiS29Hb2ktX0ttNV9YY0x0MzVmb1ZCWWQwN2pfX0JIRU9EUF9CZnIwMDFia19mZjd6cFF6LVFITU1GUVQ1c29IYjVUZUJoSQ?oc=5": 1791735052.3139544,
+  "https://baahrakhari.com/detail/504640": 1791735652.8688664,
+  "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUGJYOVRWZkcxTFlMN1lFSTFrZ0xlNWx1MzZoYXJUVUhtazJCTHpnbklMbU94SUFYZGJzdmlES00ybElzd2dCUjNKYTA2cGtTdkF6TGR4QjlBQS1RQWVBbkRVTlQzblBrSjdwcTlnSU92aWpDRFZ0QV9xcVVUZEI2NnlFSlBybnpqbWFwaEh1ZDNOTGsweTlDVTE5dG1JMDkzZ0dHZ0ZxX0FVMUFYUTdqTjRrQdIBuAFBVV95cUxNM1JpMUdBRVF3Qk9kYkp0OG9jNkJTbUhIUjB3dmpNM0twamc1cDdzMVF5Qlh6eXNOSl9WeTFxQnIxSDFnWG9oQUZlM2hlRzNJUXRUMkFJTGdyRGdibmdJSzhaUEdOZllQczhGWnpqTWNMZFNxQmJfZXVGNk5MU2lNbWRLbHFzNkRGTlA3V1hLNVU3NUdZb0c5N08zT2VEOWlhdXowZUhUSVE3TndNU1pDcHJfZ1ptaFd2?oc=5": 1791735652.8688664,
+  "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcW1ndkRGa3hXS2xRSVFva3lWTzd5dEhvVXlNcUl2LU1aT2o1S1dfeGlWM2x5bFJEdGdkRjUwWUE3YkVXeTluamVoMDBmZHFGc1JRd1BUQnVzaWx3MThvdTJWbFFkYmF6bmNUbndUbXlCVXNGM0ZoWkJFcHNkYjNoLW1qMllQaEVFYnh0UjBWUUpZbFVneFNCeG1pYWpYZUZzakF4Y25aVWFKVkZha1lEeUMtbFNtaC1WZGhCbHE4dUEzRk1H?oc=5": 1791735652.8688664,
+  "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZm1SNTFFNXI4NldwbklCT0dHVG5KOElxSmFYMFdkeHpnbVp4S3ZLNHg1dG5hNlo1VHoteGdjV2cxS0VmcVFoZVNrMEdKbHBzcnIyQzBEbmtfQnFPTkNuYW1oNkRiRzVGUjFDbTVLV1hYUU1fbUp0UmdMdzItT25pd1lSc1lCbzMwVzZYa0daaWd4V2ZhZ1NlbGExUDZpYkpGRHlORFZPY3ZRR2JYdVVrZ0hCb01WMG5kbEtQSFIzTF9NaTY2R3hrejhZRGlDazN1?oc=5": 1791735652.8688664,
+  "https://nagariknews.nagariknetwork.com/social-affairs/nepal-police-wins-the-kpl-title-held-in-jumla-by-stopping-devi-dutt-12-44.html": 1791735652.8688664
  },
  "queue": [
   {
@@ -2388,53 +2389,6 @@
    "val": 2,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "Pathibhara Temple Sees Increased Devotees During Navaratri",
-   "summary": "Taplejung. With the start of Navaratri, the arrival of devotees at Pathibhara has increased. From the morning of the first...",
-   "link": "http://english.ratopati.com/story/83311/crowd-of-devotees-at-pathibhara",
-   "source": "Ratopati EN",
-   "ts": 1791706350,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/pathibhara_DT4YFvgVWs.jpg",
-   "lang": "en",
-   "hl": "Pathibhara Temple Sees Increased Devotees During Navaratri",
-   "en": "Pathibhara Temple Sees Increased Devotees During Navaratri",
-   "ne": "Pathibhara Temple Sees Increased Devotees During Navaratri",
-   "imp": 2,
-   "tags": [
-    "PathibharaTemple",
-    "Navaratri",
-    "Devotees"
-   ],
-   "cat": "culture",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "भक्तपुरको ब्रह्मायणीमा जमरा राख्ने माटो संकलन गर्नेको भीड",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/504589",
-   "source": "Baahrakhari",
-   "ts": 1791706319,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "भक्तपुरको ब्रह्मायणीमा जमरा राख्ने माटो संकलन गर्नेको भीड",
-   "en": "भक्तपुरको ब्रह्मायणीमा जमरा राख्ने माटो संकलन गर्नेको भीड",
-   "ne": "भक्तपुरको ब्रह्मायणीमा जमरा राख्ने माटो संकलन गर्नेको भीड",
-   "imp": 2,
-   "tags": [
-    "Bhaktapur",
-    "Dashain",
-    "Brahmayani",
-    "जमरा"
-   ],
-   "cat": "culture",
-   "val": 2,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "पासपोर्ट देखाउँदै ध्रुव राठीले भने : मलाई बेडरुमबाटै अपहरण गरियो",
@@ -3931,7 +3885,7 @@
    "cat": "disaster",
    "val": 3,
    "teaser": false,
-   "hits": 10
+   "hits": 11
   },
   {
    "title": "Flash flood sweeps away houses, bridges in Nepal months after deadly disaster",
@@ -6150,7 +6104,7 @@
    "cat": "sports",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "सुनका गरगहना चोरीमा संलग्न पाँच जना पक्राउ",
@@ -6171,6 +6125,28 @@
     "चोरी"
    ],
    "cat": "crime",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "देवीदत्तलाई रोक्दै नेपाल पुलिसले जित्यो कर्णाली प्रिमियर लिगको उपाधि",
+   "summary": "कर्णाली प्रिमियर लिग (केपीएल) टी-२० क्रिकेट प्रतियोगिताको उपाधि नेपाल पुलिस क्लबले हात पारेको छ।...",
+   "link": "https://nagariknews.nagariknetwork.com/social-affairs/nepal-police-wins-the-kpl-title-held-in-jumla-by-stopping-devi-dutt-12-44.html",
+   "source": "Nagarik News",
+   "ts": 1791735300,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2025/third-party/1791735468_o.png",
+   "lang": "ne",
+   "hl": "देवीदत्तलाई रोक्दै नेपाल पुलिसले जित्यो कर्णाली प्रिमियर लिगको उपाधि",
+   "en": "देवीदत्तलाई रोक्दै नेपाल पुलिसले जित्यो कर्णाली प्रिमियर लिगको उपाधि",
+   "ne": "देवीदत्तलाई रोक्दै नेपाल पुलिसले जित्यो कर्णाली प्रिमियर लिगको उपाधि",
+   "imp": 2,
+   "tags": [
+    "KarnaliPremierLeague",
+    "Devitt"
+   ],
+   "cat": "sports",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -9445,7 +9421,7 @@
    "cat": "economy"
   }
  ],
- "updated": 1791735074,
+ "updated": 1791735657,
  "pending_since": 1791735052.3139544,
  "fb_blocks": [
   1790350880.4125228,
