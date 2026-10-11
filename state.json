@@ -2062,7 +2062,16 @@
   "https://english.khabarhub.com/2026/11/571501/": 1791680485.4395647,
   "https://kathmandupost.com/columns/2026/10/10/ideology-generational-change-and-the-quest-for-unity-at-khula-manch": 1791680485.4395647,
   "https://risingnepaldaily.com/news/87647": 1791680485.4395647,
-  "https://gorkhapatraonline.com/news/226226": 1791680485.4395647
+  "https://gorkhapatraonline.com/news/226226": 1791680485.4395647,
+  "http://english.ratopati.com/story/83253/congress-counted-a-total-of-1229-votes-overnight-vote-counting-was-slow": 1791681056.8040588,
+  "https://www.setopati.com/social/400542": 1791681056.8040588,
+  "https://news.google.com/rss/articles/CBMingFBVV95cUxOc3lsRmNPVnF4UWtxTWl2ZENYMXh3Rk81NndvRjVnVkZ2SEtXTThKNEdHYlpxZnR3OE9FZG9aZGNwVC14Wm5IZFA5N2RoeTFBZktKTWxTU1FhOTdWSF9EcWE1MXlYZ0JEaktkTUI2aG1SUmM3ZFdhNGhNcS1HWU1vcUd0VlYwdWt5SkJROXB5enRWMDFIZkdQZ1ZHdWFydw?oc=5": 1791681056.8040588,
+  "https://nagariknews.nagariknetwork.com/social-affairs/chance-of-rain-and-snow-in-these-areas-today-33-98.html": 1791681056.8040588,
+  "https://kathmandupost.com/columns/2026/10/10/is-the-new-nepali-congress-leadership-a-viable-alternative-force-to-rsp": 1791681056.8040588,
+  "http://lokaantar.com/story/331003/2026/10/11/news-": 1791681056.8040588,
+  "http://lokaantar.com/story/331002/2026/10/11/weather-": 1791681056.8040588,
+  "http://lokaantar.com/story/331001/2026/10/11/weather-": 1791681056.8040588,
+  "https://baahrakhari.com/detail/504540": 1791681056.8040588
  },
  "queue": [
   {
@@ -2409,7 +2418,7 @@
    "cat": "disaster",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Rajdevi Temple decorated for Dashain",
@@ -2453,7 +2462,7 @@
    "cat": "weather",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 4
   },
   {
    "title": "नवरात्रको पहिलो दिन आज घटस्थापना, शैलपुत्रीको पूजा गरिँदै",
@@ -2827,7 +2836,7 @@
    "cat": "culture",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "उपसभापति खुलामा भण्डारी र समावेशीमा चौधरीको अग्रता",
@@ -2937,6 +2946,29 @@
    "cat": "politics",
    "val": 2,
    "teaser": true,
+   "hits": 1
+  },
+  {
+   "title": "बूढीगण्डकीमा ठूलो बाढी, तटीय क्षेत्रका बासिन्दालाई उचो स्थानमा बस्न आग्रह",
+   "summary": "",
+   "link": "https://baahrakhari.com/detail/504540",
+   "source": "Baahrakhari",
+   "ts": 1791680498,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "बूढीगण्डकीमा ठूलो बाढी, तटीय क्षेत्रका बासिन्दालाई उचो स्थानमा बस्न आग्रह",
+   "en": "बूढीगण्डकीमा ठूलो बाढी, तटीय क्षेत्रका बासिन्दालाई उचो स्थानमा बस्न आग्रह",
+   "ne": "बूढीगण्डकीमा ठूलो बाढी, तटीय क्षेत्रका बासिन्दालाई उचो स्थानमा बस्न आग्रह",
+   "imp": 4,
+   "tags": [
+    "Budhigandaki",
+    "Flood",
+    "बाढी"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
    "hits": 1
   }
  ],
@@ -6143,7 +6175,7 @@
    "cat": "economy"
   }
  ],
- "updated": 1791680496,
+ "updated": 1791681060,
  "pending_since": 1791680485.4395647,
  "fb_blocks": [
   1790350880.4125228,
