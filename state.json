@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://gorkhapatraonline.com/news/225989": 1791511281.286392,
   "https://www.setopati.com/social/400397": 1791511855.2318456,
   "https://baahrakhari.com/detail/504326": 1791511855.2318456,
   "http://english.ratopati.com/story/82962/farmers-in-kailali-worry-about-how-to-save-rain-soaked-rice": 1791511855.2318456,
@@ -2056,55 +2055,14 @@
   "http://lokaantar.com/story/331009/2026/10/11/flood-": 1791682847.9011304,
   "https://nagariknews.nagariknetwork.com/social-affairs/floods-in-budhi-gandaki-salleri-bazaar-washed-away-huge-damage-to-the-area-situation-critical-36-34.html": 1791683450.25479,
   "https://theannapurnaexpress.com/story/67815": 1791683450.25479,
-  "http://lokaantar.com/story/331012/2026/10/11/flood-": 1791683450.25479
+  "http://lokaantar.com/story/331012/2026/10/11/flood-": 1791683450.25479,
+  "https://nagariknews.nagariknetwork.com/social-affairs/flood-in-budhigandaki-35-houses-in-chumanubri-washed-away-62-56.html": 1791684084.029924,
+  "https://nagariknews.nagariknetwork.com/sports/icc-cricket-world-cup-league-2-nepal-and-canada-to-compete-today-br-95-56.html": 1791684084.029924,
+  "https://english.khabarhub.com/2026/11/571524/": 1791684084.029924,
+  "http://english.ratopati.com/story/83257/budhi-gandaki-flood-helicopters-mobilized-for-rescue-home-minister-sudan-gurung-heading-to-affected-areas": 1791684084.029924,
+  "https://nagariknews.nagariknetwork.com/social-affairs/the-main-source-of-budhi-gandaki-floods-is-the-himalayas-it-will-merge-with-the-trishuli-river-posing-a-risk-as-far-as-chitwan-36-33.html": 1791684084.029924
  },
  "queue": [
-  {
-   "title": "क्रियाशील पत्रकार मञ्चकोे अध्यक्षतामा रमेश गिरी",
-   "summary": "भक्तपुर, असोज २४ गते । क्रियाशील पत्रकार मञ्चको अध्यक्षमा राससकर्मी रमेश गिरी सर्वसम्मत चयन हुनुभएको छ ।मञ्चको आज सम्पन्न १६औँ वार्षिक साधारणसभाले छैठौ केन्द्रीय अधिवेशनले पत्रकार...",
-   "link": "https://gorkhapatraonline.com/news/226223",
-   "source": "Gorkhapatra",
-   "ts": 1791654817,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/387514/conversions/1000518038-original.jpg",
-   "lang": "ne",
-   "hl": "क्रियाशील पत्रकार मञ्चकोे अध्यक्षतामा रमेश गिरी",
-   "en": "क्रियाशील पत्रकार मञ्चकोे अध्यक्षतामा रमेश गिरी",
-   "ne": "क्रियाशील पत्रकार मञ्चकोे अध्यक्षतामा रमेश गिरी",
-   "imp": 2,
-   "tags": [
-    "Journalist",
-    "RameshGiri",
-    "पत्रकार"
-   ],
-   "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Ritam's heartbreaking tribute to her friend Dejan after Nepal floods",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVE1CVzFNMGc2SmdYQmtfXzZOUmJmU3ljODZLOWNRLW4zd2tPd3N6VU1vLVV2TXhmWkxzR1g0UkljQ3V0eTB2SE16dTdaTzd1Ym0zU2E4MFIxb1NKZzhZa3V5Y29iOEtxUDBvSTlzeXBqZGxlRlR6Ri0zR0QzYVJfZQ?oc=5",
-   "source": "Now to Love NZ",
-   "ts": 1791655200,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Ritam's heartbreaking tribute to her friend Dejan after Nepal floods",
-   "en": "Ritam's heartbreaking tribute to her friend Dejan after Nepal floods",
-   "ne": "Ritam's heartbreaking tribute to her friend Dejan after Nepal floods",
-   "imp": 2,
-   "tags": [
-    "NepalFloods",
-    "Tribute",
-    "पहिरो"
-   ],
-   "cat": "disaster",
-   "val": 1,
-   "teaser": false,
-   "hits": 1
-  },
   {
    "title": "The Fourth World March for Peace and Nonviolence in Nepal: My Experience",
    "summary": "",
@@ -2310,7 +2268,7 @@
    "cat": "disaster",
    "val": 3,
    "teaser": false,
-   "hits": 3
+   "hits": 4
   },
   {
    "title": "Rajdevi Temple decorated for Dashain",
@@ -6451,7 +6409,7 @@
    "cat": "crime"
   }
  ],
- "updated": 1791683475,
+ "updated": 1791684087,
  "pending_since": 1791682847.9011304,
  "fb_blocks": [
   1790350880.4125228,
