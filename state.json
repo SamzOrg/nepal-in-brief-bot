@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMikgFBVV95cUxPR1liUmMxbEdaRHFtQWVNSmJnUDhHS01jMkJHUjB6U2dESGNpLVByd09NMWZyUVBXdmppNHFreUhaM3RBTjhQQ3NXQjRiU3ZKX2IzUkpHelNsTm5SWXF4U0lpLWZhMGpQZnlNNHBRVm5icFhuUG1iUTl4VnVjYjU5MlhBZkJFTEQtQnFFck1KNHNmZw?oc=5": 1791517844.7812784,
-  "https://kathmandupost.com/national/2026/10/09/nepali-congress-voting-begins-after-delays": 1791517844.7812784,
   "https://gorkhapatraonline.com/news/226005": 1791518483.1971428,
   "https://theannapurnaexpress.com/story/67779": 1791518483.1971428,
   "https://kathmandupost.com/national/2026/10/09/three-killed-as-school-bus-plunges-off-slope-in-pokhara": 1791518483.1971428,
@@ -2075,7 +2073,34 @@
   "https://english.onlinekhabar.com/budhi-gandaki-flash-flood.html": 1791690049.7281651,
   "http://english.ratopati.com/story/83270/budhi-gandaki-flood-arughat-bridge-also-washed-away": 1791690049.7281651,
   "https://english.onlinekhabar.com/army-budhi-gandaki-flood-helicopter.html": 1791690049.7281651,
-  "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQYU1ScGNOOUhLVmR6VGFFSTE3a2JiLWxpUlJOTXM4NkFfNDF4U1R5Q2dKNFYzQ2RnMDhrVFhHcm5VYTN3cHlhSHdYVEtGbGlMMXRiYzdqMC1rNFhPbmZPUC1PTjcwa21jTGRGU0l6bkV4TVM4MTBjeWpZUk9DNUVGUjE1cFlQUG5pWng4OFo0TmFVcnJZMU1vTWxMU09iS1I4Tmt2Rm9MVVRSeUNCd01TYTg0SlR4NjVEcEx2dEZVTmxkbDhIY3J2c296dWd3ZVNLUWZWRGpEYmNvd0VZd1VfV2ZvTVdtZVFDelBLY0ZOR3VVaU3SAfgBQVVfeXFMTWJmWEY4aFQtYmI4VmkyUHdRNEZ3YVprZ2lkbjZFUFpuRVMtU3AyT2J4V2c0ZUFoekpWT3VnWFlmMElMWTAxTVlZeUZsc1AwQVZNZk5McUJBVjRPU0VBMENVSTBJM2ViT3k4azVlWGNldWRmbU9tSzNZcUROTnFlcXdmVkJ3Y2Y0SGxIcmZJc0hvSS1EZlY0MUppalJOZUxTWWE0M1F1aVpiYXBFeWRUZl8ycTZZTUlWc0xSa0FiUVpnSjFFM1lZV2UwdUZGazdIemJFLUJneG5tOUlHd2wyTkpaaXhLQjJDMVI1VkRLaFo4VlNMTUFKUTk?oc=5": 1791690049.7281651
+  "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQYU1ScGNOOUhLVmR6VGFFSTE3a2JiLWxpUlJOTXM4NkFfNDF4U1R5Q2dKNFYzQ2RnMDhrVFhHcm5VYTN3cHlhSHdYVEtGbGlMMXRiYzdqMC1rNFhPbmZPUC1PTjcwa21jTGRGU0l6bkV4TVM4MTBjeWpZUk9DNUVGUjE1cFlQUG5pWng4OFo0TmFVcnJZMU1vTWxMU09iS1I4Tmt2Rm9MVVRSeUNCd01TYTg0SlR4NjVEcEx2dEZVTmxkbDhIY3J2c296dWd3ZVNLUWZWRGpEYmNvd0VZd1VfV2ZvTVdtZVFDelBLY0ZOR3VVaU3SAfgBQVVfeXFMTWJmWEY4aFQtYmI4VmkyUHdRNEZ3YVprZ2lkbjZFUFpuRVMtU3AyT2J4V2c0ZUFoekpWT3VnWFlmMElMWTAxTVlZeUZsc1AwQVZNZk5McUJBVjRPU0VBMENVSTBJM2ViT3k4azVlWGNldWRmbU9tSzNZcUROTnFlcXdmVkJ3Y2Y0SGxIcmZJc0hvSS1EZlY0MUppalJOZUxTWWE0M1F1aVpiYXBFeWRUZl8ycTZZTUlWc0xSa0FiUVpnSjFFM1lZV2UwdUZGazdIemJFLUJneG5tOUlHd2wyTkpaaXhLQjJDMVI1VkRLaFo4VlNMTUFKUTk?oc=5": 1791690049.7281651,
+  "https://english.khabarhub.com/2026/11/571541/": 1791690648.4487593,
+  "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNQTlhNWxQN01lZ1JjSUZ0Tmk2d2lvSXFkUnFxSTBPT0R1Um82NkY0QVRLQnRLR3dvYWVZME9zSHIyNVNEb2ExZW9NSm4tQ1lnVkIxaFJJNm5WSmZTZDdCUTNGemtiRUd0TTAyeUtwV3VzNENoaHE1Z3k0dEwzNjIyeFlSX3NQaXBzNG1tRWZ5SThhWWtBQ05SMWlicEl0bVFJNk9VN1NiRHV5S0lvd2RIX1VMZWx5bU5UT182ak56dWZNSnczZGVMdGVyY0JDTEY3cHhfdGNDREd2MzlJZTdtblBTekwtQdIB5gFBVV95cUxNQTlhNWxQN01lZ1JjSUZ0Tmk2d2lvSXFkUnFxSTBPT0R1Um82NkY0QVRLQnRLR3dvYWVZME9zSHIyNVNEb2ExZW9NSm4tQ1lnVkIxaFJJNm5WSmZTZDdCUTNGemtiRUd0TTAyeUtwV3VzNENoaHE1Z3k0dEwzNjIyeFlSX3NQaXBzNG1tRWZ5SThhWWtBQ05SMWlicEl0bVFJNk9VN1NiRHV5S0lvd2RIX1VMZWx5bU5UT182ak56dWZNSnczZGVMdGVyY0JDTEY3cHhfdGNDREd2MzlJZTdtblBTekwtQQ?oc=5": 1791690648.4487593,
+  "https://news.google.com/rss/articles/CBMihgpBVV95cUxQNk4xUTdOQS01dWx0LTVadzNtcW5HeGJETndCVkVScHFrRTZmN0hCQkVSLXk0TDlxRU8xUFd4QlQ4TVFoSk5fM3dyMF93QUZuLWpxeEZEQ0RPTkdURjhMT0FYZUg2VnpQc0FBX2xDSFhQZkhXc09QWUZMYkh2LXB3dEdnZkxoYVlyODZub1k5YnU0UEdXOG5DRXJjTGROU3dFNnBlZXEzYlNDMWhqV0NnZHRSWjkyMjk0N2tfVExkS1l1TjdYX0drZmJlMmJnTFdGSEZ6RUlFcm5DVlpzM29jOUhBTFkwWEVSNVVwdlR3S3dDMVRCS3JxakU5UmlsTHRpMUxOUHJJZFlSQS1wRlVKM3JhQ2RnVWtNVm5LTWZSUEtjcFJYNHU0M3hyVHdham4ta1Vnemoya0pZVTFDSGVwNmNKVUpJSHVEN01GRjRLSXlqLXJQeGNlbm1mVGd1STA2WHNYZjBzUjE5akJKMGZ0Q2M0RkY2MjhFdXhxT0FhMXYzUnZraTRfaE5Nb2t3M1ZpMkRuUFlvQnRMdlo5ZENIVjZTZzJTV1lhZnNmZUUwRUdpZEhyZ0swV2ZGYURPTkpxYk1aLWViNVp1cGhIRm4xWU5DV2pDelFLTjBsY3NScUNjUXB4ZWswTTBDSmJrS0NpQVJ2Tnl2Z3htYUpvMm9iUE5xa09NNTZNZWViYXMyQWFiS0p4djhxTHdvWkJ2c0VlMWZRVXJWNkNJZzFEcnZnMW1hZ2dhNF9MTlBoQkNhVWNHNXhZd081clRXZkFMdFducHhkSGVadEpIdUs3VHZ2bHhlb3hwdVBXRDg0XzZNdFBsYlZJTGgyNWdZekVZU01OeXUwQXBiREh1SEhVNkxvUll2ZWtzVG1adWtzclZVN2RZWC02a0I5WG9iTEkyX2VtUE1WMnhjSnVXZ3JNLXdvdVY0WEZfYUw1SzZXY1dVTzdvZnRVXzlKRDdQcFhMUkE3UXROUlNaZTJDSl9Qd3ZyLXh6aklRVmY3U2dYcUNac3pYQzRVUXN1V2EzSENfVGRJYUtEaV9wMXE0Mng3X2ZUcUpqQ0RDMDBKZlhUUDdWcFJjVndrNXdCbFVfQWxHRExlVmwtY0pmcjVHS2RKekJTUmVFTnlmYmpzWmI0S0dxeGotYXpzUFhKNXZid2FqZ2pGMnVjc0dpVUhuU19PZ0xkbmRrSE00LWN4Z2NzVmlqZVBIVTF0OHpJRGpNWU1EdlE5bU5EOVU3dlhpOGVnUkxEY3dYMGxhZ2ttNmo2U1Iza2htUGJCQTlpQXE0ZmZIcjVoSmRHSnFTclRqOExCbTZhWERyMGVIVDF6X2Izei1DUTRYMjdBTG83TXktR3lvcXVIMUk3X2RNREY0MTBnM3hxVnEzWEF5Xy00dmlfcVJjMDdlZi16a0pHcHNWbHFzUGJHemFUWDZ4eFNMcUxMb2diMXNSWjBUejBMR29QTHl3OXd1RzkwVURNSG82SXpyaDA4V1RaY3lnVFJIV2syZjJMdHhBTVE0akNtQU9TS09aVVRIdDlEdmlZMWV4eUpCYXBncGZMVmkxZTJuYUVndjdrZzhjdndoWXROazJzRFVkNVhxTW84TzZyNktxYUdXbVc3RzNxT21PSWFTa2dha1htSnBmQ2JBbl84TDdaSThMX0NWMHh6cXV6ajJheDdIYUItWlowTzJrTGhaM0xteE1xU3o1LW9LZw?oc=5": 1791690648.4487593,
+  "https://www.setopati.com/social/400551": 1791690648.4487593,
+  "https://risingnepaldaily.com/news/87663": 1791690648.4487593,
+  "https://english.onlinekhabar.com/missing-flood-gorkha.html": 1791690648.4487593,
+  "https://nagariknews.nagariknetwork.com/international/us-14-people-killed-in-two-incidents-within-hours-73-79.html": 1791690648.4487593,
+  "https://gorkhapatraonline.com/news/226254": 1791690648.4487593,
+  "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcnllV0stREo0VDlyUHJ4RkwxX2pWZ3RSQTZnbFA5OFMwcERqSXEzSFVZVnl5a3J5NjRoaWZrX2RhOFM5ajE2RkhxYVI0VXE3czN1Wk1pbGk0RVdDMW5SUTVJUnVkbmtibVBzczM0RzVvaXVfa05sUFpJSGV3V1Fxa28xc2dYeTZJZDd6SHFIeGMtQUtmREtLQnlXckJvR25PMzZrZWhWb05TZ1BMQWpKOU1jdGdya2x5aFZKN2lCMA?oc=5": 1791690648.4487593,
+  "https://baahrakhari.com/detail/504559": 1791690648.4487593,
+  "http://english.ratopati.com/story/83268/thousands-of-passengers-stranded-on-palung-hetauda-road-section-in-makawanpur-for-36-hours": 1791690648.4487593,
+  "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQYU1ScGNOOUhLVmR6VGFFSTE3a2JiLWxpUlJOTXM4NkFfNDF4U1R5Q2dKNFYzQ2RnMDhrVFhHcm5VYTN3cHlhSHdYVEtGbGlMMXRiYzdqMC1rNFhPbmZPUC1PTjcwa21jTGRGU0l6bkV4TVM4MTBjeWpZUk9DNUVGUjE1cFlQUG5pWng4OFo0TmFVcnJZMU1vTWxMU09iS1I4Tmt2Rm9MVVRSeUNCd01TYTg0SlR4NjVEcEx2dEZVTmxkbDhIY3J2c296dWd3ZVNLUWZWRGpEYmNvd0VZd1VfV2ZvTVdtZVFDelBLY0ZOR3VVaU0?oc=5": 1791690648.4487593,
+  "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQX3FHaHgyY3FGWVgzV1JXMTdzYU5SRkJlYkRScHJpWlp5UGpJUC1SLUVRaEpfQVVMVXlZVUUwNjFuYXBmcmxrX2dfVWVwZlNmNzVMbTFzeHgtOTZreGJwRVZaYjNPRGl2SkZUaVVxeUdESFpTSkNEZkUtQ3lwanhDZ2xEWng4NXNLS0FlYkVUakFxOEIzcWp4UG9Ld2tQdV9zNW5NbnplVVA?oc=5": 1791690648.4487593,
+  "https://news.google.com/rss/articles/CBMi2gJBVV95cUxQM3Jhc0ROLW5oV190dmpYTTR1ak1qQ3BYVTZtVldrVDRmcDJoand0MUI2NDNmbFhIS3VBU2J2WGs0YnNFc0tPaWc2RzRuWkZRVFNGVk5zeWtDbkdOWG4tYUd2dUhNN3VzMEgwNzZqc3NPbFFkTDNqckVkZURzSmtoMGVvSkpaMFNCdEVrSERrWFFBdWZ2TXkwSTJOdDkxdGpwb2RrTlhfalVRVVcwMGZNbFpqNHJLUjR2aXpWV0xrN0xTdUFpUGdCUUlVbTBGR2sxSUpWeG1odTlkS2o2Z251V1gzT21ua1FyY2xYWkdaWml0U0E0eHp3RzF3T1FBMVhtdUlrbFd2NXZqUHotOUJDeVRsLXpJYWRKSDlxRHdwMjlSZUZvaUxIUmtMNXpMZmZqeFBRTFZYdEtjR0loYm1YemNVcDdxNGNpZ0FpRDVCM1FIbE9lM1k3RHB3?oc=5": 1791690648.4487593,
+  "http://lokaantar.com/story/331018/2026/10/11/aarughat-bazar-": 1791690648.4487593,
+  "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSTRtVzB2eG1wU2xPY1E2UzBrU0RYZk9pRjd2LVRtWnBRS0U4N1gyZVdGeWp5enJYcmdsdlhoaktGMHJoNXlLejkyQ1FmNW4zWk4yNkluQ3VkU1dJSkVkVS1mZi1HaTc3OFkzU1M1TjV4dEFSUzZwS01SZVZmTHNWc29TRUgxMHNDWndkdE1LNXRqUTByam04Tzg4WUNBVkFVU0Y3bmcyMFQyRldQbkV3?oc=5": 1791690648.4487593,
+  "https://risingnepaldaily.com/news/87662": 1791690648.4487593,
+  "https://nagariknews.nagariknetwork.com/social-affairs/water-level-above-danger-level-in-budhi-gandaki-6-districts-urged-to-be-alert-89-13.html": 1791690648.4487593,
+  "https://baahrakhari.com/detail/504558": 1791690648.4487593,
+  "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdUdHaWVVcUw3em5mRmlyT0lPbWFLSXFLb2ZIYmFTNVRMaEw2VlI5c2JmNXdWTndwcWJkMDUxeFVxVXB4S245NXJCTEs0MVBocFBQdHo1MFA0dUFLWVNRNXFWd3JYVEk0VTl3YW1KRGhCTmZvNDBDYlNpcTdOQjlkcWRWd3EzbnlncXFma1NIVk4waFlnTVZRRlRMSmdKUm1aMTFiQ2lsNmtLWTQ?oc=5": 1791690648.4487593,
+  "https://risingnepaldaily.com/news/87661": 1791690648.4487593,
+  "https://nagariknews.nagariknetwork.com/social-affairs/young-man-who-jumped-into-karnali-river-rescued-safely-54-29.html": 1791690648.4487593,
+  "https://baahrakhari.com/detail/504557": 1791690648.4487593,
+  "https://risingnepaldaily.com/news/87660": 1791690648.4487593,
+  "https://nagariknews.nagariknetwork.com/politics/dilla-leads-in-women-s-race-for-congress-general-secretary-dina-follows-18-31.html": 1791690648.4487593,
+  "https://risingnepaldaily.com/news/87659": 1791690648.4487593,
+  "https://nagariknews.nagariknetwork.com/social-affairs/flood-threat-in-budhigandaki-locals-rush-to-safer-places-to-save-their-lives-43-28.html": 1791690648.4487593
  },
  "queue": [
   {
@@ -2417,7 +2442,7 @@
    "cat": "culture",
    "val": 3,
    "teaser": false,
-   "hits": 3
+   "hits": 4
   },
   {
    "title": "अवरुद्ध पृथ्वी राजमार्ग सञ्चालन",
@@ -3937,6 +3962,205 @@
    ],
    "cat": "culture",
    "val": 1,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Traditional dances mark Karam festival",
+   "summary": "By Shashidhar Parajuli, Biratnagar, Oct 11: The Karam Puja, also known as the Karma Dharma festival, an important celebr...",
+   "link": "https://risingnepaldaily.com/news/87663",
+   "source": "Rising Nepal",
+   "ts": 1791690464,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "Traditional dances mark Karam festival",
+   "en": "Traditional dances mark Karam festival",
+   "ne": "Traditional dances mark Karam festival",
+   "imp": 2,
+   "tags": [
+    "KaramFestival",
+    "TraditionalDance"
+   ],
+   "cat": "culture",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "अमेरिका : केही घण्टाको अन्तरालमा भएका दुई घटनामा १४ जनाको ज्यान गयो",
+   "summary": "पेन्सिलभेनियाका गभर्नर जोश शापिरोले सामाजिक सञ्जालमार्फत घटनाप्रति दुःख व्यक्त गर्दै प्रभावितलाई सहयोग गर्न आफ्नो प्रशासन तयार रहेको बताएका छन्।...",
+   "link": "https://nagariknews.nagariknetwork.com/international/us-14-people-killed-in-two-incidents-within-hours-73-79.html",
+   "source": "Nagarik News",
+   "ts": 1791690170,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2026/third-party/1791690128_USA.jpg",
+   "lang": "ne",
+   "hl": "अमेरिका : केही घण्टाको अन्तरालमा भएका दुई घटनामा १४ जनाको ज्यान गयो",
+   "en": "अमेरिका : केही घण्टाको अन्तरालमा भएका दुई घटनामा १४ जनाको ज्यान गयो",
+   "ne": "अमेरिका : केही घण्टाको अन्तरालमा भएका दुई घटनामा १४ जनाको ज्यान गयो",
+   "imp": 1,
+   "tags": [
+    "USA",
+    "Accident"
+   ],
+   "cat": "world",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "फलफूल निःशुल्क वितरण",
+   "summary": "मुक्तिनाथ समाचारदातामुक्तिनाथ (मुस्ताङ), असोज २५ गते । बाढीपहिरो र नदी कटानका कारण बेनी-जोमसोम सडक अवरुद्ध भएपछि चीनबाट ल्याएर काठमाडौँ लैजान लागिएको करिब २७ लाख रुपियाँ मूल्य बराब...",
+   "link": "https://gorkhapatraonline.com/news/226254",
+   "source": "Gorkhapatra",
+   "ts": 1791690094,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/387557/conversions/fruits-original.jpg",
+   "lang": "ne",
+   "hl": "फलफूल निःशुल्क वितरण",
+   "en": "फलफूल निःशुल्क वितरण",
+   "ne": "फलफूल निःशुल्क वितरण",
+   "imp": 1,
+   "tags": [
+    "FruitDistribution"
+   ],
+   "cat": "society",
+   "val": 1,
+   "teaser": true,
+   "hits": 1
+  },
+  {
+   "title": "Over 100 Buses Stranded for 36 Hours on Palung-Hetauda Road, Thousands of Passengers Stranded",
+   "summary": "Biratnagar. More than 100 passenger buses that departed from Kathmandu have been stranded for 36 hours on the Palung-Hetauda road...",
+   "link": "http://english.ratopati.com/story/83268/thousands-of-passengers-stranded-on-palung-hetauda-road-section-in-makawanpur-for-36-hours",
+   "source": "Ratopati EN",
+   "ts": 1791688829,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/hetauda_QWf1Ca12kQ.webp",
+   "lang": "en",
+   "hl": "Over 100 Buses Stranded for 36 Hours on Palung-Hetauda Road, Thousands of Passengers Stranded",
+   "en": "Over 100 Buses Stranded for 36 Hours on Palung-Hetauda Road, Thousands of Passengers Stranded",
+   "ne": "Over 100 Buses Stranded for 36 Hours on Palung-Hetauda Road, Thousands of Passengers Stranded",
+   "imp": 4,
+   "tags": [
+    "PalungHetaudaRoad",
+    "TrafficJam",
+    "Dashain"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Nepal vs Hong Kong - Volleyball Women's - SF",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSTRtVzB2eG1wU2xPY1E2UzBrU0RYZk9pRjd2LVRtWnBRS0U4N1gyZVdGeWp5enJYcmdsdlhoaktGMHJoNXlLejkyQ1FmNW4zWk4yNkluQ3VkU1dJSkVkVS1mZi1HaTc3OFkzU1M1TjV4dEFSUzZwS01SZVZmTHNWc29TRUgxMHNDWndkdE1LNXRqUTByam04Tzg4WUNBVkFVU0Y3bmcyMFQyRldQbkV3?oc=5",
+   "source": "TOD",
+   "ts": 1791673674,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "Nepal vs Hong Kong - Volleyball Women's - SF",
+   "en": "Nepal vs Hong Kong - Volleyball Women's - SF",
+   "ne": "Nepal vs Hong Kong - Volleyball Women's - SF",
+   "imp": 3,
+   "tags": [
+    "Volleyball",
+    "NepalVsHongKong",
+    "WomensSports"
+   ],
+   "cat": "sports",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Switching to marigold farming from paddy",
+   "summary": "By Hari Prasad Koirala ,Urlabari, Oct. 11: Sixty-four-year-old Rabindra Khadka of Chanditole in Kanepokhari Rural Munici...",
+   "link": "https://risingnepaldaily.com/news/87661",
+   "source": "Rising Nepal",
+   "ts": 1791689544,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "Switching to marigold farming from paddy",
+   "en": "Switching to marigold farming from paddy",
+   "ne": "Switching to marigold farming from paddy",
+   "imp": 2,
+   "tags": [
+    "MarigoldFarming",
+    "Agriculture"
+   ],
+   "cat": "economy",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "कर्णाली नदीमा हामफालेका युवकको सकुशल उद्धार",
+   "summary": "राजापुर नगरपालिका-४ स्थित सत्तिघाट पुलबाट कर्णाली नदीमा हामफालेको युवकको प्रहरीले सकुशल उद्धार गरेको छ।...",
+   "link": "https://nagariknews.nagariknetwork.com/social-affairs/young-man-who-jumped-into-karnali-river-rescued-safely-54-29.html",
+   "source": "Nagarik News",
+   "ts": 1791689509,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2025/third-party/1791689485_New%20Project%20(6).jpg",
+   "lang": "ne",
+   "hl": "कर्णाली नदीमा हामफालेका युवकको सकुशल उद्धार",
+   "en": "कर्णाली नदीमा हामफालेका युवकको सकुशल उद्धार",
+   "ne": "कर्णाली नदीमा हामफालेका युवकको सकुशल उद्धार",
+   "imp": 3,
+   "tags": [
+    "KarnaliRiver",
+    "Rescue"
+   ],
+   "cat": "society",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "नेपाललाई सहयोग गर्न रेमिट्यान्स शुल्क छुट गर",
+   "summary": "यो रकम संयुक्त राष्ट्रसंघले लगभग ५ करोड डलर जुटाउन गरेको अपीलभन्दा धेरै गुणा बढी हुनुका साथै यस्तो योगदान समयसापेक्ष र लक्षित हुनेछ । किनभने पैसा सिधै विदेशमा रहेका आफन्तहरूबाट वास्तविक आवश्यकता भएका घरपरिवारहरूकहाँ...",
+   "link": "https://baahrakhari.com/detail/504557",
+   "source": "Baahrakhari",
+   "ts": 1791689033,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "नेपाललाई सहयोग गर्न रेमिट्यान्स शुल्क छुट गर",
+   "en": "नेपाललाई सहयोग गर्न रेमिट्यान्स शुल्क छुट गर",
+   "ne": "नेपाललाई सहयोग गर्न रेमिट्यान्स शुल्क छुट गर",
+   "imp": 3,
+   "tags": [
+    "Remittance",
+    "Nepal"
+   ],
+   "cat": "economy",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Premium Chyangras to cost Rs. 50,000",
+   "summary": "By Hari Krishna Sharma, Muktinath (Mustang), Oct. 11: Gyan Kumar Shrestha, a trader who travelled from Kathmandu to Must...",
+   "link": "https://risingnepaldaily.com/news/87659",
+   "source": "Rising Nepal",
+   "ts": 1791688838,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "Premium Chyangras to cost Rs. 50,000",
+   "en": "Premium Chyangras to cost Rs. 50,000",
+   "ne": "Premium Chyangras to cost Rs. 50,000",
+   "imp": 2,
+   "tags": [
+    "Chyangra",
+    "DashainMarket"
+   ],
+   "cat": "economy",
+   "val": 3,
    "teaser": false,
    "hits": 1
   }
@@ -7144,8 +7368,8 @@
    "cat": "disaster"
   }
  ],
- "updated": 1791690054,
- "pending_since": 1791689467.2898812,
+ "updated": 1791690654,
+ "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
