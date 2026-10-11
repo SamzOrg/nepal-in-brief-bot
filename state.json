@@ -2052,7 +2052,11 @@
   "http://english.ratopati.com/story/83247/budhi-gandaki-flood-update-salleri-bazaar-washed-away-jagat-bazaar-also-suffered-major-damage": 1791678582.759699,
   "http://lokaantar.com/story/330995/2026/10/11/flood-": 1791678582.759699,
   "https://english.khabarhub.com/2026/11/571510/": 1791678669.2844956,
-  "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNEp4Q3dUenlCNFRjM3N2T2hKN3FmY1ZKVWg4YU1DeTlzakpKM1VMbU5HSlRYaU5HdjFBZU1EeWgwNkczdmtQSUVuVkFFcEp2VXd4N1pDMlJ6c0JCTXVHM21QU0tnUGhpSUVEcFZ0Smlmb2VQOUJpRE56TUhZN3pGa1RtV1E2aGEyV2J5MFZ1R3FPU29qVlNoQ2V0T2JROXdHOE1sVw?oc=5": 1791678669.2844956
+  "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNEp4Q3dUenlCNFRjM3N2T2hKN3FmY1ZKVWg4YU1DeTlzakpKM1VMbU5HSlRYaU5HdjFBZU1EeWgwNkczdmtQSUVuVkFFcEp2VXd4N1pDMlJ6c0JCTXVHM21QU0tnUGhpSUVEcFZ0Smlmb2VQOUJpRE56TUhZN3pGa1RtV1E2aGEyV2J5MFZ1R3FPU29qVlNoQ2V0T2JROXdHOE1sVw?oc=5": 1791678669.2844956,
+  "https://gorkhapatraonline.com/news/226227": 1791679247.9445603,
+  "https://nagariknews.nagariknetwork.com/social-affairs/foreign-currency-exchange-rates-set-for-today-95-57.html": 1791679247.9445603,
+  "https://gorkhapatraonline.com/news/226225": 1791679247.9445603,
+  "http://lokaantar.com/story/330997/2026/10/11/congress-": 1791679247.9445603
  },
  "queue": [
   {
@@ -2097,51 +2101,6 @@
     "साहित्य"
    ],
    "cat": "culture",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Food Technology Division Office Conducts 161 Inspections in One Year",
-   "summary": "Tulsipur. The Food Technology and Quality Control Division Office, Tulsipur Dang has inspected and monitored various food businesses 161 times...",
-   "link": "http://english.ratopati.com/story/83244/monitoring-of-161-food-businesses-in-dang",
-   "source": "Ratopati EN",
-   "ts": 1791650185,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/dang-map_yCoTeipd67.jpg",
-   "lang": "en",
-   "hl": "Food Technology Division Office Conducts 161 Inspections in One Year",
-   "en": "Food Technology Division Office Conducts 161 Inspections in One Year",
-   "ne": "Food Technology Division Office Conducts 161 Inspections in One Year",
-   "imp": 2,
-   "tags": [
-    "FoodTechnology",
-    "Inspection"
-   ],
-   "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "दाङका १६१ खाद्य व्यवसायमा अनुगमन, १३ मुद्दा दायर",
-   "summary": "तुलसीपुर (दाङ), असोज २४ गते । खाद्य प्रविधि तथा गुण नियन्त्रण डिभिजन कार्यालय, तुलसीपुर दाङले एक वर्षमा १६१ पटक विभिन्न खाद्य व्यवसायको निरीक्षण तथा अनुगमन गरेको छ । आर्थिक वर्ष २०...",
-   "link": "https://gorkhapatraonline.com/news/226218",
-   "source": "Gorkhapatra",
-   "ts": 1791650017,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/387509/conversions/khadya2022-04-20-08-05-11-original.jpg",
-   "lang": "ne",
-   "hl": "दाङका १६१ खाद्य व्यवसायमा अनुगमन, १३ मुद्दा दायर",
-   "en": "दाङका १६१ खाद्य व्यवसायमा अनुगमन, १३ मुद्दा दायर",
-   "ne": "दाङका १६१ खाद्य व्यवसायमा अनुगमन, १३ मुद्दा दायर",
-   "imp": 2,
-   "tags": [
-    "Dang",
-    "FoodInspection",
-    "दाङ"
-   ],
-   "cat": "society",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -2422,7 +2381,7 @@
    "cat": "economy",
    "val": 1,
    "teaser": true,
-   "hits": 2
+   "hits": 4
   },
   {
    "title": "अब स्वस्थ मासु मात्र भान्सामा",
@@ -5720,7 +5679,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1791678673,
+ "updated": 1791679251,
  "pending_since": 1791678049.0088937,
  "fb_blocks": [
   1790350880.4125228,
