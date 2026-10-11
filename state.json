@@ -2234,7 +2234,8 @@
   "https://nagariknews.nagariknetwork.com/sports/world-cup-league-2-nepal-s-winning-start-in-their-final-series-rohit-hits-a-century-13-41.html": 1791725331.92762,
   "https://nagariknews.nagariknetwork.com/social-affairs/floods-in-budhi-gandaki-as-dam-built-to-block-river-due-to-landslide-breaks-38-86.html": 1791725331.92762,
   "https://nagariknews.nagariknetwork.com/politics/inauguration-of-ichchakamana-basic-hospital-building-investment-of-rs-190-million-11-19.html": 1791725331.92762,
-  "https://nagariknews.nagariknetwork.com/social-affairs/1-457-dead-4-720-still-missing-in-bhotekoshi-floods-br-92-28.html": 1791725331.92762
+  "https://nagariknews.nagariknetwork.com/social-affairs/1-457-dead-4-720-still-missing-in-bhotekoshi-floods-br-92-28.html": 1791725331.92762,
+  "https://gorkhapatraonline.com/news/226332": 1791725473.0598636
  },
  "queue": [
   {
@@ -2534,28 +2535,6 @@
    "cat": "society",
    "val": 1,
    "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "आधा आकाश थामेका हातहरू",
-   "summary": "नारीको विजय पुरुषको पराजय होइन, हुँदै होइन, त्यो विजय त मानवताको सबैभन्दा उज्यालो बिहान हो।",
-   "link": "https://nagariknews.nagariknetwork.com/arts/hands-holding-up-half-the-sky-br-49-13.html",
-   "source": "Nagarik News",
-   "ts": 1791696663,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1791697289_tutu%2098.jpg",
-   "lang": "ne",
-   "hl": "आधा आकाश थामेका हातहरू",
-   "en": "आधा आकाश थामेका हातहरू",
-   "ne": "आधा आकाश थामेका हातहरू",
-   "imp": 1,
-   "tags": [
-    "WomenPower",
-    "नारीशक्ति"
-   ],
-   "cat": "culture",
-   "val": 1,
-   "teaser": true,
    "hits": 1
   },
   {
@@ -10351,8 +10330,8 @@
    "cat": "disaster"
   }
  ],
- "updated": 1791725341,
- "pending_since": null,
+ "updated": 1791725477,
+ "pending_since": 1791725473.0598636,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
