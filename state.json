@@ -1,9 +1,5 @@
 {
  "seen": {
-  "https://english.onlinekhabar.com/govt-proposes-interest-subsidies-for-teachers-vehicle-purchases.html": 1791529852.0741835,
-  "https://english.onlinekhabar.com/pokhara-school-bus-accident-2.html": 1791529852.0741835,
-  "https://baahrakhari.com/detail/504358": 1791529852.0741835,
-  "http://english.ratopati.com/story/83021/gold-seizure-case-the-smugglers-vehicle-carrying-the-gold-was-also-seized": 1791529852.0741835,
   "https://baahrakhari.com/detail/504359": 1791530450.0279222,
   "http://english.ratopati.com/story/83027/metropolitan-municipality-forms-committee-to-investigate-school-bus-accident-in-pokhara": 1791530450.0279222,
   "http://english.ratopati.com/story/83006/digital-rights-and-civil-liberties-from-a-legal-perspective": 1791530450.0279222,
@@ -2154,7 +2150,16 @@
   "https://baahrakhari.com/detail/504578": 1791702647.70842,
   "https://gorkhapatraonline.com/news/226288": 1791702647.70842,
   "https://english.onlinekhabar.com/kathmandu-dammam-flight-cancelled.html": 1791702647.70842,
-  "https://gorkhapatraonline.com/news/226287": 1791702647.70842
+  "https://gorkhapatraonline.com/news/226287": 1791702647.70842,
+  "https://gorkhapatraonline.com/news/226292": 1791703244.7958493,
+  "https://english.khabarhub.com/2026/11/571568/": 1791703244.7958493,
+  "https://news.google.com/rss/articles/CBMi2wFBVV95cUxON2lxb0w1RGlzeDJVWHQ4bkxIMFp5cl9LanFlTEtKN1A0bzBjeVYyLXY1WWp4Vk4zN3FOYkpDR3VCako3djdFVFVCLWRwenVobUxlSEc0c1hWclpPWnlBNERKN2RqZ05zajMwNG5Udl80SDVFeFRxMnpIVWJwd1Y0UXJ6TXVkb0NyUFFqZmN2Nk1MYUFMYW5vdDV6ZUhlT0dOYUg1Y3RIMjdEN1hMOUQtRjlaWWxkdlpRNTVrNVpSOFlabmlfR1hWdTYwaU9uNzRnam5LMHlweXRkNzjSAeABQVVfeXFMTVotdDJvUjBGX0d1QmZUZjNsMHV1czRZQ3R2U2hUaGJQWVItTEh0c1FVb09NZGZ3T3loX3E4V2RrbnRINVBnYzVkQ2NScVR4S1oxQlF4aGJ3OG5UTlpSejg3amtyc2ZYa3N1TVNuMXRQRU9ndmJYXzh6b0JNM2ZGWUZHZDMxUU5LQmpWc3FEMnBJX3RDTS1XRlZoVjdjMkdLNTA0TE12RXk1Nlp1LXZaWUxNdTJsTm9DelhqWU9aXzc1Z3RQTVpNZXFfbUZqb0JTbE15UjJ1X3U4a3BUNC02N04?oc=5": 1791703244.7958493,
+  "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbXFKYWl2dTZ2YkNEcHNmZ1Eyb0VpMWtUU2VuZDdhOEZaWmJKWV9qeXVPSXpaVEFsdm9yOGZUTzlFRjhBRGhZWk1NSDBkdGhLdFBodVE2V3VPbGJkZ0pSREl5VkZsRTlQMnhUWEVxdjROc1hHTlgyQmpJSXQyWDNrM09LUEVtTXRIeVE3d21Cb2pjQWR1VWl3R0tqaVJJRF8yZXNScnY4dzZBVjJxRjZpQWxoRFFWdW5wNmhaQlBlSXJPRTJLMUpSQTdacw?oc=5": 1791703244.7958493,
+  "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdTB0dG1NOTVYeVZvTmJwYlZMT1FJb1A1QVN5NXZHaGRGY3NCTGxqRWQ5R0RBZVBDcHJLMTJEWmUxbDRadUlVejZiMGVIODM1aUlPX19DN3N1VXpCcC05b1p5YW80MnlLQU1TUFVCd0NadzBKeG5vbE0wRHBpM0Z3aDBnS1BDQzRjRkRyVEhJSjhXMXPSAZcBQVVfeXFMT1NxTVF0c09ZUVItZTdzcGJpUzk0WmhiaTh2UVFpZl93MXB5eUxNbEF4VG5LVGgtSFJGYzVHU0d5dG1ORDZMUEcwX2ktTjBTamlkY0hZeWQ0OWk1enVhWUFzbGszMDEzbGtSYW80UUhneXNqYkFHd21tZkk5NThWLTNscHBXNEVxZnNxTURGU25GQWNIcjRkQQ?oc=5": 1791703244.7958493,
+  "https://www.setopati.com/politics/400572": 1791703244.7958493,
+  "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSHVZRUZ0TS1fUk95eFlERnRwZktzYy1qMXFiYVNvdkViNGpPYVdmeVN2Z19YOVVxU05DQ1VuQmJlckZ6bENGSkZWSGVNVmVqSnE4Vkk1N2NFQVdRdFJRRTJsRTRKcHUtM2VGb200UlpITWZqQUVYdTE0dENjRGNHOUV1V2I0WDJrRHRheEk1cXVCN19xQlJnTnd5ZjctUDZpbVA5WUJNTzRMTnRvcTk3UDRHT2o1WGpHTWhPeDJqSEw?oc=5": 1791703244.7958493,
+  "https://theannapurnaexpress.com/story/67832": 1791703244.7958493,
+  "http://lokaantar.com/story/331033/2026/10/11/army-rescue-": 1791703244.7958493
  },
  "queue": [
   {
@@ -4096,7 +4101,7 @@
    "cat": "disaster",
    "val": 3,
    "teaser": false,
-   "hits": 16
+   "hits": 18
   },
   {
    "title": "Gandaki provincial health ministry releases preliminary details of Budhigandaki flood damage",
@@ -4303,7 +4308,7 @@
    "cat": "disaster",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "गोरखामा ठूलो वर्षा भएको देखिँदैन : मौसम पूर्वानुमान",
@@ -5147,28 +5152,6 @@
    "hits": 1
   },
   {
-   "title": "Kuwait tour of Nepal",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9jSWc3SmRyakR5a213N0RsRW9RdmVGSFdLMlFBb0ppaV90SUtLZnp6eVQxM3I3NlV2Z1ZiU1BGQldUR01XVWR6NW5oR05RSFYwMHpKRG14UGxPQlNKNjRPNkQwZmZmQWJCbWY0T0U1U0dibDF5?oc=5",
-   "source": "Cricinfo",
-   "ts": 1791674186,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Kuwait tour of Nepal",
-   "en": "Kuwait tour of Nepal",
-   "ne": "Kuwait tour of Nepal",
-   "imp": 2,
-   "tags": [
-    "KuwaitTour",
-    "Nepal"
-   ],
-   "cat": "world",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "फोनपे अवार्ड्समार्फत नेपालको डिजिटल अर्थतन्त्रका निर्माता सम्मानित",
    "summary": "",
    "link": "https://www.setopati.com/kinmel/information-technology/400561",
@@ -5580,7 +5563,7 @@
    "cat": "politics",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "ब्राजिलको राष्ट्रपति निर्वाचनमा हस्तक्षेप गरेको मेटामाथि आरोप",
@@ -5744,7 +5727,7 @@
    "cat": "culture",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Kathmandu-Dammam flight cancelled amid tensions in Saudi Arabia",
@@ -5788,6 +5771,54 @@
     "BillPassed"
    ],
    "cat": "politics",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Barcelona cruise past Getafe, Real Madrid stutter to win over Villarreal",
+   "summary": "Barcelona extended their perfect LaLiga start with a comfortable 3-0 home win over Getafe on Saturday before Real Madrid overcame Villarreal 1-0 despite having Vinicius Jr sent off, Reuters reported. Barca's victory...",
+   "link": "https://theannapurnaexpress.com/story/67832",
+   "source": "Annapurna Express",
+   "ts": 1791688846.193497,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "Barcelona cruise past Getafe, Real Madrid stutter to win over Villarreal",
+   "en": "Barcelona cruise past Getafe, Real Madrid stutter to win over Villarreal",
+   "ne": "Barcelona cruise past Getafe, Real Madrid stutter to win over Villarreal",
+   "imp": 1,
+   "tags": [
+    "Barcelona",
+    "RealMadrid",
+    "LaLiga",
+    "Football"
+   ],
+   "cat": "sports",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "बूढीगण्डकी बाढीमा फसेका ३६ जनाको सेनाले गर्यो उद्धार",
+   "summary": "बूढीगण्डकी नदीमा आएको बाढीमा फसेका ३६ जनालाई नेपाली सेनाले उद्धार गरेको छ ।सैनिक जनसम्पर्क तथा सूचना निर्देशनालयका अनुसार सेनाका चारवटा हेलिकप्टर तथा स्थलमार्गमा खटिएका फौज परिचालन गरी उद्धार गरिएको हो ।सेनाले...",
+   "link": "http://lokaantar.com/story/331033/2026/10/11/army-rescue-",
+   "source": "Lokaantar",
+   "ts": 1791688845.534472,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "बूढीगण्डकी बाढीमा फसेका ३६ जनाको सेनाले गर्यो उद्धार",
+   "en": "बूढीगण्डकी बाढीमा फसेका ३६ जनाको सेनाले गर्यो उद्धार",
+   "ne": "बूढीगण्डकी बाढीमा फसेका ३६ जनाको सेनाले गर्यो उद्धार",
+   "imp": 4,
+   "tags": [
+    "Budhigandaki",
+    "Flood",
+    "NepaliArmy",
+    "उद्धार"
+   ],
+   "cat": "disaster",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -9018,8 +9049,8 @@
    "cat": "disaster"
   }
  ],
- "updated": 1791702671,
- "pending_since": null,
+ "updated": 1791703249,
+ "pending_since": 1791703244.7958493,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
