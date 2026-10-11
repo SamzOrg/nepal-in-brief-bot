@@ -1,11 +1,5 @@
 {
  "seen": {
-  "https://gorkhapatraonline.com/news/226051": 1791535856.7203586,
-  "https://baahrakhari.com/detail/504368": 1791535856.7203586,
-  "https://thehimalayantimes.com/nepal/nepal-off-track-to-end-child-marriage-by-2030-unicef-says": 1791535856.7203586,
-  "https://gorkhapatraonline.com/news/226050": 1791535856.7203586,
-  "http://english.ratopati.com/story/83039/uml-standing-committee-meeting-continues-for-second-day": 1791535856.7203586,
-  "https://gorkhapatraonline.com/news/226052": 1791535856.7203586,
   "https://nagariknews.nagariknetwork.com/politics/congress-general-convention-voting-time-extended-until-5-pm-13-39.html": 1791536488.5199316,
   "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNczBXZzRLcXpndEVTa2JkdjhrX1BhVE1hdHNQOVFxLVdQT3RNVEl1WUVvRWVjVk1xZFdwQXk3bk9KMEtBZDl6M0lUSEtjc2Z4Z1JLTHIyS2N5Q3NJY0h5RmdwWFRSWGY1TUtBQ25wYlRUb0JMbF9OSmphcUwwaDFmbkpnM0lxTDJBSkZVaXdtSktCdDJWSUl0SHVqUlhCN0tubnM2NkxyNnFmaG55SjE2UEJqTElKUUNZN2x1NVNVSTJaSGs?oc=5": 1791536488.5199316,
   "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWnhmSFI0TjRLa1pkUXVFOHZsbjI2eTVzWHlNQmZPVXh6UlhGamhWMUFKUFd2VVlOVGZCZFFaeUtzMnZackV5LURzYk82R3BoOVNVdlNLMmFrVEFNQ1QzWjJrYzZ0N1V6OGlBdjVPYUtFbV9MT2F3T3V3bk5qc080V09KdW9mMmdqX0xzUXNIVm5nNTAydGxxVkt5UVR5dDAxWGVubk5lMF9Uc3d6NzdsZUVsMWdVN21LUFV1Q0dyZzBpenJVR3RpdV9R?oc=5": 1791536488.5199316,
@@ -2166,98 +2160,17 @@
   "http://lokaantar.com/story/331041/2026/10/11/rohit-paudel-": 1791708654.406472,
   "https://nagariknews.nagariknetwork.com/social-affairs/budhigandaki-flood-jagat-village-under-blockade-31-houses-washed-away-br-45-41.html": 1791708654.406472,
   "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdnh2X19XLVhYRnZRQ0dBTlhhQ0w4NnhaVjhEX1BLX0JxV2FSNHZtNGZnVnhpc2ViblpDaW1MSk14SVV5azJ4aE9oaFc2WndPSFRHd0hRMW92cHJfT1ZHbXNBY1ppVWVNRDJDMVhQZWJlVll5dzRPNkNES3ZSbFdjblJDZ1loRDFlM2lnMUlVTngzLVRXWlhnOUhoa1Z1LW80eWJhbmJ0WWhFcE1VLUFtb2JLUUNfNzFyaVE?oc=5": 1791708654.406472,
-  "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcDVPVmwwMXFpczhKbzM0S25VRVB6Tko5RXRFN0k1QlU1MlVCUHRyQlp1d01qR3J0Z2M5djctaW81RlhITXJ2QW9aaEo3T0hRVHREYjZKY1lyQ0g5OUlLeEJ3bXRKdGZLSGVQQ0dfdkZUM0FLTzg3VVNDVllXWEdOYkZtcjV2dmJRc1VYeVdRaDQ1c0Z5dDJOTzBCaGRmc1BEMTlYatIBqgFBVV95cUxNNTV0ZzZ6MDBkY2lybkdtNGFNeTFSRkpwQlY0TjNZOGtXSWhPMXpaMTBQRXNjeElfLU5fc1pUMk9hUTR3MWxZUnpXcW1MQmZqWkUyMV9NdU5RY2p6aUtnVlFCSzRrdzFMLXBnYmZRczU5ZEZKUjJGTS1hTG1ZWHBSOVBYVndqWTlZU044bHNfR3FKa1BveUZRZUlyZ3N5X1VscXJFVzYwTWhFUQ?oc=5": 1791708654.406472
+  "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcDVPVmwwMXFpczhKbzM0S25VRVB6Tko5RXRFN0k1QlU1MlVCUHRyQlp1d01qR3J0Z2M5djctaW81RlhITXJ2QW9aaEo3T0hRVHREYjZKY1lyQ0g5OUlLeEJ3bXRKdGZLSGVQQ0dfdkZUM0FLTzg3VVNDVllXWEdOYkZtcjV2dmJRc1VYeVdRaDQ1c0Z5dDJOTzBCaGRmc1BEMTlYatIBqgFBVV95cUxNNTV0ZzZ6MDBkY2lybkdtNGFNeTFSRkpwQlY0TjNZOGtXSWhPMXpaMTBQRXNjeElfLU5fc1pUMk9hUTR3MWxZUnpXcW1MQmZqWkUyMV9NdU5RY2p6aUtnVlFCSzRrdzFMLXBnYmZRczU5ZEZKUjJGTS1hTG1ZWHBSOVBYVndqWTlZU044bHNfR3FKa1BveUZRZUlyZ3N5X1VscXJFVzYwTWhFUQ?oc=5": 1791708654.406472,
+  "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQkk3RmFxbDdQVkE2bWhPZm9KZDRiSWZrbDgwbGV3ZmFFdUN5dWZ1bDRWLWZydkFyam1FczVxeXJoaWtRMDdOS0RVUHYyQmt1RTVNUVNkVTZfaVhzYUJWMXNlbWRaYVJxZ29fbGtqbHk2UTVxdndDYldXclpvMF91c3lnRlB3eXA1NXVCWWNR?oc=5": 1791709285.4739912,
+  "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMGFyS2NZQnlNZUEwUVdjWjVyc2NNcjE4R1dyVmpObkdBZEdEUnlXZk5nVXhMd2RZcUh3SmRudWNteUU1akgwOXNRbm9XSGdKTEJieXgtLVFHRy1KOUNCSUJVbWdnNTI4RTBHTlN5aDEwUUJYS2ROc0VUcVRWUzlRNkpjRk53MTZQMmdiWUM5T0F0c1YtVzNnYUx3dzhyTER1TzFYZ01sTVBhMG9QNVVHc081c0dPdWRWT1IxY1VRblI5MFpBM3Q4VGhFcEpQbzlRLVZQa1dMbTY?oc=5": 1791709285.4739912,
+  "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBGa01NWWtxekxPUFJULXZCLXQ1b1FubndSd3VjM3lRaHZVUHU0azRIS3NMX0RIbEhjcjFsS2JoY2xxa2JpSmJHSFBQY0dTdVNGUzhldlBNSFJhSnZo0gFcQVVfeXFMUEZrTU1Za3F6TE9QUlQtdkItdDVvUW5ud1J3dWMzeVFodlVQdTRrNEhLc0xfREhsSGNyMWxLYmhjbHFrYmlKYkdIUFBjR1N1U0ZTOGV2UE1IUmFKdmg?oc=5": 1791709285.4739912,
+  "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdTNQNWNCU01faGs3OGpHOTRWakpScVhfYkloNHhFQ0g2ODd6OV9PNTQ0NHQtdGFDSFZmV1ZObzExSzNrbUpubUNYOUQzR3RmSlA3WHh2d0g2YU1NX09POVhidEh3RW5jdjU5a0xzNUdWeVRWbHVlSUo0R3Jzdm9FZkRoaVl5a0liYzBLeVpuRnNwbExZdF9vckcyWGFtMnFvS3M0Nnl2Q1F3WFRaV0hMZ0I2S1hzOGhKVTdvdDRaWnI?oc=5": 1791709285.4739912,
+  "http://lokaantar.com/story/331042/2026/10/11/uddhar-": 1791709285.4739912,
+  "http://english.ratopati.com/story/83315/gorkha-floods-landslide-occurs-about-1-kilometer-away-from-siringe-himal": 1791709285.4739912,
+  "https://news.google.com/rss/articles/CBMixwFBVV95cUxNX25EUDNKQWNNS0lfZGl4bWtTWThKYlJ2cHpjSWtneUUxNlo2N0Q0TVNsRlo0QXZTLTlfYkRBcDlNRUx1RUhYMm9pbDJUUmRzQ0lLVDFjRi1VM2NlenRCMFpnbkttUVVHUlByOUpkQ0dWR04zYzJJSXB2RFd2SlVQbnFiX29SY0FBQjh3eHBoMHFwMnViTUhYaGxaTlg3ZzFMRGx1aC0tVGxrS1BjVG5HLU9OWW1zdUY0N2RmcVYxOGZhREJiTjZ30gHPAUFVX3lxTE5Gc2xVdkQ4NGhBY1ZRODl1Y1dLSGhFVHFvenZHNFhnX1dhdS1vU0xpbkpjZmtmS2dkOEVIYVFwaU1XNzUtV3RSMzhmSGlkRVBmbjVwcDR1dGdON09YX1I1WUkzY3ZuLXkwY3VpSGg0UWVHbEQwUmN4TWhVZFlLMGNVXy1SS1ZTdEVNeWZDck5hQmN1dUs4aWQ5WFFXMjNrcmFrUFdpbEJvS2pTU2t5VWdtNVplMlp6cjhNaWVVLVNwRHdwZ1p1VHJnWGV4VFFFUQ?oc=5": 1791709285.4739912,
+  "http://lokaantar.com/story/331043/2026/10/11/rabi-lamichhane-": 1791709285.4739912
  },
  "queue": [
-  {
-   "title": "Rajdevi Temple decorated for Dashain",
-   "summary": "By Laxmi Chaudhary, Janakpurdham, Oct. 11: The famous Rajdevi Temple in Janakpurdham has been decorated for Vijaya Dasha...",
-   "link": "https://risingnepaldaily.com/news/87651",
-   "source": "Rising Nepal",
-   "ts": 1791680371,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Rajdevi Temple decorated for Dashain",
-   "en": "Rajdevi Temple decorated for Dashain",
-   "ne": "Rajdevi Temple decorated for Dashain",
-   "imp": 2,
-   "tags": [
-    "RajdeviTemple",
-    "Dashain"
-   ],
-   "cat": "culture",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "देशका हिमाली र पहाडी भूभागमा वर्षा र हिमपातको सम्भावना",
-   "summary": "काठमाडौँ, असोज २५ गते । हाल देशमा पश्चिमी न्यून चापीय प्रणालीका साथै मनसुनी वायुको प्रभाव छ । हिमाली भूभागमा साधारणतया बादल लागेको छ भने बाँकी भूभागमा आंशिक बादल लागेको छ ।आज दिउँस...",
-   "link": "https://gorkhapatraonline.com/news/226231",
-   "source": "Gorkhapatra",
-   "ts": 1791680090,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/387524/conversions/mansoon-original-thumb-(1)-original.jpg",
-   "lang": "ne",
-   "hl": "देशका हिमाली र पहाडी भूभागमा वर्षा र हिमपातको सम्भावना",
-   "en": "देशका हिमाली र पहाडी भूभागमा वर्षा र हिमपातको सम्भावना",
-   "ne": "देशका हिमाली र पहाडी भूभागमा वर्षा र हिमपातको सम्भावना",
-   "imp": 3,
-   "tags": [
-    "Rain",
-    "HimalayanRegion"
-   ],
-   "cat": "weather",
-   "val": 2,
-   "teaser": false,
-   "hits": 5
-  },
-  {
-   "title": "Bada Dashain kicks off with Ghatasthapana today",
-   "summary": "Kathmandu, Oct 11: The \"Navaratri,\" a nine-night festival celebrated as Bada Dashain, has officially begun today, markin...",
-   "link": "https://risingnepaldaily.com/news/87652",
-   "source": "Rising Nepal",
-   "ts": 1791679936,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Bada Dashain kicks off with Ghatasthapana today",
-   "en": "Bada Dashain kicks off with Ghatasthapana today",
-   "ne": "Bada Dashain kicks off with Ghatasthapana today",
-   "imp": 2,
-   "tags": [
-    "Dashain",
-    "Ghatasthapana",
-    "बडादसैँ"
-   ],
-   "cat": "culture",
-   "val": 3,
-   "teaser": false,
-   "hits": 6
-  },
-  {
-   "title": "अवरुद्ध पृथ्वी राजमार्ग सञ्चालन",
-   "summary": "नारायणगढ, असोज २५ गते । धादिङको गजुरी गाउँपालिका-५, गलौदीमा सडक भासिएर अवरुद्ध भएको पृथ्वी राजमार्ग शनिबार राति १० बजेदेखि एकतर्फी सञ्चालनमा आएको छ । एकतर्फी खुला भएसँगै अलपत्र परे...",
-   "link": "https://gorkhapatraonline.com/news/226230",
-   "source": "Gorkhapatra",
-   "ts": 1791679970,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/387523/conversions/newsupdate-photo-original.jpg",
-   "lang": "ne",
-   "hl": "अवरुद्ध पृथ्वी राजमार्ग सञ्चालन",
-   "en": "अवरुद्ध पृथ्वी राजमार्ग सञ्चालन",
-   "ne": "अवरुद्ध पृथ्वी राजमार्ग सञ्चालन",
-   "imp": 3,
-   "tags": [
-    "PritviHighway",
-    "Blocked"
-   ],
-   "cat": "disaster",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
   {
    "title": "बूढीगण्डकीमा ठूलो बाढी, मौसमविद् भन्छन्- पानी परेको छैन",
    "summary": "",
@@ -4118,7 +4031,7 @@
    "cat": "disaster",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "डाइनोसर कसरी लोप भयो ?",
@@ -4439,7 +4352,7 @@
    "cat": "disaster",
    "val": 3,
    "teaser": false,
-   "hits": 8
+   "hits": 9
   },
   {
    "title": "SS Rajamouli Celebrates 53rd Birthday, A Look at His Illustrious Career",
@@ -9566,7 +9479,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1791708676,
+ "updated": 1791709290,
  "pending_since": 1791708048.0101225,
  "fb_blocks": [
   1790350880.4125228,
