@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://www.setopati.com/social/400501": 1791601288.0329444,
-  "http://lokaantar.com/story/330938/2026/10/10/bp-high-way-": 1791601288.0329444,
   "http://english.ratopati.com/story/83111/congress-general-convention-ballot-boxes-delivered-to-sanepa-discussion-with-candidates-at-1-pm-then-vote-counting": 1791601850.2514853,
   "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQ3F3Q29uazhaMF9zY2pqczFkYWU1U0huM3MyWV9kTk1fdWxLRkh3WUdNZWFWcmRYbmhfQVlycmgxY1NUVUExZHAyZmkwdzhBUndrNlRsa3VtV1d4OVp2eTJDcjgtX1dib0dRMUw5V2hrOERIVWlyU0R1OTJPREo0Rno4eEFrZw?oc=5": 1791601850.2514853,
   "http://lokaantar.com/story/330937/2026/10/10/gagan-bishwa-": 1791601850.2514853,
@@ -2300,7 +2298,10 @@
   "http://english.ratopati.com/story/83382/ramayanas-first-part-release-date-set-new-poster-released": 1791773452.550671,
   "http://lokaantar.com/story/331110/2026/10/12/task-force-": 1791773452.550671,
   "https://english.onlinekhabar.com/chandra-bhandari-after-victory.html": 1791773452.550671,
-  "https://english.onlinekhabar.com/e1lected-congress-general-secretaries.html": 1791773452.550671
+  "https://english.onlinekhabar.com/e1lected-congress-general-secretaries.html": 1791773452.550671,
+  "https://news.google.com/rss/articles/CBMi5gFBVV95cUxONVhNUkNsRGtGaDA1TnNQYTRlZS0yZDlOR20yNFNKS1pHaHFCNGlRTko4b2JrNjgxZmlKVHFwSzN1ZXlUYms2cUVSb0pzSWVLOEZIcnE4M3ZvTU50Rzc2Yy1VWndYTHpHeGFVT3g1MFl6VjdTT0tZdlcxVWdCUUhGNDQ0RmlCVHpCRkZYT2xMY2lyUGtFd3kxR3lkcWp4NTFSa0Q4amVKQ1RMTTB4UEt4aVo1bHFpaWdvWDN4aVN5djZUQ0FHa3Zqb3lJbUI5WnJVWUFaWHJwUWVyWExmenpmQklOTl9zUdIB5gFBVV95cUxONVhNUkNsRGtGaDA1TnNQYTRlZS0yZDlOR20yNFNKS1pHaHFCNGlRTko4b2JrNjgxZmlKVHFwSzN1ZXlUYms2cUVSb0pzSWVLOEZIcnE4M3ZvTU50Rzc2Yy1VWndYTHpHeGFVT3g1MFl6VjdTT0tZdlcxVWdCUUhGNDQ0RmlCVHpCRkZYT2xMY2lyUGtFd3kxR3lkcWp4NTFSa0Q4amVKQ1RMTTB4UEt4aVo1bHFpaWdvWDN4aVN5djZUQ0FHa3Zqb3lJbUI5WnJVWUFaWHJwUWVyWExmenpmQklOTl9zUQ?oc=5": 1791774089.3160713,
+  "https://english.onlinekhabar.com/congress-madhu-acharya.html": 1791774089.3160713,
+  "https://nagariknews.nagariknetwork.com/politics/uml-s-nominated-central-member-to-take-oath-today-62-24.html": 1791774089.3160713
  },
  "queue": [
   {
@@ -3165,7 +3166,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Nepali Authors Represent Nepal at Frankfurt Book Fair",
@@ -3597,7 +3598,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Pakistan imposes emergency rule in Imran Khan's provincial stronghold",
@@ -4220,17 +4221,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1791168654.2958267,
-   "en": "चार वर्षपछि कतारमा भेट्ने वाचासहित २०औं एसियन गेम्स समापन",
-   "ne": "चार वर्षपछि कतारमा भेट्ने वाचासहित २०औं एसियन गेम्स समापन",
-   "link": "https://www.onlinekhabar.com/2026/10/2032395/the-20th-asian-games-ended-with-a-promise-to-meet-again-in-qatar-after-four-years",
-   "source": "Onlinekhabar",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "sports"
-  },
   {
    "ts": 1791170461.992069,
    "en": "बागलुङमा सडक खन्ने क्रममा माटोको ढिस्को खस्दा तीनजना पुरिए",
@@ -7488,8 +7478,8 @@
    "cat": "disaster"
   }
  ],
- "updated": 1791773475,
- "pending_since": null,
+ "updated": 1791774092,
+ "pending_since": 1791774089.3160713,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
