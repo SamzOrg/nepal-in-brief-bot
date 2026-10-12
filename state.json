@@ -1,8 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMikgFBVV95cUxQV0RibmNGQkdXR0IwRXF4LXd4ejc1akNHR2RxbmRyaGVtRFJNbHJsY29MZk1yV19Lczk0ZlVjNkI4VEQzVHNWU0Nob21JbkZGMEMzTXBSeFZ1RGdBSXluR0Zycm93V3JqbmNCMVdWaVBPRlhObWFnVzh3Z3BzVDMyT2ZyUnp0MEFxc01EM19kNDU3UdIBXEFVX3lxTFBLZWZGaDNzQ1JIb2E0TkRvNUtQRl9SelB0V0pmYjBhc3l3NkJNN2xILVctTW1kdEE5bjJ5cThreHlHVnF2ZW1FUE1DV01MNFphS0FfRHdubnUxaGFD?oc=5": 1791624671.7968884,
-  "http://lokaantar.com/story/330966/2026/10/10/gagan-thapa-": 1791624671.7968884,
-  "https://nagariknews.nagariknetwork.com/social-affairs/it-will-cost-one-billion-to-rebuild-the-besisahar-chame-road-damaged-by-floods-and-landslides-22-55.html": 1791624671.7968884,
   "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSEtsbGZQRU5vclR2ck5tclZsUVE2cUVzMl9WbWJTRG9OV256TlBsTlEyR09OY1NHODZBTzJGdkpFOWdNZnkwbzJVRjBNeDI3SlR4Yk5oU2tYaGpYUUhBVVBCVnBQcWlWVlY3MWktR04yNFdEbmJ0WFNEdGlTRnJYRHd3WTBoRThVZlhHa1Nnb1pGMk1SVS1CNUxObTNPdlF5WWN6cXhENFN4Um1tT2dMbjg5aVNuUms?oc=5": 1791625253.2415853,
   "http://english.ratopati.com/story/83187/newly-elected-president-gagan-thapa-receives-grand-welcome-in-sanepa-photos": 1791625253.2415853,
   "http://english.ratopati.com/story/83186/the-current-session-of-the-koshi-provincial-assembly-ends": 1791625253.2415853,
@@ -2517,7 +2514,15 @@
   "https://news.google.com/rss/articles/CBMic0FVX3lxTE9QbS1nczl1Y28yMVFaRzZHTk50dHgwZ0xXajQwdS1FZmE5dTdhekk4aS1HcFRLak5ZcXFqVzhKUW0xVVd6WEN5ZWQ5a2dTTktjdUo2YUxVYmhaeUY4T1BjbUNGckRfZ1RBdWdzTlYzLS1ZN2M?oc=5": 1791796854.8645773,
   "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZ1BLTWhMTmtqWm1ON0JzMk5UZGFwU3d2UEdva2JlYkZLWFMxaXN1NHQ5NW8zZi1aOENpWjdKRWVyVnpmVjJqTkdoRVRTX1pyOEpZWjNNWEY5ZGFXMmN1S19RWnI2MjBJNTdkWUxRVUgyZlFjdVVkUFJEVWdBcjY5U2lncG50dHNBdGdsWFdYQXUtZS0zMks3SXhCSzF5X0tOZmh5cDZna3FzVjAxQzFR?oc=5": 1791796854.8645773,
   "https://news.google.com/rss/articles/CBMif0FVX3lxTE5lMEw5MGE2SjMyNXppNjBKMG9lU09Nem95bGNJVVNJbU5CVndob2ZHSW55V2tTbU42T1BIS2QwNGt4TXZGbkVKNkVXbGkzR081Rm55TDRtODNyNzZqdU9nanI5OFdpWkphS3M0MlIwekNUQzNMTjBHRFRmbGZ5ZTg?oc=5": 1791796854.8645773,
-  "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNTDdZUkhJZWJRSnZxT3phd1NwSGJHMzRLOXJBTUkzZ1k0T0FTT2Q0a25VaWtud21iSkdLbGdpdWpDVWREX1duU2xUNzJERldjQllMRC1vMHZ2Y29yVW9MOXMzRnFsbjdpTVJvbWx2RlFMcHZfTVhCaXpsd0txajVMY19OS09jMXNPQVh5d2tEMHJBMjcxWUs0MXA4ZXU4bjlRRzQ0aXVhVjFmSW16SlBoM0hRTmRVc2FRczNmNmJRUmVsRXFZTUZ5Y0RCcUtkbWF2S1dURkZyNmNBN1RBTUV4NjBBN3BfbGs?oc=5": 1791796854.8645773
+  "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNTDdZUkhJZWJRSnZxT3phd1NwSGJHMzRLOXJBTUkzZ1k0T0FTT2Q0a25VaWtud21iSkdLbGdpdWpDVWREX1duU2xUNzJERldjQllMRC1vMHZ2Y29yVW9MOXMzRnFsbjdpTVJvbWx2RlFMcHZfTVhCaXpsd0txajVMY19OS09jMXNPQVh5d2tEMHJBMjcxWUs0MXA4ZXU4bjlRRzQ0aXVhVjFmSW16SlBoM0hRTmRVc2FRczNmNmJRUmVsRXFZTUZ5Y0RCcUtkbWF2S1dURkZyNmNBN1RBTUV4NjBBN3BfbGs?oc=5": 1791796854.8645773,
+  "https://english.onlinekhabar.com/shanti-bazaar-devastated-by-budhi-gandaki-flood-in-pictures.html": 1791797474.7055354,
+  "https://risingnepaldaily.com/news/87713": 1791797474.7055354,
+  "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBFOVU1cUNtVVptdFNva1l4YmdMdERCMmc3WnFSU1UyWWJ4aG5DM1R0THZ1S0VCYkd0bUZnOU5NSkVIMFR0U0VpbmwzMEUzb3I0dmlROXFGWXZRQ0V6bzdJ?oc=5": 1791797474.7055354,
+  "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMnBySTRzV1F3X2hPRU9Oc09LWTA0dXJINDhOMEYydjQ5enZmVXFrdmlsVFg0Y0NRUmFRa0k5ODZhUGdCbnAwQ1l5bmtUREdrdUFvNHBwMndCbkttRFhQMG9iNWtxN1JaNTNGMHc4SmlzUFd4enNzaVZraFdxd2gyTUtzSkhFSlctc21fatIBiwFBVV95cUxOdk9keGgwTDZSYzV4OHIzeXNnQ3RBY1JzNWNjSWljUlJDYUxsX3REWE9LSTBLR3hMYm4wMnVWcHdaTWQ2WXJMOXFpX216MzBqM1BoT2NiRXdTSVVnNERSWkJJRjJuUWhYLWp1TGdqQXgxYU5tNTdDUnlTR2tuYUpFcUV0Y0d0VTYyT09V?oc=5": 1791797474.7055354,
+  "https://news.google.com/rss/articles/CBMihAFBVV95cUxPekh2amVaVXFoZFV0NFZLRzVsSFdTY25fREsyQ0J3OHJORmo2TExTVHBDWEdldnE1aFp0cFBRNmZlZU9FZldGZkY4MWFjVlBmeV9KRXVFYjdqYV9OWUFONnFqVVQ5cXNvRkFxeVZiVE9nZFJJOWgzVGVBRzR4NjFpcF95U08?oc=5": 1791797474.7055354,
+  "https://kathmandupost.com/money/2026/10/12/court-ruling-leads-to-cancellation-of-perfect-center-fillz-trademark": 1791797474.7055354,
+  "http://lokaantar.com/story/331141/2026/10/12/tourist-": 1791797474.7055354,
+  "https://www.setopati.com/social/400664": 1791797474.7055354
  },
  "queue": [
   {
@@ -2567,51 +2572,6 @@
    "hits": 2
   },
   {
-   "title": "Madhu Acharya pledges to bring Gen Z, democrats outside party into Nepali Congress",
-   "summary": "KATHMANDU: Madhu Acharya, who was elected Vice President of the Nepali Congress (NC) at the party's 15th General Convention, has said he will take the initiative to bring democrats and members of the Gen Z who remain...",
-   "link": "https://english.khabarhub.com/2026/12/571651/",
-   "source": "Khabarhub EN",
-   "ts": 1791768542,
-   "weight": 2,
-   "img": "https://english.khabarhub.com/wp-content/uploads/2026/10/Madhu-Acharya-Nepali-Congress-400x220.jpg",
-   "lang": "en",
-   "hl": "Madhu Acharya pledges to bring Gen Z, democrats outside party into Nepali Congress",
-   "en": "Madhu Acharya pledges to bring Gen Z, democrats outside party into Nepali Congress",
-   "ne": "Madhu Acharya pledges to bring Gen Z, democrats outside party into Nepali Congress",
-   "imp": 3,
-   "tags": [
-    "MadhuAcharya",
-    "NepaliCongress",
-    "GenZ"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "Nepali Authors Represent Nepal at Frankfurt Book Fair",
-   "summary": "Frankfurt. Nepali writers Pushparaj Joshi and Leelraj Karki have represented Nepal at one of the world's largest book fairs, the...",
-   "link": "http://english.ratopati.com/story/83380/nepals-participation-in-the-frankfurt-book-fair-excerpt-from-reading-by-authors-joshi-and-karki",
-   "source": "Ratopati EN",
-   "ts": 1791768436,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/frankfurt-book-fair_P2yW6umKKT.webp",
-   "lang": "en",
-   "hl": "Nepali Authors Represent Nepal at Frankfurt Book Fair",
-   "en": "Nepali Authors Represent Nepal at Frankfurt Book Fair",
-   "ne": "Nepali Authors Represent Nepal at Frankfurt Book Fair",
-   "imp": 2,
-   "tags": [
-    "FrankfurtBookFair",
-    "NepaliAuthors"
-   ],
-   "cat": "culture",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
    "title": "चार किलोमिटर टाढाबाट सल्यानथरीमा पुग्यो खानेपानी",
    "summary": "शंकर केसीसल्यान, असोज २६ गते । दुःख र संघर्षले भरिएको सल्यानको कालिमाटी गाउँपालिका, ७ सल्यानथरीका १७ घरपरिवारमा अहिले घरकै धाराबाट पानी आउँछ । कुनै समय पानी लिन घण्टौँ हिँड्नुपर्ने...",
    "link": "https://gorkhapatraonline.com/news/226360",
@@ -2629,52 +2589,6 @@
     "Salyanthari"
    ],
    "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "के नेप्से फर्किन खोजेको हो?",
-   "summary": "नेप्सेमा 'डब्लू' आकृति बनेसँगै बजार फर्किने संकेत देखिएको छ। तर, समग्र बजारमा अझै बियरिस प्रवृत्ति कायम छ। बैंकिङ र उत्पादनमूलक समूह मात्रै बुलिश अवस्थामा छन्। के नेप्सेले गति समात्न खोजेको हो?",
-   "link": "https://www.setopati.com/kinmel/banking/400616",
-   "source": "Setopati",
-   "ts": 1791768086,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "के नेप्से फर्किन खोजेको हो?",
-   "en": "के नेप्से फर्किन खोजेको हो?",
-   "ne": "के नेप्से फर्किन खोजेको हो?",
-   "imp": 2,
-   "tags": [
-    "Nepse",
-    "StockMarket",
-    "नेप्से"
-   ],
-   "cat": "economy",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "Three Die in Kerala After Drunk Driver Hits Scooter",
-   "summary": "Kerala. Three people died when a Mini Cooper car, driven at high speed after consuming intoxicating substances near Cochin International...",
-   "link": "http://english.ratopati.com/story/83379/19-year-old-drunk-driver-hits-scooter-in-kerala-killing-three",
-   "source": "Ratopati EN",
-   "ts": 1791768127,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/minicooper_1791715081883_bt5o_17_xjXGBgB04q.webp",
-   "lang": "en",
-   "hl": "Three Die in Kerala After Drunk Driver Hits Scooter",
-   "en": "Three Die in Kerala After Drunk Driver Hits Scooter",
-   "ne": "Three Die in Kerala After Drunk Driver Hits Scooter",
-   "imp": 1,
-   "tags": [
-    "Kerala",
-    "Accident",
-    "DrunkDriving"
-   ],
-   "cat": "world",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -4072,7 +3986,7 @@
    "cat": "disaster",
    "val": 2,
    "teaser": false,
-   "hits": 10
+   "hits": 11
   },
   {
    "title": "Devotees Flock to Maitidevi Temple on Second Day of Dashain",
@@ -5094,29 +5008,6 @@
    "val": 3,
    "teaser": false,
    "hits": 2
-  },
-  {
-   "title": "Gold price drops by Rs 2, 100 per tola on Monday",
-   "summary": "The price of gold has dropped by Rs 2, 100 per tola in the domestic market on Monday. According to the Federation of Nepal Gold and Silver Dealers' Association, the yellow metal is being traded at Rs 294, 400 per tola...",
-   "link": "https://theannapurnaexpress.com/story/67859",
-   "source": "Annapurna Express",
-   "ts": 1791768671.7870939,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Gold price drops by Rs 2, 100 per tola on Monday",
-   "en": "Gold price drops by Rs 2, 100 per tola on Monday",
-   "ne": "Gold price drops by Rs 2, 100 per tola on Monday",
-   "imp": 2,
-   "tags": [
-    "GoldPrice",
-    "Market",
-    "Nepal"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 3
   },
   {
    "title": "मुख्यमन्त्री सम्मेलनको तयारी पूरा",
@@ -7498,7 +7389,7 @@
    "cat": "disaster",
    "val": 3,
    "teaser": false,
-   "hits": 3
+   "hits": 4
   },
   {
    "title": "El Niño pushes sea surface temperatures to record high",
@@ -7636,7 +7527,7 @@
    "cat": "economy",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "Indian opposition leaders to march to top court to demand election chief resign",
@@ -8007,28 +7898,6 @@
    ],
    "cat": "culture",
    "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Nepal U17",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPY2VtQW56VXk5MFBfQlJCb1RiTklES3BDajcxMFRxWGxreC1iWjh1R1RFTWpjU2NETVpIel9kOG5VNExDbkd0TlVYelNCTnVBd0YxQVpVRUxEYlFhSWVHeEJRUEI5c2tReEpuQTFOd2g2NTJjMHZvdVdQV0FvQVc0bkVlc0w?oc=5",
-   "source": "Transfermarkt",
-   "ts": 1791768118,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Nepal U17",
-   "en": "Nepal U17",
-   "ne": "Nepal U17",
-   "imp": 2,
-   "tags": [
-    "NepalU17",
-    "Football"
-   ],
-   "cat": "sports",
-   "val": 1,
    "teaser": false,
    "hits": 1
   },
@@ -8539,30 +8408,6 @@
    "hits": 1
   },
   {
-   "title": "Rescue helicopters race to flood-hit Nepal villages",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQODBHU2Fnd0lrSzFWQklJSlFzMGdPU3FsNl82WFp3ZERmUnVGZk9pT2lrN2pHTlNCWHVvNWJFV1UyVWU3cjQzckNmTEpaVlJDaEdxRXV3ZkF4MUl5TTd4Y3VVVDdwYmcwM0NHTHF2NHJhUmNOZlUydy1XM2FodGFraUxWR0RDMVFMSHZpUkpqdmlZRjJ1NlFFQUtkdTF6X1FkVWRkOXlmOE5LSTVMeVgwb3RJYmNuWEQ1?oc=5",
-   "source": "Richmond & Twickenham Times",
-   "ts": 1791786129,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Rescue helicopters race to flood-hit Nepal villages",
-   "en": "Rescue helicopters race to flood-hit Nepal villages",
-   "ne": "Rescue helicopters race to flood-hit Nepal villages",
-   "imp": 5,
-   "tags": [
-    "Flood",
-    "Rescue",
-    "Helicopter",
-    "उद्धार"
-   ],
-   "cat": "disaster",
-   "val": 2,
-   "teaser": false,
-   "hits": 2
-  },
-  {
    "title": "More than 100 foreign trekkers stranded in flood-hit region of Nepal, official says",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNTDdZUkhJZWJRSnZxT3phd1NwSGJHMzRLOXJBTUkzZ1k0T0FTT2Q0a25VaWtud21iSkdLbGdpdWpDVWREX1duU2xUNzJERldjQllMRC1vMHZ2Y29yVW9MOXMzRnFsbjdpTVJvbWx2RlFMcHZfTVhCaXpsd0txajVMY19OS09jMXNPQVh5d2tEMHJBMjcxWUs0MXA4ZXU4bjlRRzQ0aXVhVjFmSW16SlBoM0hRTmRVc2FRczNmNmJRUmVsRXFZTUZ5Y0RCcUtkbWF2S1dURkZyNmNBN1RBTUV4NjBBN3BfbGs?oc=5",
@@ -8581,6 +8426,29 @@
     "Nepal"
    ],
    "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 3
+  },
+  {
+   "title": "पाकिस्तानको खैबर पख्तुनख्वामा संकटकाल, इमरान खानको पार्टीको प्रान्तीय सरकार निलम्बित",
+   "summary": "पाकिस्तानका राष्ट्रपति आसिफ अली जरदारीले अफगानिस्तानसँग सीमा जोडिएको खैबर पख्तुनख्वा प्रान्तमा आइतबार संकटकाल घोषणा गर्दै जेलमा रहेका पूर्वप्रधानमन्त्री इमरान खानको पार्टीको नेतृत्वमा रहेको प्रान्तीय सरकार निलम्बन गरेका...",
+   "link": "https://www.setopati.com/social/400664",
+   "source": "Setopati",
+   "ts": 1791797032,
+   "weight": 3,
+   "img": null,
+   "lang": "ne",
+   "hl": "पाकिस्तानको खैबर पख्तुनख्वामा संकटकाल, इमरान खानको पार्टीको प्रान्तीय सरकार निलम्बित",
+   "en": "पाकिस्तानको खैबर पख्तुनख्वामा संकटकाल, इमरान खानको पार्टीको प्रान्तीय सरकार निलम्बित",
+   "ne": "पाकिस्तानको खैबर पख्तुनख्वामा संकटकाल, इमरान खानको पार्टीको प्रान्तीय सरकार निलम्बित",
+   "imp": 1,
+   "tags": [
+    "Pakistan",
+    "ImranKhan",
+    "KhyberPakhtunkhwa"
+   ],
+   "cat": "world",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -11842,9 +11710,20 @@
    "n_ig": 1,
    "brk": true,
    "cat": "disaster"
+  },
+  {
+   "ts": 1791797482.848741,
+   "en": "Rescue helicopters evacuate residents and tourists after flash flood in north central Nepal",
+   "ne": "Rescue helicopters evacuate residents and tourists after flash flood in north central Nepal",
+   "link": "https://www.richmondandtwickenhamtimes.co.uk/news/national/26626695.rescue-helicopters-race-flood-hit-nepal-villages/",
+   "source": "Richmond & Twickenham Times",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "disaster"
   }
  ],
- "updated": 1791796876,
+ "updated": 1791797496,
  "pending_since": 1791795967.5203202,
  "fb_blocks": [
   1790350880.4125228,
