@@ -2259,7 +2259,11 @@
   "https://gorkhapatraonline.com/news/226346": 1791766249.7618024,
   "https://kathmandupost.com/national/2026/10/12/flood-damage-makes-journeys-longer-and-costlier-in-rasuwa": 1791766885.368302,
   "https://kathmandupost.com/national/2026/10/12/locals-alerted-each-other-of-budhigandaki-flood-an-hour-before-official-warning": 1791766885.368302,
-  "https://kathmandupost.com/columns/2026/10/11/bhotekoshi-flood-wasn-t-a-freak-event-it-s-the-himalaya-doing-what-it-does": 1791766885.368302
+  "https://kathmandupost.com/columns/2026/10/11/bhotekoshi-flood-wasn-t-a-freak-event-it-s-the-himalaya-doing-what-it-does": 1791766885.368302,
+  "https://news.google.com/rss/articles/CBMitwFBVV95cUxOd1pMc1ltdVhJdG9BUzZqMU5qTHhubGIzRjI2anBuZTlTOVpCOTlTMndpLWQ2allwbWZEVlB0QWZyY1k3QVVRV0hGUktoRmJuWUhfemZzbDdPSVBBM2xGU2JaT0FDMVc1cDZuRlRmdVA0S0JmM0Q3Rk5wNXMtODBIUlNOMG13bVVNcHkwOHRkVHRGTHhwZ0JOdlJCNi1YdjNTeHh2TVRlZWVBVFZXSXlSa0ZKNmRrVlE?oc=5": 1791767448.7266836,
+  "https://baahrakhari.com/detail/504653": 1791767448.7266836,
+  "http://english.ratopati.com/story/83376/abhishek-and-arshdeeps-brilliant-performance-indias-thrilling-win-in-indore": 1791767448.7266836,
+  "http://lokaantar.com/story/331095/2026/10/12/saudi-": 1791767448.7266836
  },
  "queue": [
   {
@@ -2346,50 +2350,6 @@
    "tags": [
     "Ilam",
     "Gun"
-   ],
-   "cat": "crime",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "LP Gas Industry Association Arranges Special Distribution and Cylinder Exchange in Kathmandu Valley",
-   "summary": "Kathmandu. The Nepal LP Gas Industry Association has made special arrangements for LP gas sales, distribution, and cylinder exchange from...",
-   "link": "http://english.ratopati.com/story/83362/gas-sales-and-cylinder-exchange-to-be-held-at-designated-locations-in-kathmandu-valley-from-monday-with-list",
-   "source": "Ratopati EN",
-   "ts": 1791738539,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/lp-gas-distribution---1881_NxDEnac3U1.webp",
-   "lang": "en",
-   "hl": "LP Gas Industry Association Arranges Special Distribution and Cylinder Exchange in Kathmandu Valley",
-   "en": "LP Gas Industry Association Arranges Special Distribution and Cylinder Exchange in Kathmandu Valley",
-   "ne": "LP Gas Industry Association Arranges Special Distribution and Cylinder Exchange in Kathmandu Valley",
-   "imp": 2,
-   "tags": [
-    "LPGas",
-    "Kathmandu"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "मापसे गरी रात्रिकालीन बस चलाउने दुई चालक पक्राउ",
-   "summary": "काठमाडौँ, असोज २५ गते । मादक पदार्थ सेवन गरी रात्रिबस चलाएको आरोपमा काठमाडौँ उपत्यकाबाट दुई चालक पक्राउ परेका छन् ।काठमाडौँ उपत्यका ट्राफिक प्रहरी कार्यालयको टोलीले काठमाडौँको नयाँ...",
-   "link": "https://gorkhapatraonline.com/news/226341",
-   "source": "Gorkhapatra",
-   "ts": 1791738505,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/387695/conversions/ARREST-original.jpg",
-   "lang": "ne",
-   "hl": "मापसे गरी रात्रिकालीन बस चलाउने दुई चालक पक्राउ",
-   "en": "मापसे गरी रात्रिकालीन बस चलाउने दुई चालक पक्राउ",
-   "ne": "मापसे गरी रात्रिकालीन बस चलाउने दुई चालक पक्राउ",
-   "imp": 3,
-   "tags": [
-    "DrunkDriving",
-    "BusDriver"
    ],
    "cat": "crime",
    "val": 3,
@@ -2936,6 +2896,77 @@
    ],
    "cat": "society",
    "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "बूढीगण्डकी बाढीको कारण हिमपहिरो भएको सरकारको प्रारम्भिक निष्कर्ष",
+   "summary": "",
+   "link": "https://baahrakhari.com/detail/504653",
+   "source": "Baahrakhari",
+   "ts": 1791767066,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "बूढीगण्डकी बाढीको कारण हिमपहिरो भएको सरकारको प्रारम्भिक निष्कर्ष",
+   "en": "बूढीगण्डकी बाढीको कारण हिमपहिरो भएको सरकारको प्रारम्भिक निष्कर्ष",
+   "ne": "बूढीगण्डकी बाढीको कारण हिमपहिरो भएको सरकारको प्रारम्भिक निष्कर्ष",
+   "imp": 4,
+   "tags": [
+    "Budhigandaki",
+    "Flood",
+    "Avalanche",
+    "बुढीगण्डकी"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "India Defeats West Indies by 14 Runs in Third T20 International, Takes 2-1 Series Lead",
+   "summary": "Indore. India defeated West Indies by 14 runs in the third T20 International cricket match. With this victory, India has...",
+   "link": "http://english.ratopati.com/story/83376/abhishek-and-arshdeeps-brilliant-performance-indias-thrilling-win-in-indore",
+   "source": "Ratopati EN",
+   "ts": 1791766916,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/abhishek-sharma_JQ6AqxC8qd.webp",
+   "lang": "en",
+   "hl": "India Defeats West Indies by 14 Runs in Third T20 International, Takes 2-1 Series Lead",
+   "en": "India Defeats West Indies by 14 Runs in Third T20 International, Takes 2-1 Series Lead",
+   "ne": "India Defeats West Indies by 14 Runs in Third T20 International, Takes 2-1 Series Lead",
+   "imp": 1,
+   "tags": [
+    "Cricket",
+    "India",
+    "WestIndies",
+    "T20"
+   ],
+   "cat": "sports",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "साउदीको रियाद विमानस्थलमा लगातार दोस्रो दिन पनि आक्रमण, थप एकको मृत्यु",
+   "summary": "साउदी अरबको राजधानी रियादस्थित अन्तर्राष्ट्रिय विमानस्थलमा लगातार दोस्रो दिन पनि नयाँ आक्रमण भएको छ। पछिल्लो आक्रमणमा परी एक जनाको मृत्यु हुनुका साथै करिब एक दर्जन मानिस घाइते भएको अन्तर्राष्ट्रिय सञ्चार माध्यमहरूले...",
+   "link": "http://lokaantar.com/story/331095/2026/10/12/saudi-",
+   "source": "Lokaantar",
+   "ts": 1791753049.4490306,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "साउदीको रियाद विमानस्थलमा लगातार दोस्रो दिन पनि आक्रमण, थप एकको मृत्यु",
+   "en": "साउदीको रियाद विमानस्थलमा लगातार दोस्रो दिन पनि आक्रमण, थप एकको मृत्यु",
+   "ne": "साउदीको रियाद विमानस्थलमा लगातार दोस्रो दिन पनि आक्रमण, थप एकको मृत्यु",
+   "imp": 1,
+   "tags": [
+    "SaudiArabia",
+    "Riyadh",
+    "AirportAttack"
+   ],
+   "cat": "world",
+   "val": 3,
    "teaser": false,
    "hits": 1
   }
@@ -6209,7 +6240,7 @@
    "cat": "society"
   }
  ],
- "updated": 1791766889,
+ "updated": 1791767455,
  "pending_since": 1791766885.368302,
  "fb_blocks": [
   1790350880.4125228,
