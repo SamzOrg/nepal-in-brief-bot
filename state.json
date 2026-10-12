@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://nagariknews.nagariknetwork.com/social-affairs/passenger-vehicles-given-priority-on-alternative-routes-after-prithvi-highway-is-blocked-36-99.html": 1791615688.1383324,
   "https://gorkhapatraonline.com/news/226163": 1791616255.0284405,
   "http://english.ratopati.com/story/83161/kathmandu-wins-gauri-shankar-womens-cricket-title": 1791616255.0284405,
   "https://www.setopati.com/social/400511": 1791616255.0284405,
@@ -2393,7 +2392,12 @@
   "http://english.ratopati.com/story/83421/warm-clothes-distributed-to-over-600-students-in-belkotgadhi": 1791787854.1227171,
   "https://english.onlinekhabar.com/maldhunga-bridge-baglung-parbat-reopens.html": 1791787854.1227171,
   "https://nagariknews.nagariknetwork.com/economy/simric-initiative-to-invest-in-ventures-br-26-71.html": 1791787854.1227171,
-  "http://english.ratopati.com/story/83403/hail-victims-have-not-received-relief-for-6-months-they-say-the-government-is-also-lying": 1791787854.1227171
+  "http://english.ratopati.com/story/83403/hail-victims-have-not-received-relief-for-6-months-they-say-the-government-is-also-lying": 1791787854.1227171,
+  "http://english.ratopati.com/story/83426/police-inspectors-graduation-ceremony-in-pictures-photos": 1791788490.3577526,
+  "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMjhZbnQzVE5zWmwwNExMWXlreHBjT1R6aEpuVUExZ3dFVDA2Y3RzWENFOGg4MGd5TC1DcTBGZ3pXQ3h4VmNPN3BKQUluQjdSM05UUW0xN3ZaZGU0SlpEdkJRZDl5NHVhUlRmMU94WDRYSHpneTJJTFBnMUdXSXJ3R2FOdW9sMVlPWVV2N2JSMW1KS2xfalhDb1UzRHhJYlU?oc=5": 1791788490.3577526,
+  "https://news.google.com/rss/articles/CBMipwFBVV95cUxORGxmLWQ2LWNNNUZaSVRLR2xxSkRIM2d4NDZpSVhQRXNacDBaM2x2aHpFOW1KanVGNS1BODBYSVpsSFJtR2lGcjVJTFJPQUM1eFJzS3pzd2hsREgtLVVVU0hCOGdEM0x2d1hCRzJDQmhGTnllcU5wT2hMUVpzMVlkSjA4WnByZm9WZzdtTFBhbnJqT3QxMzN0RGgxTk9wN2hUYmhfV00wcw?oc=5": 1791788490.3577526,
+  "http://lokaantar.com/story/331125/2026/10/12/nainsingh-mahar-": 1791788490.3577526,
+  "https://news.google.com/rss/articles/CBMisAFBVV95cUxQektURDlTNVB4R1pxOTNQaE9qNnUtY09WU2M5Y1hldEIyS2R0c3laR0U2YWlZZ3JiYXJ2VVJRYlJobXNkVG5ZUDI3Uzl6Q3F4cUlxNjc2NXpkd2pwWUdveVlPRDBQQkNIRi1CV0NtaFp0UWdVbTNRT1JiZFVZdTVObDc1bG5EdlcyckRKVDlTaGQyeURid2UzWm9LRjc0azVrNndEUkdTaTVCSEw0MEEtQQ?oc=5": 1791788490.3577526
  },
  "queue": [
   {
@@ -5783,7 +5787,7 @@
    "cat": "crime",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Shuklaphanta National Park allows jungle safari for tourists",
@@ -6828,7 +6832,7 @@
    "cat": "disaster",
    "val": 3,
    "teaser": false,
-   "hits": 8
+   "hits": 9
   },
   {
    "title": "Nepal Red Cross steps up Budhigandaki flood response",
@@ -10848,8 +10852,8 @@
    "cat": "politics"
   }
  ],
- "updated": 1791787900,
- "pending_since": null,
+ "updated": 1791788499,
+ "pending_since": 1791788490.3577526,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
