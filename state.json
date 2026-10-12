@@ -2264,53 +2264,12 @@
   "https://kathmandupost.com/editorial/2026/10/11/prioritise-strategic-resettlement-to-protect-vulnerable-downstream-settlements": 1791768050.1967702,
   "http://lokaantar.com/story/331096/2026/10/12/mela-": 1791768050.1967702,
   "https://gorkhapatraonline.com/news/226355": 1791768050.1967702,
-  "https://nagariknews.nagariknetwork.com/social-affairs/a-glimpse-of-bhotekoshi-in-budhigandaki-timely-information-averted-human-loss-br-14-68.html": 1791768050.1967702
+  "https://nagariknews.nagariknetwork.com/social-affairs/a-glimpse-of-bhotekoshi-in-budhigandaki-timely-information-averted-human-loss-br-14-68.html": 1791768050.1967702,
+  "https://english.khabarhub.com/2026/12/571648/": 1791768669.3127134,
+  "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbEJWVnVwLWJvcTBmOEpzcEpxemdJYWI2TkZwcmpRNHEwNmFqNmpwTW8xRnp6V0RxRHhKem1YeU5BdFgtam1oZUZOYWpjdXhJTHFZNE9JUXBXUE5LTkNTaVRFX2JVUGFpYWFQdTYybXEtbnpFSzEtQ2JnTzVuN0VIUVZaQXZ3TXotTlpnRXYyTWIzUFNGT1VsOGZhN1ktUDN6Ry1GeUNpS2lhWC15a1ZITFRWdjZ6TktoYzV6UzdR?oc=5": 1791768669.3127134,
+  "http://lokaantar.com/story/331100/2026/10/12/-boat-capsizes-": 1791768669.3127134
  },
  "queue": [
-  {
-   "title": "पत्रकार स्वर्गीय पदम श्रेष्ठको योगदान समेटिएको स्मृतिग्रन्थ सार्वजनिक",
-   "summary": "शिवा तामाङ काठमाडौं, २०८३ असोज २५ गते। दिवङ्गत पत्रकार पदम श्रेष्ठको व्यक्तित्व, कृतित्व, सङ्घर्ष र समाजमा पुऱ्याएको योगदानको अभिलेखिकरण गर्दै प्रकाशित 'पदम श्रेष्ठ स्मृतिग्रन्थ'...",
-   "link": "https://gorkhapatraonline.com/news/226342",
-   "source": "Gorkhapatra",
-   "ts": 1791739534,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/387696/conversions/DSC009-original.jpg",
-   "lang": "ne",
-   "hl": "पत्रकार स्वर्गीय पदम श्रेष्ठको योगदान समेटिएको स्मृतिग्रन्थ सार्वजनिक",
-   "en": "पत्रकार स्वर्गीय पदम श्रेष्ठको योगदान समेटिएको स्मृतिग्रन्थ सार्वजनिक",
-   "ne": "पत्रकार स्वर्गीय पदम श्रेष्ठको योगदान समेटिएको स्मृतिग्रन्थ सार्वजनिक",
-   "imp": 2,
-   "tags": [
-    "PadamShrestha",
-    "स्मृतिग्रन्थ"
-   ],
-   "cat": "culture",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "इलाममा भरूवा बन्दुकसहित एकजना पक्राउ",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/504643",
-   "source": "Baahrakhari",
-   "ts": 1791739869,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "इलाममा भरूवा बन्दुकसहित एकजना पक्राउ",
-   "en": "इलाममा भरूवा बन्दुकसहित एकजना पक्राउ",
-   "ne": "इलाममा भरूवा बन्दुकसहित एकजना पक्राउ",
-   "imp": 2,
-   "tags": [
-    "Ilam",
-    "Gun"
-   ],
-   "cat": "crime",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
   {
    "title": "बुढीगण्डकी बाढीः चार जलविद्युत् आयोजनामा क्षति",
    "summary": "काठमाडौँ, असोज २५ गते । बुढीगण्डकी नदीमा आएको बाढीले चारवटा जलविद्युत् आयोजनामा क्षति पुगेको छ ।आज बिहान बुढीगण्डकी नदीमा आएको बाढीका कारण आयोजनाको क्याम्प क्षेत्र, बेलीब्रिज, निर...",
@@ -3247,20 +3206,32 @@
    "val": 3,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "जिबुटीको तटमा डुङ्गा पल्टिँदा १५ बालकालिकासहित १३९ आप्रवासीको मृत्यु",
+   "summary": "अफ्रिकी मुलुक जिबुटीको तट नजिकै आप्रवासीहरू सवार एउटा डुङ्गा पल्टिँदा १५ जना बालबालिकासहित कम्तीमा १३९ जनाको मृत्यु भएको छ। संयुक्त राष्ट्रसङ्घको अन्तर्राष्ट्रिय आप्रवासन सङ्गठन (आईओएम) का अनुसार घटनामा अन्य दर्जनौँ...",
+   "link": "http://lokaantar.com/story/331100/2026/10/12/-boat-capsizes-",
+   "source": "Lokaantar",
+   "ts": 1791754270.0496948,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "जिबुटीको तटमा डुङ्गा पल्टिँदा १५ बालकालिकासहित १३९ आप्रवासीको मृत्यु",
+   "en": "जिबुटीको तटमा डुङ्गा पल्टिँदा १५ बालकालिकासहित १३९ आप्रवासीको मृत्यु",
+   "ne": "जिबुटीको तटमा डुङ्गा पल्टिँदा १५ बालकालिकासहित १३९ आप्रवासीको मृत्यु",
+   "imp": 1,
+   "tags": [
+    "Djibouti",
+    "BoatAccident",
+    "Migrants"
+   ],
+   "cat": "world",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1791163285.1123216,
-   "en": "Ice-rock avalanche strikes Trishuli valley on August 26",
-   "ne": "Ice-rock avalanche strikes Trishuli valley on August 26",
-   "link": "https://english.onlinekhabar.com/climate-security-diplomacy.html",
-   "source": "Onlinekhabar EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "world"
-  },
   {
    "ts": 1791165055.008355,
    "en": "Shoe and Footwear Market Impacted by Floods, Prices to Remain Stable",
@@ -6518,7 +6489,7 @@
    "cat": "economy"
   }
  ],
- "updated": 1791768075,
+ "updated": 1791768674,
  "pending_since": 1791768050.1967702,
  "fb_blocks": [
   1790350880.4125228,
