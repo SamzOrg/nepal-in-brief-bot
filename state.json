@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://theannapurnaexpress.com/story/67812": 1791673284.4525666,
   "https://news.google.com/rss/articles/CBMitAFBVV95cUxPc1FTeE1JUWFPYWd1UFlqSlNlb2hMTzdhMXJhVzllR2NtR0tRUUJ4ZkZkd0pCQXdiSXFnOGNMMm1lS2hmVzR2S1djRHJtUWUxS28yZjh1eHJPOGViY2hXQW9SbmowWHV5WjI4SjFBMURzSThXS0xKb2xXUzFnUWlEaGd3emlaQzhPQ2R2T1BjeW55ekd5ZnF1aTRwZG5PNVJRVzhuVU5lYWhsWUdudl84cEI1SFY?oc=5": 1791673850.0355787,
   "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVHpjeDg2V1EtalByRHlCbmh0MkRwMklqdTNqVjkzMEdxd1k0eXMzWG84eHdOUGhyTEZPcVloaHk0S1djeW1KOWtDV2I3djF3bTh4bnlEY1R4MFZaQ18tVDBUenJYZ1IwNENIZWYya1BvSDFpQmtyRXlyUmYtd2pHSWI2b21YSXB3aURhQ3dXVHNIR2t3RTJXMENHR3JBSEF3Y3hNX2tnMVUtX0psNGpxTVh3?oc=5": 1791673850.0355787,
   "https://baahrakhari.com/detail/504528": 1791675067.8829474,
@@ -2720,7 +2719,11 @@
   "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUDJUQndpSWxyV3dtc2IwUzdLUFV3S0g4aUVUTkFfY2FNOEh3ZU1hWTRsNDEzUjRDaXRvUk41djVJZURfYUdHUmxRQVRRckh1NlBQbnZPUG1OQ1NDUVY2ZVJ5MUQtSU1UZ051VURUOFk2cTZmSWNraHphUDNuaDZvU3A2ZnhGOHJ0eFZZaC1DeklTLXpBcGFz?oc=5": 1791841245.8949335,
   "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcDZmUTBxTXBYa3ZsX0h3V1BBd1RwVHg1LV8zY2NiWEc0OV84UTBYT0ZpXzFrTGwwNDJSMXAya0h6cnVTb2kwT2U2MENjY0FyN2NkRlJwTkdOdFNXTjRJWlh5N3ZBWENtUjJVaDRhUW5qNEpadVRkMGNicFNqdEZZZktNdmxEZw?oc=5": 1791841851.8172114,
   "https://news.google.com/rss/articles/CBMirAFBVV95cUxPa05MM2xnQWpFY1dpYTlNLXF0VVVkQTNfOUZmTDR1TGNWV2xOTVU4cDJnZmZpdXhEN3ZITW50WS1rMzNIUHBLOWFmdkNtSzRXOUtKUjBabnk3clNEOFNyeEgyQncta3BGVWF5c2c2R0dDaHV2WEVwSmVJUHR0MnM5T0kxYUZnZzlkbDZwd2RKdWFSVWloa3M5eU1nOG1HRUgxVFJJZGd5eVREX1la?oc=5": 1791843058.0006824,
-  "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSnJaY0U4LWpDeFI2alhya1llLXNqa3JNLTJBTE5jWXl4c3dmT0NHNzhHSDFZeFhIWnREYWtYSFU5V0Q5YVdYeFVXbU0wRlpZZ2FNMExPVy11SWRHblJUcVh0MExsczlxMTIzQVJJQUt0MkQxdFBEeE9nV0VGT1RWVWVzeGdiczBRLU5RVjBxeXRHNFozMDBVMHJITG42a3JLWGxVTWZJS1FkdGVydDlNMEFPTGtKc0ZreUp5Q3dEaGhVM21VYkHSAcsBQVVfeXFMT2ZDa0dxcWh5SklvQmRYMUVueUFWT2tKSzk0NlVnQlJJbXFGX3FoVll3ZmIycUFWaEJzcDJ4YmN3ZUVxSUwwb0xjWTAtNE42R1VGTHRyX1c2S3ZHWXpzclhMNlZmUFBjVThvWHpMdHZNVDZqQ0E4YzlOak1FM0ZOZVk0eEFaSkNIaGdmcjBtZkQ4X3BkSUh1LTFZcmViTDB6cmV3WEJXdkRubEpmaTdSdXVqc01kMVdTTTZvUmxvRUJIUGgwVHJfWGI2cE0?oc=5": 1791844848.0645154
+  "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSnJaY0U4LWpDeFI2alhya1llLXNqa3JNLTJBTE5jWXl4c3dmT0NHNzhHSDFZeFhIWnREYWtYSFU5V0Q5YVdYeFVXbU0wRlpZZ2FNMExPVy11SWRHblJUcVh0MExsczlxMTIzQVJJQUt0MkQxdFBEeE9nV0VGT1RWVWVzeGdiczBRLU5RVjBxeXRHNFozMDBVMHJITG42a3JLWGxVTWZJS1FkdGVydDlNMEFPTGtKc0ZreUp5Q3dEaGhVM21VYkHSAcsBQVVfeXFMT2ZDa0dxcWh5SklvQmRYMUVueUFWT2tKSzk0NlVnQlJJbXFGX3FoVll3ZmIycUFWaEJzcDJ4YmN3ZUVxSUwwb0xjWTAtNE42R1VGTHRyX1c2S3ZHWXpzclhMNlZmUFBjVThvWHpMdHZNVDZqQ0E4YzlOak1FM0ZOZVk0eEFaSkNIaGdmcjBtZkQ4X3BkSUh1LTFZcmViTDB6cmV3WEJXdkRubEpmaTdSdXVqc01kMVdTTTZvUmxvRUJIUGgwVHJfWGI2cE0?oc=5": 1791844848.0645154,
+  "http://english.ratopati.com/story/83500/levante-and-sevilla-tied-3-3-in-thrilling-injury-time": 1791846087.7285614,
+  "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9RZFphRDQzQmlHcldDd2w2Z1NvQ2JwTjhXSGFxdUJyM0NoRS1aVnNEdGxSN0NPblhEbE1MdkgxcDdmcnlrY1BIdlNoTzlWblNadHZxQXlB?oc=5": 1791846087.7285614,
+  "https://news.google.com/rss/articles/CBMidEFVX3lxTE9DTG81Y0dhQlVpQWhybVFQd1RLVzRQQ2pxRTJHcmszQktFT05wNHpPYW51YVIzRlh1TnU1RGw4Mi0takE5SEJ2MndHbDhpWVNlcFFxRExRRGI2b1k5d0VaOC1UYks5RnZxWWhMZ3U1QjIyM2Nn?oc=5": 1791846087.7285614,
+  "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Zelo1dmN0bFh4cjR4QTZuakJ0YkVBdFlVR3ctUXFzR3ZhVmNtSG1iclh2THpWaDJ4T0s0Z1MtTU9XN0RXUnpLTVVpaFRzd0NleTl5cmln?oc=5": 1791846087.7285614
  },
  "queue": [
   {
@@ -2838,74 +2841,6 @@
    "val": 3,
    "teaser": false,
    "hits": 4
-  },
-  {
-   "title": "Gujarat man held at Indo-Nepal border for trafficking 2 Mizoram minors",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZmxEMml0UHhnYlBEV2N2NlFBR2NPRjBzNDRDc25NY0pEWnlmSHJxRUZYUmJwcGo4aTFNWkxyaDBQTURTcVIzM09UUUM1eWlIWUd1LWhfemRwWDRmakxqNTRyVjhRRXl5enZFblFzNVBxVFo4RENndUkwMmJVeDBaNXg4Z056V3RJc0EwUVdCUzJUbllfNnVTaXpMb3FoYjBXcjZUbXFHVEdjdlRKUEtTNkJNR0U3TjZoM2w2TnFvX2ZUMjZGTTA0M04yYXI2OGJ2Vzc4R1NLWEIzdkF4YVHSAeMBQVVfeXFMTV95bEota1U2UkRTVU8yRWVUb25zYnpFbk5LV2RVOTFTLVVwVmRuUnJXUkxrVVVoTlNuYklvNl9LT0tQV1dONUFyaFJsTi1DSlV1eXBITjNXWkR1MVpUZlo4d3ZxaGxIYUdPOGNiZ0hzVWd6SVpoSFNuVkltcGs0d1dVYmpNRFVjaGtoZ3lXQ3ZqalZjRVZlSXE5YUNtX2o3bmNnV0JmcUppZWlGYVp6LUhZSllROXBWTzRBSE5YZ29RdHMxWWd5cXYxN1BtSGVUdm9WXzUwd1hsa0YzYWVTbVMxX0k?oc=5",
-   "source": "The Times of India",
-   "ts": 1791816660,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Gujarat man held at Indo-Nepal border for trafficking 2 Mizoram minors",
-   "en": "Gujarat man held at Indo-Nepal border for trafficking 2 Mizoram minors",
-   "ne": "Gujarat man held at Indo-Nepal border for trafficking 2 Mizoram minors",
-   "imp": 3,
-   "tags": [
-    "IndiaNepalBorder",
-    "HumanTrafficking",
-    "Gujarat"
-   ],
-   "cat": "crime",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "EU Foreign Ministers Impose 1,600 New Sanctions on Russia's Military-Industrial Complex",
-   "summary": "Kathmandu. European Union (EU) foreign ministers have decided to impose approximately 1,600 new sanctions targeting Russia's military-industrial complex. EU Foreign...",
-   "link": "http://english.ratopati.com/story/83487/new-eu-sanctions-targeting-russias-military-industry",
-   "source": "Ratopati EN",
-   "ts": 1791817000,
-   "weight": 2,
-   "img": "https://rpcdn.ratopati.com/media/albums/european_ZYFdqvaoJs.JPG",
-   "lang": "en",
-   "hl": "EU Foreign Ministers Impose 1,600 New Sanctions on Russia's Military-Industrial Complex",
-   "en": "EU Foreign Ministers Impose 1,600 New Sanctions on Russia's Military-Industrial Complex",
-   "ne": "EU Foreign Ministers Impose 1,600 New Sanctions on Russia's Military-Industrial Complex",
-   "imp": 1,
-   "tags": [
-    "Russia",
-    "Sanctions"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "सहमहामन्त्रीमा ३७८६ मतगणना हुँदा खतिवडा र सिवाकोटीको अग्रता",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/504752",
-   "source": "Baahrakhari",
-   "ts": 1791816900,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "सहमहामन्त्रीमा ३७८६ मतगणना हुँदा खतिवडा र सिवाकोटीको अग्रता",
-   "en": "सहमहामन्त्रीमा ३७८६ मतगणना हुँदा खतिवडा र सिवाकोटीको अग्रता",
-   "ne": "सहमहामन्त्रीमा ३७८६ मतगणना हुँदा खतिवडा र सिवाकोटीको अग्रता",
-   "imp": 2,
-   "tags": [
-    "NepaliCongress",
-    "Election",
-    "कांग्रेस"
-   ],
-   "cat": "politics",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
   },
   {
    "title": "Poland PM Tusk Calls for Decisive Action Against Russia",
@@ -3431,21 +3366,33 @@
    "cat": "disaster",
    "val": 3,
    "teaser": false,
+   "hits": 2
+  },
+  {
+   "title": "Levante and Sevilla Draw 3-3 in Thrilling La Liga Match",
+   "summary": "Kathmandu. In a match held as part of the Spanish La Liga, Levante and Sevilla shared points by playing a...",
+   "link": "http://english.ratopati.com/story/83500/levante-and-sevilla-tied-3-3-in-thrilling-injury-time",
+   "source": "Ratopati EN",
+   "ts": 1791845505,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/levante_HOdKvBvyI2.webp",
+   "lang": "en",
+   "hl": "Levante and Sevilla Draw 3-3 in Thrilling La Liga Match",
+   "en": "Levante and Sevilla Draw 3-3 in Thrilling La Liga Match",
+   "ne": "Levante and Sevilla Draw 3-3 in Thrilling La Liga Match",
+   "imp": 1,
+   "tags": [
+    "Levante",
+    "Sevilla",
+    "LaLiga"
+   ],
+   "cat": "sports",
+   "val": 3,
+   "teaser": false,
    "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1791240656.3731408,
-   "en": "Far-Western Province Government Fails to Present Budget",
-   "ne": "Far-Western Province Government Fails to Present Budget",
-   "link": "http://english.ratopati.com/story/82454/budget-uncertainty-in-the-far-west-as-sources-are-not-finalized-chief-minister-who-said-he-would-bring-it-on-monday-is-ill",
-   "source": "Ratopati EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "politics"
-  },
   {
    "ts": 1791242464.9944184,
    "en": "2 Nepal nationals killed, 20 injured as bus rams trailer in Amroha",
@@ -6692,8 +6639,8 @@
    "cat": "disaster"
   }
  ],
- "updated": 1791845474,
- "pending_since": 1791844267.6153119,
+ "updated": 1791846092,
+ "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
