@@ -1,9 +1,5 @@
 {
  "seen": {
-  "https://english.khabarhub.com/2026/10/571466/": 1791631249.6419032,
-  "http://english.ratopati.com/story/83206/there-is-no-misunderstanding-between-the-leadership-and-the-office-bearers-comments-regarding-the-controversy-are-sponsored-chhabilal-bishwakarma": 1791631249.6419032,
-  "https://gorkhapatraonline.com/news/226190": 1791631249.6419032,
-  "https://baahrakhari.com/detail/504505": 1791631249.6419032,
   "http://english.ratopati.com/story/83209/final-series-of-league-2-nepal-plays-against-canada-today": 1791631868.4761996,
   "https://www.setopati.com/politics/400524": 1791631868.4761996,
   "http://english.ratopati.com/story/83204/talk-of-deteriorating-relations-with-general-secretary-pokharel-is-baseless-chairman-oli": 1791631868.4761996,
@@ -2571,7 +2567,11 @@
   "https://baahrakhari.com/detail/504717": 1791803453.0760493,
   "http://english.ratopati.com/story/83469/youtuber-jha-arrested-on-charges-of-vandalizing-a-shop": 1791803453.0760493,
   "http://english.ratopati.com/story/83468/proposed-ambassador-thapas-commitment-to-making-nepal-us-relations-a-medium-for-economic-prosperity-and-diplomatic-coordination": 1791803453.0760493,
-  "http://english.ratopati.com/story/83467/gagan-thapas-rival-khadgi-calls-for-unity-in-congress-after-the-general-convention-by-ending-factions-and-sub-groups": 1791803453.0760493
+  "http://english.ratopati.com/story/83467/gagan-thapas-rival-khadgi-calls-for-unity-in-congress-after-the-general-convention-by-ending-factions-and-sub-groups": 1791803453.0760493,
+  "https://english.onlinekhabar.com/hall-woodford-nobel-economics-prize.html": 1791804051.1853173,
+  "https://nagariknews.nagariknetwork.com/social-affairs/truck-accident-in-ghansikuwa-tanahun-driver-dies-co-driver-injured-br-45-10.html": 1791804051.1853173,
+  "https://nagariknews.nagariknetwork.com/social-affairs/cardamom-price-84-thousand-per-manat-br-92-22.html": 1791804051.1853173,
+  "https://nagariknews.nagariknetwork.com/politics/13-new-central-members-of-uml-take-oath-27-30.html": 1791804051.1853173
  },
  "queue": [
   {
@@ -2686,28 +2686,6 @@
    "hits": 1
   },
   {
-   "title": "मलाई प्राप्त भएको मत राजनीतिक यात्राको प्रेरणा हो- गुरूराज घिमिरे",
-   "summary": "घिमिरेले हार-जित लोकतन्त्रको स्वाभाविक प्रक्रिया भएको उल्लेख गर्दै निर्वाचनको परिणामबाट विचलित नभई नयाँ ढङ्गले राजनीतिक यात्रा अघि बढाउने बताएका छन्।",
-   "link": "https://www.setopati.com/politics/400634",
-   "source": "Setopati",
-   "ts": 1791775200,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "मलाई प्राप्त भएको मत राजनीतिक यात्राको प्रेरणा हो- गुरूराज घिमिरे",
-   "en": "मलाई प्राप्त भएको मत राजनीतिक यात्राको प्रेरणा हो- गुरूराज घिमिरे",
-   "ne": "मलाई प्राप्त भएको मत राजनीतिक यात्राको प्रेरणा हो- गुरूराज घिमिरे",
-   "imp": 3,
-   "tags": [
-    "GururajGhimire",
-    "NepaliCongress"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "पैँतिस शय्या पुग्यो सघन उपचार कक्ष",
    "summary": "लेखनाथ समाचारदातालेखनाथ, असोज २६ गते । पोखरा स्वास्थ्य विज्ञान प्रतिष्ठानको पश्चिमाञ्चल क्षेत्रीय अस्पतालको सघन उपचार कक्षमा पूर्वाधार थप गरिएको छ । विगतमा १० शय्याको सघन उपचार कक्...",
    "link": "https://gorkhapatraonline.com/news/226372",
@@ -2725,28 +2703,6 @@
     "Hospital"
    ],
    "cat": "health",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Forest in Pathibhara encroached",
-   "summary": "By Chandra Pandak, Taplejung, Oct. 12: The national forest in the Pathibhara area, a famous pilgrimage site in Taplejung...",
-   "link": "https://risingnepaldaily.com/news/87699",
-   "source": "Rising Nepal",
-   "ts": 1791774750,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Forest in Pathibhara encroached",
-   "en": "Forest in Pathibhara encroached",
-   "ne": "Forest in Pathibhara encroached",
-   "imp": 2,
-   "tags": [
-    "Pathibhara",
-    "Encroachment"
-   ],
-   "cat": "society",
    "val": 2,
    "teaser": false,
    "hits": 1
@@ -2793,97 +2749,6 @@
    ],
    "cat": "world",
    "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "ट्रम्पले एकतर्फी गरिदिए रूस र युक्रेनबीच ऊर्जा युद्धविराम भएको घोषणा",
-   "summary": "तर रुसले ट्रम्पको घोषणाबारे औपचारिक प्रतिक्रिया नदिएको अन्तर्राष्ट्रिय समाचार संस्था रोयटर्सले लेखेको छ।",
-   "link": "https://www.setopati.com/politics/400633",
-   "source": "Setopati",
-   "ts": 1791774660,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "ट्रम्पले एकतर्फी गरिदिए रूस र युक्रेनबीच ऊर्जा युद्धविराम भएको घोषणा",
-   "en": "ट्रम्पले एकतर्फी गरिदिए रूस र युक्रेनबीच ऊर्जा युद्धविराम भएको घोषणा",
-   "ne": "ट्रम्पले एकतर्फी गरिदिए रूस र युक्रेनबीच ऊर्जा युद्धविराम भएको घोषणा",
-   "imp": 1,
-   "tags": [
-    "DonaldTrump",
-    "Russia",
-    "Ukraine"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "नमुना पशु अस्पतालको म्याद पाँचौँपटक थप",
-   "summary": "अमरराज नहर्कीतनहुँ, असोज २६ गते । गण्डकी प्रदेश सरकारको प्राथमिकतामा रहेको दमौलीस्थित नमुना पशु अस्पतालको भवन निर्माण सम्पन्न गर्ने म्याद पाँचौँपटक थप गरिएको छ । पटकपटक म्याद थपिए...",
-   "link": "https://gorkhapatraonline.com/news/226371",
-   "source": "Gorkhapatra",
-   "ts": 1791775099,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/387731/conversions/%E0%A4%A8%E0%A4%BF%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%BE%E0%A4%A3-%E0%A4%B8%E0%A4%AE%E0%A5%8D%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%A8-%E0%A4%B9%E0%A5%81%E0%A4%A8-%E0%A4%A8%E0%A4%B8%E0%A4%95%E0%A5%87%E0%A4%95%E0%A5%8B-%E0%A4%A8%E0%A4%AE%E0%A5%81%E0%A4%A8%E0%A4%BE-%E0%A4%AA%E0%A4%B6%E0%A5%81-%E0%A4%85%E0%A4%B8%E0%A5%8D%E0%A4%AA%E0%A4%A4%E0%A4%BE%E0%A4%B2%E0%A4%95%E0%A5%8B-%E0%A4%AD%E0%A4%B5%E0%A4%A8-original.jpg",
-   "lang": "ne",
-   "hl": "नमुना पशु अस्पतालको म्याद पाँचौँपटक थप",
-   "en": "नमुना पशु अस्पतालको म्याद पाँचौँपटक थप",
-   "ne": "नमुना पशु अस्पतालको म्याद पाँचौँपटक थप",
-   "imp": 2,
-   "tags": [
-    "AnimalHospital",
-    "Delay"
-   ],
-   "cat": "society",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "ब्रेक्जिट जनमतसंग्रहमा रुसी हस्तक्षेप भएको थियो ?",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/504663",
-   "source": "Baahrakhari",
-   "ts": 1791774739,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "ब्रेक्जिट जनमतसंग्रहमा रुसी हस्तक्षेप भएको थियो ?",
-   "en": "ब्रेक्जिट जनमतसंग्रहमा रुसी हस्तक्षेप भएको थियो ?",
-   "ne": "ब्रेक्जिट जनमतसंग्रहमा रुसी हस्तक्षेप भएको थियो ?",
-   "imp": 1,
-   "tags": [
-    "Brexit",
-    "Russia",
-    "Referendum"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "सादाकतको विस्फोटक ब्याटिङमा पाकिस्तान विजयी, श्रीलंका ८२ रनले पराजित",
-   "summary": "माज सादाकत र साहिबजादा फरहानको विस्फोटक ब्याटिङमा पाकिस्तानले श्रीलंकाविरुद्धको दोस्रो टी-२० अन्तर्राष्ट्रिय क्रिकेटमा ८२ रनको शानदार जित निकालेको छ।...",
-   "link": "https://nagariknews.nagariknetwork.com/sports/pakistan-wins-on-sadaqat-s-explosive-batting-sri-lanka-loses-by-82-runs-76-65.html",
-   "source": "Nagarik News",
-   "ts": 1791774751,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1791774742_collage%20(2).jpg",
-   "lang": "ne",
-   "hl": "सादाकतको विस्फोटक ब्याटिङमा पाकिस्तान विजयी, श्रीलंका ८२ रनले पराजित",
-   "en": "सादाकतको विस्फोटक ब्याटिङमा पाकिस्तान विजयी, श्रीलंका ८२ रनले पराजित",
-   "ne": "सादाकतको विस्फोटक ब्याटिङमा पाकिस्तान विजयी, श्रीलंका ८२ रनले पराजित",
-   "imp": 2,
-   "tags": [
-    "Pakistan",
-    "SriLanka",
-    "Cricket"
-   ],
-   "cat": "sports",
-   "val": 3,
    "teaser": false,
    "hits": 1
   },
@@ -3002,30 +2867,6 @@
    ],
    "cat": "society",
    "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "ऐतिहासिक कोत र शक्तिपीठमा पूजा सुरु",
-   "summary": "रेसुङ्गा, असोज २६ गते । गुल्मीका ऐतिहासिक कोतघर तथा विभिन्न शक्तिपीठमा घटस्थापनासँगै दसैँविशेष पूजा सुरु भएको छ । तत्कालीन बाइसे-चौबिसे राज्यका इस्मा, मुसीकोट, धुर्कोट, चन्द्रकोट,...",
-   "link": "https://gorkhapatraonline.com/news/226370",
-   "source": "Gorkhapatra",
-   "ts": 1791775020,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/387730/conversions/233-original.jpg",
-   "lang": "ne",
-   "hl": "ऐतिहासिक कोत र शक्तिपीठमा पूजा सुरु",
-   "en": "ऐतिहासिक कोत र शक्तिपीठमा पूजा सुरु",
-   "ne": "ऐतिहासिक कोत र शक्तिपीठमा पूजा सुरु",
-   "imp": 2,
-   "tags": [
-    "Dashain",
-    "Kot",
-    "Shaktipith",
-    "पूजा"
-   ],
-   "cat": "culture",
-   "val": 2,
    "teaser": false,
    "hits": 1
   },
@@ -3373,29 +3214,6 @@
     "ClimateChange"
    ],
    "cat": "politics",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Climate advocates demand action after deadly floods",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZFhOUkhaY3lGQjJ2VzJZcXhmYzhCNWIybkVYSmw4TkNnYTlWQ3F2bFNJaUJoLW5FMkFOM2o3ZTliZTNNSm54WXJFTmVqZkVYR0R1ZVgwUUtidFJQakJWYkdUdGxKaVd4RWtWcFpiejY4VXpWT0NuYnBiakdnWnF6aU45bkVQRElCN1lNR0lMX01DelFBMkc1cUdHblpWWG9ZUlBGVnVoXzBkLWRMd2Yw?oc=5",
-   "source": "myRepublica",
-   "ts": 1791774900,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Climate advocates demand action after deadly floods",
-   "en": "Climate advocates demand action after deadly floods",
-   "ne": "Climate advocates demand action after deadly floods",
-   "imp": 3,
-   "tags": [
-    "ClimateAction",
-    "Flood",
-    "जलवायु"
-   ],
-   "cat": "disaster",
    "val": 2,
    "teaser": false,
    "hits": 1
@@ -5373,30 +5191,6 @@
    "hits": 1
   },
   {
-   "title": "कसैको दबाब र स्वार्थमा काम नगर्न प्रहरी अधिकृतहरूलाई प्रधानमन्त्री शाहको निर्देशन",
-   "summary": "प्रधानमन्त्री वालेन्द्र शाहले प्रहरी निरीक्षक आधारभूत तालिम (१८४ औँ समूह) पूरा गरी कार्यक्षेत्रमा प्रवेश गर्न लागेका अधिकृतहरूलाई कुनै पनि प्रकारको राजनीतिक दबाब वा व्यक्तिगत स्वार्थबाट टाढा रहेर काम गर्न निर्देशन दिएका...",
-   "link": "http://lokaantar.com/story/331128/2026/10/12/pm-balen-",
-   "source": "Lokaantar",
-   "ts": 1791774656.855075,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "कसैको दबाब र स्वार्थमा काम नगर्न प्रहरी अधिकृतहरूलाई प्रधानमन्त्री शाहको निर्देशन",
-   "en": "कसैको दबाब र स्वार्थमा काम नगर्न प्रहरी अधिकृतहरूलाई प्रधानमन्त्री शाहको निर्देशन",
-   "ne": "कसैको दबाब र स्वार्थमा काम नगर्न प्रहरी अधिकृतहरूलाई प्रधानमन्त्री शाहको निर्देशन",
-   "imp": 3,
-   "tags": [
-    "NepalPolice",
-    "PrimeMinister",
-    "Security",
-    "प्रधानमन्त्री"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "मोरङ ३ विशेष छ, महामन्त्रीमा उठ्यो तेस्रो भइन्छ- गणेश कार्की",
    "summary": "'मोरङ ३ मा विशेष केही छ। महामन्त्रीमा उठौँ उठौँ लाग्छ र उठे पछि तेस्रो भइन्छ। मलाई हेर्नुस्, सुनिल शर्माजीलाई हेर्नुस्,' कार्कीको भनाइ छ।",
    "link": "https://www.setopati.com/politics/400651",
@@ -6846,7 +6640,7 @@
    "cat": "accident",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "आँबुखैरेनीमा ४५ रोपनीमा सयपत्री फूलखेती",
@@ -7628,7 +7422,7 @@
    "cat": "economy",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "नदी किनारमा भेटिएको शंकास्पद वस्तु काट्दा पड्कियो, दुई जना घाइते",
@@ -7878,7 +7672,7 @@
    "cat": "world",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "मलेसियाबाट फर्किएर गाउँमै कुखुरापालन",
@@ -7923,7 +7717,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 3
+   "hits": 4
   },
   {
    "title": "मौलिक संस्कृति जोगाउन मातृशक्तिको भूमिका महत्वपूर्णः महासचिव पोखरेल",
@@ -8408,17 +8202,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1791198668.11766,
-   "en": "Dr Dilli Harijan begins second hunger strike in Bhaktapur over unimplemented pact",
-   "ne": "Dr Dilli Harijan begins second hunger strike in Bhaktapur over unimplemented pact",
-   "link": "https://english.onlinekhabar.com/dr-dilli-harijan-begins-hunger-strike-again-after-agreement-remains-unimplemented.html",
-   "source": "Onlinekhabar EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "society"
-  },
   {
    "ts": 1791200459.7638867,
    "en": "Nepal plans road and bridge design revision after recent floods",
@@ -11665,8 +11448,8 @@
    "cat": "health"
   }
  ],
- "updated": 1791803466,
- "pending_since": null,
+ "updated": 1791804061,
+ "pending_since": 1791804051.1853173,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
