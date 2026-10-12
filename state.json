@@ -1,10 +1,5 @@
 {
  "seen": {
-  "https://risingnepaldaily.com/news/87634": 1791619848.9875255,
-  "https://english.khabarhub.com/2026/10/571445/": 1791619848.9875255,
-  "https://risingnepaldaily.com/news/87633": 1791619848.9875255,
-  "http://lokaantar.com/story/330958/2026/10/10/pradeep-paudel-": 1791619848.9875255,
-  "https://gorkhapatraonline.com/news/226170": 1791619848.9875255,
   "https://english.khabarhub.com/2026/10/571449/": 1791620448.4194918,
   "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQURoeFh6dlpULW9EVUFxemliM252ZkVyYWVvejRFTUVQQWNzQ2prSkJIckdBWTBxd096Q0h5WTlNNzZBaHo0RDFGQ1lJWmwtMzRpTzYwRWVMSmhXZk12R1BWS2tWb1lnZHRKVkl6ZnVrbElrNHVsZHhjc0pDcXotNzVxcDhaUVk?oc=5": 1791620448.4194918,
   "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWlZBRmQ4VzlXVjhEVDdMZkpDUml5bjAxQ3dJbThaM3lwcVlDcTF3eWVtcFZCVWdPRUdoYXlhelpsUUc0UVk2aHprbHBhalJJY1BKM3hKcjltb1pXWnZvV3lzUU1EOGdLamN4NXBySmltdkJuTElvNDZZNTdRdjB1Um9VbktPWUlfcHhrdVpOcF9rQnpUSnd0M20yV1ZxcEZFVkxpRFg3aEFRLXN1UTFsbg?oc=5": 1791620448.4194918,
@@ -2461,31 +2456,43 @@
   "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVF9PblpkcU1wdXlvTmQyNFdNTFJsRngtMlZyaHFNTENZN2RZcHFvVlZ4MUY3NGtfQUE2MjVNek5kS2o3MXpNRk5fS3IzUm9RcUtBLWF3WUR2cW5zT2E1Y1hFckNLUUlnaGNWWEtUazA1VUpzTXMya0Jtc1JURzh4Q2xTbXBYa2JYUmhfaUlwOEFCX0RM?oc=5": 1791792094.6279948,
   "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVDlHRVU4YXRuSkhwdHo3SG1DR2pld3J1SlRZckc3NENoWVRlVHM3YkwyQXUxeHZ6SFNQck0xRk5JbTFTRV9pbkRXejhSbDF5V3RDWFVCNWJLUDR1cmtlWGRUMzd2MU5QU3ZMMUxYLWo3Q2Q1cWs0OTZHOXJGNTVJVm1iT0NDbEN4MHAtaG5yTWwzV1ht?oc=5": 1791792094.6279948,
   "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcDVuOUZ3Tmt0SDl4Ukd6d1lqMGJlM0RZLUVnbTZYeUh3T2xwajV6QUhzOW04ekcwR3BScHo1RXVQbE45VVV0Vi1TX3V4TFhZSE5hLXJUTjh0WlZYNlRVWmg3M3JlMUFHQVBjakJxSG1IVkk3QjBBQWNSUXFrV1NmQnhINVQ0aXU0aFdqNWNwUGduQzFKaUxOcUw4bXpESEpDUkFQcnNYbms1LTZNUDlsT1g0dExPVVJsYlNwR054ek9CNmFI0gHEAUFVX3lxTE9wNW45RndOa3RIOXhSR3p3WWowYmUzRFktRWdtNlh5SHdPbHBqNXpBSHM5bTh6RzBHcFJwejVFdVBsTjlVVXRWLVNfdXhMWFlITmEtclROOHRaVlg2VFVaaDczcmUxQUdBUGNqQnFIbUhWSTdCMEFBY1JRcWtXU2ZCeEg1VDRpdTRoV2o1Y3BQZ25DMUppTE5xTDhtekRISkNSQVByc1huazUtNk1QOWxPWDR0TE9VUmxiU3BHTnh6T0I2YUg?oc=5": 1791792094.6279948,
-  "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZWhZWVlfWl91RzBweHF1NXVhbURHZW9ORWk0VlpNTmFSZU5vbE1Rc09NYUt4aDJLN2h5UFdvRHRpaC01NnBkWTYtYlRzOUdSVjZ3N21acUY5eHAwZVNSc2FsZ2F1bVg5ekktVW5wQklBU002Sjh2aG9yV0dFRFdDYXExZVQ3YmJ3SUxMWlFLNy1iRF9Xd0VUMmMwWkdNSDlGMTJIM1VzTEladEw0SEdBRDFnWmRLcDJjazZHUmFmdTFrRmxINFloVGZkNkJJQVhE?oc=5": 1791792094.6279948
+  "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZWhZWVlfWl91RzBweHF1NXVhbURHZW9ORWk0VlpNTmFSZU5vbE1Rc09NYUt4aDJLN2h5UFdvRHRpaC01NnBkWTYtYlRzOUdSVjZ3N21acUY5eHAwZVNSc2FsZ2F1bVg5ekktVW5wQklBU002Sjh2aG9yV0dFRFdDYXExZVQ3YmJ3SUxMWlFLNy1iRF9Xd0VUMmMwWkdNSDlGMTJIM1VzTEladEw0SEdBRDFnWmRLcDJjazZHUmFmdTFrRmxINFloVGZkNkJJQVhE?oc=5": 1791792094.6279948,
+  "https://risingnepaldaily.com/news/87709": 1791792651.0320542,
+  "https://gorkhapatraonline.com/news/226402": 1791792651.0320542,
+  "http://english.ratopati.com/story/83443/new-diplomatic-initiatives-needed-to-increase-air-entry-points-and-indian-investment-barshaman-pun": 1791792651.0320542,
+  "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONk1CVWh2aFFzclJxUDVzT1p5SFQxdHUzbW1oSnR1QlktcURrd0UwM2RQWG1LTklqZjRETWk4WVZYcGpyQTJXVnBqUG9CYUd0ZGhySHZnN1dhTGI2cDRpcG1yaW5LSzNZN2c0d1hJQ2hGWGVkcXJwNjNkQjE5akJTTDhkODdFOC1ONTAyUE9BZmoyOXNpZW9ieFgtTXJGWkVtdkxlR3NwU3NNUmVjdGE0UV9Gd292QW1LMTdJM1diT1B4YVNLMUN3TzlXQ2tRTE9lQUNERjZB0gHbAUFVX3lxTE4tc2l1eWZZalhrQWpQX0I2bjdiU1FIeHRBVXBjbVUxQzhyRXhZalQ5UXFkeWNUUUw5ZU4tbU42UklwSUl4c3QybGxEUjdUQmZhdktMYUtrMks1alowVVFFNW9KZDNvMkNjTTNLQzI5MTZlQm1rTU9YbXByZEh4ak5jazNEUElwNC1EZll3SWRHbUhhY01iQnRRQ3Q3MUw1WkF1c2xmZHZocEpLVTZYNmx4VE0tS3pZR3I1YkZBNHpvdE9FOG15cXpxNTZ0Z0x4UHR5MjM1SEs3TXpsMA?oc=5": 1791792651.0320542,
+  "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUVBLNWpNZDFqMFJWWEtSTVE1ZDZRUkZjdEpMQ3ZVQ1lYc3BTWk8tdEdDUEkzR09idE5La19qQUJ2VGVTSkJyUVFSdVNQYzdWdjJzVHR2YVZBemliV2twdWhvbThEM203ZmhLZU03UkVfZUZmQS1Pc09RRmlWdEZWQmpONXQ1aEpWc0RmYUJHUFhrNTNrWXlIRFFfeG1MdGxNUXhEM2NsSjdJa3p3Q1JmSjFFNkRnZ2duWFE?oc=5": 1791792651.0320542,
+  "https://news.google.com/rss/articles/CBMirwFBVV95cUxOLWd2bVl4QWRhaG1rMXFpWUhDNlRPd3loWXVRYy10SGtkZUF0bFVFWmRGMDJiU3FveHNlWTExaUltT1kzbUd2SzFKZW9MUVJRZ3BzbGdOSnJrcld1TnZYWjI0cHdrWkFYUVIwZ2hmUGRJTUNpbG5GVkdJekh3cW5TVFJnZk5DWHowbHFIaXJBOUFEX2NmbE1DMnVPZnBiUmRHV0xXUER3ZThaeGdaOWNV?oc=5": 1791792651.0320542,
+  "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWlFrUWp2ckd2YmFKcEU1VFVhVmllYkxyUndybHQ4UHBUaDNwc21JcjZJWXQxbjlOeUV4aHlfb1VtcDlEckJJWUNYSlc1WklpcGdQRTdjRkZzSlk0WDRaRHBHSlZYVG5wSk1tTmZQZTR4NFV0YUhBTmh1QU5tTkR6a2RNR3VjWERQNnBPMV85NlgzLXRzcGpXQlgyeUpkZEdTMzcxdFF1LTM2aEhyXzE2R2RXZnptN1dDdVBTU3Z2WWw?oc=5": 1791792651.0320542,
+  "https://theannapurnaexpress.com/story/67867": 1791792651.0320542,
+  "https://kathmandupost.com/national/2026/10/12/home-minister-sudan-gurung-heads-to-india-for-first-bimstec-security-talks": 1791792651.0320542,
+  "https://nagariknews.nagariknetwork.com/international/el-nino-breaks-sea-temperature-records-64-91.html": 1791792651.0320542,
+  "http://english.ratopati.com/story/83445/compensation-should-be-paid-based-on-length-of-service-if-workers-are-not-reinstated-due-to-illegal-dismissal": 1791792651.0320542,
+  "https://baahrakhari.com/detail/504697": 1791792651.0320542,
+  "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbV90LUI2dzdBVEF2el9DRDdjS0hFYldCaHlvdmpIQmJXQTN3VHRrOEl5MUE1NnQwZ0dfUFlQZWNBVXdBWEJTSnZQMVhIUk5HdldlVEdEcnVxbUxueWZDTTlyd0RndU9CSjRTSXJmTkU2ZnVfckVMS2F4UVB4R1R5Q0pYZ2FLM2F0RlRVOFJmOUVISlZ5cmtvRWtJbEItcmNrWlNneXJSN21zY1g3bndzMDd1MTFZY3NYOXJNZGFjUWpSWmNQckp1Z2FYMVJjakJjcEFrZGNR?oc=5": 1791792651.0320542,
+  "https://english.onlinekhabar.com/sudurpaschim-allocates-over-rs-900-million-for-badimalika-khaptad-and-hospital-upgrades.html": 1791792651.0320542,
+  "https://gorkhapatraonline.com/news/226403": 1791792651.0320542,
+  "https://www.setopati.com/art/art-activity/400660": 1791792651.0320542,
+  "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZ01IRWNVeVg0UjUxUk9kWDlBMmFBV1p2X0RmMWNJZ08yOWJDYlEydmVkR0k4RWlYRlhGSHlNMUtFZjBZcVl6UlNjLWUzSWRxTEVyNmZOVGJlYTN2UkhqWWdIMnFxR3dDaThOQnpNU0REaEF1b0R3a3IzbjVPTGhIaVphWm83YTBEOTdVano2NVlqR3AzY1NVc3lDR1g0VzF4ZjBHNGJaQUhXbms5aFhlMVJPdzkzRlFKS3RWQTRreGlEbkFqZE1wcUFDaGVtQQ?oc=5": 1791792651.0320542,
+  "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbVZWQkdsZktZSmNCN19STHdIb0RvWk5VWDJnZ1JyRmJrRXByQ0N3SUZ1SjBGMFQ4N3d6UWRPQ2RJSU1rcmh5RmwxbGVVYkJGbXAtbFFzU2N2MTBDUlpCTDYzWVlMZGNDcW04VEw2MV83UElIaFcwdTRNZVMxT256ZzFhWU5oTWFXNUxMOGs3Y0xJcGg3NmRlVy11aXp5Q2NlZ095aDFHZFgxM2d4MEJrVWtNTlpBUHFVRk1KcENRdDdKalM2QjVsSXQzT1R5RDg2MENlbDQtNNIB3gFBVV95cUxOLWZqU1V4eUtBNkYtY2ZON1ZrcjhhY09fNzJPZFhlcWJKMTEzdm1JTHBWalc5aUI5MW5PUDlRVGc5SlotZ2dlSVBGVklnU1ZCX2hFQnNKR0w0b05xQlVuRjk0dGZmSUo4UmtoT0hDVXdEVnpLYzZJSkxrbHJuWG0zZWxTY0VBakRfYXpTQkZNMzVyd2JUVHVkaV82WWl4YlZfSmFJUXFZM0JZaTlpM29Dd0hYUDJ3d0ZzajU5N3ZyaW1kalczTjc0N2hMZ0NVZFNfT1pranFFbzlrbmNMZ0E?oc=5": 1791792651.0320542,
+  "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTlliLXQyM2N5d1lCRXpmSl9WYnh2VWlQc2NCdmFxT2VqVXo1bzhtUURZQVRuLU9RQlFscEl6M0RWUUlkU2x5SDJKbEFOTWJsNVNDOFdza09NR3duR2E0dmQxYnBUM2k0UWlITnk5bzdUYmc4enZicFM5V1R5RHBTaTQ5OXZhdGxxUHBVRVhEWFg5NTIyNlViTThMMy1RWHVLd1BhenZtelJLWFRtNmtSb3hyd3BERWl0ZnNfTw?oc=5": 1791792651.0320542,
+  "https://theannapurnaexpress.com/story/67866": 1791792651.0320542,
+  "http://lokaantar.com/story/331135/2026/10/12/tvs-ntorq-150": 1791792651.0320542,
+  "https://nagariknews.nagariknetwork.com/Bazar/extreme-music-series-kicks-off-with-a-bang-new-beats-new-vibes-in-nepali-music-43-86.html": 1791792651.0320542,
+  "http://english.ratopati.com/story/83444/pratima-gautam-leads-by-a-large-margin-among-congress-womens-joint-general-secretary": 1791792651.0320542,
+  "https://baahrakhari.com/detail/504696": 1791792651.0320542,
+  "https://english.onlinekhabar.com/nischal-nath-pandey-nepo-baby-jibe.html": 1791792651.0320542,
+  "https://www.setopati.com/social/400659": 1791792651.0320542,
+  "https://news.google.com/rss/articles/CBMifkFVX3lxTE80ZlV4VUE0dzg1SFhNdERwUjNtYWhPNDRiODNJeFJjVV9PN0hXMjdQUER0VVpBdVhhZWNReDVqcUIxelJwY2lNZUVSbkdKNkVQbTBQVGlnVWhvZ0RWUi1udEJ4b3NvSHJrRUpfRVZJLTZMNEtmakE4YVBvcVpvZw?oc=5": 1791792651.0320542,
+  "https://news.google.com/rss/articles/CBMipwFBVV95cUxNR1M2MmdQemJrNjNVZ3U1MXBuVHBTTHdJYjFKS1kyYW94N0dod3NPb3ppSFhZNkkzV1lKaUk4czhfRndOVnU0QmdMRS0tU3lETzZEMWlYcGJ2dFNsUGNMOHpualA5VVdfSHdOUmhoQjRNbDJFd3BEOVNBMHpPV0dHUVhLYml0dDQ0c3VGdGE1d2IyeHdwd3plcHpuSUFLc0ZfakVTeVRRRQ?oc=5": 1791792651.0320542,
+  "https://nagariknews.nagariknetwork.com/politics/complaint-against-thapa-proposed-ambassador-to-japan-demands-investigation-into-pr-and-assets-br-42-90.html": 1791792651.0320542,
+  "http://english.ratopati.com/story/83442/proposed-ambassador-pandey-questions-uml-mps-what-is-the-concrete-plan-to-resolve-the-border-dispute-epg-report-and-trade-deficit": 1791792651.0320542,
+  "https://baahrakhari.com/detail/504695": 1791792651.0320542,
+  "https://www.setopati.com/sports/anya-khelkud/400661": 1791792651.0320542,
+  "https://nagariknews.nagariknetwork.com/Dharma-Saskriti/the-excitement-of-hurdungwa-dance-in-tharu-settlements-92-16.html": 1791792651.0320542,
+  "https://www.setopati.com/politics/400658": 1791792651.0320542
  },
  "queue": [
-  {
-   "title": "Parliamentary Hearing Committee Meeting Scheduled for Monday",
-   "summary": "Kathmandu. The 17th meeting of the Parliamentary Hearing Committee under the Federal Parliament is being held on Monday. The meeting...",
-   "link": "http://english.ratopati.com/story/83369/parliamentary-hearings-underway-for-proposed-ambassadors-from-four-countries",
-   "source": "Ratopati EN",
-   "ts": 1791763507,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/4-rajdut_JEpHi5w1h1.webp",
-   "lang": "en",
-   "hl": "Parliamentary Hearing Committee Meeting Scheduled for Monday",
-   "en": "Parliamentary Hearing Committee Meeting Scheduled for Monday",
-   "ne": "Parliamentary Hearing Committee Meeting Scheduled for Monday",
-   "imp": 3,
-   "tags": [
-    "ParliamentaryHearingCommittee",
-    "Parliament"
-   ],
-   "cat": "politics",
-   "val": 2,
-   "teaser": false,
-   "hits": 4
-  },
   {
    "title": "Manchester City Defeats Liverpool 3-0 at Anfield Amidst Financial Rule Breach Controversy",
    "summary": "London. In their first match after being found guilty of breaching the Premier League's financial rules, Manchester City defeated Liverpool...",
@@ -4763,7 +4770,7 @@
    "cat": "disaster",
    "val": 2,
    "teaser": false,
-   "hits": 7
+   "hits": 8
   },
   {
    "title": "Devotees Flock to Maitidevi Temple on Second Day of Dashain",
@@ -5669,7 +5676,7 @@
    "cat": "society",
    "val": 3,
    "teaser": false,
-   "hits": 5
+   "hits": 6
   },
   {
    "title": "अनमोलको 'मेरो मन चोर्‍यौ सुटुक्कै' सार्वजनिक",
@@ -6192,7 +6199,7 @@
    "cat": "world",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "सीमित जनशक्तिले उपचारमा समस्या",
@@ -7266,7 +7273,7 @@
    "cat": "society",
    "val": 3,
    "teaser": false,
-   "hits": 3
+   "hits": 4
   },
   {
    "title": "Global poverty index rises for first time since its 2010 creation",
@@ -7595,7 +7602,7 @@
    "cat": "crime",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "१० दिनमा चलचित्र 'चंगुल'ले उठायो एक लाख, अरुको कलेक्सन कति ?",
@@ -8008,7 +8015,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 5
   },
   {
    "title": "राष्ट्रसेवकले पदीय दुरुपयोग गर्न हुन्नः महानिरीक्षक कार्की",
@@ -8167,7 +8174,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 3
+   "hits": 5
   },
   {
    "title": "ग्रीसका लागि अमेरिकी राजदूत हटाउने तयारीमा ट्रम्प, के छन् आरोप?",
@@ -8331,29 +8338,6 @@
    "hits": 1
   },
   {
-   "title": "Flash floods in Nepal: Five people missing, 95 rescued",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVDlHRVU4YXRuSkhwdHo3SG1DR2pld3J1SlRZckc3NENoWVRlVHM3YkwyQXUxeHZ6SFNQck0xRk5JbTFTRV9pbkRXejhSbDF5V3RDWFVCNWJLUDR1cmtlWGRUMzd2MU5QU3ZMMUxYLWo3Q2Q1cWs0OTZHOXJGNTVJVm1iT0NDbEN4MHAtaG5yTWwzV1ht?oc=5",
-   "source": "Gazeta Express",
-   "ts": 1791787320,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Flash floods in Nepal: Five people missing, 95 rescued",
-   "en": "Flash floods in Nepal: Five people missing, 95 rescued",
-   "ne": "Flash floods in Nepal: Five people missing, 95 rescued",
-   "imp": 4,
-   "tags": [
-    "Nepal",
-    "FlashFloods",
-    "Rescue"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Rescue helicopters race to flood-hit Nepal villages as 5 reported missing",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcDVuOUZ3Tmt0SDl4Ukd6d1lqMGJlM0RZLUVnbTZYeUh3T2xwajV6QUhzOW04ekcwR3BScHo1RXVQbE45VVV0Vi1TX3V4TFhZSE5hLXJUTjh0WlZYNlRVWmg3M3JlMUFHQVBjakJxSG1IVkk3QjBBQWNSUXFrV1NmQnhINVQ0aXU0aFdqNWNwUGduQzFKaUxOcUw4bXpESEpDUkFQcnNYbms1LTZNUDlsT1g0dExPVVJsYlNwR054ek9CNmFI0gHEAUFVX3lxTE9wNW45RndOa3RIOXhSR3p3WWowYmUzRFktRWdtNlh5SHdPbHBqNXpBSHM5bTh6RzBHcFJwejVFdVBsTjlVVXRWLVNfdXhMWFlITmEtclROOHRaVlg2VFVaaDczcmUxQUdBUGNqQnFIbUhWSTdCMEFBY1JRcWtXU2ZCeEg1VDRpdTRoV2o1Y3BQZ25DMUppTE5xTDhtekRISkNSQVByc1huazUtNk1QOWxPWDR0TE9VUmxiU3BHTnh6T0I2YUg?oc=5",
@@ -8396,6 +8380,353 @@
    ],
    "cat": "disaster",
    "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "एल निनोले समुद्री तापक्रमको रेकर्ड तोड्यो",
+   "summary": "यसले सन् २०२७ मा विश्वव्यापी तापक्रमले नयाँ रेकर्ड कायम गर्न सक्ने वैज्ञानिकहरूले चेतावनी दिएका छन्।...",
+   "link": "https://nagariknews.nagariknetwork.com/international/el-nino-breaks-sea-temperature-records-64-91.html",
+   "source": "Nagarik News",
+   "ts": 1791792593,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2025/third-party/1791516416_alnino.jpg",
+   "lang": "ne",
+   "hl": "एल निनोले समुद्री तापक्रमको रेकर्ड तोड्यो",
+   "en": "एल निनोले समुद्री तापक्रमको रेकर्ड तोड्यो",
+   "ne": "एल निनोले समुद्री तापक्रमको रेकर्ड तोड्यो",
+   "imp": 2,
+   "tags": [
+    "ElNino",
+    "SeaTemperature",
+    "Climate"
+   ],
+   "cat": "world",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Supreme Court Rules on Compensation for Illegally Dismissed Workers",
+   "summary": "Kathmandu. The Supreme Court has ruled that if it is not possible to reinstate workers illegally dismissed from employment at...",
+   "link": "http://english.ratopati.com/story/83445/compensation-should-be-paid-based-on-length-of-service-if-workers-are-not-reinstated-due-to-illegal-dismissal",
+   "source": "Ratopati EN",
+   "ts": 1791792451,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/supreme-court_KO9WPWYDRm.jpg",
+   "lang": "en",
+   "hl": "Supreme Court Rules on Compensation for Illegally Dismissed Workers",
+   "en": "Supreme Court Rules on Compensation for Illegally Dismissed Workers",
+   "ne": "Supreme Court Rules on Compensation for Illegally Dismissed Workers",
+   "imp": 3,
+   "tags": [
+    "SupremeCourt",
+    "Workers",
+    "Compensation"
+   ],
+   "cat": "politics",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "काठमाडौंमा कौडा खेलिरहेका सातजना समातिए",
+   "summary": "",
+   "link": "https://baahrakhari.com/detail/504697",
+   "source": "Baahrakhari",
+   "ts": 1791792438,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "काठमाडौंमा कौडा खेलिरहेका सातजना समातिए",
+   "en": "काठमाडौंमा कौडा खेलिरहेका सातजना समातिए",
+   "ne": "काठमाडौंमा कौडा खेलिरहेका सातजना समातिए",
+   "imp": 2,
+   "tags": [
+    "Kathmandu",
+    "Gambling",
+    "Police"
+   ],
+   "cat": "crime",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Sudurpaschim allocates over Rs 900 million for Badimalika, Khaptad and hospital upgrades",
+   "summary": "Bajura, October 12 The Sudurpaschim Province government has allocated Rs 32.5 million for a feasibility study on operating a cable car in Badimalika and Rs 61 million for infrastructure development in Khaptad National...",
+   "link": "https://english.onlinekhabar.com/sudurpaschim-allocates-over-rs-900-million-for-badimalika-khaptad-and-hospital-upgrades.html",
+   "source": "Onlinekhabar EN",
+   "ts": 1791792393,
+   "weight": 3,
+   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/08/Badimalika_bajura.jpg",
+   "lang": "en",
+   "hl": "Sudurpaschim allocates over Rs 900 million for Badimalika, Khaptad and hospital upgrades",
+   "en": "Sudurpaschim allocates over Rs 900 million for Badimalika, Khaptad and hospital upgrades",
+   "ne": "Sudurpaschim allocates over Rs 900 million for Badimalika, Khaptad and hospital upgrades",
+   "imp": 3,
+   "tags": [
+    "Sudurpaschim",
+    "Budget",
+    "Badimalika"
+   ],
+   "cat": "economy",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "नेपाली फिल्मको बक्स अफिस हिसाब: कुनको राम्रो, कुन कमजोर?",
+   "summary": "बोर्डले सोमबार ९ नेपाली फिल्मको आइतबारसम्मको कमाइ विवरण सार्वजनिक गरेको हो।",
+   "link": "https://www.setopati.com/art/art-activity/400660",
+   "source": "Setopati",
+   "ts": 1791792300,
+   "weight": 3,
+   "img": null,
+   "lang": "ne",
+   "hl": "नेपाली फिल्मको बक्स अफिस हिसाब: कुनको राम्रो, कुन कमजोर?",
+   "en": "नेपाली फिल्मको बक्स अफिस हिसाब: कुनको राम्रो, कुन कमजोर?",
+   "ne": "नेपाली फिल्मको बक्स अफिस हिसाब: कुनको राम्रो, कुन कमजोर?",
+   "imp": 2,
+   "tags": [
+    "BoxOffice",
+    "NepaliMovies",
+    "চলচচতর"
+   ],
+   "cat": "culture",
+   "val": 1,
+   "teaser": true,
+   "hits": 1
+  },
+  {
+   "title": "SC ruling leads to cancellation of 'Perfect Center Flitz' trademark",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTlliLXQyM2N5d1lCRXpmSl9WYnh2VWlQc2NCdmFxT2VqVXo1bzhtUURZQVRuLU9RQlFscEl6M0RWUUlkU2x5SDJKbEFOTWJsNVNDOFdza09NR3duR2E0dmQxYnBUM2k0UWlITnk5bzdUYmc4enZicFM5V1R5RHBTaTQ5OXZhdGxxUHBVRVhEWFg5NTIyNlViTThMMy1RWHVLd1BhenZtelJLWFRtNmtSb3hyd3BERWl0ZnNfTw?oc=5",
+   "source": "myRepublica",
+   "ts": 1791787079,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "SC ruling leads to cancellation of 'Perfect Center Flitz' trademark",
+   "en": "SC ruling leads to cancellation of 'Perfect Center Flitz' trademark",
+   "ne": "SC ruling leads to cancellation of 'Perfect Center Flitz' trademark",
+   "imp": 2,
+   "tags": [
+    "SupremeCourt",
+    "Trademark",
+    "Business"
+   ],
+   "cat": "economy",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Indian opposition leaders to march to top court to demand election chief resign",
+   "summary": "India's opposition parties are set to march to the Supreme Court in Delhi to demand the resignation of the election chief over alleged voter fraud, BBC reported. This will be the latest in a series of demonstrations in...",
+   "link": "https://theannapurnaexpress.com/story/67866",
+   "source": "Annapurna Express",
+   "ts": 1791778252.4003043,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "Indian opposition leaders to march to top court to demand election chief resign",
+   "en": "Indian opposition leaders to march to top court to demand election chief resign",
+   "ne": "Indian opposition leaders to march to top court to demand election chief resign",
+   "imp": 1,
+   "tags": [
+    "India",
+    "Protest",
+    "ElectionCommission"
+   ],
+   "cat": "world",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "नेपथ्य कन्सर्टमा टीभीएस एनटीओआरक्यू १५० को अनावरण",
+   "summary": "नेपालका लागि टीभीएस मोटर कम्पनीको एकमात्र आधिकारिक वितरक जगदम्बा मोटर्स प्रालिले कीर्तिपुरस्थित ल्याबोरेटरी स्कूल ग्राउन्डमा आयोजित चर्चित सांगीतिक कार्यक्रम 'नेपथ्य लाइभ इन कीर्तिपुर'मा नयाँ TVS NTORQ 150 को विशेष...",
+   "link": "http://lokaantar.com/story/331135/2026/10/12/tvs-ntorq-150",
+   "source": "Lokaantar",
+   "ts": 1791778251.7964683,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "नेपथ्य कन्सर्टमा टीभीएस एनटीओआरक्यू १५० को अनावरण",
+   "en": "नेपथ्य कन्सर्टमा टीभीएस एनटीओआरक्यू १५० को अनावरण",
+   "ne": "नेपथ्य कन्सर्टमा टीभीएस एनटीओआरक्यू १५० को अनावरण",
+   "imp": 2,
+   "tags": [
+    "Nepathya",
+    "TVS",
+    "Concert"
+   ],
+   "cat": "culture",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "एक्स्ट्रिम म्युजिक सिरिजको धमाकेदार सुरुवातः नेपाली सङ्गीतमा नयाँ बीट, नयाँ भाइब !",
+   "summary": "औपचारिक रूपमा सुरु भएको यस सिरिजले मौलिक सङ्गीत र नवीन दृश्य प्रस्तुतिमार्फत दर्शक तथा श्रोतामाझ फरक अनुभव प्रदान गर्ने लक्ष्य राखेको छ।...",
+   "link": "https://nagariknews.nagariknetwork.com/Bazar/extreme-music-series-kicks-off-with-a-bang-new-beats-new-vibes-in-nepali-music-43-86.html",
+   "source": "Nagarik News",
+   "ts": 1791792402,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2026/third-party/1791792388_Xtreme%20(1).png",
+   "lang": "ne",
+   "hl": "एक्स्ट्रिम म्युजिक सिरिजको धमाकेदार सुरुवातः नेपाली सङ्गीतमा नयाँ बीट, नयाँ भाइब !",
+   "en": "एक्स्ट्रिम म्युजिक सिरिजको धमाकेदार सुरुवातः नेपाली सङ्गीतमा नयाँ बीट, नयाँ भाइब !",
+   "ne": "एक्स्ट्रिम म्युजिक सिरिजको धमाकेदार सुरुवातः नेपाली सङ्गीतमा नयाँ बीट, नयाँ भाइब !",
+   "imp": 1,
+   "tags": [
+    "Music",
+    "ExtremeMusic",
+    "सङ्गीत"
+   ],
+   "cat": "culture",
+   "val": 1,
+   "teaser": true,
+   "hits": 1
+  },
+  {
+   "title": "Nischal Nath Pandey draws 'nepo baby' jibe at parliamentary hearing",
+   "summary": "Kathmandu, October 12 Rastriya Swatantra Party (RSP) lawmaker Rajiv Khatri has questioned Nischal Nath Pandey, Nepal's ambassador-designate to India, over the \"nepo baby\" label directed at him because of his family...",
+   "link": "https://english.onlinekhabar.com/nischal-nath-pandey-nepo-baby-jibe.html",
+   "source": "Onlinekhabar EN",
+   "ts": 1791791662,
+   "weight": 3,
+   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/10/Nischalnath-pandey-1024x500-1.jpg",
+   "lang": "en",
+   "hl": "Nischal Nath Pandey draws 'nepo baby' jibe at parliamentary hearing",
+   "en": "Nischal Nath Pandey draws 'nepo baby' jibe at parliamentary hearing",
+   "ne": "Nischal Nath Pandey draws 'nepo baby' jibe at parliamentary hearing",
+   "imp": 2,
+   "tags": [
+    "ParliamentaryHearing",
+    "Ambassador",
+    "NischalNathPandey"
+   ],
+   "cat": "politics",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "भारतमा चलिरहेको आन्दोलनकी 'बघिनी'",
+   "summary": "करिब दुई हप्ताको व्यस्त भ्रमण र कामको तनावबाट मुक्त हुन क्यामरा बोकेर विभिन्न रोचक ठाउँमा घुमफिर गरेँ। शुक्रबार साँझ काठमाडौं फर्किएँ। मेरो ध्यान भने अझै भारतमै केन्द्रित थियो।",
+   "link": "https://www.setopati.com/social/400659",
+   "source": "Setopati",
+   "ts": 1791792262,
+   "weight": 3,
+   "img": null,
+   "lang": "ne",
+   "hl": "भारतमा चलिरहेको आन्दोलनकी 'बघिनी'",
+   "en": "भारतमा चलिरहेको आन्दोलनकी 'बघिनी'",
+   "ne": "भारतमा चलिरहेको आन्दोलनकी 'बघिनी'",
+   "imp": 1,
+   "tags": [
+    "India",
+    "Protest",
+    "आन्दोलन"
+   ],
+   "cat": "world",
+   "val": 1,
+   "teaser": true,
+   "hits": 1
+  },
+  {
+   "title": "Gold, silver prices decline in domestic market",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNR1M2MmdQemJrNjNVZ3U1MXBuVHBTTHdJYjFKS1kyYW94N0dod3NPb3ppSFhZNkkzV1lKaUk4czhfRndOVnU0QmdMRS0tU3lETzZEMWlYcGJ2dFNsUGNMOHpualA5VVdfSHdOUmhoQjRNbDJFd3BEOVNBMHpPV0dHUVhLYml0dDQ0c3VGdGE1d2IyeHdwd3plcHpuSUFLc0ZfakVTeVRRRQ?oc=5",
+   "source": "myRepublica",
+   "ts": 1791783325,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "Gold, silver prices decline in domestic market",
+   "en": "Gold, silver prices decline in domestic market",
+   "ne": "Gold, silver prices decline in domestic market",
+   "imp": 2,
+   "tags": [
+    "Gold",
+    "Silver",
+    "MarketPrice"
+   ],
+   "cat": "economy",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "जापानका लागि प्रस्तावित राजदूत थापाविरुद्ध उजुरी, पीआर र सम्पत्तिमाथि छानबिन माग",
+   "summary": "जापानका लागि प्रस्तावित नेपाली राजदूत जिज्ञानकुमार थापाको नियुक्ति प्रक्रिया रोक्न माग गर्दै संसदीय सुनुवाइ समितिमा उजुरी परेको छ।...",
+   "link": "https://nagariknews.nagariknetwork.com/politics/complaint-against-thapa-proposed-ambassador-to-japan-demands-investigation-into-pr-and-assets-br-42-90.html",
+   "source": "Nagarik News",
+   "ts": 1791792318,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2026/third-party/1791792282_gigyan%20kumar%20thapa%20japan.jpg",
+   "lang": "ne",
+   "hl": "जापानका लागि प्रस्तावित राजदूत थापाविरुद्ध उजुरी, पीआर र सम्पत्तिमाथि छानबिन माग",
+   "en": "जापानका लागि प्रस्तावित राजदूत थापाविरुद्ध उजुरी, पीआर र सम्पत्तिमाथि छानबिन माग",
+   "ne": "जापानका लागि प्रस्तावित राजदूत थापाविरुद्ध उजुरी, पीआर र सम्पत्तिमाथि छानबिन माग",
+   "imp": 3,
+   "tags": [
+    "Ambassador",
+    "Japan",
+    "Complaint",
+    "थापा"
+   ],
+   "cat": "politics",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "उमेर ४१, जोस युवाको जस्तै! किप्चोगेले मेलबर्न म्याराथनमा बनाए कोर्स रेकर्ड",
+   "summary": "केन्याका विश्वप्रसिद्ध धावक इलिउड किप्चोगेले ४१ वर्षको उमेरमा पनि आफ्नो उत्कृष्ट प्रदर्शनलाई निरन्तरता दिएका छन्।",
+   "link": "https://www.setopati.com/sports/anya-khelkud/400661",
+   "source": "Setopati",
+   "ts": 1791792060,
+   "weight": 3,
+   "img": null,
+   "lang": "ne",
+   "hl": "उमेर ४१, जोस युवाको जस्तै! किप्चोगेले मेलबर्न म्याराथनमा बनाए कोर्स रेकर्ड",
+   "en": "उमेर ४१, जोस युवाको जस्तै! किप्चोगेले मेलबर्न म्याराथनमा बनाए कोर्स रेकर्ड",
+   "ne": "उमेर ४१, जोस युवाको जस्तै! किप्चोगेले मेलबर्न म्याराथनमा बनाए कोर्स रेकर्ड",
+   "imp": 2,
+   "tags": [
+    "Marathon",
+    "EliudKipchoge",
+    "Melbourne",
+    "म्याराथन"
+   ],
+   "cat": "sports",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "थारू बस्तीमा हुर्डुङग्वा नाचको रौनक",
+   "summary": "बर्दियाका देसाउरी थारू बस्तीमा परम्परागत हुर्डुङग्वा नाचको रौनक छाएको छ।",
+   "link": "https://nagariknews.nagariknetwork.com/Dharma-Saskriti/the-excitement-of-hurdungwa-dance-in-tharu-settlements-92-16.html",
+   "source": "Nagarik News",
+   "ts": 1791792021,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2025/third-party/1791792005_collage%20(5).jpg",
+   "lang": "ne",
+   "hl": "थारू बस्तीमा हुर्डुङग्वा नाचको रौनक",
+   "en": "थारू बस्तीमा हुर्डुङग्वा नाचको रौनक",
+   "ne": "थारू बस्तीमा हुर्डुङग्वा नाचको रौनक",
+   "imp": 1,
+   "tags": [
+    "TharuCulture",
+    "HurdungwaDance",
+    "थारू"
+   ],
+   "cat": "culture",
+   "val": 2,
    "teaser": false,
    "hits": 1
   }
@@ -11669,8 +12000,8 @@
    "cat": "society"
   }
  ],
- "updated": 1791792107,
- "pending_since": 1791792094.6279948,
+ "updated": 1791792658,
+ "pending_since": 1791792651.0320542,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
