@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://nagariknews.nagariknetwork.com/Dharma-Saskriti/ashwin-krishna-aunsi-sixteen-shraddhas-are-being-concluded-42-97.html": 1791594083.2742028,
   "https://gorkhapatraonline.com/news/226096": 1791595248.205475,
   "https://english.khabarhub.com/2026/10/571407/": 1791595248.205475,
   "https://baahrakhari.com/detail/504456": 1791595248.205475,
@@ -2257,7 +2256,10 @@
   "https://nagariknews.nagariknetwork.com/editorial/fear-of-disaster-during-the-festival-45-34.html": 1791766249.7618024,
   "https://english.khabarhub.com/2026/12/571631/": 1791766249.7618024,
   "http://english.ratopati.com/story/83370/revenue-collection-from-graves": 1791766249.7618024,
-  "https://gorkhapatraonline.com/news/226346": 1791766249.7618024
+  "https://gorkhapatraonline.com/news/226346": 1791766249.7618024,
+  "https://kathmandupost.com/national/2026/10/12/flood-damage-makes-journeys-longer-and-costlier-in-rasuwa": 1791766885.368302,
+  "https://kathmandupost.com/national/2026/10/12/locals-alerted-each-other-of-budhigandaki-flood-an-hour-before-official-warning": 1791766885.368302,
+  "https://kathmandupost.com/columns/2026/10/11/bhotekoshi-flood-wasn-t-a-freak-event-it-s-the-himalaya-doing-what-it-does": 1791766885.368302
  },
  "queue": [
   {
@@ -2939,17 +2941,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1791161453.5714896,
-   "en": "1.5M expected to leave Kathmandu for Dashain festival",
-   "ne": "1.5M expected to leave Kathmandu for Dashain festival",
-   "link": "https://risingnepaldaily.com/news/87396",
-   "source": "Rising Nepal",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "society"
-  },
   {
    "ts": 1791162657.4197214,
    "en": "बाढी पहिरोले म्याग्दीमा साढे पाँच सय घरपरिवार प्रभावित, सात जनाको मृत्यु",
@@ -6218,8 +6209,8 @@
    "cat": "society"
   }
  ],
- "updated": 1791766268,
- "pending_since": null,
+ "updated": 1791766889,
+ "pending_since": 1791766885.368302,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
