@@ -1,9 +1,5 @@
 {
  "seen": {
-  "https://baahrakhari.com/detail/504528": 1791675067.8829474,
-  "https://theannapurnaexpress.com/story/67814": 1791675067.8829474,
-  "https://baahrakhari.com/detail/504527": 1791675067.8829474,
-  "https://theannapurnaexpress.com/story/67811": 1791675067.8829474,
   "https://risingnepaldaily.com/news/87646": 1791677448.7079837,
   "https://baahrakhari.com/detail/504532": 1791677448.7079837,
   "https://gorkhapatraonline.com/news/226224": 1791677448.7079837,
@@ -2748,29 +2744,6 @@
    "hits": 1
   },
   {
-   "title": "Iran Reviews US Proposals on Strait of Hormuz Reopening",
-   "summary": "KATHMANDU. Iran has stated that it is reviewing the latest points put forward by the United States in response to...",
-   "link": "http://english.ratopati.com/story/83489/iran-reviewing-us-proposal-preparing-to-respond",
-   "source": "Ratopati EN",
-   "ts": 1791818956,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/iran-america_NrD7JzzyqZ.jpg",
-   "lang": "en",
-   "hl": "Iran Reviews US Proposals on Strait of Hormuz Reopening",
-   "en": "Iran Reviews US Proposals on Strait of Hormuz Reopening",
-   "ne": "Iran Reviews US Proposals on Strait of Hormuz Reopening",
-   "imp": 1,
-   "tags": [
-    "Iran",
-    "USA",
-    "StraitOfHormuz"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "नवरात्रमा पशुपति क्षेत्रका नौ महाशक्ति पीठमा विशेष पूजा",
    "summary": "",
    "link": "https://baahrakhari.com/detail/504760",
@@ -2929,29 +2902,6 @@
    "val": 3,
    "teaser": false,
    "hits": 2
-  },
-  {
-   "title": "Farmers, Food Security & Flood Recovery in Nepal",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNHIzV2JlRjNwR3g2MU1Oa19wclZpdmdGWU1hWEFRUXR5TDhTNjg5RUM3Ml92M1B2QnREV0VweEFwQ1ZYYl9sQnlFZ3FOYVZhaFJSVXhXRjlhWUF6THpNZmhXYWRVX1hZdjVHOE1QdlB2MVFPNnBZZ1RDVDdEc3c3QlFUOFppaG83MG9YUS1SMF84ZGlmQVE?oc=5",
-   "source": "LSE Blogs",
-   "ts": 1791818692,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Farmers, Food Security & Flood Recovery in Nepal",
-   "en": "Farmers, Food Security & Flood Recovery in Nepal",
-   "ne": "Farmers, Food Security & Flood Recovery in Nepal",
-   "imp": 3,
-   "tags": [
-    "Farmers",
-    "FoodSecurity",
-    "FloodRecovery"
-   ],
-   "cat": "economy",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
   },
   {
    "title": "NATO Commander to Present 'Victory Doctrine' Amidst Rising Russian Threats",
@@ -3252,17 +3202,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1791242464.9944184,
-   "en": "2 Nepal nationals killed, 20 injured as bus rams trailer in Amroha",
-   "ne": "2 Nepal nationals killed, 20 injured as bus rams trailer in Amroha",
-   "link": "https://timesofindia.indiatimes.com/city/meerut/2-nepal-nationals-killed-20-injured-as-bus-rams-trailer-in-amroha/articleshow/134713005.cms",
-   "source": "The Times of India",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "world"
-  },
   {
    "ts": 1791244258.0200286,
    "en": "मुआब्जा र क्षतिपूर्ति माग गर्दै वीरगन्जको सुक्खा बन्दरगाहमा धर्ना, राजस्व सङ्कलन प्रभावित",
@@ -6509,7 +6448,7 @@
    "cat": "society"
   }
  ],
- "updated": 1791847279,
+ "updated": 1791847873,
  "pending_since": 1791847252.0320349,
  "fb_blocks": [
   1790350880.4125228,
