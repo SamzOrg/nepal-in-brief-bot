@@ -2246,32 +2246,12 @@
   "https://risingnepaldaily.com/news/87684": 1791764448.4974928,
   "https://nagariknews.nagariknetwork.com/Dharma-Saskriti/second-day-of-durga-paksha-worshipping-goddess-brahmacharini-39-74.html": 1791765071.1260161,
   "https://theannapurnaexpress.com/story/67848": 1791765071.1260161,
-  "https://gorkhapatraonline.com/news/226347": 1791765071.1260161
+  "https://gorkhapatraonline.com/news/226347": 1791765071.1260161,
+  "https://baahrakhari.com/detail/504650": 1791765651.2014794,
+  "http://lokaantar.com/story/331093/2026/10/12/dollar-": 1791765651.2014794,
+  "http://english.ratopati.com/story/83373/citys-impressive-win-over-liverpool-at-anfield-moves-them-three-points-clear-at-the-top": 1791765651.2014794
  },
  "queue": [
-  {
-   "title": "Rahul Gandhi Announces March to Supreme Court Over 'Vote Theft'",
-   "summary": "New Delhi. India's opposition party leader Rahul Gandhi has announced a demonstration to the Supreme Court in Delhi on Monday....",
-   "link": "http://english.ratopati.com/story/83359/opposition-protests-on-monday-will-reach-the-supreme-court-gandhi",
-   "source": "Ratopati EN",
-   "ts": 1791736823,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/rahul-gandhi_YsxiEIJ6Bq.jpg",
-   "lang": "en",
-   "hl": "Rahul Gandhi Announces March to Supreme Court Over 'Vote Theft'",
-   "en": "Rahul Gandhi Announces March to Supreme Court Over 'Vote Theft'",
-   "ne": "Rahul Gandhi Announces March to Supreme Court Over 'Vote Theft'",
-   "imp": 1,
-   "tags": [
-    "RahulGandhi",
-    "SupremeCourt",
-    "India"
-   ],
-   "cat": "world",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
   {
    "title": "Another major flash flood struck Nepal on the morning of October 11th.",
    "summary": "",
@@ -2613,6 +2593,29 @@
    "cat": "economy",
    "val": 1,
    "teaser": true,
+   "hits": 1
+  },
+  {
+   "title": "Manchester City Defeats Liverpool 3-0 at Anfield Amidst Financial Rule Breach Controversy",
+   "summary": "London. In their first match after being found guilty of breaching the Premier League's financial rules, Manchester City defeated Liverpool...",
+   "link": "http://english.ratopati.com/story/83373/citys-impressive-win-over-liverpool-at-anfield-moves-them-three-points-clear-at-the-top",
+   "source": "Ratopati EN",
+   "ts": 1791765189,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/httpssportsmole-media-prods3gr_DeQ5n5Y0TJ.webp",
+   "lang": "en",
+   "hl": "Manchester City Defeats Liverpool 3-0 at Anfield Amidst Financial Rule Breach Controversy",
+   "en": "Manchester City Defeats Liverpool 3-0 at Anfield Amidst Financial Rule Breach Controversy",
+   "ne": "Manchester City Defeats Liverpool 3-0 at Anfield Amidst Financial Rule Breach Controversy",
+   "imp": 1,
+   "tags": [
+    "ManchesterCity",
+    "Liverpool",
+    "PremierLeague"
+   ],
+   "cat": "sports",
+   "val": 3,
+   "teaser": false,
    "hits": 1
   }
  ],
@@ -5885,7 +5888,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1791765075,
+ "updated": 1791765656,
  "pending_since": 1791764448.4974928,
  "fb_blocks": [
   1790350880.4125228,
