@@ -1,8 +1,5 @@
 {
  "seen": {
-  "http://english.ratopati.com/story/83237/vote-counting-begins-after-ballot-box-dispute-resolved": 1791640883.5258029,
-  "http://lokaantar.com/story/330981/2026/10/10/congress-vote-count-": 1791640883.5258029,
-  "https://nagariknews.nagariknetwork.com/social-affairs/leopard-attacks-man-sitting-on-road-in-bardiya-dies-during-treatment-25-44.html": 1791640883.5258029,
   "http://english.ratopati.com/story/83238/counting-of-votes-for-the-vice-president-and-general-secretary-is-underway-counting-is-being-done-in-three-places": 1791641450.0438986,
   "https://baahrakhari.com/detail/504513": 1791641450.0438986,
   "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUGJoSEh5SFhHeHVDQVBYck94ZFpXMXZ0TE53cjVOc01iNHdDLVIxblkwbGZWUnN1Y3FvOVR2eVo0dW1TbWZzRG1xQUFaandNSkI4enZOT0t6Z2RPVkY1WXR3MEpMVTJhUXc0OGRMRDBzVm0wNkQ4NXdJTjlMSEpPaEliQ1FnZVc3LWxlQWpMRGFJWW9qZVVLenR3?oc=5": 1791641450.0438986,
@@ -2623,7 +2620,30 @@
   "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbnpGam9WQWtQN1h0MEU2RUhmdGxyNVp0MTN4QzdocTlIamhvcWd6NGJFYkVzR0tnTHdCa3cxbDBIU3RpYURaNXVTdk5aYzJOdGd2VVJwRHlFVTFlRDJuNnlmaWJuS0FKZHZDTzBtbzNKMC1DRGtZTmJBMFV4R2lyMFEtQzB0RlFBZE9idnpETlpBWFRpWFplekZMdWpPRnI2OWZ1Ym5kazR4d0hZVGdpa0FJLXlnM3ZmaTVvRU1LUGVoZ2hzeDZDREFn0gHKAUFVX3lxTE9uekZqb1ZBa1A3WHQwRTZFSGZ0bHI1WnQxM3hDN2hxOUhqaG9xZ3o0YkViRXNHS2dMd0JrdzFsMEhTdGlhRFo1dVN2TlpjMk50Z3ZVUnBEeUVVMWVEMm42eWZpYm5LQUpkdkNPMG1vM0owLUNEa1lOYkEwVXhHaXIwUS1DMHRGUUFkT2J2ekROWkFYVGlYWmV6Rkx1ak9GcjY5ZnVibmRrNHh3SFlUZ2lrQUkteWczdmZpNW9FTUtQZWhnaHN4NkNEQWc?oc=5": 1791813053.20872,
   "https://news.google.com/rss/articles/CBMiYEFVX3lxTE44cVNGM3BPODZrX0Uxc095SXVKUDZtWmFzTnRwOVQ3bmQ0TU9SRkNPUVRITHBkdkN5eTd1Yzd1SkQyM3llaDVoS2djUXVLM0NRTk5EY2ZnOVJxYW5QQ21tUtIBXEFVX3lxTE9yUWFUcm4xWVYwYzJ5WmJFcE5MRWhNOTE1bFE0Nk5MM0tpSHlKZXJpLVBYTkVEY2FrV2hzVTlIZWJPTXFTdVBZUXBSWU96aS1zYU9Ba2t4U2Q5eDlv?oc=5": 1791813053.20872,
   "http://lokaantar.com/story/331165/2026/10/12/yatayat-": 1791813053.20872,
-  "https://news.google.com/rss/articles/CBMimgFBVV95cUxNX18zdE4wUktHR3Q3N1kxM1h0SExwUHVTRWtPVFQxNHI0Ym5UR190emxMLUJjT2Q0MVVqTHp4U2VkSHA1eXI2T0tGemFNTjI0OVRmUjQ1VC1hZWhCOFJVY3FLdFdkUHZJclpWc1IzTzF0cnZ2dTVvS2NwZXNydS1mUmx6ZU9KRzREWWR0QXNZbWlkVk9Ha2ZURElB?oc=5": 1791813053.20872
+  "https://news.google.com/rss/articles/CBMimgFBVV95cUxNX18zdE4wUktHR3Q3N1kxM1h0SExwUHVTRWtPVFQxNHI0Ym5UR190emxMLUJjT2Q0MVVqTHp4U2VkSHA1eXI2T0tGemFNTjI0OVRmUjQ1VC1hZWhCOFJVY3FLdFdkUHZJclpWc1IzTzF0cnZ2dTVvS2NwZXNydS1mUmx6ZU9KRzREWWR0QXNZbWlkVk9Ha2ZURElB?oc=5": 1791813053.20872,
+  "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQU93UmdIZzhzS25pc1RLdlNjdFFlZjdtNi0xdk91cTN4S19HNkVHR2dnaVZoWU1RTENIRVVhQ09TVEZ4Mm5md09kUEZLM0Z0enI4NG5aTVFVWldoelRfRUdfQVp1ZW14Q1FXazJubFliZC02ZlpWam9ORF9FTndRR1ZJbC1GNUhwQ1NJU1ZqS0kyVmtoZGNfQVV3cl9HS0JDZEpvNTBfTTVScF9kSkQ1NUk0ZlJqSXNpRHFYZmk1aDNvTENUZEhSME13?oc=5": 1791813691.502868,
+  "https://www.setopati.com/politics/400695": 1791813691.502868,
+  "http://english.ratopati.com/story/83485/these-timeless-songs-which-fill-the-air-every-dashain": 1791813691.502868,
+  "https://gorkhapatraonline.com/news/226444": 1791813691.502868,
+  "https://baahrakhari.com/detail/504747": 1791813691.502868,
+  "https://english.khabarhub.com/2026/12/571699/": 1791813691.502868,
+  "https://risingnepaldaily.com/news/87723": 1791813691.502868,
+  "https://nagariknews.nagariknetwork.com/social-affairs/four-day-changa-chet-festival-in-nagarkot-75-80.html": 1791813691.502868,
+  "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVkdwalVOZEl5a2t4OXc4Q0JxaVBwWTl5Z3RRcDVRV3J6a2ZIeHlMVnFDaE1OMVgwMWdtUTlEWV9xZHA4Z09oWndiWFA5VFZKNmdkdHZtSDNnRGFxcEh5SktFcnduVEUxZTR5THhrTXM3RmQ2WGN3VXRFM2xsazdYdzBQUm1OYTdibGpPOHhZZS1lS1pVcy1aTGg3YW1UX1pqcFExV0NES0Z2bFo3NGJvelNaYmpycVBPcEE?oc=5": 1791813691.502868,
+  "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdkhwbU9QUEY4YVZoQXQ2UFpPMjk0dFhsbXNhWVFwVFdldXQtVGM3RWtWTEVOclNqUnhjMDJfaWRKSnRJQi1JMXRnS0taTGlBRWdQdjZjRmU1ZjB0ZDZ4Ti1OVUd3VGlGc1pTSFYtS3RnbzI5akx4SER0M1JWZDNGcE1SWFFtTV9GOFZjZEdCWWd6YUV2eU1lYzRfNDFsTFpURTl4cEhoRlhzX3c?oc=5": 1791813691.502868,
+  "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQ2hCSkpabjhVWmxJcVI4ejBxYlFxNUhyZ2g0Qk1Sb210eFNCU1ZyRmRXYXFQYkRmWWRNWWxyeTdXZG41T085OTMzdlFwblBVVTJyMHVKRDAwSktHVGEyMF9US1ZuTU9wYWNPeGI1dmxqRUhUZUtId0NESWotZlBTckRyUE9SSjJKYTZhMklNaVZPTXJuN3R6VW0zLTPSAZwBQVVfeXFMTkNoQkpKWm44VVpsSXFSOHowcWJRcTVIcmdoNEJNUm9tdHhTQlNWckZkV2FxUGJEZllkTVlscnk3V2RuNU9POTkzM3ZRcG5QVVUycjB1SkQwMEpLR1RhMjBfVEtWbk1PcGFjT3hiNXZsakVIVGVLSHdDRElqLWZQU3JEclBPUkoySmE2YTJJTWlWT01ybjd0elVtMy0z?oc=5": 1791813691.502868,
+  "https://news.google.com/rss/articles/CBMifEFVX3lxTE9iSGFMal84TE5DOWMyV19jNkVWdkJzT3FsZExPU2dvX1BDV1hDSlJGWVJPeldqX3owSDUxRVdUemJIb25IS3EycU51RDVTeVJ6bTNtNnhUM1JINjBleF9OQm5UTkVhVURwcVdyS2dORURlb0ZweHVMdjhMQjQ?oc=5": 1791813691.502868,
+  "http://lokaantar.com/story/331164/2026/10/12/cm-sammelan-": 1791813691.502868,
+  "https://www.setopati.com/art/art-activity/400539": 1791813691.502868,
+  "https://gorkhapatraonline.com/news/226443": 1791813691.502868,
+  "https://baahrakhari.com/detail/504746": 1791813691.502868,
+  "https://risingnepaldaily.com/news/87722": 1791813691.502868,
+  "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZ21vT2RiTHVPdHBTeWo4X09zSFV0ZEJoYnc0Y1FkWWVzU2NybmhHWE0zQ3E1NlRkQlREVjg3SEdOblg2WG84T21NeFRVRldhQzVVME9MSzYtTThHbVZNYW11UWM4WE9FTkJUVk9aRFA1Q0N1aE9md2tqOTJnbGdjM0hOTUJoQkU3Wk5zQ3Q2SkI1N25GdEdfY200aE05Z2gt?oc=5": 1791813691.502868,
+  "https://www.setopati.com/politics/400693": 1791813691.502868,
+  "https://gorkhapatraonline.com/news/226442": 1791813691.502868,
+  "https://baahrakhari.com/detail/504745": 1791813691.502868,
+  "https://gorkhapatraonline.com/news/226441": 1791813691.502868,
+  "https://baahrakhari.com/detail/504744": 1791813691.502868
  },
  "queue": [
   {
@@ -2694,143 +2714,6 @@
    ],
    "cat": "society",
    "val": 1,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "प्रस्तावित राजदूत गिरीबहादुर सुनारलाई डिपोर्ट गरिएको थियो कि थिएन भन्ने तथ्य मगाउँदै समिति",
-   "summary": "साउदी अरेबियाका लागि प्रस्तावित नेपाली राजदूत गिरीबहादुर सुनारलाई विगतमा डिपोर्ट गरिएको थियो कि थिएन भन्नेबारे संसदीय सुनुवाइ समितिले त्रिभुवन अन्तर्राष्ट्रिय विमानस्थल अध्यागमन कार्यालयसँग विवरण माग्ने भएको छ।",
-   "link": "https://www.setopati.com/politics/400641",
-   "source": "Setopati",
-   "ts": 1791784560,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "प्रस्तावित राजदूत गिरीबहादुर सुनारलाई डिपोर्ट गरिएको थियो कि थिएन भन्ने तथ्य मगाउँदै समिति",
-   "en": "प्रस्तावित राजदूत गिरीबहादुर सुनारलाई डिपोर्ट गरिएको थियो कि थिएन भन्ने तथ्य मगाउँदै समिति",
-   "ne": "प्रस्तावित राजदूत गिरीबहादुर सुनारलाई डिपोर्ट गरिएको थियो कि थिएन भन्ने तथ्य मगाउँदै समिति",
-   "imp": 3,
-   "tags": [
-    "GiriBahadurSunar",
-    "Ambassador",
-    "Parliament"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "घटस्थापनामा एमएडब्ल्यू अर्थमुभर्सले गर्‍यो २७ भन्दा बढी जेसीबी मेसिन हस्तान्तरण",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/504678",
-   "source": "Baahrakhari",
-   "ts": 1791784544,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "घटस्थापनामा एमएडब्ल्यू अर्थमुभर्सले गर्‍यो २७ भन्दा बढी जेसीबी मेसिन हस्तान्तरण",
-   "en": "घटस्थापनामा एमएडब्ल्यू अर्थमुभर्सले गर्‍यो २७ भन्दा बढी जेसीबी मेसिन हस्तान्तरण",
-   "ne": "घटस्थापनामा एमएडब्ल्यू अर्थमुभर्सले गर्‍यो २७ भन्दा बढी जेसीबी मेसिन हस्तान्तरण",
-   "imp": 2,
-   "tags": [
-    "MAWEarthmovers",
-    "JCB",
-    "Business"
-   ],
-   "cat": "economy",
-   "val": 2,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "दक्षिण अष्ट्रेलियामा भीषण आँधीको वितण्डा, हजारौँ घरमा विद्युत् सेवा अवरुद्ध",
-   "summary": "एडिलेड, अष्ट्रेलिया, असोज २६ गते । अष्ट्रेलियाको दक्षिण अष्ट्रेलिया राज्यमा आइतबार आएको भीषण आँधीका कारण हजारौँ घरमा विद्युत् सेवा अवरुद्ध भएको छ । आँधीका कारण रुखहरू ढल्नुका साथै...",
-   "link": "https://gorkhapatraonline.com/news/226390",
-   "source": "Gorkhapatra",
-   "ts": 1791784819,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/387755/conversions/bidhut-original.jpg",
-   "lang": "ne",
-   "hl": "दक्षिण अष्ट्रेलियामा भीषण आँधीको वितण्डा, हजारौँ घरमा विद्युत् सेवा अवरुद्ध",
-   "en": "दक्षिण अष्ट्रेलियामा भीषण आँधीको वितण्डा, हजारौँ घरमा विद्युत् सेवा अवरुद्ध",
-   "ne": "दक्षिण अष्ट्रेलियामा भीषण आँधीको वितण्डा, हजारौँ घरमा विद्युत् सेवा अवरुद्ध",
-   "imp": 1,
-   "tags": [
-    "SouthAustralia",
-    "Storm",
-    "PowerOutage"
-   ],
-   "cat": "disaster",
-   "val": 2,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "Nepali Congress Leader Govinda Bhattarai Vows to Earn More Trust",
-   "summary": "Kathmandu. Nepali Congress leader Govinda Bhattarai has said that he has a lot of trust to win and will spend...",
-   "link": "http://english.ratopati.com/story/83410/bhattarai-who-lost-the-vice-presidential-election-said-i-will-spend-the-remaining-time-to-win-the-trust-of-more-people",
-   "source": "Ratopati EN",
-   "ts": 1791784325,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/govinda_bhattarai_3_6n4qzjyixi_yqqt3hu187_VqvLrlgoZH.webp",
-   "lang": "en",
-   "hl": "Nepali Congress Leader Govinda Bhattarai Vows to Earn More Trust",
-   "en": "Nepali Congress Leader Govinda Bhattarai Vows to Earn More Trust",
-   "ne": "Nepali Congress Leader Govinda Bhattarai Vows to Earn More Trust",
-   "imp": 2,
-   "tags": [
-    "GovindaBhattarai",
-    "NepaliCongress"
-   ],
-   "cat": "politics",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "अन्नपूर्ण क्षेत्रमा एकै दिन एक हजार ८३६ पदयात्री भित्रिए",
-   "summary": "यदुप्रसाद भट्ट मनाङ, असोज २६ गते । अन्नपूर्ण संरक्षण क्षेत्र आयोजना (एक्याप) अन्तर्गतका पदमार्गहरूमा पदयात्री पर्यटकको आवगमन उत्साहजनक देखिएको छ । एक्यापले सार्वजनिक गरेको दैनिक पद...",
-   "link": "https://gorkhapatraonline.com/news/226389",
-   "source": "Gorkhapatra",
-   "ts": 1791784611,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/387754/conversions/Tourist-ABC-original.jpg",
-   "lang": "ne",
-   "hl": "अन्नपूर्ण क्षेत्रमा एकै दिन एक हजार ८३६ पदयात्री भित्रिए",
-   "en": "अन्नपूर्ण क्षेत्रमा एकै दिन एक हजार ८३६ पदयात्री भित्रिए",
-   "ne": "अन्नपूर्ण क्षेत्रमा एकै दिन एक हजार ८३६ पदयात्री भित्रिए",
-   "imp": 2,
-   "tags": [
-    "Annapurna",
-    "Tourists",
-    "Trekking"
-   ],
-   "cat": "culture",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "माथिल्लो कर्णाली आयोजना अघि बढाउने तयारी",
-   "summary": "बुलबुले समाचारदातासुर्खेत, असोज २६ गते । माथिल्लो कर्णाली जलविद्युत् परियोजनाको निर्माण अगाडि बढाइने भएको छ । लामो समयदेखि अलपत्र परेको नौ सय मेगावाट क्षमताको जलविद्युत् आयोजना तत्...",
-   "link": "https://gorkhapatraonline.com/news/226388",
-   "source": "Gorkhapatra",
-   "ts": 1791784438,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/387753/conversions/images-original.jpg",
-   "lang": "ne",
-   "hl": "माथिल्लो कर्णाली आयोजना अघि बढाउने तयारी",
-   "en": "माथिल्लो कर्णाली आयोजना अघि बढाउने तयारी",
-   "ne": "माथिल्लो कर्णाली आयोजना अघि बढाउने तयारी",
-   "imp": 3,
-   "tags": [
-    "UpperKarnali",
-    "Hydropower",
-    "Project"
-   ],
-   "cat": "economy",
-   "val": 2,
    "teaser": false,
    "hits": 1
   },
@@ -3339,28 +3222,6 @@
    "val": 3,
    "teaser": false,
    "hits": 4
-  },
-  {
-   "title": "Global poverty index rises for first time since its 2010 creation",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZVhRamJUWHdsa3hXR0FoM3p2NzMtRXJ2ZHNBUWZPb25SdVlrLXpIam9BbUU3TnVDQ2prR0VRT0p1bzZRNUFYT3l6MUxybFFZbFFwdXVfUk53Vmg2YUI3V3lfZlVUUHVPVlBBQkM4T0J2WnFqS3dHMXlzWlozS3pOaUVzcmdwZ1BZeFBJTTFWUF9yV182akt4MFR1T1piQWg5aTJMU2ItVld3ZGwydER2REtWdzR3Zi1NZXUwUnJvYURadw?oc=5",
-   "source": "myRepublica",
-   "ts": 1791784262,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Global poverty index rises for first time since its 2010 creation",
-   "en": "Global poverty index rises for first time since its 2010 creation",
-   "ne": "Global poverty index rises for first time since its 2010 creation",
-   "imp": 1,
-   "tags": [
-    "GlobalPoverty",
-    "Economy"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 3
   },
   {
    "title": "Local Social Worker Distributes Warm Clothes to Over 600 Students in Nuwakot",
@@ -4772,7 +4633,7 @@
    "cat": "world",
    "val": 3,
    "teaser": false,
-   "hits": 3
+   "hits": 4
   },
   {
    "title": "ट्रम्पले महासागरको नाम आफ्नै नाममा राख्ने प्रस्ताव गरेपछि",
@@ -7728,7 +7589,7 @@
    "cat": "education",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 3
   },
   {
    "title": "बिदामा पक्राउ पुर्जी, जरुरी प्रक्राउ पुर्जी र म्याद थप गर्न विशेष अदालत खुला",
@@ -7871,28 +7732,27 @@
    "hits": 2
   },
   {
-   "title": "नेपाल फिनटेक एक्स्पोका लागि एनएमबि बैंक र र्यापिड टेकबीच सम्झौता",
-   "summary": "एनएमबि बैंक लिमिटेडले 'नेपाल फिनटेक एक्स्पो २०२६' को अवसरमा र्‍यापिड टेक प्रालिसँग डिजिटल बैंकिङ सेवा विस्तारका लागि सहकार्य गरेको छ ।व्यावसायिक संस्थानहरूले प्रयोग गर्दै आएका दैनिक सफ्टवेयर तथा डिजिटल प्रणालीहरूबाट...",
-   "link": "http://lokaantar.com/story/331163/2026/10/12/nmb-bank-",
-   "source": "Lokaantar",
+   "title": "एनएमबि बैंक र र्‍यापिड टेकबीच डिजिटल बैंकिङ सेवा विस्तार सम्झौता",
+   "summary": "",
+   "link": "https://baahrakhari.com/detail/504744",
+   "source": "Baahrakhari",
    "ts": 1791796857.361708,
    "weight": 2,
    "img": null,
    "lang": "ne",
-   "hl": "नेपाल फिनटेक एक्स्पोका लागि एनएमबि बैंक र र्यापिड टेकबीच सम्झौता",
-   "en": "नेपाल फिनटेक एक्स्पोका लागि एनएमबि बैंक र र्यापिड टेकबीच सम्झौता",
-   "ne": "नेपाल फिनटेक एक्स्पोका लागि एनएमबि बैंक र र्यापिड टेकबीच सम्झौता",
+   "hl": "एनएमबि बैंक र र्‍यापिड टेकबीच डिजिटल बैंकिङ सेवा विस्तार सम्झौता",
+   "en": "एनएमबि बैंक र र्‍यापिड टेकबीच डिजिटल बैंकिङ सेवा विस्तार सम्झौता",
+   "ne": "एनएमबि बैंक र र्‍यापिड टेकबीच डिजिटल बैंकिङ सेवा विस्तार सम्झौता",
    "imp": 2,
    "tags": [
     "NMBBank",
-    "FintechExpo",
     "RapidTech",
-    "एनएमबिब्यांक"
+    "DigitalBanking"
    ],
    "cat": "economy",
-   "val": 2,
+   "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "'एमाले कहिले बिग्रिएको थियो र सुध्रिनलाई ?",
@@ -8083,21 +7943,328 @@
    "cat": "disaster",
    "val": 3,
    "teaser": false,
+   "hits": 2
+  },
+  {
+   "title": "बेलायतका लागि प्रस्तावित राजदूत जबराले तय गरे पाँच प्राथमिकता",
+   "summary": "",
+   "link": "https://www.setopati.com/politics/400695",
+   "source": "Setopati",
+   "ts": 1791813654,
+   "weight": 3,
+   "img": null,
+   "lang": "ne",
+   "hl": "बेलायतका लागि प्रस्तावित राजदूत जबराले तय गरे पाँच प्राथमिकता",
+   "en": "बेलायतका लागि प्रस्तावित राजदूत जबराले तय गरे पाँच प्राथमिकता",
+   "ne": "बेलायतका लागि प्रस्तावित राजदूत जबराले तय गरे पाँच प्राथमिकता",
+   "imp": 3,
+   "tags": [
+    "Ambassador",
+    "ForeignAffairs"
+   ],
+   "cat": "politics",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Dashain Songs Add Joy to Nepali Festivals",
+   "summary": "Kathmandu. Singer Anu Chaudhary and singer Hasan Rai have brought a song titled 'Dashain Aayo' for this year's Dashain. Similarly,...",
+   "link": "http://english.ratopati.com/story/83485/these-timeless-songs-which-fill-the-air-every-dashain",
+   "source": "Ratopati EN",
+   "ts": 1791813617,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/sugam-dashai_ges2h0R1zZ.webp",
+   "lang": "en",
+   "hl": "Dashain Songs Add Joy to Nepali Festivals",
+   "en": "Dashain Songs Add Joy to Nepali Festivals",
+   "ne": "Dashain Songs Add Joy to Nepali Festivals",
+   "imp": 2,
+   "tags": [
+    "Dashain",
+    "Festival",
+    "Music"
+   ],
+   "cat": "culture",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "कांग्रेस जनसम्पर्कतर्फ तीन हजार मत गणना गर्दा कसको कति ?",
+   "summary": "",
+   "link": "https://baahrakhari.com/detail/504747",
+   "source": "Baahrakhari",
+   "ts": 1791813252,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "कांग्रेस जनसम्पर्कतर्फ तीन हजार मत गणना गर्दा कसको कति ?",
+   "en": "कांग्रेस जनसम्पर्कतर्फ तीन हजार मत गणना गर्दा कसको कति ?",
+   "ne": "कांग्रेस जनसम्पर्कतर्फ तीन हजार मत गणना गर्दा कसको कति ?",
+   "imp": 3,
+   "tags": [
+    "NepaliCongress",
+    "Election"
+   ],
+   "cat": "politics",
+   "val": 1,
+   "teaser": true,
+   "hits": 1
+  },
+  {
+   "title": "नगरकोटमा चारदिने 'चङ्गा चेट' उत्सव",
+   "summary": "दसैंको पूर्वसन्ध्यामा नगरकोटमा असोज २८ देखि ३१ गतेसम्म चारदिने 'चङ्गा चेट' प्रि-दसैं उत्सव आयोजना हुने भएको छ।...",
+   "link": "https://nagariknews.nagariknetwork.com/social-affairs/four-day-changa-chet-festival-in-nagarkot-75-80.html",
+   "source": "Nagarik News",
+   "ts": 1791810568,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2025/third-party/1791811735_6767.png",
+   "lang": "ne",
+   "hl": "नगरकोटमा चारदिने 'चङ्गा चेट' उत्सव",
+   "en": "नगरकोटमा चारदिने 'चङ्गा चेट' उत्सव",
+   "ne": "नगरकोटमा चारदिने 'चङ्गा चेट' उत्सव",
+   "imp": 2,
+   "tags": [
+    "Nagarkot",
+    "Festival",
+    "چङ्गाचेट"
+   ],
+   "cat": "culture",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Nepal Daily Life",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVkdwalVOZEl5a2t4OXc4Q0JxaVBwWTl5Z3RRcDVRV3J6a2ZIeHlMVnFDaE1OMVgwMWdtUTlEWV9xZHA4Z09oWndiWFA5VFZKNmdkdHZtSDNnRGFxcEh5SktFcnduVEUxZTR5THhrTXM3RmQ2WGN3VXRFM2xsazdYdzBQUm1OYTdibGpPOHhZZS1lS1pVcy1aTGg3YW1UX1pqcFExV0NES0Z2bFo3NGJvelNaYmpycVBPcEE?oc=5",
+   "source": "dailyrecordnews.com",
+   "ts": 1791810216,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "Nepal Daily Life",
+   "en": "Nepal Daily Life",
+   "ne": "Nepal Daily Life",
+   "imp": 1,
+   "tags": [
+    "Nepal",
+    "DailyLife"
+   ],
+   "cat": "other",
+   "val": 1,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "China's BYD says eyeing France for new auto plant",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdkhwbU9QUEY4YVZoQXQ2UFpPMjk0dFhsbXNhWVFwVFdldXQtVGM3RWtWTEVOclNqUnhjMDJfaWRKSnRJQi1JMXRnS0taTGlBRWdQdjZjRmU1ZjB0ZDZ4Ti1OVUd3VGlGc1pTSFYtS3RnbzI5akx4SER0M1JWZDNGcE1SWFFtTV9GOFZjZEdCWWd6YUV2eU1lYzRfNDFsTFpURTl4cEhoRlhzX3c?oc=5",
+   "source": "myRepublica",
+   "ts": 1791807540,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "China's BYD says eyeing France for new auto plant",
+   "en": "China's BYD says eyeing France for new auto plant",
+   "ne": "China's BYD says eyeing France for new auto plant",
+   "imp": 1,
+   "tags": [
+    "BYD",
+    "France",
+    "AutoPlant"
+   ],
+   "cat": "tech",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Top Rice News: Shortage Of Rice Millers, Rising Rivalry And Nepal's Fallen Output",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9iSGFMal84TE5DOWMyV19jNkVWdkJzT3FsZExPU2dvX1BDV1hDSlJGWVJPeldqX3owSDUxRVdUemJIb25IS3EycU51RDVTeVJ6bTNtNnhUM1JINjBleF9OQm5UTkVhVURwcVdyS2dORURlb0ZweHVMdjhMQjQ?oc=5",
+   "source": "Indian Rice Exporters Federation",
+   "ts": 1791807200,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "Top Rice News: Shortage Of Rice Millers, Rising Rivalry And Nepal's Fallen Output",
+   "en": "Top Rice News: Shortage Of Rice Millers, Rising Rivalry And Nepal's Fallen Output",
+   "ne": "Top Rice News: Shortage Of Rice Millers, Rising Rivalry And Nepal's Fallen Output",
+   "imp": 2,
+   "tags": [
+    "Rice",
+    "Agriculture"
+   ],
+   "cat": "economy",
+   "val": 1,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "विराटनगरमा मंगलबारदेखि अन्तरप्रदेश मुख्यमन्त्री सम्मेलन",
+   "summary": "संघीयता कार्यान्वयनमा देखिएका प्रशासनिक तथा संवैधानिक जटिलता फुकाउन र प्रदेशका साझा अधिकारका लागि संघीय सरकारसँग सामूहिक दबाब सिर्जना गर्ने उद्देश्यसहित सातै प्रदेशका मुख्यमन्त्री विराटनगरमा भेला भएका छन् । मंगलबार...",
+   "link": "http://lokaantar.com/story/331164/2026/10/12/cm-sammelan-",
+   "source": "Lokaantar",
+   "ts": 1791799292.20367,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "विराटनगरमा मंगलबारदेखि अन्तरप्रदेश मुख्यमन्त्री सम्मेलन",
+   "en": "विराटनगरमा मंगलबारदेखि अन्तरप्रदेश मुख्यमन्त्री सम्मेलन",
+   "ne": "विराटनगरमा मंगलबारदेखि अन्तरप्रदेश मुख्यमन्त्री सम्मेलन",
+   "imp": 3,
+   "tags": [
+    "Biratnagar",
+    "ChiefMinister",
+    "Conference"
+   ],
+   "cat": "politics",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "आधुनिक फेसनमा नेपाली सम्पदा र संस्कृतिको झलक",
+   "summary": "नमूना कलेज अफ फेसन टेक्नोलोजीका २१औं ब्याचका स्नातक डिजाइनरहरूले 'अनन्तरूपवितानम्' शीर्षकमा फेसन शो आयोजना गरेका छन्।",
+   "link": "https://www.setopati.com/art/art-activity/400539",
+   "source": "Setopati",
+   "ts": 1791813247,
+   "weight": 3,
+   "img": null,
+   "lang": "ne",
+   "hl": "आधुनिक फेसनमा नेपाली सम्पदा र संस्कृतिको झलक",
+   "en": "आधुनिक फेसनमा नेपाली सम्पदा र संस्कृतिको झलक",
+   "ne": "आधुनिक फेसनमा नेपाली सम्पदा र संस्कृतिको झलक",
+   "imp": 2,
+   "tags": [
+    "Fashion",
+    "Heritage",
+    "Culture"
+   ],
+   "cat": "culture",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "सडन डेथमा धरानलाई पराजित गर्दै सप्तरी सेमिफाइनमा प्रवेश",
+   "summary": "हरिप्रसाद कोइराला उर्लाबारी, असोज २६ गते । हाम्रो इटहरी भेट्रान क्लबलाई सडन डेथमा १-० ले हराउँदै सप्तरी-११ अन्तर्राष्ट्रिय आमन्त्रण दोस्रो जहदा भेट्रान कप २०८३ को सेमिफाइनलमा प्रवे...",
+   "link": "https://gorkhapatraonline.com/news/226443",
+   "source": "Gorkhapatra",
+   "ts": 1791813025,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/387833/conversions/%E0%A4%B8%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%B0%E0%A5%80%E0%A4%95%E0%A4%BE-%E0%A4%96%E0%A5%87%E0%A4%B2%E0%A4%BE%E0%A4%A1%E0%A5%80-%E0%A4%AC%E0%A4%B2-%E0%A4%85%E0%A4%98%E0%A4%BF-%E0%A4%AC%E0%A4%A2%E0%A4%BE%E0%A4%89%E0%A4%81%E0%A4%A6%E0%A5%88-%281%29-original.jpg",
+   "lang": "ne",
+   "hl": "सडन डेथमा धरानलाई पराजित गर्दै सप्तरी सेमिफाइनमा प्रवेश",
+   "en": "सडन डेथमा धरानलाई पराजित गर्दै सप्तरी सेमिफाइनमा प्रवेश",
+   "ne": "सडन डेथमा धरानलाई पराजित गर्दै सप्तरी सेमिफाइनमा प्रवेश",
+   "imp": 3,
+   "tags": [
+    "Football",
+    "Dharan",
+    "Saptari"
+   ],
+   "cat": "sports",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "२० प्रतिशत बोनस पारित गर्दै गरिमा विकास बैंकको साधारणसभा सम्पन्न",
+   "summary": "",
+   "link": "https://baahrakhari.com/detail/504746",
+   "source": "Baahrakhari",
+   "ts": 1791812663,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "२० प्रतिशत बोनस पारित गर्दै गरिमा विकास बैंकको साधारणसभा सम्पन्न",
+   "en": "२० प्रतिशत बोनस पारित गर्दै गरिमा विकास बैंकको साधारणसभा सम्पन्न",
+   "ne": "२० प्रतिशत बोनस पारित गर्दै गरिमा विकास बैंकको साधारणसभा सम्पन्न",
+   "imp": 3,
+   "tags": [
+    "GarimaBikasBank",
+    "Dividend",
+    "AGM"
+   ],
+   "cat": "economy",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "मुख्यमन्त्री सम्मेलनमा सहभागी हुन प्रदेशका टोली विराटनगरमा",
+   "summary": "शशिधर पराजुलीविराटनगर, असोज २६ गते । कोशी प्रदेशको राजधानी विराटनगरमा मङ्गलबारदेखि सुरु हुने मुख्यमन्त्रीहरुको सम्मेलनमा सहभागी हुन विभिन्न प्रदेशका मुख्यमन्त्रीसहितको टोली विराटनग...",
+   "link": "https://gorkhapatraonline.com/news/226442",
+   "source": "Gorkhapatra",
+   "ts": 1791812239,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/387832/conversions/swagat-original.jpg",
+   "lang": "ne",
+   "hl": "मुख्यमन्त्री सम्मेलनमा सहभागी हुन प्रदेशका टोली विराटनगरमा",
+   "en": "मुख्यमन्त्री सम्मेलनमा सहभागी हुन प्रदेशका टोली विराटनगरमा",
+   "ne": "मुख्यमन्त्री सम्मेलनमा सहभागी हुन प्रदेशका टोली विराटनगरमा",
+   "imp": 3,
+   "tags": [
+    "Biratnagar",
+    "ChiefMinister",
+    "Conference"
+   ],
+   "cat": "politics",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "चीनका लागि प्रस्तावित राजदूतलाई बीआरआई, कालापानी, विमानस्थलका प्रश्नको ओइरो",
+   "summary": "",
+   "link": "https://baahrakhari.com/detail/504745",
+   "source": "Baahrakhari",
+   "ts": 1791811920,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "चीनका लागि प्रस्तावित राजदूतलाई बीआरआई, कालापानी, विमानस्थलका प्रश्नको ओइरो",
+   "en": "चीनका लागि प्रस्तावित राजदूतलाई बीआरआई, कालापानी, विमानस्थलका प्रश्नको ओइरो",
+   "ne": "चीनका लागि प्रस्तावित राजदूतलाई बीआरआई, कालापानी, विमानस्थलका प्रश्नको ओइरो",
+   "imp": 3,
+   "tags": [
+    "Ambassador",
+    "China",
+    "BRI"
+   ],
+   "cat": "politics",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "फुङ्लिङ बजारमा मासु माछा पसलको अनुगमन",
+   "summary": "चन्द्र पन्दाकताप्लेजुङ, असोज २६ गते । दसैँ सुरु भएसँगै ताप्लेजुङमा मासु र माछा पसलको अनुगमन गरिएको छ । जिल्लास्थित संयुक्त बजार अनुगमन समितिले सदरमुकाम फुङ्लिङमा मासु माछा पसलको अन...",
+   "link": "https://gorkhapatraonline.com/news/226441",
+   "source": "Gorkhapatra",
+   "ts": 1791811782,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/387831/conversions/Masu-Anugaman-Taplejung-(1)-original.jpg",
+   "lang": "ne",
+   "hl": "फुङ्लिङ बजारमा मासु माछा पसलको अनुगमन",
+   "en": "फुङ्लिङ बजारमा मासु माछा पसलको अनुगमन",
+   "ne": "फुङ्लिङ बजारमा मासु माछा पसलको अनुगमन",
+   "imp": 2,
+   "tags": [
+    "Phungling",
+    "Market",
+    "Inspection"
+   ],
+   "cat": "society",
+   "val": 2,
+   "teaser": false,
    "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1791208254.384397,
-   "en": "नेपाली कांग्रेसको संशोधित विधान पारित, केन्द्रीय कार्यसमिति २९७ सदस्यीय",
-   "ne": "नेपाली कांग्रेसको संशोधित विधान पारित, केन्द्रीय कार्यसमिति २९७ सदस्यीय",
-   "link": "https://www.setopati.com/politics/400084",
-   "source": "Setopati",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "politics"
-  },
   {
    "ts": 1791210063.8071103,
    "en": "संवेदनशील सूचना चुहाएको आरोपमा सशस्त्रका एआईजी वंशीराज दाहाल निलम्बन",
@@ -11333,8 +11500,8 @@
    "cat": "crime"
   }
  ],
- "updated": 1791813059,
- "pending_since": 1791811875.3603182,
+ "updated": 1791813717,
+ "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
