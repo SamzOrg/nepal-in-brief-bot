@@ -1,13 +1,5 @@
 {
  "seen": {
-  "https://gorkhapatraonline.com/news/226091": 1791592270.9170353,
-  "https://www.setopati.com/politics/400494": 1791592270.9170353,
-  "https://risingnepaldaily.com/news/87614": 1791592270.9170353,
-  "https://nagariknews.nagariknetwork.com/politics/gagan-thapa-elected-as-nepali-congress-president-with-a-huge-margin-62-51.html": 1791592270.9170353,
-  "https://news.google.com/rss/articles/CBMimAFBVV95cUxNV0RmMURhaTNEbHNRZlk2Z3hZRHY1R1Z3NEc4Rm56Tl9jSHNzRVdYTVVnUjVad1BNczFIdm9CcHRvbnJPampXa0hvaGg2YmRLWGpOeTdVS19Na0U3SVZNdXNZVXFxa2hmN1RrQ3VEdkVaWXFzN2g4VGlyWThOUk5RSk5LMmF3WW11c1pnZnNOLThVdlNWR3N5etIBmAFBVV95cUxNV0RmMURhaTNEbHNRZlk2Z3hZRHY1R1Z3NEc4Rm56Tl9jSHNzRVdYTVVnUjVad1BNczFIdm9CcHRvbnJPampXa0hvaGg2YmRLWGpOeTdVS19Na0U3SVZNdXNZVXFxa2hmN1RrQ3VEdkVaWXFzN2g4VGlyWThOUk5RSk5LMmF3WW11c1pnZnNOLThVdlNWR3N5eg?oc=5": 1791592270.9170353,
-  "http://lokaantar.com/story/330926/2026/10/10/dollar-": 1791592270.9170353,
-  "http://lokaantar.com/story/330925/2026/10/10/dollar-": 1791592270.9170353,
-  "http://lokaantar.com/story/330923/2026/10/9/congress-": 1791592270.9170353,
   "https://news.google.com/rss/articles/CBMipgFBVV95cUxNel85UDFvTk9oMVdnLXhOVEhlUC1PZV9JbFRHaTcyM2xJVkFNdkc5NjA0MjFFeUY0cFRrZ09qZnY2Uks0MTB1aWpLVHZGTGFKNERiU21XcXhnNHNuak84WXBQeC1YQVRHUWhRcjYycnl0NENxRS0tazBzNDVhYm5LV3MxSHp5WFJsdHQwUTNDWjU0UkE0Z1FDbmFYNGJIb3J4eEloREh3?oc=5": 1791592851.4505038,
   "https://risingnepaldaily.com/news/87615": 1791592851.4505038,
   "http://english.ratopati.com/story/83098/the-influence-of-western-and-monsoon-winds-continues-with-rain-likely-in-these-6-provinces-today": 1791592851.4505038,
@@ -2251,7 +2243,10 @@
   "http://english.ratopati.com/story/83366/this-is-the-foreign-exchange-rate-on-monday": 1791763857.2080836,
   "http://lokaantar.com/story/331091/2026/10/12/dasain-": 1791764448.4974928,
   "https://english.khabarhub.com/2026/12/571635/": 1791764448.4974928,
-  "https://risingnepaldaily.com/news/87684": 1791764448.4974928
+  "https://risingnepaldaily.com/news/87684": 1791764448.4974928,
+  "https://nagariknews.nagariknetwork.com/Dharma-Saskriti/second-day-of-durga-paksha-worshipping-goddess-brahmacharini-39-74.html": 1791765071.1260161,
+  "https://theannapurnaexpress.com/story/67848": 1791765071.1260161,
+  "https://gorkhapatraonline.com/news/226347": 1791765071.1260161
  },
  "queue": [
   {
@@ -2274,52 +2269,6 @@
    ],
    "cat": "world",
    "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Health Ministry active for health response at Chumnubri",
-   "summary": "Kathmandu, Oct 11: The Ministry of Health and Food Security through Health Emergency Operation Centre has been continuou...",
-   "link": "https://risingnepaldaily.com/news/87682",
-   "source": "Rising Nepal",
-   "ts": 1791735998,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Health Ministry active for health response at Chumnubri",
-   "en": "Health Ministry active for health response at Chumnubri",
-   "ne": "Health Ministry active for health response at Chumnubri",
-   "imp": 3,
-   "tags": [
-    "HealthMinistry",
-    "Chumnubri",
-    "HealthResponse"
-   ],
-   "cat": "health",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "बागमती प्रदेशलाई योग, स्वास्थ्य, पर्यटन र समृद्धिको नमुना प्रदेश बनाउँछौँः मुख्यमन्त्री थापामगर",
-   "summary": "भक्तपुर, असोज २५ गते । बागमती प्रदेशका मुख्यमन्त्री किरण थापामगरले बागमती प्रदेशलाई योग, स्वास्थ्य र समृद्धिको नमुना प्रदेश बनाउने घोषणा गर्नुभएको छ । पतञ्जली योग समितिले आज भक्तपु...",
-   "link": "https://gorkhapatraonline.com/news/226339",
-   "source": "Gorkhapatra",
-   "ts": 1791735829,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/387692/conversions/IMG_2593-original.jpg",
-   "lang": "ne",
-   "hl": "बागमती प्रदेशलाई योग, स्वास्थ्य, पर्यटन र समृद्धिको नमुना प्रदेश बनाउँछौँः मुख्यमन्त्री थापामगर",
-   "en": "बागमती प्रदेशलाई योग, स्वास्थ्य, पर्यटन र समृद्धिको नमुना प्रदेश बनाउँछौँः मुख्यमन्त्री थापामगर",
-   "ne": "बागमती प्रदेशलाई योग, स्वास्थ्य, पर्यटन र समृद्धिको नमुना प्रदेश बनाउँछौँः मुख्यमन्त्री थापामगर",
-   "imp": 3,
-   "tags": [
-    "BagmatiProvince",
-    "ChiefMinister",
-    "Thapamagar"
-   ],
-   "cat": "politics",
-   "val": 1,
    "teaser": false,
    "hits": 1
   },
@@ -2641,7 +2590,7 @@
    "cat": "culture",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "Nepal Rastra Bank Sets Today's Exchange Rate",
@@ -2668,17 +2617,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1791159651.78969,
-   "en": "Kiran Khatri and Kamal Singh Bhat Win District-Level Badminton Championship",
-   "ne": "Kiran Khatri and Kamal Singh Bhat Win District-Level Badminton Championship",
-   "link": "http://english.ratopati.com/story/82283/kiran-and-kamal-win-mens-doubles-badminton-title",
-   "source": "Ratopati EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "sports"
-  },
   {
    "ts": 1791161453.5714896,
    "en": "1.5M expected to leave Kathmandu for Dashain festival",
@@ -5947,7 +5885,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1791764474,
+ "updated": 1791765075,
  "pending_since": 1791764448.4974928,
  "fb_blocks": [
   1790350880.4125228,
