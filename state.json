@@ -1,20 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUmRVbjRuUXpTa3RGOE4wa3ZMNlhWN1FFb21MQ0lzUk13ZG5QdGlqZllFVmQtbmhFdldqQlBtSlpyNnp5VVpRalVXdkRBMzRwY2FReDNHbjNPZWZRdGpUTHlvNkJvanZqb0llNjhHaGxjc05VVE1MQWk0Q1QyMTRkUGFFZzlpS2xxeklxRnVEcTFpaUxaN3NERTE3bVZwTFpsSGFxeTc2OTgzU1Y3NGUydTE4cVNTR21xVjBMYXQ4NmNIUHowTDZTX2NPNVdHelJf0gHWAUFVX3lxTE9weEdGa0RNU2dhRklwUEgxX2VXZHcyWnNHNTFXTXk3RU55aTVNS0dUcU1hSVRUVFpwZ2JhcVFITDBvZVJDR3NaN0pSR3lJdlMxTGVSM3d0RVc1MklKelJQVEVYdjdKR3pKOC1NUmNVUnI5Zk0xcUdHY0d3VWxkOFEtbzdDQ1BaZW5uaTdlMjBvZmxkR0ZKZjNSMXlnR2lyQkNFMnpEWVlBLXYzV0U5UWg4VE02WnM0cl81bG9wT1VQUGtXVmtNVGs2aW9mVmtpOHZSWkVVd3c?oc=5": 1791730254.6170995,
-  "https://english.khabarhub.com/2026/11/571626/": 1791730254.6170995,
-  "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5rX1ItRk5hb21EVVk5OVZzTGYwdGtCVThZNHNHcF9fREtISE1VdXdNV2Q5QVFFX1VlcG44dE9HZVVZUHRMeXl1WE9TdVV4X0pnNGIxMWcyNzFLWFJiUExF0gFcQVVfeXFMT2JCZlZ4NWE4QTdIbk9TS0tqZmtYTW9xdzJRaHhYbkZtSU9lV2JzMlhKa1A4ODJQYm9NalpVbWY5a1BSMVoyTEVva1Q0SXdxWFhuUU00OHRYdWd2MlA?oc=5": 1791730254.6170995,
-  "https://news.google.com/rss/articles/CBMigAJBVV95cUxQcWFJWjBaN1FpQzFKbkdpOHYzcWI4bmhLdXluYXpWM0FOQnE1cVJWYVhuTkVZd0gxUnN1OVg4SmlvWWFZXzJ1M0llRVRVZ00zQVBVcTJ5bEVPWXFrNlQ5Rzg1US1QdG8yd1JMVmxTSDRaLWM4ZzlubnkwLVQ1bU12cmQ3SkxhcHlJSnhGQ1haemowRUJxSklGcVFmSVB1Zk9MRWJYZ2prZjdQSFYzUS1TcE9XQ2tYLXIzSnhrZGRNTnlueThQNGIyWmhiZzlBdXRGMG5peldEZG95TkpxWV9YdjBXc0JYX29LY1NvTmIyREdkYXI3QWZ3Xy1qU0ZuWmpX0gGAAkFVX3lxTFBxYUlaMFo3UWlDMUpuR2k4djNxYjhuaEt1eW5helYzQU5CcTVxUlZhWG5ORVl3SDFSc3U5WDhKaW9ZYVlfMnUzSWVFVFVnTTNBUFVxMnlsRU9ZcWs2VDlHODVRLVB0bzJ3UkxWbFNINFotYzhnOW5ueTAtVDVtTXZyZDdKTGFweUlKeEZDWFp6ajBFQnFKSUZxUWZJUHVmT0xFYlhnamtmN1BIVjNRLVNwT1dDa1gtcjNKeGtkZE1OeW55OFA0YjJaaGJnOUF1dEYwbml6V0Rkb3lOSnFZX1h2MFdzQlhfb0tjU29OYjJER2RhcjdBZndfLWpTRm5aalc?oc=5": 1791730254.6170995,
-  "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQngxcnhnaW1oVllFVEJoNlUxaTloVTNZeDhtWTJqSnVXaFBGdEw5MzZ2UERFalpFaF9YdURJNFlFaGZRWTNhZk1xSVBJLThPVU96bTdnTi1PVFNLV1FkSTFhOWktUE43WFRLREJZMjlYTVQxX3R0UjNJazJ4S3cxc2VvYzltbzFtN1ZEZHVtR1ZFRFlHWnA4MEJDVTNHTXBCYk44ZkxKbkJDMV9MMGV4SWhETDVkNFFOTEd5SFgwUzR1SGJoZjI4WG5OLW4?oc=5": 1791730254.6170995,
-  "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zUGlSSjBsREhXMG9PNnB0azFsdTB4c2FlUFF3bDF0cDEzZ2FLZkRCQnMwZmxNbnlyT2RQZGo3dm5abnNQWkptMFA4aEJJVG5Ta2ROeElJRnotNm9NZ1pV0gFcQVVfeXFMUDdVNnhJNEtYazNsY0p1MDFmQnNLTHk2VUhDaTFrOVhELUJ3b1B3TU9tRER3OTB2QzZtdlp2QWpSRlJaMW4xV0pMX0wycGZjZl84MU1sNkctVG9PSEU?oc=5": 1791730254.6170995,
-  "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1uUXZaWk1qSjQtOV96OHp1S0oyQkdFZHZDb25XS2VTRllGTVVkakRYM01STE12YXRLMFB1ejRPUURhZ9IBQkFVX3lxTE1uUXZaWk1qSjQtOV96OHp1S0oyQkdFZHZDb25XS2VTRllGTVVkakRYM01STE12YXRLMFB1ejRPUURhZw?oc=5": 1791730254.6170995,
-  "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdFhOdVY4Q3ZRYkw5R002X1JRSV9PbHBmeTQ3bGhQemNmclFiMnpZbUNGYTh0RFhBODZRWUVhMnoxTjlnU1BkZG1ISlFZNUh0VEQtUXhIMkFaSXhqQzRTZ3ZpcG9vMVIzTnYwdTJlOGZxOHQzVVR1aXBZb2gzVHRpb2hRbXZmaWxsb3hZdDQwOEdFWHI1V0QxcHhGQ0tTczczZkE?oc=5": 1791730254.6170995,
-  "https://baahrakhari.com/detail/504636": 1791730888.1176722,
-  "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5sd3JQNlBDQV92TXF4blphZWpmNnFpS3RUSGt5YzVfbkdTUExJMnlVSWg4dnNxVmpFVjVtaUpUMm0zejdqNEphMw?oc=5": 1791730888.1176722,
-  "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZGV5RnpQVnJEX0pUMjl5cGEwQ2YzU3ZfSEhjV0NiUzVYbk11TmFQWTl4WXR6LWRKY2JydXlrUTA2elBiY3VVSDJlWWM3YTNBb0tYZkpNYW5TY1ZmNU9IMDhRZ3NMT09VamVPdHNQamtYLUdCOGdhSDFyZ1UyMWZ1RVdxdWk4aGRTM0p5QjVrVDA4NjlDXzJhcG9uUTIwdDhsUnVhSHc4MnR0Z0kzTHFYa0owXzFjUVdNV3lHZ3V0R0V5YUVBb0VrS3hiYXZWREVlVVJSWU130gHcAUFVX3lxTE00R2lOV01odFlMenRscWg4dVZTYWpoYUZBeXVqQjB5bTZXMFNESE16TzhNRXFkOVZ5UE1IS2x5dEM1Zks4VlBhRklhS1NuMFRYSGZSMy1oa3NZRzNHY3JNNXB6d2xudkdGcGdtWkpuUWExN2JYMnlZb2ZWMWRKbTFESVVDeEFPU2NOQVR0d3FzR1pnbGdBNU85RF9jWkRvWXFTZ3luWXFwTkdRV1ZrdGo3RlhJYjdWYkFoNmRMT09NZ0RnTUU3OXI3TkNFWFBRQzVrZVVsRGRaa2N1Y3M?oc=5": 1791730888.1176722,
-  "https://www.setopati.com/social/400618": 1791730888.1176722,
-  "https://nagariknews.nagariknetwork.com/economy/flood-affected-electricity-service-in-budhigandaki-corridor-being-restored-26-62.html": 1791730888.1176722,
-  "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUEpiY0VTeWd2bU5hT0tnWnpHSFhkV2xMNkFrZDlLMDhuSWRBVTBJUlV1bmxic1p3dnJZcU5rZXdyLUpGZDkzbmM1bi1sQ0ZNU2tKM1Fid0RfRWhsN1R3aDE3NVlGRTA1YWQwRmNjemFOOU04OF8zb2FpclBRVTVwbw?oc=5": 1791730888.1176722,
-  "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQkZ2cklQRlVKWkRzMnBXaW5JeW1uNEZhd2VJVXlISnVocV80NkM0ZERkblJXLXAxLWlneFhOcFdrUEYtNTNROHdtZko0T2ZvMm9MRmRtTGFVSG9qQlRDeGhmQkVuZ1dBZ2ctaUJ1bTRzbkhsa2YtalFyQV8zV2gyVkNEY19WZjZsdnpXU1BjZUlvNUctbzY0a3dTMTnSAZwBQVVfeXFMTkJGdnJJUEZVSlpEczJwV2luSXltbjRGYXdlSVV5SEp1aHFfNDZDNGREZG5SVy1wMS1pZ3hYTnBXa1BGLTUzUTh3bWZKNE9mbzJvTEZkbUxhVUhvakJUQ3hoZkJFbmdXQWdnLWlCdW00c25IbGtmLWpRckFfM1doMlZDRGNfVmY2bHZ6V1NQY2VJbzVHLW82NGt3UzE5?oc=5": 1791730888.1176722,
   "https://english.onlinekhabar.com/budhi-gandaki-corridor-flood.html": 1791731452.1765127,
   "https://www.setopati.com/kinmel/automobiles/400617": 1791731452.1765127,
   "https://english.khabarhub.com/2026/11/571613/": 1791731452.1765127,
@@ -2404,7 +2389,9 @@
   "https://news.google.com/rss/articles/CBMiigFBVV95cUxQM2pEcjg1VE1fRHJ5T1NHQ1AzNEhiR25FcE5yU0ppdUVDSkxOaUxhTThtLUczREJFMTlIcE5ZVHdNZHhzeWZIS0hDMEU4QmNQd3VLbTQ0WGdacFZrejRSMl9ZSHBQeXd4VHViRTI2Vk9vZHotNGx0Y0Vrb1ZtNFJ0UWVnckx2Tzc3OHc?oc=5": 1791903048.8654046,
   "https://news.google.com/rss/articles/CBMilAFBVV95cUxON2Z2TGVESDNBYWZ6YXIyUnk3LXo0bU5ZMmFCSFA2TmR1SzRiM0pOSXpQVWxRa1RHR21MTlFPeHlWYlU3M0dkYnJOTnFfeFJjUTB2MEc1SDJ2bEZSanN5UDZHdVo2WG1tNWhtbGVaRXJQcWVZYThUcEQyWU1YU3JEbnRNelpNVDJFcnZUZjhSRWduOVpm?oc=5": 1791903048.8654046,
   "https://baahrakhari.com/detail/504857": 1791903048.8654046,
-  "https://english.khabarhub.com/2026/13/571879/": 1791903048.8654046
+  "https://english.khabarhub.com/2026/13/571879/": 1791903048.8654046,
+  "https://nagariknews.nagariknetwork.com/politics/budget-vacuum-in-sudurpaschim-lifted-after-three-months-budget-passed-despite-congress-boycott-33-94.html": 1791903694.92623,
+  "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMjdBOGZKWVJQNVJsV19MaGdRcUZBTUNLWTF4RjFlbVhSQjNvSW9TT1pvNlBXMlp2X1hJRGpaS2w0cWpZbjlvcEpTYmZRb0xpRWpFRU5nT1NHUGppdHRLMW5ic19objRYRHNabERUbzhaQmVwYmNucFh6R1l1UGFpUlNlQU1WeGs4WW9EQzR6eW1RcmZpTmJKN3ZGaVFDa2FV0gGgAUFVX3lxTFAyN0E4ZkpZUlA1UmxXX0xoZ1FxRkFNQ0tZMXhGMWVtWFJCM29Jb1NPWm82UFcyWnZfWElEalpLbDRxalluOW9wSlNiZlFvTGlFakVFTmdPU0dQaml0dEsxbmJzX2huNFhEc1psRFRvOFpCZXBiY25wWHpHWXVQYWlSU2VBTVZ4azhZb0RDNHp5bVFyZmlOYko3dkZpUUNrYVU?oc=5": 1791903694.92623
  },
  "queue": [
   {
@@ -2478,75 +2465,6 @@
    "hits": 1
   },
   {
-   "title": "किन लगातार बार्सिलोनाको खेल गुमाइरहेका छन् राफिन्हा?",
-   "summary": "बार्सिलोनाका कप्तान तथा ब्राजिलियन फरवार्ड राफिन्हाले च्याम्पियन्स लिगअन्तर्गत मंगलबार गालातासारेविरुद्धको खेल पनि गुमाउने भएका छन्। प्रशिक्षक हान्सी फ्लिकले उनको शारीरिक अवस्थालाई ध्यानमा राख्दै टोलीमा नराख्ने निर्णय...",
-   "link": "https://www.setopati.com/sports/football/400727",
-   "source": "Setopati",
-   "ts": 1791874800,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "किन लगातार बार्सिलोनाको खेल गुमाइरहेका छन् राफिन्हा?",
-   "en": "किन लगातार बार्सिलोनाको खेल गुमाइरहेका छन् राफिन्हा?",
-   "ne": "किन लगातार बार्सिलोनाको खेल गुमाइरहेका छन् राफिन्हा?",
-   "imp": 2,
-   "tags": [
-    "Barcelona",
-    "Raphinha",
-    "Football"
-   ],
-   "cat": "sports",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "India's Ladakh Naming Exercise: A Cartographic Counter to China's Territorial Claims",
-   "summary": "By formally naming 28 geographical features in Ladakh, including locations in Aksai Chin and friction points from the 2020 standoff, India is turning its territorial claims into permanent official records - a clear...",
-   "link": "https://english.khabarhub.com/2026/13/571805/",
-   "source": "Khabarhub EN",
-   "ts": 1791874703,
-   "weight": 2,
-   "img": "https://english.khabarhub.com/wp-content/uploads/2020/08/Ladakh_PTI-640x360.jpg",
-   "lang": "en",
-   "hl": "India's Ladakh Naming Exercise: A Cartographic Counter to China's Territorial Claims",
-   "en": "India's Ladakh Naming Exercise: A Cartographic Counter to China's Territorial Claims",
-   "ne": "India's Ladakh Naming Exercise: A Cartographic Counter to China's Territorial Claims",
-   "imp": 1,
-   "tags": [
-    "Ladakh",
-    "India",
-    "China"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "जलवायु परिवर्तन र विपद् व्यवस्थापन नेपालको पहिलो चुनौती : मुख्यमन्त्री पाण्डे",
-   "summary": "अन्तरप्रदेश मुख्यमन्त्री सम्मेलनमा बोल्दै पाण्डेले जलवायु परिवर्तनमा नेपालको योगदान न्यून भए पनि त्यसको असर भने नेपालले बढी भोग्नुपरेको बताए।...",
-   "link": "https://nagariknews.nagariknetwork.com/politics/climate-change-and-disaster-management-are-nepal-s-first-challenges-chief-minister-pandey-br-78-78.html",
-   "source": "Nagarik News",
-   "ts": 1791874759,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1791874724_surendraraj%20pandey.jpg",
-   "lang": "ne",
-   "hl": "जलवायु परिवर्तन र विपद् व्यवस्थापन नेपालको पहिलो चुनौती : मुख्यमन्त्री पाण्डे",
-   "en": "जलवायु परिवर्तन र विपद् व्यवस्थापन नेपालको पहिलो चुनौती : मुख्यमन्त्री पाण्डे",
-   "ne": "जलवायु परिवर्तन र विपद् व्यवस्थापन नेपालको पहिलो चुनौती : मुख्यमन्त्री पाण्डे",
-   "imp": 3,
-   "tags": [
-    "ClimateChange",
-    "DisasterManagement",
-    "जलवायुपरिवर्तन"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Banke Farmers Prioritize Harvesting Paddy Over Dashain Amidst Weather Concerns",
    "summary": "Banke. Amidst the Dashain festivities all around, farmers in Banke are currently preoccupied with the urgent task of safely harvesting...",
    "link": "http://english.ratopati.com/story/83553/farmers-rush-to-import-paddy-on-the-eve-of-dashain",
@@ -2568,98 +2486,6 @@
    "cat": "economy",
    "val": 3,
    "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "संघले कानुन नबनाउँदा प्रदेशले काम गर्न सकेन : मुख्यमन्त्री पाण्डे",
-   "summary": "मुख्यमन्त्री पाण्डेले संघ सरकारले आवश्यक कानुन निर्माण नगर्दा प्रदेश सरकारहरू संविधानले दिएको अधिकार प्रयोग गर्नबाट वञ्चित भएको बताएका छन्।...",
-   "link": "https://nagariknews.nagariknetwork.com/politics/the-province-could-not-function-because-the-federation-did-not-make-laws-chief-minister-pandey-br-50-48.html",
-   "source": "Nagarik News",
-   "ts": 1791874736,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1791874724_surendraraj%20pandey.jpg",
-   "lang": "ne",
-   "hl": "संघले कानुन नबनाउँदा प्रदेशले काम गर्न सकेन : मुख्यमन्त्री पाण्डे",
-   "en": "संघले कानुन नबनाउँदा प्रदेशले काम गर्न सकेन : मुख्यमन्त्री पाण्डे",
-   "ne": "संघले कानुन नबनाउँदा प्रदेशले काम गर्न सकेन : मुख्यमन्त्री पाण्डे",
-   "imp": 3,
-   "tags": [
-    "ProvincialGovernment",
-    "Federalism",
-    "प्रदेश"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "MP Narbahadur Bisht Questions Proposed Ambassador Suresh Kumar Karna on Israeli Agricultural Technology",
-   "summary": "Kathmandu. Nepali Communist Party MP Narbahadur Bisht has inquired about the plans of proposed ambassador to Israel, Suresh Kumar Karna,...",
-   "link": "http://english.ratopati.com/story/83552/mp-bista-demands-plan-from-proposed-ambassador-karna-to-bring-in-israeli-agricultural-technology-and-investment",
-   "source": "Ratopati EN",
-   "ts": 1791874742,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/nar-bahadur-bista_2Unwzo88LX.webp",
-   "lang": "en",
-   "hl": "MP Narbahadur Bisht Questions Proposed Ambassador Suresh Kumar Karna on Israeli Agricultural Technology",
-   "en": "MP Narbahadur Bisht Questions Proposed Ambassador Suresh Kumar Karna on Israeli Agricultural Technology",
-   "ne": "MP Narbahadur Bisht Questions Proposed Ambassador Suresh Kumar Karna on Israeli Agricultural Technology",
-   "imp": 3,
-   "tags": [
-    "SureshKumarKarna",
-    "Ambassador",
-    "Israel"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "चार महिनापछि गुल्मीमा हवाई सेवा सञ्चालन",
-   "summary": "प्रतिकूल मौसमका कारण करिब चार महिनादेखि उक्त विमानस्थल प्रभावित भएको थियो।",
-   "link": "https://nagariknews.nagariknetwork.com/economy/air-service-resumes-in-gulmi-after-four-months-68-54.html",
-   "source": "Nagarik News",
-   "ts": 1791874603,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1791874592_resunga.jpg",
-   "lang": "ne",
-   "hl": "चार महिनापछि गुल्मीमा हवाई सेवा सञ्चालन",
-   "en": "चार महिनापछि गुल्मीमा हवाई सेवा सञ्चालन",
-   "ne": "चार महिनापछि गुल्मीमा हवाई सेवा सञ्चालन",
-   "imp": 3,
-   "tags": [
-    "Gulmi",
-    "DomesticFlight",
-    "गुल्मी"
-   ],
-   "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "फेरि क्यान्सरकै कुरा",
-   "summary": "क्यान्सरको ओखती बनाउने काम अहिलेसम्म पनि चुनौतीपूर्ण हुनुको मुख्य कारण रोगीको एउटै अंगमा देखिने अर्बुदरोगका कोषहरू एकै चरित्रका नभएर प्रत्येकका गुणहरू पृथक् देखिनु नै हो।...",
-   "link": "https://nagariknews.nagariknetwork.com/opinion/talking-about-cancer-again-42-17.html",
-   "source": "Nagarik News",
-   "ts": 1791874589,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1791874579_Sulav.jpg",
-   "lang": "ne",
-   "hl": "फेरि क्यान्सरकै कुरा",
-   "en": "फेरि क्यान्सरकै कुरा",
-   "ne": "फेरि क्यान्सरकै कुरा",
-   "imp": 2,
-   "tags": [
-    "Cancer",
-    "Health",
-    "क्यान्सर"
-   ],
-   "cat": "health",
-   "val": 1,
-   "teaser": true,
    "hits": 1
   },
   {
@@ -4602,29 +4428,6 @@
    "hits": 1
   },
   {
-   "title": "A month after ministerial change, LPG queues remain unchanged",
-   "summary": "KATHMANDU : A month has passed since the minister for Industry, Commerce and Supplies was replaced over issues surrounding LPG supply, but consumers continue to face the same situation in the market. Deepak Kumar Sah of...",
-   "link": "https://english.khabarhub.com/2026/13/571851/",
-   "source": "Khabarhub EN",
-   "ts": 1791874258.5727904,
-   "weight": 2,
-   "img": "https://english.khabarhub.com/wp-content/uploads/2026/10/IMG_1893-400x220.jpeg",
-   "lang": "en",
-   "hl": "A month after ministerial change, LPG queues remain unchanged",
-   "en": "A month after ministerial change, LPG queues remain unchanged",
-   "ne": "A month after ministerial change, LPG queues remain unchanged",
-   "imp": 2,
-   "tags": [
-    "LPG",
-    "GasQues",
-    "Market"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
    "title": "राहुल गान्धीको याचिका सर्वोच्च अदालतबाट फिर्ता, त्रुटि सच्याएर पुनः पेस गर्नुपर्ने",
    "summary": "",
    "link": "https://baahrakhari.com/detail/504837",
@@ -4737,29 +4540,6 @@
    "val": 3,
    "teaser": false,
    "hits": 3
-  },
-  {
-   "title": "स्टाइल उही, पावर थप दमदार : नेपालमा भित्रियो भेस्पा १५० एफआई ओबीडी २ स्टेज बी",
-   "summary": "इटालियन स्कुटर ब्रान्ड भेस्पाले नेपाली बजारमा नयाँ १५० सिसी क्षमताको स्कुटर सार्वजनिक गरेको छ ।नेपालका लागि भेस्पाको आधिकारिक वितरक डेल्टा अटोकर्प प्रालिले भेस्पा १५० एफआई ओबीडी २ स्टेज बी (Vespa 150 FI OBD 2 Stage B)...",
-   "link": "http://lokaantar.com/story/331224/2026/10/13/vespa-150-",
-   "source": "Lokaantar",
-   "ts": 1791874258.5727904,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "स्टाइल उही, पावर थप दमदार : नेपालमा भित्रियो भेस्पा १५० एफआई ओबीडी २ स्टेज बी",
-   "en": "स्टाइल उही, पावर थप दमदार : नेपालमा भित्रियो भेस्पा १५० एफआई ओबीडी २ स्टेज बी",
-   "ne": "स्टाइल उही, पावर थप दमदार : नेपालमा भित्रियो भेस्पा १५० एफआई ओबीडी २ स्टेज बी",
-   "imp": 2,
-   "tags": [
-    "Vespa",
-    "Automobile",
-    "भेस्पा"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
   },
   {
    "title": "अरू दल असफल भइसके, राप्रपाले मात्र निकास दिन सक्छ : लिङ्देन",
@@ -6735,7 +6515,7 @@
    "cat": "politics",
    "val": 2,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "In Nepal, young PM Balen Shah is falling into old fault lines",
@@ -7028,17 +6808,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1791298299.8211956,
-   "en": "कांग्रेस १५औँ महाधिवेशन: सभापतिमा गगनसहित तीनजनाको उम्मेदवारी",
-   "ne": "कांग्रेस १५औँ महाधिवेशन: सभापतिमा गगनसहित तीनजनाको उम्मेदवारी",
-   "link": "https://baahrakhari.com/detail/504065",
-   "source": "Baahrakhari",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "politics"
-  },
   {
    "ts": 1791300062.6501758,
    "en": "Nepali Congress Elects New Leadership: 5 Candidates Vie for Vice-President (Inclusive)",
@@ -10285,7 +10054,7 @@
    "cat": "politics"
   }
  ],
- "updated": 1791903166,
+ "updated": 1791903796,
  "pending_since": 1791903048.8654046,
  "fb_blocks": [
   1790350880.4125228,
