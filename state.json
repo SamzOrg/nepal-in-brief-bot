@@ -2490,7 +2490,11 @@
   "http://english.ratopati.com/story/83584/meeting-between-foreign-minister-shishir-khanal-and-non-resident-ambassador-of-south-africa-suk-lal": 1791888657.700506,
   "https://www.setopati.com/kinmel/others/400748": 1791888657.700506,
   "https://nagariknews.nagariknetwork.com/politics/far-western-government-in-an-effort-to-bring-the-congress-to-an-agreement-br-30-28.html": 1791888657.700506,
-  "https://baahrakhari.com/detail/504835": 1791888657.700506
+  "https://baahrakhari.com/detail/504835": 1791888657.700506,
+  "https://www.setopati.com/politics/400753": 1791889286.786565,
+  "http://english.ratopati.com/story/83587/proposed-ambassador-sherchan-presents-four-pronged-strategy-emphasizing-economic-diplomacy-and-feminist-diplomacy": 1791889286.786565,
+  "https://risingnepaldaily.com/news/87756": 1791889286.786565,
+  "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRDhRZmdtTXdEV3gyWVRDbDU2eHQtNHBDb3A5b3pHM25kME5GbEFaSk4zWDJTWjlvLWl4bmE3alZDaXBSUDRPZUdsYzhJVGtGRlpua3pyV1VFUkF0SDlOMWpvRTh5T3pzd29TQ2V4WUgwd3ZWVVFxMk5jTGxvTDVYb2wtRWNZTnVleV9XOW5oUVc2X3JldHZpSG5qU2QtcXh2UHo0ZXR3T1BueHVnNUM0amhKbnotX1NIWUdOZElQa0xVNkpueUVNVw?oc=5": 1791889286.786565
  },
  "queue": [
   {
@@ -2652,75 +2656,6 @@
    "hits": 1
   },
   {
-   "title": "Rattnanagar Municipality Begins Grape Cultivation Trial",
-   "summary": "Chitwan. Eastern Chitwan's Rattnanagar Municipality has started a trial of grape cultivation. A trial of Sonaka Green and Sonaka Black...",
-   "link": "http://english.ratopati.com/story/83512/testing-of-two-varieties-of-grapes-in-chitwan",
-   "source": "Ratopati EN",
-   "ts": 1791860323,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/angur-kheti,-grapes_akoQLo8RIo.jpg",
-   "lang": "en",
-   "hl": "Rattnanagar Municipality Begins Grape Cultivation Trial",
-   "en": "Rattnanagar Municipality Begins Grape Cultivation Trial",
-   "ne": "Rattnanagar Municipality Begins Grape Cultivation Trial",
-   "imp": 2,
-   "tags": [
-    "Ratnanagar",
-    "Agriculture",
-    "Grapes"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "सुरक्षित आवास : न्यायपूर्ण समाज",
-   "summary": "नेपाल सरकारले विपन्न तथा आवासको अभावमा रहेका नागरिक र परिवारजनका लागि आवास निर्माणमा आर्थिक सहयोग तथा वित्तीय सहजीकरण गर्ने नीति अगाडि बढाएको छ । सुरक्षित आवास आधारभूत आवश्यकता हो ...",
-   "link": "https://gorkhapatraonline.com/news/226483",
-   "source": "Gorkhapatra",
-   "ts": 1791860419,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/387879/conversions/123-original.jpg",
-   "lang": "ne",
-   "hl": "सुरक्षित आवास : न्यायपूर्ण समाज",
-   "en": "सुरक्षित आवास : न्यायपूर्ण समाज",
-   "ne": "सुरक्षित आवास : न्यायपूर्ण समाज",
-   "imp": 2,
-   "tags": [
-    "SafeHousing",
-    "सुरक्षितआवास",
-    "Society"
-   ],
-   "cat": "society",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "मानव पुँजी निर्माणको दिशा",
-   "summary": "कुनै पनि देशको दिगो आर्थिक वृद्धि, गरिबी निवारण र साझा समृद्धिको वास्तविक इन्जिन भनेकै नागरिकको स्वास्थ्य, ज्ञान, सिप र अनुभवको एकीकृत रूप अर्थात् मानव पुँजी निर्माण गर्नु हो तर ला...",
-   "link": "https://gorkhapatraonline.com/news/226482",
-   "source": "Gorkhapatra",
-   "ts": 1791859983,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/387877/conversions/234-original.jpg",
-   "lang": "ne",
-   "hl": "मानव पुँजी निर्माणको दिशा",
-   "en": "मानव पुँजी निर्माणको दिशा",
-   "ne": "मानव पुँजी निर्माणको दिशा",
-   "imp": 2,
-   "tags": [
-    "HumanCapital",
-    "मानवपुँजी",
-    "Economy"
-   ],
-   "cat": "economy",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
-  },
-  {
    "title": "स्ट्रिमर 'झापालिस्' माथि प्रहरीले गर्‍यो सोधपुछ",
    "summary": "सामाजिक सञ्जालमा स्ट्रिमिङ गर्दै आएका 'झापालिस' भनेर चिनिने मनिष पाण्डेमाथि प्रहरीले सोधपुछ गरेको छ।",
    "link": "https://www.setopati.com/social/400711",
@@ -2878,7 +2813,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 3
+   "hits": 4
   },
   {
    "title": "वरीयतामा परिषद्को अंकुश : उच्चका थुप्रै न्यायाधीशलाई सर्वोच्चको 'ढोका बन्द' !",
@@ -4700,29 +4635,6 @@
    "hits": 2
   },
   {
-   "title": "Police arrest 98 in Kathmandu Valley under 'Sweep Operation'",
-   "summary": "KATHMANDU: Police have arrested 98 people during a 'sweep operation' conducted across the Kathmandu Valley to prevent and control crime. According to the District Police Range, Kathmandu, the arrests were made during an...",
-   "link": "https://english.khabarhub.com/2026/13/571798/",
-   "source": "Khabarhub EN",
-   "ts": 1791873607,
-   "weight": 2,
-   "img": "https://english.khabarhub.com/wp-content/uploads/2026/04/pakrau-arrest-3-400x220.jpg",
-   "lang": "en",
-   "hl": "Police arrest 98 in Kathmandu Valley under 'Sweep Operation'",
-   "en": "Police arrest 98 in Kathmandu Valley under 'Sweep Operation'",
-   "ne": "Police arrest 98 in Kathmandu Valley under 'Sweep Operation'",
-   "imp": 3,
-   "tags": [
-    "Kathmandu",
-    "Police",
-    "SweepOperation"
-   ],
-   "cat": "crime",
-   "val": 3,
-   "teaser": false,
-   "hits": 5
-  },
-  {
    "title": "अनलाइन ठगी बढ्दो, ठगका नयाँनयाँ उपाय",
    "summary": "बोमलाल गिरीनवलपुर, असोज २७ गते । नवलपुरमा अनलाइनमार्फत हुने ठगीका घटना बढ्दै गएका छन् । विभिन्न प्रलोभन देखाएर सर्वसाधारण, विशेषगरी महिलालाई लक्षित गरी ठगी गर्ने गरेको पाइएको छ । ज...",
    "link": "https://gorkhapatraonline.com/news/226517",
@@ -5758,7 +5670,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "सरकारी सवारीसाधन दुरुपयोग गर्ने पक्राउ",
@@ -7679,17 +7591,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1791283859.9650576,
-   "en": "Shyam Krishna Khadki registers candidacy for Nepali Congress president",
-   "ne": "Shyam Krishna Khadki registers candidacy for Nepali Congress president",
-   "link": "https://english.khabarhub.com/2026/06/570929/",
-   "source": "Khabarhub EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "politics"
-  },
   {
    "ts": 1791285659.0731351,
    "en": "Nepal has concluded its search-and-rescue operation following the flood: 56 Ukrainians are still missing",
@@ -10934,9 +10835,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "disaster"
+  },
+  {
+   "ts": 1791889292.0333967,
+   "en": "Police arrest 98 people in Kathmandu Valley during 'Sweep Operation'",
+   "ne": "Police arrest 98 people in Kathmandu Valley during 'Sweep Operation'",
+   "link": "https://english.khabarhub.com/2026/13/571798/",
+   "source": "Khabarhub EN",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "crime"
   }
  ],
- "updated": 1791888667,
+ "updated": 1791889308,
  "pending_since": 1791888657.700506,
  "fb_blocks": [
   1790350880.4125228,
