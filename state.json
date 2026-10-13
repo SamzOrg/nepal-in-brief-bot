@@ -2440,7 +2440,10 @@
   "https://theannapurnaexpress.com/story/67893": 1791892889.3558617,
   "https://www.setopati.com/art/art-activity/400764": 1791893452.8248394,
   "https://baahrakhari.com/detail/504848": 1791893452.8248394,
-  "https://thehimalayantimes.com/nepal/gorkha-flood-triggered-by-massive-landslide-glacial-debris-in-upper-budhi-gandaki-report-says": 1791893452.8248394
+  "https://thehimalayantimes.com/nepal/gorkha-flood-triggered-by-massive-landslide-glacial-debris-in-upper-budhi-gandaki-report-says": 1791893452.8248394,
+  "https://gorkhapatraonline.com/news/226557": 1791894049.196772,
+  "https://gorkhapatraonline.com/news/226556": 1791894049.196772,
+  "https://www.setopati.com/kinmel/others/400765": 1791894049.196772
  },
  "queue": [
   {
@@ -2601,29 +2604,6 @@
     "च्याम्पियन्सलिग"
    ],
    "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "प्रमुख निर्वाचन आयुक्त ज्ञानेश कुमारलाई हटाउन माग गर्दै केरल विधानसभाद्वारा प्रस्ताव पारित",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/504787",
-   "source": "Baahrakhari",
-   "ts": 1791865069,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "प्रमुख निर्वाचन आयुक्त ज्ञानेश कुमारलाई हटाउन माग गर्दै केरल विधानसभाद्वारा प्रस्ताव पारित",
-   "en": "प्रमुख निर्वाचन आयुक्त ज्ञानेश कुमारलाई हटाउन माग गर्दै केरल विधानसभाद्वारा प्रस्ताव पारित",
-   "ne": "प्रमुख निर्वाचन आयुक्त ज्ञानेश कुमारलाई हटाउन माग गर्दै केरल विधानसभाद्वारा प्रस्ताव पारित",
-   "imp": 1,
-   "tags": [
-    "Kerala",
-    "Assembly",
-    "India"
-   ],
-   "cat": "world",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -3545,7 +3525,7 @@
    "cat": "tech",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "स्थानीयवासीले जनश्रमदानबाट पैदल पुल निर्माण गर्दै",
@@ -7483,7 +7463,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "विद्यार्थी केन्द्रित शिक्षा ऐन बनाउन गण्डकीका सरोकारवालासँग शिक्षा संवाद",
@@ -7616,6 +7596,30 @@
     "Landslide",
     "BudhiGandaki",
     "Gorkha"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "रसुवा बाढी प्रभावित ९९ प्रतिशत क्षेत्रमा विद्युत सेवा सञ्चालन भइसक्योः ऊर्जा मन्त्रालय",
+   "summary": "रसुवाको भोटेकोशी नदीमा आएको विनाशकारी बाढी प्रभावित रसुवा, नुवाकोट र धादिङ लगायतका क्षेत्रमा करिब ९९ प्रतिशत स्थानमा विद्युत सेवा सञ्चालन भएको उर्जा, जलस्रोत तथा सिँचाइ मन्त्रालयले जनाएको छ।",
+   "link": "https://www.setopati.com/kinmel/others/400765",
+   "source": "Setopati",
+   "ts": 1791893793,
+   "weight": 3,
+   "img": null,
+   "lang": "ne",
+   "hl": "रसुवा बाढी प्रभावित ९९ प्रतिशत क्षेत्रमा विद्युत सेवा सञ्चालन भइसक्योः ऊर्जा मन्त्रालय",
+   "en": "रसुवा बाढी प्रभावित ९९ प्रतिशत क्षेत्रमा विद्युत सेवा सञ्चालन भइसक्योः ऊर्जा मन्त्रालय",
+   "ne": "रसुवा बाढी प्रभावित ९९ प्रतिशत क्षेत्रमा विद्युत सेवा सञ्चालन भइसक्योः ऊर्जा मन्त्रालय",
+   "imp": 3,
+   "tags": [
+    "Rasuwa",
+    "Electricity",
+    "EnergyMinistry",
+    "बाढी"
    ],
    "cat": "disaster",
    "val": 3,
@@ -10881,7 +10885,7 @@
    "cat": "politics"
   }
  ],
- "updated": 1791893523,
+ "updated": 1791894116,
  "pending_since": 1791892889.3558617,
  "fb_blocks": [
   1790350880.4125228,
