@@ -2400,147 +2400,13 @@
   "http://lokaantar.com/story/331237/2026/10/13/arrest-": 1791902452.3432992,
   "https://gorkhapatraonline.com/news/226570": 1791902452.3432992,
   "https://baahrakhari.com/detail/504855": 1791902452.3432992,
-  "https://gorkhapatraonline.com/news/226567": 1791902452.3432992
+  "https://gorkhapatraonline.com/news/226567": 1791902452.3432992,
+  "https://news.google.com/rss/articles/CBMiigFBVV95cUxQM2pEcjg1VE1fRHJ5T1NHQ1AzNEhiR25FcE5yU0ppdUVDSkxOaUxhTThtLUczREJFMTlIcE5ZVHdNZHhzeWZIS0hDMEU4QmNQd3VLbTQ0WGdacFZrejRSMl9ZSHBQeXd4VHViRTI2Vk9vZHotNGx0Y0Vrb1ZtNFJ0UWVnckx2Tzc3OHc?oc=5": 1791903048.8654046,
+  "https://news.google.com/rss/articles/CBMilAFBVV95cUxON2Z2TGVESDNBYWZ6YXIyUnk3LXo0bU5ZMmFCSFA2TmR1SzRiM0pOSXpQVWxRa1RHR21MTlFPeHlWYlU3M0dkYnJOTnFfeFJjUTB2MEc1SDJ2bEZSanN5UDZHdVo2WG1tNWhtbGVaRXJQcWVZYThUcEQyWU1YU3JEbnRNelpNVDJFcnZUZjhSRWduOVpm?oc=5": 1791903048.8654046,
+  "https://baahrakhari.com/detail/504857": 1791903048.8654046,
+  "https://english.khabarhub.com/2026/13/571879/": 1791903048.8654046
  },
  "queue": [
-  {
-   "title": "प्रस्तावित राजदूत कर्णलाई सांसद विष्टको प्रश्न- इसराइलको कृषि प्रविधि नेपाल भित्र्याउन तपाईंको भूमिका के?",
-   "summary": "नेपाली कम्युनिष्ट पार्टीका सांसद नरबहादुर विष्टले नेपालको कृषि क्षेत्रको आधुनिकीकरण र इजरायली प्रविधि भित्र्याउन इजरायलका लागि प्रस्तावित राजदूत सुरेशकुमार कर्णसँग के योजना छ भन्दै जिज्ञासा राखेका छन्।",
-   "link": "https://www.setopati.com/politics/400729",
-   "source": "Setopati",
-   "ts": 1791874206,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "प्रस्तावित राजदूत कर्णलाई सांसद विष्टको प्रश्न- इसराइलको कृषि प्रविधि नेपाल भित्र्याउन तपाईंको भूमिका के?",
-   "en": "प्रस्तावित राजदूत कर्णलाई सांसद विष्टको प्रश्न- इसराइलको कृषि प्रविधि नेपाल भित्र्याउन तपाईंको भूमिका के?",
-   "ne": "प्रस्तावित राजदूत कर्णलाई सांसद विष्टको प्रश्न- इसराइलको कृषि प्रविधि नेपाल भित्र्याउन तपाईंको भूमिका के?",
-   "imp": 3,
-   "tags": [
-    "Ambassador",
-    "Parliament",
-    "Israel"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 3
-  },
-  {
-   "title": "मुस्ताङबाट हालसम्म ३० प्रतिशतमात्र स्याउ निकासी",
-   "summary": "मुस्ताङ, असोज २७ गते । हालसम्म मुस्ताङमा उत्पादित ३० प्रतिशतमात्रै स्याउ जिल्ला बाहिर निकासी भएको छ । असोज ११ गतेको भारी वर्षाका कारण बाढीपहिरो र नदी कटानले बेनी-जोमसोम सडक दुई सात...",
-   "link": "https://gorkhapatraonline.com/news/226519",
-   "source": "Gorkhapatra",
-   "ts": 1791874138,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/387928/conversions/apple-farm-original.jpg",
-   "lang": "ne",
-   "hl": "मुस्ताङबाट हालसम्म ३० प्रतिशतमात्र स्याउ निकासी",
-   "en": "मुस्ताङबाट हालसम्म ३० प्रतिशतमात्र स्याउ निकासी",
-   "ne": "मुस्ताङबाट हालसम्म ३० प्रतिशतमात्र स्याउ निकासी",
-   "imp": 2,
-   "tags": [
-    "Mustang",
-    "Apple",
-    "Agriculture"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 3
-  },
-  {
-   "title": "फुङ्लिङमा बजार अनुगमन तीव्र",
-   "summary": "सोमबार माछा तथा मासु पसलको अनुगमन गरेको अनुगमन टोलीले मंगलबार बिहान किराना, खाद्यान्न तथा तरकारी पसलहरूको अनुगमन गरेको हो।...",
-   "link": "https://nagariknews.nagariknetwork.com/economy/market-monitoring-intensified-in-phungling-85-27.html",
-   "source": "Nagarik News",
-   "ts": 1791874054,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1791874039_bazar.jpg",
-   "lang": "ne",
-   "hl": "फुङ्लिङमा बजार अनुगमन तीव्र",
-   "en": "फुङ्लिङमा बजार अनुगमन तीव्र",
-   "ne": "फुङ्लिङमा बजार अनुगमन तीव्र",
-   "imp": 2,
-   "tags": [
-    "MarketMonitoring",
-    "Taplejung",
-    "बजारअनुगमन"
-   ],
-   "cat": "society",
-   "val": 2,
-   "teaser": false,
-   "hits": 4
-  },
-  {
-   "title": "Nareshwar Sharma Poudel Elected President of Butwal Chamber of Commerce and Industry, Rupandehi",
-   "summary": "Butwal. Nareshwar Sharma Poudel has been elected as the President of Butwal Chamber of Commerce and Industry, Rupandehi. Poudel was...",
-   "link": "http://english.ratopati.com/story/83549/narishwar-poudel-elected-as-president-of-butwal-chamber-of-commerce-and-industry",
-   "source": "Ratopati EN",
-   "ts": 1791873943,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/messenger_creation_2bd8fa70-418e-47d5-bec3-a2a6382b8b89_KQyRnzhzYV.webp",
-   "lang": "en",
-   "hl": "Nareshwar Sharma Poudel Elected President of Butwal Chamber of Commerce and Industry, Rupandehi",
-   "en": "Nareshwar Sharma Poudel Elected President of Butwal Chamber of Commerce and Industry, Rupandehi",
-   "ne": "Nareshwar Sharma Poudel Elected President of Butwal Chamber of Commerce and Industry, Rupandehi",
-   "imp": 2,
-   "tags": [
-    "Butwal",
-    "ChamberOfCommerce",
-    "Rupandehi"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "गुणस्तरहीन सडक निर्माण भएको भन्दै स्थानीयद्वारा काम अवरुद्ध",
-   "summary": "लहान समाचारदातालहान, असोज २७ गते । लहान नगरपालिका-१, २, ३ र १९ लाई जोड्ने मुख्य सडकको निर्माण गुणस्तरहीन भएको भन्दै स्थानीयवासीले निर्माण कार्य अवरुद्ध गरेका छन् ।दुई किलोमिटर लामो...",
-   "link": "https://gorkhapatraonline.com/news/226518",
-   "source": "Gorkhapatra",
-   "ts": 1791873751,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/387927/conversions/kamsal-sadak-nirman-newsphotocapsion-jibachh-original.jpg",
-   "lang": "ne",
-   "hl": "गुणस्तरहीन सडक निर्माण भएको भन्दै स्थानीयद्वारा काम अवरुद्ध",
-   "en": "गुणस्तरहीन सडक निर्माण भएको भन्दै स्थानीयद्वारा काम अवरुद्ध",
-   "ne": "गुणस्तरहीन सडक निर्माण भएको भन्दै स्थानीयद्वारा काम अवरुद्ध",
-   "imp": 2,
-   "tags": [
-    "RoadConstruction",
-    "Protest",
-    "सडक"
-   ],
-   "cat": "society",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "अनलाइन ठगी बढ्दो, ठगका नयाँनयाँ उपाय",
-   "summary": "बोमलाल गिरीनवलपुर, असोज २७ गते । नवलपुरमा अनलाइनमार्फत हुने ठगीका घटना बढ्दै गएका छन् । विभिन्न प्रलोभन देखाएर सर्वसाधारण, विशेषगरी महिलालाई लक्षित गरी ठगी गर्ने गरेको पाइएको छ । ज...",
-   "link": "https://gorkhapatraonline.com/news/226517",
-   "source": "Gorkhapatra",
-   "ts": 1791873673,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/387926/conversions/converted_image-(65)-original.jpg",
-   "lang": "ne",
-   "hl": "अनलाइन ठगी बढ्दो, ठगका नयाँनयाँ उपाय",
-   "en": "अनलाइन ठगी बढ्दो, ठगका नयाँनयाँ उपाय",
-   "ne": "अनलाइन ठगी बढ्दो, ठगका नयाँनयाँ उपाय",
-   "imp": 3,
-   "tags": [
-    "OnlineFraud",
-    "CyberCrime",
-    "अनलाइनठगी"
-   ],
-   "cat": "crime",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
   {
    "title": "उत्तर कोरियाली नेता किम जोङ उनसँगको भेटवार्ता योजनाबारे के भन्छन् डोनाल्ड ट्रम्प ?",
    "summary": "",
@@ -5423,29 +5289,6 @@
    ],
    "cat": "health",
    "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "बन्दी प्रत्यक्षीकरण र म्याद थपमा सर्वोच्चको 'ऐतिहासिक' फैसला",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/504843",
-   "source": "Baahrakhari",
-   "ts": 1791891155,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "बन्दी प्रत्यक्षीकरण र म्याद थपमा सर्वोच्चको 'ऐतिहासिक' फैसला",
-   "en": "बन्दी प्रत्यक्षीकरण र म्याद थपमा सर्वोच्चको 'ऐतिहासिक' फैसला",
-   "ne": "बन्दी प्रत्यक्षीकरण र म्याद थपमा सर्वोच्चको 'ऐतिहासिक' फैसला",
-   "imp": 4,
-   "tags": [
-    "SupremeCourt",
-    "Legal",
-    "सर्वोच्चअदालत"
-   ],
-   "cat": "politics",
-   "val": 3,
    "teaser": false,
    "hits": 1
   },
@@ -10429,10 +10272,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "politics"
+  },
+  {
+   "ts": 1791903153.5965989,
+   "en": "सुप्रीम कोर्टले असोज २७, २०८३ मा बैकिङ कसूरको बन्दी प्रत्यक्षीकरण र म्याद थपमा ऐतिहासिक फैसला सुनायो",
+   "ne": "सुप्रीम कोर्टले असोज २७, २०८३ मा बैकिङ कसूरको बन्दी प्रत्यक्षीकरण र म्याद थपमा ऐतिहासिक फैसला सुनायो",
+   "link": "https://baahrakhari.com/detail/504843",
+   "source": "Baahrakhari",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "politics"
   }
  ],
- "updated": 1791902486,
- "pending_since": null,
+ "updated": 1791903166,
+ "pending_since": 1791903048.8654046,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
