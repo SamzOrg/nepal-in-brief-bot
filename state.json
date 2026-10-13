@@ -2531,28 +2531,6 @@
    "hits": 1
   },
   {
-   "title": "President issues two ordinances",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTU5zVmVPbFBDeVNYY0xOZzVUWFpjN0Vxd0dOQnJ4R3FrS09uZFdWSzE1SkN3TC1TanpxWjI0OGlVWkdwUGl2SVhXOGRia2hjREh4MlhheUYwc2o0NjNEaTlSN2hVTGRjZXR3TGpqejJPcDNGdko1QndsdnZBZW53NndNc1dlcU5zblpXazdWUQ?oc=5",
-   "source": "myRepublica",
-   "ts": 1791899982,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "President issues two ordinances",
-   "en": "President issues two ordinances",
-   "ne": "President issues two ordinances",
-   "imp": 3,
-   "tags": [
-    "President",
-    "Ordinances"
-   ],
-   "cat": "politics",
-   "val": 2,
-   "teaser": false,
-   "hits": 2
-  },
-  {
    "title": "असाधारण अवसर पाएका गगन थापाका अगाडि ४ चुनौती",
    "summary": "गगन थापा बिपीपछि तुलनात्मक रूपले बलियो अवस्थामा रहेका सभापति हुन्। बिपीपछि आफै राजनीतिक दस्तावेज लेख्ने र प्रस्तुत गर्ने क्षमता भएको सभापतिका रूपमा गगनलाई हेर्न सकिने आधार छन्। उमेर र राजनीतिक सक्रियताका हिसाबले पनि...",
    "link": "https://www.setopati.com/opinion/400771",
@@ -2638,28 +2616,6 @@
    ],
    "cat": "sports",
    "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "विमानस्थलमा पैसा असुलेको आरोप, अध्यागमनले भन्यो- ट्रान्जेक्सन देखियो",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/504855",
-   "source": "Baahrakhari",
-   "ts": 1791900023,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "विमानस्थलमा पैसा असुलेको आरोप, अध्यागमनले भन्यो- ट्रान्जेक्सन देखियो",
-   "en": "विमानस्थलमा पैसा असुलेको आरोप, अध्यागमनले भन्यो- ट्रान्जेक्सन देखियो",
-   "ne": "विमानस्थलमा पैसा असुलेको आरोप, अध्यागमनले भन्यो- ट्रान्जेक्सन देखियो",
-   "imp": 3,
-   "tags": [
-    "Airport",
-    "MoneyLaundering"
-   ],
-   "cat": "crime",
-   "val": 3,
    "teaser": false,
    "hits": 1
   },
@@ -3087,30 +3043,6 @@
     "FlightSafety"
    ],
    "cat": "tech",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "National grid electricity reaches remote Hatiya in Sankhuwasabha",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYXF0dXFDTXVpSjUta0FBQUtsX2MyTmJvWTI3dnl6dVNDMHB5Q0pjMFlDcVFiaHRkXzFyMHNsYWdiY3pLUnZBM3JaVkk1X0xMbzNRQlpoRWdKdWhKRElIaFFBOE0weEdOVFdEOVlLUXZLRDRQdDJEeVJkZ1ZieUQ0ZGMtaDR4UHVwTEVkZVFMZFA3aUtYeDBRcUkzdXRPaWZmZVJmYkZjVmZxWGdCT3BhVThkUXdzcXJLcExj?oc=5",
-   "source": "myRepublica",
-   "ts": 1791899580,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "National grid electricity reaches remote Hatiya in Sankhuwasabha",
-   "en": "National grid electricity reaches remote Hatiya in Sankhuwasabha",
-   "ne": "National grid electricity reaches remote Hatiya in Sankhuwasabha",
-   "imp": 2,
-   "tags": [
-    "NationalGrid",
-    "Hatiya",
-    "Sankhuwasabha",
-    "Electricity"
-   ],
-   "cat": "society",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -6908,7 +6840,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1791928260,
+ "updated": 1791928912,
  "pending_since": 1791927648.7497473,
  "fb_blocks": [
   1790350880.4125228,
