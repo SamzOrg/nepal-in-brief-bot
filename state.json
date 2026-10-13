@@ -2697,7 +2697,11 @@
   "http://english.ratopati.com/story/83506/travelers-have-started-leaving-for-dashain-what-is-the-condition-of-which-roads": 1791855074.667542,
   "https://gorkhapatraonline.com/news/226470": 1791855074.667542,
   "https://news.google.com/rss/articles/CBMid0FVX3lxTE1pSVNsSTREanZibkdqRlduRGJ6dXJEcGxqREkwT2JQcmJqTjZPSENreUhqcnBhV3JaRWpveHpaNlhMNjVqMHdXN21JSEZnR2tSRkhlWEpGTEFQazNueHMtU2cwQ2JzQzE4S21OMGhlRHNXcVdNWVZN?oc=5": 1791855074.667542,
-  "https://kathmandupost.com/columns/2026/10/12/can-himalayan-floods-bridge-the-india-china-divide": 1791855074.667542
+  "https://kathmandupost.com/columns/2026/10/12/can-himalayan-floods-bridge-the-india-china-divide": 1791855074.667542,
+  "https://english.khabarhub.com/2026/13/571773/": 1791855647.087415,
+  "https://kathmandupost.com/editorial/2026/10/12/nepal-s-provinces-must-stop-manufacturing-ministers-and-start-governing": 1791855647.087415,
+  "https://news.google.com/rss/articles/CBMixgFBVV95cUxQOXpyaWhWQ3I0TTM3c0VBczA3N1hQUThXZFR5NXRMenJOUFZDd3c2N0tQRTRZaGE0c2dTSks1c01pOG9OVkd2V3kyQWxPVXhuOVd0czVwTWViMVpPZFJGOXd0cTViaGw1NmhXb3dtR1NtOHE3YjFiQ0ZfdHJXYWJmNTgzSzc1Nnc4M2NqdHVNUjdHMkR4UnpUWDVfSGQ4RjlzNUpYSmpLQVZ5Mzg0RkJBY3hscVZrcWpuOHRNWC1MSGxULXNNdXc?oc=5": 1791855647.087415,
+  "https://news.google.com/rss/articles/CBMiakFVX3lxTE0yZ0dVdG0wQ0ZHUVRnb25fbkRYNkN3azczM2wtTUtMbzc1WGxHYUt1TmdLNmZ0djRoWC1qVTNldVFxaTFJYW1jUVFCbnBxeW1mWDdHTE5ldDRKUmRNV01iWkYzSnl1bTR5Umc?oc=5": 1791855647.087415
  },
  "queue": [
   {
@@ -3723,6 +3727,28 @@
    "cat": "disaster",
    "val": 1,
    "teaser": true,
+   "hits": 1
+  },
+  {
+   "title": "Americans Hall and Woodford win economics Nobel for stabilisation models",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQOXpyaWhWQ3I0TTM3c0VBczA3N1hQUThXZFR5NXRMenJOUFZDd3c2N0tQRTRZaGE0c2dTSks1c01pOG9OVkd2V3kyQWxPVXhuOVd0czVwTWViMVpPZFJGOXd0cTViaGw1NmhXb3dtR1NtOHE3YjFiQ0ZfdHJXYWJmNTgzSzc1Nnc4M2NqdHVNUjdHMkR4UnpUWDVfSGQ4RjlzNUpYSmpLQVZ5Mzg0RkJBY3hscVZrcWpuOHRNWC1MSGxULXNNdXc?oc=5",
+   "source": "myRepublica",
+   "ts": 1791854100,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "Americans Hall and Woodford win economics Nobel for stabilisation models",
+   "en": "Americans Hall and Woodford win economics Nobel for stabilisation models",
+   "ne": "Americans Hall and Woodford win economics Nobel for stabilisation models",
+   "imp": 1,
+   "tags": [
+    "NobelPrize",
+    "Economics"
+   ],
+   "cat": "world",
+   "val": 3,
+   "teaser": false,
    "hits": 1
   }
  ],
@@ -6973,7 +6999,7 @@
    "cat": "economy"
   }
  ],
- "updated": 1791855089,
+ "updated": 1791855652,
  "pending_since": 1791855074.667542,
  "fb_blocks": [
   1790350880.4125228,
