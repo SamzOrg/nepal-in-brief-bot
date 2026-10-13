@@ -2478,7 +2478,10 @@
   "https://gorkhapatraonline.com/news/226542": 1791890452.7915323,
   "https://nagariknews.nagariknetwork.com/politics/we-will-unite-the-party-by-respecting-deuba-ramhari-khatiwada-53-72.html": 1791890452.7915323,
   "https://gorkhapatraonline.com/news/226537": 1791890452.7915323,
-  "https://nagariknews.nagariknetwork.com/Aparadh/15-people-arrested-with-drugs-from-7-districts-15-74.html": 1791890452.7915323
+  "https://nagariknews.nagariknetwork.com/Aparadh/15-people-arrested-with-drugs-from-7-districts-15-74.html": 1791890452.7915323,
+  "https://gorkhapatraonline.com/news/226548": 1791891070.530859,
+  "https://www.setopati.com/social/400757": 1791891070.530859,
+  "https://risingnepaldaily.com/news/87757": 1791891070.530859
  },
  "queue": [
   {
@@ -2573,29 +2576,6 @@
    "hits": 1
   },
   {
-   "title": "समावेशीकरणको दिशामा नयाँ फड्को : गोरखापत्रद्वारा प्रकाशित मुगाल भाषा",
-   "summary": "",
-   "link": "https://gorkhapatraonline.com/news/226489",
-   "source": "Gorkhapatra",
-   "ts": 1791861890,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/387886/conversions/433-original.jpg",
-   "lang": "ne",
-   "hl": "समावेशीकरणको दिशामा नयाँ फड्को : गोरखापत्रद्वारा प्रकाशित मुगाल भाषा",
-   "en": "समावेशीकरणको दिशामा नयाँ फड्को : गोरखापत्रद्वारा प्रकाशित मुगाल भाषा",
-   "ne": "समावेशीकरणको दिशामा नयाँ फड्को : गोरखापत्रद्वारा प्रकाशित मुगाल भाषा",
-   "imp": 2,
-   "tags": [
-    "Gorkhapatra",
-    "MugalLanguage",
-    "समान्वेसीकरण"
-   ],
-   "cat": "culture",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "हुथीको क्षेप्यास्त्रले छल्यो साउदीको हवाई सुरक्षा प्रणाली, अनुसन्धान हुँदै",
    "summary": "साउदी अरबले राजधानी रियादस्थित विमानस्थलमा क्षेप्यास्त्र र ड्रोनको आक्रमण रोक्न नसकेको विषयमा अनुसन्धान थालेको छ।",
    "link": "https://www.setopati.com/social/400708",
@@ -2617,29 +2597,6 @@
    "val": 3,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "Inter-Provincial Chief Ministers Conference Begins in Biratnagar",
-   "summary": "Biratnagar. A two-day Inter-Provincial Chief Ministers Conference-2083, with the participation of Chief Ministers from all seven provinces, organized by the...",
-   "link": "http://english.ratopati.com/story/83515/chief-ministers-conference-to-be-held-in-biratnagar-from-today-to-discuss-federalism-and-development-partnership",
-   "source": "Ratopati EN",
-   "ts": 1791861859,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/mukhyamantri-sammelan_movBtB5vV4.webp",
-   "lang": "en",
-   "hl": "Inter-Provincial Chief Ministers Conference Begins in Biratnagar",
-   "en": "Inter-Provincial Chief Ministers Conference Begins in Biratnagar",
-   "ne": "Inter-Provincial Chief Ministers Conference Begins in Biratnagar",
-   "imp": 3,
-   "tags": [
-    "ChiefMinisters",
-    "Biratnagar",
-    "ProvincialGovernment"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 4
   },
   {
    "title": "वरीयतामा परिषद्को अंकुश : उच्चका थुप्रै न्यायाधीशलाई सर्वोच्चको 'ढोका बन्द' !",
@@ -3123,27 +3080,6 @@
    "val": 2,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "Tag",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1URDNXWjdvRDNVeUl3OHd6UTJGR1NrSDAxXzFuek9EMjVLMEJ4bXJCU1ZoaF9VZkZ3dHFhQUZNTFZDMXc0ZFBIQkd4STJTR3o3S3dhVHVlSFpadzN5a1BBQU53UDNVeE1LMHpJQ0RR?oc=5",
-   "source": "myRepublica",
-   "ts": 1791862127,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Tag",
-   "en": "Tag",
-   "ne": "Tag",
-   "imp": 1,
-   "tags": [
-    "Tag"
-   ],
-   "cat": "other",
-   "val": 1,
-   "teaser": false,
-   "hits": 3
   },
   {
    "title": "राजमार्गमा हुने दुर्घटनाको उपचार सहज बनाइने",
@@ -3671,30 +3607,6 @@
    "cat": "politics",
    "val": 1,
    "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "साङ्घाई मास्टर्समा अल्काराज स्तब्ध, ज्वेरेभ वर्षको नम्बर एक खेलाडी",
-   "summary": "स्पेनिस टेनिस स्टार कार्लोस अल्काराज साङ्घाई मास्टर्स टेनिस प्रतियोगिताको अन्तिम ३२ बाटै बाहिरिएका छन्।...",
-   "link": "https://nagariknews.nagariknetwork.com/sports/alcaraz-stunned-at-shanghai-masters-zverev-becomes-number-one-player-of-the-year-21-16.html",
-   "source": "Nagarik News",
-   "ts": 1791862039,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1791862031_New%20Project%20(12).jpg",
-   "lang": "ne",
-   "hl": "साङ्घाई मास्टर्समा अल्काराज स्तब्ध, ज्वेरेभ वर्षको नम्बर एक खेलाडी",
-   "en": "साङ्घाई मास्टर्समा अल्काराज स्तब्ध, ज्वेरेभ वर्षको नम्बर एक खेलाडी",
-   "ne": "साङ्घाई मास्टर्समा अल्काराज स्तब्ध, ज्वेरेभ वर्षको नम्बर एक खेलाडी",
-   "imp": 1,
-   "tags": [
-    "Tennis",
-    "ShanghaiMasters",
-    "Alcaraz",
-    "Zverev"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
    "hits": 1
   },
   {
@@ -5891,29 +5803,6 @@
    "hits": 3
   },
   {
-   "title": "Rights groups demand immediate housing, special relief package for flood victims",
-   "summary": "Kathmandu, October 13 A group of rights organisations has urged the government to arrange temporary and permanent housing and announce a special livelihood support package for people affected by floods in Rasuwa, the...",
-   "link": "https://english.onlinekhabar.com/rights-groups-demand-immediate-housing-special-relief-package-for-flood-victims.html",
-   "source": "Onlinekhabar EN",
-   "ts": 1791881565,
-   "weight": 3,
-   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/10/holding-centere-1-1024x683-1.jpg",
-   "lang": "en",
-   "hl": "Rights groups demand immediate housing, special relief package for flood victims",
-   "en": "Rights groups demand immediate housing, special relief package for flood victims",
-   "ne": "Rights groups demand immediate housing, special relief package for flood victims",
-   "imp": 4,
-   "tags": [
-    "FloodVictims",
-    "ReliefPackage",
-    "पहिरो"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "विशेष मूल्य समायोजन कार्यविधि पूर्वाधार क्षेत्रका लागि 'कोसेढुंगा'",
    "summary": "लामो समयदेखि विभिन्न कारणले समस्याग्रस्त बनेको पूर्वाधार क्षेत्रलाई गति दिन मूल्य समायोजनसम्बन्धी विषयलाई महासंघको नवनिर्वाचित कार्यसमितिले प्रमुख एजेन्डाका रूपमा उठाउँदै आएको जनाएको छ।...",
    "link": "https://nagariknews.nagariknetwork.com/economy/special-price-adjustment-procedure-a-milestone-for-the-infrastructure-sector-16-28.html",
@@ -7553,7 +7442,7 @@
    "cat": "tech",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "मबिकिन्सको पावर बैंक भारतीय उडानमा प्रतिबन्ध",
@@ -7692,20 +7581,32 @@
    "val": 3,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "NCP coordinator Prachanda participates in 'Ghewa' ritual for Rasuwa-Bhotekoshi dead",
+   "summary": "Betrawati, Oct 13: Coordinator of the Nepali Communist Party (NCP) and former Prime Minister, Pushpa Kamal Dahal 'Pracha...",
+   "link": "https://risingnepaldaily.com/news/87757",
+   "source": "Rising Nepal",
+   "ts": 1791890585,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "NCP coordinator Prachanda participates in 'Ghewa' ritual for Rasuwa-Bhotekoshi dead",
+   "en": "NCP coordinator Prachanda participates in 'Ghewa' ritual for Rasuwa-Bhotekoshi dead",
+   "ne": "NCP coordinator Prachanda participates in 'Ghewa' ritual for Rasuwa-Bhotekoshi dead",
+   "imp": 3,
+   "tags": [
+    "Prachanda",
+    "NCP",
+    "RasuwaBhotekoshi"
+   ],
+   "cat": "politics",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1791285659.0731351,
-   "en": "Nepal has concluded its search-and-rescue operation following the flood: 56 Ukrainians are still missing",
-   "ne": "Nepal has concluded its search-and-rescue operation following the flood: 56 Ukrainians are still missing",
-   "link": "https://news.liga.net/en/society/news/nepal-has-concluded-its-search-and-rescue-operation-following-the-flood-56-ukrainians-are-still-missing",
-   "source": "LIGA.net",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "disaster"
-  },
   {
    "ts": 1791287458.9169135,
    "en": "तातोपानी नाका सञ्चालन गर्न चीन अझै तयार छैन: मन्त्री सुनिल लम्साल",
@@ -10950,10 +10851,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "crime"
+  },
+  {
+   "ts": 1791891078.4690967,
+   "en": "Rights groups demand housing and relief for flood victims in Rasuwa and river areas",
+   "ne": "Rights groups demand housing and relief for flood victims in Rasuwa and river areas",
+   "link": "https://english.onlinekhabar.com/rights-groups-demand-immediate-housing-special-relief-package-for-flood-victims.html",
+   "source": "Onlinekhabar EN",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "disaster"
   }
  ],
- "updated": 1791890459,
- "pending_since": null,
+ "updated": 1791891088,
+ "pending_since": 1791891070.530859,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
