@@ -1,12 +1,5 @@
 {
  "seen": {
-  "https://gorkhapatraonline.com/news/226252": 1791689467.2898812,
-  "https://kathmandupost.com/gandaki-province/2026/10/11/four-people-unaccounted-for-after-budhi-gandaki-floods": 1791689467.2898812,
-  "http://lokaantar.com/story/331017/2026/10/11/gorkha-flood-": 1791689467.2898812,
-  "https://www.setopati.com/social/400550": 1791689467.2898812,
-  "https://nagariknews.nagariknetwork.com/social-affairs/budhigandaki-flood-bridges-at-soti-and-machikhola-washed-away-condition-of-four-people-unknown-28-22.html": 1791689467.2898812,
-  "https://nagariknews.nagariknetwork.com/social-affairs/risk-persists-as-flood-flow-in-budhigandaki-continues-to-fluctuate-chief-parajuli-96-34.html": 1791689467.2898812,
-  "https://risingnepaldaily.com/news/87657": 1791689467.2898812,
   "https://gorkhapatraonline.com/news/226253": 1791690049.7281651,
   "https://thehimalayantimes.com/nepal/budhigandaki-flood-washes-away-35-houses-in-gorkha": 1791690049.7281651,
   "http://english.ratopati.com/story/83269/timely-vigilance-prevented-human-casualties-but-major-damage-to-physical-infrastructure-dharche-rural-municipality-chairman-gurung": 1791690049.7281651,
@@ -2693,7 +2686,9 @@
   "https://nagariknews.nagariknetwork.com/politics/those-who-are-creating-loot-in-the-name-of-democracy-are-portraying-themselves-as-the-guardians-of-the-republic-rajiv-khatri-69-68.html": 1791861650.5897589,
   "https://theannapurnaexpress.com/story/67876": 1791861650.5897589,
   "https://nagariknews.nagariknetwork.com/education/is-it-possible-to-have-a-nutritious-lunch-for-20-rupees-per-student-35-38.html": 1791861650.5897589,
-  "https://nagariknews.nagariknetwork.com/social-affairs/market-opens-in-pokhara-to-sell-sheep-meat-for-dashain-br-90-14.html": 1791861650.5897589
+  "https://nagariknews.nagariknetwork.com/social-affairs/market-opens-in-pokhara-to-sell-sheep-meat-for-dashain-br-90-14.html": 1791861650.5897589,
+  "https://english.khabarhub.com/2026/13/571782/": 1791862272.108908,
+  "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQ3RMOXVWdXdiS0hYT21jaHVPcmR3eHowN3JYcnJwTldFNldWcTNTRGJBdVJnQi12OGRrNEU0aXN6ZWs5bUttd1hrVEhva19SVmRzVEVLVzZ5SlZDRFQ4VlNkTnRZUTltZHZiZkFlbTFUazZnMjV2MlUwNG53azVjaWZBQjBWbExRQWp3Qw?oc=5": 1791862272.108908
  },
  "queue": [
   {
@@ -4053,7 +4048,7 @@
    "cat": "disaster",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "रियादको किङ खालिद अन्तर्राष्ट्रिय विमानस्थल अक्टोबर १७ सम्म बन्द",
@@ -5156,17 +5151,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1791256850.8158815,
-   "en": "Parliamentary Committee to Study Bhote Koshi Flood Impact Meets Today",
-   "ne": "Parliamentary Committee to Study Bhote Koshi Flood Impact Meets Today",
-   "link": "http://english.ratopati.com/story/82480/meeting-of-the-parliamentary-special-committee-to-study-the-impact-of-the-bhotekoshi-floods-is-being-held-today",
-   "source": "Ratopati EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "disaster"
-  },
   {
    "ts": 1791258657.3150177,
    "en": "NC pledges no pre-election alliances and unveils 15-point commitments in Kathmandu",
@@ -8413,8 +8397,8 @@
    "cat": "education"
   }
  ],
- "updated": 1791861677,
- "pending_since": null,
+ "updated": 1791862275,
+ "pending_since": 1791862272.108908,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
