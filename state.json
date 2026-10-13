@@ -2670,7 +2670,11 @@
   "https://gorkhapatraonline.com/news/226487": 1791864088.531242,
   "https://kathmandupost.com/national/2026/10/13/rsp-orders-probe-into-allegations-against-lawmaker-khagendra-sunar": 1791864648.872391,
   "https://theannapurnaexpress.com/story/67881": 1791864648.872391,
-  "https://theannapurnaexpress.com/story/67880": 1791864648.872391
+  "https://theannapurnaexpress.com/story/67880": 1791864648.872391,
+  "https://news.google.com/rss/articles/CBMibEFVX3lxTE0yeU54WDdHTU4yV1BqZGo4R2tKM2RpM2R1STdvWkRwdnlDV0R0aUlTcUxMeTNGdGlBMks2YktSdDk0SnZ2bmlDX05pLXhlc0NTcnJYSVVsSGRvWG5jQ1ptTldzOVdFNFdWdW1IYw?oc=5": 1791865250.9533787,
+  "http://lokaantar.com/story/331197/2026/10/13/khagendra-sunar-": 1791865250.9533787,
+  "http://english.ratopati.com/story/83520/budhi-gandaki-flood-power-supply-restored-to-all-areas-except-dharche": 1791865250.9533787,
+  "https://nagariknews.nagariknetwork.com/economy/budhi-gandaki-flood-work-begins-in-dharche-since-morning-efforts-to-provide-electricity-to-khorlabensi-today-71-29.html": 1791865250.9533787
  },
  "queue": [
   {
@@ -4859,29 +4863,6 @@
    "hits": 1
   },
   {
-   "title": "अडियो प्रकरणले विवादमा तानिएका खगेन्द्र सुनारमाथि रास्वपाले थाल्यो छानबिन",
-   "summary": "राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा)का सांसद खगेन्द्र सुनारले फोनमार्फत महिलामाथि दुर्व्यवहार गरेको भनिएको अडियोबारे छानबिन सुरू भएको छ।",
-   "link": "https://www.setopati.com/politics/400709",
-   "source": "Setopati",
-   "ts": 1791860940,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "अडियो प्रकरणले विवादमा तानिएका खगेन्द्र सुनारमाथि रास्वपाले थाल्यो छानबिन",
-   "en": "अडियो प्रकरणले विवादमा तानिएका खगेन्द्र सुनारमाथि रास्वपाले थाल्यो छानबिन",
-   "ne": "अडियो प्रकरणले विवादमा तानिएका खगेन्द्र सुनारमाथि रास्वपाले थाल्यो छानबिन",
-   "imp": 3,
-   "tags": [
-    "KhagendraSunar",
-    "RSP",
-    "छानबिन"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 3
-  },
-  {
    "title": "चीन-ईयू व्यापार युद्ध टार्न वार्षिक तीन लाख ५० हजार गाडी आयात गर्ने सहमति",
    "summary": "",
    "link": "https://baahrakhari.com/detail/504782",
@@ -5426,6 +5407,28 @@
    ],
    "cat": "sports",
    "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "बुढीगण्डकी बाढी : धार्चेमा बिहानैदेखि काम सुरु, खोर्लाबेंसीसम्म आजै बिजुली पुर्‍याउने प्रयास",
+   "summary": "मन्त्री विराज भक्त श्रेष्ठका अनुसार बाढीबाट क्षति पुगेको विद्युत् प्रणालीअन्तर्गत धार्चे गाउँपालिका बाहेकका सबै क्षेत्रमा विद्युत् आपूर्ति पुनः सञ्चालनमा आएको छ।...",
+   "link": "https://nagariknews.nagariknetwork.com/economy/budhi-gandaki-flood-work-begins-in-dharche-since-morning-efforts-to-provide-electricity-to-khorlabensi-today-71-29.html",
+   "source": "Nagarik News",
+   "ts": 1791864621,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2025/third-party/1791864604_bijuli.jpg",
+   "lang": "ne",
+   "hl": "बुढीगण्डकी बाढी : धार्चेमा बिहानैदेखि काम सुरु, खोर्लाबेंसीसम्म आजै बिजुली पुर्‍याउने प्रयास",
+   "en": "बुढीगण्डकी बाढी : धार्चेमा बिहानैदेखि काम सुरु, खोर्लाबेंसीसम्म आजै बिजुली पुर्‍याउने प्रयास",
+   "ne": "बुढीगण्डकी बाढी : धार्चेमा बिहानैदेखि काम सुरु, खोर्लाबेंसीसम्म आजै बिजुली पुर्‍याउने प्रयास",
+   "imp": 4,
+   "tags": [
+    "बुढीगण्डकी",
+    "बिजुली"
+   ],
+   "cat": "disaster",
+   "val": 2,
    "teaser": false,
    "hits": 1
   }
@@ -8675,9 +8678,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "disaster"
+  },
+  {
+   "ts": 1791865258.9377778,
+   "en": "अडियो प्रकरणमा मुछिएका रास्वपा सांसद खगेन्द्र सुनारमाथि छानबिन सुरु",
+   "ne": "अडियो प्रकरणमा मुछिएका रास्वपा सांसद खगेन्द्र सुनारमाथि छानबिन सुरु",
+   "link": "https://www.setopati.com/politics/400709",
+   "source": "Setopati",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "politics"
   }
  ],
- "updated": 1791864655,
+ "updated": 1791865276,
  "pending_since": 1791864648.872391,
  "fb_blocks": [
   1790350880.4125228,
