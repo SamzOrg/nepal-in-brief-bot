@@ -2648,7 +2648,9 @@
   "https://nagariknews.nagariknetwork.com/politics/to-loot-and-plunder-while-doing-nothing-to-keep-128-of-his-own-people-to-empty-the-state-treasury-by-riding-in-a-helicopter-79-88.html": 1791868854.878843,
   "https://gorkhapatraonline.com/news/226501": 1791868854.878843,
   "https://nagariknews.nagariknetwork.com/opinion/challenges-of-parties-in-local-elections-51-10.html": 1791868854.878843,
-  "https://nagariknews.nagariknetwork.com/sports/alcaraz-stunned-at-shanghai-masters-zverev-becomes-number-one-player-of-the-year-21-16.html": 1791868854.878843
+  "https://nagariknews.nagariknetwork.com/sports/alcaraz-stunned-at-shanghai-masters-zverev-becomes-number-one-player-of-the-year-21-16.html": 1791868854.878843,
+  "https://nagariknews.nagariknetwork.com/politics/congress-general-convention-ramhari-khatiwada-gets-2-279-votes-for-joint-general-secretary-42-74.html": 1791869470.8674161,
+  "https://news.google.com/rss/articles/CBMitgFBVV95cUxPclItMnZWYWNoSmo1YnVIR3RnR3ZpcEtkMDloeldMdFVWUEdXSXZ4WDN2THdDNFBtMDBRNmlCMm1wMlp2WXVER1RLX0dHLVBPM1QyN2VfVWo1cG80alAxZ1NKU2ZhamJFNkNDRU4ycGV2TWxqaXBYRko0OVB5RnBvRXlxV1paVWhoUG1wU21JTEdkaE91Rjh1V1l1dHFhRURlUWs1Q1MyUThvaFl3cXlRMzhKSzdWd9IBuwFBVV95cUxPV0NfbzYyWUxKQ241WlR6VlpuQVU5MXdXNU41TmVUamhJTjVrN2g3QzQ5a2VCT005OXlzSmdWNHNqc0xTbWdYX1RVOTNCbDN3bDNNSXJzMnBzaWVPUmFndnRjcl8tM3I0T29FMkFpRi11ZDU3Y1k5c3hxMkoteERCVnpOVkNYTjZNQ0p4RnBxMjFzbU5iZ1g4bjlQOVBZZVhoanY0UGhJdGtUYV84Z2JnRHRNdnFJY0g0MVgw?oc=5": 1791869470.8674161
  },
  "queue": [
   {
@@ -2763,7 +2765,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 5
+   "hits": 6
   },
   {
    "title": "थप पाँच जना प्रस्तावित राजदूतको सुनुवाइ आज",
@@ -6321,20 +6323,33 @@
    "val": 3,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "More than 100 foreign trekkers stranded by floods in Nepal's Gorkha region",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPclItMnZWYWNoSmo1YnVIR3RnR3ZpcEtkMDloeldMdFVWUEdXSXZ4WDN2THdDNFBtMDBRNmlCMm1wMlp2WXVER1RLX0dHLVBPM1QyN2VfVWo1cG80alAxZ1NKU2ZhamJFNkNDRU4ycGV2TWxqaXBYRko0OVB5RnBvRXlxV1paVWhoUG1wU21JTEdkaE91Rjh1V1l1dHFhRURlUWs1Q1MyUThvaFl3cXlRMzhKSzdWd9IBuwFBVV95cUxPV0NfbzYyWUxKQ241WlR6VlpuQVU5MXdXNU41TmVUamhJTjVrN2g3QzQ5a2VCT005OXlzSmdWNHNqc0xTbWdYX1RVOTNCbDN3bDNNSXJzMnBzaWVPUmFndnRjcl8tM3I0T29FMkFpRi11ZDU3Y1k5c3hxMkoteERCVnpOVkNYTjZNQ0p4RnBxMjFzbU5iZ1g4bjlQOVBZZVhoanY0UGhJdGtUYV84Z2JnRHRNdnFJY0g0MVgw?oc=5",
+   "source": "Al Jazeera",
+   "ts": 1791867691,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "More than 100 foreign trekkers stranded by floods in Nepal's Gorkha region",
+   "en": "More than 100 foreign trekkers stranded by floods in Nepal's Gorkha region",
+   "ne": "More than 100 foreign trekkers stranded by floods in Nepal's Gorkha region",
+   "imp": 4,
+   "tags": [
+    "Gorkha",
+    "Floods",
+    "Trekkers",
+    "पहिरो"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1791264058.337306,
-   "en": "Govt Suspends APF AIG Banshiraj Dahal Over Sensitive Info Leak",
-   "ne": "Govt Suspends APF AIG Banshiraj Dahal Over Sensitive Info Leak",
-   "link": "https://english.onlinekhabar.com/aig-banshiraj-dahal-suspended.html",
-   "source": "Onlinekhabar EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "politics"
-  },
   {
    "ts": 1791265859.7972045,
    "en": "चाडपर्वका बेला तातोपानी र रसुवागढी नाका बन्द, अर्बौंको सामान बाटोमै रोकिँदा बजारमा अभाव",
@@ -9581,8 +9596,8 @@
    "cat": "disaster"
   }
  ],
- "updated": 1791868879,
- "pending_since": null,
+ "updated": 1791869475,
+ "pending_since": 1791869470.8674161,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
