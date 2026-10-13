@@ -1,10 +1,5 @@
 {
  "seen": {
-  "https://nagariknews.nagariknetwork.com/social-affairs/budhigandaki-flood-washes-away-arughat-bridge-connecting-gorkha-and-dhading-18-78.html": 1791691847.2432992,
-  "http://english.ratopati.com/story/83272/budhi-gandaki-flood-high-risk-up-to-mugling-urges-caution": 1791691847.2432992,
-  "https://gorkhapatraonline.com/news/226258": 1791691847.2432992,
-  "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeE1jcFZoTDVqNDlXR1ZiNVZHdWNBbTRhUWtVUXdGQnBaYnUwSHpOdW50MUJQOVZ5RTN5ZnBCeEJNV2pwZF82aFRZc1IzckFpU21ZYUhnaTVYVUV0djNZZGN2Q25wTlJEU2JXUnR0Y0kyS1cyRUU1aDVvM2JWWmtBb09VTjJNTl9Bd1JkLVBMM2hjVE96R0dIa3NrWUpBaEJnY2YtLW5nc1djTjJXN1BnaS1SMDhQY3Q30gG_AUFVX3lxTE9xcVZlVkZfczJCRlNEdjRkYjhrbm82SDZHc2U0c3dicVhMMHJ4UlJkNmRmQm9FcmNjdGRmejljVDE3bXBMWlBIZHgxZ0M1X3gzRGZjS0ppRU9oUTNscTFVM2tSVVFpWmZ2aXNkOUY2djJjRHpkNjk4QzZBZGxHNEdxLVFSZE5IOWFNRXBkalJmbnl2QjRQb2gwV0I1QTYycENtcnZuTVFMWUNTbXJCbGNGSUIxQkxHQjk0ZUJKVGtJ?oc=5": 1791691847.2432992,
-  "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTFBhUmc4bDdZRjhPNVBmRWp1Vk5UZ0lZWDRaaTZFdFZCRl9yYURxN3ZuZjNLa2FIUmFHSWtBSHdRc3hQTVlsaC04U292MmUwMkZwd3hlYUdVdURweFNxeGlScnc5NlNzZEpKSTRQVmQtQ1dzTGZZbnE4TVItRFUtUTZwVUVyaVBaMFFDdG56Q214N2Y1UFp4WUpsc1E5aVBGVlJrZldxbk8?oc=5": 1791691847.2432992,
   "https://gorkhapatraonline.com/news/226260": 1791692452.5660603,
   "https://baahrakhari.com/detail/504560": 1791692452.5660603,
   "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeE1jcFZoTDVqNDlXR1ZiNVZHdWNBbTRhUWtVUXdGQnBaYnUwSHpOdW50MUJQOVZ5RTN5ZnBCeEJNV2pwZF82aFRZc1IzckFpU21ZYUhnaTVYVUV0djNZZGN2Q25wTlJEU2JXUnR0Y0kyS1cyRUU1aDVvM2JWWmtBb09VTjJNTl9Bd1JkLVBMM2hjVE96R0dIa3NrWUpBaEJnY2YtLW5nc1djTjJXN1BnaS1SMDhQY3Q3?oc=5": 1791692452.5660603,
@@ -2672,7 +2667,10 @@
   "https://gorkhapatraonline.com/news/226488": 1791864088.531242,
   "https://www.setopati.com/politics/400710": 1791864088.531242,
   "http://english.ratopati.com/story/83514/one-arrested-in-siraha-with-90-kg-of-marijuana": 1791864088.531242,
-  "https://gorkhapatraonline.com/news/226487": 1791864088.531242
+  "https://gorkhapatraonline.com/news/226487": 1791864088.531242,
+  "https://kathmandupost.com/national/2026/10/13/rsp-orders-probe-into-allegations-against-lawmaker-khagendra-sunar": 1791864648.872391,
+  "https://theannapurnaexpress.com/story/67881": 1791864648.872391,
+  "https://theannapurnaexpress.com/story/67880": 1791864648.872391
  },
  "queue": [
   {
@@ -5383,6 +5381,50 @@
     "DrugSeizure"
    ],
    "cat": "crime",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Coventry savour first home Premier League win in 25 years",
+   "summary": "Coventry City appear to have found their feet in the Premier League after claiming their first home win of the season with a thumping 4-1 victory over Newcastle United on Monday, &zwnj;while the visitors were left with...",
+   "link": "https://theannapurnaexpress.com/story/67881",
+   "source": "Annapurna Express",
+   "ts": 1791850250.1871634,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "Coventry savour first home Premier League win in 25 years",
+   "en": "Coventry savour first home Premier League win in 25 years",
+   "ne": "Coventry savour first home Premier League win in 25 years",
+   "imp": 2,
+   "tags": [
+    "Coventry",
+    "PremierLeague"
+   ],
+   "cat": "sports",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Ronaldo on target as Al-Nassr win after security delay",
+   "summary": "Cristiano Ronaldo scored Al-Nassr's second goal as the Saudi Pro League champions overcame an hour-long security delay to beat Uzbekistan's Neftchi 3-1 in the AFC Champions League Elite on Monday, Reuters reported....",
+   "link": "https://theannapurnaexpress.com/story/67880",
+   "source": "Annapurna Express",
+   "ts": 1791850250.1871634,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "Ronaldo on target as Al-Nassr win after security delay",
+   "en": "Ronaldo on target as Al-Nassr win after security delay",
+   "ne": "Ronaldo on target as Al-Nassr win after security delay",
+   "imp": 2,
+   "tags": [
+    "Ronaldo",
+    "AlNassr"
+   ],
+   "cat": "sports",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -8635,8 +8677,8 @@
    "cat": "disaster"
   }
  ],
- "updated": 1791864122,
- "pending_since": null,
+ "updated": 1791864655,
+ "pending_since": 1791864648.872391,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
