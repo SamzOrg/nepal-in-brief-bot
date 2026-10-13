@@ -2731,7 +2731,10 @@
   "https://nagariknews.nagariknetwork.com/education/from-digital-tu-to-research-university-what-new-work-is-being-done-64-47.html": 1791852651.1872222,
   "https://gorkhapatraonline.com/news/226460": 1791852651.1872222,
   "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQS0VIYUx6b29BSTA5a2JEbU9qNVVnYTJGSVlHdGFUMlQtSGJWZVg4TWdFamhrWno1Y0gza0ZTSEFHWHdHLU5mRjN1TUhtZnBVX1lreEMzbmpQa0Q4S3RfeUFpTkFoM3F2dXNoV1FYVVlfZ19aU280R2Jwd0IzOUtsZERyNXFpZTRNMFJaLVpaRTNITEp1Ni0tQ0Ywby1fMjUyVmoxQVJVVTY?oc=5": 1791852651.1872222,
-  "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeTNFaklvM1B5WHFGaXJuODQyQ3VOa3JwWU1QcS15YktNLXRBczREVlZJZWhFSDdyMkpTYUZwRk1ZT1NuS2xUN1ptZVBmYlBUNnU0S2tBWG5JQ21RWmRnVnYySEM1TmtJbVRObUxTdGpMOEJfR2h0eEZGNDhGU2R3dVRuZ1VXVlNicXRoWl8xd0ZFQ182blVVR1lSSQ?oc=5": 1791852651.1872222
+  "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeTNFaklvM1B5WHFGaXJuODQyQ3VOa3JwWU1QcS15YktNLXRBczREVlZJZWhFSDdyMkpTYUZwRk1ZT1NuS2xUN1ptZVBmYlBUNnU0S2tBWG5JQ21RWmRnVnYySEM1TmtJbVRObUxTdGpMOEJfR2h0eEZGNDhGU2R3dVRuZ1VXVlNicXRoWl8xd0ZFQ182blVVR1lSSQ?oc=5": 1791852651.1872222,
+  "https://gorkhapatraonline.com/news/226462": 1791853283.4331136,
+  "https://baahrakhari.com/detail/504771": 1791853283.4331136,
+  "http://lokaantar.com/story/331186/2026/10/13/dead-": 1791853283.4331136
  },
  "queue": [
   {
@@ -3337,7 +3340,7 @@
    "cat": "culture",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 3
   },
   {
    "title": "'डिजिटल त्रिवि'देखि 'रिसर्च युनिभर्सिटी'सम्मः के-के हुँदैछन् नयाँ काम ?",
@@ -3407,17 +3410,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1791247860.5574665,
-   "en": "Floods and landslides kill 13 and cause Rs 500m road damage in Baglung",
-   "ne": "Floods and landslides kill 13 and cause Rs 500m road damage in Baglung",
-   "link": "https://english.khabarhub.com/2026/06/570834/",
-   "source": "Khabarhub EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "disaster"
-  },
   {
    "ts": 1791249663.4371364,
    "en": "The Xylom's Nepal Gen-Z Protests Reporting Wins SAJA Award",
@@ -6664,7 +6656,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1791852675,
+ "updated": 1791853286,
  "pending_since": 1791852651.1872222,
  "fb_blocks": [
   1790350880.4125228,
