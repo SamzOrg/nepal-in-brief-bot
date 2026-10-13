@@ -1,13 +1,5 @@
 {
  "seen": {
-  "https://nagariknews.nagariknetwork.com/social-affairs/floods-in-budhi-gandaki-salleri-bazaar-washed-away-huge-damage-to-the-area-situation-critical-36-34.html": 1791683450.25479,
-  "https://theannapurnaexpress.com/story/67815": 1791683450.25479,
-  "http://lokaantar.com/story/331012/2026/10/11/flood-": 1791683450.25479,
-  "https://nagariknews.nagariknetwork.com/social-affairs/flood-in-budhigandaki-35-houses-in-chumanubri-washed-away-62-56.html": 1791684084.029924,
-  "https://nagariknews.nagariknetwork.com/sports/icc-cricket-world-cup-league-2-nepal-and-canada-to-compete-today-br-95-56.html": 1791684084.029924,
-  "https://english.khabarhub.com/2026/11/571524/": 1791684084.029924,
-  "http://english.ratopati.com/story/83257/budhi-gandaki-flood-helicopters-mobilized-for-rescue-home-minister-sudan-gurung-heading-to-affected-areas": 1791684084.029924,
-  "https://nagariknews.nagariknetwork.com/social-affairs/the-main-source-of-budhi-gandaki-floods-is-the-himalayas-it-will-merge-with-the-trishuli-river-posing-a-risk-as-far-as-chitwan-36-33.html": 1791684084.029924,
   "https://baahrakhari.com/detail/504546": 1791684648.2384593,
   "https://english.onlinekhabar.com/flash-flood-gorkhas-chumnubri.html": 1791684648.2384593,
   "https://baahrakhari.com/detail/504547": 1791684648.2384593,
@@ -2718,7 +2710,12 @@
   "https://nagariknews.nagariknetwork.com/sports/janakpur-bolts-unveil-npl-season-3-jersey-38-55.html": 1791856248.2675045,
   "https://gorkhapatraonline.com/news/226472": 1791856248.2675045,
   "https://gorkhapatraonline.com/news/226471": 1791856248.2675045,
-  "https://gorkhapatraonline.com/news/226469": 1791856248.2675045
+  "https://gorkhapatraonline.com/news/226469": 1791856248.2675045,
+  "https://risingnepaldaily.com/news/87731": 1791856888.1625478,
+  "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPenFtQWQ3dkdpYkh0ODJRbDRJRDRnVzE1VU5KUl8wQ3JWNEpCUWRMV0swWXdXTlFXODFDenJEYmFqNFFibV9ta0JaTW03WG4zd3hibE5MaFM3UkpVTjBKVUdLRzJWNFdyOF9DYVNQWVdXTF9vdkNncVlkUlZkYnZJY3cyQklCNDNTNFNkaE5jaW1qb1RucHlRNlhWYmVCWTJFZG1ZUjYwa3pzelNxWlliX0I4cFJ4c2ZUNng5b21qcEhtVXBTQXRUWC1jTzFnZlFlaTVzbkhBQ0xsQ0Fncms1OXNtMEs3ZU5OdWRURg?oc=5": 1791856888.1625478,
+  "https://news.google.com/rss/articles/CBMizwFBVV95cUxOYk1Vd0JNem1QWW1RX3lyVy1oUkRZUFU3OG1HdzlMV1RIMElFYmF1dEUtQ1ZZd1gwSjJxdUFqLVp4d0hfanBuNmxxRk5qNDdYblZZUkRfbGxnN1ZZNlNlaHRtLVFBOWdOUHpQN2JxNjJsM0pxRzJvbXJtU3F1c3lZM0tjeF9YeWM0SUp1RHQ1R1lNUmRKdTNmWjRvamtmVURhMTFETmVsUGtua2RfMTNPZG16blVHNWFvU2JfS3duZl90UUJMOFNEaTUweXA4bGvSAc8BQVVfeXFMTmJNVXdCTXptUFltUV95clctaFJEWVBVNzhtR3c5TFdUSDBJRWJhdXRFLUNWWXdYMEoycXVBai1aeHdIX2pwbjZscUZOajQ3WG5WWVJEX2xsZzdWWTZTZWh0bS1RQTlnTlB6UDdicTYybDNKcUcyb21ybVNxdXN5WTNLY3hfWHljNElKdUR0NUdZTVJkSnUzZlo0b2prZlVEYTExRE5lbFBrbmtkXzEzT2Rtem5VRzVhb1NiX0t3bmZfdFFCTDhTRGk1MHlwOGxr?oc=5": 1791856888.1625478,
+  "https://kathmandupost.com/national/2026/10/13/budhigandaki-flood-victims-struggle-to-find-shelter": 1791856888.1625478,
+  "https://news.google.com/rss/articles/CBMingFBVV95cUxPYldNdkswRzliWTU4dE5xVXJ3cGROcFdodFRmSm5tRkRTeG1PWnlJQV94ZUp5UnNkN281ZEhPaWpzeHVkS2Jjbl9zZkx2UTVuRGNBZ1NKem9qcTJNTnNOeUtGNHItQnBmRHJxTGxKWURiczFYcWZTeHJyX2R5RW10eW01cC1TMm5neHUwWVJLaWNhNnVhWEgwdzM0Qjh0Z9IBowFBVV95cUxPYS1LZzZUX292TDk2MHZKam5PeFFRbHFBX3JwZlJxMG1JNjJNcEp6ZmdiOEpjOHQwbk5vbl9fNFoyTFlQS2ZsS1FxaFVSV1lIaGh4M01RX2ZhTmQwQjdIVjlJakNOcG1yYzZYeks3Rng5ckJmUnIyUzJ0Y1ZxeVF6Yy1xNEFLRGhqRUxJeUdheDYxbTdUaE9YSmt3dEZjRzBTUDFJ?oc=5": 1791856888.1625478
  },
  "queue": [
   {
@@ -2765,51 +2762,6 @@
    ],
    "cat": "politics",
    "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "अमेरिका-रुस डिजेल सम्झौता अस्वीकार्य : जर्मन चान्सलर मर्ज",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/504765",
-   "source": "Baahrakhari",
-   "ts": 1791827782,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "अमेरिका-रुस डिजेल सम्झौता अस्वीकार्य : जर्मन चान्सलर मर्ज",
-   "en": "अमेरिका-रुस डिजेल सम्झौता अस्वीकार्य : जर्मन चान्सलर मर्ज",
-   "ne": "अमेरिका-रुस डिजेल सम्झौता अस्वीकार्य : जर्मन चान्सलर मर्ज",
-   "imp": 1,
-   "tags": [
-    "Russia",
-    "Germany"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "पर्यावरणमैत्री पूर्वाधार निर्माणमा ध्यान दिन आवश्यकः पूर्वराष्ट्रपति भण्डारी",
-   "summary": "काठमाडौँ, असोज २६ गते । पूर्वराष्ट्रपति विद्यादेवी भण्डारीले जलवायु परिवर्तनका कारण उत्पन्न जोखिम न्यूनीकरणका लागि सुरक्षित र पर्यावरणमैत्री पूर्वाधार निर्माणमा ध्यान दिन आवश्यक र...",
-   "link": "https://gorkhapatraonline.com/news/226456",
-   "source": "Gorkhapatra",
-   "ts": 1791827802,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/387849/conversions/BB_KTM_RSS_26__MG_0256-(1)-original.jpg",
-   "lang": "ne",
-   "hl": "पर्यावरणमैत्री पूर्वाधार निर्माणमा ध्यान दिन आवश्यकः पूर्वराष्ट्रपति भण्डारी",
-   "en": "पर्यावरणमैत्री पूर्वाधार निर्माणमा ध्यान दिन आवश्यकः पूर्वराष्ट्रपति भण्डारी",
-   "ne": "पर्यावरणमैत्री पूर्वाधार निर्माणमा ध्यान दिन आवश्यकः पूर्वराष्ट्रपति भण्डारी",
-   "imp": 2,
-   "tags": [
-    "Infrastructure",
-    "BidhyaDeviBhandari",
-    "Environment"
-   ],
-   "cat": "society",
-   "val": 1,
    "teaser": false,
    "hits": 1
   },
@@ -4242,20 +4194,53 @@
    "val": 1,
    "teaser": true,
    "hits": 1
+  },
+  {
+   "title": "Budhigandaki flood victims struggle to find shelter",
+   "summary": "More than 200 homes were swept away in Gorkha, while destroyed bridges and trails have left northern settlements cut off from relief supplies.",
+   "link": "https://kathmandupost.com/national/2026/10/13/budhigandaki-flood-victims-struggle-to-find-shelter",
+   "source": "Kathmandu Post",
+   "ts": 1791842489.05011,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "Budhigandaki flood victims struggle to find shelter",
+   "en": "Budhigandaki flood victims struggle to find shelter",
+   "ne": "Budhigandaki flood victims struggle to find shelter",
+   "imp": 3,
+   "tags": [
+    "Flood",
+    "Budhigandaki"
+   ],
+   "cat": "disaster",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Several missing following flash flood in Nepal",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYldNdkswRzliWTU4dE5xVXJ3cGROcFdodFRmSm5tRkRTeG1PWnlJQV94ZUp5UnNkN281ZEhPaWpzeHVkS2Jjbl9zZkx2UTVuRGNBZ1NKem9qcTJNTnNOeUtGNHItQnBmRHJxTGxKWURiczFYcWZTeHJyX2R5RW10eW01cC1TMm5neHUwWVJLaWNhNnVhWEgwdzM0Qjh0Z9IBowFBVV95cUxPYS1LZzZUX292TDk2MHZKam5PeFFRbHFBX3JwZlJxMG1JNjJNcEp6ZmdiOEpjOHQwbk5vbl9fNFoyTFlQS2ZsS1FxaFVSV1lIaGh4M01RX2ZhTmQwQjdIVjlJakNOcG1yYzZYeks3Rng5ckJmUnIyUzJ0Y1ZxeVF6Yy1xNEFLRGhqRUxJeUdheDYxbTdUaE9YSmt3dEZjRzBTUDFJ?oc=5",
+   "source": "Qatar Tribune",
+   "ts": 1791830931,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "Several missing following flash flood in Nepal",
+   "en": "Several missing following flash flood in Nepal",
+   "ne": "Several missing following flash flood in Nepal",
+   "imp": 3,
+   "tags": [
+    "FlashFlood",
+    "Nepal"
+   ],
+   "cat": "disaster",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1791251451.7437887,
-   "en": "UNICEF Nepal Humanitarian Situation Report No. 6, 5 October 2026",
-   "ne": "UNICEF Nepal Humanitarian Situation Report No. 6, 5 October 2026",
-   "link": "https://reliefweb.int/report/nepal/unicef-nepal-humanitarian-situation-report-no-6-5-october-2026",
-   "source": "reliefweb.int",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "disaster"
-  },
   {
    "ts": 1791253260.8484042,
    "en": "Nepal high-level panel says cases against most Gen Z protest accused can't be dropped",
@@ -7502,8 +7487,8 @@
    "cat": "politics"
   }
  ],
- "updated": 1791856267,
- "pending_since": null,
+ "updated": 1791856894,
+ "pending_since": 1791856888.1625478,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
