@@ -1,8 +1,5 @@
 {
  "seen": {
-  "https://nagariknews.nagariknetwork.com/Dharma-Saskriti/second-day-of-durga-paksha-worshipping-goddess-brahmacharini-39-74.html": 1791765071.1260161,
-  "https://theannapurnaexpress.com/story/67848": 1791765071.1260161,
-  "https://gorkhapatraonline.com/news/226347": 1791765071.1260161,
   "https://baahrakhari.com/detail/504650": 1791765651.2014794,
   "http://lokaantar.com/story/331093/2026/10/12/dollar-": 1791765651.2014794,
   "http://english.ratopati.com/story/83373/citys-impressive-win-over-liverpool-at-anfield-moves-them-three-points-clear-at-the-top": 1791765651.2014794,
@@ -2453,28 +2450,6 @@
    "hits": 1
   },
   {
-   "title": "Can Rs 20 a day buy students a nutritious school day meal?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONVM1cnZJeFBMS08ySDhlbXcyU0J0clBfUXUyYVhOQy16Wk50VUJmWXNuSmk3eGc2eWxleHZfOC1zSUNnRTN3Uks4b1VQRUl1OG5TbTIwM1hJZzhZYjRMWGFuYTFBY296NXUteXZuWlVGQWlWczBpUWhvZ0p5YjA1Q0wyR0R3S0xUemFGRlBCX1pGRkZlb0QtdFNWUTB2Q2ZQcUUxT1VzSHVrRTFiZ2RXd0t3?oc=5",
-   "source": "myRepublica",
-   "ts": 1791909299,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Can Rs 20 a day buy students a nutritious school day meal?",
-   "en": "Can Rs 20 a day buy students a nutritious school day meal?",
-   "ne": "Can Rs 20 a day buy students a nutritious school day meal?",
-   "imp": 2,
-   "tags": [
-    "SchoolMeals",
-    "Nutrition"
-   ],
-   "cat": "health",
-   "val": 2,
-   "teaser": true,
-   "hits": 1
-  },
-  {
    "title": "RiverBend doctors raise funds for Nepal flood victims",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMzNTTUQteWppRlV4VW1lczQ2a1ZWbndzQzdaYVgtdTRnWXdHZWpoS01mS19WTEp5a3Z2UGozZzFVNVhtMTVRRm9OMXIzQ0hUc1V6MmhuWl9OaEZ5M3NyRXhQcFV3ODlIdzQzMjJ3dmY3cHBPUnhMWXVuNVNMaVRzNEJYT1d2ZHR4UHpsNWdhcTBHTjNHUGtUYWJGRjhIaFJPbll6Qy00Y2VVZThzX2dvVXFtdDVLUThBM3VoaGVNNzVUY1BNZks4LWJLdGN6Tm16?oc=5",
@@ -2563,29 +2538,6 @@
    "val": 1,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "India Rejects China's Objection to Ladakh Mapping",
-   "summary": "India on Tuesday reiterated that Ladakh is an \"integral and inalienable part of India\" after China objected to New Delhi's decision to standardise the names of 28 strategic locations and geographical features in the...",
-   "link": "https://theannapurnaexpress.com/story/67907",
-   "source": "Annapurna Express",
-   "ts": 1791909185,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "India Rejects China's Objection to Ladakh Mapping",
-   "en": "India Rejects China's Objection to Ladakh Mapping",
-   "ne": "India Rejects China's Objection to Ladakh Mapping",
-   "imp": 1,
-   "tags": [
-    "India",
-    "China",
-    "Ladakh"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "सिस्ने हिमाल",
@@ -6405,8 +6357,8 @@
    "cat": "crime"
   }
  ],
- "updated": 1791937873,
- "pending_since": null,
+ "updated": 1791938138,
+ "pending_since": 1791938134.2472863,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
