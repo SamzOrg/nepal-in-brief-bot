@@ -2364,7 +2364,8 @@
   "https://nagariknews.nagariknetwork.com/social-affairs/nepal-elected-to-human-rights-council-receives-the-most-votes-93-57.html": 1791955250.3742404,
   "https://gorkhapatraonline.com/news/226631": 1791955250.3742404,
   "https://gorkhapatraonline.com/news/226630": 1791955250.3742404,
-  "https://gorkhapatraonline.com/news/226629": 1791955250.3742404
+  "https://gorkhapatraonline.com/news/226629": 1791955250.3742404,
+  "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeGZUYzhRLU5EX0U4YjJkenB2WVJERy1fQ1NIdkFCaUxsc0Z0dU9ZRXJyTVBrUWZLbENSSkRpTU9DaEJ4ZjNUb09OUnBaeVJaWkNIQXdTa1FwOF9wVkVNcm5Rc1M0ZXVCbVh0RDRfYzFxYXFKclg4T1JtNkd4YXNKbTR1V3VxUzRmRkhUZldCQ2NnMTdUczlyQ015eGlTdi1Vb0ZmeUNGRnA2ZGtIYnB2N3N4MGR1NFJSOU94dFZtY2xfS3U5S1VB?oc=5": 1791955434.3807263
  },
  "queue": [
   {
@@ -6343,7 +6344,7 @@
    "cat": "world",
    "val": 1,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "80 new HIV infections recorded in 9 months",
@@ -6534,17 +6535,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1791350467.3877537,
-   "en": "Government Fails to Provide Accurate Flood Damage Details, Families Await News of Missing Loved Ones",
-   "ne": "Government Fails to Provide Accurate Flood Damage Details, Families Await News of Missing Loved Ones",
-   "link": "http://english.ratopati.com/story/82665/balm-for-flood-wounds-or-naming-destruction",
-   "source": "Ratopati EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "disaster"
-  },
   {
    "ts": 1791352291.074062,
    "en": "Three motorable bridges completed along Kaski section of Mid-Hill Highway",
@@ -9725,8 +9715,8 @@
    "cat": "education"
   }
  ],
- "updated": 1791955258,
- "pending_since": null,
+ "updated": 1791955438,
+ "pending_since": 1791955434.3807263,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
