@@ -2340,7 +2340,12 @@
   "https://baahrakhari.com/detail/504909": 1791961292.9558895,
   "https://nagariknews.nagariknetwork.com/opinion/growing-artificial-intelligence-shrinking-human-thinking-br-18-54.html": 1791961292.9558895,
   "https://gorkhapatraonline.com/news/226650": 1791961292.9558895,
-  "http://english.ratopati.com/story/83667/un-refugee-agency-urges-eu-not-to-cut-international-aid": 1791961292.9558895
+  "http://english.ratopati.com/story/83667/un-refugee-agency-urges-eu-not-to-cut-international-aid": 1791961292.9558895,
+  "https://risingnepaldaily.com/news/87793": 1791961851.7006567,
+  "https://gorkhapatraonline.com/news/226655": 1791961851.7006567,
+  "https://risingnepaldaily.com/news/87792": 1791961851.7006567,
+  "https://risingnepaldaily.com/news/87791": 1791961851.7006567,
+  "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNmhWNGRBRnRLRi1hVDFXaGxBZF9zNzhjaEh2MjZEZ0d3U29BSHEzbVpIbU9WLXhkU0RxQVJjX2VUSmlFMF9qVWFvcExKay0yMHBLMEhhYmdkdUh3STJWZ3UtRS1EMnNrS0FQZnRkSVdmTkt0NWdycXU0MDhsZ2JUUWdDUXFsODA2Tk1mc3RFZjMwLTE0Q0wzbkxOYkdHZU5BbG12czV6T1N3cENnd0lpMjJSVWVXMFI1eExSWXZ3ZGE5Z1lTWTVaek5uLUxKekdFaExSOGZwRVc?oc=5": 1791961851.7006567
  },
  "queue": [
   {
@@ -3633,7 +3638,7 @@
    "cat": "economy",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "साउदीका विमानस्थल नै निशानामा?",
@@ -3832,7 +3837,7 @@
    "cat": "other",
    "val": 3,
    "teaser": false,
-   "hits": 6
+   "hits": 7
   },
   {
    "title": "बराबरीमा रोकियो बायर्न म्युनिख",
@@ -7494,7 +7499,7 @@
    "cat": "society",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Nagaland's Namteulung Newme returns with 3 gold medals from Nepal",
@@ -7866,6 +7871,30 @@
    ],
    "cat": "culture",
    "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Landslide triggering Budhi Gandaki River floods in Nepal unleashed energy equivalent to 3.5-magnitude quake: Report",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNmhWNGRBRnRLRi1hVDFXaGxBZF9zNzhjaEh2MjZEZ0d3U29BSHEzbVpIbU9WLXhkU0RxQVJjX2VUSmlFMF9qVWFvcExKay0yMHBLMEhhYmdkdUh3STJWZ3UtRS1EMnNrS0FQZnRkSVdmTkt0NWdycXU0MDhsZ2JUUWdDUXFsODA2Tk1mc3RFZjMwLTE0Q0wzbkxOYkdHZU5BbG12czV6T1N3cENnd0lpMjJSVWVXMFI1eExSWXZ3ZGE5Z1lTWTVaek5uLUxKekdFaExSOGZwRVc?oc=5",
+   "source": "Telangana Today",
+   "ts": 1791961213,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "Landslide triggering Budhi Gandaki River floods in Nepal unleashed energy equivalent to 3.5-magnitude quake: Report",
+   "en": "Landslide triggering Budhi Gandaki River floods in Nepal unleashed energy equivalent to 3.5-magnitude quake: Report",
+   "ne": "Landslide triggering Budhi Gandaki River floods in Nepal unleashed energy equivalent to 3.5-magnitude quake: Report",
+   "imp": 4,
+   "tags": [
+    "Landslide",
+    "BudhiGandaki",
+    "Flood",
+    "पहिरो"
+   ],
+   "cat": "disaster",
+   "val": 3,
    "teaser": false,
    "hits": 1
   }
@@ -11062,7 +11091,7 @@
    "cat": "society"
   }
  ],
- "updated": 1791961313,
+ "updated": 1791961856,
  "pending_since": 1791961292.9558895,
  "fb_blocks": [
   1790350880.4125228,
