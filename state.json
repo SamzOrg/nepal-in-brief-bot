@@ -2336,7 +2336,13 @@
   "https://gorkhapatraonline.com/news/226631": 1791955250.3742404,
   "https://gorkhapatraonline.com/news/226630": 1791955250.3742404,
   "https://gorkhapatraonline.com/news/226629": 1791955250.3742404,
-  "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeGZUYzhRLU5EX0U4YjJkenB2WVJERy1fQ1NIdkFCaUxsc0Z0dU9ZRXJyTVBrUWZLbENSSkRpTU9DaEJ4ZjNUb09OUnBaeVJaWkNIQXdTa1FwOF9wVkVNcm5Rc1M0ZXVCbVh0RDRfYzFxYXFKclg4T1JtNkd4YXNKbTR1V3VxUzRmRkhUZldCQ2NnMTdUczlyQ015eGlTdi1Vb0ZmeUNGRnA2ZGtIYnB2N3N4MGR1NFJSOU94dFZtY2xfS3U5S1VB?oc=5": 1791955434.3807263
+  "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeGZUYzhRLU5EX0U4YjJkenB2WVJERy1fQ1NIdkFCaUxsc0Z0dU9ZRXJyTVBrUWZLbENSSkRpTU9DaEJ4ZjNUb09OUnBaeVJaWkNIQXdTa1FwOF9wVkVNcm5Rc1M0ZXVCbVh0RDRfYzFxYXFKclg4T1JtNkd4YXNKbTR1V3VxUzRmRkhUZldCQ2NnMTdUczlyQ015eGlTdi1Vb0ZmeUNGRnA2ZGtIYnB2N3N4MGR1NFJSOU94dFZtY2xfS3U5S1VB?oc=5": 1791955434.3807263,
+  "https://risingnepaldaily.com/news/87787": 1791956450.6557357,
+  "https://gorkhapatraonline.com/news/226639": 1791956450.6557357,
+  "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTkxlY29iOEU3SU85c0daWFZ4TkFyT01FT1hBd2hVWk8zYkQ5RkNPbkhuOXhzVEdncS0zN2p2ZnZSQTJwMV85ZzlsdElFbVZ3RTNsMVhkT3NZY0V2em1mcTR6TUdWYmVTdTd0bXRHSTVPZGtNeDg0bUxfV0pRdTJuc3d1ZU5mTkdIeWI2X2syNmczdw?oc=5": 1791956450.6557357,
+  "https://theannapurnaexpress.com/story/67917": 1791956450.6557357,
+  "https://gorkhapatraonline.com/news/226638": 1791956450.6557357,
+  "http://english.ratopati.com/story/83641/bahadur-singh-lama-wins-as-congress-joint-general-secretary": 1791956450.6557357
  },
  "queue": [
   {
@@ -2794,7 +2800,7 @@
    "cat": "disaster",
    "val": 2,
    "teaser": false,
-   "hits": 4
+   "hits": 5
   },
   {
    "title": "हटिया राष्ट्रिय प्रसारण लाइनमा",
@@ -5321,7 +5327,7 @@
    "cat": "disaster",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "बारामा ११ लाख ४६ हजारका कपडा र मोटरसाइकल बरामद, एक जना पक्राउ",
@@ -6476,6 +6482,52 @@
     "नेपालगन्ज"
    ],
    "cat": "society",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "पहिरोपीडितको दसैँ त्रिपालमुनि बित्दैछ",
+   "summary": "ठाकुरप्रसाद आचार्य म्याग्दी (बेनी), असोज २८ गते । छिमेकी बस्तीहरूमा दसैँको रमझम सुरु भइसकेको छ । कतै घर लिपपोत गरेर चिटिक्क पारिँदैछ त कतै दसैँका लागि भेडाच्याङ्ग्रा किन्ने चटारो छ...",
+   "link": "https://gorkhapatraonline.com/news/226638",
+   "source": "Gorkhapatra",
+   "ts": 1791955943,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/388073/conversions/paudhuwar-original.jpg",
+   "lang": "ne",
+   "hl": "पहिरोपीडितको दसैँ त्रिपालमुनि बित्दैछ",
+   "en": "पहिरोपीडितको दसैँ त्रिपालमुनि बित्दैछ",
+   "ne": "पहिरोपीडितको दसैँ त्रिपालमुनि बित्दैछ",
+   "imp": 3,
+   "tags": [
+    "Landslide",
+    "Dashain",
+    "पहिरो"
+   ],
+   "cat": "disaster",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Bhadur Singh Lama Tamang Wins Nepali Congress Indigenous Affairs Minister Position",
+   "summary": "Kathmandu. Nepali Congress's indigenous affairs minister Bahadur Singh Lama Tamang has been victorious. He received 3245 votes while his competitors...",
+   "link": "http://english.ratopati.com/story/83641/bahadur-singh-lama-wins-as-congress-joint-general-secretary",
+   "source": "Ratopati EN",
+   "ts": 1791955908,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/bahadur-singh_k9f09kep1x_HUBT1ir4xF.webp",
+   "lang": "en",
+   "hl": "Bhadur Singh Lama Tamang Wins Nepali Congress Indigenous Affairs Minister Position",
+   "en": "Bhadur Singh Lama Tamang Wins Nepali Congress Indigenous Affairs Minister Position",
+   "ne": "Bhadur Singh Lama Tamang Wins Nepali Congress Indigenous Affairs Minister Position",
+   "imp": 3,
+   "tags": [
+    "NepaliCongress",
+    "BhadurSinghLamaTamang",
+    "Politics"
+   ],
+   "cat": "politics",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -9673,7 +9725,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1791955897,
+ "updated": 1791956461,
  "pending_since": 1791955434.3807263,
  "fb_blocks": [
   1790350880.4125228,
