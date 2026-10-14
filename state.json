@@ -2369,7 +2369,12 @@
   "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbkhVMHZnZExPNDR4UEFWaGZpaU1qTVJjWkRZbC1ESHAxMFEtM3dLZThWdjdBV09OV1dIdTY3NWl6blZzR1FKWkNsS3BNWnJrZThHOW5hUGFTSEpiVWdiY1FKcFB5QWJTVlJiYV9LSTVkc280cFRZaHpQbWF0TnVhOGFoNThKVy1BZUMxTG1vTUhzV1IxRUZIX0VGeHllWFV0RExJZWFGRkZSZTRvQWlVQlZyYTNqcnpRQjBRbmRBc2RnRERIRWVsTFJNUENBd3c?oc=5": 1791953449.6289144,
   "http://lokaantar.com/story/331275/2026/10/14/congress-": 1791953449.6289144,
   "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMVIzUG1lelRNUXdicjJLdGJ2TklmcDRqbnhjTXQ5bGVRTlk3VWJEbmlCOFVjbDdIVFpKdjQ5RHAyNmFiX2IwU05uZ0p1LU1BNVZDTFRPWmU5UU9uaGxDS2dZRE0zWVpFaW5YSW9sd2Rjam5FUkZTMlZ0Njluc3ZYLWJCSS12NFEtVl9SRWU3MkRnaURMWWRsSHNJNzFhNGtQT0VwUWFoLTlEN05iM1pVdA?oc=5": 1791954087.3954532,
-  "https://baahrakhari.com/detail/504896": 1791954087.3954532
+  "https://baahrakhari.com/detail/504896": 1791954087.3954532,
+  "https://www.setopati.com/social/400795": 1791954649.2271178,
+  "https://gorkhapatraonline.com/news/226632": 1791954649.2271178,
+  "https://www.setopati.com/politics/400796": 1791954649.2271178,
+  "https://baahrakhari.com/detail/504897": 1791954649.2271178,
+  "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMTdKMWhYdlhzNHJMOWFic3Z2cHRtdmlJVm8tZy1uQ25wWkVRQW45bGZPWlVsWkxNbXB6bmE0VjU2UEFEN3A2QWFWVDZfOWs0N2RmM3lxX0VtU012MFZlN1lnYWRSTTh4dzdiZXN2WnBFTTR6YjJkcW16di1FRjdfT3lEUHY0NFpEUTV0cmNPd0Ewd3JZNnlIUWV0NU55RDE1Mk02MUFlNzU5LXhOY1phNVg5NVJKWXpIQUZ5Z1pPMDNlX2ZD?oc=5": 1791954649.2271178
  },
  "queue": [
   {
@@ -2943,7 +2948,7 @@
    "cat": "politics",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Making Nepal's Paddy Economy Work",
@@ -2967,29 +2972,6 @@
    "val": 1,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "खोटाङ प्रशासनको सेवा अब घरमै बसेर, ह्वाट्सएप र इमेलबाटै सिफारिस",
-   "summary": "जिल्ला प्रशासन कार्यालय खोटाङले सेवाग्राहीको भौतिक उपस्थिति बिना नै कार्यालयबाट प्रदान हुने सेवा प्राप्त गर्न सक्ने व्यवस्था मिलाएको छ । प्रशासनले आफ्नो सेवा प्रवाहलाई छिटो, छरितो र प्रविधिमैत्री बनाएसँगै सेवाग्राहीले...",
-   "link": "http://lokaantar.com/story/331254/2026/10/14/dpo-khotang-",
-   "source": "Lokaantar",
-   "ts": 1791925291.8359408,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "खोटाङ प्रशासनको सेवा अब घरमै बसेर, ह्वाट्सएप र इमेलबाटै सिफारिस",
-   "en": "खोटाङ प्रशासनको सेवा अब घरमै बसेर, ह्वाट्सएप र इमेलबाटै सिफारिस",
-   "ne": "खोटाङ प्रशासनको सेवा अब घरमै बसेर, ह्वाट्सएप र इमेलबाटै सिफारिस",
-   "imp": 2,
-   "tags": [
-    "Khotang",
-    "EGovernance",
-    "खोटाङ"
-   ],
-   "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 3
   },
   {
    "title": "आर्थिक वृद्धिदर ५.४० प्रतिशत रहने",
@@ -3034,29 +3016,6 @@
    ],
    "cat": "culture",
    "val": 1,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "RSP bars Sunar from duties over allegations of abusing and blackmailing woman",
-   "summary": "The party has barred him from duties as lawmaker and central committee member, while police await a formal complaint before launching a criminal investigation.",
-   "link": "https://kathmandupost.com/national/2026/10/14/rsp-bars-sunar-from-duties-over-allegations-of-abusing-and-blackmailing-woman",
-   "source": "Kathmandu Post",
-   "ts": 1791925291.570179,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "RSP bars Sunar from duties over allegations of abusing and blackmailing woman",
-   "en": "RSP bars Sunar from duties over allegations of abusing and blackmailing woman",
-   "ne": "RSP bars Sunar from duties over allegations of abusing and blackmailing woman",
-   "imp": 3,
-   "tags": [
-    "RSP",
-    "Sunar",
-    "Suspension"
-   ],
-   "cat": "politics",
-   "val": 3,
    "teaser": false,
    "hits": 1
   },
@@ -3130,29 +3089,6 @@
    "hits": 1
   },
   {
-   "title": "RSP must rein in its lawmakers and hold them accountable",
-   "summary": "The party swiftly investigated the allegations against Sunar. Now it must deliver tangible results.",
-   "link": "https://kathmandupost.com/editorial/2026/10/13/rsp-must-rein-in-its-lawmakers-and-hold-them-accountable",
-   "source": "Kathmandu Post",
-   "ts": 1791925291.570179,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "RSP must rein in its lawmakers and hold them accountable",
-   "en": "RSP must rein in its lawmakers and hold them accountable",
-   "ne": "RSP must rein in its lawmakers and hold them accountable",
-   "imp": 3,
-   "tags": [
-    "RSP",
-    "Accountability",
-    "Lawmakers"
-   ],
-   "cat": "politics",
-   "val": 1,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "चौध वटा इन्टरनेट सेवाप्रदायकलाई कारबाही",
    "summary": "गोरखापत्र समाचारदाताकाठमाडौँ, असोज २८ गते । स्वीकृतिबमोजिम इन्टरनेट प्याकेज सञ्चालन नगर्ने तथा इन्टरनेट प्याकेज सार्वजनिक नगर्ने विभिन्न १४ वटा इन्टरनेट सेवाप्रदायक कारबाहीमा परेका...",
    "link": "https://gorkhapatraonline.com/news/226588",
@@ -3176,29 +3112,6 @@
    "hits": 1
   },
   {
-   "title": "What it means to live with the disaster paradox",
-   "summary": "Recurring disasters in Nepal destroy crops, permanently erode farmland, displace families and worsen economic inequality.",
-   "link": "https://kathmandupost.com/columns/2026/10/13/what-it-means-to-live-with-the-disaster-paradox",
-   "source": "Kathmandu Post",
-   "ts": 1791925291.570179,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "What it means to live with the disaster paradox",
-   "en": "What it means to live with the disaster paradox",
-   "ne": "What it means to live with the disaster paradox",
-   "imp": 3,
-   "tags": [
-    "DisasterParadox",
-    "Resilience",
-    "Nepal"
-   ],
-   "cat": "disaster",
-   "val": 1,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "किट छैन, रोग पहिचानमा समस्या",
    "summary": "भैरहवा, असोज २८ गते । लुम्बिनी प्रदेशमा 'स्क्रब टाइफस' र डेङ्गुको सङ्क्रमण बढ्दै गएको बेला परीक्षणका लागि आवश्यक किट पर्याप्त नहुँदा रोग पहिचान तथा नियन्त्रणमा चुनौती देखिएको छ । प...",
    "link": "https://gorkhapatraonline.com/news/226587",
@@ -3218,29 +3131,6 @@
    ],
    "cat": "health",
    "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Escalating catastrophes, mounting health crisis",
-   "summary": "The government must immediately secure clean water, enforce emergency sanitation and monitor emerging infections.",
-   "link": "https://kathmandupost.com/columns/2026/10/13/escalating-catastrophes-mounting-health-crisis",
-   "source": "Kathmandu Post",
-   "ts": 1791925291.570179,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Escalating catastrophes, mounting health crisis",
-   "en": "Escalating catastrophes, mounting health crisis",
-   "ne": "Escalating catastrophes, mounting health crisis",
-   "imp": 3,
-   "tags": [
-    "Disaster",
-    "HealthCrisis",
-    "Nepal"
-   ],
-   "cat": "health",
-   "val": 1,
    "teaser": false,
    "hits": 1
   },
@@ -5586,7 +5476,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Returnee from UK finds promise in jujube farming",
@@ -6054,7 +5944,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 3
+   "hits": 4
   },
   {
    "title": "Kalanki Goat Market Sees Less Hustle Ahead of Dashain",
@@ -6370,6 +6260,30 @@
    ],
    "cat": "crime",
    "val": 3,
+   "teaser": false,
+   "hits": 2
+  },
+  {
+   "title": "Nepal: \"Mud Is Everywhere\". A Caritas aid worker on the flood that buried a Himalayan valley",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMTdKMWhYdlhzNHJMOWFic3Z2cHRtdmlJVm8tZy1uQ25wWkVRQW45bGZPWlVsWkxNbXB6bmE0VjU2UEFEN3A2QWFWVDZfOWs0N2RmM3lxX0VtU012MFZlN1lnYWRSTTh4dzdiZXN2WnBFTTR6YjJkcW16di1FRjdfT3lEUHY0NFpEUTV0cmNPd0Ewd3JZNnlIUWV0NU55RDE1Mk02MUFlNzU5LXhOY1phNVg5NVJKWXpIQUZ5Z1pPMDNlX2ZD?oc=5",
+   "source": "Caritas",
+   "ts": 1791946439,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "Nepal: \"Mud Is Everywhere\". A Caritas aid worker on the flood that buried a Himalayan valley",
+   "en": "Nepal: \"Mud Is Everywhere\". A Caritas aid worker on the flood that buried a Himalayan valley",
+   "ne": "Nepal: \"Mud Is Everywhere\". A Caritas aid worker on the flood that buried a Himalayan valley",
+   "imp": 4,
+   "tags": [
+    "Flood",
+    "Himalaya",
+    "Caritas",
+    "बाढी"
+   ],
+   "cat": "disaster",
+   "val": 2,
    "teaser": false,
    "hits": 1
   }
@@ -9566,7 +9480,7 @@
    "cat": "education"
   }
  ],
- "updated": 1791954113,
+ "updated": 1791954652,
  "pending_since": 1791953449.6289144,
  "fb_blocks": [
   1790350880.4125228,
