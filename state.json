@@ -2367,7 +2367,8 @@
   "https://news.google.com/rss/articles/CBMiV0FVX3lxTE96RWNJNzZGUEludUgzNUUweGlCdENSQThpNzNGVm5PaFh4ZmJzc2ZZZ3k1RkVmV0dWNjZxN2ZsSUpwUnlSeUZaekh0MnBLRGhOSXNXbUVzRQ?oc=5": 1791936092.3546836,
   "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTFR0VEgxX2FGUmllY09GOFEwZ3Iwc0wtLVZIVnZXc2EycnA0bFVEeTJkV05BOVZ1ajRjb0xYWXUtMnlsOVdIZlNZa3FoZXdXMmNYNV91aC12UUtLM1hmX19YWXBDNWNVTUQ4RnhldUZGR0hBeHYwek53VHpId3ozVWZNTGozeTktcXNxbnhsMWplQW5icVdNei11bVlkRndRTFVncGRjaV9fR21ub2RHNmF0WV9TX2FXb3RJZ0lrcEJqei1XVDh0OVUxWU9SaDVUMXZ4UUVKaWU1X3pVRDlJYg?oc=5": 1791936092.3546836,
   "https://risingnepaldaily.com/news/87766": 1791936092.3546836,
-  "https://news.google.com/rss/articles/CBMiugFBVV95cUxNS1ROMzFsNlo5YlMwY2JhaVhaQVNpS0dpY29CV1RONUJsNjNsOU52TGozRDY2cm91Tzk0ejJBeHhKSHQyUzZBSFYtTWtvaEdYdDNiak9CR2pwZzlVOGxpbHRvazhHOXVodUdqYmJkdGd1UmI3dndpbEFGMjRyU3I0SnUxTFE2cVoyX0NIV2lrT3J1UEpFNEV0Wmx0VGc3bmw2YlFxZnAwVDN4bUxGdFMyeDZSczVpN2RVbWc?oc=5": 1791936092.3546836
+  "https://news.google.com/rss/articles/CBMiugFBVV95cUxNS1ROMzFsNlo5YlMwY2JhaVhaQVNpS0dpY29CV1RONUJsNjNsOU52TGozRDY2cm91Tzk0ejJBeHhKSHQyUzZBSFYtTWtvaEdYdDNiak9CR2pwZzlVOGxpbHRvazhHOXVodUdqYmJkdGd1UmI3dndpbEFGMjRyU3I0SnUxTFE2cVoyX0NIV2lrT3J1UEpFNEV0Wmx0VGc3bmw2YlFxZnAwVDN4bUxGdFMyeDZSczVpN2RVbWc?oc=5": 1791936092.3546836,
+  "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNYThDQUZDOFZlY214OEF4UnZyUVFxdFhuUGhMNmJnNTU0MS04Q01RbEotN2NvRzRaZkNxMDRFOXY5RGtvRlROYTA4T0dUVnlkdFpCTFlldDB6TVI0ZUJJNFZVWE41QWQ2Uk0wMG5uSHA5QVBYemMzZjg5ajh6U2lzeHlHVUJ5Rk0yaXNvYXVISmFHTE9IVzBIQXVZdzZBdUxyS2czOE90Mjg1MktNRXBhNXpueEdRQzNXSGE3NnA1ZzZSa3JtMmVKUmxDSFU1Ql84VGZIc091dDAzY2FleDk0dG1Ndw?oc=5": 1791936654.6687667
  },
  "queue": [
   {
@@ -2684,30 +2685,6 @@
    "cat": "disaster",
    "val": 2,
    "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "9 Bangladeshi trekkers rescued in Nepal",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1vaXd4Wng1U3RQcUZxbTAzYk5zQWNCUGEwQjZuVS1HYjhTSXpIRHYwMVBZcDc2SVo5UTB4U3FyVmJWRGV0NENBVGRB?oc=5",
-   "source": "Daily Observer",
-   "ts": 1791907417,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "9 Bangladeshi trekkers rescued in Nepal",
-   "en": "9 Bangladeshi trekkers rescued in Nepal",
-   "ne": "9 Bangladeshi trekkers rescued in Nepal",
-   "imp": 3,
-   "tags": [
-    "Bangladesh",
-    "TrekkerRescue",
-    "Nepal",
-    "उद्धार"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
    "hits": 1
   },
   {
@@ -6236,7 +6213,7 @@
    "cat": "economy"
   }
  ],
- "updated": 1791936096,
+ "updated": 1791936658,
  "pending_since": 1791935450.5941179,
  "fb_blocks": [
   1790350880.4125228,
