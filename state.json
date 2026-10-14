@@ -2180,30 +2180,6 @@
  },
  "queue": [
   {
-   "title": "खुलामञ्चमा 'प्रेयर्स फर पिस', हेर्नुहोस् तस्बिरहरू",
-   "summary": "भोटेकोशी-त्रिशूली बाढीमा ज्यान गुमाएका तथा बेपत्ता भएकाहरूको सम्झना र सम्मानमा बुधबार काठमाडौंको खुलामञ्चमा 'प्रेयर्स फर पिस' कार्यक्रम आयोजना गरिएको छ।",
-   "link": "https://www.setopati.com/social/400858",
-   "source": "Setopati",
-   "ts": 1791991604,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "खुलामञ्चमा 'प्रेयर्स फर पिस', हेर्नुहोस् तस्बिरहरू",
-   "en": "खुलामञ्चमा 'प्रेयर्स फर पिस', हेर्नुहोस् तस्बिरहरू",
-   "ne": "खुलामञ्चमा 'प्रेयर्स फर पिस', हेर्नुहोस् तस्बिरहरू",
-   "imp": 1,
-   "tags": [
-    "KhulaManch",
-    "PrayersForPeace",
-    "খलामञ्च",
-    "Kathmandu"
-   ],
-   "cat": "culture",
-   "val": 1,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "फेसबुकमा टिप्पणी गरेको आरोपमा सुनाइएको मृत्युदण्डको फैसला उल्टियो",
    "summary": "श्रीलंकाली सरकारका अनुसार कूटनीतिक र कानुनी प्रयासपछि अदालतले मृत्युदण्डको फैसला बदर गरेको हो।...",
    "link": "https://nagariknews.nagariknetwork.com/international/death-sentence-overturned-for-facebook-comment-41-59.html",
@@ -2294,29 +2270,6 @@
    "val": 3,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "तीनदिने भारत भ्रमण सकेर स्वदेश फर्किए गृहमन्त्री",
-   "summary": "गृहमन्त्री सुधन गुरुङ तीनदिने भारत भ्रमण सम्पन्न गरी आज स्वदेश फर्किएका छन्।",
-   "link": "https://nagariknews.nagariknetwork.com/politics/home-minister-returns-home-after-three-day-visit-to-india-86-11.html",
-   "source": "Nagarik News",
-   "ts": 1791991529,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1791789434_gurung%20sudan.jpg",
-   "lang": "ne",
-   "hl": "तीनदिने भारत भ्रमण सकेर स्वदेश फर्किए गृहमन्त्री",
-   "en": "तीनदिने भारत भ्रमण सकेर स्वदेश फर्किए गृहमन्त्री",
-   "ne": "तीनदिने भारत भ्रमण सकेर स्वदेश फर्किए गृहमन्त्री",
-   "imp": 3,
-   "tags": [
-    "HomeMinister",
-    "IndiaVisit",
-    "गृहमन्त्री"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "New Study Reveals Clues About the Origins of Nepal's Deadly Flood",
@@ -2942,17 +2895,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1791415259.4612036,
-   "en": "Nepal's Growth to Slow to 3.7% in FY27 After Floods Damage Infrastructure",
-   "ne": "Nepal's Growth to Slow to 3.7% in FY27 After Floods Damage Infrastructure",
-   "link": "https://www.devdiscourse.com/article/business/3988075-flood-disruptions-push-nepals-growth-lower-as-recovery-shifts-toward-resilient-rebuilding?amp",
-   "source": "Devdiscourse",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "economy"
-  },
   {
    "ts": 1791417060.5301414,
    "en": "Nepal's Opposition Party Picks Thapa as Party President",
@@ -6155,7 +6097,7 @@
    "cat": "society"
   }
  ],
- "updated": 1792020067,
+ "updated": 1792020670,
  "pending_since": 1792019407.05269,
  "fb_blocks": [
   1790350880.4125228,
