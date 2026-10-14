@@ -2177,7 +2177,11 @@
   "https://news.google.com/rss/articles/CBMickFVX3lxTE9rMUh6SVlvVFZyMkhoa0I4QTVwNUF5czNrNVdYQ2p2RXFvOGR2UjUzNFBCbE9vQjJOdUZuZ3daZjQweXFEYWRMTHFjeEhhVEV1bmhpb1h4aW1GRzNSUXhid29wN083d2ltTm1LNXZiUmlldw?oc=5": 1792018884.3313956,
   "http://english.ratopati.com/story/83764/foreign-currency-exchange-rates-set-for-today": 1792019407.05269,
   "https://theannapurnaexpress.com/story/67939": 1792021251.7593758,
-  "https://theannapurnaexpress.com/story/67938": 1792021251.7593758
+  "https://theannapurnaexpress.com/story/67938": 1792021251.7593758,
+  "https://www.bbc.co.uk/news/articles/cvy0rd1j2kzlo?at_medium=RSS&at_campaign=rss": 1792021851.1874566,
+  "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1WMlJGRGw5RUszSUdhSVV6U2ZkQzM0eF9VWDZCRjBCYlF2YnJCRGJaVTU4MmFIRDR4RThaMkktN1J6aEhYaktYWG1tVExLS21fVnkzVmxWcXFRanN2MEplQmxFdWlOOU0?oc=5": 1792021851.1874566,
+  "https://news.google.com/rss/articles/CBMiW0FVX3lxTE14ZlNaQmYxY3ZHUnRrN3ZxcnYtWDNzQXBJVW5faFNHbml0YjhKdVJPbFVhZ1piMDNTd2xEc0hCWDVWcFNwVjVvdk1JTTJnS0ppZjNla0ZOdXRobmM?oc=5": 1792021851.1874566,
+  "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNSExvVUJrV3dvdGxaX1VvMl92TExLSWF5alUwdC1Ia1R4c2lWejhydkRvRlVqUTlUa2hGZGVPUFhJTmViOExVRWhzOWxzQVJHMnRyMTF6NkY2T1BGNmNDTEhjR3U0VEJhbWtjLURVZDlaaGIzMGJsOUotbG5PM25Cb2NEbjc1S2lsLTF3c3htN0UyOUlZMUYxaDJyOHJ0UUotVDY5SWtQRHYtWVlfQ2pWMkpxWjN5Y1ZKcEFGWTBBcy00OG5UNGlteUlCLVhOaVUtenR1clRpYk1xUTEtSHc?oc=5": 1792021851.1874566
  },
  "queue": [
   {
@@ -2846,7 +2850,7 @@
    "cat": "other",
    "val": 1,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Zelensky says he feels betrayed by Trump after Russia fuel deal",
@@ -2872,26 +2876,25 @@
    "hits": 1
   },
   {
-   "title": "Cantilever Bridge Swept Away, Leaving Chum Valley Cut Off Ahead of Festival",
-   "summary": "Festivals have arrived in the cities, but Chum Valley residents are facing a blockade. Schools and colleges have closed for the festival, and children are returning to their villages. Some local residents had traveled...",
-   "link": "https://theannapurnaexpress.com/story/67938",
-   "source": "Annapurna Express",
-   "ts": 1792006853.093485,
-   "weight": 3,
+   "title": "Nepal floods: Why Balendra Shah wants India and China to work together in the Himalayan region",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE14ZlNaQmYxY3ZHUnRrN3ZxcnYtWDNzQXBJVW5faFNHbml0YjhKdVJPbFVhZ1piMDNTd2xEc0hCWDVWcFNwVjVvdk1JTTJnS0ppZjNla0ZOdXRobmM?oc=5",
+   "source": "BBC",
+   "ts": 1792020731,
+   "weight": 2,
    "img": null,
    "lang": "en",
-   "hl": "Cantilever Bridge Swept Away, Leaving Chum Valley Cut Off Ahead of Festival",
-   "en": "Cantilever Bridge Swept Away, Leaving Chum Valley Cut Off Ahead of Festival",
-   "ne": "Cantilever Bridge Swept Away, Leaving Chum Valley Cut Off Ahead of Festival",
+   "hl": "Nepal floods: Why Balendra Shah wants India and China to work together in the Himalayan region",
+   "en": "Nepal floods: Why Balendra Shah wants India and China to work together in the Himalayan region",
+   "ne": "Nepal floods: Why Balendra Shah wants India and China to work together in the Himalayan region",
    "imp": 4,
    "tags": [
-    "ChumValley",
-    "Bridge",
-    "Dashain",
-    "बाढी"
+    "NepalFloods",
+    "BalendraShah",
+    "Himalayas"
    ],
    "cat": "disaster",
-   "val": 3,
+   "val": 2,
    "teaser": false,
    "hits": 1
   }
@@ -6097,10 +6100,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "society"
+  },
+  {
+   "ts": 1792021858.0005682,
+   "en": "Cantilever Bridge Swept Away, Leaving Chum Valley Cut Off Ahead of Festival",
+   "ne": "Cantilever Bridge Swept Away, Leaving Chum Valley Cut Off Ahead of Festival",
+   "link": "https://theannapurnaexpress.com/story/67938",
+   "source": "Annapurna Express",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "disaster"
   }
  ],
- "updated": 1792021265,
- "pending_since": null,
+ "updated": 1792021875,
+ "pending_since": 1792021851.1874566,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
