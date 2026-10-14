@@ -2354,7 +2354,10 @@
   "https://risingnepaldaily.com/news/87785": 1791947456.270112,
   "http://english.ratopati.com/story/83625/mrs-asia-international-2026-begins-in-thailand-sumitra-kalpana-and-ganga-compete-from-nepal": 1791947456.270112,
   "https://theannapurnaexpress.com/story/67913": 1791947456.270112,
-  "http://lokaantar.com/story/331270/2026/10/14/badhi-pidit-": 1791947456.270112
+  "http://lokaantar.com/story/331270/2026/10/14/badhi-pidit-": 1791947456.270112,
+  "https://news.google.com/rss/articles/CBMickFVX3lxTFAyR1BHanl4RXpQNlRhLXlISE1yV3pCbkJPMjVRd3RvVF9oNURJdFVBYmZMLUd0MjhEV0U2dUwxQjhZcl9RaDNBVTJpTnFLdUd2OHZHZlF5aGZRSkstVDZBdFBhLVFkQUtuNTFkcG51ZnNSZw?oc=5": 1791948048.6173556,
+  "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNWMybVo5Slk2U21ydVczckk5aU9ub0VmSkdhRmtIZk02bTJOLTdESkpMTVVoWDNib053Qlg0ZGJ5RXdDTWgxd3dNUlRJTWV6d2hERzFpSzlnYkE1SFZTQzRHLW15d2FBZHpKRHlyTHhha19xb18weEo3Tk9wTnVJR1RnNVhrRFNBcEhVbkJGMTVzVHZ6b1J3NkRHdXphcGhjbk1uV045UW5ycnBkQkNLTXVxZVZDVG1MT0VDNENB?oc=5": 1791948048.6173556,
+  "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYnh6X1c2S3N5ZXMzOVZFcHctSWdiUENpYmd3S1RiQVozLWMzZ21TOW8tYWJPbFZ4OS1sTWlwSV9lN2ZCTGhOaGVIVmNURXpXdXRaV2lVZE1Od01WeDZ3YXdzSXdWeW5zYzhSamt1SWxPd3VsNFVuWVdPSHloVnctaGV5TFdKSVZ5RWhLaGtGU1VzQzFzeHB3bHJzcw?oc=5": 1791948048.6173556
  },
  "queue": [
   {
@@ -5034,6 +5037,30 @@
    "cat": "disaster",
    "val": 1,
    "teaser": true,
+   "hits": 1
+  },
+  {
+   "title": "Nepal suspends search for more than 5,000 flood victims",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYnh6X1c2S3N5ZXMzOVZFcHctSWdiUENpYmd3S1RiQVozLWMzZ21TOW8tYWJPbFZ4OS1sTWlwSV9lN2ZCTGhOaGVIVmNURXpXdXRaV2lVZE1Od01WeDZ3YXdzSXdWeW5zYzhSamt1SWxPd3VsNFVuWVdPSHloVnctaGV5TFdKSVZ5RWhLaGtGU1VzQzFzeHB3bHJzcw?oc=5",
+   "source": "The World from PRX",
+   "ts": 1791926234,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "Nepal suspends search for more than 5,000 flood victims",
+   "en": "Nepal suspends search for more than 5,000 flood victims",
+   "ne": "Nepal suspends search for more than 5,000 flood victims",
+   "imp": 4,
+   "tags": [
+    "Nepal",
+    "Flood",
+    "SearchAndRescue",
+    "बाढी"
+   ],
+   "cat": "disaster",
+   "val": 2,
+   "teaser": false,
    "hits": 1
   }
  ],
@@ -8229,7 +8256,7 @@
    "cat": "politics"
   }
  ],
- "updated": 1791947463,
+ "updated": 1791948052,
  "pending_since": 1791947456.270112,
  "fb_blocks": [
   1790350880.4125228,
