@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://baahrakhari.com/detail/504764": 1791827450.048162,
-  "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYmVMd0xESk9fMlh0ZmlNaXRXS0ZKb2EyNU40dUFPVjhKX1JkSkNfUWpOcGZucEJzVk9LZGZpUWpXQ3doMWlMUjBhdnp2d3A1Y1VDaVJ5aUpBdmxFQmg4QVV0SlQ4TmNvaWVKdi1SbnJKMEsyTWd2Nngwa2E4NmhiS3U0Y2FUTjJsMUl5ci1laVh1SFE4WG4yWXZVMlQwOTJxNXhWT2R5R0dZaU9TbFA3dXFKaXF5bGNSdTF5SkVlazFKRlotNUlVcjJqUEhMamM?oc=5": 1791827450.048162,
   "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNcmVqMlVRS2RlZzFRbDNVVkVCR2xkZ19hdE9ZLW81bktmZHpxWk8zZC0zMG1USU1mVEhNQVRFdzlDODFjQ19QYU9XRncxSnpaY09SYTI3eDZVcHhDbEJKRVZwcnZvV1hhR0N1dk5zOVNfV2RZcDZhZUdkcE9idEdKRVVHSVZ2dTExRWFZaXkyVGdoNGIzTmtfd0wwMlFyeXd6VURlVUVWNElNZnlpZmFvbGxxYUNJbXBSUWx1TmFwVXlxMFNQU191WVF0RmhUa3F4aGN1ZUVOeGt6NDRxNjBsOV9QVzl5OTJ4QXJCek5XdkQ0Y1o1YXJrX1kxQ05aTnM?oc=5": 1791828090.854646,
   "https://gorkhapatraonline.com/news/226457": 1791828090.854646,
   "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQVdycEIxXzh6Y3hLaUozNlVjZmg4YjF0TGNLNVo2VFQzZ0ZVZzY3ZU1CS0hCMUtJcllNY2kzMHl2RlRvV2hCSzA5dTV2cmhhdVAzQ3NrRUQ0enJoZWVJWVRpdXpldl9OaWlQRldOZXBmR0xMT2ktNDdDQVJLdkFRWDg4U2FOOU1RMnJyeWktbnZ3VER4b2haSjh0R1hucXNhdWk1d0RfQWl6eGtCX0lDYWp3THlwZ2F0?oc=5": 1791828090.854646,
@@ -2199,7 +2197,8 @@
   "https://gorkhapatraonline.com/news/226727": 1791999651.706132,
   "https://baahrakhari.com/detail/504978": 1791999651.706132,
   "https://gorkhapatraonline.com/news/226724": 1791999651.706132,
-  "http://english.ratopati.com/story/83758/hopes-explosive-century-and-keemo-pauls-5-wicket-haul-india-stunned-by-west-indies-in-the-fourth-t20i": 1792000249.8192005
+  "http://english.ratopati.com/story/83758/hopes-explosive-century-and-keemo-pauls-5-wicket-haul-india-stunned-by-west-indies-in-the-fourth-t20i": 1792000249.8192005,
+  "https://gorkhapatraonline.com/news/226725": 1792000889.438944
  },
  "queue": [
   {
@@ -2340,29 +2339,6 @@
    "hits": 4
   },
   {
-   "title": "बल्खुमा यात्रुलाई दुःख दिएको आरोपमा तीन जना पक्राउ",
-   "summary": "सार्वजनिक यातायातका यात्रुलाई दुःख हैरानी दिएर अभद्र व्यवहार गरेको आरोपमा प्रहरीले तीन जनालाई पक्राउ गरेको छ।",
-   "link": "https://www.setopati.com/social/400835",
-   "source": "Setopati",
-   "ts": 1791972082,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "बल्खुमा यात्रुलाई दुःख दिएको आरोपमा तीन जना पक्राउ",
-   "en": "बल्खुमा यात्रुलाई दुःख दिएको आरोपमा तीन जना पक्राउ",
-   "ne": "बल्खुमा यात्रुलाई दुःख दिएको आरोपमा तीन जना पक्राउ",
-   "imp": 2,
-   "tags": [
-    "Balkhu",
-    "Police",
-    "Kathmandu"
-   ],
-   "cat": "crime",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Entertainment Park Construction Blocks Public Pathway in Janakpurdham",
    "summary": "Janakpurdham. Pedestrians are facing hardship after the pathway inside the Barahbigha ground in Janakpurdham, used by the general public, was...",
    "link": "http://english.ratopati.com/story/83706/pings-have-been-placed-blocking-the-footpath-at-janakpurs-bahrabigha-maidan-causing-inconvenience-to-commuters",
@@ -2432,29 +2408,6 @@
    "hits": 1
   },
   {
-   "title": "अष्ट्रेलियाका युवामा मानसिक समस्या बढी",
-   "summary": "अष्ट्रेलियामा देशभर सञ्चालित मानसिक स्वास्थ्य सहायता केन्द्रमार्फत १० लाखभन्दा बढी युवाले मानसिक स्वास्थ्यसम्बन्धी सेवा प्राप्त गरेका छन्।...",
-   "link": "https://nagariknews.nagariknetwork.com/international/mental-health-problems-are-more-common-among-young-people-in-australia-43-78.html",
-   "source": "Nagarik News",
-   "ts": 1791971938,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1744879077_australia.jpg",
-   "lang": "ne",
-   "hl": "अष्ट्रेलियाका युवामा मानसिक समस्या बढी",
-   "en": "अष्ट्रेलियाका युवामा मानसिक समस्या बढी",
-   "ne": "अष्ट्रेलियाका युवामा मानसिक समस्या बढी",
-   "imp": 1,
-   "tags": [
-    "Australia",
-    "MentalHealth",
-    "Youth"
-   ],
-   "cat": "health",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Kathmandu Metropolitan City Approves School Partnership Program and Early Childhood Development Center Guidelines",
    "summary": "Kathmandu. Kathmandu Metropolitan City has approved the working procedure for the implementation of the 'Kathmandu School Partnership Program' to exchange...",
    "link": "http://english.ratopati.com/story/83704/kathmandu-metropolitan-city-passes-four-new-procedures-including-school-partnership-program-procedures",
@@ -2476,29 +2429,6 @@
    "val": 3,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "काठमाडौंमा ३ रोपनी जग्गा खोज्दै रास्वपा",
-   "summary": "राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) ले केन्द्रीय कार्यालय सञ्चालनका लागि काठमाडौं उपत्यकाभित्र चक्रपथसँग जोडिएको वा चक्रपथ नजिक कम्तीमा ३ रोपनी जग्गा अथवा सोही बराबरको संरचना भएको घर खरिद गर्ने प्रक्रिया अघि बढाएको...",
-   "link": "https://nagariknews.nagariknetwork.com/politics/rashtriya-swayamsevak-sangh-rss-is-looking-for-3-ropanis-of-land-in-kathmandu-44-98.html",
-   "source": "Nagarik News",
-   "ts": 1791971538,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1791972065_rrs.png",
-   "lang": "ne",
-   "hl": "काठमाडौंमा ३ रोपनी जग्गा खोज्दै रास्वपा",
-   "en": "काठमाडौंमा ३ रोपनी जग्गा खोज्दै रास्वपा",
-   "ne": "काठमाडौंमा ३ रोपनी जग्गा खोज्दै रास्वपा",
-   "imp": 2,
-   "tags": [
-    "RSP",
-    "Kathmandu",
-    "Politics"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "बाढीले बैंक विस्थापित हुँदा सेवाग्राही मर्कामा",
@@ -2796,52 +2726,6 @@
    "val": 3,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "Envoy Giribahadur Sunar Prioritizes Nepali Worker Welfare in Saudi Arabia",
-   "summary": "Kathmandu. The proposed Nepali Ambassador to Saudi Arabia, Giribahadur Sunar, has prioritized the security and service delivery of Nepali workers...",
-   "link": "http://english.ratopati.com/story/83703/sunars-commitment-to-the-proposed-ambassador-to-saudi-arabia-safety-of-nepali-workers-and-service-delivery-are-the-main-priorities",
-   "source": "Ratopati EN",
-   "ts": 1791971864,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/giri-bahadur-sunar-saudi-arabia_npl-01_DWpiGsxUda.webp",
-   "lang": "en",
-   "hl": "Envoy Giribahadur Sunar Prioritizes Nepali Worker Welfare in Saudi Arabia",
-   "en": "Envoy Giribahadur Sunar Prioritizes Nepali Worker Welfare in Saudi Arabia",
-   "ne": "Envoy Giribahadur Sunar Prioritizes Nepali Worker Welfare in Saudi Arabia",
-   "imp": 2,
-   "tags": [
-    "GiribahadurSunar",
-    "SaudiArabia",
-    "NepaliWorkers"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Indonesian Ambassador Presents Credentials to President Ram Chandra Paudel",
-   "summary": "Kathmandu. Ambassador of Indonesia to Nepal, Listyowati, presented her Letters of Credence to President Ram Chandra Paudel as the non-resident...",
-   "link": "http://english.ratopati.com/story/83702/indonesian-non-resident-ambassador-listiowati-presents-credentials-to-president-poudel",
-   "source": "Ratopati EN",
-   "ts": 1791971576,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/whatsapp-image-2026-10-14-at-152703_ZDfDHHDWDe.webp",
-   "lang": "en",
-   "hl": "Indonesian Ambassador Presents Credentials to President Ram Chandra Paudel",
-   "en": "Indonesian Ambassador Presents Credentials to President Ram Chandra Paudel",
-   "ne": "Indonesian Ambassador Presents Credentials to President Ram Chandra Paudel",
-   "imp": 2,
-   "tags": [
-    "IndonesianAmbassador",
-    "RamChandraPaudel",
-    "Credentials"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 4
   },
   {
    "title": "बूढीगण्डकी बाढी : उत्तरी गोरखाको पाँचहजार घर विद्युत् विहीन",
@@ -4865,29 +4749,6 @@
    "hits": 1
   },
   {
-   "title": "रास्वपाको उम्मेदवार बन्न वैवाहिक अवस्था कानुनी रूपमा स्पष्ट हुनुपर्ने",
-   "summary": "राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) ले उम्मेदवार छनोटका लागि प्रस्ताव गरेको मापदण्डमा वैवाहिक अवस्थाको कानुनी स्पष्टता अनिवार्य हुनुपर्ने व्यवस्था राखेको छ ।प्रस्तावित मापदण्डअनुसार उम्मेदवारले आफ्नो पारिवारिक तथा...",
-   "link": "http://lokaantar.com/story/331317/2026/10/14/rsp-",
-   "source": "Lokaantar",
-   "ts": 1791971451.5609431,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "रास्वपाको उम्मेदवार बन्न वैवाहिक अवस्था कानुनी रूपमा स्पष्ट हुनुपर्ने",
-   "en": "रास्वपाको उम्मेदवार बन्न वैवाहिक अवस्था कानुनी रूपमा स्पष्ट हुनुपर्ने",
-   "ne": "रास्वपाको उम्मेदवार बन्न वैवाहिक अवस्था कानुनी रूपमा स्पष्ट हुनुपर्ने",
-   "imp": 3,
-   "tags": [
-    "RSP",
-    "Elections",
-    "CandidateRules"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "ओमोडा जेइकू एनपीएल सिजन-३ को मुख्य प्रायोजकमा आबद्ध",
    "summary": "",
    "link": "https://baahrakhari.com/detail/504970",
@@ -6415,6 +6276,30 @@
     "T20Cricket"
    ],
    "cat": "sports",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "कालीगण्डकी बाढी : तातोपानी कुण्ड बगरमा परिणत",
+   "summary": "ठाकुरप्रसाद आचार्य म्याग्दी (बेनी) असोज २८ गते । असोज दोस्रो साता आएको कालीगण्डकी बाढीले म्याग्दीको अन्नपूर्ण गाउँपालिका-६ रातोपानीस्थित प्राकृतिक तातोपानी कुण्डको अस्तित्व नै मेटा...",
+   "link": "https://gorkhapatraonline.com/news/226725",
+   "source": "Gorkhapatra",
+   "ts": 1792000858,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/388187/conversions/Ratopani-tatopani-kunda-photo--(2)-original.jpg",
+   "lang": "ne",
+   "hl": "कालीगण्डकी बाढी : तातोपानी कुण्ड बगरमा परिणत",
+   "en": "कालीगण्डकी बाढी : तातोपानी कुण्ड बगरमा परिणत",
+   "ne": "कालीगण्डकी बाढी : तातोपानी कुण्ड बगरमा परिणत",
+   "imp": 4,
+   "tags": [
+    "Kaligandaki",
+    "TatopaniKund",
+    "Flood",
+    "बाढी"
+   ],
+   "cat": "disaster",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -9623,7 +9508,7 @@
    "cat": "tech"
   }
  ],
- "updated": 1792000255,
+ "updated": 1792000896,
  "pending_since": 1792000249.8192005,
  "fb_blocks": [
   1790350880.4125228,
