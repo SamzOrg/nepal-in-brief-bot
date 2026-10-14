@@ -1,8 +1,5 @@
 {
  "seen": {
-  "https://baahrakhari.com/detail/504650": 1791765651.2014794,
-  "http://lokaantar.com/story/331093/2026/10/12/dollar-": 1791765651.2014794,
-  "http://english.ratopati.com/story/83373/citys-impressive-win-over-liverpool-at-anfield-moves-them-three-points-clear-at-the-top": 1791765651.2014794,
   "https://risingnepaldaily.com/news/87687": 1791766249.7618024,
   "https://gorkhapatraonline.com/news/226350": 1791766249.7618024,
   "https://nagariknews.nagariknetwork.com/Bazar/foreign-currency-exchange-rates-set-for-today-br-18-61.html": 1791766249.7618024,
@@ -2378,33 +2375,10 @@
   "https://risingnepaldaily.com/news/87769": 1791937868.2673035,
   "https://gorkhapatraonline.com/news/226584": 1791937868.2673035,
   "https://risingnepaldaily.com/news/87768": 1791937868.2673035,
-  "https://gorkhapatraonline.com/news/226583": 1791937868.2673035
+  "https://gorkhapatraonline.com/news/226583": 1791937868.2673035,
+  "http://english.ratopati.com/story/83610/army-champions-in-national-itf-taekwondo": 1791938451.7764814
  },
  "queue": [
-  {
-   "title": "पाठक, पौडेल र डा. पोखरेललाई 'वासु शशी साहित्य सम्मान'",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/504865",
-   "source": "Baahrakhari",
-   "ts": 1791909553,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "पाठक, पौडेल र डा. पोखरेललाई 'वासु शशी साहित्य सम्मान'",
-   "en": "पाठक, पौडेल र डा. पोखरेललाई 'वासु शशी साहित्य सम्मान'",
-   "ne": "पाठक, पौडेल र डा. पोखरेललाई 'वासु शशी साहित्य सम्मान'",
-   "imp": 2,
-   "tags": [
-    "Pathak",
-    "Poudel",
-    "Pokharel",
-    "SahityaSamman"
-   ],
-   "cat": "culture",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
   {
    "title": "मापसे र लापसे गरी सार्वजनिक सवारी चलाउने १८ चालक कारबाहीमा",
    "summary": "काठमाडौँ, असोज २७ गते । दसैँ, तिहारलगायतका चाडपर्वलाई लक्षित गरी काठमाडौँ उपत्यकामा सञ्चालन गरिएको विशेष ट्राफिक चेकजाँचका क्रममा १८ जना सवारी चालक कारबाहीमा परेका छन् । मादक पदार्...",
@@ -3127,6 +3101,29 @@
     "ElectricWires"
    ],
    "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Nepal Army Wins 26th National ITF Taekwondo Championship",
+   "summary": "Biratnagar. Departmental team Nepal Army has won the title of the 26th National ITF Taekwondo Championship held in Biratnagar. Army...",
+   "link": "http://english.ratopati.com/story/83610/army-champions-in-national-itf-taekwondo",
+   "source": "Ratopati EN",
+   "ts": 1791938300,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/848045193_3424759204370187_4839563143439073830_n_uw8l27vO4e.webp",
+   "lang": "en",
+   "hl": "Nepal Army Wins 26th National ITF Taekwondo Championship",
+   "en": "Nepal Army Wins 26th National ITF Taekwondo Championship",
+   "ne": "Nepal Army Wins 26th National ITF Taekwondo Championship",
+   "imp": 3,
+   "tags": [
+    "NepalArmy",
+    "Taekwondo",
+    "Sports"
+   ],
+   "cat": "sports",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -6357,7 +6354,7 @@
    "cat": "crime"
   }
  ],
- "updated": 1791938138,
+ "updated": 1791938468,
  "pending_since": 1791938134.2472863,
  "fb_blocks": [
   1790350880.4125228,
