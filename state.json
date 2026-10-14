@@ -1,9 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMitwFBVV95cUxOd1pMc1ltdVhJdG9BUzZqMU5qTHhubGIzRjI2anBuZTlTOVpCOTlTMndpLWQ2allwbWZEVlB0QWZyY1k3QVVRV0hGUktoRmJuWUhfemZzbDdPSVBBM2xGU2JaT0FDMVc1cDZuRlRmdVA0S0JmM0Q3Rk5wNXMtODBIUlNOMG13bVVNcHkwOHRkVHRGTHhwZ0JOdlJCNi1YdjNTeHh2TVRlZWVBVFZXSXlSa0ZKNmRrVlE?oc=5": 1791767448.7266836,
-  "https://baahrakhari.com/detail/504653": 1791767448.7266836,
-  "http://english.ratopati.com/story/83376/abhishek-and-arshdeeps-brilliant-performance-indias-thrilling-win-in-indore": 1791767448.7266836,
-  "http://lokaantar.com/story/331095/2026/10/12/saudi-": 1791767448.7266836,
   "https://nagariknews.nagariknetwork.com/politics/congress-general-convention-counting-of-votes-of-central-members-from-8-am-50-94.html": 1791768050.1967702,
   "https://nagariknews.nagariknetwork.com/politics/poudel-and-udaya-for-general-secretary-dila-wins-for-women-78-10.html": 1791768050.1967702,
   "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSzQ0eWJVZnhrbHA0TmtHa09lTUl3S2ZLUGEycHVlV2pMakdOSFhlV2N6TU9ENS1GWTFWZC16RDR4am5QVTM1WUd5Zy13bVVsbVBFdThQTjAzWUNnOHpudEdUcXdCVkJaT1RTWlhMTXlGNGhEdExXN0VnLU1Ba3RxN3VEVDZxTGtFbFNDbHpQbkhGOXBiM29kRmlkb0ZPUkpVdXMwNmZuSFhucWxKaTJzMWdxWHZpMTUz?oc=5": 1791768050.1967702,
@@ -2377,7 +2373,9 @@
   "https://gorkhapatraonline.com/news/226588": 1791939690.936597,
   "https://kathmandupost.com/columns/2026/10/13/what-it-means-to-live-with-the-disaster-paradox": 1791939690.936597,
   "https://gorkhapatraonline.com/news/226587": 1791939690.936597,
-  "https://kathmandupost.com/columns/2026/10/13/escalating-catastrophes-mounting-health-crisis": 1791939690.936597
+  "https://kathmandupost.com/columns/2026/10/13/escalating-catastrophes-mounting-health-crisis": 1791939690.936597,
+  "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9rNHdyVXNwemdMTWRrOVdQYnEwa0plbzMzcXhDWFM5bUlsN3FwRjI5UThDRW5EaHplNXpwZFhQcnZIM3h2VkJPY3ZLd3ZGMV80OEMwSUNlVVU?oc=5": 1791940250.5260048,
+  "https://english.khabarhub.com/2026/14/571911/": 1791940250.5260048
  },
  "queue": [
   {
@@ -2990,7 +2988,7 @@
    "cat": "economy",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 3
   },
   {
    "title": "समानुपातिक सहभागिता संविधानको मूल मर्म",
@@ -6841,8 +6839,8 @@
    "cat": "sports"
   }
  ],
- "updated": 1791939731,
- "pending_since": null,
+ "updated": 1791940254,
+ "pending_since": 1791940250.5260048,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
