@@ -2192,7 +2192,8 @@
   "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTUhVSHowSGxfUDhfRXphYnJOYlhHdGNDRXQzNUxUNWFwV1NhUjM4VF94blFzdzJUYjZ1SHgwY29DMUQ5bkpyaVZnc3lwMlcxejM4cXdrZzlXWV9STFlwU0ZxUEhZZEVjeE9yb0ZYenF0ODl1OGRPWEV6WGlaanNHR3IxRVBXMms4a3BSQVpPU0VjeF9JMV95Uk5Fd0RHWGI1dTZSRTNIVHBMUlNMbVE1UTlJV2Z0bU9kc3Q0?oc=5": 1792033853.136655,
   "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOaFdVbjFrcGU1cTFNQ1ktRkFLRmpTaFAxQXFHYWpRa0JKbm55R2g5U04tNmp2TllsNXBhVVJfT0R0ZThJaERrQllhM0FhX3lDM1VSVWJQU285RFpKYVJGUmZOQjhIV2tiLUM1cnUwODAybmhkbTVKYW5vTURBckhoVm50MjdJRDlzVUY4RDNnTlMtNlJUM2cwamtpV194bTRDby0yUnBSX0hUc3JGOVViUzVmRW81ZW5EWUpab0V2S2FYOHk0a1hEYXgyR1dXaHAyTUdwQQ?oc=5": 1792033853.136655,
   "http://lokaantar.com/story/331349/2026/10/15/bharatpur-airport-": 1792033853.136655,
-  "https://gorkhapatraonline.com/news/226759": 1792033853.136655
+  "https://gorkhapatraonline.com/news/226759": 1792033853.136655,
+  "https://risingnepaldaily.com/news/87822": 1792034446.193299
  },
  "queue": [
   {
@@ -4517,29 +4518,6 @@
     "दसैँ"
    ],
    "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Ministry of Finance Highlights Economic Pressures, Projects Lower Growth",
-   "summary": "Kathmandu. The Ministry of Finance has pointed out the multifaceted impacts of internal and external pressures on the country's economy.The...",
-   "link": "http://english.ratopati.com/story/83780/floods-add-to-challenges-development-spending-hits-14-year-low",
-   "source": "Ratopati EN",
-   "ts": 1792032133,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/artha_47zozxUVgR.webp",
-   "lang": "en",
-   "hl": "Ministry of Finance Highlights Economic Pressures, Projects Lower Growth",
-   "en": "Ministry of Finance Highlights Economic Pressures, Projects Lower Growth",
-   "ne": "Ministry of Finance Highlights Economic Pressures, Projects Lower Growth",
-   "imp": 4,
-   "tags": [
-    "MinistryOfFinance",
-    "Inflation",
-    "Economy"
-   ],
-   "cat": "economy",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -7942,9 +7920,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "economy"
+  },
+  {
+   "ts": 1792034451.8039339,
+   "en": "Ministry of Finance Highlights Economic Pressures, Projects Lower Growth",
+   "ne": "Ministry of Finance Highlights Economic Pressures, Projects Lower Growth",
+   "link": "http://english.ratopati.com/story/83780/floods-add-to-challenges-development-spending-hits-14-year-low",
+   "source": "Ratopati EN",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "economy"
   }
  ],
- "updated": 1792033860,
+ "updated": 1792034469,
  "pending_since": 1792033853.136655,
  "fb_blocks": [
   1790350880.4125228,
