@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://gorkhapatraonline.com/news/226493": 1791867049.2239022,
   "https://nagariknews.nagariknetwork.com/politics/inter-provincial-chief-ministers-conference-begins-33-82.html": 1791867689.5814376,
   "https://www.setopati.com/politics/400714": 1791867689.5814376,
   "https://nagariknews.nagariknetwork.com/politics/congress-vote-counting-ends-on-wednesday-12-95.html": 1791867689.5814376,
@@ -2210,7 +2209,8 @@
   "https://gorkhapatraonline.com/news/226772": 1792039252.42737,
   "https://nagariknews.nagariknetwork.com/politics/not-all-government-decisions-are-correct-even-if-there-is-a-two-thirds-majority-amresh-kumar-singh-51-65.html": 1792039252.42737,
   "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaTYxY0ZoSXBMekpZaDBhNnhDUkpzLUlXRW0tTFdUQnhGNWFjOWdDTTVTa1JfSWp3blJ2N2RVRjZ1V2VPTmlvakhKNmtQaS1ZT19DVmxDVzMzSkpUeFRrNEdsOThtTVpiVU95eVpvejd1dWNSb3Z4dFNvOThTMW5XbDlQVjZBMDNjSk1IS2ZMd2xMdTFmamFPWUFWc2ZCc3c3NFRqMENKNHVLZ0hsell5R1ctTQ?oc=5": 1792039849.0506375,
-  "https://nagariknews.nagariknetwork.com/social-affairs/despite-the-hustle-and-bustle-of-dashain-bajura-farmers-are-busy-importing-rice-16-22.html": 1792039849.0506375
+  "https://nagariknews.nagariknetwork.com/social-affairs/despite-the-hustle-and-bustle-of-dashain-bajura-farmers-are-busy-importing-rice-16-22.html": 1792039849.0506375,
+  "http://english.ratopati.com/story/83795/chance-of-snowfall-in-the-himalayan-region-and-fog-in-the-terai": 1792040488.2633731
  },
  "queue": [
   {
@@ -6153,17 +6153,6 @@
  ],
  "posted": [
   {
-   "ts": 1791435059.9500115,
-   "en": "शरद् ऋतुमा हिमाल आरोहण गर्न ७० देशका ७८८ जनाले लिए अनुमति",
-   "ne": "शरद् ऋतुमा हिमाल आरोहण गर्न ७० देशका ७८८ जनाले लिए अनुमति",
-   "link": "https://baahrakhari.com/detail/504224",
-   "source": "Baahrakhari",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "society"
-  },
-  {
    "ts": 1791435696.4345663,
    "en": "Australia Pledges Additional A$15 Million to Flood-Hit Nepal",
    "ne": "Australia Pledges Additional A$15 Million to Flood-Hit Nepal",
@@ -9376,7 +9365,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1792039874,
+ "updated": 1792040491,
  "pending_since": 1792039252.42737,
  "fb_blocks": [
   1790350880.4125228,
