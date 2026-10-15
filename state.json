@@ -2209,32 +2209,12 @@
   "https://nagariknews.nagariknetwork.com/politics/nepali-politics-cannot-move-forward-without-isolating-the-nepali-congress-dila-sangraula-46-39.html": 1792052456.5202909,
   "https://nagariknews.nagariknetwork.com/health/there-is-no-ban-on-the-sale-and-distribution-of-immunosuppressant-drugs-department-of-drug-management-73-25.html": 1792052456.5202909,
   "https://nagariknews.nagariknetwork.com/social-affairs/kathmandu-district-court-to-remain-open-even-during-dashain-holidays-42-31.html": 1792052456.5202909,
-  "https://nagariknews.nagariknetwork.com/social-affairs/rs-7-000-each-subsidy-to-46-farmers-raising-cattle-47-86.html": 1792052456.5202909
+  "https://nagariknews.nagariknetwork.com/social-affairs/rs-7-000-each-subsidy-to-46-farmers-raising-cattle-47-86.html": 1792052456.5202909,
+  "https://www.setopati.com/kinmel/business/400902": 1792053074.970277,
+  "http://english.ratopati.com/story/83846/classification-of-hotels-along-the-nagdhunga-muglin-road": 1792053074.970277,
+  "http://lokaantar.com/story/331370/2026/10/15/finance-minister-wagle-": 1792053074.970277
  },
  "queue": [
-  {
-   "title": "Weather Forecast: Partial Cloudiness and Rain Expected in Several Regions",
-   "summary": "Kathmandu. Currently, there is a partial influence of westerly and local winds in the country, the Department of Hydrology and...",
-   "link": "http://english.ratopati.com/story/83765/monsoon-has-emerged-partial-influence-of-westerly-and-local-winds-persists-possibility-of-rain-in-these-parts-of-the-country-today",
-   "source": "Ratopati EN",
-   "ts": 1792024020,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/rain_d5V7BFQKq9.jpg",
-   "lang": "en",
-   "hl": "Weather Forecast: Partial Cloudiness and Rain Expected in Several Regions",
-   "en": "Weather Forecast: Partial Cloudiness and Rain Expected in Several Regions",
-   "ne": "Weather Forecast: Partial Cloudiness and Rain Expected in Several Regions",
-   "imp": 2,
-   "tags": [
-    "WeatherForecast",
-    "Rain",
-    "मौसम"
-   ],
-   "cat": "disaster",
-   "val": 2,
-   "teaser": false,
-   "hits": 2
-  },
   {
    "title": "गुम्बामा बित्दै छ बाढीपीडित बालबालिकाको दैनिकी",
    "summary": "गोरखापत्र समाचारदाताकाठमाडौँ, असोज २९ गते । भोटेकोशी-त्रिशूलीमा आएको बाढीले बालबालिकाले अभिभावक गुमाउँदा उनीहरूको दैनिकी नै परिवर्तन भएको छ । एकातिर साथीभाइसँगको बिछोड अर्कातर्फ वि...",
@@ -2390,27 +2370,6 @@
    "hits": 1
   },
   {
-   "title": "Roads Must Be Completed, Not Just Started",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOHY2UWxEZEpXRC0yTTR5MHRFamUyNnh5Z1V0SXZXOXYxLTIxdjdIUjg2QmNZVWp5YUVYRHpManV1UjZ0cjZpUnU3RV90SzZmN0k2LWxPMFF1UExvdC1jODNGd1JVVm9qME9vcnVFbnVFN1RZcUhwUjFCYUJBSDJvLWRkRVNvWmFNRktlcnctZHVMV25mN3AwLU1pZHZDV1h3?oc=5",
-   "source": "myRepublica",
-   "ts": 1792023710,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Roads Must Be Completed, Not Just Started",
-   "en": "Roads Must Be Completed, Not Just Started",
-   "ne": "Roads Must Be Completed, Not Just Started",
-   "imp": 2,
-   "tags": [
-    "RoadInfrastructure"
-   ],
-   "cat": "politics",
-   "val": 2,
-   "teaser": true,
-   "hits": 2
-  },
-  {
    "title": "लिंगे पिङको परम्परा जोगाउन नगरपालिकाको सहयोग",
    "summary": "",
    "link": "https://baahrakhari.com/detail/504984",
@@ -2562,28 +2521,6 @@
    "hits": 2
   },
   {
-   "title": "Agricultural Resource Center Focuses on Modern Machinery to Reduce Production Costs",
-   "summary": "Syangja. The Agricultural Development Resource Center located in Yabadi, Waling 1, Syangja, has emphasized the use of modern machinery to...",
-   "link": "http://english.ratopati.com/story/83766/use-of-technology-to-reduce-production-costs-in-agriculture",
-   "source": "Ratopati EN",
-   "ts": 1792024245,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/goBEEbc3yK.jpg",
-   "lang": "en",
-   "hl": "Agricultural Resource Center Focuses on Modern Machinery to Reduce Production Costs",
-   "en": "Agricultural Resource Center Focuses on Modern Machinery to Reduce Production Costs",
-   "ne": "Agricultural Resource Center Focuses on Modern Machinery to Reduce Production Costs",
-   "imp": 3,
-   "tags": [
-    "AgriculturalResourceCenter",
-    "Machinery"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
    "title": "राजमार्गका होटेल तथा रेस्टुरेन्टको वर्गीकरण",
    "summary": "गोरखापत्र समाचारदाताकाठमाडौँ, असोज २९ गते । खाद्य प्रविधि तथा गुण नियन्त्रण विभागले राजमार्गमा सञ्चालित होटेल तथा रेस्टुरेन्टको अनुगमन गरी वर्गीकरण गर्न सुरु गरेको जानकारी गराएको छ...",
    "link": "https://gorkhapatraonline.com/news/226737",
@@ -2645,72 +2582,6 @@
     "FeasibilityStudy"
    ],
    "cat": "economy",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "डेढगाउँ जोड्ने कालीगण्डकीको पुल सञ्चालन",
-   "summary": "कालीगण्डकी नदीमा आएको बाढीले पहुँचसडक बगाएको घिरिङ र डेढगाउँ जोड्ने पक्की पुल १८ दिनपछि सञ्चालनमा आएको छ।...",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/kaligandaki-bridge-connecting-two-and-a-half-villages-to-be-operational-50-18.html",
-   "source": "Nagarik News",
-   "ts": 1792024162,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1792024151_New%20Project%20(26).jpg",
-   "lang": "ne",
-   "hl": "डेढगाउँ जोड्ने कालीगण्डकीको पुल सञ्चालन",
-   "en": "डेढगाउँ जोड्ने कालीगण्डकीको पुल सञ्चालन",
-   "ne": "डेढगाउँ जोड्ने कालीगण्डकीको पुल सञ्चालन",
-   "imp": 3,
-   "tags": [
-    "KaligandakiBridge",
-    "Operations"
-   ],
-   "cat": "disaster",
-   "val": 2,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "'रत्नपार्क-भक्तपुर मेट्रो रेल' परियोजनाको अध्ययन सुरु",
-   "summary": "काठमाडौँ, असोज २९ गते । तीव्र रूपमा बढ्दै गएको जनसङ्ख्याको चापलाई सडक यातायातले मात्र धान्न नसक्ने अहिलेको अवस्थामा काठमाडौँ उपत्यकाको ट्राफिक व्यवस्थापनलाई सहज बनाउने उद्देश्यसहित...",
-   "link": "https://gorkhapatraonline.com/news/226733",
-   "source": "Gorkhapatra",
-   "ts": 1792024256,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/388194/conversions/metro-rail-original.jpg",
-   "lang": "ne",
-   "hl": "'रत्नपार्क-भक्तपुर मेट्रो रेल' परियोजनाको अध्ययन सुरु",
-   "en": "'रत्नपार्क-भक्तपुर मेट्रो रेल' परियोजनाको अध्ययन सुरु",
-   "ne": "'रत्नपार्क-भक्तपुर मेट्रो रेल' परियोजनाको अध्ययन सुरु",
-   "imp": 3,
-   "tags": [
-    "RatanPark",
-    "MetroRail"
-   ],
-   "cat": "politics",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "जलवायु न्यायका लागि नेपालको आवाज",
-   "summary": "नेपालमा हालै आएको विनाशकारी भोटेकोसी बाढीले हिमाली क्षेत्रमा बढ्दो जलवायु जोखिम र त्यसको मानवीय मूल्यलाई फेरि विश्वसामु उजागर गरेको छ।...",
-   "link": "https://nagariknews.nagariknetwork.com/editorial/nepal-s-voice-for-climate-justice-br-62-68.html",
-   "source": "Nagarik News",
-   "ts": 1792023663,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1767658562_Sampadakiya.jpg",
-   "lang": "ne",
-   "hl": "जलवायु न्यायका लागि नेपालको आवाज",
-   "en": "जलवायु न्यायका लागि नेपालको आवाज",
-   "ne": "जलवायु न्यायका लागि नेपालको आवाज",
-   "imp": 3,
-   "tags": [
-    "ClimateJustice",
-    "NepalVoice"
-   ],
-   "cat": "society",
    "val": 2,
    "teaser": false,
    "hits": 1
@@ -5219,30 +5090,6 @@
    "val": 2,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "Health screening stepped up at Gaddachauki border as Nepalis return from India for Dashain and Tihar",
-   "summary": "Kathmandu, October 15 Health screening is being conducted at the Gaddachauki border point in Kanchanpur for Nepalis returning home from India to celebrate Dashain and Tihar. With cross-border passenger traffic expected...",
-   "link": "https://english.onlinekhabar.com/health-screening-gaddachauki-border-nepal.html",
-   "source": "Onlinekhabar EN",
-   "ts": 1792037488,
-   "weight": 3,
-   "img": "http://english.onlinekhabar.com/wp-content/uploads/2020/03/Health-Check-at-Nepal-India-Border-Gaddachauki-Kailali-1024x416.jpg",
-   "lang": "en",
-   "hl": "Health screening stepped up at Gaddachauki border as Nepalis return from India for Dashain and Tihar",
-   "en": "Health screening stepped up at Gaddachauki border as Nepalis return from India for Dashain and Tihar",
-   "ne": "Health screening stepped up at Gaddachauki border as Nepalis return from India for Dashain and Tihar",
-   "imp": 3,
-   "tags": [
-    "Gaddachauki",
-    "HealthScreening",
-    "Dashain",
-    "Border"
-   ],
-   "cat": "health",
-   "val": 3,
-   "teaser": false,
-   "hits": 6
   },
   {
    "title": "साइबर ठगी रोक्न बैंकमा चौबिसै घण्टा सम्पर्क व्यक्ति",
@@ -7768,7 +7615,7 @@
    "cat": "society",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "प्रधानमन्त्री पत्नी सबिना काफ्लेको एपेन्डिसाइटिसको सफल शल्यक्रिया",
@@ -8272,7 +8119,7 @@
    "cat": "society",
    "val": 2,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "धनकुटामा बजार अनुगमन प्रभावकरी",
@@ -8409,7 +8256,7 @@
    "cat": "economy",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Australia's Unemployment Rate Rises to 4.7% in September",
@@ -12244,10 +12091,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "politics"
+  },
+  {
+   "ts": 1792053088.3125243,
+   "en": "Health screening stepped up at Gaddachauki border for Nepalis returning from India",
+   "ne": "Health screening stepped up at Gaddachauki border for Nepalis returning from India",
+   "link": "https://english.onlinekhabar.com/health-screening-gaddachauki-border-nepal.html",
+   "source": "Onlinekhabar EN",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "health"
   }
  ],
- "updated": 1792052467,
- "pending_since": null,
+ "updated": 1792053100,
+ "pending_since": 1792053074.970277,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
