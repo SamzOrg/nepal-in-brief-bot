@@ -1,9 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTmIyNnJhcVBsX1NOcmlMN0ZoU2loUVpQc25WZjQ2ZWg5X3hFdDlhRmpWc056ZjNrZVUzNUlleElmN0hHc1FuQXVfMEk3Q1dVNm1TMm9SODgyVEtaY0F5MjRYeUp6XzhlYlBpNlVsV2hscGpTdjlCci1aOUxOUUhWRnpDOW9mMjg5cVhvcjVUOWpNQ2l1d2F3alpLQUpvSG1OM3BUSk1RY2ZQNDVTbldtcnBnUdIBswFBVV95cUxPTmIyNnJhcVBsX1NOcmlMN0ZoU2loUVpQc25WZjQ2ZWg5X3hFdDlhRmpWc056ZjNrZVUzNUlleElmN0hHc1FuQXVfMEk3Q1dVNm1TMm9SODgyVEtaY0F5MjRYeUp6XzhlYlBpNlVsV2hscGpTdjlCci1aOUxOUUhWRnpDOW9mMjg5cVhvcjVUOWpNQ2l1d2F3alpLQUpvSG1OM3BUSk1RY2ZQNDVTbldtcnBnUQ?oc=5": 1791851469.7941413,
-  "http://lokaantar.com/story/331181/2026/10/13/forex-": 1791851469.7941413,
-  "http://lokaantar.com/story/331180/2026/10/13/dashain-": 1791851469.7941413,
-  "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9lVTRFWF9LM0VFRDE4NjFoRXFMcTFMYWR0NWVfcnRtMncwaXZPYkhyQjFxNWJBb2ZaV2ZXaTFfYTJvdlZTR1ZHZ2dGaEFWdHFpN0pMMklWNmRhVFNEdDFYT0M4N0hZTHc?oc=5": 1791851469.7941413,
   "https://baahrakhari.com/detail/504770": 1791852048.3501432,
   "https://risingnepaldaily.com/news/87728": 1791852048.3501432,
   "https://nagariknews.nagariknetwork.com/politics/nepali-congress-to-count-votes-for-four-groups-of-posts-today-55-41.html": 1791852048.3501432,
@@ -2191,7 +2187,9 @@
   "https://baahrakhari.com/detail/504982": 1792024268.0978599,
   "https://risingnepaldaily.com/news/87809": 1792024268.0978599,
   "https://baahrakhari.com/detail/504981": 1792024268.0978599,
-  "https://risingnepaldaily.com/news/87808": 1792024268.0978599
+  "https://risingnepaldaily.com/news/87808": 1792024268.0978599,
+  "https://risingnepaldaily.com/news/87811": 1792024847.080585,
+  "http://lokaantar.com/story/331334/2026/10/15/himal-": 1792024847.080585
  },
  "queue": [
   {
@@ -2214,29 +2212,6 @@
    ],
    "cat": "politics",
    "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Federation of Commerce and Industry Chairman Calls for Practical Trade Facilitation",
-   "summary": "Kathmandu. Chairman of the Federation of Nepal Industries and Commerce, Anjan Shrestha, has stated that trade facilitation should be done...",
-   "link": "http://english.ratopati.com/story/83757/trade-facilitation-should-be-implemented-in-practice",
-   "source": "Ratopati EN",
-   "ts": 1791995806,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/anjan-shrestha_j3oB1KtSP5.jpg",
-   "lang": "en",
-   "hl": "Federation of Commerce and Industry Chairman Calls for Practical Trade Facilitation",
-   "en": "Federation of Commerce and Industry Chairman Calls for Practical Trade Facilitation",
-   "ne": "Federation of Commerce and Industry Chairman Calls for Practical Trade Facilitation",
-   "imp": 3,
-   "tags": [
-    "FNCCI",
-    "Trade",
-    "Nepal"
-   ],
-   "cat": "economy",
-   "val": 2,
    "teaser": false,
    "hits": 1
   },
@@ -2448,29 +2423,6 @@
    "cat": "economy",
    "val": 3,
    "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "From the Lindsay Clancy Verdict Watch to Nepal's Mudslide: Rory O'Neill Reports - Manny Munoz",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQmduc3FoVzRORWRxeTRoTVRENXhmM2hNelN6T19ueXRSOVlTXzhraHJRMjNjMW44Q3R3NV8wUWV4ekVUMWJZUEFoY0V0Q21mUzNkQlA4WkhRSmV4aFBLR1dRTzNETXB1Y09SY1FyRHpMb3Q1UHMtNHozRmxqSkxtenBkZHZlV3ozTExxYVNIUFNjajdLWVRoalE4MGdIb0FORG9ZeHZSS3hIamVtRy1B?oc=5",
-   "source": "iHeart",
-   "ts": 1791995946,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "From the Lindsay Clancy Verdict Watch to Nepal's Mudslide: Rory O'Neill Reports - Manny Munoz",
-   "en": "From the Lindsay Clancy Verdict Watch to Nepal's Mudslide: Rory O'Neill Reports - Manny Munoz",
-   "ne": "From the Lindsay Clancy Verdict Watch to Nepal's Mudslide: Rory O'Neill Reports - Manny Munoz",
-   "imp": 1,
-   "tags": [
-    "Mudslide",
-    "RoryONeill",
-    "WorldNews"
-   ],
-   "cat": "world",
-   "val": 1,
-   "teaser": true,
    "hits": 1
   },
   {
@@ -2699,7 +2651,7 @@
    "cat": "economy",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Nepal is a warning: Climate adaptation must become a global priority",
@@ -6020,8 +5972,8 @@
    "cat": "disaster"
   }
  ],
- "updated": 1792024273,
- "pending_since": null,
+ "updated": 1792024852,
+ "pending_since": 1792024847.080585,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
