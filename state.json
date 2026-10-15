@@ -2176,53 +2176,6 @@
  },
  "queue": [
   {
-   "title": "Istanbul Records Highest Rainfall in 80 Years, Causing Floods and Casualties",
-   "summary": "Kathmandu. In Istanbul, Turkey, after heavy rains on Thursday, the administration and local organizations struggled to protect citizens from floods....",
-   "link": "http://english.ratopati.com/story/83887/istanbul-hit-by-heaviest-rain-in-80-years-three-dead",
-   "source": "Ratopati EN",
-   "ts": 1792076426,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/rain_5mquIqrDHn.webp",
-   "lang": "en",
-   "hl": "Istanbul Records Highest Rainfall in 80 Years, Causing Floods and Casualties",
-   "en": "Istanbul Records Highest Rainfall in 80 Years, Causing Floods and Casualties",
-   "ne": "Istanbul Records Highest Rainfall in 80 Years, Causing Floods and Casualties",
-   "imp": 1,
-   "tags": [
-    "Istanbul",
-    "Flood",
-    "Rainfall"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "दशौँ राष्ट्रिय खेलकुदमा कर्णालीका २१ तेक्वान्दो खेलाडी छानिए",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/505070",
-   "source": "Baahrakhari",
-   "ts": 1792075925,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "दशौँ राष्ट्रिय खेलकुदमा कर्णालीका २१ तेक्वान्दो खेलाडी छानिए",
-   "en": "दशौँ राष्ट्रिय खेलकुदमा कर्णालीका २१ तेक्वान्दो खेलाडी छानिए",
-   "ne": "दशौँ राष्ट्रिय खेलकुदमा कर्णालीका २१ तेक्वान्दो खेलाडी छानिए",
-   "imp": 3,
-   "tags": [
-    "NationalGames",
-    "Karnali",
-    "Taekwondo",
-    "तेक्वान्दो"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "क्रिकेट मैदान",
    "summary": "",
    "link": "https://baahrakhari.com/detail/505074",
@@ -2909,17 +2862,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1791499853.2736247,
-   "en": "Nepal Airlines Reduce Fares For Dashain After Govt Intervention",
-   "ne": "Nepal Airlines Reduce Fares For Dashain After Govt Intervention",
-   "link": "https://myrepublica.nagariknetwork.com/news/airline-companies-agree-to-reduce-ticket-fares-following-govt-intervention-35-39.html",
-   "source": "myRepublica",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "economy"
-  },
   {
    "ts": 1791501652.3936305,
    "en": "Sankhuwasabha Records 560 Scrub Typhus Cases Since July",
@@ -6133,7 +6075,7 @@
    "cat": "politics"
   }
  ],
- "updated": 1792104669,
+ "updated": 1792105294,
  "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
