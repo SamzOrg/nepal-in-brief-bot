@@ -1,13 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMixgFBVV95cUxPLV83Q3FJbDRzQUpQN2VvZ0JyQjNzd3hQLXN2VnVwWWJKV0hfN1VTdGFfdEpBZzJMNWhHczVIX0lnc012ZXFLOXM3X0x5Q1ktRFBLNUZocFRQbnRpajlnQkRQNHU3a3VlUVVkYXZyc283MjhoaWIya0tmNV9ESTBEZkxKWDdvSE9lTW96b2ExSG1MS24tbnVVRWphOXdDd1Vtd2pkd1B4MzhlYXN4QjBPeHBEc3NtcDF2anp5UkgtdXNLeVA0TGc?oc=5": 1791915657.6462927,
-  "https://gorkhapatraonline.com/news/226569": 1791915657.6462927,
-  "https://baahrakhari.com/detail/504869": 1791915657.6462927,
-  "https://nagariknews.nagariknetwork.com/international/china-s-strong-response-to-india-ladakh-is-ours-naming-it-will-not-do-anything-94-67.html": 1791915657.6462927,
-  "https://gorkhapatraonline.com/news/226581": 1791915657.6462927,
-  "https://baahrakhari.com/detail/504868": 1791915657.6462927,
-  "https://nagariknews.nagariknetwork.com/politics/far-western-province-budget-passed-supplementary-budget-to-be-brought-7-member-parliamentary-committee-formed-to-investigate-the-budget-economic-affairs-minister-swayam-demanded-that-the-plan-be-examined-in-parliament-69-65.html": 1791915657.6462927,
-  "https://gorkhapatraonline.com/news/226579": 1791915657.6462927,
   "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMm9IQ0lvU091VVVuVUlNOFdWUzBDa2NKMl95bTk1c0FDcW0yVXF4Y0l1b2VodGRKcEs5dlVFaDc1ZFJESEZvSVZOeC0zTXVhOGZMRGxoUnA3TEhqT2hrQmNzcUVseW90SjZXblZiTll4azN4d2pwZXM4SWhJUl8tUUprdVRfY1VTNUxVMUhaZ1RMQVVGUE5KcEJNQVliM01JZ3JLRHB6U0RQOTZJeUdiSlJqOVpiYUNo?oc=5": 1791916278.976987,
   "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeWNITW5UYUw0N2Ywd1lZdWctbWMybVg2QmRLcmFKRVI0cDhiTXh1WEhzTmFWNmJOekZtT295OUt2Y1J2cU9tVVZDUHBmcW9CS2l5TTFVUnpBTDB6aWhXTjJqMjVCcEhYR3UyblZfLURqTHRUSGNzSFY3YTdLX2F3eFBXb2N0WjJEZGRicXFfZHVXak1ESjFYaExnVkNwMDFM?oc=5": 1791918092.9258537,
   "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWV9VQTdORXVFNDI0b1BydFF1S29vZlRtb0RZXzhQS1BrblBpZmJRZFVlMGxOOWhPUWxGak1EZG1lenN2eUhSb3ZTcG1aenlTek5icUpWcWhyUC00YjJsSk1sNGlLUHl3SHI5RmNkdTRCSjNLRzlLTkJDeGVCa3dlaHltUVN0NWd2YU96M2ZKS1pzaHBJVXFrRmJDNXVVN3NRMkZmTENNTEZhVnp5NWxsbTVyUFRxVWxiamxoN0c5bWhkMWI4TDZ5c0k2dw?oc=5": 1791918092.9258537,
@@ -2182,7 +2174,14 @@
   "https://baahrakhari.com/detail/505081": 1792086054.9727774,
   "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBOMm9SRnJtVXBPYVZpdWtKSEsxWVpHR0dqQVV2d3RaRGJjWi1aRThIMEotallmbXRtMUxYVmhhSkU4Z0pOT0ZWclRLM0VCZ3Zl?oc=5": 1792086054.9727774,
   "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYzA0ck8ycnIzQ3RZSmdEQ0lJSFFHRGdwZjB5S3ozVXhjbTV6dFotRmJYZHF2Z2U4QVl1NHBHZVFsaWxzcjZTYjNLUUtrT0pfYkN1YkljcFUyaGNkc0dWbzZSMGVxa1hQOE1wbm4yZjBfRUlrdkJERFNkMWM3d1RVVEloYWlrbnB5VmdYTHdtelVIQzgtYTU4?oc=5": 1792087290.0399773,
-  "https://baahrakhari.com/detail/505082": 1792087854.33412
+  "https://baahrakhari.com/detail/505082": 1792087854.33412,
+  "https://news.google.com/rss/articles/CBMirwFBVV95cUxQR19aSTNMcUJZeE9XUVo2WWJ3b1Aybkc4SldzMEhTZVJMVGNJeFZlQ3AyTWc1V0lrUy1kejRoWmJBUXJuS3lZLUFBQkJNU0ZaM2IyM2pyZWhkb3UzN1h1SVJWUFFZa1EyaFpVZEdKdHZRa3JaaV83MGRvMWJtSWZRbmdneXlWOF80d2s2dlQwTjAzTkhXVWhQWTU1b0RoU2tGbGU5elJRM2pQRER0bmZj0gG0AUFVX3lxTFBqeTdJcnljSVFrb3lpN3QxdmY2MUJFNFZWbEQwbndSWFNfcmY5QkkzWEM3clpFalo3Q0dKN3dPcnlobmY1ZXZuenFLbGx5MHVUcjJOQ2lDV0dZNGNNal96NFdwdTZHVExncDBvVVM5X0xVYkhnbkVQcUtLWnZWZFpBWVlxUFNwZ25pcVVRY1drNGUwdVpuZ3FmU05NdkxWaG1qdmo1UWh4UDRRbnRkQms0b3JQeg?oc=5": 1792088458.0701811,
+  "https://gorkhapatraonline.com/news/226851": 1792088458.0701811,
+  "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMXJyNEMyZ3lPcjlJcG43bVI4N3FJX0FhZEZtZDVyRnVVQmFEeVRWM0pOMjJJNVRXeHMxQ2RDOHhsb0NYck1NWU5Fd2Z5eEhxWVRZNXIxRUI0Z0FQZ1loMG1HSHZFVEZoVVpvTzJRRFVxTk93blU3OWNUTjZxRWwzN09vQ0t1NFhhTEU0?oc=5": 1792088458.0701811,
+  "https://news.google.com/rss/articles/CBMivwFBVV95cUxNREJNc2R5alRDb01OX2pseXJlMWpZUkt1MXlZbWxvVk5XWld5TzFsWjRHb1RwdDktOWJ3UEVzakY2TEFuQnRNdUpaQjlIZG1fSy12dUU1cDBETGc5V3BMQlBFd2E5TnIzcS1vRENLbHlhb3phenFkY3FOLVpmZk8wOWkxU00yZmJ2WDF0Y1djcjZSUkFTblc3T05wa3ZlRHRUTGdBM2x2Wm9oYkM5Tm95d0RpTjVGM09hdzRFOHljaw?oc=5": 1792088458.0701811,
+  "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQmR4TUNoZVk2NDE4RjNUdmVUNS1VR1BXVE5uNzZuLVFuVkxGTVNtSlNYeUxGZ0FKNmVXSEVUVno4RDdiTkl4b2tyYTBxQnh2SVo4NXBoQjhRS0V4RnAwdDg2Q0ZrWkNmdmFjbk1Sc3hySkhoMGpfdWhFeEJJQktYbVpURjBOVFczTkFQZlBCUXlDY0RVQXAwcElFUzlXallTQ2x3LTB4cWtocWd2WDhHUlUxNjA2TVVfWkFOVTV3Um5JanRhdk9GYTJ3?oc=5": 1792088458.0701811,
+  "https://gorkhapatraonline.com/news/226843": 1792088458.0701811,
+  "https://news.google.com/rss/articles/CBMixgFBVV95cUxPR05iTFVJaG5vWGhWRFZLcTlxVkN1V1VEYWxlUE45M3EzQzVPNklpYVVuRHFkdWhVSF85QmF0bzdkbnhXcGl3R3BwQ3owZEdBSWZWQmNzTnRaZUh5d1psXzF0Qk1QS004dzAzcFdjVWFvbU14Z3dpOGxyOGEwRkpwZ2dnTXg4bk5WME5zY0NyUm5LeGxDUFUyaE9kWmplc3BMZDVZM1hGcHBjY3NnMWdJZktiaFpoY2Y1Y2h6WmQ4SlA2UmJJcWc?oc=5": 1792088458.0701811
  },
  "queue": [
   {
@@ -2228,121 +2227,6 @@
    ],
    "cat": "politics",
    "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Ferry service resumes at Satighat on Arun River after 5 months",
-   "summary": "Bhojpur, October 15 Travel between Bhojpur and Sankhuwasabha districts has become easier with the resumption of ferry services at Satighat on the Arun River. The service had remained suspended for five months due to the...",
-   "link": "https://english.onlinekhabar.com/ferry-service-resumes-at-satighat-on-arun-river-after-5-months.html",
-   "source": "Onlinekhabar EN",
-   "ts": 1792059508,
-   "weight": 3,
-   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/10/satighat-feri-photo-1-1024x630.jpg",
-   "lang": "en",
-   "hl": "Ferry service resumes at Satighat on Arun River after 5 months",
-   "en": "Ferry service resumes at Satighat on Arun River after 5 months",
-   "ne": "Ferry service resumes at Satighat on Arun River after 5 months",
-   "imp": 3,
-   "tags": [
-    "Satighat",
-    "ArunRiver",
-    "FerryService"
-   ],
-   "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Old clips of youth protests in Nepal falsely linked to unrest in northern Pakistan",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRjZwZmgxdmliOTFpNy1WZFVxTlJETVZSRUxXbGppQWQ5SThlQW5ZZzdZWHZIRTVvcXhPSzlxVUlYVERBT3phMzFuZEpvdlIycHY1a0NBRXBadTYyRmpGNm1sV05wakgzcUZNd21DOHE5R2xxMV9BX1JsOGdrVU1XMWRBYw?oc=5",
-   "source": "Yahoo",
-   "ts": 1792059366,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Old clips of youth protests in Nepal falsely linked to unrest in northern Pakistan",
-   "en": "Old clips of youth protests in Nepal falsely linked to unrest in northern Pakistan",
-   "ne": "Old clips of youth protests in Nepal falsely linked to unrest in northern Pakistan",
-   "imp": 2,
-   "tags": [
-    "FakeNews",
-    "Pakistan",
-    "NepalProtests"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "टिकटकमा धम्कीपूर्ण भिडियो बनाउने 'क्रिमिनल' पक्राउ",
-   "summary": "सामाजिक सञ्जाल टिकटकमा आपत्तिजनक तथा धम्कीपूर्ण भिडियो पोस्ट गरी समाजमा हिंसा भड्काउन खोजेको अभियोगमा प्रहरीले धनुषाबाट एक युवकलाई पक्राउ गरेको छ।...",
-   "link": "https://nagariknews.nagariknetwork.com/Aparadh/criminal-arrested-for-making-threatening-videos-on-tiktok-83-29.html",
-   "source": "Nagarik News",
-   "ts": 1792059224,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1756829108_pakrau.png",
-   "lang": "ne",
-   "hl": "टिकटकमा धम्कीपूर्ण भिडियो बनाउने 'क्रिमिनल' पक्राउ",
-   "en": "टिकटकमा धम्कीपूर्ण भिडियो बनाउने 'क्रिमिनल' पक्राउ",
-   "ne": "टिकटकमा धम्कीपूर्ण भिडियो बनाउने 'क्रिमिनल' पक्राउ",
-   "imp": 3,
-   "tags": [
-    "TikTok",
-    "CyberCrime",
-    "Police"
-   ],
-   "cat": "crime",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "मिथक र साहित्यः के मिथक होइन र के चाहिँ हो?",
-   "summary": "त्यतिबेला कल्पना शक्ति थियो, विज्ञान थिएन। चिन्तनलाई अभिव्यक्त गर्न पनि कल्पकथ्य (मिथक) प्रयोग गरिए। चिन्तनलाई पुष्टि गर्न प्रमाण थिएन, कल्पना गरियो। सत्य व्यवस्थाका लागि, सौन्दर्य र साहस देखाउनका लागि, ब्रह्माण्डीय...",
-   "link": "https://www.setopati.com/literature/400928",
-   "source": "Setopati",
-   "ts": 1792059480,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "मिथक र साहित्यः के मिथक होइन र के चाहिँ हो?",
-   "en": "मिथक र साहित्यः के मिथक होइन र के चाहिँ हो?",
-   "ne": "मिथक र साहित्यः के मिथक होइन र के चाहिँ हो?",
-   "imp": 1,
-   "tags": [
-    "Literature",
-    "Mythology",
-    "साहित्य"
-   ],
-   "cat": "culture",
-   "val": 1,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "१३२ केभी चोभार सबस्टेसन दसैँलगत्तै चार्ज गरिने",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/505034",
-   "source": "Baahrakhari",
-   "ts": 1792059280,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "१३२ केभी चोभार सबस्टेसन दसैँलगत्तै चार्ज गरिने",
-   "en": "१३२ केभी चोभार सबस्टेसन दसैँलगत्तै चार्ज गरिने",
-   "ne": "१३२ केभी चोभार सबस्टेसन दसैँलगत्तै चार्ज गरिने",
-   "imp": 3,
-   "tags": [
-    "Chobhar",
-    "Substation",
-    "Electricity"
-   ],
-   "cat": "economy",
-   "val": 3,
    "teaser": false,
    "hits": 1
   },
@@ -5311,27 +5195,27 @@
    "hits": 1
   },
   {
-   "title": "पोखरा विमानस्थलमा आधुनिक हवाई मार्गनिर्देशन प्रणाली लागू गर्ने प्रक्रिया अघि बढ्यो",
-   "summary": "प्रतिकूल मौसम र कम दृश्यताका कारण पोखरा अन्तर्राष्ट्रिय विमानस्थलमा हुने उडान अवरोध, अन्य विमानस्थलमा मोड्नुपर्ने अवस्था तथा उडान रद्द हुने समस्या न्यूनीकरण गर्न आधुनिक हवाई मार्गनिर्देशन प्रणाली लागू गर्ने प्रक्रिया...",
-   "link": "http://lokaantar.com/story/331404/2026/10/15/airport-",
-   "source": "Lokaantar",
+   "title": "CAAN plans new navigation system to curb flight diversions at Pokhara Airport",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQmR4TUNoZVk2NDE4RjNUdmVUNS1VR1BXVE5uNzZuLVFuVkxGTVNtSlNYeUxGZ0FKNmVXSEVUVno4RDdiTkl4b2tyYTBxQnh2SVo4NXBoQjhRS0V4RnAwdDg2Q0ZrWkNmdmFjbk1Sc3hySkhoMGpfdWhFeEJJQktYbVpURjBOVFczTkFQZlBCUXlDY0RVQXAwcElFUzlXallTQ2x3LTB4cWtocWd2WDhHUlUxNjA2TVVfWkFOVTV3Um5JanRhdk9GYTJ3?oc=5",
+   "source": "myRepublica",
    "ts": 1792068078.871493,
-   "weight": 2,
+   "weight": 3,
    "img": null,
-   "lang": "ne",
-   "hl": "पोखरा विमानस्थलमा आधुनिक हवाई मार्गनिर्देशन प्रणाली लागू गर्ने प्रक्रिया अघि बढ्यो",
-   "en": "पोखरा विमानस्थलमा आधुनिक हवाई मार्गनिर्देशन प्रणाली लागू गर्ने प्रक्रिया अघि बढ्यो",
-   "ne": "पोखरा विमानस्थलमा आधुनिक हवाई मार्गनिर्देशन प्रणाली लागू गर्ने प्रक्रिया अघि बढ्यो",
+   "lang": "en",
+   "hl": "CAAN plans new navigation system to curb flight diversions at Pokhara Airport",
+   "en": "CAAN plans new navigation system to curb flight diversions at Pokhara Airport",
+   "ne": "CAAN plans new navigation system to curb flight diversions at Pokhara Airport",
    "imp": 3,
    "tags": [
+    "CAAN",
     "PokharaAirport",
-    "Aviation",
-    "Technology"
+    "Aviation"
    ],
    "cat": "economy",
-   "val": 2,
+   "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "शारदा चित्रकारको 'समय चक्र' सार्वजनिक",
@@ -5718,6 +5602,73 @@
     "Canada"
    ],
    "cat": "sports",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "'भक्तपुरलाई नमुना जिल्ला बनाउँछौँ'",
+   "summary": "भक्तपुर, असोज २९ गते । बागमती प्रदेशका मुख्यमन्त्री किरण थापामगरले शिक्षा, स्वास्थ्य, पर्यटन र योगका आधारमा भक्तपुरलाई नमुना जिल्ला बनाउने बताउनुभएको छ ।सूर्यविनायक नगरपालिकालाई आज...",
+   "link": "https://gorkhapatraonline.com/news/226851",
+   "source": "Gorkhapatra",
+   "ts": 1792087842,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/388357/conversions/IMG_2999-original.jpg",
+   "lang": "ne",
+   "hl": "'भक्तपुरलाई नमुना जिल्ला बनाउँछौँ'",
+   "en": "'भक्तपुरलाई नमुना जिल्ला बनाउँछौँ'",
+   "ne": "'भक्तपुरलाई नमुना जिल्ला बनाउँछौँ'",
+   "imp": 2,
+   "tags": [
+    "Bhaktapur",
+    "भक्तपुर"
+   ],
+   "cat": "politics",
+   "val": 1,
+   "teaser": true,
+   "hits": 1
+  },
+  {
+   "title": "USAID's Destruction Left Nepal Dangerously Exposed",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMXJyNEMyZ3lPcjlJcG43bVI4N3FJX0FhZEZtZDVyRnVVQmFEeVRWM0pOMjJJNVRXeHMxQ2RDOHhsb0NYck1NWU5Fd2Z5eEhxWVRZNXIxRUI0Z0FQZ1loMG1HSHZFVEZoVVpvTzJRRFVxTk93blU3OWNUTjZxRWwzN09vQ0t1NFhhTEU0?oc=5",
+   "source": "Foreign Policy",
+   "ts": 1792086551,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "USAID's Destruction Left Nepal Dangerously Exposed",
+   "en": "USAID's Destruction Left Nepal Dangerously Exposed",
+   "ne": "USAID's Destruction Left Nepal Dangerously Exposed",
+   "imp": 3,
+   "tags": [
+    "USAID",
+    "Nepal"
+   ],
+   "cat": "world",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "एक हजार ४४ जनाको हेलिकप्टरबाट उद्धार",
+   "summary": "गुणबहादुर रोका सुलीकोट ( गोरखा ), असोज २९ गते । गोरखाको उत्तरी क्षेत्रमा आएको भीषण बाढी तथा पहिरोको कारण जोखिममा परेका एक हजार ४४ जनालाई चार दिनमा हेलिकप्टरमार्फत उद्धार गरिएको छ...",
+   "link": "https://gorkhapatraonline.com/news/226843",
+   "source": "Gorkhapatra",
+   "ts": 1792086772,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/388356/conversions/heli-uddar-photho-3-original.jpg",
+   "lang": "ne",
+   "hl": "एक हजार ४४ जनाको हेलिकप्टरबाट उद्धार",
+   "en": "एक हजार ४४ जनाको हेलिकप्टरबाट उद्धार",
+   "ne": "एक हजार ४४ जनाको हेलिकप्टरबाट उद्धार",
+   "imp": 4,
+   "tags": [
+    "Rescue",
+    "Helicopter",
+    "उद्धार"
+   ],
+   "cat": "disaster",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -8937,8 +8888,8 @@
    "cat": "disaster"
   }
  ],
- "updated": 1792087858,
- "pending_since": 1792086054.9727774,
+ "updated": 1792088466,
+ "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
