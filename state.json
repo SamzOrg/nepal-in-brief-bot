@@ -2188,7 +2188,11 @@
   "https://nagariknews.nagariknetwork.com/international/trump-to-explore-for-oil-gas-and-minerals-in-greenland-60-98.html": 1792031472.6304035,
   "https://gorkhapatraonline.com/news/226751": 1792031472.6304035,
   "https://nagariknews.nagariknetwork.com/social-affairs/dashain-of-450-families-held-at-the-holding-center-br-35-22.html": 1792031472.6304035,
-  "https://gorkhapatraonline.com/news/226749": 1792031472.6304035
+  "https://gorkhapatraonline.com/news/226749": 1792031472.6304035,
+  "https://nagariknews.nagariknetwork.com/social-affairs/bolero-jeep-accident-in-jajarkot-two-dead-three-injured-68-44.html": 1792032047.1238995,
+  "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZHh1QnJEOGRncXdnMjRMVG04TFo0VUdPUFNWTUdJTFc1cmFoRmFFY1JDcW53SW00V0hSUFFYTUpNMFVJWTRMWnZ6MmdiVXFfMWR4d01vakVwZDlFeFYtQ0dMX2xzOEdIRjM5RFJtUVZrVkFSZHlwQndQREoxYjlBTWU1LU1XTExib1FCQ3A0am9MTFJJMzQwc00zZmE2cDB1NGxPZllVaFI?oc=5": 1792032047.1238995,
+  "http://lokaantar.com/story/331347/2026/10/15/round-up-": 1792032047.1238995,
+  "https://kathmandupost.com/national/2026/10/15/flood-displaced-rasuwa-students-resume-classes-in-lalitpur-1792031620": 1792032047.1238995
  },
  "queue": [
   {
@@ -3101,7 +3105,7 @@
    "cat": "world",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Sri Lanka Under-23s tour of Nepal",
@@ -4262,6 +4266,30 @@
    ],
    "cat": "health",
    "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Flood-displaced Rasuwa students resume classes in Lalitpur",
+   "summary": "Hakubesi Basic School from Amachhodingmo Rural Municipality is now operating from the premises of Kitini Secondary School in Godawari.",
+   "link": "https://kathmandupost.com/national/2026/10/15/flood-displaced-rasuwa-students-resume-classes-in-lalitpur-1792031620",
+   "source": "Kathmandu Post",
+   "ts": 1792017648.4404805,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "Flood-displaced Rasuwa students resume classes in Lalitpur",
+   "en": "Flood-displaced Rasuwa students resume classes in Lalitpur",
+   "ne": "Flood-displaced Rasuwa students resume classes in Lalitpur",
+   "imp": 3,
+   "tags": [
+    "Rasuwa",
+    "Lalitpur",
+    "Flood",
+    "Education"
+   ],
+   "cat": "society",
+   "val": 2,
    "teaser": false,
    "hits": 1
   }
@@ -7480,8 +7508,8 @@
    "cat": "disaster"
   }
  ],
- "updated": 1792031480,
- "pending_since": null,
+ "updated": 1792032051,
+ "pending_since": 1792032047.1238995,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
