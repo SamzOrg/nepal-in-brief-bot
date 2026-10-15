@@ -2185,32 +2185,13 @@
   "https://gorkhapatraonline.com/news/226741": 1792028452.3912354,
   "https://risingnepaldaily.com/news/87816": 1792028452.3912354,
   "https://kathmandupost.com/columns/2026/10/14/how-monitoring-and-evaluation-framework-masks-failure": 1792028452.3912354,
-  "http://lokaantar.com/story/331337/2026/10/15/maldives-": 1792028452.3912354
+  "http://lokaantar.com/story/331337/2026/10/15/maldives-": 1792028452.3912354,
+  "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQUhzY1VBUDM0Mlc0dU84NHhTeldrR3JVN0JhQ0YwZ1ViTF9JYnJ1ZlE1aDRBV1JxZGdsTG1yNXpFZFA4NEpLQUNETzAydlk1MnpUckYzRGdfUHJUOXZjTWtFNl9RbGhTWjY1QllHQ1RxOUt2YjYxZWxTZ193NXZjWWVaOFRaZmRqU3o1emVjb0dvdDQ4Y3cxOWxneFVJY3pFb1RNTEdMYw?oc=5": 1792028882.0138414,
+  "http://lokaantar.com/story/331341/2026/10/15/congress-": 1792028882.0138414,
+  "https://gorkhapatraonline.com/news/226745": 1792028882.0138414,
+  "http://english.ratopati.com/story/83772/mp-bhujel-demands-immediate-convening-of-bagmati-provincial-assembly-meeting": 1792028882.0138414
  },
  "queue": [
-  {
-   "title": "West Indies Defeats India by 24 Runs in Fourth T20, Series Levelled at 2-2",
-   "summary": "Kathmandu. With the explosive record-breaking century of opener Sai Hope and the lethal bowling of Keemo Paul, West Indies defeated...",
-   "link": "http://english.ratopati.com/story/83758/hopes-explosive-century-and-keemo-pauls-5-wicket-haul-india-stunned-by-west-indies-in-the-fourth-t20i",
-   "source": "Ratopati EN",
-   "ts": 1791999953,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/west-indies_o5T5JyfJip.webp",
-   "lang": "en",
-   "hl": "West Indies Defeats India by 24 Runs in Fourth T20, Series Levelled at 2-2",
-   "en": "West Indies Defeats India by 24 Runs in Fourth T20, Series Levelled at 2-2",
-   "ne": "West Indies Defeats India by 24 Runs in Fourth T20, Series Levelled at 2-2",
-   "imp": 3,
-   "tags": [
-    "WestIndies",
-    "India",
-    "T20Cricket"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
   {
    "title": "निजी क्षेत्रको मनोबल उकास्न महासंघका तीन सुझाव",
    "summary": "",
@@ -3466,7 +3447,7 @@
    "cat": "world",
    "val": 1,
    "teaser": true,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "चाडपर्वमा अपराध र दुर्घटना रोक्न प्रहरीको कडाइ",
@@ -3579,6 +3560,52 @@
    ],
    "cat": "economy",
    "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "जाजरकोटमा बोलेरो जिप दुर्घटना, दुई जनाको घटनास्थलमै मृत्यु",
+   "summary": "कुलबहादुर शाहीजाजरकोट, असोज २९ गते । जाजरकोटको जुनिचाँदे गाउँपालिकामा बोलेरो जिप दुर्घटना हुँदा दुई जनाको मृत्यु भएको छ भने तीन जना घाइते भएका छन् । बिहीबार बिहान करिब २ बजे जुनिचा...",
+   "link": "https://gorkhapatraonline.com/news/226745",
+   "source": "Gorkhapatra",
+   "ts": 1792028602,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/388207/conversions/accident-original.jpg",
+   "lang": "ne",
+   "hl": "जाजरकोटमा बोलेरो जिप दुर्घटना, दुई जनाको घटनास्थलमै मृत्यु",
+   "en": "जाजरकोटमा बोलेरो जिप दुर्घटना, दुई जनाको घटनास्थलमै मृत्यु",
+   "ne": "जाजरकोटमा बोलेरो जिप दुर्घटना, दुई जनाको घटनास्थलमै मृत्यु",
+   "imp": 4,
+   "tags": [
+    "Jajarkot",
+    "JeepAccident",
+    "दुर्घटना"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Bagmati Province Lawmaker Demands Immediate Assembly Session for Flood Relief",
+   "summary": "Makwanpur. Bagmati Province Assembly member Sushpa Bhujel has demanded that the Bagmati Province Assembly meeting be called immediately. Lawmaker Bhujel...",
+   "link": "http://english.ratopati.com/story/83772/mp-bhujel-demands-immediate-convening-of-bagmati-provincial-assembly-meeting",
+   "source": "Ratopati EN",
+   "ts": 1792028592,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/shushpa-bhujel_HUMTNRe1O5.webp",
+   "lang": "en",
+   "hl": "Bagmati Province Lawmaker Demands Immediate Assembly Session for Flood Relief",
+   "en": "Bagmati Province Lawmaker Demands Immediate Assembly Session for Flood Relief",
+   "ne": "Bagmati Province Lawmaker Demands Immediate Assembly Session for Flood Relief",
+   "imp": 3,
+   "tags": [
+    "BagmatiProvince",
+    "FloodRelief",
+    "AssemblySession"
+   ],
+   "cat": "politics",
+   "val": 2,
    "teaser": false,
    "hits": 1
   }
@@ -6786,8 +6813,8 @@
    "cat": "economy"
   }
  ],
- "updated": 1792028458,
- "pending_since": null,
+ "updated": 1792028887,
+ "pending_since": 1792028882.0138414,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
