@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSDVUWm9UQjA0UXpOUGJOSUEyWnppU3dTVnJBUno1djRqeG1nNnB0UTNDcjBaWHZpVmlnSjJGN0d1OV9GanZWWG1PRnBGZnhONl9qc3Z1Y21fOHZQd0k5bFBlNEVra0M0ejFDcHYycHBwZHdWNVhyN24xU1piVmtiYmJmdUxaMlM4clpZaE03ZVZKNUlDXzVsMzM4SGtwc003U3RZQ0dDOW1IOUQ5YnJGZVpwT1BoNl83SUFlemMyWDYzdw?oc=5": 1791901875.7294624,
-  "http://english.ratopati.com/story/83598/three-sentenced-to-death-in-china-for-running-fraud-center-in-myanmar": 1791901875.7294624,
   "https://nagariknews.nagariknetwork.com/politics/15-people-including-basana-thapa-elected-as-nc-women-s-open-central-members-with-names-46-98.html": 1791902452.3432992,
   "https://www.setopati.com/politics/400773": 1791902452.3432992,
   "https://gorkhapatraonline.com/news/226572": 1791902452.3432992,
@@ -2197,33 +2195,11 @@
   "http://english.ratopati.com/story/83883/milley-hopes-trump-will-emerge-stronger-from-midterm-elections": 1792074061.678494,
   "https://nagariknews.nagariknetwork.com/sports/world-cup-league-2-nepal-under-pressure-after-canada-defeats-oman-must-win-one-of-the-remaining-two-games-27-86.html": 1792074061.678494,
   "https://baahrakhari.com/detail/505065": 1792074061.678494,
-  "http://english.ratopati.com/story/83882/zelensky-stresses-cooperation-for-mutual-benefit-after-le-pens-comments": 1792074061.678494
+  "http://english.ratopati.com/story/83882/zelensky-stresses-cooperation-for-mutual-benefit-after-le-pens-comments": 1792074061.678494,
+  "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUU1OOWQyUF9ra21pcFNtT2cxOHBxc3ZRT0hCeFRwb3M2TG9OVFoya2lEZm95SlRBVjZRMUNabmlvaURTMlBOQUhWY2dWdzVIYUQzcExNb0xaTTFuczhWQ1RVU05kcHNUUDFfTXU5RjhCcURha1d2Mlk1MXRiUWo4TkpDaTBiX3dCeGgxVEVGd2NLbFlKdTB1aFFvN1BmbVl2VlBOX3ZoWE5BSXNCTVExV1RGREpOMVJxV2c?oc=5": 1792074681.85864,
+  "https://news.google.com/rss/articles/CBMizAFBVV95cUxQeGR5N0dBamFVTlM3ZXAwOG9NbjRod3NXU3NvbnVMSmtHZWRtWDdMTEtnQjhwSlhIN2pRVUlxdWFsVW9iNFhxSko2SE95WnN4Y014TXpXemNoZGxOOUN0d2F4QlJZQWdqUUgzQjVSZTE3R0gxeXozaF80eWRlYUY3SlNwV1RJM01HWWpNNGtya2pWbHYxbDRpOTRERWxlR0RvTFpoZExBY2xDb1NYYXppbld2bnhyelh4YU1HUHd2U2x6V1JlOUhRX2FNS2w?oc=5": 1792074681.85864
  },
  "queue": [
-  {
-   "title": "बाढीपछिको पुनर्निर्माणमा नेपाललाई सघाउन एसियाली विकास बैंकलाई अर्थमन्त्रीको आग्रह",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/505011",
-   "source": "Baahrakhari",
-   "ts": 1792045490,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "बाढीपछिको पुनर्निर्माणमा नेपाललाई सघाउन एसियाली विकास बैंकलाई अर्थमन्त्रीको आग्रह",
-   "en": "बाढीपछिको पुनर्निर्माणमा नेपाललाई सघाउन एसियाली विकास बैंकलाई अर्थमन्त्रीको आग्रह",
-   "ne": "बाढीपछिको पुनर्निर्माणमा नेपाललाई सघाउन एसियाली विकास बैंकलाई अर्थमन्त्रीको आग्रह",
-   "imp": 3,
-   "tags": [
-    "ADB",
-    "FinanceMinister",
-    "Reconstruction",
-    "बाढी"
-   ],
-   "cat": "economy",
-   "val": 2,
-   "teaser": false,
-   "hits": 2
-  },
   {
    "title": "Kathmandu District Court to Remain Open During Dashain Holidays for Essential Services",
    "summary": "Kathmandu. Although there is a public holiday on the occasion of Vijaya Dashami, the Kathmandu District Court will remain open...",
@@ -2338,7 +2314,7 @@
    "cat": "crime",
    "val": 3,
    "teaser": false,
-   "hits": 3
+   "hits": 4
   },
   {
    "title": "दसैंपछि सात ठाउँमा मञ्चन हुने मण्डला थिएटरको 'फर्किने बाटो'",
@@ -2385,30 +2361,6 @@
    "cat": "culture",
    "val": 3,
    "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "दसैं नजिकिएसँगै बजारमा बढ्यो चहलपहल",
-   "summary": "रजनी योगीसुर्खेत, असोज २९ गते । बडादसैँ भित्रिएसँगै प्रदेशको राजधानी समेत रहेको वीरेन्द्रनगरको मुख्य बजारमा किनमेल गर्ने ग्राहकको चाप बढेको छ । मुख्यबजार वीरेन्द्रचोकमा दसैँका लागि...",
-   "link": "https://gorkhapatraonline.com/news/226791",
-   "source": "Gorkhapatra",
-   "ts": 1792045655,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/388260/conversions/surkhet-1-original.jpg",
-   "lang": "ne",
-   "hl": "दसैं नजिकिएसँगै बजारमा बढ्यो चहलपहल",
-   "en": "दसैं नजिकिएसँगै बजारमा बढ्यो चहलपहल",
-   "ne": "दसैं नजिकिएसँगै बजारमा बढ्यो चहलपहल",
-   "imp": 2,
-   "tags": [
-    "Dashain",
-    "Market",
-    "Festivals",
-    "दसैँ"
-   ],
-   "cat": "society",
-   "val": 1,
-   "teaser": true,
    "hits": 1
   },
   {
@@ -2547,30 +2499,6 @@
     "Appointment"
    ],
    "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "धरानमा हिउँदमा खानेपानी अपुग",
-   "summary": "राणाशासनको समयमै उपत्यकापछि सहरी उपभोक्तालाई लक्षित गरेर व्यवस्थित खानेपानी वितरण र व्यवस्थापन गरिएको सहर धरान भए पनि हिउँदमा पानी अभाव हुने गरेको छ।...",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/drinking-water-shortage-in-dharan-during-winter-br-44-88.html",
-   "source": "Nagarik News",
-   "ts": 1792045627,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2024/third-party/1660883878_khanepani%20dhara.jpg",
-   "lang": "ne",
-   "hl": "धरानमा हिउँदमा खानेपानी अपुग",
-   "en": "धरानमा हिउँदमा खानेपानी अपुग",
-   "ne": "धरानमा हिउँदमा खानेपानी अपुग",
-   "imp": 3,
-   "tags": [
-    "Dharan",
-    "DrinkingWater",
-    "WaterCrisis",
-    "धरान"
-   ],
-   "cat": "society",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -2824,29 +2752,6 @@
    ],
    "cat": "culture",
    "val": 1,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Road Department Cleans and Marks Lanes for Dashain",
-   "summary": "Kathmandu. Targeting Dashain, the Department of Roads has advanced the work of cleaning and lane marking on the roads of...",
-   "link": "http://english.ratopati.com/story/83815/kalanki-underpass-being-cleaned-and-painted-photos",
-   "source": "Ratopati EN",
-   "ts": 1792045358,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/01-kalanki--underpass--2130_wQrzLKKAy0.webp",
-   "lang": "en",
-   "hl": "Road Department Cleans and Marks Lanes for Dashain",
-   "en": "Road Department Cleans and Marks Lanes for Dashain",
-   "ne": "Road Department Cleans and Marks Lanes for Dashain",
-   "imp": 2,
-   "tags": [
-    "RoadDepartment",
-    "Dashain",
-    "Kathmandu"
-   ],
-   "cat": "society",
-   "val": 3,
    "teaser": false,
    "hits": 1
   },
@@ -3374,7 +3279,7 @@
    "cat": "sports",
    "val": 3,
    "teaser": false,
-   "hits": 3
+   "hits": 4
   },
   {
    "title": "पुनरुत्थान र पुनर्निर्माणमा सहयोग गर्न एडिबीलाई अर्थमन्त्रीको आग्रह",
@@ -3675,29 +3580,6 @@
    "hits": 1
   },
   {
-   "title": "Nepal Airlines bans power banks on India flights",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOM1l2WU4teThpQkw1Mm5IOGxMQjM5aWpvWUVTMEllR0dIMWZxTmpIZVh5N1IwY19EUDdrc1kyNzF3OFBITDRXZ0xOLS1JTVZzMl9ZYmQxZ0pQSG04NENiODloV0VoZnJBRHlLQlZ1bE96ajFHbmxEc0wwN1FYODBpU3dqYnFfS0JoUU9ZWVlLSWdOSU96?oc=5",
-   "source": "TravelBiz Monitor",
-   "ts": 1792045862,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Nepal Airlines bans power banks on India flights",
-   "en": "Nepal Airlines bans power banks on India flights",
-   "ne": "Nepal Airlines bans power banks on India flights",
-   "imp": 2,
-   "tags": [
-    "NepalAirlines",
-    "PowerBank",
-    "Aviation"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Public Procurement Monitoring Office Blacklists Construction Companies and Suppliers",
    "summary": "Kathmandu. The Public Procurement Monitoring Office, Keshar Mahal, Kathmandu has blacklisted various construction entrepreneurs and suppliers. As per the recommendation...",
    "link": "http://english.ratopati.com/story/83843/6-construction-and-supplier-companies-blacklisted",
@@ -3742,29 +3624,6 @@
    "val": 2,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "NRB directs banks to designate 24-hour contacts to curb cyber fraud",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUlN2dFp4WXE3bkgycTJMVGJ5TDRUeE1VWmtDTVNrUWxJRlV2R09pdjZtTHJHZUh4QktmbURkMHNWQXJpbGJXSENkWE5DYWxBNUJIaDAyNlFHSlF4enlvTzlJcXl2di1QX1FaeEhWYjdVa1BQc3JFWFFad3VYX0hKQ0xNNGFqNjd5N3RsM1laYlpTMDlNWjFRcXAySW9udFJfdmdMZm05TjZ1QUk1cGctemYwdENlZjVvdkxCc0prWGxtQXBp?oc=5",
-   "source": "myRepublica",
-   "ts": 1792045427,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "NRB directs banks to designate 24-hour contacts to curb cyber fraud",
-   "en": "NRB directs banks to designate 24-hour contacts to curb cyber fraud",
-   "ne": "NRB directs banks to designate 24-hour contacts to curb cyber fraud",
-   "imp": 3,
-   "tags": [
-    "NepalRastraBank",
-    "CyberFraud",
-    "Banking"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "Festival Season Risks: Overconsumption of Meat, Salt, and Soda Can Worsen Kidney Stones, Experts Warn",
@@ -5168,52 +5027,6 @@
    "hits": 5
   },
   {
-   "title": "UAE tightens visa rules, halves police clearance fees",
-   "summary": "By Ajawee PaudyalNepali nationals travelling to the United Arab Emirates (UAE) on visit visas will no longer be allowed to convert them into work permits under a proposed rule.The UAE has also halved the fee for...",
-   "link": "https://theannapurnaexpress.com/story/67956",
-   "source": "Annapurna Express",
-   "ts": 1792045877.5222595,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "UAE tightens visa rules, halves police clearance fees",
-   "en": "UAE tightens visa rules, halves police clearance fees",
-   "ne": "UAE tightens visa rules, halves police clearance fees",
-   "imp": 1,
-   "tags": [
-    "UAE",
-    "VisaRules",
-    "Travel"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "प्रहरी 'स्मार्ट' बन्यो, सात दशक पुरानो ऐन भने समयसापेक्ष हुन सकेन !",
-   "summary": "नेपाल प्रहरीले शुक्रबार आफ्नो संगठनको ७१ औँ दिवस मनाउँदै छ । २००७ सालदेखि प्रहरी महानिरीक्षकले कमान्ड गर्दै आएको यो संगठनमा हालसम्म वर्तमानसमेत गरी ३३ जना नेतृत्वमा पुगेका छन् ।भर्खरै प्रहरी निरीक्षकहरूको दीक्षान्त...",
-   "link": "http://lokaantar.com/story/331379/2026/10/15/nepal-police",
-   "source": "Lokaantar",
-   "ts": 1792045876.8140948,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "प्रहरी 'स्मार्ट' बन्यो, सात दशक पुरानो ऐन भने समयसापेक्ष हुन सकेन !",
-   "en": "प्रहरी 'स्मार्ट' बन्यो, सात दशक पुरानो ऐन भने समयसापेक्ष हुन सकेन !",
-   "ne": "प्रहरी 'स्मार्ट' बन्यो, सात दशक पुरानो ऐन भने समयसापेक्ष हुन सकेन !",
-   "imp": 3,
-   "tags": [
-    "NepalPolice",
-    "PoliceAct",
-    "Reform"
-   ],
-   "cat": "society",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Icheon International Media Summit commences",
    "summary": "By Rajesh Chamling Rai, Icheon, Oct 15: Icheon International Media Summit 2026 has kicked off in Icheon City in South Ko...",
    "link": "https://risingnepaldaily.com/news/87835",
@@ -5347,52 +5160,6 @@
     "Narcotics"
    ],
    "cat": "crime",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "यात्रुको समस्या समाधान गर्न ३५ वर्ष लाग्दैनथ्यो- रक्षा बम",
-   "summary": "जेनजी अगुवा रक्षा बमले चाडबाडका बेला यात्रुहरूले भोग्नुपरेका समस्यालाई लिएर सरकारमाथि प्रश्न गरेकी छन् ।उनले दशैँ मनाउन घर हिँडेका नागरिकले बसमा क्षमताभन्दा बढी यात्रु कोचिएको गुनासो गरिरहेका र राजमार्गका होटलमा चर्को...",
-   "link": "http://lokaantar.com/story/331378/2026/10/15/rakshya-bam-",
-   "source": "Lokaantar",
-   "ts": 1792045876.8140948,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "यात्रुको समस्या समाधान गर्न ३५ वर्ष लाग्दैनथ्यो- रक्षा बम",
-   "en": "यात्रुको समस्या समाधान गर्न ३५ वर्ष लाग्दैनथ्यो- रक्षा बम",
-   "ne": "यात्रुको समस्या समाधान गर्न ३५ वर्ष लाग्दैनथ्यो- रक्षा बम",
-   "imp": 2,
-   "tags": [
-    "RakshaBam",
-    "Parliament",
-    "PublicIssues"
-   ],
-   "cat": "politics",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "रमेश प्रभात, किसान प्रेमी र सुजन कँडेलका कृति लोकार्पण",
-   "summary": "अक्षर समूह चितवनले बडादशैँ-२०८३ को अवसरमा शुभकामना आदानप्रदान तथा कृति लोकार्पण कार्यक्रम गरेको छ ।बिहीबार भरतपुरमा आयोजित कार्यक्रममा अक्षर समूह चितवनका पूर्वअध्यक्ष रमेश प्रभातको गजलसङ्ग्रह 'आँगनीमा फूल रोपेँ', गजल...",
-   "link": "http://lokaantar.com/story/331377/2026/10/15/book-lunch-chitwan-",
-   "source": "Lokaantar",
-   "ts": 1792045876.8140948,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "रमेश प्रभात, किसान प्रेमी र सुजन कँडेलका कृति लोकार्पण",
-   "en": "रमेश प्रभात, किसान प्रेमी र सुजन कँडेलका कृति लोकार्पण",
-   "ne": "रमेश प्रभात, किसान प्रेमी र सुजन कँडेलका कृति लोकार्पण",
-   "imp": 2,
-   "tags": [
-    "BookLaunch",
-    "NepaliLiterature",
-    "साहित्य"
-   ],
-   "cat": "culture",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -11344,8 +11111,8 @@
    "cat": "society"
   }
  ],
- "updated": 1792074085,
- "pending_since": null,
+ "updated": 1792074685,
+ "pending_since": 1792074681.85864,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
