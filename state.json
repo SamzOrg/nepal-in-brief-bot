@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE05T1BoWTN0c0JjNG9fa0JYeXFHRTh6dUxKQWQ2STZ1TGt4eHI2bG9BaXZZN0hBNnR2bE1jdjVLVkNXMGJwQk1VN3c4QlpuWS1NdW5LOTlLSGNzODJGVTNfbGxrWlo1cnfSAVxBVV95cUxNNkNnWGJjbmxCMkpudHZFWkNIamhBRURGQXo2Ri1wV3ctcWNLamtGdmUtR192Y2l0SlFGcVdycTZnck1ZSF9xMTZQdmpxanJlUlVyVm5jY3ZvM1Flaw?oc=5": 1791935450.5941179,
   "https://risingnepaldaily.com/news/87767": 1791936092.3546836,
   "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNbU5FMk96ZjJwZk9GeVJ1NHhaaGg0cFJSTkhySTJhdkotVmZJeUJzUUJjQ1REdExwRWlCbzFGVUViZlc5bC14SW5ueG56dmdNVTBhLVY0aUVLLUtYdEJvMXdXelNLWHFsOG9KTGNrNEdkeWZVSzNKT0stQWRTQ1A0aDhrcVFTYVh5UVFvSEhrNWs4eUttUFlCeU14bHhtVFdKMDZIczhzbV85OWhMODVoSHFyVnVqMk5WWkNERUg1SEtHSEt4M3haYXV3anNYREg5TWJ1d2k4X3VZNDktZlZIT0FUdXgtSnV0eGZBTmw5SQ?oc=5": 1791936092.3546836,
   "https://news.google.com/rss/articles/CBMiV0FVX3lxTE96RWNJNzZGUEludUgzNUUweGlCdENSQThpNzNGVm5PaFh4ZmJzc2ZZZ3k1RkVmV0dWNjZxN2ZsSUpwUnlSeUZaekh0MnBLRGhOSXNXbUVzRQ?oc=5": 1791936092.3546836,
@@ -2551,30 +2550,6 @@
    "val": 2,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "Shiva Sharma murder case: CCTV footage hints Shraddha Dubey may be in Nepal",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNeFhGWm9aMGFsWG5hWVRGdTJIYXIzYlRra0QxcHhZMDVkV1Y2eGhHWWdxTWVpanF4ZWVtbEd4cUNRZEdJTWgxaDBNVWhvXzlpUTZlWTBVekdBVFF0eHZ4T3JzM25abW8tWndsaVU5QTZ0Rm9BeE5iQkJvLXhwZHROMXZNdjh5bUZiczFHazJGQkJFTGsxOWdJTDlNWUg2RGZMaWZfX3FqR2JyYnJ3djFYbF8wRTE1WjJMX2xON2ZUTmxKRXowaTl1UDBWQ09vdW9wRHUycGU5Z07SAd4BQVVfeXFMTzFKQXVQaDNOQTJibjAtLUVPdzVlRFlqNUxRek5LU3VmYnVBVWVkM3RPWGFLWkZVQnQ2ZnotRGFQTFR4eWFqUU4zbTRnM3BqTjhRcktHazZmemp4MTE3UUgzM2xSMU9LcXhybDEtaDJSNlFpaFhfdWZjRXpCSzd3bUlMRFJUU3RDRlh4MmtqNzM4WHVQdW5RSzE5U0RNYURxekZJQk1TdHpTMmtHbUFlSEZ0M0Qwd3pPOE8zc1VpdU9FZUxkUVhud2YyWUstZ2h1RHpkdlB5RWN1N2NLYWhB?oc=5",
-   "source": "India Today",
-   "ts": 1792092360,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Shiva Sharma murder case: CCTV footage hints Shraddha Dubey may be in Nepal",
-   "en": "Shiva Sharma murder case: CCTV footage hints Shraddha Dubey may be in Nepal",
-   "ne": "Shiva Sharma murder case: CCTV footage hints Shraddha Dubey may be in Nepal",
-   "imp": 3,
-   "tags": [
-    "ShivaSharma",
-    "ShraddhaDubey",
-    "MurderCase",
-    "अपराध"
-   ],
-   "cat": "crime",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "Nepal Rastra Bank Sets Today's Exchange Rates",
@@ -5881,9 +5856,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "sports"
+  },
+  {
+   "ts": 1792108258.6080575,
+   "en": "CCTV footage hints Shraddha Dubey may be in Nepal in Shiva Sharma murder case",
+   "ne": "CCTV footage hints Shraddha Dubey may be in Nepal in Shiva Sharma murder case",
+   "link": "https://www.indiatoday.in/india/story/shiva-sharma-murder-case-cctv-footage-suggests-shraddha-dubey-may-be-hiding-in-nepal-3018454-2026-10-16",
+   "source": "India Today",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "crime"
   }
  ],
- "updated": 1792108173,
+ "updated": 1792108272,
  "pending_since": 1792107075.7529962,
  "fb_blocks": [
   1790350880.4125228,
