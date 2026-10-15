@@ -2212,78 +2212,10 @@
   "https://risingnepaldaily.com/news/87841": 1792069293.2002902,
   "http://lokaantar.com/story/331385/2026/10/15/shubhalaxmi-fund-": 1792069293.2002902,
   "https://www.setopati.com/politics/400935": 1792069293.2002902,
-  "http://english.ratopati.com/story/83878/nepse-index-increases-by-modest-percentage-points": 1792069293.2002902
+  "http://english.ratopati.com/story/83878/nepse-index-increases-by-modest-percentage-points": 1792069293.2002902,
+  "https://news.google.com/rss/articles/CBMingFBVV95cUxOVVlfa3ZtTTFqeUduNnFhOC1DcjlmckhSeVlIejAwX0JfWkFFX2xBWHBUTGlFdXpWZm1ZdHdfcFlLOUgtWHM1RWsyOVdmMThrYUZ2VEdXekt1MlJFNlI5eW5uc09NekxLMmsyMF9ndjBETi1Mbk5xRTVYdWJNbWNzVDRZZE9tN3I3c25SYTE0Yy1VaDJqYmVROXEySWVwQQ?oc=5": 1792069854.1900063
  },
  "queue": [
-  {
-   "title": "Mexico Pacific Coast Storm 'Rachel' Causes At Least 8 Deaths",
-   "summary": "Mexico. At least 8 people have died due to the storm 'Rachel' that hit the Pacific coastal region of Mexico....",
-   "link": "http://english.ratopati.com/story/83797/at-least-8-dead-in-mexico-as-hurricane-rachel-batters-country",
-   "source": "Ratopati EN",
-   "ts": 1792040944,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/cyclonicstormmocha_11may2023_viirs_snpp_wiotw_TfaFstrPau.jpg",
-   "lang": "en",
-   "hl": "Mexico Pacific Coast Storm 'Rachel' Causes At Least 8 Deaths",
-   "en": "Mexico Pacific Coast Storm 'Rachel' Causes At Least 8 Deaths",
-   "ne": "Mexico Pacific Coast Storm 'Rachel' Causes At Least 8 Deaths",
-   "imp": 1,
-   "tags": [
-    "Mexico",
-    "StormRachel",
-    "Hurricane"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "फराकिलो मतान्तरसहित कांग्रेस केन्द्रीय सदस्य जितेका तीर्थ लामा",
-   "summary": "'अब पार्टीको नीति निर्माण, संगठन सुदृढीकरण र समावेशी प्रतिनिधित्वका सवालमा केन्द्रीय तहमा भूमिका निर्वाह गर्छु,' उनले भने।",
-   "link": "https://www.setopati.com/politics/400882",
-   "source": "Setopati",
-   "ts": 1792040525,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "फराकिलो मतान्तरसहित कांग्रेस केन्द्रीय सदस्य जितेका तीर्थ लामा",
-   "en": "फराकिलो मतान्तरसहित कांग्रेस केन्द्रीय सदस्य जितेका तीर्थ लामा",
-   "ne": "फराकिलो मतान्तरसहित कांग्रेस केन्द्रीय सदस्य जितेका तीर्थ लामा",
-   "imp": 3,
-   "tags": [
-    "NepaliCongress",
-    "TirthLama",
-    "कांग्रेस"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "मुस्ताङ भन्सारको कारोबार १९ अर्ब ४० करोड नाघ्यो",
-   "summary": "मुक्तिनाथ (मुस्ताङ), असोज २९ गते । उपल्लो मुस्ताङको लोमान्थाङ गाउँपालिका-४, नेचुङमा अवस्थित मुस्ताङ भन्सार कार्यालयबाट चालु आर्थिक वर्ष २०८२/८३ को असोज २७ गतेसम्म १९ अर्ब ४० करोड र...",
-   "link": "https://gorkhapatraonline.com/news/226781",
-   "source": "Gorkhapatra",
-   "ts": 1792040513,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/388249/conversions/Mustang-(1)-original.jpg",
-   "lang": "ne",
-   "hl": "मुस्ताङ भन्सारको कारोबार १९ अर्ब ४० करोड नाघ्यो",
-   "en": "मुस्ताङ भन्सारको कारोबार १९ अर्ब ४० करोड नाघ्यो",
-   "ne": "मुस्ताङ भन्सारको कारोबार १९ अर्ब ४० करोड नाघ्यो",
-   "imp": 2,
-   "tags": [
-    "Mustang",
-    "CustomsOffice",
-    "मुस्ताङ"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
   {
    "title": "भूकम्पपीडितको दसैँ टिनको छानामुनि",
    "summary": "खलङ्गा समाचारदाताजाजरकोट, असोज २९ गते । भूकम्प गएको तीन वर्ष बित्दासम्म पुनर्र्निर्माणको सुरुवात नभएपछि यस वर्ष पनि भूकम्पपीडितको दसैँ टिनको छानामुनि हुने भएको छ । स्थानीय सरकारको...",
@@ -2445,29 +2377,6 @@
    "hits": 1
   },
   {
-   "title": "Colombians, fearing for rights, march against right-wing president",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQR2NwcTFzbXhCNU1UVzZHd2VSOEtkMlhZQ20xbVNVUnFBenZzY3gtaFU1c1EtYy05MEVJVEhPV3NfbnVkX25tbThXZ0o5X0piV2twWVJ4NmVQZnBPRGg1dlh4VzRsSzBBSGFhT2xWa3JXdThSVHNid0ozS0x6LWlLUFpPSjY4UU40WldfSk1YVEczTGJFNlBJaXZlcnZkenlrR3Z0NWJqNGNjNTJ5MF9NTk8xYkNibWROb1pB?oc=5",
-   "source": "myRepublica",
-   "ts": 1792040714,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Colombians, fearing for rights, march against right-wing president",
-   "en": "Colombians, fearing for rights, march against right-wing president",
-   "ne": "Colombians, fearing for rights, march against right-wing president",
-   "imp": 1,
-   "tags": [
-    "Colombia",
-    "Protest",
-    "Politics"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "West Indies Defeats India by 24 Runs to Level Series 2-2",
    "summary": "Hyderabad. On Wednesday, West Indies defeated India by 24 runs in Hyderabad, bringing the five-match series to a 2-2 tie.The...",
    "link": "http://english.ratopati.com/story/83800/shreyas-iyer-said-after-the-loss-to-west-indies-the-bowlers-performance-was-not-satisfactory",
@@ -2514,29 +2423,6 @@
    "hits": 1
   },
   {
-   "title": "इन्फान्टिनोको नेतृत्वमाथि प्रश्न, फिफा परिषद् बैठक आज",
-   "summary": "विश्व फुटबलको सर्वोच्च निकाय फिफाका अध्यक्ष जियानी इन्फान्टिनोको नेतृत्व र संस्थाको सुशासनलाई लिएर विवाद चर्किएका बेला फिफा परिषद्को बैठक आज स्विट्जरल्यान्डको ज्युरिखमा बस्दैछ।...",
-   "link": "https://nagariknews.nagariknetwork.com/sports/questions-over-infantino-s-leadership-fifa-council-meeting-today-26-84.html",
-   "source": "Nagarik News",
-   "ts": 1792040975,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1792040958_New%20Project%20(3).jpg",
-   "lang": "ne",
-   "hl": "इन्फान्टिनोको नेतृत्वमाथि प्रश्न, फिफा परिषद् बैठक आज",
-   "en": "इन्फान्टिनोको नेतृत्वमाथि प्रश्न, फिफा परिषद् बैठक आज",
-   "ne": "इन्फान्टिनोको नेतृत्वमाथि प्रश्न, फिफा परिषद् बैठक आज",
-   "imp": 1,
-   "tags": [
-    "GianniInfantino",
-    "FIFA",
-    "Football"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 3
-  },
-  {
    "title": "Pakistan Political Crisis Deepens as Army Enters Cities Amidst Protests",
    "summary": "Islamabad. Schools have been closed. The internet is partially blocked. There is a pile of cargo containers on the streets....",
    "link": "http://english.ratopati.com/story/83798/pakistani-government-playing-with-fire-crisis-in-imrans-stronghold-army-on-the-streets",
@@ -2555,52 +2441,6 @@
     "Protest"
    ],
    "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "मधेशमा कांग्रेसको विरासत जोगाएका आलम केन्द्रीय सहमहामन्त्रीमा निर्वाचित",
-   "summary": "नेपाली कांग्रेसको १५औँ महाधिवेशनबाट मुस्लिम क्लस्टरतर्फ केन्द्रीय सहमहामन्त्री पदमा डा. फिरदौस आलम निर्वाचित भएका छन्।...",
-   "link": "https://nagariknews.nagariknetwork.com/politics/alam-who-preserved-the-legacy-of-the-congress-in-madhesh-elected-as-the-central-joint-general-secretary-26-18.html",
-   "source": "Nagarik News",
-   "ts": 1792040786,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1792040776_alam.jpg",
-   "lang": "ne",
-   "hl": "मधेशमा कांग्रेसको विरासत जोगाएका आलम केन्द्रीय सहमहामन्त्रीमा निर्वाचित",
-   "en": "मधेशमा कांग्रेसको विरासत जोगाएका आलम केन्द्रीय सहमहामन्त्रीमा निर्वाचित",
-   "ne": "मधेशमा कांग्रेसको विरासत जोगाएका आलम केन्द्रीय सहमहामन्त्रीमा निर्वाचित",
-   "imp": 3,
-   "tags": [
-    "NepaliCongress",
-    "Madhesh",
-    "Politics"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 3
-  },
-  {
-   "title": "निजी क्षेत्रले पनि पाठ्यपुस्तक छाप्न पाउने",
-   "summary": "आगामी शैक्षिक सत्रका लागि विद्यालय तहका पाठ्यपुस्तक छपाइ जिम्मेवारी बाँडफाँट गरिएको छ।",
-   "link": "https://nagariknews.nagariknetwork.com/education/private-sector-will-also-be-allowed-to-print-textbooks-br-46-58.html",
-   "source": "Nagarik News",
-   "ts": 1792040654,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2024/third-party/1711869047_book.jpg",
-   "lang": "ne",
-   "hl": "निजी क्षेत्रले पनि पाठ्यपुस्तक छाप्न पाउने",
-   "en": "निजी क्षेत्रले पनि पाठ्यपुस्तक छाप्न पाउने",
-   "ne": "निजी क्षेत्रले पनि पाठ्यपुस्तक छाप्न पाउने",
-   "imp": 3,
-   "tags": [
-    "PrivateSector",
-    "Textbooks",
-    "Education"
-   ],
-   "cat": "education",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -5718,29 +5558,6 @@
    "hits": 1
   },
   {
-   "title": "Remittance inflows rise 23.9 per cent",
-   "summary": "Kathmandu, October 15 Nepal received remittances worth Rs 221.31 billion in Bhadra alone, the second month of the current fiscal year. This was Rs 6 billion more than the amount received in Shrawan. The country received...",
-   "link": "https://english.onlinekhabar.com/remittance-inflows-rise-23-9-per-cent.html",
-   "source": "Onlinekhabar EN",
-   "ts": 1792056460,
-   "weight": 3,
-   "img": "http://english.onlinekhabar.com/wp-content/uploads/2016/09/Money-transfer-remittance.jpg",
-   "lang": "en",
-   "hl": "Remittance inflows rise 23.9 per cent",
-   "en": "Remittance inflows rise 23.9 per cent",
-   "ne": "Remittance inflows rise 23.9 per cent",
-   "imp": 4,
-   "tags": [
-    "Remittance",
-    "Economy",
-    "Nepal"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "सञ्चित कोषमा ४० खर्ब रकम जम्मा, १७.८ महिनाको वस्तु तथा आयात धान्न सक्ने",
    "summary": "",
    "link": "https://baahrakhari.com/detail/505029",
@@ -8390,28 +8207,6 @@
    ],
    "cat": "culture",
    "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "One Dead, 16 Injured in Bus Accident in Udayapur",
-   "summary": "Udayapur. A passenger bus going from Kathmandu to Dharan met with an accident in Surkhe, Trijuga Municipality-7, on the Madan...",
-   "link": "http://english.ratopati.com/story/83877/bus-accident-in-udaipur-one-dead",
-   "source": "Ratopati EN",
-   "ts": 1792067391,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/accident1_0HVVwEUEAJ.jpg",
-   "lang": "en",
-   "hl": "One Dead, 16 Injured in Bus Accident in Udayapur",
-   "en": "One Dead, 16 Injured in Bus Accident in Udayapur",
-   "ne": "One Dead, 16 Injured in Bus Accident in Udayapur",
-   "imp": 4,
-   "tags": [
-    "BusAccident",
-    "Udayapur"
-   ],
-   "cat": "disaster",
-   "val": 3,
    "teaser": false,
    "hits": 1
   },
@@ -11933,10 +11728,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "politics"
+  },
+  {
+   "ts": 1792069860.8971605,
+   "en": "One Dead, 16 Injured in Bus Accident in Udayapur",
+   "ne": "One Dead, 16 Injured in Bus Accident in Udayapur",
+   "link": "http://english.ratopati.com/story/83877/bus-accident-in-udaipur-one-dead",
+   "source": "Ratopati EN",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "disaster"
   }
  ],
- "updated": 1792069310,
- "pending_since": null,
+ "updated": 1792069877,
+ "pending_since": 1792069854.1900063,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
