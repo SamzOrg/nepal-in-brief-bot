@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMiXEFVX3lxTE02Q2dYYmNubEIySm50dkVaQ0hqaEFFREZBejZGLXBXdy1xY0tqa0Z2ZS1HX3ZjaXRKUUZxV3JxNmdyTVlIX3ExNlB2anFqcmVSVXJWbmNjdm8zUWVr0gFcQVVfeXFMTTZDZ1hiY25sQjJKbnR2RVpDSGpoQUVERkF6NkYtcFd3LXFjS2prRnZlLUdfdmNpdEpRRnFXcnE2Z3JNWUhfcTE2UHZqcWpyZVJVclZuY2N2bzNRZWs?oc=5": 1791934267.9954145,
   "http://english.ratopati.com/story/83608/bhanuchowk-shines-even-more-in-the-evening": 1791934857.75732,
   "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZXhKWDk5SWRJWXpreEotLWp4d3pWamxjOGlzU3RRbVZwSmZvOUZLT2JrTWRRMjF1WG1DeWNMeUY3ajk1TExnbGg2Yi1pWjUyMjVRakJXTXZETHo5UEp3c0IzaDFfY3NaVWt6U1I1TnM4emZzR3A0TkQweTFiNDQwOXliRUJjTlZIQkhURmJEWQ?oc=5": 1791934857.75732,
   "https://news.google.com/rss/articles/CBMingFBVV95cUxQZ1BWd3F5MlFmYzBxaF8tZG81cmEtSEFvMUJuSnJrVDRud1duLUlEN0ZEbThPMmhrQ2tJdl9lX2swQjM2OFE1TlE2bTJBLUhYcjJJbjlHOGhZQWlOaEdPSG45YTFEdm5PWmgtS1hCQmNobFF5WGJONUJPZS1qRmw4NTYySVBFNlU2TDltYWctSElLdUw3dkl6RHdLTnBKZw?oc=5": 1791934857.75732,
@@ -2330,28 +2329,6 @@
     "Motorcycle"
    ],
    "cat": "crime",
-   "val": 1,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Nepal's democracy: Can algorithms rewrite history?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdEotS2x2eUJHQmFQN2ROMG1MOWZuc2pYanJnM1hwTFRTTWJPMXNENVpiYWJNeXNTQjBrUG5SM25oTWE0U0R6OHRnd2x5bS0teXJpTGkzbHpMdF8zSk9RYXIyN2ZmYlBrZUFOOFRBSHQzOE5uVkF4TndHQTloR0hER3g4Yml4NFBOTHdXMmtuWW1NRnRo0gGUAUFVX3lxTE90Si1LbHZ5QkdCYVA3ZE4wbUw5Zm5zalhqcmczWHBMVFNNYk8xc0Q1WmJhYk15c1NCMGtQblIzbmhNYTRTRHo4dGd3bHltLS15cmlMaTNsekx0XzNKT1FhcjI3ZmZiUGtlQU44VEFIdDM4Tm5WQXhOd0dBOWhHSERHeDhiaXg0UE5Md1cya25ZbU1GdGg?oc=5",
-   "source": "Daily Pioneer",
-   "ts": 1792077903,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Nepal's democracy: Can algorithms rewrite history?",
-   "en": "Nepal's democracy: Can algorithms rewrite history?",
-   "ne": "Nepal's democracy: Can algorithms rewrite history?",
-   "imp": 1,
-   "tags": [
-    "Democracy",
-    "Algorithms"
-   ],
-   "cat": "tech",
    "val": 1,
    "teaser": false,
    "hits": 1
@@ -5959,8 +5936,8 @@
    "cat": "sports"
   }
  ],
- "updated": 1792106486,
- "pending_since": null,
+ "updated": 1792107079,
+ "pending_since": 1792107075.7529962,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
