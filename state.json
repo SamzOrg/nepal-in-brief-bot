@@ -2187,7 +2187,13 @@
   "https://nagariknews.nagariknetwork.com/politics/challenge-to-the-rashtriya-swayamsevak-sangh-rss-to-address-public-grievances-br-90-23.html": 1792029684.9168243,
   "http://english.ratopati.com/story/83775/two-killed-three-injured-in-jeep-accident-in-jajarkot": 1792030248.1793447,
   "http://lokaantar.com/story/331346/2026/10/15/redcross-": 1792030248.1793447,
-  "http://lokaantar.com/story/331345/2026/10/15/flood-": 1792030248.1793447
+  "http://lokaantar.com/story/331345/2026/10/15/flood-": 1792030248.1793447,
+  "https://baahrakhari.com/detail/504989": 1792030849.8373022,
+  "http://english.ratopati.com/story/83776/zelensky-admits-to-being-betrayed-by-trump-worried-by-russian-fuel-deal-and-starlink-obstruction": 1792030849.8373022,
+  "https://news.google.com/rss/articles/CBMikgFBVV95cUxONVVDb1hodzRRaFpoaUx0RXJtMWZwb1VBUVd5Uk83OWczLWlSb0ZIMGNlSkpDT2FiYkx3ZC1tTlBVMVhOdUZYOTQ0S19ma2NPMnpRbkxIcGItLTdOTWt6NmN1RUlyQ1RDT29kdk5xX2U0NTJicHJrZjIyT0FnRnZBUkpnLWVNeDN4NXVCNnBXaXVadw?oc=5": 1792030849.8373022,
+  "https://news.google.com/rss/articles/CBMickFVX3lxTFAxZTl4WnVrRFlPRnhYdldPbFdtemdXcWc1UFhkV012SlBVYWlFLXN2aEFOUFJiZ2dzYWVndGhXMy1EalJNYkdxZ3pUcXBxb1J2YTUwMGJvZmhJcTRNRGxZNkVLMFZLcjdaR3FBTy0yaGlOdw?oc=5": 1792030849.8373022,
+  "https://gorkhapatraonline.com/news/226750": 1792030849.8373022,
+  "https://nagariknews.nagariknetwork.com/social-affairs/bhotekoshi-flood-response-bidur-municipality-and-nepal-red-cross-collaborate-providing-rs-100-000-immediately-br-80-93.html": 1792030849.8373022
  },
  "queue": [
   {
@@ -2324,7 +2330,7 @@
    "cat": "world",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Weather Forecast: Partial Cloudiness and Rain Expected in Several Regions",
@@ -2809,7 +2815,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Agricultural Resource Center Focuses on Modern Machinery to Reduce Production Costs",
@@ -2988,29 +2994,6 @@
    "val": 3,
    "teaser": false,
    "hits": 2
-  },
-  {
-   "title": "फर्सेवासीको पीडा- बाढीले घर नै लग्यो, के दसैं मनाउनु!",
-   "summary": "'घरगोठ र सम्पत्ति सबै गुमायौँ । अहिले छिमेकीको घरमा बसेका छौँ,' उनले भने, 'यस्तो अवस्थामा दसैं मनाउने अवस्था नै छैन।'",
-   "link": "https://www.setopati.com/social/400865",
-   "source": "Setopati",
-   "ts": 1792026687,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "फर्सेवासीको पीडा- बाढीले घर नै लग्यो, के दसैं मनाउनु!",
-   "en": "फर्सेवासीको पीडा- बाढीले घर नै लग्यो, के दसैं मनाउनु!",
-   "ne": "फर्सेवासीको पीडा- बाढीले घर नै लग्यो, के दसैं मनाउनु!",
-   "imp": 4,
-   "tags": [
-    "Flood",
-    "Dashain",
-    "बाढी"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
   },
   {
    "title": "गुल्मीको मालिकामा देवरद्वारा भाउजूको हत्या",
@@ -3830,6 +3813,53 @@
    "val": 2,
    "teaser": false,
    "hits": 2
+  },
+  {
+   "title": "बूढीगण्डकी बाढीपछि लाप्राकका काले गुरुङ पाँच दिनदेखि सम्पर्कविहीन",
+   "summary": "सुलीकोट (गोरखा), असोज २९ गते । उत्तरी गोरखाको चुमनुब्री गाउँपालिका-३, न्याकफेदी नजिकैको निगालोघारीबाट धार्चे गाउँपालिका-४, लाप्राकका ३५ वर्षीय काले गुरुङ सम्पर्कविहीन हुनुभएको छ ।...",
+   "link": "https://gorkhapatraonline.com/news/226750",
+   "source": "Gorkhapatra",
+   "ts": 1792030826,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/388214/conversions/gorkha-original.jpg",
+   "lang": "ne",
+   "hl": "बूढीगण्डकी बाढीपछि लाप्राकका काले गुरुङ पाँच दिनदेखि सम्पर्कविहीन",
+   "en": "बूढीगण्डकी बाढीपछि लाप्राकका काले गुरुङ पाँच दिनदेखि सम्पर्कविहीन",
+   "ne": "बूढीगण्डकी बाढीपछि लाप्राकका काले गुरुङ पाँच दिनदेखि सम्पर्कविहीन",
+   "imp": 3,
+   "tags": [
+    "Budhigandaki",
+    "Laprak",
+    "पहिरो"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "भोटेकोशी बाढीपीडितको पुनःस्थापनामा विदुर नगरपालिका र रेडक्रसको सहकार्य",
+   "summary": "नेपाल रेडक्रस सोसाइटीले भोटेकोशी बाढी प्रभावित क्षेत्रमा प्रभावित परिवारलाई आर्थिक सहयोग लगायत अन्य विभिन्न प्रतिकार्यका कार्यक्रम अगाडि बढाएको छ।...",
+   "link": "https://nagariknews.nagariknetwork.com/social-affairs/bhotekoshi-flood-response-bidur-municipality-and-nepal-red-cross-collaborate-providing-rs-100-000-immediately-br-80-93.html",
+   "source": "Nagarik News",
+   "ts": 1792029402,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2026/third-party/1792029708_sedu%2095.jpg",
+   "lang": "ne",
+   "hl": "भोटेकोशी बाढीपीडितको पुनःस्थापनामा विदुर नगरपालिका र रेडक्रसको सहकार्य",
+   "en": "भोटेकोशी बाढीपीडितको पुनःस्थापनामा विदुर नगरपालिका र रेडक्रसको सहकार्य",
+   "ne": "भोटेकोशी बाढीपीडितको पुनःस्थापनामा विदुर नगरपालिका र रेडक्रसको सहकार्य",
+   "imp": 3,
+   "tags": [
+    "Bhotekoshi",
+    "BidurMunicipality",
+    "RedCross",
+    "बाढी"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
@@ -7044,9 +7074,20 @@
    "n_ig": 1,
    "brk": true,
    "cat": "disaster"
+  },
+  {
+   "ts": 1792030856.9906578,
+   "en": "पर्वतको जलजलामा बाढीले घर बगाएपछि फर्सेका बासिन्दालाई दसैंको रौनक छैन",
+   "ne": "पर्वतको जलजलामा बाढीले घर बगाएपछि फर्सेका बासिन्दालाई दसैंको रौनक छैन",
+   "link": "https://www.setopati.com/social/400865",
+   "source": "Setopati",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "disaster"
   }
  ],
- "updated": 1792030255,
+ "updated": 1792030868,
  "pending_since": 1792030248.1793447,
  "fb_blocks": [
   1790350880.4125228,
