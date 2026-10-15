@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://gorkhapatraonline.com/news/226464": 1791853856.5534272,
-  "https://gorkhapatraonline.com/news/226465": 1791853856.5534272,
   "https://nagariknews.nagariknetwork.com/social-affairs/light-rain-likely-in-some-parts-of-the-hilly-region-today-51-96.html": 1791854449.4221418,
   "https://gorkhapatraonline.com/news/226468": 1791854449.4221418,
   "https://nagariknews.nagariknetwork.com/international/houthi-attacks-in-saudi-arabia-20-people-killed-in-a-week-flights-of-more-than-10-airlines-including-qatar-suspended-42-48.html": 1791854449.4221418,
@@ -2194,7 +2192,11 @@
   "https://gorkhapatraonline.com/news/226734": 1792026648.019163,
   "https://nagariknews.nagariknetwork.com/social-affairs/kaligandaki-bridge-connecting-two-and-a-half-villages-to-be-operational-50-18.html": 1792026648.019163,
   "https://gorkhapatraonline.com/news/226733": 1792026648.019163,
-  "https://nagariknews.nagariknetwork.com/editorial/nepal-s-voice-for-climate-justice-br-62-68.html": 1792026648.019163
+  "https://nagariknews.nagariknetwork.com/editorial/nepal-s-voice-for-climate-justice-br-62-68.html": 1792026648.019163,
+  "http://lokaantar.com/story/331336/2026/10/15/hospital-": 1792027249.0648296,
+  "https://nagariknews.nagariknetwork.com/sports/champions-league-real-madrid-s-thrilling-win-psg-beats-city-60-21.html": 1792027249.0648296,
+  "https://www.setopati.com/social/400865": 1792027249.0648296,
+  "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNHRLOTJPQUtTT19CbVZLRnFQOFcydmlBZ3NNMGhTbXNadlY5X1I4UnVLWkVZN1Bqb1IzRjkwVllfUHRjMlNZYmExRkVzbTF0ejZUZVY1RHBmalBNX2dvWGE4RXplemlRcVdoUmNqX2RmTmYzM1prRFljZ3E5TERrQWRBUGNFclZGUXg0aXNYbldHdVQ2WGNkTURfMDRSLW9LbHJPc291R012WW1oTVh1bXBNckhSSkJGZm40ZE5R?oc=5": 1792027249.0648296
  },
  "queue": [
   {
@@ -2427,29 +2429,6 @@
    ],
    "cat": "economy",
    "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "From Ukraine to Nepal: Responding When Disaster Strikes",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNN0k5MmZRY1FfaVZrNjJnX3VaMDgwT3k3MTZ1dnE0dXJGbWkyNE9pYmJCdWM1YTZocUktRDlTdDM0d1VCLWs4cG5XV0ZxcV83OUxSNHdOcDRiMEVPdF9iVjc2VVJURWthUTNRM0IxcTFNcFlBZkRvLV9qcW85Y2J4cWFtU3FLSnFHSnJ5dllpWnByTHRta2JfdVVvQW1WeXI1LUxr?oc=5",
-   "source": "Project HOPE",
-   "ts": 1791998028,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "From Ukraine to Nepal: Responding When Disaster Strikes",
-   "en": "From Ukraine to Nepal: Responding When Disaster Strikes",
-   "ne": "From Ukraine to Nepal: Responding When Disaster Strikes",
-   "imp": 1,
-   "tags": [
-    "Ukraine",
-    "Nepal",
-    "Disaster"
-   ],
-   "cat": "world",
-   "val": 1,
    "teaser": false,
    "hits": 1
   },
@@ -3179,6 +3158,53 @@
    ],
    "cat": "society",
    "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "च्याम्पियन्स लिगः रियल मड्रिडको रोमाञ्चक जित, सिटीलाई पीएसजीले हरायो",
+   "summary": "युरोपेली च्याम्पियन्स लिगअन्तर्गत गएराति भएका खेलमा रियल मड्रिड, पेरिस सेन्ट जर्मेन (पीएसजी), लिभरपुल र एस्टन भिल्लाले जित निकालेका छन्।...",
+   "link": "https://nagariknews.nagariknetwork.com/sports/champions-league-real-madrid-s-thrilling-win-psg-beats-city-60-21.html",
+   "source": "Nagarik News",
+   "ts": 1792026963,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2025/third-party/1792026951_collage%20(11).jpg",
+   "lang": "ne",
+   "hl": "च्याम्पियन्स लिगः रियल मड्रिडको रोमाञ्चक जित, सिटीलाई पीएसजीले हरायो",
+   "en": "च्याम्पियन्स लिगः रियल मड्रिडको रोमाञ्चक जित, सिटीलाई पीएसजीले हरायो",
+   "ne": "च्याम्पियन्स लिगः रियल मड्रिडको रोमाञ्चक जित, सिटीलाई पीएसजीले हरायो",
+   "imp": 3,
+   "tags": [
+    "ChampionsLeague",
+    "RealMadrid",
+    "PSG",
+    "फुटबल"
+   ],
+   "cat": "sports",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "फर्सेवासीको पीडा- बाढीले घर नै लग्यो, के दसैं मनाउनु!",
+   "summary": "'घरगोठ र सम्पत्ति सबै गुमायौँ । अहिले छिमेकीको घरमा बसेका छौँ,' उनले भने, 'यस्तो अवस्थामा दसैं मनाउने अवस्था नै छैन।'",
+   "link": "https://www.setopati.com/social/400865",
+   "source": "Setopati",
+   "ts": 1792026687,
+   "weight": 3,
+   "img": null,
+   "lang": "ne",
+   "hl": "फर्सेवासीको पीडा- बाढीले घर नै लग्यो, के दसैं मनाउनु!",
+   "en": "फर्सेवासीको पीडा- बाढीले घर नै लग्यो, के दसैं मनाउनु!",
+   "ne": "फर्सेवासीको पीडा- बाढीले घर नै लग्यो, के दसैं मनाउनु!",
+   "imp": 4,
+   "tags": [
+    "Flood",
+    "Dashain",
+    "बाढी"
+   ],
+   "cat": "disaster",
+   "val": 3,
    "teaser": false,
    "hits": 1
   }
@@ -6384,10 +6410,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "economy"
+  },
+  {
+   "ts": 1792027258.7542655,
+   "en": "Nepal, World Bank sign mandate to explore earthquake catastrophe bond",
+   "ne": "Nepal, World Bank sign mandate to explore earthquake catastrophe bond",
+   "link": "https://www.marketscreener.com/news/nepal-world-bank-sign-mandate-to-explore-earthquake-catastrophe-bond-ce785dd3d98bf224",
+   "source": "marketscreener.com",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "economy"
   }
  ],
- "updated": 1792026658,
- "pending_since": null,
+ "updated": 1792027271,
+ "pending_since": 1792027249.0648296,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
