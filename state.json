@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMifEFVX3lxTE5wSkFEbElSTlVfbjUzb0xMaTZzb3M0MllsUFpSalVRYXdTQ09TMzBpczFXaUVVNlVhRFpMVXJhMk9aV2ttVkxVS0Jwdl9KWG1mdWlkc3lhcTZqdEY1RW9JNi1fMXNNbXNNT05VX05GdGJoYWV2cWdRdllNWkk?oc=5": 1791888051.379004,
   "https://english.khabarhub.com/2026/13/571847/": 1791888657.700506,
   "https://english.onlinekhabar.com/padmakshi-rana-four-year-plan-oman.html": 1791888657.700506,
   "https://gorkhapatraonline.com/news/226539": 1791888657.700506,
@@ -2210,7 +2209,9 @@
   "http://lokaantar.com/story/331377/2026/10/15/book-lunch-chitwan-": 1792060276.2029397,
   "https://www.setopati.com/social/400924": 1792060276.2029397,
   "https://english.onlinekhabar.com/nsc-recalls-can-gunjan-shah-thakuri.html": 1792060276.2029397,
-  "https://www.setopati.com/social/400927": 1792060276.2029397
+  "https://www.setopati.com/social/400927": 1792060276.2029397,
+  "https://nagariknews.nagariknetwork.com/economy/remittances-worth-436-billion-rupees-entered-in-two-months-an-increase-of-23-9-percent-full-text-77-35.html": 1792060853.560418,
+  "https://baahrakhari.com/detail/505036": 1792060853.560418
  },
  "queue": [
   {
@@ -2351,29 +2352,6 @@
    "hits": 1
   },
   {
-   "title": "आज र भोलि हल्का पानी पर्न सक्ने, फुलपातीदेखि फेरि घमाइलो",
-   "summary": "पश्चिमी न्यूनचापीय प्रणालीको असरका कारण आज र भोलि हल्का पानी पर्न सक्ने उनी बताउँछन्।",
-   "link": "https://www.setopati.com/social/400868",
-   "source": "Setopati",
-   "ts": 1792032006,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "आज र भोलि हल्का पानी पर्न सक्ने, फुलपातीदेखि फेरि घमाइलो",
-   "en": "आज र भोलि हल्का पानी पर्न सक्ने, फुलपातीदेखि फेरि घमाइलो",
-   "ne": "आज र भोलि हल्का पानी पर्न सक्ने, फुलपातीदेखि फेरि घमाइलो",
-   "imp": 2,
-   "tags": [
-    "Weather",
-    "Dashain",
-    "मौसम"
-   ],
-   "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "भारतबाट फर्किनेको गड्डाचौकीमा भीड : स्वास्थ्य परीक्षण अनिवार्य",
    "summary": "दसैँ तिहार मनाउन भारतबाट घर फर्किने यात्रुको गड्डाचौकी नाकामा स्वास्थ्य परीक्षण भइरहेको छ।",
    "link": "https://nagariknews.nagariknetwork.com/social-affairs/crowd-at-gadda-chowki-for-those-returning-from-india-health-screening-mandatory-20-29.html",
@@ -2421,29 +2399,6 @@
    "hits": 2
   },
   {
-   "title": "होर्मुजमा सिंगापुरका दुई जहाजमाथि आक्रमण, एउटा डुब्यो",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/504990",
-   "source": "Baahrakhari",
-   "ts": 1792031729,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "होर्मुजमा सिंगापुरका दुई जहाजमाथि आक्रमण, एउटा डुब्यो",
-   "en": "होर्मुजमा सिंगापुरका दुई जहाजमाथि आक्रमण, एउटा डुब्यो",
-   "ne": "होर्मुजमा सिंगापुरका दुई जहाजमाथि आक्रमण, एउटा डुब्यो",
-   "imp": 1,
-   "tags": [
-    "Hormuz",
-    "Singapore",
-    "Attack"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
    "title": "दशैँ नजिकिएसँगै पशु हाटमा चहलपहल",
    "summary": "बर्दिबास समाचारदाताबर्दिबास, असोज २९ गते । दशैँ नजिकिएसँगै महोत्तरीको गौशाला बजारमा चौपायाको किनबेच बढेको छ। जिल्लाकै प्रमुख पशु हाटका रूपमा परिचित यस बजारमा बिक्रीका लागि राँगा, भ...",
    "link": "https://gorkhapatraonline.com/news/226756",
@@ -2464,29 +2419,6 @@
    "cat": "society",
    "val": 2,
    "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "विपद् व्यवस्थापनका लागि भूउपयोग गुरुयोजना",
-   "summary": "हरेक वर्ष बस्ती र भौतिक पूर्वाधारहरूलाई चिथोरिरहने हाम्रो विपद्जन्य अवस्थामा गएको भदौ १० गते आएको अप्रत्याशित भोटेकोसी-त्रिशूली बाढीले हामीलाई आक्रान्त बनाएको छ।...",
-   "link": "https://nagariknews.nagariknetwork.com/opinion/land-use-master-plan-for-disaster-management-br-83-12.html",
-   "source": "Nagarik News",
-   "ts": 1792031917,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2024/third-party/1792032056_ku%20kai%2098.jpg",
-   "lang": "ne",
-   "hl": "विपद् व्यवस्थापनका लागि भूउपयोग गुरुयोजना",
-   "en": "विपद् व्यवस्थापनका लागि भूउपयोग गुरुयोजना",
-   "ne": "विपद् व्यवस्थापनका लागि भूउपयोग गुरुयोजना",
-   "imp": 2,
-   "tags": [
-    "DisasterManagement",
-    "LandUse",
-    "विपद्"
-   ],
-   "cat": "disaster",
-   "val": 2,
-   "teaser": true,
    "hits": 1
   },
   {
@@ -2511,29 +2443,6 @@
    "val": 1,
    "teaser": true,
    "hits": 3
-  },
-  {
-   "title": "शे होपको शतकमा वेस्ट इन्डिजको जित, टी-२० शृंखला निर्णायक खेलमा",
-   "summary": "कप्तान शे होपको अविजित शतक र केमो पलको पाँच विकेटको मद्दतमा वेस्ट इन्डिजले भारतलाई चौथो टी-२० अन्तर्राष्ट्रिय खेलमा २४ रनले पराजित गरेको छ।...",
-   "link": "https://nagariknews.nagariknetwork.com/sports/shai-hope-s-century-leads-west-indies-to-victory-in-t20-series-decider-80-21.html",
-   "source": "Nagarik News",
-   "ts": 1792031650,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1792031618_collage%20(12).jpg",
-   "lang": "ne",
-   "hl": "शे होपको शतकमा वेस्ट इन्डिजको जित, टी-२० शृंखला निर्णायक खेलमा",
-   "en": "शे होपको शतकमा वेस्ट इन्डिजको जित, टी-२० शृंखला निर्णायक खेलमा",
-   "ne": "शे होपको शतकमा वेस्ट इन्डिजको जित, टी-२० शृंखला निर्णायक खेलमा",
-   "imp": 2,
-   "tags": [
-    "WestIndies",
-    "Cricket",
-    "ShaiHope"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
   },
   {
    "title": "तमानखोलाका पहिरोपीडित १५ परिवारलाई सशस्त्र प्रहरीको राहत",
@@ -3417,29 +3326,6 @@
    "val": 3,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "Bhotekoshi flood survivors to be shifted to temporary residence within six months",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQaXVGMmhrbWprSDN4Qk1KbmJsRG1WdWxpNUoxNE1tc1M2MGFObFcyZmJyd0cwc0FXRTJyUnlEYmNjTGZvQ2FaYm1wTWNjdkxrV3h0TFRVcnl0WHNiWE1IR0VFYnpWZExSVS1FOVducDVhZFJPX0RNREYzOVNyQVJtdTVrVXhDZmVqZTZJTUc3U3AyTXdDNnRSbkZlUk1ydHVkTEp2TkFSYndieVVwNGFKYTVOOWxLa2VSakV0dlQ5dmZWc0dRdlo4ck5MV2tyajA?oc=5",
-   "source": "myRepublica",
-   "ts": 1792031911,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Bhotekoshi flood survivors to be shifted to temporary residence within six months",
-   "en": "Bhotekoshi flood survivors to be shifted to temporary residence within six months",
-   "ne": "Bhotekoshi flood survivors to be shifted to temporary residence within six months",
-   "imp": 3,
-   "tags": [
-    "Bhotekoshi",
-    "Flood",
-    "बाढी"
-   ],
-   "cat": "disaster",
-   "val": 2,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "मध्य दसैँमा एसियन पारा गेम्स खेल्दै नेपाली खेलाडी, पलेशाको खेल महानवमीमा",
@@ -8311,29 +8197,6 @@
    "hits": 3
   },
   {
-   "title": "Nepal's balance of payments surplus reaches Rs 187.68 billion in first two months",
-   "summary": "Kathmandu, October 15 Nepal recorded a balance of payments (BoP) surplus of Rs 187.68 billion in the first two months of the current fiscal year 2026/27, up from Rs 153.68 billion in the same period last year, according...",
-   "link": "https://english.onlinekhabar.com/balance-of-payments-surplus.html",
-   "source": "Onlinekhabar EN",
-   "ts": 1792058228,
-   "weight": 3,
-   "img": "http://english.onlinekhabar.com/wp-content/uploads/2022/05/trade-balance-of-payment-nepal.jpg",
-   "lang": "en",
-   "hl": "Nepal's balance of payments surplus reaches Rs 187.68 billion in first two months",
-   "en": "Nepal's balance of payments surplus reaches Rs 187.68 billion in first two months",
-   "ne": "Nepal's balance of payments surplus reaches Rs 187.68 billion in first two months",
-   "imp": 4,
-   "tags": [
-    "BalanceOfPayments",
-    "NEPSE",
-    "Economy"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Nobel-laureate Japanese writer's fiction work now available in Nepali",
    "summary": "Kathmandu, Oct 15: On the occasion of the 70th anniversary of Nepal-Japan diplomatic relations, the Nepali translation o...",
    "link": "https://risingnepaldaily.com/news/87834",
@@ -9068,20 +8931,33 @@
    "val": 3,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "भोटेकोसी बाढी पीडितका लागि 'गुप्तचर' विभाग पूर्वकर्मचारीसंघले गर्‍यो आर्थिक सहयोग",
+   "summary": "",
+   "link": "https://baahrakhari.com/detail/505036",
+   "source": "Baahrakhari",
+   "ts": 1792060326,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "भोटेकोसी बाढी पीडितका लागि 'गुप्तचर' विभाग पूर्वकर्मचारीसंघले गर्‍यो आर्थिक सहयोग",
+   "en": "भोटेकोसी बाढी पीडितका लागि 'गुप्तचर' विभाग पूर्वकर्मचारीसंघले गर्‍यो आर्थिक सहयोग",
+   "ne": "भोटेकोसी बाढी पीडितका लागि 'गुप्तचर' विभाग पूर्वकर्मचारीसंघले गर्‍यो आर्थिक सहयोग",
+   "imp": 2,
+   "tags": [
+    "BhoteKoshi",
+    "Flood",
+    "बाढी",
+    "Relief"
+   ],
+   "cat": "society",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1791455482.662522,
-   "en": "परीक्षा नदिएकालाई लाइसेन्स दिएको अभियोगमा तत्कालीन कार्यालय प्रमुखसहित ७ जनाविरुद्ध भ्रष्टाचार मुद्दा",
-   "ne": "परीक्षा नदिएकालाई लाइसेन्स दिएको अभियोगमा तत्कालीन कार्यालय प्रमुखसहित ७ जनाविरुद्ध भ्रष्टाचार मुद्दा",
-   "link": "http://lokaantar.com/story/330797/2026/10/8/ciaa-",
-   "source": "Lokaantar",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "crime"
-  },
   {
    "ts": 1791457298.1887589,
    "en": "Japan grants Rs2.77B to modernise TIA air traffic control",
@@ -12282,9 +12158,20 @@
    "n_ig": 1,
    "brk": true,
    "cat": "politics"
+  },
+  {
+   "ts": 1792060861.54303,
+   "en": "Nepal's BoP surplus hits Rs 187.68 billion in first two months of FY 2026/27",
+   "ne": "Nepal's BoP surplus hits Rs 187.68 billion in first two months of FY 2026/27",
+   "link": "https://english.onlinekhabar.com/balance-of-payments-surplus.html",
+   "source": "Onlinekhabar EN",
+   "n_fb": 1,
+   "n_ig": 0,
+   "brk": false,
+   "cat": "economy"
   }
  ],
- "updated": 1792060315,
+ "updated": 1792060866,
  "pending_since": 1792060276.2029397,
  "fb_blocks": [
   1790350880.4125228,
