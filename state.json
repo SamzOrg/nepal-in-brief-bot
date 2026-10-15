@@ -1,10 +1,5 @@
 {
  "seen": {
-  "https://english.onlinekhabar.com/police-arrest-98-people-in-kathmandu-valley-in-sweep-operation.html": 1791876673.1615777,
-  "http://english.ratopati.com/story/83560/chief-ministers-protest-against-the-union-government": 1791876673.1615777,
-  "https://gorkhapatraonline.com/news/226522": 1791876673.1615777,
-  "https://www.setopati.com/politics/400728": 1791876673.1615777,
-  "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbWdkbFpIWFdFZE85blpPTWhfNV9HMUxQOFZVWXAwdDVnd1IxZXdhSktYRTVJNU1wcDIzQTZmNVNkZ29HNER3SmNmVVJ6YjVzUHhiOUxLSDNhRGQzSG5JdWV1eXBtV1hFMzV5bTh6SkRoZjJETjh3MGNUbVNyQkF4VHNPMmFmdDRqQllTSDd5dm55ZC1yN3pWMnJ4bDRFVEdUc1HSAagBQVVfeXFMT1NNUHZmNTZlZHZsd2w0ZWVISC03cV9tX2Y3aWtHd0dSb0plQVBicVNhdVc4R2ZsYXpUZjVIUXdNcE9VbUtjalNiZnpscnB2YzZXN1RqNWhPMFRaa1hPR3VzS3gzSHd6blpjaDRLTE1XVzhXblI1eU9WU3R5a0VzRGxaUTY4MWF1SkFkaEpwYWRqMHAzNXdIbWc4bXRub2c4Vl9ZSUxMM0RY?oc=5": 1791876673.1615777,
   "https://baahrakhari.com/detail/504808": 1791877254.0389268,
   "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNUg0UG1idTVqUW1qVDhvYzgzTVF0MDdLbzVoZVh5T2s5R1BxeXBVYW01dHUwa0VGUm9oM3lTejBPZ25BSnpmd0lmMUJsOXVNRF80TURoYzk3NEFUOENkSi1Ob0huUDVqVmJLcXNCS0xDRVpfRks4bjhudG4tNWJhbHozblBWbmlvVnc?oc=5": 1791877254.0389268,
   "https://english.khabarhub.com/2026/13/571809/": 1791877254.0389268,
@@ -2212,7 +2207,9 @@
   "http://english.ratopati.com/story/83831/buying-and-selling-of-goats-and-sheep-has-increased-in-various-places-in-kathmandu": 1792049472.7473624,
   "http://lokaantar.com/story/331364/2026/10/15/china-": 1792049472.7473624,
   "https://baahrakhari.com/detail/505016": 1792049472.7473624,
-  "http://lokaantar.com/story/331363/2026/10/15/xtreme-": 1792049472.7473624
+  "http://lokaantar.com/story/331363/2026/10/15/xtreme-": 1792049472.7473624,
+  "https://gorkhapatraonline.com/news/226796": 1792050048.8925145,
+  "https://theannapurnaexpress.com/story/67950": 1792050048.8925145
  },
  "queue": [
   {
@@ -7471,7 +7468,7 @@
    "cat": "world",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "Hera Pheri 3 Never To Be Made, Says Director Priyadarshan Amidst Legal Battles",
@@ -7588,7 +7585,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 3
+   "hits": 4
   },
   {
    "title": "Peshawar School Roof Collapse Kills 21",
@@ -8327,17 +8324,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1791444685.7228463,
-   "en": "Government Relies on Loans to Repay Old Debts, Hindering Economic Growth",
-   "ne": "Government Relies on Loans to Repay Old Debts, Hindering Economic Growth",
-   "link": "http://english.ratopati.com/story/82853/the-government-relies-on-loans-to-pay-off-debts",
-   "source": "Ratopati EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "economy"
-  },
   {
    "ts": 1791446496.5912251,
    "en": "Supreme Court halts Sudurpaschim's plan to revise FY27 budget",
@@ -11551,8 +11537,8 @@
    "cat": "economy"
   }
  ],
- "updated": 1792049503,
- "pending_since": null,
+ "updated": 1792050052,
+ "pending_since": 1792050048.8925145,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
