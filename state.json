@@ -2208,7 +2208,9 @@
   "https://nagariknews.nagariknetwork.com/social-affairs/rambas-is-on-the-verge-of-extinction-90-91.html": 1792039252.42737,
   "http://english.ratopati.com/story/83789/narayani-kinar-beautification-with-embankment": 1792039252.42737,
   "https://gorkhapatraonline.com/news/226772": 1792039252.42737,
-  "https://nagariknews.nagariknetwork.com/politics/not-all-government-decisions-are-correct-even-if-there-is-a-two-thirds-majority-amresh-kumar-singh-51-65.html": 1792039252.42737
+  "https://nagariknews.nagariknetwork.com/politics/not-all-government-decisions-are-correct-even-if-there-is-a-two-thirds-majority-amresh-kumar-singh-51-65.html": 1792039252.42737,
+  "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaTYxY0ZoSXBMekpZaDBhNnhDUkpzLUlXRW0tTFdUQnhGNWFjOWdDTTVTa1JfSWp3blJ2N2RVRjZ1V2VPTmlvakhKNmtQaS1ZT19DVmxDVzMzSkpUeFRrNEdsOThtTVpiVU95eVpvejd1dWNSb3Z4dFNvOThTMW5XbDlQVjZBMDNjSk1IS2ZMd2xMdTFmamFPWUFWc2ZCc3c3NFRqMENKNHVLZ0hsell5R1ctTQ?oc=5": 1792039849.0506375,
+  "https://nagariknews.nagariknetwork.com/social-affairs/despite-the-hustle-and-bustle-of-dashain-bajura-farmers-are-busy-importing-rice-16-22.html": 1792039849.0506375
  },
  "queue": [
   {
@@ -2804,7 +2806,7 @@
    "cat": "economy",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "हिमाली पर्यटकीय राजमार्गको सम्भाव्यता अध्ययन सम्झौता",
@@ -5206,29 +5208,6 @@
    "hits": 1
   },
   {
-   "title": "Nepal identifies the cause of the devastating flash floods.",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOTFubUZrcXh4TWxLUDJwcnR5Sk1UbUhuTFpGZWxwT25aOUZhVkVQY0QtOTFGWW1faEdYMTJMaXk0d1dCeElHcXpJWDlwTUJVNi1tNTFJdGkzdURuNlE5a29ydVVXTUZ6SFFha3YzLWt0bjh3ejRkWHRYVHB1SE5mMXlSMngwakNyMnc?oc=5",
-   "source": "Vietnam.vn",
-   "ts": 1792036707,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Nepal identifies the cause of the devastating flash floods.",
-   "en": "Nepal identifies the cause of the devastating flash floods.",
-   "ne": "Nepal identifies the cause of the devastating flash floods.",
-   "imp": 4,
-   "tags": [
-    "Flood",
-    "Nepal",
-    "बाढी"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "AYORemit Appoints Paras Khadka as Global Brand Ambassador",
    "summary": "Kathmandu. AYORemit, a Nepali-owned international digital remittance company actively providing services in the UK, Australia, and Canada, has appointed former...",
    "link": "http://english.ratopati.com/story/83788/former-captain-paras-khadka-appointed-as-global-brand-ambassador-of-ayo-remit",
@@ -5930,7 +5909,7 @@
    "cat": "education",
    "val": 1,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "दसैँका सामग्री ढुवानी गर्न फेरीको पर्खाइ",
@@ -9384,9 +9363,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "health"
+  },
+  {
+   "ts": 1792039856.8016186,
+   "en": "Nepal Identifies Cause of Flash Floods Sweeping Away 200 Homes in Gorkha",
+   "ne": "Nepal Identifies Cause of Flash Floods Sweeping Away 200 Homes in Gorkha",
+   "link": "https://www.vietnam.vn/en/nepal-xac-dinh-nguyen-nhan-gay-ra-tran-lu-quet-tham-khoc",
+   "source": "Vietnam.vn",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "disaster"
   }
  ],
- "updated": 1792039259,
+ "updated": 1792039874,
  "pending_since": 1792039252.42737,
  "fb_blocks": [
   1790350880.4125228,
