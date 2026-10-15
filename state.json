@@ -1,6 +1,5 @@
 {
  "seen": {
-  "http://lokaantar.com/story/331245/2026/10/13/meeting-": 1791909073.4083252,
   "https://gorkhapatraonline.com/news/226575": 1791909655.0009656,
   "https://theannapurnaexpress.com/story/67903": 1791909655.0009656,
   "https://baahrakhari.com/detail/504865": 1791909655.0009656,
@@ -2184,7 +2183,8 @@
   "http://lokaantar.com/story/331402/2026/10/15/narayani-": 1792081256.1610172,
   "http://lokaantar.com/story/331400/2026/10/15/satungal-": 1792081256.1610172,
   "https://nagariknews.nagariknetwork.com/social-affairs/motorcyclist-dies-on-the-spot-after-being-hit-by-truck-in-dharan-88-14.html": 1792081256.1610172,
-  "http://lokaantar.com/story/331403/2026/10/15/budhigandaki-": 1792081256.1610172
+  "http://lokaantar.com/story/331403/2026/10/15/budhigandaki-": 1792081256.1610172,
+  "https://baahrakhari.com/detail/505077": 1792081879.7746694
  },
  "queue": [
   {
@@ -2369,75 +2369,6 @@
    "cat": "politics",
    "val": 3,
    "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "Electric wires pose growing threat to wildlife in Chitwan National Park",
-   "summary": "Chitwan, October 15 Electric wires installed at various structures inside Chitwan National Park have become a serious threat to wildlife, with elephants, rhinos and other animals dying from electrocution. According to...",
-   "link": "https://english.onlinekhabar.com/electric-wires-pose-growing-threat-to-wildlife-in-chitwan-national-park.html",
-   "source": "Onlinekhabar EN",
-   "ts": 1792052754,
-   "weight": 3,
-   "img": "http://english.onlinekhabar.com/wp-content/uploads/2022/09/Chitwan-National-Park.jpg",
-   "lang": "en",
-   "hl": "Electric wires pose growing threat to wildlife in Chitwan National Park",
-   "en": "Electric wires pose growing threat to wildlife in Chitwan National Park",
-   "ne": "Electric wires pose growing threat to wildlife in Chitwan National Park",
-   "imp": 3,
-   "tags": [
-    "ChitwanNationalPark",
-    "Wildlife",
-    "ElectricWires"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "सोलुखुम्बुमा ६४५ मतदाताको नामावली हटाइयो",
-   "summary": "सोलुखुम्बु समाचारदाता सोलुखुम्बु, असोज २९ गते । जिल्ला निर्वाचन कार्यालय सोलुखुम्बुले दोहोरो मतदाता नामावली हटाउने क्रममा जिल्लाका ६४५ मतदाताको नामावली हटाएको छ । मतदाता नामावलीमा...",
-   "link": "https://gorkhapatraonline.com/news/226804",
-   "source": "Gorkhapatra",
-   "ts": 1792052577,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/388277/conversions/nirbchn-original.jpg",
-   "lang": "ne",
-   "hl": "सोलुखुम्बुमा ६४५ मतदाताको नामावली हटाइयो",
-   "en": "सोलुखुम्बुमा ६४५ मतदाताको नामावली हटाइयो",
-   "ne": "सोलुखुम्बुमा ६४५ मतदाताको नामावली हटाइयो",
-   "imp": 2,
-   "tags": [
-    "Solukhumbu",
-    "VoterList",
-    "Election"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "दिल्लीका धेरै विद्यालयमा बम वि*स्फोटको धम्की, अनुसन्धान जारी",
-   "summary": "भारतको दिल्लीका धेरै विद्यालयलाई बमले उडाउने धम्की प्राप्त भएको छ।",
-   "link": "https://nagariknews.nagariknetwork.com/international/bomb-threats-in-several-delhi-schools-investigation-underway-79-13.html",
-   "source": "Nagarik News",
-   "ts": 1792053007,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1792053090_police%20delhi.jpg",
-   "lang": "ne",
-   "hl": "दिल्लीका धेरै विद्यालयमा बम वि*स्फोटको धम्की, अनुसन्धान जारी",
-   "en": "दिल्लीका धेरै विद्यालयमा बम वि*स्फोटको धम्की, अनुसन्धान जारी",
-   "ne": "दिल्लीका धेरै विद्यालयमा बम वि*स्फोटको धम्की, अनुसन्धान जारी",
-   "imp": 1,
-   "tags": [
-    "DelhiSchools",
-    "BombThreat",
-    "India"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
    "hits": 1
   },
   {
@@ -6368,7 +6299,7 @@
    "cat": "economy",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "इस्तानबुलमा ८० वर्षयताकै सबैभन्दा भारी वर्षा, तीन जनाको मृत्यु",
@@ -6693,17 +6624,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1791476460.8461936,
-   "en": "पछिल्लो डेढ वर्षमा विपद्बाट खर्बौंको क्षति, बिमामा सहभागिता ३ प्रतिशतले मात्र बढ्यो",
-   "ne": "पछिल्लो डेढ वर्षमा विपद्बाट खर्बौंको क्षति, बिमामा सहभागिता ३ प्रतिशतले मात्र बढ्यो",
-   "link": "https://baahrakhari.com/detail/504267",
-   "source": "Baahrakhari",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "disaster"
-  },
   {
    "ts": 1791478306.9231143,
    "en": "Energy Minister Shrestha Stresses Diversification to Reinforce Security",
@@ -9906,7 +9826,7 @@
    "cat": "crime"
   }
  ],
- "updated": 1792081262,
+ "updated": 1792081882,
  "pending_since": 1792080099.4669437,
  "fb_blocks": [
   1790350880.4125228,
