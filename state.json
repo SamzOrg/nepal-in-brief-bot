@@ -2393,28 +2393,6 @@
    "hits": 1
   },
   {
-   "title": "अमेरिकी सांसद इल्हान ओमारको नागरिकता प्रक्रियामाथि ट्रम्प प्रशासनद्वारा अनुसन्धान",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/505065",
-   "source": "Baahrakhari",
-   "ts": 1792072411,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "अमेरिकी सांसद इल्हान ओमारको नागरिकता प्रक्रियामाथि ट्रम्प प्रशासनद्वारा अनुसन्धान",
-   "en": "अमेरिकी सांसद इल्हान ओमारको नागरिकता प्रक्रियामाथि ट्रम्प प्रशासनद्वारा अनुसन्धान",
-   "ne": "अमेरिकी सांसद इल्हान ओमारको नागरिकता प्रक्रियामाथि ट्रम्प प्रशासनद्वारा अनुसन्धान",
-   "imp": 1,
-   "tags": [
-    "IlhanOmar",
-    "TrumpAdministration"
-   ],
-   "cat": "world",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Zelenskyy: Ukraine's defense cooperation with France is for mutual benefit",
    "summary": "Kathmandu. Ukrainian President Volodymyr Zelenskyy said on Thursday that his country's defense cooperation with France is for mutual benefit. This...",
    "link": "http://english.ratopati.com/story/83882/zelensky-stresses-cooperation-for-mutual-benefit-after-le-pens-comments",
@@ -2575,30 +2553,6 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "दसैंमा मासु: कति खानु ठीक, कति खाए ज्यानलाई जोखिम ?",
-   "summary": "नेपाली समाजमा दसैं भन्नेबित्तिकै पारिवारिक पुनर्मिलन र आत्मीयतासँगै मिठा-मसिना परिकारको उत्सव सम्झिइन्छ।...",
-   "link": "https://nagariknews.nagariknetwork.com/health/health-crises-and-scientific-dietary-solutions-43-78.html",
-   "source": "Nagarik News",
-   "ts": 1792072687,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1792073446_masu.png",
-   "lang": "ne",
-   "hl": "दसैंमा मासु: कति खानु ठीक, कति खाए ज्यानलाई जोखिम ?",
-   "en": "दसैंमा मासु: कति खानु ठीक, कति खाए ज्यानलाई जोखिम ?",
-   "ne": "दसैंमा मासु: कति खानु ठीक, कति खाए ज्यानलाई जोखिम ?",
-   "imp": 2,
-   "tags": [
-    "Dashain",
-    "MeatConsumption",
-    "HealthRisk",
-    "दसैं"
-   ],
-   "cat": "health",
-   "val": 1,
-   "teaser": true,
    "hits": 1
   },
   {
@@ -6593,8 +6547,8 @@
    "cat": "disaster"
   }
  ],
- "updated": 1792101063,
- "pending_since": 1792100453.7401786,
+ "updated": 1792101694,
+ "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
