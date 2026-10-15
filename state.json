@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://risingnepaldaily.com/news/87742": 1791859253.4212282,
-  "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNX1dCRHdFN3FpRlBBNDhwMy1TQTg1cVRKcjZGUklqNWExX1VpeWZXUzBGMEZwU21OR2lWTDVub3MzVVBISWV2amJyMl9vQXVIZkpGNGdCbV9aeUk3R29zUEJZUk1WR2VDcFJKOHp4anQ5NGZBVVVIMXN3REVITk1vaFpkbTlMTlJkT08tVVBsNmtMandzNkhxNGNjR09YYXlEanlVVDQ4RzFDQ3pDVGIxUTlFRURFdVdk?oc=5": 1791859253.4212282,
   "http://english.ratopati.com/story/83508/who-is-ahead-when-6877-votes-are-counted-for-the-public-relations-committee": 1791859851.2102802,
   "https://english.khabarhub.com/2026/13/571779/": 1791859851.2102802,
   "https://gorkhapatraonline.com/news/226481": 1791859851.2102802,
@@ -2192,32 +2190,10 @@
   "https://nagariknews.nagariknetwork.com/social-affairs/bolero-jeep-accident-in-jajarkot-two-dead-three-injured-68-44.html": 1792032047.1238995,
   "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZHh1QnJEOGRncXdnMjRMVG04TFo0VUdPUFNWTUdJTFc1cmFoRmFFY1JDcW53SW00V0hSUFFYTUpNMFVJWTRMWnZ6MmdiVXFfMWR4d01vakVwZDlFeFYtQ0dMX2xzOEdIRjM5RFJtUVZrVkFSZHlwQndQREoxYjlBTWU1LU1XTExib1FCQ3A0am9MTFJJMzQwc00zZmE2cDB1NGxPZllVaFI?oc=5": 1792032047.1238995,
   "http://lokaantar.com/story/331347/2026/10/15/round-up-": 1792032047.1238995,
-  "https://kathmandupost.com/national/2026/10/15/flood-displaced-rasuwa-students-resume-classes-in-lalitpur-1792031620": 1792032047.1238995
+  "https://kathmandupost.com/national/2026/10/15/flood-displaced-rasuwa-students-resume-classes-in-lalitpur-1792031620": 1792032047.1238995,
+  "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaXgyWDNIdV90VFFGMFFVWFBucmhOaGxETnl5N1VJN3ZGSGNBZ2I0SHVHT2NEWUxZM19acnNSZjVxcm5RY0Z2dVRSLThNV2MtTWFNWjVKeVFhMXE0bXVyZ0JjWHFwMG5jNTh5NHdHUm9VTU5uYlZydWdsNjYtcTRveE5hQUJPOGVYS09TaVhlaEIyZWs1cjVaT2FOWlU4S2lITlFzZml5aTA2V0FRYmtBRFNfX3ZYUm1qSExBSm5OWXlBTE1jbGNFWFFWSWcyLVE?oc=5": 1792032649.4232087
  },
  "queue": [
-  {
-   "title": "Liverpool Defeats LASK 6-3 in High-Scoring Champions League Match",
-   "summary": "Kathmandu. In a thrilling and high-scoring contest of the UEFA Champions League held on Wednesday, English club Liverpool defeated Austrian...",
-   "link": "http://english.ratopati.com/story/83759/barkolas-brilliant-hat-trick-against-lask-liverpool-moves-to-second-place-in-the-table",
-   "source": "Ratopati EN",
-   "ts": 1792003595,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/liverpool_KsVE6MLER7.webp",
-   "lang": "en",
-   "hl": "Liverpool Defeats LASK 6-3 in High-Scoring Champions League Match",
-   "en": "Liverpool Defeats LASK 6-3 in High-Scoring Champions League Match",
-   "ne": "Liverpool Defeats LASK 6-3 in High-Scoring Champions League Match",
-   "imp": 1,
-   "tags": [
-    "Liverpool",
-    "LASK",
-    "ChampionsLeague"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 3
-  },
   {
    "title": "Real Madrid Secures Dramatic 4-3 Victory Over Roma in Champions League",
    "summary": "Kathmandu. In a very exciting and dramatic match held on Thursday morning in the UEFA Champions League football, Spanish giant...",
@@ -3014,7 +2990,7 @@
    "cat": "infrastructure",
    "val": 1,
    "teaser": true,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "आमाको पालाको कुर्ता, छोरीको पुस्तामा भाइरल!",
@@ -4145,30 +4121,6 @@
     "स्वास्थ"
    ],
    "cat": "health",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Essential food prices surge ahead of Dashain, squeezing household budgets",
-   "summary": "Nepal Rastra Bank's consumer price index shows that food inflation has accelerated significantly from a year earlier.",
-   "link": "https://kathmandupost.com/money/2026/10/15/essential-food-prices-surge-ahead-of-dashain-squeezing-household-budgets",
-   "source": "Kathmandu Post",
-   "ts": 1792017073.9693022,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Essential food prices surge ahead of Dashain, squeezing household budgets",
-   "en": "Essential food prices surge ahead of Dashain, squeezing household budgets",
-   "ne": "Essential food prices surge ahead of Dashain, squeezing household budgets",
-   "imp": 4,
-   "tags": [
-    "Inflation",
-    "Dashain",
-    "FoodPrices",
-    "बजार"
-   ],
-   "cat": "economy",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -7506,9 +7458,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "disaster"
+  },
+  {
+   "ts": 1792032658.575657,
+   "en": "Nepal food inflation hits 6.77% in mid-August, squeezing budgets before Dashain",
+   "ne": "Nepal food inflation hits 6.77% in mid-August, squeezing budgets before Dashain",
+   "link": "https://kathmandupost.com/money/2026/10/15/essential-food-prices-surge-ahead-of-dashain-squeezing-household-budgets",
+   "source": "Kathmandu Post",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "economy"
   }
  ],
- "updated": 1792032051,
+ "updated": 1792032674,
  "pending_since": 1792032047.1238995,
  "fb_blocks": [
   1790350880.4125228,
