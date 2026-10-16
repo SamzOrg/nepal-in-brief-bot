@@ -2077,32 +2077,14 @@
   "https://www.setopati.com/kinmel/medical/400998": 1792150855.424595,
   "https://nagariknews.nagariknetwork.com/social-affairs/festive-safety-dialogue-with-passengers-and-citizens-over-tea-23-29.html": 1792150855.424595,
   "http://english.ratopati.com/story/83977/29-doctors-and-15-engineers-elected-to-congress-central-committee-under-gagans-leadership": 1792150855.424595,
-  "https://nagariknews.nagariknetwork.com/arts/kabaddi-5-after-the-final-match-for-all-age-groups-30-66.html": 1792150855.424595
+  "https://nagariknews.nagariknetwork.com/arts/kabaddi-5-after-the-final-match-for-all-age-groups-30-66.html": 1792150855.424595,
+  "https://gorkhapatraonline.com/news/226941": 1792151452.9950523,
+  "https://news.google.com/rss/articles/CBMidEFVX3lxTE0xOTdqeHhfQ2taSkd5d1B2Q1dBaVprSURKMFQ3cm9BMklOajg4T05DVTJ6OEtOWGtZTFczaThKUjZzcXprOTdJV2lKdWlxU2VJbmFYTmhEMm5uWl9sYkJMcklIVklZVnl4WE9LSV8tNlNkWEdt?oc=5": 1792151452.9950523,
+  "https://english.onlinekhabar.com/dsp-bhatta-best-investigator.html": 1792151452.9950523,
+  "http://english.ratopati.com/story/83981/dna-reports-of-buried-bodies-in-final-stages-body-identification-begins": 1792151452.9950523,
+  "https://nagariknews.nagariknetwork.com/social-affairs/residential-school-opening-in-lalitpur-for-67-flood-affected-children-66-10.html": 1792151452.9950523
  },
  "queue": [
-  {
-   "title": "सर्पदंशपछि झारफुकमा समय बिताउँदा पाँच वर्षीय बालकको मृत्यु",
-   "summary": "कल्याणपुर समाचारदाताकल्याणपुर (सप्तरी), असोज ३० गते । दसैँको रौनकले गाउँबस्ती ढाकिरहेका बेला सप्तरीको डाक्नेश्वरी नगरपालिका-८, कट्टी परवाहा टोलमा भने एउटा परिवार शोकमा डुबेको छ । प...",
-   "link": "https://gorkhapatraonline.com/news/226894",
-   "source": "Gorkhapatra",
-   "ts": 1792122593,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/388409/conversions/Pix3.jfif-original.jpg",
-   "lang": "ne",
-   "hl": "सर्पदंशपछि झारफुकमा समय बिताउँदा पाँच वर्षीय बालकको मृत्यु",
-   "en": "सर्पदंशपछि झारफुकमा समय बिताउँदा पाँच वर्षीय बालकको मृत्यु",
-   "ne": "सर्पदंशपछि झारफुकमा समय बिताउँदा पाँच वर्षीय बालकको मृत्यु",
-   "imp": 3,
-   "tags": [
-    "SnakeBite",
-    "ChildDeath",
-    "सर्पदंश"
-   ],
-   "cat": "health",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
   {
    "title": "Kaligandaki flood turns Tatopani hot spring into barren riverbed",
    "summary": "By Thakur Prasad Acharya, Beni, Oct. 16: The Kaliganaki river flood on September 27 has wiped out the natural hot spring...",
@@ -2197,29 +2179,6 @@
    "hits": 1
   },
   {
-   "title": "Minister Gita Chaudhary Highlights Government's Commitment to Food Security and Ending Hunger",
-   "summary": "Kathmandu. Minister for Agriculture, Forest and Environment, Gita Chaudhary, stated that the government has adopted a policy to end hunger...",
-   "link": "http://english.ratopati.com/story/83922/government-has-adopted-a-policy-to-ensure-sustainable-food-security-agriculture-minister-chaudhary",
-   "source": "Ratopati EN",
-   "ts": 1792122428,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/gita-chaudhary_6bM87azkpP.jpg",
-   "lang": "en",
-   "hl": "Minister Gita Chaudhary Highlights Government's Commitment to Food Security and Ending Hunger",
-   "en": "Minister Gita Chaudhary Highlights Government's Commitment to Food Security and Ending Hunger",
-   "ne": "Minister Gita Chaudhary Highlights Government's Commitment to Food Security and Ending Hunger",
-   "imp": 3,
-   "tags": [
-    "FoodSecurity",
-    "AgricultureMinistry",
-    "GitaChaudhary"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
    "title": "समावेशीकरणको दिशामा नयाँ फड्को : गोरखापत्रद्वारा प्रकाशित माझी भाषा",
    "summary": "",
    "link": "https://gorkhapatraonline.com/news/226896",
@@ -2261,29 +2220,6 @@
     "Protest"
    ],
    "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "सत्तामा पुग्दैमा नेता हुँदैनन्, नेपालमा जोकरहरूले मनोरञ्जन दिइरहेका छन् : मुमाराम खनाल",
-   "summary": "उनले दूरदृष्टि, राजनीतिक संस्कार र समाजप्रतिको निःस्वार्थ समर्पणबिना सत्तामा पुग्नेहरू कलाविहीन 'जोकर' बन्ने सम्भावना बढी रहेको बताएका छन्।...",
-   "link": "https://nagariknews.nagariknetwork.com/politics/coming-to-power-does-not-make-you-a-leader-clowns-are-providing-entertainment-in-nepal-mumaram-khanal-br-98-71.html",
-   "source": "Nagarik News",
-   "ts": 1792122406,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1768450057_mumaram%20khanal.jpg",
-   "lang": "ne",
-   "hl": "सत्तामा पुग्दैमा नेता हुँदैनन्, नेपालमा जोकरहरूले मनोरञ्जन दिइरहेका छन् : मुमाराम खनाल",
-   "en": "सत्तामा पुग्दैमा नेता हुँदैनन्, नेपालमा जोकरहरूले मनोरञ्जन दिइरहेका छन् : मुमाराम खनाल",
-   "ne": "सत्तामा पुग्दैमा नेता हुँदैनन्, नेपालमा जोकरहरूले मनोरञ्जन दिइरहेका छन् : मुमाराम खनाल",
-   "imp": 3,
-   "tags": [
-    "MumaramKhanal",
-    "NepaliPolitics",
-    "Leaders"
-   ],
-   "cat": "politics",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -2334,29 +2270,6 @@
    "hits": 1
   },
   {
-   "title": "घुस लिने र दिनेसँगै थाहा पाएर पनि चुप बस्ने देशका शत्रु हुन् : तोसिमा कार्की",
-   "summary": "राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) की सांसद तोसिमा कार्कीले घुस लिने र दिनेसँगै भ्रष्टाचारबारे जानकारी पाएर पनि मौन बस्नेहरू देशका शत्रु भएको बताएकी छन्।...",
-   "link": "https://nagariknews.nagariknetwork.com/politics/those-who-take-and-give-bribes-and-remain-silent-even-after-knowing-about-them-are-enemies-of-the-country-toshima-karki-81-95.html",
-   "source": "Nagarik News",
-   "ts": 1792122162,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1760414545_toshima.jpg",
-   "lang": "ne",
-   "hl": "घुस लिने र दिनेसँगै थाहा पाएर पनि चुप बस्ने देशका शत्रु हुन् : तोसिमा कार्की",
-   "en": "घुस लिने र दिनेसँगै थाहा पाएर पनि चुप बस्ने देशका शत्रु हुन् : तोसिमा कार्की",
-   "ne": "घुस लिने र दिनेसँगै थाहा पाएर पनि चुप बस्ने देशका शत्रु हुन् : तोसिमा कार्की",
-   "imp": 3,
-   "tags": [
-    "TosimaKarki",
-    "Corruption",
-    "RSP"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Haribol Gajurel Active in Socialist Awakening Campaign Led by Jhala Nath Khanal",
    "summary": "Leader Haribol Gajurel, expelled from the Communist Party of Nepal (CPN), is actively participating in the Socialist Awakening Campaign...",
    "link": "http://english.ratopati.com/story/83920/some-leaders-and-activists-in-uml-and-ncp-are-forced-to-stay-sooner-or-later-there-will-be-a-rebellion",
@@ -2378,29 +2291,6 @@
    "val": 2,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "Nepal Telecom Launches New Internet Packages",
-   "summary": "Kathmandu. State-owned Nepal Telecom has made available 30 Mbps internet service for Rs 4,999 from today. Although private sector...",
-   "link": "http://english.ratopati.com/story/83919/telecoms-fiber-internet-for-4999",
-   "source": "Ratopati EN",
-   "ts": 1792122338,
-   "weight": 2,
-   "img": "https://rpcdn.ratopati.com/archived-media/Nepal-Telecom-Logo.jpg",
-   "lang": "en",
-   "hl": "Nepal Telecom Launches New Internet Packages",
-   "en": "Nepal Telecom Launches New Internet Packages",
-   "ne": "Nepal Telecom Launches New Internet Packages",
-   "imp": 2,
-   "tags": [
-    "NepalTelecom",
-    "InternetPackage",
-    "Telecom"
-   ],
-   "cat": "tech",
-   "val": 2,
-   "teaser": false,
-   "hits": 4
   },
   {
    "title": "भोटेकोसी बाढी : एनजीओ र आईएनजीओका तीन अर्ब ३३ करोड बढीका कार्यक्रम स्वीकृत",
@@ -3225,29 +3115,6 @@
    "val": 3,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "Carney campaigns for Canadian unity before Alberta secession vote",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTUczN3BYaUNuTTB3b1dlYzdqRElTNG4ybTNoOVdFaFQzRkk0SF9iQmh3UVB2cHdYUGNES1dHMHFDVVNpUDZWX21PSWJfTUk4c1I2QzEyRDhPNWNBdkZjSVhDLUJraTA1M2hJaWNVcmQyaVdUM1FDamIwVWVPS3JseDh0dFZoYi1jeFliTWFXLV9qc3o1emdpWUl4Ry1acXBCMW81ZjN6RHZtR0N2Mmd4WEVfbjV0bjlOX2lTaA?oc=5",
-   "source": "myRepublica",
-   "ts": 1792122457,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Carney campaigns for Canadian unity before Alberta secession vote",
-   "en": "Carney campaigns for Canadian unity before Alberta secession vote",
-   "ne": "Carney campaigns for Canadian unity before Alberta secession vote",
-   "imp": 1,
-   "tags": [
-    "Carney",
-    "Canada",
-    "Alberta"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "फर्की फर्की आए दीपक र विराज, छाडेनन् दसैँ : रिलिजमा 'मोनोपोली' छ ?",
@@ -4662,29 +4529,6 @@
    "cat": "society",
    "val": 3,
    "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Turning emergency response into market lifelines",
-   "summary": "By Riaz LodhiA WFP helicopter delivers humanitarian relief and returns with hope, livelihoods, and economic opportunity for local farmers in the worst-affected communities of northern Nepal.Recent floods and landslides...",
-   "link": "https://theannapurnaexpress.com/story/67976",
-   "source": "Annapurna Express",
-   "ts": 1792122059.499014,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Turning emergency response into market lifelines",
-   "en": "Turning emergency response into market lifelines",
-   "ne": "Turning emergency response into market lifelines",
-   "imp": 2,
-   "tags": [
-    "EmergencyResponse",
-    "Nepal",
-    "Economy"
-   ],
-   "cat": "economy",
-   "val": 1,
-   "teaser": true,
    "hits": 1
   },
   {
@@ -6765,28 +6609,6 @@
    "hits": 1
   },
   {
-   "title": "Nepal Football League to begin on February 13",
-   "summary": "Kathmandu, October 16 The first edition of the Nepal Football League (NFL) will begin on February 13, organisers announced at a press conference on Friday. NFL head Kalyan Gurung said the league aims to open a new...",
-   "link": "https://english.onlinekhabar.com/nepal-football-league-february-13.html",
-   "source": "Onlinekhabar EN",
-   "ts": 1792148465,
-   "weight": 3,
-   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/10/received_1880401590041471-1024x647-1.jpeg",
-   "lang": "en",
-   "hl": "Nepal Football League to begin on February 13",
-   "en": "Nepal Football League to begin on February 13",
-   "ne": "Nepal Football League to begin on February 13",
-   "imp": 4,
-   "tags": [
-    "NepalFootballLeague",
-    "Football"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
    "title": "इरानविरुद्ध आणविक हतियार प्रयोग नगर्ने ट्रम्पको घोषणा",
    "summary": "",
    "link": "https://baahrakhari.com/detail/505144",
@@ -7634,6 +7456,77 @@
     "Movie"
    ],
    "cat": "culture",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "DSP Bhatta wins Nepal Police's best investigator award",
+   "summary": "Chitwan, October 16 Deputy Superintendent of Police (DSP) Subash Bhatta, who serves at the Area Police Office in Tandi, Chitwan, has been awarded the Best Crime Investigator prize on the occasion of the 71st Police Day....",
+   "link": "https://english.onlinekhabar.com/dsp-bhatta-best-investigator.html",
+   "source": "Onlinekhabar EN",
+   "ts": 1792151013,
+   "weight": 3,
+   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/10/DSP-Subas-Bhatta.jpg",
+   "lang": "en",
+   "hl": "DSP Bhatta wins Nepal Police's best investigator award",
+   "en": "DSP Bhatta wins Nepal Police's best investigator award",
+   "ne": "DSP Bhatta wins Nepal Police's best investigator award",
+   "imp": 2,
+   "tags": [
+    "NepalPolice",
+    "Award",
+    "DSPBhatta"
+   ],
+   "cat": "society",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "DNA Testing Nears Completion for Bhote Koshi Flood Victims",
+   "summary": "Kathmandu. The DNA testing of those who lost their lives in the Bhote Koshi flood in Rasuwa has reached the...",
+   "link": "http://english.ratopati.com/story/83981/dna-reports-of-buried-bodies-in-final-stages-body-identification-begins",
+   "source": "Ratopati EN",
+   "ts": 1792150865,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/body-management_4AuW0pD6AY.webp",
+   "lang": "en",
+   "hl": "DNA Testing Nears Completion for Bhote Koshi Flood Victims",
+   "en": "DNA Testing Nears Completion for Bhote Koshi Flood Victims",
+   "ne": "DNA Testing Nears Completion for Bhote Koshi Flood Victims",
+   "imp": 3,
+   "tags": [
+    "BhoteKoshi",
+    "Flood",
+    "DNATesting",
+    "बाढी"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "बाढी प्रभावित ६७ बालबालिकाका लागि ललितपुरमा आवासीय विद्यालय खोलिँदै",
+   "summary": "विद्यालयमा कक्षा १ देखि ८ सम्म अध्ययनरत ६७ जना बालबालिकाको नियमित पठनपाठनसँगै आवास, खानपान, स्वास्थ्य उपचार, दैनिक हेरचाह र सुरक्षाको व्यवस्था गरिनेछ।...",
+   "link": "https://nagariknews.nagariknetwork.com/social-affairs/residential-school-opening-in-lalitpur-for-67-flood-affected-children-66-10.html",
+   "source": "Nagarik News",
+   "ts": 1792150820,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2026/third-party/1792150767_New%20Project%20(40).jpg",
+   "lang": "ne",
+   "hl": "बाढी प्रभावित ६७ बालबालिकाका लागि ललितपुरमा आवासीय विद्यालय खोलिँदै",
+   "en": "बाढी प्रभावित ६७ बालबालिकाका लागि ललितपुरमा आवासीय विद्यालय खोलिँदै",
+   "ne": "बाढी प्रभावित ६७ बालबालिकाका लागि ललितपुरमा आवासीय विद्यालय खोलिँदै",
+   "imp": 3,
+   "tags": [
+    "Lalitpur",
+    "FloodVictims",
+    "School",
+    "बाढी"
+   ],
+   "cat": "society",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -10884,9 +10777,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "disaster"
+  },
+  {
+   "ts": 1792151473.1118834,
+   "en": "First Nepal Football League to start Feb 13 with seven teams",
+   "ne": "First Nepal Football League to start Feb 13 with seven teams",
+   "link": "https://english.onlinekhabar.com/nepal-football-league-february-13.html",
+   "source": "Onlinekhabar EN",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "sports"
   }
  ],
- "updated": 1792150864,
+ "updated": 1792151485,
  "pending_since": 1792150855.424595,
  "fb_blocks": [
   1790350880.4125228,
