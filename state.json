@@ -1,8 +1,5 @@
 {
  "seen": {
-  "http://english.ratopati.com/story/83665/130129-passengers-bought-advance-tickets-for-dashain": 1791960658.8838248,
-  "https://gorkhapatraonline.com/news/226651": 1791960658.8838248,
-  "https://kathmandupost.com/politics/2026/10/14/parliamentary-panel-halts-hearing-on-malaysia-ambassador-nominee-over-complaints": 1791960658.8838248,
   "https://english.khabarhub.com/2026/14/571949/": 1791961292.9558895,
   "https://english.onlinekhabar.com/pm-disaster-rescue-and-relief-fund-has-17-75-billion.html": 1791961292.9558895,
   "https://nagariknews.nagariknetwork.com/social-affairs/130-129-passengers-bought-advance-tickets-for-dashain-49-52.html": 1791961292.9558895,
@@ -2170,7 +2167,12 @@
   "http://english.ratopati.com/story/83944/public-procurement-monitoring-office-blacklists-construction-contractors-and-suppliers": 1792133455.9672873,
   "http://english.ratopati.com/story/83943/police-inspector-sunar-will-be-removed-from-service-if-he-does-not-report-within-7-days": 1792133455.9672873,
   "http://english.ratopati.com/story/83942/trump-cancels-plan-to-live-stream-executions-after-criticism": 1792133455.9672873,
-  "http://english.ratopati.com/story/83941/gajendra-narayan-singh-hospital-is-seeking-employees-for-various-positions": 1792133455.9672873
+  "http://english.ratopati.com/story/83941/gajendra-narayan-singh-hospital-is-seeking-employees-for-various-positions": 1792133455.9672873,
+  "https://baahrakhari.com/detail/505119": 1792134089.2602453,
+  "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRFhwX3A2cks0SUFONzRyRlBweVQtTnZGM19udHpnNW1kN19hMHVYbmdXSS1ZTnBVSW9HbGxMV2NQQXhpMkVnZjJRVWZzUExyRk1kbUpGaXVuNlhjTEdja2MxVVhoZzc5TlZzWkc1bDY3ZDdOQnFLSmtsU056aGxNNS1aYWx1ZDYxQUNfdTVpU2hyQXFEbkVWYmltYTh3YWlNSlB5cWU3dnVuY1ky?oc=5": 1792134089.2602453,
+  "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdmRBWGJyYUN1N1lVd1EtZTJKZ3VRbXdoRjAzY2l2dFgtVGU4bnJjNUIyTkRBRFZmT0kwc2ZqVTFqS2ZnbXk5ZTQ5dF9lYWpDb1JySFRMX2hMOUtCbkJrc1p1d1lKeTVZSTFJUTNUMW1SRHlYSERRbUR0Z2hmMHQtNlhsR3NhamlLNWN30gGfAUFVX3lxTE8xNmxIREcwSjVSVVZzYWlpVG1KWl9IQVJRTmFpRXpfUG1XRWFJN0hPSHNsTTBIY1JiNUZndi11b1JlbDZRdk5NVDJ0dzd4MGZPMEFQZkFxVzFMM3pzOEdzeXpsLWtrUlM2NEpPZ0JoTnhqT25HbThHX21FbEN3bFNYLWYtbU1rWWEzVktKSnRvbHl5QTRQNGtqWVRabXBtUQ?oc=5": 1792134089.2602453,
+  "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNl9GeWswN0htYUwxMHBqcERTRzFFVWtBeUx2ZjZNOW5vRFZLQ1RuTm5HQW9kUWVjRU12MEY5SmxnMHVBUW8xSGlGTUVLTlBCNXZLendzZzM0QmMwQjJlVUJ6MjBYNnlfYm1Hb040X0RsdXpSQmxfQzdJbGVHQ21pZkphcEtKVlY0S1NuS1Q5Rm0zZzBoVWduVkxycEV0WWVWM2EzMDRBajNPWmc0Xzh2VHUxOA?oc=5": 1792134089.2602453,
+  "https://news.google.com/rss/articles/CBMivgFBVV95cUxOc2xvMmN4R1hheER1Y3FtanJKWEdmZ2pkcS1JTGtJQjg2NVRCSVF3YTFpcmtXUEVzZHduWmRnYTh1UVd5WUJ3N01WZVNPckFaQXh5R1JEdzZCRTlQVGFNc0tDbE9qcmdlbTFJOU1VSkdsZzY1Zlc5V1NpaFJYZUZENVZDYm5LVXp4QU12R2RfYlNiVllWQnhEbUJXbXhyS0dWMWhSYkFjVnNSNWhUNVpOazFLMmdyb2RvTTI1dHJB?oc=5": 1792134089.2602453
  },
  "queue": [
   {
@@ -7262,7 +7264,7 @@
    "cat": "society",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Home Minister Gurung Directs Security Agencies to Work Centered on Public",
@@ -7527,20 +7529,32 @@
    "val": 3,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "Nepal's devastating flood exposes the risks of resettling disaster survivors",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOc2xvMmN4R1hheER1Y3FtanJKWEdmZ2pkcS1JTGtJQjg2NVRCSVF3YTFpcmtXUEVzZHduWmRnYTh1UVd5WUJ3N01WZVNPckFaQXh5R1JEdzZCRTlQVGFNc0tDbE9qcmdlbTFJOU1VSkdsZzY1Zlc5V1NpaFJYZUZENVZDYm5LVXp4QU12R2RfYlNiVllWQnhEbUJXbXhyS0dWMWhSYkFjVnNSNWhUNVpOazFLMmdyb2RvTTI1dHJB?oc=5",
+   "source": "KSAT",
+   "ts": 1792131168,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "Nepal's devastating flood exposes the risks of resettling disaster survivors",
+   "en": "Nepal's devastating flood exposes the risks of resettling disaster survivors",
+   "ne": "Nepal's devastating flood exposes the risks of resettling disaster survivors",
+   "imp": 4,
+   "tags": [
+    "Flood",
+    "Nepal",
+    "DisasterManagement"
+   ],
+   "cat": "disaster",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1791528658.3744957,
-   "en": "70% of Nepalis Struggle to Afford Housing Costs, Study Reveals",
-   "ne": "70% of Nepalis Struggle to Afford Housing Costs, Study Reveals",
-   "link": "http://english.ratopati.com/story/83005/70-percent-of-nepalis-have-difficulty-affording-housing-expenses",
-   "source": "Ratopati EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "economy"
-  },
   {
    "ts": 1791530459.4362712,
    "en": "ANFA President and Three Officials Charged Over Financial Irregularities in Lalitpur",
@@ -10765,8 +10779,8 @@
    "cat": "disaster"
   }
  ],
- "updated": 1792133474,
- "pending_since": null,
+ "updated": 1792134095,
+ "pending_since": 1792134089.2602453,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
