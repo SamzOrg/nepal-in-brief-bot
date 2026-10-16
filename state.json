@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://theannapurnaexpress.com/story/67939": 1792021251.7593758,
-  "https://theannapurnaexpress.com/story/67938": 1792021251.7593758,
   "https://www.bbc.co.uk/news/articles/cvy0rd1j2kzlo?at_medium=RSS&at_campaign=rss": 1792021851.1874566,
   "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1WMlJGRGw5RUszSUdhSVV6U2ZkQzM0eF9VWDZCRjBCYlF2YnJCRGJaVTU4MmFIRDR4RThaMkktN1J6aEhYaktYWG1tVExLS21fVnkzVmxWcXFRanN2MEplQmxFdWlOOU0?oc=5": 1792021851.1874566,
   "https://news.google.com/rss/articles/CBMiW0FVX3lxTE14ZlNaQmYxY3ZHUnRrN3ZxcnYtWDNzQXBJVW5faFNHbml0YjhKdVJPbFVhZ1piMDNTd2xEc0hCWDVWcFNwVjVvdk1JTTJnS0ppZjNla0ZOdXRobmM?oc=5": 1792021851.1874566,
@@ -2040,7 +2038,12 @@
   "https://theannapurnaexpress.com/story/67996": 1792191678.9806144,
   "https://theannapurnaexpress.com/story/67995": 1792191678.9806144,
   "https://theannapurnaexpress.com/story/67994": 1792191678.9806144,
-  "https://theannapurnaexpress.com/story/67993": 1792191678.9806144
+  "https://theannapurnaexpress.com/story/67993": 1792191678.9806144,
+  "https://gorkhapatraonline.com/news/226948": 1792194646.0577512,
+  "https://news.google.com/rss/articles/CBMirgFBVV95cUxONnIzN1p5ZHU4LTdHaHl3UzdEaGNuenZMTE1UOTlzLTMzU1RHM081VWVobU5GenptaGxsNjZhYVVXT0tGcDZvbGZSRDFVRjdXR0Z0eUJIQjhLcHFhclNUTzgzc0VWUmxBdFNQb2tCeWY5MHZVeEhzTEUzV25HOHdMSEJQalFGbG9RSlJXQ05HTXkyT1VaZUNrR1N0bEdIb2pMZ1c5ZWlBc3BiaW1nMnc?oc=5": 1792194646.0577512,
+  "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRzFlZUVuS085SzczVDAwamdYM1hmZldCRGFoN19EV3dEekRERGl1Y3hOTENUVmNJVkxKZUtvU05aa2Y1NGM1YWhSTTk4OTAzZmxLZTQyOU5MVEFEa0xfMmxIckFiVVpBUmJhMWpDTUh6M0NtcUpsdnZ6Z0NvV1o4ZnREQVNPbWpQa3FrajRJMNIBkwFBVV95cUxPTmpSZ0VCNDR4RWxmeWtMckF6UzI5d3NtM3dBa21PbEVOOUJtVUNsOWlWX04zLWY0Qi16ZG5nNS1SaS1vY3R2WnpmOEdIYi1aUW04MjVWT3ExVENMbk1mMXpVdS1Ha3ZNMnd1R29BWndscTJja21RNzBfU1MwLWhwZXZSUWdxRExaY3JFZktoTi05TDg?oc=5": 1792194646.0577512,
+  "https://theannapurnaexpress.com/story/67998": 1792194646.0577512,
+  "https://theannapurnaexpress.com/story/67997": 1792194646.0577512
  },
  "queue": [
   {
@@ -2337,29 +2340,6 @@
    "hits": 1
   },
   {
-   "title": "Police step up 'festival-centric security'",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPLU5vMUo1MzBhblFYdjQyRzN4Y2h2TW1kSV8wZUVuZmxoTG5sT2pOQzY3a0x0bVFUMm8xam9DeHd6X055OVpERnoySXZIZWIwYmlNOFNJcS1oVEJENEFVcEhHajJPNGdzMWRwM3M0NkU2XzhXMWJkQ2JWR0xEcTRFYkI5eDVEaWlsOFV0cm8tTEYwTWszY2JPbGlYNA?oc=5",
-   "source": "myRepublica",
-   "ts": 1792166760,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Police step up 'festival-centric security'",
-   "en": "Police step up 'festival-centric security'",
-   "ne": "Police step up 'festival-centric security'",
-   "imp": 3,
-   "tags": [
-    "NepalPolice",
-    "FestivalSecurity",
-    "चाडपर्व"
-   ],
-   "cat": "society",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Can India See A Nepal Or Bangladesh? NDTV Editors Debate",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWTAxMGZZdURxdWc4S3l0c1hOR1J2UkZKSW5kQV9ETDRROGFpSnlxNmN1T0tlblJUOUdWcDRXQXNwZUhJemhzRmZuTmlpbWU3ZTFRTkhsckJoUG1UMEFkdWE2WDhRRVlyWnZtbXBEb3hIRnczOUUyLU5fcW5fZVRYNXdRTjNUYTZXVnMyeDdHTHBlRnc0?oc=5",
@@ -2381,29 +2361,6 @@
    "val": 1,
    "teaser": false,
    "hits": 2
-  },
-  {
-   "title": "Flash Protests Keep the Flag Flying; Dipke-Bora's Detentions, Police Action Fail to Deter Delhi's Protesters",
-   "summary": "Delhi Police and security personnel were seen verbally and physically assaulting protesters carrying the national flag, as they forcibly dragged them into detention buses after dark.",
-   "link": "https://kathmandupost.com/world/2026/10/16/flash-protests-keep-the-flag-flying-dipke-bora-s-detentions-police-action-fail-to-deter-delhi-s-protesters",
-   "source": "Kathmandu Post",
-   "ts": 1792165253.5596368,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Flash Protests Keep the Flag Flying; Dipke-Bora's Detentions, Police Action Fail to Deter Delhi's Protesters",
-   "en": "Flash Protests Keep the Flag Flying; Dipke-Bora's Detentions, Police Action Fail to Deter Delhi's Protesters",
-   "ne": "Flash Protests Keep the Flag Flying; Dipke-Bora's Detentions, Police Action Fail to Deter Delhi's Protesters",
-   "imp": 1,
-   "tags": [
-    "Delhi",
-    "Protest",
-    "Police"
-   ],
-   "cat": "world",
-   "val": 1,
-   "teaser": false,
-   "hits": 1
   },
   {
    "title": "Influencer's 218-km overnight dash to Nepal hours before murder FIR under scanner | Hindustan Times",
@@ -2448,30 +2405,6 @@
    ],
    "cat": "society",
    "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "DNA samples requested from families of six South Africans missing in Nepal floods",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQelZfem9mYUx0WUlBcktCc0I2bzNFTU9jVU1KUy0xaDRBQkh4alJvalRicXRsSThDNDg5ZFZhX3lIVmQxWXJYamZhX1pMYlkyLWNrVVFjTkhQZTBLQXp6NVI0enRFWXkyVFpXbDdrQS1QaXdlUUgxUk9pRzNTMi1hMGpwZENpTzFQNGxRUl8wNGhLSXRndjZFSVJVZWFyXzJuV2lmTU1JQmNyNW9BRTVsTFVOVkhPTkdyeUZWRXNWaHAtelQ1Y2EtMUsxQmlLNkItbzZyZ3Q3RQ?oc=5",
-   "source": "weekendargus.co.za",
-   "ts": 1792175969,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "DNA samples requested from families of six South Africans missing in Nepal floods",
-   "en": "DNA samples requested from families of six South Africans missing in Nepal floods",
-   "ne": "DNA samples requested from families of six South Africans missing in Nepal floods",
-   "imp": 3,
-   "tags": [
-    "SouthAfrica",
-    "NepalFloods",
-    "DNA",
-    "पहिरो"
-   ],
-   "cat": "disaster",
-   "val": 3,
    "teaser": false,
    "hits": 1
   },
@@ -2584,6 +2517,74 @@
     "WhiteHouse",
     "Ukraine",
     "USA"
+   ],
+   "cat": "world",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "घरपालुवा कुकुरका लागि 'डग होस्टेल'",
+   "summary": "काठमाडौँ, असोज ३१ गते । दसैँ नजिकिएसँगै बजारमा चहलपहल बढेको छ । सङ्घीय राजधानी काठमाडौँबाट दसैँ मनाउन नयाँ उत्साह र उमङ्ग बोकेर धेरै जना घर फर्किरहेका छन् तर काठमाडौँमा कुकुर पालेर...",
+   "link": "https://gorkhapatraonline.com/news/226948",
+   "source": "Gorkhapatra",
+   "ts": 1792193904,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/388477/conversions/anchor-news-photo-original.jpg",
+   "lang": "ne",
+   "hl": "घरपालुवा कुकुरका लागि 'डग होस्टेल'",
+   "en": "घरपालुवा कुकुरका लागि 'डग होस्टेल'",
+   "ne": "घरपालुवा कुकुरका लागि 'डग होस्टेल'",
+   "imp": 2,
+   "tags": [
+    "DogHostel",
+    "Pets",
+    "कुकुर"
+   ],
+   "cat": "society",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "DPS Jammu students shine at Indo-Nepal Taekwondo C'ship",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRzFlZUVuS085SzczVDAwamdYM1hmZldCRGFoN19EV3dEekRERGl1Y3hOTENUVmNJVkxKZUtvU05aa2Y1NGM1YWhSTTk4OTAzZmxLZTQyOU5MVEFEa0xfMmxIckFiVVpBUmJhMWpDTUh6M0NtcUpsdnZ6Z0NvV1o4ZnREQVNPbWpQa3FrajRJMNIBkwFBVV95cUxPTmpSZ0VCNDR4RWxmeWtMckF6UzI5d3NtM3dBa21PbEVOOUJtVUNsOWlWX04zLWY0Qi16ZG5nNS1SaS1vY3R2WnpmOEdIYi1aUW04MjVWT3ExVENMbk1mMXpVdS1Ha3ZNMnd1R29BWndscTJja21RNzBfU1MwLWhwZXZSUWdxRExaY3JFZktoTi05TDg?oc=5",
+   "source": "Daily Excelsior",
+   "ts": 1792190394,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "DPS Jammu students shine at Indo-Nepal Taekwondo C'ship",
+   "en": "DPS Jammu students shine at Indo-Nepal Taekwondo C'ship",
+   "ne": "DPS Jammu students shine at Indo-Nepal Taekwondo C'ship",
+   "imp": 2,
+   "tags": [
+    "Taekwondo",
+    "Jammu",
+    "Nepal"
+   ],
+   "cat": "sports",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "More than one million species face extinction, warns UN chief",
+   "summary": "The United Nations Secretary-General appealed on Friday for governments, businesses and communities to accelerate efforts to protect biodiversity for future generations and all life on Earth.Guterres was speaking in...",
+   "link": "https://theannapurnaexpress.com/story/67997",
+   "source": "Annapurna Express",
+   "ts": 1792180247.4672804,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "More than one million species face extinction, warns UN chief",
+   "en": "More than one million species face extinction, warns UN chief",
+   "ne": "More than one million species face extinction, warns UN chief",
+   "imp": 1,
+   "tags": [
+    "Extinction",
+    "Environment"
    ],
    "cat": "world",
    "val": 2,
@@ -5814,10 +5815,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "society"
+  },
+  {
+   "ts": 1792194654.3378792,
+   "en": "3,506 Police Deployed in Kathmandu Valley for Festival Security",
+   "ne": "3,506 Police Deployed in Kathmandu Valley for Festival Security",
+   "link": "https://myrepublica.nagariknetwork.com/news/police-step-up-festival-centric-security-39-82.html",
+   "source": "myRepublica",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "society"
   }
  ],
- "updated": 1792194048,
- "pending_since": 1792192247.4613626,
+ "updated": 1792194669,
+ "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
