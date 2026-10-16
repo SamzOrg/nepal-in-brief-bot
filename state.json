@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeHp6dUx2TkR1SHlDUlhfVjFFUUI2S0NnaFBmMjVnLUxRaFpwTzlvRzJleUJBT0RXdlI3ektsSWJXMzVSYmo0a2F3NWhNQmFIZjJPc0lIQ1JmazVqT01CUzFmazlVR1Zmc2Rkc0pNbGdVNTVXdlFRRkpNS0hQQXJ3dkVTVHEwT1Fv?oc=5": 1791939051.0254707,
-  "https://kathmandupost.com/national/2026/10/14/nepal-seeks-german-embassy-s-help-to-resolve-passport-payment-dispute-1791938796": 1791939051.0254707,
   "https://gorkhapatraonline.com/news/226592": 1791939690.936597,
   "https://english.khabarhub.com/2026/14/571896/": 1791939690.936597,
   "https://kathmandupost.com/politics/2026/10/14/chief-ministers-renew-old-demands-seek-fresh-cooperation-after-nine-years-of-federal-nepal": 1791939690.936597,
@@ -2152,7 +2150,9 @@
   "https://risingnepaldaily.com/news/87846": 1792111255.8585927,
   "https://risingnepaldaily.com/news/87845": 1792111255.8585927,
   "https://gorkhapatraonline.com/news/226859": 1792111849.219935,
-  "https://nagariknews.nagariknetwork.com/social-affairs/temporary-housing-for-landslide-victims-through-shramdan-53-81.html": 1792111849.219935
+  "https://nagariknews.nagariknetwork.com/social-affairs/temporary-housing-for-landslide-victims-through-shramdan-53-81.html": 1792111849.219935,
+  "http://lokaantar.com/story/331407/2026/10/16/bhotekoshi-badhi-": 1792112488.321864,
+  "https://www.setopati.com/social/400948": 1792112488.321864
  },
  "queue": [
   {
@@ -2591,20 +2591,32 @@
    "val": 2,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "भोटेकोशी-त्रिशूली बाढीका कारण क्षतिग्रस्त १८ झोलुंगे पुल मर्मतपछि सञ्चालनमा",
+   "summary": "ती सबै पुल मर्मत गरी सञ्चालनमा ल्याइएको कार्यालयका योजना प्रमुख सहसचिव शङ्कर बुढाथोकीले जानकारी दिए।",
+   "link": "https://www.setopati.com/social/400948",
+   "source": "Setopati",
+   "ts": 1792112323,
+   "weight": 3,
+   "img": null,
+   "lang": "ne",
+   "hl": "भोटेकोशी-त्रिशूली बाढीका कारण क्षतिग्रस्त १८ झोलुंगे पुल मर्मतपछि सञ्चालनमा",
+   "en": "भोटेकोशी-त्रिशूली बाढीका कारण क्षतिग्रस्त १८ झोलुंगे पुल मर्मतपछि सञ्चालनमा",
+   "ne": "भोटेकोशी-त्रिशूली बाढीका कारण क्षतिग्रस्त १८ झोलुंगे पुल मर्मतपछि सञ्चालनमा",
+   "imp": 2,
+   "tags": [
+    "Bhotekoshi",
+    "Trishuli",
+    "Bridge"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1791507058.0231984,
-   "en": "कोसी, वाग्मती र सुदूरपश्चिमका केही स्थानमा भारी वर्षाको पूर्वानुमान",
-   "ne": "कोसी, वाग्मती र सुदूरपश्चिमका केही स्थानमा भारी वर्षाको पूर्वानुमान",
-   "link": "https://baahrakhari.com/detail/504322",
-   "source": "Baahrakhari",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "disaster"
-  },
   {
    "ts": 1791508853.1742241,
    "en": "Nepal and Oman conclude second bilateral consultation meeting in Kathmandu",
@@ -5818,7 +5830,7 @@
    "cat": "sports"
   }
  ],
- "updated": 1792111869,
+ "updated": 1792112493,
  "pending_since": 1792111849.219935,
  "fb_blocks": [
   1790350880.4125228,
