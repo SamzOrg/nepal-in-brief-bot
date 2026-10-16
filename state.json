@@ -2142,7 +2142,10 @@
   "https://gorkhapatraonline.com/news/226889": 1792122057.8818836,
   "https://gorkhapatraonline.com/news/226888": 1792122057.8818836,
   "https://gorkhapatraonline.com/news/226887": 1792122057.8818836,
-  "https://gorkhapatraonline.com/news/226886": 1792122057.8818836
+  "https://gorkhapatraonline.com/news/226886": 1792122057.8818836,
+  "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZjlEcHZrd0MwUHk1aGJMNVZJb0ZFYUJDMFFWOHd0akRqeG00cGtxd2d3Y1R5eVJpSXVvX29DN0c2aHlLcEVDTEpuemxjMjh5dGJxeUtCNlRWdTRHWHBBV2NSdHdSTWt1WFd0QXJxWjRqRlVwcl9DdkhDc3liZjVhYjFGX1lnTVcyazlBVlgxTV9nV3JRc3lYcUxtR040b1I2RE81NWV5X0hMX0dpRjEyRkVUbw?oc=5": 1792122652.3282485,
+  "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOE42b1l2Ul80UTBqOEQ1Qm9TZEhGVlRWaTVudUJ2TUREd3hOOC1WTmhNY3Y2QVZaRWlScDVKbmt2Y214bDU5cFJrb2ZUU2RfUGsycXVJQmluR3pCM0laNnFCLWViaXRMWV9WUXVZc0RlTXM3X3pVVzR3cjhuNWtqUS1MUGVZMGJYN1lncTFfV2tqQXFXWXU4LWU1SlhKbF9yZWNyNTBtY3hPRnNWV0tuc2ltd3ZxX1A0?oc=5": 1792122652.3282485,
+  "https://gorkhapatraonline.com/news/226894": 1792122652.3282485
  },
  "queue": [
   {
@@ -4129,7 +4132,7 @@
    "cat": "world",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Trump shuts down Hegseth plan to livestream military execution",
@@ -5110,7 +5113,7 @@
    "cat": "world",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "कर्मचारीका काममा कडाइ गर्दै सर्वोच्चको २० बुँदे निर्देशन",
@@ -5341,20 +5344,32 @@
    "val": 1,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "सर्पदंशपछि झारफुकमा समय बिताउँदा पाँच वर्षीय बालकको मृत्यु",
+   "summary": "कल्याणपुर समाचारदाताकल्याणपुर (सप्तरी), असोज ३० गते । दसैँको रौनकले गाउँबस्ती ढाकिरहेका बेला सप्तरीको डाक्नेश्वरी नगरपालिका-८, कट्टी परवाहा टोलमा भने एउटा परिवार शोकमा डुबेको छ । प...",
+   "link": "https://gorkhapatraonline.com/news/226894",
+   "source": "Gorkhapatra",
+   "ts": 1792122593,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/388409/conversions/Pix3.jfif-original.jpg",
+   "lang": "ne",
+   "hl": "सर्पदंशपछि झारफुकमा समय बिताउँदा पाँच वर्षीय बालकको मृत्यु",
+   "en": "सर्पदंशपछि झारफुकमा समय बिताउँदा पाँच वर्षीय बालकको मृत्यु",
+   "ne": "सर्पदंशपछि झारफुकमा समय बिताउँदा पाँच वर्षीय बालकको मृत्यु",
+   "imp": 3,
+   "tags": [
+    "SnakeBite",
+    "ChildDeath",
+    "सर्पदंश"
+   ],
+   "cat": "health",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1791517850.4347157,
-   "en": "Govt to build 50 prefab houses for Bhotekoshi flood victims before Dashain",
-   "ne": "Govt to build 50 prefab houses for Bhotekoshi flood victims before Dashain",
-   "link": "https://myrepublica.nagariknetwork.com/news/govt-to-build-50-model-houses-for-bhotekoshi-flood-victims-before-dashain-26-91.html",
-   "source": "myRepublica",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "society"
-  },
   {
    "ts": 1791519666.6676533,
    "en": "World Bank estimates $1.66B in physical damage from Nepal floods",
@@ -8568,8 +8583,8 @@
    "cat": "disaster"
   }
  ],
- "updated": 1792122064,
- "pending_since": null,
+ "updated": 1792122656,
+ "pending_since": 1792122652.3282485,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
