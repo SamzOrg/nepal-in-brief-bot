@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://english.khabarhub.com/2026/14/572028/": 1791987056.6138642,
-  "http://lokaantar.com/story/331319/2026/10/14/japan-": 1791987056.6138642,
   "https://english.onlinekhabar.com/rsp-makes-leadership-academy-exam-mandatory-for-local-election-candidates.html": 1791987655.7568567,
   "http://english.ratopati.com/story/83752/saudi-arabia-and-malaysia-did-not-receive-ambassadors": 1791988276.2056735,
   "https://www.setopati.com/politics/400857": 1791988276.2056735,
@@ -2036,7 +2034,8 @@
   "http://lokaantar.com/story/331454/2026/10/16/machhapuchhre-bank-": 1792158655.3309035,
   "https://nagariknews.nagariknetwork.com/sports/icc-recognizes-npl-br-18-61.html": 1792158655.3309035,
   "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQOEVNNE9fbzhXOFlSQzlmVTBYNzVpVkp4Ul91X0JEeUN6cXFCaFpIczlpWUJhcDVZWEdBSUVyelNpRUE5UGl1OEo1ZV8xdmpJQVZjVS1Uak5DUmtzVmpVZkdOM1R0bUs4Vjk1MmV6bWc3UHo2U1k4N0d0X2x5N1VTMktuOTB1Z0NNTXl3R2gzSE53a2thNUtPQWFqRy1RNlVNdV9odmhEdnFPOU1BX0xFQW5NS2ZqWEpxdTkyTUNOT1JETi1PUV9RZkIzVDNhY3RM?oc=5": 1792159290.0131133,
-  "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9kZS00NThCckdqc0UzQVp6akdLS3NYMWF2OUJpWHBXR3ZZN2NxbmFJWGZjM3FsRnptZm40UXlZX3JPeGg3VjExLVpHOU5SLUl5a2ZUWlNHb0NROEU?oc=5": 1792159290.0131133
+  "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9kZS00NThCckdqc0UzQVp6akdLS3NYMWF2OUJpWHBXR3ZZN2NxbmFJWGZjM3FsRnptZm40UXlZX3JPeGg3VjExLVpHOU5SLUl5a2ZUWlNHb0NROEU?oc=5": 1792159290.0131133,
+  "https://baahrakhari.com/detail/505158": 1792159962.5386064
  },
  "queue": [
   {
@@ -6672,20 +6671,31 @@
    "val": 3,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "बागलुङमा भ्यानको ठक्करबाट बालकको मृत्यु",
+   "summary": "",
+   "link": "https://baahrakhari.com/detail/505158",
+   "source": "Baahrakhari",
+   "ts": 1792159947,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "बागलुङमा भ्यानको ठक्करबाट बालकको मृत्यु",
+   "en": "बागलुङमा भ्यानको ठक्करबाट बालकको मृत्यु",
+   "ne": "बागलुङमा भ्यानको ठक्करबाट बालकको मृत्यु",
+   "imp": 2,
+   "tags": [
+    "Baglung",
+    "BusAccident"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1791555064.6436076,
-   "en": "5 Killed and 14 Injured After Bus Plunges Off Road in Central Nepal",
-   "ne": "5 Killed and 14 Injured After Bus Plunges Off Road in Central Nepal",
-   "link": "https://www.etvbharat.com/en/international/many-killed-several-injured-in-accident-in-central-nepal-enn26100906459",
-   "source": "ETV Bharat",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "disaster"
-  },
   {
    "ts": 1791556859.448774,
    "en": "Oman beats Canada by 41 runs in League 2 to boost Nepal's top-six race",
@@ -9910,7 +9920,7 @@
    "cat": "politics"
   }
  ],
- "updated": 1792159856,
+ "updated": 1792159970,
  "pending_since": 1792158655.3309035,
  "fb_blocks": [
   1790350880.4125228,
