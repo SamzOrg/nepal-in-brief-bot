@@ -2150,7 +2150,9 @@
   "https://risingnepaldaily.com/news/87847": 1792111255.8585927,
   "https://gorkhapatraonline.com/news/226857": 1792111255.8585927,
   "https://risingnepaldaily.com/news/87846": 1792111255.8585927,
-  "https://risingnepaldaily.com/news/87845": 1792111255.8585927
+  "https://risingnepaldaily.com/news/87845": 1792111255.8585927,
+  "https://gorkhapatraonline.com/news/226859": 1792111849.219935,
+  "https://nagariknews.nagariknetwork.com/social-affairs/temporary-housing-for-landslide-victims-through-shramdan-53-81.html": 1792111849.219935
  },
  "queue": [
   {
@@ -2196,52 +2198,6 @@
    "val": 3,
    "teaser": false,
    "hits": 2
-  },
-  {
-   "title": "1,296 Recruits Graduate from Armed Police Training",
-   "summary": "Kathmandu. A total of 1,296 trainee recruits who completed the Armed Police Basic Training conducted at the Armed Police Training...",
-   "link": "http://english.ratopati.com/story/83895/1296-armed-police-force-personnel-deployed-at-once",
-   "source": "Ratopati EN",
-   "ts": 1792082963,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/uJCmcqVNl4.jpg",
-   "lang": "en",
-   "hl": "1,296 Recruits Graduate from Armed Police Training",
-   "en": "1,296 Recruits Graduate from Armed Police Training",
-   "ne": "1,296 Recruits Graduate from Armed Police Training",
-   "imp": 2,
-   "tags": [
-    "ArmedPolice",
-    "Training",
-    "Recruits"
-   ],
-   "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Chhayanath Rara Municipality Provides Financial Aid to Inter-caste Marriage Couples",
-   "summary": "Mugu. Chhayanath Rara Municipality has provided financial assistance of Rs 100,000 each to two couples who entered into inter-caste marriage,...",
-   "link": "http://english.ratopati.com/story/83894/two-couples-who-get-married-in-mugu-get-rs-200000-as-incentive",
-   "source": "Ratopati EN",
-   "ts": 1792082625,
-   "weight": 2,
-   "img": "https://rpcdn.ratopati.com/media/albums/marriage_obO7V0Tzip.jpg",
-   "lang": "en",
-   "hl": "Chhayanath Rara Municipality Provides Financial Aid to Inter-caste Marriage Couples",
-   "en": "Chhayanath Rara Municipality Provides Financial Aid to Inter-caste Marriage Couples",
-   "ne": "Chhayanath Rara Municipality Provides Financial Aid to Inter-caste Marriage Couples",
-   "imp": 2,
-   "tags": [
-    "ChhayanathRara",
-    "FinancialAid",
-    "InterCasteMarriage"
-   ],
-   "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
   },
   {
    "title": "'भक्तपुरलाई नमुना जिल्ला बनाउँछौँ'",
@@ -2546,30 +2502,6 @@
    "hits": 1
   },
   {
-   "title": "Subash Tamang set to make history as first Nepali golfer on DP World Tour",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SamRDWEdkRTd5NGtSMWFtQnVjNzU5TVQ2R1B5Zkx4RU03cnEtOTBWT21raWtJQkF5cmxRZU5Sa2czdlZRdFVLUXpEYnptTjJFc2tyWFJHdGhOZw?oc=5",
-   "source": "Nepali Patro",
-   "ts": 1792104997,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Subash Tamang set to make history as first Nepali golfer on DP World Tour",
-   "en": "Subash Tamang set to make history as first Nepali golfer on DP World Tour",
-   "ne": "Subash Tamang set to make history as first Nepali golfer on DP World Tour",
-   "imp": 4,
-   "tags": [
-    "SubashTamang",
-    "Golf",
-    "DPWorldTour",
-    "नेपाल"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Support mothers during childbirth: Guideline",
    "summary": "By A Staff Reporter, Kathmandu, Oct. 16: Ministry of Health and Food Safety has introduced a new provision to prioritise...",
    "link": "https://risingnepaldaily.com/news/87847",
@@ -2634,6 +2566,28 @@
     "MinisterLamsal"
    ],
    "cat": "economy",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "पहिरो प्रभावितलाई श्रमदानबाट अस्थायी आवास",
+   "summary": "म्याग्दीको बेनी नगरपालिका-९ ढोल्ठानमा स्वयंसेवकहरूले श्रमदान गरेर पहिरो प्रभावितहरूका लागि अस्थायी आवास निर्माण गरेका छन्।...",
+   "link": "https://nagariknews.nagariknetwork.com/social-affairs/temporary-housing-for-landslide-victims-through-shramdan-53-81.html",
+   "source": "Nagarik News",
+   "ts": 1792110598,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2024/third-party/1792110935_hitu%20zu%2090.jpg",
+   "lang": "ne",
+   "hl": "पहिरो प्रभावितलाई श्रमदानबाट अस्थायी आवास",
+   "en": "पहिरो प्रभावितलाई श्रमदानबाट अस्थायी आवास",
+   "ne": "पहिरो प्रभावितलाई श्रमदानबाट अस्थायी आवास",
+   "imp": 3,
+   "tags": [
+    "Landslide",
+    "पहिरो"
+   ],
+   "cat": "disaster",
    "val": 2,
    "teaser": false,
    "hits": 1
@@ -5851,10 +5805,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "world"
+  },
+  {
+   "ts": 1792111854.796596,
+   "en": "Subash Tamang set to make history as first Nepali golfer on DP World Tour",
+   "ne": "Subash Tamang set to make history as first Nepali golfer on DP World Tour",
+   "link": "https://nepalipatro.com.np/share/news/f4854099",
+   "source": "Nepali Patro",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "sports"
   }
  ],
- "updated": 1792111262,
- "pending_since": null,
+ "updated": 1792111869,
+ "pending_since": 1792111849.219935,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
