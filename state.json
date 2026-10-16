@@ -2052,98 +2052,6 @@
  },
  "queue": [
   {
-   "title": "Two Dead in Light Aircraft Crash in New South Wales, Australia",
-   "summary": "Kathmandu. Two people have died in a light aircraft crash in New South Wales state of Australia on Friday afternoon.According...",
-   "link": "http://english.ratopati.com/story/83971/two-dead-in-plane-crash-near-sydney",
-   "source": "Ratopati EN",
-   "ts": 1792145851,
-   "weight": 2,
-   "img": "https://rpcdn.ratopati.com/media/albums/sedney_spCjiBPwG5.jpg",
-   "lang": "en",
-   "hl": "Two Dead in Light Aircraft Crash in New South Wales, Australia",
-   "en": "Two Dead in Light Aircraft Crash in New South Wales, Australia",
-   "ne": "Two Dead in Light Aircraft Crash in New South Wales, Australia",
-   "imp": 1,
-   "tags": [
-    "PlaneCrash",
-    "Australia",
-    "NewSouthWales"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "'South Africa can serve as Nepal's gateway to the continent'",
-   "summary": "In 2024, South Africa and Nepal marked 30 years of formal diplomatic relations. Yet, the ties between the two countries stretch back well beyond the establishment of official diplomatic channels in 1994. Nepal played a...",
-   "link": "https://english.onlinekhabar.com/south-africa-nepals-gateway-africa.html",
-   "source": "Onlinekhabar EN",
-   "ts": 1792145700,
-   "weight": 3,
-   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/10/South-Africa-Anil-Sooklal-8-1024x683.jpeg",
-   "lang": "en",
-   "hl": "'South Africa can serve as Nepal's gateway to the continent'",
-   "en": "'South Africa can serve as Nepal's gateway to the continent'",
-   "ne": "'South Africa can serve as Nepal's gateway to the continent'",
-   "imp": 2,
-   "tags": [
-    "SouthAfrica",
-    "Nepal",
-    "Diplomacy"
-   ],
-   "cat": "world",
-   "val": 2,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "नेपालको कृषि रूपान्तरणको चरणमाः कृषि विज्ञ",
-   "summary": "काठमाडौँ, असोज ३० गते । सरोकारवाला विज्ञले नेपालको कृषि क्षेत्र रूपान्तरणको चरणमा पुगेको बताउनुभएको छ । छयालिसौँ विश्व खाद्य दिवसका अवसरमा आज यहाँ आयोजित कार्यक्रममा कृषि विज्ञहरु...",
-   "link": "https://gorkhapatraonline.com/news/226932",
-   "source": "Gorkhapatra",
-   "ts": 1792145547,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/388454/conversions/converted_image-(74)-original.jpg",
-   "lang": "ne",
-   "hl": "नेपालको कृषि रूपान्तरणको चरणमाः कृषि विज्ञ",
-   "en": "नेपालको कृषि रूपान्तरणको चरणमाः कृषि विज्ञ",
-   "ne": "नेपालको कृषि रूपान्तरणको चरणमाः कृषि विज्ञ",
-   "imp": 3,
-   "tags": [
-    "Agriculture",
-    "NepalEconomy",
-    "कृषि"
-   ],
-   "cat": "economy",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "'अरूका नातिनातिना नयाँ लुगा लगाएर हिँड्छन्, मेरा नातिनातिना यहीँ थुनिएका छन्'",
-   "summary": "उमेर उस्तै छ। रहर पनि उस्तै होलान्। तर अरूका छोराछोरी दसैंको नयाँ लुगा लगाएर हिँड्दा उनका नातानातिनीले यसपालि एकसरो नयाँ लुगा समेत पाउने भएका छैनन्।",
-   "link": "https://www.setopati.com/social/400922",
-   "source": "Setopati",
-   "ts": 1792145632,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "'अरूका नातिनातिना नयाँ लुगा लगाएर हिँड्छन्, मेरा नातिनातिना यहीँ थुनिएका छन्'",
-   "en": "'अरूका नातिनातिना नयाँ लुगा लगाएर हिँड्छन्, मेरा नातिनातिना यहीँ थुनिएका छन्'",
-   "ne": "'अरूका नातिनातिना नयाँ लुगा लगाएर हिँड्छन्, मेरा नातिनातिना यहीँ थुनिएका छन्'",
-   "imp": 2,
-   "tags": [
-    "Dashain",
-    "Society",
-    "समाज"
-   ],
-   "cat": "society",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
-  },
-  {
    "title": "Driver killed, two injured as Indian-registered car crashes in Sarlahi",
    "summary": "Sarlahi, October 16 The driver of an Indian-registered car was killed and two others were injured in an accident in Sarlahi on Thursday afternoon. The crash occurred at Banke Bridge in Parsa Rural Municipality-2. Police...",
    "link": "https://english.onlinekhabar.com/car-crashes-in-sarlahi.html",
@@ -8449,8 +8357,8 @@
    "cat": "disaster"
   }
  ],
- "updated": 1792174254,
- "pending_since": null,
+ "updated": 1792174795,
+ "pending_since": 1792174784.4828439,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
