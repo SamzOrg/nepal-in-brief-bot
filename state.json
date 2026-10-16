@@ -2144,29 +2144,6 @@
  },
  "queue": [
   {
-   "title": "Pakistan school roof collapse kills teacher, 27 children",
-   "summary": "Pakistan, Oct. 16: Twenty-seven pupils and a teacher were killed on Thursday after a roof collapsed at a school in the n...",
-   "link": "https://risingnepaldaily.com/news/87852",
-   "source": "Rising Nepal",
-   "ts": 1792112510,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Pakistan school roof collapse kills teacher, 27 children",
-   "en": "Pakistan school roof collapse kills teacher, 27 children",
-   "ne": "Pakistan school roof collapse kills teacher, 27 children",
-   "imp": 1,
-   "tags": [
-    "Pakistan",
-    "SchoolCollapse",
-    "Accident"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
    "title": "Make Forecast Accurate",
    "summary": "Thomas Hardy's world-renowned novel 'The Mayor of Casterbridge' poignantly depicts the tragic dilemma of farmers: when t...",
    "link": "https://risingnepaldaily.com/news/87854",
@@ -2340,29 +2317,6 @@
     "Chobhar",
     "Electricity",
     "चोभार"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "पाँच वर्षभित्र स्थानीय तहसम्म पक्की सडक",
-   "summary": "काठमाडौँ, असोज ३० गते । आगामी पाँच वर्षभित्र सबै स्थानीय तहको केन्द्रसम्म पक्की सडक सञ्जाल जोडिने भएको छ । स्थानीय तहको केन्द्रदेखि सात वटै प्रदेश राजधानीसम्म सवारी आवागमनलाई सहज ब...",
-   "link": "https://gorkhapatraonline.com/news/226862",
-   "source": "Gorkhapatra",
-   "ts": 1792112812,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/388367/conversions/211-original.jpg",
-   "lang": "ne",
-   "hl": "पाँच वर्षभित्र स्थानीय तहसम्म पक्की सडक",
-   "en": "पाँच वर्षभित्र स्थानीय तहसम्म पक्की सडक",
-   "ne": "पाँच वर्षभित्र स्थानीय तहसम्म पक्की सडक",
-   "imp": 3,
-   "tags": [
-    "Roads",
-    "Infrastructure",
-    "सडक"
    ],
    "cat": "economy",
    "val": 3,
@@ -6720,30 +6674,6 @@
    ],
    "cat": "society",
    "val": 2,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "कांग्रेसले भन्यो- भूमिसम्बन्धी अध्यादेश संसद्‌बाटै ल्याउनुपर्छ",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/505123",
-   "source": "Baahrakhari",
-   "ts": 1792135128,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "कांग्रेसले भन्यो- भूमिसम्बन्धी अध्यादेश संसद्‌बाटै ल्याउनुपर्छ",
-   "en": "कांग्रेसले भन्यो- भूमिसम्बन्धी अध्यादेश संसद्‌बाटै ल्याउनुपर्छ",
-   "ne": "कांग्रेसले भन्यो- भूमिसम्बन्धी अध्यादेश संसद्‌बाटै ल्याउनुपर्छ",
-   "imp": 4,
-   "tags": [
-    "Congress",
-    "LandOrdinance",
-    "Parliament",
-    "कांग्रेस"
-   ],
-   "cat": "politics",
-   "val": 3,
    "teaser": false,
    "hits": 2
   },
@@ -11830,9 +11760,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "politics"
+  },
+  {
+   "ts": 1792141867.470373,
+   "en": "कांग्रेसले भन्यो: भूमिसम्बन्धी अध्यादेश संसद्‌बाटै ल्याउनुपर्छ",
+   "ne": "कांग्रेसले भन्यो: भूमिसम्बन्धी अध्यादेश संसद्‌बाटै ल्याउनुपर्छ",
+   "link": "https://baahrakhari.com/detail/505123",
+   "source": "Baahrakhari",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "politics"
   }
  ],
- "updated": 1792141301,
+ "updated": 1792141877,
  "pending_since": 1792141295.850924,
  "fb_blocks": [
   1790350880.4125228,
