@@ -2044,52 +2044,6 @@
  },
  "queue": [
   {
-   "title": "दसैँलाई टीका र जमरामा मात्र सीमित नगरौँ",
-   "summary": "नयाँ पुस्तालाई दसैँको परम्परा, ऐतिहासिक पृष्ठभूमि र सांस्कृतिक अर्थबारे जानकारी गराउनुपर्नेमा जोड दिँदै उनले चाडपर्वको वास्तविक महत्व बुझाउने काम परिवार, समाज र सरोकारवाला सबैको भएको बताए।...",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/let-s-not-limit-dashain-to-just-tika-and-jamara-95-53.html",
-   "source": "Nagarik News",
-   "ts": 1792164589,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1792164557_Dashin.jpg",
-   "lang": "ne",
-   "hl": "दसैँलाई टीका र जमरामा मात्र सीमित नगरौँ",
-   "en": "दसैँलाई टीका र जमरामा मात्र सीमित नगरौँ",
-   "ne": "दसैँलाई टीका र जमरामा मात्र सीमित नगरौँ",
-   "imp": 2,
-   "tags": [
-    "Dashain",
-    "Culture",
-    "दसैँ"
-   ],
-   "cat": "culture",
-   "val": 1,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "मध्यपूर्वमा चीनको ठुलो कूटनीतिक पहल : इजरायल र टर्कीसँग छुट्टाछुट्टै संवाद",
-   "summary": "मध्यपूर्वमा तनाव बढिरहेका बेला चीनले क्षेत्रीय शान्ति, सुरक्षा र आर्थिक सहकार्यका विषयमा इजरायल र टर्कीसँग छुट्टाछुट्टै वार्ता गरेको छ।...",
-   "link": "https://nagariknews.nagariknetwork.com/international/china-s-major-diplomatic-initiative-in-the-middle-east-separate-dialogues-with-israel-and-turkey-65-48.html",
-   "source": "Nagarik News",
-   "ts": 1792164168,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1792164038_China%20Talks.jpg",
-   "lang": "ne",
-   "hl": "मध्यपूर्वमा चीनको ठुलो कूटनीतिक पहल : इजरायल र टर्कीसँग छुट्टाछुट्टै संवाद",
-   "en": "मध्यपूर्वमा चीनको ठुलो कूटनीतिक पहल : इजरायल र टर्कीसँग छुट्टाछुट्टै संवाद",
-   "ne": "मध्यपूर्वमा चीनको ठुलो कूटनीतिक पहल : इजरायल र टर्कीसँग छुट्टाछुट्टै संवाद",
-   "imp": 1,
-   "tags": [
-    "China",
-    "MiddleEast",
-    "Israel"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "डिजिटल प्रविधिबाट घर निर्माणको लागत घटाउँदै शिलाक्ष्य र फोरफ्रन्ट",
    "summary": "",
    "link": "https://baahrakhari.com/detail/505165",
@@ -2661,17 +2615,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1791588060.387327,
-   "en": "दमकमा पारिवारिक विवादमा कुटपिट हुँदा तीन महिने शिशुको मृत्यु, चार पक्राउ",
-   "ne": "दमकमा पारिवारिक विवादमा कुटपिट हुँदा तीन महिने शिशुको मृत्यु, चार पक्राउ",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/three-month-old-baby-dies-in-family-dispute-four-arrested-74-66.html",
-   "source": "Nagarik News",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "crime"
-  },
   {
    "ts": 1791589856.2591052,
    "en": "Nepal cuts wait period to declare missing flood victims dead to 45 days",
@@ -5896,7 +5839,7 @@
    "cat": "society"
   }
  ],
- "updated": 1792192872,
+ "updated": 1792193471,
  "pending_since": 1792192247.4613626,
  "fb_blocks": [
   1790350880.4125228,
