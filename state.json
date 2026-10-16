@@ -2135,29 +2135,6 @@
    "hits": 1
   },
   {
-   "title": "मिठाईमा मिसाइएका पदार्थको सूची र उपभोग्य मिति अब अनिवार्य",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/505164",
-   "source": "Baahrakhari",
-   "ts": 1792166405,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "मिठाईमा मिसाइएका पदार्थको सूची र उपभोग्य मिति अब अनिवार्य",
-   "en": "मिठाईमा मिसाइएका पदार्थको सूची र उपभोग्य मिति अब अनिवार्य",
-   "ne": "मिठाईमा मिसाइएका पदार्थको सूची र उपभोग्य मिति अब अनिवार्य",
-   "imp": 3,
-   "tags": [
-    "Sweets",
-    "FoodSafety",
-    "Nepal"
-   ],
-   "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Nepal: A Harvest, an Inbox and a Helicopter",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1sWUlGTU9xbXJwaVRfMlJxd1JsN3hUcG9aZUxTXzNNRGJuQ3AwWFNmSHYwMU4xeFZYWjE1bTJtWVh2MnYyOGxRX0NLQnhTUkw3MG5OYnFINUZ0ajR5c2QwaVZsUjBNQWlaczU1WDVySmlKTndCTkNVMkZR?oc=5",
@@ -5906,9 +5883,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "culture"
+  },
+  {
+   "ts": 1792192854.955552,
+   "en": "मिठाईमा कच्चा पदार्थ, उपभोग्य मिति र मूल्य खुलाउन अनिवार्य",
+   "ne": "मिठाईमा कच्चा पदार्थ, उपभोग्य मिति र मूल्य खुलाउन अनिवार्य",
+   "link": "https://baahrakhari.com/detail/505164",
+   "source": "Baahrakhari",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "society"
   }
  ],
- "updated": 1792192250,
+ "updated": 1792192872,
  "pending_since": 1792192247.4613626,
  "fb_blocks": [
   1790350880.4125228,
