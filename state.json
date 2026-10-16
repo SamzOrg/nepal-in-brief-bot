@@ -2162,7 +2162,10 @@
   "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOZDg1ZjlSMDh1eGloODJtYmlJLWFKTzJIbE5NZHhTZzBoOXBrMERfYzNIZHY4S29vUE0wZ193OVdfd0xIb2VIYXNDb3BORUZMaWZLZWtFakZzU2xwTUtYa181SFV6ZXBUVnFmTWg2Yk5QX1R6MmpPbkdQZ1otWnczSVJadkE2elF6Z2Z4d2hyNzJjTlVBNzB1VlJnajlHSHBnaWUtNy1uaGhJMlJUdEJkc2RqSnNRUUo1QVJtQlRaS0NvNGMyc24yS21oWWlkc1hhSDE4YkJUNTctOE83Rk5uYmpZSHh5eGda0gHoAUFVX3lxTE5kODVmOVIwOHV4aWg4Mm1iaUktYUpPMkhsTk1keFNnMGg5cGswRF9jM0hkdjhLb29QTTBnX3c5V193TEhvZUhhc0NvcE5FRkxpZktla0VqRnNTbHBNS1hrXzVIVXplcFRWcWZNaDZiTlBfVHoyak9uR1BnWi1adzNJUlp2QTZ6UXpnZnh3aHI3MmNOVUE3MHVWUmdqOUdIcGdpZS03LW5oaEkyUlR0QmRzZGpKc1FRSjVBUm1CVFpLQ280YzJzbjJLbWhZaWRzWGFIMThiQlQ1Ny04TzdGTm5iallIeHl4Z1o?oc=5": 1792101058.6042967,
   "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSUt5bENHR3lGbEpvMGJGeHd0TzNmVGZTV05zSTc4SXBrUTdDcHVWVU1rVnRyYlg2aUUtN1RkNEZHd3R0WVExQVpRN1pRcVFYeVRNTmJ0ZGNqSTIzTXRMWUFRNndYOFdfNFN4N2hnN3d5RmwzZFNzbDU5QXpVZjZhSHFXTXhVNU1FOXdYRUhnS2NvU2tmQ1FUUHpKOEMzcnlLd1gzWVV2VUxiemJtT0RnMFBoeVpGUEcxdXNXcUlUVzZBVlBJNlAxUUhpZw?oc=5": 1792104054.476486,
   "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTlBMX0RkZlpMTUhXSW1HTS0tcE9xMTFjc2VBS0l0ZXY4a1UzLUNNc2QwY1F3WWxmT2FSZGJkY0JVRVFRMkhUNFBlR1NpdmdqSDhGaFpia0FmNnUwTlB3WUdYeTdIM2hJWkZ4Qy1vakJiMFFyYld5cDdiUzh5MUVlVzBvQnZLVl9DcXZVTg?oc=5": 1792104652.7513893,
-  "http://english.ratopati.com/story/83899/four-people-including-three-children-killed-in-shooting-at-us-elementary-school": 1792108170.0197613
+  "http://english.ratopati.com/story/83899/four-people-including-three-children-killed-in-shooting-at-us-elementary-school": 1792108170.0197613,
+  "https://baahrakhari.com/detail/505083": 1792108891.7299643,
+  "https://gorkhapatraonline.com/news/226856": 1792108891.7299643,
+  "http://english.ratopati.com/story/83898/sixth-day-of-navratri-goddess-katyayani-is-being-worshipped-with-ritualistic-rituals-today": 1792108891.7299643
  },
  "queue": [
   {
@@ -2258,29 +2261,6 @@
    "hits": 1
   },
   {
-   "title": "शारदा चित्रकारको 'समय चक्र' सार्वजनिक",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/505075",
-   "source": "Baahrakhari",
-   "ts": 1792079621,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "शारदा चित्रकारको 'समय चक्र' सार्वजनिक",
-   "en": "शारदा चित्रकारको 'समय चक्र' सार्वजनिक",
-   "ne": "शारदा चित्रकारको 'समय चक्र' सार्वजनिक",
-   "imp": 2,
-   "tags": [
-    "ShardaChitrakar",
-    "Book",
-    "SamayaChakra"
-   ],
-   "cat": "culture",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Drug Management Department Joins National Single Window System",
    "summary": "Kathmandu. The Department of Drug Management has joined the 'National Single Window System' operated by the Department of Customs. Director...",
    "link": "http://english.ratopati.com/story/83892/department-of-medicines-management-affiliated-with-national-single-window-system",
@@ -2343,52 +2323,6 @@
     "Nepal"
    ],
    "cat": "other",
-   "val": 1,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "नारायणीमा बेपत्ता आमा छोराको खोजी जारी",
-   "summary": "चितवनको भरतपुर महानगरपालिका-१ स्थित पशुपति मन्दिर पछाडि नारायणी नदीमा खुट्टा धुने क्रममा बुधबार डुबेका तीन जनामध्ये बेपत्ता दुई जनाको आज पनि खोजी जारी छ।...",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/search-continues-for-missing-mother-and-son-in-narayani-72-70.html",
-   "source": "Nagarik News",
-   "ts": 1792079661,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1742293886_nagarika.jpg",
-   "lang": "ne",
-   "hl": "नारायणीमा बेपत्ता आमा छोराको खोजी जारी",
-   "en": "नारायणीमा बेपत्ता आमा छोराको खोजी जारी",
-   "ne": "नारायणीमा बेपत्ता आमा छोराको खोजी जारी",
-   "imp": 3,
-   "tags": [
-    "Narayani",
-    "Flood",
-    "Missing",
-    "नारायणी"
-   ],
-   "cat": "disaster",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "UN Secretary-General: World Failing on Nature Protection Commitments",
-   "summary": "Kathmandu. The United Nations Secretary-General Antonio Guterres said on Thursday that the world is failing to fulfill its commitments to...",
-   "link": "http://english.ratopati.com/story/83890/efforts-to-control-interference-with-nature-still-fail",
-   "source": "Ratopati EN",
-   "ts": 1792079914,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/gutres_89cyhsop2p_ee4zGCdH05.webp",
-   "lang": "en",
-   "hl": "UN Secretary-General: World Failing on Nature Protection Commitments",
-   "en": "UN Secretary-General: World Failing on Nature Protection Commitments",
-   "ne": "UN Secretary-General: World Failing on Nature Protection Commitments",
-   "imp": 1,
-   "tags": [
-    "SecretaryGeneral",
-    "NatureProtection"
-   ],
-   "cat": "world",
    "val": 1,
    "teaser": false,
    "hits": 1
@@ -2642,20 +2576,55 @@
    "val": 3,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "दसैँको छैटौँ दिन : कात्यायनी देवीको पूजा आराधना गरिँदै",
+   "summary": "",
+   "link": "https://baahrakhari.com/detail/505083",
+   "source": "Baahrakhari",
+   "ts": 1792108734,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "दसैँको छैटौँ दिन : कात्यायनी देवीको पूजा आराधना गरिँदै",
+   "en": "दसैँको छैटौँ दिन : कात्यायनी देवीको पूजा आराधना गरिँदै",
+   "ne": "दसैँको छैटौँ दिन : कात्यायनी देवीको पूजा आराधना गरिँदै",
+   "imp": 2,
+   "tags": [
+    "Dashain",
+    "Katyayani",
+    "चाडपर्व"
+   ],
+   "cat": "culture",
+   "val": 3,
+   "teaser": false,
+   "hits": 2
+  },
+  {
+   "title": "दसैँमा घर फर्कनेको चाप",
+   "summary": "गोरखापत्र समाचारदाता काठमाडौँ, असोज ३० गते । दसैँको टीका नजिकिएसँगै काठमाडौँ उपत्यकाबाट जिल्ला जाने यात्रुको चाप बढेको छ । घटस्थापनादेखि बिहीबारसम्म तीन लाख यात्रु दसैँका लागि बाहि...",
+   "link": "https://gorkhapatraonline.com/news/226856",
+   "source": "Gorkhapatra",
+   "ts": 1792107843,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/388359/conversions/People-_returns_home-_ADHIKARI-KABIN00025-original.jpg",
+   "lang": "ne",
+   "hl": "दसैँमा घर फर्कनेको चाप",
+   "en": "दसैँमा घर फर्कनेको चाप",
+   "ne": "दसैँमा घर फर्कनेको चाप",
+   "imp": 3,
+   "tags": [
+    "Dashain",
+    "Traffic",
+    "यात्रु"
+   ],
+   "cat": "society",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1791503481.4056067,
-   "en": "नयाँ बसपार्कमा दसैँको टिकट लिन आजै रातिदेखि यात्रुको लाइन",
-   "ne": "नयाँ बसपार्कमा दसैँको टिकट लिन आजै रातिदेखि यात्रुको लाइन",
-   "link": "https://baahrakhari.com/detail/504317",
-   "source": "Baahrakhari",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "society"
-  },
   {
    "ts": 1791505252.6654167,
    "en": "Foreign Minister Shishir Khanal Meets NSW Premier Chris Minns in Sydney",
@@ -5869,8 +5838,8 @@
    "cat": "crime"
   }
  ],
- "updated": 1792108272,
- "pending_since": 1792107075.7529962,
+ "updated": 1792108896,
+ "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
