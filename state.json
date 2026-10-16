@@ -2146,7 +2146,11 @@
   "http://english.ratopati.com/story/83912/three-people-including-kiran-babu-shrestha-elected-as-nc-central-members-from-gandaki": 1792119689.975381,
   "https://gorkhapatraonline.com/news/226880": 1792119689.975381,
   "https://nagariknews.nagariknetwork.com/sports/wheelchair-rugby-training-completed-br-30-34.html": 1792119689.975381,
-  "https://gorkhapatraonline.com/news/226879": 1792119689.975381
+  "https://gorkhapatraonline.com/news/226879": 1792119689.975381,
+  "https://www.setopati.com/politics/400956": 1792120251.6307597,
+  "https://nagariknews.nagariknetwork.com/social-affairs/garbage-management-in-the-kathmandu-valley-affected-for-four-days-from-kartik-1-77-19.html": 1792120251.6307597,
+  "http://english.ratopati.com/story/83916/langtang-trekking-route-repaired-through-local-activism": 1792120251.6307597,
+  "https://nagariknews.nagariknetwork.com/social-affairs/kaligandaki-flood-hot-water-tank-of-ratopani-turned-into-a-swamp-50-71.html": 1792120251.6307597
  },
  "queue": [
   {
@@ -4612,7 +4616,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "Actor Imran Khan ordered to leave India after participating in protest",
@@ -4858,6 +4862,54 @@
     "Health"
    ],
    "cat": "society",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Langtang Trekking Route Repaired by Locals After Flood Damage",
+   "summary": "Rasuwagadhi. The tourist Langtang trekking route damaged by flood has been repaired with the initiative of the local residents. The...",
+   "link": "http://english.ratopati.com/story/83916/langtang-trekking-route-repaired-through-local-activism",
+   "source": "Ratopati EN",
+   "ts": 1792119889,
+   "weight": 2,
+   "img": "https://rpcdn.ratopati.com/archived-media/langtang-1.jpg",
+   "lang": "en",
+   "hl": "Langtang Trekking Route Repaired by Locals After Flood Damage",
+   "en": "Langtang Trekking Route Repaired by Locals After Flood Damage",
+   "ne": "Langtang Trekking Route Repaired by Locals After Flood Damage",
+   "imp": 3,
+   "tags": [
+    "Langtang",
+    "Trekking",
+    "Flood",
+    "लाङटाङ"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "कालीगण्डकी बाढीः रातोपानीको तातोपानी कुण्ड बगरमा परिणत",
+   "summary": "प्राकृतिक उपचार र पर्यटकीय स्थलको विकास हुन थालेको म्याग्दीको अन्नपूर्ण गाउँपालिका-६ रातोपानीमा रहेका तातोपानी कुण्ड बगरमा परिणत भएको छ।...",
+   "link": "https://nagariknews.nagariknetwork.com/social-affairs/kaligandaki-flood-hot-water-tank-of-ratopani-turned-into-a-swamp-50-71.html",
+   "source": "Nagarik News",
+   "ts": 1792119816,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2025/third-party/1792119796_New%20Project%20(5).jpg",
+   "lang": "ne",
+   "hl": "कालीगण्डकी बाढीः रातोपानीको तातोपानी कुण्ड बगरमा परिणत",
+   "en": "कालीगण्डकी बाढीः रातोपानीको तातोपानी कुण्ड बगरमा परिणत",
+   "ne": "कालीगण्डकी बाढीः रातोपानीको तातोपानी कुण्ड बगरमा परिणत",
+   "imp": 3,
+   "tags": [
+    "Kaligandaki",
+    "Flood",
+    "Myagdi",
+    "कालीगण्डकी"
+   ],
+   "cat": "disaster",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -8088,8 +8140,8 @@
    "cat": "society"
   }
  ],
- "updated": 1792119715,
- "pending_since": null,
+ "updated": 1792120257,
+ "pending_since": 1792120251.6307597,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
