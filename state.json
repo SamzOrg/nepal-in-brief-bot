@@ -2119,7 +2119,8 @@
   "https://nagariknews.nagariknetwork.com/social-affairs/18-suspension-bridges-damaged-by-bhotekoshi-trishuli-floods-reopen-after-repair-87-92.html": 1792114269.8402545,
   "https://nagariknews.nagariknetwork.com/social-affairs/the-pain-caused-by-the-landslide-to-the-residents-of-chinakhet-55-31.html": 1792114269.8402545,
   "https://nagariknews.nagariknetwork.com/politics/we-will-make-bhaktapur-a-model-district-chief-minister-thapa-70-75.html": 1792114269.8402545,
-  "https://nagariknews.nagariknetwork.com/social-affairs/bhotekoshi-flood-process-of-declaring-37-people-dead-from-kavre-begins-96-10.html": 1792114269.8402545
+  "https://nagariknews.nagariknetwork.com/social-affairs/bhotekoshi-flood-process-of-declaring-37-people-dead-from-kavre-begins-96-10.html": 1792114269.8402545,
+  "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zOVVRVGhKVFZtLURpX3I2X2tlNVJEX01ZbThlanhoRnJpRUZiRV9SR2E2X204ZUdCWW1KZ0M1TWhTMm1ad1FXc1puSmVjc1N4SkxRa3NPNzUydw?oc=5": 1792114852.9876552
  },
  "queue": [
   {
@@ -3005,6 +3006,29 @@
     "Kavre",
     "Flood",
     "बाढी"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "ASIA WATCH: Nepal urges global climate action after devastating Himalayan floods",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zOVVRVGhKVFZtLURpX3I2X2tlNVJEX01ZbThlanhoRnJpRUZiRV9SR2E2X204ZUdCWW1KZ0M1TWhTMm1ad1FXc1puSmVjc1N4SkxRa3NPNzUydw?oc=5",
+   "source": "Japan Wire by Kyodo News",
+   "ts": 1792114200,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "ASIA WATCH: Nepal urges global climate action after devastating Himalayan floods",
+   "en": "ASIA WATCH: Nepal urges global climate action after devastating Himalayan floods",
+   "ne": "ASIA WATCH: Nepal urges global climate action after devastating Himalayan floods",
+   "imp": 4,
+   "tags": [
+    "Floods",
+    "Himalayan",
+    "ClimateAction"
    ],
    "cat": "disaster",
    "val": 3,
@@ -6226,7 +6250,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1792114275,
+ "updated": 1792114858,
  "pending_since": 1792114269.8402545,
  "fb_blocks": [
   1790350880.4125228,
