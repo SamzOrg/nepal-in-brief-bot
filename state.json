@@ -2135,7 +2135,12 @@
   "https://english.onlinekhabar.com/ntc-offers-fiber-internet-package-for-rs-4999-a-year.html": 1792136458.3188825,
   "https://english.onlinekhabar.com/locals-join-hands-to-repair-langtang-trekking-route.html": 1792136458.3188825,
   "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdi1FTlY0RjVZRi1yOFFxRXNnUnJyQTVyUk1ybkwxSWFncXdBN3NuZDNxVW9YU0FHSFMza0VxRE5wYjlDTjhtM1hLRE5CRVptUzR3WllIdkNXXzFLUy1CRHM1NHh2czVBUWJNc1d1ZmdNU3ZmRkN0YkRBODR1Q09qb1NEMlptTVBsQ2xoQi1kTTctYWpkQk92VGhXTExxSWR1M0daNTRLb2ZSNzZlRDVZ?oc=5": 1792136458.3188825,
-  "https://theannapurnaexpress.com/story/67976": 1792136458.3188825
+  "https://theannapurnaexpress.com/story/67976": 1792136458.3188825,
+  "https://www.setopati.com/politics/400984": 1792137052.3530972,
+  "https://news.google.com/rss/articles/CBMiekFVX3lxTFBIdVVOUTFVT1VSV1hQZk1JNEd4R0hWZ1BRRDl6SExOclRTcWpRdl9kX2RPT2pqUWZCSU1oSVRNTHRKWEY1YUt2SFFkeGhIQTRWeXdWV3phOHNldGZIODJDUGJfcHpCeWJfenBOdHQxa2Qydk9JX29Ca2Z3?oc=5": 1792137052.3530972,
+  "https://theannapurnaexpress.com/story/67978": 1792137052.3530972,
+  "http://english.ratopati.com/story/83958/at-least-52-school-and-college-shootings-in-the-us-this-year-32-dead": 1792137052.3530972,
+  "https://english.onlinekhabar.com/wild-male-elephants-killed-nepal.html": 1792137052.3530972
  },
  "queue": [
   {
@@ -4515,29 +4520,6 @@
    "hits": 1
   },
   {
-   "title": "Flood-damaged 18 suspension bridges come into operation after maintenance",
-   "summary": "Eighteen suspension bridges that were damaged by the Bhotekoshi-Trishuli River flooding have been brought into operation after maintenance. According to the Suspension Bridge Division Office under the Department of...",
-   "link": "https://theannapurnaexpress.com/story/67968",
-   "source": "Annapurna Express",
-   "ts": 1792107658.953114,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Flood-damaged 18 suspension bridges come into operation after maintenance",
-   "en": "Flood-damaged 18 suspension bridges come into operation after maintenance",
-   "ne": "Flood-damaged 18 suspension bridges come into operation after maintenance",
-   "imp": 3,
-   "tags": [
-    "SuspensionBridge",
-    "FloodDamage",
-    "Infrastructure"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 4
-  },
-  {
    "title": "कर्मचारीका काममा कडाइ गर्दै सर्वोच्चको २० बुँदे निर्देशन",
    "summary": "",
    "link": "https://baahrakhari.com/detail/505096",
@@ -5661,7 +5643,7 @@
    "cat": "culture",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "Police Superintendent Angur GC Receives Purnashanti Award",
@@ -5753,7 +5735,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 5
+   "hits": 6
   },
   {
    "title": "Dashain Rituals Rooted In Nature",
@@ -7922,6 +7904,52 @@
    "cat": "economy",
    "val": 1,
    "teaser": true,
+   "hits": 1
+  },
+  {
+   "title": "US School Shootings: Over 50 Incidents by October 15, 2026, Resulting in 32 Deaths",
+   "summary": "Washington DC. In the United States, at least 52 incidents of gunshots fired on school and college campuses have occurred...",
+   "link": "http://english.ratopati.com/story/83958/at-least-52-school-and-college-shootings-in-the-us-this-year-32-dead",
+   "source": "Ratopati EN",
+   "ts": 1792136590,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/usa-school-shooting_dQeRkVLwKq.webp",
+   "lang": "en",
+   "hl": "US School Shootings: Over 50 Incidents by October 15, 2026, Resulting in 32 Deaths",
+   "en": "US School Shootings: Over 50 Incidents by October 15, 2026, Resulting in 32 Deaths",
+   "ne": "US School Shootings: Over 50 Incidents by October 15, 2026, Resulting in 32 Deaths",
+   "imp": 1,
+   "tags": [
+    "SchoolShootings",
+    "Crime"
+   ],
+   "cat": "world",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Four wild male elephants killed in Nepal this year, raising fears of breeding crisis",
+   "summary": "Kathmandu, October 16 Four wild male elephants have been killed in Nepal this year, including three in the month of Asoj alone, raising concerns among conservationists about a potential crisis in elephant breeding. On...",
+   "link": "https://english.onlinekhabar.com/wild-male-elephants-killed-nepal.html",
+   "source": "Onlinekhabar EN",
+   "ts": 1792136519,
+   "weight": 3,
+   "img": "http://english.onlinekhabar.com/wp-content/uploads/2023/10/dead-elephant-sketch.jpg",
+   "lang": "en",
+   "hl": "Four wild male elephants killed in Nepal this year, raising fears of breeding crisis",
+   "en": "Four wild male elephants killed in Nepal this year, raising fears of breeding crisis",
+   "ne": "Four wild male elephants killed in Nepal this year, raising fears of breeding crisis",
+   "imp": 3,
+   "tags": [
+    "WildElephants",
+    "Wildlife",
+    "Conservation",
+    "हात्ती"
+   ],
+   "cat": "society",
+   "val": 3,
+   "teaser": false,
    "hits": 1
   }
  ],
@@ -11161,7 +11189,7 @@
    "cat": "economy"
   }
  ],
- "updated": 1792136482,
+ "updated": 1792137065,
  "pending_since": 1792135252.5553956,
  "fb_blocks": [
   1790350880.4125228,
