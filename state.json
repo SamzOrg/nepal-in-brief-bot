@@ -2130,28 +2130,6 @@
    "hits": 1
   },
   {
-   "title": "Singapore's Non-Oil Domestic Exports Surge 68.4% in September Driven by AI Demand",
-   "summary": "Kathmandu. With the demand for artificial intelligence (AI) related goods increasing, Singapore's non-oil domestic exports (NODX) increased by 68.4 percent...",
-   "link": "http://english.ratopati.com/story/83993/singapores-exports-surge-as-demand-for-ai-grows",
-   "source": "Ratopati EN",
-   "ts": 1792160525,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/capture1_8pWwTb6t6m.webp",
-   "lang": "en",
-   "hl": "Singapore's Non-Oil Domestic Exports Surge 68.4% in September Driven by AI Demand",
-   "en": "Singapore's Non-Oil Domestic Exports Surge 68.4% in September Driven by AI Demand",
-   "ne": "Singapore's Non-Oil Domestic Exports Surge 68.4% in September Driven by AI Demand",
-   "imp": 1,
-   "tags": [
-    "Singapore",
-    "Exports"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
    "title": "अदालतबाट चोरिएका मुद्दाका मिसिलमा दसैँअघि नै मिलापत्रको 'चाँजोपाँजो' !",
    "summary": "",
    "link": "https://baahrakhari.com/detail/505160",
@@ -2815,17 +2793,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1791584457.3846526,
-   "en": "Nepal flood survivors live in tents as over 1,400 die and thousands remain missing after glacier collapse",
-   "ne": "Nepal flood survivors live in tents as over 1,400 die and thousands remain missing after glacier collapse",
-   "link": "https://www.afp.com/de/node/3846377",
-   "source": "AFP.com",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "disaster"
-  },
   {
    "ts": 1791586260.9744384,
    "en": "Government dismisses APF AIG Banshi Raj Dahal over conduct violations",
@@ -6050,8 +6017,8 @@
    "cat": "tech"
   }
  ],
- "updated": 1792189275,
- "pending_since": null,
+ "updated": 1792189873,
+ "pending_since": 1792189869.317475,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
