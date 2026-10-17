@@ -1,6 +1,5 @@
 {
  "seen": {
-  "http://lokaantar.com/story/331332/2026/10/15/dollar-": 1792023649.0455732,
   "http://lokaantar.com/story/331333/2026/10/15/death-": 1792024268.0978599,
   "https://baahrakhari.com/detail/504983": 1792024268.0978599,
   "http://english.ratopati.com/story/83765/monsoon-has-emerged-partial-influence-of-westerly-and-local-winds-persists-possibility-of-rain-in-these-parts-of-the-country-today": 1792024268.0978599,
@@ -2038,7 +2037,8 @@
   "https://news.google.com/rss/articles/CBMirgFBVV95cUxONnIzN1p5ZHU4LTdHaHl3UzdEaGNuenZMTE1UOTlzLTMzU1RHM081VWVobU5GenptaGxsNjZhYVVXT0tGcDZvbGZSRDFVRjdXR0Z0eUJIQjhLcHFhclNUTzgzc0VWUmxBdFNQb2tCeWY5MHZVeEhzTEUzV25HOHdMSEJQalFGbG9RSlJXQ05HTXkyT1VaZUNrR1N0bEdIb2pMZ1c5ZWlBc3BiaW1nMnc?oc=5": 1792194646.0577512,
   "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRzFlZUVuS085SzczVDAwamdYM1hmZldCRGFoN19EV3dEekRERGl1Y3hOTENUVmNJVkxKZUtvU05aa2Y1NGM1YWhSTTk4OTAzZmxLZTQyOU5MVEFEa0xfMmxIckFiVVpBUmJhMWpDTUh6M0NtcUpsdnZ6Z0NvV1o4ZnREQVNPbWpQa3FrajRJMNIBkwFBVV95cUxPTmpSZ0VCNDR4RWxmeWtMckF6UzI5d3NtM3dBa21PbEVOOUJtVUNsOWlWX04zLWY0Qi16ZG5nNS1SaS1vY3R2WnpmOEdIYi1aUW04MjVWT3ExVENMbk1mMXpVdS1Ha3ZNMnd1R29BWndscTJja21RNzBfU1MwLWhwZXZSUWdxRExaY3JFZktoTi05TDg?oc=5": 1792194646.0577512,
   "https://theannapurnaexpress.com/story/67998": 1792194646.0577512,
-  "https://theannapurnaexpress.com/story/67997": 1792194646.0577512
+  "https://theannapurnaexpress.com/story/67997": 1792194646.0577512,
+  "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQODdvUWpETW16Z0lEMFpMRnUyS1ZxbFAxU1Q4QXVFSHJrbGhXWG5CZXQzTjI1Y0Vlc3hpWGlBY0V3WDBHQm15VURFcGdydXZkeWE0UUF0TnhIazBhM3gtSmJpTGtMTEZCLVVFX0pKWER6NmFFa2RKUkZNdWlUdXlOUm9NWTRFWndmcXJHODdUZ1lRbkduekhHN0VObFBROVhjVXQ4NVU2eEdNaExiTU16U1hxeGxyOXpsU2hRUWR2aXVfZ9IBwgFBVV95cUxQODdvUWpETW16Z0lEMFpMRnUyS1ZxbFAxU1Q4QXVFSHJrbGhXWG5CZXQzTjI1Y0Vlc3hpWGlBY0V3WDBHQm15VURFcGdydXZkeWE0UUF0TnhIazBhM3gtSmJpTGtMTEZCLVVFX0pKWER6NmFFa2RKUkZNdWlUdXlOUm9NWTRFWndmcXJHODdUZ1lRbkduekhHN0VObFBROVhjVXQ4NVU2eEdNaExiTU16U1hxeGxyOXpsU2hRUWR2aXVfZw?oc=5": 1792196636.7357855
  },
  "queue": [
   {
@@ -2218,7 +2218,7 @@
    "cat": "crime",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Influencer's 218-km overnight dash to Nepal hours before murder FIR under scanner | Hindustan Times",
@@ -2240,29 +2240,6 @@
    ],
    "cat": "crime",
    "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Son carries on teaching legacy of parents missing in Nepal floods",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9EQ1JZbTRSVUxjSmFVaEwzanJYTzlCNXVScGtBU1NZaWVPNDU5WjBIams0ejNEaHhnM0ZtXzhhWlJQcmJ6YVE5VUF5OFBTSzZROGNMYnVhYjhEam5uTnc?oc=5",
-   "source": "BBC",
-   "ts": 1792167689,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Son carries on teaching legacy of parents missing in Nepal floods",
-   "en": "Son carries on teaching legacy of parents missing in Nepal floods",
-   "ne": "Son carries on teaching legacy of parents missing in Nepal floods",
-   "imp": 2,
-   "tags": [
-    "NepalFloods",
-    "Education",
-    "Teacher"
-   ],
-   "cat": "society",
-   "val": 2,
    "teaser": false,
    "hits": 1
   },
@@ -2451,17 +2428,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1791591655.3877447,
-   "en": "कांग्रेस सभापतिमा गगन थापा निर्वाचित, ६,५८४ मत प्राप्त",
-   "ne": "कांग्रेस सभापतिमा गगन थापा निर्वाचित, ६,५८४ मत प्राप्त",
-   "link": "https://baahrakhari.com/detail/504450",
-   "source": "Baahrakhari",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "politics"
-  },
   {
    "ts": 1791593453.4705954,
    "en": "Colorado Sherpa Association Sends $30k to Nepal for Flood Relief",
@@ -5675,7 +5641,7 @@
    "cat": "society"
   }
  ],
- "updated": 1792196446,
+ "updated": 1792196640,
  "pending_since": 1792195849.0249743,
  "fb_blocks": [
   1790350880.4125228,
