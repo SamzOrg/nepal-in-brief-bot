@@ -1,9 +1,5 @@
 {
  "seen": {
-  "https://risingnepaldaily.com/news/87811": 1792024847.080585,
-  "http://lokaantar.com/story/331334/2026/10/15/himal-": 1792024847.080585,
-  "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBvRFZUczVmQVVoTDA4akc0eXhrZUs2X2pVLVgtRDQ3UTRnWmdodjJlVnM4NGpodXBZdFN5WDcyREFUTm5sT1lCRHpaV0g1bzd2ajZaeDI4ZU0xbXlVMmc?oc=5": 1792025446.2251098,
-  "https://gorkhapatraonline.com/news/226735": 1792025446.2251098,
   "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZWQ4YU45RVd1bG1tMlV2bEFnd0dkWENacUdCeHB4MW9rbktPSnZzaEFlQldaSnlWR2I5MGk3NHJyOGNGZFFBYkNKNDFJZEJXQW9rSko0OFE5X19LMXNLSlFia1ZrN2s5dk55NExxMi1INU04X1JRUHByTXlYYjhWV2tvV25JTlNvNUpMZ2xkeVVYWjBHRXpmY0pVdVZfbmp4ek1RR3JRNXM3U2E5NGc?oc=5": 1792026093.8621643,
   "https://nagariknews.nagariknetwork.com/health/hospital-services-continue-even-during-dashain-holidays-52-59.html": 1792026093.8621643,
   "https://nagariknews.nagariknetwork.com/social-affairs/flood-victims-in-farse-were-not-touched-by-the-joy-of-dashain-38-18.html": 1792026093.8621643,
@@ -2050,7 +2046,8 @@
   "https://gorkhapatraonline.com/news/226952": 1792197645.8100495,
   "https://gorkhapatraonline.com/news/226951": 1792197645.8100495,
   "https://gorkhapatraonline.com/news/226950": 1792197645.8100495,
-  "https://gorkhapatraonline.com/news/226949": 1792197645.8100495
+  "https://gorkhapatraonline.com/news/226949": 1792197645.8100495,
+  "http://english.ratopati.com/story/83998/nepal-faces-canada-chance-to-secure-top-6-spot": 1792198247.459455
  },
  "queue": [
   {
@@ -6077,8 +6074,8 @@
    "cat": "sports"
   }
  ],
- "updated": 1792197683,
- "pending_since": null,
+ "updated": 1792198250,
+ "pending_since": 1792198247.459455,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
