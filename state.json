@@ -1967,7 +1967,8 @@
   "https://gorkhapatraonline.com/news/226986": 1792209685.2052243,
   "https://gorkhapatraonline.com/news/226985": 1792209685.2052243,
   "https://gorkhapatraonline.com/news/226984": 1792209685.2052243,
-  "https://gorkhapatraonline.com/news/226983": 1792209685.2052243
+  "https://gorkhapatraonline.com/news/226983": 1792209685.2052243,
+  "https://kathmandupost.com/visual-stories/2026/10/17/shoppers-crowd-kathmandu-markets-for-phulpati": 1792210245.4156325
  },
  "queue": [
   {
@@ -4132,7 +4133,7 @@
    "cat": "culture",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "टीका-जमरासँगै घुमफिर",
@@ -4270,29 +4271,6 @@
     "भाषा"
    ],
    "cat": "culture",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "ग्यास बुलेटले मोटरसाइकललाई ठक्कर दिँदा एक बालकको मृत्यु",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/505181",
-   "source": "Baahrakhari",
-   "ts": 1792207155,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "ग्यास बुलेटले मोटरसाइकललाई ठक्कर दिँदा एक बालकको मृत्यु",
-   "en": "ग्यास बुलेटले मोटरसाइकललाई ठक्कर दिँदा एक बालकको मृत्यु",
-   "ne": "ग्यास बुलेटले मोटरसाइकललाई ठक्कर दिँदा एक बालकको मृत्यु",
-   "imp": 4,
-   "tags": [
-    "GasBullet",
-    "RoadAccident",
-    "Nepal"
-   ],
-   "cat": "accident",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -7992,10 +7970,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "disaster"
+  },
+  {
+   "ts": 1792210256.2730896,
+   "en": "काभ्रेमा ग्यास बुलेटको ठक्करबाट ९ वर्षीय बालकको मृत्यु, बुबा-आमा घाइते",
+   "ne": "काभ्रेमा ग्यास बुलेटको ठक्करबाट ९ वर्षीय बालकको मृत्यु, बुबा-आमा घाइते",
+   "link": "https://baahrakhari.com/detail/505181",
+   "source": "Baahrakhari",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "accident"
   }
  ],
- "updated": 1792209693,
- "pending_since": null,
+ "updated": 1792210275,
+ "pending_since": 1792210245.4156325,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
