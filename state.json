@@ -1,9 +1,5 @@
 {
  "seen": {
-  "https://gorkhapatraonline.com/news/226846": 1792080654.409408,
-  "https://risingnepaldaily.com/news/87843": 1792080654.409408,
-  "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeGZFMWlWN1lsU2tiTTZlTjFDcERZemFlOEY0ZTNwMDliYmF6N2hzWEMxRDJ0ZGdadjhyeXJMU3BMWWFKSFNsenhFbHlMVUJVN045eHJmWFlUTXhvbGxxdFFreWFHRlpVWFROQUlkaEJDSUI0czE0R0EzamNJX1lpTWVsaHRNMHI3cHhRbUtYcW02aG1EbzNINlROM1RJS0U0aXJXWThKT2daQU1uV1Z3UXBkbmNDYlREQ0tBX2k2Rk4?oc=5": 1792080654.409408,
-  "http://lokaantar.com/story/331399/2026/10/15/fuel-": 1792080654.409408,
   "https://risingnepaldaily.com/news/87844": 1792081256.1610172,
   "https://baahrakhari.com/detail/505076": 1792081256.1610172,
   "http://lokaantar.com/story/331402/2026/10/15/narayani-": 1792081256.1610172,
@@ -1680,7 +1676,9 @@
   "https://nagariknews.nagariknetwork.com/politics/interesting-debate-between-mayor-and-mp-on-infrastructure-development-24-50.html": 1792252249.2098832,
   "https://nagariknews.nagariknetwork.com/Dharma-Saskriti/mithila-s-original-religious-tradition-beltodi-celebrated-rajdevi-temple-bustling-with-devotees-41-16.html": 1792252249.2098832,
   "https://nagariknews.nagariknetwork.com/social-affairs/demand-for-bananas-increases-in-nauratha-br-46-16.html": 1792252249.2098832,
-  "https://baahrakhari.com/detail/505234": 1792252888.067765
+  "https://baahrakhari.com/detail/505234": 1792252888.067765,
+  "https://baahrakhari.com/detail/505235": 1792254050.9526737,
+  "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNb1YwWnNOaWVpeE1WTkUxQl9EX1BsaDFHNHR6cDNFMW1aTVBCekdHcGhaYmVIakM3ZGw2YmgzWFBBaF85Wk5TYXVRQ0VkZmJRdU5seERncVlieHJBd1RyTHBlcnI4aFZnWU5rb2pDdDhqeTE3ZHBBcDVpRkp1LWZVVjYtVi1PMmpPYW9sTXIwYjIwLXNWeERpTGtUdHRaS042Y1hwUDZadUs?oc=5": 1792254050.9526737
  },
  "queue": [
   {
@@ -1749,51 +1747,6 @@
    "cat": "society",
    "val": 1,
    "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Construction Entrepreneurs Can Complete Quality Work On Time If Bureaucratic Red Tape Is Removed, Says FNCCI President Pandey",
-   "summary": "Kathmandu. Nepal Construction Entrepreneurs Federation (FNCCI) President Nicolas Pandey has claimed that construction entrepreneurs can complete quality work within the...",
-   "link": "http://english.ratopati.com/story/84042/work-can-be-completed-on-time-without-cumbersome-administrative-procedures-chairman-pandey",
-   "source": "Ratopati EN",
-   "ts": 1792225162,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/1792222699-8f6gx_ZruENUoz7p.webp",
-   "lang": "en",
-   "hl": "Construction Entrepreneurs Can Complete Quality Work On Time If Bureaucratic Red Tape Is Removed, Says FNCCI President Pandey",
-   "en": "Construction Entrepreneurs Can Complete Quality Work On Time If Bureaucratic Red Tape Is Removed, Says FNCCI President Pandey",
-   "ne": "Construction Entrepreneurs Can Complete Quality Work On Time If Bureaucratic Red Tape Is Removed, Says FNCCI President Pandey",
-   "imp": 3,
-   "tags": [
-    "FNCCI",
-    "Construction",
-    "ChandniPandey"
-   ],
-   "cat": "economy",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "ट्रम्पको 'सुपर इन्टेलिजेन्स फोर्स' के हो, यसले के गर्छ ?",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/505207",
-   "source": "Baahrakhari",
-   "ts": 1792224720,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "ट्रम्पको 'सुपर इन्टेलिजेन्स फोर्स' के हो, यसले के गर्छ ?",
-   "en": "ट्रम्पको 'सुपर इन्टेलिजेन्स फोर्स' के हो, यसले के गर्छ ?",
-   "ne": "ट्रम्पको 'सुपर इन्टेलिजेन्स फोर्स' के हो, यसले के गर्छ ?",
-   "imp": 1,
-   "tags": [
-    "Trump",
-    "SuperIntelligence"
-   ],
-   "cat": "tech",
-   "val": 1,
-   "teaser": true,
    "hits": 1
   },
   {
@@ -2531,29 +2484,6 @@
    "hits": 2
   },
   {
-   "title": "NPL to enforce stricter criteria for players' eligibility, NOC mandatory for foreign players",
-   "summary": "Kathmandu, Oct 17: The Nepal Premier League (NPL) is set to implement stricter rules on players' eligibility, corruption...",
-   "link": "https://risingnepaldaily.com/news/87914",
-   "source": "Rising Nepal",
-   "ts": 1792235499,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "NPL to enforce stricter criteria for players' eligibility, NOC mandatory for foreign players",
-   "en": "NPL to enforce stricter criteria for players' eligibility, NOC mandatory for foreign players",
-   "ne": "NPL to enforce stricter criteria for players' eligibility, NOC mandatory for foreign players",
-   "imp": 3,
-   "tags": [
-    "NPL",
-    "Cricket",
-    "Nepal"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 3
-  },
-  {
    "title": "म त भेज हुँ, अब लसुन-प्याज समेत नखाने अवस्थामा छु : आशिका तामाङ",
    "summary": "",
    "link": "https://baahrakhari.com/detail/505218",
@@ -2762,29 +2692,6 @@
    "hits": 3
   },
   {
-   "title": "Nepal Observes Phulpati on Seventh Day of Navaratri; Animal Sacrifices Held at Shakti Shrines Across District Headquarters",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdzJCSHV1UVJkb0VNSHZqeXN2aE44SDhiVTMybU1XNzA4VWVOYzg3ZWN1WkpqU0ktclRkMElJeFpPYWFMOHNQY0hmb1pSbkhkbUd0V19SbU9IMXZhQktSQUc1elRidHU4QjBKcVIxdTVmRkp2czV0cnMydzFmTEdmWjlSWmxJclM3TTRjdmFvNFBwQ0U?oc=5",
-   "source": "Hindusthan Samachar English",
-   "ts": 1792234498,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Nepal Observes Phulpati on Seventh Day of Navaratri; Animal Sacrifices Held at Shakti Shrines Across District Headquarters",
-   "en": "Nepal Observes Phulpati on Seventh Day of Navaratri; Animal Sacrifices Held at Shakti Shrines Across District Headquarters",
-   "ne": "Nepal Observes Phulpati on Seventh Day of Navaratri; Animal Sacrifices Held at Shakti Shrines Across District Headquarters",
-   "imp": 3,
-   "tags": [
-    "Phulpati",
-    "Navaratri",
-    "Dashain"
-   ],
-   "cat": "culture",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
    "title": "Tatopani border crossing to remain open for three days",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYm81MV9uMGF6YmYzdVo5VnlfRFg5cENxbmtVRFBjeHZIeFh0M1NWdkJjU01QZ1piMDdJUC1YV1duM3E1UUFoMi03aV9JekYyckxLeG1lbG4wVUt1ZkVrUktFMXZmaFR3ajBsU253MWplRWxVbHp2WlhTUkdvOGFOa3k4YTc5S2hLVTNfelRrbHlNa2FoUDdGV3ZrVDVsVEYta0dwOV9NUGU3ajNvdmFnTGhYZw?oc=5",
@@ -2803,29 +2710,6 @@
     "Trade"
    ],
    "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "हरेक दिन ६७ जोडीको सम्बन्धविच्छेद, ११ वर्षमा १ लाखभन्दा बढीको वैवाहिक सम्बन्ध टुट्यो",
-   "summary": "नेपालमा औसतमा हरेक दिन ६७ जोडीको वैवाहिक सम्बन्ध कानूनीरूपमा अन्त्य हुने गरेको छ ।आर्थिक वर्ष २०८१/८२ मा देशभर २४ हजार ५२२ वटा सम्बन्धविच्छेद दर्ता भएका छन् । एक वर्षको यो तथ्यांकलाई दैनिक औसतमा गणना गर्दा हरेक २१...",
-   "link": "http://lokaantar.com/story/331492/2026/10/17/divorce",
-   "source": "Lokaantar",
-   "ts": 1792225249.8111198,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "हरेक दिन ६७ जोडीको सम्बन्धविच्छेद, ११ वर्षमा १ लाखभन्दा बढीको वैवाहिक सम्बन्ध टुट्यो",
-   "en": "हरेक दिन ६७ जोडीको सम्बन्धविच्छेद, ११ वर्षमा १ लाखभन्दा बढीको वैवाहिक सम्बन्ध टुट्यो",
-   "ne": "हरेक दिन ६७ जोडीको सम्बन्धविच्छेद, ११ वर्षमा १ लाखभन्दा बढीको वैवाहिक सम्बन्ध टुट्यो",
-   "imp": 3,
-   "tags": [
-    "Divorce",
-    "Nepal",
-    "सम्बन्धविच्छेद"
-   ],
-   "cat": "society",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -3104,7 +2988,7 @@
    "cat": "disaster",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "गगनलाई उदय शमशेरको शुभकामना : कांग्रेसलाई एक ढिक्का बनाउनु आजको आवश्यकता",
@@ -7132,9 +7016,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "economy"
+  },
+  {
+   "ts": 1792254057.8297436,
+   "en": "Nepal Observes Phulpati on Seventh Day of Navaratri with Sacrifices",
+   "ne": "Nepal Observes Phulpati on Seventh Day of Navaratri with Sacrifices",
+   "link": "https://english.hindusthansamachar.in/Encyc/2026/10/17/Nepal-Durgapuja-Saptami-Fulpat.php",
+   "source": "Hindusthan Samachar English",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "culture"
   }
  ],
- "updated": 1792253449,
+ "updated": 1792254073,
  "pending_since": 1792252888.067765,
  "fb_blocks": [
   1790350880.4125228,
