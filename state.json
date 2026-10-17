@@ -1671,29 +1671,6 @@
  },
  "queue": [
   {
-   "title": "Nepal's Deadly Flood Puts Its Always On Health System to the Test",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSl9hb01BSG1tRVE4dUZLTVljaWNCWUxIOWJucDByNHFDTm5FRVBOd09rcVMwUzJUd2hOMWh2enU1ei03aWhfWS1qLWI2QjlicG53c2p5Nm5uYjMzMGRXTktSSjZqRjZWeXNOSncteFh4ZTl4UEFkRTU3MnVhQUIyYlJDZ004TXljanctc2NQRWhrNHM?oc=5",
-   "source": "Bioengineer.org",
-   "ts": 1792227417,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Nepal's Deadly Flood Puts Its Always On Health System to the Test",
-   "en": "Nepal's Deadly Flood Puts Its Always On Health System to the Test",
-   "ne": "Nepal's Deadly Flood Puts Its Always On Health System to the Test",
-   "imp": 4,
-   "tags": [
-    "Nepal",
-    "Flood",
-    "HealthSystem"
-   ],
-   "cat": "disaster",
-   "val": 1,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "एनपीएलमा अधिकतम आठ विदेशी खेलाडी राख्न पाइने",
    "summary": "यसअघि अघिल्ला दुई संस्करणमा टोलीमा अधिकतम छ विदेशी खेलाडी राख्न पाउने व्यवस्था रहेकामा यसपटक संख्या बढाइएको उनले जानकारी दिए ।...",
    "link": "https://nagariknews.nagariknetwork.com/sports/a-maximum-of-eight-foreign-players-can-be-fielded-in-the-npl-65-23.html",
@@ -1737,52 +1714,6 @@
    "val": 1,
    "teaser": true,
    "hits": 1
-  },
-  {
-   "title": "Health Ministry urges for uninterrupted healthcare services during Dashain holidays",
-   "summary": "Kathmandu, Oct 17: The Ministry of Health and Food Safety has urged hospitals at the federal and province-levels to cont...",
-   "link": "https://risingnepaldaily.com/news/87910",
-   "source": "Rising Nepal",
-   "ts": 1792227187,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Health Ministry urges for uninterrupted healthcare services during Dashain holidays",
-   "en": "Health Ministry urges for uninterrupted healthcare services during Dashain holidays",
-   "ne": "Health Ministry urges for uninterrupted healthcare services during Dashain holidays",
-   "imp": 3,
-   "tags": [
-    "HealthMinistry",
-    "Dashain",
-    "Hospital"
-   ],
-   "cat": "health",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "दसैंका लागि राजधानी भित्रिएका खसी, बोका र च्याङ्ग्रा",
-   "summary": "बडादसैं सुरू भएसँगै काठमाडौं उपत्यकाका विभिन्न स्थानमा खसी, बोका, भेडा र च्याङ्ग्राको किनबेच बढेको छ।",
-   "link": "https://www.setopati.com/social/401028",
-   "source": "Setopati",
-   "ts": 1792227459,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "दसैंका लागि राजधानी भित्रिएका खसी, बोका र च्याङ्ग्रा",
-   "en": "दसैंका लागि राजधानी भित्रिएका खसी, बोका र च्याङ्ग्रा",
-   "ne": "दसैंका लागि राजधानी भित्रिएका खसी, बोका र च्याङ्ग्रा",
-   "imp": 2,
-   "tags": [
-    "Dashain",
-    "Market",
-    "खसीच्याङ्ग्रा"
-   ],
-   "cat": "society",
-   "val": 2,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "व्यक्तिको चमत्कारबाट दिगो रूपान्तरण सम्भव हुँदैन : गगन थापा",
@@ -6973,7 +6904,7 @@
    "cat": "crime"
   }
  ],
- "updated": 1792255866,
+ "updated": 1792256488,
  "pending_since": 1792255250.3434474,
  "fb_blocks": [
   1790350880.4125228,
