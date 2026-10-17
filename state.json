@@ -1,13 +1,5 @@
 {
  "seen": {
-  "https://gorkhapatraonline.com/news/226796": 1792050048.8925145,
-  "https://theannapurnaexpress.com/story/67950": 1792050048.8925145,
-  "https://risingnepaldaily.com/news/87828": 1792050649.1772501,
-  "https://risingnepaldaily.com/news/87827": 1792050649.1772501,
-  "http://english.ratopati.com/story/83835/how-much-will-goat-meat-cost-this-dashain": 1792050649.1772501,
-  "https://risingnepaldaily.com/news/87826": 1792050649.1772501,
-  "https://risingnepaldaily.com/news/87825": 1792050649.1772501,
-  "http://lokaantar.com/story/331367/2026/10/15/pakistan-": 1792050649.1772501,
   "http://english.ratopati.com/story/83839/firdosh-the-only-directly-elected-mp-from-madhesh-elected-as-joint-general-secretary-of-nepali-congress": 1792051292.4387302,
   "https://baahrakhari.com/detail/505022": 1792051292.4387302,
   "https://gorkhapatraonline.com/news/226800": 1792051292.4387302,
@@ -1872,7 +1864,10 @@
   "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNa21BbW5NQUJyQ0dMVEVDODBKc2tTcmM4V1F5N0RMZ3kzUlVxVWMxdXVMcFp6bF9HXzIyS0ZMczFMeE8tT2MwcTFIRC10UHRDSm9MRVo5ZWxTenM4Y2hKQ2NSbmpTZGE0N0FzV0hGRWlyV1c5UXZpbEFrNkw2YzE2SHZoblk5Mk5femdFUXhGMlpfdUhTY0VvdmdMeWgxVWhKRUpneVJXSktSdUJ2RDVGMVFCbzJMYk1KaUNRVzNja3o?oc=5": 1792222845.8342726,
   "https://theannapurnaexpress.com/story/68009": 1792222845.8342726,
   "https://baahrakhari.com/detail/505203": 1792222845.8342726,
-  "https://baahrakhari.com/detail/505201": 1792222845.8342726
+  "https://baahrakhari.com/detail/505201": 1792222845.8342726,
+  "https://nagariknews.nagariknetwork.com/politics/kishor-shrestha-was-taken-to-the-cyber-bureau-for-discussion-83-51.html": 1792223452.6130092,
+  "https://nagariknews.nagariknetwork.com/social-affairs/187-000-new-voters-added-br-57-93.html": 1792223452.6130092,
+  "http://lokaantar.com/story/331497/2026/10/17/kishor-and-himesh-": 1792223452.6130092
  },
  "queue": [
   {
@@ -5528,7 +5523,7 @@
    "cat": "crime",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 4
   },
   {
    "title": "मतदाता नामावली अद्यावधिक : एक लाख ८७ हजार मतदाता थपिए",
@@ -5551,7 +5546,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Nepal Police is ever committed to public service and rule of law, asserts IGP Karki",
@@ -8983,8 +8978,8 @@
    "cat": "politics"
   }
  ],
- "updated": 1792222867,
- "pending_since": null,
+ "updated": 1792223455,
+ "pending_since": 1792223452.6130092,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
