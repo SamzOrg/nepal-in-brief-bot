@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdHZ2d2k1M1JPdWxSbnBya3kzN1gwTERVWWRIMTdLclZ3THI0ZWI1LXFiZHBnTXp1TU1WcjZQZUoxQzdzbVFaS1VLRl9TUk13dTB4UmxkV19CMHNfdkthVXpNckxEY29rd0s0UGQwcnd3Y2F4YkZsYnpJXzdSUENlVXhNSlJfTl9pWEpVanloZkcxMWFhemJid1YtVG5OU3VmUlVkdWdRSDhEeHVaN3V5eEhqRGNkZUE?oc=5": 1792027868.428234,
-  "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcDFzaE9aUU9aR3lqS1BkX09pWnEyYjhVRld0VkRqTWx2Q002QVBDNmNIT21WOWMtNlNNOVhCVmNDcll2MS15OEROMGEybmR2SEJmU29rZFExbkJybkdLSWZSRzdoekRSbVpqU204aWlXTkJXVjl5a2wzal9vank4MVRnOEV4dFFKSjI3QWM1ZENza0VxN1Jhc0FKSQ?oc=5": 1792027868.428234,
   "https://www.setopati.com/social/400866": 1792028452.3912354,
   "https://gorkhapatraonline.com/news/226743": 1792028452.3912354,
   "https://baahrakhari.com/detail/504986": 1792028452.3912354,
@@ -2040,7 +2038,10 @@
   "http://english.ratopati.com/story/83999/complaints-at-bluepine-water-industry-in-gokarneshwor-weaknesses-in-sanitation-water-sample-collection": 1792200047.2283692,
   "https://nagariknews.nagariknetwork.com/Dharma-Saskriti/ashwin-shukla-saptami-phulpati-being-brought-in-73-43.html": 1792200047.2283692,
   "http://lokaantar.com/story/331473/2026/10/17/weather-": 1792200047.2283692,
-  "https://nagariknews.nagariknetwork.com/economy/festivals-keep-the-economy-moving-br-19-43.html": 1792200047.2283692
+  "https://nagariknews.nagariknetwork.com/economy/festivals-keep-the-economy-moving-br-19-43.html": 1792200047.2283692,
+  "https://baahrakhari.com/detail/505174": 1792201247.1130435,
+  "https://gorkhapatraonline.com/news/226963": 1792201247.1130435,
+  "https://kathmandupost.com/health/2026/10/17/over-1-500-flood-hit-children-suffer-acute-malnutrition-1792201083": 1792201247.1130435
  },
  "queue": [
   {
@@ -2062,51 +2063,6 @@
     "NepalEntry"
    ],
    "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "We're not Bangladesh or Nepal, regime change will be democratic: Prakash Raj",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYm9mbC1DeFBZV2liNUl0WjRkTGdCcnJfQzlPSkN1Z0lfQXBWVVdUNEtVVlpFNW9GOXlJN3hWbEtMVEJkMDF5VUhSU1pKcl94am1HRGlMb2x5MkM1X2ZtNTN5VWlmbnRqc0RKM3JJVmxpWUxyZmM2TDZEVnRuZklldXZDMmZxUGxaVExJRUFSVjByYXlia0pIR3FmVTZrYzZqQWpNT0tYSDg3LWtpamdkTFZSSlNrcVlXeGk4TzJTMGR0UQ?oc=5",
-   "source": "India Today",
-   "ts": 1792172100,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "We're not Bangladesh or Nepal, regime change will be democratic: Prakash Raj",
-   "en": "We're not Bangladesh or Nepal, regime change will be democratic: Prakash Raj",
-   "ne": "We're not Bangladesh or Nepal, regime change will be democratic: Prakash Raj",
-   "imp": 2,
-   "tags": [
-    "PrakashRaj",
-    "RegimeChange"
-   ],
-   "cat": "politics",
-   "val": 2,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "To Recreate Everest, 'Tenzing' Filmmakers Went to These \"Vertigo-Inducing\" Spots in New Zealand and Nepal",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRUtFcllVcHVfMHdxV2VsYU4yU2ZpWmxxSW9hSC13TW90ejlnTG1odjNXdk5OeDdRZHpkZU8tYXRhOHZmTjdDQU1TSXctVGdLQmRuUk9OM1VGTXlMSllNM05WdnFtMU5fRjFGSDN2TUpDdDhxMnFWVU5kdVJkQVpfbHp4XzNMSWdUUGE4TDQ2ZVlHU00wM1NfSHN3?oc=5",
-   "source": "Outside Magazine",
-   "ts": 1792172060,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "To Recreate Everest, 'Tenzing' Filmmakers Went to These \"Vertigo-Inducing\" Spots in New Zealand and Nepal",
-   "en": "To Recreate Everest, 'Tenzing' Filmmakers Went to These \"Vertigo-Inducing\" Spots in New Zealand and Nepal",
-   "ne": "To Recreate Everest, 'Tenzing' Filmmakers Went to These \"Vertigo-Inducing\" Spots in New Zealand and Nepal",
-   "imp": 2,
-   "tags": [
-    "Everest",
-    "TenzingFilm",
-    "NewZealand"
-   ],
-   "cat": "culture",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -2521,7 +2477,7 @@
    "cat": "culture",
    "val": 3,
    "teaser": false,
-   "hits": 3
+   "hits": 4
   },
   {
    "title": "विद्युत् आपूर्ति नियमित गराउन निर्देशन",
@@ -6313,9 +6269,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "disaster"
+  },
+  {
+   "ts": 1792201254.0835032,
+   "en": "Over 1,500 flood-hit children suffer acute malnutrition in Rasuwa, Nuwakot and Dhading",
+   "ne": "Over 1,500 flood-hit children suffer acute malnutrition in Rasuwa, Nuwakot and Dhading",
+   "link": "https://kathmandupost.com/health/2026/10/17/over-1-500-flood-hit-children-suffer-acute-malnutrition-1792201083",
+   "source": "Kathmandu Post",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "health"
   }
  ],
- "updated": 1792200671,
+ "updated": 1792201272,
  "pending_since": 1792200666.9750361,
  "fb_blocks": [
   1790350880.4125228,
