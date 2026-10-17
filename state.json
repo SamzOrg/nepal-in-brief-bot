@@ -1670,7 +1670,9 @@
   "https://news.google.com/rss/articles/CBMirgFBVV95cUxNc0ZMVERRNkkyM00wYlQxNGsyTnV0OHF1S3gyZHN5VW9Qd0dEX2MwOWlYQ0FyRjYwQlhvRzdhQnp2aUdfZFdmRG9RSzdJUUJLRWllcVg0M2JVbWw4cHZCYVgxUGp6dnFMMDB4anFrUDJVUjZ4OVFNUU55ZEZqWUphYjNVaGJ0eFNBUlU4ZnV2TW9iRzNVcE1aU0IwT0tqcUNQcjU5YWlFTVVPS0VILWc?oc=5": 1792263681.2812207,
   "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOGUzMHdFV01BeFF1eEVjZHJaeHdxNkNRbnVFVW1TcGplY3ZxSFAwdUl6bnNkbDdVbFByS0NiSmdad25tYWJaY1VzYm5RS2MxV3lid081SFNnMk8xLWNfLWZFNG83bThET1owUlhsUFFxcmpkVkVmX2FFaGs5RnljVVhhWlZrUVlIYWpmRXF3Y2dya1QwdW1sUkkzc3RxZ3ZTZ3dZSkFiVGk?oc=5": 1792264249.3034985,
   "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYUpFQzJSZzNEUFBnYWhxc2IxSzRfaTF5RGV3VDJhRUFISGlkSTY0MGZqYWNuUmd6c05yWFlBRkp3N1lSa0lZdmVYSWxZVk45VlBKSGFkdW9sZ05qdzVXVU9ZTnlDR2tpV25paHk5REFqRm9UWVphSDFhTF9zVC1yMGJKaTNwNXdsd0RVTE5UNHlzRVQ5WmhLMks0LW5GY3dCcXFLWm5HN0R3VExuSWx1THFSUWg5TUdtLWtVQV9RSzVJdkZZX3ZKczNDQkJTaWNnbkV0SGNqOG9BZ3BW?oc=5": 1792264249.3034985,
-  "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZnlGMk15OGRPUFB0d29yQVVZSDNhZEg1RzljczhTeWRucU1XWEN1U3NuNGdfWnpLM2ZiTVk4SWlYeWdqZ3lCNW1qVUZwajBTTjZ6WWhzREhoV081WmlOTTJDVk81elBoaTdkNnZoOGtuR3U1aDRMZFVnVUlucGJLQXdGQS1ILV8tT05jbG5ZM21KRHVERmxTSGQ3dHhjSTJxenFZb2otZEZFUUNPaUE?oc=5": 1792264747.5754488
+  "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZnlGMk15OGRPUFB0d29yQVVZSDNhZEg1RzljczhTeWRucU1XWEN1U3NuNGdfWnpLM2ZiTVk4SWlYeWdqZ3lCNW1qVUZwajBTTjZ6WWhzREhoV081WmlOTTJDVk81elBoaTdkNnZoOGtuR3U1aDRMZFVnVUlucGJLQXdGQS1ILV8tT05jbG5ZM21KRHVERmxTSGQ3dHhjSTJxenFZb2otZEZFUUNPaUE?oc=5": 1792264747.5754488,
+  "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQU51a0VSd25ndHVXT2RrV0xzYzRKWlFDRkc0dDFXMlVJWml2UElrZmRSQ1hmZ1owczIzV1JoUkN2T3lTQU95UjctU0xCbGlIVmtMMnM4dVRJRWVkdkk4bmlqNWNvN0FEb3oxTG1tUGVuUkpDdXJkVENWQjE2b3NTV2JqTFNaZ3FNOWNXSmhhbUVCd2xJd0szUTdhUENXV1A1eGkwWWhURnU2Vl93S3piNDRLQjZraWJ6?oc=5": 1792264853.619818,
+  "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbVJhMk55SWFpZjdZR3d1NS1qUDVJOXdzSUxoLTBiUGNqU0NVXzFqc3BXSzZHbVdGQVRBeTEyTWZ0SWlFZG1TRThDVmhOaU5fWWgzVlZNOVBRN1ljSklwSTF0aTR0ZHpIbHlvTFZMRFZmOVFJQ0hvRHAtMFJISzN3dEw4X05Sa0dCYnl6WkZrOHBKRkxEajMyWmRCdENEZFczbjVRQ3BzUGNEYUtO?oc=5": 1792264853.619818
  },
  "queue": [
   {
@@ -3048,7 +3050,7 @@
    "cat": "politics",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Barcelona Defeats Real Betis 5-2 in La Liga",
@@ -3210,6 +3212,30 @@
    "val": 3,
    "teaser": false,
    "hits": 2
+  },
+  {
+   "title": "Over 100 foreign trekkers stranded in Nepal after floods sweep away trails, bridges",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbVJhMk55SWFpZjdZR3d1NS1qUDVJOXdzSUxoLTBiUGNqU0NVXzFqc3BXSzZHbVdGQVRBeTEyTWZ0SWlFZG1TRThDVmhOaU5fWWgzVlZNOVBRN1ljSklwSTF0aTR0ZHpIbHlvTFZMRFZmOVFJQ0hvRHAtMFJISzN3dEw4X05Sa0dCYnl6WkZrOHBKRkxEajMyWmRCdENEZFczbjVRQ3BzUGNEYUtO?oc=5",
+   "source": "News On AIR",
+   "ts": 1792259677,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "Over 100 foreign trekkers stranded in Nepal after floods sweep away trails, bridges",
+   "en": "Over 100 foreign trekkers stranded in Nepal after floods sweep away trails, bridges",
+   "ne": "Over 100 foreign trekkers stranded in Nepal after floods sweep away trails, bridges",
+   "imp": 4,
+   "tags": [
+    "Floods",
+    "Trekkers",
+    "Tourism",
+    "बाढी"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
@@ -6415,7 +6441,7 @@
    "cat": "crime"
   }
  ],
- "updated": 1792264751,
+ "updated": 1792264862,
  "pending_since": 1792263681.2812207,
  "fb_blocks": [
   1790350880.4125228,
