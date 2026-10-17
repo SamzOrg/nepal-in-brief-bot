@@ -1,11 +1,5 @@
 {
  "seen": {
-  "https://risingnepaldaily.com/news/87844": 1792081256.1610172,
-  "https://baahrakhari.com/detail/505076": 1792081256.1610172,
-  "http://lokaantar.com/story/331402/2026/10/15/narayani-": 1792081256.1610172,
-  "http://lokaantar.com/story/331400/2026/10/15/satungal-": 1792081256.1610172,
-  "https://nagariknews.nagariknetwork.com/social-affairs/motorcyclist-dies-on-the-spot-after-being-hit-by-truck-in-dharan-88-14.html": 1792081256.1610172,
-  "http://lokaantar.com/story/331403/2026/10/15/budhigandaki-": 1792081256.1610172,
   "https://baahrakhari.com/detail/505077": 1792081879.7746694,
   "https://baahrakhari.com/detail/505078": 1792082477.9916928,
   "http://english.ratopati.com/story/83893/budhigandaki-flood-road-reopens-after-five-days": 1792082477.9916928,
@@ -1681,74 +1675,6 @@
   "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNb1YwWnNOaWVpeE1WTkUxQl9EX1BsaDFHNHR6cDNFMW1aTVBCekdHcGhaYmVIakM3ZGw2YmgzWFBBaF85Wk5TYXVRQ0VkZmJRdU5seERncVlieHJBd1RyTHBlcnI4aFZnWU5rb2pDdDhqeTE3ZHBBcDVpRkp1LWZVVjYtVi1PMmpPYW9sTXIwYjIwLXNWeERpTGtUdHRaS042Y1hwUDZadUs?oc=5": 1792254050.9526737
  },
  "queue": [
-  {
-   "title": "Rastriya Swatantra Party Directs Cadres Against Exchanging Gifts During Festivals",
-   "summary": "Kathmandu. Rastriya Swatantra Party (RSP) has directed its leaders and cadres not to exchange gifts while exchanging greetings on the...",
-   "link": "http://english.ratopati.com/story/84041/rsp-instructs-leaders-and-cadres-not-to-give-or-receive-gifts-while-exchanging-greetings",
-   "source": "Ratopati EN",
-   "ts": 1792225842,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/bipin-acharya2_jeYUuiJGMC.jpg",
-   "lang": "en",
-   "hl": "Rastriya Swatantra Party Directs Cadres Against Exchanging Gifts During Festivals",
-   "en": "Rastriya Swatantra Party Directs Cadres Against Exchanging Gifts During Festivals",
-   "ne": "Rastriya Swatantra Party Directs Cadres Against Exchanging Gifts During Festivals",
-   "imp": 3,
-   "tags": [
-    "RastriyaSwatantraParty",
-    "Festival",
-    "रास्वपा"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "Vice President's message on Bada Dashain",
-   "summary": "Kathmandu, Oct 17: Vice President Ram Sahay Prasad Yadav has said that the great festival of Hindus, Bijaya Dashami, is...",
-   "link": "https://risingnepaldaily.com/news/87907",
-   "source": "Rising Nepal",
-   "ts": 1792225379,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Vice President's message on Bada Dashain",
-   "en": "Vice President's message on Bada Dashain",
-   "ne": "Vice President's message on Bada Dashain",
-   "imp": 2,
-   "tags": [
-    "VicePresident",
-    "Dashain"
-   ],
-   "cat": "society",
-   "val": 1,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "दसैँको माहोलले सुनसान गाउँघरमा चहलपहल",
-   "summary": "कृष्णबहादुर धामीखलङ्गा (दार्चुला), असोज ३१ गते । रोजगारी, अध्ययन र अवसरको खोजीमा सहर तथा विदेशमा रहेका नेपाली दसैँ मनाउन गाउँ फर्किन थालेपछि सुदूरपश्चिमका ग्रामीण बस्तीमा चहलपहल बढ...",
-   "link": "https://gorkhapatraonline.com/news/227005",
-   "source": "Gorkhapatra",
-   "ts": 1792225362,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/388565/conversions/unnamed-(7)-original.jpg",
-   "lang": "ne",
-   "hl": "दसैँको माहोलले सुनसान गाउँघरमा चहलपहल",
-   "en": "दसैँको माहोलले सुनसान गाउँघरमा चहलपहल",
-   "ne": "दसैँको माहोलले सुनसान गाउँघरमा चहलपहल",
-   "imp": 2,
-   "tags": [
-    "Dashain",
-    "Village",
-    "दसैँ"
-   ],
-   "cat": "society",
-   "val": 1,
-   "teaser": false,
-   "hits": 1
-  },
   {
    "title": "Nepal's Deadly Flood Puts Its Always On Health System to the Test",
    "summary": "",
@@ -7029,7 +6955,7 @@
    "cat": "culture"
   }
  ],
- "updated": 1792254073,
+ "updated": 1792254670,
  "pending_since": 1792252888.067765,
  "fb_blocks": [
   1790350880.4125228,
