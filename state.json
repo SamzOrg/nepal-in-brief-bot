@@ -2047,7 +2047,8 @@
   "https://gorkhapatraonline.com/news/226951": 1792197645.8100495,
   "https://gorkhapatraonline.com/news/226950": 1792197645.8100495,
   "https://gorkhapatraonline.com/news/226949": 1792197645.8100495,
-  "http://english.ratopati.com/story/83998/nepal-faces-canada-chance-to-secure-top-6-spot": 1792198247.459455
+  "http://english.ratopati.com/story/83998/nepal-faces-canada-chance-to-secure-top-6-spot": 1792198247.459455,
+  "https://nagariknews.nagariknetwork.com/social-affairs/this-is-the-weather-today-23-68.html": 1792198882.6606183
  },
  "queue": [
   {
@@ -2205,29 +2206,6 @@
    "val": 1,
    "teaser": false,
    "hits": 4
-  },
-  {
-   "title": "Thai woman held in Gurugram with expired visa, probe shows she entered India via Nepal",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWU9TNE5CVDF2VmJ6ck01V1pjYWl6dWZiNTgwel8ybVdqdVN0eDIwdkw1aGhXNEtIOXpEQjZLTFVOeTAxVVNUVWhBd2FXQVc4elJkT0JNNHdhODl4VWQ1NC1SX0tpN1V0bHNvc1BjMnlTNjlTdGkzcFJsUDZfcnBfeG9wNENzZ1JRSHpRNXZjR2RQd3FOR3ZLc3JFaG9fRGQ2NWNzUUpNV0QzcVdCZ1NFdGlET1NDNEJHWE9SNNIBwgFBVV95cUxQODdvUWpETW16Z0lEMFpMRnUyS1ZxbFAxU1Q4QXVFSHJrbGhXWG5CZXQzTjI1Y0Vlc3hpWGlBY0V3WDBHQm15VURFcGdydXZkeWE0UUF0TnhIazBhM3gtSmJpTGtMTEZCLVVFX0pKWER6NmFFa2RKUkZNdWlUdXlOUm9NWTRFWndmcXJHODdUZ1lRbkduekhHN0VObFBROVhjVXQ4NVU2eEdNaExiTU16U1hxeGxyOXpsU2hRUWR2aXVfZw?oc=5",
-   "source": "ThePrint",
-   "ts": 1792169613,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Thai woman held in Gurugram with expired visa, probe shows she entered India via Nepal",
-   "en": "Thai woman held in Gurugram with expired visa, probe shows she entered India via Nepal",
-   "ne": "Thai woman held in Gurugram with expired visa, probe shows she entered India via Nepal",
-   "imp": 1,
-   "tags": [
-    "Gurugram",
-    "India",
-    "Nepal"
-   ],
-   "cat": "crime",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "Influencer's 218-km overnight dash to Nepal hours before murder FIR under scanner | Hindustan Times",
@@ -2850,17 +2828,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1791593453.4705954,
-   "en": "Colorado Sherpa Association Sends $30k to Nepal for Flood Relief",
-   "ne": "Colorado Sherpa Association Sends $30k to Nepal for Flood Relief",
-   "link": "https://www.rmpbs.org/news/business-economy/united-sherpa-association-of-colorado-nepal-flood-relief",
-   "source": "Rocky Mountain PBS",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "society"
-  },
   {
    "ts": 1791595257.6623971,
    "en": "Nepali Congress 15th General Convention Vote Counting Underway",
@@ -6074,7 +6041,7 @@
    "cat": "sports"
   }
  ],
- "updated": 1792198250,
+ "updated": 1792198886,
  "pending_since": 1792198247.459455,
  "fb_blocks": [
   1790350880.4125228,
