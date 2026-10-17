@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://nagariknews.nagariknetwork.com/economy/remittances-worth-436-billion-rupees-entered-in-two-months-an-increase-of-23-9-percent-full-text-77-35.html": 1792060853.560418,
-  "https://baahrakhari.com/detail/505036": 1792060853.560418,
   "https://nagariknews.nagariknetwork.com/social-affairs/no-ban-on-sale-and-distribution-of-immunosuppressant-drugs-department-br-12-57.html": 1792061456.949942,
   "https://theannapurnaexpress.com/story/67958": 1792061456.949942,
   "https://nagariknews.nagariknetwork.com/economy/flood-victims-claim-over-rs-20-billion-in-insurance-only-rs-230-million-paid-25-54.html": 1792061456.949942,
@@ -1787,7 +1785,8 @@
   "https://baahrakhari.com/detail/505198": 1792233648.6467128,
   "https://nagariknews.nagariknetwork.com/arts/when-these-seven-songs-start-ringing-remember-dashain-has-arrived-br-40-88.html": 1792233648.6467128,
   "http://english.ratopati.com/story/84053/no-one-is-above-the-party-remove-me-from-the-post-of-chairman-if-i-fail-gagan-thapa": 1792233648.6467128,
-  "https://nagariknews.nagariknetwork.com/social-affairs/elderly-man-dies-in-border-dispute-27-year-old-arrested-br-10-75.html": 1792233648.6467128
+  "https://nagariknews.nagariknetwork.com/social-affairs/elderly-man-dies-in-border-dispute-27-year-old-arrested-br-10-75.html": 1792233648.6467128,
+  "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTkhJM290T2dyV0hOUC1UTGZ3RzJWMDY3TVU0UFRqRWRzYm83a2U3VzJKSnhJa2hHbUxZTVBTbGl2dTNwVVdzQ1FlS2ZleFQ0XzJZN0tfTXFIQ1AtX3B3Z19xcENYbjhDeXE4UGRUdmY2YTNjNXJyYWVaanRubHk3Y01xd01VWnByQTZfdkR2RTAzMlAxUExVS2FFZ2NJbkNQUUxZVkk2dFE3YWxJ?oc=5": 1792234249.7071586
  },
  "queue": [
   {
@@ -1879,53 +1878,6 @@
     "अपराध"
    ],
    "cat": "crime",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "भारतमा बंगलादेशजस्तै 'शासन परिवर्तन'को षड्यन्त्र भइरहेको भाजपाको आरोप",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/505179",
-   "source": "Baahrakhari",
-   "ts": 1792205273,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "भारतमा बंगलादेशजस्तै 'शासन परिवर्तन'को षड्यन्त्र भइरहेको भाजपाको आरोप",
-   "en": "भारतमा बंगलादेशजस्तै 'शासन परिवर्तन'को षड्यन्त्र भइरहेको भाजपाको आरोप",
-   "ne": "भारतमा बंगलादेशजस्तै 'शासन परिवर्तन'को षड्यन्त्र भइरहेको भाजपाको आरोप",
-   "imp": 2,
-   "tags": [
-    "India",
-    "Bangladesh",
-    "BJP"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "दसैंमा प्रकाशको सांगीतिक कोसेली, मगर संस्कृतिदेखि परदेशीको कथासम्म",
-   "summary": "पछिल्ला केही वर्षयता दसैंको आसपास नयाँ गीत ल्याउँदै आएका प्रकाशले यसपालि 'शिरमै फूल माया' स्रोता तथा दर्शकसामु सुम्पिएका हुन्।",
-   "link": "https://www.setopati.com/art/interview/401001",
-   "source": "Setopati",
-   "ts": 1792205220,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "दसैंमा प्रकाशको सांगीतिक कोसेली, मगर संस्कृतिदेखि परदेशीको कथासम्म",
-   "en": "दसैंमा प्रकाशको सांगीतिक कोसेली, मगर संस्कृतिदेखि परदेशीको कथासम्म",
-   "ne": "दसैंमा प्रकाशको सांगीतिक कोसेली, मगर संस्कृतिदेखि परदेशीको कथासम्म",
-   "imp": 2,
-   "tags": [
-    "PrakashSoput",
-    "Dashain",
-    "Music",
-    "संगीत"
-   ],
-   "cat": "culture",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -2025,53 +1977,6 @@
    "hits": 1
   },
   {
-   "title": "अभिजित दीपके पक्राउ, आज अदालतमा पेस गरिँदै",
-   "summary": "कक्रोच जनता पार्टी (सीजेपी) का संस्थापक अभिजित दीपकेलाई दिल्ली प्रहरीले पक्राउ गरेको छ।",
-   "link": "https://nagariknews.nagariknetwork.com/international/abhijit-deepak-arrested-to-be-presented-in-court-today-43-47.html",
-   "source": "Nagarik News",
-   "ts": 1792205103,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1791613439_abhijeet%20dipake.jpg",
-   "lang": "ne",
-   "hl": "अभिजित दीपके पक्राउ, आज अदालतमा पेस गरिँदै",
-   "en": "अभिजित दीपके पक्राउ, आज अदालतमा पेस गरिँदै",
-   "ne": "अभिजित दीपके पक्राउ, आज अदालतमा पेस गरिँदै",
-   "imp": 3,
-   "tags": [
-    "Police",
-    "Arrest",
-    "प्रहरी"
-   ],
-   "cat": "crime",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Dairy Farmers Receive Timely Payments Ahead of Major Festival",
-   "summary": "Kathmandu. As the great festival of Dashain approaches, dairy farmers across the country are happier this year compared to the...",
-   "link": "http://english.ratopati.com/story/84009/dairy-farmers-finally-get-money-on-dashain-spent-the-previous-4-years-seeking-loans-to-celebrate-the-festival",
-   "source": "Ratopati EN",
-   "ts": 1792205100,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/dairy-milk_9LThBFgvma.jpg",
-   "lang": "en",
-   "hl": "Dairy Farmers Receive Timely Payments Ahead of Major Festival",
-   "en": "Dairy Farmers Receive Timely Payments Ahead of Major Festival",
-   "ne": "Dairy Farmers Receive Timely Payments Ahead of Major Festival",
-   "imp": 3,
-   "tags": [
-    "Dairy",
-    "Farmers",
-    "Dashain",
-    "किसान"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "साइतको प्रतीक नीलकण्ठ",
    "summary": "वैदिक सनातन धर्ममा वनस्पति तथा पशुपन्छीहरूलाई विभिन्न भगवान् र अवतारका प्रतीक मानेर पूजाआजा गरिन्छ । विशेष गरी चाडपर्वमा पशुपन्छीलाई पूजाआजा गरिन्छ । यमराजको सन्देशवाहक मानेर काग,...",
    "link": "https://gorkhapatraonline.com/news/226979",
@@ -2091,53 +1996,6 @@
    ],
    "cat": "culture",
    "val": 1,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "भत्ता पाएपछि खुसियाली",
-   "summary": "फिदिम समाचारदाता फिदिम, असोज ३१ गते । पाँचथरको हिलिहाङ गाउँपालिकाका दुई हजार दुई सय सेवाग्राहीलाई गाउँमै सामाजिक सुरक्षा भत्ता दिइएको छ । ज्येष्ठ नागरिक तथा अपाङ्गता भएका व्यक्तिला...",
-   "link": "https://gorkhapatraonline.com/news/226977",
-   "source": "Gorkhapatra",
-   "ts": 1792205226,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/388516/conversions/Untitled-1-original.jpg",
-   "lang": "ne",
-   "hl": "भत्ता पाएपछि खुसियाली",
-   "en": "भत्ता पाएपछि खुसियाली",
-   "ne": "भत्ता पाएपछि खुसियाली",
-   "imp": 2,
-   "tags": [
-    "Allowance",
-    "Dashain",
-    "भत्ता"
-   ],
-   "cat": "society",
-   "val": 1,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "समावेशीकरणको दिशामा नयाँ फड्को : गोरखापत्रद्वारा प्रकाशित कुलुङ भाषा",
-   "summary": "",
-   "link": "https://gorkhapatraonline.com/news/226976",
-   "source": "Gorkhapatra",
-   "ts": 1792204914,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/388515/conversions/6-original.jpg",
-   "lang": "ne",
-   "hl": "समावेशीकरणको दिशामा नयाँ फड्को : गोरखापत्रद्वारा प्रकाशित कुलुङ भाषा",
-   "en": "समावेशीकरणको दिशामा नयाँ फड्को : गोरखापत्रद्वारा प्रकाशित कुलुङ भाषा",
-   "ne": "समावेशीकरणको दिशामा नयाँ फड्को : गोरखापत्रद्वारा प्रकाशित कुलुङ भाषा",
-   "imp": 2,
-   "tags": [
-    "Gorkhapatra",
-    "Kulung",
-    "Language",
-    "भाषा"
-   ],
-   "cat": "culture",
-   "val": 3,
    "teaser": false,
    "hits": 1
   },
@@ -3395,30 +3253,6 @@
    ],
    "cat": "world",
    "val": 1,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "ललितले तोडे क्यानडाको ओपनिङ साझेदारी",
-   "summary": "आईसीसी विश्वकप लिग-२ प्रतियोगिताको शनिबार ओमानमा जारी खेलमा नेपाली टोलीका बलर ललित राजवंशीले क्यानडाका ओपनर ब्याट्सम्यान युवराज सामरा र आरोन जोन्सनबीचको लामो साझेदारी तोडेका छन् ।ललितले क्यानडाका ओपनर ब्याट्सम्यान...",
-   "link": "http://lokaantar.com/story/331494/2026/10/17/nepal-canada-",
-   "source": "Lokaantar",
-   "ts": 1792205449.4260411,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "ललितले तोडे क्यानडाको ओपनिङ साझेदारी",
-   "en": "ललितले तोडे क्यानडाको ओपनिङ साझेदारी",
-   "ne": "ललितले तोडे क्यानडाको ओपनिङ साझेदारी",
-   "imp": 3,
-   "tags": [
-    "Cricket",
-    "Canada",
-    "Nepal",
-    "क्रिकेट"
-   ],
-   "cat": "sports",
-   "val": 3,
    "teaser": false,
    "hits": 1
   },
@@ -4789,29 +4623,6 @@
    "val": 3,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "म चुकेँ भने सभापतिबाट हटाउनुहोस् : गगन थापा",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/505217",
-   "source": "Baahrakhari",
-   "ts": 1792233436,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "म चुकेँ भने सभापतिबाट हटाउनुहोस् : गगन थापा",
-   "en": "म चुकेँ भने सभापतिबाट हटाउनुहोस् : गगन थापा",
-   "ne": "म चुकेँ भने सभापतिबाट हटाउनुहोस् : गगन थापा",
-   "imp": 4,
-   "tags": [
-    "GaganThapa",
-    "NepaliCongress",
-    "नेपालीकांग्रेस"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "तिब्बतसँग छ १५ दिनको साइनो, भन्छन्- अब अर्को साउन कहिले आउला?",
@@ -8348,10 +8159,21 @@
    "n_ig": 1,
    "brk": true,
    "cat": "crime"
+  },
+  {
+   "ts": 1792234257.2372122,
+   "en": "म चुकेँ भने सभापतिबाट हटाउनुहोस् : नेपाली कांग्रेसका सभापति गगनकुमार थापा",
+   "ne": "म चुकेँ भने सभापतिबाट हटाउनुहोस् : नेपाली कांग्रेसका सभापति गगनकुमार थापा",
+   "link": "https://baahrakhari.com/detail/505217",
+   "source": "Baahrakhari",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "politics"
   }
  ],
- "updated": 1792233671,
- "pending_since": null,
+ "updated": 1792234275,
+ "pending_since": 1792234249.7071586,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
