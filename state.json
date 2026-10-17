@@ -1,13 +1,5 @@
 {
  "seen": {
-  "https://english.onlinekhabar.com/commission-annual-report-president.html": 1792048853.9617455,
-  "https://english.onlinekhabar.com/nepal-red-cross-launches-comprehensive-response-for-flood-affected-people.html": 1792048853.9617455,
-  "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWHFucFRlZEFCZWE5ZjlvUEFXWXNQbHNKR3Roa04yVHdwM3lmcE1JdDg0RkJwNFdlZXNLWXQ5VmlWLUdVc1A5OW90U1JBT2s1bmZXX0FvbE82bTQwbFhwaVVfTGRoMXlSSmlWaUh4U3Ntajh1ZG1SWEpIQUVjMy1IdUVENm1VQmNCV3lDMHBKbWY4VmpER21QcjJGVGhtb1E2dlJEeFJQUW9UQzM2cDdHbQ?oc=5": 1792048853.9617455,
-  "http://english.ratopati.com/story/83830/106-people-die-from-snakebites-in-6-months": 1792048853.9617455,
-  "https://baahrakhari.com/detail/505017": 1792048853.9617455,
-  "https://english.onlinekhabar.com/mandatory-health-screening-for-india-returnees-at-border-checkpoints.html": 1792048853.9617455,
-  "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQY2ViZEJVMmMyMlZuem1VOFF6SGJVdGcxdEE2OXVmT2pHWF9tUU1JUUI5a1UxWlRSR1QyNTZuLWt4MnBEUFU1SGNQUlFHdkNIYXowWjFmdV9qVk5UTmNxMVhsUEdrOTRvZG0tdGdmMVpyTkc3YXlkYjRodkVKSFpsTGM2Mk10R3VTM0ZN?oc=5": 1792048853.9617455,
-  "https://news.google.com/rss/articles/CBMingFBVV95cUxQMGRNWUM4WV9uTWUyZnNhU2xyNzdlZ1dDNHNUZDBVa1NmTDU1c3FMMGItbElENWl1V3h3QkNTTXY5Q2p2U0VLcTZLYk1fMTdlOHhVZnpWaTdNLXlhMGhBVjM5ekRVY25rNkJYZ29ibjdoQVZhcHc3SV9EX1BxM1YxREk1ekdubWpIcGlHek1uY1E4ZjAzV05nNDlVajVwZ9IBXEFVX3lxTE8zWXRBYktRTFBFX1ZvLUlFRU45WnBJR0N5eTlEZGR0TVlSdFFmaTdBSlZmMmw3Q2FWMVYtbDJjTjFnbThKODhXWC04bXI5eDBCS05UbDFrS1Jic0M5?oc=5": 1792048889.9763317,
   "https://gorkhapatraonline.com/news/226795": 1792049472.7473624,
   "https://english.onlinekhabar.com/14-of-17-highway-hotels-in-dhading-receive-yellow-stickers-in-quality-assessment.html": 1792049472.7473624,
   "https://baahrakhari.com/detail/505018": 1792049472.7473624,
@@ -1879,7 +1871,11 @@
   "http://english.ratopati.com/story/84031/4-killed-3-injured-in-two-vehicle-collision-in-afghanistan": 1792221047.1789744,
   "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVjAxeEw5Y0ZKOHhZaVJMQURocnRCMWNjam9YUmJwZnpUM1FRSDdOc1MyN1FmSVEzV0tmeDBaN3EyZEhVN21iaXNvb3VFeUp6RnZZdWhFbDM0MXF1VWdyOC1lM2lySFhKbDlQU3ZMVDdVUlNVb2ZDbkNpZUY4WEt4SzFmZks?oc=5": 1792221047.1789744,
   "http://english.ratopati.com/story/84023/question-to-deepak-raj-giri-is-there-a-demand-for-a-new-heroine-story-in-every-film-or-is-it-your-own": 1792221649.223819,
-  "https://english.onlinekhabar.com/kishor-shrestha-cyber-bureau.html": 1792221649.223819
+  "https://english.onlinekhabar.com/kishor-shrestha-cyber-bureau.html": 1792221649.223819,
+  "https://gorkhapatraonline.com/news/227002": 1792222270.7280254,
+  "https://nagariknews.nagariknetwork.com/social-affairs/one-person-dies-after-motorcycle-collides-with-truck-in-kapilvastu-11-21.html": 1792222270.7280254,
+  "https://kathmandupost.com/national/2026/10/17/police-take-journalist-kishor-shrestha-to-cyber-bureau-for-talks-over-complaints": 1792222270.7280254,
+  "http://lokaantar.com/story/331496/2026/10/17/kishor-shrestha-": 1792222270.7280254
  },
  "queue": [
   {
@@ -2891,7 +2887,7 @@
    "cat": "economy",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "दसैँको अर्थतन्त्र",
@@ -4873,7 +4869,7 @@
    "cat": "accident",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "धनकुटामा परम्परागत रूपमा फूलपाती बढाइँ",
@@ -5516,17 +5512,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1791616857.3959801,
-   "en": "Bhotekoshi Floods: Official death toll reaches 1,457",
-   "ne": "Bhotekoshi Floods: Official death toll reaches 1,457",
-   "link": "https://english.khabarhub.com/2026/10/571438/",
-   "source": "Khabarhub EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": true,
-   "cat": "disaster"
-  },
   {
    "ts": 1791617478.3541076,
    "en": "देशका विभिन्न स्थानबाट लागुऔषधसहित ३१ जना पक्राउ",
@@ -8751,7 +8736,7 @@
    "cat": "politics"
   }
  ],
- "updated": 1792221653,
+ "updated": 1792222275,
  "pending_since": 1792220483.0318625,
  "fb_blocks": [
   1790350880.4125228,
