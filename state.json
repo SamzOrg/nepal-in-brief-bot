@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMizwFBVV95cUxOY1Bta3Jiams4ajJzbFNudTB1Y1EzU3lrLXpHVkpwRE5QVVJ1OWNiRnNmRGh1c2ZNcHF0dGJtX1pHTWI2amZlMmtSbmVJLVFoT3FrMjE4SFZncTlKWW02NkZkeEprMDhXTHpHNDU1T0ZaUXpRbW94ZkhiMjBIMG5McXNHSXlvZ1NXVGRlWUp1ZDVTeUExbndEN3Z4cGtOZ3ZuSV9qY0tzcUVVQklYdlJQQzgxVmFROEhXbFhWQlljbFpfME90VUhXRUoxd3JHOWM?oc=5": 1792084854.583502,
-  "https://baahrakhari.com/detail/505080": 1792084854.583502,
   "https://gorkhapatraonline.com/news/226849": 1792085475.866136,
   "https://gorkhapatraonline.com/news/226845": 1792085475.866136,
   "http://english.ratopati.com/story/83896/baniya-elected-as-nc-central-member-with-third-vote": 1792085475.866136,
@@ -1669,7 +1667,8 @@
   "https://baahrakhari.com/detail/505225": 1792257650.648924,
   "http://english.ratopati.com/story/84062/nationwide-protests-in-france-movement-continues-to-intensify": 1792257650.648924,
   "https://baahrakhari.com/detail/505237": 1792257650.648924,
-  "http://english.ratopati.com/story/84061/pakistans-it-exports-grow-18-percent-in-september": 1792257650.648924
+  "http://english.ratopati.com/story/84061/pakistans-it-exports-grow-18-percent-in-september": 1792257650.648924,
+  "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdkYxMXFrbHJDeGhSbnBhUVI5eXo3X2t1Wm50OFZMdTBkTWRjVFV1eE5RcHBPbkFMM2hRMlFiRjI1QlloYm1la1dIcDJwMWRUUW81SnJwcklxcGhnQlFSWS03U1BVMk9JYkNScEt1X3ZITDd1bnkwVWdKR2lGR1NVQ3l0RzRSakxQNDlWS3VoajhfeFlE0gGUAUFVX3lxTFBoLUhGWjNtSFZOaG5SX281c0REb3dsc3J2ZE1MR2dsNERqN0I5anpPa0xVX3JPM21kMzB1WEZHM2pvSGxmYmlLUEt6ZnJMMFAtUHd2Z2NMa2NDM2xzMlU2dm9Jajd2UFdVZ1AtWFEyekY5NVA2TGw4c0RHamJiRFQ2M2o1NVdGZW52Z205OW9CN3FWY2k?oc=5": 1792258270.7003028
  },
  "queue": [
   {
@@ -1691,50 +1690,6 @@
    ],
    "cat": "politics",
    "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "दोस्रो दिन व्यापार घटे पनि 'जेलर २'ले पार गर्‍यो २ सय करोडको आँकडा",
-   "summary": "'जेलर २' नेपालका सिनेमा हलहरूमा समेत प्रदर्शनरत छ।",
-   "link": "https://www.setopati.com/art/bollywood/401029",
-   "source": "Setopati",
-   "ts": 1792229100,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "दोस्रो दिन व्यापार घटे पनि 'जेलर २'ले पार गर्‍यो २ सय करोडको आँकडा",
-   "en": "दोस्रो दिन व्यापार घटे पनि 'जेलर २'ले पार गर्‍यो २ सय करोडको आँकडा",
-   "ne": "दोस्रो दिन व्यापार घटे पनि 'जेलर २'ले पार गर्‍यो २ सय करोडको आँकडा",
-   "imp": 2,
-   "tags": [
-    "Jailer2",
-    "MovieBoxOffice"
-   ],
-   "cat": "culture",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Nepali Congress Election Committee Hands Over NPR 1 Crore to Central Committee",
-   "summary": "Kathmandu. The Nepali Congress Central Election Committee has handed over NPR 1 crore from the collected amount in its account...",
-   "link": "http://english.ratopati.com/story/84050/nepali-congress-central-election-committee-hands-over-rs-10-million-to-the-party",
-   "source": "Ratopati EN",
-   "ts": 1792229203,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/gagan_Y2A3OvCAUx.webp",
-   "lang": "en",
-   "hl": "Nepali Congress Election Committee Hands Over NPR 1 Crore to Central Committee",
-   "en": "Nepali Congress Election Committee Hands Over NPR 1 Crore to Central Committee",
-   "ne": "Nepali Congress Election Committee Hands Over NPR 1 Crore to Central Committee",
-   "imp": 2,
-   "tags": [
-    "NepaliCongress",
-    "ElectionCommittee"
-   ],
-   "cat": "politics",
-   "val": 3,
    "teaser": false,
    "hits": 1
   },
@@ -3589,6 +3544,29 @@
    ],
    "cat": "crime",
    "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Nepal flood disaster puts climate justice under spotlight",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdkYxMXFrbHJDeGhSbnBhUVI5eXo3X2t1Wm50OFZMdTBkTWRjVFV1eE5RcHBPbkFMM2hRMlFiRjI1QlloYm1la1dIcDJwMWRUUW81SnJwcklxcGhnQlFSWS03U1BVMk9JYkNScEt1X3ZITDd1bnkwVWdKR2lGR1NVQ3l0RzRSakxQNDlWS3VoajhfeFlE0gGUAUFVX3lxTFBoLUhGWjNtSFZOaG5SX281c0REb3dsc3J2ZE1MR2dsNERqN0I5anpPa0xVX3JPM21kMzB1WEZHM2pvSGxmYmlLUEt6ZnJMMFAtUHd2Z2NMa2NDM2xzMlU2dm9Jajd2UFdVZ1AtWFEyekY5NVA2TGw4c0RHamJiRFQ2M2o1NVdGZW52Z205OW9CN3FWY2k?oc=5",
+   "source": "DW.com",
+   "ts": 1792239000,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "Nepal flood disaster puts climate justice under spotlight",
+   "en": "Nepal flood disaster puts climate justice under spotlight",
+   "ne": "Nepal flood disaster puts climate justice under spotlight",
+   "imp": 4,
+   "tags": [
+    "Nepal",
+    "Flood",
+    "ClimateJustice"
+   ],
+   "cat": "disaster",
+   "val": 2,
    "teaser": false,
    "hits": 1
   }
@@ -6807,8 +6785,8 @@
    "cat": "crime"
   }
  ],
- "updated": 1792257654,
- "pending_since": null,
+ "updated": 1792258275,
+ "pending_since": 1792258270.7003028,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
