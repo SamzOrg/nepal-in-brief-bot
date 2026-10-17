@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://risingnepaldaily.com/news/87822": 1792034446.193299,
   "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWnpxdnZBUWkzcGhwM1RpQ18xeE1EdmFCbEUwWktWREFpbzFCNVZvbC15dXlGSU1abkwySWhwMllMdW1vVGhHSWFUNjFYMHI3OFdlWm92Y0FjRTBwVG90Ym5XR3MxWlhSRDczTDdhSnFXLVlzeUVjYTh6b05YVXVob0M4M1Rsbzc5TjZQRVlRY0h5bV9NcjZON0VfUGxyR25zcC0zbmdXWmFMOWtvaFdVNldFQUZUc2JOMTNWMTFPUjNjX3ZXMVVjT0Vn?oc=5": 1792035068.3155892,
   "https://baahrakhari.com/detail/504995": 1792035068.3155892,
   "https://gorkhapatraonline.com/news/226767": 1792035068.3155892,
@@ -2010,7 +2009,8 @@
   "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQS1FVDZMdUFTeE1KVUVRU2c2b3drNTNnNzlqQXlxZ3A2NkJxN0NlRjhDME9aQTNIOEQxbmNYRmpMVUl4ZjNwbEx5VFNNTlJ4WmdJbmUtT0RvcnJINUVONnhwYjFDRUNxZkdDeDR2Nk84VE9QN3FXc0NZUW1jNW8wSg?oc=5": 1792207245.8908758,
   "https://baahrakhari.com/detail/505181": 1792207245.8908758,
   "https://english.onlinekhabar.com/cant-leave-child-safety-chance-floods.html": 1792207245.8908758,
-  "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcHB2MWRob29EMzJ2QU4xdVhsbFFnaGZ2NHM2THBabDNqUXpmellSekdqOW5udFFURzFxS052Z3AxeFFra2p5dVFWT2F5YjY1QWpvbjRrZE1PLXdCY2UtQ1k1dUZmbHpFTFh0YlpZTHE3N1JKYm9TQXVCSVc2V1huTlllX01LU0YxZ2xQUnFEQ1hNUG5vTVN2WFJ2OTA?oc=5": 1792207245.8908758
+  "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcHB2MWRob29EMzJ2QU4xdVhsbFFnaGZ2NHM2THBabDNqUXpmellSekdqOW5udFFURzFxS052Z3AxeFFra2p5dVFWT2F5YjY1QWpvbjRrZE1PLXdCY2UtQ1k1dUZmbHpFTFh0YlpZTHE3N1JKYm9TQXVCSVc2V1huTlllX01LU0YxZ2xQUnFEQ1hNUG5vTVN2WFJ2OTA?oc=5": 1792207245.8908758,
+  "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0zNU9LZHZMSXAya3NqMXg0aEdkT0tiRnhkTk1XZE9DaTczNzJsRVlPU0F3UERVYUJob2RKRGJMOS1zMVZVWEsxbXNGYS1PMERo?oc=5": 1792207867.0721972
  },
  "queue": [
   {
@@ -3527,7 +3527,7 @@
    "cat": "culture",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "16 Musahar families get land titles after years of waiting",
@@ -4411,17 +4411,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1791602453.6061919,
-   "en": "Dashain shoppers face 50% price hikes in Kathmandu as China trade routes close",
-   "ne": "Dashain shoppers face 50% price hikes in Kathmandu as China trade routes close",
-   "link": "https://myrepublica.nagariknetwork.com/news/dashain-shoppers-face-up-to-50-price-hikes-as-china-trade-routes-remain-dis-79-86.html",
-   "source": "myRepublica",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "economy"
-  },
   {
    "ts": 1791604259.7988944,
    "en": "मौसमविद्का अनुसार भारी वर्षाको सम्भावना अझै बाँकी, सोमबारदेखि मौसममा सुधार हुने",
@@ -7635,7 +7624,7 @@
    "cat": "sports"
   }
  ],
- "updated": 1792207250,
+ "updated": 1792207872,
  "pending_since": 1792207245.8908758,
  "fb_blocks": [
   1790350880.4125228,
