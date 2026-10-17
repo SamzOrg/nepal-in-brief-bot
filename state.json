@@ -1,6 +1,5 @@
 {
  "seen": {
-  "http://english.ratopati.com/story/83795/chance-of-snowfall-in-the-himalayan-region-and-fog-in-the-terai": 1792040488.2633731,
   "https://thehimalayantimes.com/nepal/india-nepal-reaffirm-commitment-for-cooperation": 1792041056.6214948,
   "https://english.onlinekhabar.com/babu-thapa-arrested-sarlahi.html": 1792041056.6214948,
   "https://news.google.com/rss/articles/CBMingFBVV95cUxQT1JXUlJNUDBOc24xeWVaR1JxVzJHZTVFc2hNRlBaa0NMVExORDdvRG1RTm5UY3RVWUpFSUxXU0ZlU3dzQ053SzdjVmpDZzJ0MGlscGdmQXhnaWpFQlYyM25xQ0oyMEFfTWdHUHZ5UzV4RktIajVKOEdtaHlDRm1SZnpvMUJsYlluSDNKZ05mYUxPOEhpQlNfS1RUY0pmUQ?oc=5": 1792041056.6214948,
@@ -1960,7 +1959,8 @@
   "https://nagariknews.nagariknetwork.com/international/celebrate-dashain-but-protect-your-heart-senior-cardiologist-dr-lamsal-46-74.html": 1792213282.3097293,
   "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYnJYQXY3Y2JNWFliTlNndkwxQWdEZVJRQjlVNjdwdDluYm1xbEQ5TWJGZnpYNVRCSnR4a0xEM3RSN09ralFXekVLYXctVEh2M25NZ2FBTy0wS3NWcWtrRVZrMTFrTXBVSXhLNzJWazV0T2ZwblFETEhnOEhRWmowcGFsS0xVd1FIY2NLbVFaWEJEVXhBYjlQVk8yMnhhNEhqa1hJVTl1ZFRfMmRfUjZxbg?oc=5": 1792213282.3097293,
   "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaXZ4Q3RHYkNQRHVrZF9hS3ZyenczaV9yZS1vX0czMXdxOUg5LWVrdzNSLWdfbkg2c1NrQTVZTUZCdlF3eTdEbDUzM2pVOFdMVmYtUC0tYy1wOG9ZTUdfUm8xUkFJdTBXVGtEN25ETnR2NXdiUEo5dFVDdHExTUhqYndVWGJLS1oyeXZnYklZSk01bVNXZHFOcHBDdUNLTEN1RUFmeVpMS084REtCQjdHbXBFZXZFSUxkUXh6cC04Z0VpMjk4VFdFdg?oc=5": 1792213282.3097293,
-  "https://theannapurnaexpress.com/story/67999": 1792213282.3097293
+  "https://theannapurnaexpress.com/story/67999": 1792213282.3097293,
+  "https://theannapurnaexpress.com/story/68000": 1792213847.2747655
  },
  "queue": [
   {
@@ -3986,29 +3986,6 @@
    "val": 3,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "Government opens door for private sector in cross-border electricity trade",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPX19scEV6SGFEY0xlcWN4WWJ1V0QxRFFVbFZjZGh5T2dtdl9ZdUEyS2xTWS1BaHc3Yy1LNjM0ekFHbkh0MnZGRXJIN1NaVDVYMHRJNFpIZGlNT254RHNsNDRocTJoY05DSy01VmZULXF3ZWFjXzFya2xOTHNiWi1lMXkwUFZRaEUzcHg5cEhqZDdXMjZnQm9ocXdLOHlCMU1sVU5IcDFfTHYxcnpPT1ZzcHJDNG03UURvNk5tbUR4ZDVFQThTejJCWG9ydXM3Zw?oc=5",
-   "source": "myRepublica",
-   "ts": 1792205408,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Government opens door for private sector in cross-border electricity trade",
-   "en": "Government opens door for private sector in cross-border electricity trade",
-   "ne": "Government opens door for private sector in cross-border electricity trade",
-   "imp": 3,
-   "tags": [
-    "ElectricityTrade",
-    "PrivateSector",
-    "Nepal"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 3
   },
   {
    "title": "What's different about Janakpur Bolts' jersey reveal?",
@@ -8139,9 +8116,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "politics"
+  },
+  {
+   "ts": 1792213853.8390198,
+   "en": "Nepal opens cross-border electricity trade for private sector",
+   "ne": "Nepal opens cross-border electricity trade for private sector",
+   "link": "https://myrepublica.nagariknetwork.com/amp/news/government-opens-door-for-private-sector-in-cross-border-electricity-trade-37-23.html",
+   "source": "myRepublica",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "economy"
   }
  ],
- "updated": 1792213304,
+ "updated": 1792213869,
  "pending_since": 1792212644.816672,
  "fb_blocks": [
   1790350880.4125228,
