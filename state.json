@@ -1681,7 +1681,9 @@
   "https://news.google.com/rss/articles/CBMiZEFVX3lxTE02TG1mNWNpbk8yUHkxeHFHTzg4VWVneGdMN1BIZkNtNUg4d2VSdjAzaW45REJnX21ua0hqV1RPcWdiVWtrVjJLSG1MMXlmUHpXYTctdEJ1LVFHX3hWYi1YUE00ZlQ?oc=5": 1792278086.6197603,
   "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9mYkEzTW1fclVoalNSQXhUc2pVM2t2anhPa25hTkJFekVhNXlYWl80OHg1andCR2hmXzBnS051RV94OW5RSlBMVDRpTQ?oc=5": 1792280447.1347048,
   "https://theannapurnaexpress.com/story/68024": 1792280447.1347048,
-  "https://theannapurnaexpress.com/story/68023": 1792280447.1347048
+  "https://theannapurnaexpress.com/story/68023": 1792280447.1347048,
+  "http://english.ratopati.com/story/84067/this-is-the-foreign-currency-exchange-rate-today": 1792281569.9053164,
+  "http://lokaantar.com/story/331522/2026/10/17/dashain-": 1792281569.9053164
  },
  "queue": [
   {
@@ -1749,29 +1751,6 @@
     "Bangladesh"
    ],
    "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "१५ वर्षपछि 'रातो टीका जमरा' दशैँ गीत लिएर फर्किए सुरेश अधिकारी",
-   "summary": "दशैँका अवसरमा वर्षौँदेखि गुञ्जिँदै आएका 'चरीररि रै...' र 'हो दशैँ आयो' जस्ता लोकप्रिय गीतका सर्जक अधिकारीले लामो समयपछि नयाँ दशैँ गीतमा संगीत दिएका हुन्।...",
-   "link": "https://nagariknews.nagariknetwork.com/arts/suresh-adhikari-returns-with-dashain-song-rato-tika-jamara-after-15-years-20-78.html",
-   "source": "Nagarik News",
-   "ts": 1792252312,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1792252301_rato.jpg",
-   "lang": "ne",
-   "hl": "१५ वर्षपछि 'रातो टीका जमरा' दशैँ गीत लिएर फर्किए सुरेश अधिकारी",
-   "en": "१५ वर्षपछि 'रातो टीका जमरा' दशैँ गीत लिएर फर्किए सुरेश अधिकारी",
-   "ne": "१५ वर्षपछि 'रातो टीका जमरा' दशैँ गीत लिएर फर्किए सुरेश अधिकारी",
-   "imp": 2,
-   "tags": [
-    "DashainSong",
-    "SureshAdhikari",
-    "Music"
-   ],
-   "cat": "culture",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -2150,17 +2129,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1791676258.119188,
-   "en": "बाँकेको डुडुवाबाट ३२ किलो गाँससहित एक जना पक्राउ",
-   "ne": "बाँकेको डुडुवाबाट ३२ किलो गाँससहित एक जना पक्राउ",
-   "link": "https://gorkhapatraonline.com/news/226219",
-   "source": "Gorkhapatra",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "crime"
-  },
   {
    "ts": 1791678054.8774178,
    "en": "हिन्दुहरूको महान् पर्व बडादसैँ आजदेखि सुरु, बिहान ११:४७ बजे घटस्थापनाको साइत",
@@ -5374,7 +5342,7 @@
    "cat": "crime"
   }
  ],
- "updated": 1792281069,
+ "updated": 1792281574,
  "pending_since": 1792281047.265965,
  "fb_blocks": [
   1790350880.4125228,
