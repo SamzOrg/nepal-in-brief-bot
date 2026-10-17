@@ -1,6 +1,5 @@
 {
  "seen": {
-  "http://lokaantar.com/story/331395/2026/10/15/accident-": 1792078279.307647,
   "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWFRoMWdZNlNaMjdUX2lSTl95djN1OUJpVHZIWm5mOEhLNUdzNXp3elpITzZ1VUFKaXVFU2QyZWJNSEVZck1SWi1TLTloX2JvM0wtS2IyQU5uX0pVRWJhd2NoRFBnd0Zleno0S1lUcVRRZnZ1VjNhSFBBYnExa0dLOG5RRjJzSHhzWktPOW10bzdnTUxRUm80SjhfcWpOY3dTNk5HM2p5em85Q1ZXTHZFSg?oc=5": 1792078853.461103,
   "http://lokaantar.com/story/331397/2026/10/15/blind-": 1792078853.461103,
   "https://news.google.com/rss/articles/CBMizAFBVV95cUxOa1oyNDhlbTF2dWVIX2RVdEhGM1Q0VVhyeDRTWk85TjVBUEpTeFMwZ1ZFLUZYOEk2djFUQTFOTTFENEdBVkVIRVJFM1NoTmcyZ0dreHhZRVJUak9zY1ZvVVJORDJZd2FlM3VaQmRabFFvSElMeHYycXZVOU1QLUFJX3BuTTBCOEw4bV9yanh6VkhWOG5QS3paWnppdkFXOUVBaDdZTVlGNE1vT0lXZnU0MFhNSTRtNHdpdFE0aXRfSXhZa3g5VnJDc1VYRWw?oc=5": 1792078853.461103,
@@ -1684,7 +1683,8 @@
   "http://lokaantar.com/story/331517/2026/10/17/current-": 1792249849.2035003,
   "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUFNlLUJSVnBnUklvMnBTQzNPdXdwWk9XcFVmS3kwbDZlZktTYWRNbHZ2Z0hrZWMtTER0ajlqVERNSjNGSGJtSDUtMUk1WUNISWlWMWlvdi1mVFB2d0VidV94akY3bEJYSHVkVFlZTk42YW5uWUN5cmVUSHJJLUNZOXB1NDdiSVhYYl9mZE1MRTFYT1FSTWpyaWxCZTd4TW5QeDAwcEM5QmpqOWtCWHBjSDc2SQ?oc=5": 1792250449.2691514,
   "http://lokaantar.com/story/331518/2026/10/17/yatayat-": 1792250449.2691514,
-  "https://baahrakhari.com/detail/505232": 1792250449.2691514
+  "https://baahrakhari.com/detail/505232": 1792250449.2691514,
+  "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTm10SlhnMlNMbnNheWJGei02TW9ycFpWOFZ0VEI3dWZVeGJEUGh2QXZkV1JwRUxwRTNwNlcyY010MWR6VnZMQ1JmcVBJVE5wcnFDdXBtYW5nWXVYd1ZLWkFicGh5enFNdXczaFBoVjZaR1FBMTlQMlZCRUI3OVptS1BTWVBISEVMeUNMcld1OWkyNXVBeXc1c2pvRENha3Y5OHEzTllDVTA5VG12QTluY1ZSR3FDMmY5WmZ5QWRCWHdlb19zTzU1OXRxNmJWNWFZbl9z?oc=5": 1792251649.195475
  },
  "queue": [
   {
@@ -1957,29 +1957,6 @@
    ],
    "cat": "society",
    "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "अज्ञेय",
-   "summary": "बाढीले उसलाई किनारतिर बगाउँदै थियो। घडीले आयु क्रमशः घटाउँदै लगेको थियो।",
-   "link": "https://nagariknews.nagariknetwork.com/arts/unknown-br-39-76.html",
-   "source": "Nagarik News",
-   "ts": 1792222567,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1792222979_dd%2097.jpg",
-   "lang": "ne",
-   "hl": "अज्ञेय",
-   "en": "अज्ञेय",
-   "ne": "अज्ञेय",
-   "imp": 1,
-   "tags": [
-    "Literature",
-    "NepaliLiterature",
-    "अज्ञेय"
-   ],
-   "cat": "culture",
-   "val": 1,
    "teaser": false,
    "hits": 1
   },
@@ -2716,29 +2693,6 @@
    "val": 3,
    "teaser": false,
    "hits": 2
-  },
-  {
-   "title": "Nepal urges global action to connect mountain-to-sea early warning system",
-   "summary": "Nepal's Permanent Representative to the United Nations, Ambassador Lok Bahadur Thapa, has called for expanding integrated, real-time monitoring of Himalayan hazards through advanced technologies and scientific...",
-   "link": "https://theannapurnaexpress.com/story/68019",
-   "source": "Annapurna Express",
-   "ts": 1792222273.2551289,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Nepal urges global action to connect mountain-to-sea early warning system",
-   "en": "Nepal urges global action to connect mountain-to-sea early warning system",
-   "ne": "Nepal urges global action to connect mountain-to-sea early warning system",
-   "imp": 3,
-   "tags": [
-    "EarlyWarningSystem",
-    "ClimateChange",
-    "Nepal"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
   },
   {
    "title": "NPL to enforce stricter criteria for players' eligibility, NOC mandatory for foreign players",
@@ -3852,20 +3806,32 @@
    "val": 3,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "Nepal and World Bank explore catastrophe bond to secure funds after major earthquakes",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTm10SlhnMlNMbnNheWJGei02TW9ycFpWOFZ0VEI3dWZVeGJEUGh2QXZkV1JwRUxwRTNwNlcyY010MWR6VnZMQ1JmcVBJVE5wcnFDdXBtYW5nWXVYd1ZLWkFicGh5enFNdXczaFBoVjZaR1FBMTlQMlZCRUI3OVptS1BTWVBISEVMeUNMcld1OWkyNXVBeXc1c2pvRENha3Y5OHEzTllDVTA5VG12QTluY1ZSR3FDMmY5WmZ5QWRCWHdlb19zTzU1OXRxNmJWNWFZbl9z?oc=5",
+   "source": "Prop News Time",
+   "ts": 1792251000,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "Nepal and World Bank explore catastrophe bond to secure funds after major earthquakes",
+   "en": "Nepal and World Bank explore catastrophe bond to secure funds after major earthquakes",
+   "ne": "Nepal and World Bank explore catastrophe bond to secure funds after major earthquakes",
+   "imp": 4,
+   "tags": [
+    "CatastropheBond",
+    "WorldBank",
+    "Earthquake"
+   ],
+   "cat": "economy",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1791646281.3655648,
-   "en": "Gagan Kumar Thapa Elected Nepali Congress President, Bishwa Prakash Sharma Becomes Senior Vice-President",
-   "ne": "Gagan Kumar Thapa Elected Nepali Congress President, Bishwa Prakash Sharma Becomes Senior Vice-President",
-   "link": "https://earthnews.in/gagan-kumar-thapa-elected-nepali-congress-president-bishwa-prakash-sharma-becomes-senior-vice-president/",
-   "source": "The Earth News",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "politics"
-  },
   {
    "ts": 1791648096.7166505,
    "en": "Damaged Prithvi Highway disrupts Dashain travel as airlines add flights",
@@ -7079,7 +7045,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1792251072,
+ "updated": 1792251654,
  "pending_since": 1792249849.2035003,
  "fb_blocks": [
   1790350880.4125228,
