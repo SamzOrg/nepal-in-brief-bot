@@ -1,6 +1,5 @@
 {
  "seen": {
-  "http://english.ratopati.com/story/83889/search-continues-for-missing-mother-and-son-in-narayani": 1792080099.4669437,
   "https://gorkhapatraonline.com/news/226846": 1792080654.409408,
   "https://risingnepaldaily.com/news/87843": 1792080654.409408,
   "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeGZFMWlWN1lsU2tiTTZlTjFDcERZemFlOEY0ZTNwMDliYmF6N2hzWEMxRDJ0ZGdadjhyeXJMU3BMWWFKSFNsenhFbHlMVUJVN045eHJmWFlUTXhvbGxxdFFreWFHRlpVWFROQUlkaEJDSUI0czE0R0EzamNJX1lpTWVsaHRNMHI3cHhRbUtYcW02aG1EbzNINlROM1RJS0U0aXJXWThKT2daQU1uV1Z3UXBkbmNDYlREQ0tBX2k2Rk4?oc=5": 1792080654.409408,
@@ -3557,28 +3556,6 @@
    "hits": 1
   },
   {
-   "title": "Nepal: Rebar prices ease amid festive slowdown",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOT2Fwck5VZlExaVNxTFZibE1SQ3d4cnhWMEYxNWxCN1p1ZkZ4amQxM3pnbTBmNGRpTVkxT0FiMEFLRnN5YXl3ZURranBZQmNjRFNjLXoxTzQxRkllM1Y2RXRKWUw0VHdyUTViN0lUVDlFZWxxTGdLcWFGeFpYMTQzaGlDeEtFa3hadklsbHhpMmtMRnEyOHc?oc=5",
-   "source": "BigMint",
-   "ts": 1792224320,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Nepal: Rebar prices ease amid festive slowdown",
-   "en": "Nepal: Rebar prices ease amid festive slowdown",
-   "ne": "Nepal: Rebar prices ease amid festive slowdown",
-   "imp": 2,
-   "tags": [
-    "Rebar",
-    "Nepal"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "EU summit ends with mounting bills, unresolved divisions",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPczctNVV3NEM4dlhQcklBT1QxbE1XZWMyU0I1Qmg3cFlHbHh6enRDbjlCNDNkSWc5Y1dTMXhJcTcyeUFfRGh6WWFmTkZuRGxBX2hISjRnVjhFZzVwbVBSSHdISzlMbk1xZV8yQUVxZEpZT3FZMnAxdHlUd0Nza2RnMGEtUHZlRUI5allrbzVEUXN3dHZQQVhUbmFzWjB0NGRYa1E1Ul94ekhlbEFIU2NGSUk5UlM?oc=5",
@@ -3944,17 +3921,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1791648096.7166505,
-   "en": "Damaged Prithvi Highway disrupts Dashain travel as airlines add flights",
-   "ne": "Damaged Prithvi Highway disrupts Dashain travel as airlines add flights",
-   "link": "https://kathmandupost.com/national/2026/10/10/damaged-highways-disrupt-dashain-travel-airlines-prepare-late-night-flights",
-   "source": "Kathmandu Post",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "society"
-  },
   {
    "ts": 1791649878.62984,
    "en": "कांग्रेस १५औँ महाधिवेशन: उपसभापति र महामन्त्रीको मतगणना सुरु, आइतबार बिहान २ बजेसम्म नतिजा दिने प्रयास",
@@ -7168,7 +7134,7 @@
    "cat": "economy"
   }
  ],
- "updated": 1792252892,
+ "updated": 1792253449,
  "pending_since": 1792252888.067765,
  "fb_blocks": [
   1790350880.4125228,
