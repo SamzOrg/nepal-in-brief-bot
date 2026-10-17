@@ -1867,7 +1867,8 @@
   "https://baahrakhari.com/detail/505201": 1792222845.8342726,
   "https://nagariknews.nagariknetwork.com/politics/kishor-shrestha-was-taken-to-the-cyber-bureau-for-discussion-83-51.html": 1792223452.6130092,
   "https://nagariknews.nagariknetwork.com/social-affairs/187-000-new-voters-added-br-57-93.html": 1792223452.6130092,
-  "http://lokaantar.com/story/331497/2026/10/17/kishor-and-himesh-": 1792223452.6130092
+  "http://lokaantar.com/story/331497/2026/10/17/kishor-and-himesh-": 1792223452.6130092,
+  "https://baahrakhari.com/detail/505206": 1792224087.9902036
  },
  "queue": [
   {
@@ -3851,52 +3852,6 @@
    "hits": 1
   },
   {
-   "title": "When tradition becomes a fashion statement",
-   "summary": "At NCFT's graduating show, 54 designers focused on Nepal's architecture, agricultural traditions, and traditional jewellery.",
-   "link": "https://kathmandupost.com/art-culture/2026/10/17/when-tradition-becomes-a-fashion-statement",
-   "source": "Kathmandu Post",
-   "ts": 1792195286.3204741,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "When tradition becomes a fashion statement",
-   "en": "When tradition becomes a fashion statement",
-   "ne": "When tradition becomes a fashion statement",
-   "imp": 1,
-   "tags": [
-    "Tradition",
-    "Fashion",
-    "Dashain"
-   ],
-   "cat": "culture",
-   "val": 1,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "'मेक योर बेड'- जीवन परिवर्तन गर्ने १० प्रेरणादायी सूत्र",
-   "summary": "लुम्बिनी प्रदेशको एक पुस्तकालयमा कविन्द्र नेपाल सरसँग भेट हुँदा, उहाँले कुनाको दराजमा रहेको अङ्ग्रेजी भाषाको सानो किताब 'मेक योर बेड' अर्थात् 'आफ्नो ओछ्यान मिलाउनुहोस्' देखाउँदै पढ्न सुझाव दिनुभयो। मतिर फर्कँदै उहाँले...",
-   "link": "http://lokaantar.com/story/331486/2026/10/17/make-your-bed-",
-   "source": "Lokaantar",
-   "ts": 1792195285.8662243,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "'मेक योर बेड'- जीवन परिवर्तन गर्ने १० प्रेरणादायी सूत्र",
-   "en": "'मेक योर बेड'- जीवन परिवर्तन गर्ने १० प्रेरणादायी सूत्र",
-   "ne": "'मेक योर बेड'- जीवन परिवर्तन गर्ने १० प्रेरणादायी सूत्र",
-   "imp": 1,
-   "tags": [
-    "MakeYourBed",
-    "Motivation",
-    "जीवनशैली"
-   ],
-   "cat": "society",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "New Nepali Film 'Chha Maya Chhapakkai 2' Released on Phoolpati",
    "summary": "Kathmandu. Although the tradition in Nepal is to release new films mostly on Fridays, films are also released on other...",
    "link": "http://english.ratopati.com/story/84015/chha-maya-chhapakkai-2-to-hit-cinema-halls-on-the-occasion-of-phulpati",
@@ -3985,29 +3940,6 @@
    ],
    "cat": "health",
    "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "देशलाई सुशासनको मार्गमा हिँडाउन सरकार अहोरात्र खटिरहेको छ : प्रधानमन्त्री बालेन",
-   "summary": "प्रधानमन्त्री वालेन्द्र शाह (बालेन) ले देशलाई सुशासनको मार्गमा हिँडाउन वर्तमान सरकार अहोरात्र खटिरहेको बताएका छन्। बडादशैँको पावन अवसरमा शुभकामना सन्देश जारी गर्दै उनले नागरिकको आर्थिक सम्पन्नताले नै हरेक चाडपर्वको रौनक...",
-   "link": "http://lokaantar.com/story/331485/2026/10/17/balen-shah-",
-   "source": "Lokaantar",
-   "ts": 1792195285.8662243,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "देशलाई सुशासनको मार्गमा हिँडाउन सरकार अहोरात्र खटिरहेको छ : प्रधानमन्त्री बालेन",
-   "en": "देशलाई सुशासनको मार्गमा हिँडाउन सरकार अहोरात्र खटिरहेको छ : प्रधानमन्त्री बालेन",
-   "ne": "देशलाई सुशासनको मार्गमा हिँडाउन सरकार अहोरात्र खटिरहेको छ : प्रधानमन्त्री बालेन",
-   "imp": 3,
-   "tags": [
-    "BalenShah",
-    "GoodGovernance",
-    "Government"
-   ],
-   "cat": "politics",
-   "val": 3,
    "teaser": false,
    "hits": 1
   },
@@ -5523,7 +5455,7 @@
    "cat": "crime",
    "val": 3,
    "teaser": false,
-   "hits": 4
+   "hits": 5
   },
   {
    "title": "मतदाता नामावली अद्यावधिक : एक लाख ८७ हजार मतदाता थपिए",
@@ -8978,7 +8910,7 @@
    "cat": "politics"
   }
  ],
- "updated": 1792223455,
+ "updated": 1792224091,
  "pending_since": 1792223452.6130092,
  "fb_blocks": [
   1790350880.4125228,
