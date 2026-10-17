@@ -1,6 +1,5 @@
 {
  "seen": {
-  "http://english.ratopati.com/story/83899/four-people-including-three-children-killed-in-shooting-at-us-elementary-school": 1792108170.0197613,
   "https://baahrakhari.com/detail/505083": 1792108891.7299643,
   "https://gorkhapatraonline.com/news/226856": 1792108891.7299643,
   "http://english.ratopati.com/story/83898/sixth-day-of-navratri-goddess-katyayani-is-being-worshipped-with-ritualistic-rituals-today": 1792108891.7299643,
@@ -1686,29 +1685,6 @@
  },
  "queue": [
   {
-   "title": "मुक्त कमैया बस्तीमा छैन दसैँको उत्साह",
-   "summary": "सन्तोष दहितदाङ, असोज ३१ गते । देशभर दसैँको रौनक छाएको छ । रोजगारीको सिलसिलामा गाउँबाट सहर, जिल्ला बाहिर र विदेश पुगेका नेपाली घर फर्किन थालेका छन् । गाउँघरमा दसैँको चहलपहल बढेको छ...",
-   "link": "https://gorkhapatraonline.com/news/227018",
-   "source": "Gorkhapatra",
-   "ts": 1792252112,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/388588/conversions/muktakamaiya-basti-original.jpg",
-   "lang": "ne",
-   "hl": "मुक्त कमैया बस्तीमा छैन दसैँको उत्साह",
-   "en": "मुक्त कमैया बस्तीमा छैन दसैँको उत्साह",
-   "ne": "मुक्त कमैया बस्तीमा छैन दसैँको उत्साह",
-   "imp": 2,
-   "tags": [
-    "Dashain",
-    "MuktaKamaiya",
-    "दसैँ"
-   ],
-   "cat": "society",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "परस्त्रीसँगको सम्बन्धको आशंकाबिच एकको मृ`त्यु, पाँच जना पक्राउ",
    "summary": "सूचना अधिकारी प्रहरी निरीक्षक निराजन बस्नेतले जानकारी दिएअनुसार अविवाहित राईलाई गाउँकै परस्त्रीसँग सम्बन्ध राखेको भेटेर कुटपिट गर्दा ज्यान गएको अनुमान गरिएको छ।...",
    "link": "https://nagariknews.nagariknetwork.com/social-affairs/one-dead-five-arrested-on-suspicion-of-having-an-affair-with-a-foreign-woman-22-52.html",
@@ -1847,30 +1823,6 @@
    "val": 3,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "लगानी बोर्डका पूर्वसीईओ सुशील भट्ट पक्राउ",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/505237",
-   "source": "Baahrakhari",
-   "ts": 1792255680,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "लगानी बोर्डका पूर्वसीईओ सुशील भट्ट पक्राउ",
-   "en": "लगानी बोर्डका पूर्वसीईओ सुशील भट्ट पक्राउ",
-   "ne": "लगानी बोर्डका पूर्वसीईओ सुशील भट्ट पक्राउ",
-   "imp": 3,
-   "tags": [
-    "SushilBhatt",
-    "InvestmentBoard",
-    "Nepal",
-    "Arrest"
-   ],
-   "cat": "crime",
-   "val": 3,
-   "teaser": false,
-   "hits": 3
   },
   {
    "title": "Dashain rush sees heavy influx of Nepaleseshoppers at Panitanki, security tightened along Indo-Nepal border",
@@ -2170,27 +2122,6 @@
    ],
    "cat": "economy",
    "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Nepal floods 'defining moment' for climate action: UN",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMHZJbVZCaVctdFFzY0Y0aTB6MGcyUVhRdUE3V0JQcFlNeXNraGpsaF9kcXhBVXN4VF9LS2ZKbFA4OGl2VE1CUUJ3R2tXZHJvZUpTTVJieldYS0hhMmQyMkdSdUJVS2ZBTkl2UXplQ0RqakFpdTcxN0Z0SndhTkJqVk5aajVWQkljVEVXWGdHTjF2Zzg?oc=5",
-   "source": "Arab News",
-   "ts": 1792251666,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Nepal floods 'defining moment' for climate action: UN",
-   "en": "Nepal floods 'defining moment' for climate action: UN",
-   "ne": "Nepal floods 'defining moment' for climate action: UN",
-   "imp": 2,
-   "tags": [
-    "Floods"
-   ],
-   "cat": "disaster",
-   "val": 2,
    "teaser": false,
    "hits": 1
   },
@@ -5430,10 +5361,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "politics"
+  },
+  {
+   "ts": 1792281053.6818125,
+   "en": "लगानी बोर्डका पूर्वसीईओ सुशील भट्ट पक्राउ",
+   "ne": "लगानी बोर्डका पूर्वसीईओ सुशील भट्ट पक्राउ",
+   "link": "https://baahrakhari.com/detail/505237",
+   "source": "Baahrakhari",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "crime"
   }
  ],
- "updated": 1792280453,
- "pending_since": null,
+ "updated": 1792281069,
+ "pending_since": 1792281047.265965,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
