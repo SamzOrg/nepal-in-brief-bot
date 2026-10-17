@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNDVEUmlGd2d0RnVGSW9GYXZmT0JEUWdKVUdyNnBaUy15Nk5yQXR4SkhXM3ZQZ0llTVhJREdBZHMyVVlkUUt1LVNDeEhjTUxydVgwSG9ncTg5RGhGTVFLR18yWm1oU1NuTVQzcklHWEhoNEN1Um5qRmFPTEJJMjRVdG1mVzhlSUpxd05Vb2JfYXlYZ3l5ckd2dzlxV2NjVjdFOHpRMV84QXJhLTQwektvT1pDYllseXR2UnFVQ0k0VWVEem9zRWdYRk9B?oc=5": 1792084254.1112013,
   "https://news.google.com/rss/articles/CBMizwFBVV95cUxOY1Bta3Jiams4ajJzbFNudTB1Y1EzU3lrLXpHVkpwRE5QVVJ1OWNiRnNmRGh1c2ZNcHF0dGJtX1pHTWI2amZlMmtSbmVJLVFoT3FrMjE4SFZncTlKWW02NkZkeEprMDhXTHpHNDU1T0ZaUXpRbW94ZkhiMjBIMG5McXNHSXlvZ1NXVGRlWUp1ZDVTeUExbndEN3Z4cGtOZ3ZuSV9qY0tzcUVVQklYdlJQQzgxVmFROEhXbFhWQlljbFpfME90VUhXRUoxd3JHOWM?oc=5": 1792084854.583502,
   "https://baahrakhari.com/detail/505080": 1792084854.583502,
   "https://gorkhapatraonline.com/news/226849": 1792085475.866136,
@@ -1665,7 +1664,12 @@
   "https://nagariknews.nagariknetwork.com/social-affairs/the-crowd-returning-to-the-village-to-celebrate-dashain-br-91-53.html": 1792255122.0055676,
   "http://lokaantar.com/story/331521/2026/10/17/kaski-": 1792255122.0055676,
   "https://nagariknews.nagariknetwork.com/politics/what-happened-between-himesh-and-kishore-in-the-cyber-bureau-both-made-different-claims-after-their-release-20-91.html": 1792255122.0055676,
-  "https://nagariknews.nagariknetwork.com/arts/suresh-adhikari-returns-with-dashain-song-rato-tika-jamara-after-15-years-20-78.html": 1792255122.0055676
+  "https://nagariknews.nagariknetwork.com/arts/suresh-adhikari-returns-with-dashain-song-rato-tika-jamara-after-15-years-20-78.html": 1792255122.0055676,
+  "http://english.ratopati.com/story/84063/liverpools-comeback-win-over-nine-man-brentford": 1792257650.648924,
+  "https://baahrakhari.com/detail/505225": 1792257650.648924,
+  "http://english.ratopati.com/story/84062/nationwide-protests-in-france-movement-continues-to-intensify": 1792257650.648924,
+  "https://baahrakhari.com/detail/505237": 1792257650.648924,
+  "http://english.ratopati.com/story/84061/pakistans-it-exports-grow-18-percent-in-september": 1792257650.648924
  },
  "queue": [
   {
@@ -1731,52 +1735,6 @@
    ],
    "cat": "politics",
    "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Spanish Football Federation Appeals FIFA Sanctions to CAS",
-   "summary": "Madrid. The Spanish Football Federation (RFEF) is going to appeal to the Court of Arbitration for Sport (CAS) against the...",
-   "link": "http://english.ratopati.com/story/84048/spain-to-appeal-fifa-action-over-anti-islam-chants",
-   "source": "Ratopati EN",
-   "ts": 1792228681,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/2026-03-31t210338z_1188146658_up_sRmZ5WLevv.webp",
-   "lang": "en",
-   "hl": "Spanish Football Federation Appeals FIFA Sanctions to CAS",
-   "en": "Spanish Football Federation Appeals FIFA Sanctions to CAS",
-   "ne": "Spanish Football Federation Appeals FIFA Sanctions to CAS",
-   "imp": 1,
-   "tags": [
-    "RFEF",
-    "FIFA",
-    "CAS"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Dashain Festival Faces Challenges Amidst Economic and Social Pressures",
-   "summary": "Among Nepal's indigenous festivals, Bada Dashain, Nepal Sambat, Diwali, and Chhath are consecutively arriving. Despite the adversities of various economic,...",
-   "link": "http://english.ratopati.com/story/84032/lets-not-make-dashain-a-burden-lets-make-it-a-festival-of-joy-not-a-burden",
-   "source": "Ratopati EN",
-   "ts": 1792228500,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/cards-and-alchohol_5mBMDIwX1f.webp",
-   "lang": "en",
-   "hl": "Dashain Festival Faces Challenges Amidst Economic and Social Pressures",
-   "en": "Dashain Festival Faces Challenges Amidst Economic and Social Pressures",
-   "ne": "Dashain Festival Faces Challenges Amidst Economic and Social Pressures",
-   "imp": 3,
-   "tags": [
-    "Dashain",
-    "Economy",
-    "Society"
-   ],
-   "cat": "culture",
-   "val": 2,
    "teaser": false,
    "hits": 1
   },
@@ -2357,29 +2315,6 @@
    "val": 3,
    "teaser": false,
    "hits": 3
-  },
-  {
-   "title": "Tatopani border crossing to remain open for three days",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYm81MV9uMGF6YmYzdVo5VnlfRFg5cENxbmtVRFBjeHZIeFh0M1NWdkJjU01QZ1piMDdJUC1YV1duM3E1UUFoMi03aV9JekYyckxLeG1lbG4wVUt1ZkVrUktFMXZmaFR3ajBsU253MWplRWxVbHp2WlhTUkdvOGFOa3k4YTc5S2hLVTNfelRrbHlNa2FoUDdGV3ZrVDVsVEYta0dwOV9NUGU3ajNvdmFnTGhYZw?oc=5",
-   "source": "myRepublica",
-   "ts": 1792228500,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Tatopani border crossing to remain open for three days",
-   "en": "Tatopani border crossing to remain open for three days",
-   "ne": "Tatopani border crossing to remain open for three days",
-   "imp": 3,
-   "tags": [
-    "Tatopani",
-    "BorderCrossing",
-    "Trade"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
   },
   {
    "title": "नाम फरक, पहिचान उस्तै, भ्रमको मूल्य उपभोक्तालाई",
@@ -3491,7 +3426,7 @@
    "cat": "world",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "भारत नेपाल र बंगलादेश होइन, चुनावबाटै सत्ता परिवर्तन गर्छौं : प्रकाश राज",
@@ -3537,7 +3472,7 @@
    "cat": "world",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "कास्कीलाई हराउँदै नवलपुर बन्यो यु-१९ क्रिकेट च्याम्पियन",
@@ -3581,6 +3516,78 @@
     "Music"
    ],
    "cat": "culture",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Liverpool Secures 2-1 Comeback Victory Over Brentford in Premier League",
+   "summary": "Kathmandu. In a match of the English Premier League held on Saturday, Liverpool registered a 2-1 comeback victory over Brentford.Brentford,...",
+   "link": "http://english.ratopati.com/story/84063/liverpools-comeback-win-over-nine-man-brentford",
+   "source": "Ratopati EN",
+   "ts": 1792257083,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/liverpool_Mmu5t7OIYP.webp",
+   "lang": "en",
+   "hl": "Liverpool Secures 2-1 Comeback Victory Over Brentford in Premier League",
+   "en": "Liverpool Secures 2-1 Comeback Victory Over Brentford in Premier League",
+   "ne": "Liverpool Secures 2-1 Comeback Victory Over Brentford in Premier League",
+   "imp": 1,
+   "tags": [
+    "Liverpool",
+    "PremierLeague",
+    "Brentford",
+    "Football"
+   ],
+   "cat": "sports",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "ट्रम्पले रोके रुसी ऊर्जा खरिदकर्तामाथि ट्यारिफ लगाउने कानुनको कार्यान्वयन",
+   "summary": "",
+   "link": "https://baahrakhari.com/detail/505225",
+   "source": "Baahrakhari",
+   "ts": 1792257038,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "ट्रम्पले रोके रुसी ऊर्जा खरिदकर्तामाथि ट्यारिफ लगाउने कानुनको कार्यान्वयन",
+   "en": "ट्रम्पले रोके रुसी ऊर्जा खरिदकर्तामाथि ट्यारिफ लगाउने कानुनको कार्यान्वयन",
+   "ne": "ट्रम्पले रोके रुसी ऊर्जा खरिदकर्तामाथि ट्यारिफ लगाउने कानुनको कार्यान्वयन",
+   "imp": 1,
+   "tags": [
+    "DonaldTrump",
+    "Russia",
+    "Energy",
+    "USA"
+   ],
+   "cat": "world",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "लगानी बोर्डका पूर्वसीईओ सुशील भट्ट पक्राउ",
+   "summary": "",
+   "link": "https://baahrakhari.com/detail/505237",
+   "source": "Baahrakhari",
+   "ts": 1792255680,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "लगानी बोर्डका पूर्वसीईओ सुशील भट्ट पक्राउ",
+   "en": "लगानी बोर्डका पूर्वसीईओ सुशील भट्ट पक्राउ",
+   "ne": "लगानी बोर्डका पूर्वसीईओ सुशील भट्ट पक्राउ",
+   "imp": 3,
+   "tags": [
+    "SushilBhatt",
+    "InvestmentBoard",
+    "Nepal",
+    "Arrest"
+   ],
+   "cat": "crime",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -6800,8 +6807,8 @@
    "cat": "crime"
   }
  ],
- "updated": 1792257052,
- "pending_since": 1792255250.3434474,
+ "updated": 1792257654,
+ "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
