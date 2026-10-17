@@ -1,8 +1,5 @@
 {
  "seen": {
-  "http://english.ratopati.com/story/83792/post-disaster-relief-construction-entrepreneurs-federation-constructs-268-meter-long-suspension-bridge-in-nuwakot": 1792038670.0064592,
-  "https://nagariknews.nagariknetwork.com/politics/all-results-of-the-congress-general-convention-will-be-announced-by-tonight-26-29.html": 1792038670.0064592,
-  "https://www.setopati.com/social/400879": 1792038670.0064592,
   "https://gorkhapatraonline.com/news/226773": 1792039252.42737,
   "https://nagariknews.nagariknetwork.com/international/meerut-blue-drum-murder-case-who-is-the-judge-who-sentenced-muskan-and-sahil-to-death-84-94.html": 1792039252.42737,
   "https://baahrakhari.com/detail/505002": 1792039252.42737,
@@ -1963,7 +1960,28 @@
   "https://gorkhapatraonline.com/news/226983": 1792209685.2052243,
   "https://kathmandupost.com/visual-stories/2026/10/17/shoppers-crowd-kathmandu-markets-for-phulpati": 1792210245.4156325,
   "https://news.google.com/rss/articles/CBMingFBVV95cUxOSGxBdTZrek5CRTQtLXhLWEh5WEdtUVhPVkZpM3VFaW5oLWVNX1dKYW5mcXU3djVPOFJ4aHVKNlRFNHpqMmJfeVpOa3dGWVFka01PU0ZfX2V4TFZaRWl3WWpvc3VaaDItOE9leXF3R0ZaNFhJbGVhMFRzdnhPSXBzVVlWNHFyMEJYLWRHbU1NLUpDb1p2aWJBTS00VURLUQ?oc=5": 1792210846.7277408,
-  "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNzVXaFVfd0x3YUkyU2V5dDJxRFBCYXE4YzBtc1ZRTzRtY0F5NlhrYlVGU0g0blYwbkMtSmwwdUtFY1U0ZzFGU2FRYUVkZEZZOHAwZ0ZyYWMyeVVVZTIxd2RycmVGTncyckFkZEdWRVBHZzVpX1Zob2VSWWhVRk9HWXgzLVZEZzBOZFY3T1hwZnY3Yll6RVgxdWxINVkxNHcyNkVTYVhocnVhUzVqbUc1eEg5V3NoQQ?oc=5": 1792211467.331363
+  "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNzVXaFVfd0x3YUkyU2V5dDJxRFBCYXE4YzBtc1ZRTzRtY0F5NlhrYlVGU0g0blYwbkMtSmwwdUtFY1U0ZzFGU2FRYUVkZEZZOHAwZ0ZyYWMyeVVVZTIxd2RycmVGTncyckFkZEdWRVBHZzVpX1Zob2VSWWhVRk9HWXgzLVZEZzBOZFY3T1hwZnY3Yll6RVgxdWxINVkxNHcyNkVTYVhocnVhUzVqbUc1eEg5V3NoQQ?oc=5": 1792211467.331363,
+  "https://gorkhapatraonline.com/news/226992": 1792212045.6798172,
+  "https://baahrakhari.com/detail/505187": 1792212045.6798172,
+  "https://nagariknews.nagariknetwork.com/social-affairs/monsoon-induced-disaster-causes-damage-worth-crores-in-beni-37-21.html": 1792212045.6798172,
+  "https://nagariknews.nagariknetwork.com/health/ministry-of-health-s-letter-to-maintain-essential-hospital-services-during-dashain-holidays-35-37.html": 1792212045.6798172,
+  "https://gorkhapatraonline.com/news/226991": 1792212045.6798172,
+  "https://baahrakhari.com/detail/505128": 1792212045.6798172,
+  "https://nagariknews.nagariknetwork.com/arts/let-s-welcome-the-audience-not-by-distributing-tickets-but-by-sharing-love-deepak-rajgiri-37-75.html": 1792212045.6798172,
+  "https://www.setopati.com/social/401016": 1792212045.6798172,
+  "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZ3VrQjl3OUFHU2ZZTGEzbXp3WXlMVmladlpFMzdCYk5rd3FxMWNocFdIMmdpRHk4NnZkRURTUnA2eFNoOVhSWWZhRVp1ekFkc1NiMG9tMU9oNUxzMXJ6NVhGU0ZySy1yQjZubDB4dk1JOGRVaEdpSGdDWlNCc01jOEpFNDhQd3lRMEFEYXRuQ1B6TzRzUGVvazl5VURmRDV4ckY3R2RHRlpUMzdBOVNPRzJBd2pVSVMtUllrbkdlV0RiY25ZSDZmbzNCQ08yRFVwaU5kcjhvbzh3YXJHaUY4cmVxUVQ?oc=5": 1792212045.6798172,
+  "https://news.google.com/rss/articles/CBMizgFBVV95cUxPX19scEV6SGFEY0xlcWN4WWJ1V0QxRFFVbFZjZGh5T2dtdl9ZdUEyS2xTWS1BaHc3Yy1LNjM0ekFHbkh0MnZGRXJIN1NaVDVYMHRJNFpIZGlNT254RHNsNDRocTJoY05DSy01VmZULXF3ZWFjXzFya2xOTHNiWi1lMXkwUFZRaEUzcHg5cEhqZDdXMjZnQm9ocXdLOHlCMU1sVU5IcDFfTHYxcnpPT1ZzcHJDNG03UURvNk5tbUR4ZDVFQThTejJCWG9ydXM3Zw?oc=5": 1792212045.6798172,
+  "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZXhKWDk5SWRJWXpreEotLWp4d3pWamxjOGlzU3RRbVZwSmZvOUZLT2JrTWRRMjF1WG1DeWNMeUY3ajk1TExnbGg2Yi1pWjUyMjVRakJXTXZETHo5UEp3c0IzaDFfY3NaVWt6U1I1TnM4emZzR3A0TkQweTFiNDQwOXliRUJjTlZIQkhURmJEWQ?oc=5": 1792212045.6798172,
+  "http://lokaantar.com/story/331487/2026/10/17/doctor-interview-": 1792212045.6798172,
+  "https://gorkhapatraonline.com/news/226990": 1792212045.6798172,
+  "https://baahrakhari.com/detail/505186": 1792212045.6798172,
+  "https://nagariknews.nagariknetwork.com/social-affairs/sunita-and-narendra-lost-to-history-br-50-11.html": 1792212045.6798172,
+  "https://news.google.com/rss/articles/CBMizAFBVV95cUxQOVlCeUcxX2tPNVJaSWZLSGZfV2RSMG40cTIyVHJYMFJiVE1qbTdUdkZxWlFCVnF6Z1poQnE0MGt1WWlpRkt4c0RlY1ZrekhTYVdVamF0bGlfVHd2QmR1X09waDhCaFFlR3NQeS12Uk9FdHMtaVBQT2J0cGVNSmR6a2pOYlBidE44MUo1eV9aSEk2WlpVZFpab2s2NUxsV2RUakRyUjVwWF9ERnlMRGVOREoyV1E5bmVrY3VsYTNJbzRXaXBRM21QaFNsY0I?oc=5": 1792212045.6798172,
+  "https://gorkhapatraonline.com/news/226989": 1792212045.6798172,
+  "https://baahrakhari.com/detail/505185": 1792212045.6798172,
+  "https://nagariknews.nagariknetwork.com/international/students-in-albania-take-to-the-streets-set-fire-to-government-buildings-and-banks-against-expensive-education-22-44.html": 1792212045.6798172,
+  "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdVRhWUZoNjk3Tnl5V19YdzNIc3pKenp1ZkRRSEZ1VGh3NE5vZTB5Vkl3SGJqNTU1OElhQnBwOE9XMlNmaVYtWUtBMkQ5Y2ZhdnB5akVZVHpqVlNEQ3dPWWREVzkxVVNUNWNzZllBaDRfODFwSlVod3FFVldmbzNCWmlBOFZ5YXluQVUxVFY4R1AxVFh3enNjVXdiZnFIQUc2NXhRS2RpeXVHd0xfcWF2QU96UzY1eTQ?oc=5": 1792212045.6798172,
+  "https://baahrakhari.com/detail/505184": 1792212045.6798172
  },
  "queue": [
   {
@@ -3526,7 +3544,7 @@
    "cat": "disaster",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Loss and Damage Fund calls extraordinary meeting for Oct 22 to support Nepal",
@@ -3921,29 +3939,6 @@
    "hits": 1
   },
   {
-   "title": "Border row to feature prominently on Nepal PM's India visit agenda",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE90TExaamdyMW9QZHFRSERzRWpvZlQ5Vm5zWDRpOURjVnMtaEFDRGpDZUU4TDZ0c0hkN2xFbVdzYjc3cXFwbEVaSUVucjFKQ1ZsT3JDQjVwWQ?oc=5",
-   "source": "The Annapurna Express",
-   "ts": 1792202604,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Border row to feature prominently on Nepal PM's India visit agenda",
-   "en": "Border row to feature prominently on Nepal PM's India visit agenda",
-   "ne": "Border row to feature prominently on Nepal PM's India visit agenda",
-   "imp": 4,
-   "tags": [
-    "NepalIndia",
-    "ForeignPolicy",
-    "PrimeMinister"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "What's on in Kathmandu Valley this week",
    "summary": "From music and workshops to food and heritage walks, here's what's happening around the Valley this week.",
    "link": "https://kathmandupost.com/art-culture/2026/10/17/what-s-on-in-kathmandu-valley-this-week-1792206626",
@@ -4037,28 +4032,27 @@
    "hits": 1
   },
   {
-   "title": "विद्युत् व्यापारमा निजी क्षेत्रलाई अवसर",
-   "summary": "सरकारले विद्युत् व्यापारका लागि पहिलोपटक निजी क्षेत्रलाई पनि अवसर दिएको छ।",
-   "link": "https://nagariknews.nagariknetwork.com/economy/opportunities-for-the-private-sector-in-electricity-trading-br-55-86.html",
-   "source": "Nagarik News",
+   "title": "Government opens door for private sector in cross-border electricity trade",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPX19scEV6SGFEY0xlcWN4WWJ1V0QxRFFVbFZjZGh5T2dtdl9ZdUEyS2xTWS1BaHc3Yy1LNjM0ekFHbkh0MnZGRXJIN1NaVDVYMHRJNFpIZGlNT254RHNsNDRocTJoY05DSy01VmZULXF3ZWFjXzFya2xOTHNiWi1lMXkwUFZRaEUzcHg5cEhqZDdXMjZnQm9ocXdLOHlCMU1sVU5IcDFfTHYxcnpPT1ZzcHJDNG03UURvNk5tbUR4ZDVFQThTejJCWG9ydXM3Zw?oc=5",
+   "source": "myRepublica",
    "ts": 1792205408,
    "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1792205532_ert%20ert%20ert%2098.jpg",
-   "lang": "ne",
-   "hl": "विद्युत् व्यापारमा निजी क्षेत्रलाई अवसर",
-   "en": "विद्युत् व्यापारमा निजी क्षेत्रलाई अवसर",
-   "ne": "विद्युत् व्यापारमा निजी क्षेत्रलाई अवसर",
+   "img": null,
+   "lang": "en",
+   "hl": "Government opens door for private sector in cross-border electricity trade",
+   "en": "Government opens door for private sector in cross-border electricity trade",
+   "ne": "Government opens door for private sector in cross-border electricity trade",
    "imp": 3,
    "tags": [
-    "Electricity",
+    "ElectricityTrade",
     "PrivateSector",
-    "Energy",
-    "विद्युत्"
+    "Nepal"
    ],
    "cat": "economy",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "What's different about Janakpur Bolts' jersey reveal?",
@@ -4105,7 +4099,7 @@
    "cat": "culture",
    "val": 3,
    "teaser": false,
-   "hits": 3
+   "hits": 4
   },
   {
    "title": "टीका-जमरासँगै घुमफिर",
@@ -4362,27 +4356,27 @@
    "hits": 1
   },
   {
-   "title": "प्रधानमन्त्री शाहको दसैँ शुभकामना : आर्थिक रूपमा हरेक नागरिकको सम्पन्नताले चाडपर्वको रौनक अझै थपिन्छ",
-   "summary": "प्रधानमन्त्री बालेन्द्र शाहले बडादसैँको अवसरमा सम्पूर्ण नेपालीलाई सुख, शान्ति, आरोग्य र समृद्धिको शुभकामना व्यक्त गरेका छन्।...",
-   "link": "https://nagariknews.nagariknetwork.com/politics/prime-minister-shah-s-dashain-greetings-the-economic-prosperity-of-every-citizen-further-adds-to-the-festive-spirit-88-23.html",
-   "source": "Nagarik News",
+   "title": "प्रधानमन्त्री शाहको बडादसैँ शुभकामना : सत्य र सुशासनको बाटोमा अघि बढौँ",
+   "summary": "काठमाडौँ, असोज ३१ गते । प्रधानमन्त्री वालेन्द्र शाहले बडादसैँका अवसरमा सम्पूर्ण नेपालीमा सुख, शान्ति, समृद्धि र आरोग्यको शुभकामना व्यक्त गर्नुभएको छ ।बडादसैँको अवसरमा शुभकामना सन्द...",
+   "link": "https://gorkhapatraonline.com/news/226991",
+   "source": "Gorkhapatra",
    "ts": 1792207418,
    "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1790037943_Balendra.jpg",
+   "img": "https://gorkhapatraonline.com/storage/media/388543/conversions/images-(39)-original.jpg",
    "lang": "ne",
-   "hl": "प्रधानमन्त्री शाहको दसैँ शुभकामना : आर्थिक रूपमा हरेक नागरिकको सम्पन्नताले चाडपर्वको रौनक अझै थपिन्छ",
-   "en": "प्रधानमन्त्री शाहको दसैँ शुभकामना : आर्थिक रूपमा हरेक नागरिकको सम्पन्नताले चाडपर्वको रौनक अझै थपिन्छ",
-   "ne": "प्रधानमन्त्री शाहको दसैँ शुभकामना : आर्थिक रूपमा हरेक नागरिकको सम्पन्नताले चाडपर्वको रौनक अझै थपिन्छ",
+   "hl": "प्रधानमन्त्री शाहको बडादसैँ शुभकामना : सत्य र सुशासनको बाटोमा अघि बढौँ",
+   "en": "प्रधानमन्त्री शाहको बडादसैँ शुभकामना : सत्य र सुशासनको बाटोमा अघि बढौँ",
+   "ne": "प्रधानमन्त्री शाहको बडादसैँ शुभकामना : सत्य र सुशासनको बाटोमा अघि बढौँ",
    "imp": 3,
    "tags": [
     "PrimeMinister",
     "Dashain",
-    "शुभकामना"
+    "प्रधानमन्त्री"
    ],
    "cat": "politics",
-   "val": 2,
+   "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "यी हुन् कांग्रेसको १५औं महाधिवेशनमा सर्वाधिक मत पाउने शीर्ष १० उम्मेदवार",
@@ -4543,7 +4537,7 @@
    "cat": "health",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 3
   },
   {
    "title": "स्वस्थ परिकारले रमाइलो बन्छ दसैं",
@@ -4726,6 +4720,274 @@
    ],
    "cat": "culture",
    "val": 1,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "देशमै कमाउने र रमाउने वातावरण बन्छ भनेर आशा जगाउँदै छौँ",
+   "summary": "",
+   "link": "https://baahrakhari.com/detail/505128",
+   "source": "Baahrakhari",
+   "ts": 1792211054,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "देशमै कमाउने र रमाउने वातावरण बन्छ भनेर आशा जगाउँदै छौँ",
+   "en": "देशमै कमाउने र रमाउने वातावरण बन्छ भनेर आशा जगाउँदै छौँ",
+   "ne": "देशमै कमाउने र रमाउने वातावरण बन्छ भनेर आशा जगाउँदै छौँ",
+   "imp": 3,
+   "tags": [
+    "Employment",
+    "Government"
+   ],
+   "cat": "politics",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "दर्शकलाई टिकट बाँडेर होइन, माया बाँडेर स्वागत गरौं : दीपकराज गिरी",
+   "summary": "चलचित्र निर्देशक तथा निर्माता दीपकराज गिरीले दर्शकलाई टिकट बाँडेर नभई माया बाँडेर स्वागत गर्न आग्रह गरेका छन्।...",
+   "link": "https://nagariknews.nagariknetwork.com/arts/let-s-welcome-the-audience-not-by-distributing-tickets-but-by-sharing-love-deepak-rajgiri-37-75.html",
+   "source": "Nagarik News",
+   "ts": 1792210705,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2026/third-party/1787985820_dipak.jpg",
+   "lang": "ne",
+   "hl": "दर्शकलाई टिकट बाँडेर होइन, माया बाँडेर स्वागत गरौं : दीपकराज गिरी",
+   "en": "दर्शकलाई टिकट बाँडेर होइन, माया बाँडेर स्वागत गरौं : दीपकराज गिरी",
+   "ne": "दर्शकलाई टिकट बाँडेर होइन, माया बाँडेर स्वागत गरौं : दीपकराज गिरी",
+   "imp": 2,
+   "tags": [
+    "DeepakRajGiri",
+    "Cinema",
+    "Dashain"
+   ],
+   "cat": "culture",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "चाडपर्वमा मुटु कसरी जोगाउने ? वरिष्ठ मुटुरोग विशेषज्ञ डा. कमल शर्माका महत्त्वपूर्ण टिप्स [अन्तर्वार्ता]",
+   "summary": "चाडपर्वको समयमा मासु, चिल्लो पदार्थ, मिठाई, मदिरा तथा चिसो पेय पदार्थको सेवन अरू समयका तुलनामा बढ्ने गर्छ । अझ दशैँमा त अन्य दिनहरूका तुलनामा कैयौँ गुणा बढी मासु खाने नेपालीहरूको परम्परा नै छ । चाडपर्वमा खानपान र...",
+   "link": "http://lokaantar.com/story/331487/2026/10/17/doctor-interview-",
+   "source": "Lokaantar",
+   "ts": 1792197646.397953,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "चाडपर्वमा मुटु कसरी जोगाउने ? वरिष्ठ मुटुरोग विशेषज्ञ डा. कमल शर्माका महत्त्वपूर्ण टिप्स [अन्तर्वार्ता]",
+   "en": "चाडपर्वमा मुटु कसरी जोगाउने ? वरिष्ठ मुटुरोग विशेषज्ञ डा. कमल शर्माका महत्त्वपूर्ण टिप्स [अन्तर्वार्ता]",
+   "ne": "चाडपर्वमा मुटु कसरी जोगाउने ? वरिष्ठ मुटुरोग विशेषज्ञ डा. कमल शर्माका महत्त्वपूर्ण टिप्स [अन्तर्वार्ता]",
+   "imp": 2,
+   "tags": [
+    "HeartHealth",
+    "Dashain",
+    "स्वास्थ्य"
+   ],
+   "cat": "health",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "गोरखाबाट हनुमानढोका पठाइयो फूलपाती",
+   "summary": "गुणबहादुर रोकासुलीकोट (गोरखा), असोज ३१ गते । बडादसैँको सातौँ दिन शनिबार गोरखा दरबारको दसैँघरबाट काठमाडौँस्थित हनुमानढोका दरबारमा फूलपातीसहितको डोली पठाइएको छ ।शुभसाइतअनुसार बिहान ९...",
+   "link": "https://gorkhapatraonline.com/news/226990",
+   "source": "Gorkhapatra",
+   "ts": 1792210697,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/388541/conversions/unnamed-(5)-original.jpg",
+   "lang": "ne",
+   "hl": "गोरखाबाट हनुमानढोका पठाइयो फूलपाती",
+   "en": "गोरखाबाट हनुमानढोका पठाइयो फूलपाती",
+   "ne": "गोरखाबाट हनुमानढोका पठाइयो फूलपाती",
+   "imp": 2,
+   "tags": [
+    "Phulpati",
+    "Gorkha",
+    "HanumanDhoka"
+   ],
+   "cat": "culture",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "मौन मुद्रा",
+   "summary": "",
+   "link": "https://baahrakhari.com/detail/505186",
+   "source": "Baahrakhari",
+   "ts": 1792210759,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "मौन मुद्रा",
+   "en": "मौन मुद्रा",
+   "ne": "मौन मुद्रा",
+   "imp": 1,
+   "tags": [
+    "Maundy",
+    "Culture"
+   ],
+   "cat": "culture",
+   "val": 1,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "इतिहासमा हराएका सुनिता र नरेन्द्र",
+   "summary": "नरेन्द्र रेग्मीको परिवार सम्पन्न र खानदानी थियो। त्यसको छाप उनमा जीवनको अन्त्यसम्म पनि रहिरह्यो।...",
+   "link": "https://nagariknews.nagariknetwork.com/social-affairs/sunita-and-narendra-lost-to-history-br-50-11.html",
+   "source": "Nagarik News",
+   "ts": 1792209446,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2026/third-party/1792209645_ghu%20ghu%2098.jpg",
+   "lang": "ne",
+   "hl": "इतिहासमा हराएका सुनिता र नरेन्द्र",
+   "en": "इतिहासमा हराएका सुनिता र नरेन्द्र",
+   "ne": "इतिहासमा हराएका सुनिता र नरेन्द्र",
+   "imp": 1,
+   "tags": [
+    "History",
+    "Culture"
+   ],
+   "cat": "culture",
+   "val": 1,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "SAARC secretary-general pays farewell calls on President, foreign minister",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQOVlCeUcxX2tPNVJaSWZLSGZfV2RSMG40cTIyVHJYMFJiVE1qbTdUdkZxWlFCVnF6Z1poQnE0MGt1WWlpRkt4c0RlY1ZrekhTYVdVamF0bGlfVHd2QmR1X09waDhCaFFlR3NQeS12Uk9FdHMtaVBQT2J0cGVNSmR6a2pOYlBidE44MUo1eV9aSEk2WlpVZFpab2s2NUxsV2RUakRyUjVwWF9ERnlMRGVOREoyV1E5bmVrY3VsYTNJbzRXaXBRM21QaFNsY0I?oc=5",
+   "source": "myRepublica",
+   "ts": 1792203300,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "SAARC secretary-general pays farewell calls on President, foreign minister",
+   "en": "SAARC secretary-general pays farewell calls on President, foreign minister",
+   "ne": "SAARC secretary-general pays farewell calls on President, foreign minister",
+   "imp": 2,
+   "tags": [
+    "SAARC",
+    "President",
+    "ForeignMinister"
+   ],
+   "cat": "world",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "दसैँ सत्य र न्यायको विजयको प्रतीकः प्रमुख देवकोटा",
+   "summary": "अनिल पराजुलीहेटौँडा, असोज ३१ गते । बागमती प्रदेशका प्रदेश प्रमुख दीपकप्रसाद देवकोटाले बडादसैँले सत्य, सदाचार, सहिष्णुता र आपसी सद्भाव अभिवृद्धि गर्न प्रेरित गर्ने बताउनुभएको छ । बड...",
+   "link": "https://gorkhapatraonline.com/news/226989",
+   "source": "Gorkhapatra",
+   "ts": 1792210368,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/388539/conversions/Deepak-Devkota-latest-original.jpg",
+   "lang": "ne",
+   "hl": "दसैँ सत्य र न्यायको विजयको प्रतीकः प्रमुख देवकोटा",
+   "en": "दसैँ सत्य र न्यायको विजयको प्रतीकः प्रमुख देवकोटा",
+   "ne": "दसैँ सत्य र न्यायको विजयको प्रतीकः प्रमुख देवकोटा",
+   "imp": 2,
+   "tags": [
+    "Dashain",
+    "Devkota"
+   ],
+   "cat": "culture",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "मंगलमानको जिजीविषा",
+   "summary": "",
+   "link": "https://baahrakhari.com/detail/505185",
+   "source": "Baahrakhari",
+   "ts": 1792210343,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "मंगलमानको जिजीविषा",
+   "en": "मंगलमानको जिजीविषा",
+   "ne": "मंगलमानको जिजीविषा",
+   "imp": 1,
+   "tags": [
+    "Culture",
+    "Lifestyle"
+   ],
+   "cat": "culture",
+   "val": 1,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "महँगो शिक्षाविरुद्ध अल्बानियामा विद्यार्थी सडकमा, सरकारी भवन र बैंकमा आगजनी",
+   "summary": "अल्बानियाको राजधानी तिरानामा महँगो शिक्षा र कमजोर शैक्षिक सुविधाको विरोधमा विद्यार्थी सडकमा उत्रिएका छन्।...",
+   "link": "https://nagariknews.nagariknetwork.com/international/students-in-albania-take-to-the-streets-set-fire-to-government-buildings-and-banks-against-expensive-education-22-44.html",
+   "source": "Nagarik News",
+   "ts": 1792209074,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2024/third-party/1792209035_albania.jpg",
+   "lang": "ne",
+   "hl": "महँगो शिक्षाविरुद्ध अल्बानियामा विद्यार्थी सडकमा, सरकारी भवन र बैंकमा आगजनी",
+   "en": "महँगो शिक्षाविरुद्ध अल्बानियामा विद्यार्थी सडकमा, सरकारी भवन र बैंकमा आगजनी",
+   "ne": "महँगो शिक्षाविरुद्ध अल्बानियामा विद्यार्थी सडकमा, सरकारी भवन र बैंकमा आगजनी",
+   "imp": 1,
+   "tags": [
+    "Albania",
+    "Protest",
+    "Education"
+   ],
+   "cat": "world",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Latest News",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdVRhWUZoNjk3Tnl5V19YdzNIc3pKenp1ZkRRSEZ1VGh3NE5vZTB5Vkl3SGJqNTU1OElhQnBwOE9XMlNmaVYtWUtBMkQ5Y2ZhdnB5akVZVHpqVlNEQ3dPWWREVzkxVVNUNWNzZllBaDRfODFwSlVod3FFVldmbzNCWmlBOFZ5YXluQVUxVFY4R1AxVFh3enNjVXdiZnFIQUc2NXhRS2RpeXVHd0xfcWF2QU96UzY1eTQ?oc=5",
+   "source": "myRepublica",
+   "ts": 1792184386,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "Latest News",
+   "en": "Latest News",
+   "ne": "Latest News",
+   "imp": 1,
+   "tags": [
+    "News"
+   ],
+   "cat": "other",
+   "val": 1,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "किन गाउँ नै राम्रो ?",
+   "summary": "कतै अधिवेशन हुन्छ कतै सभा र बैठक हुन्छ कतै चुनाव हुन्छ",
+   "link": "https://baahrakhari.com/detail/505184",
+   "source": "Baahrakhari",
+   "ts": 1792209960,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "किन गाउँ नै राम्रो ?",
+   "en": "किन गाउँ नै राम्रो ?",
+   "ne": "किन गाउँ नै राम्रो ?",
+   "imp": 1,
+   "tags": [
+    "Village",
+    "Lifestyle"
+   ],
+   "cat": "society",
+   "val": 2,
    "teaser": false,
    "hits": 1
   }
@@ -7942,10 +8204,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "accident"
+  },
+  {
+   "ts": 1792212054.4097662,
+   "en": "PM Balendra Shah to raise border dispute during India visit in late November",
+   "ne": "PM Balendra Shah to raise border dispute during India visit in late November",
+   "link": "https://theannapurnaexpress.com/story/67998/",
+   "source": "The Annapurna Express",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "politics"
   }
  ],
- "updated": 1792211471,
- "pending_since": 1792210245.4156325,
+ "updated": 1792212067,
+ "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
