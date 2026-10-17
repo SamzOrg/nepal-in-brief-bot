@@ -1,8 +1,5 @@
 {
  "seen": {
-  "http://lokaantar.com/story/331353/2026/10/15/congress-": 1792038050.0718746,
-  "https://news.google.com/rss/articles/CBMirgFBVV95cUxQV2JZWVU3QjlSY0lsdUpJMHpJM0Z6Q01qelc3Q2lqMWg3ZldPdy1ReHZmem44NGNvaWc4dW9SOVJQdDlkcXl0dEtXLTNtaFV5X2ZlZFl4czAxbDFUU2dNdDh2X05SRF9rb0JrLXpWNkt4WXNaUDQ0OHI3RjNVWmtfQkpBTDFZemtkTUE2NWZnV2MycnRXTFNlT2RGUTNCMFVOdkk3RnFFOUZrRFVNYkE?oc=5": 1792038050.0718746,
-  "https://news.google.com/rss/articles/CBMizwFBVV95cUxQaXVGMmhrbWprSDN4Qk1KbmJsRG1WdWxpNUoxNE1tc1M2MGFObFcyZmJyd0cwc0FXRTJyUnlEYmNjTGZvQ2FaYm1wTWNjdkxrV3h0TFRVcnl0WHNiWE1IR0VFYnpWZExSVS1FOVducDVhZFJPX0RNREYzOVNyQVJtdTVrVXhDZmVqZTZJTUc3U3AyTXdDNnRSbkZlUk1ydHVkTEp2TkFSYndieVVwNGFKYTVOOWxLa2VSakV0dlQ5dmZWc0dRdlo4ck5MV2tyajA?oc=5": 1792038050.0718746,
   "http://english.ratopati.com/story/83792/post-disaster-relief-construction-entrepreneurs-federation-constructs-268-meter-long-suspension-bridge-in-nuwakot": 1792038670.0064592,
   "https://nagariknews.nagariknetwork.com/politics/all-results-of-the-congress-general-convention-will-be-announced-by-tonight-26-29.html": 1792038670.0064592,
   "https://www.setopati.com/social/400879": 1792038670.0064592,
@@ -1965,7 +1962,8 @@
   "https://gorkhapatraonline.com/news/226984": 1792209685.2052243,
   "https://gorkhapatraonline.com/news/226983": 1792209685.2052243,
   "https://kathmandupost.com/visual-stories/2026/10/17/shoppers-crowd-kathmandu-markets-for-phulpati": 1792210245.4156325,
-  "https://news.google.com/rss/articles/CBMingFBVV95cUxOSGxBdTZrek5CRTQtLXhLWEh5WEdtUVhPVkZpM3VFaW5oLWVNX1dKYW5mcXU3djVPOFJ4aHVKNlRFNHpqMmJfeVpOa3dGWVFka01PU0ZfX2V4TFZaRWl3WWpvc3VaaDItOE9leXF3R0ZaNFhJbGVhMFRzdnhPSXBzVVlWNHFyMEJYLWRHbU1NLUpDb1p2aWJBTS00VURLUQ?oc=5": 1792210846.7277408
+  "https://news.google.com/rss/articles/CBMingFBVV95cUxOSGxBdTZrek5CRTQtLXhLWEh5WEdtUVhPVkZpM3VFaW5oLWVNX1dKYW5mcXU3djVPOFJ4aHVKNlRFNHpqMmJfeVpOa3dGWVFka01PU0ZfX2V4TFZaRWl3WWpvc3VaaDItOE9leXF3R0ZaNFhJbGVhMFRzdnhPSXBzVVlWNHFyMEJYLWRHbU1NLUpDb1p2aWJBTS00VURLUQ?oc=5": 1792210846.7277408,
+  "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNzVXaFVfd0x3YUkyU2V5dDJxRFBCYXE4YzBtc1ZRTzRtY0F5NlhrYlVGU0g0blYwbkMtSmwwdUtFY1U0ZzFGU2FRYUVkZEZZOHAwZ0ZyYWMyeVVVZTIxd2RycmVGTncyckFkZEdWRVBHZzVpX1Zob2VSWWhVRk9HWXgzLVZEZzBOZFY3T1hwZnY3Yll6RVgxdWxINVkxNHcyNkVTYVhocnVhUzVqbUc1eEg5V3NoQQ?oc=5": 1792211467.331363
  },
  "queue": [
   {
@@ -4733,17 +4731,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1791606054.236244,
-   "en": "पोखरामा स्कुल बस दुर्घटना: पाँच जनाको मृत्यु, १३ विद्यार्थी र चालक घाइते",
-   "ne": "पोखरामा स्कुल बस दुर्घटना: पाँच जनाको मृत्यु, १३ विद्यार्थी र चालक घाइते",
-   "link": "https://www.setopati.com/social/400500",
-   "source": "Setopati",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "society"
-  },
   {
    "ts": 1791607860.9402816,
    "en": "Nepal endorses Bhutan's Sonam Tobgay for 16th SAARC secretary-general",
@@ -7957,7 +7944,7 @@
    "cat": "accident"
   }
  ],
- "updated": 1792210850,
+ "updated": 1792211471,
  "pending_since": 1792210245.4156325,
  "fb_blocks": [
   1790350880.4125228,
