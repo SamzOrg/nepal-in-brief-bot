@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQOEVNNE9fbzhXOFlSQzlmVTBYNzVpVkp4Ul91X0JEeUN6cXFCaFpIczlpWUJhcDVZWEdBSUVyelNpRUE5UGl1OEo1ZV8xdmpJQVZjVS1Uak5DUmtzVmpVZkdOM1R0bUs4Vjk1MmV6bWc3UHo2U1k4N0d0X2x5N1VTMktuOTB1Z0NNTXl3R2gzSE53a2thNUtPQWFqRy1RNlVNdV9odmhEdnFPOU1BX0xFQW5NS2ZqWEpxdTkyTUNOT1JETi1PUV9RZkIzVDNhY3RM?oc=5": 1792159290.0131133,
-  "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9kZS00NThCckdqc0UzQVp6akdLS3NYMWF2OUJpWHBXR3ZZN2NxbmFJWGZjM3FsRnptZm40UXlZX3JPeGg3VjExLVpHOU5SLUl5a2ZUWlNHb0NROEU?oc=5": 1792159290.0131133,
   "https://baahrakhari.com/detail/505158": 1792159962.5386064,
   "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSWdBR21jRlJQNmtUQUxhTDkwb0RTZkt5NmZVbWpNZk5RekZOUnktdUREblhBWlpyWWVPUW9ucmxLbXJ5MS0yZHQ0dE1ZalNSYmFoQ0RVM3Q5dm1qS2tza2xDY0Z1cEdjNTZGVXJPYkVQMnViUVd5eVdZRmJQeVRGSw?oc=5": 1792160458.1170797,
   "https://baahrakhari.com/detail/505159": 1792160458.1170797,
@@ -1299,7 +1297,8 @@
   "https://www.setopati.com/social/401079": 1792332083.8048978,
   "https://nagariknews.nagariknetwork.com/health/cmc-to-remain-open-during-dashain-specialist-services-available-for-four-days-39-97.html": 1792332083.8048978,
   "https://www.setopati.com/politics/401077": 1792332083.8048978,
-  "https://nagariknews.nagariknetwork.com/arts/it-is-shameful-to-increase-trp-by-tarnishing-the-reputation-of-women-kangana-51-34.html": 1792332083.8048978
+  "https://nagariknews.nagariknetwork.com/arts/it-is-shameful-to-increase-trp-by-tarnishing-the-reputation-of-women-kangana-51-34.html": 1792332083.8048978,
+  "https://www.setopati.com/politics/401084": 1792332651.8285146
  },
  "queue": [
   {
@@ -1368,98 +1367,6 @@
    ],
    "cat": "culture",
    "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "लाओसमा चीनको हवाई सैन्य संरचना- अमेरिका र भियतनाम सशंकित!",
-   "summary": "चीनले लाओसमा सैन्य तालिम केन्द्र खोलेको छ। उद्घाटनको भोलिपल्ट खिचिएका भूउपग्रह तस्बिरमा आठ सैन्य विमान देखिएपछि यसको वास्तविक उद्देश्यबारे प्रश्न उठेका छन्। के चीनले समुद्री तट नभएको लाओसलाई विदेशस्थित हवाई सैन्य पहुँच...",
-   "link": "https://www.setopati.com/politics/401045",
-   "source": "Setopati",
-   "ts": 1792303620,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "लाओसमा चीनको हवाई सैन्य संरचना- अमेरिका र भियतनाम सशंकित!",
-   "en": "लाओसमा चीनको हवाई सैन्य संरचना- अमेरिका र भियतनाम सशंकित!",
-   "ne": "लाओसमा चीनको हवाई सैन्य संरचना- अमेरिका र भियतनाम सशंकित!",
-   "imp": 1,
-   "tags": [
-    "Laos",
-    "China",
-    "USA"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Gold price drops by Rs 400 per tola, silver by Rs 50",
-   "summary": "Kathmandu, October 18 The price of gold in the Nepali market declined by Rs 400 per tola on Sunday. According to the Nepal Gold and Silver Dealers' Association, hallmark gold is being traded at Rs 289,700 per tola, down...",
-   "link": "https://english.onlinekhabar.com/gold-price-drops-by-rs-400-per-tola-silver-by-rs-50.html",
-   "source": "Onlinekhabar EN",
-   "ts": 1792303786,
-   "weight": 3,
-   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/09/gold-shop-8.jpg",
-   "lang": "en",
-   "hl": "Gold price drops by Rs 400 per tola, silver by Rs 50",
-   "en": "Gold price drops by Rs 400 per tola, silver by Rs 50",
-   "ne": "Gold price drops by Rs 400 per tola, silver by Rs 50",
-   "imp": 2,
-   "tags": [
-    "GoldPrice",
-    "SilverPrice",
-    "Market"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "भारतमा आन्दोलनकारीविरूद्ध कम्तिमा ३ मुद्दा, १७ सामाजिक सञ्जाल एकाउन्ट पनि प्रहरी निगरानीमा",
-   "summary": "भारतको राजधानी नयाँदिल्लीमा जारी सरकारविरोधी आन्दोलनका सहभागीविरूद्ध प्रहरीले कम्तीमा तीनवटा मुद्दा दर्ता गरेको छ।",
-   "link": "https://www.setopati.com/politics/401058",
-   "source": "Setopati",
-   "ts": 1792303500,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "भारतमा आन्दोलनकारीविरूद्ध कम्तिमा ३ मुद्दा, १७ सामाजिक सञ्जाल एकाउन्ट पनि प्रहरी निगरानीमा",
-   "en": "भारतमा आन्दोलनकारीविरूद्ध कम्तिमा ३ मुद्दा, १७ सामाजिक सञ्जाल एकाउन्ट पनि प्रहरी निगरानीमा",
-   "ne": "भारतमा आन्दोलनकारीविरूद्ध कम्तिमा ३ मुद्दा, १७ सामाजिक सञ्जाल एकाउन्ट पनि प्रहरी निगरानीमा",
-   "imp": 1,
-   "tags": [
-    "India",
-    "Protest",
-    "Police"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "US Secretary of State Antony Blinken Departs for India and Uzbekistan",
-   "summary": "Kathmandu. US Secretary of State Antony Blinken departed on Saturday for visits to India and Uzbekistan.Energy, trade, investment, and strategic...",
-   "link": "http://english.ratopati.com/story/84105/rubio-visits-india-energy-and-trade-cooperation-a-priority",
-   "source": "Ratopati EN",
-   "ts": 1792303437,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/marco-rubio_7icghPKSeU.webp",
-   "lang": "en",
-   "hl": "US Secretary of State Antony Blinken Departs for India and Uzbekistan",
-   "en": "US Secretary of State Antony Blinken Departs for India and Uzbekistan",
-   "ne": "US Secretary of State Antony Blinken Departs for India and Uzbekistan",
-   "imp": 1,
-   "tags": [
-    "AntonyBlinken",
-    "India",
-    "Uzbekistan"
-   ],
-   "cat": "world",
-   "val": 3,
    "teaser": false,
    "hits": 1
   },
@@ -1802,7 +1709,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "Dussehra: A Daughter's Joy vs. A Daughter-in-law's Responsibility",
@@ -1872,29 +1779,6 @@
    "val": 2,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "Nepal Triangular Series, 2023/24 Cricket Team Records & Stats",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeV9Hc0R2MjkyQmlIdzc0MDdGeEZudV9IN0xOVzQxMDBCendITlNockl3Qjl3SGYtNVpLWm51aFhlcnZrNjRNRlprVW9MWGlybVNCZ0tMUG1fUUdETUhub1J4cDJkbGUtZEFJYkhFWXc3X0IzQlNSazlhTjFFbGs3WTduNkotd3NUYk1SOFRSLUxjWnVmT3lpTlpLUXBCTWRtV184dlNaRzJHb1lwWEM0OVFheG9NQQ?oc=5",
-   "source": "Cricinfo",
-   "ts": 1792303774,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Nepal Triangular Series, 2023/24 Cricket Team Records & Stats",
-   "en": "Nepal Triangular Series, 2023/24 Cricket Team Records & Stats",
-   "ne": "Nepal Triangular Series, 2023/24 Cricket Team Records & Stats",
-   "imp": 1,
-   "tags": [
-    "Cricket",
-    "Nepal",
-    "Records"
-   ],
-   "cat": "sports",
-   "val": 1,
-   "teaser": false,
-   "hits": 5
   },
   {
    "title": "शरदको निलो आकाशमा 'चङ्गा चेट' को उल्लास",
@@ -2395,53 +2279,6 @@
     "Nepal"
    ],
    "cat": "education",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Indian Defence Minister Rajnath Singh to Represent India at 25th SCO Summit in Dushanbe",
-   "summary": "Indian Defence Minister Rajnath Singh will travel to Dushanbe, Tajikistan, to represent India at the 25th Meeting of the Council of Heads of Government (CHG) of the Shanghai Cooperation Organisation (SCO), scheduled for...",
-   "link": "https://theannapurnaexpress.com/story/68041",
-   "source": "Annapurna Express",
-   "ts": 1792303288.8990333,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Indian Defence Minister Rajnath Singh to Represent India at 25th SCO Summit in Dushanbe",
-   "en": "Indian Defence Minister Rajnath Singh to Represent India at 25th SCO Summit in Dushanbe",
-   "ne": "Indian Defence Minister Rajnath Singh to Represent India at 25th SCO Summit in Dushanbe",
-   "imp": 1,
-   "tags": [
-    "RajnathSingh",
-    "SCOSummit",
-    "India"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "दार्चुला कारागारमा पुस्तकालय स्थापना",
-   "summary": "सुदूरपश्चिमको पहाडी जिल्ला दार्चुलास्थित जिल्ला कारागारमा पुस्तकालय स्थापना गरिएको छ ।प्रहरी दिवस तथा बडादशैँको अवसर पारेर जेनजी युवा मदन बुढाले कारागारमा पुस्तकालय स्थापना गरेका हुन् ।पुस्तकालय स्थापनाका लागि उनले...",
-   "link": "http://lokaantar.com/story/331549/2026/10/18/karagar-book-",
-   "source": "Lokaantar",
-   "ts": 1792303288.3659945,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "दार्चुला कारागारमा पुस्तकालय स्थापना",
-   "en": "दार्चुला कारागारमा पुस्तकालय स्थापना",
-   "ne": "दार्चुला कारागारमा पुस्तकालय स्थापना",
-   "imp": 2,
-   "tags": [
-    "Darchula",
-    "Prison",
-    "Library",
-    "पुस्तकालय"
-   ],
-   "cat": "society",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -7011,8 +6848,8 @@
    "cat": "crime"
   }
  ],
- "updated": 1792332102,
- "pending_since": null,
+ "updated": 1792332656,
+ "pending_since": 1792332651.8285146,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
