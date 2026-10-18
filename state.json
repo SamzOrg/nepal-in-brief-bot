@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMisAFBVV95cUxNa1hoNUJRNzY4cE5Qc3JWcHIyZnBLRDAzVGNKQ1JKUEl1OF9vc1RwUEo2SERJeGxOQlVRSnhHbE84cGxxS3A4QU9aR2R3WmxOUTgzWWM4NmlKd0RTTkpGekx6dy0xQ1AwUTU5ZV9NMU1UQWF2RHU1YVlsRlpLVlljcm1aY01RYXVRLVZqeXg4YVY0c1BidE93ZDJBWG80YUs3aFR3Qi1RSk9BV3l3R1FmUQ?oc=5": 1792145461.990701,
-  "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA1QzhsVGRWWkktLXVBZ2c4bFZ3Q1NqWVpJX2hnUGcxb2NfRndJZG9PV2phX2p5c2VkalhINkVqV01SSkVTaGFsYTFzUFRxZ2JLQlJPdm9mQjh2NWZubk0tZXc5MkQ?oc=5": 1792145461.990701,
   "https://www.setopati.com/politics/400990": 1792146062.0711036,
   "https://baahrakhari.com/detail/505139": 1792146062.0711036,
   "http://lokaantar.com/story/331444/2026/10/16/cabinet-": 1792146062.0711036,
@@ -1505,29 +1503,6 @@
    "hits": 1
   },
   {
-   "title": "NEA on standby to ensure smooth power supply during Dashain",
-   "summary": "By A Staff Reporter,Kathmandu, Oct. 18: The Nepal Electricity Authority (NEA) has directed distribution centres across t...",
-   "link": "https://risingnepaldaily.com/news/87927",
-   "source": "Rising Nepal",
-   "ts": 1792289695,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "NEA on standby to ensure smooth power supply during Dashain",
-   "en": "NEA on standby to ensure smooth power supply during Dashain",
-   "ne": "NEA on standby to ensure smooth power supply during Dashain",
-   "imp": 3,
-   "tags": [
-    "NEA",
-    "Dashain",
-    "Electricity"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "जेलेन्स्कीसँग विवाद चर्किँदै जाँदा ट्रम्पले लागू हुनुअघि नै रोके रुसमाथिका प्रतिबन्ध",
    "summary": "ट्रम्पले युक्रेनी राष्ट्रपति जेलेन्स्कीसँगको तनाव बढिरहेका बेला रुसमाथि लगाइएका केही प्रतिबन्ध लागू हुनुभन्दा दुई दिन अघि नै रोक लगाएका छन्।...",
    "link": "https://nagariknews.nagariknetwork.com/international/trump-lifts-sanctions-on-russia-as-row-with-zelensky-escalates-58-59.html",
@@ -1570,28 +1545,6 @@
    ],
    "cat": "culture",
    "val": 1,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Malnutrition stalks the vulnerable in Afghanistan",
-   "summary": "Kabul, Oct. 18: Lying in her hospital cot, the 3-year-old girl roamed the room with her gray-green eyes, but her body wa...",
-   "link": "https://risingnepaldaily.com/news/87926",
-   "source": "Rising Nepal",
-   "ts": 1792289528,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Malnutrition stalks the vulnerable in Afghanistan",
-   "en": "Malnutrition stalks the vulnerable in Afghanistan",
-   "ne": "Malnutrition stalks the vulnerable in Afghanistan",
-   "imp": 1,
-   "tags": [
-    "Afghanistan",
-    "Malnutrition"
-   ],
-   "cat": "world",
-   "val": 3,
    "teaser": false,
    "hits": 1
   },
@@ -2971,29 +2924,6 @@
     "कंगना"
    ],
    "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Border disruptions push up apple prices ahead of Dashain",
-   "summary": "China supplies most of Nepal's imported apples, leaving the market exposed to rising freight costs even as domestic production grows.",
-   "link": "https://kathmandupost.com/money/2026/10/18/border-disruptions-push-up-apple-prices-ahead-of-dashain",
-   "source": "Kathmandu Post",
-   "ts": 1792290049.644142,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Border disruptions push up apple prices ahead of Dashain",
-   "en": "Border disruptions push up apple prices ahead of Dashain",
-   "ne": "Border disruptions push up apple prices ahead of Dashain",
-   "imp": 3,
-   "tags": [
-    "Dashain",
-    "ApplePrices",
-    "Border"
-   ],
-   "cat": "economy",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -4584,17 +4514,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1791713460.0524385,
-   "en": "Nepali Congress urges govt to intensify rescue after Budhigandaki flood",
-   "ne": "Nepali Congress urges govt to intensify rescue after Budhigandaki flood",
-   "link": "https://myrepublica.nagariknetwork.com/news/nepali-congress-urges-govt-to-intensify-rescue-efforts-after-budhigandaki-f-76-63.html",
-   "source": "myRepublica",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "politics"
-  },
   {
    "ts": 1791715256.0353625,
    "en": "Roads to Rasuwagadhi to Open Before Dashain, Reconstruction Needs 53 Billion Rupees",
@@ -7753,7 +7672,7 @@
    "cat": "politics"
   }
  ],
- "updated": 1792318253,
+ "updated": 1792318855,
  "pending_since": 1792318249.339624,
  "fb_blocks": [
   1790350880.4125228,
