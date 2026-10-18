@@ -1,18 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMiYkFVX3lxTE41WUxFRFRPTWxvdGQ4WU1RcFlaME51ZC03aWZldl81N2YyQ19lYUxnLU1RM3MtbmdlbG1YUlN3X1VTZzRxbDdUd0U2WjBQM2dTNWZfZUpGdkxTMkFWdlZ0Nk93?oc=5": 1792111255.8585927,
-  "https://risingnepaldaily.com/news/87848": 1792111255.8585927,
-  "https://gorkhapatraonline.com/news/226858": 1792111255.8585927,
-  "http://english.ratopati.com/story/83900/partial-influence-of-westerly-winds-persists-light-rain-likely-in-these-five-provinces-today": 1792111255.8585927,
-  "https://www.setopati.com/opinion/400920": 1792111255.8585927,
-  "https://baahrakhari.com/detail/505084": 1792111255.8585927,
-  "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9rdjBNTW9PNmRnSlBMQ0J0aGJLYmgtSjY1ZVBHZDMzRjI0b3plc2dHMlRxN1BhU1BQcXBCaUJkd0J6UTVwRjY0cmhMS21IQXd1bGRHWm5PUmMydw?oc=5": 1792111255.8585927,
-  "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SamRDWEdkRTd5NGtSMWFtQnVjNzU5TVQ2R1B5Zkx4RU03cnEtOTBWT21raWtJQkF5cmxRZU5Sa2czdlZRdFVLUXpEYnptTjJFc2tyWFJHdGhOZw?oc=5": 1792111255.8585927,
-  "http://lokaantar.com/story/331406/2026/10/16/dollar-": 1792111255.8585927,
-  "https://risingnepaldaily.com/news/87847": 1792111255.8585927,
-  "https://gorkhapatraonline.com/news/226857": 1792111255.8585927,
-  "https://risingnepaldaily.com/news/87846": 1792111255.8585927,
-  "https://risingnepaldaily.com/news/87845": 1792111255.8585927,
   "https://gorkhapatraonline.com/news/226859": 1792111849.219935,
   "https://nagariknews.nagariknetwork.com/social-affairs/temporary-housing-for-landslide-victims-through-shramdan-53-81.html": 1792111849.219935,
   "http://lokaantar.com/story/331407/2026/10/16/bhotekoshi-badhi-": 1792112488.321864,
@@ -1695,7 +1682,9 @@
   "http://lokaantar.com/story/331526/2026/10/18/current-": 1792283465.9926887,
   "http://english.ratopati.com/story/84074/psgs-sixth-consecutive-win-climbs-to-the-top-spot": 1792284044.040521,
   "https://www.setopati.com/social/401047": 1792284044.040521,
-  "http://english.ratopati.com/story/84073/chelsea-climb-to-fourth-place-first-clean-sheet-in-9-months": 1792284044.040521
+  "http://english.ratopati.com/story/84073/chelsea-climb-to-fourth-place-first-clean-sheet-in-9-months": 1792284044.040521,
+  "https://nagariknews.nagariknetwork.com/social-affairs/woman-dies-of-electrocution-94-31.html": 1792284643.24917,
+  "http://english.ratopati.com/story/84076/a-young-man-died-in-a-midnight-fight-in-machhapokhari-a-young-man-involved-in-the-beating-was-arrested": 1792284643.24917
  },
  "queue": [
   {
@@ -1837,29 +1826,6 @@
    "val": 3,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "Tiny Fiji village restores dying fishery with coral planting",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYXpaRlhjWm54czhlX0pCZXhMQjJSUHM1WjNNeUJ2MlZOcnQyb0lQRVZLWmpFeXZKb3VwM1BCQ2c1cXpqWENJZFdrN3FONm1zVWdpX0FGMGc5SjVNQkhvT21iUko3eEVpY0FVNzVvQnBEYUQ1VWxwR0ZBTFptSDZzT191a0lXZW1Yb2ZDTzJ4aUtJSkxzLVZvV0lVeDhjeUd1cjM1dmN0ekJQVXpUamloclFvRGNsRlhrOTc0?oc=5",
-   "source": "myRepublica",
-   "ts": 1792255640,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Tiny Fiji village restores dying fishery with coral planting",
-   "en": "Tiny Fiji village restores dying fishery with coral planting",
-   "ne": "Tiny Fiji village restores dying fishery with coral planting",
-   "imp": 1,
-   "tags": [
-    "Fiji",
-    "Environment",
-    "Fishery"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "India vs West Indies T20 Series Ends in 2-2 Draw After Rain Washes Out Decider",
@@ -2207,29 +2173,6 @@
    "hits": 1
   },
   {
-   "title": "करेन्ट लागेर महिलाको मृत्यु",
-   "summary": "ओखलढुङ्गाको चिशङ्खुगढी गाउँपालिका-१, कुमलटारमा करेन्ट लागेर ५४ वर्षीया ठगमाया बास्तोलाको मृत्यु भएको छ ।घर नजिकै रहेको बिजुलीको खम्बाबाट झरेको तारबाट प्रवाह भएको करेन्ट लाग्दा उहाँको घटनास्थलमै मृत्यु भएको जिल्ला प्रहरी...",
-   "link": "http://lokaantar.com/story/331526/2026/10/18/current-",
-   "source": "Lokaantar",
-   "ts": 1792269066.6976714,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "करेन्ट लागेर महिलाको मृत्यु",
-   "en": "करेन्ट लागेर महिलाको मृत्यु",
-   "ne": "करेन्ट लागेर महिलाको मृत्यु",
-   "imp": 3,
-   "tags": [
-    "Current",
-    "करेन्ट",
-    "Accident"
-   ],
-   "cat": "accident",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "PSG Defeats Strasbourg in Comeback Victory, Extends Winning Streak",
    "summary": "Paris. Paris Saint-Germain (PSG) has extended its winning streak to six consecutive matches in all competitions by defeating Strasbourg in...",
    "link": "http://english.ratopati.com/story/84074/psgs-sixth-consecutive-win-climbs-to-the-top-spot",
@@ -2291,6 +2234,30 @@
     "Everton"
    ],
    "cat": "sports",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "One Dead in Kathmandu Brawl",
+   "summary": "Kathmandu. One person has died in a beating during a mutual dispute at Machhapokhari Chowk in Kathmandu.A verbal altercation occurred...",
+   "link": "http://english.ratopati.com/story/84076/a-young-man-died-in-a-midnight-fight-in-machhapokhari-a-young-man-involved-in-the-beating-was-arrested",
+   "source": "Ratopati EN",
+   "ts": 1792284466,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/854338681_1538084555029662_980486271593970943_n_1nrkLHwhjK.webp",
+   "lang": "en",
+   "hl": "One Dead in Kathmandu Brawl",
+   "en": "One Dead in Kathmandu Brawl",
+   "ne": "One Dead in Kathmandu Brawl",
+   "imp": 3,
+   "tags": [
+    "Kathmandu",
+    "Brawl",
+    "Crime",
+    "अपराध"
+   ],
+   "cat": "crime",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -5497,9 +5464,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "society"
+  },
+  {
+   "ts": 1792284650.1689425,
+   "en": "ओखलढुङ्गामा करेन्ट लागेर ५४ वर्षीया महिलाको मृत्यु",
+   "ne": "ओखलढुङ्गामा करेन्ट लागेर ५४ वर्षीया महिलाको मृत्यु",
+   "link": "http://lokaantar.com/story/331526/2026/10/18/current-",
+   "source": "Lokaantar",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "accident"
   }
  ],
- "updated": 1792284049,
+ "updated": 1792284669,
  "pending_since": 1792283465.9926887,
  "fb_blocks": [
   1790350880.4125228,
