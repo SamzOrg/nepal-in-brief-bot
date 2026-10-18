@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMiekFVX3lxTE5XSW8tM015dUJtQlc5UGItajZrWU13Vk1IMzczVTdvQVEzbWg0MTJxdDUyMkQzQ3lwV2xMZVBra1dTREUyaFpzbEtOOFpYc0NkT3MzQTJmazBQNGJvSTNRQmI0RDUzNjV3REVTbXZIT2V1OFlxcHJjS0hB?oc=5": 1792170087.7968764,
-  "https://news.google.com/rss/articles/CBMidkFVX3lxTFBiVzlhV2FhaEpRU3RUYXNuTkJWeW1RUVhZa3piODE3TTB4YjBQUEwwVjJxTlF2YzVRendkcnBGWl9uTG4tTjcwXzFrd1Z3MElUSEFUd2ZUTnlnUGFSeHh0OVBNYUJqWXVDMzN3R3VWN3VNV0c2MVE?oc=5": 1792170087.7968764,
   "https://baahrakhari.com/detail/505168": 1792170651.4897068,
   "https://news.google.com/rss/articles/CBMieEFVX3lxTFBxY2oxc1dRSFd6amJUcjV3THRHTlhNZE5pUm9qUEVIbWpSTDlZbUhYQnZjNVk1Wlo3YjZzSXMwZWRSeExtMThqY2o3Z2J5c3FNVGJ3RlRJSFhNNFNkQV9GZlVqcG9YV1JSOVE4SXdqM0JhSm4xN09Bbg?oc=5": 1792170651.4897068,
   "https://news.google.com/rss/articles/CBMidEFVX3lxTFBneTBVZUdsd0FUOWpEak9zeUxyRVdIUzhlRTNyTHlSWHlsWVBxNGpIWjNneDhBWTAzOHJBQThPOG55OFVQV2F5QTVnZVBtYy05MlltcDllZExiUmtWbzllMnNLQnNnNVhUVTQweUgxNkIydnJ0?oc=5": 1792170651.4897068,
@@ -1331,29 +1329,6 @@
    "hits": 1
   },
   {
-   "title": "चितवनमा बस पल्टँदा १० जना घाइते",
-   "summary": "बस चितवनको भरतपुरबाट मकवानपुरको हेटौँडा हुँदै सप्तरीको राजविराजतर्फ जाँदै थियो । त्यति बेला बसमा करिब २३ जना सवार रहेका प्रहरीले जनाएको छ ।",
-   "link": "https://baahrakhari.com/detail/505268",
-   "source": "Baahrakhari",
-   "ts": 1792314540,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "चितवनमा बस पल्टँदा १० जना घाइते",
-   "en": "चितवनमा बस पल्टँदा १० जना घाइते",
-   "ne": "चितवनमा बस पल्टँदा १० जना घाइते",
-   "imp": 3,
-   "tags": [
-    "Chitwan",
-    "BusAccident",
-    "Injured"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "नोभेम्बर ३ को मध्यावधि निर्वाचनअघि अमेरिकामा 'नो किङ्स' प्रदर्शन",
    "summary": "",
    "link": "https://baahrakhari.com/detail/505273",
@@ -2247,30 +2222,6 @@
    "val": 3,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "मध्यावधि नजिकिँदै गर्दा ट्रम्पविरुद्ध अमेरिकाभर 'नो किंग्स' प्रदर्शन",
-   "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्पका नीतिविरुद्ध अमेरिकाका विभिन्न सहरमा शनिबार (स्थानीय समयअनुसार) 'नो किंग्स' प्रदर्शन भएका छन्।...",
-   "link": "https://nagariknews.nagariknetwork.com/international/no-kings-protests-against-trump-across-america-as-midterms-approach-81-99.html",
-   "source": "Nagarik News",
-   "ts": 1792314521,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1792332809_Trump.jpg",
-   "lang": "ne",
-   "hl": "मध्यावधि नजिकिँदै गर्दा ट्रम्पविरुद्ध अमेरिकाभर 'नो किंग्स' प्रदर्शन",
-   "en": "मध्यावधि नजिकिँदै गर्दा ट्रम्पविरुद्ध अमेरिकाभर 'नो किंग्स' प्रदर्शन",
-   "ne": "मध्यावधि नजिकिँदै गर्दा ट्रम्पविरुद्ध अमेरिकाभर 'नो किंग्स' प्रदर्शन",
-   "imp": 1,
-   "tags": [
-    "DonaldTrump",
-    "NoKings",
-    "USA",
-    "Protest"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 4
   },
   {
    "title": "EU Strongly Condemns Settler Attacks in West Bank, Demands Full Accountability",
@@ -6114,7 +6065,7 @@
    "cat": "crime"
   }
  ],
- "updated": 1792342906,
+ "updated": 1792343452,
  "pending_since": 1792342250.750644,
  "fb_blocks": [
   1790350880.4125228,
