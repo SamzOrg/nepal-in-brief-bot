@@ -1,8 +1,5 @@
 {
  "seen": {
-  "http://english.ratopati.com/story/83979/this-is-how-the-231-member-congress-central-committee-led-by-gagan-was-formed": 1792150275.6838427,
-  "https://risingnepaldaily.com/news/87880": 1792150275.6838427,
-  "http://lokaantar.com/story/331449/2026/10/16/congress-": 1792150275.6838427,
   "https://gorkhapatraonline.com/news/226940": 1792150855.424595,
   "http://english.ratopati.com/story/83980/citizens-should-feel-that-the-police-are-their-protectors-chief-minister-thapa": 1792150855.424595,
   "https://www.setopati.com/politics/400995": 1792150855.424595,
@@ -1367,7 +1364,8 @@
   "http://lokaantar.com/story/331552/2026/10/18/scooter-": 1792323068.4414568,
   "https://kathmandupost.com/world/2026/10/18/iran-urges-us-to-accept-proposal-to-reopen-strait-of-hormuz": 1792323068.4414568,
   "https://baahrakhari.com/detail/505278": 1792323068.4414568,
-  "https://baahrakhari.com/detail/505277": 1792323068.4414568
+  "https://baahrakhari.com/detail/505277": 1792323068.4414568,
+  "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNGlUQnR2S3FGWHVEb29FM1VtbkNjZUlvYXF2MEhGVUtEV0NRbi14MzRfNVViVlFHUkhIN193TVRrWkFHdC1YSW9kZG5IcjVzVWxWRzF3QzNfZDBjVHhpZTBEOTRra0pwbXcyYWluaS1PSTVXWjNUUG9TNFV4MHBGSldZa05EODljbFNEWVdqRmJHWmtINXIzTnJEdi1iTmVuMnMtZ2VpYnFEaXBzdktaSmIxMy1OVGJ2aGc?oc=5": 1792323649.599133
  },
  "queue": [
   {
@@ -1487,28 +1485,6 @@
    "hits": 3
   },
   {
-   "title": "Three publications released",
-   "summary": "By A Staff Reporter, Lalitpur, Oct. 18 : The Yala Study Centre released three publications at Nepal Bhasa Manka Khala in...",
-   "link": "https://risingnepaldaily.com/news/87931",
-   "source": "Rising Nepal",
-   "ts": 1792294380,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Three publications released",
-   "en": "Three publications released",
-   "ne": "Three publications released",
-   "imp": 1,
-   "tags": [
-    "Publications",
-    "Books"
-   ],
-   "cat": "culture",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
-  },
-  {
    "title": "हुने छैन ग्यास अभाव",
    "summary": "सर्लाही समाचारदातासर्लाही,कात्तिक १ गते । सर्लाहीमा दसैँको समयमा खाना पकाउने ग्यास अभाव नहुने व्यवसायीले बताएका छन् । उपभोक्ताले सहज रूपमै ग्यास प्राप्त गरिरहेका ग्यास विक्रेता सङ्...",
    "link": "https://gorkhapatraonline.com/news/227039",
@@ -1528,51 +1504,6 @@
    ],
    "cat": "economy",
    "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "ढगैँ गाउँ",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/505247",
-   "source": "Baahrakhari",
-   "ts": 1792294391,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "ढगैँ गाउँ",
-   "en": "ढगैँ गाउँ",
-   "ne": "ढगैँ गाउँ",
-   "imp": 1,
-   "tags": [
-    "Village",
-    "Nepal"
-   ],
-   "cat": "society",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "स्वर उपचार सेवा सुरु",
-   "summary": "चितवन समाचारदाताचितवन, कात्तिक १ गते । आवाजमा परिवर्तन आउने, स्वर बस्ने तथा बोल्दा आवाज थाक्ने समस्याबाट पीडित बिरामीलाई लक्ष्य गरी भरतपुर अस्पतालले स्वर उपचार (भ्वाइस थेरापी) सेवा...",
-   "link": "https://gorkhapatraonline.com/news/227038",
-   "source": "Gorkhapatra",
-   "ts": 1792294753,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/388614/conversions/Untitled-1-Recovered-original.jpg",
-   "lang": "ne",
-   "hl": "स्वर उपचार सेवा सुरु",
-   "en": "स्वर उपचार सेवा सुरु",
-   "ne": "स्वर उपचार सेवा सुरु",
-   "imp": 2,
-   "tags": [
-    "Voice",
-    "HealthService",
-    "स्वास्थ्य"
-   ],
-   "cat": "health",
-   "val": 2,
    "teaser": false,
    "hits": 1
   },
@@ -2034,28 +1965,6 @@
    "val": 1,
    "teaser": true,
    "hits": 1
-  },
-  {
-   "title": "Latest News",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxPTEZlZWVGblBnSmNSaFJGNGlTcHlwQ3VqejQ2dmg1cHBkSE5vRGNMU2Z1TTgzR1JvVFdkWU14b1dMZ3hRdVRRbWNaY0RvRXhBd2xYM2RodVdMTmQ0dURLbHlpbG91N3FWVUFpem0xUGdxTFJEQi1jajh1TWxMRmpLaHNkSTlxMW50YWRJOFJ6cmR1YWRhWkZsVlJpNG82Sjljai1LUFBSbVYzS3Njc180TElqa1NRV0k3dEJLUmpuWjJ0RGRyWGJhR0xDT0QwM2V0R19XdzRPdmMyMU5fQlR5NlJaUDc3UnY3bXpNeWR1ME0taTlkV1Z0SFFuX2p5bC1LQVRFYlB3bklTTDR1dmJ1LTFNQWd2WkJVTzRLUHd1RkZSSWZrVGtDa1N5U0Q3TlFXWlpPaGx3SzQyRTBiOUJzVXBkczdJa0huWFBNLTJ3?oc=5",
-   "source": "myRepublica",
-   "ts": 1792294750,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Latest News",
-   "en": "Latest News",
-   "ne": "Latest News",
-   "imp": 1,
-   "tags": [
-    "News",
-    "Updates"
-   ],
-   "cat": "other",
-   "val": 1,
-   "teaser": false,
-   "hits": 3
   },
   {
    "title": "वेस्ट बैंकका युरोपेली कूटनीतिज्ञ र फ्रान्सेली मेयरमाथि आक्रमण",
@@ -3569,7 +3478,7 @@
    "cat": "society",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "दसैँका सामान ल्याउन चीनले दियो तीन दिन, नाकामा कन्टेनरको लाम",
@@ -7277,8 +7186,8 @@
    "cat": "crime"
   }
  ],
- "updated": 1792323137,
- "pending_since": null,
+ "updated": 1792323653,
+ "pending_since": 1792323649.599133,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
