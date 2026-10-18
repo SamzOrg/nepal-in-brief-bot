@@ -1223,7 +1223,8 @@
   "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBtVV9sV0pFdWNaMXpwOTFhdEZjY1lBS1F6YXptYURXZmpjMlZ6b1ZMUUhzYlFaRlJtRzRpSk9sSFk1Q3QwS2stQldGSTYwVUlD?oc=5": 1792344671.2971148,
   "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMnJDYmR4SDhyaDFma0ozbnJjb3h5Mkdxcm5SdFdSTXJXOWFMc095MHlzZDNNTzd5VkkxUkhfRG1RczBLMkwtbGxSUEI4dzZONmpldjdwVm1EZk9jTWtEZXA2RXNyZkJMcDdVV1BEWWVtbGFXbTdFS2JIY2RhZmNlY1lJVTJDTUFjZDhDOXZSMWZqWmYxZjItelkxTnkxaTludDMyY0dUcXoxVUozM2x3eXoxeThjMkJYS2Y2b0pn?oc=5": 1792345847.947175,
   "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcUpYaFRYRnZ0dVM4MFhPb09LSWt2em5Lc2xvanVpYWNzTTRGbWFQNHVmRU5WMFFrYnE0TW1UNFFKNG1oUFhPd3RrVXBoaFhhSWpDLTREdEwtYXczb0RIVjdaZ2QwdkhucV9fdXZSSHlOQVBudU9YbzQ3dDhQbm9TenlGRFItX3lGTUZyRkJHU2RlVFlmMUVKdWtoclVDZm5mLXc3T19Bb1RQZXNKejcwQw?oc=5": 1792345847.947175,
-  "https://news.google.com/rss/articles/CBMivwFBVV95cUxNT3BnVjNadkFvQkxGSU5HbGFpYW5vdy1yc1ZfYkFPQllrNGJwSHZyLWY1LWtTSDFlclI4blJwNlpYZ05nbjVDWGlQbFFSaFlXZUMycXlHYzZzQ3BFNlE1WUlfaGc2QjExdXhiTTV4bVRUTUQ2ZGdJTVB2SGlmbWVabFFsdWVvM05UVHRENVE2RzBpbjRqdnR3N0VuZFU0MHFFSGhYdXdadG9WbnNmLWY4bmlEdG1BTnB4cnpUaWNUcw?oc=5": 1792346488.1401653
+  "https://news.google.com/rss/articles/CBMivwFBVV95cUxNT3BnVjNadkFvQkxGSU5HbGFpYW5vdy1yc1ZfYkFPQllrNGJwSHZyLWY1LWtTSDFlclI4blJwNlpYZ05nbjVDWGlQbFFSaFlXZUMycXlHYzZzQ3BFNlE1WUlfaGc2QjExdXhiTTV4bVRUTUQ2ZGdJTVB2SGlmbWVabFFsdWVvM05UVHRENVE2RzBpbjRqdnR3N0VuZFU0MHFFSGhYdXdadG9WbnNmLWY4bmlEdG1BTnB4cnpUaWNUcw?oc=5": 1792346488.1401653,
+  "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9wY2tYLWE0UC1VY3NqLVd1RmE0X3ROMVBOaEZyTDVRcXBlRGIySTlrWjJBYldTSnk5RVVkV1RxWXh2Y1A5UzZ1VFJsWmtPNHFl?oc=5": 1792347648.6901472
  },
  "queue": [
   {
@@ -1246,30 +1247,6 @@
     "NPL"
    ],
    "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Dussehra Special: Bartender Raj Karki Creates 'Extreme Bomb' Cocktail and Mocktail",
-   "summary": "Kathmandu. Along with meat dishes, there is a tradition of drinking beverages during Dussehra. This includes everything from cold drinks...",
-   "link": "http://english.ratopati.com/story/84085/this-is-how-you-can-make-mocktails-and-cocktails-at-home-video",
-   "source": "Ratopati EN",
-   "ts": 1792318500,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/cocktail-mocktail-banner_yaOlkTblcD.webp",
-   "lang": "en",
-   "hl": "Dussehra Special: Bartender Raj Karki Creates 'Extreme Bomb' Cocktail and Mocktail",
-   "en": "Dussehra Special: Bartender Raj Karki Creates 'Extreme Bomb' Cocktail and Mocktail",
-   "ne": "Dussehra Special: Bartender Raj Karki Creates 'Extreme Bomb' Cocktail and Mocktail",
-   "imp": 1,
-   "tags": [
-    "Dussehra",
-    "Cocktail",
-    "Recipe",
-    "Lifestyle"
-   ],
-   "cat": "culture",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -5687,7 +5664,7 @@
    "cat": "crime"
   }
  ],
- "updated": 1792347053,
+ "updated": 1792347652,
  "pending_since": 1792347050.0829322,
  "fb_blocks": [
   1790350880.4125228,
