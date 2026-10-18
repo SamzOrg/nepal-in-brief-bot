@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMigwFBVV95cUxNU1o4eFd4Zlo0REdsOHhfdEpwdDRZd0w2UnFkVUtKM1FXOE90eTlZODVhNTZQMHE5bUlNSUZOTDBQOUVHSF9CTDFvaHRQRktVWWgzUlBGUEF5M1RpWTdRakdEWGxhc3lfeEdWNl9HV2JvMm5oNHBSOWYtLW8wLVZycVhMSQ?oc=5": 1792190451.1216211,
-  "https://news.google.com/rss/articles/CBMifkFVX3lxTE4xaElIUksxTnltckhGVm0wSFUzN3ZCQmMwVFBKTU04aFlpTkJpNWNpdGttME5Ka1VLQWwxVGN5NnFGdVgyckIybFFrX1A2MkVUTEZraVAwU0VqWnJORnAxLUs0YndPUTFyRW9Sclh3S1RvSC0zNnJ5bkk2b2ZOUQ?oc=5": 1792190451.1216211,
   "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1eEh2d2RoWlRIZUhpLUtTU1ViOXFDOVFoTUh6WGc3eFBoWXM3aWEzWnBSZkJiNDl4QUFMdkFkbjR3MUFLS0hFZF8yaWxodG1XLWJ0UjdBSG1INktQd0FJZ0RWczF3ZVVoTWl6cl9zWTVqdTFUSk1TRHdmYnZTNUE?oc=5": 1792191678.9806144,
   "https://theannapurnaexpress.com/story/67996": 1792191678.9806144,
   "https://theannapurnaexpress.com/story/67995": 1792191678.9806144,
@@ -1445,30 +1443,6 @@
     "अर्थतन्त्र"
    ],
    "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "सुमो दुर्घटना : मृ`तक, घाइते र बेपत्ता नौ जनाकै पहिचान खुल्यो",
-   "summary": "काठमाडौंदेखि चालक र नौ जना यात्रु लिएर खोटाङ आउँदै गरेको को १ ज २०७६ नम्बरको सुमो मध्यपहाडी लोकमार्गअन्तर्गत सिन्धुलीको फिक्कल गाउँपालिका-६ नागथानमा अनियन्त्रित भई सुनकोशीमा खस्दा तीन जनाको मृत्यु भएको हो।...",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/sumo-accident-the-identities-of-the-nine-dead-injured-and-missing-have-been-revealed-26-18.html",
-   "source": "Nagarik News",
-   "ts": 1792338423,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1792338343_Sumo.jpg",
-   "lang": "ne",
-   "hl": "सुमो दुर्घटना : मृ`तक, घाइते र बेपत्ता नौ जनाकै पहिचान खुल्यो",
-   "en": "सुमो दुर्घटना : मृ`तक, घाइते र बेपत्ता नौ जनाकै पहिचान खुल्यो",
-   "ne": "सुमो दुर्घटना : मृ`तक, घाइते र बेपत्ता नौ जनाकै पहिचान खुल्यो",
-   "imp": 4,
-   "tags": [
-    "Sumo",
-    "Accident",
-    "सवारी",
-    "दुर्घटना"
-   ],
-   "cat": "disaster",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -4849,10 +4823,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "world"
+  },
+  {
+   "ts": 1792363853.1549218,
+   "en": "सिन्धुलीमा सुमो दुर्घटना : खोटाङबाट काठमाडौंतर्फ जाँदै गरेका ३ जनाको मृत्यु, ६ घाइते तथा बेपत्ता",
+   "ne": "सिन्धुलीमा सुमो दुर्घटना : खोटाङबाट काठमाडौंतर्फ जाँदै गरेका ३ जनाको मृत्यु, ६ घाइते तथा बेपत्ता",
+   "link": "https://nagariknews.nagariknetwork.com/social-affairs/sumo-accident-the-identities-of-the-nine-dead-injured-and-missing-have-been-revealed-26-18.html",
+   "source": "Nagarik News",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "disaster"
   }
  ],
- "updated": 1792363257,
- "pending_since": null,
+ "updated": 1792363865,
+ "pending_since": 1792363848.4486406,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
