@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://nagariknews.nagariknetwork.com/Dharma-Saskriti/sixth-day-of-navratri-special-worship-of-goddess-katyayani-being-performed-96-12.html": 1792110671.0243516,
-  "http://lokaantar.com/story/331405/2026/10/16/dashain-": 1792110671.0243516,
   "https://news.google.com/rss/articles/CBMiYkFVX3lxTE41WUxFRFRPTWxvdGQ4WU1RcFlaME51ZC03aWZldl81N2YyQ19lYUxnLU1RM3MtbmdlbG1YUlN3X1VTZzRxbDdUd0U2WjBQM2dTNWZfZUpGdkxTMkFWdlZ0Nk93?oc=5": 1792111255.8585927,
   "https://risingnepaldaily.com/news/87848": 1792111255.8585927,
   "https://gorkhapatraonline.com/news/226858": 1792111255.8585927,
@@ -1694,32 +1692,12 @@
   "http://lokaantar.com/story/331525/2026/10/17/round-up-": 1792282848.4619853,
   "https://nagariknews.nagariknetwork.com/Dharma-Saskriti/eighth-day-of-navratri-worshipping-goddess-mahagauri-69-61.html": 1792282848.4619853,
   "http://english.ratopati.com/story/84072/citys-historic-start-seventh-consecutive-win-beating-ipswich-town": 1792283465.9926887,
-  "http://lokaantar.com/story/331526/2026/10/18/current-": 1792283465.9926887
+  "http://lokaantar.com/story/331526/2026/10/18/current-": 1792283465.9926887,
+  "http://english.ratopati.com/story/84074/psgs-sixth-consecutive-win-climbs-to-the-top-spot": 1792284044.040521,
+  "https://www.setopati.com/social/401047": 1792284044.040521,
+  "http://english.ratopati.com/story/84073/chelsea-climb-to-fourth-place-first-clean-sheet-in-9-months": 1792284044.040521
  },
  "queue": [
-  {
-   "title": "परस्त्रीसँगको सम्बन्धको आशंकाबिच एकको मृ`त्यु, पाँच जना पक्राउ",
-   "summary": "सूचना अधिकारी प्रहरी निरीक्षक निराजन बस्नेतले जानकारी दिएअनुसार अविवाहित राईलाई गाउँकै परस्त्रीसँग सम्बन्ध राखेको भेटेर कुटपिट गर्दा ज्यान गएको अनुमान गरिएको छ।...",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/one-dead-five-arrested-on-suspicion-of-having-an-affair-with-a-foreign-woman-22-52.html",
-   "source": "Nagarik News",
-   "ts": 1792254800,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1767337292_Nagariknews.jpg",
-   "lang": "ne",
-   "hl": "परस्त्रीसँगको सम्बन्धको आशंकाबिच एकको मृ`त्यु, पाँच जना पक्राउ",
-   "en": "परस्त्रीसँगको सम्बन्धको आशंकाबिच एकको मृ`त्यु, पाँच जना पक्राउ",
-   "ne": "परस्त्रीसँगको सम्बन्धको आशंकाबिच एकको मृ`त्यु, पाँच जना पक्राउ",
-   "imp": 3,
-   "tags": [
-    "Crime",
-    "Murder",
-    "प्रहरी"
-   ],
-   "cat": "crime",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
   {
    "title": "Liverpool Secures 2-1 Comeback Victory Over Brentford in Premier League",
    "summary": "Kathmandu. In a match of the English Premier League held on Saturday, Liverpool registered a 2-1 comeback victory over Brentford.Brentford,...",
@@ -2248,6 +2226,72 @@
    ],
    "cat": "accident",
    "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "PSG Defeats Strasbourg in Comeback Victory, Extends Winning Streak",
+   "summary": "Paris. Paris Saint-Germain (PSG) has extended its winning streak to six consecutive matches in all competitions by defeating Strasbourg in...",
+   "link": "http://english.ratopati.com/story/84074/psgs-sixth-consecutive-win-climbs-to-the-top-spot",
+   "source": "Ratopati EN",
+   "ts": 1792283794,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/psg_rPH89HHVHx.webp",
+   "lang": "en",
+   "hl": "PSG Defeats Strasbourg in Comeback Victory, Extends Winning Streak",
+   "en": "PSG Defeats Strasbourg in Comeback Victory, Extends Winning Streak",
+   "ne": "PSG Defeats Strasbourg in Comeback Victory, Extends Winning Streak",
+   "imp": 2,
+   "tags": [
+    "PSG",
+    "Strasbourg"
+   ],
+   "cat": "sports",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "सिन्धुलीमा गाडी दुर्घटना हुँदा तीन जनाको मृत्यु, चार जना घाइते",
+   "summary": "काठमाडौंबाट गएको गाडी सिन्धुलीमा दुर्घटना हुँदा तीन जनाको मृत्यु भएको छ।",
+   "link": "https://www.setopati.com/social/401047",
+   "source": "Setopati",
+   "ts": 1792283652,
+   "weight": 3,
+   "img": null,
+   "lang": "ne",
+   "hl": "सिन्धुलीमा गाडी दुर्घटना हुँदा तीन जनाको मृत्यु, चार जना घाइते",
+   "en": "सिन्धुलीमा गाडी दुर्घटना हुँदा तीन जनाको मृत्यु, चार जना घाइते",
+   "ne": "सिन्धुलीमा गाडी दुर्घटना हुँदा तीन जनाको मृत्यु, चार जना घाइते",
+   "imp": 3,
+   "tags": [
+    "Sindhuli",
+    "CarAccident"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Chelsea Wins Against Everton, Goalkeeper Martinez Suffers Head Injury",
+   "summary": "London. In a match where Xabi Alonso's team Chelsea secured a win against Everton, the team's goalkeeper Emiliano Martinez was...",
+   "link": "http://english.ratopati.com/story/84073/chelsea-climb-to-fourth-place-first-clean-sheet-in-9-months",
+   "source": "Ratopati EN",
+   "ts": 1792283541,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/chelsea_tTbITIH1Q3.webp",
+   "lang": "en",
+   "hl": "Chelsea Wins Against Everton, Goalkeeper Martinez Suffers Head Injury",
+   "en": "Chelsea Wins Against Everton, Goalkeeper Martinez Suffers Head Injury",
+   "ne": "Chelsea Wins Against Everton, Goalkeeper Martinez Suffers Head Injury",
+   "imp": 1,
+   "tags": [
+    "Chelsea",
+    "Everton"
+   ],
+   "cat": "sports",
+   "val": 3,
    "teaser": false,
    "hits": 1
   }
@@ -5455,7 +5499,7 @@
    "cat": "society"
   }
  ],
- "updated": 1792283488,
+ "updated": 1792284049,
  "pending_since": 1792283465.9926887,
  "fb_blocks": [
   1790350880.4125228,
