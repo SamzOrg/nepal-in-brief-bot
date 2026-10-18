@@ -1,9 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMinAFBVV95cUxNa2VNd2RpNUc2XzhqTmp2Zl9jczZmTUtBNFFoY3FscGRnN2FlSVVfOGJxRkduN2Y2d253MzQ4X2ZacW9DWEI3UnhjMHF4WE4tbTlib0RzbllWakI2dkVibzNYR1oya3YzLVpSbHROY0oxMFRjVEhld0U5Yk5YQWROYmtkRE56UVJvamRpZkRYMHdpMTZvT0ZTbXZQdnA?oc=5": 1792162252.433249,
-  "https://nagariknews.nagariknetwork.com/social-affairs/one-arrested-on-charges-of-killing-and-burying-an-elephant-56-73.html": 1792162252.433249,
-  "http://lokaantar.com/story/331460/2026/10/16/khadya-": 1792162252.433249,
-  "http://lokaantar.com/story/331459/2026/10/16/ambulance-": 1792162252.433249,
   "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWDFiby1vWU51Rm5fbjllQnVIV2pwRGxBYWZZaDdMbl9TNzZsWWI5aFZJX1pDWUVWdTJQRjhhb2FSeHhtM0tOMjVjLThncklCWUlmNnF4dlFVZkNRaWswMVdQdmNnc1REZHM2OXRjRlItMndORi1sVXEyMkRnS3hSNnBkbWhvZ3RMVXhxdlVmNDV0UQ?oc=5": 1792162892.1416366,
   "http://english.ratopati.com/story/83994/chinas-research-and-development-spending-continues-to-rise": 1792162892.1416366,
   "https://nagariknews.nagariknetwork.com/social-affairs/57-families-from-three-districts-received-red-certificates-51-38.html": 1792162892.1416366,
@@ -1290,7 +1286,8 @@
   "http://english.ratopati.com/story/84102/the-new-ones-are-also-following-the-same-wrong-path-after-coming-to-power": 1792335049.1287823,
   "https://nagariknews.nagariknetwork.com/international/no-kings-protests-against-trump-across-america-as-midterms-approach-81-99.html": 1792335049.1287823,
   "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdklUZUZnOWZyc1FzOVBoUTUwd0F3V2JVNW0tbG9lZ1N1RkF2TG1yNi1LOGNQZUs1cHdNbGFaWV8zdy1uc3kwMGRpZHRoaXUtV2NBUHlPek5QX1MxVTBtSm1qcm9uZGQ4X1c0T19GTy1BenIxSTY4UVp2cnp4N2NQQ21Ydlkzc0RpS2NKN0ZuTUwxS0RUZjU1MXFJM1NteFZGeWZBX3lmN1FMcU5GX3VZZ0FjaHZ4YkxCT0lSaURMY2RjVllj?oc=5": 1792335049.1287823,
-  "http://english.ratopati.com/story/84121/saudi-arabian-helicopter-crashes-near-yemen-border-two-pilots-killed": 1792335049.1287823
+  "http://english.ratopati.com/story/84121/saudi-arabian-helicopter-crashes-near-yemen-border-two-pilots-killed": 1792335049.1287823,
+  "https://news.google.com/rss/articles/CBMiygFBVV95cUxNenNMQXdFZ182QTBUaEZ1WERNQUI0ZVBGazNLbVNYbGhzZnBhM2tzZVhFRGRQWU1ubjA1NXlyVGVVX0Q4dDhuZVdVR1pOMGpsZG91M1cwNkdYRjRLWHNLWkNNTG9sTV9xb1RsaVRicGZYZTh6RS1ybDBnakpJMkJzU2FCZEZlREwybVZTU0pwRkVRd0VmU0xRSXI2VXZDcUZ1VDVjM0U1bmtZT3RDTHpKMHVocjljUlJUNnBwNFl0WV9DbmZOMmhWaUVn?oc=5": 1792335686.0641663
  },
  "queue": [
   {
@@ -1385,27 +1382,6 @@
    "hits": 1
   },
   {
-   "title": "Tag",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9HSmJIRFJVQmxXd0JOdmRMZjZQTVVLdHNUVUdYbXBwQWs2LVMyN3dJWW1ib3lJdVFYNU9KRlpJLXpINVBCU0NQQTVuUEV1S2wyRXpXbFpCR0s2TnVDU1NYVVpFVVNGSXdqbzNobGdCM2QxNnM?oc=5",
-   "source": "myRepublica",
-   "ts": 1792306831,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Tag",
-   "en": "Tag",
-   "ne": "Tag",
-   "imp": 1,
-   "tags": [
-    "Tag"
-   ],
-   "cat": "other",
-   "val": 1,
-   "teaser": true,
-   "hits": 5
-  },
-  {
    "title": "दसैँको रौनकसँगै हराउँदै रातो माटो र कमेरोको संस्कृति",
    "summary": "हिजोआज गाउँका भित्ता रातो माटो र कमेरोले रँगिन छाडेका छन्। कताकति कमेरो वा रातोमाटोले घर पोतेको भेटिन्छ।...",
    "link": "https://nagariknews.nagariknetwork.com/social-affairs/red-soil-and-kamero-culture-disappearing-with-the-excitement-of-dashain-br-93-72.html",
@@ -1447,29 +1423,6 @@
     "Diet"
    ],
    "cat": "health",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "मौलाकालिका मन्दिरमा ५० प्रतिशतले घटे भक्तजन",
-   "summary": "मौलाकालिका मन्दिरमा दसैँका बेला दर्शन गर्न आउने भक्तजनको संख्यामा ५० प्रतिशतले कमी आएको छ।",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/devotees-at-maulakalika-temple-decrease-by-50-percent-br-61-50.html",
-   "source": "Nagarik News",
-   "ts": 1792306353,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1792306331_maulakalika.jpg",
-   "lang": "ne",
-   "hl": "मौलाकालिका मन्दिरमा ५० प्रतिशतले घटे भक्तजन",
-   "en": "मौलाकालिका मन्दिरमा ५० प्रतिशतले घटे भक्तजन",
-   "ne": "मौलाकालिका मन्दिरमा ५० प्रतिशतले घटे भक्तजन",
-   "imp": 2,
-   "tags": [
-    "MaulakalikaTemple",
-    "Dashain",
-    "मन्दिर"
-   ],
-   "cat": "society",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -3130,29 +3083,6 @@
    "hits": 1
   },
   {
-   "title": "दशैँमा घर फर्किनेको लर्को, उपत्यकाबाट पाँच लाख यात्री बाहिरिए",
-   "summary": "बडादशैँ मनाउन काठमाडौं उपत्यका छाड्ने यात्रुको संख्या पाँच लाख नजिक पुगेको छ । घटस्थापनादेखि असोज ३१ गतेसम्म सार्वजनिक यातायातमार्फत् चार लाख ९६ हजार ३२३ यात्रुले उपत्यका छाडेका छन् ।काठमाडौं उपत्यका ट्राफिक प्रहरी...",
-   "link": "http://lokaantar.com/story/331556/2026/10/18/dashain-",
-   "source": "Lokaantar",
-   "ts": 1792315248.7373729,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "दशैँमा घर फर्किनेको लर्को, उपत्यकाबाट पाँच लाख यात्री बाहिरिए",
-   "en": "दशैँमा घर फर्किनेको लर्को, उपत्यकाबाट पाँच लाख यात्री बाहिरिए",
-   "ne": "दशैँमा घर फर्किनेको लर्को, उपत्यकाबाट पाँच लाख यात्री बाहिरिए",
-   "imp": 3,
-   "tags": [
-    "Dashain",
-    "Kathmandu",
-    "Travel"
-   ],
-   "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 3
-  },
-  {
    "title": "AI Tool Identifies Genetic Stroke Risk",
    "summary": "Kathmandu. Australian researchers have developed an artificial intelligence (AI) tool that can identify the genetic risk of stroke through DNA...",
    "link": "http://english.ratopati.com/story/84118/australian-researcher-develops-ai-tool-to-identify-stroke-risk",
@@ -3520,30 +3450,6 @@
    "hits": 1
   },
   {
-   "title": "HM Amit Shah Meets Nepal, Bhutan Counterparts, Reaffirms Commitment to Deepen Ties",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOT2JLa3lqTkJ5VUFfUnM1VktmLUJLaU1ueFRoYWNPZGZIM0p6Tm5sdWYzRUUxcVRZa1BnQndiWnB3c1VxdjZkLXkyRkhPNGdWQ3VfaE5BbHRZQXBickc5cHZKYmZrLTF5dFh2Yjh4U0JPOHloTEN6eUFpX2EyODlIR0dubGM5U0NwNUdVOVZhVDRnN3JzOUJCUE1BTDJGOUtmX0FocHBaQkJkS0pCdmtfVA?oc=5",
-   "source": "DD India",
-   "ts": 1792330550,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "HM Amit Shah Meets Nepal, Bhutan Counterparts, Reaffirms Commitment to Deepen Ties",
-   "en": "HM Amit Shah Meets Nepal, Bhutan Counterparts, Reaffirms Commitment to Deepen Ties",
-   "ne": "HM Amit Shah Meets Nepal, Bhutan Counterparts, Reaffirms Commitment to Deepen Ties",
-   "imp": 4,
-   "tags": [
-    "AmitShah",
-    "Nepal",
-    "Bhutan",
-    "India"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "सीप पुस्तान्तरण नहुँदा माटाका भाँडाको प्रयोग घट्दै",
    "summary": "नयाँ पुस्तामा परम्परागत सीपप्रति चासो घट्दै गएपछि भोजपुरका गाउँघरमा माटाका भाँडा बनाउने चलन हराउँदै जान थालेको छ ।विगतमा घरायसी प्रयोजनका लागि प्रयोग हुने गाग्री, हाँडी, घैँटो, धुपौरोलगायत माटाका सामग्री अहिले कमै...",
    "link": "http://lokaantar.com/story/331560/2026/10/18/mata-",
@@ -3613,7 +3519,7 @@
    "cat": "world",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Two Saudi Pilots Die in Helicopter Crash Near Yemen Border",
@@ -6786,10 +6692,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "world"
+  },
+  {
+   "ts": 1792335708.0001473,
+   "en": "दशैँमा काठमाडौं उपत्यका छाड्ने यात्रुको संख्या साढे चार लाखभन्दा बढी",
+   "ne": "दशैँमा काठमाडौं उपत्यका छाड्ने यात्रुको संख्या साढे चार लाखभन्दा बढी",
+   "link": "http://lokaantar.com/story/331556/2026/10/18/dashain-",
+   "source": "Lokaantar",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "society"
   }
  ],
- "updated": 1792335054,
- "pending_since": null,
+ "updated": 1792335724,
+ "pending_since": 1792335686.0641663,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
