@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTDRRa1VUT3hycGg0Qmx0T091T1FBS3NBalAtWFFnZjFXUnpTc2xubEhDbWhHbjBVWmV5MlNHek5GR0FodW5HVFpzVjFoSmpHT2M3YmxLVzJGNV82TF9yMFNYLXRldnBtUTBsSDdNOVZ4Qnp1bVhONm9vb0M3R3h1dUczbHc?oc=5": 1792178452.0557542,
   "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMl9RTHRLZTdJT2YwZklaMzc4aVQwaEp2U09kUWFMUFNHeVVialVMcFRrSW9WLWg0SVpVdkxFaDVYNl9RbFU3Y1BLT0tuVm5aaERxREZYWURYM0NoUm1pZE5DTHpqT01zUTYtSjlFZDZCcVM0SEt6ZklNb1RnSVlheEZKSkVYU05qVzVqbURuNlVWSHFhNDlRRWZ5TmtCb3ozbExrYWVXQUN4eU11dmQ1b25xRjR0VE0?oc=5": 1792179071.1906683,
   "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWTAxMGZZdURxdWc4S3l0c1hOR1J2UkZKSW5kQV9ETDRROGFpSnlxNmN1T0tlblJUOUdWcDRXQXNwZUhJemhzRmZuTmlpbWU3ZTFRTkhsckJoUG1UMEFkdWE2WDhRRVlyWnZtbXBEb3hIRnczOUUyLU5fcW5fZVRYNXdRTjNUYTZXVnMyeDdHTHBlRnc0?oc=5": 1792179652.3156784,
   "https://kathmandupost.com/world/2026/10/16/flash-protests-keep-the-flag-flying-dipke-bora-s-detentions-police-action-fail-to-deter-delhi-s-protesters": 1792179652.3156784,
@@ -1223,30 +1222,6 @@
  },
  "queue": [
   {
-   "title": "Thai Ganja Smuggled via Myanmar Nationals to India",
-   "summary": "Kathmandu. It may seem strange to many that marijuana produced in Thailand is brought to Kathmandu via Myanmar carriers using...",
-   "link": "http://english.ratopati.com/story/84101/myanmar-porters-to-transport-thai-marijuana-to-nepal",
-   "source": "Ratopati EN",
-   "ts": 1792322100,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/thai-ganza_qm3hYepMVs.webp",
-   "lang": "en",
-   "hl": "Thai Ganja Smuggled via Myanmar Nationals to India",
-   "en": "Thai Ganja Smuggled via Myanmar Nationals to India",
-   "ne": "Thai Ganja Smuggled via Myanmar Nationals to India",
-   "imp": 1,
-   "tags": [
-    "Thailand",
-    "Myanmar",
-    "India",
-    "Ganja"
-   ],
-   "cat": "crime",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "पखेटा थिए, धारिला दाँत थिए, तर उड्न सक्दैनथ्यो- १५ करोड वर्ष पुरानो चराको रहस्य",
    "summary": "जमिनमा डायनासोरहरूको आधिपत्य थियो। तिनकै एउटा शाखाबाट चराहरूको उदय भइसकेको थियो। तर चराको शरीरले आज हामीले देख्ने परिचित स्वरूप लिइसकेको थिएन। त्यही संसारमा एउटा अनौठो जीव बस्थ्यो।",
    "link": "https://www.setopati.com/social/401071",
@@ -1338,28 +1313,6 @@
    "hits": 1
   },
   {
-   "title": "मर्भुङकोट पुर्खाको विरासत र आस्थाको धरोहर : महानिरीक्षक कार्की",
-   "summary": "प्रहरी महानिरीक्षक दानबहादुर कार्कीले मर्भुङकोट मन्दिर पुर्खाको पौरख, गौरव र नयाँ पुस्ताका लागि प्रेरणाको जीवन्त पाठशाला भएको बताएका छन्।...",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/mervungkot-is-a-legacy-of-ancestors-and-a-place-of-faith-inspector-general-karki-22-23.html",
-   "source": "Nagarik News",
-   "ts": 1792322185,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1792322147_IGP.jpg",
-   "lang": "ne",
-   "hl": "मर्भुङकोट पुर्खाको विरासत र आस्थाको धरोहर : महानिरीक्षक कार्की",
-   "en": "मर्भुङकोट पुर्खाको विरासत र आस्थाको धरोहर : महानिरीक्षक कार्की",
-   "ne": "मर्भुङकोट पुर्खाको विरासत र आस्थाको धरोहर : महानिरीक्षक कार्की",
-   "imp": 2,
-   "tags": [
-    "Heritage",
-    "Marbhungkot"
-   ],
-   "cat": "culture",
-   "val": 2,
-   "teaser": true,
-   "hits": 1
-  },
-  {
    "title": "Japan Prepares Historic Mission to Collect Samples from Mars Moon Phobos",
    "summary": "Kathmandu. Japan has made preparations to conduct a historic mission to collect samples from Phobos, one of the moons of...",
    "link": "http://english.ratopati.com/story/84116/japans-mission-to-bring-back-samples-from-mars-moons",
@@ -1381,29 +1334,6 @@
    "val": 3,
    "teaser": false,
    "hits": 3
-  },
-  {
-   "title": "विजया दशमीको साइत : छल्न सकिने दोष किन नछलिएको&nbsp;?",
-   "summary": "जब दिनभर टीका लगाउन सकिन्छ भने विशेष रूपमा 'उत्तम' घोषित समय उपलब्ध विकल्पमध्ये शास्त्रीय दृष्टिले तुलनात्मक रूपमा सर्वोत्तम हुनुपर्दैन र?...",
-   "link": "https://nagariknews.nagariknetwork.com/Dharma-Saskriti/vijaya-dashami-s-day-why-is-a-mistake-that-can-be-avoided-not-being-avoided-99-66.html",
-   "source": "Nagarik News",
-   "ts": 1792322181,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1792322161_Dashain%20(1).jpg",
-   "lang": "ne",
-   "hl": "विजया दशमीको साइत : छल्न सकिने दोष किन नछलिएको&nbsp;?",
-   "en": "विजया दशमीको साइत : छल्न सकिने दोष किन नछलिएको&nbsp;?",
-   "ne": "विजया दशमीको साइत : छल्न सकिने दोष किन नछलिएको&nbsp;?",
-   "imp": 2,
-   "tags": [
-    "Dashain",
-    "Astrology",
-    "विजयादशमी"
-   ],
-   "cat": "culture",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
   },
   {
    "title": "France Protests: Violence Erupts Over Fuel Prices and Cost of Living",
@@ -5477,7 +5407,7 @@
    "cat": "crime"
   }
  ],
- "updated": 1792350655,
+ "updated": 1792351257,
  "pending_since": 1792350651.963412,
  "fb_blocks": [
   1790350880.4125228,
