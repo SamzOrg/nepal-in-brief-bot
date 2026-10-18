@@ -1,14 +1,5 @@
 {
  "seen": {
-  "https://english.onlinekhabar.com/ntc-offers-fiber-internet-package-for-rs-4999-a-year.html": 1792136458.3188825,
-  "https://english.onlinekhabar.com/locals-join-hands-to-repair-langtang-trekking-route.html": 1792136458.3188825,
-  "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdi1FTlY0RjVZRi1yOFFxRXNnUnJyQTVyUk1ybkwxSWFncXdBN3NuZDNxVW9YU0FHSFMza0VxRE5wYjlDTjhtM1hLRE5CRVptUzR3WllIdkNXXzFLUy1CRHM1NHh2czVBUWJNc1d1ZmdNU3ZmRkN0YkRBODR1Q09qb1NEMlptTVBsQ2xoQi1kTTctYWpkQk92VGhXTExxSWR1M0daNTRLb2ZSNzZlRDVZ?oc=5": 1792136458.3188825,
-  "https://theannapurnaexpress.com/story/67976": 1792136458.3188825,
-  "https://www.setopati.com/politics/400984": 1792137052.3530972,
-  "https://news.google.com/rss/articles/CBMiekFVX3lxTFBIdVVOUTFVT1VSV1hQZk1JNEd4R0hWZ1BRRDl6SExOclRTcWpRdl9kX2RPT2pqUWZCSU1oSVRNTHRKWEY1YUt2SFFkeGhIQTRWeXdWV3phOHNldGZIODJDUGJfcHpCeWJfenBOdHQxa2Qydk9JX29Ca2Z3?oc=5": 1792137052.3530972,
-  "https://theannapurnaexpress.com/story/67978": 1792137052.3530972,
-  "http://english.ratopati.com/story/83958/at-least-52-school-and-college-shootings-in-the-us-this-year-32-dead": 1792137052.3530972,
-  "https://english.onlinekhabar.com/wild-male-elephants-killed-nepal.html": 1792137052.3530972,
   "http://english.ratopati.com/story/83961/newly-elected-congress-president-to-be-sworn-in-on-saturday": 1792137692.3929045,
   "http://english.ratopati.com/story/83960/securities-board-opens-doors-for-new-investments-in-mutual-funds": 1792137692.3929045,
   "https://theannapurnaexpress.com/story/67977": 1792137692.3929045,
@@ -1544,29 +1535,6 @@
    "val": 2,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "शक्तिपीठमा भक्तजनको घुइँचो",
-   "summary": "काठमाडौँ, कात्तिक १ गते । \"नवरात्रमा मनमा पाप नराखी शुद्ध मनले देवीको पूजा गर्दा जे चितायो त्यही पुग्छ । दसैँमा जमरा राखेको दिनदेखि एकादशीको दिनसम्म अन्न, नुन नखाई व्रत बस्ने गरेको...",
-   "link": "https://gorkhapatraonline.com/news/227019",
-   "source": "Gorkhapatra",
-   "ts": 1792280464,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/388589/conversions/Untitled-1-original.jpg",
-   "lang": "ne",
-   "hl": "शक्तिपीठमा भक्तजनको घुइँचो",
-   "en": "शक्तिपीठमा भक्तजनको घुइँचो",
-   "ne": "शक्तिपीठमा भक्तजनको घुइँचो",
-   "imp": 2,
-   "tags": [
-    "Dashain",
-    "Navaratri",
-    "शक्तिपीठ"
-   ],
-   "cat": "culture",
-   "val": 1,
-   "teaser": false,
-   "hits": 3
   },
   {
    "title": "Maha Astami festival today",
@@ -4620,17 +4588,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1791704474.2439349,
-   "en": "नेपाली सेनाद्वारा नुवाकोट र रसुवाको सिमानामा निर्मित बेलीब्रिज हस्तान्तरण",
-   "ne": "नेपाली सेनाद्वारा नुवाकोट र रसुवाको सिमानामा निर्मित बेलीब्रिज हस्तान्तरण",
-   "link": "https://www.setopati.com/social/400569",
-   "source": "Setopati",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "society"
-  },
   {
    "ts": 1791706259.1102557,
    "en": "नेपालमै उत्पादित 'कार-टी' सेलबाट पहिलोपटक क्यान्सरको सफल उपचार",
@@ -7800,8 +7757,8 @@
    "cat": "sports"
   }
  ],
- "updated": 1792309257,
- "pending_since": null,
+ "updated": 1792309858,
+ "pending_since": 1792309854.6395366,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
