@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://risingnepaldaily.com/news/87852": 1792113050.0708013,
-  "http://lokaantar.com/story/331408/2026/10/16/yemeni-presidential-palace": 1792113050.0708013,
   "https://risingnepaldaily.com/news/87854": 1792113650.9049358,
   "https://gorkhapatraonline.com/news/226866": 1792113650.9049358,
   "https://baahrakhari.com/detail/505086": 1792113650.9049358,
@@ -1693,33 +1691,13 @@
   "https://risingnepaldaily.com/news/87917": 1792285279.6720102,
   "http://english.ratopati.com/story/84075/bayern-return-to-form-with-diaz-hat-trick-and-kanes-historic-goal": 1792285279.6720102,
   "http://english.ratopati.com/story/84071/food-poisoning-at-chinese-kindergarten-operator-sentenced-to-life-in-prison": 1792285279.6720102,
-  "https://www.setopati.com/social/401048": 1792285845.598545
+  "https://www.setopati.com/social/401048": 1792285845.598545,
+  "https://www.setopati.com/social/401049": 1792286444.2908585,
+  "https://kathmandupost.com/politics/2026/10/18/gagan-thapa-takes-oath-as-congress-president-vows-to-regain-public-trust": 1792286444.2908585,
+  "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9uQXVGMUNjWklBZU0tODZGWjRhcXJDMktpTFR2RzAxbDUyVThWTmxjY0tBOEdBVWdJREswNW1mbGY0UHhIZ0NQQ0VQcnAxSkpOcXBRRlpXanRYdw?oc=5": 1792286444.2908585,
+  "https://news.google.com/rss/articles/CBMimgFBVV95cUxORWI4YTEwakNKbHNoOWJNbDBtTUJGUm5HMUo2dTFicEJPUFlDNHRtaDg2RGpyUGk4cFV1eFpHVVc5X0tVajlLeE9aN3NuQTJBR1c3N0o1LWNjNkdEU2VsOWE5V19CemZvbmpiMHYxUUpOVTNxTjZ0S3JWSkt3WWRucXR1R0diVFZLNDdhUWZaR2NOV0x0bkdhcmpn?oc=5": 1792286444.2908585
  },
  "queue": [
-  {
-   "title": "Liverpool Secures 2-1 Comeback Victory Over Brentford in Premier League",
-   "summary": "Kathmandu. In a match of the English Premier League held on Saturday, Liverpool registered a 2-1 comeback victory over Brentford.Brentford,...",
-   "link": "http://english.ratopati.com/story/84063/liverpools-comeback-win-over-nine-man-brentford",
-   "source": "Ratopati EN",
-   "ts": 1792257083,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/liverpool_Mmu5t7OIYP.webp",
-   "lang": "en",
-   "hl": "Liverpool Secures 2-1 Comeback Victory Over Brentford in Premier League",
-   "en": "Liverpool Secures 2-1 Comeback Victory Over Brentford in Premier League",
-   "ne": "Liverpool Secures 2-1 Comeback Victory Over Brentford in Premier League",
-   "imp": 1,
-   "tags": [
-    "Liverpool",
-    "PremierLeague",
-    "Brentford",
-    "Football"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
   {
    "title": "Aston Villa Defeats Newcastle United 1-0 in Premier League",
    "summary": "Kathmandu. In a game held on Saturday under the English Premier League, Aston Villa registered a narrow 1-0 victory over...",
@@ -1858,30 +1836,6 @@
    "val": 2,
    "teaser": false,
    "hits": 2
-  },
-  {
-   "title": "Sudhakar Dalela Appointed India's Next Ambassador to Nepal",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQUM4OWpwSERIdWVtWjQtb3h0TjMtcG5UTW1qd2ZkdUZ1ZjYyeHZnLXV2c2h6SmVVaURJdC1zRFZUcVZYZFY1Q3RuRktELUt1UzQ1Wk9LMldWSnc0WDU4aWJTOWZadENoQlJ1eUJteWw1clpTVWxOMUdDaXVvall5MUFyeDhCZHc?oc=5",
-   "source": "Legend Officers",
-   "ts": 1792257298,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Sudhakar Dalela Appointed India's Next Ambassador to Nepal",
-   "en": "Sudhakar Dalela Appointed India's Next Ambassador to Nepal",
-   "ne": "Sudhakar Dalela Appointed India's Next Ambassador to Nepal",
-   "imp": 3,
-   "tags": [
-    "India",
-    "Nepal",
-    "Ambassador",
-    "SudhakarDalela"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
   },
   {
    "title": "Bizman death: Accused model changing hideouts in Nepal, say cops",
@@ -2426,6 +2380,29 @@
    ],
    "cat": "world",
    "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Nepali man learning from Japan to preserve flood-hit sites for posterity",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9uQXVGMUNjWklBZU0tODZGWjRhcXJDMktpTFR2RzAxbDUyVThWTmxjY0tBOEdBVWdJREswNW1mbGY0UHhIZ0NQQ0VQcnAxSkpOcXBRRlpXanRYdw?oc=5",
+   "source": "Japan Wire by Kyodo News",
+   "ts": 1792284420,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "Nepali man learning from Japan to preserve flood-hit sites for posterity",
+   "en": "Nepali man learning from Japan to preserve flood-hit sites for posterity",
+   "ne": "Nepali man learning from Japan to preserve flood-hit sites for posterity",
+   "imp": 2,
+   "tags": [
+    "Japan",
+    "Flood",
+    "ClimateChange"
+   ],
+   "cat": "disaster",
+   "val": 2,
    "teaser": false,
    "hits": 1
   }
@@ -5631,9 +5608,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "accident"
+  },
+  {
+   "ts": 1792286451.8354204,
+   "en": "Nepal floods are defining moment for global climate action: UN",
+   "ne": "Nepal floods are defining moment for global climate action: UN",
+   "link": "https://www.cp24.com/news/world/2026/10/17/nepal-floods-defining-moment-for-climate-action-un/",
+   "source": "CP24",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "disaster"
   }
  ],
- "updated": 1792285849,
+ "updated": 1792286466,
  "pending_since": 1792285845.598545,
  "fb_blocks": [
   1790350880.4125228,
