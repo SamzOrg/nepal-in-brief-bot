@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRjU0clg4ZVdtTWJ4SFBFME5qU2p1dm5KOGR1c3FjRF95ODJPcWM2WTc3WFhyLTJSMnVmM2VqbUF3dlR3dEtGS1VFSmljakhlUHYycUlGeTJFQ1A0VkxlcjRHSVhHT05yU1E3QnlKQUpMcmQzS1hmcEx6ZjZ2V1gtOVcwbExVNW5KbmVyNmhpb3RtSFZBaFpRNUppVVNfd1BaZUlMakw3WnFNOHpkR2VYQ20zdw?oc=5": 1792180254.564283,
   "https://news.google.com/rss/articles/CBMifkFVX3lxTE9BM3c0ZTVOQ2pFcUk3c21DdGJtc2JFOXRaRG9VNkVCd0VuQXktNjVyMWdVSFNUbVNjZmFHdHhhQ0ljV0tVcUJ5VG82dFdDSU5LbE11QXpRZ1RzSHNLYjNCbnFuSVhFU3JCNTBYM29qdVE1dmhTRUVCVFNTMDZRdw?oc=5": 1792181446.181738,
   "https://news.google.com/rss/articles/CBMiXEFVX3lxTE50U2t5R1hvd01ZUUNET2hVbVBDN2txODVEM0c5Nnh3N2FNVXc4LWFvMGhpWllaSEZvMk01YlpPVDdTb2ZoX3pBOS1CUkhTSk9lRFdDRHlpclNNMnZD?oc=5": 1792183249.7656403,
   "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMWhtb0prQnYzOW5fT0hXMDZjSU1UMGc1Tk5UYm55SUc3VlpQMlJSZFJNVUpUd3RWRWFjcjNxNzdFZkdyYmdnWnpMTWVBd1ZKS1FwX0dFOTkybG15OV9CaWhlTWkxRXdzeWF3M2xQX2MzYkh3bFJtREotWFE0YTUyYUxWOGFjRGc5U0xZd0NLdzR3TjZFYU9ZOTZWQQ?oc=5": 1792183249.7656403,
@@ -1242,28 +1241,6 @@
    "cat": "culture",
    "val": 2,
    "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "Mexico Deploys AI to Aid Search for Over 134,000 Missing Persons",
-   "summary": "Kathmandu. Artificial intelligence (AI) technology has been introduced in Mexico to assist in the search for over 134,000 missing persons....",
-   "link": "http://english.ratopati.com/story/84117/ai-in-the-search-for-missing-children",
-   "source": "Ratopati EN",
-   "ts": 1792324363,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/openai-ai-trained-for-long-running-tasks-can-drift-into-rogu_awd3.1920_zHjlgzUl2d.webp",
-   "lang": "en",
-   "hl": "Mexico Deploys AI to Aid Search for Over 134,000 Missing Persons",
-   "en": "Mexico Deploys AI to Aid Search for Over 134,000 Missing Persons",
-   "ne": "Mexico Deploys AI to Aid Search for Over 134,000 Missing Persons",
-   "imp": 1,
-   "tags": [
-    "Mexico",
-    "MissingPersons"
-   ],
-   "cat": "tech",
-   "val": 3,
-   "teaser": false,
    "hits": 1
   },
   {
@@ -5361,8 +5338,8 @@
    "cat": "crime"
   }
  ],
- "updated": 1792353054,
- "pending_since": null,
+ "updated": 1792353693,
+ "pending_since": 1792353689.5740037,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
