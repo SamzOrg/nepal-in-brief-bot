@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://gorkhapatraonline.com/news/226859": 1792111849.219935,
-  "https://nagariknews.nagariknetwork.com/social-affairs/temporary-housing-for-landslide-victims-through-shramdan-53-81.html": 1792111849.219935,
   "http://lokaantar.com/story/331407/2026/10/16/bhotekoshi-badhi-": 1792112488.321864,
   "https://www.setopati.com/social/400948": 1792112488.321864,
   "https://risingnepaldaily.com/news/87852": 1792113050.0708013,
@@ -1684,7 +1682,19 @@
   "https://www.setopati.com/social/401047": 1792284044.040521,
   "http://english.ratopati.com/story/84073/chelsea-climb-to-fourth-place-first-clean-sheet-in-9-months": 1792284044.040521,
   "https://nagariknews.nagariknetwork.com/social-affairs/woman-dies-of-electrocution-94-31.html": 1792284643.24917,
-  "http://english.ratopati.com/story/84076/a-young-man-died-in-a-midnight-fight-in-machhapokhari-a-young-man-involved-in-the-beating-was-arrested": 1792284643.24917
+  "http://english.ratopati.com/story/84076/a-young-man-died-in-a-midnight-fight-in-machhapokhari-a-young-man-involved-in-the-beating-was-arrested": 1792284643.24917,
+  "https://risingnepaldaily.com/news/87919": 1792285279.6720102,
+  "http://english.ratopati.com/story/84077/why-does-cold-water-taste-so-sweet-when-you-are-very-thirsty": 1792285279.6720102,
+  "https://gorkhapatraonline.com/news/227021": 1792285279.6720102,
+  "https://baahrakhari.com/detail/505240": 1792285279.6720102,
+  "http://lokaantar.com/story/331527/2026/10/18/france-": 1792285279.6720102,
+  "https://risingnepaldaily.com/news/87918": 1792285279.6720102,
+  "http://english.ratopati.com/story/84068/despite-increased-meat-production-in-koshi-consumers-are-forced-to-pay-higher-prices": 1792285279.6720102,
+  "https://gorkhapatraonline.com/news/227020": 1792285279.6720102,
+  "https://baahrakhari.com/detail/505239": 1792285279.6720102,
+  "https://risingnepaldaily.com/news/87917": 1792285279.6720102,
+  "http://english.ratopati.com/story/84075/bayern-return-to-form-with-diaz-hat-trick-and-kanes-historic-goal": 1792285279.6720102,
+  "http://english.ratopati.com/story/84071/food-poisoning-at-chinese-kindergarten-operator-sentenced-to-life-in-prison": 1792285279.6720102
  },
  "queue": [
   {
@@ -1968,27 +1978,27 @@
    "hits": 1
   },
   {
-   "title": "फ्रान्समा महँगीविरुद्ध जनआक्रोश, देशभर प्रदर्शन",
-   "summary": "जीवनयापनको बढ्दो लागत र महँगीविरुद्ध फ्रान्सभर शनिबार राष्ट्रव्यापी विरोध प्रदर्शन सुरु भएका छन्।...",
-   "link": "https://nagariknews.nagariknetwork.com/international/public-outrage-against-inflation-in-france-protests-across-the-country-10-71.html",
-   "source": "Nagarik News",
+   "title": "फ्रान्सभर प्रदर्शन उग्र : प्रहरी र प्रदर्शनकारीबीच झडप, १२ सयभन्दा बढी पक्राउ",
+   "summary": "",
+   "link": "https://baahrakhari.com/detail/505240",
+   "source": "Baahrakhari",
    "ts": 1792282618,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1792282603_france%20protest.jpg",
+   "weight": 2,
+   "img": null,
    "lang": "ne",
-   "hl": "फ्रान्समा महँगीविरुद्ध जनआक्रोश, देशभर प्रदर्शन",
-   "en": "फ्रान्समा महँगीविरुद्ध जनआक्रोश, देशभर प्रदर्शन",
-   "ne": "फ्रान्समा महँगीविरुद्ध जनआक्रोश, देशभर प्रदर्शन",
+   "hl": "फ्रान्सभर प्रदर्शन उग्र : प्रहरी र प्रदर्शनकारीबीच झडप, १२ सयभन्दा बढी पक्राउ",
+   "en": "फ्रान्सभर प्रदर्शन उग्र : प्रहरी र प्रदर्शनकारीबीच झडप, १२ सयभन्दा बढी पक्राउ",
+   "ne": "फ्रान्सभर प्रदर्शन उग्र : प्रहरी र प्रदर्शनकारीबीच झडप, १२ सयभन्दा बढी पक्राउ",
    "imp": 1,
    "tags": [
     "France",
-    "Protest",
-    "Inflation"
+    "Protests",
+    "Paris"
    ],
    "cat": "world",
-   "val": 2,
+   "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 3
   },
   {
    "title": "Weather Forecast: Partial Cloudiness in Himalayas and Hills, Clear in Terai",
@@ -2261,20 +2271,191 @@
    "val": 3,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "For whom can KMC's 'bike ambulance' be most useful?",
+   "summary": "By A Staff Reporter, Kathmandu, Oct. 18: Kathmandu Metropolitan City (KMC) has launched a 'bike ambulance' service to en...",
+   "link": "https://risingnepaldaily.com/news/87919",
+   "source": "Rising Nepal",
+   "ts": 1792285025,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "For whom can KMC's 'bike ambulance' be most useful?",
+   "en": "For whom can KMC's 'bike ambulance' be most useful?",
+   "ne": "For whom can KMC's 'bike ambulance' be most useful?",
+   "imp": 2,
+   "tags": [
+    "KMC",
+    "BikeAmbulance",
+    "Kathmandu"
+   ],
+   "cat": "society",
+   "val": 1,
+   "teaser": true,
+   "hits": 1
+  },
+  {
+   "title": "Why Cold Water Feels Refreshing When Thirsty",
+   "summary": "The joy of taking the first sip of cold water in an attempt to quench thirst is unparalleled.After returning from...",
+   "link": "http://english.ratopati.com/story/84077/why-does-cold-water-taste-so-sweet-when-you-are-very-thirsty",
+   "source": "Ratopati EN",
+   "ts": 1792284881,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/a-cold-glass-of-water-sits-on-a-wooden-table_KJM9QYdixm.webp",
+   "lang": "en",
+   "hl": "Why Cold Water Feels Refreshing When Thirsty",
+   "en": "Why Cold Water Feels Refreshing When Thirsty",
+   "ne": "Why Cold Water Feels Refreshing When Thirsty",
+   "imp": 1,
+   "tags": [
+    "Health",
+    "Tips"
+   ],
+   "cat": "health",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Rising costs make Dashain harder to celebrate happily",
+   "summary": "Kathmandu, Oct. 18: Soaring prices of essential commodities, clothing and other consumer goods have made it increasingly...",
+   "link": "https://risingnepaldaily.com/news/87918",
+   "source": "Rising Nepal",
+   "ts": 1792284899,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "Rising costs make Dashain harder to celebrate happily",
+   "en": "Rising costs make Dashain harder to celebrate happily",
+   "ne": "Rising costs make Dashain harder to celebrate happily",
+   "imp": 3,
+   "tags": [
+    "Dashain",
+    "Inflation",
+    "Economy"
+   ],
+   "cat": "economy",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Authorities Fail to Enforce Meat Price Caps Amidst Festival Demand",
+   "summary": "Biratnagar. Meat consumption has increased in the context of Dashain. Despite the local administration setting a maximum retail price for...",
+   "link": "http://english.ratopati.com/story/84068/despite-increased-meat-production-in-koshi-consumers-are-forced-to-pay-higher-prices",
+   "source": "Ratopati EN",
+   "ts": 1792284300,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/masu-1_vLP4V5iLfV.webp",
+   "lang": "en",
+   "hl": "Authorities Fail to Enforce Meat Price Caps Amidst Festival Demand",
+   "en": "Authorities Fail to Enforce Meat Price Caps Amidst Festival Demand",
+   "ne": "Authorities Fail to Enforce Meat Price Caps Amidst Festival Demand",
+   "imp": 3,
+   "tags": [
+    "Dashain",
+    "MeatPrices",
+    "Market"
+   ],
+   "cat": "economy",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "हर्षोल्लासको सन्देश दिने मालश्री धुन",
+   "summary": "काठमाडौँ,कात्तिक १ गते । शरद् ऋतुसँगै आउने धार्मिक एवं सांस्कृतिक पर्व परम्पराले वातावण र पर्यावरणलाई थप सङ्गीतमय बनाएको हुन्छ । रेडियो, टेलिभिजन तथा मन्दिरमा एकनास बज्ने मालश्री ध...",
+   "link": "https://gorkhapatraonline.com/news/227020",
+   "source": "Gorkhapatra",
+   "ts": 1792284102,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/388590/conversions/Untitled-1-Recovered-original.jpg",
+   "lang": "ne",
+   "hl": "हर्षोल्लासको सन्देश दिने मालश्री धुन",
+   "en": "हर्षोल्लासको सन्देश दिने मालश्री धुन",
+   "ne": "हर्षोल्लासको सन्देश दिने मालश्री धुन",
+   "imp": 2,
+   "tags": [
+    "MalshreeDhun",
+    "Dashain",
+    "मालश्रीधुन"
+   ],
+   "cat": "culture",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "कति पुग्यो डलरको भाउ ? यस्तो छ विदेशी मुद्राको विनिमयदर",
+   "summary": "युरोपियन युरो एकको खरिददर १७० रुपैयाँ ७० पैसा र बिक्रीदर १७१ रुपैयाँ ३८ पैसा, यूके पाउन्डस्टर्लिङ एकको खरिददर २०२ रुपैयाँ १९ पैसा र बिक्रीदर २०२ रुपैयाँ ९९ पैसा, स्वीस फ्र्यांक एकको खरिददर १८४ रुपैयाँ १४ पैसा र बिक्रीदर...",
+   "link": "https://baahrakhari.com/detail/505239",
+   "source": "Baahrakhari",
+   "ts": 1792282954,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "कति पुग्यो डलरको भाउ ? यस्तो छ विदेशी मुद्राको विनिमयदर",
+   "en": "कति पुग्यो डलरको भाउ ? यस्तो छ विदेशी मुद्राको विनिमयदर",
+   "ne": "कति पुग्यो डलरको भाउ ? यस्तो छ विदेशी मुद्राको विनिमयदर",
+   "imp": 2,
+   "tags": [
+    "ExchangeRate",
+    "USDollar",
+    "NRB"
+   ],
+   "cat": "economy",
+   "val": 1,
+   "teaser": true,
+   "hits": 1
+  },
+  {
+   "title": "Bayern Munich Dominates RB Leipzig 6-1, Secures Top Bundesliga Spot",
+   "summary": "Munich. Harry Kane scored in his 100th Bundesliga appearance and Luis Diaz completed a hat-trick as Bayern Munich defeated RB...",
+   "link": "http://english.ratopati.com/story/84075/bayern-return-to-form-with-diaz-hat-trick-and-kanes-historic-goal",
+   "source": "Ratopati EN",
+   "ts": 1792284066,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/kane_JiJi23YNuC.webp",
+   "lang": "en",
+   "hl": "Bayern Munich Dominates RB Leipzig 6-1, Secures Top Bundesliga Spot",
+   "en": "Bayern Munich Dominates RB Leipzig 6-1, Secures Top Bundesliga Spot",
+   "ne": "Bayern Munich Dominates RB Leipzig 6-1, Secures Top Bundesliga Spot",
+   "imp": 1,
+   "tags": [
+    "BayernMunich",
+    "Bundesliga",
+    "RBLeipzig"
+   ],
+   "cat": "sports",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Kindergarten Operators Sentenced for Poisoning Children with Lead",
+   "summary": "Tianshui. Six employees, including the operator, have been sentenced to jail for poisoning more than 200 children with lead-contaminated inedible...",
+   "link": "http://english.ratopati.com/story/84071/food-poisoning-at-chinese-kindergarten-operator-sentenced-to-life-in-prison",
+   "source": "Ratopati EN",
+   "ts": 1792282875,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/9df7c880-ca1d-11f1-a64c-550be9e3c66bpng_Td930c9XL8.webp",
+   "lang": "en",
+   "hl": "Kindergarten Operators Sentenced for Poisoning Children with Lead",
+   "en": "Kindergarten Operators Sentenced for Poisoning Children with Lead",
+   "ne": "Kindergarten Operators Sentenced for Poisoning Children with Lead",
+   "imp": 1,
+   "tags": [
+    "China",
+    "Crime"
+   ],
+   "cat": "world",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1791679856.3066397,
-   "en": "Singapore Treasure Carbon Brings Climate Finance to Nepal via Cookstove Project",
-   "ne": "Singapore Treasure Carbon Brings Climate Finance to Nepal via Cookstove Project",
-   "link": "https://markets.businessinsider.com/news/stocks/climate-solutions-company-treasure-carbon-brings-climate-finance-to-nepal-for-long-term-climate-action-1036614439",
-   "source": "markets.businessinsider.com",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "economy"
-  },
   {
    "ts": 1791681658.01071,
    "en": "Widespread hunger persists in Gaza one year after planned ceasefire",
@@ -5477,8 +5658,8 @@
    "cat": "accident"
   }
  ],
- "updated": 1792284669,
- "pending_since": 1792283465.9926887,
+ "updated": 1792285284,
+ "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
