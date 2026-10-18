@@ -1213,29 +1213,6 @@
  },
  "queue": [
   {
-   "title": "Bournemouth Defeats Sunderland 2-0 in Premier League",
-   "summary": "Kathmandu. In a match of the English Premier League football, Bournemouth defeated Sunderland, who were limited to 10 players, by...",
-   "link": "http://english.ratopati.com/story/84126/bournemouth-ease-to-2-0-win-over-sunderland",
-   "source": "Ratopati EN",
-   "ts": 1792337289,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/sunder_tCLVv1iJcY.webp",
-   "lang": "en",
-   "hl": "Bournemouth Defeats Sunderland 2-0 in Premier League",
-   "en": "Bournemouth Defeats Sunderland 2-0 in Premier League",
-   "ne": "Bournemouth Defeats Sunderland 2-0 in Premier League",
-   "imp": 2,
-   "tags": [
-    "PremierLeague",
-    "Bournemouth",
-    "Sunderland"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "दसैँमा युवा समूहको निःशुल्क यातायात सेवा अभियान",
    "summary": "",
    "link": "https://baahrakhari.com/detail/505283",
@@ -1558,17 +1535,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1791760854.8456151,
-   "en": "कांग्रेस महिला महामन्त्रीमा डिला संग्रौला विजयी",
-   "ne": "कांग्रेस महिला महामन्त्रीमा डिला संग्रौला विजयी",
-   "link": "https://baahrakhari.com/detail/504646",
-   "source": "Baahrakhari",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "politics"
-  },
   {
    "ts": 1791762656.0273483,
    "en": "Second flood disaster strikes Nepal",
@@ -4694,8 +4660,8 @@
    "cat": "crime"
   }
  ],
- "updated": 1792365663,
- "pending_since": null,
+ "updated": 1792366269,
+ "pending_since": 1792366265.822169,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
