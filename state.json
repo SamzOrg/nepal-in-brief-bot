@@ -1692,7 +1692,9 @@
   "https://news.google.com/rss/articles/CBMibEFVX3lxTE1LU2l5ZE5YZDc3RnMxN1IxaU5tLXFqNWUzeEg3VTlOcHFONjVyeW1EcGlCc0pvRFlQUzdrS3hJaFZrYVdMWFZzd1FncWdfellqMWdwR2Fvekd5MXMyRmxnODh6ODBCUUdOSHJ0bQ?oc=5": 1792282848.4619853,
   "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaml1TzE5eV9iSkNEb0RWejFUS3A1WTJlemp0eW8zR3A0SVE1WjZCYXRBLURPNGhDTkhkaXVybzVTNUh3OVFRX3RMNlFfNkJITjdlUDZWWWJqcGhKak5mT2wzWXVMY3JoemFYdHplXzRKSzZGaWJtc3lubzdlSldoZWNCa2FJN1U2ZU1RdjlMdEIzT1FWcTV5dUVGcGpmT2xrbS0wbEkzblA5ZDJO?oc=5": 1792282848.4619853,
   "http://lokaantar.com/story/331525/2026/10/17/round-up-": 1792282848.4619853,
-  "https://nagariknews.nagariknetwork.com/Dharma-Saskriti/eighth-day-of-navratri-worshipping-goddess-mahagauri-69-61.html": 1792282848.4619853
+  "https://nagariknews.nagariknetwork.com/Dharma-Saskriti/eighth-day-of-navratri-worshipping-goddess-mahagauri-69-61.html": 1792282848.4619853,
+  "http://english.ratopati.com/story/84072/citys-historic-start-seventh-consecutive-win-beating-ipswich-town": 1792283465.9926887,
+  "http://lokaantar.com/story/331526/2026/10/18/current-": 1792283465.9926887
  },
  "queue": [
   {
@@ -1714,29 +1716,6 @@
     "प्रहरी"
    ],
    "cat": "crime",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "भारत नेपाल र बंगलादेश होइन, चुनावबाटै सत्ता परिवर्तन गर्छौं : प्रकाश राज",
-   "summary": "अभिनेता तथा अभियन्ता प्रकाश राजले भारतमा शासन परिवर्तन हुनुपर्ने बताएका छन्। तर, त्यसका लागि हिंसा वा असंवैधानिक बाटो नभई चुनाव र संवैधानिक प्रक्रियालाई अपनाउनुपर्ने उनको भनाइ छ।...",
-   "link": "https://nagariknews.nagariknetwork.com/arts/we-change-power-through-elections-not-india-nepal-and-bangladesh-prakash-raj-55-70.html",
-   "source": "Nagarik News",
-   "ts": 1792254203,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1792254072_Modi%20vs%20Raj%20New.jpg",
-   "lang": "ne",
-   "hl": "भारत नेपाल र बंगलादेश होइन, चुनावबाटै सत्ता परिवर्तन गर्छौं : प्रकाश राज",
-   "en": "भारत नेपाल र बंगलादेश होइन, चुनावबाटै सत्ता परिवर्तन गर्छौं : प्रकाश राज",
-   "ne": "भारत नेपाल र बंगलादेश होइन, चुनावबाटै सत्ता परिवर्तन गर्छौं : प्रकाश राज",
-   "imp": 2,
-   "tags": [
-    "PrakashRaj",
-    "India",
-    "Bangladesh"
-   ],
-   "cat": "politics",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -1926,28 +1905,6 @@
    "val": 3,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "Millions of Ukrainians could flee again this winter: UN",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQanVHZ0ItaFdHTk5fWmxJZHhaTFdJU2M4WFJ3WjltY1dFdjMzSENUNElsZ28xNVZzeDctRHdpSHFwOEdGckpvRmN0c2F2VFlJTnNSSXpaZGswend6V3A1OGN4cHdjbEtBTEM3MFVNZ2V6MEtBbENEdTJCV0ZHSnY3S2Q5cnEtNHRVRWhkMlFfbFdzN3lZWWt3VGtmeGR2eXowZ2xheEF4bDd0TG1xQzg2ZTN0RQ?oc=5",
-   "source": "myRepublica",
-   "ts": 1792254619,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Millions of Ukrainians could flee again this winter: UN",
-   "en": "Millions of Ukrainians could flee again this winter: UN",
-   "ne": "Millions of Ukrainians could flee again this winter: UN",
-   "imp": 1,
-   "tags": [
-    "Ukraine",
-    "Refugees"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 3
   },
   {
    "title": "Nepal, Oman seek stronger bilateral ties",
@@ -2247,31 +2204,55 @@
    "val": 2,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "Manchester City Sets Record with Seventh Consecutive League Win",
+   "summary": "Manchester. Manchester City defeated Ipswich Town 3-2, setting a club record of winning the first seven consecutive games of the...",
+   "link": "http://english.ratopati.com/story/84072/citys-historic-start-seventh-consecutive-win-beating-ipswich-town",
+   "source": "Ratopati EN",
+   "ts": 1792283293,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/man-city_1zVFAWoeXV.webp",
+   "lang": "en",
+   "hl": "Manchester City Sets Record with Seventh Consecutive League Win",
+   "en": "Manchester City Sets Record with Seventh Consecutive League Win",
+   "ne": "Manchester City Sets Record with Seventh Consecutive League Win",
+   "imp": 1,
+   "tags": [
+    "ManchesterCity",
+    "EPL",
+    "Football"
+   ],
+   "cat": "sports",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "करेन्ट लागेर महिलाको मृत्यु",
+   "summary": "ओखलढुङ्गाको चिशङ्खुगढी गाउँपालिका-१, कुमलटारमा करेन्ट लागेर ५४ वर्षीया ठगमाया बास्तोलाको मृत्यु भएको छ ।घर नजिकै रहेको बिजुलीको खम्बाबाट झरेको तारबाट प्रवाह भएको करेन्ट लाग्दा उहाँको घटनास्थलमै मृत्यु भएको जिल्ला प्रहरी...",
+   "link": "http://lokaantar.com/story/331526/2026/10/18/current-",
+   "source": "Lokaantar",
+   "ts": 1792269066.6976714,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "करेन्ट लागेर महिलाको मृत्यु",
+   "en": "करेन्ट लागेर महिलाको मृत्यु",
+   "ne": "करेन्ट लागेर महिलाको मृत्यु",
+   "imp": 3,
+   "tags": [
+    "Current",
+    "करेन्ट",
+    "Accident"
+   ],
+   "cat": "accident",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1791678054.8774178,
-   "en": "हिन्दुहरूको महान् पर्व बडादसैँ आजदेखि सुरु, बिहान ११:४७ बजे घटस्थापनाको साइत",
-   "ne": "हिन्दुहरूको महान् पर्व बडादसैँ आजदेखि सुरु, बिहान ११:४७ बजे घटस्थापनाको साइत",
-   "link": "https://baahrakhari.com/detail/504529",
-   "source": "Baahrakhari",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "culture"
-  },
-  {
-   "ts": 1791678587.720347,
-   "en": "Gorkha Flood Washes Away Sallery Market, Damages Jagat Market",
-   "ne": "Gorkha Flood Washes Away Sallery Market, Damages Jagat Market",
-   "link": "http://english.ratopati.com/story/83247/budhi-gandaki-flood-update-salleri-bazaar-washed-away-jagat-bazaar-also-suffered-major-damage",
-   "source": "Ratopati EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": true,
-   "cat": "disaster"
-  },
   {
    "ts": 1791679856.3066397,
    "en": "Singapore Treasure Carbon Brings Climate Finance to Nepal via Cookstove Project",
@@ -5474,8 +5455,8 @@
    "cat": "society"
   }
  ],
- "updated": 1792282875,
- "pending_since": null,
+ "updated": 1792283488,
+ "pending_since": 1792283465.9926887,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
