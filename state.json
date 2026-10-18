@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://risingnepaldaily.com/news/87883": 1792152654.0364666,
-  "http://lokaantar.com/story/331452/2026/10/16/meeting-": 1792152654.0364666,
   "http://english.ratopati.com/story/83968/the-steps-the-country-could-not-stop-on-the-eve-of-dashain-video-report": 1792153252.8820953,
   "https://risingnepaldaily.com/news/87885": 1792153252.8820953,
   "https://gorkhapatraonline.com/news/226942": 1792153252.8820953,
@@ -1346,7 +1344,9 @@
   "https://nagariknews.nagariknetwork.com/blog/the-strange-face-of-social-media-during-dashain-14-59.html": 1792325449.9628394,
   "https://nagariknews.nagariknetwork.com/arts/opportunity-to-watch-nepali-movies-at-home-during-dashain-tihar-movie-mela-at-cinemas-br-80-40.html": 1792325449.9628394,
   "https://nagariknews.nagariknetwork.com/social-affairs/accountant-dies-after-being-hit-by-a-truck-madan-bhandari-highway-blocked-passengers-on-their-way-to-celebrate-dashain-stranded-57-97.html": 1792325449.9628394,
-  "https://nagariknews.nagariknetwork.com/social-affairs/one-dead-two-injured-after-being-hit-by-indian-scorpio-19-17.html": 1792325449.9628394
+  "https://nagariknews.nagariknetwork.com/social-affairs/one-dead-two-injured-after-being-hit-by-indian-scorpio-19-17.html": 1792325449.9628394,
+  "https://nagariknews.nagariknetwork.com/social-affairs/nine-people-die-in-road-accidents-across-the-country-21-68.html": 1792326046.7421494,
+  "https://www.setopati.com/social/401074": 1792326046.7421494
  },
  "queue": [
   {
@@ -1442,29 +1442,6 @@
    "hits": 1
   },
   {
-   "title": "Can Nepal's hydropower boom withstand a changing Himalaya?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOR2lHVUkybTQzX3hsWDFXZVA2b205aWpVbDJjb1J4OVpidDJBLUUwX0x5Ul9OR3hIa0V0SXdqdVN4Y2xkZGhYSHltTWRYVXpzSDdfR1N2S09pNW9yYmNGMmNZZ0lfV0JldDFlcVA4OG1ucm1fUjJUXzJVWUMyTzBSeGt1WktieXJvTkJmUEdEUzVBS1d6a0VFY0hQNkJIZVRBNXZyTmRn?oc=5",
-   "source": "The Kathmandu Post",
-   "ts": 1792297067,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Can Nepal's hydropower boom withstand a changing Himalaya?",
-   "en": "Can Nepal's hydropower boom withstand a changing Himalaya?",
-   "ne": "Can Nepal's hydropower boom withstand a changing Himalaya?",
-   "imp": 3,
-   "tags": [
-    "Hydropower",
-    "Himalaya",
-    "Climate"
-   ],
-   "cat": "economy",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "जुम्लाको तापक्रम माइनसमा, कहाँको कति ?",
    "summary": "",
    "link": "https://baahrakhari.com/detail/505252",
@@ -1484,75 +1461,6 @@
    ],
    "cat": "society",
    "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "बेपत्ताका परिवारमा छैन दसैँको खुसी",
-   "summary": "बाजुरा समाचारदाताबाजुरा,कात्तिक १ गते । बाजुरामा दसैँको चहलपहल बढ्दै गए पनि १७ परिवारमा भने यस पटकको दसैँको कुनै रौनक छैन । गत भदौ १० गते भोटेकोशी नदीमा आएको बाढीमा यहाँका १७ जना ब...",
-   "link": "https://gorkhapatraonline.com/news/227044",
-   "source": "Gorkhapatra",
-   "ts": 1792297187,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/388620/conversions/Untitled-1-Recovered-original.jpg",
-   "lang": "ne",
-   "hl": "बेपत्ताका परिवारमा छैन दसैँको खुसी",
-   "en": "बेपत्ताका परिवारमा छैन दसैँको खुसी",
-   "ne": "बेपत्ताका परिवारमा छैन दसैँको खुसी",
-   "imp": 2,
-   "tags": [
-    "Dashain",
-    "MissingPersons",
-    "दसैँ"
-   ],
-   "cat": "society",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "जसपाले एमालेसँग मिलेर सरकार बनाउन लागेको कुरा भ्रामक : उपेन्द्र यादव",
-   "summary": "जसपा नेपालका अध्यक्ष उपेन्द्र यादवले नेकपा एमालेसँग सहकार्य गरेर सरकारमा सहभागी हुन लागेको भन्ने कुरा भ्रामक रहेको बताएका छन्।...",
-   "link": "https://nagariknews.nagariknetwork.com/politics/rumors-that-jsp-is-going-to-form-government-with-uml-are-misleading-upendra-yadav-br-63-97.html",
-   "source": "Nagarik News",
-   "ts": 1792297203,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1792297165_uprndra%20yadav%20kp%20oli.jpg",
-   "lang": "ne",
-   "hl": "जसपाले एमालेसँग मिलेर सरकार बनाउन लागेको कुरा भ्रामक : उपेन्द्र यादव",
-   "en": "जसपाले एमालेसँग मिलेर सरकार बनाउन लागेको कुरा भ्रामक : उपेन्द्र यादव",
-   "ne": "जसपाले एमालेसँग मिलेर सरकार बनाउन लागेको कुरा भ्रामक : उपेन्द्र यादव",
-   "imp": 3,
-   "tags": [
-    "UpendraYadav",
-    "JSP",
-    "Politics"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Lina Adhikari Discusses Dasain, Government Performance, and Economic Plans",
-   "summary": "Lina Adhikari is a Member of Parliament from Rastriya Swatantra Party (RSP) and the party's central treasurer.She has also served...",
-   "link": "http://english.ratopati.com/story/84098/the-government-is-serious-about-boosting-the-morale-of-the-private-sector-we-will-deliver-soon",
-   "source": "Ratopati EN",
-   "ts": 1792296900,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/lima-adhikari_Jnqk5nA3mR.webp",
-   "lang": "en",
-   "hl": "Lina Adhikari Discusses Dasain, Government Performance, and Economic Plans",
-   "en": "Lina Adhikari Discusses Dasain, Government Performance, and Economic Plans",
-   "ne": "Lina Adhikari Discusses Dasain, Government Performance, and Economic Plans",
-   "imp": 2,
-   "tags": [
-    "LinaAdhikari",
-    "Dasain",
-    "Interview"
-   ],
-   "cat": "politics",
-   "val": 2,
    "teaser": false,
    "hits": 1
   },
@@ -1578,29 +1486,6 @@
    "val": 3,
    "teaser": false,
    "hits": 3
-  },
-  {
-   "title": "प्रकृतिको सुन्दर उपहार : नायग्रा",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/505250",
-   "source": "Baahrakhari",
-   "ts": 1792297080,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "प्रकृतिको सुन्दर उपहार : नायग्रा",
-   "en": "प्रकृतिको सुन्दर उपहार : नायग्रा",
-   "ne": "प्रकृतिको सुन्दर उपहार : नायग्रा",
-   "imp": 1,
-   "tags": [
-    "NiagaraFalls",
-    "Travel",
-    "Nature"
-   ],
-   "cat": "world",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
   },
   {
    "title": "कोलकातामा दुर्गा पूजामा भागदौड मच्चिँदा १९ जनाको मृत्यु, सात पक्राउ",
@@ -4084,20 +3969,32 @@
    "val": 3,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "६०० मिटरमुनि खस्यो अटो, दुई जनाको मृत्यु",
+   "summary": "",
+   "link": "https://www.setopati.com/social/401074",
+   "source": "Setopati",
+   "ts": 1792325710,
+   "weight": 3,
+   "img": null,
+   "lang": "ne",
+   "hl": "६०० मिटरमुनि खस्यो अटो, दुई जनाको मृत्यु",
+   "en": "६०० मिटरमुनि खस्यो अटो, दुई जनाको मृत्यु",
+   "ne": "६०० मिटरमुनि खस्यो अटो, दुई जनाको मृत्यु",
+   "imp": 4,
+   "tags": [
+    "AutoAccident",
+    "Makwanpur",
+    "दुर्घटना"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1791720656.8665068,
-   "en": "कपनको बाल उद्धार माविका प्रधानाध्यापकलाई कुटपिट गरेको आरोपमा दुई जना पक्राउ",
-   "ne": "कपनको बाल उद्धार माविका प्रधानाध्यापकलाई कुटपिट गरेको आरोपमा दुई जना पक्राउ",
-   "link": "http://lokaantar.com/story/331053/2026/10/11/arrest-",
-   "source": "Lokaantar",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "crime"
-  },
   {
    "ts": 1791722474.8988614,
    "en": "Province Government Allocates NPR 25.5 Million for Seti Provincial Hospital",
@@ -7256,8 +7153,8 @@
    "cat": "society"
   }
  ],
- "updated": 1792325456,
- "pending_since": null,
+ "updated": 1792326077,
+ "pending_since": 1792326046.7421494,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
