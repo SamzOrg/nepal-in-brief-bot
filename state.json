@@ -1653,7 +1653,9 @@
   "https://nagariknews.nagariknetwork.com/economy/taxpayer-incentive-gift-program-announcement-17-winners-35-83.html": 1792291846.298146,
   "https://gorkhapatraonline.com/news/227032": 1792291846.298146,
   "https://risingnepaldaily.com/news/87921": 1792291846.298146,
-  "https://nagariknews.nagariknetwork.com/politics/gb-rai-s-audio-may-be-sponsored-hark-sampang-77-66.html": 1792291846.298146
+  "https://nagariknews.nagariknetwork.com/politics/gb-rai-s-audio-may-be-sponsored-hark-sampang-77-66.html": 1792291846.298146,
+  "http://english.ratopati.com/story/84092/suspension-bridge-in-trishuli-operational-after-bhotekoshi-flood-washes-away-concrete-bridge-eases-movement-of-locals": 1792292486.6088552,
+  "https://risingnepaldaily.com/news/87928": 1792292486.6088552
  },
  "queue": [
   {
@@ -2522,29 +2524,6 @@
    "hits": 1
   },
   {
-   "title": "Can Bidya's Entry Revive UML?",
-   "summary": "The intra-party conflict within the CPN-UML has taken a new turn. After a year of humiliation, the party has rolled out...",
-   "link": "https://risingnepaldaily.com/news/87925",
-   "source": "Rising Nepal",
-   "ts": 1792288497,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Can Bidya's Entry Revive UML?",
-   "en": "Can Bidya's Entry Revive UML?",
-   "ne": "Can Bidya's Entry Revive UML?",
-   "imp": 3,
-   "tags": [
-    "UML",
-    "BidyaBhandari",
-    "Politics"
-   ],
-   "cat": "politics",
-   "val": 2,
-   "teaser": true,
-   "hits": 1
-  },
-  {
    "title": "चितवनमा ३० करोड बढी खसीको व्यापार",
    "summary": "दसैँमा जिल्लामा ३० करोडभन्दा बढीको खसी बोकाको व्यापार हुने व्यवसायीले जनाएका छन्।",
    "link": "https://nagariknews.nagariknetwork.com/economy/goat-trade-worth-over-rs-300-million-in-chitwan-84-76.html",
@@ -3070,20 +3049,57 @@
    "val": 2,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "Suspension Bridge Restores Access After Flood Damages Twin Bridges in Nuwakot",
+   "summary": "Nuwaokot. After the floodwaters of Bhote Koshi washed away two concrete bridges over the Trishuli River in Bidur Municipality-1, Nuwakot,...",
+   "link": "http://english.ratopati.com/story/84092/suspension-bridge-in-trishuli-operational-after-bhotekoshi-flood-washes-away-concrete-bridge-eases-movement-of-locals",
+   "source": "Ratopati EN",
+   "ts": 1792292124,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/wg4FYVHDpY.jpg",
+   "lang": "en",
+   "hl": "Suspension Bridge Restores Access After Flood Damages Twin Bridges in Nuwakot",
+   "en": "Suspension Bridge Restores Access After Flood Damages Twin Bridges in Nuwakot",
+   "ne": "Suspension Bridge Restores Access After Flood Damages Twin Bridges in Nuwakot",
+   "imp": 3,
+   "tags": [
+    "SuspensionBridge",
+    "Nuwakot",
+    "Flood",
+    "पुल"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Half of flood-affected families want govt to provide land or house",
+   "summary": "Kathmandu, Oct. 18: Half of the people who lost their houses in the devastating Bhotekoshi flood that occurred on August...",
+   "link": "https://risingnepaldaily.com/news/87928",
+   "source": "Rising Nepal",
+   "ts": 1792291992,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "Half of flood-affected families want govt to provide land or house",
+   "en": "Half of flood-affected families want govt to provide land or house",
+   "ne": "Half of flood-affected families want govt to provide land or house",
+   "imp": 3,
+   "tags": [
+    "Flood",
+    "Government",
+    "Rehabilitation",
+    "बाढी"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1791687061.9098282,
-   "en": "बूढीगण्डकीको बाढीले सोतीको मोटरेबल पुल बगायो",
-   "ne": "बूढीगण्डकीको बाढीले सोतीको मोटरेबल पुल बगायो",
-   "link": "https://baahrakhari.com/detail/504550",
-   "source": "Baahrakhari",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": true,
-   "cat": "disaster"
-  },
   {
    "ts": 1791687702.65772,
    "en": "Malaysia rejects Nepal's demand to open worker recruitment to all manpower agencies",
@@ -6273,10 +6289,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "sports"
+  },
+  {
+   "ts": 1792292501.6596382,
+   "en": "KP Sharma Oli Appoints Bidya Devi Bhandari as CPN-UML Senior Leader",
+   "ne": "KP Sharma Oli Appoints Bidya Devi Bhandari as CPN-UML Senior Leader",
+   "link": "https://risingnepaldaily.com/news/87925",
+   "source": "Rising Nepal",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "politics"
   }
  ],
- "updated": 1792291854,
- "pending_since": null,
+ "updated": 1792292525,
+ "pending_since": 1792292486.6088552,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
