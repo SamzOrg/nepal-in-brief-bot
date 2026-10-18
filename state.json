@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQelZfem9mYUx0WUlBcktCc0I2bzNFTU9jVU1KUy0xaDRBQkh4alJvalRicXRsSThDNDg5ZFZhX3lIVmQxWXJYamZhX1pMYlkyLWNrVVFjTkhQZTBLQXp6NVI0enRFWXkyVFpXbDdrQS1QaXdlUUgxUk9pRzNTMi1hMGpwZENpTzFQNGxRUl8wNGhLSXRndjZFSVJVZWFyXzJuV2lmTU1JQmNyNW9BRTVsTFVOVkhPTkdyeUZWRXNWaHAtelQ1Y2EtMUsxQmlLNkItbzZyZ3Q3RQ?oc=5": 1792187449.9175906,
   "https://news.google.com/rss/articles/CBMigwFBVV95cUxNU1o4eFd4Zlo0REdsOHhfdEpwdDRZd0w2UnFkVUtKM1FXOE90eTlZODVhNTZQMHE5bUlNSUZOTDBQOUVHSF9CTDFvaHRQRktVWWgzUlBGUEF5M1RpWTdRakdEWGxhc3lfeEdWNl9HV2JvMm5oNHBSOWYtLW8wLVZycVhMSQ?oc=5": 1792190451.1216211,
   "https://news.google.com/rss/articles/CBMifkFVX3lxTE4xaElIUksxTnltckhGVm0wSFUzN3ZCQmMwVFBKTU04aFlpTkJpNWNpdGttME5Ka1VLQWwxVGN5NnFGdVgyckIybFFrX1A2MkVUTEZraVAwU0VqWnJORnAxLUs0YndPUTFyRW9Sclh3S1RvSC0zNnJ5bkk2b2ZOUQ?oc=5": 1792190451.1216211,
   "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1eEh2d2RoWlRIZUhpLUtTU1ViOXFDOVFoTUh6WGc3eFBoWXM3aWEzWnBSZkJiNDl4QUFMdkFkbjR3MUFLS0hFZF8yaWxodG1XLWJ0UjdBSG1INktQd0FJZ0RWczF3ZVVoTWl6cl9zWTVqdTFUSk1TRHdmYnZTNUE?oc=5": 1792191678.9806144,
@@ -1217,52 +1216,6 @@
   "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPdDlCSjBNVXhGVnAzblBETGZwMFZFbEswYWNUV0JENmRRbUZCMm85c3lJdEctaXlYWTMxVkhiM3lyd3I5SHlGWXM3by1ORk1neWFqVGRlejN3VkxwRGdXNmpjcTlIeDl3RWpLcU9BYlpFa1JKcEs5enlBMGNGS3hhYkI0RGNSUG1HUVl4UHdOZWh1TE11dWNTUWRBSkI4cU9ackd6LUZsQXJYdFNramRHdTlIcWdabi1sUTJFNjMtOEYyT2dIS3pEOXhMUzFCT1FKWFBuNU4zRjNmWW9KWHczWGZ1SFbSAeQBQVVfeXFMT3Q5QkowTVV4RlZwM25QRExmcDBWRWxLMGFjVFdCRDZkUW1GQjJvOXN5SXRHLWl5WFkzMVZIYjN5cndyOUh5RllzN28tTkZNZ3lhalRkZXozd1ZMcERnVzZqY3E5SHg5d0VqS3FPQWJaRWtSSnBLOXp5QTBjRkt4YWJCNERjUlBtR1FZeFB3TmVodUxNdXVjU1FkQUpCOHFPWnJHei1GbEFyWHRTa2pkR3U5SHFnWm4tbFEyRTYzLThGMk9nSEt6RDl4TFMxQk9RSlhQbjVOM0YzZllvSlh3M1hmdUhW?oc=5": 1792360249.1245112
  },
  "queue": [
-  {
-   "title": "Clash Between Afghan and Pakistani Security Forces Reported",
-   "summary": "Kathmandu. News has surfaced about a clash between the security forces of Afghanistan and Pakistan in the border region between...",
-   "link": "http://english.ratopati.com/story/84120/clashes-on-afghanistan-pakistan-border-both-sides-have-their-own-claims",
-   "source": "Ratopati EN",
-   "ts": 1792331820,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/pakistan-afgan_W5pXphOldX.webp",
-   "lang": "en",
-   "hl": "Clash Between Afghan and Pakistani Security Forces Reported",
-   "en": "Clash Between Afghan and Pakistani Security Forces Reported",
-   "ne": "Clash Between Afghan and Pakistani Security Forces Reported",
-   "imp": 2,
-   "tags": [
-    "Afghanistan",
-    "Pakistan",
-    "BorderClash"
-   ],
-   "cat": "world",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "दसैंमा कुकुरका लागि पनि बसको टिकट, होस्टेलमा राख्न दैनिक हजार रूपैयाँसम्म",
-   "summary": "दसैं आउनुभन्दा केही समयअघि मात्र उनीहरूले कुकुर किनेका थिए। पोखरा जाँदा काठमाडौंको घर रित्तो हुने भएपछि समस्या आइलाग्यो - कुकुरलाई कहाँ छाड्ने?",
-   "link": "https://www.setopati.com/social/401069",
-   "source": "Setopati",
-   "ts": 1792331462,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "दसैंमा कुकुरका लागि पनि बसको टिकट, होस्टेलमा राख्न दैनिक हजार रूपैयाँसम्म",
-   "en": "दसैंमा कुकुरका लागि पनि बसको टिकट, होस्टेलमा राख्न दैनिक हजार रूपैयाँसम्म",
-   "ne": "दसैंमा कुकुरका लागि पनि बसको टिकट, होस्टेलमा राख्न दैनिक हजार रूपैयाँसम्म",
-   "imp": 2,
-   "tags": [
-    "Dashain",
-    "Pets",
-    "Kathmandu"
-   ],
-   "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
   {
    "title": "Tiger Shroff Targeted in Mumbai Firing Incident",
    "summary": "Kathmandu. A public incident of firing on Bollywood actor Tiger Shroff in Pushpa Park, Juhu, Mumbai has been revealed. According...",
@@ -4967,8 +4920,8 @@
    "cat": "crime"
   }
  ],
- "updated": 1792360253,
- "pending_since": null,
+ "updated": 1792360889,
+ "pending_since": 1792360885.2873733,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
