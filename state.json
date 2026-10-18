@@ -1,10 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1eEh2d2RoWlRIZUhpLUtTU1ViOXFDOVFoTUh6WGc3eFBoWXM3aWEzWnBSZkJiNDl4QUFMdkFkbjR3MUFLS0hFZF8yaWxodG1XLWJ0UjdBSG1INktQd0FJZ0RWczF3ZVVoTWl6cl9zWTVqdTFUSk1TRHdmYnZTNUE?oc=5": 1792191678.9806144,
-  "https://theannapurnaexpress.com/story/67996": 1792191678.9806144,
-  "https://theannapurnaexpress.com/story/67995": 1792191678.9806144,
-  "https://theannapurnaexpress.com/story/67994": 1792191678.9806144,
-  "https://theannapurnaexpress.com/story/67993": 1792191678.9806144,
   "https://gorkhapatraonline.com/news/226948": 1792194646.0577512,
   "https://news.google.com/rss/articles/CBMirgFBVV95cUxONnIzN1p5ZHU4LTdHaHl3UzdEaGNuenZMTE1UOTlzLTMzU1RHM081VWVobU5GenptaGxsNjZhYVVXT0tGcDZvbGZSRDFVRjdXR0Z0eUJIQjhLcHFhclNUTzgzc0VWUmxBdFNQb2tCeWY5MHZVeEhzTEUzV25HOHdMSEJQalFGbG9RSlJXQ05HTXkyT1VaZUNrR1N0bEdIb2pMZ1c5ZWlBc3BiaW1nMnc?oc=5": 1792194646.0577512,
   "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRzFlZUVuS085SzczVDAwamdYM1hmZldCRGFoN19EV3dEekRERGl1Y3hOTENUVmNJVkxKZUtvU05aa2Y1NGM1YWhSTTk4OTAzZmxLZTQyOU5MVEFEa0xfMmxIckFiVVpBUmJhMWpDTUh6M0NtcUpsdnZ6Z0NvV1o4ZnREQVNPbWpQa3FrajRJMNIBkwFBVV95cUxPTmpSZ0VCNDR4RWxmeWtMckF6UzI5d3NtM3dBa21PbEVOOUJtVUNsOWlWX04zLWY0Qi16ZG5nNS1SaS1vY3R2WnpmOEdIYi1aUW04MjVWT3ExVENMbk1mMXpVdS1Ha3ZNMnd1R29BWndscTJja21RNzBfU1MwLWhwZXZSUWdxRExaY3JFZktoTi05TDg?oc=5": 1792194646.0577512,
@@ -1355,29 +1350,6 @@
    "hits": 1
   },
   {
-   "title": "Leeds and Manchester United Draw 1-1 in Premier League",
-   "summary": "Kathmandu. In a match of the English Premier League football, Leeds and Manchester United have been stopped at a 1-1...",
-   "link": "http://english.ratopati.com/story/84123/leeds-and-manchester-united-drew-1-1",
-   "source": "Ratopati EN",
-   "ts": 1792335513,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/man-united-leeds_TH7ZqHvxm0.webp",
-   "lang": "en",
-   "hl": "Leeds and Manchester United Draw 1-1 in Premier League",
-   "en": "Leeds and Manchester United Draw 1-1 in Premier League",
-   "ne": "Leeds and Manchester United Draw 1-1 in Premier League",
-   "imp": 1,
-   "tags": [
-    "Leeds",
-    "ManchesterUnited",
-    "PremierLeague"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "बाढीमा बेपत्ता भएकाको विवरण बुझाउन पाँच दिनको समय",
    "summary": "बाढीमा बेपत्ता भएका व्यक्तिको आधिकारिक विवरण यकिन गरी अभिलेख प्रमाणीकरण गर्ने उद्देश्यले गाउँपालिकाले सूचना जारी गरी त्यसका लागि सम्बन्धित व्यक्तिका परिवारका सदस्यलाई आवश्यक कागजातसहित सम्बन्धित वडा कार्यालयमा निवेदन...",
    "link": "https://nagariknews.nagariknetwork.com/social-affairs/five-days-to-submit-details-of-those-missing-in-the-flood-10-26.html",
@@ -1700,17 +1672,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1791759058.2166016,
-   "en": "Nepal amplifies climate justice agenda in int'l platform",
-   "ne": "Nepal amplifies climate justice agenda in int'l platform",
-   "link": "https://nepalipatro.com.np/share/news/c2fedda9",
-   "source": "Nepali Patro",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "world"
-  },
   {
    "ts": 1791760854.8456151,
    "en": "कांग्रेस महिला महामन्त्रीमा डिला संग्रौला विजयी",
@@ -4836,7 +4797,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1792363865,
+ "updated": 1792364490,
  "pending_since": 1792363848.4486406,
  "fb_blocks": [
   1790350880.4125228,
