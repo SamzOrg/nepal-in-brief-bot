@@ -1218,29 +1218,6 @@
  },
  "queue": [
   {
-   "title": "Tiger Shroff Targeted in Mumbai Firing Incident",
-   "summary": "Kathmandu. A public incident of firing on Bollywood actor Tiger Shroff in Pushpa Park, Juhu, Mumbai has been revealed. According...",
-   "link": "http://english.ratopati.com/story/84122/bollywood-actor-tiger-shroff-shot-at",
-   "source": "Ratopati EN",
-   "ts": 1792333547,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/tiger-shroff_nMoEKJSnTQ.webp",
-   "lang": "en",
-   "hl": "Tiger Shroff Targeted in Mumbai Firing Incident",
-   "en": "Tiger Shroff Targeted in Mumbai Firing Incident",
-   "ne": "Tiger Shroff Targeted in Mumbai Firing Incident",
-   "imp": 1,
-   "tags": [
-    "TigerShroff",
-    "Mumbai",
-    "Bollywood"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 4
-  },
-  {
    "title": "Bournemouth Defeats Sunderland 2-0 in Premier League",
    "summary": "Kathmandu. In a match of the English Premier League football, Bournemouth defeated Sunderland, who were limited to 10 players, by...",
    "link": "http://english.ratopati.com/story/84126/bournemouth-ease-to-2-0-win-over-sunderland",
@@ -1520,30 +1497,6 @@
    "hits": 1
   },
   {
-   "title": "Ten killed in separate road accidents across Nepal",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdU9nbjYxOHc3LV9jYXlVTzFpRVc4amtoTFBfMG9HTmRwZmRFaTZaLWF3d3RnaTh4T2dlcDBKeHJreHExdm9CSHhjV3d5XzFMbUJmNEhnM3E0SDhuczVjMW81U21kamlFSVFRT3c2ZTBRbXNZbzMtbWdoMmdtdVo1enRwRGRCeWphZDBHN1lGUEJQQnFrQ19xLXdNOG80MF8tbnhDTjJrb250SlU4MEE?oc=5",
-   "source": "myRepublica",
-   "ts": 1792333824,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Ten killed in separate road accidents across Nepal",
-   "en": "Ten killed in separate road accidents across Nepal",
-   "ne": "Ten killed in separate road accidents across Nepal",
-   "imp": 4,
-   "tags": [
-    "RoadAccident",
-    "Fatalities",
-    "NepalTraffic",
-    "दुर्घटना"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
    "title": "Iran's New Defense Minister Warns US of Major Losses if Military Action Resumes",
    "summary": "Kathmandu. Iran's newly appointed Defense Minister Mehrdad Akhlaghi has warned that if the United States resumes military action against Iran,...",
    "link": "http://english.ratopati.com/story/84129/irans-new-defense-minister-warns-of-major-damage-if-us-attacks",
@@ -1749,17 +1702,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1791757255.949516,
-   "en": "World Cup League 2: Former Nepal captain Rohit scores a century",
-   "ne": "World Cup League 2: Former Nepal captain Rohit scores a century",
-   "link": "https://ekantipur.com/sports/2026/10/11/en/world-cup-league-2-former-nepal-captain-rohit-scores-century-04-54.html",
-   "source": "Ekantipur",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "sports"
-  },
   {
    "ts": 1791759058.2166016,
    "en": "Nepal amplifies climate justice agenda in int'l platform",
@@ -4885,7 +4827,7 @@
    "cat": "world"
   }
  ],
- "updated": 1792362067,
+ "updated": 1792362673,
  "pending_since": 1792360885.2873733,
  "fb_blocks": [
   1790350880.4125228,
