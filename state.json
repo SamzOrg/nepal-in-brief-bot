@@ -1544,28 +1544,6 @@
    "hits": 2
   },
   {
-   "title": "Nepal elected to UN Human Rights Council",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbjdiekt5alRaY2FidGJQY0oxc1V1UzhtSlllVmhtLUUwX0dlc2xweHlqc294UDJGVkFVUVNwVFBtVURRbmdSejlSQlllVkhKd0FyZEp6bldySjdzTlkzYTJKa1VVRm1CSTB0TVc1cUh0ZlBmMWhkZFJ3ZmxyV09qcGhRa3M3MWs?oc=5",
-   "source": "Khmer Times",
-   "ts": 1792343295,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Nepal elected to UN Human Rights Council",
-   "en": "Nepal elected to UN Human Rights Council",
-   "ne": "Nepal elected to UN Human Rights Council",
-   "imp": 4,
-   "tags": [
-    "Nepal",
-    "HumanRightsCouncil"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Iran's New Defense Minister Warns US of Major Losses if Military Action Resumes",
    "summary": "Kathmandu. Iran's newly appointed Defense Minister Mehrdad Akhlaghi has warned that if the United States resumes military action against Iran,...",
    "link": "http://english.ratopati.com/story/84129/irans-new-defense-minister-warns-of-major-damage-if-us-attacks",
@@ -4894,9 +4872,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "crime"
+  },
+  {
+   "ts": 1792362055.5707026,
+   "en": "Nepal elected to UN Human Rights Council",
+   "ne": "Nepal elected to UN Human Rights Council",
+   "link": "https://www.khmertimeskh.com/502041314/nepal-elected-to-un-human-rights-council/",
+   "source": "Khmer Times",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "world"
   }
  ],
- "updated": 1792361454,
+ "updated": 1792362067,
  "pending_since": 1792360885.2873733,
  "fb_blocks": [
   1790350880.4125228,
