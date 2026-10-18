@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAtVkR5d1BJZEdVWE1hVXBUeWlCQ0ZVSll1SnpNc1dUQzdMRXJGS1ViYkpkaV9JTTNjd1ppSnJPby00WjBNcTg0MFg5X0NIcF9WdjZEOXBqTnlYWG56?oc=5": 1792177851.367364,
   "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTDRRa1VUT3hycGg0Qmx0T091T1FBS3NBalAtWFFnZjFXUnpTc2xubEhDbWhHbjBVWmV5MlNHek5GR0FodW5HVFpzVjFoSmpHT2M3YmxLVzJGNV82TF9yMFNYLXRldnBtUTBsSDdNOVZ4Qnp1bVhONm9vb0M3R3h1dUczbHc?oc=5": 1792178452.0557542,
   "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMl9RTHRLZTdJT2YwZklaMzc4aVQwaEp2U09kUWFMUFNHeVVialVMcFRrSW9WLWg0SVpVdkxFaDVYNl9RbFU3Y1BLT0tuVm5aaERxREZYWURYM0NoUm1pZE5DTHpqT01zUTYtSjlFZDZCcVM0SEt6ZklNb1RnSVlheEZKSkVYU05qVzVqbURuNlVWSHFhNDlRRWZ5TmtCb3ozbExrYWVXQUN4eU11dmQ1b25xRjR0VE0?oc=5": 1792179071.1906683,
   "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWTAxMGZZdURxdWc4S3l0c1hOR1J2UkZKSW5kQV9ETDRROGFpSnlxNmN1T0tlblJUOUdWcDRXQXNwZUhJemhzRmZuTmlpbWU3ZTFRTkhsckJoUG1UMEFkdWE2WDhRRVlyWnZtbXBEb3hIRnczOUUyLU5fcW5fZVRYNXdRTjNUYTZXVnMyeDdHTHBlRnc0?oc=5": 1792179652.3156784,
@@ -1244,50 +1243,6 @@
    ],
    "cat": "crime",
    "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "त्यो वर्ष परिवारबाट टाढा भएर दसैं मनाउँदा आँसु झर्‍यो",
-   "summary": "अहिले दसैंको खुसी पनि पहिलेको जस्तो नहुँदोरहेछ। बाल्यकालमा पाँच-दस रूपैयाँ दक्षिणा पाउँदा पनि कति खुसी हुन्थ्यौं!",
-   "link": "https://www.setopati.com/art/music/401063",
-   "source": "Setopati",
-   "ts": 1792321680,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "त्यो वर्ष परिवारबाट टाढा भएर दसैं मनाउँदा आँसु झर्‍यो",
-   "en": "त्यो वर्ष परिवारबाट टाढा भएर दसैं मनाउँदा आँसु झर्‍यो",
-   "ne": "त्यो वर्ष परिवारबाट टाढा भएर दसैं मनाउँदा आँसु झर्‍यो",
-   "imp": 2,
-   "tags": [
-    "Dashain",
-    "Nepal"
-   ],
-   "cat": "culture",
-   "val": 1,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "प्रधानमन्त्री कुनै कोटरी या ठाउँबाट सञ्चालित हुँदै जस्तो देखिन्छ",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/505279",
-   "source": "Baahrakhari",
-   "ts": 1792321500,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "प्रधानमन्त्री कुनै कोटरी या ठाउँबाट सञ्चालित हुँदै जस्तो देखिन्छ",
-   "en": "प्रधानमन्त्री कुनै कोटरी या ठाउँबाट सञ्चालित हुँदै जस्तो देखिन्छ",
-   "ne": "प्रधानमन्त्री कुनै कोटरी या ठाउँबाट सञ्चालित हुँदै जस्तो देखिन्छ",
-   "imp": 3,
-   "tags": [
-    "PrimeMinister",
-    "Nepal"
-   ],
-   "cat": "politics",
-   "val": 1,
    "teaser": false,
    "hits": 1
   },
@@ -5522,8 +5477,8 @@
    "cat": "crime"
   }
  ],
- "updated": 1792350093,
- "pending_since": null,
+ "updated": 1792350655,
+ "pending_since": 1792350651.963412,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
