@@ -1,8 +1,5 @@
 {
  "seen": {
-  "https://baahrakhari.com/detail/505083": 1792108891.7299643,
-  "https://gorkhapatraonline.com/news/226856": 1792108891.7299643,
-  "http://english.ratopati.com/story/83898/sixth-day-of-navratri-goddess-katyayani-is-being-worshipped-with-ritualistic-rituals-today": 1792108891.7299643,
   "https://nagariknews.nagariknetwork.com/Dharma-Saskriti/sixth-day-of-navratri-special-worship-of-goddess-katyayani-being-performed-96-12.html": 1792110671.0243516,
   "http://lokaantar.com/story/331405/2026/10/16/dashain-": 1792110671.0243516,
   "https://news.google.com/rss/articles/CBMiYkFVX3lxTE41WUxFRFRPTWxvdGQ4WU1RcFlaME51ZC03aWZldl81N2YyQ19lYUxnLU1RM3MtbmdlbG1YUlN3X1VTZzRxbDdUd0U2WjBQM2dTNWZfZUpGdkxTMkFWdlZ0Nk93?oc=5": 1792111255.8585927,
@@ -1683,7 +1680,9 @@
   "https://theannapurnaexpress.com/story/68024": 1792280447.1347048,
   "https://theannapurnaexpress.com/story/68023": 1792280447.1347048,
   "http://english.ratopati.com/story/84067/this-is-the-foreign-currency-exchange-rate-today": 1792281569.9053164,
-  "http://lokaantar.com/story/331522/2026/10/17/dashain-": 1792281569.9053164
+  "http://lokaantar.com/story/331522/2026/10/17/dashain-": 1792281569.9053164,
+  "https://baahrakhari.com/detail/505238": 1792282243.5800202,
+  "https://news.google.com/rss/articles/CBMifkFVX3lxTE9BWWFKam05ZXFxTTd5bEhmXzhuMHB0cmpHaTdTTS1SS3dfWXJmTVZNTHo2SGdBTUFKVkI5STVwWVBvS3hzQVRXUFBfckZOSV9KVHByeTZmRjFfWW5qdTlKZ1BNVE8wRXoyVjd5dENKaUx1N3NCWkZUVEZlOWhWUQ?oc=5": 1792282243.5800202
  },
  "queue": [
   {
@@ -1705,29 +1704,6 @@
     "प्रहरी"
    ],
    "cat": "crime",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Balancing books and bouts: Ludhiana teacher strikes gold at Indo-Nepal taekwondo meet | Hindustan Times",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNN2g5YXhvOF9fcnBLSDRMMllCTlFISmpFSnl3V0djU25heXlOb3ZmVEdvbHdpeTZ3a0N1bnBPWUpLN3lJQV81MEgzUy10endmV0dIZHFSVi1NRlE1ellaSThuTmkwZlpfUVhFRG9uTmxuSlVnT3UySFd4NGl5VHB6WWlSVnhqQTlNT1kwX1dmQzVnR01ISlQwN20wQUFvdEY1NXE2SEdWTC1Ia3lsYTgxdGdHLTdQejlZQXVqYWw3RW41ZGR3MG03c0xlaWpvZWJXVXl6Q3N6a2RMS2E5THdvVUdVS2tSUW5IOHQyLXduTG_SAfYBQVVfeXFMUGpEV1lNZ05KSHZHYW03MXFVZ1JSNUpWblJNMFFFWEswaDJpek5vSTEtM0d2V1Jyd2hrTFAzb0pPTDJsM0tZR2tMaXJKSk5FcVFtYVRtV0s0R0lXWkR3MWVMbXF3QnRhYzBmZTU1RXB5X1cxYUZpZkMtUEFMMjBvZWhvSHNaUGs0UWhzd2kxeTJMT1VOdERIZzUwMTZudVl2em5mRjN4bnF5RFIydDNEc2xob3E4SVVDZWpaYk1FbWN2elVQNWZpM3BXOHRlc21kTU1ERWhHSmE4bE1lVmVMbV9hdF9rWFp2NjEzNmwtSG9ZeGo3VVZB?oc=5",
-   "source": "Hindustan Times",
-   "ts": 1792253086,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Balancing books and bouts: Ludhiana teacher strikes gold at Indo-Nepal taekwondo meet | Hindustan Times",
-   "en": "Balancing books and bouts: Ludhiana teacher strikes gold at Indo-Nepal taekwondo meet | Hindustan Times",
-   "ne": "Balancing books and bouts: Ludhiana teacher strikes gold at Indo-Nepal taekwondo meet | Hindustan Times",
-   "imp": 2,
-   "tags": [
-    "Taekwondo",
-    "Ludhiana",
-    "Nepal"
-   ],
-   "cat": "sports",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -5342,7 +5318,7 @@
    "cat": "crime"
   }
  ],
- "updated": 1792281686,
+ "updated": 1792282246,
  "pending_since": 1792281047.265965,
  "fb_blocks": [
   1790350880.4125228,
