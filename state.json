@@ -1,8 +1,5 @@
 {
  "seen": {
-  "https://www.setopati.com/politics/400951": 1792116089.0257127,
-  "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMGxCYzJnTUVLbWVETTVCLVZaY2VNd0FVZVk3eEZnREZQY3ZEV1VIOHUtNDdtR2V1X1hISlBFc1J6Yno2SVRKd1haTGpOMFUtaFozalhQWnpDOXdaY0xFRGs2T211Mk9iNkF0U3B2VTNOS0xxZmJFb1laOFQ3bjZMczVWd2tiLWE1QjNIVTlFU3VBWGNjdEdjcHAxazVoY1B0UTU5ZC1HMFppUQ?oc=5": 1792116089.0257127,
-  "https://baahrakhari.com/detail/505088": 1792116089.0257127,
   "https://nagariknews.nagariknetwork.com/economy/telecom-s-fiber-internet-for-4-999-79-57.html": 1792116650.5783849,
   "https://kathmandupost.com/interviews/2026/10/16/byd-after-sales-chiefs-outline-plans-for-ev-ecosystem-in-nepal": 1792116650.5783849,
   "https://gorkhapatraonline.com/news/226850": 1792116650.5783849,
@@ -1763,29 +1760,6 @@
    "hits": 1
   },
   {
-   "title": "India vs West Indies T20 Series Ends in 2-2 Draw After Rain Washes Out Decider",
-   "summary": "Kathmandu. After the fifth and decisive match in Bengaluru was abandoned due to continuous rain, the five-match T-20 series between...",
-   "link": "http://english.ratopati.com/story/84064/rain-washes-out-fifth-t20i-india-west-indies-series-level-at-2-2",
-   "source": "Ratopati EN",
-   "ts": 1792260337,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/naman-dhir_tpTqCeq1OF.webp",
-   "lang": "en",
-   "hl": "India vs West Indies T20 Series Ends in 2-2 Draw After Rain Washes Out Decider",
-   "en": "India vs West Indies T20 Series Ends in 2-2 Draw After Rain Washes Out Decider",
-   "ne": "India vs West Indies T20 Series Ends in 2-2 Draw After Rain Washes Out Decider",
-   "imp": 1,
-   "tags": [
-    "India",
-    "WestIndies",
-    "Cricket"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Bizman death: Accused model changing hideouts in Nepal, say cops",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOS08xTTdXa3RpX25XUDlRaWZNellzMzJYTUotUXdtamRhcWhlS3EtdW9RRHVjMDdybkFrclJMT28zV01jUTVCaFlOS0dXMDU2S1FvUk00UklfNC1kYkg3VWZ4T2YtZVNTck5jWkxVWjlKenlXSzJld3o2X2VuanVhWHI1VmtPdDdtNHQ2WG9fSm1wRU9nNGZxcmpkY05RRTBWYkJlMnlJOGx2X2Y5QUR1dzJZSF8yV2VZNFBNekNYUDlGZ2tPWldQaE45eFlQUk8waWpN0gHYAUFVX3lxTE96RHlFczhNbjU3eHVmOUVtMmp3VmZDLUpMWHE3ZjE2dkdPMl9XWkRyejlVb1Q1bGRJRTlPdjRtYnRGU2tqdEVKdUlCbmI0RW9vTmhtNFhYSHhhWnpIWU1RdTBnUHE3TVQ4VkFhV0hCUDUtYWhVRlMtZXhYWm9aaFRtejU2WVFGQXVBZ0g0dG1mcWs3SllhUFRTTzRFT0pjcU5oRE5aYnU0aFpfSGRtTDNXMzF5MFFYNG5XSlhjcGZrRU5kcGNiZnU1aDgxdmFwM3NlbF9mXzVVWA?oc=5",
@@ -1805,29 +1779,6 @@
    ],
    "cat": "crime",
    "val": 1,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Bayesian model maps climate shocks on Nepal's Terai cereal yields",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQd1VrV3VIRVZsUmtRTGtjY0ZtRVp5dkFfaTc1SURvUW44WTNzaHlmcGItcmRFOUZXM0ltYmR3MmNXUHlaRzFvSkdjMXJyWTBuQXhHVWRmcUpNQy1obHBJbVZRSUp5dkdYQ1REc3czM3ZsVnZKY3JkSE01QXlhakk3b3FmOHcxTWk0SnYzRENnaFRkMGc?oc=5",
-   "source": "Bioengineer.org",
-   "ts": 1792260378,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Bayesian model maps climate shocks on Nepal's Terai cereal yields",
-   "en": "Bayesian model maps climate shocks on Nepal's Terai cereal yields",
-   "ne": "Bayesian model maps climate shocks on Nepal's Terai cereal yields",
-   "imp": 2,
-   "tags": [
-    "ClimateChange",
-    "Terai",
-    "Agriculture"
-   ],
-   "cat": "economy",
-   "val": 3,
    "teaser": false,
    "hits": 1
   },
@@ -6175,7 +6126,7 @@
    "cat": "economy"
   }
  ],
- "updated": 1792288904,
+ "updated": 1792289453,
  "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
