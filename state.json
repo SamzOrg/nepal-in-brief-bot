@@ -1464,7 +1464,10 @@
   "https://nagariknews.nagariknetwork.com/international/protests-against-inflation-in-france-iphones-looted-from-shops-143-year-old-building-set-on-fire-16-13.html": 1792309250.2036836,
   "https://nagariknews.nagariknetwork.com/international/rubio-visits-india-energy-and-trade-cooperation-a-priority-62-59.html": 1792309250.2036836,
   "https://nagariknews.nagariknetwork.com/international/trump-suspends-implementation-of-economic-sanctions-and-tariffs-on-russia-99-69.html": 1792309250.2036836,
-  "https://nagariknews.nagariknetwork.com/Aparadh/absconding-prisoner-in-genji-movement-rape-case-arrested-from-sundarijal-79-41.html": 1792309250.2036836
+  "https://nagariknews.nagariknetwork.com/Aparadh/absconding-prisoner-in-genji-movement-rape-case-arrested-from-sundarijal-79-41.html": 1792309250.2036836,
+  "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTWZaT0tPTGNvYWtsR0JWa0dnMTRrS295STdFd0Rma1V2SjNrd2NqNVVqYVVBdkJEU3ktV1ktTjd4aHFqSTZDaE5scXRwamVFbXZER1pvOE8xa3Eyc201dzQ4NlhkN2lpdnh4X1hBUGwxX1VTc1lscWx0LVQ0VmxzQlNqR0ExTVZYNXJjZVI4WGl1enRUa2t6ZFZRcjZfMk1IRXMtcGpZaWFJdk5KQ2ZtRWswQ00zNWVvNFFQVl9qSVA?oc=5": 1792310485.527029,
+  "https://nagariknews.nagariknetwork.com/politics/mahesh-basnet-s-question-why-one-criterion-when-ravi-was-arrested-and-another-when-sushil-bhatta-was-arrested-28-72.html": 1792310485.527029,
+  "https://news.google.com/rss/articles/CBMicEFVX3lxTE5jUXN6eUpwWE44Z3Z0SFVtM3pRVFBCUnJ2X2FrYU5PM0N4a3RRbVFCTmtSUXJiM25aR1ZkSWctcDk3b2VHUzN2REJKeVZUeFh4WTRHYUVhQlZaS016QjI1dEdSM0w3bzdXNEEwaGljR3U?oc=5": 1792310485.527029
  },
  "queue": [
   {
@@ -1693,29 +1696,6 @@
    "val": 2,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "Authorities Fail to Enforce Meat Price Caps Amidst Festival Demand",
-   "summary": "Biratnagar. Meat consumption has increased in the context of Dashain. Despite the local administration setting a maximum retail price for...",
-   "link": "http://english.ratopati.com/story/84068/despite-increased-meat-production-in-koshi-consumers-are-forced-to-pay-higher-prices",
-   "source": "Ratopati EN",
-   "ts": 1792284300,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/masu-1_vLP4V5iLfV.webp",
-   "lang": "en",
-   "hl": "Authorities Fail to Enforce Meat Price Caps Amidst Festival Demand",
-   "en": "Authorities Fail to Enforce Meat Price Caps Amidst Festival Demand",
-   "ne": "Authorities Fail to Enforce Meat Price Caps Amidst Festival Demand",
-   "imp": 3,
-   "tags": [
-    "Dashain",
-    "MeatPrices",
-    "Market"
-   ],
-   "cat": "economy",
-   "val": 2,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "हर्षोल्लासको सन्देश दिने मालश्री धुन",
@@ -3780,7 +3760,7 @@
    "cat": "world",
    "val": 3,
    "teaser": false,
-   "hits": 4
+   "hits": 5
   },
   {
    "title": "Flood-displaced settlements at risk from \"toxic liquor\"",
@@ -4423,7 +4403,7 @@
    "cat": "other",
    "val": 1,
    "teaser": true,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "दसैँको रौनकसँगै हराउँदै रातो माटो र कमेरोको संस्कृति",
@@ -7755,9 +7735,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "sports"
+  },
+  {
+   "ts": 1792310490.3142962,
+   "en": "Authorities Fail to Enforce Meat Price Caps Amidst Festival Demand",
+   "ne": "Authorities Fail to Enforce Meat Price Caps Amidst Festival Demand",
+   "link": "http://english.ratopati.com/story/84068/despite-increased-meat-production-in-koshi-consumers-are-forced-to-pay-higher-prices",
+   "source": "Ratopati EN",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "economy"
   }
  ],
- "updated": 1792309858,
+ "updated": 1792310502,
  "pending_since": 1792309854.6395366,
  "fb_blocks": [
   1790350880.4125228,
