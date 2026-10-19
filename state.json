@@ -1174,7 +1174,9 @@
   "http://english.ratopati.com/story/84131/impact-of-westerly-winds-across-the-country-possibility-of-light-rain-and-snowfall-in-hilly-and-mountainous-areas": 1792371052.3139749,
   "https://nagariknews.nagariknetwork.com/sports/maduke-scores-decisive-goal-as-arsenal-beat-nottingham-br-18-75.html": 1792372249.2410798,
   "http://english.ratopati.com/story/84136/real-madrid-win-easily-on-mbappes-goal": 1792372249.2410798,
-  "https://news.google.com/rss/articles/CBMicEFVX3lxTE13SlM1ZHpaZm9JYVhMcy1xVDE2TGpJR0d5elIza1d3amFkaDBiSlFldldYVzc3WEdnelBqODVQMmUyLWRQbTlPTXNLb1NXRGM0c0R1YmRLX2l0WVhIRHNaaUZFanJhelRERGhPSlBGM0E?oc=5": 1792372849.9610205
+  "https://news.google.com/rss/articles/CBMicEFVX3lxTE13SlM1ZHpaZm9JYVhMcy1xVDE2TGpJR0d5elIza1d3amFkaDBiSlFldldYVzc3WEdnelBqODVQMmUyLWRQbTlPTXNLb1NXRGM0c0R1YmRLX2l0WVhIRHNaaUZFanJhelRERGhPSlBGM0E?oc=5": 1792372849.9610205,
+  "https://nagariknews.nagariknetwork.com/sports/nepali-women-s-u-19-cricket-team-holds-closed-training-in-bhairahawa-br-43-85.html": 1792373474.1816638,
+  "https://kathmandupost.com/national/2026/10/19/police-hunt-nepali-links-to-21-75-kg-gold-smuggling-racket": 1792373474.1816638
  },
  "queue": [
   {
@@ -1402,7 +1404,7 @@
    "cat": "sports",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "कहाँ-कहाँ हुनेछ आज वर्षा र हिमपात ?",
@@ -1606,17 +1608,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1791768059.2442589,
-   "en": "Floods and road blockages disrupt Dashain meat supply in Kathmandu",
-   "ne": "Floods and road blockages disrupt Dashain meat supply in Kathmandu",
-   "link": "https://english.onlinekhabar.com/dashain-meat-supply-hit-floods.html",
-   "source": "Onlinekhabar EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "economy"
-  },
   {
    "ts": 1791769858.9058533,
    "en": "कांग्रेस सहमहामन्त्री मतगणना: रामहरि खतिवडाको अग्रता कायमै",
@@ -4731,7 +4722,7 @@
    "cat": "sports"
   }
  ],
- "updated": 1792372853,
+ "updated": 1792373477,
  "pending_since": 1792371683.434755,
  "fb_blocks": [
   1790350880.4125228,
