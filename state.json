@@ -1,8 +1,5 @@
 {
  "seen": {
-  "https://nagariknews.nagariknetwork.com/politics/kishor-shrestha-was-taken-to-the-cyber-bureau-for-discussion-83-51.html": 1792223452.6130092,
-  "https://nagariknews.nagariknetwork.com/social-affairs/187-000-new-voters-added-br-57-93.html": 1792223452.6130092,
-  "http://lokaantar.com/story/331497/2026/10/17/kishor-and-himesh-": 1792223452.6130092,
   "https://baahrakhari.com/detail/505206": 1792224087.9902036,
   "https://www.setopati.com/social/401025": 1792224649.961006,
   "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNTNSQ01DbmJrVjRqeWpCT2ozclowZDF6X25fSHo2YzN4TkRSMUREY2IwTUdIR2Z1TVNiNzRWMHpKREM5V1pUaU1JNG1xSXV4U2szaTRoeGdHX1A0N0hEMWswci1iTlhCU25oSXk5QjI0ZDJKSy1JdnQ2N3BrMkJoT2FCV2xwVGk0cm5BejF5LWVvTjdVS2lRalNrMy1BaEwyUWdlNk9TVkNaZ1BGbFN4RDVSNA?oc=5": 1792224649.961006,
@@ -1395,29 +1392,6 @@
    "val": 3,
    "teaser": false,
    "hits": 2
-  },
-  {
-   "title": "काभ्रेमा गाडी २०० मिटर तल खस्यो, तीन जनाको उद्धार",
-   "summary": "काभ्रेपलाञ्चोकको नमोबुद्ध नगरपालिका-२ दुबैगैँडामा गाडी दुर्घटना हुँदा तीन जना घाइते भएका छन्।",
-   "link": "https://www.setopati.com/social/401088",
-   "source": "Setopati",
-   "ts": 1792372740,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "काभ्रेमा गाडी २०० मिटर तल खस्यो, तीन जनाको उद्धार",
-   "en": "काभ्रेमा गाडी २०० मिटर तल खस्यो, तीन जनाको उद्धार",
-   "ne": "काभ्रेमा गाडी २०० मिटर तल खस्यो, तीन जनाको उद्धार",
-   "imp": 3,
-   "tags": [
-    "Kavre",
-    "CarAccident",
-    "दुर्घटना"
-   ],
-   "cat": "accident",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
   },
   {
    "title": "The festival season Nepal cannot celebrate like before",
@@ -3860,17 +3834,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1791790863.9180355,
-   "en": "Malaysian banks halt loan demands for families of 54 missing in Nepal floods",
-   "ne": "Malaysian banks halt loan demands for families of 54 missing in Nepal floods",
-   "link": "https://www.thestar.com.my/news/nation/2026/10/12/banks-halt-loan-demands-for-families-of-54-missing-malaysians-in-nepal-floods",
-   "source": "The Star",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": true,
-   "cat": "disaster"
-  },
   {
    "ts": 1791791488.566743,
    "en": "धादिङको गजुरी-गलौँदी सडकखण्ड त्रिशूली नदी कटानका कारण राति ११ बजे देखि बिहान ५ बजे सम्म बन्द",
@@ -6983,9 +6946,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "disaster"
+  },
+  {
+   "ts": 1792396258.7403457,
+   "en": "काभ्रेमा गाडी २०० मिटर तल खस्यो, तीन जनाको उद्धार",
+   "ne": "काभ्रेमा गाडी २०० मिटर तल खस्यो, तीन जनाको उद्धार",
+   "link": "https://www.setopati.com/social/401088",
+   "source": "Setopati",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "accident"
   }
  ],
- "updated": 1792395654,
+ "updated": 1792396273,
  "pending_since": 1792395070.5209084,
  "fb_blocks": [
   1790350880.4125228,
