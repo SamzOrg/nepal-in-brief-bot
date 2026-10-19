@@ -1220,30 +1220,6 @@
    "hits": 1
   },
   {
-   "title": "Mumbai To Nepal Via Delhi: How Tiger Shroff Shooters' Escape Route Was Cut Short In Kota",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPR243ZlhhMUtvakl5X1VEcTJTOGFkZTRpX3JwWDllbkQyUEMxaWREUFJSdWVNejl4Wjl4aEtRb2VTdVczS3BLc3RRdkU1Ymd0U0NCeDZtSVQ1NWFXaElfZ1l0QzI0OGFlNXdtUGg5Q3lJdFFSQnkxNERLUk5CcUpwaW5veHh6M09ISmQ1LWtyOVB3VXpwZVdHejJFV0syMHRQUWJnd19DR1JuM1JNRUdOUG5qdXlGVnB6SkIwSjdkdkFpcm1VTzFV0gHPAUFVX3lxTE5yVGVaeTA5cmQxMmVldXZ3eHRKY2o2RjZucHlCazJOdGh2bC1zdTQ0eXp1a2YtWllMa2ExcHNtYm9QenBYdzNsTW4zMjUxUE9IZWs3eWQ0TjRjR0dEREZtOUFjdXRDcmgzTXFmaVNoek1xU0hoVzVJcjV6NTViMjJTMnRsWnNYYk9aamZIbGFLMF9pb1EwM1F6eERZVE1Od2UtYkQ2RkczSjRsMU54NnRPa2IwdUNkcHFlcjJCQzdidkxQYzhLSUtIUjF0dHdXVQ?oc=5",
-   "source": "NDTV Profit",
-   "ts": 1792423411,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Mumbai To Nepal Via Delhi: How Tiger Shroff Shooters' Escape Route Was Cut Short In Kota",
-   "en": "Mumbai To Nepal Via Delhi: How Tiger Shroff Shooters' Escape Route Was Cut Short In Kota",
-   "ne": "Mumbai To Nepal Via Delhi: How Tiger Shroff Shooters' Escape Route Was Cut Short In Kota",
-   "imp": 2,
-   "tags": [
-    "TigerShroff",
-    "Kota",
-    "Delhi",
-    "Mumbai"
-   ],
-   "cat": "crime",
-   "val": 3,
-   "teaser": false,
-   "hits": 4
-  },
-  {
    "title": "खसी बेचेर दशैं खर्च जुटाउँदै",
    "summary": "\"महिला दिदीबहिनीले हुर्काएका खसीबोका बिक्रीका लागि सहकारीमा तौल गराउनुहुन्छ, हामीले बिक्री वितरण गर्ने गरेका छौँ,\" शाहले भनिन्।...",
    "link": "https://nagariknews.nagariknetwork.com/economy/raising-money-for-dashain-by-selling-goats-13-99.html",
@@ -1263,30 +1239,6 @@
    ],
    "cat": "society",
    "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "पोखरा-दुबई सिधा उडान : तीन हप्तामा करिब ५ हजारजना आउजाउ",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/505329",
-   "source": "Baahrakhari",
-   "ts": 1792423560,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "पोखरा-दुबई सिधा उडान : तीन हप्तामा करिब ५ हजारजना आउजाउ",
-   "en": "पोखरा-दुबई सिधा उडान : तीन हप्तामा करिब ५ हजारजना आउजाउ",
-   "ne": "पोखरा-दुबई सिधा उडान : तीन हप्तामा करिब ५ हजारजना आउजाउ",
-   "imp": 2,
-   "tags": [
-    "Pokhara",
-    "Dubai",
-    "Flight",
-    "पोखरा"
-   ],
-   "cat": "economy",
-   "val": 3,
    "teaser": false,
    "hits": 1
   },
@@ -1498,17 +1450,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1791847259.8073182,
-   "en": "साढे दुई महिनामा ६,१६४ सवारी दुर्घटना, ५०१ जनाको मृत्यु",
-   "ne": "साढे दुई महिनामा ६,१६४ सवारी दुर्घटना, ५०१ जनाको मृत्यु",
-   "link": "https://gorkhapatraonline.com/news/226457",
-   "source": "Gorkhapatra",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "society"
-  },
   {
    "ts": 1791849061.0197113,
    "en": "कांग्रेस महाधिवेशन : आदिवासी जनजाति खुलातर्फ तीर्थ लामाको अग्रता",
@@ -4601,7 +4542,7 @@
    "cat": "society"
   }
  ],
- "updated": 1792452075,
+ "updated": 1792452668,
  "pending_since": 1792452050.8451993,
  "fb_blocks": [
   1790350880.4125228,
