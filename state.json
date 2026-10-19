@@ -1,8 +1,5 @@
 {
  "seen": {
-  "https://nagariknews.nagariknetwork.com/politics/newly-elected-nepali-congress-president-gagan-thapa-to-be-sworn-in-today-89-93.html": 1792204265.8217478,
-  "http://lokaantar.com/story/331480/2026/10/17/gagan-": 1792204265.8217478,
-  "http://english.ratopati.com/story/84006/attacks-in-gaza-still-ongoing-more-than-340-children-have-lost-their-lives-since-the-ceasefire": 1792204265.8217478,
   "https://baahrakhari.com/detail/505177": 1792204847.663605,
   "https://kathmandupost.com/sports/2026/10/17/teams-ditch-nsl-banner-to-form-new-nepal-football-league": 1792204847.663605,
   "http://english.ratopati.com/story/84008/us-budget-deficit-rises-to-nearly-2-trillion-highest-in-five-years": 1792204847.663605,
@@ -1189,7 +1186,11 @@
   "http://lokaantar.com/story/331568/2026/10/19/myagdi-": 1792376453.9206336,
   "http://english.ratopati.com/story/84141/two-arrested-for-stealing-scooters-in-kathmandu": 1792376453.9206336,
   "http://lokaantar.com/story/331566/2026/10/19/europe-andolan-": 1792376453.9206336,
-  "http://english.ratopati.com/story/84138/how-to-avoid-gastric-problems-during-dashain": 1792376453.9206336
+  "http://english.ratopati.com/story/84138/how-to-avoid-gastric-problems-during-dashain": 1792376453.9206336,
+  "https://baahrakhari.com/detail/505293": 1792377070.4244585,
+  "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdkR5LWtKb1QxTzIxU2FuZXVlSXZnQ3lGMjdZOGFxb1dnbkZnV3hRS1ctU2RyTEcwbEkteHk2elNqaTA2TmRsbkdZZVg2WEY3dlI1NDdSZDNOX2RTcllWcG1wM3JlM3dqajgyci12ek5FNWE1bEVTVWhLNDZQLW1UdUc1UlliWm1YaFJWNHoxZmVqUS1VTmFtZXNXZzdLQXEtcmt0WFNJd1kyWTItU0ZrQ1B4QzRLRkxkM19UaWxfVEZMT0taYlhn?oc=5": 1792377070.4244585,
+  "http://english.ratopati.com/story/84147/pakistans-winning-start-in-the-tri-nation-series": 1792377070.4244585,
+  "https://nagariknews.nagariknetwork.com/social-affairs/relief-distributed-to-49-families-affected-by-bhotekoshi-flood-19-54.html": 1792377070.4244585
  },
  "queue": [
   {
@@ -1963,7 +1964,7 @@
    "cat": "world",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "GANDAKI AND KARNALI PROVINCES' HIGHWAYS AFFECTED BY FLOODS AND LANDSLIDES",
@@ -2102,7 +2103,7 @@
    "cat": "world",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Netanyahu says will eliminate Iran threat with Trump after his endorsement",
@@ -2241,20 +2242,32 @@
    "val": 2,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "Pakistan Defeats Sri Lanka by 37 Runs in First Match of Tri-Series",
+   "summary": "Rawalpindi. With the help of Salman Ali Agha's excellent century and the sharp bowling of fast bowlers, Pakistan defeated Sri...",
+   "link": "http://english.ratopati.com/story/84147/pakistans-winning-start-in-the-tri-nation-series",
+   "source": "Ratopati EN",
+   "ts": 1792376891,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/pak-sri_Ut0vaoj3ar.webp",
+   "lang": "en",
+   "hl": "Pakistan Defeats Sri Lanka by 37 Runs in First Match of Tri-Series",
+   "en": "Pakistan Defeats Sri Lanka by 37 Runs in First Match of Tri-Series",
+   "ne": "Pakistan Defeats Sri Lanka by 37 Runs in First Match of Tri-Series",
+   "imp": 1,
+   "tags": [
+    "Pakistan",
+    "SriLanka",
+    "Cricket"
+   ],
+   "cat": "sports",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1791771661.059064,
-   "en": "NTA Warns Internet Service Providers Against Charging Excessive Rates in Nepal",
-   "ne": "NTA Warns Internet Service Providers Against Charging Excessive Rates in Nepal",
-   "link": "https://myrepublica.nagariknetwork.com/news/nta-warns-internet-companies-not-to-charge-excessively-than-the-agreed-pack-19-48.html",
-   "source": "myRepublica",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "tech"
-  },
   {
    "ts": 1791773461.0631654,
    "en": "गोरखाको चुमनुब्रीमा गएको पहिरोका कारण बुढीगण्डकी नदीमा आएको बाढीले पाँच जना बेपत्ता",
@@ -5369,8 +5382,8 @@
    "cat": "crime"
   }
  ],
- "updated": 1792376460,
- "pending_since": null,
+ "updated": 1792377076,
+ "pending_since": 1792377070.4244585,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
