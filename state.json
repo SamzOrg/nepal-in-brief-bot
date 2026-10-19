@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://kathmandupost.com/visual-stories/2026/10/17/shoppers-crowd-kathmandu-markets-for-phulpati": 1792210245.4156325,
   "https://news.google.com/rss/articles/CBMingFBVV95cUxOSGxBdTZrek5CRTQtLXhLWEh5WEdtUVhPVkZpM3VFaW5oLWVNX1dKYW5mcXU3djVPOFJ4aHVKNlRFNHpqMmJfeVpOa3dGWVFka01PU0ZfX2V4TFZaRWl3WWpvc3VaaDItOE9leXF3R0ZaNFhJbGVhMFRzdnhPSXBzVVlWNHFyMEJYLWRHbU1NLUpDb1p2aWJBTS00VURLUQ?oc=5": 1792210846.7277408,
   "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNzVXaFVfd0x3YUkyU2V5dDJxRFBCYXE4YzBtc1ZRTzRtY0F5NlhrYlVGU0g0blYwbkMtSmwwdUtFY1U0ZzFGU2FRYUVkZEZZOHAwZ0ZyYWMyeVVVZTIxd2RycmVGTncyckFkZEdWRVBHZzVpX1Zob2VSWWhVRk9HWXgzLVZEZzBOZFY3T1hwZnY3Yll6RVgxdWxINVkxNHcyNkVTYVhocnVhUzVqbUc1eEg5V3NoQQ?oc=5": 1792211467.331363,
   "https://gorkhapatraonline.com/news/226992": 1792212045.6798172,
@@ -2645,29 +2644,6 @@
    ],
    "cat": "crime",
    "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Nepal seeks law change on death certificates for Malaysians",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPV1Zic21DdVp0RWZPME8tdXlPUzhMNjNMNEdaSEFnRWdMWW9Wa0w0QXVQbmhRZFlLa0UwYzNtWVYzbS10ZjV3Nm1ja2s2TnJMMFdWdFk0bVVUVjBRMUFsOWE3cWNWX0VwWW16NWxNeFhnODA5QjJIRGdaT3RJaE8zdnd4NmJUZndi?oc=5",
-   "source": "Citizens Journal",
-   "ts": 1792382040,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Nepal seeks law change on death certificates for Malaysians",
-   "en": "Nepal seeks law change on death certificates for Malaysians",
-   "ne": "Nepal seeks law change on death certificates for Malaysians",
-   "imp": 3,
-   "tags": [
-    "Malaysia",
-    "DeathCertificate",
-    "NepalLaw"
-   ],
-   "cat": "politics",
-   "val": 2,
    "teaser": false,
    "hits": 1
   }
@@ -5785,9 +5761,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "society"
+  },
+  {
+   "ts": 1792383056.1971395,
+   "en": "Nepal seeks law change to speed up death certificates for 54 uncontactable Malaysians after floods",
+   "ne": "Nepal seeks law change to speed up death certificates for 54 uncontactable Malaysians after floods",
+   "link": "https://cj.my/159563/nepal-seeks-law-change-on-death-certificates-for-malaysians/",
+   "source": "Citizens Journal",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "politics"
   }
  ],
- "updated": 1792382492,
+ "updated": 1792383068,
  "pending_since": 1792382485.589701,
  "fb_blocks": [
   1790350880.4125228,
