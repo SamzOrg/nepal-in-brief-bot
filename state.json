@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://nagariknews.nagariknetwork.com/social-affairs/this-is-the-weather-today-23-68.html": 1792198882.6606183,
   "https://gorkhapatraonline.com/news/226961": 1792199449.3261707,
   "https://nagariknews.nagariknetwork.com/sports/nepal-plays-canada-has-a-chance-to-secure-a-place-in-the-top-6-29-72.html": 1792200047.2283692,
   "https://news.google.com/rss/articles/CBMingFBVV95cUxPT0l2N1hrMkNRZnVXTzA1VzBUdFVwYjZkYTZaZmphOXdUNWhxUXI0SzJwZ0FBMDN5cGJPWGpLTVdHUEtPU2w2UHJUNUdkU0ZPbnBNdThETXYyUFBZdWNaTWU5azRKX2VyRmh5N095dHJCMzR0SVhuRFByNVpDNTg4WDVyeUY5QlplLTROcVNXRVlMbmZtRmRVdHhSOEY0UQ?oc=5": 1792200047.2283692,
@@ -1226,28 +1225,6 @@
    "hits": 1
   },
   {
-   "title": "Iran's New Defense Minister Warns US of Major Losses if Military Action Resumes",
-   "summary": "Kathmandu. Iran's newly appointed Defense Minister Mehrdad Akhlaghi has warned that if the United States resumes military action against Iran,...",
-   "link": "http://english.ratopati.com/story/84129/irans-new-defense-minister-warns-of-major-damage-if-us-attacks",
-   "source": "Ratopati EN",
-   "ts": 1792342484,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/iran-flag_TkC5X0MaQr.webp",
-   "lang": "en",
-   "hl": "Iran's New Defense Minister Warns US of Major Losses if Military Action Resumes",
-   "en": "Iran's New Defense Minister Warns US of Major Losses if Military Action Resumes",
-   "ne": "Iran's New Defense Minister Warns US of Major Losses if Military Action Resumes",
-   "imp": 1,
-   "tags": [
-    "Iran",
-    "DefenseMinister"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Sudhakar Dalela appointed as next Ambassador of India to Nepal",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWDFiby1vWU51Rm5fbjllQnVIV2pwRGxBYWZZaDdMbl9TNzZsWWI5aFZJX1pDWUVWdTJQRjhhb2FSeHhtM0tOMjVjLThncklCWUlmNnF4dlFVZkNRaWswMVdQdmNnc1REZHM2OXRjRlItMndORi1sVXEyMkRnS3hSNnBkbWhvZ3RMVXhxdlVmNDV0UQ?oc=5",
@@ -1652,17 +1629,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1791766257.359401,
-   "en": "काभ्रेका अवैध क्रसर र खानीलाई मङ्सिर ७ गतेसम्म मापदण्डमा आउन समयसीमा",
-   "ne": "काभ्रेका अवैध क्रसर र खानीलाई मङ्सिर ७ गतेसम्म मापदण्डमा आउन समयसीमा",
-   "link": "https://nagariknews.nagariknetwork.com/economy/deadline-for-illegal-crushers-and-mines-in-kavre-to-comply-with-standards-29-26.html",
-   "source": "Nagarik News",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "society"
-  },
   {
    "ts": 1791768059.2442589,
    "en": "Floods and road blockages disrupt Dashain meat supply in Kathmandu",
@@ -4777,8 +4743,8 @@
    "cat": "tech"
   }
  ],
- "updated": 1792371063,
- "pending_since": null,
+ "updated": 1792371687,
+ "pending_since": 1792371683.434755,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
