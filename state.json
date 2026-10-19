@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://theannapurnaexpress.com/story/68000": 1792213847.2747655,
   "https://kathmandupost.com/national/2026/10/17/nepal-s-leaders-call-for-unity-as-shah-highlights-dashain-s-financial-strain": 1792214447.2109213,
   "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOVhOZjAwdzVTamxqUjlqNjNtNzJnSG1Rb1ZxWmlJMm9OdjZkRi1BWjdGb2tYR2RXelJkWS1tZUN4dUVQU2VSYkhuajRfcDkzeXd0VmdjOVhMMWpHR1hKbXBxaDl1OVV3Yk5MZG03dG1keC1oY19QOWdaVTJaOTh0Y3IzRWM5bVVyN3pDX2hXYnV6Nk5kN1VOZ1FxVmpzc19zaUVpaTMxZFZISXdLamJoT2ZhM1lZNG5aY0xiQmhXNA?oc=5": 1792214447.2109213,
   "https://english.onlinekhabar.com/how-the-geopolitical-stigma-associated-with-putins-russia-is-affecting-ordinary-russians.html": 1792214447.2109213,
@@ -1177,7 +1176,10 @@
   "https://kathmandupost.com/national/2026/10/19/as-old-dashain-customs-fade-the-village-swing-holds-high": 1792386089.6482759,
   "http://lokaantar.com/story/331584/2026/10/19/yak-": 1792386089.6482759,
   "http://lokaantar.com/story/331581/2026/10/19/film-": 1792386089.6482759,
-  "http://lokaantar.com/story/331580/2026/10/19/bomb-": 1792386089.6482759
+  "http://lokaantar.com/story/331580/2026/10/19/bomb-": 1792386089.6482759,
+  "https://nagariknews.nagariknetwork.com/social-affairs/highways-in-three-districts-blocked-77-47.html": 1792386650.7168467,
+  "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNd3JlSE9keFM0cWpBcmRMNW9ocktfVmFrMVVpYkcyZ1Y4c2xKZDlCdnFfb1lIRnBYejZfcE52TWdNNUNiR0t4V0VpQlI2Wkg1aEtWZFY0WnZwSHM3RTdmUi1wUGZuSURKaUo1cENHV1NSdHZhdDhqdWNpRGs4d01TRG1DMThmbDQyR0ZXM2puRnFRVEhfaUN3ZlZCZHo4Q3JtV1o0TUF1SGJsWUNfOWhRR0xzaUpGTVFUQXpnbFJaWEZjdw?oc=5": 1792386650.7168467,
+  "https://theannapurnaexpress.com/story/68059": 1792386650.7168467
  },
  "queue": [
   {
@@ -1472,7 +1474,7 @@
    "cat": "sports",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "काभ्रेमा गाडी २०० मिटर तल खस्यो, तीन जनाको उद्धार",
@@ -1771,29 +1773,6 @@
    "val": 3,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "गोकर्णेश्वरमा मोटरसाइकल दुर्घटना : एकजनाको मृत्यु, एक गम्भीर घाइते",
-   "summary": "मोटरसाइकलको पछाडि सवार भारत घर भई हाल काठमाडौं महानगरपालिका-६, तिनचुली बस्ने १६ वर्षीय महमद जसिमको मृत्यु भएको प्रहरीले जनाएकाे छ ।",
-   "link": "https://baahrakhari.com/detail/505292",
-   "source": "Baahrakhari",
-   "ts": 1792375630,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "गोकर्णेश्वरमा मोटरसाइकल दुर्घटना : एकजनाको मृत्यु, एक गम्भीर घाइते",
-   "en": "गोकर्णेश्वरमा मोटरसाइकल दुर्घटना : एकजनाको मृत्यु, एक गम्भीर घाइते",
-   "ne": "गोकर्णेश्वरमा मोटरसाइकल दुर्घटना : एकजनाको मृत्यु, एक गम्भीर घाइते",
-   "imp": 3,
-   "tags": [
-    "Gokarneshwor",
-    "MotorcycleAccident",
-    "दुर्घटना"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 3
   },
   {
    "title": "क्यानडाको सैन्य शिविरमा डढेलो: ४ सैनिकको मृत्यु, ३९ घाइते",
@@ -2367,7 +2346,7 @@
    "cat": "sports",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Nepal's exports could double if constraints removed",
@@ -6461,10 +6440,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "crime"
+  },
+  {
+   "ts": 1792386657.2570932,
+   "en": "गोकर्णेश्वरमा मोटरसाइकल दुर्घटना हुँदा एकजनाको मृत्यु, एक घाइते",
+   "ne": "गोकर्णेश्वरमा मोटरसाइकल दुर्घटना हुँदा एकजनाको मृत्यु, एक घाइते",
+   "link": "https://baahrakhari.com/detail/505292",
+   "source": "Baahrakhari",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "disaster"
   }
  ],
- "updated": 1792386098,
- "pending_since": null,
+ "updated": 1792386672,
+ "pending_since": 1792386650.7168467,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
