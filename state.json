@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMiswFBVV95cUxOX1dxM3RmQk9WY2ZpLUxzdGRGakRrVGJoaFRFSGp3eGdnTlpMVG5rWEhMVHdLeVlvbVRjb0pBMmhnMXd6VDhkQVJZSjI0clZiVEdOVUYwYkNra0l1WlV1QUFPVWVsNDNCakNtak1NcW0wTXFfc3hEQ0RXT01RbERDeXUydlRIU3pVeFgzVDRzNEF4Q1FxeEs3S1k0RE9zdFlVaFdhRVE3M1dyazQ4N3VqWGN0NNIBtwFBVV95cUxQd3lNeFg3WFVFOXZRbVd4MkR1Mk5WZzNBbExOcU1jaV9EZDJnLVNOMDJHOHhnblJETFNHbWROTjU5Z1JhRzV5T0czMV9iTWlLQUJBUzVtaGZaRVBDMFIydUkxWlB1UVpfZ2tPb3YwNmtNMlNEa0pKWlNLZWZfMklxSDlTNm1GZXpWN0FpR1lQbzNQblhCbmtZdzR5eTVtbUlNRmtpdFdFTGlaeTI2MUR5dnlub3FESHc?oc=5": 1792278086.6197603,
-  "https://news.google.com/rss/articles/CBMiZEFVX3lxTE02TG1mNWNpbk8yUHkxeHFHTzg4VWVneGdMN1BIZkNtNUg4d2VSdjAzaW45REJnX21ua0hqV1RPcWdiVWtrVjJLSG1MMXlmUHpXYTctdEJ1LVFHX3hWYi1YUE00ZlQ?oc=5": 1792278086.6197603,
   "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9mYkEzTW1fclVoalNSQXhUc2pVM2t2anhPa25hTkJFekVhNXlYWl80OHg1andCR2hmXzBnS051RV94OW5RSlBMVDRpTQ?oc=5": 1792280447.1347048,
   "https://theannapurnaexpress.com/story/68024": 1792280447.1347048,
   "https://theannapurnaexpress.com/story/68023": 1792280447.1347048,
@@ -1311,29 +1309,6 @@
    ],
    "cat": "world",
    "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "दशैंको शक्ति धार्मिक अनुष्ठान मात्र नभइ सामाजिक एकतामा पनि छ: डा. गोविन्द टण्डन",
-   "summary": "नवरात्रले गर्दाखेरि यो साधनाको पर्व पनि भयो । अब यो साधनाको पर्व भएको हुनाले, आफैँले आफैँलाई चिन्ने अवसरको पनि यो एउटा ठूलो सांस्कृतिक अभिन्न अङ्ग हो ।...",
-   "link": "https://nagariknews.nagariknetwork.com/Dharma-Saskriti/the-power-of-dashain-lies-not-only-in-religious-rituals-but-also-in-social-unity-dr-govinda-tandon-39-59.html",
-   "source": "Nagarik News",
-   "ts": 1792422573,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1792422561_Govinda.png",
-   "lang": "ne",
-   "hl": "दशैंको शक्ति धार्मिक अनुष्ठान मात्र नभइ सामाजिक एकतामा पनि छ: डा. गोविन्द टण्डन",
-   "en": "दशैंको शक्ति धार्मिक अनुष्ठान मात्र नभइ सामाजिक एकतामा पनि छ: डा. गोविन्द टण्डन",
-   "ne": "दशैंको शक्ति धार्मिक अनुष्ठान मात्र नभइ सामाजिक एकतामा पनि छ: डा. गोविन्द टण्डन",
-   "imp": 2,
-   "tags": [
-    "Dashain",
-    "SocialUnity",
-    "दसैँ"
-   ],
-   "cat": "culture",
-   "val": 2,
    "teaser": false,
    "hits": 1
   },
@@ -4661,8 +4636,8 @@
    "cat": "crime"
   }
  ],
- "updated": 1792450883,
- "pending_since": 1792450880.7015767,
+ "updated": 1792451453,
+ "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
