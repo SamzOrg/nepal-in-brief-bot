@@ -3881,17 +3881,6 @@
  ],
  "posted": [
   {
-   "ts": 1791789662.1173038,
-   "en": "सामसङ नेपालद्वारा बाढी प्रभावित क्षेत्रका बासिन्दाका लागि विशेष मर्मत सेवा अभियान घोषणा",
-   "ne": "सामसङ नेपालद्वारा बाढी प्रभावित क्षेत्रका बासिन्दाका लागि विशेष मर्मत सेवा अभियान घोषणा",
-   "link": "http://lokaantar.com/story/331122/2026/10/12/samsung-nepal-",
-   "source": "Lokaantar",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "tech"
-  },
-  {
    "ts": 1791790863.9180355,
    "en": "Malaysian banks halt loan demands for families of 54 missing in Nepal floods",
    "ne": "Malaysian banks halt loan demands for families of 54 missing in Nepal floods",
@@ -7016,8 +7005,8 @@
    "cat": "disaster"
   }
  ],
- "updated": 1792394474,
- "pending_since": null,
+ "updated": 1792395073,
+ "pending_since": 1792395070.5209084,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
