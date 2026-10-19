@@ -1196,7 +1196,10 @@
   "https://nagariknews.nagariknetwork.com/economy/sheep-meat-worth-rs-350-million-exported-via-mustang-during-dashain-32-14.html": 1792374052.1039805,
   "https://nagariknews.nagariknetwork.com/social-affairs/the-weather-will-remain-clear-today-14-48.html": 1792374052.1039805,
   "http://english.ratopati.com/story/84139/jiohotstar-enters-nepal-in-partnership-with-digoo": 1792374650.4676194,
-  "https://www.setopati.com/social/401089": 1792374650.4676194
+  "https://www.setopati.com/social/401089": 1792374650.4676194,
+  "http://english.ratopati.com/story/84140/red-bull-becomes-the-main-sponsor-of-everest-womens-volleyball-league-agreement-for-the-next-three-editions": 1792375282.2109246,
+  "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMlNtb05DOFZwTVJNcU53SFFWaHI4MnNEQUVZWVUydEt1c3lNdFdrbmRMTFpVSzVPRm5meTMya3Y5TjZNSEo1ZloxQ091QkR2OXpqNWFEeEtWdWpPdkpTNHlMbGR3WlI3eWNFUlIxa1UxTmw3X1pfdjROSjFOYVNKejV4YjZOb3A0ZTctdzF2dFA5Yzg2YjNCYVRUelkwWlF1VFRwRjhHazRGdDdHOENTVF8yVQ?oc=5": 1792375282.2109246,
+  "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVWdUbVdONW9oSXViY1M4T0w4MlM4MTliblpCMnRLSGVsYm1JQ0VtNkxBN2ZwNjlRdXhjSEE3UzZnNUVmbzBzWVVWQlY1RzB3Y2FqLU5WOVV4TEt4bDNLNmZnN3ZfcmR4amdHV1V4bG9INzBRbnlIa0NVLW9NN3VObC1mMEllM1hMMDFHY01EVDlrSm45RlRTQm9tVlRlMWYzOVE?oc=5": 1792375282.2109246
  },
  "queue": [
   {
@@ -1380,7 +1383,7 @@
    "cat": "politics",
    "val": 1,
    "teaser": true,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Four Soldiers Die in Alberta Military Camp Fire",
@@ -1695,7 +1698,7 @@
    "cat": "culture",
    "val": 1,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Three Injured in Hyace Microbus Accident on BP Highway in Namobuddha",
@@ -1974,17 +1977,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1791769858.9058533,
-   "en": "कांग्रेस सहमहामन्त्री मतगणना: रामहरि खतिवडाको अग्रता कायमै",
-   "ne": "कांग्रेस सहमहामन्त्री मतगणना: रामहरि खतिवडाको अग्रता कायमै",
-   "link": "https://www.setopati.com/politics/400623",
-   "source": "Setopati",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "politics"
-  },
   {
    "ts": 1791771661.059064,
    "en": "NTA Warns Internet Service Providers Against Charging Excessive Rates in Nepal",
@@ -5099,7 +5091,7 @@
    "cat": "economy"
   }
  ],
- "updated": 1792374655,
+ "updated": 1792375285,
  "pending_since": 1792374650.4676194,
  "fb_blocks": [
   1790350880.4125228,
