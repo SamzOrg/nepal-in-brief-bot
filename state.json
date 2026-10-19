@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://gorkhapatraonline.com/news/226995": 1792215066.9000208,
-  "https://nagariknews.nagariknetwork.com/social-affairs/insurance-claim-for-bhotekoshi-floods-rs-21-billion-26-55.html": 1792215066.9000208,
   "http://lokaantar.com/story/331491/2026/10/17/rescue": 1792215647.9552538,
   "https://baahrakhari.com/detail/505192": 1792215647.9552538,
   "https://risingnepaldaily.com/news/87905": 1792216253.6674063,
@@ -1158,7 +1156,12 @@
   "http://lokaantar.com/story/331580/2026/10/19/bomb-": 1792386089.6482759,
   "https://nagariknews.nagariknetwork.com/social-affairs/highways-in-three-districts-blocked-77-47.html": 1792386650.7168467,
   "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNd3JlSE9keFM0cWpBcmRMNW9ocktfVmFrMVVpYkcyZ1Y4c2xKZDlCdnFfb1lIRnBYejZfcE52TWdNNUNiR0t4V0VpQlI2Wkg1aEtWZFY0WnZwSHM3RTdmUi1wUGZuSURKaUo1cENHV1NSdHZhdDhqdWNpRGs4d01TRG1DMThmbDQyR0ZXM2puRnFRVEhfaUN3ZlZCZHo4Q3JtV1o0TUF1SGJsWUNfOWhRR0xzaUpGTVFUQXpnbFJaWEZjdw?oc=5": 1792386650.7168467,
-  "https://theannapurnaexpress.com/story/68059": 1792386650.7168467
+  "https://theannapurnaexpress.com/story/68059": 1792386650.7168467,
+  "https://baahrakhari.com/detail/505304": 1792387874.9747694,
+  "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVmpRVnByUzlidWlrTUw3aVA3Mm53cjZnd1N0ZWRIUDFBcTl1VWJreFFsQ2xiSjVCRlZocmFIVzFQLUk4bFpBSVFrRHloamJZbGc3QkVNZUQweUNnY0NJSGowV2hJT3A1LTdJMDlMbVJoQk9odGtjTmQ5V3JuN0VXOTBrX1VKMFQxbEtOMEs2NzJCMEZUbXFaSVR4ZXBOWDJ0RVRkUXNR0gGrAUFVX3lxTE1JdjBxQ3psbU5KNDlGUmc5eTlLUUJXdlRzeGRUR0FqZGNFaUFVNW1fbnU2a3V3WDJLektMVjBKVWltZWRsdUo0LTR3b2JVbVZFWjJuMjFQTGJXQUtIMUJMTkIwbzdXNEkwZ3YtbXYycDVtSjJwVGVnaUZpN0VVNVRkU0N1SmpZY3hpaHFZUGhvbnQ1cE9FalMtWUcyUXRKc0QtaTBSRDVlLVFlTQ?oc=5": 1792387874.9747694,
+  "http://lokaantar.com/story/331587/2026/10/19/nepal-oman-": 1792387874.9747694,
+  "https://nagariknews.nagariknetwork.com/sports/nepal-wins-toss-against-oman-elects-to-bat-first-br-24-53.html": 1792387874.9747694,
+  "https://nagariknews.nagariknetwork.com/social-affairs/three-hundred-households-in-jaljala-affected-by-floods-and-landslides-br-19-57.html": 1792387874.9747694
  },
  "queue": [
   {
@@ -3304,20 +3307,57 @@
    "val": 3,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "ओमानविरुद्ध नेपालले टस जित्यो, पहिले ब्याटिङ गर्दै",
+   "summary": "आइसिसी विश्वकप लिग-२ अन्तर्गतको अन्तिम खेलमा आज नेपालले ओमानविरुद्ध टस जितेको छ।",
+   "link": "https://nagariknews.nagariknetwork.com/sports/nepal-wins-toss-against-oman-elects-to-bat-first-br-24-53.html",
+   "source": "Nagarik News",
+   "ts": 1792387519,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2026/third-party/1792387494_oman%20nepal.jpg",
+   "lang": "ne",
+   "hl": "ओमानविरुद्ध नेपालले टस जित्यो, पहिले ब्याटिङ गर्दै",
+   "en": "ओमानविरुद्ध नेपालले टस जित्यो, पहिले ब्याटिङ गर्दै",
+   "ne": "ओमानविरुद्ध नेपालले टस जित्यो, पहिले ब्याटिङ गर्दै",
+   "imp": 4,
+   "tags": [
+    "NepalCricket",
+    "Oman",
+    "Cricket",
+    "क्रिकेट"
+   ],
+   "cat": "sports",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "बाढीपहिरोबाट जलजलाका तीन सय घरपरिवार प्रभावित",
+   "summary": "पछिल्लो मनसुनजन्य विपदबाट म्याग्दीको सदरमुकाम बेनी बजारसँगै रहेको पर्वतको जलजला गाउँपालिकामा ३०० भन्दाबढी घरपरिवार प्रभावित भएका छन्।...",
+   "link": "https://nagariknews.nagariknetwork.com/social-affairs/three-hundred-households-in-jaljala-affected-by-floods-and-landslides-br-19-57.html",
+   "source": "Nagarik News",
+   "ts": 1792386807,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2026/third-party/1786882313_pahiro%20landslides.jpg",
+   "lang": "ne",
+   "hl": "बाढीपहिरोबाट जलजलाका तीन सय घरपरिवार प्रभावित",
+   "en": "बाढीपहिरोबाट जलजलाका तीन सय घरपरिवार प्रभावित",
+   "ne": "बाढीपहिरोबाट जलजलाका तीन सय घरपरिवार प्रभावित",
+   "imp": 4,
+   "tags": [
+    "Flood",
+    "Landslide",
+    "Jaljala",
+    "बाढीपहिरो"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1791782462.838924,
-   "en": "Landslide at Bhasbhase in Myagdi damages alternative road and triggers traffic jams",
-   "ne": "Landslide at Bhasbhase in Myagdi damages alternative road and triggers traffic jams",
-   "link": "https://english.khabarhub.com/2026/12/571644/",
-   "source": "Khabarhub EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "disaster"
-  },
   {
    "ts": 1791784266.3348982,
    "en": "Nepal flash floods: Over 150 tourists stranded as six bridges collapse, isolating remote settlements | VIDEO",
@@ -6432,7 +6472,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1792387256,
+ "updated": 1792387884,
  "pending_since": 1792386650.7168467,
  "fb_blocks": [
   1790350880.4125228,
