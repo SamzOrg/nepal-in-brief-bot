@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://risingnepaldaily.com/news/87911": 1792242611.1003501,
-  "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5NTZjNFhobm85R1lBOHNvUE1VQzRZNThsS3ZoQTlsSnBOdmo5RFd3UUlUSWREM1lzTlR6eUN5RE8yYzFFOERvbUQzekROMjBGSjBIbHdoSWNRRFU?oc=5": 1792242611.1003501,
   "https://www.setopati.com/social/401041": 1792243246.4259274,
   "https://news.google.com/rss/articles/CBMiggFBVV95cUxPU1dGS09wY292YkQ5MjRCbmJ2MVVxaWVtcFVvZjF2Y3RfNmJ2RHNmekZkcFlGbEs3bFNBMEpWUWZKRDUwbjJ5VlFSNEJPbFJQb0RvQmxPUzg4Q1N1U3ZoM3p1TGlSM1FjcnNodnY5NzJKNVpZdEE4RzdqTGdwM2JNTTZn?oc=5": 1792243246.4259274,
   "https://news.google.com/rss/articles/CBMisAFBVV95cUxNU2syUzg4Qy1OemhYRzJiVHlqU2JSTktDUUJpbEVaRlJsd2tHOFBHR1RVQmpGWFo3ZWM0X2RzSHRMWklPYmk3TXk2c2FHQ1ZtYlV4THUxTWVubDNsOWx6elFpMVUxZFJnMC1YWUdueWNSNG1pLTNkOFUxcHpSZFRnQmowNUhteW9sa0FxUFpfcVV6aXYyOE9zRGNsMzl3M2Y0aHNrLUR2dXVyWGUySkpyYw?oc=5": 1792243871.283726,
@@ -1415,29 +1413,6 @@
    "tags": [
     "SnakeRescue",
     "MunicipalPolice"
-   ],
-   "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "दसैँमा दुई दिन बन्दीपुर केबलकार सेवा बन्द हुने",
-   "summary": "समाचारको सारांशदसैँमा दुई दिन बन्दीपुर केबलकार सेवा बन्द हुनेदसैँमा दुई दिन बन्दीपुर केबलकार सेवा बन्द हुनेदसैँमा दुई दिन बन्दीपुर केबलकार सेवा बन्द हुने...",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/bandipur-cable-car-service-to-be-closed-for-two-days-during-dashain-98-81.html",
-   "source": "Nagarik News",
-   "ts": 1792386430,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1764139357_1752131277_bandipur-1200x560.jpg",
-   "lang": "ne",
-   "hl": "दसैँमा दुई दिन बन्दीपुर केबलकार सेवा बन्द हुने",
-   "en": "दसैँमा दुई दिन बन्दीपुर केबलकार सेवा बन्द हुने",
-   "ne": "दसैँमा दुई दिन बन्दीपुर केबलकार सेवा बन्द हुने",
-   "imp": 2,
-   "tags": [
-    "Bandipur",
-    "CableCar",
-    "Dashain"
    ],
    "cat": "society",
    "val": 3,
@@ -3465,17 +3440,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1791810095.680298,
-   "en": "CPN-UML Chair Oli claims siege against party continues, warns of protests",
-   "ne": "CPN-UML Chair Oli claims siege against party continues, warns of protests",
-   "link": "https://english.khabarhub.com/2026/12/571714/",
-   "source": "Khabarhub EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "politics"
-  },
   {
    "ts": 1791811898.4082959,
    "en": "UN launches aid operation in Gorkha after flash floods, 95 rescued and 5 missing",
@@ -6579,8 +6543,8 @@
    "cat": "sports"
   }
  ],
- "updated": 1792414913,
- "pending_since": null,
+ "updated": 1792415457,
+ "pending_since": 1792415454.4975398,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
