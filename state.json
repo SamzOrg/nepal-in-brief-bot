@@ -1210,7 +1210,8 @@
   "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSERQS1UwWk9ISGVaOHZYVW95blE2MVZrVXZiTWtXSU1mZENSdG5DQkRlTFdjOWVkdWlVWUtpUVBxUjYxOF9vbVlHWV9xX0J4WmtTeWw0VUJTQWYwQkVya25OX2RaaXdJbjJWUVdFc0RsY2QtZkRRX3RuZ0RIWHdKbDBWVGhRV0dMdWMweE14QW5aRlhpUFUtc2pyaHM4R3cyQUZ6S3ZKTWNWcXlFTTVLNVduZVA?oc=5": 1792368086.579271,
   "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVnRZaGdIWmRSZ2t1WnBJZXBNeXhVSXFYcnVWdWhVbnZnenU1MTJydk1QeVV4WFFXX3pEZzlOZ3VSeTVBakRPSFE5MTFiZGdHWUVBSkRzd0pJQUxGcDFzQzlJSXBORmxORTVDbXd4NWdWcEdDYVhBRDVlZm8wZVhvbm5yMUxzMUNGRHVvRGUycw?oc=5": 1792368086.579271,
   "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB6bHoxX3l3TmpxbGRxQ2xzV0diMjFOeVctQTlJZ0VTb2FiTXlCN3JOOV83NnE1aEtOYUxvdW1YbFJVM2ZhalFTNUlJM212NUVr?oc=5": 1792368086.579271,
-  "http://english.ratopati.com/story/84130/this-is-the-foreign-exchange-rate-on-monday": 1792368668.7437818
+  "http://english.ratopati.com/story/84130/this-is-the-foreign-exchange-rate-on-monday": 1792368668.7437818,
+  "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTnhPZmZKeElSbjZmVDZ1TVBVdE5QNHNtc3lnXzRHWmNHTEdnUW1EazBtMlRiTjFkOGlSTHYxZFdSS1M0MjBHN182YTRLSjVoanZTbUg0WFdCaUdnRF9PQ2t6UGU1QkZxVnRNMUxEY1R3Z19xOHd2RmFBLVRrbnNxStIBlAFBVV95cUxPYjBSWlMxdlhDM1J6aEE2ZndodVNYNzNKMXRWX0p6eTVEUWN6N2hyM19yVVR6NmdiNDJIYW5YQ3ltT0RFME1mTDlTaXFkTFVjMUU2d09rOXhrS2lTeDZyVWxKVEpzRFNRX3N3djJ0WVg4NnVyWmsybTYxcVU2LXBpYS1qLW54bC1tanRkUjFtalQyNGp3?oc=5": 1792369250.7732472
  },
  "queue": [
   {
@@ -4636,9 +4637,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "disaster"
+  },
+  {
+   "ts": 1792369257.7235837,
+   "en": "Nara Space maps Nepal flood damage using AI, flags nine sites",
+   "ne": "Nara Space maps Nepal flood damage using AI, flags nine sites",
+   "link": "https://biz.chosun.com/en/en-science/2026/10/19/IMICM6NCOZE5TFJQTVQIOZW6PM/",
+   "source": "Chosunbiz",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "tech"
   }
  ],
- "updated": 1792368672,
+ "updated": 1792369268,
  "pending_since": 1792368668.7437818,
  "fb_blocks": [
   1790350880.4125228,
