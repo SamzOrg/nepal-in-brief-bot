@@ -1156,7 +1156,9 @@
   "https://news.google.com/rss/articles/CBMijgFBVV95cUxNekM0Ml83bnM0cDhKTG9rUDlWekptY0JmTlRKVjRaWWpWOFhjTUJoSll3NmE3cmhTNXMzUXNwdUREYjYtQmpkWWt2b3VxMnBkbURtZWhGSEVmOXZhUVg5NllmUlRuRDRJNUhrMmRmZTRVdmx2dGZ1c1VxU2s3SEE3OWptekQ2bk5sZzltc0xR?oc=5": 1792389691.8065612,
   "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xOGQzVm9ZZ1g1Vy03T0pjaFhLbjJGNmdPSGVuakpvR3ctc05sQjFDQkNrdEwwMkVjWjNnWDBYSUZuUEVOYWl4UzhJNUZjaDRSSmtISkV1R09aZw?oc=5": 1792389691.8065612,
   "https://nagariknews.nagariknetwork.com/international/putin-proposes-trilateral-talks-with-trump-and-xi-39-93.html": 1792390253.7005098,
-  "https://theannapurnaexpress.com/story/68062": 1792390253.7005098
+  "https://theannapurnaexpress.com/story/68062": 1792390253.7005098,
+  "https://baahrakhari.com/detail/505307": 1792390855.1399813,
+  "http://lokaantar.com/story/331590/2026/10/19/news-from-sunsari": 1792390855.1399813
  },
  "queue": [
   {
@@ -1777,52 +1779,6 @@
    "hits": 1
   },
   {
-   "title": "चाडपर्वमा चोरीसिकारी रोक्न चितवन निकुञ्जमा १२०० भन्दा बढी सुरक्षाकर्मी परिचालन",
-   "summary": "चितवन राष्ट्रिय निकुञ्जले चाडपर्व लक्षित गर्दै सुरक्षा रणनीति तयार गरेको छ । रणनीतिअनुसार निकुञ्ज प्रशासन र निकुञ्ज सुरक्षार्थ खटिएको नेपाली सेनासहित एक हजार २०० भन्दा बढी जनशक्ति परिचालन गरिने छ ।निकुञ्जका सूचना...",
-   "link": "http://lokaantar.com/story/331569/2026/10/19/chitwan-national-park-",
-   "source": "Lokaantar",
-   "ts": 1792362054.6685436,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "चाडपर्वमा चोरीसिकारी रोक्न चितवन निकुञ्जमा १२०० भन्दा बढी सुरक्षाकर्मी परिचालन",
-   "en": "चाडपर्वमा चोरीसिकारी रोक्न चितवन निकुञ्जमा १२०० भन्दा बढी सुरक्षाकर्मी परिचालन",
-   "ne": "चाडपर्वमा चोरीसिकारी रोक्न चितवन निकुञ्जमा १२०० भन्दा बढी सुरक्षाकर्मी परिचालन",
-   "imp": 2,
-   "tags": [
-    "ChitwanNationalPark",
-    "Dashain",
-    "चितवन"
-   ],
-   "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "दरवाङ बजारमा कालोपत्र",
-   "summary": "म्याग्दीको मालिका गाउँपालिका-६ दरवाङमा सडक पुगेको करिब दुई दशकपछि कालोपत्र गरिएको छ । पश्चिम म्याग्दीको व्यापारिक केन्द्रका रूपमा चिनिने दरवाङ बजार मालिका गाउँपालिकाको केन्द्रसमेत हो ।गत आर्थिक वर्ष २०८२/०८३ मा ठेक्का...",
-   "link": "http://lokaantar.com/story/331568/2026/10/19/myagdi-",
-   "source": "Lokaantar",
-   "ts": 1792362054.6685436,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "दरवाङ बजारमा कालोपत्र",
-   "en": "दरवाङ बजारमा कालोपत्र",
-   "ne": "दरवाङ बजारमा कालोपत्र",
-   "imp": 2,
-   "tags": [
-    "Myagdi",
-    "Darwang",
-    "बाटो"
-   ],
-   "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
    "title": "Two arrested for scooter theft in Kathmandu",
    "summary": "Kathmandu. A team from the Kathmandu Valley Crime Investigation Office has arrested two people who fled after stealing a scooter...",
    "link": "http://english.ratopati.com/story/84141/two-arrested-for-stealing-scooters-in-kathmandu",
@@ -1844,29 +1800,6 @@
    "val": 3,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "फ्रान्समा हिं'सात्मक प्रदर्शनपछि राष्ट्रपतिले भने : हामी लज्जित छौँ",
-   "summary": "फ्रान्समा वर्षौंयताकै गम्भीर अशान्तिपछि राष्ट्रपति इमानुएल म्याक्रोनले नागरिकलाई शान्त रहन आग्रह गरेका छन्।...",
-   "link": "https://nagariknews.nagariknetwork.com/international/president-says-after-violent-protests-in-france-we-are-ashamed-br-53-54.html",
-   "source": "Nagarik News",
-   "ts": 1792362054.6685436,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1792382552_france.jpg",
-   "lang": "ne",
-   "hl": "फ्रान्समा हिं'सात्मक प्रदर्शनपछि राष्ट्रपतिले भने : हामी लज्जित छौँ",
-   "en": "फ्रान्समा हिं'सात्मक प्रदर्शनपछि राष्ट्रपतिले भने : हामी लज्जित छौँ",
-   "ne": "फ्रान्समा हिं'सात्मक प्रदर्शनपछि राष्ट्रपतिले भने : हामी लज्जित छौँ",
-   "imp": 1,
-   "tags": [
-    "France",
-    "Macron",
-    "Riots"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 3
   },
   {
    "title": "Gastric Problems Increase During Festivals Due to Diet Imbalance",
@@ -3164,30 +3097,6 @@
     "क्रिकेट"
    ],
    "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "बाढीपहिरोबाट जलजलाका तीन सय घरपरिवार प्रभावित",
-   "summary": "पछिल्लो मनसुनजन्य विपदबाट म्याग्दीको सदरमुकाम बेनी बजारसँगै रहेको पर्वतको जलजला गाउँपालिकामा ३०० भन्दाबढी घरपरिवार प्रभावित भएका छन्।...",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/three-hundred-households-in-jaljala-affected-by-floods-and-landslides-br-19-57.html",
-   "source": "Nagarik News",
-   "ts": 1792386807,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1786882313_pahiro%20landslides.jpg",
-   "lang": "ne",
-   "hl": "बाढीपहिरोबाट जलजलाका तीन सय घरपरिवार प्रभावित",
-   "en": "बाढीपहिरोबाट जलजलाका तीन सय घरपरिवार प्रभावित",
-   "ne": "बाढीपहिरोबाट जलजलाका तीन सय घरपरिवार प्रभावित",
-   "imp": 4,
-   "tags": [
-    "Flood",
-    "Landslide",
-    "Jaljala",
-    "बाढीपहिरो"
-   ],
-   "cat": "disaster",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -6640,7 +6549,7 @@
    "cat": "society"
   }
  ],
- "updated": 1792390307,
+ "updated": 1792390859,
  "pending_since": 1792389691.8065612,
  "fb_blocks": [
   1790350880.4125228,
