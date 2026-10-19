@@ -1161,7 +1161,9 @@
   "https://baahrakhari.com/detail/505294": 1792379458.611739,
   "http://lokaantar.com/story/331570/2026/10/19/chitawan-": 1792379458.611739,
   "https://gorkhapatraonline.com/news/227059": 1792380056.8982275,
-  "https://kathmandupost.com/interviews/2026/10/19/how-nepal-played-a-big-role-in-south-africa-s-liberation": 1792380056.8982275
+  "https://kathmandupost.com/interviews/2026/10/19/how-nepal-played-a-big-role-in-south-africa-s-liberation": 1792380056.8982275,
+  "https://baahrakhari.com/detail/505296": 1792381253.1399317,
+  "https://news.google.com/rss/articles/CBMinAFBVV95cUxOd3hQTjlJQ3V6Y3BTMG5YTmxRdzU2eEw2aEt1OXh6NTJxa3NxajVoZWc3MDVzY0tfYTVkRzhkem8zb1hkQlZmaW9GNHFUY2xtZlFxTzZjLUpSTUlwX0U1c000bGdFODRmR2FWOURjTk16M0ZnS3NNN2J6aFVzYlY0UmdfT0ZpT0l4bWp5YjdlMUNtVFQwUExQZUVzRW8?oc=5": 1792381253.1399317
  },
  "queue": [
   {
@@ -1802,29 +1804,6 @@
    "hits": 1
   },
   {
-   "title": "बारामा सर्पले टोकेर १० वर्षीया बालिकाको मृत्यु",
-   "summary": "",
-   "link": "https://www.setopati.com/social/401089",
-   "source": "Setopati",
-   "ts": 1792374420,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "बारामा सर्पले टोकेर १० वर्षीया बालिकाको मृत्यु",
-   "en": "बारामा सर्पले टोकेर १० वर्षीया बालिकाको मृत्यु",
-   "ne": "बारामा सर्पले टोकेर १० वर्षीया बालिकाको मृत्यु",
-   "imp": 3,
-   "tags": [
-    "Bara",
-    "SnakeBite",
-    "सर्प"
-   ],
-   "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
    "title": "गोकर्णेश्वरमा मोटरसाइकल दुर्घटना : एकजनाको मृत्यु, एक गम्भीर घाइते",
    "summary": "मोटरसाइकलको पछाडि सवार भारत घर भई हाल काठमाडौं महानगरपालिका-६, तिनचुली बस्ने १६ वर्षीय महमद जसिमको मृत्यु भएको प्रहरीले जनाएकाे छ ।",
    "link": "https://baahrakhari.com/detail/505292",
@@ -1914,7 +1893,7 @@
    "cat": "society",
    "val": 2,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "यस्तो छ आजका लागि विदेशी मुद्राको विनिमयदर",
@@ -2327,6 +2306,29 @@
    ],
    "cat": "other",
    "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "One of 55 Malaysians missing in Nepal floods confirmed safe, returns home",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOd3hQTjlJQ3V6Y3BTMG5YTmxRdzU2eEw2aEt1OXh6NTJxa3NxajVoZWc3MDVzY0tfYTVkRzhkem8zb1hkQlZmaW9GNHFUY2xtZlFxTzZjLUpSTUlwX0U1c000bGdFODRmR2FWOURjTk16M0ZnS3NNN2J6aFVzYlY0UmdfT0ZpT0l4bWp5YjdlMUNtVFQwUExQZUVzRW8?oc=5",
+   "source": "The Sun Malaysia",
+   "ts": 1792377448,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "One of 55 Malaysians missing in Nepal floods confirmed safe, returns home",
+   "en": "One of 55 Malaysians missing in Nepal floods confirmed safe, returns home",
+   "ne": "One of 55 Malaysians missing in Nepal floods confirmed safe, returns home",
+   "imp": 3,
+   "tags": [
+    "Malaysia",
+    "NepalFloods",
+    "Rescue"
+   ],
+   "cat": "disaster",
+   "val": 2,
    "teaser": false,
    "hits": 1
   }
@@ -5444,9 +5446,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "accident"
+  },
+  {
+   "ts": 1792381259.5770893,
+   "en": "बारामा सर्पको टोकाइबाट १० वर्षीया बालिका सन्झना कुमारीको मृत्यु",
+   "ne": "बारामा सर्पको टोकाइबाट १० वर्षीया बालिका सन्झना कुमारीको मृत्यु",
+   "link": "https://www.setopati.com/social/401089",
+   "source": "Setopati",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "society"
   }
  ],
- "updated": 1792380674,
+ "updated": 1792381272,
  "pending_since": 1792379458.611739,
  "fb_blocks": [
   1790350880.4125228,
