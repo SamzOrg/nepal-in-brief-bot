@@ -1161,7 +1161,9 @@
   "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVmpRVnByUzlidWlrTUw3aVA3Mm53cjZnd1N0ZWRIUDFBcTl1VWJreFFsQ2xiSjVCRlZocmFIVzFQLUk4bFpBSVFrRHloamJZbGc3QkVNZUQweUNnY0NJSGowV2hJT3A1LTdJMDlMbVJoQk9odGtjTmQ5V3JuN0VXOTBrX1VKMFQxbEtOMEs2NzJCMEZUbXFaSVR4ZXBOWDJ0RVRkUXNR0gGrAUFVX3lxTE1JdjBxQ3psbU5KNDlGUmc5eTlLUUJXdlRzeGRUR0FqZGNFaUFVNW1fbnU2a3V3WDJLektMVjBKVWltZWRsdUo0LTR3b2JVbVZFWjJuMjFQTGJXQUtIMUJMTkIwbzdXNEkwZ3YtbXYycDVtSjJwVGVnaUZpN0VVNVRkU0N1SmpZY3hpaHFZUGhvbnQ1cE9FalMtWUcyUXRKc0QtaTBSRDVlLVFlTQ?oc=5": 1792387874.9747694,
   "http://lokaantar.com/story/331587/2026/10/19/nepal-oman-": 1792387874.9747694,
   "https://nagariknews.nagariknetwork.com/sports/nepal-wins-toss-against-oman-elects-to-bat-first-br-24-53.html": 1792387874.9747694,
-  "https://nagariknews.nagariknetwork.com/social-affairs/three-hundred-households-in-jaljala-affected-by-floods-and-landslides-br-19-57.html": 1792387874.9747694
+  "https://nagariknews.nagariknetwork.com/social-affairs/three-hundred-households-in-jaljala-affected-by-floods-and-landslides-br-19-57.html": 1792387874.9747694,
+  "https://news.google.com/rss/articles/CBMifkFVX3lxTFBUNTBad2xzWXQ1cllqby1iS1JGX2pSZU1HZTQ3ak1nTXNobk1wWUtZaExmQk45Q0dSekNWTFB3UzNjSDdNcERkMkh1dkFvWFcxUXJjWE5ZZmlrelZjN0p1SHZZcl94YkRySklpTEZBSXQ5TC1pN0VwRWVxRG9mQQ?oc=5": 1792388446.805702,
+  "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdjhEQnlZa2o1VlJWUUhNTEJ6dDN4ZmZqbXFGaVVkN2poa01DZ1V5ZDN3VWNTRUpTN09XZDZXWnVoYVhVdTd4RG5IWmJFdWFiaHZFa0ctQ0VGNEIxYVI4dGhlM0JxZlZKNm5jQWNOTThkR1dySElHcDNPYWdLYjUtYkEwYjlxNTU0ME5wZEx5am5zYUJXRVZZbXMyNzNGR2ppenlvelFjY1lES1pQMi1ka3RUaVJ3Wi1SdkZxZHVhQ0JIUQ?oc=5": 1792388446.805702
  },
  "queue": [
   {
@@ -2509,29 +2511,6 @@
    "hits": 1
   },
   {
-   "title": "विश्वकप लिग-२ : नेपाल र ओमान भिड्दै",
-   "summary": "आइसिसी विश्वकप लिग-२ अन्तर्गतको अन्तिम खेलमा आज नेपालले घरेलु टोली ओमानको सामना गर्दैछ।",
-   "link": "https://nagariknews.nagariknetwork.com/sports/world-cup-league-2-nepal-and-oman-clash-13-76.html",
-   "source": "Nagarik News",
-   "ts": 1792380004,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1792379997_nepali%20cricket.jpg",
-   "lang": "ne",
-   "hl": "विश्वकप लिग-२ : नेपाल र ओमान भिड्दै",
-   "en": "विश्वकप लिग-२ : नेपाल र ओमान भिड्दै",
-   "ne": "विश्वकप लिग-२ : नेपाल र ओमान भिड्दै",
-   "imp": 4,
-   "tags": [
-    "Cricket",
-    "WorldCupLeague2",
-    "Oman"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
    "title": "One Arrested with Illegal Pistol in Jhapa",
    "summary": "Jhapa. Police have taken one person under control with an illegal 'katuwa' pistol in Jhapa. The arrested is 44-year-old Man...",
    "link": "http://english.ratopati.com/story/84152/hotel-owner-arrested-with-a-pistol",
@@ -3350,6 +3329,30 @@
     "Landslide",
     "Jaljala",
     "बाढीपहिरो"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Four soldiers dead, dozens injured in fire at Canada military base",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdjhEQnlZa2o1VlJWUUhNTEJ6dDN4ZmZqbXFGaVVkN2poa01DZ1V5ZDN3VWNTRUpTN09XZDZXWnVoYVhVdTd4RG5IWmJFdWFiaHZFa0ctQ0VGNEIxYVI4dGhlM0JxZlZKNm5jQWNOTThkR1dySElHcDNPYWdLYjUtYkEwYjlxNTU0ME5wZEx5am5zYUJXRVZZbXMyNzNGR2ppenlvelFjY1lES1pQMi1ka3RUaVJ3Wi1SdkZxZHVhQ0JIUQ?oc=5",
+   "source": "myRepublica",
+   "ts": 1792381362,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "Four soldiers dead, dozens injured in fire at Canada military base",
+   "en": "Four soldiers dead, dozens injured in fire at Canada military base",
+   "ne": "Four soldiers dead, dozens injured in fire at Canada military base",
+   "imp": 1,
+   "tags": [
+    "Canada",
+    "MilitaryBase",
+    "Fire",
+    "आगो"
    ],
    "cat": "disaster",
    "val": 3,
@@ -6470,9 +6473,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "disaster"
+  },
+  {
+   "ts": 1792388452.8495867,
+   "en": "विश्वकप लिग-२ : आइसिसीको अन्तिम खेलमा आज नेपाल र ओमान भिड्दै",
+   "ne": "विश्वकप लिग-२ : आइसिसीको अन्तिम खेलमा आज नेपाल र ओमान भिड्दै",
+   "link": "https://nagariknews.nagariknetwork.com/sports/world-cup-league-2-nepal-and-oman-clash-13-76.html",
+   "source": "Nagarik News",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "sports"
   }
  ],
- "updated": 1792387884,
+ "updated": 1792388466,
  "pending_since": 1792386650.7168467,
  "fb_blocks": [
   1790350880.4125228,
