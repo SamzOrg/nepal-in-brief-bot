@@ -1,26 +1,5 @@
 {
  "seen": {
-  "https://gorkhapatraonline.com/news/227002": 1792222270.7280254,
-  "https://nagariknews.nagariknetwork.com/social-affairs/one-person-dies-after-motorcycle-collides-with-truck-in-kapilvastu-11-21.html": 1792222270.7280254,
-  "https://kathmandupost.com/national/2026/10/17/police-take-journalist-kishor-shrestha-to-cyber-bureau-for-talks-over-complaints": 1792222270.7280254,
-  "http://lokaantar.com/story/331496/2026/10/17/kishor-shrestha-": 1792222270.7280254,
-  "https://gorkhapatraonline.com/news/227003": 1792222845.8342726,
-  "https://gorkhapatraonline.com/news/227001": 1792222845.8342726,
-  "http://english.ratopati.com/story/84033/kishor-shrestha-taken-to-cyber-bureau-for-discussion": 1792222845.8342726,
-  "https://baahrakhari.com/detail/505204": 1792222845.8342726,
-  "https://www.setopati.com/social/401022": 1792222845.8342726,
-  "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1iWExlZmlZV04yWEhYLXl3Ym5TWlpzOU9MRTlvbVNLbkdqUjdJUXp0alozVHUzMEg1M3dyU2lFZUMxbTNBZlRNaGhwb2cxNF9BczlEbThZTmh1UQ?oc=5": 1792222845.8342726,
-  "https://nagariknews.nagariknetwork.com/international/guterres-calls-for-increased-global-efforts-to-protect-nature-42-64.html": 1792222845.8342726,
-  "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZHZrOHFwSTNGSF85bGl4NTlJb0UtbzFmeHBKZFdmYlRfcG9QdUg4WjJSYU44eE56VWVaMmdpd3VmQy0yQndod1I2aUpxa3NDMFRpdUZMMDhpbGVpekJwTEN2eHhaSDhadWV3LVlvblNzNlhSamNTQ0JlMTI4b0dkMkFmeVZQWlJVREdDeVV1ZXB5RlZ6RENGb00wM0F6Njd0V1dYblAwMFZMQmpMWkE?oc=5": 1792222845.8342726,
-  "https://theannapurnaexpress.com/story/68010": 1792222845.8342726,
-  "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdk1NU041R1BuaE9nV01jNFhKaXpENUVrdllkTTE4bmV4RHRtcm5odzNBTUxMcDJiZWJOX2M0ZUNpQjNVdUhQbDdhUF8yZzEzMWtSY1hsdnhyOThoa1BDTTgtajVNR003MVlHYWR3UnZYYzFoQ1Z6SlhuaU45NURTSXNqRWo2NS1scTlxWHBIX0Y3Q05BSVFHNGh5MjU0MU9Tb3VLM0xEbmZEei1UN0U5Wg?oc=5": 1792222845.8342726,
-  "https://gorkhapatraonline.com/news/227000": 1792222845.8342726,
-  "http://english.ratopati.com/story/84022/this-years-dashain-geet-from-the-joy-of-the-village-to-the-tears-of-foreigners": 1792222845.8342726,
-  "https://baahrakhari.com/detail/505205": 1792222845.8342726,
-  "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNa21BbW5NQUJyQ0dMVEVDODBKc2tTcmM4V1F5N0RMZ3kzUlVxVWMxdXVMcFp6bF9HXzIyS0ZMczFMeE8tT2MwcTFIRC10UHRDSm9MRVo5ZWxTenM4Y2hKQ2NSbmpTZGE0N0FzV0hGRWlyV1c5UXZpbEFrNkw2YzE2SHZoblk5Mk5femdFUXhGMlpfdUhTY0VvdmdMeWgxVWhKRUpneVJXSktSdUJ2RDVGMVFCbzJMYk1KaUNRVzNja3o?oc=5": 1792222845.8342726,
-  "https://theannapurnaexpress.com/story/68009": 1792222845.8342726,
-  "https://baahrakhari.com/detail/505203": 1792222845.8342726,
-  "https://baahrakhari.com/detail/505201": 1792222845.8342726,
   "https://nagariknews.nagariknetwork.com/politics/kishor-shrestha-was-taken-to-the-cyber-bureau-for-discussion-83-51.html": 1792223452.6130092,
   "https://nagariknews.nagariknetwork.com/social-affairs/187-000-new-voters-added-br-57-93.html": 1792223452.6130092,
   "http://lokaantar.com/story/331497/2026/10/17/kishor-and-himesh-": 1792223452.6130092,
@@ -1164,7 +1143,8 @@
   "http://lokaantar.com/story/331593/2026/10/19/ishan-pandey": 1792394450.0308774,
   "https://theannapurnaexpress.com/story/68065": 1792394450.0308774,
   "http://lokaantar.com/story/331592/2026/10/19/duna-tapari": 1792394450.0308774,
-  "https://theannapurnaexpress.com/story/68064": 1792394450.0308774
+  "https://theannapurnaexpress.com/story/68064": 1792394450.0308774,
+  "https://nagariknews.nagariknetwork.com/sports/dev-khanal-scores-half-century-against-oman-br-84-73.html": 1792395650.4218466
  },
  "queue": [
   {
@@ -3784,7 +3764,7 @@
    "cat": "sports",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "मौसमविद्लाई प्रश्न- दसैँ टीकाको दिन कस्तो हुनेछ मौसम ?",
@@ -7005,7 +6985,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1792395073,
+ "updated": 1792395654,
  "pending_since": 1792395070.5209084,
  "fb_blocks": [
   1790350880.4125228,
