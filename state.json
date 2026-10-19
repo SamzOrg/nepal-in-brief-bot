@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0zNU9LZHZMSXAya3NqMXg0aEdkT0tiRnhkTk1XZE9DaTczNzJsRVlPU0F3UERVYUJob2RKRGJMOS1zMVZVWEsxbXNGYS1PMERo?oc=5": 1792207867.0721972,
   "http://english.ratopati.com/story/84014/madhesh-government-in-crisis-as-uml-leaves-new-coalition-in-the-making": 1792209685.2052243,
   "http://english.ratopati.com/story/84016/jumla-apples-in-pictures-once-they-rotted-on-the-tree-today-they-have-become-a-brand": 1792209685.2052243,
   "https://baahrakhari.com/detail/505183": 1792209685.2052243,
@@ -2333,17 +2332,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1791775258.0860453,
-   "en": "Rural Nepal Lay Responders Gain Confidence After Two-Day Trauma Course",
-   "ne": "Rural Nepal Lay Responders Gain Confidence After Two-Day Trauma Course",
-   "link": "https://bioengineer.org/lay-responders-in-rural-nepal-gain-confidence-after-two-day-trauma-course/",
-   "source": "Bioengineer.org",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "health"
-  },
   {
    "ts": 1791777058.5356376,
    "en": "दाङमा टिपरको ठक्करबाट बालकको मृत्यु, स्थानीयद्वारा सडक अवरुद्ध",
@@ -5458,7 +5446,7 @@
    "cat": "accident"
   }
  ],
- "updated": 1792380060,
+ "updated": 1792380674,
  "pending_since": 1792379458.611739,
  "fb_blocks": [
   1790350880.4125228,
