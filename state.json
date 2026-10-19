@@ -1155,30 +1155,6 @@
  },
  "queue": [
   {
-   "title": "Army installs Bailey bridge over Budhi Gandaki in Aarughat",
-   "summary": "Kathmandu, Oct 19: The Nepali Army (NA) has concluded a project to install a Bailey bridge over the Budhigandaki River i...",
-   "link": "https://risingnepaldaily.com/news/87948",
-   "source": "Rising Nepal",
-   "ts": 1792415775,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Army installs Bailey bridge over Budhi Gandaki in Aarughat",
-   "en": "Army installs Bailey bridge over Budhi Gandaki in Aarughat",
-   "ne": "Army installs Bailey bridge over Budhi Gandaki in Aarughat",
-   "imp": 3,
-   "tags": [
-    "NepaliArmy",
-    "BaileyBridge",
-    "BudhiGandaki",
-    "Gorkha"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 3
-  },
-  {
    "title": "महानवमीमा मात्र खुला हुने तलेजु भवानी मन्दिरमा भोलि बिहान ५ बजेदेखि दर्शन गर्न पाइने",
    "summary": "",
    "link": "https://baahrakhari.com/detail/505332",
@@ -1201,30 +1177,6 @@
    "val": 3,
    "teaser": false,
    "hits": 2
-  },
-  {
-   "title": "अन्तर्राष्ट्रिय धादिङ समाजको अध्यक्षमा बद्री खतिवडा, महासचिवमा कल्याणविक्रम कार्की",
-   "summary": "",
-   "link": "https://www.setopati.com/global/other-global/401114",
-   "source": "Setopati",
-   "ts": 1792415462,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "अन्तर्राष्ट्रिय धादिङ समाजको अध्यक्षमा बद्री खतिवडा, महासचिवमा कल्याणविक्रम कार्की",
-   "en": "अन्तर्राष्ट्रिय धादिङ समाजको अध्यक्षमा बद्री खतिवडा, महासचिवमा कल्याणविक्रम कार्की",
-   "ne": "अन्तर्राष्ट्रिय धादिङ समाजको अध्यक्षमा बद्री खतिवडा, महासचिवमा कल्याणविक्रम कार्की",
-   "imp": 2,
-   "tags": [
-    "Dhading",
-    "Samaj",
-    "Election",
-    "समाज"
-   ],
-   "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
   },
   {
    "title": "Tackling the threat of cholera amidst Nepal's flood disaster",
@@ -5040,7 +4992,7 @@
    "cat": "crime"
   }
  ],
- "updated": 1792444253,
+ "updated": 1792444859,
  "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
