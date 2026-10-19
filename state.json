@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://english.onlinekhabar.com/nepal-football-league-announced.html": 1792218665.8776348,
   "https://baahrakhari.com/detail/505199": 1792219249.179083,
   "http://english.ratopati.com/story/84027/emergency-meeting-of-loss-and-damage-fund-to-address-rasuwa-flood-damage": 1792219249.179083,
   "https://thehimalayantimes.com/nepal/fulpati-marks-peak-dashain-festivities-as-leaders-extend-greetings": 1792219249.179083,
@@ -1158,7 +1157,11 @@
   "https://nagariknews.nagariknetwork.com/international/putin-proposes-trilateral-talks-with-trump-and-xi-39-93.html": 1792390253.7005098,
   "https://theannapurnaexpress.com/story/68062": 1792390253.7005098,
   "https://baahrakhari.com/detail/505307": 1792390855.1399813,
-  "http://lokaantar.com/story/331590/2026/10/19/news-from-sunsari": 1792390855.1399813
+  "http://lokaantar.com/story/331590/2026/10/19/news-from-sunsari": 1792390855.1399813,
+  "https://nagariknews.nagariknetwork.com/social-affairs/missing-youth-found-dead-after-drowning-in-saptakoshi-river-67-81.html": 1792391471.1220303,
+  "https://www.setopati.com/social/401097": 1792391471.1220303,
+  "https://kathmandupost.com/columns/2026/10/19/should-we-feel-guilty-about-celebrating-dashain-this-year": 1792391471.1220303,
+  "https://theannapurnaexpress.com/story/68063": 1792391471.1220303
  },
  "queue": [
   {
@@ -1756,29 +1759,6 @@
    "hits": 2
   },
   {
-   "title": "Netanyahu says will eliminate Iran threat with Trump after his endorsement",
-   "summary": "Israeli Prime Minister Benjamin Netanyahu has said that his close relationship with US President Donald Trump will help them \"eliminate the Iranian threat\" if he wins the tight election race, shortly after the US leader...",
-   "link": "https://theannapurnaexpress.com/story/68051",
-   "source": "Annapurna Express",
-   "ts": 1792362055.164644,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Netanyahu says will eliminate Iran threat with Trump after his endorsement",
-   "en": "Netanyahu says will eliminate Iran threat with Trump after his endorsement",
-   "ne": "Netanyahu says will eliminate Iran threat with Trump after his endorsement",
-   "imp": 1,
-   "tags": [
-    "Netanyahu",
-    "Iran",
-    "Trump"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Two arrested for scooter theft in Kathmandu",
    "summary": "Kathmandu. A team from the Kathmandu Valley Crime Investigation Office has arrested two people who fled after stealing a scooter...",
    "link": "http://english.ratopati.com/story/84141/two-arrested-for-stealing-scooters-in-kathmandu",
@@ -2230,7 +2210,7 @@
    "cat": "culture",
    "val": 1,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "विजयादशमीले सबैलाई सत्य र न्यायको मार्गमा अडिग रहने प्रेरणा दिओस् : पूर्वअध्यक्ष रेग्मी",
@@ -3421,20 +3401,32 @@
    "val": 2,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "Youth missing in Saptakoshi river found dead",
+   "summary": "A person, who went missing in the course of swimming in Saptakoshi river on Sunday evening, has been found dead this morning. The deceased has been identified as Osan Koirala (23) of Barahchhetra Municipality-10, shared...",
+   "link": "https://theannapurnaexpress.com/story/68063",
+   "source": "Annapurna Express",
+   "ts": 1792377072.227072,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "Youth missing in Saptakoshi river found dead",
+   "en": "Youth missing in Saptakoshi river found dead",
+   "ne": "Youth missing in Saptakoshi river found dead",
+   "imp": 3,
+   "tags": [
+    "Saptakoshi",
+    "Saptari",
+    "Drowning"
+   ],
+   "cat": "disaster",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1791786058.5395212,
-   "en": "Nepal marks Ghatasthapana as ten-day Vijaya Dashami festival begins",
-   "ne": "Nepal marks Ghatasthapana as ten-day Vijaya Dashami festival begins",
-   "link": "https://boldnewsonline.com/amp/nepal-observes-ghatasthapana-marking-first-day-of-vijaya-dashami-festival/",
-   "source": "boldnewsonline.com",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "culture"
-  },
   {
    "ts": 1791787882.5281355,
    "en": "Parliamentary Hearing Today for Four Ambassador Nominees",
@@ -6549,7 +6541,7 @@
    "cat": "society"
   }
  ],
- "updated": 1792390859,
+ "updated": 1792391475,
  "pending_since": 1792389691.8065612,
  "fb_blocks": [
   1790350880.4125228,
