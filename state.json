@@ -1,10 +1,5 @@
 {
  "seen": {
-  "https://gorkhapatraonline.com/news/227010": 1792230046.1084023,
-  "http://english.ratopati.com/story/84051/rescue-and-rehabilitation-after-bhotekoshi-flood-a-model-of-excellent-coordination-nepali-army": 1792230046.1084023,
-  "https://nagariknews.nagariknetwork.com/international/why-did-trump-s-press-secretary-katie-lose-her-job-in-just-five-days-45-32.html": 1792230046.1084023,
-  "https://news.google.com/rss/articles/CBMilAFBVV95cUxOakgxQktkTEUxNlUweGhpQ2JzanJvUVIzMHdLd3ZlTEJ1emVWNGlQQ0xSTFk0bmt5c1Rvby1WUDdJNE0tNGFIMElNXzByWGtRX1dCOTdBbW40SjRoV1pLNUItanBwNlk2RHpob3VZNkQ0dnR1bjJXN0t1cVg4QmY4WHhnOGNwMUJpcExRNDFySzVPbmxU?oc=5": 1792230046.1084023,
-  "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVktTOG84bnRpS2Y2YXU5dFNDVVIwdVJzdjNUYzdodUNlZjFSejJTcUdFTGRkb0xOTFpKTEwyYUxGOFFER3JFY1IxbU1vTG1faHRWVFlUSUJXcDN2OTMwMWpWWUplOG5nWFFudnBfZ3k4SHRuWHFnSExWM3ZvYUpiX0ljUnZoWXg3RzlTLU50WGdCSTF3S0lFd3VJWTZ3ZlE3N0g1djRncXZGOExXMHJ0TlFwV3JnX2dGSG9wVUt0MmltMHQ3UXJDbVV3?oc=5": 1792230046.1084023,
   "http://english.ratopati.com/story/84035/even-if-you-are-abroad-dashain-reminds-you-of-your-hometown": 1792230651.0219898,
   "http://english.ratopati.com/story/84021/dashain-market-monitoring-quality-of-search-but-not-enough-manpower": 1792230651.0219898,
   "https://gorkhapatraonline.com/news/227011": 1792230651.0219898,
@@ -1157,7 +1152,8 @@
   "http://english.ratopati.com/story/84171/temporary-ban-on-demonstrations-in-frances-second-largest-city-of-marseille-after-violent-incidents": 1792402273.3644593,
   "https://english.khabarhub.com/2026/19/572603/": 1792402273.3644593,
   "https://baahrakhari.com/detail/505315": 1792402273.3644593,
-  "https://nagariknews.nagariknetwork.com/international/after-receiving-trump-s-support-netanyahu-said-together-we-will-complete-the-mission-98-29.html": 1792402273.3644593
+  "https://nagariknews.nagariknetwork.com/international/after-receiving-trump-s-support-netanyahu-said-together-we-will-complete-the-mission-98-29.html": 1792402273.3644593,
+  "https://english.khabarhub.com/2026/19/572582/": 1792402851.8864906
  },
  "queue": [
   {
@@ -3843,20 +3839,32 @@
    "val": 3,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "One killed, two injured in bus-motorcycle collision in Dhanusha",
+   "summary": "JANAKPURDHAM: One person was killed and two others were injured when a bus collided with a motorcycle at Makhanaha in Sabaila Municipality-5, along the Dhanushadham-Sabaila inner road section, in Dhanusha district....",
+   "link": "https://english.khabarhub.com/2026/19/572582/",
+   "source": "Khabarhub EN",
+   "ts": 1792381504,
+   "weight": 2,
+   "img": "https://english.khabarhub.com/wp-content/uploads/2025/08/Khabar-Hub-News_Bike-Bus-Accident_1200px-630X-px-Final_2021.05.13-Nep-400x220.jpg",
+   "lang": "en",
+   "hl": "One killed, two injured in bus-motorcycle collision in Dhanusha",
+   "en": "One killed, two injured in bus-motorcycle collision in Dhanusha",
+   "ne": "One killed, two injured in bus-motorcycle collision in Dhanusha",
+   "imp": 3,
+   "tags": [
+    "Dhanusha",
+    "BusAccident",
+    "दुर्घटना"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1791797482.848741,
-   "en": "Rescue helicopters evacuate residents and tourists after flash flood in north central Nepal",
-   "ne": "Rescue helicopters evacuate residents and tourists after flash flood in north central Nepal",
-   "link": "https://www.richmondandtwickenhamtimes.co.uk/news/national/26626695.rescue-helicopters-race-flood-hit-nepal-villages/",
-   "source": "Richmond & Twickenham Times",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "disaster"
-  },
   {
    "ts": 1791799297.2814932,
    "en": "गैँडाकोटमा स्कुल बसको ठक्करबाट मोटरसाइकल चालकको मृत्यु",
@@ -6960,7 +6968,7 @@
    "cat": "sports"
   }
  ],
- "updated": 1792402280,
+ "updated": 1792402856,
  "pending_since": 1792402273.3644593,
  "fb_blocks": [
   1790350880.4125228,
