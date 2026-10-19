@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://www.setopati.com/social/401043": 1792245682.1044817,
   "https://risingnepaldaily.com/news/87913": 1792246247.2084544,
   "http://english.ratopati.com/story/84060/this-is-how-phulpati-was-brought-into-the-dashain-ghar-photo": 1792246247.2084544,
   "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8ydTFaTzRERXI1T0dleG9HZ0NFSW5oZzd3bUVmeU5UT3h0QUtubnNWcldXajZ2N1RTb1NkNV9ObXN1WjcxLXdIWXg5S1VhVzFrSGlXLXhwRk00dFRyOVR3TGI5WnM?oc=5": 1792246247.2084544,
@@ -1165,7 +1164,11 @@
   "https://nagariknews.nagariknetwork.com/economy/industries-in-koshi-could-not-operate-even-at-half-capacity-pressure-on-employment-due-to-reduced-production-74-42.html": 1792417853.295936,
   "http://lokaantar.com/story/331609/2026/10/19/apple-": 1792417853.295936,
   "https://baahrakhari.com/detail/505331": 1792417853.295936,
-  "https://baahrakhari.com/detail/505330": 1792417853.295936
+  "https://baahrakhari.com/detail/505330": 1792417853.295936,
+  "https://news.google.com/rss/articles/CBMicEFVX3lxTE5fbkh3SHU0WUNSbzJtaUpfaXRyeUl0Y1ZjTGxnZzRqUGRGUng1Sl84UVFhSTdqV0ZQY21Gc0lsQV9RQVBpRktnV2xpTTJsSTNoVWh5SGQ5R1pUMXBXV0s3cHBKNkp6TlB2c2lId05SS2Q?oc=5": 1792418487.9541728,
+  "http://lokaantar.com/story/331611/2026/10/19/taleju-": 1792418487.9541728,
+  "https://english.onlinekhabar.com/nepal-retain-odi-status-2.html": 1792418487.9541728,
+  "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZGZ3dG9NYkk3eFFUeE9uYjhaTFdHYlUxUVQ1Z3BhdlNLQ0hmaEF3Zk9INHdfUnRvMDJxTjMycVo1WFdWZnEyU3V0REJ4alhfaloxTWJ0OGxxSmVHSFlPakhYQ3lZb1g1Y1dSODg4UjNPc3RfazU3RXEtWk83ZkJtQ2M1QS04amM5VWFQem5ud0xSREJvdVMwWDV3?oc=5": 1792418487.9541728
  },
  "queue": [
   {
@@ -1210,50 +1213,6 @@
    ],
    "cat": "world",
    "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "After the Snowmelt review - a fatal disaster in a snowstorm leads to devastating act of remembrance",
-   "summary": "Yi-Shan Lo returns to Nepal to follow the route of her best friend's ill-fated hike in a harrowing but cathartic documentary A work of deep personal reckoning, Yi-Shan Lo's debut documentary feature opens with closeups...",
-   "link": "https://www.theguardian.com/film/2026/oct/19/after-the-snowmelt-review-yi-shan-lo",
-   "source": "The Guardian",
-   "ts": 1792389620,
-   "weight": 3,
-   "img": "https://i.guim.co.uk/img/media/e1254ea3ed7db790bbf88f0cd8c04dcb08e1b99a/0_0_2700_2160/master/2700.jpg?width=140&quality=85&auto=format&fit=max&s=25b9dbc6bb1e5b0075b74e89195389ef",
-   "lang": "en",
-   "hl": "After the Snowmelt review - a fatal disaster in a snowstorm leads to devastating act of remembrance",
-   "en": "After the Snowmelt review - a fatal disaster in a snowstorm leads to devastating act of remembrance",
-   "ne": "After the Snowmelt review - a fatal disaster in a snowstorm leads to devastating act of remembrance",
-   "imp": 1,
-   "tags": [
-    "Snowstorm",
-    "Review"
-   ],
-   "cat": "culture",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "तरकारी खेतीबाट वार्षिक ९ लाख आम्दानी",
-   "summary": "बागलुङ बजारमा भाडाको जग्गामा तरकारी खेतीबाट एक दम्पतीले वार्षिक रु नौ लाख आम्दानी गर्दै आएको छ।",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/annual-income-of-9-lakhs-from-vegetable-farming-br-22-67.html",
-   "source": "Nagarik News",
-   "ts": 1792389419,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1792389413_tarkari%20vegetable.jpg",
-   "lang": "ne",
-   "hl": "तरकारी खेतीबाट वार्षिक ९ लाख आम्दानी",
-   "en": "तरकारी खेतीबाट वार्षिक ९ लाख आम्दानी",
-   "ne": "तरकारी खेतीबाट वार्षिक ९ लाख आम्दानी",
-   "imp": 2,
-   "tags": [
-    "Agriculture",
-    "VegetableFarming"
-   ],
-   "cat": "economy",
-   "val": 3,
    "teaser": false,
    "hits": 1
   },
@@ -3322,7 +3281,7 @@
    "cat": "culture",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "अन्तर्राष्ट्रिय धादिङ समाजको अध्यक्षमा बद्री खतिवडा, महासचिवमा कल्याणविक्रम कार्की",
@@ -3442,6 +3401,54 @@
    "cat": "disaster",
    "val": 1,
    "teaser": true,
+   "hits": 1
+  },
+  {
+   "title": "Nepal secure crucial win over Oman in bid to retain ODI status",
+   "summary": "Kathmandu, October 19 Nepal made a remarkable comeback with the ball to defeat Oman by 10 runs in their final ICC Cricket World Cup League 2 match on Monday, securing sixth place in the standings. In the match played at...",
+   "link": "https://english.onlinekhabar.com/nepal-retain-odi-status-2.html",
+   "source": "Onlinekhabar EN",
+   "ts": 1792417986,
+   "weight": 3,
+   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/10/nepal-beat-oman.png",
+   "lang": "en",
+   "hl": "Nepal secure crucial win over Oman in bid to retain ODI status",
+   "en": "Nepal secure crucial win over Oman in bid to retain ODI status",
+   "ne": "Nepal secure crucial win over Oman in bid to retain ODI status",
+   "imp": 4,
+   "tags": [
+    "NepalCricket",
+    "Oman",
+    "ODIStatus",
+    "क्रिकेट"
+   ],
+   "cat": "sports",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Long Island families left with uncertainty after Nepal ends flood rescue",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZGZ3dG9NYkk3eFFUeE9uYjhaTFdHYlUxUVQ1Z3BhdlNLQ0hmaEF3Zk9INHdfUnRvMDJxTjMycVo1WFdWZnEyU3V0REJ4alhfaloxTWJ0OGxxSmVHSFlPakhYQ3lZb1g1Y1dSODg4UjNPc3RfazU3RXEtWk83ZkJtQ2M1QS04amM5VWFQem5ud0xSREJvdVMwWDV3?oc=5",
+   "source": "Newsday",
+   "ts": 1792412309,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "Long Island families left with uncertainty after Nepal ends flood rescue",
+   "en": "Long Island families left with uncertainty after Nepal ends flood rescue",
+   "ne": "Long Island families left with uncertainty after Nepal ends flood rescue",
+   "imp": 3,
+   "tags": [
+    "LongIsland",
+    "NepalFlood",
+    "Rescue",
+    "बाढी"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
    "hits": 1
   }
  ],
@@ -6549,8 +6556,8 @@
    "cat": "politics"
   }
  ],
- "updated": 1792417879,
- "pending_since": null,
+ "updated": 1792418503,
+ "pending_since": 1792418487.9541728,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
