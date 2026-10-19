@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRHNZSzRsSHZBcVVwVk5CUHRueFdnTUdQa1JsVUwzb3BSTmFJZkViVW5uZ2xxQ2tpa01SZjNBdXlQck4wRlVWc1lGeU1rS0d6T19pQm0zczkzNDJLN19ueldMUlJoOFFCRTExM1hlaFVRWjcwTnU0SXo1RnMwNTFXdEZwelNGdw?oc=5": 1792269068.6583004,
   "https://news.google.com/rss/articles/CBMikwFBVV95cUxQd1VrV3VIRVZsUmtRTGtjY0ZtRVp5dkFfaTc1SURvUW44WTNzaHlmcGItcmRFOUZXM0ltYmR3MmNXUHlaRzFvSkdjMXJyWTBuQXhHVWRmcUpNQy1obHBJbVZRSUp5dkdYQ1REc3czM3ZsVnZKY3JkSE01QXlhakk3b3FmOHcxTWk0SnYzRENnaFRkMGc?oc=5": 1792270249.2285187,
   "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB5UkxBQ293YUxvY3JsNUt5by14OTE0enFzaUZiS0NtbkNlLUNzdl9xVjd1RFlFOUw1OGI1VVpSampHWE5GM2RHY0hZMWhJeV9QTnhvX1VyYmZlWFVfdlZDVGE1SXY?oc=5": 1792270249.2285187,
   "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOMnpWbWxHNm90UFRwZ0JBTnRhUVowaVR0V0FfeGl6MlYzNzhWa2x3dkN3WTJFaEQwUVg0QlhWTWJhR1o0NHl4UklOMG9zQjZLUzQxaTZveXRVLTVLUlh4TzBIV2I1ckxYcEFPVmxWMS0taEJLZXRaRHlsNzFIVTFCX3NZRm9Kd1d0VldxVDI5eWxDbk96WnZ0RW5EQW5JV2NXNGlqRkx4SXRlaHF6UmpTSWhXOU9GODBDZ3lSMlAxVm5KQ1BMdEZMeU1GdThaVExfMVlHU1AzdTNtd9IB2gFBVV95cUxOMnpWbWxHNm90UFRwZ0JBTnRhUVowaVR0V0FfeGl6MlYzNzhWa2x3dkN3WTJFaEQwUVg0QlhWTWJhR1o0NHl4UklOMG9zQjZLUzQxaTZveXRVLTVLUlh4TzBIV2I1ckxYcEFPVmxWMS0taEJLZXRaRHlsNzFIVTFCX3NZRm9Kd1d0VldxVDI5eWxDbk96WnZ0RW5EQW5JV2NXNGlqRkx4SXRlaHF6UmpTSWhXOU9GODBDZ3lSMlAxVm5KQ1BMdEZMeU1GdThaVExfMVlHU1AzdTNtdw?oc=5": 1792271449.3113673,
@@ -1290,29 +1289,6 @@
     "GlobalEconomy"
    ],
    "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Russia Attacks Ukraine's Energy Infrastructure with Missiles and Drones",
-   "summary": "Kathmandu. Russia has attacked Ukraine's energy infrastructure with ballistic missiles and jet engine-powered drones. Ukrainian President Volodymyr Zelensky said that...",
-   "link": "http://english.ratopati.com/story/84179/zelensky-says-no-advance-warning-given-for-damage-to-ukraines-energy-infrastructure-in-russian-attack",
-   "source": "Ratopati EN",
-   "ts": 1792412585,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/jelenski_vvq1SLdIJ9.png",
-   "lang": "en",
-   "hl": "Russia Attacks Ukraine's Energy Infrastructure with Missiles and Drones",
-   "en": "Russia Attacks Ukraine's Energy Infrastructure with Missiles and Drones",
-   "ne": "Russia Attacks Ukraine's Energy Infrastructure with Missiles and Drones",
-   "imp": 2,
-   "tags": [
-    "Russia",
-    "Ukraine",
-    "EnergyInfrastructure"
-   ],
-   "cat": "world",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -5298,8 +5274,8 @@
    "cat": "crime"
   }
  ],
- "updated": 1792441253,
- "pending_since": null,
+ "updated": 1792441874,
+ "pending_since": 1792441870.2833939,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
