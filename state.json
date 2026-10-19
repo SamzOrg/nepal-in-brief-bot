@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://kathmandupost.com/money/2026/10/17/banks-to-keep-select-branches-open-during-dashain-holiday": 1792232451.5158985,
-  "https://baahrakhari.com/detail/505214": 1792232451.5158985,
   "https://theannapurnaexpress.com/story/68013": 1792233068.6451874,
   "https://www.setopati.com/politics/401031": 1792233648.6467128,
   "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZUtkZG96X1VCTmJzODNsNmhHdmRYcGw5ZFVIUndON2sxWkhiQmFpUGxvOGlWSzlGTXl6czNaYXhmWFF5d0xiUnhnLWNEb1psdGp3amFPWHEyWmhZS3JFNVpPX05GMHExSHd6RTlqWUVjZ1g0TC13WGIwZ1lrS0xsdHBEYlFBMGNvN2hGRnNPYlFnN0NrU2JEaFFVS2JOamhMcEQ0?oc=5": 1792233648.6467128,
@@ -1166,29 +1164,6 @@
   "https://risingnepaldaily.com/news/87945": 1792404655.1790776
  },
  "queue": [
-  {
-   "title": "सास फेर्दा हावामा छाडेको डिएनएले पनि चोर समात्न सकिने!",
-   "summary": "चोरी गरेर भागेको आधा घण्टापछि पनि हावामा चोरको डिएनए भेटिन सक्छ। नर्वे र अस्ट्रेलियामा गरिएको एक अध्ययनले हावाबाट डिएनए संकलन गरेर व्यक्तिको पहिचान गर्न सकिने सम्भावना देखाएको छ। के यो प्रविधिले भविष्यमा अपराध...",
-   "link": "https://www.setopati.com/social/401083",
-   "source": "Setopati",
-   "ts": 1792376250,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "सास फेर्दा हावामा छाडेको डिएनएले पनि चोर समात्न सकिने!",
-   "en": "सास फेर्दा हावामा छाडेको डिएनएले पनि चोर समात्न सकिने!",
-   "ne": "सास फेर्दा हावामा छाडेको डिएनएले पनि चोर समात्न सकिने!",
-   "imp": 2,
-   "tags": [
-    "DNA",
-    "Technology",
-    "Crime"
-   ],
-   "cat": "tech",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
   {
    "title": "Pakistan Defeats Sri Lanka by 37 Runs in First Match of Tri-Series",
    "summary": "Rawalpindi. With the help of Salman Ali Agha's excellent century and the sharp bowling of fast bowlers, Pakistan defeated Sri...",
@@ -3599,30 +3574,6 @@
    "hits": 2
   },
   {
-   "title": "Nepal to prioritize climate justice, Himalayan protection at COP-31",
-   "summary": "KATHMANDU: Nepal will prioritize climate justice, protection of the Himalayan region, climate adaptation, and climate-related loss and damage at the 31st Conference of the Parties to the United Nations Framework...",
-   "link": "https://english.khabarhub.com/2026/19/572616/",
-   "source": "Khabarhub EN",
-   "ts": 1792403964,
-   "weight": 2,
-   "img": "https://english.khabarhub.com/wp-content/uploads/2026/10/COP31--400x220.png",
-   "lang": "en",
-   "hl": "Nepal to prioritize climate justice, Himalayan protection at COP-31",
-   "en": "Nepal to prioritize climate justice, Himalayan protection at COP-31",
-   "ne": "Nepal to prioritize climate justice, Himalayan protection at COP-31",
-   "imp": 4,
-   "tags": [
-    "ClimateJustice",
-    "COP31",
-    "Himalayas",
-    "जलवायु"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "कर्णालीमा सात वर्षमा १६ लाखभन्दा बढी पर्यटक",
    "summary": "",
    "link": "https://baahrakhari.com/detail/505320",
@@ -3916,28 +3867,6 @@
    "cat": "health",
    "val": 3,
    "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Economic Digest: A Snapshot of Nepal's Business News",
-   "summary": "KATHMANDU: Economic Digest presents a brief yet comprehensive roundup of major business developments in Nepal, delivered in clear and accessible summaries. Nepal's latest developments reflect a mix of seasonal economic...",
-   "link": "https://english.khabarhub.com/2026/19/572545/",
-   "source": "Khabarhub EN",
-   "ts": 1792376143,
-   "weight": 2,
-   "img": "https://english.khabarhub.com/wp-content/uploads/2024/05/Economic-Digest-640x360.jpg",
-   "lang": "en",
-   "hl": "Economic Digest: A Snapshot of Nepal's Business News",
-   "en": "Economic Digest: A Snapshot of Nepal's Business News",
-   "ne": "Economic Digest: A Snapshot of Nepal's Business News",
-   "imp": 2,
-   "tags": [
-    "EconomicDigest",
-    "NepalBusiness"
-   ],
-   "cat": "economy",
-   "val": 1,
-   "teaser": true,
    "hits": 1
   }
  ],
@@ -7043,9 +6972,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "crime"
+  },
+  {
+   "ts": 1792405259.211217,
+   "en": "Nepal to focus on climate justice and Himalayan protection at COP-31 in Antalya",
+   "ne": "Nepal to focus on climate justice and Himalayan protection at COP-31 in Antalya",
+   "link": "https://english.khabarhub.com/2026/19/572616/",
+   "source": "Khabarhub EN",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "world"
   }
  ],
- "updated": 1792404658,
+ "updated": 1792405273,
  "pending_since": 1792404655.1790776,
  "fb_blocks": [
   1790350880.4125228,
