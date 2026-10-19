@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://www.setopati.com/social/401041": 1792243246.4259274,
-  "https://news.google.com/rss/articles/CBMiggFBVV95cUxPU1dGS09wY292YkQ5MjRCbmJ2MVVxaWVtcFVvZjF2Y3RfNmJ2RHNmekZkcFlGbEs3bFNBMEpWUWZKRDUwbjJ5VlFSNEJPbFJQb0RvQmxPUzg4Q1N1U3ZoM3p1TGlSM1FjcnNodnY5NzJKNVpZdEE4RzdqTGdwM2JNTTZn?oc=5": 1792243246.4259274,
   "https://news.google.com/rss/articles/CBMisAFBVV95cUxNU2syUzg4Qy1OemhYRzJiVHlqU2JSTktDUUJpbEVaRlJsd2tHOFBHR1RVQmpGWFo3ZWM0X2RzSHRMWklPYmk3TXk2c2FHQ1ZtYlV4THUxTWVubDNsOWx6elFpMVUxZFJnMC1YWUdueWNSNG1pLTNkOFUxcHpSZFRnQmowNUhteW9sa0FxUFpfcVV6aXYyOE9zRGNsMzl3M2Y0aHNrLUR2dXVyWGUySkpyYw?oc=5": 1792243871.283726,
   "https://kathmandupost.com/cricket/2026/10/17/nepal-suffer-shock-defeat-to-canada-ahead-of-crucial-oman-clash": 1792243871.283726,
   "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rTjl6Z25ONWRfb1BuaUt3bTdkdDlRQTNuSmxfYnF5S2dtR1RFY25LOS1TQy01ZXZqSWVDY01hS1RicklHcnU3a296anRka3FqTTdDcGlEWmo0NWM?oc=5": 1792243871.283726,
@@ -1169,7 +1167,10 @@
   "https://www.setopati.com/art/art-activity/401112": 1792414890.9324431,
   "https://nagariknews.nagariknetwork.com/social-affairs/dunatpari-industry-opens-up-avenue-of-income-for-women-in-tansen-44-45.html": 1792414890.9324431,
   "https://nagariknews.nagariknetwork.com/social-affairs/two-injured-after-explosion-of-object-found-on-trishuli-river-bank-70-70.html": 1792414890.9324431,
-  "https://nagariknews.nagariknetwork.com/international/japanese-prime-minister-says-i-wash-dishes-do-makeup-it-takes-me-four-hours-longer-than-men-91-79.html": 1792414890.9324431
+  "https://nagariknews.nagariknetwork.com/international/japanese-prime-minister-says-i-wash-dishes-do-makeup-it-takes-me-four-hours-longer-than-men-91-79.html": 1792414890.9324431,
+  "https://nagariknews.nagariknetwork.com/social-affairs/bailey-bridge-added-to-arughat-br-49-25.html": 1792416058.9772127,
+  "https://risingnepaldaily.com/news/87947": 1792416058.9772127,
+  "https://english.khabarhub.com/2026/19/572631/": 1792416058.9772127
  },
  "queue": [
   {
@@ -1260,52 +1261,6 @@
    "cat": "economy",
    "val": 1,
    "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "झलनाथ खनालको स्वास्थ्य अवस्था अहिले कस्तो छ ?",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/505303",
-   "source": "Baahrakhari",
-   "ts": 1792386704,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "झलनाथ खनालको स्वास्थ्य अवस्था अहिले कस्तो छ ?",
-   "en": "झलनाथ खनालको स्वास्थ्य अवस्था अहिले कस्तो छ ?",
-   "ne": "झलनाथ खनालको स्वास्थ्य अवस्था अहिले कस्तो छ ?",
-   "imp": 2,
-   "tags": [
-    "JhalanathKhanal",
-    "Health",
-    "রজনত"
-   ],
-   "cat": "health",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "OPINION: Women, girls bear postdisaster burden in flood-hit Nepal",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xOGQzVm9ZZ1g1Vy03T0pjaFhLbjJGNmdPSGVuakpvR3ctc05sQjFDQkNrdEwwMkVjWjNnWDBYSUZuUEVOYWl4UzhJNUZjaDRSSmtISkV1R09aZw?oc=5",
-   "source": "Japan Wire by Kyodo News",
-   "ts": 1792386900,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "OPINION: Women, girls bear postdisaster burden in flood-hit Nepal",
-   "en": "OPINION: Women, girls bear postdisaster burden in flood-hit Nepal",
-   "ne": "OPINION: Women, girls bear postdisaster burden in flood-hit Nepal",
-   "imp": 3,
-   "tags": [
-    "Flood",
-    "Women",
-    "PostDisaster"
-   ],
-   "cat": "disaster",
-   "val": 2,
-   "teaser": false,
    "hits": 1
   },
   {
@@ -1599,29 +1554,6 @@
    "val": 3,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "Zelensky speaks to US envoys as Trump lashes out",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPck1QTWR0cHZ0T0lWaFFZZlcwSE9LMlhhQ0V6MVBNaDNnUzJiRDdIZDFqMGExYlc5R0hsMGExZnNESTMwTXp2T25KbnQ4OWk4d3B4LUZ4cjZyTmY3ZFRzR0JOVzdnYW5ydjRMcl84aTM2UkxvWDBxN0RLWXdXQ2N4YUVKTmlLYVM5NUYzSzlvSWQ1Q2FMSy0wNGdDYmpSeWJoUDNpeTlB?oc=5",
-   "source": "myRepublica",
-   "ts": 1792386900,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Zelensky speaks to US envoys as Trump lashes out",
-   "en": "Zelensky speaks to US envoys as Trump lashes out",
-   "ne": "Zelensky speaks to US envoys as Trump lashes out",
-   "imp": 1,
-   "tags": [
-    "Zelensky",
-    "USA",
-    "Trump"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "मौसमविद्लाई प्रश्न- दसैँ टीकाको दिन कस्तो हुनेछ मौसम ?",
@@ -2436,7 +2368,7 @@
    "cat": "disaster",
    "val": 3,
    "teaser": false,
-   "hits": 3
+   "hits": 4
   },
   {
    "title": "फ्रान्समा प्रदर्शन जारी रहँदा खाडी भ्रमणमा निस्किए म्याक्रोन, गृहमन्त्रीको राजीनामा के भयो ?",
@@ -2773,7 +2705,7 @@
    "cat": "culture",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "Shooters who attacked Tiger Shroff planned to flee to Nepal | Tiger's driver and an another person was injured | Inshorts",
@@ -3340,29 +3272,6 @@
     "Russia",
     "Ukraine",
     "EnergyInfrastructure"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Open Letter from Nepal: Grants, Not Loans for Climate Disaster Recovery",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSFVaaHlNN2RTdmh4Z0lBcEsyMGpfcEY2SzE0ZFNKaUxGYmNYbVBETHVENlJPUUhxajNDdTh5UjVkZjFIeW1xSGhkOUZhVm1FWXE5VkpUblNHRTNmaG1McTU5U29hdFlVNk9HZFlveHB1ajdhTlQyMjd2MXBUUFhhem1HdTVPREIxQ0Z4RlFZNUNnd2M5X0VSTld1RDhGcnJUb0dOV2Q1Snp3Zw?oc=5",
-   "source": "La Via Campesina",
-   "ts": 1792412524,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Open Letter from Nepal: Grants, Not Loans for Climate Disaster Recovery",
-   "en": "Open Letter from Nepal: Grants, Not Loans for Climate Disaster Recovery",
-   "ne": "Open Letter from Nepal: Grants, Not Loans for Climate Disaster Recovery",
-   "imp": 3,
-   "tags": [
-    "Nepal",
-    "ClimateChange",
-    "ClimateDisaster"
    ],
    "cat": "world",
    "val": 3,
@@ -6541,9 +6450,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "sports"
+  },
+  {
+   "ts": 1792416066.0723813,
+   "en": "Nepal PM Balendra Shah Seeks Grants Not Loans for August 2026 Flood Recovery",
+   "ne": "Nepal PM Balendra Shah Seeks Grants Not Loans for August 2026 Flood Recovery",
+   "link": "https://viacampesina.org/en/2026/10/open-letter-from-nepal-grants-not-loans-for-climate-disaster-recovery/",
+   "source": "La Via Campesina",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "world"
   }
  ],
- "updated": 1792415457,
+ "updated": 1792416080,
  "pending_since": 1792415454.4975398,
  "fb_blocks": [
   1790350880.4125228,
