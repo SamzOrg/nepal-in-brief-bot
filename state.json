@@ -1194,7 +1194,9 @@
   "http://lokaantar.com/story/331564/2026/10/19/young-": 1792374052.1039805,
   "https://nagariknews.nagariknetwork.com/international/russia-s-insistence-on-resolving-the-conflict-between-saudi-arabia-and-the-houthis-75-49.html": 1792374052.1039805,
   "https://nagariknews.nagariknetwork.com/economy/sheep-meat-worth-rs-350-million-exported-via-mustang-during-dashain-32-14.html": 1792374052.1039805,
-  "https://nagariknews.nagariknetwork.com/social-affairs/the-weather-will-remain-clear-today-14-48.html": 1792374052.1039805
+  "https://nagariknews.nagariknetwork.com/social-affairs/the-weather-will-remain-clear-today-14-48.html": 1792374052.1039805,
+  "http://english.ratopati.com/story/84139/jiohotstar-enters-nepal-in-partnership-with-digoo": 1792374650.4676194,
+  "https://www.setopati.com/social/401089": 1792374650.4676194
  },
  "queue": [
   {
@@ -1943,6 +1945,29 @@
     "व्यापार"
    ],
    "cat": "economy",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "बारामा सर्पले टोकेर १० वर्षीया बालिकाको मृत्यु",
+   "summary": "",
+   "link": "https://www.setopati.com/social/401089",
+   "source": "Setopati",
+   "ts": 1792374420,
+   "weight": 3,
+   "img": null,
+   "lang": "ne",
+   "hl": "बारामा सर्पले टोकेर १० वर्षीया बालिकाको मृत्यु",
+   "en": "बारामा सर्पले टोकेर १० वर्षीया बालिकाको मृत्यु",
+   "ne": "बारामा सर्पले टोकेर १० वर्षीया बालिकाको मृत्यु",
+   "imp": 3,
+   "tags": [
+    "Bara",
+    "SnakeBite",
+    "सर्प"
+   ],
+   "cat": "society",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -5074,8 +5099,8 @@
    "cat": "economy"
   }
  ],
- "updated": 1792374074,
- "pending_since": null,
+ "updated": 1792374655,
+ "pending_since": 1792374650.4676194,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
