@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNzVXaFVfd0x3YUkyU2V5dDJxRFBCYXE4YzBtc1ZRTzRtY0F5NlhrYlVGU0g0blYwbkMtSmwwdUtFY1U0ZzFGU2FRYUVkZEZZOHAwZ0ZyYWMyeVVVZTIxd2RycmVGTncyckFkZEdWRVBHZzVpX1Zob2VSWWhVRk9HWXgzLVZEZzBOZFY3T1hwZnY3Yll6RVgxdWxINVkxNHcyNkVTYVhocnVhUzVqbUc1eEg5V3NoQQ?oc=5": 1792211467.331363,
   "https://gorkhapatraonline.com/news/226992": 1792212045.6798172,
   "https://baahrakhari.com/detail/505187": 1792212045.6798172,
   "https://nagariknews.nagariknetwork.com/social-affairs/monsoon-induced-disaster-causes-damage-worth-crores-in-beni-37-21.html": 1792212045.6798172,
@@ -1184,7 +1183,8 @@
   "https://baahrakhari.com/detail/505297": 1792383647.434533,
   "https://theannapurnaexpress.com/story/68054": 1792383647.434533,
   "https://theannapurnaexpress.com/story/68053": 1792383647.434533,
-  "https://theannapurnaexpress.com/story/68052": 1792383647.434533
+  "https://theannapurnaexpress.com/story/68052": 1792383647.434533,
+  "http://lokaantar.com/story/331579/2026/10/19/bagaicha": 1792384272.6705904
  },
  "queue": [
   {
@@ -2463,7 +2463,7 @@
    "cat": "culture",
    "val": 1,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "दुई करोड एक लाख ७३ हजार बराबरको आर्थिक नोक्सानी",
@@ -3032,17 +3032,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1791778865.0369997,
-   "en": "Chandra Bhandari Elected Nepali Congress Vice President at 15th Convention",
-   "ne": "Chandra Bhandari Elected Nepali Congress Vice President at 15th Convention",
-   "link": "https://english.onlinekhabar.com/chandra-bhandari-after-victory.html",
-   "source": "Onlinekhabar EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "politics"
-  },
   {
    "ts": 1791780660.8370662,
    "en": "३६ अर्बमा बनेको गौतम बुद्ध विमानस्थल सुनसान, पछिल्लो साढे ६ महिनादेखि उडान बन्द",
@@ -6157,7 +6146,7 @@
    "cat": "politics"
   }
  ],
- "updated": 1792383655,
+ "updated": 1792384276,
  "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
