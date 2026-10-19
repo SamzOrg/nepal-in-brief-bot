@@ -1209,32 +1209,10 @@
   "https://news.google.com/rss/articles/CBMifEFVX3lxTE5XeXMzclJwLXBtNDk2Q21oZEhPQlAwekJhMFB4N3lYQjNvQ1Myek9KcEZNQWtIOVE3VGU4RTBrR0Q1MlRZZFMtN2FmZURLMF9UVlN5bzJTOGQ2cmRxbE5Obzl6MW9OSmh2eW0yZHU3WHhHcXVPMWd6ZEhwc1bSAYABQVVfeXFMUEhFSGRac1o4UmhoWjRpa3BzZThQUXdPWVhmTWhwU2lDOXFPd2RWaVlyNGpLWGFqYjZGVnd4Qi1KemY1Vld2Q3FBaUg0ajAzMWlPdFJxRHlfRVpscno2b1pmRFNCeTU3WnlzajJWR3VCZ3BqTldPMnZWTGhWVFRweEI?oc=5": 1792368086.579271,
   "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSERQS1UwWk9ISGVaOHZYVW95blE2MVZrVXZiTWtXSU1mZENSdG5DQkRlTFdjOWVkdWlVWUtpUVBxUjYxOF9vbVlHWV9xX0J4WmtTeWw0VUJTQWYwQkVya25OX2RaaXdJbjJWUVdFc0RsY2QtZkRRX3RuZ0RIWHdKbDBWVGhRV0dMdWMweE14QW5aRlhpUFUtc2pyaHM4R3cyQUZ6S3ZKTWNWcXlFTTVLNVduZVA?oc=5": 1792368086.579271,
   "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVnRZaGdIWmRSZ2t1WnBJZXBNeXhVSXFYcnVWdWhVbnZnenU1MTJydk1QeVV4WFFXX3pEZzlOZ3VSeTVBakRPSFE5MTFiZGdHWUVBSkRzd0pJQUxGcDFzQzlJSXBORmxORTVDbXd4NWdWcEdDYVhBRDVlZm8wZVhvbm5yMUxzMUNGRHVvRGUycw?oc=5": 1792368086.579271,
-  "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB6bHoxX3l3TmpxbGRxQ2xzV0diMjFOeVctQTlJZ0VTb2FiTXlCN3JOOV83NnE1aEtOYUxvdW1YbFJVM2ZhalFTNUlJM212NUVr?oc=5": 1792368086.579271
+  "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB6bHoxX3l3TmpxbGRxQ2xzV0diMjFOeVctQTlJZ0VTb2FiTXlCN3JOOV83NnE1aEtOYUxvdW1YbFJVM2ZhalFTNUlJM212NUVr?oc=5": 1792368086.579271,
+  "http://english.ratopati.com/story/84130/this-is-the-foreign-exchange-rate-on-monday": 1792368646.1761541
  },
  "queue": [
-  {
-   "title": "Russia-US Diesel Deal Details Emerge",
-   "summary": "Kathmandu. Russian Deputy Prime Minister Alexander Novak has stated that it will take 15 to 20 days for fuel to...",
-   "link": "http://english.ratopati.com/story/84127/according-to-the-agreement-with-russia-it-will-take-15-20-days-for-diesel-to-reach-the-us-market",
-   "source": "Ratopati EN",
-   "ts": 1792339518,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/crude-oil_M1n9RwLL3O.jpg",
-   "lang": "en",
-   "hl": "Russia-US Diesel Deal Details Emerge",
-   "en": "Russia-US Diesel Deal Details Emerge",
-   "ne": "Russia-US Diesel Deal Details Emerge",
-   "imp": 1,
-   "tags": [
-    "Russia",
-    "Diesel",
-    "Economy"
-   ],
-   "cat": "world",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
   {
    "title": "Cary 5K raises money for Nepal flood, landslide victims",
    "summary": "",
@@ -1302,28 +1280,6 @@
    "cat": "world",
    "val": 3,
    "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "From Himalayas To Hormuz",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBtVV9sV0pFdWNaMXpwOTFhdEZjY1lBS1F6YXptYURXZmpjMlZ6b1ZMUUhzYlFaRlJtRzRpSk9sSFk1Q3QwS2stQldGSTYwVUlD?oc=5",
-   "source": "The Rising Nepal",
-   "ts": 1792339673,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "From Himalayas To Hormuz",
-   "en": "From Himalayas To Hormuz",
-   "ne": "From Himalayas To Hormuz",
-   "imp": 1,
-   "tags": [
-    "Himalayas",
-    "Hormuz"
-   ],
-   "cat": "world",
-   "val": 1,
-   "teaser": true,
    "hits": 1
   },
   {
@@ -4682,8 +4638,8 @@
    "cat": "disaster"
   }
  ],
- "updated": 1792368094,
- "pending_since": null,
+ "updated": 1792368650,
+ "pending_since": 1792368646.1761541,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
