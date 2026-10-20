@@ -1113,7 +1113,9 @@
   "https://thehimalayantimes.com/nepal/mahanawami-observed-with-prayers-sacrifices-and-weapon-worship": 1792462251.5574403,
   "https://english.khabarhub.com/2026/20/572636/": 1792462850.1409202,
   "http://english.ratopati.com/story/84182/expansion-to-stagnation-the-last-decade-of-nepali-banking": 1792462850.1409202,
-  "https://risingnepaldaily.com/news/87950": 1792462850.1409202
+  "https://risingnepaldaily.com/news/87950": 1792462850.1409202,
+  "https://nagariknews.nagariknetwork.com/Dharma-Saskriti/taleju-bhavani-temple-in-hanuman-dhoka-durbar-square-opened-61-71.html": 1792463465.686952,
+  "https://kathmandupost.com/national/2026/10/20/baglung-flood-survivors-face-dashain-without-homes-as-rebuilding-stalls": 1792463465.686952
  },
  "queue": [
   {
@@ -1321,7 +1323,7 @@
    "cat": "culture",
    "val": 3,
    "teaser": false,
-   "hits": 3
+   "hits": 4
   },
   {
    "title": "नेपाली सेनाले जडान गर्‍यो आरुघाटमा बेलीब्रिज",
@@ -1855,20 +1857,32 @@
    "val": 3,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "Baglung flood survivors face Dashain without homes as rebuilding stalls",
+   "summary": "Families in Baglung are living in a cooperative building, relatives' homes and a buffalo shed after floods swept away their houses and farmland. Many struggle to secure land and meet government requirements for...",
+   "link": "https://kathmandupost.com/national/2026/10/20/baglung-flood-survivors-face-dashain-without-homes-as-rebuilding-stalls",
+   "source": "Kathmandu Post",
+   "ts": 1792449066.8873546,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "Baglung flood survivors face Dashain without homes as rebuilding stalls",
+   "en": "Baglung flood survivors face Dashain without homes as rebuilding stalls",
+   "ne": "Baglung flood survivors face Dashain without homes as rebuilding stalls",
+   "imp": 3,
+   "tags": [
+    "Baglung",
+    "Flood",
+    "Dashain"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1791858064.91805,
-   "en": "56,809 leave Kathmandu Valley as Dashain passenger outflow surges",
-   "ne": "56,809 leave Kathmandu Valley as Dashain passenger outflow surges",
-   "link": "https://english.khabarhub.com/2026/13/571776/",
-   "source": "Khabarhub EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "society"
-  },
   {
    "ts": 1791859859.8089678,
    "en": "Flooding on river in Nepal sweeps away hydropower plant",
@@ -4961,7 +4975,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1792462882,
+ "updated": 1792463470,
  "pending_since": 1792462251.5574403,
  "fb_blocks": [
   1790350880.4125228,
