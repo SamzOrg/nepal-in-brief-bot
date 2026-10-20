@@ -1189,29 +1189,6 @@
  },
  "queue": [
   {
-   "title": "पछिल्लो २४ घण्टामा विपद्का २४ घटना : एकजनाको मृत्यु, ११ घाइते",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/505373",
-   "source": "Baahrakhari",
-   "ts": 1792488053,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "पछिल्लो २४ घण्टामा विपद्का २४ घटना : एकजनाको मृत्यु, ११ घाइते",
-   "en": "पछिल्लो २४ घण्टामा विपद्का २४ घटना : एकजनाको मृत्यु, ११ घाइते",
-   "ne": "पछिल्लो २४ घण्टामा विपद्का २४ घटना : एकजनाको मृत्यु, ११ घाइते",
-   "imp": 2,
-   "tags": [
-    "Disaster",
-    "Injuries",
-    "नेपाल"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "७० वर्षीया वृद्धाको सिक्री लुटेको आरोपमा दुईजना पक्राउ",
    "summary": "",
    "link": "https://baahrakhari.com/detail/505375",
@@ -1387,75 +1364,6 @@
     "Zelensky",
     "USA",
     "Missiles"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "पुटिन र सीसँग बैठक गर्न ट्रम्प तयार, तर परमाणु वार्तामा चीन किन असहमत?",
-   "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्पले चीनका राष्ट्रपति सी चिनफिङ र रूसका राष्ट्रपति भ्लादिमिर पुटिनसँग संयुक्त बैठक गर्न आफू तयार रहेको बताएका छन्।",
-   "link": "https://www.setopati.com/politics/401137",
-   "source": "Setopati",
-   "ts": 1792488180,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "पुटिन र सीसँग बैठक गर्न ट्रम्प तयार, तर परमाणु वार्तामा चीन किन असहमत?",
-   "en": "पुटिन र सीसँग बैठक गर्न ट्रम्प तयार, तर परमाणु वार्तामा चीन किन असहमत?",
-   "ne": "पुटिन र सीसँग बैठक गर्न ट्रम्प तयार, तर परमाणु वार्तामा चीन किन असहमत?",
-   "imp": 1,
-   "tags": [
-    "Putin",
-    "XiJinping",
-    "DonaldTrump"
-   ],
-   "cat": "world",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "कुन उमेर समूहकाले कति मासु खाने ?",
-   "summary": "मासु स्वादिलो परिकार मात्र होइन, प्रोटिन, फलाम, फस्फोरस, जिंक र भिटामिन 'बी' समूहका विभिन्न तत्त्वको स्रोत पनि हो। शरीरको वृद्धि, मांसपेशीको विकास र विभिन्न शारीरिक क्रियाकलापका लागि यी पोषक तत्त्व आवश्यक हुन्छन्।...",
-   "link": "https://nagariknews.nagariknetwork.com/health/how-much-meat-should-people-of-different-age-groups-eat-74-15.html",
-   "source": "Nagarik News",
-   "ts": 1792488326,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1792488189_Dashain%20Feast%20and%20Healthy%20Choices.png",
-   "lang": "ne",
-   "hl": "कुन उमेर समूहकाले कति मासु खाने ?",
-   "en": "कुन उमेर समूहकाले कति मासु खाने ?",
-   "ne": "कुन उमेर समूहकाले कति मासु खाने ?",
-   "imp": 2,
-   "tags": [
-    "Health",
-    "Diet",
-    "स्वास्थ्य"
-   ],
-   "cat": "health",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "US Midterm Elections to Determine Control of Congress on November 3",
-   "summary": "Kathmandu. The midterm elections, which will determine the control of Parliament during the remaining term of US President Donald Trump,...",
-   "link": "http://english.ratopati.com/story/84220/tight-competition-in-the-us-midterm-elections",
-   "source": "Ratopati EN",
-   "ts": 1792488569,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/donald-trump_KLtJzd0bNC.webp",
-   "lang": "en",
-   "hl": "US Midterm Elections to Determine Control of Congress on November 3",
-   "en": "US Midterm Elections to Determine Control of Congress on November 3",
-   "ne": "US Midterm Elections to Determine Control of Congress on November 3",
-   "imp": 1,
-   "tags": [
-    "USElections",
-    "Congress",
-    "Politics"
    ],
    "cat": "world",
    "val": 3,
@@ -6303,7 +6211,7 @@
    "cat": "crime"
   }
  ],
- "updated": 1792516855,
+ "updated": 1792517413,
  "pending_since": 1792516252.8519647,
  "fb_blocks": [
   1790350880.4125228,
