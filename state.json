@@ -1185,7 +1185,9 @@
   "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWDFiby1vWU51Rm5fbjllQnVIV2pwRGxBYWZZaDdMbl9TNzZsWWI5aFZJX1pDWUVWdTJQRjhhb2FSeHhtM0tOMjVjLThncklCWUlmNnF4dlFVZkNRaWswMVdQdmNnc1REZHM2OXRjRlItMndORi1sVXEyMkRnS3hSNnBkbWhvZ3RMVXhxdlVmNDV0UQ?oc=5": 1792528265.5354,
   "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTElmZWVaNjZNUFNnb3UyUGxhUTZuMXJsUXVpaXZxVUNYNEtRUmpyT2luYmhpX2E1MjU0c1lHRW1wZERERUZJWHp1T0hIVVViMm9jSVc4VlltSDZ6cmN1WS1zSlRSMHZReXNQb1QyRUJyd3VaSlZRMzVPeXlRdk5NQWgwMFJobUhuYVVNZElJTXA4WGJzMy1mdjhxNnZIRnVWVDhMSVlFTnlzSkJCeWhSWllYdHlDSkk?oc=5": 1792528850.020015,
   "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZmd1NjZqTWh6QTB0VXpkZGlNUXpNSFh3aEZhZmhDYUltdXFYZFNoUTRGblNBaWNOdHNZbjZ5NW5Ib0JsRW9VRWhNUnFHUVh0V1duSW9pbnFUUzU5ckFrUjZjUWc3YWdxMk1ickNhTGJ6WFdPTHFmc0ZISGRUVklFa21adHlBZjU5WU1DcXUxTXFsNHVqZzhoV0ltUExudmVwMWZTNGxVWUwxZ9IBqgFBVV95cUxPZmd1NjZqTWh6QTB0VXpkZGlNUXpNSFh3aEZhZmhDYUltdXFYZFNoUTRGblNBaWNOdHNZbjZ5NW5Ib0JsRW9VRWhNUnFHUVh0V1duSW9pbnFUUzU5ckFrUjZjUWc3YWdxMk1ickNhTGJ6WFdPTHFmc0ZISGRUVklFa21adHlBZjU5WU1DcXUxTXFsNHVqZzhoV0ltUExudmVwMWZTNGxVWUwxZw?oc=5": 1792533048.1547594,
-  "http://english.ratopati.com/story/84241/psgs-thrilling-4-2-win-over-barcelona": 1792535465.9335945
+  "http://english.ratopati.com/story/84241/psgs-thrilling-4-2-win-over-barcelona": 1792535465.9335945,
+  "http://english.ratopati.com/story/84243/phil-fodens-hat-trick-leads-manchester-city-to-a-5-1-win": 1792536047.9119902,
+  "http://english.ratopati.com/story/84242/liverpools-brilliant-comeback-from-two-goals-down-to-defeat-villarreal-4-3": 1792536047.9119902
  },
  "queue": [
   {
@@ -1784,7 +1786,7 @@
    "cat": "sports",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 3
   }
  ],
  "posted": [
@@ -4858,8 +4860,8 @@
    "cat": "sports"
   }
  ],
- "updated": 1792535470,
- "pending_since": 1792535465.9335945,
+ "updated": 1792536052,
+ "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
