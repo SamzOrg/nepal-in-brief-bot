@@ -1141,32 +1141,12 @@
   "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOFctOTRwUmotMUFMOU9PcGcyRFplVVVMU0ZzX0o2aTZzVUlsZ2RmYTBXVklLWDRXdTBHVFBJdDAtQmxfbFNWN2ZhdjVCb3Y2VkxuUlFuU1gyb3ZXbldUOW5GVzJ2TjNfWTJrTlFOS0NTOEU0YlJFVnNvS21BeEpHMEFyWGFHeVZsWjhhS05FQnNWS2hxdkRJNVY1T2gyVzZwNVZHOExweTI?oc=5": 1792484452.6778495,
   "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBsb2gwYkRnamRKNkQyQTVvb1Jkd3Y1V0htRFM1VE5wYVF2UjFsZmotbmUyclEweGhkbW1BQnZrWnU5TEE1bFBncDJRQXBCd0k2LW5UOGVXVQ?oc=5": 1792484452.6778495,
   "https://news.google.com/rss/articles/CBMingFBVV95cUxQa29wdFdsY1VUXzVvbGV1a0ZMd2poUlA0VEFycm5RWUk2NWZ1ekZuWHpGVWEtbXlEVGFJdHdGYldRWmxvM09uMnRqcUMzTnV5ZllCZEZfU25ibkJPd2RlaWt2TDZtYXEyQXlISElyN09fNlptNXZyTmtrR0FlMzNib05QdllPUDFreFNWSDN4WWN0aUl5ejdzdVh3T2thQQ?oc=5": 1792484452.6778495,
-  "http://lokaantar.com/story/331654/2026/10/20/taleju-bhawani": 1792484452.6778495
+  "http://lokaantar.com/story/331654/2026/10/20/taleju-bhawani": 1792484452.6778495,
+  "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1vZXlhRmV6dGZZNF9NZkp0VHBVRTQyTkp5ZUhieG9xWjBqelZwQXpDb2xxNGNCeFdxa1gwWndBNTQzWG1Qem0xWWhpZlk3dkRwV2xyeWlnYw?oc=5": 1792485068.6299522,
+  "https://kathmandupost.com/nepali-diaspora/2026/10/20/far-from-home-dashain-carries-a-different-kind-of-ache": 1792485068.6299522,
+  "http://lokaantar.com/story/331655/2026/10/20/accident": 1792485068.6299522
  },
  "queue": [
-  {
-   "title": "तलेजु भवानी मन्दिर आज सर्वसाधारणका लागि खुला",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/505341",
-   "source": "Baahrakhari",
-   "ts": 1792455693,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "तलेजु भवानी मन्दिर आज सर्वसाधारणका लागि खुला",
-   "en": "तलेजु भवानी मन्दिर आज सर्वसाधारणका लागि खुला",
-   "ne": "तलेजु भवानी मन्दिर आज सर्वसाधारणका लागि खुला",
-   "imp": 2,
-   "tags": [
-    "TalejuTemple",
-    "Dashain",
-    "तलेजुभवानी"
-   ],
-   "cat": "culture",
-   "val": 3,
-   "teaser": false,
-   "hits": 4
-  },
   {
    "title": "Nepali athletes remain busy with international competitions during Dashain",
    "summary": "Kathmandu, October 20 Dashain is a festival of joy, celebration and family gatherings for Nepalis. For the country's athletes, however, the festive season is also a busy period, with competitions continuing across...",
@@ -1211,7 +1191,7 @@
    "cat": "society",
    "val": 1,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "चीनमा पुटिन, ट्रम्प र सीबीच त्रिपक्षीय बैठकको सम्भावना : युक्रेनद्वारा आलोचना",
@@ -2942,7 +2922,7 @@
    "cat": "disaster",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "Aung San Suu Kyi Receives Package from King Charles III in Myanmar Detention",
@@ -3171,7 +3151,7 @@
    "cat": "sports",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Will AI create the next nuclear club?",
@@ -6507,7 +6487,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1792484473,
+ "updated": 1792485073,
  "pending_since": 1792483287.163339,
  "fb_blocks": [
   1790350880.4125228,
