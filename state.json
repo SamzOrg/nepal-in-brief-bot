@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://nagariknews.nagariknetwork.com/politics/congress-will-not-hold-a-tea-party-on-kojagrat-purnima-this-year-34-11.html": 1792305065.5783875,
   "https://theannapurnaexpress.com/story/68032": 1792305646.3650246,
   "https://theannapurnaexpress.com/story/68033": 1792305646.3650246,
   "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMnIwOWRTZm9Ka002T0lhcnNsRzk3MXRmUjF0MHN2M0JiWDIzT0ZFMFJCakJsdXpBVDV5ZkZLaHg2bEFzeU9FeFVMdmRGTGtQSTVrNktEdU1kOV9qVHJnUmRISjdJNUpRRHlPYUFTdTZoOUFycEZjR0Jsa0RRTmlPdWQ2WjVPdzltWlNQTGFJYl9vN05oOEZnUEZidDNVSHB5SGlQLUhyckNyeEpiS25LUFlIbm8?oc=5": 1792306248.8945992,
@@ -1095,7 +1094,11 @@
   "https://baahrakhari.com/detail/505361": 1792477252.4430737,
   "https://thehimalayantimes.com/nepal/rs-3-4-billion-needed-to-rebuild-flood-damaged-beni-jomsom-korala-road": 1792477252.4430737,
   "https://nagariknews.nagariknetwork.com/social-affairs/landslide-in-phaparkhet-affects-traffic-in-western-myagdi-61-80.html": 1792477252.4430737,
-  "https://theannapurnaexpress.com/story/68087": 1792477252.4430737
+  "https://theannapurnaexpress.com/story/68087": 1792477252.4430737,
+  "https://baahrakhari.com/detail/505363": 1792477867.7703884,
+  "https://risingnepaldaily.com/news/87951": 1792477867.7703884,
+  "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HYzVDaUc3cXJCOGp6VTVUdldqTXRDSjk4dm0yeU93b2p1MDZTNEFoVEF0am1LRU02VUZzTzZoY05vcXBhRFhDMjlzLVdLdG9OMUFjMi1qcUp4R0hteXRSUk1ZNEloZUE?oc=5": 1792477867.7703884,
+  "https://theannapurnaexpress.com/story/68086": 1792477867.7703884
  },
  "queue": [
   {
@@ -1583,29 +1586,6 @@
    "val": 3,
    "teaser": false,
    "hits": 2
-  },
-  {
-   "title": "Baglung flood survivors face Dashain without homes as rebuilding stalls",
-   "summary": "Families in Baglung are living in a cooperative building, relatives' homes and a buffalo shed after floods swept away their houses and farmland. Many struggle to secure land and meet government requirements for...",
-   "link": "https://kathmandupost.com/national/2026/10/20/baglung-flood-survivors-face-dashain-without-homes-as-rebuilding-stalls",
-   "source": "Kathmandu Post",
-   "ts": 1792449066.8873546,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Baglung flood survivors face Dashain without homes as rebuilding stalls",
-   "en": "Baglung flood survivors face Dashain without homes as rebuilding stalls",
-   "ne": "Baglung flood survivors face Dashain without homes as rebuilding stalls",
-   "imp": 3,
-   "tags": [
-    "Baglung",
-    "Flood",
-    "Dashain"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
   },
   {
    "title": "७ लाख संकलन गरी तुलसीपुरमा प्रहरीले राख्यो सडकमा ५०० डिभाइडर",
@@ -2531,7 +2511,7 @@
    "cat": "culture",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "इतिहासको चिहानमाथि उभिएर",
@@ -2623,7 +2603,7 @@
    "cat": "disaster",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "चोरीका गरगहनासहित महिला पक्राउ",
@@ -2646,7 +2626,7 @@
    "cat": "crime",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Rice Harvest Nears Completion in Tamakoshi Riverine Plains Amidst Dashain Festivities",
@@ -2893,6 +2873,29 @@
     "Jhapa",
     "ElephantAttack",
     "WildlifeConflict"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Bhotekoshi flood leaves 163 students and 17 teachers missing in Rasuwa",
+   "summary": "By Hemnath KhatiwadaRASUWA - Flash floods triggered by the Bhote Koshi River entering through Lende have caused widespread devastation across Rasuwa district, leaving 163 students and 17 teachers out of contact. The...",
+   "link": "https://theannapurnaexpress.com/story/68086",
+   "source": "Annapurna Express",
+   "ts": 1792463468.9305556,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "Bhotekoshi flood leaves 163 students and 17 teachers missing in Rasuwa",
+   "en": "Bhotekoshi flood leaves 163 students and 17 teachers missing in Rasuwa",
+   "ne": "Bhotekoshi flood leaves 163 students and 17 teachers missing in Rasuwa",
+   "imp": 5,
+   "tags": [
+    "Bhotekoshi",
+    "Flood",
+    "Rasuwa"
    ],
    "cat": "disaster",
    "val": 3,
@@ -5993,7 +5996,7 @@
    "cat": "culture"
   }
  ],
- "updated": 1792477276,
+ "updated": 1792477874,
  "pending_since": 1792476086.330355,
  "fb_blocks": [
   1790350880.4125228,
