@@ -1190,29 +1190,6 @@
  },
  "queue": [
   {
-   "title": "12 Dead, 30 Injured in Bus-Truck Collision in Egypt",
-   "summary": "Kathmandu. At least 12 people have died and 30 have been injured in a collision between a bus and a...",
-   "link": "http://english.ratopati.com/story/84235/12-killed-30-injured-in-bus-truck-collision-in-egypt",
-   "source": "Ratopati EN",
-   "ts": 1792501389,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/accident1_0HVVwEUEAJ.jpg",
-   "lang": "en",
-   "hl": "12 Dead, 30 Injured in Bus-Truck Collision in Egypt",
-   "en": "12 Dead, 30 Injured in Bus-Truck Collision in Egypt",
-   "ne": "12 Dead, 30 Injured in Bus-Truck Collision in Egypt",
-   "imp": 1,
-   "tags": [
-    "Egypt",
-    "BusAccident",
-    "WorldNews"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Madhesh Province Youth Struggle with Remittance Mismanagement Despite Foreign Employment",
    "summary": "Kathmandu. Ramkisun Dev of Rajbiraj, Saptari, returned from Saudi Arabia last year after five years. Despite being abroad for five...",
    "link": "http://english.ratopati.com/story/84190/where-is-the-money-earned-from-foreign-employment-spent-in-madhesh",
@@ -1254,29 +1231,6 @@
     "Scooter"
    ],
    "cat": "crime",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Indian Pilgrims Returning From Nepal Delayed At Jhulaghat Bridge By An Hour",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNazItdEwya0hyU1d6MVhnRlZ2aDVxcEtCV2c5VEIzNnF0aEtnOWRJY1dhRFlpMVNHczFwOTg2cjlmSFJaOW0zNjJaX2NvQmlXd1lQemtRR0RJMFhYSXlZcXp2MFFFd0hKVm05SFd2WFBNZ2JtX0NMcjFFWjd0TlVsTHAtdXRqQmN3QUUwN0dtZlpDVWQ0bm1DQUMtUHYzVkhja2Z2NnQ2OWd2Tk45WUQwQWRpQ0hYOFc4ajZUSXlaY3Z3M1hN0gHKAUFVX3lxTE9RSk5MQWRROG9PRU5sNjVBSGVraXFYTkExMkh0TnQzSmZKV3lBVkRJRWJULXhKbE85T0JyQVZGQ3l2UFNlTlo0WmF3QVNfSUtUbHJRdlFGc3R6eTN6NkFDUl9HTG5lUzZDcnJaVlgyMEJoMDdTMlc2TXFjRVFwNGl1Vm5rUjNuSWpNRXdFUGpFaVJXRGk4dGFjNU9oZmw5SDNTN2FlLTRJaFJzX1BYclJQOUdNS2lUbklQZDA4dll4eG1UUFdUWXBKZWc?oc=5",
-   "source": "ETV Bharat",
-   "ts": 1792501501,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Indian Pilgrims Returning From Nepal Delayed At Jhulaghat Bridge By An Hour",
-   "en": "Indian Pilgrims Returning From Nepal Delayed At Jhulaghat Bridge By An Hour",
-   "ne": "Indian Pilgrims Returning From Nepal Delayed At Jhulaghat Bridge By An Hour",
-   "imp": 2,
-   "tags": [
-    "JhulaghatBridge",
-    "IndianPilgrims",
-    "Nepal"
-   ],
-   "cat": "world",
    "val": 2,
    "teaser": false,
    "hits": 1
@@ -5385,7 +5339,7 @@
    "cat": "crime"
   }
  ],
- "updated": 1792530091,
+ "updated": 1792530656,
  "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
