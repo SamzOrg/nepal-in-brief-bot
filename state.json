@@ -1152,32 +1152,13 @@
   "http://english.ratopati.com/story/84200/advance-ticket-booking-for-ramayana-begins": 1792459248.5641532,
   "http://lokaantar.com/story/331632/2026/10/20/maulakalika-": 1792459248.5641532,
   "http://english.ratopati.com/story/84199/africa-cup-of-nations-title-dispute-senegals-appeal-to-be-decided-by-end-of-november": 1792459248.5641532,
-  "http://english.ratopati.com/story/84198/psg-barcelona-match-not-canceled-despite-violent-protests-in-france": 1792459248.5641532
+  "http://english.ratopati.com/story/84198/psg-barcelona-match-not-canceled-despite-violent-protests-in-france": 1792459248.5641532,
+  "https://nagariknews.nagariknetwork.com/social-affairs/motorcyclist-dies-after-being-hit-by-pickup-truck-59-54.html": 1792459864.052084,
+  "https://nagariknews.nagariknetwork.com/social-affairs/khandbari-kimathanka-road-the-lifeline-connecting-nepal-and-china-is-back-in-operation-89-87.html": 1792459864.052084,
+  "https://nagariknews.nagariknetwork.com/social-affairs/cable-car-to-be-built-in-devghat-maulakalika-19-53.html": 1792459864.052084,
+  "https://theannapurnaexpress.com/story/68077": 1792459864.052084
  },
  "queue": [
-  {
-   "title": "Eckerd College event commemorates the lives lost from the Nepal-Tibet 2026 floods",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPLWRyeEVsVGEwTWVqdm1VQkR4NHV3UjVPWG5ZZXBFczAxekx4WlVRRUl2R2N4ZE1aaGJMZ3ZlbTlucTZnalF4YUdNdXk4a0c0aG90UkZOdmo3Z3ZUN3NtdmdCeTNxTDI1Qy15Nmp2N00tR1FxcUc2SG5senJXczl1YWxEeDBYUHQtLUR3cElmaWRWbDctSy04V3NoaTE4T3ZJd19NVUxlelZyVE4xWU8tVS1RU0k1dw?oc=5",
-   "source": "Eckerd College",
-   "ts": 1792430554,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Eckerd College event commemorates the lives lost from the Nepal-Tibet 2026 floods",
-   "en": "Eckerd College event commemorates the lives lost from the Nepal-Tibet 2026 floods",
-   "ne": "Eckerd College event commemorates the lives lost from the Nepal-Tibet 2026 floods",
-   "imp": 1,
-   "tags": [
-    "EckerdCollege",
-    "NepalTibet",
-    "Floods"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
   {
    "title": "Mud-stained hope: Nepal's flood survivors search for stability as shadow of loss looms",
    "summary": "",
@@ -1222,7 +1203,7 @@
    "cat": "culture",
    "val": 2,
    "teaser": false,
-   "hits": 3
+   "hits": 4
   },
   {
    "title": "कस्तो हुन्छ आज दिनभरको मौसम ?",
@@ -1730,7 +1711,7 @@
    "cat": "society",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Senegal's Appeal on Africa Cup of Nations Final to be Decided by End of November",
@@ -1781,17 +1762,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1791854461.5639167,
-   "en": "बाढीले दुई सातादेखि अवरूद्ध गलकोट-ताराखोला सडक सञ्चालनमा",
-   "ne": "बाढीले दुई सातादेखि अवरूद्ध गलकोट-ताराखोला सडक सञ्चालनमा",
-   "link": "https://www.setopati.com/social/400703",
-   "source": "Setopati",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "economy"
-  },
   {
    "ts": 1791856257.8822038,
    "en": "Nepal's ambassador nominees to Saudi Arabia and Japan face complaints",
@@ -4884,8 +4854,8 @@
    "cat": "crime"
   }
  ],
- "updated": 1792459275,
- "pending_since": null,
+ "updated": 1792459870,
+ "pending_since": 1792459864.052084,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
