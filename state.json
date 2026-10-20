@@ -1143,7 +1143,8 @@
   "http://english.ratopati.com/story/84221/zelenskyy-accuses-us-of-withholding-missiles-for-ukraine": 1792490492.335644,
   "https://www.setopati.com/politics/401137": 1792490492.335644,
   "https://nagariknews.nagariknetwork.com/health/how-much-meat-should-people-of-different-age-groups-eat-74-15.html": 1792490492.335644,
-  "http://english.ratopati.com/story/84220/tight-competition-in-the-us-midterm-elections": 1792490492.335644
+  "http://english.ratopati.com/story/84220/tight-competition-in-the-us-midterm-elections": 1792490492.335644,
+  "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRUl3akFtYVBub04wWXh6Xy10dENEeGFmcEZpQ0NYYXF3dEs0d0I5VmlTbGRaWUJuUUx3QmxrMUFubHhBR21YMTh4T2lsTmdpMVJkRTFXSUVBU3ZNaWxaN183eGNZNzcwcG5ZbDRqaUZPS1J0S2Via0l1b3YySHFJTkYzY1B6NkJaS1Q3a2hwZkgxNkxFYjU2UEVfYlRyemtGY1hHcEtzWDlIYnlLTktR?oc=5": 1792491049.934531
  },
  "queue": [
   {
@@ -1446,30 +1447,6 @@
    ],
    "cat": "health",
    "val": 1,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "कटारी दुर्घटना : बालिकालाई पढाउने सहमतिमा श्रेष्ठको श*व पोष्टमार्टम",
-   "summary": "तीन दिनअघि सवारी दुर्घटनामा ज्यान गुमाएका सुमन श्रेष्ठको शव पोष्टमार्टम भएको छ।",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/katari-accident-shrestha-s-body-postmortem-after-girl-s-consent-to-teach-her-br-73-37.html",
-   "source": "Nagarik News",
-   "ts": 1792461775,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1792461756_Untitled%20design.png",
-   "lang": "ne",
-   "hl": "कटारी दुर्घटना : बालिकालाई पढाउने सहमतिमा श्रेष्ठको श*व पोष्टमार्टम",
-   "en": "कटारी दुर्घटना : बालिकालाई पढाउने सहमतिमा श्रेष्ठको श*व पोष्टमार्टम",
-   "ne": "कटारी दुर्घटना : बालिकालाई पढाउने सहमतिमा श्रेष्ठको श*व पोष्टमार्टम",
-   "imp": 3,
-   "tags": [
-    "Katari",
-    "Udayapur",
-    "Accident",
-    "PostMortem"
-   ],
-   "cat": "crime",
-   "val": 3,
    "teaser": false,
    "hits": 1
   },
@@ -2434,7 +2411,7 @@
    "cat": "world",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Nepal Hindu Festival",
@@ -3723,17 +3700,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1791885693.911355,
-   "en": "Government Prepares to Establish Infrastructure Development Fund with Rs 100 Billion Capital",
-   "ne": "Government Prepares to Establish Infrastructure Development Fund with Rs 100 Billion Capital",
-   "link": "http://english.ratopati.com/story/83556/preparations-are-underway-to-establish-a-fund-worth-1-trillion-to-raise-investment-in-infrastructure-what-will-be-the-share-structure",
-   "source": "Ratopati EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "economy"
-  },
   {
    "ts": 1791887482.429075,
    "en": "Engineers work to reposition flood-displaced bridge on Galchhi-Trishuli-Mailung road",
@@ -6804,8 +6770,8 @@
    "cat": "health"
   }
  ],
- "updated": 1792490498,
- "pending_since": null,
+ "updated": 1792491053,
+ "pending_since": 1792491049.934531,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
