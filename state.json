@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://kathmandupost.com/money/2026/10/18/nepal-imports-2-million-packs-of-playing-cards-in-two-months": 1792339850.3477128,
   "http://english.ratopati.com/story/84128/eu-strongly-condemns-attack-on-diplomat": 1792340448.3729773,
   "https://nagariknews.nagariknetwork.com/social-affairs/youth-group-s-free-transportation-service-campaign-during-dashain-95-48.html": 1792340448.3729773,
   "https://nagariknews.nagariknetwork.com/social-affairs/five-days-to-submit-details-of-those-missing-in-the-flood-10-26.html": 1792340448.3729773,
@@ -3102,30 +3101,6 @@
    ],
    "cat": "disaster",
    "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "राष्ट्रपति पौडेलले गुरू पुरोहितबाट टीका ग्रहण गर्ने",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/505390",
-   "source": "Baahrakhari",
-   "ts": 1792508625,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "राष्ट्रपति पौडेलले गुरू पुरोहितबाट टीका ग्रहण गर्ने",
-   "en": "राष्ट्रपति पौडेलले गुरू पुरोहितबाट टीका ग्रहण गर्ने",
-   "ne": "राष्ट्रपति पौडेलले गुरू पुरोहितबाट टीका ग्रहण गर्ने",
-   "imp": 3,
-   "tags": [
-    "President",
-    "RamChandraPoudel",
-    "Dashain",
-    "टीका"
-   ],
-   "cat": "society",
-   "val": 2,
    "teaser": false,
    "hits": 1
   },
@@ -6339,9 +6314,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "sports"
+  },
+  {
+   "ts": 1792512752.815966,
+   "en": "राष्ट्रपति पौडेलले बुधबार बिहान १०:२६ बजे टीका र जमरा ग्रहण गर्ने",
+   "ne": "राष्ट्रपति पौडेलले बुधबार बिहान १०:२६ बजे टीका र जमरा ग्रहण गर्ने",
+   "link": "https://baahrakhari.com/detail/505390",
+   "source": "Baahrakhari",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "society"
   }
  ],
- "updated": 1792512094,
+ "updated": 1792512764,
  "pending_since": 1792510857.5927842,
  "fb_blocks": [
   1790350880.4125228,
