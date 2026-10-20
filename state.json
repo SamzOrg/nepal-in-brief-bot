@@ -1103,7 +1103,9 @@
   "https://nagariknews.nagariknetwork.com/Dharma-Saskriti/ashwin-shukla-navami-mahanavami-festival-being-celebrated-37-29.html": 1792467649.3063633,
   "https://nagariknews.nagariknetwork.com/social-affairs/katari-accident-shrestha-s-body-postmortem-after-girl-s-consent-to-teach-her-br-73-37.html": 1792467649.3063633,
   "https://nagariknews.nagariknetwork.com/economy/why-have-the-number-of-tourists-visiting-mustang-decreased-92-92.html": 1792467649.3063633,
-  "https://nagariknews.nagariknetwork.com/politics/we-will-prioritize-infrastructure-development-in-marchwar-minister-lamsal-17-89.html": 1792467649.3063633
+  "https://nagariknews.nagariknetwork.com/politics/we-will-prioritize-infrastructure-development-in-marchwar-minister-lamsal-17-89.html": 1792467649.3063633,
+  "https://www.setopati.com/social/401124": 1792468247.1760433,
+  "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVEphaDNOa0ozOWo3bzBiVVV6eUxRVmxZdkZCOGhMMUpZdnBHZzZzbFRxTG1xZFQtdmNqWElTOG1wUDVmSmdPcUJPOFozM25pQkx5NHpvZ010bmZUWkg2b09qbVVhMEcwcllDOVMtcnI1VFpaZW5Ham0xZzZZQU5NY3d0Qnd4c0xCem5aaTdLVVpKd2pobGVTTkE2X010cmJhSy1VQnYyclo4ZVhvbFE?oc=5": 1792468247.1760433
  },
  "queue": [
   {
@@ -1752,7 +1754,7 @@
    "cat": "culture",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "Ayushmann Khurrana And Sara Ali Khan's Udta Teer Banned In Nepal, Permission For Screenings Refused",
@@ -2005,30 +2007,6 @@
    "val": 3,
    "teaser": true,
    "hits": 1
-  },
-  {
-   "title": "NPL to Feature Decision Review System for First Time in Nepali Cricket History",
-   "summary": "Kathmandu. For the first time in the history of Nepali cricket, the Decision Review System (DRS) technology will be used...",
-   "link": "http://english.ratopati.com/story/84203/drs-technology-for-the-first-time-in-nepal-premier-league",
-   "source": "Ratopati EN",
-   "ts": 1792467365,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/npl-trophy-(11)_Jrd2SGO5Ns.jpg",
-   "lang": "en",
-   "hl": "NPL to Feature Decision Review System for First Time in Nepali Cricket History",
-   "en": "NPL to Feature Decision Review System for First Time in Nepali Cricket History",
-   "ne": "NPL to Feature Decision Review System for First Time in Nepali Cricket History",
-   "imp": 4,
-   "tags": [
-    "NPL",
-    "Cricket",
-    "DRS",
-    "NepalCricket"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 3
   },
   {
    "title": "आज यी स्थानमा हल्का वर्षाको सम्भावना",
@@ -2357,6 +2335,28 @@
    ],
    "cat": "politics",
    "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Latest flash floods in Nepal leave five missing, sweep away 200 homes",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVEphaDNOa0ozOWo3bzBiVVV6eUxRVmxZdkZCOGhMMUpZdnBHZzZzbFRxTG1xZFQtdmNqWElTOG1wUDVmSmdPcUJPOFozM25pQkx5NHpvZ010bmZUWkg2b09qbVVhMEcwcllDOVMtcnI1VFpaZW5Ham0xZzZZQU5NY3d0Qnd4c0xCem5aaTdLVVpKd2pobGVTTkE2X010cmJhSy1VQnYyclo4ZVhvbFE?oc=5",
+   "source": "IOL",
+   "ts": 1792461061,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "Latest flash floods in Nepal leave five missing, sweep away 200 homes",
+   "en": "Latest flash floods in Nepal leave five missing, sweep away 200 homes",
+   "ne": "Latest flash floods in Nepal leave five missing, sweep away 200 homes",
+   "imp": 4,
+   "tags": [
+    "FlashFloods",
+    "Nepal"
+   ],
+   "cat": "disaster",
+   "val": 3,
    "teaser": false,
    "hits": 1
   }
@@ -5452,10 +5452,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "disaster"
+  },
+  {
+   "ts": 1792468252.54072,
+   "en": "NPL to Feature Decision Review System for First Time in Nepali Cricket History",
+   "ne": "NPL to Feature Decision Review System for First Time in Nepali Cricket History",
+   "link": "http://english.ratopati.com/story/84203/drs-technology-for-the-first-time-in-nepal-premier-league",
+   "source": "Ratopati EN",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "sports"
   }
  ],
- "updated": 1792467656,
- "pending_since": null,
+ "updated": 1792468264,
+ "pending_since": 1792468247.1760433,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
