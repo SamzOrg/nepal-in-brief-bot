@@ -1325,29 +1325,6 @@
    "hits": 1
   },
   {
-   "title": "Millions earned from tourists visiting restricted areas annually",
-   "summary": "GANDAKI: The government collects millions of rupees annually in entry fees from foreign tourists visiting restricted areas within the Annapurna Conservation Area. Foreign tourists require special permits to visit Upper...",
-   "link": "https://english.khabarhub.com/2026/20/572706/",
-   "source": "Khabarhub EN",
-   "ts": 1792495663,
-   "weight": 2,
-   "img": "https://english.khabarhub.com/wp-content/uploads/2025/05/Annapurna-Trek-400x220.jpg",
-   "lang": "en",
-   "hl": "Millions earned from tourists visiting restricted areas annually",
-   "en": "Millions earned from tourists visiting restricted areas annually",
-   "ne": "Millions earned from tourists visiting restricted areas annually",
-   "imp": 2,
-   "tags": [
-    "Tourism",
-    "RestrictedAreas",
-    "Nepal"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 4
-  },
-  {
    "title": "विवाह समारोहबाट एक लाख ७८ हजार रुपैयाँको बाकस चोरी, ३८ वर्षीय व्यक्ति पक्राउ",
    "summary": "प्रहरीले घटनाबारे जानकारी पाएपछि अनुसन्धान अघि बढाएको थियो। प्रत्यक्ष सोधपुछ र सिसिटिभी फुटेजको सहायताले आरोपितको पहिचान गरिएको प्रहरीले जनाएको छ।...",
    "link": "https://nagariknews.nagariknetwork.com/others/box-worth-rs-178-000-stolen-from-wedding-ceremony-38-year-old-man-arrested-21-56.html",
@@ -1366,29 +1343,6 @@
     "Police"
    ],
    "cat": "crime",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "टाइगर श्रफमाथि गोली प्रहारपछि बलिउडमा चिन्ता, कलाकारहरूको घरमा बढाइयो सुरक्षा",
-   "summary": "'टाइगरजस्ता चर्चित कलाकारमाथि यस्तो घटना हुन सक्ने हो भने जो कोहीमाथि पनि हुन सक्छ,' उनले भनेका छन्।",
-   "link": "https://www.setopati.com/art/bollywood/401142",
-   "source": "Setopati",
-   "ts": 1792495260,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "टाइगर श्रफमाथि गोली प्रहारपछि बलिउडमा चिन्ता, कलाकारहरूको घरमा बढाइयो सुरक्षा",
-   "en": "टाइगर श्रफमाथि गोली प्रहारपछि बलिउडमा चिन्ता, कलाकारहरूको घरमा बढाइयो सुरक्षा",
-   "ne": "टाइगर श्रफमाथि गोली प्रहारपछि बलिउडमा चिन्ता, कलाकारहरूको घरमा बढाइयो सुरक्षा",
-   "imp": 1,
-   "tags": [
-    "TigerShroff",
-    "Bollywood",
-    "Security"
-   ],
-   "cat": "world",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -2239,29 +2193,6 @@
    ],
    "cat": "sports",
    "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Gecko found on a night hike in Nepal is one of 5 species scientists identified",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbXF0cUhZVUhxX3dtTmdsczNYcUZtaWpMdzBpWHFkdkE1WUM0TUx1eEF6QkE5TnY4dTY4R05hOXVSMzVVSFVnNmxUd0Etd2xRUEVIbWNDek9QM0dubTI3bm5wZ0NPaUEyWmNHU3pKb1l4X2JEdTlhZVhvYlUwTF9wWVNVa0phYlVWdUxTVmtCVjc?oc=5",
-   "source": "Yahoo",
-   "ts": 1792495380,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Gecko found on a night hike in Nepal is one of 5 species scientists identified",
-   "en": "Gecko found on a night hike in Nepal is one of 5 species scientists identified",
-   "ne": "Gecko found on a night hike in Nepal is one of 5 species scientists identified",
-   "imp": 3,
-   "tags": [
-    "Gecko",
-    "NewSpecies",
-    "Wildlife"
-   ],
-   "cat": "tech",
-   "val": 3,
    "teaser": false,
    "hits": 1
   },
@@ -5705,7 +5636,7 @@
    "cat": "crime"
   }
  ],
- "updated": 1792524074,
+ "updated": 1792524675,
  "pending_since": 1792522885.2105176,
  "fb_blocks": [
   1790350880.4125228,
