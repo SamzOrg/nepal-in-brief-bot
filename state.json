@@ -1175,30 +1175,6 @@
  },
  "queue": [
   {
-   "title": "DNA and fingerprint checks find no matches for six South Africans missing in Nepal floods",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOT182enl4R1V2WUx6cXJGM1pkYUdmRVcyaGc2SmwzVmk1ZGFDd29fRl9kV0I0ZnR0TUM2eTRQeURFZWNHOW5ZeGpsbHp3M2xNc0J4Q3dBemJpREdiN1ozS0lfUWwxd2NRSnZ6U0FIMS1qclRIZXZ1QnVnTVJscG1WWXdwdXpwbGxXRl9qQVVVVm1tWkVwaUY5cGZsSklqamxKVUxHc0pqeHpaTWZ5VWxHNjloQXRLRTFBOUMzd0E2QnUtdExSS05pVFFnM2dSS2s?oc=5",
-   "source": "IOL",
-   "ts": 1792474500,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "DNA and fingerprint checks find no matches for six South Africans missing in Nepal floods",
-   "en": "DNA and fingerprint checks find no matches for six South Africans missing in Nepal floods",
-   "ne": "DNA and fingerprint checks find no matches for six South Africans missing in Nepal floods",
-   "imp": 3,
-   "tags": [
-    "NepalFloods",
-    "DNA",
-    "SouthAfrica",
-    "बाढीपहिरो"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 11
-  },
-  {
    "title": "Woman arrested with stolen ornaments in Parsa",
    "summary": "Police have arrested a woman with gold and silver ornaments worth Rs 411,000 in Parsa.According to Deputy Superintendent of Police at the District Police Office, Chakra Bahadur Malla, one tola gold chain and five sets...",
    "link": "https://theannapurnaexpress.com/story/68093",
@@ -1222,29 +1198,6 @@
    "hits": 3
   },
   {
-   "title": "Rice Harvest Nears Completion in Tamakoshi Riverine Plains Amidst Dashain Festivities",
-   "summary": "Ramechhap. The paddy crops on the plains along the Tamakoshi River in Ramechhap have ripened and turned golden. Farmers are...",
-   "link": "http://english.ratopati.com/story/84216/pahelpur-paddy-crop-in-the-fields-along-the-tamakoshi-river-rush-to-bring-in-the-crop-with-dashain-photo",
-   "source": "Ratopati EN",
-   "ts": 1792474718,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/dhanka-fat--2364_fd65pLXxAM.webp",
-   "lang": "en",
-   "hl": "Rice Harvest Nears Completion in Tamakoshi Riverine Plains Amidst Dashain Festivities",
-   "en": "Rice Harvest Nears Completion in Tamakoshi Riverine Plains Amidst Dashain Festivities",
-   "ne": "Rice Harvest Nears Completion in Tamakoshi Riverine Plains Amidst Dashain Festivities",
-   "imp": 2,
-   "tags": [
-    "Agriculture",
-    "Dashain",
-    "Tamakoshi"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "सुडानमा शृंखलाबद्ध ड्रोन आक्रमण, १६० भन्दा बढीको मृत्यु",
    "summary": "",
    "link": "https://baahrakhari.com/detail/505361",
@@ -1265,28 +1218,6 @@
    "val": 3,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "आजका तस्बिर: कात्तिक ३",
-   "summary": "",
-   "link": "https://www.setopati.com/photo-detail/401128",
-   "source": "Setopati",
-   "ts": 1792474708,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "आजका तस्बिर: कात्तिक ३",
-   "en": "आजका तस्बिर: कात्तिक ३",
-   "ne": "आजका तस्बिर: कात्तिक ३",
-   "imp": 1,
-   "tags": [
-    "PhotoFeature",
-    "तस्बिर"
-   ],
-   "cat": "culture",
-   "val": 1,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "युरोपभर नागरिकहरू किन आन्दोलित छन् ?",
@@ -6502,7 +6433,7 @@
    "cat": "health"
   }
  ],
- "updated": 1792503091,
+ "updated": 1792503654,
  "pending_since": 1792503072.2513719,
  "fb_blocks": [
   1790350880.4125228,
