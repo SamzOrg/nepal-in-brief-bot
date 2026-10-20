@@ -1,9 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTmpJdlhfMW16Yk9oUnAwUTc0MWFMSGlzREJ2RlY4cDJTZXNlYmJsUk53ZkI2LXBERUxjekRmSU9SOUYzNVdvUllha201b2l2LXVkWGZKMll1cUduNnVyUFQtMUdwNC1TZEppSFJCUjFSUzc5TUt1cFhEZkhJajQwbWx3bTU0aVplQTdYUW03MFJLMnRsM0RLaFdvVFFFVk1OM2FKLW5MbUw?oc=5": 1792288247.390743,
-  "https://nagariknews.nagariknetwork.com/sports/neto-scores-twice-as-chelsea-beat-everton-92-34.html": 1792288247.390743,
-  "http://english.ratopati.com/story/84082/sumo-en-route-to-khotang-falls-into-sunkoshi-river-3-dead": 1792288247.390743,
-  "http://lokaantar.com/story/331532/2026/10/18/accident-": 1792288247.390743,
   "https://risingnepaldaily.com/news/87924": 1792288883.320941,
   "https://gorkhapatraonline.com/news/227030": 1792288883.320941,
   "https://www.setopati.com/social/401051": 1792288883.320941,
@@ -1130,7 +1126,9 @@
   "https://nagariknews.nagariknetwork.com/social-affairs/cable-car-to-be-built-in-devghat-maulakalika-19-53.html": 1792459864.052084,
   "https://theannapurnaexpress.com/story/68077": 1792459864.052084,
   "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcHZycjdRaHctcy1PbWQ2OUZDOWJpa3dQWlB5NzVncVIzdl9jS0Y3TWlMY21BUmlaTkM1a2ZuVmlCRm50dGF1QWVQT1B6eGpJZWFaTUlZbDBUekxrVzl2aEFJdWhCUmhaOG9rNmVxQmlfTVRKcDR1OGM2Y0VmN2Rlb2duN1FrNjBsZUg1bUpnYjFSM3A2cFZvb2duLUlqaG1F?oc=5": 1792460447.5131233,
-  "https://theannapurnaexpress.com/story/68080": 1792460447.5131233
+  "https://theannapurnaexpress.com/story/68080": 1792460447.5131233,
+  "http://lokaantar.com/story/331634/2026/10/20/taleju-": 1792461048.9066281,
+  "https://nagariknews.nagariknetwork.com/international/french-pm-calls-for-local-curfew-as-violent-protests-escalate-71-40.html": 1792461048.9066281
  },
  "queue": [
   {
@@ -1295,29 +1293,6 @@
    "hits": 2
   },
   {
-   "title": "चर्चमा प्रार्थना चलिरहेका बेला क्रस खस्यो, पादरीको मृत्यु",
-   "summary": "इक्वेडरको गुयाकिल सहरस्थित एक चर्चमा प्रार्थना चलिरहेका बेला जिजसको प्रतिमा भएको काठको क्रस खसेर लाग्दा एक क्याथोलिक पादरीको मृत्यु भएको छ ।शनिबार साँझ 'आवर लेडी अफ पर्पेच्युअल हेल्प' चर्चमा भएको दुर्घटनामा पादरी...",
-   "link": "http://lokaantar.com/story/331625/2026/10/20/dead-",
-   "source": "Lokaantar",
-   "ts": 1792441248.5837865,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "चर्चमा प्रार्थना चलिरहेका बेला क्रस खस्यो, पादरीको मृत्यु",
-   "en": "चर्चमा प्रार्थना चलिरहेका बेला क्रस खस्यो, पादरीको मृत्यु",
-   "ne": "चर्चमा प्रार्थना चलिरहेका बेला क्रस खस्यो, पादरीको मृत्यु",
-   "imp": 3,
-   "tags": [
-    "Church",
-    "Pastor",
-    "दुर्घटना"
-   ],
-   "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "ट्रम्पको दोस्रो कार्यकालमा अमेरिकी हिरासतमा १८ मेक्सिकन नागरिकको मृत्यु",
    "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्पले दोस्रो कार्यकाल सुरु गरेयता आप्रवासी हिरासतमा १८ जना मेक्सिकन नागरिकको मृत्यु भएको छ । पछिल्लो घटनाप्रति मेक्सिको सरकारले गम्भीर चिन्ता व्यक्त गर्दै निन्दा गरेको छ ।मेक्सिकोको विदेश...",
    "link": "http://lokaantar.com/story/331624/2026/10/20/trump-",
@@ -1361,7 +1336,7 @@
    "cat": "culture",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "नेपाली सेनाले जडान गर्‍यो आरुघाटमा बेलीब्रिज",
@@ -1751,6 +1726,30 @@
     "Kenya",
     "Cult",
     "Crime"
+   ],
+   "cat": "world",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "फ्रान्समा हिंसात्मक प्रदर्शन चर्किएपछि प्रधानमन्त्रीद्वारा स्थानीय कर्फ्युको आह्वान",
+   "summary": "फ्रान्समा जीवनयापनको बढ्दो लागतविरुद्धका प्रदर्शन हिंसात्मक बनेपछि प्रधानमन्त्री सेबास्टियन लेकोर्नुले स्थानीय स्तरमा कर्फ्यु लगाउन आह्वान गरेका छन्।...",
+   "link": "https://nagariknews.nagariknetwork.com/international/french-pm-calls-for-local-curfew-as-violent-protests-escalate-71-40.html",
+   "source": "Nagarik News",
+   "ts": 1792460157,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2025/third-party/1792288490_france.jpg",
+   "lang": "ne",
+   "hl": "फ्रान्समा हिंसात्मक प्रदर्शन चर्किएपछि प्रधानमन्त्रीद्वारा स्थानीय कर्फ्युको आह्वान",
+   "en": "फ्रान्समा हिंसात्मक प्रदर्शन चर्किएपछि प्रधानमन्त्रीद्वारा स्थानीय कर्फ्युको आह्वान",
+   "ne": "फ्रान्समा हिंसात्मक प्रदर्शन चर्किएपछि प्रधानमन्त्रीद्वारा स्थानीय कर्फ्युको आह्वान",
+   "imp": 2,
+   "tags": [
+    "France",
+    "Protests",
+    "Curfew",
+    "हिंसात्मकप्रदर्शन"
    ],
    "cat": "world",
    "val": 3,
@@ -4849,9 +4848,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "crime"
+  },
+  {
+   "ts": 1792461055.2250748,
+   "en": "इक्वेडरको चर्चमा प्रार्थना चलिरहेका बेला क्रस खस्दा पादरीको मृत्यु",
+   "ne": "इक्वेडरको चर्चमा प्रार्थना चलिरहेका बेला क्रस खस्दा पादरीको मृत्यु",
+   "link": "http://lokaantar.com/story/331625/2026/10/20/dead-",
+   "source": "Lokaantar",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "society"
   }
  ],
- "updated": 1792460451,
+ "updated": 1792461069,
  "pending_since": 1792459864.052084,
  "fb_blocks": [
   1790350880.4125228,
