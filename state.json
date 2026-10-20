@@ -1,10 +1,5 @@
 {
  "seen": {
-  "http://english.ratopati.com/story/84072/citys-historic-start-seventh-consecutive-win-beating-ipswich-town": 1792283465.9926887,
-  "http://lokaantar.com/story/331526/2026/10/18/current-": 1792283465.9926887,
-  "http://english.ratopati.com/story/84074/psgs-sixth-consecutive-win-climbs-to-the-top-spot": 1792284044.040521,
-  "https://www.setopati.com/social/401047": 1792284044.040521,
-  "http://english.ratopati.com/story/84073/chelsea-climb-to-fourth-place-first-clean-sheet-in-9-months": 1792284044.040521,
   "https://nagariknews.nagariknetwork.com/social-affairs/woman-dies-of-electrocution-94-31.html": 1792284643.24917,
   "http://english.ratopati.com/story/84076/a-young-man-died-in-a-midnight-fight-in-machhapokhari-a-young-man-involved-in-the-beating-was-arrested": 1792284643.24917,
   "https://risingnepaldaily.com/news/87919": 1792285279.6720102,
@@ -1145,7 +1140,18 @@
   "http://english.ratopati.com/story/84192/ninth-day-of-saradiya-navratri-glory-and-worship-of-mata-siddhidatri-the-giver-of-all-things": 1792454482.2571106,
   "http://lokaantar.com/story/331621/2026/10/19/baraha-": 1792454482.2571106,
   "http://lokaantar.com/story/331625/2026/10/20/dead-": 1792455647.8697436,
-  "http://lokaantar.com/story/331624/2026/10/20/trump-": 1792455647.8697436
+  "http://lokaantar.com/story/331624/2026/10/20/trump-": 1792455647.8697436,
+  "https://english.khabarhub.com/2026/20/572638/": 1792456848.2725403,
+  "https://baahrakhari.com/detail/505341": 1792456848.2725403,
+  "https://www.setopati.com/social/401118": 1792456848.2725403,
+  "https://english.khabarhub.com/2026/20/572593/": 1792456848.2725403,
+  "http://english.ratopati.com/story/84197/spacecraft-launched-to-bring-dust-from-mars-moon": 1792456848.2725403,
+  "http://lokaantar.com/story/331628/2026/10/20/france-": 1792456848.2725403,
+  "https://baahrakhari.com/detail/505340": 1792456848.2725403,
+  "https://www.setopati.com/global/middleeast/401080": 1792456848.2725403,
+  "http://english.ratopati.com/story/84196/ronaldo-suspended-for-30-days-after-row-with-coach": 1792456848.2725403,
+  "http://lokaantar.com/story/331627/2026/10/20/ronaldo-": 1792456848.2725403,
+  "http://lokaantar.com/story/331626/2026/10/20/car-": 1792456848.2725403
  },
  "queue": [
   {
@@ -1238,7 +1244,7 @@
    "cat": "culture",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "कस्तो हुन्छ आज दिनभरको मौसम ?",
@@ -1400,6 +1406,190 @@
    "val": 3,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "तलेजु भवानी मन्दिर आज सर्वसाधारणका लागि खुला",
+   "summary": "",
+   "link": "https://baahrakhari.com/detail/505341",
+   "source": "Baahrakhari",
+   "ts": 1792455693,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "तलेजु भवानी मन्दिर आज सर्वसाधारणका लागि खुला",
+   "en": "तलेजु भवानी मन्दिर आज सर्वसाधारणका लागि खुला",
+   "ne": "तलेजु भवानी मन्दिर आज सर्वसाधारणका लागि खुला",
+   "imp": 2,
+   "tags": [
+    "TalejuTemple",
+    "Dashain",
+    "तलेजुभवानी"
+   ],
+   "cat": "culture",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "नेपाली सेनाले जडान गर्‍यो आरुघाटमा बेलीब्रिज",
+   "summary": "नेपाली सेनाले धादिङ र गोरखा जिल्लालाई जोड्ने आरुघाटस्थित बेलीब्रिज जडान गरी गोरखा सडक आयोजनालाई हस्तान्तरण गरेको छ।",
+   "link": "https://www.setopati.com/social/401118",
+   "source": "Setopati",
+   "ts": 1792455497,
+   "weight": 3,
+   "img": null,
+   "lang": "ne",
+   "hl": "नेपाली सेनाले जडान गर्‍यो आरुघाटमा बेलीब्रिज",
+   "en": "नेपाली सेनाले जडान गर्‍यो आरुघाटमा बेलीब्रिज",
+   "ne": "नेपाली सेनाले जडान गर्‍यो आरुघाटमा बेलीब्रिज",
+   "imp": 3,
+   "tags": [
+    "NepaliArmy",
+    "Arughat",
+    "BaileyBridge",
+    "बेलीब्रिज"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "When Democracy Becomes a Façade",
+   "summary": "People tend to attribute the current backlash against democracy to exaggerated claims about poor leadership. While leadership plays a vital role in a country's well-being and society at large, critics raise a deeper...",
+   "link": "https://english.khabarhub.com/2026/20/572593/",
+   "source": "Khabarhub EN",
+   "ts": 1792455301,
+   "weight": 2,
+   "img": "https://english.khabarhub.com/wp-content/uploads/2026/10/Ganga-Thapa-Opinion-400x220.png",
+   "lang": "en",
+   "hl": "When Democracy Becomes a Façade",
+   "en": "When Democracy Becomes a Façade",
+   "ne": "When Democracy Becomes a Façade",
+   "imp": 1,
+   "tags": [
+    "Democracy",
+    "Opinion"
+   ],
+   "cat": "politics",
+   "val": 1,
+   "teaser": true,
+   "hits": 1
+  },
+  {
+   "title": "Japan Launches Spacecraft to Mars Moon Phobos for Sample Return",
+   "summary": "Tokyo. A spacecraft has been launched from Japan towards the moon of Mars, 'Phobos'.It will attempt to collect some dust...",
+   "link": "http://english.ratopati.com/story/84197/spacecraft-launched-to-bring-dust-from-mars-moon",
+   "source": "Ratopati EN",
+   "ts": 1792455136,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/japan_JkCTPVw2mB.webp",
+   "lang": "en",
+   "hl": "Japan Launches Spacecraft to Mars Moon Phobos for Sample Return",
+   "en": "Japan Launches Spacecraft to Mars Moon Phobos for Sample Return",
+   "ne": "Japan Launches Spacecraft to Mars Moon Phobos for Sample Return",
+   "imp": 1,
+   "tags": [
+    "Japan",
+    "Mars",
+    "Spacecraft"
+   ],
+   "cat": "tech",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "पेरिससहित प्रमुख सहरहरूमा रात्रिकालीन कर्फ्यु, गृहमन्त्रीको राजीनामा अस्वीकृत",
+   "summary": "फ्रान्सभर भएका हिंसात्मक प्रदर्शन, झडप र व्यापक लुटपाटपछि फ्रान्सेली अधिकारीहरूले राजधानी पेरिसका मुख्य भागहरूका साथै देशका अन्य प्रमुख सहरहरूमा रात्रिकालीन कर्फ्यु लागू गरेका छन्।पेरिस प्रहरीका अनुसार प्रदर्शनकारीहरू...",
+   "link": "http://lokaantar.com/story/331628/2026/10/20/france-",
+   "source": "Lokaantar",
+   "ts": 1792442449.041881,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "पेरिससहित प्रमुख सहरहरूमा रात्रिकालीन कर्फ्यु, गृहमन्त्रीको राजीनामा अस्वीकृत",
+   "en": "पेरिससहित प्रमुख सहरहरूमा रात्रिकालीन कर्फ्यु, गृहमन्त्रीको राजीनामा अस्वीकृत",
+   "ne": "पेरिससहित प्रमुख सहरहरूमा रात्रिकालीन कर्फ्यु, गृहमन्त्रीको राजीनामा अस्वीकृत",
+   "imp": 1,
+   "tags": [
+    "Paris",
+    "Curfew",
+    "France"
+   ],
+   "cat": "world",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "पोखरा-जोमसोम नियमित हवाई सेवा स्थगित",
+   "summary": "",
+   "link": "https://baahrakhari.com/detail/505340",
+   "source": "Baahrakhari",
+   "ts": 1792454602,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "पोखरा-जोमसोम नियमित हवाई सेवा स्थगित",
+   "en": "पोखरा-जोमसोम नियमित हवाई सेवा स्थगित",
+   "ne": "पोखरा-जोमसोम नियमित हवाई सेवा स्थगित",
+   "imp": 3,
+   "tags": [
+    "Pokhara",
+    "Jomsom",
+    "Flight"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "'३ दिन मात्र बिदा भए पनि अर्को साल त नेपाल जान्छु'",
+   "summary": "दसैंमा उनी नयाँ लुगा किन्छिन्, जमरा राख्छिन् र दुबईमै आफन्त तथा साथीभाइ बोलाएर चाड मनाउँछिन्। तर नेपालमा परिवारसँग भेटघाट गरेको, पिङ खेलेको र चंगा उडाएको दसैंको खुसीले सधैं तानिरहन्छ। के अर्को वर्ष टीका मात्रै लगाउन भए...",
+   "link": "https://www.setopati.com/global/middleeast/401080",
+   "source": "Setopati",
+   "ts": 1792455120,
+   "weight": 3,
+   "img": null,
+   "lang": "ne",
+   "hl": "'३ दिन मात्र बिदा भए पनि अर्को साल त नेपाल जान्छु'",
+   "en": "'३ दिन मात्र बिदा भए पनि अर्को साल त नेपाल जान्छु'",
+   "ne": "'३ दिन मात्र बिदा भए पनि अर्को साल त नेपाल जान्छु'",
+   "imp": 2,
+   "tags": [
+    "Diaspora",
+    "Dashain",
+    "Nepal"
+   ],
+   "cat": "society",
+   "val": 1,
+   "teaser": true,
+   "hits": 1
+  },
+  {
+   "title": "Cristiano Ronaldo Suspended for 30 Days by Portuguese Football Federation",
+   "summary": "Lisbon. Portuguese national team player Cristiano Ronaldo, who left the national team camp after a dispute with head coach Jorge...",
+   "link": "http://english.ratopati.com/story/84196/ronaldo-suspended-for-30-days-after-row-with-coach",
+   "source": "Ratopati EN",
+   "ts": 1792454650,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/ronaldo_K2oYFmNE3I.webp",
+   "lang": "en",
+   "hl": "Cristiano Ronaldo Suspended for 30 Days by Portuguese Football Federation",
+   "en": "Cristiano Ronaldo Suspended for 30 Days by Portuguese Football Federation",
+   "ne": "Cristiano Ronaldo Suspended for 30 Days by Portuguese Football Federation",
+   "imp": 1,
+   "tags": [
+    "CristianoRonaldo",
+    "Football",
+    "Portugal"
+   ],
+   "cat": "sports",
+   "val": 3,
+   "teaser": false,
+   "hits": 2
   }
  ],
  "posted": [
@@ -4495,8 +4685,8 @@
    "cat": "politics"
   }
  ],
- "updated": 1792456268,
- "pending_since": 1792455047.771696,
+ "updated": 1792456854,
+ "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
