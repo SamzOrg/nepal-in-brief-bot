@@ -1189,51 +1189,6 @@
  },
  "queue": [
   {
-   "title": "Ramprabodh Thakur: Barber's Scissors Shape Family's Future in Janakpur",
-   "summary": "Janakpurdham. By operating scissors and shears, Ramprabodh Thakur has not only cut people's hair and beards but also shaped the...",
-   "link": "http://english.ratopati.com/story/84228/fathers-skills-sons-support-ramprabodh-and-binay-seek-a-future-in-their-ancestral-profession",
-   "source": "Ratopati EN",
-   "ts": 1792497490,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/hair_f8TvsBnWv5.webp",
-   "lang": "en",
-   "hl": "Ramprabodh Thakur: Barber's Scissors Shape Family's Future in Janakpur",
-   "en": "Ramprabodh Thakur: Barber's Scissors Shape Family's Future in Janakpur",
-   "ne": "Ramprabodh Thakur: Barber's Scissors Shape Family's Future in Janakpur",
-   "imp": 2,
-   "tags": [
-    "RamprabodhThakur",
-    "Janakpur",
-    "Barber"
-   ],
-   "cat": "culture",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "पित्तर सेलाउँदै",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/505379",
-   "source": "Baahrakhari",
-   "ts": 1792497161,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "पित्तर सेलाउँदै",
-   "en": "पित्तर सेलाउँदै",
-   "ne": "पित्तर सेलाउँदै",
-   "imp": 2,
-   "tags": [
-    "Dashain",
-    "पित्तर"
-   ],
-   "cat": "culture",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
-  },
-  {
    "title": "Barn Owl Family Nesting in Manhattan Water Tank Attracts Attention",
    "summary": "Kathmandu. A family of rare barn owls nesting in a water tank of a building near Central Park in Manhattan,...",
    "link": "http://english.ratopati.com/story/84231/rare-owl-family-draws-crowds-in-manhattan",
@@ -1323,29 +1278,6 @@
    "cat": "tech",
    "val": 3,
    "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "काठमाडौंको फर्पिङमा समातिएका प्रशान्तले के ल्याउँदै थिए ?",
-   "summary": "प्रहरीका अनुसार पक्राउ परेका चालक र बरामद पटाकाबारे थप अनुसन्धान भइरहेको छ।",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/what-was-prashant-who-was-caught-in-a-traffic-stop-in-kathmandu-bringing-40-79.html",
-   "source": "Nagarik News",
-   "ts": 1792497633,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1792497598_Pataka.jpg",
-   "lang": "ne",
-   "hl": "काठमाडौंको फर्पिङमा समातिएका प्रशान्तले के ल्याउँदै थिए ?",
-   "en": "काठमाडौंको फर्पिङमा समातिएका प्रशान्तले के ल्याउँदै थिए ?",
-   "ne": "काठमाडौंको फर्पिङमा समातिएका प्रशान्तले के ल्याउँदै थिए ?",
-   "imp": 3,
-   "tags": [
-    "Pharping",
-    "Kathmandu",
-    "Police"
-   ],
-   "cat": "crime",
-   "val": 1,
-   "teaser": true,
    "hits": 1
   },
   {
@@ -5566,7 +5498,7 @@
    "cat": "crime"
   }
  ],
- "updated": 1792525856,
+ "updated": 1792526484,
  "pending_since": 1792525853.0561686,
  "fb_blocks": [
   1790350880.4125228,
