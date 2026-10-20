@@ -1186,7 +1186,8 @@
   "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZmd1NjZqTWh6QTB0VXpkZGlNUXpNSFh3aEZhZmhDYUltdXFYZFNoUTRGblNBaWNOdHNZbjZ5NW5Ib0JsRW9VRWhNUnFHUVh0V1duSW9pbnFUUzU5ckFrUjZjUWc3YWdxMk1ickNhTGJ6WFdPTHFmc0ZISGRUVklFa21adHlBZjU5WU1DcXUxTXFsNHVqZzhoV0ltUExudmVwMWZTNGxVWUwxZ9IBqgFBVV95cUxPZmd1NjZqTWh6QTB0VXpkZGlNUXpNSFh3aEZhZmhDYUltdXFYZFNoUTRGblNBaWNOdHNZbjZ5NW5Ib0JsRW9VRWhNUnFHUVh0V1duSW9pbnFUUzU5ckFrUjZjUWc3YWdxMk1ickNhTGJ6WFdPTHFmc0ZISGRUVklFa21adHlBZjU5WU1DcXUxTXFsNHVqZzhoV0ltUExudmVwMWZTNGxVWUwxZw?oc=5": 1792533048.1547594,
   "http://english.ratopati.com/story/84241/psgs-thrilling-4-2-win-over-barcelona": 1792535465.9335945,
   "http://english.ratopati.com/story/84243/phil-fodens-hat-trick-leads-manchester-city-to-a-5-1-win": 1792536047.9119902,
-  "http://english.ratopati.com/story/84242/liverpools-brilliant-comeback-from-two-goals-down-to-defeat-villarreal-4-3": 1792536047.9119902
+  "http://english.ratopati.com/story/84242/liverpools-brilliant-comeback-from-two-goals-down-to-defeat-villarreal-4-3": 1792536047.9119902,
+  "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNE5pRDlHdHJVTnI3bHdoQkxLSlNEd2JyZEp3TWJReVpJVk9nZlpkRGJYUXhIc25NUjNKVEFEZ2VrQUFja2F4MU9kOVFwZ0pRZmxEUjN0a1JOMDFYaTA4cGRDQkhPTXpfeTltNmdPLThzVGdJd1Y2VEtfMFBRQ0VWNndoenV5Vm42cmpzS2tqRC15ZGV2bkZnS2xZZmNKWnYwR29J?oc=5": 1792537286.8766317
  },
  "queue": [
   {
@@ -1739,20 +1740,32 @@
    "val": 3,
    "teaser": false,
    "hits": 3
+  },
+  {
+   "title": "Five people missing as fresh flash floods hit central Nepal",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNE5pRDlHdHJVTnI3bHdoQkxLSlNEd2JyZEp3TWJReVpJVk9nZlpkRGJYUXhIc25NUjNKVEFEZ2VrQUFja2F4MU9kOVFwZ0pRZmxEUjN0a1JOMDFYaTA4cGRDQkhPTXpfeTltNmdPLThzVGdJd1Y2VEtfMFBRQ0VWNndoenV5Vm42cmpzS2tqRC15ZGV2bkZnS2xZZmNKWnYwR29J?oc=5",
+   "source": "Inbox.lv",
+   "ts": 1792517258,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "Five people missing as fresh flash floods hit central Nepal",
+   "en": "Five people missing as fresh flash floods hit central Nepal",
+   "ne": "Five people missing as fresh flash floods hit central Nepal",
+   "imp": 4,
+   "tags": [
+    "FlashFlood",
+    "Nepal",
+    "बाढी"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1791931858.2615018,
-   "en": "Samsung Nepal launches flood relief repair initiative across 15 municipalities",
-   "ne": "Samsung Nepal launches flood relief repair initiative across 15 municipalities",
-   "link": "https://www.technologykhabar.com/2026/10/14/257726/",
-   "source": "Technology Khabar",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "society"
-  },
   {
    "ts": 1791933654.3479443,
    "en": "HM Amit Shah Meets Nepal, Bhutan Counterparts, Reaffirms Commitment to Deepen Ties",
@@ -4823,7 +4836,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1792536668,
+ "updated": 1792537292,
  "pending_since": 1792536647.2819743,
  "fb_blocks": [
   1790350880.4125228,
