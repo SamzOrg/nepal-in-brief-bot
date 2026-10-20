@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://nagariknews.nagariknetwork.com/social-affairs/woman-dies-of-electrocution-94-31.html": 1792284643.24917,
-  "http://english.ratopati.com/story/84076/a-young-man-died-in-a-midnight-fight-in-machhapokhari-a-young-man-involved-in-the-beating-was-arrested": 1792284643.24917,
   "https://risingnepaldaily.com/news/87919": 1792285279.6720102,
   "http://english.ratopati.com/story/84077/why-does-cold-water-taste-so-sweet-when-you-are-very-thirsty": 1792285279.6720102,
   "https://gorkhapatraonline.com/news/227021": 1792285279.6720102,
@@ -1151,32 +1149,10 @@
   "https://www.setopati.com/global/middleeast/401080": 1792456848.2725403,
   "http://english.ratopati.com/story/84196/ronaldo-suspended-for-30-days-after-row-with-coach": 1792456848.2725403,
   "http://lokaantar.com/story/331627/2026/10/20/ronaldo-": 1792456848.2725403,
-  "http://lokaantar.com/story/331626/2026/10/20/car-": 1792456848.2725403
+  "http://lokaantar.com/story/331626/2026/10/20/car-": 1792456848.2725403,
+  "https://nagariknews.nagariknetwork.com/social-affairs/pokhara-jomsom-regular-air-service-suspended-51-62.html": 1792457446.7021754
  },
  "queue": [
-  {
-   "title": "सलमानबारे बिश्नोई समूहको अर्को अडियो सार्वजनिक, टाइगरको घटनापछि दिशाको घरमा सुरक्षा कडा",
-   "summary": "अडियोमा दिवंगत अभिनेता सुशान्त सिंह राजपूतको मृत्युलाई लिएर पनि आरोप लगाइएको छ।",
-   "link": "https://nagariknews.nagariknetwork.com/arts/another-audio-of-bishnoi-group-about-salman-released-security-tightened-at-disha-s-house-after-tiger-incident-34-40.html",
-   "source": "Nagarik News",
-   "ts": 1792428179,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1792428015_Salman.jpg",
-   "lang": "ne",
-   "hl": "सलमानबारे बिश्नोई समूहको अर्को अडियो सार्वजनिक, टाइगरको घटनापछि दिशाको घरमा सुरक्षा कडा",
-   "en": "सलमानबारे बिश्नोई समूहको अर्को अडियो सार्वजनिक, टाइगरको घटनापछि दिशाको घरमा सुरक्षा कडा",
-   "ne": "सलमानबारे बिश्नोई समूहको अर्को अडियो सार्वजनिक, टाइगरको घटनापछि दिशाको घरमा सुरक्षा कडा",
-   "imp": 1,
-   "tags": [
-    "SalmanKhan",
-    "LawrenceBishnoi",
-    "Bollywood"
-   ],
-   "cat": "world",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
   {
    "title": "Eckerd College event commemorates the lives lost from the Nepal-Tibet 2026 floods",
    "summary": "",
@@ -1518,29 +1494,6 @@
     "France"
    ],
    "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "पोखरा-जोमसोम नियमित हवाई सेवा स्थगित",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/505340",
-   "source": "Baahrakhari",
-   "ts": 1792454602,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "पोखरा-जोमसोम नियमित हवाई सेवा स्थगित",
-   "en": "पोखरा-जोमसोम नियमित हवाई सेवा स्थगित",
-   "ne": "पोखरा-जोमसोम नियमित हवाई सेवा स्थगित",
-   "imp": 3,
-   "tags": [
-    "Pokhara",
-    "Jomsom",
-    "Flight"
-   ],
-   "cat": "disaster",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -4683,10 +4636,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "politics"
+  },
+  {
+   "ts": 1792457456.47178,
+   "en": "पोखरा-जोमसोम नियमित हवाई सेवा स्थगित",
+   "ne": "पोखरा-जोमसोम नियमित हवाई सेवा स्थगित",
+   "link": "https://baahrakhari.com/detail/505340",
+   "source": "Baahrakhari",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "disaster"
   }
  ],
- "updated": 1792456854,
- "pending_since": null,
+ "updated": 1792457471,
+ "pending_since": 1792457446.7021754,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
