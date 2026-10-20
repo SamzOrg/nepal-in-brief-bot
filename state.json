@@ -1190,52 +1190,6 @@
  },
  "queue": [
   {
-   "title": "Madhesh Province Youth Struggle with Remittance Mismanagement Despite Foreign Employment",
-   "summary": "Kathmandu. Ramkisun Dev of Rajbiraj, Saptari, returned from Saudi Arabia last year after five years. Despite being abroad for five...",
-   "link": "http://english.ratopati.com/story/84190/where-is-the-money-earned-from-foreign-employment-spent-in-madhesh",
-   "source": "Ratopati EN",
-   "ts": 1792502100,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/remittance-madhesh_W3ok30JG94.webp",
-   "lang": "en",
-   "hl": "Madhesh Province Youth Struggle with Remittance Mismanagement Despite Foreign Employment",
-   "en": "Madhesh Province Youth Struggle with Remittance Mismanagement Despite Foreign Employment",
-   "ne": "Madhesh Province Youth Struggle with Remittance Mismanagement Despite Foreign Employment",
-   "imp": 2,
-   "tags": [
-    "MadheshProvince",
-    "Remittance",
-    "ForeignEmployment"
-   ],
-   "cat": "economy",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "मोटरसाइकल र स्कुटर ठोक्किँदा पाँच घाइते",
-   "summary": "बोमलाल गिरीनवलपुर, कात्तिक ३ गते । पूर्वपश्चिम राजमार्गअन्तर्गत नवलपुरको कावासोती नगरपालिका ८ हाटबजारमा मोटरसाइकलले स्कुटरलाई ठक्कर दिँदा पाँच जना घाइते भएका छन् ।रजहरबाट कावासोतीत...",
-   "link": "https://gorkhapatraonline.com/news/227083",
-   "source": "Gorkhapatra",
-   "ts": 1792501947,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/388672/conversions/Bike-accident-original.jpg",
-   "lang": "ne",
-   "hl": "मोटरसाइकल र स्कुटर ठोक्किँदा पाँच घाइते",
-   "en": "मोटरसाइकल र स्कुटर ठोक्किँदा पाँच घाइते",
-   "ne": "मोटरसाइकल र स्कुटर ठोक्किँदा पाँच घाइते",
-   "imp": 3,
-   "tags": [
-    "Accident",
-    "Motorcycle",
-    "Scooter"
-   ],
-   "cat": "crime",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "दसैंभन्दा चिसोबाट जोगिने चिन्तामा बाढीपीडित",
    "summary": "काठमाडौँ, कात्तिक ३ गते । रसुवा-भोटेकोशी बाढीबाट प्रभावित परिवार काठमाडौँ उपत्यका अन्तर्गतका विभिन्न होल्डिङ सेन्टरहरुमा बस्दैआएका छन् । भदौ १० गते आएको बाढी पश्चात् उनीहरुले होल्ड...",
    "link": "https://gorkhapatraonline.com/news/226835",
@@ -1482,29 +1436,6 @@
     "Nepal"
    ],
    "cat": "crime",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "Indian rappers use music to sound climate alarm",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSU9PVnYwMDh6amN5Yldwc1lDNDFBalRhZnFqMGFZY3g0THJGaFZhYjJ0UnpXcmpWSktWaEkyZnBWMEtkOE5zX3ZHcUJ3SllmbGl3OUZ3NDhfcTdMNkNFcGhtcFdOTDhhSDNsN0psUUwzcjBHQWtQUndMOVhweERiQWZxMWN3SjZNc1N3UF9ZNndtRGhjdnk0bkxFMnpveFlYQTBmTA?oc=5",
-   "source": "myRepublica",
-   "ts": 1792502100,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Indian rappers use music to sound climate alarm",
-   "en": "Indian rappers use music to sound climate alarm",
-   "ne": "Indian rappers use music to sound climate alarm",
-   "imp": 1,
-   "tags": [
-    "ClimateChange",
-    "India",
-    "Music"
-   ],
-   "cat": "world",
    "val": 3,
    "teaser": false,
    "hits": 2
@@ -5339,7 +5270,7 @@
    "cat": "crime"
   }
  ],
- "updated": 1792530656,
+ "updated": 1792531253,
  "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
