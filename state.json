@@ -1,11 +1,5 @@
 {
  "seen": {
-  "https://gorkhapatraonline.com/news/227042": 1792297249.6126175,
-  "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONjlLb2pNdXRXQlA4MjVIUWZIVUcyWnF2eld1VWNyREVnQVQwYUNudlJvanNOc2htTDZ0dE5KTnoxeXBURGJlSWQ0blZwT05zWjBSYWh4RlBzaGlFOWdwNGZRYlFoSWRhWEgwZHFUU0JiVnN0N3NpcmtONVhUaWdjcU1scEVJbEM2YTI0UUxFMjJUZjNra21mczQ3SGFiRlZoSXRKYU1kSWU?oc=5": 1792297249.6126175,
-  "https://kathmandupost.com/national/2026/10/18/can-nepal-s-hydropower-boom-withstand-a-changing-himalaya": 1792297249.6126175,
-  "http://lokaantar.com/story/331540/2026/10/18/ugratara-": 1792297249.6126175,
-  "https://gorkhapatraonline.com/news/227045": 1792297866.096205,
-  "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWWpCLU44ck1TMTR5R283N2RyNldtalo3RjZoZGZISWJnZm1NUjM0T0drSHFCcmdrVVNIYTB5ZG40SnZrOS1kRmNGb2g4WE11ZmlXWW1iY2tMOU13OHdIR2Y4eGo0MXd6ZGJ5dFY4THJ3SG5zS3ZYb0Z3d0NQTFNDV0pJLW9BYnhlTEY2em5HNkY1amlmb1ZJMnAtengyMTJZNnd4OQ?oc=5": 1792297866.096205,
   "https://nagariknews.nagariknetwork.com/social-affairs/why-was-former-investment-board-ceo-sushil-bhatt-arrested-47-73.html": 1792299047.9044528,
   "https://baahrakhari.com/detail/505253": 1792299047.9044528,
   "https://gorkhapatraonline.com/news/227046": 1792299047.9044528,
@@ -1107,7 +1101,8 @@
   "https://nagariknews.nagariknetwork.com/others/kylie-wears-the-world-s-most-expensive-diamond-bra-everyone-is-shocked-to-know-the-price-and-features-25-98.html": 1792470048.178835,
   "http://english.ratopati.com/story/84204/trump-ready-to-meet-with-putin-and-xi-in-china": 1792470048.178835,
   "https://nagariknews.nagariknetwork.com/sports/drs-to-be-used-for-the-first-time-in-npl-99-72.html": 1792470048.178835,
-  "https://nagariknews.nagariknetwork.com/social-affairs/election-office-removes-names-of-over-3-000-voters-from-voter-lists-63-63.html": 1792470048.178835
+  "https://nagariknews.nagariknetwork.com/social-affairs/election-office-removes-names-of-over-3-000-voters-from-voter-lists-63-63.html": 1792470048.178835,
+  "https://www.setopati.com/social/401125": 1792470666.624125
  },
  "queue": [
   {
@@ -1199,29 +1194,6 @@
    ],
    "cat": "culture",
    "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "ट्रम्पको दोस्रो कार्यकालमा अमेरिकी हिरासतमा १८ मेक्सिकन नागरिकको मृत्यु",
-   "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्पले दोस्रो कार्यकाल सुरु गरेयता आप्रवासी हिरासतमा १८ जना मेक्सिकन नागरिकको मृत्यु भएको छ । पछिल्लो घटनाप्रति मेक्सिको सरकारले गम्भीर चिन्ता व्यक्त गर्दै निन्दा गरेको छ ।मेक्सिकोको विदेश...",
-   "link": "http://lokaantar.com/story/331624/2026/10/20/trump-",
-   "source": "Lokaantar",
-   "ts": 1792441248.5837865,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "ट्रम्पको दोस्रो कार्यकालमा अमेरिकी हिरासतमा १८ मेक्सिकन नागरिकको मृत्यु",
-   "en": "ट्रम्पको दोस्रो कार्यकालमा अमेरिकी हिरासतमा १८ मेक्सिकन नागरिकको मृत्यु",
-   "ne": "ट्रम्पको दोस्रो कार्यकालमा अमेरिकी हिरासतमा १८ मेक्सिकन नागरिकको मृत्यु",
-   "imp": 1,
-   "tags": [
-    "DonaldTrump",
-    "USA",
-    "Mexico"
-   ],
-   "cat": "world",
-   "val": 3,
    "teaser": false,
    "hits": 1
   },
@@ -2551,17 +2523,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1791865258.9377778,
-   "en": "अडियो प्रकरणमा मुछिएका रास्वपा सांसद खगेन्द्र सुनारमाथि छानबिन सुरु",
-   "ne": "अडियो प्रकरणमा मुछिएका रास्वपा सांसद खगेन्द्र सुनारमाथि छानबिन सुरु",
-   "link": "https://www.setopati.com/politics/400709",
-   "source": "Setopati",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "politics"
-  },
   {
    "ts": 1791867057.4420187,
    "en": "दसैँका लागि पोखरामा १४ हजार ८०० भेडाच्याङ्ग्रा भित्रिए, हाटबजार सञ्चालन",
@@ -5654,8 +5615,8 @@
    "cat": "society"
   }
  ],
- "updated": 1792470071,
- "pending_since": null,
+ "updated": 1792470671,
+ "pending_since": 1792470666.624125,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
