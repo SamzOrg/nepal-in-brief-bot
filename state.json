@@ -1702,17 +1702,6 @@
  ],
  "posted": [
   {
-   "ts": 1791933654.3479443,
-   "en": "HM Amit Shah Meets Nepal, Bhutan Counterparts, Reaffirms Commitment to Deepen Ties",
-   "ne": "HM Amit Shah Meets Nepal, Bhutan Counterparts, Reaffirms Commitment to Deepen Ties",
-   "link": "https://ddnews.gov.in/en/hm-amit-shah-meets-nepal-bhutan-counterparts-reaffirms-commitment-to-deepen-ties/",
-   "source": "DD News",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "world"
-  },
-  {
    "ts": 1791935456.5825536,
    "en": "ADB approves US$306M loan to modernize Nepal highways",
    "ne": "ADB approves US$306M loan to modernize Nepal highways",
@@ -4782,8 +4771,8 @@
    "cat": "culture"
   }
  ],
- "updated": 1792538485,
- "pending_since": null,
+ "updated": 1792539071,
+ "pending_since": 1792539064.2036488,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
