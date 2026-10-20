@@ -1,10 +1,5 @@
 {
  "seen": {
-  "https://english.onlinekhabar.com/three-killed-four-injured-as-suv-plunges-into-sunkoshi-river-in-sindhuli.html": 1792290044.3101814,
-  "https://gorkhapatraonline.com/news/227031": 1792290044.3101814,
-  "http://english.ratopati.com/story/84078/dashain-economics-should-we-only-increase-spending-or-domestic-production-as-well": 1792290044.3101814,
-  "https://nagariknews.nagariknetwork.com/social-affairs/police-urge-people-to-avoid-theft-fraud-and-accidents-during-festivals-br-99-47.html": 1792290044.3101814,
-  "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdVBvdUlIeU1HMDQ0alg2dkhlXzNHeUk4dzZtMEl4SlZTbWFCTEFWckpBQmwxMHR4TXVhYy1zbERoNUdxSk1FUm8wbHJ3QUZOTkdUcFlOaE10RkZMMmdGVnVJREVXaDNTZWIwcDhVMUlmUGRMTnY2aGgwSlNodW9fSlFUaFVqUmMwMXZOZ0l3?oc=5": 1792290044.3101814,
   "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9qeDRjei1KM2UwZWUyN1lxaFZva09rNHlPVFRRMEh4OE10UmRvbUE4WnBSLTlNNzNPS1VybHdxU25TMHd2WHA0VlBUTzV2ek4zZjYzUHdZd182RmlPT2lxNmwyQkJCQQ?oc=5": 1792290667.8781364,
   "http://english.ratopati.com/story/84090/a-journey-that-began-with-12-beds-spreading-the-light-of-vision-into-millions-of-eyes": 1792291247.2176838,
   "http://english.ratopati.com/story/84089/12-pilgrims-killed-27-injured-after-being-hit-by-a-truck-carrying-rice-in-india": 1792291247.2176838,
@@ -1115,7 +1110,10 @@
   "https://kathmandupost.com/national/2026/10/19/tourist-arrivals-in-mustang-plunge-41-5-percent": 1792461682.9723883,
   "https://baahrakhari.com/detail/505344": 1792461682.9723883,
   "https://theannapurnaexpress.com/story/68078": 1792461682.9723883,
-  "https://thehimalayantimes.com/nepal/mahanawami-observed-with-prayers-sacrifices-and-weapon-worship": 1792462251.5574403
+  "https://thehimalayantimes.com/nepal/mahanawami-observed-with-prayers-sacrifices-and-weapon-worship": 1792462251.5574403,
+  "https://english.khabarhub.com/2026/20/572636/": 1792462850.1409202,
+  "http://english.ratopati.com/story/84182/expansion-to-stagnation-the-last-decade-of-nepali-banking": 1792462850.1409202,
+  "https://risingnepaldaily.com/news/87950": 1792462850.1409202
  },
  "queue": [
   {
@@ -1854,29 +1852,6 @@
     "Nepal"
    ],
    "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "अवरुद्ध खाँदबारी-किमाथांका सडक पुनः सञ्चालनमा",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/505344",
-   "source": "Baahrakhari",
-   "ts": 1792459643,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "अवरुद्ध खाँदबारी-किमाथांका सडक पुनः सञ्चालनमा",
-   "en": "अवरुद्ध खाँदबारी-किमाथांका सडक पुनः सञ्चालनमा",
-   "ne": "अवरुद्ध खाँदबारी-किमाथांका सडक पुनः सञ्चालनमा",
-   "imp": 4,
-   "tags": [
-    "KhandbariKimathanka",
-    "Road",
-    "पहिरो"
-   ],
-   "cat": "disaster",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -4973,9 +4948,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "society"
+  },
+  {
+   "ts": 1792462860.5622792,
+   "en": "तीन महिनादेखि अवरुद्ध खाँदबारी-किमाथांका सडक पुनः सञ्चालनमा",
+   "ne": "तीन महिनादेखि अवरुद्ध खाँदबारी-किमाथांका सडक पुनः सञ्चालनमा",
+   "link": "https://baahrakhari.com/detail/505344",
+   "source": "Baahrakhari",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "disaster"
   }
  ],
- "updated": 1792462261,
+ "updated": 1792462882,
  "pending_since": 1792462251.5574403,
  "fb_blocks": [
   1790350880.4125228,
