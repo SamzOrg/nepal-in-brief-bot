@@ -1169,7 +1169,9 @@
   "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZlJLS2loeDZfazFNUjRseEhuMnFhSjlPSWdScXNQY29IMlhnalRKVUhqRThfZXRER2M2enVKdDhtOHE5UXk2ZXI4X1BQUWd2RklWUmNHQ0ZhSXRaVXRJVHZYQ2hQVm5aM2NLb3pWQTJVTGdEVHg4d2E3SFJKNFpBbjYtazFnbHFrQUtBLTdCa1ZzTm5odVVSbW9MOTBWUkwtM0ZQYUZrZlNPZjA?oc=5": 1792502459.1422086,
   "http://english.ratopati.com/story/84232/amazon-to-invest-more-than-16-billion-euros-in-germany-by-2027": 1792502459.1422086,
   "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNkdua3BHdm4yTVVvTFBub3VNTzhDcVRndm4zM1hmT0dRMVBUakZpX29yNXp1alVpdmEza0dwTmcxeFdrRndoVEd1T0VXb0docjlQNjdJdE01RF81LUNfZ1Rla01iVzlId3huS09rWGJJTlRnd1NBa2tJSnJ4eTc5TWQtbmtpbEd5YXNYM2d0SFhqS3k1WmVZeVhTTHZBZDNUbmMzaUlackNBd2xkMmJYdHpSVVJ3bW8?oc=5": 1792502459.1422086,
-  "https://baahrakhari.com/detail/505381": 1792502459.1422086
+  "https://baahrakhari.com/detail/505381": 1792502459.1422086,
+  "https://news.google.com/rss/articles/CBMizAFBVV95cUxOU1I3dmdkREk4RnlwUWMwUkVwWkFfdkNuY3k4dXhVd1FMSFBSNWxjRlZ5Wk5PaVJVWHhZcGdoM2ZhTkN5RVRSc1U2clliZXo2MzJfbkxWeDEzNENoaV95MnNfamtPVXBUQ01KUmNteXdVSkplendMYVRZSmMtUkRnZ2VrWjEwNTVJZ0tpVkpTN2o2dmVpSno2Y3ZhWlVDQkw5TzlJeEJndGNqMTVyU3NlOUlpTVlTUFlZN1JKOXFyOE54aXNtMFQyLWNoVWvSAcwBQVVfeXFMTlNSN3ZnZERJOEZ5cFFjMFJFcFpBX3ZDbmN5OHV4VXdRTEhQUjVsY0ZWeVpOT2lSVVh4WXBnaDNmYU5DeUVUUnNVNnJZYmV6NjMyX25MVngxMzRDaGlfeTJzX2prT1VwVENNSlJjbXl3VUpKZXp3TGFUWUpjLVJEZ2dla1oxMDU1SWdLaVZKUzdqNnZlaUp6NmN2YVpVQ0JMOU85SXhCZ3RjajE1clNzZTlJaU1ZU1BZWTdSSjlxcjhOeGlzbTBUMi1jaFVr?oc=5": 1792503072.2513719,
+  "https://gorkhapatraonline.com/news/226835": 1792503072.2513719
  },
  "queue": [
   {
@@ -3163,7 +3165,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "कात्तिक १३ गतेदेखि तीन दिने 'काठमाडौं फिल्म फेस्टिभल'",
@@ -3391,6 +3393,28 @@
     "Investment"
    ],
    "cat": "tech",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "दसैंभन्दा चिसोबाट जोगिने चिन्तामा बाढीपीडित",
+   "summary": "काठमाडौँ, कात्तिक ३ गते । रसुवा-भोटेकोशी बाढीबाट प्रभावित परिवार काठमाडौँ उपत्यका अन्तर्गतका विभिन्न होल्डिङ सेन्टरहरुमा बस्दैआएका छन् । भदौ १० गते आएको बाढी पश्चात् उनीहरुले होल्ड...",
+   "link": "https://gorkhapatraonline.com/news/226835",
+   "source": "Gorkhapatra",
+   "ts": 1792502976,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/388673/conversions/holding-centre-3-original.jpg",
+   "lang": "ne",
+   "hl": "दसैंभन्दा चिसोबाट जोगिने चिन्तामा बाढीपीडित",
+   "en": "दसैंभन्दा चिसोबाट जोगिने चिन्तामा बाढीपीडित",
+   "ne": "दसैंभन्दा चिसोबाट जोगिने चिन्तामा बाढीपीडित",
+   "imp": 3,
+   "tags": [
+    "Flood",
+    "Dashain"
+   ],
+   "cat": "disaster",
    "val": 2,
    "teaser": false,
    "hits": 1
@@ -6478,8 +6502,8 @@
    "cat": "health"
   }
  ],
- "updated": 1792502505,
- "pending_since": null,
+ "updated": 1792503091,
+ "pending_since": 1792503072.2513719,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
