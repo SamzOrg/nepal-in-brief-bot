@@ -1233,29 +1233,6 @@
    "hits": 1
   },
   {
-   "title": "'कबड्डी ५'को टिकट बिक्री थाले मल्टिप्लेक्सले, कस्तो छ शो संख्या?",
-   "summary": "'फाइनल म्याच'पछि काजीको जीवनले कस्तो मोड लिन्छ? 'कबड्डी ५'ले उनको जीवनको नयाँ अध्यायको कथा भन्नेछ।",
-   "link": "https://www.setopati.com/art/art-activity/401141",
-   "source": "Setopati",
-   "ts": 1792493820,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "'कबड्डी ५'को टिकट बिक्री थाले मल्टिप्लेक्सले, कस्तो छ शो संख्या?",
-   "en": "'कबड्डी ५'को टिकट बिक्री थाले मल्टिप्लेक्सले, कस्तो छ शो संख्या?",
-   "ne": "'कबड्डी ५'को टिकट बिक्री थाले मल्टिप्लेक्सले, कस्तो छ शो संख्या?",
-   "imp": 3,
-   "tags": [
-    "Kabaddi5",
-    "Movie",
-    "Multiplex"
-   ],
-   "cat": "culture",
-   "val": 2,
-   "teaser": true,
-   "hits": 1
-  },
-  {
    "title": "North Korea Warns of Border Arms Buildup and Resumed Propaganda Broadcasts",
    "summary": "Kathmandu. North Korea has warned of deploying more weapons along the border with South Korea and resuming propaganda broadcasts via...",
    "link": "http://english.ratopati.com/story/84224/north-korea-warns-of-more-weapons-on-border",
@@ -1277,29 +1254,6 @@
    "val": 3,
    "teaser": false,
    "hits": 2
-  },
-  {
-   "title": "Former Bangladesh PM Sheikh Hasina Ready to Return Home Despite Risks",
-   "summary": "Kathmandu. Former Prime Minister of Bangladesh Sheikh Hasina has said she is ready to return to her country despite the...",
-   "link": "http://english.ratopati.com/story/84223/sheikh-hasina-said-i-am-ready-to-return-home-despite-the-risks",
-   "source": "Ratopati EN",
-   "ts": 1792493721,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/hasina_TrA4pYwpI7.png",
-   "lang": "en",
-   "hl": "Former Bangladesh PM Sheikh Hasina Ready to Return Home Despite Risks",
-   "en": "Former Bangladesh PM Sheikh Hasina Ready to Return Home Despite Risks",
-   "ne": "Former Bangladesh PM Sheikh Hasina Ready to Return Home Despite Risks",
-   "imp": 2,
-   "tags": [
-    "SheikhHasina",
-    "Bangladesh",
-    "Politics"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
   },
   {
    "title": "फ्रान्समा दंगा र लुटपाट नियन्त्रण गर्न कर्फ्युको दायरा विस्तार",
@@ -5842,8 +5796,8 @@
    "cat": "crime"
   }
  ],
- "updated": 1792522259,
- "pending_since": null,
+ "updated": 1792522894,
+ "pending_since": 1792522885.2105176,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
