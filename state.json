@@ -1,17 +1,5 @@
 {
  "seen": {
-  "https://risingnepaldaily.com/news/87919": 1792285279.6720102,
-  "http://english.ratopati.com/story/84077/why-does-cold-water-taste-so-sweet-when-you-are-very-thirsty": 1792285279.6720102,
-  "https://gorkhapatraonline.com/news/227021": 1792285279.6720102,
-  "https://baahrakhari.com/detail/505240": 1792285279.6720102,
-  "http://lokaantar.com/story/331527/2026/10/18/france-": 1792285279.6720102,
-  "https://risingnepaldaily.com/news/87918": 1792285279.6720102,
-  "http://english.ratopati.com/story/84068/despite-increased-meat-production-in-koshi-consumers-are-forced-to-pay-higher-prices": 1792285279.6720102,
-  "https://gorkhapatraonline.com/news/227020": 1792285279.6720102,
-  "https://baahrakhari.com/detail/505239": 1792285279.6720102,
-  "https://risingnepaldaily.com/news/87917": 1792285279.6720102,
-  "http://english.ratopati.com/story/84075/bayern-return-to-form-with-diaz-hat-trick-and-kanes-historic-goal": 1792285279.6720102,
-  "http://english.ratopati.com/story/84071/food-poisoning-at-chinese-kindergarten-operator-sentenced-to-life-in-prison": 1792285279.6720102,
   "https://www.setopati.com/social/401048": 1792285845.598545,
   "https://www.setopati.com/social/401049": 1792286444.2908585,
   "https://kathmandupost.com/politics/2026/10/18/gagan-thapa-takes-oath-as-congress-president-vows-to-regain-public-trust": 1792286444.2908585,
@@ -1150,7 +1138,9 @@
   "http://english.ratopati.com/story/84196/ronaldo-suspended-for-30-days-after-row-with-coach": 1792456848.2725403,
   "http://lokaantar.com/story/331627/2026/10/20/ronaldo-": 1792456848.2725403,
   "http://lokaantar.com/story/331626/2026/10/20/car-": 1792456848.2725403,
-  "https://nagariknews.nagariknetwork.com/social-affairs/pokhara-jomsom-regular-air-service-suspended-51-62.html": 1792457446.7021754
+  "https://nagariknews.nagariknetwork.com/social-affairs/pokhara-jomsom-regular-air-service-suspended-51-62.html": 1792457446.7021754,
+  "https://nagariknews.nagariknetwork.com/social-affairs/kopche-barah-area-boating-service-targeting-passengers-coming-for-dashain-62-38.html": 1792458084.4367225,
+  "https://news.google.com/rss/articles/CBMimwFBVV95cUxOamh2NExFSHJWdDJPRHp6MnUwdFk3N1hNNzY4ZFdKek8zSnQ2YUJqX0lHNW5tMW5kMlRzMVFfSGVIRXJFY0QwZDhPZWgxeEZJM1BlWFRyUm5ScWhIbHZFckRaWnY3djMxLTM4UEU5OVAxUlk2UFFYenNleG9pMkNXV0NfSXFDdjk1Y0lkeVRlMVRsaXE5OV9LNjZ5VQ?oc=5": 1792458084.4367225
  },
  "queue": [
   {
@@ -1220,7 +1210,7 @@
    "cat": "culture",
    "val": 2,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "कस्तो हुन्छ आज दिनभरको मौसम ?",
@@ -1335,7 +1325,7 @@
    "cat": "society",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "चर्चमा प्रार्थना चलिरहेका बेला क्रस खस्यो, पादरीको मृत्यु",
@@ -1546,17 +1536,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1791852658.6169608,
-   "en": "Landslide-triggered flash flood sweeps away bridge and homes in Nepal's Gorkha district",
-   "ne": "Landslide-triggered flash flood sweeps away bridge and homes in Nepal's Gorkha district",
-   "link": "https://weather.com/2026/10/12/news/weather/video/nepal-gorkha-flash-flood-bridges-washed-away-budhi-gandaki",
-   "source": "The Weather Channel",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "disaster"
-  },
   {
    "ts": 1791854461.5639167,
    "en": "बाढीले दुई सातादेखि अवरूद्ध गलकोट-ताराखोला सडक सञ्चालनमा",
@@ -4649,7 +4628,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1792457471,
+ "updated": 1792458088,
  "pending_since": 1792457446.7021754,
  "fb_blocks": [
   1790350880.4125228,
