@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcUpQTl9BOFB2a1F2Q3VUTnBPVC1zMXRsUF8ydzJIcnJNM1pNQkh3WHR0Z1JfQ3dQYW1IMkZDVHBXMWRENVRnVF9FNFItSjR3M29FcVVXTUNWRE5GWDBEQWtTNkxsNkNSN1V2Nlh0NUoxR0lyaWZiTlh1Mi1SUnlTTllsMjRHdDJhYXBPUVFsRHVJaktrYVQtNDFGd3pYSmoycW80dExpOENyMkRJMDhCUjVWcHlCY3BvRWM5LUdrclp2Y2I4Uk9PVndR?oc=5": 1792315871.2834191,
-  "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNmpadjdGeWRHaGJPNnBzTXRzZzN3VHdIdm04em9IOVo1Y3BWOXV3dDhuLVdhczA4NldqWVg3Yl9sRF9SWm5aN1VHdlI2eG5sQml3SXhMWl8zbi1VQ0lUVXVqWmRyOGhnWlhvdW9oX0s1bE9iUU4yOXBINElYeUhnMjgtUmltNEdfRm1NbGZidlBvUlA5QUhSMU5DTVZYYXowczVPbTFhclNadGpoMnFIYS11SF90WDdoV3NGLVJ5VjI3Y0NkNDRsakJfVFNTZXQyc3BV?oc=5": 1792315871.2834191,
   "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUmk2RF9OWG5kQUtSSGk1Qy1oUk9uV2xlOVNLZkk4UVRVNVRvRmNfa1ZwcGhSM1dhMF9GOFRhLThXV3Uwclc0NXJ2MHFDNC1kNjJUenNIb2VQYkxfX1BVWnZCazFBYUczYzdKSUwwUzdxQ01rNXR4elZucDJzNFcxcUJaeDZPVG9JT04tTUd0SzY2ajl2SjVrVUduNkZHY2NjVDNuVGxEZw?oc=5": 1792316450.3894658,
   "http://english.ratopati.com/story/84114/a-public-representative-by-position-a-bhotekoshi-flood-victim-by-destiny-even-though-his-own-house-is-flooded-rabindra-wipes-the-tears-of-others": 1792317048.3569725,
   "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUks0N0dhVW9xcXN5OTVtQ1hwOFd5OEFyNFdvUldYbTRKM19sQnhaUFltOE9zOHdqQVNIUzNzVkN3MlJVRExBQm1XNkt4cmJqOUZWYzVybF96VXBDem5RbW96dElFeGZOR3lwcHdmMjQ1MEpXMm4tU3k3YUhrWnFDblY4ejA1Q3ZrVGdVWTdIYzJacTNPcXNJQ1lkTUtqMmZUbkczMW5pUk5hb0tva19TeGJTZw?oc=5": 1792317048.3569725,
@@ -1150,7 +1148,8 @@
   "https://nagariknews.nagariknetwork.com/Dharma-Saskriti/devotees-flock-to-bhaktapur-to-visit-taleju-bhavani-50-34.html": 1792488051.146288,
   "https://nagariknews.nagariknetwork.com/international/efforts-are-being-made-to-create-a-situation-like-bangladesh-and-france-in-india-bhagwat-58-90.html": 1792488051.146288,
   "https://nagariknews.nagariknetwork.com/social-affairs/relief-supplies-delivered-by-drone-to-settlements-with-road-connectivity-cut-off-73-60.html": 1792488051.146288,
-  "https://nagariknews.nagariknetwork.com/international/kenyan-cleric-mackenzie-1911-convicted-of-murder-56-82.html": 1792488051.146288
+  "https://nagariknews.nagariknetwork.com/international/kenyan-cleric-mackenzie-1911-convicted-of-murder-56-82.html": 1792488051.146288,
+  "https://baahrakhari.com/detail/505373": 1792488671.5714202
  },
  "queue": [
   {
@@ -3543,6 +3542,29 @@
     "Crime"
    ],
    "cat": "world",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "पछिल्लो २४ घण्टामा विपद्का २४ घटना : एकजनाको मृत्यु, ११ घाइते",
+   "summary": "",
+   "link": "https://baahrakhari.com/detail/505373",
+   "source": "Baahrakhari",
+   "ts": 1792488053,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "पछिल्लो २४ घण्टामा विपद्का २४ घटना : एकजनाको मृत्यु, ११ घाइते",
+   "en": "पछिल्लो २४ घण्टामा विपद्का २४ घटना : एकजनाको मृत्यु, ११ घाइते",
+   "ne": "पछिल्लो २४ घण्टामा विपद्का २४ घटना : एकजनाको मृत्यु, ११ घाइते",
+   "imp": 2,
+   "tags": [
+    "Disaster",
+    "Injuries",
+    "नेपाल"
+   ],
+   "cat": "disaster",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -6630,8 +6652,8 @@
    "cat": "disaster"
   }
  ],
- "updated": 1792488080,
- "pending_since": null,
+ "updated": 1792488678,
+ "pending_since": 1792488671.5714202,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
