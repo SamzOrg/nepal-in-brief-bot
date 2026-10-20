@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://nagariknews.nagariknetwork.com/social-affairs/one-dead-two-injured-in-motorcycle-accident-in-rautahat-45-93.html": 1792294847.3148415,
-  "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1IZEl3N0h6czV3OElCbXU0d3MycVZ5R3RYaFN4Q1AwS0xlcld5SE56VlFZUEhtYV94UDNiTVJEdnptN0xNQ1d4UzhaZVNaemtw?oc=5": 1792294847.3148415,
   "https://nagariknews.nagariknetwork.com/social-affairs/tatopani-border-crossing-to-open-for-three-days-from-today-62-35.html": 1792295450.2346323,
   "https://baahrakhari.com/detail/505248": 1792295450.2346323,
   "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbTRXYWt6WnF4X0U4NWdIeWowRll1OWVxUzFRY2NMT2FLdEU3clVPV1ZjQnRUdkxBckhiV2paSU1ZYk1iTGlTLWp1elo5ZzFKRy03UkR2b24td19DaGdtbVZTenpfbm02U0NWLWRlVkFGN09CVjZocmdDZkVkVC16MQ?oc=5": 1792295450.2346323,
@@ -1085,7 +1083,27 @@
   "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPU0FiWEtielhRUDlwZ3hOTm5McmRxUWhDSU1yYUJyS2paUWV3ZEZ0RWtYcjBHSFJaOXZ1T2JDclR4NXBGUlJpRlNpcnR6QXVXbmduMEQ3Um9hQ3o2RXZRX0k1bUJBcGFNeS1HbVRTbWZVX0hHVFk0LU1qdlZqSW1QYUtNUGhCbGFJM2hyOTU0U0ZoY05Ja0tEQzhmZlZzeU1ZLVE2ZW11RHBKQlBCMENUWVdnSURCTkR1ZjYtUUJGNGxFZDNVeV9aQUpQVDV6eXVuek9KMC1hekLSAdgBQVVfeXFMT1NBYlhLYnpYUVA5cGd4Tk5uTHJkcVFoQ0lNcmFCcktqWlFld2RGdEVrWHIwR0hSWjl2dU9iQ3JUeDVwRlJSaUZTaXJ0ekF1V25nbjBEN1JvYUN6NkV2UV9JNW1CQXBhTXktR21UU21mVV9IR1RZNC1NanZWakltUGFLTVBoQmxhSTNocjk1NFNGaGNOSWtLREM4ZmZWc3lNWS1RNmVtdURwSkJQQjBDVFlXZ0lEQk5EdWY2LVFCRjRsRWQzVXlfWkFKUFQ1enl1bnpPSjAtYXpC?oc=5": 1792466451.4627774,
   "http://lokaantar.com/story/331639/2026/10/20/korala-sadak-": 1792466451.4627774,
   "https://news.google.com/rss/articles/CBMixAFBVV95cUxNX3pfSTI5RlYxem1LODBPd2hRNXdVU0FMZ0FuNUxzZWlyRDdMeUV2QW9sRGFKT1NmMEFIOGJrd0pLUEI5ci1TZ2JXTXJVdXNIdjk5Z0lqUFV4RDk2NlJHcTc0ZllFel9kcUUtd0J5WHFaUER4ZU51eFNMRjNkSDhHS2ZHbmVqOWdRa2xFQnI2ZGNTd2xxZlZsUmdRVHIteGRtZkxiOGQtWFRDOTFzOE5Ja2llRTlEUWh2TUdDbmZqazZ5RkM20gHKAUFVX3lxTFBabmNTM1dZRkhEU1BBakQ4eFFFM0pNMnEwa0ZxcE9wbjhubWNTcWE3di1wclczTUUyTlc0LVltbm91UVRnekJ3bGxfR3k0V2tVVDljekozOGN1RjM3WE9RWEtlOGMtZlQ2S3p3UHRKSzhBLXhiZ3o1QXR1azJta1hBdVJ2aGRBWmZnNW5kc0pZcHJydmF3bkw2TkU3QUNoSlhQMlMwZGlFYWtxQ2FNMlM5YWVwb09IUVhVM2d5enUza0J1WTN4LTlKOGc?oc=5": 1792466451.4627774,
-  "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdkQwXzMyUWNaWm0xQVgyeTVwSUhMRDVGYzJjRE9XSWtBZFlkWWY0TWRraTl6bjN6N016N1NNUkdYUEl1TlJCMm1raURGTHhxUGdpcUI2YkhpUEZxS1JhNWVEcDRsc3p6UGpBZlhsc1NMTXc2cjZZeHdsTmN2Rm0wTGxGQkJqcktTT1FiMkEyb2w5VlFQcnFjcEFhMFhDUi1SUmM2ZlJFOEViMkRjZUQyT0N3dnk1UnM3OHVXLXJpakRUY2x2Z1c5THM2ZVFxMDlXSmQ40gHYAUFVX3lxTE9TQWJYS2J6WFFQOXBneE5ObkxyZHFRaENJTXJhQnJLalpRZXdkRnRFa1hyMEdIUlo5dnVPYkNyVHg1cEZSUmlGU2lydHpBdVduZ24wRDdSb2FDejZFdlFfSTVtQkFwYU15LUdtVFNtZlVfSEdUWTQtTWp2VmpJbVBhS01QaEJsYUkzaHI5NTRTRmhjTklrS0RDOGZmVnN5TVktUTZlbXVEcEpCUEIwQ1RZV2dJREJORHVmNi1RQkY0bEVkM1V5X1pBSlBUNXp5dW56T0owLWF6Qg?oc=5": 1792467068.1367188
+  "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdkQwXzMyUWNaWm0xQVgyeTVwSUhMRDVGYzJjRE9XSWtBZFlkWWY0TWRraTl6bjN6N016N1NNUkdYUEl1TlJCMm1raURGTHhxUGdpcUI2YkhpUEZxS1JhNWVEcDRsc3p6UGpBZlhsc1NMTXc2cjZZeHdsTmN2Rm0wTGxGQkJqcktTT1FiMkEyb2w5VlFQcnFjcEFhMFhDUi1SUmM2ZlJFOEViMkRjZUQyT0N3dnk1UnM3OHVXLXJpakRUY2x2Z1c5THM2ZVFxMDlXSmQ40gHYAUFVX3lxTE9TQWJYS2J6WFFQOXBneE5ObkxyZHFRaENJTXJhQnJLalpRZXdkRnRFa1hyMEdIUlo5dnVPYkNyVHg1cEZSUmlGU2lydHpBdVduZ24wRDdSb2FDejZFdlFfSTVtQkFwYU15LUdtVFNtZlVfSEdUWTQtTWp2VmpJbVBhS01QaEJsYUkzaHI5NTRTRmhjTklrS0RDOGZmVnN5TVktUTZlbXVEcEpCUEIwQ1RZV2dJREJORHVmNi1RQkY0bEVkM1V5X1pBSlBUNXp5dW56T0owLWF6Qg?oc=5": 1792467068.1367188,
+  "http://english.ratopati.com/story/84203/drs-technology-for-the-first-time-in-nepal-premier-league": 1792467649.3063633,
+  "https://nagariknews.nagariknetwork.com/social-affairs/light-rain-likely-in-these-places-today-10-84.html": 1792467649.3063633,
+  "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMm9XdmFKcUZXSUJzcE50eVlwLWYyVXBLbG0wdGw3Z2tzNEdHUGU5WHlrSFVhaVo5Y0NRMi1qM2dRWnc3aHpYRUdZa0lmYnZDZWlBX0ZvWHVSSjVGbWoxWGQ1WEl0X3NDVkJxTGdRaUEtZzIyaWN5Wm81OE4yZWYybGtxMUdKZHBxdlJteXFzamc2RzdnR3VoeTZpa0FQZDRJSVV2ck4yVzVZLUtUaVE?oc=5": 1792467649.3063633,
+  "https://baahrakhari.com/detail/505349": 1792467649.3063633,
+  "https://www.setopati.com/sports/cricket/401123": 1792467649.3063633,
+  "https://english.onlinekhabar.com/lalitpur-pedestrian-overpass-lift.html": 1792467649.3063633,
+  "https://kathmandupost.com/world/2026/10/20/ronaldo-handed-30-day-ban-for-leaving-portugal-camp-following-coach-jesus-rift": 1792467649.3063633,
+  "http://lokaantar.com/story/331640/2026/10/20/npl-": 1792467649.3063633,
+  "http://english.ratopati.com/story/84202/indian-rappers-initiative-for-climate-awareness": 1792467649.3063633,
+  "https://nagariknews.nagariknetwork.com/economy/ime-group-is-providing-international-standard-hotel-services-under-its-own-brand-chandra-dhakal-br-77-10.html": 1792467649.3063633,
+  "https://baahrakhari.com/detail/505348": 1792467649.3063633,
+  "https://www.setopati.com/social/401122": 1792467649.3063633,
+  "http://lokaantar.com/story/331635/2026/10/20/siddababa-surung-": 1792467649.3063633,
+  "http://english.ratopati.com/story/84183/suicide-impulse-or-anger": 1792467649.3063633,
+  "https://nagariknews.nagariknetwork.com/international/trump-blames-immigrants-jihadists-and-communists-for-the-situation-in-france-24-32.html": 1792467649.3063633,
+  "https://www.setopati.com/social/401116": 1792467649.3063633,
+  "https://nagariknews.nagariknetwork.com/Dharma-Saskriti/ashwin-shukla-navami-mahanavami-festival-being-celebrated-37-29.html": 1792467649.3063633,
+  "https://nagariknews.nagariknetwork.com/social-affairs/katari-accident-shrestha-s-body-postmortem-after-girl-s-consent-to-teach-her-br-73-37.html": 1792467649.3063633,
+  "https://nagariknews.nagariknetwork.com/economy/why-have-the-number-of-tourists-visiting-mustang-decreased-92-92.html": 1792467649.3063633,
+  "https://nagariknews.nagariknetwork.com/politics/we-will-prioritize-infrastructure-development-in-marchwar-minister-lamsal-17-89.html": 1792467649.3063633
  },
  "queue": [
   {
@@ -1132,7 +1150,7 @@
    "cat": "culture",
    "val": 2,
    "teaser": false,
-   "hits": 7
+   "hits": 8
   },
   {
    "title": "कस्तो हुन्छ आज दिनभरको मौसम ?",
@@ -1431,7 +1449,7 @@
    "cat": "sports",
    "val": 3,
    "teaser": false,
-   "hits": 3
+   "hits": 4
   },
   {
    "title": "Nepali athletes remain busy with international competitions during Dashain",
@@ -1826,7 +1844,7 @@
    "cat": "economy",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Baglung flood survivors face Dashain without homes as rebuilding stalls",
@@ -1986,6 +2004,360 @@
    "cat": "disaster",
    "val": 3,
    "teaser": true,
+   "hits": 1
+  },
+  {
+   "title": "NPL to Feature Decision Review System for First Time in Nepali Cricket History",
+   "summary": "Kathmandu. For the first time in the history of Nepali cricket, the Decision Review System (DRS) technology will be used...",
+   "link": "http://english.ratopati.com/story/84203/drs-technology-for-the-first-time-in-nepal-premier-league",
+   "source": "Ratopati EN",
+   "ts": 1792467365,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/npl-trophy-(11)_Jrd2SGO5Ns.jpg",
+   "lang": "en",
+   "hl": "NPL to Feature Decision Review System for First Time in Nepali Cricket History",
+   "en": "NPL to Feature Decision Review System for First Time in Nepali Cricket History",
+   "ne": "NPL to Feature Decision Review System for First Time in Nepali Cricket History",
+   "imp": 4,
+   "tags": [
+    "NPL",
+    "Cricket",
+    "DRS",
+    "NepalCricket"
+   ],
+   "cat": "sports",
+   "val": 3,
+   "teaser": false,
+   "hits": 3
+  },
+  {
+   "title": "आज यी स्थानमा हल्का वर्षाको सम्भावना",
+   "summary": "आज देशका हिमाली र पहाडी भू-भागमा आंशिक बादल लाग्नेछ। देशको तराई भू-भागमा मौसम मुख्यतया सफा रहनेछ।...",
+   "link": "https://nagariknews.nagariknetwork.com/social-affairs/light-rain-likely-in-these-places-today-10-84.html",
+   "source": "Nagarik News",
+   "ts": 1792467316,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2025/third-party/1737596139_mausam.jpg",
+   "lang": "ne",
+   "hl": "आज यी स्थानमा हल्का वर्षाको सम्भावना",
+   "en": "आज यी स्थानमा हल्का वर्षाको सम्भावना",
+   "ne": "आज यी स्थानमा हल्का वर्षाको सम्भावना",
+   "imp": 2,
+   "tags": [
+    "Weather",
+    "Rain",
+    "मौसम"
+   ],
+   "cat": "disaster",
+   "val": 1,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Eli Eats Himalayan Restaurant, a Trip Through Tibetan-Nepali Nourishment",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMm9XdmFKcUZXSUJzcE50eVlwLWYyVXBLbG0wdGw3Z2tzNEdHUGU5WHlrSFVhaVo5Y0NRMi1qM2dRWnc3aHpYRUdZa0lmYnZDZWlBX0ZvWHVSSjVGbWoxWGQ1WEl0X3NDVkJxTGdRaUEtZzIyaWN5Wm81OE4yZWYybGtxMUdKZHBxdlJteXFzamc2RzdnR3VoeTZpa0FQZDRJSVV2ck4yVzVZLUtUaVE?oc=5",
+   "source": "The Wesleyan Argus",
+   "ts": 1792467153,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "Eli Eats Himalayan Restaurant, a Trip Through Tibetan-Nepali Nourishment",
+   "en": "Eli Eats Himalayan Restaurant, a Trip Through Tibetan-Nepali Nourishment",
+   "ne": "Eli Eats Himalayan Restaurant, a Trip Through Tibetan-Nepali Nourishment",
+   "imp": 2,
+   "tags": [
+    "TibetanFood",
+    "NepaliFood",
+    "Restaurant"
+   ],
+   "cat": "culture",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "पाँचतले मन्दिर",
+   "summary": "",
+   "link": "https://baahrakhari.com/detail/505349",
+   "source": "Baahrakhari",
+   "ts": 1792466770,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "पाँचतले मन्दिर",
+   "en": "पाँचतले मन्दिर",
+   "ne": "पाँचतले मन्दिर",
+   "imp": 2,
+   "tags": [
+    "Bhaktapur",
+    "Temple",
+    "पाँचतलेमन्दिर"
+   ],
+   "cat": "culture",
+   "val": 1,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Lalitpur builds Nepal's first lift-equipped pedestrian overpass in Kusunti",
+   "summary": "Lalitpur, October 20 Construction is underway on a pedestrian overpass equipped with lifts at Kusunti Height in Lalitpur Metropolitan City, in what its designer describes as a first-of-its-kind initiative in Nepal. On...",
+   "link": "https://english.onlinekhabar.com/lalitpur-pedestrian-overpass-lift.html",
+   "source": "Onlinekhabar EN",
+   "ts": 1792466100,
+   "weight": 3,
+   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/10/Sky-bridge-5-1024x684-1.jpg",
+   "lang": "en",
+   "hl": "Lalitpur builds Nepal's first lift-equipped pedestrian overpass in Kusunti",
+   "en": "Lalitpur builds Nepal's first lift-equipped pedestrian overpass in Kusunti",
+   "ne": "Lalitpur builds Nepal's first lift-equipped pedestrian overpass in Kusunti",
+   "imp": 3,
+   "tags": [
+    "Lalitpur",
+    "Kusunti",
+    "Infrastructure",
+    "PedestrianOverpass"
+   ],
+   "cat": "society",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Indian Rappers Use Music to Raise Awareness on Water Scarcity and Climate Change",
+   "summary": "Bengaluru. In India, rappers have started sending messages through music to spread public awareness about water scarcity and the effects...",
+   "link": "http://english.ratopati.com/story/84202/indian-rappers-initiative-for-climate-awareness",
+   "source": "Ratopati EN",
+   "ts": 1792467175,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/kali_vp0b5ELRpb.webp",
+   "lang": "en",
+   "hl": "Indian Rappers Use Music to Raise Awareness on Water Scarcity and Climate Change",
+   "en": "Indian Rappers Use Music to Raise Awareness on Water Scarcity and Climate Change",
+   "ne": "Indian Rappers Use Music to Raise Awareness on Water Scarcity and Climate Change",
+   "imp": 1,
+   "tags": [
+    "WaterScarcity",
+    "ClimateChange",
+    "Music",
+    "India"
+   ],
+   "cat": "world",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "आइएमई ग्रुपले अन्तर्राष्ट्रिय मापदण्डको होटल सेवा आफ्नै 'ब्राण्ड'मा दिइरहेको छ : चन्द्र ढकाल",
+   "summary": "आइएमई ग्रुपले आफ्नै होटल ब्रान्ड 'इला'मार्फत नेपालको पर्यटन प्रवर्द्धन तथा पर्यटकीय पूर्वाधार विकासलाई प्राथमिकता दिएको छ।...",
+   "link": "https://nagariknews.nagariknetwork.com/economy/ime-group-is-providing-international-standard-hotel-services-under-its-own-brand-chandra-dhakal-br-77-10.html",
+   "source": "Nagarik News",
+   "ts": 1792466266,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2025/third-party/1792466253_Untitled%20design%20(3).png",
+   "lang": "ne",
+   "hl": "आइएमई ग्रुपले अन्तर्राष्ट्रिय मापदण्डको होटल सेवा आफ्नै 'ब्राण्ड'मा दिइरहेको छ : चन्द्र ढकाल",
+   "en": "आइएमई ग्रुपले अन्तर्राष्ट्रिय मापदण्डको होटल सेवा आफ्नै 'ब्राण्ड'मा दिइरहेको छ : चन्द्र ढकाल",
+   "ne": "आइएमई ग्रुपले अन्तर्राष्ट्रिय मापदण्डको होटल सेवा आफ्नै 'ब्राण्ड'मा दिइरहेको छ : चन्द्र ढकाल",
+   "imp": 2,
+   "tags": [
+    "IMEGroup",
+    "ChandraDhakal",
+    "Hotel",
+    "Tourism"
+   ],
+   "cat": "economy",
+   "val": 1,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "इरानमा अमेरिकी सैन्य दबाब : कति शक्तिशाली छ 'मदर अफ अल बम्ब्स' ?",
+   "summary": "",
+   "link": "https://baahrakhari.com/detail/505348",
+   "source": "Baahrakhari",
+   "ts": 1792465508,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "इरानमा अमेरिकी सैन्य दबाब : कति शक्तिशाली छ 'मदर अफ अल बम्ब्स' ?",
+   "en": "इरानमा अमेरिकी सैन्य दबाब : कति शक्तिशाली छ 'मदर अफ अल बम्ब्स' ?",
+   "ne": "इरानमा अमेरिकी सैन्य दबाब : कति शक्तिशाली छ 'मदर अफ अल बम्ब्स' ?",
+   "imp": 1,
+   "tags": [
+    "Iran",
+    "USA",
+    "Military",
+    "MotherOfAllBombs"
+   ],
+   "cat": "world",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "महानवमीमा भद्रकालीमा सवारीसाधनको पूजा गर्नेको भीड",
+   "summary": "आज देशभर विभिन्न धार्मिक तथा सांस्कृतिक विधिअनुसार महानवमी पर्व मनाइँदैछ। यस अवसरमा निर्माण, कलकारखाना, उद्योग तथा प्रविधिसँग सम्बन्धित औजार, मेसिनरी उपकरण र सवारीसाधनको पूजा गर्ने परम्परा छ।",
+   "link": "https://www.setopati.com/social/401122",
+   "source": "Setopati",
+   "ts": 1792465650,
+   "weight": 3,
+   "img": null,
+   "lang": "ne",
+   "hl": "महानवमीमा भद्रकालीमा सवारीसाधनको पूजा गर्नेको भीड",
+   "en": "महानवमीमा भद्रकालीमा सवारीसाधनको पूजा गर्नेको भीड",
+   "ne": "महानवमीमा भद्रकालीमा सवारीसाधनको पूजा गर्नेको भीड",
+   "imp": 2,
+   "tags": [
+    "Mahanawami",
+    "Bhadrakali",
+    "Dashain",
+    "भद्रकाली"
+   ],
+   "cat": "culture",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "दशैँमै गाडी कुद्ने भनिएको सिद्धबाबा सुरुङमार्ग अब कहिलेदेखि सञ्चालनमा आउँछ ?",
+   "summary": "दशैँबाट सञ्चालनमा ल्याउने तयारीसहित काम भइरहेको निर्माणाधीन सिद्धबाबा सुरूङ मार्ग सञ्चालनको मिति अनिश्चित बनेको छ । बाढीपहिरोलगायत प्राकृतिक विपत्तिले आवश्यक उपकरण रोकिनुका साथै केही बगेपछि सुरूङ मार्ग सञ्चालनको मिति...",
+   "link": "http://lokaantar.com/story/331635/2026/10/20/siddababa-surung-",
+   "source": "Lokaantar",
+   "ts": 1792453249.9092944,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "दशैँमै गाडी कुद्ने भनिएको सिद्धबाबा सुरुङमार्ग अब कहिलेदेखि सञ्चालनमा आउँछ ?",
+   "en": "दशैँमै गाडी कुद्ने भनिएको सिद्धबाबा सुरुङमार्ग अब कहिलेदेखि सञ्चालनमा आउँछ ?",
+   "ne": "दशैँमै गाडी कुद्ने भनिएको सिद्धबाबा सुरुङमार्ग अब कहिलेदेखि सञ्चालनमा आउँछ ?",
+   "imp": 3,
+   "tags": [
+    "SiddhababaTunnel",
+    "ButwalPalpa",
+    "Highway",
+    "सिद्धबाबा"
+   ],
+   "cat": "economy",
+   "val": 1,
+   "teaser": true,
+   "hits": 1
+  },
+  {
+   "title": "Suicide: A Complex Issue Beyond Impulse",
+   "summary": "Is suicide merely a momentary impulse or the final expression of pain, despair, humiliation, and helplessness accumulated over a long...",
+   "link": "http://english.ratopati.com/story/84183/suicide-impulse-or-anger",
+   "source": "Ratopati EN",
+   "ts": 1792466100,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/s_qjR3DBkxhl.webp",
+   "lang": "en",
+   "hl": "Suicide: A Complex Issue Beyond Impulse",
+   "en": "Suicide: A Complex Issue Beyond Impulse",
+   "ne": "Suicide: A Complex Issue Beyond Impulse",
+   "imp": 2,
+   "tags": [
+    "Suicide",
+    "MentalHealth"
+   ],
+   "cat": "health",
+   "val": 1,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "फ्रान्सको अवस्थाका लागि ट्रम्पले प्रवासी, जिहादी र कम्युनिस्टलाई ठहर्‍याए जिम्मेवार",
+   "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्पले कन्सासको विचिटामा आयोजित चुनावी सभाका क्रममा फ्रान्समा जारी अशान्तिको प्रसंग उठाएका छन्।...",
+   "link": "https://nagariknews.nagariknetwork.com/international/trump-blames-immigrants-jihadists-and-communists-for-the-situation-in-france-24-32.html",
+   "source": "Nagarik News",
+   "ts": 1792465472,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2025/third-party/1768179957_trump.jpg",
+   "lang": "ne",
+   "hl": "फ्रान्सको अवस्थाका लागि ट्रम्पले प्रवासी, जिहादी र कम्युनिस्टलाई ठहर्‍याए जिम्मेवार",
+   "en": "फ्रान्सको अवस्थाका लागि ट्रम्पले प्रवासी, जिहादी र कम्युनिस्टलाई ठहर्‍याए जिम्मेवार",
+   "ne": "फ्रान्सको अवस्थाका लागि ट्रम्पले प्रवासी, जिहादी र कम्युनिस्टलाई ठहर्‍याए जिम्मेवार",
+   "imp": 1,
+   "tags": [
+    "France",
+    "DonaldTrump",
+    "Protests",
+    "Immigration"
+   ],
+   "cat": "world",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "दाँत माझेर मात्र पुग्छ कि जिब्रो पनि सफा गर्नुपर्छ?",
+   "summary": "जिब्रो सफा गर्ने अभ्यासले मुखको दुर्गन्ध घटाउन र नुनिलो स्वादको अनुभूति तीव्र बनाउन सक्ने अध्ययनहरूले देखाएका छन्। तर जिब्रोमा भएका सबै ब्याक्टेरिया हानिकारक हुँदैनन् र अत्यधिक सफाइले मुखको सूक्ष्मजीव सन्तुलनमा असर...",
+   "link": "https://www.setopati.com/social/401116",
+   "source": "Setopati",
+   "ts": 1792464840,
+   "weight": 3,
+   "img": null,
+   "lang": "ne",
+   "hl": "दाँत माझेर मात्र पुग्छ कि जिब्रो पनि सफा गर्नुपर्छ?",
+   "en": "दाँत माझेर मात्र पुग्छ कि जिब्रो पनि सफा गर्नुपर्छ?",
+   "ne": "दाँत माझेर मात्र पुग्छ कि जिब्रो पनि सफा गर्नुपर्छ?",
+   "imp": 1,
+   "tags": [
+    "DentalHealth",
+    "Hygiene",
+    "HealthTips"
+   ],
+   "cat": "health",
+   "val": 1,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "कटारी दुर्घटना : बालिकालाई पढाउने सहमतिमा श्रेष्ठको श*व पोष्टमार्टम",
+   "summary": "तीन दिनअघि सवारी दुर्घटनामा ज्यान गुमाएका सुमन श्रेष्ठको शव पोष्टमार्टम भएको छ।",
+   "link": "https://nagariknews.nagariknetwork.com/social-affairs/katari-accident-shrestha-s-body-postmortem-after-girl-s-consent-to-teach-her-br-73-37.html",
+   "source": "Nagarik News",
+   "ts": 1792461775,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2025/third-party/1792461756_Untitled%20design.png",
+   "lang": "ne",
+   "hl": "कटारी दुर्घटना : बालिकालाई पढाउने सहमतिमा श्रेष्ठको श*व पोष्टमार्टम",
+   "en": "कटारी दुर्घटना : बालिकालाई पढाउने सहमतिमा श्रेष्ठको श*व पोष्टमार्टम",
+   "ne": "कटारी दुर्घटना : बालिकालाई पढाउने सहमतिमा श्रेष्ठको श*व पोष्टमार्टम",
+   "imp": 3,
+   "tags": [
+    "Katari",
+    "Udayapur",
+    "Accident",
+    "PostMortem"
+   ],
+   "cat": "crime",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "मर्चवारको पूर्वाधार विकासलाई प्राथमिकता दिन्छौँ : मन्त्री लम्साल",
+   "summary": "पूर्वाधार विकासमन्त्री सुनिल लम्सालले रुपन्देहीको मर्चवार क्षेत्रको समग्र विकासका लागि सडक, स्वास्थ्य र शिक्षाका पूर्वाधार निर्माणलाई प्राथमिकताका साथ अघि बढाइने जानकारी दिएका छन्।...",
+   "link": "https://nagariknews.nagariknetwork.com/politics/we-will-prioritize-infrastructure-development-in-marchwar-minister-lamsal-17-89.html",
+   "source": "Nagarik News",
+   "ts": 1792458864,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2025/third-party/1783268411_sunil.png",
+   "lang": "ne",
+   "hl": "मर्चवारको पूर्वाधार विकासलाई प्राथमिकता दिन्छौँ : मन्त्री लम्साल",
+   "en": "मर्चवारको पूर्वाधार विकासलाई प्राथमिकता दिन्छौँ : मन्त्री लम्साल",
+   "ne": "मर्चवारको पूर्वाधार विकासलाई प्राथमिकता दिन्छौँ : मन्त्री लम्साल",
+   "imp": 2,
+   "tags": [
+    "Marchwar",
+    "Infrastructure",
+    "Lamsal",
+    "Rupandehi"
+   ],
+   "cat": "politics",
+   "val": 2,
+   "teaser": false,
    "hits": 1
   }
  ],
@@ -5082,8 +5454,8 @@
    "cat": "disaster"
   }
  ],
- "updated": 1792467076,
- "pending_since": 1792465851.3969367,
+ "updated": 1792467656,
+ "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
