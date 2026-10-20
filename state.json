@@ -1108,7 +1108,10 @@
   "https://nagariknews.nagariknetwork.com/politics/those-who-work-are-criticized-those-who-don-t-work-are-praised-long-live-social-media-mahesh-basnet-78-55.html": 1792472486.8495963,
   "http://english.ratopati.com/story/84211/president-poudel-worships-the-newlyweds": 1792472486.8495963,
   "https://baahrakhari.com/detail/505354": 1792472486.8495963,
-  "http://english.ratopati.com/story/84210/us-secretary-of-state-rubios-india-visit-efforts-to-improve-relations-amid-visa-and-tax-disputes": 1792472486.8495963
+  "http://english.ratopati.com/story/84210/us-secretary-of-state-rubios-india-visit-efforts-to-improve-relations-amid-visa-and-tax-disputes": 1792472486.8495963,
+  "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYW9ZQWVRNmtramZicWxaOUhDbWk0Wng3T3N1b2F1RXFQOC1feV9OXzFKVU0zZG1XckRJWEI2aFVVTDk5TmdsLTlibWdmWEtENXRpa1c0blIxcXlUcnJhRGt3SGE1cUxSdXdMOElGVmZSNGdJU0FkMDE4ZGJGMUFYM0VRdVRtaFIzcGtKb3I0bFc2UQ?oc=5": 1792473046.6083627,
+  "http://english.ratopati.com/story/84215/nepal-bans-screening-of-bollywood-film-udta-tir": 1792473046.6083627,
+  "https://nagariknews.nagariknetwork.com/politics/president-worships-new-bride-40-91.html": 1792473046.6083627
  },
  "queue": [
   {
@@ -1665,7 +1668,7 @@
    "cat": "culture",
    "val": 3,
    "teaser": false,
-   "hits": 3
+   "hits": 5
   },
   {
    "title": "अमेरिकाका हरेक बालबालिकालाई स्पेसएक्सको एक-एक सेयर दिने मस्कको घोषणा",
@@ -2593,7 +2596,7 @@
    "cat": "culture",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "पर्यटकको रोजाइ बन्दैछ गुल्मीको होमस्टे",
@@ -5870,8 +5873,8 @@
    "cat": "disaster"
   }
  ],
- "updated": 1792472492,
- "pending_since": null,
+ "updated": 1792473050,
+ "pending_since": 1792473046.6083627,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
