@@ -1171,32 +1171,11 @@
   "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNkdua3BHdm4yTVVvTFBub3VNTzhDcVRndm4zM1hmT0dRMVBUakZpX29yNXp1alVpdmEza0dwTmcxeFdrRndoVEd1T0VXb0docjlQNjdJdE01RF81LUNfZ1Rla01iVzlId3huS09rWGJJTlRnd1NBa2tJSnJ4eTc5TWQtbmtpbEd5YXNYM2d0SFhqS3k1WmVZeVhTTHZBZDNUbmMzaUlackNBd2xkMmJYdHpSVVJ3bW8?oc=5": 1792502459.1422086,
   "https://baahrakhari.com/detail/505381": 1792502459.1422086,
   "https://news.google.com/rss/articles/CBMizAFBVV95cUxOU1I3dmdkREk4RnlwUWMwUkVwWkFfdkNuY3k4dXhVd1FMSFBSNWxjRlZ5Wk5PaVJVWHhZcGdoM2ZhTkN5RVRSc1U2clliZXo2MzJfbkxWeDEzNENoaV95MnNfamtPVXBUQ01KUmNteXdVSkplendMYVRZSmMtUkRnZ2VrWjEwNTVJZ0tpVkpTN2o2dmVpSno2Y3ZhWlVDQkw5TzlJeEJndGNqMTVyU3NlOUlpTVlTUFlZN1JKOXFyOE54aXNtMFQyLWNoVWvSAcwBQVVfeXFMTlNSN3ZnZERJOEZ5cFFjMFJFcFpBX3ZDbmN5OHV4VXdRTEhQUjVsY0ZWeVpOT2lSVVh4WXBnaDNmYU5DeUVUUnNVNnJZYmV6NjMyX25MVngxMzRDaGlfeTJzX2prT1VwVENNSlJjbXl3VUpKZXp3TGFUWUpjLVJEZ2dla1oxMDU1SWdLaVZKUzdqNnZlaUp6NmN2YVpVQ0JMOU85SXhCZ3RjajE1clNzZTlJaU1ZU1BZWTdSSjlxcjhOeGlzbTBUMi1jaFVr?oc=5": 1792503072.2513719,
-  "https://gorkhapatraonline.com/news/226835": 1792503072.2513719
+  "https://gorkhapatraonline.com/news/226835": 1792503072.2513719,
+  "https://news.google.com/rss/articles/CBMimAFBVV95cUxONnpidk9vRWowOXNmWnJKTG5VZEU5THBMd0daVWM5emUxdmlOQUVUR09TMWlsQU5pbzhmRUt5Nm5BTEZpTlFWYkgzdWJWdHNURzl4RTBBcnRreGxBSGVPRGRLdjZfQ3JTd1BmNkVpZ0RNaERVRUhmc21FQzFnVEV1Tk00OVZETHVDZmhtXzRmQlh0SDZuYktJTw?oc=5": 1792504260.0138023,
+  "http://lokaantar.com/story/331665/2026/10/20/accident-": 1792504260.0138023
  },
  "queue": [
-  {
-   "title": "Woman arrested with stolen ornaments in Parsa",
-   "summary": "Police have arrested a woman with gold and silver ornaments worth Rs 411,000 in Parsa.According to Deputy Superintendent of Police at the District Police Office, Chakra Bahadur Malla, one tola gold chain and five sets...",
-   "link": "https://theannapurnaexpress.com/story/68093",
-   "source": "Annapurna Express",
-   "ts": 1792475156,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Woman arrested with stolen ornaments in Parsa",
-   "en": "Woman arrested with stolen ornaments in Parsa",
-   "ne": "Woman arrested with stolen ornaments in Parsa",
-   "imp": 2,
-   "tags": [
-    "Parsa",
-    "Theft",
-    "Arrest"
-   ],
-   "cat": "crime",
-   "val": 3,
-   "teaser": false,
-   "hits": 3
-  },
   {
    "title": "सुडानमा शृंखलाबद्ध ड्रोन आक्रमण, १६० भन्दा बढीको मृत्यु",
    "summary": "",
@@ -3349,20 +3328,32 @@
    "val": 2,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "इजिप्टमा बस र ट्रक ठोक्किँदा १२ जनाको मृत्यु, ३० घाइते",
+   "summary": "इजिप्टको राजधानी कायरोको दक्षिणपश्चिममा बस र ट्रक आपसमा ठोक्किँदा कम्तीमा १२ जनाको मृत्यु भएको छ भने ३० जना घाइते भएका छन् ।इजिप्टको स्वास्थ्य तथा जनसङ्ख्या मन्त्रालयका अनुसार मङ्गलबार कायरो-असियुत पश्चिमी मरुभूमि...",
+   "link": "http://lokaantar.com/story/331665/2026/10/20/accident-",
+   "source": "Lokaantar",
+   "ts": 1792489860.6489089,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "इजिप्टमा बस र ट्रक ठोक्किँदा १२ जनाको मृत्यु, ३० घाइते",
+   "en": "इजिप्टमा बस र ट्रक ठोक्किँदा १२ जनाको मृत्यु, ३० घाइते",
+   "ne": "इजिप्टमा बस र ट्रक ठोक्किँदा १२ जनाको मृत्यु, ३० घाइते",
+   "imp": 1,
+   "tags": [
+    "Egypt",
+    "Accident",
+    "दुर्घटना"
+   ],
+   "cat": "world",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1791898918.363383,
-   "en": "बिहीबारदेखि डिलरबाटै ग्यास बिक्री वितरण, ११ केन्द्रमा",
-   "ne": "बिहीबारदेखि डिलरबाटै ग्यास बिक्री वितरण, ११ केन्द्रमा",
-   "link": "https://www.setopati.com/kinmel/business/400767",
-   "source": "Setopati",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "economy"
-  },
   {
    "ts": 1791900220.3231528,
    "en": "Raging waters carry huge boulders in Nepal flash flood",
@@ -6431,9 +6422,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "health"
+  },
+  {
+   "ts": 1792504277.6409104,
+   "en": "Snakebites cause 110 deaths in Nepal over six months",
+   "ne": "Snakebites cause 110 deaths in Nepal over six months",
+   "link": "https://english.nepalnews.com/s/society/snakebites-cause-110-deaths-in-nepal-over-six-months/",
+   "source": "Nepal News | Nepal's First Online News Portal",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "health"
   }
  ],
- "updated": 1792503654,
+ "updated": 1792504288,
  "pending_since": 1792503072.2513719,
  "fb_blocks": [
   1790350880.4125228,
