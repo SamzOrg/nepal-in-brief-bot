@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://baahrakhari.com/detail/505254": 1792299686.3201225,
-  "https://risingnepaldaily.com/news/87933": 1792299686.3201225,
   "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTTFJcWk1ZHk3M2tyVG5URVBXdVBKaDIyaWgzRU9KUGs2c3FYRHFQMWRUU1F1VmEtU0g1dHpGMjRtVUxfSk5TRkVXOEI0dkRZMXlVSzBFVmFpaDlhNC1BOVJIUDZ6VktMMzd1dVRGOEhrMS1qaVY4cVdIS1E3LVE4WjZjY0Z0V0N0cWZrWXp1RC10RmxCWml2OVlfSHdwUF94Umw1U3FlYlUteV80Q2c?oc=5": 1792300250.144743,
   "https://www.setopati.com/social/401056": 1792300250.144743,
   "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWG5TajlvWFBoSkNGU0xGYlFPSmNYX0ZSSEFjRWNtdnM3N3hWdXZxQjd4Rmc4T2xxTUlkNmdkc1NwcGlvSGVjOGNIejZXWmFoUTI1Ym1PZEVXeEc3Rlk3TGEtWmZaUGtubU5xOFN2akFiM3VMZnFFazVram1mVGVBYXdSZU5WWnhuQWpMa0Y5TENwUnBXb24tNEc4T2RZZ1o0SFpvS09fLTlOWUQ4T0E2SXFOSzhNLWVEeTZHb0hFZ1J3UDdGMktVOEo4OWFyaGc?oc=5": 1792300845.343775,
@@ -1091,7 +1089,26 @@
   "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUTFSU2RHNHE0NmdkUWwteFJFaVZPME5HVzdIYmFGcExLcHZROVFOVHpzdTNOUmlDajEzXzZWSzZfU1o3NlVEd3ZQZXlPNVdrY2JQMEhKMHBocU5qa192dnhNeS13cVNhQ2V0dldTZzczSXhtTndTbUV4b2FLT3ZQeUdyejFMeVJGWGtFY0xndUIxYU45R0w1emxQc3FKWU5kY1hrckhCMTFtS3lfM2dkbFlfTHRkSVBSNkE?oc=5": 1792471246.1884925,
   "http://lokaantar.com/story/331642/2026/10/20/election-": 1792471246.1884925,
   "http://english.ratopati.com/story/84212/how-many-people-have-left-kathmandu-valley-since-ghatasthapana-till-today": 1792471848.6482105,
-  "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWm5jUzNXWUZIRFNQQWpEOHhRRTNKTTJxMGtGcXBPcG44bm1jU3FhN3YtcHJXM01FMk5XNC1ZbW5vdVFUZ3pCd2xsX0d5NFdrVVQ5Y3pKMzhjdUYzN1hPUVhLZThjLWZUNkt6d1B0Sks4QS14Ymd6NUF0dWsybWtYQXVSdmhkQVpmZzVuZHNKWXBycnZhd25MNk5FN0FDaEpYUDJTMGRpRWFrcUNhTTJTOWFlcG9PSFFYVTNneXp1M2tCdVkzeC05Sjhn0gHKAUFVX3lxTFBabmNTM1dZRkhEU1BBakQ4eFFFM0pNMnEwa0ZxcE9wbjhubWNTcWE3di1wclczTUUyTlc0LVltbm91UVRnekJ3bGxfR3k0V2tVVDljekozOGN1RjM3WE9RWEtlOGMtZlQ2S3p3UHRKSzhBLXhiZ3o1QXR1azJta1hBdVJ2aGRBWmZnNW5kc0pZcHJydmF3bkw2TkU3QUNoSlhQMlMwZGlFYWtxQ2FNMlM5YWVwb09IUVhVM2d5enUza0J1WTN4LTlKOGc?oc=5": 1792471848.6482105
+  "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWm5jUzNXWUZIRFNQQWpEOHhRRTNKTTJxMGtGcXBPcG44bm1jU3FhN3YtcHJXM01FMk5XNC1ZbW5vdVFUZ3pCd2xsX0d5NFdrVVQ5Y3pKMzhjdUYzN1hPUVhLZThjLWZUNkt6d1B0Sks4QS14Ymd6NUF0dWsybWtYQXVSdmhkQVpmZzVuZHNKWXBycnZhd25MNk5FN0FDaEpYUDJTMGRpRWFrcUNhTTJTOWFlcG9PSFFYVTNneXp1M2tCdVkzeC05Sjhn0gHKAUFVX3lxTFBabmNTM1dZRkhEU1BBakQ4eFFFM0pNMnEwa0ZxcE9wbjhubWNTcWE3di1wclczTUUyTlc0LVltbm91UVRnekJ3bGxfR3k0V2tVVDljekozOGN1RjM3WE9RWEtlOGMtZlQ2S3p3UHRKSzhBLXhiZ3o1QXR1azJta1hBdVJ2aGRBWmZnNW5kc0pZcHJydmF3bkw2TkU3QUNoSlhQMlMwZGlFYWtxQ2FNMlM5YWVwb09IUVhVM2d5enUza0J1WTN4LTlKOGc?oc=5": 1792471848.6482105,
+  "https://nagariknews.nagariknetwork.com/social-affairs/more-than-576-000-people-have-left-the-kathmandu-valley-since-ghatasthapana-to-date-24-11.html": 1792472486.8495963,
+  "https://baahrakhari.com/detail/505357": 1792472486.8495963,
+  "https://english.onlinekhabar.com/can-announces-use-of-drs.html": 1792472486.8495963,
+  "https://gorkhapatraonline.com/news/227076": 1792472486.8495963,
+  "https://nagariknews.nagariknetwork.com/international/trump-directs-immediate-renaming-of-new-mexico-to-new-america-86-54.html": 1792472486.8495963,
+  "http://english.ratopati.com/story/84214/womens-premier-league-2027-auction-146-players-competing-for-27-spots-in-five-teams": 1792472486.8495963,
+  "https://english.khabarhub.com/2026/20/572673/": 1792472486.8495963,
+  "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMjlPWUU4RVBMenBTaVgxRTUxTGx1ZzA4ZmxnX1I5REFUbmc3YVBDeVYwZHBobVN0b0JlYTJ0VWhrMnlzMXBFdzlkTmZKS0J4MTluV2dOUHNHR1ExaFoxZVdJdV9PWXRua2NSVVoxb01lVWR6eGs0Znc3ZDJCMmdfbXZOTGJmTDd0em1sR2RLM1cwWXJfZVp5cjFQbHlteUtYODFuTlk0SEY?oc=5": 1792472486.8495963,
+  "http://lokaantar.com/story/331643/2026/10/20/raga-boka-": 1792472486.8495963,
+  "https://baahrakhari.com/detail/505356": 1792472486.8495963,
+  "https://gorkhapatraonline.com/news/227074": 1792472486.8495963,
+  "https://nagariknews.nagariknetwork.com/international/vance-hits-netanyahu-after-trump-s-endorsement-93-36.html": 1792472486.8495963,
+  "http://english.ratopati.com/story/84213/tiger-shroff-targeted-by-gunfire-reiki-took-place-in-juhu-a-week-ago": 1792472486.8495963,
+  "http://lokaantar.com/story/331641/2026/10/20/kathmandu-": 1792472486.8495963,
+  "https://baahrakhari.com/detail/505355": 1792472486.8495963,
+  "https://nagariknews.nagariknetwork.com/politics/those-who-work-are-criticized-those-who-don-t-work-are-praised-long-live-social-media-mahesh-basnet-78-55.html": 1792472486.8495963,
+  "http://english.ratopati.com/story/84211/president-poudel-worships-the-newlyweds": 1792472486.8495963,
+  "https://baahrakhari.com/detail/505354": 1792472486.8495963,
+  "http://english.ratopati.com/story/84210/us-secretary-of-state-rubios-india-visit-efforts-to-improve-relations-amid-visa-and-tax-disputes": 1792472486.8495963
  },
  "queue": [
   {
@@ -1857,29 +1874,6 @@
    "hits": 1
   },
   {
-   "title": "आज यी स्थानमा हल्का वर्षाको सम्भावना",
-   "summary": "आज देशका हिमाली र पहाडी भू-भागमा आंशिक बादल लाग्नेछ। देशको तराई भू-भागमा मौसम मुख्यतया सफा रहनेछ।...",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/light-rain-likely-in-these-places-today-10-84.html",
-   "source": "Nagarik News",
-   "ts": 1792467316,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1737596139_mausam.jpg",
-   "lang": "ne",
-   "hl": "आज यी स्थानमा हल्का वर्षाको सम्भावना",
-   "en": "आज यी स्थानमा हल्का वर्षाको सम्भावना",
-   "ne": "आज यी स्थानमा हल्का वर्षाको सम्भावना",
-   "imp": 2,
-   "tags": [
-    "Weather",
-    "Rain",
-    "मौसम"
-   ],
-   "cat": "disaster",
-   "val": 1,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Eli Eats Himalayan Restaurant, a Trip Through Tibetan-Nepali Nourishment",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMm9XdmFKcUZXSUJzcE50eVlwLWYyVXBLbG0wdGw3Z2tzNEdHUGU5WHlrSFVhaVo5Y0NRMi1qM2dRWnc3aHpYRUdZa0lmYnZDZWlBX0ZvWHVSSjVGbWoxWGQ1WEl0X3NDVkJxTGdRaUEtZzIyaWN5Wm81OE4yZWYybGtxMUdKZHBxdlJteXFzamc2RzdnR3VoeTZpa0FQZDRJSVV2ck4yVzVZLUtUaVE?oc=5",
@@ -2463,20 +2457,327 @@
    "val": 3,
    "teaser": false,
    "hits": 2
+  },
+  {
+   "title": "होर्मुज जलमार्गका इन्टरनेट केबलमा आक्रमण गर्ने इरानको चेतावनी",
+   "summary": "",
+   "link": "https://baahrakhari.com/detail/505357",
+   "source": "Baahrakhari",
+   "ts": 1792472445,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "होर्मुज जलमार्गका इन्टरनेट केबलमा आक्रमण गर्ने इरानको चेतावनी",
+   "en": "होर्मुज जलमार्गका इन्टरनेट केबलमा आक्रमण गर्ने इरानको चेतावनी",
+   "ne": "होर्मुज जलमार्गका इन्टरनेट केबलमा आक्रमण गर्ने इरानको चेतावनी",
+   "imp": 1,
+   "tags": [
+    "Iran",
+    "MiddleEast",
+    "इरान"
+   ],
+   "cat": "world",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "खार्पुको स्टिल ट्रष्ट मोटरेवल पुल निर्माण सम्पन्न",
+   "summary": "राजन रावतहुम्ला, कात्तिक ३ गते । कर्णाली करिडोरको खार्पुनाथ गाउँपालिका -५ को खार्पुको दोजाम कर्णाली नदीमा निर्माण कार्य भइरहेको स्टिल ट्रष्ट मोटरेवल पुलको निर्माण कार्य सम्पन्न भएक...",
+   "link": "https://gorkhapatraonline.com/news/227076",
+   "source": "Gorkhapatra",
+   "ts": 1792472103,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/388661/conversions/bridge-original.jpg",
+   "lang": "ne",
+   "hl": "खार्पुको स्टिल ट्रष्ट मोटरेवल पुल निर्माण सम्पन्न",
+   "en": "खार्पुको स्टिल ट्रष्ट मोटरेवल पुल निर्माण सम्पन्न",
+   "ne": "खार्पुको स्टिल ट्रष्ट मोटरेवल पुल निर्माण सम्पन्न",
+   "imp": 2,
+   "tags": [
+    "Bridge",
+    "Kharku",
+    "पुल"
+   ],
+   "cat": "society",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "तत्काल 'न्यू मेक्सिको' को नाम 'न्यू अमेरिका' राख्न ट्रम्पको निर्देशन",
+   "summary": "ट्रम्पले गत सेप्टेम्बरमा पनि न्यू मेक्सिकोको नाम परिवर्तन गर्ने प्रस्ताव राखेका थिए। त्यतिबेला उनले राज्यको नक्सामा 'मेक्सिको' शब्द हटाएर 'अमेरिका' लेखिएको तस्बिर सार्वजनिक गरेका थिए।...",
+   "link": "https://nagariknews.nagariknetwork.com/international/trump-directs-immediate-renaming-of-new-mexico-to-new-america-86-54.html",
+   "source": "Nagarik News",
+   "ts": 1792471874,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2026/third-party/1789272433_trump%20(1).jpg",
+   "lang": "ne",
+   "hl": "तत्काल 'न्यू मेक्सिको' को नाम 'न्यू अमेरिका' राख्न ट्रम्पको निर्देशन",
+   "en": "तत्काल 'न्यू मेक्सिको' को नाम 'न्यू अमेरिका' राख्न ट्रम्पको निर्देशन",
+   "ne": "तत्काल 'न्यू मेक्सिको' को नाम 'न्यू अमेरिका' राख्न ट्रम्पको निर्देशन",
+   "imp": 1,
+   "tags": [
+    "DonaldTrump",
+    "NewMexico"
+   ],
+   "cat": "world",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Women's Premier League 2027 Auction Set for October 28 in Kochi",
+   "summary": "New Delhi. The Women's Premier League (WPL) 2027 auction will be held on October 28 in Kochi.146 players will participate...",
+   "link": "http://english.ratopati.com/story/84214/womens-premier-league-2027-auction-146-players-competing-for-27-spots-in-five-teams",
+   "source": "Ratopati EN",
+   "ts": 1792471840,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/3qk31frg_harmanpreet-kaur-smriti-mandhana-bcci_625x300_16_may_22_uQF1tAvrKN.webp",
+   "lang": "en",
+   "hl": "Women's Premier League 2027 Auction Set for October 28 in Kochi",
+   "en": "Women's Premier League 2027 Auction Set for October 28 in Kochi",
+   "ne": "Women's Premier League 2027 Auction Set for October 28 in Kochi",
+   "imp": 1,
+   "tags": [
+    "WPL",
+    "Cricket",
+    "Auction"
+   ],
+   "cat": "sports",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "बसन्तपुरस्थित हनुमानढोका परिसरमा बोका र राँगाको बलि",
+   "summary": "काठमाडौंको बसन्तपुरस्थित हनुमानढोका परिसरमा बोका र राँगाको बलि दिइएको छ । भगवतीको नाममा महाअष्टमी, महानवमी र चतुदर्शी तिथिमा बलि दिने प्रचलन छ ।नेपाल सेनाका सैनिकहरूले दशैंको नवमीका दिन काठमाडौं दरबार स्क्वायरमा...",
+   "link": "http://lokaantar.com/story/331643/2026/10/20/raga-boka-",
+   "source": "Lokaantar",
+   "ts": 1792458087.5088317,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "बसन्तपुरस्थित हनुमानढोका परिसरमा बोका र राँगाको बलि",
+   "en": "बसन्तपुरस्थित हनुमानढोका परिसरमा बोका र राँगाको बलि",
+   "ne": "बसन्तपुरस्थित हनुमानढोका परिसरमा बोका र राँगाको बलि",
+   "imp": 2,
+   "tags": [
+    "HanumanDhoka",
+    "Dashain",
+    "बलि"
+   ],
+   "cat": "culture",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "राष्ट्रपतिले गरे नवकन्याको पूजाअर्चना",
+   "summary": "",
+   "link": "https://baahrakhari.com/detail/505356",
+   "source": "Baahrakhari",
+   "ts": 1792472125,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "राष्ट्रपतिले गरे नवकन्याको पूजाअर्चना",
+   "en": "राष्ट्रपतिले गरे नवकन्याको पूजाअर्चना",
+   "ne": "राष्ट्रपतिले गरे नवकन्याको पूजाअर्चना",
+   "imp": 2,
+   "tags": [
+    "President",
+    "Dashain",
+    "राष्ट्रपति"
+   ],
+   "cat": "culture",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "पर्यटकको रोजाइ बन्दैछ गुल्मीको होमस्टे",
+   "summary": "रमेश विश्वकर्मागुल्मी, कात्तिक ३ गते। गुल्मीको विभिन्न स्थानमा सञ्चालित होमस्टे पर्यटकको रोजाइ बन्दैगएको छ। यस जिल्लाको विभिन्न छ स्थानमा स्थानीय समुदाय मिलेर सञ्चालन गरेका होमस्टे...",
+   "link": "https://gorkhapatraonline.com/news/227074",
+   "source": "Gorkhapatra",
+   "ts": 1792470342,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/388658/conversions/IMG_3722-original.jpg",
+   "lang": "ne",
+   "hl": "पर्यटकको रोजाइ बन्दैछ गुल्मीको होमस्टे",
+   "en": "पर्यटकको रोजाइ बन्दैछ गुल्मीको होमस्टे",
+   "ne": "पर्यटकको रोजाइ बन्दैछ गुल्मीको होमस्टे",
+   "imp": 2,
+   "tags": [
+    "Gulmi",
+    "Homestay",
+    "गुल्मी"
+   ],
+   "cat": "culture",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "ट्रम्पको समर्थनपछि नेतान्याहूलाई भान्सको झट्का",
+   "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्पले इजरायलका प्रधानमन्त्री बेन्जामिन नेतान्याहूलाई आगामी चुनावमा समर्थन गरेको एक दिनपछि उपराष्ट्रपति जेडी भान्सले भने समर्थन गर्न अस्वीकार गरेका छन्।...",
+   "link": "https://nagariknews.nagariknetwork.com/international/vance-hits-netanyahu-after-trump-s-endorsement-93-36.html",
+   "source": "Nagarik News",
+   "ts": 1792470322,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2026/third-party/1792470258_JD%20Vance%20declines%20to%20endorse%20Netanyahu.jpg",
+   "lang": "ne",
+   "hl": "ट्रम्पको समर्थनपछि नेतान्याहूलाई भान्सको झट्का",
+   "en": "ट्रम्पको समर्थनपछि नेतान्याहूलाई भान्सको झट्का",
+   "ne": "ट्रम्पको समर्थनपछि नेतान्याहूलाई भान्सको झट्का",
+   "imp": 1,
+   "tags": [
+    "Trump",
+    "Netanyahu"
+   ],
+   "cat": "world",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Bollywood Actor Tiger Shroff Targeted in Mumbai Shooting",
+   "summary": "Mumbai. Three men who shot at Bollywood actor Tiger Shroff outside the football ground in Juhu, Mumbai on Sunday were...",
+   "link": "http://english.ratopati.com/story/84213/tiger-shroff-targeted-by-gunfire-reiki-took-place-in-juhu-a-week-ago",
+   "source": "Ratopati EN",
+   "ts": 1792471146,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/tiger-firing_aiB76N5aCk.webp",
+   "lang": "en",
+   "hl": "Bollywood Actor Tiger Shroff Targeted in Mumbai Shooting",
+   "en": "Bollywood Actor Tiger Shroff Targeted in Mumbai Shooting",
+   "ne": "Bollywood Actor Tiger Shroff Targeted in Mumbai Shooting",
+   "imp": 1,
+   "tags": [
+    "TigerShroff",
+    "Mumbai",
+    "Bollywood"
+   ],
+   "cat": "world",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "नदीलाई सुसाउन देऊ",
+   "summary": "",
+   "link": "https://baahrakhari.com/detail/505355",
+   "source": "Baahrakhari",
+   "ts": 1792471040,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "नदीलाई सुसाउन देऊ",
+   "en": "नदीलाई सुसाउन देऊ",
+   "ne": "नदीलाई सुसाउन देऊ",
+   "imp": 1,
+   "tags": [
+    "Poetry",
+    "Literature"
+   ],
+   "cat": "culture",
+   "val": 1,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "काम गर्नेहरू आलोचित, काम नगर्नेहरू प्रशंसित, सामाजिक सञ्जाल जिन्दावाद : महेश बस्नेत",
+   "summary": "नेकपा एमालेका सचिव महेश बस्नेतले भोटेकोशी बाढीपीडितका लागि एमालेले ३८ र नेकपाले २० वटा अस्थायी टहरा निर्माण गरेको बताएका छन्।...",
+   "link": "https://nagariknews.nagariknetwork.com/politics/those-who-work-are-criticized-those-who-don-t-work-are-praised-long-live-social-media-mahesh-basnet-78-55.html",
+   "source": "Nagarik News",
+   "ts": 1792470188,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2025/third-party/1783166836_mahesh_basnet.png",
+   "lang": "ne",
+   "hl": "काम गर्नेहरू आलोचित, काम नगर्नेहरू प्रशंसित, सामाजिक सञ्जाल जिन्दावाद : महेश बस्नेत",
+   "en": "काम गर्नेहरू आलोचित, काम नगर्नेहरू प्रशंसित, सामाजिक सञ्जाल जिन्दावाद : महेश बस्नेत",
+   "ne": "काम गर्नेहरू आलोचित, काम नगर्नेहरू प्रशंसित, सामाजिक सञ्जाल जिन्दावाद : महेश बस्नेत",
+   "imp": 2,
+   "tags": [
+    "MaheshBasnet",
+    "SocialMedia",
+    "राजनीति"
+   ],
+   "cat": "politics",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "President Ram Chandra Paudel Worships Nine Virgins on Bada Dashain 2083",
+   "summary": "Kathmandu. President Ram Chandra Paudel has performed the ritualistic worship of nine virgins on the occasion of Bada Dashain 2083.<...",
+   "link": "http://english.ratopati.com/story/84211/president-poudel-worships-the-newlyweds",
+   "source": "Ratopati EN",
+   "ts": 1792470687,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/856597365_1620444889878434_3257390098089335707_n_LK8OOdI0xa.webp",
+   "lang": "en",
+   "hl": "President Ram Chandra Paudel Worships Nine Virgins on Bada Dashain 2083",
+   "en": "President Ram Chandra Paudel Worships Nine Virgins on Bada Dashain 2083",
+   "ne": "President Ram Chandra Paudel Worships Nine Virgins on Bada Dashain 2083",
+   "imp": 2,
+   "tags": [
+    "RamChandraPaudel",
+    "Dashain",
+    "राष्ट्रपति"
+   ],
+   "cat": "culture",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "इतिहासको चिहानमाथि उभिएर",
+   "summary": "",
+   "link": "https://baahrakhari.com/detail/505354",
+   "source": "Baahrakhari",
+   "ts": 1792470060,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "इतिहासको चिहानमाथि उभिएर",
+   "en": "इतिहासको चिहानमाथि उभिएर",
+   "ne": "इतिहासको चिहानमाथि उभिएर",
+   "imp": 1,
+   "tags": [
+    "History",
+    "Literature"
+   ],
+   "cat": "culture",
+   "val": 1,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "US Secretary of State Antony Blinken to Visit India Amid Trade Tensions",
+   "summary": "Mumbai. US Secretary of State Antony Blinken is coming to India amid tensions arising from visa restrictions and tariff warnings....",
+   "link": "http://english.ratopati.com/story/84210/us-secretary-of-state-rubios-india-visit-efforts-to-improve-relations-amid-visa-and-tax-disputes",
+   "source": "Ratopati EN",
+   "ts": 1792470476,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/jaishankar-rubio_20261019203405_OdEwgHvwPz.webp",
+   "lang": "en",
+   "hl": "US Secretary of State Antony Blinken to Visit India Amid Trade Tensions",
+   "en": "US Secretary of State Antony Blinken to Visit India Amid Trade Tensions",
+   "ne": "US Secretary of State Antony Blinken to Visit India Amid Trade Tensions",
+   "imp": 1,
+   "tags": [
+    "AntonyBlinken",
+    "USA",
+    "India"
+   ],
+   "cat": "world",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1791867057.4420187,
-   "en": "दसैँका लागि पोखरामा १४ हजार ८०० भेडाच्याङ्ग्रा भित्रिए, हाटबजार सञ्चालन",
-   "ne": "दसैँका लागि पोखरामा १४ हजार ८०० भेडाच्याङ्ग्रा भित्रिए, हाटबजार सञ्चालन",
-   "link": "http://lokaantar.com/story/331196/2026/10/13/changra-",
-   "source": "Lokaantar",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "economy"
-  },
   {
    "ts": 1791868866.1879287,
    "en": "DNA Tests Show Preliminary Matches for Around 250 Rasuwa Flood Victims",
@@ -5569,8 +5870,8 @@
    "cat": "disaster"
   }
  ],
- "updated": 1792471875,
- "pending_since": 1792470666.624125,
+ "updated": 1792472492,
+ "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
