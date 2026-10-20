@@ -1,26 +1,5 @@
 {
  "seen": {
-  "https://risingnepaldaily.com/news/87924": 1792288883.320941,
-  "https://gorkhapatraonline.com/news/227030": 1792288883.320941,
-  "https://www.setopati.com/social/401051": 1792288883.320941,
-  "https://baahrakhari.com/detail/505243": 1792288883.320941,
-  "https://risingnepaldaily.com/news/87925": 1792288883.320941,
-  "https://nagariknews.nagariknetwork.com/economy/goat-trade-worth-over-rs-300-million-in-chitwan-84-76.html": 1792288883.320941,
-  "https://news.google.com/rss/articles/CBMiiAFBVV95cUxON3ZldTUwdTlMS0VxVENtbkNaTTBLOUUyRFZlZFlLLXNqM0NRRnZqMGg4dk0xQXpJMUM1c3F4ZTRqd29odXAtcnF4cXRHanB1MFBpcWxXUHpjRFhLdTI0MklxWlU0dnM5SEplWlhBMDgzYkkwa2xYRWQ4SEFxMW9ob3Y3eFZEQ05W?oc=5": 1792288883.320941,
-  "https://theannapurnaexpress.com/story/68025": 1792288883.320941,
-  "https://kathmandupost.com/world/2026/10/18/mass-protests-in-france-spiral-into-worst-riots-in-years": 1792288883.320941,
-  "http://lokaantar.com/story/331533/2026/10/18/accident-": 1792288883.320941,
-  "https://gorkhapatraonline.com/news/227029": 1792288883.320941,
-  "https://www.setopati.com/kinmel/economy/401050": 1792288883.320941,
-  "https://risingnepaldaily.com/news/87923": 1792288883.320941,
-  "https://nagariknews.nagariknetwork.com/international/violent-protests-in-france-550-000-people-on-the-streets-1-200-arrested-16-67.html": 1792288883.320941,
-  "http://lokaantar.com/story/331535/2026/10/18/weather-": 1792288883.320941,
-  "https://gorkhapatraonline.com/news/227028": 1792288883.320941,
-  "https://risingnepaldaily.com/news/87922": 1792288883.320941,
-  "http://lokaantar.com/story/331534/2026/10/18/khasi-": 1792288883.320941,
-  "https://gorkhapatraonline.com/news/227027": 1792288883.320941,
-  "http://lokaantar.com/story/331531/2026/10/18/police-": 1792288883.320941,
-  "http://lokaantar.com/story/331529/2026/10/18/myagdi-": 1792288883.320941,
   "https://english.onlinekhabar.com/three-killed-four-injured-as-suv-plunges-into-sunkoshi-river-in-sindhuli.html": 1792290044.3101814,
   "https://gorkhapatraonline.com/news/227031": 1792290044.3101814,
   "http://english.ratopati.com/story/84078/dashain-economics-should-we-only-increase-spending-or-domestic-production-as-well": 1792290044.3101814,
@@ -1135,7 +1114,8 @@
   "https://theannapurnaexpress.com/story/68079": 1792461682.9723883,
   "https://kathmandupost.com/national/2026/10/19/tourist-arrivals-in-mustang-plunge-41-5-percent": 1792461682.9723883,
   "https://baahrakhari.com/detail/505344": 1792461682.9723883,
-  "https://theannapurnaexpress.com/story/68078": 1792461682.9723883
+  "https://theannapurnaexpress.com/story/68078": 1792461682.9723883,
+  "https://thehimalayantimes.com/nepal/mahanawami-observed-with-prayers-sacrifices-and-weapon-worship": 1792462251.5574403
  },
  "queue": [
   {
@@ -1182,7 +1162,7 @@
    "cat": "culture",
    "val": 2,
    "teaser": false,
-   "hits": 5
+   "hits": 6
   },
   {
    "title": "कस्तो हुन्छ आज दिनभरको मौसम ?",
@@ -4995,8 +4975,8 @@
    "cat": "society"
   }
  ],
- "updated": 1792461687,
- "pending_since": null,
+ "updated": 1792462261,
+ "pending_since": 1792462251.5574403,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
