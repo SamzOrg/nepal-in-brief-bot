@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://baahrakhari.com/detail/505238": 1792282243.5800202,
-  "https://news.google.com/rss/articles/CBMifkFVX3lxTE9BWWFKam05ZXFxTTd5bEhmXzhuMHB0cmpHaTdTTS1SS3dfWXJmTVZNTHo2SGdBTUFKVkI5STVwWVBvS3hzQVRXUFBfckZOSV9KVHByeTZmRjFfWW5qdTlKZ1BNVE8wRXoyVjd5dENKaUx1N3NCWkZUVEZlOWhWUQ?oc=5": 1792282243.5800202,
   "https://news.google.com/rss/articles/CBMitwFBVV95cUxQd3lNeFg3WFVFOXZRbVd4MkR1Mk5WZzNBbExOcU1jaV9EZDJnLVNOMDJHOHhnblJETFNHbWROTjU5Z1JhRzV5T0czMV9iTWlLQUJBUzVtaGZaRVBDMFIydUkxWlB1UVpfZ2tPb3YwNmtNMlNEa0pKWlNLZWZfMklxSDlTNm1GZXpWN0FpR1lQbzNQblhCbmtZdzR5eTVtbUlNRmtpdFdFTGlaeTI2MUR5dnlub3FESHfSAbcBQVVfeXFMUHd5TXhYN1hVRTl2UW1XeDJEdTJOVmczQWxMTnFNY2lfRGQyZy1TTjAyRzh4Z25SRExTR21kTk41OWdSYUc1eU9HMzFfYk1pS0FCQVM1bWhmWkVQQzBSMnVJMVpQdVFaX2drT292MDZrTTJTRGtKSlpTS2VmXzJJcUg5UzZtRmV6VjdBaUdZUG8zUG5YQm5rWXc0eXk1bW1JTUZraXRXRUxpWnkyNjFEeXZ5bm9xREh3?oc=5": 1792282848.4619853,
   "https://nagariknews.nagariknetwork.com/international/public-outrage-against-inflation-in-france-protests-across-the-country-10-71.html": 1792282848.4619853,
   "http://english.ratopati.com/story/84069/rain-and-snowfall-likely-in-some-places-due-to-the-influence-of-westerly-winds": 1792282848.4619853,
@@ -1158,52 +1156,6 @@
   "http://lokaantar.com/story/331621/2026/10/19/baraha-": 1792454482.2571106
  },
  "queue": [
-  {
-   "title": "दाङका थारूहरुले लगाए गउँल्या टीका",
-   "summary": "सन्तोष दहितदाङ, कात्तिक २ गते । थारू समुदायले आज आफ्नो मौलिक परम्पराअनुसार दसैँको गउँल्या टीका (सेतो टीका) लगाएका छन् । अष्टमीका दिन ढिक्री पूजा गरेपछि भोलिपल्ट पितृलाई सम्झने, भुइ...",
-   "link": "https://gorkhapatraonline.com/news/227071",
-   "source": "Gorkhapatra",
-   "ts": 1792426050,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/388655/conversions/1-gaunlya-tika-lagaundai-original.jpg",
-   "lang": "ne",
-   "hl": "दाङका थारूहरुले लगाए गउँल्या टीका",
-   "en": "दाङका थारूहरुले लगाए गउँल्या टीका",
-   "ne": "दाङका थारूहरुले लगाए गउँल्या टीका",
-   "imp": 2,
-   "tags": [
-    "Dang",
-    "Tharu",
-    "चाडपर्व"
-   ],
-   "cat": "culture",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Uttarakhand first Himalayan State to export trout to Nepal, supply to ITB",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUEs0S1l5Rjktam1tS2lWMUZHVjdScS11ZjVOMG01eEI2Z1QyZFZudnVuY3pZYl81RlZUU3pmVUFTbWxWQlhvN1pESG5yWEhad0pEVUZaZEZMRjFUUUFYZjRXVjRvT2p4U2dkaWdJSW90T2F4bEQwWHVyXzkzMHU1WEJDck1UaUt4bGhfTGpTeEJSYzFnNDFEODQ4Zmg?oc=5",
-   "source": "Pioneer Edge",
-   "ts": 1792425783,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Uttarakhand first Himalayan State to export trout to Nepal, supply to ITB",
-   "en": "Uttarakhand first Himalayan State to export trout to Nepal, supply to ITB",
-   "ne": "Uttarakhand first Himalayan State to export trout to Nepal, supply to ITB",
-   "imp": 2,
-   "tags": [
-    "Uttarakhand",
-    "Nepal",
-    "Trout"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
   {
    "title": "सलमानबारे बिश्नोई समूहको अर्को अडियो सार्वजनिक, टाइगरको घटनापछि दिशाको घरमा सुरक्षा कडा",
    "summary": "अडियोमा दिवंगत अभिनेता सुशान्त सिंह राजपूतको मृत्युलाई लिएर पनि आरोप लगाइएको छ।",
@@ -4573,8 +4525,8 @@
    "cat": "economy"
   }
  ],
- "updated": 1792454489,
- "pending_since": null,
+ "updated": 1792455051,
+ "pending_since": 1792455047.771696,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
