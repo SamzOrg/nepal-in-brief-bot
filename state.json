@@ -1114,7 +1114,10 @@
   "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOM1pXR2lwM1pWRG9DenZIbHR4VzlVaWVDeF9vYjRjWUN2bThqSUV4dDZQSkJjaE9odHpQcEdCYTl6LWdnN3ZHN29FM2lhSDVqZGtRc19VQ3MyTThVLXpSTmx6Zi16QVY0eTZtLXJJWnF3VlNSNkFyMkFkcEVEX2cyX1NLTUpXclFCY1NVdl9ZU01QVFV3NnJXQUtNT3RDS21aX016ZnQ3R1RPWjQtM2JxUDJNYlpKanc0MG1SSUJnNUxrOGk2dDZqdzZDVEVYXzBhRzNOVGttYmZQNFHSAegBQVVfeXFMTzZkT0ZVekhsckZlQndoRml6RDFrUGJXTC1IMjlSZldMbUpfNzBNcF9MQk4zVVJnb1dLNFJTcUNCanFIWEt0ZFZ6MGU4YUVyM2x3QzgyMm1qTHpBY0pxMjZ0VVJ3b3VHcVV5ekI5cUx6M1lRQ0wydGRKNlUwWmxMUlNrS19KWG5ialFKS1lsUmhqOWtLaEQ1aHdNNEEzTkQyclJvZ0FWUjZJNE5ZNzVjRDBOcnFQc1BfRklJNmo5TnQ0dFFXcHJJMThIQVBhOURuZjNxdy1vbDctTnVBYmJNRGpjSFhoTTBiUg?oc=5": 1792569689.7884376,
   "http://lokaantar.com/story/331695/2026/10/21/dashain-": 1792569689.7884376,
   "https://gorkhapatraonline.com/news/227090": 1792569689.7884376,
-  "https://theannapurnaexpress.com/story/68128": 1792570253.399242
+  "https://theannapurnaexpress.com/story/68128": 1792570253.399242,
+  "http://english.ratopati.com/story/84247/upendraman-singh-witnessing-the-crisis-of-nepali-football-from-the-goal-post": 1792570851.8643763,
+  "https://nagariknews.nagariknetwork.com/politics/vice-president-receives-bada-dashain-tika-21-64.html": 1792570851.8643763,
+  "http://lokaantar.com/story/331697/2026/10/21/president-": 1792570851.8643763
  },
  "queue": [
   {
@@ -1139,53 +1142,6 @@
    "val": 3,
    "teaser": false,
    "hits": 2
-  },
-  {
-   "title": "कसरी सुरू र व्यापक भयो दसैं?",
-   "summary": "महिनौं लामो झरीको मौसम सकिएपछि सुरू हुन्छ शरद ऋतु। खेतमा धान झुलेको बेला मध्यपहाडका किसान फुर्सदिला हुन्छन्। वसन्त ऋतुझैं मौसम शितल हुन्छ- अचाक्ली गर्मी सकिन्छ र मुटु कमाउने सिरेटो आएको हुँदैन। खुला आकाशमा चंगा उड्न...",
-   "link": "https://www.setopati.com/social/401149",
-   "source": "Setopati",
-   "ts": 1792541460,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "कसरी सुरू र व्यापक भयो दसैं?",
-   "en": "कसरी सुरू र व्यापक भयो दसैं?",
-   "ne": "कसरी सुरू र व्यापक भयो दसैं?",
-   "imp": 2,
-   "tags": [
-    "Dashain",
-    "History",
-    "दसैँ"
-   ],
-   "cat": "culture",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "कोसी र गण्डकी प्रदेशका केही स्थानमा हल्का वर्षा र हिमपातको सम्भावना",
-   "summary": "हिमाली भूभाग तथा कोसी र गण्डकी प्रदेशका पहाडी भूभागका एकदुई स्थानमा हल्का वर्षा/हिमपातको सम्भावना रहेको विभागले जानकारी दिएको छ ।",
-   "link": "https://baahrakhari.com/detail/505395",
-   "source": "Baahrakhari",
-   "ts": 1792541568,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "कोसी र गण्डकी प्रदेशका केही स्थानमा हल्का वर्षा र हिमपातको सम्भावना",
-   "en": "कोसी र गण्डकी प्रदेशका केही स्थानमा हल्का वर्षा र हिमपातको सम्भावना",
-   "ne": "कोसी र गण्डकी प्रदेशका केही स्थानमा हल्का वर्षा र हिमपातको सम्भावना",
-   "imp": 2,
-   "tags": [
-    "Weather",
-    "Koshi",
-    "Gandaki",
-    "वर्षा"
-   ],
-   "cat": "disaster",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
   },
   {
    "title": "मुक्तिनाथ मन्दिरमा अभिभावक नभएकालाई दसैँको टीका लगाइने",
@@ -1772,27 +1728,6 @@
    "hits": 2
   },
   {
-   "title": "Tag",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRDgyOXlIOW15TWVyRl9HcDU3M00tUUVVNmpFenQ1UnVDc0lXeGFtN0FfVVFGaWJOMEFNd3J6MlY1Sk15cnVUOThlQjI4T1RGVDdFQ1YzZjFOSHU2aHM4WEVhTVFUYmpzbXpFOFFCTjZmUS1wRHhnaDFPSUVJbFRxU3h0SV8?oc=5",
-   "source": "myRepublica",
-   "ts": 1792541940,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Tag",
-   "en": "Tag",
-   "ne": "Tag",
-   "imp": 1,
-   "tags": [
-    "Tag"
-   ],
-   "cat": "other",
-   "val": 1,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Ronaldo let Man United down, says club's former boss Ten Hag",
    "summary": "Former Manchester United manager Erik ten Hag has blamed Cristiano Ronaldo's lack of fitness and preparation for the forward's struggles during his second stint at the club, saying the Portugal international \"let the...",
    "link": "https://theannapurnaexpress.com/story/68121",
@@ -2272,7 +2207,7 @@
    "cat": "culture",
    "val": 3,
    "teaser": false,
-   "hits": 5
+   "hits": 6
   },
   {
    "title": "Dashain Festival Begins in Nepal, Digital Transactions See Significant Rise",
@@ -2454,29 +2389,6 @@
     "ClimateChange"
    ],
    "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "ब्रह्मपुरी गाउँपालिका अध्यक्ष साहको निधन",
-   "summary": "जनार्जन खत्रीसर्लाही, कात्तिक ४ गते । सर्लाहीको ब्रह्मपुरी गाउँपालिकाका अध्यक्ष रामपदारथ साहको बुधबार निधन भएको छ । ब्रह्मपुरी गाउँपालिका -२ घर भएका ८५ वर्षीय साहको बुधबार बिहान का...",
-   "link": "https://gorkhapatraonline.com/news/227090",
-   "source": "Gorkhapatra",
-   "ts": 1792567308,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/388683/conversions/Ram-Padaratha-Sha-original.jpg",
-   "lang": "ne",
-   "hl": "ब्रह्मपुरी गाउँपालिका अध्यक्ष साहको निधन",
-   "en": "ब्रह्मपुरी गाउँपालिका अध्यक्ष साहको निधन",
-   "ne": "ब्रह्मपुरी गाउँपालिका अध्यक्ष साहको निधन",
-   "imp": 4,
-   "tags": [
-    "Chairman",
-    "Death",
-    "ब्रह्मपुरी"
-   ],
-   "cat": "politics",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -5540,9 +5452,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "politics"
+  },
+  {
+   "ts": 1792570858.419549,
+   "en": "सर्लाहीको ब्रह्मपुरी गाउँपालिका अध्यक्ष रामपदारथ साहको निधन",
+   "ne": "सर्लाहीको ब्रह्मपुरी गाउँपालिका अध्यक्ष रामपदारथ साहको निधन",
+   "link": "https://gorkhapatraonline.com/news/227090",
+   "source": "Gorkhapatra",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "politics"
   }
  ],
- "updated": 1792570256,
+ "updated": 1792570872,
  "pending_since": 1792570253.399242,
  "fb_blocks": [
   1790350880.4125228,
