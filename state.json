@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://baahrakhari.com/detail/505294": 1792379458.611739,
-  "http://lokaantar.com/story/331570/2026/10/19/chitawan-": 1792379458.611739,
   "https://gorkhapatraonline.com/news/227059": 1792380056.8982275,
   "https://kathmandupost.com/interviews/2026/10/19/how-nepal-played-a-big-role-in-south-africa-s-liberation": 1792380056.8982275,
   "https://baahrakhari.com/detail/505296": 1792381253.1399317,
@@ -1183,7 +1181,8 @@
   "https://theannapurnaexpress.com/story/68116": 1792551690.0721562,
   "http://lokaantar.com/story/331684/2026/10/21/europe-protest-": 1792551690.0721562,
   "https://theannapurnaexpress.com/story/68115": 1792551690.0721562,
-  "http://lokaantar.com/story/331683/2026/10/21/round-up-": 1792551690.0721562
+  "http://lokaantar.com/story/331683/2026/10/21/round-up-": 1792551690.0721562,
+  "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZGlWSXFjR0lwTnppNVVaSFV5QUV2WkNYSUU0YjJTdjVCbEZlSXFLOF9hd0ZjZWFfcEprQWJxdWE0Njdrb0xneklieXdLSkpjMTZySmJwc29qM2Z1SEh1U1psclNlS3hxUG1Gc1JaVG9XT09yQW9GT1VnQklZa0MyaGR3S3hqWEJfMldVQjhpZVp0RVRzUGVkTm4tRWhaMmctZ1l3Q3lFM1JTSWdfeGZRMzNtMHNBRC1PbnhmVnF6ODZDb0hPdDdScA?oc=5": 1792552848.7618237
  },
  "queue": [
   {
@@ -2047,28 +2046,6 @@
     "Comparison"
    ],
    "cat": "politics",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Nepal calls on Aussie agents to help tourism recovery with December fam trip",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeU1sSmZlckpBLWxyUFFfY0pPQVNwcEJhN1FHcEFuSWJMcnlxeUFwVGZpM0RUVjRxUkpOYVNoQXRHNTZ1bUtpNmVNeGlNaV8wMXNIc2U1SHBRVG1WdXBTVWJGWThnNHNiQnh4a0pBSWV5SFQ5Nm0wSENKVGJiSDctUzc5Sy1CcGNxMW5Ocl9mQkhVVnhDWmdXZTBCV3hRTnBwUHNpekF5ZEs?oc=5",
-   "source": "travelweekly.com.au",
-   "ts": 1792545172,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Nepal calls on Aussie agents to help tourism recovery with December fam trip",
-   "en": "Nepal calls on Aussie agents to help tourism recovery with December fam trip",
-   "ne": "Nepal calls on Aussie agents to help tourism recovery with December fam trip",
-   "imp": 3,
-   "tags": [
-    "Tourism",
-    "Australia"
-   ],
-   "cat": "economy",
    "val": 2,
    "teaser": false,
    "hits": 1
@@ -5329,9 +5306,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "disaster"
+  },
+  {
+   "ts": 1792552857.7736492,
+   "en": "Nepal invites Aussie agents to Upper Mustang fam trip in Dec to aid tourism",
+   "ne": "Nepal invites Aussie agents to Upper Mustang fam trip in Dec to aid tourism",
+   "link": "https://travelweekly.com.au/nepal-calls-on-aussie-agents-to-help-tourism-recovery-with-december-fam-trip/",
+   "source": "travelweekly.com.au",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "economy"
   }
  ],
- "updated": 1792552252,
+ "updated": 1792552877,
  "pending_since": 1792552249.0045767,
  "fb_blocks": [
   1790350880.4125228,
