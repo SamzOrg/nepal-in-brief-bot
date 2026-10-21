@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNS1k5a1FRQWlYblVDcHM5Rmw1LVk1QXZfX2YwVENjTVFpbjBDUmJZRmNidGJjMk5OY0UxczdmOW1aZjYtOW9lYk51Yk5PRHBGdTBXdkhwazJXSzBaZEZSdzk5S2VZbERrbUpNNE5yMFA3WXlBOGEzby1Wc2FidnpQR0VEVE5zaEJ5bWk0a3V3Rk9OU1M0Z1BOc0RldjNSSzZiYV9wRE8xd2lwLVBialdRc3YtbUhYYl9mR1Yza1pVWHZzYkxxX2k5OEUwaUFVMWNaOGtCVGxZSXdCRlNK?oc=5": 1792450880.7015767,
   "https://news.google.com/rss/articles/CBMicEFVX3lxTFBxQXl0Y2hsRnFydXlBTjkyX2pNV2NTVmtQQ0ZGdFlNUHNoLTU4bHVESWhDcFZ2aXd3czFCR20zY1NoR2tSMXpHY3Mwdk9PYWZTWWItN3k5ZWVRY2liSFEwVFZib18zQXd3T1U1LWNUck8?oc=5": 1792452050.8451993,
   "http://english.ratopati.com/story/84193/impact-of-westerly-winds-possibility-of-light-rain-and-snowfall-in-some-areas": 1792453849.7756772,
   "https://news.google.com/rss/articles/CBMijwFBVV95cUxOM1FfM09HREhZM1FLUWxvRlliRUU3VTViYXlkUVktdVo0RkN6YTVpenhXeVA1N2lSaE01R1k0eFFqaEVZS25XX3NBUy03OVdMZHVMSFRUNGNLdjMtam0tckVEenJKVGNieFozcVJuT21nNzlZeHk5OUQ3Rnphb2NrRGgtZ0ZYZkY0a0RtemJwd9IBjwFBVV95cUxOM1FfM09HREhZM1FLUWxvRlliRUU3VTViYXlkUVktdVo0RkN6YTVpenhXeVA1N2lSaE01R1k0eFFqaEVZS25XX3NBUy03OVdMZHVMSFRUNGNLdjMtam0tckVEenJKVGNieFozcVJuT21nNzlZeHk5OUQ3Rnphb2NrRGgtZ0ZYZkY0a0RtemJwdw?oc=5": 1792453849.7756772,
@@ -1001,28 +1000,6 @@
  },
  "queue": [
   {
-   "title": "China's Hidden Joblessness: When Workers Remain Employed on Paper but Lose Their Jobs in Practice",
-   "summary": "China's official unemployment figures may be missing an important dimension of labour-market distress - workers who have lost their regular jobs but remain formally employed. Annual reports of some state-owned...",
-   "link": "https://english.khabarhub.com/2026/21/572777/",
-   "source": "Khabarhub EN",
-   "ts": 1792594287,
-   "weight": 2,
-   "img": "https://english.khabarhub.com/wp-content/uploads/2024/11/China-Unemployment-ChinaImages-via-Depositphotos.jpg",
-   "lang": "en",
-   "hl": "China's Hidden Joblessness: When Workers Remain Employed on Paper but Lose Their Jobs in Practice",
-   "en": "China's Hidden Joblessness: When Workers Remain Employed on Paper but Lose Their Jobs in Practice",
-   "ne": "China's Hidden Joblessness: When Workers Remain Employed on Paper but Lose Their Jobs in Practice",
-   "imp": 2,
-   "tags": [
-    "China",
-    "HiddenUnemployment"
-   ],
-   "cat": "economy",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "दशैंको टीका : कतै रौनक, कतै सुनसान",
    "summary": "आज दशैंको टीका। कसैका निधारमा रातो टीका टल्किएको छ, कतै प्रियजनको सम्झनाले आँखा रसाएका छन्। कतै आफन्तको हातबाट टीका र जमरा लगाएर आशीर्वाद लिन भ्याइनभ्याइ छ। तर, कतिपयका आशीर्वाद दिने आफन्तलाई नै बाढीले बगाएको छ।...",
    "link": "https://nagariknews.nagariknetwork.com/social-affairs/dashain-tika-somewhere-lively-somewhere-deserted-br-99-17.html",
@@ -1505,17 +1482,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1792018258.7210152,
-   "en": "भैरहवास्थित भीम अस्पतालले दसैँ बिदामा पनि अत्यावश्यक स्वास्थ्य सेवा दिने",
-   "ne": "भैरहवास्थित भीम अस्पतालले दसैँ बिदामा पनि अत्यावश्यक स्वास्थ्य सेवा दिने",
-   "link": "https://gorkhapatraonline.com/news/226729",
-   "source": "Gorkhapatra",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "health"
-  },
   {
    "ts": 1792020055.3904812,
    "en": "Nepal flood survivors help others after losing loved ones",
@@ -4542,7 +4508,7 @@
    "cat": "politics"
   }
  ],
- "updated": 1792623087,
+ "updated": 1792623710,
  "pending_since": 1792623051.2488794,
  "fb_blocks": [
   1790350880.4125228,
