@@ -1161,7 +1161,8 @@
   "https://theannapurnaexpress.com/story/68121": 1792556450.6755385,
   "https://nagariknews.nagariknetwork.com/politics/chief-minister-karki-believes-that-vijayadashami-will-help-in-passing-on-cultural-ties-from-generation-to-generation-82-22.html": 1792556450.6755385,
   "https://gorkhapatraonline.com/news/227085": 1792556450.6755385,
-  "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOEJKSnF5WkNaekZsX0lkRTN4OHJBam5iNk5NRzVmVXI5SnA1S2kzSmc2R0FCM05FMW1lekFoRXgxQkR0MEEzN2NLQVdGeDgyMU80S3Z1SDBtSHRUU1RXcWJxSVpyYjYzMUgyanBKcHBIQmdUTFhSTnA5VkxzNms1UHhpQlJyUER5d1VTOVRTMURLT3RWaFEyT0JEYi1IcU8zd0djUEFNY0lPWG40?oc=5": 1792557075.1605282
+  "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOEJKSnF5WkNaekZsX0lkRTN4OHJBam5iNk5NRzVmVXI5SnA1S2kzSmc2R0FCM05FMW1lekFoRXgxQkR0MEEzN2NLQVdGeDgyMU80S3Z1SDBtSHRUU1RXcWJxSVpyYjYzMUgyanBKcHBIQmdUTFhSTnA5VkxzNms1UHhpQlJyUER5d1VTOVRTMURLT3RWaFEyT0JEYi1IcU8zd0djUEFNY0lPWG40?oc=5": 1792557075.1605282,
+  "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTDdqc1VsNnItWmI0TTlNNjlwVFVlbExVTWlVajF5bloxUm1PaFR1RGYxT29OOWlpbTNHTTlsNkNualhPZ1lGXy15VHR0Z2JNOFV6d0dYWnpqYXFBQThrb2llRVBpMDJnX2x3dzlRTHdMV3hRSkVjYnlpN2NVYUlKV08ta2JYT3loVUxZX2ZnbVE1NngzMXB1WnNLMWcxME1NQ2ZKMncwQ0s?oc=5": 1792558246.2732718
  },
  "queue": [
   {
@@ -1702,7 +1703,7 @@
    "cat": "culture",
    "val": 3,
    "teaser": false,
-   "hits": 4
+   "hits": 5
   },
   {
    "title": "खुलामञ्चमा दुर्गा पूजा",
@@ -2363,29 +2364,6 @@
    "val": 2,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "RSP Chair Rabi Lamichhane calls for unity and hope",
-   "summary": "KATHMANDU: Rastriya Swatantra Party (RSP) Chair Rabi Lamichhane has urged Nepalis to turn the grief and despair caused by recent disasters into hope, resilience and a collective commitment to rebuilding the country as...",
-   "link": "https://english.khabarhub.com/2026/21/572755/",
-   "source": "Khabarhub EN",
-   "ts": 1792554287,
-   "weight": 2,
-   "img": "https://english.khabarhub.com/wp-content/uploads/2026/06/rabi-laminechane-400x220.jpg",
-   "lang": "en",
-   "hl": "RSP Chair Rabi Lamichhane calls for unity and hope",
-   "en": "RSP Chair Rabi Lamichhane calls for unity and hope",
-   "ne": "RSP Chair Rabi Lamichhane calls for unity and hope",
-   "imp": 3,
-   "tags": [
-    "RabiLamichhane",
-    "RSP",
-    "Dashain"
-   ],
-   "cat": "politics",
-   "val": 2,
-   "teaser": false,
-   "hits": 4
   },
   {
    "title": "Bijaya Dashami binds country's diverse society together: PM Shah",
@@ -5536,9 +5514,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "world"
+  },
+  {
+   "ts": 1792558252.3860662,
+   "en": "RSP Chair Rabi Lamichhane calls for unity and hope in Dashain message",
+   "ne": "RSP Chair Rabi Lamichhane calls for unity and hope in Dashain message",
+   "link": "https://english.khabarhub.com/2026/21/572755/",
+   "source": "Khabarhub EN",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "politics"
   }
  ],
- "updated": 1792557654,
+ "updated": 1792558264,
  "pending_since": 1792557075.1605282,
  "fb_blocks": [
   1790350880.4125228,
