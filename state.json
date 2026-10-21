@@ -1,6 +1,5 @@
 {
  "seen": {
-  "http://lokaantar.com/story/331579/2026/10/19/bagaicha": 1792384272.6705904,
   "http://lokaantar.com/story/331583/2026/10/19/sadak-awaruddha-": 1792385450.7502544,
   "http://lokaantar.com/story/331582/2026/10/19/road-": 1792385450.7502544,
   "https://english.onlinekhabar.com/at-dashain-the-ones-who-light.html": 1792386089.6482759,
@@ -1161,7 +1160,8 @@
   "https://gorkhapatraonline.com/news/227086": 1792556450.6755385,
   "https://theannapurnaexpress.com/story/68121": 1792556450.6755385,
   "https://nagariknews.nagariknetwork.com/politics/chief-minister-karki-believes-that-vijayadashami-will-help-in-passing-on-cultural-ties-from-generation-to-generation-82-22.html": 1792556450.6755385,
-  "https://gorkhapatraonline.com/news/227085": 1792556450.6755385
+  "https://gorkhapatraonline.com/news/227085": 1792556450.6755385,
+  "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOEJKSnF5WkNaekZsX0lkRTN4OHJBam5iNk5NRzVmVXI5SnA1S2kzSmc2R0FCM05FMW1lekFoRXgxQkR0MEEzN2NLQVdGeDgyMU80S3Z1SDBtSHRUU1RXcWJxSVpyYjYzMUgyanBKcHBIQmdUTFhSTnA5VkxzNms1UHhpQlJyUER5d1VTOVRTMURLT3RWaFEyT0JEYi1IcU8zd0djUEFNY0lPWG40?oc=5": 1792557075.1605282
  },
  "queue": [
   {
@@ -1868,29 +1868,6 @@
    "hits": 1
   },
   {
-   "title": "Nepal retrospective study characterizes 51 ALK- or ROS1-positive tumors",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTlhXZW52M0tFNmttdzcwWWFUbC1OaGhVWV80RHFFNTdfMnpEai11MFN0Uk1PN2FRZzctRW1sWGZXRHNIeVhUR2RhSm5DM1JmWGg3OHdKeThIRkRBZ1FGaFhmOWRTWHhNVUlKQ0Q1T1lYQW5TNkY3V0hmTW9aTVRYQ3VRMGVtcE1WZTRvTl9aZHpGTlZEQkNkdFpuYw?oc=5",
-   "source": "Bioengineer.org",
-   "ts": 1792527794,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Nepal retrospective study characterizes 51 ALK- or ROS1-positive tumors",
-   "en": "Nepal retrospective study characterizes 51 ALK- or ROS1-positive tumors",
-   "ne": "Nepal retrospective study characterizes 51 ALK- or ROS1-positive tumors",
-   "imp": 2,
-   "tags": [
-    "MedicalResearch",
-    "Tumors",
-    "NepalStudy"
-   ],
-   "cat": "health",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "दसैँको शुभकामना दिँदै गगनले भने : दुःखमा परेका परिवारको पीडामा थोरै भए पनि मलम लगाउन सकौँ",
    "summary": "नेपाली कांग्रेसका सभापति गगनकुमार थापाले विजयादशमीका अवसरमा विपत्तिमा परेका परिवारको दुःखमा साथ दिन र आफ्नो खुसी बाँड्न सबैलाई आग्रह गरेका छन्।...",
    "link": "https://nagariknews.nagariknetwork.com/politics/wishing-dashain-gagan-said-let-us-help-the-bereaved-families-even-if-it-is-just-a-little-bit-97-18.html",
@@ -2340,7 +2317,7 @@
    "cat": "economy",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "प्रेमिकालाई भेट्न सबै सामान बेचे, एक हजार २०० माइल यात्रा गर्दा खुल्यो यस्तो रहस्य !",
@@ -5572,8 +5549,8 @@
    "cat": "world"
   }
  ],
- "updated": 1792556470,
- "pending_since": null,
+ "updated": 1792557079,
+ "pending_since": 1792557075.1605282,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
