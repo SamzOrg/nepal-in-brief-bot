@@ -1029,7 +1029,13 @@
   "https://nagariknews.nagariknetwork.com/international/trump-praises-le-pen-worries-about-impact-on-france-s-tourism-sector-17-92.html": 1792590051.8695285,
   "https://risingnepaldaily.com/news/87965": 1792590652.7482274,
   "https://www.setopati.com/special-stories/international-feature/401132": 1792590652.7482274,
-  "https://nagariknews.nagariknetwork.com/diaspora/appeal-to-celebrate-dashain-standing-with-flood-victims-13-49.html": 1792591292.962226
+  "https://nagariknews.nagariknetwork.com/diaspora/appeal-to-celebrate-dashain-standing-with-flood-victims-13-49.html": 1792591292.962226,
+  "https://baahrakhari.com/detail/505434": 1792592456.214265,
+  "https://nagariknews.nagariknetwork.com/Dharma-Saskriti/the-tradition-of-receiving-tika-along-with-the-darshan-of-the-living-goddess-kumari-begins-in-thimi-after-62-years-94-21.html": 1792592456.214265,
+  "https://english.khabarhub.com/2026/21/572773/": 1792592456.214265,
+  "https://gorkhapatraonline.com/news/227098": 1792592456.214265,
+  "https://baahrakhari.com/detail/505433": 1792592456.214265,
+  "https://nagariknews.nagariknetwork.com/international/what-does-harry-say-about-wanting-to-mend-ties-with-the-royal-family-after-6-years-24-68.html": 1792592456.214265
  },
  "queue": [
   {
@@ -1418,29 +1424,6 @@
    "val": 3,
    "teaser": false,
    "hits": 2
-  },
-  {
-   "title": "Musk ordered reduction in Starshield services for Ukraine: report",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQU9nbDQ0YUJHT3lMSlJJUGp3S0s5M1YyZXlBNVAzTjdubkhpbFJCdjNkOGdTTzBCQlFHNEY5ckI3NmNQTUQ4bFBjckRWcU5SRGhJNXhyc3ZsU0QyaDVKZHVKLXdRUG01RUp3RjBVMXZDWE1jX2VoeXB3WnNVeE5uTDFZV2liSVlpdVhBMHJIbGdWMTlKWWNZT1M3R21yYXN3T3d2STVqSm82MDFFTDJ4bTE4UWxMa3Ryc19n?oc=5",
-   "source": "myRepublica",
-   "ts": 1792563300,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Musk ordered reduction in Starshield services for Ukraine: report",
-   "en": "Musk ordered reduction in Starshield services for Ukraine: report",
-   "ne": "Musk ordered reduction in Starshield services for Ukraine: report",
-   "imp": 2,
-   "tags": [
-    "ElonMusk",
-    "Starshield",
-    "Ukraine"
-   ],
-   "cat": "tech",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
   },
   {
    "title": "Even on Dashain, some Nepalis leave their families behind in search of a better future abroad",
@@ -2075,7 +2058,7 @@
    "cat": "economy",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "पूर्व राष्ट्रपति भण्डारीद्वारा छोरी-ज्वाईँलाई टीका प्रदान",
@@ -2491,29 +2474,6 @@
    "hits": 1
   },
   {
-   "title": "बाँकेमा आगलागी, सात घर जलेर नष्ट",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/505430",
-   "source": "Baahrakhari",
-   "ts": 1792589041,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "बाँकेमा आगलागी, सात घर जलेर नष्ट",
-   "en": "बाँकेमा आगलागी, सात घर जलेर नष्ट",
-   "ne": "बाँकेमा आगलागी, सात घर जलेर नष्ट",
-   "imp": 3,
-   "tags": [
-    "Banke",
-    "Fire",
-    "आगलागी"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
    "title": "विवाद हुँदा ज्यान लिने धम्की दिने एक जना पक्राउ",
    "summary": "प्रहरीले चौधरीको साथबाट एक थान उक्त वस्तु बरामद गरेको छ। घटनाबारे थप अनुसन्धान भइरहेको प्रहरीले जनाएको छ।...",
    "link": "https://nagariknews.nagariknetwork.com/social-affairs/man-arrested-for-threatening-to-kill-during-dispute-59-59.html",
@@ -2604,20 +2564,124 @@
    "val": 1,
    "teaser": true,
    "hits": 1
+  },
+  {
+   "title": "इजरायलमा युवा मतदातामाझ बढ्दै दक्षिणपन्थी राजनीतिको आकर्षण",
+   "summary": "",
+   "link": "https://baahrakhari.com/detail/505434",
+   "source": "Baahrakhari",
+   "ts": 1792592015,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "इजरायलमा युवा मतदातामाझ बढ्दै दक्षिणपन्थी राजनीतिको आकर्षण",
+   "en": "इजरायलमा युवा मतदातामाझ बढ्दै दक्षिणपन्थी राजनीतिको आकर्षण",
+   "ne": "इजरायलमा युवा मतदातामाझ बढ्दै दक्षिणपन्थी राजनीतिको आकर्षण",
+   "imp": 2,
+   "tags": [
+    "Israel",
+    "Politics",
+    "युवा"
+   ],
+   "cat": "world",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "थिमिमा ६२ वर्षपछि जीवित देवी कुमारीको दर्शनसहित टीका ग्रहण गर्ने परम्परा सुरु",
+   "summary": "भक्तपुरको मध्यपुरथिमिमा ६२ वर्षपछि यसवर्ष जीवित देवी कुमारी दर्शन गराउने परम्पराले निरन्तरता पाएको छ ।...",
+   "link": "https://nagariknews.nagariknetwork.com/Dharma-Saskriti/the-tradition-of-receiving-tika-along-with-the-darshan-of-the-living-goddess-kumari-begins-in-thimi-after-62-years-94-21.html",
+   "source": "Nagarik News",
+   "ts": 1792591717,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2026/third-party/1792591706_kumari.jpg",
+   "lang": "ne",
+   "hl": "थिमिमा ६२ वर्षपछि जीवित देवी कुमारीको दर्शनसहित टीका ग्रहण गर्ने परम्परा सुरु",
+   "en": "थिमिमा ६२ वर्षपछि जीवित देवी कुमारीको दर्शनसहित टीका ग्रहण गर्ने परम्परा सुरु",
+   "ne": "थिमिमा ६२ वर्षपछि जीवित देवी कुमारीको दर्शनसहित टीका ग्रहण गर्ने परम्परा सुरु",
+   "imp": 3,
+   "tags": [
+    "Thimi",
+    "Kumari",
+    "Dashain",
+    "परम्परा"
+   ],
+   "cat": "culture",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "गाउँबाट सहर पसेको पिङ संस्कृति",
+   "summary": "गजेन्द्र गुरुङखजुरा (बाँके), कात्तिक ४ गते । दसैँको आगमनसँगै गाउँघरमा सुनिने पिङका चचहुई आवाज अहिले सहरको होटल र सार्वजनिक स्थलमा सुनिन थालेको छ । कुनै समय गाउँका युवा एकजुट भएर बन...",
+   "link": "https://gorkhapatraonline.com/news/227098",
+   "source": "Gorkhapatra",
+   "ts": 1792590140,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/388694/conversions/Ping-NPJ-original.jpg",
+   "lang": "ne",
+   "hl": "गाउँबाट सहर पसेको पिङ संस्कृति",
+   "en": "गाउँबाट सहर पसेको पिङ संस्कृति",
+   "ne": "गाउँबाट सहर पसेको पिङ संस्कृति",
+   "imp": 2,
+   "tags": [
+    "Dashain",
+    "Ping",
+    "संस्कृति"
+   ],
+   "cat": "culture",
+   "val": 1,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "एनपीएलका खेललाई आईसीसीको लिस्ट ए टी-२० मान्यता",
+   "summary": "",
+   "link": "https://baahrakhari.com/detail/505433",
+   "source": "Baahrakhari",
+   "ts": 1792590360,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "एनपीएलका खेललाई आईसीसीको लिस्ट ए टी-२० मान्यता",
+   "en": "एनपीएलका खेललाई आईसीसीको लिस्ट ए टी-२० मान्यता",
+   "ne": "एनपीएलका खेललाई आईसीसीको लिस्ट ए टी-२० मान्यता",
+   "imp": 3,
+   "tags": [
+    "NPL",
+    "ICC",
+    "Cricket"
+   ],
+   "cat": "sports",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "६ वर्षपछि राजपरिवारसँग सम्बन्ध सुधार्न चाहेका ह्यारी के भन्छन् ?",
+   "summary": "उनले संसारमा भइरहेका घटनाका बिच परिवारसँग मेलमिलाप गर्नु महत्त्वपूर्ण रहेको बताए। विगतका घटनाले मनमा चोट पुर्‍याए पनि तिनलाई बिर्सेर अघि बढ्न सबैले प्रयास गर्नुपर्ने उनको भनाइ छ।...",
+   "link": "https://nagariknews.nagariknetwork.com/international/what-does-harry-say-about-wanting-to-mend-ties-with-the-royal-family-after-6-years-24-68.html",
+   "source": "Nagarik News",
+   "ts": 1792591571,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2026/third-party/1788833926_King%20Charles%20clarifies%20status%20of%20Prince%20Harry%20and%20his%20wife.jpg",
+   "lang": "ne",
+   "hl": "६ वर्षपछि राजपरिवारसँग सम्बन्ध सुधार्न चाहेका ह्यारी के भन्छन् ?",
+   "en": "६ वर्षपछि राजपरिवारसँग सम्बन्ध सुधार्न चाहेका ह्यारी के भन्छन् ?",
+   "ne": "६ वर्षपछि राजपरिवारसँग सम्बन्ध सुधार्न चाहेका ह्यारी के भन्छन् ?",
+   "imp": 1,
+   "tags": [
+    "PrinceHarry",
+    "RoyalFamily"
+   ],
+   "cat": "world",
+   "val": 1,
+   "teaser": true,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1791987064.869439,
-   "en": "Makawanpur starts process to legally declare 58 missing flood victims dead",
-   "ne": "Makawanpur starts process to legally declare 58 missing flood victims dead",
-   "link": "https://kathmandupost.com/national/2026/10/14/makawanpur-begins-process-to-declare-58-missing-people-dead",
-   "source": "Kathmandu Post",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "disaster"
-  },
   {
    "ts": 1791988862.9815612,
    "en": "Bailey bridge over Phalakhu River in Betrawati restores Rasuwa road access",
@@ -5653,10 +5717,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "culture"
+  },
+  {
+   "ts": 1792592522.209098,
+   "en": "बाँकेको जानकी गाउँपालिकामा आगलागी हुँदा सात घर जलेर नष्ट",
+   "ne": "बाँकेको जानकी गाउँपालिकामा आगलागी हुँदा सात घर जलेर नष्ट",
+   "link": "https://baahrakhari.com/detail/505430",
+   "source": "Baahrakhari",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "disaster"
   }
  ],
- "updated": 1792591856,
- "pending_since": 1792590652.7482274,
+ "updated": 1792592541,
+ "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
