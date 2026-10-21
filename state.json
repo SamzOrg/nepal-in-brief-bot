@@ -1693,29 +1693,6 @@
    "hits": 1
   },
   {
-   "title": "Mahedi Hasan joins Pokhara Avengers for Nepal Premier League",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORk9ZN0pSemt6b0Y0WGNqNGVvekdnZS12TVdub1VCZElyTmU3MHRhWTVlZXF0cjk3OTdid0VyTUFzTzY4Ymc0VE1DZmpxX1JERDJDdDJqV2xZb0pwbFhqQ00xeElnaHcwQWVINU44QzhDbXp1MWMxTVplNFhMeGxxV3hSd0hZVUJwS0Fz?oc=5",
-   "source": "BDCricTime",
-   "ts": 1792566357,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Mahedi Hasan joins Pokhara Avengers for Nepal Premier League",
-   "en": "Mahedi Hasan joins Pokhara Avengers for Nepal Premier League",
-   "ne": "Mahedi Hasan joins Pokhara Avengers for Nepal Premier League",
-   "imp": 2,
-   "tags": [
-    "MahediHasan",
-    "PokharaAvengers",
-    "NPL"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "माघको ठिही र राम चरितर",
    "summary": "",
    "link": "https://baahrakhari.com/detail/505423",
@@ -5809,8 +5786,8 @@
    "cat": "sports"
   }
  ],
- "updated": 1792595043,
- "pending_since": null,
+ "updated": 1792595440,
+ "pending_since": 1792595435.6064196,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
