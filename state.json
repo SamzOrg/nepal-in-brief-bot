@@ -1,7 +1,5 @@
 {
  "seen": {
-  "http://english.ratopati.com/story/84193/impact-of-westerly-winds-possibility-of-light-rain-and-snowfall-in-some-areas": 1792453849.7756772,
-  "https://news.google.com/rss/articles/CBMijwFBVV95cUxOM1FfM09HREhZM1FLUWxvRlliRUU3VTViYXlkUVktdVo0RkN6YTVpenhXeVA1N2lSaE01R1k0eFFqaEVZS25XX3NBUy03OVdMZHVMSFRUNGNLdjMtam0tckVEenJKVGNieFozcVJuT21nNzlZeHk5OUQ3Rnphb2NrRGgtZ0ZYZkY0a0RtemJwd9IBjwFBVV95cUxOM1FfM09HREhZM1FLUWxvRlliRUU3VTViYXlkUVktdVo0RkN6YTVpenhXeVA1N2lSaE01R1k0eFFqaEVZS25XX3NBUy03OVdMZHVMSFRUNGNLdjMtam0tckVEenJKVGNieFozcVJuT21nNzlZeHk5OUQ3Rnphb2NrRGgtZ0ZYZkY0a0RtemJwdw?oc=5": 1792453849.7756772,
   "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVWFLUmR2RlRrSU1pQU1fUnJRVHNjak1Oeks2NUlzeklnNDdwT1RFR0NlM2F4eGZXaDdPU0ttajhMX1VRMXhZcV9Gc1lCQVUwZ3dNcGR2Yl9ZTC1zT3A1V04xazFDRzlqd0xXZmV2cXltNTVJTmUyWUIyOFVoQzdHclVxQ29aSHoxa241TjhNREt3ZGhTd3NZREduUEdQYy15SE9sSGtB?oc=5": 1792454482.2571106,
   "http://english.ratopati.com/story/84195/fears-of-political-violence-in-australia-mp-haynes-hit-by-car-suspect-arrested": 1792454482.2571106,
   "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZGZsSng1TFdsbnFpZC0wdUdXcWRVVGNCN05CZFQ3STdmSkdFa2UwS0xTYzNnN2NrU3dTN0FGSE9kS2VJTElrNGttZHFTdUY1Rzh6N0w2TExxOUR5bmZVRzJoUE9xSURsUFdCMGRDMG9XQVJGN0lLRDBqdk1oNEwxeHhaX2Rnb2RBcXJtY1hRa19KN3RjZjJUWHlvVnhxbnVDODB0YVFEX19CY0Q0NTluY0NWV1VjN3VFR1E?oc=5": 1792454482.2571106,
@@ -1003,27 +1001,6 @@
  },
  "queue": [
   {
-   "title": "Today's News in a Nutshell",
-   "summary": "KATHMANDU: Khabarhub brings you a glimpse of major developments of the day in Nepal, including politics, business/economy, sports, entertainment, and more. PM Balen Shah calls for unity to eliminate corruption,...",
-   "link": "https://english.khabarhub.com/2026/21/572766/",
-   "source": "Khabarhub EN",
-   "ts": 1792597505,
-   "weight": 2,
-   "img": "https://english.khabarhub.com/wp-content/uploads/2024/05/News-Nutshell-640x360.jpg",
-   "lang": "en",
-   "hl": "Today's News in a Nutshell",
-   "en": "Today's News in a Nutshell",
-   "ne": "Today's News in a Nutshell",
-   "imp": 1,
-   "tags": [
-    "NewsNutshell"
-   ],
-   "cat": "other",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
-  },
-  {
    "title": "Pilot supports daily parent-reported illness diaries in Nepal",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRDY3STU4NlJPSG9hZTNabUNReVZCLXJPYXU3eHhBWm1xei01amZRMDZyQjBaX2pRdEM2aWZMV3M4aVB5VDF6RXZFYmVUWHJQRkFkVmFDQ1dkNmR2azVpdlRNdXB2RTB2bXpyYkRkMnNheTBTSkFjMV9ZZjFGRlRFb3JVcWVCVUt0RzlYSkV5NA?oc=5",
@@ -1252,29 +1229,6 @@
     "TechNews"
    ],
    "cat": "tech",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Nepal Landslide Released Energy Comparable to 3.5 Quake",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ndG9ydUFuXzZkR2E2WFgtazZTd1d6YkRJLTFOdkxiU09xY0Q1cUNTYk9rNVVWYTdBUFYzcXlaQkI1WExhZGYxWFZGVXU4YTlrZENiLWlod0djNHp1azZLYTYwbUg3dHFtM1VmYUU5VlRwaTg4TjNnV2hoQ2JNUQ?oc=5",
-   "source": "IndiaWest",
-   "ts": 1792609200,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Nepal Landslide Released Energy Comparable to 3.5 Quake",
-   "en": "Nepal Landslide Released Energy Comparable to 3.5 Quake",
-   "ne": "Nepal Landslide Released Energy Comparable to 3.5 Quake",
-   "imp": 3,
-   "tags": [
-    "Landslide",
-    "Nepal",
-    "पहिरो"
-   ],
-   "cat": "disaster",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -4485,9 +4439,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "sports"
+  },
+  {
+   "ts": 1792626671.912145,
+   "en": "Gorkha Landslide Released Energy Comparable to 3.5 Quake: Nepal Officials",
+   "ne": "Gorkha Landslide Released Energy Comparable to 3.5 Quake: Nepal Officials",
+   "link": "https://indiawest.com/nepal-landslide-energy-matched-3-5-magnitude-quake/",
+   "source": "IndiaWest",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "disaster"
   }
  ],
- "updated": 1792626070,
+ "updated": 1792626685,
  "pending_since": 1792626048.684708,
  "fb_blocks": [
   1790350880.4125228,
