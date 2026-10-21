@@ -1,8 +1,5 @@
 {
  "seen": {
-  "http://english.ratopati.com/story/84148/nepal-and-oman-clash-today-both-teams-in-search-of-victory": 1792377656.9001935,
-  "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbjRvbE42bm1uY0JabnF6SXpCQzhyYjJxMnBjNkw5Y2YxZTJHY19uSVZzLTR2Z0JyOE9CZk4zaUtwS3NVSkstTXVyWm0tZFhQRk9taW5UVUlmRy1vc29IMkRuMWUwLTBYQmVzN1djWmxnWURydWQ1dWt3bTBsOFoyZnQ1UG1PNkdYSENSWUhIVnloY2tVSUhzNFBHQktmOWFvSW1oMFNvQm1lRzdPN3RVMm9ZUjIwc0lPMG42UzdRN1gzemlrZER6Q29Xblc5Qmc5dHpVTHNvTWhJeHVlUE91VHlRSGdQOHpmV1HSAfIBQVVfeXFMUEY1WGhWZFU1NUlrLXRsYmRtdDFjU08tN0RVTlhiMFI0Q1FycmZ1UDh3UHo3ZFNjMXRHZlJtMnBmd2Rlel9BeGQwMzZRNkgybVJGN1dWeGVHOWlyYzczVEQtX2w3WThKNXB4M1JWVzZLb2pSMW1sMXh0ZGtZSzRCYVp2ankyb3ZwTjZZcVRHLUVyT0ZabnM3UlEzSVJ5dW15UXhFdXR0QjVRZExHTG4zRDNLYVEySzNzUG9yUEZQc1VteVQ3VkpVVFVFNHR1M25NbGZyempCLXBISEJYY1NaZlgwTnRwSFFHTWkwRF9YbUhRLVE?oc=5": 1792377656.9001935,
-  "https://nagariknews.nagariknetwork.com/social-affairs/one-person-dies-another-seriously-injured-in-motorcycle-skid-accident-br-52-51.html": 1792378249.811607,
   "https://nagariknews.nagariknetwork.com/social-affairs/motorcyclist-dies-two-injured-in-bus-collision-br-77-52.html": 1792378886.5162656,
   "https://www.setopati.com/social/401091": 1792378886.5162656,
   "http://english.ratopati.com/story/84151/nahida-to-lead-bangladesh-t20-team-sobhana-mostari-selected-as-vice-captain": 1792378886.5162656,
@@ -1183,7 +1180,8 @@
   "http://lokaantar.com/story/331676/2026/10/21/age-": 1792549247.8876877,
   "http://lokaantar.com/story/331675/2026/10/21/all-pradesh-": 1792549247.8876877,
   "http://lokaantar.com/story/331674/2026/10/21/taleju-": 1792549247.8876877,
-  "https://nagariknews.nagariknetwork.com/Dharma-Saskriti/brahmayani-jatra-crowds-since-morning-br-74-87.html": 1792549867.1112752
+  "https://nagariknews.nagariknetwork.com/Dharma-Saskriti/brahmayani-jatra-crowds-since-morning-br-74-87.html": 1792549867.1112752,
+  "https://risingnepaldaily.com/news/87959": 1792551053.402368
  },
  "queue": [
   {
@@ -1724,7 +1722,7 @@
    "cat": "culture",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "खुलामञ्चमा दुर्गा पूजा",
@@ -1769,30 +1767,6 @@
     "Riots"
    ],
    "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "टर्किस एयरलाइन्सको विमानमा चरा ठोक्कियो, विमानस्थलमा उडान/अवतरण बन्द",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/505401",
-   "source": "Baahrakhari",
-   "ts": 1792548480,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "टर्किस एयरलाइन्सको विमानमा चरा ठोक्कियो, विमानस्थलमा उडान/अवतरण बन्द",
-   "en": "टर्किस एयरलाइन्सको विमानमा चरा ठोक्कियो, विमानस्थलमा उडान/अवतरण बन्द",
-   "ne": "टर्किस एयरलाइन्सको विमानमा चरा ठोक्कियो, विमानस्थलमा उडान/अवतरण बन्द",
-   "imp": 4,
-   "tags": [
-    "TurkishAirlines",
-    "TIA",
-    "BirdHit",
-    "विमानस्थल"
-   ],
-   "cat": "disaster",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -5090,9 +5064,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "politics"
+  },
+  {
+   "ts": 1792551058.9895663,
+   "en": "टर्किस एयरलाइन्सको विमानमा चरा ठोक्कियो, विमानस्थलमा उडान र अवतरण बन्द",
+   "ne": "टर्किस एयरलाइन्सको विमानमा चरा ठोक्कियो, विमानस्थलमा उडान र अवतरण बन्द",
+   "link": "https://baahrakhari.com/detail/505401",
+   "source": "Baahrakhari",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "disaster"
   }
  ],
- "updated": 1792550452,
+ "updated": 1792551071,
  "pending_since": 1792549867.1112752,
  "fb_blocks": [
   1790350880.4125228,
