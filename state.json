@@ -1114,7 +1114,8 @@
   "http://english.ratopati.com/story/84247/upendraman-singh-witnessing-the-crisis-of-nepali-football-from-the-goal-post": 1792570851.8643763,
   "https://nagariknews.nagariknetwork.com/politics/vice-president-receives-bada-dashain-tika-21-64.html": 1792570851.8643763,
   "http://lokaantar.com/story/331697/2026/10/21/president-": 1792570851.8643763,
-  "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTTlUd0hWbFI2Q1BhN1VvcDlDZ0hwMWVSZ2RudGIxY0dKejdWaEM3ZGtCTHphdkF0WlZ5YVhYOWVrQmMwcTVta0ZwT2ZzUEk2RkNnYUNfQXNXd01BdUM1WVg5cWRONXZhTGxucTRkYU9RZ2ZDenpORjhnSnA2SVhPdGc1MVZBQjRVY0pKcFdmenlsTFluX19LZGFEcDh2NjBGTXB3RmxKVHJjelN6OWFyQU41TVFFWGdrMmc?oc=5": 1792571474.834023
+  "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTTlUd0hWbFI2Q1BhN1VvcDlDZ0hwMWVSZ2RudGIxY0dKejdWaEM3ZGtCTHphdkF0WlZ5YVhYOWVrQmMwcTVta0ZwT2ZzUEk2RkNnYUNfQXNXd01BdUM1WVg5cWRONXZhTGxucTRkYU9RZ2ZDenpORjhnSnA2SVhPdGc1MVZBQjRVY0pKcFdmenlsTFluX19LZGFEcDh2NjBGTXB3RmxKVHJjelN6OWFyQU41TVFFWGdrMmc?oc=5": 1792571474.834023,
+  "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOUt1eUhVLUp1NDUtQWJCYUFpVEdZTUhzXzVzY2lkaExLM1pRZElud1ZMdHFWeEN1X09fbVk1NE11X0NJSmhWZ3RCQmZHY2NvQXA4MTYxRXZEaDdoZTc4M2VDaGRqeWxVN25adWFsTV9ZT1dEUVp4ZTBjYk9KaTRpc2RTNU51YnR6N1U2LVNvWW1wTDRpbmVyTm5SX3FNY2Ewa3daams2TzlCU2s?oc=5": 1792572050.1266868
  },
  "queue": [
   {
@@ -2298,7 +2299,7 @@
    "cat": "sports",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "शरीरमा दियो",
@@ -2347,17 +2348,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1791966684.0862334,
-   "en": "Gold Seized in Budhanilkantha Suspected Smuggled via Tribhuvan Airport",
-   "ne": "Gold Seized in Budhanilkantha Suspected Smuggled via Tribhuvan Airport",
-   "link": "https://english.onlinekhabar.com/gold-smuggling-case-investigation-suggests-21-75-kg-gold-smuggled-through-tribhuvan-international-airport.html",
-   "source": "Onlinekhabar EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "crime"
-  },
   {
    "ts": 1791968498.0783463,
    "en": "रौतहटमा स्कुल बसको ठक्करबाट दुई वर्षीया बालिकाको मृत्यु",
@@ -5417,7 +5407,7 @@
    "cat": "politics"
   }
  ],
- "updated": 1792571478,
+ "updated": 1792572053,
  "pending_since": 1792570253.399242,
  "fb_blocks": [
   1790350880.4125228,
