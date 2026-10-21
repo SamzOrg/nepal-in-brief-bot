@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMicEFVX3lxTE13SlM1ZHpaZm9JYVhMcy1xVDE2TGpJR0d5elIza1d3amFkaDBiSlFldldYVzc3WEdnelBqODVQMmUyLWRQbTlPTXNLb1NXRGM0c0R1YmRLX2l0WVhIRHNaaUZFanJhelRERGhPSlBGM0E?oc=5": 1792372849.9610205,
   "https://nagariknews.nagariknetwork.com/sports/nepali-women-s-u-19-cricket-team-holds-closed-training-in-bhairahawa-br-43-85.html": 1792373474.1816638,
   "https://kathmandupost.com/national/2026/10/19/police-hunt-nepali-links-to-21-75-kg-gold-smuggling-racket": 1792373474.1816638,
   "https://nagariknews.nagariknetwork.com/international/major-accident-during-military-exercise-in-canada-four-soldiers-dead-39-injured-what-did-the-prime-minister-say-98-21.html": 1792374052.1039805,
@@ -1190,7 +1189,11 @@
   "https://baahrakhari.com/detail/505396": 1792543849.3818388,
   "https://nagariknews.nagariknetwork.com/politics/dashain-further-strengthens-mutual-harmony-brotherhood-and-social-unity-speaker-aryal-24-36.html": 1792543849.3818388,
   "https://baahrakhari.com/detail/505395": 1792543849.3818388,
-  "https://nagariknews.nagariknetwork.com/Dharma-Saskriti/the-main-day-of-bada-dashain-is-today-uttam-sait-at-10-26-am-68-39.html": 1792543849.3818388
+  "https://nagariknews.nagariknetwork.com/Dharma-Saskriti/the-main-day-of-bada-dashain-is-today-uttam-sait-at-10-26-am-68-39.html": 1792543849.3818388,
+  "https://thehimalayantimes.com/nepal/bijaya-dashami-being-celebrated-today-with-tika-and-jamara": 1792546265.709875,
+  "https://nagariknews.nagariknetwork.com/politics/president-poudel-to-receive-dashain-tika-from-guru-purohit-94-48.html": 1792546265.709875,
+  "http://lokaantar.com/story/331672/2026/10/21/muktinath-": 1792546265.709875,
+  "http://lokaantar.com/story/331673/2026/10/21/kim-jong-un": 1792546265.709875
  },
  "queue": [
   {
@@ -1423,20 +1426,32 @@
    "val": 2,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "किम जोङ उनको मृत्युको अफवाह किन बारम्बार फैलिन्छ?",
+   "summary": "उत्तर कोरियाली सर्वोच्च नेता किम जोङ उन फेरि एक पटक सार्वजनिक रूपमा देखिएका छन्। मस्तिष्कसम्बन्धी गम्भीर रोगका कारण उनको मृत्यु भइसकेको भन्दै अनलाइनमा अफवाह फैलिएपछि राज्य सञ्चालित मिडियाले उनको तस्वीर सार्वजनिक गरेको...",
+   "link": "http://lokaantar.com/story/331673/2026/10/21/kim-jong-un",
+   "source": "Lokaantar",
+   "ts": 1792531866.5882623,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "किम जोङ उनको मृत्युको अफवाह किन बारम्बार फैलिन्छ?",
+   "en": "किम जोङ उनको मृत्युको अफवाह किन बारम्बार फैलिन्छ?",
+   "ne": "किम जोङ उनको मृत्युको अफवाह किन बारम्बार फैलिन्छ?",
+   "imp": 1,
+   "tags": [
+    "KimJongUn",
+    "NorthKorea",
+    "Rumor"
+   ],
+   "cat": "world",
+   "val": 1,
+   "teaser": true,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1791940855.0385497,
-   "en": "Budhigandaki Flood Cuts Off Northern Gorkha, Disrupts Manaslu Trekking",
-   "ne": "Budhigandaki Flood Cuts Off Northern Gorkha, Disrupts Manaslu Trekking",
-   "link": "https://kathmandupost.com/national/2026/10/14/flood-cuts-off-northern-gorkha-s-lifeline-disrupts-manaslu-trekking-season",
-   "source": "Kathmandu Post",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "disaster"
-  },
   {
    "ts": 1791942752.5273192,
    "en": "Nepal beat Oman by 113 runs in Oman leg, moving to sixth place with 28 points",
@@ -4496,7 +4511,7 @@
    "cat": "world"
   }
  ],
- "updated": 1792545671,
+ "updated": 1792546270,
  "pending_since": 1792544484.2133245,
  "fb_blocks": [
   1790350880.4125228,
