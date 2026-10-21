@@ -1149,7 +1149,10 @@
   "http://lokaantar.com/story/331690/2026/10/21/dashain-": 1792558889.5933838,
   "https://baahrakhari.com/detail/505408": 1792558889.5933838,
   "https://nagariknews.nagariknetwork.com/politics/festivals-are-a-heritage-of-national-identity-chief-minister-thapa-br-43-46.html": 1792559452.1618178,
-  "https://theannapurnaexpress.com/story/68123": 1792559452.1618178
+  "https://theannapurnaexpress.com/story/68123": 1792559452.1618178,
+  "https://gorkhapatraonline.com/news/227089": 1792560053.3569887,
+  "https://risingnepaldaily.com/news/87961": 1792560053.3569887,
+  "https://english.khabarhub.com/2026/21/572750/": 1792560053.3569887
  },
  "queue": [
   {
@@ -1401,7 +1404,7 @@
    "cat": "society",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "\"Zelenskyy has to want to settle this war,\" says Trump",
@@ -1619,30 +1622,6 @@
    "val": 1,
    "teaser": true,
    "hits": 1
-  },
-  {
-   "title": "ACF to aid Nepal flood victims",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9uWElxT1pyMVd6VDYzY0RHSVVFSEVGOWdUc3NPUXJ4bDVYRWtySVFuNW1MazdnYXJQZVhPaHVGdkdLNDJpMW9wVjJKOUJVQXpVWHdnRHg3VDM2WUh1eGNFQnJ6QVdVcS1sQVg2ZzltdUxSQQ?oc=5",
-   "source": "Asian Hospitality",
-   "ts": 1792547958,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "ACF to aid Nepal flood victims",
-   "en": "ACF to aid Nepal flood victims",
-   "ne": "ACF to aid Nepal flood victims",
-   "imp": 3,
-   "tags": [
-    "ACF",
-    "Nepal",
-    "Flood",
-    "बाढी"
-   ],
-   "cat": "disaster",
-   "val": 2,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "Living Goddess Kumari visits Taleju Bhawani Temple",
@@ -2349,7 +2328,7 @@
    "cat": "politics",
    "val": 2,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "Tag",
@@ -5546,9 +5525,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "politics"
+  },
+  {
+   "ts": 1792560059.0557137,
+   "en": "AAHOA Charitable Foundation to Send Aid and Volunteers to Nepal Flood Victims in January",
+   "ne": "AAHOA Charitable Foundation to Send Aid and Volunteers to Nepal Flood Victims in January",
+   "link": "https://www.asianhospitality.com/acf-to-aid-nepal-flood-victims/",
+   "source": "Asian Hospitality",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "disaster"
   }
  ],
- "updated": 1792559455,
+ "updated": 1792560071,
  "pending_since": 1792559452.1618178,
  "fb_blocks": [
   1790350880.4125228,
