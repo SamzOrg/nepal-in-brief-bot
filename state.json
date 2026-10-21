@@ -1,10 +1,5 @@
 {
  "seen": {
-  "http://english.ratopati.com/story/84139/jiohotstar-enters-nepal-in-partnership-with-digoo": 1792374650.4676194,
-  "https://www.setopati.com/social/401089": 1792374650.4676194,
-  "http://english.ratopati.com/story/84140/red-bull-becomes-the-main-sponsor-of-everest-womens-volleyball-league-agreement-for-the-next-three-editions": 1792375282.2109246,
-  "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMlNtb05DOFZwTVJNcU53SFFWaHI4MnNEQUVZWVUydEt1c3lNdFdrbmRMTFpVSzVPRm5meTMya3Y5TjZNSEo1ZloxQ091QkR2OXpqNWFEeEtWdWpPdkpTNHlMbGR3WlI3eWNFUlIxa1UxTmw3X1pfdjROSjFOYVNKejV4YjZOb3A0ZTctdzF2dFA5Yzg2YjNCYVRUelkwWlF1VFRwRjhHazRGdDdHOENTVF8yVQ?oc=5": 1792375282.2109246,
-  "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVWdUbVdONW9oSXViY1M4T0w4MlM4MTliblpCMnRLSGVsYm1JQ0VtNkxBN2ZwNjlRdXhjSEE3UzZnNUVmbzBzWVVWQlY1RzB3Y2FqLU5WOVV4TEt4bDNLNmZnN3ZfcmR4amdHV1V4bG9INzBRbnlIa0NVLW9NN3VObC1mMEllM1hMMDFHY01EVDlrSm45RlRTQm9tVlRlMWYzOVE?oc=5": 1792375282.2109246,
   "https://baahrakhari.com/detail/505292": 1792375851.6916904,
   "http://lokaantar.com/story/331567/2026/10/19/canada-": 1792375851.6916904,
   "https://www.setopati.com/social/401090": 1792376453.9206336,
@@ -1184,7 +1179,9 @@
   "https://theannapurnaexpress.com/story/68112": 1792546846.533382,
   "https://nagariknews.nagariknetwork.com/social-affairs/weather-to-remain-clear-across-the-country-today-on-dashain-56-45.html": 1792546846.533382,
   "https://theannapurnaexpress.com/story/68111": 1792546846.533382,
-  "https://theannapurnaexpress.com/story/68110": 1792546846.533382
+  "https://theannapurnaexpress.com/story/68110": 1792546846.533382,
+  "https://news.google.com/rss/articles/CBMickFVX3lxTE9uWElxT1pyMVd6VDYzY0RHSVVFSEVGOWdUc3NPUXJ4bDVYRWtySVFuNW1MazdnYXJQZVhPaHVGdkdLNDJpMW9wVjJKOUJVQXpVWHdnRHg3VDM2WUh1eGNFQnJ6QVdVcS1sQVg2ZzltdUxSQQ?oc=5": 1792548085.3811476,
+  "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQ0tjeXltbFhyWUtsMU1kODlXY0tZdXlCVUJhenQzcHpjNVFmNFhEQ0ZvME4xU3ZxWTFrQnptRHp3NVdOYlNCOURjTk8zOTd4d2kxUXZTRDRoLTBaY0lONHhXYThNdFFJQ3RiOGNOZ045UHlyNGdvVHVkeU1IY2FKaVMyYkNtU1ZvSnVjb3dCdFhkanNRZk1lV3N2dzk2UHFVU2RJZWk2MFFpY1FJa3owRjROazRoQW55N3NGYVpTOUk?oc=5": 1792548085.3811476
  },
  "queue": [
   {
@@ -1699,20 +1696,33 @@
    "val": 1,
    "teaser": true,
    "hits": 1
+  },
+  {
+   "title": "ACF to aid Nepal flood victims",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9uWElxT1pyMVd6VDYzY0RHSVVFSEVGOWdUc3NPUXJ4bDVYRWtySVFuNW1MazdnYXJQZVhPaHVGdkdLNDJpMW9wVjJKOUJVQXpVWHdnRHg3VDM2WUh1eGNFQnJ6QVdVcS1sQVg2ZzltdUxSQQ?oc=5",
+   "source": "Asian Hospitality",
+   "ts": 1792547958,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "ACF to aid Nepal flood victims",
+   "en": "ACF to aid Nepal flood victims",
+   "ne": "ACF to aid Nepal flood victims",
+   "imp": 3,
+   "tags": [
+    "ACF",
+    "Nepal",
+    "Flood",
+    "बाढी"
+   ],
+   "cat": "disaster",
+   "val": 2,
+   "teaser": false,
+   "hits": 2
   }
  ],
  "posted": [
-  {
-   "ts": 1791942752.5273192,
-   "en": "Nepal beat Oman by 113 runs in Oman leg, moving to sixth place with 28 points",
-   "ne": "Nepal beat Oman by 113 runs in Oman leg, moving to sixth place with 28 points",
-   "link": "https://risingnepaldaily.com/news/87775",
-   "source": "Rising Nepal",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "sports"
-  },
   {
    "ts": 1791945079.8469026,
    "en": "PRESS RELEASE: Two Minor Girls Rescued in Trafficking Bid at Indo-Nepal Border, 61-Year-Old Man Held",
@@ -4772,7 +4782,7 @@
    "cat": "other"
   }
  ],
- "updated": 1792547465,
+ "updated": 1792548092,
  "pending_since": 1792547445.7346745,
  "fb_blocks": [
   1790350880.4125228,
