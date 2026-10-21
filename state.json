@@ -1253,30 +1253,6 @@
    "hits": 1
   },
   {
-   "title": "Nepal PM Balen Shah may visit India in November; Bangladesh PM Tarique Rahman by early December",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOc3ZlVlRoSWJUTTRuamFiZWFTZF9rS2w3LVF0dEFQRHprWE1wZWhPc1hMZ2N0SnFjU0JxTThDZ0FFSkpUT2g1Qm8yTnBhOW5NQlpmMGdPOGZFdVFVV3BUUjFMOTVfMkZYNVJXZnk5QlpLcWU1bjhxcWJBUFhONzdsbEt6M1JEQjZkbHZvTTNHWFpEV0tJT1lOcWJtWlc1MmlZQUg5dmRibkZHdmRMS2xLOVdCbV8wbkFmVURoU0paQlFJajZjRWJtNXNZX0xkWE1zdDA3eUU0WjF5UC16NFdnbDczeXFld0FtdWFEYW5jQlTSAfYBQVVfeXFMTjhxTTNKZUdRQ3hiakhJOFg0YmNqZjdkOVV2a05OTEwtSlFYeGZPaUF3WHFPSWRCSTlPOVItVkp5UVRBRXRTb2FnN21RQlRvVUhpNjhhblcyZHgwSFhZdms0SGxnb3NUY2VoOGtCZ1FFd1MxZUI2MmVGSG5hOGxqTVE4WDVneVlKNFhfSF9UWjA1Z1RET3FMdFFtam01QndoSVYyVXllU2pldDZOMk1EOW41bmYxQXYycjJRVFRTQ2tUcGYxbGF2ZDV3ZEl6TEV5b1psWUVGOEZnVjBfcWZhSU5SdFRBa09wMXR5WmdubFNkTEZRUFBn?oc=5",
-   "source": "The Economic Times",
-   "ts": 1792605693,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Nepal PM Balen Shah may visit India in November; Bangladesh PM Tarique Rahman by early December",
-   "en": "Nepal PM Balen Shah may visit India in November; Bangladesh PM Tarique Rahman by early December",
-   "ne": "Nepal PM Balen Shah may visit India in November; Bangladesh PM Tarique Rahman by early December",
-   "imp": 4,
-   "tags": [
-    "BalenShah",
-    "India",
-    "Bangladesh",
-    "प्रधानमन्त्री"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "NDTV Reporter's Nepal Coverage Featured In Bhubaneswar Puja Pandal",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTEZ6QnlMV1VHZWJKU19xaG5jOWVnTmxDXzNSbmo2RTdGa2h2Vi1iSENweXliWGdIQ1Byd2RTdGU1MkpJTFFtT0tuMmlVbHhDWnhobG1hbmpPU291UGpWVnk1MF9IbDNMMi1KN2Z0dWd0UjNkMmFtTGpIRFVjc3ZuQmFFYXZnNzVjcHlfdEpIMVNUMWNIYngxeWlqQU1WOTJENXVQcDZzdXprUdIBsgFBVV95cUxOZjlNbE1acEJOR2o0Nzl0N0ZvLU5sMmN3Yk5HaGQzQjJSbGYybDRGVllEYW14WGFRZXlwRkFpaU1PQzN3Wm5KcFZnWFJaTjcxaWVUbDlJd1BIcWRsQ18wMWY4WkFBSmpuZEVSODlMN2pNOGJaRlZOa2hDak12MlB4YVpsUjdHS3hfaVI5SjZfWGRscGVOUGZ1UFhzQjYxWE1haFJnMFJjdVNrWHF3SWJWMHh3?oc=5",
@@ -4553,10 +4529,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "society"
+  },
+  {
+   "ts": 1792623076.2245069,
+   "en": "Nepal PM Balen Shah may visit India in November; Bangladesh PM Tarique Rahman by early December",
+   "ne": "Nepal PM Balen Shah may visit India in November; Bangladesh PM Tarique Rahman by early December",
+   "link": "https://m.economictimes.com/news/india/nepal-pm-balen-shah-may-visit-india-in-november-bangladesh-pm-tarique-rahman-by-early-december/articleshow/135098362.cms",
+   "source": "The Economic Times",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "politics"
   }
  ],
- "updated": 1792622659,
- "pending_since": null,
+ "updated": 1792623087,
+ "pending_since": 1792623051.2488794,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
