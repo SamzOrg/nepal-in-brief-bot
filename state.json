@@ -1,7 +1,5 @@
 {
  "seen": {
-  "http://lokaantar.com/story/331625/2026/10/20/dead-": 1792455647.8697436,
-  "http://lokaantar.com/story/331624/2026/10/20/trump-": 1792455647.8697436,
   "https://english.khabarhub.com/2026/20/572638/": 1792456848.2725403,
   "https://baahrakhari.com/detail/505341": 1792456848.2725403,
   "https://www.setopati.com/social/401118": 1792456848.2725403,
@@ -1017,29 +1015,6 @@
    "hits": 1
   },
   {
-   "title": "मैथिल परम्पराको रावणवध उत्सव सम्पन्न",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/505436",
-   "source": "Baahrakhari",
-   "ts": 1792599744,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "मैथिल परम्पराको रावणवध उत्सव सम्पन्न",
-   "en": "मैथिल परम्पराको रावणवध उत्सव सम्पन्न",
-   "ne": "मैथिल परम्पराको रावणवध उत्सव सम्पन्न",
-   "imp": 2,
-   "tags": [
-    "Maithil",
-    "RavanVadh",
-    "Tradition"
-   ],
-   "cat": "culture",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "मोदी सरकारका मन्त्री पुरीका एपस्टाइनसँगका तस्बिर सार्वजनिक भएपछि विपक्षीको प्रश्न",
    "summary": "यसअघि पुरीले राहुल गान्धीले लगाएका आरोप अस्वीकार गर्दै एपस्टाइनलाई सन् २००९ देखि २०१७ सम्म नौ वर्षको अवधिमा तीन वा चार पटक भेटेको बताएका थिए।...",
    "link": "https://nagariknews.nagariknetwork.com/international/opposition-questions-modi-government-minister-puri-after-photos-with-epstein-go-public-23-11.html",
@@ -1337,17 +1312,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1792023662.1568255,
-   "en": "Nepal PM Balendra Shah proposes India-China climate mechanism for Himalayas",
-   "ne": "Nepal PM Balendra Shah proposes India-China climate mechanism for Himalayas",
-   "link": "https://www.bbc.com/news/articles/cvy0rd1j2kzlo",
-   "source": "BBC",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "disaster"
-  },
   {
    "ts": 1792025466.959213,
    "en": "Energy Minister Shrestha says private sector electricity trading entry is nearing final stage",
@@ -4363,7 +4327,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1792628465,
+ "updated": 1792629088,
  "pending_since": 1792628447.5406752,
  "fb_blocks": [
   1790350880.4125228,
