@@ -1,9 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNkE0blN5YW1TbWdnTmlCNV9BQ19EY3NvOUpaTUxYNHdaNUFnT3BvWmRMMVYwSkFFalFpOWh4bTg3Um9Ud1haVDhiY1NQUVQtUU1LZi1JOUVFQS1hM1NwZ013UmM4UUdUdm1DRkxNaTl6allXcEN3TDR0NjJmdTV2N2VkMHVwcUNvUlN3RXRnclVGS2s1cDdaYnJtOEQyTXFwVzZTdmh1UzVxcWl6?oc=5": 1792518055.6502507,
-  "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZEl3LUp4a3lrRUp0N2Frd3pXMVlRcENqWU1jOEtwTHhEQ3VscGgtR2NvcUttdnBuT2FGdkdCdDVkM0o5UFJNamNoTFRtMG0yazFyRVNaVVoyd1V2REl6aTJ6Ql8wekQ0RjhfR2NRS1NXbTJkMktyajVMSDh0c0Zzb09zSXNYdHpwcy1tUlI5ZFJBN2NyRlVDaXctU0g5dU8wYk5zQWVQV21yOWI3NE9aU0NqY3hRaTJtRHFvSldsYTkzd9IBxwFBVV95cUxNOWJlQnZTeG5aVkhVSjNoY044Q193R2xhN3NyeUJvakFqNWV0eGgzNHVvNkVNQ3MtY0w1alNmR0hlMXl3c2hHSTdmdXJBTmxfOERyVmY4Rmt4YjMwQTBUTFZqaUxrNnhqWk1ZSHNGYU5tVUl1enJvTjBDaEd4bkdaaXBSLUxxaFd5N1d6c0dVeU9BbnJJSTQ1Mzkzb0FHYU5pRG95azNsbGh1aTFWWEY2aU80VW0tVWNMNktna09sME1kRlY0Vkc4?oc=5": 1792518055.6502507,
-  "https://theannapurnaexpress.com/story/68109": 1792518055.6502507,
-  "https://theannapurnaexpress.com/story/68108": 1792518055.6502507,
   "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSlEzM1pYaEFDYzAwY3F2bFRSOU9YM3RuQTRJV2QwamhOR3FPTlpaXzdlUjQwZFVzQTFia0lvMTJYaUlaS0xyWFVwQ3daWkJuaWN1YzhKLXI3Nno4eWE4M2pXZHlCbG44YUFIZWJmOFd1VnluRVpSRkZONlBZZVhLOGt2THlITGRFbzIwUU90bV9hbW1WLTF3MzEta2J5Y2haeUxlNDF1bWVrVGtkaTk4YUhlWlZxT0V2NE93YlB4clhyWDlJbVEwVVdNcjFydldINVZMaG10Wm9tYTdUM2Y0ZnlB0gHiAUFVX3lxTE5KUTMzWlhoQUNjMDBjcXZsVFI5T1gzdG5BNElXZDBqaE5HcU9OWlpfN2VSNDBkVXNBMWJrSW8xMlhpSVpLTHJYVXBDd1paQm5pY3VjOEotcjc2ejh5YTgzaldkeUJsbjhhQUhlYmY4V3VWeW5FWlJGRk42UFllWEs4a3ZMeUhMZEVvMjBRT3RtX2FtbVYtMXczMS1rYnljaFp5TGU0MXVtZWtUa2RpOThhSGVaVnFPRXY0T3diUHhyWHJYOUltUTBVV01yMXJ2V0g1VkxobXRab21hN1QzZjRmeUE?oc=5": 1792519285.948779,
   "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTXl0TXJKeWZweUR1cUhOZWp1eUFkcG0zbVZ3Zjc0MjZkczgxNmVuWWZYbjlJcW1rc3hlR3pWZW1KZWpQam10eXpHRTA5UndKUjd4SWlMX0d2VjFMZ3pZaWNqelZKa0Vwem5aUnlmN1ZMOVUwbVVuZzFfcHVkeUV4NF9WVTRsVkNtUXRaeHRjbXFZTUhmeVpHV25tYVl2ams3SU5KczhrU0stc0hSSHJDN1FmQUFEclU5cDQzNVV4VQ?oc=5": 1792522249.175357,
   "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9MeHNCT1ltT1J6Qjc4TUNla0V2bFpDLXhUQkpUU19tNDVYTk4yM3pESHJKTTkyQ0NkUHJOdm9HM0ZSLVB0ZVFSMU96MV95Yjdy?oc=5": 1792522249.175357,
@@ -885,33 +881,10 @@
   "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTDhHb2lSRDNiMXpJV3RsWkVkSlNBTXBtbjBselBDRXVmbkN5NmVCWTgtZUc1eDJLZFgtR3BFRU5qaWkzQ3JoYVhDTTN6M3RRRnRuRHd4R0t2RUVKNm42czJ6S3FpODlIRjhYc1ExcnhzWC1qSm5KOFpKVExfSl9wWUhSSGJ2bmhqT0x5am1nX2x3SEtoSUxEc1poLTc5c3k2aDluTkJrRXppdzNw?oc=5": 1792690271.8420687,
   "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNLWltNXN1U2s2RElmNFc4dkJSTng5aVJMSTRsNlJObVRlZTJETXZnV0dDRkNra1NPOUY5YTdjYUtld0xyMHZWckZ1TkRPdlY1ZW1ZOWN4b0FGcENob2NOV3NHaHBlWkV3SGZDTUxkd1FvR2hqMllvOGQydm5EUHVmWDlDNGN3dXp0M0l4VGwtRGJMWUY4QlVIZVFyQ2ItMFRmVmJEWU0tV05sR2o3QnpCNzdydE56THI1LWFwTl9qUUc1Sy1Rc3gyZkhERl96VlhmV2xZeXh1dy1HUkZJX1ZLZFRjUS04RUhDaVE?oc=5": 1792690583.7750134,
   "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9PSXpLdk9GZFJkSEF4ZEdCWFBPNzJINnRLZUU5dlZEZFEyU2N0RXFXbDVuR3YzTG1ESmw0N1cyUENLMHJ3QXJtSHFBMTNYNnhRUDZFTTN6RQ?oc=5": 1792690583.7750134,
-  "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYkduYjVWWFZjUzZRUks2UGhrdWxCNzVlVXkwdjhHWjRiaGo5UWtLMVhvdnpaOTlUZmRUR01sLW5IdERhQ0pBTnIzUlJCQXF5WFEyQU1VdGZ2RzNXYURMaVE2RkRta0g3ZWdVd0d0X2tGVXV3TEt6UFkzZWtiajlMSUNBYVgtemJ6WUdvV1hvQXBvV1Z6emlIX1ZHbmptNFhsekUyVFZjRmtHR05ld0l0NXAyOW1XVGNjemp5RmZB0gG-AUFVX3lxTFBiR25iNVZYVmNTNlFSSzZQaGt1bEI3NWVVeTB2OEdaNGJoajlRa0sxWG92elo5OVRmZFRHTWwtbkh0RGFDSkFOcjNSUkJBcXlYUTJBTVV0ZnZHM1dhRExpUTZGRG1rSDdlZ1V3R3Rfa0ZVdXdMS3pQWTNla2JqOUxJQ0FhWC16YnpZR29XWG9BcG9XVnp6aUhfVkduam00WGx6RTJUVmNGa0dHTmV3SXQ1cDI5bVdUY2N6anlGZkE?oc=5": 1792690850.2239542
+  "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYkduYjVWWFZjUzZRUks2UGhrdWxCNzVlVXkwdjhHWjRiaGo5UWtLMVhvdnpaOTlUZmRUR01sLW5IdERhQ0pBTnIzUlJCQXF5WFEyQU1VdGZ2RzNXYURMaVE2RkRta0g3ZWdVd0d0X2tGVXV3TEt6UFkzZWtiajlMSUNBYVgtemJ6WUdvV1hvQXBvV1Z6emlIX1ZHbmptNFhsekUyVFZjRmtHR05ld0l0NXAyOW1XVGNjemp5RmZB0gG-AUFVX3lxTFBiR25iNVZYVmNTNlFSSzZQaGt1bEI3NWVVeTB2OEdaNGJoajlRa0sxWG92elo5OVRmZFRHTWwtbkh0RGFDSkFOcjNSUkJBcXlYUTJBTVV0ZnZHM1dhRExpUTZGRG1rSDdlZ1V3R3Rfa0ZVdXdMS3pQWTNla2JqOUxJQ0FhWC16YnpZR29XWG9BcG9XVnp6aUhfVkduam00WGx6RTJUVmNGa0dHTmV3SXQ1cDI5bVdUY2N6anlGZkE?oc=5": 1792690850.2239542,
+  "https://news.google.com/rss/articles/CBMizAFBVV95cUxOd2FHVDJDVG5nSHQteEx4bm5sR2VYUFpoQURCeHRmeU9saW8wVlJfTmhid0djWVJYOHR0SUIyRWlKdEVfbWV3QnkxWk42Z2pRa3V2VW45Z29OelNEZzdQOFNqVF9PYTN0QVl1YlVzLXVZcVRkZUg0WnFkcmRrOEk5SldYajUxZ3h6ZXZnTWo2Rmx5TzkwVnB5Y3RmVm9ndUI1eFA2TW94WGt4Rlh6c3VWS0FBQ3VNb1l2b24zODNtWnFwaWdHeDBVNVlkYUE?oc=5": 1792691453.4252148
  },
  "queue": [
-  {
-   "title": "This is how the flood-hit Chum Valley trail is being fixed",
-   "summary": "Repair work is underway on the trail to Chum Valley in northern Gorkha, which was blocked by landslides and floods. Work is progressing so that the trail can reopen within a few days. Movement to and from Chumchet and...",
-   "link": "https://english.onlinekhabar.com/chum-valley-trail-is-being-fixed.html",
-   "source": "Onlinekhabar EN",
-   "ts": 1792662568,
-   "weight": 3,
-   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/10/chum-valley-padmarga-3-1024x624-1.jpg",
-   "lang": "en",
-   "hl": "This is how the flood-hit Chum Valley trail is being fixed",
-   "en": "This is how the flood-hit Chum Valley trail is being fixed",
-   "ne": "This is how the flood-hit Chum Valley trail is being fixed",
-   "imp": 2,
-   "tags": [
-    "ChumValley",
-    "Flood",
-    "TrailRepair",
-    "बाढी"
-   ],
-   "cat": "disaster",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
-  },
   {
    "title": "र्‍याफ्टिङमा पोखराको अपर सेतीमा पर्यटकको आकर्षण",
    "summary": "नेपालमा सेती, कालीगण्डकी, मर्स्याङ्दी, त्रिशूली, तमोर, सुनकोसी र कर्णालीलगायत नदीमा सरकारले जलयात्रा सञ्चालन गर्न अनुमति दिएको छ ।",
@@ -1179,7 +1152,7 @@
    "cat": "economy",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "दसैंमा सुनसान बन्यो पाथीभरा",
@@ -1397,28 +1370,6 @@
     "ChinaVisit"
    ],
    "cat": "politics",
-   "val": 2,
-   "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "१० करोड दिराम जितेका अनिलको जीवनमा एक वर्षपछि के परिवर्तन भयो ?",
-   "summary": "किसान परिवारमा जन्मिएका अनिलकुमारले उक्त ड्रका लागि १२ वटा टिकट किनेका थिए। तीमध्ये ११ नम्बर उनले आमाको जन्ममहिनाको सम्झनामा रोजेका थिए।...",
-   "link": "https://nagariknews.nagariknetwork.com/others/what-changed-in-anil-s-life-after-winning-100-million-dirhams-a-year-ago-60-34.html",
-   "source": "Nagarik News",
-   "ts": 1792662555,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1792662469_Anil.jpg",
-   "lang": "ne",
-   "hl": "१० करोड दिराम जितेका अनिलको जीवनमा एक वर्षपछि के परिवर्तन भयो ?",
-   "en": "१० करोड दिराम जितेका अनिलको जीवनमा एक वर्षपछि के परिवर्तन भयो ?",
-   "ne": "१० करोड दिराम जितेका अनिलको जीवनमा एक वर्षपछि के परिवर्तन भयो ?",
-   "imp": 2,
-   "tags": [
-    "Anil",
-    "Dhiram"
-   ],
-   "cat": "society",
    "val": 2,
    "teaser": true,
    "hits": 1
@@ -5173,7 +5124,7 @@
    "cat": "agriculture"
   }
  ],
- "updated": 1792690874,
+ "updated": 1792691457,
  "pending_since": 1792690583.7750134,
  "fb_blocks": [
   1790350880.4125228,
