@@ -924,7 +924,8 @@
   "https://baahrakhari.com/detail/505461": 1792656093.866909,
   "https://english.khabarhub.com/2026/22/572822/": 1792656093.866909,
   "https://kathmandupost.com/national/2026/10/22/a-nepali-among-eight-injured-in-dammam-airport-attack": 1792656093.866909,
-  "http://lokaantar.com/story/331725/2026/10/22/bidya-bhandari-": 1792656093.866909
+  "http://lokaantar.com/story/331725/2026/10/22/bidya-bhandari-": 1792656093.866909,
+  "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNU0ZoNDRxTlZLTnpoa1JoWFVRdzZreEcwMGU4SDdaTXUyczk0RVgwMGQ1TlJZQTVBUjhYeDgzNFMyY2JhZjZiTmFhSXc1T3RuRVJtNTNIWlN4R2VFdy1XSENXMVdyZkJ4aEhHem1YMC1SWU5vbGFoRTJxbmR4ME5nYlo2T0dVZ1lodlprUjYzSUJheV8yenZUZ2stY1Iwb2RrcTl6aXB0MlZ3TzJtRFc0aWVVWERNWi04M0ZTMHdkNk1hZw?oc=5": 1792656654.3623135
  },
  "queue": [
   {
@@ -1091,29 +1092,6 @@
    "val": 3,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "France's tourism sector worried about impact of riots",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPLUV6cjB1Qkt2Ql81UmlmMnhOWmhhbUs2MkhNVXhNNHNWdEFwYTI3dmF6TmpGMFRwQVVIZFkyNGZLNVJuUFEzZzVrSVJMdEJHR3BXVnBqWHpoWThWbnctYlBzeUhwcm1aanZvN3RBLXJ3clhVRF9VcmFXUlM0WHY1amNYMUVKRUxlR1Y0UWFPRXluaUlUNXFOV3RHX0lrdEZaXzJlTTdZanFUZ1U?oc=5",
-   "source": "myRepublica",
-   "ts": 1792627782,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "France's tourism sector worried about impact of riots",
-   "en": "France's tourism sector worried about impact of riots",
-   "ne": "France's tourism sector worried about impact of riots",
-   "imp": 1,
-   "tags": [
-    "France",
-    "Tourism",
-    "Riots"
-   ],
-   "cat": "world",
-   "val": 2,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "Kathmandu Valley's minimum temperature drops to 13.5°C",
@@ -2328,7 +2306,7 @@
    "cat": "sports",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "\"First time in long time, we're maybe close to deal\": Trump on Ukraine conflict",
@@ -2539,17 +2517,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1792051308.992741,
-   "en": "Nepal PM Balen Shah to visit India in November for first bilateral trip",
-   "ne": "Nepal PM Balen Shah to visit India in November for first bilateral trip",
-   "link": "https://www.indiatoday.in/world/story/nepal-pm-balen-shah-india-visit-first-bilateral-trip-pm-narendra-modi-talks-agenda-itspc-3017806-2026-10-15",
-   "source": "India Today",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "politics"
-  },
   {
    "ts": 1792053088.3125243,
    "en": "Health screening stepped up at Gaddachauki border for Nepalis returning from India",
@@ -5532,7 +5499,7 @@
    "cat": "society"
   }
  ],
- "updated": 1792656111,
+ "updated": 1792656675,
  "pending_since": 1792655450.4978204,
  "fb_blocks": [
   1790350880.4125228,
