@@ -973,7 +973,8 @@
   "https://www.setopati.com/art/bollywood/401174": 1792644652.3812573,
   "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBLd3hWVHdNQnZLVDJjNGdkS1pxX0hFVFlJMjV6MWg3Tm5ibHBVODh6Z3NuSlA0WXN5eEpXaW5xMDNEdFVqcmM0T2NyUFFTdzZuYUVDalJ2TQ?oc=5": 1792645848.3782566,
   "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMjFSZkRpaFVYOGxKNWtxQXVCVUhqV1k1dzJmTklkWkFQaWJ6TUdqckpyV191UU9BZjJvaE50S3lyeGZpc2sxSHlkNl9IeEtJV3YwbElfd0NxMDlidmlyY0VBQzlUNnVqSWdudTctOFZRUjZLSXRJemFPbUNndWwzeEhMb3pjU2hvb1kxVXNmQlJWUjQxQlJHMUxaUUZDQ1hXSjZaYTB4dkJ0eFNRTVVTRUpBSUVaUlItcnkxT2p2ajBENTJIQlE?oc=5": 1792645848.3782566,
-  "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcnkwR2x3ZVNEeXJtM2NDQmw0VnIxdlFXQkZuT0o3cDkzb0VsVWZJRDVnQS03NENJLU0yV3R3X1Z6dDRxQXZ3MC1Zci1jek5ZelI3dG5oY19oYkdEYzJFQk5McWlCMkRZZUd5bV9COEcwNmZoOXhYWEsxcHBjSzlnMEN1TkJ0MjdLUVhjSEVaelo2M2hUenl2VjNHeFZYd0J0elBIdGY3UVNqcXQ0b0RaaUtoY0o?oc=5": 1792645848.3782566
+  "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcnkwR2x3ZVNEeXJtM2NDQmw0VnIxdlFXQkZuT0o3cDkzb0VsVWZJRDVnQS03NENJLU0yV3R3X1Z6dDRxQXZ3MC1Zci1jek5ZelI3dG5oY19oYkdEYzJFQk5McWlCMkRZZUd5bV9COEcwNmZoOXhYWEsxcHBjSzlnMEN1TkJ0MjdLUVhjSEVaelo2M2hUenl2VjNHeFZYd0J0elBIdGY3UVNqcXQ0b0RaaUtoY0o?oc=5": 1792645848.3782566,
+  "https://news.google.com/rss/articles/CBMiggFBVV95cUxPV3RyX1hteThGRVZFY1RYZUdxTnloblNrcHJ3ekdHYmNFRTNpOHdsb1c4VTlleERuYTEtUmJhNlRTZFV2bHJNZGFZOUktLTNDZDM4WHpZT0IwT3NxdVhqSnBHaGtxX253ZGxQZXFlY0N4dXh4MGxZbXlnaEdzTmJZa29n?oc=5": 1792646450.303602
  },
  "queue": [
   {
@@ -2202,17 +2203,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1792041065.3785427,
-   "en": "Police Arrest Convict in Supreme Court Justice Ran Bahadur Bam Murder Case",
-   "ne": "Police Arrest Convict in Supreme Court Justice Ran Bahadur Bam Murder Case",
-   "link": "http://english.ratopati.com/story/83794/babu-thapa-the-accused-in-the-murder-of-a-judge-who-escaped-from-prison-during-the-genji-movement-has-been-arrested",
-   "source": "Ratopati EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": true,
-   "cat": "crime"
-  },
   {
    "ts": 1792041659.3480186,
    "en": "Dashain rush begins as people leave Kathmandu Valley for hometowns",
@@ -5217,7 +5207,7 @@
    "cat": "tech"
   }
  ],
- "updated": 1792645882,
+ "updated": 1792646468,
  "pending_since": 1792645287.1678994,
  "fb_blocks": [
   1790350880.4125228,
