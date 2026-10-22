@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWm9mREtXLWFFazNMdDdxNFNIUVJIaVVTbnlsRTI4b3JLLWJyM3FLZ0dvN2FXZGFrT1pSMjZheWNjWUpsaEtLa2t1NTFjY19IVFc5aHNZYzBjQTdWenJFdE15WWc2ajlkOTRuNWtMd29MYTFlUVFsQ1dESDFEbE9WX1hCVUZrY3BiY1V3ZEhNMWZWU2RQZDdSMG1DSkloVjVYZFp2RVkzRURhelk5b1R0ckhWYlk?oc=5": 1792489850.8538399,
   "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVEhSUHpwbnpOXzUwRW92RjZIclY5MHFmalNUNDFZalhWanFhVmctOXk0SWFlY2hXZlZILVNLRUJ5Tl9aTWJLdTZhbXByZGdVWG1pZnlWMFZHTnd6NWFHdktDdjFwdFpMLWhPbm5hUXM1M21rZ1NyeTZMcXpBTmIyZkdBSU9UaDhOSzV3eVVKZVFCNWgzRzg5RFRDQnRoZFR0czdCNl9xVzF3WlFVZU1FVQ?oc=5": 1792490492.335644,
   "https://baahrakhari.com/detail/505375": 1792490492.335644,
   "https://nagariknews.nagariknetwork.com/economy/farmers-enjoying-cardamom-after-plowing-their-paddy-fields-39-57.html": 1792490492.335644,
@@ -896,7 +895,8 @@
   "https://baahrakhari.com/detail/505466": 1792662056.6485114,
   "https://nagariknews.nagariknetwork.com/technology/lemphy-brings-ambition-has-no-passport-91-32.html": 1792662056.6485114,
   "https://baahrakhari.com/detail/505465": 1792662056.6485114,
-  "https://nagariknews.nagariknetwork.com/politics/brother-harisharan-s-five-suggestions-to-ravi-develop-a-clear-view-on-the-province-s-issues-45-74.html": 1792662056.6485114
+  "https://nagariknews.nagariknetwork.com/politics/brother-harisharan-s-five-suggestions-to-ravi-develop-a-clear-view-on-the-province-s-issues-45-74.html": 1792662056.6485114,
+  "https://english.onlinekhabar.com/chum-valley-trail-is-being-fixed.html": 1792662653.5711246
  },
  "queue": [
   {
@@ -918,29 +918,6 @@
     "Tanahun"
    ],
    "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "Rich nations must fill Loss and Damage Fund: Nepal communities 'cannot survive on crumbs'",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMG0zLVZwUHA0TnI5UU15UEwyWVdXU1c5U0F1ek5YRkJjV2pDQWhnZ1JVSC1xM0FvRml5bUxHU0o4NUpzS1NWb1RYbW85cFNseU9OdGFrSmVvVWpFVURVS2xtcExMaHh0V296TE4xM0o4ajZqNExqUjRrRTRHa2VrQUtXRWc0VkxTU2kyeW8xYktLazhMUUVDb2w5ZGNyRGxrQ3ByUW1vXzJQbjBuX1dKV2JLWTZhV2x6?oc=5",
-   "source": "350.org",
-   "ts": 1792634958,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Rich nations must fill Loss and Damage Fund: Nepal communities 'cannot survive on crumbs'",
-   "en": "Rich nations must fill Loss and Damage Fund: Nepal communities 'cannot survive on crumbs'",
-   "ne": "Rich nations must fill Loss and Damage Fund: Nepal communities 'cannot survive on crumbs'",
-   "imp": 3,
-   "tags": [
-    "LossAndDamageFund",
-    "ClimateChange",
-    "Nepal"
-   ],
-   "cat": "disaster",
    "val": 3,
    "teaser": false,
    "hits": 2
@@ -988,29 +965,6 @@
    ],
    "cat": "culture",
    "val": 1,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "State Minister Sapana Pariyar Reflects on Two Months in Power",
-   "summary": "Bhairahawa. The office of the Ministry of Physical Infrastructure Development of Koshi Province in Bhairahawa. Files are on the table,...",
-   "link": "http://english.ratopati.com/story/84273/they-think-that-a-dalits-daughter-was-made-a-minister-out-of-mercy-but-this-is-not-mercy-it-is-the-right-of-years-of-blood-and-sweat",
-   "source": "Ratopati EN",
-   "ts": 1792633460,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/sapana-pariyar_vXq8dHrmhb.webp",
-   "lang": "en",
-   "hl": "State Minister Sapana Pariyar Reflects on Two Months in Power",
-   "en": "State Minister Sapana Pariyar Reflects on Two Months in Power",
-   "ne": "State Minister Sapana Pariyar Reflects on Two Months in Power",
-   "imp": 2,
-   "tags": [
-    "SapanaPariyar",
-    "Government",
-    "Ministers"
-   ],
-   "cat": "politics",
-   "val": 2,
    "teaser": false,
    "hits": 1
   },
@@ -2590,6 +2544,30 @@
     "RSP"
    ],
    "cat": "politics",
+   "val": 1,
+   "teaser": true,
+   "hits": 1
+  },
+  {
+   "title": "This is how the flood-hit Chum Valley trail is being fixed",
+   "summary": "Repair work is underway on the trail to Chum Valley in northern Gorkha, which was blocked by landslides and floods. Work is progressing so that the trail can reopen within a few days. Movement to and from Chumchet and...",
+   "link": "https://english.onlinekhabar.com/chum-valley-trail-is-being-fixed.html",
+   "source": "Onlinekhabar EN",
+   "ts": 1792662568,
+   "weight": 3,
+   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/10/chum-valley-padmarga-3-1024x624-1.jpg",
+   "lang": "en",
+   "hl": "This is how the flood-hit Chum Valley trail is being fixed",
+   "en": "This is how the flood-hit Chum Valley trail is being fixed",
+   "ne": "This is how the flood-hit Chum Valley trail is being fixed",
+   "imp": 2,
+   "tags": [
+    "ChumValley",
+    "Flood",
+    "TrailRepair",
+    "बाढी"
+   ],
+   "cat": "disaster",
    "val": 1,
    "teaser": true,
    "hits": 1
@@ -5576,10 +5554,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "disaster"
+  },
+  {
+   "ts": 1792662679.7027361,
+   "en": "Loss and Damage Fund board to decide on allocating $20M for Nepal glacial floods",
+   "ne": "Loss and Damage Fund board to decide on allocating $20M for Nepal glacial floods",
+   "link": "https://350.org/press-release/rich-nations-must-fill-loss-and-damage-fund-nepal-communities-cannot-survive-on-crumbs/",
+   "source": "350.org",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "disaster"
   }
  ],
- "updated": 1792662076,
- "pending_since": null,
+ "updated": 1792662694,
+ "pending_since": 1792662653.5711246,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
