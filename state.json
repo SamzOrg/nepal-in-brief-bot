@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaTRxcFF3eHctbmlXNWJudFFES2xVVnBLOXRUd25tcTVNdjJSVktibm1LTTdETng2UUdVUEFGaXhaQkpSSGRCblRKWlRhdGptZmRmY1dmOGRpaWMyaVVBNGxUZ0k4M1NZVlJnbHFJN19FOVZIUlExU3VBd0RPdzl2QV9HRW9qQWNkS290em95UVM1ZXp5VzIzSjdRM2lPNWJzS1RFaUxZOUFNWlQ4SFNjdmxJN0Fzb1I5aVpj?oc=5": 1792487452.8370683,
-  "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVGVGXzNmM1JDZk5mc0pGSTJVejNvcGFoZUk1NDNwRGdkR2d4NTBvNjBZLWdGdTEwMWJxbXBxOFprLVNHOWN1X1NkcFMzZmFJS1dQVkltZHdSWXFCaVBHemUxc1NIb0V5NS1lZXpxRTFDUUpZMGtoNHlNU0MxOVRkX01ONjc3LVdsR0JLTUJYczN4MFdlVUNDcWVRTzF0dEp5RTZpNGNLZF9UQzREdEdlZVAyV0RCRVU?oc=5": 1792487452.8370683,
   "https://baahrakhari.com/detail/505372": 1792488051.146288,
   "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTDROZVJJcmRxRVlWd1JseTVfQTdMc213NnVBbnp5TnpZLW8wSUV3dzIweDdHYjJPMlBHMUdfSVVLWldZaDNiMm5KYmt2emx6dmNXajNvVTQ3andTaDV5NXRnRTlIaVpNRzF4WXRHNFNLTUFkRlAzLTlIZmF1emtSTHI5NXF4WmxSUlBnTDN2U0Y3Ym96UkQ1eDIwSzhMeVViZ1YwOUM2Q3JSQjIycGN1YTBiZVBFZw?oc=5": 1792488051.146288,
   "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbk5kSzU1bFNPNEFNOEhhdG5Ca1ZqYnN5NkZhZHhiZWo4M0xzaTJYeXdCV29GSkVCeTE3LVN5OTN6YWxLU0pyV0NsUkhScXZhRjkxdElfTC0tSjN2QkVYeDQ4TXZodU9FZnZDMFUtX1B0NDNoajZVX0xtS3M3ZjdyazBkVWVLT1k1WWdsSEVTZzhlUTFIemhlWURXNWk4cDk3bEJXV0JaOHNQS2cwd0s2ZzVfQnVRRnNIU3VjcHdVYzB1X0FUd3VoQWRrQXlwQdIBzgFBVV95cUxPbk5kSzU1bFNPNEFNOEhhdG5Ca1ZqYnN5NkZhZHhiZWo4M0xzaTJYeXdCV29GSkVCeTE3LVN5OTN6YWxLU0pyV0NsUkhScXZhRjkxdElfTC0tSjN2QkVYeDQ4TXZodU9FZnZDMFUtX1B0NDNoajZVX0xtS3M3ZjdyazBkVWVLT1k1WWdsSEVTZzhlUTFIemhlWURXNWk4cDk3bEJXV0JaOHNQS2cwd0s2ZzVfQnVRRnNIU3VjcHdVYzB1X0FUd3VoQWRrQXlwQQ?oc=5": 1792488051.146288,
@@ -2568,17 +2566,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1792054905.0321476,
-   "en": "Nepal proposes BIMSTEC disaster-response task force amid rising climate risks",
-   "ne": "Nepal proposes BIMSTEC disaster-response task force amid rising climate risks",
-   "link": "https://farsightnepal.com/news/nepal-proposes-bimstec-disaster-response-task-force-amid-rising-climate-risks/",
-   "source": "The Farsight Nepal",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "world"
-  },
   {
    "ts": 1792056692.903403,
    "en": "जापानमा हुने एसियाली पारा खेलकुदमा नेपालबाट १९ खेलाडीसहित ४९ सदस्यीय टोली सहभागी",
@@ -5561,8 +5548,8 @@
    "cat": "sports"
   }
  ],
- "updated": 1792659714,
- "pending_since": null,
+ "updated": 1792660272,
+ "pending_since": 1792660254.8130248,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
