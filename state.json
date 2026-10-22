@@ -878,7 +878,11 @@
   "http://lokaantar.com/story/331740/2026/10/22/indian-police-": 1792678854.2665725,
   "http://lokaantar.com/story/331739/2026/10/22/npl-": 1792678854.2665725,
   "http://lokaantar.com/story/331738/2026/10/22/weather-": 1792678854.2665725,
-  "https://news.google.com/rss/articles/CBMiUEFVX3lxTE04emF4a1g4UTVobE1jSVZ5SXZ6RjdjajVTdHVycUlXdmRkN05abjdpT1FaRWtramdaNjlibXZiWWRsX09Bcnc3Sm91YV9vLVpj?oc=5": 1792679476.0536628
+  "https://news.google.com/rss/articles/CBMiUEFVX3lxTE04emF4a1g4UTVobE1jSVZ5SXZ6RjdjajVTdHVycUlXdmRkN05abjdpT1FaRWtramdaNjlibXZiWWRsX09Bcnc3Sm91YV9vLVpj?oc=5": 1792679476.0536628,
+  "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbnNJM3RtdlNoRlN5ajVReFVFMThNaUdXUEkwZm1SeEVXMEZyWS0yYzA5amxtWDV6SW5pYUdWZ01CQ3VCdE9IajRSeVlTemwtVkl3eFE5VjJON1hxemlRX0xfU29XbzA5TXNWMjJhRVhqWlk5QW4tQXpheUVNcTZIbVVPZTdJMkJJV0lBZHdNalFROHZPR3hHU0J6dWhDbEYwa2hQc2NyQ1RwSDFj?oc=5": 1792680051.1304884,
+  "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWTFSRjRxSG9QM2R1UXFuRXRvZ3h5aTB3TzB6Z09ySmFmRUoyQ1FLbUhBX2tQVFJSX3pzR2FZTmlZV2xmZEl6YktRTnVURGZydGx2eU9TUFI3dWVzOTlxdWlyQVIwMmEyVV9DUDVqNUpKQWVRV0tseEswejUxYVBZUWtvOGlaTko0UGhHZDJzM0NtcVFrcDNUNWt2VWVNMUxFSU5TMEMyUUg4V0M5Z2g4VGltck1XVnNnTXRWeklEVHVwLTZoVzNaa2RaZlk3cHItempKVDNabw?oc=5": 1792680051.1304884,
+  "http://english.ratopati.com/story/84299/bhotekoshi-flood-decision-to-provide-rs-3-billion-assistance-to-nepal-from-the-loss-and-damage-fund": 1792680051.1304884,
+  "http://lokaantar.com/story/331745/2026/10/22/rasuwa-": 1792680051.1304884
  },
  "queue": [
   {
@@ -924,29 +928,6 @@
    "cat": "culture",
    "val": 1,
    "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "युक्रेन युद्धमा सम्झौता नजिक पुगेको ट्रम्पको संकेत",
-   "summary": "उनले वार्ता संवेदनशील अवस्थामा रहेकाले रुसमाथि थप प्रतिबन्ध लगाउँदा कूटनीतिक प्रयास प्रभावित हुन सक्ने उल्लेख गरे।...",
-   "link": "https://nagariknews.nagariknetwork.com/international/trump-hints-at-nearing-agreement-on-ukraine-war-br-88-67.html",
-   "source": "Nagarik News",
-   "ts": 1792651100,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1769745898_Trump%2C%20Putin%20and%20Zelensky.jpg",
-   "lang": "ne",
-   "hl": "युक्रेन युद्धमा सम्झौता नजिक पुगेको ट्रम्पको संकेत",
-   "en": "युक्रेन युद्धमा सम्झौता नजिक पुगेको ट्रम्पको संकेत",
-   "ne": "युक्रेन युद्धमा सम्झौता नजिक पुगेको ट्रम्पको संकेत",
-   "imp": 1,
-   "tags": [
-    "Ukraine",
-    "Trump",
-    "PeaceTalks"
-   ],
-   "cat": "world",
-   "val": 1,
-   "teaser": true,
    "hits": 1
   },
   {
@@ -2625,6 +2606,30 @@
     "प्रहरी"
    ],
    "cat": "crime",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "भोटेकोशी बाढी प्रभावितका लागि ३ अर्ब रुपैयाँ सहयोग गर्ने हानिनोक्सानी कोषको निर्णय",
+   "summary": "भोटेकोशी-त्रिशूली क्षेत्रमा आएको विनाशकारी बाढीबाट प्रभावित समुदायको राहत, पुनर्स्थापना तथा पुनर्निर्माणका लागि हानिनोक्सानी कोषले नेपाललाई २० मिलियन अमेरिकी डलर (करिब ३ अर्ब रुपैयाँ) सहयोग गर्ने निर्णय गरेको छ ।कोषको...",
+   "link": "http://lokaantar.com/story/331745/2026/10/22/rasuwa-",
+   "source": "Lokaantar",
+   "ts": 1792665651.7551453,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "भोटेकोशी बाढी प्रभावितका लागि ३ अर्ब रुपैयाँ सहयोग गर्ने हानिनोक्सानी कोषको निर्णय",
+   "en": "भोटेकोशी बाढी प्रभावितका लागि ३ अर्ब रुपैयाँ सहयोग गर्ने हानिनोक्सानी कोषको निर्णय",
+   "ne": "भोटेकोशी बाढी प्रभावितका लागि ३ अर्ब रुपैयाँ सहयोग गर्ने हानिनोक्सानी कोषको निर्णय",
+   "imp": 4,
+   "tags": [
+    "Bhotekoshi",
+    "Flood",
+    "बाढी",
+    "ReliefFund"
+   ],
+   "cat": "disaster",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -5613,7 +5618,7 @@
    "cat": "society"
   }
  ],
- "updated": 1792679523,
+ "updated": 1792680073,
  "pending_since": 1792679476.0536628,
  "fb_blocks": [
   1790350880.4125228,
