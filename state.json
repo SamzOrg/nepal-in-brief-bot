@@ -2535,17 +2535,6 @@
  ],
  "posted": [
   {
-   "ts": 1792047701.3039215,
-   "en": "Monsoon withdraws from Nepal on October 14, 12 days later than average",
-   "ne": "Monsoon withdraws from Nepal on October 14, 12 days later than average",
-   "link": "https://thehimalayantimes.com/ampArticle/1040659",
-   "source": "The Himalayan Times",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "disaster"
-  },
-  {
    "ts": 1792049492.0640068,
    "en": "एक वर्षमा ३ गुणाले बढ्यो महँगी, मुद्रास्फीति ६.३४ प्रतिशत पुग्यो",
    "ne": "एक वर्षमा ३ गुणाले बढ्यो महँगी, मुद्रास्फीति ६.३४ प्रतिशत पुग्यो",
@@ -5527,8 +5516,8 @@
    "cat": "health"
   }
  ],
- "updated": 1792652536,
- "pending_since": null,
+ "updated": 1792653071,
+ "pending_since": 1792653049.9716644,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
