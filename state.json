@@ -914,30 +914,6 @@
  },
  "queue": [
   {
-   "title": "Ukrainian Citizen Arrested in Germany for Spying for Russian Intelligence",
-   "summary": "Kathmandu. A Ukrainian citizen has been arrested in Germany on charges of spying for the Russian intelligence agency. According to...",
-   "link": "http://english.ratopati.com/story/84301/ukrainian-citizen-arrested-in-germany-on-suspicion-of-spying-for-russia",
-   "source": "Ratopati EN",
-   "ts": 1792682518,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/ukraine-flag_BVVXxRww8h.jpg",
-   "lang": "en",
-   "hl": "Ukrainian Citizen Arrested in Germany for Spying for Russian Intelligence",
-   "en": "Ukrainian Citizen Arrested in Germany for Spying for Russian Intelligence",
-   "ne": "Ukrainian Citizen Arrested in Germany for Spying for Russian Intelligence",
-   "imp": 1,
-   "tags": [
-    "Ukraine",
-    "Germany",
-    "Spying",
-    "Russia"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Sri Lanka Stuns England by Successfully Chasing 430 in ODI Thriller",
    "summary": "Kathmandu. Sri Lanka has stunned England by successfully chasing a massive target of 430 runs in One Day International cricket...",
    "link": "http://english.ratopati.com/story/84302/sri-lankas-record-win-in-one-day-cricket-against-england",
@@ -1099,17 +1075,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1792106471.628737,
-   "en": "8th Match (D/N), Nepal Premier League at Kirtipur, Oct 31 2026",
-   "ne": "8th Match (D/N), Nepal Premier League at Kirtipur, Oct 31 2026",
-   "link": "https://www.espn.com/cricket/series/23081/game/1558589/biratnagar-kings-npl-vs-sudur-paschim-royals-npl-8th-match-nepal-premier-league-2026-27",
-   "source": "ESPN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "sports"
-  },
   {
    "ts": 1792108258.6080575,
    "en": "CCTV footage hints Shraddha Dubey may be in Nepal in Shiva Sharma murder case",
@@ -4070,7 +4035,7 @@
    "cat": "crime"
   }
  ],
- "updated": 1792711270,
+ "updated": 1792711879,
  "pending_since": 1792711250.9745753,
  "fb_blocks": [
   1790350880.4125228,
