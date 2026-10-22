@@ -1,14 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVWFLUmR2RlRrSU1pQU1fUnJRVHNjak1Oeks2NUlzeklnNDdwT1RFR0NlM2F4eGZXaDdPU0ttajhMX1VRMXhZcV9Gc1lCQVUwZ3dNcGR2Yl9ZTC1zT3A1V04xazFDRzlqd0xXZmV2cXltNTVJTmUyWUIyOFVoQzdHclVxQ29aSHoxa241TjhNREt3ZGhTd3NZREduUEdQYy15SE9sSGtB?oc=5": 1792454482.2571106,
-  "http://english.ratopati.com/story/84195/fears-of-political-violence-in-australia-mp-haynes-hit-by-car-suspect-arrested": 1792454482.2571106,
-  "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZGZsSng1TFdsbnFpZC0wdUdXcWRVVGNCN05CZFQ3STdmSkdFa2UwS0xTYzNnN2NrU3dTN0FGSE9kS2VJTElrNGttZHFTdUY1Rzh6N0w2TExxOUR5bmZVRzJoUE9xSURsUFdCMGRDMG9XQVJGN0lLRDBqdk1oNEwxeHhaX2Rnb2RBcXJtY1hRa19KN3RjZjJUWHlvVnhxbnVDODB0YVFEX19CY0Q0NTluY0NWV1VjN3VFR1E?oc=5": 1792454482.2571106,
-  "https://english.onlinekhabar.com/mahanawami-observed-today.html": 1792454482.2571106,
-  "http://lokaantar.com/story/331623/2026/10/19/weather-": 1792454482.2571106,
-  "http://english.ratopati.com/story/84194/deadly-drone-attacks-in-sudan-kill-more-than-160-including-children": 1792454482.2571106,
-  "http://lokaantar.com/story/331622/2026/10/19/forex-": 1792454482.2571106,
-  "http://english.ratopati.com/story/84192/ninth-day-of-saradiya-navratri-glory-and-worship-of-mata-siddhidatri-the-giver-of-all-things": 1792454482.2571106,
-  "http://lokaantar.com/story/331621/2026/10/19/baraha-": 1792454482.2571106,
   "http://lokaantar.com/story/331625/2026/10/20/dead-": 1792455647.8697436,
   "http://lokaantar.com/story/331624/2026/10/20/trump-": 1792455647.8697436,
   "https://english.khabarhub.com/2026/20/572638/": 1792456848.2725403,
@@ -1117,30 +1108,6 @@
    "hits": 1
   },
   {
-   "title": "Macron blasts 'stupid' claims by Trump and others blaming Muslims migrants for French riots",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZzdjVTlvZnlMcWdRZEM1VG1OSlNLR2NSQkZYTEtYeGdEeHlrN0xOSEstQW1mdlVPQ0c2UGdST09laW5IbmNwR3RvTnJsTjAtVUdITmhub0RTY3NpSVVfTXoxOXREaDcwTmdtVmdkSXBWYnpmeFlhbjA2VzBSV21HeDJlZmhyY3FVTzBXMUNxSzFyWGZxY1VwTFNkc3BZd3BURVRPek5TeGg2LUNKaEVJNHJ2YjNkRXljNkZYampOLU9GaXQ2OUE2NEVQV0x2eFk?oc=5",
-   "source": "myRepublica",
-   "ts": 1792598013,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Macron blasts 'stupid' claims by Trump and others blaming Muslims migrants for French riots",
-   "en": "Macron blasts 'stupid' claims by Trump and others blaming Muslims migrants for French riots",
-   "ne": "Macron blasts 'stupid' claims by Trump and others blaming Muslims migrants for French riots",
-   "imp": 1,
-   "tags": [
-    "Macron",
-    "Trump",
-    "France",
-    "World"
-   ],
-   "cat": "world",
-   "val": 2,
-   "teaser": false,
-   "hits": 2
-  },
-  {
    "title": "गाडी चलाउँदा महिलाले अ`श्लील भिडियो हेरेको आरोप, एकको मृ`त्युपछि मुद्दा दायर",
    "summary": "दुर्घटनामा सेतो कारको पछाडिको सिटमा सवार ६६ वर्षीय स्कट लावर लिचफिल्डको टाउकोमा गम्भीर चोट लागेको थियो। उनलाई हेलिकप्टरबाट अस्पताल लगिए पनि पछि मृत्यु भएको थियो।...",
    "link": "https://nagariknews.nagariknetwork.com/international/woman-accused-of-watching-pornographic-video-while-driving-case-filed-after-one-dies-56-54.html",
@@ -1415,17 +1382,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1792021858.0005682,
-   "en": "Cantilever Bridge Swept Away, Leaving Chum Valley Cut Off Ahead of Festival",
-   "ne": "Cantilever Bridge Swept Away, Leaving Chum Valley Cut Off Ahead of Festival",
-   "link": "https://theannapurnaexpress.com/story/67938",
-   "source": "Annapurna Express",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "disaster"
-  },
   {
    "ts": 1792023662.1568255,
    "en": "Nepal PM Balendra Shah proposes India-China climate mechanism for Himalayas",
@@ -4452,7 +4408,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1792626685,
+ "updated": 1792627306,
  "pending_since": 1792626048.684708,
  "fb_blocks": [
   1790350880.4125228,
