@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://nagariknews.nagariknetwork.com/social-affairs/pokhara-jomsom-regular-air-service-suspended-51-62.html": 1792457446.7021754,
   "https://nagariknews.nagariknetwork.com/social-affairs/kopche-barah-area-boating-service-targeting-passengers-coming-for-dashain-62-38.html": 1792458084.4367225,
   "https://news.google.com/rss/articles/CBMimwFBVV95cUxOamh2NExFSHJWdDJPRHp6MnUwdFk3N1hNNzY4ZFdKek8zSnQ2YUJqX0lHNW5tMW5kMlRzMVFfSGVIRXJFY0QwZDhPZWgxeEZJM1BlWFRyUm5ScWhIbHZFckRaWnY3djMxLTM4UEU5OVAxUlk2UFFYenNleG9pMkNXV0NfSXFDdjk1Y0lkeVRlMVRsaXE5OV9LNjZ5VQ?oc=5": 1792458084.4367225,
   "http://lokaantar.com/story/331630/2026/10/20/road-": 1792458872.1284401,
@@ -978,7 +977,16 @@
   "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQVQ5QWFDaDhvU0FRR1JkOG1hWlRYWGRNLUgwT0MzbEdKbjlIYW5KU1F4NkJmcGZETlVZNkp4ZWtrdk1zWEdYRGVDYzZFNnR6U3ZHbFM2djhSMnctTjExS3E0Y3BtWDcwam1DVHRPUlhzdXBteW9DSWpRSkU0UEt2R0RwS0FQd1lVaUJDMWVwR0M5Qy1zRi13RVZDYy0?oc=5": 1792625467.7704835,
   "https://baahrakhari.com/detail/505437": 1792627849.3867517,
   "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONmg1eUE1UjZvT2k1VmNnZE00akx0VC1McVBrUXRRUzE2X2VVV0w1NnVkR0lzckloMnpEQVF4b1FBR2s4d28tNk9tTENuNk12SjhzV0Y3ZVNZbE1mTFBnUTZjMEp4VDJiTmgzajUtN1pKZDc0eUVyc0duV1ZBTnBRTlhMbUxacERXYTlLY1Qyc3RHTlRrOWtDdHcwN0NvYUwwVkd0ZUtVdUtEa2lsSzdEV3g2WWl2S3Zz?oc=5": 1792627849.3867517,
-  "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTXpRVVhDSjRfNG40S1VDdFNfVWY0bC1WS2NaS1Atc0J3cDJGZDBTOTE0UE10eHExbDVOM2h3ckZyUVZGeS1tVDRRUlUyMGNJTW9DMXZ3VVk4MnhoZ2x2YUFYS2w2cnN6anRhdE9HMzZTbzJvd3lPVVRIZ3FyN0c2MnNPQnVNY2FsS2tsdXlRUEdGR0txdGx2Ym1qdVFMNlRnejViNk1CVDAzUTBRMWc?oc=5": 1792629649.6063323
+  "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTXpRVVhDSjRfNG40S1VDdFNfVWY0bC1WS2NaS1Atc0J3cDJGZDBTOTE0UE10eHExbDVOM2h3ckZyUVZGeS1tVDRRUlUyMGNJTW9DMXZ3VVk4MnhoZ2x2YUFYS2w2cnN6anRhdE9HMzZTbzJvd3lPVVRIZ3FyN0c2MnNPQnVNY2FsS2tsdXlRUEdGR0txdGx2Ym1qdVFMNlRnejViNk1CVDAzUTBRMWc?oc=5": 1792629649.6063323,
+  "https://www.setopati.com/sports/cricket/401167": 1792630248.8319561,
+  "https://baahrakhari.com/detail/505439": 1792630248.8319561,
+  "https://nagariknews.nagariknetwork.com/economy/this-is-the-foreign-exchange-rate-today-66-84.html": 1792630248.8319561,
+  "https://english.khabarhub.com/2026/22/572788/": 1792630248.8319561,
+  "http://lokaantar.com/story/331708/2026/10/22/russia-ukraine-war-": 1792630248.8319561,
+  "https://www.setopati.com/social/401166": 1792630248.8319561,
+  "https://baahrakhari.com/detail/505438": 1792630248.8319561,
+  "https://nagariknews.nagariknetwork.com/social-affairs/maithili-tradition-s-ravana-killing-festival-concludes-48-60.html": 1792630248.8319561,
+  "http://lokaantar.com/story/331707/2026/10/22/u-19-women-worldcup-": 1792630248.8319561
  },
  "queue": [
   {
@@ -1050,29 +1058,6 @@
    "val": 3,
    "teaser": false,
    "hits": 2
-  },
-  {
-   "title": "'Mixed feelings': AI cracks centuries-old ciphers",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZUFPODU3blJHdzg4b2dfRXpGVkIwTms4M2dCWnlMelo4cEhNaWMwX0Q1X25iYWdzV2lEVXJrX2Frc2d3WHYtUVNYM0hJZmJYOXlURDRLZFlGRS1HTTA4Vk1VSmZQUnpqemRTQV94cWo4cUNKYkd1bV9mcmF4dS1zWVQ5c1FPZWlyQWtpczZGSm9Jdlo0YTZBZlFVQWMwWUlnX0J5Y3AzWXU?oc=5",
-   "source": "myRepublica",
-   "ts": 1792600972,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "'Mixed feelings': AI cracks centuries-old ciphers",
-   "en": "'Mixed feelings': AI cracks centuries-old ciphers",
-   "ne": "'Mixed feelings': AI cracks centuries-old ciphers",
-   "imp": 1,
-   "tags": [
-    "ArtificialIntelligence",
-    "Cryptology",
-    "TechNews"
-   ],
-   "cat": "tech",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
   },
   {
    "title": "Lucknow Cafe Owner Death: 11th Floor Clue, CCTV Trail End UP-Nepal-Nagpur Great Escape; Live-In Partner S",
@@ -1273,6 +1258,124 @@
     "Economy"
    ],
    "cat": "economy",
+   "val": 3,
+   "teaser": false,
+   "hits": 3
+  },
+  {
+   "title": "पेरिसका विभिन्न क्षेत्रमा प्रदर्शन गर्न प्रतिबन्ध, म्याक्रोनद्वारा ट्रम्पको आलोचना",
+   "summary": "",
+   "link": "https://baahrakhari.com/detail/505439",
+   "source": "Baahrakhari",
+   "ts": 1792629206,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "पेरिसका विभिन्न क्षेत्रमा प्रदर्शन गर्न प्रतिबन्ध, म्याक्रोनद्वारा ट्रम्पको आलोचना",
+   "en": "पेरिसका विभिन्न क्षेत्रमा प्रदर्शन गर्न प्रतिबन्ध, म्याक्रोनद्वारा ट्रम्पको आलोचना",
+   "ne": "पेरिसका विभिन्न क्षेत्रमा प्रदर्शन गर्न प्रतिबन्ध, म्याक्रोनद्वारा ट्रम्पको आलोचना",
+   "imp": 1,
+   "tags": [
+    "Paris",
+    "Macron",
+    "Trump",
+    "Protest"
+   ],
+   "cat": "world",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Trump claims US prevented Iran from having nuclear weapon",
+   "summary": "WASHINGTON DC: US President Donald Trump on Wednesday (local time) said that stopping Iran from developing nuclear weapons stands among his administration's most significant achievements. Emphasising the decisiveness...",
+   "link": "https://english.khabarhub.com/2026/22/572788/",
+   "source": "Khabarhub EN",
+   "ts": 1792628918,
+   "weight": 2,
+   "img": "https://english.khabarhub.com/wp-content/uploads/2026/05/Donald-Trump-AFP-via-Getty-Images-400x220.webp",
+   "lang": "en",
+   "hl": "Trump claims US prevented Iran from having nuclear weapon",
+   "en": "Trump claims US prevented Iran from having nuclear weapon",
+   "ne": "Trump claims US prevented Iran from having nuclear weapon",
+   "imp": 1,
+   "tags": [
+    "Trump",
+    "Iran",
+    "NuclearWeapon",
+    "USA"
+   ],
+   "cat": "world",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "युक्रेन युद्ध अन्त्यका लागि त्रिपक्षीय वार्तामा बस्न तयार भए पुटिन",
+   "summary": "रुसी राष्ट्रपति भ्लादिमिर पुटिनले युक्रेन युद्ध अन्त्यका लागि अमेरिका र युक्रेनसँग त्रिपक्षीय शान्ति वार्ता पुनः शुरू गर्न सहमति जनाएका छन् ।अमेरिकी विशेष दूत स्टिभ विट्कफसँग बुधबार रुसको सेन्ट पिटर्सबर्गमा भएको...",
+   "link": "http://lokaantar.com/story/331708/2026/10/22/russia-ukraine-war-",
+   "source": "Lokaantar",
+   "ts": 1792615849.4573169,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "युक्रेन युद्ध अन्त्यका लागि त्रिपक्षीय वार्तामा बस्न तयार भए पुटिन",
+   "en": "युक्रेन युद्ध अन्त्यका लागि त्रिपक्षीय वार्तामा बस्न तयार भए पुटिन",
+   "ne": "युक्रेन युद्ध अन्त्यका लागि त्रिपक्षीय वार्तामा बस्न तयार भए पुटिन",
+   "imp": 1,
+   "tags": [
+    "Putin",
+    "UkraineWar",
+    "Russia"
+   ],
+   "cat": "world",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "थोरै मात्र होइन, धेरै निद्रा पनि हुन्छ हानिकारक- कति घण्टा सुत्ने त?",
+   "summary": "मस्तिष्कमा समस्या भएको व्यक्तिको 'मस्तिष्कको जैविक उमेर' उसको वास्तविक उमेरभन्दा बढी हुन सक्छ। त्यसैगरी, शारीरिक रूपमा सक्रिय व्यक्तिको मांसपेशी उसको उमेर अनुसार अपेक्षा गरिएभन्दा जवान देखिन सक्छ।",
+   "link": "https://www.setopati.com/social/401166",
+   "source": "Setopati",
+   "ts": 1792627920,
+   "weight": 3,
+   "img": null,
+   "lang": "ne",
+   "hl": "थोरै मात्र होइन, धेरै निद्रा पनि हुन्छ हानिकारक- कति घण्टा सुत्ने त?",
+   "en": "थोरै मात्र होइन, धेरै निद्रा पनि हुन्छ हानिकारक- कति घण्टा सुत्ने त?",
+   "ne": "थोरै मात्र होइन, धेरै निद्रा पनि हुन्छ हानिकारक- कति घण्टा सुत्ने त?",
+   "imp": 1,
+   "tags": [
+    "Sleep",
+    "HealthTips",
+    "निद्रा"
+   ],
+   "cat": "health",
+   "val": 1,
+   "teaser": true,
+   "hits": 1
+  },
+  {
+   "title": "मैथिल परम्पराको रावणवध उत्सव सम्पन्न",
+   "summary": "शारदीय दशहरा अर्थात् विजया दशमीका दिन मिथिलामा मनाइने रावणवध उत्सव मटिहानीसहित महोत्तरीका कैयौं ठाउँमा बुधबार साँझ सम्पन्न भएको छ।...",
+   "link": "https://nagariknews.nagariknetwork.com/social-affairs/maithili-tradition-s-ravana-killing-festival-concludes-48-60.html",
+   "source": "Nagarik News",
+   "ts": 1792629027,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2025/third-party/1792629018_rawan.jpg",
+   "lang": "ne",
+   "hl": "मैथिल परम्पराको रावणवध उत्सव सम्पन्न",
+   "en": "मैथिल परम्पराको रावणवध उत्सव सम्पन्न",
+   "ne": "मैथिल परम्पराको रावणवध उत्सव सम्पन्न",
+   "imp": 2,
+   "tags": [
+    "MaithiliTradition",
+    "RavanBadh",
+    "Festival",
+    "मैथिल"
+   ],
+   "cat": "culture",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -4305,8 +4408,8 @@
    "cat": "politics"
   }
  ],
- "updated": 1792629683,
- "pending_since": 1792628447.5406752,
+ "updated": 1792630268,
+ "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
