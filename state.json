@@ -883,7 +883,8 @@
   "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZjhFMDBSdy1qQWJqY1dtNTZvRGt0NTdXOTlTMk9KM1M2c2dIS3ByTXotbjViQVBES1NTTWVpcmtSeElNc3BOM2RoT3hjdjM4N1dCQkphMkN2MGdaYllMaEFhTVNOX0U2eVN6bGgxeFlTSDRadVN3aXlLTTIwOGhFRWZXVTlDeTFFWFgtaldhd2xENW1ubnFMaUtSaHV2bUt5aHh3MGpDWV8?oc=5": 1792663295.4788868,
   "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTThfZncweEFreU9pNG43LVRqR3dFUHFGVEtKYWJnejZ3dlhCS0ZGR2lfaU96cWxCRXJCRXA3RUhWTWxiNWtYTG1tZ1pxMzFxbTlCLW1EZXpmcWlFNmlGWkhXa2ZUbU9sLU5BYlVDYmFVd05WUTYzZ21Mb3hEaVNOQWtKaVE1SkUtemlzdUVSOU1LVkFiM05WVWZSaHZyQ2RGOUdoZ1pURk1ZbmZrNnVaSWlGS1F0dw?oc=5": 1792663295.4788868,
   "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaEkxX0NGYWZNbnExWjJ1YjBtVmZXR3FMbWtmX19pdnhxTHhxMW1mWkpyWm16V0gwbGh2aTA3Z1lPeGVETkJvOGRQTWkyRHYxNDVTZE1rRjczWVhncmhFelhIM01mR0ZvY2ZyNF9qWVM4Wm9xOGMzTWNwVk1fQUpvRjFjZkNyb0pLTXBMNzc4OFRJaVZMcm15X1o1UGQ0Rng4RGpfWnc0ZmpmdFJwcUE?oc=5": 1792663853.5146306,
-  "https://theannapurnaexpress.com/story/68145": 1792663853.5146306
+  "https://theannapurnaexpress.com/story/68145": 1792663853.5146306,
+  "https://english.khabarhub.com/2026/22/572834/": 1792664453.4957335
  },
  "queue": [
   {
@@ -1593,29 +1594,6 @@
    ],
    "cat": "world",
    "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "विदेशी प्रशिक्षक र कप्तानको भरमा इतिहास दोहोर्याउन चाहन्छ जनकपुर बोल्ट्स",
-   "summary": "नेपाल प्रिमियर लिग (एनपीएल) क्रिकेटको तेस्रो संस्करण यही कात्तिक ९ देखि मंसिर ५ गतेसम्म काठमाडौंमा हुँदैछ ।आयोजक नेपाल क्रिकेट संघ (क्यान) र सहभागी टोलीहरू तेस्रो संस्करणको अन्तिम तयारीमा व्यस्त छन् । क्यानले तेस्रो...",
-   "link": "http://lokaantar.com/story/331713/2026/10/22/janakpur-bolts-npl-",
-   "source": "Lokaantar",
-   "ts": 1792635653.1552768,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "विदेशी प्रशिक्षक र कप्तानको भरमा इतिहास दोहोर्याउन चाहन्छ जनकपुर बोल्ट्स",
-   "en": "विदेशी प्रशिक्षक र कप्तानको भरमा इतिहास दोहोर्याउन चाहन्छ जनकपुर बोल्ट्स",
-   "ne": "विदेशी प्रशिक्षक र कप्तानको भरमा इतिहास दोहोर्याउन चाहन्छ जनकपुर बोल्ट्स",
-   "imp": 2,
-   "tags": [
-    "JanakpurBolts",
-    "NepalPremierLeague",
-    "एनपीएल"
-   ],
-   "cat": "sports",
-   "val": 2,
    "teaser": false,
    "hits": 1
   },
@@ -2488,28 +2466,6 @@
    "cat": "disaster",
    "val": 1,
    "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "5 killed, over 300 in nation-wide road accidents in 24 hours",
-   "summary": "Five people lost their lives and 313 others were injured in separate traffic accidents across Nepal over a 24-hour period, according to Nepal Police. Koshi Province reported the highest toll, with two fatalities and 108...",
-   "link": "https://theannapurnaexpress.com/story/68145",
-   "source": "Annapurna Express",
-   "ts": 1792649454.9612272,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "5 killed, over 300 in nation-wide road accidents in 24 hours",
-   "en": "5 killed, over 300 in nation-wide road accidents in 24 hours",
-   "ne": "5 killed, over 300 in nation-wide road accidents in 24 hours",
-   "imp": 4,
-   "tags": [
-    "RoadAccidents",
-    "Nepal"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
    "hits": 1
   }
  ],
@@ -5494,9 +5450,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "disaster"
+  },
+  {
+   "ts": 1792664474.268303,
+   "en": "5 killed and 313 injured in nationwide road accidents across Nepal in 24 hours",
+   "ne": "5 killed and 313 injured in nationwide road accidents across Nepal in 24 hours",
+   "link": "https://theannapurnaexpress.com/story/68145",
+   "source": "Annapurna Express",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "disaster"
   }
  ],
- "updated": 1792663878,
+ "updated": 1792664487,
  "pending_since": 1792662653.5711246,
  "fb_blocks": [
   1790350880.4125228,
