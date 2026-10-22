@@ -875,7 +875,9 @@
   "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB3V1lnNHVBMkZVOWQ0Ulo0N3VuSXFlSk9mMlJfZ19kMURtQ1hGMDF3blZWM1NFZG9sdjRSNV92YnJ5b0taQ3dUaVU1Z2JqRUVqaXRkVktUUnZ2eHkzSC1abHBaaTRSTGfSAVxBVV95cUxQbVVRU0RxTFFqUVZseDNfWm5wWTNBTW56ZWgtTHVUU05iLWFjRkp5eF84NlJrS1J3aksyQXRqRGJ1N0YyNUpXUGdhU09UbURLQm93UVVKbzgtdEo0Yw?oc=5": 1792676459.3704474,
   "https://nagariknews.nagariknetwork.com/social-affairs/rain-is-forecast-from-tuesday-what-did-the-meteorologist-say-43-29.html": 1792676459.3704474,
   "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZWV5eDYySEJSRzhVNUtOU1JSa0NlNUl2RnNhR1dreEJTWDZ1UFFhSjBVakQwWnRCeF9FSExBYjdJQXJqWUNsaEVUTGJaeWRYZm9PeWVpQVpTaTc3VksyUnJrQ2J4WDI4cjdEcEt5UGt3OUk3bkNpQkx1QzRmaUFoTy1sb0FkZ2NtbElwbTFNQm0xNHk5V1phRTZoS3ZUQkJZMW0xT2ZIdUdGZEZYN0JWd2RBYXpoT0U?oc=5": 1792676459.3704474,
-  "https://nagariknews.nagariknetwork.com/social-affairs/this-year-s-dashain-festival-marred-by-floods-and-landslides-56-76.html": 1792676459.3704474
+  "https://nagariknews.nagariknetwork.com/social-affairs/this-year-s-dashain-festival-marred-by-floods-and-landslides-56-76.html": 1792676459.3704474,
+  "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVUU5eFpYNGxkU2lXS1BQWUhwMnF4aGc3M0hoczY1X0xmT0otQjFLUkxnNFd2TGt0VjZEelc3Z0EzdXZDai1hR2ZNdGQteVY3TkliLV9EMURrVGh6azJCQkZpTVZfY19ZSU9ZWmFZbGVlWVNPOUh0X21lRmJPVWdHYUx6US1LU1U3NExiclZ2Q3Z2TU80bjZKUkNJM1pyZk5NUExMd2JfYzdoMmNaY0Z0U2YzYVktRm11VkJFcQ?oc=5": 1792677054.5838678,
+  "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1jSXdfRTUxWEx1Yi1kMDg5SUxZYUZ1X2NnZGFVaGh4M3BHQVRsaUkxTGJ4NVhvUmdMUVJWSjhMNVBJRjlJOGhnbndnNXp1YklHbkNzckNrMA?oc=5": 1792677054.5838678
  },
  "queue": [
   {
@@ -2598,20 +2600,32 @@
    "val": 3,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "Nepal condemns attack after a Nepali citizen killed in Saudi oilfield incident",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1jSXdfRTUxWEx1Yi1kMDg5SUxZYUZ1X2NnZGFVaGh4M3BHQVRsaUkxTGJ4NVhvUmdMUVJWSjhMNVBJRjlJOGhnbndnNXp1YklHbkNzckNrMA?oc=5",
+   "source": "The Annapurna Express",
+   "ts": 1792671256,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "Nepal condemns attack after a Nepali citizen killed in Saudi oilfield incident",
+   "en": "Nepal condemns attack after a Nepali citizen killed in Saudi oilfield incident",
+   "ne": "Nepal condemns attack after a Nepali citizen killed in Saudi oilfield incident",
+   "imp": 4,
+   "tags": [
+    "Nepal",
+    "SaudiArabia",
+    "ForeignAffairs"
+   ],
+   "cat": "world",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1792071685.8821187,
-   "en": "Unidentified body of man found in Kathmandu's Ranipokhari",
-   "ne": "Unidentified body of man found in Kathmandu's Ranipokhari",
-   "link": "https://english.onlinekhabar.com/body-found-in-ranipokhari.html",
-   "source": "Onlinekhabar EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "crime"
-  },
   {
    "ts": 1792073474.107274,
    "en": "तमु प्ये ल्हु संघ यूकेद्वारा बाढीपीडितलाई २६ लाख ५० हजार सहयोग",
@@ -5583,7 +5597,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1792676557,
+ "updated": 1792677086,
  "pending_since": 1792676459.3704474,
  "fb_blocks": [
   1790350880.4125228,
