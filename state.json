@@ -911,7 +911,13 @@
   "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeHJmdlA2d0NRZjdudS16Y1lrOEZSRkdWbU5ydHUtaHo5ZTloZDVyTXNweklhRmFLdVY1OEY0WklpNXJvaFRaWmRlNFlRLXcyZGhzeGRmQ05MRldOQ3JFRjJVX3pQMUtieFZ6YkdFLW5mQmdlWXVBbkItcWJJaTc0ZHo5MG1uNGxFMFVTb2NkRlp3ZU1jTHlsY29FaFBHcFBQMmVxb2F5RlRsYjNOSndmLWJCRk15Si12enc?oc=5": 1792708849.6108243,
   "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMlh4RUZyMnFyWGpPTUROZEVETFFUSHNZMnc2c25LaDdfZVZfdXloMGdGSklvTWNodDdOQjB3MGZMcDhoSkhoY2llc0JwWTJwZ2ROVlQ0UVRYaWU1bXd6NS1ITzF2dlgyNnVLaktVODQtVzVOSXpXY05QUXh4dkVqUldmS0cxTTJEVkdfRXlWOA?oc=5": 1792708849.6108243,
   "https://news.google.com/rss/articles/CBMiS0FVX3lxTE52ekVVQXR6b0lqTDNfenRuNFFacnpDMDBFUzE2NHhCRnViMlRVN211M2JmQXprQ0Nqa1ppTW1JZnZDbU52NGIxNXRBWQ?oc=5": 1792709448.813927,
-  "https://baahrakhari.com/detail/505485": 1792713046.1925144
+  "https://baahrakhari.com/detail/505485": 1792713046.1925144,
+  "http://lokaantar.com/story/331750/2026/10/22/tan-": 1792713487.1736515,
+  "https://baahrakhari.com/detail/505486": 1792713487.1736515,
+  "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObXg4ZnNXbnNjRzdOa1d1aE9oeElEdnphVWtvdGxqZEl2b0ZoTjdraDFpdlpZRlg2aTFVQ1JSRnluRDRHREh6d1V4TFBnZzdoUkpBR2YtN3NaTWRyTG9uSEVJZzNiZ1JmUDZIVUhwb0dPQjRaNDRFWkJpMDNIZDNXNjFrNURlTE9VT2pxejM5ZnJ4MUFfSGRCcllucm9Qb1l1STJHVkhobEpsOHZELXdNRGpEWU5LMk9qaDJDbnlrYWg1UEpfbWk5anJUM3RQRlZ5Y0E?oc=5": 1792713487.1736515,
+  "http://lokaantar.com/story/331748/2026/10/22/rabi-kamichhane-": 1792713487.1736515,
+  "http://lokaantar.com/story/331751/2026/10/22/matrika-": 1792713487.1736515,
+  "http://lokaantar.com/story/331749/2026/10/22/ebola-": 1792713487.1736515
  },
  "queue": [
   {
@@ -938,27 +944,6 @@
    "hits": 1
   },
   {
-   "title": "Today's News in a Nutshell",
-   "summary": "KATHMANDU: Khabarhub brings you a glimpse of major developments of the day in Nepal, including politics, business/economy, sports, entertainment, and more. Nepal steps up preparations for COP31 climate summit Nepal has...",
-   "link": "https://english.khabarhub.com/2026/22/572824/",
-   "source": "Khabarhub EN",
-   "ts": 1792684497,
-   "weight": 2,
-   "img": "https://english.khabarhub.com/wp-content/uploads/2024/05/News-Nutshell-640x360.jpg",
-   "lang": "en",
-   "hl": "Today's News in a Nutshell",
-   "en": "Today's News in a Nutshell",
-   "ne": "Today's News in a Nutshell",
-   "imp": 1,
-   "tags": [
-    "NewsSummary"
-   ],
-   "cat": "other",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
-  },
-  {
    "title": "WHO Warns of Complex Outbreak as Ebola Confirmed in Nigeria",
    "summary": "Kathmandu. Africa faces a more complex outbreak as Ebola virus infection has been confirmed in Nigeria, warned World Health Organization...",
    "link": "http://english.ratopati.com/story/84303/ebola-spreading-in-africa",
@@ -980,7 +965,7 @@
    "cat": "health",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "How Shraddha kept ahead of police after Nepal return | Hindustan Times",
@@ -1027,20 +1012,104 @@
    "val": 3,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "मनास्लु लार्केपास पदयात्रा खुला, सतर्कता अपनाएर यात्रा गर्न आग्रह",
+   "summary": "",
+   "link": "https://baahrakhari.com/detail/505486",
+   "source": "Baahrakhari",
+   "ts": 1792713327,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "मनास्लु लार्केपास पदयात्रा खुला, सतर्कता अपनाएर यात्रा गर्न आग्रह",
+   "en": "मनास्लु लार्केपास पदयात्रा खुला, सतर्कता अपनाएर यात्रा गर्न आग्रह",
+   "ne": "मनास्लु लार्केपास पदयात्रा खुला, सतर्कता अपनाएर यात्रा गर्न आग्रह",
+   "imp": 2,
+   "tags": [
+    "Manaslu",
+    "LarkePass",
+    "Trekking",
+    "मनास्लु"
+   ],
+   "cat": "society",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "The Fund for responding to Loss and Damage provisionally sets aside USD 21.6 million for Nepal",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObXg4ZnNXbnNjRzdOa1d1aE9oeElEdnphVWtvdGxqZEl2b0ZoTjdraDFpdlpZRlg2aTFVQ1JSRnluRDRHREh6d1V4TFBnZzdoUkpBR2YtN3NaTWRyTG9uSEVJZzNiZ1JmUDZIVUhwb0dPQjRaNDRFWkJpMDNIZDNXNjFrNURlTE9VT2pxejM5ZnJ4MUFfSGRCcllucm9Qb1l1STJHVkhobEpsOHZELXdNRGpEWU5LMk9qaDJDbnlrYWg1UEpfbWk5anJUM3RQRlZ5Y0E?oc=5",
+   "source": "EIN News",
+   "ts": 1792701120,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "The Fund for responding to Loss and Damage provisionally sets aside USD 21.6 million for Nepal",
+   "en": "The Fund for responding to Loss and Damage provisionally sets aside USD 21.6 million for Nepal",
+   "ne": "The Fund for responding to Loss and Damage provisionally sets aside USD 21.6 million for Nepal",
+   "imp": 3,
+   "tags": [
+    "LossAndDamage",
+    "ClimateChange",
+    "Nepal"
+   ],
+   "cat": "economy",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "रास्वपा सभापति रवि लामिछाने भारत भ्रमणमा",
+   "summary": "राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का सभापति रवि लामिछाने तीन दिने निजी तथा पारिवारिक तीर्थाटनका लागि शुक्रबार भारत जाने भएका छन् ।रास्वपाको सभापति लामिछानेको निजी सचिवालयले बिहीबार प्रेस विज्ञप्ति जारी गर्दै उनी...",
+   "link": "http://lokaantar.com/story/331748/2026/10/22/rabi-kamichhane-",
+   "source": "Lokaantar",
+   "ts": 1792699087.8801823,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "रास्वपा सभापति रवि लामिछाने भारत भ्रमणमा",
+   "en": "रास्वपा सभापति रवि लामिछाने भारत भ्रमणमा",
+   "ne": "रास्वपा सभापति रवि लामिछाने भारत भ्रमणमा",
+   "imp": 3,
+   "tags": [
+    "RabiLamichhane",
+    "RSP",
+    "India",
+    "रविलामिछाने"
+   ],
+   "cat": "politics",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "पाटनको ३६२ वर्ष पुरानो अष्टमातृका नाच सम्पन्न",
+   "summary": "ललितपुर, ५ कात्तिक । ललितपुरको पाटनमा परम्परागत तान्त्रिक विधि र धार्मिक आस्थाका साथ मनाइने ऐतिहासिक अष्टमातृका नाच (गँः प्याखँ) सम्पन्न भएको छ ।हरेक वर्ष घटस्थापनादेखि ११ दिनसम्म सञ्चालन हुने यो जात्रा यस वर्ष पनि...",
+   "link": "http://lokaantar.com/story/331751/2026/10/22/matrika-",
+   "source": "Lokaantar",
+   "ts": 1792699087.8801823,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "पाटनको ३६२ वर्ष पुरानो अष्टमातृका नाच सम्पन्न",
+   "en": "पाटनको ३६२ वर्ष पुरानो अष्टमातृका नाच सम्पन्न",
+   "ne": "पाटनको ३६२ वर्ष पुरानो अष्टमातृका नाच सम्पन्न",
+   "imp": 2,
+   "tags": [
+    "Patan",
+    "AshtaMatrika",
+    "Culture",
+    "अष्टमातृका"
+   ],
+   "cat": "culture",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1792108258.6080575,
-   "en": "CCTV footage hints Shraddha Dubey may be in Nepal in Shiva Sharma murder case",
-   "ne": "CCTV footage hints Shraddha Dubey may be in Nepal in Shiva Sharma murder case",
-   "link": "https://www.indiatoday.in/india/story/shiva-sharma-murder-case-cctv-footage-suggests-shraddha-dubey-may-be-hiding-in-nepal-3018454-2026-10-16",
-   "source": "India Today",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "crime"
-  },
   {
    "ts": 1792110061.3570075,
    "en": "USAID's Destruction Left Nepal Dangerously Exposed",
@@ -4001,8 +4070,8 @@
    "cat": "politics"
   }
  ],
- "updated": 1792713082,
- "pending_since": 1792711250.9745753,
+ "updated": 1792713511,
+ "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
