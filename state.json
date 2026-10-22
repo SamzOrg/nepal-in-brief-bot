@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://theannapurnaexpress.com/story/68101": 1792494087.0642903,
-  "http://lokaantar.com/story/331660/2026/10/20/accident-": 1792494087.0642903,
   "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSjZFRXM1WU1QbnRNYW9hVUFKWDFqcTRoRGhGT3JOYUxCOWQ4VlBPTW1wVUZEcEVSZURQeXpvN3VuSlNITE9fdFZNUU5BR3EwXzBNUWJqOGVUbmFDdnM0TVVmdFBuMlJWUS1JMUZHNF8weWRjMG1xRUtvMklRQk1od2gwdUgxdFlXdmk4T0ZkQnk4UDFNUXBYclZDWGFqV25rS2tyUmc0U05fTW94VWp6N25YNU9xaER6QUJZZUZSbG1xbjhKSmUxSVhsU3d3WUtaUjFEWE9B0gHbAUFVX3lxTE9ISHZSV3c2dk9ZM0JCWE4xQm83Y0kyby14bzg1am96ZW9Cb1FOVGhaTjlIUGhTWmxKdTNWSlpVWnVMaTRUSUx4MDAxZWdqa2RPcnA0RnA4T3FCY1hxQlBqZEw0VGN1SkRaZ0JOUks1SmtKT056MW1rRDFGRHBWTGc3MGIxTWlKQ3k5a1AwMm1MemJlaEdKTUVtWGJyM2wxN1dpb0ZfTkxNa09KMlNQOEVFTi10ZkpCNUZ1WFBHSWV2a0VFVEMzemRReXpTRDJhOEtjankwdkFaUkdJNA?oc=5": 1792494650.8998895,
   "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ZZEdaSjdFM3FzUm9QM3B2a0FkaUNNSG5NRWJzUU95QVNWUGx3eFJUbjhYQXNpUHN1VDdPT3BWWkJzVndESGZlZUxGNVV3NU5sQ1RVdDIzVmZyOF9OYXVndXc0QXZxUQ?oc=5": 1792494650.8998895,
   "https://news.google.com/rss/articles/CBMiygFBVV95cUxNME1CWFBIWnN3WWF4UllaMnltdGxiTWVhbl9QbjVaME1Wc2RydE82TnhoUkVBSjJlNE5rZVhRT1l5YjdaRWdMRXk2NUxLTDdEeWRpWDJPMk1kb3lDbUh6Z29PSEZCanlrakpxV0t0cWFqQTdhV0VoaGpuMGlIT2JKYXE3eG15R1B2WkM5TnQ0ZlZLdEh6dk9kTTlQSkFneS1BOWU4Y0lSVl9ZR1JHc0tuUTA1U2liTkd3Y2V3bi0tb01vWGpRaDhoeHZn0gHXAUFVX3lxTFBHRU1iSVhNaEdLV3l1bk5aWkx0WkI4bFB3aDJjSHBvYkNXZTRqN2pWN2Y3NEZFRUdhRnJsYU44UmtxREg3ZTkzUzk5VVBxQnFnUUQ2ekNOZ2JULWdWMWtkZWk4TENzY2UtbWxCcE5CQVhVZDNRbmxWbG02WUt1ZTVLRHhWOEpiX2VUeklRZVB5eFdDVVd6TEptZVZUcUY0b3NuWC02OFl2UzdwcFZhdzVTd1VMWXVKbU5fYzVINjRNazFydE9EVlJMTHdDVjNtVTIzNzk0STFF?oc=5": 1792495255.0196443,
@@ -876,29 +874,6 @@
  },
  "queue": [
   {
-   "title": "PHP Security Vulnerabilities Put Websites at High Risk",
-   "summary": "Kathmandu. With two serious security vulnerabilities found in the 'open-source' programming language 'PHP', used to operate millions of websites worldwide,...",
-   "link": "http://english.ratopati.com/story/84277/websites-around-the-world-at-risk-after-serious-security-flaw-in-php-discovered-advises-immediate-update",
-   "source": "Ratopati EN",
-   "ts": 1792638011,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/ai-server_8ZSB4VCVHE.webp",
-   "lang": "en",
-   "hl": "PHP Security Vulnerabilities Put Websites at High Risk",
-   "en": "PHP Security Vulnerabilities Put Websites at High Risk",
-   "ne": "PHP Security Vulnerabilities Put Websites at High Risk",
-   "imp": 1,
-   "tags": [
-    "PHPSecurity",
-    "CyberSecurity",
-    "Vulnerabilities"
-   ],
-   "cat": "tech",
-   "val": 2,
-   "teaser": false,
-   "hits": 2
-  },
-  {
    "title": "NSA and FBI Warn of Critical PHP Security Vulnerabilities",
    "summary": "Kathmandu. The US National Security Agency (NSA) and the Federal Bureau of Investigation (FBI) have warned of two critical security...",
    "link": "http://english.ratopati.com/story/84280/us-agency-warns-of-two-serious-cybersecurity-flaws-in-php",
@@ -1716,30 +1691,6 @@
     "GlobalBrand"
    ],
    "cat": "tech",
-   "val": 3,
-   "teaser": false,
-   "hits": 4
-  },
-  {
-   "title": "Floods, landslides disrupt various roadways in Gandaki, Karnali",
-   "summary": "Various roadways in Gandaki and Karnali provinces have been disrupted by floods and landslides.According to the Nepal Police, the Beni-Jomsom road section is currently operating on a one-way basis following a landslide...",
-   "link": "https://theannapurnaexpress.com/story/68140",
-   "source": "Annapurna Express",
-   "ts": 1792638092.45207,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Floods, landslides disrupt various roadways in Gandaki, Karnali",
-   "en": "Floods, landslides disrupt various roadways in Gandaki, Karnali",
-   "ne": "Floods, landslides disrupt various roadways in Gandaki, Karnali",
-   "imp": 3,
-   "tags": [
-    "Floods",
-    "Landslides",
-    "Gandaki",
-    "Karnali"
-   ],
-   "cat": "disaster",
    "val": 3,
    "teaser": false,
    "hits": 4
@@ -5487,7 +5438,7 @@
    "cat": "society"
   }
  ],
- "updated": 1792666294,
+ "updated": 1792666897,
  "pending_since": 1792665659.7234578,
  "fb_blocks": [
   1790350880.4125228,
