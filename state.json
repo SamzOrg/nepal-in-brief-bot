@@ -976,7 +976,10 @@
   "https://nagariknews.nagariknetwork.com/social-affairs/many-areas-of-nepal-may-experience-rainfall-for-more-than-a-week-from-next-tuesday-meteorologist-50-51.html": 1792633251.26545,
   "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9DMHREWjRKR0tRQ09VODA5T1huMV9mT2FDSzdLZXVCNElxZ3NVVzRZcHJJOHZOcHZkZXlqVGlock1fS1BPMDFkemFaOGRrWEZ3cDRSdmVaU2M?oc=5": 1792633852.4246626,
   "https://baahrakhari.com/detail/505441": 1792633852.4246626,
-  "https://news.google.com/rss/articles/CBMirAFBVV95cUxOb3BkcEVhSC11djRkZ21TdFhVZC1Kd0lUOUtUczk3V2U3Tjc1NTJzZkxvd3JDUGJvVTNCaUhJWXViemlfWk80UEZoMW9BVjY2OHNHdW1GUUVDX0RzOWlQVUhlNExoZjVSYVF1anlHeGZqVVkyaEl0cWlwU243LVNXUkc1UUhNRzdUYVMyU3BxZk9BeXVtM2ozb0hoYXZOcmwxeTZBY0RlUDBvZ2Iy?oc=5": 1792634487.9715276
+  "https://news.google.com/rss/articles/CBMirAFBVV95cUxOb3BkcEVhSC11djRkZ21TdFhVZC1Kd0lUOUtUczk3V2U3Tjc1NTJzZkxvd3JDUGJvVTNCaUhJWXViemlfWk80UEZoMW9BVjY2OHNHdW1GUUVDX0RzOWlQVUhlNExoZjVSYVF1anlHeGZqVVkyaEl0cWlwU243LVNXUkc1UUhNRzdUYVMyU3BxZk9BeXVtM2ozb0hoYXZOcmwxeTZBY0RlUDBvZ2Iy?oc=5": 1792634487.9715276,
+  "https://news.google.com/rss/articles/CBMiU0FVX3lxTE90VG1ZNk1XWTJ1VW54anpKZkNJYVRLSlZsazRua3JhalFfZ0lONWt5RFdQbmJwcmFlZFRRRVVKSU9JOHEtRWp2TVN0R2xFc093TUtv?oc=5": 1792635050.798949,
+  "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQUlaTDEwQ1JqNlhJWXhkOTNhQTMtLVhPOGRPQzI3NGJLd3BlajhXMTRLRlF5SUZ4NDB4NUtTLTEydDNSdW5FeGluY0VObE9Sa1NIUGxwV0cxZXViSHFoc1psSEdFcHZVMWhqNkpEM0JoZUhHNVJDUHhoQmx6VmdyVlRiVQ?oc=5": 1792635050.798949,
+  "https://kathmandupost.com/climate-environment/2026/10/22/after-nepal-s-recent-disaster-it-wants-to-test-whether-cop31-can-deliver-climate-justice": 1792635050.798949
  },
  "queue": [
   {
@@ -1303,29 +1306,6 @@
    "hits": 2
   },
   {
-   "title": "Even on Dashain, some Nepalis leave their families behind in search of a better future abroad",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVVRMeVFTMWczR091V1otLTR6MGFpMl9pZEsyT0RSVFVIQlBtS0RMQkpLWmpVdlN6SFp3UVZCenl5SFRjUW5BMmVjVElheWFULWpyUGxMRUVtdUhhS0tJVmh5TGI3LUdQRVNucnpLSWp2dWZfLUVzYV9LZDNYODBIdzBkOWFjV0VsWUtlWUlEMGRrNWFQejBMVHNCaGlId1JZY1RTS2xwRGpuYVVMREVlMVVaaHVkc0xsMUE?oc=5",
-   "source": "Asia News Network",
-   "ts": 1792632558,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Even on Dashain, some Nepalis leave their families behind in search of a better future abroad",
-   "en": "Even on Dashain, some Nepalis leave their families behind in search of a better future abroad",
-   "ne": "Even on Dashain, some Nepalis leave their families behind in search of a better future abroad",
-   "imp": 3,
-   "tags": [
-    "Dashain",
-    "ForeignEmployment",
-    "परिवार"
-   ],
-   "cat": "society",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "US Orders Non-Essential Staff Departure from Saudi Arabia Amid Houthi Attacks",
    "summary": "Kathmandu. As Yemen's Iran-backed Houthi rebels intensify attacks on Saudi Arabia, the United States has ordered non-essential staff and their...",
    "link": "http://english.ratopati.com/story/84272/us-embassy-staff-being-evacuated-from-saudi-arabia-after-attacks-on-airports-and-infrastructure-increase",
@@ -1508,43 +1488,9 @@
    "val": 1,
    "teaser": true,
    "hits": 1
-  },
-  {
-   "title": "आगामी मंगलबारदेखि एक साता बढी नेपालका धेरै क्षेत्रमा वर्षा हुन सक्छ : मौसमविद्",
-   "summary": "मौसमविद् विनोद पराजुलीले आगामी साता बंगालको खाडीबाट विकसित हुने न्यूनचापीय प्रणालीको प्रभावले नेपालका धेरै क्षेत्रमा वर्षा हुन सक्ने भन्दै सतर्क रहन आग्रह गरेका छन्।...",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/many-areas-of-nepal-may-experience-rainfall-for-more-than-a-week-from-next-tuesday-meteorologist-50-51.html",
-   "source": "Nagarik News",
-   "ts": 1792630049,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1792630023_mappp.jpg",
-   "lang": "ne",
-   "hl": "आगामी मंगलबारदेखि एक साता बढी नेपालका धेरै क्षेत्रमा वर्षा हुन सक्छ : मौसमविद्",
-   "en": "आगामी मंगलबारदेखि एक साता बढी नेपालका धेरै क्षेत्रमा वर्षा हुन सक्छ : मौसमविद्",
-   "ne": "आगामी मंगलबारदेखि एक साता बढी नेपालका धेरै क्षेत्रमा वर्षा हुन सक्छ : मौसमविद्",
-   "imp": 4,
-   "tags": [
-    "Monsoon",
-    "Rain",
-    "मौसम"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1792029695.429254,
-   "en": "जाजरकोटमा बोलेरो जिप दुर्घटना हुँदा दुई जनाको मृत्यु, तीन घाइते",
-   "ne": "जाजरकोटमा बोलेरो जिप दुर्घटना हुँदा दुई जनाको मृत्यु, तीन घाइते",
-   "link": "https://gorkhapatraonline.com/news/226745",
-   "source": "Gorkhapatra",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": true,
-   "cat": "disaster"
-  },
   {
    "ts": 1792030856.9906578,
    "en": "पर्वतको जलजलामा बाढीले घर बगाएपछि फर्सेका बासिन्दालाई दसैंको रौनक छैन",
@@ -4536,9 +4482,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "world"
+  },
+  {
+   "ts": 1792635071.516373,
+   "en": "आगामी मंगलबारदेखि एक साता नेपालका धेरै क्षेत्रमा वर्षा हुन सक्ने",
+   "ne": "आगामी मंगलबारदेखि एक साता नेपालका धेरै क्षेत्रमा वर्षा हुन सक्ने",
+   "link": "https://nagariknews.nagariknetwork.com/social-affairs/many-areas-of-nepal-may-experience-rainfall-for-more-than-a-week-from-next-tuesday-meteorologist-50-51.html",
+   "source": "Nagarik News",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "disaster"
   }
  ],
- "updated": 1792634509,
+ "updated": 1792635085,
  "pending_since": 1792633852.4246626,
  "fb_blocks": [
   1790350880.4125228,
