@@ -978,7 +978,10 @@
   "https://news.google.com/rss/articles/CBMixAFBVV95cUxQV3ZJc1h3Q25UM1lYSWNTOGVpUGFjSF92UXY3aVJWdldVVTkwTGlPLTRDT3NiSzhmdnRzY0p5a0Nqa2JVQkJkSjZWQkp5a1dqMTNFaDlfa1RPR01EREhMYzNzUlRwLWxIa2ZJQVMxX3NDc0VMRXdxYXdDMV9QTGE3aHdsSUVJcXF3N1IxTE9CcG03UFhQTmFzWTZRU2w1WlZYM09wS3F6MUhuVmEwb3FsaEt5aVNTSmdNZ0h4Ykh4S3VPQUx4?oc=5": 1792636849.4555035,
   "http://english.ratopati.com/story/84276/nepal-india-a-series-date-to-be-changed-due-to-world-cup-qualifier-play-offs": 1792637452.6229239,
   "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUEc2dndRdGJVM25KdUhzMnZmeEd4UVRuazJTR0dsbkVhXzdtemNmSlo0RUxaMFJiYkd1RURrcjBZSng4MHlKZVkyUldBTHllbmR6OFFLRndkbk8yOTFoOEY5RTBEUGM1QncyWTFvakJyTWkxaTNOZGJwYW5HbjlJMEJtM0hoQm5LUTVqSFBvZ0xzTjNJbm5TTUxzMS1yTDVwNVhKeFhXeGtaa2dXWHZObEp6cll4SF9FdlFTTA?oc=5": 1792637452.6229239,
-  "https://theannapurnaexpress.com/story/68135": 1792637452.6229239
+  "https://theannapurnaexpress.com/story/68135": 1792637452.6229239,
+  "https://baahrakhari.com/detail/505444": 1792638087.4294488,
+  "https://kathmandupost.com/cricket/2026/10/22/icc-recognises-nepal-premier-league-matches-as-list-a-t20-fixtures": 1792638087.4294488,
+  "http://lokaantar.com/story/331716/2026/10/22/icc-mens-cwc-qualifier": 1792638087.4294488
  },
  "queue": [
   {
@@ -1652,17 +1655,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1792032658.575657,
-   "en": "Nepal food inflation hits 6.77% in mid-August, squeezing budgets before Dashain",
-   "ne": "Nepal food inflation hits 6.77% in mid-August, squeezing budgets before Dashain",
-   "link": "https://kathmandupost.com/money/2026/10/15/essential-food-prices-surge-ahead-of-dashain-squeezing-household-budgets",
-   "source": "Kathmandu Post",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "economy"
-  },
   {
    "ts": 1792034451.8039339,
    "en": "Ministry of Finance Highlights Economic Pressures, Projects Lower Growth",
@@ -4656,7 +4648,7 @@
    "cat": "sports"
   }
  ],
- "updated": 1792637474,
+ "updated": 1792638105,
  "pending_since": 1792636849.4555035,
  "fb_blocks": [
   1790350880.4125228,
