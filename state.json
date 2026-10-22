@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://baahrakhari.com/detail/505373": 1792488671.5714202,
   "https://news.google.com/rss/articles/CBMiigJBVV95cUxNMU53SGxwVkt3Y05xRV9YRHBmd2pmNGNLb1JleHAyd1BpcVJzbWpwak1qbFZPd0NMU1IzX1NMaE42dHNiX1d3bDU4dXF3d3FjZzJTbHdROC1CcDJ6c093X3NsNDBLS0hidVRqVjFJZ1M5WTlzNVI1U3BVeTB1NVpOb29QS0dYSGlEVnRZcU9Gb21sMkZKdU9qcnd5STFDVDgwVFA3bVpWLUlocVp5MVB0Vll6cUNLZU1NTW53cXRycHRNZ1NDMnJFX0JLZENLOFlIc3N0VlItSGFJa0V4SzQ0VVlhTV9lXzVIdkpEZlR1aXc5Nk1WaTdkbDBaUzhld0tHMXExT002SndiZw?oc=5": 1792489254.792187,
   "https://news.google.com/rss/articles/CBMiygFBVV95cUxNenlvREEzZTAtN2FLZXo1dkk5a3FvOFhSdEVfR0ZobjJHMFRUa3hCZ0g2VmdIMV95MFUxOU03TUdSaEROcDByWXhESEhfSnpmU3BhakVZRFRNSXhjcUJzdkwyVDRLdTJwalFSLXVDeG5XcHVTblhaSEc0T21nTURHVU1CUUI5LVVHbElxZU9RdFI1LVZlbHhsT0dRN09JOFhvSWFzb2pWcWNhYWF3WHgwUVVQbHR6bENuQk5JQVJvV3hpWV9TUF81M0Z30gHPAUFVX3lxTE4yUDF1TzNpSDBXY3NNaHZTOUxIcTNSZ3Nrc1Rrcmwtd3BvRldWOHprZ05fa1JocG1RNm1Yc2xQamZRSlpyZFNRRXNhZWZCbTIxNUhWazdBUGVfeHFvOThaSm11al9la2pOMXV2WFltQmNFTFZQRHloNUNERzVoVjd1enNJcTA3VTNLejh6amJNbjkyQll0R2x2Wm0xSDE3UEQ2a0F2ek56N0xQN2c4MndFRUJaLUtyWi1GVVpoWlpEQy1uWjkwaGVfYjA2VUNnSQ?oc=5": 1792489254.792187,
   "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWXhEcGtXSFdZdUZoTGczdzhvcENGaHlXWU9QbHF1cWpEM05DV1JkTHd4WnN1UlJYSzVoZE96ZnYwQkVlYnpVd3NrT1lPU2o0cDZMbTJ2RGNJVER3RnFNNkJrNDhsMm5BMHNGMUlISFQ2ZUpRNDkybzk4Tk5tM1MtUk5EcVpLSWFnQnRoZmx3Z3o3c3lSTE9ndm5OVDhKUTZuQkRXRWZwTTFGQzdt?oc=5": 1792489254.792187,
@@ -1692,29 +1691,6 @@
     "PeaceDeal"
    ],
    "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "आगामी तीन दिन अधिकांश स्थानमा मौसम सफा रहने",
-   "summary": "देशमा पश्चिमी वायुको आंशिक प्रभाव रहे पनि आगामी तीन दिन देशका अधिकांश स्थानमा मौसम मुख्यतया सफा रहने भएको छ । मौसम पूर्वानुमान महाशाखाका अनुसार बिहीबार देशको हिमाली र पहाडी भू-भागमा आंशिक बदली रहनेछ भने तराईका भू-भागमा...",
-   "link": "http://lokaantar.com/story/331722/2026/10/22/weather-",
-   "source": "Lokaantar",
-   "ts": 1792632669.4078848,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "आगामी तीन दिन अधिकांश स्थानमा मौसम सफा रहने",
-   "en": "आगामी तीन दिन अधिकांश स्थानमा मौसम सफा रहने",
-   "ne": "आगामी तीन दिन अधिकांश स्थानमा मौसम सफा रहने",
-   "imp": 2,
-   "tags": [
-    "Weather",
-    "Forecast",
-    "मौसम"
-   ],
-   "cat": "society",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -5468,7 +5444,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1792660886,
+ "updated": 1792661495,
  "pending_since": 1792660254.8130248,
  "fb_blocks": [
   1790350880.4125228,
