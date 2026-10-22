@@ -1,6 +1,5 @@
 {
  "seen": {
-  "http://lokaantar.com/story/331636/2026/10/20/road-": 1792464048.1696107,
   "https://english.khabarhub.com/2026/20/572663/": 1792464648.800454,
   "https://www.setopati.com/social/401121": 1792464648.800454,
   "https://baahrakhari.com/detail/505347": 1792464648.800454,
@@ -986,7 +985,9 @@
   "http://lokaantar.com/story/331714/2026/10/22/kath-": 1792636270.3679059,
   "https://baahrakhari.com/detail/505442": 1792636270.3679059,
   "http://english.ratopati.com/story/84273/they-think-that-a-dalits-daughter-was-made-a-minister-out-of-mercy-but-this-is-not-mercy-it-is-the-right-of-years-of-blood-and-sweat": 1792636270.3679059,
-  "http://lokaantar.com/story/331712/2026/10/22/npl-icc-can-": 1792636270.3679059
+  "http://lokaantar.com/story/331712/2026/10/22/npl-icc-can-": 1792636270.3679059,
+  "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZVRKMnI0TFhscXFhWThNQ3gybkQ0cWVoSTZZcWFYVktrMWR2S0NFZ1VVbV92SHNpVElBMXNDdG13WFMzUktnMVlDcUpKMTlXeU1HLWZOVlFiMHViZzhQcmpFTTNMYzRHNkptU0NxM1JkY2owNmZxY21FVVhKMm1MTWloU3oyZGNJaWxpTU5PZWJZWTF6S3kwQ1d2aVZxRnBrUWRxTWxWaks?oc=5": 1792636849.4555035,
+  "https://news.google.com/rss/articles/CBMixAFBVV95cUxQV3ZJc1h3Q25UM1lYSWNTOGVpUGFjSF92UXY3aVJWdldVVTkwTGlPLTRDT3NiSzhmdnRzY0p5a0Nqa2JVQkJkSjZWQkp5a1dqMTNFaDlfa1RPR01EREhMYzNzUlRwLWxIa2ZJQVMxX3NDc0VMRXdxYXdDMV9QTGE3aHdsSUVJcXF3N1IxTE9CcG03UFhQTmFzWTZRU2w1WlZYM09wS3F6MUhuVmEwb3FsaEt5aVNTSmdNZ0h4Ykh4S3VPQUx4?oc=5": 1792636849.4555035
  },
  "queue": [
   {
@@ -1563,29 +1564,6 @@
    ],
    "cat": "disaster",
    "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Nepal placed in Group 'A' of ICC U-19 Women's T20 World Cup",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcU5ScXg2WURIc2hTY0pWMkR2UWFTdHpfYmNHdzRNWGxfN0JRbDAwYmR0SGVnckl6TnZ3QUJyMmJQT0wzdEZGUkx3Qnd5aVRLcU1iRXFPZzNreXI3bzh6MzlMNkdJLXk0eWdoOGlTSVRtdml1NWVuT0VQdWZ0NHI2VmhxOGkzNzhyZndwMEh0NWxwNjZzeEY5SXZCR2JiUWQ3aFNsMDZ3T3VaUjJBQUd5eQ?oc=5",
-   "source": "myRepublica",
-   "ts": 1792634811,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Nepal placed in Group 'A' of ICC U-19 Women's T20 World Cup",
-   "en": "Nepal placed in Group 'A' of ICC U-19 Women's T20 World Cup",
-   "ne": "Nepal placed in Group 'A' of ICC U-19 Women's T20 World Cup",
-   "imp": 4,
-   "tags": [
-    "ICCU19",
-    "WomensCricket",
-    "Nepal"
-   ],
-   "cat": "sports",
-   "val": 3,
    "teaser": false,
    "hits": 1
   },
@@ -4674,10 +4652,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "disaster"
+  },
+  {
+   "ts": 1792636872.9883325,
+   "en": "Nepal placed in Group A of ICC U-19 Women's T20 World Cup, to co-host 15 matches",
+   "ne": "Nepal placed in Group A of ICC U-19 Women's T20 World Cup, to co-host 15 matches",
+   "link": "https://myrepublica.nagariknetwork.com/news/nepal-placed-in-group-a-of-icc-u-19-womens-t20-world-cup-47-34.html",
+   "source": "myRepublica",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "sports"
   }
  ],
- "updated": 1792636290,
- "pending_since": null,
+ "updated": 1792636886,
+ "pending_since": 1792636849.4555035,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
