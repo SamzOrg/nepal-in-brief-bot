@@ -1,7 +1,5 @@
 {
  "seen": {
-  "http://lokaantar.com/story/331634/2026/10/20/taleju-": 1792461048.9066281,
-  "https://nagariknews.nagariknetwork.com/international/french-pm-calls-for-local-curfew-as-violent-protests-escalate-71-40.html": 1792461048.9066281,
   "https://baahrakhari.com/detail/505345": 1792461682.9723883,
   "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNdEI0NlR4VGxORGZZN1A0Y2pyQ3VSOXIxclA5eFI2Z01qdUNUN2pCS1gxT3JXWDNLdVFrMm9LdjZwU20xanVrclZ6NFBkdV9TMnBnd1dVVXIyUzZpM1ZkLU1SZ2ZEc19FV2Y5aTNRR0hoYmotSzR0WHl1aHYzd3JZOVBKQ2IyQk9IUDB1eVpla2V2VHU4OWhpam5OU0s5N1NnaEZjVGZ4aW04MXU0NV9CNUp2NE5iamtWT09EQjNzNmtQSndDcFU5R3FzT3VTTTEyNE1UWUtCcDlxeWNkY25xcnlvOE1TTHh1cnZXRDRQLUVBNmZG0gH0AUFVX3lxTE10QjQ2VHhUbE5EZlk3UDRjanJDdVI5cjFyUDl4UjZnTWp1Q1Q3akJLWDFPcldYM0t1UWsyb0t2NnBTbTFqdWtyVno0UGR1X1MycGd3V1VVcjJTNmkzVmQtTVJnZkRzX0VXZjlpM1FHSGhiai1LNHRYeXVodjN3clk5UEpDYjJCT0hQMHV5WmVrZXZUdTg5aGlqbk5TSzk3U2doRmNUZnhpbTgxdTQ1X0I1SnY0TmJqa1ZPT0RCM3M2a1BKd0NwVTlHcXNPdVNNMTI0TVRZS0JwOXF5Y2RjbnFyeW84TVNMeHVydldENFAtRUE2ZkY?oc=5": 1792461682.9723883,
   "https://www.setopati.com/social/401120": 1792461682.9723883,
@@ -982,7 +980,9 @@
   "http://lokaantar.com/story/331709/2026/10/22/us-orders-diplomats-to-depart-saudi-arabia-": 1792633251.26545,
   "https://nagariknews.nagariknetwork.com/sports/nepal-in-group-a-at-u-19-women-s-world-cup-74-95.html": 1792633251.26545,
   "https://nagariknews.nagariknetwork.com/Dharma-Saskriti/second-day-of-tika-blessings-from-respected-people-continue-br-90-23.html": 1792633251.26545,
-  "https://nagariknews.nagariknetwork.com/social-affairs/many-areas-of-nepal-may-experience-rainfall-for-more-than-a-week-from-next-tuesday-meteorologist-50-51.html": 1792633251.26545
+  "https://nagariknews.nagariknetwork.com/social-affairs/many-areas-of-nepal-may-experience-rainfall-for-more-than-a-week-from-next-tuesday-meteorologist-50-51.html": 1792633251.26545,
+  "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9DMHREWjRKR0tRQ09VODA5T1huMV9mT2FDSzdLZXVCNElxZ3NVVzRZcHJJOHZOcHZkZXlqVGlock1fS1BPMDFkemFaOGRrWEZ3cDRSdmVaU2M?oc=5": 1792633852.4246626,
+  "https://baahrakhari.com/detail/505441": 1792633852.4246626
  },
  "queue": [
   {
@@ -1306,7 +1306,7 @@
    "cat": "disaster",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Even on Dashain, some Nepalis leave their families behind in search of a better future abroad",
@@ -1540,17 +1540,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1792029052.2158759,
-   "en": "No kites in Nepal's skies this Dashain",
-   "ne": "No kites in Nepal's skies this Dashain",
-   "link": "https://www.undp.org/asia-pacific/blog/no-kites-nepals-skies-dashain",
-   "source": "United Nations Development Programme",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "culture"
-  },
   {
    "ts": 1792029695.429254,
    "en": "जाजरकोटमा बोलेरो जिप दुर्घटना हुँदा दुई जनाको मृत्यु, तीन घाइते",
@@ -4555,8 +4544,8 @@
    "cat": "world"
   }
  ],
- "updated": 1792633292,
- "pending_since": null,
+ "updated": 1792633871,
+ "pending_since": 1792633852.4246626,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
