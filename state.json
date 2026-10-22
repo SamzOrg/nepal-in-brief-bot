@@ -879,7 +879,10 @@
   "http://lokaantar.com/story/331747/2026/10/22/news-": 1792681298.9790943,
   "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeHZTdFBIY3NTaDJLdjhObjFySVo2X0pwNkoyRF91OFdoSFJWZjFoazJlQjI3YXFYc2RwRmtqbVNzTGduOHBqd1loNG1pMTR1RG9SdWRwQjJGeEFVQjdCaDlVRVpFcEk3ak5zdVg3N3JVeEZvcVdUUEhlTzhabW1Nc0RlcjQ0bFFKVW1ic3VWNzA2TjhjMEIxV05ZWkxRTXZMTnozd0NBNkdtZ3NVTDNtbmRiOEdobHRic0Uya2Z0SHppSUl2WFpWa0xn?oc=5": 1792681298.9790943,
   "http://lokaantar.com/story/331746/2026/10/22/kp-oli-": 1792681298.9790943,
-  "http://lokaantar.com/story/331743/2026/10/22/brook-": 1792681298.9790943
+  "http://lokaantar.com/story/331743/2026/10/22/brook-": 1792681298.9790943,
+  "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUFVRVGR1NDFRaG1pTFFyb3ZtRTdvQWs4cWNGOXRyT0FGbUk5eEVOWkI0NElXZExzTkFlcjNQT28yQTZJa2VVd0ZBbUhiNUNfNERmMVhNVGJYTjdwY2FfRmZ1bl9yQWlWQmMxdXZ4azhpcThsVXpESVZfbmJFV3U4WllWXy0xRGpZUHZSaE5Mb2V6alk3ODAwdEd2alJaWFNxLVZwcGNOZzU3T2FJaE1KMmZ2a2xzc052WjkzMWNnNmpjN0Y2M1hMUDdFX09GUm8?oc=5": 1792681853.0338013,
+  "https://theannapurnaexpress.com/story/68151": 1792681853.0338013,
+  "https://gorkhapatraonline.com/news/227110": 1792681853.0338013
  },
  "queue": [
   {
@@ -972,52 +975,6 @@
    "cat": "economy",
    "val": 1,
    "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "सलमानको सुरक्षा थप कडा, अक्षयको घरमा बुलेटप्रुफ सिसा!",
-   "summary": "द टाइम्स अफ इन्डियाका अनुसार टाइगर श्राफसँग सम्बन्धित गोलीकाण्डपछि सलमानको बान्द्रास्थित निवास वरपर सुरक्षा व्यवस्था थप मजबुत बनाइएको हो। त्यस्तै, अक्षय कुमारको जुहुस्थित घरमा पनि सुरक्षा सावधानी बढाइएको छ।",
-   "link": "https://www.setopati.com/art/bollywood/401181",
-   "source": "Setopati",
-   "ts": 1792652940,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "सलमानको सुरक्षा थप कडा, अक्षयको घरमा बुलेटप्रुफ सिसा!",
-   "en": "सलमानको सुरक्षा थप कडा, अक्षयको घरमा बुलेटप्रुफ सिसा!",
-   "ne": "सलमानको सुरक्षा थप कडा, अक्षयको घरमा बुलेटप्रुफ सिसा!",
-   "imp": 1,
-   "tags": [
-    "SalmanKhan",
-    "Bollywood",
-    "AkshayKumar"
-   ],
-   "cat": "culture",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "'कबड्डी' की नयाँ सोल्टिनी! (भिडिओ)",
-   "summary": "पाँचौं शृंखलामा मिरूनाको निरन्तरता छ भने रिश्मा पनि फर्किएकी छन्। यसपटक यी परिचित अनुहारसँगै नयाँ सोल्टिनीको आगमन भएको छ। उनी हुन्, सिर्जना गुरूङ।",
-   "link": "https://www.setopati.com/art/interview/401065",
-   "source": "Setopati",
-   "ts": 1792652520,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "'कबड्डी' की नयाँ सोल्टिनी! (भिडिओ)",
-   "en": "'कबड्डी' की नयाँ सोल्टिनी! (भिडिओ)",
-   "ne": "'कबड्डी' की नयाँ सोल्टिनी! (भिडिओ)",
-   "imp": 2,
-   "tags": [
-    "Kabaddi",
-    "NepaliMovie",
-    "चलचित्र"
-   ],
-   "cat": "culture",
-   "val": 1,
-   "teaser": true,
    "hits": 1
   },
   {
@@ -2354,7 +2311,7 @@
    "cat": "disaster",
    "val": 3,
    "teaser": false,
-   "hits": 3
+   "hits": 4
   },
   {
    "title": "India ranks 100th in Global Hunger Index, behind Bangladesh, Nepal and Sri Lanka",
@@ -2653,7 +2610,7 @@
    "cat": "world",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "एमाले नेता बाबुराम गौतमको निधनप्रति अध्यक्ष ओलीद्वारा श्रद्धाञ्जली",
@@ -2697,6 +2654,28 @@
     "ODI"
    ],
    "cat": "sports",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "अटो दुर्घटनामा एकको मृत्यु, दुई घाइते",
+   "summary": "अनिल पराजुलीहेटौँडा, कात्तिक ५ गते । पूर्वी मकवानपुरको बकैया गाउँपालिका -५, श्रीपुरस्थित मदन भण्डारी लोकमार्गमा अटो दुर्घटना हुँदा एक जनाको मृत्यु भएको छ । दुई जना घाइते भएका छन् ।...",
+   "link": "https://gorkhapatraonline.com/news/227110",
+   "source": "Gorkhapatra",
+   "ts": 1792681532,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/388709/conversions/accident-original.jpg",
+   "lang": "ne",
+   "hl": "अटो दुर्घटनामा एकको मृत्यु, दुई घाइते",
+   "en": "अटो दुर्घटनामा एकको मृत्यु, दुई घाइते",
+   "ne": "अटो दुर्घटनामा एकको मृत्यु, दुई घाइते",
+   "imp": 3,
+   "tags": [
+    "CarAccident",
+    "अटोदुर्घटना"
+   ],
+   "cat": "crime",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -5685,8 +5664,8 @@
    "cat": "disaster"
   }
  ],
- "updated": 1792681347,
- "pending_since": null,
+ "updated": 1792681860,
+ "pending_since": 1792681853.0338013,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
