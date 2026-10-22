@@ -870,7 +870,8 @@
   "https://kathmandupost.com/sports/2026/10/22/pakistan-all-rounder-hussain-talat-joins-karnali-yaks": 1792670497.4636757,
   "http://english.ratopati.com/story/84290/trump-campaigning-for-graham-in-south-carolina": 1792670497.4636757,
   "https://gorkhapatraonline.com/news/227101": 1792670497.4636757,
-  "https://kathmandupost.com/national/2026/10/22/madhyapur-thimi-celebrates-its-malla-era-battle-tradition": 1792670497.4636757
+  "https://kathmandupost.com/national/2026/10/22/madhyapur-thimi-celebrates-its-malla-era-battle-tradition": 1792670497.4636757,
+  "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORDlWWk1VZFlWczZlaVlWeTZScHg1MEFpVkRMa293QWttMTQ2WDMtOG1HSjVrdm1peVJ2aHJER2s0ZXBqaWtyMkljNVE3NDVJRndIYjY0WjlzSnM0aTFoaGlYQ21EdVdoQlV6TUo5ZTU2eHlTZkdVUUt3WThvVy1mOF96c01pUXJyMUpyX1BUbk1aMVFjeVZIUmlCRFJNLS1ueGZod0dEdTcyd2PSAa4BQVVfeXFMT0d2SElFVE9aQ25taGpGbEd6Y0VPdDBkTzFvdlFncWg0MmJJcUstcmgwb0tYMTFobExYek5FUHhzZ0c5MGQyQlc0UmNvNlBZdW5SQ3N1M1FVYy1rc3NiX2VabWtET0RnNjRSMXdLaEZRZk83eVp2S3VDaXdFeDVFVVBaWHkwNXdEOF9pY1Z6eDY4aXVtb0FzN0hLaUFjMEhId3hHV0xJUXJKRGpyWjR3?oc=5": 1792671052.1665294
  },
  "queue": [
   {
@@ -989,29 +990,6 @@
    "hits": 6
   },
   {
-   "title": "पाकिस्तानमा पूर्वमुख्यमन्त्री बेपत्ता प्रकरण : अदालतद्वारा १० दिनभित्र जवाफ पेस गर्न आदेश",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/505449",
-   "source": "Baahrakhari",
-   "ts": 1792642018,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "पाकिस्तानमा पूर्वमुख्यमन्त्री बेपत्ता प्रकरण : अदालतद्वारा १० दिनभित्र जवाफ पेस गर्न आदेश",
-   "en": "पाकिस्तानमा पूर्वमुख्यमन्त्री बेपत्ता प्रकरण : अदालतद्वारा १० दिनभित्र जवाफ पेस गर्न आदेश",
-   "ne": "पाकिस्तानमा पूर्वमुख्यमन्त्री बेपत्ता प्रकरण : अदालतद्वारा १० दिनभित्र जवाफ पेस गर्न आदेश",
-   "imp": 1,
-   "tags": [
-    "Pakistan",
-    "Court",
-    "Politics"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "तीन वर्षपछि पुनरागमन, छोरीसँग सहकार्य: किन प्रतीक्षित छ शाहरूखको 'किङ'?",
    "summary": "शाहरूख र सुहानाको सहकार्य, सिद्धार्थ आनन्दको निर्देशन तथा 'पठान' र 'जवान'पछिको अपेक्षाले 'किङ'लाई बलिउडको चासोको फिल्म बनाएको छ।",
    "link": "https://www.setopati.com/art/bollywood/401175",
@@ -1033,29 +1011,6 @@
    "val": 1,
    "teaser": true,
    "hits": 1
-  },
-  {
-   "title": "Iran Warns of Strong Retaliation Against Potential US Attack",
-   "summary": "Kathmandu. While America is preparing for the possibility of a new attack on Iran after the midterm elections, Tehran has...",
-   "link": "http://english.ratopati.com/story/84281/preparations-for-a-new-attack-on-iran-tehran-warns",
-   "source": "Ratopati EN",
-   "ts": 1792642127,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/iran-flag_TkC5X0MaQr.webp",
-   "lang": "en",
-   "hl": "Iran Warns of Strong Retaliation Against Potential US Attack",
-   "en": "Iran Warns of Strong Retaliation Against Potential US Attack",
-   "ne": "Iran Warns of Strong Retaliation Against Potential US Attack",
-   "imp": 2,
-   "tags": [
-    "Iran",
-    "Military",
-    "Retaliation"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "रजनीकान्तको 'जेलर २'ले कति कमायो सात दिनमा?",
@@ -5458,8 +5413,8 @@
    "cat": "economy"
   }
  ],
- "updated": 1792670518,
- "pending_since": null,
+ "updated": 1792671056,
+ "pending_since": 1792671052.1665294,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
