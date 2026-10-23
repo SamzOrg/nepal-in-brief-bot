@@ -1063,7 +1063,10 @@
   "https://news.google.com/rss/articles/CBMirAFBVV95cUxPelZRNDQ4RGpvOFB4SXhnNTkybUhHTTgtQ3FTcmdSdzljVTFWcjdiaFljejJfeS1pZTJRVUk5LTA1V1duR29FUkF2WlMxd2dXU0cyRno5RktOeExzaWVTUG4wYVgwSDA2dDc4R1RRYzRmaG4xaWVkNDJ0UWVrcDV5VFlUam9Tb2JQZG1kM2Z6cnBzRXo3cmRWYlE5Y211cUU2dWowcWM4NVl4ZG0y?oc=5": 1792745453.37844,
   "https://nagariknews.nagariknetwork.com/economy/php-security-risk-nepal-rastra-bank-says-core-banking-system-is-secure-br-43-30.html": 1792745453.37844,
   "https://nagariknews.nagariknetwork.com/international/indigo-makes-important-announcement-regarding-flights-to-saudi-arabia-46-56.html": 1792745453.37844,
-  "https://nagariknews.nagariknetwork.com/arts/why-is-deepak-raj-giri-free-from-pressure-this-time-86-70.html": 1792745453.37844
+  "https://nagariknews.nagariknetwork.com/arts/why-is-deepak-raj-giri-free-from-pressure-this-time-86-70.html": 1792745453.37844,
+  "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcE5jeGFJT05oSW1jd09WNlQyNWdqSG1kc0d0Rl80b1lTRms0cy1idFBhZFJCTG1oOUJWQzcwMFdqODJyMjU0S3hwUGNabzVxU3ozdm1Uc0NiSmFfSlNNbEhsUjN0Wjhla0pHaGJVMndqRGVEMHQtT1lIal9MVU1FcnZ1d0J1OEhRRktISmYtT2VkeC1tX2gzem1PekRGRGFmTFpZZUR3d1g0dw?oc=5": 1792746091.5265236,
+  "https://baahrakhari.com/detail/505526": 1792746091.5265236,
+  "https://nagariknews.nagariknetwork.com/international/earthquake-in-china-16-dead-76-injured-xi-orders-to-speed-up-rescue-91-56.html": 1792746091.5265236
  },
  "queue": [
   {
@@ -3471,6 +3474,53 @@
    "cat": "other",
    "val": 1,
    "teaser": true,
+   "hits": 1
+  },
+  {
+   "title": "साउदीमा एक नेपालीको मृत्युप्रति एमालेद्वारा दुःख व्यक्त",
+   "summary": "",
+   "link": "https://baahrakhari.com/detail/505526",
+   "source": "Baahrakhari",
+   "ts": 1792745706,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "साउदीमा एक नेपालीको मृत्युप्रति एमालेद्वारा दुःख व्यक्त",
+   "en": "साउदीमा एक नेपालीको मृत्युप्रति एमालेद्वारा दुःख व्यक्त",
+   "ne": "साउदीमा एक नेपालीको मृत्युप्रति एमालेद्वारा दुःख व्यक्त",
+   "imp": 3,
+   "tags": [
+    "CPNUML",
+    "SaudiArabia",
+    "NepaliDiaspora",
+    "मृत्यु"
+   ],
+   "cat": "politics",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "चीनमा भूकम्प : १६ जनाको मृ`त्यु, ७६ घाइते, उद्धार तीव्र बनाउन सीको निर्देशन",
+   "summary": "स्थानीय अधिकारीहरूका अनुसार भूकम्पले ३३९ घरपरिवारका घरमा क्षति पुर्‍याएको छ। स्थानीय समय अनुसार बिहीबार राति १० बजेर ३३ मिनेटमा नाग्कु सहरको बाकेन काउन्टीमा भूकम्प गएको थियो।...",
+   "link": "https://nagariknews.nagariknetwork.com/international/earthquake-in-china-16-dead-76-injured-xi-orders-to-speed-up-rescue-91-56.html",
+   "source": "Nagarik News",
+   "ts": 1792745272,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2026/third-party/1792745263_Xi%20.jpg",
+   "lang": "ne",
+   "hl": "चीनमा भूकम्प : १६ जनाको मृ`त्यु, ७६ घाइते, उद्धार तीव्र बनाउन सीको निर्देशन",
+   "en": "चीनमा भूकम्प : १६ जनाको मृ`त्यु, ७६ घाइते, उद्धार तीव्र बनाउन सीको निर्देशन",
+   "ne": "चीनमा भूकम्प : १६ जनाको मृ`त्यु, ७६ घाइते, उद्धार तीव्र बनाउन सीको निर्देशन",
+   "imp": 2,
+   "tags": [
+    "ChinaEarthquake",
+    "XiJinping",
+    "भूकम्प"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
    "hits": 1
   }
  ],
@@ -6413,8 +6463,8 @@
    "cat": "sports"
   }
  ],
- "updated": 1792745462,
- "pending_since": null,
+ "updated": 1792746097,
+ "pending_since": 1792746091.5265236,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
