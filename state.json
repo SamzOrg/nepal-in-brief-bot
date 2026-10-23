@@ -957,7 +957,8 @@
   "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMHRZUk40SnI4dzR0dGEzVUVSVlhHMm1OQWpiX25sOG5ZM1RYdmhaMm9HNU51ODg2ZTA5cVZBbjRNQXd5STVFM2MxTVZkZ2V0OWN6VElkdU9OaEVEaF9jd2VNem9RX2U0dklWN0pxR1hVcGVERzVDbTZLSzhwWFB2THBSTU1jZjVDdUJkMnlCMFBIUkRwUzV4V1lrbXdCOUdwZ2E4YVBKdjdoVWtuMGtoeHRjcUwxbHpzU1llWjRyNA?oc=5": 1792728089.665055,
   "https://news.google.com/rss/articles/CBMipgFBVV95cUxOU25WVU1QdDZuZEJsOEdkNU15Nkh6VE1EaUp4a0JqVUZCNWlBaE5zUGZ1MnZuNlpfdFVJLWRLSU50ZFlWc0Uzc1U2LVVHczlZUllJQnZKYzRDMDBKR010M1M3MThOSHlYdmVvNzBpWVV4RmRLOUlwZFE2alNYUFUxM0NIU1NjVlh1ZUxsSENkRVI2MFVZWEJRWUdpc1BmRS1SZWF5SFN3?oc=5": 1792728089.665055,
   "https://www.setopati.com/social/401197": 1792728089.665055,
-  "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNU15TGtyNHFfNi1sUE1ZVkRabmZLdk9ueXVSdmN0Mmh0NzM1MnNGLXgwV2FXOElTSmloWFBvaXdSM2t2azFHYUwwTHBJZkRBcTFaUE5kaVdTcjg4aXNsTkRJaWFob041Z09lMDkteGtqYXo4UzRTVk91MDdHclIzaEVTWGdzZw?oc=5": 1792728089.665055
+  "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNU15TGtyNHFfNi1sUE1ZVkRabmZLdk9ueXVSdmN0Mmh0NzM1MnNGLXgwV2FXOElTSmloWFBvaXdSM2t2azFHYUwwTHBJZkRBcTFaUE5kaVdTcjg4aXNsTkRJaWFob041Z09lMDkteGtqYXo4UzRTVk91MDdHclIzaEVTWGdzZw?oc=5": 1792728089.665055,
+  "https://nagariknews.nagariknetwork.com/social-affairs/11-people-die-in-traffic-accidents-in-kaski-in-a-month-17-87.html": 1792728648.9695165
  },
  "queue": [
   {
@@ -2344,44 +2345,10 @@
    "cat": "disaster",
    "val": 3,
    "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Nepal to get $20 million from climate fund after deadly August flood",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNU15TGtyNHFfNi1sUE1ZVkRabmZLdk9ueXVSdmN0Mmh0NzM1MnNGLXgwV2FXOElTSmloWFBvaXdSM2t2azFHYUwwTHBJZkRBcTFaUE5kaVdTcjg4aXNsTkRJaWFob041Z09lMDkteGtqYXo4UzRTVk91MDdHclIzaEVTWGdzZw?oc=5",
-   "source": "Charlotte Observer",
-   "ts": 1792722186,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Nepal to get $20 million from climate fund after deadly August flood",
-   "en": "Nepal to get $20 million from climate fund after deadly August flood",
-   "ne": "Nepal to get $20 million from climate fund after deadly August flood",
-   "imp": 4,
-   "tags": [
-    "ClimateFund",
-    "FloodRelief",
-    "20MillionUSD"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
+   "hits": 2
   }
  ],
  "posted": [
-  {
-   "ts": 1792123294.0526786,
-   "en": "कालीगण्डकीको बाढीले म्याग्दीको रातोपानी कुण्ड बगायो, १ करोडको पूर्वाधार ध्वस्त",
-   "ne": "कालीगण्डकीको बाढीले म्याग्दीको रातोपानी कुण्ड बगायो, १ करोडको पूर्वाधार ध्वस्त",
-   "link": "http://lokaantar.com/story/331421/2026/10/16/kaligandaki-badhi-",
-   "source": "Lokaantar",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "disaster"
-  },
   {
    "ts": 1792125086.592381,
    "en": "Nepal flood wipes out Rasuwa's Khalte village, highlighting risks of disaster resettlement",
@@ -5318,9 +5285,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "society"
+  },
+  {
+   "ts": 1792728669.2017984,
+   "en": "Nepal to get $20 million from climate fund after deadly August flood",
+   "ne": "Nepal to get $20 million from climate fund after deadly August flood",
+   "link": "https://www.charlotteobserver.com/news/nation-world/world/article317742076.html",
+   "source": "Charlotte Observer",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "economy"
   }
  ],
- "updated": 1792728097,
+ "updated": 1792728695,
  "pending_since": 1792727450.4364152,
  "fb_blocks": [
   1790350880.4125228,
