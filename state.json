@@ -1,8 +1,5 @@
 {
  "seen": {
-  "https://gorkhapatraonline.com/news/227089": 1792560053.3569887,
-  "https://risingnepaldaily.com/news/87961": 1792560053.3569887,
-  "https://english.khabarhub.com/2026/21/572750/": 1792560053.3569887,
   "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUFRkQlJVTW5ISllzalgyZGw5MWk2eGZSTHM3Nm1SNXBnN0Yyb3ZqMWREM1IyRTlPWTlsdzgzMDFZWHhubU1hVXJXbllpMk4yblRfbFNBRFEwcXdTeENnU0F6ZVVGNWdLYWczZTB4X3VlU0puWnctS2x2bzNKUmZ1Y2s2LWt2eUItb01zN0laNWFQbU9MVjhnMXBRdWE3UWNzSGMyUnhSdXAwdWlNaTZzaFVrT3dOcVhZaFczSTEwaXM3YU9yZGx3aGRvN0RTNmxXbGdmRw?oc=5": 1792561255.8165548,
   "https://www.setopati.com/social/401154": 1792561255.8165548,
   "https://baahrakhari.com/detail/505411": 1792561255.8165548,
@@ -985,7 +982,9 @@
   "https://nagariknews.nagariknetwork.com/social-affairs/traffic-accidents-in-the-valley-decreased-during-dashain-this-year-97-86.html": 1792732848.4551313,
   "http://english.ratopati.com/story/84325/new-zealand-army-chief-resigns-after-allegations-of-covering-up-inappropriate-relationship": 1792732848.4551313,
   "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNHFhZ1E3N0ZkNzY0QzRXR2VvRWNaaDVoSHNRblZGSFQyT1p5VHJLMmRvQWlvSmFFdVFJU09nd0dEQ1lpd0puM25tT3ZuUXJWNE9oUG93MVRheGMwNkY2QmhFU24tZTRyOTY0dU9Lc3YtdkYtOE9DeFNpd0JxT2daNkJiOERaWnNmNWc?oc=5": 1792732848.4551313,
-  "https://theannapurnaexpress.com/story/68162": 1792732848.4551313
+  "https://theannapurnaexpress.com/story/68162": 1792732848.4551313,
+  "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVHI5UndISDJuSlFOT2hOaHUyWGhMRjc5TkQzY29hUUVpdDZxdEFDSHpiWkZXVmdwa0RzT1YyZVdwTnVhVHd6RWtObEpSd2FUTzJKbTNoekhUelhCYUd2ZWNmcVlpQTFreEVxa21McUJfVVJSa2tKZmEtZ3Z4YzVBRDBGOXo3ZFYzSjlVRlUyN2pRSktpNmhNVHhCdmQ2MWRjR05xbl82S0VYU3RvQ2Uwc1FMeGtNTlp1RTdwQ2U0UUJ2SmU5WXhwdFNnY2XSAcwBQVVfeXFMTlRyOVJ3SEgybkpRTk9oTmh1MlhoTEY3OU5EM2NvYVFFaXQ2cXRBQ0h6YlpGV1ZncGtEc09WMmVXcE51YVR3ekVrTmxKUndhVE8ySm0zaHpIVHpYQmFHdmVjZnFZaUExa3hFcWttTHFCX1VSUmtrSmZhLWd2eGM1QUQwRjl6N2RWM0o5VUZVMjdqUUpLaTZoTVR4QnZkNjFkY0dOcW5fNktFWFN0b0NlMHNRTHhrTU5adUU3cENlNFFCdkplOVl4cHRTZ2Nl?oc=5": 1792733467.4875236,
+  "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdHBSM3R1Vkt3eFFobHNQM0FaU0ZlQUlHNW9zekJYSlNPNTJ2M0E1ay1VYlNaNi1GbHlSRUUyUlRSdUl5dWNuM2Y4T2FYZzBNdE0zcDJIRzJST3BtNmMtTExCV1RWUkZEVUY3QXBzamM3MlVDZTR5anUxQ2dVOWN6ZTR3TjBxZ0RXbmZCYnNaUHlwOUdXMUN1eHZKM19HaUd1cWR6RTZ4eEk2V2t2SHVsNDhKWXdablVBNWl6dmk0UUhNaXNSdmNv0gHMAUFVX3lxTE5UcjlSd0hIMm5KUU5PaE5odTJYaExGNzlORDNjb2FRRWl0NnF0QUNIemJaRldWZ3BrRHNPVjJlV3BOdWFUd3pFa05sSlJ3YVRPMkptM2h6SFR6WEJhR3ZlY2ZxWWlBMWt4RXFrbUxxQl9VUlJra0pmYS1ndnhjNUFEMEY5ejdkVjNKOVVGVTI3alFKS2k2aE1UeEJ2ZDYxZGNHTnFuXzZLRVhTdG9DZTBzUUx4a01OWnVFN3BDZTRRQnZKZTlZeHB0U2djZQ?oc=5": 1792733467.4875236
  },
  "queue": [
   {
@@ -5550,8 +5549,8 @@
    "cat": "disaster"
   }
  ],
- "updated": 1792732855,
- "pending_since": null,
+ "updated": 1792733471,
+ "pending_since": 1792733467.4875236,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
