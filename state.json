@@ -1076,7 +1076,8 @@
   "https://nagariknews.nagariknetwork.com/international/two-women-released-on-bail-after-allegedly-performing-stunts-to-gain-popularity-on-social-media-65-99.html": 1792748448.1369238,
   "https://nagariknews.nagariknetwork.com/politics/finance-minister-wagle-s-q-a-with-indian-foreign-minister-jaishankar-appreciation-for-assistance-during-the-disaster-97-25.html": 1792748448.1369238,
   "https://nagariknews.nagariknetwork.com/international/php-cybersecurity-vulnerabilities-discovered-with-the-help-of-ai-have-increased-risks-worldwide-br-80-14.html": 1792748448.1369238,
-  "https://nagariknews.nagariknetwork.com/politics/finance-minister-wagle-after-reaching-delhi-said-prime-minister-balen-will-visit-india-by-the-end-of-this-year-72-59.html": 1792748448.1369238
+  "https://nagariknews.nagariknetwork.com/politics/finance-minister-wagle-after-reaching-delhi-said-prime-minister-balen-will-visit-india-by-the-end-of-this-year-72-59.html": 1792748448.1369238,
+  "https://news.google.com/rss/articles/CBMiigJBVV95cUxOcXBxeXNfbzl1eVlBZ2pnY3NwMTlIcVpZUEd3ZkMwUmxKRU5NcUxhNTVNNUd0Tm01UkJtYTJXakUzQnk5VVNFOGdVcUVWRXhNMXJITXYzbXhTUHpXYzF0cUdkVjZsNDl2cjVnLXdla3Z5azhEcndQV2E1eDNRU1AwTUFRMVRfbm5FV2dqTHdFVWQ1VXJlZmJjdnZuMGQxaWNMTWJhSnpQWFphdkZkUzRhNWNXak9LOGhneUljZ0k5TU1RS1REN2NoUE9PcVp0dzhUZDBkRC16eXllMENGdGp6T0t2dHF3ZGFicGlVanA1Q01Db09BLS1GRzhGZm5XLUVZTnExTjJ2bXFCdw?oc=5": 1792749049.0645065
  },
  "queue": [
   {
@@ -1191,51 +1192,6 @@
    "cat": "sports",
    "val": 1,
    "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "फ्रान्सेली प्रहरी युरोपेली संघमै सबैभन्दा हिंस्रक हुन् ?",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/505493",
-   "source": "Baahrakhari",
-   "ts": 1792719979,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "फ्रान्सेली प्रहरी युरोपेली संघमै सबैभन्दा हिंस्रक हुन् ?",
-   "en": "फ्रान्सेली प्रहरी युरोपेली संघमै सबैभन्दा हिंस्रक हुन् ?",
-   "ne": "फ्रान्सेली प्रहरी युरोपेली संघमै सबैभन्दा हिंस्रक हुन् ?",
-   "imp": 1,
-   "tags": [
-    "France",
-    "Police"
-   ],
-   "cat": "world",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "Zelensky States No Personal Dispute with Trump, Warns Against Lifting Sanctions on Putin",
-   "summary": "Kathmandu. Ukrainian President Volodymyr Zelensky has stated that he has no personal dispute with US President Donald Trump. In an...",
-   "link": "http://english.ratopati.com/story/84308/no-personal-dispute-with-trump-sanctions-on-putin-should-not-be-lifted-zelensky",
-   "source": "Ratopati EN",
-   "ts": 1792719661,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/zelanski_zdceqcmelw_aDwEUI6b45.webp",
-   "lang": "en",
-   "hl": "Zelensky States No Personal Dispute with Trump, Warns Against Lifting Sanctions on Putin",
-   "en": "Zelensky States No Personal Dispute with Trump, Warns Against Lifting Sanctions on Putin",
-   "ne": "Zelensky States No Personal Dispute with Trump, Warns Against Lifting Sanctions on Putin",
-   "imp": 1,
-   "tags": [
-    "Zelensky",
-    "Trump",
-    "Putin"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
    "hits": 1
   },
   {
@@ -3555,17 +3511,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1792143672.9701643,
-   "en": "Former Pakistan fast bowler Shoaib Akhtar joins Himalaya Sports' NPL broadcast as special guest in Kathmandu",
-   "ne": "Former Pakistan fast bowler Shoaib Akhtar joins Himalaya Sports' NPL broadcast as special guest in Kathmandu",
-   "link": "https://english.onlinekhabar.com/shoaib-akhtar-himalaya-sports-npl.html",
-   "source": "Onlinekhabar EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "sports"
-  },
   {
    "ts": 1792145474.7567852,
    "en": "Gagan Thapa Announces Separation from Regular Party Work, Focuses on 'Samunnatí'",
@@ -6482,8 +6427,8 @@
    "cat": "society"
   }
  ],
- "updated": 1792748469,
- "pending_since": null,
+ "updated": 1792749053,
+ "pending_since": 1792749049.0645065,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
