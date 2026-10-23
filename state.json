@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQlNpZU1vVG55VEEzcWVYN1lacWRCVUZyUVJPOFNwbDdCZ1luWmVHV3JqNExZUmxyQnJ1V19nWmRkMWJ0cUFRc1NHSmtiQzN2dVZIdTN1YlFFUm1zTVI2RGNrZzA5Qkhvb1QwVWtudTBkclJmQ1lyNmdiUmZaOU9hdlJBQWNscGxDRnp4OFZZd0JYNGVCY1R1ZkVrR3JQakk0Snh6ZjZ3ZjNUUkk?oc=5": 1792603253.1719112,
   "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVG9WLTZ5eTNGZ05SazByRWpmcGQ1QjItOXlGQkdwQnNCYlotN1lOZ2V1MXMzRHFpNlpuaUhOYVltcWZKMnRja09fcVhGdUsyblhtOUJBcXNfOEozYmh4TFpfcGNxbmNBZEkzdHMxV2dCQjBoSDU0SS0xd0MzYTQyZ0NkVm42WkpKc2Fj?oc=5": 1792603877.305418,
   "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5CSUdsUkFtM0UtWEtmNEY5QnJZZ1hUNkVteklfOG4zTEhhR24zZDJsQWQ2YzNmUzN0d2R1dWJuV3FCUWxuVXZPc1hEUkdxXzVwN09DV0lqZjRlbGhBaWo3dVU5U1JaUQ?oc=5": 1792603877.305418,
   "https://news.google.com/rss/articles/CBMikAFBVV95cUxOS2F4TmdvbTFUYjNXVE8yTTgtSV9CU1lhM1FMNU1uSWRwM1RjaUg2VEpaNzM2UmktVGNBbUxmMzBuX1hPQ3JoemNKTFh2eVY3eTBXYm9zbG10VDVKNWMwTFVjSU8zb2xnS0Z1NXdQYlVEdnQ2NU1BXzhRaXVSU0pndWl3VE90QVhTbFRSeHBkNzg?oc=5": 1792604457.3667204,
@@ -1171,29 +1170,6 @@
   "https://news.google.com/rss/articles/CBMihgFBVV95cUxNeTFVOEx0TmlydWZod0lIb3FGVUxzZ3I2U1oxaUEwSDMxdFFVSEh1Q3RFZGpLVEt2LU56cTk5U19SSXZnMlNjTHJMWmVFRHZMakt1dHFpbFF1ZDI0c2kyS18xVy1yamdrUEFvWWZubk9FRG1qLTFZOE9NQUxGbHNQM2ljVFJkUQ?oc=5": 1792776049.5025494
  },
  "queue": [
-  {
-   "title": "Europe Heatwave Causes Over 50,000 Deaths, Climate Change Blamed",
-   "summary": "Kathmandu. A new study has shown that 50,391 people died in Europe due to extreme temperatures during this year's summer,...",
-   "link": "http://english.ratopati.com/story/84344/more-than-50000-people-die-in-europe-due-to-heat",
-   "source": "Ratopati EN",
-   "ts": 1792747686,
-   "weight": 2,
-   "img": "https://rpcdn.ratopati.com/media/albums/garmi_DrHGh4dR7z.jpg",
-   "lang": "en",
-   "hl": "Europe Heatwave Causes Over 50,000 Deaths, Climate Change Blamed",
-   "en": "Europe Heatwave Causes Over 50,000 Deaths, Climate Change Blamed",
-   "ne": "Europe Heatwave Causes Over 50,000 Deaths, Climate Change Blamed",
-   "imp": 1,
-   "tags": [
-    "Europe",
-    "Heatwave",
-    "ClimateChange"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 3
-  },
   {
    "title": "Pakistan's sugar gamble: Millers win export clearance as consumers face another price shock",
    "summary": "Pakistan's sugar industry is once again asking the government to trust its calculations, accept its surplus claims, and let more of the country's sugar leave the domestic market. The argument is familiar: warehouses are...",
@@ -6392,8 +6368,8 @@
    "cat": "health"
   }
  ],
- "updated": 1792776053,
- "pending_since": null,
+ "updated": 1792776674,
+ "pending_since": 1792776670.8113334,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
