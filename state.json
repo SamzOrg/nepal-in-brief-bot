@@ -1118,7 +1118,9 @@
   "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQ0xHdFV2OHVhX01VNVZ6X0FKVGs2cUJkMXhyanZfUHB4T0EwN2pfRFktdmI3XzFjbXJPZGtHUlBvN2FuVW9oSVRSZDNHcmtqLVNKdGJGVVNQUkdQRkpwTTBsN1RuNlB0VEx1MTMyZzl6OUdRdWR3UjZhVXhDV2FkMEI0NkVjWGRORDh5WXVCamk3dmJpeGVhQ1V2UzViLW5iNUVVV2g1NldaWEU1b2RFeVdKUzZqeF9sTlJwdzNiMllkS3pCeXFN?oc=5": 1792768250.0666432,
   "https://nagariknews.nagariknetwork.com/social-affairs/ward-chairperson-joshi-dies-after-falling-from-cliff-in-bajhang-49-58.html": 1792768250.0666432,
   "http://english.ratopati.com/story/84364/west-bank-shooting-two-israeli-soldiers-killed": 1792768250.0666432,
-  "https://news.google.com/rss/articles/CBMie0FVX3lxTFBHV0Y2WnBJaXgtZ0U0MDdDM0RUcm9KMDdyQkVZVkVJSDNRYllUNlY2c3kySFNpOVU4V0pBSUczc1lHZ1ZEeUpOQVFkRVpYYk1hQXc5cWdSZ1lpLVlLY3F2TkNKblZIVEFPOWNYSHV6T3RCYTJhd1dza3dyVQ?oc=5": 1792768250.0666432
+  "https://news.google.com/rss/articles/CBMie0FVX3lxTFBHV0Y2WnBJaXgtZ0U0MDdDM0RUcm9KMDdyQkVZVkVJSDNRYllUNlY2c3kySFNpOVU4V0pBSUczc1lHZ1ZEeUpOQVFkRVpYYk1hQXc5cWdSZ1lpLVlLY3F2TkNKblZIVEFPOWNYSHV6T3RCYTJhd1dza3dyVQ?oc=5": 1792768250.0666432,
+  "http://lokaantar.com/story/331796/2026/10/23/pararastra-": 1792768849.111279,
+  "http://lokaantar.com/story/331795/2026/10/23/dead-": 1792768849.111279
  },
  "queue": [
   {
@@ -1163,97 +1165,6 @@
     "Belgrade"
    ],
    "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Three Leaders of the Leftist Movement Named Mohan",
-   "summary": "Kathmandu. Top figures of the Nepali leftist movement Mohan Bikram Singh, Mohan Baidya, and Mohan Chandra Adhikari are very active...",
-   "link": "http://english.ratopati.com/story/84328/mohan-bikram-is-busy-writing-books-even-at-the-age-of-92-what-are-mohan-chandra-and-mohan-vaidya-doing",
-   "source": "Ratopati EN",
-   "ts": 1792739700,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/3-mohan_rDAoutIbTw.webp",
-   "lang": "en",
-   "hl": "Three Leaders of the Leftist Movement Named Mohan",
-   "en": "Three Leaders of the Leftist Movement Named Mohan",
-   "ne": "Three Leaders of the Leftist Movement Named Mohan",
-   "imp": 1,
-   "tags": [
-    "LeftistMovement",
-    "Mohan"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "आणविक सम्झौताबारे म्याक्रोनको भनाइमा अराघचीको आपत्ति",
-   "summary": "आणविक सम्झौताबारे म्याक्रोनको भनाइमा अराघचीको आपत्तिआणविक सम्झौताबारे म्याक्रोनको भनाइमा अराघचीको आपत्ति...",
-   "link": "https://nagariknews.nagariknetwork.com/international/araghchi-objects-to-macron-s-remarks-on-nuclear-deal-93-68.html",
-   "source": "Nagarik News",
-   "ts": 1792740005,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1773472484_iran%20abbas.jpg",
-   "lang": "ne",
-   "hl": "आणविक सम्झौताबारे म्याक्रोनको भनाइमा अराघचीको आपत्ति",
-   "en": "आणविक सम्झौताबारे म्याक्रोनको भनाइमा अराघचीको आपत्ति",
-   "ne": "आणविक सम्झौताबारे म्याक्रोनको भनाइमा अराघचीको आपत्ति",
-   "imp": 1,
-   "tags": [
-    "Macron",
-    "Araghchi",
-    "NuclearDeal"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "अर्घाखाँची सिमेन्ट एनपीएल सिजन-३ को आधिकारिक साझेदार",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/505513",
-   "source": "Baahrakhari",
-   "ts": 1792740041,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "अर्घाखाँची सिमेन्ट एनपीएल सिजन-३ को आधिकारिक साझेदार",
-   "en": "अर्घाखाँची सिमेन्ट एनपीएल सिजन-३ को आधिकारिक साझेदार",
-   "ne": "अर्घाखाँची सिमेन्ट एनपीएल सिजन-३ को आधिकारिक साझेदार",
-   "imp": 2,
-   "tags": [
-    "ArghakhanchiCement",
-    "NPL",
-    "Cricket"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "रासायनिक मलको विकल्पमा गड्यौले मल",
-   "summary": "कृषि प्रधान देश नेपालका कृषकले खेतीपाती गर्ने समयमा रासायनिक मलको अभाव झेल्ने गरेका छन्।",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/worm-castings-as-an-alternative-to-chemical-fertilizers-br-47-42.html",
-   "source": "Nagarik News",
-   "ts": 1792739903,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2024/third-party/1792740042_hiti%2068.jpg",
-   "lang": "ne",
-   "hl": "रासायनिक मलको विकल्पमा गड्यौले मल",
-   "en": "रासायनिक मलको विकल्पमा गड्यौले मल",
-   "ne": "रासायनिक मलको विकल्पमा गड्यौले मल",
-   "imp": 2,
-   "tags": [
-    "Vermicompost",
-    "Agriculture",
-    "ChemicalFertilizer"
-   ],
-   "cat": "economy",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -2262,29 +2173,6 @@
    "val": 3,
    "teaser": false,
    "hits": 2
-  },
-  {
-   "title": "स्कुटर दुर्घटनामा आमाको मृत्यु, छोरी सकुशल",
-   "summary": "स्याङ्जाको बिरुवा गाउँपालिका-३ ठाँटीमा स्कुटर सडकबाट खसेर दुर्घटना हुँदा महिला चालकको मृत्यु भएको छ ।आज दिउँसो २ः३० बजेको समयमा राङखोला-बिरुवा सडक खण्डको बिरुवा-३ ठाँटीमा स्कुटर अनियन्त्रित भई सोही गाउँपालिकाकी ३९...",
-   "link": "http://lokaantar.com/story/331783/2026/10/23/accident-",
-   "source": "Lokaantar",
-   "ts": 1792739450.6255202,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "स्कुटर दुर्घटनामा आमाको मृत्यु, छोरी सकुशल",
-   "en": "स्कुटर दुर्घटनामा आमाको मृत्यु, छोरी सकुशल",
-   "ne": "स्कुटर दुर्घटनामा आमाको मृत्यु, छोरी सकुशल",
-   "imp": 2,
-   "tags": [
-    "ScooterAccident",
-    "Mother",
-    "Daughter"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
   },
   {
    "title": "Nepal mixes tradition and technology for conservation",
@@ -3536,6 +3424,51 @@
     "Military"
    ],
    "cat": "world",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "चीनमा भूकम्पबाट भएको क्षतिप्रति नेपालद्वारा दुःख व्यक्त",
+   "summary": "चीनको सिजाङ स्वायत्त क्षेत्रको उत्तरी भागमा गएको ७ म्याग्निच्युडको भूकम्पबाट भएको जनधनको क्षतिप्रति नेपाल सरकारले दुःख व्यक्त गरेको छ।परराष्ट्र मन्त्रालयले शुक्रबार विज्ञप्ति जारी गर्दै भूकम्पमा ज्यान गुमाएकाप्रति...",
+   "link": "http://lokaantar.com/story/331796/2026/10/23/pararastra-",
+   "source": "Lokaantar",
+   "ts": 1792754449.7132123,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "चीनमा भूकम्पबाट भएको क्षतिप्रति नेपालद्वारा दुःख व्यक्त",
+   "en": "चीनमा भूकम्पबाट भएको क्षतिप्रति नेपालद्वारा दुःख व्यक्त",
+   "ne": "चीनमा भूकम्पबाट भएको क्षतिप्रति नेपालद्वारा दुःख व्यक्त",
+   "imp": 1,
+   "tags": [
+    "Earthquake",
+    "China"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "बिहारमा पटाका बनाउने क्रममा विस्फोट, ७ जनाको मृत्यु",
+   "summary": "भारतको बिहारस्थित सिवान जिल्लाको आलमपुर गाउँमा शुक्रबार साँझ पटाका बनाउने क्रममा विस्फोट हुँदा पति-पत्नी र छोरीसहित सात जनाको मृत्यु भएको छ।दैनिक भास्करका अनुसार विस्फोटबाट घरको ठूलो भाग भत्किएको छ भने भग्नावशेष सडकसम्म...",
+   "link": "http://lokaantar.com/story/331795/2026/10/23/dead-",
+   "source": "Lokaantar",
+   "ts": 1792754449.7132123,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "बिहारमा पटाका बनाउने क्रममा विस्फोट, ७ जनाको मृत्यु",
+   "en": "बिहारमा पटाका बनाउने क्रममा विस्फोट, ७ जनाको मृत्यु",
+   "ne": "बिहारमा पटाका बनाउने क्रममा विस्फोट, ७ जनाको मृत्यु",
+   "imp": 2,
+   "tags": [
+    "Explosion",
+    "Bihar",
+    "India"
+   ],
+   "cat": "disaster",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -6458,7 +6391,7 @@
    "cat": "sports"
   }
  ],
- "updated": 1792768322,
+ "updated": 1792768859,
  "pending_since": 1792767054.7334077,
  "fb_blocks": [
   1790350880.4125228,
