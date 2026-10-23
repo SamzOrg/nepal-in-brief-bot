@@ -1066,7 +1066,9 @@
   "https://nagariknews.nagariknetwork.com/arts/why-is-deepak-raj-giri-free-from-pressure-this-time-86-70.html": 1792745453.37844,
   "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcE5jeGFJT05oSW1jd09WNlQyNWdqSG1kc0d0Rl80b1lTRms0cy1idFBhZFJCTG1oOUJWQzcwMFdqODJyMjU0S3hwUGNabzVxU3ozdm1Uc0NiSmFfSlNNbEhsUjN0Wjhla0pHaGJVMndqRGVEMHQtT1lIal9MVU1FcnZ1d0J1OEhRRktISmYtT2VkeC1tX2gzem1PekRGRGFmTFpZZUR3d1g0dw?oc=5": 1792746091.5265236,
   "https://baahrakhari.com/detail/505526": 1792746091.5265236,
-  "https://nagariknews.nagariknetwork.com/international/earthquake-in-china-16-dead-76-injured-xi-orders-to-speed-up-rescue-91-56.html": 1792746091.5265236
+  "https://nagariknews.nagariknetwork.com/international/earthquake-in-china-16-dead-76-injured-xi-orders-to-speed-up-rescue-91-56.html": 1792746091.5265236,
+  "https://news.google.com/rss/articles/CBMirwFBVV95cUxORGxYSF9BTWpIRW9QN2E1cGpOMURWUTF3Z09OQ2hmRHJUMEtDbnVISEtSQldNUFNwbDBsVzVYYkVteHNPdzViNmlQTmVwOFdYR0ZsOE9fdVQwczF0VmJCLWZHeXdPTzNCVWQ1R1RoTldoUkZHMUtYcG5ua0xVcEpQSXZMcTdrM242SWtsQWEzODhCN3FEVnRFdEJXZGpWaXIzTU1KbDh2VTN1YzZEdXNj?oc=5": 1792746649.7812502,
+  "https://nagariknews.nagariknetwork.com/international/more-than-50-000-die-in-europe-from-heatwave-18-77.html": 1792746649.7812502
  },
  "queue": [
   {
@@ -1090,29 +1092,6 @@
    "val": 3,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "'कबड्डी ५' आजदेखि प्रदर्शनमा, शो र बुकिङले बढायो ओपनिङको अपेक्षा",
-   "summary": "उल्लेख्य शो संख्या र अग्रिम टिकट बुकिङमा देखिएको उत्साहले फिल्मले शुक्रबार राम्रो व्यापार गर्ने प्रक्षेपण गरिएको छ।",
-   "link": "https://www.setopati.com/art/art-activity/401193",
-   "source": "Setopati",
-   "ts": 1792717714,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "'कबड्डी ५' आजदेखि प्रदर्शनमा, शो र बुकिङले बढायो ओपनिङको अपेक्षा",
-   "en": "'कबड्डी ५' आजदेखि प्रदर्शनमा, शो र बुकिङले बढायो ओपनिङको अपेक्षा",
-   "ne": "'कबड्डी ५' आजदेखि प्रदर्शनमा, शो र बुकिङले बढायो ओपनिङको अपेक्षा",
-   "imp": 1,
-   "tags": [
-    "Kabaddi5",
-    "NepaliMovie",
-    "BoxOffice"
-   ],
-   "cat": "culture",
-   "val": 3,
-   "teaser": false,
-   "hits": 3
   },
   {
    "title": "Tiger Shroff Shooting Attempt Revives Organized Crime Fears in Bollywood",
@@ -1204,29 +1183,6 @@
    "val": 3,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "Tourist activity picks up in Myagdi following repairs to Beni-Jomsom road",
-   "summary": "MYAGDI: Tourist activity has begun to pick up at various destinations in Myagdi following the Dashain festival, as favorable weather and the reopening of the Beni-Jomsom road have made travel easier. The increase in...",
-   "link": "https://english.khabarhub.com/2026/23/572864/",
-   "source": "Khabarhub EN",
-   "ts": 1792720561,
-   "weight": 2,
-   "img": "https://english.khabarhub.com/wp-content/uploads/2026/10/Tatopani-Myagdi-400x220.jpg",
-   "lang": "en",
-   "hl": "Tourist activity picks up in Myagdi following repairs to Beni-Jomsom road",
-   "en": "Tourist activity picks up in Myagdi following repairs to Beni-Jomsom road",
-   "ne": "Tourist activity picks up in Myagdi following repairs to Beni-Jomsom road",
-   "imp": 3,
-   "tags": [
-    "Tourism",
-    "Myagdi",
-    "BeniJomsomRoad"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 4
   },
   {
    "title": "What's new in the Nepal Premier League's third season?",
@@ -3519,6 +3475,29 @@
     "भूकम्प"
    ],
    "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "युरोपमा गर्मीबाट ५० हजारभन्दा बढीको मृत्यु",
+   "summary": "यस वर्षको गर्मीयाममा युरोपमा अत्यधिक तापक्रमका कारण ५० हजार ३९१ जनाको मृत्यु भएको छ।",
+   "link": "https://nagariknews.nagariknetwork.com/international/more-than-50-000-die-in-europe-from-heatwave-18-77.html",
+   "source": "Nagarik News",
+   "ts": 1792746379,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2026/third-party/1782215625_europe%20france.jpg",
+   "lang": "ne",
+   "hl": "युरोपमा गर्मीबाट ५० हजारभन्दा बढीको मृत्यु",
+   "en": "युरोपमा गर्मीबाट ५० हजारभन्दा बढीको मृत्यु",
+   "ne": "युरोपमा गर्मीबाट ५० हजारभन्दा बढीको मृत्यु",
+   "imp": 1,
+   "tags": [
+    "Europe",
+    "Heatwave",
+    "World"
+   ],
+   "cat": "world",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -6461,9 +6440,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "sports"
+  },
+  {
+   "ts": 1792746657.353315,
+   "en": "Tourist activity picks up in Myagdi after Beni-Jomsom road repairs",
+   "ne": "Tourist activity picks up in Myagdi after Beni-Jomsom road repairs",
+   "link": "https://english.khabarhub.com/2026/23/572864/",
+   "source": "Khabarhub EN",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "economy"
   }
  ],
- "updated": 1792746097,
+ "updated": 1792746670,
  "pending_since": 1792746091.5265236,
  "fb_blocks": [
   1790350880.4125228,
