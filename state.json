@@ -1,9 +1,5 @@
 {
  "seen": {
-  "https://risingnepaldaily.com/news/87964": 1792588853.7559586,
-  "https://risingnepaldaily.com/news/87963": 1792588853.7559586,
-  "https://english.khabarhub.com/2026/21/572770/": 1792588853.7559586,
-  "https://baahrakhari.com/detail/505429": 1792588853.7559586,
   "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5LX244OWo4RUo2bWxUN1dpRXV2MHQ1RFhTU09YeFJfc09rYkFDa3ZPRENyNFR2V2dBTEpEYXcxX1RJWGV6OGY0a0ZLbzY4UQ?oc=5": 1792589478.7879872,
   "https://nagariknews.nagariknetwork.com/Dharma-Saskriti/in-taleju-the-common-people-received-tika-from-the-hands-of-the-goddess-and-taleju-bhavani-was-brought-into-the-temple-70-46.html": 1792589478.7879872,
   "http://lokaantar.com/story/331706/2026/10/21/kathmandu-valley-": 1792589478.7879872,
@@ -1196,30 +1192,6 @@
    ],
    "cat": "world",
    "val": 1,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "कर्णाली याक्सका अरिफुल र अकबर नेपाल आइपुगे",
-   "summary": "कर्णाली याक्समा अनुबन्ध भएका दुई बगलादेशी क्रिकेटर अरिफुल इस्लाम र अकबर अली नेपाल प्रिमियर लिग (एनपिएल) खेल्न नेपाल आइपुगेका छन्।...",
-   "link": "https://nagariknews.nagariknetwork.com/sports/karnali-yaks-ariful-and-akbar-arrive-in-nepal-96-69.html",
-   "source": "Nagarik News",
-   "ts": 1792733425,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1792733410_yaks.jpg",
-   "lang": "ne",
-   "hl": "कर्णाली याक्सका अरिफुल र अकबर नेपाल आइपुगे",
-   "en": "कर्णाली याक्सका अरिफुल र अकबर नेपाल आइपुगे",
-   "ne": "कर्णाली याक्सका अरिफुल र अकबर नेपाल आइपुगे",
-   "imp": 2,
-   "tags": [
-    "KarnaliYaks",
-    "NPL",
-    "Cricket",
-    "कर्णालीयाक्स"
-   ],
-   "cat": "sports",
-   "val": 3,
    "teaser": false,
    "hits": 1
   },
@@ -3692,17 +3664,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1792156867.2303994,
-   "en": "दसैँअघिको कारोबार दिन नेप्से ८.२३ अंकले बढेर २६३४.१७ मा बन्द",
-   "ne": "दसैँअघिको कारोबार दिन नेप्से ८.२३ अंकले बढेर २६३४.१७ मा बन्द",
-   "link": "https://baahrakhari.com/detail/505136",
-   "source": "Baahrakhari",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "economy"
-  },
   {
    "ts": 1792158681.821807,
    "en": "Nepal PM Balendra Shah prepares first official India visit, dates pending after festivals till mid-November",
@@ -6608,7 +6569,7 @@
    "cat": "politics"
   }
  ],
- "updated": 1792761653,
+ "updated": 1792762275,
  "pending_since": 1792761051.8192334,
  "fb_blocks": [
   1790350880.4125228,
