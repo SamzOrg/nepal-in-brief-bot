@@ -1454,74 +1454,6 @@
    "hits": 1
   },
   {
-   "title": "उत्तर कोरियासँग सैन्य वार्ता गर्न दक्षिण कोरियाको नयाँ पहल",
-   "summary": "दुई देशबिचको सैन्य सीमा रेखाको वास्तविक स्थान पहिचान गर्ने, सैन्य सञ्चार सेवा पुनःस्थापना गर्ने र सीमाक्षेत्रमा आकस्मिक झडप रोक्ने उपायबारे छलफल गर्नु वार्ताको मुख्य उद्देश्य रहेको दक्षिण कोरियाले जनाएको छ।...",
-   "link": "https://nagariknews.nagariknetwork.com/international/south-korea-s-new-initiative-to-hold-military-talks-with-north-korea-25-48.html",
-   "source": "Nagarik News",
-   "ts": 1792757365,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1786792050_Two%20Korea.jpg",
-   "lang": "ne",
-   "hl": "उत्तर कोरियासँग सैन्य वार्ता गर्न दक्षिण कोरियाको नयाँ पहल",
-   "en": "उत्तर कोरियासँग सैन्य वार्ता गर्न दक्षिण कोरियाको नयाँ पहल",
-   "ne": "उत्तर कोरियासँग सैन्य वार्ता गर्न दक्षिण कोरियाको नयाँ पहल",
-   "imp": 1,
-   "tags": [
-    "NorthKorea",
-    "SouthKorea"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "मकवानपुर प्रहरीले भन्यो: तोकिएभन्दा बढी भाडा लिए फोन गर्नुहोस्",
-   "summary": "निर्धारित दरभन्दा बढी भाडा असुल गरेको पाइएमा सम्बन्धित निकायमा उजुरी गर्न प्रहरीले अनुरोध गरेको हो।...",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/makawanpur-police-urges-people-to-file-complaints-against-those-charging-more-than-the-prescribed-rent-20-58.html",
-   "source": "Nagarik News",
-   "ts": 1792757201,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1792756962_Checking.jpeg",
-   "lang": "ne",
-   "hl": "मकवानपुर प्रहरीले भन्यो: तोकिएभन्दा बढी भाडा लिए फोन गर्नुहोस्",
-   "en": "मकवानपुर प्रहरीले भन्यो: तोकिएभन्दा बढी भाडा लिए फोन गर्नुहोस्",
-   "ne": "मकवानपुर प्रहरीले भन्यो: तोकिएभन्दा बढी भाडा लिए फोन गर्नुहोस्",
-   "imp": 2,
-   "tags": [
-    "Makwanpur",
-    "Police",
-    "Transport"
-   ],
-   "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "वेस्ट बैंकमा गो'लीबारी : पाँच इजरायली घाइते, दुई प्यालेस्टिनी आक्रमणकारी मा'रिए",
-   "summary": "वेस्ट बैंकको हेब्रोनमा सैन्य जाँच चौकीमा गोलीबारी हुँदा पाँच इजरायली घाइते भएका छन् भने दुई संदिग्ध प्यालेस्टिनी आक्रमणकारी मारिएका छन्।...",
-   "link": "https://nagariknews.nagariknetwork.com/international/shooting-in-west-bank-five-israelis-injured-two-palestinian-attackers-killed-br-78-18.html",
-   "source": "Nagarik News",
-   "ts": 1792756890,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1792756875_New%20Project%20(6).jpg",
-   "lang": "ne",
-   "hl": "वेस्ट बैंकमा गो'लीबारी : पाँच इजरायली घाइते, दुई प्यालेस्टिनी आक्रमणकारी मा'रिए",
-   "en": "वेस्ट बैंकमा गो'लीबारी : पाँच इजरायली घाइते, दुई प्यालेस्टिनी आक्रमणकारी मा'रिए",
-   "ne": "वेस्ट बैंकमा गो'लीबारी : पाँच इजरायली घाइते, दुई प्यालेस्टिनी आक्रमणकारी मा'रिए",
-   "imp": 1,
-   "tags": [
-    "WestBank",
-    "Israel",
-    "Palestine"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "China Successfully Launches New Remote Sensing Satellite",
    "summary": "Kathmandu. China has successfully launched a new remote sensing satellite from the Taiyuan Satellite Launch Center in Shanxi Province, northern...",
    "link": "http://english.ratopati.com/story/84357/china-launches-new-remote-sensing-satellite",
@@ -5543,8 +5475,8 @@
    "cat": "health"
   }
  ],
- "updated": 1792785689,
- "pending_since": null,
+ "updated": 1792786252,
+ "pending_since": 1792786248.587915,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
