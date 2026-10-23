@@ -930,7 +930,10 @@
   "https://news.google.com/rss/articles/CBMinAFBVV95cUxQb1d3WHlxMDBhUWNreDdwLWNTRTcwM1NHWk9tZGdVZ2NsSGVTdEY0WkFfNFNIbDR6MTJYbGhnZGROLXV3TXlnTjAweGhfZXlzNTN3Vmh0dUd6RWVpT0J1X0Qwa090dVpiT3hlY2VGM0JjbVdiWXBwR1RaN0dJcDF5bkdpMmJHS1h0YjJZNGo2OFNMeWxUZ1lVdDZBYmTSAaMBQVVfeXFMUG94ckRsSFBVUlJlZ3ZBOFdjZktHRnIxNDF0S1BNeWJpajBIM1lLN1U4c1NtWjE1QWJMeUV4SkM2UnRoTE1YLU4tQ29JLWRMc2VfTmtMb0NzMVJhT3JhQWRldHBieUFRRlpRWUNQWUVEN3FpRmNwQktTcHZremU0MHYzUGZhWXdfenVZeEY0RXhZQWJCdUdmbHhzTlpVRzdkcGktQQ?oc=5": 1792722670.4131517,
   "https://news.google.com/rss/articles/CBMiywFBVV95cUxONThwcl8ySnVzZFhKZnNYbVRFWUs4NkJWUkFUT3hYajY3TXpmVUJ6UEx5OG13ZFp2NjZfcDVnTjBnRE1wUHRsSjFBWEJEN0dnSTVNWEtiMWc1dmVXREZDOGpRNzlPVy1RUTFGQS1LQ3ZZTXJHV3dJZUZwTTJuZC04Rmc0VDRiNm8tVjdMUXZ2MDNYREFSZVA2RllZRGxnb3VTcGVrSkdtU09pZGtTaThud2ZLeGpUR1RXYmdpbkEtQk5NSVBVQ0pHd1NqZw?oc=5": 1792722670.4131517,
   "https://nagariknews.nagariknetwork.com/politics/ravi-lamichhane-leaves-for-india-83-40.html": 1792723246.5357482,
-  "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTlVRZ1pRQmFHclNSbW1xY0szUm5hdHZ4NnVQemZWcmxOWW1jRnFCcC1aM2wydFoyVUxYLWptNUk0VDJDVlhWay1MUi1JQVl5V2xpT1FFVy14U2Vhd2IxZmJQRHN2aHpRaHlZQXhrTGt4d0R5bE51TlVBT0xzeWtpUk9hR3g4QWxmbUp3SE1xU0NUVTdhNy1mTXBQSlk0WWJtSklCX0NaMUU5a1RWT0JFbkpQMDhjbXM?oc=5": 1792723246.5357482
+  "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTlVRZ1pRQmFHclNSbW1xY0szUm5hdHZ4NnVQemZWcmxOWW1jRnFCcC1aM2wydFoyVUxYLWptNUk0VDJDVlhWay1MUi1JQVl5V2xpT1FFVy14U2Vhd2IxZmJQRHN2aHpRaHlZQXhrTGt4d0R5bE51TlVBT0xzeWtpUk9hR3g4QWxmbUp3SE1xU0NUVTdhNy1mTXBQSlk0WWJtSklCX0NaMUU5a1RWT0JFbkpQMDhjbXM?oc=5": 1792723246.5357482,
+  "http://english.ratopati.com/story/84314/uml-expresses-sorrow-over-the-death-of-a-nepali-man-in-saudi-arabia-due-to-debris-from-a-drone-attack": 1792723846.4805236,
+  "https://nagariknews.nagariknetwork.com/politics/uml-expresses-sorrow-over-the-death-of-a-nepali-in-a-drone-attack-in-saudi-arabia-13-90.html": 1792723846.4805236,
+  "https://english.khabarhub.com/2026/23/572877/": 1792723846.4805236
  },
  "queue": [
   {
@@ -1279,7 +1282,7 @@
    "cat": "society",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "\"Yemen needs political horizon\": UN chief calls for restraint in region",
@@ -1684,6 +1687,30 @@
    ],
    "cat": "culture",
    "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Floods and landslides disrupt major highways in several districts",
+   "summary": "KATHMANDU: Floods and landslides have disrupted traffic along several major highways and road sections across the country, with key routes in Myagdi, Gorkha and Surkhet affected, according to Nepal Police. Police data...",
+   "link": "https://english.khabarhub.com/2026/23/572877/",
+   "source": "Khabarhub EN",
+   "ts": 1792723544,
+   "weight": 2,
+   "img": "https://english.khabarhub.com/wp-content/uploads/2026/08/landslide-400x220.jpg",
+   "lang": "en",
+   "hl": "Floods and landslides disrupt major highways in several districts",
+   "en": "Floods and landslides disrupt major highways in several districts",
+   "ne": "Floods and landslides disrupt major highways in several districts",
+   "imp": 4,
+   "tags": [
+    "Floods",
+    "Landslide",
+    "NepalHighways",
+    "पहिरो"
+   ],
+   "cat": "disaster",
+   "val": 2,
    "teaser": false,
    "hits": 1
   }
@@ -4638,7 +4665,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1792723310,
+ "updated": 1792723858,
  "pending_since": 1792722047.4044864,
  "fb_blocks": [
   1790350880.4125228,
