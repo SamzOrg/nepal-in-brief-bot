@@ -1036,7 +1036,9 @@
   "https://nagariknews.nagariknetwork.com/social-affairs/772-tourists-arrive-in-mustang-via-thorong-la-pass-in-two-weeks-50-83.html": 1792740679.6889095,
   "https://theannapurnaexpress.com/story/68166": 1792741251.7684832,
   "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSFFtVERtdmFUcWg5QXRxaEZMdWVfa2RIaFdYenFvMjk1TVFpVlZyM2dmSXFrQmtHVDYzRUJiZ3VqVUZTX1ZYcjhTSmI1bHhnWHlYaW5sWkVac0NYUlBOQ2FSWnEyX1lpcjFxT0pSc3UwWEVvdXFITGxVQjliay1aRg?oc=5": 1792741251.7684832,
-  "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVU9OcC15TGt6aTZ5bXhKa244UzBrNmdadElxR25EREdJRGVpb0U2bVp5cmNLckJ6bFd4OFVfdDBNMll6cFo3Ylk1M3dJWDZvYnVURXJhQXg0SVM0SmFLOG9KVVo2eTJjMkMtRlo0eGNmblNLME5WbUJwMndKMHhBVkdaSUd6MU8zaEh3c0UyQTQtUFU?oc=5": 1792741251.7684832
+  "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVU9OcC15TGt6aTZ5bXhKa244UzBrNmdadElxR25EREdJRGVpb0U2bVp5cmNLckJ6bFd4OFVfdDBNMll6cFo3Ylk1M3dJWDZvYnVURXJhQXg0SVM0SmFLOG9KVVo2eTJjMkMtRlo0eGNmblNLME5WbUJwMndKMHhBVkdaSUd6MU8zaEh3c0UyQTQtUFU?oc=5": 1792741251.7684832,
+  "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUGxpNzlkSmJaSzhtc0tabFR1THJtSE9SRkc3dmV3TGE3RU56OVliazI0TDQyNkVsc0h3bGVxaWVReU9rS3dVY0JYV1FHc0ZNYnJLOURabXYxSGRSbnJuY3lIY21oemdhRnpkOTh1WkU4M0lnTURORHdtZ2VsWXZWc0gtdUJ3d3F1eTdjSElVbnltUVdfT1ZxVnkwb0EwLWZPNjJz0gGzAUFVX3lxTE9XdHk1XzR3T3lGbmlaV2xzTWU2T3RKWGVCUW1lS1NweFUybHhDRl9vbDdHSUhiWUxENVRhR09zdDZzS0tkTmVQS0JkUW5ZbXlqc2VQSTJVMG8yWlRfTXlZTENEV0MxZGkzS0xhb1NWNUdHaWR4QVZBOUpaM2xqZ29zeC1xVlN1a0daei1GbGlHS1RHQmE3aGdmd0hfWUJpNzBhWlRybDFxSjdRdFdhUkk5R1NV?oc=5": 1792741846.8854473,
+  "http://lokaantar.com/story/331778/2026/10/23/arrest-": 1792741846.8854473
  },
  "queue": [
   {
@@ -2941,7 +2943,7 @@
    "cat": "crime",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "सर्बियामा विद्यार्थी आन्दोलनको समर्थनमा विशाल र्‍याली, बेलग्रेडमा जुटे करिब डेढ लाख नागरिक",
@@ -3266,17 +3268,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1792136473.1202552,
-   "en": "नेपालले पाउने वैदेशिक सहायता प्रतिवद्धतामा ४०.९ प्रतिशतले गिरावट",
-   "ne": "नेपालले पाउने वैदेशिक सहायता प्रतिवद्धतामा ४०.९ प्रतिशतले गिरावट",
-   "link": "https://baahrakhari.com/detail/505122",
-   "source": "Baahrakhari",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "economy"
-  },
   {
    "ts": 1792138277.4109018,
    "en": "कोशी प्रदेश सरकारद्वारा बजेट संशोधनको तयारी, करिब ५ अर्बका नयाँ योजना घुसाउने गृहकार्य",
@@ -6215,7 +6206,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1792741284,
+ "updated": 1792741868,
  "pending_since": 1792740679.6889095,
  "fb_blocks": [
   1790350880.4125228,
