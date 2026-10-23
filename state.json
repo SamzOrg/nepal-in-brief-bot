@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdjJHZTYzdGVtdFNyOERtMGRvU3U2TE1lcmc3dl9xbWtRNFZaVEhFRklCU1VHYjVReU1YUS1IRHV5andDQVhHVDRxLUF0VTFNU25kVGE2UF8tc2hTZ2RQVXVBdUVtV2RwbXVyUmlMQ2hWWThXQXowbWRqWllMaFkxT3dCaHNueWdDdXk0SEVMQQ?oc=5": 1792615253.6933048,
-  "https://news.google.com/rss/articles/CBMifEFVX3lxTE9PT0xhYVJlUTZPUksxMzlCRlRfOGdoOHNzRXcwMjZmSkpTNkpsSlRVdmpVamJCQURoRkdfY2hPSnVGbHVScHF4UVdZZTlHU2dvYkl6UUNSelBQSXI5TlVTQ3NZc3JqNk1MZ1dZcndmWm5MekpQeHBOZUhDdzM?oc=5": 1792615253.6933048,
   "https://news.google.com/rss/articles/CBMisAJBVV95cUxPUzRNbWJ3ZVkwUTVJOWpiZHFZVEFRNVMydGI2c3NGM1NnalVMZlJ5a2dvRFUxNjgyNnJxdC1oRTZROThseTV4WXg0bG5ISWlLRUFWX1VoNkNTX2ZMMHo1WHZiN1Q0NHdwSFBpZEdsdU5aR2NSeVhfdFo3ZEhFWVlrNFc3aXowUUhoZEhPek9FZ1ZwaDgtVGxyb1VKMEFzTXo0RUV4LXpyNXNYWXZzdGk0N2Nab2VFaTR3cUFJel83SHZjUFY1WFd2dUxkMXdlS2xUUHNyUGJQTWhBTDk4M3lKcjRBdGJ6Q1ZNY052a1F3eExtZUZvRVVLOEc5cUNYVHJqNUdReHdOclI5VWtVVGdZY01SbTlMRW94bkw4S0RQWHRGcjlQWjZkc1lLWGhOdDZr0gGwAkFVX3lxTE9TNE1tYndlWTBRNUk5amJkcVlUQVE1UzJ0YjZzc0YzU2dqVUxmUnlrZ29EVTE2ODI2cnF0LWhFNlE5OGx5NXhZeDRsbkhJaUtFQVZfVWg2Q1NfZkwwejVYdmI3VDQ0d3BIUGlkR2x1TlpHY1J5WF90WjdkSEVZWWs0VzdpejBRSGhkSE96T0VnVnBoOC1UbHJvVUowQXNNejRFRXgtenI1c1hZdnN0aTQ3Y1pvZUVpNHdxQUl6XzdIdmNQVjVYV3Z1TGQxd2VLbFRQc3JQYlBNaEFMOTgzeUpyNEF0YnpDVk1jTnZrUXd4TG1lRm9FVUs4RzlxQ1hUcmo1R1F4d05yUjlVa1VUZ1ljTVJtOUxFb3huTDhLRFBYdEZyOVBaNmRzWUtYaE50Nms?oc=5": 1792617652.7985146,
   "http://english.ratopati.com/story/84267/real-madrids-impressive-4-1-win-over-rb-leipzig": 1792621872.074107,
   "http://english.ratopati.com/story/84269/aston-villa-move-up-to-second-place-with-3-1-win-over-vikings": 1792622447.8839335,
@@ -1166,28 +1164,6 @@
  },
  "queue": [
   {
-   "title": "Scooter rider killed in Syangja",
-   "summary": "WALING: A woman died after the scooter she was riding veered off the road in Thanti, Biruwa Rural Municipality-3, Syangja district. According to Ramesh Dutta Awasthi, information officer at the District Police Office,...",
-   "link": "https://english.khabarhub.com/2026/23/572931/",
-   "source": "Khabarhub EN",
-   "ts": 1792759777,
-   "weight": 2,
-   "img": "https://english.khabarhub.com/wp-content/uploads/2025/06/motorcycle-accident-bike-400x220.jpg",
-   "lang": "en",
-   "hl": "Scooter rider killed in Syangja",
-   "en": "Scooter rider killed in Syangja",
-   "ne": "Scooter rider killed in Syangja",
-   "imp": 2,
-   "tags": [
-    "Syangja",
-    "TrafficAccident"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Fake Polls Undermine US Election Integrity",
    "summary": "Kathmandu. With the US midterm elections approaching, questions have arisen about the credibility of election surveys after an organization admitted...",
    "link": "http://english.ratopati.com/story/84354/fake-election-poll-scandal-in-america-even-major-media-outlets-were-fooled",
@@ -1482,29 +1458,6 @@
    "val": 1,
    "teaser": true,
    "hits": 1
-  },
-  {
-   "title": "Tanker with Russian diesel heads to New York under Trump deal",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUlZWSGNHTzN4ZEVub0U0ZndRblZrdURXcnNDZkJ4UHlmYzU3QkJYRlJaTFhuM1hSMXVrd1ZDX2toYTE5dUJ6ek1tYTJUZEhPZWo2TUFfVDlsamNqNTZmRWFId1Nsei11cUxQOEo2VVhPbHZTYnpjNjZuMU5UbG5panFWdkhObFVyTVNmVmUxNGRaaGo1czhFS3VWUDVpSkVwNEFOMlFrZkY1d0ljY2VOR212ZzZ0am5KU1h5TFZXV3dUQQ?oc=5",
-   "source": "myRepublica",
-   "ts": 1792759500,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Tanker with Russian diesel heads to New York under Trump deal",
-   "en": "Tanker with Russian diesel heads to New York under Trump deal",
-   "ne": "Tanker with Russian diesel heads to New York under Trump deal",
-   "imp": 1,
-   "tags": [
-    "RussianDiesel",
-    "NewYork",
-    "Trump"
-   ],
-   "cat": "economy",
-   "val": 2,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "Former Employee Loses 5.5 Million Rupees to Cyber Fraud",
@@ -5298,8 +5251,8 @@
    "cat": "health"
   }
  ],
- "updated": 1792788056,
- "pending_since": 1792788052.5676882,
+ "updated": 1792788651,
+ "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
