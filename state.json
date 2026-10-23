@@ -1,8 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMigAFBVV95cUxQczBuQXNaYTVXUENPWjBpOEg4QzZEdXdNV21oS2hvOW5WTW1SWUJyV1c0ZnItbEx4dHhfQ1JkSEVqREtzVW5pdlFQWnY3RnpHdXMzYkdOdTZxRDhvdU9OMS0yZG10OFBGdnJ4T2psSjhmWkVkQlBTMldkWmNoYkdtWg?oc=5": 1792607474.4617436,
-  "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUFZCdUxRT3NuS3FZeEl5NU1oMWsyZXVRX2hIeEZjaGI5QnhLaGlybXdHcUtXdHcteDBHVVEtN1RvLXBHTmV4NVVRRXYwQnN1QjVMRlg4SmZwRExCM3BYYm05RFltcUZLVkhZcTdqVGliNFdMUVJMVDhQRVZuSXoyLW5yTkllM05m?oc=5": 1792608054.0545208,
-  "https://news.google.com/rss/articles/CBMiekFVX3lxTE10OTQtT2pQVTJCZjM5MHZLRVdld1dZcGFIdDZZY0F2dmlGeHNESTlxdlNIVEZFaGgwSTJMaVo1Tzl5d2E2dlg4SzVYZGFodVBDS0ZRUnFoeWhoekp1TUktVDRZTEdCdHF6d2Z2bUdleF9kSHp2YjZBR1B3?oc=5": 1792608054.0545208,
   "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNeHVNN1RmTDBXQnQ5QWZfUzg2ajNlUFJDSFVxc3lYd04zZ21uY2FxNUdNS1dVeWpZeG1MRlpJNFBuUm00NkVXc1QtY25XT1V2MnlmZnJNMzlkNGtsamY4Y3NmRDdxb3NVUE9QaUt6M0p5eEQ3MGc3bGp0YzVCMWxmV25RQWxpNWZOeXZhXzJXSkFIX1lEQzNCZmdhNHpCZVJrTkFNX2s0QUV2NERON3plaUFQbksxOTZ4LXhfS20yVzNBbGlMT2N1VFMwOWhyenRaakJ6bDhwQVZubzBjNVHSAd4BQVVfeXFMTXh1TTdUZkwwV0J0OUFmX1M4NmozZVBSQ0hVcXN5WHdOM2dtbmNhcTVHTUtXVXlqWXhtTEZaSTRQblJtNDZFV3NULWNuV09VdjJ5ZmZyTTM5ZDRrbGpmOGNzZkQ3cW9zVVBPUGlLejNKeXhENzBnN2xqdGM1QjFsZlduUUFsaTVmTnl2YV8yV0pBSF9ZREMzQmZnYTR6QmVSa05BTV9rNEFFdjRETjd6ZWlBUG5LMTk2eC14X0ttMlczQWxpTE9jdVRTMDlocnp0WmpCemw4cEFWbm8wYzVR?oc=5": 1792608654.6534612,
   "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZUFPODU3blJHdzg4b2dfRXpGVkIwTms4M2dCWnlMelo4cEhNaWMwX0Q1X25iYWdzV2lEVXJrX2Frc2d3WHYtUVNYM0hJZmJYOXlURDRLZFlGRS1HTTA4Vk1VSmZQUnpqemRTQV94cWo4cUNKYkd1bV9mcmF4dS1zWVQ5c1FPZWlyQWtpczZGSm9Jdlo0YTZBZlFVQWMwWUlnX0J5Y3AzWXU?oc=5": 1792609292.9296162,
   "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ndG9ydUFuXzZkR2E2WFgtazZTd1d6YkRJLTFOdkxiU09xY0Q1cUNTYk9rNVVWYTdBUFYzcXlaQkI1WExhZGYxWFZGVXU4YTlrZENiLWlod0djNHp1azZLYTYwbUg3dHFtM1VmYUU5VlRwaTg4TjNnV2hoQ2JNUQ?oc=5": 1792609858.8048177,
@@ -1158,7 +1155,9 @@
   "https://news.google.com/rss/articles/CBMi0AFBVV95cUxONExfckdHQU5jYXNuTmZwWG5XdlhMX1FBcnVCREFTNmR3YVA1RFRXdG4wa1ktNVJiMFh1R2pGZFVCVE5GM2QxM0o4YTNxY2xtMDQ2QmRHNTZqaXBiM2xkNTdVaW9tei1yUXU5OGotcXFSLW42cVI1bGRkU0FnbE9tRW9HaTd3cVgxSGRXZGM4RWR0VjZZWHBzOVQxTE1YbU5zRmJmRkRfOU1PWGJORlZNdlBEUTJOUzkzblZLeWxFalZ2RmdaOVAzNnFKcE9GQWRz0gHeAUFVX3lxTE1qTWEtMjhYN1NJWVR5TjRKanN3aU1oQVk5UUNLSGtrdVdLYl80ZWJ0Tmt5eVJPTDZZcmtQblpvZWQ3bGFHUkdjS0tUaVV0N0dlcFFCWGhsODd4UWZXSWRLNndUMlNQYmwyRkFLMnQ2MWRzUHJxbkl4V2EwSWl1RjE2R2JfWDByOFVHeF9ZSmtpVEw3UEl1Qzd6NktwOVdxV1k2YWhwd3JQUk95cEJuTUhPeXJuVnBtcGpOb1BELU96VG1kNHpQTTN5Qm5BZllJUUlDcFNNbTl1UUp6MUFtdw?oc=5": 1792777246.3504376,
   "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNak1hLTI4WDdTSVlUeU40Smpzd2lNaEFZOVFDS0hra3VXS2JfNGVidE5reXlST0w2WXJrUG5ab2VkN2xhR1JHY0tLVGlVdDdHZXBRQlhobDg3eFFmV0lkSzZ3VDJTUGJsMkZBSzJ0NjFkc1BycW5JeFdhMElpdUYxNkdiX1gwcjhVR3hfWUpraVRMN1BJdUM3ejZLcDlXcVdZNmFocHdyUFJPeXBCbk1IT3lyblZwbXBqTm9QRC1PelRtZDR6UE0zeUJuQWZZSVFJQ3BTTW05dVFKejFBbXfSAd4BQVVfeXFMTWpNYS0yOFg3U0lZVHlONEpqc3dpTWhBWTlRQ0tIa2t1V0tiXzRlYnROa3l5Uk9MNllya1BuWm9lZDdsYUdSR2NLS1RpVXQ3R2VwUUJYaGw4N3hRZldJZEs2d1QyU1BibDJGQUsydDYxZHNQcnFuSXhXYTBJaXVGMTZHYl9YMHI4VUd4X1lKa2lUTDdQSXVDN3o2S3A5V3FXWTZhaHB3clBST3lwQm5NSE95cm5WcG1wak5vUEQtT3pUbWQ0elBNM3lCbkFmWUlRSUNwU01tOXVRSnoxQW13?oc=5": 1792777847.9053733,
   "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTzh6THBpY3BPZzFfa1p5RXdtb2hTMlg5ODRNMnJvUjJKc0lSbzNyb1FhcjBZNGx2TmFPOGxaR0liR0lJNmFhRnhUM1FTQ0FQalhxX18xZWRnT0ZZbUEtYnYxNUxHZ2xROVBuMEN6RmpiRlJueVJtRUE0dHo0d3BUaDd6a2pmWFdtc2dmZGNjNGlpQXB3aDVueDZ3S1VraElibmxJMG00Qmw?oc=5": 1792778496.1946003,
-  "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPdjR5ZG1xdjNIS2tQaFd3ZURSWFk3VHBxUktOUFJ0dHJSNlhHSGs4U1hyNDd0bm1SblVYc0FuR2lOQVpiMkU1QmZOMU85R0tRN2hrbU0zenpOTWJZRkp6WWRWeWRRRDFaSk9UZS0xY3NJVEU5cWZ5V0RQR2JXTERDTUF1c2pqUUttVFQ4dk5lQlVJSFAyRHhuczZ1LTlNMnh0aHd3Y1pOck9MYVU3T2RZMElWcnJXYk1tNFZJN08xRTIxVlExQWdMRnNKUG1OY3huNVJ3N3hNWWZNeTlGSlkxZ1I3clpfTTA?oc=5": 1792779050.8904257
+  "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPdjR5ZG1xdjNIS2tQaFd3ZURSWFk3VHBxUktOUFJ0dHJSNlhHSGs4U1hyNDd0bm1SblVYc0FuR2lOQVpiMkU1QmZOMU85R0tRN2hrbU0zenpOTWJZRkp6WWRWeWRRRDFaSk9UZS0xY3NJVEU5cWZ5V0RQR2JXTERDTUF1c2pqUUttVFQ4dk5lQlVJSFAyRHhuczZ1LTlNMnh0aHd3Y1pOck9MYVU3T2RZMElWcnJXYk1tNFZJN08xRTIxVlExQWdMRnNKUG1OY3huNVJ3N3hNWWZNeTlGSlkxZ1I3clpfTTA?oc=5": 1792779050.8904257,
+  "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM1NWV2hwQlozeUsteGp1Y3p1TjhuZThkODlPdFNUc1VDTWdWZGNhRng5b3B2Q2dPVTNxTUVScExNSC1uWlItcTFFNV9GQVBSSExneFNfaGZkVU0wcXJXamt0V1lQMzRPUkd0RXFfSU9ISVJnQTFLc0Y0TXNMbjJ1N0ZWLUVXcEk4RnFodjhXWWx5ODZBZnk1eEh3?oc=5": 1792780855.4704068,
+  "https://kathmandupost.com/world/2026/10/23/ambani-s-jio-becomes-most-subscribed-indian-ipo-with-77-billion-in-bids": 1792780855.4704068
  },
  "queue": [
   {
@@ -1229,28 +1228,6 @@
    "val": 3,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "Giant Pumpkin Weighs Over 3,000 Pounds, May Break World Record",
-   "summary": "Kathmandu. A giant pumpkin weighing 3,156 pounds (about 1,431 kilograms) produced in Rhode Island, USA, has the potential to break...",
-   "link": "http://english.ratopati.com/story/84348/3156-pound-perch-likely-to-set-world-record",
-   "source": "Ratopati EN",
-   "ts": 1792751573,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/farsi_yijDiP16ri.webp",
-   "lang": "en",
-   "hl": "Giant Pumpkin Weighs Over 3,000 Pounds, May Break World Record",
-   "en": "Giant Pumpkin Weighs Over 3,000 Pounds, May Break World Record",
-   "ne": "Giant Pumpkin Weighs Over 3,000 Pounds, May Break World Record",
-   "imp": 1,
-   "tags": [
-    "GiantPumpkin",
-    "WorldRecord"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "Nepal mixes tradition and technology for conservation",
@@ -2098,28 +2075,6 @@
    "hits": 1
   },
   {
-   "title": "Europe's deadliest summer in 26 years leaves 50,000 dead, study estimates",
-   "summary": "Scientists estimate that fossil fuel-driven climate change contributed to about two-thirds of heat-related deaths across 854 cities in 30 European countries.",
-   "link": "https://kathmandupost.com/world/2026/10/23/europe-s-deadliest-summer-in-26-years-leaves-50-000-dead-study-estimates",
-   "source": "Kathmandu Post",
-   "ts": 1792751483.4795773,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Europe's deadliest summer in 26 years leaves 50,000 dead, study estimates",
-   "en": "Europe's deadliest summer in 26 years leaves 50,000 dead, study estimates",
-   "ne": "Europe's deadliest summer in 26 years leaves 50,000 dead, study estimates",
-   "imp": 1,
-   "tags": [
-    "Europe",
-    "DeadliestSummer"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "One Dead, Five Injured in Shooting Near Paris",
    "summary": "Kathmandu. One person has died in a shooting near the capital of France, Paris. Five people were injured. Three of...",
    "link": "http://english.ratopati.com/story/84359/shots-fired-near-paris-suspect-indiscriminately-targets-civilians-from-car",
@@ -2185,52 +2140,6 @@
    "val": 2,
    "teaser": false,
    "hits": 2
-  },
-  {
-   "title": "Why NC President Thapa should not undermine the Deuba faction",
-   "summary": "Last week, Gagan Kumar Thapa was elected president of the Nepali Congress (NC). While this marks a major personal achievement for him, his elevation to the party's top post has come at a steep cost: the party has...",
-   "link": "https://theannapurnaexpress.com/story/68171",
-   "source": "Annapurna Express",
-   "ts": 1792752049.6713753,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Why NC President Thapa should not undermine the Deuba faction",
-   "en": "Why NC President Thapa should not undermine the Deuba faction",
-   "ne": "Why NC President Thapa should not undermine the Deuba faction",
-   "imp": 3,
-   "tags": [
-    "NepaliCongress",
-    "Thapa",
-    "Deuba"
-   ],
-   "cat": "politics",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Dashain brings fewer domestic tourists to Sauraha",
-   "summary": "Hoteliers say fears of renewed road closures have kept visitors away, although international tourists are gradually returning after flood-related cancellations.",
-   "link": "https://kathmandupost.com/money/2026/10/23/dashain-brings-fewer-domestic-tourists-to-sauraha",
-   "source": "Kathmandu Post",
-   "ts": 1792752049.182443,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Dashain brings fewer domestic tourists to Sauraha",
-   "en": "Dashain brings fewer domestic tourists to Sauraha",
-   "ne": "Dashain brings fewer domestic tourists to Sauraha",
-   "imp": 2,
-   "tags": [
-    "Dashain",
-    "Sauraha",
-    "Tourism"
-   ],
-   "cat": "culture",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
   },
   {
    "title": "Former Employee Loses 5.5 Million Rupees to Cyber Fraud",
@@ -3122,6 +3031,30 @@
     "बाढी"
    ],
    "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Ambani's Jio becomes most subscribed Indian IPO with $77 billion in bids",
+   "summary": "The offering surpasses the 2008 Reliance Power IPO, attracting more than 13.8 million applications and drawing strong demand from institutional and retail investors.",
+   "link": "https://kathmandupost.com/world/2026/10/23/ambani-s-jio-becomes-most-subscribed-indian-ipo-with-77-billion-in-bids",
+   "source": "Kathmandu Post",
+   "ts": 1792766456.2911491,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "Ambani's Jio becomes most subscribed Indian IPO with $77 billion in bids",
+   "en": "Ambani's Jio becomes most subscribed Indian IPO with $77 billion in bids",
+   "ne": "Ambani's Jio becomes most subscribed Indian IPO with $77 billion in bids",
+   "imp": 1,
+   "tags": [
+    "RelianceJio",
+    "IPO",
+    "India",
+    "Ambani"
+   ],
+   "cat": "economy",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -6044,8 +5977,8 @@
    "cat": "health"
   }
  ],
- "updated": 1792780275,
- "pending_since": 1792779050.8904257,
+ "updated": 1792780891,
+ "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
