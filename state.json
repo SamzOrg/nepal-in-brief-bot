@@ -2977,17 +2977,6 @@
  ],
  "posted": [
   {
-   "ts": 1792134676.2392957,
-   "en": "Satellite detected mudflow as of 11 October 2026 in Gorkha District, Gandaki Province, Nepal (Imagery Analysis: 11/10/2026 Published: 15/10/2026 V1)",
-   "ne": "Satellite detected mudflow as of 11 October 2026 in Gorkha District, Gandaki Province, Nepal (Imagery Analysis: 11/10/2026 Published: 15/10/2026 V1)",
-   "link": "https://reliefweb.int/map/nepal/satellite-detected-mudflow-11-october-2026-gorkha-district-gandaki-province-nepal-imagery-analysis-11102026-published-15102026-v1",
-   "source": "ReliefWeb",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "disaster"
-  },
-  {
    "ts": 1792136473.1202552,
    "en": "नेपालले पाउने वैदेशिक सहायता प्रतिवद्धतामा ४०.९ प्रतिशतले गिरावट",
    "ne": "नेपालले पाउने वैदेशिक सहायता प्रतिवद्धतामा ४०.९ प्रतिशतले गिरावट",
@@ -5925,7 +5914,7 @@
    "cat": "culture"
   }
  ],
- "updated": 1792739478,
+ "updated": 1792740052,
  "pending_since": 1792738253.580506,
  "fb_blocks": [
   1790350880.4125228,
