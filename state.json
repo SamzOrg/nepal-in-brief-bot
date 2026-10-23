@@ -1,9 +1,5 @@
 {
  "seen": {
-  "https://thehimalayantimes.com/nepal/bijaya-dashami-being-celebrated-today-with-tika-and-jamara": 1792546265.709875,
-  "https://nagariknews.nagariknetwork.com/politics/president-poudel-to-receive-dashain-tika-from-guru-purohit-94-48.html": 1792546265.709875,
-  "http://lokaantar.com/story/331672/2026/10/21/muktinath-": 1792546265.709875,
-  "http://lokaantar.com/story/331673/2026/10/21/kim-jong-un": 1792546265.709875,
   "https://baahrakhari.com/detail/505399": 1792546846.533382,
   "https://nagariknews.nagariknetwork.com/Dharma-Saskriti/dashain-tika-to-be-offered-to-those-without-guardians-at-muktinath-temple-65-56.html": 1792546846.533382,
   "https://english.khabarhub.com/2026/21/572737/": 1792546846.533382,
@@ -924,32 +920,19 @@
   "https://theannapurnaexpress.com/story/68152": 1792716653.6270292,
   "http://lokaantar.com/story/331757/2026/10/23/tibet-earthquake-": 1792717847.1937058,
   "https://www.setopati.com/social/401192": 1792717847.1937058,
-  "https://kathmandupost.com/world/2026/10/23/earthquake-of-magnitude-7-strikes-china-s-tibet-killing-16": 1792718447.9653318
+  "https://kathmandupost.com/world/2026/10/23/earthquake-of-magnitude-7-strikes-china-s-tibet-killing-16": 1792718447.9653318,
+  "http://english.ratopati.com/story/84306/cricket-legend-naveen-singh-who-was-overlooked-amidst-the-glitter-of-the-multi-million-npl": 1792719071.999971,
+  "https://baahrakhari.com/detail/505492": 1792719071.999971,
+  "https://nagariknews.nagariknetwork.com/politics/nepali-congress-expresses-sorrow-over-death-of-nepali-in-saudi-arabia-11-76.html": 1792719071.999971,
+  "https://english.khabarhub.com/2026/23/572861/": 1792719071.999971,
+  "https://theannapurnaexpress.com/story/68154": 1792719071.999971,
+  "https://kathmandupost.com/world/2026/10/23/hacking-attempts-surge-as-firms-race-to-patch-php-flaws": 1792719071.999971,
+  "http://lokaantar.com/story/331758/2026/10/23/dashain-": 1792719071.999971,
+  "http://english.ratopati.com/story/84307/artificial-dam-in-community-forest-area-ease-in-irrigation": 1792719071.999971,
+  "https://baahrakhari.com/detail/505491": 1792719071.999971,
+  "https://theannapurnaexpress.com/story/68153": 1792719071.999971
  },
  "queue": [
-  {
-   "title": "How Shraddha kept ahead of police after Nepal return | Hindustan Times",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcS0zUFhidmxpNFgyWDAyRmhLdUJ3MVRqX1JlLUMyVUlWMTJWaVhOajNMWDhmbTdFZU5ublZvZkVNeE9BWlhoOEZON1Ywb3pnSHphSXlZUWlJRDlyUXRfTnpMNnVKWlBzX2VEaW9fN0JYaGVkOXEwOHExb1U5TlpSbkhZN3JFa2pZLW5wTkhxZzE4bzZPbTUwLVM2clo3YnZub2IxWV84TUlIZTk0S1FGblBpR0NESDlxSTFmdlg2VzBYd9IBxwFBVV95cUxOWmJSeW1PamRJcDVDM05BWnRjOWx0VDRKcTAtZTlCeHFWUTAyQWRhYkZKaUVEQ3NhSGFuSW9heTVEZTdLNTYyanBzU24tSDB0UDlvZGZaVEJ0Q21aWWlNZ092REtHak8wSXRHam8yWU9iVUYzTVQySG53cm9xcG5IT0VxUjN1ZkdkN2dfZURGVGQ3MmFfTUVEOVpSdnBDandpM0dfeGRaMEl2eWhicTI2LXkwS2Qxb2FWTENpUTE1cGNOOVdXSklr?oc=5",
-   "source": "Hindustan Times",
-   "ts": 1792690163,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "How Shraddha kept ahead of police after Nepal return | Hindustan Times",
-   "en": "How Shraddha kept ahead of police after Nepal return | Hindustan Times",
-   "ne": "How Shraddha kept ahead of police after Nepal return | Hindustan Times",
-   "imp": 1,
-   "tags": [
-    "Shraddha",
-    "India",
-    "Police"
-   ],
-   "cat": "crime",
-   "val": 1,
-   "teaser": false,
-   "hits": 1
-  },
   {
    "title": "Malaysia Continues Efforts To Trace 54 Malaysians Still Uncontactable In Nepal",
    "summary": "",
@@ -1253,20 +1236,208 @@
    "val": 3,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "Senior Cricketer Naveen Singh Recounts Struggles and Successes in Nepali Cricket",
+   "summary": "Janakpurdham. Nepali cricket is at its most golden moment. The third edition of the Premier League (NPL), recently given official...",
+   "link": "http://english.ratopati.com/story/84306/cricket-legend-naveen-singh-who-was-overlooked-amidst-the-glitter-of-the-multi-million-npl",
+   "source": "Ratopati EN",
+   "ts": 1792719000,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/circket_vgXWDgAGNg.webp",
+   "lang": "en",
+   "hl": "Senior Cricketer Naveen Singh Recounts Struggles and Successes in Nepali Cricket",
+   "en": "Senior Cricketer Naveen Singh Recounts Struggles and Successes in Nepali Cricket",
+   "ne": "Senior Cricketer Naveen Singh Recounts Struggles and Successes in Nepali Cricket",
+   "imp": 2,
+   "tags": [
+    "NaveenSingh",
+    "Cricket"
+   ],
+   "cat": "sports",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "चलचित्र 'कबड्डी ५' आजबाट हलमा",
+   "summary": "",
+   "link": "https://baahrakhari.com/detail/505492",
+   "source": "Baahrakhari",
+   "ts": 1792717714,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "चलचित्र 'कबड्डी ५' आजबाट हलमा",
+   "en": "चलचित्र 'कबड्डी ५' आजबाट हलमा",
+   "ne": "चलचित्र 'कबड्डी ५' आजबाट हलमा",
+   "imp": 1,
+   "tags": [
+    "Kabaddi5",
+    "Film"
+   ],
+   "cat": "culture",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "साउदी अरबमा नेपालीको मृ*त्यु भएको घटनाप्रति कांग्रेसद्वारा दुःख व्यक्त",
+   "summary": "नेपाली कांग्रेसका कार्यवाहक मुख्यसचिव कृष्णप्रसाद दुलालले विज्ञप्ति जारी गर्दै यस दुखद घडीमा पीडा सहन गर्ने शक्ति मिलोस् भन्ने कामना गरेका छन्।...",
+   "link": "https://nagariknews.nagariknetwork.com/politics/nepali-congress-expresses-sorrow-over-death-of-nepali-in-saudi-arabia-11-76.html",
+   "source": "Nagarik News",
+   "ts": 1792716484,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2025/third-party/1767774667_congress.jpg",
+   "lang": "ne",
+   "hl": "साउदी अरबमा नेपालीको मृ*त्यु भएको घटनाप्रति कांग्रेसद्वारा दुःख व्यक्त",
+   "en": "साउदी अरबमा नेपालीको मृ*त्यु भएको घटनाप्रति कांग्रेसद्वारा दुःख व्यक्त",
+   "ne": "साउदी अरबमा नेपालीको मृ*त्यु भएको घटनाप्रति कांग्रेसद्वारा दुःख व्यक्त",
+   "imp": 2,
+   "tags": [
+    "SaudiArabia",
+    "NepaliDiaspora"
+   ],
+   "cat": "society",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "\"Yemen needs political horizon\": UN chief calls for restraint in region",
+   "summary": "NEW YORK: United Nations Secretary-General Antonio Guterres on Thursday called for restraint amid escalation of hostilities in Yemen. He also condemned the \"Houthi attacks against civilian targets\" in Saudi Arabia. In a...",
+   "link": "https://english.khabarhub.com/2026/23/572861/",
+   "source": "Khabarhub EN",
+   "ts": 1792716059,
+   "weight": 2,
+   "img": "https://english.khabarhub.com/wp-content/uploads/2023/10/Antonio-Guterres_Parliament_Address_Nepal-scaled-e1698749502315-640x360.jpg",
+   "lang": "en",
+   "hl": "\"Yemen needs political horizon\": UN chief calls for restraint in region",
+   "en": "\"Yemen needs political horizon\": UN chief calls for restraint in region",
+   "ne": "\"Yemen needs political horizon\": UN chief calls for restraint in region",
+   "imp": 2,
+   "tags": [
+    "Yemen",
+    "Politics"
+   ],
+   "cat": "world",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Trump says Musk has restored access to Ukraine's Starlink network",
+   "summary": "Elon Musk has restored Ukraine's Starlink internet access, US President Donald Trump has said after restrictions hampered Kyiv's armed forces, BBC reported. Trump made the comments after Ukrainian President Volodymyr...",
+   "link": "https://theannapurnaexpress.com/story/68154",
+   "source": "Annapurna Express",
+   "ts": 1792704673.3588738,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "Trump says Musk has restored access to Ukraine's Starlink network",
+   "en": "Trump says Musk has restored access to Ukraine's Starlink network",
+   "ne": "Trump says Musk has restored access to Ukraine's Starlink network",
+   "imp": 2,
+   "tags": [
+    "Trump",
+    "Musk",
+    "Starlink"
+   ],
+   "cat": "world",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Hacking attempts surge as firms race to patch PHP flaws",
+   "summary": "Cloud providers report millions of hacking attempts as governments and companies rush to secure systems and temporarily suspend online services.",
+   "link": "https://kathmandupost.com/world/2026/10/23/hacking-attempts-surge-as-firms-race-to-patch-php-flaws",
+   "source": "Kathmandu Post",
+   "ts": 1792704673.1327324,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "Hacking attempts surge as firms race to patch PHP flaws",
+   "en": "Hacking attempts surge as firms race to patch PHP flaws",
+   "ne": "Hacking attempts surge as firms race to patch PHP flaws",
+   "imp": 2,
+   "tags": [
+    "PHP",
+    "CyberSecurity"
+   ],
+   "cat": "tech",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "आज पनि मान्यजनबाट टीका र जमरा लगाइँदै",
+   "summary": "विजया दशमीको टीकाको तेस्रो दिन आज पनि टीका र जमरा लगाएर दशैँ मनाइँदै छ ।आज पनि नवदुर्गाको प्रसादका रूपमा मान्यजनका हातबाट शुभ साइतको प्रतीक रातो टीका र समृद्धिको प्रतीक जमरा लगाइन्छ ।बुधबार बडादशैँको मुख्य दिन अर्थात्...",
+   "link": "http://lokaantar.com/story/331758/2026/10/23/dashain-",
+   "source": "Lokaantar",
+   "ts": 1792704672.6890576,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "आज पनि मान्यजनबाट टीका र जमरा लगाइँदै",
+   "en": "आज पनि मान्यजनबाट टीका र जमरा लगाइँदै",
+   "ne": "आज पनि मान्यजनबाट टीका र जमरा लगाइँदै",
+   "imp": 1,
+   "tags": [
+    "Tika",
+    "Jamra"
+   ],
+   "cat": "culture",
+   "val": 1,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "साउदी अरबबाट आफ्ना कूटनीतिज्ञलाई फर्किन अमेरिकाको आदेश",
+   "summary": "",
+   "link": "https://baahrakhari.com/detail/505491",
+   "source": "Baahrakhari",
+   "ts": 1792716269,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "साउदी अरबबाट आफ्ना कूटनीतिज्ञलाई फर्किन अमेरिकाको आदेश",
+   "en": "साउदी अरबबाट आफ्ना कूटनीतिज्ञलाई फर्किन अमेरिकाको आदेश",
+   "ne": "साउदी अरबबाट आफ्ना कूटनीतिज्ञलाई फर्किन अमेरिकाको आदेश",
+   "imp": 2,
+   "tags": [
+    "Saudi",
+    "Diplomacy"
+   ],
+   "cat": "politics",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Venezuelans call for elections in first national protest in nearly two years",
+   "summary": "Thousands of Venezuelans took to the streets on Thursday in the first nationwide opposition protest in nearly two years, as demonstrators demanded free elections and other political changes with a notably thin presence...",
+   "link": "https://theannapurnaexpress.com/story/68153",
+   "source": "Annapurna Express",
+   "ts": 1792704673.3588738,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "Venezuelans call for elections in first national protest in nearly two years",
+   "en": "Venezuelans call for elections in first national protest in nearly two years",
+   "ne": "Venezuelans call for elections in first national protest in nearly two years",
+   "imp": 2,
+   "tags": [
+    "Venezuela",
+    "Protest"
+   ],
+   "cat": "world",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1792113668.7874177,
-   "en": "Two Gandaki Province Highways Affected by Natural Disasters",
-   "ne": "Two Gandaki Province Highways Affected by Natural Disasters",
-   "link": "http://english.ratopati.com/story/83905/highway-condition-one-way-in-myagdi-completely-blocked-in-gorkha",
-   "source": "Ratopati EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "disaster"
-  },
   {
    "ts": 1792115461.5165396,
    "en": "भोटेकोशी बाढी: काभ्रेका ३७ बेपत्तालाई मृत घोषणाको प्रक्रिया सुरु",
@@ -4214,10 +4385,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "crime"
+  },
+  {
+   "ts": 1792719086.2477777,
+   "en": "Artificial Dam Boosts Irrigation in Dang's Tulsipur",
+   "ne": "Artificial Dam Boosts Irrigation in Dang's Tulsipur",
+   "link": "http://english.ratopati.com/story/84307/artificial-dam-in-community-forest-area-ease-in-irrigation",
+   "source": "Ratopati EN",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "economy"
   }
  ],
- "updated": 1792718452,
- "pending_since": 1792716653.6270292,
+ "updated": 1792719098,
+ "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
