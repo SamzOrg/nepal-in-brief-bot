@@ -944,7 +944,13 @@
   "http://english.ratopati.com/story/84308/no-personal-dispute-with-trump-sanctions-on-putin-should-not-be-lifted-zelensky": 1792721448.1368618,
   "https://nagariknews.nagariknetwork.com/arts/chadfestival-br-89-83.html": 1792721448.1368618,
   "http://lokaantar.com/story/331759/2026/10/23/dashain-in-lisbon-": 1792721448.1368618,
-  "https://nagariknews.nagariknetwork.com/social-affairs/artificial-dams-in-community-forest-areas-ease-in-irrigation-br-85-99.html": 1792721448.1368618
+  "https://nagariknews.nagariknetwork.com/social-affairs/artificial-dams-in-community-forest-areas-ease-in-irrigation-br-85-99.html": 1792721448.1368618,
+  "https://english.khabarhub.com/2026/23/572845/": 1792722047.4044864,
+  "https://baahrakhari.com/detail/505495": 1792722047.4044864,
+  "https://nagariknews.nagariknetwork.com/economy/social-media-boosts-sukuti-s-business-46-99.html": 1792722047.4044864,
+  "https://english.khabarhub.com/2026/23/572871/": 1792722047.4044864,
+  "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbmFCWGNMVXpaektvUVN5UHVQREI2cFU2TnJWcmNTSTJnRm16VzBUSUlYaG8zS01PUGM1VjAzN3QxZE15d3J0aG5vVEZYQkQyQlo1UVQxYzlxLXh3alAtSDdWTEZoMDJvU2o0WlZsaVFmeEhJQkswRktVUVZ3SWxpWmljV3dFOXdyN1NqelUzTXJ0aENLOVdqcFNSZUdqRDRfYjNTQm5laGhQV3dGSjlVSDU4ejdhODkyOTN3ZFJyY2l4Y05rbEHSAcYBQVVfeXFMT25hQlhjTFV6WnpLb1FTeVB1UERCNnBVNk5yVnJjU0kyZ0ZtelcwVElJWGhvM0tNT1BjNVYwMzd0MWRNeXdydGhub1RGWEJEMkJaNVFUMWM5cS14d2pQLUg3VkxGaDAyb1NqNFpWbGlRZnhISUJLMEZLVVFWd0lsaVppY1d3RTl3cjdTanpVM01ydGhDSzlXanBTUmVHakQ0X2IzU0JuZWhoUFd3Rko5VUg1OHo3YTg5Mjkzd2RScmNpeGNOa2xB?oc=5": 1792722047.4044864,
+  "https://theannapurnaexpress.com/story/68157": 1792722047.4044864
  },
  "queue": [
   {
@@ -1156,7 +1162,7 @@
    "cat": "society",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "रुसका लागि जासुसी गरेको आरोपमा जर्मनीमा युक्रेनी नागरिक पक्राउ",
@@ -1698,6 +1704,29 @@
    ],
    "cat": "culture",
    "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Nepal's deadly glacier flood a 'defining moment' for the international community",
+   "summary": "The deadly flash flood that tore through Nepal in August is a \"defining moment\" for both the country and the international community, according to the head of the UN field agency which builds roads, schools and clinics...",
+   "link": "https://theannapurnaexpress.com/story/68157",
+   "source": "Annapurna Express",
+   "ts": 1792707648.7149365,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "Nepal's deadly glacier flood a 'defining moment' for the international community",
+   "en": "Nepal's deadly glacier flood a 'defining moment' for the international community",
+   "ne": "Nepal's deadly glacier flood a 'defining moment' for the international community",
+   "imp": 4,
+   "tags": [
+    "GlacierFlood",
+    "ClimateChange",
+    "हिमनदी"
+   ],
+   "cat": "disaster",
+   "val": 2,
    "teaser": false,
    "hits": 1
   }
@@ -4652,8 +4681,8 @@
    "cat": "disaster"
   }
  ],
- "updated": 1792721480,
- "pending_since": null,
+ "updated": 1792722052,
+ "pending_since": 1792722047.4044864,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
