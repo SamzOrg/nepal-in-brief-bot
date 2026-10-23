@@ -1158,27 +1158,6 @@
  },
  "queue": [
   {
-   "title": "Today's News in a Nutshell",
-   "summary": "KATHMANDU: Khabarhub brings you a glimpse of major developments of the day in Nepal, including politics, business/economy, sports, entertainment, and more. RSP Chair Rabi urges public against political speculation over...",
-   "link": "https://english.khabarhub.com/2026/23/572875/",
-   "source": "Khabarhub EN",
-   "ts": 1792770337,
-   "weight": 2,
-   "img": "https://english.khabarhub.com/wp-content/uploads/2024/05/News-Nutshell-640x360.jpg",
-   "lang": "en",
-   "hl": "Today's News in a Nutshell",
-   "en": "Today's News in a Nutshell",
-   "ne": "Today's News in a Nutshell",
-   "imp": 1,
-   "tags": [
-    "NewsNutshell"
-   ],
-   "cat": "other",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
-  },
-  {
    "title": "ELEPHANTS IN THE FOG: A Thriller Set in a Transgender Community in Rural Nepal",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMjg3TmtucXplTEpCbkNSeFVxbUVOWlFIX2ZycUpvWWdFN25xZVRmRENjUmYtalRnbE1fVVlDSDR1TVZRUV9HTk00TEFJZURDUkdZUUU0N092UnA1QmNTLUI5RjN0NDM5NXdGY3N6elhoTy1tYUZNM0ZZSWhKbEtIdWZoZFotNjE5Rmw3MVlnd3BmeV9JdEFPQmJQNDlpTGt2TEJ6RV9iZXc?oc=5",
@@ -1289,53 +1268,6 @@
     "Nepal"
    ],
    "cat": "crime",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "चुइगम चपाउनुहुन्छ ? प्रत्येक टुक्राबाट निस्कन्छन् हजारौँ माइक्रोप्लास्टिकका कण",
-   "summary": "चुइगम चपाउँदा मुखमा सयौँदेखि हजारौँसम्म माइक्रोप्लास्टिकका कण पुग्न सक्ने एक अध्ययनले देखाएको छ।...",
-   "link": "https://nagariknews.nagariknetwork.com/health/do-you-chew-gum-each-piece-releases-thousands-of-microplastic-particles-44-77.html",
-   "source": "Nagarik News",
-   "ts": 1792770176,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1792770166_Warn.jpg",
-   "lang": "ne",
-   "hl": "चुइगम चपाउनुहुन्छ ? प्रत्येक टुक्राबाट निस्कन्छन् हजारौँ माइक्रोप्लास्टिकका कण",
-   "en": "चुइगम चपाउनुहुन्छ ? प्रत्येक टुक्राबाट निस्कन्छन् हजारौँ माइक्रोप्लास्टिकका कण",
-   "ne": "चुइगम चपाउनुहुन्छ ? प्रत्येक टुक्राबाट निस्कन्छन् हजारौँ माइक्रोप्लास्टिकका कण",
-   "imp": 1,
-   "tags": [
-    "ChewingGum",
-    "Microplastics",
-    "Health"
-   ],
-   "cat": "health",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "How a hero principal who saved hundreds of pupils from the Nepal floods is rebuilding broken lives",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPdjR5ZG1xdjNIS2tQaFd3ZURSWFk3VHBxUktOUFJ0dHJSNlhHSGs4U1hyNDd0bm1SblVYc0FuR2lOQVpiMkU1QmZOMU85R0tRN2hrbU0zenpOTWJZRkp6WWRWeWRRRDFaSk9UZS0xY3NJVEU5cWZ5V0RQR2JXTERDTUF1c2pqUUttVFQ4dk5lQlVJSFAyRHhuczZ1LTlNMnh0aHd3Y1pOck9MYVU3T2RZMElWcnJXYk1tNFZJN08xRTIxVlExQWdMRnNKUG1OY3huNVJ3N3hNWWZNeTlGSlkxZ1I3clpfTTA?oc=5",
-   "source": "The National",
-   "ts": 1792778527,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "How a hero principal who saved hundreds of pupils from the Nepal floods is rebuilding broken lives",
-   "en": "How a hero principal who saved hundreds of pupils from the Nepal floods is rebuilding broken lives",
-   "ne": "How a hero principal who saved hundreds of pupils from the Nepal floods is rebuilding broken lives",
-   "imp": 3,
-   "tags": [
-    "NepalFloods",
-    "School",
-    "Principal",
-    "बाढी"
-   ],
-   "cat": "disaster",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -4348,10 +4280,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "disaster"
+  },
+  {
+   "ts": 1792799452.9063532,
+   "en": "Nepal flood hero principal Rajendra Dawadi sets up tents for 900 pupils",
+   "ne": "Nepal flood hero principal Rajendra Dawadi sets up tents for 900 pupils",
+   "link": "https://www.thenationalnews.com/news/asia/2026/10/23/how-a-hero-principal-who-saved-hundreds-of-pupils-from-the-nepal-floods-is-rebuilding-broken-lives/",
+   "source": "The National",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "disaster"
   }
  ],
- "updated": 1792798852,
- "pending_since": 1792798849.038894,
+ "updated": 1792799469,
+ "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
