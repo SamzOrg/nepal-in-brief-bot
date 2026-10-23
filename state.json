@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeVR3Rm1jNzBsOFNoa0kybGtfdnFNZTYtMFBXMC1td1dsYW5Pd3RwVDA4d1VkU1VIVWdoY05iRUpsdmlTM1NRS1I0UWxON2F5RnpGTGJ1c3lEdWFRd3YxY3k5WjR3R0tUeDRUSVNQSkd2Y2xSdVprY2hYc21GNEpnaUtqUmVubUZTNk5nNTVmR29nYmlEcndETTZXNkU0dXE3Z2MzSWZyLXlUejdESEVR?oc=5": 1792565451.1767156,
   "https://nagariknews.nagariknetwork.com/politics/president-poudel-receives-tika-on-auspicious-occasion-48-30.html": 1792566089.8139517,
   "https://www.setopati.com/social/401156": 1792566089.8139517,
   "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPNmRPRlV6SGxyRmVCd2hGaXpEMWtQYldMLUgyOVJmV0xtSl83ME1wX0xCTjNVUmdvV0s0UlNxQ0JqcUhYS3RkVnowZThhRXIzbHdDODIybWpMekFjSnEyNnRVUndvdUdxVXl6QjlxTHozWVFDTDJ0ZEo2VTBabExSU2tLX0pYbmJqUUpLWWxSaGo5a0toRDVod000QTNORDJyUm9nQVZSNkk0Tlk3NWNEME5ycVBzUF9GSUk2ajlOdDR0UVdwckkxOEhBUGE5RG5mM3F3LW9sNy1OdUFiYk1EamNIWGhNMGJS0gHoAUFVX3lxTE82ZE9GVXpIbHJGZUJ3aEZpekQxa1BiV0wtSDI5UmZXTG1KXzcwTXBfTEJOM1VSZ29XSzRSU3FDQmpxSFhLdGRWejBlOGFFcjNsd0M4MjJtakx6QWNKcTI2dFVSd291R3FVeXpCOXFMejNZUUNMMnRkSjZVMFpsTFJTa0tfSlhuYmpRSktZbFJoajlrS2hENWh3TTRBM05EMnJSb2dBVlI2STROWTc1Y0QwTnJxUHNQX0ZJSTZqOU50NHRRV3BySTE4SEFQYTlEbmYzcXctb2w3LU51QWJiTURqY0hYaE0wYlI?oc=5": 1792566089.8139517,
@@ -1018,7 +1017,10 @@
   "https://nagariknews.nagariknetwork.com/blog/renaissance-of-reading-culture-br-25-58.html": 1792737651.6253006,
   "https://baahrakhari.com/detail/505506": 1792737651.6253006,
   "https://english.onlinekhabar.com/ani-choying-drolma-lumbni-protest.html": 1792737651.6253006,
-  "https://nagariknews.nagariknetwork.com/arts/ghazals-that-resonate-in-dang-br-70-61.html": 1792737651.6253006
+  "https://nagariknews.nagariknetwork.com/arts/ghazals-that-resonate-in-dang-br-70-61.html": 1792737651.6253006,
+  "https://risingnepaldaily.com/news/87975": 1792738253.580506,
+  "https://news.google.com/rss/articles/CBMikgFBVV95cUxQenhhWTkzREE3OHNoeUVmOW5JaV80eXUtUjY1NWJyaUpzVkNRLWo2X1lxTURGZTBtY09HclRvYk9ldDZJQTlGOVhKdVl0RFVudzg2bmVyWUw1REVLa0dTYTdzeVJnUm5lOGJxOUJUeFhnRWVCMU1tOU5NMUNEb3VnLXJNVXdyZ1lVT1N2ckJFRklUdw?oc=5": 1792738253.580506,
+  "https://kathmandupost.com/national/2026/10/23/rabi-lamichhane-says-india-visit-is-personal-not-political": 1792738253.580506
  },
  "queue": [
   {
@@ -1360,7 +1362,7 @@
    "cat": "economy",
    "val": 3,
    "teaser": false,
-   "hits": 3
+   "hits": 4
   },
   {
    "title": "What's new in the Nepal Premier League's third season?",
@@ -3043,17 +3045,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1792132865.1184394,
-   "en": "SOS Nepal and National Child Rights Council sign five-year MoU to aid 550 flood-affected children and families in Rasuwa and Nuwakot",
-   "ne": "SOS Nepal and National Child Rights Council sign five-year MoU to aid 550 flood-affected children and families in Rasuwa and Nuwakot",
-   "link": "https://theannapurnaexpress.com/story/67974",
-   "source": "Annapurna Express",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "disaster"
-  },
   {
    "ts": 1792134676.2392957,
    "en": "Satellite detected mudflow as of 11 October 2026 in Gorkha District, Gandaki Province, Nepal (Imagery Analysis: 11/10/2026 Published: 15/10/2026 V1)",
@@ -5992,8 +5983,8 @@
    "cat": "economy"
   }
  ],
- "updated": 1792737681,
- "pending_since": null,
+ "updated": 1792738256,
+ "pending_since": 1792738253.580506,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
