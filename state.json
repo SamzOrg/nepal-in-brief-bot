@@ -1,9 +1,5 @@
 {
  "seen": {
-  "https://baahrakhari.com/detail/505415": 1792569050.7561812,
-  "https://news.google.com/rss/articles/CBMipgFBVV95cUxPS0V6R3hacVBUOVdjeEd1S2RnVVlqQ3ZDaS1lZEt5dk1OSDJOak00aC1najZHX25jNDN2UGZZUUpwZGJLOVRDQW5naUszTEdwUVdnVnlxQ01GRVpEb2t3NS0yRjU1UVlmNGo4dTR3Mkdyd3FuNjlBd0NZSGNheTdsajlwdHk0OTVwLVhCNlNiZG1IWno1Qzk3T2pIeGUtbWRoa0ZfWXdn?oc=5": 1792569050.7561812,
-  "https://nagariknews.nagariknetwork.com/social-affairs/foreign-tourists-also-wear-bada-dashain-tika-in-thamel-87-64.html": 1792569050.7561812,
-  "http://lokaantar.com/story/331694/2026/10/21/ramshahaya-yadav-": 1792569050.7561812,
   "https://gorkhapatraonline.com/news/227091": 1792569689.7884376,
   "https://kathmandupost.com/national/2026/10/21/president-paudel-receives-dashain-tika-at-sheetal-niwas": 1792569689.7884376,
   "https://gorkhapatraonline.com/news/227092": 1792569689.7884376,
@@ -1038,33 +1034,30 @@
   "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSFFtVERtdmFUcWg5QXRxaEZMdWVfa2RIaFdYenFvMjk1TVFpVlZyM2dmSXFrQmtHVDYzRUJiZ3VqVUZTX1ZYcjhTSmI1bHhnWHlYaW5sWkVac0NYUlBOQ2FSWnEyX1lpcjFxT0pSc3UwWEVvdXFITGxVQjliay1aRg?oc=5": 1792741251.7684832,
   "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVU9OcC15TGt6aTZ5bXhKa244UzBrNmdadElxR25EREdJRGVpb0U2bVp5cmNLckJ6bFd4OFVfdDBNMll6cFo3Ylk1M3dJWDZvYnVURXJhQXg0SVM0SmFLOG9KVVo2eTJjMkMtRlo0eGNmblNLME5WbUJwMndKMHhBVkdaSUd6MU8zaEh3c0UyQTQtUFU?oc=5": 1792741251.7684832,
   "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUGxpNzlkSmJaSzhtc0tabFR1THJtSE9SRkc3dmV3TGE3RU56OVliazI0TDQyNkVsc0h3bGVxaWVReU9rS3dVY0JYV1FHc0ZNYnJLOURabXYxSGRSbnJuY3lIY21oemdhRnpkOTh1WkU4M0lnTURORHdtZ2VsWXZWc0gtdUJ3d3F1eTdjSElVbnltUVdfT1ZxVnkwb0EwLWZPNjJz0gGzAUFVX3lxTE9XdHk1XzR3T3lGbmlaV2xzTWU2T3RKWGVCUW1lS1NweFUybHhDRl9vbDdHSUhiWUxENVRhR09zdDZzS0tkTmVQS0JkUW5ZbXlqc2VQSTJVMG8yWlRfTXlZTENEV0MxZGkzS0xhb1NWNUdHaWR4QVZBOUpaM2xqZ29zeC1xVlN1a0daei1GbGlHS1RHQmE3aGdmd0hfWUJpNzBhWlRybDFxSjdRdFdhUkk5R1NV?oc=5": 1792741846.8854473,
-  "http://lokaantar.com/story/331778/2026/10/23/arrest-": 1792741846.8854473
+  "http://lokaantar.com/story/331778/2026/10/23/arrest-": 1792741846.8854473,
+  "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOQU1lRlAxczFCZkJIZzczSEJleFZEb3VpMWlZWUc5aGVTNDNVdkQ1OGR1NTRQVlUxOWR2dWdFWWh1UVlULTlqS3BzeWl5V01Rc2NiamFSOHZZSjNlbzFqWXFLUDYwajhneVZLUTBUWWY0YVZPamNUWEZyNW1iR1JOOVhmZmRuVXlJTlZYOWJMczNsTDAtNHBVLTBhWTlRckR5Vml3UFlIanJJRERDRVFGcUR4VUt3Tng3OWNsVVhzVmtLMXo5d2MzSUxLaGxLWVpwN0dkOW9xN1hoVWxuZUItT1p4ZHBPd9IB7gFBVV95cUxOQmZsdmlOVmxZcTBGOVF3c2hHYndMRU5PbTZtay1LcWwxZEs0SGZnalhTdlFjbk5PVENfaG1OU1c1NGdLMW1RTkI4WVBqT3RXMS1rR1RqLThYUDVWUXhjVERpTnV0cWJ3ajNMdnFSQnNPdjNDY2Y3R2NoY0YxYVBtN1U0eW9PcjhJcDk4Wms3UUNnTUxDX1A1RTZpWDhlZXBJRjBiUzdTZDRPMm1YdVZvcWhPckFoVEI0MVkzMzIxY20zV1ZLMVp0dTlHVnhQMGRibk5wY0k3THVXRFpIWWJyeDZWbmtiYUNMS3lPZGVR?oc=5": 1792742485.4070904,
+  "https://baahrakhari.com/detail/505522": 1792742485.4070904,
+  "https://nagariknews.nagariknetwork.com/sports/afc-s-opinion-changed-in-two-months-supporting-infantino-for-fifa-presidency-br-43-33.html": 1792742485.4070904,
+  "https://english.khabarhub.com/2026/23/572900/": 1792742485.4070904,
+  "https://risingnepaldaily.com/news/87976": 1792742485.4070904,
+  "https://gorkhapatraonline.com/news/227119": 1792742485.4070904,
+  "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPZlh1TDhrZW5wbEROaWlmY3YwcFI1NjNlcjNiR09zZjJqVUhMLUFLYjdEUTBQdU5YRE9LNE9kVGJlb05iZkRaalpmN1NyeXdsVzFrYVliS2FpYlRQeXBIN1BjWlI3ZUhma3otTGRQTUJPOUk0UDE5VXF4RDVERW9WdE5VUHNGNm90TGhxTnVQSzZvREJGT1paYS0ydnJHd3l0cmt2VXFCWFRGN3JWd3hzSDNRUF9YSDJPajBKUTlOODczaXVjcGQ2ODdqWTRjQ2ExSW1BWmY3WGdIQzR1bXAzci1QTjRfWTDSAecBQVVfeXFMT2ZYdUw4a2VucGxETmlpZmN2MHBSNTYzZXIzYkdPc2YyalVITC1BS2I3RFEwUHVOWERPSzRPZFRiZW9OYmZEWmpaZjdTcnl3bFcxa2FZYkthaWJUUHlwSDdQY1pSN2VIZmt6LUxkUE1CTzlJNFAxOVVxeEQ1REVvVnROVVBzRjZvdExocU51UEs2b0RCRk9aWmEtMnZyR3d5dHJrdlVxQlhURjdyVnd4c0gzUVBfWEgyT2owSlE5Tjg3M2l1Y3BkNjg3alk0Y0NhMUltQVpmN1hnSEM0dW1wM3ItUE40X1kw?oc=5": 1792742485.4070904,
+  "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRV9iUlpEWjhoTVlPSnV0TERfUWJUY0pjTnR6a0l2WnhMSnRlYmhlZGp0QTRGVzlBeXAwTFRQSE04LXcxN2lrbjRlTEJHb1ptU19tU091NHN6RHVyTDhpYnJPbl8zcl9zWFhJQVBIVXp2NGpVck5ULUN3Nk9iMXhEYmt2MzdfNFZiTGhDaUx2NmwySEJVaGtiQWJkTk9rVXFvdVlwWFdkN1BXalNvWFh5S1Npd05tWUhjb28tc1VvN2Jod0JaMzlvdFh5Z0FlT1NZc2c?oc=5": 1792742485.4070904,
+  "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZDNBRTFXRVpGSVIxRERjd1AwYVhBSjBXUmw3bUUwUWJOYWVJZnZuWlJGZS1UR2w0cjAtX0N2emx5VjVxX1dKd3dmSHVoSEtoTDRJR1VPVE5ub2toMk1LTE0tcHlDYmdWS2M4d2dIUXNQekZIZ3pJbFp5SnhaNC1lMnV6Smo3cFhtSDlDSmxGUmlLcEpHQ3BEVjUxSG9lZmpsRjNFTURSV1IwOXRpRXZva2YxSGRIRXFDWGFCY1F3bHVlOGpyX3hMcGJjRUp1b0k?oc=5": 1792742485.4070904,
+  "https://theannapurnaexpress.com/story/68167": 1792742485.4070904,
+  "https://baahrakhari.com/detail/505521": 1792742485.4070904,
+  "https://nagariknews.nagariknetwork.com/Dharma-Saskriti/preparations-for-a-month-long-fair-at-adinath-temple-br-71-99.html": 1792742485.4070904,
+  "https://english.khabarhub.com/2026/23/572897/": 1792742485.4070904,
+  "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOQmZsdmlOVmxZcTBGOVF3c2hHYndMRU5PbTZtay1LcWwxZEs0SGZnalhTdlFjbk5PVENfaG1OU1c1NGdLMW1RTkI4WVBqT3RXMS1rR1RqLThYUDVWUXhjVERpTnV0cWJ3ajNMdnFSQnNPdjNDY2Y3R2NoY0YxYVBtN1U0eW9PcjhJcDk4Wms3UUNnTUxDX1A1RTZpWDhlZXBJRjBiUzdTZDRPMm1YdVZvcWhPckFoVEI0MVkzMzIxY20zV1ZLMVp0dTlHVnhQMGRibk5wY0k3THVXRFpIWWJyeDZWbmtiYUNMS3lPZGVR0gHuAUFVX3lxTE5CZmx2aU5WbFlxMEY5UXdzaEdid0xFTk9tNm1rLUtxbDFkSzRIZmdqWFN2UWNuTk9UQ19obU5TVzU0Z0sxbVFOQjhZUGpPdFcxLWtHVGotOFhQNVZReGNURGlOdXRxYndqM0x2cVJCc092M0NjZjdHY2hjRjFhUG03VTR5b09yOElwOThaazdRQ2dNTENfUDVFNmlYOGVlcElGMGJTN1NkNE8ybVh1Vm9xaE9yQWhUQjQxWTMzMjFjbTNXVksxWnR1OUdWeFAwZGJuTnBjSTdMdVdEWkhZYnJ4NlZua2JhQ0xLeU9kZVE?oc=5": 1792742485.4070904,
+  "https://news.google.com/rss/articles/CBMivAFBVV95cUxOa1BLT0o5OE14S3NKcWV2Ty1hWnJWOFhxd2xUbDR5NmRFeFczc3lrSDFuQ3JQR0IwME95c2ZUcXNJTF9wWVBhVWZQa0s2Y3IzY203WEtLaDNzcUtGWUVkQmhpX3pnWmNiS29USlkxRG5rSW44VE85WDFsc0EwUVIwZkNwY2dGQlNUSWt4MmJEV0llVVdlRzcxNndxSG82aGNKd0EwMnJRZlBONFNkaXRSLUh0RGlESk11WndKcw?oc=5": 1792742485.4070904,
+  "https://baahrakhari.com/detail/505520": 1792742485.4070904,
+  "https://nagariknews.nagariknetwork.com/social-affairs/chance-of-rain-and-snow-by-the-end-of-next-week-colder-temperatures-76-27.html": 1792742485.4070904,
+  "https://baahrakhari.com/detail/505519": 1792742485.4070904,
+  "https://nagariknews.nagariknetwork.com/arts/the-barracks-bell-br-75-61.html": 1792742485.4070904,
+  "https://baahrakhari.com/detail/505518": 1792742485.4070904,
+  "https://nagariknews.nagariknetwork.com/international/maradona-death-case-verdict-set-for-december-22nd-97-25.html": 1792742485.4070904
  },
  "queue": [
-  {
-   "title": "मनास्लु लार्केपास पदयात्रा खुला, सतर्कता अपनाएर यात्रा गर्न आग्रह",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/505486",
-   "source": "Baahrakhari",
-   "ts": 1792713327,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "मनास्लु लार्केपास पदयात्रा खुला, सतर्कता अपनाएर यात्रा गर्न आग्रह",
-   "en": "मनास्लु लार्केपास पदयात्रा खुला, सतर्कता अपनाएर यात्रा गर्न आग्रह",
-   "ne": "मनास्लु लार्केपास पदयात्रा खुला, सतर्कता अपनाएर यात्रा गर्न आग्रह",
-   "imp": 2,
-   "tags": [
-    "Manaslu",
-    "LarkePass",
-    "Trekking",
-    "मनास्लु"
-   ],
-   "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 3
-  },
   {
    "title": "Mega polio bicycle rally to pass through seven heritage sites on October 25 KATHMANDU, OCTOBER 23 Rotary International Nepal Bhutan District 3292 is organising a mega bicycle rally in Kathmandu Valley on October 25 to raise public awareness about polio eradication on the occasion of World Polio Day. According to a press release issued by Binita Hada, chairperson of the Polio Plus Sub-Committee, the rally will start from Bhaktapur Durbar Square and end at Patan Durbar Square, passing through Kathmandu Durbar Square, Pashupatinath, Bouddhanath and Swayambhunath. The rally aims to promote the message of ending polio, highlight the importance of vaccination and encourage collective efforts to eradicate the disease. Organisers have also stressed the need to ensure that all children under five receive polio vaccines. The government provides free polio vaccination to children across the country through its immunisation programme, with female community health volunteers helping reach communities.",
    "summary": "KATHMANDU, OCTOBER 23Rotary International Nepal Bhutan District 3292 is organising a mega bicycle rally in Kathmandu Valley on October 25 to raise public awareness about polio erad...",
@@ -1878,29 +1871,6 @@
    "hits": 3
   },
   {
-   "title": "कावासोती दुर्घटना: नियोजित हत्याको आशंका गर्दै मृतकका परिवारद्वारा अनुसन्धानको माग",
-   "summary": "नवलपरासी (बर्दघाट सुस्ता पूर्व)को कावासोती नगरपालिका-१६ डण्डामा कारको ठक्करबाट मोटरसाइकल चालकको मृत्यु भएको घटनामा पीडित परिवारले निष्पक्ष अनुसन्धानको माग गरेको छ । गत कात्तिक १ गते साँझ कावासोती नगरपालिका-१६ डण्डास्थित...",
-   "link": "http://lokaantar.com/story/331766/2026/10/23/accident-",
-   "source": "Lokaantar",
-   "ts": 1792713051.1177707,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "कावासोती दुर्घटना: नियोजित हत्याको आशंका गर्दै मृतकका परिवारद्वारा अनुसन्धानको माग",
-   "en": "कावासोती दुर्घटना: नियोजित हत्याको आशंका गर्दै मृतकका परिवारद्वारा अनुसन्धानको माग",
-   "ne": "कावासोती दुर्घटना: नियोजित हत्याको आशंका गर्दै मृतकका परिवारद्वारा अनुसन्धानको माग",
-   "imp": 3,
-   "tags": [
-    "Kawasoti",
-    "Accident",
-    "कावासोती"
-   ],
-   "cat": "crime",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "कास्कीमा असोजमा ५९ सवारी दुर्घटना: ११ जनाको मृत्यु",
    "summary": "कास्कीमा गत असोज महिनामा भएका ५९ सवारी दुर्घटनामा परी ११ जनाको मृत्यु भएको छ भने १०१ जना घाइते भएका छन्। यो सङ्ख्या अन्य महिनाका तुलनामा बढी हो।",
    "link": "https://www.setopati.com/social/401197",
@@ -2594,7 +2564,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "बंगलादेशका अलराउन्डर मोहम्मद सइफुदिनले पोखराबाट एनपीएल खेल्ने",
@@ -2781,7 +2751,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "पाकिस्तानी पत्रकार अर्शद सरिफ हत्याको ४ वर्ष- अझै पक्राउ परेनन् दोषी",
@@ -3260,6 +3230,212 @@
     "Israel",
     "Palestine",
     "WestBank"
+   ],
+   "cat": "world",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "नबिल बैंकको नबिल भर्चुअल क्रेडिट कार्ड सञ्चालनमा",
+   "summary": "",
+   "link": "https://baahrakhari.com/detail/505522",
+   "source": "Baahrakhari",
+   "ts": 1792742152,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "नबिल बैंकको नबिल भर्चुअल क्रेडिट कार्ड सञ्चालनमा",
+   "en": "नबिल बैंकको नबिल भर्चुअल क्रेडिट कार्ड सञ्चालनमा",
+   "ne": "नबिल बैंकको नबिल भर्चुअल क्रेडिट कार्ड सञ्चालनमा",
+   "imp": 2,
+   "tags": [
+    "NabilBank",
+    "VirtualCreditCard",
+    "नबिलबैंक"
+   ],
+   "cat": "economy",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "दुई महिनामै बदलियो एएफसीको धारणा, फिफा अध्यक्षमा इन्फान्टिनोलाई समर्थन गर्ने",
+   "summary": "फिफा अध्यक्ष जियानी इन्फान्टिनोलाई आगामी कार्यकालका लागि पुनः निर्वाचित गराउन समर्थन गर्ने घोषणा गरेको छ।...",
+   "link": "https://nagariknews.nagariknetwork.com/sports/afc-s-opinion-changed-in-two-months-supporting-infantino-for-fifa-presidency-br-43-33.html",
+   "source": "Nagarik News",
+   "ts": 1792741847,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2026/third-party/1789091452_Fifa.jpg",
+   "lang": "ne",
+   "hl": "दुई महिनामै बदलियो एएफसीको धारणा, फिफा अध्यक्षमा इन्फान्टिनोलाई समर्थन गर्ने",
+   "en": "दुई महिनामै बदलियो एएफसीको धारणा, फिफा अध्यक्षमा इन्फान्टिनोलाई समर्थन गर्ने",
+   "ne": "दुई महिनामै बदलियो एएफसीको धारणा, फिफा अध्यक्षमा इन्फान्टिनोलाई समर्थन गर्ने",
+   "imp": 2,
+   "tags": [
+    "AFC",
+    "FIFA",
+    "Infantino"
+   ],
+   "cat": "sports",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "जिओहटस्टार मासिक २४९ रुपैयाँ मात्रै, डिगोले भित्र्यायो नेपाल",
+   "summary": "",
+   "link": "https://baahrakhari.com/detail/505521",
+   "source": "Baahrakhari",
+   "ts": 1792741978,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "जिओहटस्टार मासिक २४९ रुपैयाँ मात्रै, डिगोले भित्र्यायो नेपाल",
+   "en": "जिओहटस्टार मासिक २४९ रुपैयाँ मात्रै, डिगोले भित्र्यायो नेपाल",
+   "ne": "जिओहटस्टार मासिक २४९ रुपैयाँ मात्रै, डिगोले भित्र्यायो नेपाल",
+   "imp": 2,
+   "tags": [
+    "JioHotstar",
+    "DishHome",
+    "Streaming"
+   ],
+   "cat": "tech",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "आदिनाथ मन्दिरमा एक महिने मेलाको तयारी",
+   "summary": "काठमाडौँको दक्षिण भेगस्थित आदिनाथको मन्दिरमा आश्विन शुक्ल पूर्णिमादेखि कात्तिक शुक्ल पूर्णिमासम्म सञ्चालन गरिने एक महिने मेलाको तयारी भएको छ।...",
+   "link": "https://nagariknews.nagariknetwork.com/Dharma-Saskriti/preparations-for-a-month-long-fair-at-adinath-temple-br-71-99.html",
+   "source": "Nagarik News",
+   "ts": 1792741203,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2024/third-party/1792741449_Aadinatha%20%2098.jpg",
+   "lang": "ne",
+   "hl": "आदिनाथ मन्दिरमा एक महिने मेलाको तयारी",
+   "en": "आदिनाथ मन्दिरमा एक महिने मेलाको तयारी",
+   "ne": "आदिनाथ मन्दिरमा एक महिने मेलाको तयारी",
+   "imp": 2,
+   "tags": [
+    "AdinathTemple",
+    "Fair",
+    "मेला"
+   ],
+   "cat": "culture",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "हुन्डाई नेपालद्वारा एनपीएल सिजन-३ का लागि लुम्बिनी लायन्ससँग साझेदारी",
+   "summary": "",
+   "link": "https://baahrakhari.com/detail/505520",
+   "source": "Baahrakhari",
+   "ts": 1792741595,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "हुन्डाई नेपालद्वारा एनपीएल सिजन-३ का लागि लुम्बिनी लायन्ससँग साझेदारी",
+   "en": "हुन्डाई नेपालद्वारा एनपीएल सिजन-३ का लागि लुम्बिनी लायन्ससँग साझेदारी",
+   "ne": "हुन्डाई नेपालद्वारा एनपीएल सिजन-३ का लागि लुम्बिनी लायन्ससँग साझेदारी",
+   "imp": 2,
+   "tags": [
+    "NPL",
+    "LumbiniLions",
+    "Hyundai",
+    "एनपीएल"
+   ],
+   "cat": "sports",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "कार्यान्वयनमा नचुकोस् नेपाल",
+   "summary": "",
+   "link": "https://baahrakhari.com/detail/505519",
+   "source": "Baahrakhari",
+   "ts": 1792741493,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "कार्यान्वयनमा नचुकोस् नेपाल",
+   "en": "कार्यान्वयनमा नचुकोस् नेपाल",
+   "ne": "कार्यान्वयनमा नचुकोस् नेपाल",
+   "imp": 1,
+   "tags": [
+    "Opinion",
+    "Editorial"
+   ],
+   "cat": "other",
+   "val": 1,
+   "teaser": true,
+   "hits": 1
+  },
+  {
+   "title": "ब्यारेकको घन्टी",
+   "summary": "उसकी श्रीमती फुलमती त झन् खुसीले बेहोस् जस्तै भएकी थिई।",
+   "link": "https://nagariknews.nagariknetwork.com/arts/the-barracks-bell-br-75-61.html",
+   "source": "Nagarik News",
+   "ts": 1792738228,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2024/third-party/1792738864_need%2098ffffffffffffffff.jpg",
+   "lang": "ne",
+   "hl": "ब्यारेकको घन्टी",
+   "en": "ब्यारेकको घन्टी",
+   "ne": "ब्यारेकको घन्टी",
+   "imp": 1,
+   "tags": [
+    "Article",
+    "Literature"
+   ],
+   "cat": "other",
+   "val": 1,
+   "teaser": true,
+   "hits": 1
+  },
+  {
+   "title": "माछापुच्छ्रे बैंक र युनाइटेड रेमिटबीच रेमिट्यान्स सम्झौता",
+   "summary": "",
+   "link": "https://baahrakhari.com/detail/505518",
+   "source": "Baahrakhari",
+   "ts": 1792741360,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "माछापुच्छ्रे बैंक र युनाइटेड रेमिटबीच रेमिट्यान्स सम्झौता",
+   "en": "माछापुच्छ्रे बैंक र युनाइटेड रेमिटबीच रेमिट्यान्स सम्झौता",
+   "ne": "माछापुच्छ्रे बैंक र युनाइटेड रेमिटबीच रेमिट्यान्स सम्झौता",
+   "imp": 2,
+   "tags": [
+    "MachhapuchchhreBank",
+    "UnitedRemit",
+    "Remittance"
+   ],
+   "cat": "economy",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "म्याराडोनाको मृ'त्यु मुद्दाको फैसला डिसेम्बर २२ मा",
+   "summary": "अभियोजन पक्षले सात प्रतिवादीमध्ये छ जनालाई चारदेखि १२ वर्षसम्म जेल सजाय माग गरेको छ।",
+   "link": "https://nagariknews.nagariknetwork.com/international/maradona-death-case-verdict-set-for-december-22nd-97-25.html",
+   "source": "Nagarik News",
+   "ts": 1792738128,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2026/third-party/1792738053_maradona.jpg",
+   "lang": "ne",
+   "hl": "म्याराडोनाको मृ'त्यु मुद्दाको फैसला डिसेम्बर २२ मा",
+   "en": "म्याराडोनाको मृ'त्यु मुद्दाको फैसला डिसेम्बर २२ मा",
+   "ne": "म्याराडोनाको मृ'त्यु मुद्दाको फैसला डिसेम्बर २२ मा",
+   "imp": 1,
+   "tags": [
+    "Maradona",
+    "CourtCase",
+    "Football"
    ],
    "cat": "world",
    "val": 3,
@@ -6206,8 +6382,8 @@
    "cat": "disaster"
   }
  ],
- "updated": 1792741868,
- "pending_since": 1792740679.6889095,
+ "updated": 1792742492,
+ "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
