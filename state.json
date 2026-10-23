@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTDdqc1VsNnItWmI0TTlNNjlwVFVlbExVTWlVajF5bloxUm1PaFR1RGYxT29OOWlpbTNHTTlsNkNualhPZ1lGXy15VHR0Z2JNOFV6d0dYWnpqYXFBQThrb2llRVBpMDJnX2x3dzlRTHdMV3hRSkVjYnlpN2NVYUlKV08ta2JYT3loVUxZX2ZnbVE1NngzMXB1WnNLMWcxME1NQ2ZKMncwQ0s?oc=5": 1792558246.2732718,
   "https://news.google.com/rss/articles/CBMiugFBVV95cUxNa2wxVVpBb216eklpbUlhVXhaX3pmRklYTFplM2FFSWFNVGVRd0lvUGFxMmduUXpNM0l6NW5HOExUVlVNdkI5cEFjV2F0NWJjV3JaZ3hCaXdZUFNlWFVsWFVPT1FkU0lsRzFaMjVpWE1Nd2hlQ0xOOFlZTFFRejl4bDluNzVKd2pkWUpFUng0VXdTdG5Zc3dQQjNibjc5ZUctOTJTVmRKRTFuOU1DYkUtZzdsTzlZV04ySmc?oc=5": 1792558889.5933838,
   "https://baahrakhari.com/detail/505409": 1792558889.5933838,
   "https://www.setopati.com/blog/401111": 1792558889.5933838,
@@ -968,7 +967,8 @@
   "https://nagariknews.nagariknetwork.com/international/eight-inmates-die-in-ecuador-prison-riot-82-18.html": 1792729870.227477,
   "https://nagariknews.nagariknetwork.com/social-affairs/a-drop-in-the-ocean-in-terms-of-the-need-for-assistance-from-the-damage-fund-99-53.html": 1792729870.227477,
   "http://english.ratopati.com/story/84324/nepal-to-play-two-international-tournaments-in-preparation-for-u-19-womens-world-cup": 1792730455.499375,
-  "https://gorkhapatraonline.com/news/227116": 1792730455.499375
+  "https://gorkhapatraonline.com/news/227116": 1792730455.499375,
+  "https://news.google.com/rss/articles/CBMipAJBVV95cUxNcmo3M0RCcGJSZHZLNEp3cWN0bDQ4dklxVnlDanBEZ3otQVFQbWI3WGk4UWl2MU84NTVFTjdQdFlFWXZ1TTBjbm9wdW1DWVlyM21oN3RlV29ET01NRExNMnpWTXp6eXhTVXFKRTI0MUEybUhDQThHUHluMUNtSWdHZDBySWMxdEpjOW5jUGhyTTgybWlXa3lha09odWZTdm5CZHRUeUx4S3ZtanBJSjRfemNNSkxMc0tjdW8ycl9wTm5uODB4VURWSF9LWE14TXM0dmllbjUtNTBpbTJaSnJXZ3RXeE1OZU91b0ZfN3JJT0FtUUNjNGItaXhNcnhlZHk5bWV4cnVBcU9xZ3JHOGFDclVsbkRTdUxRcm5XWE5oTUNzTVJC?oc=5": 1792731053.7168007
  },
  "queue": [
   {
@@ -2355,17 +2355,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1792125662.265274,
-   "en": "Gagan Thapa elected president of Nepali Congress at 15th general convention",
-   "ne": "Gagan Thapa elected president of Nepali Congress at 15th general convention",
-   "link": "https://english.onlinekhabar.com/gagan-thapa-reform-nepali-congress.html",
-   "source": "Onlinekhabar EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "politics"
-  },
   {
    "ts": 1792127462.1247034,
    "en": "Thousands Depart Kathmandu for Dashain Festival",
@@ -5304,7 +5293,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1792730486,
+ "updated": 1792731057,
  "pending_since": 1792730455.499375,
  "fb_blocks": [
   1790350880.4125228,
