@@ -1,9 +1,5 @@
 {
  "seen": {
-  "http://english.ratopati.com/story/84271/this-is-the-foreign-currency-exchange-rate-today": 1792625467.7704835,
-  "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdWNaMXpUYk5ZX2Q1M25lRXZ3c3NvaDlMYTgzX2RfOFNMQUdycEJxNVlYSXRuNnIwYlZSekV1aW8zUWZuaW5LbHRvZVZGLTJJcFluYkJVcENUMC05dm12RzBiZGJnTzJnRzJKdU5XZ3NybnN2MVJ4UWZCRlE5cU1zdzhwREFBUzNtVTRvMVVSWlQyYWc?oc=5": 1792625467.7704835,
-  "http://english.ratopati.com/story/84270/second-day-of-bada-dashain-tika-blessings-from-dignitaries-continue": 1792625467.7704835,
-  "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQVQ5QWFDaDhvU0FRR1JkOG1hWlRYWGRNLUgwT0MzbEdKbjlIYW5KU1F4NkJmcGZETlVZNkp4ZWtrdk1zWEdYRGVDYzZFNnR6U3ZHbFM2djhSMnctTjExS3E0Y3BtWDcwam1DVHRPUlhzdXBteW9DSWpRSkU0UEt2R0RwS0FQd1lVaUJDMWVwR0M5Qy1zRi13RVZDYy0?oc=5": 1792625467.7704835,
   "https://baahrakhari.com/detail/505437": 1792627849.3867517,
   "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONmg1eUE1UjZvT2k1VmNnZE00akx0VC1McVBrUXRRUzE2X2VVV0w1NnVkR0lzckloMnpEQVF4b1FBR2s4d28tNk9tTENuNk12SjhzV0Y3ZVNZbE1mTFBnUTZjMEp4VDJiTmgzajUtN1pKZDc0eUVyc0duV1ZBTnBRTlhMbUxacERXYTlLY1Qyc3RHTlRrOWtDdHcwN0NvYUwwVkd0ZUtVdUtEa2lsSzdEV3g2WWl2S3Zz?oc=5": 1792627849.3867517,
   "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTXpRVVhDSjRfNG40S1VDdFNfVWY0bC1WS2NaS1Atc0J3cDJGZDBTOTE0UE10eHExbDVOM2h3ckZyUVZGeS1tVDRRUlUyMGNJTW9DMXZ3VVk4MnhoZ2x2YUFYS2w2cnN6anRhdE9HMzZTbzJvd3lPVVRIZ3FyN0c2MnNPQnVNY2FsS2tsdXlRUEdGR0txdGx2Ym1qdVFMNlRnejViNk1CVDAzUTBRMWc?oc=5": 1792629649.6063323,
@@ -1162,52 +1158,6 @@
  },
  "queue": [
   {
-   "title": "Israeli PM Netanyahu Orders Full Lockdown and Military Operation in West Bank After Deadly Clash",
-   "summary": "Kathmandu. Israeli Prime Minister Benjamin Netanyahu has said the Israeli army is fully prepared to carry out the largest and...",
-   "link": "http://english.ratopati.com/story/84365/netanyahu-warns-of-major-military-operation-in-west-bank-army-bulldozers-hit-local-homes",
-   "source": "Ratopati EN",
-   "ts": 1792769445,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/net-nyahu_33ZiEGvMuL.webp",
-   "lang": "en",
-   "hl": "Israeli PM Netanyahu Orders Full Lockdown and Military Operation in West Bank After Deadly Clash",
-   "en": "Israeli PM Netanyahu Orders Full Lockdown and Military Operation in West Bank After Deadly Clash",
-   "ne": "Israeli PM Netanyahu Orders Full Lockdown and Military Operation in West Bank After Deadly Clash",
-   "imp": 2,
-   "tags": [
-    "Israel",
-    "WestBank",
-    "Netanyahu"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "पोखरा-दुबई नियमित उडानको एक महिना, ६ हजार बढी यात्रु आउजाउ",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/505544",
-   "source": "Baahrakhari",
-   "ts": 1792769314,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "पोखरा-दुबई नियमित उडानको एक महिना, ६ हजार बढी यात्रु आउजाउ",
-   "en": "पोखरा-दुबई नियमित उडानको एक महिना, ६ हजार बढी यात्रु आउजाउ",
-   "ne": "पोखरा-दुबई नियमित उडानको एक महिना, ६ हजार बढी यात्रु आउजाउ",
-   "imp": 2,
-   "tags": [
-    "Pokhara",
-    "Dubai",
-    "Flight"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
    "title": "Today's News in a Nutshell",
    "summary": "KATHMANDU: Khabarhub brings you a glimpse of major developments of the day in Nepal, including politics, business/economy, sports, entertainment, and more. RSP Chair Rabi urges public against political speculation over...",
    "link": "https://english.khabarhub.com/2026/23/572875/",
@@ -1507,17 +1457,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1792192854.955552,
-   "en": "मिठाईमा कच्चा पदार्थ, उपभोग्य मिति र मूल्य खुलाउन अनिवार्य",
-   "ne": "मिठाईमा कच्चा पदार्थ, उपभोग्य मिति र मूल्य खुलाउन अनिवार्य",
-   "link": "https://baahrakhari.com/detail/505164",
-   "source": "Baahrakhari",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "society"
-  },
   {
    "ts": 1792194654.3378792,
    "en": "3,506 Police Deployed in Kathmandu Valley for Festival Security",
@@ -4434,8 +4373,8 @@
    "cat": "disaster"
   }
  ],
- "updated": 1792797692,
- "pending_since": 1792797650.721203,
+ "updated": 1792798291,
+ "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
