@@ -1159,7 +1159,8 @@
   "https://baahrakhari.com/detail/505546": 1792802446.589988,
   "https://nagariknews.nagariknetwork.com/Aparadh/four-arrested-for-abusing-a-girl-and-a-young-man-25-47.html": 1792803045.9725714,
   "http://english.ratopati.com/story/84372/pakistani-army-operation-in-balochistan-10-killed": 1792803045.9725714,
-  "http://lokaantar.com/story/331805/2026/10/24/gunmen-at-church-funeral-in-jordan-": 1792803045.9725714
+  "http://lokaantar.com/story/331805/2026/10/24/gunmen-at-church-funeral-in-jordan-": 1792803045.9725714,
+  "http://english.ratopati.com/story/84374/it-is-estimated-that-the-reconstruction-of-the-beni-darwang-muna-road-will-cost-around-rs-90-million": 1792804016.5455668
  },
  "queue": [
   {
@@ -1504,6 +1505,30 @@
     "ChurchShooting"
    ],
    "cat": "world",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Road Reconstruction in Myagdi Estimated at NPR 7 Crore After Flood Damage",
+   "summary": "Myagdi. The preliminary estimate for the reconstruction of the Beni-Darwang-Muna road in Myagdi, which has been devastated by floods, landslides,...",
+   "link": "http://english.ratopati.com/story/84374/it-is-estimated-that-the-reconstruction-of-the-beni-darwang-muna-road-will-cost-around-rs-90-million",
+   "source": "Ratopati EN",
+   "ts": 1792803754,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/QCdaMHjJhT.jpg",
+   "lang": "en",
+   "hl": "Road Reconstruction in Myagdi Estimated at NPR 7 Crore After Flood Damage",
+   "en": "Road Reconstruction in Myagdi Estimated at NPR 7 Crore After Flood Damage",
+   "ne": "Road Reconstruction in Myagdi Estimated at NPR 7 Crore After Flood Damage",
+   "imp": 3,
+   "tags": [
+    "Myagdi",
+    "RoadReconstruction",
+    "Flood",
+    "पहिरो"
+   ],
+   "cat": "disaster",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -4426,7 +4451,7 @@
    "cat": "health"
   }
  ],
- "updated": 1792803694,
+ "updated": 1792804026,
  "pending_since": 1792803045.9725714,
  "fb_blocks": [
   1790350880.4125228,
