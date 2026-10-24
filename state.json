@@ -1,8 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMilwFBVV95cUxOM1RQcHRibmlYWEdKVkdNZEM1dUFLSm8zX3ZteHlKS21qUk9GQno2Rmpzekh3Ujh6V29fNlBGYzBOUTcyV0VpUHNxT1AyaTRWdVdPR0tfUmYyZHJkVTNwOUV2ZkZORllnbTlWcGlrelhkRkw1blIzR09kYUVfcFVOak1XS1c5V1dyUTdqSFFnMUxRZHNoajJJ?oc=5": 1792639252.90153,
-  "https://nagariknews.nagariknetwork.com/social-affairs/four-suspension-bridges-affected-by-the-project-s-reservoir-will-be-reconstructed-81-40.html": 1792639252.90153,
-  "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQWp2Y1czT1l0Q01HdERFbFlUZC1sWjNCRXY2enJ3REpwRmQtYnpqZjQ5UEJHQVlUbXVJYkJ0WVhuZ1NRbDFyZGd0NTBrMUNqcHdEMGJ3cHdnbWhBYVNydk5aOVA2UDRQbktCbzBLYktXYVRmUzQ2MTlwWmtMalNyMUQ4UXVCcWNxbHktY25KaV9sNUY3RVBjY0dsZ0pXX1RNQ1dpTVNfdnVxUQ?oc=5": 1792639252.90153,
   "https://www.setopati.com/social/401171": 1792640451.3103745,
   "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcFBjM2ZnLVV6dFU2RlhScF9EUVZ6cmNDdFVOMktlcTM2Zks3c0QzS09kWUVkVnNZQkltVFZMaFRiU3lMX3IwMzBPT3ZWcElFV1JXVVJtX1M0bWVZYmdLOFZ4OWNpOU5TM09rQTdEcGVyRVVWaUJJblU1SXRXelA0VG9QSTM3Q0Y1T3ByOVVOamF1eUlSTElsVU9JRW90OW9ZT2xCR2ZfX212d3NVMzBz?oc=5": 1792641051.5026658,
   "http://lokaantar.com/story/331718/2026/10/22/bike-accident-": 1792641051.5026658,
@@ -1177,7 +1174,10 @@
   "https://theannapurnaexpress.com/story/68173": 1792810888.7519703,
   "https://nagariknews.nagariknetwork.com/social-affairs/52-vehicle-accidents-in-makawanpur-in-asoj-6-dead-78-injured-46-93.html": 1792811444.4708526,
   "https://nagariknews.nagariknetwork.com/international/five-killed-in-massive-explosion-while-making-firecrackers-95-44.html": 1792811444.4708526,
-  "https://kathmandupost.com/world/2026/10/24/seven-killed-as-gunmen-open-fire-at-church-in-jordan-in-terrorist-attack-authorities-say": 1792811444.4708526
+  "https://kathmandupost.com/world/2026/10/24/seven-killed-as-gunmen-open-fire-at-church-in-jordan-in-terrorist-attack-authorities-say": 1792811444.4708526,
+  "http://english.ratopati.com/story/84391/cross-border-tourism-connect-to-expand-nepal-india-tourism-partnership": 1792812669.8233109,
+  "http://lokaantar.com/story/331817/2026/10/24/arrested-": 1792812669.8233109,
+  "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWkpnY1dtSFdKcnN3RERtaEZlemJSekRuaEY1ZW9DWFkyNndac0xHR2V1ck5seHV3RUZoWmlUQWU3ckpvenB5dUhQYmV5a3JLOWRvdnVUc1BtdmNVR2NRNFpleGFmSVJWOGJYRFl3RFFpZWVBbXJENENRam9BZU5sQnJXdF9NT243VGhBSVI1ck9NMkVs0gGUAUFVX3lxTE9nNTMwTWRlQk5JaUc4YmJGUnljNVJoT0dVVDhIaDl2ZXA3MFRqVnRVTXItVndDR3cxUTBEUDhUSDVrdHhGTy1BWktNSWFYNmNHaGlXazhCOXR5TkdmN2ZHYVE2Nnpqa1dVV0lxeUYzaHBKOVM5TW9Wb2dTaVhncGpkNHhPNnRibmVpR21nSXJiNzlxVW4?oc=5": 1792812669.8233109
  },
  "queue": [
   {
@@ -2367,6 +2367,28 @@
     "ChurchAttack"
    ],
    "cat": "world",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Nepal: Two pulled alive from tunnel nine days after floods",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWkpnY1dtSFdKcnN3RERtaEZlemJSekRuaEY1ZW9DWFkyNndac0xHR2V1ck5seHV3RUZoWmlUQWU3ckpvenB5dUhQYmV5a3JLOWRvdnVUc1BtdmNVR2NRNFpleGFmSVJWOGJYRFl3RFFpZWVBbXJENENRam9BZU5sQnJXdF9NT243VGhBSVI1ck9NMkVs0gGUAUFVX3lxTE9nNTMwTWRlQk5JaUc4YmJGUnljNVJoT0dVVDhIaDl2ZXA3MFRqVnRVTXItVndDR3cxUTBEUDhUSDVrdHhGTy1BWktNSWFYNmNHaGlXazhCOXR5TkdmN2ZHYVE2Nnpqa1dVV0lxeUYzaHBKOVM5TW9Wb2dTaVhncGpkNHhPNnRibmVpR21nSXJiNzlxVW4?oc=5",
+   "source": "DW.com",
+   "ts": 1792793166,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "Nepal: Two pulled alive from tunnel nine days after floods",
+   "en": "Nepal: Two pulled alive from tunnel nine days after floods",
+   "ne": "Nepal: Two pulled alive from tunnel nine days after floods",
+   "imp": 3,
+   "tags": [
+    "Floods",
+    "TunnelRescue"
+   ],
+   "cat": "disaster",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -5289,7 +5311,7 @@
    "cat": "society"
   }
  ],
- "updated": 1792812051,
+ "updated": 1792812676,
  "pending_since": 1792810888.7519703,
  "fb_blocks": [
   1790350880.4125228,
