@@ -1,9 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9laXZ3Y3hQT2FBeFkwdHpPWGJVcjRkbG55U05aMFBEMEFlT3hYeVRDWUdHdFV5LWg1eHgyQ29USzZqSWcwdm80MDNpNEdCdw?oc=5": 1792674100.9397333,
-  "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQMkF1TnRuRFZuYi1ia2RqYS13T2JRWHh0amNzcTc2UHhFNlIyOEpVZXFqc0xhZjRPbEdxNmxEY25kLTQxS29YQ0UzUzZxemllLXBUNXBlVEJwYzZNWk9EeENGV01kREkwcUU5STFnQ3dQYTZ6NTNzUFAtNzc3YkRzMzZWenk1OU5BU2wzQTFtNGNXbU5WdzhGa2xod3pnZXJCTWdhNXZtemdzaWVmNHlIUlUxXzZDLVBwcUp4LWhzcExURzZ5UG1xSVE4WkZKZXZRT3JFVFV1RF80NUtJYVJ2UDVEZnpucTV6YW1JcHFxcjg?oc=5": 1792674100.9397333,
-  "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4xVjRKb1VOdWEwYUZMZnhDNnlWbUh2ZjNDRWs3eS1OSVdpUDcxU05YYXhYMFVoSVZ2MDhSMU0wSFRMeUlEUUFGTEc4QU1iVFdOeDEtbHlIWTVwSVlWX3JkV2pIVmYyZWfSAVxBVV95cUxQbVVRU0RxTFFqUVZseDNfWm5wWTNBTW56ZWgtTHVUU05iLWFjRkp5eF84NlJrS1J3aksyQXRqRGJ1N0YyNUpXUGdhU09UbURLQm93UVVKbzgtdEo0Yw?oc=5": 1792674100.9397333,
-  "https://gorkhapatraonline.com/news/227106": 1792674100.9397333,
   "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQb2FjUkdGM290QXUteHNkZDRlOFlpR1JBUEhqN21NNkN0amd0RXpaRGhwandjVHpnbkJtcmJ2RjJGamc3RFVFNGVUWEFIVWZjakJVbldNTXRHZUtwNk5veUNWNGNXRC1USXpxRFE4bko2NzRVZXZVVm9BUkxGLU9paUNJZHh0TUwxcXY4eTFmdXV5VHJMaHR6TEU2VXpHRVh6M0dtMW1LUkNNa0xOSkRIUU9DSDFFQWpndjNzbDdaU3A2SEV0SHpqSllZOTlmZW5TaEgxbjhUYmJLUGp1WEhfYlFwcFdqblpJSG1DTHY5a0FpSGJGdEp3OTdNSWdkTlk?oc=5": 1792674654.7493594,
   "https://gorkhapatraonline.com/news/227107": 1792674654.7493594,
   "https://english.khabarhub.com/2026/22/572842/": 1792675255.2151582,
@@ -2515,30 +2511,6 @@
    "val": 3,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "४२ ग्राम खैरो हेरोइनसहित २ जना पक्राउ",
-   "summary": "लागुऔषध खैरो हेरोइनसहित २ जना पक्राउ परेका छन् । पक्राउ पर्नेमा तनहुँको म्याग्दी गाउँपालिका ६ का २४ वर्षीय अमित दर्जी र म्याग्दी गाउँपालिका २ का २९ वर्षीय दीपक परियार रहेका छन् ।लागुऔषध नियन्त्रण ब्यूरो शाखा कार्यालय...",
-   "link": "http://lokaantar.com/story/331828/2026/10/24/arrest-",
-   "source": "Lokaantar",
-   "ts": 1792819872.9380739,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "४२ ग्राम खैरो हेरोइनसहित २ जना पक्राउ",
-   "en": "४२ ग्राम खैरो हेरोइनसहित २ जना पक्राउ",
-   "ne": "४२ ग्राम खैरो हेरोइनसहित २ जना पक्राउ",
-   "imp": 3,
-   "tags": [
-    "BrownSugar",
-    "Narcotics",
-    "PoliceArrest",
-    "प्रहरी"
-   ],
-   "cat": "crime",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "Fire breaks out at Hitler's mountain retreat, suspect detained: police",
@@ -6928,9 +6900,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "disaster"
+  },
+  {
+   "ts": 1792847458.4543288,
+   "en": "वीरगञ्जबाट ४२ ग्राम खैरो हेरोइनसहित तनहुँका दुई युवा पक्राउ",
+   "ne": "वीरगञ्जबाट ४२ ग्राम खैरो हेरोइनसहित तनहुँका दुई युवा पक्राउ",
+   "link": "http://lokaantar.com/story/331828/2026/10/24/arrest-",
+   "source": "Lokaantar",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "crime"
   }
  ],
- "updated": 1792846891,
+ "updated": 1792847472,
  "pending_since": 1792846888.411624,
  "fb_blocks": [
   1790350880.4125228,
