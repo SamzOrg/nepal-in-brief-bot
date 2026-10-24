@@ -1181,7 +1181,8 @@
   "https://nagariknews.nagariknetwork.com/social-affairs/risk-of-rain-from-kartik-12-to-15-28-districts-urged-to-be-alert-52-31.html": 1792807851.0486937,
   "https://nagariknews.nagariknetwork.com/international/delhi-high-court-dismisses-neha-bora-s-writ-petition-against-peace-bond-89-13.html": 1792807851.0486937,
   "https://nagariknews.nagariknetwork.com/international/after-modi-calls-him-a-failed-product-tharoor-suggests-take-rahul-seriously-he-is-popular-among-youth-66-78.html": 1792807851.0486937,
-  "https://nagariknews.nagariknetwork.com/social-affairs/the-mountains-awakened-the-courtyards-filled-42-57.html": 1792807851.0486937
+  "https://nagariknews.nagariknetwork.com/social-affairs/the-mountains-awakened-the-courtyards-filled-42-57.html": 1792807851.0486937,
+  "http://lokaantar.com/story/331813/2026/10/24/accident-": 1792808446.0148306
  },
  "queue": [
   {
@@ -2080,20 +2081,31 @@
    "val": 1,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "मकवानपुरमा एक महिनामै ५२ सवारी दुर्घटना, ६ जनाको मृत्युु",
+   "summary": "मकवानपुरमा असोज महिनामा ५२ वटा सवारी दुर्घटना भएका छन् । यस अवधिमा दुर्घटनाबाट ६ जनाको मृत्युु हुनाका साथै ७८ जना घाइते भएको जिल्ला प्रहरी कार्यालयका प्रवक्ता प्रहरी नायब उपरीक्षक माधवप्रसाद काफ्लेले जानकारी दिए...",
+   "link": "http://lokaantar.com/story/331813/2026/10/24/accident-",
+   "source": "Lokaantar",
+   "ts": 1792794046.7465842,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "मकवानपुरमा एक महिनामै ५२ सवारी दुर्घटना, ६ जनाको मृत्युु",
+   "en": "मकवानपुरमा एक महिनामै ५२ सवारी दुर्घटना, ६ जनाको मृत्युु",
+   "ne": "मकवानपुरमा एक महिनामै ५२ सवारी दुर्घटना, ६ जनाको मृत्युु",
+   "imp": 3,
+   "tags": [
+    "Makwanpur",
+    "RoadAccident"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1792203052.561594,
-   "en": "सुधाकर दलेला नेपालका लागि नयाँ भारतीय राजदूत नियुक्त",
-   "ne": "सुधाकर दलेला नेपालका लागि नयाँ भारतीय राजदूत नियुक्त",
-   "link": "https://baahrakhari.com/detail/505171",
-   "source": "Baahrakhari",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "politics"
-  },
   {
    "ts": 1792204875.306676,
    "en": "नेपाली कांग्रेसका नवनिर्वाचित सभापति गगन थापाको शपथग्रहण आज",
@@ -5010,7 +5022,7 @@
    "cat": "crime"
   }
  ],
- "updated": 1792807874,
+ "updated": 1792808450,
  "pending_since": 1792807851.0486937,
  "fb_blocks": [
   1790350880.4125228,
