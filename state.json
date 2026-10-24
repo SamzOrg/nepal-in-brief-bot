@@ -1154,7 +1154,8 @@
   "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRHpzelFsVS03cjJaTjF6LTJrbjRKQ1VwVWE3OS1MUkQyT05BcFlhQUQtQURxWXhlTUMzbzZTSFRNbkZlWUp1NE9JQUN2UGktT1BnNV9GZkFNZXU3X0g0b1g1Q25wZWhyWS02N0xaNkFiOHFWeEpsdmZHUjdqN3NJR2V1dnRBVVI3Vnc?oc=5": 1792793448.3525803,
   "https://news.google.com/rss/articles/CBMiswFBVV95cUxQT3M2MG8zc2ZXRmo3bUtYVmRBa1VrU0NBUXVOTHlWZUtFTDI5d1U0Y2tJOGdGQnJhbEhCLWs3UHBHOF9wbW1BZFZVZEhGejNUMkhxS3IxMDRySGV0dkR1M2R1UDN5LXJvUjJxM0RPdDdnYU1jcDRzbHIzWkU3RVhiaTVURm85V18yc0NNVFBYYW5YQmRPUXNWNVVDcTgxX1drMkt2bGFJN1I0dWt2V1BobzlNZw?oc=5": 1792797650.721203,
   "https://www.setopati.com/social/401209": 1792801246.3705106,
-  "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdW9wX2xhSV9Ud2NOQzhtb3MtTEZ4cEVFS1JDTmlwNi1teFZEamtpeGlBQ0xCRmIyMTg5S2ZoODg4M3dSUHI4WUU4SkIwV1pRRUppYllqcnJkcW51eVliMzY0aGcxM3ZyRkJaN1FMMEhGcGJWV3BUYi1FeW5MeFUtazFtUllxX0ZuWHFra25rMGItQzBJWnFjbXNQX3F2RmhjRnpWaVVnMzVfLWNGby1mbE5WODg?oc=5": 1792801246.3705106
+  "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdW9wX2xhSV9Ud2NOQzhtb3MtTEZ4cEVFS1JDTmlwNi1teFZEamtpeGlBQ0xCRmIyMTg5S2ZoODg4M3dSUHI4WUU4SkIwV1pRRUppYllqcnJkcW51eVliMzY0aGcxM3ZyRkJaN1FMMEhGcGJWV3BUYi1FeW5MeFUtazFtUllxX0ZuWHFra25rMGItQzBJWnFjbXNQX3F2RmhjRnpWaVVnMzVfLWNGby1mbE5WODg?oc=5": 1792801246.3705106,
+  "http://english.ratopati.com/story/84370/nepals-three-climate-project-proposals-approved-by-adaptation-fund": 1792801868.3745944
  },
  "queue": [
   {
@@ -1199,29 +1200,6 @@
     "Tournament"
    ],
    "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "युक्रेनमा सैन्य लक्ष्य प्राप्त गरेरै छाड्ने पुटिनको सन्देश",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/505545",
-   "source": "Baahrakhari",
-   "ts": 1792772753,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "युक्रेनमा सैन्य लक्ष्य प्राप्त गरेरै छाड्ने पुटिनको सन्देश",
-   "en": "युक्रेनमा सैन्य लक्ष्य प्राप्त गरेरै छाड्ने पुटिनको सन्देश",
-   "ne": "युक्रेनमा सैन्य लक्ष्य प्राप्त गरेरै छाड्ने पुटिनको सन्देश",
-   "imp": 1,
-   "tags": [
-    "Putin",
-    "Ukraine",
-    "Russia"
-   ],
-   "cat": "world",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -4260,7 +4238,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1792801250,
+ "updated": 1792801872,
  "pending_since": 1792800646.2329562,
  "fb_blocks": [
   1790350880.4125228,
