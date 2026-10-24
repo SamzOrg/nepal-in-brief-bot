@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://kathmandupost.com/world/2026/10/22/what-is-php-and-why-are-security-flaws-putting-european-government-websites-at-risk": 1792654270.2213721,
-  "https://www.setopati.com/social/401182": 1792654270.2213721,
   "https://nagariknews.nagariknetwork.com/social-affairs/more-than-a-dozen-animals-injured-by-fox-bites-village-in-panic-br-38-37.html": 1792654851.3640268,
   "https://baahrakhari.com/detail/505460": 1792654851.3640268,
   "https://news.google.com/rss/articles/CBMimwFBVV95cUxOM0FqWnYxX1hVN3RVY1lWdFVzcklMcjNxRnVCTVplU0ZuSTFqS0tXdzl2VGppbkNQb2czMGRyY3Z4VDM4RGhNNUJEcGpqUGV1NmZsUWtCQ3RQRlpuWGtuVWFmMTJOSWJBbk1Da0xSR3V5Z2k5NklMcUxreGhrdDhGbm9tT0tNNzdyS1JBaElDN3pya3NpeUhWMWhMTQ?oc=5": 1792654851.3640268,
@@ -1206,7 +1204,8 @@
   "https://nagariknews.nagariknetwork.com/arts/blessings-and-blessings-in-the-ashram-memories-of-family-in-my-heart-br-52-57.html": 1792826456.7120535,
   "https://nagariknews.nagariknetwork.com/others/girl-climbs-tower-after-family-refuses-to-let-her-get-married-gets-married-over-phone-three-hours-later-19-38.html": 1792826456.7120535,
   "https://nagariknews.nagariknetwork.com/politics/three-climate-projects-in-nepal-approved-by-adaptation-fund-br-61-31.html": 1792826456.7120535,
-  "https://nagariknews.nagariknetwork.com/sports/barcelona-and-real-madrid-face-off-40-cameras-to-cover-the-match-br-71-21.html": 1792826456.7120535
+  "https://nagariknews.nagariknetwork.com/sports/barcelona-and-real-madrid-face-off-40-cameras-to-cover-the-match-br-71-21.html": 1792826456.7120535,
+  "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOTZtRmlsZnoxSFpmWmh4blhpQVdMRFZILXAtNVZpMlZCRFlwbm9yU0x1QkR0eFlPY0FQcnJFQ195b1lzanF1VlBnNmxKY0hMVTE5WVZLY09Xb1hDcEFETzEyamozNlcydFg5REVKODdkR2NpS0JkZFdTMk9lWDZqMXd1MnJRUHVPTDAzZExpNnRCWExEaVFrMV9rbHNLUjJPbnBiY0Nfd3NKcmU3c1Z3Uw?oc=5": 1792827072.1825829
  },
  "queue": [
   {
@@ -3394,7 +3393,7 @@
    "cat": "world",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "North Korea's Kim Jong Un visits China via Dandong bridge, Yonhap says",
@@ -6589,8 +6588,8 @@
    "cat": "crime"
   }
  ],
- "updated": 1792826469,
- "pending_since": null,
+ "updated": 1792827075,
+ "pending_since": 1792827072.1825829,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
