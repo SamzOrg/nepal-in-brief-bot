@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://www.setopati.com/social/401171": 1792640451.3103745,
   "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcFBjM2ZnLVV6dFU2RlhScF9EUVZ6cmNDdFVOMktlcTM2Zks3c0QzS09kWUVkVnNZQkltVFZMaFRiU3lMX3IwMzBPT3ZWcElFV1JXVVJtX1M0bWVZYmdLOFZ4OWNpOU5TM09rQTdEcGVyRVVWaUJJblU1SXRXelA0VG9QSTM3Q0Y1T3ByOVVOamF1eUlSTElsVU9JRW90OW9ZT2xCR2ZfX212d3NVMzBz?oc=5": 1792641051.5026658,
   "http://lokaantar.com/story/331718/2026/10/22/bike-accident-": 1792641051.5026658,
   "http://english.ratopati.com/story/84280/us-agency-warns-of-two-serious-cybersecurity-flaws-in-php": 1792641687.9284906,
@@ -2737,17 +2736,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1792208451.2980747,
-   "en": "Bhotekoshi flood displaced 777 students as Nepal plans five-year school recovery",
-   "ne": "Bhotekoshi flood displaced 777 students as Nepal plans five-year school recovery",
-   "link": "https://kathmandupost.com/national/2026/10/17/bhotekoshi-flood-displaced-777-students-nepal-plans-five-year-school-recovery",
-   "source": "The Kathmandu Post",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "disaster"
-  },
   {
    "ts": 1792210256.2730896,
    "en": "काभ्रेमा ग्यास बुलेटको ठक्करबाट ९ वर्षीय बालकको मृत्यु, बुबा-आमा घाइते",
@@ -5664,8 +5652,8 @@
    "cat": "disaster"
   }
  ],
- "updated": 1792813272,
- "pending_since": null,
+ "updated": 1792813860,
+ "pending_since": 1792813848.1373568,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
