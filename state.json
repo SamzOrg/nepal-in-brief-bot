@@ -1372,29 +1372,6 @@
    "hits": 1
   },
   {
-   "title": "Vehicular movement resumes on Beni-Darbang road",
-   "summary": "MYAGDI: Vehicular movement along the Beni-Darbang road, which connects three local levels in western Myagdi with Beni Bazaar, has resumed after a week-long disruption. The road had been blocked by dry landslides at...",
-   "link": "https://english.khabarhub.com/2026/24/572941/",
-   "source": "Khabarhub EN",
-   "ts": 1792801043,
-   "weight": 2,
-   "img": "https://english.khabarhub.com/wp-content/uploads/2024/06/maldhunga-beni-400x220.webp",
-   "lang": "en",
-   "hl": "Vehicular movement resumes on Beni-Darbang road",
-   "en": "Vehicular movement resumes on Beni-Darbang road",
-   "ne": "Vehicular movement resumes on Beni-Darbang road",
-   "imp": 3,
-   "tags": [
-    "BeniDarbangRoad",
-    "Myagdi",
-    "पहिरो"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Daily Horoscope for October 24, 2026",
    "summary": "Bikram Sambat 2083 Kartik 7. Saturday. Gregorian calendar October 24, 2026. Nepal Sambat 1146. Raudra Samvatsar. Dakshinayan. Autumn season. Shrisake...",
    "link": "http://english.ratopati.com/story/84369/how-was-your-day-today-check-your-horoscope",
@@ -4449,9 +4426,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "health"
+  },
+  {
+   "ts": 1792804254.7513785,
+   "en": "Vehicular movement resumes on Beni-Darbang road in Myagdi after week",
+   "ne": "Vehicular movement resumes on Beni-Darbang road in Myagdi after week",
+   "link": "https://english.khabarhub.com/2026/24/572941/",
+   "source": "Khabarhub EN",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "disaster"
   }
  ],
- "updated": 1792804026,
+ "updated": 1792804269,
  "pending_since": 1792803045.9725714,
  "fb_blocks": [
   1790350880.4125228,
