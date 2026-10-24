@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdEkyMldwUGlpbFZhd3hNOUNBaE9YX1RzOUkzWWJLeVZoT2JWRTNOOGx2a1gtcl9EdmNNWVhYYnE4aXp3cE5ub0N3bVI4U3pzRHpBUHBLVC1yNVh6azk4Qzl4OW5QVGdTOTV1YXJYMWF5YzZEVHZRcGdQNGd2R1c5RmtZYnVqM0FZT05vOTB1U3kzb0N3NG1iRkhWUTJfYVNpbkM3QTgwbk5aM1BKUUJHMnZraDlqNVM5MlNLeUJuVi1LZGpaOHVOLWh1UWlJaHFhTFdYcDVKcVY?oc=5": 1792704050.8020413,
   "https://news.google.com/rss/articles/CBMizgFBVV95cUxOeU1lZnNNMUFKa1pvWGp4N2kzUjBicVRqVXlGeDhROHJVblBSS2ItUVdwMmR0TkhWX3pZVXNpSmt4UFBDUUtRSGdWQmxZVFlPX0EzczdZbTNRZy1FVUxOeVhEUUgzYjQ3dWJaVTFTVDZEU2xmRzFZeWJNRU45VnpwY0k3V2NmY2tMcTlBN2xJZXl4TWdVR2NybVZ2dC0tYmViVnBiUlhuaGpRR09ZbGVRdng0SjZldXlWeEE4YUZoWWVPMHItTldqOHRmZ2RrZw?oc=5": 1792707054.1839392,
   "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeHJmdlA2d0NRZjdudS16Y1lrOEZSRkdWbU5ydHUtaHo5ZTloZDVyTXNweklhRmFLdVY1OEY0WklpNXJvaFRaWmRlNFlRLXcyZGhzeGRmQ05MRldOQ3JFRjJVX3pQMUtieFZ6YkdFLW5mQmdlWXVBbkItcWJJaTc0ZHo5MG1uNGxFMFVTb2NkRlp3ZU1jTHlsY29FaFBHcFBQMmVxb2F5RlRsYjNOSndmLWJCRk15Si12enc?oc=5": 1792708849.6108243,
   "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMlh4RUZyMnFyWGpPTUROZEVETFFUSHNZMnc2c25LaDdfZVZfdXloMGdGSklvTWNodDdOQjB3MGZMcDhoSkhoY2llc0JwWTJwZ2ROVlQ0UVRYaWU1bXd6NS1ITzF2dlgyNnVLaktVODQtVzVOSXpXY05QUXh4dkVqUldmS0cxTTJEVkdfRXlWOA?oc=5": 1792708849.6108243,
@@ -1205,29 +1204,6 @@
     "Road",
     "RuralNepal",
     "सडक"
-   ],
-   "cat": "society",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "जङ्गलको सडकमा ठुलो अजिङ्गर फेला",
-   "summary": "शंकर केसीशारदा (सल्यान), कात्तिक ७ गते । सल्यानको छत्रेश्वरी गाउँपालिका-३, रानाघर नजिकै निकै ठुलो अजिङ्गर फेला परेको छ । शनिबार बेलुकी बडाचौर सामुदायिक वन क्षेत्रमा सडकको घारीमा अ...",
-   "link": "https://gorkhapatraonline.com/news/227153",
-   "source": "Gorkhapatra",
-   "ts": 1792848166,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/388768/conversions/ajingar-original.jpg",
-   "lang": "ne",
-   "hl": "जङ्गलको सडकमा ठुलो अजिङ्गर फेला",
-   "en": "जङ्गलको सडकमा ठुलो अजिङ्गर फेला",
-   "ne": "जङ्गलको सडकमा ठुलो अजिङ्गर फेला",
-   "imp": 2,
-   "tags": [
-    "Python",
-    "Wildlife",
-    "अजिङ्गर"
    ],
    "cat": "society",
    "val": 2,
@@ -4965,7 +4941,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1792876852,
+ "updated": 1792877471,
  "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
