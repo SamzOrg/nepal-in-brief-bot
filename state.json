@@ -1234,7 +1234,8 @@
   "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWUhHYmNub3BEdGZjallGbHozb0RkM3RaTHN3bThvN2hac2lUMzIyNHdFWTVRa2htaGppUmJGSGpaVE5CQWpPSkRyaDZZcDBMbllLSmltc19DUWpESjVMT2RMR2lrR0hwUEVhRWQxeERJUkE2WVgyb1NRMmdPMDJVVmNCSnFaSEg1VkRZMXlucnFaXzdNSGNZNkJpYkxmc0t5SzRCV0t2X054ZFhNai1fUmhacVU5UnFvUWh0OTVEa2R3cFcz?oc=5": 1792844452.1332297,
   "https://nagariknews.nagariknetwork.com/social-affairs/more-than-4-000-visitors-in-a-single-day-at-pathibhara-br-17-30.html": 1792844452.1332297,
   "https://nagariknews.nagariknetwork.com/social-affairs/preparations-complete-for-dasai-tourism-and-cultural-festival-in-pokhara-on-sunday-br-39-17.html": 1792844452.1332297,
-  "https://nagariknews.nagariknetwork.com/politics/the-people-s-war-that-started-with-60-people-led-the-country-to-a-republic-pushpa-kamal-dahal-br-45-44.html": 1792844452.1332297
+  "https://nagariknews.nagariknetwork.com/politics/the-people-s-war-that-started-with-60-people-led-the-country-to-a-republic-pushpa-kamal-dahal-br-45-44.html": 1792844452.1332297,
+  "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNm02Z0dmODE2a3NmUnotc2o3NmgxZVg5Tml1LWN0Nlpsb0hTdThsdUNJdWg5akNGM3U5OW5IY0JrOXlMVW43M21vSksybTlHRTIzV1hPYW94YmNWQVlJZ3FkRFhxTHdmWnJ3eVo4dWhBRDZzRzd4SC1sNVROMkt2c0gxWmh0V1M1Q0NsR2xiV3BaMkFRaVYydE5QMDN1Ti1vZkhtVElWeUZtRWs1bW1YZlNxNjRfSTVIc0ZzVDFEeHhfUG1oSE5aalpOVGktNVh3NWJINGln?oc=5": 1792845651.8415055
  },
  "queue": [
   {
@@ -1305,30 +1306,6 @@
    "val": 3,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "Hong Kong's Nepali community celebrates the Dashain festival",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQW1KZUpyWDdXODZIei1jUTdPYjl1d1pFTUZxQUV5VlZHS1Z0bkNlc3BMc0dNdGlPdVZHbWN1dzdyOTA3N0UzcWZONWNDbEZ5ZEVLNXE1SEkwazhGRllYakhfMmRPWnpiRUNXUzhoamJQdS1YVlBYZWVaZklHMVo3Z0E4aV8yc3VQU1VhTmtQZlZXRWl0RG9VdEY2THJxU0c5Ykc4?oc=5",
-   "source": "South China Morning Post",
-   "ts": 1792816480,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Hong Kong's Nepali community celebrates the Dashain festival",
-   "en": "Hong Kong's Nepali community celebrates the Dashain festival",
-   "ne": "Hong Kong's Nepali community celebrates the Dashain festival",
-   "imp": 2,
-   "tags": [
-    "HongKong",
-    "NepaliCommunity",
-    "Dashain",
-    "चाडपर्व"
-   ],
-   "cat": "culture",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "भानुआटु नजिक शक्तिशाली भूकम्प",
@@ -2154,29 +2131,6 @@
    "val": 1,
    "teaser": true,
    "hits": 1
-  },
-  {
-   "title": "बाँकेमा दुई कार ठोक्किँदा एक जनाको मृ'त्यु, ६ घाइते",
-   "summary": "पूर्व-पश्चिम राजमार्गमा दुई कार एकआपसमा ठोक्किँदा एक जनाको मृत्यु भएको छ भने छ जना घाइते भएका छन्।...",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/one-dead-6-injured-in-two-car-collision-in-banke-53-43.html",
-   "source": "Nagarik News",
-   "ts": 1792827752,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1792827739_New%20Project%20(8).jpg",
-   "lang": "ne",
-   "hl": "बाँकेमा दुई कार ठोक्किँदा एक जनाको मृ'त्यु, ६ घाइते",
-   "en": "बाँकेमा दुई कार ठोक्किँदा एक जनाको मृ'त्यु, ६ घाइते",
-   "ne": "बाँकेमा दुई कार ठोक्किँदा एक जनाको मृ'त्यु, ६ घाइते",
-   "imp": 4,
-   "tags": [
-    "Banke",
-    "CarAccident",
-    "दुर्घटना"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 3
   },
   {
    "title": "हिल्सामा पुल बन्यो, सञ्चालनमा आउन सकेन",
@@ -6702,9 +6656,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "politics"
+  },
+  {
+   "ts": 1792845667.518665,
+   "en": "बाँकेमा दुई कार ठोक्किँदा एक जनाको मृत्यु, ६ घाइते",
+   "ne": "बाँकेमा दुई कार ठोक्किँदा एक जनाको मृत्यु, ६ घाइते",
+   "link": "https://nagariknews.nagariknetwork.com/social-affairs/one-dead-6-injured-in-two-car-collision-in-banke-53-43.html",
+   "source": "Nagarik News",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "disaster"
   }
  ],
- "updated": 1792845076,
+ "updated": 1792845682,
  "pending_since": 1792845073.355504,
  "fb_blocks": [
   1790350880.4125228,
