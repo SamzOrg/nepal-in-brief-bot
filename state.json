@@ -1183,7 +1183,9 @@
   "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeUk5R3h0WUtsNlFKN0NmbjdndkdxWFJEWFZlUzh4aktBTlRsY3NJV2VpT0JZQnpPRTJoc1poV1AzajNGRlNVUE1nUVk0b3U4eXBfcHpRSkF2cmxsMGNIdkZBdXV6aUF2M2hBUjVPVU04ZTU5VVNMb0Q1Qldla3dpRlFFalBmQWhrOVFnT0wtYVl1MURrUVhqeVRvS0FqWFRFaG9ZaHBFWlpLay1aZEtoWnR2aDVQWThia3Z0blBpMXNKNW8yZVNFcA?oc=5": 1792869648.1632307,
   "https://nagariknews.nagariknetwork.com/social-affairs/the-number-of-passengers-returning-to-kathmandu-after-celebrating-dashain-is-increasing-causing-traffic-jams-at-major-checkpoints-78-47.html": 1792869648.1632307,
   "https://news.google.com/rss/articles/CBMingFBVV95cUxOLWdjdDJsVl9tWkxpVnVQLUtXeTBPMTE1MG92YUVfaTQ1ODk5R1MzOHdGaWNDMy1LdmlUWHFXdVBXMXdRVjFpM21JbldUODdPckJvTnpvb2R6Q0JqMjJ5cGVYanhZUVRJd1hnWnZyME9ULTU4QUJFMUhoc1lzTm5uQTN1QS1FR1MwNkNfWUZjTW5kU3U5UmNIREZPZVdyZw?oc=5": 1792875048.552881,
-  "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQTTJYWDVaZGhudEstaVBCR19NcWlwbW1JQ1NNdHB2YXdjdXlDYWhCRXVaOHJ5TTJMbEJkajJXQVFUVHVsUFJpVThZbHFFOGJVUmJfYWlrbnN4c1VuTHhwM2JtRjI3SGJ3NWhKX1RUUC1xZDVrSUFBVUlfMUdReUJTdWlsMWEwSVI0MG9WYnpBeVRTNUtMa1VOckhXWTRTb240Z0hodTBKZVRqMUw3YlVYWU1rMzBuT1d1UWZKSGdkbkNEWm5ONGFpRGJOTzNld3VDQnlnektha1VMNXBieDhuVldWcm5UOUNSU21ZbmI5ZEV5SV9SMGJxQ3hZRjlrcjR4Vm9lVzZoZjdLMEJqN1dGUEJ3VzRHNWYybkE4MUdvNDFtc2FxSjBjcA?oc=5": 1792875684.417485
+  "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQTTJYWDVaZGhudEstaVBCR19NcWlwbW1JQ1NNdHB2YXdjdXlDYWhCRXVaOHJ5TTJMbEJkajJXQVFUVHVsUFJpVThZbHFFOGJVUmJfYWlrbnN4c1VuTHhwM2JtRjI3SGJ3NWhKX1RUUC1xZDVrSUFBVUlfMUdReUJTdWlsMWEwSVI0MG9WYnpBeVRTNUtMa1VOckhXWTRTb240Z0hodTBKZVRqMUw3YlVYWU1rMzBuT1d1UWZKSGdkbkNEWm5ONGFpRGJOTzNld3VDQnlnektha1VMNXBieDhuVldWcm5UOUNSU21ZbmI5ZEV5SV9SMGJxQ3hZRjlrcjR4Vm9lVzZoZjdLMEJqN1dGUEJ3VzRHNWYybkE4MUdvNDFtc2FxSjBjcA?oc=5": 1792875684.417485,
+  "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQLUhfWE1TTWc3TGZfTWdHWFA3NnpHZkc0c1lEMlF0NzVJTDIyMHB3NTBNTE50ZU1SUVNkbU9vRTVHSmZvRWp2Z1g0OW5ZUFlWUnkzMFJneHJ5RlZhbGZDRTFpRU5CbGY2N2hDbTNGbXN1bmNmTjFqVzFSdmRXQk5nSkR3WmdEajlrUjgxR29iNEptbEhSLUR5NmswZHZCWDlIMEJhNktYYWxLRnBHZzRwcXBwUmoxb0ctUHNyQ1NyLWc?oc=5": 1792880775.0833666,
+  "http://english.ratopati.com/story/84432/tottenham-win-beating-chelsea-2-0": 1792880775.0833666
  },
  "queue": [
   {
@@ -1825,20 +1827,32 @@
    "val": 3,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "Tottenham Hotspur Defeats Chelsea 2-0 in Premier League",
+   "summary": "Kathmandu. In a match of the English Premier League, Tottenham Hotspur (Spurs) defeated Chelsea by a score of 2-0.In a...",
+   "link": "http://english.ratopati.com/story/84432/tottenham-win-beating-chelsea-2-0",
+   "source": "Ratopati EN",
+   "ts": 1792880682,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/chelsea_ON9B5SiSPb.webp",
+   "lang": "en",
+   "hl": "Tottenham Hotspur Defeats Chelsea 2-0 in Premier League",
+   "en": "Tottenham Hotspur Defeats Chelsea 2-0 in Premier League",
+   "ne": "Tottenham Hotspur Defeats Chelsea 2-0 in Premier League",
+   "imp": 1,
+   "tags": [
+    "TottenhamHotspur",
+    "Chelsea",
+    "PremierLeague"
+   ],
+   "cat": "sports",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1792275659.5280976,
-   "en": "Over 100 foreign trekkers stranded in Nepal after floods sweep away trails, bridges",
-   "ne": "Over 100 foreign trekkers stranded in Nepal after floods sweep away trails, bridges",
-   "link": "https://newsonair.gov.in/over-100-foreign-trekkers-stranded-in-nepal-after-floods-sweep-away-trails-bridges/",
-   "source": "News On AIR",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "disaster"
-  },
   {
    "ts": 1792277453.3556354,
    "en": "Nepal Premier League to enforce stricter player eligibility rules and mandatory NOCs for foreigners",
@@ -4744,8 +4758,8 @@
    "cat": "health"
   }
  ],
- "updated": 1792880487,
- "pending_since": null,
+ "updated": 1792880780,
+ "pending_since": 1792880775.0833666,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
