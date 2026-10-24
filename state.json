@@ -1184,32 +1184,12 @@
   "http://english.ratopati.com/story/84384/52-vehicle-accidents-in-makawanpur-in-asoj-six-people-killed": 1792810249.830855,
   "http://english.ratopati.com/story/84383/access-education-network-awarded-global-performing-partner-award": 1792810249.830855,
   "https://english.khabarhub.com/2026/24/572956/": 1792810888.7519703,
-  "https://theannapurnaexpress.com/story/68173": 1792810888.7519703
+  "https://theannapurnaexpress.com/story/68173": 1792810888.7519703,
+  "https://nagariknews.nagariknetwork.com/social-affairs/52-vehicle-accidents-in-makawanpur-in-asoj-6-dead-78-injured-46-93.html": 1792811444.4708526,
+  "https://nagariknews.nagariknetwork.com/international/five-killed-in-massive-explosion-while-making-firecrackers-95-44.html": 1792811444.4708526,
+  "https://kathmandupost.com/world/2026/10/24/seven-killed-as-gunmen-open-fire-at-church-in-jordan-in-terrorist-attack-authorities-say": 1792811444.4708526
  },
  "queue": [
-  {
-   "title": "Mayors' cadet Jenson Webb embarks on a life changing Nepal expedition",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNX3R6WWFOVWF2TjF1Z1JLcS1FRU1odmFULWVTTFJuWWhZaWF5dE81V1VVNDg0V2VxbkxoTXBWa0FwY21yUHA5dDdQLVRzbXJseVdGT3k2YlFtVzFOdEREV3Nvc3NlZmtGdnVuLXZJeWFsSnBqcUVxSTMzRTZkWWNkNVc5ejhydmgtWlgyT2ZBZVFiNHBMeVlGeG1ZblRkd1pzYXhRRy1CaFhldlkyRjZj?oc=5",
-   "source": "Cheshire's Silk 106.9",
-   "ts": 1792782175,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Mayors' cadet Jenson Webb embarks on a life changing Nepal expedition",
-   "en": "Mayors' cadet Jenson Webb embarks on a life changing Nepal expedition",
-   "ne": "Mayors' cadet Jenson Webb embarks on a life changing Nepal expedition",
-   "imp": 1,
-   "tags": [
-    "Nepal",
-    "Expedition",
-    "JensonWebb"
-   ],
-   "cat": "society",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
   {
    "title": "School in Nepal resumes classes for 1,621 students after floods - The National",
    "summary": "",
@@ -2035,7 +2015,7 @@
    "cat": "disaster",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Two months after Nepal floods, a family's wait for closure",
@@ -2171,29 +2151,6 @@
    ],
    "cat": "crime",
    "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Modern night bus service begins between Jajarkot and Kathmandu",
-   "summary": "Six buses are operating on the route, with fares set at Rs3,500 against the government rate of Rs4,066.",
-   "link": "https://kathmandupost.com/national/2026/10/24/modern-night-bus-service-begins-between-jajarkot-and-kathmandu",
-   "source": "Kathmandu Post",
-   "ts": 1792795851.0667717,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Modern night bus service begins between Jajarkot and Kathmandu",
-   "en": "Modern night bus service begins between Jajarkot and Kathmandu",
-   "ne": "Modern night bus service begins between Jajarkot and Kathmandu",
-   "imp": 3,
-   "tags": [
-    "BusService",
-    "Jajarkot",
-    "Kathmandu"
-   ],
-   "cat": "society",
-   "val": 3,
    "teaser": false,
    "hits": 1
   },
@@ -2374,6 +2331,50 @@
     "TyphoonChampi",
     "Taiwan",
     "WorldNews"
+   ],
+   "cat": "world",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "पटाका बनाउने क्रममा भीषण विस्फोट, पाँच जनाको मृ*त्यु",
+   "summary": "घटनामा लापरबाही गरेको आरोपमा जामो बजार प्रहरी चौकीका प्रमुख र स्थानीय चौकीदार चन्द्रिका माझीलाई तत्काल लागू हुने गरी निलम्बन गरिएको छ।...",
+   "link": "https://nagariknews.nagariknetwork.com/international/five-killed-in-massive-explosion-while-making-firecrackers-95-44.html",
+   "source": "Nagarik News",
+   "ts": 1792810268,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2025/third-party/1792810226_bharat.jpg",
+   "lang": "ne",
+   "hl": "पटाका बनाउने क्रममा भीषण विस्फोट, पाँच जनाको मृ*त्यु",
+   "en": "पटाका बनाउने क्रममा भीषण विस्फोट, पाँच जनाको मृ*त्यु",
+   "ne": "पटाका बनाउने क्रममा भीषण विस्फोट, पाँच जनाको मृ*त्यु",
+   "imp": 4,
+   "tags": [
+    "FireworksExplosion",
+    "FiveDead"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Seven killed as gunmen open fire at church in Jordan in 'terrorist' attack, authorities say",
+   "summary": "Authorities blame extremists for the shooting during a funeral at a church in Karak, which also left 40 people wounded.",
+   "link": "https://kathmandupost.com/world/2026/10/24/seven-killed-as-gunmen-open-fire-at-church-in-jordan-in-terrorist-attack-authorities-say",
+   "source": "Kathmandu Post",
+   "ts": 1792797046.3566577,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "Seven killed as gunmen open fire at church in Jordan in 'terrorist' attack, authorities say",
+   "en": "Seven killed as gunmen open fire at church in Jordan in 'terrorist' attack, authorities say",
+   "ne": "Seven killed as gunmen open fire at church in Jordan in 'terrorist' attack, authorities say",
+   "imp": 1,
+   "tags": [
+    "Jordan",
+    "ChurchAttack"
    ],
    "cat": "world",
    "val": 3,
@@ -5296,9 +5297,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "disaster"
+  },
+  {
+   "ts": 1792811452.8428857,
+   "en": "Modern night bus service begins between Jajarkot and Kathmandu",
+   "ne": "Modern night bus service begins between Jajarkot and Kathmandu",
+   "link": "https://kathmandupost.com/national/2026/10/24/modern-night-bus-service-begins-between-jajarkot-and-kathmandu",
+   "source": "Kathmandu Post",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "society"
   }
  ],
- "updated": 1792810892,
+ "updated": 1792811465,
  "pending_since": 1792810888.7519703,
  "fb_blocks": [
   1790350880.4125228,
