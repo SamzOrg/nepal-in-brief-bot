@@ -1225,7 +1225,9 @@
   "http://lokaantar.com/story/331846/2026/10/24/can-": 1792854654.198589,
   "https://nagariknews.nagariknetwork.com/international/two-military-planes-crash-in-philippines-four-pilots-killed-66-92.html": 1792855254.9713676,
   "https://news.google.com/rss/articles/CBMikwFBVV95cUxNOThyOUlOWm5DYk1VSHU4Q2Y4VzdqWklSbzJBR2NJbm5Qb3lGaUhFdE85NWV5SHZ6VV9vbTU0cTdPaEI4ZVJBN2pDLUNkT19iRm5Qb3hRZmVlM3FtblJzRmRycTFjY3pXV3JoN0ZmZ0lhS3I2c1pva0RrQjkwVGIyZHhPc1VTNm1YUGFwaW9XM0lQbzg?oc=5": 1792855254.9713676,
-  "http://english.ratopati.com/story/84422/u-19-asia-cup-nepals-preliminary-squad-announced": 1792855254.9713676
+  "http://english.ratopati.com/story/84422/u-19-asia-cup-nepals-preliminary-squad-announced": 1792855254.9713676,
+  "https://english.khabarhub.com/2026/24/573024/": 1792855868.03501,
+  "https://kathmandupost.com/nepali-diaspora/2026/10/24/houthi-attacks-raise-safety-fears-among-nepali-workers-in-saudi-arabia": 1792855868.03501
  },
  "queue": [
   {
@@ -1273,29 +1275,6 @@
    "hits": 1
   },
   {
-   "title": "हिल्सामा पुल बन्यो, सञ्चालनमा आउन सकेन",
-   "summary": "राजन रावतहुम्ला, कात्तिक ७ गते । नेपाल र चीनको सिमाना हिल्सामा निर्माण कार्य पूरा भएको दुई देशबिचको मैत्रीपुलको उद्घाटन यस पटक नहुने भएको छ । पुल उद्घाटन गर्न चिनियाँ पक्ष तयार भए...",
-   "link": "https://gorkhapatraonline.com/news/227136",
-   "source": "Gorkhapatra",
-   "ts": 1792826771,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/388741/conversions/hilsa-pul-original.jpg",
-   "lang": "ne",
-   "hl": "हिल्सामा पुल बन्यो, सञ्चालनमा आउन सकेन",
-   "en": "हिल्सामा पुल बन्यो, सञ्चालनमा आउन सकेन",
-   "ne": "हिल्सामा पुल बन्यो, सञ्चालनमा आउन सकेन",
-   "imp": 3,
-   "tags": [
-    "Hilsa",
-    "Bridge",
-    "हिल्सा"
-   ],
-   "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "एनपीएल खेल्न काठमाडौं आइपुगे पाकिस्तानका कप्तान फरहान",
    "summary": "३० वर्षीय दायाँहाते ब्याटर फरहानले कर्णाली याक्सबाट एनपीएल खेल्दैछन्।",
    "link": "https://nagariknews.nagariknetwork.com/sports/pakistan-captain-farhan-arrives-in-kathmandu-to-play-in-npl-32-52.html",
@@ -1317,52 +1296,6 @@
    "val": 3,
    "teaser": false,
    "hits": 2
-  },
-  {
-   "title": "मुम्बई इन्डियन्सको मुख्य प्रशिक्षक बने केरोन पोलार्ड",
-   "summary": "इन्डियन प्रिमियर लिग (आईपीएल) को फ्रेन्चाइज टोली मुम्बई इन्डियन्सले केरोन पोलार्डलाई टोलीको नयाँ मुख्य प्रशिक्षक नियुक्त गरेको छ।...",
-   "link": "https://nagariknews.nagariknetwork.com/sports/kieron-pollard-appointed-as-new-head-coach-of-mumbai-indians-98-68.html",
-   "source": "Nagarik News",
-   "ts": 1792826981,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1792827024_ipl.jpg",
-   "lang": "ne",
-   "hl": "मुम्बई इन्डियन्सको मुख्य प्रशिक्षक बने केरोन पोलार्ड",
-   "en": "मुम्बई इन्डियन्सको मुख्य प्रशिक्षक बने केरोन पोलार्ड",
-   "ne": "मुम्बई इन्डियन्सको मुख्य प्रशिक्षक बने केरोन पोलार्ड",
-   "imp": 2,
-   "tags": [
-    "MumbaiIndians",
-    "IPL",
-    "KieronPollard"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "५७ वर्षमा ५८ सन्तान",
-   "summary": "कहिलेकाहीं उनी आफ्ना सबै छोराछोरीको नाम पनि सम्झन सक्दैनन्। तर उनी सुत्नुअघि हरेक रात सबै सन्तान घरमा उपस्थित छन् छैनन् भन्ने सुनिश्चित गर्छन्।...",
-   "link": "https://nagariknews.nagariknetwork.com/international/58-children-in-57-years-br-18-52.html",
-   "source": "Nagarik News",
-   "ts": 1792826544,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1792826950_vcu%20vcu%2098.jpg",
-   "lang": "ne",
-   "hl": "५७ वर्षमा ५८ सन्तान",
-   "en": "५७ वर्षमा ५८ सन्तान",
-   "ne": "५७ वर्षमा ५८ सन्तान",
-   "imp": 2,
-   "tags": [
-    "Society",
-    "World",
-    "विचित्र"
-   ],
-   "cat": "society",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
   },
   {
    "title": "Farmers busy with paddy harvesting",
@@ -3762,17 +3695,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1792250460.1222975,
-   "en": "सुक्खा पहिरो खस्न थालेपछि बेनी-दरबाङ सडक यातायात बन्द",
-   "ne": "सुक्खा पहिरो खस्न थालेपछि बेनी-दरबाङ सडक यातायात बन्द",
-   "link": "https://baahrakhari.com/detail/505232",
-   "source": "Baahrakhari",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "disaster"
-  },
   {
    "ts": 1792252260.5823112,
    "en": "Nepal and World Bank explore earthquake catastrophe bond for post-disaster funds",
@@ -6678,7 +6600,7 @@
    "cat": "sports"
   }
  ],
- "updated": 1792855258,
+ "updated": 1792855871,
  "pending_since": 1792854654.198589,
  "fb_blocks": [
   1790350880.4125228,
