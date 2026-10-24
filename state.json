@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNU0ZoNDRxTlZLTnpoa1JoWFVRdzZreEcwMGU4SDdaTXUyczk0RVgwMGQ1TlJZQTVBUjhYeDgzNFMyY2JhZjZiTmFhSXc1T3RuRVJtNTNIWlN4R2VFdy1XSENXMVdyZkJ4aEhHem1YMC1SWU5vbGFoRTJxbmR4ME5nYlo2T0dVZ1lodlprUjYzSUJheV8yenZUZ2stY1Iwb2RrcTl6aXB0MlZ3TzJtRFc0aWVVWERNWi04M0ZTMHdkNk1hZw?oc=5": 1792656654.3623135,
   "https://theannapurnaexpress.com/story/68141": 1792657260.1051207,
   "https://baahrakhari.com/detail/505462": 1792657260.1051207,
   "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWEttWHJQZUw5MWFxUVUyTEppUVhtRF9Hb0NJSlFRWUNTR1ZOSTdwWkhfdm55MndGcUpPWGN0eG8ycWZuV2hfYUpBLTEwZnlDZUVLRTd3T1pQVlV6QnhydFp3ZTREeTJnZXlfNWM1Y0gzUEVhOXYtdG56X0VBR2hmVzVENUpFNkJ5OEJVbGdMb2w5TWFHZUVlZW5TUUJKbXd6RjNZczVCNW1EdDZwdjE0SHJxUm1LWUJQUUE?oc=5": 1792657260.1051207,
@@ -1310,28 +1309,6 @@
    "hits": 1
   },
   {
-   "title": "Daily Horoscope for October 24, 2026",
-   "summary": "Bikram Sambat 2083 Kartik 7. Saturday. Gregorian calendar October 24, 2026. Nepal Sambat 1146. Raudra Samvatsar. Dakshinayan. Autumn season. Shrisake...",
-   "link": "http://english.ratopati.com/story/84369/how-was-your-day-today-check-your-horoscope",
-   "source": "Ratopati EN",
-   "ts": 1792801105,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/horoscope_vLkWHGsooW.webp",
-   "lang": "en",
-   "hl": "Daily Horoscope for October 24, 2026",
-   "en": "Daily Horoscope for October 24, 2026",
-   "ne": "Daily Horoscope for October 24, 2026",
-   "imp": 1,
-   "tags": [
-    "Horoscope",
-    "Astrology"
-   ],
-   "cat": "society",
-   "val": 1,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "महिला हराएको चाड",
    "summary": "आँखा टट्याए, उनीहरू अझै आइपुगेनन्। श्यामले पनि अब त मुखै खोलेर भन्यो, महिला हराएको चाड त साह्रै नरमाइलो अनि खोक्रो।...",
    "link": "https://nagariknews.nagariknetwork.com/arts/festival-of-the-missing-woman-br-57-75.html",
@@ -1352,29 +1329,6 @@
    "cat": "culture",
    "val": 1,
    "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "शिवपुरी पदयात्रामा देखिएको बाघ",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/505546",
-   "source": "Baahrakhari",
-   "ts": 1792801220,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "शिवपुरी पदयात्रामा देखिएको बाघ",
-   "en": "शिवपुरी पदयात्रामा देखिएको बाघ",
-   "ne": "शिवपुरी पदयात्रामा देखिएको बाघ",
-   "imp": 2,
-   "tags": [
-    "Shivapuri",
-    "Tiger",
-    "Hiking"
-   ],
-   "cat": "society",
-   "val": 2,
-   "teaser": false,
    "hits": 1
   },
   {
@@ -3908,17 +3862,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1792224658.2770975,
-   "en": "पत्रकार किशोर श्रेष्ठलाई घरबाट नियन्त्रणमा लिई साइबर ब्युरो लगियो",
-   "ne": "पत्रकार किशोर श्रेष्ठलाई घरबाट नियन्त्रणमा लिई साइबर ब्युरो लगियो",
-   "link": "https://www.setopati.com/social/401022",
-   "source": "Setopati",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "crime"
-  },
   {
    "ts": 1792226471.6745772,
    "en": "One killed, one injured in Kapilvastu motorcycle-truck collision",
@@ -6835,7 +6778,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1792829473,
+ "updated": 1792830050,
  "pending_since": 1792829452.824763,
  "fb_blocks": [
   1790350880.4125228,
