@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBnenZ3aXRNLURkVmJrN2hfdmRRYU5xcndMLUNFaUxkLVg2M2tpQVR0bzNmM0xjb3h3X1YtdFpXWVRWWnJSbk5wd29CUmFFenBINTltUUk3TE4wVGk4Rmc?oc=5": 1792659057.0106275,
-  "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQUozaUt2eTdDalVIUTRXdVd2WnZBdF9VcjJDaTltUEtxM0dkRk5Lbm85cGdBRU1VYm55Y2doWjA1UWdJU3pUVF9nOTNLb3RRMnJtNUN2d01MdFFNdWxkZ2o0QkNudXBfS0drZmtUYkljRmxwWGpkbkJlU2JJNGd1UzF0SjZZb0hKRTQ0UUt1UE5EaDh0a2hHdTdXeV9xVnhJZmtQdmZVVllEaWhXeUVvTUNMdXprT2Zs?oc=5": 1792659057.0106275,
   "https://www.setopati.com/social/401183": 1792659694.8338988,
   "https://baahrakhari.com/detail/505464": 1792659694.8338988,
   "https://nagariknews.nagariknetwork.com/health/death-toll-from-scrub-typhus-reaches-10-in-salyan-62-28.html": 1792659694.8338988,
@@ -1361,29 +1359,6 @@
    "hits": 1
   },
   {
-   "title": "विभागले भन्यो : चक्रवातको प्रभावले कात्तिक ११ देखि नेपालमा मौसम प्रभावित हुन सक्छ",
-   "summary": "बंगालको खाडीमा विकसित न्यून चापीय क्षेत्र चक्रवातमा परिणत हुने सम्भावना रहेकाले कात्तिक ११ देखि १५ गतेसम्म नेपालको मौसम प्रभावित हुन सक्ने देखिएको छ।...",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/the-department-said-the-impact-of-the-cyclone-may-affect-the-weather-in-nepal-from-kartik-11-28-59.html",
-   "source": "Nagarik News",
-   "ts": 1792803263,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1792806695_mausam.jpg",
-   "lang": "ne",
-   "hl": "विभागले भन्यो : चक्रवातको प्रभावले कात्तिक ११ देखि नेपालमा मौसम प्रभावित हुन सक्छ",
-   "en": "विभागले भन्यो : चक्रवातको प्रभावले कात्तिक ११ देखि नेपालमा मौसम प्रभावित हुन सक्छ",
-   "ne": "विभागले भन्यो : चक्रवातको प्रभावले कात्तिक ११ देखि नेपालमा मौसम प्रभावित हुन सक्छ",
-   "imp": 3,
-   "tags": [
-    "Weather",
-    "Cyclone",
-    "मौसम"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
    "title": "रुस र युक्रेनबीच युद्धग्रस्त सहरमा युद्धविराम, अर्को महिना शान्ति वार्ता",
    "summary": "रुस र युक्रेनले रुसी नियन्त्रणमा रहेको युक्रेनी सहर ओलेश्कीमा युद्धविराम गर्न सहमति गरेका छन् । अक्टोबर २७ देखि लागू हुने युद्धविरामले मानवीय सहायता पुर्‍याउन र सर्वसाधारणलाई सुरक्षित स्थानमा सार्न बाटो खुलाउनेछ...",
    "link": "http://lokaantar.com/story/331811/2026/10/24/rusia-ukraine-",
@@ -1405,29 +1380,6 @@
    "val": 3,
    "teaser": false,
    "hits": 3
-  },
-  {
-   "title": "Historic Kartik Dance to be Performed from November 12",
-   "summary": "Lalitpur. The historic Kartik Dance, to be performed at the Kartik Dabali of Patan Durbar in Lalitpur, will be showcased...",
-   "link": "http://english.ratopati.com/story/84373/this-years-kartik-naach-will-be-performed-from-27th",
-   "source": "Ratopati EN",
-   "ts": 1792803137,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/kartik-nach-(19)_oVS225rqRM.jpg",
-   "lang": "en",
-   "hl": "Historic Kartik Dance to be Performed from November 12",
-   "en": "Historic Kartik Dance to be Performed from November 12",
-   "ne": "Historic Kartik Dance to be Performed from November 12",
-   "imp": 2,
-   "tags": [
-    "KartikDance",
-    "Historic",
-    "Performance"
-   ],
-   "cat": "culture",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
   },
   {
    "title": "'लाहुरेको रेलिमाई' : विधातात्विक समीक्षात्मक अध्ययन",
@@ -6806,8 +6758,8 @@
    "cat": "society"
   }
  ],
- "updated": 1792831860,
- "pending_since": null,
+ "updated": 1792832493,
+ "pending_since": 1792832488.7738094,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
