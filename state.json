@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQb2FjUkdGM290QXUteHNkZDRlOFlpR1JBUEhqN21NNkN0amd0RXpaRGhwandjVHpnbkJtcmJ2RjJGamc3RFVFNGVUWEFIVWZjakJVbldNTXRHZUtwNk5veUNWNGNXRC1USXpxRFE4bko2NzRVZXZVVm9BUkxGLU9paUNJZHh0TUwxcXY4eTFmdXV5VHJMaHR6TEU2VXpHRVh6M0dtMW1LUkNNa0xOSkRIUU9DSDFFQWpndjNzbDdaU3A2SEV0SHpqSllZOTlmZW5TaEgxbjhUYmJLUGp1WEhfYlFwcFdqblpJSG1DTHY5a0FpSGJGdEp3OTdNSWdkTlk?oc=5": 1792674654.7493594,
-  "https://gorkhapatraonline.com/news/227107": 1792674654.7493594,
   "https://english.khabarhub.com/2026/22/572842/": 1792675255.2151582,
   "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMUpzeGdYU0RjWDFUcHNxdzB2MUlMb3poajlsWUI2QjE0YzFBVnNHb1FOa0doVWstVVl3a3lkMlNtekVtcXNIQm83eHljY2toVlJrdmtHbXlnMW1FMHVSa1BXYW1DNzlBanNwMWtEXzZYdVlCYzQwelR3d19yMWd1dzE1Tko0ZzJMWmx1NzN2N1UySjlOaEF1RW9HLWo2RE1kTXZvM1VQYw?oc=5": 1792675881.0793998,
   "https://baahrakhari.com/detail/505479": 1792675881.0793998,
@@ -1227,7 +1225,8 @@
   "https://gorkhapatraonline.com/news/227149": 1792846247.9808078,
   "https://nagariknews.nagariknetwork.com/social-affairs/three-vehicles-collide-in-jamune-tanahun-two-injured-36-55.html": 1792846247.9808078,
   "https://nagariknews.nagariknetwork.com/arts/clip-of-kabaddi-5-after-the-final-match-goes-viral-on-social-media-production-team-urges-not-to-do-so-62-77.html": 1792846247.9808078,
-  "http://lokaantar.com/story/331837/2026/10/24/rape-": 1792846888.411624
+  "http://lokaantar.com/story/331837/2026/10/24/rape-": 1792846888.411624,
+  "https://nagariknews.nagariknetwork.com/social-affairs/why-did-28-people-renounce-nepali-citizenship-24-43.html": 1792848052.0072947
  },
  "queue": [
   {
@@ -1300,28 +1299,6 @@
    "hits": 2
   },
   {
-   "title": "देवीको भाग !",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/505549",
-   "source": "Baahrakhari",
-   "ts": 1792818900,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "देवीको भाग !",
-   "en": "देवीको भाग !",
-   "ne": "देवीको भाग !",
-   "imp": 1,
-   "tags": [
-    "Dashain",
-    "Nepal"
-   ],
-   "cat": "culture",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
-  },
-  {
    "title": "सूर्यको व्यंग्य : पशुपतिनाथको पूजाले नपुगेपछि कैंचीदेवको आशीर्वाद लिइ डिप्रेसनबाट मुक्त हुन खोजेको हो ?",
    "summary": "नेकपा एमालेका नेता सूर्य थापाले राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का सभापति रवि लामिछानेप्रति व्यङ्ग्य गरेका छन्।...",
    "link": "https://nagariknews.nagariknetwork.com/politics/surya-s-satire-after-not-being-satisfied-with-the-worship-of-pashupatinath-did-you-seek-the-blessings-of-kainchidev-to-get-rid-of-depression-75-14.html",
@@ -1364,52 +1341,6 @@
    "val": 1,
    "teaser": true,
    "hits": 1
-  },
-  {
-   "title": "राप्ती प्रादेशिक अस्पतालमा सिटीस्क्यान बिग्रिएको दुई वर्ष भयो, मर्मत गरिएन",
-   "summary": "अस्पतालाई रेफर सेन्टर भनेर ब्याङ्ग्य गर्ने गरिन्छ', उनले भने, 'आइसियू नहुँदा यसरी बिरामी रेफर गर्नुपर्ने अवस्था छ।'...",
-   "link": "https://nagariknews.nagariknetwork.com/health/it-has-been-two-years-since-the-ct-scan-at-rapti-provincial-hospital-broke-down-and-has-not-been-repaired-67-50.html",
-   "source": "Nagarik News",
-   "ts": 1792818910,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1788918871_Rapti.jpg",
-   "lang": "ne",
-   "hl": "राप्ती प्रादेशिक अस्पतालमा सिटीस्क्यान बिग्रिएको दुई वर्ष भयो, मर्मत गरिएन",
-   "en": "राप्ती प्रादेशिक अस्पतालमा सिटीस्क्यान बिग्रिएको दुई वर्ष भयो, मर्मत गरिएन",
-   "ne": "राप्ती प्रादेशिक अस्पतालमा सिटीस्क्यान बिग्रिएको दुई वर्ष भयो, मर्मत गरिएन",
-   "imp": 3,
-   "tags": [
-    "RaptiHospital",
-    "CTScan",
-    "Dang"
-   ],
-   "cat": "health",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "मेलानिया ट्रम्पको पहलमा युक्रेनी सहरमा मानवीय सहायताका लागि युद्धविराम",
-   "summary": "ह्वाइट हाउसका अनुसार मेलानियाले गत सेप्टेम्बरमा संयुक्त राष्ट्रसंघको महासभाका क्रममा ओलेस्कीको अवस्थाबारे जानकारी पाएपछि यस विषयमा पहल थालेकी थिइन्।...",
-   "link": "https://nagariknews.nagariknetwork.com/international/melania-trump-initiates-ceasefire-for-humanitarian-aid-in-ukrainian-city-15-12.html",
-   "source": "Nagarik News",
-   "ts": 1792818835,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1792818823_Melania%20Trump%20brokers%20a%20ceasefire%20deal.jpg",
-   "lang": "ne",
-   "hl": "मेलानिया ट्रम्पको पहलमा युक्रेनी सहरमा मानवीय सहायताका लागि युद्धविराम",
-   "en": "मेलानिया ट्रम्पको पहलमा युक्रेनी सहरमा मानवीय सहायताका लागि युद्धविराम",
-   "ne": "मेलानिया ट्रम्पको पहलमा युक्रेनी सहरमा मानवीय सहायताका लागि युद्धविराम",
-   "imp": 2,
-   "tags": [
-    "MelaniaTrump",
-    "Ukraine",
-    "Ceasefire"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "सबभन्दा धेरै कमाउने टप-२० भारतीय फिल्ममा पर्‍यो 'जेलर-२', कति कमाइसक्यो?",
@@ -2985,7 +2916,7 @@
    "cat": "society",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "गोक्योको ढुंगामुनि लुकेको बरफ, ५२ करोड लिटर पानी बराबर भण्डार रहेको अनुमान",
@@ -6913,7 +6844,7 @@
    "cat": "crime"
   }
  ],
- "updated": 1792847472,
+ "updated": 1792848055,
  "pending_since": 1792846888.411624,
  "fb_blocks": [
   1790350880.4125228,
