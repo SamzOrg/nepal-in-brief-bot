@@ -1190,28 +1190,6 @@
  },
  "queue": [
   {
-   "title": "Dozens Dead in Ethiopia Clashes Between Somali and Oromia Forces",
-   "summary": "Kathmandu. Dozens of people have been killed in recent clashes between Somali and Oromia region forces and rebel fighters in...",
-   "link": "http://english.ratopati.com/story/84417/clashes-between-rival-regional-forces-in-ethiopia-several-casualties",
-   "source": "Ratopati EN",
-   "ts": 1792852609,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/ethopia_iIbICNFiLE.jpg",
-   "lang": "en",
-   "hl": "Dozens Dead in Ethiopia Clashes Between Somali and Oromia Forces",
-   "en": "Dozens Dead in Ethiopia Clashes Between Somali and Oromia Forces",
-   "ne": "Dozens Dead in Ethiopia Clashes Between Somali and Oromia Forces",
-   "imp": 1,
-   "tags": [
-    "Ethiopia",
-    "Clash"
-   ],
-   "cat": "world",
-   "val": 2,
-   "teaser": false,
-   "hits": 2
-  },
-  {
    "title": "US Intelligence Warns of Increased Iranian Threats Against Americans",
    "summary": "Washington DC. US National Intelligence Chief J. Clayton has warned that Iran has 'significantly increased' attempts to target Americans in...",
    "link": "http://english.ratopati.com/story/84421/iran-has-stepped-up-efforts-to-target-americans-us-intelligence-chief",
@@ -1228,52 +1206,6 @@
     "USIntelligence",
     "Iran",
     "USA"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "४६औँ नेपालभाषा साहित्य तःमुंज्या सम्पन्न",
-   "summary": "भक्तपुरको यातामा आयोजित ४६औँ नेपालभाषा साहित्य तःमुंज्या (बृहत् साहित्य सम्मेलन) शनिबार साँझ सम्पन्न भएको छ।...",
-   "link": "https://nagariknews.nagariknetwork.com/arts/46th-nepali-language-literature-conference-held-47-75.html",
-   "source": "Nagarik News",
-   "ts": 1792852367,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1792852327_859280832_4679675932303067_139406235922391815_n.jpg",
-   "lang": "ne",
-   "hl": "४६औँ नेपालभाषा साहित्य तःमुंज्या सम्पन्न",
-   "en": "४६औँ नेपालभाषा साहित्य तःमुंज्या सम्पन्न",
-   "ne": "४६औँ नेपालभाषा साहित्य तःमुंज्या सम्पन्न",
-   "imp": 2,
-   "tags": [
-    "Nepalbhasa",
-    "Literature",
-    "नेपालभाषा"
-   ],
-   "cat": "culture",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "अमेरिकाले चिनियाँ कन्फ्युसियस इन्स्टिच्युटमाथि रोक लगाउने",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/505589",
-   "source": "Baahrakhari",
-   "ts": 1792852560,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "अमेरिकाले चिनियाँ कन्फ्युसियस इन्स्टिच्युटमाथि रोक लगाउने",
-   "en": "अमेरिकाले चिनियाँ कन्फ्युसियस इन्स्टिच्युटमाथि रोक लगाउने",
-   "ne": "अमेरिकाले चिनियाँ कन्फ्युसियस इन्स्टिच्युटमाथि रोक लगाउने",
-   "imp": 1,
-   "tags": [
-    "USA",
-    "China",
-    "ConfuciusInstitute"
    ],
    "cat": "world",
    "val": 3,
@@ -4759,8 +4691,8 @@
    "cat": "health"
   }
  ],
- "updated": 1792881072,
- "pending_since": 1792880775.0833666,
+ "updated": 1792881650,
+ "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
