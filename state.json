@@ -1369,29 +1369,6 @@
    "hits": 3
   },
   {
-   "title": "19-Year-Old Nepali Man Without Hands Becomes Successful Barber",
-   "summary": "Butwal. One of the proverbs prevalent in Nepali society is - the mouth that eats is not blocked by a...",
-   "link": "http://english.ratopati.com/story/84390/dev-pariyar-did-a-charitartha-a-moustache-does-not-obstruct-the-mouth-that-eats",
-   "source": "Ratopati EN",
-   "ts": 1792810864,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/dev-final_PwQ6Wld0Nt.webp",
-   "lang": "en",
-   "hl": "19-Year-Old Nepali Man Without Hands Becomes Successful Barber",
-   "en": "19-Year-Old Nepali Man Without Hands Becomes Successful Barber",
-   "ne": "19-Year-Old Nepali Man Without Hands Becomes Successful Barber",
-   "imp": 2,
-   "tags": [
-    "Inspiration",
-    "Barber",
-    "Nepal"
-   ],
-   "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "घाइते भएको आठ महिनापछि ड्रोनबाट युक्रेनी सैनिकको उद्धार",
    "summary": "८ महिना देखि घाइते अवस्थामा रहेका ति सैनिकलाई युक्रेनले लामो समय देखि प्रयास गरेपनि उद्दार गर्न सकेको थिएन। घाइते भ्लासेन्को लुकेको ठाउँसम्म पुग्ने बाटामा बारुदी सुरुङ थिए। रुसी ड्रोनले निरन्तर निगरानी गरिरहेका थिए।...",
    "link": "https://www.setopati.com/social/401214",
@@ -1456,29 +1433,6 @@
     "Sports"
    ],
    "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "गोकुल बास्कोटाको आरोप : भारत पुग्नेबित्तिकै अर्थमन्त्री वाग्ले नेपाल राष्ट्रविरुद्ध बोल्छन्",
-   "summary": "नेकपा एमालेका नेता गोकुल बास्कोटाले अर्थमन्त्री स्वर्णिम वाग्लेको भारत भ्रमणलाई लिएर टिप्पणी गरेका छन्।...",
-   "link": "https://nagariknews.nagariknetwork.com/politics/gokul-baskota-s-allegation-finance-minister-wagle-speaks-against-the-nepali-nation-as-soon-as-he-reaches-india-58-79.html",
-   "source": "Nagarik News",
-   "ts": 1792810738,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1792810836_gokul%20wagle.jpg",
-   "lang": "ne",
-   "hl": "गोकुल बास्कोटाको आरोप : भारत पुग्नेबित्तिकै अर्थमन्त्री वाग्ले नेपाल राष्ट्रविरुद्ध बोल्छन्",
-   "en": "गोकुल बास्कोटाको आरोप : भारत पुग्नेबित्तिकै अर्थमन्त्री वाग्ले नेपाल राष्ट्रविरुद्ध बोल्छन्",
-   "ne": "गोकुल बास्कोटाको आरोप : भारत पुग्नेबित्तिकै अर्थमन्त्री वाग्ले नेपाल राष्ट्रविरुद्ध बोल्छन्",
-   "imp": 3,
-   "tags": [
-    "GokulBanskota",
-    "PrakashSharanWagle",
-    "Politics"
-   ],
-   "cat": "politics",
    "val": 3,
    "teaser": false,
    "hits": 2
@@ -6706,8 +6660,8 @@
    "cat": "health"
   }
  ],
- "updated": 1792839077,
- "pending_since": null,
+ "updated": 1792839689,
+ "pending_since": 1792839685.8933215,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
