@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTXpRVVhDSjRfNG40S1VDdFNfVWY0bC1WS2NaS1Atc0J3cDJGZDBTOTE0UE10eHExbDVOM2h3ckZyUVZGeS1tVDRRUlUyMGNJTW9DMXZ3VVk4MnhoZ2x2YUFYS2w2cnN6anRhdE9HMzZTbzJvd3lPVVRIZ3FyN0c2MnNPQnVNY2FsS2tsdXlRUEdGR0txdGx2Ym1qdVFMNlRnejViNk1CVDAzUTBRMWc?oc=5": 1792629649.6063323,
   "https://www.setopati.com/sports/cricket/401167": 1792630248.8319561,
   "https://baahrakhari.com/detail/505439": 1792630248.8319561,
   "https://nagariknews.nagariknetwork.com/economy/this-is-the-foreign-exchange-rate-today-66-84.html": 1792630248.8319561,
@@ -1167,7 +1166,10 @@
   "http://english.ratopati.com/story/84369/how-was-your-day-today-check-your-horoscope": 1792802446.589988,
   "https://www.setopati.com/social/401204": 1792802446.589988,
   "https://nagariknews.nagariknetwork.com/arts/festival-of-the-missing-woman-br-57-75.html": 1792802446.589988,
-  "https://baahrakhari.com/detail/505546": 1792802446.589988
+  "https://baahrakhari.com/detail/505546": 1792802446.589988,
+  "https://nagariknews.nagariknetwork.com/Aparadh/four-arrested-for-abusing-a-girl-and-a-young-man-25-47.html": 1792803045.9725714,
+  "http://english.ratopati.com/story/84372/pakistani-army-operation-in-balochistan-10-killed": 1792803045.9725714,
+  "http://lokaantar.com/story/331805/2026/10/24/gunmen-at-church-funeral-in-jordan-": 1792803045.9725714
  },
  "queue": [
   {
@@ -1491,20 +1493,56 @@
    "val": 2,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "10 Terrorists Killed in Balochistan Security Operation",
+   "summary": "Balochistan. The Pakistani army has stated that 10 terrorists were killed in an operation conducted by security forces in Pakistan's...",
+   "link": "http://english.ratopati.com/story/84372/pakistani-army-operation-in-balochistan-10-killed",
+   "source": "Ratopati EN",
+   "ts": 1792802966,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/buluchistan_KalvcBuWuR.webp",
+   "lang": "en",
+   "hl": "10 Terrorists Killed in Balochistan Security Operation",
+   "en": "10 Terrorists Killed in Balochistan Security Operation",
+   "ne": "10 Terrorists Killed in Balochistan Security Operation",
+   "imp": 1,
+   "tags": [
+    "Balochistan",
+    "SecurityOperation",
+    "Terrorism"
+   ],
+   "cat": "world",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "जोर्डनको चर्चमा अन्त्येष्टिका बेला गोली चल्यो: ७ जनाको मृत्यु, ३४ घाइते",
+   "summary": "मध्य जोर्डनको कराक राज्यस्थित ह्मौदमा रहेको एउटा चर्चमा अन्त्येष्टि प्रार्थना भइरहेका बेला अज्ञात बन्दुकधारीहरूले चलाएको गोली लागेर कम्तीमा ७ जनाको मृत्यु भएको छ। घटनामा अन्य ३४ जना गम्भीर घाइते भएका छन्।शुक्रबार पिकअप...",
+   "link": "http://lokaantar.com/story/331805/2026/10/24/gunmen-at-church-funeral-in-jordan-",
+   "source": "Lokaantar",
+   "ts": 1792788646.7714024,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "जोर्डनको चर्चमा अन्त्येष्टिका बेला गोली चल्यो: ७ जनाको मृत्यु, ३४ घाइते",
+   "en": "जोर्डनको चर्चमा अन्त्येष्टिका बेला गोली चल्यो: ७ जनाको मृत्यु, ३४ घाइते",
+   "ne": "जोर्डनको चर्चमा अन्त्येष्टिका बेला गोली चल्यो: ७ जनाको मृत्यु, ३४ घाइते",
+   "imp": 1,
+   "tags": [
+    "Jordan",
+    "Church",
+    "गोलीकाण्ड",
+    "ChurchShooting"
+   ],
+   "cat": "world",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1792197659.7111068,
-   "en": "क्यानडाविरुद्ध आज नेपाल, जित निकाले एक खेलअगावै शीर्ष ६ मा स्थान सुरक्षित गर्ने अवसर",
-   "ne": "क्यानडाविरुद्ध आज नेपाल, जित निकाले एक खेलअगावै शीर्ष ६ मा स्थान सुरक्षित गर्ने अवसर",
-   "link": "http://lokaantar.com/story/331472/2026/10/17/nepal-cricket-",
-   "source": "Lokaantar",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "sports"
-  },
   {
    "ts": 1792199456.0430772,
    "en": "बुढीगण्डकी र बागलुङका बाढीप्रभावित क्षेत्र तीन महिनाका लागि विपत् सङ्कटग्रस्त घोषणा",
@@ -4421,8 +4459,8 @@
    "cat": "health"
   }
  ],
- "updated": 1792802471,
- "pending_since": null,
+ "updated": 1792803050,
+ "pending_since": 1792803045.9725714,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
