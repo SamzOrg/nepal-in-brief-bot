@@ -1,8 +1,5 @@
 {
  "seen": {
-  "https://english.khabarhub.com/2026/22/572806/": 1792643472.4546268,
-  "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbURWMEF4R2pSWVJpUVpRN3ozZFJla0J5bDhxenpfWngxSFlzOXRPNFk5Wk9rZ2ppYkZYdUM4OHZJUGxqWTNSX2N0dDJqb2NmbjFkMDZOclh2a1RFeGV3aXF0NElXcXpjY3lhbFhlWEwzcWk1YzVZcDFpUkl5NDYzcW1hc2ZuMmtBR3g3WHRZWVIxTGtGODh2Vy1QNml2MTQwbzJqSW12V05Dc2NM?oc=5": 1792643472.4546268,
-  "https://baahrakhari.com/detail/505450": 1792643472.4546268,
   "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaS1QeXR0REN3RE4xQ1pVOWN6bEFxdXI2bzVDbnR1VkZ2VzNhU0tZUU1Ka05DV3o0aUc2dktzWlluREV6MllSN1hmSHB6cEF3NDlIVGJKdlowbk9LUkFoT2c3bm9IRnhEU1lnWDR5WjdneGJQRXEzaXJQeVhUX25zbGsxNnBLZkdBSXF5UE55cm1ULUNjTzdZeVVDYzBMaHFKWFJ3bkNCWjhKaFJwazRB?oc=5": 1792644049.489676,
   "https://nagariknews.nagariknetwork.com/international/another-attack-on-saudi-arabia-airport-leaves-one-dead-eight-injured-21-24.html": 1792644049.489676,
   "https://baahrakhari.com/detail/505451": 1792644652.3812573,
@@ -1189,7 +1186,8 @@
   "https://nagariknews.nagariknetwork.com/social-affairs/car-rally-to-spread-message-about-polio-vaccination-90-68.html": 1792816264.8394349,
   "https://gorkhapatraonline.com/news/227129": 1792816264.8394349,
   "https://nagariknews.nagariknetwork.com/international/70-000-security-personnel-deployed-to-prevent-violence-in-france-protests-continue-today-90-25.html": 1792816264.8394349,
-  "https://nagariknews.nagariknetwork.com/education/two-and-a-half-billion-for-teacher-training-learning-level-still-weak-br-64-31.html": 1792816264.8394349
+  "https://nagariknews.nagariknetwork.com/education/two-and-a-half-billion-for-teacher-training-learning-level-still-weak-br-64-31.html": 1792816264.8394349,
+  "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSDRqbHhuT1RNaVZiTkJkRFJLc3pDODFIaDg3UzFsVHlvUEVnZTNzdWNYM3NEeTZaTVdwcldsSHJEeTRTYnJRcTRPZGNFSjRadkM4QzcwUXVyc1QwX1VLOFFDd2xwVzdvVW9ocUxtdlNWSHhiSlgyQlo3aXZ1ejJFYmhkYUlmaElnMmlwS003eExQWjA2MDdtdjlFTzgyelR2OVZ4bjZyeE9hc0VnT2c?oc=5": 1792816845.9658556
  },
  "queue": [
   {
@@ -2066,29 +2064,6 @@
    "hits": 1
   },
   {
-   "title": "Pokhara Pharmacy Operator Arrested with Large Quantity of Banned Drugs",
-   "summary": "Kaski. Illegal drug trade has been found to be operating under the guise of a pharmacy in Pokhara. The illegal...",
-   "link": "http://english.ratopati.com/story/84387/drug-dealing-from-drug-store-operator-arrested",
-   "source": "Ratopati EN",
-   "ts": 1792810050,
-   "weight": 2,
-   "img": "https://rpcdn.ratopati.com/archived-media/medical-store.jpg",
-   "lang": "en",
-   "hl": "Pokhara Pharmacy Operator Arrested with Large Quantity of Banned Drugs",
-   "en": "Pokhara Pharmacy Operator Arrested with Large Quantity of Banned Drugs",
-   "ne": "Pokhara Pharmacy Operator Arrested with Large Quantity of Banned Drugs",
-   "imp": 3,
-   "tags": [
-    "Pokhara",
-    "DrugArrest",
-    "Pharmacy"
-   ],
-   "cat": "crime",
-   "val": 3,
-   "teaser": false,
-   "hits": 4
-  },
-  {
    "title": "घरभित्र पुरुष मृत फेला, श्रीमती घाइते",
    "summary": "अनिल पराजुलीहेटौँडा, कात्तिक ७ गते । हेटौँडा उपमहानगरपालिका-८, भावनामार्गस्थित घरमा एक पुरुष मृत अवस्थामा फेला परेका छन् । उहाँकी श्रीमती घाइते अवस्थामा भेटिएकी छन् । शुक्रबार स्था...",
    "link": "https://gorkhapatraonline.com/news/227127",
@@ -2131,7 +2106,7 @@
    "cat": "tech",
    "val": 2,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "जबरजस्ती करणीको आरोपमा एकजना पक्राउ",
@@ -5946,10 +5921,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "sports"
+  },
+  {
+   "ts": 1792816850.5741549,
+   "en": "Pokhara Pharmacy Operator Arrested with Large Quantity of Banned Drugs",
+   "ne": "Pokhara Pharmacy Operator Arrested with Large Quantity of Banned Drugs",
+   "link": "http://english.ratopati.com/story/84387/drug-dealing-from-drug-store-operator-arrested",
+   "source": "Ratopati EN",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "crime"
   }
  ],
- "updated": 1792816272,
- "pending_since": null,
+ "updated": 1792816861,
+ "pending_since": 1792816845.9658556,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
