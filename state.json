@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://theannapurnaexpress.com/story/68137": 1792651249.5817854,
   "https://news.google.com/rss/articles/CBMijwFBVV95cUxQd1UwMGQydm9xUV9VYUdOUVF6QTlOdEhBT3g3NUIwanMyd0dqTjBsOS1jaGxva3oyT1lCRFdLdzQyRmVmYm9BRWFhaFpzVTFNNk5LYVBEMkp0blp2NFhEWFlNay1uWngzTFFlNmNld3daV1pkdlNSVVZaemFqQVFUbmozMjZQZHdFeG90YzVhQQ?oc=5": 1792651852.6637266,
   "https://theannapurnaexpress.com/story/68138": 1792651852.6637266,
   "https://baahrakhari.com/detail/505454": 1792652491.0399964,
@@ -1190,33 +1189,12 @@
   "http://english.ratopati.com/story/84403/us-appeals-to-cuban-citizens-to-cooperate-with-cia-cuba-says-like-selling-toothpaste": 1792824048.3951728,
   "https://nagariknews.nagariknetwork.com/arts/gauthali-celebrates-100-days-another-success-selected-at-beijing-lift-off-film-festival-47-18.html": 1792824048.3951728,
   "http://english.ratopati.com/story/84402/vidyas-address-in-china-disputes-should-be-resolved-through-dialogue-and-diplomacy-not-weapons-full-text": 1792824048.3951728,
-  "https://nagariknews.nagariknetwork.com/arts/deepika-prepares-to-return-to-work-36-days-after-giving-birth-to-her-daughter-br-47-63.html": 1792824048.3951728
+  "https://nagariknews.nagariknetwork.com/arts/deepika-prepares-to-return-to-work-36-days-after-giving-birth-to-her-daughter-br-47-63.html": 1792824048.3951728,
+  "https://theannapurnaexpress.com/story/68176": 1792824646.4735327,
+  "https://kathmandupost.com/climate-environment/2026/10/24/bay-of-bengal-cyclone-could-bring-rain-snow-to-nepal-next-week": 1792824646.4735327,
+  "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYXhZUzl6UTV2NEhYZTZtNWF6ZlBCUDdpQWlxaGlVdjN6QzhKQTh4WHJOaTdVNERQQVN0amNkRkJCZklnRXZibFV1RG9wbmY2TmM3UnZGaXlfWGtfdHV5eDJQOVc4b0pvVUZ2bmpSdW5ORnU1ODVvby1LWFh3NFFaOU5Qc0FLZ0YweHFudC1xZHZTTGVKdUZDWUoyeVBBNlF3TGZTdnRDODZDNmNvWWI3Q2xJa3Y?oc=5": 1792824646.4735327
  },
  "queue": [
-  {
-   "title": "Nepal expresses condolences over Tibet earthquake, stands in solidarity with China",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdW9wX2xhSV9Ud2NOQzhtb3MtTEZ4cEVFS1JDTmlwNi1teFZEamtpeGlBQ0xCRmIyMTg5S2ZoODg4M3dSUHI4WUU4SkIwV1pRRUppYllqcnJkcW51eVliMzY0aGcxM3ZyRkJaN1FMMEhGcGJWV3BUYi1FeW5MeFUtazFtUllxX0ZuWHFra25rMGItQzBJWnFjbXNQX3F2RmhjRnpWaVVnMzVfLWNGby1mbE5WODg?oc=5",
-   "source": "Deshsanchar",
-   "ts": 1792795426,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Nepal expresses condolences over Tibet earthquake, stands in solidarity with China",
-   "en": "Nepal expresses condolences over Tibet earthquake, stands in solidarity with China",
-   "ne": "Nepal expresses condolences over Tibet earthquake, stands in solidarity with China",
-   "imp": 2,
-   "tags": [
-    "Nepal",
-    "Tibet",
-    "Earthquake",
-    "China"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
   {
    "title": "Weather Forecast: Partial Cloudiness in Himalayan and Hilly Regions, Fog in Terai",
    "summary": "Kathmandu. Currently, there is a partial influence of westerly winds in the country, the Department of Hydrology and Meteorology has...",
@@ -3379,20 +3357,32 @@
    "val": 3,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "Magnitude 7.2 quake off Vanuatu triggers tsunami warning",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYXhZUzl6UTV2NEhYZTZtNWF6ZlBCUDdpQWlxaGlVdjN6QzhKQTh4WHJOaTdVNERQQVN0amNkRkJCZklnRXZibFV1RG9wbmY2TmM3UnZGaXlfWGtfdHV5eDJQOVc4b0pvVUZ2bmpSdW5ORnU1ODVvby1LWFh3NFFaOU5Qc0FLZ0YweHFudC1xZHZTTGVKdUZDWUoyeVBBNlF3TGZTdnRDODZDNmNvWWI3Q2xJa3Y?oc=5",
+   "source": "myRepublica",
+   "ts": 1792819595,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "Magnitude 7.2 quake off Vanuatu triggers tsunami warning",
+   "en": "Magnitude 7.2 quake off Vanuatu triggers tsunami warning",
+   "ne": "Magnitude 7.2 quake off Vanuatu triggers tsunami warning",
+   "imp": 1,
+   "tags": [
+    "Vanuatu",
+    "Earthquake",
+    "Tsunami"
+   ],
+   "cat": "world",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1792219257.821956,
-   "en": "Seven former NSL clubs form new Nepal Football League starting Feb 13",
-   "ne": "Seven former NSL clubs form new Nepal Football League starting Feb 13",
-   "link": "https://kathmandupost.com/sports/2026/10/17/teams-ditch-nsl-banner-to-form-new-nepal-football-league",
-   "source": "The Kathmandu Post",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "sports"
-  },
   {
    "ts": 1792220490.897813,
    "en": "भोटेकोशी बाढीबाट ३,६१० परिवारको ५०७ हेक्टर जमिनमा क्षति",
@@ -6320,8 +6310,8 @@
    "cat": "sports"
   }
  ],
- "updated": 1792824080,
- "pending_since": null,
+ "updated": 1792824650,
+ "pending_since": 1792824646.4735327,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
