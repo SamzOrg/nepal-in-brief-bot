@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZThYcjlfYm9DeEZER0dfZEplbE5Ha1d3OWdLakk3REQtXzd2N2JCVmxPUm9nTTZFLTNYSVVQbE9yemRQUTN4ZmsyRjF0R1BjU0duVVlKTGg5aGRmQ2I2aU1xbTZxNTRhR1pjbHZZaG45RFBNMzEzNDhaNkE4VG1HcDhON0RidlBTYXBCSEhBRjMwMWpBVEk0bDNDZHBFYXEzTXNDNWFpUkpvWUFQQjFoMVp2bTVQd0NkSXo2TFVUOXg?oc=5": 1792632670.12593,
   "https://english.khabarhub.com/2026/22/572794/": 1792633251.26545,
   "https://nagariknews.nagariknetwork.com/sports/npl-recognized-as-list-a-t20-br-77-99.html": 1792633251.26545,
   "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVVRMeVFTMWczR091V1otLTR6MGFpMl9pZEsyT0RSVFVIQlBtS0RMQkpLWmpVdlN6SFp3UVZCenl5SFRjUW5BMmVjVElheWFULWpyUGxMRUVtdUhhS0tJVmh5TGI3LUdQRVNucnpLSWp2dWZfLUVzYV9LZDNYODBIdzBkOWFjV0VsWUtlWUlEMGRrNWFQejBMVHNCaGlId1JZY1RTS2xwRGpuYVVMREVlMVVaaHVkc0xsMUE?oc=5": 1792633251.26545,
@@ -1176,7 +1175,8 @@
   "http://lokaantar.com/story/331808/2026/10/24/forex-": 1792805467.807092,
   "http://english.ratopati.com/story/84376/russia-and-ukraine-agree-to-ceasefire-in-conflict-torn-city-and-hold-peace-talks-next-month": 1792805467.807092,
   "http://lokaantar.com/story/331807/2026/10/24/weather-": 1792805467.807092,
-  "http://english.ratopati.com/story/84373/this-years-kartik-naach-will-be-performed-from-27th": 1792805467.807092
+  "http://english.ratopati.com/story/84373/this-years-kartik-naach-will-be-performed-from-27th": 1792805467.807092,
+  "https://nagariknews.nagariknetwork.com/economy/it-is-estimated-that-it-will-cost-90-million-to-reconstruct-the-beni-darwang-muna-road-11-62.html": 1792806046.156609
  },
  "queue": [
   {
@@ -1547,7 +1547,7 @@
    "cat": "infrastructure",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "US to Remove Tariffs on Some Canadian Goods Ahead of Midterm Elections",
@@ -1613,29 +1613,6 @@
     "Ceasefire"
    ],
    "cat": "politics",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Shamim Hossain joins Lumbini Lions for Nepal Premier League season three",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcnc5a3UxOEhmbXdxaGJxeXJQd1JxM252NzYyUHNwNHozaF94bS1YX3BqV1l5NE5Wd3EwOC1HSXV6TnRiam14RXlOQ280czkwb09wOEpLLUFPdjNJM19DVXdJQlBIeWZoN1lhUUNCcUgyd3VQUWZCNVVuSFNrMXNQTHR1R3BKa0lXR3d2c1k0YzJCUk82R28tWF9GS29mOWo5WmF1UUNSZWE?oc=5",
-   "source": "Deshsanchar",
-   "ts": 1792793866,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Shamim Hossain joins Lumbini Lions for Nepal Premier League season three",
-   "en": "Shamim Hossain joins Lumbini Lions for Nepal Premier League season three",
-   "ne": "Shamim Hossain joins Lumbini Lions for Nepal Premier League season three",
-   "imp": 3,
-   "tags": [
-    "ShamimHossain",
-    "LumbiniLions",
-    "NPL"
-   ],
-   "cat": "sports",
    "val": 2,
    "teaser": false,
    "hits": 1
@@ -4717,10 +4694,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "disaster"
+  },
+  {
+   "ts": 1792806053.1357963,
+   "en": "Shamim Hossain Joins Lumbini Lions For Nepal Premier League Season Three",
+   "ne": "Shamim Hossain Joins Lumbini Lions For Nepal Premier League Season Three",
+   "link": "https://english.deshsanchar.com/shamim-hossain-joins-lumbini-lions-for-nepal-premier-league-season-three/",
+   "source": "Deshsanchar",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "sports"
   }
  ],
- "updated": 1792805478,
- "pending_since": null,
+ "updated": 1792806063,
+ "pending_since": 1792806046.156609,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
