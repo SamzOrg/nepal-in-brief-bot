@@ -1188,52 +1188,6 @@
  },
  "queue": [
   {
-   "title": "Aston Villa Ends Manchester City's Winning Streak",
-   "summary": "Kathmandu. In the English Premier League, Aston Villa has ended Manchester City's seven-game winning streak with a 100% win record....",
-   "link": "http://english.ratopati.com/story/84424/nicholas-jackson-scores-twice-as-manchester-city-defeats",
-   "source": "Ratopati EN",
-   "ts": 1792856405,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/05248930-cfa5-11f1-a701-fddedf244c16jpg_65kdRkSz1c.webp",
-   "lang": "en",
-   "hl": "Aston Villa Ends Manchester City's Winning Streak",
-   "en": "Aston Villa Ends Manchester City's Winning Streak",
-   "ne": "Aston Villa Ends Manchester City's Winning Streak",
-   "imp": 1,
-   "tags": [
-    "AstonVilla",
-    "ManCity",
-    "PremierLeague"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "पाटनको मूल चोकमा जीवित देवी यल कुमारीबाट सर्वसाधारणलाई टीका प्रदान",
-   "summary": "ललितपुरको ऐतिहासिक पाटन दरबारको मूल चोकमा जीवित देवी यल कुमारीबाट सर्वसाधारणलाई टीका र जमारा प्रदान गरिएको छ ।...",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/living-goddess-yal-kumari-offers-tika-to-the-public-at-patan-s-main-square-47-22.html",
-   "source": "Nagarik News",
-   "ts": 1792856020,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1745480463_Patan%20Durbar%20Square%2003.jpg",
-   "lang": "ne",
-   "hl": "पाटनको मूल चोकमा जीवित देवी यल कुमारीबाट सर्वसाधारणलाई टीका प्रदान",
-   "en": "पाटनको मूल चोकमा जीवित देवी यल कुमारीबाट सर्वसाधारणलाई टीका प्रदान",
-   "ne": "पाटनको मूल चोकमा जीवित देवी यल कुमारीबाट सर्वसाधारणलाई टीका प्रदान",
-   "imp": 2,
-   "tags": [
-    "YalKumari",
-    "Patna",
-    "Vaccination"
-   ],
-   "cat": "culture",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Arsenal Defeats Everton 2-0, Equals Manchester City on Points",
    "summary": "Kathmandu. In the English Premier League, Arsenal has defeated Everton by 2-0 goals, equaling the points of top-placed Manchester City....",
    "link": "http://english.ratopati.com/story/84426/arsenal-beat-everton-2-0-level-on-points-with-city",
@@ -4394,8 +4348,8 @@
    "cat": "politics"
   }
  ],
- "updated": 1792884697,
- "pending_since": 1792884675.352541,
+ "updated": 1792885251,
+ "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
