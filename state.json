@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://english.khabarhub.com/2026/22/572842/": 1792675255.2151582,
   "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMUpzeGdYU0RjWDFUcHNxdzB2MUlMb3poajlsWUI2QjE0YzFBVnNHb1FOa0doVWstVVl3a3lkMlNtekVtcXNIQm83eHljY2toVlJrdmtHbXlnMW1FMHVSa1BXYW1DNzlBanNwMWtEXzZYdVlCYzQwelR3d19yMWd1dzE1Tko0ZzJMWmx1NzN2N1UySjlOaEF1RW9HLWo2RE1kTXZvM1VQYw?oc=5": 1792675881.0793998,
   "https://baahrakhari.com/detail/505479": 1792675881.0793998,
   "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1PSl9ESU0wc2N4NUFMeE5xMVRWOXZCaEQ1ei16OGstNUZWQzlJT1dKV3Bhb2tnZlhHTUQyRl8wMXd5WVJfWTdnRGlUaFF5aDNqdkkzWU13TTI?oc=5": 1792675881.0793998,
@@ -1226,7 +1225,8 @@
   "https://nagariknews.nagariknetwork.com/social-affairs/three-vehicles-collide-in-jamune-tanahun-two-injured-36-55.html": 1792846247.9808078,
   "https://nagariknews.nagariknetwork.com/arts/clip-of-kabaddi-5-after-the-final-match-goes-viral-on-social-media-production-team-urges-not-to-do-so-62-77.html": 1792846247.9808078,
   "http://lokaantar.com/story/331837/2026/10/24/rape-": 1792846888.411624,
-  "https://nagariknews.nagariknetwork.com/social-affairs/why-did-28-people-renounce-nepali-citizenship-24-43.html": 1792848052.0072947
+  "https://nagariknews.nagariknetwork.com/social-affairs/why-did-28-people-renounce-nepali-citizenship-24-43.html": 1792848052.0072947,
+  "https://english.khabarhub.com/2026/24/573015/": 1792848671.0692837
  },
  "queue": [
   {
@@ -1274,29 +1274,6 @@
    "val": 3,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "Auto Rickshaws Improve Transportation in Banke's Remote Areas",
-   "summary": "Banke. Auto rickshaws have started operating in the rural areas of Rapti Sonari and Narainapur rural municipalities, considered remote areas...",
-   "link": "http://english.ratopati.com/story/84400/locals-transportation-becomes-easier-after-auto-rickshaws-come-into-operation",
-   "source": "Ratopati EN",
-   "ts": 1792819659,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/reksha_rwqX8r5lvs.jpg",
-   "lang": "en",
-   "hl": "Auto Rickshaws Improve Transportation in Banke's Remote Areas",
-   "en": "Auto Rickshaws Improve Transportation in Banke's Remote Areas",
-   "ne": "Auto Rickshaws Improve Transportation in Banke's Remote Areas",
-   "imp": 2,
-   "tags": [
-    "AutoRickshaw",
-    "Banke",
-    "Transportation"
-   ],
-   "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "सूर्यको व्यंग्य : पशुपतिनाथको पूजाले नपुगेपछि कैंचीदेवको आशीर्वाद लिइ डिप्रेसनबाट मुक्त हुन खोजेको हो ?",
@@ -1523,29 +1500,6 @@
     "DeepikaPadukone",
     "Bollywood",
     "Entertainment"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Magnitude 7.2 quake off Vanuatu triggers tsunami warning",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYXhZUzl6UTV2NEhYZTZtNWF6ZlBCUDdpQWlxaGlVdjN6QzhKQTh4WHJOaTdVNERQQVN0amNkRkJCZklnRXZibFV1RG9wbmY2TmM3UnZGaXlfWGtfdHV5eDJQOVc4b0pvVUZ2bmpSdW5ORnU1ODVvby1LWFh3NFFaOU5Qc0FLZ0YweHFudC1xZHZTTGVKdUZDWUoyeVBBNlF3TGZTdnRDODZDNmNvWWI3Q2xJa3Y?oc=5",
-   "source": "myRepublica",
-   "ts": 1792819595,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Magnitude 7.2 quake off Vanuatu triggers tsunami warning",
-   "en": "Magnitude 7.2 quake off Vanuatu triggers tsunami warning",
-   "ne": "Magnitude 7.2 quake off Vanuatu triggers tsunami warning",
-   "imp": 1,
-   "tags": [
-    "Vanuatu",
-    "Earthquake",
-    "Tsunami"
    ],
    "cat": "world",
    "val": 3,
@@ -3928,17 +3882,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1792243254.7737412,
-   "en": "मतदाता नामावली अद्यावधिक: गत प्रतिनिधिसभा निर्वाचनपछि एक लाख ८७ हजार ६८६ मतदाता थपिए",
-   "ne": "मतदाता नामावली अद्यावधिक: गत प्रतिनिधिसभा निर्वाचनपछि एक लाख ८७ हजार ६८६ मतदाता थपिए",
-   "link": "https://baahrakhari.com/detail/505204",
-   "source": "Baahrakhari",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "politics"
-  },
   {
    "ts": 1792245056.9988792,
    "en": "आईसीसी लिग-२: क्यानडासँग २४ रनले पराजित हुँदै नेपाल सातौं स्थानमा झर्यो",
@@ -6844,7 +6787,7 @@
    "cat": "crime"
   }
  ],
- "updated": 1792848055,
+ "updated": 1792848674,
  "pending_since": 1792846888.411624,
  "fb_blocks": [
   1790350880.4125228,
