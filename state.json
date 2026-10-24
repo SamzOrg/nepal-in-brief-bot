@@ -1,9 +1,5 @@
 {
  "seen": {
-  "https://gorkhapatraonline.com/news/227100": 1792668675.3892927,
-  "https://www.setopati.com/literature/401179": 1792668675.3892927,
-  "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQnlWNGgzU2lRVVZTay1mRzM3MndTbkZnVDlXUnhYQmxSTWNOQUNvREVXRHhIcnZJUzVKbjJfcEx6SGdzck9FeU1xQzEzOUJqaktWRUtReHM3VjZNRUJoZ0ZPS3hZekhxZVlieHFIN1FMZVAzeXpjYW1seXJOa1U2UER0V1lMLWJCX2hMS3hTT1pJWGk3M1BVUzdPWnNPQ3hqd3hEMmNzME1fSzlSSERLZnRaODZFM25NS1NpUVREdEstSDZSanc?oc=5": 1792668675.3892927,
-  "https://theannapurnaexpress.com/story/68148": 1792668675.3892927,
   "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0tZkVsVl9COHc4cTlwTmRmcGpDS3QzREhtamFZQ05EaHdNSm1sTnZvMzZSYXhrcW50R3lldkE5UzhneEpkY2tidGlVMy1PQll5V3ZWUDBWQ0Y?oc=5": 1792669257.9841726,
   "https://english.khabarhub.com/2026/22/572838/": 1792669257.9841726,
   "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOFFueU8zTV9DbmtFZGZQajR2NFN0NG15eWZCb0pQdElRQlZRWWlDY1d5WGlXUGNXYzRPaE5LUjloUVZVNUJueFZoWEZ5a2hTZDJRS1FMSUVYaHBMU3FBUHg0WGY0OHRKQlltc3hUeXpSa2xFeDVaRFdfeE1EQkY0ejRidmx3THlYNmQ1bDd0QWpMSUlMSWpGcENyNmg5N3dRMVpkRTlvN0FYSk1JY05qM2hyN1FBbEk?oc=5": 1792669257.9841726,
@@ -2239,29 +2235,6 @@
    "hits": 2
   },
   {
-   "title": "North Korea's Kim Jong Un visits China via Dandong bridge, Yonhap says",
-   "summary": "North Korean leader Kim Jong Un has &zwnj;arrived in Dandong, China, on a visit to the neighbouring country via a newly opened bridge, South Korea's Yonhap news agency reported on Saturday, citing a South Korea...",
-   "link": "https://theannapurnaexpress.com/story/68177",
-   "source": "Annapurna Express",
-   "ts": 1792812057.9423482,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "North Korea's Kim Jong Un visits China via Dandong bridge, Yonhap says",
-   "en": "North Korea's Kim Jong Un visits China via Dandong bridge, Yonhap says",
-   "ne": "North Korea's Kim Jong Un visits China via Dandong bridge, Yonhap says",
-   "imp": 1,
-   "tags": [
-    "KimJongUn",
-    "NorthKorea",
-    "China"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
    "title": "Former President urges global community to seriously take climate justice",
    "summary": "Kathmandu, Oct 24: Former President Bidya Devi Bhandari said the unprecedented natural disasters Nepal has experienced t...",
    "link": "https://risingnepaldaily.com/news/87979",
@@ -3585,17 +3558,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1792236054.652306,
-   "en": "काठमाडौंको माछापोखरीमा मध्यराति झगडा हुँदा एकजनाको मृत्यु",
-   "ne": "काठमाडौंको माछापोखरीमा मध्यराति झगडा हुँदा एकजनाको मृत्यु",
-   "link": "https://baahrakhari.com/detail/505219",
-   "source": "Baahrakhari",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "crime"
-  },
   {
    "ts": 1792237854.7920728,
    "en": "Nepalis Return Home from India for Dashain Festival",
@@ -6501,7 +6463,7 @@
    "cat": "sports"
   }
  ],
- "updated": 1792840854,
+ "updated": 1792841480,
  "pending_since": 1792839685.8933215,
  "fb_blocks": [
   1790350880.4125228,
