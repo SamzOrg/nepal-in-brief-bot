@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMiS0FVX3lxTE52ekVVQXR6b0lqTDNfenRuNFFacnpDMDBFUzE2NHhCRnViMlRVN211M2JmQXprQ0Nqa1ppTW1JZnZDbU52NGIxNXRBWQ?oc=5": 1792709448.813927,
   "https://baahrakhari.com/detail/505485": 1792713046.1925144,
   "http://lokaantar.com/story/331750/2026/10/22/tan-": 1792713487.1736515,
   "https://baahrakhari.com/detail/505486": 1792713487.1736515,
@@ -1188,29 +1187,6 @@
  },
  "queue": [
   {
-   "title": "US Intelligence Warns of Increased Iranian Threats Against Americans",
-   "summary": "Washington DC. US National Intelligence Chief J. Clayton has warned that Iran has 'significantly increased' attempts to target Americans in...",
-   "link": "http://english.ratopati.com/story/84421/iran-has-stepped-up-efforts-to-target-americans-us-intelligence-chief",
-   "source": "Ratopati EN",
-   "ts": 1792853919,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/capture1_yXkc4NgRg9.webp",
-   "lang": "en",
-   "hl": "US Intelligence Warns of Increased Iranian Threats Against Americans",
-   "en": "US Intelligence Warns of Increased Iranian Threats Against Americans",
-   "ne": "US Intelligence Warns of Increased Iranian Threats Against Americans",
-   "imp": 1,
-   "tags": [
-    "USIntelligence",
-    "Iran",
-    "USA"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Aston Villa Ends Manchester City's Winning Streak",
    "summary": "Kathmandu. In the English Premier League, Aston Villa has ended Manchester City's seven-game winning streak with a 100% win record....",
    "link": "http://english.ratopati.com/story/84424/nicholas-jackson-scores-twice-as-manchester-city-defeats",
@@ -1366,29 +1342,6 @@
    "val": 2,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "इरानबाट अमेरिकी नागरिकमाथि खतरा बढेको अमेरिकी गुप्तचर प्रमुखको चेतावनी",
-   "summary": "इरानले मध्यपूर्वसहित अन्य देशमा रहेका अमेरिकी नागरिक र अधिकारीलाई निसाना बनाउने प्रयास तीव्र पारेको अमेरिकी राष्ट्रिय गुप्तचर प्रमुख जे क्लेटनले चेतावनी दिएका छन्।...",
-   "link": "https://nagariknews.nagariknetwork.com/international/us-intelligence-chief-warns-of-growing-threat-to-us-citizens-from-iran-17-30.html",
-   "source": "Nagarik News",
-   "ts": 1792853585,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1792853575_Whitehouse.jpg",
-   "lang": "ne",
-   "hl": "इरानबाट अमेरिकी नागरिकमाथि खतरा बढेको अमेरिकी गुप्तचर प्रमुखको चेतावनी",
-   "en": "इरानबाट अमेरिकी नागरिकमाथि खतरा बढेको अमेरिकी गुप्तचर प्रमुखको चेतावनी",
-   "ne": "इरानबाट अमेरिकी नागरिकमाथि खतरा बढेको अमेरिकी गुप्तचर प्रमुखको चेतावनी",
-   "imp": 2,
-   "tags": [
-    "Iran",
-    "USCitizens",
-    "Intelligence"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "Arsenal Defeats Everton 2-0, Equals Manchester City on Points",
@@ -1715,17 +1668,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1792277453.3556354,
-   "en": "Nepal Premier League to enforce stricter player eligibility rules and mandatory NOCs for foreigners",
-   "ne": "Nepal Premier League to enforce stricter player eligibility rules and mandatory NOCs for foreigners",
-   "link": "https://myrepublica.nagariknetwork.com/news/npl-to-enforce-stricter-criteria-for-players-eligibility-noc-mandatory-for--84-33.html",
-   "source": "myRepublica",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "sports"
-  },
   {
    "ts": 1792279252.7197323,
    "en": "Nepal PM and President extend Vijaya Dashmi greetings, stressing unity",
@@ -4631,7 +4573,7 @@
    "cat": "sports"
   }
  ],
- "updated": 1792882279,
+ "updated": 1792882890,
  "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
