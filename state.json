@@ -1169,7 +1169,8 @@
   "https://news.google.com/rss/articles/CBMiywFBVV95cUxQeTFyNjg2SVMweU9WV2ZVSHVNUjVnTHBfU0tuWHA0emNLT3hJYU9WcE05MFhTdW1qdWM5dllGMzYtdlk5aE9halVPU3gtdXBEajVhOUh0SkhTdWcxLWdKLVVQN2IxeUstWFhiUUt4T0xkbmFDZllXNzdVbG5BNkFhUWlSTWhmbVUtYTNfS3pZTXU2aFF0U3A5NUVIb3VQMU9CamlJRWowQWFBNl9kME05Sm84V3JaaFFDLVhQQnBjWTU3cGRucUtJaXdfVQ?oc=5": 1792819868.1197217,
   "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNGVLWW9qTlVQemxGazJhUmJWNDNOUTAybHo4MGd5MW5jSXBKU3M1NGZxQlRid0F0LVcyWVk2VmJhZ2pjX2VfamhUOEo0UDFkTktmUjM0dExzcWwyN2ZFMFFlQXBQNzRrMlluZVNKRXlJUEJudVppbURTU0g5ZmZfZEd4eFZ5Q25HR2hVVWthS0NyRDFHdmRqNGotQWVLT0NsY3VQVGZ1elZCOWRiamRFbzM0bFMyaVQwNWotMDU2Zw?oc=5": 1792819868.1197217,
   "https://theannapurnaexpress.com/story/68174": 1792819868.1197217,
-  "https://nagariknews.nagariknetwork.com/politics/youth-will-not-be-left-jobless-if-a-government-with-a-culture-of-labor-comes-to-power-hark-sampang-83-92.html": 1792820453.0162597
+  "https://nagariknews.nagariknetwork.com/politics/youth-will-not-be-left-jobless-if-a-government-with-a-culture-of-labor-comes-to-power-hark-sampang-83-92.html": 1792820453.0162597,
+  "https://nagariknews.nagariknetwork.com/international/powerful-earthquake-hits-near-vanuatu-84-32.html": 1792821046.4114687
  },
  "queue": [
   {
@@ -2987,20 +2988,32 @@
    "val": 3,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "भानुआटु नजिक शक्तिशाली भूकम्प",
+   "summary": "संयुक्त राज्य भूगर्भ सर्वेक्षण (यूएसजीएस) का अनुसार भूकम्पको केन्द्रबिन्दु भानुआटुको सोला सहरबाट करिब २०० किलोमिटर पश्चिममा समुद्रको सतहबाट १० किलोमिटर गहिराइमा थियो।...",
+   "link": "https://nagariknews.nagariknetwork.com/international/powerful-earthquake-hits-near-vanuatu-84-32.html",
+   "source": "Nagarik News",
+   "ts": 1792820181,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2026/third-party/1792820157_Vanuatu.jpg",
+   "lang": "ne",
+   "hl": "भानुआटु नजिक शक्तिशाली भूकम्प",
+   "en": "भानुआटु नजिक शक्तिशाली भूकम्प",
+   "ne": "भानुआटु नजिक शक्तिशाली भूकम्प",
+   "imp": 1,
+   "tags": [
+    "Vanuatu",
+    "Earthquake",
+    "भूकम्प"
+   ],
+   "cat": "disaster",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1792215655.8100007,
-   "en": "फूलपातीको बिहान पृथ्वी राजमार्गमा सवारीको चाप कम, नागढुंगा-नौबिसे खण्ड खाली",
-   "ne": "फूलपातीको बिहान पृथ्वी राजमार्गमा सवारीको चाप कम, नागढुंगा-नौबिसे खण्ड खाली",
-   "link": "https://www.setopati.com/social/401018",
-   "source": "Setopati",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "society"
-  },
   {
    "ts": 1792217456.4040978,
    "en": "बेनीमा मनसुनजन्य विपदबाट २४२ घरमा क्षति, दुईजनाको मृत्यु",
@@ -5917,7 +5930,7 @@
    "cat": "politics"
   }
  ],
- "updated": 1792820472,
+ "updated": 1792821051,
  "pending_since": 1792819250.2504873,
  "fb_blocks": [
   1790350880.4125228,
