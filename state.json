@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMiUEFVX3lxTE04emF4a1g4UTVobE1jSVZ5SXZ6RjdjajVTdHVycUlXdmRkN05abjdpT1FaRWtramdaNjlibXZiWWRsX09Bcnc3Sm91YV9vLVpj?oc=5": 1792679476.0536628,
   "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbnNJM3RtdlNoRlN5ajVReFVFMThNaUdXUEkwZm1SeEVXMEZyWS0yYzA5amxtWDV6SW5pYUdWZ01CQ3VCdE9IajRSeVlTemwtVkl3eFE5VjJON1hxemlRX0xfU29XbzA5TXNWMjJhRVhqWlk5QW4tQXpheUVNcTZIbVVPZTdJMkJJV0lBZHdNalFROHZPR3hHU0J6dWhDbEYwa2hQc2NyQ1RwSDFj?oc=5": 1792680051.1304884,
   "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWTFSRjRxSG9QM2R1UXFuRXRvZ3h5aTB3TzB6Z09ySmFmRUoyQ1FLbUhBX2tQVFJSX3pzR2FZTmlZV2xmZEl6YktRTnVURGZydGx2eU9TUFI3dWVzOTlxdWlyQVIwMmEyVV9DUDVqNUpKQWVRV0tseEswejUxYVBZUWtvOGlaTko0UGhHZDJzM0NtcVFrcDNUNWt2VWVNMUxFSU5TMEMyUUg4V0M5Z2g4VGltck1XVnNnTXRWeklEVHVwLTZoVzNaa2RaZlk3cHItempKVDNabw?oc=5": 1792680051.1304884,
   "http://english.ratopati.com/story/84299/bhotekoshi-flood-decision-to-provide-rs-3-billion-assistance-to-nepal-from-the-loss-and-damage-fund": 1792680051.1304884,
@@ -1219,7 +1218,9 @@
   "http://lokaantar.com/story/331839/2026/10/24/nekapa-": 1792852097.855175,
   "https://kathmandupost.com/money/2026/10/24/legal-ground-needed-after-nepal-opens-letters-of-intent-for-private-sector-in-cross-border-power-trade": 1792852097.855175,
   "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeFo5NTA4OWNCQ1BXZnZla2dzMUZPSW9STDI3LTFQTDl3dFA1dFlOd1RYVnFrbmZaZGNiQjNxMVNWbVFPeC10SzRlcjdmM2VLNFJxTUo2TzF1c25YMjNYaUxTWW1yMGt3cXV1RDlkdUhxNG8tVzM3ZWlOdDJZQl9GYmFKTERKeXZpbThfY1M0b2hMY1BpbGU0R3BVTUZyRGF3QTltcFZsRW1fNGV5UWo3eg?oc=5": 1792852097.855175,
-  "https://kathmandupost.com/science-technology/2026/10/24/php-foundation-under-funded-with-one-full-time-staff-member-director-says": 1792852097.855175
+  "https://kathmandupost.com/science-technology/2026/10/24/php-foundation-under-funded-with-one-full-time-staff-member-director-says": 1792852097.855175,
+  "https://nagariknews.nagariknetwork.com/social-affairs/three-vehicles-collide-in-jamune-tanahun-95-79.html": 1792852277.763817,
+  "https://nagariknews.nagariknetwork.com/Dharma-Saskriti/arrested-for-murder-22-17.html": 1792852277.763817
  },
  "queue": [
   {
@@ -3503,7 +3504,7 @@
    "cat": "disaster",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "सामाजिक सञ्जालमा 'कबड्डी ५ः आफ्टर द फाइनल म्याच' को क्लिप सामाजिक",
@@ -6731,8 +6732,8 @@
    "cat": "society"
   }
  ],
- "updated": 1792852105,
- "pending_since": null,
+ "updated": 1792852281,
+ "pending_since": 1792852277.763817,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
