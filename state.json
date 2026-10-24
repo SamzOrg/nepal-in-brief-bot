@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcFBjM2ZnLVV6dFU2RlhScF9EUVZ6cmNDdFVOMktlcTM2Zks3c0QzS09kWUVkVnNZQkltVFZMaFRiU3lMX3IwMzBPT3ZWcElFV1JXVVJtX1M0bWVZYmdLOFZ4OWNpOU5TM09rQTdEcGVyRVVWaUJJblU1SXRXelA0VG9QSTM3Q0Y1T3ByOVVOamF1eUlSTElsVU9JRW90OW9ZT2xCR2ZfX212d3NVMzBz?oc=5": 1792641051.5026658,
-  "http://lokaantar.com/story/331718/2026/10/22/bike-accident-": 1792641051.5026658,
   "http://english.ratopati.com/story/84280/us-agency-warns-of-two-serious-cybersecurity-flaws-in-php": 1792641687.9284906,
   "https://www.setopati.com/social/401173": 1792641687.9284906,
   "https://baahrakhari.com/detail/505447": 1792641687.9284906,
@@ -1199,7 +1197,10 @@
   "https://nagariknews.nagariknetwork.com/arts/that-dashain-night-91-85.html": 1792813250.083104,
   "https://nagariknews.nagariknetwork.com/sports/another-prestigious-award-added-to-messi-s-name-92-41.html": 1792813250.083104,
   "https://nagariknews.nagariknetwork.com/social-affairs/drug-dealing-from-drug-store-operator-arrested-93-63.html": 1792813250.083104,
-  "https://nagariknews.nagariknetwork.com/arts/shivshankar-thapa-magar-receives-distinguished-talent-award-chandra-ranahanchha-receives-talent-award-br-90-30.html": 1792813250.083104
+  "https://nagariknews.nagariknetwork.com/arts/shivshankar-thapa-magar-receives-distinguished-talent-award-chandra-ranahanchha-receives-talent-award-br-90-30.html": 1792813250.083104,
+  "https://baahrakhari.com/detail/505556": 1792814480.0569105,
+  "https://english.khabarhub.com/2026/24/572964/": 1792814480.0569105,
+  "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdm9HMU14am1FQXc4VkZ6azM5VVV3TVZVUXhhT2xIUlRva2FsSDRDclM4TE5JZjJMX0pWb1hIZWJmUEJhaXZ0VHYySkFHMElTcWFYUVZlOUJCaWhMN2dMcWVSSjZMVS05NU1TNEJQbmFrLWtQam16OVVKQlY1ZXh1ekdDczZob3ljTFprLU5uazRUOHNfYVVwSm84WmRlZURtaTI5OVlVYnFRRkVOVnpaaXVCaw?oc=5": 1792814480.0569105
  },
  "queue": [
   {
@@ -2141,7 +2142,7 @@
    "cat": "tech",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "जबरजस्ती करणीको आरोपमा एकजना पक्राउ",
@@ -2550,7 +2551,7 @@
    "cat": "economy",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "ट्रम्पको अभिव्यक्तिले क्युबामा बढायो अमेरिकी आक्रमणको आशंका",
@@ -5652,7 +5653,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1792813860,
+ "updated": 1792814483,
  "pending_since": 1792813848.1373568,
  "fb_blocks": [
   1790350880.4125228,
