@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMiggFBVV95cUxPV3RyX1hteThGRVZFY1RYZUdxTnloblNrcHJ3ekdHYmNFRTNpOHdsb1c4VTlleERuYTEtUmJhNlRTZFV2bHJNZGFZOUktLTNDZDM4WHpZT0IwT3NxdVhqSnBHaGtxX253ZGxQZXFlY0N4dXh4MGxZbXlnaEdzTmJZa29n?oc=5": 1792646450.303602,
   "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcWtIWVBHeDF3Tnl5RDlMZDFYcE1LT0VGMjNUWkwteHlVZUFHUTFnQVRkV1ZERlJOd1poMVVnSnRVVmgzMG16c1dfT3VMTFFIQkxUeUhhNm4wQjk5ZDFXUi1vTS1kSXNBWTRmVzR6LVQ4TTJHQmhlNl8tWTlLREkxSnZ3Tm12cUFDNnM4bGh4TlFQRDNrZWIxMlE4Vmh1NDRDTEV2VGNmc0VMRnNkaTFINmZNQQ?oc=5": 1792647068.715781,
   "https://nagariknews.nagariknetwork.com/international/north-korea-to-begin-anti-seoul-propaganda-broadcasts-along-border-94-41.html": 1792647068.715781,
   "https://www.setopati.com/special-stories/international-feature/401143": 1792647068.715781,
@@ -1186,7 +1185,12 @@
   "https://baahrakhari.com/detail/505560": 1792818646.7864466,
   "https://www.setopati.com/social/401218": 1792818646.7864466,
   "https://baahrakhari.com/detail/505559": 1792818646.7864466,
-  "https://www.setopati.com/sports/sports-activity/401217": 1792818646.7864466
+  "https://www.setopati.com/sports/sports-activity/401217": 1792818646.7864466,
+  "http://english.ratopati.com/story/84399/seven-killed-40-injured-in-shooting-at-funeral-in-jordanian-church": 1792819868.1197217,
+  "https://news.google.com/rss/articles/CBMi7gFBVV95cUxObGFnbm5aczdTWlZTNzBieTUtOEtLTVIySnlFaWxxY1VVbmlsVjhtbElnNVd3VG0taHZFVjZEMWVPaU1xYXhOOFRXMjJmeEVVUUxJbGoxb2RlaHctN0tjcV9OZnFsTkRVaVBJazBYc0xWaUcteEwxVWlYb084NHN3SXpaLVpOOHV0VVI0cVo5bEgyRW5FaExMTEVrTmNtRU81NVV6dXYtejZOYjAybEpTX09kMDhLSGcya29jM25sUm9YMUlFMmwxczZYeFk5eTVhYjV0QnhPaTZDcmVxMlQ2Z2w4N01GVnBSaFdMR0Z3?oc=5": 1792819868.1197217,
+  "https://news.google.com/rss/articles/CBMiywFBVV95cUxQeTFyNjg2SVMweU9WV2ZVSHVNUjVnTHBfU0tuWHA0emNLT3hJYU9WcE05MFhTdW1qdWM5dllGMzYtdlk5aE9halVPU3gtdXBEajVhOUh0SkhTdWcxLWdKLVVQN2IxeUstWFhiUUt4T0xkbmFDZllXNzdVbG5BNkFhUWlSTWhmbVUtYTNfS3pZTXU2aFF0U3A5NUVIb3VQMU9CamlJRWowQWFBNl9kME05Sm84V3JaaFFDLVhQQnBjWTU3cGRucUtJaXdfVQ?oc=5": 1792819868.1197217,
+  "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNGVLWW9qTlVQemxGazJhUmJWNDNOUTAybHo4MGd5MW5jSXBKU3M1NGZxQlRid0F0LVcyWVk2VmJhZ2pjX2VfamhUOEo0UDFkTktmUjM0dExzcWwyN2ZFMFFlQXBQNzRrMlluZVNKRXlJUEJudVppbURTU0g5ZmZfZEd4eFZ5Q25HR2hVVWthS0NyRDFHdmRqNGotQWVLT0NsY3VQVGZ1elZCOWRiamRFbzM0bFMyaVQwNWotMDU2Zw?oc=5": 1792819868.1197217,
+  "https://theannapurnaexpress.com/story/68174": 1792819868.1197217
  },
  "queue": [
   {
@@ -2287,7 +2291,7 @@
    "cat": "world",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Nepal: Two pulled alive from tunnel nine days after floods",
@@ -3049,7 +3053,7 @@
    "cat": "culture",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Two Japanese climbers die on remote Himalayan peak in Nepal",
@@ -6015,7 +6019,7 @@
    "cat": "crime"
   }
  ],
- "updated": 1792819254,
+ "updated": 1792819874,
  "pending_since": 1792819250.2504873,
  "fb_blocks": [
   1790350880.4125228,
