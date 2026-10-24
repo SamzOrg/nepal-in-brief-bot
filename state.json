@@ -1,11 +1,5 @@
 {
  "seen": {
-  "http://english.ratopati.com/story/84276/nepal-india-a-series-date-to-be-changed-due-to-world-cup-qualifier-play-offs": 1792637452.6229239,
-  "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUEc2dndRdGJVM25KdUhzMnZmeEd4UVRuazJTR0dsbkVhXzdtemNmSlo0RUxaMFJiYkd1RURrcjBZSng4MHlKZVkyUldBTHllbmR6OFFLRndkbk8yOTFoOEY5RTBEUGM1QncyWTFvakJyTWkxaTNOZGJwYW5HbjlJMEJtM0hoQm5LUTVqSFBvZ0xzTjNJbm5TTUxzMS1yTDVwNVhKeFhXeGtaa2dXWHZObEp6cll4SF9FdlFTTA?oc=5": 1792637452.6229239,
-  "https://theannapurnaexpress.com/story/68135": 1792637452.6229239,
-  "https://baahrakhari.com/detail/505444": 1792638087.4294488,
-  "https://kathmandupost.com/cricket/2026/10/22/icc-recognises-nepal-premier-league-matches-as-list-a-t20-fixtures": 1792638087.4294488,
-  "http://lokaantar.com/story/331716/2026/10/22/icc-mens-cwc-qualifier": 1792638087.4294488,
   "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSVpmbUZIYW5FWTR6b29VdEZ1MzZjc25PU0wwN2YtY0U1OEVaamtkNW9CSnc3QVpyVFZuTzVPZENBX2x6Vk5fSHVhQmtqdDhsMFJMaEVHZEdxSzM3cG5waGx1T3BLZkxaTmZ5M1g0RVBfakwxV0Y3NEZNWGc5Z3kxQ1ZTUGJmcG9pR2Z4VTRwNnBXcXVkOFZ4bnJra21VMEhQQl83RGFJVFlKUkF0RmlENg?oc=5": 1792638653.334308,
   "http://english.ratopati.com/story/84277/websites-around-the-world-at-risk-after-serious-security-flaw-in-php-discovered-advises-immediate-update": 1792638653.334308,
   "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcTFiZVNVVjJzSXZaNHN5dm9kZG00SUh1LXAzOFAyeENVQzR5R2RLOF84YXExc190ak5Vc2VQNEhqczNqZjRmc0lZNzR0XzhSUk5FakRsSWhIejNVUDFSNHZrZV96RVg2aHNIMFZSdkFPQkNVM0p6Vml1ZlQxMTJjREtDY0M3RjVad0JSRw?oc=5": 1792638653.334308,
@@ -1188,7 +1182,9 @@
   "http://lokaantar.com/story/331814/2026/10/24/kojagrat-poornima-": 1792810249.830855,
   "http://english.ratopati.com/story/84385/four-wards-of-bajura-are-out-of-reach-of-road-network": 1792810249.830855,
   "http://english.ratopati.com/story/84384/52-vehicle-accidents-in-makawanpur-in-asoj-six-people-killed": 1792810249.830855,
-  "http://english.ratopati.com/story/84383/access-education-network-awarded-global-performing-partner-award": 1792810249.830855
+  "http://english.ratopati.com/story/84383/access-education-network-awarded-global-performing-partner-award": 1792810249.830855,
+  "https://english.khabarhub.com/2026/24/572956/": 1792810888.7519703,
+  "https://theannapurnaexpress.com/story/68173": 1792810888.7519703
  },
  "queue": [
   {
@@ -2108,7 +2104,7 @@
    "cat": "crime",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "घरभित्र पुरुष मृत फेला, श्रीमती घाइते",
@@ -2357,6 +2353,29 @@
     "GlobalAward"
    ],
    "cat": "other",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Typhoon Champi sweeps past Taiwan, one dead and 500 injured",
+   "summary": "Typhoon Champi swept past Taiwan on Saturday killing one person and injuring more than 500, downing trees and severing power, as it continues to weaken and head north towards the Chinese coast, Reuters reported. At one...",
+   "link": "https://theannapurnaexpress.com/story/68173",
+   "source": "Annapurna Express",
+   "ts": 1792796489.9805937,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "Typhoon Champi sweeps past Taiwan, one dead and 500 injured",
+   "en": "Typhoon Champi sweeps past Taiwan, one dead and 500 injured",
+   "ne": "Typhoon Champi sweeps past Taiwan, one dead and 500 injured",
+   "imp": 1,
+   "tags": [
+    "TyphoonChampi",
+    "Taiwan",
+    "WorldNews"
+   ],
+   "cat": "world",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -5279,8 +5298,8 @@
    "cat": "disaster"
   }
  ],
- "updated": 1792810259,
- "pending_since": null,
+ "updated": 1792810892,
+ "pending_since": 1792810888.7519703,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
