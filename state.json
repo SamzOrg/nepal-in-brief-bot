@@ -1188,52 +1188,6 @@
  },
  "queue": [
   {
-   "title": "फ्रान्सभर दशौं हजार नागरिक सडकमा: १३५ प्रदर्शनकारी पक्राउ, कयौं सहरमा कर्फ्यु र अश्रुग्यास",
-   "summary": "फ्रान्सभर चर्केको देशव्यापी विशाल प्रदर्शनका क्रममा प्रहरीले शनिबार १ सय ३५ जना प्रदर्शनकारीलाई पक्राउ गरेको छ।...",
-   "link": "https://nagariknews.nagariknetwork.com/international/tens-of-thousands-of-citizens-take-to-the-streets-across-france-135-protesters-arrested-curfew-and-tear-gas-in-several-cities-53-37.html",
-   "source": "Nagarik News",
-   "ts": 1792849970,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1792849734_france.jpg",
-   "lang": "ne",
-   "hl": "फ्रान्सभर दशौं हजार नागरिक सडकमा: १३५ प्रदर्शनकारी पक्राउ, कयौं सहरमा कर्फ्यु र अश्रुग्यास",
-   "en": "फ्रान्सभर दशौं हजार नागरिक सडकमा: १३५ प्रदर्शनकारी पक्राउ, कयौं सहरमा कर्फ्यु र अश्रुग्यास",
-   "ne": "फ्रान्सभर दशौं हजार नागरिक सडकमा: १३५ प्रदर्शनकारी पक्राउ, कयौं सहरमा कर्फ्यु र अश्रुग्यास",
-   "imp": 1,
-   "tags": [
-    "France",
-    "Protest",
-    "प्रदर्शन"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "एनपीएल : टिमको भ्यालुएसन र बेटिङबारे पारस खड्का (अन्तर्वार्ता)",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/505588",
-   "source": "Baahrakhari",
-   "ts": 1792849889,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "एनपीएल : टिमको भ्यालुएसन र बेटिङबारे पारस खड्का (अन्तर्वार्ता)",
-   "en": "एनपीएल : टिमको भ्यालुएसन र बेटिङबारे पारस खड्का (अन्तर्वार्ता)",
-   "ne": "एनपीएल : टिमको भ्यालुएसन र बेटिङबारे पारस खड्का (अन्तर्वार्ता)",
-   "imp": 3,
-   "tags": [
-    "NPL",
-    "Valuation",
-    "Betting"
-   ],
-   "cat": "sports",
-   "val": 2,
-   "teaser": true,
-   "hits": 1
-  },
-  {
    "title": "Dozens Dead in Ethiopia Clashes Between Somali and Oromia Forces",
    "summary": "Kathmandu. Dozens of people have been killed in recent clashes between Somali and Oromia region forces and rebel fighters in...",
    "link": "http://english.ratopati.com/story/84417/clashes-between-rival-regional-forces-in-ethiopia-several-casualties",
@@ -1709,29 +1663,6 @@
    "val": 2,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "Traffic increases at Kathmandu Valley entry points as Dashain returnees arrive",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE53Wi1WUjBHUGM0TDRpRjBRbll1TWVQZll1eWJLdEczajBQaDBSMnczVEhGRHI3NDFrM0dsZHVkZmlYRFNkQzN2LVJwdWVmUHlJZHpDMXloQktsV1Vt?oc=5",
-   "source": "The Himalayan Times",
-   "ts": 1792850282,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Traffic increases at Kathmandu Valley entry points as Dashain returnees arrive",
-   "en": "Traffic increases at Kathmandu Valley entry points as Dashain returnees arrive",
-   "ne": "Traffic increases at Kathmandu Valley entry points as Dashain returnees arrive",
-   "imp": 2,
-   "tags": [
-    "Kathmandu",
-    "Dashain",
-    "Traffic"
-   ],
-   "cat": "society",
-   "val": 2,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "चङ्खेली गाउँपालिकामा मौसमी फ्लुबाट चार जनाको मृत्यु हुम्ला",
@@ -4873,7 +4804,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1792878655,
+ "updated": 1792879290,
  "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
