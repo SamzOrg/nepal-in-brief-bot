@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMHF6MTVZV3M2aEhzTGpxUG5aR2dNQ3BkYUZhTHlDLUxoUVlVeFd2ZlptaUIyLXp2TW1JWFp1Y1FlTkFxMDEtSEJEeTBiUnB2RHNSX3BQak9nemFqSkE1cW1vc1dxQm8yOWlKNFlCa2lQMEVRNXdoV3h0bVJyYzZXNjQ1RXZSWmFzMjZKVk9aTGtjNWRtRTlsRTZFTXdaSDRlMVc4eWdXQTR5cG82a2xJNWVCd2JlRlNlcjVUYXhYSjZPa2cxeC1PNg?oc=5": 1792631451.7389827,
-  "http://lokaantar.com/story/331710/2026/10/22/badadashain-": 1792631451.7389827,
   "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZThYcjlfYm9DeEZER0dfZEplbE5Ha1d3OWdLakk3REQtXzd2N2JCVmxPUm9nTTZFLTNYSVVQbE9yemRQUTN4ZmsyRjF0R1BjU0duVVlKTGg5aGRmQ2I2aU1xbTZxNTRhR1pjbHZZaG45RFBNMzEzNDhaNkE4VG1HcDhON0RidlBTYXBCSEhBRjMwMWpBVEk0bDNDZHBFYXEzTXNDNWFpUkpvWUFQQjFoMVp2bTVQd0NkSXo2TFVUOXg?oc=5": 1792632670.12593,
   "https://english.khabarhub.com/2026/22/572794/": 1792633251.26545,
   "https://nagariknews.nagariknetwork.com/sports/npl-recognized-as-list-a-t20-br-77-99.html": 1792633251.26545,
@@ -1160,7 +1158,8 @@
   "https://nagariknews.nagariknetwork.com/Aparadh/four-arrested-for-abusing-a-girl-and-a-young-man-25-47.html": 1792803045.9725714,
   "http://english.ratopati.com/story/84372/pakistani-army-operation-in-balochistan-10-killed": 1792803045.9725714,
   "http://lokaantar.com/story/331805/2026/10/24/gunmen-at-church-funeral-in-jordan-": 1792803045.9725714,
-  "http://english.ratopati.com/story/84374/it-is-estimated-that-the-reconstruction-of-the-beni-darwang-muna-road-will-cost-around-rs-90-million": 1792804016.5455668
+  "http://english.ratopati.com/story/84374/it-is-estimated-that-the-reconstruction-of-the-beni-darwang-muna-road-will-cost-around-rs-90-million": 1792804016.5455668,
+  "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWWtKR2h4dWZDSllBSlR2NGotNGo1UVVxYk4yTDhsVzV1NmlfSXJSQTU0Si13a2JoVWFhdTFBaXlqTW8xYi13Y044Zl9lX1g2alBPaVlLdDB5aU1vYnRHTFpyamRzSy05TWVWTjJ2WlpjX1U5MXg5MzZoelZMdjItQWFvTVdvcHlsd1J3anJpMWc1Wlhmc0ZqZmpwMjJJNWNEYV9mN3BWMVZkMUpaOWZ6cWxlemxySENuZkI4SERIZGZ1dEQwWWwwbjU4YUw0M29FeDhMakpyRjbSAd4BQVVfeXFMTWN1eW41aTNTU1VaTFRzYVJxV2JxRUxZRnN6YWd5WlZnV2hfVEM4TTd5TW5wUnNrelh0TWh3a2F5TjFiczZLejJDNnZNSTQtZVdndmp1SE41eDZ0cHhrZG1jelhxb1E5T0xpTUNab1ByblVSczZiNjd2VTJRWF9Beno4MlFBd3pxZVJ0cHJpWmlfOU5HRDBaTW9LX1MteEw0YlV3LXI3MGRTQU43LWtfMXVBRmlmc3NRTkg0VlFuV2h4TnBSa2tfVUI4X2M3X2U0R2Y0QmFXYkJnYTJseFh3?oc=5": 1792804845.7169
  },
  "queue": [
   {
@@ -1512,17 +1511,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1792199456.0430772,
-   "en": "बुढीगण्डकी र बागलुङका बाढीप्रभावित क्षेत्र तीन महिनाका लागि विपत् सङ्कटग्रस्त घोषणा",
-   "ne": "बुढीगण्डकी र बागलुङका बाढीप्रभावित क्षेत्र तीन महिनाका लागि विपत् सङ्कटग्रस्त घोषणा",
-   "link": "https://gorkhapatraonline.com/news/226949",
-   "source": "Gorkhapatra",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "disaster"
-  },
   {
    "ts": 1792201254.0835032,
    "en": "Over 1,500 flood-hit children suffer acute malnutrition in Rasuwa, Nuwakot and Dhading",
@@ -4439,7 +4427,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1792804269,
+ "updated": 1792804849,
  "pending_since": 1792803045.9725714,
  "fb_blocks": [
   1790350880.4125228,
