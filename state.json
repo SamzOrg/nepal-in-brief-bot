@@ -1188,7 +1188,8 @@
   "https://nagariknews.nagariknetwork.com/social-affairs/bodies-of-missing-japanese-mountaineer-duo-found-27-66.html": 1792821114.6800354,
   "https://nagariknews.nagariknetwork.com/economy/php-problem-affects-banking-system-br-24-65.html": 1792821114.6800354,
   "https://nagariknews.nagariknetwork.com/sports/nepal-s-preliminary-squad-for-the-u-19-asia-cup-announced-48-33.html": 1792821114.6800354,
-  "https://nagariknews.nagariknetwork.com/arts/a-journey-to-communist-utopia-and-nuclear-bunkers-br-87-92.html": 1792821114.6800354
+  "https://nagariknews.nagariknetwork.com/arts/a-journey-to-communist-utopia-and-nuclear-bunkers-br-87-92.html": 1792821114.6800354,
+  "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVjlVc29YdllaYzlrSWJMZDdjeXExeXN4SGRkS2xMdnBYUm1hX001ZFk1QXBuOVlwTk9iRlhLVEZDV1dyU3dkNmV6TTNfUDdsaFRmdGV4SnZMbHd3cXNQLWFCOTBuYjV2UXRTWHdCVGVWWDQ1RnZGZHBrQk9iZ1BWaVY0Z1docWpNWkZUdGxQQXVsRnh6VkFkY0dqRnJpZTM4Q0VDVVJ5MmVXUkJaajVuQVppbDRRQ1FXTWExeDFMMW5pWHFZcm1aZ0hGdHhYR2lQMU1nbVBxZ244clk3X2thMm9R?oc=5": 1792821684.0326443
  },
  "queue": [
   {
@@ -3096,29 +3097,6 @@
    "cat": "culture",
    "val": 1,
    "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "Nepal projected to receive 200 mm rain next week as impact of cyclonic storm developing in Bay of Bengal",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQdmJhbFhzTWpaalZVcUV0SUlfV0pzdHdnM3hQOURlRVFMRTJUNjl0c3VLLUVYQ0ZlNFNUMnJnN3pyZVBFeGsta3F2SVZ2Nms2a1VsSzgxRmhpYzF0czYtVjNFTGsxLUdZNXYyY3RhWXE3THZ6ODN6U3lhWF85OGEyVXg0akVzckFqN2FqZW1vU0ZaQjBvWFkwUW1Ba0xXUE8tUkNuMWtGQ1c5RlJNNnZnd0ZqX0FKbmNQdGVTUHd6bjNkZzNGVTVoYVlYN3hUTE9WU3dMclExMTAxT2RHR0dJV1FmTHlVS0dMRloydkdEMzAyTnAya3YxWDd5VW1IUdIB_gFBVV95cUxQdmJhbFhzTWpaalZVcUV0SUlfV0pzdHdnM3hQOURlRVFMRTJUNjl0c3VLLUVYQ0ZlNFNUMnJnN3pyZVBFeGsta3F2SVZ2Nms2a1VsSzgxRmhpYzF0czYtVjNFTGsxLUdZNXYyY3RhWXE3THZ6ODN6U3lhWF85OGEyVXg0akVzckFqN2FqZW1vU0ZaQjBvWFkwUW1Ba0xXUE8tUkNuMWtGQ1c5RlJNNnZnd0ZqX0FKbmNQdGVTUHd6bjNkZzNGVTVoYVlYN3hUTE9WU3dMclExMTAxT2RHR0dJV1FmTHlVS0dMRloydkdEMzAyTnAya3YxWDd5VW1IUQ?oc=5",
-   "source": "The Tribune",
-   "ts": 1792818736,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Nepal projected to receive 200 mm rain next week as impact of cyclonic storm developing in Bay of Bengal",
-   "en": "Nepal projected to receive 200 mm rain next week as impact of cyclonic storm developing in Bay of Bengal",
-   "ne": "Nepal projected to receive 200 mm rain next week as impact of cyclonic storm developing in Bay of Bengal",
-   "imp": 4,
-   "tags": [
-    "Rain",
-    "CyclonicStorm",
-    "BayOfBengal"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
    "hits": 1
   },
   {
@@ -6195,10 +6173,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "politics"
+  },
+  {
+   "ts": 1792821691.2853706,
+   "en": "Nepal faces up to 200mm of rain next week due to Bay of Bengal storm",
+   "ne": "Nepal faces up to 200mm of rain next week due to Bay of Bengal storm",
+   "link": "https://www.tribuneindia.com/news/world/nepal-projected-to-receive-200-mm-rain-next-week-as-impact-of-cyclonic-storm-developing-in-bay-of-bengal/amp/?utm=relatedarticles",
+   "source": "The Tribune",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": true,
+   "cat": "disaster"
   }
  ],
- "updated": 1792821120,
- "pending_since": null,
+ "updated": 1792821709,
+ "pending_since": 1792821684.0326443,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
