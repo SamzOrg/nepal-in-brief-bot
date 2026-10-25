@@ -1,9 +1,5 @@
 {
  "seen": {
-  "https://risingnepaldaily.com/news/87971": 1792720888.22728,
-  "https://news.google.com/rss/articles/CBMifkFVX3lxTFBFaDBxLUZpbTZ6V2thYVluTTdZRUJuTzh2NG9VS3FuOU9Ma1pCZVhOQTZMXzRPWTNuSEtGSWRuRnN0cktHbDVrMHBOWFhESVNjT2d2RTFXbFhjVlU5TVFkQkNiejFOcER2azEycmRKWnN1cTZOSGZrbzhacGhJUQ?oc=5": 1792720888.22728,
-  "https://kathmandupost.com/cricket/2026/10/23/what-s-new-in-the-nepal-premier-league-s-third-season": 1792720888.22728,
-  "https://english.khabarhub.com/2026/23/572868/": 1792720888.22728,
   "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcUtFUXdqNGtJN1BUQmdSNGpNOWVkRjFVT3BrMUg1U012VVhtdmFSajAxRm5Db1ZMSHZhY2Rpd2ZsYU81am1Dc3plXzZacDBuNXpiRXhueGlROHFQUW1WUnczWUFxLWRuSE5ZaklROWJ5aWJpR0dRWUR5S29EQUZ1VWg1YU00d0ZVQVFqLV96eWJEcWVFcmVMcnFMcXVCT2FxQjVzZjJTUlo1Y3lRcUFTejFYTDdwNmh4Skw2Mw?oc=5": 1792721448.1368618,
   "https://theannapurnaexpress.com/story/68156": 1792721448.1368618,
   "http://lokaantar.com/story/331760/2026/10/23/rabi-": 1792721448.1368618,
@@ -1204,7 +1200,8 @@
   "https://baahrakhari.com/detail/505599": 1792892448.668513,
   "https://kathmandupost.com/science-technology/2026/10/25/php2shell-security-flaw-forces-thousands-of-nepali-websites-offline": 1792893048.9257782,
   "http://english.ratopati.com/story/84441/pedestrian-dies-after-being-hit-by-vehicle": 1792893048.9257782,
-  "http://lokaantar.com/story/331862/2026/10/25/accident-": 1792893048.9257782
+  "http://lokaantar.com/story/331862/2026/10/25/accident-": 1792893048.9257782,
+  "http://lokaantar.com/story/331857/2026/10/25/bridge-": 1792893689.6687996
  },
  "queue": [
   {
@@ -2250,17 +2247,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1792288270.7640254,
-   "en": "3 Dead, 4 Injured as Sumo Falls into Sunkoshi River in Sindhuli",
-   "ne": "3 Dead, 4 Injured as Sumo Falls into Sunkoshi River in Sindhuli",
-   "link": "http://english.ratopati.com/story/84082/sumo-en-route-to-khotang-falls-into-sunkoshi-river-3-dead",
-   "source": "Ratopati EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": true,
-   "cat": "disaster"
-  },
   {
    "ts": 1792288893.1299438,
    "en": "Kaligandaki Corridor Transmission Line Repaired After Flood Damage",
@@ -5155,7 +5141,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1792893067,
+ "updated": 1792893693,
  "pending_since": 1792892448.668513,
  "fb_blocks": [
   1790350880.4125228,
