@@ -1,9 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYUtKcS03WmtYc0paTnhZbTNJVFI4ZExmRjl3VU5TQTNLLXQtTlRpQ1V6YktKS0w0S2pjc04teUZySzNtdFFOVnVDQkFLX3ZtSDFrckN0Z2oxSzNkQ2plOHd2dlgwaG9MdVZIdk95RWJUMkVFTmZwTjQzU3lGallSMkhKYXZWQVltSnhyQ3NhTTFjYVdvLWdYNXdNVHUtODJZaVU2c1dKYUl5T24tTjZRNkpKY9IBuAFBVV95cUxNdVBvaWNOT1JBcGVvUWJtd1JTVlV4UGtENXZ2RHZ6ZjJUWUdHR3RIOEY1LW0zM2ZpOHZiWnNUV2pSOXppQ01TbFRMV1JGTW5kcXZ2YjN1U3lwaGk3YTBSUzJOSnVKb1FETllFMlA3MVNWSW5vbWg1c05FT01wX2lzaHBvdnVVZjlCSm1IdmFQbzhaRWVyS3diQmROQU5QZWxPcEFCSl9GYjB4bjR2MXdUWDU3TWFoQWl1?oc=5": 1792753849.909032,
-  "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAwQ01nTWNRMU40WGQ5cXFRWUhrYV92NkV3TDd3ZlZyZ25pNm5iZnk0VlhvS3JacjVNaERULVl3ZXE2MS1TaHI2SnRJYThBVURJ?oc=5": 1792753849.909032,
-  "https://news.google.com/rss/articles/CBMijwJBVV95cUxQbHc2WjBnNmdsQ1lleWRFYnV2RFRyUENYVUVYM1Z0bERtelRFU2R5S0Nkdk5QQk1CVkdpNXB6OFZQdWVQOU1nNE5TYWNOcXFPQmdVMXVKZWs3blVwaEt5TmtrNnJGQnUwNEtKMExLQlhzcWl5NlBhajdQVVkyeUtEVTV3Z05IREt2bGo4MWxyeWNESUVya2l5NFB1NXdfRGZrRGh5MEFKSUFqTGtpTFVzazFaVjgtLWhvMm1LUjJhdW5XSlJveFhfbkpyRmhtQ01pRXhVaFBMYnBnUWRxajZSWXN4X1RKYlRua1RzdFR6bzRzemNhQ08zZkNoTC0wQWI0a2V6c2txZFVjZmxxNHBv?oc=5": 1792753849.909032,
-  "http://lokaantar.com/story/331783/2026/10/23/accident-": 1792753849.909032,
   "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUjhucnQwMTVyTU1SdmZka1dySHN1Q3RUWjhGNllPM2xfU0EzVUVkLUVYWHRWRTRpY1RQemxHbTZLTTZQcGNLNTdVaW13QWJpRE02OUFTU205XzlfRnlrVFlvVnFpRXgtUGY3TEZobEVIcnVEblRkSUlmYjNLY3RGemktS0xOOTZxdFVyeldUQ0NtRlR5VDJ4TmFYSFdxQm1rQVZ0YV9SY3RJZw?oc=5": 1792755074.296173,
   "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdVBvaWNOT1JBcGVvUWJtd1JTVlV4UGtENXZ2RHZ6ZjJUWUdHR3RIOEY1LW0zM2ZpOHZiWnNUV2pSOXppQ01TbFRMV1JGTW5kcXZ2YjN1U3lwaGk3YTBSUzJOSnVKb1FETllFMlA3MVNWSW5vbWg1c05FT01wX2lzaHBvdnVVZjlCSm1IdmFQbzhaRWVyS3diQmROQU5QZWxPcEFCSl9GYjB4bjR2MXdUWDU3TWFoQWl10gG4AUFVX3lxTE11UG9pY05PUkFwZW9RYm13UlNWVXhQa0Q1dnZEdnpmMlRZR0dHdEg4RjUtbTMzZmk4dmJac1RXalI5emlDTVNsVExXUkZNbmRxdnZiM3VTeXBoaTdhMFJTMk5KdUpvUUROWUUyUDcxU1ZJbm9taDVzTkVPTXBfaXNocG92dVVmOUJKbUh2YVBvOFpFZXJLd2JCZE5BTlBlbE9wQUJKX0ZiMHhuNHYxd1RYNTdNYWhBaXU?oc=5": 1792755074.296173,
   "http://english.ratopati.com/story/84352/npl-all-tickets-for-the-first-match-sold-out": 1792755651.0779366,
@@ -1296,7 +1292,35 @@
   "https://nagariknews.nagariknetwork.com/social-affairs/npl-3rd-edition-prize-money-announced-winner-will-get-rs-15-million-97-75.html": 1792926649.3699737,
   "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcGgzbFZ1Y29VWnhpLVduQXNkQ0ZaOTJ3eGUtcmRCYWNQb1ZoYVFYN01aTHB6Q28wX1A0U2pwT0liZ011Q251aFZYaDBZVTVyc3JscGd6WktSVEdNMnBPVk43VnF2X0txTVZ6R2s2eU5pdXluZGRDUERMa2dKTXZjTWRlYnNWZWdxcW5KUVg0Q3VqM2ltYWRCcUtESdIBmwFBVV95cUxPcGgzbFZ1Y29VWnhpLVduQXNkQ0ZaOTJ3eGUtcmRCYWNQb1ZoYVFYN01aTHB6Q28wX1A0U2pwT0liZ011Q251aFZYaDBZVTVyc3JscGd6WktSVEdNMnBPVk43VnF2X0txTVZ6R2s2eU5pdXluZGRDUERMa2dKTXZjTWRlYnNWZWdxcW5KUVg0Q3VqM2ltYWRCcUtESQ?oc=5": 1792926649.3699737,
   "https://nagariknews.nagariknetwork.com/social-affairs/4-2-magnitude-earthquake-hits-baitadi-44-62.html": 1792926649.3699737,
-  "https://theannapurnaexpress.com/story/68205": 1792926649.3699737
+  "https://theannapurnaexpress.com/story/68205": 1792926649.3699737,
+  "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNY042X3Z1MUhwRHU4eDlUVDZrV2VTcEprREE3YkVNRUt0SmIxdWlzWFJrUW03ZHAwTDExX0s5VjVZaGdCbjd3V2l2LVlJRHc3YWU3VFRiakZzU3BXUGt3U0ZDUHdTQTVkNVpWWFhoY2xVZFZjTG9Pa21FUUwySTVES1pFbFE2UzBKeDVNeEN0bjFtdjZoMUZDal9adnY2emZSVlpZeXl0M0k2WXc?oc=5": 1792927248.3436053,
+  "https://english.khabarhub.com/2026/25/573099/": 1792927248.3436053,
+  "http://english.ratopati.com/story/84497/npl-season-3-will-be-more-special-than-ever-for-these-four-reasons": 1792927248.3436053,
+  "https://nagariknews.nagariknetwork.com/international/22-killed-in-kenya-bus-truck-collision-br-59-40.html": 1792927248.3436053,
+  "https://gorkhapatraonline.com/news/227218": 1792927248.3436053,
+  "https://english.khabarhub.com/2026/25/573103/": 1792927248.3436053,
+  "http://english.ratopati.com/story/84498/iran-launches-drone-attack-on-kurdish-group-camp": 1792927248.3436053,
+  "https://nagariknews.nagariknetwork.com/social-affairs/the-body-of-engineer-kharel-kush-who-disappeared-in-the-bhotekoshi-flood-will-be-cremated-and-buried-37-93.html": 1792927248.3436053,
+  "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBRc1dKRFU4TjhXNk15Z2huOGZQUXNOaUpYTURlSmJDd1F6anBnTHJPQkNRNS1GMlVuOHVfOTNUOVlTc3drTElHLU9CdzFwWTllbmxYTjY4STg?oc=5": 1792927248.3436053,
+  "https://baahrakhari.com/detail/505643": 1792927248.3436053,
+  "https://english.onlinekhabar.com/border-encroach-india-govt.html": 1792927248.3436053,
+  "https://www.setopati.com/global/australia/401274": 1792927248.3436053,
+  "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSHFoQ1E4aGhfUFdQZzJpaW81NVAwTDQxTmFLQzMtdTRHLVBhOU5ZRnZ5RWxJMkdGSkpTZU9BTElHMTF4NUFORVlUMnFHQm11UlpSZ2EyVUZmdmNqT3FMYVRkOXVUX2N5UmR6VnV2NUc0NUROdHRCR0t2bUhLRWlMSmZDcTR0Yjl4MGlabXlqRS1vQkhVZTdJRjB2czNYZTNPOVR1Um5OcVc2UUlsM25ZRzZZUUh4TkE?oc=5": 1792927248.3436053,
+  "https://theannapurnaexpress.com/story/68206": 1792927248.3436053,
+  "https://kathmandupost.com/cricket/2026/10/25/npl-season-3-winner-to-get-rs15-million": 1792927248.3436053,
+  "http://lokaantar.com/story/331891/2026/10/25/npl-": 1792927248.3436053,
+  "http://english.ratopati.com/story/84496/elephants-deployed-to-chase-away-tigers-in-beldandi": 1792927248.3436053,
+  "https://nagariknews.nagariknetwork.com/politics/approval-of-nepal-s-projects-from-the-adaptation-fund-is-a-significant-achievement-minister-chaudhary-br-97-10.html": 1792927248.3436053,
+  "https://www.setopati.com/literature/401277": 1792927248.3436053,
+  "https://kathmandupost.com/money/2026/10/25/chitwan-farmers-face-a-race-against-rain-and-wild-elephants": 1792927248.3436053,
+  "http://english.ratopati.com/story/84494/this-is-how-the-mountains-looked-from-chandragiri-hill-when-the-weather-was-clear-photos": 1792927248.3436053,
+  "https://nagariknews.nagariknetwork.com/sports/nepal-creating-new-history-in-world-cricket-br-76-60.html": 1792927248.3436053,
+  "https://nagariknews.nagariknetwork.com/politics/we-are-going-to-humla-to-see-the-feasibility-of-tuin-displacement-and-bridge-construction-hark-sampang-22-88.html": 1792927248.3436053,
+  "https://nagariknews.nagariknetwork.com/social-affairs/elephants-deployed-to-chase-away-tigers-in-beldandi-71-60.html": 1792927248.3436053,
+  "https://nagariknews.nagariknetwork.com/arts/qfx-declares-kabaddi-5-a-superhit-less-than-three-days-after-its-release-37-54.html": 1792927248.3436053,
+  "https://nagariknews.nagariknetwork.com/arts/five-ai-books-you-must-read-in-2026-br-87-38.html": 1792927248.3436053,
+  "https://nagariknews.nagariknetwork.com/blog/dashain-tihar-abroad-memories-of-home-the-pain-of-being-a-foreigner-and-the-burden-of-responsibility-br-81-74.html": 1792927248.3436053,
+  "https://nagariknews.nagariknetwork.com/arts/10-best-books-of-nepali-literature-br-75-82.html": 1792927248.3436053
  },
  "queue": [
   {
@@ -1531,29 +1555,6 @@
    "cat": "economy",
    "val": 3,
    "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "उपदेश कसलाई ?",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/505611",
-   "source": "Baahrakhari",
-   "ts": 1792898401,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "उपदेश कसलाई ?",
-   "en": "उपदेश कसलाई ?",
-   "ne": "उपदेश कसलाई ?",
-   "imp": 1,
-   "tags": [
-    "Opinion",
-    "Editorial",
-    "NepaliMedia"
-   ],
-   "cat": "society",
-   "val": 1,
-   "teaser": true,
    "hits": 1
   },
   {
@@ -2474,7 +2475,7 @@
    "cat": "crime",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "झोलुंगे पुलमा एक पटकमा एउटा मात्रै बाइक चढाउन पाइने सूचना, तर्छन् धेरै",
@@ -3049,30 +3050,6 @@
     "सम्पदा"
    ],
    "cat": "culture",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Tamang heritage, Ruby Valley trekking routes reopen",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeS1TRGcwcU52SHQwcXcwVXJsQ1BYSTJpTGptMXFpVkdWb2NRQ1N2YlJpSFhwZS1CNkZBVnFqMVpCSmhBT2p1X3Q4SC1TUm14emFadUNKX2VBRjVTUnlwa3hiczBVcXdYZjNOYzMxSUMzSGYwSXJzMEZnenN3dDktX2Jmcl80QzFhU1pCSGczeDVHb244bmZ4OHlGckNtblB0R0RER3dkYmg?oc=5",
-   "source": "myRepublica",
-   "ts": 1792898160,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Tamang heritage, Ruby Valley trekking routes reopen",
-   "en": "Tamang heritage, Ruby Valley trekking routes reopen",
-   "ne": "Tamang heritage, Ruby Valley trekking routes reopen",
-   "imp": 3,
-   "tags": [
-    "TamangHeritage",
-    "RubyValley",
-    "Trekking",
-    "पर्यटन"
-   ],
-   "cat": "society",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -5146,7 +5123,7 @@
    "cat": "sports",
    "val": 3,
    "teaser": false,
-   "hits": 3
+   "hits": 5
   },
   {
    "title": "उपचारमा आउँदैनन् एचआईभी सङ्क्रमित, समुदायमा सर्ने जोखिम",
@@ -5238,20 +5215,372 @@
    "val": 3,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "पान खेतीको सम्भावना खोज्दै पुरमल",
+   "summary": "गजेन्द्र गुरुङ खजुरा (बाँके), कात्तिक ८ गते । धार्मिक तथा सांस्कृतिक कार्यमा प्रयोग हुने पानको पातको माग पूरा गर्न नेपालले विदेशबाट आयात गर्नुपर्ने अवस्था छ । स्वदेशमै यसको व्यावसा...",
+   "link": "https://gorkhapatraonline.com/news/227218",
+   "source": "Gorkhapatra",
+   "ts": 1792927203,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/388844/conversions/panko-pat-1-original.jpg",
+   "lang": "ne",
+   "hl": "पान खेतीको सम्भावना खोज्दै पुरमल",
+   "en": "पान खेतीको सम्भावना खोज्दै पुरमल",
+   "ne": "पान खेतीको सम्भावना खोज्दै पुरमल",
+   "imp": 2,
+   "tags": [
+    "Agriculture",
+    "PanFarming"
+   ],
+   "cat": "economy",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Iran's Armed Forces Target Kurdish Opposition Bases in Iraq with Drone Strikes",
+   "summary": "Tehran. Iran's armed forces have carried out drone attacks targeting the base camps of Iranian Kurdish opposition groups in the...",
+   "link": "http://english.ratopati.com/story/84498/iran-launches-drone-attack-on-kurdish-group-camp",
+   "source": "Ratopati EN",
+   "ts": 1792927105,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/setting/banner-image_sPOGzj8QHe.jpg",
+   "lang": "en",
+   "hl": "Iran's Armed Forces Target Kurdish Opposition Bases in Iraq with Drone Strikes",
+   "en": "Iran's Armed Forces Target Kurdish Opposition Bases in Iraq with Drone Strikes",
+   "ne": "Iran's Armed Forces Target Kurdish Opposition Bases in Iraq with Drone Strikes",
+   "imp": 1,
+   "tags": [
+    "Iran",
+    "Iraq",
+    "Kurdistan"
+   ],
+   "cat": "world",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "भोटेकोशी बाढीमा बेपत्ता इन्जिनियर खरेलको कुशको शव बनाएर अन्त्येष्टि गरिने",
+   "summary": "रसुवाको भोटेकोशी नदीमा आएको विनाशकारी बाढीमा परी बेपत्ता भएका इन्जिनियरिङ भूगर्भविद् मिलन खरेलको कुशको शव बनाएर अन्त्येष्टि गरिने भएको छ।...",
+   "link": "https://nagariknews.nagariknetwork.com/social-affairs/the-body-of-engineer-kharel-kush-who-disappeared-in-the-bhotekoshi-flood-will-be-cremated-and-buried-37-93.html",
+   "source": "Nagarik News",
+   "ts": 1792926949,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2026/third-party/1792926928_Milan_Kharel.jpg",
+   "lang": "ne",
+   "hl": "भोटेकोशी बाढीमा बेपत्ता इन्जिनियर खरेलको कुशको शव बनाएर अन्त्येष्टि गरिने",
+   "en": "भोटेकोशी बाढीमा बेपत्ता इन्जिनियर खरेलको कुशको शव बनाएर अन्त्येष्टि गरिने",
+   "ne": "भोटेकोशी बाढीमा बेपत्ता इन्जिनियर खरेलको कुशको शव बनाएर अन्त्येष्टि गरिने",
+   "imp": 3,
+   "tags": [
+    "Bhotekoshi",
+    "Flood",
+    "BhoteKoshi"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Govt acknowledges border encroachment by India but provides no details",
+   "summary": "Kathmandu, October 25 The Nepal government has acknowledged that problems of cross-border occupation and encroachment on the no-man's-land along the Nepal-India border exist in some areas, but it has not disclosed where...",
+   "link": "https://english.onlinekhabar.com/border-encroach-india-govt.html",
+   "source": "Onlinekhabar EN",
+   "ts": 1792926353,
+   "weight": 3,
+   "img": "http://english.onlinekhabar.com/wp-content/uploads/2020/05/APF-at-Nepal-India-Border.jpg",
+   "lang": "en",
+   "hl": "Govt acknowledges border encroachment by India but provides no details",
+   "en": "Govt acknowledges border encroachment by India but provides no details",
+   "ne": "Govt acknowledges border encroachment by India but provides no details",
+   "imp": 3,
+   "tags": [
+    "BorderEncroachment",
+    "India",
+    "Government"
+   ],
+   "cat": "politics",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "नेपाल फेस्टिभल मेलबर्न २०२७ मार्चमा आयोजना हुँदै",
+   "summary": "",
+   "link": "https://www.setopati.com/global/australia/401274",
+   "source": "Setopati",
+   "ts": 1792925340,
+   "weight": 3,
+   "img": null,
+   "lang": "ne",
+   "hl": "नेपाल फेस्टिभल मेलबर्न २०२७ मार्चमा आयोजना हुँदै",
+   "en": "नेपाल फेस्टिभल मेलबर्न २०२७ मार्चमा आयोजना हुँदै",
+   "ne": "नेपाल फेस्टिभल मेलबर्न २०२७ मार्चमा आयोजना हुँदै",
+   "imp": 2,
+   "tags": [
+    "NepalFestival",
+    "Melbourne",
+    "Australia"
+   ],
+   "cat": "culture",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "UK's Burnham says he is open to discussing EU free movement",
+   "summary": "British Prime Minister Andy Burnham has said he wants a discussion about returning to the European Union's freedom of movement rules for workers, a key issue in the 2016 Brexit referendum which led to Britain leaving...",
+   "link": "https://theannapurnaexpress.com/story/68206",
+   "source": "Annapurna Express",
+   "ts": 1792912849.4446514,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "UK's Burnham says he is open to discussing EU free movement",
+   "en": "UK's Burnham says he is open to discussing EU free movement",
+   "ne": "UK's Burnham says he is open to discussing EU free movement",
+   "imp": 1,
+   "tags": [
+    "Burnham"
+   ],
+   "cat": "world",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Tiger Spotted Near Settlement in Beldadi, National Park Deploys Elephants",
+   "summary": "Mahendranagar. Shuklaphanta National Park has deployed elephants to drive away a tiger spotted near the settlement in the Imaliya area...",
+   "link": "http://english.ratopati.com/story/84496/elephants-deployed-to-chase-away-tigers-in-beldandi",
+   "source": "Ratopati EN",
+   "ts": 1792926045,
+   "weight": 2,
+   "img": "https://rpcdn.ratopati.com/media/albums/elephant_Qgf5q0EsqP.jpg",
+   "lang": "en",
+   "hl": "Tiger Spotted Near Settlement in Beldadi, National Park Deploys Elephants",
+   "en": "Tiger Spotted Near Settlement in Beldadi, National Park Deploys Elephants",
+   "ne": "Tiger Spotted Near Settlement in Beldadi, National Park Deploys Elephants",
+   "imp": 3,
+   "tags": [
+    "Tiger",
+    "Beldadi",
+    "Wildlife"
+   ],
+   "cat": "society",
+   "val": 3,
+   "teaser": false,
+   "hits": 2
+  },
+  {
+   "title": "एउटा नभनिएको कुरा!",
+   "summary": "जसरी मानिसलाई बिहान चिया पिउने बानी हुन्छ, त्यसरी नै मलाई उनको सन्देश हेर्ने बानी भइसकेको थियो। यो बानी त्यति गहिरो थियो कि कुनै दिन उनको सन्देश नआए मलाई चिया नपिएको जस्तो अनुभव हुन्थ्यो, टाउको दुख्ने, चिडचिडाहट हुने,...",
+   "link": "https://www.setopati.com/literature/401277",
+   "source": "Setopati",
+   "ts": 1792925220,
+   "weight": 3,
+   "img": null,
+   "lang": "ne",
+   "hl": "एउटा नभनिएको कुरा!",
+   "en": "एउटा नभनिएको कुरा!",
+   "ne": "एउटा नभनिएको कुरा!",
+   "imp": 1,
+   "tags": [
+    "Opinion",
+    "Editorial"
+   ],
+   "cat": "other",
+   "val": 1,
+   "teaser": true,
+   "hits": 1
+  },
+  {
+   "title": "Chitwan farmers face a race against rain and wild elephants",
+   "summary": "Rain forecasts are delaying the harvest in Madi, but waiting leaves ripe paddy vulnerable to elephant raids.",
+   "link": "https://kathmandupost.com/money/2026/10/25/chitwan-farmers-face-a-race-against-rain-and-wild-elephants",
+   "source": "Kathmandu Post",
+   "ts": 1792912849.3865387,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "Chitwan farmers face a race against rain and wild elephants",
+   "en": "Chitwan farmers face a race against rain and wild elephants",
+   "ne": "Chitwan farmers face a race against rain and wild elephants",
+   "imp": 2,
+   "tags": [
+    "Chitwan",
+    "Farmers",
+    "Wildlife"
+   ],
+   "cat": "society",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Kathmandu Valley Sees Clear Mountain Views After Festival",
+   "summary": "Kathmandu. Beautiful Himalayas are visible from the Kathmandu Valley as the weather has cleared. Although the weather was unfavorable before...",
+   "link": "http://english.ratopati.com/story/84494/this-is-how-the-mountains-looked-from-chandragiri-hill-when-the-weather-was-clear-photos",
+   "source": "Ratopati EN",
+   "ts": 1792925741,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/views-from-chandragiri_nepal-photo-library-6_mGp7CH79MY.webp",
+   "lang": "en",
+   "hl": "Kathmandu Valley Sees Clear Mountain Views After Festival",
+   "en": "Kathmandu Valley Sees Clear Mountain Views After Festival",
+   "ne": "Kathmandu Valley Sees Clear Mountain Views After Festival",
+   "imp": 2,
+   "tags": [
+    "Kathmandu",
+    "Mountains",
+    "Weather"
+   ],
+   "cat": "society",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "विश्व क्रिकेटमा नयाँ इतिहास रच्दै नेपाल",
+   "summary": "विदेशी स्टारको आगमन, टिकटमा अभूतपूर्व आकर्षण र व्यावसायिक क्रिकेटको विस्तारसँगै एनपीएलको तेस्रो संस्करण सुरु हुँदैछ।...",
+   "link": "https://nagariknews.nagariknetwork.com/sports/nepal-creating-new-history-in-world-cricket-br-76-60.html",
+   "source": "Nagarik News",
+   "ts": 1792925102,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2026/third-party/1792157011_npl%20tu%20ground.jpg",
+   "lang": "ne",
+   "hl": "विश्व क्रिकेटमा नयाँ इतिहास रच्दै नेपाल",
+   "en": "विश्व क्रिकेटमा नयाँ इतिहास रच्दै नेपाल",
+   "ne": "विश्व क्रिकेटमा नयाँ इतिहास रच्दै नेपाल",
+   "imp": 3,
+   "tags": [
+    "Cricket",
+    "Nepal",
+    "WorldCricket"
+   ],
+   "cat": "sports",
+   "val": 2,
+   "teaser": true,
+   "hits": 1
+  },
+  {
+   "title": "तुइन विस्थापन र पुल निर्माणको सम्भाव्यता हेर्न हुम्ला जाँदै हर्क साम्पाङ",
+   "summary": "श्रम संस्कृति पार्टीका अध्यक्ष हर्क साम्पाङ तुइन विस्थापन गरी पुल निर्माणको वस्तुस्थिति बुझ्न हुम्ला प्रस्थान गरेका छन्।...",
+   "link": "https://nagariknews.nagariknetwork.com/politics/we-are-going-to-humla-to-see-the-feasibility-of-tuin-displacement-and-bridge-construction-hark-sampang-22-88.html",
+   "source": "Nagarik News",
+   "ts": 1792924442,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2025/third-party/1792924639_harka.png",
+   "lang": "ne",
+   "hl": "तुइन विस्थापन र पुल निर्माणको सम्भाव्यता हेर्न हुम्ला जाँदै हर्क साम्पाङ",
+   "en": "तुइन विस्थापन र पुल निर्माणको सम्भाव्यता हेर्न हुम्ला जाँदै हर्क साम्पाङ",
+   "ne": "तुइन विस्थापन र पुल निर्माणको सम्भाव्यता हेर्न हुम्ला जाँदै हर्क साम्पाङ",
+   "imp": 2,
+   "tags": [
+    "HarkaSampang",
+    "Humla",
+    "SuspensionBridge"
+   ],
+   "cat": "politics",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "प्रदर्शनको तीन दिनमै 'कबड्डी ५' ले पायो सुपरहिटको ट्याग",
+   "summary": "कार्तिक ६ देखि प्रदर्शनमा आएको चलचित्र 'कबड्डी ५ः आफ्टर द फाइनल म्याच' लाई क्यूफएक्स सिनेमाले सुपरहिट चलचित्र घोषणा गरेको छ।...",
+   "link": "https://nagariknews.nagariknetwork.com/arts/qfx-declares-kabaddi-5-a-superhit-less-than-three-days-after-its-release-37-54.html",
+   "source": "Nagarik News",
+   "ts": 1792924290,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2025/third-party/1792924273_1.jpg",
+   "lang": "ne",
+   "hl": "प्रदर्शनको तीन दिनमै 'कबड्डी ५' ले पायो सुपरहिटको ट्याग",
+   "en": "प्रदर्शनको तीन दिनमै 'कबड्डी ५' ले पायो सुपरहिटको ट्याग",
+   "ne": "प्रदर्शनको तीन दिनमै 'कबड्डी ५' ले पायो सुपरहिटको ट्याग",
+   "imp": 3,
+   "tags": [
+    "Kabaddi5",
+    "Movie",
+    "BoxOffice"
+   ],
+   "cat": "culture",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "सन् २०२६ मा पढ्नैपर्ने पाँच एआई पुस्तक",
+   "summary": "कृत्रिम बुद्धिमत्ता (एआई) ले रोजगारी, व्यवसाय, समाज र विश्व राजनीतिमा पार्ने प्रभाव बढ्दै गएका बेला यस प्रविधिलाई बुझ्न उपयोगी पाँच पुस्तकको सूची सार्वजनिक गरिएको छ।...",
+   "link": "https://nagariknews.nagariknetwork.com/arts/five-ai-books-you-must-read-in-2026-br-87-38.html",
+   "source": "Nagarik News",
+   "ts": 1792924118,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2026/third-party/1792926162_AI%20News-.jpg",
+   "lang": "ne",
+   "hl": "सन् २०२६ मा पढ्नैपर्ने पाँच एआई पुस्तक",
+   "en": "सन् २०२६ मा पढ्नैपर्ने पाँच एआई पुस्तक",
+   "ne": "सन् २०२६ मा पढ्नैपर्ने पाँच एआई पुस्तक",
+   "imp": 1,
+   "tags": [
+    "Books",
+    "Technology"
+   ],
+   "cat": "tech",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "परदेशमा दशैं-तिहार: घरदेशको सम्झना, परदेशीको पीडा र जिम्मेवारीको भारी",
+   "summary": "रोजगारी र अवसरको खोजीमा विदेशिएका नेपालीका लागि चाडपर्व खुसीसँगै विछोड, संघर्ष र मातृभूमिप्रतिको मायाका कथा पनि हुन्। ...",
+   "link": "https://nagariknews.nagariknetwork.com/blog/dashain-tihar-abroad-memories-of-home-the-pain-of-being-a-foreigner-and-the-burden-of-responsibility-br-81-74.html",
+   "source": "Nagarik News",
+   "ts": 1792923478,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2026/third-party/1792923418_Rajan.jpg",
+   "lang": "ne",
+   "hl": "परदेशमा दशैं-तिहार: घरदेशको सम्झना, परदेशीको पीडा र जिम्मेवारीको भारी",
+   "en": "परदेशमा दशैं-तिहार: घरदेशको सम्झना, परदेशीको पीडा र जिम्मेवारीको भारी",
+   "ne": "परदेशमा दशैं-तिहार: घरदेशको सम्झना, परदेशीको पीडा र जिम्मेवारीको भारी",
+   "imp": 2,
+   "tags": [
+    "Dashain",
+    "Tihar",
+    "Diaspora"
+   ],
+   "cat": "culture",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "नेपाली साहित्यका १० उत्कृष्ट पुस्तक",
+   "summary": "नेपाली साहित्यका उत्कृष्ट कृतिहरूले नेपालको इतिहास, संस्कृति, सामाजिक यथार्थ, प्रेम, संघर्ष र मानवीय संवेदनालाई जीवन्त रूपमा प्रस्तुत गरेका छन्।...",
+   "link": "https://nagariknews.nagariknetwork.com/arts/10-best-books-of-nepali-literature-br-75-82.html",
+   "source": "Nagarik News",
+   "ts": 1792922911,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2025/third-party/1792923234_book%20.jpg",
+   "lang": "ne",
+   "hl": "नेपाली साहित्यका १० उत्कृष्ट पुस्तक",
+   "en": "नेपाली साहित्यका १० उत्कृष्ट पुस्तक",
+   "ne": "नेपाली साहित्यका १० उत्कृष्ट पुस्तक",
+   "imp": 1,
+   "tags": [
+    "Books",
+    "NepaliLiterature",
+    "Literature"
+   ],
+   "cat": "culture",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1792321860.6060708,
-   "en": "How Many More Lives? Nepal Hit by Another Devastating Himalayan Flood | Planet Pulse | N18G",
-   "ne": "How Many More Lives? Nepal Hit by Another Devastating Himalayan Flood | Planet Pulse | N18G",
-   "link": "https://www.firstpost.com/web-show/planet-pulse/how-many-more-lives-nepal-hit-by-another-devastating-himalayan-flood-planet-pulse-n18g-vd2233430/amp/",
-   "source": "Firstpost",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": true,
-   "cat": "disaster"
-  },
   {
    "ts": 1792323121.0756557,
    "en": "सुनसरीबाट नौ क्विन्टल बढी गाँजासहित चारजना पक्राउ",
@@ -8133,10 +8462,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "health"
+  },
+  {
+   "ts": 1792927257.9134257,
+   "en": "चाडपर्वमा किनमेल र आयात बढ्दा बैंकिङ कर्जा ६० खर्ब नाघ्यो",
+   "ne": "चाडपर्वमा किनमेल र आयात बढ्दा बैंकिङ कर्जा ६० खर्ब नाघ्यो",
+   "link": "https://baahrakhari.com/detail/505643",
+   "source": "Baahrakhari",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "economy"
   }
  ],
- "updated": 1792926655,
- "pending_since": 1792925459.9697664,
+ "updated": 1792927273,
+ "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
