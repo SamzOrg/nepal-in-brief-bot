@@ -1367,29 +1367,6 @@
  },
  "queue": [
   {
-   "title": "भोटेकोशी बाढीले सर्वसाधारणको निजी सम्पत्तिमा ७९ अर्बको क्षति",
-   "summary": "यो प्रारम्भिक मूल्यांकनमा सडक, जलविद्युत् आयोजना तथा अन्य पूर्वाधार, उत्पादनशील क्षेत्र, सामाजिक क्षेत्र र वातावरणमा भएको क्षति समेटिएको छैन। ती क्षेत्रको क्षतिसमेत जोड्दा बाढीबाट भएको समग्र आर्थिक क्षति अझै बढ्ने...",
-   "link": "https://nagariknews.nagariknetwork.com/economy/bhotekoshi-flood-causes-rs-79-billion-damage-to-private-property-of-the-general-public-81-88.html",
-   "source": "Nagarik News",
-   "ts": 1792944692,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1788700426_bhotekoshi%20rasuwa%20badi.jpg",
-   "lang": "ne",
-   "hl": "भोटेकोशी बाढीले सर्वसाधारणको निजी सम्पत्तिमा ७९ अर्बको क्षति",
-   "en": "भोटेकोशी बाढीले सर्वसाधारणको निजी सम्पत्तिमा ७९ अर्बको क्षति",
-   "ne": "भोटेकोशी बाढीले सर्वसाधारणको निजी सम्पत्तिमा ७९ अर्बको क्षति",
-   "imp": 4,
-   "tags": [
-    "Flood",
-    "Bhotekoshi",
-    "Damage"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Scientists Identify Mushroom Species Causing Visual Hallucinations of Small Human Figures",
    "summary": "Kathmandu. Scientists have identified a species of mushroom that causes people to see dozens to hundreds of small human figures...",
    "link": "http://english.ratopati.com/story/84519/a-mushroom-has-been-discovered-that-when-eaten-reveals-hundreds-of-tiny-human-like-figures",
@@ -1499,27 +1476,6 @@
    "cat": "crime",
    "val": 3,
    "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Today's News in a Nutshell",
-   "summary": "KATHMANDU: Khabarhub brings you a glimpse of major developments of the day in Nepal, including politics, business/economy, sports, entertainment, and more. Three dead in jet boat accident in Saptakoshi River Three...",
-   "link": "https://english.khabarhub.com/2026/25/573051/",
-   "source": "Khabarhub EN",
-   "ts": 1792943158,
-   "weight": 2,
-   "img": "https://english.khabarhub.com/wp-content/uploads/2024/05/News-Nutshell-640x360.jpg",
-   "lang": "en",
-   "hl": "Today's News in a Nutshell",
-   "en": "Today's News in a Nutshell",
-   "ne": "Today's News in a Nutshell",
-   "imp": 1,
-   "tags": [
-    "NewsInANutshell"
-   ],
-   "cat": "other",
-   "val": 1,
-   "teaser": true,
    "hits": 1
   },
   {
@@ -4792,10 +4748,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "sports"
+  },
+  {
+   "ts": 1792972255.0543709,
+   "en": "भोटेकोशी बाढी: सर्वसाधारणको निजी सम्पत्तिमा ७९ अर्ब १७ करोड क्षति",
+   "ne": "भोटेकोशी बाढी: सर्वसाधारणको निजी सम्पत्तिमा ७९ अर्ब १७ करोड क्षति",
+   "link": "https://nagariknews.nagariknetwork.com/economy/bhotekoshi-flood-causes-rs-79-billion-damage-to-private-property-of-the-general-public-81-88.html",
+   "source": "Nagarik News",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "disaster"
   }
  ],
- "updated": 1792971656,
- "pending_since": null,
+ "updated": 1792972264,
+ "pending_since": 1792972249.3628163,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
