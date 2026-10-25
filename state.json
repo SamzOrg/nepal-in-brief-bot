@@ -1,8 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNG11cEFjQWVZVWlJUjZKeWI3T2tER0dhSVJidjFGbFpVOE11VEd0TFVGMm1RM2hMZkppYTNmS2lvTWNsd09UcC1md2JqeEJ2cGZJS2xNUUhPRVAtcTFVcXRleEhGTW16Mi0xWlBrYTBtQVdlSzQ5anl1bFE0OUl5RnVEX3BPdHF6YllnaU1zVlhEVXFscXZueVBmcU5RT1NQWFFvWXRuQS1uRFQ2NVF2YW85OVR1XzNqYVdZ?oc=5": 1792720247.4021356,
-  "https://news.google.com/rss/articles/CBMikgFBVV95cUxNa3V5MkpTa0cwOUtQOVZleWNYblVXQWtVTWFQRFlpRzFQemttTTItVHY4Y1gwUExpbUlORmd4QTg2UE95M3hQUDc4RmZJYUpCa1M5VDB6aFloWUtFMmNUVG11LWVJWjdZa0lEY2hzeFBPYzJEV0Z5TmFoaHVMY1lsc09lTDRCNzFoc1QwNEFnMG9EZw?oc=5": 1792720247.4021356,
-  "https://kathmandupost.com/science-technology/2026/10/23/nepal-takes-government-websites-offline-over-critical-php-flaws": 1792720247.4021356,
   "https://risingnepaldaily.com/news/87971": 1792720888.22728,
   "https://news.google.com/rss/articles/CBMifkFVX3lxTFBFaDBxLUZpbTZ6V2thYVluTTdZRUJuTzh2NG9VS3FuOU9Ma1pCZVhOQTZMXzRPWTNuSEtGSWRuRnN0cktHbDVrMHBOWFhESVNjT2d2RTFXbFhjVlU5TVFkQkNiejFOcER2azEycmRKWnN1cTZOSGZrbzhacGhJUQ?oc=5": 1792720888.22728,
   "https://kathmandupost.com/cricket/2026/10/23/what-s-new-in-the-nepal-premier-league-s-third-season": 1792720888.22728,
@@ -1204,7 +1201,10 @@
   "https://gorkhapatraonline.com/news/227163": 1792892448.668513,
   "https://risingnepaldaily.com/news/87993": 1792892448.668513,
   "http://lokaantar.com/story/331859/2026/10/25/dollar-": 1792892448.668513,
-  "https://baahrakhari.com/detail/505599": 1792892448.668513
+  "https://baahrakhari.com/detail/505599": 1792892448.668513,
+  "https://kathmandupost.com/science-technology/2026/10/25/php2shell-security-flaw-forces-thousands-of-nepali-websites-offline": 1792893048.9257782,
+  "http://english.ratopati.com/story/84441/pedestrian-dies-after-being-hit-by-vehicle": 1792893048.9257782,
+  "http://lokaantar.com/story/331862/2026/10/25/accident-": 1792893048.9257782
  },
  "queue": [
   {
@@ -1916,29 +1916,6 @@
    "hits": 1
   },
   {
-   "title": "बिहीबारदेखि नेपालमा भारी वर्षा र हिमपातको सम्भावना, २९ जिल्लामा उच्च जोखिम",
-   "summary": "उनले बिहीबार रातिदेखि शुक्रबार रातिसम्मको अवधि वर्षाका दृष्टिले बढी जोखिमपूर्ण हुन सक्ने बताए।...",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/heavy-rain-likely-in-nepal-from-thursday-high-risk-in-29-districts-26-99.html",
-   "source": "Nagarik News",
-   "ts": 1792891586,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1759539922_Vari%20barsa%2045.jpg",
-   "lang": "ne",
-   "hl": "बिहीबारदेखि नेपालमा भारी वर्षा र हिमपातको सम्भावना, २९ जिल्लामा उच्च जोखिम",
-   "en": "बिहीबारदेखि नेपालमा भारी वर्षा र हिमपातको सम्भावना, २९ जिल्लामा उच्च जोखिम",
-   "ne": "बिहीबारदेखि नेपालमा भारी वर्षा र हिमपातको सम्भावना, २९ जिल्लामा उच्च जोखिम",
-   "imp": 4,
-   "tags": [
-    "HeavyRain",
-    "Snowfall",
-    "29Districts"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "अर्थमन्त्री वाग्लेको अभिव्यक्तिमाथि एमाले प्रचार विभाग प्रमुख आचार्यको प्रश्न",
    "summary": "नेपाल र भारतबीचको सम्बन्ध पारस्परिक सम्मान, विश्वास र साझा हितका आधारमा अघि बढ्नुपर्ने उनको भनाइ छ।",
    "link": "https://www.setopati.com/politics/401239",
@@ -2246,6 +2223,30 @@
    "val": 2,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "Pedestrian Dies After Scooter Collision in Triyuga Municipality",
+   "summary": "Udaypur. A pedestrian has died after being hit by a vehicle (scooter) in Sangam Tole, Triyuga Municipality-11. On Saturday evening,...",
+   "link": "http://english.ratopati.com/story/84441/pedestrian-dies-after-being-hit-by-vehicle",
+   "source": "Ratopati EN",
+   "ts": 1792892560,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/accident1_0HVVwEUEAJ.jpg",
+   "lang": "en",
+   "hl": "Pedestrian Dies After Scooter Collision in Triyuga Municipality",
+   "en": "Pedestrian Dies After Scooter Collision in Triyuga Municipality",
+   "ne": "Pedestrian Dies After Scooter Collision in Triyuga Municipality",
+   "imp": 2,
+   "tags": [
+    "Triyuga",
+    "Accident",
+    "Pedestrian",
+    "उदयपुर"
+   ],
+   "cat": "crime",
+   "val": 3,
+   "teaser": false,
+   "hits": 2
   }
  ],
  "posted": [
@@ -5141,9 +5142,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "disaster"
+  },
+  {
+   "ts": 1792893055.3162541,
+   "en": "बिहीबारदेखि नेपालमा भारी वर्षा र हिमपातको सम्भावना, २९ जिल्लामा उच्च जोखिम",
+   "ne": "बिहीबारदेखि नेपालमा भारी वर्षा र हिमपातको सम्भावना, २९ जिल्लामा उच्च जोखिम",
+   "link": "https://nagariknews.nagariknetwork.com/social-affairs/heavy-rain-likely-in-nepal-from-thursday-high-risk-in-29-districts-26-99.html",
+   "source": "Nagarik News",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "disaster"
   }
  ],
- "updated": 1792892460,
+ "updated": 1792893067,
  "pending_since": 1792892448.668513,
  "fb_blocks": [
   1790350880.4125228,
