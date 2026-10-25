@@ -1,7 +1,5 @@
 {
  "seen": {
-  "http://lokaantar.com/story/331768/2026/10/23/accident-": 1792732252.1577346,
-  "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQWtiTFVZUGRRUG96QmR6NEtUc1EyYXljVW1XQVFJYVRnc1ZJalVZVmVoOWZsQXVETUw5c3g4aTZ1VkFyN2tYREY4Q0xybGVxTl8ySm1KMlNkdVN0Q0xUaHdzam43MTYwUjAwT3dKTC1VY1ZDWWpuV3Mxb2tweERvSTR2NHp1SGRWXzVV?oc=5": 1792732252.1577346,
   "http://english.ratopati.com/story/84329/banking-sector-affected-by-php-software-vulnerability-which-services-were-shut-down": 1792732848.4551313,
   "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNlpyR3NVcm42a3JPdGhpQXB6V0I3WXA0QkhXaU9hR2paeXhydDJGQVYxbFVOUF9QcnZTdVc4U0R3c2pXRzZFZVMzNFJtNnBLaFRGVEg1QjhyVF9uaXB0YTdBejA5TmtDY3BhZDFJZVlJclEwcHkza0MtNjlkTmFWRTZBNGM1RnFxRHh0V1FhY0Rna0pQc0dneXpMQS1SWUNYdjVZTUREbTRXMTNXa0Q0Uk96anpVN0JTTk5MWHB3VnpqejA?oc=5": 1792732848.4551313,
   "https://news.google.com/rss/articles/CBMingFBVV95cUxQRzRHYVlocGNHall1dGhDczY4QTlQUzBEamFpaEtzWWdIYnVvZEpzb21zTFMtUnNhdUROV05pZmJ4MVZ6SmQwWW5rQlE3S3JWNlIyeVd5Z1BXWlZmdDRRQnVvdWRCak9CYmVpTENkMHYyemkxWThIUkNXUDJHN2lYZUNmRGdRNl9GekUzYTFlenNNVTJjNTR5MGFIeEUyZw?oc=5": 1792732848.4551313,
@@ -1249,7 +1247,11 @@
   "https://www.setopati.com/sports/npl/401250": 1792905047.9728866,
   "https://nagariknews.nagariknetwork.com/international/6-killed-12-injured-in-express-bus-accident-in-myanmar-60-52.html": 1792905047.9728866,
   "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JRk1DdFh1TF9TekMxMG56ZDNKaDE0V2dVQnlpOU1WMVZWUFBEZy1hMHZwWlB1M2l4UzRnSHcySEhpejg3SW9HUGhYdFpZakpRMEhwSU1WamU1Zw?oc=5": 1792905047.9728866,
-  "https://theannapurnaexpress.com/story/68188": 1792905047.9728866
+  "https://theannapurnaexpress.com/story/68188": 1792905047.9728866,
+  "https://english.onlinekhabar.com/dashain-holiday-end.html": 1792905306.9944506,
+  "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQS1VdHVUR25CY0JCZkIwdVBmQnlaYlhGX0NqZUdiT3puR3YzYzloTmdMcFBTUHMzYmV6LVZNU1pic2dCRGthYjljQ1BYczJ6OEVtd3FiVk5sRmRqQzVqUW1Vc09GT19CNWNSZFhkTlc1bmdFVTFSVVNSWllLS3c4enBGYUJYQ0NTUU9jSFl5TV9oNlRXbXU0d0hITWNxenJzbV96RnZJdzVqYVRHSjJGOEVMTHV3V0ZqUFlOTQ?oc=5": 1792905306.9944506,
+  "https://theannapurnaexpress.com/story/68189": 1792905306.9944506,
+  "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQWtiTFVZUGRRUG96QmR6NEtUc1EyYXljVW1XQVFJYVRnc1ZJalVZVmVoOWZsQXVETUw5c3g4aTZ1VkFyN2tYREY4Q0xybGVxTl8ySm1KMlNkdVN0Q0xUaHdzam43MTYwUjAwT3dKTC1VY1ZDWWpuV3Mxb2tweERvSTR2NHp1SGRWXzVV?oc=5": 1792905306.9944506
  },
  "queue": [
   {
@@ -1540,7 +1542,7 @@
    "cat": "culture",
    "val": 1,
    "teaser": false,
-   "hits": 4
+   "hits": 5
   },
   {
    "title": "राजनीतिमा अनुसन्धानको ठूलो महत्त्व हुन्छ : बिजुक्छे",
@@ -4175,7 +4177,7 @@
    "cat": "crime",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "अपि हिमालमा पर्यटन उत्सव मनाउने तयारी",
@@ -4515,6 +4517,30 @@
    ],
    "cat": "society",
    "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Nepal-Tibet flash flood: Rescuers race against time",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQWtiTFVZUGRRUG96QmR6NEtUc1EyYXljVW1XQVFJYVRnc1ZJalVZVmVoOWZsQXVETUw5c3g4aTZ1VkFyN2tYREY4Q0xybGVxTl8ySm1KMlNkdVN0Q0xUaHdzam43MTYwUjAwT3dKTC1VY1ZDWWpuV3Mxb2tweERvSTR2NHp1SGRWXzVV?oc=5",
+   "source": "DW.com",
+   "ts": 1792890932,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "Nepal-Tibet flash flood: Rescuers race against time",
+   "en": "Nepal-Tibet flash flood: Rescuers race against time",
+   "ne": "Nepal-Tibet flash flood: Rescuers race against time",
+   "imp": 4,
+   "tags": [
+    "NepalTibet",
+    "FlashFlood",
+    "Rescue",
+    "बाढी"
+   ],
+   "cat": "disaster",
+   "val": 2,
    "teaser": false,
    "hits": 1
   }
@@ -7403,7 +7429,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1792905051,
+ "updated": 1792905311,
  "pending_since": 1792905047.9728866,
  "fb_blocks": [
   1790350880.4125228,
