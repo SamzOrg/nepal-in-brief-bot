@@ -1360,52 +1360,6 @@
  },
  "queue": [
   {
-   "title": "मझिया स्मृति कपको उद्घाटन खेलमा रेवाहाङको ५-० को जित",
-   "summary": "रेवाहाङले आयोजक क्षेत्रको मावादिन युवा समाज विकास केन्द्रलाई ५-० गोलले पराजित गरेको हो।",
-   "link": "https://nagariknews.nagariknetwork.com/sports/rewahang-wins-5-0-in-the-inaugural-match-of-the-majhiya-memorial-cup-58-76.html",
-   "source": "Nagarik News",
-   "ts": 1792934997,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1792934988_mahila%20football%20(4).jpeg",
-   "lang": "ne",
-   "hl": "मझिया स्मृति कपको उद्घाटन खेलमा रेवाहाङको ५-० को जित",
-   "en": "मझिया स्मृति कपको उद्घाटन खेलमा रेवाहाङको ५-० को जित",
-   "ne": "मझिया स्मृति कपको उद्घाटन खेलमा रेवाहाङको ५-० को जित",
-   "imp": 2,
-   "tags": [
-    "MajhiyaSmritiCup",
-    "Football",
-    "Rebahan"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "दुर्घटनाका एक घाइतेको मृत्यु",
-   "summary": "जनार्जन खत्रीसर्लाही, कात्तिक ८ गते । पूर्वपश्चिम महेन्द्र राजमार्गस्थित सर्लाहीको ईश्वरपुर नगरपालिका-१२, बाँके जङ्गलमा शनिबार भएको सवारी दुर्घटनामा घाइते भएकामध्ये एक जनाको उपचारक...",
-   "link": "https://gorkhapatraonline.com/news/227230",
-   "source": "Gorkhapatra",
-   "ts": 1792934706,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/388858/conversions/death-(1)-original.jpg",
-   "lang": "ne",
-   "hl": "दुर्घटनाका एक घाइतेको मृत्यु",
-   "en": "दुर्घटनाका एक घाइतेको मृत्यु",
-   "ne": "दुर्घटनाका एक घाइतेको मृत्यु",
-   "imp": 3,
-   "tags": [
-    "Accident",
-    "Death",
-    "दुर्घटना"
-   ],
-   "cat": "society",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
-  },
-  {
    "title": "पूर्णिमाको चन्द्रमा",
    "summary": "",
    "link": "https://baahrakhari.com/detail/505656",
@@ -1516,29 +1470,6 @@
    "cat": "sports",
    "val": 1,
    "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "'पहाडहरु भिजेका छन्, पहिरोको जोखिम उच्च छ'",
-   "summary": "बंगालको खाडीमा विकसित भइरहेको न्यूनचापीय प्रणालीको प्रभावले आगामी बुधबारदेखि नेपालमा मौसम बदली हुने र बिहीबारदेखि वर्षा तथा हिमपातको सम्भावना बढ्ने मौसमविद्ले बताएका छन्।...",
-   "link": "https://nagariknews.nagariknetwork.com/interview/the-mountains-are-wet-the-risk-of-landslides-is-high-13-13.html",
-   "source": "Nagarik News",
-   "ts": 1792935066,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1792937757_00.png",
-   "lang": "ne",
-   "hl": "'पहाडहरु भिजेका छन्, पहिरोको जोखिम उच्च छ'",
-   "en": "'पहाडहरु भिजेका छन्, पहिरोको जोखिम उच्च छ'",
-   "ne": "'पहाडहरु भिजेका छन्, पहिरोको जोखिम उच्च छ'",
-   "imp": 4,
-   "tags": [
-    "Landslide",
-    "Monsoon",
-    "पहिरो"
-   ],
-   "cat": "disaster",
-   "val": 1,
-   "teaser": false,
    "hits": 1
   },
   {
@@ -5104,7 +5035,7 @@
    "cat": "sports"
   }
  ],
- "updated": 1792963257,
+ "updated": 1792963876,
  "pending_since": 1792963253.111535,
  "fb_blocks": [
   1790350880.4125228,
