@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRHpzelFsVS03cjJaTjF6LTJrbjRKQ1VwVWE3OS1MUkQyT05BcFlhQUQtQURxWXhlTUMzbzZTSFRNbkZlWUp1NE9JQUN2UGktT1BnNV9GZkFNZXU3X0g0b1g1Q25wZWhyWS02N0xaNkFiOHFWeEpsdmZHUjdqN3NJR2V1dnRBVVI3Vnc?oc=5": 1792793448.3525803,
   "https://news.google.com/rss/articles/CBMiswFBVV95cUxQT3M2MG8zc2ZXRmo3bUtYVmRBa1VrU0NBUXVOTHlWZUtFTDI5d1U0Y2tJOGdGQnJhbEhCLWs3UHBHOF9wbW1BZFZVZEhGejNUMkhxS3IxMDRySGV0dkR1M2R1UDN5LXJvUjJxM0RPdDdnYU1jcDRzbHIzWkU3RVhiaTVURm85V18yc0NNVFBYYW5YQmRPUXNWNVVDcTgxX1drMkt2bGFJN1I0dWt2V1BobzlNZw?oc=5": 1792797650.721203,
   "https://www.setopati.com/social/401209": 1792801246.3705106,
   "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdW9wX2xhSV9Ud2NOQzhtb3MtTEZ4cEVFS1JDTmlwNi1teFZEamtpeGlBQ0xCRmIyMTg5S2ZoODg4M3dSUHI4WUU4SkIwV1pRRUppYllqcnJkcW51eVliMzY0aGcxM3ZyRkJaN1FMMEhGcGJWV3BUYi1FeW5MeFUtazFtUllxX0ZuWHFra25rMGItQzBJWnFjbXNQX3F2RmhjRnpWaVVnMzVfLWNGby1mbE5WODg?oc=5": 1792801246.3705106,
@@ -1360,28 +1359,6 @@
  },
  "queue": [
   {
-   "title": "पूर्णिमाको चन्द्रमा",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/505656",
-   "source": "Baahrakhari",
-   "ts": 1792937239,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "पूर्णिमाको चन्द्रमा",
-   "en": "पूर्णिमाको चन्द्रमा",
-   "ne": "पूर्णिमाको चन्द्रमा",
-   "imp": 1,
-   "tags": [
-    "FullMoon",
-    "पूर्णिमा"
-   ],
-   "cat": "culture",
-   "val": 1,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "सवारी कारबाहीबाट १२ दिनमा १२ लाख राजस्व सङ्कलन",
    "summary": "कर्णाली प्रदेशमा सवारी कारबाहीबाट १२ दिनमा १२ लाख २५ हजार राजस्व सङ्कलन भएको छ ।",
    "link": "https://nagariknews.nagariknetwork.com/social-affairs/revenue-collected-from-vehicle-operations-in-12-days-rs-1-2-million-63-43.html",
@@ -1447,29 +1424,6 @@
    ],
    "cat": "sports",
    "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "'दशैं' मनाउन पर्यटक बोलाउँदै पोखरा",
-   "summary": "पोखराको लेकसाइडमा पहिलोपटक दशैं पर्यटन तथा सांस्कृतिक महोत्सव आयोजना गरिएको छ।",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/pokhara-invites-tourists-to-celebrate-dashain-91-71.html",
-   "source": "Nagarik News",
-   "ts": 1792937284,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1792937247_Dashai%20Mahotsavma%20nikaliyeko%20Rhyally.jpg",
-   "lang": "ne",
-   "hl": "'दशैं' मनाउन पर्यटक बोलाउँदै पोखरा",
-   "en": "'दशैं' मनाउन पर्यटक बोलाउँदै पोखरा",
-   "ne": "'दशैं' मनाउन पर्यटक बोलाउँदै पोखरा",
-   "imp": 2,
-   "tags": [
-    "Pokhara",
-    "Dashain",
-    "Tourism"
-   ],
-   "cat": "culture",
-   "val": 3,
    "teaser": false,
    "hits": 1
   },
@@ -1652,28 +1606,6 @@
    ],
    "cat": "tech",
    "val": 1,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Power supply restored in disaster-hit area of Myagdi",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOX0x0aUtpMnlYQ2VGOHltQmY1VWZOYkFFb2xJSVhhSkJiaWZ3NUcxd0pua3paQVZNdkhMTE1SNm53RXp0WUowdEVwMi1YS2dudTZjV0hQX2FLeFpHWkpyMDdRMmtIbXZsMGZ1N1hPWUlGQ1Z6UWxqTW9mcWJHTEc2X3VlYWllTXh4bDhQeU40dkNhQ3d3MUtNSGdpbmIteFkwaWNGSEpobU90Q0U?oc=5",
-   "source": "myRepublica",
-   "ts": 1792937160,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Power supply restored in disaster-hit area of Myagdi",
-   "en": "Power supply restored in disaster-hit area of Myagdi",
-   "ne": "Power supply restored in disaster-hit area of Myagdi",
-   "imp": 3,
-   "tags": [
-    "Myagdi",
-    "PowerRestoration"
-   ],
-   "cat": "disaster",
-   "val": 3,
    "teaser": false,
    "hits": 1
   },
@@ -4968,7 +4900,7 @@
    "cat": "sports"
   }
  ],
- "updated": 1792965688,
+ "updated": 1792966255,
  "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
