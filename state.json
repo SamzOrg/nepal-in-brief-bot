@@ -1,15 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMjg3TmtucXplTEpCbkNSeFVxbUVOWlFIX2ZycUpvWWdFN25xZVRmRENjUmYtalRnbE1fVVlDSDR1TVZRUV9HTk00TEFJZURDUkdZUUU0N092UnA1QmNTLUI5RjN0NDM5NXdGY3N6elhoTy1tYUZNM0ZZSWhKbEtIdWZoZFotNjE5Rmw3MVlnd3BmeV9JdEFPQmJQNDlpTGt2TEJ6RV9iZXc?oc=5": 1792774890.2979326,
-  "https://gorkhapatraonline.com/news/227125": 1792774890.2979326,
-  "https://baahrakhari.com/detail/505545": 1792774890.2979326,
-  "https://nagariknews.nagariknetwork.com/international/charlie-kirk-s-wife-erica-urges-not-to-postpone-case-until-2029-what-does-she-want-22-42.html": 1792774890.2979326,
-  "http://english.ratopati.com/story/84368/php-issues-advisory-after-new-security-vulnerability-discovered": 1792774890.2979326,
-  "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTEVwUi14SVR4ZHllMHoyODFQNHUzUjk4c1I2RHI1Y0RoclZSbUhIcWRVTVE1YzUxSUxnWFpIQXV6SndnTDE1RUg1UmttejZJREhFeTBXTy1xXzEzQzY0T3FfTG81Vm9Nbzc3LWc3S2pOcVhHNHVvWWF4dDdzMi04TUZxanc3Wnh2Yi1fbFZMRlExNC1seGdaV2t6YlFRNTFZR0FMdU5FeWtPTEEtUUxPcVVVemdZNVdMNmlVd2RrM0VDcUNhMGfSAcsBQVVfeXFMTzE2WEpHLXNvcURTck1BWUZHb2J0aVRJMTgxOGhfM1J4NVY1M2dtVlB5eTl5U3dDSWp0My1ub2Z5LWRUaVFZWS13N1dxRzgyanlnTV91QW94dmZpLXU0S2JtV3JrOW5adTFKUlg5SXVkbWlPQjVuQ21XYmdoV0VxMzFBbXZaZnNwS0hWR3hUMXhkNE9BWVJPTk5uQVUwWU5Tdjd0ejByUlRjV19PQ21XZGZVZGFBb3BoU0Y5VU04X3pVQ1FfT0JDdy02X1k?oc=5": 1792774890.2979326,
-  "http://lokaantar.com/story/331803/2026/10/23/kosh-": 1792774890.2979326,
-  "https://gorkhapatraonline.com/news/227124": 1792774890.2979326,
-  "https://nagariknews.nagariknetwork.com/sports/aha-rara-pokhara-gold-cup-from-magh-5-56-41.html": 1792774890.2979326,
-  "https://nagariknews.nagariknetwork.com/health/do-you-chew-gum-each-piece-releases-thousands-of-microplastic-particles-44-77.html": 1792774890.2979326,
   "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZNVJ6eGNVeXhOcDctaTg0VnA3UFpSWXBnblc0bEl6Z0xodG9SUEY3bGhZa1N1NldSVmV3c19ndGdIRnNmbEc5ZzVKQTdyOG82V1BXdDVFV0szd1F0OTYwT0VHbnBFUWx5d0VrOG81ZDJBRS1vTDgyY1RxUU9FYUk?oc=5": 1792775450.4166014,
   "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbUMzaE5oMnlXc0VJVzUtajdBdG9Cd0hSVzMzdjVqS2NPVFpkdUlfWDMwcjMzYkQ2b29ob3JEVTNBeVljZWFsd3JWZHFLODc4TUY0YUswZWN5N2pXRHEtZGluNmJVVkhyclpFNFVQa05pNkhxeERoQ2MtcGtuVnR5RUxhaw?oc=5": 1792775450.4166014,
   "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQT01vZFJOSU1FM1JzV2dRRDBHNHo2LTBrN0c2eEZUYUY5dHdiSEdFejdNd2h6UC1vVC00NlctdUFKcjZnUlFwSXRXelktX2tGUGQwZlZ3MkJMeE0tSG83NHN4ZW9sZlRKWnp3Y0pWVlkxbGtzQkhpZU1WS0JQR3FyMkg3cHN4dW91YnZSWUNrbG8yakYtNGxwZllTVnhLQlhlcjhtX0FJRmhlQS16SXk1RUdDMnRuekJGTWtySTZIZWVQWGVaaHdhUw?oc=5": 1792775450.4166014,
@@ -1354,7 +1344,8 @@
   "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMmw1VWVJdjhSOTdMTGlveWprY2dlQXZDR25sTEZGUVYybFRQaDF2U05pU1Fka2ppVGx4amhBQi04MjJQZnBhejF1NF9GcW1iX3FPa2x2NU55TVFSWUNiaE9uWm1mVXVpTVVCeUxHUkY2d3JfWDJLazJmV21kdzRBbnpUU0YtT3ZsbFd1alZOVzcxS0pEaS1XQmh2TWNxZDBCSzBkaDZES3JMNlRsY1JmN0FhWHJ5Zw?oc=5": 1792946452.1288562,
   "https://news.google.com/rss/articles/CBMivgFBVV95cUxOS3pTZzZMX2k3WG1hbEtNUG9BYlFlWUp6OVhnWGRuS3lFZEw5STY3c1prVWhUYVByMHpuVzBLQ2h4b3U2Qmctbll5YkFxTlNpRHVRcUdsNXpMLTVHaV9QajhnS1hHWHRvQndERm9XOW0xeTJ3U0hfVi1FYnVGUTB0X1gyNGhuaW83a3loUnZpbl85eEhveE1NZDZ5U21BLWxYRzdxTmo5dmEwTFNmQ1dLSWdoVmo0X1hFSmVQZWJB?oc=5": 1792946452.1288562,
   "https://news.google.com/rss/articles/CBMipAFBVV95cUxQR0MyRThOOGNaa1p2a3pDZU5qUmU0OWNPRXo3blVydTN3UVZMMUQ1ay1McXBMY2loUmxCWHRHZ1JfTm5JNEhETnhtY05CMXpzNEFHd1hIT2hjSEF5OHJyanFNYm12cHdLbDZOcW5wMU1jZUhCZzZQcWdOc2wxcFJYWEJtd0tYeWRqZldSRnh2Q3lQOVJNdjg1WG1wcnJJNjJBQTZTSg?oc=5": 1792947687.9406707,
-  "https://gorkhapatraonline.com/news/227235": 1792947687.9406707
+  "https://gorkhapatraonline.com/news/227235": 1792947687.9406707,
+  "http://english.ratopati.com/story/84521/liverpools-impressive-win-brighton-defeated-2-0": 1792948247.7625644
  },
  "queue": [
   {
@@ -1382,99 +1373,6 @@
    "hits": 1
   },
   {
-   "title": "Supreme Court rules prisoners with capped sentences can still be considered for parole",
-   "summary": "Kathmandu, October 25 Nepal's Supreme Court has ruled that prisoners benefiting from the statutory cap on cumulative imprisonment cannot be denied parole solely because they have received that benefit. Overturning a...",
-   "link": "https://english.onlinekhabar.com/prisoners-capped-sentences-parole.html",
-   "source": "Onlinekhabar EN",
-   "ts": 1792919371,
-   "weight": 3,
-   "img": "http://english.onlinekhabar.com/wp-content/uploads/2022/02/supreme-court-3-news-1024x624-1.jpg",
-   "lang": "en",
-   "hl": "Supreme Court rules prisoners with capped sentences can still be considered for parole",
-   "en": "Supreme Court rules prisoners with capped sentences can still be considered for parole",
-   "ne": "Supreme Court rules prisoners with capped sentences can still be considered for parole",
-   "imp": 3,
-   "tags": [
-    "SupremeCourt",
-    "Prisoners",
-    "Parole"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "सुनचाँदीको मूल्य घट्यो",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/505635",
-   "source": "Baahrakhari",
-   "ts": 1792919014,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "सुनचाँदीको मूल्य घट्यो",
-   "en": "सुनचाँदीको मूल्य घट्यो",
-   "ne": "सुनचाँदीको मूल्य घट्यो",
-   "imp": 2,
-   "tags": [
-    "Gold",
-    "Silver",
-    "MarketPrice",
-    "सुनचाँदी"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "अर्थ मन्त्रालय अन्तर्गतका ५ सहसचिव रिक्त, दुई निकायमा छैनन् प्रमुख",
-   "summary": "'निमित्तको जिम्मेवारी दिएर दैनिक काम चलाउन सकिन्छ। तर, महत्त्वपूर्ण नीतिगत निर्णय गर्नुपर्ने विषयमा नियमित प्रमुख नहुँदा प्रक्रिया सहज नहुन सक्छ,' मन्त्रालयका एक अधिकारीले भने।",
-   "link": "https://www.setopati.com/kinmel/economy/401267",
-   "source": "Setopati",
-   "ts": 1792918980,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "अर्थ मन्त्रालय अन्तर्गतका ५ सहसचिव रिक्त, दुई निकायमा छैनन् प्रमुख",
-   "en": "अर्थ मन्त्रालय अन्तर्गतका ५ सहसचिव रिक्त, दुई निकायमा छैनन् प्रमुख",
-   "ne": "अर्थ मन्त्रालय अन्तर्गतका ५ सहसचिव रिक्त, दुई निकायमा छैनन् प्रमुख",
-   "imp": 3,
-   "tags": [
-    "MinistryOfFinance",
-    "GovtJobs",
-    "अर्थमन्त्रालय"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "New Leadership Appointed to Film Development Board Amidst Industry Challenges",
-   "summary": "Kathmandu. Regardless of the big debates and slogans outside, the basic structural reform in the Nepali film sector has not...",
-   "link": "http://english.ratopati.com/story/84484/manish-pandit-at-the-helm-of-the-film-development-board-amidst-expectations-and-challenges",
-   "source": "Ratopati EN",
-   "ts": 1792919252,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/manish-pandit_mO7j42tPim.webp",
-   "lang": "en",
-   "hl": "New Leadership Appointed to Film Development Board Amidst Industry Challenges",
-   "en": "New Leadership Appointed to Film Development Board Amidst Industry Challenges",
-   "ne": "New Leadership Appointed to Film Development Board Amidst Industry Challenges",
-   "imp": 2,
-   "tags": [
-    "FilmDevelopmentBoard",
-    "NepaliCinema",
-    "Entertainment"
-   ],
-   "cat": "culture",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "६७ वर्षे जंग गिरीको सक्रिय जीवन: ७७५ रुपैयाँको बिचारी जागिरदेखि कृषि उद्यमीसम्म",
    "summary": "फलफूल खेतीसँगै पशुपालन पनि गिरीको आम्दानीको अर्को आधार हो। उनले ९५ हजार रुपैयाँमा भैँसी खरिद गरेका थिए।...",
    "link": "https://nagariknews.nagariknetwork.com/social-affairs/67-year-old-jung-giri-s-active-life-from-a-poor-rs-775-job-to-an-agricultural-entrepreneur-br-38-21.html",
@@ -1494,30 +1392,6 @@
     "कृषि"
    ],
    "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "अउडीले अमेरिकामा पहिलो कारखाना खोल्न ४ दशमलव २ अर्ब डलर लगानी गर्ने",
-   "summary": "जर्मन कार निर्माता कम्पनी अउडीले अमेरिकामा आफ्नो पहिलो कारखाना निर्माण गर्न चार दशमलव दुई अर्ब अमेरिकी डलर लगानी गर्ने योजना बनाएको अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्पले बताएका छन्।...",
-   "link": "https://nagariknews.nagariknetwork.com/international/audi-to-invest-4-2-billion-to-open-first-factory-in-the-us-br-28-70.html",
-   "source": "Nagarik News",
-   "ts": 1792919077,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1782617903_trump.jpg",
-   "lang": "ne",
-   "hl": "अउडीले अमेरिकामा पहिलो कारखाना खोल्न ४ दशमलव २ अर्ब डलर लगानी गर्ने",
-   "en": "अउडीले अमेरिकामा पहिलो कारखाना खोल्न ४ दशमलव २ अर्ब डलर लगानी गर्ने",
-   "ne": "अउडीले अमेरिकामा पहिलो कारखाना खोल्न ४ दशमलव २ अर्ब डलर लगानी गर्ने",
-   "imp": 1,
-   "tags": [
-    "Audi",
-    "USA",
-    "Investment",
-    "Factory"
-   ],
-   "cat": "economy",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -3965,20 +3839,32 @@
    "val": 1,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "Liverpool Defeats Brighton 2-0 in Premier League",
+   "summary": "London. English Premier League football club Liverpool Football Club has registered its first home win by defeating Brighton Football Club...",
+   "link": "http://english.ratopati.com/story/84521/liverpools-impressive-win-brighton-defeated-2-0",
+   "source": "Ratopati EN",
+   "ts": 1792947788,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/864207504_1697377041719046_305272481754394145_n_xGy8EUAKPX.webp",
+   "lang": "en",
+   "hl": "Liverpool Defeats Brighton 2-0 in Premier League",
+   "en": "Liverpool Defeats Brighton 2-0 in Premier League",
+   "ne": "Liverpool Defeats Brighton 2-0 in Premier League",
+   "imp": 1,
+   "tags": [
+    "Liverpool",
+    "Brighton",
+    "PremierLeague"
+   ],
+   "cat": "sports",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1792342892.3038306,
-   "en": "Nepal-India Charas Smuggling Network Busted With Rs 3 Crore Contraband In Bihar",
-   "ne": "Nepal-India Charas Smuggling Network Busted With Rs 3 Crore Contraband In Bihar",
-   "link": "https://www.rediff.com/news/report/dri-bihar-stf-seize-3-kg-charas-in-muzaffarpur/20261018.htm",
-   "source": "Rediff",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "crime"
-  },
   {
    "ts": 1792362055.5707026,
    "en": "Nepal elected to UN Human Rights Council",
@@ -6873,7 +6759,7 @@
    "cat": "sports"
   }
  ],
- "updated": 1792947693,
+ "updated": 1792948252,
  "pending_since": 1792946452.1288562,
  "fb_blocks": [
   1790350880.4125228,
