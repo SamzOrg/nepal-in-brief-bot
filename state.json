@@ -1245,7 +1245,9 @@
   "https://risingnepaldaily.com/news/88007": 1792902047.6621783,
   "https://gorkhapatraonline.com/news/227179": 1792902047.6621783,
   "https://nagariknews.nagariknetwork.com/sports/infantino-claims-he-has-the-support-of-an-overwhelming-majority-of-members-for-re-election-55-45.html": 1792902047.6621783,
-  "https://nagariknews.nagariknetwork.com/arts/is-tiger-planning-to-leave-mumbai-after-the-shooting-incident-83-94.html": 1792902047.6621783
+  "https://nagariknews.nagariknetwork.com/arts/is-tiger-planning-to-leave-mumbai-after-the-shooting-incident-83-94.html": 1792902047.6621783,
+  "https://gorkhapatraonline.com/news/227184": 1792902666.0797868,
+  "http://english.ratopati.com/story/84454/see-7-photos-of-the-week": 1792902666.0797868
  },
  "queue": [
   {
@@ -1338,29 +1340,6 @@
    "val": 3,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "'पोलियो अन्त्य गरौँ' भन्दै काठमाडौंका ७ सम्पदा स्थलमा ५०० बढी साइकल यात्री",
-   "summary": "विश्व पोलियो दिवसको अवसरमा शनिबार काठमाडौँ उपत्यकाका सातवटा विश्व सम्पदा स्थललाई जोड्दै ५०० भन्दा बढी साइकल यात्रीले पोलियो उन्मूलनको सन्देश फैलाएका छन् ।रोटरी इन्टरनेशनल डिस्ट्रिक्ट ३२९२ अन्तर्गतको पोलियोप्लस उपसमितिले...",
-   "link": "http://lokaantar.com/story/331853/2026/10/25/cyle-",
-   "source": "Lokaantar",
-   "ts": 1792873251.8162081,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "'पोलियो अन्त्य गरौँ' भन्दै काठमाडौंका ७ सम्पदा स्थलमा ५०० बढी साइकल यात्री",
-   "en": "'पोलियो अन्त्य गरौँ' भन्दै काठमाडौंका ७ सम्पदा स्थलमा ५०० बढी साइकल यात्री",
-   "ne": "'पोलियो अन्त्य गरौँ' भन्दै काठमाडौंका ७ सम्पदा स्थलमा ५०० बढी साइकल यात्री",
-   "imp": 2,
-   "tags": [
-    "Polio",
-    "Kathmandu",
-    "പലയ"
-   ],
-   "cat": "health",
-   "val": 3,
-   "teaser": false,
-   "hits": 3
   },
   {
    "title": "Light rain likely in parts of Koshi and Gandaki today",
@@ -4148,6 +4127,52 @@
    "cat": "culture",
    "val": 1,
    "teaser": true,
+   "hits": 1
+  },
+  {
+   "title": "बाढीले खोस्यो खुसी: सुनसान बन्यो सेतीबेनी बजार",
+   "summary": "राधाकृष्ण डुम्रेवालिङ (स्याङ्जा), कात्तिक ८ गते । सधैँ चलनचल्तीको सेतीबेनी बजार यो पटकको दशैँमा सुनसान रह्यो । चाडपर्वका बेला व्यापारी र तीर्थालु भक्तजनको ठुलो भिड रहने सेतीबेनीमा...",
+   "link": "https://gorkhapatraonline.com/news/227184",
+   "source": "Gorkhapatra",
+   "ts": 1792902435,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/388804/conversions/Untitled-1-original.jpg",
+   "lang": "ne",
+   "hl": "बाढीले खोस्यो खुसी: सुनसान बन्यो सेतीबेनी बजार",
+   "en": "बाढीले खोस्यो खुसी: सुनसान बन्यो सेतीबेनी बजार",
+   "ne": "बाढीले खोस्यो खुसी: सुनसान बन्यो सेतीबेनी बजार",
+   "imp": 3,
+   "tags": [
+    "Flood",
+    "Setibeni",
+    "बाढी"
+   ],
+   "cat": "disaster",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Weekly Photo Highlights: Floods, Festivals, and Political Campaigns",
+   "summary": "Kathmandu. Various events took place across the country last week. The main events among them have been presented in Rato...",
+   "link": "http://english.ratopati.com/story/84454/see-7-photos-of-the-week",
+   "source": "Ratopati EN",
+   "ts": 1792902290,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/sta_Af9wc3yG5v.webp",
+   "lang": "en",
+   "hl": "Weekly Photo Highlights: Floods, Festivals, and Political Campaigns",
+   "en": "Weekly Photo Highlights: Floods, Festivals, and Political Campaigns",
+   "ne": "Weekly Photo Highlights: Floods, Festivals, and Political Campaigns",
+   "imp": 2,
+   "tags": [
+    "PhotoFeature",
+    "Floods",
+    "Dashain"
+   ],
+   "cat": "society",
+   "val": 1,
+   "teaser": false,
    "hits": 1
   }
  ],
@@ -7046,8 +7071,8 @@
    "cat": "politics"
   }
  ],
- "updated": 1792902064,
- "pending_since": null,
+ "updated": 1792902671,
+ "pending_since": 1792902666.0797868,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
