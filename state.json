@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://kathmandupost.com/world/2026/10/23/earthquake-of-magnitude-7-strikes-china-s-tibet-killing-16": 1792718447.9653318,
   "http://english.ratopati.com/story/84306/cricket-legend-naveen-singh-who-was-overlooked-amidst-the-glitter-of-the-multi-million-npl": 1792719071.999971,
   "https://baahrakhari.com/detail/505492": 1792719071.999971,
   "https://nagariknews.nagariknetwork.com/politics/nepali-congress-expresses-sorrow-over-death-of-nepali-in-saudi-arabia-11-76.html": 1792719071.999971,
@@ -1186,7 +1185,10 @@
   "https://gorkhapatraonline.com/news/227161": 1792890082.2391863,
   "https://nagariknews.nagariknetwork.com/Dharma-Saskriti/manmaneshwori-bhavani-s-payo-jatra-concludes-br-21-22.html": 1792890082.2391863,
   "https://nagariknews.nagariknetwork.com/social-affairs/what-will-the-weather-be-like-in-which-province-by-wednesday-this-is-the-forecast-97-45.html": 1792890082.2391863,
-  "https://nagariknews.nagariknetwork.com/Dharma-Saskriti/dashain-concludes-with-kojagrat-purnima-mahalakshmi-puja-and-jagram-today-31-12.html": 1792890082.2391863
+  "https://nagariknews.nagariknetwork.com/Dharma-Saskriti/dashain-concludes-with-kojagrat-purnima-mahalakshmi-puja-and-jagram-today-31-12.html": 1792890082.2391863,
+  "https://nagariknews.nagariknetwork.com/social-affairs/more-than-500-cyclists-visit-seven-heritage-sites-in-the-valley-carrying-the-message-of-ending-polio-br-94-78.html": 1792891248.3819985,
+  "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeEc2T1RxUW5tbXB3NVJmUklyYV8wdGJnZFlRdEZiYnlFS2lsYUxKZldYUUtRVTdRRWI5WWNrLUNUamJCTHZJaUM1QTc2eGlKcnNDZE4ySFpDR0JmVDV5MUlkd2FrcXVuc3hZMnBYNWtIM1VrLUFxTW9DbUZNSkR6eHY5aFFJUUE3aEp4RmpfQWxtZGZYVXRYUHhyQUpKQVBH?oc=5": 1792891248.3819985,
+  "https://nagariknews.nagariknetwork.com/politics/minister-pun-s-interest-in-phaparkhet-landslide-and-protection-of-singa-tatopani-pond-br-40-67.html": 1792891248.3819985
  },
  "queue": [
   {
@@ -1229,52 +1231,6 @@
     "Brazil",
     "Election",
     "Diplomacy"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Youth Across Europe Protest Budget Shortages, Rising Costs, and Lack of Opportunity",
-   "summary": "Kathmandu. Across Europe, the younger generation has taken to the streets protesting various issues ranging from budget shortages in education...",
-   "link": "http://english.ratopati.com/story/84430/why-are-europes-gen-zs-leading-the-movement",
-   "source": "Ratopati EN",
-   "ts": 1792862095,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/capture5_nKqTe4gZ2v.webp",
-   "lang": "en",
-   "hl": "Youth Across Europe Protest Budget Shortages, Rising Costs, and Lack of Opportunity",
-   "en": "Youth Across Europe Protest Budget Shortages, Rising Costs, and Lack of Opportunity",
-   "ne": "Youth Across Europe Protest Budget Shortages, Rising Costs, and Lack of Opportunity",
-   "imp": 1,
-   "tags": [
-    "Europe",
-    "Protest",
-    "Economy"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Trump Administration Removes Some Tariffs on Canadian Imports",
-   "summary": "Kathmandu. The Trump administration has removed some tariffs on imports from Canada on Friday. This step has been taken two...",
-   "link": "http://english.ratopati.com/story/84429/us-midterm-elections-tariffs-on-some-canadian-goods-lifted",
-   "source": "Ratopati EN",
-   "ts": 1792861931,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/usa-canada-trade-war_3FlRfwCcnj.jpg",
-   "lang": "en",
-   "hl": "Trump Administration Removes Some Tariffs on Canadian Imports",
-   "en": "Trump Administration Removes Some Tariffs on Canadian Imports",
-   "ne": "Trump Administration Removes Some Tariffs on Canadian Imports",
-   "imp": 1,
-   "tags": [
-    "Trump",
-    "Canada",
-    "Tariffs"
    ],
    "cat": "world",
    "val": 3,
@@ -1393,7 +1349,7 @@
    "cat": "health",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "Light rain likely in parts of Koshi and Gandaki today",
@@ -1852,6 +1808,29 @@
     "Dashain"
    ],
    "cat": "culture",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "फापरखेत पहिरो र सिङ्गा-तातोपानी कुण्ड संरक्षणमा मन्त्री पुनको चासो",
+   "summary": "मन्त्री पुनलाई म्याग्दीका प्रमुख जिल्ला अधिकारी गणेश गैरेले पहिरोको समस्या र वैकल्पिक उपायका विषयमा जानकारी गराएका थिए।...",
+   "link": "https://nagariknews.nagariknetwork.com/politics/minister-pun-s-interest-in-phaparkhet-landslide-and-protection-of-singa-tatopani-pond-br-40-67.html",
+   "source": "Nagarik News",
+   "ts": 1792890301,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2025/third-party/1792890294_pun.jpg",
+   "lang": "ne",
+   "hl": "फापरखेत पहिरो र सिङ्गा-तातोपानी कुण्ड संरक्षणमा मन्त्री पुनको चासो",
+   "en": "फापरखेत पहिरो र सिङ्गा-तातोपानी कुण्ड संरक्षणमा मन्त्री पुनको चासो",
+   "ne": "फापरखेत पहिरो र सिङ्गा-तातोपानी कुण्ड संरक्षणमा मन्त्री पुनको चासो",
+   "imp": 3,
+   "tags": [
+    "पहिरो",
+    "Tatopani",
+    "Pun"
+   ],
+   "cat": "politics",
    "val": 2,
    "teaser": false,
    "hits": 1
@@ -4750,9 +4729,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "society"
+  },
+  {
+   "ts": 1792891268.6666641,
+   "en": "UN Climate Fund Sets Aside $21.6M for Nepal After August Floods",
+   "ne": "UN Climate Fund Sets Aside $21.6M for Nepal After August Floods",
+   "link": "https://www.nationpathindia.com/international/un-climate-fund-nepal-bhote-koshi-flood-recovery-2026",
+   "source": "www.nationpathindia.com",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "disaster"
   }
  ],
- "updated": 1792890651,
+ "updated": 1792891287,
  "pending_since": 1792890647.9072216,
  "fb_blocks": [
   1790350880.4125228,
