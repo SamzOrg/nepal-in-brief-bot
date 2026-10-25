@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMiswFBVV95cUxQT3M2MG8zc2ZXRmo3bUtYVmRBa1VrU0NBUXVOTHlWZUtFTDI5d1U0Y2tJOGdGQnJhbEhCLWs3UHBHOF9wbW1BZFZVZEhGejNUMkhxS3IxMDRySGV0dkR1M2R1UDN5LXJvUjJxM0RPdDdnYU1jcDRzbHIzWkU3RVhiaTVURm85V18yc0NNVFBYYW5YQmRPUXNWNVVDcTgxX1drMkt2bGFJN1I0dWt2V1BobzlNZw?oc=5": 1792797650.721203,
   "https://www.setopati.com/social/401209": 1792801246.3705106,
   "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdW9wX2xhSV9Ud2NOQzhtb3MtTEZ4cEVFS1JDTmlwNi1teFZEamtpeGlBQ0xCRmIyMTg5S2ZoODg4M3dSUHI4WUU4SkIwV1pRRUppYllqcnJkcW51eVliMzY0aGcxM3ZyRkJaN1FMMEhGcGJWV3BUYi1FeW5MeFUtazFtUllxX0ZuWHFra25rMGItQzBJWnFjbXNQX3F2RmhjRnpWaVVnMzVfLWNGby1mbE5WODg?oc=5": 1792801246.3705106,
   "http://english.ratopati.com/story/84370/nepals-three-climate-project-proposals-approved-by-adaptation-fund": 1792801868.3745944,
@@ -1362,29 +1361,6 @@
  },
  "queue": [
   {
-   "title": "एनपीएलको पारदर्शिताबारे उठेका प्रश्नमा पारस भन्छन्- सुधार गर्न तयार छौँ",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/505659",
-   "source": "Baahrakhari",
-   "ts": 1792941698,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "एनपीएलको पारदर्शिताबारे उठेका प्रश्नमा पारस भन्छन्- सुधार गर्न तयार छौँ",
-   "en": "एनपीएलको पारदर्शिताबारे उठेका प्रश्नमा पारस भन्छन्- सुधार गर्न तयार छौँ",
-   "ne": "एनपीएलको पारदर्शिताबारे उठेका प्रश्नमा पारस भन्छन्- सुधार गर्न तयार छौँ",
-   "imp": 3,
-   "tags": [
-    "NPL",
-    "ParasKhadka",
-    "Cricket"
-   ],
-   "cat": "sports",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "भोटेकोशी बाढीले सर्वसाधारणको निजी सम्पत्तिमा ७९ अर्बको क्षति",
    "summary": "यो प्रारम्भिक मूल्यांकनमा सडक, जलविद्युत् आयोजना तथा अन्य पूर्वाधार, उत्पादनशील क्षेत्र, सामाजिक क्षेत्र र वातावरणमा भएको क्षति समेटिएको छैन। ती क्षेत्रको क्षतिसमेत जोड्दा बाढीबाट भएको समग्र आर्थिक क्षति अझै बढ्ने...",
    "link": "https://nagariknews.nagariknetwork.com/economy/bhotekoshi-flood-causes-rs-79-billion-damage-to-private-property-of-the-general-public-81-88.html",
@@ -1823,17 +1799,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1792365653.6600473,
-   "en": "Nepal-origin charas seized in Muzaffarpur, two held",
-   "ne": "Nepal-origin charas seized in Muzaffarpur, two held",
-   "link": "https://timesofindia.indiatimes.com/city/patna/nepal-origin-charas-seized-in-muzaffarpur-two-held/amp_articleshow/135031932.cms",
-   "source": "The Times of India",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "crime"
-  },
   {
    "ts": 1792367455.6050656,
    "en": "रसुवा-भोटेकोशी बाढीमा बेपत्ता भएकाको विवरण बुझाउन पाँच दिनको समय",
@@ -4728,7 +4693,7 @@
    "cat": "sports"
   }
  ],
- "updated": 1792970478,
+ "updated": 1792971069,
  "pending_since": 1792969284.481445,
  "fb_blocks": [
   1790350880.4125228,
