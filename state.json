@@ -1351,7 +1351,8 @@
   "http://lokaantar.com/story/331910/2026/10/25/game-": 1792948848.4459503,
   "http://english.ratopati.com/story/84520/iranian-military-claims-to-have-shot-down-us-drone": 1792948848.4459503,
   "http://english.ratopati.com/story/84525/crystal-palace-lost-2-0-to-newcastle": 1792949471.2166767,
-  "https://news.google.com/rss/articles/CBMif0FVX3lxTE1OZnI5eHpydjFWSDJmUUp4U0EwRW4yZWpoYVRJSTJYWjFiYWtjSm5POVo2SGthQXl2U09CeVlnNUpVR3V3X1Y5ejF5RmVhWDNfX3J0Zjk4bmFzNmtfVkgtNWZkYnhhNTdtNWN6TTNoTEhYU1JCZjBfMjBUQkh2LUU?oc=5": 1792949471.2166767
+  "https://news.google.com/rss/articles/CBMif0FVX3lxTE1OZnI5eHpydjFWSDJmUUp4U0EwRW4yZWpoYVRJSTJYWjFiYWtjSm5POVo2SGthQXl2U09CeVlnNUpVR3V3X1Y5ejF5RmVhWDNfX3J0Zjk4bmFzNmtfVkgtNWZkYnhhNTdtNWN6TTNoTEhYU1JCZjBfMjBUQkh2LUU?oc=5": 1792949471.2166767,
+  "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNd2FwODA4UVVTb2Z5SC1nR01RZWlCUGl1V3F6VlBGZEdyUUFLbS1YbjEzeGlKZzR4S2R1ZGtMcE9SNWFWc3BJRTNkYWU1aWlCeU1wZ3BDYkhJc2xJcEJYVFhGNE5UNWlxV094ZjVJY0dwUjNBZ2Q2c3JsUGsxaXdTVHlOUV96MVpwY2FhZ05lNmdnMnVoMVEzUkY0ZG1pOEo2VlIxT1JwRUVyb3pvX0ZCZHFCN2JreFhET1VJTThlQ0JpOU1kWVlSNW5SOTNoeGc1V2VySk1McDRWQUs4UGw2N2tFVHAzUkFOeTNwcDBhOFN4Znhf?oc=5": 1792950617.0534592
  },
  "queue": [
   {
@@ -1375,53 +1376,6 @@
    ],
    "cat": "disaster",
    "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Protests Erupt in Arunachal Pradesh Over Proposed Dam Project, Clashes with Police Reported",
-   "summary": "Kathmandu. Clashes have occurred between protesters and police in Arunachal Pradesh, India, against a proposed massive hydropower dam project in...",
-   "link": "http://english.ratopati.com/story/84488/protest-against-indias-dam-project-40-police-injured",
-   "source": "Ratopati EN",
-   "ts": 1792921383,
-   "weight": 2,
-   "img": "https://rpcdn.ratopati.com/media/albums/indian_police_0yYJIVyt6z.jpg",
-   "lang": "en",
-   "hl": "Protests Erupt in Arunachal Pradesh Over Proposed Dam Project, Clashes with Police Reported",
-   "en": "Protests Erupt in Arunachal Pradesh Over Proposed Dam Project, Clashes with Police Reported",
-   "ne": "Protests Erupt in Arunachal Pradesh Over Proposed Dam Project, Clashes with Police Reported",
-   "imp": 1,
-   "tags": [
-    "ArunachalPradesh",
-    "India",
-    "Protest",
-    "Dam"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "ब्राजिलमा राष्ट्रपति चयनका निम्ति दोस्रो चरणको मतदान",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/505636",
-   "source": "Baahrakhari",
-   "ts": 1792921260,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "ब्राजिलमा राष्ट्रपति चयनका निम्ति दोस्रो चरणको मतदान",
-   "en": "ब्राजिलमा राष्ट्रपति चयनका निम्ति दोस्रो चरणको मतदान",
-   "ne": "ब्राजिलमा राष्ट्रपति चयनका निम्ति दोस्रो चरणको मतदान",
-   "imp": 1,
-   "tags": [
-    "Brazil",
-    "Election",
-    "President"
-   ],
-   "cat": "world",
-   "val": 3,
    "teaser": false,
    "hits": 1
   },
@@ -6695,7 +6649,7 @@
    "cat": "sports"
   }
  ],
- "updated": 1792950059,
+ "updated": 1792950621,
  "pending_since": 1792949471.2166767,
  "fb_blocks": [
   1790350880.4125228,
