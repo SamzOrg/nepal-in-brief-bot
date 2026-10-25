@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://baahrakhari.com/detail/505489": 1792714894.3014786,
   "http://english.ratopati.com/story/84305/rashtriya-swayamsevak-sangh-rss-president-rabi-lamichhane-is-leaving-for-india-today-for-a-3-day-visit": 1792715470.237943,
   "https://baahrakhari.com/detail/505490": 1792715470.237943,
   "https://nagariknews.nagariknetwork.com/social-affairs/manaslu-larke-pass-trekking-open-taan-urges-to-travel-with-caution-51-79.html": 1792715470.237943,
@@ -1236,29 +1235,6 @@
    "hits": 2
   },
   {
-   "title": "दाङमा सराय नाच मेलाको सुरुआत",
-   "summary": "घोराही (दाङ), कात्तिक ७ गते । दाङमा यस वर्षदेखि सराय नाच मेलाको सुरुआत गरिएको छ । घोराही उपमहानगरपालिका-१८ स्थित अम्बिकेश्वरी मन्दिर व्यवस्थापन समितिको आयोजनामा आज सराय नाच मेलाको...",
-   "link": "https://gorkhapatraonline.com/news/227155",
-   "source": "Gorkhapatra",
-   "ts": 1792858969,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/388774/conversions/KN_DANG_RSS_7_DSC_8269-original.jpg",
-   "lang": "ne",
-   "hl": "दाङमा सराय नाच मेलाको सुरुआत",
-   "en": "दाङमा सराय नाच मेलाको सुरुआत",
-   "ne": "दाङमा सराय नाच मेलाको सुरुआत",
-   "imp": 2,
-   "tags": [
-    "Dang",
-    "SarayaNach",
-    "सरायनाच"
-   ],
-   "cat": "culture",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "'पदभन्दा ठुलो पौरख' पुस्तक लोकार्पित",
    "summary": "गोरखापत्र अनलाइनकाठमाडौँ, कात्तिक ७ गते। सरकारका पूर्व उपसचिव मीनप्रसाद ज्ञवालीद्वारा लिखित आत्मकथा पुस्तक 'पदभन्दा ठुलो पौरख' सार्वजनिक भएको छ। शनिवार काठमाडौँको कमलादीस्थित नेपाल...",
    "link": "https://gorkhapatraonline.com/news/227159",
@@ -1558,17 +1534,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1792282856.6745977,
-   "en": "Dashain rush brings Nepalese shoppers to Panitanki as Indo-Nepal border security is tightened",
-   "ne": "Dashain rush brings Nepalese shoppers to Panitanki as Indo-Nepal border security is tightened",
-   "link": "https://sikkimexpress.com/news-details/dashain-rush-sees-heavy-influx-of-nepaleseshoppers-at-panitanki-security-tightened-along-indo-nepal-border",
-   "source": "Sikkimexpress",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "society"
-  },
   {
    "ts": 1792284650.1689425,
    "en": "ओखलढुङ्गामा करेन्ट लागेर ५४ वर्षीया महिलाको मृत्यु",
@@ -4463,8 +4428,8 @@
    "cat": "culture"
   }
  ],
- "updated": 1792887673,
- "pending_since": null,
+ "updated": 1792888230,
+ "pending_since": 1792888226.8456285,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
