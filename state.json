@@ -1192,52 +1192,6 @@
  },
  "queue": [
   {
-   "title": "'पदभन्दा ठुलो पौरख' पुस्तक लोकार्पित",
-   "summary": "गोरखापत्र अनलाइनकाठमाडौँ, कात्तिक ७ गते। सरकारका पूर्व उपसचिव मीनप्रसाद ज्ञवालीद्वारा लिखित आत्मकथा पुस्तक 'पदभन्दा ठुलो पौरख' सार्वजनिक भएको छ। शनिवार काठमाडौँको कमलादीस्थित नेपाल...",
-   "link": "https://gorkhapatraonline.com/news/227159",
-   "source": "Gorkhapatra",
-   "ts": 1792862822,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/388777/conversions/book-release-original.jpg",
-   "lang": "ne",
-   "hl": "'पदभन्दा ठुलो पौरख' पुस्तक लोकार्पित",
-   "en": "'पदभन्दा ठुलो पौरख' पुस्तक लोकार्पित",
-   "ne": "'पदभन्दा ठुलो पौरख' पुस्तक लोकार्पित",
-   "imp": 2,
-   "tags": [
-    "BookLaunch",
-    "Nepal",
-    "पुस्तक"
-   ],
-   "cat": "culture",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Brazil Presidential Candidates Engage in Heated Diplomatic Debate",
-   "summary": "Kathmandu. Brazil's President Luiz Inácio Lula da Silva and right-wing leader Flávio Bolsonaro engaged in a diplomatic debate on the...",
-   "link": "http://english.ratopati.com/story/84431/lula-and-bolsonaro-both-sound-calm-in-final-election-debate",
-   "source": "Ratopati EN",
-   "ts": 1792862669,
-   "weight": 2,
-   "img": "https://rpcdn.ratopati.com/media/albums/brazil-flag_rbSmpilStW.JPG",
-   "lang": "en",
-   "hl": "Brazil Presidential Candidates Engage in Heated Diplomatic Debate",
-   "en": "Brazil Presidential Candidates Engage in Heated Diplomatic Debate",
-   "ne": "Brazil Presidential Candidates Engage in Heated Diplomatic Debate",
-   "imp": 1,
-   "tags": [
-    "Brazil",
-    "Election",
-    "Diplomacy"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Tottenham Hotspur Defeats Chelsea 2-0 in Premier League",
    "summary": "Kathmandu. In a match of the English Premier League, Tottenham Hotspur (Spurs) defeated Chelsea by a score of 2-0.In a...",
    "link": "http://english.ratopati.com/story/84432/tottenham-win-beating-chelsea-2-0",
@@ -1837,17 +1791,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1792286451.8354204,
-   "en": "Nepal floods are defining moment for global climate action: UN",
-   "ne": "Nepal floods are defining moment for global climate action: UN",
-   "link": "https://www.cp24.com/news/world/2026/10/17/nepal-floods-defining-moment-for-climate-action-un/",
-   "source": "CP24",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "disaster"
-  },
   {
    "ts": 1792288270.7640254,
    "en": "3 Dead, 4 Injured as Sumo Falls into Sunkoshi River in Sindhuli",
@@ -4742,7 +4685,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1792891287,
+ "updated": 1792891870,
  "pending_since": 1792890647.9072216,
  "fb_blocks": [
   1790350880.4125228,
