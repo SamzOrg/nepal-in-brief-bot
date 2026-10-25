@@ -1,8 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcm9lX18xREt5OHdBQ2tqTy0yQ0dtdGxEY1Uyd09aNHlDZUNwRDBXeG96SW1KWUo4YmxrbFhIYzFqLXZQcThOcWIzcjdpLTJuRDF6M0F1NDJxV1FXa09QdlFNaVE5a1dTeXNXUHRrYkxkYko2MFVQNFZJNGVfN2plMlN3NlhEcldjOTYySjloeFNfWTQ?oc=5": 1792731687.3509352,
-  "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaUR4VURqSnhLOXRvQW42UElteUdTUDAtUl9LQllhbks1bWppc2IwbnN6aVI2X2tzWkZvczAzQ3Rmeno0dzF4aFotNEVDVlJRZ0NfNlBtS2pTb0Vma2VzcWh4anNhSjF0UkZWSWg0OVU5TTUzc0p1ckpUaU8tMExWS1lOYkRZQXU0MlF0MWpRcGlYUzlGWjZjZFR2T3dxNzJPMVE?oc=5": 1792731687.3509352,
-  "https://news.google.com/rss/articles/CBMisAFBVV95cUxOenQ0c2RJc05vQW5aRE1CRXlSYTZwTUdOenJvRGo1MGpwWHRTazIyWGtDTzZMc2VkR0JCM3M2cUdjTzJfaVpUQnZEYmM0bkQ5STNYbnlLZWE5TTNvbHJ4aHNnMm8wVnJQdEw4Z0pNOTVWYk93VVMweV9yaW5iZTNzdHZYQ183TWVhcklNYkdhdnBrNkFVWUc3R0dHdXpRUS1kcndvazdTd050ODVDWXBUag?oc=5": 1792731687.3509352,
   "http://lokaantar.com/story/331768/2026/10/23/accident-": 1792732252.1577346,
   "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQWtiTFVZUGRRUG96QmR6NEtUc1EyYXljVW1XQVFJYVRnc1ZJalVZVmVoOWZsQXVETUw5c3g4aTZ1VkFyN2tYREY4Q0xybGVxTl8ySm1KMlNkdVN0Q0xUaHdzam43MTYwUjAwT3dKTC1VY1ZDWWpuV3Mxb2tweERvSTR2NHp1SGRWXzVV?oc=5": 1792732252.1577346,
   "http://english.ratopati.com/story/84329/banking-sector-affected-by-php-software-vulnerability-which-services-were-shut-down": 1792732848.4551313,
@@ -1248,7 +1245,11 @@
   "https://nagariknews.nagariknetwork.com/social-affairs/five-arrested-on-charges-of-disturbing-religious-harmony-40-18.html": 1792904484.940668,
   "https://gorkhapatraonline.com/news/227183": 1792904484.940668,
   "https://nagariknews.nagariknetwork.com/arts/distractions-br-33-81.html": 1792904484.940668,
-  "https://nagariknews.nagariknetwork.com/social-affairs/youth-painting-to-raise-money-for-studies-br-99-82.html": 1792904484.940668
+  "https://nagariknews.nagariknetwork.com/social-affairs/youth-painting-to-raise-money-for-studies-br-99-82.html": 1792904484.940668,
+  "https://www.setopati.com/sports/npl/401250": 1792905047.9728866,
+  "https://nagariknews.nagariknetwork.com/international/6-killed-12-injured-in-express-bus-accident-in-myanmar-60-52.html": 1792905047.9728866,
+  "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JRk1DdFh1TF9TekMxMG56ZDNKaDE0V2dVQnlpOU1WMVZWUFBEZy1hMHZwWlB1M2l4UzRnSHcySEhpejg3SW9HUGhYdFpZakpRMEhwSU1WamU1Zw?oc=5": 1792905047.9728866,
+  "https://theannapurnaexpress.com/story/68188": 1792905047.9728866
  },
  "queue": [
   {
@@ -3200,7 +3201,7 @@
    "cat": "sports",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Albanian police fire tear gas as anti-government student protests turn violent",
@@ -3454,7 +3455,7 @@
    "cat": "society",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "Beyond the Patch: Nepal's Cybersecurity Wake-Up Call",
@@ -4519,17 +4520,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1792299692.5146945,
-   "en": "Nepal observes Maha Ashtami, the eighth day of Bada Dashain festival",
-   "ne": "Nepal observes Maha Ashtami, the eighth day of Bada Dashain festival",
-   "link": "https://theannapurnaexpress.com/story/68027",
-   "source": "Annapurna Express",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "culture"
-  },
   {
    "ts": 1792301475.9015038,
    "en": "One Dead in Kathmandu Brawl",
@@ -7413,8 +7403,8 @@
    "cat": "disaster"
   }
  ],
- "updated": 1792904490,
- "pending_since": null,
+ "updated": 1792905051,
+ "pending_since": 1792905047.9728866,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
