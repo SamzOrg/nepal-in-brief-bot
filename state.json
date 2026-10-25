@@ -1216,7 +1216,10 @@
   "https://theannapurnaexpress.com/story/68186": 1792897850.6033823,
   "https://baahrakhari.com/detail/505609": 1792897850.6033823,
   "https://english.onlinekhabar.com/democratic-legitimacy-in-an-age-of-populism.html": 1792897850.6033823,
-  "https://nagariknews.nagariknetwork.com/arts/dashain-story-br-16-27.html": 1792897850.6033823
+  "https://nagariknews.nagariknetwork.com/arts/dashain-story-br-16-27.html": 1792897850.6033823,
+  "https://english.khabarhub.com/2026/25/573056/": 1792898447.189573,
+  "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YcHZneVdqYW9Jb0NKMng1RTg3RkMxNVl3NVVjbTNodGJjcGRtS2J5a2lFWWZvZ0FUMU5MMHF2VmtpQTRTUkxacEpxdDB6ZDZycUxOZTVOdFpsZw?oc=5": 1792898447.189573,
+  "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSW9lSnhrRThLdjVYaTlrZFR3LUdJTWg4Q3ZzR1gwNjdwMS1CRnhJQ0QwUDZsNkI3U01Rekl2WTBJMGVPNmplS1kyUHVMNVpXX3l2Q2t3dmt0ZGVwRTNtN3N4OTR4N3JrQTVlMHByRV90dkZYSkVQQTVrM25DNUhIeE51d2NORTA2dWQyUm5ELXowZGFaMzU1M0RXQ056cW1LSUlZMVBmdDR2Q0R2QVQ3U3o3T01kb0kwQ0E1MzhR?oc=5": 1792898447.189573
  },
  "queue": [
   {
@@ -1447,28 +1450,6 @@
    "hits": 1
   },
   {
-   "title": "NRB fixes foreign currency exchange rates for Sunday",
-   "summary": "KATHMANDU: Nepal Rastra Bank (NRB) has published the official exchange rates of foreign currencies for Sunday, with the rates of major currencies, including the US dollar, Australian dollar, euro, pound sterling,...",
-   "link": "https://english.khabarhub.com/2026/25/573046/",
-   "source": "Khabarhub EN",
-   "ts": 1792889938,
-   "weight": 2,
-   "img": "https://english.khabarhub.com/wp-content/uploads/2024/05/Nepal-rastra-bank-640x360.jpg",
-   "lang": "en",
-   "hl": "NRB fixes foreign currency exchange rates for Sunday",
-   "en": "NRB fixes foreign currency exchange rates for Sunday",
-   "ne": "NRB fixes foreign currency exchange rates for Sunday",
-   "imp": 3,
-   "tags": [
-    "NRB",
-    "ExchangeRates"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 3
-  },
-  {
    "title": "तामाङ सम्पदा र रुविभ्याली पदमार्ग खुला",
    "summary": "रसुवामा अवस्थित तामाङ सम्पदा पदमार्ग र धादिङमा अवस्थित रुविभ्याली पदमार्ग पर्यटकका लागि खुला भएको छ।...",
    "link": "https://nagariknews.nagariknetwork.com/social-affairs/tamang-heritage-and-ruby-valley-trekking-trail-open-91-72.html",
@@ -1554,7 +1535,7 @@
    "cat": "disaster",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 3
   },
   {
    "title": "घट्दै चङ्गा 'चेट्' संस्कृति",
@@ -6303,10 +6284,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "crime"
+  },
+  {
+   "ts": 1792898454.239949,
+   "en": "Nepal Rastra Bank fixes foreign currency exchange rates for Sunday",
+   "ne": "Nepal Rastra Bank fixes foreign currency exchange rates for Sunday",
+   "link": "https://english.khabarhub.com/2026/25/573046/",
+   "source": "Khabarhub EN",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "economy"
   }
  ],
- "updated": 1792897857,
- "pending_since": null,
+ "updated": 1792898467,
+ "pending_since": 1792898447.189573,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
