@@ -1196,7 +1196,10 @@
   "http://lokaantar.com/story/331858/2026/10/25/bagmati-": 1792894249.5895915,
   "http://lokaantar.com/story/331856/2026/10/25/france-": 1792894249.5895915,
   "https://english.khabarhub.com/2026/25/573019/": 1792894855.040582,
-  "https://www.setopati.com/social/401241": 1792894855.040582
+  "https://www.setopati.com/social/401241": 1792894855.040582,
+  "https://baahrakhari.com/detail/505606": 1792895467.475921,
+  "http://lokaantar.com/story/331868/2026/10/25/gokul-baskota-": 1792895467.475921,
+  "http://english.ratopati.com/story/84444/sikh-landslide-victim-says-it-was-easier-to-live-in-an-empty-house-than-in-a-shelter": 1792895467.475921
  },
  "queue": [
   {
@@ -2486,7 +2489,7 @@
    "cat": "world",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "न्युयोर्कसँग इन्टर मियामी स्तब्ध",
@@ -2600,6 +2603,29 @@
    ],
    "cat": "crime",
    "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Landslide Victims Find Shelter in Relatives' Homes",
+   "summary": "Myagdi. Bhumadevi Sherpunja Pun of Kindu settlement, Annapurna Rural Municipality-5, had to leave her home due to a landslide. She...",
+   "link": "http://english.ratopati.com/story/84444/sikh-landslide-victim-says-it-was-easier-to-live-in-an-empty-house-than-in-a-shelter",
+   "source": "Ratopati EN",
+   "ts": 1792895019,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/9223DnFPo7.jpg",
+   "lang": "en",
+   "hl": "Landslide Victims Find Shelter in Relatives' Homes",
+   "en": "Landslide Victims Find Shelter in Relatives' Homes",
+   "ne": "Landslide Victims Find Shelter in Relatives' Homes",
+   "imp": 3,
+   "tags": [
+    "Landslide",
+    "Nepal",
+    "पहिरो"
+   ],
+   "cat": "disaster",
+   "val": 2,
    "teaser": false,
    "hits": 1
   }
@@ -5499,7 +5525,7 @@
    "cat": "tech"
   }
  ],
- "updated": 1792894875,
+ "updated": 1792895475,
  "pending_since": 1792894855.040582,
  "fb_blocks": [
   1790350880.4125228,
