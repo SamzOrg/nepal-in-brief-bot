@@ -1,8 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOOVkzY0otNmRFeVhEVTNISW05Z2N1Rnpha3gxd0ZlVlhuallub2k2UGdqc2R2Y052YjhpMVJKdlFEM2c0anRJYUdGaUc1OElMWVdlNTEybXRNdnJBX0VmV1g5TnZldEc2d0hSMW95eDJiZm9tVUlJUUJuTTNDZHh6VHI3Znd6WlNoYTRuS2F6WDE4VzRmaEZUdHNvTl85dk95UVlVOG4wT2w3QUJnNVVPVXdMdEpVTndUaEVfMnBIa0FHdTdPcWVYM0ZROTlhUVRVQk81R1d2czV4Z1NDV1lyNXBDQ1VtdjdiN196elZn?oc=5": 1792756251.2891915,
-  "https://news.google.com/rss/articles/CBMidEFVX3lxTE13MjdvV3o2TF9kcFBjZnZYZVAwaDBERGZLYU05VldyS1VfY0t6VjFGZWR4MXpvMzZvOEJua21rdHN4ZTBUYV9VQWE0NHRqclBKd3JtMnRuQXBRaG9ucDVPM1d3M0lqNEY0MnItUjNjZnlZZ0VB?oc=5": 1792756251.2891915,
-  "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTWU5SkY3NXNLcG81X0txanpuRk8wQkUxVkc3dXdfSDYyMGRwR0h5NWFPT2t1TDluTkljRlJIS0RjUzhHelgzVklSSTFFem1waEJyeTZLNkxFU1JYWmZzbHhYaldjRktqUXdYYXIzcHlSamhuTndSdEdPdE5KQzVaRFZ1N0s2dWJlbWJKenJ4R1JGWUxuRE5aQ3AyajNNTTdMSFlhMEVrdGJfUjZmMmNCVlRtRGY5cF9GcVRPRXJOUUg4ZHpRUDJJaXozNzV0eDg?oc=5": 1792756251.2891915,
   "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTzhrbXFVR24wNGlPQngxbzJkRHZRSTQ0dHo0eTM4N1NoVnk3OTZuNGt6bC15a1duRFZtMTdrWlN6WlBUczBfcmF0Q3ZudDF0YjVNLXJ2bHhjWkl5a2VnZk5hYlozd0xSX0NIS2Flb25yUEtnajZvSUQ3YlFEeTM2TS1Ddk4ycTE3Q2NrcFRmVnRZdFBZS1JTNEhQVy1iREN0SnRkYWhNOA?oc=5": 1792756888.5482347,
   "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQzJ0U1Y2WV9NLVExZnprWmhJVDN2QWRLZGJ2M2tuUE85VjJQdDRLcjFKZDdidUpVNnBBVjNwLWhnUGJpU3E4UzlJRjB3WmFhbTd3QUQ5NGg0RnVGeGNQSmZoaVJrTm93NHFUeHB5STVaWW4yZ2JqREhaMFZHR0k0VmNxZWtUWHpJQ0ZDQnJzcTVLMnZkRjg3Q3dOUnBEbVlsQjZ4S1JpNTczd1VfY1NZRmFTMWhsM01CR0NJM21OYW1pMGhMWEJhRjRERldkY0hGcjJTRk9wcVBFZXM?oc=5": 1792756888.5482347,
   "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOHNsUGprYXVVZ181UlVjSk5iR0pKd3JEOGtXZVhtOTNtWTBkQjAxaWQyMlFpNDdwOWZGVE1KeUFUVnRqSGdaeVlHa1lpcWdaVkpwUTAzNVFaaXl4dl9JQmQxSkNqWnFrTzNEWUhVMXVtTnRfWF9YS2NkS1Q2aFF5VThRZXJsMVFHU0FYZHNMRk84VnEwQ1pfYVJCUUJNdFNfSkNBNTVCR3RQNmZuNjNRRNIBsAFBVV95cUxNOHNsUGprYXVVZ181UlVjSk5iR0pKd3JEOGtXZVhtOTNtWTBkQjAxaWQyMlFpNDdwOWZGVE1KeUFUVnRqSGdaeVlHa1lpcWdaVkpwUTAzNVFaaXl4dl9JQmQxSkNqWnFrTzNEWUhVMXVtTnRfWF9YS2NkS1Q2aFF5VThRZXJsMVFHU0FYZHNMRk84VnEwQ1pfYVJCUUJNdFNfSkNBNTVCR3RQNmZuNjNRRA?oc=5": 1792756888.5482347,
@@ -1311,7 +1308,29 @@
   "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZlRiSTdNQ2dDUVQ1U0oxQkxtNXJ4RUhfX2lLZGNXYjlxX0xTbjFqLTBxa3lZcTdqT2F4WVhEeTY5Q2VoSWYyUWhmbjQxYXdLcVhWXzJBSWI3Yk9GRU43cXlYNGxIcUM1OGxXcTJBMXRDZnBjdFhoVnBTZi1zNG5PanBPNFBWTnNQb0VJa3ZqWWVpamxwdnF1eTlQdHBDRTNyTnhxZkVJc3c?oc=5": 1792928448.860924,
   "http://lokaantar.com/story/331892/2026/10/25/accident-": 1792928448.860924,
   "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWjZsX2tsOFJ1TWUzSk84WThtZDlqZy1kY0lFTHdZU3ZyWDl2em04MF82amJ6NzVIWW5mb3gwNjdxZEVmczUxMUltSzZDYUJVMHhVQ25xWjdsUjkwMHp0eS1zVWhtQkNNQkREVDRqNlVUTDVsVlBqZGtKeTBYNmJaSXR3UTFuVkw1?oc=5": 1792929045.8866112,
-  "http://english.ratopati.com/story/84500/all-preparations-for-npl-starting-tomorrow-are-complete": 1792929045.8866112
+  "http://english.ratopati.com/story/84500/all-preparations-for-npl-starting-tomorrow-are-complete": 1792929045.8866112,
+  "https://risingnepaldaily.com/news/88024": 1792929681.9690173,
+  "https://risingnepaldaily.com/news/88023": 1792929681.9690173,
+  "https://risingnepaldaily.com/news/88025": 1792929681.9690173,
+  "https://gorkhapatraonline.com/news/227220": 1792929681.9690173,
+  "https://news.google.com/rss/articles/CBMiUEFVX3lxTE54bTFlZVpmbjc2Qk5oNmlLZTFKeFRsSXUyWi0wWFk1LUo3MUZreEVEYTNWUzVjbTB5RDJWVUZMVnQzcDJZQlVqNkxaeVIxU3Q0?oc=5": 1792929681.9690173,
+  "http://english.ratopati.com/story/84502/ghodepani-punhill-a-tourist-favorite": 1792929681.9690173,
+  "https://baahrakhari.com/detail/505646": 1792929681.9690173,
+  "https://nagariknews.nagariknetwork.com/social-affairs/traffic-police-conducts-5-434-public-awareness-programs-43-11.html": 1792929681.9690173,
+  "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbzJ1c3ZHcDlGalF0MjFEcVFlcHFSTzlZSk45ak1KcmVQMGpMZklpMEoyQVYtVm9KbS1LNkE3Qi1pY1BBYzhPRDM2cnVuQ0NEV1B5QmpMX1dLWGxMLWRJWlVEejEtVzNDX3pqYWtuMnpLaDZrUGEwNm0tX3JONzRycTdPQnF1YzVOU09JUjZnZjBicGI5NnI0cjhRdHM?oc=5": 1792929681.9690173,
+  "https://english.onlinekhabar.com/gautam-dhimal-international-production.html": 1792929681.9690173,
+  "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNc0pUNllFNmxTajJkM0RfSmJ6UDZHU2FrblJVbC1QTnJmWllFM1FTamhHaGZVWHhtallQeDJuOEx1cW9WMlYyeHBlVmtvUFdvUGlOd2lZd3MyakZKVjdrU1hlQkhmZlVwMGI0UHI2X3U0VURBWTVaZEtNaG1YLW54aTFXcm4yd2VseTdGS3NvMS02R3JmcFpERUZMM3gweTFUVWdmNzZlZk5ZRDU5eU5KRWU4V0JtSXRm?oc=5": 1792929681.9690173,
+  "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWDcxTkxLTDlpTHpKTldZOXBUMW41aEhZQ244eW1jN2VCU2hldVBXdjRnUjZGdjd2c3FVUlBQa3drODRVek9ocFRhaVhuV3hPcjFzazdVbXhIZlVDYzVvNGpDVmJ6alBCZ0FyVEJZVjBGeTZBUTRjRTYyVDl0YVowX0hHUXRDZzRjd0o1STAtNGNJc3AzUDI3eVZQLUN4VUJkUkIzUzg5XzRDUQ?oc=5": 1792929681.9690173,
+  "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4zc3lZUHJjWkRzYTgtQXpmV0dkOXpfc182a2szWHdFbXN2QTRfd2x6bDFYNXFTRlR6ZnBBTGF1aDdQX0EyWXBWUzVrMFdyUE1tTE83eGdrRmtGMUt20gFcQVVfeXFMTjNzeVlQcmNaRHNhOC1BemZXR2Q5el9zXzZrazNYd0Vtc3ZBNF93bHpsMVg1cVNGVHpmcEFMYXVoN1BfQTJZcFZTNWswV3JQTW1MTzd4Z2tGa0YxS3Y?oc=5": 1792929681.9690173,
+  "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5EZ3hzZVlPWVhiLTE0Q0ZMODNsTmpaUlRhbVZYajVXVVhrb0lReVFjVHRab3ZiMFVNY1NSc05pRHRpRUZnU0JtZTdlOG44T0o2ZXdwYnRkUTJtM29leE5ERS12WDM?oc=5": 1792929681.9690173,
+  "https://kathmandupost.com/world/2026/10/25/how-ukraine-s-strikes-on-russian-energy-sites-deepened-the-rift-with-trump": 1792929681.9690173,
+  "http://lokaantar.com/story/331893/2026/10/25/rc-paudel-": 1792929681.9690173,
+  "http://english.ratopati.com/story/84501/identity-card-mandatory-to-enter-tu-campus-during-npl": 1792929681.9690173,
+  "https://baahrakhari.com/detail/505645": 1792929681.9690173,
+  "https://nagariknews.nagariknetwork.com/sports/paras-says-npl-market-value-reaches-rs-8-billion-31-41.html": 1792929681.9690173,
+  "https://baahrakhari.com/detail/505644": 1792929681.9690173,
+  "https://nagariknews.nagariknetwork.com/arts/five-of-shakespeare-s-best-plays-that-also-raise-social-questions-br-62-71.html": 1792929681.9690173,
+  "https://nagariknews.nagariknetwork.com/sports/barcelona-in-pursuit-of-historic-record-11-33.html": 1792929681.9690173
  },
  "queue": [
   {
@@ -1455,51 +1474,6 @@
    "hits": 2
   },
   {
-   "title": "मन्दिरजस्तो पवित्र ठाउँमा रगतको खोला किन बग्छ?",
-   "summary": "मरण हुन्छ बलिको नाउँमा रगतको खोला किन बग्छ? मन्दिर जस्तो पवित्र ठाउँमा रगतको खोला किन बग्छ?",
-   "link": "https://nagariknews.nagariknetwork.com/arts/why-do-rivers-of-blood-flow-in-a-sacred-place-like-a-temple-br-87-12.html",
-   "source": "Nagarik News",
-   "ts": 1792900749,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2024/third-party/1787449999_ddu%20rup%20ddu%20rup%2098.jpg",
-   "lang": "ne",
-   "hl": "मन्दिरजस्तो पवित्र ठाउँमा रगतको खोला किन बग्छ?",
-   "en": "मन्दिरजस्तो पवित्र ठाउँमा रगतको खोला किन बग्छ?",
-   "ne": "मन्दिरजस्तो पवित्र ठाउँमा रगतको खोला किन बग्छ?",
-   "imp": 2,
-   "tags": [
-    "Temple",
-    "Tradition"
-   ],
-   "cat": "culture",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "Ukraine and Russia eye new peace talks",
-   "summary": "Kyiv, Oct. 25: Ukraine and Russia have signaled their willingness to resume U.S.-brokered peace talks and are backing a...",
-   "link": "https://risingnepaldaily.com/news/88008",
-   "source": "Rising Nepal",
-   "ts": 1792900436,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Ukraine and Russia eye new peace talks",
-   "en": "Ukraine and Russia eye new peace talks",
-   "ne": "Ukraine and Russia eye new peace talks",
-   "imp": 1,
-   "tags": [
-    "Ukraine",
-    "Russia",
-    "PeaceTalks"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "एनपिएलमा भित्रिँदै स्टार क्रिकेटर",
    "summary": "गोरखापत्र समाचारदाताकाठमाडौँ, कात्तिक ८ गते । तेस्रो संस्करणसम्म आइपुग्दा नेपाल प्रिमियर लिग (एनपिएल) विश्व क्रिकेटकै उत्कृष्ट फ्रेन्चाई क्रिकेट लिगमध्ये एक बनिसकेको छ । एनपिएलका प...",
    "link": "https://gorkhapatraonline.com/news/227180",
@@ -1520,52 +1494,6 @@
    "cat": "sports",
    "val": 1,
    "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "पेन्सनको सुनिश्चितताको माग गर्दै मड्रिडमा दुई लाख ५० हजार व्यक्तिद्वारा प्रदर्शन",
-   "summary": "शनिबार स्पेनी सहर मड्रिडको मध्यभागमा करिब दुई लाख ५० हजार मानिसले स्पेनको राज्यद्वारा दिने गरेको पेन्सन प्रणालीको सुरक्षाको माग गर्दै प्रदर्शन गरेका छन्।...",
-   "link": "https://nagariknews.nagariknetwork.com/international/250-000-people-protest-in-madrid-demanding-pension-guarantees-97-15.html",
-   "source": "Nagarik News",
-   "ts": 1792900493,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1792900809_madrid.jpg",
-   "lang": "ne",
-   "hl": "पेन्सनको सुनिश्चितताको माग गर्दै मड्रिडमा दुई लाख ५० हजार व्यक्तिद्वारा प्रदर्शन",
-   "en": "पेन्सनको सुनिश्चितताको माग गर्दै मड्रिडमा दुई लाख ५० हजार व्यक्तिद्वारा प्रदर्शन",
-   "ne": "पेन्सनको सुनिश्चितताको माग गर्दै मड्रिडमा दुई लाख ५० हजार व्यक्तिद्वारा प्रदर्शन",
-   "imp": 1,
-   "tags": [
-    "Madrid",
-    "Protest",
-    "Spain"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "आजको राशिफल",
-   "summary": "",
-   "link": "https://gorkhapatraonline.com/news/227179",
-   "source": "Gorkhapatra",
-   "ts": 1792900332,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/388799/conversions/rasiphal-(4)-original.jpg",
-   "lang": "ne",
-   "hl": "आजको राशिफल",
-   "en": "आजको राशिफल",
-   "ne": "आजको राशिफल",
-   "imp": 1,
-   "tags": [
-    "Horoscope",
-    "Rashifal",
-    "राशिफल"
-   ],
-   "cat": "other",
-   "val": 1,
-   "teaser": false,
    "hits": 1
   },
   {
@@ -1727,29 +1655,6 @@
    "val": 3,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "Tiger Shroff Attack: How A Missed Bus Foiled The Shooters' Escape To Nepal",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNR1lKeHpqX2ZJZ1owSGVodzFMOTJnQkNZRm1oTTlPYUhpMGtsSkhWd2VPRE52YzFwenpNd3hsT1NhbDAzREFsekRmb1UydnZpOURLZXQzTmxmYXZVWXBlNk50S3VkRTUwLS1QZk9MZ3lZT1RJMGFaZXBOOWhiR0ZHeUtwVVZXcHFFRzk3ZjN2ZFVBMDV0X2p0b1ZqVXdfUGwycWljTmttRzZhbzNhRTJrakpabmXSAbwBQVVfeXFMT29tNllha0FnUGprTThfbkNFaEtYNTVKdkJBNkVNYW90TVRaclgwc1NadTV1OHVXbTg4UkE5WjRYd0VxanpPWEVmQnBwYWlDTVV5b1dHdlFUZzFaRkxPaGl4bmpUMUVsdTQtYkRaYWhjeTFKMVZjdXVqakl0anRTSllaRVQ4d3gxai13c09TOVNteFRmWlZmc0tzMkM5Q0dPbmZPMjY1NTB2ZkZtamJ3cC1mU19RSVBjUWhjcmg?oc=5",
-   "source": "NDTV Profit",
-   "ts": 1792900385,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Tiger Shroff Attack: How A Missed Bus Foiled The Shooters' Escape To Nepal",
-   "en": "Tiger Shroff Attack: How A Missed Bus Foiled The Shooters' Escape To Nepal",
-   "ne": "Tiger Shroff Attack: How A Missed Bus Foiled The Shooters' Escape To Nepal",
-   "imp": 1,
-   "tags": [
-    "TigerShroff",
-    "Mumbai",
-    "Nepal"
-   ],
-   "cat": "crime",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "संस्कृति जगेर्नामा चुनौती,शताब्दी काटेका कमानसिंहको सराय खेल",
@@ -4559,7 +4464,7 @@
    "cat": "culture",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "मिर्गौला दानपछि आमा बन्दा केमा ध्यान दिने? महिला दाता धेरै भएको नेपाललाई नयाँ अध्ययनको सन्देश",
@@ -4743,7 +4648,7 @@
    "cat": "sports",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "बैतडी केन्द्रविन्दु भएर ४.२ म्याग्निच्युडको भूकम्प",
@@ -5127,6 +5032,295 @@
    ],
    "cat": "culture",
    "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "ट्रक र इभी ठोक्किए, १२ जना घाइते",
+   "summary": "जनार्जन खत्रीसर्लाही, कात्तिक ८ गते । पूर्वपश्चिम महेन्द्र राजमार्गस्थित सर्लाहीको ईश्वरपुर नगरपालिका -१२, बाँके जङ्गलमा शनिबार ट्रक र इभी गाडी ठोक्किँदा १२ जना घाइते भएका छन् । सर...",
+   "link": "https://gorkhapatraonline.com/news/227220",
+   "source": "Gorkhapatra",
+   "ts": 1792929582,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/388846/conversions/Sarlahi-Accident-Photo-(1)-original.jpg",
+   "lang": "ne",
+   "hl": "ट्रक र इभी ठोक्किए, १२ जना घाइते",
+   "en": "ट्रक र इभी ठोक्किए, १२ जना घाइते",
+   "ne": "ट्रक र इभी ठोक्किए, १२ जना घाइते",
+   "imp": 3,
+   "tags": [
+    "Truck",
+    "Accident"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Approval of Nepali projects from Adaptation Fund milestone: Minister Chaudhary",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE54bTFlZVpmbjc2Qk5oNmlLZTFKeFRsSXUyWi0wWFk1LUo3MUZreEVEYTNWUzVjbTB5RDJWVUZMVnQzcDJZQlVqNkxaeVIxU3Q0?oc=5",
+   "source": "The Rising Nepal",
+   "ts": 1792929486,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "Approval of Nepali projects from Adaptation Fund milestone: Minister Chaudhary",
+   "en": "Approval of Nepali projects from Adaptation Fund milestone: Minister Chaudhary",
+   "ne": "Approval of Nepali projects from Adaptation Fund milestone: Minister Chaudhary",
+   "imp": 3,
+   "tags": [
+    "AdaptationFund",
+    "MinisterChaudhary"
+   ],
+   "cat": "politics",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Punahill Sees Surge in Tourist Arrivals Post-Monsoon",
+   "summary": "Myagdi. As the eastern horizon turns crimson, the peaks of Punahill begin to fill with tourists. Some aim their cameras,...",
+   "link": "http://english.ratopati.com/story/84502/ghodepani-punhill-a-tourist-favorite",
+   "source": "Ratopati EN",
+   "ts": 1792929207,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/krKAYxMUSy.jpg",
+   "lang": "en",
+   "hl": "Punahill Sees Surge in Tourist Arrivals Post-Monsoon",
+   "en": "Punahill Sees Surge in Tourist Arrivals Post-Monsoon",
+   "ne": "Punahill Sees Surge in Tourist Arrivals Post-Monsoon",
+   "imp": 2,
+   "tags": [
+    "Punahill",
+    "Tourism"
+   ],
+   "cat": "society",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "ट्राफिक प्रहरीद्वारा जनचेतनामूलक कार्यक्रम",
+   "summary": "काठमाडौं उपत्यकाका विभिन्न क्षेत्रमा ट्राफिक नियमसम्बन्धी जानकारी प्रवाह गर्ने, सडक सुरक्षाबारे सचेतना अभिवृद्धि गर्ने तथा सुरक्षित यात्राका लागि नागरिकलाई प्रेरित गर्ने उद्देश्यले उक्त कार्यक्रम सञ्चालन गरिएको...",
+   "link": "https://nagariknews.nagariknetwork.com/social-affairs/traffic-police-conducts-5-434-public-awareness-programs-43-11.html",
+   "source": "Nagarik News",
+   "ts": 1792929053,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2026/third-party/1792929482_tra%2008.jpg",
+   "lang": "ne",
+   "hl": "ट्राफिक प्रहरीद्वारा जनचेतनामूलक कार्यक्रम",
+   "en": "ट्राफिक प्रहरीद्वारा जनचेतनामूलक कार्यक्रम",
+   "ne": "ट्राफिक प्रहरीद्वारा जनचेतनामूलक कार्यक्रम",
+   "imp": 2,
+   "tags": [
+    "TrafficPolice",
+    "Awareness"
+   ],
+   "cat": "society",
+   "val": 1,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Gautam Dhimal takes international productions into Nepal's Himalayas",
+   "summary": "Kathmandu, October 25 Filming an advertising campaign in the Himalayas involves more than finding the right mountain backdrop. Altitude, weather, access and equipment logistics can all shape how a production unfolds....",
+   "link": "https://english.onlinekhabar.com/gautam-dhimal-international-production.html",
+   "source": "Onlinekhabar EN",
+   "ts": 1792927398,
+   "weight": 3,
+   "img": "http://english.onlinekhabar.com/wp-content/uploads/2022/10/Gautam_Dhimal-1024x931.jpg",
+   "lang": "en",
+   "hl": "Gautam Dhimal takes international productions into Nepal's Himalayas",
+   "en": "Gautam Dhimal takes international productions into Nepal's Himalayas",
+   "ne": "Gautam Dhimal takes international productions into Nepal's Himalayas",
+   "imp": 2,
+   "tags": [
+    "GautamDhimal",
+    "Himalayas"
+   ],
+   "cat": "culture",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Nepal Resumes Electricity Supply to Bangladesh",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5EZ3hzZVlPWVhiLTE0Q0ZMODNsTmpaUlRhbVZYajVXVVhrb0lReVFjVHRab3ZiMFVNY1NSc05pRHRpRUZnU0JtZTdlOG44T0o2ZXdwYnRkUTJtM29leE5ERS12WDM?oc=5",
+   "source": "Ajker Patrika",
+   "ts": 1792919382,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "Nepal Resumes Electricity Supply to Bangladesh",
+   "en": "Nepal Resumes Electricity Supply to Bangladesh",
+   "ne": "Nepal Resumes Electricity Supply to Bangladesh",
+   "imp": 3,
+   "tags": [
+    "Electricity",
+    "Bangladesh"
+   ],
+   "cat": "economy",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "How Ukraine's strikes on Russian energy sites deepened the rift with Trump",
+   "summary": "Diesel prices have hit record highs since the US and Israel launched a war against Iran in February, and global energy costs spiked.",
+   "link": "https://kathmandupost.com/world/2026/10/25/how-ukraine-s-strikes-on-russian-energy-sites-deepened-the-rift-with-trump",
+   "source": "Kathmandu Post",
+   "ts": 1792915282.9910302,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "How Ukraine's strikes on Russian energy sites deepened the rift with Trump",
+   "en": "How Ukraine's strikes on Russian energy sites deepened the rift with Trump",
+   "ne": "How Ukraine's strikes on Russian energy sites deepened the rift with Trump",
+   "imp": 1,
+   "tags": [
+    "Ukraine",
+    "Russia",
+    "Trump"
+   ],
+   "cat": "world",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Tribhuvan University Campus Requests ID for Entry During Nepal Premier League",
+   "summary": "Kathmandu. As the Nepal Premier League (NPL) cricket competition is to be held, professors, employees, and students entering the Tribhuvan...",
+   "link": "http://english.ratopati.com/story/84501/identity-card-mandatory-to-enter-tu-campus-during-npl",
+   "source": "Ratopati EN",
+   "ts": 1792928562,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/npl-kirtipur-15_Y5tqARttUa.webp",
+   "lang": "en",
+   "hl": "Tribhuvan University Campus Requests ID for Entry During Nepal Premier League",
+   "en": "Tribhuvan University Campus Requests ID for Entry During Nepal Premier League",
+   "ne": "Tribhuvan University Campus Requests ID for Entry During Nepal Premier League",
+   "imp": 2,
+   "tags": [
+    "TribhuvanUniversity",
+    "NPL"
+   ],
+   "cat": "sports",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "एसिया कपमा छनोट नेपाली क्रिकेट टोलीलाई क्यानले ३० लाख दिने",
+   "summary": "क्यानका अध्यक्ष चतुरबहादुर चन्दले आइतबार कीर्तिपुरमा आयोजित पत्रकार सम्मेलनमा एसिया कपमा छनोट गराउने टोलीलाई प्रोत्साहनस्वरूप ३० लाख रुपैयाँ दिने घोषणा गरेका हुन् ।",
+   "link": "https://baahrakhari.com/detail/505645",
+   "source": "Baahrakhari",
+   "ts": 1792928057,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "एसिया कपमा छनोट नेपाली क्रिकेट टोलीलाई क्यानले ३० लाख दिने",
+   "en": "एसिया कपमा छनोट नेपाली क्रिकेट टोलीलाई क्यानले ३० लाख दिने",
+   "ne": "एसिया कपमा छनोट नेपाली क्रिकेट टोलीलाई क्यानले ३० लाख दिने",
+   "imp": 3,
+   "tags": [
+    "AsiaCup",
+    "CAN",
+    "Cricket"
+   ],
+   "cat": "sports",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "पारस भन्छन्: एनपीएलको बजार मूल्य ८ अर्ब रुपैयाँ पुग्यो",
+   "summary": "नेपाल प्रिमियर लिग (एनपीएल) को समग्र बजार मूल्य करिब ८ अर्ब रुपैयाँ पुगेको नेपाल क्रिकेट सङ्घ (क्यान) का सचिव पारस खड्काले दाबी गरेका छन्...",
+   "link": "https://nagariknews.nagariknetwork.com/sports/paras-says-npl-market-value-reaches-rs-8-billion-31-41.html",
+   "source": "Nagarik News",
+   "ts": 1792928616,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2025/third-party/1792925091_npl.png",
+   "lang": "ne",
+   "hl": "पारस भन्छन्: एनपीएलको बजार मूल्य ८ अर्ब रुपैयाँ पुग्यो",
+   "en": "पारस भन्छन्: एनपीएलको बजार मूल्य ८ अर्ब रुपैयाँ पुग्यो",
+   "ne": "पारस भन्छन्: एनपीएलको बजार मूल्य ८ अर्ब रुपैयाँ पुग्यो",
+   "imp": 3,
+   "tags": [
+    "ParasKhadka",
+    "NPL"
+   ],
+   "cat": "sports",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "मस्कको आरोप : युक्रेनले ड्रोन आक्रमणमा स्टारलिंक प्रयोग गर्‍यो",
+   "summary": "",
+   "link": "https://baahrakhari.com/detail/505644",
+   "source": "Baahrakhari",
+   "ts": 1792927353,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "मस्कको आरोप : युक्रेनले ड्रोन आक्रमणमा स्टारलिंक प्रयोग गर्‍यो",
+   "en": "मस्कको आरोप : युक्रेनले ड्रोन आक्रमणमा स्टारलिंक प्रयोग गर्‍यो",
+   "ne": "मस्कको आरोप : युक्रेनले ड्रोन आक्रमणमा स्टारलिंक प्रयोग गर्‍यो",
+   "imp": 1,
+   "tags": [
+    "ElonMusk",
+    "Ukraine",
+    "Starlink"
+   ],
+   "cat": "tech",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "शेक्सपियरका पाँच उत्कृष्ट नाटक, जसले सामाजिक प्रश्न समेत उठाउँछ",
+   "summary": "विश्वप्रसिद्ध नाटककार विलियम शेक्सपियरका नाटकले मनोरञ्जन मात्र नभई सत्ता, पहिचान, लैङ्गिक सम्बन्ध, धार्मिक विभेद र मानवीय व्यवहारका जटिल पक्षलाई समेत उजागर गरेका छन्।...",
+   "link": "https://nagariknews.nagariknetwork.com/arts/five-of-shakespeare-s-best-plays-that-also-raise-social-questions-br-62-71.html",
+   "source": "Nagarik News",
+   "ts": 1792928244,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2026/third-party/1792928604_wilem%20008.jpg",
+   "lang": "ne",
+   "hl": "शेक्सपियरका पाँच उत्कृष्ट नाटक, जसले सामाजिक प्रश्न समेत उठाउँछ",
+   "en": "शेक्सपियरका पाँच उत्कृष्ट नाटक, जसले सामाजिक प्रश्न समेत उठाउँछ",
+   "ne": "शेक्सपियरका पाँच उत्कृष्ट नाटक, जसले सामाजिक प्रश्न समेत उठाउँछ",
+   "imp": 1,
+   "tags": [
+    "Shakespeare",
+    "Books"
+   ],
+   "cat": "culture",
+   "val": 1,
+   "teaser": true,
+   "hits": 1
+  },
+  {
+   "title": "एल क्लासिको : इतिहास र प्रतिष्ठाको लडाइँमा बार्सा र रियल",
+   "summary": "विश्व फुटबलको प्रतिष्ठित महाभिडन्त एल क्लासिकोमा आइतबार राति बार्सिलोना र रियल म्याड्रिड आमनेसामने हुँदै छन्। क्याम्प नोउमा हुने यस खेलमा जित हात पार्दै बार्सिलोना घरेलु लिगको ५६ वर्ष पुरानो इतिहास तोड्ने लक्ष्यमा छ।...",
+   "link": "https://nagariknews.nagariknetwork.com/sports/barcelona-in-pursuit-of-historic-record-11-33.html",
+   "source": "Nagarik News",
+   "ts": 1792927540,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2025/third-party/1792927145_elclassico.png",
+   "lang": "ne",
+   "hl": "एल क्लासिको : इतिहास र प्रतिष्ठाको लडाइँमा बार्सा र रियल",
+   "en": "एल क्लासिको : इतिहास र प्रतिष्ठाको लडाइँमा बार्सा र रियल",
+   "ne": "एल क्लासिको : इतिहास र प्रतिष्ठाको लडाइँमा बार्सा र रियल",
+   "imp": 2,
+   "tags": [
+    "ElClasico",
+    "Football"
+   ],
+   "cat": "sports",
+   "val": 2,
    "teaser": false,
    "hits": 1
   }
@@ -8026,8 +8220,8 @@
    "cat": "politics"
   }
  ],
- "updated": 1792929064,
- "pending_since": 1792927868.9621496,
+ "updated": 1792929688,
+ "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
