@@ -1475,29 +1475,6 @@
    "hits": 1
   },
   {
-   "title": "देशभर १३ विपद्का घटना : एकको मृत्यु, आठ जना घाइते",
-   "summary": "काठमाडौँ, कात्तिक ८ गते । देशभर पछिल्लो २४ घण्टामा विभिन्न प्रकृतिका १३ वटा विपद्का घटना भएका छन् । ती घटनामा परी एक जनाको मृत्यु भएको छ भने तीन जना घाइते भएका छन् । विपद्का घटनाबा...",
-   "link": "https://gorkhapatraonline.com/news/227233",
-   "source": "Gorkhapatra",
-   "ts": 1792943626,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/388861/conversions/60f796ef2ced0_60c1578255fc5_Untitled-1-(1)-original.jpg",
-   "lang": "ne",
-   "hl": "देशभर १३ विपद्का घटना : एकको मृत्यु, आठ जना घाइते",
-   "en": "देशभर १३ विपद्का घटना : एकको मृत्यु, आठ जना घाइते",
-   "ne": "देशभर १३ विपद्का घटना : एकको मृत्यु, आठ जना घाइते",
-   "imp": 4,
-   "tags": [
-    "Disaster",
-    "Nepal",
-    "विपद्"
-   ],
-   "cat": "disaster",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "भोटेकोशी बाढीले सर्वसाधारणको निजी सम्पत्तिमा ७९ अर्बको क्षति",
    "summary": "यो प्रारम्भिक मूल्यांकनमा सडक, जलविद्युत् आयोजना तथा अन्य पूर्वाधार, उत्पादनशील क्षेत्र, सामाजिक क्षेत्र र वातावरणमा भएको क्षति समेटिएको छैन। ती क्षेत्रको क्षतिसमेत जोड्दा बाढीबाट भएको समग्र आर्थिक क्षति अझै बढ्ने...",
    "link": "https://nagariknews.nagariknetwork.com/economy/bhotekoshi-flood-causes-rs-79-billion-damage-to-private-property-of-the-general-public-81-88.html",
@@ -1955,29 +1932,6 @@
    "cat": "disaster",
    "val": 1,
    "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "UN Fund approves $20 million for flood-hit Nepal",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBFaDBxLUZpbTZ6V2thYVluTTdZRUJuTzh2NG9VS3FuOU9Ma1pCZVhOQTZMXzRPWTNuSEtGSWRuRnN0cktHbDVrMHBOWFhESVNjT2d2RTFXbFhjVlU5TVFkQkNiejFOcER2azEycmRKWnN1cTZOSGZrbzhacGhJUQ?oc=5",
-   "source": "News On AIR",
-   "ts": 1792959215,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "UN Fund approves $20 million for flood-hit Nepal",
-   "en": "UN Fund approves $20 million for flood-hit Nepal",
-   "ne": "UN Fund approves $20 million for flood-hit Nepal",
-   "imp": 4,
-   "tags": [
-    "Flood",
-    "Nepal",
-    "बाढी"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
    "hits": 1
   },
   {
@@ -4898,9 +4852,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "sports"
+  },
+  {
+   "ts": 1792966856.3122058,
+   "en": "UN Fund approves $20 million for flood-hit Nepal",
+   "ne": "UN Fund approves $20 million for flood-hit Nepal",
+   "link": "https://newsonair.gov.in/un-fund-approves-20-million-for-flood-hit-nepal/",
+   "source": "News On AIR",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "disaster"
   }
  ],
- "updated": 1792966255,
+ "updated": 1792966866,
  "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
