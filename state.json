@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQcjhaQklCSE5YeXNhNWNfTzFodFQwMjNRXzgtVy1Ka1J1b0lPT2lKY2RUeHB2VHhLMlRhM3lPbnVENjdnWE5faC0wOEJtYXdRLW44UHNRdVBCcGs3bGRhSzRrZjJPT0x0TnVjdlhILXFUb1ZyVTFmOWx0dDl3WFlwNlJaSWFQRXY5ZGV4Z1lWaDhzNklGdG54QXktSWx2MFFtNFlvWlFfX3otd2xJUHFMV1Z2OURWNlFVSXdmZ2lRUDZQT0NmdERBazlxRU5FMEw0TEdJbjdJbzBtOGtoTWtxUU9zZG9VR3VsV2FiaktEdEk?oc=5": 1792743058.9277644,
   "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1vRnVjaHFIZDh5LUN1Nl90XzM3bkI5RjJtdHpOUElyNW8zdTRMUlBKSFlBZG91cl8zSkdrblpWSzVpcEtNV3lfTEhHRnNxVWZxSmVQSWYtZXE?oc=5": 1792743649.4627535,
   "https://news.google.com/rss/articles/CBMirAFBVV95cUxOLUpWSXlaaE5ja3FkVDl1Q09vc09yRGR0aFF3dVVWN3NRWk56NXQ2VnJXVnZLZ21mckp1aVFUMEcxdjFXa0NySHM5UDdhX3hmNHBCTEhaN3BHVnA4TGlWU1dVLUFxNG8wa2Z2UWV3Ym5ONnNBUkN5ellKWTRnSnJwOGtPbWJiTHJ2Z1JTNFZZcGdyamQ5VWNTQUFvTktZbUx2RS1HQjBVOWRlLUkz?oc=5": 1792743649.4627535,
   "https://english.khabarhub.com/2026/23/572912/": 1792743649.4627535,
@@ -1270,7 +1269,8 @@
   "http://english.ratopati.com/story/84478/most-government-websites-have-been-down-for-four-days": 1792915845.9965992,
   "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdllUWUxVX3BPVWRfRC1ibVgtQWd5UW1sNFY0VTlibjdiVjRITmVnUE1STDB6Z2FLLVBSQndWSkxvR1NuNTFxQW5yRFVIMUtkZk1UbmhkLXp2UU5RNmwtVjNPLXljTFZvaDdwYjRsdmZjaGdIZjUxdzhVVVpkUWJta3lQUENnQmtSTWoyLTJLZ3ZNWVBDaVJsWGZyX1A0ZDRYdERjZWJ1REpMMkpCY0JQeWZtdXk?oc=5": 1792915845.9965992,
   "https://english.onlinekhabar.com/work-underway-to-reopen-flood-damaged-benighat-arughat-larke-road-in-gorkha.html": 1792915845.9965992,
-  "https://gorkhapatraonline.com/news/227205": 1792915845.9965992
+  "https://gorkhapatraonline.com/news/227205": 1792915845.9965992,
+  "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vd3dJdXBQMjN4eWlzV2RDN25DZmNnZlBtRnNOdGJWelJfOF8xbnZ6NW4yckRfU1ZkcGg2Vlc0LWxLY3FwMmRkbXY1blZyclZpQndxYXpRb2RsUQ?oc=5": 1792916446.9569633
  },
  "queue": [
   {
@@ -1595,29 +1595,6 @@
    ],
    "cat": "other",
    "val": 1,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "आज कोजाग्रत पूर्णिमा, महालक्ष्मीको पूजा र जाग्रामसँगै दसैँ समापन हुँदै",
-   "summary": "आश्विन शुक्ल पूर्णिमाका दिन मनाइने कोजाग्रत पूर्णिमा आज साँझ सम्पन्नताकी देवी महालक्ष्मीको पूजाआराधना गरी रातभर जाग्राम बसेर मनाएसँगै १५ दिन लामो बडादसैँ पर्व समापन हुन्छ।...",
-   "link": "https://nagariknews.nagariknetwork.com/Dharma-Saskriti/dashain-concludes-with-kojagrat-purnima-mahalakshmi-puja-and-jagram-today-31-12.html",
-   "source": "Nagarik News",
-   "ts": 1792887464,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1792164557_Dashin.jpg",
-   "lang": "ne",
-   "hl": "आज कोजाग्रत पूर्णिमा, महालक्ष्मीको पूजा र जाग्रामसँगै दसैँ समापन हुँदै",
-   "en": "आज कोजाग्रत पूर्णिमा, महालक्ष्मीको पूजा र जाग्रामसँगै दसैँ समापन हुँदै",
-   "ne": "आज कोजाग्रत पूर्णिमा, महालक्ष्मीको पूजा र जाग्रामसँगै दसैँ समापन हुँदै",
-   "imp": 2,
-   "tags": [
-    "KojagratPurnima",
-    "Mahalakshmi",
-    "Dashain"
-   ],
-   "cat": "culture",
-   "val": 2,
    "teaser": false,
    "hits": 1
   },
@@ -4728,7 +4705,7 @@
    "cat": "economy",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Government to Establish Aviation Weather Directorate to Reduce Air Accidents",
@@ -5858,30 +5835,6 @@
     "Transport"
    ],
    "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Work underway to reopen flood-damaged Benighat-Arughat-Larke road in Gorkha",
-   "summary": "Kathmandu, October 25 Work is underway to reopen the Benighat-Arughat-Larke road in Gorkha, which was blocked by flooding in the Budhigandaki River on October 11. The Gorkha Road Project has cleared the road at...",
-   "link": "https://english.onlinekhabar.com/work-underway-to-reopen-flood-damaged-benighat-arughat-larke-road-in-gorkha.html",
-   "source": "Onlinekhabar EN",
-   "ts": 1792915527,
-   "weight": 3,
-   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/10/Benighat-Arughat-Larke.jpg",
-   "lang": "en",
-   "hl": "Work underway to reopen flood-damaged Benighat-Arughat-Larke road in Gorkha",
-   "en": "Work underway to reopen flood-damaged Benighat-Arughat-Larke road in Gorkha",
-   "ne": "Work underway to reopen flood-damaged Benighat-Arughat-Larke road in Gorkha",
-   "imp": 4,
-   "tags": [
-    "BenighatArughatLarkeRoad",
-    "Gorkha",
-    "Flood",
-    "सडक"
-   ],
-   "cat": "disaster",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -8792,9 +8745,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "sports"
+  },
+  {
+   "ts": 1792916454.243535,
+   "en": "Work underway to reopen flood-damaged Benighat-Arughat-Larke road in Gorkha",
+   "ne": "Work underway to reopen flood-damaged Benighat-Arughat-Larke road in Gorkha",
+   "link": "https://english.onlinekhabar.com/work-underway-to-reopen-flood-damaged-benighat-arughat-larke-road-in-gorkha.html",
+   "source": "Onlinekhabar EN",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "disaster"
   }
  ],
- "updated": 1792915851,
+ "updated": 1792916467,
  "pending_since": 1792915845.9965992,
  "fb_blocks": [
   1790350880.4125228,
