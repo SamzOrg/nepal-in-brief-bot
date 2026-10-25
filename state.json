@@ -1,10 +1,5 @@
 {
  "seen": {
-  "http://english.ratopati.com/story/84305/rashtriya-swayamsevak-sangh-rss-president-rabi-lamichhane-is-leaving-for-india-today-for-a-3-day-visit": 1792715470.237943,
-  "https://baahrakhari.com/detail/505490": 1792715470.237943,
-  "https://nagariknews.nagariknetwork.com/social-affairs/manaslu-larke-pass-trekking-open-taan-urges-to-travel-with-caution-51-79.html": 1792715470.237943,
-  "https://baahrakhari.com/detail/505487": 1792715470.237943,
-  "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVVlJbEZmUnlUaHBtN0dYcTl4a2hUOGhEZU5ySy1YT1Nmb1pPUEV0RVFmNlpuZkdKWVN3OS1zVkczaVhHSVdRRlVFNk9xMXlicFhwcUlaYmJNbm9sTUx5NmxwYlpSc3Jya1BHUlNobnZwT253QmVDaHJvVjhqVjlXb0NvbXVZSDJDS1RmVUwxbEZDN2tma1E?oc=5": 1792715470.237943,
   "https://nagariknews.nagariknetwork.com/politics/ravi-to-leave-for-india-today-for-three-day-visit-95-65.html": 1792716047.8860536,
   "https://thehimalayantimes.com/nepal/mega-polio-bicycle-rally-to-pass-through-seven-heritage-sites-on-october-25kathmandu-october-23rotary-international-nepal-bhutan-district-3292-is-organising-a-mega-bicycle-rally-in-kathmandu-valley-on-october-25-to-raise-public-awareness-about-polio-eradication-on-the-occasion-of-world-polio-dayaccording-to-a-press-release-issued-by-binita-hada-chairperson-of-the-polio-plus-sub-committee-the-rally-will-start-from-bhaktapur-durbar-square-and-end-at-patan-durbar-square-passing-through-kathmandu-durbar-s": 1792716047.8860536,
   "https://english.khabarhub.com/2026/23/572857/": 1792716047.8860536,
@@ -1186,55 +1181,11 @@
   "https://english.khabarhub.com/2026/25/573037/": 1792887650.8592467,
   "https://english.khabarhub.com/2026/25/573034/": 1792887650.8592467,
   "https://english.khabarhub.com/2026/25/573030/": 1792887650.8592467,
-  "http://lokaantar.com/story/331854/2026/10/25/payo-jatra-": 1792888268.1476145
+  "http://lokaantar.com/story/331854/2026/10/25/payo-jatra-": 1792888268.1476145,
+  "https://risingnepaldaily.com/news/87991": 1792888847.336285,
+  "https://nagariknews.nagariknetwork.com/social-affairs/expansion-of-vegetable-and-rice-cultivation-area-in-tanahun-83-82.html": 1792888847.336285
  },
  "queue": [
-  {
-   "title": "तामाङ सम्पदा र रुविभ्याली पदमार्ग खुला",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/505593",
-   "source": "Baahrakhari",
-   "ts": 1792859992,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "तामाङ सम्पदा र रुविभ्याली पदमार्ग खुला",
-   "en": "तामाङ सम्पदा र रुविभ्याली पदमार्ग खुला",
-   "ne": "तामाङ सम्पदा र रुविभ्याली पदमार्ग खुला",
-   "imp": 2,
-   "tags": [
-    "TamangHeritage",
-    "RubyValley",
-    "तामाङ"
-   ],
-   "cat": "culture",
-   "val": 2,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "Tourist Arrivals Increase in Pokhara During Dasain Holidays",
-   "summary": "Pokhara. Tourist arrivals in Pokhara, the tourist capital, have increased in recent days due to the Dasain holidays. The tourist...",
-   "link": "http://english.ratopati.com/story/84428/tourist-activity-increases-in-pokhara",
-   "source": "Ratopati EN",
-   "ts": 1792859641,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/pokhara-tourist_LFxa3C8a0y.jpg",
-   "lang": "en",
-   "hl": "Tourist Arrivals Increase in Pokhara During Dasain Holidays",
-   "en": "Tourist Arrivals Increase in Pokhara During Dasain Holidays",
-   "ne": "Tourist Arrivals Increase in Pokhara During Dasain Holidays",
-   "imp": 2,
-   "tags": [
-    "Pokhara",
-    "Tourism",
-    "Dasain"
-   ],
-   "cat": "society",
-   "val": 2,
-   "teaser": false,
-   "hits": 2
-  },
   {
    "title": "'पदभन्दा ठुलो पौरख' पुस्तक लोकार्पित",
    "summary": "गोरखापत्र अनलाइनकाठमाडौँ, कात्तिक ७ गते। सरकारका पूर्व उपसचिव मीनप्रसाद ज्ञवालीद्वारा लिखित आत्मकथा पुस्तक 'पदभन्दा ठुलो पौरख' सार्वजनिक भएको छ। शनिवार काठमाडौँको कमलादीस्थित नेपाल...",
@@ -4429,7 +4380,7 @@
    "cat": "culture"
   }
  ],
- "updated": 1792888271,
+ "updated": 1792888850,
  "pending_since": 1792888226.8456285,
  "fb_blocks": [
   1790350880.4125228,
