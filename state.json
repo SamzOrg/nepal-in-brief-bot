@@ -1253,7 +1253,12 @@
   "https://www.setopati.com/kinmel/jewellery/401248": 1792906847.8269563,
   "https://nagariknews.nagariknetwork.com/arts/who-is-kannada-cinema-s-ranking-star-yash-who-plays-ravana-in-the-hindi-film-ramayana-68-63.html": 1792906847.8269563,
   "https://www.setopati.com/kinmel/agriculture/401244": 1792906847.8269563,
-  "https://www.setopati.com/social/401249": 1792906847.8269563
+  "https://www.setopati.com/social/401249": 1792906847.8269563,
+  "https://nagariknews.nagariknetwork.com/social-affairs/ashwin-shukla-purnima-today-is-the-last-day-to-offer-offerings-and-blessings-to-nava-durga-31-72.html": 1792907445.1744144,
+  "https://news.google.com/rss/articles/CBMiugFBVV95cUxPX214Tkg1bTdrWHhOenMtdEtSd2ZtQ0lhdjU4UnkwcTdhSDJjNmtLb1pNTnhQdDA5b1NYR09GVDYwQ2gwXzdCeG1pV0hUaWpDYzh0dVp3ZDhQME9zX0NoSm5Sc29MTkpMVGl4RVNGS1NTdTFMYXUzREhGbzBlYkZET1Q2elJUZ3kyWTFTWWxsTHNZeFRRN0pKaWlucW05NW9ER0x5SFRJQkZPR3FnZS10YjQtd2VWcC1MSHc?oc=5": 1792907445.1744144,
+  "http://english.ratopati.com/story/84461/nepali-congresss-new-working-committee-was-won-by-14-mps-while-10-were-defeated": 1792907445.1744144,
+  "https://nagariknews.nagariknetwork.com/international/three-explosions-heard-in-saudi-arabia-s-capital-riyadh-27-20.html": 1792907445.1744144,
+  "https://nagariknews.nagariknetwork.com/economy/power-supply-restored-in-flood-and-landslide-affected-areas-br-47-14.html": 1792907445.1744144
  },
  "queue": [
   {
@@ -1413,7 +1418,7 @@
    "cat": "world",
    "val": 3,
    "teaser": false,
-   "hits": 5
+   "hits": 6
   },
   {
    "title": "फ्रान्समा सत्तरी हजार सुरक्षाकर्मी परिचालन",
@@ -1915,50 +1920,6 @@
     "PrivateSector"
    ],
    "cat": "economy",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "NPL returns with bigger ambitions and global recognition",
-   "summary": "The third season begins in Kirtipur on Monday with ICC recognition, DRS technology and greater scope for international players.",
-   "link": "https://kathmandupost.com/sports/2026/10/25/npl-returns-with-bigger-ambitions-and-global-recognition",
-   "source": "Kathmandu Post",
-   "ts": 1792878049.7934456,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "NPL returns with bigger ambitions and global recognition",
-   "en": "NPL returns with bigger ambitions and global recognition",
-   "ne": "NPL returns with bigger ambitions and global recognition",
-   "imp": 2,
-   "tags": [
-    "NPL",
-    "Ambitions"
-   ],
-   "cat": "sports",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "भारतीय एयरलाइन्सद्वारा साउदी अरेबियाका उडान स्थगित",
-   "summary": "मध्यपूर्वमा हुती विद्रोहीहरूको आक्रमण र बढ्दो सुरक्षा तनावका कारण एयर इन्डिया, एयर इन्डिया एक्सप्रेस र अकासा एयरले साउदी अरेबियाका विभिन्न सहरतर्फका उडानहरूमाथिको रोक थप लम्ब्याएका छन् । सुरक्षा वातावरणको गम्भीर समीक्षा...",
-   "link": "http://lokaantar.com/story/331861/2026/10/25/saudi-airport-",
-   "source": "Lokaantar",
-   "ts": 1792878049.3765204,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "भारतीय एयरलाइन्सद्वारा साउदी अरेबियाका उडान स्थगित",
-   "en": "भारतीय एयरलाइन्सद्वारा साउदी अरेबियाका उडान स्थगित",
-   "ne": "भारतीय एयरलाइन्सद्वारा साउदी अरेबियाका उडान स्थगित",
-   "imp": 1,
-   "tags": [
-    "IndianAirlines",
-    "SaudiFlights"
-   ],
-   "cat": "world",
    "val": 2,
    "teaser": false,
    "hits": 1
@@ -4684,7 +4645,7 @@
    "cat": "culture",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "NCP rules out UML unity; leaders to visit villages to hear public criticism",
@@ -4891,6 +4852,54 @@
     "कोदो"
    ],
    "cat": "economy",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "साउदी अरबको राजधानी रियादमा तीनवटा विस्फोटको आवाज सुनियो",
+   "summary": "साउदी अरबको राजधानी रियादमा आइतबार बिहान तीनवटा विस्फोटको आवाज सुनिएको छ।",
+   "link": "https://nagariknews.nagariknetwork.com/international/three-explosions-heard-in-saudi-arabia-s-capital-riyadh-27-20.html",
+   "source": "Nagarik News",
+   "ts": 1792906997,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2025/third-party/1792907063_riyad%20saudi.jpg",
+   "lang": "ne",
+   "hl": "साउदी अरबको राजधानी रियादमा तीनवटा विस्फोटको आवाज सुनियो",
+   "en": "साउदी अरबको राजधानी रियादमा तीनवटा विस्फोटको आवाज सुनियो",
+   "ne": "साउदी अरबको राजधानी रियादमा तीनवटा विस्फोटको आवाज सुनियो",
+   "imp": 1,
+   "tags": [
+    "SaudiArabia",
+    "Riyadh",
+    "Explosion",
+    "रियाद"
+   ],
+   "cat": "world",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "बाढीपहिरो प्रभावित क्षेत्रमा बत्ती बल्यो",
+   "summary": "नेपाल विद्युत प्राधिकरणको बेनी र तातोपानी वितरण केन्द्रले बाढीपहिरोले क्षति पुगेका प्रशारण, शाखा लाइन लगायतका संरचना मर्मत गरेर विद्युत आपूर्ति पूर्ववत् गरेका हुन्।...",
+   "link": "https://nagariknews.nagariknetwork.com/economy/power-supply-restored-in-flood-and-landslide-affected-areas-br-47-14.html",
+   "source": "Nagarik News",
+   "ts": 1792906379,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2025/third-party/1792906462_elec%2008.jpg",
+   "lang": "ne",
+   "hl": "बाढीपहिरो प्रभावित क्षेत्रमा बत्ती बल्यो",
+   "en": "बाढीपहिरो प्रभावित क्षेत्रमा बत्ती बल्यो",
+   "ne": "बाढीपहिरो प्रभावित क्षेत्रमा बत्ती बल्यो",
+   "imp": 3,
+   "tags": [
+    "Flood",
+    "Landslide",
+    "Electricity",
+    "बाढीपहिरो"
+   ],
+   "cat": "disaster",
    "val": 2,
    "teaser": false,
    "hits": 1
@@ -7778,10 +7787,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "disaster"
+  },
+  {
+   "ts": 1792907450.4426482,
+   "en": "Nepali Congress Elects 14 MPs to New Working Committee, 10 Defeated",
+   "ne": "Nepali Congress Elects 14 MPs to New Working Committee, 10 Defeated",
+   "link": "http://english.ratopati.com/story/84461/nepali-congresss-new-working-committee-was-won-by-14-mps-while-10-were-defeated",
+   "source": "Ratopati EN",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "politics"
   }
  ],
- "updated": 1792906855,
- "pending_since": null,
+ "updated": 1792907460,
+ "pending_since": 1792907445.1744144,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
