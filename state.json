@@ -1,6 +1,5 @@
 {
  "seen": {
-  "http://english.ratopati.com/story/84370/nepals-three-climate-project-proposals-approved-by-adaptation-fund": 1792801868.3745944,
   "http://lokaantar.com/story/331804/2026/10/24/pokhara-dubai-": 1792802446.589988,
   "http://english.ratopati.com/story/84371/partial-influence-of-westerly-winds-persists-light-rain-likely-in-these-four-provinces-today": 1792802446.589988,
   "https://www.setopati.com/social/401210": 1792802446.589988,
@@ -1376,32 +1375,11 @@
   "https://baahrakhari.com/detail/505648": 1792974666.2809324,
   "https://nagariknews.nagariknetwork.com/editorial/billions-in-training-drought-in-learning-br-38-76.html": 1792974666.2809324,
   "https://baahrakhari.com/detail/505666": 1792974666.2809324,
-  "https://baahrakhari.com/detail/505665": 1792974666.2809324
+  "https://baahrakhari.com/detail/505665": 1792974666.2809324,
+  "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9RSDVjM2hYcmhZNzhHaERKTHl6MHlFaVJlVWRVcE1nSDdtN2xTOFhMeVp1SE1BcXRpRUVMem9pQThPbWNkOF82UVNLVVZmbTh4?oc=5": 1792975246.137155,
+  "https://risingnepaldaily.com/news/88030": 1792975246.137155
  },
  "queue": [
-  {
-   "title": "Muscat student's rover-drone rescue system wins recognition in flood-hit Nepal",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMmw1VWVJdjhSOTdMTGlveWprY2dlQXZDR25sTEZGUVYybFRQaDF2U05pU1Fka2ppVGx4amhBQi04MjJQZnBhejF1NF9GcW1iX3FPa2x2NU55TVFSWUNiaE9uWm1mVXVpTVVCeUxHUkY2d3JfWDJLazJmV21kdzRBbnpUU0YtT3ZsbFd1alZOVzcxS0pEaS1XQmh2TWNxZDBCSzBkaDZES3JMNlRsY1JmN0FhWHJ5Zw?oc=5",
-   "source": "Times of Oman",
-   "ts": 1792946280,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Muscat student's rover-drone rescue system wins recognition in flood-hit Nepal",
-   "en": "Muscat student's rover-drone rescue system wins recognition in flood-hit Nepal",
-   "ne": "Muscat student's rover-drone rescue system wins recognition in flood-hit Nepal",
-   "imp": 2,
-   "tags": [
-    "DroneRescue",
-    "FloodAid",
-    "Nepal"
-   ],
-   "cat": "tech",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
   {
    "title": "अचेत भेटिएका पुरुषको उपचारका क्रममा मृत्यु",
    "summary": "शिवशंङ्कर मिश्रा बारा, कात्तिक ८ गते । बाराको कोल्हवी नगरपालिका-२ निकास टोलमा अचेत अवस्थामा फेला परेका एक अपरिचित पुरुषको उपचारका क्रममा मृत्यु भएको छ ।आइतबार दिउँसो करिब ३ः२५ बजे...",
@@ -1446,7 +1424,7 @@
    "cat": "sports",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 4
   },
   {
    "title": "मकवानपुरमा चाँदीजस्तो देखिने १४.१८० किलो धातुसहित चारजना पक्राउ",
@@ -1491,30 +1469,6 @@
     "PremierLeague"
    ],
    "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "झापामा जमिनमुनि राखेको डिजेल ट्यांकी पड्किएर आगलागी, एकजना घाइते",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/505662",
-   "source": "Baahrakhari",
-   "ts": 1792946062,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "झापामा जमिनमुनि राखेको डिजेल ट्यांकी पड्किएर आगलागी, एकजना घाइते",
-   "en": "झापामा जमिनमुनि राखेको डिजेल ट्यांकी पड्किएर आगलागी, एकजना घाइते",
-   "ne": "झापामा जमिनमुनि राखेको डिजेल ट्यांकी पड्किएर आगलागी, एकजना घाइते",
-   "imp": 2,
-   "tags": [
-    "Jhapa",
-    "Fire",
-    "Accident",
-    "झापा"
-   ],
-   "cat": "society",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -4879,8 +4833,8 @@
    "cat": "culture"
   }
  ],
- "updated": 1792974673,
- "pending_since": null,
+ "updated": 1792975251,
+ "pending_since": 1792975246.137155,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
