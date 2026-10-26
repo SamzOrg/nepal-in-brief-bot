@@ -1811,7 +1811,8 @@
   "https://gorkhapatraonline.com/news/227332": 1793044256.8668716,
   "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWjhsMTZMYkZHMWJiZ25CcFVZa1N2NG14a0RHSnJ1cWNLcGo5R1J3SXRSSjJLcVVnVWl1TW9UZUt2cURHcUNVSTFEV1A5bmpZV3FpOHZCRVBSdkxPQUE3NG9sdFlwdVVxWXl5WEFMY01lMWFENUk2MGRzN1lDLWRIWWd4MVE0N09uSzZ2SExzMA?oc=5": 1793044256.8668716,
   "https://news.google.com/rss/articles/CBMiTkFVX3lxTE96d240ZVV3dHNnZ2UyUjhOWEpvdHBhbnpMUjBYNzlHSXRnakl2eE9iN1ZPT19icDljQUZZaVVyOUl1aXkyLXBCYlFjZUJzdw?oc=5": 1793047256.5165324,
-  "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdl9FTGhzX2tST05kM1ZkT2tsRVg3ellYMFZaazYtUWRPUDN0U0hxNFRESVFTNFlHSTJUQTZ1MXhzWjhKeHc2WnlqODlVTURqdk1IU05GaENzVHljRnpoZFFzM1dObjFzaUhOYUZxdkU4eVYzMEdzbjg5a2tETVBtcm1idzhVX2l4Vzgxc0NIdjN3aFVkRkZfbmdtQVlhM3FJaGZCTFpQRDlMblk?oc=5": 1793047256.5165324
+  "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdl9FTGhzX2tST05kM1ZkT2tsRVg3ellYMFZaazYtUWRPUDN0U0hxNFRESVFTNFlHSTJUQTZ1MXhzWjhKeHc2WnlqODlVTURqdk1IU05GaENzVHljRnpoZFFzM1dObjFzaUhOYUZxdkU4eVYzMEdzbjg5a2tETVBtcm1idzhVX2l4Vzgxc0NIdjN3aFVkRkZfbmdtQVlhM3FJaGZCTFpQRDlMblk?oc=5": 1793047256.5165324,
+  "https://news.google.com/rss/articles/CBMigANBVV95cUxOSFlEVHZidTd0ZmFjNF9Kd20yZHE1S3VLX0gzc0g3dzZ4ejQ1QmItR0FfdkhRRVF0YWQwWkIzNExYSC1tT3ZwcHJNWUJZRXNFd3FGSHR3dTdtSDNhQm85RG5XMU4xd240SVdVS1JqRXZHT284Sm5zcmM4ekJDWm5ob3FjSVl6eExHcjRkUmdiWGFOWDZpMF9ZTXNKSGxyUUloNzVuSmtqSk1EV1hTYlZTRmo2Z1VreVdXTTNjTEdkV0FuTU5JOVFHQ2ExU25Rdlo4MTd6dGtMNGxVZWItTi1fVGRWa3hWUnVqZkc4OHljRXc0cjFsVVNnZy1aQkM3bE45UElmclAzbGpxYWI3dEFYQUVUM3RkdElGbnpGN01hZFpTb0FwbmIxYWw4VTdFcVVWWTQ2d0k5YnJSTDFTTHotTkR2Mm9zbS1wT2hqOXd2NlZ3LW1JdHNBbzNJS1pOeWwwM2JBNmFxV3VKVTk2T2ZFN2ZkQVdReUk1ZkpkNjVTaWc?oc=5": 1793052650.5796242
  },
  "queue": [
   {
@@ -1902,28 +1903,6 @@
    "val": 2,
    "teaser": false,
    "hits": 2
-  },
-  {
-   "title": "क्यान्सरको नयाँ वैज्ञानिक अनुसन्धानमा नेपालको नमूना पनि प्रयोग",
-   "summary": "वैज्ञानिक जर्नल 'मोलिक्युल्स' मा यही अक्टोबर २४ मा प्रकाशित अध्ययन अनुसार नेपालसहित पाँच देशका मौरीको चोप उक्त अनुसन्धानमा परीक्षण गरिएको हो।",
-   "link": "https://www.setopati.com/social/401328",
-   "source": "Setopati",
-   "ts": 1793023440,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "क्यान्सरको नयाँ वैज्ञानिक अनुसन्धानमा नेपालको नमूना पनि प्रयोग",
-   "en": "क्यान्सरको नयाँ वैज्ञानिक अनुसन्धानमा नेपालको नमूना पनि प्रयोग",
-   "ne": "क्यान्सरको नयाँ वैज्ञानिक अनुसन्धानमा नेपालको नमूना पनि प्रयोग",
-   "imp": 3,
-   "tags": [
-    "CancerResearch",
-    "Nepal"
-   ],
-   "cat": "health",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
   },
   {
    "title": "पाल्पामा बसको ठक्करबाट एकजनाको मृत्यु",
@@ -5739,8 +5718,8 @@
    "cat": "disaster"
   }
  ],
- "updated": 1793052096,
- "pending_since": null,
+ "updated": 1793052655,
+ "pending_since": 1793052650.5796242,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
