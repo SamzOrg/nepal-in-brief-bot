@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://gorkhapatraonline.com/news/227158": 1792863067.8021505,
   "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVXNmMjVvWmM3UnNSSEJjX2NHMFJ3LXUtUmFuNWt4V1VpU2ZQeFlzU3JnTGVsSFBTZ1kxaGRreDVIQlNOa3M4SVRQUVFFUW9ZSk0tZEpZaVpyVlMxRHZucW15b2dYOWZmcHBFMHMtSGE0N3RhTU5xOTJyTGxSazRWaW1ULVI?oc=5": 1792864244.7387736,
   "https://gorkhapatraonline.com/news/227159": 1792864244.7387736,
   "http://english.ratopati.com/story/84431/lula-and-bolsonaro-both-sound-calm-in-final-election-debate": 1792864244.7387736,
@@ -1813,30 +1812,6 @@
  },
  "queue": [
   {
-   "title": "India wins gold at inaugural Box Langdi World Cup in Nepal",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSzhtMF84WWU2cGhtN2c4bmVuUFYyZE90UEFDbGhVNDcyV0dwbXRKWE1mU0g2RlBRY05lZlFuek5SdEhRVzFUc0dwZ18zRWl5ZjdUcVVtSHdFand0VVdJVkVDaVFfYTNxbjloV0ktN0p4djN4X28zSXZyLS1tNDRoejlNYWFsbFZBcXBOdDBxT1dMT1lFTnFLSQ?oc=5",
-   "source": "Newsband",
-   "ts": 1793006718,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "India wins gold at inaugural Box Langdi World Cup in Nepal",
-   "en": "India wins gold at inaugural Box Langdi World Cup in Nepal",
-   "ne": "India wins gold at inaugural Box Langdi World Cup in Nepal",
-   "imp": 3,
-   "tags": [
-    "BoxLangdi",
-    "WorldCup",
-    "Nepal",
-    "India"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "सबैलाई मिलाएर लाने जिम्मेवारी काँधमा आएको छ - सभापति थापा",
    "summary": "अर्जुन काफ्लेस्याङ्जा, कात्तिक ९ गते । नेपाली कांग्रेसका सभापति गगनकुमार थापाले आफु नेतृत्वमा कर्म गर्न आएको बताउनुभएको छ ।पुतलीबजार नगरपालिका -१ मा रहेका जिल्ला पार्टी कार्यालयमा...",
    "link": "https://gorkhapatraonline.com/news/227285",
@@ -1952,29 +1927,6 @@
    "hits": 1
   },
   {
-   "title": "Nepali Congress to finalise preliminary candidate list by Poush-Magh: Thapa",
-   "summary": "Kathmandu, October 26 Nepali Congress President Gagan Thapa has said the preliminary process of selecting candidates for the upcoming local-level elections will be completed by Poush-Magh. Speaking at a programme in...",
-   "link": "https://english.onlinekhabar.com/nepali-congress-to-finalise-preliminary-candidate-list-by-poush-magh-thapa.html",
-   "source": "Onlinekhabar EN",
-   "ts": 1793006604,
-   "weight": 3,
-   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/10/Gagan-1.jpg",
-   "lang": "en",
-   "hl": "Nepali Congress to finalise preliminary candidate list by Poush-Magh: Thapa",
-   "en": "Nepali Congress to finalise preliminary candidate list by Poush-Magh: Thapa",
-   "ne": "Nepali Congress to finalise preliminary candidate list by Poush-Magh: Thapa",
-   "imp": 3,
-   "tags": [
-    "NepaliCongress",
-    "GaganThapa",
-    "Candidates"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
    "title": "मक्का रक्षा सम्झौताका सदस्य राष्ट्रका अधिकारी र इरानी नेतृत्वबीच तेहरानमा वार्ता",
    "summary": "",
    "link": "https://baahrakhari.com/detail/505715",
@@ -2021,29 +1973,6 @@
    "hits": 1
   },
   {
-   "title": "Three Arrested in Jordan Church Attack",
-   "summary": "Kathmandu. After an attack on Jordan's Greek Orthodox Church resulted in 9 deaths and 25 injuries, security officials have arrested...",
-   "link": "http://english.ratopati.com/story/84608/three-arrested-in-jordan-church-attack",
-   "source": "Ratopati EN",
-   "ts": 1793006938,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/jordan-flag_uAdF2yFPDu.jpg",
-   "lang": "en",
-   "hl": "Three Arrested in Jordan Church Attack",
-   "en": "Three Arrested in Jordan Church Attack",
-   "ne": "Three Arrested in Jordan Church Attack",
-   "imp": 1,
-   "tags": [
-    "Jordan",
-    "ChurchAttack",
-    "Arrests"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "राति घरबाट निस्किएका दुई दिदीबहिनी दैलेखको जंगलमा मृ'त फेला",
    "summary": "दैलेखमा नाताले दिदीबहिनी पर्ने दुई बालिका जंगलमा मृत अवस्थामा फेला परेका छन्। १३ र १४ वर्षका ती बालिकाहरूको शव सोमबार बिहान घरनजिकैको जंगलमा भेटिएको हो।...",
    "link": "https://nagariknews.nagariknetwork.com/social-affairs/two-girls-found-dead-in-dailekh-90-59.html",
@@ -2062,28 +1991,6 @@
     "दैलेख"
    ],
    "cat": "crime",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "EU Imposes New Parcel Handling Fees From November 1",
-   "summary": "Kathmandu. The European Union (EU) will impose a two-euro handling fee on parcels coming from outside the union from November...",
-   "link": "http://english.ratopati.com/story/84607/two-euro-fee-for-small-parcels-in-the-eu",
-   "source": "Ratopati EN",
-   "ts": 1793006672,
-   "weight": 2,
-   "img": "https://rpcdn.ratopati.com/media/albums/european_ZYFdqvaoJs.JPG",
-   "lang": "en",
-   "hl": "EU Imposes New Parcel Handling Fees From November 1",
-   "en": "EU Imposes New Parcel Handling Fees From November 1",
-   "ne": "EU Imposes New Parcel Handling Fees From November 1",
-   "imp": 1,
-   "tags": [
-    "ParcelFees",
-    "Economy"
-   ],
-   "cat": "world",
    "val": 3,
    "teaser": false,
    "hits": 2
@@ -3318,28 +3225,6 @@
     "NobelPrize"
    ],
    "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Canada's First Data Lakehouse Goes Global in Banking: Nabil Bank Becomes Nepal's First Bank to Implement a True Agentic Lakehouse Platform, DataNature",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPQm1kd2pPUWFjeldfMmZPV3kwQkVvR0dKQ1dOUS1UUVFYVzItS2ZkVXlxZ1Q0OVVqeDNYLU1IZzYwTzVSYk9lMUxlazM2ODFuM1VXOVYtaWdJM0ZtVXpXOVY3Z1RjNVBaWnVEclYzRkIwdXdkRDNsSnZyWWlfbkU3WXlLTEVNaDBoYUV2ak5fUF9ucmUzMjFSQnZsVEw0MW5HYVAwRWFJRGRHQ1JKSmFCTnA5bWFIVlp0VHJLbEFlNWhoUjV5RjFWVmc0VEMyd1ozZS1LRDB1Q25YSmo5VkFkc19WRTRhY3VaZnRjRjJpUjcycl9qWlZwT0dSeVZuZjQ3MUd6V1BFb1pzb3BKSS1MalpFeUNnOWFCOHNLM1R4WTFzYnpM?oc=5",
-   "source": "USA Today",
-   "ts": 1793006998,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Canada's First Data Lakehouse Goes Global in Banking: Nabil Bank Becomes Nepal's First Bank to Implement a True Agentic Lakehouse Platform, DataNature",
-   "en": "Canada's First Data Lakehouse Goes Global in Banking: Nabil Bank Becomes Nepal's First Bank to Implement a True Agentic Lakehouse Platform, DataNature",
-   "ne": "Canada's First Data Lakehouse Goes Global in Banking: Nabil Bank Becomes Nepal's First Bank to Implement a True Agentic Lakehouse Platform, DataNature",
-   "imp": 2,
-   "tags": [
-    "NabilBank",
-    "DataNature"
-   ],
-   "cat": "tech",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -8459,8 +8344,8 @@
    "cat": "disaster"
   }
  ],
- "updated": 1793035266,
- "pending_since": null,
+ "updated": 1793035874,
+ "pending_since": 1793035870.1541872,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
