@@ -1444,7 +1444,8 @@
   "https://www.setopati.com/social/401298": 1792989647.6842113,
   "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMmxRZnd3WGxMeUhsNS1wS1ZNam85SWNreXF4dEtGazNpM0VjaFBUWktjbU1veXMyWXV5NTMweXJQd2lJSEUyWFpCWmh2OFhsaHBIZ1ltYXd4U1dGR0JzbGdHckxiRWstSlFKUG1Jb0dPRTRKQlhNZFY1b2hhWWx2ZmJPd2VSdGI2VXJkZ0k0bFYydw?oc=5": 1792989647.6842113,
   "https://nagariknews.nagariknetwork.com/arts/nepathya-performing-at-paljor-stadium-in-sikkim-96-78.html": 1792989647.6842113,
-  "http://lokaantar.com/story/331933/2026/10/26/accident-": 1792989647.6842113
+  "http://lokaantar.com/story/331933/2026/10/26/accident-": 1792989647.6842113,
+  "http://english.ratopati.com/story/84559/with-the-end-of-dashain-holidays-the-valley-is-back-to-life-with-heavy-traffic-on-the-roads": 1792990246.8697615
  },
  "queue": [
   {
@@ -3771,29 +3772,6 @@
    "hits": 6
   },
   {
-   "title": "Nepal Makes Significant Strides in Reducing Hunger, Global Hunger Index 2026 Report Shows",
-   "summary": "Kathmandu. Hunger is not just an empty stomach; it is also a sensitive picture of the society's social structure, the...",
-   "link": "http://english.ratopati.com/story/84555/nepals-leap-against-hunger-ground-level-challenges-in-the-light-of-statistics",
-   "source": "Ratopati EN",
-   "ts": 1792988354,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/poor-garib_nZuEKurbS3.jpg",
-   "lang": "en",
-   "hl": "Nepal Makes Significant Strides in Reducing Hunger, Global Hunger Index 2026 Report Shows",
-   "en": "Nepal Makes Significant Strides in Reducing Hunger, Global Hunger Index 2026 Report Shows",
-   "ne": "Nepal Makes Significant Strides in Reducing Hunger, Global Hunger Index 2026 Report Shows",
-   "imp": 3,
-   "tags": [
-    "GlobalHungerIndex",
-    "Hunger",
-    "Nepal"
-   ],
-   "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
    "title": "समावेशीकरणको दिशामा नयाँ फड्को : गोरखापत्रद्वारा प्रकाशित चेपाङ भाषा",
    "summary": "",
    "link": "https://gorkhapatraonline.com/news/227263",
@@ -4288,17 +4266,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1792384858.895258,
-   "en": "Four arrested with 916 kg of marijuana in Sunsari",
-   "ne": "Four arrested with 916 kg of marijuana in Sunsari",
-   "link": "https://thehimalayantimes.com/nepal/four-arrested-with-916-kg-of-marijuana-in-sunsari",
-   "source": "Himalayan Times",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "crime"
-  },
   {
    "ts": 1792386657.2570932,
    "en": "गोकर्णेश्वरमा मोटरसाइकल दुर्घटना हुँदा एकजनाको मृत्यु, एक घाइते",
@@ -7191,9 +7158,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "disaster"
+  },
+  {
+   "ts": 1792990252.8722775,
+   "en": "Nepal Makes Significant Strides in Reducing Hunger, Global Hunger Index 2026 Report Shows",
+   "ne": "Nepal Makes Significant Strides in Reducing Hunger, Global Hunger Index 2026 Report Shows",
+   "link": "http://english.ratopati.com/story/84555/nepals-leap-against-hunger-ground-level-challenges-in-the-light-of-statistics",
+   "source": "Ratopati EN",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "society"
   }
  ],
- "updated": 1792989652,
+ "updated": 1792990266,
  "pending_since": 1792988447.5065272,
  "fb_blocks": [
   1790350880.4125228,
