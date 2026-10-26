@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://gorkhapatraonline.com/news/227148": 1792843851.0494013,
   "https://nagariknews.nagariknetwork.com/social-affairs/12-injured-in-collision-between-passenger-vehicle-and-chemical-truck-in-sarlahi-48-75.html": 1792844452.1332297,
   "https://baahrakhari.com/detail/505583": 1792844452.1332297,
   "https://risingnepaldaily.com/news/87990": 1792844452.1332297,
@@ -1711,7 +1710,8 @@
   "http://english.ratopati.com/story/84636/9-people-arrested-with-drugs-from-various-districts": 1793016091.0502536,
   "https://www.setopati.com/literature/401340": 1793016091.0502536,
   "https://baahrakhari.com/detail/505731": 1793016091.0502536,
-  "https://nagariknews.nagariknetwork.com/sports/sudurpaschim-suffers-initial-setback-sher-malla-takes-binod-bhandari-s-wicket-85-21.html": 1793016091.0502536
+  "https://nagariknews.nagariknetwork.com/sports/sudurpaschim-suffers-initial-setback-sher-malla-takes-binod-bhandari-s-wicket-85-21.html": 1793016091.0502536,
+  "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBZMHUtWnItei1DRHdXTlFtNUtzak94dWpoSFE3ZjhTWnppdTNpVnd3dnVuekdaUzJnSFFHdW5qYUt0YzB1QUwwa2VRN2JvbXhNaTVn?oc=5": 1793016652.0909884
  },
  "queue": [
   {
@@ -1780,75 +1780,6 @@
     "Nepal"
    ],
    "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "दराजमाथिको झोला खोल्दा किन पक्राउ परिन् २३ वर्षीया अस्मिता ?",
-   "summary": "खानतलासीका क्रममा कोठाको दराजमाथि राखिएको कालो रंगको महिलाले बोक्ने झोलाभित्र खैरो रंगको धुलोजस्तो पदार्थ फेला परेको प्रहरीले जनाएको छ। उक्त पदार्थको तौल ९ ग्राम २४० मिलिग्राम रहेको छ।...",
-   "link": "https://nagariknews.nagariknetwork.com/Aparadh/why-was-23-year-old-asmita-arrested-for-opening-a-bag-on-top-of-a-drawer-79-79.html",
-   "source": "Nagarik News",
-   "ts": 1792987732,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1792987620_Asmita.jpg",
-   "lang": "ne",
-   "hl": "दराजमाथिको झोला खोल्दा किन पक्राउ परिन् २३ वर्षीया अस्मिता ?",
-   "en": "दराजमाथिको झोला खोल्दा किन पक्राउ परिन् २३ वर्षीया अस्मिता ?",
-   "ne": "दराजमाथिको झोला खोल्दा किन पक्राउ परिन् २३ वर्षीया अस्मिता ?",
-   "imp": 2,
-   "tags": [
-    "Crime",
-    "Police",
-    "अस्मिता"
-   ],
-   "cat": "crime",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "सम्पत्ति शुद्धीकरणको नयाँ निर्देशन र व्यवस्था पुरानै, सेयर बजारमा अनावश्यक हल्ला!",
-   "summary": "सेयर बजारमा सम्पत्ति शुद्धीकरणसम्बन्धी नयाँ निर्देशन जारी भएपछि लगानीकर्तामाझ चासो बढेको छ। ब्रोकरहरू भने व्यवस्था पुरानै भएको र अनावश्यक हल्ला फैलिएको बताउँछन्। आखिर नयाँ निर्देशनमा के छ र लगानीकर्ताले किन डराउनुपर्दैन?",
-   "link": "https://www.setopati.com/kinmel/banking/401269",
-   "source": "Setopati",
-   "ts": 1792987598,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "सम्पत्ति शुद्धीकरणको नयाँ निर्देशन र व्यवस्था पुरानै, सेयर बजारमा अनावश्यक हल्ला!",
-   "en": "सम्पत्ति शुद्धीकरणको नयाँ निर्देशन र व्यवस्था पुरानै, सेयर बजारमा अनावश्यक हल्ला!",
-   "ne": "सम्पत्ति शुद्धीकरणको नयाँ निर्देशन र व्यवस्था पुरानै, सेयर बजारमा अनावश्यक हल्ला!",
-   "imp": 3,
-   "tags": [
-    "ShareMarket",
-    "AML",
-    "सेयरबजार"
-   ],
-   "cat": "economy",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "विदेशबाट आएर स्वदेशमा फूल खेती",
-   "summary": "सन्तोष दहितदाङ, कात्तिक ९ गते । तिहार नजिकिएसँगै दाङको घोराही उपमहानगरपालिका-१४, झिङ्गौरास्थित लोकेन्द्र रोकामगरको फूलबारी ढकमक्क फुलेको सयपत्री फूलले पहेँलपुर बनेको छ । फूलबारीमा...",
-   "link": "https://gorkhapatraonline.com/news/227262",
-   "source": "Gorkhapatra",
-   "ts": 1792987778,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/388892/conversions/Untitled-1-original.jpg",
-   "lang": "ne",
-   "hl": "विदेशबाट आएर स्वदेशमा फूल खेती",
-   "en": "विदेशबाट आएर स्वदेशमा फूल खेती",
-   "ne": "विदेशबाट आएर स्वदेशमा फूल खेती",
-   "imp": 2,
-   "tags": [
-    "Agriculture",
-    "Floriculture",
-    "फूलखेती"
-   ],
-   "cat": "economy",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -4177,52 +4108,6 @@
    "hits": 3
   },
   {
-   "title": "20th CPC Central Committee starts fifth plenary session",
-   "summary": "The 20th Central Committee of the Communist Party of China (CPC) started its fifth plenary session in Beijing on Monday morning.Xi Jinping, general secretary of the CPC Central Committee, delivered a work report on...",
-   "link": "https://theannapurnaexpress.com/story/68229",
-   "source": "Annapurna Express",
-   "ts": 1792987850.9322603,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "20th CPC Central Committee starts fifth plenary session",
-   "en": "20th CPC Central Committee starts fifth plenary session",
-   "ne": "20th CPC Central Committee starts fifth plenary session",
-   "imp": 1,
-   "tags": [
-    "China",
-    "CPC",
-    "Politics"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "१५ मिनेटमा आउँछु भनेर हिँडेका गुप्ता बोराभित्र मृत भेटिए !",
-   "summary": "सुनसरीको बर्जु गाउँपालिका-२ भीमपुरस्थित केसेलिया खोलामा बोराले बेरिएको अवस्थामा मृत भेटिएका भारतीय नागरिक लालजीप्रसाद गुप्ता विगत ४० वर्षदेखि नेपालमै बस्दै आएको तथ्य खुलेको छ ।विराटनगर महानगरपालिका-११ स्थित केसरियामा...",
-   "link": "http://lokaantar.com/story/331948/2026/10/26/crime",
-   "source": "Lokaantar",
-   "ts": 1792987850.4249113,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "१५ मिनेटमा आउँछु भनेर हिँडेका गुप्ता बोराभित्र मृत भेटिए !",
-   "en": "१५ मिनेटमा आउँछु भनेर हिँडेका गुप्ता बोराभित्र मृत भेटिए !",
-   "ne": "१५ मिनेटमा आउँछु भनेर हिँडेका गुप्ता बोराभित्र मृत भेटिए !",
-   "imp": 3,
-   "tags": [
-    "Murder",
-    "Investigation",
-    "Nepal"
-   ],
-   "cat": "crime",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Minister Apologizes to Singer Daler Mehndi After Accusation",
    "summary": "Mumbai. The team of singer Mika Singh has stated that Uttarakhand Minister Subodh Uniyal, who claimed that singer Daler Mehndi...",
    "link": "http://english.ratopati.com/story/84591/uttarakhand-minister-apologizes-to-daler-mehndi",
@@ -4313,29 +4198,6 @@
    "val": 3,
    "teaser": false,
    "hits": 4
-  },
-  {
-   "title": "मन्थलीका १०२ छात्रालाई छात्रवृत्ति, दुई शिक्षक पुरस्कृत",
-   "summary": "रामेछापको मन्थली नगरपालिका-१ सानिमदौमा १०२ जना छात्रालाई छात्रवृत्ति प्रदान गरिएको छ। मन्थली नगरपालिका-१ निवासी श्याम सुवेदी तथा उनको परिवारले ११ वर्षअघि शुरू गरेको छात्रवृत्ति कार्यक्रमअन्तर्गत यस वर्ष विभिन्न आठ...",
-   "link": "http://lokaantar.com/story/331944/2026/10/26/manthali-",
-   "source": "Lokaantar",
-   "ts": 1792987850.4249113,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "मन्थलीका १०२ छात्रालाई छात्रवृत्ति, दुई शिक्षक पुरस्कृत",
-   "en": "मन्थलीका १०२ छात्रालाई छात्रवृत्ति, दुई शिक्षक पुरस्कृत",
-   "ne": "मन्थलीका १०२ छात्रालाई छात्रवृत्ति, दुई शिक्षक पुरस्कृत",
-   "imp": 2,
-   "tags": [
-    "Manthali",
-    "Scholarship",
-    "School"
-   ],
-   "cat": "education",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
   },
   {
    "title": "२९ दिनको महिनामा १२ दिन मात्रै कार्यालय खुल्ने",
@@ -7451,6 +7313,28 @@
    "val": 1,
    "teaser": true,
    "hits": 1
+  },
+  {
+   "title": "German climber dies on Nepal's Ama Dablam mountain",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBZMHUtWnItei1DRHdXTlFtNUtzak94dWpoSFE3ZjhTWnppdTNpVnd3dnVuekdaUzJnSFFHdW5qYUt0YzB1QUwwa2VRN2JvbXhNaTVn?oc=5",
+   "source": "Gulf Daily News (Bahrain)",
+   "ts": 1793016253,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "German climber dies on Nepal's Ama Dablam mountain",
+   "en": "German climber dies on Nepal's Ama Dablam mountain",
+   "ne": "German climber dies on Nepal's Ama Dablam mountain",
+   "imp": 2,
+   "tags": [
+    "AmaDablam",
+    "GermanClimber"
+   ],
+   "cat": "other",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
@@ -10348,7 +10232,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1793016105,
+ "updated": 1793016664,
  "pending_since": 1793016091.0502536,
  "fb_blocks": [
   1790350880.4125228,
