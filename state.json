@@ -1,8 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQLUhfWE1TTWc3TGZfTWdHWFA3NnpHZkc0c1lEMlF0NzVJTDIyMHB3NTBNTE50ZU1SUVNkbU9vRTVHSmZvRWp2Z1g0OW5ZUFlWUnkzMFJneHJ5RlZhbGZDRTFpRU5CbGY2N2hDbTNGbXN1bmNmTjFqVzFSdmRXQk5nSkR3WmdEajlrUjgxR29iNEptbEhSLUR5NmswZHZCWDlIMEJhNktYYWxLRnBHZzRwcXBwUmoxb0ctUHNyQ1NyLWc?oc=5": 1792880775.0833666,
-  "http://english.ratopati.com/story/84432/tottenham-win-beating-chelsea-2-0": 1792880775.0833666,
-  "http://english.ratopati.com/story/84433/atleticos-tough-win-over-deportivo-alvarez-becomes-hero": 1792881068.2211552,
   "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNc2czSmVqVG1CN29kMHY0eGI4c0wxaVUyT2NiamFVSnBlSzBubFU3Z21WVUwzeTlTdDNjcTR3cXIwWHhHdXdQd21ZeUNwSXBLVmlMNzhQdThCYXB5aTNWU1JoRkp3OFFQbW1SRWJVZk5RZFZXTGJrS2RFcmtObUxxR2YzcG9ENGh6MF9majQ5UDg1SndZTkdicWZ0V3NSSk9mYzU0UjB0MV9EUGtjQkZqTDJQb0l6Y1RleEdIdDlNbWkyRjTSAcMBQVVfeXFMTXNnM0plalRtQjdvZDB2NHhiOHNMMWlVMk9jYmphVUpwZUswbmxVN2dtVlVMM3k5U3QzY3E0d3FyMFh4R3V3UHdtWXlDcElwS1ZpTDc4UHU4QmFweWkzVlNSaEZKdzhRUG1tUkViVWZOUWRWV0xia0tkRXJrTm1McUdmM3BvRDRoejBfZmo0OVA4NUp3WU5HYnFmdFdzUkpPZmM1NFIwdDFfRFBrY0JGakwyUG9JemNUZXhHSHQ5TW1pMkY0?oc=5": 1792884046.238917,
   "https://baahrakhari.com/detail/505594": 1792887650.8592467,
   "http://english.ratopati.com/story/84435/partial-influence-of-westerly-winds-persists-light-rain-likely-in-these-two-provinces-today": 1792887650.8592467,
@@ -1816,29 +1813,6 @@
  },
  "queue": [
   {
-   "title": "Nepal Oil Corporation makes VAT bills mandatory for LPG sales",
-   "summary": "Kathmandu, October 26 Nepal Oil Corporation (NOC) has directed LPG companies to ensure that VAT bills are issued for cooking gas sales through their dealers and retailers. The directive comes amid growing complaints...",
-   "link": "https://english.onlinekhabar.com/noc-vat-bill-mandatory-lpg.html",
-   "source": "Onlinekhabar EN",
-   "ts": 1793024490,
-   "weight": 3,
-   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/10/Nepal-Oil-Corporation.jpg",
-   "lang": "en",
-   "hl": "Nepal Oil Corporation makes VAT bills mandatory for LPG sales",
-   "en": "Nepal Oil Corporation makes VAT bills mandatory for LPG sales",
-   "ne": "Nepal Oil Corporation makes VAT bills mandatory for LPG sales",
-   "imp": 2,
-   "tags": [
-    "VAT",
-    "LPG",
-    "NepalOilCorp"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
    "title": "पाल्पामा बसको ठक्करबाट एकजनाको मृत्यु",
    "summary": "",
    "link": "https://baahrakhari.com/detail/505749",
@@ -1901,51 +1875,6 @@
     "Art"
    ],
    "cat": "culture",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "महाधिवेशनअघि राप्रपाका तीन नेता जिल्ला भ्रमणमा निस्कँदै",
-   "summary": "राष्ट्रिय प्रजातन्त्र पार्टी (राप्रपा) का तीन शीर्ष नेता आसन्न महाधिवेशनअघि पार्टी सङ्गठन सुदृढीकरण र समसामयिक राजनीतिक विषयमा छलफल गर्न जिल्ला भ्रमणमा निस्कने भएका छन् ।...",
-   "link": "https://nagariknews.nagariknetwork.com/politics/three-rpp-leaders-embark-on-district-tour-ahead-of-general-convention-77-12.html",
-   "source": "Nagarik News",
-   "ts": 1793024718,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1786077389__raprapa.jpg",
-   "lang": "ne",
-   "hl": "महाधिवेशनअघि राप्रपाका तीन नेता जिल्ला भ्रमणमा निस्कँदै",
-   "en": "महाधिवेशनअघि राप्रपाका तीन नेता जिल्ला भ्रमणमा निस्कँदै",
-   "ne": "महाधिवेशनअघि राप्रपाका तीन नेता जिल्ला भ्रमणमा निस्कँदै",
-   "imp": 2,
-   "tags": [
-    "RPP",
-    "LeaderVisit"
-   ],
-   "cat": "politics",
-   "val": 2,
-   "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "केपीले क्रिकेट मैदान निर्माणमा जोड दिए, अहिले प्रधानमन्त्री बालेनले एनपीएलको उद्घाटन गरे : चन्द्र भण्डारी",
-   "summary": "नेपाली कांग्रेसका उपसभापति डा. चन्द्र भण्डारीले कांग्रेसले प्रजातान्त्रिक घर निर्माण गरे पनि त्यस क्रममा धेरै व्यक्ति गुमाएको टिप्पणी गरेका छन् ।...",
-   "link": "https://nagariknews.nagariknetwork.com/politics/kp-emphasized-on-the-construction-of-cricket-grounds-now-prime-minister-balen-inaugurated-the-npl-chandra-bhandari-57-77.html",
-   "source": "Nagarik News",
-   "ts": 1793024595,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1777013186_Chandra%20Bhandari.jpg",
-   "lang": "ne",
-   "hl": "केपीले क्रिकेट मैदान निर्माणमा जोड दिए, अहिले प्रधानमन्त्री बालेनले एनपीएलको उद्घाटन गरे : चन्द्र भण्डारी",
-   "en": "केपीले क्रिकेट मैदान निर्माणमा जोड दिए, अहिले प्रधानमन्त्री बालेनले एनपीएलको उद्घाटन गरे : चन्द्र भण्डारी",
-   "ne": "केपीले क्रिकेट मैदान निर्माणमा जोड दिए, अहिले प्रधानमन्त्री बालेनले एनपीएलको उद्घाटन गरे : चन्द्र भण्डारी",
-   "imp": 3,
-   "tags": [
-    "ChandraBhandari",
-    "NPL",
-    "CricketStadium"
-   ],
-   "cat": "politics",
    "val": 3,
    "teaser": false,
    "hits": 2
@@ -5629,7 +5558,7 @@
    "cat": "crime"
   }
  ],
- "updated": 1793053269,
+ "updated": 1793053874,
  "pending_since": 1793052650.5796242,
  "fb_blocks": [
   1790350880.4125228,
