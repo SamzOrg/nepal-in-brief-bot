@@ -1815,29 +1815,6 @@
  },
  "queue": [
   {
-   "title": "Rasuwagadhi Border Crossing Remains Closed for Two Months Due to Flood Damage",
-   "summary": "Kathmandu. Two months have passed since the country's main northern trade route, Rasuwagadhi, was completely shut down.The closure of the...",
-   "link": "http://english.ratopati.com/story/84647/when-will-the-rasuwagadhi-border-crossing-which-has-been-closed-for-two-months-open",
-   "source": "Ratopati EN",
-   "ts": 1793020512,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/rasuwagadhi-naka_3D9Um1w4kD.jpg",
-   "lang": "en",
-   "hl": "Rasuwagadhi Border Crossing Remains Closed for Two Months Due to Flood Damage",
-   "en": "Rasuwagadhi Border Crossing Remains Closed for Two Months Due to Flood Damage",
-   "ne": "Rasuwagadhi Border Crossing Remains Closed for Two Months Due to Flood Damage",
-   "imp": 3,
-   "tags": [
-    "RasuwagadhiBorder",
-    "Flood",
-    "China"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Six killed, three injured in Scorpio crash in Gulmi",
    "summary": "GULMI: Six people have died and three others have been injured in a Scorpio vehicle accident in Dabaukhani, Arbeni, Kaligandaki Rural Municipality-2, Gulmi. The deceased have been identified as driver Dilip Kumar...",
    "link": "https://english.khabarhub.com/2026/26/573264/",
@@ -1926,52 +1903,6 @@
    ],
    "cat": "economy",
    "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "खाद्यद्वारा २७ लाख ३५ हजारको चिनी बिक्री",
-   "summary": "चन्द्र पन्दाकताप्लेजुङ, कात्तिक ९ गते । ताप्लेजुङमा खाद्य व्यवस्था तथा व्यापार कम्पनी लिमिटेडले बिक्री गर्न सुरु गरेको दुई सातामै सत्ताइस लाख रुपियाँ बढीको चिनी बिक्री गरेको छ । खा...",
-   "link": "https://gorkhapatraonline.com/news/227322",
-   "source": "Gorkhapatra",
-   "ts": 1793020778,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/388990/conversions/Khadya-store-Taplejung-original.jpg",
-   "lang": "ne",
-   "hl": "खाद्यद्वारा २७ लाख ३५ हजारको चिनी बिक्री",
-   "en": "खाद्यद्वारा २७ लाख ३५ हजारको चिनी बिक्री",
-   "ne": "खाद्यद्वारा २७ लाख ३५ हजारको चिनी बिक्री",
-   "imp": 2,
-   "tags": [
-    "FoodManagement",
-    "Sugar",
-    "खाद्य"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "सर्वोच्चको व्याख्या : न्यायाधीश आफैँबाट नजिर अवलम्बन नभए 'न्यायिक अराजकता'",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/505735",
-   "source": "Baahrakhari",
-   "ts": 1793020500,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "सर्वोच्चको व्याख्या : न्यायाधीश आफैँबाट नजिर अवलम्बन नभए 'न्यायिक अराजकता'",
-   "en": "सर्वोच्चको व्याख्या : न्यायाधीश आफैँबाट नजिर अवलम्बन नभए 'न्यायिक अराजकता'",
-   "ne": "सर्वोच्चको व्याख्या : न्यायाधीश आफैँबाट नजिर अवलम्बन नभए 'न्यायिक अराजकता'",
-   "imp": 3,
-   "tags": [
-    "SupremeCourt",
-    "Judiciary",
-    "सर्वोच्चअदालत"
-   ],
-   "cat": "politics",
-   "val": 3,
    "teaser": false,
    "hits": 1
   },
@@ -5945,7 +5876,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1793049054,
+ "updated": 1793049653,
  "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
