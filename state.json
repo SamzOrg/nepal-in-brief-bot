@@ -1571,77 +1571,12 @@
   "https://nagariknews.nagariknetwork.com/politics/new-generation-should-respect-post-republican-achievements-chief-minister-shahi-br-23-92.html": 1793002249.8441658,
   "https://english.khabarhub.com/2026/26/573207/": 1793002849.0641446,
   "https://english.onlinekhabar.com/15-injured-in-accident-in-udayapur.html": 1793002849.0641446,
-  "http://english.ratopati.com/story/84590/parliamentary-special-committee-on-bhotekoshi-trishuli-disaster-makes-4-point-recommendations-to-government": 1793002849.0641446
+  "http://english.ratopati.com/story/84590/parliamentary-special-committee-on-bhotekoshi-trishuli-disaster-makes-4-point-recommendations-to-government": 1793002849.0641446,
+  "https://english.onlinekhabar.com/process-underway-to-issue-citizenship-certificate-copies-to-202-flood-affected-residents-of-uttargaya.html": 1793003472.8733096,
+  "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBHaDU2Q0FBZ0EzQkNENjE0WUlFQ2p3bHF6ODRPdXRLeGViT0kwVURNcm0wMHRLNlZDSGp1Y1hiWlFSVGdna1NyR0p6VU83ZVpR?oc=5": 1793003472.8733096,
+  "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZExXbmhMaWhHdkpCOE9kR1h0UkcwRm9CODZYUEc4dnktTEtla0JHcF9vQXhaNW9PbVc4U0ZqQUFqdldZeFdaeFBRbFJUWExxb1FJc2gwZG03WldROFhIdExZMGZVUkVjY3RBcHc0S0lhTzV1Z0RHNENiNGs5Nzl5dm5BNmNFOTk4SXJ6TUZfZ3NtSkRMODR2TzNGdDFDaEFjVFRTa1pEejR6blN4dEdKTjRQajZ2TEZx0gG4AUFVX3lxTE1kTFduaExpaEd2SkI4T2RHWHRSRzBGb0I4NlhQRzh2eS1MS2VrQkdwX29BeFo1b09tVzhTRmpBQWp2V1l4V1p4UFFsUlRYTHFvUUlzaDBkbTdaV1E4WEh0TFkwZlVSRWNjdEFwdzRLSWFPNXVnREc0Q2I0azk3OXl2bkE2Y0U5OThJcnpNRl9nc21KREw4NHZPM0Z0MUNoQWNUVFNrWkR6NHpuU3h0R0pONFBqNnZMRnE?oc=5": 1793003472.8733096
  },
  "queue": [
-  {
-   "title": "लुला चौथो कार्यकालका लागि ब्राजिलको राष्ट्रपतिमा निर्वाचित",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/505667",
-   "source": "Baahrakhari",
-   "ts": 1792974608,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "लुला चौथो कार्यकालका लागि ब्राजिलको राष्ट्रपतिमा निर्वाचित",
-   "en": "लुला चौथो कार्यकालका लागि ब्राजिलको राष्ट्रपतिमा निर्वाचित",
-   "ne": "लुला चौथो कार्यकालका लागि ब्राजिलको राष्ट्रपतिमा निर्वाचित",
-   "imp": 1,
-   "tags": [
-    "Brazil",
-    "Lula",
-    "President"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 8
-  },
-  {
-   "title": "ऋण तिर्न र कमाउन गएका थिए, उतै बित्यो पूरा जिन्दगी",
-   "summary": "ऋण तिर्ने र केही पैसा कमाएर फर्किने सोचले उनी विदेश पुगेका थिए। छोराछोरीको भविष्य बनाउन उनले खेतमा काम गरे, रातभरि पसल चलाए। एक-दुई वर्षमा फर्किने सोच बनाएका उनी कसरी उतै अवकाश जीवन बिताउने अवस्थामा पुगे?",
-   "link": "https://www.setopati.com/global/europe/401289",
-   "source": "Setopati",
-   "ts": 1792974533,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "ऋण तिर्न र कमाउन गएका थिए, उतै बित्यो पूरा जिन्दगी",
-   "en": "ऋण तिर्न र कमाउन गएका थिए, उतै बित्यो पूरा जिन्दगी",
-   "ne": "ऋण तिर्न र कमाउन गएका थिए, उतै बित्यो पूरा जिन्दगी",
-   "imp": 2,
-   "tags": [
-    "ForeignEmployment",
-    "जीवन"
-   ],
-   "cat": "society",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "Weather Forecast: Partial Cloudiness and Light Rain Expected",
-   "summary": "Kathmandu. Currently, there is a partial influence of the westerly wind in the country, the Meteorological Forecasting Division has informed....",
-   "link": "http://english.ratopati.com/story/84530/what-will-the-weather-be-like-for-the-next-four-days-heavy-rain-likely-in-these-four-provinces-on-thursday",
-   "source": "Ratopati EN",
-   "ts": 1792974502,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/rain_3gUVbWNqzv.webp",
-   "lang": "en",
-   "hl": "Weather Forecast: Partial Cloudiness and Light Rain Expected",
-   "en": "Weather Forecast: Partial Cloudiness and Light Rain Expected",
-   "ne": "Weather Forecast: Partial Cloudiness and Light Rain Expected",
-   "imp": 2,
-   "tags": [
-    "WeatherForecast",
-    "Rain",
-    "मौसम"
-   ],
-   "cat": "disaster",
-   "val": 1,
-   "teaser": true,
-   "hits": 2
-  },
   {
    "title": "जलविज्ञान र मौसम विभाग क्रियाशील",
    "summary": "काठमाडौँ, कात्तिक ९ गते । एकीकृत रूपमा सञ्चालनमा रहेको जल तथा मौसम विज्ञान विभाग अहिले टुक्रिएर दुई छुट्टै निकायका रूपमा अगाडि बढ्ने भएका छन् । सरकारले नेपाल-भारत-चीन समावेश त्रिदे...",
@@ -5634,7 +5569,7 @@
    "cat": "society",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "लुम्बिनी विकास कोषको उपाध्यक्षमा आनी छोइङ नियुक्तिको विरोधमा माइतीघरमा प्रदर्शन",
@@ -6073,7 +6008,7 @@
    "cat": "disaster",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "उदयपुरमा जीप दुर्घटना, १५ जना घाइते",
@@ -6797,17 +6732,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1792398060.6744306,
-   "en": "दसैँमा काठमाडौं उपत्यकामा सशस्त्र प्रहरीको निःशुल्क बस सेवा",
-   "ne": "दसैँमा काठमाडौं उपत्यकामा सशस्त्र प्रहरीको निःशुल्क बस सेवा",
-   "link": "https://baahrakhari.com/detail/505306",
-   "source": "Baahrakhari",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "society"
-  },
   {
    "ts": 1792399860.6217134,
    "en": "Nepal flood survivors rebuild lives in Nuwakot temporary shelter after August disaster",
@@ -9702,7 +9626,7 @@
    "cat": "economy"
   }
  ],
- "updated": 1793002867,
+ "updated": 1793003476,
  "pending_since": 1793002849.0641446,
  "fb_blocks": [
   1790350880.4125228,
