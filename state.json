@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSVBpWkdaOE5pRTJwdWYyQmVnZ3BaTFFaSnR6VUJfTW5jWFVYM2oxTE5hcUI2VkNXdVF2SXZjbzVVYlRpdlJ1TnBTclNlWC1kSGRoVUZjZjdZbDdXeXl1QXU3akh6eTZtR3hDUGhwLTJyUkl3clRPYlFxRFAzblBmcFkyZlVUcDRnNzVtTlB1MTFfN0hiQzRYQTBwNVhaenhlRGJDdzJib1FydXpEQV8ybmM5Skx0Y2VhOWpUUkFFOHNDM3hTVFBV?oc=5": 1792829452.824763,
-  "https://theannapurnaexpress.com/story/68178": 1792829452.824763,
   "https://baahrakhari.com/detail/505571": 1792831248.6132329,
   "https://kathmandupost.com/politics/2026/10/24/nepali-congress-falls-short-of-one-third-women-s-quota-in-central-committee": 1792831248.6132329,
   "https://nagariknews.nagariknetwork.com/social-affairs/336-vehicles-seized-in-kathmandu-valley-in-one-day-15-64.html": 1792831850.3325737,
@@ -1570,7 +1568,10 @@
   "https://nagariknews.nagariknetwork.com/sports/best-wishes-for-the-grand-success-of-the-third-edition-of-npl-which-will-take-nepali-cricket-to-new-heights-uml-46-36.html": 1793002249.8441658,
   "https://www.setopati.com/politics/401317": 1793002249.8441658,
   "https://nagariknews.nagariknetwork.com/social-affairs/policeman-dies-during-treatment-after-falling-ill-on-duty-br-26-53.html": 1793002249.8441658,
-  "https://nagariknews.nagariknetwork.com/politics/new-generation-should-respect-post-republican-achievements-chief-minister-shahi-br-23-92.html": 1793002249.8441658
+  "https://nagariknews.nagariknetwork.com/politics/new-generation-should-respect-post-republican-achievements-chief-minister-shahi-br-23-92.html": 1793002249.8441658,
+  "https://english.khabarhub.com/2026/26/573207/": 1793002849.0641446,
+  "https://english.onlinekhabar.com/15-injured-in-accident-in-udayapur.html": 1793002849.0641446,
+  "http://english.ratopati.com/story/84590/parliamentary-special-committee-on-bhotekoshi-trishuli-disaster-makes-4-point-recommendations-to-government": 1793002849.0641446
  },
  "queue": [
   {
@@ -1640,52 +1641,6 @@
    "val": 1,
    "teaser": true,
    "hits": 2
-  },
-  {
-   "title": "च्याम्पियनको ताज जोगाउन मैदानमा उत्रिँदै लुम्बिनी",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/505648",
-   "source": "Baahrakhari",
-   "ts": 1792973820,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "च्याम्पियनको ताज जोगाउन मैदानमा उत्रिँदै लुम्बिनी",
-   "en": "च्याम्पियनको ताज जोगाउन मैदानमा उत्रिँदै लुम्बिनी",
-   "ne": "च्याम्पियनको ताज जोगाउन मैदानमा उत्रिँदै लुम्बिनी",
-   "imp": 3,
-   "tags": [
-    "Lumbini",
-    "NPL",
-    "Cricket"
-   ],
-   "cat": "sports",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "तालिममा अर्बौं सिकाइमा खडेरी",
-   "summary": "पाठ्यक्रम जतिसुकै राम्रो भए पनि त्यसलाई विद्यार्थीले बुझ्ने गरी कक्षाकोठामा प्रस्तुत गर्न सकिएन भने अपेक्षित उपलब्धि हासिल हुँदैन।...",
-   "link": "https://nagariknews.nagariknetwork.com/editorial/billions-in-training-drought-in-learning-br-38-76.html",
-   "source": "Nagarik News",
-   "ts": 1792973876,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2024/third-party/1720572771_sampadakiya.jpg",
-   "lang": "ne",
-   "hl": "तालिममा अर्बौं सिकाइमा खडेरी",
-   "en": "तालिममा अर्बौं सिकाइमा खडेरी",
-   "ne": "तालिममा अर्बौं सिकाइमा खडेरी",
-   "imp": 2,
-   "tags": [
-    "Training",
-    "Education",
-    "तालिम"
-   ],
-   "cat": "education",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
   },
   {
    "title": "जलविज्ञान र मौसम विभाग क्रियाशील",
@@ -3429,54 +3384,6 @@
    "hits": 1
   },
   {
-   "title": "Pakistan players' NPL participation in doubt over PCB clearances",
-   "summary": "ESPNcricinfo reports that previously approved no-objection certificates have been put on hold, while Karnali Yaks is prepared to pay a reported $25,000 fee for two players.",
-   "link": "https://kathmandupost.com/cricket/2026/10/26/pakistan-players-npl-participation-in-doubt-over-pcb-clearances",
-   "source": "Kathmandu Post",
-   "ts": 1792974048.6968741,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Pakistan players' NPL participation in doubt over PCB clearances",
-   "en": "Pakistan players' NPL participation in doubt over PCB clearances",
-   "ne": "Pakistan players' NPL participation in doubt over PCB clearances",
-   "imp": 2,
-   "tags": [
-    "Pakistan",
-    "PCB",
-    "NPL",
-    "Cricket"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 3
-  },
-  {
-   "title": "चाडपर्वमा उद्योग बन्द हुँदा अझै ग्यास अभाव- कहिले सहज होला आपूर्ति ?",
-   "summary": "काठमाडौंको गोठाटार बस्दै आएका केशव जोशीले ग्यास नपाएको एक साता भयो । करिब दुई महिनाअघि बजारमा ग्यासको चरम अभाव भएकै समयमा उनले टेकुबाट सगुन ग्यास साटेर एभरेस्ट ग्यास ल्याएका थिए । त्यो पनि दिनभर लाइन लागेर ।तर, अहिले...",
-   "link": "http://lokaantar.com/story/331932/2026/10/26/gas-cylinder-",
-   "source": "Lokaantar",
-   "ts": 1792974048.2870052,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "चाडपर्वमा उद्योग बन्द हुँदा अझै ग्यास अभाव- कहिले सहज होला आपूर्ति ?",
-   "en": "चाडपर्वमा उद्योग बन्द हुँदा अझै ग्यास अभाव- कहिले सहज होला आपूर्ति ?",
-   "ne": "चाडपर्वमा उद्योग बन्द हुँदा अझै ग्यास अभाव- कहिले सहज होला आपूर्ति ?",
-   "imp": 3,
-   "tags": [
-    "LPG",
-    "Gas",
-    "Shortage",
-    "ग्यास"
-   ],
-   "cat": "economy",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
-  },
-  {
    "title": "विदेशबाट आएर स्वदेशमा फूल खेती",
    "summary": "सन्तोष दहितदाङ, कात्तिक ९ गते । तिहार नजिकिएसँगै दाङको घोराही उपमहानगरपालिका-१४, झिङ्गौरास्थित लोकेन्द्र रोकामगरको फूलबारी ढकमक्क फुलेको सयपत्री फूलले पहेँलपुर बनेको छ । फूलबारीमा...",
    "link": "https://gorkhapatraonline.com/news/227262",
@@ -4967,7 +4874,7 @@
    "cat": "disaster",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "उत्तरगयाका बाढी प्रभावितलाई होल्डिङ सेन्टरमै पुगेर नागरिकताको प्रतिलिपि दिन सुरु",
@@ -6052,30 +5959,6 @@
    "hits": 1
   },
   {
-   "title": "'डोम्स' प्रणालीमा प्राविधिक समस्या, १० अर्बको ट्रेजरी बिल बोलकबोल रद्द",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/505704",
-   "source": "Baahrakhari",
-   "ts": 1793000241,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "'डोम्स' प्रणालीमा प्राविधिक समस्या, १० अर्बको ट्रेजरी बिल बोलकबोल रद्द",
-   "en": "'डोम्स' प्रणालीमा प्राविधिक समस्या, १० अर्बको ट्रेजरी बिल बोलकबोल रद्द",
-   "ne": "'डोम्स' प्रणालीमा प्राविधिक समस्या, १० अर्बको ट्रेजरी बिल बोलकबोल रद्द",
-   "imp": 4,
-   "tags": [
-    "DOMS",
-    "TreasuryBill",
-    "NepalRastraBank",
-    "अर्थतन्त्र"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Rising War Risk in West Asia Concerns Nepali Migrant Workers",
    "summary": "The increasing risk of war in West Asia has worried millions of Nepali workers employed there and their families. Nepalis...",
    "link": "http://english.ratopati.com/story/84588/war-in-west-asia-are-nepali-workers-prepared-for-safety",
@@ -6884,6 +6767,30 @@
     "Politics"
    ],
    "cat": "politics",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Parliamentary Committee Studies Climate Change Impact and Bhote Koshi-Trishuli Flood",
+   "summary": "Kathmandu. A parliamentary special committee on climate change impact in the Himalayas, climate justice, and Bhote Koshi-Trishuli disaster has begun...",
+   "link": "http://english.ratopati.com/story/84590/parliamentary-special-committee-on-bhotekoshi-trishuli-disaster-makes-4-point-recommendations-to-government",
+   "source": "Ratopati EN",
+   "ts": 1793002500,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/g_O6zLLeKKMX.webp",
+   "lang": "en",
+   "hl": "Parliamentary Committee Studies Climate Change Impact and Bhote Koshi-Trishuli Flood",
+   "en": "Parliamentary Committee Studies Climate Change Impact and Bhote Koshi-Trishuli Flood",
+   "ne": "Parliamentary Committee Studies Climate Change Impact and Bhote Koshi-Trishuli Flood",
+   "imp": 3,
+   "tags": [
+    "ClimateChange",
+    "BhoteKoshi",
+    "Trishuli",
+    "बाढी"
+   ],
+   "cat": "disaster",
    "val": 2,
    "teaser": false,
    "hits": 1
@@ -9782,10 +9689,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "politics"
+  },
+  {
+   "ts": 1793002856.5653973,
+   "en": "डोम्स प्रणालीमा प्राविधिक समस्या, १० अर्बको ट्रेजरी बिल बोलकबोल रद्द",
+   "ne": "डोम्स प्रणालीमा प्राविधिक समस्या, १० अर्बको ट्रेजरी बिल बोलकबोल रद्द",
+   "link": "https://baahrakhari.com/detail/505704",
+   "source": "Baahrakhari",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "economy"
   }
  ],
- "updated": 1793002257,
- "pending_since": null,
+ "updated": 1793002867,
+ "pending_since": 1793002849.0641446,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
