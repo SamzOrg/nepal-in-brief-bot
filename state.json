@@ -1491,7 +1491,9 @@
   "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUjlwWjZBQWd3RG14QUV5NERvNUx1ei0xeG13WExucmhVS3p1WW5HanVrRHBKZGVzcUw5TWNmTjhOaDJOMm00U09tVmg2YmpmRGZqN2VuUnNGNFVRTDcxSlgzOUlrbkNUc0dvU3NtbWlIM2x5b251MTd0ZzJaUElQOFVVWFJEWXhwY2tRaDhLVnh0S01JeU9XWVNhemhwSzQ0TlRhQkVjcTVNemhrOW9USlVSZ0txZw?oc=5": 1792994485.3584435,
   "https://english.onlinekhabar.com/humlas-traditional-housing-poses-sanitation-challenges-as-people-and-livestock-share-roofs.html": 1792994485.3584435,
   "https://gorkhapatraonline.com/news/227265": 1792994485.3584435,
-  "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcnVwcVpjM1dwYVhJSE1VUmF3Ty1CWjFOdHlSMFhrd2Y1WVhRMlpSUk9vaFpfdjZmcTV5ZzYxdVpDRURwWXVDZDQyeHhhRkk2S2w3SUIzQzlyYlg0V3hxM3dSMVZJMGxHdkxyWUFhNm9raVBqcXhmdEEtRk10Ulh1LVE1R2RYS1hvYVFKSlB6bllWRzBQYXUtT1RCYmVfTklBWWNpQS1zUlR2S2xXU25YLVNjcHE2NG9zaVpLWA?oc=5": 1792994485.3584435
+  "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcnVwcVpjM1dwYVhJSE1VUmF3Ty1CWjFOdHlSMFhrd2Y1WVhRMlpSUk9vaFpfdjZmcTV5ZzYxdVpDRURwWXVDZDQyeHhhRkk2S2w3SUIzQzlyYlg0V3hxM3dSMVZJMGxHdkxyWUFhNm9raVBqcXhmdEEtRk10Ulh1LVE1R2RYS1hvYVFKSlB6bllWRzBQYXUtT1RCYmVfTklBWWNpQS1zUlR2S2xXU25YLVNjcHE2NG9zaVpLWA?oc=5": 1792994485.3584435,
+  "https://baahrakhari.com/detail/505691": 1792995047.0665822,
+  "https://english.onlinekhabar.com/152-vehicle-accidents-in-sudurpaschim.html": 1792995047.0665822
  },
  "queue": [
   {
@@ -4778,7 +4780,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 4
+   "hits": 5
   },
   {
    "title": "Purified Drinking Water Supply Crisis in Birendranagar Amidst MRP Dispute",
@@ -5442,6 +5444,30 @@
     "HeavyRain",
     "WeatherAlert",
     "बाढीपहिरो"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "152 vehicle accidents in Sudurpaschim during Dashain, 6 dead, 243 injured",
+   "summary": "Dhangadhi, October 26 Vehicle accidents during Dashain have increased in Sudurpaschim Province. This year's Dashain alone saw more accidents than last year's entire period from Dashain to Chhath. From Ghatasthapana to...",
+   "link": "https://english.onlinekhabar.com/152-vehicle-accidents-in-sudurpaschim.html",
+   "source": "Onlinekhabar EN",
+   "ts": 1792994785,
+   "weight": 3,
+   "img": "http://english.onlinekhabar.com/wp-content/uploads/2025/12/accident.jpg",
+   "lang": "en",
+   "hl": "152 vehicle accidents in Sudurpaschim during Dashain, 6 dead, 243 injured",
+   "en": "152 vehicle accidents in Sudurpaschim during Dashain, 6 dead, 243 injured",
+   "ne": "152 vehicle accidents in Sudurpaschim during Dashain, 6 dead, 243 injured",
+   "imp": 3,
+   "tags": [
+    "Sudurpaschim",
+    "Dashain",
+    "TrafficAccident",
+    "दुर्घटना"
    ],
    "cat": "disaster",
    "val": 3,
@@ -8355,8 +8381,8 @@
    "cat": "economy"
   }
  ],
- "updated": 1792994495,
- "pending_since": null,
+ "updated": 1792995051,
+ "pending_since": 1792995047.0665822,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
