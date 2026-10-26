@@ -1,8 +1,5 @@
 {
  "seen": {
-  "https://baahrakhari.com/detail/505556": 1792814480.0569105,
-  "https://english.khabarhub.com/2026/24/572964/": 1792814480.0569105,
-  "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdm9HMU14am1FQXc4VkZ6azM5VVV3TVZVUXhhT2xIUlRva2FsSDRDclM4TE5JZjJMX0pWb1hIZWJmUEJhaXZ0VHYySkFHMElTcWFYUVZlOUJCaWhMN2dMcWVSSjZMVS05NU1TNEJQbmFrLWtQam16OVVKQlY1ZXh1ekdDczZob3ljTFprLU5uazRUOHNfYVVwSm84WmRlZURtaTI5OVlVYnFRRkVOVnpaaXVCaw?oc=5": 1792814480.0569105,
   "https://kathmandupost.com/sports/2026/10/24/sherfane-rutherford-joins-sudurpaschim-royals-for-third-npl-season": 1792815646.319597,
   "https://gorkhapatraonline.com/news/227132": 1792816264.8394349,
   "https://baahrakhari.com/detail/505558": 1792816264.8394349,
@@ -1426,7 +1423,13 @@
   "https://gorkhapatraonline.com/news/227256": 1792986648.3831823,
   "https://theannapurnaexpress.com/story/68213": 1792986648.3831823,
   "https://gorkhapatraonline.com/news/227255": 1792986648.3831823,
-  "https://gorkhapatraonline.com/news/227254": 1792986648.3831823
+  "https://gorkhapatraonline.com/news/227254": 1792986648.3831823,
+  "https://risingnepaldaily.com/news/88042": 1792987282.7115684,
+  "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZDRVS0l0RGE5ME53NEJpbnY3QkYwYlB4Rl9UVWdmcUJWUWRNNEF2US16LWhlblpSYnFJbWx2dWZ1bVlhYzdGSmRkcDI4Y0JGVDQxWGVvLUxzLUtiSW9JMHJ0a01neXoyMVYyUHM0N3NvX0hhZGgxal8xVWNPRmxLWXl3dkJqRWdkVXgxWXVFcFdOcEttMlg0Nlpxdmh1UVRCc3dpRzZCM2lEYXI1N0FLRWxXMXFyZHp2TS1ETWV0MTlrOFlqdU1zTnJ5aEpjQ1dyR3U3ZXM3S3Y?oc=5": 1792987282.7115684,
+  "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcHFPWkY5MlJMd0h0WGV0aldJVkpjLXdpcFA3M3NwS1JQTm9pcGtibEt4U0M4Ykx5eUl6NXNZS3Bzc0pPT1NGTmZJVkJvQy13NU53UlhncjBBenFRdkZPY01pRF9nQUJHUGxDWjZQakQ3dEUwLUhEaWJWQ2ZIVFFhNmxuMjdYaFlTSGU4cE16NFBnLWlxZTlpNElyTDJlVnlSNk45S0MzS21JUWxadEh6cVNuY2NQRDN3OUI5MGdGOWt3SXVYTVE?oc=5": 1792987282.7115684,
+  "https://baahrakhari.com/detail/505682": 1792987282.7115684,
+  "https://english.khabarhub.com/2026/26/573172/": 1792987282.7115684,
+  "https://english.onlinekhabar.com/bhotekoshi-floods-damage-2.html": 1792987282.7115684
  },
  "queue": [
   {
@@ -3753,6 +3756,28 @@
    "val": 3,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "इलाममा बोलेरो दुर्घटना हुँदा चालकको मृत्यु",
+   "summary": "",
+   "link": "https://baahrakhari.com/detail/505682",
+   "source": "Baahrakhari",
+   "ts": 1792987197,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "इलाममा बोलेरो दुर्घटना हुँदा चालकको मृत्यु",
+   "en": "इलाममा बोलेरो दुर्घटना हुँदा चालकको मृत्यु",
+   "ne": "इलाममा बोलेरो दुर्घटना हुँदा चालकको मृत्यु",
+   "imp": 2,
+   "tags": [
+    "Bolero",
+    "Ilam"
+   ],
+   "cat": "society",
+   "val": 3,
+   "teaser": false,
+   "hits": 2
   }
  ],
  "posted": [
@@ -6661,8 +6686,8 @@
    "cat": "culture"
   }
  ],
- "updated": 1792986671,
- "pending_since": null,
+ "updated": 1792987289,
+ "pending_since": 1792987282.7115684,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
