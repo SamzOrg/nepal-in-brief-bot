@@ -1,7 +1,5 @@
 {
  "seen": {
-  "http://english.ratopati.com/story/84407/world-polio-day-continued-efforts-are-needed-to-maintain-a-polio-free-state": 1792825846.7935753,
-  "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRVBxNE04X2RBWU83YUhSTkVMVmFpV2RiTkZ2SWtHYmt2MDc1QjRLMTQxbDBickVXVEM4b205M2RmaEI4UzY2VkdkTUJNS0VHYUE4VVFyTm5kNmNCMEdzeDdDRTQzZmNEUWg0czJNYU45XzkxSnJnR3dpai1sM2FaOXBHUE5JdmxRSVJCSVFtaWQ4enJDVGFDSUdxeGJ1T1U1VjVrRVFJLUJQUEZNTDBMeQ?oc=5": 1792825846.7935753,
   "https://www.setopati.com/social/401223": 1792826456.7120535,
   "https://risingnepaldaily.com/news/87981": 1792826456.7120535,
   "http://english.ratopati.com/story/84398/madan-budha-genji-is-running-the-library-in-prison-campaign": 1792826456.7120535,
@@ -1534,7 +1532,10 @@
   "http://lokaantar.com/story/331938/2026/10/26/biratnagar-kings-": 1792998088.0741932,
   "https://english.onlinekhabar.com/first-kapilvastu-heritage-festival.html": 1792998088.0741932,
   "https://nagariknews.nagariknetwork.com/photo-feature/this-is-what-the-tu-stadium-looked-like-before-the-npl-photos-br-71-36.html": 1792998088.0741932,
-  "https://english.onlinekhabar.com/month-long-fair-begins-at-adinath-temple.html": 1792998088.0741932
+  "https://english.onlinekhabar.com/month-long-fair-begins-at-adinath-temple.html": 1792998088.0741932,
+  "https://risingnepaldaily.com/news/88053": 1792998648.4646475,
+  "https://theannapurnaexpress.com/story/68226": 1792998648.4646475,
+  "https://theannapurnaexpress.com/story/68225": 1792998648.4646475
  },
  "queue": [
   {
@@ -4445,7 +4446,7 @@
    "cat": "sports",
    "val": 3,
    "teaser": false,
-   "hits": 3
+   "hits": 4
   },
   {
    "title": "NPL is celebration for Nepali sports: Prime Minister Shah",
@@ -4629,7 +4630,7 @@
    "cat": "health",
    "val": 3,
    "teaser": false,
-   "hits": 4
+   "hits": 5
   },
   {
    "title": "ट्रम्पसँग निकट रहेका बोल्सोनारोलाई हराएर राष्ट्रपति जितेका लुलाका पाँच चुनौती",
@@ -4907,7 +4908,7 @@
    "cat": "crime",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Nepal Premier League prize money: How much will teams, players earn for winning NPL 2026?",
@@ -8796,7 +8797,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1792998097,
+ "updated": 1792998653,
  "pending_since": 1792998088.0741932,
  "fb_blocks": [
   1790350880.4125228,
