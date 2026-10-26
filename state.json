@@ -1808,7 +1808,9 @@
   "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRDBVRWdyc3lfVldJX01KQnRFcWc5MmpoN3ZITnV6NHlBdzlYbGxSQ2tpaUN4Qy1LQi1OTE1Tcm1FaDRQaS1vb3BTbUNnd2kwU0xNYTU1N0k0N2RIcnlDcnk2WnQxck1sZTVGZm9SNGxSUHJCQ2VnaG9BQzRXaWdPQWNsLUtGckhtWEZ3dkF3RFZ1aHgxTW9LRndVZXFpWTNMR05zcV9PWjNGaVNWR1k5aXBScw?oc=5": 1793037715.014848,
   "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYnQyQ0oxTENOcmxHZzZPRzBMUmlKUkxXd2dvRDFGUk93OGNLb1NTcDB4Q29jOWNQWGRwY1BNempuUWZ0bk82NmZfc2ZFVU9KbUNGb3l6OXdZQmJuLXZZUHRpa3A2T0NpZVRxVTY5M2RkUm5KRlBpS2tIRnJuZzVjVDJrTEhVU3dzQklieGhCN0h3NnBrTmlsRVBucFZkQUdVTU0yR0lYU0U0UDFNanl2clFiUEtMOGZpNHc?oc=5": 1793037715.014848,
   "https://baahrakhari.com/detail/505759": 1793037715.014848,
-  "https://gorkhapatraonline.com/news/227331": 1793037715.014848
+  "https://gorkhapatraonline.com/news/227331": 1793037715.014848,
+  "https://news.google.com/rss/articles/CBMiZEFVX3lxTE11YVlST19VRFlSMEhYbXlKdEJ1MlktcEpFUnRwZk50X1JLZ3ZDOVdtSDdpUk5aRTdydV9MUFNwYmRnSzNKTVRJQ3JVejI5Z3FfVks0V2dvUERHSDFZS09FN1RLdlA?oc=5": 1793040050.7412853,
+  "https://baahrakhari.com/detail/505761": 1793040050.7412853
  },
  "queue": [
   {
@@ -1883,29 +1885,6 @@
    "hits": 2
   },
   {
-   "title": "अमित शाहबारे टिप्पणी गरेको मानहानि मुद्दामा राहुल गान्धी आठ वर्षपछि निर्दोष ठहर",
-   "summary": "सन् २०१९ मा कर्नाटकमा भएको निर्वाचन प्रचारसभाका क्रममा मोदीको थर भएका नीरव मोदी र ललित मोदीको प्रसंग जोडेर टिप्पणी गरेको मुद्दामा गुजरातको अदालतले सन् २०२३ मा गान्धीलाई दोषी ठहर गर्दै दुई वर्षको जेल सजाय सुनाएको थियो।",
-   "link": "https://www.setopati.com/politics/401332",
-   "source": "Setopati",
-   "ts": 1793010770,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "अमित शाहबारे टिप्पणी गरेको मानहानि मुद्दामा राहुल गान्धी आठ वर्षपछि निर्दोष ठहर",
-   "en": "अमित शाहबारे टिप्पणी गरेको मानहानि मुद्दामा राहुल गान्धी आठ वर्षपछि निर्दोष ठहर",
-   "ne": "अमित शाहबारे टिप्पणी गरेको मानहानि मुद्दामा राहुल गान्धी आठ वर्षपछि निर्दोष ठहर",
-   "imp": 1,
-   "tags": [
-    "RahulGandhi",
-    "IndiaCourt",
-    "DefamationCase"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "एक लाख पुग्यो अलैंचीको मूल्य",
    "summary": "कोकिला ढकालइलाम, कात्तिक ९ गते । किसानहरुको आम्दानीको मुख्य स्रोत बनेको नगदे बाली अलैंचीको मूल्य प्रतिमन एक लाख रुपियाँ पुुगेको छ । इलामको नयाँ बजारमा आज प्रतिमन एक लाख रुपियाँका द...",
    "link": "https://gorkhapatraonline.com/news/227294",
@@ -1928,30 +1907,6 @@
    "val": 3,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "Congress must reach out to people to regain lost trust: Thapa",
-   "summary": "Waling (Syangja), October 26 Nepali Congress President Gagan Kumar Thapa has said party leaders and cadres must reach out to people at their doorsteps to restore the trust the party has lost. Speaking at a reception and...",
-   "link": "https://english.onlinekhabar.com/congress-must-reach-out-to-people-to-regain-lost-trust-thapa.html",
-   "source": "Onlinekhabar EN",
-   "ts": 1793011148,
-   "weight": 3,
-   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/10/gagan-thapa-2-1-1024x500-1.jpg",
-   "lang": "en",
-   "hl": "Congress must reach out to people to regain lost trust: Thapa",
-   "en": "Congress must reach out to people to regain lost trust: Thapa",
-   "ne": "Congress must reach out to people to regain lost trust: Thapa",
-   "imp": 3,
-   "tags": [
-    "NepaliCongress",
-    "GaganThapa",
-    "Politics",
-    "कांग्रेस"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "Madhesh Province Government Formation Talks Intensify Between UML, JSP, and Janamat Party",
@@ -1997,54 +1952,6 @@
     "मृतफेला"
    ],
    "cat": "crime",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "लमजुङका किसानलाई धान थन्क्याउन चटारो",
-   "summary": "नवीनराज कुइँकेललमजुङ, कात्तिक ९ गते । दसैं सकिएसँगै लमजुङका किसानहरु धान काट्न र थन्क्याउनमा व्यस्त हुन थालेका छन् । टारी तथा फाँटहरुमा लगाइएका वर्णशंकर र उन्नत जातका धान पाकेर पहे...",
-   "link": "https://gorkhapatraonline.com/news/227293",
-   "source": "Gorkhapatra",
-   "ts": 1793011249,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/388943/conversions/dhan-katdai-lamjung-original.jpg",
-   "lang": "ne",
-   "hl": "लमजुङका किसानलाई धान थन्क्याउन चटारो",
-   "en": "लमजुङका किसानलाई धान थन्क्याउन चटारो",
-   "ne": "लमजुङका किसानलाई धान थन्क्याउन चटारो",
-   "imp": 2,
-   "tags": [
-    "Lamjung",
-    "PaddyHarvest",
-    "Farmers",
-    "धान"
-   ],
-   "cat": "economy",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Nepal Open University Announces Interviews and Presentations for Vice-Chancellor and Registrar Candidates",
-   "summary": "Kathmandu. Interviews and presentations for the candidates of Vice-Chancellor and Registrar positions of Nepal Open University will begin tomorrow, Tuesday....",
-   "link": "http://english.ratopati.com/story/84623/interviews-for-candidates-for-vice-chancellor-and-registrar-of-nepal-open-university-to-begin-tomorrow",
-   "source": "Ratopati EN",
-   "ts": 1793011087,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/setting/banner-image_sPOGzj8QHe.jpg",
-   "lang": "en",
-   "hl": "Nepal Open University Announces Interviews and Presentations for Vice-Chancellor and Registrar Candidates",
-   "en": "Nepal Open University Announces Interviews and Presentations for Vice-Chancellor and Registrar Candidates",
-   "ne": "Nepal Open University Announces Interviews and Presentations for Vice-Chancellor and Registrar Candidates",
-   "imp": 2,
-   "tags": [
-    "NepalOpenUniversity",
-    "ViceChancellor",
-    "Registrar",
-    "खुलाविश्वविद्यालय"
-   ],
-   "cat": "education",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -2211,54 +2118,6 @@
     "नागरिकता"
    ],
    "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Hastottanasana: An Effective Yoga Pose for Spinal Flexibility and Energy",
-   "summary": "Kathmandu. Hastottanasana is an effective yoga pose for removing stiffness or tightness in the waist. In this pose, the hands...",
-   "link": "http://english.ratopati.com/story/84622/useful-yoga-poses-to-relieve-waist-and-back-pain",
-   "source": "Ratopati EN",
-   "ts": 1793010918,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/stiff-back-2026-10-850f779b9830014faf1313a6428f9bbc-1200x675_eo999OX3vT.webp",
-   "lang": "en",
-   "hl": "Hastottanasana: An Effective Yoga Pose for Spinal Flexibility and Energy",
-   "en": "Hastottanasana: An Effective Yoga Pose for Spinal Flexibility and Energy",
-   "ne": "Hastottanasana: An Effective Yoga Pose for Spinal Flexibility and Energy",
-   "imp": 1,
-   "tags": [
-    "Hastottanasana",
-    "Yoga",
-    "Fitness",
-    "योग"
-   ],
-   "cat": "health",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "गुल्मीका फलाम र तामा खानीको अध्ययन गरिने",
-   "summary": "तम्घास(गुल्मी), कात्तिक ९ गते । विकासमा गुल्मी मोडल र यहाँ रहेका फलाम र तामा खानीका बारेमा अध्ययन गरिने भएको छ । विकासमा गुल्मी मोडल र यहाँ रहेका खानीका बारेमा प्रतिनिधि सभा सदस्य...",
-   "link": "https://gorkhapatraonline.com/news/227292",
-   "source": "Gorkhapatra",
-   "ts": 1793010739,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/388942/conversions/sagar-dhakal-janta-thulolumpak-original.jpg",
-   "lang": "ne",
-   "hl": "गुल्मीका फलाम र तामा खानीको अध्ययन गरिने",
-   "en": "गुल्मीका फलाम र तामा खानीको अध्ययन गरिने",
-   "ne": "गुल्मीका फलाम र तामा खानीको अध्ययन गरिने",
-   "imp": 2,
-   "tags": [
-    "IronMine",
-    "CopperMine",
-    "Gulmi",
-    "खानी"
-   ],
-   "cat": "economy",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -3692,29 +3551,6 @@
    "hits": 2
   },
   {
-   "title": "Serbia Election: Kremlin Hopes New Leadership Understands Benefits of Russia Cooperation",
-   "summary": "Kathmandu. After the student-led movement, the Kremlin has expressed hope that the new political leadership will understand the benefits of...",
-   "link": "http://english.ratopati.com/story/84654/kremlin-hopes-serbias-new-leader-will-understand-the-importance-of-cooperation-with-russia",
-   "source": "Ratopati EN",
-   "ts": 1793010677.8078263,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/serbia-protest_scvFfcFNwC.jpg",
-   "lang": "en",
-   "hl": "Serbia Election: Kremlin Hopes New Leadership Understands Benefits of Russia Cooperation",
-   "en": "Serbia Election: Kremlin Hopes New Leadership Understands Benefits of Russia Cooperation",
-   "ne": "Serbia Election: Kremlin Hopes New Leadership Understands Benefits of Russia Cooperation",
-   "imp": 1,
-   "tags": [
-    "Serbia",
-    "Election",
-    "Russia"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
    "title": "पाल्पामा बसको ठक्करबाट एकजनाको मृत्यु",
    "summary": "",
    "link": "https://baahrakhari.com/detail/505749",
@@ -4611,6 +4447,53 @@
    ],
    "cat": "economy",
    "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "New Cyclone Approaches Nepal",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE11YVlST19VRFlSMEhYbXlKdEJ1MlktcEpFUnRwZk50X1JLZ3ZDOVdtSDdpUk5aRTdydV9MUFNwYmRnSzNKTVRJQ3JVejI5Z3FfVks0V2dvUERHSDFZS09FN1RLdlA?oc=5",
+   "source": "Explorersweb »",
+   "ts": 1793038525,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "New Cyclone Approaches Nepal",
+   "en": "New Cyclone Approaches Nepal",
+   "ne": "New Cyclone Approaches Nepal",
+   "imp": 4,
+   "tags": [
+    "Cyclone",
+    "Nepal",
+    "वातावरण"
+   ],
+   "cat": "disaster",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "एनपीएल सुरक्षार्थ एक हजार १२४ प्रहरी परिचालन",
+   "summary": "",
+   "link": "https://baahrakhari.com/detail/505761",
+   "source": "Baahrakhari",
+   "ts": 1793037972,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "एनपीएल सुरक्षार्थ एक हजार १२४ प्रहरी परिचालन",
+   "en": "एनपीएल सुरक्षार्थ एक हजार १२४ प्रहरी परिचालन",
+   "ne": "एनपीएल सुरक्षार्थ एक हजार १२४ प्रहरी परिचालन",
+   "imp": 3,
+   "tags": [
+    "NPL",
+    "NepalPolice",
+    "Cricket",
+    "एनपीएल"
+   ],
+   "cat": "sports",
+   "val": 3,
    "teaser": false,
    "hits": 1
   }
@@ -7521,8 +7404,8 @@
    "cat": "disaster"
   }
  ],
- "updated": 1793039476,
- "pending_since": 1793038250.2077591,
+ "updated": 1793040059,
+ "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
