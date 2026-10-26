@@ -1556,7 +1556,9 @@
   "http://lokaantar.com/story/331942/2026/10/26/pakistan-": 1793000446.5632775,
   "https://nagariknews.nagariknetwork.com/arts/what-are-the-collections-of-the-three-nepali-films-released-on-the-occasion-of-dashain-14-64.html": 1793000446.5632775,
   "https://news.google.com/rss/articles/CBMinAFBVV95cUxQLWxndFVXby15ZXM1QnY2UVg5bXBuSTk0Zy1VWjJDalVjc3Fmc0lHWjJFUUNiMGRQOHd5bHdreHZYbjNKa0JxY1dVNzZ2NU1MNkZ3WkJJWXFsaWVwaHpEejJ6T2xNVkQyLTZqYzBrSG9YZGUxd21GbGgxenU0M1BOZmpDdHRKZFJManBfV0FaQm1XdjJleVJXSUg4N00?oc=5": 1793000634.71338,
-  "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNy1XZEZCdlctUV9pcW1PMTVpVTBsN1FHVG5UWkY0eTZzNFBnSVloLVBqb1BQaUptdUhIa0NxX1pBWEhNdUpCTFl1TTA1alRCWDhsTzJlUFJubXlBU2trOUlNaXFaZWUtZ3JxWDFYa1h5MVE2aUwwRUlsVkdQd2Z5b0h3UGNkMzc0T1FJTjI5VG95X2RTdlZwaU92UGVEMDE3ZjNsNi11RlFxMGtrdEUyU1lPTnE2a1U?oc=5": 1793000634.71338
+  "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNy1XZEZCdlctUV9pcW1PMTVpVTBsN1FHVG5UWkY0eTZzNFBnSVloLVBqb1BQaUptdUhIa0NxX1pBWEhNdUpCTFl1TTA1alRCWDhsTzJlUFJubXlBU2trOUlNaXFaZWUtZ3JxWDFYa1h5MVE2aUwwRUlsVkdQd2Z5b0h3UGNkMzc0T1FJTjI5VG95X2RTdlZwaU92UGVEMDE3ZjNsNi11RlFxMGtrdEUyU1lPTnE2a1U?oc=5": 1793000634.71338,
+  "https://baahrakhari.com/detail/505705": 1793001046.6852195,
+  "https://kathmandupost.com/science-technology/2026/10/26/most-nepal-government-websites-back-online-after-php2shell-flaw": 1793001046.6852195
  },
  "queue": [
   {
@@ -1648,29 +1650,6 @@
    "val": 1,
    "teaser": true,
    "hits": 2
-  },
-  {
-   "title": "Trump says Hormuz oil transit exceeds pre-war levels",
-   "summary": "MICHIGAN: US President Donald Trump has defended military action against Iran, claiming American strikes had destroyed the country's nuclear capacity and arguing that Tehran could use a nuclear weapon if allowed to...",
-   "link": "https://english.khabarhub.com/2026/26/573143/",
-   "source": "Khabarhub EN",
-   "ts": 1792971914,
-   "weight": 2,
-   "img": "https://english.khabarhub.com/wp-content/uploads/2026/10/Donald-Trump-Reuters-1-400x220.jpg",
-   "lang": "en",
-   "hl": "Trump says Hormuz oil transit exceeds pre-war levels",
-   "en": "Trump says Hormuz oil transit exceeds pre-war levels",
-   "ne": "Trump says Hormuz oil transit exceeds pre-war levels",
-   "imp": 1,
-   "tags": [
-    "Trump",
-    "Hormuz",
-    "Oil"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
   },
   {
    "title": "केरुङ-काठमाडौँ रेलमार्ग: सम्भाव्यता अध्ययन पूरा",
@@ -4493,29 +4472,6 @@
    "hits": 1
   },
   {
-   "title": "कांग्रेसका नवनिर्वाचित पदाधिकारी र सदस्यको शपथ कार्तिक १२ गते हुने",
-   "summary": "नेपाली कांग्रेसको १५औँ महाधिवेशनबाट निर्वाचित केन्द्रीय पदाधिकारी तथा सदस्यहरूको शपथ कार्तिक १२ गते हुने भएको छ।",
-   "link": "https://www.setopati.com/politics/401304",
-   "source": "Setopati",
-   "ts": 1792992240,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "कांग्रेसका नवनिर्वाचित पदाधिकारी र सदस्यको शपथ कार्तिक १२ गते हुने",
-   "en": "कांग्रेसका नवनिर्वाचित पदाधिकारी र सदस्यको शपथ कार्तिक १२ गते हुने",
-   "ne": "कांग्रेसका नवनिर्वाचित पदाधिकारी र सदस्यको शपथ कार्तिक १२ गते हुने",
-   "imp": 3,
-   "tags": [
-    "Congress",
-    "Oath",
-    "कांग्रेस"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 5
-  },
-  {
    "title": "Purified Drinking Water Supply Crisis in Birendranagar Amidst MRP Dispute",
    "summary": "Surkhet. It has been about 10 days since purified drinking water (jars and bottles) has not been available at Ashoka...",
    "link": "http://english.ratopati.com/story/84568/mrp-of-treated-drinking-water-in-surkhet-chief-district-officer-backs-down-from-directive-maintains-old-price",
@@ -6406,7 +6362,7 @@
    "cat": "disaster",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "27th Match, Nepal Premier League at Kirtipur, Nov 15 2026",
@@ -9562,9 +9518,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "economy"
+  },
+  {
+   "ts": 1793001053.084506,
+   "en": "कांग्रेस नवनिर्वाचित पदाधिकारीको शपथ कार्तिक १२ गते हुने",
+   "ne": "कांग्रेस नवनिर्वाचित पदाधिकारीको शपथ कार्तिक १२ गते हुने",
+   "link": "https://www.setopati.com/politics/401304",
+   "source": "Setopati",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "politics"
   }
  ],
- "updated": 1793000639,
+ "updated": 1793001069,
  "pending_since": 1793000634.71338,
  "fb_blocks": [
   1790350880.4125228,
