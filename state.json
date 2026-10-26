@@ -2088,29 +2088,6 @@
    "hits": 1
   },
   {
-   "title": "Career judges lose ground as lawyers gain sway in Nepal's judiciary",
-   "summary": "Recent appointments have renewed debate over merit, experience and political influence. Career judges are absent from the Supreme Court and their share of High Court judges is declining.",
-   "link": "https://kathmandupost.com/national/2026/10/26/career-judges-lose-ground-as-lawyers-gain-sway-in-nepal-s-judiciary",
-   "source": "Kathmandu Post",
-   "ts": 1792963873.2279325,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Career judges lose ground as lawyers gain sway in Nepal's judiciary",
-   "en": "Career judges lose ground as lawyers gain sway in Nepal's judiciary",
-   "ne": "Career judges lose ground as lawyers gain sway in Nepal's judiciary",
-   "imp": 3,
-   "tags": [
-    "SupremeCourt",
-    "Judiciary",
-    "Lawyers"
-   ],
-   "cat": "politics",
-   "val": 2,
-   "teaser": false,
-   "hits": 2
-  },
-  {
    "title": "Number of Farmers Cultivating Finger Millet Decreasing in Jumla",
    "summary": "Jumla. In recent times, the number of people cultivating finger millet in the district has been decreasing. Despite the high...",
    "link": "http://english.ratopati.com/story/84534/millet-cultivation-declining-demand-for-flour-high",
@@ -4749,17 +4726,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1792386657.2570932,
-   "en": "गोकर्णेश्वरमा मोटरसाइकल दुर्घटना हुँदा एकजनाको मृत्यु, एक घाइते",
-   "ne": "गोकर्णेश्वरमा मोटरसाइकल दुर्घटना हुँदा एकजनाको मृत्यु, एक घाइते",
-   "link": "https://baahrakhari.com/detail/505292",
-   "source": "Baahrakhari",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "disaster"
-  },
   {
    "ts": 1792388452.8495867,
    "en": "विश्वकप लिग-२ : आइसिसीको अन्तिम खेलमा आज नेपाल र ओमान भिड्दै",
@@ -7652,9 +7618,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "society"
+  },
+  {
+   "ts": 1792992051.9451275,
+   "en": "Judicial Council recommends four High Court judges for Supreme Court vacancies",
+   "ne": "Judicial Council recommends four High Court judges for Supreme Court vacancies",
+   "link": "https://kathmandupost.com/national/2026/10/26/career-judges-lose-ground-as-lawyers-gain-sway-in-nepal-s-judiciary",
+   "source": "Kathmandu Post",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "politics"
   }
  ],
- "updated": 1792991451,
+ "updated": 1792992065,
  "pending_since": 1792990886.5558224,
  "fb_blocks": [
   1790350880.4125228,
