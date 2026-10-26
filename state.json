@@ -1363,7 +1363,8 @@
   "https://news.google.com/rss/articles/CBMiswFBVV95cUxNM0wxNTVEbTBVTW9wUmtBdzhWSUdpbVJsajFXWm81MGptUmUybWFud0lFY2V5V1RKbmdCWXFJbzE0SEFiQUVYeGtQOHVmSjRISUkwa0w1N3NyUi0xNDF3QXZub0xsaDl0WFh4TE5BMjlZSEdjc3pwM0tOSUtxZ0Y4dnAtbFRpblpYb2FzUUlydjVHdVVvZ0syQWVZUzd4RGtNLW5KbDBVTDdxTDlWN2FBaEpuQQ?oc=5": 1792971651.827532,
   "http://english.ratopati.com/story/84529/ashwin-shukla-purnima-kartik-bath-akashdeep-donation-special-worship-of-tulsi": 1792971651.827532,
   "https://english.khabarhub.com/2026/26/573133/": 1792971651.827532,
-  "https://news.google.com/rss/articles/CBMitAFBVV95cUxON3ZkbmRzckVsSkRTU0otcHRINWlkLS1HWTlmaUtUQWJwQ2o0eFRtUDZxVVRWWF9RT2ZXUWpJNXVNaDIxeUxsb1l2aHlLXzM4QlF4d2lYbnpWNnAtdjcwNmUtTmdsdTRRcGEtYmlvZTZfcXZHY0c0ZFNrRXI4ZGNUVkQ0WW9DcktmbzNWTjRQb1RmY3pPM0NOQzd4VVJGUTFCN2Z1TTRTSjhnMEJoSjhUcUhhSlI?oc=5": 1792971651.827532
+  "https://news.google.com/rss/articles/CBMitAFBVV95cUxON3ZkbmRzckVsSkRTU0otcHRINWlkLS1HWTlmaUtUQWJwQ2o0eFRtUDZxVVRWWF9RT2ZXUWpJNXVNaDIxeUxsb1l2aHlLXzM4QlF4d2lYbnpWNnAtdjcwNmUtTmdsdTRRcGEtYmlvZTZfcXZHY0c0ZFNrRXI4ZGNUVkQ0WW9DcktmbzNWTjRQb1RmY3pPM0NOQzd4VVJGUTFCN2Z1TTRTSjhnMEJoSjhUcUhhSlI?oc=5": 1792971651.827532,
+  "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRW9rVnhZSmltbjA1c25QYUs5Z1MxM0UyT0ZZRGRuamk0SkNMTWhKY2hLOC1YU3R0THlhaUQtV0U1SkVHeFc1SlZWaVFhR1oza3c2VkJtRlloSllQdE5aQzlOUkdCZEx6ZHBpY2ZYNWltRjZqeUE0d1RwMDdSOXpTN1VfU3NQUDFQX1NTMS1nSFRaMDRVeF83cWZUdXBRN2RHV1hXbVVUbE9GWWZ2WEpiandn?oc=5": 1792973448.5652514
  },
  "queue": [
   {
@@ -1850,6 +1851,28 @@
     "लुम्बिनी"
    ],
    "cat": "politics",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Three dead and three missing after boat accident in Nepal - Kathmandu Post",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRW9rVnhZSmltbjA1c25QYUs5Z1MxM0UyT0ZZRGRuamk0SkNMTWhKY2hLOC1YU3R0THlhaUQtV0U1SkVHeFc1SlZWaVFhR1oza3c2VkJtRlloSllQdE5aQzlOUkdCZEx6ZHBpY2ZYNWltRjZqeUE0d1RwMDdSOXpTN1VfU3NQUDFQX1NTMS1nSFRaMDRVeF83cWZUdXBRN2RHV1hXbVVUbE9GWWZ2WEpiandn?oc=5",
+   "source": "UA.NEWS",
+   "ts": 1792972602,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "Three dead and three missing after boat accident in Nepal - Kathmandu Post",
+   "en": "Three dead and three missing after boat accident in Nepal - Kathmandu Post",
+   "ne": "Three dead and three missing after boat accident in Nepal - Kathmandu Post",
+   "imp": 2,
+   "tags": [
+    "BoatAccident",
+    "Kathmandu"
+   ],
+   "cat": "disaster",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -4750,7 +4773,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1792972892,
+ "updated": 1792973454,
  "pending_since": 1792972249.3628163,
  "fb_blocks": [
   1790350880.4125228,
