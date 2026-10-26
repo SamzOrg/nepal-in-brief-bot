@@ -2468,29 +2468,6 @@
    "hits": 1
   },
   {
-   "title": "New Cyclone Approaches Nepal",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE11YVlST19VRFlSMEhYbXlKdEJ1MlktcEpFUnRwZk50X1JLZ3ZDOVdtSDdpUk5aRTdydV9MUFNwYmRnSzNKTVRJQ3JVejI5Z3FfVks0V2dvUERHSDFZS09FN1RLdlA?oc=5",
-   "source": "Explorersweb »",
-   "ts": 1793038525,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "New Cyclone Approaches Nepal",
-   "en": "New Cyclone Approaches Nepal",
-   "ne": "New Cyclone Approaches Nepal",
-   "imp": 4,
-   "tags": [
-    "Cyclone",
-    "Nepal",
-    "वातावरण"
-   ],
-   "cat": "disaster",
-   "val": 2,
-   "teaser": false,
-   "hits": 2
-  },
-  {
    "title": "एनपीएल सुरक्षार्थ एक हजार १२४ प्रहरी परिचालन",
    "summary": "",
    "link": "https://baahrakhari.com/detail/505761",
@@ -5557,9 +5534,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "crime"
+  },
+  {
+   "ts": 1793055058.647048,
+   "en": "New Cyclone Threatens Nepal Mountains With Two Meters Of Snow",
+   "ne": "New Cyclone Threatens Nepal Mountains With Two Meters Of Snow",
+   "link": "https://explorersweb.com/new-cyclone-approaches-nepal/",
+   "source": "Explorersweb »",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "disaster"
   }
  ],
- "updated": 1793054458,
+ "updated": 1793055071,
  "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
