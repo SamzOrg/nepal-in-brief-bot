@@ -1815,28 +1815,6 @@
  },
  "queue": [
   {
-   "title": "German climber dies on Nepal's Ama Dablam mountain",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBZMHUtWnItei1DRHdXTlFtNUtzak94dWpoSFE3ZjhTWnppdTNpVnd3dnVuekdaUzJnSFFHdW5qYUt0YzB1QUwwa2VRN2JvbXhNaTVn?oc=5",
-   "source": "Gulf Daily News (Bahrain)",
-   "ts": 1793016253,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "German climber dies on Nepal's Ama Dablam mountain",
-   "en": "German climber dies on Nepal's Ama Dablam mountain",
-   "ne": "German climber dies on Nepal's Ama Dablam mountain",
-   "imp": 2,
-   "tags": [
-    "AmaDablam",
-    "GermanClimber"
-   ],
-   "cat": "other",
-   "val": 3,
-   "teaser": false,
-   "hits": 4
-  },
-  {
    "title": "एनपीएल ३ : आशा गरिएका सुदूरपश्चिमका ब्याटर फर्किए पभेलियन",
    "summary": "",
    "link": "https://baahrakhari.com/detail/505737",
@@ -1972,29 +1950,6 @@
    "val": 3,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "कालीगण्डकी बाढीले दोबा जोड्ने सडक पुल जोखिममा",
-   "summary": "भीरकाटेपुल कालीगण्डकी नदीले क्षति पुर्याएपछि स्थानीयवासी कष्टपूर्ण यात्रा गर्न विवस भएका हुन्।...",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/road-bridge-connecting-doba-at-risk-due-to-kaligandaki-floods-br-34-37.html",
-   "source": "Nagarik News",
-   "ts": 1793016635,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1793016625_doba%20bridge.jpg",
-   "lang": "ne",
-   "hl": "कालीगण्डकी बाढीले दोबा जोड्ने सडक पुल जोखिममा",
-   "en": "कालीगण्डकी बाढीले दोबा जोड्ने सडक पुल जोखिममा",
-   "ne": "कालीगण्डकी बाढीले दोबा जोड्ने सडक पुल जोखिममा",
-   "imp": 3,
-   "tags": [
-    "KaliGandaki",
-    "Flood",
-    "Bridge"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 3
   },
   {
    "title": "Rajesh Hamal says Swarnim Wagle crossed the limits of his ministerial position",
@@ -6571,7 +6526,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1793044894,
+ "updated": 1793045461,
  "pending_since": 1793044890.8326328,
  "fb_blocks": [
   1790350880.4125228,
