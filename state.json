@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSDRqbHhuT1RNaVZiTkJkRFJLc3pDODFIaDg3UzFsVHlvUEVnZTNzdWNYM3NEeTZaTVdwcldsSHJEeTRTYnJRcTRPZGNFSjRadkM4QzcwUXVyc1QwX1VLOFFDd2xwVzdvVW9ocUxtdlNWSHhiSlgyQlo3aXZ1ejJFYmhkYUlmaElnMmlwS003eExQWjA2MDdtdjlFTzgyelR2OVZ4bjZyeE9hc0VnT2c?oc=5": 1792816845.9658556,
   "https://nagariknews.nagariknetwork.com/sports/west-indies-sherfan-rutherford-signed-with-sudurpaschim-royals-br-86-56.html": 1792817448.7130847,
   "https://nagariknews.nagariknetwork.com/politics/former-president-bhandari-urges-the-world-to-prioritize-climate-justice-br-31-43.html": 1792817448.7130847,
   "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTFVMRkttWU9RRllFa1V2b25mQmpqR0tfVnYyUnl6OHBSMUlOWjlfTm5FeXp3RFBhXzRVT21zTWdYeGVkaDBHeVN0WktUeHdqeDNTRkdaMTdPZUVYdVBVbDJad0tQRVFXSXYxc3pzWXZ0Umt5bUY5bzBJUTU4S3lCTzhiMmFSVzRyajFURmNFZkhNZlhXS3ZkQTVjVFFINThNRXRoYWUwSlVHS3BFZGNvSEUxT1R5R1VQUnNod3pLbw?oc=5": 1792817448.7130847,
@@ -1441,7 +1440,11 @@
   "https://news.google.com/rss/articles/CBMifkFVX3lxTE50VzBBS0JGT2d6ZzdlX1pteEl1MTJ5c0tJamlRNFFzckdZR0V2X2tGWEI2QlAtYXk2c0xyWk1ERnZIRTlNZFNONFFBS1g4VV9QNkdLTFVKZ1JwREo5UVRJVkgzb2Y4SEtOdjlJclZ2NjVCY1FLajVXQzVnUUpqUQ?oc=5": 1792989066.3615024,
   "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUWRPV2RXWFVvbU5CbE1yYkJRZFhsSlBrRlIwbUZfQ2d0Q3VTZ1ZNVVpQMDliT0lxdVl2S3lqZ2xUTFZqdEZENm1KXzk0bEh6RnZuOW10cUszVnd1MElvaDc2cHVzdS1OamozOHBEQzI2a2NHZ09CUF9nOWM1RmtQeHc5TUl3U3RvRXZPU05zMVFVQUNIQmhYTkQzSkVWVnRfZ0ZDRnp1c2d4OGhITnRJblN3WmpERGdralE?oc=5": 1792989066.3615024,
   "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVFJMVVY1QWk2d0lOTnloRWVuWEh1SWduSlcyZFlvRG1Fa19SMUZzMXN2dXZSeFNkcDJBZzFwVUxlYjk0M2l5T0FQc0sxRXZ1UkdyTjV3clk0aDhNSkR5SkpfUVBpcW1tMkRRUnQ2R1B3WVZSMVR4M2dRZ19JdXd1MHdqOGJWVGNXeWY4WUFqcUpUcVZycGFV?oc=5": 1792989066.3615024,
-  "http://english.ratopati.com/story/84557/rasuwa-bhotekoshi-flood-damage-of-over-rs-79-billion-nuwakot-most-affected": 1792989066.3615024
+  "http://english.ratopati.com/story/84557/rasuwa-bhotekoshi-flood-damage-of-over-rs-79-billion-nuwakot-most-affected": 1792989066.3615024,
+  "https://www.setopati.com/social/401298": 1792989647.6842113,
+  "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMmxRZnd3WGxMeUhsNS1wS1ZNam85SWNreXF4dEtGazNpM0VjaFBUWktjbU1veXMyWXV5NTMweXJQd2lJSEUyWFpCWmh2OFhsaHBIZ1ltYXd4U1dGR0JzbGdHckxiRWstSlFKUG1Jb0dPRTRKQlhNZFY1b2hhWWx2ZmJPd2VSdGI2VXJkZ0k0bFYydw?oc=5": 1792989647.6842113,
+  "https://nagariknews.nagariknetwork.com/arts/nepathya-performing-at-paljor-stadium-in-sikkim-96-78.html": 1792989647.6842113,
+  "http://lokaantar.com/story/331933/2026/10/26/accident-": 1792989647.6842113
  },
  "queue": [
   {
@@ -3652,7 +3655,7 @@
    "cat": "culture",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "आजको राशिफल",
@@ -3765,7 +3768,7 @@
    "cat": "society",
    "val": 3,
    "teaser": false,
-   "hits": 4
+   "hits": 6
   },
   {
    "title": "Nepal Makes Significant Strides in Reducing Hunger, Global Hunger Index 2026 Report Shows",
@@ -7190,7 +7193,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1792989079,
+ "updated": 1792989652,
  "pending_since": 1792988447.5065272,
  "fb_blocks": [
   1790350880.4125228,
