@@ -1,9 +1,5 @@
 {
  "seen": {
-  "https://risingnepaldaily.com/news/87982": 1792827649.1085372,
-  "https://nagariknews.nagariknetwork.com/politics/rsvp-deputy-leader-parajuli-meets-with-mauritius-labor-minister-discusses-safety-of-14-000-nepali-workers-br-52-98.html": 1792827649.1085372,
-  "https://risingnepaldaily.com/news/87980": 1792827649.1085372,
-  "https://baahrakhari.com/detail/505568": 1792827649.1085372,
   "http://lokaantar.com/story/331824/2026/10/24/traffic-action-": 1792828254.6456838,
   "http://lokaantar.com/story/331825/2026/10/24/accident-": 1792828888.0311682,
   "https://www.setopati.com/social/401208": 1792828888.0311682,
@@ -1558,7 +1554,9 @@
   "http://lokaantar.com/story/331943/2026/10/26/pradeep-paudel-": 1793000446.5632775,
   "https://nagariknews.nagariknetwork.com/social-affairs/30-people-arrested-for-alleged-involvement-in-drug-trafficking-br-92-92.html": 1793000446.5632775,
   "http://lokaantar.com/story/331942/2026/10/26/pakistan-": 1793000446.5632775,
-  "https://nagariknews.nagariknetwork.com/arts/what-are-the-collections-of-the-three-nepali-films-released-on-the-occasion-of-dashain-14-64.html": 1793000446.5632775
+  "https://nagariknews.nagariknetwork.com/arts/what-are-the-collections-of-the-three-nepali-films-released-on-the-occasion-of-dashain-14-64.html": 1793000446.5632775,
+  "https://news.google.com/rss/articles/CBMinAFBVV95cUxQLWxndFVXby15ZXM1QnY2UVg5bXBuSTk0Zy1VWjJDalVjc3Fmc0lHWjJFUUNiMGRQOHd5bHdreHZYbjNKa0JxY1dVNzZ2NU1MNkZ3WkJJWXFsaWVwaHpEejJ6T2xNVkQyLTZqYzBrSG9YZGUxd21GbGgxenU0M1BOZmpDdHRKZFJManBfV0FaQm1XdjJleVJXSUg4N00?oc=5": 1793000634.71338,
+  "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNy1XZEZCdlctUV9pcW1PMTVpVTBsN1FHVG5UWkY0eTZzNFBnSVloLVBqb1BQaUptdUhIa0NxX1pBWEhNdUpCTFl1TTA1alRCWDhsTzJlUFJubXlBU2trOUlNaXFaZWUtZ3JxWDFYa1h5MVE2aUwwRUlsVkdQd2Z5b0h3UGNkMzc0T1FJTjI5VG95X2RTdlZwaU92UGVEMDE3ZjNsNi11RlFxMGtrdEUyU1lPTnE2a1U?oc=5": 1793000634.71338
  },
  "queue": [
   {
@@ -6290,7 +6288,7 @@
    "cat": "world",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "तिहारमा दश लाखको सयपत्री फूल बेच्ने लक्ष्य",
@@ -6643,6 +6641,29 @@
     "Inflation"
    ],
    "cat": "world",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Nepal unveils flood prevention plan for six basins - Kathmandu Post",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNy1XZEZCdlctUV9pcW1PMTVpVTBsN1FHVG5UWkY0eTZzNFBnSVloLVBqb1BQaUptdUhIa0NxX1pBWEhNdUpCTFl1TTA1alRCWDhsTzJlUFJubXlBU2trOUlNaXFaZWUtZ3JxWDFYa1h5MVE2aUwwRUlsVkdQd2Z5b0h3UGNkMzc0T1FJTjI5VG95X2RTdlZwaU92UGVEMDE3ZjNsNi11RlFxMGtrdEUyU1lPTnE2a1U?oc=5",
+   "source": "UA.NEWS",
+   "ts": 1792987952,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "Nepal unveils flood prevention plan for six basins - Kathmandu Post",
+   "en": "Nepal unveils flood prevention plan for six basins - Kathmandu Post",
+   "ne": "Nepal unveils flood prevention plan for six basins - Kathmandu Post",
+   "imp": 3,
+   "tags": [
+    "FloodPrevention",
+    "SixBasins",
+    "Kathmandu"
+   ],
+   "cat": "disaster",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -9543,8 +9564,8 @@
    "cat": "economy"
   }
  ],
- "updated": 1793000454,
- "pending_since": null,
+ "updated": 1793000639,
+ "pending_since": 1793000634.71338,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
