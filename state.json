@@ -1420,7 +1420,10 @@
   "https://baahrakhari.com/detail/505677": 1792984252.757838,
   "https://risingnepaldaily.com/news/88036": 1792984252.757838,
   "https://baahrakhari.com/detail/505676": 1792984252.757838,
-  "https://baahrakhari.com/detail/505675": 1792984252.757838
+  "https://baahrakhari.com/detail/505675": 1792984252.757838,
+  "https://nagariknews.nagariknetwork.com/politics/npl-is-a-celebration-of-nepali-sports-prime-minister-shah-96-42.html": 1792984846.8421848,
+  "http://english.ratopati.com/story/84546/shantibazaar-devastated-by-budhi-gandaki-floods-displaced-families-shelter-under-tents-photos": 1792984846.8421848,
+  "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTGpJZVdueTNqdXpFbTVRSHNEMDNCS3IwUFlCZUl2aXNZckZ6UmloMER0VWZTREtrSXdLWE52UTk0NXFXcC1xUDhXZy11OTRfc3RMRWJkTHgwQVZFN29OQ1RSWkdiVEFyRFFLV3QyT2hoODBwclk4dENfdmFmTHR6QU1ZandTVU1vQzZaaUs4a3NOV0t3aUZlaGliTk1KaVN4MGNmamtmd1ZWeWsyZ0o5REdldDNOSEU?oc=5": 1792984846.8421848
  },
  "queue": [
   {
@@ -2769,30 +2772,6 @@
    "hits": 1
   },
   {
-   "title": "Nepal to expand flood warning systems across six river basins",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdFVrM3Z3N3RzcUszR0lFZHIxSUJ6aFRsanE3VlgxWGpOSHJxVzZSRlpWdnBIQ0Q3R0k2T1p5VnVlelFlc3B4WnVycGRJSllGNVNLVmlySGhLVFhaeHNJc0VuWmFmTVBnbkpDYW9fOTlOXzF0RjVQSmdLT3BUT1hvbF9YYUkwMllTVDBOc2llc0lUc2xoZ04ydW1VOWVIdWluNGhGeS11c2RWQzQ?oc=5",
-   "source": "The Kathmandu Post",
-   "ts": 1792982324,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Nepal to expand flood warning systems across six river basins",
-   "en": "Nepal to expand flood warning systems across six river basins",
-   "ne": "Nepal to expand flood warning systems across six river basins",
-   "imp": 4,
-   "tags": [
-    "FloodWarning",
-    "RiverBasins",
-    "Nepal",
-    "बाढी"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "राष्ट्रपतीय दौडमा भान्स र रुबियो योग्य रहेको ट्रम्पको भनाइ",
    "summary": "",
    "link": "https://baahrakhari.com/detail/505673",
@@ -3426,20 +3405,33 @@
    "val": 3,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "Flood Damages Shantibazar Settlement in Gorkha",
+   "summary": "Gorkha. The flood that occurred in the Budhigandaki River on October 11 caused significant damage to the Shantibazar settlement in...",
+   "link": "http://english.ratopati.com/story/84546/shantibazaar-devastated-by-budhi-gandaki-floods-displaced-families-shelter-under-tents-photos",
+   "source": "Ratopati EN",
+   "ts": 1792984818,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/01-shanti-bajar_aarughat--2503_9Vxk29gb4r.webp",
+   "lang": "en",
+   "hl": "Flood Damages Shantibazar Settlement in Gorkha",
+   "en": "Flood Damages Shantibazar Settlement in Gorkha",
+   "ne": "Flood Damages Shantibazar Settlement in Gorkha",
+   "imp": 3,
+   "tags": [
+    "Flood",
+    "Gorkha",
+    "Shantibazar",
+    "बाढी"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1792379466.5180354,
-   "en": "धनुषामा बसको ठक्करबाट मोटरसाइकल चालकको मृत्यु, दुई घाइते",
-   "ne": "धनुषामा बसको ठक्करबाट मोटरसाइकल चालकको मृत्यु, दुई घाइते",
-   "link": "https://www.setopati.com/social/401091",
-   "source": "Setopati",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "accident"
-  },
   {
    "ts": 1792381259.5770893,
    "en": "बारामा सर्पको टोकाइबाट १० वर्षीया बालिका सन्झना कुमारीको मृत्यु",
@@ -6332,10 +6324,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "politics"
+  },
+  {
+   "ts": 1792984853.7971566,
+   "en": "Nepal expands flood warning systems across six river basins in 2026-27 white paper",
+   "ne": "Nepal expands flood warning systems across six river basins in 2026-27 white paper",
+   "link": "https://kathmandupost.com/national/2026/10/26/nepal-to-expand-flood-warning-systems-across-six-river-basins",
+   "source": "The Kathmandu Post",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "disaster"
   }
  ],
- "updated": 1792984260,
- "pending_since": null,
+ "updated": 1792984868,
+ "pending_since": 1792984846.8421848,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
