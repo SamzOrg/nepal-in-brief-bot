@@ -1,6 +1,5 @@
 {
  "seen": {
-  "http://english.ratopati.com/story/84374/it-is-estimated-that-the-reconstruction-of-the-beni-darwang-muna-road-will-cost-around-rs-90-million": 1792804016.5455668,
   "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWWtKR2h4dWZDSllBSlR2NGotNGo1UVVxYk4yTDhsVzV1NmlfSXJSQTU0Si13a2JoVWFhdTFBaXlqTW8xYi13Y044Zl9lX1g2alBPaVlLdDB5aU1vYnRHTFpyamRzSy05TWVWTjJ2WlpjX1U5MXg5MzZoelZMdjItQWFvTVdvcHlsd1J3anJpMWc1Wlhmc0ZqZmpwMjJJNWNEYV9mN3BWMVZkMUpaOWZ6cWxlemxySENuZkI4SERIZGZ1dEQwWWwwbjU4YUw0M29FeDhMakpyRjbSAd4BQVVfeXFMTWN1eW41aTNTU1VaTFRzYVJxV2JxRUxZRnN6YWd5WlZnV2hfVEM4TTd5TW5wUnNrelh0TWh3a2F5TjFiczZLejJDNnZNSTQtZVdndmp1SE41eDZ0cHhrZG1jelhxb1E5T0xpTUNab1ByblVSczZiNjd2VTJRWF9Beno4MlFBd3pxZVJ0cHJpWmlfOU5HRDBaTW9LX1MteEw0YlV3LXI3MGRTQU43LWtfMXVBRmlmc3NRTkg0VlFuV2h4TnBSa2tfVUI4X2M3X2U0R2Y0QmFXYkJnYTJseFh3?oc=5": 1792804845.7169,
   "http://english.ratopati.com/story/84377/the-price-of-the-us-dollar-is-152-rupees-and-21-paisa-how-much-has-the-pound-reached": 1792805467.807092,
   "http://lokaantar.com/story/331806/2026/10/24/myagdi-": 1792805467.807092,
@@ -1364,32 +1363,10 @@
   "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9RSDVjM2hYcmhZNzhHaERKTHl6MHlFaVJlVWRVcE1nSDdtN2xTOFhMeVp1SE1BcXRpRUVMem9pQThPbWNkOF82UVNLVVZmbTh4?oc=5": 1792975246.137155,
   "https://risingnepaldaily.com/news/88030": 1792975246.137155,
   "https://www.setopati.com/politics/401291": 1792976483.436798,
-  "http://lokaantar.com/story/331915/2026/10/26/election-": 1792976483.436798
+  "http://lokaantar.com/story/331915/2026/10/26/election-": 1792976483.436798,
+  "https://risingnepaldaily.com/news/88032": 1792977045.543973
  },
  "queue": [
-  {
-   "title": "Liverpool Defeats Brighton 2-0 in Premier League",
-   "summary": "London. English Premier League football club Liverpool Football Club has registered its first home win by defeating Brighton Football Club...",
-   "link": "http://english.ratopati.com/story/84521/liverpools-impressive-win-brighton-defeated-2-0",
-   "source": "Ratopati EN",
-   "ts": 1792947788,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/864207504_1697377041719046_305272481754394145_n_xGy8EUAKPX.webp",
-   "lang": "en",
-   "hl": "Liverpool Defeats Brighton 2-0 in Premier League",
-   "en": "Liverpool Defeats Brighton 2-0 in Premier League",
-   "ne": "Liverpool Defeats Brighton 2-0 in Premier League",
-   "imp": 1,
-   "tags": [
-    "Liverpool",
-    "Brighton",
-    "PremierLeague"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 4
-  },
   {
    "title": "मकवानपुरमा चाँदीजस्तो देखिने १४.१८० किलो धातुसहित चारजना पक्राउ",
    "summary": "",
@@ -1506,29 +1483,6 @@
    "cat": "disaster",
    "val": 3,
    "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Shrestha: An echo from Iowa to Nepal: What climate disasters ask of our humanity",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPU1JBRlh2Yi1kdWplbEtrOW1IVHRHSGdCSk16VzZ1bE4xRFJmSkNkbHljRngyN05sclljNE5GdFlidnFqaXBvRk94RXJ4SllFMGw1eHlwbkN4RHpRVFVickNpTFpOQ1FINXYwaGdVWmNqdHdGZW0wV0FaQ3E1bXRFeE1MY3RqbW05dmJCcWFjXzVKOVlGa21VLXF5a1V3UzNocWtybU5zU2JPU3JZM3otamlrbXFfNy1sdDUxSXJqdWZRcWFtRFhObHFzbDc1RHljYjJr?oc=5",
-   "source": "Iowa State Daily",
-   "ts": 1792948066,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Shrestha: An echo from Iowa to Nepal: What climate disasters ask of our humanity",
-   "en": "Shrestha: An echo from Iowa to Nepal: What climate disasters ask of our humanity",
-   "ne": "Shrestha: An echo from Iowa to Nepal: What climate disasters ask of our humanity",
-   "imp": 2,
-   "tags": [
-    "ClimateDisaster",
-    "Humanity",
-    "नेपाल"
-   ],
-   "cat": "disaster",
-   "val": 1,
-   "teaser": true,
    "hits": 1
   },
   {
@@ -4762,7 +4716,7 @@
    "cat": "sports"
   }
  ],
- "updated": 1792976496,
+ "updated": 1792977051,
  "pending_since": 1792975246.137155,
  "fb_blocks": [
   1790350880.4125228,
