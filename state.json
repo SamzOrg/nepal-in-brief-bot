@@ -1,27 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNm02Z0dmODE2a3NmUnotc2o3NmgxZVg5Tml1LWN0Nlpsb0hTdThsdUNJdWg5akNGM3U5OW5IY0JrOXlMVW43M21vSksybTlHRTIzV1hPYW94YmNWQVlJZ3FkRFhxTHdmWnJ3eVo4dWhBRDZzRzd4SC1sNVROMkt2c0gxWmh0V1M1Q0NsR2xiV3BaMkFRaVYydE5QMDN1Ti1vZkhtVElWeUZtRWs1bW1YZlNxNjRfSTVIc0ZzVDFEeHhfUG1oSE5aalpOVGktNVh3NWJINGln?oc=5": 1792845651.8415055,
-  "https://nagariknews.nagariknetwork.com/politics/facts-refute-the-narrative-that-the-old-parties-did-nothing-madhav-nepal-50-44.html": 1792846247.9808078,
-  "https://baahrakhari.com/detail/505585": 1792846247.9808078,
-  "https://gorkhapatraonline.com/news/227151": 1792846247.9808078,
-  "https://www.setopati.com/special-stories/international-feature/401224": 1792846247.9808078,
-  "http://english.ratopati.com/story/84415/this-is-the-weather-forecast-for-the-next-five-days": 1792846247.9808078,
-  "https://nagariknews.nagariknetwork.com/social-affairs/no-weather-warnings-for-five-days-62-97.html": 1792846247.9808078,
-  "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcjRwTlV0dXZQQlU1N1hLcEpULUlOQTRFcnIwczUySkZkTWZNMm1mRi0tVzJGeTlhWXdvYVVCUFFEM2hvaHhBMjIzMnpYMDJYZFpSQXpNMldwMG9tbWxMUVVFTGduTXplZTlDUTNQbm5YZzl1ZlIxazhROWZIWXEtb0dTNG9FMlgzYThGNVhBeGJmQ3lyWmlScXhsa1gycnp6ZXptcXVMTmZCRURuYU9FMEk4YmZTbEFIMnlxeVhURnY?oc=5": 1792846247.9808078,
-  "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORzdZMjR3VUI5VEhERzhnUlRmb1hwRVotVXJNNXEwQV9LRkRVYjFxWnJKMkRFVjY1N3M4M2U1RndFY3BSMk11UHhRRWN1VlZtdTRiRzhqUlYyQ0t6U19BSmtlZ3MyNGNYQnFmakdDT0dDVHpXcnFGRzM2cWR2aVdDUUNEejFTOXp6OEpmV3VoWElfd2U1YXF3VkdxR2VMNW5WeEQwUUdJblBsZw?oc=5": 1792846247.9808078,
-  "http://lokaantar.com/story/331836/2026/10/24/weather-": 1792846247.9808078,
-  "https://baahrakhari.com/detail/505584": 1792846247.9808078,
-  "https://gorkhapatraonline.com/news/227145": 1792846247.9808078,
-  "https://www.setopati.com/social/401228": 1792846247.9808078,
-  "https://nagariknews.nagariknetwork.com/international/protests-in-over-100-locations-in-france-135-arrested-br-65-61.html": 1792846247.9808078,
-  "http://lokaantar.com/story/331835/2026/10/24/kamal-thapa-": 1792846247.9808078,
-  "https://gorkhapatraonline.com/news/227150": 1792846247.9808078,
-  "https://www.setopati.com/social/401227": 1792846247.9808078,
-  "https://nagariknews.nagariknetwork.com/social-affairs/to-facilitate-the-gola-yangma-journey-a-shelter-was-built-in-dhasapar-along-with-rental-equipment-and-mats-97-48.html": 1792846247.9808078,
-  "http://lokaantar.com/story/331834/2026/10/24/karnali-yaks-": 1792846247.9808078,
-  "https://gorkhapatraonline.com/news/227149": 1792846247.9808078,
-  "https://nagariknews.nagariknetwork.com/social-affairs/three-vehicles-collide-in-jamune-tanahun-two-injured-36-55.html": 1792846247.9808078,
-  "https://nagariknews.nagariknetwork.com/arts/clip-of-kabaddi-5-after-the-final-match-goes-viral-on-social-media-production-team-urges-not-to-do-so-62-77.html": 1792846247.9808078,
   "http://lokaantar.com/story/331837/2026/10/24/rape-": 1792846888.411624,
   "https://nagariknews.nagariknetwork.com/social-affairs/why-did-28-people-renounce-nepali-citizenship-24-43.html": 1792848052.0072947,
   "https://english.khabarhub.com/2026/24/573015/": 1792848671.0692837,
@@ -1731,7 +1709,11 @@
   "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOQllLdTNOMG81ZUF0X2tIanpOTzVoc2NHdmV5eXJWU01Iakx2U3lpZ3Y3ek5fUTFQUm1GcGJvNHFNbEJUamtKWWUydWpjOTBxZ2YwdUFIMmZIclRlRXNMT1BiSnpUR2VwRWtoUUROOUJUZ0V6UWxiNXE3cF9ydmV5VWRPMFVrTEdPbUp1SE5NLVR3UXl3UnhzZWtnd1ZfV3VWMDl6cFptekZobFZVbTBDZnA4X0JSUlB6QnpBUjNLTENHd1lWWk1hR3pTREZkNlU2R1VqT3Y5N0NtZU5yLW4wNnFGMkdrNFZOWDlPUjBCZnREVDBlQ0HSAfwBQVVfeXFMUEdQSEhHQS1rVFhLak1YRFg5dlZtVGxYLU1VZTRCdTBKOGZWT3BNREpGSGUyTE92Yi1sb3d4NFlORUtUUll5RzBUbWk2eGptNjZzbDNRbm1DLUJZby1ocmdZWksxc3VSRkJEM0Q1QWFJOV9pQWJxZnRBTWVVNjJiYnBhSGZlWXd3QWVUY2RDYW1rZTk2aFY4SUVfTjR4bktpM1RBdkNaMzRsYVc3X1JsaTgtVjNFa2hiaV9yMlBjemZPNE1sVmU5bE1hdzhZMHJuV3ljTGQxMWViNWJjOURsQW9oaHd5SzhCbTJHU20ybHByc1QzZUpaMlpQb1U2?oc=5": 1793018449.9071693,
   "https://gorkhapatraonline.com/news/227318": 1793018449.9071693,
   "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNWxUd20xbDJHUC1TdDM1Q0xZdERLZl9Gb0FHOWUxQUxncjFnWVE2a0pKNkxESkJWM3dCM180dFgybmp3d19HX0NVZHdoU25CUTQ3cVRQMHJYUFRRLWtEc2Y2TkZNT2RyQmsyZk1NQ19Zb1I0SUdaZmp1aFZfczNZQnlaSHJvNGszQmVKR2xES2lQU092ZnVXUHpmVGh0MjBzbXQ0?oc=5": 1793018449.9071693,
-  "https://english.onlinekhabar.com/suv-crash-in-gulmi.html": 1793018449.9071693
+  "https://english.onlinekhabar.com/suv-crash-in-gulmi.html": 1793018449.9071693,
+  "https://risingnepaldaily.com/news/88072": 1793019377.099914,
+  "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaVBCVXgza2gxUk5nX0w1dU1vVDlzUmtrbVVXNEN2X2ZseGhFS1daR3FWRHl3REFCelAwcFJiZUpXdTRGUEFkNGJ1ZWI2SHBjbzVFa0pmUmd5WWgyWlYwa3VhQjZTd1ZQUm5UOFYzcC1GWVEzMDVHR084eE9mZDRyQ1hYX0F6WEhNMmh1STBJS2VkcjhCcXgxZFJwRkxmOTBPZ081MXdUaw?oc=5": 1793019377.099914,
+  "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUzBXOEwzYTFvOGloelBLakVhUnlXZTUtamE3TnhFVEVjNlN0Uk5JdVJxNUJ2TGxiOGxiNXM0R2JHclhfWVpQa0dpZ1l5TVdHdXNtalFVclRrUVpQQXpZck4ydERmZlpmSGJRei0ySXAzcGxkRFROaGQzRDc5WVJhaThyNm1PREdTRmJxb1VrdDNxWlZyemtFbHhHQmxTYVFac28yLTF5NjloeENQdHBN?oc=5": 1793019377.099914,
+  "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdTAwWjJwLW0tVk9SaWxWWTVtWW1xaWJuQnJpRG4xSEJwd2ZfYlA2d2RsdkpnZmNYMVdXZmpOLTNETXJPTEU5VXE1NWtMUXN1b3diMWdJanRmUGdiMXNfTG56X2VGNHdfZ2FIRjY0UmxHTUdLdEZuOFlCbVljSXBrQk9KX2Rtam5ybW1yTTh1WGlGWGl2WUQ0bll6dXJYSEhVY05wQmp3aWZ5QzdRb3U3MHNXV0ZvRC16ZmVoaQ?oc=5": 1793019377.099914
  },
  "queue": [
   {
@@ -1757,50 +1739,6 @@
    "hits": 1
   },
   {
-   "title": "Rediscovering China: A New Journey Through Modernity, History and Development",
-   "summary": "Every journey offers an opportunity to see the world from a new perspective. Some journeys, however, go beyond sightseeing and...",
-   "link": "http://english.ratopati.com/story/84561/rediscovering-china-a-new-journey-through-modernity-history-and-development",
-   "source": "Ratopati EN",
-   "ts": 1792990500,
-   "weight": 2,
-   "img": "https://encdn.ratopati.com/media/news/kamal-giri_1No4dXRaNX.jpg",
-   "lang": "en",
-   "hl": "Rediscovering China: A New Journey Through Modernity, History and Development",
-   "en": "Rediscovering China: A New Journey Through Modernity, History and Development",
-   "ne": "Rediscovering China: A New Journey Through Modernity, History and Development",
-   "imp": 1,
-   "tags": [
-    "China",
-    "Modernity"
-   ],
-   "cat": "world",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "साँझको झिलिमिलीमा मनमोहक देखिएको नायगरा फल्स",
-   "summary": "क्यानडाको ओन्टारियो प्रान्तमा अवस्थित विश्वप्रसिद्ध पर्यटकीय गन्तव्य नायगरा फल्समा साँझपख देखिने मनमोहक दृश्यले स्वदेशी तथा विदेशी पर्यटकलाई आकर्षित गर्ने गरेको छ।...",
-   "link": "https://nagariknews.nagariknetwork.com/photo-feature/niagara-falls-in-the-evening-light-a-tourist-attraction-34-95.html",
-   "source": "Nagarik News",
-   "ts": 1792990370,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1792990471_niagrafalls.jpg",
-   "lang": "ne",
-   "hl": "साँझको झिलिमिलीमा मनमोहक देखिएको नायगरा फल्स",
-   "en": "साँझको झिलिमिलीमा मनमोहक देखिएको नायगरा फल्स",
-   "ne": "साँझको झिलिमिलीमा मनमोहक देखिएको नायगरा फल्स",
-   "imp": 1,
-   "tags": [
-    "NiagaraFalls",
-    "Travel"
-   ],
-   "cat": "world",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "कार्कीले पारिश्रमिक नदिएको आरोप लगाएपछि दुर्गेशले सार्वजनिक गरे प्रमाण",
    "summary": "",
    "link": "https://baahrakhari.com/detail/505686",
@@ -1821,51 +1759,6 @@
    "val": 2,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "Book Review : Cracks in the Wind",
-   "summary": "At a time when many contemporary novels focus on urban life, technological change, and fast-moving events, Cracks in the Wind...",
-   "link": "http://english.ratopati.com/story/84560/book-review-cracks-in-the-wind",
-   "source": "Ratopati EN",
-   "ts": 1792990200,
-   "weight": 2,
-   "img": "https://encdn.ratopati.com/media/news/ag_8BP7fhoIzK.jpg",
-   "lang": "en",
-   "hl": "Book Review : Cracks in the Wind",
-   "en": "Book Review : Cracks in the Wind",
-   "ne": "Book Review : Cracks in the Wind",
-   "imp": 1,
-   "tags": [
-    "BookReview",
-    "Literature"
-   ],
-   "cat": "culture",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "'भारतको विरोध गरेर मात्र राष्ट्रवादी भइने युग सकियो' भनेका वाग्लेलाई सुवेदीको साथ",
-   "summary": "तत्कालीन प्रधानमन्त्री शेरबहादुर देउवाका परराष्ट्र मामिला सल्लाहकार रहेका सुवेदीले सामाजिक सञ्जाल एक्समा लेख्दै वाग्लेको अभिव्यक्तिलाई विषयवस्तुका आधारमा गलत ठहर गर्नुपर्ने कारण नदेखिएको बताएका हुन्।...",
-   "link": "https://nagariknews.nagariknetwork.com/politics/subedi-supports-wagle-who-said-the-era-of-becoming-nationalist-only-by-opposing-india-is-over-58-42.html",
-   "source": "Nagarik News",
-   "ts": 1792990140,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1792990094_Arun-Wagle.jpg",
-   "lang": "ne",
-   "hl": "'भारतको विरोध गरेर मात्र राष्ट्रवादी भइने युग सकियो' भनेका वाग्लेलाई सुवेदीको साथ",
-   "en": "'भारतको विरोध गरेर मात्र राष्ट्रवादी भइने युग सकियो' भनेका वाग्लेलाई सुवेदीको साथ",
-   "ne": "'भारतको विरोध गरेर मात्र राष्ट्रवादी भइने युग सकियो' भनेका वाग्लेलाई सुवेदीको साथ",
-   "imp": 3,
-   "tags": [
-    "SwarnimWagle",
-    "Politics",
-    "वाग्ले"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "प्रधानमन्त्री राहत कोषमा सहयोग जुट्ने क्रम अझै जारी, मौज्दात १८ अर्ब नाघ्यो",
@@ -2261,29 +2154,6 @@
    "hits": 2
   },
   {
-   "title": "National Pride Projects crawl despite billions in spending",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcE1jRkh6aHU4b2VoTDRvSHhTWDFMMjgtQTF5aUhNZ09EZjYxanhBS0lxelU3cWtZTWoyOGxxcmxoWmh0R2k4ekN6VjJkRFg2RTQya3psV2lick96Y1BnOEdheUJ0R0ZmVUNJbGdWQWVDNUlUTm12SXVxc09mM1hWd1lTRlMzRHJEQ1VaNlVpQ0ZuVlpZenVDVFlxMWFnVVFPUDl3NUN3c1BHVldMM2tsMElZVQ?oc=5",
-   "source": "myRepublica",
-   "ts": 1792989900,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "National Pride Projects crawl despite billions in spending",
-   "en": "National Pride Projects crawl despite billions in spending",
-   "ne": "National Pride Projects crawl despite billions in spending",
-   "imp": 3,
-   "tags": [
-    "NationalPrideProjects",
-    "Development",
-    "अर्थतन्त्र"
-   ],
-   "cat": "economy",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "NPL's Karnali Yaks' Farhan to return to Pakistan amid NOC controversy",
    "summary": "Kathmandu, October 26 Karnali Yaks' Pakistani player Sahibzada Farhan, who came to Nepal to play in the Nepal Premier League (NPL), will return to Pakistan after being selected for the national team. Karnali Yaks said...",
    "link": "https://english.onlinekhabar.com/farhan-to-return-to-pakistan.html",
@@ -2371,29 +2241,6 @@
     "प्रहरी"
    ],
    "cat": "crime",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "'I feel so happy!': Ecstasy, relief among Brazil's Lula supporters",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUjlwWjZBQWd3RG14QUV5NERvNUx1ei0xeG13WExucmhVS3p1WW5HanVrRHBKZGVzcUw5TWNmTjhOaDJOMm00U09tVmg2YmpmRGZqN2VuUnNGNFVRTDcxSlgzOUlrbkNUc0dvU3NtbWlIM2x5b251MTd0ZzJaUElQOFVVWFJEWXhwY2tRaDhLVnh0S01JeU9XWVNhemhwSzQ0TlRhQkVjcTVNemhrOW9USlVSZ0txZw?oc=5",
-   "source": "myRepublica",
-   "ts": 1792989743,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "'I feel so happy!': Ecstasy, relief among Brazil's Lula supporters",
-   "en": "'I feel so happy!': Ecstasy, relief among Brazil's Lula supporters",
-   "ne": "'I feel so happy!': Ecstasy, relief among Brazil's Lula supporters",
-   "imp": 1,
-   "tags": [
-    "Brazil",
-    "Lula",
-    "Politics"
-   ],
-   "cat": "world",
    "val": 3,
    "teaser": false,
    "hits": 2
@@ -7429,17 +7276,6 @@
  ],
  "posted": [
   {
-   "ts": 1792414260.925159,
-   "en": "Nepali Swimmer Harka Man Gharti Reaches Asian Para Games Final",
-   "ne": "Nepali Swimmer Harka Man Gharti Reaches Asian Para Games Final",
-   "link": "https://english.onlinekhabar.com/harka-man-gharti-reaches-final.html",
-   "source": "Onlinekhabar EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "sports"
-  },
-  {
    "ts": 1792416066.0723813,
    "en": "Nepal PM Balendra Shah Seeks Grants Not Loans for August 2026 Flood Recovery",
    "ne": "Nepal PM Balendra Shah Seeks Grants Not Loans for August 2026 Flood Recovery",
@@ -10331,9 +10167,20 @@
    "n_ig": 1,
    "brk": true,
    "cat": "disaster"
+  },
+  {
+   "ts": 1793019440.988544,
+   "en": "Lumbini Lions elect to bowl first against Sudurpaschim Royals in NPL opener",
+   "ne": "Lumbini Lions elect to bowl first against Sudurpaschim Royals in NPL opener",
+   "link": "https://myrepublica.nagariknetwork.com/news/npl-2026-lumbini-lions-win-toss-invite-sudurpaschim-royals-to-bat-26-71.html",
+   "source": "myRepublica",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "sports"
   }
  ],
- "updated": 1793018472,
+ "updated": 1793019451,
  "pending_since": 1793018147.6196787,
  "fb_blocks": [
   1790350880.4125228,
