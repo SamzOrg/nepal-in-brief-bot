@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://nagariknews.nagariknetwork.com/politics/youth-will-not-be-left-jobless-if-a-government-with-a-culture-of-labor-comes-to-power-hark-sampang-83-92.html": 1792820453.0162597,
   "https://nagariknews.nagariknetwork.com/international/powerful-earthquake-hits-near-vanuatu-84-32.html": 1792821046.4114687,
   "http://english.ratopati.com/story/84401/rashtriya-swayamsevak-sangh-rss-deputy-leader-ganesh-parajuli-meets-with-mauritius-labor-minister-discusses-safety-of-nepali-workers": 1792821114.6800354,
   "https://baahrakhari.com/detail/505562": 1792821114.6800354,
@@ -1484,7 +1483,10 @@
   "https://english.onlinekhabar.com/students-topple-serbias.html": 1792993250.1056693,
   "http://english.ratopati.com/story/84570/first-working-day-after-dashain-holiday-slow-movement-of-service-recipients-and-employees-in-offices": 1792993250.1056693,
   "https://theannapurnaexpress.com/story/68223": 1792993250.1056693,
-  "http://english.ratopati.com/story/84571/the-process-of-providing-copies-of-citizenship-certificates-to-flood-victims-in-uttar-gaya-has-begun-at-the-holding-center": 1792993250.1056693
+  "http://english.ratopati.com/story/84571/the-process-of-providing-copies-of-citizenship-certificates-to-flood-victims-in-uttar-gaya-has-begun-at-the-holding-center": 1792993250.1056693,
+  "https://risingnepaldaily.com/news/88047": 1792993846.2045975,
+  "https://english.onlinekhabar.com/gold-price-rises-by-rs-3000-per-tola.html": 1792993846.2045975,
+  "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVjhsSU9OS0E2akw0dkYxOG1HOENyelRjRy1hTEVVekJPdUZ1V2h6a3Zoa0Q1QWhFbWw1SUczVlJKdkRFZWxnQTJVVTkxbEFFeFozTmdiOWpOSHZHbGJXZlNfLU1pb3V4OXpNTG9BUFZVMTNzMDNNRnRfRU1tTmo5RnVkbG4yazhZUV9odlRMUWRBTnFpYUlJV1hHLXJQUVR0bXhJQUZTSTF4bHYxSmREdnh5S1YwN3VhTWc?oc=5": 1792993846.2045975
  },
  "queue": [
   {
@@ -3602,7 +3604,7 @@
    "cat": "culture",
    "val": 3,
    "teaser": false,
-   "hits": 3
+   "hits": 4
   },
   {
    "title": "आजको राशिफल",
@@ -4187,30 +4189,6 @@
    "hits": 1
   },
   {
-   "title": "Initial Assessment: 79.17 Billion NPR Damage from Rasuwa-BhoteKoshi Flood",
-   "summary": "Kathmandu. An initial assessment estimates that the devastating flood in the Rasuwa-BhoteKoshi river on Bhadra 10, 2083, caused damage worth...",
-   "link": "http://english.ratopati.com/story/84557/rasuwa-bhotekoshi-flood-damage-of-over-rs-79-billion-nuwakot-most-affected",
-   "source": "Ratopati EN",
-   "ts": 1792988762,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/08-betrawati_nepal-photo-library_prabin-ranabhat15_fM2x9NAlvn.webp",
-   "lang": "en",
-   "hl": "Initial Assessment: 79.17 Billion NPR Damage from Rasuwa-BhoteKoshi Flood",
-   "en": "Initial Assessment: 79.17 Billion NPR Damage from Rasuwa-BhoteKoshi Flood",
-   "ne": "Initial Assessment: 79.17 Billion NPR Damage from Rasuwa-BhoteKoshi Flood",
-   "imp": 4,
-   "tags": [
-    "Rasuwa",
-    "BhoteKoshi",
-    "Flood",
-    "बाढी"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "मनमोहक हर्ससुई",
    "summary": "",
    "link": "https://baahrakhari.com/detail/505687",
@@ -4725,7 +4703,7 @@
    "cat": "sports",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "SUV driver killed in Ilam accident",
@@ -4841,29 +4819,6 @@
    "val": 1,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "Gold price rises by Rs 3,000 per tola in domestic market",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQkNjc1Z4TDI0cVNrVzJmb3ZUSjFBQUcteGhqempRTWYtY0IxTnk2SmJwMGFablRGZlNOaWN0VzZ0ZEpEemt1OUdNZ2hSb3JKbXBCb1ViN1B3bVFHVmNwbjlBdDBHdF9maEdhM1pCNEQxdjRLSDA0RnF5VUsyNVU5YmRSTUJXai1ZMXJvTzBrSHpDZEdsamVvUVhUNm1xM3c1YnZJNXJaRm9iT2o5ek13?oc=5",
-   "source": "myRepublica",
-   "ts": 1792991659,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Gold price rises by Rs 3,000 per tola in domestic market",
-   "en": "Gold price rises by Rs 3,000 per tola in domestic market",
-   "ne": "Gold price rises by Rs 3,000 per tola in domestic market",
-   "imp": 3,
-   "tags": [
-    "GoldPrice",
-    "Market",
-    "Economy"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 4
   },
   {
    "title": "हट एयर बेलुन",
@@ -5076,17 +5031,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1792388452.8495867,
-   "en": "विश्वकप लिग-२ : आइसिसीको अन्तिम खेलमा आज नेपाल र ओमान भिड्दै",
-   "ne": "विश्वकप लिग-२ : आइसिसीको अन्तिम खेलमा आज नेपाल र ओमान भिड्दै",
-   "link": "https://nagariknews.nagariknetwork.com/sports/world-cup-league-2-nepal-and-oman-clash-13-76.html",
-   "source": "Nagarik News",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "sports"
-  },
   {
    "ts": 1792390295.6698563,
    "en": "थापाथली र शंखमूलका विस्थापित सुकुम्बासी ६ महिनादेखि होल्डिङ सेन्टरमा",
@@ -7979,9 +7923,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "politics"
+  },
+  {
+   "ts": 1792993855.4918284,
+   "en": "Gold price rises by Rs 3,000 per tola in domestic market",
+   "ne": "Gold price rises by Rs 3,000 per tola in domestic market",
+   "link": "https://myrepublica.nagariknetwork.com/news/gold-price-rises-by-rs-3000-per-tola-in-domestic-market-55-23.html",
+   "source": "myRepublica",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "economy"
   }
  ],
- "updated": 1792993255,
+ "updated": 1792993872,
  "pending_since": 1792993250.1056693,
  "fb_blocks": [
   1790350880.4125228,
