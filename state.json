@@ -1362,32 +1362,11 @@
   "https://baahrakhari.com/detail/505666": 1792974666.2809324,
   "https://baahrakhari.com/detail/505665": 1792974666.2809324,
   "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9RSDVjM2hYcmhZNzhHaERKTHl6MHlFaVJlVWRVcE1nSDdtN2xTOFhMeVp1SE1BcXRpRUVMem9pQThPbWNkOF82UVNLVVZmbTh4?oc=5": 1792975246.137155,
-  "https://risingnepaldaily.com/news/88030": 1792975246.137155
+  "https://risingnepaldaily.com/news/88030": 1792975246.137155,
+  "https://www.setopati.com/politics/401291": 1792976483.436798,
+  "http://lokaantar.com/story/331915/2026/10/26/election-": 1792976483.436798
  },
  "queue": [
-  {
-   "title": "अचेत भेटिएका पुरुषको उपचारका क्रममा मृत्यु",
-   "summary": "शिवशंङ्कर मिश्रा बारा, कात्तिक ८ गते । बाराको कोल्हवी नगरपालिका-२ निकास टोलमा अचेत अवस्थामा फेला परेका एक अपरिचित पुरुषको उपचारका क्रममा मृत्यु भएको छ ।आइतबार दिउँसो करिब ३ः२५ बजे...",
-   "link": "https://gorkhapatraonline.com/news/227235",
-   "source": "Gorkhapatra",
-   "ts": 1792947362,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/388863/conversions/unnamed-(1)-original.jpg",
-   "lang": "ne",
-   "hl": "अचेत भेटिएका पुरुषको उपचारका क्रममा मृत्यु",
-   "en": "अचेत भेटिएका पुरुषको उपचारका क्रममा मृत्यु",
-   "ne": "अचेत भेटिएका पुरुषको उपचारका क्रममा मृत्यु",
-   "imp": 2,
-   "tags": [
-    "Death",
-    "Hospital",
-    "मृत्यु"
-   ],
-   "cat": "society",
-   "val": 1,
-   "teaser": false,
-   "hits": 1
-  },
   {
    "title": "Liverpool Defeats Brighton 2-0 in Premier League",
    "summary": "London. English Premier League football club Liverpool Football Club has registered its first home win by defeating Brighton Football Club...",
@@ -1454,29 +1433,6 @@
     "PremierLeague"
    ],
    "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Iranian forces claim downing US drone over southern port city",
-   "summary": "KATHMANDU. Iranian forces claimed to have shot down a US 'Lucas' drone in the skies over its southern port city...",
-   "link": "http://english.ratopati.com/story/84520/iranian-military-claims-to-have-shot-down-us-drone",
-   "source": "Ratopati EN",
-   "ts": 1792947427,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/drone_MqnC2bV6A2.webp",
-   "lang": "en",
-   "hl": "Iranian forces claim downing US drone over southern port city",
-   "en": "Iranian forces claim downing US drone over southern port city",
-   "ne": "Iranian forces claim downing US drone over southern port city",
-   "imp": 1,
-   "tags": [
-    "Iran",
-    "Drone",
-    "MiddleEast"
-   ],
-   "cat": "world",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -1737,7 +1693,7 @@
    "cat": "world",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 4
   },
   {
    "title": "ऋण तिर्न र कमाउन गएका थिए, उतै बित्यो पूरा जिन्दगी",
@@ -4806,7 +4762,7 @@
    "cat": "sports"
   }
  ],
- "updated": 1792975869,
+ "updated": 1792976496,
  "pending_since": 1792975246.137155,
  "fb_blocks": [
   1790350880.4125228,
