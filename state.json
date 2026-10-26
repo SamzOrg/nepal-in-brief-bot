@@ -1,29 +1,5 @@
 {
  "seen": {
-  "https://gorkhapatraonline.com/news/227146": 1792842048.556216,
-  "https://english.khabarhub.com/2026/24/573011/": 1792842048.556216,
-  "http://lokaantar.com/story/331833/2026/10/24/hatya-": 1792842048.556216,
-  "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBrNFUyX01IWkp5NTlJNzF6dTFoYTJZNVJoTnlibEZ0MTJkWE12MlNjQWNlc19FUFJrdUpEdS0tSkJmYjNLSjc3T0ZjMng4QnJCSmVVdTFlTWU?oc=5": 1792842048.556216,
-  "http://english.ratopati.com/story/84412/fifa-president-infantino-said-i-have-the-support-of-the-majority-of-world-football": 1792842048.556216,
-  "https://nagariknews.nagariknetwork.com/social-affairs/28-people-renounced-citizenship-in-chitwan-in-three-months-br-82-72.html": 1792842048.556216,
-  "https://www.setopati.com/special-stories/international-feature/401220": 1792842048.556216,
-  "https://baahrakhari.com/detail/505582": 1792842048.556216,
-  "https://risingnepaldaily.com/news/87989": 1792842048.556216,
-  "https://english.khabarhub.com/2026/24/573004/": 1792842048.556216,
-  "https://gorkhapatraonline.com/news/227143": 1792842048.556216,
-  "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcDM0ZHBKMnk0Z0puX0xPVExaMlpfVW11aXJ2NXhPdlp6cXF4S1NRQWxOUUphVnhIelRUaGROak5DU3l0T2JiRTVybXp5M3RRaW1jU2dfSzFldi12S1cwN2JLVVo2emxvVXo2TTh6bkJTSk11YzBiU200ckQwNW1xdTJEUUJVdE5ZMXNLUE91blNELVVnWGNRekdLNnd2bGdOSmVfRQ?oc=5": 1792842048.556216,
-  "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBtV3ZrdUp1ckhob0hzbDRKQk5QTDZNSlp0UmdfTUNOQ2ZXX3lkS2lWQzQxdlpFZ1k4cDBJUWJWVnF1OGx1cncwVVJ4UXp1bzlSeGk4YWFiTFc2YzlH0gFcQVVfeXFMUG1Xdmt1SnVySGhvSHNsNEpCTlBMNk1KWnRSZ19NQ05DZldfeWRLaVZDNDF2WkVnWThwMElRYlZWcXU4bHVydzBVUnhRenVvOVJ4aThhYWJMVzZjOUc?oc=5": 1792842048.556216,
-  "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNVRSLVMyUXhIWTBhZHkxOFAyMGFTb0lYWWJxaUpJSHlpY2lJdGdITkN3Qmw2eXVTZ0QwTm9CUWgtSVdNY0ozeWtHWmNzLVNrT25ldDdzRnBkTUpNWEtaXzRlZXhIamxIMDJTRTRmZGFHQURKMkNaR2tOY2doNjNHMncwa29qYlNfemVIeHM4NTEtQU5ET1R2bUQyT0M?oc=5": 1792842048.556216,
-  "http://lokaantar.com/story/331818/2026/10/24/bhotekoshi-flood-": 1792842048.556216,
-  "https://news.google.com/rss/articles/CBMikwFBVV95cUxOT1ZDOFNDYnJIYVRocEtqZ3ljeENxcXNTdWlIYWdIaTRaMmhLRVYxSlJCTllxT1M0di05TGJmMkk0V3JBYzNwQ0RRaXM2bGg2RnE1Y2owczhiQUdKZVJSWVpyVWRJNm9EMjNhdV8wQUwwSXNFa3FfaGdXcWhuaXFXNGdzeWdYaFl3Z2VFX1hTVVRUN2c?oc=5": 1792842048.556216,
-  "https://nagariknews.nagariknetwork.com/social-affairs/npl-matches-may-be-affected-if-the-weather-changes-25-17.html": 1792842048.556216,
-  "https://baahrakhari.com/detail/505581": 1792842048.556216,
-  "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMEZwMjdHQkcxQlpLcTM5WlIxSTFpZWN6UDM1VTEySkhRdTU2WkI2cHNnUElkWDVwcVBaZ2tSRkVoMzhvTF93a0plZVJhZWg3QmtVZDJYLXUwaXNmYzl1aWpjbG4xakpFMDltTDRick1FalE3eGYtTzIwTmdEeWVoNmJ3?oc=5": 1792842048.556216,
-  "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSUxsazZQZ3JBb2VORDByRW9SMHRMWDBZcGZpd2tuQ1h2Ulc0SHVmbDlQNjRRT2FwWFJBZGtPdXVhSm83SDlmRGV2RFRsbGdqN01XYWpTN2NKd0pvdlVSdUt3Q2ItMVNZMDlzaGNWVEEyZmN6U0ZZMWlRb0FKWU5pYk9LeUFyWW9tOFplTzZEOEVxSzhJZlhGdGU4SVpVeUR5MElEb3BiSk94MFFRRUJEZmJreU5BZU05RGlRQU1zN3ExaWlsSUEyNjR3?oc=5": 1792842048.556216,
-  "https://nagariknews.nagariknetwork.com/arts/expanding-the-library-of-nepali-films-on-diggo-ott-with-content-from-films-sports-and-jiohotstar-in-a-single-subscription-65-25.html": 1792842048.556216,
-  "https://baahrakhari.com/detail/505580": 1792842048.556216,
-  "https://baahrakhari.com/detail/505579": 1792842048.556216,
-  "https://baahrakhari.com/detail/505578": 1792842048.556216,
   "http://english.ratopati.com/story/84413/ncp-mobilizes-leaders-and-cadres-from-the-center-to-the-local-level-in-the-national-awareness-campaign": 1792842650.466253,
   "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOVUxeVVBSllwbFc3U3lfUkhMc094V1pBeFotOEJzd2VkbVA3OVdNd25NTmtaaVczYjQxM0psQ250TllGWkotLVE3ZnFlYnR6RHpfVlJEOXZKT0RyRmE4cWM2SE9NX0lSTmVzVkVDTzJQT1UyLU9adWhyczU4N0hzZnQzNmhwNUQ4N2FfSUhraTFlbWZ0TEFIT3RoNU9va3VnRHdhcUI2Wjc2cklvWHJVSVNYdjZSd3djYkdjRNIBxAFBVV95cUxQMFJyRXFzQjVfbTZBRVRSOXltQUQxVGZCOVRmTjFucjJ0eF9UZTFJMHlFWFRqUUcxLVBMY1k0aHVYTkhFbkZmejliSTk0ZEw1QzZtVjdPWXhmQlBZVllxSkctSGFfbEdMTHdSODI2RDJKOTNvXzRIcmlPZUItV0k4Q21aejh4N3ZYV1VWdmQyekIyM0dabnZPLWxQQ252Y0c1c2RZXy1VVTY3VldjOUo2X01XVkFyN1pZNmgyS09Ta3k0Unhn?oc=5": 1792842650.466253,
   "https://kathmandupost.com/gandaki-province/2026/10/24/two-japanese-climbers-found-dead-on-gangapurna": 1792842650.466253,
@@ -1735,52 +1711,6 @@
    "hits": 1
   },
   {
-   "title": "Youth reopen blocked road in two days",
-   "summary": "By Sher Bahadur Sarki, Bajura, Oct. 26: Young people in Pandi, Himali Rural Municipality-6 of Bajura district, have reop...",
-   "link": "https://risingnepaldaily.com/news/88044",
-   "source": "Rising Nepal",
-   "ts": 1792986048,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Youth reopen blocked road in two days",
-   "en": "Youth reopen blocked road in two days",
-   "ne": "Youth reopen blocked road in two days",
-   "imp": 3,
-   "tags": [
-    "RoadBlocked",
-    "Youth",
-    "Community"
-   ],
-   "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "आर्थिक अभावले खड्गजात्रा चलाउन कठिन",
-   "summary": "दोलखा समाचारदातादोलखा, कात्तिक ९ गते । दोलखामा प्रत्येक वर्ष सञ्चालन हुँदै आएको करिब पाँच सय वर्ष पुरानो खड्गजात्रा जोगाउन कठिन हुँदै गएको छ । गुठियारले परम्परागत रूपमा बुझाउँदै आए...",
-   "link": "https://gorkhapatraonline.com/news/227258",
-   "source": "Gorkhapatra",
-   "ts": 1792985956,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/388888/conversions/Untitled-1-original.jpg",
-   "lang": "ne",
-   "hl": "आर्थिक अभावले खड्गजात्रा चलाउन कठिन",
-   "en": "आर्थिक अभावले खड्गजात्रा चलाउन कठिन",
-   "ne": "आर्थिक अभावले खड्गजात्रा चलाउन कठिन",
-   "imp": 2,
-   "tags": [
-    "Khargajatra",
-    "Culture",
-    "FinancialCrisis"
-   ],
-   "cat": "culture",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "इलाममा बोलेरो दुर्घटना हुँदा चालकको मृत्यु",
    "summary": "",
    "link": "https://baahrakhari.com/detail/505682",
@@ -2055,30 +1985,6 @@
     "प्रहरी"
    ],
    "cat": "crime",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "ब्राजिलः बोल्सोनारोले लुलाको जित स्वीकार्न मानेनन्, निर्वाचन परिणाम रद्द गर्न माग",
-   "summary": "ब्राजिलको आम निर्वाचनमा पराजयपछि पूर्वराष्ट्रपति जायर बोल्सोनारोका छोरा फ्लाभियो बोल्सोनारोले निर्वाचन परिणाम स्वीकार गर्न अस्वीकार गरेका छन्।...",
-   "link": "https://nagariknews.nagariknetwork.com/international/brazil-bolsonaro-refuses-to-accept-lula-s-victory-demands-annulment-of-election-results-87-97.html",
-   "source": "Nagarik News",
-   "ts": 1792985995,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1792986206_brazil.jpg",
-   "lang": "ne",
-   "hl": "ब्राजिलः बोल्सोनारोले लुलाको जित स्वीकार्न मानेनन्, निर्वाचन परिणाम रद्द गर्न माग",
-   "en": "ब्राजिलः बोल्सोनारोले लुलाको जित स्वीकार्न मानेनन्, निर्वाचन परिणाम रद्द गर्न माग",
-   "ne": "ब्राजिलः बोल्सोनारोले लुलाको जित स्वीकार्न मानेनन्, निर्वाचन परिणाम रद्द गर्न माग",
-   "imp": 1,
-   "tags": [
-    "Brazil",
-    "Bolsonaro",
-    "Lula",
-    "Politics"
-   ],
-   "cat": "world",
    "val": 3,
    "teaser": false,
    "hits": 2
@@ -4175,30 +4081,6 @@
    "hits": 1
   },
   {
-   "title": "चीनका चर्चित अर्थशास्त्री रेन जेपिङको विच्याटमा प्रतिबन्ध",
-   "summary": "चीन सरकारले वित्तीय बजारका अनलाइन प्रभावकर्ता (इन्फ्लुएन्सर)हरूमाथि नियमन कडा पार्दै लगेको छ । चीनका प्रसिद्ध अर्थशास्त्री रेन जेपिङको सोसल मिडिया खातामा प्रतिबन्ध लगाइएको साउथ चाइना मोर्निङ पोस्टले जनाएको छ ।लगानी र...",
-   "link": "http://lokaantar.com/story/331946/2026/10/26/social-media-account-restricted-",
-   "source": "Lokaantar",
-   "ts": 1792986047.2641065,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "चीनका चर्चित अर्थशास्त्री रेन जेपिङको विच्याटमा प्रतिबन्ध",
-   "en": "चीनका चर्चित अर्थशास्त्री रेन जेपिङको विच्याटमा प्रतिबन्ध",
-   "ne": "चीनका चर्चित अर्थशास्त्री रेन जेपिङको विच्याटमा प्रतिबन्ध",
-   "imp": 1,
-   "tags": [
-    "China",
-    "WeChat",
-    "RenZeping",
-    "Economics"
-   ],
-   "cat": "tech",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "सर्बियामा विद्यार्थी आन्दोलनको चुनावी जित, भुचिचद्वारा हार स्वीकार",
    "summary": "",
    "link": "https://baahrakhari.com/detail/505702",
@@ -4246,30 +4128,6 @@
    "hits": 1
   },
   {
-   "title": "खैरो हिरोइनसहित युवती पक्राउ",
-   "summary": "कपिलवस्तुको शिवराज नगरपालिका वडा नम्बर २ मा खैरो हिरोइनसहित युवती पक्राउ परेकी छन् ।लागुऔषधको कारोबार भइरहेको सूचनाका आधारमा २३ वर्षीया अस्मिता बोहोरालाई पक्राउ गरिएको प्रहरीले जनाएको छ ।उनको घरमा खानतलासीका क्रममा...",
-   "link": "http://lokaantar.com/story/331945/2026/10/26/arrest-",
-   "source": "Lokaantar",
-   "ts": 1792986047.2641065,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "खैरो हिरोइनसहित युवती पक्राउ",
-   "en": "खैरो हिरोइनसहित युवती पक्राउ",
-   "ne": "खैरो हिरोइनसहित युवती पक्राउ",
-   "imp": 2,
-   "tags": [
-    "DrugAbuse",
-    "Heroin",
-    "Police",
-    "लागुऔषध"
-   ],
-   "cat": "crime",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "उपाधि रक्षा अभियानमा रहेको लुम्बिनीलाई सुदूरपश्चिमको चुनौती",
    "summary": "",
    "link": "https://baahrakhari.com/detail/505701",
@@ -4292,29 +4150,6 @@
    "val": 3,
    "teaser": false,
    "hits": 2
-  },
-  {
-   "title": "पाकिस्तानमा एलपी ग्यासको चरम अभाव, एउटै सिलिन्डरको मूल्य ७ हजार",
-   "summary": "पाकिस्तान र इरानबीचका दुई मुख्य सीमा नाकाहरू बन्द भएपछि पाकिस्तानमा तरलीकृत पेट्रोलियम ग्यासको आयात ठप्प भएको छ। ग्यासको आपूर्ति रोकिएसँगै पाकिस्तानभर एलपीजी ग्यासको तीव्र अभाव हुनुका साथै मूल्य अकासिएको रोयटर्स जनाएको...",
-   "link": "http://lokaantar.com/story/331942/2026/10/26/pakistan-",
-   "source": "Lokaantar",
-   "ts": 1792986047.2641065,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "पाकिस्तानमा एलपी ग्यासको चरम अभाव, एउटै सिलिन्डरको मूल्य ७ हजार",
-   "en": "पाकिस्तानमा एलपी ग्यासको चरम अभाव, एउटै सिलिन्डरको मूल्य ७ हजार",
-   "ne": "पाकिस्तानमा एलपी ग्यासको चरम अभाव, एउटै सिलिन्डरको मूल्य ७ हजार",
-   "imp": 1,
-   "tags": [
-    "Pakistan",
-    "LPGShortage",
-    "Inflation"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
   },
   {
    "title": "Nepal unveils flood prevention plan for six basins - Kathmandu Post",
@@ -10328,8 +10163,8 @@
    "cat": "disaster"
   }
  ],
- "updated": 1793014286,
- "pending_since": null,
+ "updated": 1793014854,
+ "pending_since": 1793014850.3318803,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
