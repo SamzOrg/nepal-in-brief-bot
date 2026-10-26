@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://english.khabarhub.com/2026/24/573015/": 1792848671.0692837,
   "https://gorkhapatraonline.com/news/227154": 1792849250.4885416,
   "https://www.setopati.com/politics/401230": 1792849250.4885416,
   "https://baahrakhari.com/detail/505586": 1792849250.4885416,
@@ -1745,126 +1744,14 @@
   "https://gorkhapatraonline.com/news/227321": 1793020852.687995,
   "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOLW1tbkhEYzI2ODFHQW5RWEtpbFNyRXBRekswSzJ1QUliRm5PYS1XbnlpQXo0SU9VUklpdGcxVVo5RURPZk0wbWdGek5JYUhBS2NSeV8xVmZ4emwxUWNJeXJmb2o5cDVJWjUtdjV5ZEpPV2lxWHpJUnQzc29DTFk2YmtwNEs1T1ZM?oc=5": 1793020852.687995,
   "http://lokaantar.com/story/331962/2026/10/26/bidya-devi-bhandari-": 1793020852.687995,
-  "http://english.ratopati.com/story/84647/when-will-the-rasuwagadhi-border-crossing-which-has-been-closed-for-two-months-open": 1793020852.687995
+  "http://english.ratopati.com/story/84647/when-will-the-rasuwagadhi-border-crossing-which-has-been-closed-for-two-months-open": 1793020852.687995,
+  "https://english.khabarhub.com/2026/26/573261/": 1793021484.680963,
+  "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbWhSUnRPVi16emhkd1J1NVUtMl9HVXJvNTV0S2tZeklfSDA2WnItVU0ycHpzQVloajNXenlUVHpiVFY0ZUZodmVzcm41aXRLcWlqdjdTSlFmaXJLZ1RRZTJTM0tRYXNHWVVRUUtDSXhZaVZ2MHVPdTZVcjNQSkNELWt1YVRtSm1zY3RTUXRobWJQNE9BYmJ1dDFxWmNFZlBLbzFGRVVKMC1MY3czVDNkbTVDNHd4cG40?oc=5": 1793021484.680963,
+  "https://english.khabarhub.com/2026/26/573264/": 1793021484.680963,
+  "https://gorkhapatraonline.com/news/227323": 1793021484.680963,
+  "http://lokaantar.com/story/331963/2026/10/26/accident-": 1793021484.680963
  },
  "queue": [
-  {
-   "title": "SUV driver killed in Ilam accident",
-   "summary": "Ilam, October 26 An SUV accident occurred in Ilam on Sunday morning, killing the driver at the scene, police said. According to police, the SUV was heading towards Chauribazar in Chamaita, Deumai Municipality-1, when it...",
-   "link": "https://english.onlinekhabar.com/suv-driver-killed-in-ilam-accident.html",
-   "source": "Onlinekhabar EN",
-   "ts": 1792992515,
-   "weight": 3,
-   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/10/Jeep-accident-1.jpg",
-   "lang": "en",
-   "hl": "SUV driver killed in Ilam accident",
-   "en": "SUV driver killed in Ilam accident",
-   "ne": "SUV driver killed in Ilam accident",
-   "imp": 3,
-   "tags": [
-    "Accident",
-    "Ilam",
-    "SUV",
-    "इलाम"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "सम्बन्ध बलियो बनाउन जागरण अभियान : नेता खनाल",
-   "summary": "गजेन्द्र गुरुङखजुरा (बाँके), कात्तिक ९ गते । नेपाली कम्युनिस्ट पार्टीका स्थायी समिति सदस्य तथा लुम्बिनी प्रदेश इन्चार्ज चक्रपाणी खनाल 'बलदेव' ले पार्टीको सङ्गठन सुदृढीकरण र जनतासँग...",
-   "link": "https://gorkhapatraonline.com/news/227266",
-   "source": "Gorkhapatra",
-   "ts": 1792992462,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/388896/conversions/chakra-pani-khanal-original.jpg",
-   "lang": "ne",
-   "hl": "सम्बन्ध बलियो बनाउन जागरण अभियान : नेता खनाल",
-   "en": "सम्बन्ध बलियो बनाउन जागरण अभियान : नेता खनाल",
-   "ne": "सम्बन्ध बलियो बनाउन जागरण अभियान : नेता खनाल",
-   "imp": 2,
-   "tags": [
-    "Khanal",
-    "Politics",
-    "राजनीति"
-   ],
-   "cat": "politics",
-   "val": 1,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Purified Drinking Water Supply Crisis in Birendranagar Amidst MRP Dispute",
-   "summary": "Surkhet. It has been about 10 days since purified drinking water (jars and bottles) has not been available at Ashoka...",
-   "link": "http://english.ratopati.com/story/84568/mrp-of-treated-drinking-water-in-surkhet-chief-district-officer-backs-down-from-directive-maintains-old-price",
-   "source": "Ratopati EN",
-   "ts": 1792992158,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/surkhet_JDvT5RkHdx.webp",
-   "lang": "en",
-   "hl": "Purified Drinking Water Supply Crisis in Birendranagar Amidst MRP Dispute",
-   "en": "Purified Drinking Water Supply Crisis in Birendranagar Amidst MRP Dispute",
-   "ne": "Purified Drinking Water Supply Crisis in Birendranagar Amidst MRP Dispute",
-   "imp": 3,
-   "tags": [
-    "WaterCrisis",
-    "Birendranagar",
-    "DrinkingWater"
-   ],
-   "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "ट्रम्पसँग निकट रहेका बोल्सोनारोलाई हराएर राष्ट्रपति जितेका लुलाका पाँच चुनौती",
-   "summary": "फ्लाभियोले अमेरिकासँग निकट सम्बन्ध र ट्रम्प प्रशासनसँग राम्रो सम्झौता गर्ने प्रतिबद्धता अघि सारेका थिए। लुलाले भने अमेरिकी भन्सार शुल्क र ब्राजिलमाथिको दबाबलाई राष्ट्रिय सार्वभौमिकताको मुद्दासँग जोडेका थिए।",
-   "link": "https://www.setopati.com/politics/401303",
-   "source": "Setopati",
-   "ts": 1792992214,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "ट्रम्पसँग निकट रहेका बोल्सोनारोलाई हराएर राष्ट्रपति जितेका लुलाका पाँच चुनौती",
-   "en": "ट्रम्पसँग निकट रहेका बोल्सोनारोलाई हराएर राष्ट्रपति जितेका लुलाका पाँच चुनौती",
-   "ne": "ट्रम्पसँग निकट रहेका बोल्सोनारोलाई हराएर राष्ट्रपति जितेका लुलाका पाँच चुनौती",
-   "imp": 1,
-   "tags": [
-    "Brazil",
-    "Lula",
-    "Bolsonaro",
-    "World"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "Babar Mahal Sky Bridge to Open This Week",
-   "summary": "Kathmandu. The under-construction sky bridge at Babar Mahal in Kathmandu will be operational within this week. The sky bridge has...",
-   "link": "http://english.ratopati.com/story/84566/babar-mahal-sky-bridge-to-be-operational-from-this-week",
-   "source": "Ratopati EN",
-   "ts": 1792992069,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/GeddfPjfJV.jpg",
-   "lang": "en",
-   "hl": "Babar Mahal Sky Bridge to Open This Week",
-   "en": "Babar Mahal Sky Bridge to Open This Week",
-   "ne": "Babar Mahal Sky Bridge to Open This Week",
-   "imp": 2,
-   "tags": [
-    "BabarMahal",
-    "SkyBridge",
-    "Kathmandu"
-   ],
-   "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 4
-  },
   {
    "title": "Flood Victims in Nuwakot Receive Duplicate Citizenship Certificates",
    "summary": "Rasauwa. The process of providing duplicate citizenship certificates from the holding center has started for the flood-affected people of Uttargaya...",
@@ -2922,29 +2809,6 @@
     "Nepal"
    ],
    "cat": "culture",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Share market draws more investors as demat accounts hit 8.1 million",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRGxXLUJ2ZXMwMGVoNHNTdVdwUlJEUnA3ZUxhYWhpWTd1T2ZrRVRoeEhjZnhyNi1BbWZ1VUdiSUhWMGhIMDRnbjBBQjlVRGpScFY0WWdSdEhkU1hMNTd0eW1ldFU4U3hiU3g3M2Zfemlnb2ZGWlBWTjRpTkhNa3ZCeGc1MkQtQW0zN1djYTRLWFJwdHFLM21tWGtTbTRsejh5MFoyWUF2bFUxUHlOVlQybl9kWHcyNE1JRWMzLQ?oc=5",
-   "source": "myRepublica",
-   "ts": 1792992600,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Share market draws more investors as demat accounts hit 8.1 million",
-   "en": "Share market draws more investors as demat accounts hit 8.1 million",
-   "ne": "Share market draws more investors as demat accounts hit 8.1 million",
-   "imp": 2,
-   "tags": [
-    "ShareMarket",
-    "NEPSE",
-    "Demat"
-   ],
-   "cat": "economy",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -4263,29 +4127,6 @@
    "hits": 1
   },
   {
-   "title": "Rain and snowfall likely in Himalayan and hilly regions over next five days",
-   "summary": "The country's weather is expected to turn increasingly unsettled from midweek, with the Westerly winds likely to bring rain and snowfall to parts of the Himalayan and hilly regions over the next five days.''The weather...",
-   "link": "https://theannapurnaexpress.com/story/68230",
-   "source": "Annapurna Express",
-   "ts": 1792992053.1263673,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Rain and snowfall likely in Himalayan and hilly regions over next five days",
-   "en": "Rain and snowfall likely in Himalayan and hilly regions over next five days",
-   "ne": "Rain and snowfall likely in Himalayan and hilly regions over next five days",
-   "imp": 3,
-   "tags": [
-    "Weather",
-    "Rainfall",
-    "Snowfall"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
    "title": "Astronomers Discover Potential First Exomoon Orbiting Brown Dwarf",
    "summary": "Kathmandu. Astronomers have possibly found the first moon outside our solar system, but this mysterious body is different from any...",
    "link": "http://english.ratopati.com/story/84604/search-for-first-moon-outside-the-solar-system-claims-to-have-found-a-satellite-larger-than-jupiter",
@@ -4606,29 +4447,6 @@
    "val": 1,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "सामान्य अंकले घट्यो नेप्से, ४ अर्ब बढीको सेयर किनबेच",
-   "summary": "सोमबार ९९ कम्पनीको सेयर मूल्य बढेको छ भने १७१ वटाको घटेको छ। यस्तै, ६ कम्पनी स्थिर छन्।",
-   "link": "https://www.setopati.com/kinmel/banking/401326",
-   "source": "Setopati",
-   "ts": 1793007860,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "सामान्य अंकले घट्यो नेप्से, ४ अर्ब बढीको सेयर किनबेच",
-   "en": "सामान्य अंकले घट्यो नेप्से, ४ अर्ब बढीको सेयर किनबेच",
-   "ne": "सामान्य अंकले घट्यो नेप्से, ४ अर्ब बढीको सेयर किनबेच",
-   "imp": 3,
-   "tags": [
-    "NEPSE",
-    "ShareMarket",
-    "नेप्से"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 3
   },
   {
    "title": "Three Supermassive Black Holes Found Actively Feeding in Distant Galaxy",
@@ -7436,20 +7254,31 @@
    "val": 3,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "Six killed, three injured in Scorpio crash in Gulmi",
+   "summary": "GULMI: Six people have died and three others have been injured in a Scorpio vehicle accident in Dabaukhani, Arbeni, Kaligandaki Rural Municipality-2, Gulmi. The deceased have been identified as driver Dilip Kumar...",
+   "link": "https://english.khabarhub.com/2026/26/573264/",
+   "source": "Khabarhub EN",
+   "ts": 1793021320,
+   "weight": 2,
+   "img": "https://english.khabarhub.com/wp-content/uploads/2026/10/Accident-Gulmi-400x220.jpeg",
+   "lang": "en",
+   "hl": "Six killed, three injured in Scorpio crash in Gulmi",
+   "en": "Six killed, three injured in Scorpio crash in Gulmi",
+   "ne": "Six killed, three injured in Scorpio crash in Gulmi",
+   "imp": 3,
+   "tags": [
+    "ScorpioCrash",
+    "Gulmi"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 3
   }
  ],
  "posted": [
-  {
-   "ts": 1792416066.0723813,
-   "en": "Nepal PM Balendra Shah Seeks Grants Not Loans for August 2026 Flood Recovery",
-   "ne": "Nepal PM Balendra Shah Seeks Grants Not Loans for August 2026 Flood Recovery",
-   "link": "https://viacampesina.org/en/2026/10/open-letter-from-nepal-grants-not-loans-for-climate-disaster-recovery/",
-   "source": "La Via Campesina",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "world"
-  },
   {
    "ts": 1792417865.9560206,
    "en": "कांग्रेस महाधिवेशनमा पराजित मधेशका नेतालाई आफ्नो पक्षमा ल्याउन देउवा पक्षको कसरत",
@@ -10342,9 +10171,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "sports"
+  },
+  {
+   "ts": 1793021526.865175,
+   "en": "सोमबार नेप्से ४.३४ अंकले घटेर २६२९.८२ विन्दुमा बन्द, ४ अर्ब बढीको सेयर किनबेच",
+   "ne": "सोमबार नेप्से ४.३४ अंकले घटेर २६२९.८२ विन्दुमा बन्द, ४ अर्ब बढीको सेयर किनबेच",
+   "link": "https://www.setopati.com/kinmel/banking/401326",
+   "source": "Setopati",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "economy"
   }
  ],
- "updated": 1793020861,
+ "updated": 1793021539,
  "pending_since": 1793020250.186562,
  "fb_blocks": [
   1790350880.4125228,
