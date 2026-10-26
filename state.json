@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMingFBVV95cUxOLWdjdDJsVl9tWkxpVnVQLUtXeTBPMTE1MG92YUVfaTQ1ODk5R1MzOHdGaWNDMy1LdmlUWHFXdVBXMXdRVjFpM21JbldUODdPckJvTnpvb2R6Q0JqMjJ5cGVYanhZUVRJd1hnWnZyME9ULTU4QUJFMUhoc1lzTm5uQTN1QS1FR1MwNkNfWUZjTW5kU3U5UmNIREZPZVdyZw?oc=5": 1792875048.552881,
   "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQTTJYWDVaZGhudEstaVBCR19NcWlwbW1JQ1NNdHB2YXdjdXlDYWhCRXVaOHJ5TTJMbEJkajJXQVFUVHVsUFJpVThZbHFFOGJVUmJfYWlrbnN4c1VuTHhwM2JtRjI3SGJ3NWhKX1RUUC1xZDVrSUFBVUlfMUdReUJTdWlsMWEwSVI0MG9WYnpBeVRTNUtMa1VOckhXWTRTb240Z0hodTBKZVRqMUw3YlVYWU1rMzBuT1d1UWZKSGdkbkNEWm5ONGFpRGJOTzNld3VDQnlnektha1VMNXBieDhuVldWcm5UOUNSU21ZbmI5ZEV5SV9SMGJxQ3hZRjlrcjR4Vm9lVzZoZjdLMEJqN1dGUEJ3VzRHNWYybkE4MUdvNDFtc2FxSjBjcA?oc=5": 1792875684.417485,
   "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQLUhfWE1TTWc3TGZfTWdHWFA3NnpHZkc0c1lEMlF0NzVJTDIyMHB3NTBNTE50ZU1SUVNkbU9vRTVHSmZvRWp2Z1g0OW5ZUFlWUnkzMFJneHJ5RlZhbGZDRTFpRU5CbGY2N2hDbTNGbXN1bmNmTjFqVzFSdmRXQk5nSkR3WmdEajlrUjgxR29iNEptbEhSLUR5NmswZHZCWDlIMEJhNktYYWxLRnBHZzRwcXBwUmoxb0ctUHNyQ1NyLWc?oc=5": 1792880775.0833666,
   "http://english.ratopati.com/story/84432/tottenham-win-beating-chelsea-2-0": 1792880775.0833666,
@@ -1861,54 +1860,6 @@
    ],
    "cat": "tourism",
    "val": 2,
-   "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "Six Injured in Palpa Auto Accident",
-   "summary": "Palpa. Six people were injured in an auto accident in Balgha, Rainaadevi Chhahara Rural Municipality-3. The condition of Yamakala Khamcha,...",
-   "link": "http://english.ratopati.com/story/84646/six-injured-in-auto-accident-one-in-critical-condition",
-   "source": "Ratopati EN",
-   "ts": 1793018903,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/palpa_x8jognuxc8_BxrpeHWV2v.jpg",
-   "lang": "en",
-   "hl": "Six Injured in Palpa Auto Accident",
-   "en": "Six Injured in Palpa Auto Accident",
-   "ne": "Six Injured in Palpa Auto Accident",
-   "imp": 3,
-   "tags": [
-    "Palpa",
-    "Accident",
-    "पाल्पा",
-    "दुर्घटना"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "तस्बिरमा हेर्नुहोस्, एनपिएलको पहिलो दिनका झलकहरू",
-   "summary": "प्रधानमन्त्री बालेन शाहले तेस्रो संस्करणको सिद्धार्थ बैंक नेपाल प्रिमियर लिग (एनपिएल) को उद्घाटन गरेका छन्।",
-   "link": "https://www.setopati.com/sports/cricket/401347",
-   "source": "Setopati",
-   "ts": 1793018940,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "तस्बिरमा हेर्नुहोस्, एनपिएलको पहिलो दिनका झलकहरू",
-   "en": "तस्बिरमा हेर्नुहोस्, एनपिएलको पहिलो दिनका झलकहरू",
-   "ne": "तस्बिरमा हेर्नुहोस्, एनपिएलको पहिलो दिनका झलकहरू",
-   "imp": 1,
-   "tags": [
-    "NPL",
-    "Photos",
-    "एनपिएل",
-    "तस्बिर"
-   ],
-   "cat": "sports",
-   "val": 1,
    "teaser": true,
    "hits": 1
   },
@@ -6183,7 +6134,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1793047456,
+ "updated": 1793047876,
  "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
