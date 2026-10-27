@@ -1954,7 +1954,12 @@
   "https://www.setopati.com/politics/401403": 1793097650.7904184,
   "https://gorkhapatraonline.com/news/227413": 1793097650.7904184,
   "http://english.ratopati.com/story/84741/seven-killed-in-jordanian-attack-in-syria": 1793097650.7904184,
-  "https://english.onlinekhabar.com/19th-chrysanthemum-flower-competition-and-exhibition-to-begin-on-october-29.html": 1793097650.7904184
+  "https://english.onlinekhabar.com/19th-chrysanthemum-flower-competition-and-exhibition-to-begin-on-october-29.html": 1793097650.7904184,
+  "https://english.khabarhub.com/2026/27/573362/": 1793098254.4657423,
+  "https://kathmandupost.com/sports/2026/10/27/chitwan-rhinos-defeat-biratnagar-kings-by-eight-runs": 1793098254.4657423,
+  "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUk5CMWNrbjFyUnhuQ3JxaUNpbE9IaF9TOUl2MkZzc3pOZm9EM001bVc2V2xJbm9SSDEyX2k1WkUtbVRVTVV1UVBfNUJMeUZ5SkpqaDBpb2l6bHVvZG1PaWtIZWYtRDdpYTVYa0VTeEZudXNhSmdXcnZPcEM4N2ZFX3ZVMnRFcjRGSDM4QmdfMktWQQ?oc=5": 1793098254.4657423,
+  "https://nagariknews.nagariknetwork.com/economy/bhotekoshi-flood-causes-rs-79-billion-in-damage-commission-br-36-78.html": 1793098254.4657423,
+  "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeG44RThsTDFnMEF6NDJVajNnN1BVdTlzVVR5anlndV81S0ltMmVHcWxKbU5OdXI2VG5oYU12NE0yMDMyZGdKc01yRGRucnZPWjNZRjh2NWpyamE4aTIxNDNOdGhHMWk4SHM5aThJLWxaVnJyOUdlYklidFNIM2ZzSTV1MENBb1M3YnpQTlFNa2lKUlB0TWVCcVJtQ29aSnp0SXdxYzEyMDJzZFU?oc=5": 1793098254.4657423
  },
  "queue": [
   {
@@ -2069,52 +2074,6 @@
    "val": 3,
    "teaser": false,
    "hits": 2
-  },
-  {
-   "title": "इसराइलमा मतदानसँगै हुँदैछ नेतन्याहूको राजनीतिक भविष्यको परीक्षा",
-   "summary": "निर्वाचनपूर्वका मत सर्वेक्षणले दुवै पक्षबीच नजिकको प्रतिस्पर्धा हुने संकेत गरेका छन्।",
-   "link": "https://www.setopati.com/politics/401362",
-   "source": "Setopati",
-   "ts": 1793069401,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "इसराइलमा मतदानसँगै हुँदैछ नेतन्याहूको राजनीतिक भविष्यको परीक्षा",
-   "en": "इसराइलमा मतदानसँगै हुँदैछ नेतन्याहूको राजनीतिक भविष्यको परीक्षा",
-   "ne": "इसराइलमा मतदानसँगै हुँदैछ नेतन्याहूको राजनीतिक भविष्यको परीक्षा",
-   "imp": 1,
-   "tags": [
-    "Israel",
-    "Netanyahu",
-    "WorldNews"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "Women in Jhapa's Shivasatakshi earn income through collective flower farming",
-   "summary": "BHADRAPUR: A field transformed into a garden of blooming marigolds, with women busy tending to the flowers, presents a vibrant scene in Takram, Ward No. 10 of Shivasatakshi Municipality in Jhapa. The blossoms not only...",
-   "link": "https://english.khabarhub.com/2026/27/573294/",
-   "source": "Khabarhub EN",
-   "ts": 1793069112,
-   "weight": 2,
-   "img": "https://english.khabarhub.com/wp-content/uploads/2026/10/Marigold-farming-Jhapa-400x220.jpg",
-   "lang": "en",
-   "hl": "Women in Jhapa's Shivasatakshi earn income through collective flower farming",
-   "en": "Women in Jhapa's Shivasatakshi earn income through collective flower farming",
-   "ne": "Women in Jhapa's Shivasatakshi earn income through collective flower farming",
-   "imp": 2,
-   "tags": [
-    "Jhapa",
-    "FlowerFarming",
-    "WomenEmpowerment"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
   },
   {
    "title": "Supreme Court Faces Backlog of Old Cases, Implements Measures for Expedited Resolution",
@@ -2341,29 +2300,6 @@
    ],
    "cat": "world",
    "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "कम्प्युटरसँगै कृषि शिक्षा",
-   "summary": "तत्कालीन प्रधानमन्त्री सुशीला कार्कीको नेतृत्वमा बनेको अन्तरिम सरकारमा महावीर पुन शिक्षा, विज्ञान तथा प्रविधिमन्त्री बनेलगत्तै उहाँले सामुदायिक माध्यमिक विद्यालयमा कम्प्युटर शिक्षा...",
-   "link": "https://gorkhapatraonline.com/news/227360",
-   "source": "Gorkhapatra",
-   "ts": 1793069272,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/389048/conversions/112-original.jpg",
-   "lang": "ne",
-   "hl": "कम्प्युटरसँगै कृषि शिक्षा",
-   "en": "कम्प्युटरसँगै कृषि शिक्षा",
-   "ne": "कम्प्युटरसँगै कृषि शिक्षा",
-   "imp": 2,
-   "tags": [
-    "AgriculturalEducation",
-    "Computers",
-    "कृषिशिक्षा"
-   ],
-   "cat": "education",
-   "val": 2,
    "teaser": false,
    "hits": 1
   },
@@ -4520,29 +4456,6 @@
    ],
    "cat": "culture",
    "val": 1,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "भ्रष्टाचारको पैसा लुकाउने नयाँ शैली- नगद होइन, जग्गा नै घुस !",
-   "summary": "भ्रष्टाचार गरेर कमाएको पैसा लुकाउन र वैध देखाउन घुस लिनेहरूले अनेक उपाय अपनाउने गरेका छन् ।पछिल्लो समय घुसबापत नगद रकम बुझ्नेभन्दा सोझै जग्गा खरिद गर्ने, आफन्तको नाममा जग्गा पास गराउने र बिचौलियामार्फत जग्गा बिक्रेतालाई...",
-   "link": "http://lokaantar.com/story/332005/2026/10/27/jagga-ghus",
-   "source": "Lokaantar",
-   "ts": 1793069454.3942723,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "भ्रष्टाचारको पैसा लुकाउने नयाँ शैली- नगद होइन, जग्गा नै घुस !",
-   "en": "भ्रष्टाचारको पैसा लुकाउने नयाँ शैली- नगद होइन, जग्गा नै घुस !",
-   "ne": "भ्रष्टाचारको पैसा लुकाउने नयाँ शैली- नगद होइन, जग्गा नै घुस !",
-   "imp": 3,
-   "tags": [
-    "Corruption",
-    "LandBribery",
-    "CBI"
-   ],
-   "cat": "crime",
-   "val": 2,
    "teaser": false,
    "hits": 1
   },
@@ -7618,7 +7531,7 @@
    "cat": "sports",
    "val": 3,
    "teaser": false,
-   "hits": 3
+   "hits": 5
   },
   {
    "title": "स्टाफ कलेजको कार्यकारी निर्देशक बने पूर्वसचिव घिमिरे",
@@ -8281,6 +8194,53 @@
     "Jordan"
    ],
    "cat": "world",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Climber falls nearly 5,000 feet to his death on Nepal mountain after reaching summit",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUk5CMWNrbjFyUnhuQ3JxaUNpbE9IaF9TOUl2MkZzc3pOZm9EM001bVc2V2xJbm9SSDEyX2k1WkUtbVRVTVV1UVBfNUJMeUZ5SkpqaDBpb2l6bHVvZG1PaWtIZWYtRDdpYTVYa0VTeEZudXNhSmdXcnZPcEM4N2ZFX3ZVMnRFcjRGSDM4QmdfMktWQQ?oc=5",
+   "source": "CBS News",
+   "ts": 1793097935,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "Climber falls nearly 5,000 feet to his death on Nepal mountain after reaching summit",
+   "en": "Climber falls nearly 5,000 feet to his death on Nepal mountain after reaching summit",
+   "ne": "Climber falls nearly 5,000 feet to his death on Nepal mountain after reaching summit",
+   "imp": 3,
+   "tags": [
+    "Nepal",
+    "Mountaineering",
+    "Climbing"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Nepal flash floods: 63 Indian nationals rescued from Trishuli-1 power project site",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeG44RThsTDFnMEF6NDJVajNnN1BVdTlzVVR5anlndV81S0ltMmVHcWxKbU5OdXI2VG5oYU12NE0yMDMyZGdKc01yRGRucnZPWjNZRjh2NWpyamE4aTIxNDNOdGhHMWk4SHM5aThJLWxaVnJyOUdlYklidFNIM2ZzSTV1MENBb1M3YnpQTlFNa2lKUlB0TWVCcVJtQ29aSnp0SXdxYzEyMDJzZFU?oc=5",
+   "source": "DD News",
+   "ts": 1793085501,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "Nepal flash floods: 63 Indian nationals rescued from Trishuli-1 power project site",
+   "en": "Nepal flash floods: 63 Indian nationals rescued from Trishuli-1 power project site",
+   "ne": "Nepal flash floods: 63 Indian nationals rescued from Trishuli-1 power project site",
+   "imp": 4,
+   "tags": [
+    "Trishuli",
+    "Flood",
+    "Rescue",
+    "India"
+   ],
+   "cat": "disaster",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -11203,7 +11163,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1793097658,
+ "updated": 1793098260,
  "pending_since": 1793097650.7904184,
  "fb_blocks": [
   1790350880.4125228,
