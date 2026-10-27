@@ -1,7 +1,5 @@
 {
  "seen": {
-  "http://english.ratopati.com/story/84508/this-is-what-the-tribhuvan-university-cricket-ground-looked-like-on-the-eve-of-the-npl-see-in-12-photos": 1792935646.2838595,
-  "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZnhDYVN0TTdfWnJyMVlhTkFKVFI1bHVDZEtnMTVEaHpnNEJQMUE1SGNZZG0zdE14RWYyVTJSeVhab3d6eThlbzdXWF9iWjBDMGlKOVZ1dkp4ZXlCU3dLOFBWUnBZT2JGWEk5cjJIN3lLalk2Z0pQTnJtYUdmOXVKSDNSQ0hHbTlCY1BjRVVHVmdhT2pTaF9Na1FaRXJ6MmZ6aDBSM3BIZmJwOTBsSm1v?oc=5": 1792935646.2838595,
   "https://kathmandupost.com/national/2026/10/25/rsp-panel-to-examine-audio-as-khagendra-sunar-denies-allegations-of-violence-against-woman": 1792936245.5106933,
   "http://english.ratopati.com/story/84510/ratopatis-npl-special-page-launched": 1792936883.9139493,
   "http://english.ratopati.com/story/84509/npl-transactions-worth-crores-raise-questions-over-transparency": 1792936883.9139493,
@@ -1982,7 +1980,9 @@
   "https://baahrakhari.com/detail/505837": 1793107253.1073895,
   "https://www.setopati.com/social/401410": 1793107253.1073895,
   "https://gorkhapatraonline.com/news/227430": 1793107253.1073895,
-  "https://gorkhapatraonline.com/news/227429": 1793107253.1073895
+  "https://gorkhapatraonline.com/news/227429": 1793107253.1073895,
+  "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZ0o0TE4tM3ZqNmdfOV9mUmhjNWEwQW43dmJIakk2ajNldzRRT1hqai1MWUlmS09obkJxTHpVTzFlTXd0MEN5NFBZSHdGeHh5eWR3bm1TMElxR0t6MlQ3WnlBMGpmQzcxQmZwdU9pRWZrSUJ6UTlfYlo5Z2FLUWFXbnR4Mlc1ZE8wbm95ZGpvMXM3cnR1dnlIUVJ4OUhTandKc2hfTmE5Q0EtZ0FDYWpDNHBuVlJpV2FiMk5yRHE5VFpIcXZNb2tmZm9ZSkxiN0pvQmhB?oc=5": 1793108455.9670467,
+  "http://english.ratopati.com/story/84750/its-hard-to-protect-the-crops-during-the-harvest-season-the-government-only-issues-warnings": 1793108455.9670467
  },
  "queue": [
   {
@@ -2607,30 +2607,6 @@
    "val": 1,
    "teaser": true,
    "hits": 1
-  },
-  {
-   "title": "गाभीबाट नेपाललाई ८ अर्ब ५९ करोडको खोप सहयोग",
-   "summary": "नेपालले 'गाभी, द भ्याक्सिन एलाइन्स' बाट राष्ट्रिय नियमित खोप कार्यक्रमका लागि सन् २०३० सम्म ८ अर्ब ५९ करोड १९ लाख ६८ हजार रुपैयाँ बराबरको सहायता प्राप्त गर्ने भएको छ।...",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/gavi-provides-vaccine-assistance-of-rs-8-59-billion-to-nepal-br-65-60.html",
-   "source": "Nagarik News",
-   "ts": 1793079513,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1785227636__Health-%2012.jpg",
-   "lang": "ne",
-   "hl": "गाभीबाट नेपाललाई ८ अर्ब ५९ करोडको खोप सहयोग",
-   "en": "गाभीबाट नेपाललाई ८ अर्ब ५९ करोडको खोप सहयोग",
-   "ne": "गाभीबाट नेपाललाई ८ अर्ब ५९ करोडको खोप सहयोग",
-   "imp": 3,
-   "tags": [
-    "GAVI",
-    "Vaccine",
-    "Aid",
-    "स्वास्थ्य"
-   ],
-   "cat": "health",
-   "val": 3,
-   "teaser": false,
-   "hits": 4
   },
   {
    "title": "विश्वकै सबभन्दा ठूलो सेयर बिक्री गर्दै एन्थ्रोपिक, ५ वर्षअघि खुलेको कम्पनीले उठाउँदैछ १०० अर्ब डलर",
@@ -6277,7 +6253,7 @@
    "cat": "disaster",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "नेपाल लाइफ क्यापिटललाई इक्रा नेपालद्वारा 'एएमसी क्वालिटी ३' रेटिङ",
@@ -11084,7 +11060,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1793107927,
+ "updated": 1793108460,
  "pending_since": 1793107878.245155,
  "fb_blocks": [
   1790350880.4125228,
