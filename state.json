@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5WR1ROYlRLaEkwaGxIbk5WVTUtdkI3Vm5CUUV0U3F2UUpMYWwyT0Nacm9GcTF5S0NrVHFWd1U2U2tYQk90Q1dsVEdzRHU0cDNNTlJjekhKMDVrUQ?oc=5": 1792969284.481445,
   "https://english.khabarhub.com/2026/26/573138/": 1792971651.827532,
   "https://gorkhapatraonline.com/news/227237": 1792971651.827532,
   "https://news.google.com/rss/articles/CBMiswFBVV95cUxNM0wxNTVEbTBVTW9wUmtBdzhWSUdpbVJsajFXWm81MGptUmUybWFud0lFY2V5V1RKbmdCWXFJbzE0SEFiQUVYeGtQOHVmSjRISUkwa0w1N3NyUi0xNDF3QXZub0xsaDl0WFh4TE5BMjlZSEdjc3pwM0tOSUtxZ0Y4dnAtbFRpblpYb2FzUUlydjVHdVVvZ0syQWVZUzd4RGtNLW5KbDBVTDdxTDlWN2FBaEpuQQ?oc=5": 1792971651.827532,
@@ -2777,17 +2776,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1792536655.62755,
-   "en": "झापामा जंगली हात्तीको आक्रमणबाट दुई जनाको मृत्यु",
-   "ne": "झापामा जंगली हात्तीको आक्रमणबाट दुई जनाको मृत्यु",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/two-people-die-in-wild-elephant-attack-92-42.html",
-   "source": "Nagarik News",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "disaster"
-  },
   {
    "ts": 1792538472.1645818,
    "en": "Vijaya Dashami Auspicious Time Set for Kartik 4",
@@ -5726,7 +5714,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1793141471,
+ "updated": 1793142090,
  "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
