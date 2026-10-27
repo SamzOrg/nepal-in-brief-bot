@@ -1816,7 +1816,8 @@
   "https://english.khabarhub.com/2026/27/573226/": 1793058047.3439183,
   "https://news.google.com/rss/articles/CBMipgFBVV95cUxOblFKdW1iMFFXcUpJZkhBNDZxWUotdzRxcFEzTWItR0RuLW9Sby1MZFhDQ00ybzM0d3N6NW1jQkI4bGNTcTN2ZVl6RHV2TGJtOXBTWHRfM3dWYk5ZVjJVb09nVWdBZnhlYjJVUGlOeko2bHJmU0liNFpYYThkWUx3QmlNMGRKSE9jSUhwMElydVZQN2N2ek45LUV6VGJSd2xkN29iSzFB0gGqAUFVX3lxTE05dGFCRHh0Zk5RX2kyb3hrcXNzRVBHcUY4aUh0UDlQS1JuOG13U3ZOQVhpWExva1hOdXIyMEp3ZWZwamhFeUJKN3lWSk55WjFZbFhTbm9SSG1LLWN2bGJWa3UyRWJtSUxRdEdpOGN3SnczOGhCYkdHbFoxM3B2VEhzeWF3LXJHN05TMm1leGZpU1JKSnBYVjhwZXJhWjJONjlDdXk1a19leXhR?oc=5": 1793058047.3439183,
   "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTTVMcGNOajhUWU1IaFlYa1Mzel9zSWdic2x1VExqYm9sSUptWHRlbWJucUcyMEotcDVjeXZnZ2dSWGZtcnB5c0F3djU0aEFuQ29SNUFMVWUzVVFZZnNOVTR0ajVGWXdkc3BJQzh5VjNpZFdsLVRONzVzMThhNlAwZnZMMkJ2VHBUSF9POWxn?oc=5": 1793058047.3439183,
-  "https://risingnepaldaily.com/news/88079": 1793058647.8127658
+  "https://risingnepaldaily.com/news/88079": 1793058647.8127658,
+  "https://theannapurnaexpress.com/story/68235": 1793059854.2085304
  },
  "queue": [
   {
@@ -1838,52 +1839,6 @@
    "cat": "other",
    "val": 1,
    "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "जुम्लामा सीमान्तका सवालमा बहस गर्दै साहित्य सम्मेलन सम्पन्न",
-   "summary": "कर्णालीका भाषा, साहित्य, संस्कृति र स्थानीय ज्ञानसँगै जातीय विभेद, राजनीतिक प्रतिनिधित्व तथा भौगोलिक वञ्चितीकरणका सवालमा बहस गर्दै जुम्लामा आयोजित 'सीमान्त साहित्य सम्मेलन' सम्पन्न भएको छ।...",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/literary-conference-concludes-in-jumla-debating-marginal-issues-84-51.html",
-   "source": "Nagarik News",
-   "ts": 1793030752,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1793030745_869422295_1150944690745261_339423240754796061_n.jpg",
-   "lang": "ne",
-   "hl": "जुम्लामा सीमान्तका सवालमा बहस गर्दै साहित्य सम्मेलन सम्पन्न",
-   "en": "जुम्लामा सीमान्तका सवालमा बहस गर्दै साहित्य सम्मेलन सम्पन्न",
-   "ne": "जुम्लामा सीमान्तका सवालमा बहस गर्दै साहित्य सम्मेलन सम्पन्न",
-   "imp": 2,
-   "tags": [
-    "Jumla",
-    "Literature",
-    "साहित्य"
-   ],
-   "cat": "culture",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "ज्ञवालीको 'सहज पठनीय श्रीमद्भगवद्गीता' प्रकाशित",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/505753",
-   "source": "Baahrakhari",
-   "ts": 1793030983,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "ज्ञवालीको 'सहज पठनीय श्रीमद्भगवद्गीता' प्रकाशित",
-   "en": "ज्ञवालीको 'सहज पठनीय श्रीमद्भगवद्गीता' प्रकाशित",
-   "ne": "ज्ञवालीको 'सहज पठनीय श्रीमद्भगवद्गीता' प्रकाशित",
-   "imp": 2,
-   "tags": [
-    "Gyanwali",
-    "BhagavadGita",
-    "साहित्य"
-   ],
-   "cat": "culture",
-   "val": 3,
-   "teaser": false,
    "hits": 1
   },
   {
@@ -2315,6 +2270,30 @@
     "RealEstate"
    ],
    "cat": "other",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Trump says Brazil election looked 'rigged', defeated Bolsonaro's party recognizes Lula win",
+   "summary": "US President Donald Trump said on Monday that leftist incumbent Luiz Inacio Lula da Silva's surprise win in Brazil's presidential vote \"looked like another rigged election,\" although the party of defeated right-winger...",
+   "link": "https://theannapurnaexpress.com/story/68235",
+   "source": "Annapurna Express",
+   "ts": 1793045455.4431329,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "Trump says Brazil election looked 'rigged', defeated Bolsonaro's party recognizes Lula win",
+   "en": "Trump says Brazil election looked 'rigged', defeated Bolsonaro's party recognizes Lula win",
+   "ne": "Trump says Brazil election looked 'rigged', defeated Bolsonaro's party recognizes Lula win",
+   "imp": 1,
+   "tags": [
+    "Trump",
+    "BrazilElection",
+    "Lula",
+    "Bolsonaro"
+   ],
+   "cat": "world",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -5226,7 +5205,7 @@
    "cat": "politics"
   }
  ],
- "updated": 1793059290,
+ "updated": 1793059858,
  "pending_since": 1793058647.8127658,
  "fb_blocks": [
   1790350880.4125228,
