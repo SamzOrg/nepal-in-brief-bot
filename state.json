@@ -1832,32 +1832,10 @@
   "https://baahrakhari.com/detail/505767": 1793071248.1442697,
   "https://gorkhapatraonline.com/news/227360": 1793071248.1442697,
   "https://nagariknews.nagariknetwork.com/social-affairs/rice-to-be-imported-only-after-kartik-15-agricultural-development-office-83-95.html": 1793071871.4096105,
-  "https://www.setopati.com/social/401364": 1793071871.4096105
+  "https://www.setopati.com/social/401364": 1793071871.4096105,
+  "https://gorkhapatraonline.com/news/227367": 1793072447.5261312
  },
  "queue": [
-  {
-   "title": "अर्नब चक्रवातको प्रभाव : धान काट्ने र भित्र्याउने काम बिहीबारअघि नै गर्न आग्रह",
-   "summary": "बंगालको खाडीमा विकसित 'अर्नब' चक्रवात थप शक्तिशाली बन्दै गएपछि राष्ट्रिय विपद् जोखिम न्यूनीकरण तथा व्यवस्थापन प्राधिकरणले आगामी कात्तिक १२ देखि १४ गतेसम्म उच्च सतर्कता अपनाउन आग्रह गरेको छ।...",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/impact-of-cyclone-arnab-request-to-start-harvesting-and-bringing-in-rice-before-thursday-53-79.html",
-   "source": "Nagarik News",
-   "ts": 1793043357,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1766289166_Dhan.jpg",
-   "lang": "ne",
-   "hl": "अर्नब चक्रवातको प्रभाव : धान काट्ने र भित्र्याउने काम बिहीबारअघि नै गर्न आग्रह",
-   "en": "अर्नब चक्रवातको प्रभाव : धान काट्ने र भित्र्याउने काम बिहीबारअघि नै गर्न आग्रह",
-   "ne": "अर्नब चक्रवातको प्रभाव : धान काट्ने र भित्र्याउने काम बिहीबारअघि नै गर्न आग्रह",
-   "imp": 4,
-   "tags": [
-    "CycloneArnab",
-    "Weather",
-    "अर्णव"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 3
-  },
   {
    "title": "[S.E.X 18+ videos] 2.59 Kandaswati Viral Video Nepal X.X.X videos",
    "summary": "",
@@ -4529,6 +4507,29 @@
    "cat": "world",
    "val": 3,
    "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "बाढीपछि तङग्रिँदै मनास्लु क्षेत्र",
+   "summary": "गुणबहादुर रोका सुलीकोट (गोरखा), कात्तिक १० गते । बूढीगण्डकी नदीमा आएको बाढीले पदमार्ग र सडकमा क्षति पु-याएपछि सुनसान बनेको उत्तरी गोरखाको मनास्लु क्षेत्रमा पर्यटकको चहलपहल बढ्न थाल...",
+   "link": "https://gorkhapatraonline.com/news/227367",
+   "source": "Gorkhapatra",
+   "ts": 1793072212,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/389057/conversions/parytak-photho11-original.jpg",
+   "lang": "ne",
+   "hl": "बाढीपछि तङग्रिँदै मनास्लु क्षेत्र",
+   "en": "बाढीपछि तङग्रिँदै मनास्लु क्षेत्र",
+   "ne": "बाढीपछि तङग्रिँदै मनास्लु क्षेत्र",
+   "imp": 3,
+   "tags": [
+    "Manaslu",
+    "Flood",
+    "बाढी"
+   ],
+   "cat": "disaster",
+   "val": 1,
+   "teaser": true,
    "hits": 1
   }
  ],
@@ -7438,7 +7439,7 @@
    "cat": "sports"
   }
  ],
- "updated": 1793071876,
+ "updated": 1793072453,
  "pending_since": 1793071248.1442697,
  "fb_blocks": [
   1790350880.4125228,
