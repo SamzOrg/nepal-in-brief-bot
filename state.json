@@ -2519,30 +2519,6 @@
    "hits": 1
   },
   {
-   "title": "Nepal Under-19s Women vs India Under-19s Women at Kirtipur, ICC Under-19 Women's T20 World Cup, 24 Jan 2027",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMHpwMDdxM0VPdkZTQ2dRSTVnblo1Vmg4VV9VXzNlTVBsTGk5dzZrM2p6MzFNM0U5Y1dHV2d5TTBWZGdyUTgxYmNpU0YtTzVyVG55NW9NbEFNVE9KNHg2VDN0c2dVeHhmTW1LcXNWWGU4enJfR1RKdk5Icjc1by0wbWVMWk84dnlqWmpVQjJJUkJVdjJSMnM5TFNBTXY2dksxUnFtUTc4QzU3QURDcDV1YQ?oc=5",
-   "source": "BCCI",
-   "ts": 1793128145,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Nepal Under-19s Women vs India Under-19s Women at Kirtipur, ICC Under-19 Women's T20 World Cup, 24 Jan 2027",
-   "en": "Nepal Under-19s Women vs India Under-19s Women at Kirtipur, ICC Under-19 Women's T20 World Cup, 24 Jan 2027",
-   "ne": "Nepal Under-19s Women vs India Under-19s Women at Kirtipur, ICC Under-19 Women's T20 World Cup, 24 Jan 2027",
-   "imp": 3,
-   "tags": [
-    "Nepal",
-    "India",
-    "U19Women",
-    "Cricket"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 4
-  },
-  {
    "title": "Karnataka Voter List Reduced by 7.2 Million After Revision",
    "summary": "Kathmandu. After the completion of the Special Intensive Revision (SIR) process of the voter list in India's Karnataka state, the...",
    "link": "http://english.ratopati.com/story/84769/72-million-voters-reduced-after-revision-of-voter-list-in-karnataka-one-pakistani-citizen-also-found",
@@ -5689,9 +5665,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "disaster"
+  },
+  {
+   "ts": 1793143257.9960513,
+   "en": "Nepal Under-19s Women play India Under-19s Women in Kirtipur on 24 Jan 2027",
+   "ne": "Nepal Under-19s Women play India Under-19s Women in Kirtipur on 24 Jan 2027",
+   "link": "https://www.bcci.tv/matches/1e7a2a21-bdcc-4172-95f0-a16f09ddaf62/nepal-under-19s-women-vs-india-under-19s-women",
+   "source": "BCCI",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "sports"
   }
  ],
- "updated": 1793142652,
+ "updated": 1793143277,
  "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
