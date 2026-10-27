@@ -1,9 +1,5 @@
 {
  "seen": {
-  "https://risingnepaldaily.com/news/88004": 1792899070.3005838,
-  "http://english.ratopati.com/story/84448/the-number-of-passengers-returning-to-kathmandu-increased-after-dashain-photos": 1792899070.3005838,
-  "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTE85TDFpdDRfdWJlSnBadVlDNDBrSlpLVUxhYnAxcW9fZFRHUlJOVDA0T1hTbHR4WnBzaURxTU1ZYmllUW02dEpHS1ZxWTdJcnhvdm9POWRrd0ZBZm5tYzBabERwaVZqQnFlOWlpa0Z0SDdPMm5jc2cyQWo4TjRWdDJabll0MlhBaEtuTlNReXp2cnZEV04tbGpDSGxjdjA?oc=5": 1792899070.3005838,
-  "https://kathmandupost.com/columns/2026/10/25/will-nepal-s-lights-stay-on-at-7pm-in-the-winter": 1792899070.3005838,
   "http://english.ratopati.com/story/84449/electricity-exports-worth-nearly-rs-6-billion-in-asoj-exports-to-bangladesh-also-resumed": 1792899651.6046429,
   "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQm8yX1ptLWFJMjhZVDhodS1sVHh5blZTd2d5VWNGTElmN3J4X2l3UTlkR1VpYVZ4c3ZYMnFBb2x4NGh1WkNsWDRQMTVXNVVaN1ZTMmJFa0Fsb1JhZWNSN1pIeGxTQzhGbDRFVW40b0xzWG9sNEl5d2Q4WkJxLUVKM2tPbU9ZSWhYLU55dEl4WG5GN0Jsa1ROS2FZZEthSlNDd2JlVU9WZjVZOVZVU2ZjVzJvMHd1c3ZpUFFscU9ESGloU1RYMXlveWtLOA?oc=5": 1792899651.6046429,
   "https://kathmandupost.com/columns/2026/10/25/who-pays-for-nepal-s-informal-workers-security": 1792899651.6046429,
@@ -1834,7 +1830,9 @@
   "http://english.ratopati.com/story/84678/the-rush-to-bring-in-rice-in-the-fields-of-daraundi-photos": 1793071248.1442697,
   "https://gorkhapatraonline.com/news/227361": 1793071248.1442697,
   "https://baahrakhari.com/detail/505767": 1793071248.1442697,
-  "https://gorkhapatraonline.com/news/227360": 1793071248.1442697
+  "https://gorkhapatraonline.com/news/227360": 1793071248.1442697,
+  "https://nagariknews.nagariknetwork.com/social-affairs/rice-to-be-imported-only-after-kartik-15-agricultural-development-office-83-95.html": 1793071871.4096105,
+  "https://www.setopati.com/social/401364": 1793071871.4096105
  },
  "queue": [
   {
@@ -4209,7 +4207,7 @@
    "cat": "economy",
    "val": 3,
    "teaser": false,
-   "hits": 3
+   "hits": 4
   },
   {
    "title": "Biratnagar take on Chitwan as Janakpur face Karnali in NPL double-header",
@@ -4508,20 +4506,33 @@
    "val": 2,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "भारतको गुवाहाटीमा होटलभित्र गोली चल्यो, पाँच जनाको मृत्यु",
+   "summary": "होटल सञ्चालक र उनीबीच भाडा सम्झौतासम्बन्धी विवाद भएको प्रारम्भिक अनुसन्धानबाट देखिएको छ।",
+   "link": "https://www.setopati.com/social/401364",
+   "source": "Setopati",
+   "ts": 1793071746,
+   "weight": 3,
+   "img": null,
+   "lang": "ne",
+   "hl": "भारतको गुवाहाटीमा होटलभित्र गोली चल्यो, पाँच जनाको मृत्यु",
+   "en": "भारतको गुवाहाटीमा होटलभित्र गोली चल्यो, पाँच जनाको मृत्यु",
+   "ne": "भारतको गुवाहाटीमा होटलभित्र गोली चल्यो, पाँच जनाको मृत्यु",
+   "imp": 1,
+   "tags": [
+    "Guwahati",
+    "India",
+    "Crime",
+    "गोलीकाण्ड"
+   ],
+   "cat": "world",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1792466459.3940442,
-   "en": "बेनी-जोमसोम-कोरला सडकमा बाढीपहिरोले करिब एक अर्बको क्षति",
-   "ne": "बेनी-जोमसोम-कोरला सडकमा बाढीपहिरोले करिब एक अर्बको क्षति",
-   "link": "https://baahrakhari.com/detail/505347",
-   "source": "Baahrakhari",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "disaster"
-  },
   {
    "ts": 1792468252.54072,
    "en": "NPL to Feature Decision Review System for First Time in Nepali Cricket History",
@@ -7427,7 +7438,7 @@
    "cat": "sports"
   }
  ],
- "updated": 1793071274,
+ "updated": 1793071876,
  "pending_since": 1793071248.1442697,
  "fb_blocks": [
   1790350880.4125228,
