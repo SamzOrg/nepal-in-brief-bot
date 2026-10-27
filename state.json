@@ -2058,50 +2058,6 @@
    "hits": 1
   },
   {
-   "title": "Nepal Daily Life",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaVdlV1I0Um91WExMMEJSNXEzVEpPaGxJMWRybUVieFRsZXlZMlBUUEJIcDFoZ3QzYjNvQ2VoeVRaLWhhclppNjRKOWNuMVdlMWV5clJMSlh5WHlIVlg4RTBManl5SHIwNG9tVVMyMG9IYkJCaUREY3NsS1hyQlFWZjVQdWw4aDU2Rk4zLVJ4TkYtRzRGSUliS1pZSzhxcEVYcDFHQUR2OA?oc=5",
-   "source": "Post Register",
-   "ts": 1793108836,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Nepal Daily Life",
-   "en": "Nepal Daily Life",
-   "ne": "Nepal Daily Life",
-   "imp": 1,
-   "tags": [
-    "Nepal"
-   ],
-   "cat": "society",
-   "val": 1,
-   "teaser": true,
-   "hits": 18
-  },
-  {
-   "title": "मधेसको 'लाइफलाइन' बैलगाडा: कृषि उत्पादन ओसार्न गाउँमा अझै गोरुकै भर",
-   "summary": "अत्याधुनिक कृषि औजार र आधुनिक यातायातका साधनको विकास भए पनि मधेसका ग्रामीण भेगमा खेतबारीबाट बाली भित्र्याउन किसानका लागि अझै पनि बैलगाडा नै निर्विकल्प सारथि बनिरहेको छ।...",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/carts-are-still-used-to-transport-agricultural-produce-72-64.html",
-   "source": "Nagarik News",
-   "ts": 1793108642,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1793108541_Untitled-3.jpg",
-   "lang": "ne",
-   "hl": "मधेसको 'लाइफलाइन' बैलगाडा: कृषि उत्पादन ओसार्न गाउँमा अझै गोरुकै भर",
-   "en": "मधेसको 'लाइफलाइन' बैलगाडा: कृषि उत्पादन ओसार्न गाउँमा अझै गोरुकै भर",
-   "ne": "मधेसको 'लाइफलाइन' बैलगाडा: कृषि उत्पादन ओसार्न गाउँमा अझै गोरुकै भर",
-   "imp": 2,
-   "tags": [
-    "Madhesh",
-    "Agriculture",
-    "मधेस"
-   ],
-   "cat": "society",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "तिहारमा साढे ६४ करोडको पुष्प व्यापार हुने, स्वदेशी उत्पादन क्षमता कति ?",
    "summary": "",
    "link": "https://baahrakhari.com/detail/505842",
@@ -2120,29 +2076,6 @@
     "तिहार"
    ],
    "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "CIB investigates alleged organised fraud in medical tests for Malaysia-bound workers",
-   "summary": "Kathmandu, October 27 The Central Investigation Bureau (CIB) of Nepal Police has arrested four people over alleged fraud involving medical examinations required for Nepali workers travelling to Malaysia. The bureau is...",
-   "link": "https://english.onlinekhabar.com/investigates-fraud-medical-malaysia.html",
-   "source": "Onlinekhabar EN",
-   "ts": 1793108671,
-   "weight": 3,
-   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/10/Malaysia.jpg",
-   "lang": "en",
-   "hl": "CIB investigates alleged organised fraud in medical tests for Malaysia-bound workers",
-   "en": "CIB investigates alleged organised fraud in medical tests for Malaysia-bound workers",
-   "ne": "CIB investigates alleged organised fraud in medical tests for Malaysia-bound workers",
-   "imp": 3,
-   "tags": [
-    "CIB",
-    "Malaysia",
-    "Fraud"
-   ],
-   "cat": "crime",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -6053,7 +5986,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1793137251,
+ "updated": 1793137852,
  "pending_since": 1793137247.7380495,
  "fb_blocks": [
   1790350880.4125228,
