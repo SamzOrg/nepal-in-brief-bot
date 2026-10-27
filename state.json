@@ -1820,7 +1820,10 @@
   "https://english.khabarhub.com/2026/27/573297/": 1793062885.500036,
   "https://nagariknews.nagariknetwork.com/sports/1-124-police-officers-mobilized-for-npl-security-95-73.html": 1793062885.500036,
   "https://nagariknews.nagariknetwork.com/social-affairs/bhotekoshi-flood-dashain-spent-waiting-for-dna-report-61-68.html": 1793062885.500036,
-  "https://nagariknews.nagariknetwork.com/diaspora/uk-based-businessman-uttam-nepal-donates-rs-10-million-to-flood-victims-43-32.html": 1793062885.500036
+  "https://nagariknews.nagariknetwork.com/diaspora/uk-based-businessman-uttam-nepal-donates-rs-10-million-to-flood-victims-43-32.html": 1793062885.500036,
+  "http://english.ratopati.com/story/84667/harry-kane-beats-mbappe-and-yamal-to-win-ballon-dor-first-english-player-to-win-the-award-in-25-years": 1793063446.5092554,
+  "http://lokaantar.com/story/331986/2026/10/27/smarak-": 1793063446.5092554,
+  "http://english.ratopati.com/story/84668/alexia-putellas-wins-third-womens-ballon-dor": 1793063446.5092554
  },
  "queue": [
   {
@@ -1842,29 +1845,6 @@
     "स्याउ"
    ],
    "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Two bodies recovered from Sun Koshi river after Sumo accident",
-   "summary": "Khotang. The bodies of two of the three people who went missing after a Sumo vehicle carrying passengers from Kathmandu...",
-   "link": "http://english.ratopati.com/story/84663/bodies-of-two-of-three-missing-people-found-in-sunkoshi",
-   "source": "Ratopati EN",
-   "ts": 1793034488,
-   "weight": 2,
-   "img": "https://rpcdn.ratopati.com/media/albums/khotang_deMYPrhSWV.jpg",
-   "lang": "en",
-   "hl": "Two bodies recovered from Sun Koshi river after Sumo accident",
-   "en": "Two bodies recovered from Sun Koshi river after Sumo accident",
-   "ne": "Two bodies recovered from Sun Koshi river after Sumo accident",
-   "imp": 4,
-   "tags": [
-    "SunKoshi",
-    "Accident",
-    "River"
-   ],
-   "cat": "disaster",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -2706,6 +2686,29 @@
     "UttamNepal"
    ],
    "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Alexia Putellas Wins Third Women's Ballon d'Or Award",
+   "summary": "Britain. Spain's Alexia Putellas has won the Women's Ballon d'Or award for the third time.Former captain of Barcelona Femení, Putellas...",
+   "link": "http://english.ratopati.com/story/84668/alexia-putellas-wins-third-womens-ballon-dor",
+   "source": "Ratopati EN",
+   "ts": 1793063277,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/dor_1HFOP4YTFJ.webp",
+   "lang": "en",
+   "hl": "Alexia Putellas Wins Third Women's Ballon d'Or Award",
+   "en": "Alexia Putellas Wins Third Women's Ballon d'Or Award",
+   "ne": "Alexia Putellas Wins Third Women's Ballon d'Or Award",
+   "imp": 1,
+   "tags": [
+    "AlexiaPutellas",
+    "BallonDor",
+    "Football"
+   ],
+   "cat": "sports",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -5617,7 +5620,7 @@
    "cat": "society"
   }
  ],
- "updated": 1793062891,
+ "updated": 1793063450,
  "pending_since": 1793062885.500036,
  "fb_blocks": [
   1790350880.4125228,
