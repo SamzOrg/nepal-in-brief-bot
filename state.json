@@ -1998,7 +1998,10 @@
   "http://lokaantar.com/story/332041/2026/10/27/mbape-": 1793121057.2111762,
   "http://english.ratopati.com/story/84766/manpower-dispute-halts-malaysian-employment-halts-new-visa-process": 1793121057.2111762,
   "https://gorkhapatraonline.com/news/227444": 1793121057.2111762,
-  "https://risingnepaldaily.com/news/88121": 1793121656.016467
+  "https://risingnepaldaily.com/news/88121": 1793121656.016467,
+  "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcjA3T1lyN3FTM3JpX3lKQThzaDQ2UUFZcF9KamJLVWswVWtTTFI4MktWQXB5Y3BYck9xdGRhR1Ntc2NNUXRFSVYwYWVzXzdkUVphcUlyTWtQdkZkOG9yWTRhbGF5UDZEc0pzQmpTMXpmbFN1ZlFkNTVvNEJmOGZTTTF6YXV5UExVOUtnc0I1VDB6c0dNX3JwSElPWU9qempaMzlUTVVOX2Ywa3N5?oc=5": 1793122867.1779563,
+  "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMEFTc01IM0lvOHNMbjljaGxjdDVKZElVOHBEeHBzREhqRTEzaTlwdWVkU2l3SW5vVkl0R2pkQWxTaVV2ZXQ2VVhzSkpNODdHWWdjR0JYWXBJYVI1cDhkR0k0VWlYcWViLUdnTF9saGVENW1CVHYtLXY4clZEbjJxbjRGSGVPeEwxN2p2ZmN1YlFpaFVDR0hVZERwLUJqemhMMWFfSXhBMWVPb1Q5TDZCWg?oc=5": 1793122867.1779563,
+  "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZW40MHJYQ2daZjJQbzFCRWFCcVcwcnU1YkI5M0xxdWVUS0pvX2R1MDNOMl9ETTJJLW50dXlDV2NmaG5yMWtwSDh5bnR5NWR3WGNpeWdaeGFDS01CUzUtckE4NXFLQmdwdzExeHp2X3ppS0hMaDRpaXpHM1FGaU9HT2dPN1dIcXNPOXJReXdHNnh2VlA0azhFS1d4SzB4aUd1d2xMVXlOVXFQWExzTG5N0gG0AUFVX3lxTE1tZk1CdjJnMWpaZzEycmJUNC1YU3Rqd01pcGtSZjhhbklQT0ZCRTAycTY1VkFzWlZhUnllaWVRV0JiWWlxZ2pLZ2E1U0NiQWxYR0MzTTl0UjhKMF9ad2h2QVVNTXBvTXRDUEVqMTNGeG5UcjdaWnB1SmhPOEFSbm4xWWpucGtGaGFsbnFhQjZxY21BSkJOU1hscmd1Y0RXYmx2TndJRE15b3lPa3pRLUNyQU5pVQ?oc=5": 1793122867.1779563
  },
  "queue": [
   {
@@ -2070,30 +2073,6 @@
    "cat": "health",
    "val": 1,
    "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "प्रहरीलाई स्वतन्त्र र जिम्मेवार बनाऔँ",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/505810",
-   "source": "Baahrakhari",
-   "ts": 1793093623,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "प्रहरीलाई स्वतन्त्र र जिम्मेवार बनाऔँ",
-   "en": "प्रहरीलाई स्वतन्त्र र जिम्मेवार बनाऔँ",
-   "ne": "प्रहरीलाई स्वतन्त्र र जिम्मेवार बनाऔँ",
-   "imp": 2,
-   "tags": [
-    "NepalPolice",
-    "Reform",
-    "Governance",
-    "प्रहरी"
-   ],
-   "cat": "politics",
-   "val": 1,
-   "teaser": false,
    "hits": 1
   },
   {
@@ -2341,7 +2320,7 @@
    "cat": "world",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "एभरेष्ट पेपर मिल्सका १७४ श्रमिकले पाए ६ करोड ३६ लाख भुक्तानी",
@@ -2385,76 +2364,6 @@
     "बैंक"
    ],
    "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "न्युजिल्यान्डविरुद्ध अभिषेक र वैभवको विष्फोटक ब्याटिङ, ७ ओभरमै १३३ रन",
-   "summary": "ओपनर अभिषेक शर्मा र वैभव सूर्यवंशीको विष्फोटक ब्याटिङको मद्दतले न्युजिल्यान्डविरुद्धको तेस्रो टी-२० खेलमा भारत जिततर्फ अग्रसर भएको छ।...",
-   "link": "https://nagariknews.nagariknetwork.com/sports/abhishek-and-vaibhav-s-explosive-batting-against-new-zealand-133-runs-in-7-overs-br-94-89.html",
-   "source": "Nagarik News",
-   "ts": 1793093887,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1793093906_cr.jpg",
-   "lang": "ne",
-   "hl": "न्युजिल्यान्डविरुद्ध अभिषेक र वैभवको विष्फोटक ब्याटिङ, ७ ओभरमै १३३ रन",
-   "en": "न्युजिल्यान्डविरुद्ध अभिषेक र वैभवको विष्फोटक ब्याटिङ, ७ ओभरमै १३३ रन",
-   "ne": "न्युजिल्यान्डविरुद्ध अभिषेक र वैभवको विष्फोटक ब्याटिङ, ७ ओभरमै १३३ रन",
-   "imp": 3,
-   "tags": [
-    "Cricket",
-    "Abhishek",
-    "Vaibhav",
-    "न्युजिल्यान्ड"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "नयाँ नागरिकता लिनेभन्दा प्रतिलिपि लिने बढी",
-   "summary": "प्रमुख जिल्ला अधिकारी उमेशकुमार दाहालले प्रशासन कार्यालयको त्रैमासिक प्रगति विवरण प्रस्तुत गर्दै चालु आवको तीन महिनाको अवधिमा गैरआवासीय नेपाली नागरिकता जारी नभएको जानकारी दिए।...",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/it-is-more-common-to-get-a-copy-of-citizenship-than-to-get-a-new-one-51-76.html",
-   "source": "Nagarik News",
-   "ts": 1793093834,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1793093460_taplejung%20prasasan.jpg",
-   "lang": "ne",
-   "hl": "नयाँ नागरिकता लिनेभन्दा प्रतिलिपि लिने बढी",
-   "en": "नयाँ नागरिकता लिनेभन्दा प्रतिलिपि लिने बढी",
-   "ne": "नयाँ नागरिकता लिनेभन्दा प्रतिलिपि लिने बढी",
-   "imp": 2,
-   "tags": [
-    "Citizenship",
-    "Nagarikta",
-    "नागरिकता"
-   ],
-   "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "ताप्लेजुङ प्रशासनले भन्यो : अत्यावश्यक बाहेक लामो दूरी र रातको समयमा यात्रा नगर्नू",
-   "summary": "ताप्लेजुङले अति आवश्यक अवस्थामा बाहेक लामो दूरी तथा रातिको समयमा यात्रा नगर्न आग्रह गरेको छ।",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/taplejung-administration-says-avoid-long-distance-and-nighttime-travel-unless-absolutely-necessary-12-65.html",
-   "source": "Nagarik News",
-   "ts": 1793093498,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1793093460_taplejung%20prasasan.jpg",
-   "lang": "ne",
-   "hl": "ताप्लेजुङ प्रशासनले भन्यो : अत्यावश्यक बाहेक लामो दूरी र रातको समयमा यात्रा नगर्नू",
-   "en": "ताप्लेजुङ प्रशासनले भन्यो : अत्यावश्यक बाहेक लामो दूरी र रातको समयमा यात्रा नगर्नू",
-   "ne": "ताप्लेजुङ प्रशासनले भन्यो : अत्यावश्यक बाहेक लामो दूरी र रातको समयमा यात्रा नगर्नू",
-   "imp": 3,
-   "tags": [
-    "Taplejung",
-    "TravelWarning",
-    "ताप्लेजुङ"
-   ],
-   "cat": "society",
    "val": 3,
    "teaser": false,
    "hits": 2
@@ -5403,7 +5312,7 @@
    "cat": "sports",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "अध्यक्ष ओलीबाट मदन भण्डारी स्मृति प्रतिष्ठानको स्मारिका लोकार्पण",
@@ -5494,6 +5403,29 @@
     "वैदेशिकरोजगार"
    ],
    "cat": "economy",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Nepal suspends high-altitude trekking over avalanche, snowfall risk",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZW40MHJYQ2daZjJQbzFCRWFCcVcwcnU1YkI5M0xxdWVUS0pvX2R1MDNOMl9ETTJJLW50dXlDV2NmaG5yMWtwSDh5bnR5NWR3WGNpeWdaeGFDS01CUzUtckE4NXFLQmdwdzExeHp2X3ppS0hMaDRpaXpHM1FGaU9HT2dPN1dIcXNPOXJReXdHNnh2VlA0azhFS1d4SzB4aUd1d2xMVXlOVXFQWExzTG5N0gG0AUFVX3lxTE1tZk1CdjJnMWpaZzEycmJUNC1YU3Rqd01pcGtSZjhhbklQT0ZCRTAycTY1VkFzWlZhUnllaWVRV0JiWWlxZ2pLZ2E1U0NiQWxYR0MzTTl0UjhKMF9ad2h2QVVNTXBvTXRDUEVqMTNGeG5UcjdaWnB1SmhPOEFSbm4xWWpucGtGaGFsbnFhQjZxY21BSkJOU1hscmd1Y0RXYmx2TndJRE15b3lPa3pRLUNyQU5pVQ?oc=5",
+   "source": "WION",
+   "ts": 1793121900,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "Nepal suspends high-altitude trekking over avalanche, snowfall risk",
+   "en": "Nepal suspends high-altitude trekking over avalanche, snowfall risk",
+   "ne": "Nepal suspends high-altitude trekking over avalanche, snowfall risk",
+   "imp": 4,
+   "tags": [
+    "Avalanche",
+    "Trekking",
+    "HighAltitude"
+   ],
+   "cat": "disaster",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -8427,7 +8359,7 @@
    "cat": "politics"
   }
  ],
- "updated": 1793122281,
+ "updated": 1793122873,
  "pending_since": 1793122276.4220464,
  "fb_blocks": [
   1790350880.4125228,
