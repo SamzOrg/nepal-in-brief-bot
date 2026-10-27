@@ -1,8 +1,5 @@
 {
  "seen": {
-  "https://kathmandupost.com/science-technology/2026/10/25/php2shell-security-flaw-forces-thousands-of-nepali-websites-offline": 1792893048.9257782,
-  "http://english.ratopati.com/story/84441/pedestrian-dies-after-being-hit-by-vehicle": 1792893048.9257782,
-  "http://lokaantar.com/story/331862/2026/10/25/accident-": 1792893048.9257782,
   "http://lokaantar.com/story/331857/2026/10/25/bridge-": 1792893689.6687996,
   "https://nagariknews.nagariknetwork.com/social-affairs/52-year-old-pedestrian-dies-after-being-hit-by-scooter-driver-in-custody-71-96.html": 1792894249.5895915,
   "https://baahrakhari.com/detail/505605": 1792894249.5895915,
@@ -1917,30 +1914,6 @@
    "hits": 1
   },
   {
-   "title": "Nepal resumes 40MW power exports to Bangladesh",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE96d240ZVV3dHNnZ2UyUjhOWEpvdHBhbnpMUjBYNzlHSXRnakl2eE9iN1ZPT19icDljQUZZaVVyOUl1aXkyLXBCYlFjZUJzdw?oc=5",
-   "source": "www.daily-sun.com",
-   "ts": 1793037600,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Nepal resumes 40MW power exports to Bangladesh",
-   "en": "Nepal resumes 40MW power exports to Bangladesh",
-   "ne": "Nepal resumes 40MW power exports to Bangladesh",
-   "imp": 3,
-   "tags": [
-    "Nepal",
-    "Bangladesh",
-    "PowerExport",
-    "बिजुली"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
    "title": "[S.E.X 18+ videos] 2.59 Kandaswati Viral Video Nepal X.X.X videos",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxOQnpGeW8tVnhNdWFWRHN0RHB4R0xxcDZaa2ZPa0dhR3VtMjhObHctSGFoOVp5UngwUzVHaVF6RC1Vb0ZjaVdYZXZLakhwR3ljSXlWdXd3dmVVQnlGWVZ3bXZVRjdFZ1NVX3Bkb1l4bEdoOHpKXzJCNXpRcG9pZ0lxR0EyeTduTFpueG13OWFYQlhFWDA4d0pGenkyZm9WYzZWOUFYWHoxbDNEcFY3VHE3c2RMWk9tekxqVkFsaXpKMDVRenlibDFVRnlTUjhEN3pPeFU0bGNSd19lTGlhaWNkbW5hOVhrYmwzMmpNS0xKUkdETmQtNFV3c2Y4em5nNzRRT2tTcE5WdW15R202M0lUOWpsVElDazJsTlNONzZVaTRHNTdKMHF6cjJZMlY0QlNWZUlKT3EyUXBJTnV3UHVvSzVndlM1dWp1c0ttcENuQlNhRVJfVHJxZE9iWFM3X3hqbGprQ1R1YTI3RWY4blUtUW9sVzNLUE0zWUFORzlLaw?oc=5",
@@ -3388,17 +3361,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1792461055.2250748,
-   "en": "इक्वेडरको चर्चमा प्रार्थना चलिरहेका बेला क्रस खस्दा पादरीको मृत्यु",
-   "ne": "इक्वेडरको चर्चमा प्रार्थना चलिरहेका बेला क्रस खस्दा पादरीको मृत्यु",
-   "link": "http://lokaantar.com/story/331625/2026/10/20/dead-",
-   "source": "Lokaantar",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "society"
-  },
   {
    "ts": 1792462860.5622792,
    "en": "तीन महिनादेखि अवरुद्ध खाँदबारी-किमाथांका सडक पुनः सञ्चालनमा",
@@ -6304,7 +6266,7 @@
    "cat": "economy"
   }
  ],
- "updated": 1793065868,
+ "updated": 1793066489,
  "pending_since": 1793065844.7314496,
  "fb_blocks": [
   1790350880.4125228,
