@@ -1,8 +1,5 @@
 {
  "seen": {
-  "https://gorkhapatraonline.com/news/227211": 1792921248.8790038,
-  "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMDhpdDNEcVFQSHJLTUt5RHNnazQ5LVc5VjlSc1g0SnNCTnA1VU9neV9SdVZFNWlINjVqTEFxSFZ5Um5nQmF0SWRHQXlyS01mZC1CV0poNDFBb3h1akRIcFNWN3M5U3lxYUQwUWh0WTlMeWhqMEVjdFNnZk14MHQ5dVRUTzRMaEVXbENaa2c0c3J6cGF0bHFBSnV3QXkyeVk0?oc=5": 1792921248.8790038,
-  "https://theannapurnaexpress.com/story/68204": 1792921248.8790038,
   "http://english.ratopati.com/story/84489/the-senior-vice-president-of-the-nepali-congress-will-now-be-the-coordinator-of-the-policy-research-and-training-institute": 1792921845.6492631,
   "https://english.onlinekhabar.com/banke-police-receives-127-complaints-in-a-month.html": 1792921845.6492631,
   "https://english.onlinekhabar.com/4-2-magnitude-earthquake-in-baitadi.html": 1792921845.6492631,
@@ -1928,7 +1925,8 @@
   "https://theannapurnaexpress.com/story/68252": 1793092853.2493837,
   "https://baahrakhari.com/detail/505806": 1793092853.2493837,
   "https://nagariknews.nagariknetwork.com/politics/the-trend-of-going-to-the-airport-with-garlands-and-food-when-leaders-arrive-should-be-changed-chairman-thapa-br-28-98.html": 1793092853.2493837,
-  "http://english.ratopati.com/story/84734/npl-opens-up-potential-for-sports-tourism-calls-for-expansion-of-international-air-connectivity": 1793093476.2558653
+  "http://english.ratopati.com/story/84734/npl-opens-up-potential-for-sports-tourism-calls-for-expansion-of-international-air-connectivity": 1793093476.2558653,
+  "https://www.setopati.com/kinmel/banking/401398": 1793094049.6288805
  },
  "queue": [
   {
@@ -2047,141 +2045,6 @@
    "hits": 1
   },
   {
-   "title": "The Fear Of Asking",
-   "summary": "Asking for help can require more courage than pretending to understand. A student may sit through an entire lesson with...",
-   "link": "https://risingnepaldaily.com/news/88088",
-   "source": "Rising Nepal",
-   "ts": 1793065217,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "The Fear Of Asking",
-   "en": "The Fear Of Asking",
-   "ne": "The Fear Of Asking",
-   "imp": 1,
-   "tags": [
-    "Opinion"
-   ],
-   "cat": "society",
-   "val": 1,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Vector-borne Diseases Outbreak Worsens Due to Inadequate Prevention and Control Measures",
-   "summary": "Kathmandu. Despite the increasing outbreak of vector-borne diseases every year, the state's attention towards prevention and control has not been...",
-   "link": "http://english.ratopati.com/story/84672/budget-shortage-and-government-apathy-are-increasing-the-risk-of-insect-borne-diseases",
-   "source": "Ratopati EN",
-   "ts": 1793065204,
-   "weight": 2,
-   "img": "https://rpcdn.ratopati.com/media/albums/vaccine_VsHJil3RVX.jpg",
-   "lang": "en",
-   "hl": "Vector-borne Diseases Outbreak Worsens Due to Inadequate Prevention and Control Measures",
-   "en": "Vector-borne Diseases Outbreak Worsens Due to Inadequate Prevention and Control Measures",
-   "ne": "Vector-borne Diseases Outbreak Worsens Due to Inadequate Prevention and Control Measures",
-   "imp": 3,
-   "tags": [
-    "Health",
-    "Disease",
-    "Nepal"
-   ],
-   "cat": "health",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "एआईमा ठुलो लगानी गर्दै माइक्रोसफ्ट, ६० हजार कर्मचारीलाई स्वैच्छिक अवकाशको प्रस्ताव",
-   "summary": "पछिल्लो समय एआई प्रविधि सञ्चालन गर्न आवश्यक डेटा सेन्टरमा प्रविधि कम्पनीहरूले ठुलो लगानी गरिरहेका छन्।...",
-   "link": "https://nagariknews.nagariknetwork.com/technology/microsoft-is-investing-heavily-in-ai-offering-voluntary-retirement-to-60-000-employees-63-89.html",
-   "source": "Nagarik News",
-   "ts": 1793064937,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1793064720_Microsoft%20offers.jpg",
-   "lang": "ne",
-   "hl": "एआईमा ठुलो लगानी गर्दै माइक्रोसफ्ट, ६० हजार कर्मचारीलाई स्वैच्छिक अवकाशको प्रस्ताव",
-   "en": "एआईमा ठुलो लगानी गर्दै माइक्रोसफ्ट, ६० हजार कर्मचारीलाई स्वैच्छिक अवकाशको प्रस्ताव",
-   "ne": "एआईमा ठुलो लगानी गर्दै माइक्रोसफ्ट, ६० हजार कर्मचारीलाई स्वैच्छिक अवकाशको प्रस्ताव",
-   "imp": 2,
-   "tags": [
-    "Microsoft",
-    "Layoffs"
-   ],
-   "cat": "tech",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Reforming Universities",
-   "summary": "Following the opening up in the early 1990s, Nepal's higher education sector underwent significant change. The number of...",
-   "link": "https://risingnepaldaily.com/news/88087",
-   "source": "Rising Nepal",
-   "ts": 1793064948,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Reforming Universities",
-   "en": "Reforming Universities",
-   "ne": "Reforming Universities",
-   "imp": 2,
-   "tags": [
-    "University",
-    "Education",
-    "Reform"
-   ],
-   "cat": "education",
-   "val": 1,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "बिउ जोगाउँदै सांसद चौधरी",
-   "summary": "दाङ समाचारदातादाङ, कात्तिक १० गते । किसानले खेती गर्न छाड्दै गएपछि लोप हुने जोखिममा परेको कालानमक (रैथाने कालो बासमती) धानको बिउ संरक्षण गर्न राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) क...",
-   "link": "https://gorkhapatraonline.com/news/227351",
-   "source": "Gorkhapatra",
-   "ts": 1793065099,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/389039/conversions/333-original.jpg",
-   "lang": "ne",
-   "hl": "बिउ जोगाउँदै सांसद चौधरी",
-   "en": "बिउ जोगाउँदै सांसद चौधरी",
-   "ne": "बिउ जोगाउँदै सांसद चौधरी",
-   "imp": 2,
-   "tags": [
-    "Chaudhary",
-    "Parliament",
-    "Agriculture"
-   ],
-   "cat": "politics",
-   "val": 1,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "कर्णालीमा हवाई उडान प्रभावकारी बनाउन छलफल",
-   "summary": "गोरखापत्र समाचारदाताकाठमाडौँ, कात्तिक १० गते । कर्णाली प्रदेशको हवाई उडान सेवामा देखिएका समस्या र तिनको समाधानका उपायबारे सरोकारवालाबिच गहन छलफल भएको छ । संस्कृति, पर्यटन तथा नागरि...",
-   "link": "https://gorkhapatraonline.com/news/227350",
-   "source": "Gorkhapatra",
-   "ts": 1793064841,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/389038/conversions/Paryatan-Mantri-original.jpg",
-   "lang": "ne",
-   "hl": "कर्णालीमा हवाई उडान प्रभावकारी बनाउन छलफल",
-   "en": "कर्णालीमा हवाई उडान प्रभावकारी बनाउन छलफल",
-   "ne": "कर्णालीमा हवाई उडान प्रभावकारी बनाउन छलफल",
-   "imp": 2,
-   "tags": [
-    "Karnali",
-    "Aviation",
-    "Tourism"
-   ],
-   "cat": "society",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "300 sacks of wheat stolen from Saptari warehouse",
    "summary": "By Binay Karna, Kalyanpur (Saptari), Oct. 27: Around 300 sacks of wheat have been stolen from the Dharmaraj Baba Paddy a...",
    "link": "https://risingnepaldaily.com/news/88091",
@@ -2268,29 +2131,6 @@
     "आरोही"
    ],
    "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "ग्लोबल आइएमईले फेरि पायो 'बेस्ट बैङ्क अवार्ड'",
-   "summary": "गोरखापत्र समाचारदाताकाठमाडौँ, कात्तिक १० गते । ग्लोबल आइएमई बैङ्क अन्तर्राष्ट्रिय आर्थिक पत्रिका 'ग्लोबल फाइनान्स' ले प्रदान गर्ने 'बेस्ट बैङ्क अवार्ड' २०२६ बाट सम्मानित भएको छ । य...",
-   "link": "https://gorkhapatraonline.com/news/227349",
-   "source": "Gorkhapatra",
-   "ts": 1793064699,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/389037/conversions/Best-Bank-Awards-2026-original.jpg",
-   "lang": "ne",
-   "hl": "ग्लोबल आइएमईले फेरि पायो 'बेस्ट बैङ्क अवार्ड'",
-   "en": "ग्लोबल आइएमईले फेरि पायो 'बेस्ट बैङ्क अवार्ड'",
-   "ne": "ग्लोबल आइएमईले फेरि पायो 'बेस्ट बैङ्क अवार्ड'",
-   "imp": 3,
-   "tags": [
-    "GlobalIME",
-    "BankAward",
-    "बैङ्क"
-   ],
-   "cat": "economy",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -5312,29 +5152,6 @@
    ],
    "cat": "crime",
    "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Trump blasts Norway over Nobel Peace Prize snub",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZ2NqTTJja3FWaTRYelh4VVhudm5CXzZXUjF1X0E0RTdPVGZJWm5uV19WY0tmcEZkVFdjSk02UmpJS0ZCcWVJSlRhWnZWLXNpNko2aTlGZ2xXRWd5UEdKSDRYbjZQdTdVTDlrSWtoNF9ZLWtfNXh4VkFCUFlQT2RaUmRTaDNtNjFlUTBNdnBhYjBnNWZmWW5BaEJaRVJfT05ZSGh1cA?oc=5",
-   "source": "myRepublica",
-   "ts": 1793064884,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Trump blasts Norway over Nobel Peace Prize snub",
-   "en": "Trump blasts Norway over Nobel Peace Prize snub",
-   "ne": "Trump blasts Norway over Nobel Peace Prize snub",
-   "imp": 1,
-   "tags": [
-    "Trump",
-    "Norway",
-    "NobelPeacePrize"
-   ],
-   "cat": "world",
-   "val": 3,
    "teaser": false,
    "hits": 1
   },
@@ -10915,7 +10732,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1793093494,
+ "updated": 1793094052,
  "pending_since": 1793092853.2493837,
  "fb_blocks": [
   1790350880.4125228,
