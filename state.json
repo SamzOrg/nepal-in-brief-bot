@@ -1,8 +1,5 @@
 {
  "seen": {
-  "https://theannapurnaexpress.com/story/68202": 1792918886.9828217,
-  "https://theannapurnaexpress.com/story/68200": 1792918886.9828217,
-  "https://english.onlinekhabar.com/man-found-dead-near-keshaliya-river-in-biratnagar.html": 1792918886.9828217,
   "https://risingnepaldaily.com/news/88019": 1792919450.9685225,
   "https://gorkhapatraonline.com/news/227209": 1792919450.9685225,
   "https://nagariknews.nagariknetwork.com/social-affairs/earthquake-in-baitadi-br-51-11.html": 1792919450.9685225,
@@ -1935,7 +1932,10 @@
   "https://gorkhapatraonline.com/news/227401": 1793091051.130388,
   "https://nagariknews.nagariknetwork.com/sports/npl-malan-s-half-century-bopara-and-mausli-s-partnership-help-chitwan-set-a-target-of-158-runs-51-37.html": 1793091051.130388,
   "https://gorkhapatraonline.com/news/227400": 1793091051.130388,
-  "https://nagariknews.nagariknetwork.com/arts/vijay-and-rashmika-s-team-files-cyber-complaint-over-misleading-content-72-95.html": 1793091051.130388
+  "https://nagariknews.nagariknetwork.com/arts/vijay-and-rashmika-s-team-files-cyber-complaint-over-misleading-content-72-95.html": 1793091051.130388,
+  "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPa2xVVjNNTmtEb1UtM2dTX2NxMWxJQ3otdm9yVXloVTNmSWRjZE5rS3h5bDI4RzVDeVNIcXJzTDZjOVJENVc5VHN1LVRveklYeVI5dzdtU01SN1MwT1V1aUdpUXlGNm5wNjBNTmU0UFZvY1NyYmRKMnRRcldFZnFIeTNDSVN2OUkxc28wSFJNUHUwdlU2ekJEM3RtN2hzbEJVeU5OWnBodG12WjIwaFVmU3k1ajZfTTF50gG-AUFVX3lxTFBTUGIyRnlta3R3MVpjckdIZnBsWXFrVFJTVEVHXzNZczlRSUZacW5xRi0xQTd1eVByejdMYkdFbC1YREl3TmNDVHFaWVNxVjhNcEdIZnI2V1RJYUZpQTV2SEhWcG42bWNvU1dFSllWc1hwMFpJQ0F0ZEJWOFN2eWRDZE05ZWRDeDFzUE9tYkdNb1VoWGo5MkhGbXBlVTNzVnJkclBxV3o4cDZLMWYyOHNybm9ERzR5Mm5lQ2pxaUE?oc=5": 1793091690.7096593,
+  "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZlhOM2YycktiR2N2eDhKS2VxOHl0SjBMci1oZmU0dTNzbUx4Rl9fMWljN2pCOXBNeml1VGtzTHFFZFpmZ2YzNzJzM2NuZ1p6emJ5bG5FNFJZV2JYU21YbWF0YTllOFRKc2c3U3NnX0VLS0lPQnJUNjJuQV9WRy1tVHlFS25NUi03VjlocUt3SUstMFIxUXUwcUlXSkl4VWpjaVNKOXYyN1BVQ1h1RDJnZEtGcw?oc=5": 1793091690.7096593,
+  "https://kathmandupost.com/sports/2026/10/27/biratnagar-kings-need-158-to-win": 1793091690.7096593
  },
  "queue": [
   {
@@ -2052,28 +2052,6 @@
    "hits": 1
   },
   {
-   "title": "Delegations meet in Iran amid fears of renewed Mideast fighting",
-   "summary": "Cairo, Oct. 27: High-level delegations from Saudi Arabia, Pakistan and Turkey were in Tehran on Monday for meetings with...",
-   "link": "https://risingnepaldaily.com/news/88083",
-   "source": "Rising Nepal",
-   "ts": 1793062267,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Delegations meet in Iran amid fears of renewed Mideast fighting",
-   "en": "Delegations meet in Iran amid fears of renewed Mideast fighting",
-   "ne": "Delegations meet in Iran amid fears of renewed Mideast fighting",
-   "imp": 1,
-   "tags": [
-    "Iran",
-    "MiddleEast"
-   ],
-   "cat": "world",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "दसैँ बिदामा १५ हजार बढी पर्यटकद्वारा सहिद स्मारक अवलोकन",
    "summary": "बागमती प्रदेशको राजधानी हेटौँडास्थित सहिद स्मारकको यस वर्षको दसैँ बिदाका समयमा १५ हजार बढी पर्यटकले अवलोकन गरेका छन्।...",
    "link": "https://nagariknews.nagariknetwork.com/social-affairs/over-15-000-tourists-visit-martyr-s-memorial-during-dashain-holiday-91-10.html",
@@ -2092,28 +2070,6 @@
     "शहिदस्मारक"
    ],
    "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "युद्धविरामपछि पनि गजामा इसराइलले नरसंहारजन्य कार्य गरेको संयुक्त राष्ट्रसंघको आरोप",
-   "summary": "उनका अनुसार यी गतिविधि प्यालेस्टिनीलाई विस्थापित गर्ने, उनीहरूको अस्तित्व समाप्त पार्ने र जीवन धान्नै नसकिने अवस्था सिर्जना गर्ने व्यापक रणनीतिको हिस्सा हुन्।",
-   "link": "https://www.setopati.com/social/401357",
-   "source": "Setopati",
-   "ts": 1793062581,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "युद्धविरामपछि पनि गजामा इसराइलले नरसंहारजन्य कार्य गरेको संयुक्त राष्ट्रसंघको आरोप",
-   "en": "युद्धविरामपछि पनि गजामा इसराइलले नरसंहारजन्य कार्य गरेको संयुक्त राष्ट्रसंघको आरोप",
-   "ne": "युद्धविरामपछि पनि गजामा इसराइलले नरसंहारजन्य कार्य गरेको संयुक्त राष्ट्रसंघको आरोप",
-   "imp": 1,
-   "tags": [
-    "Gaza",
-    "Israel"
-   ],
-   "cat": "world",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -2140,73 +2096,6 @@
    "val": 3,
    "teaser": false,
    "hits": 3
-  },
-  {
-   "title": "एनपिएलमा आज दुई खेल, विराटनगर र चितवन भिड्दै",
-   "summary": "सोमबार प्रतियोगिताको उद्घाटन खेलमा सोमबार लुम्बिनी लायन्सले सुदूरपश्चिम रोयल्सलाई हराउँदै सुखद् सुरुआत गरेको थियो।...",
-   "link": "https://nagariknews.nagariknetwork.com/sports/two-matches-in-npl-today-biratnagar-and-chitwan-clash-94-38.html",
-   "source": "Nagarik News",
-   "ts": 1793062721,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1793062952_Game.jpg",
-   "lang": "ne",
-   "hl": "एनपिएलमा आज दुई खेल, विराटनगर र चितवन भिड्दै",
-   "en": "एनपिएलमा आज दुई खेल, विराटनगर र चितवन भिड्दै",
-   "ne": "एनपिएलमा आज दुई खेल, विराटनगर र चितवन भिड्दै",
-   "imp": 3,
-   "tags": [
-    "NPL",
-    "BiratnagarKings",
-    "ChitwanRhinos"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 3
-  },
-  {
-   "title": "एनपीएललाई नेपालको पहिचान बढाउने बलियो आधारको रूपमा लिएको छु : मन्त्री पोखरेल",
-   "summary": "नेपाल प्रिमियर लिग (एनपीएल) को तेस्रो सिजनले नेपाली क्रिकेटको विकाससँगै देशलाई 'खेल पर्यटन' को नयाँ गन्तव्यका रूपमा चिनाउने शिक्षा तथा खेलकुद मन्त्री सस्मित पोखरेलले बताएका छन्।...",
-   "link": "https://nagariknews.nagariknetwork.com/sports/i-have-taken-npl-as-a-strong-basis-to-enhance-nepal-s-identity-minister-pokharel-92-56.html",
-   "source": "Nagarik News",
-   "ts": 1793062506,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1781855960_shasmit.jpg",
-   "lang": "ne",
-   "hl": "एनपीएललाई नेपालको पहिचान बढाउने बलियो आधारको रूपमा लिएको छु : मन्त्री पोखरेल",
-   "en": "एनपीएललाई नेपालको पहिचान बढाउने बलियो आधारको रूपमा लिएको छु : मन्त्री पोखरेल",
-   "ne": "एनपीएललाई नेपालको पहिचान बढाउने बलियो आधारको रूपमा लिएको छु : मन्त्री पोखरेल",
-   "imp": 3,
-   "tags": [
-    "NPL",
-    "MinisterPokhrel"
-   ],
-   "cat": "sports",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "लिफ्टसहितको आकासे पुल बन्दै",
-   "summary": "गोरखापत्र समाचारदाताललितपुर, कात्तिक १० गते । ललितपुरको कुसुन्ती हाइटस्थित चक्रपथमा निर्माणाधीन लिफ्टसहितको अपाङ्गतामैत्री आकासे पुलको काम अन्तिम चरणमा पुगेको छ । मुलुककै पहिलो मान...",
-   "link": "https://gorkhapatraonline.com/news/227341",
-   "source": "Gorkhapatra",
-   "ts": 1793062364,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/389029/conversions/223-original.jpg",
-   "lang": "ne",
-   "hl": "लिफ्टसहितको आकासे पुल बन्दै",
-   "en": "लिफ्टसहितको आकासे पुल बन्दै",
-   "ne": "लिफ्टसहितको आकासे पुल बन्दै",
-   "imp": 2,
-   "tags": [
-    "OverheadBridge",
-    "Infrastructure"
-   ],
-   "cat": "society",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
   },
   {
    "title": "Five Dead in Guwahati Hotel Shooting",
@@ -3184,7 +3073,7 @@
    "cat": "world",
    "val": 3,
    "teaser": false,
-   "hits": 10
+   "hits": 11
   },
   {
    "title": "Barca's big-game defeats pose familiar questions",
@@ -6304,7 +6193,7 @@
    "cat": "sports",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "Former secretary Ghimire appointed executive director of Staff College",
@@ -7730,29 +7619,6 @@
    "hits": 1
   },
   {
-   "title": "Opposition Parties Prepare Anti-Government Protests Post-Chhath Festival",
-   "summary": "Kathmandu. Opposition parties are preparing to launch anti-government protests immediately after the Chhath festival. Among the major opposition parties, leftist...",
-   "link": "http://english.ratopati.com/story/84729/opposition-parties-in-the-game-to-topple-the-government-preparing-to-intensify-the-movement-after-chhath",
-   "source": "Ratopati EN",
-   "ts": 1793090786,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/balen-kp-prachand_iaxSkajF5h.webp",
-   "lang": "en",
-   "hl": "Opposition Parties Prepare Anti-Government Protests Post-Chhath Festival",
-   "en": "Opposition Parties Prepare Anti-Government Protests Post-Chhath Festival",
-   "ne": "Opposition Parties Prepare Anti-Government Protests Post-Chhath Festival",
-   "imp": 4,
-   "tags": [
-    "Opposition",
-    "Protest",
-    "NepalPolitics"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "प्लास्टिकजन्य फूलगुच्छाको बिक्री वितरणमा रोक",
    "summary": "अनिल पराजुलीहेटौँडा, कात्तिक १० गते । मकवानपुरको मनहरी गाउँपालिकाले प्लास्टिकजन्य फूलगुच्छाको उत्पादन, आयात, भण्डारण, बिक्री वितरण तथा प्रयोगमा रोक लगाएको छ । सरकारले नेपाल राजपत्र...",
    "link": "https://gorkhapatraonline.com/news/227404",
@@ -8072,17 +7938,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1792486265.8165565,
-   "en": "Police seize 574.87 kg of cannabis from ambulance in Sunsari",
-   "ne": "Police seize 574.87 kg of cannabis from ambulance in Sunsari",
-   "link": "https://myrepublica.nagariknetwork.com/amp/news/over-five-quintals-of-cannabis-seized-from-ambulance-in-sunsari-60-87.html",
-   "source": "myRepublica",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "crime"
-  },
   {
    "ts": 1792488065.4570973,
    "en": "सुर्खेतमा फोर्स गाडी दुर्घटना हुँदा नौजना घाइते",
@@ -10986,10 +10841,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "sports"
+  },
+  {
+   "ts": 1793091697.3677664,
+   "en": "Opposition Parties Prepare Anti-Government Protests Post-Chhath Festival",
+   "ne": "Opposition Parties Prepare Anti-Government Protests Post-Chhath Festival",
+   "link": "http://english.ratopati.com/story/84729/opposition-parties-in-the-game-to-topple-the-government-preparing-to-intensify-the-movement-after-chhath",
+   "source": "Ratopati EN",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "politics"
   }
  ],
- "updated": 1793091058,
- "pending_since": null,
+ "updated": 1793091707,
+ "pending_since": 1793091690.7096593,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
