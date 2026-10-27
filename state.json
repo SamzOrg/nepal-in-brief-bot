@@ -1859,7 +1859,8 @@
   "https://gorkhapatraonline.com/news/227356": 1793068849.4622054,
   "https://nagariknews.nagariknetwork.com/international/nepali-arrested-in-india-11-years-ago-sentenced-to-9-and-a-half-years-in-prison-what-is-the-crime-52-86.html": 1793068849.4622054,
   "https://risingnepaldaily.com/news/88093": 1793068849.4622054,
-  "https://gorkhapatraonline.com/news/227354": 1793068849.4622054
+  "https://gorkhapatraonline.com/news/227354": 1793068849.4622054,
+  "https://nagariknews.nagariknetwork.com/social-affairs/even-after-the-conflict-the-risk-of-explosives-remains-13-year-old-boy-lost-his-leg-while-cutting-a-pipe-39-43.html": 1793069449.0695462
  },
  "queue": [
   {
@@ -3262,30 +3263,6 @@
    "hits": 1
   },
   {
-   "title": "Oli, Dahal move to extend alliance to next year's local and provincial polls",
-   "summary": "UML and Nepali Communist Party leaders are exploring grassroots-level electoral cooperation to prevent further erosion of left-wing support.",
-   "link": "https://kathmandupost.com/politics/2026/10/27/oli-dahal-move-to-extend-alliance-to-next-year-s-local-and-provincial-polls",
-   "source": "Kathmandu Post",
-   "ts": 1793051445.8796043,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Oli, Dahal move to extend alliance to next year's local and provincial polls",
-   "en": "Oli, Dahal move to extend alliance to next year's local and provincial polls",
-   "ne": "Oli, Dahal move to extend alliance to next year's local and provincial polls",
-   "imp": 3,
-   "tags": [
-    "Oli",
-    "Dahal",
-    "Alliance",
-    "Election"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
    "title": "डलरदेखि कतारी रियालसम्म : यस्तो छ आजका लागि तय भएको विदेशी मुद्राको विनिमयदर",
    "summary": "नेपाल राष्ट्र बैंकले मंगलबारका लागि विदेशी मुद्राको विनिमयदर निर्धारण गरेको छ। राष्ट्र बैंकका अनुसार अमेरिकी डलर एकको खरिददर १५२ रुपैयाँ र बिक्रीदर १५२ रुपैयाँ ६० पैसा रहेको छ । यसैगरी एक युरोको खरिददर १७० रुपैयाँ ३२...",
    "link": "http://lokaantar.com/story/331988/2026/10/27/forex-",
@@ -4078,6 +4055,29 @@
    "cat": "society",
    "val": 1,
    "teaser": true,
+   "hits": 1
+  },
+  {
+   "title": "द्वन्द्व सकिए पनि विस्फोटक पदार्थको जोखिम कायमै, पाइप काट्दा १३ वर्षीय बालकले पैताला गुमाए",
+   "summary": "द्वन्द्व सकिएको वर्षौँ बितिसकेको छ। तर, त्यसबेला प्रयोग गरिएका विस्फोटक पदार्थका अवशेष अझै सर्वसाधारणको जीवनका लागि जोखिम बनेका छन्।...",
+   "link": "https://nagariknews.nagariknetwork.com/social-affairs/even-after-the-conflict-the-risk-of-explosives-remains-13-year-old-boy-lost-his-leg-while-cutting-a-pipe-39-43.html",
+   "source": "Nagarik News",
+   "ts": 1793068616,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2026/third-party/1793068572_Balbahadur.jpg",
+   "lang": "ne",
+   "hl": "द्वन्द्व सकिए पनि विस्फोटक पदार्थको जोखिम कायमै, पाइप काट्दा १३ वर्षीय बालकले पैताला गुमाए",
+   "en": "द्वन्द्व सकिए पनि विस्फोटक पदार्थको जोखिम कायमै, पाइप काट्दा १३ वर्षीय बालकले पैताला गुमाए",
+   "ne": "द्वन्द्व सकिए पनि विस्फोटक पदार्थको जोखिम कायमै, पाइप काट्दा १३ वर्षीय बालकले पैताला गुमाए",
+   "imp": 3,
+   "tags": [
+    "ExplosiveRisk",
+    "ChildInjury",
+    "विस्फोटकपदार्थ"
+   ],
+   "cat": "society",
+   "val": 3,
+   "teaser": false,
    "hits": 1
   }
  ],
@@ -6985,10 +6985,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "crime"
+  },
+  {
+   "ts": 1793069456.1632962,
+   "en": "Oli and Dahal move to extend UML-NCP alliance to next year's local and provincial polls",
+   "ne": "Oli and Dahal move to extend UML-NCP alliance to next year's local and provincial polls",
+   "link": "https://kathmandupost.com/politics/2026/10/27/oli-dahal-move-to-extend-alliance-to-next-year-s-local-and-provincial-polls",
+   "source": "Kathmandu Post",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "politics"
   }
  ],
- "updated": 1793068857,
- "pending_since": null,
+ "updated": 1793069473,
+ "pending_since": 1793069449.0695462,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
