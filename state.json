@@ -1840,7 +1840,10 @@
   "http://english.ratopati.com/story/84689/saudi-arabia-offers-1-billion-to-houthis-to-maintain-ceasefire": 1793076648.7646887,
   "http://english.ratopati.com/story/84688/work-on-gautam-buddha-cricket-stadium-slows-down": 1793076648.7646887,
   "https://english.onlinekhabar.com/arrest-protest-ani-choying-drolma.html": 1793077286.6646388,
-  "https://news.google.com/rss/articles/CBMi_wJBVV95cUxQLVVZZkRsVHFHSEhUbmJ5MG5uaFdqVFhvWHNKalZMdkdSdFVkdmhER21MdTJzc3RGd2xwYmtlOHFpU1A1OEFHMGNKV01NZF9VRDk2SXMtTG9KekxRNC1vbHg2ajU2T185SVNzdGtQSEIxaUVxQktnYkJFT2JjSjFYQ2VVMGhNclVpMnNtQmNQMV9HN0UxZmVkeGlYZWZMSzBvdTFRSkFXOXlYcXpjT2ZMUW1VSjhPYm1ySGw0OFBlb1djbmpxaElzblBrTHFMY25VTl9yazB3aTl0anl1ZUFfSzNSc0JmeGpWM2Z1Q2pPLVZmWFN3WV91aVh4aW9mUi00M1lYT3MxZ3FSZ1plb0kyLUpTd0NFXzFybXZkeEVGN3E2R2lYMG9Uei1tN1cwbXA4YmdjRjMxSEExSl9tZTlLTGlNdC0yeGhVTnhMVnQycnFNQWtMZ29oWW9makNob1ZpWkFWeEVXQ3phVVRZN1pHNTVka3ZNWGh3U0xJdDdsUQ?oc=5": 1793077286.6646388
+  "https://news.google.com/rss/articles/CBMi_wJBVV95cUxQLVVZZkRsVHFHSEhUbmJ5MG5uaFdqVFhvWHNKalZMdkdSdFVkdmhER21MdTJzc3RGd2xwYmtlOHFpU1A1OEFHMGNKV01NZF9VRDk2SXMtTG9KekxRNC1vbHg2ajU2T185SVNzdGtQSEIxaUVxQktnYkJFT2JjSjFYQ2VVMGhNclVpMnNtQmNQMV9HN0UxZmVkeGlYZWZMSzBvdTFRSkFXOXlYcXpjT2ZMUW1VSjhPYm1ySGw0OFBlb1djbmpxaElzblBrTHFMY25VTl9yazB3aTl0anl1ZUFfSzNSc0JmeGpWM2Z1Q2pPLVZmWFN3WV91aVh4aW9mUi00M1lYT3MxZ3FSZ1plb0kyLUpTd0NFXzFybXZkeEVGN3E2R2lYMG9Uei1tN1cwbXA4YmdjRjMxSEExSl9tZTlLTGlNdC0yeGhVTnhMVnQycnFNQWtMZ29oWW9makNob1ZpWkFWeEVXQ3phVVRZN1pHNTVka3ZNWGh3U0xJdDdsUQ?oc=5": 1793077286.6646388,
+  "https://english.onlinekhabar.com/gautam-buddha-stadium-slows-down.html": 1793077846.8828955,
+  "http://english.ratopati.com/story/84696/nepal-tarun-dal-a-youth-organization-with-history-bps-thoughts-and-todays-responsibilities": 1793077846.8828955,
+  "https://english.khabarhub.com/2026/27/573310/": 1793077846.8828955
  },
  "queue": [
   {
@@ -4443,29 +4446,6 @@
    "hits": 1
   },
   {
-   "title": "Uttarakhand first Himalayan State to export trout to Nepal, supply to ITB",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUEs0S1l5Rjktam1tS2lWMUZHVjdScS11ZjVOMG01eEI2Z1QyZFZudnVuY3pZYl81RlZUU3pmVUFTbWxWQlhvN1pESG5yWEhad0pEVUZaZEZMRjFUUUFYZjRXVjRvT2p4U2dkaWdJSW90T2F4bEQwWHVyXzkzMHU1WEJDck1UaUt4bGhfTGpTeEJSYzFnNDFEODQ4Zmg?oc=5",
-   "source": "Pioneer Edge",
-   "ts": 1793048682,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Uttarakhand first Himalayan State to export trout to Nepal, supply to ITB",
-   "en": "Uttarakhand first Himalayan State to export trout to Nepal, supply to ITB",
-   "ne": "Uttarakhand first Himalayan State to export trout to Nepal, supply to ITB",
-   "imp": 2,
-   "tags": [
-    "Uttarakhand",
-    "Trout",
-    "NepalIndia"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "अध्यादेशको त्रासले कर्मचारीको 'खल्तीमै राजीनामा' !",
    "summary": "",
    "link": "https://baahrakhari.com/detail/505773",
@@ -4670,7 +4650,7 @@
    "cat": "sports",
    "val": 3,
    "teaser": false,
-   "hits": 3
+   "hits": 4
   },
   {
    "title": "ब्राजिलको चुनावबारे ट्रम्पले भने- लूला मन पर्छन्, तर चुनाव धाँधलीयुक्त देखियो",
@@ -5417,6 +5397,30 @@
     "Election"
    ],
    "cat": "politics",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Two months after Bhotekoshi flood, families still await DNA results for missing relatives",
+   "summary": "BANKE: Two months after the devastating Bhotekoshi flash flood, families of those who went missing are still waiting for DNA test results to determine the fate of their loved ones. Anlal Rokaya of Thapuwa, Ward No. 20...",
+   "link": "https://english.khabarhub.com/2026/27/573310/",
+   "source": "Khabarhub EN",
+   "ts": 1793077388,
+   "weight": 2,
+   "img": "https://english.khabarhub.com/wp-content/uploads/2026/08/rasuwa-bhotekoshi-1-1-400x220.jpg",
+   "lang": "en",
+   "hl": "Two months after Bhotekoshi flood, families still await DNA results for missing relatives",
+   "en": "Two months after Bhotekoshi flood, families still await DNA results for missing relatives",
+   "ne": "Two months after Bhotekoshi flood, families still await DNA results for missing relatives",
+   "imp": 3,
+   "tags": [
+    "Bhotekoshi",
+    "Flood",
+    "DNA",
+    "पहिरो"
+   ],
+   "cat": "disaster",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -8339,7 +8343,7 @@
    "cat": "culture"
   }
  ],
- "updated": 1793077318,
+ "updated": 1793077852,
  "pending_since": 1793077286.6646388,
  "fb_blocks": [
   1790350880.4125228,
