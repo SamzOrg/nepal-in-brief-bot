@@ -2125,52 +2125,6 @@
    "hits": 1
   },
   {
-   "title": "बुधबार हिमाली भूभागमा हल्का वर्षा र हिमपातको सम्भावना",
-   "summary": "काठमाडौँ, कात्तिक १० गते । नेपाल मौसम विज्ञान विभाग, मौसम पूर्वानुमान महाशाखाका अनुसार बुधबार कोशी, मधेस, बागमती र लुम्बिनी प्रदेशमा साधारणतया बादल लाग्नेछ । कर्णाली र सुदूरपश्चिम...",
-   "link": "https://gorkhapatraonline.com/news/227432",
-   "source": "Gorkhapatra",
-   "ts": 1793106479,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/389171/conversions/Patihalne_Himpat_X5DBp2F7Er-original.jpg",
-   "lang": "ne",
-   "hl": "बुधबार हिमाली भूभागमा हल्का वर्षा र हिमपातको सम्भावना",
-   "en": "बुधबार हिमाली भूभागमा हल्का वर्षा र हिमपातको सम्भावना",
-   "ne": "बुधबार हिमाली भूभागमा हल्का वर्षा र हिमपातको सम्भावना",
-   "imp": 2,
-   "tags": [
-    "Weather",
-    "Rain",
-    "Snowfall"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "कहीँ नभएको जात्रा हाँडीगाउँमा!",
-   "summary": "'कहीँ नभएको जात्रा हाँडीगाउँमा' उखानसँग जोडिएको यो जात्रा तीन दिनसम्म चल्छ।",
-   "link": "https://www.setopati.com/social/401428",
-   "source": "Setopati",
-   "ts": 1793106382,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "कहीँ नभएको जात्रा हाँडीगाउँमा!",
-   "en": "कहीँ नभएको जात्रा हाँडीगाउँमा!",
-   "ne": "कहीँ नभएको जात्रा हाँडीगाउँमा!",
-   "imp": 2,
-   "tags": [
-    "Handigaun",
-    "Festival",
-    "Jatra"
-   ],
-   "cat": "culture",
-   "val": 1,
-   "teaser": true,
-   "hits": 2
-  },
-  {
    "title": "लुम्बिनीका सभामुखसहित पाँच जनाविरुद्ध सांसद अम्बिकाद्वारा कीर्ते मुद्दा दायर",
    "summary": "जनता समाजवादी पार्टी नेपाल (जसपा नेपाल) की लुम्बिनी प्रदेशसभा सदस्य अम्बिका काफ्लेले आफूलाई सांसद पदबाट पदमुक्त गर्न प्रयोग गरिएको विवादित पत्र र कागजातमा कीर्ते तथा जालसाजी गरिएको दाबी गर्दै लुम्बिनी प्रदेशसभाका सभामुख...",
    "link": "https://nagariknews.nagariknetwork.com/politics/mp-ambika-files-forgery-case-against-five-people-including-lumbini-44-27.html",
@@ -2257,28 +2211,6 @@
    ],
    "cat": "society",
    "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Nepali lawmaker faces privacy backlash over videos of children filmed with smart glasses",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQS1hDTXRHcmZRajdrNUoydlV1Q2ZTcG9SSlVQY0RmYzYtUW1WdGhBWVJVdURNc0kzRzhGd1ZvVERtTFNZQnpUMlJ2SXlnM2pOMm9BM2RUWV9nNkU0TFB0aW9NZEFEakFIQ1ZQMVp1SHR1dC1NM3hXNUdiWWdZeHgxUW5la2VuVnlVajZHZjJzSTZnVk1oLURsX1pCN1VXWHc3TGJnYktObVR1UjZFNzZZWGZqOFQycnZqWE5fZXpSb2x5QjZiM0pqbG1VV3lHZ2M?oc=5",
-   "source": "The Kathmandu Post",
-   "ts": 1793106112,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Nepali lawmaker faces privacy backlash over videos of children filmed with smart glasses",
-   "en": "Nepali lawmaker faces privacy backlash over videos of children filmed with smart glasses",
-   "ne": "Nepali lawmaker faces privacy backlash over videos of children filmed with smart glasses",
-   "imp": 3,
-   "tags": [
-    "Lawmaker",
-    "Privacy"
-   ],
-   "cat": "politics",
-   "val": 3,
    "teaser": false,
    "hits": 1
   },
@@ -6371,8 +6303,8 @@
    "cat": "disaster"
   }
  ],
- "updated": 1793134894,
- "pending_since": null,
+ "updated": 1793135454,
+ "pending_since": 1793135451.468649,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
