@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://gorkhapatraonline.com/news/227184": 1792902666.0797868,
-  "http://english.ratopati.com/story/84454/see-7-photos-of-the-week": 1792902666.0797868,
   "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdDRDajk4bm85X0VFZEIxQm04My0zaTZ6VlN5TmdYSjZfZTRQTE9TXzViRXVSMEE3RUJaWllBTnJZbmdkUkR4TWs1MW5uU05EX1A2LWx4SDdjS3B5WnlwbkhrUFRkNHNjc2hUVUU0RkxYYkxQNEhIV1B1U0pVU0paQk5hcDhDcGx0Z0FKajN5aVRYOU5zSzZDUmV3U0x3VHdNZVhKZ2NFMzJGVFRJZlFiZE1Cemo1VVJiY2VjR3R1N09Idw?oc=5": 1792903249.151376,
   "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZC1oNWoxR1JiTzA2TF9kcDFfcWE1dEZvVEt4Y0ZHSXhPTFVLOGs1S3lZUC0zRmtuNFMyX2cxcmwzUjF0T2E5YmVJTEdkRktibjI3bFNhbVM1Zk42OXlHbGI3dUZmTXhSSWhRdkRodGY0eVUtdzg0MjBkbWQ5NmVmV1k2bW14T2NZQmJNeEoyRWVqN0tWdkHSAZsBQVVfeXFMUHVRMURoWG92dTJldlhfSHpzeG5qUFl2M29waHFiZmd3Ri10ZEoyQndya2RJSTBxXzlVSEtNMmpGVXhVZWRsMHVfRjFyZmxPMDZQNEIwTmxycWh1eUFaY0RGeHF2a1RCY1d3dkRQcEZJVmJXbXNiaGxyVEJINGFuZVplQXRhTHJ0ZXV6OEhJWG90OF9MeURkTG85TEU?oc=5": 1792903847.1850936,
   "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbTV3QnFQdnJPSjk4STVqM0ZfdElLNXRfeXQxa0pfWEFZSm1nNGlRZk5tR0hHMHhZVUlCNmxrRkJiQTM4dlNvUHlWTDhLZ1F1MERqQ25IWjlRRVBNQzdDMGtNUG52YlRJVFZwQ0lRenFCaTdKM2J4ajY5Q1dEcnVSQXpnYmFGaVNxSTk3dlluNVRmMS1ScUxUaHRmM003VFVNNkVMdg?oc=5": 1792903847.1850936,
@@ -1831,7 +1829,10 @@
   "https://gorkhapatraonline.com/news/227369": 1793074845.2980666,
   "https://nagariknews.nagariknetwork.com/sports/work-on-gautam-buddha-cricket-stadium-slows-down-46-78.html": 1793075464.9294374,
   "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUGROdmF6UW5PYmI5Q2J4X0NyNnpnS2pLNUhuYVV4WHNZWTJnVzZpUndqQUJHZDJ0M2tXRFR3eTFRMm4wenJwTnBGdzE5ei1LZDFLaUcybjRDWk1nSE93WnNxUnBVOWFBRWREMUJ2bkxCZlVFT0Z3bFVud3l0Qm1FOUg5bm1GTjhnVGNOWENGMi14UkNfYXlRNHhjYlB2QzRDdi1JTHBKa2FKclNjRjg0?oc=5": 1793075464.9294374,
-  "https://theannapurnaexpress.com/story/68242": 1793075464.9294374
+  "https://theannapurnaexpress.com/story/68242": 1793075464.9294374,
+  "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSEgwSXBzajhyNElGYWNHQUc4eUdvRkRULXlCbE9ZUU1ONFlyNThJeml3N0lmNUFSbFRrNjFfSXQzM0xyX0t3WDRZTEJ2endQaWFjdkI0Z193YzBRaU43VjI0TVQxSTVRZmYzNGtqaVdxeEFIbktXMWtMdzlpTlZWRDBrX3g3dkNHZjE3ak9ZYXBja1ZpamtuREpWSUdBOTh4VkZobmhDMEI?oc=5": 1793076047.2059245,
+  "https://kathmandupost.com/national/2026/10/27/nepal-plans-first-feasibility-study-for-himalayan-tourism-highway": 1793076047.2059245,
+  "http://lokaantar.com/story/331998/2026/10/27/siddarth-bank-": 1793076047.2059245
  },
  "queue": [
   {
@@ -2250,7 +2251,7 @@
    "cat": "education",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "धानखेतमा कागतीखेती, जापान निर्यात गर्ने लक्ष्य",
@@ -2974,7 +2975,7 @@
    "cat": "economy",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "After years of delay, Budhigandaki faces another change of plan",
@@ -8045,7 +8046,7 @@
    "cat": "economy"
   }
  ],
- "updated": 1793075481,
+ "updated": 1793076052,
  "pending_since": 1793075464.9294374,
  "fb_blocks": [
   1790350880.4125228,
