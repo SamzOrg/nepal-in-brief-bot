@@ -1,9 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMU5FeFdjSWZNcjFDM3p6djJvcGhXQ2s2SlJaNEQ2aWJKRk5qS2NZZzU3WlJMcTVZTmxhNlZMaGlEWk5lckc4RUNEWDRZRng5ZW5uWmF6b2VpV0FFdVlrUUxJNnRNT3YzS2hVV25XUl9heUJhSUh0SndKMGZBY3h6dWJlcHJaVjdyU01aNVZ0cEFfNHdYOVlZaFpocUw1Vi1maGZnVkhOMjJmT2tRdV9HLWxLVVZySDl0?oc=5": 1792946452.1288562,
-  "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdmtSMV93a2ZOR2d5N3pZSF9LU0taODhIM0pyelZXdHpxS2paRW5kOWhaUm5vaFMxOENhSHBaSGMzU1djY3poMURoeVpDLXNBTFpCTzg0eG45SFNSNmFFcUZ4QXRPMy04a0lSVG1Od2N5WmRyTkNYZ3EwczBRbEdvWUhsWFRfSkFtR2xRSTlFeFYtOWg4N3k5dUUxb2ZSMVFxakdwcUJKSlM2dw?oc=5": 1792946452.1288562,
-  "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMmw1VWVJdjhSOTdMTGlveWprY2dlQXZDR25sTEZGUVYybFRQaDF2U05pU1Fka2ppVGx4amhBQi04MjJQZnBhejF1NF9GcW1iX3FPa2x2NU55TVFSWUNiaE9uWm1mVXVpTVVCeUxHUkY2d3JfWDJLazJmV21kdzRBbnpUU0YtT3ZsbFd1alZOVzcxS0pEaS1XQmh2TWNxZDBCSzBkaDZES3JMNlRsY1JmN0FhWHJ5Zw?oc=5": 1792946452.1288562,
-  "https://news.google.com/rss/articles/CBMivgFBVV95cUxOS3pTZzZMX2k3WG1hbEtNUG9BYlFlWUp6OVhnWGRuS3lFZEw5STY3c1prVWhUYVByMHpuVzBLQ2h4b3U2Qmctbll5YkFxTlNpRHVRcUdsNXpMLTVHaV9QajhnS1hHWHRvQndERm9XOW0xeTJ3U0hfVi1FYnVGUTB0X1gyNGhuaW83a3loUnZpbl85eEhveE1NZDZ5U21BLWxYRzdxTmo5dmEwTFNmQ1dLSWdoVmo0X1hFSmVQZWJB?oc=5": 1792946452.1288562,
   "https://news.google.com/rss/articles/CBMipAFBVV95cUxQR0MyRThOOGNaa1p2a3pDZU5qUmU0OWNPRXo3blVydTN3UVZMMUQ1ay1McXBMY2loUmxCWHRHZ1JfTm5JNEhETnhtY05CMXpzNEFHd1hIT2hjSEF5OHJyanFNYm12cHdLbDZOcW5wMU1jZUhCZzZQcWdOc2wxcFJYWEJtd0tYeWRqZldSRnh2Q3lQOVJNdjg1WG1wcnJJNjJBQTZTSg?oc=5": 1792947687.9406707,
   "https://gorkhapatraonline.com/news/227235": 1792947687.9406707,
   "http://english.ratopati.com/story/84521/liverpools-impressive-win-brighton-defeated-2-0": 1792948247.7625644,
@@ -2008,7 +2004,8 @@
   "https://baahrakhari.com/detail/505848": 1793118732.5969174,
   "https://nagariknews.nagariknetwork.com/politics/poudel-objects-to-the-arrest-of-a-citizen-who-raised-questions-about-the-appointment-of-the-lumbini-fund-41-27.html": 1793118732.5969174,
   "https://gorkhapatraonline.com/news/227439": 1793118732.5969174,
-  "https://baahrakhari.com/detail/505847": 1793118732.5969174
+  "https://baahrakhari.com/detail/505847": 1793118732.5969174,
+  "https://nagariknews.nagariknetwork.com/politics/preparations-in-full-swing-for-uml-national-gathering-to-be-held-in-november-31-16.html": 1793119255.1714084
  },
  "queue": [
   {
@@ -2141,29 +2138,6 @@
     "Government"
    ],
    "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "'अर्नब' आँधीका कारण श्रीलंकाका सबै विद्यालय बन्द",
-   "summary": "श्रीलंकामा भारी वर्षा भएपछि सरकारले देशभरका सबै विद्यालय बन्द गर्ने निर्णय गरेको छ।",
-   "link": "https://nagariknews.nagariknetwork.com/international/sri-lankan-schools-closed-due-to-cyclone-arnab-52-52.html",
-   "source": "Nagarik News",
-   "ts": 1793090016,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1793089999_srilanka.jpg",
-   "lang": "ne",
-   "hl": "'अर्नब' आँधीका कारण श्रीलंकाका सबै विद्यालय बन्द",
-   "en": "'अर्नब' आँधीका कारण श्रीलंकाका सबै विद्यालय बन्द",
-   "ne": "'अर्नब' आँधीका कारण श्रीलंकाका सबै विद्यालय बन्द",
-   "imp": 1,
-   "tags": [
-    "SriLanka",
-    "Cyclone",
-    "School"
-   ],
-   "cat": "world",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -2304,7 +2278,7 @@
    "cat": "politics",
    "val": 2,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "Nepal: Finance Minister Wagle Triggers Domestic Storm Over Remarks In India",
@@ -2716,29 +2690,6 @@
     "DroneAttack"
    ],
    "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "Weather Alert - U.S. Embassy Nepal (October 27, 2026)",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5EQnp6QlBkOVI4cUs3c0hjQzFzMWZBUlRrVWROMUFtT3dzZERuVzZZdXg4WDNLaEdRRWh6Wno4cFVGbTYxOWdaV2xpYnVER29XNkljS1BFYTRkWnpkcTNSSDgyb2RUbEppNkFPajhlVm12bjE2VTN2ZWVuZG5odw?oc=5",
-   "source": "U.S. Embassy in Nepal (.gov)",
-   "ts": 1793090322,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Weather Alert - U.S. Embassy Nepal (October 27, 2026)",
-   "en": "Weather Alert - U.S. Embassy Nepal (October 27, 2026)",
-   "ne": "Weather Alert - U.S. Embassy Nepal (October 27, 2026)",
-   "imp": 3,
-   "tags": [
-    "WeatherAlert",
-    "USEmbassy",
-    "Nepal"
-   ],
-   "cat": "disaster",
    "val": 3,
    "teaser": false,
    "hits": 2
@@ -9304,8 +9255,8 @@
    "cat": "economy"
   }
  ],
- "updated": 1793118748,
- "pending_since": null,
+ "updated": 1793119259,
+ "pending_since": 1793119255.1714084,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
