@@ -1843,7 +1843,8 @@
   "https://nagariknews.nagariknetwork.com/sports/i-have-taken-npl-as-a-strong-basis-to-enhance-nepal-s-identity-minister-pokharel-92-56.html": 1793064046.429295,
   "https://gorkhapatraonline.com/news/227341": 1793064046.429295,
   "https://nagariknews.nagariknetwork.com/editorial/let-s-avoid-the-cold-31-61.html": 1793064046.429295,
-  "http://english.ratopati.com/story/84671/five-killed-one-arrested-in-guwahati-hotel-shooting": 1793064667.458236
+  "http://english.ratopati.com/story/84671/five-killed-one-arrested-in-guwahati-hotel-shooting": 1793064667.458236,
+  "https://kathmandupost.com/national/2026/10/27/devoid-of-options-flood-survivors-return-to-damaged-homes": 1793065246.7217984
  },
  "queue": [
   {
@@ -1868,30 +1869,6 @@
    "val": 3,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "सामूहिक फूलखेतीबाट आम्दानी गर्दै शिवसताक्षीका महिला",
-   "summary": "भद्रपुर (झापा), कात्तिक १० गते । पहेँलपुर बनेको बारी, ढकमक्क फुलेका सयपत्री । फूलको स्याहारमा व्यस्त महिला । झापाको शिवसताक्षी नगरपालिका-१० ट्याक्रमको दृश्य हो यो । बारीभरि फुलेका...",
-   "link": "https://gorkhapatraonline.com/news/227337",
-   "source": "Gorkhapatra",
-   "ts": 1793036301,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/389024/conversions/fool-kheti-original.jpg",
-   "lang": "ne",
-   "hl": "सामूहिक फूलखेतीबाट आम्दानी गर्दै शिवसताक्षीका महिला",
-   "en": "सामूहिक फूलखेतीबाट आम्दानी गर्दै शिवसताक्षीका महिला",
-   "ne": "सामूहिक फूलखेतीबाट आम्दानी गर्दै शिवसताक्षीका महिला",
-   "imp": 2,
-   "tags": [
-    "Floriculture",
-    "WomenEntrepreneurs",
-    "Jhapa",
-    "फूलखेती"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "एनपीएल सुरक्षार्थ एक हजार १२४ प्रहरी परिचालन",
@@ -5953,7 +5930,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1793064671,
+ "updated": 1793065251,
  "pending_since": 1793064667.458236,
  "fb_blocks": [
   1790350880.4125228,
