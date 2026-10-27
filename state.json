@@ -1,9 +1,5 @@
 {
  "seen": {
-  "http://english.ratopati.com/story/84478/most-government-websites-have-been-down-for-four-days": 1792915845.9965992,
-  "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdllUWUxVX3BPVWRfRC1ibVgtQWd5UW1sNFY0VTlibjdiVjRITmVnUE1STDB6Z2FLLVBSQndWSkxvR1NuNTFxQW5yRFVIMUtkZk1UbmhkLXp2UU5RNmwtVjNPLXljTFZvaDdwYjRsdmZjaGdIZjUxdzhVVVpkUWJta3lQUENnQmtSTWoyLTJLZ3ZNWVBDaVJsWGZyX1A0ZDRYdERjZWJ1REpMMkpCY0JQeWZtdXk?oc=5": 1792915845.9965992,
-  "https://english.onlinekhabar.com/work-underway-to-reopen-flood-damaged-benighat-arughat-larke-road-in-gorkha.html": 1792915845.9965992,
-  "https://gorkhapatraonline.com/news/227205": 1792915845.9965992,
   "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vd3dJdXBQMjN4eWlzV2RDN25DZmNnZlBtRnNOdGJWelJfOF8xbnZ6NW4yckRfU1ZkcGg2Vlc0LWxLY3FwMmRkbXY1blZyclZpQndxYXpRb2RsUQ?oc=5": 1792916446.9569633,
   "http://english.ratopati.com/story/84480/65-vehicle-accidents-in-karnali-during-dashain-6-people-killed": 1792917067.3615932,
   "http://english.ratopati.com/story/84481/will-the-ncps-awareness-campaign-reverse-the-disappointing-results-of-the-past": 1792917650.3882842,
@@ -1902,7 +1898,9 @@
   "https://english.onlinekhabar.com/birgunj-port-monitored.html": 1793088090.5029469,
   "https://baahrakhari.com/detail/505795": 1793088090.5029469,
   "https://nagariknews.nagariknetwork.com/arts/neil-young-files-10-million-lawsuit-against-trump-for-using-his-song-without-permission-87-10.html": 1793088090.5029469,
-  "https://english.onlinekhabar.com/cyclone-arnab-forms-in-bay-of-bengal.html": 1793088090.5029469
+  "https://english.onlinekhabar.com/cyclone-arnab-forms-in-bay-of-bengal.html": 1793088090.5029469,
+  "https://nagariknews.nagariknetwork.com/social-affairs/morang-district-administration-urges-people-to-exercise-caution-after-heavy-rain-warning-32-96.html": 1793088655.2849083,
+  "https://news.google.com/rss/articles/CBMiswFBVV95cUxPM2xwdEdROVlxYkFDdVAyVmgyWWN3QjcwRE9RcE9Xbkdpa3R6R1pROE1lenN4X1ZXQVVpN1hnUU5ENm1UU0Q5RTlYejFUREVudTRqSFZUNXJZVzVXdlBuVU1hQW5DY2NMdU9QSUVqWUs0cDg2MmNGNHpYaW95YUtIdXF1U0R3b2lnZDFxZWV3c1NkNlIzSm5YdEIwY2xoRVZMUTRXV0JuY2dQTk9xdGhBY3J6dw?oc=5": 1793088655.2849083
  },
  "queue": [
   {
@@ -3496,7 +3494,7 @@
    "cat": "world",
    "val": 3,
    "teaser": false,
-   "hits": 8
+   "hits": 9
   },
   {
    "title": "Barca's big-game defeats pose familiar questions",
@@ -4345,7 +4343,7 @@
    "cat": "disaster",
    "val": 3,
    "teaser": false,
-   "hits": 3
+   "hits": 4
   },
   {
    "title": "झापामा तीन लाखभन्दा बढीका पटका बरामद गरी नष्ट",
@@ -10639,7 +10637,7 @@
    "cat": "society"
   }
  ],
- "updated": 1793088114,
+ "updated": 1793088660,
  "pending_since": 1793088090.5029469,
  "fb_blocks": [
   1790350880.4125228,
