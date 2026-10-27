@@ -2121,28 +2121,6 @@
    "hits": 1
   },
   {
-   "title": "Two Indian Women Arrested with Thai Ganja at Kathmandu Airport",
-   "summary": "Kathmandu. Police have arrested two Indian women from Tribhuvan International Airport with Thai ganja. Police deployed from the Narcotics Control...",
-   "link": "http://english.ratopati.com/story/84754/two-indian-women-arrested-with-14-kg-of-thai-marijuana-at-airport",
-   "source": "Ratopati EN",
-   "ts": 1793109691,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/pk_YZ5vgRdLja.webp",
-   "lang": "en",
-   "hl": "Two Indian Women Arrested with Thai Ganja at Kathmandu Airport",
-   "en": "Two Indian Women Arrested with Thai Ganja at Kathmandu Airport",
-   "ne": "Two Indian Women Arrested with Thai Ganja at Kathmandu Airport",
-   "imp": 3,
-   "tags": [
-    "TribhuvanInternationalAirport",
-    "DrugArrest"
-   ],
-   "cat": "crime",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Hereford midwives travelling to Nepal to train health staff",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1IRXY2NXl5V1hBVGo4a056dFVXYjFMTW9oaTI0XzcyT25EcW1mRUNlZ21pcG94amRXZ2ZNUXp6V2luaXROTEczWnBEdUY2OURZSFlrZTd0YjVXcGc?oc=5",
@@ -2258,30 +2236,6 @@
    "cat": "society",
    "val": 1,
    "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "खल्तीको कर्मचारी भन्दै ठगी गरेको आरोपमा चार जना पक्राउ",
-   "summary": "प्रहरीका अनुसार पक्राउ परेका व्यक्तिहरूले आफू खल्ती प्रालिको कर्मचारी भएको बताउँदै सर्वसाधारणलाई फोन तथा ह्वाट्सएपमार्फत सम्पर्क गर्ने गरेका थिए।...",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/four-arrested-for-fraud-claiming-to-be-khalti-employees-64-82.html",
-   "source": "Nagarik News",
-   "ts": 1793110014,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1784470130_pakrau.jpg",
-   "lang": "ne",
-   "hl": "खल्तीको कर्मचारी भन्दै ठगी गरेको आरोपमा चार जना पक्राउ",
-   "en": "खल्तीको कर्मचारी भन्दै ठगी गरेको आरोपमा चार जना पक्राउ",
-   "ne": "खल्तीको कर्मचारी भन्दै ठगी गरेको आरोपमा चार जना पक्राउ",
-   "imp": 3,
-   "tags": [
-    "Fraud",
-    "Police",
-    "Arrest",
-    "ठगी"
-   ],
-   "cat": "crime",
-   "val": 3,
-   "teaser": false,
    "hits": 1
   },
   {
@@ -5893,8 +5847,8 @@
    "cat": "disaster"
   }
  ],
- "updated": 1793138491,
- "pending_since": null,
+ "updated": 1793139055,
+ "pending_since": 1793139051.445191,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
