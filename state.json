@@ -1,8 +1,5 @@
 {
  "seen": {
-  "https://nagariknews.nagariknetwork.com/social-affairs/more-than-500-cyclists-visit-seven-heritage-sites-in-the-valley-carrying-the-message-of-ending-polio-br-94-78.html": 1792891248.3819985,
-  "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeEc2T1RxUW5tbXB3NVJmUklyYV8wdGJnZFlRdEZiYnlFS2lsYUxKZldYUUtRVTdRRWI5WWNrLUNUamJCTHZJaUM1QTc2eGlKcnNDZE4ySFpDR0JmVDV5MUlkd2FrcXVuc3hZMnBYNWtIM1VrLUFxTW9DbUZNSkR6eHY5aFFJUUE3aEp4RmpfQWxtZGZYVXRYUHhyQUpKQVBH?oc=5": 1792891248.3819985,
-  "https://nagariknews.nagariknetwork.com/politics/minister-pun-s-interest-in-phaparkhet-landslide-and-protection-of-singa-tatopani-pond-br-40-67.html": 1792891248.3819985,
   "https://risingnepaldaily.com/news/87995": 1792892448.668513,
   "https://gorkhapatraonline.com/news/227168": 1792892448.668513,
   "http://english.ratopati.com/story/84438/bagmati-river-cleaning-campaign-continues": 1792892448.668513,
@@ -1845,7 +1842,8 @@
   "https://gorkhapatraonline.com/news/227342": 1793064046.429295,
   "https://nagariknews.nagariknetwork.com/sports/i-have-taken-npl-as-a-strong-basis-to-enhance-nepal-s-identity-minister-pokharel-92-56.html": 1793064046.429295,
   "https://gorkhapatraonline.com/news/227341": 1793064046.429295,
-  "https://nagariknews.nagariknetwork.com/editorial/let-s-avoid-the-cold-31-61.html": 1793064046.429295
+  "https://nagariknews.nagariknetwork.com/editorial/let-s-avoid-the-cold-31-61.html": 1793064046.429295,
+  "http://english.ratopati.com/story/84671/five-killed-one-arrested-in-guwahati-hotel-shooting": 1793064667.458236
  },
  "queue": [
   {
@@ -3024,20 +3022,32 @@
    "val": 1,
    "teaser": true,
    "hits": 1
+  },
+  {
+   "title": "Five Dead in Guwahati Hotel Shooting",
+   "summary": "Assam. Five people, including a woman, have died and some others have been injured in a shooting at a hotel...",
+   "link": "http://english.ratopati.com/story/84671/five-killed-one-arrested-in-guwahati-hotel-shooting",
+   "source": "Ratopati EN",
+   "ts": 1793064588,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/guwahati-firing-incident-1793034900640_pdTsCmaNiy.webp",
+   "lang": "en",
+   "hl": "Five Dead in Guwahati Hotel Shooting",
+   "en": "Five Dead in Guwahati Hotel Shooting",
+   "ne": "Five Dead in Guwahati Hotel Shooting",
+   "imp": 1,
+   "tags": [
+    "Guwahati",
+    "HotelShooting",
+    "India"
+   ],
+   "cat": "crime",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1792459262.0382035,
-   "en": "काठमाडौं भित्र्याउन खोजिएको ७२ हजारभन्दा बढी ट्रामाडोल बरामद, दुई पक्राउ",
-   "ne": "काठमाडौं भित्र्याउन खोजिएको ७२ हजारभन्दा बढी ट्रामाडोल बरामद, दुई पक्राउ",
-   "link": "https://www.setopati.com/social/401119",
-   "source": "Setopati",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "crime"
-  },
   {
    "ts": 1792461055.2250748,
    "en": "इक्वेडरको चर्चमा प्रार्थना चलिरहेका बेला क्रस खस्दा पादरीको मृत्यु",
@@ -5943,8 +5953,8 @@
    "cat": "disaster"
   }
  ],
- "updated": 1793064070,
- "pending_since": null,
+ "updated": 1793064671,
+ "pending_since": 1793064667.458236,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
