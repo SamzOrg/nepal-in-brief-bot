@@ -1818,7 +1818,9 @@
   "https://baahrakhari.com/detail/505762": 1793060450.0720143,
   "https://risingnepaldaily.com/news/88080": 1793060450.0720143,
   "https://theannapurnaexpress.com/story/68237": 1793060450.0720143,
-  "https://theannapurnaexpress.com/story/68236": 1793060450.0720143
+  "https://theannapurnaexpress.com/story/68236": 1793060450.0720143,
+  "https://www.setopati.com/social/401356": 1793061646.7407877,
+  "https://theannapurnaexpress.com/story/68239": 1793061646.7407877
  },
  "queue": [
   {
@@ -2372,6 +2374,29 @@
     "Trade"
    ],
    "cat": "world",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "6 killed, 3 injured in Gulmi Scorpio jeep accident",
+   "summary": "Six people died and three others sustained injuries in a Scorpio jeep accident in Gulmi.The jeep (BAA 0220) heading towards Rakse in Gulmi from Chirkot in Syangja fell some 250 meters down the road at Dabaukhani...",
+   "link": "https://theannapurnaexpress.com/story/68239",
+   "source": "Annapurna Express",
+   "ts": 1793047247.9257581,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "6 killed, 3 injured in Gulmi Scorpio jeep accident",
+   "en": "6 killed, 3 injured in Gulmi Scorpio jeep accident",
+   "ne": "6 killed, 3 injured in Gulmi Scorpio jeep accident",
+   "imp": 4,
+   "tags": [
+    "Gulmi",
+    "RoadAccident",
+    "दुर्घटना"
+   ],
+   "cat": "disaster",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -5283,7 +5308,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1793061072,
+ "updated": 1793061650,
  "pending_since": 1793060570.2867694,
  "fb_blocks": [
   1790350880.4125228,
