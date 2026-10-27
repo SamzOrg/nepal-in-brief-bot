@@ -1,6 +1,5 @@
 {
  "seen": {
-  "http://lokaantar.com/story/331854/2026/10/25/payo-jatra-": 1792888268.1476145,
   "https://risingnepaldaily.com/news/87991": 1792888847.336285,
   "https://nagariknews.nagariknetwork.com/social-affairs/expansion-of-vegetable-and-rice-cultivation-area-in-tanahun-83-82.html": 1792888847.336285,
   "https://www.setopati.com/social/401236": 1792889449.8279927,
@@ -1911,29 +1910,6 @@
    "val": 3,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "One Thousand Packets of Cigarettes Seized at Tribhuvan International Airport",
-   "summary": "Kathmandu. Police have recovered one thousand packets of cigarettes that were being sent abroad illegally from the cargo complex building...",
-   "link": "http://english.ratopati.com/story/84660/one-thousand-packets-of-cigarettes-intended-for-export-seized",
-   "source": "Ratopati EN",
-   "ts": 1793032263,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/tribhuwan-airport-tia_5cwb9gzvhw_rUIvrQH9sh.jpg",
-   "lang": "en",
-   "hl": "One Thousand Packets of Cigarettes Seized at Tribhuvan International Airport",
-   "en": "One Thousand Packets of Cigarettes Seized at Tribhuvan International Airport",
-   "ne": "One Thousand Packets of Cigarettes Seized at Tribhuvan International Airport",
-   "imp": 2,
-   "tags": [
-    "TIA",
-    "Smuggling",
-    "TribhuvanInternationalAirport"
-   ],
-   "cat": "crime",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "चिनियाँ भाषामा अनूदित छ वटा नेपाली पुस्तक लोकार्पण",
@@ -5307,7 +5283,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1793060576,
+ "updated": 1793061072,
  "pending_since": 1793060570.2867694,
  "fb_blocks": [
   1790350880.4125228,
