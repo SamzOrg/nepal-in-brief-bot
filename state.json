@@ -2039,7 +2039,9 @@
   "https://nagariknews.nagariknetwork.com/social-affairs/cyclone-arnab-s-impact-from-thursday-risk-of-heavy-rain-and-snowfall-on-friday-and-saturday-29-72.html": 1793151646.7199907,
   "http://lokaantar.com/story/332049/2026/10/28/game-": 1793151646.7199907,
   "http://english.ratopati.com/story/84778/follow-these-steps-to-get-relief-from-constipation": 1793151646.7199907,
-  "https://gorkhapatraonline.com/news/227458": 1793151646.7199907
+  "https://gorkhapatraonline.com/news/227458": 1793151646.7199907,
+  "http://lokaantar.com/story/332056/2026/10/28/accident-": 1793152884.884018,
+  "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZGlWSXFjR0lwTnppNVVaSFV5QUV2WkNYSUU0YjJTdjVCbEZlSXFLOF9hd0ZjZWFfcEprQWJxdWE0Njdrb0xneklieXdLSkpjMTZySmJwc29qM2Z1SEh1U1psclNlS3hxUG1Gc1JaVG9XT09yQW9GT1VnQklZa0MyaGR3S3hqWEJfMldVQjhpZVp0RVRzUGVkTm4tRWhaMmctZ1l3Q3lFM1JTSWdfeGZRMzNtMHNBRC1PbnhmVnF6ODZDb0hPdDdScA?oc=5": 1793152884.884018
  },
  "queue": [
   {
@@ -3683,20 +3685,33 @@
    "val": 2,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "Nepal calls off search for flood survivors as six South Africans remain missing",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZGlWSXFjR0lwTnppNVVaSFV5QUV2WkNYSUU0YjJTdjVCbEZlSXFLOF9hd0ZjZWFfcEprQWJxdWE0Njdrb0xneklieXdLSkpjMTZySmJwc29qM2Z1SEh1U1psclNlS3hxUG1Gc1JaVG9XT09yQW9GT1VnQklZa0MyaGR3S3hqWEJfMldVQjhpZVp0RVRzUGVkTm4tRWhaMmctZ1l3Q3lFM1JTSWdfeGZRMzNtMHNBRC1PbnhmVnF6ODZDb0hPdDdScA?oc=5",
+   "source": "IOL",
+   "ts": 1793145626,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "Nepal calls off search for flood survivors as six South Africans remain missing",
+   "en": "Nepal calls off search for flood survivors as six South Africans remain missing",
+   "ne": "Nepal calls off search for flood survivors as six South Africans remain missing",
+   "imp": 4,
+   "tags": [
+    "Flood",
+    "SouthAfrica",
+    "SearchAndRescue",
+    "बाढी"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1792547451.9254215,
-   "en": "Nepal's green transition needs more women in technical roles",
-   "ne": "Nepal's green transition needs more women in technical roles",
-   "link": "https://theannapurnaexpress.com/story/68111",
-   "source": "Annapurna Express",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "other"
-  },
   {
    "ts": 1792549257.666206,
    "en": "PM Balen Shah calls for unity to eliminate corruption and political unrest",
@@ -6646,7 +6661,7 @@
    "cat": "politics"
   }
  ],
- "updated": 1793152275,
+ "updated": 1793152891,
  "pending_since": 1793151646.7199907,
  "fb_blocks": [
   1790350880.4125228,
