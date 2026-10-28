@@ -1,11 +1,5 @@
 {
  "seen": {
-  "https://risingnepaldaily.com/news/88042": 1792987282.7115684,
-  "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZDRVS0l0RGE5ME53NEJpbnY3QkYwYlB4Rl9UVWdmcUJWUWRNNEF2US16LWhlblpSYnFJbWx2dWZ1bVlhYzdGSmRkcDI4Y0JGVDQxWGVvLUxzLUtiSW9JMHJ0a01neXoyMVYyUHM0N3NvX0hhZGgxal8xVWNPRmxLWXl3dkJqRWdkVXgxWXVFcFdOcEttMlg0Nlpxdmh1UVRCc3dpRzZCM2lEYXI1N0FLRWxXMXFyZHp2TS1ETWV0MTlrOFlqdU1zTnJ5aEpjQ1dyR3U3ZXM3S3Y?oc=5": 1792987282.7115684,
-  "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcHFPWkY5MlJMd0h0WGV0aldJVkpjLXdpcFA3M3NwS1JQTm9pcGtibEt4U0M4Ykx5eUl6NXNZS3Bzc0pPT1NGTmZJVkJvQy13NU53UlhncjBBenFRdkZPY01pRF9nQUJHUGxDWjZQakQ3dEUwLUhEaWJWQ2ZIVFFhNmxuMjdYaFlTSGU4cE16NFBnLWlxZTlpNElyTDJlVnlSNk45S0MzS21JUWxadEh6cVNuY2NQRDN3OUI5MGdGOWt3SXVYTVE?oc=5": 1792987282.7115684,
-  "https://baahrakhari.com/detail/505682": 1792987282.7115684,
-  "https://english.khabarhub.com/2026/26/573172/": 1792987282.7115684,
-  "https://english.onlinekhabar.com/bhotekoshi-floods-damage-2.html": 1792987282.7115684,
   "https://kathmandupost.com/province-no-1/2026/10/26/divers-search-for-three-missing-after-boat-accident-in-saptakoshi-river": 1792987853.8478131,
   "https://nagariknews.nagariknetwork.com/social-affairs/driver-dies-in-vehicle-accident-81-36.html": 1792988447.5065272,
   "http://english.ratopati.com/story/84554/sri-lankan-batter-kusal-perera-signed-with-janakpur-bolts": 1792988447.5065272,
@@ -2042,32 +2036,11 @@
   "https://www.setopati.com/kinmel/banking/401426": 1793159450.4285908,
   "https://baahrakhari.com/detail/505867": 1793159450.4285908,
   "https://gorkhapatraonline.com/news/227473": 1793159450.4285908,
-  "https://gorkhapatraonline.com/news/227472": 1793159450.4285908
+  "https://gorkhapatraonline.com/news/227472": 1793159450.4285908,
+  "http://english.ratopati.com/story/84794/what-technologies-were-used-for-search-and-rescue-during-the-disaster": 1793160084.243879,
+  "https://nagariknews.nagariknetwork.com/social-affairs/2071-flood-victims-fear-being-displaced-again-br-12-82.html": 1793160084.243879
  },
  "queue": [
-  {
-   "title": "Movie Review: In 'Everest: The Other Side,' tragedy and triumph intermingle on the peaks of Nepal",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPODV5ZFM4dDRnVkFEVFY1QUpzMS1xOTgzQm53dmZjcXk4Y3V3MXhBM1EwY09TSWdRckNQOWZNQ3RpSnJaQXBTeTFXRmRLMGdSTlB5YmMwY0RWVm9tQTJYYjcwR0hjOW8xNGVuOVlqYUVYOTRQZFJaOC1lbTVYSUdMb3RBWEVEN2Jta2xUMF85TndzblFKRnd1WGRnUTUyakE?oc=5",
-   "source": "Yahoo",
-   "ts": 1793131126,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Movie Review: In 'Everest: The Other Side,' tragedy and triumph intermingle on the peaks of Nepal",
-   "en": "Movie Review: In 'Everest: The Other Side,' tragedy and triumph intermingle on the peaks of Nepal",
-   "ne": "Movie Review: In 'Everest: The Other Side,' tragedy and triumph intermingle on the peaks of Nepal",
-   "imp": 2,
-   "tags": [
-    "Everest",
-    "MovieReview",
-    "Nepal"
-   ],
-   "cat": "culture",
-   "val": 2,
-   "teaser": false,
-   "hits": 6
-  },
   {
    "title": "Climber dies in 1,500-metre fall on Nepal mountain",
    "summary": "",
@@ -5212,20 +5185,53 @@
    "val": 1,
    "teaser": true,
    "hits": 1
+  },
+  {
+   "title": "Woman Rescued Alive After 11 Days Buried in Flood Debris",
+   "summary": "Kathmandu. It had been 11 days since the flood in Bhote Koshi, Rasuwa. While searching for houses buried in Betrawati,...",
+   "link": "http://english.ratopati.com/story/84794/what-technologies-were-used-for-search-and-rescue-during-the-disaster",
+   "source": "Ratopati EN",
+   "ts": 1793159814,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/trishuli-3-a-(1)_AhhlrbjKcN.webp",
+   "lang": "en",
+   "hl": "Woman Rescued Alive After 11 Days Buried in Flood Debris",
+   "en": "Woman Rescued Alive After 11 Days Buried in Flood Debris",
+   "ne": "Woman Rescued Alive After 11 Days Buried in Flood Debris",
+   "imp": 3,
+   "tags": [
+    "Flood",
+    "Rescue"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "फेरि बास खोसिने त्रासमा २०७१ का बाढीपीडित",
+   "summary": "अहिले यही बजारको बिचबाट बनेको सडक कालोपत्रे भएको छ। बाबियाचौरबाट तातापानी हुँदै यो सडक पर्यटकीय क्षेत्र चिसापानी पुग्छ।...",
+   "link": "https://nagariknews.nagariknetwork.com/social-affairs/2071-flood-victims-fear-being-displaced-again-br-12-82.html",
+   "source": "Nagarik News",
+   "ts": 1793157987,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2026/third-party/1793158572_kitu%2098.jpg",
+   "lang": "ne",
+   "hl": "फेरि बास खोसिने त्रासमा २०७१ का बाढीपीडित",
+   "en": "फेरि बास खोसिने त्रासमा २०७१ का बाढीपीडित",
+   "ne": "फेरि बास खोसिने त्रासमा २०७१ का बाढीपीडित",
+   "imp": 2,
+   "tags": [
+    "Flood",
+    "बाढी"
+   ],
+   "cat": "disaster",
+   "val": 2,
+   "teaser": true,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1792554658.0995486,
-   "en": "Nepali worker killed in compression equipment accident at Nonsan factory",
-   "ne": "Nepali worker killed in compression equipment accident at Nonsan factory",
-   "link": "https://www.koreajoongangdaily.com/korea/nepali-worker-killed-in-factory-accident-in-nonsan/12931033",
-   "source": "Korea JoongAng Daily",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "crime"
-  },
   {
    "ts": 1792556459.177967,
    "en": "France to Deploy Troops and Overhaul Tactics After Weekend Unrest",
@@ -8175,8 +8181,8 @@
    "cat": "disaster"
   }
  ],
- "updated": 1793159511,
- "pending_since": null,
+ "updated": 1793160089,
+ "pending_since": 1793160084.243879,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
