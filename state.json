@@ -2052,7 +2052,10 @@
   "https://gorkhapatraonline.com/news/227487": 1793163048.5320864,
   "https://gorkhapatraonline.com/news/227486": 1793163048.5320864,
   "https://gorkhapatraonline.com/news/227485": 1793163048.5320864,
-  "https://gorkhapatraonline.com/news/227484": 1793163048.5320864
+  "https://gorkhapatraonline.com/news/227484": 1793163048.5320864,
+  "https://baahrakhari.com/detail/505876": 1793163685.730931,
+  "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORFZsWG1fdGI5ak4wR2dGUkxUWUtxSjZ3RWJtQWdERFNPcGIxaks1NEozbldFZG1JSGxweWwxaE8wTmNZQm13SGcxSjZsbFRDenRvMXY5amFPSVdpUmxONDExdEZLOVhhdmdaZW5QVXdYZmJUc2t2REp6TTUtV3YzcmNxemNPdldISmlaX3NhOXJvZWJnTVpQRTM3MVR4blN6dnlRZ19LOE16WmhWSlVzakJucTJmc1BYU1RmY1B5Vi1aUFVpMFlrRg?oc=5": 1793163685.730931,
+  "https://www.setopati.com/social/401441": 1793163685.730931
  },
  "queue": [
   {
@@ -5724,7 +5727,7 @@
    "cat": "disaster",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Nepal plans first feasibility study for Himalayan tourism highway",
@@ -5839,7 +5842,7 @@
    "cat": "health",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Fourth-tier Fleetwood stun Arsenal in League Cup shootout",
@@ -6024,20 +6027,32 @@
    "val": 2,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "चिर्पट प्रहारबाट एक जनाको मृत्यु",
+   "summary": "सुर्खेतमा चिर्पट प्रहारबाट घाइते भएका एक जनाको मृत्यु भएको छ।",
+   "link": "https://www.setopati.com/social/401441",
+   "source": "Setopati",
+   "ts": 1793163171,
+   "weight": 3,
+   "img": null,
+   "lang": "ne",
+   "hl": "चिर्पट प्रहारबाट एक जनाको मृत्यु",
+   "en": "चिर्पट प्रहारबाट एक जनाको मृत्यु",
+   "ne": "चिर्पट प्रहारबाट एक जनाको मृत्यु",
+   "imp": 3,
+   "tags": [
+    "Crime",
+    "Murder",
+    "हत्या"
+   ],
+   "cat": "crime",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1792558252.3860662,
-   "en": "RSP Chair Rabi Lamichhane calls for unity and hope in Dashain message",
-   "ne": "RSP Chair Rabi Lamichhane calls for unity and hope in Dashain message",
-   "link": "https://english.khabarhub.com/2026/21/572755/",
-   "source": "Khabarhub EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "politics"
-  },
   {
    "ts": 1792560059.0557137,
    "en": "AAHOA Charitable Foundation to Send Aid and Volunteers to Nepal Flood Victims in January",
@@ -8987,8 +9002,8 @@
    "cat": "disaster"
   }
  ],
- "updated": 1793163070,
- "pending_since": null,
+ "updated": 1793163709,
+ "pending_since": 1793163685.730931,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
