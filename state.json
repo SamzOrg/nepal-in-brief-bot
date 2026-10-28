@@ -2031,7 +2031,10 @@
   "https://baahrakhari.com/detail/505928": 1793192489.2277625,
   "https://theannapurnaexpress.com/story/68290": 1793192489.2277625,
   "https://nagariknews.nagariknetwork.com/politics/ministry-of-labor-urges-people-not-to-spread-misleading-information-about-malaysian-employment-br-13-11.html": 1793193051.087657,
-  "https://news.google.com/rss/articles/CBMivwFBVV95cUxNc3ptbnRnQk1iNW1hYk84SkRTWGxFbFpjaG1yeV8tTUtrNUZCS3ZqY0Q0V2FXdmZ4akhkQmhjdk9CbUlDc0daUm1HTlFhcHkzTlRIcWNZTTdVaE15LW1nQmNWZkhmRnRzMzlueDRlU0VTVGJDY29sOE9wMHo1bnN4eXdwZzVCVzFZdWRrSzdUVFFJTlA5dUNvSlBvSHR0Y0lhWV85XzFhSjMxU3lFaDFPOUZvRjJydVNzendOR2lZYw?oc=5": 1793193051.087657
+  "https://news.google.com/rss/articles/CBMivwFBVV95cUxNc3ptbnRnQk1iNW1hYk84SkRTWGxFbFpjaG1yeV8tTUtrNUZCS3ZqY0Q0V2FXdmZ4akhkQmhjdk9CbUlDc0daUm1HTlFhcHkzTlRIcWNZTTdVaE15LW1nQmNWZkhmRnRzMzlueDRlU0VTVGJDY29sOE9wMHo1bnN4eXdwZzVCVzFZdWRrSzdUVFFJTlA5dUNvSlBvSHR0Y0lhWV85XzFhSjMxU3lFaDFPOUZvRjJydVNzendOR2lZYw?oc=5": 1793193051.087657,
+  "https://nagariknews.nagariknetwork.com/sports/arjun-gharti-s-excellent-batting-far-west-set-a-target-of-146-runs-br-60-18.html": 1793193651.614629,
+  "https://kathmandupost.com/sports/2026/10/28/pokhara-set-sudurpaschim-a-target-of-146-in-npl": 1793193651.614629,
+  "http://lokaantar.com/story/332090/2026/10/28/pokhara-vs-sudurpaschim-": 1793193651.614629
  },
  "queue": [
   {
@@ -2081,52 +2084,6 @@
    "hits": 1
   },
   {
-   "title": "इसराइलमा एक तिहाई बढी मत गनिसक्दा नेतन्याहूको लिकुड पार्टीको अग्रता",
-   "summary": "टाइम्स अफ इसराइलले सार्वजनिक गरेको प्रारम्भिक परिणामअनुसार नेतन्याहूको गठबन्धनले ५७ सिट पाउने देखिएको छ।",
-   "link": "https://www.setopati.com/politics/401443",
-   "source": "Setopati",
-   "ts": 1793164598,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "इसराइलमा एक तिहाई बढी मत गनिसक्दा नेतन्याहूको लिकुड पार्टीको अग्रता",
-   "en": "इसराइलमा एक तिहाई बढी मत गनिसक्दा नेतन्याहूको लिकुड पार्टीको अग्रता",
-   "ne": "इसराइलमा एक तिहाई बढी मत गनिसक्दा नेतन्याहूको लिकुड पार्टीको अग्रता",
-   "imp": 1,
-   "tags": [
-    "Israel",
-    "Netanyahu",
-    "Elections"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Construction of Karnali fuel depot gains momentum",
-   "summary": "By Our Correspondent, Surkhet, Oct. 28: The construction of the fuel storage depot in Karnali Province is progressing ra...",
-   "link": "https://risingnepaldaily.com/news/88139",
-   "source": "Rising Nepal",
-   "ts": 1793164464,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Construction of Karnali fuel depot gains momentum",
-   "en": "Construction of Karnali fuel depot gains momentum",
-   "ne": "Construction of Karnali fuel depot gains momentum",
-   "imp": 2,
-   "tags": [
-    "Karnali",
-    "FuelDepot",
-    "Infrastructure"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Risk of heavy rain and windstorms in Dhankuta, administration urges high alert",
    "summary": "Dhankuta, October 28 After the cyclone that developed in the Bay of Bengal grew stronger, the District Administration Office, Dhankuta, has urged people to remain on high alert, saying heavy rain and windstorms are...",
    "link": "https://english.onlinekhabar.com/risk-of-heavy-rain-dhankuta.html",
@@ -2146,74 +2103,6 @@
    ],
    "cat": "disaster",
    "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "चीन-जापान सम्बन्ध सुधार्न पुराना सहमति पालना गर्न सीको आग्रह",
-   "summary": "चिनियाँ राष्ट्रपति सी जिनपिङले जापानको वर्तमान नेतृत्वलाई दुई देशबिच भएका पुराना सहमति पालना गर्दै सम्बन्धको राजनीतिक आधार जोगाउन आग्रह गरेका छन्।...",
-   "link": "https://nagariknews.nagariknetwork.com/international/xi-urges-adherence-to-old-agreements-to-improve-china-japan-relations-72-86.html",
-   "source": "Nagarik News",
-   "ts": 1793164826,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1787899912_Xi%20chairs%20CPC%20leadership%20meeting.jpg",
-   "lang": "ne",
-   "hl": "चीन-जापान सम्बन्ध सुधार्न पुराना सहमति पालना गर्न सीको आग्रह",
-   "en": "चीन-जापान सम्बन्ध सुधार्न पुराना सहमति पालना गर्न सीको आग्रह",
-   "ne": "चीन-जापान सम्बन्ध सुधार्न पुराना सहमति पालना गर्न सीको आग्रह",
-   "imp": 1,
-   "tags": [
-    "China",
-    "Japan",
-    "XiJinping"
-   ],
-   "cat": "world",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Nepali Congress District and Provincial Conventions to be Held in Mangsir",
-   "summary": "Kathmandu. The district and provincial conventions of the Nepali Congress will be held in Mangsir. Newly elected General Secretary Udaya...",
-   "link": "http://english.ratopati.com/story/84798/nepali-congress-provincial-and-district-conventions-to-be-held-in-mangsir",
-   "source": "Ratopati EN",
-   "ts": 1793164673,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/congress-office-(1)_jngkj3r13m_7PHWnhfPpk.jpg",
-   "lang": "en",
-   "hl": "Nepali Congress District and Provincial Conventions to be Held in Mangsir",
-   "en": "Nepali Congress District and Provincial Conventions to be Held in Mangsir",
-   "ne": "Nepali Congress District and Provincial Conventions to be Held in Mangsir",
-   "imp": 2,
-   "tags": [
-    "NepaliCongress",
-    "Convention",
-    "राजनीति"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "काला पाँडे गोरा पाँडे",
-   "summary": "गोर्खा राज्यका संस्थापक राजा द्रव्य शाह हुन् । द्रव्य शाहले विसं १६१६ मा गोरखा राज्य स्थापना गरेसँगै राजकाज सञ्चालनार्थ थरघर प्रथा सुरु गरेका थिए । थरघर अन्तर्गत अज्र्याल, पाँडे, प...",
-   "link": "https://gorkhapatraonline.com/news/227493",
-   "source": "Gorkhapatra",
-   "ts": 1793164691,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/389248/conversions/121-original.jpg",
-   "lang": "ne",
-   "hl": "काला पाँडे गोरा पाँडे",
-   "en": "काला पाँडे गोरा पाँडे",
-   "ne": "काला पाँडे गोरा पाँडे",
-   "imp": 1,
-   "tags": [
-    "Poetry",
-    "साहित्य"
-   ],
-   "cat": "culture",
-   "val": 1,
    "teaser": false,
    "hits": 1
   },
@@ -5621,7 +5510,7 @@
    "cat": "sports",
    "val": 3,
    "teaser": false,
-   "hits": 4
+   "hits": 5
   },
   {
    "title": "स्पेनमा रेल दुर्घटना, कम्तीमा १० जनाको मृत्यु",
@@ -11105,7 +10994,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1793193055,
+ "updated": 1793193680,
  "pending_since": 1793193051.087657,
  "fb_blocks": [
   1790350880.4125228,
