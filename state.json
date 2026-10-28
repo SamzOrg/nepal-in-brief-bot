@@ -2040,7 +2040,9 @@
   "https://english.onlinekhabar.com/parkinsons-disease-tremor.html": 1793157652.8121076,
   "http://english.ratopati.com/story/84791/sri-lankan-wicketkeeper-sadira-sameera-wickramasinghe-signs-with-pawakhara-avengers": 1793158270.6826417,
   "https://news.google.com/rss/articles/CBMingFBVV95cUxNb2RNLXNLd0tpSnljdjBFeHBtbFAxUUY2YU5LWkRENlllM3lOOXlyaDFqd3hmLVg4MmQxWTJFVktiNWc0dlRHX3VuU0YwU0dObGVzODg5U1dSNHRlSjdQdjFCcEtrT3FEM2RNemZZOWtBZXc3bl81TTMzOEp0WlBObWhZemsyVHN2UktJTUJPTVdkODJ1bmQ4c1lyQXl1QQ?oc=5": 1793158270.6826417,
-  "https://gorkhapatraonline.com/news/227475": 1793158270.6826417
+  "https://gorkhapatraonline.com/news/227475": 1793158270.6826417,
+  "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5JUTU0Z3phc1hfYU1TSHQ4ZFJncVZEdDA5TXlnNFdHclkzWkFBMzh1WEhkT24yRzR2RERUQWE1REpTNkVTbi1EdE5xOHB6SWxmY0tnS18zSQ?oc=5": 1793158849.483978,
+  "http://english.ratopati.com/story/84792/there-were-bodies-and-stench-everywhere-and-for-two-or-three-weeks-i-kept-seeing-the-same-scene-in-my-dreams": 1793158849.483978
  },
  "queue": [
   {
@@ -4500,7 +4502,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Could Rahul Yadav be Nepali cricket's next big thing?",
@@ -4770,6 +4772,30 @@
     "Bhotekoshi",
     "Flood",
     "भोटेकोशी"
+   ],
+   "cat": "disaster",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Police Senior Superintendent Deep Shamsher Jabra Discusses Bhote Koshi Flood Rescue Challenges and Technologies",
+   "summary": "Police Senior Superintendent Deep Shamsher Jabra was deployed to Rasuwa to lead his team in search and rescue operations after...",
+   "link": "http://english.ratopati.com/story/84792/there-were-bodies-and-stench-everywhere-and-for-two-or-three-weeks-i-kept-seeing-the-same-scene-in-my-dreams",
+   "source": "Ratopati EN",
+   "ts": 1793158518,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/deep-jbr_vTdHoM9VTu.webp",
+   "lang": "en",
+   "hl": "Police Senior Superintendent Deep Shamsher Jabra Discusses Bhote Koshi Flood Rescue Challenges and Technologies",
+   "en": "Police Senior Superintendent Deep Shamsher Jabra Discusses Bhote Koshi Flood Rescue Challenges and Technologies",
+   "ne": "Police Senior Superintendent Deep Shamsher Jabra Discusses Bhote Koshi Flood Rescue Challenges and Technologies",
+   "imp": 3,
+   "tags": [
+    "BhoteKoshi",
+    "Flood",
+    "Police",
+    "बाढी"
    ],
    "cat": "disaster",
    "val": 2,
@@ -7727,7 +7753,7 @@
    "cat": "tech"
   }
  ],
- "updated": 1793158277,
+ "updated": 1793158854,
  "pending_since": 1793157652.8121076,
  "fb_blocks": [
   1790350880.4125228,
