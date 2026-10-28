@@ -2034,32 +2034,10 @@
   "http://lokaantar.com/story/332059/2026/10/28/forex-": 1793155248.746489,
   "https://www.setopati.com/social/401435": 1793155248.746489,
   "https://theannapurnaexpress.com/story/68264": 1793155248.746489,
-  "https://theannapurnaexpress.com/story/68263": 1793155248.746489
+  "https://theannapurnaexpress.com/story/68263": 1793155248.746489,
+  "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRjNURzVKMDVDa3NUSkZaRDdVQm9YUGthTWpSajBjaU9PcFlsdkxtTF9KZnp2VDJxVHVWcUxhancyMjFZVVZmQ1FoNDNEMklKSFlhMjNxQWdvdXhvVVN2U01pY1RWdllwZGFaT2dOdms2RDVWbDk0Q2U4NXNHMXI2NE5tMFlGYnBGUEc5ZkQ4cXpub2VILXpSY0UyNnVFOVQ3V05RcnpxSmZXdw?oc=5": 1793156488.391778
  },
  "queue": [
-  {
-   "title": "Karnataka Voter List Reduced by 7.2 Million After Revision",
-   "summary": "Kathmandu. After the completion of the Special Intensive Revision (SIR) process of the voter list in India's Karnataka state, the...",
-   "link": "http://english.ratopati.com/story/84769/72-million-voters-reduced-after-revision-of-voter-list-in-karnataka-one-pakistani-citizen-also-found",
-   "source": "Ratopati EN",
-   "ts": 1793127600,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/india-voter_smTPffnhnb.webp",
-   "lang": "en",
-   "hl": "Karnataka Voter List Reduced by 7.2 Million After Revision",
-   "en": "Karnataka Voter List Reduced by 7.2 Million After Revision",
-   "ne": "Karnataka Voter List Reduced by 7.2 Million After Revision",
-   "imp": 1,
-   "tags": [
-    "Karnataka",
-    "India",
-    "VoterList"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
   {
    "title": "Movie Review: In 'Everest: The Other Side,' tragedy and triumph intermingle on the peaks of Nepal",
    "summary": "",
@@ -4384,20 +4362,33 @@
    "val": 3,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "Nepal Suspends New Trekking Permits in Restricted Himalayan Areas Amid Snowstorm and Avalanche Risk",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRjNURzVKMDVDa3NUSkZaRDdVQm9YUGthTWpSajBjaU9PcFlsdkxtTF9KZnp2VDJxVHVWcUxhancyMjFZVVZmQ1FoNDNEMklKSFlhMjNxQWdvdXhvVVN2U01pY1RWdllwZGFaT2dOdms2RDVWbDk0Q2U4NXNHMXI2NE5tMFlGYnBGUEc5ZkQ4cXpub2VILXpSY0UyNnVFOVQ3V05RcnpxSmZXdw?oc=5",
+   "source": "www.nationpathindia.com",
+   "ts": 1793156082,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "Nepal Suspends New Trekking Permits in Restricted Himalayan Areas Amid Snowstorm and Avalanche Risk",
+   "en": "Nepal Suspends New Trekking Permits in Restricted Himalayan Areas Amid Snowstorm and Avalanche Risk",
+   "ne": "Nepal Suspends New Trekking Permits in Restricted Himalayan Areas Amid Snowstorm and Avalanche Risk",
+   "imp": 4,
+   "tags": [
+    "Nepal",
+    "Trekking",
+    "Himalaya",
+    "हिमपहिरो"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1792551058.9895663,
-   "en": "टर्किस एयरलाइन्सको विमानमा चरा ठोक्कियो, विमानस्थलमा उडान र अवतरण बन्द",
-   "ne": "टर्किस एयरलाइन्सको विमानमा चरा ठोक्कियो, विमानस्थलमा उडान र अवतरण बन्द",
-   "link": "https://baahrakhari.com/detail/505401",
-   "source": "Baahrakhari",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "disaster"
-  },
   {
    "ts": 1792552857.7736492,
    "en": "Nepal invites Aussie agents to Upper Mustang fam trip in Dec to aid tourism",
@@ -7347,7 +7338,7 @@
    "cat": "health"
   }
  ],
- "updated": 1793155863,
+ "updated": 1793156494,
  "pending_since": 1793155848.249963,
  "fb_blocks": [
   1790350880.4125228,
