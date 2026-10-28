@@ -1,8 +1,5 @@
 {
  "seen": {
-  "https://risingnepaldaily.com/news/88047": 1792993846.2045975,
-  "https://english.onlinekhabar.com/gold-price-rises-by-rs-3000-per-tola.html": 1792993846.2045975,
-  "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVjhsSU9OS0E2akw0dkYxOG1HOENyelRjRy1hTEVVekJPdUZ1V2h6a3Zoa0Q1QWhFbWw1SUczVlJKdkRFZWxnQTJVVTkxbEFFeFozTmdiOWpOSHZHbGJXZlNfLU1pb3V4OXpNTG9BUFZVMTNzMDNNRnRfRU1tTmo5RnVkbG4yazhZUV9odlRMUWRBTnFpYUlJV1hHLXJQUVR0bXhJQUZTSTF4bHYxSmREdnh5S1YwN3VhTWc?oc=5": 1792993846.2045975,
   "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdU95LXpTdnBXVzhHekxwb05XekxnSWxabkxES2plYTdUYTExQ0ROcTM0a0Z5cmZTMmswcm1PaGhrRkFvRjZ2Vk5Sc1hwYlA4bnc2ZVAxQ0VQMmh3QUMxdEpPZkxVNmZHZGRtczJ1c3hZTFY1UWk3RDlCOWJLaW1sVmp1NnpWTGhXT3FLZEx6ZDlpeUQ3clA1N1FpbmNKRk40ZDdKSW9ZNVY3WkRMRU9HaUh4b2JKUUh4VzlVNGJEYVNmUnBoRXc?oc=5": 1792994485.3584435,
   "https://risingnepaldaily.com/news/88048": 1792994485.3584435,
   "https://nagariknews.nagariknetwork.com/politics/newly-elected-office-bearers-and-members-of-the-nepali-congress-to-be-sworn-in-on-thursday-37-19.html": 1792994485.3584435,
@@ -2028,7 +2025,9 @@
   "https://news.google.com/rss/articles/CBMiV0FVX3lxTE03cDFZSG5MSG1oSkd2YzFfbmc1VWViYTVQc3l6UzViQ2FsWlF1cXpyYWhRSVdCZmpHSWVMV3V1Z3l5Vy0xQWJsNERvRXZjbF8tSmJ4RXBLdw?oc=5": 1793166052.83472,
   "https://news.google.com/rss/articles/CBMiygFBVV95cUxPV1VVRURvcC1YWmx0emZqdG41RlJiZjFRc2VEclBWVFo2RDlnMVRva0ZiZk5TZHlaT2RxTG5uZ0pyY0E3UTJVWTJmNmhISEJqNGNFN2lPNGVUcUZjclNnaDZRTWlCejdVV3poRjZSWjRjc0xqRmtzOHRHRHFOTkZPYVpJSjdROTVLZE8zWlZPU1loSld0ZUY0M1ZMQUFQSXcyZzQ3LVhTTlUwTkJxMVNNcVp4Mmx6ZkhESlR0d3AySExxQ3F3ZDlVa1JB?oc=5": 1793166052.83472,
   "http://english.ratopati.com/story/84801/62-year-old-man-dies-after-being-hit-on-the-head-with-a-chipmunk": 1793166052.83472,
-  "https://news.google.com/rss/articles/CBMilAFBVV95cUxPY3lBc1UtM2hOY3lKWHI2ZTNjZkFJQzVZQ2ViVG81NXdHTGxPTWhaVkVFYWtoa19GYk9uT2pUUlUtbk5XQ1ZwTGJ6YmRva0x1S1NNZC1QXzNFcTFucHhBMXNXLWxlY051WEJKdXI3M2h6bzVhcmNIR0JyRnVDNmx4YkJKYlNIeFdPUVZJMjlCbElGeVFh?oc=5": 1793166052.83472
+  "https://news.google.com/rss/articles/CBMilAFBVV95cUxPY3lBc1UtM2hOY3lKWHI2ZTNjZkFJQzVZQ2ViVG81NXdHTGxPTWhaVkVFYWtoa19GYk9uT2pUUlUtbk5XQ1ZwTGJ6YmRva0x1S1NNZC1QXzNFcTFucHhBMXNXLWxlY051WEJKdXI3M2h6bzVhcmNIR0JyRnVDNmx4YkJKYlNIeFdPUVZJMjlCbElGeVFh?oc=5": 1793166052.83472,
+  "https://www.setopati.com/art/art-activity/401445": 1793166654.1779816,
+  "https://baahrakhari.com/detail/505878": 1793166654.1779816
  },
  "queue": [
   {
@@ -4461,7 +4460,7 @@
    "cat": "culture",
    "val": 1,
    "teaser": true,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "जग्गा कित्ताकाटमा आवश्यक सहजीकरण गरिने",
@@ -4576,29 +4575,6 @@
    "val": 1,
    "teaser": true,
    "hits": 1
-  },
-  {
-   "title": "शक्तिशाली चक्रवात 'अर्नब' आन्ध्र प्रदेशको तटमा ठोक्कियो : धेरै ठाउँमा भारी वर्षा, रेल र उडान ठप्प",
-   "summary": "बंगालको खाडीमा विकसित भएको शक्तिशाली 'अर्नब' चक्रवाती आन्ध्र प्रदेशको तटसँग ठोक्किएको छ। भारतीय मौसम विभाग (आईएमडी) का अनुसार यो एक 'अत्यन्त भीषण' चक्रवाती तुफान हो, जुन यानमको दक्षिणमा बापटला र विशाखापट्टनमको बीचमा...",
-   "link": "http://lokaantar.com/story/332063/2026/10/28/arnab-tufan-in-india-",
-   "source": "Lokaantar",
-   "ts": 1793145051.1201744,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "शक्तिशाली चक्रवात 'अर्नब' आन्ध्र प्रदेशको तटमा ठोक्कियो : धेरै ठाउँमा भारी वर्षा, रेल र उडान ठप्प",
-   "en": "शक्तिशाली चक्रवात 'अर्नब' आन्ध्र प्रदेशको तटमा ठोक्कियो : धेरै ठाउँमा भारी वर्षा, रेल र उडान ठप्प",
-   "ne": "शक्तिशाली चक्रवात 'अर्नब' आन्ध्र प्रदेशको तटमा ठोक्कियो : धेरै ठाउँमा भारी वर्षा, रेल र उडान ठप्प",
-   "imp": 3,
-   "tags": [
-    "Cyclone",
-    "AndhraPradesh",
-    "India"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 4
   },
   {
    "title": "हिमशृंखला",
@@ -5720,7 +5696,7 @@
    "cat": "crime",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "लगातार तेस्रो दिन पनि बढ्यो सुनको भाउ, आज कतिमा हुँदैछ किनबेच?",
@@ -9128,9 +9104,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "sports"
+  },
+  {
+   "ts": 1793166707.1078677,
+   "en": "शक्तिशाली चक्रवात 'अर्नब' आन्ध्र प्रदेशको तटमा ठोक्कियो, रेल र उडान ठप्प",
+   "ne": "शक्तिशाली चक्रवात 'अर्नब' आन्ध्र प्रदेशको तटमा ठोक्कियो, रेल र उडान ठप्प",
+   "link": "http://lokaantar.com/story/332063/2026/10/28/arnab-tufan-in-india-",
+   "source": "Lokaantar",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "world"
   }
  ],
- "updated": 1793166059,
+ "updated": 1793166720,
  "pending_since": 1793165471.698535,
  "fb_blocks": [
   1790350880.4125228,
