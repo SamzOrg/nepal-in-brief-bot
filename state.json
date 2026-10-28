@@ -1,11 +1,5 @@
 {
  "seen": {
-  "https://nagariknews.nagariknetwork.com/social-affairs/six-dead-three-injured-in-scorpio-accident-in-gulmi-56-33.html": 1793020852.687995,
-  "https://english.khabarhub.com/2026/26/573255/": 1793020852.687995,
-  "https://gorkhapatraonline.com/news/227321": 1793020852.687995,
-  "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOLW1tbkhEYzI2ODFHQW5RWEtpbFNyRXBRekswSzJ1QUliRm5PYS1XbnlpQXo0SU9VUklpdGcxVVo5RURPZk0wbWdGek5JYUhBS2NSeV8xVmZ4emwxUWNJeXJmb2o5cDVJWjUtdjV5ZEpPV2lxWHpJUnQzc29DTFk2YmtwNEs1T1ZM?oc=5": 1793020852.687995,
-  "http://lokaantar.com/story/331962/2026/10/26/bidya-devi-bhandari-": 1793020852.687995,
-  "http://english.ratopati.com/story/84647/when-will-the-rasuwagadhi-border-crossing-which-has-been-closed-for-two-months-open": 1793020852.687995,
   "https://english.khabarhub.com/2026/26/573261/": 1793021484.680963,
   "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbWhSUnRPVi16emhkd1J1NVUtMl9HVXJvNTV0S2tZeklfSDA2WnItVU0ycHpzQVloajNXenlUVHpiVFY0ZUZodmVzcm41aXRLcWlqdjdTSlFmaXJLZ1RRZTJTM0tRYXNHWVVRUUtDSXhZaVZ2MHVPdTZVcjNQSkNELWt1YVRtSm1zY3RTUXRobWJQNE9BYmJ1dDFxWmNFZlBLbzFGRVVKMC1MY3czVDNkbTVDNHd4cG40?oc=5": 1793021484.680963,
   "https://english.khabarhub.com/2026/26/573264/": 1793021484.680963,
@@ -2034,7 +2028,8 @@
   "https://news.google.com/rss/articles/CBMivwFBVV95cUxNc3ptbnRnQk1iNW1hYk84SkRTWGxFbFpjaG1yeV8tTUtrNUZCS3ZqY0Q0V2FXdmZ4akhkQmhjdk9CbUlDc0daUm1HTlFhcHkzTlRIcWNZTTdVaE15LW1nQmNWZkhmRnRzMzlueDRlU0VTVGJDY29sOE9wMHo1bnN4eXdwZzVCVzFZdWRrSzdUVFFJTlA5dUNvSlBvSHR0Y0lhWV85XzFhSjMxU3lFaDFPOUZvRjJydVNzendOR2lZYw?oc=5": 1793193051.087657,
   "https://nagariknews.nagariknetwork.com/sports/arjun-gharti-s-excellent-batting-far-west-set-a-target-of-146-runs-br-60-18.html": 1793193651.614629,
   "https://kathmandupost.com/sports/2026/10/28/pokhara-set-sudurpaschim-a-target-of-146-in-npl": 1793193651.614629,
-  "http://lokaantar.com/story/332090/2026/10/28/pokhara-vs-sudurpaschim-": 1793193651.614629
+  "http://lokaantar.com/story/332090/2026/10/28/pokhara-vs-sudurpaschim-": 1793193651.614629,
+  "https://english.khabarhub.com/2026/28/573516/": 1793194182.1775317
  },
  "queue": [
   {
@@ -2059,52 +2054,6 @@
    "val": 3,
    "teaser": false,
    "hits": 5
-  },
-  {
-   "title": "टेनिसका महान् खेलाडी स्टान वावरिन्काको संन्यास",
-   "summary": "तीन पटकका ग्रान्डस्लाम विजेता स्विट्जरल्यान्डका स्टान वावरिन्काले व्यावसायिक टेनिस करिअर अन्त्य गरेका छन्।...",
-   "link": "https://nagariknews.nagariknetwork.com/sports/tennis-great-stan-wawrinka-retires-58-58.html",
-   "source": "Nagarik News",
-   "ts": 1793165265,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1793165255_Stan%20wawarinka.jpg",
-   "lang": "ne",
-   "hl": "टेनिसका महान् खेलाडी स्टान वावरिन्काको संन्यास",
-   "en": "टेनिसका महान् खेलाडी स्टान वावरिन्काको संन्यास",
-   "ne": "टेनिसका महान् खेलाडी स्टान वावरिन्काको संन्यास",
-   "imp": 2,
-   "tags": [
-    "Tennis",
-    "StanWawrinka",
-    "खेलकुद"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Risk of heavy rain and windstorms in Dhankuta, administration urges high alert",
-   "summary": "Dhankuta, October 28 After the cyclone that developed in the Bay of Bengal grew stronger, the District Administration Office, Dhankuta, has urged people to remain on high alert, saying heavy rain and windstorms are...",
-   "link": "https://english.onlinekhabar.com/risk-of-heavy-rain-dhankuta.html",
-   "source": "Onlinekhabar EN",
-   "ts": 1793165297,
-   "weight": 3,
-   "img": "http://english.onlinekhabar.com/wp-content/uploads/2018/01/dhankuta.jpg",
-   "lang": "en",
-   "hl": "Risk of heavy rain and windstorms in Dhankuta, administration urges high alert",
-   "en": "Risk of heavy rain and windstorms in Dhankuta, administration urges high alert",
-   "ne": "Risk of heavy rain and windstorms in Dhankuta, administration urges high alert",
-   "imp": 3,
-   "tags": [
-    "Dhankuta",
-    "Weather",
-    "HeavyRain"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
   },
   {
    "title": "One Dead After Being Hit With Firewood in Surkhet",
@@ -2880,28 +2829,6 @@
    "val": 3,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "Richest 0.1% emit more carbon than poorest 3.5 billion: Report",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaGszcHplMnE0SkY2TU15eEFDX1g3RGZmSDlWelAzNjBBV3dGUFVBVEVTOHA2WmNEeklfdGlKV0VWWWpRVUVOb09YN3gtVjRrMVNJNWwtMDRBQXl0MWlXVFZjQkR2bjRLcEIxZDdUcVZJSEhLX1oyWXVnaURjNkxiVUd5UVF5Z3NPVGU0ZHBSYks0LXRmOUNJX2c4X09ibnp2dWp4dXBwYTRVVGMtQUZYSThMZw?oc=5",
-   "source": "myRepublica",
-   "ts": 1793164965,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Richest 0.1% emit more carbon than poorest 3.5 billion: Report",
-   "en": "Richest 0.1% emit more carbon than poorest 3.5 billion: Report",
-   "ne": "Richest 0.1% emit more carbon than poorest 3.5 billion: Report",
-   "imp": 1,
-   "tags": [
-    "CarbonEmissions",
-    "ClimateReport"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "Indian national arrested with 68 kg of silver from Thankot",
@@ -8024,17 +7951,6 @@
  ],
  "posted": [
   {
-   "ts": 1792588866.9619126,
-   "en": "बाँकेमा एयर पेस्तोल देखाई मार्ने धम्की दिने चौधरी पक्राउ",
-   "ne": "बाँकेमा एयर पेस्तोल देखाई मार्ने धम्की दिने चौधरी पक्राउ",
-   "link": "http://lokaantar.com/story/331705/2026/10/21/arrest-",
-   "source": "Lokaantar",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "crime"
-  },
-  {
    "ts": 1792590689.5303998,
    "en": "उपराष्ट्रपति यादवद्वारा १०:२६ को शुभ साइतमा बडादसैँको टीका ग्रहण",
    "ne": "उपराष्ट्रपति यादवद्वारा १०:२६ को शुभ साइतमा बडादसैँको टीका ग्रहण",
@@ -10994,7 +10910,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1793193680,
+ "updated": 1793194187,
  "pending_since": 1793193051.087657,
  "fb_blocks": [
   1790350880.4125228,
