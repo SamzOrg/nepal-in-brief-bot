@@ -2024,29 +2024,6 @@
  },
  "queue": [
   {
-   "title": "क्रिश्चियन धर्म प्रचार गरेको आरोपमा पाँच अमेरिकीसहित १० विदेशी पक्राउ",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/505920",
-   "source": "Baahrakhari",
-   "ts": 1793186893,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "क्रिश्चियन धर्म प्रचार गरेको आरोपमा पाँच अमेरिकीसहित १० विदेशी पक्राउ",
-   "en": "क्रिश्चियन धर्म प्रचार गरेको आरोपमा पाँच अमेरिकीसहित १० विदेशी पक्राउ",
-   "ne": "क्रिश्चियन धर्म प्रचार गरेको आरोपमा पाँच अमेरिकीसहित १० विदेशी पक्राउ",
-   "imp": 3,
-   "tags": [
-    "Christianity",
-    "Police",
-    "Arrest"
-   ],
-   "cat": "society",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "आकस्मिक प्रतिकार्यका लागि तगारी अवस्थामा रहन निर्देशन",
    "summary": "राममणि दाहालमकवानपुर, कात्तिक ११ गते । बागमती प्रदेश सरकारको स्वास्थ्य तथा सामाजिक विकास मन्त्रालयले आकस्मिक प्रतिकार्यका लागि तयारी अवस्थामा रहन मातहतका कार्यालयहरुलाई निर्देशन दि...",
    "link": "https://gorkhapatraonline.com/news/227532",
@@ -2393,28 +2370,6 @@
     "AwarenessCampaign"
    ],
    "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "महिला, शान्ति र सुरक्षा एजेन्डा कार्यान्वयन गर्न राष्ट्रसङ्घीय महासचिवको आह्वान",
-   "summary": "संयुक्त राष्ट्रसङ्घका महासचिव एन्टोनियो गुटेरेसले महिला, शान्ति र सुरक्षा एजेन्डालाई अगाडि बढाउन थप प्रयास गर्न आह्वान गरेका छन्।...",
-   "link": "https://nagariknews.nagariknetwork.com/international/un-secretary-general-s-call-for-implementation-of-women-peace-and-security-agenda-br-83-29.html",
-   "source": "Nagarik News",
-   "ts": 1793187004,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1793187094_un%2011.jpg",
-   "lang": "ne",
-   "hl": "महिला, शान्ति र सुरक्षा एजेन्डा कार्यान्वयन गर्न राष्ट्रसङ्घीय महासचिवको आह्वान",
-   "en": "महिला, शान्ति र सुरक्षा एजेन्डा कार्यान्वयन गर्न राष्ट्रसङ्घीय महासचिवको आह्वान",
-   "ne": "महिला, शान्ति र सुरक्षा एजेन्डा कार्यान्वयन गर्न राष्ट्रसङ्घीय महासचिवको आह्वान",
-   "imp": 2,
-   "tags": [
-    "WomenPeaceSecurity",
-    "AntónioGuterres"
-   ],
-   "cat": "world",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -3451,28 +3406,6 @@
    "val": 3,
    "teaser": false,
    "hits": 3
-  },
-  {
-   "title": "African swine fever in Nepal: early outbreaks clustered in west and peaked in summer 2022",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaF81c2RxYVc3ZG5OaG9uUHJSbmJZR3lBS0lGOXprc3dyWFBwZ0ptREVzMkQtbldoclZMMHVteENGUVR0LVAyZkNTU1FhTURraU1RMFBBeWw4SkpDSW11NUR6SmQwVnJMZnpBRExDRGxNaDNsMzRqRktzc01HbXN5ZHJuckJBMFJ3YmlyamNmYmE3REl2RGtPSTk5U2xvR044aDM2WGxjaVZ0RXlzVVdoVDRFYw?oc=5",
-   "source": "Bioengineer.org",
-   "ts": 1793187026,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "African swine fever in Nepal: early outbreaks clustered in west and peaked in summer 2022",
-   "en": "African swine fever in Nepal: early outbreaks clustered in west and peaked in summer 2022",
-   "ne": "African swine fever in Nepal: early outbreaks clustered in west and peaked in summer 2022",
-   "imp": 2,
-   "tags": [
-    "AfricanSwineFever",
-    "Livestock"
-   ],
-   "cat": "health",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
   },
   {
    "title": "सांसदहरू हतोत्साही हुने गरी सभामुख अर्यालले गरे सयौँ संशोधन प्रस्ताव अस्वीकृत",
@@ -7805,7 +7738,7 @@
    "cat": "economy"
   }
  ],
- "updated": 1793215259,
+ "updated": 1793215872,
  "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
