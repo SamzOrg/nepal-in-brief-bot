@@ -2026,7 +2026,13 @@
   "http://lokaantar.com/story/332042/2026/10/28/weather-": 1793148048.2234561,
   "http://english.ratopati.com/story/84772/from-underground-politics-to-agricultural-enterprise-the-inspiring-journey-of-former-constituent-assembly-member-shree": 1793148048.2234561,
   "https://gorkhapatraonline.com/news/227448": 1793148048.2234561,
-  "https://gorkhapatraonline.com/news/227447": 1793148048.2234561
+  "https://gorkhapatraonline.com/news/227447": 1793148048.2234561,
+  "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUDVZRExvQnNsMDJSWWtkdnMtWmZaLWJ4MG9xYV9fdFd6OURkNm1vZ0pjaWJJU2FhRW5hSEg0Y0dxOWxwMU5TRTI3aHJfX2p3RGl1b19tN1RPTmFvbXhnbVoyLWhlMVpMQUkzQzRlcUc1dWN3T01JWVN4SE5wc2lIQ0l5NEdId2hOOGtGN3JSNkV2ZWQzYTFocWU1cFZTcjQzSlNDbG5kS0dMT2F0bDZlNHhRdjl6dw?oc=5": 1793148646.9038646,
+  "https://kathmandupost.com/national/2026/10/28/malaysia-halts-recruitment-of-nepali-workers-amid-manpower-agency-dispute": 1793148646.9038646,
+  "https://kathmandupost.com/editorial/2026/10/27/budhigandaki-needs-commitment-not-another-new-plan": 1793148646.9038646,
+  "https://kathmandupost.com/columns/2026/10/27/who-does-nepal-police-serve": 1793148646.9038646,
+  "https://kathmandupost.com/columns/2026/10/27/drones-came-after-lirung-nepal-needs-them-before-the-next-collapse": 1793148646.9038646,
+  "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTC0ySzB2blo5dFU0dTc0NC1WVm53aUtzc2tkcVUybmlxQjItRkhKODRVdVFYb3YyX2k3aE8yN1gyR2lrd3dsbTBlQjg4c1BtOUlQbnBaeFVPQ3FudjVXbzN4REdHdzZPMElNZUdiMFZnSktfV0dtdEFIY3dTQmN5TGJPNGZ3cXhtc2E3eU5hZ0RCZExyM0JBVVo2MFd3VjltdG8zOGc4WDJzWno1VkdmRw?oc=5": 1793148646.9038646
  },
  "queue": [
   {
@@ -2601,7 +2607,7 @@
    "cat": "world",
    "val": 1,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Attacks kill at least 60 Orthodox Christians in Ethiopia, church says",
@@ -2622,30 +2628,6 @@
     "Christians"
    ],
    "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Nepal secures victory by 10 runs against Oman",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1zdFg1cmpVNnRoM3hwV1ZNWmVnb29ncXZvR3IyVjhiQ0REenh6bTg4NGVrV2RSQ2lWV01HYTVaWUxfUVhzUWlZdWpkUUpuSnVX?oc=5",
-   "source": "The Rising Nepal",
-   "ts": 1793140292,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Nepal secures victory by 10 runs against Oman",
-   "en": "Nepal secures victory by 10 runs against Oman",
-   "ne": "Nepal secures victory by 10 runs against Oman",
-   "imp": 4,
-   "tags": [
-    "Cricket",
-    "Oman",
-    "NepalCricket",
-    "नेपाल"
-   ],
-   "cat": "sports",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -2694,7 +2676,7 @@
    "cat": "society",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "यातायात श्रमिकलाई सामाजिक सुरक्षामा समेट्न माग",
@@ -2900,6 +2882,30 @@
     "किसान"
    ],
    "cat": "economy",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Opinion | Drones came after Lirung. Nepal needs them before the next collapse",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTC0ySzB2blo5dFU0dTc0NC1WVm53aUtzc2tkcVUybmlxQjItRkhKODRVdVFYb3YyX2k3aE8yN1gyR2lrd3dsbTBlQjg4c1BtOUlQbnBaeFVPQ3FudjVXbzN4REdHdzZPMElNZUdiMFZnSktfV0dtdEFIY3dTQmN5TGJPNGZ3cXhtc2E3eU5hZ0RCZExyM0JBVVo2MFd3VjltdG8zOGc4WDJzWno1VkdmRw?oc=5",
+   "source": "The Kathmandu Post",
+   "ts": 1793148434,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "Opinion | Drones came after Lirung. Nepal needs them before the next collapse",
+   "en": "Opinion | Drones came after Lirung. Nepal needs them before the next collapse",
+   "ne": "Opinion | Drones came after Lirung. Nepal needs them before the next collapse",
+   "imp": 2,
+   "tags": [
+    "Drones",
+    "Nepal",
+    "DisasterManagement",
+    "प्रविधि"
+   ],
+   "cat": "tech",
    "val": 2,
    "teaser": false,
    "hits": 1
@@ -5853,10 +5859,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "world"
+  },
+  {
+   "ts": 1793148654.2503524,
+   "en": "Nepal defeats Oman by 10 runs in ICC Cricket World Cup League-2",
+   "ne": "Nepal defeats Oman by 10 runs in ICC Cricket World Cup League-2",
+   "link": "https://risingnepaldaily.com/news/87950",
+   "source": "The Rising Nepal",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "sports"
   }
  ],
- "updated": 1793148055,
- "pending_since": null,
+ "updated": 1793148670,
+ "pending_since": 1793148646.9038646,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
