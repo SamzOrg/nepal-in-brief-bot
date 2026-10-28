@@ -2021,29 +2021,6 @@
  },
  "queue": [
   {
-   "title": "30 Dead in Mid-Spain Train Collision",
-   "summary": "Madrid. Local media reported that the death toll has reached 30 after a high-speed train collided with the rear of...",
-   "link": "http://english.ratopati.com/story/84876/spain-train-crash-death-toll-rises-to-30",
-   "source": "Ratopati EN",
-   "ts": 1793191044,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/53986d47-d5c5-4cfc-97db-7b74bcd2528ajpg_iuncl4fhzl_MNtJWonnyB.webp",
-   "lang": "en",
-   "hl": "30 Dead in Mid-Spain Train Collision",
-   "en": "30 Dead in Mid-Spain Train Collision",
-   "ne": "30 Dead in Mid-Spain Train Collision",
-   "imp": 1,
-   "tags": [
-    "Spain",
-    "TrainCollision",
-    "Accident"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
    "title": "Nepali Film 'Gauthali' Wins Best Foreign Cinema Award at World Film Festival in Cannes",
    "summary": "Kathmandu. Nepali feature film 'Gauthali' has won the 'Best Foreign Cinema' award at the 'World Film Festival in Cannes'. This...",
    "link": "http://english.ratopati.com/story/84878/gauthali-wins-western-foreign-cinema-award",
@@ -2206,29 +2183,6 @@
    "hits": 1
   },
   {
-   "title": "सरकार न राष्ट्रियसभा सदस्य मनोनीत गर्छ न त चुनाव नै",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/505928",
-   "source": "Baahrakhari",
-   "ts": 1793190715,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "सरकार न राष्ट्रियसभा सदस्य मनोनीत गर्छ न त चुनाव नै",
-   "en": "सरकार न राष्ट्रियसभा सदस्य मनोनीत गर्छ न त चुनाव नै",
-   "ne": "सरकार न राष्ट्रियसभा सदस्य मनोनीत गर्छ न त चुनाव नै",
-   "imp": 3,
-   "tags": [
-    "NationalAssembly",
-    "Government",
-    "राजनीति"
-   ],
-   "cat": "politics",
-   "val": 2,
-   "teaser": true,
-   "hits": 1
-  },
-  {
    "title": "मोरङबाट १० जना विदेशीको पासपोर्ट जफत",
    "summary": "",
    "link": "https://www.setopati.com/social/401496",
@@ -2294,29 +2248,6 @@
     "BinodBhandari"
    ],
    "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Migratory birds begin arriving in Nepal to escape winter",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5xVWk2TnZoLXJPZm5YcFk1SHgwa3R1aVJVZlhsTElIUUp4M0xNdUNNYmtkOFhwWmNJMmNtNEVPWnU5YmxYZ3RWLU9WV1V2UUlL?oc=5",
-   "source": "The Rising Nepal",
-   "ts": 1793190697,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Migratory birds begin arriving in Nepal to escape winter",
-   "en": "Migratory birds begin arriving in Nepal to escape winter",
-   "ne": "Migratory birds begin arriving in Nepal to escape winter",
-   "imp": 2,
-   "tags": [
-    "MigratoryBirds",
-    "Nature",
-    "Nepal"
-   ],
-   "cat": "society",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -6854,7 +6785,7 @@
    "cat": "economy"
   }
  ],
- "updated": 1793219475,
+ "updated": 1793220051,
  "pending_since": 1793218249.2034652,
  "fb_blocks": [
   1790350880.4125228,
