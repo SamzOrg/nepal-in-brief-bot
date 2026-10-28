@@ -1,8 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMisgFBVV95cUxON3JMb2ktT000eGNNLTVnR1JxdEIzZzdDdlFSaUZxemhtdkNxYXBfUk1YMnp3YmFqYkVBNE1vLVZMMWoyZXV0bkZwWUxyaTl6UlJnVFFLMGhLVnM1bjlXSEcyMUY4V3h1ZVJsZEFUajRGcGd1QTktNWNzanZYTHgxSlNFa3hRWFA4dFRjM21Pcll5SmwxRjYwQlpBbUFYdjlSejRJSEhzV014TmUwc09OazJ3?oc=5": 1793010051.1192253,
-  "https://news.google.com/rss/articles/CBMizwFBVV95cUxPcV9RN0I2Uk5fbmxYVzVucEJFTjNSbVFuQkFGRFVremI4cmQ5VDBNaVdoQk9mcS1qQ3BFTmdSdTYzOS1jSmdUcWNBVzdORVk5THFNeE1SeVBkT3VzN3NJdWN6WlNXaC12LVlxODlmMzFjenlWSWJ5UVZVcTMxMVV4cWJna0RtSnJqdUJxaElON3pCR3NXR1EwbHo0a2xXMU5ibkV1N21tLUtrbzZpUC05MkRydW5yOFEydmh0dTBZNGRnNS1yaW51RHkwWTVhem8?oc=5": 1793010051.1192253,
-  "http://english.ratopati.com/story/84618/military-operation-in-pakistan-6-terrorists-and-2-soldiers-killed": 1793010051.1192253,
   "http://english.ratopati.com/story/84620/we-will-expedite-the-resolution-of-the-problems-of-the-landless-and-the-refund-of-the-money-of-cooperative-victims-minister-rawal": 1793010671.844782,
   "https://risingnepaldaily.com/news/88066": 1793010671.844782,
   "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeHhpNy1rWnpycUpoZFN4dDRoR01hU2wxandRQmRGR0pWMUdqVjBsT1hCUWNDS3dOemt0QWxMMGJycXpMX0l4LWhDN1BJeTFYSjJQZF9EVk5CaUx2Y0xNZkdSV3ZZZlQ0NUZpWGpRUjNuSnhmaGNoWjdqYTNzMlo2UW9hSjdYNm9EZmZuOFo1SkVpZ3VfVXVncXM5RkFfTFE?oc=5": 1793010671.844782,
@@ -2037,7 +2034,10 @@
   "https://risingnepaldaily.com/news/88153": 1793182850.702008,
   "https://baahrakhari.com/detail/505906": 1793182850.702008,
   "http://lokaantar.com/story/332082/2026/10/28/apf-": 1793182850.702008,
-  "https://kathmandupost.com/national/2026/10/28/sudurpaschim-seek-first-win-as-pokhara-begin-npl-campaign": 1793182850.702008
+  "https://kathmandupost.com/national/2026/10/28/sudurpaschim-seek-first-win-as-pokhara-begin-npl-campaign": 1793182850.702008,
+  "https://thehimalayantimes.com/nepal/autumn-climbing-season-brings-1410-mountaineers-and-rs-318-million-to-nepal": 1793183469.1911716,
+  "http://lokaantar.com/story/332083/2026/10/28/meeting-": 1793183469.1911716,
+  "https://baahrakhari.com/detail/505908": 1793183469.1911716
  },
  "queue": [
   {
@@ -2059,50 +2059,6 @@
    ],
    "cat": "economy",
    "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Household Obligations",
-   "summary": "We recently celebrated Dashain, one of the most auspicious festivals of Nepal. And we are looking forward to celebrating...",
-   "link": "https://risingnepaldaily.com/news/88133",
-   "source": "Rising Nepal",
-   "ts": 1793154331,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Household Obligations",
-   "en": "Household Obligations",
-   "ne": "Household Obligations",
-   "imp": 1,
-   "tags": [
-    "Family",
-    "Household"
-   ],
-   "cat": "society",
-   "val": 1,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "'डा. अर्विन चौधरी लेख्ने ठूलो धोको छ'",
-   "summary": "विदेश जानुभन्दा आफ्नै गाउँठाउँमा काम गर्न पाउँदा उनी सन्तुष्ट छन्। तर रोजगारीको अभाव, किसानले मल नपाउने समस्या र बढ्दो महँगीले युवालाई विदेशिन बाध्य बनाएको उनको बुझाइ छ। देशमै भविष्य देख्न युवाले के पाउनुपर्छ भन्ने उनको...",
-   "link": "https://www.setopati.com/special-stories/we-people/401393",
-   "source": "Setopati",
-   "ts": 1793154098,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "'डा. अर्विन चौधरी लेख्ने ठूलो धोको छ'",
-   "en": "'डा. अर्विन चौधरी लेख्ने ठूलो धोको छ'",
-   "ne": "'डा. अर्विन चौधरी लेख्ने ठूलो धोको छ'",
-   "imp": 2,
-   "tags": [
-    "Literature",
-    "Author"
-   ],
-   "cat": "culture",
-   "val": 2,
    "teaser": false,
    "hits": 1
   },
@@ -2402,30 +2358,6 @@
    "hits": 1
   },
   {
-   "title": "कटहरी रेल स्टेसन निर्माणमा भारतीय आलटाल",
-   "summary": "रेल स्टेसन निर्माणका लागि ठेक्का लागे पनि भारत सरकारको आनाकानीले काम हुन सकेको छैन।",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/indian-delays-in-construction-of-katahari-railway-station-br-41-41.html",
-   "source": "Nagarik News",
-   "ts": 1793154446,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1793155078_hiju%20%20%2068.jpg",
-   "lang": "ne",
-   "hl": "कटहरी रेल स्टेसन निर्माणमा भारतीय आलटाल",
-   "en": "कटहरी रेल स्टेसन निर्माणमा भारतीय आलटाल",
-   "ne": "कटहरी रेल स्टेसन निर्माणमा भारतीय आलटाल",
-   "imp": 3,
-   "tags": [
-    "Railway",
-    "Kathari",
-    "India",
-    "Infrastructure"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Can we detect Parkinson's disease before the first tremor?",
    "summary": "When we think about Parkinson's disease, most of us picture shaking hands, slow movement, stiffness, or difficulty walking. These are the symptoms families notice and the symptoms that often lead someone to a doctor....",
    "link": "https://english.onlinekhabar.com/parkinsons-disease-tremor.html",
@@ -2561,29 +2493,6 @@
    "val": 1,
    "teaser": true,
    "hits": 1
-  },
-  {
-   "title": "Birgunj Customs Office exceeds monthly revenue target",
-   "summary": "BIRGUNJ: The Birgunj Customs Office collected Rs. 26.7258 billion in revenue in the Nepali month of Asoj, exceeding its monthly collection target. The office had set a revenue collection target of Rs. 26.46 billion for...",
-   "link": "https://english.khabarhub.com/2026/28/573414/",
-   "source": "Khabarhub EN",
-   "ts": 1793159123,
-   "weight": 2,
-   "img": "https://english.khabarhub.com/wp-content/uploads/2019/06/Birgunj-customs-640x360.jpg",
-   "lang": "en",
-   "hl": "Birgunj Customs Office exceeds monthly revenue target",
-   "en": "Birgunj Customs Office exceeds monthly revenue target",
-   "ne": "Birgunj Customs Office exceeds monthly revenue target",
-   "imp": 3,
-   "tags": [
-    "BirgunjCustoms",
-    "Revenue",
-    "NepalEconomy"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 4
   },
   {
    "title": "Possibility of rain after a week, no need to panic: Nepal Meteorological Dept",
@@ -6994,7 +6903,7 @@
    "cat": "politics",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "विद्यार्थीसँग अनुचित सम्बन्ध राखेकी पूर्वशिक्षिकालाई सुनाइयो यस्तो सजाय",
@@ -7546,20 +7455,31 @@
    "val": 3,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "स्पेनमा रेल दुर्घटना, कम्तीमा १० जनाको मृत्यु",
+   "summary": "",
+   "link": "https://baahrakhari.com/detail/505908",
+   "source": "Baahrakhari",
+   "ts": 1793183189,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "स्पेनमा रेल दुर्घटना, कम्तीमा १० जनाको मृत्यु",
+   "en": "स्पेनमा रेल दुर्घटना, कम्तीमा १० जनाको मृत्यु",
+   "ne": "स्पेनमा रेल दुर्घटना, कम्तीमा १० जनाको मृत्यु",
+   "imp": 1,
+   "tags": [
+    "Spain",
+    "TrainCrash"
+   ],
+   "cat": "world",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1792578061.4658544,
-   "en": "भोटेकोशी बाढीले बर्दियामा ९ जना बेपत्ता, आफन्तको पर्खाइमा चाडपर्व खल्लो",
-   "ne": "भोटेकोशी बाढीले बर्दियामा ९ जना बेपत्ता, आफन्तको पर्खाइमा चाडपर्व खल्लो",
-   "link": "http://lokaantar.com/story/331701/2026/10/21/bardiya-shokakul-family-",
-   "source": "Lokaantar",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "disaster"
-  },
   {
    "ts": 1792579863.8808641,
    "en": "Five detained in Birgunj for allowing Nepalis to gamble at casino",
@@ -10518,9 +10438,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "education"
+  },
+  {
+   "ts": 1793183497.060671,
+   "en": "Birgunj Customs Office Exceeds Asoj Revenue Target with Rs 26.72B",
+   "ne": "Birgunj Customs Office Exceeds Asoj Revenue Target with Rs 26.72B",
+   "link": "https://english.khabarhub.com/2026/28/573414/",
+   "source": "Khabarhub EN",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "economy"
   }
  ],
- "updated": 1793182864,
+ "updated": 1793183519,
  "pending_since": 1793182252.8899992,
  "fb_blocks": [
   1790350880.4125228,
