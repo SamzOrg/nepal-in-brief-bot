@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMidkFVX3lxTE42Q1hqd3Z0Vm5HeW1CNzdmMURyS0FwbDQzUDBqNGNWbmpfQUd4a2VGREM0WTBHUEliYWNPOU1nT1ppSzZFREJSMTVVV2o3UUxsZzlVTXFReDZDTW9VaW5Fc01tbGZFcXdYY0d6RU5UVW91SmJIU2c?oc=5": 1793032858.9014564,
-  "https://news.google.com/rss/articles/CBMiygFBVV95cUxOM2FJMFRBNy10VllGc3F6MF9oMlRGbXotNU50NjRFd01ZN0RNUFE5aWhGcEI3OXRfSVJNTlVpeDloQ2gxd2hmb1BFQTZOaEpYTzNfdHBTMXFzdmF2WnNScU9ISjI0S19zMW1uMHlqRkg5ZFhSS29pbmlSaWp3WEdZUDQ5R0o0S3BpdlVuRldyR3BwSzNRdlhwSkwzMWZBQWMzbHUtLUhuNXNVX0FhUkxhWUpzSWZzSXBENTYzUjZXM3BmU1pIVEN5d3FR?oc=5": 1793032858.9014564,
   "https://gorkhapatraonline.com/news/227330": 1793033453.885786,
   "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ESGgxblFZRmkzLVluR2JmRmhIUnBFZUlHQUw2TngwUDdjUDEtYVUyTTR5NGN0aWRDSjRwQzRfTVZMUlR2YjRnT2FOR2g1aHRuYk5NWXQ1OFBBSi1rSXlqZmhZMFpvcWNNanV2SjFuRTR2dVZIcl9lUXdGNA?oc=5": 1793033453.885786,
   "https://english.onlinekhabar.com/lumbini-lions-begin-title-defence.html": 1793033453.885786,
@@ -2023,7 +2021,14 @@
   "https://baahrakhari.com/detail/505944": 1793204450.7291093,
   "http://english.ratopati.com/story/84889/balendra-ravi-discuss-three-issues-in-budhanilkantha": 1793205649.0874794,
   "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWUhBNVdobzRsRVRRakpSeno5aDFsOU1VcmxKMDV2UWo5VWJrWndvek9BcVo5akZHZVUxd1dsSFZrakt1R3hIWjRLdmNObVo3QzQxbDZpbHVMbG1JaGdrV3ZfZHpjbjZDY1dUVmNvSzR5U0xLaS1iVUJjbXowTmJVSmJhaFl4Z1BMcHQ4UFdKNXBXWmZJQVA5YW1wUVo5UUtJVnRyajFHeHhyY2dZemdKaWhHYWg4S3VHa2NCay1QZw?oc=5": 1793205649.0874794,
-  "http://english.ratopati.com/story/84890/the-8th-west-myagdi-cup-title-goes-to-the-host": 1793205649.0874794
+  "http://english.ratopati.com/story/84890/the-8th-west-myagdi-cup-title-goes-to-the-host": 1793205649.0874794,
+  "https://gorkhapatraonline.com/news/227547": 1793206252.0225992,
+  "https://www.setopati.com/social/401502": 1793206252.0225992,
+  "https://baahrakhari.com/detail/505945": 1793206252.0225992,
+  "https://gorkhapatraonline.com/news/227546": 1793206252.0225992,
+  "https://www.setopati.com/sports/npl/401501": 1793206252.0225992,
+  "https://gorkhapatraonline.com/news/227545": 1793206252.0225992,
+  "https://gorkhapatraonline.com/news/227543": 1793206252.0225992
  },
  "queue": [
   {
@@ -2159,98 +2164,6 @@
     "Biodiversity"
    ],
    "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Nepalis in New Zealand face hardship renewing passports, forced to travel to Australia for services",
-   "summary": "Nepal has no embassy in New Zealand, and a technical problem has arisen in passport printing. Nepalis there now face a heavy financial burden and administrative hassle. Due to the current situation, many Nepalis in New...",
-   "link": "https://english.onlinekhabar.com/nepalis-in-new-zealand-passports.html",
-   "source": "Onlinekhabar EN",
-   "ts": 1793177198,
-   "weight": 3,
-   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/07/passport.jpg",
-   "lang": "en",
-   "hl": "Nepalis in New Zealand face hardship renewing passports, forced to travel to Australia for services",
-   "en": "Nepalis in New Zealand face hardship renewing passports, forced to travel to Australia for services",
-   "ne": "Nepalis in New Zealand face hardship renewing passports, forced to travel to Australia for services",
-   "imp": 2,
-   "tags": [
-    "NewZealand",
-    "Passport",
-    "Australia"
-   ],
-   "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "जर्मनीका संसदीय राज्यसचिव डा कोफ्लर नेपाल आउँदै",
-   "summary": "जर्मनीको आर्थिक सहयोग तथा विकाससम्बन्धी सङ्घीय मन्त्रीका संसदीय राज्यसचिव डा बार्बेल कोफ्लर चारदिने नेपाल भ्रमणका लागि आज आउँदैछिन्।...",
-   "link": "https://nagariknews.nagariknetwork.com/politics/german-parliamentary-state-secretary-dr-kofler-to-visit-nepal-br-31-76.html",
-   "source": "Nagarik News",
-   "ts": 1793177326,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1793177395_barbel%20germany.jpg",
-   "lang": "ne",
-   "hl": "जर्मनीका संसदीय राज्यसचिव डा कोफ्लर नेपाल आउँदै",
-   "en": "जर्मनीका संसदीय राज्यसचिव डा कोफ्लर नेपाल आउँदै",
-   "ne": "जर्मनीका संसदीय राज्यसचिव डा कोफ्लर नेपाल आउँदै",
-   "imp": 2,
-   "tags": [
-    "Germany",
-    "Diplomacy",
-    "NepalVisit"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "197 apply for RSP rural municipality chairperson candidacy in Gandaki",
-   "summary": "Kathmandu, October 28 A total of 197 people have so far applied to become candidates for rural municipality chairperson from the Rastriya Swatantra Party (RSP) in Gandaki Province. The RSP launched an online application...",
-   "link": "https://english.onlinekhabar.com/197-apply-for-rsp-rural-municipality-chairperson-candidacy-in-gandaki.html",
-   "source": "Onlinekhabar EN",
-   "ts": 1793177125,
-   "weight": 3,
-   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/10/Rsp.jpg",
-   "lang": "en",
-   "hl": "197 apply for RSP rural municipality chairperson candidacy in Gandaki",
-   "en": "197 apply for RSP rural municipality chairperson candidacy in Gandaki",
-   "ne": "197 apply for RSP rural municipality chairperson candidacy in Gandaki",
-   "imp": 2,
-   "tags": [
-    "RSP",
-    "Gandaki",
-    "LocalElection"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "खुल्यो एन्फा मुख्यालयको ताला, समस्या समाधानको दीर्घकालीन पहल थालिने",
-   "summary": "नेपाली फुटबलमा देखिएको गतिरोध अन्त्य गर्ने पहलस्वरूप अखिल नेपाल फुटबल संघ (एन्फा) का बहुमत सदस्यले लामो समयदेखि बन्द रहेको केन्द्रीय कार्यालयको ताला खोलेका छन्।...",
-   "link": "https://nagariknews.nagariknetwork.com/sports/majority-of-anfa-members-active-in-resolving-dispute-meeting-to-be-held-on-kartik-13-40-99.html",
-   "source": "Nagarik News",
-   "ts": 1793176971,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2024/third-party/1663238208_football-association-anfa_%E0%A4%85%E0%A4%96%E0%A4%BF%E0%A4%B2%20%E0%A4%A8%E0%A5%87%E0%A4%AA%E0%A4%BE%E0%A4%B2%20%E0%A4%AB%E0%A5%81%E0%A4%9F%E0%A4%AC%E0%A4%B2%20%E0%A4%B8%E0%A4%82%E0%A4%98%20(%E0%A4%8F%E0%A4%A8%E0%A5%8D%E0%A4%AB%E0%A4%BE).jpg",
-   "lang": "ne",
-   "hl": "खुल्यो एन्फा मुख्यालयको ताला, समस्या समाधानको दीर्घकालीन पहल थालिने",
-   "en": "खुल्यो एन्फा मुख्यालयको ताला, समस्या समाधानको दीर्घकालीन पहल थालिने",
-   "ne": "खुल्यो एन्फा मुख्यालयको ताला, समस्या समाधानको दीर्घकालीन पहल थालिने",
-   "imp": 2,
-   "tags": [
-    "ANFA",
-    "Football",
-    "Protest"
-   ],
-   "cat": "sports",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -2415,29 +2328,6 @@
     "WeatherAlert"
    ],
    "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Mercedes-Benz cuts 2026 profit outlook on tough China market",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeWRxUDlkZjN6akxHU21QZFRQX05qaUFzWDNJNHM4dVNkSVNFNU0zMnhxT29wLTVpX085OXFuS2pack40QWVGeXhhMmQyajlrelFjbGpfNnlBUkc4cU4zRlRENjJwUE1yb1IyOEhOSmZNVmFUa1V0bXdJX2l4ZzFBdWUxdmszYk01YUQ5NlRaNTFycWVjd2diNDk0VktOcDhEQVZPUDl1eGgzRmtqS2t0aGl2S01kUQ?oc=5",
-   "source": "myRepublica",
-   "ts": 1793176961,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Mercedes-Benz cuts 2026 profit outlook on tough China market",
-   "en": "Mercedes-Benz cuts 2026 profit outlook on tough China market",
-   "ne": "Mercedes-Benz cuts 2026 profit outlook on tough China market",
-   "imp": 1,
-   "tags": [
-    "MercedesBenz",
-    "ChinaMarket",
-    "ProfitOutlook"
-   ],
-   "cat": "economy",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -2944,29 +2834,6 @@
     "Politics"
    ],
    "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "रिलिजअगावै फिल्म 'जलाकी' को अमेरिका र क्यानडा राइट्स बिक्री",
-   "summary": "आगामी मंसिर ४ गतेबाट देशव्यापी प्रदर्शनको तयारीमा रहेको नेपाली फिल्म 'जलाकी' को अन्तर्राष्ट्रिय प्रदर्शन अधिकार (राइट्स) अमेरिका र क्यानडाका लागि बिक्री भएको छ।...",
-   "link": "https://nagariknews.nagariknetwork.com/arts/performance-rights-of-jalaki-sold-in-us-and-canada-ahead-of-screening-br-72-77.html",
-   "source": "Nagarik News",
-   "ts": 1793176916,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1793176850_1.jpg",
-   "lang": "ne",
-   "hl": "रिलिजअगावै फिल्म 'जलाकी' को अमेरिका र क्यानडा राइट्स बिक्री",
-   "en": "रिलिजअगावै फिल्म 'जलाकी' को अमेरिका र क्यानडा राइट्स बिक्री",
-   "ne": "रिलिजअगावै फिल्म 'जलाकी' को अमेरिका र क्यानडा राइट्स बिक्री",
-   "imp": 2,
-   "tags": [
-    "Jalaki",
-    "MovieRights",
-    "Cinema"
-   ],
-   "cat": "culture",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -5855,7 +5722,7 @@
    "cat": "sports",
    "val": 3,
    "teaser": false,
-   "hits": 12
+   "hits": 13
   },
   {
    "title": "Nepali citzen, named in Rs 37.64 crore crypto racket probe, caught at Lucknow airport while trying to fly",
@@ -6667,6 +6534,121 @@
    ],
    "cat": "sports",
    "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "आगलागी भएको २ घण्टासम्म पनि आइपुगेन दमकल!",
+   "summary": "",
+   "link": "https://www.setopati.com/social/401502",
+   "source": "Setopati",
+   "ts": 1793205960,
+   "weight": 3,
+   "img": null,
+   "lang": "ne",
+   "hl": "आगलागी भएको २ घण्टासम्म पनि आइपुगेन दमकल!",
+   "en": "आगलागी भएको २ घण्टासम्म पनि आइपुगेन दमकल!",
+   "ne": "आगलागी भएको २ घण्टासम्म पनि आइपुगेन दमकल!",
+   "imp": 3,
+   "tags": [
+    "Fire",
+    "Damkal",
+    "आगलागी"
+   ],
+   "cat": "society",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "पोखराविरुद्धको जितपछि सुदूरपश्चिमका पाण्डेले के भने ?",
+   "summary": "",
+   "link": "https://baahrakhari.com/detail/505945",
+   "source": "Baahrakhari",
+   "ts": 1793205635,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "पोखराविरुद्धको जितपछि सुदूरपश्चिमका पाण्डेले के भने ?",
+   "en": "पोखराविरुद्धको जितपछि सुदूरपश्चिमका पाण्डेले के भने ?",
+   "ne": "पोखराविरुद्धको जितपछि सुदूरपश्चिमका पाण्डेले के भने ?",
+   "imp": 2,
+   "tags": [
+    "NPL",
+    "Sudurpaschim",
+    "Cricket"
+   ],
+   "cat": "sports",
+   "val": 1,
+   "teaser": true,
+   "hits": 1
+  },
+  {
+   "title": "सुदूरपश्चिमविरूद्ध पोखरा : डिआरएसले ब्याटरलाई राहत दिएको खेल",
+   "summary": "एनपिएलमा पहिलोपटक प्रयोग भइरहेको डिसिजन रिभ्यु सिस्टम (डिआरएस) लाई सुदूरपश्चिमका ब्याटर इशान पाण्डेले नेपाली क्रिकेटका लागि ऐतिहासिक उपलब्धिका रूपमा लिएका छन्।",
+   "link": "https://www.setopati.com/sports/npl/401501",
+   "source": "Setopati",
+   "ts": 1793204700,
+   "weight": 3,
+   "img": null,
+   "lang": "ne",
+   "hl": "सुदूरपश्चिमविरूद्ध पोखरा : डिआरएसले ब्याटरलाई राहत दिएको खेल",
+   "en": "सुदूरपश्चिमविरूद्ध पोखरा : डिआरएसले ब्याटरलाई राहत दिएको खेल",
+   "ne": "सुदूरपश्चिमविरूद्ध पोखरा : डिआरएसले ब्याटरलाई राहत दिएको खेल",
+   "imp": 2,
+   "tags": [
+    "NPL",
+    "PokharaAvengers",
+    "DRS"
+   ],
+   "cat": "sports",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "हत्या गरेर फरार अभियुक्त १० वर्षपछि पक्राउ",
+   "summary": "जनार्जन खत्रीसर्लाही, कात्तिक ११ गते । सर्लाहीको रामनगरमा दश वर्षअघि भएको एक हत्याको घटनामा सङ्लग्न अभियुक्त अहिले पक्राउ परेका छन् । कर्तव्य ज्यान कसुरमा दश वर्षदेखि फरार रहेका र...",
+   "link": "https://gorkhapatraonline.com/news/227545",
+   "source": "Gorkhapatra",
+   "ts": 1793204980,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/389327/conversions/handcuffs-original.jpg",
+   "lang": "ne",
+   "hl": "हत्या गरेर फरार अभियुक्त १० वर्षपछि पक्राउ",
+   "en": "हत्या गरेर फरार अभियुक्त १० वर्षपछि पक्राउ",
+   "ne": "हत्या गरेर फरार अभियुक्त १० वर्षपछि पक्राउ",
+   "imp": 3,
+   "tags": [
+    "Murder",
+    "Police",
+    "हत्या"
+   ],
+   "cat": "crime",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "प्रकृति र ग्रामीण सौन्दर्यले भरिएको जुम्लाको लिताकोट गाउँ",
+   "summary": "प्रेमराज सिम्खडाकालीकोट, कार्तिक ११ गते । कर्णाली प्रदेशको जुम्ला जिल्लास्थित तातोपानी गाउँपालिका-३, लिताकोट प्राकृतिक सौन्दर्य, हरियाली र ग्रामीण जीवनशैलीले भरिपूर्ण सुन्दर गाउँ ह...",
+   "link": "https://gorkhapatraonline.com/news/227543",
+   "source": "Gorkhapatra",
+   "ts": 1793204374,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/389325/conversions/jumla-original.jpg",
+   "lang": "ne",
+   "hl": "प्रकृति र ग्रामीण सौन्दर्यले भरिएको जुम्लाको लिताकोट गाउँ",
+   "en": "प्रकृति र ग्रामीण सौन्दर्यले भरिएको जुम्लाको लिताकोट गाउँ",
+   "ne": "प्रकृति र ग्रामीण सौन्दर्यले भरिएको जुम्लाको लिताकोट गाउँ",
+   "imp": 1,
+   "tags": [
+    "Jumla",
+    "Litakot",
+    "जुम्ला"
+   ],
+   "cat": "culture",
+   "val": 1,
    "teaser": false,
    "hits": 1
   }
@@ -9643,8 +9625,8 @@
    "cat": "politics"
   }
  ],
- "updated": 1793205685,
- "pending_since": 1793204450.7291093,
+ "updated": 1793206279,
+ "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
