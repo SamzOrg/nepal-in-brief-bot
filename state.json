@@ -1,8 +1,5 @@
 {
  "seen": {
-  "https://risingnepaldaily.com/news/88037": 1792981868.3442864,
-  "https://www.setopati.com/special-stories/international-feature/401265": 1792981868.3442864,
-  "https://theannapurnaexpress.com/story/68209": 1792981868.3442864,
   "http://english.ratopati.com/story/84542/what-did-the-american-team-from-bhutan-and-thailand-do-in-nepal": 1792982446.8506896,
   "https://kathmandupost.com/national/2026/10/26/nepal-to-expand-flood-warning-systems-across-six-river-basins": 1792982446.8506896,
   "http://english.ratopati.com/story/84543/myagdis-hot-springs-to-relieve-fatigue": 1792982446.8506896,
@@ -2037,7 +2034,8 @@
   "http://lokaantar.com/story/332047/2026/10/28/padyatra-": 1793153447.9413502,
   "https://english.khabarhub.com/2026/28/573386/": 1793154051.1262193,
   "https://nagariknews.nagariknetwork.com/social-affairs/lots-of-wealth-zero-achievements-br-81-79.html": 1793154051.1262193,
-  "https://nagariknews.nagariknetwork.com/social-affairs/there-is-a-risk-of-heavy-snowfall-and-avalanches-do-not-go-to-high-mountainous-areas-65-37.html": 1793154051.1262193
+  "https://nagariknews.nagariknetwork.com/social-affairs/there-is-a-risk-of-heavy-snowfall-and-avalanches-do-not-go-to-high-mountainous-areas-65-37.html": 1793154051.1262193,
+  "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdEpGNFp0SmFDYS1MaUZab2xvbm9YT3l6Y2l1V0I4ajJNcFNrU0VHdHA4MlRoT1pFeG1SNjRHY3lEdTJVelJuUUo0S0FwckI4TWlNWF9kOTNKSHhjZUdUNDJKc1BfQWpiWFdaeTZ6bm1LVDNXR2k1M0szMy1vWjVzcURfajBiZw?oc=5": 1793154670.3442354
  },
  "queue": [
   {
@@ -4050,17 +4048,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1792549257.666206,
-   "en": "PM Balen Shah calls for unity to eliminate corruption and political unrest",
-   "ne": "PM Balen Shah calls for unity to eliminate corruption and political unrest",
-   "link": "https://english.khabarhub.com/2026/21/572742/",
-   "source": "Khabarhub EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "politics"
-  },
   {
    "ts": 1792551058.9895663,
    "en": "टर्किस एयरलाइन्सको विमानमा चरा ठोक्कियो, विमानस्थलमा उडान र अवतरण बन्द",
@@ -7010,7 +6997,7 @@
    "cat": "society"
   }
  ],
- "updated": 1793154072,
+ "updated": 1793154673,
  "pending_since": 1793154051.1262193,
  "fb_blocks": [
   1790350880.4125228,
