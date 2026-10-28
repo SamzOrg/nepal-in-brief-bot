@@ -2041,7 +2041,9 @@
   "https://gorkhapatraonline.com/news/227452": 1793149847.6927764,
   "https://gorkhapatraonline.com/news/227451": 1793149847.6927764,
   "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRUg4NmotU29UWHdVa0dxNXJILVNhVktEbmpYajBTTTdyY1NFQ2dpLUJfUGRhN3BwbExIaGRsbDkxTmFSaGd6bVdDWXh3TWxkV0tXcnlZb2NxNEtiaWVaSC0tblNNajFlVFc0QWZVTVB4QXRtZEhtWEFhQjhQRFZSbHJXQ2pZZHMwQ0p5OHMwc0hZelZIdHUyNmt0MGNOWFZXYmttSg?oc=5": 1793150448.7093127,
-  "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbVFndGM3dUN6N3hYYURoM2phX1lIb2tzamJoblo0cEtjLUU3RjVCaDh1ZVdlamFfUDdqMnBrekgweUYwYm4wbmp4YVpMSVRkM0M5NmdrWTdfZzZ6bWoyYnZER043NHBTeWwzcERfY3p1MUx6SnMzb3Joc0xiZ1kweFB0UjlhaEZfQ3F5MG96UXRzbnNvb3o4SkdubW5sVURxdEhDcEJJSXkwSE4xNFRBR3kwY25uR25EXzFj?oc=5": 1793150448.7093127
+  "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbVFndGM3dUN6N3hYYURoM2phX1lIb2tzamJoblo0cEtjLUU3RjVCaDh1ZVdlamFfUDdqMnBrekgweUYwYm4wbmp4YVpMSVRkM0M5NmdrWTdfZzZ6bWoyYnZER043NHBTeWwzcERfY3p1MUx6SnMzb3Joc0xiZ1kweFB0UjlhaEZfQ3F5MG96UXRzbnNvb3o4SkdubW5sVURxdEhDcEJJSXkwSE4xNFRBR3kwY25uR25EXzFj?oc=5": 1793150448.7093127,
+  "https://nagariknews.nagariknetwork.com/economy/the-path-has-been-opened-to-the-private-sector-in-the-electricity-trade-the-government-has-issued-a-letter-of-intent-75-32.html": 1793151067.2448857,
+  "https://gorkhapatraonline.com/news/227459": 1793151067.2448857
  },
  "queue": [
   {
@@ -2063,29 +2065,6 @@
    ],
    "cat": "culture",
    "val": 1,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "जितनजिक थियौँ, १ प्रतिशत गल्तीले हार्‍यौँ : हरमित",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/505852",
-   "source": "Baahrakhari",
-   "ts": 1793121847,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "जितनजिक थियौँ, १ प्रतिशत गल्तीले हार्‍यौँ : हरमित",
-   "en": "जितनजिक थियौँ, १ प्रतिशत गल्तीले हार्‍यौँ : हरमित",
-   "ne": "जितनजिक थियौँ, १ प्रतिशत गल्तीले हार्‍यौँ : हरमित",
-   "imp": 3,
-   "tags": [
-    "Cricket",
-    "NPL",
-    "Harmit"
-   ],
-   "cat": "sports",
-   "val": 3,
    "teaser": false,
    "hits": 1
   },
@@ -3077,7 +3056,7 @@
    "cat": "economy",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "देवभूमि नेपाल आफ्नै सम्पदाप्रति किन उदासीन छ?",
@@ -3290,17 +3269,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1792545654.0108967,
-   "en": "रुसी क्षेप्यास्त्र आक्रमणबारे अमेरिकी गुप्तचर सूचना आदानप्रदान पुनः सुरु : जेलेन्स्की",
-   "ne": "रुसी क्षेप्यास्त्र आक्रमणबारे अमेरिकी गुप्तचर सूचना आदानप्रदान पुनः सुरु : जेलेन्स्की",
-   "link": "https://baahrakhari.com/detail/505397",
-   "source": "Baahrakhari",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "world"
-  },
   {
    "ts": 1792547451.9254215,
    "en": "Nepal's green transition needs more women in technical roles",
@@ -6250,7 +6218,7 @@
    "cat": "economy"
   }
  ],
- "updated": 1793150466,
+ "updated": 1793151070,
  "pending_since": 1793150448.7093127,
  "fb_blocks": [
   1790350880.4125228,
