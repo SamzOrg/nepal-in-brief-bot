@@ -2033,7 +2033,10 @@
   "https://gorkhapatraonline.com/news/227618": 1793259649.7242675,
   "https://baahrakhari.com/detail/505982": 1793259649.7242675,
   "http://lokaantar.com/story/332134/2026/10/29/police-headquatar-": 1793259649.7242675,
-  "http://english.ratopati.com/story/84968/kathmandu-loses-fifth-wicket-against-janakpur-76-runs-in-113-overs": 1793260252.1184623
+  "http://english.ratopati.com/story/84968/kathmandu-loses-fifth-wicket-against-janakpur-76-runs-in-113-overs": 1793260252.1184623,
+  "http://english.ratopati.com/story/84971/kathmandus-sixth-wicket-falls": 1793260889.8654342,
+  "http://lokaantar.com/story/332137/2026/10/29/trump-": 1793260889.8654342,
+  "http://lokaantar.com/story/332139/2026/10/29/tourist": 1793260889.8654342
  },
  "queue": [
   {
@@ -4515,7 +4518,7 @@
    "cat": "world",
    "val": 2,
    "teaser": true,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "अमाण्डा सेरानोले जनवरी ९ मा अन्तिम बक्सिङ खेल्ने",
@@ -6698,7 +6701,7 @@
    "cat": "sports",
    "val": 2,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "NC new CWC to assume office today, swearing-in ceremony to differ from past",
@@ -7261,28 +7264,6 @@
    "hits": 1
   },
   {
-   "title": "Nepal Triangular Series, 2023/24 Cricket Team Records & Stats",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQV2UwVGdBSGNqQUdlbnNUTkdjX2RpRklNcDJFWjBRRDIteFpKQmpESEk1XzJUSXQ1OTc0TkMwS2VMcm5iZGpyZ1BnOGQ5dkZTMDZuTnRZUy1TeXR3WnA5T2hjN1hSdG5GQkVJQXhJVmVrbFpwZkNYbGdtaXlNN29aX2M0aHRYQ0FBMUtCdGZJTXVRaUt2aExLbVBiNDhPQjdlcFVKX2xKMHVESF9kVl9MUkE0X3hGdw?oc=5",
-   "source": "Cricinfo",
-   "ts": 1793231902,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Nepal Triangular Series, 2023/24 Cricket Team Records & Stats",
-   "en": "Nepal Triangular Series, 2023/24 Cricket Team Records & Stats",
-   "ne": "Nepal Triangular Series, 2023/24 Cricket Team Records & Stats",
-   "imp": 1,
-   "tags": [
-    "Cricket",
-    "NepalTriangularSeries"
-   ],
-   "cat": "sports",
-   "val": 1,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "China Sets Guinness World Record with 110 Synchronized Humanoid Robots",
    "summary": "Beijing. China has achieved a new and record-breaking success in the field of technology. In Shandong province, 110 humanoid robots...",
    "link": "http://english.ratopati.com/story/84965/guinness-world-record-in-china-110-humanoid-robots-dance-simultaneously",
@@ -7489,20 +7470,32 @@
    "val": 3,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "भोटेकोशी बाढीपछि पनि उठ्न थाल्यो पर्यटन, ६ प्रतिशतले बढ्यो पर्यटक आगमन",
+   "summary": "ठूलो प्राकृतिक विपत्तिपछि पनि नेपालमा पर्यटकको चहलपहल पुनः बढ्न थालेको छ ।एक महिनाको अन्तरालमा देशका विभिन्न स्थानमा आएका विनाशकारी बाढीपहिरोले पर्यटन क्षेत्रमा ठूलो असर पारेको थियो । पर्यटकको आवागमन प्रभावित हुनुका...",
+   "link": "http://lokaantar.com/story/332139/2026/10/29/tourist",
+   "source": "Lokaantar",
+   "ts": 1793246490.527812,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "भोटेकोशी बाढीपछि पनि उठ्न थाल्यो पर्यटन, ६ प्रतिशतले बढ्यो पर्यटक आगमन",
+   "en": "भोटेकोशी बाढीपछि पनि उठ्न थाल्यो पर्यटन, ६ प्रतिशतले बढ्यो पर्यटक आगमन",
+   "ne": "भोटेकोशी बाढीपछि पनि उठ्न थाल्यो पर्यटन, ६ प्रतिशतले बढ्यो पर्यटक आगमन",
+   "imp": 3,
+   "tags": [
+    "BhoteKoshi",
+    "Tourism",
+    "पर्यटन"
+   ],
+   "cat": "economy",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1792655468.7277124,
-   "en": "'Heartbreaking': Man's 70km trek for Nepal aid",
-   "ne": "'Heartbreaking': Man's 70km trek for Nepal aid",
-   "link": "https://www.thechronicle.com.au/news/queensland/dalby/dalby-mans-70km-charity-hike-helps-deliver-3m-in-flood-relief-for-nepal/news-story/29ac5d3da70da4516484f230e92a4b51",
-   "source": "Toowoomba Chronicle",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "society"
-  },
   {
    "ts": 1792657282.6111727,
    "en": "पूर्वराष्ट्रपति विद्यादेवी भण्डारी चीन प्रस्थान",
@@ -10496,7 +10489,7 @@
    "cat": "sports"
   }
  ],
- "updated": 1793260272,
+ "updated": 1793260901,
  "pending_since": 1793259649.7242675,
  "fb_blocks": [
   1790350880.4125228,
