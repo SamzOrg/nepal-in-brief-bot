@@ -2062,29 +2062,6 @@
  },
  "queue": [
   {
-   "title": "8 killed, 4 injured in ambulance oxygen cylinder explosion in Pakistan",
-   "summary": "Eight people were killed, and four others were injured when an oxygen cylinder exploded inside an ambulance in Pakistan's southern Sindh province on Wednesday night. According to police, the explosion occurred in an...",
-   "link": "https://english.onlinekhabar.com/8-killed-4-injured-in-ambulance-oxygen-cylinder-explosion-in-pakistan.html",
-   "source": "Onlinekhabar EN",
-   "ts": 1793268549,
-   "weight": 3,
-   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/10/pak.jpg",
-   "lang": "en",
-   "hl": "8 killed, 4 injured in ambulance oxygen cylinder explosion in Pakistan",
-   "en": "8 killed, 4 injured in ambulance oxygen cylinder explosion in Pakistan",
-   "ne": "8 killed, 4 injured in ambulance oxygen cylinder explosion in Pakistan",
-   "imp": 1,
-   "tags": [
-    "Pakistan",
-    "Ambulance",
-    "Explosion"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "China issues 800 bln yuan via financial instruments to expand investment",
    "summary": "BEIJING, Oct. 28 (Xinhua) -- China has completed the issuance of 800 billion yuan (about 119 billion U.S. dollars) under...",
    "link": "https://risingnepaldaily.com/news/88195",
@@ -2152,28 +2129,6 @@
    "val": 3,
    "teaser": false,
    "hits": 2
-  },
-  {
-   "title": "Minister Chaudhary calls on Speaker Aryal",
-   "summary": "Kathmandu, Oct 29: Minister for Agriculture, Forests and Environment Gita Chaudhary called on Speaker DP Aryal at his of...",
-   "link": "https://risingnepaldaily.com/news/88193",
-   "source": "Rising Nepal",
-   "ts": 1793268370,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Minister Chaudhary calls on Speaker Aryal",
-   "en": "Minister Chaudhary calls on Speaker Aryal",
-   "ne": "Minister Chaudhary calls on Speaker Aryal",
-   "imp": 2,
-   "tags": [
-    "MinisterChaudhary",
-    "SpeakerAryal"
-   ],
-   "cat": "politics",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
   },
   {
    "title": "Nepal Hosts High-Level Regional Dialogue on BhoteKoshi-Trishuli Disaster in Bangkok",
@@ -2263,29 +2218,6 @@
     "दुर्घटना"
    ],
    "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Two arrested with stolen motorcycle and gun in Dhading",
-   "summary": "Dhading. Police have taken two people into custody with a stolen motorcycle and a gun from Majuwa and Siureni of...",
-   "link": "http://english.ratopati.com/story/84989/two-youths-arrested-with-stolen-motorcycle-and-gun",
-   "source": "Ratopati EN",
-   "ts": 1793268152,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/871281703_1137971448598970_8211605144995492343_n_m6FpcGSv3c.webp",
-   "lang": "en",
-   "hl": "Two arrested with stolen motorcycle and gun in Dhading",
-   "en": "Two arrested with stolen motorcycle and gun in Dhading",
-   "ne": "Two arrested with stolen motorcycle and gun in Dhading",
-   "imp": 2,
-   "tags": [
-    "Dhading",
-    "Police",
-    "Crime"
-   ],
-   "cat": "crime",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -8982,7 +8914,7 @@
    "cat": "politics"
   }
  ],
- "updated": 1793296895,
+ "updated": 1793297453,
  "pending_since": 1793295649.2731977,
  "fb_blocks": [
   1790350880.4125228,
