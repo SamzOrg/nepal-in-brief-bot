@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMid0FVX3lxTE4wRlppdWd6bzBLZ3RBSE1qWFM3aVZ6SGtKaWxlVkRjeHR2bm9hQnNEa0tPRUpaRTBuZ0R6di11OXhNOWNFaW84WVQ1WUd3c1Y3Q25IQlk5WWhSMVQwbW82R1dYS0dVcGNhYTRPa1p0YnZFLVoxdFBB?oc=5": 1793067648.3575287,
-  "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbGppT1oxTzAwMzdsek00Rk96OEt5cFBNQkVYOW8wU3NUbGQ2aHlpdmVGMldOLU9iazRZeXRYeXdGUFdJTmZFNFloZ0dvUzFzaUxHbmg3aG5qVXl3LXlrYmRvQ1ltamlrajJTZzhSNGV5YTh1MklrZ3ZFMjVzOGFhMDRGVFItRWVaRW9YcFJCN0ZmU2NyU0ctOWM5SQ?oc=5": 1793067648.3575287,
   "https://risingnepaldaily.com/news/88092": 1793068270.096321,
   "https://english.khabarhub.com/2026/27/573269/": 1793068270.096321,
   "http://english.ratopati.com/story/84676/he-was-thinking-of-competing-at-the-center-of-the-nepali-sangh-became-a-congress-central-member": 1793068849.4622054,
@@ -2034,7 +2032,10 @@
   "https://nagariknews.nagariknetwork.com/sports/anfa-president-and-general-secretary-released-on-bail-br-94-87.html": 1793240446.5178292,
   "https://gorkhapatraonline.com/news/227572": 1793240446.5178292,
   "https://nagariknews.nagariknetwork.com/sports/bangladesh-s-eamon-and-hasan-to-play-npl-from-janakpur-br-79-58.html": 1793240446.5178292,
-  "https://nagariknews.nagariknetwork.com/economy/mustang-produces-apples-worth-over-rs-1-14-billion-31-82.html": 1793240446.5178292
+  "https://nagariknews.nagariknetwork.com/economy/mustang-produces-apples-worth-over-rs-1-14-billion-31-82.html": 1793240446.5178292,
+  "https://gorkhapatraonline.com/news/227580": 1793241068.7316744,
+  "https://english.onlinekhabar.com/two-npl-matches-today-kathmandu.html": 1793241068.7316744,
+  "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVU9RdTRvSzRKOUlINFYtS0JNTzZxZDdFTTdWeEJpcGVxY3Y2WXpDVEs0a3FqM0tZWjBnX0hKVUdEVEw2aXBZSE53OFJMYUltRkRQeWl2djlEc0FEOXE0WEVpdjFMSmN3bEFlUklNNUVLdmxnQ29qNzQzM2cyeG01V2R4MDJkYm5mNFRhc2N5NA?oc=5": 1793241068.7316744
  },
  "queue": [
   {
@@ -2744,7 +2745,7 @@
    "cat": "sports",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "छयहत्तर देशका आरोही हिमालमा",
@@ -2973,7 +2974,7 @@
    "cat": "culture",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "थप अमेरिकी आक्रमण रोक्न लचकता अपनाउन इरानमाथि कतारको दबाव",
@@ -3313,7 +3314,7 @@
    "cat": "politics",
    "val": 1,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Ani Choying's new role brings old controversies to the fore",
@@ -6883,7 +6884,7 @@
    "cat": "politics"
   }
  ],
- "updated": 1793240475,
+ "updated": 1793241072,
  "pending_since": 1793240446.5178292,
  "fb_blocks": [
   1790350880.4125228,
