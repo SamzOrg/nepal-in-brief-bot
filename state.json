@@ -1,13 +1,5 @@
 {
  "seen": {
-  "https://risingnepaldaily.com/news/88112": 1793099451.0093389,
-  "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUjZpV1dXVW0zNzNqLURsU3JPc19YaUp3dFJybXJWQXpsTXR6LVE2TFJwN21Ba0Z3aGR3eGlGNkRUSDItb3RPUXBWV29vWm1lQVBlRHcyY0szRXE1dmE4Z2l5b010UXk0N1lpRUFlU1dmVXlvSUcxWEN4TWpBVTd3TE1CTmp4eVhOeGRJUTNBcnZYNHdpMHFRU1FMY1dIdUtuV0xCVg?oc=5": 1793099451.0093389,
-  "https://nagariknews.nagariknetwork.com/politics/foreign-minister-khanal-meets-cyprus-non-resident-ambassador-br-13-56.html": 1793100051.469939,
-  "https://baahrakhari.com/detail/505826": 1793100051.469939,
-  "https://gorkhapatraonline.com/news/227418": 1793100051.469939,
-  "https://nagariknews.nagariknetwork.com/politics/german-ambassador-meets-vice-president-yadav-br-73-66.html": 1793100051.469939,
-  "https://nagariknews.nagariknetwork.com/Aparadh/arrested-for-murder-92-61.html": 1793100051.469939,
-  "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRmoxM0oxVWIwcXlfMzU2dDdCNDU2UVFETERrTHVyUHc5THNjcS02VU54aWkzVjhadEhIN2VGbDl4UldjZ3A5Y3hfU3lnRUFPS0FZakRSV0tyeFNaWGlIX3lpLXhPVEoyQy1WZ1RLTmN2aUI0LVpUWFBMblpWUHFaazVMa3JOR09XVWtNZzJMem1rSTAwcjl3SExpMV9iOHBFaS1UMnRQM052czZVS2kyM2lnYm13WlNFb2JpMTZWTkJ2UERG0gHEAUFVX3lxTE9GajEzSjFVYjBxeV8zNTZ0N0I0NTZRUURMRGtMdXJQdzlMc2NxLTZVTnhpaTNWOFp0SEg3ZUZsOXhSV2NncDljeF9TeWdFQU9LQVlqRFJXS3J4U1pYaUhfeWkteE9USjJDLVZnVEtOY3ZpQjQtWlRYUExuWlZQcVprNUxrck5HT1dVa01nMkx6bWtJMDByOXdITGkxX2I4cEVpLVQydFAzTnZzNlVLaTIzaWdibXdaU0VvYmkxNlZOQnZQREY?oc=5": 1793100051.469939,
   "https://gorkhapatraonline.com/news/227420": 1793100675.4775538,
   "https://risingnepaldaily.com/news/88114": 1793100675.4775538,
   "https://baahrakhari.com/detail/505827": 1793100675.4775538,
@@ -2037,7 +2029,9 @@
   "https://www.setopati.com/literature/401548": 1793272250.5066624,
   "http://english.ratopati.com/story/85001/lets-put-the-principle-of-country-before-congress-at-the-center-sharma": 1793272250.5066624,
   "https://baahrakhari.com/detail/506008": 1793272250.5066624,
-  "http://lokaantar.com/story/332149/2026/10/29/manoj-sharma-": 1793272250.5066624
+  "http://lokaantar.com/story/332149/2026/10/29/manoj-sharma-": 1793272250.5066624,
+  "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0zbG1IUDRmWXh2cFUyNXduSlU4c2FvMk9DazVDWERTMFlhNGdyd05EWk9ES2ZqUWZXdTNwTWhZRWhBZU1WUTNSdlA3YWk4NXZwWTNNVGgxektMZThD?oc=5": 1793272852.7437484,
+  "https://baahrakhari.com/detail/506011": 1793272852.7437484
  },
  "queue": [
   {
@@ -2129,143 +2123,6 @@
    ],
    "cat": "politics",
    "val": 1,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "More than 20,000 tourists visit Chitwan National Park during Dashain",
-   "summary": "CHITWAN: A total of 20,087 tourists visited Chitwan National Park during the Dashain festival, following the resumption of jeep safaris inside the park. According to Ganesh Tiwari, the park's information officer, the...",
-   "link": "https://english.khabarhub.com/2026/29/573576/",
-   "source": "Khabarhub EN",
-   "ts": 1793243729,
-   "weight": 2,
-   "img": "https://english.khabarhub.com/wp-content/uploads/2019/01/chitwan-national-park-700x480.jpg",
-   "lang": "en",
-   "hl": "More than 20,000 tourists visit Chitwan National Park during Dashain",
-   "en": "More than 20,000 tourists visit Chitwan National Park during Dashain",
-   "ne": "More than 20,000 tourists visit Chitwan National Park during Dashain",
-   "imp": 3,
-   "tags": [
-    "ChitwanNationalPark",
-    "Tourism",
-    "Dashain"
-   ],
-   "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 3
-  },
-  {
-   "title": "आज दुई खेल हुँदै",
-   "summary": "काठमाडौँ, कात्तिक १२ गते । तेस्रो संस्करणको नेपाल प्रिमियर लिग (एनपिएल) क्रिकेट प्रतियोगितामा आज दुई खेल हुँदैछन् । पहिलो खेलमा जनकपुर बोल्ट्स र काठमाण्डु गोर्खाज तथा दोस्रो खेल कर...",
-   "link": "https://gorkhapatraonline.com/news/227585",
-   "source": "Gorkhapatra",
-   "ts": 1793243889,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/389371/conversions/npl-original.jpg",
-   "lang": "ne",
-   "hl": "आज दुई खेल हुँदै",
-   "en": "आज दुई खेल हुँदै",
-   "ne": "आज दुई खेल हुँदै",
-   "imp": 2,
-   "tags": [
-    "Sports",
-    "Match",
-    "खेलकुद"
-   ],
-   "cat": "sports",
-   "val": 2,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "James Anderson to Captain Napoli Knights in Italy T-10 League",
-   "summary": "Kathmandu. A new franchise cricket tournament is going to be organized in Italy with the aim of developing cricket and...",
-   "link": "http://english.ratopati.com/story/84911/franchise-cricket-in-italy-under-the-captaincy-of-james-anderson",
-   "source": "Ratopati EN",
-   "ts": 1793243879,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/italy_1LYvcfdw1y.webp",
-   "lang": "en",
-   "hl": "James Anderson to Captain Napoli Knights in Italy T-10 League",
-   "en": "James Anderson to Captain Napoli Knights in Italy T-10 League",
-   "ne": "James Anderson to Captain Napoli Knights in Italy T-10 League",
-   "imp": 2,
-   "tags": [
-    "JamesAnderson",
-    "NapoliKnights",
-    "Cricket"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "पर्यटन पुनरुत्थान कार्ययोजना",
-   "summary": "नेपाल प्राकृतिक सुन्दरताको सङ्गम हो । प्राकृतिक सौन्दर्यले भरिपूर्ण विश्वको दुर्लभ देश नेपाल सामाजिक, सांस्कृतिक, धार्मिक, भाषिक, जातीय विविधताले समेत सम्भावना बोकेको देश हो । नेपा...",
-   "link": "https://gorkhapatraonline.com/news/227584",
-   "source": "Gorkhapatra",
-   "ts": 1793243713,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/389370/conversions/22-original.jpg",
-   "lang": "ne",
-   "hl": "पर्यटन पुनरुत्थान कार्ययोजना",
-   "en": "पर्यटन पुनरुत्थान कार्ययोजना",
-   "ne": "पर्यटन पुनरुत्थान कार्ययोजना",
-   "imp": 2,
-   "tags": [
-    "Tourism",
-    "Recovery",
-    "पर्यटन"
-   ],
-   "cat": "economy",
-   "val": 1,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "जनतासँग जोडिने अभियानमा हिँड्यो नेकपा",
-   "summary": "अभियानको घोषित उद्देश्य जनतासँग प्रत्यक्ष संवाद गर्ने, संगठन विस्तार तथा सुदृढीकरण गर्ने र खस्किएको जनमत पुनःस्थापित गर्नु हो । राष्ट्रिय स्वाधीनताको रक्षा, लोकतन्त्र र जनअधिकारको संरक्षण, जनजीविकाका समस्या समाधान तथा...",
-   "link": "https://baahrakhari.com/detail/505960",
-   "source": "Baahrakhari",
-   "ts": 1793243564,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "जनतासँग जोडिने अभियानमा हिँड्यो नेकपा",
-   "en": "जनतासँग जोडिने अभियानमा हिँड्यो नेकपा",
-   "ne": "जनतासँग जोडिने अभियानमा हिँड्यो नेकपा",
-   "imp": 3,
-   "tags": [
-    "CPN",
-    "Campaign",
-    "नेकपा"
-   ],
-   "cat": "politics",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Luiz Inacio Lula da Silva Elected President of Brazil for Fourth Term",
-   "summary": "In the second round of presidential elections held in Brazil on October 25, 2026, left-wing leader Luiz Inacio Lula da...",
-   "link": "http://english.ratopati.com/story/84910/lulas-attack-on-the-right-wing",
-   "source": "Ratopati EN",
-   "ts": 1793243629,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/brasil-lu_QS66zGrUpe.webp",
-   "lang": "en",
-   "hl": "Luiz Inacio Lula da Silva Elected President of Brazil for Fourth Term",
-   "en": "Luiz Inacio Lula da Silva Elected President of Brazil for Fourth Term",
-   "ne": "Luiz Inacio Lula da Silva Elected President of Brazil for Fourth Term",
-   "imp": 1,
-   "tags": [
-    "Brazil",
-    "LulaDaSilva"
-   ],
-   "cat": "world",
-   "val": 3,
    "teaser": false,
    "hits": 1
   },
@@ -6590,7 +6447,7 @@
    "cat": "disaster",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "FNJ South Korea chapter president Khadka awarded with MAMF 2026",
@@ -7845,6 +7702,30 @@
    "val": 3,
    "teaser": false,
    "hits": 2
+  },
+  {
+   "title": "कर्णालीले टस जित्यो, विराटनगरलाई ब्याटिङको निम्तो",
+   "summary": "",
+   "link": "https://baahrakhari.com/detail/506011",
+   "source": "Baahrakhari",
+   "ts": 1793272500,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "कर्णालीले टस जित्यो, विराटनगरलाई ब्याटिङको निम्तो",
+   "en": "कर्णालीले टस जित्यो, विराटनगरलाई ब्याटिङको निम्तो",
+   "ne": "कर्णालीले टस जित्यो, विराटनगरलाई ब्याटिङको निम्तो",
+   "imp": 3,
+   "tags": [
+    "Karnali",
+    "Biratnagar",
+    "Cricket",
+    "क्रिकेट"
+   ],
+   "cat": "sports",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
@@ -10841,8 +10722,8 @@
    "cat": "disaster"
   }
  ],
- "updated": 1793272257,
- "pending_since": null,
+ "updated": 1793272858,
+ "pending_since": 1793272852.7437484,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
