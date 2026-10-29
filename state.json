@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://nagariknews.nagariknetwork.com/social-affairs/rice-to-be-imported-only-after-kartik-15-agricultural-development-office-83-95.html": 1793071871.4096105,
-  "https://www.setopati.com/social/401364": 1793071871.4096105,
   "https://gorkhapatraonline.com/news/227367": 1793072447.5261312,
   "https://gorkhapatraonline.com/news/227363": 1793073045.9805565,
   "https://news.google.com/rss/articles/CBMivAFBVV95cUxNelhLSURDa0tJaXlNNXUxY0dZcHNrSjIwQTM2cWJYYlFXb004VTlXMUZDZ2ZySHY5b2xtLUpybm1yU1FPRGxrSmNKOGdRR1RCNDdPTEQ4V3lkX2VjRzZYM1Q2OGs4cU1Jd2ZjckhDdWVGTnFUaDhoRU5BcVRuNnBNMHpRQ0E3ZFVZUEd3MTZacl85cnRUV0VFNGZSWmpzUVAwRDFKQnUwaDExNGVSdW9nVXJHLWhMUGdMaG96eQ?oc=5": 1793073045.9805565,
@@ -2035,7 +2033,8 @@
   "https://nagariknews.nagariknetwork.com/social-affairs/farmers-are-struggling-to-bring-in-rice-due-to-fear-of-rain-36-39.html": 1793244670.1531358,
   "https://baahrakhari.com/detail/505960": 1793244670.1531358,
   "http://english.ratopati.com/story/84910/lulas-attack-on-the-right-wing": 1793244670.1531358,
-  "https://theannapurnaexpress.com/story/68300": 1793244670.1531358
+  "https://theannapurnaexpress.com/story/68300": 1793244670.1531358,
+  "http://lokaantar.com/story/332124/2026/10/29/npl-": 1793245246.4640102
  },
  "queue": [
   {
@@ -4475,7 +4474,7 @@
    "cat": "sports",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Political parties begin preparations for local, provincial elections",
@@ -7642,7 +7641,7 @@
    "cat": "economy"
   }
  ],
- "updated": 1793244681,
+ "updated": 1793245250,
  "pending_since": 1793244670.1531358,
  "fb_blocks": [
   1790350880.4125228,
