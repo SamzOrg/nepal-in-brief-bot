@@ -1,9 +1,5 @@
 {
  "seen": {
-  "https://nagariknews.nagariknetwork.com/sports/npl-karnali-sets-janakpur-a-moderate-target-of-133-runs-52-19.html": 1793106657.0426178,
-  "https://kathmandupost.com/money/2026/10/27/kathmandu-valley-to-consume-5-18-million-flower-garlands-this-tihar": 1793106657.0426178,
-  "https://kathmandupost.com/national/2026/10/27/nepali-lawmaker-faces-privacy-backlash-over-videos-of-children-filmed-with-smart-glasses": 1793106657.0426178,
-  "http://lokaantar.com/story/332027/2026/10/27/karnali-yaks-": 1793106657.0426178,
   "https://www.setopati.com/politics/401425": 1793107253.1073895,
   "https://gorkhapatraonline.com/news/227434": 1793107253.1073895,
   "https://baahrakhari.com/detail/505832": 1793107253.1073895,
@@ -2060,7 +2056,11 @@
   "https://baahrakhari.com/detail/506027": 1793278889.4981163,
   "https://baahrakhari.com/detail/506026": 1793278889.4981163,
   "http://lokaantar.com/story/332156/2026/10/29/biratnagar-kings-": 1793279453.1451492,
-  "https://www.setopati.com/sports/npl/401562": 1793279453.1451492
+  "https://www.setopati.com/sports/npl/401562": 1793279453.1451492,
+  "https://baahrakhari.com/detail/506033": 1793280049.0134742,
+  "https://english.khabarhub.com/2026/29/573632/": 1793280049.0134742,
+  "https://gorkhapatraonline.com/news/227646": 1793280049.0134742,
+  "https://baahrakhari.com/detail/506030": 1793280049.0134742
  },
  "queue": [
   {
@@ -2133,29 +2133,6 @@
    "hits": 1
   },
   {
-   "title": "फेवाताल संरक्षणमा इच्छाशक्ति कति?",
-   "summary": "पोखराको अस्तित्व फेवातालसँग जोडिएको छ। अझ भनौं फेवाताल छ र त पोखरा छ भन्दा पनि फरक नपर्ला।",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/how-much-willpower-is-there-in-protecting-fewa-lake-55-31.html",
-   "source": "Nagarik News",
-   "ts": 1793250772,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1793251172_dd%20nai%20dd%20nai%2098.jpg",
-   "lang": "ne",
-   "hl": "फेवाताल संरक्षणमा इच्छाशक्ति कति?",
-   "en": "फेवाताल संरक्षणमा इच्छाशक्ति कति?",
-   "ne": "फेवाताल संरक्षणमा इच्छाशक्ति कति?",
-   "imp": 3,
-   "tags": [
-    "FewaLake",
-    "Conservation",
-    "फेवाताल"
-   ],
-   "cat": "society",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
-  },
-  {
    "title": "Mahesh Bartaula Questions Ordinances and Speaker's Rejection of Amendments",
    "summary": "Kathmandu. Former Chief Whip of the CPN-UML Parliamentary Party, Mahesh Bartaula, has raised questions about the government's move to render...",
    "link": "http://english.ratopati.com/story/84928/the-role-of-mps-in-lawmaking-should-not-be-weakened-mahesh-bartaula",
@@ -2172,52 +2149,6 @@
     "MaheshBartaula",
     "Parliament",
     "Ordinances"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Secretary Mishra Highlights Global Importance of Himalayan Ecosystem Conservation",
-   "summary": "Kathmandu. Secretary of the Ministry of Agriculture, Forest and Environment, Dr. Rajendra Prasad Mishra, has stated that the conservation of...",
-   "link": "http://english.ratopati.com/story/84925/those-who-contribute-less-should-not-have-to-bear-the-burden-of-climate-change-dr-mishra",
-   "source": "Ratopati EN",
-   "ts": 1793250658,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/rajendra-prasad-mishra_NwZoj0tmTB.webp",
-   "lang": "en",
-   "hl": "Secretary Mishra Highlights Global Importance of Himalayan Ecosystem Conservation",
-   "en": "Secretary Mishra Highlights Global Importance of Himalayan Ecosystem Conservation",
-   "ne": "Secretary Mishra Highlights Global Importance of Himalayan Ecosystem Conservation",
-   "imp": 3,
-   "tags": [
-    "Himalayas",
-    "Ecosystem",
-    "Conservation"
-   ],
-   "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "RSP sees more interest in mayoral and rural municipality chief posts than ward positions",
-   "summary": "Kathmandu, October 29 The Rastriya Swatantra Party (RSP) has received more applications from aspiring candidates for executive positions in local governments than for ward-level posts, with party leaders reporting...",
-   "link": "https://english.onlinekhabar.com/rsp-interest-chief-posts-election.html",
-   "source": "Onlinekhabar EN",
-   "ts": 1793250900,
-   "weight": 3,
-   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/06/RSP-Women-victory-1024x683-1.png",
-   "lang": "en",
-   "hl": "RSP sees more interest in mayoral and rural municipality chief posts than ward positions",
-   "en": "RSP sees more interest in mayoral and rural municipality chief posts than ward positions",
-   "ne": "RSP sees more interest in mayoral and rural municipality chief posts than ward positions",
-   "imp": 2,
-   "tags": [
-    "RSP",
-    "LocalElections",
-    "Politics"
    ],
    "cat": "politics",
    "val": 3,
@@ -4702,7 +4633,7 @@
    "cat": "economy",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Kathmandu Climate Action Week 2026 calls for volunteers",
@@ -5695,7 +5626,7 @@
    "cat": "culture",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "डीएनएविनै अर्कैको परिवारलाई शव जिम्मा, मृतक भनिएको मान्छे जीवितै फर्किँदा प्रहरीलाई धर्मसंकट !",
@@ -11233,7 +11164,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1793279465,
+ "updated": 1793280052,
  "pending_since": 1793279453.1451492,
  "fb_blocks": [
   1790350880.4125228,
