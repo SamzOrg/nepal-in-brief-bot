@@ -2021,7 +2021,10 @@
   "http://english.ratopati.com/story/84920/two-arrested-with-over-84-kg-of-marijuana-in-siraha": 1793250089.914028,
   "https://gorkhapatraonline.com/news/227590": 1793250089.914028,
   "http://english.ratopati.com/story/84919/prisoner-escapes-after-climbing-ladder-used-for-electrical-repairs": 1793250089.914028,
-  "https://gorkhapatraonline.com/news/227593": 1793250650.1424496
+  "https://gorkhapatraonline.com/news/227593": 1793250650.1424496,
+  "https://risingnepaldaily.com/news/88181": 1793251247.2461095,
+  "http://english.ratopati.com/story/84926/changes-in-government-decision-making-process-comment-level-lowered-departmental-action-against-employees-for-delay": 1793251247.2461095,
+  "https://theannapurnaexpress.com/story/68308": 1793251247.2461095
  },
  "queue": [
   {
@@ -4190,29 +4193,6 @@
    "hits": 1
   },
   {
-   "title": "Two drug dealers arrested in Siraha after warning shot fired in the air",
-   "summary": "Kathmandu, October 29 Police have arrested two Indian nationals involved in the drug trade at Mardar in Siraha after firing a warning shot in the air. According to the Narcotics Control Bureau, 300 grams of brown heroin...",
-   "link": "https://english.onlinekhabar.com/two-drug-dealers-arrested.html",
-   "source": "Onlinekhabar EN",
-   "ts": 1793244307,
-   "weight": 3,
-   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/10/arrested-5-1024x599-1.jpg",
-   "lang": "en",
-   "hl": "Two drug dealers arrested in Siraha after warning shot fired in the air",
-   "en": "Two drug dealers arrested in Siraha after warning shot fired in the air",
-   "ne": "Two drug dealers arrested in Siraha after warning shot fired in the air",
-   "imp": 3,
-   "tags": [
-    "Siraha",
-    "DrugArrest",
-    "सिरहा"
-   ],
-   "cat": "crime",
-   "val": 3,
-   "teaser": false,
-   "hits": 3
-  },
-  {
    "title": "More than 20,000 tourists visit Chitwan National Park during Dashain",
    "summary": "CHITWAN: A total of 20,087 tourists visited Chitwan National Park during the Dashain festival, following the resumption of jeep safaris inside the park. According to Ganesh Tiwari, the park's information officer, the...",
    "link": "https://english.khabarhub.com/2026/29/573576/",
@@ -5329,7 +5309,7 @@
    "cat": "tech",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Cyclone Arnab kills seven in Andhra Pradesh as heavy rain hits eastern India",
@@ -5492,20 +5472,32 @@
    "val": 3,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "Kompany discharged from hospital following collapse",
+   "summary": "Bayern Munich head coach Vincent Kompany has been discharged from hospital and is \"doing well\" following his collapse at the club's training ground, BBC reported. Kompany, 40, was rushed to hospital last Friday after...",
+   "link": "https://theannapurnaexpress.com/story/68308",
+   "source": "Annapurna Express",
+   "ts": 1793236848.3618345,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "Kompany discharged from hospital following collapse",
+   "en": "Kompany discharged from hospital following collapse",
+   "ne": "Kompany discharged from hospital following collapse",
+   "imp": 1,
+   "tags": [
+    "Kompany",
+    "Health",
+    "Football"
+   ],
+   "cat": "world",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1792645869.7596455,
-   "en": "AI finds PHP flaws: Nepal & other government sites go offline",
-   "ne": "AI finds PHP flaws: Nepal & other government sites go offline",
-   "link": "https://english.onlinekhabar.com/ai-major-php-vulnerabilities.html",
-   "source": "Onlinekhabar EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "tech"
-  },
   {
    "ts": 1792647676.1823504,
    "en": "Nepal asks UN fund for urgent aid after Rasuwa disaster",
@@ -8486,9 +8478,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "sports"
+  },
+  {
+   "ts": 1793251266.069144,
+   "en": "Two Indian Drug Dealers Arrested with Brown Heroin in Siraha",
+   "ne": "Two Indian Drug Dealers Arrested with Brown Heroin in Siraha",
+   "link": "https://english.onlinekhabar.com/two-drug-dealers-arrested.html",
+   "source": "Onlinekhabar EN",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "crime"
   }
  ],
- "updated": 1793250654,
+ "updated": 1793251275,
  "pending_since": 1793250650.1424496,
  "fb_blocks": [
   1790350880.4125228,
