@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://risingnepaldaily.com/news/88092": 1793068270.096321,
-  "https://english.khabarhub.com/2026/27/573269/": 1793068270.096321,
   "http://english.ratopati.com/story/84676/he-was-thinking-of-competing-at-the-center-of-the-nepali-sangh-became-a-congress-central-member": 1793068849.4622054,
   "https://gorkhapatraonline.com/news/227355": 1793068849.4622054,
   "https://gorkhapatraonline.com/news/227358": 1793068849.4622054,
@@ -2035,7 +2033,9 @@
   "https://nagariknews.nagariknetwork.com/economy/mustang-produces-apples-worth-over-rs-1-14-billion-31-82.html": 1793240446.5178292,
   "https://gorkhapatraonline.com/news/227580": 1793241068.7316744,
   "https://english.onlinekhabar.com/two-npl-matches-today-kathmandu.html": 1793241068.7316744,
-  "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVU9RdTRvSzRKOUlINFYtS0JNTzZxZDdFTTdWeEJpcGVxY3Y2WXpDVEs0a3FqM0tZWjBnX0hKVUdEVEw2aXBZSE53OFJMYUltRkRQeWl2djlEc0FEOXE0WEVpdjFMSmN3bEFlUklNNUVLdmxnQ29qNzQzM2cyeG01V2R4MDJkYm5mNFRhc2N5NA?oc=5": 1793241068.7316744
+  "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVU9RdTRvSzRKOUlINFYtS0JNTzZxZDdFTTdWeEJpcGVxY3Y2WXpDVEs0a3FqM0tZWjBnX0hKVUdEVEw2aXBZSE53OFJMYUltRkRQeWl2djlEc0FEOXE0WEVpdjFMSmN3bEFlUklNNUVLdmxnQ29qNzQzM2cyeG01V2R4MDJkYm5mNFRhc2N5NA?oc=5": 1793241068.7316744,
+  "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMUQtVlN4ZzlkcER4WGJhTFljMWdKS2RqOUJWUmpwaWtkUkFSTGs5dXROcXBRZEJHbkhjWmc0eEVnN1ZGYnVWamdyWlpQZExqM3BaeDV2UTluR1BvbUpoRnVmTF9aRk9zSVZFTFdBUlkxZVUzWUdrS0hEamdlWUliUGg3dFpJMkJuQzFuWXUwVjZXZDE2S0tyd2xvX3NLSVZnUGp2MWxIXzBWRFQzMGh4N0RYc1l1V1NHLVFjUDZGZ1FrOFBXdEg2OG1zb21mNkk?oc=5": 1793241647.1409583,
+  "https://kathmandupost.com/art-culture/2026/10/29/nepal-government-s-film-grant-scheme-gets-mixed-reviews": 1793241647.1409583
  },
  "queue": [
   {
@@ -2061,29 +2061,6 @@
    "val": 2,
    "teaser": false,
    "hits": 3
-  },
-  {
-   "title": "Analysis: How many times will Nepal resettle its disaster-affected?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQT2l4TGU5eE85RnRCS2M2VGlOc0U3TmY2YmVUeVBfaWwwU2JWcFhiUzU3c0YyTEVBZnFRSFdJRFRoX29yZVBGV2NFS0JiNWZRM1JHRGxWY3ZpUXV0T01qUFVhWEpPcF8zR0Y0TGpuMHpsTDFwWW1xeEZFTzJnLU4tOUxVZ0FJWkxGSkZ6aXhKeU91YS1CVGd5UHVuYU5TQy1CUlE?oc=5",
-   "source": "Dialogue Earth",
-   "ts": 1793212546,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Analysis: How many times will Nepal resettle its disaster-affected?",
-   "en": "Analysis: How many times will Nepal resettle its disaster-affected?",
-   "ne": "Analysis: How many times will Nepal resettle its disaster-affected?",
-   "imp": 3,
-   "tags": [
-    "DisasterRelief",
-    "Resettlement",
-    "Nepal"
-   ],
-   "cat": "disaster",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
   },
   {
    "title": "Movie Review: In 'Everest: The Other Side,' tragedy and triumph intermingle on the peaks of Nepal",
@@ -6884,7 +6861,7 @@
    "cat": "politics"
   }
  ],
- "updated": 1793241072,
+ "updated": 1793241669,
  "pending_since": 1793240446.5178292,
  "fb_blocks": [
   1790350880.4125228,
