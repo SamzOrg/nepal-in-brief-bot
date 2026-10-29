@@ -1,9 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQVJrSFoySEhEUEc0Q1FKRHotUWp4bFQwUzNIb2VLSDVtRmEtLWFQNTFJYjBzaWxzMnlaVVBrY0hkeWp4dXJvM0ljczk4UXhRRGl6Rkt3bzZhQkhuLTBvS2RqLTZEcTBKbmhiektRYlhWTGJTa182UlI0Tkt1VUsyZHRpT3pjSVJETktWcFVjYjdPYTMwdUN0UVVfcTE2Q1VBV0ViaFdLWWxtdFU?oc=5": 1793095286.3771114,
-  "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1FQThoWnlGMjA5dGoxeUd6eFJHSWt5TmM4dFBKNUg5ZHJFWTAySjJRNXBoZHBiYjIwZm5aWmVsMjZtQXZ3djFvWndpNGZjRVJWWGhROERzZw?oc=5": 1793095286.3771114,
-  "https://www.setopati.com/social/401400": 1793095286.3771114,
-  "https://theannapurnaexpress.com/story/68256": 1793095286.3771114,
   "https://gorkhapatraonline.com/news/227411": 1793095851.9643092,
   "https://english.onlinekhabar.com/2-months-after-bhotekoshi-flood-relatives-still-await-dna-reports-of-missing-family-members.html": 1793095851.9643092,
   "https://baahrakhari.com/detail/505815": 1793095851.9643092,
@@ -2042,7 +2038,12 @@
   "https://kathmandupost.com/national/2026/10/29/cyclone-arnab-s-remnants-raise-landslide-risk-on-nepal-s-main-highways": 1793268081.9084756,
   "https://baahrakhari.com/detail/506001": 1793268081.9084756,
   "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTFJxSE5TUktkdlhLclFrWEJZaWxjMDc3LUtEd05yWmhsMmJIMDVYbXVCOUVteUQ3b0s3b3FMNXdnNlNGdk0xajE4eEpCQ0RlZ0R2clViZ0pnSEtUc21rb2xKM0NTRjAtbzZFeUllaU16QXBvZEtiUlktZ0Zzc0M3ZWZGeldWVl9PQ3gwRUVOUHZZYnBqaXg0YXpqY0ExYUNLT1BfbnJpNXh3WnFETGpGYV83VjJiWms?oc=5": 1793268081.9084756,
-  "http://lokaantar.com/story/332145/2026/10/29/janakpur-": 1793268081.9084756
+  "http://lokaantar.com/story/332145/2026/10/29/janakpur-": 1793268081.9084756,
+  "https://english.onlinekhabar.com/moeen-ali-powers-janakpur-bolts-to-comfortable-win-over-kathmandu-gorkhas.html": 1793268650.1250875,
+  "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4weXRyeTBwZnhGbGd6LVFTZ2VWbVhKVXFqUFl2UkpQVjROTmkycVVOTE5rZ21STWMtNGhjYXhlM2JGYlpVbVhRaEdNQ0dIeGxuY3lPNWFhdw?oc=5": 1793268650.1250875,
+  "http://english.ratopati.com/story/84990/janakpur-easily-defeated-kathmandu": 1793268650.1250875,
+  "https://nagariknews.nagariknetwork.com/sports/janakpur-bolts-on-the-verge-of-victory-with-moeen-ali-s-half-century-59-31.html": 1793268650.1250875,
+  "https://english.onlinekhabar.com/8-killed-4-injured-in-ambulance-oxygen-cylinder-explosion-in-pakistan.html": 1793268650.1250875
  },
  "queue": [
   {
@@ -2133,53 +2134,6 @@
     "Lumbini"
    ],
    "cat": "culture",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "मुस्लिम मन्सुरी र वामपन्थी लुला",
-   "summary": "उत्तर अफ्रिकी मुलुक मोरक्कोमा फातिमा जाहरा एल मन्सुरी प्रधानमन्त्री बन्नुभएको छ । उहाँ त्यहाँको पहिलो मुस्लिम महिला प्रधानमन्त्री बन्नुभएको हो । मोरक्कोका राजा मोहम्मद छैटौँले उहाँ...",
-   "link": "https://gorkhapatraonline.com/news/227579",
-   "source": "Gorkhapatra",
-   "ts": 1793239704,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/389365/conversions/322-original.jpg",
-   "lang": "ne",
-   "hl": "मुस्लिम मन्सुरी र वामपन्थी लुला",
-   "en": "मुस्लिम मन्सुरी र वामपन्थी लुला",
-   "ne": "मुस्लिम मन्सुरी र वामपन्थी लुला",
-   "imp": 1,
-   "tags": [
-    "Mansoor",
-    "Lula",
-    "World"
-   ],
-   "cat": "world",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "युवा पलायनले मुलुकलाई उन्नतितर्फ नभइ अवनतितर्फ लैजान्छ : मुख्यमन्त्री थापा",
-   "summary": "उनले रोजगारी, अध्ययन तथा अन्य कारणले विदेशमा रहेका नेपाली नागरिकलाई देशबाट टाढिएको रूपमा मात्र हेर्न नहुने धारणा व्यक्त गरेका छन्।...",
-   "link": "https://nagariknews.nagariknetwork.com/politics/youth-migration-will-lead-the-country-towards-decline-rather-than-progress-chief-minister-thapa-71-37.html",
-   "source": "Nagarik News",
-   "ts": 1793239387,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1790584385_kiran.jpg",
-   "lang": "ne",
-   "hl": "युवा पलायनले मुलुकलाई उन्नतितर्फ नभइ अवनतितर्फ लैजान्छ : मुख्यमन्त्री थापा",
-   "en": "युवा पलायनले मुलुकलाई उन्नतितर्फ नभइ अवनतितर्फ लैजान्छ : मुख्यमन्त्री थापा",
-   "ne": "युवा पलायनले मुलुकलाई उन्नतितर्फ नभइ अवनतितर्फ लैजान्छ : मुख्यमन्त्री थापा",
-   "imp": 3,
-   "tags": [
-    "YouthMigration",
-    "ChiefMinisterThapa",
-    "BrainDrain",
-    "युवापलायन"
-   ],
-   "cat": "politics",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -4713,29 +4667,6 @@
    "hits": 2
   },
   {
-   "title": "Spain begins three days of mourning after train crash kills dozens",
-   "summary": "Spain is beginning three days of mourning after at least 68 people were killed and dozens more were injured in one of the worst rail disasters in Europe's modern history, BBC reported. Emergency crews worked through the...",
-   "link": "https://theannapurnaexpress.com/story/68311",
-   "source": "Annapurna Express",
-   "ts": 1793239287.6500027,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Spain begins three days of mourning after train crash kills dozens",
-   "en": "Spain begins three days of mourning after train crash kills dozens",
-   "ne": "Spain begins three days of mourning after train crash kills dozens",
-   "imp": 1,
-   "tags": [
-    "Spain",
-    "TrainCrash",
-    "SpainAccident"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Nepali Youth Arrested in India with Fake Passport",
    "summary": "Kathmandu. A Nepali youth who was going to Dubai by making fake documents has been arrested from Chaudhary Charan Singh...",
    "link": "http://english.ratopati.com/story/84934/a-young-man-from-kailali-who-was-going-to-dubai-on-an-indian-passport-was-arrested-at-lucknow-airport",
@@ -5398,7 +5329,7 @@
    "cat": "sports",
    "val": 2,
    "teaser": false,
-   "hits": 10
+   "hits": 12
   },
   {
    "title": "NC new CWC to assume office today, swearing-in ceremony to differ from past",
@@ -7079,7 +7010,7 @@
    "cat": "society",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Butwal Sub-Metropolis Appeals to Citizens to Use Local Flowers for Tihar and Chhath",
@@ -7695,6 +7626,29 @@
     "KTM"
    ],
    "cat": "sports",
+   "val": 3,
+   "teaser": false,
+   "hits": 2
+  },
+  {
+   "title": "8 killed, 4 injured in ambulance oxygen cylinder explosion in Pakistan",
+   "summary": "Eight people were killed, and four others were injured when an oxygen cylinder exploded inside an ambulance in Pakistan's southern Sindh province on Wednesday night. According to police, the explosion occurred in an...",
+   "link": "https://english.onlinekhabar.com/8-killed-4-injured-in-ambulance-oxygen-cylinder-explosion-in-pakistan.html",
+   "source": "Onlinekhabar EN",
+   "ts": 1793268549,
+   "weight": 3,
+   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/10/pak.jpg",
+   "lang": "en",
+   "hl": "8 killed, 4 injured in ambulance oxygen cylinder explosion in Pakistan",
+   "en": "8 killed, 4 injured in ambulance oxygen cylinder explosion in Pakistan",
+   "ne": "8 killed, 4 injured in ambulance oxygen cylinder explosion in Pakistan",
+   "imp": 1,
+   "tags": [
+    "Pakistan",
+    "Ambulance",
+    "Explosion"
+   ],
+   "cat": "world",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -10694,7 +10648,7 @@
    "cat": "crime"
   }
  ],
- "updated": 1793268089,
+ "updated": 1793268660,
  "pending_since": 1793268081.9084756,
  "fb_blocks": [
   1790350880.4125228,
