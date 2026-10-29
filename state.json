@@ -2011,7 +2011,9 @@
   "https://gorkhapatraonline.com/news/227556": 1793234449.46033,
   "https://gorkhapatraonline.com/news/227555": 1793234449.46033,
   "https://gorkhapatraonline.com/news/227561": 1793235051.0094888,
-  "http://english.ratopati.com/story/84894/cyclone-arnab-jhapa-administration-urges-people-to-be-vigilant-for-three-days": 1793235051.0094888
+  "http://english.ratopati.com/story/84894/cyclone-arnab-jhapa-administration-urges-people-to-be-vigilant-for-three-days": 1793235051.0094888,
+  "https://www.setopati.com/social/401504": 1793235680.52051,
+  "https://english.khabarhub.com/2026/29/573543/": 1793235680.52051
  },
  "queue": [
   {
@@ -2376,7 +2378,7 @@
    "cat": "disaster",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "तनहुँमा विकास आयोजनालाई ७१८ हेक्टर वन क्षेत्र प्रयोग गर्न अनुमति",
@@ -5670,7 +5672,7 @@
    "cat": "health"
   }
  ],
- "updated": 1793235074,
+ "updated": 1793235685,
  "pending_since": 1793235051.0094888,
  "fb_blocks": [
   1790350880.4125228,
