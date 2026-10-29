@@ -2030,7 +2030,10 @@
   "https://theannapurnaexpress.com/story/68296": 1793242886.9173377,
   "http://lokaantar.com/story/332119/2026/10/29/salt-": 1793242886.9173377,
   "http://english.ratopati.com/story/84906/salt-trading-corporation-limited-sells-food-items-worth-over-rs-800000-at-fair-prices": 1793242886.9173377,
-  "https://theannapurnaexpress.com/story/68295": 1793242886.9173377
+  "https://theannapurnaexpress.com/story/68295": 1793242886.9173377,
+  "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1tRDhZRU5WX2lPS1BaSklmSU5kX2JBTDEwRnRSTkhTZlZUYm1qeFNJYXRYcklLeHRSdmRaRnpvTnRST1pUNF9neHFLaE9SWTlqSUpidVVwaw?oc=5": 1793243447.583089,
+  "http://english.ratopati.com/story/84909/budhi-gandaki-flood-causes-damage-worth-crores-in-machhakhola-photos": 1793243447.583089,
+  "http://lokaantar.com/story/332122/2026/10/29/apple-": 1793243447.583089
  },
  "queue": [
   {
@@ -3984,7 +3987,7 @@
    "cat": "world",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "तिहार तथा छठ नजिकिएसँगै बाँसका सामग्री किनमेल गर्नेहरूको चहलपहल",
@@ -4190,6 +4193,54 @@
     "Security"
    ],
    "cat": "world",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Flood Causes Significant Damage in Machhikhola, Gorkha",
+   "summary": "GORKHA. The flood that occurred on October 25 caused great damage in Machhikhola, Dharche Rural Municipality-5, Gorkha. Local traders have...",
+   "link": "http://english.ratopati.com/story/84909/budhi-gandaki-flood-causes-damage-worth-crores-in-machhakhola-photos",
+   "source": "Ratopati EN",
+   "ts": 1793243098,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/gorkha-badi_5faZ1O6SiW.webp",
+   "lang": "en",
+   "hl": "Flood Causes Significant Damage in Machhikhola, Gorkha",
+   "en": "Flood Causes Significant Damage in Machhikhola, Gorkha",
+   "ne": "Flood Causes Significant Damage in Machhikhola, Gorkha",
+   "imp": 3,
+   "tags": [
+    "Flood",
+    "Gorkha",
+    "Machhikhola",
+    "बाढी"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "बाढीले बाटो बगाएपछि एक लाख किलो स्याउ गोदाममै थन्कियो",
+   "summary": "बूढीगण्डकी बाढीले पुल र बाटो बगाएपछि उत्तरी गोरखाको मनास्लु क्षेत्रमा उत्पादन भएका स्याउ गोदाममै थन्किएका छन् । ढुवानीको विकल्प नभएपछि गोदाममै स्याउ थन्क्याउनुपर्ने बाध्यता रहेको व्यवसायी लाक्पा डुन्डुप लामाले गुनासो...",
+   "link": "http://lokaantar.com/story/332122/2026/10/29/apple-",
+   "source": "Lokaantar",
+   "ts": 1793229048.2973583,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "बाढीले बाटो बगाएपछि एक लाख किलो स्याउ गोदाममै थन्कियो",
+   "en": "बाढीले बाटो बगाएपछि एक लाख किलो स्याउ गोदाममै थन्कियो",
+   "ne": "बाढीले बाटो बगाएपछि एक लाख किलो स्याउ गोदाममै थन्कियो",
+   "imp": 3,
+   "tags": [
+    "Apple",
+    "Flood",
+    "SupplyChain",
+    "बाढी"
+   ],
+   "cat": "economy",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -7200,8 +7251,8 @@
    "cat": "disaster"
   }
  ],
- "updated": 1793242894,
- "pending_since": null,
+ "updated": 1793243451,
+ "pending_since": 1793243447.583089,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
