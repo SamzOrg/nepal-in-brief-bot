@@ -1,13 +1,5 @@
 {
  "seen": {
-  "https://english.onlinekhabar.com/npl-chitwan-target-biratnagar.html": 1793090451.767392,
-  "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5pRWR5QzRwZTBXLTFBVThHSGh4T0dVWjJ3d0x5OG1NMmZJN09ONzN2SlRTWjl2ZG9ONzlSSjQ2ejJwVVBiV21NcmR1c2hhNFdY?oc=5": 1793090451.767392,
-  "https://risingnepaldaily.com/news/88107": 1793090451.767392,
-  "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbzYwTmtfa1FsV3RmbEJVZk9DbmxQZEdSMzNrTm40YkJSZW5XdkZBdWVZVFgwb3VDVWIxZVN0MkV1UDl0Q1E4MGV6NnowQnRCU1M3bmZNN3F3YnJzQS11M3A0LXpwZnI3ZUZMNllEanJXSGVyMnViQ2NMQUFNdkR0RmdtNWVTVVp3RkQtVXZXR1ZRQnhJTWxLNTVSTzVxdTByV1R6eVFhS0lkQkJSRVBiakgzdnJpNTh0MzdENGdXMNIBxAFBVV95cUxPRmoxM0oxVWIwcXlfMzU2dDdCNDU2UVFETERrTHVyUHc5THNjcS02VU54aWkzVjhadEhIN2VGbDl4UldjZ3A5Y3hfU3lnRUFPS0FZakRSV0tyeFNaWGlIX3lpLXhPVEoyQy1WZ1RLTmN2aUI0LVpUWFBMblpWUHFaazVMa3JOR09XVWtNZzJMem1rSTAwcjl3SExpMV9iOHBFaS1UMnRQM052czZVS2kyM2lnYm13WlNFb2JpMTZWTkJ2UERG?oc=5": 1793090451.767392,
-  "https://baahrakhari.com/detail/505802": 1793090451.767392,
-  "https://nagariknews.nagariknetwork.com/politics/energy-minister-shrestha-departs-for-bangkok-76-31.html": 1793090451.767392,
-  "http://lokaantar.com/story/332015/2026/10/27/biraj-bhakta-shrestha-": 1793090451.767392,
-  "http://lokaantar.com/story/332014/2026/10/27/npl-": 1793090451.767392,
   "https://baahrakhari.com/detail/505803": 1793091051.130388,
   "https://english.khabarhub.com/2026/27/573355/": 1793091051.130388,
   "https://theannapurnaexpress.com/story/68251": 1793091051.130388,
@@ -2029,32 +2021,38 @@
   "https://english.onlinekhabar.com/himalayan-cop31-foreign-minister.html": 1793263248.9093587,
   "https://news.google.com/rss/articles/CBMiekFVX3lxTFB6YkVUUjFxQmprYmhOai05OG4ya2Q3Q2tpalVZaFBMdE0yQi0xb3VXb01mM3JEVjdNUGlBRTZzX0hwUmVwX0V4ZnkzeVp6SXFGcmNLZjh5a216bzVIU0ZBXzY1OF9ITDZTY1AwU05mVnJWaHpCNTVrbXVn?oc=5": 1793263248.9093587,
   "https://gorkhapatraonline.com/news/227627": 1793263248.9093587,
-  "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQdEpmQlpia3BXcF9XVjRQMjY2bm9wUzB6WThGVUNkVXhaQ0I4STB2RS0tTzZvaG41a1JUSmpLUTIwNTNXeTAteUJWV19BMnR4T1RTdE43S2xVX09Fcl92Ul9OVDBoX0psYUxjUzVMNFliRVNUblNXSEJ3QjE2YzA5al9tRmgxTlJiZnV3Tll0OElfa3M5NllYNkIwaXNNcmJ2VUVhQTFTMjlNMXVPcHByRnBHNlNzRFpEdFpGR1NDNjBGZkE4SGRfa0lzeGhCMFkteW9qRy02UnpRb0sy0gHiAUFVX3lxTFA4OGNWR3haYXk2ZEdRZF95UGh2NkpnREZ3dUpyd0pvdVR2UVNsSnQ1M3VRMW4wMEExWnhQMHFzeXNnczdRa2hyVC0wZzFmR1gzMmM3cTJvUHNsdmJOYU1zUHdBVzBsTkYtZ2xJY0lrQUU3MWZNZWE5ZGtzZWdxZXpXSDRBNGRUMXlFMlZXTS0xV3V6b1FyVVM5MlVLNkxXWXJfU3NiUVR1R09WM0NfWVNLUjhMd3dSNlVwYzl6MVFDajB3UWFGdVJPcXhfRVNOYWVZMWMxWVVjdDRQeU9LWXEtTWc?oc=5": 1793263248.9093587
+  "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQdEpmQlpia3BXcF9XVjRQMjY2bm9wUzB6WThGVUNkVXhaQ0I4STB2RS0tTzZvaG41a1JUSmpLUTIwNTNXeTAteUJWV19BMnR4T1RTdE43S2xVX09Fcl92Ul9OVDBoX0psYUxjUzVMNFliRVNUblNXSEJ3QjE2YzA5al9tRmgxTlJiZnV3Tll0OElfa3M5NllYNkIwaXNNcmJ2VUVhQTFTMjlNMXVPcHByRnBHNlNzRFpEdFpGR1NDNjBGZkE4SGRfa0lzeGhCMFkteW9qRy02UnpRb0sy0gHiAUFVX3lxTFA4OGNWR3haYXk2ZEdRZF95UGh2NkpnREZ3dUpyd0pvdVR2UVNsSnQ1M3VRMW4wMEExWnhQMHFzeXNnczdRa2hyVC0wZzFmR1gzMmM3cTJvUHNsdmJOYU1zUHdBVzBsTkYtZ2xJY0lrQUU3MWZNZWE5ZGtzZWdxZXpXSDRBNGRUMXlFMlZXTS0xV3V6b1FyVVM5MlVLNkxXWXJfU3NiUVR1R09WM0NfWVNLUjhMd3dSNlVwYzl6MVFDajB3UWFGdVJPcXhfRVNOYWVZMWMxWVVjdDRQeU9LWXEtTWc?oc=5": 1793263248.9093587,
+  "http://english.ratopati.com/story/84983/janakpur-started-batting-in-reply-scored-6-runs-in-4-balls": 1793263846.7329943,
+  "http://english.ratopati.com/story/84982/development-expenditure-not-even-5-percent-in-three-months": 1793263846.7329943,
+  "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNjZvVHNXVkdzSno5NEJoZEtMQ3B1NG9wMnQwUEh2YkNxUHQ1M09FZXI5MFRJZ1NXMVlSRlJJYWtHS1BhcUpqN2hhQzBzanFwa2JjdVhocDNKUElKM1RvQU5oek1lTk84eDlOZ3AwTFlWTklpcHJ2VlRxeC1WYnRFdTBaNGw5S2g0ZFNQUnRReTF2b2g4UHhxYi12bDZ4TGFicjNTbm82b0JuWUprRGlxdTBfcDc?oc=5": 1793263846.7329943,
+  "http://lokaantar.com/story/332142/2026/10/29/arrest-": 1793263846.7329943,
+  "https://gorkhapatraonline.com/news/227629": 1793263846.7329943,
+  "http://english.ratopati.com/story/84981/ishan-pandey-appointed-as-brand-ambassador-of-london-ear-care": 1793263846.7329943,
+  "https://risingnepaldaily.com/news/88190": 1793263846.7329943,
+  "https://nagariknews.nagariknetwork.com/education/announcement-to-take-rajarshijanak-university-to-a-digital-system-br-92-39.html": 1793263846.7329943,
+  "https://www.setopati.com/kinmel/automobiles/401534": 1793263846.7329943,
+  "https://english.khabarhub.com/2026/29/573616/": 1793263846.7329943,
+  "https://english.onlinekhabar.com/complaint-congress-central-member.html": 1793263846.7329943,
+  "https://baahrakhari.com/detail/505990": 1793263846.7329943,
+  "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOU0d0d08yYWFPYmtzQTRoUjc4WEhVZ2NmQ284WEF5ZnRETDFqVEdycXM4YlA4N3YwVXZrdTVQWE11MWdNVlRpck1pd3Z0Y2FxZDRZRDVvYjVtaXpmaFU2Z0F1TjFZamVnYi10UGxXVEVlOWJCbmFlZDZMOVRzWnBMTG5JS3ZOSGdQRG40UWE2X3dTOHRTUFVrXzNqekFlNHhoZVVZNGRnT08wVzR1UGc4TkNBajJycFdLSFZxWmNwNWVfY1E?oc=5": 1793263846.7329943,
+  "https://theannapurnaexpress.com/story/68315": 1793263846.7329943,
+  "http://lokaantar.com/story/332141/2026/10/29/congress": 1793263846.7329943,
+  "https://gorkhapatraonline.com/news/227628": 1793263846.7329943,
+  "http://english.ratopati.com/story/84980/announcement-to-move-the-university-to-a-centralized-digital-system": 1793263846.7329943,
+  "https://nagariknews.nagariknetwork.com/politics/preparations-for-nepal-s-effective-participation-in-cop-31-br-71-43.html": 1793263846.7329943,
+  "https://www.setopati.com/blog/401497": 1793263846.7329943,
+  "https://english.khabarhub.com/2026/29/573608/": 1793263846.7329943,
+  "https://news.google.com/rss/articles/CBMiowFBVV95cUxOM0U3RFNFbGJBRFNnZDcyeWUwTkRSMTBmZ0Q4eV85RVhlTW9zY2tNRHFXOHczSl9ZSHFKNFdxdlN2T2UtTjEwOUE0TkhoaUJUTHcxZVJNWC1qVUFESGliM1ptN2pnVl9qVzMxZ291dDlHUHdCRGh6UEpIVW5FVXZlVU5vWVBXQlQtS3JzWVNCdF85aFFHZnlTQmJIenVDbU05V0hz?oc=5": 1793263846.7329943,
+  "http://lokaantar.com/story/332140/2026/10/29/npl-": 1793263846.7329943,
+  "https://gorkhapatraonline.com/news/227626": 1793263846.7329943,
+  "http://english.ratopati.com/story/84979/various-mother-tongues-should-be-made-the-official-languages-of-lumbini-speaker-gharti": 1793263846.7329943,
+  "https://nagariknews.nagariknetwork.com/social-affairs/police-say-don-t-make-evidence-public-as-investigation-into-inam-sapkota-is-ongoing-br-48-78.html": 1793263846.7329943,
+  "https://gorkhapatraonline.com/news/227623": 1793263846.7329943,
+  "http://english.ratopati.com/story/84977/us-military-officer-removed-amid-potential-attack-on-iran": 1793263846.7329943,
+  "https://nagariknews.nagariknetwork.com/sports/npl-17-year-old-rahul-shines-as-kathmandu-bowled-out-for-115-44-72.html": 1793263846.7329943,
+  "https://gorkhapatraonline.com/news/227622": 1793263846.7329943
  },
  "queue": [
-  {
-   "title": "चाडपर्वमा बढ्यो सवारी दुर्घटना : एक सय चालिस जनाको मृत्यु",
-   "summary": "गोरखापत्र समाचारदाताकाठमाडौँ, कात्तिक १२ गते । यात्रुको चाप बढेसँगै चाडपर्वको अवधिमा सवारी दुर्घटनाबाट ज्यान गुमाउनेको सङ्ख्या उच्च रूपमा बढेको छ । यस अवधिमा १५ दिनभित्र देशभर एक ह...",
-   "link": "https://gorkhapatraonline.com/news/227561",
-   "source": "Gorkhapatra",
-   "ts": 1793234807,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/389346/conversions/motercycle-accident-original.jpg",
-   "lang": "ne",
-   "hl": "चाडपर्वमा बढ्यो सवारी दुर्घटना : एक सय चालिस जनाको मृत्यु",
-   "en": "चाडपर्वमा बढ्यो सवारी दुर्घटना : एक सय चालिस जनाको मृत्यु",
-   "ne": "चाडपर्वमा बढ्यो सवारी दुर्घटना : एक सय चालिस जनाको मृत्यु",
-   "imp": 4,
-   "tags": [
-    "RoadAccident",
-    "Festival",
-    "सवारीदुर्घटना"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
   {
    "title": "At least 68 killed in high-speed train collision in central Spain",
    "summary": "MADRID: At least 68 people have died and dozens more have been injured after two high-speed trains collided in central Spain. The crash occurred when a train travelling from Madrid to Seville struck a stationary train...",
@@ -2100,29 +2098,6 @@
    "val": 3,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "CAAN urges aviation sector to adopt safety measures amid Cyclone Arnab",
-   "summary": "KATHMANDU: The Civil Aviation Authority of Nepal (CAAN) has called on aviation stakeholders to strengthen safety measures in anticipation of potential disruptions caused by Cyclone Arnab. In a safety circular, CAAN...",
-   "link": "https://english.khabarhub.com/2026/29/573553/",
-   "source": "Khabarhub EN",
-   "ts": 1793235590,
-   "weight": 2,
-   "img": "https://english.khabarhub.com/wp-content/uploads/2020/06/CAAN-640x360.jpg",
-   "lang": "en",
-   "hl": "CAAN urges aviation sector to adopt safety measures amid Cyclone Arnab",
-   "en": "CAAN urges aviation sector to adopt safety measures amid Cyclone Arnab",
-   "ne": "CAAN urges aviation sector to adopt safety measures amid Cyclone Arnab",
-   "imp": 3,
-   "tags": [
-    "CAAN",
-    "CycloneArnab",
-    "AviationSafety"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 4
   },
   {
    "title": "दसैँमा पनि वैदेशिक रोजगारीमा जाने बढे",
@@ -2578,29 +2553,6 @@
    "hits": 1
   },
   {
-   "title": "Putin seeks to expand ties with African countries at Russia-Africa summit",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTVE4MkNKTWROQXk4c2pWMDBWWEJMTmc0dUdvT1NIQ2NIa3hiemJBRThnbDlZQkt0SERKc0pyci1wX0hlV2c4V0RBZEVfZ3lla0theFRMb3ZqYmJrUGw3Ykl6WjJpdkRVQThGdjhrT3piTEx6aEdXM0YyR09iN25HM2NiTFZmQ2R5bk5NY09YT1BpdkcwVnJtQVg3WnB4THlUSmo3ZjEza1JMcF93MlpOTzFRcVo3aFBGTElpT19QRlZGNE1wNjI2YWx1MFU?oc=5",
-   "source": "myRepublica",
-   "ts": 1793234612,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Putin seeks to expand ties with African countries at Russia-Africa summit",
-   "en": "Putin seeks to expand ties with African countries at Russia-Africa summit",
-   "ne": "Putin seeks to expand ties with African countries at Russia-Africa summit",
-   "imp": 1,
-   "tags": [
-    "Putin",
-    "RussiaAfricaSummit",
-    "Africa"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Microsoft Reports Over $36.6 Billion Quarterly Profit Amidst Employee Layoffs, While Google's Parent Alphabet Sees 25% Profit Decline",
    "summary": "Kathmandu. Technology company Microsoft has made a quarterly profit of over 36.6 billion US dollars just days after announcing employee...",
    "link": "http://english.ratopati.com/story/84899/microsoft-announces-staff-cuts-a-blow-to-google",
@@ -3015,30 +2967,6 @@
     "चाडबाड"
    ],
    "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "एन्फा अध्यक्ष र महासचिव धरौटीमा रिहा",
-   "summary": "अखिल नेपाल फुटबल संघ (एन्फा)का अध्यक्ष पंकजविक्रम नेम्बाङ र महासचिव किरण राई ललितपुर जिल्ला अदालतबाट धरौटीमा रिहा भएका छन्।...",
-   "link": "https://nagariknews.nagariknetwork.com/sports/anfa-president-and-general-secretary-released-on-bail-br-94-87.html",
-   "source": "Nagarik News",
-   "ts": 1793234615,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1793235005_nem%20ra%20Kiran%20%2098.jpg",
-   "lang": "ne",
-   "hl": "एन्फा अध्यक्ष र महासचिव धरौटीमा रिहा",
-   "en": "एन्फा अध्यक्ष र महासचिव धरौटीमा रिहा",
-   "ne": "एन्फा अध्यक्ष र महासचिव धरौटीमा रिहा",
-   "imp": 3,
-   "tags": [
-    "ANFA",
-    "Corruption",
-    "Football",
-    "एन्फा"
-   ],
-   "cat": "sports",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -5477,7 +5405,7 @@
    "cat": "sports",
    "val": 3,
    "teaser": false,
-   "hits": 4
+   "hits": 5
   },
   {
    "title": "भोटेकोशी बाढीमा बेपत्ता भएकाको मृत्युदर्तामा ढिलाइ",
@@ -5776,7 +5704,7 @@
    "cat": "crime",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "कांग्रेसले रोक्यो अदालतमा मुद्दा विचाराधीन रहेका ४ केन्द्रीय सदस्यको शपथ",
@@ -6395,7 +6323,7 @@
    "cat": "sports",
    "val": 2,
    "teaser": false,
-   "hits": 8
+   "hits": 9
   },
   {
    "title": "NC new CWC to assume office today, swearing-in ceremony to differ from past",
@@ -7187,48 +7115,52 @@
    "hits": 1
   },
   {
-   "title": "Chief Justice, Supreme Court judges mentioned in Inam Sapkota's message",
-   "summary": "Kathmandu, October 29 Inam Sapkota, who was arrested on allegations of acting as a middleman, has been found to have invoked the names of senior government officials, including Prime Minister Balen Shah and Chief...",
-   "link": "https://english.onlinekhabar.com/chief-justice-supreme-court-judges-mentioned-in-inam-sapkotas-message.html",
-   "source": "Onlinekhabar EN",
+   "title": "प्रहरीले भन्यो : इनम सापकोटामाथि अनुसन्धान भइरहेकाले प्रमाण सार्वजनिक नगर्नू",
+   "summary": "प्रहरीले विचौलियाको काम गरेको आरोपमा पक्राउ परेका इनम सापकोटाबारे अनुसन्धान जारी रहेकाले संवेदनशील विवरण, प्रमाण तथा सूचना सार्वजनिक नगर्न आग्रह गरेको छ।...",
+   "link": "https://nagariknews.nagariknetwork.com/social-affairs/police-say-don-t-make-evidence-public-as-investigation-into-inam-sapkota-is-ongoing-br-48-78.html",
+   "source": "Nagarik News",
    "ts": 1793261334,
    "weight": 3,
-   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/10/Inam-Banner-1024x500-1.jpg",
-   "lang": "en",
-   "hl": "Chief Justice, Supreme Court judges mentioned in Inam Sapkota's message",
-   "en": "Chief Justice, Supreme Court judges mentioned in Inam Sapkota's message",
-   "ne": "Chief Justice, Supreme Court judges mentioned in Inam Sapkota's message",
+   "img": "https://images.nagariknewscdn.com/2026/third-party/1793262836_inam%20sapkota.jpg",
+   "lang": "ne",
+   "hl": "प्रहरीले भन्यो : इनम सापकोटामाथि अनुसन्धान भइरहेकाले प्रमाण सार्वजनिक नगर्नू",
+   "en": "प्रहरीले भन्यो : इनम सापकोटामाथि अनुसन्धान भइरहेकाले प्रमाण सार्वजनिक नगर्नू",
+   "ne": "प्रहरीले भन्यो : इनम सापकोटामाथि अनुसन्धान भइरहेकाले प्रमाण सार्वजनिक नगर्नू",
    "imp": 3,
    "tags": [
+    "InamSapkota",
     "SupremeCourt",
-    "ChiefJustice"
+    "Police",
+    "प्रहरी"
    ],
    "cat": "politics",
-   "val": 1,
+   "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
-   "title": "Unauthorised health camp leads to detention of 10 foreigners",
-   "summary": "KATHMANDU, OCTOBER 28Ten foreign nationals, who conducted a health camp on tourist visas for a Christian missionary organisation, have had their documents seized and were referred...",
-   "link": "https://thehimalayantimes.com/nepal/unauthorised-health-camp-leads-to-detention-of-10-foreigners",
-   "source": "Himalayan Times",
+   "title": "Ten foreign nationals held over unauthorized health camp in Morang",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOU0d0d08yYWFPYmtzQTRoUjc4WEhVZ2NmQ284WEF5ZnRETDFqVEdycXM4YlA4N3YwVXZrdTVQWE11MWdNVlRpck1pd3Z0Y2FxZDRZRDVvYjVtaXpmaFU2Z0F1TjFZamVnYi10UGxXVEVlOWJCbmFlZDZMOVRzWnBMTG5JS3ZOSGdQRG40UWE2X3dTOHRTUFVrXzNqekFlNHhoZVVZNGRnT08wVzR1UGc4TkNBajJycFdLSFZxWmNwNWVfY1E?oc=5",
+   "source": "myRepublica",
    "ts": 1793261315,
    "weight": 3,
-   "img": "https://thehimalayantimes.com/thehimalayantimes/uploads/images/2026/10/29/51634.jpg",
+   "img": null,
    "lang": "en",
-   "hl": "Unauthorised health camp leads to detention of 10 foreigners",
-   "en": "Unauthorised health camp leads to detention of 10 foreigners",
-   "ne": "Unauthorised health camp leads to detention of 10 foreigners",
+   "hl": "Ten foreign nationals held over unauthorized health camp in Morang",
+   "en": "Ten foreign nationals held over unauthorized health camp in Morang",
+   "ne": "Ten foreign nationals held over unauthorized health camp in Morang",
    "imp": 3,
    "tags": [
+    "Morang",
     "HealthCamp",
-    "Foreigners"
+    "ForeignNationals",
+    "प्रहरी"
    ],
    "cat": "crime",
-   "val": 2,
+   "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "बाल्टिनमा डुबेर नाबालकको मृत्यु",
@@ -7297,26 +7229,27 @@
    "hits": 1
   },
   {
-   "title": "इरानमा आक्रमणको सम्भावनाबीच अमेरिकी सैन्य अधिकारी हटाइए",
-   "summary": "वासिङ्टन, कात्तिक १२ गते । अमेरिकाले इरानमाथि नयाँ आक्रमण गर्ने सम्भावनाबारे विचार गरिरहेका बेला युद्धमन्त्री पीट हेग्सेथले पेन्टागनका वरिष्ठ योजना अधिकारी लेफ्टिनेन्ट जनरल ब्रेट स...",
-   "link": "https://gorkhapatraonline.com/news/227621",
-   "source": "Gorkhapatra",
+   "title": "US War Secretary Removes Senior Pentagon Official Amidst Iran Tensions",
+   "summary": "Washington DC. While the United States is considering the possibility of new attacks on Iran, War Secretary Pete Hegseth has...",
+   "link": "http://english.ratopati.com/story/84977/us-military-officer-removed-amid-potential-attack-on-iran",
+   "source": "Ratopati EN",
    "ts": 1793260407,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/389432/conversions/heg-original.jpg",
-   "lang": "ne",
-   "hl": "इरानमा आक्रमणको सम्भावनाबीच अमेरिकी सैन्य अधिकारी हटाइए",
-   "en": "इरानमा आक्रमणको सम्भावनाबीच अमेरिकी सैन्य अधिकारी हटाइए",
-   "ne": "इरानमा आक्रमणको सम्भावनाबीच अमेरिकी सैन्य अधिकारी हटाइए",
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/us-flag_nFEa3aHfaY.jpg",
+   "lang": "en",
+   "hl": "US War Secretary Removes Senior Pentagon Official Amidst Iran Tensions",
+   "en": "US War Secretary Removes Senior Pentagon Official Amidst Iran Tensions",
+   "ne": "US War Secretary Removes Senior Pentagon Official Amidst Iran Tensions",
    "imp": 1,
    "tags": [
     "Iran",
-    "USMilitary"
+    "Pentagon",
+    "Military"
    ],
    "cat": "world",
-   "val": 2,
+   "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "१६ वर्षीय राहुलले लगातार दुई खेलमा पहिलो ओभरमै लिए विकेट",
@@ -7559,7 +7492,7 @@
    "cat": "economy",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Conference on Education Development and Quality Improvement Begins in Hetauda",
@@ -7693,6 +7626,337 @@
    ],
    "cat": "disaster",
    "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "सभामुख अर्याल र मन्त्री चौधरीबिच कोप- ३१ बारे छलफल",
+   "summary": "काठमाडौँ, कात्तिक १२ गते । प्रतिनिधिसभाका सभामुख डीपी अर्याल र कृषि, वन तथा पर्यावरणमन्त्री गिता चौधरीबिच संयुक्त राष्ट्रसंघीय जलवायु सम्मेलन कोप ३१ मा नेपालको प्रभावकारी सहभागिता,...",
+   "link": "https://gorkhapatraonline.com/news/227629",
+   "source": "Gorkhapatra",
+   "ts": 1793263631,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/389445/conversions/WhatsApp-Image-2026-10-29-at-14.12.13-original.jpg",
+   "lang": "ne",
+   "hl": "सभामुख अर्याल र मन्त्री चौधरीबिच कोप- ३१ बारे छलफल",
+   "en": "सभामुख अर्याल र मन्त्री चौधरीबिच कोप- ३१ बारे छलफल",
+   "ne": "सभामुख अर्याल र मन्त्री चौधरीबिच कोप- ३१ बारे छलफल",
+   "imp": 3,
+   "tags": [
+    "SpeakerAryal",
+    "MinisterChaudhary",
+    "COP31",
+    "कोप३१"
+   ],
+   "cat": "politics",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "राजर्षिजनक विश्वविद्यालयलाई डिजिटल प्रणालीमा लैजाने घोषणा",
+   "summary": "राजर्षिजनक विश्वविद्यालयले आफ्नो ९औँ वार्षिकोत्सव मनाउँदै विश्वविद्यालयका शैक्षिक, प्रशासनिक, परीक्षा तथा लेखा प्रणालीलाई एकीकृत डिजिटल प्रणालीमा लैजाने घोषणा गरेको छ।...",
+   "link": "https://nagariknews.nagariknetwork.com/education/announcement-to-take-rajarshijanak-university-to-a-digital-system-br-92-39.html",
+   "source": "Nagarik News",
+   "ts": 1793263174,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2025/third-party/1793263157_tu%2012.jpg",
+   "lang": "ne",
+   "hl": "राजर्षिजनक विश्वविद्यालयलाई डिजिटल प्रणालीमा लैजाने घोषणा",
+   "en": "राजर्षिजनक विश्वविद्यालयलाई डिजिटल प्रणालीमा लैजाने घोषणा",
+   "ne": "राजर्षिजनक विश्वविद्यालयलाई डिजिटल प्रणालीमा लैजाने घोषणा",
+   "imp": 2,
+   "tags": [
+    "RajharshiJanakUniversity",
+    "DigitalNepal",
+    "विश्वविद्यालय"
+   ],
+   "cat": "education",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "नेपालभर 'चेरी क्यू'को डेलिभरी सुरू",
+   "summary": "",
+   "link": "https://www.setopati.com/kinmel/automobiles/401534",
+   "source": "Setopati",
+   "ts": 1793263060,
+   "weight": 3,
+   "img": null,
+   "lang": "ne",
+   "hl": "नेपालभर 'चेरी क्यू'को डेलिभरी सुरू",
+   "en": "नेपालभर 'चेरी क्यू'को डेलिभरी सुरू",
+   "ne": "नेपालभर 'चेरी क्यू'को डेलिभरी सुरू",
+   "imp": 2,
+   "tags": [
+    "CherryQ",
+    "Nepal",
+    "डेलिभरी"
+   ],
+   "cat": "economy",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Kathmandu Climate Action Week 2026 calls for volunteers",
+   "summary": "KATHMANDU: Kathmandu Climate Action Week (KCAW) 2026 has opened applications for volunteers to support the event, which is scheduled to take place in Kathmandu from November 23 to 29. The organizers are seeking...",
+   "link": "https://english.khabarhub.com/2026/29/573616/",
+   "source": "Khabarhub EN",
+   "ts": 1793263059,
+   "weight": 2,
+   "img": "https://english.khabarhub.com/wp-content/uploads/2026/10/Kathmandu-Climate-Action-Week-400x220.jpg",
+   "lang": "en",
+   "hl": "Kathmandu Climate Action Week 2026 calls for volunteers",
+   "en": "Kathmandu Climate Action Week 2026 calls for volunteers",
+   "ne": "Kathmandu Climate Action Week 2026 calls for volunteers",
+   "imp": 2,
+   "tags": [
+    "KathmanduClimateActionWeek",
+    "Volunteers",
+    "ClimateChange"
+   ],
+   "cat": "society",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Complaint filed against another Congress central member",
+   "summary": "Kathmandu, October 29 A complaint has been filed seeking an investigation into the academic certificates of engineer Hem Kaji Basnet. He was elected a central member from Koshi Province in the under-35 (open) category...",
+   "link": "https://english.onlinekhabar.com/complaint-congress-central-member.html",
+   "source": "Onlinekhabar EN",
+   "ts": 1793263009,
+   "weight": 3,
+   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/10/hemkaji-1024x500-1.jpg",
+   "lang": "en",
+   "hl": "Complaint filed against another Congress central member",
+   "en": "Complaint filed against another Congress central member",
+   "ne": "Complaint filed against another Congress central member",
+   "imp": 3,
+   "tags": [
+    "NepaliCongress",
+    "Complaint",
+    "Politics"
+   ],
+   "cat": "politics",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "El Salvador pledges more than 2,000 soldiers as Haiti delays elections",
+   "summary": "El Salvador plans to send more than 2,000 soldiers to Haiti to search for four missing Salvadoran aviation technicians and fight armed gangs, as the Caribbean country postpones its elections again, Aljazeera reported....",
+   "link": "https://theannapurnaexpress.com/story/68315",
+   "source": "Annapurna Express",
+   "ts": 1793249448.122128,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "El Salvador pledges more than 2,000 soldiers as Haiti delays elections",
+   "en": "El Salvador pledges more than 2,000 soldiers as Haiti delays elections",
+   "ne": "El Salvador pledges more than 2,000 soldiers as Haiti delays elections",
+   "imp": 1,
+   "tags": [
+    "ElSalvador",
+    "Haiti",
+    "Elections",
+    "Military"
+   ],
+   "cat": "world",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Rajर्षिजनक University Celebrates 9th Anniversary, Outlines Future Reforms",
+   "summary": "Dhanusha. Rajर्षिजनक University has concluded its 9th anniversary with various programs. The university has also raised concrete issues regarding academic...",
+   "link": "http://english.ratopati.com/story/84980/announcement-to-move-the-university-to-a-centralized-digital-system",
+   "source": "Ratopati EN",
+   "ts": 1793262472,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/864868389_1111740181567481_6104965243561878407_n_3NzSItdbCp.webp",
+   "lang": "ne",
+   "hl": "Rajर्षिजनक University Celebrates 9th Anniversary, Outlines Future Reforms",
+   "en": "Rajर्षिजनक University Celebrates 9th Anniversary, Outlines Future Reforms",
+   "ne": "Rajर्षिजनक University Celebrates 9th Anniversary, Outlines Future Reforms",
+   "imp": 2,
+   "tags": [
+    "RajharshiJanakUniversity",
+    "Anniversary",
+    "HigherEducation"
+   ],
+   "cat": "education",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "कोप ३१ मा नेपालको प्रभावकारी सहभागिताका लागि तयारी",
+   "summary": "आगामी नोभेम्बर ९ देखि २० सम्म टर्कीको अन्तल्यामा आयोजना हुने कोप-३१ का लागि नेपालको तयारी, संसदीय सहभागिता र सम्मेलनमा उठाइने प्राथमिकताका विषयमा विचारविमर्श भएको हो।...",
+   "link": "https://nagariknews.nagariknetwork.com/politics/preparations-for-nepal-s-effective-participation-in-cop-31-br-71-43.html",
+   "source": "Nagarik News",
+   "ts": 1793262465,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2025/third-party/1793262531_dp%2012.jpg",
+   "lang": "ne",
+   "hl": "कोप ३१ मा नेपालको प्रभावकारी सहभागिताका लागि तयारी",
+   "en": "कोप ३१ मा नेपालको प्रभावकारी सहभागिताका लागि तयारी",
+   "ne": "कोप ३१ मा नेपालको प्रभावकारी सहभागिताका लागि तयारी",
+   "imp": 3,
+   "tags": [
+    "COP31",
+    "ClimateChange",
+    "Nepal",
+    "जलवायु"
+   ],
+   "cat": "politics",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "के आफ्नै देशमा पढ्न र न्याय पाउन खोज्नु मेरो गल्ती थियो?",
+   "summary": "रातको दुई बजे निद्रा खुल्दा मेरो मनमा एउटै प्रश्न घुमिरहेको थियो- आखिर मैले के गल्ती गरेको थिएँ? म किन देश छाड्ने सोचसम्म पुगेँ? के आफ्नै देशमा पढ्न र न्याय पाउन खोज्नु मेरो गल्ती थियो?",
+   "link": "https://www.setopati.com/blog/401497",
+   "source": "Setopati",
+   "ts": 1793261792,
+   "weight": 3,
+   "img": null,
+   "lang": "ne",
+   "hl": "के आफ्नै देशमा पढ्न र न्याय पाउन खोज्नु मेरो गल्ती थियो?",
+   "en": "के आफ्नै देशमा पढ्न र न्याय पाउन खोज्नु मेरो गल्ती थियो?",
+   "ne": "के आफ्नै देशमा पढ्न र न्याय पाउन खोज्नु मेरो गल्ती थियो?",
+   "imp": 2,
+   "tags": [
+    "Justice",
+    "Education",
+    "Nepal",
+    "विचार"
+   ],
+   "cat": "society",
+   "val": 1,
+   "teaser": true,
+   "hits": 1
+  },
+  {
+   "title": "Three arrested with customs-evaded goods in Sunsari",
+   "summary": "SUNSARI: Police have arrested three people in Dharan, Sunsari, for allegedly transporting goods worth Rs. 982,500 that had been brought into the country without paying customs duties. The goods were discovered during an...",
+   "link": "https://english.khabarhub.com/2026/29/573608/",
+   "source": "Khabarhub EN",
+   "ts": 1793261670,
+   "weight": 2,
+   "img": "https://english.khabarhub.com/wp-content/uploads/2026/04/pakrau-arrest-3-400x220.jpg",
+   "lang": "en",
+   "hl": "Three arrested with customs-evaded goods in Sunsari",
+   "en": "Three arrested with customs-evaded goods in Sunsari",
+   "ne": "Three arrested with customs-evaded goods in Sunsari",
+   "imp": 2,
+   "tags": [
+    "Sunsari",
+    "Smuggling",
+    "Customs",
+    "प्रहरी"
+   ],
+   "cat": "crime",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Gold price rises, silver falls in Nepali market",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOM0U3RFNFbGJBRFNnZDcyeWUwTkRSMTBmZ0Q4eV85RVhlTW9zY2tNRHFXOHczSl9ZSHFKNFdxdlN2T2UtTjEwOUE0TkhoaUJUTHcxZVJNWC1qVUFESGliM1ptN2pnVl9qVzMxZ291dDlHUHdCRGh6UEpIVW5FVXZlVU5vWVBXQlQtS3JzWVNCdF85aFFHZnlTQmJIenVDbU05V0hz?oc=5",
+   "source": "myRepublica",
+   "ts": 1793254814,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "Gold price rises, silver falls in Nepali market",
+   "en": "Gold price rises, silver falls in Nepali market",
+   "ne": "Gold price rises, silver falls in Nepali market",
+   "imp": 2,
+   "tags": [
+    "GoldPrice",
+    "SilverPrice",
+    "Market",
+    "सुन"
+   ],
+   "cat": "economy",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "कोप-३१ मा जलवायु न्यायलाई प्राथमिकताका साथ उठाउँछौँः परराष्ट्रमन्त्री खनाल",
+   "summary": "काठमाडौँ, कात्तिक १२ गते । परराष्ट्रमन्त्री शिशिर खनालले जलवायु परिवर्तनसम्बन्धी संयुक्त राष्ट्रसङ्घीय संरचना महासन्धिका पक्ष राष्ट्रहरूको ३१औँ सम्मेलन कोप-३१ मा हिमाली एजेन्डा, ज...",
+   "link": "https://gorkhapatraonline.com/news/227626",
+   "source": "Gorkhapatra",
+   "ts": 1793262548,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/389441/conversions/WhatsApp-Image-2026-10-29-at-14.01.01-original.jpg",
+   "lang": "ne",
+   "hl": "कोप-३१ मा जलवायु न्यायलाई प्राथमिकताका साथ उठाउँछौँः परराष्ट्रमन्त्री खनाल",
+   "en": "कोप-३१ मा जलवायु न्यायलाई प्राथमिकताका साथ उठाउँछौँः परराष्ट्रमन्त्री खनाल",
+   "ne": "कोप-३१ मा जलवायु न्यायलाई प्राथमिकताका साथ उठाउँछौँः परराष्ट्रमन्त्री खनाल",
+   "imp": 3,
+   "tags": [
+    "COP31",
+    "ClimateJustice",
+    "ForeignMinister",
+    "परराष्ट्रमन्त्री"
+   ],
+   "cat": "politics",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Lumbini Province Speaker Pledges to Make Mother Tongues Official Languages",
+   "summary": "Butwal. Lumbini Province Assembly Speaker Tularam Gharti Magar has pledged to take initiative to make various mother tongues spoken in...",
+   "link": "http://english.ratopati.com/story/84979/various-mother-tongues-should-be-made-the-official-languages-of-lumbini-speaker-gharti",
+   "source": "Ratopati EN",
+   "ts": 1793262467,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/gharti_AgRQFozHOY.webp",
+   "lang": "en",
+   "hl": "Lumbini Province Speaker Pledges to Make Mother Tongues Official Languages",
+   "en": "Lumbini Province Speaker Pledges to Make Mother Tongues Official Languages",
+   "ne": "Lumbini Province Speaker Pledges to Make Mother Tongues Official Languages",
+   "imp": 2,
+   "tags": [
+    "LumbiniProvince",
+    "MotherTongue",
+    "Speaker",
+    "लुम्बिनी"
+   ],
+   "cat": "politics",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "सुशासनको जगमा शान्ति र समृद्धि ल्याउन सरकार प्रतिबद्ध : यादव",
+   "summary": "लहान समाचारदाता लहान, कात्तिक १२ गते । राष्ट्रिय स्वतन्त्र पार्टीका सह-महामन्त्री तथा प्रतिनिधिसभा सदस्य पुरुषोतम यादवले सुशासनको जगमा नै शान्ति र समृद्धि ल्याउन सरकार कटिबद्ध रहेक...",
+   "link": "https://gorkhapatraonline.com/news/227623",
+   "source": "Gorkhapatra",
+   "ts": 1793261907,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/389435/conversions/madhesh-(1)-original.jpg",
+   "lang": "ne",
+   "hl": "सुशासनको जगमा शान्ति र समृद्धि ल्याउन सरकार प्रतिबद्ध : यादव",
+   "en": "सुशासनको जगमा शान्ति र समृद्धि ल्याउन सरकार प्रतिबद्ध : यादव",
+   "ne": "सुशासनको जगमा शान्ति र समृद्धि ल्याउन सरकार प्रतिबद्ध : यादव",
+   "imp": 3,
+   "tags": [
+    "GoodGovernance",
+    "Government",
+    "Prosperity",
+    "सरकार"
+   ],
+   "cat": "politics",
+   "val": 2,
    "teaser": false,
    "hits": 1
   }
@@ -10689,10 +10953,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "health"
+  },
+  {
+   "ts": 1793263860.1810176,
+   "en": "CAAN urges Nepal aviation sector to adopt safety measures amid Cyclone Arnab",
+   "ne": "CAAN urges Nepal aviation sector to adopt safety measures amid Cyclone Arnab",
+   "link": "https://english.khabarhub.com/2026/29/573553/",
+   "source": "Khabarhub EN",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "disaster"
   }
  ],
- "updated": 1793263257,
- "pending_since": 1793261449.7920938,
+ "updated": 1793263875,
+ "pending_since": 1793263846.7329943,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
