@@ -2028,7 +2028,10 @@
   "https://nagariknews.nagariknetwork.com/economy/both-imports-and-exports-increased-despite-the-closure-of-the-northern-border-63-94.html": 1793245848.1280797,
   "https://nagariknews.nagariknetwork.com/international/impact-of-cyclone-arnab-heavy-rains-in-andhra-pradesh-telangana-and-odisha-damage-situation-in-pictures-86-44.html": 1793245848.1280797,
   "https://nagariknews.nagariknetwork.com/social-affairs/labor-donation-for-the-reconstruction-of-physical-structures-damaged-by-disasters-72-19.html": 1793245848.1280797,
-  "https://nagariknews.nagariknetwork.com/social-affairs/exploitation-by-bringing-acquaintances-from-facebook-and-tiktok-to-india-br-84-48.html": 1793245848.1280797
+  "https://nagariknews.nagariknetwork.com/social-affairs/exploitation-by-bringing-acquaintances-from-facebook-and-tiktok-to-india-br-84-48.html": 1793245848.1280797,
+  "https://theannapurnaexpress.com/story/68304": 1793246482.5759835,
+  "https://theannapurnaexpress.com/story/68303": 1793246482.5759835,
+  "http://english.ratopati.com/story/84916/manaslu-apples-are-stuck-in-the-warehouse": 1793246482.5759835
  },
  "queue": [
   {
@@ -2670,7 +2673,7 @@
    "cat": "sports",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "छयहत्तर देशका आरोही हिमालमा",
@@ -4355,7 +4358,7 @@
    "cat": "society",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Leak website releases data on thousands of US Homeland Security employees",
@@ -4922,6 +4925,29 @@
     "मानवतस्करी"
    ],
    "cat": "crime",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Landslide Disrupts Apple Transportation in Gorkha",
+   "summary": "Gorkha. Apples produced in the Manaslu region have been piled up in warehouses after the Budhi Gandaki flood washed away...",
+   "link": "http://english.ratopati.com/story/84916/manaslu-apples-are-stuck-in-the-warehouse",
+   "source": "Ratopati EN",
+   "ts": 1793246279,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/wuEpyfx0ik.jpg",
+   "lang": "en",
+   "hl": "Landslide Disrupts Apple Transportation in Gorkha",
+   "en": "Landslide Disrupts Apple Transportation in Gorkha",
+   "ne": "Landslide Disrupts Apple Transportation in Gorkha",
+   "imp": 3,
+   "tags": [
+    "Landslide",
+    "Gorkha",
+    "पहिरो"
+   ],
+   "cat": "disaster",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -7932,8 +7958,8 @@
    "cat": "politics"
   }
  ],
- "updated": 1793245870,
- "pending_since": null,
+ "updated": 1793246486,
+ "pending_since": 1793246482.5759835,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
