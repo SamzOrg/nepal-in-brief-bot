@@ -2026,7 +2026,9 @@
   "https://nagariknews.nagariknetwork.com/social-affairs/kiwi-farming-expands-in-dadeldhura-57-42.html": 1793247655.4374037,
   "https://nagariknews.nagariknetwork.com/sports/amanda-serrano-to-fight-her-final-boxing-match-on-january-9-29-87.html": 1793247655.4374037,
   "https://nagariknews.nagariknetwork.com/politics/failure-to-enact-an-umbrella-law-will-hinder-federalism-33-27.html": 1793247655.4374037,
-  "https://gorkhapatraonline.com/news/227589": 1793248266.6441803
+  "https://gorkhapatraonline.com/news/227589": 1793248266.6441803,
+  "https://www.setopati.com/politics/401511": 1793249448.0080056,
+  "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQUlaTDEwQ1JqNlhJWXhkOTNhQTMtLVhPOGRPQzI3NGJLd3BlajhXMTRLRlF5SUZ4NDB4NUtTLTEydDNSdW5FeGluY0VObE9Sa1NIUGxwV0cxZXViSHFoc1psSEdFcHZVMWhqNkpEM0JoZUhHNVJDUHhoQmx6VmdyVlRiVQ?oc=5": 1793249448.0080056
  },
  "queue": [
   {
@@ -2577,29 +2579,6 @@
    "val": 3,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "NPL: Janakpur face Kathmandu as Biratnagar take on Karnali",
-   "summary": "KATHMANDU: Two matches are scheduled for today (Thursday) in the third edition of the Nepal Premier League (NPL) at the Tribhuvan University Cricket Ground in Kirtipur. In the first match, Janakpur Bolts will face...",
-   "link": "https://english.khabarhub.com/2026/29/573546/",
-   "source": "Khabarhub EN",
-   "ts": 1793234998,
-   "weight": 2,
-   "img": "https://english.khabarhub.com/wp-content/uploads/2026/10/Cricket-NPL-400x220.jpeg",
-   "lang": "en",
-   "hl": "NPL: Janakpur face Kathmandu as Biratnagar take on Karnali",
-   "en": "NPL: Janakpur face Kathmandu as Biratnagar take on Karnali",
-   "ne": "NPL: Janakpur face Kathmandu as Biratnagar take on Karnali",
-   "imp": 3,
-   "tags": [
-    "NPL",
-    "Janakpur",
-    "Kathmandu"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 3
   },
   {
    "title": "छयहत्तर देशका आरोही हिमालमा",
@@ -4329,7 +4308,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Israel's vote prolongs Middle East instability",
@@ -5219,20 +5198,32 @@
    "val": 2,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "Dewan Rakyat to raise GovTech, API accuracy, Nepal floods",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQUlaTDEwQ1JqNlhJWXhkOTNhQTMtLVhPOGRPQzI3NGJLd3BlajhXMTRLRlF5SUZ4NDB4NUtTLTEydDNSdW5FeGluY0VObE9Sa1NIUGxwV0cxZXViSHFoc1psSEdFcHZVMWhqNkpEM0JoZUhHNVJDUHhoQmx6VmdyVlRiVQ?oc=5",
+   "source": "The Sun Malaysia",
+   "ts": 1793241177,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "Dewan Rakyat to raise GovTech, API accuracy, Nepal floods",
+   "en": "Dewan Rakyat to raise GovTech, API accuracy, Nepal floods",
+   "ne": "Dewan Rakyat to raise GovTech, API accuracy, Nepal floods",
+   "imp": 2,
+   "tags": [
+    "GovTech",
+    "APIAccuracy",
+    "Floods"
+   ],
+   "cat": "disaster",
+   "val": 2,
+   "teaser": true,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1792644075.4580164,
-   "en": "कोशी प्रदेशका डिपो तथा घाटगद्दीमा ११ करोडभन्दा बढी मूल्यको काठ कुहिँदै",
-   "ne": "कोशी प्रदेशका डिपो तथा घाटगद्दीमा ११ करोडभन्दा बढी मूल्यको काठ कुहिँदै",
-   "link": "http://lokaantar.com/story/331714/2026/10/22/kath-",
-   "source": "Lokaantar",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "economy"
-  },
   {
    "ts": 1792644680.4007754,
    "en": "Malaysia FM: Last phone pings of 54 missing Malaysians traced to Nepal flood site",
@@ -8224,9 +8215,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "society"
+  },
+  {
+   "ts": 1793249456.5139546,
+   "en": "Janakpur face Kathmandu and Biratnagar take on Karnali in NPL matches today in Kirtipur",
+   "ne": "Janakpur face Kathmandu and Biratnagar take on Karnali in NPL matches today in Kirtipur",
+   "link": "https://english.khabarhub.com/2026/29/573546/",
+   "source": "Khabarhub EN",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "sports"
   }
  ],
- "updated": 1793248855,
+ "updated": 1793249468,
  "pending_since": 1793248266.6441803,
  "fb_blocks": [
   1790350880.4125228,
