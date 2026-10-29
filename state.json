@@ -2018,30 +2018,6 @@
  },
  "queue": [
   {
-   "title": "Nepali farmers bear the brunt of climate change and accelerating tropical cyclonic events",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQYmpKcE9zWkM3SDNObV9rOGR1NXF2ajA1cUszZkJsbUlhVUJZTlVDQ29CMjVhX1E4OVItZE1fVmpWYThzU19xQ1BxOFM1UGVzVDItM2Q2Ykt4MnBPaUcxd0stZzk1em5kSnFULVhiTVZTQlNpVjFybWpxMG11UWdtVDdwd1o2czZOVWc2RUJyUV9laEpXYURXVVZHcUJPTGJFUVRzSTNzeW1ZLWpXdGdwcE5vNTY1dm42X0RGalc4TXd5Z2laRkpFSV9pOXZUU25TY3RtZ0hIaEZfZw?oc=5",
-   "source": "ANI News",
-   "ts": 1793214480,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Nepali farmers bear the brunt of climate change and accelerating tropical cyclonic events",
-   "en": "Nepali farmers bear the brunt of climate change and accelerating tropical cyclonic events",
-   "ne": "Nepali farmers bear the brunt of climate change and accelerating tropical cyclonic events",
-   "imp": 3,
-   "tags": [
-    "ClimateChange",
-    "Farmers",
-    "Nepal",
-    "जलवायुपरिवर्तन"
-   ],
-   "cat": "disaster",
-   "val": 2,
-   "teaser": false,
-   "hits": 3
-  },
-  {
    "title": "Movie Review: In 'Everest: The Other Side,' tragedy and triumph intermingle on the peaks of Nepal",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNb0h0a2FKeWFRcGtiVlhEZC1aeGRSVGtrUncwb0ZtUkYyWTdmU0pDSUNIRG9sOFJyZjBGMmtKWUxnenA5b3JrSU1ianBENng1anA2SFFFdXd2Ri01VllGMUdUNHg0ZWpoM25nX3Q5dE5kRndjWXV1X2JEUmZ6dGRscVB0NUs4V2ZXUlh1Vm9XT21XVE1zLWJkSU5KbUZkX0xIWmFxWGE2dmFMRWlTcFk5N0V0SFFQcjZiU3hLS0k3dHdsMkQ0SGhQRzdvZzlxekktbEE?oc=5",
@@ -6827,9 +6803,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "politics"
+  },
+  {
+   "ts": 1793242251.9690576,
+   "en": "Nepal farmers in Lalitpur fear crop loss as Cyclone Arnab brings heavy rain",
+   "ne": "Nepal farmers in Lalitpur fear crop loss as Cyclone Arnab brings heavy rain",
+   "link": "https://www.aninews.in/news/world/asia/nepali-farmers-bear-the-brunt-of-climate-change-and-accelerating-tropical-cyclonic-events20261029003830",
+   "source": "ANI News",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "disaster"
   }
  ],
- "updated": 1793242157,
+ "updated": 1793242264,
  "pending_since": 1793240446.5178292,
  "fb_blocks": [
   1790350880.4125228,
