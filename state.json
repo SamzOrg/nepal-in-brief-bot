@@ -1,9 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaTZ1eVRTLVZfWGRydF9qY1JrbVhybWo1N1phZmNhVVZxdktfYTJibDNHOXNwRV80OGJ4TjJnWmlCdHlKNFZlRXdsTGZONHAtLTlrTjJNaFRHV045UjY1emdrM0d2UmZSWVVjRFUxYVlsdHV3VDlWQkpRemFDM1pqajB0WnctWHZZUGtTMHZKajRMM0VPc3JnSw?oc=5": 1793117457.9355257,
-  "http://lokaantar.com/story/332039/2026/10/27/flood-": 1793117457.9355257,
-  "https://gorkhapatraonline.com/news/227441": 1793118051.1434925,
-  "https://theannapurnaexpress.com/story/68262": 1793118051.1434925,
   "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9YSmxXRGJMaXZnVHZLYllKa0x1eWxzVnJsMFJaRDBja2pnS1YzdmFxR3BNRlk0dWVNS3BUZ0FZWlQzWENpQjcwTUpYdTIxdTYzMHo2WTNBbDdCa3pqM0E?oc=5": 1793118732.5969174,
   "http://lokaantar.com/story/332040/2026/10/27/meeting-": 1793118732.5969174,
   "https://gorkhapatraonline.com/news/227443": 1793118732.5969174,
@@ -2069,29 +2065,6 @@
  },
  "queue": [
   {
-   "title": "अर्नब चक्रपातबाट मुख्य राजमार्ग प्रभावित हुन सक्ने, सतर्कता अपनाउन आग्रह",
-   "summary": "बंगालको खाडीमा विकसित चक्रवात 'अर्नब'को प्रभावले नेपालका मुख्य राजमार्ग प्रभावित हुने भएको छ।",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/main-highways-may-be-affected-by-cyclone-arnab-urges-caution-br-19-53.html",
-   "source": "Nagarik News",
-   "ts": 1793261924,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1784024296_mugaling_sadak.jpg",
-   "lang": "ne",
-   "hl": "अर्नब चक्रपातबाट मुख्य राजमार्ग प्रभावित हुन सक्ने, सतर्कता अपनाउन आग्रह",
-   "en": "अर्नब चक्रपातबाट मुख्य राजमार्ग प्रभावित हुन सक्ने, सतर्कता अपनाउन आग्रह",
-   "ne": "अर्नब चक्रपातबाट मुख्य राजमार्ग प्रभावित हुन सक्ने, सतर्कता अपनाउन आग्रह",
-   "imp": 3,
-   "tags": [
-    "CycloneArnab",
-    "Landslide",
-    "Highways"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
    "title": "Could Nepal's floods repeat? Study finds 300,000 people are in danger's way in India, China too",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQdEpmQlpia3BXcF9XVjRQMjY2bm9wUzB6WThGVUNkVXhaQ0I4STB2RS0tTzZvaG41a1JUSmpLUTIwNTNXeTAteUJWV19BMnR4T1RTdE43S2xVX09Fcl92Ul9OVDBoX0psYUxjUzVMNFliRVNUblNXSEJ3QjE2YzA5al9tRmgxTlJiZnV3Tll0OElfa3M5NllYNkIwaXNNcmJ2VUVhQTFTMjlNMXVPcHByRnBHNlNzRFpEdFpGR1NDNjBGZkE4SGRfa0lzeGhCMFkteW9qRy02UnpRb0sy0gHiAUFVX3lxTFA4OGNWR3haYXk2ZEdRZF95UGh2NkpnREZ3dUpyd0pvdVR2UVNsSnQ1M3VRMW4wMEExWnhQMHFzeXNnczdRa2hyVC0wZzFmR1gzMmM3cTJvUHNsdmJOYU1zUHdBVzBsTkYtZ2xJY0lrQUU3MWZNZWE5ZGtzZWdxZXpXSDRBNGRUMXlFMlZXTS0xV3V6b1FyVVM5MlVLNkxXWXJfU3NiUVR1R09WM0NfWVNLUjhMd3dSNlVwYzl6MVFDajB3UWFGdVJPcXhfRVNOYWVZMWMxWVVjdDRQeU9LWXEtTWc?oc=5",
@@ -2278,54 +2251,6 @@
    "hits": 1
   },
   {
-   "title": "के आफ्नै देशमा पढ्न र न्याय पाउन खोज्नु मेरो गल्ती थियो?",
-   "summary": "रातको दुई बजे निद्रा खुल्दा मेरो मनमा एउटै प्रश्न घुमिरहेको थियो- आखिर मैले के गल्ती गरेको थिएँ? म किन देश छाड्ने सोचसम्म पुगेँ? के आफ्नै देशमा पढ्न र न्याय पाउन खोज्नु मेरो गल्ती थियो?",
-   "link": "https://www.setopati.com/blog/401497",
-   "source": "Setopati",
-   "ts": 1793261792,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "के आफ्नै देशमा पढ्न र न्याय पाउन खोज्नु मेरो गल्ती थियो?",
-   "en": "के आफ्नै देशमा पढ्न र न्याय पाउन खोज्नु मेरो गल्ती थियो?",
-   "ne": "के आफ्नै देशमा पढ्न र न्याय पाउन खोज्नु मेरो गल्ती थियो?",
-   "imp": 2,
-   "tags": [
-    "Justice",
-    "Education",
-    "Nepal",
-    "विचार"
-   ],
-   "cat": "society",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "Three arrested with customs-evaded goods in Sunsari",
-   "summary": "SUNSARI: Police have arrested three people in Dharan, Sunsari, for allegedly transporting goods worth Rs. 982,500 that had been brought into the country without paying customs duties. The goods were discovered during an...",
-   "link": "https://english.khabarhub.com/2026/29/573608/",
-   "source": "Khabarhub EN",
-   "ts": 1793261670,
-   "weight": 2,
-   "img": "https://english.khabarhub.com/wp-content/uploads/2026/04/pakrau-arrest-3-400x220.jpg",
-   "lang": "en",
-   "hl": "Three arrested with customs-evaded goods in Sunsari",
-   "en": "Three arrested with customs-evaded goods in Sunsari",
-   "ne": "Three arrested with customs-evaded goods in Sunsari",
-   "imp": 2,
-   "tags": [
-    "Sunsari",
-    "Smuggling",
-    "Customs",
-    "प्रहरी"
-   ],
-   "cat": "crime",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
    "title": "कोप-३१ मा जलवायु न्यायलाई प्राथमिकताका साथ उठाउँछौँः परराष्ट्रमन्त्री खनाल",
    "summary": "काठमाडौँ, कात्तिक १२ गते । परराष्ट्रमन्त्री शिशिर खनालले जलवायु परिवर्तनसम्बन्धी संयुक्त राष्ट्रसङ्घीय संरचना महासन्धिका पक्ष राष्ट्रहरूको ३१औँ सम्मेलन कोप-३१ मा हिमाली एजेन्डा, ज...",
    "link": "https://gorkhapatraonline.com/news/227626",
@@ -2370,30 +2295,6 @@
    ],
    "cat": "politics",
    "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "सुशासनको जगमा शान्ति र समृद्धि ल्याउन सरकार प्रतिबद्ध : यादव",
-   "summary": "लहान समाचारदाता लहान, कात्तिक १२ गते । राष्ट्रिय स्वतन्त्र पार्टीका सह-महामन्त्री तथा प्रतिनिधिसभा सदस्य पुरुषोतम यादवले सुशासनको जगमा नै शान्ति र समृद्धि ल्याउन सरकार कटिबद्ध रहेक...",
-   "link": "https://gorkhapatraonline.com/news/227623",
-   "source": "Gorkhapatra",
-   "ts": 1793261907,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/389435/conversions/madhesh-(1)-original.jpg",
-   "lang": "ne",
-   "hl": "सुशासनको जगमा शान्ति र समृद्धि ल्याउन सरकार प्रतिबद्ध : यादव",
-   "en": "सुशासनको जगमा शान्ति र समृद्धि ल्याउन सरकार प्रतिबद्ध : यादव",
-   "ne": "सुशासनको जगमा शान्ति र समृद्धि ल्याउन सरकार प्रतिबद्ध : यादव",
-   "imp": 3,
-   "tags": [
-    "GoodGovernance",
-    "Government",
-    "Prosperity",
-    "सरकार"
-   ],
-   "cat": "politics",
-   "val": 2,
    "teaser": false,
    "hits": 1
   },
@@ -6991,17 +6892,6 @@
  ],
  "posted": [
   {
-   "ts": 1792685518.671275,
-   "en": "सर्लाहीमा १३ वर्षीया बालिकाको उखुबारीमा घाँटी रेटेर हत्या",
-   "ne": "सर्लाहीमा १३ वर्षीया बालिकाको उखुबारीमा घाँटी रेटेर हत्या",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/13-year-old-girl-found-dead-in-sugarcane-field-84-88.html",
-   "source": "Nagarik News",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "crime"
-  },
-  {
    "ts": 1792687344.2313411,
    "en": "Fungal disease kalopoke threatens rice harvest in Palpa district",
    "ne": "Fungal disease kalopoke threatens rice harvest in Palpa district",
@@ -9983,7 +9873,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1793290281,
+ "updated": 1793290857,
  "pending_since": 1793290255.5412495,
  "fb_blocks": [
   1790350880.4125228,
