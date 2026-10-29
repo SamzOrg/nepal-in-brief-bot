@@ -2057,29 +2057,6 @@
  },
  "queue": [
   {
-   "title": "पैदलयात्रीलाई ठक्कर दिएर मोटरसाइकल दुर्घटना, चालकको मृत्यु",
-   "summary": "जानु पाण्डेकपिलवस्तु, कात्तिक १२ गते । कपिलवस्तुको शुद्धोधन गाउँपालिका-२ भुसुडीमा मोटरसाइकलले पैदलयात्रीलाई ठक्कर दिँदा १४ वर्षीय मोटरसाइकल चालकको मृत्यु भएको छ । बुधबार साँझ करिब...",
-   "link": "https://gorkhapatraonline.com/news/227651",
-   "source": "Gorkhapatra",
-   "ts": 1793282942,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/389482/conversions/Accident1-original.jpg",
-   "lang": "ne",
-   "hl": "पैदलयात्रीलाई ठक्कर दिएर मोटरसाइकल दुर्घटना, चालकको मृत्यु",
-   "en": "पैदलयात्रीलाई ठक्कर दिएर मोटरसाइकल दुर्घटना, चालकको मृत्यु",
-   "ne": "पैदलयात्रीलाई ठक्कर दिएर मोटरसाइकल दुर्घटना, चालकको मृत्यु",
-   "imp": 3,
-   "tags": [
-    "MotorcycleAccident",
-    "Nepal",
-    "दुर्घटना"
-   ],
-   "cat": "crime",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "एनपीएलमा सोमपालको पहिलो अर्धशतक",
    "summary": "",
    "link": "https://baahrakhari.com/detail/506042",
@@ -2265,54 +2242,6 @@
     "इन्टरनेट"
    ],
    "cat": "tech",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "कांग्रेसले मंसिरभर 'कांग्रेस तयार छ' अभियान चलाउने",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/506039",
-   "source": "Baahrakhari",
-   "ts": 1793282960,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "कांग्रेसले मंसिरभर 'कांग्रेस तयार छ' अभियान चलाउने",
-   "en": "कांग्रेसले मंसिरभर 'कांग्रेस तयार छ' अभियान चलाउने",
-   "ne": "कांग्रेसले मंसिरभर 'कांग्रेस तयार छ' अभियान चलाउने",
-   "imp": 3,
-   "tags": [
-    "NepaliCongress",
-    "Campaign",
-    "CongressTayarChha",
-    "कांग्रेस"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "नेपाल सम्वत् न्हूदँ बुद्धिचाल बुधबारदेखि",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/506038",
-   "source": "Baahrakhari",
-   "ts": 1793282728,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "नेपाल सम्वत् न्हूदँ बुद्धिचाल बुधबारदेखि",
-   "en": "नेपाल सम्वत् न्हूदँ बुद्धिचाल बुधबारदेखि",
-   "ne": "नेपाल सम्वत् न्हूदँ बुद्धिचाल बुधबारदेखि",
-   "imp": 2,
-   "tags": [
-    "NepalSambhat",
-    "Chess",
-    "NhuDan",
-    "बुद्धिचाल"
-   ],
-   "cat": "culture",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -6227,7 +6156,7 @@
    "cat": "politics"
   }
  ],
- "updated": 1793311283,
+ "updated": 1793311850,
  "pending_since": 1793311279.4216251,
  "fb_blocks": [
   1790350880.4125228,
