@@ -1,12 +1,5 @@
 {
  "seen": {
-  "https://english.khabarhub.com/2026/27/573297/": 1793062885.500036,
-  "https://nagariknews.nagariknetwork.com/sports/1-124-police-officers-mobilized-for-npl-security-95-73.html": 1793062885.500036,
-  "https://nagariknews.nagariknetwork.com/social-affairs/bhotekoshi-flood-dashain-spent-waiting-for-dna-report-61-68.html": 1793062885.500036,
-  "https://nagariknews.nagariknetwork.com/diaspora/uk-based-businessman-uttam-nepal-donates-rs-10-million-to-flood-victims-43-32.html": 1793062885.500036,
-  "http://english.ratopati.com/story/84667/harry-kane-beats-mbappe-and-yamal-to-win-ballon-dor-first-english-player-to-win-the-award-in-25-years": 1793063446.5092554,
-  "http://lokaantar.com/story/331986/2026/10/27/smarak-": 1793063446.5092554,
-  "http://english.ratopati.com/story/84668/alexia-putellas-wins-third-womens-ballon-dor": 1793063446.5092554,
   "https://gorkhapatraonline.com/news/227345": 1793064046.429295,
   "http://english.ratopati.com/story/84669/elections-in-israel-netanyahus-political-future-at-stake": 1793064046.429295,
   "https://risingnepaldaily.com/news/88086": 1793064046.429295,
@@ -2013,7 +2006,10 @@
   "https://gorkhapatraonline.com/news/227561": 1793235051.0094888,
   "http://english.ratopati.com/story/84894/cyclone-arnab-jhapa-administration-urges-people-to-be-vigilant-for-three-days": 1793235051.0094888,
   "https://www.setopati.com/social/401504": 1793235680.52051,
-  "https://english.khabarhub.com/2026/29/573543/": 1793235680.52051
+  "https://english.khabarhub.com/2026/29/573543/": 1793235680.52051,
+  "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdEV2RXdyVWNtM29LRXgwTlBVUXZyRGNrWDloajkwdk1ock9jTzdBR2szMDd2bm1yNFlPdmk1bXBPLUNYM3I3RlBYczZtY2Zpc0VDc2hEMFJHVG1CRzk4N1dXcDdjZnoycENrZ2liUFJYdi03QXhBZHVYVnNUTzhJWkpka0lrLUR1UE5NeTNmQlZCQ1RtLXR6YXp1QmZzLUdw?oc=5": 1793236250.586714,
+  "http://english.ratopati.com/story/84895/janakpur-and-kathmandu-and-karnali-and-biratnagar-are-facing-off-who-is-ahead-in-a-head-to-head-match": 1793236250.586714,
+  "https://english.khabarhub.com/2026/29/573556/": 1793236250.586714
  },
  "queue": [
   {
@@ -2058,29 +2054,6 @@
     "चीन"
    ],
    "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "5 Indians arrested in drug trafficking cases in Nepal",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVEh1bkY3cnduaUZyamtVazkzSnFCbXdLREpoWFdQUmVhZnl0N0VoLWRnRl9zQW9zQU5FT2FJRW5zNzNxZkdzU3U0NlIxQlN4RDEtanN6QUNoaEk0XzJ0dElnLVJnR3lGODV3RnF0bElueE9PR0pRTkg4YkJ5T24zbXRvdjdzMzQ1TDVjNTJrOVRLY1RycHhSWDFxTDI?oc=5",
-   "source": "Deccan Herald",
-   "ts": 1793207422,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "5 Indians arrested in drug trafficking cases in Nepal",
-   "en": "5 Indians arrested in drug trafficking cases in Nepal",
-   "ne": "5 Indians arrested in drug trafficking cases in Nepal",
-   "imp": 3,
-   "tags": [
-    "DrugTrafficking",
-    "Crime",
-    "Police"
-   ],
-   "cat": "crime",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -2673,6 +2646,29 @@
     "सवारीदुर्घटना"
    ],
    "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "At least 68 killed in high-speed train collision in central Spain",
+   "summary": "MADRID: At least 68 people have died and dozens more have been injured after two high-speed trains collided in central Spain. The crash occurred when a train travelling from Madrid to Seville struck a stationary train...",
+   "link": "https://english.khabarhub.com/2026/29/573556/",
+   "source": "Khabarhub EN",
+   "ts": 1793235922,
+   "weight": 2,
+   "img": "https://english.khabarhub.com/wp-content/uploads/2026/10/Train-crash-Spain-EPA-400x220.webp",
+   "lang": "en",
+   "hl": "At least 68 killed in high-speed train collision in central Spain",
+   "en": "At least 68 killed in high-speed train collision in central Spain",
+   "ne": "At least 68 killed in high-speed train collision in central Spain",
+   "imp": 1,
+   "tags": [
+    "Spain",
+    "TrainCrash",
+    "Accident"
+   ],
+   "cat": "world",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -5672,7 +5668,7 @@
    "cat": "health"
   }
  ],
- "updated": 1793235685,
+ "updated": 1793236256,
  "pending_since": 1793235051.0094888,
  "fb_blocks": [
   1790350880.4125228,
