@@ -2281,29 +2281,6 @@
    "hits": 1
   },
   {
-   "title": "'सहिद मुक्सन किराँतीको स्मृतिमा खोटाङमा जिल्लास्तरीय भलिबल हुने'",
-   "summary": "खोटाङका सहिद मुक्सन किराँतीको अस्मृतिमा जिल्लास्तरीय खुल्ला भलिबल प्रतियोगिता आयोजना हुने भएको छ।...",
-   "link": "https://nagariknews.nagariknetwork.com/sports/district-level-volleyball-tournament-held-in-memory-of-khotang-martyr-muksan-kirati-13-26.html",
-   "source": "Nagarik News",
-   "ts": 1793287208,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1793287295_5.png",
-   "lang": "ne",
-   "hl": "'सहिद मुक्सन किराँतीको स्मृतिमा खोटाङमा जिल्लास्तरीय भलिबल हुने'",
-   "en": "'सहिद मुक्सन किराँतीको स्मृतिमा खोटाङमा जिल्लास्तरीय भलिबल हुने'",
-   "ne": "'सहिद मुक्सन किराँतीको स्मृतिमा खोटाङमा जिल्लास्तरीय भलिबल हुने'",
-   "imp": 2,
-   "tags": [
-    "Volleyball",
-    "Khotang",
-    "Sports"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "इजरायलमा नेतन्याहूलाई बहुमत जुटाउन कठिन, विपक्ष एकजुट देखिँदै",
    "summary": "",
    "link": "https://baahrakhari.com/detail/506051",
@@ -2666,29 +2643,6 @@
     "बेनी"
    ],
    "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "दुई अर्ब बढीको क्रिप्टो कारोबारी पक्राउ",
-   "summary": "काठमाडौँ, कात्तिक १२ गते । दुई अर्ब बढीको क्रिप्टोकरेन्सीको कारोबारी पक्राउ परेका छन् । काठमाडौँ उपत्यका अपराध अनुसन्धान कार्यालयको टोलीले आज रु दुई अर्ब १६ करोड एक लाख २० हजार ८२१...",
-   "link": "https://gorkhapatraonline.com/news/227661",
-   "source": "Gorkhapatra",
-   "ts": 1793296357,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/389493/conversions/ARREST-original.jpg",
-   "lang": "ne",
-   "hl": "दुई अर्ब बढीको क्रिप्टो कारोबारी पक्राउ",
-   "en": "दुई अर्ब बढीको क्रिप्टो कारोबारी पक्राउ",
-   "ne": "दुई अर्ब बढीको क्रिप्टो कारोबारी पक्राउ",
-   "imp": 4,
-   "tags": [
-    "Crypto",
-    "Arrest",
-    "CyberCrime"
-   ],
-   "cat": "crime",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -5776,9 +5730,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "sports"
+  },
+  {
+   "ts": 1793316052.3363605,
+   "en": "रु दुई अर्ब १६ करोड बढीको क्रिप्टो कारोबार गर्ने सुनिलकुमार यादव पक्राउ",
+   "ne": "रु दुई अर्ब १६ करोड बढीको क्रिप्टो कारोबार गर्ने सुनिलकुमार यादव पक्राउ",
+   "link": "https://gorkhapatraonline.com/news/227661",
+   "source": "Gorkhapatra",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "crime"
   }
  ],
- "updated": 1793315457,
+ "updated": 1793316066,
  "pending_since": 1793314249.8184762,
  "fb_blocks": [
   1790350880.4125228,
