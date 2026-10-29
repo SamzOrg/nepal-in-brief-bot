@@ -2040,7 +2040,12 @@
   "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1mWEZOQ2FVdXNHUHJfWTBWWjMwTE5CcGRxemgwN3o2TjE0eUlkeTMtS1Z3emRQcldKQS1UdWtHVUY3NXc2NzVxc1Q0V2hnU0JX?oc=5": 1793257856.8398118,
   "https://news.google.com/rss/articles/CBMizgFBVV95cUxPaG9lOU01eTUya283cGRaSk5HZkdnU1hSVDBBczh0TUgxT0dnWnhhZDVEdzZobU9FSmk2OWNDVU9UcVFKZDV2bzdxam55R1pxdzF1UGcyOHJFVUE3T0xLaGJ4RWZ1OExib09BVEJFa2FEUGxXT3kxd0I5MjhrY0lsalZXLWdrVFdLUGVuX2pIdkZMTVkwaXJoa3F2Vi00Tjc5c0tKMDYtTzVVekY0Sk9rOWlVV0lWcEZWdUtORF9qVzhNc005SkNpeGtueFVhZw?oc=5": 1793258453.221379,
   "http://english.ratopati.com/story/84961/ronaldo-beats-messi-to-win-all-time-ballon-dor": 1793258453.221379,
-  "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPX1RILXM5cTY4TV9wSTdHTWNTb0Nuc1FCZG9xTkotSUR1SDhOR08wMkphckdsUjhQSFZTOURqOGhqNm5uOV9fT2syUGNHVk5LdV9jYklDcWJlSXFBQ2xPTjlsU1I1cFl0elExWVpCRFBEMVB2bHNRb0ROeE1UclJrLXgxS0Y2RlM4WUN5SFZuLWZNNWJMV2RtNm5vcXBDRVI0SFNGdUNXOTF0cnk0NDEzM2trclE2aE9ROG9vRkdpRDBlYTAwbEhhLQ?oc=5": 1793258453.221379
+  "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPX1RILXM5cTY4TV9wSTdHTWNTb0Nuc1FCZG9xTkotSUR1SDhOR08wMkphckdsUjhQSFZTOURqOGhqNm5uOV9fT2syUGNHVk5LdV9jYklDcWJlSXFBQ2xPTjlsU1I1cFl0elExWVpCRFBEMVB2bHNRb0ROeE1UclJrLXgxS0Y2RlM4WUN5SFZuLWZNNWJMV2RtNm5vcXBDRVI0SFNGdUNXOTF0cnk0NDEzM2trclE2aE9ROG9vRkdpRDBlYTAwbEhhLQ?oc=5": 1793258453.221379,
+  "http://english.ratopati.com/story/84962/dont-harvest-rice-until-sunday-meteorologist": 1793259069.42653,
+  "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZXVTTTQyVDZCWXdZWFQ3WDBvd2RBSUgyUzBPYXRmSlRnRjdWbmpuSjBWdllYX2g4Y0wyVXFMS1kySUtOWm11UTZnZnhXbnZWOEVjam1kTG1URDl5dno0TkVtLWhCVk5hV0FuR1RRZkhrRkdLWVhmYnRUdWF2UE1HeVdqNWxheENOMVdIUG9TS3pGRFpqdU5GTVM5cV9aMjM2SC1QUV9EQVVCQmlMZjhWZ2htWVRJdFJRSGhoOVVZWWNxQ0FCN0Y0QVRlOW8?oc=5": 1793259069.42653,
+  "https://news.google.com/rss/articles/CBMijwFBVV95cUxNY0ZoQXloaFBURDU1R2xsMEg4SDJ5TWlYc3Mzb29lY25nTEZrYnB4R1hTQTh6ZmVYaXpKZ0JVa1BucFFFM1AtZWRHUVVqeng5dVdPa09sUEFYSXNuZ1lmSFZ1SEFTV0tDSWFjcU9qeEhYU0U5b01JVWJKLXdwYXl3bEtMSmZMWVpRVnhIS21VYw?oc=5": 1793259069.42653,
+  "https://baahrakhari.com/detail/505984": 1793259069.42653,
+  "https://kathmandupost.com/money/2026/10/29/annapurna-circuit-sees-trekking-arrivals-rebound-after-floods": 1793259069.42653
  },
  "queue": [
   {
@@ -3443,7 +3448,7 @@
    "cat": "health",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "एनपिएलमा मौसमको चुनौती, साँझको खेल प्रभावित हुन सक्ने",
@@ -4910,7 +4915,7 @@
    "cat": "world",
    "val": 3,
    "teaser": false,
-   "hits": 3
+   "hits": 4
   },
   {
    "title": "Busy Actor Dayahang Rai's Film 'Buki Phool' Completes Shooting",
@@ -7263,20 +7268,55 @@
    "val": 3,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "रसुवा बाढीपछि संकलित राहत सामग्री स्टोरमै, आवश्यक परेपछि मात्रै पठाउने",
+   "summary": "",
+   "link": "https://baahrakhari.com/detail/505984",
+   "source": "Baahrakhari",
+   "ts": 1793258553,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "रसुवा बाढीपछि संकलित राहत सामग्री स्टोरमै, आवश्यक परेपछि मात्रै पठाउने",
+   "en": "रसुवा बाढीपछि संकलित राहत सामग्री स्टोरमै, आवश्यक परेपछि मात्रै पठाउने",
+   "ne": "रसुवा बाढीपछि संकलित राहत सामग्री स्टोरमै, आवश्यक परेपछि मात्रै पठाउने",
+   "imp": 3,
+   "tags": [
+    "Rasuwa",
+    "Flood",
+    "राहत"
+   ],
+   "cat": "disaster",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Annapurna Circuit sees trekking arrivals rebound after floods",
+   "summary": "More than 5,300 foreign tourists trekked the route during Dashain, 769 more than in the same period last year, as improving weather and repairs restored access.",
+   "link": "https://kathmandupost.com/money/2026/10/29/annapurna-circuit-sees-trekking-arrivals-rebound-after-floods",
+   "source": "Kathmandu Post",
+   "ts": 1793244670.5041134,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "Annapurna Circuit sees trekking arrivals rebound after floods",
+   "en": "Annapurna Circuit sees trekking arrivals rebound after floods",
+   "ne": "Annapurna Circuit sees trekking arrivals rebound after floods",
+   "imp": 3,
+   "tags": [
+    "AnnapurnaCircuit",
+    "Trekking",
+    "Tourism"
+   ],
+   "cat": "society",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1792653673.3736024,
-   "en": "Nepal on FATF Grey List Due to Non-Compliance with Anti-Money Laundering Commitments",
-   "ne": "Nepal on FATF Grey List Due to Non-Compliance with Anti-Money Laundering Commitments",
-   "link": "https://www.hamropatro.com/en/news/detail/4842308126716655-nepal-on-fatf-grey-list-due-to-non-compliance-with",
-   "source": "Hamro Patro",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "economy"
-  },
   {
    "ts": 1792655468.7277124,
    "en": "'Heartbreaking': Man's 70km trek for Nepal aid",
@@ -10270,7 +10310,7 @@
    "cat": "economy"
   }
  ],
- "updated": 1793258486,
+ "updated": 1793259099,
  "pending_since": 1793257286.530706,
  "fb_blocks": [
   1790350880.4125228,
