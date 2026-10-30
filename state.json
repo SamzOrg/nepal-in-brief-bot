@@ -2063,7 +2063,11 @@
   "http://english.ratopati.com/story/85072/chief-minister-acharya-emphasizes-coordination-and-preparedness-in-disaster-management": 1793343686.9881659,
   "https://baahrakhari.com/detail/506089": 1793344249.2749896,
   "http://english.ratopati.com/story/85079/weather-changes-across-the-country-due-to-the-impact-of-cyclone-arnab-moderate-rainfall-in-kathmandu": 1793344249.2749896,
-  "https://theannapurnaexpress.com/story/68340": 1793344249.2749896
+  "https://theannapurnaexpress.com/story/68340": 1793344249.2749896,
+  "https://english.onlinekhabar.com/man-arrested-romania-and-croatia.html": 1793344849.149451,
+  "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAyUlNjcjNER1R4cnFMVjFETE9qekZKSnZ4c0NwRUJ1RGxDckRLb2RwLUUtYmlGaTh6OGNZZ3ZucDA1cFpwQnNMVjN6ZXFPYzhZS1htNnhjeExtUERLUGhv?oc=5": 1793344849.149451,
+  "https://gorkhapatraonline.com/news/227724": 1793344849.149451,
+  "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWW9ickg4akNYc0I4cV93NEJZNjIxQ21od2dZUmZLSUY0c1hzQzc3WVlqeFFpalZpclIxaUlacGNRbG8yUEhzNkZ1bVZlZkUwVEhWd21EaElXQkhOX0s5Q0g4VW8tQzVwRXdXazMyTDJiSm01Wi15SVpUelJuSjBNbURCLU9ZWkU1THZvc1lGTjI5S3lzc2h2U2RxZzhYSFlraEhfSzFVVU8yNThjMWFXckt2c0FONW9iUUpYM21yQVlLa1QyOVpWRHNIOUFRWDBIajRhd0s5Rm4?oc=5": 1793344849.149451
  },
  "queue": [
   {
@@ -3097,7 +3101,7 @@
    "cat": "crime",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "भारतीय लगानी प्रवर्धनबारे छलफल",
@@ -3648,7 +3652,7 @@
    "cat": "disaster",
    "val": 3,
    "teaser": false,
-   "hits": 5
+   "hits": 6
   },
   {
    "title": "इजरायलमा सरकार गठनको प्रयासमा आइसेनकोट, विपक्षी नेताहरूसँग भेटवार्ता",
@@ -4111,52 +4115,6 @@
    "cat": "society",
    "val": 2,
    "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Flávio Bolsonaro calls himself 'leader of Brazil' after election loss",
-   "summary": "The defeated candidate in Brazil's presidential election, Flavio Bolsonaro, has referred to himself as \"leader of Brazil\" in a letter he published on social media after leaving the country for the United States, BBC...",
-   "link": "https://theannapurnaexpress.com/story/68329",
-   "source": "Annapurna Express",
-   "ts": 1793316048.8497422,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Flávio Bolsonaro calls himself 'leader of Brazil' after election loss",
-   "en": "Flávio Bolsonaro calls himself 'leader of Brazil' after election loss",
-   "ne": "Flávio Bolsonaro calls himself 'leader of Brazil' after election loss",
-   "imp": 1,
-   "tags": [
-    "Brazil",
-    "FlavioBolsonaro",
-    "Election"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "Post Commentary: The five questions Hari Phuyal must answer",
-   "summary": "The reported exchanges with Inam Sapkota raise questions about what was discussed, when suspicions arose and whether proper safeguards were followed to protect judicial independence.",
-   "link": "https://kathmandupost.com/national/2026/10/30/post-commentary-the-five-questions-hari-phuyal-must-answer",
-   "source": "Kathmandu Post",
-   "ts": 1793316048.4554152,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Post Commentary: The five questions Hari Phuyal must answer",
-   "en": "Post Commentary: The five questions Hari Phuyal must answer",
-   "ne": "Post Commentary: The five questions Hari Phuyal must answer",
-   "imp": 3,
-   "tags": [
-    "HariPhuyal",
-    "Judiciary",
-    "SupremeCourt"
-   ],
-   "cat": "politics",
-   "val": 1,
-   "teaser": true,
    "hits": 1
   },
   {
@@ -6405,7 +6363,7 @@
    "cat": "crime",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "१५० वर्षदेखि लोप भएको ठानिएको विशाल चरा नेपालमा पनि पाइने लक्ष्मण सारस रहेछ!",
@@ -6795,29 +6753,6 @@
    "hits": 2
   },
   {
-   "title": "Inam Sapkota controversy rattles RSP, judiciary and police",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTVlJTDEwcEp0ckpqSk5QR3hoR3pLeVgxR1ptRmdsdm5SdkZxTER6ZHBlZl8zOElmc0lTbHN2WjNIZ1JKUnZsR3c3azFCa05EQzR4dEhJbTNnZFZySUtWQ01iQUp1Wm5HdHZsTmxSOHJEWkt6dXczemVMek5YdUo5TGZrYk95b1UyT2pWT0JjM1FyS0NSTVExeHVfWGdfX0JEODlNcmw1ck5fcV9JVks4RF9B?oc=5",
-   "source": "myRepublica",
-   "ts": 1793334600,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Inam Sapkota controversy rattles RSP, judiciary and police",
-   "en": "Inam Sapkota controversy rattles RSP, judiciary and police",
-   "ne": "Inam Sapkota controversy rattles RSP, judiciary and police",
-   "imp": 4,
-   "tags": [
-    "InamSapkota",
-    "RSP",
-    "SupremeCourt"
-   ],
-   "cat": "politics",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Pradip Bhardwaj Discusses Nepali Film Scriptwriting Challenges",
    "summary": "Pradip Bhardwaj is an established and busy writer in the Nepali film industry. Active in writing for over two decades,...",
    "link": "http://english.ratopati.com/story/85076/random-scripting-during-shooting-ruins-the-film",
@@ -7070,17 +7005,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1792739462.5985084,
-   "en": "TAAN opens Langtang and Manaslu trekking routes with safety advisory",
-   "ne": "TAAN opens Langtang and Manaslu trekking routes with safety advisory",
-   "link": "https://english.onlinekhabar.com/langtang-and-manaslu-trekking-routes-reopen-taan-issues-safety-advisory.html",
-   "source": "Onlinekhabar EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "culture"
-  },
   {
    "ts": 1792741260.6329262,
    "en": "बिहीबारदेखि आइतबारसम्म धान नकाट्न मौसमविद्को सुझाव",
@@ -10083,9 +10007,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "politics"
+  },
+  {
+   "ts": 1793344856.1258655,
+   "en": "Inam Sapkota custody case rattles RSP, judiciary and police amid high-level links",
+   "ne": "Inam Sapkota custody case rattles RSP, judiciary and police amid high-level links",
+   "link": "https://myrepublica.nagariknetwork.com/news/inam-sapkota-controversy-rattles-rsp-judiciary-and-police-33-64.html",
+   "source": "myRepublica",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "politics"
   }
  ],
- "updated": 1793344254,
+ "updated": 1793344873,
  "pending_since": 1793344249.2749896,
  "fb_blocks": [
   1790350880.4125228,
