@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://www.setopati.com/art/art-activity/401445": 1793166654.1779816,
-  "https://baahrakhari.com/detail/505878": 1793166654.1779816,
   "https://gorkhapatraonline.com/news/227500": 1793167286.1811826,
   "https://english.onlinekhabar.com/karnali-chief-minister-holds-talks-with-federal-agencies-to-ensure-regular-air-services.html": 1793167286.1811826,
   "https://thehimalayantimes.com/nepal/nepal-suspends-restricted-area-trekking-permits-amid-snowstorm-avalanche-risk": 1793167286.1811826,
@@ -2077,7 +2075,11 @@
   "https://nagariknews.nagariknetwork.com/opinion/trends-and-methods-must-change-for-prosperity-br-21-51.html": 1793338847.8023055,
   "https://nagariknews.nagariknetwork.com/politics/whether-the-prime-minister-s-name-was-misused-or-not-an-investigation-should-be-conducted-jasmine-ojha-br-12-22.html": 1793338847.8023055,
   "https://english.khabarhub.com/2026/30/573717/": 1793339445.2856338,
-  "https://english.onlinekhabar.com/gaunthali-wins-best-foreign-cinema-award-at-world-film-festival.html": 1793339445.2856338
+  "https://english.onlinekhabar.com/gaunthali-wins-best-foreign-cinema-award-at-world-film-festival.html": 1793339445.2856338,
+  "https://english.onlinekhabar.com/karnali-collects-rs-41-76-million-in-revenue-from-medicinal-herb-exports.html": 1793340082.3696918,
+  "https://english.onlinekhabar.com/climate-change-supported-53-countries.html": 1793340082.3696918,
+  "https://english.onlinekhabar.com/flash-flood-causes-damage-in-bhutan-glacial-lake-outburst-suspected.html": 1793340082.3696918,
+  "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNSnJTSThlZVdmeUtwaXlHemREdmkxR3JwYm42SHRZNjlMZzM1dU1rVlU4bUNLQ2Y0Y1JhdndiWnhtampwY19TaG9JTlk3ZlRfUkd5LUwzc3pxQlYwelE3anF5YzBReTNyZlphQjcxbF9uQWZoejVLbnVXWTc3SHJWTzRHMmpJSm5sRXZnZlAwUzFRaDR5emJxU1c3b3ROem12RG9pN2FJWGJ0S2ZuSXBWZkN1anREMktOTXpVcVYyZXZhcEcwVW1CZDg3czFQVEVEQ3RYTjNTZGpYR1lvSXFoV21peFg1UFp5ZjhfejF1akg0LWQ5T1VsR0VR?oc=5": 1793340082.3696918
  },
  "queue": [
   {
@@ -4032,7 +4034,7 @@
    "cat": "disaster",
    "val": 3,
    "teaser": false,
-   "hits": 5
+   "hits": 6
   },
   {
    "title": "खाडीमा श्रमसेवा निर्यात",
@@ -5014,7 +5016,7 @@
    "cat": "economy",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "Former PM Bhattarai Criticizes Controversies in Sensitive State Organs",
@@ -9209,7 +9211,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1793339462,
+ "updated": 1793340087,
  "pending_since": 1793339445.2856338,
  "fb_blocks": [
   1790350880.4125228,
