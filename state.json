@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://baahrakhari.com/detail/505912": 1793184653.6392229,
-  "https://nagariknews.nagariknetwork.com/politics/newly-appointed-french-ambassador-puiginza-meets-with-foreign-minister-84-71.html": 1793184653.6392229,
   "http://english.ratopati.com/story/84857/paddy-and-rice-imports-worth-over-rs-364-billion-in-three-months": 1793185293.4278505,
   "https://baahrakhari.com/detail/505913": 1793185293.4278505,
   "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQXFoSzJTWE42ZWl0Q3E2ODJpVXhvVllPcTNpdmYyMGllTmZvS0xUVWVMSXJDdGZJRkhHQW9oNDJSRDRSeXVqZkMxYWRlR00xRVM5aDZxd3Q5dHYxdDM0MFhRRjAtaF9pX1U3UHZheGxuUmVSY2RGSy1QU195RFJoNHR4aThFeng3UldJOU1jMWNSVlVpQUVLZGhhN2pBMDh3TEhwckFscExKMmZIMEJwQTVrZ3JNMlZsZUpmcEUtU1dDZ3g3VWNxNHhNUHBjc1E?oc=5": 1793185293.4278505,
@@ -2281,52 +2279,6 @@
    "cat": "tech",
    "val": 3,
    "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Discover The Beauty Of Nepal",
-   "summary": "Though Nepal is small in geographical size, it stands among the world's richest nations in terms of natural, cultural,...",
-   "link": "https://risingnepaldaily.com/news/88220",
-   "source": "Rising Nepal",
-   "ts": 1793329006,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Discover The Beauty Of Nepal",
-   "en": "Discover The Beauty Of Nepal",
-   "ne": "Discover The Beauty Of Nepal",
-   "imp": 1,
-   "tags": [
-    "Tourism",
-    "Nepal",
-    "Travel"
-   ],
-   "cat": "culture",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "सडक सुरक्षा उपाय",
-   "summary": "धेरै कारणले नेपालका सडक दिनप्रतिदिन असुरक्षित र जोखिमपूर्ण बन्दै गएका छन् । पछिल्लो समय सडक दुर्घटनाको बढ्दो सङ्ख्या र यसबाट हुने मानवीय तथा भौतिक क्षति चिन्ताजनक र गम्भीर चुनौती ब...",
-   "link": "https://gorkhapatraonline.com/news/227689",
-   "source": "Gorkhapatra",
-   "ts": 1793328658,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/389528/conversions/sampadakiya-nnew-original.jpg",
-   "lang": "ne",
-   "hl": "सडक सुरक्षा उपाय",
-   "en": "सडक सुरक्षा उपाय",
-   "ne": "सडक सुरक्षा उपाय",
-   "imp": 2,
-   "tags": [
-    "RoadSafety",
-    "Traffic",
-    "सडक"
-   ],
-   "cat": "society",
-   "val": 1,
-   "teaser": true,
    "hits": 1
   },
   {
@@ -4711,29 +4663,6 @@
    "val": 2,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "Nepal proposes recognition of six more of its mountains as above 8,000 metres",
-   "summary": "Kathmandu, October Nepal is known as the country of Sagarmatha, the world's highest peak. Eight of its mountains are already recognised as being above 8,000 metres. Nepal has now taken a formal initiative to have six...",
-   "link": "https://english.onlinekhabar.com/mountains-as-above-8000-metres.html",
-   "source": "Onlinekhabar EN",
-   "ts": 1793345129,
-   "weight": 3,
-   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/09/Mountain-Kathmandu-Valley-5-1024x683.jpg",
-   "lang": "en",
-   "hl": "Nepal proposes recognition of six more of its mountains as above 8,000 metres",
-   "en": "Nepal proposes recognition of six more of its mountains as above 8,000 metres",
-   "ne": "Nepal proposes recognition of six more of its mountains as above 8,000 metres",
-   "imp": 3,
-   "tags": [
-    "Mountain",
-    "Nepal",
-    "Himalayas"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 7
   },
   {
    "title": "ताप्लेजुङमा २५० भन्दा बढी पर्यटक सुरक्षित स्थानमा",
@@ -10472,10 +10401,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "politics"
+  },
+  {
+   "ts": 1793358093.2571385,
+   "en": "Nepal proposes six more mountains for international recognition as above 8,000 metres",
+   "ne": "Nepal proposes six more mountains for international recognition as above 8,000 metres",
+   "link": "https://english.onlinekhabar.com/mountains-as-above-8000-metres.html",
+   "source": "Onlinekhabar EN",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "world"
   }
  ],
- "updated": 1793357454,
- "pending_since": null,
+ "updated": 1793358108,
+ "pending_since": 1793358087.631284,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
