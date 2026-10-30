@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://baahrakhari.com/detail/505946": 1793207451.5550902,
-  "https://gorkhapatraonline.com/news/227549": 1793207451.5550902,
   "https://news.google.com/rss/articles/CBMizwFBVV95cUxNNDZNN3FqVlRfYTRiM2t5ODc5cVloSGlnaHpSYWNFWFRkSF9PWUhTamVmaWU2NzQ1bFZTeElDQXpLS2tSQnJmbnJMbFpvM0k2dkNaLUxRLXFNMDlmTUxxUkl1cWk4dGxXdXpPZVdWbHBDeEpPbnB3Skx4LUJRdW84Qkl6clllbmNBOUR0S2txaGVpZldfdHZlX3BqWHAwSnFRYUI4SHlhcHN5ZzRPdlJIRUk5dlZpS296cm9nS3VCd0xvcGFuRG9fZVE0R0NMbEE?oc=5": 1793209254.4035678,
   "https://baahrakhari.com/detail/505947": 1793209254.4035678,
   "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcGx2Q2lXTVNacnpmcU1kdExpekNtbHFCU3prUkl2dGxTckNYeDdKdnVNcGRPa0tjXzBUc1RrLUlHSmE5OURZSm1ZY0tBZTVFODZIc0MzM3ZrSXJrU3o5Q2wzOE1ITTFCakIxN3gwTVNNZkpIdUo5eTdnQlBSdFNTcXh3WUhlNEs0V3U1NkVkU182Q0U?oc=5": 1793209254.4035678,
@@ -2061,55 +2059,10 @@
   "https://nagariknews.nagariknetwork.com/politics/government-has-fascist-tendencies-uml-88-19.html": 1793379697.4262202,
   "http://lokaantar.com/story/332237/2026/10/30/himal-": 1793379697.4262202,
   "http://english.ratopati.com/story/85131/revenue-collection-of-713-billion-crores-in-three-months": 1793379697.4262202,
-  "http://lokaantar.com/story/332240/2026/10/30/temp-": 1793380249.1321342
+  "http://lokaantar.com/story/332240/2026/10/30/temp-": 1793380249.1321342,
+  "https://baahrakhari.com/detail/506153": 1793380849.4861188
  },
  "queue": [
-  {
-   "title": "Airport Transport Service Provides Services to Over 1.3 Million Passengers Annually",
-   "summary": "Airport Transport Service Management Limited has informed that it has been providing transport services to more than 1.3 million domestic...",
-   "link": "http://english.ratopati.com/story/85103/the-airport-serves-more-than-13-million-passengers-annually",
-   "source": "Ratopati EN",
-   "ts": 1793351936,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/tribhuwan-airport-tia_5cwb9gzvhw_rUIvrQH9sh.jpg",
-   "lang": "en",
-   "hl": "Airport Transport Service Provides Services to Over 1.3 Million Passengers Annually",
-   "en": "Airport Transport Service Provides Services to Over 1.3 Million Passengers Annually",
-   "ne": "Airport Transport Service Provides Services to Over 1.3 Million Passengers Annually",
-   "imp": 2,
-   "tags": [
-    "Airport",
-    "Transport",
-    "Passengers"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "Fire breaks out at Nepal hotel along route to Everest base camp",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUW95R3VoYzFQZ2ljSTZWM3hncVNyXzVLcmwwRnlWMjZlOXh1a0d1TWJNZUdvOFlLTmxNN3Y1dXNMRGQ2NWt3MHZYU3gxdXpRcndlWUlxX3kxTTYyWU4yMF9nbE4wSkJWWkZQclh6M19fblpNWGJVb3I5MEVFaVBnRHdfQTFpbGlSaTRrU0FJUkpLS0lMYVNmdm5HQjR1RW13LXhlY01TTXlJRzNxY1lqWkRBZVZLTUUzajRWUTd3?oc=5",
-   "source": "The Straits Times",
-   "ts": 1793351760,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Fire breaks out at Nepal hotel along route to Everest base camp",
-   "en": "Fire breaks out at Nepal hotel along route to Everest base camp",
-   "ne": "Fire breaks out at Nepal hotel along route to Everest base camp",
-   "imp": 3,
-   "tags": [
-    "Fire",
-    "Hotel",
-    "Everest"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
   {
    "title": "Dog trapped in Budhigandaki flood rescued after 20 days",
    "summary": "Gorkha, October 30 A pet dog trapped in the Budhigandaki flood in Gorkha has been rescued after 20 days. It had been stranded since October 11 in Jagat, Chumnubri Rural Municipality-3, in northern Gorkha. On Friday, a...",
@@ -4868,7 +4821,7 @@
    "cat": "disaster",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "कुतकुते वनमा चार नाल भरुवा बन्दुक बरामद",
@@ -5519,17 +5472,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1792775470.2832086,
-   "en": "Government Hospitals Rebrand Pharmacies to 'Sulabh Pharmacy' Amidst Service Concerns",
-   "ne": "Government Hospitals Rebrand Pharmacies to 'Sulabh Pharmacy' Amidst Service Concerns",
-   "link": "http://english.ratopati.com/story/84350/government-pharmacy-board-changes-name-sulabh-work-remains-the-same-hassle",
-   "source": "Ratopati EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "health"
-  },
   {
    "ts": 1792794056.8493257,
    "en": "Nepal becomes first country to receive $20m in UN climate reparations",
@@ -8545,7 +8487,7 @@
    "cat": "sports"
   }
  ],
- "updated": 1793380253,
+ "updated": 1793380852,
  "pending_since": 1793380249.1321342,
  "fb_blocks": [
   1790350880.4125228,
