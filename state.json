@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMVNKYVV0eGNKX0d4OXJXby1TNWYtQ3NiZW1WRm04MUFYWnp6RzZDaWxRVVozNV9EMjg1N21MZzBYVTZtUms3UkZpc19DNW44Nll0TDBfWFNNMXV5bkl4RkthakZEUG5uZ2d4ei1CdWpWQ1hDMldpUnM5ZDU3cUE1MG1TNUw3NVRPYS15clRHTWJKVVBYSmJ1cHdMcDdZb213TUFxLWZaTmRsZGdpRmFPWHk1cnF2M1hxdEhqVWJlWkNVYjF5TElFa2c3SVVqMjg?oc=5": 1793200255.082001,
   "https://www.setopati.com/social/401499": 1793200853.4612322,
   "https://news.google.com/rss/articles/CBMicEFVX3lxTE8wWWwwQllUMExXUVoxS1hjZl95Q0p0Yi1TNGdFRDdOT05OeXlsVk10UlZIQXZUeWgwcnp3TGd3WEhQZ2F1Ulo5QU1nektxcnktS2hoVzZfZThVZjAxaWpYSE1La3VyV183bWZrWGZ2TW0?oc=5": 1793200853.4612322,
   "https://nagariknews.nagariknetwork.com/politics/government-s-decision-to-effectively-implement-past-agreements-in-medical-education-including-a-review-70-58.html": 1793201471.786693,
@@ -2044,7 +2043,8 @@
   "https://nagariknews.nagariknetwork.com/sports/triyuga-gold-cup-in-udayapur-from-saturday-the-thirst-for-udayapur-gold-cup-which-has-been-stalled-for-7-years-is-being-quenched-80-67.html": 1793371853.321523,
   "https://english.khabarhub.com/2026/30/573789/": 1793373051.4339888,
   "http://lokaantar.com/story/332235/2026/10/30/journalists-released-": 1793373051.4339888,
-  "https://gorkhapatraonline.com/news/227749": 1793373051.4339888
+  "https://gorkhapatraonline.com/news/227749": 1793373051.4339888,
+  "https://gorkhapatraonline.com/news/227750": 1793373513.502452
  },
  "queue": [
   {
@@ -2117,52 +2117,6 @@
    "hits": 1
   },
   {
-   "title": "CT scans reveal how the styloid process varies in a Nepalese population",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNb2M4cVNpOUdOSGxzOTlrV0xKX0pWNDVnbmtJcWpGd1FCaGVlV0JxNW5DcG5sTnd6dVJjRm9iM0RJcDJQdjB6OXFvbnktMkZvTmFQX0d2bzhVY254eVlybHdpWjRlbGFNcXRTeHNaZ1VLMWR6UjVqV2pSOTRaR2J4bnJDbHJZTndKd3hLMW03M1l4V2pfWENJUlhVOUc?oc=5",
-   "source": "Bioengineer.org",
-   "ts": 1793344657,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "CT scans reveal how the styloid process varies in a Nepalese population",
-   "en": "CT scans reveal how the styloid process varies in a Nepalese population",
-   "ne": "CT scans reveal how the styloid process varies in a Nepalese population",
-   "imp": 2,
-   "tags": [
-    "CTScan",
-    "StyloidProcess",
-    "Nepal"
-   ],
-   "cat": "health",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Travellers advised to avoid non-essential travel on Muglin-Narayangadh road",
-   "summary": "BHARATPUR: Road Division Bharatpur has urged motorists and passengers to avoid non-essential travel along the Muglin-Narayangadh road section as continued rainfall has increased the risk of landslides and road damage....",
-   "link": "https://english.khabarhub.com/2026/30/573729/",
-   "source": "Khabarhub EN",
-   "ts": 1793344554,
-   "weight": 2,
-   "img": "https://english.khabarhub.com/wp-content/uploads/2026/09/Narayangadh-muglin-sadak-400x220.jpg",
-   "lang": "en",
-   "hl": "Travellers advised to avoid non-essential travel on Muglin-Narayangadh road",
-   "en": "Travellers advised to avoid non-essential travel on Muglin-Narayangadh road",
-   "ne": "Travellers advised to avoid non-essential travel on Muglin-Narayangadh road",
-   "imp": 3,
-   "tags": [
-    "MuglinRoad",
-    "TravelAdvisory",
-    "NarayanGadh"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Actress Sanisha Bhattarai Discusses Film Career and Cricket",
    "summary": "Kathmandu. After gaining a certain name in music videos, actress Sanisha Bhattarai entered films. Her debut film itself was a...",
    "link": "http://english.ratopati.com/story/85068/i-had-no-plans-to-appear-in-a-film-i-started-enjoying-it-as-i-was-working",
@@ -2181,75 +2135,6 @@
     "Cricket"
    ],
    "cat": "culture",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Nepali players dominate NPL 2026, winning Player of the Match in first six games",
-   "summary": "In the third edition of the Nepal Premier League (NPL), which features world star players, all six Player of the Match awards in the first six games have been bagged by Nepali players. In earlier editions, foreign...",
-   "link": "https://english.onlinekhabar.com/nepali-players-dominate-npl.html",
-   "source": "Onlinekhabar EN",
-   "ts": 1793344500,
-   "weight": 3,
-   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/10/npl-6-nepali-cover.png",
-   "lang": "en",
-   "hl": "Nepali players dominate NPL 2026, winning Player of the Match in first six games",
-   "en": "Nepali players dominate NPL 2026, winning Player of the Match in first six games",
-   "ne": "Nepali players dominate NPL 2026, winning Player of the Match in first six games",
-   "imp": 3,
-   "tags": [
-    "NPL2026",
-    "NepaliPlayers",
-    "Cricket"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Madesh Province Sees Rs 8.99 Billion Investment in Subsidized Agricultural Loans",
-   "summary": "Dhanusha. An investment of Rs 8.99 billion in subsidized agricultural loans has been made in Madesh Province. The Nepal Rastra...",
-   "link": "http://english.ratopati.com/story/85082/nearly-9-billion-rupees-of-concessional-agricultural-loans-flow-to-madhesh",
-   "source": "Ratopati EN",
-   "ts": 1793344542,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/nepal-rastra-bank_5Iq3N0kckB.jpg",
-   "lang": "en",
-   "hl": "Madesh Province Sees Rs 8.99 Billion Investment in Subsidized Agricultural Loans",
-   "en": "Madesh Province Sees Rs 8.99 Billion Investment in Subsidized Agricultural Loans",
-   "ne": "Madesh Province Sees Rs 8.99 Billion Investment in Subsidized Agricultural Loans",
-   "imp": 3,
-   "tags": [
-    "MadeshProvince",
-    "AgriculturalLoans",
-    "Investment"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "North Korea Unveils AI Drones, Rocket System",
-   "summary": "Wonsan. North Korea has unveiled drones based on artificial intelligence (AI) technology and for the first time a 600mm caliber...",
-   "link": "http://english.ratopati.com/story/85081/north-korea-displays-ai-powered-drones-and-rockets",
-   "source": "Ratopati EN",
-   "ts": 1793344326,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/ap20260302113479_S7VYduaplq.webp",
-   "lang": "en",
-   "hl": "North Korea Unveils AI Drones, Rocket System",
-   "en": "North Korea Unveils AI Drones, Rocket System",
-   "ne": "North Korea Unveils AI Drones, Rocket System",
-   "imp": 2,
-   "tags": [
-    "NorthKorea",
-    "AIDrones",
-    "Technology"
-   ],
-   "cat": "tech",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -2482,29 +2367,6 @@
    "cat": "culture",
    "val": 2,
    "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Shortage of Writers in Nepali Film Industry",
-   "summary": "Kathmandu. The soul and backbone of any film is its 'screenplay' (script). Superstar actors seen on screen are just attractions,...",
-   "link": "http://english.ratopati.com/story/85080/film-writers-drought-neither-proper-remuneration-nor-respect",
-   "source": "Ratopati EN",
-   "ts": 1793344290,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/script-writing_0q8YcVtQaz.webp",
-   "lang": "en",
-   "hl": "Shortage of Writers in Nepali Film Industry",
-   "en": "Shortage of Writers in Nepali Film Industry",
-   "ne": "Shortage of Writers in Nepali Film Industry",
-   "imp": 2,
-   "tags": [
-    "FilmIndustry",
-    "WriterShortage",
-    "NepaliCinema"
-   ],
-   "cat": "culture",
-   "val": 2,
-   "teaser": true,
    "hits": 1
   },
   {
@@ -6103,17 +5965,6 @@
  ],
  "posted": [
   {
-   "ts": 1792768300.2559235,
-   "en": "आहा रारा पोखरा गोल्डकपको २६औँ संस्करण माघ ५ देखि १६ गतेसम्म हुने",
-   "ne": "आहा रारा पोखरा गोल्डकपको २६औँ संस्करण माघ ५ देखि १६ गतेसम्म हुने",
-   "link": "http://lokaantar.com/story/331789/2026/10/23/aha-rara-gold-cup-",
-   "source": "Lokaantar",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "sports"
-  },
-  {
    "ts": 1792770075.8093925,
    "en": "FM Wagle: Era of anti-India nationalism in Nepal is over",
    "ne": "FM Wagle: Era of anti-India nationalism in Nepal is over",
@@ -9117,7 +8968,7 @@
    "cat": "crime"
   }
  ],
- "updated": 1793373068,
+ "updated": 1793373517,
  "pending_since": 1793372487.362713,
  "fb_blocks": [
   1790350880.4125228,
