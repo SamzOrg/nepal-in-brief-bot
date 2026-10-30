@@ -2076,30 +2076,6 @@
  },
  "queue": [
   {
-   "title": "Adverse Weather Halts Over 500 Containers at Nepal-China Border's Korala Pass",
-   "summary": "Mustang. Due to adverse weather, over 500 containers are stranded in the Korala pass area on the Nepal-China border for...",
-   "link": "http://english.ratopati.com/story/85129/five-hundred-containers-stranded-in-korla-area",
-   "source": "Ratopati EN",
-   "ts": 1793377125,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/korala-naka_xOiUMnY25u.jpg",
-   "lang": "en",
-   "hl": "Adverse Weather Halts Over 500 Containers at Nepal-China Border's Korala Pass",
-   "en": "Adverse Weather Halts Over 500 Containers at Nepal-China Border's Korala Pass",
-   "ne": "Adverse Weather Halts Over 500 Containers at Nepal-China Border's Korala Pass",
-   "imp": 3,
-   "tags": [
-    "KoralaPass",
-    "NepalChina",
-    "Trade",
-    "Weather"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
    "title": "पत्रकार पक्राउका जिम्मेवारमाथि छानबिन र कारबाही गर : जेनजी फ्रन्ट",
    "summary": "",
    "link": "https://baahrakhari.com/detail/506150",
@@ -2144,27 +2120,6 @@
    "cat": "crime",
    "val": 3,
    "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Today's News in a Nutshell",
-   "summary": "KATHMANDU: Khabarhub brings you a glimpse of major developments of the day in Nepal, including politics, business/economy, sports, entertainment, and more. PM Balen orders immediate release of detained journalists The...",
-   "link": "https://english.khabarhub.com/2026/30/573719/",
-   "source": "Khabarhub EN",
-   "ts": 1793375142,
-   "weight": 2,
-   "img": "https://english.khabarhub.com/wp-content/uploads/2024/05/News-Nutshell-640x360.jpg",
-   "lang": "en",
-   "hl": "Today's News in a Nutshell",
-   "en": "Today's News in a Nutshell",
-   "ne": "Today's News in a Nutshell",
-   "imp": 1,
-   "tags": [
-    "NewsNutshell"
-   ],
-   "cat": "other",
-   "val": 1,
-   "teaser": true,
    "hits": 1
   },
   {
@@ -2232,52 +2187,6 @@
     "Kathmandu"
    ],
    "cat": "culture",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "नेपाल फुटबल लिगमा तीन नयाँ क्लब थपिने",
-   "summary": "काठमाडौं। नेपाल फुटबल लिग (एनएफएल) ले तीन नयाँ क्लब थप्ने प्रक्रिया अघि बढाएको छ।",
-   "link": "https://www.setopati.com/sports/football/401654",
-   "source": "Setopati",
-   "ts": 1793375340,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "नेपाल फुटबल लिगमा तीन नयाँ क्लब थपिने",
-   "en": "नेपाल फुटबल लिगमा तीन नयाँ क्लब थपिने",
-   "ne": "नेपाल फुटबल लिगमा तीन नयाँ क्लब थपिने",
-   "imp": 2,
-   "tags": [
-    "Football",
-    "NepalFootballLeague",
-    "Sports"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Nawa Khola Road Blocked Due to Increased Water Flow",
-   "summary": "Panchthar. The road under the Tamor Corridor has been blocked due to increased water flow in the Nawa Khola following...",
-   "link": "http://english.ratopati.com/story/85125/tamor-corridor-blocked-after-water-flow-increases-in-nawa-river",
-   "source": "Ratopati EN",
-   "ts": 1793375251,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/pachtaar-_9tzrt0gkje_qgva0pbajj_XJ2GAoeG33.webp",
-   "lang": "en",
-   "hl": "Nawa Khola Road Blocked Due to Increased Water Flow",
-   "en": "Nawa Khola Road Blocked Due to Increased Water Flow",
-   "ne": "Nawa Khola Road Blocked Due to Increased Water Flow",
-   "imp": 3,
-   "tags": [
-    "NawaKhola",
-    "RoadBlocked",
-    "Flood"
-   ],
-   "cat": "disaster",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -5867,9 +5776,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "disaster"
+  },
+  {
+   "ts": 1793404250.9464777,
+   "en": "Adverse Weather Halts Over 500 Containers at Nepal-China Border's Korala Pass",
+   "ne": "Adverse Weather Halts Over 500 Containers at Nepal-China Border's Korala Pass",
+   "link": "http://english.ratopati.com/story/85129/five-hundred-containers-stranded-in-korla-area",
+   "source": "Ratopati EN",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "economy"
   }
  ],
- "updated": 1793403926,
+ "updated": 1793404263,
  "pending_since": 1793403921.1981459,
  "fb_blocks": [
   1790350880.4125228,
