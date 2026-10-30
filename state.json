@@ -2068,30 +2068,6 @@
  },
  "queue": [
   {
-   "title": "कालीगण्डकी बाढीले क्षतिग्रस्त पक्की पर्खाल पुननिर्माणको तयारी",
-   "summary": "ठाकुरप्रसाद आचार्य म्याग्दी (बेनी) कात्तिक १३ गते । असोज दोस्रो साता कालीगण्डकी नदीमा आएको बाढीले बेनी बजार संरक्षणका लागि निर्माण गरिएको क्षतिग्रस्त पक्की पर्खाल र रिङरोड पुनर्निर...",
-   "link": "https://gorkhapatraonline.com/news/227746",
-   "source": "Gorkhapatra",
-   "ts": 1793370469,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/389628/conversions/beni-parkhal--(2)-original.jpg",
-   "lang": "ne",
-   "hl": "कालीगण्डकी बाढीले क्षतिग्रस्त पक्की पर्खाल पुननिर्माणको तयारी",
-   "en": "कालीगण्डकी बाढीले क्षतिग्रस्त पक्की पर्खाल पुननिर्माणको तयारी",
-   "ne": "कालीगण्डकी बाढीले क्षतिग्रस्त पक्की पर्खाल पुननिर्माणको तयारी",
-   "imp": 3,
-   "tags": [
-    "KaliGandaki",
-    "Flood",
-    "Infrastructure",
-    "पर्खर"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "तीन जना कर्मचारीको बिदाइ",
    "summary": "गोरखापत्र समाचारदाताकाठमाडौँ, कात्तिक १३ गते । गोरखापत्र संस्थानबाट सेवानिवृत्त र स्वेच्छाले राजीनामा दिनुभएका तीन जना कर्मचारीको शुक्रबार औपचारिक बिदाइ गरिएको छ । संस्थानका महाप्...",
    "link": "https://gorkhapatraonline.com/news/227747",
@@ -2132,29 +2108,6 @@
     "Federalism"
    ],
    "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "सौराहा अन्तर्राष्ट्रिय तेक्वान्दो च्याम्पियनसिप सुरु",
-   "summary": "रत्ननगर नगरपालिकामा शुक्रबार एक भव्य समारोहबीच प्रथम सौराहा अन्तर्राष्ट्रिय खुला तेक्वान्दो च्याम्पियनसिप सुरु भएको हो।...",
-   "link": "https://nagariknews.nagariknetwork.com/sports/sauraha-international-taekwondo-championship-begins-18-32.html",
-   "source": "Nagarik News",
-   "ts": 1793370637,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1793370626_sauraha%20news.jpg",
-   "lang": "ne",
-   "hl": "सौराहा अन्तर्राष्ट्रिय तेक्वान्दो च्याम्पियनसिप सुरु",
-   "en": "सौराहा अन्तर्राष्ट्रिय तेक्वान्दो च्याम्पियनसिप सुरु",
-   "ne": "सौराहा अन्तर्राष्ट्रिय तेक्वान्दो च्याम्पियनसिप सुरु",
-   "imp": 2,
-   "tags": [
-    "Sauraha",
-    "Taekwondo",
-    "Championship"
-   ],
-   "cat": "sports",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -3163,17 +3116,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1792794056.8493257,
-   "en": "Nepal becomes first country to receive $20m in UN climate reparations",
-   "ne": "Nepal becomes first country to receive $20m in UN climate reparations",
-   "link": "https://www.telegraph.co.uk/world-news/2026/10/23/nepal-first-country-receive-climate-change-reparations/",
-   "source": "The Telegraph",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "economy"
-  },
   {
    "ts": 1792795855.0644834,
    "en": "Loss and Damage Fund allocates $21.6M for Nepal's August 2026 floods",
@@ -6189,7 +6131,7 @@
    "cat": "world"
   }
  ],
- "updated": 1793398873,
+ "updated": 1793399470,
  "pending_since": 1793398245.014496,
  "fb_blocks": [
   1790350880.4125228,
