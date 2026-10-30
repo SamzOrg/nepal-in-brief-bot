@@ -2049,7 +2049,11 @@
   "http://english.ratopati.com/story/85040/woman-who-killed-three-people-by-feeding-them-poisonous-mushrooms-now-faces-life-in-prison": 1793326852.404686,
   "https://risingnepaldaily.com/news/88214": 1793326852.404686,
   "http://lokaantar.com/story/332185/2026/10/30/meat-": 1793326852.404686,
-  "https://nagariknews.nagariknetwork.com/social-affairs/ruckus-in-rsp-judiciary-and-police-br-65-59.html": 1793326852.404686
+  "https://nagariknews.nagariknetwork.com/social-affairs/ruckus-in-rsp-judiciary-and-police-br-65-59.html": 1793326852.404686,
+  "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9DV0xlcUR6dXhNT3U5UXFiNGJwMmlsdXdXWEVWTHhGRXdqWHB2OVZuYUg3cnU0eU9PNDBqcXhZb2J6MHRnR2ZEWWN2VDFFU3B1N3Rpb0hEc0U?oc=5": 1793327466.502491,
+  "https://news.google.com/rss/articles/CBMigAFBVV95cUxPd1hCV1dNZ0JNbXVGcVg2N2Y0czB0WUJnTGhsSVhsd053MVM5UzVnY3k5dzBWSFkxMzFZdDV0VERaS0VMaF91V0c2djNwalhLa1hSMUFqS2xHU1BwSzFOTHB6T3kwYUszSVhuXzNXYUwzUWFUdE1OWkhRXzh4TFVfdA?oc=5": 1793327466.502491,
+  "https://kathmandupost.com/money/2026/10/30/nepal-plans-temporary-bridges-to-reopen-flood-hit-rasuwagadhi-border-crossing": 1793327466.502491,
+  "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSGE4ZHE1ekxVYVZOYXg1bEdrQTE2NFlGOFJVYU5HRDhtN3djbnhQODVUZFU2Z2VLVFZ5dE1QSEVVZ0pzSkQ4Q3IyTTZPY2ZCRURBNUZHYWF4YjFXMncxbXBoRXNOVDZGalFhUV9QbXF3MlVsazBSZjdqeS0yS1VtYXlFcG4wV2xtV3FCdm5ia0Vha0Y0ekhubVllQTd2RGNfeU9FVVl2dTdEOHVhYVZyUUpqVkpWa2tXbVJlUQ?oc=5": 1793327466.502491
  },
  "queue": [
   {
@@ -3654,7 +3658,7 @@
    "cat": "economy",
    "val": 1,
    "teaser": true,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "The Nepali roots behind an Australian public service career",
@@ -3677,7 +3681,7 @@
    "cat": "society",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "जेडी भान्सको पत्र इरान पुग्यो, कसलाई किन लेखे पत्र ?",
@@ -3948,6 +3952,30 @@
     "Nepal"
    ],
    "cat": "society",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Nepal plans temporary bridges to reopen flood-hit Rasuwagadhi border crossing",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSGE4ZHE1ekxVYVZOYXg1bEdrQTE2NFlGOFJVYU5HRDhtN3djbnhQODVUZFU2Z2VLVFZ5dE1QSEVVZ0pzSkQ4Q3IyTTZPY2ZCRURBNUZHYWF4YjFXMncxbXBoRXNOVDZGalFhUV9QbXF3MlVsazBSZjdqeS0yS1VtYXlFcG4wV2xtV3FCdm5ia0Vha0Y0ekhubVllQTd2RGNfeU9FVVl2dTdEOHVhYVZyUUpqVkpWa2tXbVJlUQ?oc=5",
+   "source": "The Kathmandu Post",
+   "ts": 1793327076,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "Nepal plans temporary bridges to reopen flood-hit Rasuwagadhi border crossing",
+   "en": "Nepal plans temporary bridges to reopen flood-hit Rasuwagadhi border crossing",
+   "ne": "Nepal plans temporary bridges to reopen flood-hit Rasuwagadhi border crossing",
+   "imp": 4,
+   "tags": [
+    "Rasuwagadhi",
+    "BorderCrossing",
+    "Flood",
+    "बाढी"
+   ],
+   "cat": "economy",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -6958,8 +6986,8 @@
    "cat": "disaster"
   }
  ],
- "updated": 1793326884,
- "pending_since": null,
+ "updated": 1793327470,
+ "pending_since": 1793327466.502491,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
