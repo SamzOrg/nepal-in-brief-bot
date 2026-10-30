@@ -2066,7 +2066,8 @@
   "https://news.google.com/rss/articles/CBMizwFBVV95cUxPT3ZBXzVWNVpLT2xQTTZWaEtqRFAwOHNhQmIxemRrS3Yzb2RoRlJienhBaVd6NDJEUmJLcHlpZzhQbUpfSWwxLW90ZjgtN0RBdUNoWWpaNXJBdE9CTDFxNjdNVW0zV2k4Ry1YT0pRaEJJeE9XZXFFOGNKYl9FcmNTZUdaLVNsYXNBVm5Gcm5fV0hZMWVLQVJiWC1iRmlMdWMxNGJjVEJZaEpCdHN3VHpqTWh4ME11TUNSZU4xWTVGRWMzaEVGYjF6UXJwTThpaE0?oc=5": 1793335249.620432,
   "https://news.google.com/rss/articles/CBMirgFBVV95cUxPY3c2ajFlVjd6UW4yTjBpUHdBR0djUFF1SmJWRGNYM25taUEzNmxOakV4SURSalpiNkRrN28tVzFpWDhiTFlOVDRhOXM2b3RXaGxCYVdkVmVjN0RiU3RwNmZzaENKaXJsR3ZPUEJkTlg4ZUZKb05udC13YWdUcHVSMl82VUpzblQ3X2I1X2c3bWwyMDRoSHdmbl9Zb3hONEwtOVVoT19mQV91dnNjM3c?oc=5": 1793335249.620432,
   "https://baahrakhari.com/detail/506075": 1793335249.620432,
-  "http://english.ratopati.com/story/85056/three-dead-as-two-helicopters-collide-in-mid-air-in-us": 1793335249.620432
+  "http://english.ratopati.com/story/85056/three-dead-as-two-helicopters-collide-in-mid-air-in-us": 1793335249.620432,
+  "https://gorkhapatraonline.com/news/227703": 1793335848.1512573
  },
  "queue": [
   {
@@ -5214,29 +5215,6 @@
    "hits": 1
   },
   {
-   "title": "Nepal's public debt crosses Rs 3 trillion, with repayment costs squeezing development spending",
-   "summary": "Kathmandu, October 30 Nepal's public debt has crossed Rs 3 trillion for the first time, reaching a record Rs 3.009 trillion in the first quarter of the current fiscal year 2026/27, according to the Public Debt...",
-   "link": "https://english.onlinekhabar.com/nepals-public-debt-cross-3-trillion.html",
-   "source": "Onlinekhabar EN",
-   "ts": 1793333700,
-   "weight": 3,
-   "img": "http://english.onlinekhabar.com/wp-content/uploads/2022/07/public-debt-1024x683.jpg",
-   "lang": "en",
-   "hl": "Nepal's public debt crosses Rs 3 trillion, with repayment costs squeezing development spending",
-   "en": "Nepal's public debt crosses Rs 3 trillion, with repayment costs squeezing development spending",
-   "ne": "Nepal's public debt crosses Rs 3 trillion, with repayment costs squeezing development spending",
-   "imp": 4,
-   "tags": [
-    "PublicDebt",
-    "NepalEconomy",
-    "Development"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "गोकुल बाँस्कोटाको प्रश्न : भद्रगोल नै हुने भो त रविजी ?",
    "summary": "नेकपा एमालेका नेता गोकुल बाँस्कोटाले सरकारका पछिल्ला कामकारबाहीप्रति टिप्पणी गर्दै रास्वपा सभापति रवि लामिछानेलाई प्रश्न गरेका छन्।...",
    "link": "https://nagariknews.nagariknetwork.com/politics/gokul-baskota-s-question-is-there-going-to-be-chaos-raviji-24-76.html",
@@ -5419,20 +5397,33 @@
    "val": 3,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "गुल्मीमा ट्याक्टरको ठक्करबाट १२ वर्षीय बालकको मृत्यु",
+   "summary": "तिलाचन पाण्डेतम्घास (गुल्मी), कात्तिक १३ गते । गुल्मीमा ट्याक्टरको ठक्करबाट पैदलयात्री १२ वर्षीय बालकको मृत्यु भएको छ ।जिल्ला प्रहरी कार्यालय गुल्मीका प्रहरी नायब उपरीक्षक वीरेन्द्...",
+   "link": "https://gorkhapatraonline.com/news/227703",
+   "source": "Gorkhapatra",
+   "ts": 1793335292,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/389545/conversions/death-original.jpg",
+   "lang": "ne",
+   "hl": "गुल्मीमा ट्याक्टरको ठक्करबाट १२ वर्षीय बालकको मृत्यु",
+   "en": "गुल्मीमा ट्याक्टरको ठक्करबाट १२ वर्षीय बालकको मृत्यु",
+   "ne": "गुल्मीमा ट्याक्टरको ठक्करबाट १२ वर्षीय बालकको मृत्यु",
+   "imp": 4,
+   "tags": [
+    "Gulmi",
+    "Accident",
+    "Tractor",
+    "दुर्घटना"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1792730464.1517637,
-   "en": "Floods and landslides disrupt major highways across Myagdi, Gorkha and Surkhet",
-   "ne": "Floods and landslides disrupt major highways across Myagdi, Gorkha and Surkhet",
-   "link": "https://english.khabarhub.com/2026/23/572877/",
-   "source": "Khabarhub EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "disaster"
-  },
   {
    "ts": 1792732262.6822276,
    "en": "Nepal-Tibet Flash Flood: 1,500 Rescued and 1,400 Missing",
@@ -8435,9 +8426,20 @@
    "n_ig": 1,
    "brk": true,
    "cat": "disaster"
+  },
+  {
+   "ts": 1793335854.3086758,
+   "en": "Nepal's public debt hits record Rs 3.009 trillion in Q1 2026/27",
+   "ne": "Nepal's public debt hits record Rs 3.009 trillion in Q1 2026/27",
+   "link": "https://english.onlinekhabar.com/nepals-public-debt-cross-3-trillion.html",
+   "source": "Onlinekhabar EN",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "economy"
   }
  ],
- "updated": 1793335254,
+ "updated": 1793335868,
  "pending_since": 1793335249.620432,
  "fb_blocks": [
   1790350880.4125228,
