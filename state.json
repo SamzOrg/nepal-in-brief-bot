@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://english.khabarhub.com/2026/28/573485/": 1793179254.8762586,
   "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRk5CTDRRcHZwTFFYTXlEVC05MEU0OWI1eG5RNVVzamQ1S05wcmJnYUNZYjRtME9qYTVYYkVyVkdTSEpPZWdEMUVhMXZYU0NBdU1VaG1NZGVnbnBKQ01EbkJsY284aV9pcTU4VENtR09GNHRpQzQwTGtOTjdleG9wZGd0MjUwbUJlRWFtLVJnSENOMG00TkNTUzlQSFNHdDh0SlhVRHpnTkh6UW5V?oc=5": 1793179877.432995,
   "https://www.setopati.com/social/401469": 1793179877.432995,
   "https://kathmandupost.com/money/2026/10/28/insurers-have-paid-just-4-percent-of-bhotekoshi-flood-claims": 1793179877.432995,
@@ -2071,7 +2070,10 @@
   "http://english.ratopati.com/story/85099/lumbini-provincial-governments-expenditure-details-not-made-public": 1793352047.5691376,
   "https://nagariknews.nagariknetwork.com/social-affairs/there-should-be-a-short-chain-of-command-in-disaster-response-army-chief-sigdel-br-83-88.html": 1793352047.5691376,
   "https://nagariknews.nagariknetwork.com/social-affairs/chief-minister-seeks-clear-basis-to-extend-deadline-for-stalled-projects-65-39.html": 1793352047.5691376,
-  "https://nagariknews.nagariknetwork.com/politics/middleman-inam-sapkota-case-a-test-for-balen-kamal-thapa-71-75.html": 1793352047.5691376
+  "https://nagariknews.nagariknetwork.com/politics/middleman-inam-sapkota-case-a-test-for-balen-kamal-thapa-71-75.html": 1793352047.5691376,
+  "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTElqd0pZRTNTdVZEYUVYb050ckFoTENQLUF0RHBwQ2lTYnJPMzJIek8zS3NjXzJzNjBsUUdwWDhZWUNld2RJWkI5cmFJOHdubGFjZWQ5Q0UzV1Fqb2FSbV9TMmlIVUFEdXJOVDJOOWQ1ZjViU3dBN1BOS3pwc0d1SVp2SFVpeXIybXlFU3V4LXF3azNqMHZlWVJ3?oc=5": 1793352671.4596088,
+  "http://english.ratopati.com/story/85104/karnalis-economic-growth-rate-is-294-percent-tourists-decrease-as-ngos-dry-up": 1793352671.4596088,
+  "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdHlrTkQ0Y2FwRDg2Y2dWeHpLcHZRQ1dEUmVLX1d6eGZSUklaQk5PN2xOZEgwQk5GNm9sYlVoSVU5eGdGXzdwVTNmc0ctWXJ5RU1EYWgyRXBhaWxYdU9PY0tKczlLbjhib3RlaW9hVDQ0T2dobkFRcFVCaGtIOUR3bDliZ29TTndjWW1VTEFLOUlLTi03b2liMkY0c1ZoTXZzUzVEb0gtdG5XQkZPcWZaenRyaFQ3bDcwUW1RQg?oc=5": 1793352671.4596088
  },
  "queue": [
   {
@@ -2122,28 +2124,6 @@
    "hits": 2
   },
   {
-   "title": "For Safe Public Spaces",
-   "summary": "WIffat rarely leaves home without pepper spray. The student at Jamia Millia Islamia University in Delhi calls it her \"sa...",
-   "link": "https://risingnepaldaily.com/news/88212",
-   "source": "Rising Nepal",
-   "ts": 1793323325,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "For Safe Public Spaces",
-   "en": "For Safe Public Spaces",
-   "ne": "For Safe Public Spaces",
-   "imp": 1,
-   "tags": [
-    "PublicSpaces",
-    "Safety"
-   ],
-   "cat": "society",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
-  },
-  {
    "title": "तम्घास बजार",
    "summary": "",
    "link": "https://baahrakhari.com/detail/506061",
@@ -2160,29 +2140,6 @@
     "Tamghas",
     "Gulmi",
     "तम्घास"
-   ],
-   "cat": "culture",
-   "val": 1,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "वसन्तपुर",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/506060",
-   "source": "Baahrakhari",
-   "ts": 1793323416,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "वसन्तपुर",
-   "en": "वसन्तपुर",
-   "ne": "वसन्तपुर",
-   "imp": 1,
-   "tags": [
-    "Basantapur",
-    "Kathmandu",
-    "वसन्तपुर"
    ],
    "cat": "culture",
    "val": 1,
@@ -2418,29 +2375,6 @@
    "hits": 1
   },
   {
-   "title": "प्रहरीको 'स्वीप अपरेसन' : काठमाडौं उपत्यकाबाट १५ महिलासहित ९७ जना पक्राउ",
-   "summary": "पक्राउ पर्नेमा विभिन्न मुद्दामा अदालतबाट दोषी ठहर भई फरार रहेका १६ जना कसुरदार रहेका छन्।",
-   "link": "https://nagariknews.nagariknetwork.com/Aparadh/police-sweep-operation-97-people-including-15-women-arrested-from-kathmandu-valley-19-26.html",
-   "source": "Nagarik News",
-   "ts": 1793323551,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1758507394_1628652568_nepal%20police%20final2-1200x560-wm%20(1)-1200x560.jpg",
-   "lang": "ne",
-   "hl": "प्रहरीको 'स्वीप अपरेसन' : काठमाडौं उपत्यकाबाट १५ महिलासहित ९७ जना पक्राउ",
-   "en": "प्रहरीको 'स्वीप अपरेसन' : काठमाडौं उपत्यकाबाट १५ महिलासहित ९७ जना पक्राउ",
-   "ne": "प्रहरीको 'स्वीप अपरेसन' : काठमाडौं उपत्यकाबाट १५ महिलासहित ९७ जना पक्राउ",
-   "imp": 3,
-   "tags": [
-    "Kathmandu",
-    "Police",
-    "SweepOperation"
-   ],
-   "cat": "crime",
-   "val": 3,
-   "teaser": false,
-   "hits": 3
-  },
-  {
    "title": "भारतीय लगानी प्रवर्धनबारे छलफल",
    "summary": "गोरखापत्र समाचारदाताकाठमाडौँ, कात्तिक १३ गते । नेपालमा भारतीय लगानीलाई थप सुदृढ बनाउन तथा द्विपक्षीय आर्थिक सहकार्य अभिवृद्धि गर्न नेपाल-भारत उद्योग वाणिज्य सङ्घ (निक्की) र लगानी ब...",
    "link": "https://gorkhapatraonline.com/news/227676",
@@ -2460,29 +2394,6 @@
    ],
    "cat": "economy",
    "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "इरान युद्धको योजना बनाउने शीर्ष अमेरिकी सैन्य अधिकारी बर्खास्त",
-   "summary": "पेन्टागनका प्रवक्ता सीन पार्नेलले अनुसन्धानपछि गोप्य सूचना सुरक्षित राख्न कर्मचारीमाथि कारबाही गरिएको बताएका छन्। तर उनले सिल्भियाको नाम भने लिएका छैनन्।...",
-   "link": "https://nagariknews.nagariknetwork.com/international/top-us-military-official-who-planned-iran-war-fired-88-39.html",
-   "source": "Nagarik News",
-   "ts": 1793323534,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1793323504_Hegseth%20fires%20Pentagon",
-   "lang": "ne",
-   "hl": "इरान युद्धको योजना बनाउने शीर्ष अमेरिकी सैन्य अधिकारी बर्खास्त",
-   "en": "इरान युद्धको योजना बनाउने शीर्ष अमेरिकी सैन्य अधिकारी बर्खास्त",
-   "ne": "इरान युद्धको योजना बनाउने शीर्ष अमेरिकी सैन्य अधिकारी बर्खास्त",
-   "imp": 1,
-   "tags": [
-    "Iran",
-    "USMilitary",
-    "War"
-   ],
-   "cat": "world",
-   "val": 3,
    "teaser": false,
    "hits": 1
   },
@@ -6593,7 +6504,7 @@
    "cat": "crime",
    "val": 3,
    "teaser": false,
-   "hits": 3
+   "hits": 4
   },
   {
    "title": "चीनको कम्युनिस्ट पार्टीमा माओ युगपछिकै ठूलो 'शुद्धीकरण'",
@@ -7100,29 +7011,6 @@
    "val": 3,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "Irrigation department chief and Sunkoshi Marin project director detained, handed over to PM's Office",
-   "summary": "Kathmandu, October 30 Police have taken Director General of the Department of Water Resources and Irrigation Dinesh Rajauria and Director of the Sunkoshi Marin Diversion Multipurpose Project Krishna Prasad Rijal into...",
-   "link": "https://english.onlinekhabar.com/irrigation-department-chief-and-sunkoshi-marin-project-director-detained-handed-over-to-pms-office.html",
-   "source": "Onlinekhabar EN",
-   "ts": 1793347107,
-   "weight": 3,
-   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/10/PMO-dg-1024x500-1.jpg",
-   "lang": "en",
-   "hl": "Irrigation department chief and Sunkoshi Marin project director detained, handed over to PM's Office",
-   "en": "Irrigation department chief and Sunkoshi Marin project director detained, handed over to PM's Office",
-   "ne": "Irrigation department chief and Sunkoshi Marin project director detained, handed over to PM's Office",
-   "imp": 4,
-   "tags": [
-    "Corruption",
-    "Irrigation",
-    "SunkoshiMarin"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 3
   },
   {
    "title": "Nepalese NGO plans to set up India-Nepal joint tourism council",
@@ -7975,7 +7863,7 @@
    "cat": "economy",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "प्रधानमन्त्रीको भारत भ्रमणको मिति तय भइसकेको छैन : परराष्ट्र प्रवक्ता क्षेत्री",
@@ -11073,10 +10961,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "disaster"
+  },
+  {
+   "ts": 1793352678.6552284,
+   "en": "Irrigation chief Dinesh Rajauria and project director Krishna Prasad Rijal detained",
+   "ne": "Irrigation chief Dinesh Rajauria and project director Krishna Prasad Rijal detained",
+   "link": "https://english.onlinekhabar.com/irrigation-department-chief-and-sunkoshi-marin-project-director-detained-handed-over-to-pms-office.html",
+   "source": "Onlinekhabar EN",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "politics"
   }
  ],
- "updated": 1793352055,
- "pending_since": null,
+ "updated": 1793352695,
+ "pending_since": 1793352671.4596088,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
