@@ -2053,7 +2053,8 @@
   "http://english.ratopati.com/story/85035/impact-of-westerly-winds-and-cyclone-arnab-heavy-rain-likely-in-all-seven-provinces-today": 1793320266.6353664,
   "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5QZlVOZjVlbHE5b1J4dkFNQ05VbW5qR2hpX3VldU8wb0JlX0RvMGNNdEI3TzNjZU54QzEyWDFLRjFNRjJ5Tklmblo5ZmF1cjdrckhMUGNaY18?oc=5": 1793320266.6353664,
   "http://lokaantar.com/story/332176/2026/10/30/dollar-": 1793320266.6353664,
-  "https://gorkhapatraonline.com/news/227665": 1793320266.6353664
+  "https://gorkhapatraonline.com/news/227665": 1793320266.6353664,
+  "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcXFVZzh4SldBeWpFanBjOWxHTUFFQzR5QmNGcTA3YnhUU0t1NEc5ZE1yQThEa1FvbmppbXdfSHVyX2FRYVk3NjBLWTk1Z25YUlNVZ3oxM3ktTUVYYzByd3pVTVcwbm1wN0s2bHJYc1d3WUFwSXlGMnkzbXF3TmZYRi1jcncwTXRQN2lPWUV5NlZsejI4cU4xT244WTBSdkxDdExQWnpTYzNxRFRpSHlSZzBGZXdOQ1V6NXZOMlJ4SkFhUlZMN2luM1ln?oc=5": 1793320848.0555153
  },
  "queue": [
   {
@@ -2078,74 +2079,6 @@
    "val": 2,
    "teaser": false,
    "hits": 2
-  },
-  {
-   "title": "Ministry Intensifies Work on Draft School Education Bill",
-   "summary": "Kathmandu. The Ministry of Education and Sports has intensified the work of preparing the draft of the School Education Bill,...",
-   "link": "http://english.ratopati.com/story/85030/draft-of-school-education-bill-being-prepared",
-   "source": "Ratopati EN",
-   "ts": 1793292009,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/education-and-sports-ministry_fN03GK47w5.jpg",
-   "lang": "en",
-   "hl": "Ministry Intensifies Work on Draft School Education Bill",
-   "en": "Ministry Intensifies Work on Draft School Education Bill",
-   "ne": "Ministry Intensifies Work on Draft School Education Bill",
-   "imp": 3,
-   "tags": [
-    "MinistryOfEducation",
-    "SchoolEducationBill",
-    "Education"
-   ],
-   "cat": "education",
-   "val": 2,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "Climber Vanishes During Himalayas Trek, Then His Body Is Spotted After 5,000-Foot Fall",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdkdGSS1ISTlzQkJMV1hmeFhzU1IxcHJUcUxpSVJ6cUZSaF9Za2FGWW5HNkpFd1JqTHE4UzdDUS1UM19pdzhyRF9Nb3FlNkk5R2FGNXc2M1hEUXI2NDNSa2ZvWXhsU01ySnRQNFdXaUZFdUJmUTFjN1I1bW5MWjhwWDUweUs0eVI2TmpOeVJKN1hmRlFrUnBRWEVnYw?oc=5",
-   "source": "People.com",
-   "ts": 1793291474,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Climber Vanishes During Himalayas Trek, Then His Body Is Spotted After 5,000-Foot Fall",
-   "en": "Climber Vanishes During Himalayas Trek, Then His Body Is Spotted After 5,000-Foot Fall",
-   "ne": "Climber Vanishes During Himalayas Trek, Then His Body Is Spotted After 5,000-Foot Fall",
-   "imp": 2,
-   "tags": [
-    "Himalayas",
-    "Climber",
-    "Trek"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "EU Official Urges Increased Pressure on Moscow After Deadly Drone Strike in Ukraine",
-   "summary": "Kathmandu. European Union official Antonio Costa urged allies on Thursday to 'increase pressure' on Moscow after a Russian drone crashed...",
-   "link": "http://english.ratopati.com/story/85029/eu-urges-increased-pressure-on-russia",
-   "source": "Ratopati EN",
-   "ts": 1793291793,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/antonio-costa-1699421172_wHoZqCZWpw.jpg",
-   "lang": "en",
-   "hl": "EU Official Urges Increased Pressure on Moscow After Deadly Drone Strike in Ukraine",
-   "en": "EU Official Urges Increased Pressure on Moscow After Deadly Drone Strike in Ukraine",
-   "ne": "EU Official Urges Increased Pressure on Moscow After Deadly Drone Strike in Ukraine",
-   "imp": 1,
-   "tags": [
-    "Ukraine",
-    "Moscow"
-   ],
-   "cat": "world",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
   },
   {
    "title": "प्रहरी चौकी नै असुरक्षित, त्रासमा प्रहरीको दिनचर्या",
@@ -5618,7 +5551,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1793320274,
+ "updated": 1793320852,
  "pending_since": 1793320266.6353664,
  "fb_blocks": [
   1790350880.4125228,
