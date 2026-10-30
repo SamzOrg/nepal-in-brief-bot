@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://gorkhapatraonline.com/news/227552": 1793210489.8815868,
   "https://baahrakhari.com/detail/505948": 1793211053.4161956,
   "https://gorkhapatraonline.com/news/227551": 1793211652.6662843,
   "https://baahrakhari.com/detail/505949": 1793211652.6662843,
@@ -2060,7 +2059,8 @@
   "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBHVXpnY0swbzdWbXNKaGJoaFgwaFAyWHhTejAxLS14akxoTm1QcXlNVURWdC1YcE9uUTV6ZkZhYXlhOUtkZDBIaTczMFV5djhzY1pGUVozQQ?oc=5": 1793382050.9190161,
   "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUkNZV28wRVdYU1JCV0VJWjRhaFdWWTkzdnFkRUJ2QmxYdHZ5OWd0RElsd1ItVmpya2dMNWU1V0VrbnN2VjBza1lld1EzX25rdUtWOWNXTjE3dFZETVhkRjNIZHJIZ3NuTWxONmZyNm9iWDRRWkRoUlRkalJfYndTQUpBLUFmc3pTcndCMUFEQUZnSHEyNDhEcG9SRGJtbTMyNm5qckVEbGozRVJIaEl6amRCNE9HOVBVbkZ5X29HTQ?oc=5": 1793382050.9190161,
   "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBMLVc2SVQ5cTRwUFJrZ1dDRFdnTXp0QjRoa1FuYm9obGNtYzhzdVNRZm1kbFhmMjRndGN4eFUxSVRQRDcxU1Y2VVVndGlvQzRtZzZkOFdVTQ?oc=5": 1793382050.9190161,
-  "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcGRQRnExWEltWldpOFBJZG9kZEtiejF0NzlfQUxwb2ZxdHN2Zzg3cm9PQWQzb1UxZjBoSENFMlI4ZjlCbFdzVjBydXBaQkZraHhVWVNwUy0tUnp0X09iWDNvY1dzdVkxbkRxTE9hQkZaSWhSNXFQSUpjaXdZOWQ4dzdsU0lzN2pzekU1S0JPY0ZQcVNDYmN2OVRCSXVNVl9aMTRlTVJPUVNIeHpTYXBpMzhSNUVnZkNjc1JpTlRHeHNWOXcxN0QtVTBn?oc=5": 1793382659.3049526
+  "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcGRQRnExWEltWldpOFBJZG9kZEtiejF0NzlfQUxwb2ZxdHN2Zzg3cm9PQWQzb1UxZjBoSENFMlI4ZjlCbFdzVjBydXBaQkZraHhVWVNwUy0tUnp0X09iWDNvY1dzdVkxbkRxTE9hQkZaSWhSNXFQSUpjaXdZOWQ4dzdsU0lzN2pzekU1S0JPY0ZQcVNDYmN2OVRCSXVNVl9aMTRlTVJPUVNIeHpTYXBpMzhSNUVnZkNjc1JpTlRHeHNWOXcxN0QtVTBn?oc=5": 1793382659.3049526,
+  "https://baahrakhari.com/detail/506157": 1793383850.0448284
  },
  "queue": [
   {
@@ -2110,29 +2110,6 @@
    "hits": 1
   },
   {
-   "title": "Nepali Army to receive Robinson SPIRIT uncrewed aircraft",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQN0h5NUNBUGZlNmVpdlR6RFhvUkx3cE5OT091R2k2Z3FlOWt0eFJiUThULWtMWmdYX09fQmhtY0ZYZTFSZjVnUllwakM1UFgxN2QtTUJVaDEzQk1vY0dwcnlaeC1rcHRKbEpTSHBGOXhFc2pmT0I3b3JlVzNjTWtnT21NS1RMRWdlV2Yxcm82Nk1QWGo1OFlEOWcteThfUQ?oc=5",
-   "source": "AirMed&Rescue",
-   "ts": 1793354794,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Nepali Army to receive Robinson SPIRIT uncrewed aircraft",
-   "en": "Nepali Army to receive Robinson SPIRIT uncrewed aircraft",
-   "ne": "Nepali Army to receive Robinson SPIRIT uncrewed aircraft",
-   "imp": 3,
-   "tags": [
-    "NepaliArmy",
-    "Drone",
-    "Robinson"
-   ],
-   "cat": "tech",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "भारतको बद्रीनाथबाट देहरादूनतर्फ जाँदै गरेको हेलिकाेप्टर दुर्घटना",
    "summary": "",
    "link": "https://baahrakhari.com/detail/506106",
@@ -2151,52 +2128,6 @@
     "उत्तराखण्ड"
    ],
    "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Italian Military Helicopter Crashes in Bosnia, Killing Four",
-   "summary": "Kathmandu. Four people have died and 11 have been injured in the crash of an Italian military helicopter affiliated with...",
-   "link": "http://english.ratopati.com/story/85107/eu-force-helicopter-crash-in-bosnia-four-dead-11-injured",
-   "source": "Ratopati EN",
-   "ts": 1793354525,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/heli_TCuHw2U3iG.webp",
-   "lang": "en",
-   "hl": "Italian Military Helicopter Crashes in Bosnia, Killing Four",
-   "en": "Italian Military Helicopter Crashes in Bosnia, Killing Four",
-   "ne": "Italian Military Helicopter Crashes in Bosnia, Killing Four",
-   "imp": 1,
-   "tags": [
-    "Italy",
-    "Military",
-    "HelicopterCrash"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "विपद् प्रभावितलाई थप १६ लाख सहयोग",
-   "summary": "काठमाडौँ, कात्तिक १२ गते । नेपाल नेत्रज्योति सङ्घले विपद् प्रभावित नागरिकको उद्धार, राहत तथा पुनःस्थापनाका लागि प्रधानमन्त्री दैवी प्रकोप उद्धार कोषमा थप १६ लाख ३३ हजार एक रुपियाँ...",
-   "link": "https://gorkhapatraonline.com/news/227734",
-   "source": "Gorkhapatra",
-   "ts": 1793354878,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/389598/conversions/WhatsApp-Image-2026-10-29-at-17.50.36-original.jpg",
-   "lang": "ne",
-   "hl": "विपद् प्रभावितलाई थप १६ लाख सहयोग",
-   "en": "विपद् प्रभावितलाई थप १६ लाख सहयोग",
-   "ne": "विपद् प्रभावितलाई थप १६ लाख सहयोग",
-   "imp": 3,
-   "tags": [
-    "DisasterRelief",
-    "Government",
-    "विपद्"
-   ],
-   "cat": "disaster",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -5145,7 +5076,7 @@
    "cat": "economy",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Internal Revenue Office Bharatpur Collects NPR 7.13 Billion in First Three Months",
@@ -8348,7 +8279,7 @@
    "cat": "sports"
   }
  ],
- "updated": 1793383285,
+ "updated": 1793383854,
  "pending_since": 1793382659.3049526,
  "fb_blocks": [
   1790350880.4125228,
