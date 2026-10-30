@@ -1,10 +1,5 @@
 {
  "seen": {
-  "https://english.onlinekhabar.com/elderly-man-dies-after-being-struck-with-firewood-in-surkhet.html": 1793166052.83472,
-  "https://news.google.com/rss/articles/CBMiV0FVX3lxTE03cDFZSG5MSG1oSkd2YzFfbmc1VWViYTVQc3l6UzViQ2FsWlF1cXpyYWhRSVdCZmpHSWVMV3V1Z3l5Vy0xQWJsNERvRXZjbF8tSmJ4RXBLdw?oc=5": 1793166052.83472,
-  "https://news.google.com/rss/articles/CBMiygFBVV95cUxPV1VVRURvcC1YWmx0emZqdG41RlJiZjFRc2VEclBWVFo2RDlnMVRva0ZiZk5TZHlaT2RxTG5uZ0pyY0E3UTJVWTJmNmhISEJqNGNFN2lPNGVUcUZjclNnaDZRTWlCejdVV3poRjZSWjRjc0xqRmtzOHRHRHFOTkZPYVpJSjdROTVLZE8zWlZPU1loSld0ZUY0M1ZMQUFQSXcyZzQ3LVhTTlUwTkJxMVNNcVp4Mmx6ZkhESlR0d3AySExxQ3F3ZDlVa1JB?oc=5": 1793166052.83472,
-  "http://english.ratopati.com/story/84801/62-year-old-man-dies-after-being-hit-on-the-head-with-a-chipmunk": 1793166052.83472,
-  "https://news.google.com/rss/articles/CBMilAFBVV95cUxPY3lBc1UtM2hOY3lKWHI2ZTNjZkFJQzVZQ2ViVG81NXdHTGxPTWhaVkVFYWtoa19GYk9uT2pUUlUtbk5XQ1ZwTGJ6YmRva0x1S1NNZC1QXzNFcTFucHhBMXNXLWxlY051WEJKdXI3M2h6bzVhcmNIR0JyRnVDNmx4YkJKYlNIeFdPUVZJMjlCbElGeVFh?oc=5": 1793166052.83472,
   "https://www.setopati.com/art/art-activity/401445": 1793166654.1779816,
   "https://baahrakhari.com/detail/505878": 1793166654.1779816,
   "https://gorkhapatraonline.com/news/227500": 1793167286.1811826,
@@ -2080,7 +2075,9 @@
   "https://gorkhapatraonline.com/news/227710": 1793338847.8023055,
   "https://nagariknews.nagariknetwork.com/social-affairs/rain-and-snowfall-in-high-mountainous-areas-tourists-urged-to-be-cautious-65-54.html": 1793338847.8023055,
   "https://nagariknews.nagariknetwork.com/opinion/trends-and-methods-must-change-for-prosperity-br-21-51.html": 1793338847.8023055,
-  "https://nagariknews.nagariknetwork.com/politics/whether-the-prime-minister-s-name-was-misused-or-not-an-investigation-should-be-conducted-jasmine-ojha-br-12-22.html": 1793338847.8023055
+  "https://nagariknews.nagariknetwork.com/politics/whether-the-prime-minister-s-name-was-misused-or-not-an-investigation-should-be-conducted-jasmine-ojha-br-12-22.html": 1793338847.8023055,
+  "https://english.khabarhub.com/2026/30/573717/": 1793339445.2856338,
+  "https://english.onlinekhabar.com/gaunthali-wins-best-foreign-cinema-award-at-world-film-festival.html": 1793339445.2856338
  },
  "queue": [
   {
@@ -5898,29 +5895,6 @@
    "hits": 1
   },
   {
-   "title": "Cyclone Arnab's Impact Decreases After Saturday Afternoon, Says Meteorological Department",
-   "summary": "Kathmandu. The Nepal Department of Hydrology and Meteorology has stated that the impact of Cyclone Arnab and the rainfall activity...",
-   "link": "http://english.ratopati.com/story/85059/the-impact-of-cyclone-arnab-will-decrease-after-saturday-afternoon",
-   "source": "Ratopati EN",
-   "ts": 1793338006,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/barsa_9IEdEBhadJ.jpg",
-   "lang": "en",
-   "hl": "Cyclone Arnab's Impact Decreases After Saturday Afternoon, Says Meteorological Department",
-   "en": "Cyclone Arnab's Impact Decreases After Saturday Afternoon, Says Meteorological Department",
-   "ne": "Cyclone Arnab's Impact Decreases After Saturday Afternoon, Says Meteorological Department",
-   "imp": 4,
-   "tags": [
-    "CycloneArnab",
-    "MeteorologicalDepartment",
-    "मौसम"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "न्यायपालिकाको जनविश्वासमा आघात पुग्यो, छानबिन होस्- सर्वोच्च बार",
    "summary": "सर्वोच्च अदालत बार एशोसिएशनले केही दिन यता सर्वोच्च अदालतका प्रधान न्यायाधीश र न्यायाधीशहरूलाई जोडिएर आएका समाचारले न्यायपालिकाको जनविश्वासमै आघात पुगेको बताएको छ।",
    "link": "https://www.setopati.com/politics/401587",
@@ -6195,20 +6169,31 @@
    "val": 2,
    "teaser": true,
    "hits": 1
+  },
+  {
+   "title": "'Gaunthali' wins Best Foreign Cinema award at World Film Festival",
+   "summary": "Kathmandu Nepali feature film Gaunthali has won the Best Foreign Cinema award at the World Film Festival in Cannes, France. The film received the award at the festival, which is held monthly and annually in France. The...",
+   "link": "https://english.onlinekhabar.com/gaunthali-wins-best-foreign-cinema-award-at-world-film-festival.html",
+   "source": "Onlinekhabar EN",
+   "ts": 1793338944,
+   "weight": 3,
+   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/10/gauthali-3-1024x576-1.jpg",
+   "lang": "en",
+   "hl": "'Gaunthali' wins Best Foreign Cinema award at World Film Festival",
+   "en": "'Gaunthali' wins Best Foreign Cinema award at World Film Festival",
+   "ne": "'Gaunthali' wins Best Foreign Cinema award at World Film Festival",
+   "imp": 1,
+   "tags": [
+    "Gaunthali",
+    "WorldFilmFestival"
+   ],
+   "cat": "culture",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1792734051.5145552,
-   "en": "Kaski District Reports 11 Deaths in 59 Road Accidents in October",
-   "ne": "Kaski District Reports 11 Deaths in 59 Road Accidents in October",
-   "link": "http://english.ratopati.com/story/84320/59-vehicle-accidents-in-kaski-in-asoj-11-people-killed",
-   "source": "Ratopati EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "crime"
-  },
   {
    "ts": 1792735878.9227486,
    "en": "आईसीसी यू-१९ महिला विश्वकपअघि नेपाली टोलीले चीन र भारत भ्रमण गर्ने",
@@ -9211,10 +9196,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "society"
+  },
+  {
+   "ts": 1793339450.23739,
+   "en": "Cyclone Arnab's Impact Decreases After Saturday Afternoon, Says Meteorological Department",
+   "ne": "Cyclone Arnab's Impact Decreases After Saturday Afternoon, Says Meteorological Department",
+   "link": "http://english.ratopati.com/story/85059/the-impact-of-cyclone-arnab-will-decrease-after-saturday-afternoon",
+   "source": "Ratopati EN",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "disaster"
   }
  ],
- "updated": 1793338855,
- "pending_since": null,
+ "updated": 1793339462,
+ "pending_since": 1793339445.2856338,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
