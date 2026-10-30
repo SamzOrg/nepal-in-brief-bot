@@ -1,8 +1,5 @@
 {
  "seen": {
-  "https://www.setopati.com/sports/npl/401438": 1793157652.8121076,
-  "http://english.ratopati.com/story/84789/cyclone-arnab-hits-indias-coast": 1793157652.8121076,
-  "https://english.onlinekhabar.com/parkinsons-disease-tremor.html": 1793157652.8121076,
   "http://english.ratopati.com/story/84791/sri-lankan-wicketkeeper-sadira-sameera-wickramasinghe-signs-with-pawakhara-avengers": 1793158270.6826417,
   "https://news.google.com/rss/articles/CBMingFBVV95cUxNb2RNLXNLd0tpSnljdjBFeHBtbFAxUUY2YU5LWkRENlllM3lOOXlyaDFqd3hmLVg4MmQxWTJFVktiNWc0dlRHX3VuU0YwU0dObGVzODg5U1dSNHRlSjdQdjFCcEtrT3FEM2RNemZZOWtBZXc3bl81TTMzOEp0WlBObWhZemsyVHN2UktJTUJPTVdkODJ1bmQ4c1lyQXl1QQ?oc=5": 1793158270.6826417,
   "https://gorkhapatraonline.com/news/227475": 1793158270.6826417,
@@ -2056,7 +2053,8 @@
   "https://baahrakhari.com/detail/506067": 1793330447.6903656,
   "https://risingnepaldaily.com/news/88219": 1793330447.6903656,
   "https://gorkhapatraonline.com/news/227684": 1793330447.6903656,
-  "https://baahrakhari.com/detail/506066": 1793330447.6903656
+  "https://baahrakhari.com/detail/506066": 1793330447.6903656,
+  "https://news.google.com/rss/articles/CBMingFBVV95cUxNV3dSUmZlVlJHa0JxT1lfVHZHV0lSbUN6all4MW8tQlVOMElIWU5vLVc3eU9QWDZUdlJTei1YMV9zYVFUODhlOGZyNU5FRGZxZ2VvMU1kellJVEF4Q21jY0N3WTNZQlRZVEh4Wkp5WkZIaUZickE0WE13SXJTMVp2c2xndzl6eENKSHQ5VGJ2ZExQUE1OcEYxUmxkVk5HQQ?oc=5": 1793331066.0953631
  },
  "queue": [
   {
@@ -3116,29 +3114,6 @@
    "val": 3,
    "teaser": false,
    "hits": 2
-  },
-  {
-   "title": "Disaster Training Saves Lives in Nepal Floods",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZzdpSjBYZTRpZXhlcEZYSUh0OE5Ib1VfUDZWMHJpM2Y2Z0RiWF93ZWMzVEFDY1RfU1hiLWVCbEh0Rk1LTWNubWdMc2tqbTlCS2ZqT3pCa2tmblVrT0k0WVdrOHpocWFYUjJCT2xuLUNHbDlLbU1wMURQNlc2cGVtVA?oc=5",
-   "source": "unicef usa",
-   "ts": 1793302235,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Disaster Training Saves Lives in Nepal Floods",
-   "en": "Disaster Training Saves Lives in Nepal Floods",
-   "ne": "Disaster Training Saves Lives in Nepal Floods",
-   "imp": 3,
-   "tags": [
-    "DisasterTraining",
-    "NepalFloods",
-    "Flood"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
   },
   {
    "title": "मौलिक पहिचान जोगाउँदै तमान गाउँ",
@@ -4383,7 +4358,7 @@
    "cat": "economy",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "संविधान संशोधनको सन्दर्भ कहाँ हरायो ?",
@@ -7780,8 +7755,8 @@
    "cat": "politics"
   }
  ],
- "updated": 1793330466,
- "pending_since": null,
+ "updated": 1793331070,
+ "pending_since": 1793331066.0953631,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
