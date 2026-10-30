@@ -1,8 +1,5 @@
 {
  "seen": {
-  "https://thehimalayantimes.com/nepal/autumn-climbing-season-brings-1410-mountaineers-and-rs-318-million-to-nepal": 1793183469.1911716,
-  "http://lokaantar.com/story/332083/2026/10/28/meeting-": 1793183469.1911716,
-  "https://baahrakhari.com/detail/505908": 1793183469.1911716,
   "https://gorkhapatraonline.com/news/227522": 1793184055.2373352,
   "https://nagariknews.nagariknetwork.com/international/ten-dead-in-spain-train-collision-25-33.html": 1793184055.2373352,
   "https://nagariknews.nagariknetwork.com/social-affairs/citizens-across-the-country-will-receive-a-copy-of-their-citizenship-certificate-from-kathmandu-65-46.html": 1793184055.2373352,
@@ -2080,7 +2077,8 @@
   "https://nagariknews.nagariknetwork.com/sports/nepali-players-shine-at-the-crease-excellent-performances-in-every-npl-match-br-32-47.html": 1793355653.394318,
   "https://nagariknews.nagariknetwork.com/politics/ministry-of-home-affairs-suspends-n-pabson-for-not-following-instructions-br-74-43.html": 1793355653.394318,
   "https://nagariknews.nagariknetwork.com/politics/congress-urges-speedy-completion-of-bills-pending-in-parliamentary-committees-br-91-46.html": 1793355653.394318,
-  "https://nagariknews.nagariknetwork.com/international/consensual-sexual-intercourse-is-not-rape-when-a-romantic-relationship-is-breaking-up-61-43.html": 1793355653.394318
+  "https://nagariknews.nagariknetwork.com/international/consensual-sexual-intercourse-is-not-rape-when-a-romantic-relationship-is-breaking-up-61-43.html": 1793355653.394318,
+  "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZ05TSW5lOVFSYnhWT0tDSHljZ3c0NVZTdzZoOFZSN2FnaFdyQ2NDd3QzRkt6cjJkbjhsMkpEYUgzRHJjaFpyMDI5ZC1XdE9wWC12UnRic0Y3TWxjYXRXcWJpVHhDdzA2eTAyTFU5Z3ByZ21FUFE1cTBwc0g2TXdyWVBKT1lSZEJnMWsw?oc=5": 1793356270.4099703
  },
  "queue": [
   {
@@ -2249,99 +2247,6 @@
    "hits": 1
   },
   {
-   "title": "Middlemen reap Tanahun flower profits",
-   "summary": "By Amarraj Naharki, Tanahun, Oct. 30: Commercial flower farmers in Tanahun are facing mounting concerns over unsold prod...",
-   "link": "https://risingnepaldaily.com/news/88209",
-   "source": "Rising Nepal",
-   "ts": 1793327405,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Middlemen reap Tanahun flower profits",
-   "en": "Middlemen reap Tanahun flower profits",
-   "ne": "Middlemen reap Tanahun flower profits",
-   "imp": 2,
-   "tags": [
-    "Tanahun",
-    "Agriculture",
-    "Floriculture"
-   ],
-   "cat": "economy",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "मौसमविद्लाई प्रश्न- काठमाडौंमा पनि भारी वर्षा हुन्छ ?",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/506064",
-   "source": "Baahrakhari",
-   "ts": 1793327372,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "मौसमविद्लाई प्रश्न- काठमाडौंमा पनि भारी वर्षा हुन्छ ?",
-   "en": "मौसमविद्लाई प्रश्न- काठमाडौंमा पनि भारी वर्षा हुन्छ ?",
-   "ne": "मौसमविद्लाई प्रश्न- काठमाडौंमा पनि भारी वर्षा हुन्छ ?",
-   "imp": 2,
-   "tags": [
-    "Kathmandu",
-    "Rain",
-    "Weather",
-    "मौसम"
-   ],
-   "cat": "disaster",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "Google's market value falls by more than $500 billion due to AI impact",
-   "summary": "Kathmandu, October 30 Alphabet, the parent company of Google, has lost more than $500 billion in market value in a single day. Alphabet's share price fell to a six-month low on Thursday, as Wall Street investors were...",
-   "link": "https://english.onlinekhabar.com/googles-market-value-falls-ai.html",
-   "source": "Onlinekhabar EN",
-   "ts": 1793327400,
-   "weight": 3,
-   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/10/Google-India-data-center-1024x683.jpg",
-   "lang": "en",
-   "hl": "Google's market value falls by more than $500 billion due to AI impact",
-   "en": "Google's market value falls by more than $500 billion due to AI impact",
-   "ne": "Google's market value falls by more than $500 billion due to AI impact",
-   "imp": 1,
-   "tags": [
-    "Google",
-    "ArtificialIntelligence",
-    "StockMarket"
-   ],
-   "cat": "tech",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "सेनामा शुद्धीकरण अभियान चलाउने जनरललाई सीले ल्याए पोलिटब्युरोमा",
-   "summary": "उनी उक्त निकायमा नियुक्त हुने एकमात्र सैन्य अधिकारी हुन्।",
-   "link": "https://www.setopati.com/politics/401577",
-   "source": "Setopati",
-   "ts": 1793327289,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "सेनामा शुद्धीकरण अभियान चलाउने जनरललाई सीले ल्याए पोलिटब्युरोमा",
-   "en": "सेनामा शुद्धीकरण अभियान चलाउने जनरललाई सीले ल्याए पोलिटब्युरोमा",
-   "ne": "सेनामा शुद्धीकरण अभियान चलाउने जनरललाई सीले ल्याए पोलिटब्युरोमा",
-   "imp": 1,
-   "tags": [
-    "China",
-    "Politburo",
-    "Military"
-   ],
-   "cat": "world",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "सभ्य समाजका ज्येष्ठ नागरिक",
    "summary": "ज्येष्ठ नागरिक समाजमा जिउँदा इतिहास हुन् । समाजका अभिन्न अङ्ग हुन् । उनीहरूका अनुभव, ज्ञान, सिपको संरक्षण र उपयोग गर्दै सम्मानपूर्वक बाँच्न पाउनुपर्ने वातावरण सिर्जना गर्ने राज्यको...",
    "link": "https://gorkhapatraonline.com/news/227686",
@@ -2361,29 +2266,6 @@
    ],
    "cat": "society",
    "val": 1,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "३७ हजार वर्ष पुराना चित्र जस्ताका तस्तै! वैज्ञानिकले भेटे अनौठो रहस्य",
-   "summary": "आखिर ती चित्र कसरी जोगिए? वैज्ञानिकहरूले यो प्रश्नको एउटा रोचक सम्भावित उत्तर फेला पारेका छन्।",
-   "link": "https://www.setopati.com/special-stories/international-feature/401568",
-   "source": "Setopati",
-   "ts": 1793326965,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "३७ हजार वर्ष पुराना चित्र जस्ताका तस्तै! वैज्ञानिकले भेटे अनौठो रहस्य",
-   "en": "३७ हजार वर्ष पुराना चित्र जस्ताका तस्तै! वैज्ञानिकले भेटे अनौठो रहस्य",
-   "ne": "३७ हजार वर्ष पुराना चित्र जस्ताका तस्तै! वैज्ञानिकले भेटे अनौठो रहस्य",
-   "imp": 1,
-   "tags": [
-    "Archaeology",
-    "Science",
-    "Research"
-   ],
-   "cat": "tech",
-   "val": 2,
    "teaser": false,
    "hits": 1
   },
@@ -2657,29 +2539,6 @@
     "Nature"
    ],
    "cat": "other",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "लोकतन्त्रीकरणको कसीमा कांग्रेस",
-   "summary": "नेपाली कांग्रेस आधुनिक नेपाली राजनीतिमा आफैँमा एउटा सिङ्गो इतिहास हो । योसँग इतिहासको गौरव र देशको वर्तमान अनि भविष्य कोर्ने अभिभाराको गहिरो जिम्मेवारी पनि छ । त्यसैले कांग्रेस मात...",
-   "link": "https://gorkhapatraonline.com/news/227684",
-   "source": "Gorkhapatra",
-   "ts": 1793327246,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/389519/conversions/566-original.jpg",
-   "lang": "ne",
-   "hl": "लोकतन्त्रीकरणको कसीमा कांग्रेस",
-   "en": "लोकतन्त्रीकरणको कसीमा कांग्रेस",
-   "ne": "लोकतन्त्रीकरणको कसीमा कांग्रेस",
-   "imp": 3,
-   "tags": [
-    "NepaliCongress",
-    "Democracy",
-    "कांग्रेस"
-   ],
-   "cat": "politics",
    "val": 1,
    "teaser": true,
    "hits": 1
@@ -5295,7 +5154,7 @@
    "cat": "culture",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "Actress Sanisha Bhattarai Discusses Film Career and Cricket",
@@ -6882,30 +6741,6 @@
     "Passengers"
    ],
    "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "पूर्वप्रधानमन्त्री नेपालविरुद्धको भ्रष्टाचार मुद्दामा अन्तिम सुनुवाइ सर्‍यो",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/506101",
-   "source": "Baahrakhari",
-   "ts": 1793351932,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "पूर्वप्रधानमन्त्री नेपालविरुद्धको भ्रष्टाचार मुद्दामा अन्तिम सुनुवाइ सर्‍यो",
-   "en": "पूर्वप्रधानमन्त्री नेपालविरुद्धको भ्रष्टाचार मुद्दामा अन्तिम सुनुवाइ सर्‍यो",
-   "ne": "पूर्वप्रधानमन्त्री नेपालविरुद्धको भ्रष्टाचार मुद्दामा अन्तिम सुनुवाइ सर्‍यो",
-   "imp": 4,
-   "tags": [
-    "MadhavNepal",
-    "Corruption",
-    "Court",
-    "भ्रष्टाचार"
-   ],
-   "cat": "politics",
    "val": 3,
    "teaser": false,
    "hits": 2
@@ -10582,10 +10417,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "crime"
+  },
+  {
+   "ts": 1793356278.2469122,
+   "en": "माधवकुमार नेपालविरुद्धको पतञ्जली जग्गा हिनामिना मुद्दाको अन्तिम सुनुवाइ स्र्याे",
+   "ne": "माधवकुमार नेपालविरुद्धको पतञ्जली जग्गा हिनामिना मुद्दाको अन्तिम सुनुवाइ स्र्याे",
+   "link": "https://baahrakhari.com/detail/506101",
+   "source": "Baahrakhari",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "politics"
   }
  ],
- "updated": 1793355662,
- "pending_since": null,
+ "updated": 1793356303,
+ "pending_since": 1793356270.4099703,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
