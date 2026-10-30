@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5JUTU0Z3phc1hfYU1TSHQ4ZFJncVZEdDA5TXlnNFdHclkzWkFBMzh1WEhkT24yRzR2RERUQWE1REpTNkVTbi1EdE5xOHB6SWxmY0tnS18zSQ?oc=5": 1793158849.483978,
-  "http://english.ratopati.com/story/84792/there-were-bodies-and-stench-everywhere-and-for-two-or-three-weeks-i-kept-seeing-the-same-scene-in-my-dreams": 1793158849.483978,
   "https://gorkhapatraonline.com/news/227478": 1793159450.4285908,
   "https://theannapurnaexpress.com/story/68270": 1793159450.4285908,
   "https://kathmandupost.com/cricket/2026/10/28/pokhara-avengers-seek-first-win-over-sudurpaschim-royals": 1793159450.4285908,
@@ -2056,7 +2054,11 @@
   "https://risingnepaldaily.com/news/88223": 1793331646.6919181,
   "https://nagariknews.nagariknetwork.com/international/magic-19-to-form-government-in-israel-br-40-83.html": 1793331646.6919181,
   "https://kathmandupost.com/national/2026/10/30/japan-cites-privacy-in-withholding-details-on-nepal-s-envoy-nominee": 1793331646.6919181,
-  "https://english.onlinekhabar.com/relief-delivered-by-drone.html": 1793331646.6919181
+  "https://english.onlinekhabar.com/relief-delivered-by-drone.html": 1793331646.6919181,
+  "https://news.google.com/rss/articles/CBMiugFBVV95cUxOa2FvUzRGYVVvSk1mdFpSNUZRS2xjc2NSSUxLaF9TRlF4eVk1bGFnNHZlZmgxV3o5S2VlNVh4ZHhLRGdnMDBnUkRjNldaeDlYQUE4SVhXbGNwR2xLa3IyN2MzdkFBUGhIZEVWMG43c1ppem9WUkFDZGVuSXFmUmloeDVTVWNaaVFmRDRUbjdkMEFPTHhRMlRFZTdnQk9EUkNZSzBwX0FndkZWX194bVItS3hya1FoRmZCc0E?oc=5": 1793332247.9829426,
+  "http://english.ratopati.com/story/85047/janakpurdham-ayodhya-special-train-service-in-final-phase-of-operation": 1793332247.9829426,
+  "https://news.google.com/rss/articles/CBMiWkFVX3lxTFByY3M2RzdzWEZpaVJCM1dVNFZrT2diMVBqdm00SVVfQ0NIZ25ta0ZSUTF4cFdCZWhSNHRiZjVOYTlkMDJadThhTlRMS0p5SU1RaHN5aFM4ZmVnUQ?oc=5": 1793332247.9829426,
+  "https://kathmandupost.com/national/2026/10/30/un-extends-nepal-s-ldc-graduation-preparatory-period-until-november-2029": 1793332247.9829426
  },
  "queue": [
   {
@@ -2632,7 +2634,7 @@
    "cat": "culture",
    "val": 2,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "युक्रेनको निप्रो रेलवे स्टेसनमा रुसी ड्रोन आक्रमण, १३ जनाको मृत्यु",
@@ -4107,30 +4109,6 @@
    "hits": 3
   },
   {
-   "title": "कृषि अनुदान दिलाइदिने भन्दै पाँच करोड ८० लाख ठगी, दुई जना पक्राउ",
-   "summary": "कृषि फार्मका लागि सहुलियत अनुदान मिलाइदिने प्रलोभन देखाएर पाँच करोड ८० लाख ठगी गरेको अभियोगमा दुई जना पक्राउ परेका छन् । प्रहरीको केन्द्रीय प्रहरी समाचारकक्षका अनुसार काठमाडौं महानगरपालिका-१३ ताहाचलका ५२ वर्षीय तिलक...",
-   "link": "http://lokaantar.com/story/332191/2026/10/30/arrested-",
-   "source": "Lokaantar",
-   "ts": 1793314249.4948106,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "कृषि अनुदान दिलाइदिने भन्दै पाँच करोड ८० लाख ठगी, दुई जना पक्राउ",
-   "en": "कृषि अनुदान दिलाइदिने भन्दै पाँच करोड ८० लाख ठगी, दुई जना पक्राउ",
-   "ne": "कृषि अनुदान दिलाइदिने भन्दै पाँच करोड ८० लाख ठगी, दुई जना पक्राउ",
-   "imp": 3,
-   "tags": [
-    "Fraud",
-    "AgricultureSubsidy",
-    "Police",
-    "ठगी"
-   ],
-   "cat": "crime",
-   "val": 3,
-   "teaser": false,
-   "hits": 3
-  },
-  {
    "title": "खाडीमा श्रमसेवा निर्यात",
    "summary": "अमेरिका, इजरायल र इरानबिचको द्वन्द्व अन्त्य भई पश्चिम एसियामा दिगो शान्ति कायम भएपछि द्वन्द्वबाट प्रभावित ऊर्जा, उद्योग, यातायात तथा भौतिक पूर्वाधारको पुनर्निर्माण, आधुनिकीकरण र पु...",
    "link": "https://gorkhapatraonline.com/news/227687",
@@ -4268,7 +4246,7 @@
    "cat": "economy",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "सभ्य समाजका ज्येष्ठ नागरिक",
@@ -4730,17 +4708,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1792726857.6485128,
-   "en": "Kathmandu Valley rivers turn toxic from untreated sewage, report finds",
-   "ne": "Kathmandu Valley rivers turn toxic from untreated sewage, report finds",
-   "link": "https://english.onlinekhabar.com/bagmati-kathmandu-rivers-sewers.html",
-   "source": "Onlinekhabar EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "society"
-  },
   {
    "ts": 1792728669.2017984,
    "en": "Nepal to get $20 million from climate fund after deadly August flood",
@@ -7732,9 +7699,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "politics"
+  },
+  {
+   "ts": 1793332255.5040593,
+   "en": "कृषि अनुदान मिलाइदिने भन्दै ५ करोड ८० लाख ठगी गर्ने दुई जना पक्राउ",
+   "ne": "कृषि अनुदान मिलाइदिने भन्दै ५ करोड ८० लाख ठगी गर्ने दुई जना पक्राउ",
+   "link": "http://lokaantar.com/story/332191/2026/10/30/arrested-",
+   "source": "Lokaantar",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "crime"
   }
  ],
- "updated": 1793331651,
+ "updated": 1793332265,
  "pending_since": 1793331066.0953631,
  "fb_blocks": [
   1790350880.4125228,
