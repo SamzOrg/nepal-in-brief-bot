@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://gorkhapatraonline.com/news/227538": 1793195450.5727787,
-  "https://nagariknews.nagariknetwork.com/sports/umpire-rahman-s-series-of-errors-on-the-field-drs-overturns-four-decisions-68-61.html": 1793195450.5727787,
   "https://baahrakhari.com/detail/505936": 1793196089.5295467,
   "https://nagariknews.nagariknetwork.com/sports/sudurpaschim-51-runs-in-the-powerplay-losing-two-wickets-14-98.html": 1793196654.2230213,
   "https://risingnepaldaily.com/news/88156": 1793196654.2230213,
@@ -2036,7 +2034,9 @@
   "https://nagariknews.nagariknetwork.com/social-affairs/only-when-access-to-justice-increases-will-people-s-trust-in-the-judiciary-increase-chief-justice-sharma-br-30-59.html": 1793367652.214341,
   "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5nZkttdU43THB5dzNDelYxMjE5NFQwenNhVFhObEdkQ0lXakRvRGl5ZElYMkVPMnlsYWI4M0pWTGhZRDAtdFd5RmJ6OW1YZWNH?oc=5": 1793368249.9891872,
   "http://lokaantar.com/story/332229/2026/10/30/press-council-": 1793368249.9891872,
-  "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5hZGpaX2l2anFzcFA3Q0U4S1VsaGFwNFlpV3oyY28yRWtubmFuQlpiX1ZQODhNOVJ1WTlybVBWaHJ1QVhsN0RFbTRNS2JlQUZIVG5lOEZMcm5GQXlzM1l2U09NV0Q?oc=5": 1793368249.9891872
+  "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5hZGpaX2l2anFzcFA3Q0U4S1VsaGFwNFlpV3oyY28yRWtubmFuQlpiX1ZQODhNOVJ1WTlybVBWaHJ1QVhsN0RFbTRNS2JlQUZIVG5lOEZMcm5GQXlzM1l2U09NV0Q?oc=5": 1793368249.9891872,
+  "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ycnZwa2RHcTZiOV9RVDVXQlJ3QlpYU0R3OE0xQ0tLQTFfX0lfU2lTZFVZRHJWcmR5VkExMEZIUTNRTWxuWXg2SWRPTWpicjhlNFYwTWdfYlpfcWszLXc?oc=5": 1793368888.39105,
+  "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUVVXbi1qSy1NQ2p1T3Roa3B2Q0lxVDBoRTZkMUNTTlFSVzJxOVNWaEhWX3cwWWlvSnVPRWprVGRrdjcxR3NWSEVxMHI0Z1lDdGZiUkVoUUJOMENKYk9MY09lTGY5QjRvNmNBbi1UUldhYWdUZVd3RmVDeGtITE5RVGh4TXVra1hEMVVBeFd2djQ3QzhSVG83NjBFVDVQNGtSd2FOVW04OElIYU9QcWRUN1Bn0gG2AUFVX3lxTFBLOEpFd2ZiSnFvQjAtb2tJaWxlU2Q5MWNGbnVNU2xKaTRrbE5IZ1pYTTcwclBHakF2Y1drX0pFWFE1VFZNUUpkT3otSTIyTUgzNHZaTTEtNV84Q1ZtenRKSHI1ZGxrS0ZSVmo5TTNJSFFLUkpjWEFlSHdVX3pZc2dCUlJOOWEzWU55N2dNbnZXdl8xOFVtWjA4OVBGUVNrbk1hOW1ObUZpRXhEbU9fd0FMR2JfN3BB?oc=5": 1793368888.39105
  },
  "queue": [
   {
@@ -2109,29 +2109,6 @@
    "hits": 1
   },
   {
-   "title": "जापानका प्रस्तावित राजदूतबारे निर्णय गर्न बोलाइयो संसदीय समितिको बैठक",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/506079",
-   "source": "Baahrakhari",
-   "ts": 1793339850,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "जापानका प्रस्तावित राजदूतबारे निर्णय गर्न बोलाइयो संसदीय समितिको बैठक",
-   "en": "जापानका प्रस्तावित राजदूतबारे निर्णय गर्न बोलाइयो संसदीय समितिको बैठक",
-   "ne": "जापानका प्रस्तावित राजदूतबारे निर्णय गर्न बोलाइयो संसदीय समितिको बैठक",
-   "imp": 3,
-   "tags": [
-    "Parliament",
-    "Ambassador",
-    "संसदीयसमिति"
-   ],
-   "cat": "politics",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Two Officials Detained by Prime Minister's Office Over Diversion Project Contract",
    "summary": "Kathmandu. Director General of the Department of Water Resources and Irrigation, Dinesh Rajouriya, and Director of the Sunkoshi Marin Diversion...",
    "link": "http://english.ratopati.com/story/85065/dg-of-irrigation-department-and-project-chief-of-sunkoshi-marine-under-control-of-prime-ministers-office",
@@ -2153,121 +2130,6 @@
    "val": 3,
    "teaser": false,
    "hits": 2
-  },
-  {
-   "title": "अस्ट्रेलियामा नेपाली मूलका प्रहरी विकास भारतीलाई राष्ट्रिय बहादुरी पुरस्कार",
-   "summary": "",
-   "link": "https://www.setopati.com/global/australia/401591",
-   "source": "Setopati",
-   "ts": 1793339820,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "अस्ट्रेलियामा नेपाली मूलका प्रहरी विकास भारतीलाई राष्ट्रिय बहादुरी पुरस्कार",
-   "en": "अस्ट्रेलियामा नेपाली मूलका प्रहरी विकास भारतीलाई राष्ट्रिय बहादुरी पुरस्कार",
-   "ne": "अस्ट्रेलियामा नेपाली मूलका प्रहरी विकास भारतीलाई राष्ट्रिय बहादुरी पुरस्कार",
-   "imp": 3,
-   "tags": [
-    "Australia",
-    "NepaliPolice",
-    "Award"
-   ],
-   "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "इजरायलको अन्तिम चुनावी नतिजा जारी : अरब दललाई ऐतिहासिक सफलता, ११ दल संसद्‌मा जाने",
-   "summary": "शुक्रबार बिहान सार्वजनिक नतिजाअनुसार ११ राजनीतिक दलले संसद्‌मा स्थान पाएका छन्। यसपटक अरब नेतृत्वका दलले अहिलेसम्मकै धेरै १९ सिट जितेर नयाँ कीर्तिमान बनाएका छन्।...",
-   "link": "https://nagariknews.nagariknetwork.com/international/israel-s-final-election-results-released-historic-victory-for-arab-parties-11-parties-to-enter-parliament-64-70.html",
-   "source": "Nagarik News",
-   "ts": 1793339774,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1793339555_Election%20Update.jpg",
-   "lang": "ne",
-   "hl": "इजरायलको अन्तिम चुनावी नतिजा जारी : अरब दललाई ऐतिहासिक सफलता, ११ दल संसद्‌मा जाने",
-   "en": "इजरायलको अन्तिम चुनावी नतिजा जारी : अरब दललाई ऐतिहासिक सफलता, ११ दल संसद्‌मा जाने",
-   "ne": "इजरायलको अन्तिम चुनावी नतिजा जारी : अरब दललाई ऐतिहासिक सफलता, ११ दल संसद्‌मा जाने",
-   "imp": 2,
-   "tags": [
-    "Israel",
-    "Election",
-    "इजरायल"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Egg Support Price Increased Due to Festival Demand",
-   "summary": "Chitwan. With the increase in demand for eggs along with the festivals, the wholesale support price has increased. The Nepal...",
-   "link": "http://english.ratopati.com/story/85064/wholesale-price-of-eggs-increased-consumer-price-remained-unchanged",
-   "source": "Ratopati EN",
-   "ts": 1793339630,
-   "weight": 2,
-   "img": "https://rpcdn.ratopati.com/media/albums/egg_dGGWPTxAw3.jpg",
-   "lang": "en",
-   "hl": "Egg Support Price Increased Due to Festival Demand",
-   "en": "Egg Support Price Increased Due to Festival Demand",
-   "ne": "Egg Support Price Increased Due to Festival Demand",
-   "imp": 2,
-   "tags": [
-    "EggPrice",
-    "Festival",
-    "Agriculture"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 4
-  },
-  {
-   "title": "दीपक भट्टको बन्दी प्रत्यक्षीकरणको रिट न्यायाधीश सुवेदी र थापाको इजलासमा",
-   "summary": "सम्पत्ति शुद्धीकरणसहित विभिन्न मुद्दामा थुनामा रहेका दीपक भट्टको बन्दी प्रत्यक्षीकरणको रिटमाथि सुनुवाइ हुने भएको छ।",
-   "link": "https://www.setopati.com/social/401590",
-   "source": "Setopati",
-   "ts": 1793339557,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "दीपक भट्टको बन्दी प्रत्यक्षीकरणको रिट न्यायाधीश सुवेदी र थापाको इजलासमा",
-   "en": "दीपक भट्टको बन्दी प्रत्यक्षीकरणको रिट न्यायाधीश सुवेदी र थापाको इजलासमा",
-   "ne": "दीपक भट्टको बन्दी प्रत्यक्षीकरणको रिट न्यायाधीश सुवेदी र थापाको इजलासमा",
-   "imp": 3,
-   "tags": [
-    "SupremeCourt",
-    "DeepakBhatta",
-    "रिट"
-   ],
-   "cat": "politics",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "'एक्स-मेन' प्याट्रिक स्टुअर्ट ८६ वर्षमा नि*धन",
-   "summary": "सार्वजनिक समाचार अनुसार उनलाई अल्जाइमर रोग र लेवी बडी डिमेन्सिया भएको पुष्टि भएको छ।",
-   "link": "https://nagariknews.nagariknetwork.com/arts/hollywood-actor-patrick-stewart-dies-at-86-40-50.html",
-   "source": "Nagarik News",
-   "ts": 1793339666,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1793339646_Patrick_Stewart_1999.jpg",
-   "lang": "ne",
-   "hl": "'एक्स-मेन' प्याट्रिक स्टुअर्ट ८६ वर्षमा नि*धन",
-   "en": "'एक्स-मेन' प्याट्रिक स्टुअर्ट ८६ वर्षमा नि*धन",
-   "ne": "'एक्स-मेन' प्याट्रिक स्टुअर्ट ८६ वर्षमा नि*धन",
-   "imp": 1,
-   "tags": [
-    "PatrickStewart",
-    "Obituary",
-    "एक्समेन"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
   },
   {
    "title": "At 49, a Dutch project manager, Bouke Lolkema, survived Nepal's 2015 earthquake; then quit his job to lead hiking and wildlife photography trips",
@@ -3068,29 +2930,6 @@
    "val": 2,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "Langtang Valley Trek reopens",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUi1vMjZnd2RRZzdNSE5XRUVRRy04cHFISDhzRG01MVozbWZKUmYwLVRlVXNPUkZiU0h3YVZKejFfRG1TbmRRS0xGcE9lcE1fU0VYT0hma2s3elZ1UUtUY2dGODZ4SktYQnRBcjJTc0w3VHhyblJHNkJIT3JORlpqSmlBUDR0OFpPMG1uX1lTRFo?oc=5",
-   "source": "myRepublica",
-   "ts": 1793339595,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Langtang Valley Trek reopens",
-   "en": "Langtang Valley Trek reopens",
-   "ne": "Langtang Valley Trek reopens",
-   "imp": 3,
-   "tags": [
-    "LangtangValley",
-    "Trek",
-    "Tourism"
-   ],
-   "cat": "culture",
-   "val": 3,
-   "teaser": false,
-   "hits": 3
   },
   {
    "title": "Actress Sanisha Bhattarai Discusses Film Career and Cricket",
@@ -4313,30 +4152,6 @@
    "hits": 1
   },
   {
-   "title": "Iran says four tankers on fire after hitting mines in Hormuz",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaGxKRkcxUnFkYktUcEQ3SnptVVMwX3hwZUtuQURXMWhZT3QwczJJdkRqX3ZlMEMxYzlMVUl0Mk1DTE8xSlMzTTVDbmpadzE3QjNCVmJUZnY3c2Q4TFdnODFCcHg4ZGY4TDJlenBPNkJfSGtCMHZsa0lFUTVMdHg2MDRncVV4RGxfRWQ0ZnliMzdMVEZ0Q241YjFiWGxBNDZpR1k0aG5WMXZNVFFaeEdRVGVyODctLUtqbXZZ?oc=5",
-   "source": "myRepublica",
-   "ts": 1793339617,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Iran says four tankers on fire after hitting mines in Hormuz",
-   "en": "Iran says four tankers on fire after hitting mines in Hormuz",
-   "ne": "Iran says four tankers on fire after hitting mines in Hormuz",
-   "imp": 1,
-   "tags": [
-    "Iran",
-    "OilTanker",
-    "Hormuz",
-    "Mines"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
    "title": "स्वच्छता र व्यवसायीको स्वरोजगारी सुनिश्चित होस्",
    "summary": "",
    "link": "https://baahrakhari.com/detail/506096",
@@ -4681,52 +4496,6 @@
    "val": 3,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "India, Belgium and Luxembourg hold 19th Joint Economic Commission Session to strengthen trade ties",
-   "summary": "Luxembourg: India, Belgium and Luxembourg have reaffirmed their commitment to strengthening trade, investment and economic cooperation across key sectors during the 19th Session of the India-Belgium-Luxembourg Economic...",
-   "link": "https://theannapurnaexpress.com/story/68347",
-   "source": "Annapurna Express",
-   "ts": 1793340086.1884513,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "India, Belgium and Luxembourg hold 19th Joint Economic Commission Session to strengthen trade ties",
-   "en": "India, Belgium and Luxembourg hold 19th Joint Economic Commission Session to strengthen trade ties",
-   "ne": "India, Belgium and Luxembourg hold 19th Joint Economic Commission Session to strengthen trade ties",
-   "imp": 1,
-   "tags": [
-    "India",
-    "Belgium",
-    "Luxembourg"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "सरकारको निर्देशन अटेर गरेपछि एनप्याब्सन निलम्बित",
-   "summary": "गृह मन्त्रालयले राष्ट्रिय निजी तथा आवासीय विद्यालय एसोसिएसन नेपाल (एनप्याब्सन)लाई निलम्बन गरेको छ।मन्त्रालयले शुक्रबार सार्वजनिक सूचना जारी गर्दै राष्ट्रिय निर्देशन ऐन, २०१८ को दफा ६ को उपदफा (२) बमोजिम एन प्याब्सनलाई...",
-   "link": "http://lokaantar.com/story/332217/2026/10/30/n-pabson-",
-   "source": "Lokaantar",
-   "ts": 1793340085.9910498,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "सरकारको निर्देशन अटेर गरेपछि एनप्याब्सन निलम्बित",
-   "en": "सरकारको निर्देशन अटेर गरेपछि एनप्याब्सन निलम्बित",
-   "ne": "सरकारको निर्देशन अटेर गरेपछि एनप्याब्सन निलम्बित",
-   "imp": 3,
-   "tags": [
-    "NPABSON",
-    "Government",
-    "Suspension"
-   ],
-   "cat": "education",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "शिक्षामन्त्री र अमेरिकी कार्यवाहक राजदूतबीच 'खेलकुद कूटनीति' बारेमा छलफल",
@@ -5943,28 +5712,6 @@
    "val": 3,
    "teaser": false,
    "hits": 2
-  },
-  {
-   "title": "कान्ति लोकपथमा दुई दिन रातिको समयमा सवारी चलाउन नपाइने",
-   "summary": "अविरल वर्षाका कारण बाढीपहिरोको जोखिम बढेपछि मकवानपुर हुँदै काठमाडौँ जोड्ने कान्ति लोकपथमा दुई दिन रात्रिकालीन सवारी आवागमन बन्द गरिएको छ ।जिल्ला प्रशासन कार्यालय मकवानपुरले आज र भोलि (कात्तिक १३ र १४ गते) साँझ ५:००...",
-   "link": "http://lokaantar.com/story/332223/2026/10/30/kanti-lokpath",
-   "source": "Lokaantar",
-   "ts": 1793347286.828667,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "कान्ति लोकपथमा दुई दिन रातिको समयमा सवारी चलाउन नपाइने",
-   "en": "कान्ति लोकपथमा दुई दिन रातिको समयमा सवारी चलाउन नपाइने",
-   "ne": "कान्ति लोकपथमा दुई दिन रातिको समयमा सवारी चलाउन नपाइने",
-   "imp": 3,
-   "tags": [
-    "KantiPath",
-    "Traffic"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 4
   },
   {
    "title": "अरब दलसँग मिलेर सरकार नबनाउने नेतान्याहूको अडान",
@@ -10000,9 +9747,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "crime"
+  },
+  {
+   "ts": 1793368913.963985,
+   "en": "कान्ति लोकपथमा दुई दिन रात्रिकालीन सवारी आवागमन बन्द",
+   "ne": "कान्ति लोकपथमा दुई दिन रात्रिकालीन सवारी आवागमन बन्द",
+   "link": "http://lokaantar.com/story/332223/2026/10/30/kanti-lokpath",
+   "source": "Lokaantar",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "disaster"
   }
  ],
- "updated": 1793368256,
+ "updated": 1793368931,
  "pending_since": 1793368249.9891872,
  "fb_blocks": [
   1790350880.4125228,
