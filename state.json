@@ -1,8 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRngzR0tOMzBya0lsUUhEQlFwaHc2UUF1T0lQcEpuVGVDSjlOem9tME5MbmR0T1M2WjQxeHFEMTdYSzRKZG1YMFQtQ0llY2w2dFBwdHdfMGxDd1pMUXR1Ui1fdjQzSEFjZ0dNUTlfZmZtSE9Wbkk0OFd6dmZQcGRRdXlCR0M1X3JBRmZQY0Z6d1Y5UzlpcUhjNzZXM05aREhJQ1FkNngyNU9CSHNySks2LThBWDQ4VlYxOFM1bjRCQ296eHkwRjBXdU5rb1c?oc=5": 1793172669.7899399,
-  "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSmN1MVZ5UTRIRHpvY3U4a0YyMVQ3Zm9JN0NxTHp0b2ROYWFqeC12cnZDRGxRaFNhdWRad2gwa3ZkMVhaT1FLWDNwNElOZTExZWMzWDJyMGh5ZTNhNEpvZGpnc1ZxNnJpWlllZ2N5MGZZeV9LZFMzU1NDSXNqRl9jRHU4RS1nOVZROXBKRDBfRVcteW9odDM3NWxSc0p5bVYxRGNXMGJIYTRCUGVueWRneTFMclJGMFEzYzhyQ0ZmQ2x2azA?oc=5": 1793172669.7899399,
-  "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1vS3o0bDNrWDV5Y21UYVphbzVfLUFreENpNk53cFNTWnNycGVDLVZ0YkM0RmIya2dyX0g5QldDYTRQY2htbDh6M1JIT3I2ZFJo?oc=5": 1793172669.7899399,
   "https://baahrakhari.com/detail/505892": 1793173249.2073748,
   "https://risingnepaldaily.com/news/88144": 1793173249.2073748,
   "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ldlZ1NHRtNlVNa1NuU0VrWVNCU1hodnAyY0RNOE9KVm8yRHpVc01wdGM4TGhvaDJQR2xhTmlnOXhISkFzWHptMnQwS2ozY0lDMmNOSVFhSFU?oc=5": 1793173249.2073748,
@@ -2071,7 +2068,10 @@
   "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZmF6Q2tpNF9CR094Zl9aRF9FLVZkTjZnZFBCdlZuMUpaa1YxNWhueWRKYnZNdHY1WEVVeDNnOTB4T0x5cUZ1UThDc1Z4Nm9fdThLLXdNZE01Ri0tcENONlRUcHVHUGJPQml5X2w1NGJ3MXNYUHdQaUtwcWxJUmY4RF9TbTN4SkU3MERqYU1aVVhXRmNGUElhN1dxQ1N2MzBDX29zY3Rlc1ROYmxlZWoxYUhhQVBlc0dBYjQw?oc=5": 1793345467.8915355,
   "http://english.ratopati.com/story/85082/nearly-9-billion-rupees-of-concessional-agricultural-loans-flow-to-madhesh": 1793345467.8915355,
   "https://english.onlinekhabar.com/arrested-crypto-2-billion.html": 1793345467.8915355,
-  "http://english.ratopati.com/story/85081/north-korea-displays-ai-powered-drones-and-rockets": 1793345467.8915355
+  "http://english.ratopati.com/story/85081/north-korea-displays-ai-powered-drones-and-rockets": 1793345467.8915355,
+  "https://nagariknews.nagariknetwork.com/social-affairs/31-people-arrested-with-drugs-45-32.html": 1793346049.1937602,
+  "https://theannapurnaexpress.com/story/68341": 1793346049.1937602,
+  "https://nagariknews.nagariknetwork.com/social-affairs/policeman-dies-wife-seriously-injured-in-tractor-accident-in-rautahat-47-33.html": 1793346049.1937602
  },
  "queue": [
   {
@@ -3082,7 +3082,7 @@
    "cat": "crime",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "भारतीय लगानी प्रवर्धनबारे छलफल",
@@ -6091,7 +6091,7 @@
    "cat": "economy",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "दीपक भट्टको बन्दी प्रत्यक्षीकरणको रिट न्यायाधीश सुवेदी र थापाको इजलासमा",
@@ -7324,6 +7324,30 @@
     "Technology"
    ],
    "cat": "tech",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "रौतहटमा ट्र्याक्टरको ठक्करबाट प्रहरी जवानको मृत्यु, श्रीमती गम्भीर घाइते",
+   "summary": "रौतहटमा ट्र्याक्टर र मोटरसाइकल एक आपसमा ठोक्किँदा प्रहरी जवानको मृत्यु भएको छ।",
+   "link": "https://nagariknews.nagariknetwork.com/social-affairs/policeman-dies-wife-seriously-injured-in-tractor-accident-in-rautahat-47-33.html",
+   "source": "Nagarik News",
+   "ts": 1793342751,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2026/third-party/1784615247_Accident.jpg",
+   "lang": "ne",
+   "hl": "रौतहटमा ट्र्याक्टरको ठक्करबाट प्रहरी जवानको मृत्यु, श्रीमती गम्भीर घाइते",
+   "en": "रौतहटमा ट्र्याक्टरको ठक्करबाट प्रहरी जवानको मृत्यु, श्रीमती गम्भीर घाइते",
+   "ne": "रौतहटमा ट्र्याक्टरको ठक्करबाट प्रहरी जवानको मृत्यु, श्रीमती गम्भीर घाइते",
+   "imp": 4,
+   "tags": [
+    "Rautahat",
+    "Police",
+    "Accident",
+    "रौतहट"
+   ],
+   "cat": "crime",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -10345,7 +10369,7 @@
    "cat": "politics"
   }
  ],
- "updated": 1793345475,
+ "updated": 1793346054,
  "pending_since": 1793345467.8915355,
  "fb_blocks": [
   1790350880.4125228,
