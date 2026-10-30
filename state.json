@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9UUTJ3TVlUWHlzT1lYbm9BXzZPVlFmOTBtOWEzejJKWklBX2EtNE1PZXRCX0thQWRwd2tEYWt3U2xLbU92SmN3OG5HWU5kVDJfcXAxS3FKZ01XNlk?oc=5": 1793229647.1202636,
   "https://risingnepaldaily.com/news/88163": 1793231449.520617,
   "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNmp0bXFuTmllRkM4dkFjYnZvZFh5NHhkMUY1eDl1WkFzaDlkT3JDM2d3Y0tXTmQwTW5CODZaQ0VXQ3lrRGhpckNsRE1fTmt2VGxlVWZsSVFZOUlaY1pCajJ2dGtwTHFSVk1QLWRjUU85Wkk3V2FQNGstSE9xWURTNUVPY2x2bHkzMm1hYkF5LVppOUQ1am4teEpEQ0gtS3k2?oc=5": 1793231449.520617,
   "https://gorkhapatraonline.com/news/227554": 1793231449.520617,
@@ -2071,51 +2070,6 @@
  },
  "queue": [
   {
-   "title": "कांग्रेसले भन्यो- जनदबाबपछि रिहाइभन्दा कानुन विपरीत पक्राउ र 'ह्यारेसमेन्ट' बन्द गर",
-   "summary": "प्रक्रिया बेवास्ता गर्दै सञ्चारगृहमा प्रहरी हस्तक्षेप गर्नु कानुनको शासनलाई लत्याएर कानुनलाई शासनको औजार बनाउने प्रवृत्तितर्फ उन्मुख हुनु भएको कांग्रेसको ठहर छ।",
-   "link": "https://www.setopati.com/politics/401652",
-   "source": "Setopati",
-   "ts": 1793374080,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "कांग्रेसले भन्यो- जनदबाबपछि रिहाइभन्दा कानुन विपरीत पक्राउ र 'ह्यारेसमेन्ट' बन्द गर",
-   "en": "कांग्रेसले भन्यो- जनदबाबपछि रिहाइभन्दा कानुन विपरीत पक्राउ र 'ह्यारेसमेन्ट' बन्द गर",
-   "ne": "कांग्रेसले भन्यो- जनदबाबपछि रिहाइभन्दा कानुन विपरीत पक्राउ र 'ह्यारेसमेन्ट' बन्द गर",
-   "imp": 3,
-   "tags": [
-    "NepaliCongress",
-    "Journalist",
-    "प्रेसस्वतन्त्रता"
-   ],
-   "cat": "politics",
-   "val": 2,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "घर फर्किएका युवा खेलाडी चार दिनपछि भिरमुनि मृ`त भेटिए",
-   "summary": "भलिबल खेल्न भन्दै बाजुराबाट मुगु आएका एक युवा घर फर्किएको भनिएको चार दिनपछि भिरमुनि मृत अवस्थामा फेला परेका छन्।...",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/young-athlete-found-dead-under-cliff-four-days-after-returning-home-92-27.html",
-   "source": "Nagarik News",
-   "ts": 1793374011,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1767337292_Nagariknews.jpg",
-   "lang": "ne",
-   "hl": "घर फर्किएका युवा खेलाडी चार दिनपछि भिरमुनि मृ`त भेटिए",
-   "en": "घर फर्किएका युवा खेलाडी चार दिनपछि भिरमुनि मृ`त भेटिए",
-   "ne": "घर फर्किएका युवा खेलाडी चार दिनपछि भिरमुनि मृ`त भेटिए",
-   "imp": 3,
-   "tags": [
-    "Youth",
-    "Death"
-   ],
-   "cat": "society",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Adverse Weather Halts Over 500 Containers at Nepal-China Border's Korala Pass",
    "summary": "Mustang. Due to adverse weather, over 500 containers are stranded in the Korala pass area on the Nepal-China border for...",
    "link": "http://english.ratopati.com/story/85129/five-hundred-containers-stranded-in-korla-area",
@@ -2893,17 +2847,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1792797678.7484004,
-   "en": "नवलपुरको देवचुलीमा अटो दुर्घटना हुँदा १४ जना घाइते",
-   "ne": "नवलपुरको देवचुलीमा अटो दुर्घटना हुँदा १४ जना घाइते",
-   "link": "https://gorkhapatraonline.com/news/227124",
-   "source": "Gorkhapatra",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "disaster"
-  },
   {
    "ts": 1792799452.9063532,
    "en": "Nepal flood hero principal Rajendra Dawadi sets up tents for 900 pupils",
@@ -5919,7 +5862,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1793402464,
+ "updated": 1793403071,
  "pending_since": 1793401280.7161043,
  "fb_blocks": [
   1790350880.4125228,
