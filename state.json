@@ -2027,7 +2027,9 @@
   "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTk11LTAtSnlJZDB5cC1rQ1JET0U1Q1haaG83X29ZQTd0UTRlb0R4c1NwSTRwMUxveTVCSnNHLW9RdVpGdUhURENuVldPZXNBTnNRTHVKaEJOaFJrNG82OHEtRzd6Vm90eENKZWE3Tk9PM19RTXNCT3ZmS1JrR0ctR1hnSnh5S1Vwbk1DUW45cmd4VWxKeW5XV3dpYV9DWXB3WHJ0YVZhem80d2Q5RXFWTHVTYXdMOXhBM1E?oc=5": 1793325050.783047,
   "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPT0RSTkpfamFEeG5Mc2dRamdfeTNUSTJGOXhELV9fM1VsNjZnY2VIUVR5dmlfNUUtZ0FIcXFSNHd6ZDIwelFwMTlBanE0QnpsV1BXTjBtcVFVNWxIQzZMT2NseHZPTWpSbWFsZmpQaW9CNnktZVoxUG1DbzF1LWRVVnN2bnZ3TVB2SzM4bndMSHJwRHdXV2R2MEl0VU02SjFRWWRRenFLb1U0d3c?oc=5": 1793325050.783047,
   "https://kathmandupost.com/editorial/2026/10/30/nepal-s-government-needs-to-vet-public-appointments-before-announcing-them": 1793325050.783047,
-  "https://kathmandupost.com/national/2026/10/30/pm-shah-floated-the-idea-of-nepal-india-china-cooperation-on-climate-why-is-the-government-slow-to-reach-out-to-the-neighbours": 1793325050.783047
+  "https://kathmandupost.com/national/2026/10/30/pm-shah-floated-the-idea-of-nepal-india-china-cooperation-on-climate-why-is-the-government-slow-to-reach-out-to-the-neighbours": 1793325050.783047,
+  "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcTc2X3J3VXE2aE90ajJsa1k1N3lhanpzRG8ydW9wN2h2ZjZscTltMDhMaVh2V0RmNkhCU0s0QlhMQUczNlBjUnVyR0prME45ai13eFlXZnVxR1drNFdNWEQ2OHNQbHU1OVVOeUIzWTlMOWExZEJhUUdNTzU3My1oOTRtdUFocEl3Y1FRYTg4NHhqVV9vaEJZYXV3cHBpSFMwUml6czBqbjlWeDNob2djTzFYelU?oc=5": 1793325281.3010228,
+  "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZnQyVVZfVmd1Vl9pOXBPVFpXY3VPem1Vd2t5NmhBVUhGMUp5cW9QY29URTB5LWdNdFN3QWpDTGtHV1NidTlUUzloNFQ2NFlPV3hvZTVRQUtGRVc1VGF5RTJtbklsODdjUURNc1lyV2FZTTJLN1JzWUNBc0VsOUFKOFZ1QWFTUi16VWI3QnltVEVQTkFDR0kxN2Y3R19HcHd0TVE2dnVzbTYwSEgteE9LbW1ZVQ?oc=5": 1793325281.3010228
  },
  "queue": [
   {
@@ -3079,6 +3081,29 @@
     "चाडपर्व"
    ],
    "cat": "economy",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Nepal's grim DNA puzzle to identify flood dead as over 5000 still missing",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZnQyVVZfVmd1Vl9pOXBPVFpXY3VPem1Vd2t5NmhBVUhGMUp5cW9QY29URTB5LWdNdFN3QWpDTGtHV1NidTlUUzloNFQ2NFlPV3hvZTVRQUtGRVc1VGF5RTJtbklsODdjUURNc1lyV2FZTTJLN1JzWUNBc0VsOUFKOFZ1QWFTUi16VWI3QnltVEVQTkFDR0kxN2Y3R19HcHd0TVE2dnVzbTYwSEgteE9LbW1ZVQ?oc=5",
+   "source": "IOL",
+   "ts": 1793322366,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "Nepal's grim DNA puzzle to identify flood dead as over 5000 still missing",
+   "en": "Nepal's grim DNA puzzle to identify flood dead as over 5000 still missing",
+   "ne": "Nepal's grim DNA puzzle to identify flood dead as over 5000 still missing",
+   "imp": 4,
+   "tags": [
+    "Flood",
+    "DNA",
+    "बाढी"
+   ],
+   "cat": "disaster",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -6089,7 +6114,7 @@
    "cat": "politics"
   }
  ],
- "updated": 1793325070,
+ "updated": 1793325287,
  "pending_since": 1793325050.783047,
  "fb_blocks": [
   1790350880.4125228,
