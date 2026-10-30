@@ -1,15 +1,5 @@
 {
  "seen": {
-  "https://risingnepaldaily.com/news/88140": 1793170889.252802,
-  "http://english.ratopati.com/story/84814/two-indians-arrested-with-marijuana-sent-by-courier-from-the-us": 1793170889.252802,
-  "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSEIzS211NzJUd1FUenBrSWxZTVgzTjFwNXdQYkNzN180dkdMX2MyWFhTYl9iWlYxSm1kYlVmSzRqbmJGRENoQUxHOWVIMnNibGFWRUdXSVF3TFVyMUNHRjlEd0Z2aTdmVWVub0l4SDRHS1hZd21WdTRPUjdBUVpnNDZqbE8yMENwYnZ2dnZCSHp3WHhJSXZyeUUyUzk?oc=5": 1793170889.252802,
-  "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRFMxaVVvM3Q4N1hhc2loekF3SDVCRUk3OVQ4b1dUX0dFamViZHlpdjgycUdzOHBtT0N0VHdsbmEyODVkaVVOR0o4d2NHOXZFajlteUtzSjFjcnVIUlhaLW1BWFRkM0RrNGVCcFhRaDFZbXJtRVNmMl9OTmZtMTk3V3hCay1nSk5qNVBYdXJiWkJ2OFB2YVBSeGlJc3NVWTJfSkc0SGVpY1RKZzkz?oc=5": 1793170889.252802,
-  "http://english.ratopati.com/story/84812/cyclone-arnab-heading-towards-nepal-red-alert-issued-in-these-areas": 1793170889.252802,
-  "https://risingnepaldaily.com/news/88141": 1793171448.3574944,
-  "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1kZ2xDaG5ER1FtSFhBSTRZaGhwamNCc1pUeTVhSVpacWRpVTYwWGtSVm1pSmRnTEdibDdWbUtPTTlBSjhHQTIxemxWMmNPRGhLTndpb3ota1RkYXBm?oc=5": 1793171448.3574944,
-  "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVG1yR3ZBTERTWl91cGN0d05rRjdhTkxXa1daSlBVU2YycWdjRzlSVXRGaTNjcFVfVUJoZ09WSGhDWW1xQmxCNVphMmpXdXdSaTBiV2pzTDJWVEZhbVFKVXJVODFDc0FFVzNaYmQ4VlBEYmpKdzExLWdUUTZ2Sy0yVkVkYnJPSHZNLU0yT1dRMUVZc3VaOWxwelhKanZVUzNzTTRkTHBJVUU2ZWpOZl90c1kwczkzTU9t?oc=5": 1793171448.3574944,
-  "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNDROUkhMLUxTa0ZhenhYa3dvREptWE82MFFoTHNqdHlRYkRIUERoTTRoMVhYUk9vLVZnUUgwMDJULWFTaXU3ekQ4cmhjdkRPOThuQnBRQ28wUzRIMk4zZHNsaXZHdFVkYm9kN0RjcTdLX2dlNWk3ZmpFWG9PMmsyVG95aDNBMEtGVjZVVS1iUjFFRDNtWjktZnhLREVndzVaSUFwck9hOUVaZDVaVWNRZmdYOE1xOG9BLVdhWWdKVzE?oc=5": 1793171448.3574944,
-  "http://english.ratopati.com/story/84816/21-billion-insurance-claims-in-bhotekoshi-flood-how-much-has-been-paid-so-far": 1793171448.3574944,
   "https://english.onlinekhabar.com/92-people-arrested.html": 1793172049.2723615,
   "https://english.khabarhub.com/2026/28/573463/": 1793172049.2723615,
   "https://english.khabarhub.com/2026/28/573459/": 1793172049.2723615,
@@ -2070,7 +2060,10 @@
   "http://english.ratopati.com/story/85073/discussions-among-three-parties-to-form-a-new-government-in-madhesh": 1793343686.9881659,
   "https://gorkhapatraonline.com/news/227720": 1793343686.9881659,
   "https://www.setopati.com/social/401596": 1793343686.9881659,
-  "http://english.ratopati.com/story/85072/chief-minister-acharya-emphasizes-coordination-and-preparedness-in-disaster-management": 1793343686.9881659
+  "http://english.ratopati.com/story/85072/chief-minister-acharya-emphasizes-coordination-and-preparedness-in-disaster-management": 1793343686.9881659,
+  "https://baahrakhari.com/detail/506089": 1793344249.2749896,
+  "http://english.ratopati.com/story/85079/weather-changes-across-the-country-due-to-the-impact-of-cyclone-arnab-moderate-rainfall-in-kathmandu": 1793344249.2749896,
+  "https://theannapurnaexpress.com/story/68340": 1793344249.2749896
  },
  "queue": [
   {
@@ -2095,29 +2088,6 @@
    "val": 3,
    "teaser": false,
    "hits": 6
-  },
-  {
-   "title": "San Diego nonprofit completes medical mission to flood-ravaged Nepal",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPY1BTZGN4WHdNdnpfeGZEWHdTaVJpbjRia0FRY1A3aG5yRjIzTjdjRDM2bVZCSEMzejlxYWZwMnVRUUczRG5CN1JPZ1VvcnpCdlgtUE41OVUzMDRCd2xxVWpLQjN1S2RkNEhTdDFrbUdGZnJrek5fa0JUdno3MUM0TXB5UWwzcWZHRUwzZmFKT042azRQV0hNQW9ScktIR3JtWUpqUndpU1ZRU3c?oc=5",
-   "source": "10News.com",
-   "ts": 1793315171,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "San Diego nonprofit completes medical mission to flood-ravaged Nepal",
-   "en": "San Diego nonprofit completes medical mission to flood-ravaged Nepal",
-   "ne": "San Diego nonprofit completes medical mission to flood-ravaged Nepal",
-   "imp": 3,
-   "tags": [
-    "MedicalMission",
-    "Flood",
-    "Nepal"
-   ],
-   "cat": "health",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
   },
   {
    "title": "पाँच कट्ठामा सयपत्री फूलखेती, उत्पादन राम्रो हुँदा किसान उत्साहित",
@@ -3678,7 +3648,7 @@
    "cat": "disaster",
    "val": 3,
    "teaser": false,
-   "hits": 4
+   "hits": 5
   },
   {
    "title": "इजरायलमा सरकार गठनको प्रयासमा आइसेनकोट, विपक्षी नेताहरूसँग भेटवार्ता",
@@ -6159,7 +6129,7 @@
    "cat": "economy",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "Egg Support Price Increased Due to Festival Demand",
@@ -10115,8 +10085,8 @@
    "cat": "politics"
   }
  ],
- "updated": 1793343694,
- "pending_since": null,
+ "updated": 1793344254,
+ "pending_since": 1793344249.2749896,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
