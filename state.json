@@ -2060,32 +2060,10 @@
   "http://english.ratopati.com/story/85132/25-children-rescued-while-being-taken-to-india": 1793379697.4262202,
   "https://nagariknews.nagariknetwork.com/politics/government-has-fascist-tendencies-uml-88-19.html": 1793379697.4262202,
   "http://lokaantar.com/story/332237/2026/10/30/himal-": 1793379697.4262202,
-  "http://english.ratopati.com/story/85131/revenue-collection-of-713-billion-crores-in-three-months": 1793379697.4262202
+  "http://english.ratopati.com/story/85131/revenue-collection-of-713-billion-crores-in-three-months": 1793379697.4262202,
+  "http://lokaantar.com/story/332240/2026/10/30/temp-": 1793380249.1321342
  },
  "queue": [
-  {
-   "title": "Army calls for single command in disaster response after Budhigandaki flood",
-   "summary": "Kathmandu, October 30 The Nepali Army has said that dual command is hindering disaster management. Briefing the Parliamentary Special Committee under the House of Representatives on Friday, Brigadier General Subash Jung...",
-   "link": "https://english.onlinekhabar.com/army-calls-for-single-command.html",
-   "source": "Onlinekhabar EN",
-   "ts": 1793351139,
-   "weight": 3,
-   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/10/Subasjung-Thapa-Nepal-Army-1024x576-1.jpg",
-   "lang": "en",
-   "hl": "Army calls for single command in disaster response after Budhigandaki flood",
-   "en": "Army calls for single command in disaster response after Budhigandaki flood",
-   "ne": "Army calls for single command in disaster response after Budhigandaki flood",
-   "imp": 3,
-   "tags": [
-    "Budhigandaki",
-    "Flood",
-    "DisasterResponse"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
   {
    "title": "Airport Transport Service Provides Services to Over 1.3 Million Passengers Annually",
    "summary": "Airport Transport Service Management Limited has informed that it has been providing transport services to more than 1.3 million domestic...",
@@ -2128,75 +2106,6 @@
     "Everest"
    ],
    "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "Netanyahu bloc finishes ahead in Israel vote, but well short of majority",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNTJtaF9hcm9NZDMzZV94OW9jeE5LejF1R1hSajJQbG16Z3pqdjNhM3Q5dE5WMFo1ckRQWENJTlpWdkptUEh0d05pSU9aMHA0emtPdEZ3THNMWERKYTQzVjV3YW1yUFJUTzhxN1IwM3ZKQkxMV2Uxd3pITXZVS2Izck9ENUFDYlZWU2RpOXBfMEI4QjhLMmlrT2RqYTk1cllodmROblB5VFQ4b1dZZkJkMXQyNWdSeV9sN3VGTElhNTZNZmtGTUl5aVl3?oc=5",
-   "source": "myRepublica",
-   "ts": 1793351448,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Netanyahu bloc finishes ahead in Israel vote, but well short of majority",
-   "en": "Netanyahu bloc finishes ahead in Israel vote, but well short of majority",
-   "ne": "Netanyahu bloc finishes ahead in Israel vote, but well short of majority",
-   "imp": 1,
-   "tags": [
-    "Israel",
-    "Netanyahu",
-    "Election"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 3
-  },
-  {
-   "title": "प्रधानमन्त्रीको भारत भ्रमणको मिति तय भइसकेको छैन : परराष्ट्र प्रवक्ता क्षेत्री",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/506099",
-   "source": "Baahrakhari",
-   "ts": 1793351004,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "प्रधानमन्त्रीको भारत भ्रमणको मिति तय भइसकेको छैन : परराष्ट्र प्रवक्ता क्षेत्री",
-   "en": "प्रधानमन्त्रीको भारत भ्रमणको मिति तय भइसकेको छैन : परराष्ट्र प्रवक्ता क्षेत्री",
-   "ne": "प्रधानमन्त्रीको भारत भ्रमणको मिति तय भइसकेको छैन : परराष्ट्र प्रवक्ता क्षेत्री",
-   "imp": 3,
-   "tags": [
-    "PrimeMinister",
-    "IndiaVisit",
-    "ForeignMinistry"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "Binance Suffers Massive Cyber Attack, Billions in Digital Assets Hacked",
-   "summary": "Kathmandu. The world's largest cryptocurrency exchange 'Binance' has become a victim of the biggest and deadliest cyber attack ever. According...",
-   "link": "http://english.ratopati.com/story/85101/binance-suffers-largest-cyberattack-in-history-63-billion-worth-of-crypto-stolen-north-korean-hackers-suspected",
-   "source": "Ratopati EN",
-   "ts": 1793350950,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/binance_PWL5hXYWuZ.webp",
-   "lang": "en",
-   "hl": "Binance Suffers Massive Cyber Attack, Billions in Digital Assets Hacked",
-   "en": "Binance Suffers Massive Cyber Attack, Billions in Digital Assets Hacked",
-   "ne": "Binance Suffers Massive Cyber Attack, Billions in Digital Assets Hacked",
-   "imp": 1,
-   "tags": [
-    "Binance",
-    "CyberAttack",
-    "Crypto"
-   ],
-   "cat": "tech",
    "val": 3,
    "teaser": false,
    "hits": 2
@@ -5559,7 +5468,7 @@
    "cat": "world",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "शरद् ऋतुमा हिमाल आरोहणबाट ३२ करोड बढी राजस्व सङ्कलन",
@@ -8636,8 +8545,8 @@
    "cat": "sports"
   }
  ],
- "updated": 1793379746,
- "pending_since": null,
+ "updated": 1793380253,
+ "pending_since": 1793380249.1321342,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
