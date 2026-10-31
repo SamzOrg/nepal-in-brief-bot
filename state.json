@@ -1,9 +1,5 @@
 {
  "seen": {
-  "https://gorkhapatraonline.com/news/227593": 1793250650.1424496,
-  "https://risingnepaldaily.com/news/88181": 1793251247.2461095,
-  "http://english.ratopati.com/story/84926/changes-in-government-decision-making-process-comment-level-lowered-departmental-action-against-employees-for-delay": 1793251247.2461095,
-  "https://theannapurnaexpress.com/story/68308": 1793251247.2461095,
   "https://english.khabarhub.com/2026/29/573587/": 1793251864.8103716,
   "https://thehimalayantimes.com/nepal/caan-issues-aviation-safety-alert-ahead-of-cyclone-arnab": 1793251864.8103716,
   "https://nagariknews.nagariknetwork.com/social-affairs/complaint-filed-with-election-committee-against-bhatta-who-was-elected-as-a-central-member-of-the-congress-under-the-age-of-35-65-53.html": 1793251864.8103716,
@@ -2040,7 +2036,11 @@
   "https://gorkhapatraonline.com/news/227802": 1793422877.6227262,
   "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBvWmotMnRKMTNQUGRoZmVfOXoyOTRDOS1CZzdnd2ZTZUg0Z0pJU1p3YXNyRXphelNhVlBKREFWRVZCRE5qTkxyeDdkeUVQaWdn?oc=5": 1793422877.6227262,
   "https://news.google.com/rss/articles/CBMirgFBVV95cUxPX1RrWERCcmVsMndLV0JMeHZPclBpdm11bGJKczVGT0dTMEdQTVJoU2xZUWpjMVNybUMxSVF1WTEzZ1QwRFFiVmtydjRGTmZfa3FXSlRzcFdqY01nV214cE9hdWF6SUFkRGdKRTAtTDUxYl9SMUx6N3B5RkdwU3lNRWh0My01cmxDZzVta25oZGZ5b1hwT1A3eUZtNmM0OUVRc2VRYnZRZVVpOVJMdUE?oc=5": 1793422877.6227262,
-  "https://baahrakhari.com/detail/506182": 1793423446.0924633
+  "https://baahrakhari.com/detail/506182": 1793423446.0924633,
+  "https://baahrakhari.com/detail/506183": 1793424060.004698,
+  "https://gorkhapatraonline.com/news/227790": 1793424060.004698,
+  "http://english.ratopati.com/story/85164/ideological-diplomacy-in-the-light-of-national-development": 1793424060.004698,
+  "https://gorkhapatraonline.com/news/227804": 1793424060.004698
  },
  "queue": [
   {
@@ -3860,7 +3860,7 @@
    "cat": "culture",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Heavy rain in Manang; rainfall to ease across the country from today afternoon",
@@ -4456,7 +4456,7 @@
    "cat": "politics",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "अमेरिकामा आयोजित जी-२० बैठकमा युरोपेली कूटनीतिज्ञद्वारा रुसको बहिष्कार",
@@ -4637,20 +4637,32 @@
    "val": 3,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "सुस्ताका बाढीपीडितलाई राहत उपलब्ध गराउन प्रदेश सरकारसँग अनुरोध",
+   "summary": "पुरुषोत्तम सुवेदीपश्चिम नवलपरासी, कात्तिक १४ गते । चक्रवात 'अर्णव'का कारण वर्षा, बाढी, डुबान तथा पहिरोको जोखिम बढेसँगै पश्चिम नवलपरासीमा उच्च सतर्कता अपनाइएको छ । सम्भावित विपद् बा...",
+   "link": "https://gorkhapatraonline.com/news/227804",
+   "source": "Gorkhapatra",
+   "ts": 1793423438,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/389706/conversions/1-Picsart-AiImageEnhancer-original.jpg",
+   "lang": "ne",
+   "hl": "सुस्ताका बाढीपीडितलाई राहत उपलब्ध गराउन प्रदेश सरकारसँग अनुरोध",
+   "en": "सुस्ताका बाढीपीडितलाई राहत उपलब्ध गराउन प्रदेश सरकारसँग अनुरोध",
+   "ne": "सुस्ताका बाढीपीडितलाई राहत उपलब्ध गराउन प्रदेश सरकारसँग अनुरोध",
+   "imp": 3,
+   "tags": [
+    "Susta",
+    "Flood",
+    "बाढीपीडित"
+   ],
+   "cat": "disaster",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1792818664.9168212,
-   "en": "Sushil Bhatta and Inam Sapkota arrested in money laundering probe",
-   "ne": "Sushil Bhatta and Inam Sapkota arrested in money laundering probe",
-   "link": "https://myrepublica.nagariknetwork.com/amp/news/money-laundering-probe-targets-bhattas-network-basnet-walks-free-on-bail-71-25.html",
-   "source": "myRepublica",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "crime"
-  },
   {
    "ts": 1792820459.9303408,
    "en": "Communist Party of Nepal Launches Two-Month National Awareness Campaign",
@@ -7688,7 +7700,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1793423448,
+ "updated": 1793424070,
  "pending_since": 1793422877.6227262,
  "fb_blocks": [
   1790350880.4125228,
