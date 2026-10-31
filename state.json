@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYnFINHlTT1RjNUFOanFrcUQ4RlFpc1dwT2VGWUEzRDZ5NVlJeTRadTZzZU5jREZwLVNEcmJoS3BsVkFHUVB1RmhXSXk4N09mWWxFU0hJV2JfWld0S0kzWmtFZEhrWEl4UGxEclhnMVNibGtEVjloY1F1Zk9zRmZNbnVNTTlkcXB3aUhDV1Q3eXF5Ujg?oc=5": 1793244057.3211722,
   "https://nagariknews.nagariknetwork.com/social-affairs/20-million-rupees-grant-to-disaster-hit-baglung-municipality-98-54.html": 1793244670.1531358,
   "https://nagariknews.nagariknetwork.com/economy/manaslu-apples-are-stuck-in-the-warehouse-77-93.html": 1793244670.1531358,
   "https://risingnepaldaily.com/news/88176": 1793244670.1531358,
@@ -3338,29 +3337,6 @@
    "cat": "culture",
    "val": 1,
    "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "When There Is No Home to Return To: Nepal and the Future of Climate Migration",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQR1NBLVVwdzJ0N3hUem16eUp3a2hTcDRIcEFsR184LXhkcWVNNzhkRVVteTNDaExvRHNDcnBTNmI4T216NTdjMjFiV21kbFprWTc0SUpZOHA3aldoM1dhdTI4eF90N3Mta05TVnJNYk1oNUlYUGtSX0pjaXNWSm8wT20tSTJDWmhyTG16VG1OSHdBOGJaVHFYSHR4ZTdhRFlTUHNySWFyMFFzMzFBMm52dmtPOUFWMmRD?oc=5",
-   "source": "Human Rights First",
-   "ts": 1793391764,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "When There Is No Home to Return To: Nepal and the Future of Climate Migration",
-   "en": "When There Is No Home to Return To: Nepal and the Future of Climate Migration",
-   "ne": "When There Is No Home to Return To: Nepal and the Future of Climate Migration",
-   "imp": 4,
-   "tags": [
-    "ClimateMigration",
-    "Nepal",
-    "Environment"
-   ],
-   "cat": "disaster",
-   "val": 2,
-   "teaser": false,
    "hits": 1
   },
   {
@@ -6929,10 +6905,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "economy"
+  },
+  {
+   "ts": 1793417469.3829792,
+   "en": "Nepal Flood Kills 1,386 and Leaves Over 5,100 Missing After Glacier Collapse",
+   "ne": "Nepal Flood Kills 1,386 and Leaves Over 5,100 Missing After Glacier Collapse",
+   "link": "https://www.humanrightsfirst.org/library/when-there-is-no-home-to-return-to-nepal-and-the-future-of-climate-migration",
+   "source": "Human Rights First",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "disaster"
   }
  ],
- "updated": 1793416852,
- "pending_since": null,
+ "updated": 1793417481,
+ "pending_since": 1793417464.4099338,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
