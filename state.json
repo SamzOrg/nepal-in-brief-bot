@@ -1,12 +1,5 @@
 {
  "seen": {
-  "http://english.ratopati.com/story/84950/competition-between-kathmandu-gorkhas-and-janakpur-bolts": 1793256047.959375,
-  "https://www.setopati.com/sports/npl/401526": 1793256047.959375,
-  "http://english.ratopati.com/story/84949/train-crash-in-spain-68-dead-three-days-of-national-mourning-declared": 1793256047.959375,
-  "http://lokaantar.com/story/332131/2026/10/29/janakpur-kathmandu-": 1793256047.959375,
-  "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaFJsRV8zMHJ3RWY0T1pjY0FvUjE1S01HTG1WOThDSDIwLWtGWjJUZkdWb0k0c0FMcFN0YnM2QmY1Wm03THFtUkpvWkJoYmcxVXZ5YXVWejJlWDdYZThSU0N4ZG1BdUdtQzFZSXhEbng0NXZlQmhpNVpnWTJ0MW1kaTRqcDFpdzFzS0ZIQ0d5NzdYQjRhRTVZd0dNQWd2R3hCVHo0VWMxelZtUQ?oc=5": 1793256047.959375,
-  "https://www.setopati.com/social/401525": 1793256047.959375,
-  "https://english.khabarhub.com/2026/29/573595/": 1793256047.959375,
   "https://english.khabarhub.com/2026/29/573602/": 1793256648.0917718,
   "https://gorkhapatraonline.com/news/227617": 1793256648.0917718,
   "http://english.ratopati.com/story/84952/nepal-needs-74-billion-to-implement-ndc-30-adb": 1793256648.0917718,
@@ -2002,7 +1995,8 @@
   "https://nagariknews.nagariknetwork.com/social-affairs/incessant-rains-damage-two-houses-and-a-cowshed-in-bethanchowk-br-49-65.html": 1793428845.9193242,
   "https://www.setopati.com/social/401677": 1793428845.9193242,
   "http://english.ratopati.com/story/85175/a-dangerous-attempt-to-strengthen-the-ruler-by-making-the-state-system-weak": 1793428845.9193242,
-  "http://english.ratopati.com/story/85178/incessant-rains-damage-two-houses-and-a-cowshed-in-bethanchowk": 1793428845.9193242
+  "http://english.ratopati.com/story/85178/incessant-rains-damage-two-houses-and-a-cowshed-in-bethanchowk": 1793428845.9193242,
+  "http://english.ratopati.com/story/85185/two-roads-connecting-hetauda-kathmandu-blocked-pakhel-and-tribhuvan-highway-in-operation": 1793429447.6977546
  },
  "queue": [
   {
@@ -3113,29 +3107,6 @@
    "cat": "culture",
    "val": 1,
    "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "अन्तरसंयोजन दर्शन : के, किन र कसरी ?",
-   "summary": "केही दिनअघि मुहारपुस्तिकाको भित्तामा अन्तरसंयोजन दर्शनसम्बन्धी एउटा सानो स्टाटस राखेको थिएँ, जसको विषय थियो- अन्तरद्वन्द्ववादको विकल्पमा अन्तरसंयोजनवादी दर्शनको कुरा गरौँ भन्ने थियो तर यस सम्बन्धमा सोचेभन्दा धेरै नै...",
-   "link": "http://lokaantar.com/story/332249/2026/10/31/kamal-rijal-article-",
-   "source": "Lokaantar",
-   "ts": 1793400647.5532877,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "अन्तरसंयोजन दर्शन : के, किन र कसरी ?",
-   "en": "अन्तरसंयोजन दर्शन : के, किन र कसरी ?",
-   "ne": "अन्तरसंयोजन दर्शन : के, किन र कसरी ?",
-   "imp": 2,
-   "tags": [
-    "Philosophy",
-    "Culture",
-    "दर्शन"
-   ],
-   "cat": "culture",
-   "val": 1,
-   "teaser": true,
    "hits": 1
   },
   {
@@ -5476,17 +5447,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1792824060.452795,
-   "en": "Kathmandu Gorkhas sign Australian great David Warner for NPL third edition",
-   "ne": "Kathmandu Gorkhas sign Australian great David Warner for NPL third edition",
-   "link": "https://english.onlinekhabar.com/warner-kathmandu-gorkha.html",
-   "source": "Onlinekhabar EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "sports"
-  },
   {
    "ts": 1792825854.9858067,
    "en": "हेटौँडामा घरभित्रै पुरुष मृत फेला, श्रीमती घाइते अवस्थामा उद्धार",
@@ -8535,8 +8495,8 @@
    "cat": "disaster"
   }
  ],
- "updated": 1793428867,
- "pending_since": null,
+ "updated": 1793429451,
+ "pending_since": 1793429447.6977546,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
