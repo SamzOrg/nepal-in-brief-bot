@@ -1,8 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMixwJBVV95cUxQcUR4WlVZMzFnUFA0ZV8wdTFhUXh1WUh2VmI3bFpIVXA3OEpoQVd4aEM5WWsxakxCUC12TlZHeVp1NEc5SklsWVFpOW9COXVvQmdvSDY5ZmJmTHdwWEhUV0ZJTmZvZmVNYkhHZURRT2s0Ny1LNEZQUXhQU2h1WjhPd0ZRVUJxUlpnWFhuSmI0TEdibmZId2ZyYUFTQ1pWTkxrSl9CNUcyejlpdmZ0bjJvaVMwS1JBNWFUSDB5Uy0tMFRyTjYtSXpjSTdvR244WXFVWUNqOC1QbWx5dTczNGxtR3p1Zjh5QmxDSUtYMlluLXZSNGIzVDQwSl9qWmdOMnJmdDF0aE13RjlfaU4yTGZrZVhLeU5SNTJid2FPQUVDalZxOGRoTjRleTVHbWpnMXk3bjNXVk42RXgyZEhjVGtmVlY4djdwM00?oc=5": 1793287872.3995147,
-  "https://news.google.com/rss/articles/CBMixwJBVV95cUxPdWNfUmNLTkRnNHBZN0x2aXRHYVcwS3ptQ09oNUFqSlZzamVTemF0N2Z4dVZ0MjhBRGY1NDZjTXF4ejhsb19rcnZqV0pHc0lSd3pnVFJXU3Q3NmV0UTQ1bXlJUkxyU2tzVkpGdTljdHl2enhUY2ZBanRhZWJqa0FIRVRFRDBmMkt3eGxvUFVTcVVvNkNlTzNGNDhKRmFjcUVNNkpHZUpQVjlNLTRENjdKaXNFb0U5SnV2dGRtR2UyNHpaUVZiNXJ3VWdmLWJCMFhPbVFKQm1JTmVMczJtYUdDWVI2eVdWRFRmSHpqV05ucTBRcHNGZHZsTlJFZ0VVREQ2MF96dEwySDczWVlQa2k2andiV1ZLdkRLeklISnM4T2ppdXB1MW9nNjVpMlZYTkFIeEF4bjJCQjAtUDhXZkI4a25nd0c5M0k?oc=5": 1793287872.3995147,
-  "https://nagariknews.nagariknetwork.com/sports/explosive-batting-by-sompal-and-gulshan-karnali-s-sensational-win-chasing-a-target-of-187-runs-74-25.html": 1793287872.3995147,
   "https://nagariknews.nagariknetwork.com/politics/roads-on-prime-minister-s-election-agenda-contract-process-for-rs-1-22-billion-moves-forward-38-35.html": 1793288451.048173,
   "https://english.khabarhub.com/2026/29/573671/": 1793288451.048173,
   "https://baahrakhari.com/detail/506045": 1793288451.048173,
@@ -1872,7 +1869,8 @@
   "https://www.setopati.com/sports/npl/401714": 1793460661.5657766,
   "https://baahrakhari.com/detail/506219": 1793460661.5657766,
   "https://baahrakhari.com/detail/506220": 1793460661.5657766,
-  "http://lokaantar.com/story/332288/2026/10/31/game-": 1793460661.5657766
+  "http://lokaantar.com/story/332288/2026/10/31/game-": 1793460661.5657766,
+  "http://lokaantar.com/story/332287/2026/10/31/petrol-": 1793461246.044273
  },
  "queue": [
   {
@@ -1944,29 +1942,6 @@
    "hits": 1
   },
   {
-   "title": "Lessons from Nepal: A Bangladeshi Family's 6-Day Tour",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1CVWJaLWdsdVJPVDBWWXFKU3BTNGpuTW1VTlY3R1dFRnlWeU01SEJZbF81WHpyY0RzSkFXNW4yWGxPS2laamxWc1c4a2dYU2tiVGlvUFl6TXA2LWRITEE?oc=5",
-   "source": "www.businesstimes-bd.com",
-   "ts": 1793431899,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Lessons from Nepal: A Bangladeshi Family's 6-Day Tour",
-   "en": "Lessons from Nepal: A Bangladeshi Family's 6-Day Tour",
-   "ne": "Lessons from Nepal: A Bangladeshi Family's 6-Day Tour",
-   "imp": 2,
-   "tags": [
-    "Tourism",
-    "Bangladesh",
-    "Travel"
-   ],
-   "cat": "culture",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Oman Rescues Crew from Attacked Ship; Iran Stops Tankers in Strait of Hormuz",
    "summary": "Kathmandu. Oman has rescued 25 crew members from a commercial ship that caught fire after an attack on Friday. Meanwhile,...",
    "link": "http://english.ratopati.com/story/85198/tensions-in-the-strait-of-hormuz-iran-blocks-three-oil-tankers",
@@ -2013,30 +1988,6 @@
    "hits": 1
   },
   {
-   "title": "लुडो र कलब्रेकको सफलतापछि प्रधानमन्त्रीको लक्ष्य : नेपालमै अर्ब डलर कम्पनी बनाउने, नीतिगत सुधार गर्ने",
-   "summary": "प्रधानमन्त्री शाहका अनुसार सरकारले गेम विकासकर्तासँग छलफल गरी उनीहरूका समस्या बुझेको छ। गेम डेभलपमेन्ट क्षेत्रलाई सहज बनाउँदै उद्योगका रूपमा विकास गर्न आवश्यक गृहकार्य पनि अघि बढाइएको छ।...",
-   "link": "https://nagariknews.nagariknetwork.com/economy/after-the-success-of-ludo-and-callbreak-the-prime-minister-s-goal-is-to-create-a-billion-dollar-company-in-nepal-and-implement-policy-reforms-22-28.html",
-   "source": "Nagarik News",
-   "ts": 1793432173,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1793431938_PM%20Balendra%20Game.jpg",
-   "lang": "ne",
-   "hl": "लुडो र कलब्रेकको सफलतापछि प्रधानमन्त्रीको लक्ष्य : नेपालमै अर्ब डलर कम्पनी बनाउने, नीतिगत सुधार गर्ने",
-   "en": "लुडो र कलब्रेकको सफलतापछि प्रधानमन्त्रीको लक्ष्य : नेपालमै अर्ब डलर कम्पनी बनाउने, नीतिगत सुधार गर्ने",
-   "ne": "लुडो र कलब्रेकको सफलतापछि प्रधानमन्त्रीको लक्ष्य : नेपालमै अर्ब डलर कम्पनी बनाउने, नीतिगत सुधार गर्ने",
-   "imp": 3,
-   "tags": [
-    "PrimeMinister",
-    "TechStartup",
-    "Policy",
-    "प्रविधि"
-   ],
-   "cat": "tech",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
    "title": "Kylian Mbappe's Meme Remark Sparks Controversy in China, Leading to Apologies and Business Repercussions",
    "summary": "In response to a meme that went viral on social media, Kylian Mbappe indirectly referred to former Chinese leader Mao...",
    "link": "http://english.ratopati.com/story/85193/diplomatic-and-economic-tensions-caused-by-mbappes-reaction-to-mims",
@@ -2053,29 +2004,6 @@
     "KylianMbappe",
     "China",
     "Meme"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Human Rights Lawyer Arnon Nampa Sentenced to Over 34 Years in Prison in Thailand",
-   "summary": "Bangkok. Human rights lawyer Arnon Nampa, who protested in a Harry Potter costume demanding that Thailand's powerful monarchy be brought...",
-   "link": "http://english.ratopati.com/story/85197/lawyer-who-questioned-thai-monarchy-sentenced-to-more-than-34-years-in-prison",
-   "source": "Ratopati EN",
-   "ts": 1793432292,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/arnon-nampa_ExK8mD0xdX.webp",
-   "lang": "en",
-   "hl": "Human Rights Lawyer Arnon Nampa Sentenced to Over 34 Years in Prison in Thailand",
-   "en": "Human Rights Lawyer Arnon Nampa Sentenced to Over 34 Years in Prison in Thailand",
-   "ne": "Human Rights Lawyer Arnon Nampa Sentenced to Over 34 Years in Prison in Thailand",
-   "imp": 1,
-   "tags": [
-    "Thailand",
-    "HumanRights",
-    "ArnonNampa"
    ],
    "cat": "world",
    "val": 3,
@@ -2331,29 +2259,6 @@
     "फोहोर"
    ],
    "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "चर्चित निर्माता-निर्देशक सञ्जय गुप्ताको निधन",
-   "summary": "चर्चित निर्माता तथा निर्देशक सञ्जय गुप्ताको निधन भएको छ।",
-   "link": "https://nagariknews.nagariknetwork.com/arts/renowned-producer-director-sanjay-gupta-passes-away-36-33.html",
-   "source": "Nagarik News",
-   "ts": 1793432427,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1793433765_sanjay.jpg",
-   "lang": "ne",
-   "hl": "चर्चित निर्माता-निर्देशक सञ्जय गुप्ताको निधन",
-   "en": "चर्चित निर्माता-निर्देशक सञ्जय गुप्ताको निधन",
-   "ne": "चर्चित निर्माता-निर्देशक सञ्जय गुप्ताको निधन",
-   "imp": 3,
-   "tags": [
-    "SanjayGupta",
-    "Bollywood",
-    "Obituary"
-   ],
-   "cat": "world",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -3618,28 +3523,6 @@
    "hits": 2
   },
   {
-   "title": "विकासको विद्यमान कार्य संस्कृतिमा परिवर्तन आवश्यक : मुख्यमन्त्री भट्ट",
-   "summary": "सुदूरपश्चिम प्रदेशका मुख्यमन्त्री खगराज भट्टले राज्य सञ्चालन र विकासको विद्यमान कार्य संस्कृतिमा परिवर्तन आवश्यक रहेको बताएका छन् ।त्यसका लागि परिणाममुखी कार्ययोजना निर्माण गरी त्यसको प्रभावकारी कार्यान्वयनमा जोड...",
-   "link": "http://lokaantar.com/story/332270/2026/10/31/khagaraj-bhatta-",
-   "source": "Lokaantar",
-   "ts": 1793432445.8289955,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "विकासको विद्यमान कार्य संस्कृतिमा परिवर्तन आवश्यक : मुख्यमन्त्री भट्ट",
-   "en": "विकासको विद्यमान कार्य संस्कृतिमा परिवर्तन आवश्यक : मुख्यमन्त्री भट्ट",
-   "ne": "विकासको विद्यमान कार्य संस्कृतिमा परिवर्तन आवश्यक : मुख्यमन्त्री भट्ट",
-   "imp": 2,
-   "tags": [
-    "Bhattarai",
-    "Governance"
-   ],
-   "cat": "politics",
-   "val": 1,
-   "teaser": true,
-   "hits": 2
-  },
-  {
    "title": "Shah Rukh Khan's 'King' Overseas Rights Sold for 175 Crore INR, Setting New Record",
    "summary": "Mumbai. Actor Shah Rukh Khan's upcoming film 'King's overseas theatrical rights have been sold for 175 crore Indian Rupees.According to...",
    "link": "http://english.ratopati.com/story/85244/shahrukh-khans-king-sets-new-record-before-release",
@@ -3729,29 +3612,6 @@
    "val": 3,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "लगातारको वर्षापछि खुल्यो मौसम, सामान्य बन्दै जनजीवन",
-   "summary": "लगातारको वर्षापछि शनिबार दिउँसोदेखि काठमाडौं उपत्यकासहित देशका विभिन्न स्थानमा मौसम खुल्न थालेको छ । बिहानैदेखि वर्षा हुँदा प्रभावित बनेको जनजीवन मौसममा सुधार आएसँगै क्रमशः सामान्य बन्दै गएको छ ।भारतको बंगालको खाडीमा...",
-   "link": "http://lokaantar.com/story/332269/2026/10/31/mausam-",
-   "source": "Lokaantar",
-   "ts": 1793432445.8289955,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "लगातारको वर्षापछि खुल्यो मौसम, सामान्य बन्दै जनजीवन",
-   "en": "लगातारको वर्षापछि खुल्यो मौसम, सामान्य बन्दै जनजीवन",
-   "ne": "लगातारको वर्षापछि खुल्यो मौसम, सामान्य बन्दै जनजीवन",
-   "imp": 3,
-   "tags": [
-    "Weather",
-    "Rain",
-    "मौसम"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 3
   },
   {
    "title": "नौ लाख किसानलाई बजारसँग जोड्न श्रीलङ्कामा कृषि कार्यक्रम",
@@ -4994,29 +4854,6 @@
     "Sauraha",
     "GoldMedal",
     "तेक्वान्दो"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "सुदूरपश्चिमले जित्यो टस, पहिले बलिङ गर्ने",
-   "summary": "पाल प्रिमियर लिग (एनपीएल) अन्तर्गत शनिबार विराटनगर किंग्सविरुद्धको खेलमा सुदूरपश्चिम रोयल्सले टस जितेर पहिले बलिङ गर्ने निर्णय गरेको छ ।वर्षाका कारण मैदान भिजेपछि निर्धारित समयमा सुरु हुन नसकेको खेल ५ ओभरमा झारिएको छ ।...",
-   "link": "http://lokaantar.com/story/332288/2026/10/31/game-",
-   "source": "Lokaantar",
-   "ts": 1793446262.4133248,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "सुदूरपश्चिमले जित्यो टस, पहिले बलिङ गर्ने",
-   "en": "सुदूरपश्चिमले जित्यो टस, पहिले बलिङ गर्ने",
-   "ne": "सुदूरपश्चिमले जित्यो टस, पहिले बलिङ गर्ने",
-   "imp": 4,
-   "tags": [
-    "Sudurpaschim",
-    "Biratnagar",
-    "NPL"
    ],
    "cat": "sports",
    "val": 3,
@@ -8104,9 +7941,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "sports"
+  },
+  {
+   "ts": 1793461252.19142,
+   "en": "एनपीएल: विराटनगरविरुद्ध सुदूरपश्चिमले जित्यो टस, पहिले बलिङ गर्ने",
+   "ne": "एनपीएल: विराटनगरविरुद्ध सुदूरपश्चिमले जित्यो टस, पहिले बलिङ गर्ने",
+   "link": "http://lokaantar.com/story/332288/2026/10/31/game-",
+   "source": "Lokaantar",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "sports"
   }
  ],
- "updated": 1793460666,
+ "updated": 1793461267,
  "pending_since": 1793459446.5861197,
  "fb_blocks": [
   1790350880.4125228,
