@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://gorkhapatraonline.com/news/227589": 1793248266.6441803,
   "https://www.setopati.com/politics/401511": 1793249448.0080056,
   "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQUlaTDEwQ1JqNlhJWXhkOTNhQTMtLVhPOGRPQzI3NGJLd3BlajhXMTRLRlF5SUZ4NDB4NUtTLTEydDNSdW5FeGluY0VObE9Sa1NIUGxwV0cxZXViSHFoc1psSEdFcHZVMWhqNkpEM0JoZUhHNVJDUHhoQmx6VmdyVlRiVQ?oc=5": 1793249448.0080056,
   "https://gorkhapatraonline.com/news/227594": 1793250089.914028,
@@ -2035,7 +2034,9 @@
   "https://nagariknews.nagariknetwork.com/arts/they-eat-curd-they-get-drunk-with-milk-they-too-die-br-99-22.html": 1793420450.4942684,
   "https://nagariknews.nagariknetwork.com/politics/gokul-s-question-on-the-journalist-arrest-case-who-has-control-over-the-government-machinery-42-74.html": 1793420450.4942684,
   "http://english.ratopati.com/story/85159/4-killed-18-injured-in-two-separate-accidents-in-salyan": 1793421066.4857805,
-  "http://english.ratopati.com/story/85157/impact-of-arnab-high-risk-of-landslides-on-these-highways-urges-caution": 1793421066.4857805
+  "http://english.ratopati.com/story/85157/impact-of-arnab-high-risk-of-landslides-on-these-highways-urges-caution": 1793421066.4857805,
+  "https://gorkhapatraonline.com/news/227799": 1793421646.3751307,
+  "http://english.ratopati.com/story/85160/as-agricultural-production-declines-in-karnali-people-seeking-foreign-employment-increase": 1793421646.3751307
  },
  "queue": [
   {
@@ -2261,7 +2262,7 @@
    "cat": "disaster",
    "val": 3,
    "teaser": false,
-   "hits": 9
+   "hits": 10
   },
   {
    "title": "Earthen lamps bring income to rural women",
@@ -7484,7 +7485,7 @@
    "cat": "sports"
   }
  ],
- "updated": 1793421087,
+ "updated": 1793421650,
  "pending_since": 1793421066.4857805,
  "fb_blocks": [
   1790350880.4125228,
