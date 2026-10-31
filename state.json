@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://www.setopati.com/social/401503": 1793233868.4412527,
-  "https://baahrakhari.com/detail/505951": 1793233868.4412527,
   "http://lokaantar.com/story/332108/2026/10/29/high-speed-train-crash-": 1793234449.46033,
   "https://gorkhapatraonline.com/news/227559": 1793234449.46033,
   "https://baahrakhari.com/detail/505952": 1793234449.46033,
@@ -2073,7 +2071,9 @@
   "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZzlGNVFSM2hsYVdiR0xhVlAzY1ZOLWIyYzA3T3NUTDRsei1qbUpFWUctMkVubHF3Yi1PR01oTWJhTTNYeWR2M3VKclFpMHZZNTJiVmZBbkZZdVcxalA3VU5VSmU3RTE3ZFFLenVJeVJuRHMtWk5HMmpKSnVETWpBR3dxWFdldlpEVEgtaEtnaFRBT3RpYXg2Qy1MTXVGSy11cVdLeWlXcW9RSVNuRHJjdw?oc=5": 1793406045.7220387,
   "https://gorkhapatraonline.com/news/227753": 1793406045.7220387,
   "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9CQXRTWmRPcWR3dUVlUWMzdnRKWnJoSUQxa0xRSC1zclp0Mjhkd250WDU1Vjc0WUwxTTllZGVtV190Tm16WV9QRkNnUkJBVVZi?oc=5": 1793406045.7220387,
-  "https://gorkhapatraonline.com/news/227752": 1793406045.7220387
+  "https://gorkhapatraonline.com/news/227752": 1793406045.7220387,
+  "http://english.ratopati.com/story/85138/cyclone-arnab-and-the-effects-of-the-westerly-winds-continue-with-heavy-rain-likely-in-these-three-provinces-today": 1793407247.5552437,
+  "https://gorkhapatraonline.com/news/227757": 1793407247.5552437
  },
  "queue": [
   {
@@ -2662,6 +2662,30 @@
    "cat": "education",
    "val": 1,
    "teaser": true,
+   "hits": 1
+  },
+  {
+   "title": "पहिरो खसेपछि बिपी राजमार्ग अवरुद्ध",
+   "summary": "काभ्रेपलाञ्चोक, कात्तिक १४ गते । रोशी गाउँपालिका-९ पिन्थलीमा पहिरो खसेपछि बिपी राजमार्ग अवरुद्ध भएको छ ।जिल्ला प्रहरी कार्यालयले रोशी गाउँपालिका-८ गिम्दीबेँसीमा पनि पहिरो खसेको जना...",
+   "link": "https://gorkhapatraonline.com/news/227757",
+   "source": "Gorkhapatra",
+   "ts": 1793406952,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/389644/conversions/wipi-rajamarga-original.jpg",
+   "lang": "ne",
+   "hl": "पहिरो खसेपछि बिपी राजमार्ग अवरुद्ध",
+   "en": "पहिरो खसेपछि बिपी राजमार्ग अवरुद्ध",
+   "ne": "पहिरो खसेपछि बिपी राजमार्ग अवरुद्ध",
+   "imp": 4,
+   "tags": [
+    "BipHighway",
+    "Landslide",
+    "पहिरो",
+    "RoadBlocked"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
    "hits": 1
   }
  ],
@@ -5692,7 +5716,7 @@
    "cat": "sports"
   }
  ],
- "updated": 1793406666,
+ "updated": 1793407253,
  "pending_since": 1793406662.3384738,
  "fb_blocks": [
   1790350880.4125228,
