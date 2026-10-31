@@ -1,7 +1,5 @@
 {
  "seen": {
-  "http://lokaantar.com/story/332164/2026/10/29/lokaantar-news": 1793286091.367257,
-  "https://risingnepaldaily.com/news/88202": 1793286091.367257,
   "https://english.khabarhub.com/2026/29/573660/": 1793286656.2529702,
   "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOaUIxVE1CVnd3UXhRN0taSl91T3RvTmxDSkU1eDU4cnh5dTVETUJwdk5qQThFZ1JJNmNYeFRvVzhlODVGcDBFeTFCNkxwb3dwVXpJR1UzdGxnWnBQZ0hiVG5ORFViNzFqcURxdUFsWUZaOXRWNGRhbHZZNDdzODVNYkRkU19xa0dzLU52OGNCT3c2dkkzTE01RzhacHhOVnZZYm1jNkZ4d0pYYTBqNUQ2U3V0S0RieGJYc3B2WGpjazh2MFFkNTNpMktQaUNweFlEdFE?oc=5": 1793286656.2529702,
   "https://kathmandupost.com/cricket/2026/10/29/sompal-s-unbeaten-62-steers-karnali-to-last-over-win-over-biratnagar": 1793286656.2529702,
@@ -1877,53 +1875,6 @@
  },
  "queue": [
   {
-   "title": "दिलजीतको जवाफपछि अभिजीतले भने : सानो भाइ सम्झेर माफ गरिदिनु",
-   "summary": "दिलजीतको अभिव्यक्तिपछि सामाजिक सञ्जालमा प्रतिक्रिया दिँदै दिप्केले उनलाई पुरानो कुरा बिर्सेर आफूलाई सानो भाइ सम्झन आग्रह गरेका हुन्।...",
-   "link": "https://nagariknews.nagariknetwork.com/arts/after-diljit-s-response-abhijeet-said-i-forgive-you-as-a-younger-brother-25-91.html",
-   "source": "Nagarik News",
-   "ts": 1793430422,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1793430344_Abhijeet%20Dipke%20apologises%20to%20Diljit.jpg",
-   "lang": "ne",
-   "hl": "दिलजीतको जवाफपछि अभिजीतले भने : सानो भाइ सम्झेर माफ गरिदिनु",
-   "en": "दिलजीतको जवाफपछि अभिजीतले भने : सानो भाइ सम्झेर माफ गरिदिनु",
-   "ne": "दिलजीतको जवाफपछि अभिजीतले भने : सानो भाइ सम्झेर माफ गरिदिनु",
-   "imp": 1,
-   "tags": [
-    "Diljit",
-    "Abhijeet",
-    "Entertainment"
-   ],
-   "cat": "culture",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "त्रिवि क्रिकेट रंगशालाको पिच पानीले भरियो",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/506188",
-   "source": "Baahrakhari",
-   "ts": 1793430328,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "त्रिवि क्रिकेट रंगशालाको पिच पानीले भरियो",
-   "en": "त्रिवि क्रिकेट रंगशालाको पिच पानीले भरियो",
-   "ne": "त्रिवि क्रिकेट रंगशालाको पिच पानीले भरियो",
-   "imp": 3,
-   "tags": [
-    "TUCricketGround",
-    "Cricket",
-    "Rain",
-    "क्रिकेट"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
    "title": "दर्के झरीले निथ्रुक्क भिजेको काठमाडौं",
    "summary": "काठमाडौंमा मात्रै होइन देशका अधिकांश भूभागमा पानी परेको छ।",
    "link": "https://www.setopati.com/social/401679",
@@ -1943,52 +1894,6 @@
     "काठमाडौं"
    ],
    "cat": "society",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Nigerian Army Thwarts Attacks, Kills 48 Suspected ISWAP Militants",
-   "summary": "Nigeria. The Nigerian army has stated that it foiled two attacks on military bases in the northeastern states of Borno...",
-   "link": "http://english.ratopati.com/story/85190/attack-on-nigerian-military-base-foiled-military-claims-48-iswap-fighters-killed",
-   "source": "Ratopati EN",
-   "ts": 1793430106,
-   "weight": 2,
-   "img": "https://rpcdn.ratopati.com/media/albums/naijeriya-flag_QS7NnResH0.PNG",
-   "lang": "en",
-   "hl": "Nigerian Army Thwarts Attacks, Kills 48 Suspected ISWAP Militants",
-   "en": "Nigerian Army Thwarts Attacks, Kills 48 Suspected ISWAP Militants",
-   "ne": "Nigerian Army Thwarts Attacks, Kills 48 Suspected ISWAP Militants",
-   "imp": 1,
-   "tags": [
-    "Nigeria",
-    "Military",
-    "ISWAP"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "सरकारको कार्यगति अपेक्षाविपरीत सुस्त भयो",
-   "summary": "नेपालको ऊर्जा विकास र विद्युत् व्यवस्थापनमा उल्लेख्य योगदान दिएका कुलमान घिसिङ अहिले उज्यालो नेपाल पार्टीका अध्यक्ष छन्।...",
-   "link": "https://nagariknews.nagariknetwork.com/interview/government-s-work-slowed-down-unexpectedly-br-77-74.html",
-   "source": "Nagarik News",
-   "ts": 1793430365,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2024/third-party/1793430583_kulman%2098.jpg",
-   "lang": "ne",
-   "hl": "सरकारको कार्यगति अपेक्षाविपरीत सुस्त भयो",
-   "en": "सरकारको कार्यगति अपेक्षाविपरीत सुस्त भयो",
-   "ne": "सरकारको कार्यगति अपेक्षाविपरीत सुस्त भयो",
-   "imp": 3,
-   "tags": [
-    "Government",
-    "Politics",
-    "सरकार"
-   ],
-   "cat": "politics",
    "val": 2,
    "teaser": false,
    "hits": 1
@@ -4513,29 +4418,6 @@
    "val": 1,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "सुदूरपश्चिम र विराटनगरबीचको खेल पाँच ओभरको हुने",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/506211",
-   "source": "Baahrakhari",
-   "ts": 1793453425,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "सुदूरपश्चिम र विराटनगरबीचको खेल पाँच ओभरको हुने",
-   "en": "सुदूरपश्चिम र विराटनगरबीचको खेल पाँच ओभरको हुने",
-   "ne": "सुदूरपश्चिम र विराटनगरबीचको खेल पाँच ओभरको हुने",
-   "imp": 3,
-   "tags": [
-    "NepalPremierLeague",
-    "Cricket",
-    "NPL"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 6
   },
   {
    "title": "तामाङ घेदुङद्वारा तामाङद्वय सम्मानित",
@@ -8338,10 +8220,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "crime"
+  },
+  {
+   "ts": 1793459452.8871,
+   "en": "सुदूरपश्चिम र विराटनगरबीचको एनपीएल खेल वर्षाका कारण पाँच ओभरमा छोट्टियो",
+   "ne": "सुदूरपश्चिम र विराटनगरबीचको एनपीएल खेल वर्षाका कारण पाँच ओभरमा छोट्टियो",
+   "link": "https://baahrakhari.com/detail/506211",
+   "source": "Baahrakhari",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "sports"
   }
  ],
- "updated": 1793458885,
- "pending_since": null,
+ "updated": 1793459470,
+ "pending_since": 1793459446.5861197,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
