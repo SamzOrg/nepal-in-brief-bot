@@ -2040,7 +2040,12 @@
   "https://baahrakhari.com/detail/506183": 1793424060.004698,
   "https://gorkhapatraonline.com/news/227790": 1793424060.004698,
   "http://english.ratopati.com/story/85164/ideological-diplomacy-in-the-light-of-national-development": 1793424060.004698,
-  "https://gorkhapatraonline.com/news/227804": 1793424060.004698
+  "https://gorkhapatraonline.com/news/227804": 1793424060.004698,
+  "https://risingnepaldaily.com/news/88260": 1793424533.1410894,
+  "https://risingnepaldaily.com/news/88259": 1793424533.1410894,
+  "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSWQxVTUzS254VHNxR2hoLW9xbmdHeE5JMFJmcVByTWZ3N0ZLNVA2SEVZTFFJa3Y5QTlUVjVrZVc4TF9qbmlvZ0dqT3VsZXY4ZUxERFkyS2MzUlVtTUVxTG9SbF8wUXROQ2dUSXJBdm93QmNZZ29kck1CNHJoZ095OF9pMy0wQnFGaTliYkRKSlduekNjWHJLN3RzQjE1MWlsSWVOZzcxOHhodmFISV9z?oc=5": 1793424533.1410894,
+  "https://kathmandupost.com/national/2026/10/31/police-cite-pmo-concerns-to-justify-summoning-journalists": 1793424533.1410894,
+  "http://english.ratopati.com/story/85169/beni-jomsom-and-beni-darwang-roads-blocked": 1793424533.1410894
  },
  "queue": [
   {
@@ -2768,7 +2773,7 @@
    "cat": "politics",
    "val": 2,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "विपतमा बालबालिकाको सुरक्षा",
@@ -3906,7 +3911,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 3
+   "hits": 4
   },
   {
    "title": "कात्तिकमै मुस्ताङमा ३ फिट हिउँ, जनजीवन प्रभावित",
@@ -4136,7 +4141,7 @@
    "cat": "disaster",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "प्रतिदान (कविता)",
@@ -4391,7 +4396,7 @@
    "cat": "disaster",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "एआईको शक्ति",
@@ -7700,7 +7705,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1793424070,
+ "updated": 1793424539,
  "pending_since": 1793422877.6227262,
  "fb_blocks": [
   1790350880.4125228,
