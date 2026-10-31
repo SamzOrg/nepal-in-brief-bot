@@ -1868,29 +1868,6 @@
  },
  "queue": [
   {
-   "title": "विज्ञानको सीमा र आध्यात्मिक दावी",
-   "summary": "विज्ञानले थाहा नभएको कुरालाई थाहा छैन भन्न पनि सक्छ । यो कमजोरी होइन, वैज्ञानिक इमानदारी हो ।",
-   "link": "https://nagariknews.nagariknetwork.com/blog/the-limits-of-science-and-spiritual-claims-82-68.html",
-   "source": "Nagarik News",
-   "ts": 1793458068,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1793457476_Science.png",
-   "lang": "ne",
-   "hl": "विज्ञानको सीमा र आध्यात्मिक दावी",
-   "en": "विज्ञानको सीमा र आध्यात्मिक दावी",
-   "ne": "विज्ञानको सीमा र आध्यात्मिक दावी",
-   "imp": 1,
-   "tags": [
-    "Science",
-    "Spiritual",
-    "विज्ञान"
-   ],
-   "cat": "culture",
-   "val": 1,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Today's News in a Nutshell",
    "summary": "KATHMANDU: Khabarhub brings you a glimpse of major developments of the day in Nepal, including politics, business/economy, sports, entertainment, and more. No one above constitution and democracy: Rabi Lamichhane...",
    "link": "https://english.khabarhub.com/2026/31/573836/",
@@ -2435,29 +2412,6 @@
    "val": 2,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "Nepal Embassy thanks UP Police for rescuing 453 citizens from fake job racket in Kushinagar",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNZ3JDbW96TS1sZzRUb1ZpNEx4NEV1bXBEN1NCLXZQalREU3p4UXpsSERjTEJnM1pjcGVOUnQ5MHVSaFdDWXZWODZXaGVjN195c2JUZ00yTXFqQk9qN1hCa0R2ZWE1eDRlR3dLREVXNmFHd0xtckV5SE9vbUlwQk56OHFreEJDZVdXSUF6dlRkOU9qNm1ZemJXc0NqYndvaUZHb0dGUWZOSmxIOWpReVNteFhERmJzVGRmYjhQNFlLOXFlZFJuRGx4cktTX01xVTNVbWVxeWhicER6ZmpnVktIMmhNZmlYRzFmU3FQbThCRTZvZzR5LS1RUm130gH_AUFVX3lxTE5sLURPQmtJR0FwS2hHclFYRlZzZDNPQWFZaTJIUFRJU0ZqRk5FeGNna0NoNGNscC1rcjRwLV9yUmhSVjdtSnIxVm53U1dLUUhMNUxWWi1pS2JPcTl5ZVFFaTRLVkhIU2lOemxkV1ZBMVAzVmt4bXZkYzFINEtVcnVQS29sR1kwdkVLdERkRGlsNFJZNnJvUGlhTnA5bndzV2NKMHZLbnNZZzJjRTZaOXV2eXl1MmptSzh4MFB5XzI1Tzctc0VrN1BlNDVtV3M1cTRPNVlwM0QzTHpQbkRybzZmVTRQdzEyTE5RN2VDVEhxbWxFbXg4RXNTUjF0S2xvUQ?oc=5",
-   "source": "The Times of India",
-   "ts": 1793468700,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Nepal Embassy thanks UP Police for rescuing 453 citizens from fake job racket in Kushinagar",
-   "en": "Nepal Embassy thanks UP Police for rescuing 453 citizens from fake job racket in Kushinagar",
-   "ne": "Nepal Embassy thanks UP Police for rescuing 453 citizens from fake job racket in Kushinagar",
-   "imp": 3,
-   "tags": [
-    "FakeJobRacket",
-    "Kushinagar",
-    "Embassy"
-   ],
-   "cat": "crime",
-   "val": 3,
-   "teaser": false,
-   "hits": 6
   },
   {
    "title": "Sandip Lamichhane States Players Ready to Play, Awaits Officials' Decision on Match",
@@ -5866,9 +5820,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "politics"
+  },
+  {
+   "ts": 1793487050.7311835,
+   "en": "Nepal Embassy thanks UP Police for rescuing 453 citizens from fake job racket in Kushinagar",
+   "ne": "Nepal Embassy thanks UP Police for rescuing 453 citizens from fake job racket in Kushinagar",
+   "link": "https://timesofindia.indiatimes.com/city/lucknow/nepal-embassy-thanks-up-police-for-rescuing-453-citizens-from-fake-job-racket-in-kushinagar/articleshow/135408442.cms",
+   "source": "The Times of India",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "crime"
   }
  ],
- "updated": 1793486452,
+ "updated": 1793487062,
  "pending_since": 1793485245.9234614,
  "fb_blocks": [
   1790350880.4125228,
