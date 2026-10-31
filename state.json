@@ -1852,7 +1852,9 @@
   "http://english.ratopati.com/story/85278/we-were-ready-to-play-on-the-field-we-wanted-the-game-to-happen-sandeep-lamichhane": 1793470848.877467,
   "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeGk4RTZwM1lDeFQxRUJLOEY1MUlTVzNxMDFMQjBuQUVUbndGRURhR0Y0dTFac1gxMjdmNXFKUndjV2FiS1JiYm9EQnFlWThBQkM2em45cDZpWW5qaWVRT2RBaVhxY3h1MzZpSmRiSUxMd2NtTnJZVnFFYzd5bXJZUHRZT3RKMGNlNHJVb2NMX1dNMFQteEhhNA?oc=5": 1793470848.877467,
   "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQXNFQzl4M2ZvRkozNUp3LTBSRlNhek52SUpyZHJiczUybF81UmtsemQtZlBZZHJ6RlVhcVM1M2lBUjAzZHhUVnJ1VjJWamFxNkw1THk2M3g4T2JNdEJaVDl6Y1lKeG1oeUZCNmZwajdXQTlTMmVNMUZrZUtBSGttRl9OanlIRkNnR1I5WGZGeEh0ZGQ4RFR4MWYxalI5SkVmZFNHejFpZDgtUjdRME1QQWVDTHZGWi1sdVJMVlRNSWN0MUE1clVKTS13?oc=5": 1793470848.877467,
-  "https://gorkhapatraonline.com/news/227854": 1793470848.877467
+  "https://gorkhapatraonline.com/news/227854": 1793470848.877467,
+  "http://english.ratopati.com/story/85281/atletico-beats-levante-to-go-top-of-la-liga": 1793472646.819509,
+  "http://english.ratopati.com/story/85280/bournemouth-ease-to-victory-over-leeds": 1793472646.819509
  },
  "queue": [
   {
@@ -1920,52 +1922,6 @@
     "Health"
    ],
    "cat": "health",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "8 Landless Families Receive Land Ownership Certificates in Dang",
-   "summary": "Kathmandu. The District Land Problem Resolution Committee Dang has distributed land ownership certificates to 8 landless families. According to the...",
-   "link": "http://english.ratopati.com/story/85231/8-landless-families-in-dang-receive-land-titles",
-   "source": "Ratopati EN",
-   "ts": 1793443565,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/lalpurja-dhani-purja_PiosJUDK41.jpg",
-   "lang": "en",
-   "hl": "8 Landless Families Receive Land Ownership Certificates in Dang",
-   "en": "8 Landless Families Receive Land Ownership Certificates in Dang",
-   "ne": "8 Landless Families Receive Land Ownership Certificates in Dang",
-   "imp": 3,
-   "tags": [
-    "Dang",
-    "LandOwnership",
-    "दाङ"
-   ],
-   "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Giant Predatory Birds Once Dominated Skies, Hunting Humans",
-   "summary": "About 2.8 million years ago, in the savanna of South Africa, a three-year-old child was playing in a grassy field....",
-   "link": "http://english.ratopati.com/story/85213/those-giant-eagles-that-prey-on-human-children-they-also-influenced-human-development",
-   "source": "Ratopati EN",
-   "ts": 1793443500,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/eagle_EUEZiPY2GU.webp",
-   "lang": "en",
-   "hl": "Giant Predatory Birds Once Dominated Skies, Hunting Humans",
-   "en": "Giant Predatory Birds Once Dominated Skies, Hunting Humans",
-   "ne": "Giant Predatory Birds Once Dominated Skies, Hunting Humans",
-   "imp": 1,
-   "tags": [
-    "Science",
-    "Birds",
-    "History"
-   ],
-   "cat": "tech",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -4209,6 +4165,52 @@
    ],
    "cat": "culture",
    "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Atletico Madrid Defeats Levante 2-0 in La Liga",
+   "summary": "Kathmandu. Atletico Madrid has registered a 2-0 goal victory over Levante in Spanish La Liga football.Alejandro Grimaldo and Giuliano Simeone...",
+   "link": "http://english.ratopati.com/story/85281/atletico-beats-levante-to-go-top-of-la-liga",
+   "source": "Ratopati EN",
+   "ts": 1793472617,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/setting/banner-image_sPOGzj8QHe.jpg",
+   "lang": "en",
+   "hl": "Atletico Madrid Defeats Levante 2-0 in La Liga",
+   "en": "Atletico Madrid Defeats Levante 2-0 in La Liga",
+   "ne": "Atletico Madrid Defeats Levante 2-0 in La Liga",
+   "imp": 1,
+   "tags": [
+    "AtleticoMadrid",
+    "Levante",
+    "LaLiga"
+   ],
+   "cat": "sports",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Bournemouth Defeats Leeds 2-0 in Premier League",
+   "summary": "Bournemouth has registered a 2-0 goal victory over Leeds in the English Premier League football.In the match completed on Saturday...",
+   "link": "http://english.ratopati.com/story/85280/bournemouth-ease-to-victory-over-leeds",
+   "source": "Ratopati EN",
+   "ts": 1793472445,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/premier-league_35Yf6TLBR5.webp",
+   "lang": "en",
+   "hl": "Bournemouth Defeats Leeds 2-0 in Premier League",
+   "en": "Bournemouth Defeats Leeds 2-0 in Premier League",
+   "ne": "Bournemouth Defeats Leeds 2-0 in Premier League",
+   "imp": 1,
+   "tags": [
+    "Bournemouth",
+    "Leeds",
+    "PremierLeague"
+   ],
+   "cat": "sports",
+   "val": 3,
    "teaser": false,
    "hits": 1
   }
@@ -7295,7 +7297,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1793472048,
+ "updated": 1793472651,
  "pending_since": 1793471463.2724998,
  "fb_blocks": [
   1790350880.4125228,
