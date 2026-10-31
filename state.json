@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0zbG1IUDRmWXh2cFUyNXduSlU4c2FvMk9DazVDWERTMFlhNGdyd05EWk9ES2ZqUWZXdTNwTWhZRWhBZU1WUTNSdlA3YWk4NXZwWTNNVGgxektMZThD?oc=5": 1793272852.7437484,
-  "https://baahrakhari.com/detail/506011": 1793272852.7437484,
   "https://thehimalayantimes.com/nepal/dot-warns-trekkers-and-climbers-of-snowstorm-avalanche-risks": 1793273472.5218883,
   "https://english.khabarhub.com/2026/29/573640/": 1793274049.9268458,
   "http://english.ratopati.com/story/85006/ravi-meets-speaker-as-inam-issue-heats-up": 1793274049.9268458,
@@ -1912,7 +1910,13 @@
   "http://english.ratopati.com/story/85213/those-giant-eagles-that-prey-on-human-children-they-also-influenced-human-development": 1793445047.957611,
   "https://nagariknews.nagariknetwork.com/sports/the-cover-of-the-field-has-been-removed-there-is-a-strong-possibility-of-a-match-between-sudurpaschim-and-biratnagar-87-46.html": 1793445047.957611,
   "http://english.ratopati.com/story/85229/arrests-of-journalists-exposed-the-internal-strife-in-the-rashtriya-swayamsevak-sangh-rss-prabhu-sah": 1793445047.957611,
-  "https://nagariknews.nagariknetwork.com/international/six-killed-in-kenya-highway-accident-br-82-31.html": 1793445047.957611
+  "https://nagariknews.nagariknetwork.com/international/six-killed-in-kenya-highway-accident-br-82-31.html": 1793445047.957611,
+  "http://english.ratopati.com/story/85243/snowfall-in-high-mountainous-regions-along-with-rain-in-bajura": 1793446264.05834,
+  "http://english.ratopati.com/story/85240/proposal-to-create-a-joint-tourism-circuit-connecting-lumbini-and-goa-india": 1793446264.05834,
+  "http://english.ratopati.com/story/85224/when-the-cry-of-karnali-echoed-in-the-tribhuvan-university-grounds": 1793446264.05834,
+  "https://kathmandupost.com/national/2026/10/31/nepal-and-mauritius-move-closer-to-government-to-government-labour-agreement": 1793446264.05834,
+  "http://english.ratopati.com/story/85242/sanjay-gupta-director-of-kaante-and-kaabil-passes-away": 1793446264.05834,
+  "https://news.google.com/rss/articles/CBMirAFBVV95cUxPX3prVmsyWUItNUlOemZnYmRFZEdCbFZyUEo1cHY3NzRSaC1YLWItMnRoNkVnVXFlaERRcHFGRGZYVXNUNXV2RDQ0S0c2VDdRTG1fVVJTSVlpLWl3LV9fOFlKTzk1Qnd0Vm8zVXhHdGVYTmxORjVLNl9BZm9TdWQtNElWT1JJR09ncGFkSERja0Y3VmoxV3JkaEJ3WHhTeVpwSndlZWZ0RFF5cjRq0gGzAUFVX3lxTE9QMjBRMkpraE5HY1dRRXd2OV9XbzBZOGl2MjhCRF9FNXRselp5SlhybkRBTjBCQ1ZNckh2dFBDS3h5emhyRDhnTTVndVYtSDd2dFc1N2wwRF9jZkdRNk5DdTJWclVzWHB0Q0k5b2Z3UGtlckdvTkhEQkZnanI2S3NMbnE1bFJhWTkzN002VDhnOXdYT3RfcHZncGRJc1hvUHEwdHN6WDZJazRjU2ktMEV2eWxv?oc=5": 1793446264.05834
  },
  "queue": [
   {
@@ -2352,29 +2356,6 @@
    "cat": "world",
    "val": 1,
    "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "दही खान्छन्, दुधले चुठ्छन्, उनी पनि मर्छन्!",
-   "summary": "धर्म कर्म अमीर फकिर मृत्युमा भेद हुन्न, दही खान्छन् दुधले चुठ्छन् उनी पनि मर्छन्।",
-   "link": "https://nagariknews.nagariknetwork.com/arts/they-eat-curd-they-get-drunk-with-milk-they-too-die-br-99-22.html",
-   "source": "Nagarik News",
-   "ts": 1793417354,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1775284073_Kaji%20sir%2052.jpg",
-   "lang": "ne",
-   "hl": "दही खान्छन्, दुधले चुठ्छन्, उनी पनि मर्छन्!",
-   "en": "दही खान्छन्, दुधले चुठ्छन्, उनी पनि मर्छन्!",
-   "ne": "दही खान्छन्, दुधले चुठ्छन्, उनी पनि मर्छन्!",
-   "imp": 1,
-   "tags": [
-    "Article",
-    "Opinion",
-    "विचार"
-   ],
-   "cat": "culture",
-   "val": 1,
-   "teaser": false,
    "hits": 1
   },
   {
@@ -3634,29 +3615,6 @@
    "hits": 1
   },
   {
-   "title": "विदेशको रोजगारी छाडेर स्वदेशमै लोभलाग्दो कमाइ",
-   "summary": "बुटवलमा युवा उद्यमी गणेश न्यौपानेले किसानको गोठबाट उत्पादित दूधलाई समृद्धिको आधार बनाएका छन् । दशकअघि सामान्य दूध संकलन र बिक्रीबाट व्यवसायमा हात हालेका गणेशले अहिले डेरी उद्योग नै सञ्चालन गर्न थालेका हुन् । बुटवल...",
-   "link": "http://lokaantar.com/story/332261/2026/10/31/ganesh-neupane-",
-   "source": "Lokaantar",
-   "ts": 1793416849.7139025,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "विदेशको रोजगारी छाडेर स्वदेशमै लोभलाग्दो कमाइ",
-   "en": "विदेशको रोजगारी छाडेर स्वदेशमै लोभलाग्दो कमाइ",
-   "ne": "विदेशको रोजगारी छाडेर स्वदेशमै लोभलाग्दो कमाइ",
-   "imp": 2,
-   "tags": [
-    "Employment",
-    "Agriculture",
-    "SuccessStory"
-   ],
-   "cat": "society",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "मलाई पनि इशारा दिऊँ दिऊँ भो!",
    "summary": "'बिहे नगर्ने सर?' अकस्मात् प्रश्न गरी उसले। उसका प्रश्नले छुट्टै झन्का दियो। अरूको भन्दा उसको प्रश्नलाई अलग रूपमा लिएँ। त्यसले तरङ्गित बनायो मलाई। जबाफ दिनै सकिनँ।",
    "link": "https://www.setopati.com/literature/401521",
@@ -3748,7 +3706,7 @@
    "cat": "disaster",
    "val": 3,
    "teaser": false,
-   "hits": 4
+   "hits": 5
   },
   {
    "title": "Government Forms Task Force to Develop Nepal as Regional Medical Hub",
@@ -5725,6 +5683,51 @@
     "Highway"
    ],
    "cat": "world",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Filmmaker Sanjay Gupta Dies After Falling in Kitchen",
+   "summary": "Mumbai. Sanjay Gupta, who directed famous films like 'Kaante', 'Kaabil', 'Shootout at Lokhandwala' and 'Mumbai Saga', has died. According to...",
+   "link": "http://english.ratopati.com/story/85242/sanjay-gupta-director-of-kaante-and-kaabil-passes-away",
+   "source": "Ratopati EN",
+   "ts": 1793446036,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/sanjay_gupta_1793427077289_ziq1_DHaCXE7eKy.webp",
+   "lang": "en",
+   "hl": "Filmmaker Sanjay Gupta Dies After Falling in Kitchen",
+   "en": "Filmmaker Sanjay Gupta Dies After Falling in Kitchen",
+   "ne": "Filmmaker Sanjay Gupta Dies After Falling in Kitchen",
+   "imp": 1,
+   "tags": [
+    "SanjayGupta",
+    "Film"
+   ],
+   "cat": "culture",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Despite flood devastation, how Nepal continued exporting power to India",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPX3prVmsyWUItNUlOemZnYmRFZEdCbFZyUEo1cHY3NzRSaC1YLWItMnRoNkVnVXFlaERRcHFGRGZYVXNUNXV2RDQ0S0c2VDdRTG1fVVJTSVlpLWl3LV9fOFlKTzk1Qnd0Vm8zVXhHdGVYTmxORjVLNl9BZm9TdWQtNElWT1JJR09ncGFkSERja0Y3VmoxV3JkaEJ3WHhTeVpwSndlZWZ0RFF5cjRq0gGzAUFVX3lxTE9QMjBRMkpraE5HY1dRRXd2OV9XbzBZOGl2MjhCRF9FNXRselp5SlhybkRBTjBCQ1ZNckh2dFBDS3h5emhyRDhnTTVndVYtSDd2dFc1N2wwRF9jZkdRNk5DdTJWclVzWHB0Q0k5b2Z3UGtlckdvTkhEQkZnanI2S3NMbnE1bFJhWTkzN002VDhnOXdYT3RfcHZncGRJc1hvUHEwdHN6WDZJazRjU2ktMEV2eWxv?oc=5",
+   "source": "The Indian Express",
+   "ts": 1793445454,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "Despite flood devastation, how Nepal continued exporting power to India",
+   "en": "Despite flood devastation, how Nepal continued exporting power to India",
+   "ne": "Despite flood devastation, how Nepal continued exporting power to India",
+   "imp": 3,
+   "tags": [
+    "Floods",
+    "PowerExport",
+    "India"
+   ],
+   "cat": "economy",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -8801,7 +8804,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1793445649,
+ "updated": 1793446271,
  "pending_since": 1793445095.5292265,
  "fb_blocks": [
   1790350880.4125228,
