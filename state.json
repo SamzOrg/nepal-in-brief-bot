@@ -1858,97 +1858,6 @@
  },
  "queue": [
   {
-   "title": "प्रश्नसँग डराएको सरकार!",
-   "summary": "समाचारमा उठेका प्रश्नको जवाफ दिनुको सट्टा पत्रकारमाथि धरपकड भएको भन्दै आलोचना, विश्लेषक भन्छन्; 'सरकार प्रश्नसँग डरायो'...",
-   "link": "https://nagariknews.nagariknetwork.com/politics/a-government-afraid-of-questions-94-80.html",
-   "source": "Nagarik News",
-   "ts": 1793440115,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1793440097_Sudhan_Balen.jpg",
-   "lang": "ne",
-   "hl": "प्रश्नसँग डराएको सरकार!",
-   "en": "प्रश्नसँग डराएको सरकार!",
-   "ne": "प्रश्नसँग डराएको सरकार!",
-   "imp": 3,
-   "tags": [
-    "Government",
-    "Nepal",
-    "प्रहरी"
-   ],
-   "cat": "politics",
-   "val": 1,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "विश्वभन्दा २० वर्षअघि नै जनसंख्याको शिखरमा पुग्दै नेपाल",
-   "summary": "नेपालमा जनसंख्या घट्दै जाँदा काम गर्ने उमेरका मानिस पनि कम हुँदै जानेछन्। तर भविष्यको नेपाल आजको भन्दा बढी पढेलेखेको हुनेछ। नयाँ अध्ययनले सन् २३०० सम्मको नेपालको जनसंख्या, उमेर र शैक्षिक अवस्थाको प्रक्षेपण गरेको छ।",
-   "link": "https://www.setopati.com/opinion/401623",
-   "source": "Setopati",
-   "ts": 1793440096,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "विश्वभन्दा २० वर्षअघि नै जनसंख्याको शिखरमा पुग्दै नेपाल",
-   "en": "विश्वभन्दा २० वर्षअघि नै जनसंख्याको शिखरमा पुग्दै नेपाल",
-   "ne": "विश्वभन्दा २० वर्षअघि नै जनसंख्याको शिखरमा पुग्दै नेपाल",
-   "imp": 3,
-   "tags": [
-    "Population",
-    "Nepal",
-    "जनसङ्ख्या"
-   ],
-   "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Jay Nepal Party Central Committee Meeting Postponed",
-   "summary": "Kathmandu. The central committee meeting of the Jay Nepal Party led by Dhaval Shamsher Rana has been postponed. The meeting...",
-   "link": "http://english.ratopati.com/story/85217/jai-nepal-partys-central-working-committee-meeting-postponed",
-   "source": "Ratopati EN",
-   "ts": 1793440005,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/dhawal-shamser_pzjG9GaVV6.jpg",
-   "lang": "en",
-   "hl": "Jay Nepal Party Central Committee Meeting Postponed",
-   "en": "Jay Nepal Party Central Committee Meeting Postponed",
-   "ne": "Jay Nepal Party Central Committee Meeting Postponed",
-   "imp": 2,
-   "tags": [
-    "JayNepalParty",
-    "Meeting"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "North Korean Hackers Suspected in $6.3 Billion Binance Hack",
-   "summary": "Kathmandu. North Korea's state-sponsored hacker group is suspected of involvement in the hacking of the world's largest cryptocurrency exchange Binance,...",
-   "link": "http://english.ratopati.com/story/85202/why-is-north-koreas-influential-hacker-suspected-in-the-binance-hack",
-   "source": "Ratopati EN",
-   "ts": 1793439900,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/102026-binance-hacked_Z9rKwzUugk.webp",
-   "lang": "en",
-   "hl": "North Korean Hackers Suspected in $6.3 Billion Binance Hack",
-   "en": "North Korean Hackers Suspected in $6.3 Billion Binance Hack",
-   "ne": "North Korean Hackers Suspected in $6.3 Billion Binance Hack",
-   "imp": 1,
-   "tags": [
-    "NorthKorea",
-    "Binance",
-    "Hack"
-   ],
-   "cat": "tech",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Hetauda-Kathmandu Road Section to Close for 12 Hours Due to Potential Kulekhani Reservoir Flood Risk",
    "summary": "Hetauda. The Hetauda-Kathmandu connecting road section of Bhimfedi-Deurali-Kulekhani may have to open its dam gates due to rising water levels...",
    "link": "http://english.ratopati.com/story/85219/vehicular-movement-suspended-on-bhimphedi-kulekhani-road-after-kulekhani-reservoir-level-rises",
@@ -7642,7 +7551,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1793468448,
+ "updated": 1793469048,
  "pending_since": 1793468445.5402968,
  "fb_blocks": [
   1790350880.4125228,
