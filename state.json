@@ -2041,7 +2041,9 @@
   "https://nagariknews.nagariknetwork.com/politics/government-should-stop-unlawful-arrests-and-harassment-of-journalists-congress-95-45.html": 1793416845.268469,
   "https://nagariknews.nagariknetwork.com/social-affairs/children-playing-outside-school-br-59-27.html": 1793416845.268469,
   "https://nagariknews.nagariknetwork.com/arts/needless-to-say-flowers-belong-to-both-bees-and-bumblebees-br-24-71.html": 1793416845.268469,
-  "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5GcVpfbWtjbkRZZ1NVYWxyYTZ4a0o1SHpmc3BjekM3X2F6UTZnUTNpQUVnaHN1YkNLOGp0V2JfM1BEZ0h2OHJ2Rk9fTjR0RDJMTzg0VXB2bw?oc=5": 1793418046.487736
+  "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5GcVpfbWtjbkRZZ1NVYWxyYTZ4a0o1SHpmc3BjekM3X2F6UTZnUTNpQUVnaHN1YkNLOGp0V2JfM1BEZ0h2OHJ2Rk9fTjR0RDJMTzg0VXB2bw?oc=5": 1793418046.487736,
+  "https://risingnepaldaily.com/news/88258": 1793418646.3520555,
+  "https://baahrakhari.com/detail/506177": 1793418646.3520555
  },
  "queue": [
   {
@@ -3840,20 +3842,32 @@
    "val": 1,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "बाढीपहिरोले पाँच स्थानका सडक अवरुद्ध, कान्तिलोकपथमा राति गाडी चलाउन नपाइने",
+   "summary": "",
+   "link": "https://baahrakhari.com/detail/506177",
+   "source": "Baahrakhari",
+   "ts": 1793418370,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "बाढीपहिरोले पाँच स्थानका सडक अवरुद्ध, कान्तिलोकपथमा राति गाडी चलाउन नपाइने",
+   "en": "बाढीपहिरोले पाँच स्थानका सडक अवरुद्ध, कान्तिलोकपथमा राति गाडी चलाउन नपाइने",
+   "ne": "बाढीपहिरोले पाँच स्थानका सडक अवरुद्ध, कान्तिलोकपथमा राति गाडी चलाउन नपाइने",
+   "imp": 3,
+   "tags": [
+    "Flood",
+    "Kantilokpath",
+    "पहिरो"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": true,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1792813257.772205,
-   "en": "भारतको बिहारमा पटाका बनाउने क्रममा विस्फोट हुँदा पाँच जनाको मृत्यु",
-   "ne": "भारतको बिहारमा पटाका बनाउने क्रममा विस्फोट हुँदा पाँच जनाको मृत्यु",
-   "link": "https://nagariknews.nagariknetwork.com/international/five-killed-in-massive-explosion-while-making-firecrackers-95-44.html",
-   "source": "Nagarik News",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "disaster"
-  },
   {
    "ts": 1792815055.568851,
    "en": "वेस्ट इन्डिजका शेरफन रदरफोर्डले सुदूरपश्चिम रोयल्सबाट एनपीएल खेल्ने",
@@ -6891,7 +6905,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1793418052,
+ "updated": 1793418653,
  "pending_since": 1793417464.4099338,
  "fb_blocks": [
   1790350880.4125228,
