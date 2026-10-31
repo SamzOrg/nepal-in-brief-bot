@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://www.setopati.com/social/401504": 1793235680.52051,
-  "https://english.khabarhub.com/2026/29/573543/": 1793235680.52051,
   "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdEV2RXdyVWNtM29LRXgwTlBVUXZyRGNrWDloajkwdk1ock9jTzdBR2szMDd2bm1yNFlPdmk1bXBPLUNYM3I3RlBYczZtY2Zpc0VDc2hEMFJHVG1CRzk4N1dXcDdjZnoycENrZ2liUFJYdi03QXhBZHVYVnNUTzhJWkpka0lrLUR1UE5NeTNmQlZCQ1RtLXR6YXp1QmZzLUdw?oc=5": 1793236250.586714,
   "http://english.ratopati.com/story/84895/janakpur-and-kathmandu-and-karnali-and-biratnagar-are-facing-off-who-is-ahead-in-a-head-to-head-match": 1793236250.586714,
   "https://english.khabarhub.com/2026/29/573556/": 1793236250.586714,
@@ -2074,7 +2072,10 @@
   "https://baahrakhari.com/detail/506160": 1793408476.9860263,
   "https://gorkhapatraonline.com/news/227758": 1793408476.9860263,
   "https://gorkhapatraonline.com/news/227756": 1793408476.9860263,
-  "https://gorkhapatraonline.com/news/227755": 1793408476.9860263
+  "https://gorkhapatraonline.com/news/227755": 1793408476.9860263,
+  "https://english.khabarhub.com/2026/31/573801/": 1793409045.0852597,
+  "https://gorkhapatraonline.com/news/227762": 1793409045.0852597,
+  "https://news.google.com/rss/articles/CBMixgFBVV95cUxNeXdZUlhNV0o3TEw3RElGTGlLM0ZFbGlIUWFjTEtmR2Rsdnk2QTVlZnJlVmQ0Y0NaTkxwc1BvUFptMkpGSEJZcW9DV2F3a3pqZG1IZklZYlpwM1d6RXp3bVJsT2xGRlV3VWFIT1BnWDBqbDJSS3ltNVVabHZKVmJlVnVZS2Q2d1E2NzgtT3BudVltWVJlZUl1RVpQU0UzUGtvTld4T1JaaEhoU0xabXlvZ2VDUEFUS0lzeC1SOVg4ejMyZll3dkE?oc=5": 1793409045.0852597
  },
  "queue": [
   {
@@ -2096,29 +2097,6 @@
     "PMOffice"
    ],
    "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Advance Lives funds 30 wells in Nepal in September with help from donation match",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNOWpoRVpKZFpqZXZEbi1qM2JRcVkybDBKekVOOXBTQkh3SFV1d2k3Rm85TVJPeWNZTnZSRE9pZ0VpUm5GYmlzOXkzTHVBb3pvVWtOWV9xYzJZNVBGS0NoVHdxWjlfNFBEWFUxYjVDV1JKb1BGdXZaVXNaczQyaGdvcWJ3d291Y19CN1p0dWU2SE1CNno0cmF5T1JpUGtNUDl2ZlMxLXpsTTNSaVRiS0VySl9mMm82TTJOMHJrTTVRQjlXbG9EdG1aOWlVNmI?oc=5",
-   "source": "BurlingtonToday.com",
-   "ts": 1793379906,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Advance Lives funds 30 wells in Nepal in September with help from donation match",
-   "en": "Advance Lives funds 30 wells in Nepal in September with help from donation match",
-   "ne": "Advance Lives funds 30 wells in Nepal in September with help from donation match",
-   "imp": 2,
-   "tags": [
-    "AdvanceLives",
-    "Wells",
-    "RuralDevelopment"
-   ],
-   "cat": "society",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -2187,7 +2165,7 @@
    "cat": "culture",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "The Climate Accountability Crisis: Human Rights Lessons from Nepal",
@@ -2595,30 +2573,6 @@
    "hits": 1
   },
   {
-   "title": "BP Highway Blocked by Landslides in Kavrepalanchok",
-   "summary": "Kavrepalanchok. BP Highway has been blocked after landslides in Pinthali of Roshi Rural Municipality-9. The District Police Office has stated...",
-   "link": "http://english.ratopati.com/story/85139/bp-highway-blocked-after-landslide-in-pinthali",
-   "source": "Ratopati EN",
-   "ts": 1793407369,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/bp-highway-(1)_35i8dgh3SR.jpg",
-   "lang": "en",
-   "hl": "BP Highway Blocked by Landslides in Kavrepalanchok",
-   "en": "BP Highway Blocked by Landslides in Kavrepalanchok",
-   "ne": "BP Highway Blocked by Landslides in Kavrepalanchok",
-   "imp": 4,
-   "tags": [
-    "BPHighway",
-    "Kavrepalanchok",
-    "Landslide",
-    "पहिरो"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "चक्रवात 'अर्णव'को प्रभावले तीन प्रदेशमा भारी वर्षाको सम्भावना, भोलिदेखि मौसममा केही सुधार हुने",
    "summary": "काठमाडौँ, कात्तिक १४ गते । बङ्गालको खाडीमा विकसित चक्रवात 'अर्णव'को अवशेष र पश्चिमी वायुको आंशिक प्रभाव हाल देशभर रहेको जनाउँदै मौसम पूर्वानुमान महाशाखाले देशभर अधिकांश स्थानमा बाद...",
    "link": "https://gorkhapatraonline.com/news/227761",
@@ -2662,7 +2616,7 @@
    "cat": "sports",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Earthen lamps bring income to rural women",
@@ -5906,8 +5860,8 @@
    "cat": "society"
   }
  ],
- "updated": 1793408504,
- "pending_since": null,
+ "updated": 1793409049,
+ "pending_since": 1793409045.0852597,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
