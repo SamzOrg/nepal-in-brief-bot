@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://baahrakhari.com/detail/506034": 1793281250.319063,
-  "http://english.ratopati.com/story/85020/emergency-pcc-meeting-called-by-igp-concludes": 1793281250.319063,
   "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUmREaEF1MmNYT3U1dEpfTkR3ZkdkeW1IZmhKVUFyZDdLTHU2Z1ZFUFdqYjQ5RGVOTDFPZGJNWUxSdXhJLVh0N0lPaFZEVGRKM3EwZ1ZOcW42eXpsRnNLSHppNFdXSWRqYk9XM29UeGxRRmowLUFYeTZycC1sZF9tX2VmWGZiVXh4ZlF0QVRrLUxuRGNWa1MwVDhRc3Q?oc=5": 1793281850.0089092,
   "https://theannapurnaexpress.com/story/68324": 1793281850.0089092,
   "https://kathmandupost.com/world/2026/10/29/spanish-train-crash-death-toll-rises-to-69-as-rescuers-search-for-victims": 1793281850.0089092,
@@ -2085,29 +2083,6 @@
    "val": 2,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "वर्षाले पर्यटकीय गतिविधि प्रभावित",
-   "summary": "गण्डकी, कात्तिक १४ गते । प्रतिकूल मौसमका कारण पोखरासहितका क्षेत्रमा पर्यटकीय गतिविधि प्रभावित बनेको छ । दसैँलगत्तै यहाँका विभिन्न गन्तव्यमा पर्यटक बढेकामा शुक्रबारदेखि भएको वर्षा र...",
-   "link": "https://gorkhapatraonline.com/news/227807",
-   "source": "Gorkhapatra",
-   "ts": 1793425518,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/389709/conversions/RT_GANDAKI_IMG_7171-original.jpg",
-   "lang": "ne",
-   "hl": "वर्षाले पर्यटकीय गतिविधि प्रभावित",
-   "en": "वर्षाले पर्यटकीय गतिविधि प्रभावित",
-   "ne": "वर्षाले पर्यटकीय गतिविधि प्रभावित",
-   "imp": 3,
-   "tags": [
-    "Tourism",
-    "Rain",
-    "पर्यटन"
-   ],
-   "cat": "economy",
-   "val": 2,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "Federal Court Blocks Justice Department From Threatening Election Officials",
@@ -5553,17 +5528,6 @@
  ],
  "posted": [
   {
-   "ts": 1792849263.622766,
-   "en": "Pakistan captain Farhan in Nepal for the NPL",
-   "ne": "Pakistan captain Farhan in Nepal for the NPL",
-   "link": "https://ekantipur.com/sports/2026/10/24/en/pakistan-captain-farhan-in-nepal-for-npl-50-51.html",
-   "source": "Ekantipur",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "sports"
-  },
-  {
    "ts": 1792851074.0268414,
    "en": "विश्व भोकमरी सूचकमा नेपाल ७२औँ स्थानमा, अवस्था मध्यम श्रेणीमा",
    "ne": "विश्व भोकमरी सूचकमा नेपाल ७२औँ स्थानमा, अवस्था मध्यम श्रेणीमा",
@@ -8644,7 +8608,7 @@
    "cat": "world"
   }
  ],
- "updated": 1793454072,
+ "updated": 1793454647,
  "pending_since": 1793454048.0594196,
  "fb_blocks": [
   1790350880.4125228,
