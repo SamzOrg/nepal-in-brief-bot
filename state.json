@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://www.setopati.com/politics/401511": 1793249448.0080056,
-  "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQUlaTDEwQ1JqNlhJWXhkOTNhQTMtLVhPOGRPQzI3NGJLd3BlajhXMTRLRlF5SUZ4NDB4NUtTLTEydDNSdW5FeGluY0VObE9Sa1NIUGxwV0cxZXViSHFoc1psSEdFcHZVMWhqNkpEM0JoZUhHNVJDUHhoQmx6VmdyVlRiVQ?oc=5": 1793249448.0080056,
   "https://gorkhapatraonline.com/news/227594": 1793250089.914028,
   "https://www.setopati.com/politics/401512": 1793250089.914028,
   "https://nagariknews.nagariknetwork.com/social-affairs/after-the-prisoner-escaped-by-climbing-a-ladder-44-67.html": 1793250089.914028,
@@ -2061,7 +2059,10 @@
   "https://gorkhapatraonline.com/news/227797": 1793422244.9741118,
   "https://nagariknews.nagariknetwork.com/politics/constituent-assembly-member-tamang-passes-away-17-98.html": 1793422244.9741118,
   "https://gorkhapatraonline.com/news/227796": 1793422244.9741118,
-  "https://nagariknews.nagariknetwork.com/social-affairs/rs-1-2-million-approved-for-training-of-teaching-staff-at-tu-79-47.html": 1793422244.9741118
+  "https://nagariknews.nagariknetwork.com/social-affairs/rs-1-2-million-approved-for-training-of-teaching-staff-at-tu-79-47.html": 1793422244.9741118,
+  "https://gorkhapatraonline.com/news/227802": 1793422877.6227262,
+  "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBvWmotMnRKMTNQUGRoZmVfOXoyOTRDOS1CZzdnd2ZTZUg0Z0pJU1p3YXNyRXphelNhVlBKREFWRVZCRE5qTkxyeDdkeUVQaWdn?oc=5": 1793422877.6227262,
+  "https://news.google.com/rss/articles/CBMirgFBVV95cUxPX1RrWERCcmVsMndLV0JMeHZPclBpdm11bGJKczVGT0dTMEdQTVJoU2xZUWpjMVNybUMxSVF1WTEzZ1QwRFFiVmtydjRGTmZfa3FXSlRzcFdqY01nV214cE9hdWF6SUFkRGdKRTAtTDUxYl9SMUx6N3B5RkdwU3lNRWh0My01cmxDZzVta25oZGZ5b1hwT1A3eUZtNmM0OUVRc2VRYnZRZVVpOVJMdUE?oc=5": 1793422877.6227262
  },
  "queue": [
   {
@@ -4226,7 +4227,7 @@
    "cat": "disaster",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Crypto platform Binance confirms 'complex' $6.3 bn hack",
@@ -4430,30 +4431,6 @@
     "Salyan",
     "RoadAccident",
     "सड़कदुर्घटना"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Flood Forecasting Division Issues Landslide Risk Alert for Major Highways Due to Cyclone Arnab",
-   "summary": "Kathmandu. The Flood Forecasting Division has issued a landslide risk assessment and early warning for major highways related to the...",
-   "link": "http://english.ratopati.com/story/85157/impact-of-arnab-high-risk-of-landslides-on-these-highways-urges-caution",
-   "source": "Ratopati EN",
-   "ts": 1793420476,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/pahiro-narayangadh-muglin_rSbWqXUCuo.webp",
-   "lang": "en",
-   "hl": "Flood Forecasting Division Issues Landslide Risk Alert for Major Highways Due to Cyclone Arnab",
-   "en": "Flood Forecasting Division Issues Landslide Risk Alert for Major Highways Due to Cyclone Arnab",
-   "ne": "Flood Forecasting Division Issues Landslide Risk Alert for Major Highways Due to Cyclone Arnab",
-   "imp": 4,
-   "tags": [
-    "FloodForecasting",
-    "Landslide",
-    "CycloneArnab",
-    "पहिरो"
    ],
    "cat": "disaster",
    "val": 3,
@@ -7742,10 +7719,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "sports"
+  },
+  {
+   "ts": 1793422883.9879339,
+   "en": "Flood Forecasting Division Issues Landslide Risk Alert for Major Highways Due to Cyclone Arnab",
+   "ne": "Flood Forecasting Division Issues Landslide Risk Alert for Major Highways Due to Cyclone Arnab",
+   "link": "http://english.ratopati.com/story/85157/impact-of-arnab-high-risk-of-landslides-on-these-highways-urges-caution",
+   "source": "Ratopati EN",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "disaster"
   }
  ],
- "updated": 1793422251,
- "pending_since": null,
+ "updated": 1793422893,
+ "pending_since": 1793422877.6227262,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
