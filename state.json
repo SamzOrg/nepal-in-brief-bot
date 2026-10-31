@@ -1,8 +1,5 @@
 {
  "seen": {
-  "https://theannapurnaexpress.com/story/68304": 1793246482.5759835,
-  "https://theannapurnaexpress.com/story/68303": 1793246482.5759835,
-  "http://english.ratopati.com/story/84916/manaslu-apples-are-stuck-in-the-warehouse": 1793246482.5759835,
   "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWk1MMkx2cTMxTW04YW80bE5sb05VZmZVeGVuV3lxanlZWHRlN3VSTTdBQXM4MHA4ak9rclVJN1VPbjAzcnJ4NkgyYnBWVUktUThTZ0l5d05DR19vZmUwN1NNb3d4RFR5QndBeVZBSFZ1aGphVFYzVEhLNTVITXNkSE4wTnI1ZEozZW0zdVM2d2RXbjR6ZHRxM3drejYwSGtsUkJDNnNkWVRpYW5nbS1TbmQ1VUFTOEI5VFVNY1p3bmtGX0kxVGxjejlJVllMblZYMVE?oc=5": 1793247051.5040572,
   "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNnNFSVdkTWVMclBqbXRaMmdJRmJKeVZaTnA4MWd5TTAtSW1TWjdsZmtjVVBHN3hWYVYzV0VpMXFvTWRBa1VPd0ZYVzNaOXVHUU1KblBwcGg3VHoyUlFkV1Myakg0LTFzVHNwSWRkUXFTODFkcVhKTDZQOVkxbTJ4TERrV1FzRjE2dkdCY2ljNXhVNE9vc3VsSWY2cWZBdGt4dy1sMllBZVFXdGRjQkhEaQ?oc=5": 1793247051.5040572,
   "https://kathmandupost.com/weather/2026/10/29/rain-expected-across-nepal-on-thursday-as-cyclone-weakens": 1793247051.5040572,
@@ -2038,7 +2035,8 @@
   "http://english.ratopati.com/story/85151/8-prisoners-escape-from-dolpa-district-jail-by-digging-a-tunnel": 1793419276.987146,
   "https://gorkhapatraonline.com/news/227786": 1793419276.987146,
   "https://gorkhapatraonline.com/news/227785": 1793419276.987146,
-  "https://gorkhapatraonline.com/news/227784": 1793419276.987146
+  "https://gorkhapatraonline.com/news/227784": 1793419276.987146,
+  "https://nagariknews.nagariknetwork.com/economy/power-supply-to-be-cut-off-for-two-days-in-five-districts-of-koshi-99-26.html": 1793419844.6387317
  },
  "queue": [
   {
@@ -3858,7 +3856,7 @@
    "cat": "economy",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "Police Chief Expects Impartial Reporting",
@@ -7115,8 +7113,8 @@
    "cat": "crime"
   }
  ],
- "updated": 1793419318,
- "pending_since": null,
+ "updated": 1793419849,
+ "pending_since": 1793419844.6387317,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
