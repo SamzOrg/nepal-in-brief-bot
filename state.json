@@ -1863,100 +1863,10 @@
   "http://lokaantar.com/story/332289/2026/10/31/jugal-": 1793461854.3849995,
   "https://nagariknews.nagariknetwork.com/international/emergency-preparedness-campaign-in-britain-increases-fear-96-22.html": 1793461854.3849995,
   "http://lokaantar.com/story/332285/2026/10/31/game-": 1793461854.3849995,
-  "http://lokaantar.com/story/332284/2026/10/31/rana-": 1793461854.3849995
+  "http://lokaantar.com/story/332284/2026/10/31/rana-": 1793461854.3849995,
+  "https://gorkhapatraonline.com/news/227847": 1793462478.5010784
  },
  "queue": [
-  {
-   "title": "जब एउटा सिनेमाले बक्सअफिसमा ट्रयाक छाड्यो",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/506168",
-   "source": "Baahrakhari",
-   "ts": 1793433300,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "जब एउटा सिनेमाले बक्सअफिसमा ट्रयाक छाड्यो",
-   "en": "जब एउटा सिनेमाले बक्सअफिसमा ट्रयाक छाड्यो",
-   "ne": "जब एउटा सिनेमाले बक्सअफिसमा ट्रयाक छाड्यो",
-   "imp": 2,
-   "tags": [
-    "Movie",
-    "BoxOffice",
-    "चलचित्र"
-   ],
-   "cat": "culture",
-   "val": 1,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "विभागले भन्यो- देशभर मौसम क्रमिक रूपमा सुधार हुँदै छ",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/506195",
-   "source": "Baahrakhari",
-   "ts": 1793433198,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "विभागले भन्यो- देशभर मौसम क्रमिक रूपमा सुधार हुँदै छ",
-   "en": "विभागले भन्यो- देशभर मौसम क्रमिक रूपमा सुधार हुँदै छ",
-   "ne": "विभागले भन्यो- देशभर मौसम क्रमिक रूपमा सुधार हुँदै छ",
-   "imp": 2,
-   "tags": [
-    "Weather",
-    "Department",
-    "मौसम"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 5
-  },
-  {
-   "title": "वन पैदावारको संरक्षण र सदुपयोग प्राथमिकतामा",
-   "summary": "धनगढी, कात्तिक १४ गते । सुदूरपश्चिम प्रदेशका मुख्यमन्त्री खगराज भट्टले वन पैदावारको संरक्षण र सदुपयोगलाई प्रदेश सरकारले बताउनुभएको छ । दिगो वन व्यवस्थापन कार्यविधि स्वीकृत गरी तत्क...",
-   "link": "https://gorkhapatraonline.com/news/227821",
-   "source": "Gorkhapatra",
-   "ts": 1793433085,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/389725/conversions/CM-2222-original.jpg",
-   "lang": "ne",
-   "hl": "वन पैदावारको संरक्षण र सदुपयोग प्राथमिकतामा",
-   "en": "वन पैदावारको संरक्षण र सदुपयोग प्राथमिकतामा",
-   "ne": "वन पैदावारको संरक्षण र सदुपयोग प्राथमिकतामा",
-   "imp": 2,
-   "tags": [
-    "Forestry",
-    "Conservation"
-   ],
-   "cat": "society",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "विशेष 'जागिर' विभाग",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/506172",
-   "source": "Baahrakhari",
-   "ts": 1793433113,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "विशेष 'जागिर' विभाग",
-   "en": "विशेष 'जागिर' विभाग",
-   "ne": "विशेष 'जागिर' विभाग",
-   "imp": 2,
-   "tags": [
-    "Employment",
-    "Satire",
-    "रोजगार"
-   ],
-   "cat": "society",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
-  },
   {
    "title": "मुर्माटपबाट देखिएको स्वर्गजस्तै रारा",
    "summary": "मनमा लामो समयदेखि सजिएको सपना बिस्तारै वास्तविकतामा बदलिँदै थियो। ताल्चा विमानस्थल वरिपरि २०-३० वटा घर भएको सानो बस्ती रहेछ। तीमध्ये धेरैजसो हवाईमार्गबाट आउने जाने पर्यटकलाई लक्षित गरेर बनाइएका होमस्टे थिए।",
@@ -2181,29 +2091,6 @@
     "Bara",
     "Rescue",
     "HealthPost"
-   ],
-   "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "ल्यान्डफिलको फोहोर प्रशोधन गर्न 'ट्रमेलिङ'",
-   "summary": "बढ्दो सहरीकरण, परिवर्तित जीवनशैली र बढ्दो उपभोग फोहोर उत्पादन वृद्धि हुनुका प्रमुख आधार हुन्।",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/trammeling-to-process-landfill-waste-br-41-22.html",
-   "source": "Nagarik News",
-   "ts": 1793433347,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2024/third-party/1793434014_fohor%2098.jpg",
-   "lang": "ne",
-   "hl": "ल्यान्डफिलको फोहोर प्रशोधन गर्न 'ट्रमेलिङ'",
-   "en": "ल्यान्डफिलको फोहोर प्रशोधन गर्न 'ट्रमेलिङ'",
-   "ne": "ल्यान्डफिलको फोहोर प्रशोधन गर्न 'ट्रमेलिङ'",
-   "imp": 2,
-   "tags": [
-    "Landfill",
-    "WasteManagement",
-    "फोहोर"
    ],
    "cat": "society",
    "val": 3,
@@ -4850,7 +4737,7 @@
    "cat": "politics",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Government Illegally Collects Fees from Students Despite Free Education Provision",
@@ -8003,8 +7890,8 @@
    "cat": "sports"
   }
  ],
- "updated": 1793461860,
- "pending_since": null,
+ "updated": 1793462482,
+ "pending_since": 1793462478.5010784,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
