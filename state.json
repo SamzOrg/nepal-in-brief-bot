@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZ283ekhWb01EOTlBQ2JRUWJESkpyYmZXTFFjOXRJeEQ1S2FsNExwN3hobEE3Zl9EbmJPR3pzTEdJYlVGM1NJbTUweGxXNll1U0Jnc2tma1U5WGJZMmlXQlhFbWRWQjhUOXlGbjZZbEVoQ0lfY2lxdTNvcUhzNHhGaVVMTk1Ec2lYNjFUVkx5OFRQVEN1dnFmVjJkeVlZa1RqX3dFS04yR2RNeDViWGRLYkZXQnhkUQ?oc=5": 1793304650.3765724,
   "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBzY3U3N2JjWkRJMFB6R3FKNy1XY0J6a0RqTmtNZ2ZWUFRqd19hTW9ZVzBaME5yYWVJcVI5SVFrZUc0MUMtamdIOXNUMXE4M2RId19SMktmWm11elVzclN5MEFIUUxvZw?oc=5": 1793305248.6444516,
   "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wc3Excm1sNkpyaXBKV1pBQmJCc2NMN0EtU3AxWTIzNGJpZXR1eWZ4alo5elVTQjBGdFBkTE5fN1VxVHBDbjc0NW8xSWtlNFVObFRJUi1pMXFSMDJLczBRaHNUdGhvQnJCOUJaQzNWZ3BsQWhEdkZydnFRRjk0am8?oc=5": 1793313070.2223244,
   "https://english.khabarhub.com/2026/30/573687/": 1793316668.0290756,
@@ -1934,29 +1933,6 @@
    "hits": 1
   },
   {
-   "title": "तेस्रो नेपालगन्ज अन्तर्राष्ट्रिय स्वीमिङ प्रतियोगिता सुरु",
-   "summary": "बाँकेको नेपालगन्जमा नबिल बैंक तेस्रो नेपालगन्ज अन्तर्राष्ट्रिय स्वीमिङ च्याम्पियनसिप सुरु भएको छ।",
-   "link": "https://www.setopati.com/sports/anya-khelkud/401699",
-   "source": "Setopati",
-   "ts": 1793448796,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "तेस्रो नेपालगन्ज अन्तर्राष्ट्रिय स्वीमिङ प्रतियोगिता सुरु",
-   "en": "तेस्रो नेपालगन्ज अन्तर्राष्ट्रिय स्वीमिङ प्रतियोगिता सुरु",
-   "ne": "तेस्रो नेपालगन्ज अन्तर्राष्ट्रिय स्वीमिङ प्रतियोगिता सुरु",
-   "imp": 2,
-   "tags": [
-    "Nepalgunj",
-    "Swimming",
-    "नेपालगन्ज"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
    "title": "Antibiotic Resistance National Action Plan Implemented",
    "summary": "Kathmandu. According to the 'Antibiotic Resistance National Action Plan (2080/81-2084/85)' issued by the Ministry of Health and Food Hygiene, it...",
    "link": "http://english.ratopati.com/story/85238/government-to-stop-indiscriminate-use-of-antibiotics",
@@ -2766,28 +2742,6 @@
    ],
    "cat": "world",
    "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "'Elephants in the Fog' actor Pushpa Lama wins Asia Pacific Screen award",
-   "summary": "The actor was recognised for her portrayal of a member of Nepal's marginalised kinnar community in Abinash Bikram Shah's Cannes-winning film.",
-   "link": "https://kathmandupost.com/art-culture/2026/10/31/elephants-in-the-fog-actor-pushpa-lama-wins-asia-pacific-screen-award",
-   "source": "Kathmandu Post",
-   "ts": 1793448645.8918471,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "'Elephants in the Fog' actor Pushpa Lama wins Asia Pacific Screen award",
-   "en": "'Elephants in the Fog' actor Pushpa Lama wins Asia Pacific Screen award",
-   "ne": "'Elephants in the Fog' actor Pushpa Lama wins Asia Pacific Screen award",
-   "imp": 1,
-   "tags": [
-    "PushpaLama",
-    "AsiaPacificScreenAward"
-   ],
-   "cat": "culture",
-   "val": 3,
    "teaser": false,
    "hits": 1
   },
@@ -6766,8 +6720,8 @@
    "cat": "disaster"
   }
  ],
- "updated": 1793477447,
- "pending_since": null,
+ "updated": 1793477820,
+ "pending_since": 1793477798.5348313,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
