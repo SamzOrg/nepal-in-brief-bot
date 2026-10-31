@@ -1,8 +1,5 @@
 {
  "seen": {
-  "http://english.ratopati.com/story/85016/companies-in-the-ipo-pipeline-divided-into-6-phases": 1793278251.7193542,
-  "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWFhXZjFxeHE3Vy15TWs2MWYzNC1HUEk2N21SWU5lM2pjQmQ0OThsM1E3N3ZBYzh0bmZMSnVLdVR5ZTdEa3lSWlVCekNORkUzbXdfbzJwOVZEejNBVW9sbldpeGJTdmg0VHFLLU9feUt3QUZkcUIwMW1vU3BjOXhDSncyYmRxUQ?oc=5": 1793278251.7193542,
-  "https://theannapurnaexpress.com/story/68323": 1793278251.7193542,
   "https://english.onlinekhabar.com/dr-govinda-kc-hunger-strike.html": 1793278889.4981163,
   "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1mTWh3eGJTQkwzY3VpSnl6WjBWUjZ5dkxxa20zXzZlYll0alUwMVVPUDJ6a2VlUDlGaTVYaC1vNk1Cb09mYWwtS2thTkRRd1IwZllVRUFwNA?oc=5": 1793278889.4981163,
   "https://gorkhapatraonline.com/news/227645": 1793278889.4981163,
@@ -1892,7 +1889,10 @@
   "https://nagariknews.nagariknetwork.com/social-affairs/disaster-in-palpa-102-people-die-in-ten-years-br-85-53.html": 1793451045.3809052,
   "http://english.ratopati.com/story/85254/no-one-is-above-the-constitution-and-democracy-ravi-lamichhane": 1793451045.3809052,
   "https://nagariknews.nagariknetwork.com/arts/king-sold-for-rs-175-crore-before-release-72-16.html": 1793451045.3809052,
-  "http://english.ratopati.com/story/85253/balen-tried-to-become-a-cynical-dictator": 1793451045.3809052
+  "http://english.ratopati.com/story/85253/balen-tried-to-become-a-cynical-dictator": 1793451045.3809052,
+  "http://english.ratopati.com/story/85263/a-75-foot-tall-statue-of-mother-nepal-is-being-constructed-at-bhamkeni-dham": 1793451676.4402232,
+  "http://english.ratopati.com/story/85262/where-are-the-main-highways-closed": 1793451676.4402232,
+  "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1NSGRRZ3pKZFhOMEQwRzNLd1RtRGZyLUVuSGNZZTBTUlBJU05wYUVJSDJOUlpqdnRadDNOekY1WlQxSzVFZjdOTWZzZmcwTFZVRVNNblQ4cw?oc=5": 1793451676.4402232
  },
  "queue": [
   {
@@ -2122,29 +2122,6 @@
    "hits": 2
   },
   {
-   "title": "Bagmati Province Government Extends Auction Period for Sumeru Cooperative Assets by 15 Days",
-   "summary": "Kathmandu. The office of the Problematic Cooperative Management Committee of the Bagmati Province Government has extended the auction sale period...",
-   "link": "http://english.ratopati.com/story/85163/sumeru-cooperatives-property-auction-process-amended-deadline-extended-by-15-days",
-   "source": "Ratopati EN",
-   "ts": 1793422638,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/sumeru-1-(2081)_pTb5c92FoC.jpg",
-   "lang": "en",
-   "hl": "Bagmati Province Government Extends Auction Period for Sumeru Cooperative Assets by 15 Days",
-   "en": "Bagmati Province Government Extends Auction Period for Sumeru Cooperative Assets by 15 Days",
-   "ne": "Bagmati Province Government Extends Auction Period for Sumeru Cooperative Assets by 15 Days",
-   "imp": 3,
-   "tags": [
-    "BagmatiProvince",
-    "SumeruCooperative",
-    "Auction"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "विपद्को क्षति न्यूनीकरणमा सञ्चारमाध्यमको भूमिका महत्त्वपूर्ण छ : दानबहादुर कार्की",
    "summary": "विपद्बाट जनधनको सुरक्षा गर्ने कार्यमा नेपाल प्रहरी सधैँझैँ आफ्नो मूल दायित्व पूरा गर्न सक्रिय रहने बताउँदै उनले यसका लागि सञ्चारमाध्यम र सञ्चारकर्मीको निरन्तर साथ, सहयोग र सहकार्य अपेक्षा गरेको बताएका छन्।...",
    "link": "https://nagariknews.nagariknetwork.com/social-affairs/role-of-media-is-important-in-disaster-damage-reduction-dan-bahadur-karki-br-60-82.html",
@@ -2164,51 +2141,6 @@
    ],
    "cat": "society",
    "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "PM Balen Shah Initiates Policy Review for Gaming and IT Sector Development",
-   "summary": "Kathmandu. Prime Minister Balen Shah has informed that policy review and homework have been started to develop the gaming and...",
-   "link": "http://english.ratopati.com/story/85162/we-will-review-the-gaming-and-it-sector-policies-to-make-nepal-a-global-unicorn-prime-minister-shah",
-   "source": "Ratopati EN",
-   "ts": 1793422328,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/balen-shaha_mz9wb64nRN.jpg",
-   "lang": "en",
-   "hl": "PM Balen Shah Initiates Policy Review for Gaming and IT Sector Development",
-   "en": "PM Balen Shah Initiates Policy Review for Gaming and IT Sector Development",
-   "ne": "PM Balen Shah Initiates Policy Review for Gaming and IT Sector Development",
-   "imp": 3,
-   "tags": [
-    "BalenShah",
-    "Gaming",
-    "Policy"
-   ],
-   "cat": "tech",
-   "val": 3,
-   "teaser": false,
-   "hits": 3
-  },
-  {
-   "title": "डिजिटल युगमा लेखनको सार्थकता: एक बौद्धिक विमर्श",
-   "summary": "आधुनिक युगको बजार र सत्ताले हामीलाई यस्तो सुविधाभोगी चौबाटोमा उभ्याइदिएको छ, जहाँ विवेक बेचेर भौतिक सुख किन्ने प्रवृत्ति नै आजको 'मोक्ष-मार्ग' बन्न पुग्यो।...",
-   "link": "https://nagariknews.nagariknetwork.com/arts/the-meaning-of-writing-in-the-digital-age-an-intellectual-discussion-br-66-63.html",
-   "source": "Nagarik News",
-   "ts": 1793422533,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1793422914_lekhan%20%20%20%2067.jpg",
-   "lang": "ne",
-   "hl": "डिजिटल युगमा लेखनको सार्थकता: एक बौद्धिक विमर्श",
-   "en": "डिजिटल युगमा लेखनको सार्थकता: एक बौद्धिक विमर्श",
-   "ne": "डिजिटल युगमा लेखनको सार्थकता: एक बौद्धिक विमर्श",
-   "imp": 1,
-   "tags": [
-    "DigitalWriting",
-    "Literature"
-   ],
-   "cat": "culture",
-   "val": 1,
    "teaser": false,
    "hits": 1
   },
@@ -2234,7 +2166,7 @@
    "cat": "disaster",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "स्थानीयको श्रमदानबाट सडक मर्मत",
@@ -8718,8 +8650,8 @@
    "cat": "disaster"
   }
  ],
- "updated": 1793451074,
- "pending_since": null,
+ "updated": 1793451679,
+ "pending_since": 1793451676.4402232,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
