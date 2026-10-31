@@ -1866,29 +1866,6 @@
  },
  "queue": [
   {
-   "title": "India Successfully Launches New Generation Navigation Satellite NVS-03",
-   "summary": "New Delhi. India has successfully launched a new generation navigation satellite on Friday night with the aim of strengthening its...",
-   "link": "http://english.ratopati.com/story/85266/india-successfully-launches-new-generation-navigation-satellite-nvs-03",
-   "source": "Ratopati EN",
-   "ts": 1793452871,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/india_launches_nvs_03_navigation_0SmJFlfVM6.webp",
-   "lang": "en",
-   "hl": "India Successfully Launches New Generation Navigation Satellite NVS-03",
-   "en": "India Successfully Launches New Generation Navigation Satellite NVS-03",
-   "ne": "India Successfully Launches New Generation Navigation Satellite NVS-03",
-   "imp": 1,
-   "tags": [
-    "India",
-    "Satellite",
-    "NVS03"
-   ],
-   "cat": "tech",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
    "title": "Viratanagar Customs Sees Significant Growth in Foreign Trade",
    "summary": "Viratanagar. Foreign trade through the Viratanagar customs border has seen a significant increase in the first quarter (Saun-Asoj) of the...",
    "link": "http://english.ratopati.com/story/85260/noodle-exports-surge-motorcycle-ready-made-garment-and-tile-imports-decline",
@@ -2040,29 +2017,6 @@
    "val": 1,
    "teaser": true,
    "hits": 1
-  },
-  {
-   "title": "रास्वपा महामन्त्री विपिन आचार्यको नेतृत्वमा प्रतिनिधिमण्डल चीन जाने",
-   "summary": "राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का महामन्त्री विपिन आचार्यको नेतृत्वमा एक प्रतिनिधिमण्डल जनवादी गणतन्त्र चीनको भ्रमणमा जाने भएको छ।...",
-   "link": "https://nagariknews.nagariknetwork.com/politics/delegation-led-by-rsvp-general-secretary-bipin-acharya-to-visit-china-28-78.html",
-   "source": "Nagarik News",
-   "ts": 1793453332,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1782479776_bipin.png",
-   "lang": "ne",
-   "hl": "रास्वपा महामन्त्री विपिन आचार्यको नेतृत्वमा प्रतिनिधिमण्डल चीन जाने",
-   "en": "रास्वपा महामन्त्री विपिन आचार्यको नेतृत्वमा प्रतिनिधिमण्डल चीन जाने",
-   "ne": "रास्वपा महामन्त्री विपिन आचार्यको नेतृत्वमा प्रतिनिधिमण्डल चीन जाने",
-   "imp": 2,
-   "tags": [
-    "RSP",
-    "BipinAcharya",
-    "China"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 3
   },
   {
    "title": "सञ्चारकर्मीमाथि भएको व्यवहारको छानबिन गरी दोषीमाथि कारबाही गर्न रास्वपाको निर्देशन",
@@ -6248,8 +6202,8 @@
    "cat": "disaster"
   }
  ],
- "updated": 1793481652,
- "pending_since": 1793481046.089306,
+ "updated": 1793482265,
+ "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
