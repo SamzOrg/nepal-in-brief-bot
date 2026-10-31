@@ -1916,74 +1916,6 @@
    "hits": 1
   },
   {
-   "title": "यी हुन् रास्वपा सचिवालय बैठकका ४ निर्णय",
-   "summary": "",
-   "link": "https://www.setopati.com/politics/401713",
-   "source": "Setopati",
-   "ts": 1793460343,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "यी हुन् रास्वपा सचिवालय बैठकका ४ निर्णय",
-   "en": "यी हुन् रास्वपा सचिवालय बैठकका ४ निर्णय",
-   "ne": "यी हुन् रास्वपा सचिवालय बैठकका ४ निर्णय",
-   "imp": 3,
-   "tags": [
-    "RSP",
-    "Meeting",
-    "रास्वपा"
-   ],
-   "cat": "politics",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "Election Commission to Update Voter List Using National ID Data",
-   "summary": "Kathmandu. The Election Commission will update the voter list and authenticate details by taking details from the National Identity Card...",
-   "link": "http://english.ratopati.com/story/85271/voter-rolls-will-be-updated-through-the-personal-incident-registration-system",
-   "source": "Ratopati EN",
-   "ts": 1793460282,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/narayan-prasad-bhattarai_M30cVyr2Yq.jpg",
-   "lang": "en",
-   "hl": "Election Commission to Update Voter List Using National ID Data",
-   "en": "Election Commission to Update Voter List Using National ID Data",
-   "ne": "Election Commission to Update Voter List Using National ID Data",
-   "imp": 3,
-   "tags": [
-    "ElectionCommission",
-    "VoterList",
-    "NationalID"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "बेलायतमा आपत्कालीन तयारी अभियानले बढायो त्रास",
-   "summary": "सरकारको चेतावनीसँगै दैनिक उपभोग्य तथा आपत्कालीन अवस्थामा आवश्यक पर्ने सामग्रीको खरिदसमेत ह्वात्तै बढेको छ।...",
-   "link": "https://nagariknews.nagariknetwork.com/international/emergency-preparedness-campaign-in-britain-increases-fear-96-22.html",
-   "source": "Nagarik News",
-   "ts": 1793460106,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1793460081_london.jpg",
-   "lang": "ne",
-   "hl": "बेलायतमा आपत्कालीन तयारी अभियानले बढायो त्रास",
-   "en": "बेलायतमा आपत्कालीन तयारी अभियानले बढायो त्रास",
-   "ne": "बेलायतमा आपत्कालीन तयारी अभियानले बढायो त्रास",
-   "imp": 1,
-   "tags": [
-    "Emergency",
-    "बेलायत"
-   ],
-   "cat": "world",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "विराटनगरविरुद्ध सुदूरपश्चिमले पहिलो बलमै विकेट गुमायो",
    "summary": "",
    "link": "https://baahrakhari.com/detail/506224",
@@ -2721,17 +2653,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1792884052.5962029,
-   "en": "'Exceptional Relationship!': Nepal Finance Minister Swarnim Waglé On India-Nepal Ties",
-   "ne": "'Exceptional Relationship!': Nepal Finance Minister Swarnim Waglé On India-Nepal Ties",
-   "link": "https://www.ndtv.com/shorts/exceptional-relationship-nepal-finance-minister-swarnim-wagl-on-india-nepal-ties-exceptional-relatio-1179379",
-   "source": "NDTV",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "politics"
-  },
   {
    "ts": 1792887659.1639946,
    "en": "बडादसैँको अन्तिम दिन आज महालक्ष्मीको पूजा आराधना गरी रात्रिमा जाग्राम बसेर समापन गरिँदै",
@@ -5813,8 +5734,8 @@
    "cat": "economy"
   }
  ],
- "updated": 1793488864,
- "pending_since": 1793488846.3116846,
+ "updated": 1793489474,
+ "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
