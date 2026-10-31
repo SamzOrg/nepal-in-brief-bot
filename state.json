@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBzY3U3N2JjWkRJMFB6R3FKNy1XY0J6a0RqTmtNZ2ZWUFRqd19hTW9ZVzBaME5yYWVJcVI5SVFrZUc0MUMtamdIOXNUMXE4M2RId19SMktmWm11elVzclN5MEFIUUxvZw?oc=5": 1793305248.6444516,
   "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wc3Excm1sNkpyaXBKV1pBQmJCc2NMN0EtU3AxWTIzNGJpZXR1eWZ4alo5elVTQjBGdFBkTE5fN1VxVHBDbjc0NW8xSWtlNFVObFRJUi1pMXFSMDJLczBRaHNUdGhvQnJCOUJaQzNWZ3BsQWhEdkZydnFRRjk0am8?oc=5": 1793313070.2223244,
   "https://english.khabarhub.com/2026/30/573687/": 1793316668.0290756,
   "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPY1BTZGN4WHdNdnpfeGZEWHdTaVJpbjRia0FRY1A3aG5yRjIzTjdjRDM2bVZCSEMzejlxYWZwMnVRUUczRG5CN1JPZ1VvcnpCdlgtUE41OVUzMDRCd2xxVWpLQjN1S2RkNEhTdDFrbUdGZnJrek5fa0JUdno3MUM0TXB5UWwzcWZHRUwzZmFKT042azRQV0hNQW9ScktIR3JtWUpqUndpU1ZRU3c?oc=5": 1793316668.0290756,
@@ -1952,52 +1951,6 @@
    ],
    "cat": "health",
    "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "खाद्य व्यवस्थाले निर्धारण गरेको मूल्यभन्दा सस्तोमा धान बेच्दै किसान",
-   "summary": "तिहारका लागि खर्च व्यवस्थापन गर्नुपर्ने र भण्डारणको समस्या भएपछि खाद्य व्यवस्था तथा व्यापार कम्पनीले निर्धारण गरेको मूल्यभन्दा कममा किसानले धान बेचिरहेका हुन्।...",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/farmers-selling-rice-at-a-price-lower-than-the-price-set-by-the-food-system-br-62-41.html",
-   "source": "Nagarik News",
-   "ts": 1793449103,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1793018186_dhan%20bhaktapur.jpg",
-   "lang": "ne",
-   "hl": "खाद्य व्यवस्थाले निर्धारण गरेको मूल्यभन्दा सस्तोमा धान बेच्दै किसान",
-   "en": "खाद्य व्यवस्थाले निर्धारण गरेको मूल्यभन्दा सस्तोमा धान बेच्दै किसान",
-   "ne": "खाद्य व्यवस्थाले निर्धारण गरेको मूल्यभन्दा सस्तोमा धान बेच्दै किसान",
-   "imp": 3,
-   "tags": [
-    "Agriculture",
-    "Paddy",
-    "धान"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "विकासको होडमा मानवीय सम्बन्धको खडेरी",
-   "summary": "शिक्षा, स्वास्थ्य, प्रविधि, यातायात र सञ्चारका क्षेत्रमा भएका प्रगतिले जीवनका धेरै कठिनाइ कम गरेका छन्।...",
-   "link": "https://nagariknews.nagariknetwork.com/blog/the-drought-of-human-relations-in-the-race-for-development-17-70.html",
-   "source": "Nagarik News",
-   "ts": 1793449072,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1793449009_Krishna.jpg",
-   "lang": "ne",
-   "hl": "विकासको होडमा मानवीय सम्बन्धको खडेरी",
-   "en": "विकासको होडमा मानवीय सम्बन्धको खडेरी",
-   "ne": "विकासको होडमा मानवीय सम्बन्धको खडेरी",
-   "imp": 1,
-   "tags": [
-    "Society",
-    "Culture",
-    "समाज"
-   ],
-   "cat": "society",
-   "val": 1,
    "teaser": false,
    "hits": 1
   },
@@ -6720,8 +6673,8 @@
    "cat": "disaster"
   }
  ],
- "updated": 1793477820,
- "pending_since": 1793477798.5348313,
+ "updated": 1793478054,
+ "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
