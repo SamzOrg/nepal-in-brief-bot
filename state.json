@@ -2068,7 +2068,9 @@
   "https://nagariknews.nagariknetwork.com/economy/this-is-how-the-foreign-currency-exchange-rate-is-determined-today-br-87-80.html": 1793410269.313614,
   "https://gorkhapatraonline.com/news/227763": 1793410269.313614,
   "https://nagariknews.nagariknetwork.com/diaspora/i-came-to-the-uk-to-learn-something-and-exchange-experiences-manish-jha-52-58.html": 1793410269.313614,
-  "https://nagariknews.nagariknetwork.com/politics/chairman-thapa-objects-to-the-trend-of-arresting-journalists-and-releasing-them-under-public-pressure-65-55.html": 1793410269.313614
+  "https://nagariknews.nagariknetwork.com/politics/chairman-thapa-objects-to-the-trend-of-arresting-journalists-and-releasing-them-under-public-pressure-65-55.html": 1793410269.313614,
+  "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWVBXODVmSW43bnhjT0pOTVpDTldCY2t5eEpVZXdhb3V0a0U0eTlMdXY2NDNXcjkwOWVXWF9iZlZJVUhtdzVnY3FYV0diRmZSZFV5U0hqTUR6MmtXOFlxTkRoZEV6QWVWTXFya2JGTnRtdU9sSC1oYk1kWllVbzFGZzlKcmtHTE9rbWx5NFRn?oc=5": 1793410844.7487473,
+  "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1IZjNyOERBRno2X3NUZVQzUlhEZTdGQmxMLWNBVW1wY3ZEZkowQUZKb3l2dFRVSnVzazhnclZla29iUzJKalpPVzhDV0pEZUQt?oc=5": 1793410844.7487473
  },
  "queue": [
   {
@@ -2767,7 +2769,7 @@
    "cat": "culture",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "फूल महोत्सवले निम्त्याउँदै तिहार",
@@ -6038,8 +6040,8 @@
    "cat": "world"
   }
  ],
- "updated": 1793410297,
- "pending_since": null,
+ "updated": 1793410848,
+ "pending_since": 1793410844.7487473,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
