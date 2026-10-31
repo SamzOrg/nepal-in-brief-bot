@@ -2066,7 +2066,10 @@
   "https://gorkhapatraonline.com/news/227769": 1793411459.781478,
   "https://english.khabarhub.com/2026/31/573809/": 1793411459.781478,
   "https://baahrakhari.com/detail/506170": 1793411459.781478,
-  "https://kathmandupost.com/national/2026/10/31/five-day-fire-ritual-next-week-for-bhotekoshi-flood-dead-and-missing": 1793411459.781478
+  "https://kathmandupost.com/national/2026/10/31/five-day-fire-ritual-next-week-for-bhotekoshi-flood-dead-and-missing": 1793411459.781478,
+  "http://lokaantar.com/story/332247/2026/10/31/accident-": 1793412077.0882201,
+  "https://gorkhapatraonline.com/news/227772": 1793412077.0882201,
+  "https://gorkhapatraonline.com/news/227771": 1793412077.0882201
  },
  "queue": [
   {
@@ -2112,50 +2115,6 @@
    "val": 2,
    "teaser": false,
    "hits": 2
-  },
-  {
-   "title": "नेपालका आठ हजार मिटरमाथिका हिमाललाई अन्तर्राष्ट्रिय मान्यता दिलाउन पहल",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/506156",
-   "source": "Baahrakhari",
-   "ts": 1793383078,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "नेपालका आठ हजार मिटरमाथिका हिमाललाई अन्तर्राष्ट्रिय मान्यता दिलाउन पहल",
-   "en": "नेपालका आठ हजार मिटरमाथिका हिमाललाई अन्तर्राष्ट्रिय मान्यता दिलाउन पहल",
-   "ne": "नेपालका आठ हजार मिटरमाथिका हिमाललाई अन्तर्राष्ट्रिय मान्यता दिलाउन पहल",
-   "imp": 2,
-   "tags": [
-    "EightThousanders",
-    "InternationalRecognition"
-   ],
-   "cat": "culture",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "हेटौँडामा भारतीय नम्बरको गाडीबाट ९० किलो गाँजा बरामद",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/506155",
-   "source": "Baahrakhari",
-   "ts": 1793382686,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "हेटौँडामा भारतीय नम्बरको गाडीबाट ९० किलो गाँजा बरामद",
-   "en": "हेटौँडामा भारतीय नम्बरको गाडीबाट ९० किलो गाँजा बरामद",
-   "ne": "हेटौँडामा भारतीय नम्बरको गाडीबाट ९० किलो गाँजा बरामद",
-   "imp": 3,
-   "tags": [
-    "GanjaSeizure",
-    "Hetauda"
-   ],
-   "cat": "crime",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
   },
   {
    "title": "Nepal Daily Life",
@@ -2975,29 +2934,6 @@
    "hits": 1
   },
   {
-   "title": "Three killed, seven injured in Salyan jeep accident",
-   "summary": "SALYAN: Three people have died and seven others have been injured after a jeep plunged into a river in Salyan on Friday evening. The jeep (Lu. 1 Ja. 2368), travelling from Srinagar to Takura village, fell into a river...",
-   "link": "https://english.khabarhub.com/2026/31/573809/",
-   "source": "Khabarhub EN",
-   "ts": 1793411418,
-   "weight": 2,
-   "img": "https://english.khabarhub.com/wp-content/uploads/2024/10/Khabar-Hub-News_Accident_1200px-630X-px-Final_2021.01.21-Upload-e1748330914908-400x220.webp",
-   "lang": "en",
-   "hl": "Three killed, seven injured in Salyan jeep accident",
-   "en": "Three killed, seven injured in Salyan jeep accident",
-   "ne": "Three killed, seven injured in Salyan jeep accident",
-   "imp": 4,
-   "tags": [
-    "Salyan",
-    "JeepAccident",
-    "सल्यान"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "भोटेकोसीको भेलबाढी र दसैँ",
    "summary": "",
    "link": "https://baahrakhari.com/detail/506170",
@@ -3021,24 +2957,25 @@
    "hits": 1
   },
   {
-   "title": "Five-day fire ritual next week for Bhotekoshi flood dead and missing",
-   "summary": "The 'Pitri Moksha Yagya' ritual at the Betrawati confluence will honour victims of the August 26 flood across Rasuwa, Nuwakot, Dhading, Gorkha, and Chitwan.",
-   "link": "https://kathmandupost.com/national/2026/10/31/five-day-fire-ritual-next-week-for-bhotekoshi-flood-dead-and-missing",
-   "source": "Kathmandu Post",
-   "ts": 1793397060.8673737,
+   "title": "सल्यानमा दुई छुट्टाछुट्टै दुर्घटनामा चार जनाको मृत्यु",
+   "summary": "प्रतीक इच्छुक शर्मा सल्यान, कात्तिक १४ गते । सल्यानमा भएको दुई छुट्टाछुट्टै सवारी दुर्घटनामा चार जनाको मृत्यु भएको छ । सिद्ध कुमाख गाउँपालिका र बनगाड कुपिण्डे नगरपालिकामा भएको दुर्...",
+   "link": "https://gorkhapatraonline.com/news/227771",
+   "source": "Gorkhapatra",
+   "ts": 1793411733,
    "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Five-day fire ritual next week for Bhotekoshi flood dead and missing",
-   "en": "Five-day fire ritual next week for Bhotekoshi flood dead and missing",
-   "ne": "Five-day fire ritual next week for Bhotekoshi flood dead and missing",
-   "imp": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/389658/conversions/accident-(6)-original.jpg",
+   "lang": "ne",
+   "hl": "सल्यानमा दुई छुट्टाछुट्टै दुर्घटनामा चार जनाको मृत्यु",
+   "en": "सल्यानमा दुई छुट्टाछुट्टै दुर्घटनामा चार जनाको मृत्यु",
+   "ne": "सल्यानमा दुई छुट्टाछुट्टै दुर्घटनामा चार जनाको मृत्यु",
+   "imp": 4,
    "tags": [
-    "Bhotekoshi",
-    "Flood",
-    "Ritual"
+    "Salyan",
+    "Accident",
+    "Death",
+    "दुर्घटना"
    ],
-   "cat": "culture",
+   "cat": "disaster",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -6069,9 +6006,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "world"
+  },
+  {
+   "ts": 1793412084.956492,
+   "en": "Five-day fire ritual in Nuwakot for August 26 Bhotekoshi flood victims",
+   "ne": "Five-day fire ritual in Nuwakot for August 26 Bhotekoshi flood victims",
+   "link": "https://kathmandupost.com/national/2026/10/31/five-day-fire-ritual-next-week-for-bhotekoshi-flood-dead-and-missing",
+   "source": "Kathmandu Post",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "culture"
   }
  ],
- "updated": 1793411463,
+ "updated": 1793412099,
  "pending_since": 1793410844.7487473,
  "fb_blocks": [
   1790350880.4125228,
