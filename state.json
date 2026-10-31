@@ -1868,50 +1868,6 @@
  },
  "queue": [
   {
-   "title": "Viratanagar Customs Sees Significant Growth in Foreign Trade",
-   "summary": "Viratanagar. Foreign trade through the Viratanagar customs border has seen a significant increase in the first quarter (Saun-Asoj) of the...",
-   "link": "http://english.ratopati.com/story/85260/noodle-exports-surge-motorcycle-ready-made-garment-and-tile-imports-decline",
-   "source": "Ratopati EN",
-   "ts": 1793456100,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/bhansar-biratnagar-import_DSdHCkF1Z1.webp",
-   "lang": "en",
-   "hl": "Viratanagar Customs Sees Significant Growth in Foreign Trade",
-   "en": "Viratanagar Customs Sees Significant Growth in Foreign Trade",
-   "ne": "Viratanagar Customs Sees Significant Growth in Foreign Trade",
-   "imp": 2,
-   "tags": [
-    "BiratnagarCustoms",
-    "ForeignTrade"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "पोल्यान्डमा न्यायालय विवाद चर्कियो, टस्क सरकारमाथि 'कू'को आरोप",
-   "summary": "सरकारले निर्वाचित न्यायाधीशलाई काम गर्न रोक्नु गलत भएको जनाउँदै आएको छ । तर, राष्ट्रपति र विपक्षी पार्टीले नियुक्ति प्रक्रिया संविधानानुसार हुनुपर्ने अडान राखेका छन् ।",
-   "link": "https://baahrakhari.com/detail/506215",
-   "source": "Baahrakhari",
-   "ts": 1793456077,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "पोल्यान्डमा न्यायालय विवाद चर्कियो, टस्क सरकारमाथि 'कू'को आरोप",
-   "en": "पोल्यान्डमा न्यायालय विवाद चर्कियो, टस्क सरकारमाथि 'कू'को आरोप",
-   "ne": "पोल्यान्डमा न्यायालय विवाद चर्कियो, टस्क सरकारमाथि 'कू'को आरोप",
-   "imp": 1,
-   "tags": [
-    "Poland",
-    "Tusk"
-   ],
-   "cat": "world",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "विज्ञानको सीमा र आध्यात्मिक दावी",
    "summary": "विज्ञानले थाहा नभएको कुरालाई थाहा छैन भन्न पनि सक्छ । यो कमजोरी होइन, वैज्ञानिक इमानदारी हो ।",
    "link": "https://nagariknews.nagariknetwork.com/blog/the-limits-of-science-and-spiritual-claims-82-68.html",
@@ -2897,29 +2853,6 @@
    "cat": "economy",
    "val": 1,
    "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "During Balen Shah's first India visit, Nepal to seek aid, investment",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWEZvUXlVU1F4Vk5YX1J6RUozc1VvaUZaLURmMGZJUXNiRnZmb1ljV19MdzBNcHpWNzdKTktmc2FqZ2FJcGctTm9IY2RPckdDOUxlTFlGMG5hMVJQd0JpbnMwT2xsV1NZSjJEVkhSX1pwX2JHNHBKM3pkNmZPUlpGQm5fdDZ1T2MzeDJmUy1zRllWbHE5dEJaNWZsUHczQVVMai02ZXpDaC1HUWZPZ0pHbVMyMkI5SGFqZHRiQWJEVjB2eWVPdGl3LUlISXZ4QdIB0wFBVV95cUxNVEtQMWR6T0xZREhhVGxvc3IwWUtHX3VFX1lkOHZzQXltSmZrd2R4SWxvYzRsSUZtNVZnSXJvSkVnVGl4VWd2bkhpTzBIRzRxd3h6eGNGMlVXZ2d6ZVZnRUxjQ05iQkc4X0tZOW90OS1UUVhYVDd1T0lPRnVmRWVKckxuR3NqUFBhMUxJUE9zM2pUUi1feG9XUDFKdy1PRFlEVW5uTUpvTENBYlV2OHZUdE13MllnNnp2LWVBOEZTSnhEaDA0Wk5PT1FpcGFrVWRobEsw?oc=5",
-   "source": "The Times of India",
-   "ts": 1793473980,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "During Balen Shah's first India visit, Nepal to seek aid, investment",
-   "en": "During Balen Shah's first India visit, Nepal to seek aid, investment",
-   "ne": "During Balen Shah's first India visit, Nepal to seek aid, investment",
-   "imp": 4,
-   "tags": [
-    "BalenShah",
-    "IndiaVisit",
-    "ForeignAid"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
    "hits": 1
   },
   {
@@ -6026,10 +5959,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "disaster"
+  },
+  {
+   "ts": 1793485277.1343474,
+   "en": "During Balen Shah's first India visit, Nepal to seek aid, investment",
+   "ne": "During Balen Shah's first India visit, Nepal to seek aid, investment",
+   "link": "https://timesofindia.indiatimes.com/india/during-balen-shahs-first-india-visit-nepal-to-seek-aid-investment/articleshow/135410700.cms",
+   "source": "The Times of India",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "politics"
   }
  ],
- "updated": 1793484650,
- "pending_since": null,
+ "updated": 1793485290,
+ "pending_since": 1793485245.9234614,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
