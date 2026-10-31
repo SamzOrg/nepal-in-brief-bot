@@ -1,8 +1,5 @@
 {
  "seen": {
-  "http://english.ratopati.com/story/84971/kathmandus-sixth-wicket-falls": 1793260889.8654342,
-  "http://lokaantar.com/story/332137/2026/10/29/trump-": 1793260889.8654342,
-  "http://lokaantar.com/story/332139/2026/10/29/tourist": 1793260889.8654342,
   "http://english.ratopati.com/story/84972/kathmandus-eighth-wicket-falls-99-runs-in-17-overs": 1793261449.7920938,
   "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9HSG9zVUZWTGN5di1ORkVtNnF3ZUdDMW1oenMycmZQUk0yUURkV1JuazlDbmdyN1oyU3pRWDB3bFdGRGpRSUxNU2dyTEFLYWF6?oc=5": 1793261449.7920938,
   "https://risingnepaldaily.com/news/88188": 1793261449.7920938,
@@ -1983,7 +1980,9 @@
   "https://baahrakhari.com/detail/506190": 1793433677.4413679,
   "https://gorkhapatraonline.com/news/227818": 1793433677.4413679,
   "http://english.ratopati.com/story/85196/rains-affect-tourism-activities-in-pokhara": 1793433677.4413679,
-  "https://baahrakhari.com/detail/506167": 1793433677.4413679
+  "https://baahrakhari.com/detail/506167": 1793433677.4413679,
+  "https://news.google.com/rss/articles/CBMingFBVV95cUxQbG4tWjB5V1g4b3RXSXlqNFIxQk5oSEN6bjM5Ty1BakpoYUJvWHVjYzF1RDFsZ044bnVmN2tPLTRUU1JEVkoyOTRHWm1ZcGsxaGNkV09OdWUtMERJRE5DWGFmYnJLNW0zWXlnZzU5aW5kUWRYUDlBTGdDMnplSWZmR21mcUtsYWhyR282aTJ0dFBUZ0NrR0lhbmtOZnJlZw?oc=5": 1793434244.8160203,
+  "https://theannapurnaexpress.com/story/68374": 1793434244.8160203
  },
  "queue": [
   {
@@ -2052,51 +2051,6 @@
    "val": 1,
    "teaser": true,
    "hits": 1
-  },
-  {
-   "title": "कागजमै सीमित चक्रपथ : बर्सौं बित्दा पनि काम अधुरै",
-   "summary": "काठमाडौँ, कात्तिक १४ गते । मुलुकका विभिन्न सहर तथा पालिकामा घोषणा गरिएका चक्रपथ (रिङरोड) आयोजनाको भौतिक प्रगति एकदमै न्यून र निराशाजनक देखिएको छ । स्थानीय तहले आफ्नो क्षेत्रको आर्थ...",
-   "link": "https://gorkhapatraonline.com/news/227753",
-   "source": "Gorkhapatra",
-   "ts": 1793405278,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/389640/conversions/Ring_road-_bistar_ADHIKARI-KABIN00011-original.jpg",
-   "lang": "ne",
-   "hl": "कागजमै सीमित चक्रपथ : बर्सौं बित्दा पनि काम अधुरै",
-   "en": "कागजमै सीमित चक्रपथ : बर्सौं बित्दा पनि काम अधुरै",
-   "ne": "कागजमै सीमित चक्रपथ : बर्सौं बित्दा पनि काम अधुरै",
-   "imp": 3,
-   "tags": [
-    "RingRoad",
-    "चक्रपथ"
-   ],
-   "cat": "infrastructure",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "Unified command key to effective disaster response: Nepali Army",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9CQXRTWmRPcWR3dUVlUWMzdnRKWnJoSUQxa0xRSC1zclp0Mjhkd250WDU1Vjc0WUwxTTllZGVtV190Tm16WV9QRkNnUkJBVVZi?oc=5",
-   "source": "The Rising Nepal",
-   "ts": 1793404957,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Unified command key to effective disaster response: Nepali Army",
-   "en": "Unified command key to effective disaster response: Nepali Army",
-   "ne": "Unified command key to effective disaster response: Nepali Army",
-   "imp": 3,
-   "tags": [
-    "NepaliArmy",
-    "DisasterResponse",
-    "विपद"
-   ],
-   "cat": "disaster",
-   "val": 2,
-   "teaser": false,
-   "hits": 3
   },
   {
    "title": "चक्रवात 'अर्णव'को प्रभावले तीन प्रदेशमा भारी वर्षाको सम्भावना, भोलिदेखि मौसममा केही सुधार हुने",
@@ -2186,29 +2140,6 @@
    "cat": "society",
    "val": 1,
    "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "Melting Himalayan Glaciers With Western Greed - OpEd",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeF8wMDNzbzY5M2MzMFA2cFNsNV96Vy1aS05EeVRmbWNreU8zb2FHd0ZGMTB4RGw4RUpHLWtPTGQyVG9acFVOekU2OUsxOE4zYnBsWUs3bnEtM0VMTlB3YVlfUlVGYklsN3FnTHlEc0RYbUVOem00NVBSZ1BOelpEdDVEZGY5Q3lrWV9zSW5JTExoWlBV?oc=5",
-   "source": "Eurasia Review",
-   "ts": 1793405333,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Melting Himalayan Glaciers With Western Greed - OpEd",
-   "en": "Melting Himalayan Glaciers With Western Greed - OpEd",
-   "ne": "Melting Himalayan Glaciers With Western Greed - OpEd",
-   "imp": 2,
-   "tags": [
-    "ClimateChange",
-    "Himalayas",
-    "OpEd"
-   ],
-   "cat": "world",
-   "val": 1,
-   "teaser": false,
    "hits": 1
   },
   {
@@ -3442,29 +3373,6 @@
    "hits": 3
   },
   {
-   "title": "कात्तिकमै मुस्ताङमा ३ फिट हिउँ, जनजीवन प्रभावित",
-   "summary": "अर्नब चक्रवातको प्रभावले उपल्लो मुस्ताङमा भारी हिमपात र तल्लो क्षेत्रमा निरन्तर वर्षा हुँदा जनजीवन प्रभावित भएको छ । हिमपातका कारण कोरला नाका ठप्प भएको छ भने वर्षासँगै पहिरो खस्दा जोमसोम-कोरला सडकखण्ड अवरुद्ध भएको छ...",
-   "link": "http://lokaantar.com/story/332252/2026/10/31/mustang-himpat-",
-   "source": "Lokaantar",
-   "ts": 1793404877.7348433,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "कात्तिकमै मुस्ताङमा ३ फिट हिउँ, जनजीवन प्रभावित",
-   "en": "कात्तिकमै मुस्ताङमा ३ फिट हिउँ, जनजीवन प्रभावित",
-   "ne": "कात्तिकमै मुस्ताङमा ३ फिट हिउँ, जनजीवन प्रभावित",
-   "imp": 3,
-   "tags": [
-    "Mustang",
-    "Snowfall",
-    "हिउँ"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
    "title": "उत्तरी हुम्लामा भारी हिमपात, जनजीवन प्रभावित",
    "summary": "हुम्ला समाचारदाता हुम्ला, कात्तिक १४ गते । उत्तरी हुम्लामा भारी हिमपात भइरहेको छ । शनिबार रातिदेखि सिमकोट र नाम्खा गाउँपालिकाका उच्च क्षेत्रमा हिमपात हुन थालेपछि स्थानीयको जनजीवन प...",
    "link": "https://gorkhapatraonline.com/news/227788",
@@ -4561,29 +4469,6 @@
    "hits": 1
   },
   {
-   "title": "RSP Secretariat Meeting to Discuss Politics and Organization",
-   "summary": "Kathmandu. The secretariat meeting of the Rastriya Swatantra Party (RSP) is about to be held.The meeting has been called under...",
-   "link": "http://english.ratopati.com/story/85176/rsvp-secretariat-meeting-members-reach-banasthali",
-   "source": "Ratopati EN",
-   "ts": 1793426829,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/rabi-lamichanne_llEO4PWyH8.webp",
-   "lang": "en",
-   "hl": "RSP Secretariat Meeting to Discuss Politics and Organization",
-   "en": "RSP Secretariat Meeting to Discuss Politics and Organization",
-   "ne": "RSP Secretariat Meeting to Discuss Politics and Organization",
-   "imp": 3,
-   "tags": [
-    "RSP",
-    "Politics",
-    "Nepal"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 4
-  },
-  {
    "title": "Himalayan Infrastructure: What Nepal's Bhote Koshi Disaster Means for India",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNN2NWOE82bDNaSThqRXVkWHMyeHR4MGFWem1jOUc4RGZDNkw4MnctUDZtTHFnM3hWUDc1M1JTZGRaVlRzcXhkUW0taTdfV0FLZVJ2RVFmNmN0OWVubklSME1NMWtWNFVLT3BIY3FIalgxM1JhQXJacGpnSG91aHFpSUFvazk5anV1Q2xMd0NhS1hNekpCTDJMWXJVbWZhbmpVZGxj?oc=5",
@@ -5158,30 +5043,6 @@
    "hits": 1
   },
   {
-   "title": "Journalists Detained, Media Offices Searched Amidst Inam Sapkota Scandal",
-   "summary": "On Friday, November 10, at 3:30 PM. Journalist Shovraj Baral was busy with his regular work at the office of...",
-   "link": "http://english.ratopati.com/story/85191/police-boots-in-the-newsroom-governments-dead-cat-strategy",
-   "source": "Ratopati EN",
-   "ts": 1793430900,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/police-oppression-press-freedom_Ee8M5mhc8H.webp",
-   "lang": "en",
-   "hl": "Journalists Detained, Media Offices Searched Amidst Inam Sapkota Scandal",
-   "en": "Journalists Detained, Media Offices Searched Amidst Inam Sapkota Scandal",
-   "ne": "Journalists Detained, Media Offices Searched Amidst Inam Sapkota Scandal",
-   "imp": 4,
-   "tags": [
-    "InamSapkota",
-    "Journalist",
-    "Police",
-    "Media"
-   ],
-   "cat": "crime",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "दिलजीतको जवाफपछि अभिजीतले भने : सानो भाइ सम्झेर माफ गरिदिनु",
    "summary": "दिलजीतको अभिव्यक्तिपछि सामाजिक सञ्जालमा प्रतिक्रिया दिँदै दिप्केले उनलाई पुरानो कुरा बिर्सेर आफूलाई सानो भाइ सम्झन आग्रह गरेका हुन्।...",
    "link": "https://nagariknews.nagariknetwork.com/arts/after-diljit-s-response-abhijeet-said-i-forgive-you-as-a-younger-brother-25-91.html",
@@ -5440,30 +5301,6 @@
    "hits": 2
   },
   {
-   "title": "Deadly flash flood wipes away villages in Nepal, Tibet",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9wcWFVNy1DU1gzOVRxSnJsS09GVk40MjlKSEcwS3J2eDZfbVEtT0g4Y2FHR1hrTGZzdVE5V0lqcnhOSU1TUkxndWNIMGpubk51Wm01UE9wTVpFZmZiSi14MTlqb29tTnpZeWRDNkpOTnBERDVZWDJoX1BLONIBe0FVX3lxTE1FNE5QV3J1MWE2OXltMXpJRjZvX2thVmEtRHdMTC1kWENkaUhsZXlaWGs5aWlGV1RuSkw3SkNsZjRHVmlNNTdiLUZWZTRBT0VuNHhWWVJVSTNOWlo2M3pSV0FjeFlxNkNLZmstMWhzWVBKeXM4c3UwRFg5WQ?oc=5",
-   "source": "DW.com",
-   "ts": 1793420118,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Deadly flash flood wipes away villages in Nepal, Tibet",
-   "en": "Deadly flash flood wipes away villages in Nepal, Tibet",
-   "ne": "Deadly flash flood wipes away villages in Nepal, Tibet",
-   "imp": 5,
-   "tags": [
-    "FlashFlood",
-    "Nepal",
-    "Tibet",
-    "बाढी"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Government Forms Task Force to Develop Nepal as Regional Medical Hub",
    "summary": "Kathmandu. The government has decided to form a task force with the objective of developing the country as a regional...",
    "link": "http://english.ratopati.com/story/85199/decision-to-form-a-task-force-to-promote-medical-tourism",
@@ -5485,7 +5322,7 @@
    "cat": "health",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "जब एउटा सिनेमाले बक्सअफिसमा ट्रयाक छाड्यो",
@@ -8823,10 +8660,21 @@
    "n_ig": 1,
    "brk": true,
    "cat": "disaster"
+  },
+  {
+   "ts": 1793434251.3146317,
+   "en": "RSP Secretariat Meeting to Discuss Politics and Organization",
+   "ne": "RSP Secretariat Meeting to Discuss Politics and Organization",
+   "link": "http://english.ratopati.com/story/85176/rsvp-secretariat-meeting-members-reach-banasthali",
+   "source": "Ratopati EN",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "politics"
   }
  ],
- "updated": 1793433727,
- "pending_since": null,
+ "updated": 1793434259,
+ "pending_since": 1793434244.8160203,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
