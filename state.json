@@ -2006,7 +2006,10 @@
   "http://english.ratopati.com/story/85172/normal-life-in-kathmandu-disrupted-due-to-continuous-rain": 1793425848.7940035,
   "http://english.ratopati.com/story/85166/the-inevitability-of-the-education-act-a-national-resolve-to-create-an-educational-hub": 1793425848.7940035,
   "http://english.ratopati.com/story/85171/first-warning-issued-as-water-level-rises-at-kulekhani-dam": 1793425848.7940035,
-  "http://english.ratopati.com/story/85173/landslide-with-debris-in-sisneri-blocks-hetauda-bhimphedi-dakshinkali-road": 1793425848.7940035
+  "http://english.ratopati.com/story/85173/landslide-with-debris-in-sisneri-blocks-hetauda-bhimphedi-dakshinkali-road": 1793425848.7940035,
+  "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUWtMN2diT0Fncjg1bXU2aERqZlNZWS1iWEhoOEdmVXVaQnFtN2IwN2VGTkd2b0JfQ3FuVUtpQWd4RWxZMERzV3pIWUNueGh6OVNYSTR6dWpiSXpmVDFuR05tNEJ4UHNYSkNVN2VoTjlpSExJRURhSGU2eDNRN2IwaE5Kc0U0TlhGOXUtaUhKVHFZUTFUbUlWa3YtY21DQnM?oc=5": 1793426481.7680843,
+  "http://english.ratopati.com/story/85174/heavy-snowfall-and-rain-affect-normal-life-in-mustang-korala-road-blocked": 1793426481.7680843,
+  "https://www.setopati.com/social/401675": 1793426481.7680843
  },
  "queue": [
   {
@@ -3481,7 +3484,7 @@
    "cat": "disaster",
    "val": 3,
    "teaser": false,
-   "hits": 6
+   "hits": 7
   },
   {
    "title": "U.S. and Australia pledge to \"Swiftly Execute\" force posture and defense collaboration in the Pacific",
@@ -4696,29 +4699,6 @@
    "hits": 1
   },
   {
-   "title": "Nepal: Dr. Manoj Kumar Sharma supersedes his seniors to become Chief Justice",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRmJRb0N0TUpjZEVwT3RWbFlZb3k4UUp1OUZJQ1Z4dHo3bVhRblNnVFc0N0tub2tFa0gyd3dDaVh6TkdmNV93NmdGeVRQcTJkQkcwN3VnZnk5ak1JTVF5ckQ0SmNVSlY0dmUwWlNVVzlVNWhRTFNaUWxoajQ1VVZJaVF6a0RyOGNVeG9lYzBzUDBZemN1MXlCUzRBZW10OVJUNFE?oc=5",
-   "source": "News On AIR",
-   "ts": 1793408717,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Nepal: Dr. Manoj Kumar Sharma supersedes his seniors to become Chief Justice",
-   "en": "Nepal: Dr. Manoj Kumar Sharma supersedes his seniors to become Chief Justice",
-   "ne": "Nepal: Dr. Manoj Kumar Sharma supersedes his seniors to become Chief Justice",
-   "imp": 4,
-   "tags": [
-    "SupremeCourt",
-    "ChiefJustice",
-    "ManojKumarSharma"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "बैठकमा जान्छु भनेर निस्किएकी महिला पाँच दिनदेखि सम्पर्कविहिन",
    "summary": "बाबुराम कार्कीसुनसरी, कात्तिक १४ गते । सुनसरीको धरान उपमहानगरपालिका-१७ की २६ वर्षीया सबिना विश्वकर्मा पाँच दिनदेखि सम्पर्कविहीन हुनुभएको छ । कात्तिक ९ गते बिहान अपाङ्गता भएका व्यक्...",
    "link": "https://gorkhapatraonline.com/news/227805",
@@ -4938,6 +4918,54 @@
    "tags": [
     "Landslide",
     "Hetauda",
+    "पहिरो"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Upper Mustang Affected by Heavy Snowfall and Landslides",
+   "summary": "Mustang. Life has been affected by heavy snowfall in Upper Mustang and continuous rain in the lower areas due to...",
+   "link": "http://english.ratopati.com/story/85174/heavy-snowfall-and-rain-affect-normal-life-in-mustang-korala-road-blocked",
+   "source": "Ratopati EN",
+   "ts": 1793426176,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/wzYJyT6jr2.jpg",
+   "lang": "en",
+   "hl": "Upper Mustang Affected by Heavy Snowfall and Landslides",
+   "en": "Upper Mustang Affected by Heavy Snowfall and Landslides",
+   "ne": "Upper Mustang Affected by Heavy Snowfall and Landslides",
+   "imp": 4,
+   "tags": [
+    "UpperMustang",
+    "Snowfall",
+    "Landslide",
+    "हिउँपहिरो"
+   ],
+   "cat": "disaster",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "सोलुखुम्बुमा पहिरोले इङ्खु नदी थुनियो, तटीय क्षेत्रमा सतर्कता अपनाउन आग्रह",
+   "summary": "पहिरोले इङ्खु नदीको बहाव रोकेपछि नदीमा अस्थायी बाँध बनेको छ।",
+   "link": "https://www.setopati.com/social/401675",
+   "source": "Setopati",
+   "ts": 1793426040,
+   "weight": 3,
+   "img": null,
+   "lang": "ne",
+   "hl": "सोलुखुम्बुमा पहिरोले इङ्खु नदी थुनियो, तटीय क्षेत्रमा सतर्कता अपनाउन आग्रह",
+   "en": "सोलुखुम्बुमा पहिरोले इङ्खु नदी थुनियो, तटीय क्षेत्रमा सतर्कता अपनाउन आग्रह",
+   "ne": "सोलुखुम्बुमा पहिरोले इङ्खु नदी थुनियो, तटीय क्षेत्रमा सतर्कता अपनाउन आग्रह",
+   "imp": 4,
+   "tags": [
+    "Solukhumbu",
+    "InkhuRiver",
+    "Landslide",
     "पहिरो"
    ],
    "cat": "disaster",
@@ -7982,9 +8010,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "politics"
+  },
+  {
+   "ts": 1793426491.1740818,
+   "en": "Nepal: Dr. Manoj Kumar Sharma supersedes his seniors to become Chief Justice",
+   "ne": "Nepal: Dr. Manoj Kumar Sharma supersedes his seniors to become Chief Justice",
+   "link": "https://newsonair.gov.in/nepal-dr-manoj-kumar-sharma-supersedes-his-seniors-to-become-chief-justice/",
+   "source": "News On AIR",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "politics"
   }
  ],
- "updated": 1793425854,
+ "updated": 1793426509,
  "pending_since": 1793425848.7940035,
  "fb_blocks": [
   1790350880.4125228,
