@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://english.khabarhub.com/2026/29/573663/": 1793287249.3656795,
-  "https://baahrakhari.com/detail/506043": 1793287249.3656795,
   "https://news.google.com/rss/articles/CBMixwJBVV95cUxQcUR4WlVZMzFnUFA0ZV8wdTFhUXh1WUh2VmI3bFpIVXA3OEpoQVd4aEM5WWsxakxCUC12TlZHeVp1NEc5SklsWVFpOW9COXVvQmdvSDY5ZmJmTHdwWEhUV0ZJTmZvZmVNYkhHZURRT2s0Ny1LNEZQUXhQU2h1WjhPd0ZRVUJxUlpnWFhuSmI0TEdibmZId2ZyYUFTQ1pWTkxrSl9CNUcyejlpdmZ0bjJvaVMwS1JBNWFUSDB5Uy0tMFRyTjYtSXpjSTdvR244WXFVWUNqOC1QbWx5dTczNGxtR3p1Zjh5QmxDSUtYMlluLXZSNGIzVDQwSl9qWmdOMnJmdDF0aE13RjlfaU4yTGZrZVhLeU5SNTJid2FPQUVDalZxOGRoTjRleTVHbWpnMXk3bjNXVk42RXgyZEhjVGtmVlY4djdwM00?oc=5": 1793287872.3995147,
   "https://news.google.com/rss/articles/CBMixwJBVV95cUxPdWNfUmNLTkRnNHBZN0x2aXRHYVcwS3ptQ09oNUFqSlZzamVTemF0N2Z4dVZ0MjhBRGY1NDZjTXF4ejhsb19rcnZqV0pHc0lSd3pnVFJXU3Q3NmV0UTQ1bXlJUkxyU2tzVkpGdTljdHl2enhUY2ZBanRhZWJqa0FIRVRFRDBmMkt3eGxvUFVTcVVvNkNlTzNGNDhKRmFjcUVNNkpHZUpQVjlNLTRENjdKaXNFb0U5SnV2dGRtR2UyNHpaUVZiNXJ3VWdmLWJCMFhPbVFKQm1JTmVMczJtYUdDWVI2eVdWRFRmSHpqV05ucTBRcHNGZHZsTlJFZ0VVREQ2MF96dEwySDczWVlQa2k2andiV1ZLdkRLeklISnM4T2ppdXB1MW9nNjVpMlZYTkFIeEF4bjJCQjAtUDhXZkI4a25nd0c5M0k?oc=5": 1793287872.3995147,
   "https://nagariknews.nagariknetwork.com/sports/explosive-batting-by-sompal-and-gulshan-karnali-s-sensational-win-chasing-a-target-of-187-runs-74-25.html": 1793287872.3995147,
@@ -1870,7 +1868,11 @@
   "http://lokaantar.com/story/332278/2026/10/31/road-": 1793458879.6565254,
   "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUmcwbUNZempadnpMUGdEQk1hMGNPdngweVZ4Nk5lbTdhTS16Z3E3dmxRQkRwck9VZ3VlT3pBd1JiMEtfeGNxT3hDb3VWamUxYWJuSWQ2OUxmaDcwUHdHbE1QX1dDSE1lVW9KTmZIZHdrWEszRV9JR2lOS0w5RWNDY0p4Y2ZQQVNMV21scFBleVFKdFpNVFp2WWdicFNzZ0ln?oc=5": 1793460045.476109,
   "http://lokaantar.com/story/332286/2026/10/31/rsp-": 1793460045.476109,
-  "https://news.google.com/rss/articles/CBMirAFBVV95cUxPX3prVmsyWUItNUlOemZnYmRFZEdCbFZyUEo1cHY3NzRSaC1YLWItMnRoNkVnVXFlaERRcHFGRGZYVXNUNXV2RDQ0S0c2VDdRTG1fVVJTSVlpLWl3LV9fOFlKTzk1Qnd0Vm8zVXhHdGVYTmxORjVLNl9BZm9TdWQtNElWT1JJR09ncGFkSERja0Y3VmoxV3JkaEJ3WHhTeVpwSndlZWZ0RFF5cjRq?oc=5": 1793460045.476109
+  "https://news.google.com/rss/articles/CBMirAFBVV95cUxPX3prVmsyWUItNUlOemZnYmRFZEdCbFZyUEo1cHY3NzRSaC1YLWItMnRoNkVnVXFlaERRcHFGRGZYVXNUNXV2RDQ0S0c2VDdRTG1fVVJTSVlpLWl3LV9fOFlKTzk1Qnd0Vm8zVXhHdGVYTmxORjVLNl9BZm9TdWQtNElWT1JJR09ncGFkSERja0Y3VmoxV3JkaEJ3WHhTeVpwSndlZWZ0RFF5cjRq?oc=5": 1793460045.476109,
+  "https://www.setopati.com/sports/npl/401714": 1793460661.5657766,
+  "https://baahrakhari.com/detail/506219": 1793460661.5657766,
+  "https://baahrakhari.com/detail/506220": 1793460661.5657766,
+  "http://lokaantar.com/story/332288/2026/10/31/game-": 1793460661.5657766
  },
  "queue": [
   {
@@ -2078,53 +2080,6 @@
    "cat": "world",
    "val": 3,
    "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "सप्तरीमा आदिवासी जनजाति साहित्य महोत्सव सुरु",
-   "summary": "धीरेन्द्रप्रसाद साहराजविराज, कात्तिक १४ गते । सप्तरीको सप्तकोशी नगरपालिका-५, गंगाजलीमा शनिबारदेखि दुईदिने आदिवासी जनजाति साहित्य महोत्सव-२०८३ सुरु भएको छ ।मधेश प्रदेशका प्रदेश प्रम...",
-   "link": "https://gorkhapatraonline.com/news/227818",
-   "source": "Gorkhapatra",
-   "ts": 1793431736,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/389722/conversions/converted_image-(92)-original.jpg",
-   "lang": "ne",
-   "hl": "सप्तरीमा आदिवासी जनजाति साहित्य महोत्सव सुरु",
-   "en": "सप्तरीमा आदिवासी जनजाति साहित्य महोत्सव सुरु",
-   "ne": "सप्तरीमा आदिवासी जनजाति साहित्य महोत्सव सुरु",
-   "imp": 2,
-   "tags": [
-    "Saptari",
-    "Literature",
-    "Festival",
-    "साहित्य"
-   ],
-   "cat": "culture",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "नारी स्वतन्त्रताको चेत, चीत्कार र संवेग",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/506167",
-   "source": "Baahrakhari",
-   "ts": 1793431520,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "नारी स्वतन्त्रताको चेत, चीत्कार र संवेग",
-   "en": "नारी स्वतन्त्रताको चेत, चीत्कार र संवेग",
-   "ne": "नारी स्वतन्त्रताको चेत, चीत्कार र संवेग",
-   "imp": 2,
-   "tags": [
-    "WomenRights",
-    "Society",
-    "नारी"
-   ],
-   "cat": "culture",
-   "val": 1,
-   "teaser": true,
    "hits": 1
   },
   {
@@ -4771,7 +4726,7 @@
    "cat": "sports",
    "val": 2,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "एक रातले बदलिएको जीवन!",
@@ -5039,6 +4994,29 @@
     "Sauraha",
     "GoldMedal",
     "तेक्वान्दो"
+   ],
+   "cat": "sports",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "सुदूरपश्चिमले जित्यो टस, पहिले बलिङ गर्ने",
+   "summary": "पाल प्रिमियर लिग (एनपीएल) अन्तर्गत शनिबार विराटनगर किंग्सविरुद्धको खेलमा सुदूरपश्चिम रोयल्सले टस जितेर पहिले बलिङ गर्ने निर्णय गरेको छ ।वर्षाका कारण मैदान भिजेपछि निर्धारित समयमा सुरु हुन नसकेको खेल ५ ओभरमा झारिएको छ ।...",
+   "link": "http://lokaantar.com/story/332288/2026/10/31/game-",
+   "source": "Lokaantar",
+   "ts": 1793446262.4133248,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "सुदूरपश्चिमले जित्यो टस, पहिले बलिङ गर्ने",
+   "en": "सुदूरपश्चिमले जित्यो टस, पहिले बलिङ गर्ने",
+   "ne": "सुदूरपश्चिमले जित्यो टस, पहिले बलिङ गर्ने",
+   "imp": 4,
+   "tags": [
+    "Sudurpaschim",
+    "Biratnagar",
+    "NPL"
    ],
    "cat": "sports",
    "val": 3,
@@ -8128,7 +8106,7 @@
    "cat": "sports"
   }
  ],
- "updated": 1793460050,
+ "updated": 1793460666,
  "pending_since": 1793459446.5861197,
  "fb_blocks": [
   1790350880.4125228,
