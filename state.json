@@ -1,8 +1,5 @@
 {
  "seen": {
-  "https://gorkhapatraonline.com/news/227580": 1793241068.7316744,
-  "https://english.onlinekhabar.com/two-npl-matches-today-kathmandu.html": 1793241068.7316744,
-  "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVU9RdTRvSzRKOUlINFYtS0JNTzZxZDdFTTdWeEJpcGVxY3Y2WXpDVEs0a3FqM0tZWjBnX0hKVUdEVEw2aXBZSE53OFJMYUltRkRQeWl2djlEc0FEOXE0WEVpdjFMSmN3bEFlUklNNUVLdmxnQ29qNzQzM2cyeG01V2R4MDJkYm5mNFRhc2N5NA?oc=5": 1793241068.7316744,
   "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMUQtVlN4ZzlkcER4WGJhTFljMWdKS2RqOUJWUmpwaWtkUkFSTGs5dXROcXBRZEJHbkhjWmc0eEVnN1ZGYnVWamdyWlpQZExqM3BaeDV2UTluR1BvbUpoRnVmTF9aRk9zSVZFTFdBUlkxZVUzWUdrS0hEamdlWUliUGg3dFpJMkJuQzFuWXUwVjZXZDE2S0tyd2xvX3NLSVZnUGp2MWxIXzBWRFQzMGh4N0RYc1l1V1NHLVFjUDZGZ1FrOFBXdEg2OG1zb21mNkk?oc=5": 1793241647.1409583,
   "https://kathmandupost.com/art-culture/2026/10/29/nepal-government-s-film-grant-scheme-gets-mixed-reviews": 1793241647.1409583,
   "https://english.khabarhub.com/2026/29/573527/": 1793242152.9589467,
@@ -2048,7 +2045,12 @@
   "https://gorkhapatraonline.com/news/227768": 1793413256.3583212,
   "https://baahrakhari.com/detail/506173": 1793413864.8182135,
   "https://english.khabarhub.com/2026/31/573812/": 1793413864.8182135,
-  "https://theannapurnaexpress.com/story/68365": 1793413864.8182135
+  "https://theannapurnaexpress.com/story/68365": 1793413864.8182135,
+  "https://nagariknews.nagariknetwork.com/politics/ravi-calls-a-secretariat-meeting-sitting-in-the-bell-tower-83-26.html": 1793414446.9438062,
+  "https://www.setopati.com/politics/401664": 1793414446.9438062,
+  "https://kathmandupost.com/art-culture/2026/10/31/what-s-on-in-kathmandu-valley-this-week-1793413738": 1793414446.9438062,
+  "https://www.setopati.com/social/401665": 1793414446.9438062,
+  "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUmhHckcxTF84Mk16M19uV29ZTlJiQjBUYWg0UENJNzQyREhjT1BLN3NGU0RuZF9Od0FkRnZZaU1fSXNubjQtd0xrRng2ZEVBeFFsb2ZXTVpnajVrUHlSY09feUgzS0NGOExoTEZNc1RLZ3J0R1dfV2dWLUxGT2xsSnJuR2hqWFRUQjNoekhnUnJyRGpVZGZscjBHUVMtVnBGOWZ5ajBRbnd4TmVoZHdnaE5SbFhXMmRBXzFKZ3N1LWU3RnFfaGUxMm9veVQwVVU?oc=5": 1793414446.9438062
  },
  "queue": [
   {
@@ -2070,29 +2072,6 @@
    ],
    "cat": "culture",
    "val": 1,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Nepal: 4.2-Magnitude Earthquake Hits Baitadi District Near India Border",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUUNGRDZGTDJ5ZkFLTnpjZzNlT25SZk10bDNUN2NsdTJES09tdlROSzlySURicU1QdWdTODFxNDhxY3BvWHVLMEtLcE9oZm1TaEZoWHJkZ2NtZWZyZmVSQ2M2V0xlRzNYMFg2Uno3ZGVtaFhfcGZUb2xYWDBCdzROUmVzam9Qcm1pVS00b1RaZElCMmZfY1pFbGV5NEQ?oc=5",
-   "source": "News On AIR",
-   "ts": 1793385349,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Nepal: 4.2-Magnitude Earthquake Hits Baitadi District Near India Border",
-   "en": "Nepal: 4.2-Magnitude Earthquake Hits Baitadi District Near India Border",
-   "ne": "Nepal: 4.2-Magnitude Earthquake Hits Baitadi District Near India Border",
-   "imp": 3,
-   "tags": [
-    "Earthquake",
-    "Baitadi",
-    "भूकम्प"
-   ],
-   "cat": "disaster",
-   "val": 3,
    "teaser": false,
    "hits": 1
   },
@@ -3197,6 +3176,53 @@
     "NepaliDiaspora"
    ],
    "cat": "world",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "बाढी पहिरोले पाँच स्थानका सडक अवरूद्ध",
+   "summary": "बाढीपहिरोका कारण गोरखा, काभ्रेपलाञ्चोक र सुर्खेतका विभिन्न सडक अवरुद्ध भएका प्रहरी प्रधानकार्यालयले जनाएको छ।",
+   "link": "https://www.setopati.com/social/401665",
+   "source": "Setopati",
+   "ts": 1793414112,
+   "weight": 3,
+   "img": null,
+   "lang": "ne",
+   "hl": "बाढी पहिरोले पाँच स्थानका सडक अवरूद्ध",
+   "en": "बाढी पहिरोले पाँच स्थानका सडक अवरूद्ध",
+   "ne": "बाढी पहिरोले पाँच स्थानका सडक अवरूद्ध",
+   "imp": 4,
+   "tags": [
+    "Landslide",
+    "Flood",
+    "Highway",
+    "बाढीपहिरो"
+   ],
+   "cat": "disaster",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Cold Chain Support in Chad, Surgical Training in Ukraine, and Medical Care in Flood-Affected Nepal",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUmhHckcxTF84Mk16M19uV29ZTlJiQjBUYWg0UENJNzQyREhjT1BLN3NGU0RuZF9Od0FkRnZZaU1fSXNubjQtd0xrRng2ZEVBeFFsb2ZXTVpnajVrUHlSY09feUgzS0NGOExoTEZNc1RLZ3J0R1dfV2dWLUxGT2xsSnJuR2hqWFRUQjNoekhnUnJyRGpVZGZscjBHUVMtVnBGOWZ5ajBRbnd4TmVoZHdnaE5SbFhXMmRBXzFKZ3N1LWU3RnFfaGUxMm9veVQwVVU?oc=5",
+   "source": "Direct Relief",
+   "ts": 1793401286,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "Cold Chain Support in Chad, Surgical Training in Ukraine, and Medical Care in Flood-Affected Nepal",
+   "en": "Cold Chain Support in Chad, Surgical Training in Ukraine, and Medical Care in Flood-Affected Nepal",
+   "ne": "Cold Chain Support in Chad, Surgical Training in Ukraine, and Medical Care in Flood-Affected Nepal",
+   "imp": 3,
+   "tags": [
+    "MedicalCare",
+    "Flood",
+    "Nepal"
+   ],
+   "cat": "health",
    "val": 2,
    "teaser": false,
    "hits": 1
@@ -6240,7 +6266,7 @@
    "cat": "sports"
   }
  ],
- "updated": 1793413896,
+ "updated": 1793414451,
  "pending_since": 1793413256.3583212,
  "fb_blocks": [
   1790350880.4125228,
