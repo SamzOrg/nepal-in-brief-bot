@@ -3224,29 +3224,6 @@
    "hits": 1
   },
   {
-   "title": "आर्थिक प्रस्ताव सोमबार खोल्ने तयारीमा रहेको सुनकोसी-मरिणको ठेक्का रद्द",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/506174",
-   "source": "Baahrakhari",
-   "ts": 1793414568,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "आर्थिक प्रस्ताव सोमबार खोल्ने तयारीमा रहेको सुनकोसी-मरिणको ठेक्का रद्द",
-   "en": "आर्थिक प्रस्ताव सोमबार खोल्ने तयारीमा रहेको सुनकोसी-मरिणको ठेक्का रद्द",
-   "ne": "आर्थिक प्रस्ताव सोमबार खोल्ने तयारीमा रहेको सुनकोसी-मरिणको ठेक्का रद्द",
-   "imp": 4,
-   "tags": [
-    "SunkoshiMarin",
-    "Contract",
-    "Economy"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Bournemouth in pinch-me territory as another underdog success story in English soccer",
    "summary": "London, Oct. 31: Held aloft by Bournemouth supporters at one end of the club's cozy, 12,000-seat stadium was a giant tif...",
    "link": "https://risingnepaldaily.com/news/88256",
@@ -6604,10 +6581,21 @@
    "n_ig": 1,
    "brk": true,
    "cat": "disaster"
+  },
+  {
+   "ts": 1793415685.652799,
+   "en": "सुनकोसी-मरिण डाइभर्सन आयोजनाको नयाँ ठेक्का प्रक्रिया रद्द",
+   "ne": "सुनकोसी-मरिण डाइभर्सन आयोजनाको नयाँ ठेक्का प्रक्रिया रद्द",
+   "link": "https://baahrakhari.com/detail/506174",
+   "source": "Baahrakhari",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "economy"
   }
  ],
- "updated": 1793415070,
- "pending_since": null,
+ "updated": 1793415699,
+ "pending_since": 1793415679.5804062,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
