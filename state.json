@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPc1R4cXdKYkpUcC0xZ05zNTNuY2ZOOWtZRW0zZERyR0o2ZXBQLWI3V29mc0hYNVBkU3VrLUlHZWQ4WVlueTFzcjFHMjdwLW5YVTExZ1JwOGRaZUFxWlN6aDMtY2dwSlFTTmkyLXcyb18zaG5xaHJtMDdwMGdkMFlXcVVwR2RyZ0JQeTRfbmFSUW9ZajBvYUtsMEFnZnpvaURtSklWRmlkdjhyTW5SSWhtWVRjc3FWTE9kZ09UaHZtbUJXc3Fzd0JlSdIByAFBVV95cUxPc1R4cXdKYkpUcC0xZ05zNTNuY2ZOOWtZRW0zZERyR0o2ZXBQLWI3V29mc0hYNVBkU3VrLUlHZWQ4WVlueTFzcjFHMjdwLW5YVTExZ1JwOGRaZUFxWlN6aDMtY2dwSlFTTmkyLXcyb18zaG5xaHJtMDdwMGdkMFlXcVVwR2RyZ0JQeTRfbmFSUW9ZajBvYUtsMEFnZnpvaURtSklWRmlkdjhyTW5SSWhtWVRjc3FWTE9kZ09UaHZtbUJXc3Fzd0JlSQ?oc=5": 1793378454.3660936,
   "https://news.google.com/rss/articles/CBMijwNBVV95cUxPald2dXd3Tm1ieVI0NEZBVm9VX25tSXZpbHFNMjZuSnJQNFRGbVFBVHp1Zmxvb0lLcDNyZmk1NVhZWnNhQ0dhWHllZzI0RzQyUm9YM0JNUUQxQkhkOHFkUUw4YWU0YnpJN0VISmM2NGdCMVNRekFpV0E3Q1lxUGtsS3FFS2J2MHlyZ1l3ZnNLVTFrSTRSMG5SWmczQnhxNVpxZHJnQ1dzVjBEdGVKMU9DYjNlbkJTS3IyT3REMUhkQVhzNzA0bjNRa2RQMTRwb0V2WWhFeE9LYldjUmRPbXFHaExtYUtuM2h4eXZrcFhFQXVlelpySV9uTEpKNlJvN0RINGNtTkN6ZGlQV1VnemN4dkJXeE1WNUNkTVZrcVJGc2F3WFd3b3RDTUQwTXFnYU1IUlA0VGVUYjB2MmdKOU5ITEt2VDZMZ3pseDFjS3pVeU1rc0RTdUZTMHo3ZjNEMGRyVWtUcGctenJoeV9JQml1T1ktU1FvUWNkSm83Z1FkNWo4WnEzR1pWSWJBb3VZbkU?oc=5": 1793379050.4021227,
   "https://baahrakhari.com/detail/506152": 1793379697.4262202,
   "https://news.google.com/rss/articles/CBMidkFVX3lxTFBxamhpTUNrZXR1dkstQ2hHV0FaRm5zX0hjck1jYjE3MGZjUzZmZVRpb2Q1Y3gzQWVtTHNVZHR3bHlYREJBNGRqeTJZMHJvMlk0QXp5bnRoc09XY1puTzRVTjVsTFhHMUM4ell3d2d2UFlfb0ZJMVE?oc=5": 1793379697.4262202,
@@ -1769,7 +1768,8 @@
   "http://lokaantar.com/story/332356/2026/11/1/china-": 1793551245.0530236,
   "https://gorkhapatraonline.com/news/227957": 1793551245.0530236,
   "http://english.ratopati.com/story/85369/aramco-to-retain-49-percent-stake-in-saudi-ai-company": 1793551245.0530236,
-  "http://lokaantar.com/story/332355/2026/11/1/hetauda-": 1793551245.0530236
+  "http://lokaantar.com/story/332355/2026/11/1/hetauda-": 1793551245.0530236,
+  "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcWZZSm90X0Y5b1BIM0N0U1hFSHAtRkxZQmw0WU41X0RmLWpNemozeEZsUWFTS2dlb2hRckdodkJFa0RPR1Z4dkxpMFBmeW1NTlNDdkVnZ2J5VGk4cmRYNENzU3VzR05JQXFNeXl1VXlOckxEcGVmQmx0WWhmTjY2cWlNR2ZRcEtRaXE0cnRQRjJqenlOc1QzVnYwZWVBV1VzYlE?oc=5": 1793551844.4052136
  },
  "queue": [
   {
@@ -4728,7 +4728,7 @@
    "cat": "world",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Today's News in a Nutshell",
@@ -8026,8 +8026,8 @@
    "cat": "politics"
   }
  ],
- "updated": 1793551251,
- "pending_since": null,
+ "updated": 1793551848,
+ "pending_since": 1793551844.4052136,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
