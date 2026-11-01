@@ -1752,29 +1752,6 @@
  },
  "queue": [
   {
-   "title": "देशभर ४३ विपद्का घटना, १३ जना घाइते",
-   "summary": "काठमाडौँ, कात्तिक १५ गते । देशभर पछिल्लो केही दिनमा भएका ४३ वटा विपद्का घटनामा परी १३ जना घाइते भएका छन् । ती घटनाबाट तीन चौपायामा क्षति पुग्नुका साथै रु नौ लाख ४० हजार बराबरको आर्...",
-   "link": "https://gorkhapatraonline.com/news/227955",
-   "source": "Gorkhapatra",
-   "ts": 1793542241,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/389915/conversions/60f796ef2ced0_60c1578255fc5_Untitled-1-(1)-original.jpg",
-   "lang": "ne",
-   "hl": "देशभर ४३ विपद्का घटना, १३ जना घाइते",
-   "en": "देशभर ४३ विपद्का घटना, १३ जना घाइते",
-   "ne": "देशभर ४३ विपद्का घटना, १३ जना घाइते",
-   "imp": 3,
-   "tags": [
-    "Disaster",
-    "Nepal",
-    "विपद्"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
    "title": "धर्ना अन्त्य गरी संवादमा आउन दलित अधिकारकर्मीलाई मन्त्रालयको आग्रह",
    "summary": "मन्त्रालयले प्रेस विज्ञप्ति जारी गर्दै दलित समुदायले उठाएका मागप्रति सरकार गम्भीर र संवेदनशील रहेको जनाउँदै रचनात्मक संवादमार्फत समस्याको समाधान खोज्न आग्रह गरेको हो।...",
    "link": "https://nagariknews.nagariknetwork.com/politics/ministry-urges-dalit-rights-activists-to-end-sit-in-and-enter-into-dialogue-56-37.html",
@@ -1885,29 +1862,6 @@
     "SportsMinistry"
    ],
    "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "उखुको मूल्य निर्धारणमा किसान र उद्योगीबीच मतभेद, सोमबार मन्त्रालयमा निर्णायक वार्ता",
-   "summary": "चालु क्रसिङ सिजन २०८३/८४ का लागि उखुको मूल्य निर्धारण गर्न सरकारले सोमबार कृषि तथा पशुपन्छी विकास मन्त्रालयमा दुवै पक्षलाई वार्ताका लागि बोलाएको छ।...",
-   "link": "https://nagariknews.nagariknetwork.com/economy/disagreements-between-farmers-and-industrialists-over-sugarcane-price-determination-decisive-talks-to-be-held-at-the-ministry-on-monday-13-71.html",
-   "source": "Nagarik News",
-   "ts": 1793541771,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1750262135_ukhu-kishan-samasyama.gif",
-   "lang": "ne",
-   "hl": "उखुको मूल्य निर्धारणमा किसान र उद्योगीबीच मतभेद, सोमबार मन्त्रालयमा निर्णायक वार्ता",
-   "en": "उखुको मूल्य निर्धारणमा किसान र उद्योगीबीच मतभेद, सोमबार मन्त्रालयमा निर्णायक वार्ता",
-   "ne": "उखुको मूल्य निर्धारणमा किसान र उद्योगीबीच मतभेद, सोमबार मन्त्रालयमा निर्णायक वार्ता",
-   "imp": 3,
-   "tags": [
-    "Sugarcane",
-    "Farmers",
-    "AgricultureMinistry"
-   ],
-   "cat": "economy",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -5697,7 +5651,7 @@
    "cat": "economy"
   }
  ],
- "updated": 1793570481,
+ "updated": 1793571059,
  "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
