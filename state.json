@@ -1751,76 +1751,6 @@
  },
  "queue": [
   {
-   "title": "आज राति यी पाँच प्रदेशमा हुन सक्छ वर्षा र हिमपात",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/506299",
-   "source": "Baahrakhari",
-   "ts": 1793539657,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "आज राति यी पाँच प्रदेशमा हुन सक्छ वर्षा र हिमपात",
-   "en": "आज राति यी पाँच प्रदेशमा हुन सक्छ वर्षा र हिमपात",
-   "ne": "आज राति यी पाँच प्रदेशमा हुन सक्छ वर्षा र हिमपात",
-   "imp": 3,
-   "tags": [
-    "Weather",
-    "Rain",
-    "Snowfall",
-    "मौसम"
-   ],
-   "cat": "disaster",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "सरकार हरेक क्षेत्रमा असफल भइरहेको छ : उपेन्द्र यादव",
-   "summary": "यादवले जनतालाई अनेक आश्वासन बाँडेर आएको पार्टीले सरकारको नेतृत्व गरिरहँदा सबैतिर निराश मात्र बनाइरहेको बताए।...",
-   "link": "https://nagariknews.nagariknetwork.com/politics/government-is-failing-in-every-field-upendra-yadav-br-27-63.html",
-   "source": "Nagarik News",
-   "ts": 1793539453,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1793539445_upendra%20yadav.jpg",
-   "lang": "ne",
-   "hl": "सरकार हरेक क्षेत्रमा असफल भइरहेको छ : उपेन्द्र यादव",
-   "en": "सरकार हरेक क्षेत्रमा असफल भइरहेको छ : उपेन्द्र यादव",
-   "ne": "सरकार हरेक क्षेत्रमा असफल भइरहेको छ : उपेन्द्र यादव",
-   "imp": 3,
-   "tags": [
-    "UpendraYadav",
-    "JSP",
-    "Government"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "४ अर्ब ३६ करोड रुपैयाँको चिठ्ठा जित्ने व्यक्ति जब अन्तिम समयमा पुरस्कार दाबी गर्न पुगे",
-   "summary": "अन्टारियो लटरी एन्ड गेमिङ कर्पोरेसन (ओएलजी) का अनुसार पुरस्कार जित्ने टिकटधनीले म्याद समाप्त हुनुअघि नै आफ्नो दाबी पेस गरेका हुन्।...",
-   "link": "https://nagariknews.nagariknetwork.com/international/when-the-person-who-won-the-lottery-worth-4-36-billion-rupees-came-to-claim-the-prize-at-the-last-moment-87-61.html",
-   "source": "Nagarik News",
-   "ts": 1793539316,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1793539219_Lottery%20News.png",
-   "lang": "ne",
-   "hl": "४ अर्ब ३६ करोड रुपैयाँको चिठ्ठा जित्ने व्यक्ति जब अन्तिम समयमा पुरस्कार दाबी गर्न पुगे",
-   "en": "४ अर्ब ३६ करोड रुपैयाँको चिठ्ठा जित्ने व्यक्ति जब अन्तिम समयमा पुरस्कार दाबी गर्न पुगे",
-   "ne": "४ अर्ब ३६ करोड रुपैयाँको चिठ्ठा जित्ने व्यक्ति जब अन्तिम समयमा पुरस्कार दाबी गर्न पुगे",
-   "imp": 2,
-   "tags": [
-    "Lottery",
-    "Prize",
-    "World"
-   ],
-   "cat": "other",
-   "val": 2,
-   "teaser": true,
-   "hits": 1
-  },
-  {
    "title": "हाम्रो सदाशयतालाई सरकारले कमजोरी ठान्यो : भीष्मराज आङ्देम्बे",
    "summary": "नेपाली कांग्रेस संसदीय दलका नेता भीष्मराज आङ्देम्बेले कांग्रेसले सरकारप्रति देखाएको सदाशयतालाई सरकारले कमजोरीका रूपमा लिएको बताएका छन् ।",
    "link": "https://baahrakhari.com/detail/506304",
@@ -5853,7 +5783,7 @@
    "cat": "economy"
   }
  ],
- "updated": 1793568052,
+ "updated": 1793568669,
  "pending_since": 1793568048.7429729,
  "fb_blocks": [
   1790350880.4125228,
