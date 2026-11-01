@@ -1856,7 +1856,9 @@
   "https://nagariknews.nagariknetwork.com/economy/influential-content-creators-from-7-countries-will-promote-tourism-in-nepal-pokhara-chitwan-and-bardiya-29-22.html": 1793503249.6797202,
   "https://theannapurnaexpress.com/story/68388": 1793503249.6797202,
   "https://gorkhapatraonline.com/news/227889": 1793503249.6797202,
-  "https://gorkhapatraonline.com/news/227888": 1793503249.6797202
+  "https://gorkhapatraonline.com/news/227888": 1793503249.6797202,
+  "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNU1p5dHhzTW4yUDBOd2N5UmxpOXhlaGxXWVdNU3pMM1k0d0E5QzVlUWRnVmtlSEwtZUN5LXp1bzlWaUpoY1VCSzVMVVBaQkdKTkNZcDFqM0IzU2lGYmRCcm5lbWFPTUhBRm5Nd2VRbC1TWHYtRWlpTWlsVTFzSlNBNGFKbHJ5T3lVZGxjNC05Sm8yZ1dYUktrZ05adkluWWM0cWVsdjFCT0FnNzjSAbABQVVfeXFMUHYwUnBWMy1tUHJEZ1BMcWFiOG1XUXVDS2JBbDRVb0ljYldNVzhZeGZ0R3FMLXJvLUY1eHBXZnY0ekxjcUJNUFlhSUZ3ck1wYUZXME1TNEVISFRIdXlFWWp6dldWcDIzcVIxNklwOFY0X1prVVk1S2FEeE9iSkxvblhrWEZSNkhTa3FCYlRwemQ0bGl4d3hwQzhoaTN5czdvZXJTYVdWUmhxcVJ5dnRTc3c?oc=5": 1793503863.6886127,
+  "https://baahrakhari.com/detail/506241": 1793503863.6886127
  },
  "queue": [
   {
@@ -3957,30 +3959,6 @@
    "hits": 1
   },
   {
-   "title": "6 Indian tourists go missing during trek to deepest lake of Nepal, Shey-Phoksundo",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdkZKSm5EaFo4dHdzcE53aTJ6N3VuRnJRal9TaklqN0NwUDV5TXdFVkZGUk14c0t4cG8tWWlaRVM3d2JoYnl3aG1ySVlUU0JBSC1PNmZMX2tVelFwc0VHZ0Y2MlZTSm5hS3lHR1VjRHhaNjhoTV9LSTJxRmxrdGtUZkpUSU9LNGgwNmpsNm5RdGZxQUJySmpRNnRPVjVwSjluQTI1T2ZzLUFsbER4dkNaQ1FPYTBzbDNrcGE0UC1rblVSYUo0N1pidU1sNHZVdw?oc=5",
-   "source": "ANI News",
-   "ts": 1793502780,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "6 Indian tourists go missing during trek to deepest lake of Nepal, Shey-Phoksundo",
-   "en": "6 Indian tourists go missing during trek to deepest lake of Nepal, Shey-Phoksundo",
-   "ne": "6 Indian tourists go missing during trek to deepest lake of Nepal, Shey-Phoksundo",
-   "imp": 4,
-   "tags": [
-    "SheyPhoksundo",
-    "IndianTourists",
-    "Dolpa",
-    "Missing"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "काठमाडौंको आकाशबाट देखिएको बादलको समुद्र र हिमशृंखला",
    "summary": "चन्द्रागिरिबाट ड्रोनमा कैद गरिएका दृश्यमा तल बाक्लो बादल समुद्रझैँ फैलिएको देखिन्छ।",
    "link": "https://www.setopati.com/social/401729",
@@ -4189,7 +4167,7 @@
    "cat": "disaster",
    "val": 3,
    "teaser": true,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Isolated clashes in France after peaceful marches, as police brace for Halloween night violence",
@@ -4334,17 +4312,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1792898454.239949,
-   "en": "Nepal Rastra Bank fixes foreign currency exchange rates for Sunday",
-   "ne": "Nepal Rastra Bank fixes foreign currency exchange rates for Sunday",
-   "link": "https://english.khabarhub.com/2026/25/573046/",
-   "source": "Khabarhub EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "economy"
-  },
   {
    "ts": 1792900254.3744924,
    "en": "Post-Dashain return rush causes traffic congestion across Kathmandu Valley",
@@ -7435,9 +7402,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "politics"
+  },
+  {
+   "ts": 1793503869.5659885,
+   "en": "6 Indian Tourists Missing During Trek to Nepal's Shey-Phoksundo Lake Amid Heavy Snowfall",
+   "ne": "6 Indian Tourists Missing During Trek to Nepal's Shey-Phoksundo Lake Amid Heavy Snowfall",
+   "link": "https://www.aninews.in/news/world/asia/6-indian-tourists-go-missing-during-trek-to-deepest-lake-of-nepal-shey-phoksundo20261101084316",
+   "source": "ANI News",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": true,
+   "cat": "disaster"
   }
  ],
- "updated": 1793503271,
+ "updated": 1793503887,
  "pending_since": 1793503249.6797202,
  "fb_blocks": [
   1790350880.4125228,
