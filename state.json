@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMifkFVX3lxTE5zOExFV1hZV1BERkdzVmlIN0ZYcUVpWTlFbTg2VENyajlLcDBTZVdoc08wTWxyZzd4aHRTRzFfWEl2SkZtUWpiQ0xkRFlBMnIzSUFNZVVzMVozNUVMOW9aWkxXV1dnYzltVWU0RzRzV1J6M2lWWWtLM0JxWUNVQQ?oc=5": 1793334048.2089434,
-  "https://nagariknews.nagariknetwork.com/international/floods-after-glacier-bursts-in-bhutan-hot-water-tanks-washed-away-india-issues-warning-58-65.html": 1793334048.2089434,
   "https://www.setopati.com/social/401585": 1793334669.4592218,
   "https://gorkhapatraonline.com/news/227699": 1793334669.4592218,
   "https://english.onlinekhabar.com/special-train-service-between-janakpur-and-ayodhya-nearing-launch.html": 1793334669.4592218,
@@ -1857,32 +1855,35 @@
   "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOWlZyNFpQZnBuMF9zMDVtWExXNXlKdHhQVWtzRWNTdGs0RkZ0elN6UFFpQ2RnZ2txZ3ZFdkNvYVVfR203NTF1akpYMTV2Ujk2UlZYTnNvQkh3aTJ6cU9zcDhlRE14QUJ3Z1d0X2NpYW84X2xJenRvdnJ1ZVRrcl9EcFVNTzQyZjRYc1VwQ0lWM0pEWko2ejdDSTFJUHItUjNwVTg4WnRSZERFQ1VOcC1FcV9reDdSdm9xS1N0MFdwdWJtbU85NG15MmRMN0FOdDJyUjBaZGJwaTRmaEtfeWZMZ1JDZFY1SzVzQ3JWczN30gHuAUFVX3lxTE5aVnI0WlBmcG4wX3MwNW1YTFc1eUp0eFBVa3NFY1N0azRGRnR6U3pQUWlDZGdna3FndkV2Q29hVV9HbTc1MXVqSlgxNXZSOTZSVlhOc29CSHdpMnpxT3NwOGVETXhBQndnV3RfY2lhbzhfbEl6dG92cnVlVGtyX0RwVU1PNDJmNFhzVXBDSVYzSkRaSjZ6N0NJMUlQci1SM3BVODhadFJkREVDVU5wLUVxX2t4N1J2b3FLU3QwV3B1Ym1tTzk0bXkyZEw3QU50MnJSMFpkYnBpNGZoS195ZkxnUkNkVjVLNXNDclZzM3c?oc=5": 1793506252.8544118,
   "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPVU55ekNuRlFJcm1lN3pkVEJmSFJ1aUhZMVNqMkdobllHSnNmaXRNTFdJXzZHRWZtcDFVM0pGeHRYY0J1cTJKVk5oVGItQkdxSzQ2M3NMLXFKOG82c0Z3SVJRWVFOejhaNzMzeUFuem9ncmRYMFNYaDFoRHhuVDNUZnJLRXFweHNuNkxUNm1jeml0TkM2emZueTdSZ0FHQnNTV3FKNG5TTGtxMGZlcEQ4UzdzaUtxSUdOR1hYM1F5M0F4MElWZnpKTk5hdVkxX29iWnp1ZVp6aDB4WnFMZkR0bWxNaWh4eXJB0gHuAUFVX3lxTE5aVnI0WlBmcG4wX3MwNW1YTFc1eUp0eFBVa3NFY1N0azRGRnR6U3pQUWlDZGdna3FndkV2Q29hVV9HbTc1MXVqSlgxNXZSOTZSVlhOc29CSHdpMnpxT3NwOGVETXhBQndnV3RfY2lhbzhfbEl6dG92cnVlVGtyX0RwVU1PNDJmNFhzVXBDSVYzSkRaSjZ6N0NJMUlQci1SM3BVODhadFJkREVDVU5wLUVxX2t4N1J2b3FLU3QwV3B1Ym1tTzk0bXkyZEw3QU50MnJSMFpkYnBpNGZoS195ZkxnUkNkVjVLNXNDclZzM3c?oc=5": 1793506846.9984493,
   "https://www.setopati.com/social/401733": 1793506846.9984493,
-  "https://theannapurnaexpress.com/story/68391": 1793506846.9984493
+  "https://theannapurnaexpress.com/story/68391": 1793506846.9984493,
+  "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQU3lCQXR3cG5wb05kREJSbzBKQmpscWppLXJwQnJzNnQ4eS16NERUTkxVVEw2bXRNQlFROFB3eXJxVzMwc0VhNmRLWXNnM21Objloa24wLWpzTDN5a2RJUXgxaTBfaFJlSlNOZ04xWkVjdldyNEx5NU1wWkRCWnhwQlY4Q0F2ZEc1bDhnMjBUV1lYYVNnTzZENGphaVBoX2N4a2prdm9YbWxaazZQVGI0T2VOUTRKUDY4b2tXUllBM1BhYXPSAcMBQVVfeXFMUFN5QkF0d3BucG9OZERCUm8wSkJqbHFqaS1ycEJyczZ0OHktejREVE5MVVRMNm10TUJRUThQd3lycVczMHNFYTZkS1lzZzNtTm45aGtuMC1qc0wzeWtkSVF4MWkwX2hSZUpTTmdOMVpFY3ZXcjRMeTVNcFpEQlp4cEJWOENBdmRHNWw4ZzIwVFdZWGFTZ082RDRqYWlQaF9jeGtqa3ZvWG1sWms2UFRiNE9lTlE0SlA2OG9rV1JZQTNQYWFz?oc=5": 1793507464.2359633,
+  "https://baahrakhari.com/detail/506247": 1793507464.2359633,
+  "http://english.ratopati.com/story/85307/irrigation-facilities-in-an-additional-150-hectares-from-sikta-and-babai-projects": 1793507464.2359633,
+  "https://gorkhapatraonline.com/news/227901": 1793507464.2359633,
+  "https://www.setopati.com/social/401734": 1793507464.2359633,
+  "https://nagariknews.nagariknetwork.com/social-affairs/bp-highway-to-open-only-in-the-afternoon-10-am-target-not-met-49-24.html": 1793507464.2359633,
+  "https://risingnepaldaily.com/news/88284": 1793507464.2359633,
+  "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWlA1bDY5dFFpelJMeTBOS0lXai10R19La21kbWt6djFTQ3NweWZMX21CRmVrRmE1ZlY3Q0l6MVNiVkRqdUktTTBseW9ZOHRwVmR2bF9Ld0hfNXBBeWg5dEg5Z1A1VGJZb285VlNwTkZNMXcwVVVVWnJheDNnYmRFU3JHWmZzTEVUT1U3SXRaOWptWTZVbDZJQ2UzZ2t3THdrRGJrQkljWEQ4N0NZYWtHdG1IaXlCWDRhNW5lcFN3?oc=5": 1793507464.2359633,
+  "https://theannapurnaexpress.com/story/68392": 1793507464.2359633,
+  "https://kathmandupost.com/national/2026/11/01/bad-weather-disrupts-flights-at-several-airports-two-international-flights-diverted": 1793507464.2359633,
+  "http://lokaantar.com/story/332317/2026/11/1/rsp-": 1793507464.2359633,
+  "https://baahrakhari.com/detail/506246": 1793507464.2359633,
+  "http://english.ratopati.com/story/85306/trump-one-or-two-more-targets-in-iran-to-be-attacked": 1793507464.2359633,
+  "https://gorkhapatraonline.com/news/227900": 1793507464.2359633,
+  "https://www.setopati.com/opinion/401712": 1793507464.2359633,
+  "https://nagariknews.nagariknetwork.com/politics/rsp-forms-seven-subcommittees-to-select-local-level-candidates-81-38.html": 1793507464.2359633,
+  "https://kathmandupost.com/province-no-2/2026/11/01/parsa-stakeholders-agree-on-joint-efforts-to-clean-up-polluted-sirsiya-river": 1793507464.2359633,
+  "http://english.ratopati.com/story/85305/protests-against-inflation-in-germany-turn-violent-shops-looted-in-frankfurt": 1793507464.2359633,
+  "https://gorkhapatraonline.com/news/227899": 1793507464.2359633,
+  "https://nagariknews.nagariknetwork.com/social-affairs/even-though-the-effects-of-arnab-have-subsided-the-mild-influence-of-the-westerly-winds-will-continue-for-some-time-34-50.html": 1793507464.2359633,
+  "http://english.ratopati.com/story/85303/protests-also-broke-out-in-lisbon-portugal-with-thousands-taking-to-the-streets-demanding-the-repeal-of-the-rent-bill": 1793507464.2359633,
+  "https://gorkhapatraonline.com/news/227897": 1793507464.2359633,
+  "https://nagariknews.nagariknetwork.com/international/khamenei-warns-us-and-israel-geographical-boundaries-will-no-longer-be-respected-if-attacked-58-11.html": 1793507464.2359633,
+  "http://english.ratopati.com/story/85304/indian-chef-who-introduced-curry-to-america-then-mysteriously-disappeared": 1793507464.2359633,
+  "https://nagariknews.nagariknetwork.com/social-affairs/6-indian-tourists-missing-in-snowfall-86-20.html": 1793507464.2359633,
+  "https://nagariknews.nagariknetwork.com/arts/independent-br-78-50.html": 1793507464.2359633
  },
  "queue": [
-  {
-   "title": "India's Opposition Parties Stage Symbolic Impeachment of Election Commissioner",
-   "summary": "Kathmandu. India's political opposition parties on Saturday practiced a 'symbolic impeachment' of the Election Commissioner. They took this step in...",
-   "link": "http://english.ratopati.com/story/85283/indias-opposition-parties-practice-symbolic-impeachment-of-election-commissioner",
-   "source": "Ratopati EN",
-   "ts": 1793478283,
-   "weight": 2,
-   "img": "https://rpcdn.ratopati.com/media/albums/india_flag_ZY8MWFezR1.jpg",
-   "lang": "en",
-   "hl": "India's Opposition Parties Stage Symbolic Impeachment of Election Commissioner",
-   "en": "India's Opposition Parties Stage Symbolic Impeachment of Election Commissioner",
-   "ne": "India's Opposition Parties Stage Symbolic Impeachment of Election Commissioner",
-   "imp": 1,
-   "tags": [
-    "India",
-    "ElectionCommissioner",
-    "Impeachment"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
   {
    "title": "Barcelona Dominates Alaves 6-1 in La Liga",
    "summary": "Kathmandu. In Spanish La Liga football, Barcelona has achieved a spectacular and wide victory of 6-1 goals over Deportivo Alaves.Raphinha...",
@@ -3793,28 +3794,27 @@
    "hits": 1
   },
   {
-   "title": "राष्ट्रिय गौरवका सिँचाइ आयोजनाबाट नयाँ खेतमा पानी",
-   "summary": "राष्ट्रिय गौरवका सिँचाइ आयोजनाहरूले नयाँ क्षेत्रमा सिँचाइ सुविधा पुर्याउन थालेका छन्।",
-   "link": "https://nagariknews.nagariknetwork.com/economy/water-to-new-fields-from-national-pride-irrigation-project-80-53.html",
-   "source": "Nagarik News",
+   "title": "National Irrigation Projects Expand Irrigation Facilities",
+   "summary": "Kathmandu. National pride irrigation projects have started providing irrigation facilities to new areas. According to the Department of Water Resources...",
+   "link": "http://english.ratopati.com/story/85307/irrigation-facilities-in-an-additional-150-hectares-from-sikta-and-babai-projects",
+   "source": "Ratopati EN",
    "ts": 1793502943,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1746330573_sichai.jpg",
-   "lang": "ne",
-   "hl": "राष्ट्रिय गौरवका सिँचाइ आयोजनाबाट नयाँ खेतमा पानी",
-   "en": "राष्ट्रिय गौरवका सिँचाइ आयोजनाबाट नयाँ खेतमा पानी",
-   "ne": "राष्ट्रिय गौरवका सिँचाइ आयोजनाबाट नयाँ खेतमा पानी",
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/sikta_tHYsgcuPwU.jpg",
+   "lang": "en",
+   "hl": "National Irrigation Projects Expand Irrigation Facilities",
+   "en": "National Irrigation Projects Expand Irrigation Facilities",
+   "ne": "National Irrigation Projects Expand Irrigation Facilities",
    "imp": 3,
    "tags": [
     "Irrigation",
-    "NationalPride",
     "Agriculture",
     "सिँचाइ"
    ],
    "cat": "economy",
-   "val": 2,
+   "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Nepal, Bhutan seek dedicated Himalayan climate agenda at COP31",
@@ -3884,7 +3884,7 @@
    "cat": "world",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "काठमाडौंको आकाशबाट देखिएको बादलको समुद्र र हिमशृंखला",
@@ -3958,27 +3958,27 @@
    "hits": 1
   },
   {
-   "title": "बाइस लाख भुक्तानी बाँकी व्यवस्थापनमा समस्या",
-   "summary": "मुगु, समाचारदातामुगु, कात्तिक १५ गते । स्वास्थ्य बिमा कार्यक्रम अन्तर्गत उपचार सेवा प्रदान गरेबापतको रकम भुक्तानी नहुँदा जिल्ला अस्पताल मुगुलाई बिरामीको उपचार तथा स्वास्थ्य सेवा व्...",
-   "link": "https://gorkhapatraonline.com/news/227891",
-   "source": "Gorkhapatra",
+   "title": "Mugu Hospital faces challenges as over Rs. 2M pending from HIB",
+   "summary": "By Harikrishna Aidi, Mugu, Nov,1: District Hospital Mugu has been facing difficulties in treating patients due to the no...",
+   "link": "https://risingnepaldaily.com/news/88284",
+   "source": "Rising Nepal",
    "ts": 1793502606,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/389823/conversions/20220527_060812-original.jpg",
-   "lang": "ne",
-   "hl": "बाइस लाख भुक्तानी बाँकी व्यवस्थापनमा समस्या",
-   "en": "बाइस लाख भुक्तानी बाँकी व्यवस्थापनमा समस्या",
-   "ne": "बाइस लाख भुक्तानी बाँकी व्यवस्थापनमा समस्या",
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "Mugu Hospital faces challenges as over Rs. 2M pending from HIB",
+   "en": "Mugu Hospital faces challenges as over Rs. 2M pending from HIB",
+   "ne": "Mugu Hospital faces challenges as over Rs. 2M pending from HIB",
    "imp": 2,
    "tags": [
-    "Payment",
-    "Management",
-    "भुक्तानी"
+    "Mugu",
+    "Hospital",
+    "HealthInsurance"
    ],
    "cat": "economy",
-   "val": 2,
+   "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Gagan Thapa to Address Current Political Situation and Party's Future Direction",
@@ -4165,7 +4165,7 @@
    "cat": "world",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "विद्यालय पुग्न दुई घण्टा पैदल",
@@ -4419,7 +4419,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 4
   },
   {
    "title": "अलाभेसको पोस्टमा बार्सिलोनाको ६ गोल, यमाल र राफिन्हाको उत्कृष्ट प्रदर्शन",
@@ -4674,20 +4674,352 @@
    "val": 3,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "इजरायली विपक्षी गठबन्धनद्वारा प्रधानमन्त्रीको प्रत्यक्ष निर्वाचन गर्ने प्रस्ताव",
+   "summary": "",
+   "link": "https://baahrakhari.com/detail/506247",
+   "source": "Baahrakhari",
+   "ts": 1793507412,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "इजरायली विपक्षी गठबन्धनद्वारा प्रधानमन्त्रीको प्रत्यक्ष निर्वाचन गर्ने प्रस्ताव",
+   "en": "इजरायली विपक्षी गठबन्धनद्वारा प्रधानमन्त्रीको प्रत्यक्ष निर्वाचन गर्ने प्रस्ताव",
+   "ne": "इजरायली विपक्षी गठबन्धनद्वारा प्रधानमन्त्रीको प्रत्यक्ष निर्वाचन गर्ने प्रस्ताव",
+   "imp": 2,
+   "tags": [
+    "Israel",
+    "Election",
+    "Politics"
+   ],
+   "cat": "world",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "तस्बिरमा धवलागिरि",
+   "summary": "ठाकुरप्रसाद आचार्य म्याग्दी, कात्तिक १५ गते । म्याग्दीको बेनी नगरपालिका-५, पुलाचौरस्थित गाजनेको पर्यटकीयस्थल केभहिलबाट देखिएको धवलागिरि हिमालको दृश्य । मौसम सफा भएसँगै यहाँबाट धवला...",
+   "link": "https://gorkhapatraonline.com/news/227901",
+   "source": "Gorkhapatra",
+   "ts": 1793506886,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/389838/conversions/dhaulagiri-photo-(1)-original.jpg",
+   "lang": "ne",
+   "hl": "तस्बिरमा धवलागिरि",
+   "en": "तस्बिरमा धवलागिरि",
+   "ne": "तस्बिरमा धवलागिरि",
+   "imp": 1,
+   "tags": [
+    "Dhaulagiri",
+    "Photography",
+    "धवलागिरि"
+   ],
+   "cat": "culture",
+   "val": 1,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "गाउँलेले १५ दिन लगाएर ४ वटा पुल बनाएका थिए, बाढीले बगाइदियो",
+   "summary": "गोरखाको चुमनुब्री गाउँपालिका वडा नम्बर ६ चुम्चेतस्थित सर्दीमा बनाइएको अस्थायी पुल बाढीले बगाएको छ।",
+   "link": "https://www.setopati.com/social/401734",
+   "source": "Setopati",
+   "ts": 1793506860,
+   "weight": 3,
+   "img": null,
+   "lang": "ne",
+   "hl": "गाउँलेले १५ दिन लगाएर ४ वटा पुल बनाएका थिए, बाढीले बगाइदियो",
+   "en": "गाउँलेले १५ दिन लगाएर ४ वटा पुल बनाएका थिए, बाढीले बगाइदियो",
+   "ne": "गाउँलेले १५ दिन लगाएर ४ वटा पुल बनाएका थिए, बाढीले बगाइदियो",
+   "imp": 3,
+   "tags": [
+    "Flood",
+    "Bridge",
+    "बाढी"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "बिपी राजमार्ग दिउँसो मात्रै खुल्ने, १० बजेको लक्ष्य पूरा भएन",
+   "summary": "दुई दिनदेखिको अविरल वर्षाका कारण शनिबार बिहानैदेखि अवरुद्ध राजमार्ग खुलाउने प्रयास भइरहे पनि सडकमा भएको क्षतिका कारण तत्काल यातायात सञ्चालन गर्न कठिनाइ भएको हो।...",
+   "link": "https://nagariknews.nagariknetwork.com/social-affairs/bp-highway-to-open-only-in-the-afternoon-10-am-target-not-met-49-24.html",
+   "source": "Nagarik News",
+   "ts": 1793506550,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2026/third-party/1793506515_BP.jpg",
+   "lang": "ne",
+   "hl": "बिपी राजमार्ग दिउँसो मात्रै खुल्ने, १० बजेको लक्ष्य पूरा भएन",
+   "en": "बिपी राजमार्ग दिउँसो मात्रै खुल्ने, १० बजेको लक्ष्य पूरा भएन",
+   "ne": "बिपी राजमार्ग दिउँसो मात्रै खुल्ने, १० बजेको लक्ष्य पूरा भएन",
+   "imp": 3,
+   "tags": [
+    "BPHighway",
+    "Transport",
+    "बीपीराजमार्ग"
+   ],
+   "cat": "society",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "General Secy Acharya to lead RSP delegation to China",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWlA1bDY5dFFpelJMeTBOS0lXai10R19La21kbWt6djFTQ3NweWZMX21CRmVrRmE1ZlY3Q0l6MVNiVkRqdUktTTBseW9ZOHRwVmR2bF9Ld0hfNXBBeWg5dEg5Z1A1VGJZb285VlNwTkZNMXcwVVVVWnJheDNnYmRFU3JHWmZzTEVUT1U3SXRaOWptWTZVbDZJQ2UzZ2t3THdrRGJrQkljWEQ4N0NZYWtHdG1IaXlCWDRhNW5lcFN3?oc=5",
+   "source": "myRepublica",
+   "ts": 1793501100,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "General Secy Acharya to lead RSP delegation to China",
+   "en": "General Secy Acharya to lead RSP delegation to China",
+   "ne": "General Secy Acharya to lead RSP delegation to China",
+   "imp": 2,
+   "tags": [
+    "RSP",
+    "China",
+    "Diplomacy"
+   ],
+   "cat": "politics",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Bad weather disrupts flights at several airports; two international flights diverted",
+   "summary": "Bharatpur, Surkhet and Bhairahawa airports remain closed, while poor visibility and low cloud cover affect operations at Kathmandu airport.",
+   "link": "https://kathmandupost.com/national/2026/11/01/bad-weather-disrupts-flights-at-several-airports-two-international-flights-diverted",
+   "source": "Kathmandu Post",
+   "ts": 1793493065.0771356,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "Bad weather disrupts flights at several airports; two international flights diverted",
+   "en": "Bad weather disrupts flights at several airports; two international flights diverted",
+   "ne": "Bad weather disrupts flights at several airports; two international flights diverted",
+   "imp": 3,
+   "tags": [
+    "Weather",
+    "FlightDisruption",
+    "Airport"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Trump Claims Iran's Nuclear Capability Destroyed, One or Two Targets Remain",
+   "summary": "US President Donald Trump has claimed that Iran's most military capability has been destroyed and that one or two more...",
+   "link": "http://english.ratopati.com/story/85306/trump-one-or-two-more-targets-in-iran-to-be-attacked",
+   "source": "Ratopati EN",
+   "ts": 1793506959,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/donald-trump_b38Op3spB6.webp",
+   "lang": "en",
+   "hl": "Trump Claims Iran's Nuclear Capability Destroyed, One or Two Targets Remain",
+   "en": "Trump Claims Iran's Nuclear Capability Destroyed, One or Two Targets Remain",
+   "ne": "Trump Claims Iran's Nuclear Capability Destroyed, One or Two Targets Remain",
+   "imp": 2,
+   "tags": [
+    "Iran",
+    "Nuclear"
+   ],
+   "cat": "world",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "पाँचौँ पटक म्याद थप्दा पनि बनेन नमुना पशु अस्पताल",
+   "summary": "तनहुँ समाचारदातातनहुँ, कात्तिक १५ गते । पटक पटक म्याद थप गरेर निर्माण सम्पन्न गर्ने प्रतिबद्धता जनाइए पनि दमौलीस्थित नमुना पशु अस्पतालको भवन निर्माणले गति लिन सकेको छैन । पाँचौँ पट...",
+   "link": "https://gorkhapatraonline.com/news/227900",
+   "source": "Gorkhapatra",
+   "ts": 1793506435,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/389836/conversions/1223-original.jpg",
+   "lang": "ne",
+   "hl": "पाँचौँ पटक म्याद थप्दा पनि बनेन नमुना पशु अस्पताल",
+   "en": "पाँचौँ पटक म्याद थप्दा पनि बनेन नमुना पशु अस्पताल",
+   "ne": "पाँचौँ पटक म्याद थप्दा पनि बनेन नमुना पशु अस्पताल",
+   "imp": 2,
+   "tags": [
+    "VeterinaryHospital",
+    "Delay",
+    "विकास"
+   ],
+   "cat": "society",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "बिपीको दुरदृष्टि र भारतीय दक्षिणपन्थको उदय",
+   "summary": "चन्द्रशेखरसँगको एउटा संवाद, जसको राजनीतिक अर्थ आज अझ स्पष्ट हुँदैछ!",
+   "link": "https://www.setopati.com/opinion/401712",
+   "source": "Setopati",
+   "ts": 1793506664,
+   "weight": 3,
+   "img": null,
+   "lang": "ne",
+   "hl": "बिपीको दुरदृष्टि र भारतीय दक्षिणपन्थको उदय",
+   "en": "बिपीको दुरदृष्टि र भारतीय दक्षिणपन्थको उदय",
+   "ne": "बिपीको दुरदृष्टि र भारतीय दक्षिणपन्थको उदय",
+   "imp": 2,
+   "tags": [
+    "BPKoirala",
+    "Philosophy",
+    "India"
+   ],
+   "cat": "politics",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Parsa stakeholders agree on joint efforts to clean up polluted Sirsiya river",
+   "summary": "Industries along the Parsa-Bara industrial corridor will be barred from discharging untreated wastewater into the river and required to operate treatment plants around the clock.",
+   "link": "https://kathmandupost.com/province-no-2/2026/11/01/parsa-stakeholders-agree-on-joint-efforts-to-clean-up-polluted-sirsiya-river",
+   "source": "Kathmandu Post",
+   "ts": 1793493065.0771356,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "Parsa stakeholders agree on joint efforts to clean up polluted Sirsiya river",
+   "en": "Parsa stakeholders agree on joint efforts to clean up polluted Sirsiya river",
+   "ne": "Parsa stakeholders agree on joint efforts to clean up polluted Sirsiya river",
+   "imp": 2,
+   "tags": [
+    "Parsa",
+    "SirsiyaRiver",
+    "Environment"
+   ],
+   "cat": "society",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "माटोमा पुरिएको बलामकोट दरबार",
+   "summary": "बागलुङ समाचारदाताबागलुङ, कात्तिक १५ गते । यहाँको एक ऐतिहासिक संरचना माटोमा पुरिएको छ । बागलुङ नगरपालिका-८, सिगानामा रहेको ऐतिहासिक गढीका रूपमा रहेको बलामकोट संरक्षणको अभावमा मासिँद...",
+   "link": "https://gorkhapatraonline.com/news/227899",
+   "source": "Gorkhapatra",
+   "ts": 1793506233,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/389835/conversions/balamkot-original.jpg",
+   "lang": "ne",
+   "hl": "माटोमा पुरिएको बलामकोट दरबार",
+   "en": "माटोमा पुरिएको बलामकोट दरबार",
+   "ne": "माटोमा पुरिएको बलामकोट दरबार",
+   "imp": 2,
+   "tags": [
+    "Balamkot",
+    "Heritage",
+    "इतिहास"
+   ],
+   "cat": "culture",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "हराउँदै साझा खल्यान, बदलिँदै गाउँको स्वरूप",
+   "summary": "सन्तोष दहित दाङ, कात्तिक १५ गते । कुनै समय गाउँका सबैको अन्न भण्डारण गर्ने, भित्र्याउने साझा थलो थियो खल्यान । धान काट्ने याम सुरु हुनासाथ गाउँले मिलेर खल्यान सफा गर्थे, लिपपोत गर्...",
+   "link": "https://gorkhapatraonline.com/news/227897",
+   "source": "Gorkhapatra",
+   "ts": 1793505913,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/389833/conversions/dhan-kharid-original.jpg",
+   "lang": "ne",
+   "hl": "हराउँदै साझा खल्यान, बदलिँदै गाउँको स्वरूप",
+   "en": "हराउँदै साझा खल्यान, बदलिँदै गाउँको स्वरूप",
+   "ne": "हराउँदै साझा खल्यान, बदलिँदै गाउँको स्वरूप",
+   "imp": 1,
+   "tags": [
+    "VillageLife",
+    "Tradition",
+    "সসকृति"
+   ],
+   "cat": "culture",
+   "val": 1,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "अमेरिका र इजरायललाई खामेनीको चेतावनी : आक्रमण भए अब 'भौगोलिक सीमा' हेरिने छैन",
+   "summary": "फेब्रुअरी २८ मा अमेरिका र इजरायलले इरानमाथि संयुक्त आक्रमण गरेपछि खामेनी सार्वजनिक रूपमा देखिएका छैनन्।...",
+   "link": "https://nagariknews.nagariknetwork.com/international/khamenei-warns-us-and-israel-geographical-boundaries-will-no-longer-be-respected-if-attacked-58-11.html",
+   "source": "Nagarik News",
+   "ts": 1793505657,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2026/third-party/1793505473_Iran%20warn.jpg",
+   "lang": "ne",
+   "hl": "अमेरिका र इजरायललाई खामेनीको चेतावनी : आक्रमण भए अब 'भौगोलिक सीमा' हेरिने छैन",
+   "en": "अमेरिका र इजरायललाई खामेनीको चेतावनी : आक्रमण भए अब 'भौगोलिक सीमा' हेरिने छैन",
+   "ne": "अमेरिका र इजरायललाई खामेनीको चेतावनी : आक्रमण भए अब 'भौगोलिक सीमा' हेरिने छैन",
+   "imp": 3,
+   "tags": [
+    "Iran",
+    "Israel",
+    "Khamenei"
+   ],
+   "cat": "world",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Ranji Smile: The Mysterious Chef Who Introduced Indian Cuisine to America",
+   "summary": "Kathmandu. In 1901, an Indian chef opened what was possibly the first Indian restaurant in America. Ranjit Smile was one...",
+   "link": "http://english.ratopati.com/story/85304/indian-chef-who-introduced-curry-to-america-then-mysteriously-disappeared",
+   "source": "Ratopati EN",
+   "ts": 1793504220,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/chef_1PPm18CU8V.webp",
+   "lang": "en",
+   "hl": "Ranji Smile: The Mysterious Chef Who Introduced Indian Cuisine to America",
+   "en": "Ranji Smile: The Mysterious Chef Who Introduced Indian Cuisine to America",
+   "ne": "Ranji Smile: The Mysterious Chef Who Introduced Indian Cuisine to America",
+   "imp": 1,
+   "tags": [
+    "USA",
+    "IndianCuisine",
+    "Chef"
+   ],
+   "cat": "world",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "स्वतन्त्र",
+   "summary": "ओहो! अब त्यो स्वतन्त्र भयो। सके त्यो बाबू चरा थियो। यो बच्चा त जिउँदै छ। अब म के गरौँ?",
+   "link": "https://nagariknews.nagariknetwork.com/arts/independent-br-78-50.html",
+   "source": "Nagarik News",
+   "ts": 1793504445,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2024/third-party/1793505430_Rosan%20sir%2098.jpg",
+   "lang": "ne",
+   "hl": "स्वतन्त्र",
+   "en": "स्वतन्त्र",
+   "ne": "स्वतन्त्र",
+   "imp": 1,
+   "tags": [
+    "Independent",
+    "स्वतंत्र"
+   ],
+   "cat": "other",
+   "val": 1,
+   "teaser": true,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1792902054.878111,
-   "en": "Gokul Baskota Questions PM Balen Shah's India Visit Agenda on Border Disputes",
-   "ne": "Gokul Baskota Questions PM Balen Shah's India Visit Agenda on Border Disputes",
-   "link": "http://english.ratopati.com/story/84443/gokul-baskotas-question-will-the-issue-of-border-disputes-be-raised-during-balens-visit-to-india-or-not",
-   "source": "Ratopati EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "politics"
-  },
   {
    "ts": 1792903856.9551015,
    "en": "Nepal launches six-year plan to drain four high-altitude glacial lakes",
@@ -7791,8 +8123,8 @@
    "cat": "politics"
   }
  ],
- "updated": 1793506872,
- "pending_since": 1793506252.8544118,
+ "updated": 1793507471,
+ "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
