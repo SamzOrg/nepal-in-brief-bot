@@ -1886,7 +1886,11 @@
   "https://nagariknews.nagariknetwork.com/politics/karnali-s-indigenous-products-and-soil-should-be-protected-chief-minister-shahi-br-48-65.html": 1793497246.034758,
   "https://gorkhapatraonline.com/news/227871": 1793497246.034758,
   "http://lokaantar.com/story/332305/2026/11/1/akabare-": 1793497246.034758,
-  "http://lokaantar.com/story/332304/2026/11/1/napi-": 1793497246.034758
+  "http://lokaantar.com/story/332304/2026/11/1/napi-": 1793497246.034758,
+  "https://english.khabarhub.com/2026/01/573907/": 1793497846.830322,
+  "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNeWh0cUdhLWhrZDdyUXdfRmZPMkR4X1Vid2loQ1haUHRyblBMR0dfbkU4RWhyZDY3cjFrWGk2bEFRdGlvZDVsZXR5SEZvaDRDcHo3SnpjcGxvdmthb25iSEJKbnNORk1NQkc1aE5BOVBPOEM2VjExNXo3SFZlTWw2THhoT09CNzdid2ZxNmNObkVBUXEycHhXRXl2VXNoTEQ2ellHMThDRjliVDd1SVgzd1ZveDl6aDZMT2RzeVUtYTdMNkRYUXNsS2JtNkl3dVNaN3FLSnZKeHBNOVFYYkhFdE9B?oc=5": 1793497846.830322,
+  "https://nagariknews.nagariknetwork.com/social-affairs/farmers-worried-as-akbar-chilli-plants-start-dying-br-60-77.html": 1793497846.830322,
+  "https://theannapurnaexpress.com/story/68385": 1793497846.830322
  },
  "queue": [
   {
@@ -2801,7 +2805,7 @@
    "cat": "tech",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "बालबालिकाको शान्ति चित्रकला",
@@ -3100,7 +3104,7 @@
    "cat": "economy",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "नापी कार्यालयद्वारा ४८ लाख राजस्व सङ्कलन",
@@ -6217,10 +6221,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "sports"
+  },
+  {
+   "ts": 1793497853.5232928,
+   "en": "Quad expresses condolences over Nepal floods and recognizes India's rescue lead",
+   "ne": "Quad expresses condolences over Nepal floods and recognizes India's rescue lead",
+   "link": "https://theannapurnaexpress.com/story/68385",
+   "source": "Annapurna Express",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "disaster"
   }
  ],
- "updated": 1793497253,
- "pending_since": null,
+ "updated": 1793497866,
+ "pending_since": 1793497846.830322,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
