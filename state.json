@@ -1882,7 +1882,13 @@
   "http://english.ratopati.com/story/85285/partial-effect-of-western-low-pressure-system-persists-light-rain-likely-in-these-three-provinces-today": 1793494245.7727714,
   "https://gorkhapatraonline.com/news/227861": 1793494245.7727714,
   "https://gorkhapatraonline.com/news/227859": 1793494245.7727714,
-  "https://gorkhapatraonline.com/news/227858": 1793494245.7727714
+  "https://gorkhapatraonline.com/news/227858": 1793494245.7727714,
+  "https://gorkhapatraonline.com/news/227865": 1793494877.0690565,
+  "https://www.setopati.com/social/401723": 1793494877.0690565,
+  "https://kathmandupost.com/columns/2026/11/01/nepal-has-the-creativity-and-talent-to-build-its-own-industries-what-it-needs-is-government-support": 1793494877.0690565,
+  "https://kathmandupost.com/columns/2026/11/01/how-nepal-s-diverse-voices-are-shaping-political-awakening-and-responding-to-modern-challenges": 1793494877.0690565,
+  "http://lokaantar.com/story/332299/2026/11/1/sirsiya-river-": 1793494877.0690565,
+  "https://www.setopati.com/social/401724": 1793494877.0690565
  },
  "queue": [
   {
@@ -2595,20 +2601,33 @@
    "val": 1,
    "teaser": true,
    "hits": 1
+  },
+  {
+   "title": "वर्षा र पहिरोले काभ्रे, खोटाङ र ललितपुरका सडक अवरूद्ध",
+   "summary": "लगातारको वर्षाका कारण आएको बाढी र पहिरोले विभिन्न सडक खण्ड अवरूद्ध भएका छन्।",
+   "link": "https://www.setopati.com/social/401724",
+   "source": "Setopati",
+   "ts": 1793494546,
+   "weight": 3,
+   "img": null,
+   "lang": "ne",
+   "hl": "वर्षा र पहिरोले काभ्रे, खोटाङ र ललितपुरका सडक अवरूद्ध",
+   "en": "वर्षा र पहिरोले काभ्रे, खोटाङ र ललितपुरका सडक अवरूद्ध",
+   "ne": "वर्षा र पहिरोले काभ्रे, खोटाङ र ललितपुरका सडक अवरूद्ध",
+   "imp": 4,
+   "tags": [
+    "Kavre",
+    "Khotang",
+    "Lalitpur",
+    "पहिरो"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1792889457.106733,
-   "en": "पक्की पुल बगाएपछि झोलुङ्गे पुलमा सवारी जाम, सुरक्षा मापदण्डमा चुनौती",
-   "ne": "पक्की पुल बगाएपछि झोलुङ्गे पुलमा सवारी जाम, सुरक्षा मापदण्डमा चुनौती",
-   "link": "https://gorkhapatraonline.com/news/227160",
-   "source": "Gorkhapatra",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "society"
-  },
   {
    "ts": 1792891268.6666641,
    "en": "UN Climate Fund Sets Aside $21.6M for Nepal After August Floods",
@@ -5701,8 +5720,8 @@
    "cat": "politics"
   }
  ],
- "updated": 1793494269,
- "pending_since": null,
+ "updated": 1793494882,
+ "pending_since": 1793494877.0690565,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
