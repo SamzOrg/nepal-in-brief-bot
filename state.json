@@ -1844,7 +1844,13 @@
   "http://english.ratopati.com/story/85320/negligence-in-dolpa-prison-15-security-personnel-for-17-prisoners-yet-8-prisoners-dig-tunnels": 1793517049.3472536,
   "https://nagariknews.nagariknetwork.com/politics/minister-rawal-is-leaving-for-jhapa-tomorrow-68-25.html": 1793517049.3472536,
   "http://english.ratopati.com/story/85314/pressure-for-generational-change-in-madhesi-parties": 1793517049.3472536,
-  "https://nagariknews.nagariknetwork.com/politics/every-citizen-should-get-easy-accessible-and-quality-health-services-chief-minister-thapa-74-76.html": 1793517049.3472536
+  "https://nagariknews.nagariknetwork.com/politics/every-citizen-should-get-easy-accessible-and-quality-health-services-chief-minister-thapa-74-76.html": 1793517049.3472536,
+  "https://risingnepaldaily.com/news/88288": 1793517647.2806475,
+  "https://english.onlinekhabar.com/bhattarai-warns-of-looming-crisis-in-the-country.html": 1793517647.2806475,
+  "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1TRGRVbjJqOUpXajN4SzdKcUVKYmFfQ0ZTcldOMC1HZXl0ZXA2Z2tZNUxLVF9GZjZiUUhrbWNsRVo0cGhUNllCSXppcWt1a3FO?oc=5": 1793517647.2806475,
+  "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1fbWxTTzItRVR5SjBvT2E1dU5wQ3laYzUxQWctejBKREw2N2ZqMlR1RVZlWTZBcV9ldXdQSDlCWFIyeUdZY0JrVU8xNERSTWh3TElVN2IxZFF6UXda?oc=5": 1793517647.2806475,
+  "https://risingnepaldaily.com/news/88287": 1793517647.2806475,
+  "http://lokaantar.com/story/332323/2026/11/1/germany": 1793517647.2806475
  },
  "queue": [
   {
@@ -3503,7 +3509,7 @@
    "cat": "world",
    "val": 3,
    "teaser": false,
-   "hits": 3
+   "hits": 4
   },
   {
    "title": "काठमाडौंको आकाशबाट देखिएको बादलको समुद्र र हिमशृंखला",
@@ -4988,7 +4994,7 @@
    "cat": "culture",
    "val": 3,
    "teaser": false,
-   "hits": 3
+   "hits": 4
   },
   {
    "title": "मण्डनदेउपुरमा निःशुल्क आँखा शिविर",
@@ -5420,29 +5426,6 @@
    "val": 3,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "RSP to select local-level candidates through 'Candidate Club'",
-   "summary": "KATHMANDU: The Rastriya Swatantra Party (RSP) has decided to invite applications from interested and eligible individuals seeking to contest for the posts of ward chairperson and ward member in the upcoming local-level...",
-   "link": "https://english.khabarhub.com/2026/01/573925/",
-   "source": "Khabarhub EN",
-   "ts": 1793513291,
-   "weight": 2,
-   "img": "https://english.khabarhub.com/wp-content/uploads/2025/09/Rastriya-Swatantra-Party-RSP-400x220.jpg",
-   "lang": "en",
-   "hl": "RSP to select local-level candidates through 'Candidate Club'",
-   "en": "RSP to select local-level candidates through 'Candidate Club'",
-   "ne": "RSP to select local-level candidates through 'Candidate Club'",
-   "imp": 3,
-   "tags": [
-    "RSP",
-    "CandidateClub",
-    "रास्वपा"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 3
   },
   {
    "title": "Traffic police collect over Rs 2.8 million in fines in three months in Syangja",
@@ -6309,29 +6292,6 @@
     "CourtCrisis"
    ],
    "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Rastriya Swatantra Party Directs Parliamentary Party to Take Decisive Action Against Judicial Irregularities",
-   "summary": "Kathmandu. The secretariat meeting of the Rastriya Swatantra Party (RSP), which is running a government with a single majority, has...",
-   "link": "http://english.ratopati.com/story/85322/the-impeachment-that-the-rashtriya-swayamsevak-sangh-rss-is-trying-to-move-forward-how-will-the-process-progress-until-removal-from-office",
-   "source": "Ratopati EN",
-   "ts": 1793516492,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/mahaavigog_mImfpGBCQ9.webp",
-   "lang": "en",
-   "hl": "Rastriya Swatantra Party Directs Parliamentary Party to Take Decisive Action Against Judicial Irregularities",
-   "en": "Rastriya Swatantra Party Directs Parliamentary Party to Take Decisive Action Against Judicial Irregularities",
-   "ne": "Rastriya Swatantra Party Directs Parliamentary Party to Take Decisive Action Against Judicial Irregularities",
-   "imp": 4,
-   "tags": [
-    "RSP",
-    "Judiciary",
-    "Parliament"
-   ],
-   "cat": "politics",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -9588,9 +9548,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "crime"
+  },
+  {
+   "ts": 1793517655.307879,
+   "en": "RSP to Select Local-Level Candidates Through 'Candidate Club'",
+   "ne": "RSP to Select Local-Level Candidates Through 'Candidate Club'",
+   "link": "https://english.khabarhub.com/2026/01/573925/",
+   "source": "Khabarhub EN",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "politics"
   }
  ],
- "updated": 1793517057,
+ "updated": 1793517667,
  "pending_since": 1793517049.3472536,
  "fb_blocks": [
   1790350880.4125228,
