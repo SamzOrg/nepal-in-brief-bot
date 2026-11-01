@@ -1753,53 +1753,6 @@
  },
  "queue": [
   {
-   "title": "अमेरिकासँगको नयाँ युद्ध अघिल्लोभन्दा लामो हुन सक्छ : इरानी सेना",
-   "summary": "अमेरिकासँगको कुनै नयाँ युद्ध अघिल्लो युद्धभन्दा लामो हुन सक्ने इरानले आइतबार चेतावनी दिएको छ।",
-   "link": "https://nagariknews.nagariknetwork.com/international/new-war-with-us-could-last-longer-than-previous-one-iranian-military-44-98.html",
-   "source": "Nagarik News",
-   "ts": 1793537202,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1793538364_iram%20military.jpg",
-   "lang": "ne",
-   "hl": "अमेरिकासँगको नयाँ युद्ध अघिल्लोभन्दा लामो हुन सक्छ : इरानी सेना",
-   "en": "अमेरिकासँगको नयाँ युद्ध अघिल्लोभन्दा लामो हुन सक्छ : इरानी सेना",
-   "ne": "अमेरिकासँगको नयाँ युद्ध अघिल्लोभन्दा लामो हुन सक्छ : इरानी सेना",
-   "imp": 1,
-   "tags": [
-    "Iran",
-    "USA",
-    "War",
-    "MiddleEast"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 3
-  },
-  {
-   "title": "सोमबारदेखि सरकारी कार्यालय बिहान ९ देखि अपराह्न ४ बजेसम्म",
-   "summary": "माघ १५ गतेसम्म देशभरका सरकारी कार्यालयहरू बिहान ९ बजेदेखि अपराह्न ४ बजेसम्म मात्रै सञ्चालन हुनेछन्।...",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/from-monday-government-offices-will-be-open-from-9-am-to-4-pm-46-78.html",
-   "source": "Nagarik News",
-   "ts": 1793536916,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1774176884__home%20ministry-.jpg",
-   "lang": "ne",
-   "hl": "सोमबारदेखि सरकारी कार्यालय बिहान ९ देखि अपराह्न ४ बजेसम्म",
-   "en": "सोमबारदेखि सरकारी कार्यालय बिहान ९ देखि अपराह्न ४ बजेसम्म",
-   "ne": "सोमबारदेखि सरकारी कार्यालय बिहान ९ देखि अपराह्न ४ बजेसम्म",
-   "imp": 3,
-   "tags": [
-    "NepalGovernment",
-    "OfficeHours",
-    "Nepal"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "आज राति यी पाँच प्रदेशमा हुन सक्छ वर्षा र हिमपात",
    "summary": "",
    "link": "https://baahrakhari.com/detail/506299",
@@ -6086,8 +6039,8 @@
    "cat": "economy"
   }
  ],
- "updated": 1793565653,
- "pending_since": null,
+ "updated": 1793566250,
+ "pending_since": 1793566247.4026682,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
