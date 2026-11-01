@@ -1,9 +1,5 @@
 {
  "seen": {
-  "https://english.onlinekhabar.com/man-arrested-romania-and-croatia.html": 1793344849.149451,
-  "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAyUlNjcjNER1R4cnFMVjFETE9qekZKSnZ4c0NwRUJ1RGxDckRLb2RwLUUtYmlGaTh6OGNZZ3ZucDA1cFpwQnNMVjN6ZXFPYzhZS1htNnhjeExtUERLUGhv?oc=5": 1793344849.149451,
-  "https://gorkhapatraonline.com/news/227724": 1793344849.149451,
-  "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWW9ickg4akNYc0I4cV93NEJZNjIxQ21od2dZUmZLSUY0c1hzQzc3WVlqeFFpalZpclIxaUlacGNRbG8yUEhzNkZ1bVZlZkUwVEhWd21EaElXQkhOX0s5Q0g4VW8tQzVwRXdXazMyTDJiSm01Wi15SVpUelJuSjBNbURCLU9ZWkU1THZvc1lGTjI5S3lzc2h2U2RxZzhYSFlraEhfSzFVVU8yNThjMWFXckt2c0FONW9iUUpYM21yQVlLa1QyOVpWRHNIOUFRWDBIajRhd0s5Rm4?oc=5": 1793344849.149451,
   "http://english.ratopati.com/story/85084/is-it-possible-to-make-the-local-level-non-partisan": 1793345467.8915355,
   "https://news.google.com/rss/articles/CBMid0FVX3lxTE1QX21oNUEyaVhUQlBrTFh3bk1peXBPUTRKYWVhSUNPYWw2SWh2WWloOUZVUTFJYU9qeENyam5BVm1FY1BwMTd3QmVpQkNKdnljRnBmTGh4b0xtdGhwR292SmItNEE5ekJ1Y3ZqUEcyVnV3SDlERVBV?oc=5": 1793345467.8915355,
   "https://thehimalayantimes.com/nepal/un-extends-nepals-ldc-graduation-deadline-to-2029": 1793345467.8915355,
@@ -1850,7 +1846,9 @@
   "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1TRGRVbjJqOUpXajN4SzdKcUVKYmFfQ0ZTcldOMC1HZXl0ZXA2Z2tZNUxLVF9GZjZiUUhrbWNsRVo0cGhUNllCSXppcWt1a3FO?oc=5": 1793517647.2806475,
   "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1fbWxTTzItRVR5SjBvT2E1dU5wQ3laYzUxQWctejBKREw2N2ZqMlR1RVZlWTZBcV9ldXdQSDlCWFIyeUdZY0JrVU8xNERSTWh3TElVN2IxZFF6UXda?oc=5": 1793517647.2806475,
   "https://risingnepaldaily.com/news/88287": 1793517647.2806475,
-  "http://lokaantar.com/story/332323/2026/11/1/germany": 1793517647.2806475
+  "http://lokaantar.com/story/332323/2026/11/1/germany": 1793517647.2806475,
+  "https://theannapurnaexpress.com/story/68404": 1793518264.8163152,
+  "https://thehimalayantimes.com/world-cup-2026/one-rescued-one-dies-after-snowstorm-strands-travellers-in-badimalika": 1793518264.8163152
  },
  "queue": [
   {
@@ -3536,53 +3534,6 @@
    "hits": 1
   },
   {
-   "title": "Bankers fear loan misuse ruling could shake confidence in lending",
-   "summary": "With excess liquidity, historically low interest rates and weak credit demand, bankers warn that the prospect of criminal cases against borrowers who divert loan funds could further dampen lending, particularly if past...",
-   "link": "https://kathmandupost.com/national/2026/11/01/bankers-fear-loan-misuse-ruling-could-shake-confidence-in-lending",
-   "source": "Kathmandu Post",
-   "ts": 1793488850.9289112,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Bankers fear loan misuse ruling could shake confidence in lending",
-   "en": "Bankers fear loan misuse ruling could shake confidence in lending",
-   "ne": "Bankers fear loan misuse ruling could shake confidence in lending",
-   "imp": 3,
-   "tags": [
-    "Bankers",
-    "LoanMisuse",
-    "Lending",
-    "NEPSE"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "US midterm campaign enters final weekend as Alaska, California ballot fights heat up",
-   "summary": "President Donald Trump's administration pressed a criminal investigation into Alaska's pivotal US Senate race and said on Saturday it would likely take its fight over thousands of California mail-in ballots to the...",
-   "link": "https://theannapurnaexpress.com/story/68390",
-   "source": "Annapurna Express",
-   "ts": 1793488850.9189224,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "US midterm campaign enters final weekend as Alaska, California ballot fights heat up",
-   "en": "US midterm campaign enters final weekend as Alaska, California ballot fights heat up",
-   "ne": "US midterm campaign enters final weekend as Alaska, California ballot fights heat up",
-   "imp": 1,
-   "tags": [
-    "MidtermCampaign",
-    "Alaska",
-    "California"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Mugu Hospital faces challenges as over Rs. 2M pending from HIB",
    "summary": "By Harikrishna Aidi, Mugu, Nov,1: District Hospital Mugu has been facing difficulties in treating patients due to the no...",
    "link": "https://risingnepaldaily.com/news/88284",
@@ -3699,29 +3650,6 @@
    "hits": 2
   },
   {
-   "title": "Isolated clashes in France after peaceful marches, as police brace for Halloween night violence",
-   "summary": "Scuffles broke out in Paris and other French cities on Saturday evening at the end of nationwide demonstrations driven by anger over living costs and strained public services, while authorities warned of possible...",
-   "link": "https://theannapurnaexpress.com/story/68389",
-   "source": "Annapurna Express",
-   "ts": 1793488850.9189224,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Isolated clashes in France after peaceful marches, as police brace for Halloween night violence",
-   "en": "Isolated clashes in France after peaceful marches, as police brace for Halloween night violence",
-   "ne": "Isolated clashes in France after peaceful marches, as police brace for Halloween night violence",
-   "imp": 1,
-   "tags": [
-    "France",
-    "Protests",
-    "Halloween"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "कोशी प्रदेशका चार जिल्लामा केन्द्रीय प्रसारण लाइन अवरुद्ध",
    "summary": "साहारा लिम्बूफुङलिङ, कात्तिक १५ गते । ताप्लेजुङसहित कोशी प्रदेशका चार जिल्लामा आइतबार केन्द्रीय प्रसारण लाइन अवरुद्ध हुने छ । आइतबार आठ घण्टा ताप्लेजुङ, पाँचथर, इलाम र झापा जिल्लाम...",
    "link": "https://gorkhapatraonline.com/news/227890",
@@ -3765,29 +3693,6 @@
     "Chitwan"
    ],
    "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "Thousands return to Lisbon square, press government to scrap rental bill",
-   "summary": "Thousands of housing protesters returned to one of Lisbon's main squares on Saturday, stepping up pressure on Portugal's minority centre-right government to scrap a rental bill they say would worsen the country's...",
-   "link": "https://theannapurnaexpress.com/story/68388",
-   "source": "Annapurna Express",
-   "ts": 1793488850.9189224,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Thousands return to Lisbon square, press government to scrap rental bill",
-   "en": "Thousands return to Lisbon square, press government to scrap rental bill",
-   "ne": "Thousands return to Lisbon square, press government to scrap rental bill",
-   "imp": 1,
-   "tags": [
-    "Lisbon",
-    "Portugal",
-    "RentalBill"
-   ],
-   "cat": "world",
    "val": 3,
    "teaser": false,
    "hits": 2
@@ -6433,20 +6338,33 @@
    "val": 3,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "One rescued, one dies after snowstorm strands travellers in Badimalika",
+   "summary": "Key Takeaways: Missing youth Manish Bohara found dead near Triveni Patan Nepal Army helicopter team located the body during search operation Another stranded traveller was resc...",
+   "link": "https://thehimalayantimes.com/world-cup-2026/one-rescued-one-dies-after-snowstorm-strands-travellers-in-badimalika",
+   "source": "Himalayan Times",
+   "ts": 1793516899,
+   "weight": 3,
+   "img": "https://thehimalayantimes.com/thehimalayantimes/uploads/images/2026/11/01/51667.jpeg",
+   "lang": "en",
+   "hl": "One rescued, one dies after snowstorm strands travellers in Badimalika",
+   "en": "One rescued, one dies after snowstorm strands travellers in Badimalika",
+   "ne": "One rescued, one dies after snowstorm strands travellers in Badimalika",
+   "imp": 4,
+   "tags": [
+    "Badimalika",
+    "Snowstorm",
+    "Bajura",
+    "हिमपात"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1792912856.9807706,
-   "en": "Surkhet records highest road accident deaths in Karnali for FY 2025/26",
-   "ne": "Surkhet records highest road accident deaths in Karnali for FY 2025/26",
-   "link": "https://myrepublica.nagariknetwork.com/amp/news/surkhet-records-highest-number-of-road-accident-deaths-in-karnali-22-98.html",
-   "source": "myRepublica",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "crime"
-  },
   {
    "ts": 1792914654.1226265,
    "en": "Sudurpaschim Royals signs West Indies all-rounder Fabian Allen for NPL",
@@ -9561,7 +9479,7 @@
    "cat": "politics"
   }
  ],
- "updated": 1793517667,
+ "updated": 1793518270,
  "pending_since": 1793517049.3472536,
  "fb_blocks": [
   1790350880.4125228,
