@@ -1,9 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9DV0xlcUR6dXhNT3U5UXFiNGJwMmlsdXdXWEVWTHhGRXdqWHB2OVZuYUg3cnU0eU9PNDBqcXhZb2J6MHRnR2ZEWWN2VDFFU3B1N3Rpb0hEc0U?oc=5": 1793327466.502491,
-  "https://news.google.com/rss/articles/CBMigAFBVV95cUxPd1hCV1dNZ0JNbXVGcVg2N2Y0czB0WUJnTGhsSVhsd053MVM5UzVnY3k5dzBWSFkxMzFZdDV0VERaS0VMaF91V0c2djNwalhLa1hSMUFqS2xHU1BwSzFOTHB6T3kwYUszSVhuXzNXYUwzUWFUdE1OWkhRXzh4TFVfdA?oc=5": 1793327466.502491,
-  "https://kathmandupost.com/money/2026/10/30/nepal-plans-temporary-bridges-to-reopen-flood-hit-rasuwagadhi-border-crossing": 1793327466.502491,
-  "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSGE4ZHE1ekxVYVZOYXg1bEdrQTE2NFlGOFJVYU5HRDhtN3djbnhQODVUZFU2Z2VLVFZ5dE1QSEVVZ0pzSkQ4Q3IyTTZPY2ZCRURBNUZHYWF4YjFXMncxbXBoRXNOVDZGalFhUV9QbXF3MlVsazBSZjdqeS0yS1VtYXlFcG4wV2xtV3FCdm5ia0Vha0Y0ekhubVllQTd2RGNfeU9FVVl2dTdEOHVhYVZyUUpqVkpWa2tXbVJlUQ?oc=5": 1793327466.502491,
   "http://english.ratopati.com/story/85043/impact-of-arnab-tourist-travel-affected-in-kanchenjunga-region": 1793328648.7406173,
   "https://gorkhapatraonline.com/news/227688": 1793328648.7406173,
   "https://risingnepaldaily.com/news/88218": 1793328648.7406173,
@@ -1866,7 +1862,8 @@
   "https://gorkhapatraonline.com/news/227877": 1793499648.841869,
   "http://lokaantar.com/story/332308/2026/11/1/hell-": 1793499648.841869,
   "https://gorkhapatraonline.com/news/227876": 1793499648.841869,
-  "https://risingnepaldaily.com/news/88277": 1793500262.1115026
+  "https://risingnepaldaily.com/news/88277": 1793500262.1115026,
+  "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUFFwR0IxZlc2NGtLcDFiOEc4eEdzdVFaekFKZVVuOWFUcWJGS3JqelRkZ1NhNEZxYlJ5c1pLZG1QMnBPaEY3MVpNNDAxOGdNejJKT1JQazNTTXAzRlNyZnRJTndZUUdJNURVOGpZVF9aeFRXaWFWdDNDT0twTVg5MzVESEFLRE5sQWtDVmZzdFZaeVRBdGcxQ3pxRlZuMlNBZmtiZ0p3eThjcmFoZEZfSm1JTmxYLUFBeGVneUdBcWtsNmNxeXE1SGxn?oc=5": 1793500847.38298
  },
  "queue": [
   {
@@ -3270,7 +3267,7 @@
    "cat": "economy",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Quad ministers reaffirm commitment to free and open Indo-Pacific, announces $85 million support for super intelligence initiatives",
@@ -6668,7 +6665,7 @@
    "cat": "economy"
   }
  ],
- "updated": 1793500266,
+ "updated": 1793500850,
  "pending_since": 1793499648.841869,
  "fb_blocks": [
   1790350880.4125228,
