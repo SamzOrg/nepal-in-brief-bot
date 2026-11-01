@@ -1,9 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVEU2QmJYTmRZRXVFak9SUTF3Q1FGZkFjZnNDV2w5dkd1eDNPMzgwbmFxVEFkcG9lVV82UlR3b0NFeUpLdEVCZUREZmp3bk9CWTlSdkhyTlF6RzB1LTJoU0xudk9HWEJHWEZGaWgxc1AyeUxEdk1iZ3N5ZGlDdUhmT0FyeWNramw0YmptY2g3SUNYdHlCclpTSkNzTkI2V0YtaEdTZGdNT2t2dkZCOHMxVQ?oc=5": 1793322648.062072,
-  "http://lokaantar.com/story/332179/2026/10/30/mithai-": 1793322648.062072,
-  "https://baahrakhari.com/detail/506059": 1793322648.062072,
-  "http://english.ratopati.com/story/85037/full-damage-report-to-be-made-public-before-tihar-reconstruction-estimated-to-cost-rs-700-billion": 1793322648.062072,
   "https://english.khabarhub.com/2026/30/573690/": 1793323249.3641164,
   "https://english.khabarhub.com/2026/30/573681/": 1793323249.3641164,
   "https://nagariknews.nagariknetwork.com/social-affairs/temporary-wooden-bridge-connecting-syafrubesi-khamjing-in-operation-40-48.html": 1793323249.3641164,
@@ -1868,7 +1864,33 @@
   "http://lokaantar.com/story/332299/2026/11/1/sirsiya-river-": 1793494877.0690565,
   "https://www.setopati.com/social/401724": 1793494877.0690565,
   "https://kathmandupost.com/climate-environment/2026/11/01/nepal-and-bhutan-propose-dedicated-cop31-agenda-on-1-5-c-warming-in-mountain-regions": 1793495444.005183,
-  "https://risingnepaldaily.com/news/88273": 1793495444.005183
+  "https://risingnepaldaily.com/news/88273": 1793495444.005183,
+  "https://nagariknews.nagariknetwork.com/social-affairs/one-dead-two-injured-in-disasters-across-the-country-66-38.html": 1793496045.2743785,
+  "https://nagariknews.nagariknetwork.com/social-affairs/rain-and-landslides-block-roads-in-kavre-khotang-and-lalitpur-20-70.html": 1793496045.2743785,
+  "http://lokaantar.com/story/332302/2026/11/1/mahakali-sichai-": 1793496045.2743785,
+  "http://lokaantar.com/story/332303/2026/11/1/bipad-": 1793496045.2743785,
+  "https://gorkhapatraonline.com/news/227870": 1793496045.2743785,
+  "https://risingnepaldaily.com/news/88274": 1793496045.2743785,
+  "https://nagariknews.nagariknetwork.com/international/trump-administration-responds-to-accusations-of-helping-bring-bolsonaro-to-the-us-39-35.html": 1793496045.2743785,
+  "http://english.ratopati.com/story/85288/todays-npl-match-between-janakpur-and-pokhara-what-are-the-past-results": 1793496045.2743785,
+  "https://baahrakhari.com/detail/506231": 1793496045.2743785,
+  "https://kathmandupost.com/art-culture/2026/11/01/fiction-the-village-voice": 1793496045.2743785,
+  "http://lokaantar.com/story/332301/2026/11/1/bhansar-": 1793496045.2743785,
+  "https://gorkhapatraonline.com/news/227868": 1793496045.2743785,
+  "https://risingnepaldaily.com/news/88272": 1793496045.2743785,
+  "https://nagariknews.nagariknetwork.com/social-affairs/spanish-climber-successfully-climbs-mount-jugal-2-for-the-first-time-59-64.html": 1793496045.2743785,
+  "http://english.ratopati.com/story/85289/these-roads-are-blocked-by-rain-and-landslides": 1793496045.2743785,
+  "https://kathmandupost.com/cricket/2026/11/01/the-npl-match-that-needed-a-diplomatic-breakthrough": 1793496045.2743785,
+  "http://lokaantar.com/story/332300/2026/11/1/sadak-": 1793496045.2743785,
+  "https://gorkhapatraonline.com/news/227867": 1793496045.2743785,
+  "https://risingnepaldaily.com/news/88271": 1793496045.2743785,
+  "https://nagariknews.nagariknetwork.com/politics/nepali-congress-president-thapa-is-giving-a-special-address-on-current-affairs-today-39-39.html": 1793496045.2743785,
+  "https://kathmandupost.com/money/2026/11/01/sunkoshi-marin-contract-cancellation-defers-madhesh-irrigation-dream": 1793496045.2743785,
+  "https://gorkhapatraonline.com/news/227866": 1793496045.2743785,
+  "https://nagariknews.nagariknetwork.com/social-affairs/request-for-opinions-and-suggestions-for-the-establishment-of-an-apple-development-board-br-50-46.html": 1793496045.2743785,
+  "https://kathmandupost.com/national/2026/11/01/who-ordered-the-police-crackdown-on-journalists": 1793496045.2743785,
+  "https://nagariknews.nagariknetwork.com/social-affairs/garbage-dumping-in-sirsia-river-to-be-banned-49-18.html": 1793496045.2743785,
+  "https://kathmandupost.com/politics/2026/10/31/rsp-leaves-decision-on-impeachment-of-controversial-supreme-court-judges-to-the-parliamentary-party": 1793496045.2743785
  },
  "queue": [
   {
@@ -1915,30 +1937,7 @@
    "cat": "world",
    "val": 3,
    "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "उत्कृष्ट दुग्ध उत्पादक किसान सम्मानित",
-   "summary": "अमरराज नहर्कीतनहुँ, कात्तिक १४ गते । तनहुँ जिल्लाका उत्कृष्ट दुग्ध उत्पादक किसानलाई नगद पुरस्कारसहित सम्मान गरिएको छ । तनहुँ जिल्ला दुग्ध उत्पादक सहकारी सङ्घ लिमिटेड, दमौलीको ३१औँ...",
-   "link": "https://gorkhapatraonline.com/news/227851",
-   "source": "Gorkhapatra",
-   "ts": 1793466956,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/389773/conversions/IMG_7428%E0%A4%89%E0%A4%A4%E0%A5%8D%E0%A4%95%E0%A5%83%E0%A4%B7%E0%A5%8D%E0%A4%9F-%E0%A4%95%E0%A4%BF%E0%A4%B8%E0%A4%BE%E0%A4%A8-%E0%A4%AA%E0%A5%81%E0%A4%B7%E0%A5%8D%E0%A4%AA%E0%A4%B0%E0%A4%BE%E0%A4%9C-%E0%A4%AE%E0%A4%BF%E0%A4%B6%E0%A5%8D%E0%A4%B0-original.jpg",
-   "lang": "ne",
-   "hl": "उत्कृष्ट दुग्ध उत्पादक किसान सम्मानित",
-   "en": "उत्कृष्ट दुग्ध उत्पादक किसान सम्मानित",
-   "ne": "उत्कृष्ट दुग्ध उत्पादक किसान सम्मानित",
-   "imp": 2,
-   "tags": [
-    "Farmer",
-    "Dairy",
-    "किसान"
-   ],
-   "cat": "economy",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "देशभरका विपद्का घटनामा एक जनाको मृत्यु, दुई घाइते",
@@ -1960,7 +1959,7 @@
    "cat": "disaster",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 3
   },
   {
    "title": "सुदूरपश्चिमले खेल्न आनाकानी गर्दा सन्दीपको स्पष्ट धारणा-क्रिकेट खेल्न आएका हौँ भने मैदानमै खेल्नुपर्छ",
@@ -2007,27 +2006,27 @@
    "hits": 1
   },
   {
-   "title": "गंगाजलीमा आदिबासी जनजाति साहित्य महोत्सव",
-   "summary": "गोरखापत्र अनलाइनगंगाजली (सप्तरी), कात्तिक १४ गते । मधेस प्रदेश प्रमुख सुरेन्द्र लाभले साहित्य र कलाले समाज जोड्ने काम गर्ने हुनाले यसको संरक्षण र प्रवर्धनमा सबैले ध्यान दिनुपर्ने ब...",
-   "link": "https://gorkhapatraonline.com/news/227854",
-   "source": "Gorkhapatra",
+   "title": "Indigenous nationalities literature festival begins",
+   "summary": "By Dhirendra Prasad Sah, Rajbiraj, Nov, 1: A two-day Indigenous Nationalities Literature Festival-2083 began at Gangajal...",
+   "link": "https://risingnepaldaily.com/news/88272",
+   "source": "Rising Nepal",
    "ts": 1793468121,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/389776/conversions/s-4-original.jpg",
-   "lang": "ne",
-   "hl": "गंगाजलीमा आदिबासी जनजाति साहित्य महोत्सव",
-   "en": "गंगाजलीमा आदिबासी जनजाति साहित्य महोत्सव",
-   "ne": "गंगाजलीमा आदिबासी जनजाति साहित्य महोत्सव",
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "Indigenous nationalities literature festival begins",
+   "en": "Indigenous nationalities literature festival begins",
+   "ne": "Indigenous nationalities literature festival begins",
    "imp": 2,
    "tags": [
-    "Gangajali",
-    "Adivasi",
-    "SahityaMahotsav"
+    "LiteratureFestival",
+    "Indigenous",
+    "आदिवासी"
    ],
    "cat": "culture",
-   "val": 2,
+   "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Atletico Madrid Defeats Levante 2-0 in La Liga",
@@ -2329,29 +2328,6 @@
    "hits": 1
   },
   {
-   "title": "एनपीएलमा आज जनकपुर र पोखरा भिड्ने",
-   "summary": "नेपाल प्रिमियर लिग (एनपीएल) को जारी तेस्रो संस्करणअन्तर्गत आज जनकपुर बोल्ट्स र पोखरा एभेन्जर्सबिच प्रतिस्पर्धा हुँदैछ।...",
-   "link": "https://nagariknews.nagariknetwork.com/sports/janakpur-and-pokhara-to-clash-in-npl-today-70-75.html",
-   "source": "Nagarik News",
-   "ts": 1793493691,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1793493674_NPL.jpg",
-   "lang": "ne",
-   "hl": "एनपीएलमा आज जनकपुर र पोखरा भिड्ने",
-   "en": "एनपीएलमा आज जनकपुर र पोखरा भिड्ने",
-   "ne": "एनपीएलमा आज जनकपुर र पोखरा भिड्ने",
-   "imp": 3,
-   "tags": [
-    "NepalPremierLeague",
-    "Janakpur",
-    "Pokhara"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Mahakali Irrigation Project Third Phase Faces Water Supply Issues Due to Indian Stance",
    "summary": "Kanchanpur. Structures to provide irrigation facilities to five thousand hectares of land are ready from the third phase of the...",
    "link": "http://english.ratopati.com/story/85287/mahakali-irrigation-project-structure-built-but-no-water-in-canal",
@@ -2372,7 +2348,7 @@
    "cat": "economy",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Ban on flower imports benefits local growers",
@@ -2395,7 +2371,7 @@
    "cat": "economy",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "पढ्न अस्ट्रेलिया गएका थिए, बनाए विश्वभरका नेपाली जोड्ने 'थोप्ला'",
@@ -2536,30 +2512,6 @@
    "hits": 1
   },
   {
-   "title": "वर्षा र पहिरोले काभ्रे, खोटाङ र ललितपुरका सडक अवरूद्ध",
-   "summary": "लगातारको वर्षाका कारण आएको बाढी र पहिरोले विभिन्न सडक खण्ड अवरूद्ध भएका छन्।",
-   "link": "https://www.setopati.com/social/401724",
-   "source": "Setopati",
-   "ts": 1793494546,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "वर्षा र पहिरोले काभ्रे, खोटाङ र ललितपुरका सडक अवरूद्ध",
-   "en": "वर्षा र पहिरोले काभ्रे, खोटाङ र ललितपुरका सडक अवरूद्ध",
-   "ne": "वर्षा र पहिरोले काभ्रे, खोटाङ र ललितपुरका सडक अवरूद्ध",
-   "imp": 4,
-   "tags": [
-    "Kavre",
-    "Khotang",
-    "Lalitpur",
-    "पहिरो"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "South Africa wins 3rd cricket test against Australia",
    "summary": "Cape Town, Nov,1: Simon Harmer picked a career-best 6-16 as South Africa bowled out Australia for 111 to win the third t...",
    "link": "https://risingnepaldaily.com/news/88273",
@@ -2578,6 +2530,278 @@
     "CricketTest"
    ],
    "cat": "sports",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Ebola deaths top 5,000 amid fears",
+   "summary": "Bunia, Nov, 1: Deaths in Congo's Ebola outbreak have topped 5,000 as the country grapples with the relentless spread of...",
+   "link": "https://risingnepaldaily.com/news/88274",
+   "source": "Rising Nepal",
+   "ts": 1793495662,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "Ebola deaths top 5,000 amid fears",
+   "en": "Ebola deaths top 5,000 amid fears",
+   "ne": "Ebola deaths top 5,000 amid fears",
+   "imp": 1,
+   "tags": [
+    "Ebola",
+    "Health"
+   ],
+   "cat": "health",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "बोल्सोनारोलाई अमेरिका पुर्‍याउन सहयोग गरेको आरोपमा ट्रम्प प्रशासनले दियो यस्तो जवाफ",
+   "summary": "ब्राजिलको राष्ट्रपति चुनावमा पराजित भएपछि फ्लाभियो बोल्सोनारोलाई अमेरिका पुर्‍याउन ट्रम्प प्रशासनले उडान सहजीकरण गरेको विषयमा अमेरिकी विदेशमन्त्री मार्को रुबियोले प्रतिक्रिया दिएका छन्।...",
+   "link": "https://nagariknews.nagariknetwork.com/international/trump-administration-responds-to-accusations-of-helping-bring-bolsonaro-to-the-us-39-35.html",
+   "source": "Nagarik News",
+   "ts": 1793495426,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2026/third-party/1793495319_Trump%20Brazil.jpg",
+   "lang": "ne",
+   "hl": "बोल्सोनारोलाई अमेरिका पुर्‍याउन सहयोग गरेको आरोपमा ट्रम्प प्रशासनले दियो यस्तो जवाफ",
+   "en": "बोल्सोनारोलाई अमेरिका पुर्‍याउन सहयोग गरेको आरोपमा ट्रम्प प्रशासनले दियो यस्तो जवाफ",
+   "ne": "बोल्सोनारोलाई अमेरिका पुर्‍याउन सहयोग गरेको आरोपमा ट्रम्प प्रशासनले दियो यस्तो जवाफ",
+   "imp": 1,
+   "tags": [
+    "Bolsonaro",
+    "Trump",
+    "USA"
+   ],
+   "cat": "world",
+   "val": 1,
+   "teaser": true,
+   "hits": 1
+  },
+  {
+   "title": "Fiction: The village voice",
+   "summary": "As its young people leave in search of better lives, a village begins to dream of a brighter future with the rumoured arrival of a supermarket chain.",
+   "link": "https://kathmandupost.com/art-culture/2026/11/01/fiction-the-village-voice",
+   "source": "Kathmandu Post",
+   "ts": 1793481646.2981067,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "Fiction: The village voice",
+   "en": "Fiction: The village voice",
+   "ne": "Fiction: The village voice",
+   "imp": 1,
+   "tags": [
+    "Fiction",
+    "Literature"
+   ],
+   "cat": "culture",
+   "val": 1,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "नेपालगन्ज भन्सारबाट तीन महिनामा पाँच अर्ब २४ करोड राजस्व",
+   "summary": "नेपालगन्ज भन्सार कार्यालयले चालु आर्थिक वर्षको पहिलो तीन महिनामा रु पाँच अर्ब २४ करोड बढी राजस्व सङ्कलन गरेको छ ।चालु आर्थिक वर्ष २०८३÷८४ को साउन, भदौ र असोज गरी तीन महिनामा रु पाँच अर्ब २४ करोड ८९ लाख ८५ हजार राजस्व...",
+   "link": "http://lokaantar.com/story/332301/2026/11/1/bhansar-",
+   "source": "Lokaantar",
+   "ts": 1793481646.1859508,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "नेपालगन्ज भन्सारबाट तीन महिनामा पाँच अर्ब २४ करोड राजस्व",
+   "en": "नेपालगन्ज भन्सारबाट तीन महिनामा पाँच अर्ब २४ करोड राजस्व",
+   "ne": "नेपालगन्ज भन्सारबाट तीन महिनामा पाँच अर्ब २४ करोड राजस्व",
+   "imp": 2,
+   "tags": [
+    "NepalgunjCustoms",
+    "Revenue",
+    "नेपालगन्ज"
+   ],
+   "cat": "economy",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "सस्तोमा धान बेच्न किसान बाध्य",
+   "summary": "धनगढी समाचारदाताधनगढी, कात्तिक १५ गते । सरकारले चालु आर्थिक वर्ष २०८३/८४ मा धान खरिद बिक्रीका लागि धानको समर्थन मूल्य पहिले नै निर्धारण गरे पनि कैलालीका किसान सस्तोमा धान बिक्री गर...",
+   "link": "https://gorkhapatraonline.com/news/227868",
+   "source": "Gorkhapatra",
+   "ts": 1793495009,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/389793/conversions/Kisan-sasto-ma-dhan-bechna-badhya-original.jpg",
+   "lang": "ne",
+   "hl": "सस्तोमा धान बेच्न किसान बाध्य",
+   "en": "सस्तोमा धान बेच्न किसान बाध्य",
+   "ne": "सस्तोमा धान बेच्न किसान बाध्य",
+   "imp": 2,
+   "tags": [
+    "Farmers",
+    "Paddy",
+    "धान"
+   ],
+   "cat": "economy",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "जुगल-२ हिमालमा पहिलो पटक स्पेनी आरोहीको सफल आरोहण",
+   "summary": "सिन्धुपाल्चोकको जुगल गाउँपालिकास्थित जुगल हिमशृङ्खलाको छ हजार ५१८ मिटर अग्लो जुगल-२ हिमालमा पहिलोपटक सफल आरोहण भएको छ।...",
+   "link": "https://nagariknews.nagariknetwork.com/social-affairs/spanish-climber-successfully-climbs-mount-jugal-2-for-the-first-time-59-64.html",
+   "source": "Nagarik News",
+   "ts": 1793495079,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2025/third-party/1793495221_jugal.jpg",
+   "lang": "ne",
+   "hl": "जुगल-२ हिमालमा पहिलो पटक स्पेनी आरोहीको सफल आरोहण",
+   "en": "जुगल-२ हिमालमा पहिलो पटक स्पेनी आरोहीको सफल आरोहण",
+   "ne": "जुगल-२ हिमालमा पहिलो पटक स्पेनी आरोहीको सफल आरोहण",
+   "imp": 2,
+   "tags": [
+    "JugalHimal",
+    "Mountaineering",
+    "जुगलहिमाल"
+   ],
+   "cat": "sports",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "सुनसरीमा भूतपूर्व सैनिक सम्मेलनको तयारी",
+   "summary": "सुनसरी, कात्तिक १५ गते । नेपाली सेनाको आयोजनामा आगामी मङ्सिर १४ गते सुनसरीमा भूतपूर्व सैनिक सम्मेलनको तयारी गरिएको छ ।नेपाली सेना जङ्गी अड्डाको व्यवस्थापन तथा नेपाली सेना कल्याणकार...",
+   "link": "https://gorkhapatraonline.com/news/227867",
+   "source": "Gorkhapatra",
+   "ts": 1793494829,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/389792/conversions/Purbi_Pritana-original.jpg",
+   "lang": "ne",
+   "hl": "सुनसरीमा भूतपूर्व सैनिक सम्मेलनको तयारी",
+   "en": "सुनसरीमा भूतपूर्व सैनिक सम्मेलनको तयारी",
+   "ne": "सुनसरीमा भूतपूर्व सैनिक सम्मेलनको तयारी",
+   "imp": 1,
+   "tags": [
+    "ExServicemen",
+    "Sunsari",
+    "सुनसरी"
+   ],
+   "cat": "society",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Rescued children handed over to parents",
+   "summary": "By Rajan Rawat, Humla,Nov, 1: The District Police Office, Humla, has reunited 25 children, including nine girls and 16 b...",
+   "link": "https://risingnepaldaily.com/news/88271",
+   "source": "Rising Nepal",
+   "ts": 1793494347,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "Rescued children handed over to parents",
+   "en": "Rescued children handed over to parents",
+   "ne": "Rescued children handed over to parents",
+   "imp": 2,
+   "tags": [
+    "MissingChildren",
+    "NepalPolice"
+   ],
+   "cat": "society",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "कांग्रेस सभापति थापाले आज समसामयिक विषयमा विशेष सम्बोधन गर्दै",
+   "summary": "नेपाली कांग्रेसका सभापति गगनकुमार थापाले आज समसामयिक विषयमा विशेष सम्बोधन गर्ने भएका छन्।",
+   "link": "https://nagariknews.nagariknetwork.com/politics/nepali-congress-president-thapa-is-giving-a-special-address-on-current-affairs-today-39-39.html",
+   "source": "Nagarik News",
+   "ts": 1793494674,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2025/third-party/1788707126_gagan_.jpg",
+   "lang": "ne",
+   "hl": "कांग्रेस सभापति थापाले आज समसामयिक विषयमा विशेष सम्बोधन गर्दै",
+   "en": "कांग्रेस सभापति थापाले आज समसामयिक विषयमा विशेष सम्बोधन गर्दै",
+   "ne": "कांग्रेस सभापति थापाले आज समसामयिक विषयमा विशेष सम्बोधन गर्दै",
+   "imp": 3,
+   "tags": [
+    "NepaliCongress",
+    "GaganThapa",
+    "कांग्रेस"
+   ],
+   "cat": "politics",
+   "val": 1,
+   "teaser": true,
+   "hits": 1
+  },
+  {
+   "title": "Sunkoshi Marin contract cancellation defers Madhesh irrigation dream",
+   "summary": "The decision comes after three Chinese companies qualified for the final round, raising fresh uncertainty over a project meant to irrigate 122,000 hectares across five districts.",
+   "link": "https://kathmandupost.com/money/2026/11/01/sunkoshi-marin-contract-cancellation-defers-madhesh-irrigation-dream",
+   "source": "Kathmandu Post",
+   "ts": 1793481646.2981067,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "Sunkoshi Marin contract cancellation defers Madhesh irrigation dream",
+   "en": "Sunkoshi Marin contract cancellation defers Madhesh irrigation dream",
+   "ne": "Sunkoshi Marin contract cancellation defers Madhesh irrigation dream",
+   "imp": 3,
+   "tags": [
+    "SunkoshiMarin",
+    "Madhesh",
+    "Irrigation"
+   ],
+   "cat": "economy",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "प्रभावकारी प्रतिनिधित्वका लागि छलफल",
+   "summary": "गोरखापत्र समाचारदाताकाठमाडौँ, कात्तिक १५ गते । नेपालमा जलवायु परिवर्तनले पारिरहेको असरबारे सबै राजनीतिक दललाई एकबद्ध गराउन सरकारले पहल थालेको छ । प्रधानमन्त्री वालेन्द्र शाहले आसन्...",
+   "link": "https://gorkhapatraonline.com/news/227866",
+   "source": "Gorkhapatra",
+   "ts": 1793494785,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/389791/conversions/322-original.jpg",
+   "lang": "ne",
+   "hl": "प्रभावकारी प्रतिनिधित्वका लागि छलफल",
+   "en": "प्रभावकारी प्रतिनिधित्वका लागि छलफल",
+   "ne": "प्रभावकारी प्रतिनिधित्वका लागि छलफल",
+   "imp": 2,
+   "tags": [
+    "Politics",
+    "Meeting"
+   ],
+   "cat": "politics",
+   "val": 1,
+   "teaser": true,
+   "hits": 1
+  },
+  {
+   "title": "सीर्सिया नदीमा फोहर विसर्जन गर्न प्रतिबन्ध लगाइने",
+   "summary": "सर्वदलीय/सर्वपक्षीय बैठकले आसन्न छठपर्वका अवसरमा बर्तालुको सुविधाका लागि पूजा अवधिभर विभिन्न उद्योगबाट गरिने विभिन्न चिज वस्तु/पदार्थ एवं फोहर विसर्जनलाई पूर्ण रूपमा रोक्ने निर्णय गरेको छ।...",
+   "link": "https://nagariknews.nagariknetwork.com/social-affairs/garbage-dumping-in-sirsia-river-to-be-banned-49-18.html",
+   "source": "Nagarik News",
+   "ts": 1793494361,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2025/third-party/1793494435_sirsiya.jpg",
+   "lang": "ne",
+   "hl": "सीर्सिया नदीमा फोहर विसर्जन गर्न प्रतिबन्ध लगाइने",
+   "en": "सीर्सिया नदीमा फोहर विसर्जन गर्न प्रतिबन्ध लगाइने",
+   "ne": "सीर्सिया नदीमा फोहर विसर्जन गर्न प्रतिबन्ध लगाइने",
+   "imp": 2,
+   "tags": [
+    "SirsiaRiver",
+    "Birgunj",
+    "प्रदूषण"
+   ],
+   "cat": "society",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -5674,10 +5898,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "politics"
+  },
+  {
+   "ts": 1793496063.9370074,
+   "en": "एनपीएलमा आज जनकपुर बोल्ट्स र पोखरा एभेन्जर्स भिड्दै",
+   "ne": "एनपीएलमा आज जनकपुर बोल्ट्स र पोखरा एभेन्जर्स भिड्दै",
+   "link": "https://nagariknews.nagariknetwork.com/sports/janakpur-and-pokhara-to-clash-in-npl-today-70-75.html",
+   "source": "Nagarik News",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "sports"
   }
  ],
- "updated": 1793495448,
- "pending_since": 1793494877.0690565,
+ "updated": 1793496073,
+ "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
