@@ -1756,32 +1756,10 @@
   "https://www.setopati.com/sports/npl/401784": 1793553644.8941948,
   "http://english.ratopati.com/story/85373/chinese-communist-party-to-increase-surveillance-of-officials": 1793553644.8941948,
   "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1JaGJyTU5YdFZGaFdhdzBYUVgxWXZGV0oxNFV1Q2pUbHJJM2xhWS1na1dLaEhqUHZGSk5EQ1dWVEtRU1NhZ3ZucHZ2ZHVyT3Vi?oc=5": 1793554261.9321334,
-  "http://english.ratopati.com/story/85378/real-madrid-ease-to-victory-over-racing-santander": 1793554261.9321334
+  "http://english.ratopati.com/story/85378/real-madrid-ease-to-victory-over-racing-santander": 1793554261.9321334,
+  "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOU2dKSjlKYktWYy1NamNmZ2VSbTNsbm9TeDJsLVFrdVViUHhUdDRCYnNSc2pReE1TeXktQmF3bm1Ic1NESlZXcVdOcFBFZ2I5cnNwdnR0bjFMWmZaMHNjanVJNDdiR2tjYUotZV9VUWpVR0NHVGVMeTF3b3VnUU1uX2Z2R0o5SkVDdlFPZjZrX2VjYkJOOHdhQnVEX1lVRGlRdzVTY0k0Nm5CV2dHVlpqTGk2ZnNlSXFjSHNFeGJ6ak9SMWJXWDVIckNNUWJyOU1pREd3?oc=5": 1793554846.8108692
  },
  "queue": [
-  {
-   "title": "म्याक्स टाइगरको दसैं धमाका अभियानअन्तर्गत नौ जनाले जिते मोटरसाइकल र स्कुटर",
-   "summary": "",
-   "link": "https://www.setopati.com/kinmel/business/401757",
-   "source": "Setopati",
-   "ts": 1793525762,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "म्याक्स टाइगरको दसैं धमाका अभियानअन्तर्गत नौ जनाले जिते मोटरसाइकल र स्कुटर",
-   "en": "म्याक्स टाइगरको दसैं धमाका अभियानअन्तर्गत नौ जनाले जिते मोटरसाइकल र स्कुटर",
-   "ne": "म्याक्स टाइगरको दसैं धमाका अभियानअन्तर्गत नौ जनाले जिते मोटरसाइकल र स्कुटर",
-   "imp": 2,
-   "tags": [
-    "MaxTiger",
-    "Tihar",
-    "Motorcycle"
-   ],
-   "cat": "economy",
-   "val": 2,
-   "teaser": false,
-   "hits": 2
-  },
   {
    "title": "सुशासन र आर्थिक सुधारमा सहकार्य गर्न कांग्रेस तयार: गगन थापा",
    "summary": "काठमाडौँ, कात्तिक १६ गते । नेपाली कांग्रेसका सभापति गगनकुमार थापाले मुलुकमा सुशासन, विधिको शासन र आर्थिक सुधारलाई प्रभावकारी बनाउन सरकारसँग सहकार्य गर्न आफ्नो पार्टी तयार रहेको बता...",
@@ -3534,29 +3512,6 @@
    "hits": 6
   },
   {
-   "title": "Bangladesh forms wage board as garment protests turn violent",
-   "summary": "Bangladesh's ready-made garment industry, the world's largest after China, contributes about 10 percent of gross domestic product and is the backbone of the economy.",
-   "link": "https://kathmandupost.com/world/2026/11/01/bangladesh-forms-wage-board-as-garment-protests-turn-violent",
-   "source": "Kathmandu Post",
-   "ts": 1793525464.774224,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Bangladesh forms wage board as garment protests turn violent",
-   "en": "Bangladesh forms wage board as garment protests turn violent",
-   "ne": "Bangladesh forms wage board as garment protests turn violent",
-   "imp": 1,
-   "tags": [
-    "Bangladesh",
-    "Protest",
-    "Garment"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "४ अर्ब ३६ करोड रुपैयाँको चिठ्ठा जित्ने व्यक्ति जब अन्तिम समयमा पुरस्कार दाबी गर्न पुगे",
    "summary": "अन्टारियो लटरी एन्ड गेमिङ कर्पोरेसन (ओएलजी) का अनुसार पुरस्कार जित्ने टिकटधनीले म्याद समाप्त हुनुअघि नै आफ्नो दाबी पेस गरेका हुन्।...",
    "link": "https://nagariknews.nagariknetwork.com/international/when-the-person-who-won-the-lottery-worth-4-36-billion-rupees-came-to-claim-the-prize-at-the-last-moment-87-61.html",
@@ -4393,7 +4348,7 @@
    "cat": "world",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "Today's News in a Nutshell",
@@ -7810,7 +7765,7 @@
    "cat": "economy"
   }
  ],
- "updated": 1793554276,
+ "updated": 1793554850,
  "pending_since": 1793554261.9321334,
  "fb_blocks": [
   1790350880.4125228,
