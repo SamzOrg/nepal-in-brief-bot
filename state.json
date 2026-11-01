@@ -1,25 +1,5 @@
 {
  "seen": {
-  "https://gorkhapatraonline.com/news/227683": 1793326852.404686,
-  "https://nagariknews.nagariknetwork.com/international/nvidia-ceo-s-closeness-to-chinese-agents-us-intelligence-agencies-concerned-92-21.html": 1793326852.404686,
-  "http://english.ratopati.com/story/85042/preparations-to-amend-education-regulations-within-four-months": 1793326852.404686,
-  "https://www.setopati.com/social/401576": 1793326852.404686,
-  "https://english.khabarhub.com/2026/30/573654/": 1793326852.404686,
-  "https://english.onlinekhabar.com/krishna-hamal-australia-publicservice.html": 1793326852.404686,
-  "https://risingnepaldaily.com/news/88208": 1793326852.404686,
-  "https://baahrakhari.com/detail/506063": 1793326852.404686,
-  "http://lokaantar.com/story/332187/2026/10/30/ai-": 1793326852.404686,
-  "https://gorkhapatraonline.com/news/227682": 1793326852.404686,
-  "https://nagariknews.nagariknetwork.com/sports/troubleshooter-sompal-63-90.html": 1793326852.404686,
-  "http://english.ratopati.com/story/85041/youth-arrested-for-broadcasting-pornographic-content-using-fake-tiktok-id": 1793326852.404686,
-  "https://risingnepaldaily.com/news/88215": 1793326852.404686,
-  "http://lokaantar.com/story/332186/2026/10/30/cripto-": 1793326852.404686,
-  "https://gorkhapatraonline.com/news/227681": 1793326852.404686,
-  "https://nagariknews.nagariknetwork.com/economy/contract-worth-over-rs-1-22-billion-awarded-to-build-roads-which-has-become-prime-minister-shah-s-election-agenda-47-11.html": 1793326852.404686,
-  "http://english.ratopati.com/story/85040/woman-who-killed-three-people-by-feeding-them-poisonous-mushrooms-now-faces-life-in-prison": 1793326852.404686,
-  "https://risingnepaldaily.com/news/88214": 1793326852.404686,
-  "http://lokaantar.com/story/332185/2026/10/30/meat-": 1793326852.404686,
-  "https://nagariknews.nagariknetwork.com/social-affairs/ruckus-in-rsp-judiciary-and-police-br-65-59.html": 1793326852.404686,
   "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9DV0xlcUR6dXhNT3U5UXFiNGJwMmlsdXdXWEVWTHhGRXdqWHB2OVZuYUg3cnU0eU9PNDBqcXhZb2J6MHRnR2ZEWWN2VDFFU3B1N3Rpb0hEc0U?oc=5": 1793327466.502491,
   "https://news.google.com/rss/articles/CBMigAFBVV95cUxPd1hCV1dNZ0JNbXVGcVg2N2Y0czB0WUJnTGhsSVhsd053MVM5UzVnY3k5dzBWSFkxMzFZdDV0VERaS0VMaF91V0c2djNwalhLa1hSMUFqS2xHU1BwSzFOTHB6T3kwYUszSVhuXzNXYUwzUWFUdE1OWkhRXzh4TFVfdA?oc=5": 1793327466.502491,
   "https://kathmandupost.com/money/2026/10/30/nepal-plans-temporary-bridges-to-reopen-flood-hit-rasuwagadhi-border-crossing": 1793327466.502491,
@@ -1885,7 +1865,8 @@
   "http://lokaantar.com/story/332310/2026/11/1/court-": 1793499648.841869,
   "https://gorkhapatraonline.com/news/227877": 1793499648.841869,
   "http://lokaantar.com/story/332308/2026/11/1/hell-": 1793499648.841869,
-  "https://gorkhapatraonline.com/news/227876": 1793499648.841869
+  "https://gorkhapatraonline.com/news/227876": 1793499648.841869,
+  "https://risingnepaldaily.com/news/88277": 1793500262.1115026
  },
  "queue": [
   {
@@ -3595,17 +3576,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1792894864.6341488,
-   "en": "PHP2Shell security flaw forces thousands of Nepali government and banking websites offline",
-   "ne": "PHP2Shell security flaw forces thousands of Nepali government and banking websites offline",
-   "link": "https://kathmandupost.com/science-technology/2026/10/25/php2shell-security-flaw-forces-thousands-of-nepali-websites-offline",
-   "source": "The Kathmandu Post",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "tech"
-  },
   {
    "ts": 1792896662.0168831,
    "en": "Husband and wife found dead in Dhanusha, police suspect murder",
@@ -6698,7 +6668,7 @@
    "cat": "economy"
   }
  ],
- "updated": 1793499673,
+ "updated": 1793500266,
  "pending_since": 1793499648.841869,
  "fb_blocks": [
   1790350880.4125228,
