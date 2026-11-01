@@ -1800,7 +1800,11 @@
   "https://gorkhapatraonline.com/news/227953": 1793542246.4868984,
   "https://baahrakhari.com/detail/506302": 1793542246.4868984,
   "https://gorkhapatraonline.com/news/227952": 1793542246.4868984,
-  "https://baahrakhari.com/detail/506301": 1793542246.4868984
+  "https://baahrakhari.com/detail/506301": 1793542246.4868984,
+  "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZzBTa1NVcEhwT2JHNFAzV1JhTlRqZ3hJX2lSNWR6LUY5ZGRiaXNUUFdJeEtjQkY2OHdMUlN3amtBTEU0ZkdGdEhoaUlMMkVGQnVvRVI5S0o1UVVJaTZTZXBtVHFuUUFSdy0xTHN1YndKaWxydS1qeksyemVSZmluMmxiNFI3YVg3cHpQLUp3dGJlRGEtdUNzZVZXYV9zWUhmVXdPUEZLZXkzVE0wTUFRU3JFb0dDUFBD?oc=5": 1793543461.8299544,
+  "https://theannapurnaexpress.com/story/68414": 1793543461.8299544,
+  "http://lokaantar.com/story/332346/2026/11/1/bipad-": 1793543461.8299544,
+  "https://news.google.com/rss/articles/CBMigAFBVV95cUxNT3RoRGdCTC1LVjQ1WjZHamRFZWpZSGZ0VmFJb3NNbTdWT2tzM29tamhpVHZ3azFDbnFEVjhMRmNhYmdqbFJVSjY3dElNN0NRLTIzclg5QnVYQnZjUF9iYjJGR2VFdXBVWUpPNV84T01KWFlvNk1GTExHNl9XRVVTadIBhgFBVV95cUxNYXY0MnNRVUQ5Z1BsSjhXc0ItalBmdDVEV1hscW5FbTlvSnNOM3N1S2UzQ2hwNXBUNUVVbncyT1J4VFk2UkNvb1dMZlNfdXNxTGkxOGVHcWVaTFdVQ3o1M2poeUdfOVhDYzd6VXdOQndrSlRPdHJweWN2TzBBTDJhSF9BSlBDZw?oc=5": 1793543461.8299544
  },
  "queue": [
   {
@@ -1916,28 +1920,6 @@
    "val": 3,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "Youth-led protests turn violent in German cities",
-   "summary": "FRANKFURT: Looting and violent clashes with police broke out in central Frankfurt late Saturday following large-scale demonstrations over the rising cost of living and cuts to public services. Although the protests...",
-   "link": "https://english.khabarhub.com/2026/01/573936/",
-   "source": "Khabarhub EN",
-   "ts": 1793514320,
-   "weight": 2,
-   "img": "https://english.khabarhub.com/wp-content/uploads/2026/11/Germany-protest-Reuters-400x220.webp",
-   "lang": "en",
-   "hl": "Youth-led protests turn violent in German cities",
-   "en": "Youth-led protests turn violent in German cities",
-   "ne": "Youth-led protests turn violent in German cities",
-   "imp": 1,
-   "tags": [
-    "Germany",
-    "Protest"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "बारा झडप : छानबिन समितिको अनुसन्धान सुरू",
@@ -2455,27 +2437,6 @@
    "cat": "society",
    "val": 3,
    "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "झुट",
-   "summary": "शङ्काका केही स्राेत हुन्छन्। मानिसले आफ्नो व्यवहारले जन्माएका हुन्छन्।",
-   "link": "https://nagariknews.nagariknetwork.com/arts/lies-br-32-94.html",
-   "source": "Nagarik News",
-   "ts": 1793514263,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2024/third-party/1793514764_Sures%20%20sir%2097.jpg",
-   "lang": "ne",
-   "hl": "झुट",
-   "en": "झुट",
-   "ne": "झुट",
-   "imp": 1,
-   "tags": [
-    "झुट"
-   ],
-   "cat": "other",
-   "val": 1,
-   "teaser": true,
    "hits": 1
   },
   {
@@ -5301,7 +5262,7 @@
    "cat": "economy",
    "val": 3,
    "teaser": false,
-   "hits": 3
+   "hits": 4
   },
   {
    "title": "सरकार हरेक क्षेत्रमा असफल भइरहेको छ : उपेन्द्र यादव",
@@ -5558,27 +5519,6 @@
    "hits": 1
   },
   {
-   "title": "PM Shah's stern warning: No one can escape accountability",
-   "summary": "KATHMANDU: Prime Minister (PM) Balen Shah has issued a stern warning, saying that no one should assume they will escape accountability when the time comes. He made the remarks in a social media post without specifying...",
-   "link": "https://english.khabarhub.com/2026/01/573990/",
-   "source": "Khabarhub EN",
-   "ts": 1793542225,
-   "weight": 2,
-   "img": "https://english.khabarhub.com/wp-content/uploads/2026/07/Balen-Shah-400x220.jpg",
-   "lang": "en",
-   "hl": "PM Shah's stern warning: No one can escape accountability",
-   "en": "PM Shah's stern warning: No one can escape accountability",
-   "ne": "PM Shah's stern warning: No one can escape accountability",
-   "imp": 4,
-   "tags": [
-    "Accountability"
-   ],
-   "cat": "politics",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "हाम्रो सदाशयतालाई सरकारले कमजोरी ठान्यो : भीष्मराज आङ्देम्बे",
    "summary": "नेपाली कांग्रेस संसदीय दलका नेता भीष्मराज आङ्देम्बेले कांग्रेसले सरकारप्रति देखाएको सदाशयतालाई सरकारले कमजोरीका रूपमा लिएको बताएका छन् ।",
    "link": "https://baahrakhari.com/detail/506304",
@@ -5757,17 +5697,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1792938055.4257636,
-   "en": "CAN announces Rs 15 million prize money for NPL 3 champions",
-   "ne": "CAN announces Rs 15 million prize money for NPL 3 champions",
-   "link": "https://myrepublica.nagariknetwork.com/news/npl-3-champions-to-receive-rs-15-million-in-prize-money-19-40.html",
-   "source": "myRepublica",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "sports"
-  },
   {
    "ts": 1792939862.3214023,
    "en": "Nepal Exports USD 39 Million Electricity to India After Floods",
@@ -8869,9 +8798,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "politics"
+  },
+  {
+   "ts": 1793543467.5650501,
+   "en": "PM Balen Shah warns no one can escape accountability in social media post",
+   "ne": "PM Balen Shah warns no one can escape accountability in social media post",
+   "link": "https://english.khabarhub.com/2026/01/573990/",
+   "source": "Khabarhub EN",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "politics"
   }
  ],
- "updated": 1793542847,
+ "updated": 1793543483,
  "pending_since": 1793542844.6952183,
  "fb_blocks": [
   1790350880.4125228,
