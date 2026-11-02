@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeG44RThsTDFnMEF6NDJVajNnN1BVdTlzVVR5anlndV81S0ltMmVHcWxKbU5OdXI2VG5oYU12NE0yMDMyZGdKc01yRGRucnZPWjNZRjh2NWpyamE4aTIxNDNOdGhHMWk4SHM5aThJLWxaVnJyOUdlYklidFNIM2ZzSTV1MENBb1M3YnpQTlFNa2lKUlB0TWVCcVJtQ29aSnp0SXdxYzEyMDJzZFU?oc=5": 1793455847.1261027,
   "https://nagariknews.nagariknetwork.com/social-affairs/jomsom-korla-road-operation-disrupted-due-to-rain-18-84.html": 1793456444.8324137,
   "http://lokaantar.com/story/332274/2026/10/31/bepatta-": 1793456444.8324137,
   "https://gorkhapatraonline.com/news/227844": 1793456444.8324137,
@@ -1993,77 +1992,12 @@
   "http://lokaantar.com/story/332418/2026/11/2/belgium-": 1793628086.1935322,
   "https://baahrakhari.com/detail/506401": 1793628086.1935322,
   "https://nagariknews.nagariknetwork.com/arts/when-is-imran-khan-s-next-hearing-on-the-leave-india-notice-70-59.html": 1793628086.1935322,
-  "http://lokaantar.com/story/332417/2026/11/2/arrest-": 1793628086.1935322
+  "http://lokaantar.com/story/332417/2026/11/2/arrest-": 1793628086.1935322,
+  "https://risingnepaldaily.com/news/88327": 1793628653.5701985,
+  "https://news.google.com/rss/articles/CBMiV0FVX3lxTE42UkJBS3BPLTl4Y0FFUFZTWEh5UHVpTndwMExpdE4tQVdkUkVGdVg4S0hlV25zbm1JSWVNOUtpSElsU3E5S2VWdFp5Zk5QS1l4WUkzSkJnTQ?oc=5": 1793628653.5701985,
+  "https://news.google.com/rss/articles/CBMioAFBVV95cUxObzVVSXFRV25TS0RHakJTVVJfSGozNk1sd0MyT2VDYzY1Qk5TYUVNT0pRUWdHYldSck5DUjA3NmQ2T0dTUTdoTV96Y1RCQ25mdkFuSUc1N0FGd2l2Mkt1RkthU2hEM25pNVo4aEdYZXJBRnJyQ1JROFlJamdSUHRueUpRQXVmR09tU0p4T0lobEJUODB2dkdXLXV6NEpCMkox?oc=5": 1793628653.5701985
  },
  "queue": [
-  {
-   "title": "सबैभन्दा पछि रिलिज भएको 'कबड्डी ५' बक्सअफिसमा अगाडि",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/506340",
-   "source": "Baahrakhari",
-   "ts": 1793599704,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "सबैभन्दा पछि रिलिज भएको 'कबड्डी ५' बक्सअफिसमा अगाडि",
-   "en": "सबैभन्दा पछि रिलिज भएको 'कबड्डी ५' बक्सअफिसमा अगाडि",
-   "ne": "सबैभन्दा पछि रिलिज भएको 'कबड्डी ५' बक्सअफिसमा अगाडि",
-   "imp": 2,
-   "tags": [
-    "Kabaddi4",
-    "BoxOffice",
-    "Movie"
-   ],
-   "cat": "culture",
-   "val": 3,
-   "teaser": false,
-   "hits": 3
-  },
-  {
-   "title": "कामदार अभावले इँटा उत्पादन घट्दै",
-   "summary": "कोसी प्रदेशका इँटाभट्टाहरूमा कामदार अभाव हुँदा उत्पादनमा कटौती गर्नुपर्ने बाध्यतात्मक अवस्था सिर्जना हुने भएको छ।...",
-   "link": "https://nagariknews.nagariknetwork.com/economy/brick-production-declining-due-to-labor-shortage-br-16-14.html",
-   "source": "Nagarik News",
-   "ts": 1793599406,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1793599575_Ita%20vatta%2098.jpg",
-   "lang": "ne",
-   "hl": "कामदार अभावले इँटा उत्पादन घट्दै",
-   "en": "कामदार अभावले इँटा उत्पादन घट्दै",
-   "ne": "कामदार अभावले इँटा उत्पादन घट्दै",
-   "imp": 2,
-   "tags": [
-    "BrickProduction",
-    "LaborShortage"
-   ],
-   "cat": "economy",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "King Cobra Rescued From Hetauda Grocery Store",
-   "summary": "Hetauda. A King Cobra was safely rescued from a grocery store in Bhurle, Hetauda Metropolitan City-15.The venomous King Cobra, approximately...",
-   "link": "http://english.ratopati.com/story/85408/rescue-of-rajgoman-in-bhorle-makawanpur",
-   "source": "Ratopati EN",
-   "ts": 1793599290,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/NRSZ9pVhwd.jpg",
-   "lang": "en",
-   "hl": "King Cobra Rescued From Hetauda Grocery Store",
-   "en": "King Cobra Rescued From Hetauda Grocery Store",
-   "ne": "King Cobra Rescued From Hetauda Grocery Store",
-   "imp": 2,
-   "tags": [
-    "KingCobra",
-    "Hetauda",
-    "WildlifeRescue"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
   {
    "title": "संकटापन्न वन्यजन्तु सालकको वैज्ञानिक अध्ययन सुरु",
    "summary": "सिराज खाननेपालगन्ज, कात्तिक १६ गते । दुर्लभ तथा संकटापन्न वन्यजन्तु मानिने सालकको अवस्था, उपस्थिति र बासस्थान पहिचान गर्न पहिलोपटक बाँके जिल्लामा वैज्ञानिक अध्ययन सुरु गरिएको छ । स...",
@@ -2132,29 +2066,6 @@
    "val": 3,
    "teaser": false,
    "hits": 3
-  },
-  {
-   "title": "German State Secretary Kofler Concludes Four-Day Visit to Nepal",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ3ljWnVuVGdlZG9BckFCbGVTbGYtRXdEdFRZWWg3XzNjSWlBY29NbG9hVnBKTnhYQlNHU0dNb3RiUlBxQjN1OEhsZmhVM2lfN1J1UW15RVFKWVdjdThaMVpJa0F6TkM5ZXJtb3NSaF9pZXNOczFqbGlRa2lua3NMNG9lQkN1WmJrLTBGdGF2YXZqTk9EMms3LXUwckdLX3d3UXF6Q0tR?oc=5",
-   "source": "The Himalayan Times",
-   "ts": 1793599691,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "German State Secretary Kofler Concludes Four-Day Visit to Nepal",
-   "en": "German State Secretary Kofler Concludes Four-Day Visit to Nepal",
-   "ne": "German State Secretary Kofler Concludes Four-Day Visit to Nepal",
-   "imp": 2,
-   "tags": [
-    "GermanStateSecretary",
-    "Diplomacy",
-    "Nepal"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "Demand for Bamboo Products Surges Ahead of Chhath Festival",
@@ -4179,30 +4090,6 @@
    "hits": 1
   },
   {
-   "title": "१५ वर्ष जेल तोकिएका अभियुक्त- जेनजी आन्दोलनमा भागे, ढुक्कले घरमा बसे !",
-   "summary": "सिरहाको धगगढी माई नगरपालिका-१४ घर भएका झरेन्द्रबहादुर ज्यू ठकुरीलाई प्रहरीले पक्राउ गरेको छ ।लागुऔषध मुद्दामा १५ वर्ष कैद र एक लाख रुपैयाँ जरिवाना तोकिएका उनी २०८२ भदौ २४ मा जेनजी आन्दोलनको मौका छोपेर केन्द्रीय कारागार...",
-   "link": "http://lokaantar.com/story/332406/2026/11/2/arrest",
-   "source": "Lokaantar",
-   "ts": 1793599848.2921789,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "१५ वर्ष जेल तोकिएका अभियुक्त- जेनजी आन्दोलनमा भागे, ढुक्कले घरमा बसे !",
-   "en": "१५ वर्ष जेल तोकिएका अभियुक्त- जेनजी आन्दोलनमा भागे, ढुक्कले घरमा बसे !",
-   "ne": "१५ वर्ष जेल तोकिएका अभियुक्त- जेनजी आन्दोलनमा भागे, ढुक्कले घरमा बसे !",
-   "imp": 3,
-   "tags": [
-    "GenZ",
-    "PrisonEscape",
-    "Crime",
-    "जेनजी"
-   ],
-   "cat": "crime",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "India's East Coast Warned of Heavy Rainfall as Cyclone Murasu Approaches",
    "summary": "Kathmandu. Heavy rainfall has been warned in Andhra Pradesh and Tamil Nadu as a second cyclone moves towards India's eastern...",
    "link": "http://english.ratopati.com/story/85443/second-cyclone-hits-indias-east-coast-heavy-rain-warning",
@@ -4568,29 +4455,6 @@
    "val": 3,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "जापानका लागि प्रस्तावित राजदूत थापाले फिर्ता लिए नाम",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/506376",
-   "source": "Baahrakhari",
-   "ts": 1793615400,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "जापानका लागि प्रस्तावित राजदूत थापाले फिर्ता लिए नाम",
-   "en": "जापानका लागि प्रस्तावित राजदूत थापाले फिर्ता लिए नाम",
-   "ne": "जापानका लागि प्रस्तावित राजदूत थापाले फिर्ता लिए नाम",
-   "imp": 3,
-   "tags": [
-    "Japan",
-    "Ambassador",
-    "Thapa"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 6
   },
   {
    "title": "बागमती सिँचाईका ज्यालादारी कर्मचारी धर्नामा",
@@ -5026,7 +4890,7 @@
    "cat": "sports",
    "val": 3,
    "teaser": false,
-   "hits": 3
+   "hits": 4
   },
   {
    "title": "Medical Education Commission Vice-Chairman Accused of Nepotism",
@@ -5142,29 +5006,6 @@
    "val": 3,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "भारतका विदेश सचिव विक्रम मिश्री बुधबार नेपाल आउँदै",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/506381",
-   "source": "Baahrakhari",
-   "ts": 1793616720,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "भारतका विदेश सचिव विक्रम मिश्री बुधबार नेपाल आउँदै",
-   "en": "भारतका विदेश सचिव विक्रम मिश्री बुधबार नेपाल आउँदै",
-   "ne": "भारतका विदेश सचिव विक्रम मिश्री बुधबार नेपाल आउँदै",
-   "imp": 3,
-   "tags": [
-    "VikramMisri",
-    "India",
-    "परराष्ट्र"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 4
   },
   {
    "title": "भुवन चन्द मृत्यु प्रकरणमा सात जनाविरुद्ध किटानी जाहेरी",
@@ -6822,7 +6663,7 @@
    "cat": "world",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Nepal keen to collaborate with Switzerland in climate change issues: President Paudel",
@@ -6846,7 +6687,7 @@
    "cat": "world",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "प्रधानमन्त्री र गृहमन्त्रीलाई ज्ञानेन्द्र शाहीको प्रश्न- देश लुट्नेहरूलाई थर्काउने कि समात्ने हो ?",
@@ -7018,17 +6859,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1793023435.9925957,
-   "en": "सुदूरपश्चिमका मुख्यमन्त्री भट्टलाई राजीनामा दिन कांग्रेसको आग्रह",
-   "ne": "सुदूरपश्चिमका मुख्यमन्त्री भट्टलाई राजीनामा दिन कांग्रेसको आग्रह",
-   "link": "https://www.setopati.com/politics/401350",
-   "source": "Setopati",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "politics"
-  },
   {
    "ts": 1793025731.3823893,
    "en": "भदौ १० को बाढीबाट घरपरिवार र व्यवसायमा ७९ अर्ब १७ करोड क्षति",
@@ -10130,10 +9960,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "sports"
+  },
+  {
+   "ts": 1793628661.570333,
+   "en": "भारतीय विदेश सचिव विक्रम मिश्री बुधबार नेपाल आउँदै",
+   "ne": "भारतीय विदेश सचिव विक्रम मिश्री बुधबार नेपाल आउँदै",
+   "link": "https://baahrakhari.com/detail/506381",
+   "source": "Baahrakhari",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "politics"
   }
  ],
- "updated": 1793628128,
- "pending_since": null,
+ "updated": 1793628676,
+ "pending_since": 1793628653.5701985,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
