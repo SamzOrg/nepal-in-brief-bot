@@ -1977,7 +1977,9 @@
   "https://nagariknews.nagariknetwork.com/social-affairs/132-000-foreign-tourists-entered-nepal-in-october-alone-16-21.html": 1793623848.9980984,
   "https://nagariknews.nagariknetwork.com/economy/toll-collection-of-rs-1-17-million-on-the-first-day-at-nagdhunga-tunnel-93-85.html": 1793623848.9980984,
   "https://gorkhapatraonline.com/news/228069": 1793624482.9254901,
-  "https://gorkhapatraonline.com/news/228068": 1793624482.9254901
+  "https://gorkhapatraonline.com/news/228068": 1793624482.9254901,
+  "https://www.setopati.com/politics/401865": 1793625051.7409034,
+  "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWXI1a1NWYWxnTk5QaTd0MnJodERZelhfdFF4czlHUFpwRVN5OVNkNTctVENFTU5EMWg0eWx2U1NmMVcxYV9IcjR4NmFyaHU0RGZzRmRSWVFIMVZGU0VFVnhpV0JHVnI4NkswYnVKWGprVmFCQVZLeElIMDRydkhNTlZLTnN5dlZ5b0NXSFYyRXdYbkZRNjY2c3hiMVp2OVYx?oc=5": 1793625051.7409034
  },
  "queue": [
   {
@@ -1999,97 +2001,6 @@
     "रैथानेपरिकार"
    ],
    "cat": "culture",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Tag: Nepal Tourist Rescue",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ua2h4WnBGWUFsckRYalFRQnFmSUs4cFFDdDFyUEFvRm1USmp6T09KUmZGOTJrdkxBY3RiVzJ0b2ZCdzFRRjdiQUQxNGxhY3FKNElFNVY0QXlZcmcwcnRZNjhmQ2ttSVE1SXc?oc=5",
-   "source": "Connected to India",
-   "ts": 1793596100,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Tag: Nepal Tourist Rescue",
-   "en": "Tag: Nepal Tourist Rescue",
-   "ne": "Tag: Nepal Tourist Rescue",
-   "imp": 2,
-   "tags": [
-    "TouristRescue",
-    "NepalTourism"
-   ],
-   "cat": "disaster",
-   "val": 1,
-   "teaser": false,
-   "hits": 3
-  },
-  {
-   "title": "हिमालयन लघुवित्तले घोषणा गऱ्यो लाभांश, बोनस सेयर कति?",
-   "summary": "लघुवित्तले हाल कायम चुक्ता पुँजीको ५ प्रतिशत लाभांश वितरण गर्ने घोषणा गरेको हो।",
-   "link": "https://www.setopati.com/kinmel/banking/401799",
-   "source": "Setopati",
-   "ts": 1793595820,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "हिमालयन लघुवित्तले घोषणा गऱ्यो लाभांश, बोनस सेयर कति?",
-   "en": "हिमालयन लघुवित्तले घोषणा गऱ्यो लाभांश, बोनस सेयर कति?",
-   "ne": "हिमालयन लघुवित्तले घोषणा गऱ्यो लाभांश, बोनस सेयर कति?",
-   "imp": 3,
-   "tags": [
-    "HimalayanLaghubitta",
-    "Dividend",
-    "लघुवित्त"
-   ],
-   "cat": "economy",
-   "val": 1,
-   "teaser": true,
-   "hits": 2
-  },
-  {
-   "title": "सुनसान बन्दै दामोदर कुण्ड",
-   "summary": "मुस्ताङ समाचारदातामुस्ताङ (मुक्तिनाथ), कात्तिक १६ गते । चिसो बढेसँगै उपल्लो मुस्ताङको लो-घेकर दामोदरकुण्ड गाउँपालिका-४ मा रहेको पवित्र तीर्थस्थल दामोदर कुण्ड सुनसान बनेको छ । समुद्...",
-   "link": "https://gorkhapatraonline.com/news/228021",
-   "source": "Gorkhapatra",
-   "ts": 1793596057,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/389995/conversions/Damodar-kunda-original.jpg",
-   "lang": "ne",
-   "hl": "सुनसान बन्दै दामोदर कुण्ड",
-   "en": "सुनसान बन्दै दामोदर कुण्ड",
-   "ne": "सुनसान बन्दै दामोदर कुण्ड",
-   "imp": 2,
-   "tags": [
-    "DamodarKund",
-    "Tourism",
-    "दामोदरकुण्ड"
-   ],
-   "cat": "culture",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "तरकारी छोडेर फूल खेती",
-   "summary": "बागलुङ समाचारदाताबागलुङ, कात्तिक १६ गते । प्लास्टिक टनेलमा व्यावसायिक तरकारी खेती गर्नुहुने बागलुङ नगरपालिका-१, रामरेखाको मैनडाँडाकी कमला थापाको खेती अहिले फेरिएको छ । पछिल्लो तीन...",
-   "link": "https://gorkhapatraonline.com/news/228020",
-   "source": "Gorkhapatra",
-   "ts": 1793595926,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/389992/conversions/flower-kheti-baglung-original.jpg",
-   "lang": "ne",
-   "hl": "तरकारी छोडेर फूल खेती",
-   "en": "तरकारी छोडेर फूल खेती",
-   "ne": "तरकारी छोडेर फूल खेती",
-   "imp": 2,
-   "tags": [
-    "Floriculture",
-    "FlowerFarming",
-    "फूलखेती"
-   ],
-   "cat": "economy",
    "val": 2,
    "teaser": false,
    "hits": 1
@@ -2185,29 +2096,6 @@
    "val": 1,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "दुई दिनमा साढे ११ हजार घटेको सुनको भाउ सोमबार भने बढ्यो, कतिमा हुँदैछ किनबेच?",
-   "summary": "नेपाल सुनचाँदी व्यवसायी महासंघका अनुसार आज सुन प्रतितोला दुई लाख ७४ हजार तीन सय रूपैयाँमा किनबेच भइरहेको छ।",
-   "link": "https://www.setopati.com/kinmel/jewellery/401800",
-   "source": "Setopati",
-   "ts": 1793596200,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "दुई दिनमा साढे ११ हजार घटेको सुनको भाउ सोमबार भने बढ्यो, कतिमा हुँदैछ किनबेच?",
-   "en": "दुई दिनमा साढे ११ हजार घटेको सुनको भाउ सोमबार भने बढ्यो, कतिमा हुँदैछ किनबेच?",
-   "ne": "दुई दिनमा साढे ११ हजार घटेको सुनको भाउ सोमबार भने बढ्यो, कतिमा हुँदैछ किनबेच?",
-   "imp": 3,
-   "tags": [
-    "GoldPrice",
-    "सुन",
-    "Market"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "Dolpa Prison Escape Raises Security Questions",
@@ -2828,29 +2716,6 @@
    "val": 3,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "NOC moves to merge LPG industries, asks operators to prepare action plans",
-   "summary": "Kathmandu, November 2 Nepal Oil Corporation (NOC) has said it has initiated the process of merging liquefied petroleum gas (LPG) industries operating in Nepal. The corporation said it would continue its policy of...",
-   "link": "https://english.onlinekhabar.com/noc-moves-to-merge-lpg-industries-asks-operators-to-prepare-action-plans.html",
-   "source": "Onlinekhabar EN",
-   "ts": 1793602453,
-   "weight": 3,
-   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/11/gass-ktm-12-1024x684-1.jpg",
-   "lang": "en",
-   "hl": "NOC moves to merge LPG industries, asks operators to prepare action plans",
-   "en": "NOC moves to merge LPG industries, asks operators to prepare action plans",
-   "ne": "NOC moves to merge LPG industries, asks operators to prepare action plans",
-   "imp": 3,
-   "tags": [
-    "NOC",
-    "LPG",
-    "Nepal"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 7
   },
   {
    "title": "Six Provincial Finance Ministers Convene in Birendranagar",
@@ -6800,7 +6665,7 @@
    "cat": "politics",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "सिड्नी मेट्रोमा नेपाली भाषामा पनि सहयोग लिन सकिने",
@@ -7051,6 +6916,30 @@
    ],
    "cat": "economy",
    "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Students gather in worship, fundraise for flood relief in Nepal",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWXI1a1NWYWxnTk5QaTd0MnJodERZelhfdFF4czlHUFpwRVN5OVNkNTctVENFTU5EMWg0eWx2U1NmMVcxYV9IcjR4NmFyaHU0RGZzRmRSWVFIMVZGU0VFVnhpV0JHVnI4NkswYnVKWGprVmFCQVZLeElIMDRydkhNTlZLTnN5dlZ5b0NXSFYyRXdYbkZRNjY2c3hiMVp2OVYx?oc=5",
+   "source": "Calvin University Chimes",
+   "ts": 1793624726,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "Students gather in worship, fundraise for flood relief in Nepal",
+   "en": "Students gather in worship, fundraise for flood relief in Nepal",
+   "ne": "Students gather in worship, fundraise for flood relief in Nepal",
+   "imp": 3,
+   "tags": [
+    "Students",
+    "FloodRelief",
+    "Nepal",
+    "बाढी"
+   ],
+   "cat": "society",
+   "val": 2,
    "teaser": false,
    "hits": 1
   }
@@ -10157,9 +10046,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "disaster"
+  },
+  {
+   "ts": 1793625073.0270016,
+   "en": "Nepal Oil Corporation initiates process to merge LPG industries",
+   "ne": "Nepal Oil Corporation initiates process to merge LPG industries",
+   "link": "https://english.onlinekhabar.com/noc-moves-to-merge-lpg-industries-asks-operators-to-prepare-action-plans.html",
+   "source": "Onlinekhabar EN",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "economy"
   }
  ],
- "updated": 1793624487,
+ "updated": 1793625088,
  "pending_since": 1793623848.9980984,
  "fb_blocks": [
   1790350880.4125228,
