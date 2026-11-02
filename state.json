@@ -1,10 +1,5 @@
 {
  "seen": {
-  "http://lokaantar.com/story/332247/2026/10/31/accident-": 1793412077.0882201,
-  "https://gorkhapatraonline.com/news/227772": 1793412077.0882201,
-  "https://gorkhapatraonline.com/news/227771": 1793412077.0882201,
-  "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBnbVB6SWpQRnZMeHZQMlJwaWNGYm1MR29OSXNYWWRzeTdadlFIVUZvbzQzWG5xZXl5VS1IbTVDbE94MWdOU2owRGlqZzVoa3pFeno5cnh3?oc=5": 1793412643.835821,
-  "http://lokaantar.com/story/332248/2026/10/31/sadak-": 1793412643.835821,
   "https://www.setopati.com/social/401663": 1793413256.3583212,
   "https://risingnepaldaily.com/news/88254": 1793413256.3583212,
   "https://english.khabarhub.com/2026/31/573783/": 1793413256.3583212,
@@ -1790,7 +1785,9 @@
   "https://gorkhapatraonline.com/news/227982": 1793584876.647729,
   "https://nagariknews.nagariknetwork.com/sports/the-promise-of-good-governance-is-opaque-governance-85-93.html": 1793584876.647729,
   "https://kathmandupost.com/money/2026/11/02/jumla-s-prized-marsi-rice-is-in-demand-but-production-is-declining": 1793584876.647729,
-  "https://kathmandupost.com/cricket/2026/11/02/janakpur-register-second-win-in-three-games": 1793584876.647729
+  "https://kathmandupost.com/cricket/2026/11/02/janakpur-register-second-win-in-three-games": 1793584876.647729,
+  "https://news.google.com/rss/articles/CBMinAFBVV95cUxNemdmSXhqZVQ5MjFwNS1fdWp3Y0FUbXNHXzZKTXVNR0NtTS1kV09zZFZSNU5PeHRaVEJyYWZGTEhfQjlnZUhUZGd0ZVZ3R3JDT3RZMVIzU2pnY3RVdDlqUkpONUVCNzdtcUlkdzA5M2czZXNOR2pnMTRmSVd5VHJackRPTWEydDd2TWlDUHVwcmJzMnNhdktsUXpDcDI?oc=5": 1793585454.1722114,
+  "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWmltclV4S2Nzd0QwN2NaR0JZanpDeVpXUjdWQzdNbG81VW1DMXNiSTdOOFlyWnpXX3cxQ3dwY3R3QnJfVjJJZzVpUlk3UjF1M1ZDdHVmYlM0SnZpenRBMENTazNzN2lGdVNadzVqajhQTkY5dTR4TjgxLWI2UGs3aTV3bjJNX0F1T2tueDFpdXZPeFA4TEtrbThnbTRWZThvenRrVXJJYVh5Vjd0clZfd2tkbnczanhEeW9Tb3haVFBqLVhB?oc=5": 1793585454.1722114
  },
  "queue": [
   {
@@ -1812,29 +1809,6 @@
    ],
    "cat": "disaster",
    "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "मध्यावधि चुनावमा ट्रम्पको अग्निपरीक्षा, सिनेटका यी १० सिटमा किन छ नजर ?",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/506313",
-   "source": "Baahrakhari",
-   "ts": 1793556471,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "मध्यावधि चुनावमा ट्रम्पको अग्निपरीक्षा, सिनेटका यी १० सिटमा किन छ नजर ?",
-   "en": "मध्यावधि चुनावमा ट्रम्पको अग्निपरीक्षा, सिनेटका यी १० सिटमा किन छ नजर ?",
-   "ne": "मध्यावधि चुनावमा ट्रम्पको अग्निपरीक्षा, सिनेटका यी १० सिटमा किन छ नजर ?",
-   "imp": 1,
-   "tags": [
-    "Trump",
-    "USSenate",
-    "MidtermElections"
-   ],
-   "cat": "world",
-   "val": 2,
    "teaser": false,
    "hits": 1
   },
@@ -2589,7 +2563,7 @@
    "cat": "disaster",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "Westerly winds bring cloudy skies, chances of rain",
@@ -3518,7 +3492,7 @@
    "cat": "world",
    "val": 1,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "The government should stop intimidating journalists",
@@ -6843,8 +6817,8 @@
    "cat": "sports"
   }
  ],
- "updated": 1793584883,
- "pending_since": null,
+ "updated": 1793585457,
+ "pending_since": 1793585454.1722114,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
