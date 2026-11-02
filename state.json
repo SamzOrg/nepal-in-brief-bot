@@ -1765,31 +1765,10 @@
   "http://english.ratopati.com/story/85368/in-the-fiery-trial-of-the-court-may-the-court-truly-rise": 1793582450.2520046,
   "https://nagariknews.nagariknetwork.com/social-affairs/those-involved-in-financial-irregularities-will-not-be-spared-chief-kafle-14-18.html": 1793582450.2520046,
   "https://gorkhapatraonline.com/news/227977": 1793582450.2520046,
-  "https://nagariknews.nagariknetwork.com/economy/in-the-accounts-of-120-million-farmers-and-employees-br-68-53.html": 1793582450.2520046
+  "https://nagariknews.nagariknetwork.com/economy/in-the-accounts-of-120-million-farmers-and-employees-br-68-53.html": 1793582450.2520046,
+  "http://lokaantar.com/story/332362/2026/11/2/learjet-crash-in-south-florida": 1793583060.392304
  },
  "queue": [
-  {
-   "title": "Real Madrid Defeats Racing Santander 3-0 in La Liga",
-   "summary": "Kathmandu. In a Spanish La Liga football competition, Real Madrid achieved a comfortable 3-0 victory over Racing Santander in a...",
-   "link": "http://english.ratopati.com/story/85378/real-madrid-ease-to-victory-over-racing-santander",
-   "source": "Ratopati EN",
-   "ts": 1793553672,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/real-madrid_BtQLp0G85S.webp",
-   "lang": "en",
-   "hl": "Real Madrid Defeats Racing Santander 3-0 in La Liga",
-   "en": "Real Madrid Defeats Racing Santander 3-0 in La Liga",
-   "ne": "Real Madrid Defeats Racing Santander 3-0 in La Liga",
-   "imp": 1,
-   "tags": [
-    "RealMadrid",
-    "LaLiga"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
   {
    "title": "जाडो बढेसँगै 'भक्का' को व्यापार फस्टाउँदै",
    "summary": "झापा, कात्तिक १५ गते । चिसो मौसम सुरु भएसँगै झापा, मोरङ, सुनसरीलगायत पूर्वी तराईका जिल्लामा रैथाने खाजा 'भक्का' को व्यापार फस्टाउन थालेको छ । राजवंशी भाषामा 'भक्का' भनिने आदिवासी स...",
@@ -1810,30 +1789,6 @@
     "भक्का"
    ],
    "cat": "culture",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "सिन्धुलीको फिक्कलमा टिपर दुर्घटना, चारजना घाइते",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/506311",
-   "source": "Baahrakhari",
-   "ts": 1793554134,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "सिन्धुलीको फिक्कलमा टिपर दुर्घटना, चारजना घाइते",
-   "en": "सिन्धुलीको फिक्कलमा टिपर दुर्घटना, चारजना घाइते",
-   "ne": "सिन्धुलीको फिक्कलमा टिपर दुर्घटना, चारजना घाइते",
-   "imp": 3,
-   "tags": [
-    "Sindhuli",
-    "Tipper",
-    "Accident",
-    "सिन्धुली"
-   ],
-   "cat": "disaster",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -2951,20 +2906,31 @@
    "val": 3,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "फ्लोरिडामा बस्तीमाथि विमान खस्यो, विमानमा सवार सबैको मृत्यु",
+   "summary": "अमेरिकाको फ्लोरिडामा आइतबार एक व्यावसायिक जेट विमान बस्ती क्षेत्रमा खस्दा विमानमा सवार सबैको मृत्यु भएको छ । विमान नौ जना सवार रहेका बीबीसीले जनाएको छ । अमेरिकी यातायात सचिव सिन डफीका अनुसार 'लेयरजेट ६०' विमान...",
+   "link": "http://lokaantar.com/story/332362/2026/11/2/learjet-crash-in-south-florida",
+   "source": "Lokaantar",
+   "ts": 1793568661.2345197,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "फ्लोरिडामा बस्तीमाथि विमान खस्यो, विमानमा सवार सबैको मृत्यु",
+   "en": "फ्लोरिडामा बस्तीमाथि विमान खस्यो, विमानमा सवार सबैको मृत्यु",
+   "ne": "फ्लोरिडामा बस्तीमाथि विमान खस्यो, विमानमा सवार सबैको मृत्यु",
+   "imp": 1,
+   "tags": [
+    "Florida",
+    "PlaneCrash"
+   ],
+   "cat": "world",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1792977655.603975,
-   "en": "दशैँ मनाएर काठमाडौं फर्किनेको चाप बढ्यो, उपत्यकाका नाकामा भिडभाड",
-   "ne": "दशैँ मनाएर काठमाडौं फर्किनेको चाप बढ्यो, उपत्यकाका नाकामा भिडभाड",
-   "link": "http://lokaantar.com/story/331913/2026/10/26/kathmandu-returns-",
-   "source": "Lokaantar",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "society"
-  },
   {
    "ts": 1792979463.4123874,
    "en": "Nepal Plans $50M Project to Reduce Glacial Lake Risks and Warnings",
@@ -6079,7 +6045,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1793582471,
+ "updated": 1793583065,
  "pending_since": 1793582450.2520046,
  "fb_blocks": [
   1790350880.4125228,
