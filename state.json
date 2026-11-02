@@ -1,6 +1,5 @@
 {
  "seen": {
-  "http://english.ratopati.com/story/85230/the-meteorological-forecasting-division-said-that-the-weather-is-gradually-improving-across-the-country": 1793443845.4372103,
   "https://english.khabarhub.com/2026/31/573869/": 1793444480.1855533,
   "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSkhVVzV0QVFHcF9EY0pzSmhzREJkOFF3enhuMHJETXh1X3BmcGZMYXNxb3ZTYnAtdWdqMktSZGlXWUJCdlNsNzZUSVBoZzVHOFY3MUdzcHlxNFBubmtfdGU3R0o1WnJmQm1OWEhMNWdRc0lxNE1ZRGwwNXhISzdmMXNmZGJDTE1YM1l3V0hfMVlaOVB2MUpXOGt2QUw2a0pIejVuNFJQZk7SAagBQVVfeXFMUEpIVVc1dEFRR3BfRGNKc0poc0RCZDhRd3p4bjByRE14dV9wZnBmTGFzcW92U2JwLXVnajJLUmRpV1lCQnZTbDc2VElQaGc1RzhWNzFHc3B5cTRQbm5rX3RlN0dKNVpyZkJtTlhITDVnUXNJcTRNWURsMDV4SEs3ZjFzZmRiQ0xNWDNZd1dIXzFZWjlQdjFKVzhrdkFMNmtKSHo1bjRSUGZO?oc=5": 1793444480.1855533,
   "http://lokaantar.com/story/332268/2026/10/31/snowfall-in-mustang-": 1793444480.1855533,
@@ -1945,7 +1944,16 @@
   "https://gorkhapatraonline.com/news/228047": 1793616049.5267618,
   "http://english.ratopati.com/story/85445/discussions-underway-to-conduct-trade-activities-through-alternative-border-crossings-with-china-secretary-rai": 1793616049.5267618,
   "https://www.setopati.com/politics/401845": 1793616049.5267618,
-  "https://www.setopati.com/blog/401847": 1793616049.5267618
+  "https://www.setopati.com/blog/401847": 1793616049.5267618,
+  "https://english.khabarhub.com/2026/02/574114/": 1793616650.6700716,
+  "https://thehimalayantimes.com/nepal/police-seize-210kg-of-marijuana-arrest-five-after-warning-shots-in-dharan": 1793616650.6700716,
+  "https://news.google.com/rss/articles/CBMixAFBVV95cUxOV0gtUjRxXzYwTDNJcmR1VE5KejVYWExnTElYM1hmQnRFUV8wUk9IcnIyaXBQV0NCRlVqbTJVbWNEWnNKZkRmaU4xaFpQQlJFRWpMWXNPdnROcHI5ZUJ3c0tTc0lHMVRjUkpRN2Vudm5TM2Myclk5SjBqVjFVTnlOQjk3UTdTd04yVHBPbE1Ka2RFR3FLQVFlLWJycnJjNzEwZ3phMUJhRFNRRjdSUVBVVTk0NXlDNnVzVzMxck9fU1Z1YVRZ?oc=5": 1793616650.6700716,
+  "https://english.khabarhub.com/2026/02/574110/": 1793616650.6700716,
+  "http://lokaantar.com/story/332409/2026/11/2/jigyankumar-thapa-": 1793616650.6700716,
+  "http://english.ratopati.com/story/85450/geographical-study-underway-to-build-permanent-housing-for-bhotekoshi-flood-victims-authority": 1793616650.6700716,
+  "https://www.setopati.com/sports/npl/401849": 1793616650.6700716,
+  "https://english.khabarhub.com/2026/02/574106/": 1793616650.6700716,
+  "http://lokaantar.com/story/332410/2026/11/2/npl": 1793616650.6700716
  },
  "queue": [
   {
@@ -2013,75 +2021,6 @@
    ],
    "cat": "society",
    "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Revisiting Last Week: Judicial Controversy, Press Freedom Concerns",
-   "summary": "KATHMANDU: The past week was significant for Nepal's political and institutional landscape, with developments ranging from proposed judicial restructuring and concerns over press freedom to diplomatic achievements,...",
-   "link": "https://english.khabarhub.com/2026/02/573471/",
-   "source": "Khabarhub EN",
-   "ts": 1793587532,
-   "weight": 2,
-   "img": "https://english.khabarhub.com/wp-content/uploads/2026/11/Weekly--400x220.jpeg",
-   "lang": "en",
-   "hl": "Revisiting Last Week: Judicial Controversy, Press Freedom Concerns",
-   "en": "Revisiting Last Week: Judicial Controversy, Press Freedom Concerns",
-   "ne": "Revisiting Last Week: Judicial Controversy, Press Freedom Concerns",
-   "imp": 2,
-   "tags": [
-    "WeekInReview",
-    "Judiciary",
-    "PressFreedom"
-   ],
-   "cat": "world",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "बंगालको खाडीमा बन्यो अर्को चक्रवात 'मुरासु', नेपालमा प्रभाव पर्छ ?",
-   "summary": "वर्षा रोकिएसँगै उत्तरपश्चिम भारतका विभिन्न क्षेत्रमा पराल जलाउँदा निस्कने धुवाँ देखिन थालेको पोखरेलले बताएका छन्।...",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/another-cyclone-murasu-has-formed-in-the-bay-of-bengal-will-it-affect-nepal-90-99.html",
-   "source": "Nagarik News",
-   "ts": 1793587488,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1793587455_murasu.jpg",
-   "lang": "ne",
-   "hl": "बंगालको खाडीमा बन्यो अर्को चक्रवात 'मुरासु', नेपालमा प्रभाव पर्छ ?",
-   "en": "बंगालको खाडीमा बन्यो अर्को चक्रवात 'मुरासु', नेपालमा प्रभाव पर्छ ?",
-   "ne": "बंगालको खाडीमा बन्यो अर्को चक्रवात 'मुरासु', नेपालमा प्रभाव पर्छ ?",
-   "imp": 3,
-   "tags": [
-    "CycloneMurasu",
-    "Weather",
-    "चक्रवात"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "Ilam Municipality: Three Arrested for Assault with Sharp Weapon",
-   "summary": "Ilam. 32-year-old Subas Lohar has been injured by a sharp weapon attack in Chyarechhare, Ilam Municipality-4, Ilam. Police have taken...",
-   "link": "http://english.ratopati.com/story/85395/one-injured-in-sharp-weapon-attack-in-ilam-three-arrested",
-   "source": "Ratopati EN",
-   "ts": 1793587323,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/871150652_989978087482541_647420423798925768_n_6AeOCLfKBh.webp",
-   "lang": "en",
-   "hl": "Ilam Municipality: Three Arrested for Assault with Sharp Weapon",
-   "en": "Ilam Municipality: Three Arrested for Assault with Sharp Weapon",
-   "ne": "Ilam Municipality: Three Arrested for Assault with Sharp Weapon",
-   "imp": 3,
-   "tags": [
-    "Ilam",
-    "Arrest",
-    "Assault"
-   ],
-   "cat": "crime",
-   "val": 3,
    "teaser": false,
    "hits": 1
   },
@@ -2458,7 +2397,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 4
+   "hits": 5
   },
   {
    "title": "बढ्दै फिरन्ते हात्तीको आवागमन",
@@ -3371,29 +3310,6 @@
    "val": 3,
    "teaser": false,
    "hits": 5
-  },
-  {
-   "title": "Another wave of protests sweeps Europe over various grievances",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOXRKMmkzd0RUanVZWGRhSlotUWZueGxBNFFhNXdFUGFjQmtKZGhWRWNEdTFMN012WFBScUVWMzQxVmpPaDhHNlpaU2Zkc0JCNHVSRVNaRlZsRjZvYzV0bWpqOUFaUzhVZndQTUkyR0U0dEZuNk95VWJ5MkJwaU9nTEJrcXNNYnhPRE8xNHhTUnBsNWx2Q05KWmotSms2T1lBdUdLNnZCaGU1bDFMMnBWRUxpZUxjb0dTaTh4cE9n?oc=5",
-   "source": "myRepublica",
-   "ts": 1793587500,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Another wave of protests sweeps Europe over various grievances",
-   "en": "Another wave of protests sweeps Europe over various grievances",
-   "ne": "Another wave of protests sweeps Europe over various grievances",
-   "imp": 1,
-   "tags": [
-    "Protests",
-    "Europe",
-    "WorldNews"
-   ],
-   "cat": "world",
-   "val": 2,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "तरकारी छोडेर फूल खेती",
@@ -6999,7 +6915,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "बागमती सिँचाईका ज्यालादारी कर्मचारी धर्नामा",
@@ -7045,7 +6961,7 @@
    "cat": "politics",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "५० एमपी जाइस पोट्र्रेट क्यामरासहितको 'भिभो भी८०' सार्वजनिक, मूल्य कति?",
@@ -7137,7 +7053,7 @@
    "cat": "sports",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "दीपक-दीपाको घोषणा: 'छ माया छपक्कै ३' २०८४ को दसैंमा!",
@@ -7252,6 +7168,51 @@
    "cat": "society",
    "val": 1,
    "teaser": true,
+   "hits": 1
+  },
+  {
+   "title": "वार्नरलाई सोमपालले रोके, तर रशिद र करणको विस्फोटक ब्याटिङमा कर्णालीमाथि काठमाडौंको रोमाञ्चक जित",
+   "summary": "काठमाडौंको जितमा रशिद खान र कप्तान करण केसीले उत्कृष्ट ब्याटिङ गरे। रशिदले अर्धशतकीय इनिङ्स खेल्दा करणले आक्रामक ब्याटिङ गर्दै टोलीलाई जितसम्म पुर्‍याउने आधार तयार गरे।",
+   "link": "https://www.setopati.com/sports/npl/401849",
+   "source": "Setopati",
+   "ts": 1793616180,
+   "weight": 3,
+   "img": null,
+   "lang": "ne",
+   "hl": "वार्नरलाई सोमपालले रोके, तर रशिद र करणको विस्फोटक ब्याटिङमा कर्णालीमाथि काठमाडौंको रोमाञ्चक जित",
+   "en": "वार्नरलाई सोमपालले रोके, तर रशिद र करणको विस्फोटक ब्याटिङमा कर्णालीमाथि काठमाडौंको रोमाञ्चक जित",
+   "ne": "वार्नरलाई सोमपालले रोके, तर रशिद र करणको विस्फोटक ब्याटिङमा कर्णालीमाथि काठमाडौंको रोमाञ्चक जित",
+   "imp": 2,
+   "tags": [
+    "Cricket",
+    "Kathmandu",
+    "Karnali"
+   ],
+   "cat": "sports",
+   "val": 3,
+   "teaser": false,
+   "hits": 2
+  },
+  {
+   "title": "Motorcyclist dies after being hit by bus in Chabahil",
+   "summary": "KATHMANDU: A motorcyclist who was critically injured after a bus hit his motorcycle in Chabahil, Kathmandu, has died during treatment. The deceased has been identified as Suman Prasad Adhikari of Mahashila Rural...",
+   "link": "https://english.khabarhub.com/2026/02/574106/",
+   "source": "Khabarhub EN",
+   "ts": 1793614626,
+   "weight": 2,
+   "img": "https://english.khabarhub.com/wp-content/uploads/2025/05/motorcycle-accident-bike-1-e1748743811613-400x220.jpg",
+   "lang": "en",
+   "hl": "Motorcyclist dies after being hit by bus in Chabahil",
+   "en": "Motorcyclist dies after being hit by bus in Chabahil",
+   "ne": "Motorcyclist dies after being hit by bus in Chabahil",
+   "imp": 2,
+   "tags": [
+    "Chabahil",
+    "TrafficAccident"
+   ],
+   "cat": "crime",
+   "val": 3,
+   "teaser": false,
    "hits": 1
   }
  ],
@@ -10381,8 +10342,8 @@
    "cat": "economy"
   }
  ],
- "updated": 1793616057,
- "pending_since": null,
+ "updated": 1793616659,
+ "pending_since": 1793616650.6700716,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
