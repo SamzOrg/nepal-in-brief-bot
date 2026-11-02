@@ -2022,30 +2022,6 @@
  },
  "queue": [
   {
-   "title": "Laborer Dies After Being Crushed by Machine at Cement Board Factory in Rautahat",
-   "summary": "Rautahat. A laborer died after being crushed by a machine while working at a cement board industry in Fatuwa Vijaypur...",
-   "link": "http://english.ratopati.com/story/85468/worker-dies-after-being-crushed-by-machine-in-rautahat",
-   "source": "Ratopati EN",
-   "ts": 1793622598,
-   "weight": 2,
-   "img": "https://rpcdn.ratopati.com/media/albums/rautahat_nGygwm2HRC.jpg",
-   "lang": "en",
-   "hl": "Laborer Dies After Being Crushed by Machine at Cement Board Factory in Rautahat",
-   "en": "Laborer Dies After Being Crushed by Machine at Cement Board Factory in Rautahat",
-   "ne": "Laborer Dies After Being Crushed by Machine at Cement Board Factory in Rautahat",
-   "imp": 3,
-   "tags": [
-    "Rautahat",
-    "CementFactory",
-    "Accident",
-    "दुर्घटना"
-   ],
-   "cat": "crime",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Middleman Claims Former Chief Justice Cholendra Used Him",
    "summary": "Kathmandu. Middleman Inam Sapkota is currently in the custody of the Kathmandu District Police Complex on charges of money laundering....",
    "link": "http://english.ratopati.com/story/85461/inams-statement-cholendra-sriman-is-the-mastermind-i-was-used",
@@ -2161,29 +2137,6 @@
    "hits": 1
   },
   {
-   "title": "करदाता प्रोत्साहन उपहार कार्यक्रम : १५ जना दैनिक उपहार विजेता सार्वजनिक",
-   "summary": "काठमाडौँ, कात्तिक १६ गते । अर्थ मन्त्रालयले सञ्चालन गरेको 'करदाता प्रोत्साहन उपहार कार्यक्रम' अन्तर्गत कात्तिक पहिलो पाक्षिक (कात्तिक १ देखि १५ गतेसम्म) को खरिद बीजकका आधारमा दैनिक...",
-   "link": "https://gorkhapatraonline.com/news/228066",
-   "source": "Gorkhapatra",
-   "ts": 1793622638,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/390064/conversions/MOF-original.jpg",
-   "lang": "ne",
-   "hl": "करदाता प्रोत्साहन उपहार कार्यक्रम : १५ जना दैनिक उपहार विजेता सार्वजनिक",
-   "en": "करदाता प्रोत्साहन उपहार कार्यक्रम : १५ जना दैनिक उपहार विजेता सार्वजनिक",
-   "ne": "करदाता प्रोत्साहन उपहार कार्यक्रम : १५ जना दैनिक उपहार विजेता सार्वजनिक",
-   "imp": 2,
-   "tags": [
-    "IRN",
-    "Taxpayers",
-    "Lottery"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "रौतहटमा स्रोत नखुलेको १० लाखसहित मोटरसाइकल नियन्त्रणमा",
    "summary": "",
    "link": "https://baahrakhari.com/detail/506396",
@@ -2205,28 +2158,6 @@
    "val": 3,
    "teaser": false,
    "hits": 2
-  },
-  {
-   "title": "दक्षिण कोरियाले एआई र सेमिकन्डक्टर क्षेत्रमा १६ अर्ब डलर लगानी गर्ने",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/506395",
-   "source": "Baahrakhari",
-   "ts": 1793622372,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "दक्षिण कोरियाले एआई र सेमिकन्डक्टर क्षेत्रमा १६ अर्ब डलर लगानी गर्ने",
-   "en": "दक्षिण कोरियाले एआई र सेमिकन्डक्टर क्षेत्रमा १६ अर्ब डलर लगानी गर्ने",
-   "ne": "दक्षिण कोरियाले एआई र सेमिकन्डक्टर क्षेत्रमा १६ अर्ब डलर लगानी गर्ने",
-   "imp": 1,
-   "tags": [
-    "SouthKorea",
-    "Semiconductor"
-   ],
-   "cat": "tech",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
   },
   {
    "title": "Students gather in worship, fundraise for flood relief in Nepal",
@@ -7199,7 +7130,7 @@
    "cat": "crime"
   }
  ],
- "updated": 1793650856,
+ "updated": 1793651473,
  "pending_since": 1793650250.6891007,
  "fb_blocks": [
   1790350880.4125228,
