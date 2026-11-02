@@ -1760,7 +1760,12 @@
   "https://gorkhapatraonline.com/news/227994": 1793588492.631294,
   "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZTQyb1lpaUthWXB6QVNSWlZxYXhHX2szLTlJXzVVRlk3WTJ4WEdjMVZwX210SWh4SDRHcnhJdmJjTHFDZElWSTU4N3ZDb2JINTJJVlhqdlpnU1cyWnFGNU8wMTZBWkZYeXhSdFcybGdrUy1LOGRpWHR3aC14Zm52dDl3MGIwNTNFRjRrZEpvdFFmQjdEYjVEVFlYS0pVLTQ4bzdGLXFKSFNnQkNoQ1ozR0t0MnJFSTc0dUlpT2JR?oc=5": 1793589047.517058,
   "http://english.ratopati.com/story/85374/long-pending-contracts-are-being-canceled-in-a-hurry-82-of-them-were-broken-in-7-months": 1793589648.7746246,
-  "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVU91WS1pTTg1N2cwM1VfeFBnaVkxSmIzQ0wyN0tRYUt3aHZUc2FfYlIzNUdBOWNyUjR4S1ZwOWIxTFJram1Wc0lFbEJVOTgwUm9rMndubnVNUms3dU5hcGpFTGhTM2Z2Q0xncS05b3RDVHlLTlBfZHkzYkxOcWRpLXlaU3ZuTmItMExNVjMzdnVJQlNfa0o5VmRlOGNDNlRaY2pTTkREQQ?oc=5": 1793589648.7746246
+  "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVU91WS1pTTg1N2cwM1VfeFBnaVkxSmIzQ0wyN0tRYUt3aHZUc2FfYlIzNUdBOWNyUjR4S1ZwOWIxTFJram1Wc0lFbEJVOTgwUm9rMndubnVNUms3dU5hcGpFTGhTM2Z2Q0xncS05b3RDVHlLTlBfZHkzYkxOcWRpLXlaU3ZuTmItMExNVjMzdnVJQlNfa0o5VmRlOGNDNlRaY2pTTkREQQ?oc=5": 1793589648.7746246,
+  "https://www.setopati.com/politics/401793": 1793590263.991339,
+  "https://english.khabarhub.com/2026/02/574026/": 1793590263.991339,
+  "https://kathmandupost.com/world/2026/11/02/nine-people-dead-in-learjet-crash-in-south-florida": 1793590263.991339,
+  "https://risingnepaldaily.com/news/88306": 1793590263.991339,
+  "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaWVrcUxuS1pyV0Z2dHJ3SFNZR3RtV3VCRXlaMWFNMXEwTWJPZVJXaU5EcU5MZFVvS3R2THJQd3l4NGZyVWYxODh6TmVNMXlxVFdvQk5rclFVYWloRndVUS1HS1pScF9pQlp2YTBJdzJmdTQ2NDlTdlVKU1hhd1hWd2swdU5nb3BNaW9Ld3ZsY2JON1ExYVZ4Y0JOZ0kwX1FpUl8xS2xWY0RIbVNqRDE0Uldkd0kyR3F5bzl1RNIBwgFBVV95cUxQUUd6Z05UclpmSkRWSHUyNm9uT2dEM0w5YjJGWVVFYzA1R3RTcUo4SnJ0NVhFdUo3aTFJclZfVURKdV9KcDRHUUo5ODN0STVZcGpLamRpdWtZb0ZUQkxjTE51eThVNkcwR1o1WUFjVGRqUHl0V0ltMkNsdDF3VGpsa01pRmxnODdfZDdmZnFNRmh6SEFTN3NncmpKWEROQ0k4cEJyZ09uQndqaWExZngzSUVvampiS3BUNDNCcU1DQjhZQQ?oc=5": 1793590263.991339
  },
  "queue": [
   {
@@ -1942,7 +1947,7 @@
    "cat": "world",
    "val": 3,
    "teaser": false,
-   "hits": 3
+   "hits": 4
   },
   {
    "title": "Kangana Ranaut Returns to Horror Genre with 'Scary Picture'",
@@ -4412,20 +4417,53 @@
    "val": 1,
    "teaser": true,
    "hits": 1
+  },
+  {
+   "title": "Gurung wins Mrs. Nepal World",
+   "summary": "By A Staff Reporter, Kathmandu, Nov. 2: Nepal Rastra Bank Deputy Director Binita Gurung has won the title of Mrs. Nepal...",
+   "link": "https://risingnepaldaily.com/news/88306",
+   "source": "Rising Nepal",
+   "ts": 1793590015,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "Gurung wins Mrs. Nepal World",
+   "en": "Gurung wins Mrs. Nepal World",
+   "ne": "Gurung wins Mrs. Nepal World",
+   "imp": 1,
+   "tags": [
+    "MrsNepalWorld",
+    "Gurung"
+   ],
+   "cat": "culture",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "First step: Editorial on Nepal floods and the promise of FRLD aid",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaWVrcUxuS1pyV0Z2dHJ3SFNZR3RtV3VCRXlaMWFNMXEwTWJPZVJXaU5EcU5MZFVvS3R2THJQd3l4NGZyVWYxODh6TmVNMXlxVFdvQk5rclFVYWloRndVUS1HS1pScF9pQlp2YTBJdzJmdTQ2NDlTdlVKU1hhd1hWd2swdU5nb3BNaW9Ld3ZsY2JON1ExYVZ4Y0JOZ0kwX1FpUl8xS2xWY0RIbVNqRDE0Uldkd0kyR3F5bzl1RNIBwgFBVV95cUxQUUd6Z05UclpmSkRWSHUyNm9uT2dEM0w5YjJGWVVFYzA1R3RTcUo4SnJ0NVhFdUo3aTFJclZfVURKdV9KcDRHUUo5ODN0STVZcGpLamRpdWtZb0ZUQkxjTE51eThVNkcwR1o1WUFjVGRqUHl0V0ltMkNsdDF3VGpsa01pRmxnODdfZDdmZnFNRmh6SEFTN3NncmpKWEROQ0k4cEJyZ09uQndqaWExZngzSUVvampiS3BUNDNCcU1DQjhZQQ?oc=5",
+   "source": "Telegraph India",
+   "ts": 1793589737,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "First step: Editorial on Nepal floods and the promise of FRLD aid",
+   "en": "First step: Editorial on Nepal floods and the promise of FRLD aid",
+   "ne": "First step: Editorial on Nepal floods and the promise of FRLD aid",
+   "imp": 4,
+   "tags": [
+    "Floods",
+    "Aid"
+   ],
+   "cat": "disaster",
+   "val": 2,
+   "teaser": true,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1792984853.7971566,
-   "en": "Nepal expands flood warning systems across six river basins in 2026-27 white paper",
-   "ne": "Nepal expands flood warning systems across six river basins in 2026-27 white paper",
-   "link": "https://kathmandupost.com/national/2026/10/26/nepal-to-expand-flood-warning-systems-across-six-river-basins",
-   "source": "The Kathmandu Post",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "disaster"
-  },
   {
    "ts": 1792986658.8111167,
    "en": "Kojagrat Purnima celebrated in Nepal, marking the formal end of the 15-day Dashain festival",
@@ -7540,7 +7578,7 @@
    "cat": "politics"
   }
  ],
- "updated": 1793589690,
+ "updated": 1793590269,
  "pending_since": 1793589047.517058,
  "fb_blocks": [
   1790350880.4125228,
