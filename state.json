@@ -1,8 +1,5 @@
 {
  "seen": {
-  "http://english.ratopati.com/story/85181/national-independent-party-secretariat-meeting-begins": 1793427648.5803435,
-  "http://english.ratopati.com/story/85179/more-than-12-roads-in-the-country-including-the-prithvi-highway-are-blocked": 1793427648.5803435,
-  "http://english.ratopati.com/story/85177/manpower-development-program-launched-at-tu": 1793427648.5803435,
   "http://english.ratopati.com/story/85180/rain-continues-npl-matches-affected-photos": 1793428273.1505969,
   "http://lokaantar.com/story/332253/2026/10/31/america-ukrain-": 1793428273.1505969,
   "https://english.khabarhub.com/2026/31/573838/": 1793428845.9193242,
@@ -1831,7 +1828,11 @@
   "https://nagariknews.nagariknetwork.com/international/is-cjp-spokesperson-saurav-das-nepali-41-62.html": 1793599851.9953914,
   "https://gorkhapatraonline.com/news/228025": 1793599851.9953914,
   "https://nagariknews.nagariknetwork.com/social-affairs/789-households-affected-by-monsoon-related-disasters-in-myagdi-br-26-60.html": 1793599851.9953914,
-  "https://nagariknews.nagariknetwork.com/politics/now-singha-durbar-in-every-village-prime-minister-shah-44-76.html": 1793599851.9953914
+  "https://nagariknews.nagariknetwork.com/politics/now-singha-durbar-in-every-village-prime-minister-shah-44-76.html": 1793599851.9953914,
+  "https://english.onlinekhabar.com/nepali-congress-parliamentary-committee-investigate-arrest-journalists.html": 1793600452.0708694,
+  "https://english.khabarhub.com/2026/02/574056/": 1793600452.0708694,
+  "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdmlTdjJPS05sU05VV1h5SDZrdTQzaEM4U0RITVVXeU1rS05Zc1VUbWo0VnNPb1NYekQ3bC1zdzVNNzY4OW16amstZmNzZFdYTzhlbHRsYWtGZWtyTS1LVlZiWFhhTGFwWDIxUG4zZlRqYnFLTzhGUUl5UDhUVVV4UmhpdTZKSElFSVFEczlUTFN6UG9sSUNoNjRpQUZoU21ESV81Yl9Ra1NQc2d4TTl0Wks5UkJzRVhyeUh0d0xfTmZqYmxVcklPWGtsNFpLbjFRalpz?oc=5": 1793600452.0708694,
+  "https://english.khabarhub.com/2026/02/574046/": 1793600452.0708694
  },
  "queue": [
   {
@@ -4069,7 +4070,7 @@
    "cat": "crime",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "प्रधानमन्त्री बालेनको चेतावनीदेखि महाअभियोगको बाटोमा रास्वपासम्म",
@@ -4695,7 +4696,7 @@
    "cat": "disaster",
    "val": 3,
    "teaser": false,
-   "hits": 13
+   "hits": 14
   },
   {
    "title": "इटहरीमा पहिलोपटक नेपथ्यको कन्सर्ट हुँदै",
@@ -5158,7 +5159,7 @@
    "cat": "world",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "नेतान्याहुको दबाबमा ट्रम्पले इरानमा परमाणु हमला गर्न सक्ने कार्लसनको दाबी",
@@ -9820,8 +9821,8 @@
    "cat": "politics"
   }
  ],
- "updated": 1793599860,
- "pending_since": null,
+ "updated": 1793600455,
+ "pending_since": 1793600452.0708694,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
