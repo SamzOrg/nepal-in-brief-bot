@@ -2136,29 +2136,6 @@
    "hits": 1
   },
   {
-   "title": "बुद्ध एयरको टायर पञ्चर, राजविराजमा यात्रु अलपत्र",
-   "summary": "धीरेन्द्रप्रसाद साहराजविराज, कात्तिक १६ गते । बुद्ध एयरको जहाजको टायर पञ्चर भएपछि सोमबार राजविराज विमानस्थलबाट काठमाडौँ जाने यात्रु घण्टौँसम्म विमानस्थलमै रोकिएका छन् । निर्धारित स...",
-   "link": "https://gorkhapatraonline.com/news/228076",
-   "source": "Gorkhapatra",
-   "ts": 1793632886,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/390082/conversions/Buddha-Air-original.jpg",
-   "lang": "ne",
-   "hl": "बुद्ध एयरको टायर पञ्चर, राजविराजमा यात्रु अलपत्र",
-   "en": "बुद्ध एयरको टायर पञ्चर, राजविराजमा यात्रु अलपत्र",
-   "ne": "बुद्ध एयरको टायर पञ्चर, राजविराजमा यात्रु अलपत्र",
-   "imp": 2,
-   "tags": [
-    "BuddhaAir",
-    "Rajbiraj",
-    "Aviation"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Top 10 News Events of the Day in Nepal",
    "summary": "Today is Monday, Kartik 16, 2083 BS. We have presented the top 10 main events of the day on Ratopati.com's...",
    "link": "http://english.ratopati.com/story/85475/10-oclock-10-news-opposition-demands-to-convene-parliament-meeting-inams-statement-that-cholendra-is-the-mastermind",
@@ -2179,29 +2156,6 @@
    "val": 1,
    "teaser": true,
    "hits": 3
-  },
-  {
-   "title": "Khimti Hydropower Project Ownership Transfer Delayed",
-   "summary": "Kathmandu. More than 5 years have passed since the deadline for Nepal Electricity Authority to acquire 50 percent ownership of...",
-   "link": "http://english.ratopati.com/story/85473/khimti-hydropower-project-nea-still-hasnt-received-half-of-its-ownership-even-after-5-years",
-   "source": "Ratopati EN",
-   "ts": 1793632945,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/khimti_kTCUtHLP99.webp",
-   "lang": "en",
-   "hl": "Khimti Hydropower Project Ownership Transfer Delayed",
-   "en": "Khimti Hydropower Project Ownership Transfer Delayed",
-   "ne": "Khimti Hydropower Project Ownership Transfer Delayed",
-   "imp": 3,
-   "tags": [
-    "KhimtiHydropower",
-    "Energy",
-    "Ownership"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
   },
   {
    "title": "नेतन्याहूलाई सत्ताबाट हटाउन र सरकार गठनमा आइजेनकोटका चार सर्त",
@@ -2356,29 +2310,6 @@
     "Python"
    ],
    "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "सौराहा अन्तर्राष्ट्रिय तेक्वान्दोमा मधेश च्याम्पियन",
-   "summary": "मधेश प्रदेश प्रथम सौराहा अन्तर्राष्ट्रिय तेक्वान्दो च्याम्पियनसिपको टिम च्याम्पियन भएको छ ।",
-   "link": "https://nagariknews.nagariknetwork.com/sports/madhesh-champion-in-sauraha-international-taekwondo-48-74.html",
-   "source": "Nagarik News",
-   "ts": 1793633003,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1793632990_882720092_1662419338599085_4937500334653422478_n.jpg",
-   "lang": "ne",
-   "hl": "सौराहा अन्तर्राष्ट्रिय तेक्वान्दोमा मधेश च्याम्पियन",
-   "en": "सौराहा अन्तर्राष्ट्रिय तेक्वान्दोमा मधेश च्याम्पियन",
-   "ne": "सौराहा अन्तर्राष्ट्रिय तेक्वान्दोमा मधेश च्याम्पियन",
-   "imp": 2,
-   "tags": [
-    "Taekwondo",
-    "Sauraha",
-    "Madhesh"
-   ],
-   "cat": "sports",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -2868,17 +2799,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1793056856.609256,
-   "en": "India U19 A Women play Nepal U19 Women in Bengaluru on 20 Nov 2026",
-   "ne": "India U19 A Women play Nepal U19 Women in Bengaluru on 20 Nov 2026",
-   "link": "https://www.bcci.tv/matches/9742c520-4d80-4cf5-af7b-335915463806/india-under-19s-a-women-vs-nepal-under-19s-women",
-   "source": "BCCI",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "sports"
-  },
   {
    "ts": 1793058653.926445,
    "en": "US congressional delegation meets Nepal Speaker Dol Prasad Aryal in Kathmandu",
@@ -5993,7 +5913,7 @@
    "cat": "economy"
   }
  ],
- "updated": 1793661677,
+ "updated": 1793662267,
  "pending_since": 1793661651.3465695,
  "fb_blocks": [
   1790350880.4125228,
