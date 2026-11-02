@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://risingnepaldaily.com/news/88243": 1793405445.7854683,
-  "https://risingnepaldaily.com/news/88242": 1793405445.7854683,
   "https://english.khabarhub.com/2026/31/573736/": 1793406045.7220387,
   "https://baahrakhari.com/detail/506159": 1793406045.7220387,
   "https://gorkhapatraonline.com/news/227754": 1793406045.7220387,
@@ -1844,51 +1842,6 @@
    "hits": 5
   },
   {
-   "title": "Today's News in a Nutshell",
-   "summary": "KATHMANDU: Khabarhub brings you a glimpse of major developments of the day in Nepal, including politics, business/economy, sports, entertainment, and more. PM Balen warns that no one will escape accountability Prime...",
-   "link": "https://english.khabarhub.com/2026/01/573932/",
-   "source": "Khabarhub EN",
-   "ts": 1793549146,
-   "weight": 2,
-   "img": "https://english.khabarhub.com/wp-content/uploads/2024/05/News-Nutshell-640x360.jpg",
-   "lang": "en",
-   "hl": "Today's News in a Nutshell",
-   "en": "Today's News in a Nutshell",
-   "ne": "Today's News in a Nutshell",
-   "imp": 1,
-   "tags": [
-    "NewsSummary"
-   ],
-   "cat": "other",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "Microbus Accident in Tanahun Injures 11",
-   "summary": "Tanahun. Eleven people, including the driver, were injured in a microbus accident in Baradi, Aabukhairani Rural Municipality-2, Tanahun, along the...",
-   "link": "http://english.ratopati.com/story/85375/microbus-accident-in-ambukhaireni-11-people-including-driver-injured",
-   "source": "Ratopati EN",
-   "ts": 1793549131,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/accident-durghatana-acc-cartoon_nrzrx5tby7_4TzKnsDq9Y.jpg",
-   "lang": "en",
-   "hl": "Microbus Accident in Tanahun Injures 11",
-   "en": "Microbus Accident in Tanahun Injures 11",
-   "ne": "Microbus Accident in Tanahun Injures 11",
-   "imp": 3,
-   "tags": [
-    "Tanahun",
-    "Microbus",
-    "Accident",
-    "तनहुँ"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 3
-  },
-  {
    "title": "Sunday, November 2, 2026: Top 10 News Highlights",
    "summary": "Today is Sunday, November 2, 2026. We have presented the main 10 events of the day in Rato Pati dot...",
    "link": "http://english.ratopati.com/story/85367/10-news-at-10-balens-warning-dont-dream-of-escaping-congress-says-what-is-needed-now-is-not-fear-but-trust",
@@ -2026,30 +1979,6 @@
    "val": 3,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "पश्चिमी वायुको प्रभाव: उच्च हिमाली भेगमा वर्षा र हिमपात, तराई र उपत्यकामा हुस्सु",
-   "summary": "हाल नेपालमा पश्चिमी वायुको आंशिक प्रभावका कारण हिमाली भू-भागमा हिमपात र वर्षा सुरु भएको छ।",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/according-to-the-meteorological-forecasting-division-there-is-currently-a-partial-influence-of-the-westerly-wind-in-nepal-87-62.html",
-   "source": "Nagarik News",
-   "ts": 1793549408,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1762865776_humla_.jpg",
-   "lang": "ne",
-   "hl": "पश्चिमी वायुको प्रभाव: उच्च हिमाली भेगमा वर्षा र हिमपात, तराई र उपत्यकामा हुस्सु",
-   "en": "पश्चिमी वायुको प्रभाव: उच्च हिमाली भेगमा वर्षा र हिमपात, तराई र उपत्यकामा हुस्सु",
-   "ne": "पश्चिमी वायुको प्रभाव: उच्च हिमाली भेगमा वर्षा र हिमपात, तराई र उपत्यकामा हुस्सु",
-   "imp": 3,
-   "tags": [
-    "Weather",
-    "Snowfall",
-    "Fog",
-    "हिउँपात"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "सिन्धुलीको फिक्कलमा टिपर दुर्घटना, चारजना घाइते",
@@ -5396,8 +5325,8 @@
    "cat": "politics"
   }
  ],
- "updated": 1793577683,
- "pending_since": null,
+ "updated": 1793578249,
+ "pending_since": 1793578245.9967456,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
