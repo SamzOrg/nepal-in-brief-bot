@@ -1827,7 +1827,12 @@
   "https://nagariknews.nagariknetwork.com/politics/there-is-no-fundamental-difference-in-the-policies-of-oli-prachanda-gagan-and-balen-damodar-aryal-79-11.html": 1793592646.5319498,
   "https://nagariknews.nagariknetwork.com/politics/what-is-the-status-of-the-prime-minister-if-he-is-no-longer-the-leader-of-the-parliamentary-party-br-95-43.html": 1793592646.5319498,
   "https://nagariknews.nagariknetwork.com/politics/dr-kc-s-having-to-go-on-hunger-strike-twice-in-6-months-is-not-a-good-message-tosima-karki-92-74.html": 1793592646.5319498,
-  "https://nagariknews.nagariknetwork.com/sports/messi-s-decisive-goal-leads-inter-miami-to-dramatic-win-13-41.html": 1793592646.5319498
+  "https://nagariknews.nagariknetwork.com/sports/messi-s-decisive-goal-leads-inter-miami-to-dramatic-win-13-41.html": 1793592646.5319498,
+  "https://nagariknews.nagariknetwork.com/politics/nepali-congress-calls-for-meeting-of-opposition-parties-21-49.html": 1793593249.5185575,
+  "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1IS0M0NzJIa2dxQ09jRklTbVIwN01vbEJhWHBmTU50N29Malo3cklxSnVIdXJoSDBnUjJ4azRtTnZQSi15OGRYMjFZLTdEdk00?oc=5": 1793593249.5185575,
+  "http://lokaantar.com/story/332378/2026/11/2/accident-": 1793593249.5185575,
+  "http://lokaantar.com/story/332377/2026/11/2/roshan-gupta-": 1793593249.5185575,
+  "https://kathmandupost.com/province-no-1/2026/11/02/govinda-kc-flown-to-kathmandu-as-health-deteriorates-during-hunger-strike": 1793593249.5185575
  },
  "queue": [
   {
@@ -3510,7 +3515,7 @@
    "cat": "economy",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "मधेशमा बाक्लो हुस्सु र शीतलहर, जनजीवन प्रभावित",
@@ -4500,7 +4505,7 @@
    "cat": "culture",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Light rain and snowfall likely in parts of hilly and mountainous regions",
@@ -4943,29 +4948,6 @@
    "val": 3,
    "teaser": false,
    "hits": 2
-  },
-  {
-   "title": "ट्रकको ठक्करबाट मोटरसाइकल चालकको मृत्यु, दुई घाइते",
-   "summary": "घोराही समाचारदाता घोराही, कात्तिक १६ गते । दाङमा ट्रक र मोटरसाइकल एक आपसमा ठक्कर खाँदा मोटरसाइकल चालकको मृत्यु भएको छ ।पूर्व-पश्चिम राजमार्गअन्तर्गत राप्ती गाउँपालिका-३ बाघढड्डीमा...",
-   "link": "https://gorkhapatraonline.com/news/228007",
-   "source": "Gorkhapatra",
-   "ts": 1793591393,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/389978/conversions/accident-original.jpg",
-   "lang": "ne",
-   "hl": "ट्रकको ठक्करबाट मोटरसाइकल चालकको मृत्यु, दुई घाइते",
-   "en": "ट्रकको ठक्करबाट मोटरसाइकल चालकको मृत्यु, दुई घाइते",
-   "ne": "ट्रकको ठक्करबाट मोटरसाइकल चालकको मृत्यु, दुई घाइते",
-   "imp": 4,
-   "tags": [
-    "Accident",
-    "Motorcycle",
-    "Nepal"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
   },
   {
    "title": "6 Indian tourists stranded in Dolpa snowfall rescued safely",
@@ -8729,10 +8711,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "politics"
+  },
+  {
+   "ts": 1793593256.350122,
+   "en": "दाङमा ट्रक र मोटरसाइकल ठोक्किँदा चालकको मृत्यु, दुई घाइते",
+   "ne": "दाङमा ट्रक र मोटरसाइकल ठोक्किँदा चालकको मृत्यु, दुई घाइते",
+   "link": "https://gorkhapatraonline.com/news/228007",
+   "source": "Gorkhapatra",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": true,
+   "cat": "disaster"
   }
  ],
- "updated": 1793592653,
- "pending_since": null,
+ "updated": 1793593274,
+ "pending_since": 1793593249.5185575,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
