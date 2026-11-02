@@ -1,10 +1,5 @@
 {
  "seen": {
-  "http://english.ratopati.com/story/85138/cyclone-arnab-and-the-effects-of-the-westerly-winds-continue-with-heavy-rain-likely-in-these-three-provinces-today": 1793407247.5552437,
-  "https://gorkhapatraonline.com/news/227757": 1793407247.5552437,
-  "https://risingnepaldaily.com/news/88244": 1793407845.4516785,
-  "http://lokaantar.com/story/332243/2026/10/31/bp-highway-": 1793407845.4516785,
-  "http://english.ratopati.com/story/85139/bp-highway-blocked-after-landslide-in-pinthali": 1793407845.4516785,
   "https://gorkhapatraonline.com/news/227761": 1793408476.9860263,
   "http://english.ratopati.com/story/85140/lumbini-and-chitwan-and-biratnagar-and-sudurpaschim-clash-risk-of-rain-in-both-matches": 1793408476.9860263,
   "https://risingnepaldaily.com/news/88245": 1793408476.9860263,
@@ -2256,29 +2251,6 @@
    ],
    "cat": "culture",
    "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "RSP divided over whether to impeach Supreme Court justices or initiate investigation first",
-   "summary": "Kathmandu, November 2 The ruling Rastriya Swatantra Party (RSP) is holding internal discussions on whether to move an impeachment motion against Supreme Court justices after questions were raised about their conduct....",
-   "link": "https://english.onlinekhabar.com/rsp-divided-impeach-supreme-court-justices.html",
-   "source": "Onlinekhabar EN",
-   "ts": 1793578500,
-   "weight": 3,
-   "img": "http://english.onlinekhabar.com/wp-content/uploads/2022/02/supreme-court-3-news-1024x624-1.jpg",
-   "lang": "en",
-   "hl": "RSP divided over whether to impeach Supreme Court justices or initiate investigation first",
-   "en": "RSP divided over whether to impeach Supreme Court justices or initiate investigation first",
-   "ne": "RSP divided over whether to impeach Supreme Court justices or initiate investigation first",
-   "imp": 4,
-   "tags": [
-    "RSP",
-    "SupremeCourt",
-    "Politics"
-   ],
-   "cat": "politics",
-   "val": 2,
    "teaser": false,
    "hits": 1
   },
@@ -5695,10 +5667,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "world"
+  },
+  {
+   "ts": 1793580652.500733,
+   "en": "RSP divided on impeaching Supreme Court justices over conduct",
+   "ne": "RSP divided on impeaching Supreme Court justices over conduct",
+   "link": "https://english.onlinekhabar.com/rsp-divided-impeach-supreme-court-justices.html",
+   "source": "Onlinekhabar EN",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "politics"
   }
  ],
- "updated": 1793580052,
- "pending_since": null,
+ "updated": 1793580667,
+ "pending_since": 1793580647.0701313,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
