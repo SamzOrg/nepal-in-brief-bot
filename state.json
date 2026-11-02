@@ -1782,7 +1782,8 @@
   "https://nagariknews.nagariknetwork.com/opinion/from-ruins-to-living-laboratory-br-84-94.html": 1793588492.631294,
   "https://gorkhapatraonline.com/news/227995": 1793588492.631294,
   "https://nagariknews.nagariknetwork.com/photo-feature/fog-seen-from-bhaktapur-in-the-morning-photo-feature-66-70.html": 1793588492.631294,
-  "https://gorkhapatraonline.com/news/227994": 1793588492.631294
+  "https://gorkhapatraonline.com/news/227994": 1793588492.631294,
+  "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZTQyb1lpaUthWXB6QVNSWlZxYXhHX2szLTlJXzVVRlk3WTJ4WEdjMVZwX210SWh4SDRHcnhJdmJjTHFDZElWSTU4N3ZDb2JINTJJVlhqdlpnU1cyWnFGNU8wMTZBWkZYeXhSdFcybGdrUy1LOGRpWHR3aC14Zm52dDl3MGIwNTNFRjRrZEpvdFFmQjdEYjVEVFlYS0pVLTQ4bzdGLXFKSFNnQkNoQ1ozR0t0MnJFSTc0dUlpT2JR?oc=5": 1793589047.517058
  },
  "queue": [
   {
@@ -4227,7 +4228,7 @@
    "cat": "world",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "घरजग्गामा बैंकको लगानी सुस्त, सवारी र सेयर धितोमा बढ्दो",
@@ -7574,8 +7575,8 @@
    "cat": "economy"
   }
  ],
- "updated": 1793588499,
- "pending_since": null,
+ "updated": 1793589051,
+ "pending_since": 1793589047.517058,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
