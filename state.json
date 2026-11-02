@@ -1,9 +1,5 @@
 {
  "seen": {
-  "https://gorkhapatraonline.com/news/227769": 1793411459.781478,
-  "https://english.khabarhub.com/2026/31/573809/": 1793411459.781478,
-  "https://baahrakhari.com/detail/506170": 1793411459.781478,
-  "https://kathmandupost.com/national/2026/10/31/five-day-fire-ritual-next-week-for-bhotekoshi-flood-dead-and-missing": 1793411459.781478,
   "http://lokaantar.com/story/332247/2026/10/31/accident-": 1793412077.0882201,
   "https://gorkhapatraonline.com/news/227772": 1793412077.0882201,
   "https://gorkhapatraonline.com/news/227771": 1793412077.0882201,
@@ -1772,33 +1768,31 @@
   "https://nagariknews.nagariknetwork.com/Bazar/foreign-currency-exchange-rates-set-for-today-88-21.html": 1793584056.085087,
   "https://gorkhapatraonline.com/news/227984": 1793584056.085087,
   "https://nagariknews.nagariknetwork.com/economy/budget-implementation-slow-capital-expenditure-only-6-83-percent-in-three-and-a-half-months-br-67-92.html": 1793584056.085087,
-  "https://gorkhapatraonline.com/news/227983": 1793584056.085087
+  "https://gorkhapatraonline.com/news/227983": 1793584056.085087,
+  "https://risingnepaldaily.com/news/88315": 1793584876.647729,
+  "https://www.setopati.com/politics/401790": 1793584876.647729,
+  "https://news.google.com/rss/articles/CBMi7AJBVV95cUxQTlRiZktRa3psdWc0WEEwOE1XYTFjZWpXZlczY0dtaDlwV0cwMWJRZlFlZjlpNGxZT1h1cDEwU3FUY1FlZl91MVgwSDV1R05Ccms3MDFuQ2dXc3dnUVBJbnJiZ1hUTmQxSExUSXQ5MldZRjFWUXJEd0todkhTak1LNzNzWHctSFpFeG5rRVdfSFdGTGlYWFNuQnM1NHVsbTNNbDlBS2huTVB1NUd5a0FVX1NVc3VYc0pNY3JpeXB0V0dZcFdUZEdWSnV3bW1fLVdCRlhfVkZjZ3c4Q2t3OEJmWkxnaDI0MmVReEhfc3pNcWpTT1JMMjlnbVZyTGliS3R5QmpJXzdIZVpmNzRIVTFZWEkwNUR5dUF1SEtsbEhQakxrcGxWVDFONHlnU18yeVBIRGFWVFFTUDhPWk5oVjJGYzE2RkpoWFVKbHgxS0ZDZXE0T1djVmh5ck93amNSamh5X25ZVDY4amFsR2Z2?oc=5": 1793584876.647729,
+  "https://gorkhapatraonline.com/news/227990": 1793584876.647729,
+  "https://news.google.com/rss/articles/CBMipgFBVV95cUxQREM5cmZka2RFNDhjaWhrbGU4bGJFQTZQcFNoSkIyMC12b0tQVjQ0ZWd3ZWJEOVdaUEFwQk9hY2wyZzIxX2RoY3AxLV9ES2Z0akd5VS16c1ZzNE1NNkNzZUlfdDczd09NOVd4M0lBazAzUFFhcmpHQmcwdVpuYmJuNUhWc19QbGVscTBBUVoyd3Z1SmhtMzBtT00wSzdMcUJZTHpjODBB?oc=5": 1793584876.647729,
+  "https://nagariknews.nagariknetwork.com/politics/mahavir-pun-s-question-where-and-from-whom-did-inam-sapkota-learn-cunning-knowledge-32-83.html": 1793584876.647729,
+  "http://english.ratopati.com/story/85390/why-did-bhuvan-kc-make-a-comeback-to-directing-after-10-years": 1793584876.647729,
+  "https://baahrakhari.com/detail/506321": 1793584876.647729,
+  "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRnJQdzRxSTBEREtnQk9nVllqR3h6R0xBTXdUempxYjRpd1VCLTNWWXhiTVo2QThNLUtDZnZPaEg2WGt5SGV3YnhxY18zUHJhT2o4RjI1Qlo1bmpzREo3OVZnVk45UzRyM0ZLd2ZrS0JCQnhveU0xaFpnVDFxYWFBaXp3ZDh4NjJWb1k2TjhEMUZrMEdvZ0NtdHdERXA4cFd5YXk4aE5ObkpxU0Q0LXl1M2gwLXhTd3hqd1k3WmIwSQ?oc=5": 1793584876.647729,
+  "https://theannapurnaexpress.com/story/68419": 1793584876.647729,
+  "https://kathmandupost.com/editorial/2026/11/02/the-government-should-stop-intimidating-journalists": 1793584876.647729,
+  "https://risingnepaldaily.com/news/88304": 1793584876.647729,
+  "https://www.setopati.com/kinmel/business/401789": 1793584876.647729,
+  "https://gorkhapatraonline.com/news/227989": 1793584876.647729,
+  "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYWk1QkxrdE9zRGlXaG5oSXZUNmhOdVZoU1NFWU9lZ01ocjhJMS0teUJyUU1fcFRuVEl5eTh3YUhyaTVOUDVsYnM4WWV1VkxTdTJwWko4RkpTd3ZCSVpBY0FteEEtRDdsdXQ3UlBFMEdNYUMtRDNtazN2anlYVkgwaWNfdDNRdmJQVzRrcWJjR08wN0c3dXRsTko4YkZQeVNqQUZz?oc=5": 1793584876.647729,
+  "https://nagariknews.nagariknetwork.com/social-affairs/collection-and-assessment-of-damage-details-in-disaster-affected-water-bodies-in-final-stages-br-15-69.html": 1793584876.647729,
+  "http://english.ratopati.com/story/85389/11-personalities-awarded-professional-achievement-awards-in-canada": 1793584876.647729,
+  "https://kathmandupost.com/cricket/2026/11/02/sudurpaschim-royals-break-silence-on-saturday-night-delays-and-absence-from-post-match-conference": 1793584876.647729,
+  "https://gorkhapatraonline.com/news/227982": 1793584876.647729,
+  "https://nagariknews.nagariknetwork.com/sports/the-promise-of-good-governance-is-opaque-governance-85-93.html": 1793584876.647729,
+  "https://kathmandupost.com/money/2026/11/02/jumla-s-prized-marsi-rice-is-in-demand-but-production-is-declining": 1793584876.647729,
+  "https://kathmandupost.com/cricket/2026/11/02/janakpur-register-second-win-in-three-games": 1793584876.647729
  },
  "queue": [
-  {
-   "title": "जाडो बढेसँगै 'भक्का' को व्यापार फस्टाउँदै",
-   "summary": "झापा, कात्तिक १५ गते । चिसो मौसम सुरु भएसँगै झापा, मोरङ, सुनसरीलगायत पूर्वी तराईका जिल्लामा रैथाने खाजा 'भक्का' को व्यापार फस्टाउन थालेको छ । राजवंशी भाषामा 'भक्का' भनिने आदिवासी स...",
-   "link": "https://gorkhapatraonline.com/news/227963",
-   "source": "Gorkhapatra",
-   "ts": 1793555966,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/389927/conversions/bhakka-byapari-original.jpg",
-   "lang": "ne",
-   "hl": "जाडो बढेसँगै 'भक्का' को व्यापार फस्टाउँदै",
-   "en": "जाडो बढेसँगै 'भक्का' को व्यापार फस्टाउँदै",
-   "ne": "जाडो बढेसँगै 'भक्का' को व्यापार फस्टाउँदै",
-   "imp": 2,
-   "tags": [
-    "Bhakka",
-    "Winter",
-    "StreetFood",
-    "भक्का"
-   ],
-   "cat": "culture",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
   {
    "title": "कालीगण्डकी बाढीको भएन अध्ययन",
    "summary": "ठाकुरप्रसाद आचार्य म्याग्दी, कात्तिक १५ गते । गत असोज दोस्रो साता कालीगण्डकी नदीमा आएको विनासकारी बाढीले म्याग्दी, पर्वत, बागलुङ र स्याङ्जाका विभिन्न क्षेत्रमा अरबौँ रुपियाँ बराबरक...",
@@ -3092,7 +3086,7 @@
    "cat": "world",
    "val": 1,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Nationwide micronutrients survey to be carried out next month",
@@ -3115,7 +3109,7 @@
    "cat": "health",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "आजको राशिफल",
@@ -3251,7 +3245,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "गुरुङ मिसेस नेपाल वर्ल्ड",
@@ -3344,20 +3338,397 @@
    "val": 3,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "On van Gogh's 'Starry Night'",
+   "summary": "Scientists doubling as art detectives have traced Vincent van Gogh's \"The Starry Night\" to a celestial scene that sugges...",
+   "link": "https://risingnepaldaily.com/news/88315",
+   "source": "Rising Nepal",
+   "ts": 1793584714,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "On van Gogh's 'Starry Night'",
+   "en": "On van Gogh's 'Starry Night'",
+   "ne": "On van Gogh's 'Starry Night'",
+   "imp": 1,
+   "tags": [
+    "VanGogh",
+    "StarryNight",
+    "Art"
+   ],
+   "cat": "culture",
+   "val": 1,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "कांग्रेस संसदीय दलको बैठक बस्दै",
+   "summary": "प्रमुख प्रतिपक्षी नेपाली कांग्रेसले संसदीय दल बैठक आज बस्दैछ।",
+   "link": "https://www.setopati.com/politics/401790",
+   "source": "Setopati",
+   "ts": 1793584689,
+   "weight": 3,
+   "img": null,
+   "lang": "ne",
+   "hl": "कांग्रेस संसदीय दलको बैठक बस्दै",
+   "en": "कांग्रेस संसदीय दलको बैठक बस्दै",
+   "ne": "कांग्रेस संसदीय दलको बैठक बस्दै",
+   "imp": 3,
+   "tags": [
+    "Congress",
+    "ParliamentaryMeeting",
+    "कांग्रेस"
+   ],
+   "cat": "politics",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "[S.E.X 18+ videos]Hansika Motwani Viral Video Nepal X.X.X videos",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxQTlRiZktRa3psdWc0WEEwOE1XYTFjZWpXZlczY0dtaDlwV0cwMWJRZlFlZjlpNGxZT1h1cDEwU3FUY1FlZl91MVgwSDV1R05Ccms3MDFuQ2dXc3dnUVBJbnJiZ1hUTmQxSExUSXQ5MldZRjFWUXJEd0todkhTak1LNzNzWHctSFpFeG5rRVdfSFdGTGlYWFNuQnM1NHVsbTNNbDlBS2huTVB1NUd5a0FVX1NVc3VYc0pNY3JpeXB0V0dZcFdUZEdWSnV3bW1fLVdCRlhfVkZjZ3c4Q2t3OEJmWkxnaDI0MmVReEhfc3pNcWpTT1JMMjlnbVZyTGliS3R5QmpJXzdIZVpmNzRIVTFZWEkwNUR5dUF1SEtsbEhQakxrcGxWVDFONHlnU18yeVBIRGFWVFFTUDhPWk5oVjJGYzE2RkpoWFVKbHgxS0ZDZXE0T1djVmh5ck93amNSamh5X25ZVDY4amFsR2Z2?oc=5",
+   "source": "Pierce Manufacturing",
+   "ts": 1793584657,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "[S.E.X 18+ videos]Hansika Motwani Viral Video Nepal X.X.X videos",
+   "en": "[S.E.X 18+ videos]Hansika Motwani Viral Video Nepal X.X.X videos",
+   "ne": "[S.E.X 18+ videos]Hansika Motwani Viral Video Nepal X.X.X videos",
+   "imp": 1,
+   "tags": [
+    "Spam",
+    "CyberSecurity"
+   ],
+   "cat": "crime",
+   "val": 1,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "बौद्धिक पलायनको प्रभाव",
+   "summary": "नेपाली समाज बौद्धिक पलायनको विषयलाई लिएर निकै चिन्तित हुन थालेको छ । जीवनको झन्डै पच्चिस वर्ष खर्चेर शिक्षित र दीक्षित बनेको सबल र दक्ष जनशक्ति रोजगारी र सुन्दर भविष्यका लागि भन्दै...",
+   "link": "https://gorkhapatraonline.com/news/227990",
+   "source": "Gorkhapatra",
+   "ts": 1793584604,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/389959/conversions/234-original.jpg",
+   "lang": "ne",
+   "hl": "बौद्धिक पलायनको प्रभाव",
+   "en": "बौद्धिक पलायनको प्रभाव",
+   "ne": "बौद्धिक पलायनको प्रभाव",
+   "imp": 2,
+   "tags": [
+    "BrainDrain",
+    "बौद्धिकपलायन"
+   ],
+   "cat": "society",
+   "val": 1,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "महावीर पुनको प्रश्न : इनम सापकोटाले 'धूर्त विद्या' कहाँ र कसबाट सिकेका हुन् ?",
+   "summary": "पुनले भगवानले सापकोटालाई सुन्दर अनुहार र जीउडाल दिए पनि ठग बुद्धि किन दिएको होला भन्दै व्यंग्य गरेका छन्।...",
+   "link": "https://nagariknews.nagariknetwork.com/politics/mahavir-pun-s-question-where-and-from-whom-did-inam-sapkota-learn-cunning-knowledge-32-83.html",
+   "source": "Nagarik News",
+   "ts": 1793584527,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2025/third-party/1774517786_mahabir.jpg",
+   "lang": "ne",
+   "hl": "महावीर पुनको प्रश्न : इनम सापकोटाले 'धूर्त विद्या' कहाँ र कसबाट सिकेका हुन् ?",
+   "en": "महावीर पुनको प्रश्न : इनम सापकोटाले 'धूर्त विद्या' कहाँ र कसबाट सिकेका हुन् ?",
+   "ne": "महावीर पुनको प्रश्न : इनम सापकोटाले 'धूर्त विद्या' कहाँ र कसबाट सिकेका हुन् ?",
+   "imp": 2,
+   "tags": [
+    "MahabirPun",
+    "महावीरपुन"
+   ],
+   "cat": "society",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Bhuwan KC Returns to Direction After a Decade with 'Batulo Jun'",
+   "summary": "Kathmandu. Actor, producer, and director of the Nepali film industry, Bhuwan KC, has returned to direction after a decade. KC,...",
+   "link": "http://english.ratopati.com/story/85390/why-did-bhuvan-kc-make-a-comeback-to-directing-after-10-years",
+   "source": "Ratopati EN",
+   "ts": 1793584430,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/bhuwan-kc_vd1IaGjxG0.jpg",
+   "lang": "en",
+   "hl": "Bhuwan KC Returns to Direction After a Decade with 'Batulo Jun'",
+   "en": "Bhuwan KC Returns to Direction After a Decade with 'Batulo Jun'",
+   "ne": "Bhuwan KC Returns to Direction After a Decade with 'Batulo Jun'",
+   "imp": 2,
+   "tags": [
+    "BhuwanKC",
+    "BatuloJun",
+    "NepaliCinema"
+   ],
+   "cat": "culture",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "मलेखु-मुग्लिङ सडकखण्ड आज चार घण्टा बन्द हुने",
+   "summary": "",
+   "link": "https://baahrakhari.com/detail/506321",
+   "source": "Baahrakhari",
+   "ts": 1793584406,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "मलेखु-मुग्लिङ सडकखण्ड आज चार घण्टा बन्द हुने",
+   "en": "मलेखु-मुग्लिङ सडकखण्ड आज चार घण्टा बन्द हुने",
+   "ne": "मलेखु-मुग्लिङ सडकखण्ड आज चार घण्टा बन्द हुने",
+   "imp": 4,
+   "tags": [
+    "MalekhuMugling",
+    "Highway",
+    "मलेखुमुग्लिङ"
+   ],
+   "cat": "society",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Sardar Patel's Vision and the Enduring Bonds Between India and Nepal",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRnJQdzRxSTBEREtnQk9nVllqR3h6R0xBTXdUempxYjRpd1VCLTNWWXhiTVo2QThNLUtDZnZPaEg2WGt5SGV3YnhxY18zUHJhT2o4RjI1Qlo1bmpzREo3OVZnVk45UzRyM0ZLd2ZrS0JCQnhveU0xaFpnVDFxYWFBaXp3ZDh4NjJWb1k2TjhEMUZrMEdvZ0NtdHdERXA4cFd5YXk4aE5ObkpxU0Q0LXl1M2gwLXhTd3hqd1k3WmIwSQ?oc=5",
+   "source": "myRepublica",
+   "ts": 1793579825,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "Sardar Patel's Vision and the Enduring Bonds Between India and Nepal",
+   "en": "Sardar Patel's Vision and the Enduring Bonds Between India and Nepal",
+   "ne": "Sardar Patel's Vision and the Enduring Bonds Between India and Nepal",
+   "imp": 2,
+   "tags": [
+    "IndiaNepal",
+    "SardarPatel",
+    "Diplomacy"
+   ],
+   "cat": "world",
+   "val": 1,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "The government should stop intimidating journalists",
+   "summary": "Raids on newsrooms and arrests of reporters have no place in a democracy that guarantees press freedom.",
+   "link": "https://kathmandupost.com/editorial/2026/11/02/the-government-should-stop-intimidating-journalists",
+   "source": "Kathmandu Post",
+   "ts": 1793570477.8622797,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "The government should stop intimidating journalists",
+   "en": "The government should stop intimidating journalists",
+   "ne": "The government should stop intimidating journalists",
+   "imp": 3,
+   "tags": [
+    "PressFreedom",
+    "Journalism",
+    "Media"
+   ],
+   "cat": "society",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "वैदेशिक रोजगारीबाट फर्किएर च्याउखेतीमा लागेका रोशन",
+   "summary": "वैदेशिक रोजगारीबाट फर्किएर व्यावसायिक च्याउखेती सुरू गरेका बराहक्षेत्र नगरपालिका-११ मधुवनका रोशनप्रसाद गुप्ताले राम्रो आम्दानी गर्दै आएका छन्।",
+   "link": "https://www.setopati.com/kinmel/business/401789",
+   "source": "Setopati",
+   "ts": 1793584091,
+   "weight": 3,
+   "img": null,
+   "lang": "ne",
+   "hl": "वैदेशिक रोजगारीबाट फर्किएर च्याउखेतीमा लागेका रोशन",
+   "en": "वैदेशिक रोजगारीबाट फर्किएर च्याउखेतीमा लागेका रोशन",
+   "ne": "वैदेशिक रोजगारीबाट फर्किएर च्याउखेतीमा लागेका रोशन",
+   "imp": 2,
+   "tags": [
+    "Agriculture",
+    "MushroomFarming",
+    "वैदेशिकरोजगार"
+   ],
+   "cat": "economy",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "मधेशमा बाक्लो हुस्सु र शीतलहर, जनजीवन प्रभावित",
+   "summary": "धीरेन्द्रप्रसाद साहराजविराज, कात्तिक १६ गते । मधेश प्रदेशमा सोमबार बिहानैदेखि बाक्लो हुस्सु र शीतलहर चलेपछि जनजीवन प्रभावित भएको छ । बिहानैदेखि लागेको बाक्लो हुस्सुका कारण सडक, खेत...",
+   "link": "https://gorkhapatraonline.com/news/227989",
+   "source": "Gorkhapatra",
+   "ts": 1793584284,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/389958/conversions/1000345102-(1)-original.jpg",
+   "lang": "ne",
+   "hl": "मधेशमा बाक्लो हुस्सु र शीतलहर, जनजीवन प्रभावित",
+   "en": "मधेशमा बाक्लो हुस्सु र शीतलहर, जनजीवन प्रभावित",
+   "ne": "मधेशमा बाक्लो हुस्सु र शीतलहर, जनजीवन प्रभावित",
+   "imp": 3,
+   "tags": [
+    "Madhesh",
+    "ColdWave",
+    "शीतलहर"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "विपद् प्रभावित जलजलामा क्षतिको विवरण सङ्कलन र मूल्याङ्कन अन्तिम चरणमा",
+   "summary": "मनसुनजन्य विपदबाट प्रभावित बनेको म्याग्दीको सदरमुकाम बेनी बजारसँगै रहेको पर्वतको जलजला गाउँपालिकामा क्षतिको विवरण सङ्कलन र मूल्याङ्कन कार्य अन्तिम चरणमा पुगेको छ।...",
+   "link": "https://nagariknews.nagariknetwork.com/social-affairs/collection-and-assessment-of-damage-details-in-disaster-affected-water-bodies-in-final-stages-br-15-69.html",
+   "source": "Nagarik News",
+   "ts": 1793583890,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2025/third-party/1793583877_jaljala.jpg",
+   "lang": "ne",
+   "hl": "विपद् प्रभावित जलजलामा क्षतिको विवरण सङ्कलन र मूल्याङ्कन अन्तिम चरणमा",
+   "en": "विपद् प्रभावित जलजलामा क्षतिको विवरण सङ्कलन र मूल्याङ्कन अन्तिम चरणमा",
+   "ne": "विपद् प्रभावित जलजलामा क्षतिको विवरण सङ्कलन र मूल्याङ्कन अन्तिम चरणमा",
+   "imp": 3,
+   "tags": [
+    "Jaljala",
+    "Disaster",
+    "जलजला"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Eleven Individuals Honored with Professional Achievement Award Canada 2026 in Mississauga",
+   "summary": "Mississauga. Nepali and international personalities who have made significant contributions in various professions, businesses, and social sectors in Canada have...",
+   "link": "http://english.ratopati.com/story/85389/11-personalities-awarded-professional-achievement-awards-in-canada",
+   "source": "Ratopati EN",
+   "ts": 1793584040,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/por_ktm_rss_16_aj9a7553_MAkb4h1vKx.webp",
+   "lang": "en",
+   "hl": "Eleven Individuals Honored with Professional Achievement Award Canada 2026 in Mississauga",
+   "en": "Eleven Individuals Honored with Professional Achievement Award Canada 2026 in Mississauga",
+   "ne": "Eleven Individuals Honored with Professional Achievement Award Canada 2026 in Mississauga",
+   "imp": 1,
+   "tags": [
+    "Canada",
+    "Award",
+    "NonResidentNepali"
+   ],
+   "cat": "society",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Sudurpaschim Royals break silence on Saturday night delays and absence from post-match conference",
+   "summary": "Head coach Misbah-ul-Haq clarifies his squad's stance following an hour-long administrative delay that culminated in a 35-run defeat to Biratnagar Kings.",
+   "link": "https://kathmandupost.com/cricket/2026/11/02/sudurpaschim-royals-break-silence-on-saturday-night-delays-and-absence-from-post-match-conference",
+   "source": "Kathmandu Post",
+   "ts": 1793570477.8622797,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "Sudurpaschim Royals break silence on Saturday night delays and absence from post-match conference",
+   "en": "Sudurpaschim Royals break silence on Saturday night delays and absence from post-match conference",
+   "ne": "Sudurpaschim Royals break silence on Saturday night delays and absence from post-match conference",
+   "imp": 3,
+   "tags": [
+    "NPL",
+    "SudurpaschimRoyals",
+    "Cricket"
+   ],
+   "cat": "sports",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "चार वर्षपछि वीरगन्जको भन्सार लक्ष्य पूरा",
+   "summary": "दीपक गौतम वीरगन्ज (पर्सा), कात्तिक १६ गते । मुलुककै प्रमुख नाका वीरगन्ज भन्सार कार्यालयले करिब चार वर्षपछि राजस्व सङ्कलनको लक्ष्य पूरा गरेको छ । भन्सार कार्यालयले चालु आर्थिक वर्ष...",
+   "link": "https://gorkhapatraonline.com/news/227982",
+   "source": "Gorkhapatra",
+   "ts": 1793582605,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/389948/conversions/birgunj-bhansar-original.jpg",
+   "lang": "ne",
+   "hl": "चार वर्षपछि वीरगन्जको भन्सार लक्ष्य पूरा",
+   "en": "चार वर्षपछि वीरगन्जको भन्सार लक्ष्य पूरा",
+   "ne": "चार वर्षपछि वीरगन्जको भन्सार लक्ष्य पूरा",
+   "imp": 3,
+   "tags": [
+    "Birgunj",
+    "Customs",
+    "भन्सार"
+   ],
+   "cat": "economy",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "बाघ भैरव टिम च्याम्पियन",
+   "summary": "बाघ भैरव दोस्रो वडा अध्यक्ष कप खुला कराते प्रतियोगितामा आइतबार टिम च्याम्पियन बनेको छ।",
+   "link": "https://nagariknews.nagariknetwork.com/sports/the-promise-of-good-governance-is-opaque-governance-85-93.html",
+   "source": "Nagarik News",
+   "ts": 1793579048,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2024/third-party/1793583453_khel.jpg",
+   "lang": "ne",
+   "hl": "बाघ भैरव टिम च्याम्पियन",
+   "en": "बाघ भैरव टिम च्याम्पियन",
+   "ne": "बाघ भैरव टिम च्याम्पियन",
+   "imp": 2,
+   "tags": [
+    "BaghBhairav",
+    "Tournament",
+    "टिमच्याम्पियन"
+   ],
+   "cat": "sports",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Jumla's prized Marsi rice is in demand, but production is declining",
+   "summary": "From village kitchens to urban hotels and international markets, demand for the indigenous rice is rising, but pest outbreaks and rising cultivation costs are adding to farmers' woes.",
+   "link": "https://kathmandupost.com/money/2026/11/02/jumla-s-prized-marsi-rice-is-in-demand-but-production-is-declining",
+   "source": "Kathmandu Post",
+   "ts": 1793570477.8622797,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "Jumla's prized Marsi rice is in demand, but production is declining",
+   "en": "Jumla's prized Marsi rice is in demand, but production is declining",
+   "ne": "Jumla's prized Marsi rice is in demand, but production is declining",
+   "imp": 2,
+   "tags": [
+    "Jumla",
+    "MarsiRice",
+    "Agriculture"
+   ],
+   "cat": "economy",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1792979463.4123874,
-   "en": "Nepal Plans $50M Project to Reduce Glacial Lake Risks and Warnings",
-   "ne": "Nepal Plans $50M Project to Reduce Glacial Lake Risks and Warnings",
-   "link": "https://www.nationpathindia.com/environment/nepal-50-million-flood-warning-glacial-lake-project",
-   "source": "www.nationpathindia.com",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "disaster"
-  },
   {
    "ts": 1792981254.093575,
    "en": "Nepal adds 418 seats at public medical colleges for next academic year",
@@ -6472,8 +6843,8 @@
    "cat": "sports"
   }
  ],
- "updated": 1793584266,
- "pending_since": 1793584056.085087,
+ "updated": 1793584883,
+ "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
