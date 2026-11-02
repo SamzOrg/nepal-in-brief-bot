@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTDNRb1NsTFQ0RF80OE9meHlidlBIMTBIQktjaklMZnI3UFZZcnVaZ1Q2SWVkMEE1VUlWVmJVTXdfTm00LU55N29FdVRKX2k2UVNHdzJvam93el9TQTdEM0F2Y3NrbDhGUUMzSU1kdUlPMDZSejQ2dFJBX25XYnY1LWZhQTBFSy1lbWdvbW9fMFNZUnBLTDhKVGFnZGk0RmVJSy0wWUw1TFdXb0g1ZTRONUQ4ZzlSakJJQVFOcC1CT1RMTUx4dUt2ZmxZRllKbTNsa0FhaXU0ZXhqX3VMUWxDbmdPdw?oc=5": 1793430647.4643924,
   "https://nagariknews.nagariknetwork.com/politics/bishwa-prakash-s-question-on-the-journalist-s-arrest-case-who-directed-it-who-will-take-responsibility-73-98.html": 1793431248.9715633,
   "http://english.ratopati.com/story/85192/police-interference-in-the-media-is-a-blatant-abuse-of-state-power-bhishmaraj-angdembe": 1793431248.9715633,
   "https://www.setopati.com/politics/401680": 1793431248.9715633,
@@ -1863,7 +1862,13 @@
   "https://www.setopati.com/global/america/401808": 1793602881.6994824,
   "https://nagariknews.nagariknetwork.com/sports/npl-kathmandu-bowling-against-karnali-david-warner-making-his-debut-br-19-64.html": 1793602881.6994824,
   "https://www.setopati.com/politics/401802": 1793602881.6994824,
-  "https://nagariknews.nagariknetwork.com/arts/a-poem-echoes-in-the-poetic-garden-34-47.html": 1793602881.6994824
+  "https://nagariknews.nagariknetwork.com/arts/a-poem-echoes-in-the-poetic-garden-34-47.html": 1793602881.6994824,
+  "http://english.ratopati.com/story/85413/lp-gas-industry-merger-process-moves-forward": 1793603460.791931,
+  "https://gorkhapatraonline.com/news/228033": 1793603460.791931,
+  "https://www.setopati.com/politics/401813": 1793603460.791931,
+  "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcHdkRVZwdlQ1YTZaMHh0Wm9qaC1vUEdGSzJ6VElJdGIwSzdLd2ZQUjA0U0VqVkU2VWxnU25OcUxZMHFHendzZ25tVGJ4V0JGTlktQW9tN21aSG1aM2hHN0doN25iOUdpeEs5aF8yZWVkb3JmMF9yanpUaTNvc3dLUUlOU1F5bGQyNHJfSFFOZk1kRnQwOFRKYzZtamlLbUFta01IeGFSUTR4LXNVTHEwVTYyamNpWDN0eE5Gb3Fkcw?oc=5": 1793603460.791931,
+  "https://theannapurnaexpress.com/story/68438": 1793603460.791931,
+  "https://theannapurnaexpress.com/story/68437": 1793603460.791931
  },
  "queue": [
   {
@@ -3476,7 +3481,7 @@
    "cat": "economy",
    "val": 2,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "मैवाखोलाका छ योजनामा निर्माण व्यवसायी छनोट",
@@ -3903,29 +3908,6 @@
    "hits": 2
   },
   {
-   "title": "घरजग्गामा बैंकको लगानी सुस्त, सवारी र सेयर धितोमा बढ्दो",
-   "summary": "बैंकहरूको घरजग्गामा कर्जाको लगानी घट्दै गइरहेको छ भने हायर पर्चेज, सेयर धितो र व्यक्तिगत आवासीय कर्जाको लगानी बढ्दै गइरहेको छ । गत आर्थिक वर्षको तुलनामा चालु आर्थिक वर्षमा बैंक तथा वित्तीय संस्थाले घरजग्गा कर्जाको लगानी...",
-   "link": "http://lokaantar.com/story/332374/2026/11/2/bank-real-estate",
-   "source": "Lokaantar",
-   "ts": 1793574093.366087,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "घरजग्गामा बैंकको लगानी सुस्त, सवारी र सेयर धितोमा बढ्दो",
-   "en": "घरजग्गामा बैंकको लगानी सुस्त, सवारी र सेयर धितोमा बढ्दो",
-   "ne": "घरजग्गामा बैंकको लगानी सुस्त, सवारी र सेयर धितोमा बढ्दो",
-   "imp": 3,
-   "tags": [
-    "RealEstate",
-    "Banking",
-    "ShareMarket"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Right Or Wrong, Rightists Gain",
    "summary": "China's effective resilience, Russia's strategic silence, North Korea's longstanding obstinacy and Iranian insistence on...",
    "link": "https://risingnepaldaily.com/news/88317",
@@ -3991,30 +3973,7 @@
    "cat": "crime",
    "val": 3,
    "teaser": false,
-   "hits": 4
-  },
-  {
-   "title": "प्रधानमन्त्री बालेनको चेतावनीदेखि महाअभियोगको बाटोमा रास्वपासम्म",
-   "summary": "'लोकान्तर राउण्ड अप'मा पाठकवृन्दलाई स्वागत छ । सधैँझैँ आज पनि हामी बितेको २४ घण्टाका मुख्यमुख्य घटनाक्रमसहित उपस्थित भएका छौँ-सर्वोच्च अदालतले औषधीय, वैज्ञानिक, कृषि तथा औद्योगिक प्रयोजनका लागि गाँजाको नियन्त्रित...",
-   "link": "http://lokaantar.com/story/332373/2026/11/2/round-up-",
-   "source": "Lokaantar",
-   "ts": 1793574093.366087,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "प्रधानमन्त्री बालेनको चेतावनीदेखि महाअभियोगको बाटोमा रास्वपासम्म",
-   "en": "प्रधानमन्त्री बालेनको चेतावनीदेखि महाअभियोगको बाटोमा रास्वपासम्म",
-   "ne": "प्रधानमन्त्री बालेनको चेतावनीदेखि महाअभियोगको बाटोमा रास्वपासम्म",
-   "imp": 4,
-   "tags": [
-    "BalendraShah",
-    "RSP",
-    "Politics"
-   ],
-   "cat": "politics",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
+   "hits": 5
   },
   {
    "title": "संरक्षणको पर्खाइमा खरले छाएका गोलो घर",
@@ -6911,7 +6870,7 @@
    "cat": "economy",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Six Provincial Finance Ministers Convene in Birendranagar",
@@ -6979,7 +6938,7 @@
    "cat": "tech",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "२८० किमि प्रतिघण्टा, ८ कोच र ५५७ यात्रु : भारतको पहिलो बुलेट ट्रेनमा के-के छन् सुविधा ?",
@@ -10291,8 +10250,8 @@
    "cat": "economy"
   }
  ],
- "updated": 1793602901,
- "pending_since": null,
+ "updated": 1793603463,
+ "pending_since": 1793603460.791931,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
