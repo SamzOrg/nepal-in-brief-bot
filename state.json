@@ -1,8 +1,5 @@
 {
  "seen": {
-  "https://gorkhapatraonline.com/news/227802": 1793422877.6227262,
-  "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBvWmotMnRKMTNQUGRoZmVfOXoyOTRDOS1CZzdnd2ZTZUg0Z0pJU1p3YXNyRXphelNhVlBKREFWRVZCRE5qTkxyeDdkeUVQaWdn?oc=5": 1793422877.6227262,
-  "https://news.google.com/rss/articles/CBMirgFBVV95cUxPX1RrWERCcmVsMndLV0JMeHZPclBpdm11bGJKczVGT0dTMEdQTVJoU2xZUWpjMVNybUMxSVF1WTEzZ1QwRFFiVmtydjRGTmZfa3FXSlRzcFdqY01nV214cE9hdWF6SUFkRGdKRTAtTDUxYl9SMUx6N3B5RkdwU3lNRWh0My01cmxDZzVta25oZGZ5b1hwT1A3eUZtNmM0OUVRc2VRYnZRZVVpOVJMdUE?oc=5": 1793422877.6227262,
   "https://baahrakhari.com/detail/506182": 1793423446.0924633,
   "https://baahrakhari.com/detail/506183": 1793424060.004698,
   "https://gorkhapatraonline.com/news/227790": 1793424060.004698,
@@ -1809,7 +1806,10 @@
   "https://nagariknews.nagariknetwork.com/politics/intensive-dialogue-is-underway-between-parties-regarding-the-formation-of-the-madhesh-provincial-government-prachanda-br-14-10.html": 1793595045.828255,
   "https://kathmandupost.com/politics/2026/11/02/rsp-weighs-impeachment-what-does-it-take-to-remove-a-supreme-court-justice-in-nepal": 1793595045.828255,
   "http://lokaantar.com/story/332380/2026/11/2/prachanda-": 1793595045.828255,
-  "https://theannapurnaexpress.com/story/68431": 1793595045.828255
+  "https://theannapurnaexpress.com/story/68431": 1793595045.828255,
+  "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPU09nRlh4Mkt6MTFkNjBUeFBwdm9Ed2ZxMnpibnRVQzY0UmVQWU5YMU5FT2NfdWFUMWR1SFY2WHNfVzE1bXZCc1JfSDBKQU42ZGxGcTVaQndlOW5ranNNUzNFa1E5ZGFHSVNYR0ZsYVhyUXYzZVAzaWVIMG5DU1Jxa3Z1Rk9Ea1hQbHB0eUFJZVJOMUdhQ0FWektuRjMwWFhtYzI2OFowZVZSS2pkZEtFNzN5YmVjQV9lbHFaak9RVXJkVkHSAcMBQVVfeXFMT1NPZ0ZYeDJLejExZDYwVHhQcHZvRHdmcTJ6Ym50VUM2NFJlUFlOWDFORU9jX3VhVDFkdUhWNlhzX1cxNW12QnNSX0gwSkFONmRsRnE1WkJ3ZTlua2pzTVMzRWtROWRhR0lTWEdGbGFYclF2M2VQM2llSDBuQ1NScWt2dUZPRGtYUGxwdHlBSWVSTjFHYUNBVnpLbkYzMFhYbWMyNjhaMGVWUktqZGRLRTczeWJlY0FfZWxxWmpPUVVyZFZB?oc=5": 1793595678.1935318,
+  "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSGQ4LUVJSDZna2plSTBTUjhWTzdHbFdBZUt4LVlOZ1pQcjIzbmRYMTRBMnJ0VW9GY01JQTU0QnpJMXZtLVU1Y3pXdXlfVWtveFVLbnZYSDF5R1o2MXd5bUlxRTU4d3VIWEg1TzNqVzlRU285dHc5bHlMcG5NbGR0NS03OW81bFRaV0dqeFdBaW5FNTJGdURwT1k4Q0RscFBmNWxhSExyalozTEFMNC1meHluRzJIa195N0ZXc1ZISHJrNUlQUG96NG9EbWtrNEE5TzNF0gHYAUFVX3lxTFA1VE5Gc2RDc24wN2xMWklHQVpJYU1JS0pLR2ZXdmpCeXRzUERkYllDMDFldWlVUXkzYjBCdWZydUV0aVFSbm1uMEFxOTRZU09KV1JxMGRZNUxVdi1tWnJ4N0lpcXRRRHAycEd5UWwyYWdGaWpzaVg1XzljclFQSmZKLThVc0E4LUVHeVduaURfblVURTNYUnZXUzV1c1RZZ2tZdFZndmk3Q1ZMTU5mTURJZ2NQUVlKUzRWX2doaWlNbGJLNm96eDJwc1VzcXh0R2JUWEdLd3Qtag?oc=5": 1793595678.1935318,
+  "https://nagariknews.nagariknetwork.com/social-affairs/six-indian-tourists-trapped-in-avalanche-rescued-after-two-days-86-70.html": 1793595678.1935318
  },
  "queue": [
   {
@@ -4924,7 +4924,7 @@
    "cat": "disaster",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 3
   },
   {
    "title": "इटहरीमा पहिलोपटक नेपथ्यको कन्सर्ट हुँदै",
@@ -5730,27 +5730,6 @@
    "hits": 1
   },
   {
-   "title": "UN chief 'saddened' by Nepal tragedy, offers help",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE90R0lsd3RlbDBWdG9oSWlUbXVSZklkWWQ2SnpTblhZcWtNSllzYnRFb1A3eHRsd0w4ZFdpUjg3TWhpenVlYVV2aXhKbjM5TVVpTFFVR1U1VDJKUzdWOVo4ekxVMjBYbGZob2wtWVJ2eVhaaGEtaklPMzhfRkM?oc=5",
-   "source": "DD News",
-   "ts": 1793589470,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "UN chief 'saddened' by Nepal tragedy, offers help",
-   "en": "UN chief 'saddened' by Nepal tragedy, offers help",
-   "ne": "UN chief 'saddened' by Nepal tragedy, offers help",
-   "imp": 4,
-   "tags": [
-    "NepalDisaster"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "धर्म परिवर्तन गराउन नेपालमा विदेशी नागरिक सक्रिय",
    "summary": "",
    "link": "https://baahrakhari.com/detail/506332",
@@ -5866,17 +5845,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1792990252.8722775,
-   "en": "Nepal Makes Significant Strides in Reducing Hunger, Global Hunger Index 2026 Report Shows",
-   "ne": "Nepal Makes Significant Strides in Reducing Hunger, Global Hunger Index 2026 Report Shows",
-   "link": "http://english.ratopati.com/story/84555/nepals-leap-against-hunger-ground-level-challenges-in-the-light-of-statistics",
-   "source": "Ratopati EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "society"
-  },
   {
    "ts": 1792992051.9451275,
    "en": "Judicial Council recommends four High Court judges for Supreme Court vacancies",
@@ -8989,9 +8957,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "economy"
+  },
+  {
+   "ts": 1793595683.7930486,
+   "en": "UN chief 'saddened' by Nepal tragedy, offers help",
+   "ne": "UN chief 'saddened' by Nepal tragedy, offers help",
+   "link": "https://ddnews.gov.in/en/un-chief-saddened-by-nepal-tragedy-offers-help/",
+   "source": "DD News",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "disaster"
   }
  ],
- "updated": 1793595050,
+ "updated": 1793595714,
  "pending_since": 1793595045.828255,
  "fb_blocks": [
   1790350880.4125228,
