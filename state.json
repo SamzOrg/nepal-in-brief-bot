@@ -1,10 +1,5 @@
 {
  "seen": {
-  "https://gorkhapatraonline.com/news/227823": 1793434846.7715013,
-  "https://risingnepaldaily.com/news/88263": 1793434846.7715013,
-  "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5McTlZcU1YbUJzcG1vY3BVSXRFYWRJbFpPTnFKcG9Ydmg3Y2JRUWpTV3Z2VlhjQnNXRy1LM3p2RXBrakNSSDZlNlMtU1lUek15aG5qRjI3ZEs?oc=5": 1793434846.7715013,
-  "https://english.khabarhub.com/2026/31/573846/": 1793434846.7715013,
-  "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZ3VHVU9DRE1wV21idl94SllDN3MtNnA4S1RqZ2pfQlZScXVUSFYyX2FQZ3doMUNzeDJINGJycno2RkxmQzZtQnpLaDJ5dVVraDZDbXJhMmJLNGU5NHIyX3ZTTVpLUWNpZGpONElwMGYtYXhjdnVULXBrMTFCczNuQUhuaU12U042NHVza0RDay1jSnh6VXJjWlR6R2xhY1VHcGRhZVpsQ0FBcUxodVlWOWV4RDhFNnp4SGNock9ZUFptZjV4QnZ3WXl3?oc=5": 1793434846.7715013,
   "https://www.setopati.com/ghumphir/ghumphir-experience/401485": 1793435461.0843139,
   "http://english.ratopati.com/story/85204/the-heaviest-rainfall-in-tasi-village-of-sankhuwasabha": 1793435461.0843139,
   "https://baahrakhari.com/detail/506193": 1793435461.0843139,
@@ -1894,53 +1889,11 @@
   "https://nagariknews.nagariknetwork.com/social-affairs/amnesty-urges-government-to-stop-forced-evictions-and-fulfill-housing-rights-64-35.html": 1793607054.4899573,
   "http://english.ratopati.com/story/85414/process-to-terminate-contract-with-shrestha-sakshim-jv-for-not-working-on-dailekh-section-of-mid-hill-highway-begins": 1793607054.4899573,
   "http://lokaantar.com/story/332394/2026/11/2/renu-sijapati-": 1793607054.4899573,
-  "https://nagariknews.nagariknetwork.com/arts/daya-dominates-the-box-office-56-52.html": 1793607054.4899573
+  "https://nagariknews.nagariknetwork.com/arts/daya-dominates-the-box-office-56-52.html": 1793607054.4899573,
+  "https://baahrakhari.com/detail/506359": 1793607669.469763,
+  "https://www.setopati.com/politics/401820": 1793607669.469763
  },
  "queue": [
-  {
-   "title": "Eight Killed in Gaza Strikes, Including Child",
-   "summary": "Gaza. Hospitals have reported that at least eight people, including a child, have died in the latest Israeli attack in...",
-   "link": "http://english.ratopati.com/story/85382/israeli-attacks-on-gaza-continue-a-year-after-ceasefire-eight-people-including-a-child-killed",
-   "source": "Ratopati EN",
-   "ts": 1793578484,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/gaja_2SoFcv122o.webp",
-   "lang": "en",
-   "hl": "Eight Killed in Gaza Strikes, Including Child",
-   "en": "Eight Killed in Gaza Strikes, Including Child",
-   "ne": "Eight Killed in Gaza Strikes, Including Child",
-   "imp": 1,
-   "tags": [
-    "Gaza",
-    "EightKilled"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "Nine Dead in Florida Commercial Jet Crash",
-   "summary": "Florida. Nine people on board a commercial jet plane died when it crashed in a residential area in Florida, America...",
-   "link": "http://english.ratopati.com/story/85381/commercial-jet-crashes-into-florida-road-killing-nine",
-   "source": "Ratopati EN",
-   "ts": 1793578324,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/ec791d00-d63f-11f1-be6d-936c6c4b_JikKUXNgc2.webp",
-   "lang": "en",
-   "hl": "Nine Dead in Florida Commercial Jet Crash",
-   "en": "Nine Dead in Florida Commercial Jet Crash",
-   "ne": "Nine Dead in Florida Commercial Jet Crash",
-   "imp": 1,
-   "tags": [
-    "Florida",
-    "AviationCrash"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 6
-  },
   {
    "title": "Kangana Ranaut Returns to Horror Genre with 'Scary Picture'",
    "summary": "Mumbai. Bharatiya Janata Party MP and actress Kangana Ranaut is preparing for a powerful comeback in films. While her film...",
@@ -2172,28 +2125,6 @@
    "hits": 2
   },
   {
-   "title": "Nationalism that performs, nationalism that delivers",
-   "summary": "Finance Minister Swarnim Wagle's recent remark in Delhi that \"the era of linking Nepali nationalism with anti-India sentiment is over\" has triggered a storm back home in Nepal. I wish he had refrained from making the...",
-   "link": "https://english.khabarhub.com/2026/02/573941/",
-   "source": "Khabarhub EN",
-   "ts": 1793578520,
-   "weight": 2,
-   "img": "https://english.khabarhub.com/wp-content/uploads/2026/11/Gopal-Thapa--e1793579191786-400x220.png",
-   "lang": "en",
-   "hl": "Nationalism that performs, nationalism that delivers",
-   "en": "Nationalism that performs, nationalism that delivers",
-   "ne": "Nationalism that performs, nationalism that delivers",
-   "imp": 2,
-   "tags": [
-    "Nationalism",
-    "Politics"
-   ],
-   "cat": "politics",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
-  },
-  {
    "title": "ऐनको प्रभावकारिता मापन गर्न संसदीय पहल",
    "summary": "काठमाडौँ, कात्तिक १६ गते । संसद्ले कानुन निर्माण गरेपछि त्यसको कार्यान्वयन प्रभावकारिताको मूल्याङ्कन गर्ने प्रक्रिया अघि बढ्ने भएको छ । राष्ट्रिय सभाको विधायन व्यवस्थापन समितिले छ...",
    "link": "https://gorkhapatraonline.com/news/227972",
@@ -2236,30 +2167,6 @@
    ],
    "cat": "education",
    "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "रेल सञ्जालप्रति चीन सकारात्मक",
-   "summary": "काठमाडौँ, कात्तिक १६ गते । केरुङ-काठमाडौँ अन्तरदेशीय रेलमार्ग निर्माण गर्न विस्तृत परियोजना प्रतिवेदन (डिपिआर) बनाउने विषयमा नेपाल र चीनबिच घनीभूत छलफल भएको छ । नेपाली टोली चीन गएर...",
-   "link": "https://gorkhapatraonline.com/news/227970",
-   "source": "Gorkhapatra",
-   "ts": 1793578399,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/389934/conversions/1-Kerung-Rel-original.jpg",
-   "lang": "ne",
-   "hl": "रेल सञ्जालप्रति चीन सकारात्मक",
-   "en": "रेल सञ्जालप्रति चीन सकारात्मक",
-   "ne": "रेल सञ्जालप्रति चीन सकारात्मक",
-   "imp": 3,
-   "tags": [
-    "NepalChina",
-    "Railway",
-    "Infrastructure",
-    "रेल"
-   ],
-   "cat": "world",
-   "val": 3,
    "teaser": false,
    "hits": 1
   },
@@ -3526,28 +3433,6 @@
    "cat": "world",
    "val": 3,
    "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Curbing Abuse in Public Procurement",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZEc2UE9kRVNGVm9OSVk4N2stZDI3MEhfZWlwNnBUMzJhQVBCYUhhTEMydFNjMVpZVGo3ZW9wLWNGLW13eG1jRkM0TWdxR09famRqSjVrMENZekZJX0tsTEdxRlVHYW9HdWRoMzY1dVRnNXFxdUNKajU3VXNsdWFnMFR6dlJMdmZrdjlTZC1pY0EtbTFUZkxkYUVn?oc=5",
-   "source": "myRepublica",
-   "ts": 1793578518,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Curbing Abuse in Public Procurement",
-   "en": "Curbing Abuse in Public Procurement",
-   "ne": "Curbing Abuse in Public Procurement",
-   "imp": 3,
-   "tags": [
-    "PublicProcurement",
-    "Government"
-   ],
-   "cat": "economy",
-   "val": 2,
-   "teaser": true,
    "hits": 1
   },
   {
@@ -6321,7 +6206,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "German State Secretary Kofler Concludes Four-Day Visit to Nepal",
@@ -7561,17 +7446,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1793002856.5653973,
-   "en": "डोम्स प्रणालीमा प्राविधिक समस्या, १० अर्बको ट्रेजरी बिल बोलकबोल रद्द",
-   "ne": "डोम्स प्रणालीमा प्राविधिक समस्या, १० अर्बको ट्रेजरी बिल बोलकबोल रद्द",
-   "link": "https://baahrakhari.com/detail/505704",
-   "source": "Baahrakhari",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "economy"
-  },
   {
    "ts": 1793004653.0342312,
    "en": "Vitamin A capsules to be given to 2.1 million children on Nov 4-5",
@@ -10686,7 +10560,7 @@
    "cat": "crime"
   }
  ],
- "updated": 1793607063,
+ "updated": 1793607674,
  "pending_since": 1793607054.4899573,
  "fb_blocks": [
   1790350880.4125228,
