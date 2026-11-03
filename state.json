@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcWZZSm90X0Y5b1BIM0N0U1hFSHAtRkxZQmw0WU41X0RmLWpNemozeEZsUWFTS2dlb2hRckdodkJFa0RPR1Z4dkxpMFBmeW1NTlNDdkVnZ2J5VGk4cmRYNENzU3VzR05JQXFNeXl1VXlOckxEcGVmQmx0WWhmTjY2cWlNR2ZRcEtRaXE0cnRQRjJqenlOc1QzVnYwZWVBV1VzYlE?oc=5": 1793551844.4052136,
   "https://www.setopati.com/politics/401781": 1793553644.8941948,
   "https://gorkhapatraonline.com/news/227965": 1793553644.8941948,
   "http://english.ratopati.com/story/85375/microbus-accident-in-ambukhaireni-11-people-including-driver-injured": 1793553644.8941948,
@@ -2314,7 +2313,8 @@
   "https://thehimalayantimes.com/nepal/police-seize-1-million-hidden-under-motorcycle-seat-in-rautahat": 1793724050.1548607,
   "https://kathmandupost.com/national/2026/11/03/dr-govinda-kc-refuses-to-end-hunger-strike-despite-government-appeal": 1793724050.1548607,
   "https://nagariknews.nagariknetwork.com/international/chief-minister-chaudhary-trolled-for-saying-crime-can-happen-in-bihar-but-there-is-no-crime-98-40.html": 1793724050.1548607,
-  "https://nagariknews.nagariknetwork.com/politics/we-will-provide-land-and-housing-to-squatters-if-we-come-to-power-hark-sampang-55-83.html": 1793724050.1548607
+  "https://nagariknews.nagariknetwork.com/politics/we-will-provide-land-and-housing-to-squatters-if-we-come-to-power-hark-sampang-55-83.html": 1793724050.1548607,
+  "https://baahrakhari.com/detail/506510": 1793724649.5952067
  },
  "queue": [
   {
@@ -2730,28 +2730,6 @@
    "val": 3,
    "teaser": false,
    "hits": 4
-  },
-  {
-   "title": "Three ambassador nominees drop out of appointment process",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSHdxdzladEU5Yms0bzZPOHBHX2lfUzNGbWFZYkloSnhyeHhJVUJCWDJBdnZickVoOEhzb3ZvY29WeXJ4eXllOU0zVmR0RkIyRXlxNTZjOGdKX0pFT0ZKa2Fsd0pYNmhXbXFTNF92OHFfUWRfcmlEVHJqbllXek1xLWR2dmZXNExnSzBEZFl1bHdwYldDT3Y2UkJuTGhzSFRkVkdFWFZ3b01wLXNvOUxIS204Y0w2Rjg?oc=5",
-   "source": "myRepublica",
-   "ts": 1793695539,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Three ambassador nominees drop out of appointment process",
-   "en": "Three ambassador nominees drop out of appointment process",
-   "ne": "Three ambassador nominees drop out of appointment process",
-   "imp": 3,
-   "tags": [
-    "Ambassador",
-    "NepalGovernment"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "नेप्से ६.६२ अंकले बढ्यो, खुम्चियो कारोबार",
@@ -3254,29 +3232,6 @@
     "Documentary"
    ],
    "cat": "culture",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "छोराको पढाई कमजोर भएको भन्दै बाबुद्वारा विद्यालयमै दुई राउन्ड हवाई फायर",
-   "summary": "आफ्नो बच्चाले सामान्य हिसाबसमेत गर्न नसकेको भन्दै एक अभिभावकले विद्यालयमा हंगामा गरेपछि विद्यार्थी र शिक्षकहरू त्रसित भएका छन्।...",
-   "link": "https://nagariknews.nagariknetwork.com/international/angry-father-fires-two-rounds-at-school-after-son-fails-to-do-math-95-69.html",
-   "source": "Nagarik News",
-   "ts": 1793695461,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1793694901_Father%20gun.jpg",
-   "lang": "ne",
-   "hl": "छोराको पढाई कमजोर भएको भन्दै बाबुद्वारा विद्यालयमै दुई राउन्ड हवाई फायर",
-   "en": "छोराको पढाई कमजोर भएको भन्दै बाबुद्वारा विद्यालयमै दुई राउन्ड हवाई फायर",
-   "ne": "छोराको पढाई कमजोर भएको भन्दै बाबुद्वारा विद्यालयमै दुई राउन्ड हवाई फायर",
-   "imp": 3,
-   "tags": [
-    "School",
-    "Firing",
-    "Crime"
-   ],
-   "cat": "crime",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -6609,6 +6564,29 @@
    "val": 3,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "पटाकाजन्य विस्फोटक पदार्थसहित भारतीय नागरिक पक्राउ",
+   "summary": "",
+   "link": "https://baahrakhari.com/detail/506510",
+   "source": "Baahrakhari",
+   "ts": 1793724509,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "पटाकाजन्य विस्फोटक पदार्थसहित भारतीय नागरिक पक्राउ",
+   "en": "पटाकाजन्य विस्फोटक पदार्थसहित भारतीय नागरिक पक्राउ",
+   "ne": "पटाकाजन्य विस्फोटक पदार्थसहित भारतीय नागरिक पक्राउ",
+   "imp": 2,
+   "tags": [
+    "Crime",
+    "India",
+    "भारतीय"
+   ],
+   "cat": "crime",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
@@ -9726,8 +9704,8 @@
    "cat": "sports"
   }
  ],
- "updated": 1793724057,
- "pending_since": null,
+ "updated": 1793724654,
+ "pending_since": 1793724649.5952067,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
