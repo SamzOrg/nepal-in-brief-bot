@@ -1,11 +1,5 @@
 {
  "seen": {
-  "https://gorkhapatraonline.com/news/227865": 1793494877.0690565,
-  "https://www.setopati.com/social/401723": 1793494877.0690565,
-  "https://kathmandupost.com/columns/2026/11/01/nepal-has-the-creativity-and-talent-to-build-its-own-industries-what-it-needs-is-government-support": 1793494877.0690565,
-  "https://kathmandupost.com/columns/2026/11/01/how-nepal-s-diverse-voices-are-shaping-political-awakening-and-responding-to-modern-challenges": 1793494877.0690565,
-  "http://lokaantar.com/story/332299/2026/11/1/sirsiya-river-": 1793494877.0690565,
-  "https://www.setopati.com/social/401724": 1793494877.0690565,
   "https://kathmandupost.com/climate-environment/2026/11/01/nepal-and-bhutan-propose-dedicated-cop31-agenda-on-1-5-c-warming-in-mountain-regions": 1793495444.005183,
   "https://risingnepaldaily.com/news/88273": 1793495444.005183,
   "https://nagariknews.nagariknetwork.com/social-affairs/one-dead-two-injured-in-disasters-across-the-country-66-38.html": 1793496045.2743785,
@@ -2023,7 +2017,13 @@
   "http://lokaantar.com/story/332445/2026/11/3/ajingar-": 1793666448.358008,
   "http://lokaantar.com/story/332442/2026/11/3/dollar-": 1793667048.2708976,
   "https://kathmandupost.com/columns/2026/11/03/nepal-s-remittance-boom-is-hiding-a-hiring-bust": 1793667048.2708976,
-  "https://baahrakhari.com/detail/506420": 1793667048.2708976
+  "https://baahrakhari.com/detail/506420": 1793667048.2708976,
+  "https://news.google.com/rss/articles/CBMitwFBVV95cUxONXlGVnY4eGVtZnZmSEJPdnZEbEZWV2d3TXBSVWRvSnhyQ2xuaXJlQ1FaNVJzaGg1dDNqVG5XX3I4VDRFOXp3SmkxemsyZ3hCd3RGRGljVXFzeENnWklJUmNjR09vU25ELUZHUUFjVVJ1R3ZVejcwT1BHcjNvS1kzREQ2OEtIaC04UlJlV196ZnNRTXNCelF6NW1ZSVAtcFVsWEJOZFo5aHNXc213cDhiX2g5XzB1a2M?oc=5": 1793667679.7132246,
+  "https://news.google.com/rss/articles/CBMisAFBVV95cUxORmNQUkhuY3ZLNUxpR0dRX3Q1aWZQeW45RW1ZMk13X3JhWlhWbEk5TkIzUC01MVNseENSNms0ZWtHdHRqQVY2NkJIN2NwVG9sdEZ3QnFmdGc1bUNiRXVUQ2U2NmN4akhlTm9WYXdVcEQzaFV6bVlzSnI3dExpbFJtYTRfZVdKTHR3cXo4ckcxR0VzNXJtOTJqUWdwRl8tMzZSdnpYd3FieXB6dFliQXkyNQ?oc=5": 1793667679.7132246,
+  "http://lokaantar.com/story/332454/2026/11/3/road-": 1793667679.7132246,
+  "http://lokaantar.com/story/332453/2026/11/3/russia-ukrain-": 1793667679.7132246,
+  "https://risingnepaldaily.com/news/88335": 1793667679.7132246,
+  "https://kathmandupost.com/cricket/2026/11/03/kathmandu-gorkhas-defeat-karnali-yaks-once-again": 1793667679.7132246
  },
  "queue": [
   {
@@ -2045,28 +2045,6 @@
     "MilitaryAction"
    ],
    "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "'Compassion has no borders': fundraiser raises £1,000 for Nepal",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZUhUdVZ5RlVmYkZJLU5xejItelpmd0lhN3pMNExKWkdBNS1sb0Q5U2FCWFh1SWZoeTJiU05uUnFRWTdOOWt1NnpMVnc2T0dFNFZQa3NucUpPaHBSUFlIVUNiWUQ2UzFmNjBrdlpEOUtxLXhBUVhiQm1uTElINTBZWlJaamRmRHRKYzBhX1huU0ljU2VvbHlmTkgwVXdQZw?oc=5",
-   "source": "Salisbury Journal",
-   "ts": 1793638800,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "'Compassion has no borders': fundraiser raises £1,000 for Nepal",
-   "en": "'Compassion has no borders': fundraiser raises £1,000 for Nepal",
-   "ne": "'Compassion has no borders': fundraiser raises £1,000 for Nepal",
-   "imp": 2,
-   "tags": [
-    "Fundraiser",
-    "Nepal"
-   ],
-   "cat": "society",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -2709,7 +2687,7 @@
    "cat": "education",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "गाँजा तस्करी रोक्न प्रहरी निगरानी",
@@ -2845,7 +2823,7 @@
    "cat": "economy",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "भैरहवा भन्सारले लक्ष्यभन्दा चार अर्ब बढी राजस्व उठायो",
@@ -3003,21 +2981,58 @@
    "cat": "world",
    "val": 3,
    "teaser": false,
+   "hits": 2
+  },
+  {
+   "title": "Kathmandu bag first win, Sudurpaschim secure second NPL victory",
+   "summary": "By A Staff Reporter, Kirtipur, Nov. 3: Despite a low-key debut from Australian star David Warner, Kathmandu Gorkhas secu...",
+   "link": "https://risingnepaldaily.com/news/88335",
+   "source": "Rising Nepal",
+   "ts": 1793667404,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "Kathmandu bag first win, Sudurpaschim secure second NPL victory",
+   "en": "Kathmandu bag first win, Sudurpaschim secure second NPL victory",
+   "ne": "Kathmandu bag first win, Sudurpaschim secure second NPL victory",
+   "imp": 4,
+   "tags": [
+    "NepalPremierLeague",
+    "Kathmandu",
+    "Sudurpaschim",
+    "क्रिकेट"
+   ],
+   "cat": "sports",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Kathmandu Gorkhas defeat Karnali Yaks, once again",
+   "summary": "Kathmandu have now beaten Karnali in all three NPL seasons, chasing down 181 with two balls to spare in their latest encounter.",
+   "link": "https://kathmandupost.com/cricket/2026/11/03/kathmandu-gorkhas-defeat-karnali-yaks-once-again",
+   "source": "Kathmandu Post",
+   "ts": 1793653280.7860997,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "Kathmandu Gorkhas defeat Karnali Yaks, once again",
+   "en": "Kathmandu Gorkhas defeat Karnali Yaks, once again",
+   "ne": "Kathmandu Gorkhas defeat Karnali Yaks, once again",
+   "imp": 4,
+   "tags": [
+    "NPL",
+    "KathmanduGorkhas",
+    "KarnaliYaks",
+    "क्रिकेट"
+   ],
+   "cat": "sports",
+   "val": 3,
+   "teaser": false,
    "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1793062260.1060016,
-   "en": "32,963 foreign tourists visit Annapurna region in Asoj",
-   "ne": "32,963 foreign tourists visit Annapurna region in Asoj",
-   "link": "https://english.khabarhub.com/2026/27/573283/",
-   "source": "Khabarhub EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "society"
-  },
   {
    "ts": 1793064055.600992,
    "en": "6 killed, 3 injured in Gulmi Scorpio jeep accident",
@@ -6132,7 +6147,7 @@
    "cat": "society"
   }
  ],
- "updated": 1793667071,
+ "updated": 1793667684,
  "pending_since": 1793666448.358008,
  "fb_blocks": [
   1790350880.4125228,
