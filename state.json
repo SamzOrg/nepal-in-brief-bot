@@ -2037,33 +2037,10 @@
   "https://nagariknews.nagariknetwork.com/Bazar/this-is-the-foreign-exchange-rate-for-today-28-94.html": 1793671846.5429356,
   "https://gorkhapatraonline.com/news/228106": 1793671846.5429356,
   "https://gorkhapatraonline.com/news/228105": 1793671846.5429356,
-  "https://gorkhapatraonline.com/news/228104": 1793671846.5429356
+  "https://gorkhapatraonline.com/news/228104": 1793671846.5429356,
+  "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10YVhITkVIbWIzRHcyc3V0dVZkZjR1eUk4dG1RYU1KTkctOUo5eGtVWFpwNjZicnRBREZqbm5VSnNnTnQ3ZUM1U0lMTW1oQlFubERaaThn?oc=5": 1793672035.9544437
  },
  "queue": [
-  {
-   "title": "काठमाडौंमा प्रहरीको स्वीप अपरेसन, एक सातामा ६४० जना पक्राउ",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/506415",
-   "source": "Baahrakhari",
-   "ts": 1793643151,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "काठमाडौंमा प्रहरीको स्वीप अपरेसन, एक सातामा ६४० जना पक्राउ",
-   "en": "काठमाडौंमा प्रहरीको स्वीप अपरेसन, एक सातामा ६४० जना पक्राउ",
-   "ne": "काठमाडौंमा प्रहरीको स्वीप अपरेसन, एक सातामा ६४० जना पक्राउ",
-   "imp": 3,
-   "tags": [
-    "Kathmandu",
-    "NepalPolice",
-    "SweepOperation",
-    "प्रहरी"
-   ],
-   "cat": "crime",
-   "val": 2,
-   "teaser": false,
-   "hits": 2
-  },
   {
    "title": "Basanta Khatiwada at LeukO 2026: The Barriers Between Leukemia Treatment and Cure in Nepal",
    "summary": "",
@@ -2132,28 +2109,6 @@
    "val": 3,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "Nepal Premier League Cricket: Two Matches Scheduled for Tuesday",
-   "summary": "Kathmandu. Two matches are being played on Tuesday in the third edition of the Nepal Premier League (NPL) cricket. In...",
-   "link": "http://english.ratopati.com/story/85492/biratnagar-and-janakpur-clash-for-prestige-pokhara-challenges-lumbini",
-   "source": "Ratopati EN",
-   "ts": 1793643218,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/npl_opGi5vjGIH.webp",
-   "lang": "en",
-   "hl": "Nepal Premier League Cricket: Two Matches Scheduled for Tuesday",
-   "en": "Nepal Premier League Cricket: Two Matches Scheduled for Tuesday",
-   "ne": "Nepal Premier League Cricket: Two Matches Scheduled for Tuesday",
-   "imp": 3,
-   "tags": [
-    "NepalPremierLeague",
-    "Cricket"
-   ],
-   "cat": "sports",
-   "val": 2,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "Uganda Begins Troop Withdrawal from Somalia",
@@ -2382,7 +2337,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "हिमाली आवाज स्थापित गर्ने अवसर",
@@ -7047,8 +7002,8 @@
    "cat": "disaster"
   }
  ],
- "updated": 1793671852,
- "pending_since": null,
+ "updated": 1793672040,
+ "pending_since": 1793672035.9544437,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
