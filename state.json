@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbG92a05jYlZnYVVHMHFabkk4OWhDa21Gc3hGUE1PY1B5VnpHV1gtdlhrdUVHbnI5UXc5dDh5OHhfLS1jWGNlWlgwaXRlNVBrUmRYNkxXd044a0tzWkRxdVlicXdiU0dlVVdtV1hGSFVMRWY3ZUhadlZ1aFZidm1qWkdpOE12dzVpb0pabXVfRnIteUk1M04wbE95ekZ2OUJrUVNMbHo5cUVrRUhUcmxGQVJGQnZlVk5FUUNmelpsZ0dERUJqVHNxNXlOZ21GTEdUVkE0WGp3eXg?oc=5": 1793496662.1089401,
   "https://english.khabarhub.com/2026/01/573904/": 1793497246.034758,
   "https://baahrakhari.com/detail/506232": 1793497246.034758,
   "https://www.setopati.com/politics/401725": 1793497246.034758,
@@ -2016,7 +2015,10 @@
   "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdUJMcEVybjQ0ZGpiUkY5Q0NlQ20zaGdDMzBmVlVsbFdfc2VLZDMxVlFuRFNxaUFJSmF4alhPMDl3WGxibTJ5ZnZTeG0zSmFYZ0N6MlVtUElaX1lvMnhVbzhZWVhXYXk1WEhJV284WFo2SGlnMnlfMGhxblZacUs4SFhGVlNBd0JoYUktN3htaUQ1c3hpNV9HOGxyS1lHZjJYWUQ4YUpLUGNiaVJIVVZKcmZwcEZqVWc?oc=5": 1793668849.831043,
   "https://nagariknews.nagariknetwork.com/social-affairs/case-filed-against-land-revenue-employee-76-10.html": 1793668849.831043,
   "https://nagariknews.nagariknetwork.com/politics/let-s-develop-butwal-as-an-economic-capital-general-secretary-pokharel-br-58-85.html": 1793668849.831043,
-  "https://kathmandupost.com/world/2026/11/03/cyclone-murasu-begins-making-landfall-on-india-s-eastern-coast": 1793668849.831043
+  "https://kathmandupost.com/world/2026/11/03/cyclone-murasu-begins-making-landfall-on-india-s-eastern-coast": 1793668849.831043,
+  "https://english.khabarhub.com/2026/03/574194/": 1793669463.2554152,
+  "https://nagariknews.nagariknetwork.com/politics/prime-minister-s-office-directs-to-immediately-proceed-with-the-contract-process-for-the-sunkoshi-marin-project-63-49.html": 1793669463.2554152,
+  "https://nagariknews.nagariknetwork.com/social-affairs/18-billion-in-prime-minister-s-relief-fund-370-million-released-for-flood-victims-260-million-spent-on-helicopter-flights-41-43.html": 1793669463.2554152
  },
  "queue": [
   {
@@ -2294,7 +2296,7 @@
    "cat": "world",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Scientific study of pangolins begins in Banke",
@@ -2813,7 +2815,7 @@
    "cat": "politics",
    "val": 1,
    "teaser": true,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "एनपिएलले बढायो आर्थिक गतिविधि",
@@ -3132,20 +3134,33 @@
    "val": 1,
    "teaser": true,
    "hits": 1
+  },
+  {
+   "title": "प्रधानमन्त्री उद्धार कोषमा १८ अर्ब : बाढीपीडितलाई ३७ करोड निकासा, हेलिकोप्टर उडानमा २६ करोड खर्च",
+   "summary": "कोषले एक अर्ब रुपैयाँ भोटेकोसी बाढीपीडितको उद्धार र राहतका लागि राष्ट्रिय विपद् जोखिम न्यूनीकरण तथा व्यवस्थापन प्राधिकरणलाई दिएको छ।...",
+   "link": "https://nagariknews.nagariknetwork.com/social-affairs/18-billion-in-prime-minister-s-relief-fund-370-million-released-for-flood-victims-260-million-spent-on-helicopter-flights-41-43.html",
+   "source": "Nagarik News",
+   "ts": 1793668312,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2026/third-party/1793668300_Rahat.jpg",
+   "lang": "ne",
+   "hl": "प्रधानमन्त्री उद्धार कोषमा १८ अर्ब : बाढीपीडितलाई ३७ करोड निकासा, हेलिकोप्टर उडानमा २६ करोड खर्च",
+   "en": "प्रधानमन्त्री उद्धार कोषमा १८ अर्ब : बाढीपीडितलाई ३७ करोड निकासा, हेलिकोप्टर उडानमा २६ करोड खर्च",
+   "ne": "प्रधानमन्त्री उद्धार कोषमा १८ अर्ब : बाढीपीडितलाई ३७ करोड निकासा, हेलिकोप्टर उडानमा २६ करोड खर्च",
+   "imp": 4,
+   "tags": [
+    "PMReliefFund",
+    "Floods",
+    "Nepal",
+    "बाढी"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1793064055.600992,
-   "en": "6 killed, 3 injured in Gulmi Scorpio jeep accident",
-   "ne": "6 killed, 3 injured in Gulmi Scorpio jeep accident",
-   "link": "https://theannapurnaexpress.com/story/68239",
-   "source": "Annapurna Express",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "disaster"
-  },
   {
    "ts": 1793065853.9507008,
    "en": "नेपाल आयल निगमद्वारा एलपी ग्यास बिक्री गर्दा अनिवार्य भ्याट बिल जारी गर्न निर्देशन",
@@ -6260,7 +6275,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1793668872,
+ "updated": 1793669468,
  "pending_since": 1793668849.831043,
  "fb_blocks": [
   1790350880.4125228,
