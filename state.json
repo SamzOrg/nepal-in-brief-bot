@@ -1,10 +1,5 @@
 {
  "seen": {
-  "https://nagariknews.nagariknetwork.com/politics/i-will-work-to-solve-the-problems-of-gorkhas-home-minister-gurung-79-20.html": 1793511060.7264125,
-  "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNjhiNlhPdlNMbjhIeEtXQVNLRWEyNE5EWXFNUERLai1EVUVfVkNtUG43cEJRdGsyeE9PQ3UtYzloNnZoYWFLZHhGQTBXYUs1ZU1EWUFVcnpLNUlEbS1IQUxvV3ZSN1FJeVQ1eFVWRC1JRG9GNjM1XzJDR1VFVE9kandPMVNqWi1GVlNtOWs3UTRvQVM4QXphREwwQ1dNWHdySVE1VldnYXpxY1hhVG5ENTdDZGYzeWRzMjNIa9IBygFBVV95cUxOS1ctdDEwMEI0NmR2UzNVY05FcFZsY1NnNHdRYlRncGNnTE1nZWNhU3pjeWY2QlhvYTVCSUN3MEdDRk1HdzFjSWtpckp5UVVrRDFwRVFpejBsYk9YOTZCMmdmV1NQYUhjSmR1MzRGYkdEQmg3UGtqY2MzLWlYNExSQlFaUkk5RFJseFBGakNPekRvNXIxWnlYZzVhbEhhVEpBY3U4ZHY1dmdESHVnaDF4QXdkdG5ibEp5ODg4WEZaTnYxNXY3dVJPdHhB?oc=5": 1793511060.7264125,
-  "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOU3pjdmxWWnhDY3g5YzlCSkxpMmIyYWRfNG9rYkhkc2NmSldKNFhMVmlubzcyZlNpOXJ6WUZIYm01SFdySWZib2Y3Z21RU0hvb3BkdjlfOE1rdWFVTjktd1FoeHpnemxGQmdyWXUwbUE3VF94RWNKUHQ0M0ZnVHNyTFAzMWNwZGpEeXVUMTRnS1R1ZzVGcFpySjNhd2cwWmdvUEU5ZVVDT3pWZld5ZWgzUUNGQTlzMy1P0gG-AUFVX3lxTE1TZWp2aFA4aGJwU0xLdTloaHIySWhZemQtZXR4TWRabzNuby10LVNRa1NJVTZ2VDd0SVA5R1FCRzcwTm5YWnVUdDhPc1hkdzRyQ2ZVcDJzc2lrWUxZVVdUM3dEZVpJVUxmcmhpX2xKSFBjWmRGY21FdjlZR25YeXAyNW56aEN6YTl5cHFyaU1wM0k1ZTZVR1pZLUQ0WV9sTUs5bjFFMWhpRk1fUE5IOVJ0SUFmSlpfWEVueDVLSXc?oc=5": 1793511060.7264125,
-  "http://lokaantar.com/story/332319/2026/11/1/gold-price-": 1793511060.7264125,
-  "http://english.ratopati.com/story/85310/166-families-in-mangala-affected-by-floods-and-landslides": 1793511060.7264125,
   "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOaUQ4OFlpQmtpNklIQWJuSV92RGdVRUFqUWlTQ3hOUTB2N29GcEh4VDBrMEpFWTg1OVBYWWRDR0s5ZTRIbXAtVk12TEwwREFObnN2R2FQVjczYVVOcG4tZXBDeFZpV3B5LTlMMkZGUExHMjhTcHdBTmdlWmlRMWNWNE5CTlBmcmVoNzNGQTJxaEV3VDdGOUF1SWJuNjFwMmZtUDBJMno4bndIdlZiTmtmU28wWmZGaVQyY2VhY2x0MWFOYmxodHJ1M3dpaVloX1otaWY5clBtMVpnQkxVV0NkbWQtNnplbk9v?oc=5": 1793511652.684527,
   "https://news.google.com/rss/articles/CBMibkFVX3lxTFBqT2JjVHI2ejE5VlU2aGE4NjViR3JReDgzeTBFay1sVGllZGxPa2Q1anZWMWNaOEY4aXBzaTlDZk9RckVfQXlISWVOOURSdWVPWUZ3cnp4Qlp3dUhYVEJfZ3VTQWlYc1Z1RnJGNGt3?oc=5": 1793511652.684527,
   "https://news.google.com/rss/articles/CBMiVkFVX3lxTE91Z2x0V0dEaGFid0pmRzVrQV9KT3NxNmpMdEYya2tydHRJRU9WZV93bTRIdlNRTEhadXpqd25BRjRhZkYwMnBCdnVIOU1kZ05CLWpSdlN3?oc=5": 1793511652.684527,
@@ -2033,7 +2028,37 @@
   "https://news.google.com/rss/articles/CBMizAFBVV95cUxObkNGLTl2Z3Buck5Tb0ZfTVZzOVRRQTBHdVhtQUZEZmZRSk1tQ3ZWUElWa1VMQzIwVFRzSVlOV0VDY2ctT0dkTWZGdGdGdUdZYjhYSW9fNVFER1hidHpyU29EMHJsRDVjNVFIR1FNeUFMazJtVXhmanBUaG1uQUFtRzN5Z05Vakw3MmtqRnB4a0VFOTRvanBfQmo5eEtLSUlFSzAtbmdwVHpEY2ExUzdwaTFSVVN0M1pqSldvY3FiNlZyNDdudFhFeEt3cy0?oc=5": 1793683255.2497094,
   "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaG9FUWdEQ2hUaGVPdnh6aWpZTER0ZUVnekY4WVJqUlpEbTVwd1lyRzk3OTQ4ZlltWkpKTWV1UkxkOUlGZXVVa1kxN1lKR1pEVFRDdkZ0Q1FmMmEzanYyR0hNdVFCLXcyNW9JQ1BZYlNIT0RISmxqdDF2b1NZSmxpbllDNkRMWC1nbE9vVmhiUkhnODNzSGluNGV0a0hGRHppLVVNOHViMkJNWF9kZFZVMUp1Y2tUVjJ5Y2lHTHNR0gHDAUFVX3lxTE11akxyRHhsQURTdG1Pb05wVEU0cy1lcUtUQXl0V2tOOERXWFlEM3B2QTd3TFNla1FkM0RsTlNsQ3BvUlFMWjBScGY0VTJUTVc2MEVMa19hZ2EwR3NJLXk2N3d5WWduZnQxZVJ2NVNHRlBubXZjaDJzSTZFdHNNQ0RSbGwzN2g1UDR1YlVGRDBlX011M3IwSHJsMHZtb05uMDBPeS1yOHNtVVVUM29lZ2NEZHZ1dDh6emxEbWhqVDE0cW9wbw?oc=5": 1793683255.2497094,
   "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPVWllRC0wcXhjX00xR2NVOHpPMGVTQmY5bEZmckNlZmhoMWEyVFd0NWRibEFUSk1LMHNqeEFNOUZYZlBSWllIMFpfT2dRcmFKUTJ0RFlEOWRhUmVkSmJya01JZVVqOWxYNm1Wb1F3eG80NXk1MjR3NmtSRnMzQS1TbE1nakxMRmJJYVREVjJORUtiVTFiZ3c2czN0UHQ2end6bDEwanREenRXVEMwaVBLcmpPU08xNGc2M0ZZOTcyLXNPS29xbkE4MHBta0hfMEFmS2o1d254WV9BLUR4dEtab3JlZVhvVFQ5V2hBUdIB7AFBVV95cUxPVWllRC0wcXhjX00xR2NVOHpPMGVTQmY5bEZmckNlZmhoMWEyVFd0NWRibEFUSk1LMHNqeEFNOUZYZlBSWllIMFpfT2dRcmFKUTJ0RFlEOWRhUmVkSmJya01JZVVqOWxYNm1Wb1F3eG80NXk1MjR3NmtSRnMzQS1TbE1nakxMRmJJYVREVjJORUtiVTFiZ3c2czN0UHQ2end6bDEwanREenRXVEMwaVBLcmpPU08xNGc2M0ZZOTcyLXNPS29xbkE4MHBta0hfMEFmS2o1d254WV9BLUR4dEtab3JlZVhvVFQ5V2hBUQ?oc=5": 1793683255.2497094,
-  "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWlYyX1lHNGRWREFxSDFsSUNURmhyX0FWQW9oX0tFVjR1cHFuNEJDSUdzMjBpR25EeTNETjhQQzBocVVJcVJRamVwRHJuQ0lqWkhCb3c0bmpNYkFLN1M5cHEtMGRab0QyaWtIdG4ySXNpazI5dkFFaDJ2WjMteVlXUk4tRmowYzA3UVBNYVFxcUlyc1pEUjBVM0JMSGRlSXc?oc=5": 1793683255.2497094
+  "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWlYyX1lHNGRWREFxSDFsSUNURmhyX0FWQW9oX0tFVjR1cHFuNEJDSUdzMjBpR25EeTNETjhQQzBocVVJcVJRamVwRHJuQ0lqWkhCb3c0bmpNYkFLN1M5cHEtMGRab0QyaWtIdG4ySXNpazI5dkFFaDJ2WjMteVlXUk4tRmowYzA3UVBNYVFxcUlyc1pEUjBVM0JMSGRlSXc?oc=5": 1793683255.2497094,
+  "https://english.onlinekhabar.com/kathmandu-metropolis-bans-sale-of-plastic-flowers-and-garlands-during-tihar.html": 1793683870.7096355,
+  "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbW9NaE1ubkVGcnhSWXloVkk4VEp3LWtleF95UGM3bVBZX1pDUm5WcExOeDh5cUdJVGZvS0RHVFhab0d0c0R5ZzhFZ2Zld2NYQVJpN3B4a05yRUFFTmMtM0Y0YjdoWU9hamJtVTRpeklqQ1JRbXp5bGlMOWp5OXZrX3N2RFd6SE5OT3BkWEtVakJ3QdIBlgFBVV95cUxQal9TYU50TGcyNzJxZmZzd1JjMmcwYkVOcm9ERFZleUY2ZUdITm05MEhRVEMwMDFnb0xuQzRoSDNfOThNWTNqUTJ1c1pxMld6cnVHbExfMWZOX0I0VndUTTBCNVlZYjVBbDg3QWV4OHZOVko4QnVIcnkzZVZCVjVJd05oVktWS19wQ2hyRUN0T0dNek81UlE?oc=5": 1793683870.7096355,
+  "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQcEF3bDVWUU9wLTNwNkJhc3NMUWlJMjhuTWZZWnpWZ0FHTWZGX2NsOEw2S2EtUjZjR0Zsb1h1MTI4WmZpQW5NdHNORTVENzFDQlRTMS1jUG9sTmNrVmpscWh6dTc4MVROQmxnNzBlSkhzZTIxRG4xS1ZNTFFjU0FobklBSW5jUERIbFVUTHBzTWZNRmdvcHc0dWVBYTcxc2NfS240ZmdhTWpyb3BBNnh0UmdNTmRnV21EaFRXYmQ3amI5YWhldzlPR3lnRDYyVmt3TWNN0gHaAUFVX3lxTE9QQ2FtcDJYbjZBZktWNUQ4VWlzemtiUXh2eElKbjlDOHFKTWp2TmhOMHlSVWxtWVZDcGlfcDZ2QWpIZDVaQVFucERoU0VyTHRWMnBSNXk3Xzc4ckxRdi00TVVyclhWaXEtVGpZLW5sUVNuSlhsbEZpS2lfazFsWFkxZ0dhdzdZM0dmaWlZVlk3ZHZRU1FnbTRTZ05lRFNrU3ViU0JhT0h2aXRkTjlZVERqXzQ0bmlxemN0OW93Qk1USEFCZW1vTWpkNXBqMTFXa090V2FqQXVwbWdB?oc=5": 1793683870.7096355,
+  "https://news.google.com/rss/articles/CBMijwFBVV95cUxNU0FXNzRCSHFSanBBMGNPRjBhalhqcHIxOHpJdW41eFFyU3RoRU1HVjk2MDJvNWxLc3NuLS1iV3Ayb2NrcDB2Mkt2SGZZeGdRSFA2UjZNUWpYeHI0T1JPTTU4cUtlWTh3V19nOHN2Q0dJVVdLUWgxX1o4VUlaQjUzOUE1Mk1OVkZjWG95ZjB5SdIBlAFBVV95cUxNOF8yTGxQUG9heEdkSWU1OW9CTzBnZnRSMkRMbE4tUEF2TTFuTnBNRW1Na1VPQUF5OFJHZ1VTRFh0b2lRSDZfREkyZUVTaUVEcFJRSUJlTzZzeGN5Vk1KZkZTS29KLVh2bzc4Z1NvMGRZTWgtNmZtODItc0xqNGZnRk45RDE1cG8xd2NiQ0JRdUxnQTFE?oc=5": 1793683870.7096355,
+  "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeW1pc1NpOFB6bjd6MjdYUVFYeGJmbUlSYW9KMjhaQUJUcGJ2M0lkalp3blVRQVlIemh3dkhXeGdhMm1fN2xaNXh4d1phU2pkNkdYb3pRMG56QzQwZHJ0YXNpMzIxRnZKcjVGcDBuT3ZwMHlUTmQ5eXFlS2c5Z240X1R2ZDl2R3F5UVRwRW83ZzBLWVJ1Mkc4Q1JCUFB0Q2NGMGVSeHY1RTRURngwWXc?oc=5": 1793683870.7096355,
+  "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNclNvMk9ZU1hONVJQSjF0aEFGU21IajhROEpFam8wYzliandhVXZpWEVXODNsaXJ4NzNhcHBORlZWeXdOSUNkNG9BS3dpSFJvc2RYZnVOLWp2cm82N2JZbHRveFUyVXNmQy0wUXZaMUhrYU90bUx0aDZ1bXpOMGNVR01Xdy1FV2YwWURmd2Nmcmd2QU04Yjg5MEFJSDZDQ0JOMklYNmRHM2JCWkV4NnpWTlFySU95aEQ0YVVPWUkzRUpRUkYxVFZRZHFiVVBHZnlnRGtsWF83N1hzNms?oc=5": 1793683870.7096355,
+  "https://english.onlinekhabar.com/sirsiya-river-clean-up-drive-intensified-ahead-of-chhath-action-tightened-against-polluting-industries.html": 1793683870.7096355,
+  "https://gorkhapatraonline.com/news/228140": 1793683870.7096355,
+  "https://nagariknews.nagariknetwork.com/social-affairs/solukhumbu-helicopter-crash-update-identity-of-deceased-revealed-3-injured-83-35.html": 1793683870.7096355,
+  "https://www.setopati.com/politics/401888": 1793683870.7096355,
+  "https://baahrakhari.com/detail/506433": 1793683870.7096355,
+  "https://news.google.com/rss/articles/CBMigwJBVV95cUxOQ3BkeWVZNmUwV0FUYlVtSVB3cGg3SFJqMXM2eUVzMENMXzdEZnNxVFc4OTZDUWlZRGl0cEVmZ21SZ0NlUTdaZWNwTmM1aXpXN24zbmNJV3I1dUxnS3o2anluM011OUI0RnZXaDZHWkFlY0FYbEZxLV95TnJjNWFxUDFaelQ0VWQ1R05aVEV0Q09FdndVdkhlVnRHZ1FFbDJsX3JKdFBaRzNZOFd5dGtyaDk2bWdUcHZvNUhfaXVBaFhZU3FMY3dtcWV2eEg2ZS0teHhjT2RjLXN2eU1SVWM2NU82T25JSGEzM1BCZUtKWFlGVlZneHVOcGlHbDFMVzZNRDA00gGIAkFVX3lxTFBTcXRiS0F5XzZTRGoyZ0RhcGpZSnV1Rk04eGR6MmFISHdldG0xM0d3VWFtSFNHWUdDYUNRWjJsd0xRaXBTbWt5LUFvWUlVZjM1TmEtUlhxd0lRNG5WWDlxZHZRTlBNXzdhNjc5dHZ2N1V1YXBGVEE0VG5ta3Y2cldtQ1FndE9NZHpvV1lNTUtLNnBYS0U0Q1pBbXA2cHFnWnpzaXc3TjNudDdfSjdkRTdsb2JhYUl4a29ORDN3Y0hQOXpwcmpJc3ZMYlgzczJXUERtLUh6NmROYloyOGNxamUtNjZ6blN3UGNXMy1CNnc4SUQ0S0dpZE1faGRmZUJWSlFHMWxQaEI0cg?oc=5": 1793683870.7096355,
+  "http://english.ratopati.com/story/85519/the-price-of-gold-has-increased-moderately-what-is-the-trading-price-today": 1793683870.7096355,
+  "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTFJKenZNOEdXOVBTMVBTTG1HOTFPTXdoRTlYeUR3QUNfdUdlYVZIVDVkeUZMVXNfajNjWm94c0E5LWN0LTR6RUNkaUdTTnpYMUF4YnhtUUZSbUVIaXVIQ1FjU3RjNGxPQmJ6cW11cUxEWGdUM1RKVm42LXlHd25DX2lUYW5ONnBya0FBVjc0UDI0SHAwT2tvdV9GQjJGNGRyYmU4cG5mY285SkZZRGEyUm9HdXlUUmM?oc=5": 1793683870.7096355,
+  "https://theannapurnaexpress.com/story/68466": 1793683870.7096355,
+  "http://lokaantar.com/story/332468/2026/11/3/foreignbanks": 1793683870.7096355,
+  "https://english.onlinekhabar.com/aathpahariya-museum-remains-unopened-despite-building-completion.html": 1793683870.7096355,
+  "https://gorkhapatraonline.com/news/228138": 1793683870.7096355,
+  "https://nagariknews.nagariknetwork.com/social-affairs/children-forced-into-child-labor-and-trafficking-due-to-lack-of-love-at-home-br-13-44.html": 1793683870.7096355,
+  "https://www.setopati.com/kinmel/jewellery/401886": 1793683870.7096355,
+  "https://theannapurnaexpress.com/story/68465": 1793683870.7096355,
+  "http://lokaantar.com/story/332470/2026/11/3/janakpur-vs-biratnagar-": 1793683870.7096355,
+  "https://english.onlinekhabar.com/injured-helicopter-crash-victim-brought-to-mediciti-hospital.html": 1793683870.7096355,
+  "https://gorkhapatraonline.com/news/228136": 1793683870.7096355,
+  "https://nagariknews.nagariknetwork.com/politics/congress-submits-application-to-election-commission-for-new-working-committee-update-21-94.html": 1793683870.7096355,
+  "https://theannapurnaexpress.com/story/68464": 1793683870.7096355,
+  "http://lokaantar.com/story/332469/2026/11/3/shodhshala-": 1793683870.7096355,
+  "https://english.onlinekhabar.com/indian-helicopter-collision-everest.html": 1793683870.7096355,
+  "https://gorkhapatraonline.com/news/228135": 1793683870.7096355,
+  "https://gorkhapatraonline.com/news/228134": 1793683870.7096355
  },
  "queue": [
   {
@@ -4497,29 +4522,6 @@
    "hits": 1
   },
   {
-   "title": "Chhath Festival: Sirsiya River Cleanup Intensifies in Birgunj",
-   "summary": "Kathmandu. The campaign to clean and control pollution in the Sirsiya River in Birgunj has been intensified targeting the Chhath...",
-   "link": "http://english.ratopati.com/story/85511/sirsia-river-cleaning-campaign-before-chhath",
-   "source": "Ratopati EN",
-   "ts": 1793677243,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/sirsiya-nadi_58dVFrZx6j.webp",
-   "lang": "en",
-   "hl": "Chhath Festival: Sirsiya River Cleanup Intensifies in Birgunj",
-   "en": "Chhath Festival: Sirsiya River Cleanup Intensifies in Birgunj",
-   "ne": "Chhath Festival: Sirsiya River Cleanup Intensifies in Birgunj",
-   "imp": 3,
-   "tags": [
-    "Chhath",
-    "Birgunj",
-    "SirsiyaRiver"
-   ],
-   "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
    "title": "Beekeeper earns up to Rs. 1 M annually",
    "summary": "By Bomalal Giri, Nawalpur, Nov. 3: Chandika Prasad Lamichhane of Ramnagar, Kawasoti Municipality-9, Nawalpur, has demons...",
    "link": "https://risingnepaldaily.com/news/88346",
@@ -4632,7 +4634,7 @@
    "cat": "society",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "आयुर्वेदमा बिरामीको आकर्षण बढ्दै",
@@ -4678,7 +4680,7 @@
    "cat": "sports",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Olena residents live in fear of river",
@@ -4890,7 +4892,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "७१ अर्बका आइपिओ लाममा",
@@ -5074,7 +5076,7 @@
    "cat": "economy",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 3
   },
   {
    "title": "Government Distributes Vitamin A and Deworming Medicine Nationwide",
@@ -5337,6 +5339,303 @@
    ],
    "cat": "politics",
    "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "केशम टापुमा अमेरिकी आक्रमण",
+   "summary": "वासिङ्टन, कात्तिक १७ गते । इरानसँग आठ महिनादेखि जारी द्वन्द्व अन्त्य गर्न वार्तामा प्रगति भइरहेको सङ्केत अमेरिकाका राष्ट्रपति डोनाल्ड ट्रम्पले दिइरहेका बेला अमेरिकाले सोमबार इरानको...",
+   "link": "https://gorkhapatraonline.com/news/228140",
+   "source": "Gorkhapatra",
+   "ts": 1793683433,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/390164/conversions/iran-original.jpg",
+   "lang": "ne",
+   "hl": "केशम टापुमा अमेरिकी आक्रमण",
+   "en": "केशम टापुमा अमेरिकी आक्रमण",
+   "ne": "केशम टापुमा अमेरिकी आक्रमण",
+   "imp": 1,
+   "tags": [
+    "WorldNews"
+   ],
+   "cat": "world",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "अझै भेटिएनन् डोल्पा कारागारबाट सुरुङ खनेर भागेका आठ कैदीबन्दी",
+   "summary": "सुरुङ खन्न प्रयोग गरिएका सामग्री कारागारभित्रै थिए वा बाहिरबाट भित्र्याइएका भन्ने विषयमा पनि अनुसन्धान भइरहेको प्रहरीले जनाएको छ ।",
+   "link": "https://baahrakhari.com/detail/506433",
+   "source": "Baahrakhari",
+   "ts": 1793683247,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "अझै भेटिएनन् डोल्पा कारागारबाट सुरुङ खनेर भागेका आठ कैदीबन्दी",
+   "en": "अझै भेटिएनन् डोल्पा कारागारबाट सुरुङ खनेर भागेका आठ कैदीबन्दी",
+   "ne": "अझै भेटिएनन् डोल्पा कारागारबाट सुरुङ खनेर भागेका आठ कैदीबन्दी",
+   "imp": 3,
+   "tags": [
+    "Dolpa",
+    "PrisonEscape",
+    "डोल्पा"
+   ],
+   "cat": "crime",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Bayern are doing well despite rollercoaster week, Kane says",
+   "summary": "Bayern Munich are on track despite mixed emotions while they deal with missing coach Vincent Kompany and several key players to injury, striker Harry Kane said on Monday ahead of their Champions League match against...",
+   "link": "https://theannapurnaexpress.com/story/68466",
+   "source": "Annapurna Express",
+   "ts": 1793669472.0805588,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "Bayern are doing well despite rollercoaster week, Kane says",
+   "en": "Bayern are doing well despite rollercoaster week, Kane says",
+   "ne": "Bayern are doing well despite rollercoaster week, Kane says",
+   "imp": 1,
+   "tags": [
+    "BayernMunich",
+    "HarryKane",
+    "Football"
+   ],
+   "cat": "sports",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "विदेशमा नेपाली बैंकहरूको ५२ अर्ब मौज्दात- कसले कति रकम राखेका छन् ?",
+   "summary": "नेपाली बैंकहरूले विदेशका विभिन्न बैंकमा राखेको रकम एक वर्षमै १० अर्ब रुपैयाँले बढेको छ । एक वर्षअघि ४१ अर्ब रहेको यस्तो मौज्दात चालू आर्थिक वर्षको भदौसम्म बढेर ५२ अर्ब रुपैयाँ नाघेको हो ।नेपाली बैंकहरूले युरोप,...",
+   "link": "http://lokaantar.com/story/332468/2026/11/3/foreignbanks",
+   "source": "Lokaantar",
+   "ts": 1793669471.3858197,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "विदेशमा नेपाली बैंकहरूको ५२ अर्ब मौज्दात- कसले कति रकम राखेका छन् ?",
+   "en": "विदेशमा नेपाली बैंकहरूको ५२ अर्ब मौज्दात- कसले कति रकम राखेका छन् ?",
+   "ne": "विदेशमा नेपाली बैंकहरूको ५२ अर्ब मौज्दात- कसले कति रकम राखेका छन् ?",
+   "imp": 3,
+   "tags": [
+    "NepaliBanks",
+    "ForeignReserve",
+    "नेपाल"
+   ],
+   "cat": "economy",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Aathpahariya museum remains unopened despite building completion",
+   "summary": "Dhankuta, November 3 A museum built to preserve the history and culture of the Aathpahariya community in Dhankuta has yet to open, although most construction work is complete. The delay is due to pending interior...",
+   "link": "https://english.onlinekhabar.com/aathpahariya-museum-remains-unopened-despite-building-completion.html",
+   "source": "Onlinekhabar EN",
+   "ts": 1793683392,
+   "weight": 3,
+   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/11/Aathpahariya-Museum-3-1024x683-1.jpg",
+   "lang": "en",
+   "hl": "Aathpahariya museum remains unopened despite building completion",
+   "en": "Aathpahariya museum remains unopened despite building completion",
+   "ne": "Aathpahariya museum remains unopened despite building completion",
+   "imp": 2,
+   "tags": [
+    "Aathpahariya",
+    "Museum",
+    "Dhankuta"
+   ],
+   "cat": "culture",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "बिदाइ हुँदै प्रदेश प्रमुख खापुङ",
+   "summary": "विराटनगर समाचारदाता विराटनगर, कात्तिक १७ गते । कोशी प्रदेशका प्रदेश प्रमुखको पाँचबर्से अवधि यही कात्तिक २४ गते पूरा हुँदै छ । सङ्घमा बारम्बार सरकार परिवर्तन हुँदा प्रदेशका सरकारदेख...",
+   "link": "https://gorkhapatraonline.com/news/228138",
+   "source": "Gorkhapatra",
+   "ts": 1793682951,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/390162/conversions/Untitled-2-original.jpg",
+   "lang": "ne",
+   "hl": "बिदाइ हुँदै प्रदेश प्रमुख खापुङ",
+   "en": "बिदाइ हुँदै प्रदेश प्रमुख खापुङ",
+   "ne": "बिदाइ हुँदै प्रदेश प्रमुख खापुङ",
+   "imp": 2,
+   "tags": [
+    "ProvinceChief",
+    "Khapung",
+    "Government"
+   ],
+   "cat": "politics",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "घरको माया नपाउँदा बालश्रम र बेचबिखनमा पुग्न बाध्य बालबालिका",
+   "summary": "पछिल्लो समय सूचनाप्रविधिको विकासले बालबालिकाप्रति आमाबुबाको समय नपुग्नु र डिजिटल प्रलोभनमा परेर घरपरिवार छोड्ने बालबालिकाको सङ्ख्या बढ्न थालेको बताइन्।...",
+   "link": "https://nagariknews.nagariknetwork.com/social-affairs/children-forced-into-child-labor-and-trafficking-due-to-lack-of-love-at-home-br-13-44.html",
+   "source": "Nagarik News",
+   "ts": 1793682976,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2026/third-party/1780059872_children%20balbalika.jpg",
+   "lang": "ne",
+   "hl": "घरको माया नपाउँदा बालश्रम र बेचबिखनमा पुग्न बाध्य बालबालिका",
+   "en": "घरको माया नपाउँदा बालश्रम र बेचबिखनमा पुग्न बाध्य बालबालिका",
+   "ne": "घरको माया नपाउँदा बालश्रम र बेचबिखनमा पुग्न बाध्य बालबालिका",
+   "imp": 3,
+   "tags": [
+    "ChildLabor",
+    "HumanTrafficking",
+    "बालबालिका"
+   ],
+   "cat": "society",
+   "val": 2,
+   "teaser": true,
+   "hits": 1
+  },
+  {
+   "title": "Jaissle frustrated after Newcastle players go off script in loss to Everton",
+   "summary": "Newcastle United manager Matthias Jaissle said pumping long balls into the Everton half had not been part of the plan after his side lost 1-0 at home in the Premier League on Monday, Reuters reported. Newcastle have won...",
+   "link": "https://theannapurnaexpress.com/story/68465",
+   "source": "Annapurna Express",
+   "ts": 1793669472.0805588,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "Jaissle frustrated after Newcastle players go off script in loss to Everton",
+   "en": "Jaissle frustrated after Newcastle players go off script in loss to Everton",
+   "ne": "Jaissle frustrated after Newcastle players go off script in loss to Everton",
+   "imp": 1,
+   "tags": [
+    "Football",
+    "PremierLeague",
+    "Newcastle"
+   ],
+   "cat": "sports",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "भ्रष्टाचार मुद्दाका फरार प्रतिवादी पक्राउ",
+   "summary": "राजु लामिछानेरुकुमपश्चिम, कात्तिक १७ गते । जिल्ला प्रहरी कार्यालय रुकुमपश्चिमले भ्रष्टाचार मुद्दामा फरार एक जना प्रतिवादीलाई पक्राउ गरेको छ ।प्रहरीले सोमबार दिउँसो मुसीकोट नगरपालिक...",
+   "link": "https://gorkhapatraonline.com/news/228136",
+   "source": "Gorkhapatra",
+   "ts": 1793682667,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/390158/conversions/arrest_new-original.jpg",
+   "lang": "ne",
+   "hl": "भ्रष्टाचार मुद्दाका फरार प्रतिवादी पक्राउ",
+   "en": "भ्रष्टाचार मुद्दाका फरार प्रतिवादी पक्राउ",
+   "ne": "भ्रष्टाचार मुद्दाका फरार प्रतिवादी पक्राउ",
+   "imp": 3,
+   "tags": [
+    "Corruption",
+    "CBI",
+    "Arrest"
+   ],
+   "cat": "crime",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "नयाँ कार्यसमिति अद्यावधिकका लागि कांग्रेसद्वारा निर्वाचन आयोगमा निवेदन",
+   "summary": "नेपाली कांग्रेसले पार्टीको १५औँ महाधिवेशनबाट निर्वाचित नयाँ कार्यसमिति अद्यावधिकका लागि निर्वाचन आयोगमा निवेदन दिएको छ।...",
+   "link": "https://nagariknews.nagariknetwork.com/politics/congress-submits-application-to-election-commission-for-new-working-committee-update-21-94.html",
+   "source": "Nagarik News",
+   "ts": 1793682564,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2025/third-party/1768178261_1762261986_Election%20Commission1-1200x560.jpg",
+   "lang": "ne",
+   "hl": "नयाँ कार्यसमिति अद्यावधिकका लागि कांग्रेसद्वारा निर्वाचन आयोगमा निवेदन",
+   "en": "नयाँ कार्यसमिति अद्यावधिकका लागि कांग्रेसद्वारा निर्वाचन आयोगमा निवेदन",
+   "ne": "नयाँ कार्यसमिति अद्यावधिकका लागि कांग्रेसद्वारा निर्वाचन आयोगमा निवेदन",
+   "imp": 2,
+   "tags": [
+    "NepaliCongress",
+    "ElectionCommission",
+    "कांग्रेस"
+   ],
+   "cat": "politics",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "मगर समुदायको इतिहास र संस्कृति समेटिएको प्राज्ञिक दस्तावेज सार्वजनिक",
+   "summary": "मगर अध्ययन केन्द्रले आदिवासी जनजाति भाषा, संस्कार, संस्कृति, इतिहास तथा पहिचानसम्बन्धी अध्ययन र अनुसन्धानलाई अभिलेखीकरण तथा प्रवर्द्धन गर्न योगदान पुर्याउने लक्ष्यअनुरूप शोधमाला पुस्तक सार्वजनकि गरेको छ। आइतबार...",
+   "link": "http://lokaantar.com/story/332469/2026/11/3/shodhshala-",
+   "source": "Lokaantar",
+   "ts": 1793669471.3858197,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "मगर समुदायको इतिहास र संस्कृति समेटिएको प्राज्ञिक दस्तावेज सार्वजनिक",
+   "en": "मगर समुदायको इतिहास र संस्कृति समेटिएको प्राज्ञिक दस्तावेज सार्वजनिक",
+   "ne": "मगर समुदायको इतिहास र संस्कृति समेटिएको प्राज्ञिक दस्तावेज सार्वजनिक",
+   "imp": 2,
+   "tags": [
+    "MagarCommunity",
+    "Culture",
+    "مगर"
+   ],
+   "cat": "culture",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "छ वर्षदेखि विद्यालय भवन अलपत्र",
+   "summary": "दैलेख समाचारदातादैलेख, कात्तिक १७ गते । दैलेखको ठाँटीकाँध गाउँपालिका-२, प्याडुलीस्थित दशरथ माध्यमिक विद्यालयको निर्माणाधीन भवन छ वर्ष बितिसक्दा पनि सम्पन्न हुन सकेको छैन । ठेकेदार...",
+   "link": "https://gorkhapatraonline.com/news/228135",
+   "source": "Gorkhapatra",
+   "ts": 1793682580,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/390157/conversions/school-original.jpg",
+   "lang": "ne",
+   "hl": "छ वर्षदेखि विद्यालय भवन अलपत्र",
+   "en": "छ वर्षदेखि विद्यालय भवन अलपत्र",
+   "ne": "छ वर्षदेखि विद्यालय भवन अलपत्र",
+   "imp": 2,
+   "tags": [
+    "SchoolBuilding",
+    "Education",
+    "विद्यालय"
+   ],
+   "cat": "education",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "एउटै कार्यालयमा तीन वर्ष बसेका कर्मचारीको अनिवार्य सरुवा",
+   "summary": "मकवानपुर समाचारदातामकवानपुर, कात्तिक १७ गते । बागमती प्रदेश सरकारले प्रदेश निजामती कर्मचारीको सरुवा तथा पदस्थापनलाई व्यवस्थित, पारदर्शी बनाउन नयाँ मापदण्ड जारी गरेको छ । नयाँ मापदण...",
+   "link": "https://gorkhapatraonline.com/news/228134",
+   "source": "Gorkhapatra",
+   "ts": 1793682244,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/390155/conversions/Untitled-1---2026-11-03T104914.606-original.jpg",
+   "lang": "ne",
+   "hl": "एउटै कार्यालयमा तीन वर्ष बसेका कर्मचारीको अनिवार्य सरुवा",
+   "en": "एउटै कार्यालयमा तीन वर्ष बसेका कर्मचारीको अनिवार्य सरुवा",
+   "ne": "एउटै कार्यालयमा तीन वर्ष बसेका कर्मचारीको अनिवार्य सरुवा",
+   "imp": 3,
+   "tags": [
+    "CivilServants",
+    "Transfer",
+    "Government"
+   ],
+   "cat": "politics",
+   "val": 3,
    "teaser": false,
    "hits": 1
   }
@@ -8454,10 +8753,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "crime"
+  },
+  {
+   "ts": 1793683881.088766,
+   "en": "Birgunj Intensifies Sirsiya River Cleanup for Chhath Festival",
+   "ne": "Birgunj Intensifies Sirsiya River Cleanup for Chhath Festival",
+   "link": "http://english.ratopati.com/story/85511/sirsia-river-cleaning-campaign-before-chhath",
+   "source": "Ratopati EN",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "society"
   }
  ],
- "updated": 1793683260,
- "pending_since": 1793682647.0360215,
+ "updated": 1793683896,
+ "pending_since": 1793683870.7096355,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
