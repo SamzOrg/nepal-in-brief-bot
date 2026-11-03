@@ -1,8 +1,5 @@
 {
  "seen": {
-  "https://english.onlinekhabar.com/koshi-cm-karki-province-chief.html": 1793535044.9020877,
-  "https://english.onlinekhabar.com/sc-nominee-janak-pandey-controversy.html": 1793535044.9020877,
-  "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcmpScmhvQ0hGWkJpNFBrR2Q4QUFaUjVsLUJ5Y1ZtUk9EM1dOQUNka1RFTzJSQVRpVXptRnRqbkM2QUlMWmo1WjJ6c0VlaWdwVk5PaDNMWnVvdGdjZjNPMDk1QU5zbnVGamVGZVh3djEtYjhRWWJBaWVXQzB1SkNJbDUtN0Vsa1NwcmxQOGhEcnl0MVZXQkZyLWoyY0YtZUVVOHNzYURBa01XQnlLWW9IelhwWUtESmhvVURHUTltdjVfY1drNGcycHJkZENQWm9Ed2tVOGdvdw?oc=5": 1793535044.9020877,
   "https://nagariknews.nagariknetwork.com/social-affairs/suspicious-object-explodes-in-biratnagar-2-injured-br-36-62.html": 1793535647.9450796,
   "https://nagariknews.nagariknetwork.com/Aparadh/two-drug-dealers-arrested-by-firing-in-the-air-28-grams-of-brown-sugar-seized-26-68.html": 1793535647.9450796,
   "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBIcEx3S2htaEg2dXA2djlCUGdOZDZ3LUJpdVZ1YTJmc1NpRVY0MHlLUHZqRjBwMVU5ak5NMVktWC1QZmhEM0k0NC16OW1iQzQ0Vm9ENDZnaw?oc=5": 1793535647.9450796,
@@ -2282,7 +2279,11 @@
   "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOVWVlek1pc0tySU85cHJEVTlncXJGOVVyV1QtYkxaZDJTN3ZueUpqbzBEVUxESlJaQkdVY1JyMmxsUGpYN2JXaEhZLWJncjdBczEta1ppUXd6UHZNR2p0X0lIRkQ1U2NDTWd6bFZpVEk5OUpjc2h0LTVtcHlSaUhpMmVOSzJPTmFPek9leHI1OTdvdDZaOVdVZTZDbUNKNFdHX3lzZ2VCdjVJZ2NSOWVxZXBFSVdaamV3b1ZNTFFvcl84Z1RjdlNYYnM4YW05QldESzk5Yi1mUVBnRlR6NGxFdlUtWUQ2S0dpa3dfMFd3c3VKa1c4UEJ0UzVYVQ?oc=5": 1793707284.5240505,
   "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaXhyQTFycnAwazJMREt0elFMSTlGSEpib0xLWDRSUndwYWVZa25BdXZma0U1NHdielFLUFAwckFZMmlNdG8wNFJ4MmdOWHlYbVFhV2ZxbG1ZaGlsUEZ3V1FnaVJOeElNVEF3NFVhMWxUaTRBMm1tem9wNzhnbDladTlpZlhVN0VZTDE1UlJ4eUNwaUI0bFRSS3kwVU85d1dYT2M1UHNRWXVVbHVsZzJNaDVNdWp6ZUl1NmxSQkxUb0pJMGk5aU9kTUln0gHXAUFVX3lxTE5OVGN6dXFNYnNrSFVNSVJjSEVrcWV4VkxsVUdIeUIxdVM0VjJ2S0U4a2NBRW9LSXhSTkxJRVFNaW5pU3BnblRQWkxsbGowQWZ4S2JISjhBMHhDaWRIVXh1cHphRVQyaWxqNkhENDFwaUsxd1g4bENqdU9JV0g3elhXdFZYaXFZaVk1QU1yd2o0azBLWGJ2NDY2OG1lT3dBTTFySHZHOHYyU2x4LTdza0lHTlJaYWlLT0NfbmVTV3g4T19SRWQxMF93NzNETWl1cEJyT1hVWXhr?oc=5": 1793707284.5240505,
   "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNG9WYUY3QWtYSkdKZ3E4SW1FSE1LbllYMHZiYi05bUIwZG4xaC1CS29UMXdibWhVVDNDanMxNnJibkxiNEx3ZWtJV3d0aVNTa0tTdWFjaUthTUlXWk1hV0RpaGVfOEt4MnVEdnZnb184RUZVVFFUNUI1ODFlQ0RVQzkzdXprU1UtQzF0V0J1OUFoTnN5V1dERldGa0xSMmpocEplWF9NMjhoaklPNkJsOE1B?oc=5": 1793707284.5240505,
-  "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSEUxU0tEUzE1SXExQmppYS1YX2FUTFMxclR5SFRUREZzUEJsMHNTX3RObklJV2xGT3BBOXVSd29NRGN1T0tGMnpHWkZkWENuamY4Rlc1TEZFNXlvLWVjdkVyY2lmdWp5SnpNdG1qcHE4dXlJRFA5SmlUdERMNnlYb2wyWk9YQUpTVTVjNDh0Z0NrUlVWS3VTc0NLeGN3R1lqZnFNVWJuMC1JTWlyeWowNlEwcWh2eXZMWmVRVEZwc9IBvwFBVV95cUxNSEUxU0tEUzE1SXExQmppYS1YX2FUTFMxclR5SFRUREZzUEJsMHNTX3RObklJV2xGT3BBOXVSd29NRGN1T0tGMnpHWkZkWENuamY4Rlc1TEZFNXlvLWVjdkVyY2lmdWp5SnpNdG1qcHE4dXlJRFA5SmlUdERMNnlYb2wyWk9YQUpTVTVjNDh0Z0NrUlVWS3VTc0NLeGN3R1lqZnFNVWJuMC1JTWlyeWowNlEwcWh2eXZMWmVRVEZwcw?oc=5": 1793707284.5240505
+  "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSEUxU0tEUzE1SXExQmppYS1YX2FUTFMxclR5SFRUREZzUEJsMHNTX3RObklJV2xGT3BBOXVSd29NRGN1T0tGMnpHWkZkWENuamY4Rlc1TEZFNXlvLWVjdkVyY2lmdWp5SnpNdG1qcHE4dXlJRFA5SmlUdERMNnlYb2wyWk9YQUpTVTVjNDh0Z0NrUlVWS3VTc0NLeGN3R1lqZnFNVWJuMC1JTWlyeWowNlEwcWh2eXZMWmVRVEZwc9IBvwFBVV95cUxNSEUxU0tEUzE1SXExQmppYS1YX2FUTFMxclR5SFRUREZzUEJsMHNTX3RObklJV2xGT3BBOXVSd29NRGN1T0tGMnpHWkZkWENuamY4Rlc1TEZFNXlvLWVjdkVyY2lmdWp5SnpNdG1qcHE4dXlJRFA5SmlUdERMNnlYb2wyWk9YQUpTVTVjNDh0Z0NrUlVWS3VTc0NLeGN3R1lqZnFNVWJuMC1JTWlyeWowNlEwcWh2eXZMWmVRVEZwcw?oc=5": 1793707284.5240505,
+  "https://nagariknews.nagariknetwork.com/politics/santosh-pandey-appointed-as-member-secretary-of-lumbini-development-fund-br-94-95.html": 1793707854.1778672,
+  "https://english.khabarhub.com/2026/03/574317/": 1793707854.1778672,
+  "https://nagariknews.nagariknetwork.com/international/29-dead-48-missing-in-russian-attack-on-ukraine-br-63-81.html": 1793707854.1778672,
+  "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNbXZXNVdPdTlGZDlwUEZXZ3hSZjRlencxME85WUVnWXFfR1Y1UWliVTVBZGhqcVBScFREMXZJWENBZFM0NzRURUQyQXE5YjZIWUtXNlNRanRLU3RtNmM3QmxvMVZ2Vm5HVDA3ME95a1N0UkRQNzZTNTg2WE1KRmozX0FMUElsRkRUc1ZFQnhsWHRVN0VTWllLQzJoY1ZlUXg0MUhhQlpXVWtybTUyTXBHWmQ1NEk3VEw5Qlh0R2NfZVhuSXB1SmlMTFY1U2RTT1NzN3dONE1OLWhreE85MDNkS2JLVDNYZmZOM0lr0gHvAUFVX3lxTE8xaHRndlVkem9aelBDSzhSYk1hRHdNX3Z4a1RMVFNjeE1taFRmOGptVldsMmpOVEdDLUtja1loRURSVjdrWFR4UVBCLTRwcmNJdG83cmNxM2lEemJkZjVzcWZObmJoelFtY3haNDEwMS1kemZVOTQzb3dHOVdrM21KZ2ktZXpzcDhFRktxWUNDR09QMjBqeTR4blY1OXhiamRiaHY2SHh0d2R2d2doRmxnbjZwY1Q5NHI1d2pPRzZ1a05XdjEyQThHQjl4Um5YTmhyUU1CWDV5eGVuQjNqVnhheEE4TE9IMnlaUXpuYm1V?oc=5": 1793707854.1778672
  },
  "queue": [
   {
@@ -2449,77 +2450,6 @@
    "hits": 1
   },
   {
-   "title": "Greenland opens airport to boost tourism and independence ambitions",
-   "summary": "Greenland, Nov. 3: Greenland has opened a new international airport, seeking to lure visitors from around the world as t...",
-   "link": "https://risingnepaldaily.com/news/88348",
-   "source": "Rising Nepal",
-   "ts": 1793678771,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Greenland opens airport to boost tourism and independence ambitions",
-   "en": "Greenland opens airport to boost tourism and independence ambitions",
-   "ne": "Greenland opens airport to boost tourism and independence ambitions",
-   "imp": 1,
-   "tags": [
-    "Greenland",
-    "Airport",
-    "Tourism"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "सरकारमा लोकप्रियतावाद हावी भयो, यो सोचाइ खतरनाक हुन्छ",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/506431",
-   "source": "Baahrakhari",
-   "ts": 1793678700,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "सरकारमा लोकप्रियतावाद हावी भयो, यो सोचाइ खतरनाक हुन्छ",
-   "en": "सरकारमा लोकप्रियतावाद हावी भयो, यो सोचाइ खतरनाक हुन्छ",
-   "ne": "सरकारमा लोकप्रियतावाद हावी भयो, यो सोचाइ खतरनाक हुन्छ",
-   "imp": 3,
-   "tags": [
-    "Populism",
-    "Government",
-    "Politics",
-    "राजनीति"
-   ],
-   "cat": "politics",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "CPN-UML Kaski Leader Govinda Adhikari Arrested for Spreading Misinformation",
-   "summary": "Pokhara. Nepali Communist Party (CPN) Kaski leader Govinda Adhikari has been arrested. He has been arrested on charges of spreading...",
-   "link": "http://english.ratopati.com/story/85514/govinda-adhikari-arrested-for-posting-fake-video-of-home-minister-caught-from-kaski-and-taken-to-gorkha",
-   "source": "Ratopati EN",
-   "ts": 1793678699,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/gobinda-adhikari_bcZcLGKHox.webp",
-   "lang": "en",
-   "hl": "CPN-UML Kaski Leader Govinda Adhikari Arrested for Spreading Misinformation",
-   "en": "CPN-UML Kaski Leader Govinda Adhikari Arrested for Spreading Misinformation",
-   "ne": "CPN-UML Kaski Leader Govinda Adhikari Arrested for Spreading Misinformation",
-   "imp": 3,
-   "tags": [
-    "CPNUML",
-    "Kaski",
-    "Arrest",
-    "Misinformation"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
    "title": "बाँझो जमिनमा सामूहिक खेती",
    "summary": "तनहुँ समाचारदातातनहुँ, कात्तिक १७ गते । सामुदायिक वन संरक्षणमा मात्र सीमित नराखी यसलाई कृषि उत्पादन, खाद्य सुरक्षा र स्थानीयको आय आर्जनसँग जोड्न सकिन्छ भन्ने उदाहरण तनहुँको एक उपभो...",
    "link": "https://gorkhapatraonline.com/news/228123",
@@ -2542,30 +2472,6 @@
    "val": 1,
    "teaser": true,
    "hits": 1
-  },
-  {
-   "title": "समावेशीकरणको दिशामा नयाँ फड्को : गोरखापत्रद्वारा प्रकाशित मैथिली भाषा",
-   "summary": "",
-   "link": "https://gorkhapatraonline.com/news/228121",
-   "source": "Gorkhapatra",
-   "ts": 1793678681,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/390142/conversions/7-original.jpg",
-   "lang": "ne",
-   "hl": "समावेशीकरणको दिशामा नयाँ फड्को : गोरखापत्रद्वारा प्रकाशित मैथिली भाषा",
-   "en": "समावेशीकरणको दिशामा नयाँ फड्को : गोरखापत्रद्वारा प्रकाशित मैथिली भाषा",
-   "ne": "समावेशीकरणको दिशामा नयाँ फड्को : गोरखापत्रद्वारा प्रकाशित मैथिली भाषा",
-   "imp": 2,
-   "tags": [
-    "Gorkhapatra",
-    "Maithili",
-    "Inclusion",
-    "गोरखापत्र"
-   ],
-   "cat": "culture",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "दुई स्थानीय तहबाट प्रशासन सेवा",
@@ -2805,28 +2711,6 @@
     "Act"
    ],
    "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "मलेखु-मुग्लिङ सडक : मझिमटारमा आज बिहान दुई घण्टा सवारी आवागमन रोकिने",
-   "summary": "पृथ्वी राजमार्गअन्तर्गत मलेखु-मुग्लिङ सडकखण्डको मझिमटारमा आज (मंगलबार) बिहान दुई घण्टा सवारी आवागमन बन्द हुने भएको छ।...",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/malekhu-mugling-road-traffic-will-be-stopped-for-two-hours-in-majhimtar-this-morning-14-90.html",
-   "source": "Nagarik News",
-   "ts": 1793678735,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1758071212_mugling.jpg",
-   "lang": "ne",
-   "hl": "मलेखु-मुग्लिङ सडक : मझिमटारमा आज बिहान दुई घण्टा सवारी आवागमन रोकिने",
-   "en": "मलेखु-मुग्लिङ सडक : मझिमटारमा आज बिहान दुई घण्टा सवारी आवागमन रोकिने",
-   "ne": "मलेखु-मुग्लिङ सडक : मझिमटारमा आज बिहान दुई घण्टा सवारी आवागमन रोकिने",
-   "imp": 3,
-   "tags": [
-    "MalekhuMuglin",
-    "HighwayTraffic"
-   ],
-   "cat": "society",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -4649,7 +4533,7 @@
    "cat": "disaster",
    "val": 3,
    "teaser": false,
-   "hits": 28
+   "hits": 29
   },
   {
    "title": "तनहुँमा सवारी दुर्घटना, तीन जनाको मृत्यु",
@@ -5302,7 +5186,7 @@
    "cat": "world",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "6 candidates shortlisted for Alternative Development Finance Fund CEO post",
@@ -6445,7 +6329,7 @@
    "cat": "society",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "रसेलको अलराउन्ड प्रदर्शनमा विराटनगरको दोस्रो जित",
@@ -7058,7 +6942,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 3
+   "hits": 4
   },
   {
    "title": "टोपबहादुर रायमाझी कात्तिक २६ गते छुट्ने",
@@ -7407,29 +7291,6 @@
    "hits": 1
   },
   {
-   "title": "हेलिकप्टर दुर्घटनामा घाइते तीन जनाको मेडिसिटीमा उपचार हुँदै",
-   "summary": "सोलुखुम्बुको फेरिचे हेलिप्याडमा अवतरणका क्रममा दुई हेलिकप्टर आपसमा ठोक्किएर भएको दुर्घटनामा घाइते भएका तीन जनाको नेपाल मेडिसिटी अस्पतालमा उपचार भइरहेको छ ।अस्पतालका मेडिकल सुपरिटेन्डेन्ट डा राज राणाका अनुसार, दुर्घटनामा...",
-   "link": "http://lokaantar.com/story/332506/2026/11/3/helicopter-crash-",
-   "source": "Lokaantar",
-   "ts": 1793692250.4146848,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "हेलिकप्टर दुर्घटनामा घाइते तीन जनाको मेडिसिटीमा उपचार हुँदै",
-   "en": "हेलिकप्टर दुर्घटनामा घाइते तीन जनाको मेडिसिटीमा उपचार हुँदै",
-   "ne": "हेलिकप्टर दुर्घटनामा घाइते तीन जनाको मेडिसिटीमा उपचार हुँदै",
-   "imp": 4,
-   "tags": [
-    "MedicityHospital",
-    "HelicopterCrash",
-    "Rescue"
-   ],
-   "cat": "disaster",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "कुकुर तिहार रिल बनाउनुस्, एक लाख जित्नुस्",
    "summary": "नेपालको मौलिक संस्कृति र परम्परालाई डिजिटल माध्यमबाट अन्तर्राष्ट्रियस्तरमा प्रवर्द्धन गर्ने उद्देश्यले पहिलोपटक 'कुकुर तिहार रिल प्रतियोगिता-२०२६' आयोजना हुने भएको छ।...",
    "link": "https://nagariknews.nagariknetwork.com/politics/ministry-to-hold-kukur-tihar-reel-competition-to-promote-tourism-46-34.html",
@@ -7546,17 +7407,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1793102515.779802,
-   "en": "Nepal to receive Rs 8.59B in vaccination support under GAVI till 2030",
-   "ne": "Nepal to receive Rs 8.59B in vaccination support under GAVI till 2030",
-   "link": "https://risingnepaldaily.com/news/88114",
-   "source": "The Rising Nepal",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "health"
-  },
   {
    "ts": 1793103067.7388844,
    "en": "Kamal Airee's 4-wicket haul gives Chitwan 8-run NPL win over Biratnagar",
@@ -10669,9 +10519,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "politics"
+  },
+  {
+   "ts": 1793707861.299777,
+   "en": "सोलुखुम्बुमा हेलिकप्टर ठोक्किएर घाइते भएका तीन जनाको मेडिसिटीमा उपचार",
+   "ne": "सोलुखुम्बुमा हेलिकप्टर ठोक्किएर घाइते भएका तीन जनाको मेडिसिटीमा उपचार",
+   "link": "http://lokaantar.com/story/332506/2026/11/3/helicopter-crash-",
+   "source": "Lokaantar",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "disaster"
   }
  ],
- "updated": 1793707287,
+ "updated": 1793707872,
  "pending_since": 1793707284.5240505,
  "fb_blocks": [
   1790350880.4125228,
