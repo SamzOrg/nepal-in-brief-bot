@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://risingnepaldaily.com/news/88277": 1793500262.1115026,
   "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUFFwR0IxZlc2NGtLcDFiOEc4eEdzdVFaekFKZVVuOWFUcWJGS3JqelRkZ1NhNEZxYlJ5c1pLZG1QMnBPaEY3MVpNNDAxOGdNejJKT1JQazNTTXAzRlNyZnRJTndZUUdJNURVOGpZVF9aeFRXaWFWdDNDT0twTVg5MzVESEFLRE5sQWtDVmZzdFZaeVRBdGcxQ3pxRlZuMlNBZmtiZ0p3eThjcmFoZEZfSm1JTmxYLUFBeGVneUdBcWtsNmNxeXE1SGxn?oc=5": 1793500847.38298,
   "https://baahrakhari.com/detail/506238": 1793501447.7929325,
   "https://theannapurnaexpress.com/story/68387": 1793501447.7929325,
@@ -2012,7 +2011,8 @@
   "https://gorkhapatraonline.com/news/228106": 1793671846.5429356,
   "https://gorkhapatraonline.com/news/228105": 1793671846.5429356,
   "https://gorkhapatraonline.com/news/228104": 1793671846.5429356,
-  "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10YVhITkVIbWIzRHcyc3V0dVZkZjR1eUk4dG1RYU1KTkctOUo5eGtVWFpwNjZicnRBREZqbm5VSnNnTnQ3ZUM1U0lMTW1oQlFubERaaThn?oc=5": 1793672035.9544437
+  "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10YVhITkVIbWIzRHcyc3V0dVZkZjR1eUk4dG1RYU1KTkctOUo5eGtVWFpwNjZicnRBREZqbm5VSnNnTnQ3ZUM1U0lMTW1oQlFubERaaThn?oc=5": 1793672035.9544437,
+  "https://risingnepaldaily.com/news/88340": 1793673066.8467813
  },
  "queue": [
   {
@@ -3816,17 +3816,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1793067656.7172015,
-   "en": "1,206 drivers penalized for DUI in Kathmandu Valley crackdown",
-   "ne": "1,206 drivers penalized for DUI in Kathmandu Valley crackdown",
-   "link": "https://english.deshsanchar.com/1206-drivers-penalized-for-dui-in-kathmandu-valley-crackdown/",
-   "source": "Deshsanchar",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "crime"
-  },
   {
    "ts": 1793069456.1632962,
    "en": "Oli and Dahal move to extend UML-NCP alliance to next year's local and provincial polls",
@@ -6941,7 +6930,7 @@
    "cat": "education"
   }
  ],
- "updated": 1793672477,
+ "updated": 1793673071,
  "pending_since": 1793672035.9544437,
  "fb_blocks": [
   1790350880.4125228,
