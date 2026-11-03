@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://gorkhapatraonline.com/news/227966": 1793557248.6195574,
   "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTDZydjg4bmFXTzZFTXlJWWNFQXRoaFNiZXdhcXBmNGRSdzVPcGRibTJWWnZxQVhqeVVNekV6M3NkVFp6X19kejE5MG0yNjB1dVpLMms5NWhhRm5rUnkyTVJJcVJjakdpUWI0Z1FnMHFpRTVydUdSZHplYnR6bEkxWThMZm9RTFJCbE1lWXU0Wk9VOC14NzFHNElfSGxKUHhGLXd6Mnk5bG16UjQwZUJHWW9qV0Q0dDFhZ0t0TnJ4WEVFczJCdVZVQVd3R2FRcGJf?oc=5": 1793558449.6191473,
   "https://gorkhapatraonline.com/news/227967": 1793558449.6191473,
   "https://baahrakhari.com/detail/506313": 1793558449.6191473,
@@ -2317,7 +2316,8 @@
   "https://news.google.com/rss/articles/CBMitAFBVV95cUxNS1ZSRUJwS0tpdGVkZmRQa3l6RWk2NnMyUWtjODZaeVJkbXFobG42UURGRVAwSWFDMmRIM2ZzSk81ajZQTWVsNk9iYlJXazQ3QTlVVkdQdUhuMVp6RGVJcnUyME9wLWQ2S19neUJkdGdUWFlxLW5RUXVzamZ3TUt6TVJhMWE2SXpNZENRdm55emJjUm1JbEpNc0xtVWhuM1FCbDA0TlA3MGRzb25KY3ZRZ3BPYVTSAbQBQVVfeXFMTUtWUkVCcEtLaXRlZGZkUGt5ekVpNjZzMlFrYzg2WnlSZG1xaGxuNlFERkVQMElhQzJkSDNmc0pPNWo2UE1lbDZPYmJSV2s0N0E5VVZHUHVIbjFaekRlSXJ1MjBPcC1kNktfZ3lCZHRnVFhZcS1uUVF1c2pmd01Lek1SYTFhNkl6TWRDUXZueXpiY1JtSWxKTXNMbVVobjNRQmwwNE5QNzBkc29uSmN2UWdwT2FU?oc=5": 1793728893.2628536,
   "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMWV0QUk4X1pnQThOTGxlbU9GamFoaTNXVTh1aUZXaXpUbk1xZDliLUhiQlU4b0MxV01YdWhFbG9iUUtpZXJMTUh3X05RdmR5a3NqMUYzLURGbFFCc0dSdFZWQ0NlRElfUW1kUWVmSTVqN0pEbjZHVW5kSExyM0FDSzgxOFBjcU5FaUwwblFPUUtnWm5qd2s0NWpmUnNKSWFpY284?oc=5": 1793728893.2628536,
   "https://gorkhapatraonline.com/news/228208": 1793728893.2628536,
-  "https://theannapurnaexpress.com/story/68489": 1793729461.2364752
+  "https://theannapurnaexpress.com/story/68489": 1793729461.2364752,
+  "https://baahrakhari.com/detail/506513": 1793730057.4162652
  },
  "queue": [
   {
@@ -3907,7 +3907,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "पत्रकार पक्राउबारे सरकार : प्रहरीले सोधपुछ मात्र गरेको हो, गिरफ्तार गरेको होइन",
@@ -4363,28 +4363,6 @@
     "Spain"
    ],
    "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Pandey appointed as Lumbini Development Trust Member-Secretary",
-   "summary": "The government has appointed engineer Santosh Pandey as Member-Secretary of Lumbini Development Trust. Issuing a press release, the Ministry of Culture, Tourism and Civil Aviation shared that Pandey was appointed to the...",
-   "link": "https://theannapurnaexpress.com/story/68485",
-   "source": "Annapurna Express",
-   "ts": 1793701254.1737514,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Pandey appointed as Lumbini Development Trust Member-Secretary",
-   "en": "Pandey appointed as Lumbini Development Trust Member-Secretary",
-   "ne": "Pandey appointed as Lumbini Development Trust Member-Secretary",
-   "imp": 2,
-   "tags": [
-    "LumbiniDevelopmentTrust",
-    "Pandey"
-   ],
-   "cat": "politics",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -8955,7 +8933,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1793729465,
+ "updated": 1793730060,
  "pending_since": 1793729461.2364752,
  "fb_blocks": [
   1790350880.4125228,
