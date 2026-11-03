@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://baahrakhari.com/detail/506307": 1793548874.2764747,
   "https://risingnepaldaily.com/news/88300": 1793549447.5932612,
   "https://gorkhapatraonline.com/news/227958": 1793549447.5932612,
   "https://gorkhapatraonline.com/news/227960": 1793550045.9285781,
@@ -2305,31 +2304,10 @@
   "https://kathmandupost.com/politics/2026/11/03/deuba-faction-steps-up-preparations-for-parallel-nepali-congress-convention": 1793721049.8626082,
   "https://nagariknews.nagariknetwork.com/education/tribhuvan-university-delivering-certificates-to-students-through-postal-service-br-43-99.html": 1793721049.8626082,
   "https://nagariknews.nagariknetwork.com/technology/over-68-000-applications-received-for-ai-training-aimed-at-2-000-people-90-60.html": 1793721049.8626082,
-  "https://nagariknews.nagariknetwork.com/social-affairs/udayapur-jail-capacity-60-inmates-232-16-20.html": 1793721049.8626082
+  "https://nagariknews.nagariknetwork.com/social-affairs/udayapur-jail-capacity-60-inmates-232-16-20.html": 1793721049.8626082,
+  "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRXZBbXZhZmNZUEFLVkFRYmFMWmc5UG5ZRkFtWmRlNzM1dXcxWUF1U2lnR0Z3bjVkTTVaSnFLQjNKcjFwU1d1cDJmSnI0UUVPb2NnSjBlanlqd0RrYW1Xc2cwcEtZR192Ti0tdlRmZUlxMWVIMzFVTEFfWk1wbThqZDhqbFpPWmNWVExJNDhhbVdMdzRRTTZJVUxQT2RTY0J4M3ZZLWpZZmpLUdIBrwFBVV95cUxPOUJCTjMxM201SjZpeVF0ZVpiTXdqa2p3ZUQwNzk5M0VLYm5kSDU0STFMNTlHZFlYZkhzTGd4M2dmUXBEeVRJQzdCU3dNUWIyZXBZa29xcFY4MDl5S3hBaDdSVlRyYWFJTXJJSXNvZDNnYmlpZmlGNkhPSE5Pa1RVZkUtamtxSkc3MUs5eHEwTkVxSHU5Q1JsdUQyemg5bXhjWHNmTGVYcnlJdHFUM1dV?oc=5": 1793721689.4130855
  },
  "queue": [
-  {
-   "title": "Indian national killed in Solukhumbu helicopter collision identified",
-   "summary": "SOLUKHUMBU: The identities of the Indian national killed and two others injured in a collision between two helicopters at Pheriche in Khumbu Pasanglhamu Rural Municipality-4, Solukhumbu, on Tuesday morning have been...",
-   "link": "https://english.khabarhub.com/2026/03/574273/",
-   "source": "Khabarhub EN",
-   "ts": 1793692862,
-   "weight": 2,
-   "img": "https://english.khabarhub.com/wp-content/uploads/2026/11/heli-accident1-400x220.jpg",
-   "lang": "en",
-   "hl": "Indian national killed in Solukhumbu helicopter collision identified",
-   "en": "Indian national killed in Solukhumbu helicopter collision identified",
-   "ne": "Indian national killed in Solukhumbu helicopter collision identified",
-   "imp": 2,
-   "tags": [
-    "HelicopterCrash",
-    "Solukhumbu"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 40
-  },
   {
    "title": "Mustang records surge in tourist arrivals",
    "summary": "MUSTANG: A total of 285,616 foreign tourists visited Mustang district in the first ten months of 2026, reflecting a significant increase compared to the number of visitors recorded throughout 2025. According to the...",
@@ -4093,7 +4071,7 @@
    "cat": "disaster",
    "val": 3,
    "teaser": false,
-   "hits": 20
+   "hits": 21
   },
   {
    "title": "Govt says it did not fully approve police action inside newsroom",
@@ -4552,28 +4530,6 @@
     "Kathmandu"
    ],
    "cat": "culture",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "परराष्ट्रमन्त्री खनालसँग युरोपेली सङ्घका नवनियुक्त राजदूतको भेटवार्ता",
-   "summary": "परराष्ट्रमन्त्री शिशिर खनालसँग नेपालका लागि युरोपेली सङ्घ (इयू)का नवनियुक्त राजदूत चाल्र्स ह्वाइटलीले शिष्टाचार भेटवार्ता गरेका छन् ।सिंहदरबारस्थित परराष्ट्र मन्त्रालयमा आज भएको सो भेटवार्तामा खनालले राजदूत ह्वाइटलीलाई...",
-   "link": "http://lokaantar.com/story/332507/2026/11/3/meeting-",
-   "source": "Lokaantar",
-   "ts": 1793692250.4146848,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "परराष्ट्रमन्त्री खनालसँग युरोपेली सङ्घका नवनियुक्त राजदूतको भेटवार्ता",
-   "en": "परराष्ट्रमन्त्री खनालसँग युरोपेली सङ्घका नवनियुक्त राजदूतको भेटवार्ता",
-   "ne": "परराष्ट्रमन्त्री खनालसँग युरोपेली सङ्घका नवनियुक्त राजदूतको भेटवार्ता",
-   "imp": 3,
-   "tags": [
-    "ForeignMinistry",
-    "Diplomacy"
-   ],
-   "cat": "world",
    "val": 2,
    "teaser": false,
    "hits": 1
@@ -5920,29 +5876,6 @@
    "hits": 1
   },
   {
-   "title": "नेपालको 'एलडीसी ग्रेजुएसन' : आठ वर्षको तयारीपछि कार्यान्वयनको अवसर",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/506483",
-   "source": "Baahrakhari",
-   "ts": 1793715130,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "नेपालको 'एलडीसी ग्रेजुएसन' : आठ वर्षको तयारीपछि कार्यान्वयनको अवसर",
-   "en": "नेपालको 'एलडीसी ग्रेजुएसन' : आठ वर्षको तयारीपछि कार्यान्वयनको अवसर",
-   "ne": "नेपालको 'एलडीसी ग्रेजुएसन' : आठ वर्षको तयारीपछि कार्यान्वयनको अवसर",
-   "imp": 4,
-   "tags": [
-    "LDCGraduation",
-    "NepalEconomy",
-    "अर्थतन्त्र"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Lumbini Lions dismantle Pokhara Avengers in emphatic NPL victory",
    "summary": "Kathmandu, November 3 Lumbini Lions delivered a commanding all-round performance to dismantle Pokhara Avengers, bowling them out for just 97 before cruising to an eight-wicket victory in the Nepal Premier League (NPL)...",
    "link": "https://english.onlinekhabar.com/lumbini-lions-destroy-pokhara-avengers.html",
@@ -6838,17 +6771,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1793116296.3396964,
-   "en": "Koshi Province forms probe committee for Saptakoshi jetboat accident with 7-day deadline",
-   "ne": "Koshi Province forms probe committee for Saptakoshi jetboat accident with 7-day deadline",
-   "link": "https://myrepublica.nagariknetwork.com/news/koshi-province-forms-probe-committee-into-saptakoshi-jetboat-accident-sets--82-81.html",
-   "source": "myRepublica",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "disaster"
-  },
   {
    "ts": 1793118059.598374,
    "en": "मंगलबार नेप्से ०.९४ अंकले बढ्यो, ५ अर्ब ७९ करोडको सेयर कारोबार",
@@ -9950,10 +9872,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "politics"
+  },
+  {
+   "ts": 1793721717.8966541,
+   "en": "नेपाललाई विकासशील मुलुकमा स्तरोन्नति हुन थप तीन वर्ष समय थप",
+   "ne": "नेपाललाई विकासशील मुलुकमा स्तरोन्नति हुन थप तीन वर्ष समय थप",
+   "link": "https://baahrakhari.com/detail/506483",
+   "source": "Baahrakhari",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "economy"
   }
  ],
- "updated": 1793721079,
- "pending_since": null,
+ "updated": 1793721733,
+ "pending_since": 1793721689.4130855,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
