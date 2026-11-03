@@ -1,8 +1,5 @@
 {
  "seen": {
-  "https://english.onlinekhabar.com/six-indian-tourists-missing-in-dolpa.html": 1793498475.5359032,
-  "http://lokaantar.com/story/332309/2026/11/1/forex-": 1793498475.5359032,
-  "https://english.onlinekhabar.com/russell-shines-as-biratnagar.html": 1793498475.5359032,
   "https://www.setopati.com/sports/npl/401726": 1793499046.4551315,
   "http://lokaantar.com/story/332312/2026/11/1/congress-": 1793499046.4551315,
   "https://english.khabarhub.com/2026/01/573894/": 1793499648.841869,
@@ -2044,29 +2041,6 @@
    "hits": 2
   },
   {
-   "title": "परराष्ट्रमन्त्री खनालसँग नेपालका लागि बेलायती राजदूत फेनको भेटवार्ता",
-   "summary": "काठमाडौँ, कात्तिक १६ गते । परराष्ट्रमन्त्री शिशिर खनालसँग नेपालका लागि संयुक्त अधिराज्य बेलायतका राजदूत रब फेनले शिष्टाचार भेटवार्ता गर्नुभएको छ । परराष्ट्र मन्त्रालयमा आज भएको भेट...",
-   "link": "https://gorkhapatraonline.com/news/228085",
-   "source": "Gorkhapatra",
-   "ts": 1793642333,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/390092/conversions/bhishma--original.jpg",
-   "lang": "ne",
-   "hl": "परराष्ट्रमन्त्री खनालसँग नेपालका लागि बेलायती राजदूत फेनको भेटवार्ता",
-   "en": "परराष्ट्रमन्त्री खनालसँग नेपालका लागि बेलायती राजदूत फेनको भेटवार्ता",
-   "ne": "परराष्ट्रमन्त्री खनालसँग नेपालका लागि बेलायती राजदूत फेनको भेटवार्ता",
-   "imp": 2,
-   "tags": [
-    "ForeignMinister",
-    "UKAmbassador",
-    "Diplomacy"
-   ],
-   "cat": "politics",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Basanta Khatiwada at LeukO 2026: The Barriers Between Leukemia Treatment and Cure in Nepal",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5DNWIwVk1MRVBTY0pWZU5iN0FBLXdiel80cENSdVVXbThna245Y2Z2eUpmMVhXUnhYRUR6X2J3OWNjWVRsY2Yxd3gxcGQtTS14SUlZNHlBRkEySU9JVGp3TmdoX2Q4bjg?oc=5",
@@ -2178,29 +2152,6 @@
    "cat": "world",
    "val": 2,
    "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Nepal to Bangladesh: What Lies Ahead for Loss and Damage at COP31?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ya1pqMGFNeEdSbVpTc1JyRER2TjVqcjFGbm9uZGJySXZBQkVfNzZCV3MwZDFmVDlKcWk4dF9JNlhfeTJLR0Q3bV92SDZrd25XeXkteg?oc=5",
-   "source": "Daily Sun",
-   "ts": 1793642400,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Nepal to Bangladesh: What Lies Ahead for Loss and Damage at COP31?",
-   "en": "Nepal to Bangladesh: What Lies Ahead for Loss and Damage at COP31?",
-   "ne": "Nepal to Bangladesh: What Lies Ahead for Loss and Damage at COP31?",
-   "imp": 2,
-   "tags": [
-    "COP31",
-    "LossAndDamage",
-    "Bangladesh"
-   ],
-   "cat": "world",
-   "val": 1,
-   "teaser": true,
    "hits": 1
   },
   {
@@ -3455,17 +3406,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1793065853.9507008,
-   "en": "नेपाल आयल निगमद्वारा एलपी ग्यास बिक्री गर्दा अनिवार्य भ्याट बिल जारी गर्न निर्देशन",
-   "ne": "नेपाल आयल निगमद्वारा एलपी ग्यास बिक्री गर्दा अनिवार्य भ्याट बिल जारी गर्न निर्देशन",
-   "link": "http://lokaantar.com/story/331984/2026/10/27/gas-",
-   "source": "Lokaantar",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "economy"
-  },
   {
    "ts": 1793067656.7172015,
    "en": "1,206 drivers penalized for DUI in Kathmandu Valley crackdown",
@@ -6580,7 +6520,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1793670667,
+ "updated": 1793671283,
  "pending_since": 1793670049.323052,
  "fb_blocks": [
   1790350880.4125228,
