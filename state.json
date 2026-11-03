@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://gorkhapatraonline.com/news/227968": 1793577047.7442877,
   "http://english.ratopati.com/story/85380/weather-partially-changes-due-to-the-influence-of-westerly-winds-snowfall-in-high-mountainous-areas": 1793577677.999933,
   "https://risingnepaldaily.com/news/88302": 1793577677.999933,
   "https://news.google.com/rss/articles/CBMijwFBVV95cUxNekVsNW5ZMDhzc2lsR1Jja3JYU2l6NTFwTWdud194N3liSjM2UjFfQUNZNmp6WUtEWnhDTEJKX1hFN0FISE5DM25Xc0pSNVNUb1dsd3dfSmM2aWdmenk2WU1sdFBoVjdlVzdiZzFhMmg4Y3dQTkJZRHFJU2hWcmtXRjNDTmgzT2h1c2Q2YTVGdw?oc=5": 1793577677.999933,
@@ -2341,29 +2340,6 @@
  },
  "queue": [
   {
-   "title": "क्रिप्टोमा नाम जोडिएपछि रुष्ट किम यो, भन्छिन् : अमेरिकाको दाबी 'बेतुका बयानबाजी' हो",
-   "summary": "विश्वकै ठुलो क्रिप्टोकरेन्सी एक्सचेन्ज बाइनान्सबाट छ अर्ब ३० करोड डलर बराबरको क्रिप्टोकरेन्सी चोरी भएको घटनामा उत्तर कोरियाको नाम जोडिएपछि नेता किम जोङ उनकी बहिनी किम यो जोङले अमेरिकाप्रति आक्रोश व्यक्त गरेकी छन्।...",
-   "link": "https://nagariknews.nagariknetwork.com/international/kim-yoo-furious-after-name-added-to-crypto-says-us-claim-is-absurd-rhetoric-26-90.html",
-   "source": "Nagarik News",
-   "ts": 1793720555,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1793720532_KIM%20Sister%20warn.jpg",
-   "lang": "ne",
-   "hl": "क्रिप्टोमा नाम जोडिएपछि रुष्ट किम यो, भन्छिन् : अमेरिकाको दाबी 'बेतुका बयानबाजी' हो",
-   "en": "क्रिप्टोमा नाम जोडिएपछि रुष्ट किम यो, भन्छिन् : अमेरिकाको दाबी 'बेतुका बयानबाजी' हो",
-   "ne": "क्रिप्टोमा नाम जोडिएपछि रुष्ट किम यो, भन्छिन् : अमेरिकाको दाबी 'बेतुका बयानबाजी' हो",
-   "imp": 1,
-   "tags": [
-    "KimYoJong",
-    "Crypto",
-    "USA"
-   ],
-   "cat": "world",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "हकदाबी गर्न कोही नआएपछि सवारी साधन भन्सारमा बुझाइयो",
    "summary": "दिपक गौतम वीरगञ्ज (पर्सा), कार्तिक १६ गते । पर्सा प्रहरीले बेवारिसे अवस्थामा फेला पारेको दुई वटा चारपाङ्ग्रे सवारी साधन हकदाबी गर्न कोहि नआएपछि प्रहरीले उक्त सवारी साधनलाई भन्सारमा...",
    "link": "https://gorkhapatraonline.com/news/228202",
@@ -2473,29 +2449,6 @@
     "Office"
    ],
    "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Nepali Congress president Gagan Thapa meets UML chair KP Oli at his residence",
-   "summary": "Kathmandu, November 3 Nepali Congress President Gagan Thapa met CPN-UML Chair KP Sharma Oli at his residence in Gundu on Tuesday evening. Thapa visited Oli's residence in Gundu and held a meeting with him for around an...",
-   "link": "https://english.onlinekhabar.com/gagan-thapa-meet-kp-oli.html",
-   "source": "Onlinekhabar EN",
-   "ts": 1793722503,
-   "weight": 3,
-   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/11/Oli-gagan-1024x500-1.jpg",
-   "lang": "en",
-   "hl": "Nepali Congress president Gagan Thapa meets UML chair KP Oli at his residence",
-   "en": "Nepali Congress president Gagan Thapa meets UML chair KP Oli at his residence",
-   "ne": "Nepali Congress president Gagan Thapa meets UML chair KP Oli at his residence",
-   "imp": 4,
-   "tags": [
-    "GaganThapa",
-    "KPOli",
-    "NepaliCongress"
-   ],
-   "cat": "politics",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -6368,9 +6321,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "society"
+  },
+  {
+   "ts": 1793749858.2339678,
+   "en": "Nepali Congress President Gagan Thapa meets UML Chair KP Oli in Gundu",
+   "ne": "Nepali Congress President Gagan Thapa meets UML Chair KP Oli in Gundu",
+   "link": "https://english.onlinekhabar.com/gagan-thapa-meet-kp-oli.html",
+   "source": "Onlinekhabar EN",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "politics"
   }
  ],
- "updated": 1793749253,
+ "updated": 1793749872,
  "pending_since": 1793748050.6471508,
  "fb_blocks": [
   1790350880.4125228,
