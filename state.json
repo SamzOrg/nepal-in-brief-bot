@@ -2061,29 +2061,6 @@
    "hits": 1
   },
   {
-   "title": "Nepal deserves its own place on the global education map",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTW1oOWl3VjRMRmV4WHlzM0dJTnJXS1l3UXBIU09NT2FmaFRNMWJyWENTdWJ2TVZHRTB1bnRZWUZKWkRmMFVoZlhuSlJraVdxcmR6eDdRTGZONHpvYU52YVpUX093ZHlaZXl1aHFDNkhMOHdock84OTJKa005eWhTaVhMckE4b3h5SHc?oc=5",
-   "source": "The Koala News",
-   "ts": 1793645110,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Nepal deserves its own place on the global education map",
-   "en": "Nepal deserves its own place on the global education map",
-   "ne": "Nepal deserves its own place on the global education map",
-   "imp": 2,
-   "tags": [
-    "Education",
-    "GlobalEducation",
-    "Nepal"
-   ],
-   "cat": "education",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Uganda Begins Troop Withdrawal from Somalia",
    "summary": "Kathmandu. Uganda has started withdrawing its troops deployed in Somalia. Uganda has been a major contributor to the international military...",
    "link": "http://english.ratopati.com/story/85488/uganda-begins-withdrawing-troops-from-somalia",
@@ -2377,29 +2354,6 @@
    "val": 2,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "आर्थिक प्रस्ताव खोल्नुअघि नै ठेक्काका कागजात फेर्ने ३ जना तीन जना पक्राउ",
-   "summary": "नेपाल प्रहरीले सरकारी खरिद प्रणालीमा अनधिकृत पहुँच पुर्‍याइ विभिन्न ठेक्काको विवरण हेरफेर गर्ने तीन जनालाई पक्राउ गरेको छ ।प्रहरीको साइबर ब्युरोले सार्वजनिक खरिद अनुगमन कार्यालय (पिपिएमओ) को इ-सरकारी खरिद प्रणालीमा...",
-   "link": "http://lokaantar.com/story/332451/2026/11/3/arrested-",
-   "source": "Lokaantar",
-   "ts": 1793652049.2467399,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "आर्थिक प्रस्ताव खोल्नुअघि नै ठेक्काका कागजात फेर्ने ३ जना तीन जना पक्राउ",
-   "en": "आर्थिक प्रस्ताव खोल्नुअघि नै ठेक्काका कागजात फेर्ने ३ जना तीन जना पक्राउ",
-   "ne": "आर्थिक प्रस्ताव खोल्नुअघि नै ठेक्काका कागजात फेर्ने ३ जना तीन जना पक्राउ",
-   "imp": 3,
-   "tags": [
-    "Corruption",
-    "Arrest",
-    "Contract"
-   ],
-   "cat": "crime",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "गाँजा तस्करी रोक्न प्रहरी निगरानी",
@@ -7335,10 +7289,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "education"
+  },
+  {
+   "ts": 1793674254.224667,
+   "en": "आर्थिक प्रस्ताव खोल्नुअघि नै ठेक्काका कागजात फेर्ने ३ जना तीन जना पक्राउ",
+   "ne": "आर्थिक प्रस्ताव खोल्नुअघि नै ठेक्काका कागजात फेर्ने ३ जना तीन जना पक्राउ",
+   "link": "http://lokaantar.com/story/332451/2026/11/3/arrested-",
+   "source": "Lokaantar",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "crime"
   }
  ],
- "updated": 1793673673,
- "pending_since": null,
+ "updated": 1793674265,
+ "pending_since": 1793674246.7876291,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
