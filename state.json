@@ -2273,7 +2273,10 @@
   "http://english.ratopati.com/story/85610/north-korea-launches-missile": 1793775045.1603494,
   "https://english.onlinekhabar.com/132000-tourists-arrive-in-month.html": 1793775685.206149,
   "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPazZENDRTQWQyVE51OTFVanBKenI1NGhYZ19fMU5nYzkxTU9PUHFnbjFocHkwaGItbmg1SXNUbTBybEhHWnVGQnFGYWEtT0RoZkFRU09VaWJLaUhJbDhBOWdUeFFkMnNzWXR6VUNWNjE1blJjb1hDSGRLRm9ZZUhZN0JKZWkxX0c4WGdtRTkwM2FUQTJzTEctdkZuYTdnUmk4Rm16YlNWeTU2Ympva2UtR25zOVRXSmFRbDRz?oc=5": 1793775685.206149,
-  "https://kathmandupost.com/cricket/2026/11/04/south-africa-s-david-miller-arrives-to-join-karnali-yaks": 1793775685.206149
+  "https://kathmandupost.com/cricket/2026/11/04/south-africa-s-david-miller-arrives-to-join-karnali-yaks": 1793775685.206149,
+  "https://gorkhapatraonline.com/news/228270": 1793776244.962705,
+  "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeDNkQkViQ0ZuWU9QNkUtMDZqdkFaay1WV1N3Qk1kZEVkWmVXZDlQRXlJZ1otbWExaklxSUlhTWZkTzRYTTFJU1hpTzZneGRSWWdPY295bVlXdEYxM1ZyZGx6YXJnVklMSGNaTkRTZVBWREN1VEN1YnhDbGpzMWN5UTc3SnZiZU9OTEJ5c2VTeTRxdw?oc=5": 1793776244.962705,
+  "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbHVMTW5qWEw1cmRxdHJyZ1FKU3F3SWRQb19Ob09sdXQzcEZ1Y2dWeC1qWXljaXgxVUg4dTJub0RhOWQ2S1dZemVQNGNlbk8zWFFZTGVoVGpRQnBzOWczWVhqamNyelR6MFBqOUlfTmZXQWM3YUl2ZUFrdEhTZElUcGxyMF9LSlIzSnJwYVdEWkQ5M2p2VXNZTThzSzJUUlBfTXpBZ2xvV1lvY2ZZTG5jNDR5S2tZc3VLYnViTldZN1pDUzJhazVSQXlwRVM3UlVxTm43SHI4UHJOZw?oc=5": 1793776244.962705
  },
  "queue": [
   {
@@ -5937,7 +5940,7 @@
    "cat": "world",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "देउवा समूहले यमुना विश्वकर्मालाई बनायो दलित संघ अध्यक्ष",
@@ -7062,17 +7065,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1793170895.9763308,
-   "en": "Herd of 20-25 wild elephants kills 26-year-old man in Itahari",
-   "ne": "Herd of 20-25 wild elephants kills 26-year-old man in Itahari",
-   "link": "https://myrepublica.nagariknetwork.com/amp/news/encroachment-on-elephant-corridors-fuels-rising-human-elephant-conflict-21-66.html",
-   "source": "myRepublica",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "society"
-  },
   {
    "ts": 1793172674.080204,
    "en": "Insurance Claims for Flood Damage Reach NPR 21 Billion",
@@ -10165,7 +10157,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1793775688,
+ "updated": 1793776251,
  "pending_since": 1793775685.206149,
  "fb_blocks": [
   1790350880.4125228,
