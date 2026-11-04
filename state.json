@@ -2294,7 +2294,8 @@
   "https://gorkhapatraonline.com/news/228229": 1793760649.3070252,
   "https://gorkhapatraonline.com/news/228228": 1793760649.3070252,
   "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbmx0THRvQXBWTTNJa3ZER0hPTGdtQ2VEMXBqLTFxSjBqWThIU2FqS012VTJjZVlUUFV4MGhRLTZPZnBULURqeUlXcG9XS0VXc1VGdnpiVlhxVTYzUFYxTEZYbEZDdWtOVWx3cWt6SGVxUE1LSEJlR1dIQllKSC02dnVidVQtNkF1eFZXZjlDOF8wS0NicHg0bmRvY2R1emh4c3FiUUJOWENDQ2ZZcHJLV0ttVzB0SEJCNVZXanE3U2d5T3FWN0JWZmFGVTlaWkk?oc=5": 1793761286.452981,
-  "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRkR6ODNhT1FvYW55X3Z1Z3RvYlQzNTNZbUtNcnpUVHFtMS1nQ1hKc3g0YnozQVNnOXc5azZzRFd2Z1RMd3lLYnVOMmZuZHI2R3RURzVqcnBDcFkzSVFneUJLTFN1bWFGbGhld0F4RlBFWi1JZVlrZ2JVQ29QNzdRNGNQSnR4Wm4yQlc1MEY2WENMbjR0YVRUNnJNUDNqWnRGb2dXNw?oc=5": 1793761847.8678145
+  "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRkR6ODNhT1FvYW55X3Z1Z3RvYlQzNTNZbUtNcnpUVHFtMS1nQ1hKc3g0YnozQVNnOXc5azZzRFd2Z1RMd3lLYnVOMmZuZHI2R3RURzVqcnBDcFkzSVFneUJLTFN1bWFGbGhld0F4RlBFWi1JZVlrZ2JVQ29QNzdRNGNQSnR4Wm4yQlc1MEY2WENMbjR0YVRUNnJNUDNqWnRGb2dXNw?oc=5": 1793761847.8678145,
+  "https://risingnepaldaily.com/news/88376": 1793761952.616829
  },
  "queue": [
   {
@@ -4260,6 +4261,28 @@
    "cat": "disaster",
    "val": 1,
    "teaser": true,
+   "hits": 1
+  },
+  {
+   "title": "Flood risk persists after southwest storms",
+   "summary": "New York, Nov. 4: The skies were clearing, but the risk of flooding remained over parts of the U.S. Southwest after powe...",
+   "link": "https://risingnepaldaily.com/news/88376",
+   "source": "Rising Nepal",
+   "ts": 1793761823,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "Flood risk persists after southwest storms",
+   "en": "Flood risk persists after southwest storms",
+   "ne": "Flood risk persists after southwest storms",
+   "imp": 3,
+   "tags": [
+    "FloodRisk",
+    "SouthwestStorms"
+   ],
+   "cat": "disaster",
+   "val": 2,
+   "teaser": false,
    "hits": 1
   }
  ],
@@ -7378,7 +7401,7 @@
    "cat": "sports"
   }
  ],
- "updated": 1793761851,
+ "updated": 1793761958,
  "pending_since": 1793761286.452981,
  "fb_blocks": [
   1790350880.4125228,
