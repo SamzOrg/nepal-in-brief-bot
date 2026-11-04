@@ -1,9 +1,5 @@
 {
  "seen": {
-  "http://english.ratopati.com/story/85469/david-malan-out": 1793623252.5458627,
-  "https://news.google.com/rss/articles/CBMib0FVX3lxTE00VHlpd3VwZ3daRjhKMm1QOUxFN0lFd1BjU2JoamRHTTRELURWZkVTMWFQeXdmbUpmNnlHcV9ieng4bWdaZEhhbUhtTGhXT3A5bFhSR09EcUMzN3JsVW13MEphOU15SmlTOVBUd2pVaw?oc=5": 1793623252.5458627,
-  "https://www.setopati.com/social/401862": 1793623252.5458627,
-  "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeXBBdVhsTGRWWUtRc2VvbktuUTVsSDNrZEEwRzJpcG9CZjdOM3NEelFSNjI1LV8xS01JdGcxb0FoWWhuMUtyd1F3NG1TZVg3c1Z4d2NwSkc2N1puLWFmbkx5TTE1bjVJZDRqNm5ITjRLSzd4OFhIQ2xhUmdMODZQMUI0TlYwUHBGcnZhTQ?oc=5": 1793623252.5458627,
   "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWXEyZUJCcDlkSkVXQzM2TDlCMzU5cnhrT3lIRFc3MmNtaUNwc0ltbTJ3OGw5RXZXVUdsdXZOUC1PLUtTZ19qYTFWSE5GbU82dEhCRGVyUzJLckdkRENVUUkwTW5laVY5dW9vWl9QLTJPWlRtckN3bHUtQlVSNmpZZFQ5Uy1qNDdzcC1aT0tzZDR5Y25BSWdXNldqNDhwcnpsazJEdUVBNmhXMlpreEZjMFBydEtxcTM3TkJyOURQZXJvR05mS2t3azJR?oc=5": 1793623848.9980984,
   "https://nagariknews.nagariknetwork.com/international/second-cyclone-hits-india-s-east-coast-heavy-rain-warning-49-47.html": 1793623848.9980984,
   "https://nagariknews.nagariknetwork.com/politics/gagan-s-response-to-the-prime-minister-many-people-have-come-to-scare-him-but-he-is-not-used-to-being-scared-44-40.html": 1793623848.9980984,
@@ -2306,7 +2302,9 @@
   "https://baahrakhari.com/detail/506585": 1793796044.6204734,
   "https://www.setopati.com/politics/402020": 1793796044.6204734,
   "http://english.ratopati.com/story/85675/innocent-police-officer-in-the-inam-case": 1793796044.6204734,
-  "http://english.ratopati.com/story/85673/bharatpur-metropolitan-citys-landfill-site-construction-complete-after-16-years": 1793796044.6204734
+  "http://english.ratopati.com/story/85673/bharatpur-metropolitan-citys-landfill-site-construction-complete-after-16-years": 1793796044.6204734,
+  "https://www.setopati.com/politics/402024": 1793796647.1867523,
+  "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOHFkQzh6V3g3d2RIWlNQSEZ4NHZsd3dEWjdNRFEzdjVqY2R6MnprQWhOV2RrcnJhbm1VQlRVVHY2QllEUEstRjV5ektncjhvcTdIX2V0bmxPUzVCQWhtVlp6QnJTZjVpSVZ1SHdSakdxTG1xaXVXUnVIa3RNRGs5ai1RcDg0LXZ0c0s5bkdRUjBwUEdYMjJZY3kzVkdfcUZTUnBUZjRfMVlmTHAzSzl2dlpPZkRpbGxLQzlDc3JMV3BHTEhwOXgwREFB?oc=5": 1793796647.1867523
  },
  "queue": [
   {
@@ -2590,30 +2588,6 @@
    ],
    "cat": "society",
    "val": 1,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Nepali Congress Kathmandu to Organize Sukunda Rally",
-   "summary": "Kathmandu. The Nepali Congress Kathmandu Metropolitan Committee is going to organize a 'Sukunda Rally' in Kathmandu on the eve of...",
-   "link": "http://english.ratopati.com/story/85596/congress-to-organize-sukunda-rally-on-the-eve-of-nepal-sambat",
-   "source": "Ratopati EN",
-   "ts": 1793767580,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/congress-flage_yfpsinwjgs_WJOoG2Mssn.webp",
-   "lang": "en",
-   "hl": "Nepali Congress Kathmandu to Organize Sukunda Rally",
-   "en": "Nepali Congress Kathmandu to Organize Sukunda Rally",
-   "ne": "Nepali Congress Kathmandu to Organize Sukunda Rally",
-   "imp": 2,
-   "tags": [
-    "NepaliCongress",
-    "Kathmandu",
-    "SukundaRally",
-    "नेपालीकांग्रेस"
-   ],
-   "cat": "politics",
-   "val": 3,
    "teaser": false,
    "hits": 1
   },
@@ -7015,7 +6989,7 @@
    "cat": "crime",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "कृषकहरुलाई अनुदानमा आलुको बिउ",
@@ -8044,7 +8018,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "सरकारका गलत क्रियाकलापमा कांग्रेसले तीखो निगरानी गर्छ : विश्वप्रकाश शर्मा",
@@ -11564,8 +11538,8 @@
    "cat": "health"
   }
  ],
- "updated": 1793796051,
- "pending_since": null,
+ "updated": 1793796653,
+ "pending_since": 1793796647.1867523,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
