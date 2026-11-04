@@ -2297,7 +2297,10 @@
   "https://gorkhapatraonline.com/news/228222": 1793758247.2940044,
   "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNFFKbWhSWTR5S25UT01SQnE4V1Jua044M19rZmJiYzRwRHphTU1GdFBIUi1ORXl2UUF1Y0NzNG00cDVuNzZuZzFjQ0doUTF5VUg1elRPdE02V0UxNFB1U1dub1ZrMnpjR190bnJIV2VWN0ZPbTRucURXYTlkQWlHS2d0XzR4dzgxaGdCWk92OE9paV92VWIzdTlYNE5xQThPNWRzR2N3R0hjUdIBrwFBVV95cUxNYjM2dnl3U1htTjMxc1ctcjBITTVMMXlXQlFCTjNPV2cxOXF6U3BmU2xSZHZRdHI1QTJRYTB6T1kyVVJ0Y2s3UlZQUm1ZS210UUozM0F3M09Sbk1QWU9pTXVwdjBNT3lGRkhnM0NGZU5ha1BuVDJ1R1hKbVR1M0REMkVMdFpZYnhDb2RUdlNSMVpQbHEwUXV5WGxSMFp1ci16M2dzVGhnQlNpTlVHZ3Qw?oc=5": 1793758848.9229784,
   "https://english.khabarhub.com/2026/04/574384/": 1793759466.9073954,
-  "https://nagariknews.nagariknetwork.com/politics/karnali-government-reforms-everything-from-staffing-to-contracts-br-36-32.html": 1793759466.9073954
+  "https://nagariknews.nagariknetwork.com/politics/karnali-government-reforms-everything-from-staffing-to-contracts-br-36-32.html": 1793759466.9073954,
+  "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNazdmQjYxSzBUcW5GSTQ4dmFQNFczUTZHamdieDdwNmJWSUowSmpFNzBidW9rSWo0V1QzaUhkaXViWUppZWVrY2JuOUJPamVneHh1VEdRY19LUmF0dWt3NzhDVXk4TlZ4RXZRTmNmdlJnQUpDTUZlSjVKbWk0UVBqS28yVWpGbjd1VkI1SjJYS05HSEJjdHpKQkJSVFBoWnVsTXo2YzU2Wkg5OFFWTDNPcVFleklwa0NZcUFDRzhVU1pzaGNncnV4dWdXOG95bGhoNG9FekNoSnVVc2txcU4xd1lkUUZZNkJXa0c1X0ZiRdIB7wFBVV95cUxNazdmQjYxSzBUcW5GSTQ4dmFQNFczUTZHamdieDdwNmJWSUowSmpFNzBidW9rSWo0V1QzaUhkaXViWUppZWVrY2JuOUJPamVneHh1VEdRY19LUmF0dWt3NzhDVXk4TlZ4RXZRTmNmdlJnQUpDTUZlSjVKbWk0UVBqS28yVWpGbjd1VkI1SjJYS05HSEJjdHpKQkJSVFBoWnVsTXo2YzU2Wkg5OFFWTDNPcVFleklwa0NZcUFDRzhVU1pzaGNncnV4dWdXOG95bGhoNG9FekNoSnVVc2txcU4xd1lkUUZZNkJXa0c1X0ZiRQ?oc=5": 1793760048.6463974,
+  "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbmIzMDJYV09HZFIzaVdwdXF1YWhmd0NUSnVOTU9GYnFGVW5iLS1RaWI4bVFlbnhGcU0tbHlDU28zWjlFMUY1OXlUbkpOcG9Lb3FmeG1NcFBOZWI0MUU4NlhCTzk0cWp0ejJRMnVMbFh3TTJRZWdRRXo3UkRxX2x4VENpMmtRMlgyczl0M3ByTGpvN3pM?oc=5": 1793760048.6463974,
+  "http://english.ratopati.com/story/85581/geological-study-of-flood-disaster-affected-areas": 1793760048.6463974
  },
  "queue": [
   {
@@ -3783,7 +3786,7 @@
    "cat": "world",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "कर्मचारी दरबन्दीदेखि ठेक्कासम्म सुधार गर्दै कर्णाली सरकार",
@@ -3964,6 +3967,29 @@
     "जनसङ्ख्या"
    ],
    "cat": "society",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Geological Study Conducted in Myagdi's Flood-Affected Areas",
+   "summary": "Myagdi. A geological study has been conducted in the landslide-affected areas of Jaljala Rural Municipality, adjacent to the district headquarters...",
+   "link": "http://english.ratopati.com/story/85581/geological-study-of-flood-disaster-affected-areas",
+   "source": "Ratopati EN",
+   "ts": 1793759441,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/H6yWJO8q2G.jpg",
+   "lang": "en",
+   "hl": "Geological Study Conducted in Myagdi's Flood-Affected Areas",
+   "en": "Geological Study Conducted in Myagdi's Flood-Affected Areas",
+   "ne": "Geological Study Conducted in Myagdi's Flood-Affected Areas",
+   "imp": 3,
+   "tags": [
+    "Myagdi",
+    "Flood",
+    "GeologicalStudy"
+   ],
+   "cat": "disaster",
    "val": 2,
    "teaser": false,
    "hits": 1
@@ -7084,7 +7110,7 @@
    "cat": "crime"
   }
  ],
- "updated": 1793759470,
+ "updated": 1793760055,
  "pending_since": 1793758848.9229784,
  "fb_blocks": [
   1790350880.4125228,
