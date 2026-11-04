@@ -2288,28 +2288,6 @@
    "hits": 1
   },
   {
-   "title": "Today's News in a Nutshell",
-   "summary": "KATHMANDU: Khabarhub brings you a glimpse of major developments of the day in Nepal, including politics, business/economy, sports, entertainment, and more. Manoj KC appointed Inspector General of Nepal Police The...",
-   "link": "https://english.khabarhub.com/2026/04/574387/",
-   "source": "Khabarhub EN",
-   "ts": 1793807429,
-   "weight": 2,
-   "img": "https://english.khabarhub.com/wp-content/uploads/2024/05/News-Nutshell-640x360.jpg",
-   "lang": "en",
-   "hl": "Today's News in a Nutshell",
-   "en": "Today's News in a Nutshell",
-   "ne": "Today's News in a Nutshell",
-   "imp": 1,
-   "tags": [
-    "NewsSummary",
-    "Nepal"
-   ],
-   "cat": "other",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
-  },
-  {
    "title": "आठ स्वास्थ्यकर्मीलाई विशिष्टीकृत जलन उपचार तालिम",
    "summary": "",
    "link": "https://baahrakhari.com/detail/506607",
@@ -2576,29 +2554,6 @@
     "PrimeMinister",
     "GaganThapa",
     "Government"
-   ],
-   "cat": "politics",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "कांग्रेस महामन्त्री भन्छन्- बिचौलियाको मोबाइल कुमार बेनले घरमा लगेर '१८ करोड' को म्यासेज थपे",
-   "summary": "नेपाली कांग्रेसका महामन्त्री उदय शमशेर राणाले प्रधानमन्त्रीका प्रमुख सल्लाहकार कुमार बेनले बिचौलियाको मोबाइल घरमा लगेर छेडखानी गरेको आरोप लगाएका छन्।...",
-   "link": "https://nagariknews.nagariknetwork.com/politics/congress-general-secretary-says-kumar-ben-took-the-middleman-s-mobile-home-and-added-a-message-of-18-crores-81-96.html",
-   "source": "Nagarik News",
-   "ts": 1793807108,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1793806828_01.png",
-   "lang": "ne",
-   "hl": "कांग्रेस महामन्त्री भन्छन्- बिचौलियाको मोबाइल कुमार बेनले घरमा लगेर '१८ करोड' को म्यासेज थपे",
-   "en": "कांग्रेस महामन्त्री भन्छन्- बिचौलियाको मोबाइल कुमार बेनले घरमा लगेर '१८ करोड' को म्यासेज थपे",
-   "ne": "कांग्रेस महामन्त्री भन्छन्- बिचौलियाको मोबाइल कुमार बेनले घरमा लगेर '१८ करोड' को म्यासेज थपे",
-   "imp": 3,
-   "tags": [
-    "NepaliCongress",
-    "GaganThapa",
-    "Corruption"
    ],
    "cat": "politics",
    "val": 2,
@@ -2908,30 +2863,6 @@
    "val": 3,
    "teaser": false,
    "hits": 2
-  },
-  {
-   "title": "India foreign secy Misri meets Nepal foreign minister, discusses bilateral ties",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQXNUYzRrd2RKR0VubEdwN3dDSkgxSEhsN2kxaV9BOVl5elJaRG05N080TWNYX2Y1NDdreUZWX0pxYW5MSl9wbnF2UGZ4VDVXdDVtSnJTSXFuWEF5Q0JfWWNFQ1dmLUduMl9pR3B1enpsaU1nY2YwUGNOY1hVbXNIcm1mcTFrcFhuTktxMUxQZjNHM0lZTmI0TzMxVlFxQjFVM1dFQmpFaU1JVzU4Q3JF0gGzAUFVX3lxTFBoeHdTdmkyU0tzLTFCR2JWMlBDYTFtbnAybTlTNjV1ZEg3YzRZbGtfd2g4TkxwWHgxWEJoYzFTTWJWam5lVHd4STF2ajVpd0ZGSG9FSXFZamJEWnp3bzhlU3FxTGF3ay14UVVOTmNWSldpeHpFREZKcWZLYXIyRDlGdVRQOXRsTmQ1dm1ZSktra0V2SEk3aG5EN094LV9iWG5Ba0pWRlpaVnZHaGtZdnlaT09F?oc=5",
-   "source": "Daily Excelsior",
-   "ts": 1793831947,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "India foreign secy Misri meets Nepal foreign minister, discusses bilateral ties",
-   "en": "India foreign secy Misri meets Nepal foreign minister, discusses bilateral ties",
-   "ne": "India foreign secy Misri meets Nepal foreign minister, discusses bilateral ties",
-   "imp": 3,
-   "tags": [
-    "India",
-    "ForeignSecretary",
-    "BilateralTies",
-    "परराष्ट्र"
-   ],
-   "cat": "politics",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
   },
   {
    "title": "Dharan's sukuti wins over meat lovers",
@@ -6058,9 +5989,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "politics"
+  },
+  {
+   "ts": 1793836250.43888,
+   "en": "India Foreign Secretary Vikram Misri Meets Nepal FM in Kathmandu",
+   "ne": "India Foreign Secretary Vikram Misri Meets Nepal FM in Kathmandu",
+   "link": "https://www.dailyexcelsior.com/india-foreign-secy-misri-meets-nepal-foreign-minister-discusses-bilateral-ties/",
+   "source": "Daily Excelsior",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "politics"
   }
  ],
- "updated": 1793835647,
+ "updated": 1793836264,
  "pending_since": 1793835642.2706807,
  "fb_blocks": [
   1790350880.4125228,
