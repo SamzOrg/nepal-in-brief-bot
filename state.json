@@ -2216,74 +2216,6 @@
  },
  "queue": [
   {
-   "title": "पछि हट्यो मन्त्रालय, 'पाँच पाण्डव'को टिम भन्छ- सिनेमा रिलिज हुने आश्वासन पायौँ",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/506610",
-   "source": "Baahrakhari",
-   "ts": 1793803080,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "पछि हट्यो मन्त्रालय, 'पाँच पाण्डव'को टिम भन्छ- सिनेमा रिलिज हुने आश्वासन पायौँ",
-   "en": "पछि हट्यो मन्त्रालय, 'पाँच पाण्डव'को टिम भन्छ- सिनेमा रिलिज हुने आश्वासन पायौँ",
-   "ne": "पछि हट्यो मन्त्रालय, 'पाँच पाण्डव'को टिम भन्छ- सिनेमा रिलिज हुने आश्वासन पायौँ",
-   "imp": 3,
-   "tags": [
-    "PaanchPandav",
-    "Movie",
-    "चलचित्र"
-   ],
-   "cat": "culture",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "Israel Election Commission Finds No Election Fraud",
-   "summary": "Kathmandu. Israel's Election Commission has stated that there was no rigging in the elections held last week. The commission's conclusion...",
-   "link": "http://english.ratopati.com/story/85681/commission-concludes-that-there-was-no-fraud-in-israels-election",
-   "source": "Ratopati EN",
-   "ts": 1793802892,
-   "weight": 2,
-   "img": "https://rpcdn.ratopati.com/media/albums/isreal-flag_RIT45ygPR0.jpg",
-   "lang": "en",
-   "hl": "Israel Election Commission Finds No Election Fraud",
-   "en": "Israel Election Commission Finds No Election Fraud",
-   "ne": "Israel Election Commission Finds No Election Fraud",
-   "imp": 1,
-   "tags": [
-    "Israel",
-    "Election"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "तिहारमा कुन दिन कस्तो रहनेछ मौसम ?",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/506599",
-   "source": "Baahrakhari",
-   "ts": 1793802790,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "तिहारमा कुन दिन कस्तो रहनेछ मौसम ?",
-   "en": "तिहारमा कुन दिन कस्तो रहनेछ मौसम ?",
-   "ne": "तिहारमा कुन दिन कस्तो रहनेछ मौसम ?",
-   "imp": 2,
-   "tags": [
-    "Tihar",
-    "Weather",
-    "Kuru"
-   ],
-   "cat": "society",
-   "val": 1,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "खोलामा कार खस्दा एकजनाको मृत्यु",
    "summary": "",
    "link": "https://baahrakhari.com/detail/506605",
@@ -2568,28 +2500,6 @@
    "cat": "world",
    "val": 1,
    "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "हुण्डी कारोबारी खोज्दै प्रहरी: साढे ४४ लाखभन्दा बढी नगदसहित दुई पक्राउ",
-   "summary": "नेपाल-भारत सीमा क्षेत्रबाट अवैध रूपमा सञ्चालन भइरहेको हुन सक्ने हुण्डी कारोबारको अनुसन्धानका क्रममा रौतहट प्रहरीले स्रोत नखुलेको ४४ लाख ६४ हजार ६०५ रुपैयाँ नगदसहित दुई जनालाई पक्राउ गरेको छ।...",
-   "link": "https://nagariknews.nagariknetwork.com/Aparadh/police-searching-for-hundi-traders-two-arrested-with-over-rs-4-4-million-in-cash-56-45.html",
-   "source": "Nagarik News",
-   "ts": 1793802788,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1793802772_Note.jpg",
-   "lang": "ne",
-   "hl": "हुण्डी कारोबारी खोज्दै प्रहरी: साढे ४४ लाखभन्दा बढी नगदसहित दुई पक्राउ",
-   "en": "हुण्डी कारोबारी खोज्दै प्रहरी: साढे ४४ लाखभन्दा बढी नगदसहित दुई पक्राउ",
-   "ne": "हुण्डी कारोबारी खोज्दै प्रहरी: साढे ४४ लाखभन्दा बढी नगदसहित दुई पक्राउ",
-   "imp": 3,
-   "tags": [
-    "HoundTrader",
-    "PoliceArrest"
-   ],
-   "cat": "crime",
-   "val": 3,
-   "teaser": false,
    "hits": 1
   },
   {
@@ -6479,7 +6389,7 @@
    "cat": "politics"
   }
  ],
- "updated": 1793831467,
+ "updated": 1793832045,
  "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
