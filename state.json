@@ -2215,73 +2215,6 @@
  },
  "queue": [
   {
-   "title": "भय र भ्रमको शासन बन्द गर्न सरकारलाई कांग्रेसको आग्रह",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/506598",
-   "source": "Baahrakhari",
-   "ts": 1793800755,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "भय र भ्रमको शासन बन्द गर्न सरकारलाई कांग्रेसको आग्रह",
-   "en": "भय र भ्रमको शासन बन्द गर्न सरकारलाई कांग्रेसको आग्रह",
-   "ne": "भय र भ्रमको शासन बन्द गर्न सरकारलाई कांग्रेसको आग्रह",
-   "imp": 3,
-   "tags": [
-    "NepaliCongress",
-    "Government",
-    "पहिरो"
-   ],
-   "cat": "politics",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Supreme Court Orders Government to Draft Regulations for Cannabis Use",
-   "summary": "Kathmandu. Years have passed since the voice demanding legal recognition for cannabis cultivation in Nepal began to rise. This issue,...",
-   "link": "http://english.ratopati.com/story/85680/years-of-effort-now-on-the-legal-path",
-   "source": "Ratopati EN",
-   "ts": 1793800641,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/gaja-kheti_fZKvR1noKw.webp",
-   "lang": "en",
-   "hl": "Supreme Court Orders Government to Draft Regulations for Cannabis Use",
-   "en": "Supreme Court Orders Government to Draft Regulations for Cannabis Use",
-   "ne": "Supreme Court Orders Government to Draft Regulations for Cannabis Use",
-   "imp": 4,
-   "tags": [
-    "SupremeCourt",
-    "Cannabis",
-    "Nepal"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "नेपाल प्रत्यायन केन्द्र औपचारिक सञ्चालनमा",
-   "summary": "गोरखापत्र समाचारदाताकाठमाडौँ, कात्तिक १८ गते । नेपाली उद्योगहरूलाई प्रतिस्पर्धी बनाउनुका साथै उपभोक्तालाई गुणस्तरीय र सुरक्षित वस्तु तथा सेवा सुनिश्चित गर्ने उद्देश्यले स्थापित 'ने...",
-   "link": "https://gorkhapatraonline.com/news/228316",
-   "source": "Gorkhapatra",
-   "ts": 1793800580,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/390445/conversions/3e0853cd-a8ef-40bd-a5c0-559accdbae14-(1)-original.jpg",
-   "lang": "ne",
-   "hl": "नेपाल प्रत्यायन केन्द्र औपचारिक सञ्चालनमा",
-   "en": "नेपाल प्रत्यायन केन्द्र औपचारिक सञ्चालनमा",
-   "ne": "नेपाल प्रत्यायन केन्द्र औपचारिक सञ्चालनमा",
-   "imp": 3,
-   "tags": [
-    "NepalAccreditationCentre"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "पछि हट्यो मन्त्रालय, 'पाँच पाण्डव'को टिम भन्छ- सिनेमा रिलिज हुने आश्वासन पायौँ",
    "summary": "",
    "link": "https://baahrakhari.com/detail/506610",
@@ -2662,29 +2595,6 @@
    "val": 3,
    "teaser": false,
    "hits": 3
-  },
-  {
-   "title": "Removing IGP Karki is gross abuse of state power: RPP lawmaker Shahi",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNazRsSnQwUktTdGt2c1FKbEFPMUZwZFI5MlRLSnBIQV92LUlSV2FHdVptMWE3V1YxSTdvbTc2OVpUZXNZdEZjVGk3QmVvRW1aV0gzQk5CUEpyanhaRmk0WUI3WUFDYmJjNnlpS3FsNFpUQnpNZENsM1NvOU1vOVR5Qnp6WUFxanRqX3NqdUlMMGFGajRaNU9fVWZpY2JvZHp6SFRKT3pmQld4Y2VoRkpYaERjQWkzUGZzN3VvemZlVVBuYXRz?oc=5",
-   "source": "myRepublica",
-   "ts": 1793800313,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Removing IGP Karki is gross abuse of state power: RPP lawmaker Shahi",
-   "en": "Removing IGP Karki is gross abuse of state power: RPP lawmaker Shahi",
-   "ne": "Removing IGP Karki is gross abuse of state power: RPP lawmaker Shahi",
-   "imp": 4,
-   "tags": [
-    "IGPKarki",
-    "RPP",
-    "Abuse"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
   },
   {
    "title": "कांग्रेस महामन्त्री राणाको चुनौती- सरकारले जसलाई अनुसन्धान गर्न चाहन्छ गरोस्, हामी डराउँदैनौं",
@@ -6750,7 +6660,7 @@
    "cat": "culture"
   }
  ],
- "updated": 1793829044,
+ "updated": 1793829682,
  "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
