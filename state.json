@@ -2261,50 +2261,6 @@
    "hits": 1
   },
   {
-   "title": "सडक छेउमा फुलेको फूल",
-   "summary": "सन्तोष सुवेदीपाख्रीबास, (धनकुटा) कात्तिक १८ गते । धनकुटा नगरपालिका-४, देव्रेबासस्थित सडक छेउमा फुलेको पहेँलो फूल यतिबेला सबैको रोजाइमा पर्न थालेको छ । सडक छेउमा फुलेको फूलले सौन्दर...",
-   "link": "https://gorkhapatraonline.com/news/228312",
-   "source": "Gorkhapatra",
-   "ts": 1793802589,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/390448/conversions/DSC04207-original.jpg",
-   "lang": "ne",
-   "hl": "सडक छेउमा फुलेको फूल",
-   "en": "सडक छेउमा फुलेको फूल",
-   "ne": "सडक छेउमा फुलेको फूल",
-   "imp": 1,
-   "tags": [
-    "Flowers"
-   ],
-   "cat": "culture",
-   "val": 1,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "त्रियुगा गोल्डकपः सातदोबाटो युथ क्लब फाइनलमा",
-   "summary": "उदयपुरमा जारी 'त्रियुगा अन्तर्राष्ट्रिय आमन्त्रण गोल्डकप फुटबल प्रतियोगिता'मा सातदोबाटो युथ क्लब, ललितपुर फाइनलमा प्रवेश गरेको छ।...",
-   "link": "https://nagariknews.nagariknetwork.com/sports/triyuga-gold-cup-satdobato-youth-club-in-the-finals-26-18.html",
-   "source": "Nagarik News",
-   "ts": 1793802559,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1793802532_Pratap%20Rai.png",
-   "lang": "ne",
-   "hl": "त्रियुगा गोल्डकपः सातदोबाटो युथ क्लब फाइनलमा",
-   "en": "त्रियुगा गोल्डकपः सातदोबाटो युथ क्लब फाइनलमा",
-   "ne": "त्रियुगा गोल्डकपः सातदोबाटो युथ क्लब फाइनलमा",
-   "imp": 2,
-   "tags": [
-    "TriyugaGoldCup",
-    "SatdobatoYouthClub",
-    "Football"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "तिहारमा कुन दिन कस्तो रहनेछ मौसम ?",
    "summary": "",
    "link": "https://baahrakhari.com/detail/506599",
@@ -2324,28 +2280,6 @@
    ],
    "cat": "society",
    "val": 1,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "नेपाली वायुसेवामाथिको प्रतिबन्ध फुकुवा गर्न सरकारले ईयूसँग पहल गरिरहेको छ : मन्त्री पौडेल",
-   "summary": "नेपाली वायुसेवामाथि लगाउँदै आएको प्रतिबन्ध फुकुवा गर्न सरकारले कूटनीतिक पहल जारी राखेको बताएका छन्।...",
-   "link": "https://nagariknews.nagariknetwork.com/diaspora/government-is-taking-initiatives-with-eu-to-lift-ban-on-nepali-airlines-minister-poudel-69-60.html",
-   "source": "Nagarik News",
-   "ts": 1793802445,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1793802433_London.jpg",
-   "lang": "ne",
-   "hl": "नेपाली वायुसेवामाथिको प्रतिबन्ध फुकुवा गर्न सरकारले ईयूसँग पहल गरिरहेको छ : मन्त्री पौडेल",
-   "en": "नेपाली वायुसेवामाथिको प्रतिबन्ध फुकुवा गर्न सरकारले ईयूसँग पहल गरिरहेको छ : मन्त्री पौडेल",
-   "ne": "नेपाली वायुसेवामाथिको प्रतिबन्ध फुकुवा गर्न सरकारले ईयूसँग पहल गरिरहेको छ : मन्त्री पौडेल",
-   "imp": 3,
-   "tags": [
-    "Airlines",
-    "NepalGovernment"
-   ],
-   "cat": "world",
-   "val": 3,
    "teaser": false,
    "hits": 1
   },
@@ -3442,17 +3376,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1793226050.4631786,
-   "en": "Trump offers assistance to Nepal after devastating Nepal-Tibet floods",
-   "ne": "Trump offers assistance to Nepal after devastating Nepal-Tibet floods",
-   "link": "https://ddnews.gov.in/en/trump-offers-assistance-to-nepal-after-devastating-nepal-tibet-floods/",
-   "source": "DD News",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "disaster"
-  },
   {
    "ts": 1793227858.8530421,
    "en": "अमेरिकाबाट कुरियरमार्फत ल्याइएको १ किलो ३३८ ग्राम गाँजासहित दुई भारतीय पक्राउ",
@@ -6556,7 +6479,7 @@
    "cat": "politics"
   }
  ],
- "updated": 1793830860,
+ "updated": 1793831467,
  "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
