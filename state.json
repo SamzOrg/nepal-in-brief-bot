@@ -1,6 +1,5 @@
 {
  "seen": {
-  "http://english.ratopati.com/story/85468/worker-dies-after-being-crushed-by-machine-in-rautahat": 1793622667.3796988,
   "http://english.ratopati.com/story/85469/david-malan-out": 1793623252.5458627,
   "https://news.google.com/rss/articles/CBMib0FVX3lxTE00VHlpd3VwZ3daRjhKMm1QOUxFN0lFd1BjU2JoamRHTTRELURWZkVTMWFQeXdmbUpmNnlHcV9ieng4bWdaZEhhbUhtTGhXT3A5bFhSR09EcUMzN3JsVW13MEphOU15SmlTOVBUd2pVaw?oc=5": 1793623252.5458627,
   "https://www.setopati.com/social/401862": 1793623252.5458627,
@@ -2277,7 +2276,15 @@
   "https://nagariknews.nagariknetwork.com/social-affairs/cooperative-provides-assistance-to-flood-affected-children-in-rasuwa-42-91.html": 1793794853.5252194,
   "https://nagariknews.nagariknetwork.com/politics/it-is-wrong-if-the-igp-was-removed-against-the-law-former-prime-minister-bhattarai-66-56.html": 1793794853.5252194,
   "https://nagariknews.nagariknetwork.com/politics/had-a-good-conversation-with-gagan-thapa-chairman-oli-37-41.html": 1793794853.5252194,
-  "https://nagariknews.nagariknetwork.com/international/us-election-historic-democratic-victory-in-republican-stronghold-upheaval-in-governor-and-senate-br-17-87.html": 1793794853.5252194
+  "https://nagariknews.nagariknetwork.com/international/us-election-historic-democratic-victory-in-republican-stronghold-upheaval-in-governor-and-senate-br-17-87.html": 1793794853.5252194,
+  "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaXFaZXhXcDlBRHJIbDNZNzdTNDFvZ1pncUZFR3dRdllIXzUwcmZfSmlEaDcydFI3TGNReHp1TWV0VnUyOE5NY0xyQmRsN1JoclVZM3lSYk1wa3paVnhBOU1rNWhMNXdiYzNPbG9CXzVCa2VQZFhFbF80UkxOMFdrX1l2VzB4c3FPMC1IcnhkRUN6UEljMmRPWThPcjRqVENLb3RFb2VLOXVTYzFqLVBIUnJ0M0xVSXNzNG5HX29LLWdzSkRM0gHIAUFVX3lxTE1VMzAtXzdOVUcxX3JNbTJsMzVpcFN1RUtFclZWamktcjJoNkQycnlkRDdZQ3BMcUtHdlg0Sl93SFRycTJfV0NfbzM1M2c5N1FfSFVtcVdNS3lOa1Q4cVh0YUVjT2xCLUNnbnNGampuaGg4b3gtSmY3RkFhWGxwenRZT1hhV1NOZ3NaNmRDaFI2NzJqV2xYQ0YyejVGX2NJYXNOS1M5Qi1rRlp0cnJ2OGx4bV9hc0xuQThlOW0tTVZXX3V0Tml1NVYy?oc=5": 1793795467.4563177,
+  "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1uWm1QMGNHcGFZdm1GYXhBZnNFOWRLbFRIdHJPVV9GYURFMkdFbDNZX2oyQ0RQczEwdS0zNXVuTkFaZFpCM3VoWWVkX2w0X2JhWUV4d0V6Yw?oc=5": 1793795467.4563177,
+  "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8zenZ2MG9BeVg4X0RaSURQVDRkSGpmMjRObDBYakIwVW5vUVZlcGVCRHJ5ejNBN0dkX2dFT1ZuWm9MeEZESW1hUGxOR1BHNFpCcExlV185UQ?oc=5": 1793795467.4563177,
+  "https://english.khabarhub.com/2026/04/574482/": 1793795467.4563177,
+  "https://risingnepaldaily.com/news/88390": 1793795467.4563177,
+  "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcE1vNDAxWkdZck0yRGMyaC1KVTJ3Y05nMk5CeWczNE5BVGE2am5wZlBWN2trLS1wMDFxalhIWEJ2RVBWX3JYM3ZwZGdPd18yTlFQQkdKQUhXcWgtbTI4VENFQnFiYkdIV21TR0hUZ3RWcEM3UUZCNW5SY3ljdVpMaWdqZXlJemZ2QW1BZFdxU1AwaG5sWjRPeFNrMnZFa0RsV205MkRQVklDMnBQVGtPdkthbDFZdGxlWldoOEZNVjZNMGhHRWdUQ0ZtTkszdFZyZG9aQg?oc=5": 1793795467.4563177,
+  "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSzZ4YnU5S0Q3T1ZoY0xVTkwwQTA5MUpLcUNKdks3WVpVRHk1UXZ5b2dkSldTRHdZSGFBR0U1MEtCSlJVQXphU2dualIwcDNOTkR4VXNqUEhQOGdtOTJScTFQU3NFRzJYbnV6UUxOVE9iY1czMVRrWjRWVjFvdFVHTEtXS2VJdGVnb1FDazhreDVkaW1fNjVtT2pOa043M1JQeUNTYVpEVm5XYVBFZXM5VjFYcW5rTFp5LTE2SllCMDNrbV9CWEE?oc=5": 1793795467.4563177,
+  "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUnNOUC1YRzZHdDZOMVIyTG52alF4UmI1ei1RdzRremdFMmdvX2kwYjd6N3IzVDRqVTdJNi1wNzFheFVXV0NWNzFxNDlTMzl3dEFFdlJRSWdMWm5hb3R2aTFXV1BpTjItMUVyUDU1b2hOS2pLRVJNMHVHY3N1VHB3V1JxbnhaQzBlMkNOQzJKSmJpY0NPOXBnM1FUeHRUMUdGbjZsamNGZWViMkZmNEVtZi14WW1tblFRQ2Y0RWJoUkV1QUExclE?oc=5": 1793795467.4563177
  },
  "queue": [
   {
@@ -2326,29 +2333,6 @@
    "val": 2,
    "teaser": false,
    "hits": 3
-  },
-  {
-   "title": "Shangri-La literary festival on Dec. 26, 27",
-   "summary": "By A Staff Reporter, Kathmandu, Nov. 4: The Shangri-La Literature Festival is all set to take place on December 26 and 2...",
-   "link": "https://risingnepaldaily.com/news/88372",
-   "source": "Rising Nepal",
-   "ts": 1793766411,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Shangri-La literary festival on Dec. 26, 27",
-   "en": "Shangri-La literary festival on Dec. 26, 27",
-   "ne": "Shangri-La literary festival on Dec. 26, 27",
-   "imp": 2,
-   "tags": [
-    "Literature",
-    "Festival",
-    "ShangriLa"
-   ],
-   "cat": "culture",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "भारतीय विदेश सचिव मिश्री काठमाडौँमा",
@@ -3785,7 +3769,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 12
+   "hits": 14
   },
   {
    "title": "१८ ग्राम बढी ब्राउन सुगरसहित युवक पक्राउ",
@@ -4380,7 +4364,7 @@
    "cat": "world",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "State must be serious about the security of Nepalis abroad: Bidya Devi Bhandari",
@@ -6844,28 +6828,6 @@
    "hits": 1
   },
   {
-   "title": "Govt forms 4-member panel for talks with Dr Govinda KC",
-   "summary": "Kathmandu, November 4 The government has formed a four-member committee to hold talks with medical education reform campaigner Prof Dr Govinda KC. The committee, coordinated by Joint Secretary at the Ministry of...",
-   "link": "https://english.onlinekhabar.com/govt-forms-4-member-panel-for-talks-with-dr-govinda-kc.html",
-   "source": "Onlinekhabar EN",
-   "ts": 1793788834,
-   "weight": 3,
-   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/11/govinda-kc-ilam-1024x500-2.jpg",
-   "lang": "en",
-   "hl": "Govt forms 4-member panel for talks with Dr Govinda KC",
-   "en": "Govt forms 4-member panel for talks with Dr Govinda KC",
-   "ne": "Govt forms 4-member panel for talks with Dr Govinda KC",
-   "imp": 3,
-   "tags": [
-    "GovindaKC",
-    "Government"
-   ],
-   "cat": "health",
-   "val": 3,
-   "teaser": false,
-   "hits": 4
-  },
-  {
    "title": "नीलो बोतलमा अड्किएको घर!",
    "summary": "अपरिचित सहरको यो हरियो बगैँचामा ढुंगाको मेचमाथि एउटा नीलो बोतल चुपचाप उभिएको छ लाग्छ, परदेशले मेरो हातमा सानो आकाश थमाइदिएको छ",
    "link": "https://www.setopati.com/literature/402012",
@@ -7473,7 +7435,7 @@
    "cat": "culture",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "कालोपत्र उप्किएको १६ वर्षपछि जयराम-हलेसी सडक मर्मत हुने",
@@ -7593,7 +7555,7 @@
    "cat": "economy",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 3
   },
   {
    "title": "Key takeaways from Democrats' sweeping victory in US midterm elections",
@@ -8065,7 +8027,7 @@
    "cat": "society",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "शर्माको प्रश्न : पत्रकार साथीहरू, तपाईंहरू सुरक्षित हुनुहुन्छ ?",
@@ -8180,7 +8142,7 @@
    "cat": "world",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Dental Association Protests Council Appointment, Demands Review",
@@ -11423,9 +11385,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "politics"
+  },
+  {
+   "ts": 1793795475.6103635,
+   "en": "Nepal govt forms 4-member panel for talks with Dr Govinda KC",
+   "ne": "Nepal govt forms 4-member panel for talks with Dr Govinda KC",
+   "link": "https://english.onlinekhabar.com/govt-forms-4-member-panel-for-talks-with-dr-govinda-kc.html",
+   "source": "Onlinekhabar EN",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "health"
   }
  ],
- "updated": 1793794887,
+ "updated": 1793795494,
  "pending_since": 1793794853.5252194,
  "fb_blocks": [
   1790350880.4125228,
