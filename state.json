@@ -2215,7 +2215,10 @@
   "http://english.ratopati.com/story/85686/us-court-orders-halting-deportation-of-afghan-national": 1793815279.4447267,
   "https://baahrakhari.com/detail/506613": 1793815279.4447267,
   "https://gorkhapatraonline.com/news/228319": 1793815279.4447267,
-  "http://english.ratopati.com/story/85685/verdict-in-rohingya-genocide-case-to-be-delivered-on-november-19": 1793815279.4447267
+  "http://english.ratopati.com/story/85685/verdict-in-rohingya-genocide-case-to-be-delivered-on-november-19": 1793815279.4447267,
+  "https://gorkhapatraonline.com/news/228330": 1793815843.5854359,
+  "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQUnhGdzRBdUZ4UkRSc3pJc3J5WGg1UGZNRERmejZMR2RzLVNYZjgyVHBOUnBkRm1HTzBBbEpYa05HaHU5SjVBMjlpVWlUVkZfUW9naW1MbzdKNklQOWI3NkxSVG5QVHJoUVV4NjdZUUpZU1dCS01uak9MZEU5NXZNR3BHNDJfWlc2X3RHNGkwTzc3RWNCdFZmbXVYZFJyVnBYN3phNG11R0hBTkZlN29yVHhYTEtraWRjYjJ1dk5sSmEtejFQZFJ1RnhDSldwcmxlQzQwYm1VQi1ybVI2Ym1HetIB5AFBVV95cUxPOXFXLUtYS2l5V1F2TXptU1pSOXVBa0NHNFBKSG5VcV9xZ1JkcjQ5X3dOY0FFNU51WHNCWmhMOFNEYU9iTHJhWDZCVWZRRy1HcnRmRTZJSnprME10T1J4bjFmYjVPOUpwQ1diUDJ5LXI0T3RKdW96TEJ5Q3RoUlFmQnY2cWNzM2FPa0FneTBCR2xsdW9maUgwLVhnVFVNNGpnSVhwOThFV2pyX0tIYVFJaGtZZ3FvMWk2bkw4VFRIdkZ0cGdOQ242TnBxbUFqakFPZC1ZR0MzWWN2X3JZNmNTUnI4THQ?oc=5": 1793815843.5854359,
+  "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOcXRIZXFuLTVOaDVvVXZfTVVBX0tIVGNKcEszcGJQRE0xVU5SbWlublIzeFJtYXItUjA2bkRJZl91NENIcV9mWnFHUkd1QV9BY2FHM2dZNUhwOUh1R2Q1OENNaTlQZHRkUXh4Tndmc0VYOERiTW96Q2YwR0E1Ui0wMk1fUEd4bDVGd1djQnlIcGxfdkUtb1FwUl9HMjhPWVV0LUJHRGp2YXVEMU9zNWkxeDdwenkzTG9ndy02alZmRVkwUVRXTE5vM0l2bHJQS0lhN0Q5WHNnQmM2dFRTRmRaRlRCWWxFaTlPbnBtdC1IV2s?oc=5": 1793815843.5854359
  },
  "queue": [
   {
@@ -2446,29 +2449,6 @@
    "hits": 1
   },
   {
-   "title": "UML lawmaker writes to PM Balen, urges him to prioritise action over political statements",
-   "summary": "Kathmandu, November 4 CPN-UML lawmaker Sajida Khatun Siddiqui has written a letter to Prime Minister Balendra Shah through a parliamentary committee, urging him to address growing public concerns and prioritise concrete...",
-   "link": "https://english.onlinekhabar.com/uml-lawmaker-writes-to-pm-balen-urges-him-to-prioritise-action-over-political-statements.html",
-   "source": "Onlinekhabar EN",
-   "ts": 1793786864,
-   "weight": 3,
-   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/09/Balen-Shah-5-1.jpg",
-   "lang": "en",
-   "hl": "UML lawmaker writes to PM Balen, urges him to prioritise action over political statements",
-   "en": "UML lawmaker writes to PM Balen, urges him to prioritise action over political statements",
-   "ne": "UML lawmaker writes to PM Balen, urges him to prioritise action over political statements",
-   "imp": 3,
-   "tags": [
-    "UML",
-    "BalenShah",
-    "Parliament"
-   ],
-   "cat": "politics",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "होर्मुज जलमार्गमा व्यावसायिक जहाजलाई आवतजावत नगर्न आईएमओको सुझाव",
    "summary": "अन्तर्राष्ट्रिय सामुद्रिक संगठन (आईएमओ) का महासचिव आर्सेनियो डोमिन्गुएजले होर्मुज जलडमरूबाट व्यावसायिक जहाजको आवतजावत तत्काल नगर्न सुझाव दिएका छन् ।...",
    "link": "https://nagariknews.nagariknetwork.com/international/imo-advises-commercial-ships-not-to-use-strait-of-hormuz-34-20.html",
@@ -2488,29 +2468,6 @@
    ],
    "cat": "world",
    "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "एनपिएलमा बेटिङ खेलाएको आरोपमा भारतीय नागरिक पक्राउ, ८९ लाखको कारोबार",
-   "summary": "तेस्रो संस्करणको नेपाल प्रिमियर लिग (एनपिएल) क्रिकेट प्रतियोगितामा अनलाइनमार्फत सट्टेबाजी (बेटिङ) गरेको आरोपमा एक भारतीय नागरिक पक्राउ परेका छन्।",
-   "link": "https://www.setopati.com/social/402006",
-   "source": "Setopati",
-   "ts": 1793786562,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "एनपिएलमा बेटिङ खेलाएको आरोपमा भारतीय नागरिक पक्राउ, ८९ लाखको कारोबार",
-   "en": "एनपिएलमा बेटिङ खेलाएको आरोपमा भारतीय नागरिक पक्राउ, ८९ लाखको कारोबार",
-   "ne": "एनपिएलमा बेटिङ खेलाएको आरोपमा भारतीय नागरिक पक्राउ, ८९ लाखको कारोबार",
-   "imp": 3,
-   "tags": [
-    "NPL",
-    "Betting",
-    "NepalPremierLeague"
-   ],
-   "cat": "crime",
-   "val": 3,
    "teaser": false,
    "hits": 1
   },
@@ -3215,7 +3172,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 3
+   "hits": 5
   },
   {
    "title": "Nepali Congress Ready to Face Questions on Party Leadership, Says Bishwa Prakash Sharma",
@@ -4493,29 +4450,6 @@
    "hits": 1
   },
   {
-   "title": "Everest Base Camp trek: From self-doubt to finding my feet in the Himalayas",
-   "summary": "A first solo trek along the famous high-altitude trail becomes a journey of quiet discoveries.",
-   "link": "https://kathmandupost.com/travel/2026/11/04/everest-base-camp-trek-from-self-doubt-to-finding-my-feet-in-the-himalayas",
-   "source": "Kathmandu Post",
-   "ts": 1793786482.535143,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Everest Base Camp trek: From self-doubt to finding my feet in the Himalayas",
-   "en": "Everest Base Camp trek: From self-doubt to finding my feet in the Himalayas",
-   "ne": "Everest Base Camp trek: From self-doubt to finding my feet in the Himalayas",
-   "imp": 1,
-   "tags": [
-    "EverestBaseCamp",
-    "Trek",
-    "Himalayas"
-   ],
-   "cat": "culture",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "क्रिकेटरलाई टिप्स दिने निश्चल",
    "summary": "",
    "link": "https://baahrakhari.com/detail/506596",
@@ -4602,29 +4536,6 @@
     "Solma"
    ],
    "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Banking stocks show resilience as Nepse struggles to recover",
-   "summary": "The banking index has maintained a bullish moving-average pattern even as Nepse remains in a longer-term bearish trend. But resistance around 1,600 continues to hold back the sector.",
-   "link": "https://kathmandupost.com/money/2026/11/04/banking-stocks-show-resilience-as-nepse-struggles-to-recover",
-   "source": "Kathmandu Post",
-   "ts": 1793786482.535143,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Banking stocks show resilience as Nepse struggles to recover",
-   "en": "Banking stocks show resilience as Nepse struggles to recover",
-   "ne": "Banking stocks show resilience as Nepse struggles to recover",
-   "imp": 3,
-   "tags": [
-    "Nepse",
-    "Banking",
-    "StockMarket"
-   ],
-   "cat": "economy",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -4987,7 +4898,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Tribhuvan University reclaims 705 ropanis of land in Kathmandu Valley",
@@ -9092,8 +9003,8 @@
    "cat": "culture"
   }
  ],
- "updated": 1793815318,
- "pending_since": null,
+ "updated": 1793815847,
+ "pending_since": 1793815843.5854359,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
