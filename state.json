@@ -2316,7 +2316,8 @@
   "https://www.setopati.com/kinmel/tourism/401963": 1793760649.3070252,
   "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZk9ocjU4aVIwQW1RcHByc3k4REdKNDNzVkwyT0FnZzhwVFZjQmphdEdrWVpzbVJqaXlVRVp2b1N1U3UxUUpjRkV5aEE0TWY5VG5wMDNzenRBRU8zbEhPM2Z3b01YVlEwcU1mM3RnX1VSOE9zT3VjOGZYVm9LZTI2XzZqMk9fNlQ2bGt2Y0htMWdfMkU?oc=5": 1793760649.3070252,
   "https://gorkhapatraonline.com/news/228229": 1793760649.3070252,
-  "https://gorkhapatraonline.com/news/228228": 1793760649.3070252
+  "https://gorkhapatraonline.com/news/228228": 1793760649.3070252,
+  "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbmx0THRvQXBWTTNJa3ZER0hPTGdtQ2VEMXBqLTFxSjBqWThIU2FqS012VTJjZVlUUFV4MGhRLTZPZnBULURqeUlXcG9XS0VXc1VGdnpiVlhxVTYzUFYxTEZYbEZDdWtOVWx3cWt6SGVxUE1LSEJlR1dIQllKSC02dnVidVQtNkF1eFZXZjlDOF8wS0NicHg0bmRvY2R1emh4c3FiUUJOWENDQ2ZZcHJLV0ttVzB0SEJCNVZXanE3U2d5T3FWN0JWZmFGVTlaWkk?oc=5": 1793761286.452981
  },
  "queue": [
   {
@@ -4144,7 +4145,7 @@
    "cat": "economy",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "उच्चको फैसला संगठित अपराधमा गम्भीर चुनौती भन्दै सरकार पुग्यो सर्वोच्च",
@@ -4286,17 +4287,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1793155854.385548,
-   "en": "नेपाल रेडक्रसको ब्लड बैंकमा रगतको मौज्दात सकियो, रक्तदान गर्न विशेष आग्रह",
-   "ne": "नेपाल रेडक्रसको ब्लड बैंकमा रगतको मौज्दात सकियो, रक्तदान गर्न विशेष आग्रह",
-   "link": "https://baahrakhari.com/detail/505862",
-   "source": "Baahrakhari",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "health"
-  },
   {
    "ts": 1793157661.9929593,
    "en": "Nepal Telecom Sees Up to 3X Surge in New Connections as Private ISPs Raise Internet Prices",
@@ -7411,8 +7401,8 @@
    "cat": "sports"
   }
  ],
- "updated": 1793760672,
- "pending_since": null,
+ "updated": 1793761291,
+ "pending_since": 1793761286.452981,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
