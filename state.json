@@ -2251,7 +2251,8 @@
   "https://baahrakhari.com/detail/506577": 1793791869.0929852,
   "https://www.setopati.com/politics/402008": 1793791869.0929852,
   "http://english.ratopati.com/story/85656/dan-bahadur-karki-has-two-options-legal-battle-or-silent-acceptance": 1793791869.0929852,
-  "https://baahrakhari.com/detail/506576": 1793791869.0929852
+  "https://baahrakhari.com/detail/506576": 1793791869.0929852,
+  "https://news.google.com/rss/articles/CBMi1gFBVV95cUxORGZsdFJZdC1DUjFvSUZCdTF3OTZUMVUtN2FiaWNJNENYTjg1N25xcGtTN1UxSEQ3bnhLUFpjb0pkQS1GM0h5WjRZWEpGR2dpR3J5N0c4MGFHcnhTclAzeXdHM0YyLUtxeU5PUVNYTFV4MndUUjFQVGFfUE1qeHFMc1JkT2pBOEQwcUI1NHVhOVJ6RE5TUnVRb2Y3YWxudHI2alZGNmRETGF0ZXVUeHVTQ1JwNXVsTFUzcUszcVZxLWJHZlpYNlZaWjFtUXJVRHp2WEZpZE530gHWAUFVX3lxTE5EZmx0Ull0LUNSMW9JRkJ1MXc5NlQxVS03YWJpY0k0Q1hOODU3bnFwa1M3VTFIRDdueEtQWmNvSmRBLUYzSHlaNFlYSkZHZ2lHcnk3RzgwYUdyeFNyUDN5d0czRjItS3F5Tk9RU1hMVXgyd1RSMVBUYV9QTWp4cUxzUmRPakE4RDBxQjU0dWE5UnpETlNSdVFvZjdhbG50cjZqVkY2ZERMYXRldVR4dVNDUnA1dWxMVTNxSzNxVnEtYkdmWlg2VlpaMW1RclVEenZYRmlkTnc?oc=5": 1793791917.3674624
  },
  "queue": [
   {
@@ -2478,29 +2479,6 @@
     "LandOwnership",
     "WomenRights",
     "जग्गा"
-   ],
-   "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Second Convention of Non-Resident Nepali Forum International Committee to be Inaugurated by Bidya Devi Bhandari",
-   "summary": "Kathmandu. The second convention of the Non-Resident Nepali Forum International Committee is being organized today at 11 AM at Karki...",
-   "link": "http://english.ratopati.com/story/85586/the-second-session-of-the-international-committee-of-the-nepali-diaspora-forum-is-underway-today",
-   "source": "Ratopati EN",
-   "ts": 1793763088,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/prabasi_meYeMKK15m.webp",
-   "lang": "en",
-   "hl": "Second Convention of Non-Resident Nepali Forum International Committee to be Inaugurated by Bidya Devi Bhandari",
-   "en": "Second Convention of Non-Resident Nepali Forum International Committee to be Inaugurated by Bidya Devi Bhandari",
-   "ne": "Second Convention of Non-Resident Nepali Forum International Committee to be Inaugurated by Bidya Devi Bhandari",
-   "imp": 2,
-   "tags": [
-    "NRN",
-    "BidyaDeviBhandari",
-    "Convention"
    ],
    "cat": "society",
    "val": 3,
@@ -7283,7 +7261,7 @@
    "cat": "disaster",
    "val": 1,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "विरोध प्रदर्शनपछि बङ्गलादेशमा गार्मेन्ट कामदारको तलब बढाउन सहमति",
@@ -7982,17 +7960,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1793187083.568053,
-   "en": "Nepal Q1 Exports Cross Rs 114 Billion As Imports Surge 38 Percent",
-   "ne": "Nepal Q1 Exports Cross Rs 114 Billion As Imports Surge 38 Percent",
-   "link": "https://english.onlinekhabar.com/nepals-exports-cross-114-billion.html",
-   "source": "Onlinekhabar EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "economy"
-  },
   {
    "ts": 1793188921.4861999,
    "en": "Parliament panel seeks flood damage data from Agriculture Ministry",
@@ -11096,8 +11063,8 @@
    "cat": "disaster"
   }
  ],
- "updated": 1793791890,
- "pending_since": null,
+ "updated": 1793791921,
+ "pending_since": 1793791917.3674624,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
