@@ -1,9 +1,5 @@
 {
  "seen": {
-  "http://english.ratopati.com/story/85406/second-kathmandu-horror-film-fest-concludes-knar-declared-best-short-film": 1793599286.07202,
-  "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWWpHTERlbk1pTW5GaGtydlZ3LWtPWm04TXhSM0pubkNnd1dMR3NTLW43N0kzLVp4R1MtM1U2TER4NDJUVWZYYXk4ZlN2VUt1ckluZVRSUmt4d3FIeVVOOGJ1M3E3YzZyZkpGOWhpUVhCN3VOUWNqQjFLLTNZUHpVTnBVNkpvOFRKalZQd2VQT1B1cE1fVk5NMExLWnRTdXp0UDZ3b0o3ZFJ4SFJVRnVQOTFYb0JPQjg?oc=5": 1793599286.07202,
-  "https://english.khabarhub.com/2026/02/574044/": 1793599286.07202,
-  "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBEY25KVWRrcTFSc2R5LXlicF9sOVVYbUhVakpIRFBCVmhRcnhqSjNoV0JjMlVXY28tQkZTb3BPSzhfZkRsazlGOUdLc09HSGR0X2ZCS3pLVmF2M3JX?oc=5": 1793599286.07202,
   "https://www.setopati.com/kinmel/banking/401805": 1793599851.9953914,
   "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPbzA0aUhhLWV3WlNsTVlqdHhZMXk0LUtkaHpuVjdNbUlvWGVVMmQ5MlFGajJIakRDa1JFblg4b2QzczhWUHRpZFRJRkY5Z0ZnWDlQWGxTTUVGY3Rra2tydkMwYjdwSHBsaG11Rk9lWmhGOGpYbHZUVHhQR0xka2dQaURfWWtQNE1zLU02U3N6a2Z4OVdsamFuQTRkckVBT1RIalc1OEJ0UEg3WXZtVlk0c0NQUF9fcDNuazVUNFJ2ZWJTQlNobzByUERMSXYxNnZvV01USGNmTVF5SHU2WmlxdmJFRlIzemIz?oc=5": 1793599851.9953914,
   "http://english.ratopati.com/story/85407/horror-film-festival-concludes-with-26-films-screened-in-21-countries": 1793599851.9953914,
@@ -2293,7 +2289,9 @@
   "https://nagariknews.nagariknetwork.com/politics/parliamentary-committee-monitors-under-construction-parliament-building-speaker-directs-not-to-delay-80-24.html": 1793772080.145668,
   "https://nagariknews.nagariknetwork.com/opinion/disabled-friendly-pedestrian-infrastructure-still-incomplete-in-nepal-br-50-41.html": 1793772080.145668,
   "https://nagariknews.nagariknetwork.com/social-affairs/pili-view-tower-worth-crores-of-rupees-is-unused-br-95-86.html": 1793772080.145668,
-  "https://nagariknews.nagariknetwork.com/social-affairs/greenhouse-gases-in-the-atmosphere-at-high-points-br-61-86.html": 1793772080.145668
+  "https://nagariknews.nagariknetwork.com/social-affairs/greenhouse-gases-in-the-atmosphere-at-high-points-br-61-86.html": 1793772080.145668,
+  "https://baahrakhari.com/detail/506539": 1793772647.433428,
+  "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZnRYTjg2TmNRZV9fd2ZDR2U4d1JQVXEteEdmVnVaRXdmajBvU2ozSHY5d1FGREw1aUxXUzRtYkQ1WmZhM0M4MTh3UUZKVTRtNGZKOHBDU2ZQYV9ZME9sYm5nRmZZbEYzUnZWMloyLWZrZmxhV2tsdElQNlFzajN1cC0zeGlVWDNQUnI2MENjWW01YlV3R3p6OWNONGZ5WlhEM2lQaTA4Zw?oc=5": 1793772647.433428
  },
  "queue": [
   {
@@ -5613,7 +5611,7 @@
    "cat": "crime",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Government Prioritizes Non-Communicable Disease Prevention and Control",
@@ -5774,7 +5772,7 @@
    "cat": "economy",
    "val": 1,
    "teaser": true,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Democrats capture Congress in sweeping setback for Trump",
@@ -9443,8 +9441,8 @@
    "cat": "society"
   }
  ],
- "updated": 1793772086,
- "pending_since": null,
+ "updated": 1793772651,
+ "pending_since": 1793772647.433428,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
