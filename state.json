@@ -1,9 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUWI0dHR0bUxMajUtMVcwY2F6V1duODlxb1VNZ2JWenJiSkxYNFB4RVk1c1ZVWDN5bHpISjdiQ2tLZzVNckU4dDIxa1ZDVTExQXg5NXgxTW5IT0JBYTR4TWZiVE9NN2hiTDNEeFh0SWwtWVEzRGpRMVUzQnVIUHJuekpzbVdzbGJVMl9Ddjh4ZG1XeUc4VVo1TXlRcTdEVUxjRXVpTW5BZEs0NmIzZUp3?oc=5": 1793638249.0214617,
-  "https://news.google.com/rss/articles/CBMisAFBVV95cUxQLUt3NUNTRXlOMmZFUHUtNXVJUVZLWWVUUFA2NXh6MG9FV3NWNHhJdDVwa1R3UlkxcWR6NzdjdUVxUXlOZFlmVTFaemt6akwtb2MxczJRU0NCUXpPZGZfMGxRd1JyU21aWjF0cEZtVnVfNXZVY25GT09PQUtjNG1iNEQ1R1ZyRU4wUm5rcjdQVjR2NVJiTUhPMkVoWWRmRWRDWUlDNDdZZ1NYeUVNWERoMQ?oc=5": 1793638249.0214617,
-  "http://english.ratopati.com/story/85484/indian-foreign-secretary-vikram-misri-to-arrive-in-nepal-on-wednesday": 1793638249.0214617,
-  "http://english.ratopati.com/story/85483/indian-foreign-secretary-vikram-misri-to-arrive-in-nepal-on-november-1": 1793638249.0214617,
   "https://news.google.com/rss/articles/CBMirgFBVV95cUxNLWVkeDdzRWVpeWR5WUdJYW04SlhSYS04a1lfNFBYSktmSUVtYXNwQXBJRTljT0NPN2hOV3M5WkZ0YThqSFdNSXR3N1dkbkM4SFUxVXFmYnlVcU1jSDVjWEV4cjVWUGZ2TWQ3ZUR2ci1IZFEydlliSDBDWnpxTVFOWWZBVHZ2ZHBiNC1uUUtWa3FQdVMzUmZWVkRFYkNfNmU0dDFuTVNEdnowZ0VoOHfSAa4BQVVfeXFMTS1lZHg3c0VlaXlkeVlHSWFtOEpYUmEtOGtZXzRQWEpLZklFbWFzcEFwSUU5Y09DTzdoTldzOVpGdGE4akhXTUl0dzdXZG5DOEhVMVVxZmJ5VXFNY0g1Y1hFeHI1VlBmdk1kN2VEdnItSGRRMnZZYkgwQ1p6cU1RTllmQVR2dmRwYjQtblFLVmtxUHVTM1JmVlZERWJDXzZlNHQxbk1TRHZ6MGdFaDh3?oc=5": 1793638888.7259297,
   "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5xZllMQjQyTTZqay1CUTRQQ2NST3BlMzJ4dzBEN0ZUbHlqamVtUEt4NTUxNDF6TkZ3TDlXM2szdFM1QlRSRHFSQVRuNzFjYnNBNEEzNjhsMA?oc=5": 1793639450.89381,
   "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUzdHR2FNbDNsdmNPMkdfSW9TNFNreGpmbE92cENwenRiaUNxVFhHS0oxUEp3MkFfYVd6clBvSTZJRWQ4bHBVSXAzV19NQzJ1ajczTXlua3RDZnh1WG9MMEJ5SzA1LWR2SF9JeVJra09yeURYMmRRdjM5MndLUFE2ZDFmMVREWFc0M3RHcFRyakdrRm51OWE1SENibkg0REczQ2FxYTI5b0N0b25raXpiUXVvNVJHOElvU1p2UUNMTQ?oc=5": 1793639450.89381,
@@ -2225,29 +2221,6 @@
  },
  "queue": [
   {
-   "title": "ठूला अनियमिततामा पनि अहिले किन तात्दैनन् संसदीय समितिहरू?",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/506558",
-   "source": "Baahrakhari",
-   "ts": 1793782706,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "ठूला अनियमिततामा पनि अहिले किन तात्दैनन् संसदीय समितिहरू?",
-   "en": "ठूला अनियमिततामा पनि अहिले किन तात्दैनन् संसदीय समितिहरू?",
-   "ne": "ठूला अनियमिततामा पनि अहिले किन तात्दैनन् संसदीय समितिहरू?",
-   "imp": 3,
-   "tags": [
-    "Parliament",
-    "Corruption",
-    "संसदीयसमिति"
-   ],
-   "cat": "politics",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
-  },
-  {
    "title": "Pending cases rise 5.5-fold in 22 years, Supreme Court registrar says",
    "summary": "Kathmandu, November 4 The number of pending cases in courts across Nepal has increased more than fivefold over the past 22 years, Supreme Court Registrar Baburam Dahal has said, stressing the need to expand the use of...",
    "link": "https://english.onlinekhabar.com/pending-cases-rise.html",
@@ -2289,29 +2262,6 @@
    ],
    "cat": "politics",
    "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "पुस २ गतेदेखि विराट एक्स्पो हुने",
-   "summary": "विराटनगरमा नवौँ संस्करणको विराट एक्स्पो २०२६ आगामी पुस २ देखि ११ गतेसम्म सञ्चालन हुने भएको छ।",
-   "link": "https://nagariknews.nagariknetwork.com/economy/virat-expo-to-be-held-from-december-20-br-87-18.html",
-   "source": "Nagarik News",
-   "ts": 1793782866,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1793782856_birat%20expo.jpg",
-   "lang": "ne",
-   "hl": "पुस २ गतेदेखि विराट एक्स्पो हुने",
-   "en": "पुस २ गतेदेखि विराट एक्स्पो हुने",
-   "ne": "पुस २ गतेदेखि विराट एक्स्पो हुने",
-   "imp": 2,
-   "tags": [
-    "ViratExpo",
-    "Biratnagar",
-    "Business"
-   ],
-   "cat": "economy",
-   "val": 3,
    "teaser": false,
    "hits": 1
   },
@@ -3415,29 +3365,6 @@
    "hits": 1
   },
   {
-   "title": "Top UN court to rule Nov 19 on Myanmar/Rohingya genocide case",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZjd4VFBlYUFwVGlXZ1E3VVBXazMwN2RaQzhyeEp5Tm5SSnRySWZOVlhZRk1iRW9JLWpMMlk0NGtXaV91bHNlNWFEWmExbU1wMUdFcFVfdG10YmhCblE0enlSOVlDSGdvZGR0Z3hYZ21ZQ1FjbGlKQTV4YkpMbkM4djdYNEpmaEV6WnBzQVZCWUk4czV6TTRVYnVzX0lmUnB4ek9kZDBERWRROE1sLTNoRGpBUTZZZw?oc=5",
-   "source": "myRepublica",
-   "ts": 1793782531,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Top UN court to rule Nov 19 on Myanmar/Rohingya genocide case",
-   "en": "Top UN court to rule Nov 19 on Myanmar/Rohingya genocide case",
-   "ne": "Top UN court to rule Nov 19 on Myanmar/Rohingya genocide case",
-   "imp": 1,
-   "tags": [
-    "ICJ",
-    "Myanmar",
-    "Rohingya"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
    "title": "दिल्लीमा वायु प्रदूषण डब्लुएचओको सीमाभन्दा ३० गुणा बढी",
    "summary": "नयाँदिल्ली, कात्तिक १८ गते । भारतको राजधानी नयाँदिल्लीमा वायु प्रदूषणको स्तर विश्व स्वास्थ्य सङ्गठन (डब्लुएचओ) ले तोकेको दैनिक सीमाभन्दा ३० गुणाभन्दा बढी पुगेको छ । बुधबार केही क्ष...",
    "link": "https://gorkhapatraonline.com/news/228297",
@@ -3863,30 +3790,6 @@
     "Military"
    ],
    "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "Nepali Deities Fetch Millions in International Auctions Amidst Official Ignorance",
-   "summary": "Kathmandu. Deities worshipped in Nepal's monasteries, temples, and archaeological sites are being auctioned for millions and billions of rupees in...",
-   "link": "http://english.ratopati.com/story/85663/our-god-sold-for-millions-some-brought-back-from-various-countries-but-hundreds-remain",
-   "source": "Ratopati EN",
-   "ts": 1793793600,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/puratatwa_uQOlPeFiJs.webp",
-   "lang": "en",
-   "hl": "Nepali Deities Fetch Millions in International Auctions Amidst Official Ignorance",
-   "en": "Nepali Deities Fetch Millions in International Auctions Amidst Official Ignorance",
-   "ne": "Nepali Deities Fetch Millions in International Auctions Amidst Official Ignorance",
-   "imp": 3,
-   "tags": [
-    "NepaliDeities",
-    "InternationalAuction",
-    "Heritage",
-    "कला"
-   ],
-   "cat": "culture",
    "val": 3,
    "teaser": false,
    "hits": 2
@@ -9419,9 +9322,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "society"
+  },
+  {
+   "ts": 1793811722.204761,
+   "en": "12th-Century Nepali Manjushree Statue Sells for Rs 2.37 Billion in Hong Kong",
+   "ne": "12th-Century Nepali Manjushree Statue Sells for Rs 2.37 Billion in Hong Kong",
+   "link": "http://english.ratopati.com/story/85663/our-god-sold-for-millions-some-brought-back-from-various-countries-but-hundreds-remain",
+   "source": "Ratopati EN",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "culture"
   }
  ],
- "updated": 1793811048,
+ "updated": 1793811736,
  "pending_since": 1793810448.6504014,
  "fb_blocks": [
   1790350880.4125228,
