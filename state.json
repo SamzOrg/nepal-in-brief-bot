@@ -1,12 +1,5 @@
 {
  "seen": {
-  "http://english.ratopati.com/story/85374/long-pending-contracts-are-being-canceled-in-a-hurry-82-of-them-were-broken-in-7-months": 1793589648.7746246,
-  "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVU91WS1pTTg1N2cwM1VfeFBnaVkxSmIzQ0wyN0tRYUt3aHZUc2FfYlIzNUdBOWNyUjR4S1ZwOWIxTFJram1Wc0lFbEJVOTgwUm9rMndubnVNUms3dU5hcGpFTGhTM2Z2Q0xncS05b3RDVHlLTlBfZHkzYkxOcWRpLXlaU3ZuTmItMExNVjMzdnVJQlNfa0o5VmRlOGNDNlRaY2pTTkREQQ?oc=5": 1793589648.7746246,
-  "https://www.setopati.com/politics/401793": 1793590263.991339,
-  "https://english.khabarhub.com/2026/02/574026/": 1793590263.991339,
-  "https://kathmandupost.com/world/2026/11/02/nine-people-dead-in-learjet-crash-in-south-florida": 1793590263.991339,
-  "https://risingnepaldaily.com/news/88306": 1793590263.991339,
-  "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaWVrcUxuS1pyV0Z2dHJ3SFNZR3RtV3VCRXlaMWFNMXEwTWJPZVJXaU5EcU5MZFVvS3R2THJQd3l4NGZyVWYxODh6TmVNMXlxVFdvQk5rclFVYWloRndVUS1HS1pScF9pQlp2YTBJdzJmdTQ2NDlTdlVKU1hhd1hWd2swdU5nb3BNaW9Ld3ZsY2JON1ExYVZ4Y0JOZ0kwX1FpUl8xS2xWY0RIbVNqRDE0Uldkd0kyR3F5bzl1RNIBwgFBVV95cUxQUUd6Z05UclpmSkRWSHUyNm9uT2dEM0w5YjJGWVVFYzA1R3RTcUo4SnJ0NVhFdUo3aTFJclZfVURKdV9KcDRHUUo5ODN0STVZcGpLamRpdWtZb0ZUQkxjTE51eThVNkcwR1o1WUFjVGRqUHl0V0ltMkNsdDF3VGpsa01pRmxnODdfZDdmZnFNRmh6SEFTN3NncmpKWEROQ0k4cEJyZ09uQndqaWExZngzSUVvampiS3BUNDNCcU1DQjhZQQ?oc=5": 1793590263.991339,
   "http://english.ratopati.com/story/85398/see-the-damage-caused-by-the-budhi-gandaki-floods-in-gorkha-in-the-photo": 1793590849.8317473,
   "https://gorkhapatraonline.com/news/228005": 1793590849.8317473,
   "https://english.onlinekhabar.com/police-arrest-five-with-210-kg-of-marijuana-after-firing-warning-shots.html": 1793590849.8317473,
@@ -2317,7 +2310,9 @@
   "https://risingnepaldaily.com/news/88370": 1793762446.5583992,
   "https://gorkhapatraonline.com/news/228235": 1793762446.5583992,
   "https://risingnepaldaily.com/news/88373": 1793762446.5583992,
-  "https://gorkhapatraonline.com/news/228233": 1793762446.5583992
+  "https://gorkhapatraonline.com/news/228233": 1793762446.5583992,
+  "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZlYxczk3WGI3d2F6NGtWdENKRkMxVGM1aGlkMXBTRnlDVjN0QkdRRjZvRk9RWDdQMDcyTXdTR0h1cGlENjMyRTJyVVo4eDc4MWloTG93YUJUQkNReG1lSXVqMF93enJ3RlF6QldOVjhXUXRVaTdEZ2kxd1gwN2ZGVF9UYVplUl80THVlWGF5YjFzSVF0U0xBLTNDOWRXYUhsZ0w0ZkZuaw?oc=5": 1793763068.9374845,
+  "https://kathmandupost.com/world/2026/11/04/top-takeaways-from-the-us-midterm-elections": 1793763068.9374845
  },
  "queue": [
   {
@@ -2828,7 +2823,7 @@
    "cat": "world",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "अमेरिकी मध्यावधि चुनावले युद्ध र वैदेशिक विकास सहायतामा कस्तो प्रभाव पार्छ ?",
@@ -4580,7 +4575,7 @@
    "cat": "world",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "How Has The CPC Persevered With Full And Rigorous Party Self-governance?",
@@ -4676,17 +4671,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1793157661.9929593,
-   "en": "Nepal Telecom Sees Up to 3X Surge in New Connections as Private ISPs Raise Internet Prices",
-   "ne": "Nepal Telecom Sees Up to 3X Surge in New Connections as Private ISPs Raise Internet Prices",
-   "link": "https://kathmandupost.com/money/2026/10/28/users-turn-to-nepal-telecom-as-private-isps-raise-internet-prices",
-   "source": "The Kathmandu Post",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "tech"
-  },
   {
    "ts": 1793159491.4858007,
    "en": "Bailey bridge restores traffic on Gorkha-Dhading road",
@@ -7801,8 +7785,8 @@
    "cat": "society"
   }
  ],
- "updated": 1793762472,
- "pending_since": null,
+ "updated": 1793763073,
+ "pending_since": 1793763068.9374845,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
