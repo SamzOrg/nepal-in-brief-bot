@@ -2326,7 +2326,9 @@
   "https://english.khabarhub.com/2026/04/574243/": 1793753448.99658,
   "https://gorkhapatraonline.com/news/228213": 1793753448.99658,
   "https://risingnepaldaily.com/news/88363": 1793753448.99658,
-  "https://gorkhapatraonline.com/news/228211": 1793753448.99658
+  "https://gorkhapatraonline.com/news/228211": 1793753448.99658,
+  "https://kathmandupost.com/national/2026/11/04/ex-pm-nepal-ex-minister-rijal-among-97-charged-in-morang-land-swap-scam": 1793754078.272198,
+  "https://kathmandupost.com/editorial/2026/11/03/win-back-indian-travellers": 1793754078.272198
  },
  "queue": [
   {
@@ -2391,50 +2393,6 @@
     "KPOli"
    ],
    "cat": "politics",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "सभापति थापा र अध्यक्ष ओलीबीच मधेस सरकारबारे छलफल",
-   "summary": "",
-   "link": "https://www.setopati.com/politics/401955",
-   "source": "Setopati",
-   "ts": 1793725260,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "सभापति थापा र अध्यक्ष ओलीबीच मधेस सरकारबारे छलफल",
-   "en": "सभापति थापा र अध्यक्ष ओलीबीच मधेस सरकारबारे छलफल",
-   "ne": "सभापति थापा र अध्यक्ष ओलीबीच मधेस सरकारबारे छलफल",
-   "imp": 3,
-   "tags": [
-    "SabhaapatiThapa",
-    "MadheshGov"
-   ],
-   "cat": "politics",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "India Sees 1500% Surge in Gold Smuggling Despite PM Modi's Appeals",
-   "summary": "Kathmandu. Despite Indian Prime Minister Narendra Modi repeatedly urging citizens not to buy gold, its illegal import (smuggling) in India...",
-   "link": "http://english.ratopati.com/story/85564/modis-appeal-to-dont-buy-gold-ignored-gold-smuggling-in-india-increases-by-1500-percent",
-   "source": "Ratopati EN",
-   "ts": 1793725222,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/gold_94oz5rxjj6_M00zGgJtd9.webp",
-   "lang": "en",
-   "hl": "India Sees 1500% Surge in Gold Smuggling Despite PM Modi's Appeals",
-   "en": "India Sees 1500% Surge in Gold Smuggling Despite PM Modi's Appeals",
-   "ne": "India Sees 1500% Surge in Gold Smuggling Despite PM Modi's Appeals",
-   "imp": 1,
-   "tags": [
-    "GoldSmuggling",
-    "India"
-   ],
-   "cat": "world",
    "val": 2,
    "teaser": false,
    "hits": 1
@@ -3132,20 +3090,32 @@
    "val": 1,
    "teaser": true,
    "hits": 1
+  },
+  {
+   "title": "Win back Indian travellers",
+   "summary": "October's sharp drop in Indian arrivals exposes Nepal's tourism industry's vulnerability.",
+   "link": "https://kathmandupost.com/editorial/2026/11/03/win-back-indian-travellers",
+   "source": "Kathmandu Post",
+   "ts": 1793739679.4611042,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "Win back Indian travellers",
+   "en": "Win back Indian travellers",
+   "ne": "Win back Indian travellers",
+   "imp": 2,
+   "tags": [
+    "Tourism",
+    "India",
+    "Travel"
+   ],
+   "cat": "economy",
+   "val": 1,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1793148654.2503524,
-   "en": "Nepal defeats Oman by 10 runs in ICC Cricket World Cup League-2",
-   "ne": "Nepal defeats Oman by 10 runs in ICC Cricket World Cup League-2",
-   "link": "https://risingnepaldaily.com/news/87950",
-   "source": "The Rising Nepal",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "sports"
-  },
   {
    "ts": 1793150454.7582567,
    "en": "Malaysia suspends recruitment of workers from Nepal over agency dispute",
@@ -6260,8 +6230,8 @@
    "cat": "world"
   }
  ],
- "updated": 1793753483,
- "pending_since": null,
+ "updated": 1793754090,
+ "pending_since": 1793754078.272198,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
