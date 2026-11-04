@@ -1,9 +1,5 @@
 {
  "seen": {
-  "http://english.ratopati.com/story/85446/parliamentary-committee-meeting-begins-to-decide-on-proposed-ambassador-to-japan": 1793614851.102429,
-  "https://baahrakhari.com/detail/506373": 1793614851.102429,
-  "https://gorkhapatraonline.com/news/228046": 1793614851.102429,
-  "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZzFQZ2dMNWhaLTNHNnRwNjlsQnJ3RlE1T2FEc2MtMGlkRzFaODFKLURkbGNMNGU4VW8yYklzOEZSbzVRVEVLU09qZzhDTXpmeGdnXzQ0QkdKZkRRRjBZZU1KOExjS2tDcThJVndfRW5BdGpIQ1lnVXE3MGVRaDVHWEJwLXBad21JOWtiWGoxUldQTVhFM3ZIOEs4TXNzNEpra3FWVVpLX19hOV9idEE2MUh2WTFycjc4WHN0WU9n?oc=5": 1793614851.102429,
   "https://english.onlinekhabar.com/parliamentary-hearing-committee-meets.html": 1793615478.89538,
   "https://baahrakhari.com/detail/506375": 1793615478.89538,
   "https://www.setopati.com/politics/401844": 1793615478.89538,
@@ -2256,7 +2252,36 @@
   "https://gorkhapatraonline.com/news/228290": 1793787049.7265542,
   "https://english.khabarhub.com/2026/04/574439/": 1793787049.7265542,
   "https://news.google.com/rss/articles/CBMiswFBVV95cUxQX2hKRDFHb0k5cjEwbkxwZndCVGtHLTJnZU11TjVCSlpZamo5NFEyd29leXRXdkNVTWxEQk8zU2lkS1ViOF9ycmY0dEtZLVdQWHhaSDZPNW0xMHJETXJyeEdYT1FpUDZIUHRMT3hQTVRac0dVWE9sT1gwWmY2a1FkQWVBQ2U3U3RDTVp6M3NZbnZ5ZkQ2dWlub0JKSXpUYkl2X0VyUWMtdGF5MDBaZUtuT3lrQQ?oc=5": 1793787049.7265542,
-  "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUEprNU92YkNJNUNLQmNLLXNqUTJJMWlrLWN2bTNfdy1VTFV3RzJqazFnT1R3Ymxic0VQVDhJSFMyU1A5bDlESm5FWkRuY2tsYXNUREUteUFEVC1PcUlYQ3k4WGlVYi1rQVZzWWN6S3JiUzFiVkozR2RGMGh1Uk5mdnFFNVBoSlpPekdnb1BwMjV0Nmk4c09MRmJuWHg?oc=5": 1793787049.7265542
+  "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUEprNU92YkNJNUNLQmNLLXNqUTJJMWlrLWN2bTNfdy1VTFV3RzJqazFnT1R3Ymxic0VQVDhJSFMyU1A5bDlESm5FWkRuY2tsYXNUREUteUFEVC1PcUlYQ3k4WGlVYi1rQVZzWWN6S3JiUzFiVkozR2RGMGh1Uk5mdnFFNVBoSlpPekdnb1BwMjV0Nmk4c09MRmJuWHg?oc=5": 1793787049.7265542,
+  "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYk00YnhteE9BYUNKMW5fMjZ5THNmYWxwaFkyUnI3eDEwNUVrNUNIdXR6OGlIS1JwZk1nM3o4X003MVNBcVBTWWVfYlh1YkF3OXJfUVVuMnlUQmFrcVFuSjRBbTFBSUlraDdleTZHaEZpVDByMjA0b1drY3hQbTUxaUVpTzZKTFNBODlwZ3FGaVpDZ1prS01sRFNqeVF0Zkp6bXZaRFRIdW1LVHd1eGdvQXNfZHN5SzJUdE15Q2p0TmxiUXRCLWhvS9IByAFBVV95cUxNYk00YnhteE9BYUNKMW5fMjZ5THNmYWxwaFkyUnI3eDEwNUVrNUNIdXR6OGlIS1JwZk1nM3o4X003MVNBcVBTWWVfYlh1YkF3OXJfUVVuMnlUQmFrcVFuSjRBbTFBSUlraDdleTZHaEZpVDByMjA0b1drY3hQbTUxaUVpTzZKTFNBODlwZ3FGaVpDZ1prS01sRFNqeVF0Zkp6bXZaRFRIdW1LVHd1eGdvQXNfZHN5SzJUdE15Q2p0TmxiUXRCLWhvSw?oc=5": 1793788269.973904,
+  "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWXpZUHlNaFJFcmdhTXZjU1R4ZjlVbHluSmlaNWhHbmFNekV0YzhzZ194aHQtbE1qUmlUN3prRzlXRmFabHhhajJKM0I2N2xQaHh4QUZhVWxnWDB1NFBoRm5SWWRhVzRHcEo1Q3ZRb29tWXFaNHRfbTMxakNZV3YzcEV3Zl9OekVQZzdxOXFSb1MwZGEyMlpSUGYyUUM2OWkySWhmbHpNbTZkVHdvWFlRSmFzVjdMZzNsZUlVUjBjSQ?oc=5": 1793788269.973904,
+  "https://news.google.com/rss/articles/CBMipAFBVV95cUxNd3RsQmo5TUxhenhHT2pneDFXcUJOd2h4TDhteURELUV1MFZkS0U3eE5rTW5uT0J3eTd3QlF3MjF3RlNYREJqRnRrMVlodkQ2eDdfam5LOGd0cFJ2UzMtcmpCazEwZTh0NnZPWjQxbmhnU0h1RFUtU21kTjR1ZmNscXZfbTV6emlrM3NteENuYzQ3b0xxSnJLMXVBSTFDYVBxQmxzeQ?oc=5": 1793788269.973904,
+  "https://kathmandupost.com/national/2026/11/04/the-real-reason-igp-dan-bahadur-karki-was-sacked": 1793788269.973904,
+  "https://baahrakhari.com/detail/506569": 1793788269.973904,
+  "http://english.ratopati.com/story/85649/illegally-imported-firecrackers-and-explosives-destroyed-in-parsa": 1793788269.973904,
+  "https://nagariknews.nagariknetwork.com/social-affairs/indian-citizen-dies-after-car-falls-into-river-in-jalbire-chitwan-67-11.html": 1793788269.973904,
+  "https://gorkhapatraonline.com/news/228292": 1793788269.973904,
+  "https://english.onlinekhabar.com/nepali-communist-party-questions-govt.html": 1793788269.973904,
+  "https://www.setopati.com/social/402009": 1793788269.973904,
+  "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQRktiODdvRnM1bTRTa2J3OTgyNlNCUHhtenRfdlJ4RTVkR1F6TS1YZm9MdXNNR19jdGNvZ1Jqb1RiclJnMEZTTUJYQkRRamprX1VCd1N5RVZwWkVSbXNNeGtXWnhvdjIxcUtUc1JpSkFDRFhuRm1tUURPWGdtU05ONmFwTThVTTB5NXJSZlllWFZXRXA0bTE3aWFGTnBCb0xWd3lHZFdvQmV4MG9OcFhDNzRIWHExQ0ZOWENqdlpibTdSZHlQUHkzeDQya0RiOHFaSUZmdlFzWUxLRURoMlUxaVF3?oc=5": 1793788269.973904,
+  "https://news.google.com/rss/articles/CBMipgFBVV95cUxPakpaS05KWl9SbFROV3REdUM0dUVXQmdPRzQzNkItRl9uZmtwajcyZXR0bS1ESjlabmEwVkt3eWNnSVdiZHpXcHItQXNTR19KVVcwZGxtT09HTEc0c2hfdkR6d184Z29MLWpsV2VhMVNNMmI2Skk5dTFrdzR4OVRoNVAtOC1fZlRoTW5OUkxhZ2VxZHVyRWpZcURWRGVaVnlmdmdoTTVn0gGmAUFVX3lxTE9qSlpLTkpaX1JsVE5XdER1QzR1RVdCZ09HNDM2Qi1GX25ma3BqNzJldHRtLURKOVpuYTBWS3d5Y2dJV2Jkeldwci1Bc1NHX0pVVzBkbG1PT0dMRzRzaF92RHp3Xzhnb0wtamxXZWExU00yYjZKSTl1MWt3NHg5VGg1UC04LV9mVGhNbk5STGFnZXFkdXJFallxRFZEZVpWeWZ2Z2hNNWc?oc=5": 1793788269.973904,
+  "https://theannapurnaexpress.com/story/68514": 1793788269.973904,
+  "https://kathmandupost.com/world/2026/11/04/obama-urges-democrats-to-act-after-sweeping-election-gains": 1793788269.973904,
+  "https://news.google.com/rss/articles/CBMilwFBVV95cUxONzlXV3BvZ3JGdG1BbHJtQjVQR0JVSzdpLUtmVWV0YWJVLXpCNkJHYld5TU5YM3U0Qk1FMU44Zml6MkV5clpPeVNPUGZoR3FOdkdZR3FDMkNGNEhzUEw1Z2ZQOGhMYlpTdkdrZTlNRHl5X2NoTGJiWE5QZURYT0haMExYZDZtanNXMlBidE1HdkVVdjZRSHlB?oc=5": 1793788269.973904,
+  "https://baahrakhari.com/detail/506568": 1793788269.973904,
+  "https://nagariknews.nagariknetwork.com/social-affairs/taplejung-residents-no-longer-have-to-go-to-their-home-district-to-obtain-a-copy-of-their-citizenship-certificate-98-45.html": 1793788269.973904,
+  "https://gorkhapatraonline.com/news/228291": 1793788269.973904,
+  "https://english.onlinekhabar.com/make-pokhara-tourist-destination.html": 1793788269.973904,
+  "https://www.setopati.com/ghumphir/ghumphir-experience/402010": 1793788269.973904,
+  "https://theannapurnaexpress.com/story/68513": 1793788269.973904,
+  "https://kathmandupost.com/national/2026/11/04/removed-police-chief-seeks-legal-advice": 1793788269.973904,
+  "https://nagariknews.nagariknetwork.com/politics/is-dan-bahadur-karki-s-comeback-as-igp-possible-what-does-a-30-year-old-example-say-68-74.html": 1793788269.973904,
+  "https://english.onlinekhabar.com/uml-lawmaker-writes-to-pm-balen-urges-him-to-prioritise-action-over-political-statements.html": 1793788269.973904,
+  "https://www.setopati.com/politics/402007": 1793788269.973904,
+  "https://theannapurnaexpress.com/story/68512": 1793788269.973904,
+  "https://nagariknews.nagariknetwork.com/international/imo-advises-commercial-ships-not-to-use-strait-of-hormuz-34-20.html": 1793788269.973904,
+  "https://www.setopati.com/social/402006": 1793788269.973904,
+  "https://nagariknews.nagariknetwork.com/arts/tabu-s-first-look-revealed-as-a-special-gift-to-fans-on-her-birthday-42-31.html": 1793788269.973904
  },
  "queue": [
   {
@@ -2329,29 +2354,6 @@
    "hits": 1
   },
   {
-   "title": "Economic Digest: A Snapshot of Nepal's Business News",
-   "summary": "KATHMANDU: Economic Digest presents a brief yet comprehensive roundup of major business developments in Nepal, delivered in clear and accessible summaries. Nepal's latest economic developments reflect a mixed picture of...",
-   "link": "https://english.khabarhub.com/2026/04/574331/",
-   "source": "Khabarhub EN",
-   "ts": 1793758557,
-   "weight": 2,
-   "img": "https://english.khabarhub.com/wp-content/uploads/2024/05/Economic-Digest-640x360.jpg",
-   "lang": "en",
-   "hl": "Economic Digest: A Snapshot of Nepal's Business News",
-   "en": "Economic Digest: A Snapshot of Nepal's Business News",
-   "ne": "Economic Digest: A Snapshot of Nepal's Business News",
-   "imp": 2,
-   "tags": [
-    "EconomicDigest",
-    "Business",
-    "Nepal"
-   ],
-   "cat": "economy",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
-  },
-  {
    "title": "चितवन राइनोजको 'विश्वास पात्र' बन्दै युवा स्पिनर रञ्जित कुमार",
    "summary": "",
    "link": "https://baahrakhari.com/detail/506504",
@@ -2398,74 +2400,6 @@
    "hits": 1
   },
   {
-   "title": "Kalimati Market Releases Wholesale Prices for Agricultural Produce",
-   "summary": "Kathmandu. Kalimati Fruit and Vegetable Market Development Committee has published today's wholesale prices of agricultural produce. According to the price...",
-   "link": "http://english.ratopati.com/story/85580/what-is-the-price-of-which-vegetables-and-fruits-in-kalimati-today",
-   "source": "Ratopati EN",
-   "ts": 1793758686,
-   "weight": 2,
-   "img": "https://rpcdn.ratopati.com/media/albums/Vegtable_huUK3Czptk.jpg",
-   "lang": "en",
-   "hl": "Kalimati Market Releases Wholesale Prices for Agricultural Produce",
-   "en": "Kalimati Market Releases Wholesale Prices for Agricultural Produce",
-   "ne": "Kalimati Market Releases Wholesale Prices for Agricultural Produce",
-   "imp": 2,
-   "tags": [
-    "KalimatiMarket",
-    "VegetablePrices",
-    "Agriculture"
-   ],
-   "cat": "economy",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "'सबभन्दा बढी चिन्ता बहिनीको छ'",
-   "summary": "छोराछोरीको भविष्य, घरखर्च र देशको अवस्थाबारे उनका आफ्नै अनुभव र बुझाइ छन्। १७ वर्षदेखि पसल चलाउँदै आएकी उनलाई सरकारले लालपुर्जा दिए ऋण लिएर घर बनाउन हुन्थ्यो भन्ने लागेको छ। नयाँ सरकारसँग उनको अपेक्षा के छ?",
-   "link": "https://www.setopati.com/special-stories/we-people/401917",
-   "source": "Setopati",
-   "ts": 1793759232,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "'सबभन्दा बढी चिन्ता बहिनीको छ'",
-   "en": "'सबभन्दा बढी चिन्ता बहिनीको छ'",
-   "ne": "'सबभन्दा बढी चिन्ता बहिनीको छ'",
-   "imp": 1,
-   "tags": [
-    "Tihar",
-    "FeatureArticle"
-   ],
-   "cat": "society",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "उच्चको फैसला संगठित अपराधमा गम्भीर चुनौती भन्दै सरकार पुग्यो सर्वोच्च",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/506522",
-   "source": "Baahrakhari",
-   "ts": 1793759433,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "उच्चको फैसला संगठित अपराधमा गम्भीर चुनौती भन्दै सरकार पुग्यो सर्वोच्च",
-   "en": "उच्चको फैसला संगठित अपराधमा गम्भीर चुनौती भन्दै सरकार पुग्यो सर्वोच्च",
-   "ne": "उच्चको फैसला संगठित अपराधमा गम्भीर चुनौती भन्दै सरकार पुग्यो सर्वोच्च",
-   "imp": 3,
-   "tags": [
-    "SupremeCourt",
-    "OrganizedCrime",
-    "Government"
-   ],
-   "cat": "crime",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "प्राविधिक र भौतिक पूर्वाधारको अभावमा मत्स्य विकास केन्द्र",
    "summary": "अर्जुन काफ्लेस्याङ्जा, कात्तिक १८ गते । गण्डकी प्रदेशकै एक मात्र मत्स्य विकास केन्द्र प्राविधिक जनशक्ति र भौतिक पूर्वाधारको अभावमा लक्ष्यअनुसार काम गर्न नसक्ने अवस्थामा पुगेको छ ।...",
    "link": "https://gorkhapatraonline.com/news/228230",
@@ -2486,75 +2420,6 @@
    "cat": "economy",
    "val": 3,
    "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "मनाङमा भारतीय पर्यटकको आकर्षण बढ्दो",
-   "summary": "सन् २०२६ को अक्टोबरसम्म ५ हजार ४९ भारतीय पर्यटकले भ्रमण गरेका छन् ।",
-   "link": "https://www.setopati.com/kinmel/tourism/401963",
-   "source": "Setopati",
-   "ts": 1793758546,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "मनाङमा भारतीय पर्यटकको आकर्षण बढ्दो",
-   "en": "मनाङमा भारतीय पर्यटकको आकर्षण बढ्दो",
-   "ne": "मनाङमा भारतीय पर्यटकको आकर्षण बढ्दो",
-   "imp": 2,
-   "tags": [
-    "Manang",
-    "IndianTourists",
-    "Tourism"
-   ],
-   "cat": "culture",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "लोक सेवा तयारी सामग्री : वस्तुगत प्रश्नोत्तर",
-   "summary": "१. 'विश्व आर्थिक स्वतन्त्रता सूचकाङ्क २०२६ अनुसार अनुसार नेपाल कति औँ स्थानमा रहेको छ ? ९० औँ - समृद्धि फाउन्डेसनले क्यानडास्थित फ्रेजर इन्स्टिच्युटसँगको सहकार्यमा सार्वजनिक गरेको...",
-   "link": "https://gorkhapatraonline.com/news/228229",
-   "source": "Gorkhapatra",
-   "ts": 1793758606,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/390315/conversions/bastu-12-(1)-original.jpg",
-   "lang": "ne",
-   "hl": "लोक सेवा तयारी सामग्री : वस्तुगत प्रश्नोत्तर",
-   "en": "लोक सेवा तयारी सामग्री : वस्तुगत प्रश्नोत्तर",
-   "ne": "लोक सेवा तयारी सामग्री : वस्तुगत प्रश्नोत्तर",
-   "imp": 1,
-   "tags": [
-    "LokSewa",
-    "PublicService",
-    "ExamPreparation"
-   ],
-   "cat": "education",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "विपत् सङ्कटग्रस्त क्षेत्र : विषयगत प्रश्नोत्तर",
-   "summary": "विपत् सङ्कटग्रस्त क्षेत्र १. विपत् सङ्कटग्रस्त क्षेत्र भनेको के हो ? विपत् सङ्कटग्रस्त क्षेत्र घोषणासम्बन्धी कानुनी व्यवस्था उल्लेख गर्दै नेपाल सरकारले त्यस क्षेत्रमा के कस्ता कार्...",
-   "link": "https://gorkhapatraonline.com/news/228228",
-   "source": "Gorkhapatra",
-   "ts": 1793758261,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/390313/conversions/bisayagat-12-(1)-original.jpg",
-   "lang": "ne",
-   "hl": "विपत् सङ्कटग्रस्त क्षेत्र : विषयगत प्रश्नोत्तर",
-   "en": "विपत् सङ्कटग्रस्त क्षेत्र : विषयगत प्रश्नोत्तर",
-   "ne": "विपत् सङ्कटग्रस्त क्षेत्र : विषयगत प्रश्नोत्तर",
-   "imp": 2,
-   "tags": [
-    "DisasterManagement",
-    "CrisisZone",
-    "विपद्"
-   ],
-   "cat": "disaster",
-   "val": 1,
-   "teaser": true,
    "hits": 1
   },
   {
@@ -3457,30 +3322,6 @@
    "hits": 1
   },
   {
-   "title": "Nepal imports 3,725 tons of Chinese fruit via Korala border crossing",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeVQ2VjMzcjRsQ1pfUDNfM2U2TW9Db0c3eFpmMGNlREFTQ0lpRDBfTjNVcTNsMG13Qll6MXVTbGtVblE4QUZtNF85ejZaYWI1S192bDVDREVHYkJUWS1UWmlOMDUwZG9TUnJzTi0wRWdINWhMQ2JQcUxJdlpvX1YzVUExS2NvYnVIcXRoVkdxNW9ZYTVfUGlEbGlMdTRYR3VQTGVqV1VqVHYySk5jZFRBWTVPX3BPTFRWRlBtRWItY0NERmlj?oc=5",
-   "source": "FreshPlaza",
-   "ts": 1793758609,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Nepal imports 3,725 tons of Chinese fruit via Korala border crossing",
-   "en": "Nepal imports 3,725 tons of Chinese fruit via Korala border crossing",
-   "ne": "Nepal imports 3,725 tons of Chinese fruit via Korala border crossing",
-   "imp": 3,
-   "tags": [
-    "KoralaBorder",
-    "China",
-    "Imports",
-    "Fruit"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "भारतीय विदेश सचिव मिश्री काठमाडौँमा",
    "summary": "काठमाडौँ, कात्तिक १८ गते । भारतका विदेश सचिव विक्रम मिश्री दुईदिने औपचारिक भ्रमणका क्रममा बुधबार नेपाल आउनुभएको छ ।परराष्ट्र सचिव अमृतबहादुर राईको निमन्त्रणामा भारतीय विदेश सचिव मि...",
    "link": "https://gorkhapatraonline.com/news/228245",
@@ -3667,30 +3508,6 @@
     "चितवन"
    ],
    "cat": "crime",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "Iran unveils huge billboard with threat against Trump's life",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNDItbHB6RV8yZV9zeUs4QkZNZHdtUzZ4Rk1zc3BpTEluNDNTellKcXVaX1JuNFVuZF9hNjRMMTdFdjNnak5vREE4cmRNalNaWXY2NjU3cWRXb3VkTlN2dEtPZVUzOGQzeEFrVHc3NENlS3hoLXIzX2FsQTc5ZnJnLWg1RzhoZGNJcEVfTzI0eHhwUElSNGE4bHdsS01paHh3Wm5NVUNHRnJ0cHJnS3JGNHVSYWlMNkhOSkE?oc=5",
-   "source": "myRepublica",
-   "ts": 1793758438,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Iran unveils huge billboard with threat against Trump's life",
-   "en": "Iran unveils huge billboard with threat against Trump's life",
-   "ne": "Iran unveils huge billboard with threat against Trump's life",
-   "imp": 1,
-   "tags": [
-    "Iran",
-    "Trump",
-    "Billboard",
-    "Threat"
-   ],
-   "cat": "world",
    "val": 3,
    "teaser": false,
    "hits": 2
@@ -4903,52 +4720,6 @@
    "hits": 3
   },
   {
-   "title": "Export incentives in Nepal: Lessons from other countries",
-   "summary": "The export incentive is a vast subject as it has virtually limitless possibilities in the realms of financial and other assistance given to exporters. One way of gaining insight into some of the consequences of export...",
-   "link": "https://theannapurnaexpress.com/story/68504",
-   "source": "Annapurna Express",
-   "ts": 1793759465.5355043,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Export incentives in Nepal: Lessons from other countries",
-   "en": "Export incentives in Nepal: Lessons from other countries",
-   "ne": "Export incentives in Nepal: Lessons from other countries",
-   "imp": 2,
-   "tags": [
-    "ExportIncentives",
-    "Nepal",
-    "Economy"
-   ],
-   "cat": "economy",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "A butterfly haven on Kathmandu's doorstep",
-   "summary": "Home to 124 of Nepal's approximately 630 butterfly species, Shivapuri Nagarjun National Park offers a rich mix of biodiversity, forest trails and tranquil escapes from the bustle of the capital.",
-   "link": "https://kathmandupost.com/visual-stories/2026/11/04/a-butterfly-haven-on-kathmandu-s-doorstep",
-   "source": "Kathmandu Post",
-   "ts": 1793759465.3877459,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "A butterfly haven on Kathmandu's doorstep",
-   "en": "A butterfly haven on Kathmandu's doorstep",
-   "ne": "A butterfly haven on Kathmandu's doorstep",
-   "imp": 2,
-   "tags": [
-    "Butterfly",
-    "Kathmandu",
-    "पुतली"
-   ],
-   "cat": "culture",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "भ्रष्टाचारको सय रुपैयाँ कि इमानदारीको एक रुपैयाँ ?",
    "summary": "इमानदारीपूर्वक श्रम गरेर कमाएको थोरै रकमले आत्मसम्मान दिन्छ । दिनभरि काम गरेर घर फर्कने मजदुरले आफ्नो कमाइको स्रोत लुकाउनुपर्दैन । उसले कसैको अधिकार खोसेको हुँदैन । रकम थोरै भए पनि मनमा सन्तुष्टि हुन्छ । गलत बाटोबाट...",
    "link": "https://baahrakhari.com/detail/506543",
@@ -4992,7 +4763,7 @@
    "cat": "world",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "जाजरकोटमा भतिजाको कोदालो प्रहारबाट काकाको मृत्यु",
@@ -5220,7 +4991,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 9
+   "hits": 10
   },
   {
    "title": "१८ ग्राम बढी ब्राउन सुगरसहित युवक पक्राउ",
@@ -6460,7 +6231,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 28
+   "hits": 29
   },
   {
    "title": "उपत्यकामा एकैदिन ६०८ सवारीचालक ट्राफिक कारबाहीमा",
@@ -7545,7 +7316,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "AIG Manoj Kumar KC appointed Nepal Police chief",
@@ -7824,7 +7595,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 3
   },
   {
    "title": "रिपब्लिकनलाई जिताउन कीर्तिमानी खर्च गरेका मस्कको व्यङ्ग्य",
@@ -7850,26 +7621,504 @@
    "hits": 1
   },
   {
-   "title": "SJVN Accelerates Arun-3 and Lower Arun Hydro Electric Projects Following Nepal Flash Floods",
+   "title": "समिति बैठकमार्फत प्रधानमन्त्रीलाई एमाले सांसदको पत्र- परिस्थितिलाई गम्भीरतापूर्वक लिनूस्",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUEprNU92YkNJNUNLQmNLLXNqUTJJMWlrLWN2bTNfdy1VTFV3RzJqazFnT1R3Ymxic0VQVDhJSFMyU1A5bDlESm5FWkRuY2tsYXNUREUteUFEVC1PcUlYQ3k4WGlVYi1rQVZzWWN6S3JiUzFiVkozR2RGMGh1Uk5mdnFFNVBoSlpPekdnb1BwMjV0Nmk4c09MRmJuWHg?oc=5",
-   "source": "HimbuMail",
-   "ts": 1793770508,
+   "link": "https://baahrakhari.com/detail/506569",
+   "source": "Baahrakhari",
+   "ts": 1793788110,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "समिति बैठकमार्फत प्रधानमन्त्रीलाई एमाले सांसदको पत्र- परिस्थितिलाई गम्भीरतापूर्वक लिनूस्",
+   "en": "समिति बैठकमार्फत प्रधानमन्त्रीलाई एमाले सांसदको पत्र- परिस्थितिलाई गम्भीरतापूर्वक लिनूस्",
+   "ne": "समिति बैठकमार्फत प्रधानमन्त्रीलाई एमाले सांसदको पत्र- परिस्थितिलाई गम्भीरतापूर्वक लिनूस्",
+   "imp": 3,
+   "tags": [
+    "UML",
+    "PrimeMinister",
+    "Politics"
+   ],
+   "cat": "politics",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Parsa Police Destroy Explosives Worth NPR 7 Lakh",
+   "summary": "Parsa. Parsa police have destroyed firecrackers, fireworks, and other explosive materials worth approximately NPR 7 lakh illegally brought in. The...",
+   "link": "http://english.ratopati.com/story/85649/illegally-imported-firecrackers-and-explosives-destroyed-in-parsa",
+   "source": "Ratopati EN",
+   "ts": 1793788076,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/pataka-2_ilmfOq2yNC.webp",
+   "lang": "en",
+   "hl": "Parsa Police Destroy Explosives Worth NPR 7 Lakh",
+   "en": "Parsa Police Destroy Explosives Worth NPR 7 Lakh",
+   "ne": "Parsa Police Destroy Explosives Worth NPR 7 Lakh",
+   "imp": 2,
+   "tags": [
+    "Parsa",
+    "Police",
+    "Explosives"
+   ],
+   "cat": "crime",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "चितवनको जलबिरेमा कार खस्दा भारतीय नागरिकको मृ'त्यु",
+   "summary": "समाचारको चितवनको इच्छाकामना गाउँपालिका-६ स्थित जलबिरे लामो झरना घुमेर फर्कंदै गरेको भारतीय नम्बरको कार दुर्घटना हुँदा एक जनाको घटनास्थलमै मृत्यु भएको छ।...",
+   "link": "https://nagariknews.nagariknetwork.com/social-affairs/indian-citizen-dies-after-car-falls-into-river-in-jalbire-chitwan-67-11.html",
+   "source": "Nagarik News",
+   "ts": 1793788009,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2025/third-party/1793787929_jalbirema%20car.png",
+   "lang": "ne",
+   "hl": "चितवनको जलबिरेमा कार खस्दा भारतीय नागरिकको मृ'त्यु",
+   "en": "चितवनको जलबिरेमा कार खस्दा भारतीय नागरिकको मृ'त्यु",
+   "ne": "चितवनको जलबिरेमा कार खस्दा भारतीय नागरिकको मृ'त्यु",
+   "imp": 3,
+   "tags": [
+    "Chitwan",
+    "CarCrash",
+    "Jalbibire"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "दक्षिण चीन सागरमा सतर्क रहन फिलिपिन्सलाई चीनको चेतावनी",
+   "summary": "बैङ्कक, कात्तिक १८ गते । चीनका विदेशमन्त्री वाङ यीले दक्षिण चीन सागरको विवादमा सतर्क रहन र चीनसँगको सम्बन्धमा हस्तक्षेप गर्ने व्यक्तिमाथि नियन्त्रण गर्न फिलिपिन्सलाई आग्रह गर्नुभएक...",
+   "link": "https://gorkhapatraonline.com/news/228292",
+   "source": "Gorkhapatra",
+   "ts": 1793787842,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/390416/conversions/converted_image---2026-11-04T160933.445-original.jpg",
+   "lang": "ne",
+   "hl": "दक्षिण चीन सागरमा सतर्क रहन फिलिपिन्सलाई चीनको चेतावनी",
+   "en": "दक्षिण चीन सागरमा सतर्क रहन फिलिपिन्सलाई चीनको चेतावनी",
+   "ne": "दक्षिण चीन सागरमा सतर्क रहन फिलिपिन्सलाई चीनको चेतावनी",
+   "imp": 1,
+   "tags": [
+    "SouthChinaSea",
+    "China",
+    "Philippines"
+   ],
+   "cat": "world",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Nepali Communist Party questions government's conduct, police interference and judicial impartiality",
+   "summary": "Kathmandu, November 4 The Nepali Communist Party (NCP) has raised questions about the government's working style, governance, human rights, alleged misuse of the police administration and the impartiality of the...",
+   "link": "https://english.onlinekhabar.com/nepali-communist-party-questions-govt.html",
+   "source": "Onlinekhabar EN",
+   "ts": 1793787613,
+   "weight": 3,
+   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/08/State-Affairs-and-Good-Governance-Committee.jpg",
+   "lang": "en",
+   "hl": "Nepali Communist Party questions government's conduct, police interference and judicial impartiality",
+   "en": "Nepali Communist Party questions government's conduct, police interference and judicial impartiality",
+   "ne": "Nepali Communist Party questions government's conduct, police interference and judicial impartiality",
+   "imp": 3,
+   "tags": [
+    "CommunistParty",
+    "NepalPolitics"
+   ],
+   "cat": "politics",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "'सरकार कोठा खाली छ?' अभियानमा बाबुराम भट्टराईको ऐक्यवद्धता",
+   "summary": "बुधबार दिउँसो पूर्वप्रधानमन्त्री भट्टराई धर्नामा रहेकी नेपालीको मागमा ऐक्युवद्धता जनाउन माइतीघर पुगेका हुन्।",
+   "link": "https://www.setopati.com/social/402009",
+   "source": "Setopati",
+   "ts": 1793787600,
+   "weight": 3,
+   "img": null,
+   "lang": "ne",
+   "hl": "'सरकार कोठा खाली छ?' अभियानमा बाबुराम भट्टराईको ऐक्यवद्धता",
+   "en": "'सरकार कोठा खाली छ?' अभियानमा बाबुराम भट्टराईको ऐक्यवद्धता",
+   "ne": "'सरकार कोठा खाली छ?' अभियानमा बाबुराम भट्टराईको ऐक्यवद्धता",
+   "imp": 2,
+   "tags": [
+    "BaburamBhattarai",
+    "Politics"
+   ],
+   "cat": "politics",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "1982 mountain charter draws researchers back to Nepal to ask what its promises mean for the Himalaya today",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQRktiODdvRnM1bTRTa2J3OTgyNlNCUHhtenRfdlJ4RTVkR1F6TS1YZm9MdXNNR19jdGNvZ1Jqb1RiclJnMEZTTUJYQkRRamprX1VCd1N5RVZwWkVSbXNNeGtXWnhvdjIxcUtUc1JpSkFDRFhuRm1tUURPWGdtU05ONmFwTThVTTB5NXJSZlllWFZXRXA0bTE3aWFGTnBCb0xWd3lHZFdvQmV4MG9OcFhDNzRIWHExQ0ZOWENqdlpibTdSZHlQUHkzeDQya0RiOHFaSUZmdlFzWUxLRURoMlUxaVF3?oc=5",
+   "source": "The Tourism Times",
+   "ts": 1793780100,
    "weight": 2,
    "img": null,
    "lang": "en",
-   "hl": "SJVN Accelerates Arun-3 and Lower Arun Hydro Electric Projects Following Nepal Flash Floods",
-   "en": "SJVN Accelerates Arun-3 and Lower Arun Hydro Electric Projects Following Nepal Flash Floods",
-   "ne": "SJVN Accelerates Arun-3 and Lower Arun Hydro Electric Projects Following Nepal Flash Floods",
-   "imp": 4,
+   "hl": "1982 mountain charter draws researchers back to Nepal to ask what its promises mean for the Himalaya today",
+   "en": "1982 mountain charter draws researchers back to Nepal to ask what its promises mean for the Himalaya today",
+   "ne": "1982 mountain charter draws researchers back to Nepal to ask what its promises mean for the Himalaya today",
+   "imp": 2,
    "tags": [
-    "SJVN",
-    "Arun3",
-    "LowerArun",
-    "Hydropower"
+    "Himalaya",
+    "Research",
+    "MountainCharter"
+   ],
+   "cat": "culture",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Nepal's remaining Bhutanese refugees seek legal recognition",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPakpaS05KWl9SbFROV3REdUM0dUVXQmdPRzQzNkItRl9uZmtwajcyZXR0bS1ESjlabmEwVkt3eWNnSVdiZHpXcHItQXNTR19KVVcwZGxtT09HTEc0c2hfdkR6d184Z29MLWpsV2VhMVNNMmI2Skk5dTFrdzR4OVRoNVAtOC1fZlRoTW5OUkxhZ2VxZHVyRWpZcURWRGVaVnlmdmdoTTVn0gGmAUFVX3lxTE9qSlpLTkpaX1JsVE5XdER1QzR1RVdCZ09HNDM2Qi1GX25ma3BqNzJldHRtLURKOVpuYTBWS3d5Y2dJV2Jkeldwci1Bc1NHX0pVVzBkbG1PT0dMRzRzaF92RHp3Xzhnb0wtamxXZWExU00yYjZKSTl1MWt3NHg5VGg1UC04LV9mVGhNbk5STGFnZXFkdXJFallxRFZEZVpWeWZ2Z2hNNWc?oc=5",
+   "source": "Inquirer.net",
+   "ts": 1793778237,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "Nepal's remaining Bhutanese refugees seek legal recognition",
+   "en": "Nepal's remaining Bhutanese refugees seek legal recognition",
+   "ne": "Nepal's remaining Bhutanese refugees seek legal recognition",
+   "imp": 3,
+   "tags": [
+    "BhutaneseRefugees",
+    "Nepal"
+   ],
+   "cat": "society",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Iran's chief negotiator says Americans voted 'no to war'",
+   "summary": "Iran's chief negotiator in talks with the US has said that Americans have \"said NO TO WAR\", after President Donald Trump's Republican Party suffered a stunning defeat in the midterm elections, BBC reported. \"We endorse...",
+   "link": "https://theannapurnaexpress.com/story/68514",
+   "source": "Annapurna Express",
+   "ts": 1793773871.1219761,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "Iran's chief negotiator says Americans voted 'no to war'",
+   "en": "Iran's chief negotiator says Americans voted 'no to war'",
+   "ne": "Iran's chief negotiator says Americans voted 'no to war'",
+   "imp": 1,
+   "tags": [
+    "Iran",
+    "USA",
+    "World"
+   ],
+   "cat": "world",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Obama urges Democrats to act after sweeping election gains",
+   "summary": "The former president says voters have sent a clear message against divisive politics as projections show Democrats poised to take control of both chambers of Congress.",
+   "link": "https://kathmandupost.com/world/2026/11/04/obama-urges-democrats-to-act-after-sweeping-election-gains",
+   "source": "Kathmandu Post",
+   "ts": 1793773870.734539,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "Obama urges Democrats to act after sweeping election gains",
+   "en": "Obama urges Democrats to act after sweeping election gains",
+   "ne": "Obama urges Democrats to act after sweeping election gains",
+   "imp": 1,
+   "tags": [
+    "Obama",
+    "Democrats",
+    "USA"
+   ],
+   "cat": "world",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "India's Foreign Secretary Visits Nepal Ahead of PM's Upcoming Trip",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONzlXV3BvZ3JGdG1BbHJtQjVQR0JVSzdpLUtmVWV0YWJVLXpCNkJHYld5TU5YM3U0Qk1FMU44Zml6MkV5clpPeVNPUGZoR3FOdkdZR3FDMkNGNEhzUEw1Z2ZQOGhMYlpTdkdrZTlNRHl5X2NoTGJiWE5QZURYT0haMExYZDZtanNXMlBidE1HdkVVdjZRSHlB?oc=5",
+   "source": "Bold News",
+   "ts": 1793768086,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "India's Foreign Secretary Visits Nepal Ahead of PM's Upcoming Trip",
+   "en": "India's Foreign Secretary Visits Nepal Ahead of PM's Upcoming Trip",
+   "ne": "India's Foreign Secretary Visits Nepal Ahead of PM's Upcoming Trip",
+   "imp": 3,
+   "tags": [
+    "India",
+    "ForeignSecretary",
+    "Nepal"
+   ],
+   "cat": "politics",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "ताप्लेजुङबासीले नागरिकताको प्रतिलिपी लिन अब गृहजिल्ला जान नपर्ने",
+   "summary": "ताप्लेजुङ जिल्लामा बसोबास गरिरहेका नेपालको जुनसुकै जिल्लाका नागरिकले अब ताप्लेजुङबाटै नागरिकता प्रमाणपत्रको प्रतिलिपि प्राप्त गर्न सक्ने भएका छन्।...",
+   "link": "https://nagariknews.nagariknetwork.com/social-affairs/taplejung-residents-no-longer-have-to-go-to-their-home-district-to-obtain-a-copy-of-their-citizenship-certificate-98-45.html",
+   "source": "Nagarik News",
+   "ts": 1793787711,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2026/third-party/1793787686_CDO_OFFICE_Taplejung.jpg",
+   "lang": "ne",
+   "hl": "ताप्लेजुङबासीले नागरिकताको प्रतिलिपी लिन अब गृहजिल्ला जान नपर्ने",
+   "en": "ताप्लेजुङबासीले नागरिकताको प्रतिलिपी लिन अब गृहजिल्ला जान नपर्ने",
+   "ne": "ताप्लेजुङबासीले नागरिकताको प्रतिलिपी लिन अब गृहजिल्ला जान नपर्ने",
+   "imp": 2,
+   "tags": [
+    "Taplejung",
+    "Citizenship",
+    "ताप्लेजुङ"
+   ],
+   "cat": "society",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "मन्त्री मेहतासँग जापानी राजदूत तोरुको शिष्टाचार भेट",
+   "summary": "काठमाडौँ, कात्तिक १८ गते । स्वास्थ्य तथा खाद्य स्वच्छतामन्त्री निशा मेहतासँग नेपालका लागि जापानका राजदूत माएदा तोरुल शिष्टाचार भेट गर्नुभएको छ ।मन्त्रालयमा उहाँहरुबीच भएको भेटमा ने...",
+   "link": "https://gorkhapatraonline.com/news/228291",
+   "source": "Gorkhapatra",
+   "ts": 1793787264,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/390415/conversions/53817-original.jpg",
+   "lang": "ne",
+   "hl": "मन्त्री मेहतासँग जापानी राजदूत तोरुको शिष्टाचार भेट",
+   "en": "मन्त्री मेहतासँग जापानी राजदूत तोरुको शिष्टाचार भेट",
+   "ne": "मन्त्री मेहतासँग जापानी राजदूत तोरुको शिष्टाचार भेट",
+   "imp": 2,
+   "tags": [
+    "JapanEmbassy",
+    "MinisterMehta",
+    "Diplomacy"
+   ],
+   "cat": "politics",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "What will it take to make Pokhara a year-round tourist destination?",
+   "summary": "In April 2026, hotels, resorts and cafés in Lakeside were almost all full, and occupancy reportedly reached around 90 percent. Six months earlier, during Dashain 2025, hotels in Pokhara were running at around 35...",
+   "link": "https://english.onlinekhabar.com/make-pokhara-tourist-destination.html",
+   "source": "Onlinekhabar EN",
+   "ts": 1793787300,
+   "weight": 3,
+   "img": "http://english.onlinekhabar.com/wp-content/uploads/2025/01/Pokhara-pumdikot-Himalayas-16.jpg",
+   "lang": "en",
+   "hl": "What will it take to make Pokhara a year-round tourist destination?",
+   "en": "What will it take to make Pokhara a year-round tourist destination?",
+   "ne": "What will it take to make Pokhara a year-round tourist destination?",
+   "imp": 2,
+   "tags": [
+    "Pokhara",
+    "Tourism"
    ],
    "cat": "economy",
+   "val": 1,
+   "teaser": true,
+   "hits": 1
+  },
+  {
+   "title": "अनुसन्धानको सिलसिलामा चुम भ्याली पुग्दा!",
+   "summary": "त्यहाँको गाउँले पिरेन फु गुफालाई धार्मिक स्थलको रूपमा लिने रहेछ र उक्त लेक जान प्रतिबन्ध गरेको रहेछ। यो कुरा थाहा पाएपछि हामी लोक्पा फर्किने निर्णय गर्‍यौँ। जडिबुटीको सर्वेक्षणसँगै अनेकौँ नियमहरूले बाँधिएका चुम भ्यालीका...",
+   "link": "https://www.setopati.com/ghumphir/ghumphir-experience/402010",
+   "source": "Setopati",
+   "ts": 1793787540,
+   "weight": 3,
+   "img": null,
+   "lang": "ne",
+   "hl": "अनुसन्धानको सिलसिलामा चुम भ्याली पुग्दा!",
+   "en": "अनुसन्धानको सिलसिलामा चुम भ्याली पुग्दा!",
+   "ne": "अनुसन्धानको सिलसिलामा चुम भ्याली पुग्दा!",
+   "imp": 1,
+   "tags": [
+    "TsumValley",
+    "Travel",
+    "चुमभ्याली"
+   ],
+   "cat": "culture",
+   "val": 1,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Delhi air quality worsens ahead of Diwali as firework restrictions enter force",
+   "summary": "Delhi is once again battling worsening air pollution as the onset of winter brings a familiar deterioration in air quality to India's capital. The city's air quality index (AQI) - which measures PM2.5, fine particulate...",
+   "link": "https://theannapurnaexpress.com/story/68513",
+   "source": "Annapurna Express",
+   "ts": 1793773871.1219761,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "Delhi air quality worsens ahead of Diwali as firework restrictions enter force",
+   "en": "Delhi air quality worsens ahead of Diwali as firework restrictions enter force",
+   "ne": "Delhi air quality worsens ahead of Diwali as firework restrictions enter force",
+   "imp": 1,
+   "tags": [
+    "Delhi",
+    "AirQuality",
+    "Diwali"
+   ],
+   "cat": "world",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Removed police chief seeks legal advice",
+   "summary": "Dan Bahadur Karki, who had 17 months left in his tenure as inspector general, is considering legal action after the cabinet replaced him with Manoj KC.",
+   "link": "https://kathmandupost.com/national/2026/11/04/removed-police-chief-seeks-legal-advice",
+   "source": "Kathmandu Post",
+   "ts": 1793773870.734539,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "Removed police chief seeks legal advice",
+   "en": "Removed police chief seeks legal advice",
+   "ne": "Removed police chief seeks legal advice",
+   "imp": 3,
+   "tags": [
+    "NepalPolice",
+    "IGP",
+    "Legal"
+   ],
+   "cat": "politics",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "UML lawmaker writes to PM Balen, urges him to prioritise action over political statements",
+   "summary": "Kathmandu, November 4 CPN-UML lawmaker Sajida Khatun Siddiqui has written a letter to Prime Minister Balendra Shah through a parliamentary committee, urging him to address growing public concerns and prioritise concrete...",
+   "link": "https://english.onlinekhabar.com/uml-lawmaker-writes-to-pm-balen-urges-him-to-prioritise-action-over-political-statements.html",
+   "source": "Onlinekhabar EN",
+   "ts": 1793786864,
+   "weight": 3,
+   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/09/Balen-Shah-5-1.jpg",
+   "lang": "en",
+   "hl": "UML lawmaker writes to PM Balen, urges him to prioritise action over political statements",
+   "en": "UML lawmaker writes to PM Balen, urges him to prioritise action over political statements",
+   "ne": "UML lawmaker writes to PM Balen, urges him to prioritise action over political statements",
+   "imp": 3,
+   "tags": [
+    "UML",
+    "BalenShah",
+    "Parliament"
+   ],
+   "cat": "politics",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Malaysia employment faces another setback",
+   "summary": "Malaysia's foreign employment sector has been suspended several times in the pastWhy does employment in Malaysia keep facing repeated suspensions?Malaysia has suspended foreign worker recruitment several times since...",
+   "link": "https://theannapurnaexpress.com/story/68512",
+   "source": "Annapurna Express",
+   "ts": 1793773871.1219761,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "Malaysia employment faces another setback",
+   "en": "Malaysia employment faces another setback",
+   "ne": "Malaysia employment faces another setback",
+   "imp": 2,
+   "tags": [
+    "Malaysia",
+    "Employment",
+    "ForeignEmployment"
+   ],
+   "cat": "economy",
+   "val": 1,
+   "teaser": true,
+   "hits": 1
+  },
+  {
+   "title": "होर्मुज जलमार्गमा व्यावसायिक जहाजलाई आवतजावत नगर्न आईएमओको सुझाव",
+   "summary": "अन्तर्राष्ट्रिय सामुद्रिक संगठन (आईएमओ) का महासचिव आर्सेनियो डोमिन्गुएजले होर्मुज जलडमरूबाट व्यावसायिक जहाजको आवतजावत तत्काल नगर्न सुझाव दिएका छन् ।...",
+   "link": "https://nagariknews.nagariknetwork.com/international/imo-advises-commercial-ships-not-to-use-strait-of-hormuz-34-20.html",
+   "source": "Nagarik News",
+   "ts": 1793787357,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2026/third-party/1792512809_Hormuz%20cable%20disruption%20.jpg",
+   "lang": "ne",
+   "hl": "होर्मुज जलमार्गमा व्यावसायिक जहाजलाई आवतजावत नगर्न आईएमओको सुझाव",
+   "en": "होर्मुज जलमार्गमा व्यावसायिक जहाजलाई आवतजावत नगर्न आईएमओको सुझाव",
+   "ne": "होर्मुज जलमार्गमा व्यावसायिक जहाजलाई आवतजावत नगर्न आईएमओको सुझाव",
+   "imp": 1,
+   "tags": [
+    "StraitOfHormuz",
+    "IMO",
+    "Shipping"
+   ],
+   "cat": "world",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "एनपिएलमा बेटिङ खेलाएको आरोपमा भारतीय नागरिक पक्राउ, ८९ लाखको कारोबार",
+   "summary": "तेस्रो संस्करणको नेपाल प्रिमियर लिग (एनपिएल) क्रिकेट प्रतियोगितामा अनलाइनमार्फत सट्टेबाजी (बेटिङ) गरेको आरोपमा एक भारतीय नागरिक पक्राउ परेका छन्।",
+   "link": "https://www.setopati.com/social/402006",
+   "source": "Setopati",
+   "ts": 1793786562,
+   "weight": 3,
+   "img": null,
+   "lang": "ne",
+   "hl": "एनपिएलमा बेटिङ खेलाएको आरोपमा भारतीय नागरिक पक्राउ, ८९ लाखको कारोबार",
+   "en": "एनपिएलमा बेटिङ खेलाएको आरोपमा भारतीय नागरिक पक्राउ, ८९ लाखको कारोबार",
+   "ne": "एनपिएलमा बेटिङ खेलाएको आरोपमा भारतीय नागरिक पक्राउ, ८९ लाखको कारोबार",
+   "imp": 3,
+   "tags": [
+    "NPL",
+    "Betting",
+    "NepalPremierLeague"
+   ],
+   "cat": "crime",
    "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "तब्बूको जन्मदिनमा फ्यानहरूलाई विशेष उपहार सार्वजनिक भयो अभिनेत्रीको पहिलो लुक",
+   "summary": "फिल्म 'किङ १००' मा तब्बू 'महन्ती झाँसी रानी' को भूमिकामा देखिनेछिन्।",
+   "link": "https://nagariknews.nagariknetwork.com/arts/tabu-s-first-look-revealed-as-a-special-gift-to-fans-on-her-birthday-42-31.html",
+   "source": "Nagarik News",
+   "ts": 1793783338,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2025/third-party/1793783244_tabbu.jpg",
+   "lang": "ne",
+   "hl": "तब्बूको जन्मदिनमा फ्यानहरूलाई विशेष उपहार सार्वजनिक भयो अभिनेत्रीको पहिलो लुक",
+   "en": "तब्बूको जन्मदिनमा फ्यानहरूलाई विशेष उपहार सार्वजनिक भयो अभिनेत्रीको पहिलो लुक",
+   "ne": "तब्बूको जन्मदिनमा फ्यानहरूलाई विशेष उपहार सार्वजनिक भयो अभिनेत्रीको पहिलो लुक",
+   "imp": 1,
+   "tags": [
+    "Tabu",
+    "Bollywood",
+    "Birthday"
+   ],
+   "cat": "culture",
+   "val": 2,
    "teaser": false,
    "hits": 1
   }
@@ -10965,10 +11214,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "crime"
+  },
+  {
+   "ts": 1793788280.8716002,
+   "en": "SJVN Fast-Tracks Arun-3 and Lower Arun Hydropower Projects in Nepal",
+   "ne": "SJVN Fast-Tracks Arun-3 and Lower Arun Hydropower Projects in Nepal",
+   "link": "https://himbumail.com/business/hydro-power/sjvn-accelerates-arun-3-and-lower-arun-hydro-electric",
+   "source": "HimbuMail",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "economy"
   }
  ],
- "updated": 1793787055,
- "pending_since": 1793787049.7265542,
+ "updated": 1793788292,
+ "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
