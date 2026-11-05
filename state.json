@@ -2143,7 +2143,8 @@
   "https://gorkhapatraonline.com/news/228379": 1793857252.5485082,
   "https://gorkhapatraonline.com/news/228378": 1793857252.5485082,
   "https://gorkhapatraonline.com/news/228377": 1793857252.5485082,
-  "https://gorkhapatraonline.com/news/228376": 1793857252.5485082
+  "https://gorkhapatraonline.com/news/228376": 1793857252.5485082,
+  "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWllOSW1WLWRwVmFMeXpUOEVGSlpKdUVhT3AyNlRGVUhWbUFUTTJaclFZNU1jUHNoR3U1UV9ZdXZON0Zsa0ZaaERleElfRTdBUzZBbmRIR3JfWWtUd0Q1Y215aklaRVN1UlI5SWo1NFdRbHRPTmhkZEhtS0l6d1pTcVFBR2ZyZkpGangzRWo4STZnMTlJUTlOa19hcjFBRG1WMDY0VXFXUkVaRk1wS1pB?oc=5": 1793857844.39459
  },
  "queue": [
   {
@@ -5285,7 +5286,7 @@
    "cat": "economy",
    "val": 3,
    "teaser": false,
-   "hits": 7
+   "hits": 8
   },
   {
    "title": "Govt extends deadline for companies to update records without penalties",
@@ -5350,50 +5351,6 @@
    "cat": "sports",
    "val": 1,
    "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Nearly 10 million Nepali children exposed to unhealthy air, UNICEF warns",
-   "summary": "Millions more face drought, extreme heat and landslides, with overlapping climate and environmental hazards threatening children's health, education and protection, a new report says.",
-   "link": "https://kathmandupost.com/national/2026/11/05/nearly-10-million-nepali-children-exposed-to-unhealthy-air-unicef-warns",
-   "source": "Kathmandu Post",
-   "ts": 1793840477.8350136,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Nearly 10 million Nepali children exposed to unhealthy air, UNICEF warns",
-   "en": "Nearly 10 million Nepali children exposed to unhealthy air, UNICEF warns",
-   "ne": "Nearly 10 million Nepali children exposed to unhealthy air, UNICEF warns",
-   "imp": 4,
-   "tags": [
-    "UNICEF",
-    "AirPollution"
-   ],
-   "cat": "health",
-   "val": 3,
-   "teaser": false,
-   "hits": 5
-  },
-  {
-   "title": "What's at stake in Nepal's general election: An interview with a pastor and human rights defender",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYVVCY2dudXQxRHMzQ3lrSXlVSnZBTk04RnRlUVNXRUdILTRaTW12UDdBMjRJWjlMLThkanBsc2xLSDdxSnZJTU9SUXhlVFF1VGZrNTNNYWRrdHBzcW9OV1lORFRJNUhkRjhhdlp3X3E3aDlWMnNyd19GQUdyaEJ5UC1VdnlXcFRfRm5lZUNRTkZFMDNhUTNpUTVfdnZkcXVZc00zZFJjMjhEQQ?oc=5",
-   "source": "Christian Solidarity Worldwide",
-   "ts": 1793829011,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "What's at stake in Nepal's general election: An interview with a pastor and human rights defender",
-   "en": "What's at stake in Nepal's general election: An interview with a pastor and human rights defender",
-   "ne": "What's at stake in Nepal's general election: An interview with a pastor and human rights defender",
-   "imp": 4,
-   "tags": [
-    "GeneralElection",
-    "Interview"
-   ],
-   "cat": "politics",
-   "val": 2,
-   "teaser": true,
    "hits": 1
   },
   {
@@ -5746,28 +5703,6 @@
    "val": 2,
    "teaser": false,
    "hits": 2
-  },
-  {
-   "title": "Woman dies of rabies in Khotang",
-   "summary": "Khotang, November 5 A woman has died of rabies in Khotang. Krishna Maya Thapa, 59, of Batase Ijara in Diprung Chuichumma Rural Municipality-4, lost her life to the infection. Thapa had been bitten on the leg by a cat...",
-   "link": "https://english.onlinekhabar.com/woman-dies-of-rabies-in-khotang.html",
-   "source": "Onlinekhabar EN",
-   "ts": 1793856750,
-   "weight": 3,
-   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/11/Rabies-killes-woman.jpg",
-   "lang": "en",
-   "hl": "Woman dies of rabies in Khotang",
-   "en": "Woman dies of rabies in Khotang",
-   "ne": "Woman dies of rabies in Khotang",
-   "imp": 4,
-   "tags": [
-    "Rabies",
-    "Khotang"
-   ],
-   "cat": "health",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
   },
   {
    "title": "छिमेक लघुवित्तले २५ प्रतिशत लाभांश दिने, बोनस र नगद कति?",
@@ -9004,10 +8939,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "infrastructure"
+  },
+  {
+   "ts": 1793857853.1923485,
+   "en": "59-year-old Krishna Maya Thapa dies of rabies in Khotang after cat bite, 28 locals vaccinated",
+   "ne": "59-year-old Krishna Maya Thapa dies of rabies in Khotang after cat bite, 28 locals vaccinated",
+   "link": "https://english.onlinekhabar.com/woman-dies-of-rabies-in-khotang.html",
+   "source": "Onlinekhabar EN",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "health"
   }
  ],
- "updated": 1793857269,
- "pending_since": null,
+ "updated": 1793857864,
+ "pending_since": 1793857844.39459,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
