@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMivgFBVV95cUxNY1RuTU5DSHc4c0QzM1o1VjQ1c2FxZmVxMEcwQTdfT21GaTJVNGtsU09yR0N0MHg2V1I2MHBIZmVMRlJmNjJjY2l6eXRhLTBFZ1VaRE12R1l1d1VuS2kxOGgzOF9BVFliUDh1WXN4a2JGdzFrdGdNRHRTVmM1N0hBVVBsQ05YOExXRk0xMXVwdFg4Nlo5djFBcHJxbkRfOWR4TnJMYXNZczhTWnRzZ3FGU3VPLXFhaHQ0YTZOUDZB?oc=5": 1793719870.1275277,
   "https://baahrakhari.com/detail/506508": 1793720447.6222482,
   "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcGlZRDE1Tmw2LUFvRnVDb0pGR0cyNTI0cUZ6UWR2Ung2Mm92Y1FEcEFuNDlURTRuZ09rQmc2TTFFMW1aLVhOTHJ0WUdBYWdnSlZzbWJWbEJrNlJHNkExcG1fTkVTWi1oUmNpSmxiMTFUY3hNWF80VUwwaWtucHVnR2xGd0RwclZJWEtOdDdpemlXZw?oc=5": 1793720447.6222482,
   "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTkRKc3pPQnRubGtVOF9iOE96Sm9maExraDViQVBJXzR0ZHlGaHF4UGtUSHJERWp2TDE5alJvLXQ0akxYalNkZGNtZHpGYzRNdVZjNGZYcFlRaTJHNUpCSGlqQW9qZmUtZHE5Q2lhekFVbGwzaHRsdV90d1k3LUhXRkVqNkl1OGNHT3VMVTc1VzNfQkU3dEhtLU15Umc?oc=5": 1793720447.6222482,
@@ -1961,7 +1960,8 @@
   "https://nagariknews.nagariknetwork.com/international/wong-sentenced-to-10-more-years-in-prison-for-collaborating-with-foreign-forces-in-anti-china-activities-25-41.html": 1793892048.7483594,
   "https://nagariknews.nagariknetwork.com/politics/legal-practitioners-need-training-in-debating-skills-and-law-firm-management-senior-advocate-karki-98-99.html": 1793892048.7483594,
   "https://nagariknews.nagariknetwork.com/social-affairs/stock-market-investor-deependra-agrawal-released-after-posting-rs-1-million-bail-38-95.html": 1793892048.7483594,
-  "https://nagariknews.nagariknetwork.com/sports/kathmandu-s-lopsided-9-wicket-win-over-biratnagar-79-96.html": 1793892048.7483594
+  "https://nagariknews.nagariknetwork.com/sports/kathmandu-s-lopsided-9-wicket-win-over-biratnagar-79-96.html": 1793892048.7483594,
+  "http://english.ratopati.com/story/85793/hospitals-investment-worth-crores-at-risk-after-ciaa-case": 1793892672.136795
  },
  "queue": [
   {
@@ -2141,28 +2141,6 @@
    "hits": 1
   },
   {
-   "title": "जसपा महोत्तरी अध्यक्षमा रामनरेश मनोनित",
-   "summary": "महोत्तरी समाचारदातामहोत्तरी, कात्तिक १९ गते । लोकतान्त्रिक समाजवादी पार्टी र जनता समाजवादी पार्टी मिलेर बनेको जनता समाजवादी पार्टी महोत्तरीको अध्यक्षमा रामनरेश राय मनोनित हुनुभएको...",
-   "link": "https://gorkhapatraonline.com/news/228398",
-   "source": "Gorkhapatra",
-   "ts": 1793863723,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/390549/conversions/Partibetadan-bhujhudai-original.jpg",
-   "lang": "ne",
-   "hl": "जसपा महोत्तरी अध्यक्षमा रामनरेश मनोनित",
-   "en": "जसपा महोत्तरी अध्यक्षमा रामनरेश मनोनित",
-   "ne": "जसपा महोत्तरी अध्यक्षमा रामनरेश मनोनित",
-   "imp": 3,
-   "tags": [
-    "Jaspa",
-    "RamNares"
-   ],
-   "cat": "politics",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Rastriya Swatantra Party Parliamentary Meeting Postponed Due to IGP Reshuffle Dispute",
    "summary": "Kathmandu. The parliamentary party meeting of the ruling Rastriya Swatantra Party (RSP) has been affected after the government changed the...",
    "link": "http://english.ratopati.com/story/85749/igp-reshuffle-affects-rsvp-parliamentary-party-meeting",
@@ -2178,28 +2156,6 @@
    "tags": [
     "RSP",
     "IGPReshuffle"
-   ],
-   "cat": "politics",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Congress Joint General Secretary Accuses Government of Creating Fear and Confusion",
-   "summary": "Kathmandu. Nepali Congress Joint General Secretary Ajay Babu Shiwakoti has accused the current government of trying to scare Congress by...",
-   "link": "http://english.ratopati.com/story/85747/congress-joint-general-secretary-shiwakoti-warns-the-government-not-to-dare-to-touch-the-fire",
-   "source": "Ratopati EN",
-   "ts": 1793863692,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/ajayababu-shiwakoti_iRy6Gu0B9l.webp",
-   "lang": "en",
-   "hl": "Congress Joint General Secretary Accuses Government of Creating Fear and Confusion",
-   "en": "Congress Joint General Secretary Accuses Government of Creating Fear and Confusion",
-   "ne": "Congress Joint General Secretary Accuses Government of Creating Fear and Confusion",
-   "imp": 2,
-   "tags": [
-    "Congress",
-    "Accusation"
    ],
    "cat": "politics",
    "val": 2,
@@ -2622,72 +2578,6 @@
    "cat": "politics",
    "val": 3,
    "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "आईजीपीबाट हटाउने निर्णयविरुद्ध दानबहादुर कार्की सर्वोच्चमा, पुनर्बहालीको माग",
-   "summary": "आफूलाई आईजीपीबाट हटाएर डा. मनोजकुमार केसीलाई नयाँ प्रहरी प्रमुख नियुक्त गर्ने मन्त्रिपरिषद्को निर्णय बदर गर्न माग गर्दै कार्की सर्वोच्च अदालत पुगेका हुन्।...",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/dan-bahadur-karki-moves-supreme-court-against-decision-to-remove-him-from-igp-post-demands-reinstatement-51-36.html",
-   "source": "Nagarik News",
-   "ts": 1793863556,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1791786125_danbahadur%20karki.jpg",
-   "lang": "ne",
-   "hl": "आईजीपीबाट हटाउने निर्णयविरुद्ध दानबहादुर कार्की सर्वोच्चमा, पुनर्बहालीको माग",
-   "en": "आईजीपीबाट हटाउने निर्णयविरुद्ध दानबहादुर कार्की सर्वोच्चमा, पुनर्बहालीको माग",
-   "ne": "आईजीपीबाट हटाउने निर्णयविरुद्ध दानबहादुर कार्की सर्वोच्चमा, पुनर्बहालीको माग",
-   "imp": 3,
-   "tags": [
-    "Karki",
-    "SupremeCourt"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "बागमतीका १४२ शाखा अधिकृतको सरुवा तथा पदस्थापन",
-   "summary": "बागमती प्रदेश सरकारले १४२ जना वरिष्ठ शाखा अधिकृत तथा शाखा अधिकृतको एकैपटक सरुवा तथा पदस्थापन गरेको छ।...",
-   "link": "https://nagariknews.nagariknetwork.com/politics/transfer-and-posting-of-142-branch-officers-in-bagmati-br-66-80.html",
-   "source": "Nagarik News",
-   "ts": 1793863473,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1783167180_bagmati%20prade.jpg",
-   "lang": "ne",
-   "hl": "बागमतीका १४२ शाखा अधिकृतको सरुवा तथा पदस्थापन",
-   "en": "बागमतीका १४२ शाखा अधिकृतको सरुवा तथा पदस्थापन",
-   "ne": "बागमतीका १४२ शाखा अधिकृतको सरुवा तथा पदस्थापन",
-   "imp": 2,
-   "tags": [
-    "Bagmati",
-    "Transfers"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "प्रधानमन्त्री राहत कोषमा मौज्दात १८ अर्ब ३७ करोड नाघ्यो",
-   "summary": "रसुवाको भोटेकोशी बाढीपछि प्रधानमन्त्री दैवी प्रकोप उद्धार कोष र प्रधानमन्त्री राहत कोषमा आर्थिक सहयोग जुट्ने क्रम अझ पनि जारी छ।...",
-   "link": "https://nagariknews.nagariknetwork.com/economy/balance-in-prime-minister-s-relief-fund-exceeds-rs-18-37-billion-50-62.html",
-   "source": "Nagarik News",
-   "ts": 1793863301,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1788246184_badhi.jpg",
-   "lang": "ne",
-   "hl": "प्रधानमन्त्री राहत कोषमा मौज्दात १८ अर्ब ३७ करोड नाघ्यो",
-   "en": "प्रधानमन्त्री राहत कोषमा मौज्दात १८ अर्ब ३७ करोड नाघ्यो",
-   "ne": "प्रधानमन्त्री राहत कोषमा मौज्दात १८ अर्ब ३७ करोड नाघ्यो",
-   "imp": 3,
-   "tags": [
-    "PrimeMinister",
-    "ReliefFund"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
    "hits": 1
   },
   {
@@ -7203,7 +7093,7 @@
    "cat": "politics",
    "val": 2,
    "teaser": true,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "जुम्लामै ४३ जनाको ईएनटी शल्यक्रिया, एक हजारभन्दा बढी लाभान्वित",
@@ -7413,17 +7303,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1793287363.9066925,
-   "en": "एनपिएल: विराटनगरद्वारा कर्णालीलाई १८७ रनको लक्ष्य",
-   "ne": "एनपिएल: विराटनगरद्वारा कर्णालीलाई १८७ रनको लक्ष्य",
-   "link": "https://www.setopati.com/sports/npl/401562",
-   "source": "Setopati",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "sports"
-  },
   {
    "ts": 1793289726.6891139,
    "en": "Centre closely monitoring Nepal flood situation; border areas in Bihar, UP on high alert",
@@ -10560,8 +10439,8 @@
    "cat": "disaster"
   }
  ],
- "updated": 1793892078,
- "pending_since": null,
+ "updated": 1793892693,
+ "pending_since": 1793892672.136795,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
