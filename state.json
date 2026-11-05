@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://gorkhapatraonline.com/news/228119": 1793677252.1435246,
   "https://thehimalayantimes.com/nepal/one-dead-one-injured-as-two-helicopters-collide-at-solukhumbu-helipad": 1793677849.991574,
   "https://english.onlinekhabar.com/two-helicopters-collide-pheriche.html": 1793677849.991574,
   "https://english.khabarhub.com/2026/03/574213/": 1793677849.991574,
@@ -2196,7 +2195,8 @@
   "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVmlwTFVEYUMzT1NSWGNuSkppbzNlSGd0eHBGQnNBYWZObllZRzNJVldIdl9YNk5teEk2MkxPUE5lejViTTktS09wOFlRa2ExaFQtVFA1cWRtM2NEWkZLX1JqUmJBZUw4QzFpbk1WLXk4ZTJqaHZZYWM2eWZUcEdULThzWE15YVRRRFpwNXFodGZuYnlvQTN5Ni1sUlZSdHI4VWJWS2NKVQ?oc=5": 1793848844.617262,
   "https://baahrakhari.com/detail/506625": 1793849466.4699874,
   "https://english.khabarhub.com/2026/05/574535/": 1793850042.9160125,
-  "https://gorkhapatraonline.com/news/228361": 1793850042.9160125
+  "https://gorkhapatraonline.com/news/228361": 1793850042.9160125,
+  "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNVh5NDFZTk9HdzE1aER3Y3hQWno2S1UwV0RMWG5xZEpGVnRUaWxFNXAwOGs3UGhRd3FhWGNTMGd5eEFOaGpjb3dXaFFzQ25oVVd2RTFfd2hvRGI0OUtEc2hzU2EyS2JaMjJrV1JXNU93Tl8wNkVDdXdIQjFreTk4Zmd0S1NpUHJsUEVPbnJHNVUyVGhqVUFiZ19GOUExZlNJYTh5azZ6TnZ0UHVPVlZaSQ?oc=5": 1793850643.6340632
  },
  "queue": [
   {
@@ -4092,7 +4092,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "एनपीएल : आज लुम्बिनी र जनकपुर, विराटनगर र काठमान्डु भिड्ने",
@@ -4160,29 +4160,6 @@
    "val": 3,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "Indian Foreign Secy Misri to pay courtesy call on PM Shah today",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOR3pESVNXckxnX09BcjAzZWNVcGV1aVE5S0ctdV81MGtwblBZVFlnVVhCUm9sdFNHbTAybEYycG01Ri1JbVl2U2paVHBia2FjcVM2WXo3ajRGUVNBODNuSWdvQnJaT0Z5YUY2Wmc1eEkwNGg0azlNbHI2SGpjcGdWRGY5V0RuYmY5T3c?oc=5",
-   "source": "myRepublica",
-   "ts": 1793845643,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Indian Foreign Secy Misri to pay courtesy call on PM Shah today",
-   "en": "Indian Foreign Secy Misri to pay courtesy call on PM Shah today",
-   "ne": "Indian Foreign Secy Misri to pay courtesy call on PM Shah today",
-   "imp": 4,
-   "tags": [
-    "VikramMisri",
-    "BalenShah",
-    "IndiaNepal"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "Flood Victims Seek Return to Homeland from Kathmandu Holding Center",
@@ -4366,29 +4343,6 @@
    "cat": "sports",
    "val": 3,
    "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Long list of agenda items, but little preparation for PM Balen's India visit",
-   "summary": "Kathmandu, November 5 Indian Foreign Secretary Vikram Misri spent Wednesday in a series of high-level meetings in Kathmandu, holding discussions with Finance Minister Swarnim Wagle, Foreign Minister Shishir Khanal and...",
-   "link": "https://english.onlinekhabar.com/agenda-preparation-balens-india-visit.html",
-   "source": "Onlinekhabar EN",
-   "ts": 1793848289,
-   "weight": 3,
-   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/08/Balen-Shah-1.jpg",
-   "lang": "en",
-   "hl": "Long list of agenda items, but little preparation for PM Balen's India visit",
-   "en": "Long list of agenda items, but little preparation for PM Balen's India visit",
-   "ne": "Long list of agenda items, but little preparation for PM Balen's India visit",
-   "imp": 4,
-   "tags": [
-    "BalenShah",
-    "IndiaVisit",
-    "Diplomacy"
-   ],
-   "cat": "politics",
-   "val": 2,
-   "teaser": true,
    "hits": 1
   },
   {
@@ -7701,9 +7655,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "health"
+  },
+  {
+   "ts": 1793850655.1694572,
+   "en": "Indian Foreign Secretary Vikram Misri assesses PM Balen's India visit prep in Kathmandu",
+   "ne": "Indian Foreign Secretary Vikram Misri assesses PM Balen's India visit prep in Kathmandu",
+   "link": "https://english.onlinekhabar.com/agenda-preparation-balens-india-visit.html",
+   "source": "Onlinekhabar EN",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "politics"
   }
  ],
- "updated": 1793850045,
+ "updated": 1793850667,
  "pending_since": 1793848844.617262,
  "fb_blocks": [
   1790350880.4125228,
