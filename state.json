@@ -1,9 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9VY3MzTUgxY1lGeXhoMmdVakkyRDJXVE5UeVoxVXhMSXN0blFLZXlmUVF5eGJVenVGNXdnQjRPN01YRGp0dGtfOW1QWWlwQ1VlaEhVZVVR?oc=5": 1793679056.1121445,
-  "https://nagariknews.nagariknetwork.com/social-affairs/two-helicopters-collide-in-seoul-42-19.html": 1793679056.1121445,
-  "http://english.ratopati.com/story/85515/one-dead-one-injured-in-motorcycle-collision-in-sundarijal": 1793679056.1121445,
-  "https://www.setopati.com/social/401881": 1793679056.1121445,
   "https://english.khabarhub.com/2026/03/574222/": 1793679648.8260088,
   "http://lokaantar.com/story/332466/2026/11/3/malekhu-muglin-": 1793679648.8260088,
   "https://theannapurnaexpress.com/story/68463": 1793679648.8260088,
@@ -2190,7 +2186,9 @@
   "https://gorkhapatraonline.com/news/228364": 1793851277.949505,
   "http://english.ratopati.com/story/85709/60000-families-in-jhapa-apply-for-land-ownership-certificates": 1793851277.949505,
   "https://gorkhapatraonline.com/news/228363": 1793851277.949505,
-  "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVVBHZndCUU1XVXgzYVZ6MzlLVnFfTElBRGhURWxQRkVwLXdkWFZxbUdXNnpzTG5EczdjSUk2bmg3NkNPeUlqLWVha1F1SUhmbjJGcjlBenhmUmxxMGUxYWtMcXZIVWNtSUJRLURpUm92Z0x4WjRwS09ENnY1aTZKQUY0dGo1YTk1SzhUZzRoT3BZQkNPd1B6cUl6bElILUZtcGp4aEp2Yw?oc=5": 1793851853.9205363
+  "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVVBHZndCUU1XVXgzYVZ6MzlLVnFfTElBRGhURWxQRkVwLXdkWFZxbUdXNnpzTG5EczdjSUk2bmg3NkNPeUlqLWVha1F1SUhmbjJGcjlBenhmUmxxMGUxYWtMcXZIVWNtSUJRLURpUm92Z0x4WjRwS09ENnY1aTZKQUY0dGo1YTk1SzhUZzRoT3BZQkNPd1B6cUl6bElILUZtcGp4aEp2Yw?oc=5": 1793851853.9205363,
+  "https://theannapurnaexpress.com/story/68528": 1793852445.8736947,
+  "https://theannapurnaexpress.com/story/68527": 1793852445.8736947
  },
  "queue": [
   {
@@ -4202,29 +4200,6 @@
    "hits": 1
   },
   {
-   "title": "Kathmandu Metropolitan City Urges Against Burning Plastic Waste Amid Rising Air Pollution",
-   "summary": "Kathmandu. Kathmandu Metropolitan City has urged not to burn plastic waste as the risk of air pollution may increase with...",
-   "link": "http://english.ratopati.com/story/85708/kathmandu-metropolitan-city-urges-to-reduce-air-pollution-risks",
-   "source": "Ratopati EN",
-   "ts": 1793848740,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/ktm-metro-kathmandu-mahanagar_qcTmHRWkDn.jpg",
-   "lang": "en",
-   "hl": "Kathmandu Metropolitan City Urges Against Burning Plastic Waste Amid Rising Air Pollution",
-   "en": "Kathmandu Metropolitan City Urges Against Burning Plastic Waste Amid Rising Air Pollution",
-   "ne": "Kathmandu Metropolitan City Urges Against Burning Plastic Waste Amid Rising Air Pollution",
-   "imp": 3,
-   "tags": [
-    "Kathmandu",
-    "AirPollution",
-    "प्रदूषण"
-   ],
-   "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 3
-  },
-  {
    "title": "New IGP appointment was government's decision, not RSP's, says Kabindra Burlakoti",
    "summary": "Kathmandu, November 5 Rastriya Swatantra Party (RSP) parliamentary party chief whip Kavindra Burlakoti has said the appointment of Nepal Police's new Inspector General of Police (IGP) was a government decision, not a...",
    "link": "https://english.onlinekhabar.com/igp-appointment-govt-decision.html",
@@ -4544,7 +4519,7 @@
    "cat": "disaster",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "\"Changing Himalayas put mountain communities at greater ;isk\"",
@@ -7937,9 +7912,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "politics"
+  },
+  {
+   "ts": 1793852458.5524063,
+   "en": "Kathmandu Metropolitan City urges residents not to burn plastic waste amid rising winter air pollution",
+   "ne": "Kathmandu Metropolitan City urges residents not to burn plastic waste amid rising winter air pollution",
+   "link": "http://english.ratopati.com/story/85708/kathmandu-metropolitan-city-urges-to-reduce-air-pollution-risks",
+   "source": "Ratopati EN",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "society"
   }
  ],
- "updated": 1793851857,
+ "updated": 1793852469,
  "pending_since": 1793851853.9205363,
  "fb_blocks": [
   1790350880.4125228,
