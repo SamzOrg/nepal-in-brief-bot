@@ -2199,32 +2199,10 @@
   "https://nagariknews.nagariknetwork.com/sports/npl-lumbini-and-janakpur-biratnagar-and-kathmandu-to-clash-today-96-41.html": 1793847051.2088552,
   "https://risingnepaldaily.com/news/88405": 1793847051.2088552,
   "https://kathmandupost.com/national/2026/11/05/new-bridge-connects-communities-separated-by-lalbakaiya-river": 1793847051.2088552,
-  "https://nagariknews.nagariknetwork.com/politics/indian-foreign-secretary-misri-to-meet-prime-minister-balendra-today-96-14.html": 1793847051.2088552
+  "https://nagariknews.nagariknetwork.com/politics/indian-foreign-secretary-misri-to-meet-prime-minister-balendra-today-96-14.html": 1793847051.2088552,
+  "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSk5CUDctS1NqZGl0Ujc2WURrLUZlUnBkcUpFaTY4VzVhZVNaUEVhTHk5dWlGZE5OcHNlNTVCdk82TGtmV1hWUjhCODl3N1U5WGdoOU5PMFN6LTlyRkVKVkxuNGxsS2JOeHh3b0tpeUlBTnJJUUxLUGFwU3FqT1llSUYwSzJKbkFsMS1rRENR?oc=5": 1793847681.840418
  },
  "queue": [
-  {
-   "title": "Barcelona Midfielder Rodri Hernandez Out for a Month Due to Injury",
-   "summary": "Kathmandu. Spanish club Barcelona's main midfielder Rodri Hernandez will be out of the field for about a month due to...",
-   "link": "http://english.ratopati.com/story/85689/barcelona-suffer-major-blow-as-rodri-out-for-about-a-month-due-to-injury",
-   "source": "Ratopati EN",
-   "ts": 1793818804,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/rodri_6WCLOYhJTA.webp",
-   "lang": "en",
-   "hl": "Barcelona Midfielder Rodri Hernandez Out for a Month Due to Injury",
-   "en": "Barcelona Midfielder Rodri Hernandez Out for a Month Due to Injury",
-   "ne": "Barcelona Midfielder Rodri Hernandez Out for a Month Due to Injury",
-   "imp": 1,
-   "tags": [
-    "Barcelona",
-    "RodriHernandez",
-    "Football"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
   {
    "title": "Arsenal Defeats Slavia Prague 2-1 in Champions League",
    "summary": "Kathmandu. In a match held under the Champions League, English club Arsenal defeated Slavia Prague by a score of 2-1....",
@@ -3809,7 +3787,7 @@
    "cat": "health",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "लज्जास्पद हारपछि ट्रम्पको दाबी : इरानमाथि आक्रमणको निर्णय सही",
@@ -4233,17 +4211,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1793242251.9690576,
-   "en": "Nepal farmers in Lalitpur fear crop loss as Cyclone Arnab brings heavy rain",
-   "ne": "Nepal farmers in Lalitpur fear crop loss as Cyclone Arnab brings heavy rain",
-   "link": "https://www.aninews.in/news/world/asia/nepali-farmers-bear-the-brunt-of-climate-change-and-accelerating-tropical-cyclonic-events20261029003830",
-   "source": "ANI News",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "disaster"
-  },
   {
    "ts": 1793244067.6510618,
    "en": "Nagdhunga tunnel to charge road usage fees from November 1",
@@ -7347,8 +7314,8 @@
    "cat": "crime"
   }
  ],
- "updated": 1793847095,
- "pending_since": null,
+ "updated": 1793847685,
+ "pending_since": 1793847681.840418,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
