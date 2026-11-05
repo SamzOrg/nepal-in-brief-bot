@@ -2177,7 +2177,8 @@
   "https://gorkhapatraonline.com/news/228369": 1793853650.5995,
   "https://nagariknews.nagariknetwork.com/Bazar/this-is-the-wholesale-price-of-agricultural-produce-for-today-13-28.html": 1793853650.5995,
   "https://gorkhapatraonline.com/news/228368": 1793853650.5995,
-  "https://nagariknews.nagariknetwork.com/social-affairs/nepali-journalists-federation-demands-president-poudel-to-stop-the-press-council-act-amendment-ordinance-47-20.html": 1793853650.5995
+  "https://nagariknews.nagariknetwork.com/social-affairs/nepali-journalists-federation-demands-president-poudel-to-stop-the-press-council-act-amendment-ordinance-47-20.html": 1793853650.5995,
+  "https://theannapurnaexpress.com/story/68530": 1793854245.6707807
  },
  "queue": [
   {
@@ -3422,29 +3423,6 @@
    "val": 3,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "Rahughat Hydropower Project Begins Compensation Distribution for Tunnel Affected",
-   "summary": "Myagdi. The process of distributing compensation to those affected by the tunnel of the 40 MW Rahughat Hydropower Project constructed...",
-   "link": "http://english.ratopati.com/story/85703/process-of-distributing-compensation-to-those-affected-by-rahughat-tunnel-begins",
-   "source": "Ratopati EN",
-   "ts": 1793845090,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/N2tqACM5pB.jpg",
-   "lang": "en",
-   "hl": "Rahughat Hydropower Project Begins Compensation Distribution for Tunnel Affected",
-   "en": "Rahughat Hydropower Project Begins Compensation Distribution for Tunnel Affected",
-   "ne": "Rahughat Hydropower Project Begins Compensation Distribution for Tunnel Affected",
-   "imp": 3,
-   "tags": [
-    "RahughatHydropower",
-    "Compensation",
-    "राहुघाट"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 3
   },
   {
    "title": "Economic Digest: A Snapshot of Nepal's Business News",
@@ -5230,6 +5208,29 @@
     "Journalists"
    ],
    "cat": "politics",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Como equal Champions League record with stunning 9-1 win at Lens",
+   "summary": "Como stormed into the Champions League record books with a stunning 9-1 demolition of Lens on Wednesday, equalling the biggest victory in the competition's history, Reuters reported. The Italian side matched the...",
+   "link": "https://theannapurnaexpress.com/story/68530",
+   "source": "Annapurna Express",
+   "ts": 1793839846.8108149,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "Como equal Champions League record with stunning 9-1 win at Lens",
+   "en": "Como equal Champions League record with stunning 9-1 win at Lens",
+   "ne": "Como equal Champions League record with stunning 9-1 win at Lens",
+   "imp": 2,
+   "tags": [
+    "ChampionsLeague",
+    "Como",
+    "Football"
+   ],
+   "cat": "sports",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -8337,9 +8338,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "society"
+  },
+  {
+   "ts": 1793854253.2147746,
+   "en": "Rahughat Hydropower Project Begins Compensation Distribution for Tunnel Affected in Myagdi",
+   "ne": "Rahughat Hydropower Project Begins Compensation Distribution for Tunnel Affected in Myagdi",
+   "link": "http://english.ratopati.com/story/85703/process-of-distributing-compensation-to-those-affected-by-rahughat-tunnel-begins",
+   "source": "Ratopati EN",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "economy"
   }
  ],
- "updated": 1793853662,
+ "updated": 1793854265,
  "pending_since": 1793853650.5995,
  "fb_blocks": [
   1790350880.4125228,
