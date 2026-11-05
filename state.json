@@ -1,11 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMitwFBVV95cUxONXlGVnY4eGVtZnZmSEJPdnZEbEZWV2d3TXBSVWRvSnhyQ2xuaXJlQ1FaNVJzaGg1dDNqVG5XX3I4VDRFOXp3SmkxemsyZ3hCd3RGRGljVXFzeENnWklJUmNjR09vU25ELUZHUUFjVVJ1R3ZVejcwT1BHcjNvS1kzREQ2OEtIaC04UlJlV196ZnNRTXNCelF6NW1ZSVAtcFVsWEJOZFo5aHNXc213cDhiX2g5XzB1a2M?oc=5": 1793667679.7132246,
-  "https://news.google.com/rss/articles/CBMisAFBVV95cUxORmNQUkhuY3ZLNUxpR0dRX3Q1aWZQeW45RW1ZMk13X3JhWlhWbEk5TkIzUC01MVNseENSNms0ZWtHdHRqQVY2NkJIN2NwVG9sdEZ3QnFmdGc1bUNiRXVUQ2U2NmN4akhlTm9WYXdVcEQzaFV6bVlzSnI3dExpbFJtYTRfZVdKTHR3cXo4ckcxR0VzNXJtOTJqUWdwRl8tMzZSdnpYd3FieXB6dFliQXkyNQ?oc=5": 1793667679.7132246,
-  "http://lokaantar.com/story/332454/2026/11/3/road-": 1793667679.7132246,
-  "http://lokaantar.com/story/332453/2026/11/3/russia-ukrain-": 1793667679.7132246,
-  "https://risingnepaldaily.com/news/88335": 1793667679.7132246,
-  "https://kathmandupost.com/cricket/2026/11/03/kathmandu-gorkhas-defeat-karnali-yaks-once-again": 1793667679.7132246,
   "https://gorkhapatraonline.com/news/228095": 1793668248.5014086,
   "https://www.setopati.com/politics/401874": 1793668248.5014086,
   "http://english.ratopati.com/story/85493/traffic-on-the-prithvi-highway-in-majhimtar-to-be-closed-for-two-hours-today": 1793668248.5014086,
@@ -2206,7 +2200,9 @@
   "https://english.khabarhub.com/2026/05/574517/": 1793839841.6354446,
   "https://gorkhapatraonline.com/news/228332": 1793839841.6354446,
   "https://gorkhapatraonline.com/news/228331": 1793839841.6354446,
-  "https://baahrakhari.com/detail/506619": 1793840475.2423728
+  "https://baahrakhari.com/detail/506619": 1793840475.2423728,
+  "http://english.ratopati.com/story/85697/indian-foreign-secretary-misri-to-meet-prime-minister-balen-today": 1793841041.922859,
+  "https://nagariknews.nagariknetwork.com/social-affairs/inspector-general-kc-s-directive-to-maintain-complete-confidentiality-of-sensitive-information-29-57.html": 1793841041.922859
  },
  "queue": [
   {
@@ -2228,29 +2224,6 @@
     "सडक"
    ],
    "cat": "disaster",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "भेट्रान्स फुटबलको सेमिफाइनल समीकरण पूरा",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/506611",
-   "source": "Baahrakhari",
-   "ts": 1793812038,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "भेट्रान्स फुटबलको सेमिफाइनल समीकरण पूरा",
-   "en": "भेट्रान्स फुटबलको सेमिफाइनल समीकरण पूरा",
-   "ne": "भेट्रान्स फुटबलको सेमिफाइनल समीकरण पूरा",
-   "imp": 2,
-   "tags": [
-    "VeteransFootball",
-    "Football",
-    "फुटबल"
-   ],
-   "cat": "sports",
    "val": 2,
    "teaser": false,
    "hits": 1
@@ -2347,7 +2320,7 @@
    "cat": "politics",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "'विपद् व्यवस्थापनको आगामी योजनामा विज्ञान र नयाँ प्रविधि जोड्नुपर्छ'",
@@ -6126,7 +6099,7 @@
    "cat": "economy"
   }
  ],
- "updated": 1793840480,
+ "updated": 1793841047,
  "pending_since": 1793840475.2423728,
  "fb_blocks": [
   1790350880.4125228,
