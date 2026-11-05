@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMib0FVX3lxTE5DMF9WeVFESnVBV1VRWE83eV9pLUt2ajRVLTduSl9RMHhkLUdNbUJpTjZyY2ptTmhXNTZDUHA5cHN6dndNOTVaZWxSTGNpaHIxMDJTaTRMbE1vdGQ3S3ZoQkZwTUlkNThjSnhOZEFZbw?oc=5": 1793727664.0928812,
-  "https://news.google.com/rss/articles/CBMimgFBVV95cUxPV1JSaTBtcFJCNDBsUmt4N0JWb3JCcTFyR0I1eGIwVEQwTWU2QTdrTjZkMXJWajRlOVJLX2s1MGsxNHY4VGRiVlNmV2J2Ukx6UG8zVDhiZ2RPcE5hRVdCQWFoU21zRFcwanhxa0FQRF9jVGV4WTg0cWZUSGlhS0JINDU0ZnhmNDdXcUttZ041TkpHdV9ONmJVY1FB?oc=5": 1793728036.9083538,
   "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOUJCTjMxM201SjZpeVF0ZVpiTXdqa2p3ZUQwNzk5M0VLYm5kSDU0STFMNTlHZFlYZkhzTGd4M2dmUXBEeVRJQzdCU3dNUWIyZXBZa29xcFY4MDl5S3hBaDdSVlRyYWFJTXJJSXNvZDNnYmlpZmlGNkhPSE5Pa1RVZkUtamtxSkc3MUs5eHEwTkVxSHU5Q1JsdUQyemg5bXhjWHNmTGVYcnlJdHFUM1dV0gGvAUFVX3lxTE85QkJOMzEzbTVKNml5UXRlWmJNd2prandlRDA3OTkzRUtibmRINTRJMUw1OUdkWVhmSHNMZ3gzZ2ZRcER5VElDN0JTd01RYjJlcFlrb3FwVjgwOXlLeEFoN1JWVHJhYUlNcklJc29kM2diaWlmaUY2SE9ITk9rVFVmRS1qa3FKRzcxSzl4cTBORXFIdTlDUmx1RDJ6aDlteGNYc2ZMZVhyeUl0cVQzV1U?oc=5": 1793728893.2628536,
   "https://gorkhapatraonline.com/news/228209": 1793728893.2628536,
   "https://thehimalayantimes.com/nepal/bhaitika-set-for-1107am-on-november-11": 1793728893.2628536,
@@ -1960,29 +1958,6 @@
  },
  "queue": [
   {
-   "title": "29-year-old Nepal native dies after accident near Kala Academy",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOem1TWHg1V1pxNG1EUUdOMlRJUjNOWGlPVnRzdjVlYVl0NTM2ZWdMSjhPQ0JxcUpuME92TFdKdFM1NUtCX1BtUmRRNXE1M0VkZi1HV1cxRHFwZVJZLVhUS2t4VG94a0Rrb002YjBqby14dzlxbnFtdlpmQ2xFWENyMlV1RHhwellUemk3LXJQaw?oc=5",
-   "source": "digitalgoa",
-   "ts": 1793871925,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "29-year-old Nepal native dies after accident near Kala Academy",
-   "en": "29-year-old Nepal native dies after accident near Kala Academy",
-   "ne": "29-year-old Nepal native dies after accident near Kala Academy",
-   "imp": 2,
-   "tags": [
-    "RoadAccident",
-    "Goa",
-    "Nepal"
-   ],
-   "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "60,000 families in Jhapa seeking land ownership certificates",
    "summary": "Jhapa, Nov 5: The land problem resolution committee has reported that 60,570 families, including landless, squatters, an...",
    "link": "https://risingnepaldaily.com/news/88418",
@@ -2133,49 +2108,6 @@
     "GaganThapa"
    ],
    "cat": "politics",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Nepal Premier League 2026 Points Table",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeXBBdVhsTGRWWUtRc2VvbktuUTVsSDNrZEEwRzJpcG9CZjdOM3NEelFSNjI1LV8xS01JdGcxb0FoWWhuMUtyd1F3NG1TZVg3c1Z4d2NwSkc2N1puLWFmbkx5TTE1bjVJZDRqNm5ITjRLSzd4OFhIQ2xhUmdMODZQMUI0TlYwUHBGcnZhTQ?oc=5",
-   "source": "Cricbuzz",
-   "ts": 1793871724,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Nepal Premier League 2026 Points Table",
-   "en": "Nepal Premier League 2026 Points Table",
-   "ne": "Nepal Premier League 2026 Points Table",
-   "imp": 2,
-   "tags": [
-    "PremierLeague"
-   ],
-   "cat": "sports",
-   "val": 1,
-   "teaser": false,
-   "hits": 4
-  },
-  {
-   "title": "Stock market falls as turnover drops, 56 companies' prices rise",
-   "summary": "Kathmandu, November 5 The stock market fell by 12.95 points on Thursday. With the decline, the benchmark Nepse index settled at 2,652 points. On the previous day, Nepse had risen by 1.40 points. The market showed signs...",
-   "link": "https://english.onlinekhabar.com/stock-market-falls-as-turnover-drops.html",
-   "source": "Onlinekhabar EN",
-   "ts": 1793871709,
-   "weight": 3,
-   "img": "http://english.onlinekhabar.com/wp-content/uploads/2019/09/Stock-Market-Fall-nepse-.jpg",
-   "lang": "en",
-   "hl": "Stock market falls as turnover drops, 56 companies' prices rise",
-   "en": "Stock market falls as turnover drops, 56 companies' prices rise",
-   "ne": "Stock market falls as turnover drops, 56 companies' prices rise",
-   "imp": 3,
-   "tags": [
-    "StockMarket",
-    "Turnover"
-   ],
-   "cat": "economy",
    "val": 2,
    "teaser": false,
    "hits": 1
@@ -2575,28 +2507,6 @@
    "hits": 1
   },
   {
-   "title": "प्रधानमन्त्री शाहद्वारा मुलुकको सुरक्षा अवस्थाबारे जानकारी",
-   "summary": "गोरखापत्र अनलाइनकाठमाडौं, कात्तिक १९ गते । प्रधानमन्त्री वालेन्द्र शाहले मुलुकको पछिल्लो शान्ति-सुरक्षाको अवस्थाबारे सुरक्षा निकायका प्रमुखहरूसँग ब्रिफिङ लिनुभएको छ। प्रधानमन्त्री...",
-   "link": "https://gorkhapatraonline.com/news/228411",
-   "source": "Gorkhapatra",
-   "ts": 1793872058,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/390566/conversions/PM-123-original.jpg",
-   "lang": "ne",
-   "hl": "प्रधानमन्त्री शाहद्वारा मुलुकको सुरक्षा अवस्थाबारे जानकारी",
-   "en": "प्रधानमन्त्री शाहद्वारा मुलुकको सुरक्षा अवस्थाबारे जानकारी",
-   "ne": "प्रधानमन्त्री शाहद्वारा मुलुकको सुरक्षा अवस्थाबारे जानकारी",
-   "imp": 4,
-   "tags": [
-    "PMShah",
-    "Security"
-   ],
-   "cat": "politics",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Truck carrying fish worth over Rs 3.2 million seized",
    "summary": "Birgunj, November 5 Parsa Police have seized a truck carrying more fish than declared in its customs documents. Acting on a tip-off, police seized the truck at around 11 pm on Wednesday from the ICP road section in...",
    "link": "https://english.onlinekhabar.com/truck-carrying-fish-worth-over-rs-3-2-million-seized.html",
@@ -2724,28 +2634,6 @@
     "MarketDrop"
    ],
    "cat": "economy",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "एनपीएलमा करिब ९० लाखको सट्टेबाजी गराएको आरोपमा भारतीय नागरिक पक्राउ",
-   "summary": "कीर्तिपुरस्थित त्रिवि क्रिकेट मैदानमा जारी नेपाल प्रिमियर लिग (एनपीएल)-२०२६ मा अनलाइनमार्फत अवैध सट्टेबाजी (बेटिङ) गराएको आरोपमा एक भारतीय नागरिक पक्राउ परेका छन्।...",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/indian-national-arrested-for-allegedly-facilitating-online-betting-worth-around-rs-9-million-on-npl-50-93.html",
-   "source": "Nagarik News",
-   "ts": 1793871957,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1793871479_n.png",
-   "lang": "ne",
-   "hl": "एनपीएलमा करिब ९० लाखको सट्टेबाजी गराएको आरोपमा भारतीय नागरिक पक्राउ",
-   "en": "एनपीएलमा करिब ९० लाखको सट्टेबाजी गराएको आरोपमा भारतीय नागरिक पक्राउ",
-   "ne": "एनपीएलमा करिब ९० लाखको सट्टेबाजी गराएको आरोपमा भारतीय नागरिक पक्राउ",
-   "imp": 3,
-   "tags": [
-    "NPLBetting",
-    "Arrest"
-   ],
-   "cat": "crime",
    "val": 2,
    "teaser": false,
    "hits": 1
@@ -9570,7 +9458,7 @@
    "cat": "crime"
   }
  ],
- "updated": 1793900464,
+ "updated": 1793901050,
  "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
