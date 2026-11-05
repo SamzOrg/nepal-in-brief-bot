@@ -1,11 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMU9nXzV0YmswMFJobzBiU1dLMXpIMWZ6ZHhQckhuaFhiY05GR0drMUVGUmNIbElralI5UWxCMEF3V2txaVZ4SDIyWG0tWHZWUmpfcjAwejA2aVNuMHFUdjNVcGRHaDEyTTJJMUYyR3dFdC1GLUVOaWRYWnN5UFQ2TlRDU2FyYXZ0ckZVb2tfQ3FQZ25GZ0FCSC02QVdsbEtNdk0tSm5VLTNCU3IwVjBSUkFraEZTYnM?oc=5": 1793736085.2836046,
-  "https://news.google.com/rss/articles/CBMickFVX3lxTFBfTEY2dHYzcUN2RkNZc1NJajl0d0tfU0JEdTdKNFh1Y2FlcXB1OGxQNVdabWZTYmUwWW5oekFWLXdTcm5xRG9sckxiZWtNRlMyRVJ5QXIzRGJQcGlqRER3ZTdZTlVyellOd0pIbGJtOXphdw?oc=5": 1793736085.2836046,
-  "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbW51NGNsYmxPZUFxWnMwaXpUQUFnbTQ4TnRMQjBnZWxJMDNKS3N4WkVuSXBHUjdIMmluN2xONzg4YUE0UVc2dXlUbVpjR2VCZDA0aXdURzlLMlpTNlFLYnFVUkRMOURsN3lSckNLRVJCeDR3Y19ncG5VSFN4ZG9OdmxQZzI4S2hYZnJ0NU1Fc0VNSVR3WGZGQ1dDNTh3ZUQ1QVdiQWhYRlZja2xEeU0w0gG0AUFVX3lxTE1LVlJFQnBLS2l0ZWRmZFBreXpFaTY2czJRa2M4Nlp5UmRtcWhsbjZRREZFUDBJYUMyZEgzZnNKTzVqNlBNZWw2T2JiUldrNDdBOVVWR1B1SG4xWnpEZUlydTIwT3AtZDZLX2d5QmR0Z1RYWXEtblFRdXNqZndNS3pNUmExYTZJek1kQ1F2bnl6YmNSbUlsSk1zTG1VaG4zUUJsMDROUDcwZHNvbkpjdlFncE9hVA?oc=5": 1793736085.2836046,
-  "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1aRzFLRUlIbTcybDV2LTZrMVJQc1BCZVEtT3A3VnlCekJwblJJc3dxWHdjc1NfVzVIYXZ0M2NqM0RPZl8tXzRSVEpaUHkxMmlDS2VDWXM1OS1IeTNxczBtYm9Vc1g?oc=5": 1793736085.2836046,
-  "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVl9Gb3JBcmRvd0pTWV8zXzE4bGp6Q2YxckphN1l2ZlpuSXUtbGZDTkswVDlkcWMzejdjeFBXN25WV1BhVWw2aEZVU2ZPQmJlaDQ0aG5BUnFyRlRiSXZ3WjVmOGVWcVNZYVhqTHNtT2hFVHg4TG5XUGZwZm9KQUx0akFCVS1Odw?oc=5": 1793736085.2836046,
-  "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUTUwcE1vcHZMWHNrUWpfZ2kyTDZGU2FuckFCel9KakpvRnRER3FxNlRyTFFhb1pqRVhyRzlxcU5IN1pEd19HeDJSd21CRnBPM2JpbUtiR2FyUk1NX090VFVESi1fNXNLMml0VDhFTkJRQmdUT0V2ZHlYRTF0SjN3enJvSzNqQTVMempUMlBRQy1zZFF2eHNIQUVoNmRvMWo3S25Vd1NVMlZSY1k1TjdWV2ZqVEEtdmZER2tXdEJPNnAxZWwxRGFaak1jVlJUWDJObWxVZHNB0gHWAUFVX3lxTE1RNTBwTW9wdkxYc2tRal9naTJMNkZTYW5yQUJ6X0pqSm9GdERHcXE2VHJMUWFvWmpFWHJHOXFxTkg3WkR3X0d4MlJ3bUJGcE8zYmltS2JHYXJSTU1fT3RUVURKLV81c0syaXRUOEVOQlFCZ1RPRXZkeVhFMXRKM3d6cm9LM2pBNUx6alQyUFFDLXNkUXZ4c0hBRWg2ZG8xajdLblV3U1UyVlJjWTVON1ZXZmpUQS12ZkRHa1d0Qk82cDFlbDFEYVpqTWNWUlRYMk5tbFVkc0E?oc=5": 1793736085.2836046,
   "https://news.google.com/rss/articles/CBMiqBRBVV95cUxNWTFGMjE0dnNIMVlsY0Q5b2syRFpFNS15WndPNnJuNjlmSVpSLVFpVm4xNXRUOG9wSERpQk1feXZoUnAzYmhsUWJqWDlpUFlwZUxLb0FnbFJwOE1xRlNuLTdoMmZUZHg0MXdWRnB2ZzVWOVRyUFFQU0lkdzRHTWJYanVYQ2RxbmozbEctQV9SaGN5WGpmRTRSRC1NLUtuTTQwVDNGS0tYTjIwc2xFTHhGdmhvcV96WFVfNXZtUElfR0dCLThfV2sxbVlRVmowNU9jQjM5SHdrR2dlbkRWcVk0OXkzUTlndHVzSzNrbnpTRXEyYUcySVdDN3dCdG94VGhOLWJVWFNqV2RqWThDNHJyQ3ZIWDJMRGp3RmxTcFRJVjFiOGJBbDhNMjZVZWtvUlNGbmsyVDA5VUNpUUpJcWJrYm9jMkxWamJMLXNWVmpaQ1FZUWtETFVMcUdsMTN3WVg2R0ozMWxUNWlXOXQ3VEVyNm03bUxrSmFQbmdiQ1hObnZsb1JqZkZJOXF3ZUxkYUFMb2E4ZGFWb0RWWFBSZkowVGtDNnRGRXNOTjZZUF90cnVCaTVDMlpRMzdZT3dDNWY4bkd0SkpmNmFuTDBaXzBXWVpwRDJUdnE1SlRDcy0yRFhHODAydnFja042Vm5VcUl0Ulhuel9HSDV2bXFCenVsTDJ1QUhGcVNRbHR6RkRDUVo3TDhOcjZ0TEJ6Nk1JQUowbzY5VTJoQTNZaHBXM0I2V0g2ZHpVOXM5V3RlSU92YU1Tb182bmtHOTlkbFpaU19IamNudGs5NXpXUUkySDdFbkpiMFZoejJlbGhtdHZNQzVac0JGalpVV2FPS3J2MGE0cDFjcklZWXk2NkZfeWQyVU5NNWJfT3FNS3N2d2hDNEhZX1A0QVBvMzhRbWdUeUNHUzc3dzJhRUpNRHVfSnNRdFAwZU03clVhWUV5YUJkT0NXY3RuZmtTd2YwbU5KTGlZOGpOTnhIOU5lMElHMlVIRFhCZFVXbUpOU2dEcXQ3TE91RE9iU1dIR0pZNF9RYlhSd3EyQnNOMndvV1FEdkhRUDVQaDVPd2k2ODNnYzh2WTlUeUFydFdLQ29GUWNvbHhVUm15X1FlNWQ0UVVDeHhvQWtvWnVkVTdxNHpFQ200X3MtRzlwWVVkbGxzbzlrMkVOR3phRXFaUHc0b2lyR1hldWxDd0F4SDd5aWNiTE9pQ0E3OVY5OTZidDd2TXRFSUpNRjFXVXkzQWxFM0ZoVEpxU1hJd0tuSnFNRmtORW44WkpfdXc1dExBUk9tUWE4c2tTMU5jQzRnTGtIeW84cWxuWXM5WjNoZ2N2d3N4ck9sY2RnUGp6dktjWkMxVV9VVXUtY1Q0UlFPT2lxSURHZUhIQUlCZ2k5LWUzZ1oweXZoeThuY3A4UFlnd25VcUtiMk5ua1gtSUxKY2lwLTFpdTdaZnQ2SUEwcTlyM1hXVVJZQmFTa3VnRlNqN00tOG1hMEQwQ3hXWkk4S3Z5SEcxZjB4RVotZEhNS3lZLUFodkRnVm8tb3VtYnh2Nk5QQ25Id3pzTmJYek1GSTFmVDhrbFVFd1RrZUdXRllrLTN3RHFqNGRQeGctS25MOF9veWotaGE2NkVpUUxCeVNGSl9maE0zQURkdXJLUTNsMF9vcHR5Zy1maFBBWjN5OUNoaGxzZ1ZuMk5LbXl2dF9xTUNvLXotdDhnWVhaNl9heXg3bDI0Z2hqbURRcEJmUmFtdmpOMldIcFBZSHJVdWcxVnBGd0pvZDdubk9La2pJcUQ0U0hiMW5MOUl6aEtVYjdtZDJPNm53T0dXRk1TMFBqWHNuQ2dzc0dEOUFFR2hvV2VEclNvUXllM2NKTHJGREU0bEVmNC1abWgtdllGaXY4MnhnS0hUdWV1Q0M1Q09vZzUzRUFOcjBjcXY3OTRONW53aVFQX3Vucl9EZTc0TXZFV0JqbE04d1MwOVdpTGxhUm94QnhibUMzNFRILUZCb240NGxxS3FvYzVncy1VazVremM4NS13cnFkNmxpYjZLdWJYaVNSM1R4SS1pM0ZFOVVLQS1POG1nMjk1ZXh1QktjVkMxVExaXzVUZkVpN3A1dTNQcFBaeDVtRXdUcUhOTDhYYnNnT3J5d3VTUjhzdGpnaFlEaHVTRVQweVIxUEhyM005RU9BOEY5YWtZMV9XNXlIRXQ3TnBBRnJxV1VZX3Zjb1JQUVJ2Z2RXSmtyc3JTd2xUa2hVMXgzVzE3TnRwaTVQeWNMSWNRZkduNzRKWkJ3X0YzSE9QTlRONzlaaHRHNnlaUE1kZ3ItNmxIZ2hsMHBkOWdjMENIeXZqOFdGU0tnb1VmeFJILVcxOXJwNEZWeWRIQnFwclk1dk04SjR6elRQR3Q4M0hxVjFvY0h2TG94TEZ4LW4zM3FRSHdoR0RjR1pmT2hHcWN5R0NwUVNnNEJKdDhGcG5VNGZDNmtON0hyTHFUT2xJSXJwc1MzMDF1Q3VsRDIzUXYzTzR5azBFWWFSNF9OSk54d2FxZU5aeURYSjJEdlN2YS1Md1RJWGR1TmVfSlJUZVNJXzQzQVBGcloyZy04aGI4ajVEdmJNRmp6REkzZkVKd2gxdW9ib0liQ1hKeTROYU9pX19rOVNRcWxmams5VjN0OXNFUFFPOWEwaW83T0kyYWNKRDRrODkwYXliVGxRZEwwQkdmZmZ2anFTajhSamM0OFR3TlBBcDBLNlNFaWlfR2NzZVhSdDJjS19hZmR2SUxOTGJpQ3FvUzBxZlozaDlOQUgtN3JOSTJDdGY0dVRVbzkwTkRDR2R2cFBxczVMMFBxRlNsZVNHbUh6RG9TVzlKNjFWY0dpYmxwUkZ6QWlkNTEtNjVFSHBVS1FtbFJlWk5xZVBpZGNxbi1vN25Ia3lDUjFzdlQ1WUdiejRzZ3RTYXBtd09HOFh1QXM4NXhXa2ZEX0FNUFlKcE5fOFZrZGcxV0Z6Z2xZT3R2N3czSFdnOUdGYTg2YWZOb2JZTk83WEVsa0Y4VjFULWJNU3JocnF6QUdIQ1FlY1gxQ205bmVUcDRyd0JsNXNGc2lMUTlSdF93N1k5VHNKWVI0SzVWUTYxNHFXLWZVNUNoLUw0REFHcW5nSlNyMVpBWE9fZHhzRnZ0ZXpCNjFpX0w1dHRpaGQ2TnVMdGg1cmdCTXJvdTRqN21sVG15QnJZaVQ4TU9VS20wOHN3WnlkZTdsS3VpdWlrWlNwT0hEZUw3eHJ5dzMzSkRFN19JamVNLTVJMEpHNnJnSFNnS2FIVHEzWlI1N3NEc1ZZM1B1TG9KUVZSQXhzb3FNZl9ndGtSWFl2TmhUNzdUMDZfYWRRQ0ZtWTVQajluNlNQWFFVUURUT2Q5eWpwMGhFQVBjbXM0UG5KQ0wxNl93cmhIaWxCWDhUeHNJZ05Ga3ZjNjdQN2hmZlJwX2lVSDBCaldrQUNXN2VrVWhXYXl6UUdwZnJUdQ?oc=5": 1793737260.9988208,
   "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVGxfZ0o2djF0WDFNV2V6cXctdHAyTkRuTDFhbkRwYXdDcmxaUFN0OGp1aUtjQ19STi0taXRySW5XMFBqek43dWtiX0tQQmJTZkY0cUtGc3pYaTQ3WFExczB6SUtlWndIWXNRWXlHY252X1A4Nnk3SENDNGh5N1JUTV83clpSLTV2U0RFbi1qNFloOW03MFdVOVNiWTJKdW1nMUp0dmprY2lldms3M1FwQUxB?oc=5": 1793739056.991791,
   "https://news.google.com/rss/articles/CBMiggFBVV95cUxNc01IeDJXb0xLUXJ1SnZrXzRTVGZnZ3JEZkN0UzcwOXJGT2w0TXIzSVBJVFROekdoTGRGZndFcHdyeWZwVG82RXo0MHljb3pXcTdYTmRCNlJjajVHV0xvR0hhcVRZRm5LMlRHZkF6Vm1VSHpmOExXQVBFRDNtdW5PdE1n?oc=5": 1793740254.786318,
@@ -1946,117 +1940,6 @@
  },
  "queue": [
   {
-   "title": "काठमाडौंको घातक बलिङसामु विराटनगर ब्याटिङ ध्वस्त, ९ ओभरमा ३२ रन जोड्दा गुम्यो ६ विकेट",
-   "summary": "नेपाल प्रिमियर लिग (एनपीएल) अन्तर्गत बिहीबार जारी १५औं खेलमा काठमाडौं गोर्खाजको घातक बलिङसामु विराटनगर किंग्सको ब्याटिङ लाइनअप धराशायी बनेको छ।...",
-   "link": "https://nagariknews.nagariknetwork.com/sports/biratnagar-collapses-in-the-face-of-kathmandu-s-lethal-bowling-losing-6-wickets-while-scoring-32-runs-in-9-overs-98-45.html",
-   "source": "Nagarik News",
-   "ts": 1793880354,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1793701466_birat.png",
-   "lang": "ne",
-   "hl": "काठमाडौंको घातक बलिङसामु विराटनगर ब्याटिङ ध्वस्त, ९ ओभरमा ३२ रन जोड्दा गुम्यो ६ विकेट",
-   "en": "काठमाडौंको घातक बलिङसामु विराटनगर ब्याटिङ ध्वस्त, ९ ओभरमा ३२ रन जोड्दा गुम्यो ६ विकेट",
-   "ne": "काठमाडौंको घातक बलिङसामु विराटनगर ब्याटिङ ध्वस्त, ९ ओभरमा ३२ रन जोड्दा गुम्यो ६ विकेट",
-   "imp": 3,
-   "tags": [
-    "NPL",
-    "Kathmandu",
-    "Biratnagar"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "ट्राफिक लाइटबारे सचेतना कार्यक्रम",
-   "summary": "शालिग्राम नेपाल चितवन, कात्तिक १९ गते । भरतपुर महानगरपालिकाका विभिन्न ६ स्थानमा ट्राफिक लाइट जडान गरी परीक्षण भइरहेको समयमा सडक प्रयोगकर्तालाई यसको प्रयोग र ट्राफिक नियमबारे जानकार...",
-   "link": "https://gorkhapatraonline.com/news/228426",
-   "source": "Gorkhapatra",
-   "ts": 1793880339,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/390590/conversions/333-original.jpg",
-   "lang": "ne",
-   "hl": "ट्राफिक लाइटबारे सचेतना कार्यक्रम",
-   "en": "ट्राफिक लाइटबारे सचेतना कार्यक्रम",
-   "ne": "ट्राफिक लाइटबारे सचेतना कार्यक्रम",
-   "imp": 2,
-   "tags": [
-    "TrafficSafety",
-    "Kathmandu"
-   ],
-   "cat": "society",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "'हसल बाई नेपहप'को शीर्ष प्रायोजक बन्यो टीभीएस एनटर्क",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/506687",
-   "source": "Baahrakhari",
-   "ts": 1793880191,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "'हसल बाई नेपहप'को शीर्ष प्रायोजक बन्यो टीभीएस एनटर्क",
-   "en": "'हसल बाई नेपहप'को शीर्ष प्रायोजक बन्यो टीभीएस एनटर्क",
-   "ne": "'हसल बाई नेपहप'को शीर्ष प्रायोजक बन्यो टीभीएस एनटर्क",
-   "imp": 2,
-   "tags": [
-    "TVS",
-    "Sponsorship"
-   ],
-   "cat": "economy",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "पूर्वाधार विकासमा निजी लगानी अपरिहार्य, ५९ ऐनका ५०० दफा संशोधन गरिँदै : अर्थमन्त्री वाग्ले",
-   "summary": "सरकारी बजेट र राजस्वको सीमित स्रोतबाट मात्रै पूर्वाधार विकासको बढ्दो आवश्यकता पूरा गर्न नसकिने भन्दै उनले निजी पुँजी परिचालनलाई प्राथमिकता दिनुपर्नेमा जोड दिएका हुन्।...",
-   "link": "https://nagariknews.nagariknetwork.com/politics/private-investment-essential-for-infrastructure-development-500-sections-of-act-59-being-amended-finance-minister-wagle-br-99-49.html",
-   "source": "Nagarik News",
-   "ts": 1793880227,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1781068657_wagla%2027.jpeg",
-   "lang": "ne",
-   "hl": "पूर्वाधार विकासमा निजी लगानी अपरिहार्य, ५९ ऐनका ५०० दफा संशोधन गरिँदै : अर्थमन्त्री वाग्ले",
-   "en": "पूर्वाधार विकासमा निजी लगानी अपरिहार्य, ५९ ऐनका ५०० दफा संशोधन गरिँदै : अर्थमन्त्री वाग्ले",
-   "ne": "पूर्वाधार विकासमा निजी लगानी अपरिहार्य, ५९ ऐनका ५०० दफा संशोधन गरिँदै : अर्थमन्त्री वाग्ले",
-   "imp": 3,
-   "tags": [
-    "PrivateInvestment",
-    "Infrastructure"
-   ],
-   "cat": "politics",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Rabi Lamichhane Denies Rift Between Rastriya Swatantra Party and Government",
-   "summary": "Hetauda. Rastriya Swatantra Party (RSP) Chairman Rabi Lamichhane has stated that there is no disagreement or dispute of any kind...",
-   "link": "http://english.ratopati.com/story/85787/there-is-no-difference-or-conflict-between-the-party-and-the-government-chairman-lamichhane",
-   "source": "Ratopati EN",
-   "ts": 1793880244,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/setting/banner-image_sPOGzj8QHe.jpg",
-   "lang": "en",
-   "hl": "Rabi Lamichhane Denies Rift Between Rastriya Swatantra Party and Government",
-   "en": "Rabi Lamichhane Denies Rift Between Rastriya Swatantra Party and Government",
-   "ne": "Rabi Lamichhane Denies Rift Between Rastriya Swatantra Party and Government",
-   "imp": 3,
-   "tags": [
-    "RabiLamichhane",
-    "RSP"
-   ],
-   "cat": "politics",
-   "val": 2,
-   "teaser": false,
-   "hits": 2
-  },
-  {
    "title": "हिमपातले अवरुद्ध नारा सडक एकतर्फी सुचारु",
    "summary": "हुम्ला समाचारदाता हुम्ला, कात्तिक १९ गते । कात्तिक १२ देखि १४ गतेको हिमपातपछि पुन अवरुद्ध भएको सिमकोट हिल्सा सडकको नारा लेकको सडक सुचारु भएको छ । नारा लेकको सडकमा जमेको हिउँ हिल्सा...",
    "link": "https://gorkhapatraonline.com/news/228433",
@@ -3794,28 +3677,6 @@
    ],
    "cat": "economy",
    "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Kathmandu, New Delhi set tone for PM Shah's India visit",
-   "summary": "Kathmandu and New Delhi have set the tone for Prime Minister Balendra Shah's upcoming visit to India, which is scheduled for later this month. During Indian Foreign Secretary Vikram Misri's visit to Nepal, both sides...",
-   "link": "https://theannapurnaexpress.com/story/68553",
-   "source": "Annapurna Express",
-   "ts": 1793880105.5897253,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Kathmandu, New Delhi set tone for PM Shah's India visit",
-   "en": "Kathmandu, New Delhi set tone for PM Shah's India visit",
-   "ne": "Kathmandu, New Delhi set tone for PM Shah's India visit",
-   "imp": 3,
-   "tags": [
-    "Kathmandu",
-    "NewDelhi"
-   ],
-   "cat": "politics",
-   "val": 2,
    "teaser": false,
    "hits": 1
   },
@@ -7723,7 +7584,7 @@
    "cat": "crime"
   }
  ],
- "updated": 1793908879,
+ "updated": 1793909456,
  "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
