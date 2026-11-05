@@ -2196,56 +2196,11 @@
   "https://gorkhapatraonline.com/news/228343": 1793843443.6401875,
   "https://gorkhapatraonline.com/news/228342": 1793843443.6401875,
   "https://gorkhapatraonline.com/news/228341": 1793843443.6401875,
-  "https://gorkhapatraonline.com/news/228340": 1793843443.6401875
+  "https://gorkhapatraonline.com/news/228340": 1793843443.6401875,
+  "https://gorkhapatraonline.com/news/228349": 1793844080.439,
+  "http://english.ratopati.com/story/85701/one-person-killed-6-injured-including-driver-in-jeep-accident": 1793844080.439
  },
  "queue": [
-  {
-   "title": "Greenland Parliament Approves Security Pact with US and Denmark",
-   "summary": "Kathmandu. Greenland's parliament has approved the security agreement with the United States and Denmark. Parliamentary support has been received for...",
-   "link": "http://english.ratopati.com/story/85687/agreement-to-expand-us-military-presence-in-greenland-approved",
-   "source": "Ratopati EN",
-   "ts": 1793815071,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/greenland_y6VeOdNZHN.webp",
-   "lang": "en",
-   "hl": "Greenland Parliament Approves Security Pact with US and Denmark",
-   "en": "Greenland Parliament Approves Security Pact with US and Denmark",
-   "ne": "Greenland Parliament Approves Security Pact with US and Denmark",
-   "imp": 1,
-   "tags": [
-    "Greenland",
-    "Denmark",
-    "SecurityPact"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "इटहरीमा नेपथ्यको कन्सर्ट सम्पन्न, झुमे दर्शक",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/506614",
-   "source": "Baahrakhari",
-   "ts": 1793814876,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "इटहरीमा नेपथ्यको कन्सर्ट सम्पन्न, झुमे दर्शक",
-   "en": "इटहरीमा नेपथ्यको कन्सर्ट सम्पन्न, झुमे दर्शक",
-   "ne": "इटहरीमा नेपथ्यको कन्सर्ट सम्पन्न, झुमे दर्शक",
-   "imp": 2,
-   "tags": [
-    "Itahari",
-    "Nepathya",
-    "Concert",
-    "नेपथ्य"
-   ],
-   "cat": "culture",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
   {
    "title": "BMW to Accelerate Job Cuts Amidst Declining Profits and Demand in China",
    "summary": "Kathmandu. German car manufacturer BMW has announced it will further accelerate its planned job cuts, following a decline in third-quarter...",
@@ -2473,29 +2428,6 @@
    "cat": "economy",
    "val": 1,
    "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "Jeep accident in Baitadi leaves one dead, six injured",
-   "summary": "BAITADI: One person was killed and six others injured when a jeep plunged off the road in Baitadi district on Wednesday evening. The accident occurred at Soudani Khola in Melauli Municipality-1 along the...",
-   "link": "https://english.khabarhub.com/2026/05/574521/",
-   "source": "Khabarhub EN",
-   "ts": 1793839708,
-   "weight": 2,
-   "img": "https://english.khabarhub.com/wp-content/uploads/2024/10/Khabar-Hub-News_Accident_1200px-630X-px-Final_2021.01.21-Upload-e1748330914908-400x220.webp",
-   "lang": "en",
-   "hl": "Jeep accident in Baitadi leaves one dead, six injured",
-   "en": "Jeep accident in Baitadi leaves one dead, six injured",
-   "ne": "Jeep accident in Baitadi leaves one dead, six injured",
-   "imp": 4,
-   "tags": [
-    "JeepAccident",
-    "Baitadi",
-    "सवारीदुर्घटना"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
    "hits": 1
   },
   {
@@ -3355,7 +3287,7 @@
    "cat": "economy",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Growing Threat Of Junk Food In Festivals",
@@ -3629,17 +3561,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1793238657.2106378,
-   "en": "Nepal's foreign trade rises 40.71% to Rs. 761.07B in Q1 of FY 2026/27",
-   "ne": "Nepal's foreign trade rises 40.71% to Rs. 761.07B in Q1 of FY 2026/27",
-   "link": "https://risingnepaldaily.com/news/88168",
-   "source": "Rising Nepal",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "economy"
-  },
   {
    "ts": 1793240460.391832,
    "en": "Supreme Court fails to form constitutional bench amid disputes and boycotts",
@@ -6730,10 +6651,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "world"
+  },
+  {
+   "ts": 1793844149.6556082,
+   "en": "Jeep Accident in Baitadi Leaves One Dead and Six Injured",
+   "ne": "Jeep Accident in Baitadi Leaves One Dead and Six Injured",
+   "link": "https://english.khabarhub.com/2026/05/574521/",
+   "source": "Khabarhub EN",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": true,
+   "cat": "disaster"
   }
  ],
- "updated": 1793843481,
- "pending_since": null,
+ "updated": 1793844167,
+ "pending_since": 1793844080.439,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
