@@ -1,9 +1,5 @@
 {
  "seen": {
-  "https://www.setopati.com/politics/401876": 1793674887.4368536,
-  "https://nagariknews.nagariknetwork.com/economy/pokhara-muglin-road-upgrade-in-final-stages-br-97-35.html": 1793674887.4368536,
-  "https://risingnepaldaily.com/news/88344": 1793674887.4368536,
-  "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeHViZ0x6ZGs5QVc4dmhrVzV2MnczSF85WE9jNmU5LXI3eHR3Z0cxV1hZclBXRG9MQk1GSHJLclRLNGljSmNBMGs5WkJydVBfMkFSekk2MFdrOFdQSUFZenVxZlVQdld6azByaUNNcndHREY0NWFWRzIyYno5LVNNOWdZMzc2UV9mRTFINWk4Sks4S0pfd1BxZ2R0X1RxbWlKeHRvNGM2SU8?oc=5": 1793674887.4368536,
   "https://nagariknews.nagariknetwork.com/social-affairs/mishri-will-arrive-in-kathmandu-on-wednesday-89-98.html": 1793675447.2967165,
   "http://lokaantar.com/story/332463/2026/11/3/nepal-bar-": 1793675447.2967165,
   "https://www.setopati.com/kinmel/tourism/401879": 1793675447.2967165,
@@ -2200,7 +2196,10 @@
   "https://risingnepaldaily.com/news/88405": 1793847051.2088552,
   "https://kathmandupost.com/national/2026/11/05/new-bridge-connects-communities-separated-by-lalbakaiya-river": 1793847051.2088552,
   "https://nagariknews.nagariknetwork.com/politics/indian-foreign-secretary-misri-to-meet-prime-minister-balendra-today-96-14.html": 1793847051.2088552,
-  "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSk5CUDctS1NqZGl0Ujc2WURrLUZlUnBkcUpFaTY4VzVhZVNaUEVhTHk5dWlGZE5OcHNlNTVCdk82TGtmV1hWUjhCODl3N1U5WGdoOU5PMFN6LTlyRkVKVkxuNGxsS2JOeHh3b0tpeUlBTnJJUUxLUGFwU3FqT1llSUYwSzJKbkFsMS1rRENR?oc=5": 1793847681.840418
+  "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSk5CUDctS1NqZGl0Ujc2WURrLUZlUnBkcUpFaTY4VzVhZVNaUEVhTHk5dWlGZE5OcHNlNTVCdk82TGtmV1hWUjhCODl3N1U5WGdoOU5PMFN6LTlyRkVKVkxuNGxsS2JOeHh3b0tpeUlBTnJJUUxLUGFwU3FqT1llSUYwSzJKbkFsMS1rRENR?oc=5": 1793847681.840418,
+  "https://www.setopati.com/social/402045": 1793848244.317814,
+  "https://english.onlinekhabar.com/indian-foreign-secretary-balen.html": 1793848244.317814,
+  "http://english.ratopati.com/story/85707/bhotekoshi-flood-victims-say-we-cant-stay-in-kathmandu-forever-we-will-return-to-our-hometown-after-tihar": 1793848244.317814
  },
  "queue": [
   {
@@ -2676,7 +2675,7 @@
    "cat": "disaster",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "नियमित भएन कार्गोरेल",
@@ -4205,6 +4204,29 @@
     "PMBaleendra"
    ],
    "cat": "politics",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Flood Victims Seek Return to Homeland from Kathmandu Holding Center",
+   "summary": "Kathmandu. Langrang Tamang from Timure, Rasuwa has been in a holding center in Kathmandu for two months. She has neither...",
+   "link": "http://english.ratopati.com/story/85707/bhotekoshi-flood-victims-say-we-cant-stay-in-kathmandu-forever-we-will-return-to-our-hometown-after-tihar",
+   "source": "Ratopati EN",
+   "ts": 1793847940,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/02-mustang-gumba_rasuwa-floosd-victime_holding-center_npl_dsc06697_p6N2sqLVDE.webp",
+   "lang": "en",
+   "hl": "Flood Victims Seek Return to Homeland from Kathmandu Holding Center",
+   "en": "Flood Victims Seek Return to Homeland from Kathmandu Holding Center",
+   "ne": "Flood Victims Seek Return to Homeland from Kathmandu Holding Center",
+   "imp": 3,
+   "tags": [
+    "Flood",
+    "Kathmandu",
+    "Homeland"
+   ],
+   "cat": "disaster",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -7314,7 +7336,7 @@
    "cat": "crime"
   }
  ],
- "updated": 1793847685,
+ "updated": 1793848249,
  "pending_since": 1793847681.840418,
  "fb_blocks": [
   1790350880.4125228,
