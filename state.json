@@ -1,12 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdUJMcEVybjQ0ZGpiUkY5Q0NlQ20zaGdDMzBmVlVsbFdfc2VLZDMxVlFuRFNxaUFJSmF4alhPMDl3WGxibTJ5ZnZTeG0zSmFYZ0N6MlVtUElaX1lvMnhVbzhZWVhXYXk1WEhJV284WFo2SGlnMnlfMGhxblZacUs4SFhGVlNBd0JoYUktN3htaUQ1c3hpNV9HOGxyS1lHZjJYWUQ4YUpLUGNiaVJIVVZKcmZwcEZqVWc?oc=5": 1793668849.831043,
-  "https://nagariknews.nagariknetwork.com/social-affairs/case-filed-against-land-revenue-employee-76-10.html": 1793668849.831043,
-  "https://nagariknews.nagariknetwork.com/politics/let-s-develop-butwal-as-an-economic-capital-general-secretary-pokharel-br-58-85.html": 1793668849.831043,
-  "https://kathmandupost.com/world/2026/11/03/cyclone-murasu-begins-making-landfall-on-india-s-eastern-coast": 1793668849.831043,
-  "https://english.khabarhub.com/2026/03/574194/": 1793669463.2554152,
-  "https://nagariknews.nagariknetwork.com/politics/prime-minister-s-office-directs-to-immediately-proceed-with-the-contract-process-for-the-sunkoshi-marin-project-63-49.html": 1793669463.2554152,
-  "https://nagariknews.nagariknetwork.com/social-affairs/18-billion-in-prime-minister-s-relief-fund-370-million-released-for-flood-victims-260-million-spent-on-helicopter-flights-41-43.html": 1793669463.2554152,
   "https://gorkhapatraonline.com/news/228103": 1793670049.323052,
   "http://english.ratopati.com/story/85498/free-yoga-practice-campaign-in-rupandehi": 1793670049.323052,
   "https://risingnepaldaily.com/news/88337": 1793670049.323052,
@@ -2205,7 +2198,8 @@
   "http://english.ratopati.com/story/85695/lumbini-and-janakpur-and-kathmandu-and-biratnagar-are-facing-off-which-team-is-stronger-in-a-head-to-head-match": 1793841644.1192281,
   "https://nagariknews.nagariknetwork.com/economy/securities-board-introduces-it-policy-85-29.html": 1793841644.1192281,
   "https://gorkhapatraonline.com/news/228336": 1793841644.1192281,
-  "https://nagariknews.nagariknetwork.com/politics/home-minister-s-insistence-not-to-be-followed-by-karki-out-kc-in-br-58-89.html": 1793841644.1192281
+  "https://nagariknews.nagariknetwork.com/politics/home-minister-s-insistence-not-to-be-followed-by-karki-out-kc-in-br-58-89.html": 1793841644.1192281,
+  "https://theannapurnaexpress.com/story/68522": 1793842274.294105
  },
  "queue": [
   {
@@ -2321,30 +2315,6 @@
    ],
    "cat": "disaster",
    "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "ICJ to Rule on Myanmar Rohingya Genocide Claim November 19",
-   "summary": "Kathmandu. The United Nations' highest court, the International Court of Justice (ICJ), is set to deliver a historic verdict on...",
-   "link": "http://english.ratopati.com/story/85685/verdict-in-rohingya-genocide-case-to-be-delivered-on-november-19",
-   "source": "Ratopati EN",
-   "ts": 1793813220,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/icj_7B08Is7B8h.gif",
-   "lang": "en",
-   "hl": "ICJ to Rule on Myanmar Rohingya Genocide Claim November 19",
-   "en": "ICJ to Rule on Myanmar Rohingya Genocide Claim November 19",
-   "ne": "ICJ to Rule on Myanmar Rohingya Genocide Claim November 19",
-   "imp": 1,
-   "tags": [
-    "ICJ",
-    "Myanmar",
-    "Rohingya",
-    "Genocide"
-   ],
-   "cat": "world",
-   "val": 3,
    "teaser": false,
    "hits": 1
   },
@@ -3304,20 +3274,32 @@
    "val": 3,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "Ukraine raises death toll from Russian strike on Zaporizhia to 40 people",
+   "summary": "Ukrainian authorities have raised the death toll from a Russian attack on an aid centre in the Zaporizhia region in the southeast of the country to 40 people, Aljazeera reported. President Volodymyr Zelenskyy announced...",
+   "link": "https://theannapurnaexpress.com/story/68522",
+   "source": "Annapurna Express",
+   "ts": 1793827875.4599504,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "Ukraine raises death toll from Russian strike on Zaporizhia to 40 people",
+   "en": "Ukraine raises death toll from Russian strike on Zaporizhia to 40 people",
+   "ne": "Ukraine raises death toll from Russian strike on Zaporizhia to 40 people",
+   "imp": 1,
+   "tags": [
+    "Ukraine",
+    "Zaporizhia",
+    "Russia"
+   ],
+   "cat": "world",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1793236887.609671,
-   "en": "Jhapa administration urges public to stay alert for three days due to Cyclone Arnab",
-   "ne": "Jhapa administration urges public to stay alert for three days due to Cyclone Arnab",
-   "link": "https://english.khabarhub.com/2026/29/573550/",
-   "source": "Khabarhub EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "society"
-  },
   {
    "ts": 1793238657.2106378,
    "en": "Nepal's foreign trade rises 40.71% to Rs. 761.07B in Q1 of FY 2026/27",
@@ -6410,8 +6392,8 @@
    "cat": "disaster"
   }
  ],
- "updated": 1793841666,
- "pending_since": null,
+ "updated": 1793842278,
+ "pending_since": 1793842274.294105,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
