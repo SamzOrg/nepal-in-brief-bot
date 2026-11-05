@@ -1,8 +1,5 @@
 {
  "seen": {
-  "https://baahrakhari.com/detail/506508": 1793720447.6222482,
-  "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcGlZRDE1Tmw2LUFvRnVDb0pGR0cyNTI0cUZ6UWR2Ung2Mm92Y1FEcEFuNDlURTRuZ09rQmc2TTFFMW1aLVhOTHJ0WUdBYWdnSlZzbWJWbEJrNlJHNkExcG1fTkVTWi1oUmNpSmxiMTFUY3hNWF80VUwwaWtucHVnR2xGd0RwclZJWEtOdDdpemlXZw?oc=5": 1793720447.6222482,
-  "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTkRKc3pPQnRubGtVOF9iOE96Sm9maExraDViQVBJXzR0ZHlGaHF4UGtUSHJERWp2TDE5alJvLXQ0akxYalNkZGNtZHpGYzRNdVZjNGZYcFlRaTJHNUpCSGlqQW9qZmUtZHE5Q2lhekFVbGwzaHRsdV90d1k3LUhXRkVqNkl1OGNHT3VMVTc1VzNfQkU3dEhtLU15Umc?oc=5": 1793720447.6222482,
   "https://nagariknews.nagariknetwork.com/international/kim-yoo-furious-after-name-added-to-crypto-says-us-claim-is-absurd-rhetoric-26-90.html": 1793721049.8626082,
   "https://baahrakhari.com/detail/506507": 1793721049.8626082,
   "https://gorkhapatraonline.com/news/228199": 1793721049.8626082,
@@ -1962,7 +1959,9 @@
   "https://nagariknews.nagariknetwork.com/social-affairs/stock-market-investor-deependra-agrawal-released-after-posting-rs-1-million-bail-38-95.html": 1793892048.7483594,
   "https://nagariknews.nagariknetwork.com/sports/kathmandu-s-lopsided-9-wicket-win-over-biratnagar-79-96.html": 1793892048.7483594,
   "http://english.ratopati.com/story/85793/hospitals-investment-worth-crores-at-risk-after-ciaa-case": 1793892672.136795,
-  "http://english.ratopati.com/story/85795/egyptians-return-with-prime-minister-balens-visit-to-india-as-main-agenda": 1793893247.109523
+  "http://english.ratopati.com/story/85795/egyptians-return-with-prime-minister-balens-visit-to-india-as-main-agenda": 1793893247.109523,
+  "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWFdvRS1GMTZSQjZTMGRsZndzc1RVUnlySWJycmFKaUp6d2RIb1pjSFRTMS14Q0ZQQUpUcGNtMjdEOHZGUTMyZ2lnamJOek5IRjhKY1B1aS1oS2kyTmIwYUtxZkoxakNiRWN3Y0s3ZDEtRThaZHlSeGxqMEVVbThJaGUxNy1saG1DeFJUR3BQSXVvUEpMVUVCOGs4QjZydnZneWRRdlAtZ3FoZ3RQdllwdHpLWHc?oc=5": 1793893667.5690327,
+  "http://english.ratopati.com/story/85796/npl-lumbinis-undefeated-journey-continues-kathmandus-stunning-win-janakpur-and-biratnagar-under-pressure": 1793893667.5690327
  },
  "queue": [
   {
@@ -2006,50 +2005,6 @@
    ],
    "cat": "health",
    "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "कांग्रेस पदाधिकारीको बैठक बस्दै",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/506649",
-   "source": "Baahrakhari",
-   "ts": 1793864861,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "कांग्रेस पदाधिकारीको बैठक बस्दै",
-   "en": "कांग्रेस पदाधिकारीको बैठक बस्दै",
-   "ne": "कांग्रेस पदाधिकारीको बैठक बस्दै",
-   "imp": 2,
-   "tags": [
-    "Congress",
-    "Meeting"
-   ],
-   "cat": "politics",
-   "val": 2,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "Truck Accident Claims Life in Madhyapur Thimi",
-   "summary": "Kathmandu. Gita Timilsina of Sindhupalchok Barhabise Municipality-9 died this morning in a truck collision in Madhyapur Thimi Municipality-1, Bhaktapur.According to...",
-   "link": "http://english.ratopati.com/story/85751/motorcyclist-dies-in-timilsina-crash",
-   "source": "Ratopati EN",
-   "ts": 1793864532,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/accident1_0HVVwEUEAJ.jpg",
-   "lang": "en",
-   "hl": "Truck Accident Claims Life in Madhyapur Thimi",
-   "en": "Truck Accident Claims Life in Madhyapur Thimi",
-   "ne": "Truck Accident Claims Life in Madhyapur Thimi",
-   "imp": 3,
-   "tags": [
-    "MadhyapurThimi",
-    "TruckAccident"
-   ],
-   "cat": "disaster",
-   "val": 3,
    "teaser": false,
    "hits": 1
   },
@@ -10242,7 +10197,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1793893251,
+ "updated": 1793893670,
  "pending_since": 1793892672.136795,
  "fb_blocks": [
   1790350880.4125228,
