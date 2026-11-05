@@ -1961,7 +1961,8 @@
   "https://nagariknews.nagariknetwork.com/politics/legal-practitioners-need-training-in-debating-skills-and-law-firm-management-senior-advocate-karki-98-99.html": 1793892048.7483594,
   "https://nagariknews.nagariknetwork.com/social-affairs/stock-market-investor-deependra-agrawal-released-after-posting-rs-1-million-bail-38-95.html": 1793892048.7483594,
   "https://nagariknews.nagariknetwork.com/sports/kathmandu-s-lopsided-9-wicket-win-over-biratnagar-79-96.html": 1793892048.7483594,
-  "http://english.ratopati.com/story/85793/hospitals-investment-worth-crores-at-risk-after-ciaa-case": 1793892672.136795
+  "http://english.ratopati.com/story/85793/hospitals-investment-worth-crores-at-risk-after-ciaa-case": 1793892672.136795,
+  "http://english.ratopati.com/story/85795/egyptians-return-with-prime-minister-balens-visit-to-india-as-main-agenda": 1793893247.109523
  },
  "queue": [
   {
@@ -2009,28 +2010,6 @@
    "hits": 1
   },
   {
-   "title": "स्वास्थ्य विज्ञान प्रतिष्ठान नयाँ, चुनौती पुरानै!",
-   "summary": "नेपालले विगत केही दशकमा चिकित्सा शिक्षाको विस्तारमा उल्लेखनीय प्रगति गरेको छ। मेडिकल कलेज, शिक्षण अस्पताल, विश्वविद्यालय तथा स्वास्थ्य विज्ञान प्रतिष्ठानहरूको स्थापनाले देशभित्रै दक्ष स्वास्थ्य जनशक्ति उत्पादन गर्ने...",
-   "link": "https://www.setopati.com/opinion/402072",
-   "source": "Setopati",
-   "ts": 1793863900,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "स्वास्थ्य विज्ञान प्रतिष्ठान नयाँ, चुनौती पुरानै!",
-   "en": "स्वास्थ्य विज्ञान प्रतिष्ठान नयाँ, चुनौती पुरानै!",
-   "ne": "स्वास्थ्य विज्ञान प्रतिष्ठान नयाँ, चुनौती पुरानै!",
-   "imp": 2,
-   "tags": [
-    "HealthScienceInstitute",
-    "Nepal"
-   ],
-   "cat": "education",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "कांग्रेस पदाधिकारीको बैठक बस्दै",
    "summary": "",
    "link": "https://baahrakhari.com/detail/506649",
@@ -2071,94 +2050,6 @@
    ],
    "cat": "disaster",
    "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "LPG entrepreneurs seek two years to introduce cylinders of different weights",
-   "summary": "Kathmandu, November 5 The Nepal LP Gas Industry Association has submitted its official position on the Nepal Oil Corporation's proposal to introduce a dual pricing system for liquefied petroleum gas (LPG). Following a...",
-   "link": "https://english.onlinekhabar.com/lpg-entrepreneurs-seek-two-years-to-introduce-cylinders-of-different-weights.html",
-   "source": "Onlinekhabar EN",
-   "ts": 1793864302,
-   "weight": 3,
-   "img": "http://english.onlinekhabar.com/wp-content/uploads/2022/04/cooking-gas-lpg-cylinder.jpg",
-   "lang": "en",
-   "hl": "LPG entrepreneurs seek two years to introduce cylinders of different weights",
-   "en": "LPG entrepreneurs seek two years to introduce cylinders of different weights",
-   "ne": "LPG entrepreneurs seek two years to introduce cylinders of different weights",
-   "imp": 2,
-   "tags": [
-    "LPG",
-    "CylinderWeights"
-   ],
-   "cat": "economy",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "कोरला नाकामा जमेको हिउँ र बरफ पन्छाउन सकस",
-   "summary": "मुस्ताङ समाचारदातामुस्ताङ (मुक्तिनाथ), कात्तिक १९ गते । नेपाल-चीन जोड्ने मुस्ताङको कोरला नाकामा जमेको हिउँ र बरफ पन्छाएर सडक आवागमन सहज बनाउन चुनौती भएको छ । तापक्रम घट्दै जाँदा सड...",
-   "link": "https://gorkhapatraonline.com/news/228399",
-   "source": "Gorkhapatra",
-   "ts": 1793864070,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/390551/conversions/converted_image---2026-11-05T132106.488-original.jpg",
-   "lang": "ne",
-   "hl": "कोरला नाकामा जमेको हिउँ र बरफ पन्छाउन सकस",
-   "en": "कोरला नाकामा जमेको हिउँ र बरफ पन्छाउन सकस",
-   "ne": "कोरला नाकामा जमेको हिउँ र बरफ पन्छाउन सकस",
-   "imp": 2,
-   "tags": [
-    "Korala",
-    "SnowRemoval"
-   ],
-   "cat": "disaster",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "LP Gas Industry Association Seeks Merger Provision",
-   "summary": "Kathmandu. The Nepal LP Gas Industry Association has stated that most gas industries can merge with each other if some...",
-   "link": "http://english.ratopati.com/story/85750/we-are-ready-to-merge-the-gas-industry-if-the-provisions-of-the-income-tax-act-are-removed-association",
-   "source": "Ratopati EN",
-   "ts": 1793864212,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/10-gas-line-salt-trading_npl-(5)_CtEpYGPjdK.webp",
-   "lang": "en",
-   "hl": "LP Gas Industry Association Seeks Merger Provision",
-   "en": "LP Gas Industry Association Seeks Merger Provision",
-   "ne": "LP Gas Industry Association Seeks Merger Provision",
-   "imp": 2,
-   "tags": [
-    "LPGIndustry",
-    "Merger"
-   ],
-   "cat": "economy",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Rastriya Swatantra Party Parliamentary Meeting Postponed Due to IGP Reshuffle Dispute",
-   "summary": "Kathmandu. The parliamentary party meeting of the ruling Rastriya Swatantra Party (RSP) has been affected after the government changed the...",
-   "link": "http://english.ratopati.com/story/85749/igp-reshuffle-affects-rsvp-parliamentary-party-meeting",
-   "source": "Ratopati EN",
-   "ts": 1793864182,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/rabi-balen_zXu2fIIJsc.jpg",
-   "lang": "en",
-   "hl": "Rastriya Swatantra Party Parliamentary Meeting Postponed Due to IGP Reshuffle Dispute",
-   "en": "Rastriya Swatantra Party Parliamentary Meeting Postponed Due to IGP Reshuffle Dispute",
-   "ne": "Rastriya Swatantra Party Parliamentary Meeting Postponed Due to IGP Reshuffle Dispute",
-   "imp": 3,
-   "tags": [
-    "RSP",
-    "IGPReshuffle"
-   ],
-   "cat": "politics",
-   "val": 2,
    "teaser": false,
    "hits": 1
   },
@@ -2508,72 +2399,6 @@
    "tags": [
     "Shivakoti",
     "HistoricalParty"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "सरकार र कार्कीबिचको 'टसल': ओली-लेखक पक्राउदेखि जबरा प्रकरणसम्म",
-   "summary": "वालेन्द्र शाह नेतृत्वको सरकार गठन भएपछि प्रहरीको कार्यशैली, उच्च तहका व्यक्तिमाथि हुने अनुसन्धान र राजनीतिक नेतृत्वको निर्देशन कार्यान्वयन गर्ने विषयमा सरकार तथा प्रहरी नेतृत्वबीच मतभिन्नता देखिन थालेको थियो।...",
-   "link": "https://nagariknews.nagariknetwork.com/politics/the-tussle-between-the-government-and-karki-from-oli-author-s-arrest-to-the-jabra-case-94-24.html",
-   "source": "Nagarik News",
-   "ts": 1793864283,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1793864214_Balen_DanBahadur.png",
-   "lang": "ne",
-   "hl": "सरकार र कार्कीबिचको 'टसल': ओली-लेखक पक्राउदेखि जबरा प्रकरणसम्म",
-   "en": "सरकार र कार्कीबिचको 'टसल': ओली-लेखक पक्राउदेखि जबरा प्रकरणसम्म",
-   "ne": "सरकार र कार्कीबिचको 'टसल': ओली-लेखक पक्राउदेखि जबरा प्रकरणसम्म",
-   "imp": 3,
-   "tags": [
-    "Kalikot",
-    "Karki"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "कालीकोटको खाँडाचक्र नगरपालिकामा तालाबन्दी",
-   "summary": "कालीकोटको खाँडाचक्र नगरपालिकाले कोटेसनमार्फत कोटदरबारको मुख्य बाटो मर्मत गर्न दिएको कामको रकम भुक्तानी नगरेको भन्दै नगरपालिकाको कार्यालयमा तालाबन्दी गरिएको छ।...",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/unicef-suggests-investing-more-in-child-friendly-climate-action-br-46-85.html",
-   "source": "Nagarik News",
-   "ts": 1793864122,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1793864537_Tala%20bandi%2098.jpg",
-   "lang": "ne",
-   "hl": "कालीकोटको खाँडाचक्र नगरपालिकामा तालाबन्दी",
-   "en": "कालीकोटको खाँडाचक्र नगरपालिकामा तालाबन्दी",
-   "ne": "कालीकोटको खाँडाचक्र नगरपालिकामा तालाबन्दी",
-   "imp": 2,
-   "tags": [
-    "Kalikot",
-    "Reservoir"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "विवादका बिच 'पाँच पाण्डव' टिमले भन्यो : चलचित्र प्रदर्शन हुन्छ",
-   "summary": "चलचित्रको प्रदर्शन रोकिएको भन्ने खबरहरू आइरहेका बेला निर्माण टिमले पूर्वनिर्धारित मितिमै चलचित्र प्रदर्शन हुने स्पष्ट पारेको हो।...",
-   "link": "https://nagariknews.nagariknetwork.com/arts/amidst-controversy-panch-pandav-team-says-the-film-will-be-released-br-94-45.html",
-   "source": "Nagarik News",
-   "ts": 1793863988,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1793863945_pach%20pandav.jpg",
-   "lang": "ne",
-   "hl": "विवादका बिच 'पाँच पाण्डव' टिमले भन्यो : चलचित्र प्रदर्शन हुन्छ",
-   "en": "विवादका बिच 'पाँच पाण्डव' टिमले भन्यो : चलचित्र प्रदर्शन हुन्छ",
-   "ne": "विवादका बिच 'पाँच पाण्डव' टिमले भन्यो : चलचित्र प्रदर्शन हुन्छ",
-   "imp": 2,
-   "tags": [
-    "PanchPandav",
-    "Film"
    ],
    "cat": "politics",
    "val": 3,
@@ -4586,28 +4411,6 @@
    ],
    "cat": "politics",
    "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "The miracle of breaking iron by hand is now documented in a book",
-   "summary": "In the remote hills of Karnali, an extraordinary ritual challenges the boundaries between faith and reason. It is believed that through deep meditation and concentration, a person can attain 'divine power' capable of...",
-   "link": "https://theannapurnaexpress.com/story/68549",
-   "source": "Annapurna Express",
-   "ts": 1793863874.8497872,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "The miracle of breaking iron by hand is now documented in a book",
-   "en": "The miracle of breaking iron by hand is now documented in a book",
-   "ne": "The miracle of breaking iron by hand is now documented in a book",
-   "imp": 1,
-   "tags": [
-    "IronBreaking",
-    "Book"
-   ],
-   "cat": "culture",
-   "val": 1,
    "teaser": false,
    "hits": 1
   },
@@ -10439,7 +10242,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1793892693,
+ "updated": 1793893251,
  "pending_since": 1793892672.136795,
  "fb_blocks": [
   1790350880.4125228,
