@@ -2193,7 +2193,12 @@
   "https://nagariknews.nagariknetwork.com/politics/dila-s-warning-may-the-day-never-come-when-the-people-suffer-again-due-to-a-government-with-almost-two-thirds-majority-56-38.html": 1793845242.7375355,
   "https://nagariknews.nagariknetwork.com/politics/removed-from-igp-position-and-made-an-advisor-which-middleman-has-been-settled-hark-sampang-46-11.html": 1793845242.7375355,
   "https://nagariknews.nagariknetwork.com/opinion/the-unfulfilled-dream-of-saarc-br-67-55.html": 1793845242.7375355,
-  "https://nagariknews.nagariknetwork.com/economy/deadline-for-company-s-outstanding-fines-waiver-extended-until-mid-december-86-90.html": 1793845242.7375355
+  "https://nagariknews.nagariknetwork.com/economy/deadline-for-company-s-outstanding-fines-waiver-extended-until-mid-december-86-90.html": 1793845242.7375355,
+  "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNczdZSXlWSTY4THRqQTJ4VWdqNDZPMTJhc0VqRTdEcGx5dG9ORkY5SGZzMEc3X3JudDVQamhJc3RwSl9Bdks0Yl95OUNUZi1saEN0d1kwOG5yT1lJUXhheVVFLXlOd1BtNmRlT0NGSWliVGdJM2FDaEdmbVJpaG83ZWktWWRESUtiRi1vdHM5UWljdmt0OWF0WFhneXRzekVFNHhLNExHcGpCZ0RORFU2c1ZrYVBFQXlG?oc=5": 1793845862.0355303,
+  "https://english.khabarhub.com/2026/05/574527/": 1793845862.0355303,
+  "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9HVklfMlprR25UZVFfMWhFZG1LRHdMV0ZtaFdBTUF0RmdScERudnFHZHhYTGRFRXNDV0NrQjY2bGVnVjBRakk5OVFfYjRiSDlRZmNWUFBwNDg?oc=5": 1793845862.0355303,
+  "https://kathmandupost.com/politics/2026/11/05/in-kathmandu-misri-discusses-potential-agenda-for-pm-shah-s-india-visit": 1793845862.0355303,
+  "http://english.ratopati.com/story/85704/historic-success-for-women-and-minority-candidates-in-us-midterm-elections": 1793845862.0355303
  },
  "queue": [
   {
@@ -3505,7 +3510,7 @@
    "cat": "economy",
    "val": 1,
    "teaser": true,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "अनमोलको क्यारेक्टरलाई उजागर गर्दै 'बाटुलो जून'को ट्रेलर सार्वजनिक",
@@ -3762,17 +3767,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1793240460.391832,
-   "en": "Supreme Court fails to form constitutional bench amid disputes and boycotts",
-   "ne": "Supreme Court fails to form constitutional bench amid disputes and boycotts",
-   "link": "https://kathmandupost.com/national/2026/10/29/constitutional-bench-in-limbo-as-supreme-court-struggles-over-formation-amid-disagreements-and-boycotts",
-   "source": "Kathmandu Post",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "politics"
-  },
   {
    "ts": 1793242251.9690576,
    "en": "Nepal farmers in Lalitpur fear crop loss as Cyclone Arnab brings heavy rain",
@@ -6876,8 +6870,8 @@
    "cat": "politics"
   }
  ],
- "updated": 1793845275,
- "pending_since": null,
+ "updated": 1793845868,
+ "pending_since": 1793845862.0355303,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
