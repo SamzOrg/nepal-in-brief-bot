@@ -1,13 +1,5 @@
 {
  "seen": {
-  "https://english.onlinekhabar.com/shangri-la-literature-festival.html": 1793767848.1914694,
-  "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWUZnMm5oNjNfV3dPMV9nRFpDMm9qUE50QlpscjBINUlrc1hyRTFtOTlvY1hOQzFvUGJIZEFSNkhkUEdLRVVYNzJVZnVrMzJDNm52YUFFZk82VF9UWVhPZzZDaDY4dTRMX0tROWY4aU4wNkQtbURBUUJsLW9FLXZOV3BuNHV2VDBPcU03TWRaSWFTTXE3UDJIU191Ry1DY2FkdW5hSHdnUHk3akc4SU40OFhfUnZkZTBnc0g1dFNKbVE4bnhZeHNqRWU2Vll4ZTA?oc=5": 1793767848.1914694,
-  "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTFNERWJiRXlQQVdidmNLX0taUTBxZ1hyQmprZG9EQ1hNalhUS0ZVLUJKaEdnWUhiOWd3UC1EdDZVMm5BVlVtelJPMXo4NTlEcTZJU3pCa2FCaVpBeE9NMmt0WVlwejQ2Q0pFVDZWcEpKenhQRG1WQkkxNVZDdUN3RW1xVjJkc1gzdTViMmRKQzRwdU9xYkxSaC1GcjRZUmkzbTFCdFBaRllWODlVMHNDeWNhQmxjbmZTNm9JeGVKalNrZ1lWOHc?oc=5": 1793767848.1914694,
-  "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYzE5bGJsQjhpOE9yendSZVZ0b0RnQjBHZVFES2pTa3VaR193M1htTVJub3B6OUF2NTRiWEtsSDAyV21NQ0hXdmpGNmdTMnY4d2t6eVJTeVdYeFJhdGhRMkxsU1hlQ0ZRaGxmUlJKYXY5c1ZuR0dVWkpJbl9FakNFTTRWdThnNTZmemNqSTdIajVEby1RTGJYbDlfLUhEeWlpQ0xidm1iVklVQ3ZwcDk5aHJrcHFSMkJVeTV1bFgxZEdQVlk?oc=5": 1793767848.1914694,
-  "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9lX2F6Qi1qb0V6cjc5Q0d5SWhNOHpmNHBDRzJnNDk1a3ptLVpvaHpNTEFoRmRkZkF1dFlzclpuYVBfdk5JUVE2MV9WaVNNeWlvQnJCYlFaYk4?oc=5": 1793768482.4081323,
-  "https://english.khabarhub.com/2026/04/574420/": 1793768482.4081323,
-  "https://english.onlinekhabar.com/dolpa-prison-arrested-four.html": 1793768482.4081323,
-  "https://risingnepaldaily.com/news/88375": 1793768482.4081323,
   "https://nagariknews.nagariknetwork.com/social-affairs/geological-study-of-flood-disaster-affected-areas-br-26-86.html": 1793769049.3760793,
   "https://nagariknews.nagariknetwork.com/Bazar/gold-price-increased-today-silver-decreased-94-32.html": 1793769049.3760793,
   "https://gorkhapatraonline.com/news/228252": 1793769049.3760793,
@@ -1952,7 +1944,9 @@
   "https://nagariknews.nagariknetwork.com/international/did-trump-s-climate-change-policies-affect-the-election-results-84-95.html": 1793940645.746528,
   "https://gorkhapatraonline.com/news/228492": 1793940645.746528,
   "https://nagariknews.nagariknetwork.com/international/modi-government-s-u-turn-on-agneepath-scheme-congress-raises-questions-36-47.html": 1793940645.746528,
-  "https://gorkhapatraonline.com/news/228490": 1793940645.746528
+  "https://gorkhapatraonline.com/news/228490": 1793940645.746528,
+  "https://english.khabarhub.com/2026/06/574671/": 1793941282.5251331,
+  "https://gorkhapatraonline.com/news/228489": 1793941282.5251331
  },
  "queue": [
   {
@@ -5347,7 +5341,7 @@
    "cat": "disaster",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "ह्विलचेयर नहुँदा जीवन कष्टकर",
@@ -5512,17 +5506,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1793335854.3086758,
-   "en": "Nepal's public debt hits record Rs 3.009 trillion in Q1 2026/27",
-   "ne": "Nepal's public debt hits record Rs 3.009 trillion in Q1 2026/27",
-   "link": "https://english.onlinekhabar.com/nepals-public-debt-cross-3-trillion.html",
-   "source": "Onlinekhabar EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "economy"
-  },
   {
    "ts": 1793337653.9596744,
    "en": "451,704 people receive national identity cards in Jhapa",
@@ -8648,7 +8631,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1793940652,
+ "updated": 1793941285,
  "pending_since": 1793940645.746528,
  "fb_blocks": [
   1790350880.4125228,
