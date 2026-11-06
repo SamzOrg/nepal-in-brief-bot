@@ -1946,7 +1946,8 @@
   "https://nagariknews.nagariknetwork.com/international/modi-government-s-u-turn-on-agneepath-scheme-congress-raises-questions-36-47.html": 1793940645.746528,
   "https://gorkhapatraonline.com/news/228490": 1793940645.746528,
   "https://english.khabarhub.com/2026/06/574671/": 1793941282.5251331,
-  "https://gorkhapatraonline.com/news/228489": 1793941282.5251331
+  "https://gorkhapatraonline.com/news/228489": 1793941282.5251331,
+  "https://english.khabarhub.com/2026/06/574674/": 1793941846.4958766
  },
  "queue": [
   {
@@ -4011,7 +4012,7 @@
    "cat": "tech",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "'Hustle by NepHop' to Bring rap reality show",
@@ -4276,29 +4277,6 @@
    "val": 1,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "Nepal PM Balendra Shah To Arrive In India On November 22 For First Bilateral Visit",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRVFmeDhkc1FyZXNxcEdsWHZlRld1cjFmdVVRLU8wSkN5ZktOcVRjY2R3akFTc2NIckZkUGR1NEtCc3R0QlF4ckwyZmNQYjdRUzgway1wNEdGUjB0YU1zdUhFQjhUSnFpRHJlV2JhY1ZmOE41S1dyVDUydVZ6dFJIckZfRFp0LXVTbVVKWmpOYTlVcTdtRlJoelVYby1pbTBfYkdGblhuWWRQMERGMTBfT3J3TXdZMjgwMkduX9IBwgFBVV95cUxPeld0QnNFRmhXTVNIaUU0b1l5M1BMc25EM3pvZTItRWRidDZERl9BZThad0F6MHZuV0VNOWdScFZxbnk3LTlTSTFWQ284LU5xRV9LUFY1WDBVdTZNRkJ3WFJKWGVEcU5JdlR2cl9Td0hDaHJQWnNlYlpJRE1pSXV3WTVPVHVCNXh3X09iMFVweU9NYldqcVpjMTNFaUtnYkhYRldFaDRoMWJyYjlCbDhQczFWN3BRWEhJT3Q0QzhmUGRyQQ?oc=5",
-   "source": "News18",
-   "ts": 1793935899,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Nepal PM Balendra Shah To Arrive In India On November 22 For First Bilateral Visit",
-   "en": "Nepal PM Balendra Shah To Arrive In India On November 22 For First Bilateral Visit",
-   "ne": "Nepal PM Balendra Shah To Arrive In India On November 22 For First Bilateral Visit",
-   "imp": 4,
-   "tags": [
-    "BalendraShah",
-    "India",
-    "BilateralVisit"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "Nepal sets up round-the-clock centre to combat online financial scams",
@@ -8629,9 +8607,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "disaster"
+  },
+  {
+   "ts": 1793941851.8692245,
+   "en": "Nepal PM Balendra Shah To Arrive In India On November 22 For First Bilateral Visit",
+   "ne": "Nepal PM Balendra Shah To Arrive In India On November 22 For First Bilateral Visit",
+   "link": "https://www.news18.com/india/nepal-pm-balendra-shah-to-visit-india-officials-discuss-india-nepal-ties-ws-l-10414849.html",
+   "source": "News18",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "politics"
   }
  ],
- "updated": 1793941285,
+ "updated": 1793941866,
  "pending_since": 1793940645.746528,
  "fb_blocks": [
   1790350880.4125228,
