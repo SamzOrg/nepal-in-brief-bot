@@ -1,13 +1,5 @@
 {
  "seen": {
-  "https://english.khabarhub.com/2026/04/574380/": 1793765453.4984863,
-  "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVmdNZkRSWHBXNXRXUHBubUxrRjY5SnNHSUR6TTRZTXFQa3prWTRxWWxaOWtsWFFvdkVtcFRMWEh5ZDNPeHUySm53S2xCbnhFc3lFSmNrQlN2WWdTcmktX1Y3dTJCYUk4RGpmeGpIMWtKRlhQSTNscTBGcEZNQ1N0ZzJPV3RQeEkyaVUwMWluTjVwREIzNWc?oc=5": 1793765453.4984863,
-  "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZWpqeGt6OVhDbEd0a1R5RDhlcWJtdnpscGFRMEppdUFLaklsYWxYM2NFb1NSTnNjbi1ldEk1THhmQjZtdkEtcVRfRXhJTm5qdjBxUkMwQk1KX1VqdldxTnNqYWt0UFpfSjBJX0kwNkx5UnRBLUtpcWYtU0Jlc1ZKMWpBNVhESzg?oc=5": 1793765453.4984863,
-  "https://english.onlinekhabar.com/vikram-misri-in-kathmandu.html": 1793766046.8385484,
-  "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVzhUTGdvNFJWNElLRXJaOEpyZWNsTTlvSlZoeTZrVGZFYV95QUVOR2E4UU1id0tpa3o2RUxldTVwbnpVc1YtdW1Sdm95M2E1LWI1UnpHM0dYY1RpR2lwSm1fME5RaENZRFFEQVpkVmFIZzhvTkd4SHVwcm40N0syWGZXRF9hMVBvRVFlMVcxczhKWE1VT1c1N3duaFRWNDZPVmhlYQ?oc=5": 1793766046.8385484,
-  "http://english.ratopati.com/story/85591/indian-foreign-secretary-vikram-misri-arrives-in-nepal-photos": 1793766046.8385484,
-  "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRDNqTnBabDdwVEhJblNnSmhjTEpIREI0bXU3a1M3cmFtdEFpSmY1QldEVlJCZmMxSGtFWDNXX2NkdFpCSzdJbjM3UG1wTjVrbHZqMEFWRnRJemM0OU9zNWhwQmFYTUZ5Smx5ZWtFbmc3NjQzS1lRWDZ0WGs4ODY4LTN2WGNVRXZ5RmZkRmpSMURsOExhNjZXcTVzUVNaRlQyVXd6dzdpTzB3OURDWDcyUzRfTDJwNEFj?oc=5": 1793766046.8385484,
-  "https://kathmandupost.com/national/2026/11/04/floods-push-back-siddhababa-tunnel-opening-to-mid-january": 1793766046.8385484,
   "http://english.ratopati.com/story/85593/david-miller-who-arrived-in-nepal-to-play-in-the-npl-is-welcomed-at-the-airport-photos": 1793766669.4065197,
   "https://english.onlinekhabar.com/david-miller-npl-karnali-yaks.html": 1793766669.4065197,
   "https://news.google.com/rss/articles/CBMidkFVX3lxTE9LamhGb0VyZ1RRMUpybFJfUllVY3NJUnpPdEJJOEZSamh2R3BoYm5iU0kzemVYX3lrdVh1UVNTOEE0WFBTU0tPczVWdWw1YWMyc1l4dUhycVp6OFdsNy11Q3VzQXhack51UDB1bTVQVW9ISXRVckE?oc=5": 1793766669.4065197,
@@ -1992,28 +1984,6 @@
    "val": 3,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "Paraguay President Santiago Peña resigns after bank collapse",
-   "summary": "Paraguay's President Santiago Pena has announced his resignation following a political crisis sparked by the collapse of a bank linked to him, BBC reported. \"I want to apologise to the people if at any point I failed,\"...",
-   "link": "https://theannapurnaexpress.com/story/68556",
-   "source": "Annapurna Express",
-   "ts": 1793909445.4037259,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Paraguay President Santiago Peña resigns after bank collapse",
-   "en": "Paraguay President Santiago Peña resigns after bank collapse",
-   "ne": "Paraguay President Santiago Peña resigns after bank collapse",
-   "imp": 1,
-   "tags": [
-    "Paraguay",
-    "SantiagoPena"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "वाग्मतीसहित चार प्रदेशमा वर्षाको सम्भावना",
@@ -8304,8 +8274,8 @@
    "cat": "economy"
   }
  ],
- "updated": 1793938273,
- "pending_since": null,
+ "updated": 1793938852,
+ "pending_since": 1793938848.6261604,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
