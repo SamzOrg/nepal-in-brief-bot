@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQXNUYzRrd2RKR0VubEdwN3dDSkgxSEhsN2kxaV9BOVl5elJaRG05N080TWNYX2Y1NDdreUZWX0pxYW5MSl9wbnF2UGZ4VDVXdDVtSnJTSXFuWEF5Q0JfWWNFQ1dmLUduMl9pR3B1enpsaU1nY2YwUGNOY1hVbXNIcm1mcTFrcFhuTktxMUxQZjNHM0lZTmI0TzMxVlFxQjFVM1dFQmpFaU1JVzU4Q3JF0gGzAUFVX3lxTFBoeHdTdmkyU0tzLTFCR2JWMlBDYTFtbnAybTlTNjV1ZEg3YzRZbGtfd2g4TkxwWHgxWEJoYzFTTWJWam5lVHd4STF2ajVpd0ZGSG9FSXFZamJEWnp3bzhlU3FxTGF3ay14UVVOTmNWSldpeHpFREZKcWZLYXIyRDlGdVRQOXRsTmQ1dm1ZSktra0V2SEk3aG5EN094LV9iWG5Ba0pWRlpaVnZHaGtZdnlaT09F?oc=5": 1793834446.8514066,
   "https://risingnepaldaily.com/news/88394": 1793835642.2706807,
   "https://risingnepaldaily.com/news/88395": 1793835642.2706807,
   "http://english.ratopati.com/story/85693/this-is-the-foreign-exchange-rate-on-thursday": 1793836882.712158,
@@ -1952,29 +1951,6 @@
    "hits": 1
   },
   {
-   "title": "काठमाडौं २४ घण्टा खुलाउने तयारी",
-   "summary": "जिल्ला प्रशासन कार्यालय काठमाडौंले ठमेलमात्र नभई समग्र काठमाडौंलाई २४ घण्टा सञ्चालन गर्ने विषयमा अध्ययन गरिरहेको जनाएको छ ।...",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/preparations-to-open-kathmandu-24-hours-a-day-58-93.html",
-   "source": "Nagarik News",
-   "ts": 1793978364,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1766417781_kathmandu.png",
-   "lang": "ne",
-   "hl": "काठमाडौं २४ घण्टा खुलाउने तयारी",
-   "en": "काठमाडौं २४ घण्टा खुलाउने तयारी",
-   "ne": "काठमाडौं २४ घण्टा खुलाउने तयारी",
-   "imp": 3,
-   "tags": [
-    "Kathmandu",
-    "Nightlife",
-    "काठमाडौं"
-   ],
-   "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
    "title": "Police Chief Directs Enhanced Security for Festivals",
    "summary": "Kathmandu. Police Chief Dr. Manoj Kumar KC has stated that police personnel must be more active by adopting a special...",
    "link": "http://english.ratopati.com/story/85910/police-should-be-more-proactive-to-prevent-unwanted-activities-during-festivals-inspector-general-of-police-kc",
@@ -2523,29 +2499,6 @@
    "val": 3,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "Sehwag, Raichandani fifties help India thrash Nepal by ten wickets in U-19 Asia Cup opener",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTTZ2RVdJNXpicWtVU2VrZzY2MWJaOEI0WXFUZjZQYktBLU80YjdpelJNX1JhYk9TTWVsVUtDU0RQTnlucDNVYTI5cXRfaXo0N3VhMnlpYkVwU2tTdnkxUnlwaVVCOXdkOXc5aG0taWVwS0xLYVZGd0VBWjNqTzNpcWJfY1N1MlAwRW9uRTZFSnpxT1cxdzVtVHlIZnd0Mm5xbkV5N0NTa25DNmpCVDV0enk4SVpEcEg4U0RHbHdObjA0TXc?oc=5",
-   "source": "India Tribune - Chicago",
-   "ts": 1793992341,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Sehwag, Raichandani fifties help India thrash Nepal by ten wickets in U-19 Asia Cup opener",
-   "en": "Sehwag, Raichandani fifties help India thrash Nepal by ten wickets in U-19 Asia Cup opener",
-   "ne": "Sehwag, Raichandani fifties help India thrash Nepal by ten wickets in U-19 Asia Cup opener",
-   "imp": 3,
-   "tags": [
-    "IndiaU19",
-    "NepalU19",
-    "ACCAsiaCup"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "Why Nepal are missing from the SAFF Championship 2026",
@@ -5775,9 +5728,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "society"
+  },
+  {
+   "ts": 1794007254.6353216,
+   "en": "India beats Nepal by 10 wickets in U-19 Asia Cup opener",
+   "ne": "India beats Nepal by 10 wickets in U-19 Asia Cup opener",
+   "link": "https://www.indiatribune.com/public/sehwag-raichandani-fifties-help-india-thrash-nepal-by-ten-wickets-in-u-19-asia-cup-opener",
+   "source": "India Tribune - Chicago",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "sports"
   }
  ],
- "updated": 1794006647,
+ "updated": 1794007266,
  "pending_since": 1794006643.47526,
  "fb_blocks": [
   1790350880.4125228,
