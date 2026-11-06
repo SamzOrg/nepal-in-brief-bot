@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQUw5ZTZkVzZ5eWZJblUxSTc2WUFzSV9kNWp3NURYUFotd3YxbFhGZ2tzU09jTno3Ry1hdzJicVRCamJqVmNLMW5xTWFqS01rLWs5NVlvWjAwQ29zeTA2MW5hWVBadUlaTUZ2ZXZTU2J3eVJQbVZSUGxrTVhLVGRiTDRmZVJZWl9CMnRLYkFyUzZTVktkMEJDQXlnN3NTekhXV3lOMnlOWmNNeFN4RHVYWnFR?oc=5": 1793751651.3074193,
-  "https://news.google.com/rss/articles/CBMifEFVX3lxTFB2Sy1yMjNIekhpTnA2anNsWjRnVzVPb3VqMnNZMzlWZjRpUGZFYkxpVTZPT0puOU9SWERmMXRzMVduSUxDckdpamhhX0VRSUdGeXJmRHd1OUVYQVN2MDZTdzNQc3VUZGJ3Z2FocmE4SG9vamRiaDhvZXBYSnc?oc=5": 1793751651.3074193,
   "https://gorkhapatraonline.com/news/228212": 1793752267.6286948,
   "https://english.khabarhub.com/2026/04/574359/": 1793752849.671999,
   "https://baahrakhari.com/detail/506516": 1793752849.671999,
@@ -1935,7 +1933,11 @@
   "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1zbkl3RTFlcm5uVjJRMjBRaUJSYkRVcXAxVnM2ak44eXlBWFZuX1FuQ0hVWFU1dzZHUS0yS1JMQmtxT2Zic3hJaHZYNUQyakxJ?oc=5": 1793924447.7554758,
   "https://theannapurnaexpress.com/story/68555": 1793924447.7554758,
   "https://baahrakhari.com/detail/506709": 1793924447.7554758,
-  "https://theannapurnaexpress.com/story/68554": 1793924447.7554758
+  "https://theannapurnaexpress.com/story/68554": 1793924447.7554758,
+  "https://risingnepaldaily.com/news/88432": 1793925062.2678695,
+  "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9IR3k2eUNsUUZJcTZfV0xVWEZqdkQzX0liWjR1NnlOSHNpSXZzemFtcDZXZmdmd0lTMy1HOEgwRVdLTy1fam5RMldZaG80ZUVNR2Fxd2Rn?oc=5": 1793925062.2678695,
+  "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGTkpva09lX2RwWHZHUVBOX1Y3X0Z4Z29objdtX2dFMnU5NGdaYi1tcmNQMHJVbWVqR05wZlp6SU5EU2FKcjNSNDEzYzJrTXp6VGdBU1JB?oc=5": 1793925062.2678695,
+  "https://news.google.com/rss/articles/CBMirAFBVV95cUxNd0dmSERWd3BZU0I0emJDZXp6WkE0WmhEaGpRdmdsUnowVjN1ZlRBNHBJZEMzUldZeExCbG1PWW9pdmxzc1A4dUtxSjh1ZUFlU1RmM3dUNGpydlNnMHh1VzIxY2JnV1JlTU1Cc1VBcHJKMUVDYXd3LTNHVWJoTldGSWZ2VzZWcFhEMkxham1BSk5oazdvMGZQdExCODhUVmFyQVRrZGtjdnZ0UTFP?oc=5": 1793925062.2678695
  },
  "queue": [
   {
@@ -2000,29 +2002,6 @@
     "Literacy"
    ],
    "cat": "tech",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "रास्वपा सभापति लामिछानेसँग भारतीय विदेश सचिव मिश्रीको भेट",
-   "summary": "काठमाडौँ, कात्तिक १९ गते । राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का सभापति रवि लामिछानेसँग भारतीय विदेश सचिव विक्रम मिश्रीले शिष्टाचार भेट गर्नुभएको छ । नेपालको दुई दिने औपचारिक भ्र...",
-   "link": "https://gorkhapatraonline.com/news/228443",
-   "source": "Gorkhapatra",
-   "ts": 1793895666,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/390612/conversions/513c3722-10fc-41ec-93df-49d4e2b8d270-original.jpg",
-   "lang": "ne",
-   "hl": "रास्वपा सभापति लामिछानेसँग भारतीय विदेश सचिव मिश्रीको भेट",
-   "en": "रास्वपा सभापति लामिछानेसँग भारतीय विदेश सचिव मिश्रीको भेट",
-   "ne": "रास्वपा सभापति लामिछानेसँग भारतीय विदेश सचिव मिश्रीको भेट",
-   "imp": 3,
-   "tags": [
-    "RastriyaSabha",
-    "Mishri",
-    "India"
-   ],
-   "cat": "politics",
    "val": 2,
    "teaser": false,
    "hits": 1
@@ -2390,7 +2369,7 @@
    "cat": "other",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Comedian Russell Brand found guilty by UK court of rape and sexual assaults",
@@ -2456,7 +2435,7 @@
    "cat": "economy",
    "val": 2,
    "teaser": true,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Hoax bomb threats target European airlines and airports for second time in a week",
@@ -2526,17 +2505,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1793319657.7100613,
-   "en": "सातवटै प्रदेशमा वर्षा र हिमपातको सम्भावना, राति सजग रहन आग्रह",
-   "ne": "सातवटै प्रदेशमा वर्षा र हिमपातको सम्भावना, राति सजग रहन आग्रह",
-   "link": "https://baahrakhari.com/detail/506057",
-   "source": "Baahrakhari",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "disaster"
-  },
   {
    "ts": 1793321463.4746463,
    "en": "Nepal to raise climate change impacts on Himalayas at COP31",
@@ -5660,10 +5628,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "politics"
+  },
+  {
+   "ts": 1793925073.0955443,
+   "en": "Nepal avalanche leaves over 1,400 dead and 5,000 missing in Trishuli Valley",
+   "ne": "Nepal avalanche leaves over 1,400 dead and 5,000 missing in Trishuli Valley",
+   "link": "https://nypost.com/2026/11/05/opinion/solar-panels-not-sirens-how-climate-zealots-killed-thousands-in-nepal/",
+   "source": "New York Post",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": true,
+   "cat": "disaster"
   }
  ],
- "updated": 1793924456,
- "pending_since": null,
+ "updated": 1793925088,
+ "pending_since": 1793925062.2678695,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
