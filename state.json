@@ -1946,7 +1946,9 @@
   "https://nagariknews.nagariknetwork.com/social-affairs/one-arrested-after-aerial-firing-in-gamcha-kathmandu-29-33.html": 1793926879.8677561,
   "https://gorkhapatraonline.com/news/228455": 1793926879.8677561,
   "https://nagariknews.nagariknetwork.com/editorial/the-festival-of-light-the-aspiration-for-change-br-93-31.html": 1793926879.8677561,
-  "https://gorkhapatraonline.com/news/228454": 1793926879.8677561
+  "https://gorkhapatraonline.com/news/228454": 1793926879.8677561,
+  "https://gorkhapatraonline.com/news/228461": 1793927441.8327687,
+  "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ySW41NE5taG1tVXhFZ3UtM05mLVVEQk5Ea0RNMklQd0dZMGVJWjNoWG9Fd0JxdTVTRkFhNl9vSVVrWmxYbE0zUzBWTmdRcDBXNm1mQ2RR?oc=5": 1793927441.8327687
  },
  "queue": [
   {
@@ -2176,7 +2178,7 @@
    "cat": "disaster",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "कानुन निर्माणमा अधिकारको अन्योल",
@@ -2469,29 +2471,6 @@
    "hits": 1
   },
   {
-   "title": "यस्तो छ प्रहरीको तिहार लक्षित विशेष सुरक्षा योजना",
-   "summary": "तिहार, नेपाल संवत् तथा छठपर्वलाई लक्ष्य गर्दै नेपाल प्रहरीले 'चाडपर्वलक्षित विशेष सुरक्षा योजना, २०८३' लागू गरेको छ।",
-   "link": "https://www.setopati.com/social/402125",
-   "source": "Setopati",
-   "ts": 1793925735,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "यस्तो छ प्रहरीको तिहार लक्षित विशेष सुरक्षा योजना",
-   "en": "यस्तो छ प्रहरीको तिहार लक्षित विशेष सुरक्षा योजना",
-   "ne": "यस्तो छ प्रहरीको तिहार लक्षित विशेष सुरक्षा योजना",
-   "imp": 3,
-   "tags": [
-    "Tihar",
-    "NepalPolice",
-    "Security"
-   ],
-   "cat": "society",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "India vs Nepal, Men's U19 Asia Cup: Squads, live streaming info - all you need to know",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNN244SlBPSTBLQkh3VEswY2hVcjlCcGY5TTRVUXB5bnFOLUxzYTlRdElWeThkZDEwWi1xbzRlVU1hRTdJWERwVF8wX2ZSZ05SS2tFaXRTR0RaQnU1MUVLUnZFZnB5MEM5Rml6MGFQMkhqcm9WV3ltakFRRkg2RVp6bXBabnNnRXdCd3ZJMTJMRF9QME81WFdEelRWWlJZNHN1UTlaQVlPUnlpczhXdjNQMkx2ZU14cHBpUW5XNkhsa0VkY1JIMm5kcjdIQWlLZ9IB1AFBVV95cUxQUVc0QlBuLWFkbkN6RDRlU3p4RmowY0lUMTZIaWxFT0s3REVTdldLSHBIdFF5ckVvRnVOMEpaYXlKd1BUMFlGMlQ5TlNwRGNZc3JZMl9hZ2pZYnhfdENrbmFUQmNGR3lEVXk2T0ZRbnZRMG13RTJ2OUlxU2Y1N1JQZ05oT2I4MFd2c1FpaG9zeUZ0azBGazFTWjJiWFdfUjJzWHlWOTF2V281bzdZNDlBTXhsc3owdUtXdXpGRjRXQXVTbk90Sjhad2t1UTYwLWJTbS1KYg?oc=5",
@@ -2647,7 +2626,7 @@
    "cat": "culture",
    "val": 1,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "नक्कली अध्यापन अनुमतिपत्र पेस गरेर शिक्षक बनेका शाहीविरुद्ध भ्रष्टाचार मुद्दा",
@@ -5921,10 +5900,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "health"
+  },
+  {
+   "ts": 1793927450.6384056,
+   "en": "नेपाल प्रहरीद्वारा तिहार, नेपाल संवत् र छठ लक्षित विशेष सुरक्षा योजना लागू",
+   "ne": "नेपाल प्रहरीद्वारा तिहार, नेपाल संवत् र छठ लक्षित विशेष सुरक्षा योजना लागू",
+   "link": "https://www.setopati.com/social/402125",
+   "source": "Setopati",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "society"
   }
  ],
- "updated": 1793926887,
- "pending_since": null,
+ "updated": 1793927466,
+ "pending_since": 1793927441.8327687,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
