@@ -1930,7 +1930,11 @@
   "https://nagariknews.nagariknetwork.com/blog/the-renaissance-of-ayurveda-and-the-commitment-to-a-healthy-nepal-32-43.html": 1793950845.9403772,
   "https://nagariknews.nagariknetwork.com/sports/npl-karnali-bowling-first-against-sudurpaschim-br-77-53.html": 1793950845.9403772,
   "https://nagariknews.nagariknetwork.com/politics/the-practice-of-development-and-sharing-of-responsibilities-should-start-from-the-grassroots-level-chairman-lamichhane-br-47-77.html": 1793950845.9403772,
-  "https://nagariknews.nagariknetwork.com/Dharma-Saskriti/fairs-and-festivals-of-western-nepal-a-confluence-of-culture-relationships-and-traditions-br-36-26.html": 1793950845.9403772
+  "https://nagariknews.nagariknetwork.com/Dharma-Saskriti/fairs-and-festivals-of-western-nepal-a-confluence-of-culture-relationships-and-traditions-br-36-26.html": 1793950845.9403772,
+  "https://english.khabarhub.com/2026/06/574693/": 1793951446.3369908,
+  "https://risingnepaldaily.com/news/88458": 1793951446.3369908,
+  "https://nagariknews.nagariknetwork.com/social-affairs/dan-bahadur-karki-s-writ-filed-in-supreme-court-proceedings-uncertain-br-29-13.html": 1793951446.3369908,
+  "https://baahrakhari.com/detail/506752": 1793951446.3369908
  },
  "queue": [
   {
@@ -4175,29 +4179,6 @@
    "hits": 1
   },
   {
-   "title": "Barcelona captain Raphinha extends contract until 2030",
-   "summary": "Barcelona said on Thursday that captain Raphinha has extended his contract by two years until 2030, Reuters reported.",
-   "link": "https://theannapurnaexpress.com/story/68562",
-   "source": "Annapurna Express",
-   "ts": 1793922050.8554301,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Barcelona captain Raphinha extends contract until 2030",
-   "en": "Barcelona captain Raphinha extends contract until 2030",
-   "ne": "Barcelona captain Raphinha extends contract until 2030",
-   "imp": 1,
-   "tags": [
-    "Barcelona",
-    "Raphinha",
-    "Football"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "यस्तो छ आजका लागि विदेशी मुद्राको विनिमयदर",
    "summary": "राष्ट्र बैङ्कका अनुसार अमेरिकी डलर एकको खरिददर १५० रुपैयाँ ८७ पैसा र बिक्रीदर १५१ रुपैयाँ ४७ पैसा निर्धारण गरिएको छ।",
    "link": "https://www.setopati.com/kinmel/banking/402135",
@@ -4803,7 +4784,7 @@
    "cat": "politics",
    "val": 2,
    "teaser": false,
-   "hits": 3
+   "hits": 4
   },
   {
    "title": "New Power Equation Forming in Madhesh; JSP to Lead Coalition with UML and NCP",
@@ -5491,7 +5472,7 @@
    "cat": "economy",
    "val": 3,
    "teaser": false,
-   "hits": 4
+   "hits": 5
   },
   {
    "title": "हिमाली क्षेत्रमा जलउत्पन्न विपद् रोक्न एकीकृत पूर्वसूचना प्रणाली बनाइने",
@@ -6597,7 +6578,7 @@
    "cat": "culture",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "तिहारलाई साढे ६४ करोडको झिलिमिली बत्ती आयात",
@@ -7055,29 +7036,6 @@
    "val": 3,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "Dry landslide blocks Kaligandaki Corridor road section",
-   "summary": "Kathmandu, November 6 A dry landslide occurred at Rakse in Kaligandaki Rural Municipality-2 along the Rudrabeni-Purtighat section of the Kaligandaki Corridor last night. The landslide blocked the road, disrupting...",
-   "link": "https://english.onlinekhabar.com/dry-landslide-blocks-kaligandaki-corridor-road-section.html",
-   "source": "Onlinekhabar EN",
-   "ts": 1793947916,
-   "weight": 3,
-   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/11/sukha-pahiro_kaligandaki-karidor-1024x599-1.jpg",
-   "lang": "en",
-   "hl": "Dry landslide blocks Kaligandaki Corridor road section",
-   "en": "Dry landslide blocks Kaligandaki Corridor road section",
-   "ne": "Dry landslide blocks Kaligandaki Corridor road section",
-   "imp": 4,
-   "tags": [
-    "Landslide",
-    "KaligandakiCorridor",
-    "RoadBlocked"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "सुक्खा पहिरोले बूढीगण्डकीको सहायक खोला थुनिएर बन्यो ताल",
@@ -7921,6 +7879,28 @@
    ],
    "cat": "culture",
    "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "सुक्खा पहिरोले कालीगण्डकी करिडोर अवरुद्ध",
+   "summary": "",
+   "link": "https://baahrakhari.com/detail/506752",
+   "source": "Baahrakhari",
+   "ts": 1793950946,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "सुक्खा पहिरोले कालीगण्डकी करिडोर अवरुद्ध",
+   "en": "सुक्खा पहिरोले कालीगण्डकी करिडोर अवरुद्ध",
+   "ne": "सुक्खा पहिरोले कालीगण्डकी करिडोर अवरुद्ध",
+   "imp": 3,
+   "tags": [
+    "DryLandslide",
+    "KaliGandaki"
+   ],
+   "cat": "disaster",
+   "val": 3,
    "teaser": false,
    "hits": 1
   }
@@ -11060,10 +11040,21 @@
    "n_ig": 1,
    "brk": true,
    "cat": "disaster"
+  },
+  {
+   "ts": 1793951454.817999,
+   "en": "Dry landslide blocks Rudrabeni-Purtighat road section of Kaligandaki Corridor",
+   "ne": "Dry landslide blocks Rudrabeni-Purtighat road section of Kaligandaki Corridor",
+   "link": "https://english.onlinekhabar.com/dry-landslide-blocks-kaligandaki-corridor-road-section.html",
+   "source": "Onlinekhabar EN",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": true,
+   "cat": "disaster"
   }
  ],
- "updated": 1793950869,
- "pending_since": null,
+ "updated": 1793951467,
+ "pending_since": 1793951446.3369908,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
