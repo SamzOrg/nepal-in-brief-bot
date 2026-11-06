@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://risingnepaldaily.com/news/88376": 1793761952.616829,
   "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQTc2NmJPN1FfLTVrcjZZS1lJYVpMZWRfbjlOMUR5WWtyR2lOaHJzd1h1NjluNHdnQkFVc1ZiRzVBX1pWWjRwRmp4WkFBOHRTVV9Xc19vQ01UZGpjeFE5QnRhTTB6WVUxX3pwZ3pJc3hJVnRaQ0ZEcWRIMXlFRVp0Q1VYbDFuVC1xa1RCQ1FR?oc=5": 1793762446.5583992,
   "https://english.khabarhub.com/2026/04/574368/": 1793762446.5583992,
   "https://risingnepaldaily.com/news/88377": 1793762446.5583992,
@@ -1952,7 +1951,8 @@
   "https://gorkhapatraonline.com/news/228477": 1793934650.2244425,
   "http://english.ratopati.com/story/85823/the-price-of-salt-in-chumnubri-is-rs-200-per-kg": 1793934650.2244425,
   "https://risingnepaldaily.com/news/88443": 1793934650.2244425,
-  "https://gorkhapatraonline.com/news/228476": 1793934650.2244425
+  "https://gorkhapatraonline.com/news/228476": 1793934650.2244425,
+  "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5iRk9DN3VuVTFmWkVHN1RrNVZpQmYzaTlSWVpZX3NmYzZvTUtLZndfT3dzcEpyZU50ZTFvUm5MRE1fclkyS3paT1RBZURPYnln?oc=5": 1793935245.870051
  },
  "queue": [
   {
@@ -4018,7 +4018,7 @@
    "cat": "economy",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "रुस-युक्रेन युद्ध अन्त्य गर्न 'ठूलो र भव्य' सम्झौताको तयारी !",
@@ -7476,8 +7476,8 @@
    "cat": "disaster"
   }
  ],
- "updated": 1793934669,
- "pending_since": null,
+ "updated": 1793935267,
+ "pending_since": 1793935245.870051,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
