@@ -1904,96 +1904,11 @@
   "https://gorkhapatraonline.com/news/228529": 1793957471.3509629,
   "https://risingnepaldaily.com/news/88461": 1793957471.3509629,
   "https://www.setopati.com/kinmel/business/402168": 1793957471.3509629,
-  "https://nagariknews.nagariknetwork.com/politics/korean-ambassador-meets-president-poudel-br-90-90.html": 1793957471.3509629
+  "https://nagariknews.nagariknetwork.com/politics/korean-ambassador-meets-president-poudel-br-90-90.html": 1793957471.3509629,
+  "https://news.google.com/rss/articles/CBMicEFVX3lxTFBzT3p1aWVsSURvcS1xU1JxNUdCWVlxVjBNYzdWQ1gtVktUWUI0eE1BZWt2ckl6cjZ2OER1U3kyVk8ySW9vOUd1U1poSW04NU0xc1ZfWnZRTnZudlhwa2IzdnBUTWxRNFViRzFkLVN3X0o?oc=5": 1793958046.3080046,
+  "https://kathmandupost.com/cricket/2026/11/06/sudurpaschim-set-karnali-177-run-target": 1793958046.3080046
  },
  "queue": [
-  {
-   "title": "मध्यकालीगण्डकी जलविद्युत आयोजनाको काम एक महिनादेखि ठप्प",
-   "summary": "बाँध निर्माणस्थलमा रहेको सुरुङको अडिटभित्र बाढी पसेर क्षति पुर्‍याएको छ।",
-   "link": "https://www.setopati.com/social/402129",
-   "source": "Setopati",
-   "ts": 1793929059,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "मध्यकालीगण्डकी जलविद्युत आयोजनाको काम एक महिनादेखि ठप्प",
-   "en": "मध्यकालीगण्डकी जलविद्युत आयोजनाको काम एक महिनादेखि ठप्प",
-   "ne": "मध्यकालीगण्डकी जलविद्युत आयोजनाको काम एक महिनादेखि ठप्प",
-   "imp": 3,
-   "tags": [
-    "GandakiHydropower",
-    "जलविद्युत"
-   ],
-   "cat": "economy",
-   "val": 2,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "Over 575,000 Protest Across France Against Inflation and Inequality",
-   "summary": "Paris. More than 575,000 people demonstrated nationwide on Thursday protesting inflation, economic inequality, and government inaction in France. According to...",
-   "link": "http://english.ratopati.com/story/85815/frances-biggest-protest-in-years-with-over-575000-on-the-streets",
-   "source": "Ratopati EN",
-   "ts": 1793928906,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/france_J5zX1EsCD8.webp",
-   "lang": "en",
-   "hl": "Over 575,000 Protest Across France Against Inflation and Inequality",
-   "en": "Over 575,000 Protest Across France Against Inflation and Inequality",
-   "ne": "Over 575,000 Protest Across France Against Inflation and Inequality",
-   "imp": 1,
-   "tags": [
-    "France",
-    "Inflation"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "एकैदिन तोलामा तेह्र हजारले बढ्यो मूल्य",
-   "summary": "काठमाडौँ, कात्तिक २० गते । अमेरिकी राजनीति प्रभावले सुनचाँदीको मूल्यमा एकै दिन उच्च वृद्धि भएको छ । स्थानीय बजारमा बिहीबार सुनको मूल्य तोलामा १३ हजार तीन सय रुपियाँले बढेको छ । बुध...",
-   "link": "https://gorkhapatraonline.com/news/228467",
-   "source": "Gorkhapatra",
-   "ts": 1793928875,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/390640/conversions/images-original.jpg",
-   "lang": "ne",
-   "hl": "एकैदिन तोलामा तेह्र हजारले बढ्यो मूल्य",
-   "en": "एकैदिन तोलामा तेह्र हजारले बढ्यो मूल्य",
-   "ne": "एकैदिन तोलामा तेह्र हजारले बढ्यो मूल्य",
-   "imp": 3,
-   "tags": [
-    "GoldRate",
-    "सुन"
-   ],
-   "cat": "economy",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "Social Determinants Of Health Equity",
-   "summary": "Globally, the persistent health inequities within and across social groups are major concerns. In times of demographic t...",
-   "link": "https://risingnepaldaily.com/news/88437",
-   "source": "Rising Nepal",
-   "ts": 1793928864,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Social Determinants Of Health Equity",
-   "en": "Social Determinants Of Health Equity",
-   "ne": "Social Determinants Of Health Equity",
-   "imp": 1,
-   "tags": [
-    "HealthEquity"
-   ],
-   "cat": "health",
-   "val": 1,
-   "teaser": false,
-   "hits": 1
-  },
   {
    "title": "फ्राइडे रिलिज : 'पाँच पाण्डव' आजबाट हलमा",
    "summary": "",
@@ -2244,29 +2159,6 @@
     "Politics"
    ],
    "cat": "society",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "सिनेमा हलमा कृत्रिम भिड",
-   "summary": "काठमाडौँ, कात्तिक २० गते । पछिल्लो समय नेपाली सिनेमालाई दर्शकले रुचाइरहे पनि चलचित्र हलमा कृत्रिम भिड हुने गरेको तथ्य बाहिरिएको छ । केही समययता नेपाली चलचित्रको प्रचारमा पहिलो सोमै...",
-   "link": "https://gorkhapatraonline.com/news/228468",
-   "source": "Gorkhapatra",
-   "ts": 1793929224,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/390641/conversions/cinema-hall-original.jpg",
-   "lang": "ne",
-   "hl": "सिनेमा हलमा कृत्रिम भिड",
-   "en": "सिनेमा हलमा कृत्रिम भिड",
-   "ne": "सिनेमा हलमा कृत्रिम भिड",
-   "imp": 2,
-   "tags": [
-    "CinemaHall",
-    "BoxOffice",
-    "चलचित्र"
-   ],
-   "cat": "culture",
    "val": 2,
    "teaser": false,
    "hits": 1
@@ -7829,7 +7721,7 @@
    "cat": "sports",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "Stopping the Clock: Multilateral Development Banks Need to Give Nepal a Debt Pause",
@@ -8015,7 +7907,7 @@
    "cat": "tech",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "ताप्लेजुङबाट हटाइयो ६ सय ४० जना मतदाताको नाम",
@@ -8137,17 +8029,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1793352678.6552284,
-   "en": "Irrigation chief Dinesh Rajauria and project director Krishna Prasad Rijal detained",
-   "ne": "Irrigation chief Dinesh Rajauria and project director Krishna Prasad Rijal detained",
-   "link": "https://english.onlinekhabar.com/irrigation-department-chief-and-sunkoshi-marin-project-director-detained-handed-over-to-pms-office.html",
-   "source": "Onlinekhabar EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "politics"
-  },
   {
    "ts": 1793354493.8319092,
    "en": "नवलपरासीको रामग्राममा ट्रकको ठक्करबाट रूपन्देहीका पत्रकार पोखरेलको मृत्यु",
@@ -11295,7 +11176,7 @@
    "cat": "economy"
   }
  ],
- "updated": 1793957494,
+ "updated": 1793958050,
  "pending_since": 1793956845.3965719,
  "fb_blocks": [
   1790350880.4125228,
