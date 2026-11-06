@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://baahrakhari.com/detail/506539": 1793772647.433428,
-  "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZnRYTjg2TmNRZV9fd2ZDR2U4d1JQVXEteEdmVnVaRXdmajBvU2ozSHY5d1FGREw1aUxXUzRtYkQ1WmZhM0M4MTh3UUZKVTRtNGZKOHBDU2ZQYV9ZME9sYm5nRmZZbEYzUnZWMloyLWZrZmxhV2tsdElQNlFzajN1cC0zeGlVWDNQUnI2MENjWW01YlV3R3p6OWNONGZ5WlhEM2lQaTA4Zw?oc=5": 1793772647.433428,
   "http://english.ratopati.com/story/85612/nepal-lifes-rating-upgraded-to-double-a": 1793773249.068545,
   "https://english.onlinekhabar.com/indian-foreign-secretary-meetings.html": 1793773249.068545,
   "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMWNoOW94UTFpZjRMQ0RDTm1CdktrZEdmdnRDcGpHaW1qaEJYcUVFbEdoS0ZhVXpTT3JfQ3Y4WDhHeFpsMGZhOUJBbVYteHpxVTdHYVQ5bW8yZkd6TUVlRjlHSzBvMUd6T1JsQWI4SC1lMHJvc0hZNUlyYWxQTlJfSFZTbWNfSFlieXdIV204QWZIXy1PcGZTRWlxY19VVmw3YlBDajd2T2NDc0FGSEZVMHRmQjB5bHc0emc?oc=5": 1793773249.068545,
@@ -1943,7 +1941,10 @@
   "http://english.ratopati.com/story/85836/preparations-for-bhai-tika-at-balgopaleshwar-temple-including-painting-and-decorating-photos": 1793945445.8717954,
   "https://nagariknews.nagariknetwork.com/Dharma-Saskriti/645-million-worth-of-twinkling-lights-imported-for-tihar-br-82-77.html": 1793945445.8717954,
   "http://english.ratopati.com/story/85835/world-politics-is-mired-in-geopolitical-competition-and-regional-conflict-chairman-yadav": 1793945445.8717954,
-  "https://nagariknews.nagariknetwork.com/politics/government-is-involved-in-stunts-and-media-manipulation-sachin-timalsena-br-95-29.html": 1793945445.8717954
+  "https://nagariknews.nagariknetwork.com/politics/government-is-involved-in-stunts-and-media-manipulation-sachin-timalsena-br-95-29.html": 1793945445.8717954,
+  "https://baahrakhari.com/detail/506740": 1793946046.4696808,
+  "http://english.ratopati.com/story/85847/proposed-judge-saru-accused-of-acquitting-perpetrator-in-rape-case": 1793946046.4696808,
+  "https://www.setopati.com/politics/402148": 1793946046.4696808
  },
  "queue": [
   {
@@ -2438,7 +2439,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 3
+   "hits": 4
   },
   {
    "title": "उज्यालो पर्व परिवर्तनको आकांक्षा",
@@ -4139,7 +4140,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "Mesmerising November Sky",
@@ -4882,7 +4883,7 @@
    "cat": "politics",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "New Power Equation Forming in Madhesh; JSP to Lead Coalition with UML and NCP",
@@ -9908,8 +9909,8 @@
    "cat": "society"
   }
  ],
- "updated": 1793945469,
- "pending_since": null,
+ "updated": 1793946050,
+ "pending_since": 1793946046.4696808,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
