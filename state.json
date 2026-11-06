@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://risingnepaldaily.com/news/88378": 1793764251.006801,
-  "https://news.google.com/rss/articles/CBMimgFBVV95cUxPR3NVZ09wTXBnTEtGVWNuTGN2OHUtV2N1X3pqWW1xanIwa1dZVWxBWVJmWV9TeGlSQ1Y1M2ZScXFwSkpVR2RPNEI0MTV0eXRsVV9HaS1oSmQ2QXo4UGd0WmdWdlBXUWFKVUJ6Q0Q4UlVuczVTYXV3X0RzUEZWLWc2RE9xVXRoMHQ4c0tVdUhEWGI5X1IySVVNWjZR?oc=5": 1793764251.006801,
   "https://www.setopati.com/kinmel/banking/401956": 1793764877.9828238,
   "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTTNxMHJXRVlsNklGczMtQzZEd0FPRDdQdWV0Nm9DNzB5QzZZMmlpRmc2NjlyMDhaZ2Jpd2g1RmdpOEZMSFVtc2pkckZuYmpzZnU1TG5BWGJKYjRudFo4TENmX19jR1pKeEhtSzRJQ3k2aWlXNmZabHlIX1c2dXF5Nk01ZVkzbkF2cHgtYjMxdUNXcjlvM1RkZ2RlZUJlNjA?oc=5": 1793764877.9828238,
   "https://theannapurnaexpress.com/story/68496": 1793764877.9828238,
@@ -1962,7 +1960,8 @@
   "https://nagariknews.nagariknetwork.com/politics/minister-badi-s-dialogue-with-women-and-children-of-the-raute-community-in-salyan-94-84.html": 1793936449.8229976,
   "https://baahrakhari.com/detail/506724": 1793936449.8229976,
   "https://www.setopati.com/social/402133": 1793936449.8229976,
-  "https://gorkhapatraonline.com/news/228481": 1793936449.8229976
+  "https://gorkhapatraonline.com/news/228481": 1793936449.8229976,
+  "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWU1jT3dFenFXaF8yUmpQZHU2TmFEblBjSHFSeE85T3pZNFIzdDZLdDA2VnlpeUJsU19NZGt1WWs0WlhEaHhRMXdyZ3BybGpqVkhrWXNHQW5LeUxmcTdLVEtQTDRDLS1IcS11S0tCakZCRGRMc0ZqTWo4Y3JMVU93d2lfdHVWRkZFZi1VZ3d30gGOAUFVX3lxTE5MaU44NmJTQ1hEcjBsTHgyQTRlSTJIZ1FuUEZwRWxCRG43VC1NbzlxRmVzUEtEelNqajJ5cDN5LUx1SzcwZDVkRldsZ19jbF9POFRleXFNVHV1NnF5TzhmalZzUU54UjgteFFlN1R0QnlteDFHOVdPQ3VGV2lrTnhuMFVmYVNNME1zcG94Tmc?oc=5": 1793937677.5218592
  },
  "queue": [
   {
@@ -4764,20 +4763,33 @@
    "val": 1,
    "teaser": true,
    "hits": 1
+  },
+  {
+   "title": "Nepal flood: Death toll tops 1,000 as rescue continues",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWU1jT3dFenFXaF8yUmpQZHU2TmFEblBjSHFSeE85T3pZNFIzdDZLdDA2VnlpeUJsU19NZGt1WWs0WlhEaHhRMXdyZ3BybGpqVkhrWXNHQW5LeUxmcTdLVEtQTDRDLS1IcS11S0tCakZCRGRMc0ZqTWo4Y3JMVU93d2lfdHVWRkZFZi1VZ3d30gGOAUFVX3lxTE5MaU44NmJTQ1hEcjBsTHgyQTRlSTJIZ1FuUEZwRWxCRG43VC1NbzlxRmVzUEtEelNqajJ5cDN5LUx1SzcwZDVkRldsZ19jbF9POFRleXFNVHV1NnF5TzhmalZzUU54UjgteFFlN1R0QnlteDFHOVdPQ3VGV2lrTnhuMFVmYVNNME1zcG94Tmc?oc=5",
+   "source": "DW.com",
+   "ts": 1793923672,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "Nepal flood: Death toll tops 1,000 as rescue continues",
+   "en": "Nepal flood: Death toll tops 1,000 as rescue continues",
+   "ne": "Nepal flood: Death toll tops 1,000 as rescue continues",
+   "imp": 5,
+   "tags": [
+    "NepalFlood",
+    "DeathToll",
+    "Rescue",
+    "बाढी"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1793332255.5040593,
-   "en": "कृषि अनुदान मिलाइदिने भन्दै ५ करोड ८० लाख ठगी गर्ने दुई जना पक्राउ",
-   "ne": "कृषि अनुदान मिलाइदिने भन्दै ५ करोड ८० लाख ठगी गर्ने दुई जना पक्राउ",
-   "link": "http://lokaantar.com/story/332191/2026/10/30/arrested-",
-   "source": "Lokaantar",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "crime"
-  },
   {
    "ts": 1793334057.3128417,
    "en": "सरकारको जथाभावी सरुवाविरुद्ध कर्मचारीद्वारा प्रशासकीय अदालतमा ९३ मुद्दा दर्ता",
@@ -7914,7 +7926,7 @@
    "cat": "society"
   }
  ],
- "updated": 1793937048,
+ "updated": 1793937685,
  "pending_since": 1793936449.8229976,
  "fb_blocks": [
   1790350880.4125228,
