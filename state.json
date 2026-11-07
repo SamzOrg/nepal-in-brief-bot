@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNVh5NDFZTk9HdzE1aER3Y3hQWno2S1UwV0RMWG5xZEpGVnRUaWxFNXAwOGs3UGhRd3FhWGNTMGd5eEFOaGpjb3dXaFFzQ25oVVd2RTFfd2hvRGI0OUtEc2hzU2EyS2JaMjJrV1JXNU93Tl8wNkVDdXdIQjFreTk4Zmd0S1NpUHJsUEVPbnJHNVUyVGhqVUFiZ19GOUExZlNJYTh5azZ6TnZ0UHVPVlZaSQ?oc=5": 1793850643.6340632,
   "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcFkzZ2tLNzBhQnE0aDRveWo4b1F1SnNlVWdSWF9WNDBhUWFQWVBKcTYzaGlVa1FXeWI5MWpULVF4d2IzcjNmTHFDaFBxX2d1WmpNTzVsSmdYNkRacUVPcTVyNTN4QzBQWVBPdUp0Tkp6Ui1Bem9EVlpXZUY0eHNHWVFCbVcxMVpIWnBldFNpVzFYb0QzYzl1YXVDcU85NTJ0endSSVl1R0FiS0xYZ0EwcGVFQm8tOWlCc0lj?oc=5": 1793851277.949505,
   "https://risingnepaldaily.com/news/88410": 1793851277.949505,
   "https://english.khabarhub.com/2026/05/574539/": 1793851277.949505,
@@ -1912,7 +1911,8 @@
   "https://gorkhapatraonline.com/news/228597": 1794022269.0910983,
   "https://gorkhapatraonline.com/news/228596": 1794022269.0910983,
   "https://gorkhapatraonline.com/news/228595": 1794022269.0910983,
-  "https://gorkhapatraonline.com/news/228605": 1794022848.192806
+  "https://gorkhapatraonline.com/news/228605": 1794022848.192806,
+  "https://www.setopati.com/social/402224": 1794023451.8367622
  },
  "queue": [
   {
@@ -2691,30 +2691,6 @@
    "val": 3,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "Nepal Premier League: Lumbini Lions to face Kathmandu Gurkhas on Saturday",
-   "summary": "Kathmandu. The third edition of the Nepal Premier League (NPL) will see a competition between Lumbini Lions and Kathmandu Gurkhas...",
-   "link": "http://english.ratopati.com/story/85919/kathmandu-faces-the-challenge-of-stopping-undefeated-lumbini-an-opportunity-to-avenge-an-old-defeat",
-   "source": "Ratopati EN",
-   "ts": 1794014548,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/npl_TFHsOgqJjm.webp",
-   "lang": "en",
-   "hl": "Nepal Premier League: Lumbini Lions to face Kathmandu Gurkhas on Saturday",
-   "en": "Nepal Premier League: Lumbini Lions to face Kathmandu Gurkhas on Saturday",
-   "ne": "Nepal Premier League: Lumbini Lions to face Kathmandu Gurkhas on Saturday",
-   "imp": 3,
-   "tags": [
-    "NPL",
-    "LumbiniLions",
-    "KathmanduGurkhas",
-    "Cricket"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 3
   },
   {
    "title": "समावेशीकरणको दिशामा नयाँ फड्को : गोरखापत्रद्वारा प्रकाशित मगही भाषा",
@@ -4227,6 +4203,30 @@
     "हेटौँडा"
    ],
    "cat": "crime",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "नालामा जमेको पानीमा डुबेर दुई बालकको मृत्यु",
+   "summary": "तिहारको पूर्वसन्ध्यामा दुई बालकको डुबेर मृत्यु भएपछि परिवार तथा आफन्त शोकमा परेका छन्।",
+   "link": "https://www.setopati.com/social/402224",
+   "source": "Setopati",
+   "ts": 1794023386,
+   "weight": 3,
+   "img": null,
+   "lang": "ne",
+   "hl": "नालामा जमेको पानीमा डुबेर दुई बालकको मृत्यु",
+   "en": "नालामा जमेको पानीमा डुबेर दुई बालकको मृत्यु",
+   "ne": "नालामा जमेको पानीमा डुबेर दुई बालकको मृत्यु",
+   "imp": 4,
+   "tags": [
+    "Naala",
+    "Drowning",
+    "Accident",
+    "बालक"
+   ],
+   "cat": "disaster",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -7345,9 +7345,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "economy"
+  },
+  {
+   "ts": 1794023457.8634508,
+   "en": "Nepal Premier League: Lumbini Lions face Kathmandu Gurkhas on Saturday at TU Ground",
+   "ne": "Nepal Premier League: Lumbini Lions face Kathmandu Gurkhas on Saturday at TU Ground",
+   "link": "http://english.ratopati.com/story/85919/kathmandu-faces-the-challenge-of-stopping-undefeated-lumbini-an-opportunity-to-avenge-an-old-defeat",
+   "source": "Ratopati EN",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "sports"
   }
  ],
- "updated": 1794022854,
+ "updated": 1794023471,
  "pending_since": 1794022848.192806,
  "fb_blocks": [
   1790350880.4125228,
