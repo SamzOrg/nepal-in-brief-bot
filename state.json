@@ -1,11 +1,5 @@
 {
  "seen": {
-  "https://www.setopati.com/sports/npl/402058": 1793858478.6951563,
-  "https://english.onlinekhabar.com/kathmandu-metropolitan-city-air.html": 1793858478.6951563,
-  "https://news.google.com/rss/articles/CBMie0FVX3lxTE1uZVNydHpmSzN5MVpNOXNLb3ZoVWRZZUdDWUlOOUVRZW1YY1d1MnlGVF9lVWMtVTJtMHQ5QXphSU1rRFhXMHQtV2syOXBWcl9VV2toNjNYWGtOOXF2eVRXQ09uT0dqUU9Jb0YwVVlKRHJsX0ZLZFRzbTliUQ?oc=5": 1793858478.6951563,
-  "http://english.ratopati.com/story/85723/how-much-does-a-gold-coin-cost": 1793858478.6951563,
-  "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdS1jUmpFVURTTUdtX3hYVWFjOXpjYVF1VXZycDRJQUxyZmc4SHVSOFB4WDFCVmRXR2ZCaFNYaFpHSU1TQmpEVjNZam9iMlU4cWhTQXdiMWZJWnZldzc2Q295ekx3eFlVVkpjQ2dZMTUwZDkzaTZOQk1NbkVEa2QzTUtfbHVibTA4a2YzY1ctRGNSQQ?oc=5": 1793858478.6951563,
-  "https://english.onlinekhabar.com/korala-border-point-faces-repeated-disruptions-from-floods-snowfall.html": 1793858478.6951563,
   "http://english.ratopati.com/story/85725/nepal-lost-the-opportunity-to-play-in-the-saff-championship": 1793859047.1013691,
   "http://english.ratopati.com/story/85724/customers-have-been-lining-up-since-morning-to-buy-coins-see-the-photo": 1793859047.1013691,
   "http://english.ratopati.com/story/85726/u-19-womens-cricket-nepals-stunning-win-over-hong-kong": 1793859047.1013691,
@@ -1855,7 +1849,12 @@
   "https://english.khabarhub.com/2026/07/574799/": 1794030048.4436514,
   "https://gorkhapatraonline.com/news/228613": 1794030048.4436514,
   "http://english.ratopati.com/story/85939/three-police-officers-killed-in-attack-targeting-guatemalan-lawmaker": 1794030649.3566425,
-  "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWEJxTk4xc0xXYmtvdFY3d3N0Z1NLRVB4eklpNTdwY1Vfc05hbEtvTW0tOUNSbmNqSnhvTWFsNmtid3RBcTRGYXhhdGFKVkRQQWN3eG4xTzlxWHIzbjJYek9tQm9ITG1TWERhdGV0NDdIa29nRTFFNllKUVRLbWUzT1V6M2pnY0h2R2VCMnJjWDVkX2pGaFNvbQ?oc=5": 1794030649.3566425
+  "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWEJxTk4xc0xXYmtvdFY3d3N0Z1NLRVB4eklpNTdwY1Vfc05hbEtvTW0tOUNSbmNqSnhvTWFsNmtid3RBcTRGYXhhdGFKVkRQQWN3eG4xTzlxWHIzbjJYek9tQm9ITG1TWERhdGV0NDdIa29nRTFFNllKUVRLbWUzT1V6M2pnY0h2R2VCMnJjWDVkX2pGaFNvbQ?oc=5": 1794030649.3566425,
+  "https://gorkhapatraonline.com/news/228616": 1794031283.7709067,
+  "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQd2hUUDJCelFPbnozeUthT3RCem9TenRncVBoWGpPeEUzdWNmUkpqNUdDVjhmazZpaUpnUTY1ZUNsSjAzZXBwTEp0SGo3OFptc2MwbEVRLTNxTWdfNmd5UjVqTHJnVzBJWlpQaV9UNjZNbFlsSFRaM0IzLVdZUzhqbktKSjdDVm1yNG5Xc2NRWVdWbTFyUHFCczY1bU5UT1VZOUVzZ2tQd2NHZw?oc=5": 1794031283.7709067,
+  "http://english.ratopati.com/story/85940/millions-of-rupees-were-raised-in-japan-in-the-name-of-nepal-house-but-there-was-an-uproar-when-the-land-for-the-cemetery-was-purchased": 1794031283.7709067,
+  "https://english.khabarhub.com/2026/07/574809/": 1794031283.7709067,
+  "https://nagariknews.nagariknetwork.com/economy/contribution-of-rs-1-64-million-to-the-prime-minister-s-relief-fund-br-99-59.html": 1794031283.7709067
  },
  "queue": [
   {
@@ -4813,7 +4812,7 @@
    "cat": "society",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Devotees Flock to Kagewshwor Mahadev Temple for Kag Tihar",
@@ -4946,7 +4945,7 @@
    "cat": "politics",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Nepal Telecom to deliver SIM cards to customers' doorsteps through postal service",
@@ -5035,7 +5034,7 @@
    "cat": "disaster",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   }
  ],
  "posted": [
@@ -8164,7 +8163,7 @@
    "cat": "crime"
   }
  ],
- "updated": 1794030674,
+ "updated": 1794031287,
  "pending_since": 1794030649.3566425,
  "fb_blocks": [
   1790350880.4125228,
