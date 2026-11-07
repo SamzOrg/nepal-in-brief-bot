@@ -1,9 +1,5 @@
 {
  "seen": {
-  "http://english.ratopati.com/story/85721/nepali-players-impressive-performance-in-npl-excelling-in-both-batting-and-bowling": 1793856043.9461484,
-  "https://english.khabarhub.com/2026/05/574556/": 1793856043.9461484,
-  "https://news.google.com/rss/articles/CBMitgFBVV95cUxOS2szVEpLQzN5VVRJZ1BxNXFGWDMxWTk0cmp6UDRrRHlFWTZKZ0NDdHZZb0ZRRnQ2VG83clg2cTZCNF91Zi02Mm5ZMTQ1XzBta2h1azVyYlBnVThMTHlSUFhPWUZUenFXZzM4d3l4eUVTbktEMmM3RWpyaXl5djI3LXROekYzaEtNb2ZFSjlqdGE5VjZqVi00ZTlNc1ZmRTVreXE5bTAzUDM5ZENiWU1Qa3h3ZGVJUQ?oc=5": 1793856043.9461484,
-  "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSnV5eVE4NFpFbkpiY2tvVUdWT1NwWm9aVU54RE1rRHlpOHBKSVF0bmFRaWpUMWZydDBQdEtyZ1dTc0JiOVBodjN2clVzU2pwUDN5ZVpJbG9GQlN2RElHdnJRRTB4OGYxSmZRbzNhdThySDgyWmFBNnNrNWF1U3pRVEp2X3hVQmNjUjZwbXlfaDlkQzVkc3cwTmt4Z3FZVlk3bDE4UUlNdU9jT2JmSHo5ckVubm1TZnpqSVBVNVlkUQ?oc=5": 1793856043.9461484,
   "https://gorkhapatraonline.com/news/228384": 1793856665.7470794,
   "https://english.onlinekhabar.com/gold-price-rises-by-rs-13300.html": 1793856665.7470794,
   "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOEZ4R3E3ZlFBWDdFZUlpZHdwbWpuZlF3N2liV05vNVJqZWptYVg5U1hhbDBSVU55eXZvVjh6OGRKSkhFTWYzMFlnWGdnQV9BN0x3VzZkUC1uSkxYSkJHNGREd0s3aHlnWkJIVEc4OG14d3ZQRzM1WFlvOFR6cjFhamJJeGxnZmgwcVl2eC1RRG9QeXpQaHB1ZjFObzE5UmJlWkZ6WGtPLWRsSVlfeE9IV3ZzcEVsNmxfZHVYVnB2VVg?oc=5": 1793856665.7470794,
@@ -4467,29 +4463,6 @@
    "hits": 1
   },
   {
-   "title": "जिप दुर्घटनामा एक जनाको मृत्यु, ६ जना घाइते",
-   "summary": "उनीहरू सबैको अवस्था सामान्य रहेको प्रहरीले जनाएको छ। घाइतेहरूको प्रतिष्ठानमा उपचार भइरहेको छ।",
-   "link": "https://www.setopati.com/social/402226",
-   "source": "Setopati",
-   "ts": 1794026418,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "जिप दुर्घटनामा एक जनाको मृत्यु, ६ जना घाइते",
-   "en": "जिप दुर्घटनामा एक जनाको मृत्यु, ६ जना घाइते",
-   "ne": "जिप दुर्घटनामा एक जनाको मृत्यु, ६ जना घाइते",
-   "imp": 4,
-   "tags": [
-    "JeepAccident",
-    "RoadSafety",
-    "दुर्घटना"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "विष्णु माझीले ल्याइन् नयाँ गीत 'फूल प्याउलीको'",
    "summary": "",
    "link": "https://baahrakhari.com/detail/506832",
@@ -7905,9 +7878,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "economy"
+  },
+  {
+   "ts": 1794028858.688275,
+   "en": "दाङमा जिप दुर्घटना हुँदा एक जनाको मृत्यु, ६ घाइते",
+   "ne": "दाङमा जिप दुर्घटना हुँदा एक जनाको मृत्यु, ६ घाइते",
+   "link": "https://www.setopati.com/social/402226",
+   "source": "Setopati",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "disaster"
   }
  ],
- "updated": 1794028256,
+ "updated": 1794028873,
  "pending_since": 1794027683.7363458,
  "fb_blocks": [
   1790350880.4125228,
