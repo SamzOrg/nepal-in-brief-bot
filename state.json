@@ -1,7 +1,5 @@
 {
  "seen": {
-  "http://english.ratopati.com/story/85697/indian-foreign-secretary-misri-to-meet-prime-minister-balen-today": 1793841041.922859,
-  "https://nagariknews.nagariknetwork.com/social-affairs/inspector-general-kc-s-directive-to-maintain-complete-confidentiality-of-sensitive-information-29-57.html": 1793841041.922859,
   "https://gorkhapatraonline.com/news/228339": 1793841644.1192281,
   "http://english.ratopati.com/story/85698/deadline-for-companys-outstanding-fines-waiver-extended-until-mid-december": 1793841644.1192281,
   "https://risingnepaldaily.com/news/88401": 1793841644.1192281,
@@ -1933,7 +1931,9 @@
   "https://nagariknews.nagariknetwork.com/Bazar/new-foreign-currency-exchange-rates-set-for-today-43-98.html": 1794013280.6022217,
   "https://risingnepaldaily.com/news/88489": 1794013280.6022217,
   "https://gorkhapatraonline.com/news/228564": 1794013280.6022217,
-  "https://nagariknews.nagariknetwork.com/Dharma-Saskriti/today-the-crow-tihar-festival-is-being-celebrated-worshipping-the-messenger-of-yamaraj-79-46.html": 1794013280.6022217
+  "https://nagariknews.nagariknetwork.com/Dharma-Saskriti/today-the-crow-tihar-festival-is-being-celebrated-worshipping-the-messenger-of-yamaraj-79-46.html": 1794013280.6022217,
+  "https://baahrakhari.com/detail/506822": 1794013847.8716884,
+  "http://english.ratopati.com/story/85918/here-are-the-foreign-currency-exchange-rates-for-today": 1794013847.8716884
  },
  "queue": [
   {
@@ -2619,7 +2619,7 @@
    "cat": "culture",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Reconstruction of BP Highway gathers pace",
@@ -2733,7 +2733,7 @@
    "cat": "economy",
    "val": 2,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "Rehabilitating Children",
@@ -2828,17 +2828,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1793408487.4693384,
-   "en": "Only 62.5% of Nepali households have access to improved drinking water",
-   "ne": "Only 62.5% of Nepali households have access to improved drinking water",
-   "link": "https://english.deshsanchar.com/only-62-5-of-nepali-households-have-access-to-improved-drinking-water/",
-   "source": "Deshsanchar",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "society"
-  },
   {
    "ts": 1793410281.025127,
    "en": "Nepal Envoy Lok Bahadur Thapa Meets UN Chief Guterres in New York",
@@ -5964,7 +5953,7 @@
    "cat": "culture"
   }
  ],
- "updated": 1794013289,
+ "updated": 1794013851,
  "pending_since": 1794013280.6022217,
  "fb_blocks": [
   1790350880.4125228,
