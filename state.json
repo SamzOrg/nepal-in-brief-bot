@@ -1736,7 +1736,8 @@
   "https://nagariknews.nagariknetwork.com/social-affairs/police-raid-sand-processing-industry-at-midnight-11-people-arrested-17-61.html": 1794045048.455938,
   "https://nagariknews.nagariknetwork.com/social-affairs/permanent-resettlement-process-begins-for-65-families-who-have-been-living-in-temporary-housing-for-years-50-22.html": 1794045048.455938,
   "https://nagariknews.nagariknetwork.com/blog/national-guru-yogi-narharinath-and-nepal-sanskrit-university-95-66.html": 1794045048.455938,
-  "https://nagariknews.nagariknetwork.com/politics/it-is-necessary-to-convey-the-contributions-of-padma-ratna-tuladhar-to-the-new-generation-sunita-dangol-52-73.html": 1794045048.455938
+  "https://nagariknews.nagariknetwork.com/politics/it-is-necessary-to-convey-the-contributions-of-padma-ratna-tuladhar-to-the-new-generation-sunita-dangol-52-73.html": 1794045048.455938,
+  "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbnBQM2lFNkFDM1B0TDlLRTEzRjNmTFhTUWZocXpSVGVvZ3hXVVY3SFl6TWNWZTZOZm9wbWNhdnIwVnQxVXRLbVlaSEtHLUZhWWFjTVhMQVlhUlprU3Q0bGF5dWE3YXRrSXJtM1NpVUFmN0x3S3NteEYzNlBRdlpjUzJMU09DUnptVHlwZVZwSG1qY0lWcHBRekpQX3M5T0oydjI4M0pCeXU5Uk1HQjFpTjZYbw?oc=5": 1794045678.7709615
  },
  "queue": [
   {
@@ -1805,29 +1806,6 @@
    "cat": "culture",
    "val": 1,
    "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "Traders Bring Goats and Yaks to Pokhara for Tihar Festival",
-   "summary": "Pokhara. Traders have brought goats and yaks from Mustang, Dolpa, and Mugu, among other Himalayan regions, for Tihar. Goats and...",
-   "link": "http://english.ratopati.com/story/85923/bhendachangra-arrives-in-pokhara-for-tihar",
-   "source": "Ratopati EN",
-   "ts": 1794016319,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/mustangi-changra-(1)_5rBIHdZ852.jpg",
-   "lang": "en",
-   "hl": "Traders Bring Goats and Yaks to Pokhara for Tihar Festival",
-   "en": "Traders Bring Goats and Yaks to Pokhara for Tihar Festival",
-   "ne": "Traders Bring Goats and Yaks to Pokhara for Tihar Festival",
-   "imp": 2,
-   "tags": [
-    "Pokhara",
-    "Tihar",
-    "Goats"
-   ],
-   "cat": "society",
-   "val": 3,
-   "teaser": false,
    "hits": 1
   },
   {
@@ -8924,8 +8902,8 @@
    "cat": "disaster"
   }
  ],
- "updated": 1794045073,
- "pending_since": null,
+ "updated": 1794045682,
+ "pending_since": 1794045678.7709615,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
