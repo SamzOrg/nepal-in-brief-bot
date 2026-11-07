@@ -1,7 +1,5 @@
 {
  "seen": {
-  "http://english.ratopati.com/story/85767/janakpurs-first-wicket-falls-eamonn-out-after-scoring-40-runs": 1793869850.384989,
-  "https://gorkhapatraonline.com/news/228408": 1793869850.384989,
   "http://english.ratopati.com/story/85770/janakpurs-fourth-wicket-falls-four-wickets-out-for-54-runs": 1793870444.2900763,
   "https://baahrakhari.com/detail/506662": 1793870444.2900763,
   "https://baahrakhari.com/detail/506665": 1793871063.0458934,
@@ -1744,7 +1742,9 @@
   "https://nagariknews.nagariknetwork.com/arts/ranbir-kapoor-s-desire-to-become-a-director-33-59.html": 1794042080.1885784,
   "https://gorkhapatraonline.com/news/228622": 1794042080.1885784,
   "http://english.ratopati.com/story/85967/protest-at-maitighar-mandala-alleging-attempts-to-control-the-media-photos": 1794042080.1885784,
-  "http://english.ratopati.com/story/85966/trump-names-stephen-miller-as-chief-of-staff-after-midterm-election-defeat": 1794042080.1885784
+  "http://english.ratopati.com/story/85966/trump-names-stephen-miller-as-chief-of-staff-after-midterm-election-defeat": 1794042080.1885784,
+  "https://www.setopati.com/social/402236": 1794042652.5092485,
+  "https://risingnepaldaily.com/news/88498": 1794042652.5092485
  },
  "queue": [
   {
@@ -1958,29 +1958,6 @@
    "hits": 1
   },
   {
-   "title": "तिहारको सुन्दरता",
-   "summary": "तिहार उज्यालोको उत्सव हो, रङहरूको उत्सव हो, फूलहरूको उत्सव हो र आत्मीयताको उत्सव हो।",
-   "link": "https://nagariknews.nagariknetwork.com/arts/the-beauty-of-tihar-br-58-34.html",
-   "source": "Nagarik News",
-   "ts": 1794013654,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1794013916_tihar%20lekha%20foto%2098.jpg",
-   "lang": "ne",
-   "hl": "तिहारको सुन्दरता",
-   "en": "तिहारको सुन्दरता",
-   "ne": "तिहारको सुन्दरता",
-   "imp": 1,
-   "tags": [
-    "Tihar",
-    "PhotoFeature",
-    "तिहार"
-   ],
-   "cat": "culture",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
-  },
-  {
    "title": "Kala Sahitya Dot Com releases collections of poems",
    "summary": "By A Staff Reporter,Kathmandu, Nov. 7: Poets from Nepal and abroad recited their poetry during an event organised by the...",
    "link": "https://risingnepaldaily.com/news/88482",
@@ -2002,54 +1979,6 @@
    "val": 3,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "कर्णालीका मुख्यमन्त्री शाही र मन्त्री सिता बादीबिच भेटवार्ता",
-   "summary": "भेटमा प्रदेशका सामाजिक विकासमन्त्री जितबहादुर मल्लको समेत उपस्थिति रहेको थियो।",
-   "link": "https://nagariknews.nagariknetwork.com/politics/meeting-between-karnali-chief-minister-shahi-and-minister-sita-badi-97-72.html",
-   "source": "Nagarik News",
-   "ts": 1794013571,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1794013561_sita.jpg",
-   "lang": "ne",
-   "hl": "कर्णालीका मुख्यमन्त्री शाही र मन्त्री सिता बादीबिच भेटवार्ता",
-   "en": "कर्णालीका मुख्यमन्त्री शाही र मन्त्री सिता बादीबिच भेटवार्ता",
-   "ne": "कर्णालीका मुख्यमन्त्री शाही र मन्त्री सिता बादीबिच भेटवार्ता",
-   "imp": 2,
-   "tags": [
-    "Karnali",
-    "SitaBadi",
-    "ChiefMinister",
-    "कर्णाली"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Marigold farming flourishes in Lamjung",
-   "summary": "By Our Correspondent, Lamjung, Nov. 7: Marigold farming has expanded in Lamjung district this year, with a growing numbe...",
-   "link": "https://risingnepaldaily.com/news/88479",
-   "source": "Rising Nepal",
-   "ts": 1794013450,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Marigold farming flourishes in Lamjung",
-   "en": "Marigold farming flourishes in Lamjung",
-   "ne": "Marigold farming flourishes in Lamjung",
-   "imp": 2,
-   "tags": [
-    "Marigold",
-    "Lamjung",
-    "Agriculture",
-    "खेती"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "बुकाचोगढी बन्दै पर्यटकीय नयाँ गन्तव्य",
@@ -2303,7 +2232,7 @@
    "cat": "disaster",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "आउँदै जाँदै गरौँला सिमल बारुलै",
@@ -4397,7 +4326,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "येशूलाई भेट्न पाइन्छ भन्दै अनुयायीलाई भोकै बस्न लगाउने पास्टरलाई २०० वर्ष कैद",
@@ -8905,8 +8834,8 @@
    "cat": "society"
   }
  ],
- "updated": 1794042084,
- "pending_since": null,
+ "updated": 1794042655,
+ "pending_since": 1794042652.5092485,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
