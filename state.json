@@ -1,9 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMingFBVV95cUxPMmlrRTg5MWdqS2xOaHpCd1dOMkRISEZlcDkzb24xa29XNGxkLXNicDlnb2lYWktZTWJIVU5hNUZzTmMzMlQzMF8wX19IQ3RJT2pHdjY5LVp0V1Y3NjRoMnNEOFRyTUZJQWdsMElzYzYxdGNra2R4TU51ZVlRVUw2bXdTbW5QamtJVjdmQ1B2NE5mUnNkOUxfMmltdnJjZw?oc=5": 1793862646.2642498,
-  "https://news.google.com/rss/articles/CBMid0FVX3lxTE5SZEpyUmd6bHJpbjRtbWc0QTYyYUhqS0hVUnc3Y3lSYnkyUnQ5WS1mRkgxNGVMR09naDN4SzVhblp5WHJoNWhHa2oyZVV1b25QOTJhdkFjMVNqN2pBb0Qwc1JXVnRCby16VGdaY3VpRlBJSnU5ajBv?oc=5": 1793862646.2642498,
-  "https://baahrakhari.com/detail/506645": 1793862646.2642498,
-  "https://theannapurnaexpress.com/story/68540": 1793862646.2642498,
   "http://english.ratopati.com/story/85745/balance-in-prime-ministers-relief-fund-exceeds-rs-1837-billion": 1793863247.8715096,
   "https://nagariknews.nagariknetwork.com/economy/prices-of-gold-asrfi-and-silver-medallions-fixed-91-30.html": 1793863247.8715096,
   "http://english.ratopati.com/story/85743/73-million-children-at-risk-from-climate-change-unicef-suggests-additional-investment": 1793863247.8715096,
@@ -1806,7 +1802,9 @@
   "http://english.ratopati.com/story/85952/nepali-congress-has-become-more-youthful-since-the-partys-15th-general-convention-general-secretary-sangraula": 1794034882.5045478,
   "http://english.ratopati.com/story/85951/varshamans-question-to-pandey-how-do-you-manage-the-conflict-of-interest-after-becoming-a-judge-while-your-wifes-case-is-pending-in-the-supreme-court": 1794034882.5045478,
   "http://english.ratopati.com/story/85948/new-zealand-general-election-ruling-national-party-ahead-in-early-results": 1794034882.5045478,
-  "http://english.ratopati.com/story/85947/venezuelan-man-arrested-near-white-house-with-advanced-weapons-says-he-thought-about-killing-trump": 1794034882.5045478
+  "http://english.ratopati.com/story/85947/venezuelan-man-arrested-near-white-house-with-advanced-weapons-says-he-thought-about-killing-trump": 1794034882.5045478,
+  "https://risingnepaldaily.com/news/88495": 1794035447.8151526,
+  "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOW42UktQRjFKNEhvY0otRHFTVU42anJKMmZQUmZValUtdVV4QjlhbFN1MElwMThBdTVLdV9kZTd4aFk5Vi1BZ2dQd2FhNm1qQ1FGQTlOcUc4dUQzbmFaZTUxa3V4Q1hhNGluZGJ2LXc2SFhjZ3RtODVTNUt3bVZMLU5vVllyT0l1dTFGRmR4eWp6MVJaQ181azhMcXctSHgwVzVCcVRHeGE3SDdUaVpDWHl3?oc=5": 1794035447.8151526
  },
  "queue": [
   {
@@ -5394,7 +5392,7 @@
    "cat": "disaster",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "रक्षामन्त्री पिट हेगसेथलाई हटाउलान् ट्रम्पले?",
@@ -5441,7 +5439,7 @@
    "cat": "economy",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Bagmati Province Chief Devkota Emphasizes Truthful, Public Interest Journalism",
@@ -5606,17 +5604,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1793430090.2750742,
-   "en": "कोसीका पाँच जिल्लामा आज र भोलि आठ घण्टा विद्युत् आपूर्ति बन्द",
-   "ne": "कोसीका पाँच जिल्लामा आज र भोलि आठ घण्टा विद्युत् आपूर्ति बन्द",
-   "link": "https://baahrakhari.com/detail/506178",
-   "source": "Baahrakhari",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "economy"
-  },
   {
    "ts": 1793431870.3864672,
    "en": "UN gives Bangladesh and Nepal three more years as least developed countries",
@@ -8709,8 +8696,8 @@
    "cat": "disaster"
   }
  ],
- "updated": 1794034889,
- "pending_since": null,
+ "updated": 1794035451,
+ "pending_since": 1794035447.8151526,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
