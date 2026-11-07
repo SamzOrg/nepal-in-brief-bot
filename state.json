@@ -1865,7 +1865,21 @@
   "https://gorkhapatraonline.com/news/228610": 1794027050.815281,
   "https://baahrakhari.com/detail/506829": 1794027050.815281,
   "https://news.google.com/rss/articles/CBMiWEFVX3lxTE52NFZGLU9kRHptMm9xYXp3VjhuaDJYdndvYk5ma1Y1Q0xZRW5RQktGWHk4enJCOWJfZkc5VGVvUXBKZEVYeGM4Z2F5NUdtcVhPekgycm4yWDc?oc=5": 1794029468.6183317,
-  "https://www.setopati.com/social/402228": 1794029468.6183317
+  "https://www.setopati.com/social/402228": 1794029468.6183317,
+  "https://www.setopati.com/social/402227": 1794030048.4436514,
+  "https://news.google.com/rss/articles/CBMixwFBVV95cUxNM1NFVW1HZDZhZWoxQXRwb0loUUN2LXctSUYxRVVJWGV6ZEJ0cU1RNGlFRkRWUE5ieEdqeDg3RGNWZ1A3eDYzblkwd3pabWdoYXdfU3F1YVNtTEZrYlJGMlhxVE5lSVhyTEFKblZhWVI1WlVLX1E2MDNBUXU3bjdXU1J3YUhubnozT0dtUjZ5c2VZVVNSRUZ4d2FyS2hKek5MbGxoek1mTnlQZG0xazBvNHNROTJyU2wyckRMZjZKanlsS3FYbkNJ?oc=5": 1794030048.4436514,
+  "https://baahrakhari.com/detail/506835": 1794030048.4436514,
+  "https://gorkhapatraonline.com/news/228615": 1794030048.4436514,
+  "https://www.setopati.com/social/402229": 1794030048.4436514,
+  "http://english.ratopati.com/story/85938/kag-tihar-devotees-throng-kageshwari-temple": 1794030048.4436514,
+  "https://english.khabarhub.com/2026/07/574802/": 1794030048.4436514,
+  "https://news.google.com/rss/articles/CBMixAFBVV95cUxNa1AxakJkV3lQd2p6WVpYWjB4dGM5VGFudWV5R0Flbmp1VkdwMG5ZcUNBeHN0UmxUdm5iRHhzQm9BRTU3eTg1TWdVSjY1V3E1VUZ0RllETUFBdDRxRTVIRnZGamlmblBsR0JDeGFMaGFfNlhkRWxGUU9LQjZ6TVN5NGY0QTJGcVlPbWowUVd3Wkp0cUtPSlAtajJyV2dmdGg5aERpeFZQOHdYT2E2Q0xCeGJYOTNqdVR4UkNhUzZHUzkwYXAx?oc=5": 1794030048.4436514,
+  "https://kathmandupost.com/money/2026/11/07/nepse-retreats-as-profit-taking-slows-post-dashain-rally": 1794030048.4436514,
+  "https://baahrakhari.com/detail/506833": 1794030048.4436514,
+  "https://gorkhapatraonline.com/news/228614": 1794030048.4436514,
+  "http://english.ratopati.com/story/85937/sewage-management-in-the-valley-to-be-affected-on-kartik-24-and-25": 1794030048.4436514,
+  "https://english.khabarhub.com/2026/07/574799/": 1794030048.4436514,
+  "https://gorkhapatraonline.com/news/228613": 1794030048.4436514
  },
  "queue": [
   {
@@ -4780,20 +4794,254 @@
    "val": 2,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "कात्तिक २४ र २५ गते उपत्यकाको फोहोर व्यवस्थापन प्रभावित हुने",
+   "summary": "",
+   "link": "https://baahrakhari.com/detail/506835",
+   "source": "Baahrakhari",
+   "ts": 1794029997,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "कात्तिक २४ र २५ गते उपत्यकाको फोहोर व्यवस्थापन प्रभावित हुने",
+   "en": "कात्तिक २४ र २५ गते उपत्यकाको फोहोर व्यवस्थापन प्रभावित हुने",
+   "ne": "कात्तिक २४ र २५ गते उपत्यकाको फोहोर व्यवस्थापन प्रभावित हुने",
+   "imp": 2,
+   "tags": [
+    "WasteManagement",
+    "Kathmandu",
+    "Kartik"
+   ],
+   "cat": "society",
+   "val": 2,
+   "teaser": false,
+   "hits": 2
+  },
+  {
+   "title": "उच्च लेकका खर्कबाट घरआगनमा झारिए याकचौरी",
+   "summary": "हरिकृष्ण शर्मामुस्ताङ (मुक्तिनाथ), कात्तिक २१ गते । जाडोयाम सुरु भएसँगै मुस्ताङका उच्च चरन क्षेत्रबाट याकचौँरीका गोठ न्यानो स्थानको खोजीमा बेँसी झार्न थालिएको छ । उच्च लेकमा हिमपात...",
+   "link": "https://gorkhapatraonline.com/news/228615",
+   "source": "Gorkhapatra",
+   "ts": 1794029644,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/390844/conversions/aaaa-original.jpg",
+   "lang": "ne",
+   "hl": "उच्च लेकका खर्कबाट घरआगनमा झारिए याकचौरी",
+   "en": "उच्च लेकका खर्कबाट घरआगनमा झारिए याकचौरी",
+   "ne": "उच्च लेकका खर्कबाट घरआगनमा झारिए याकचौरी",
+   "imp": 2,
+   "tags": [
+    "HouseFire",
+    "HighLake"
+   ],
+   "cat": "disaster",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "तिहार र छठमा विद्युत् आपूर्ति प्रभावित हुन नदिन के छ प्राधिकरणको तयारी?",
+   "summary": "नेपाल विद्युत् प्राधिकरणले यही वर्षको तिहारको लक्ष्मीपूजाका दिन साँझ विद्युत्को अधिकतम माग करिब एक हजार ७०० मेगावाट हुने अनुमान गरेको छ।",
+   "link": "https://www.setopati.com/social/402229",
+   "source": "Setopati",
+   "ts": 1794029567,
+   "weight": 3,
+   "img": null,
+   "lang": "ne",
+   "hl": "तिहार र छठमा विद्युत् आपूर्ति प्रभावित हुन नदिन के छ प्राधिकरणको तयारी?",
+   "en": "तिहार र छठमा विद्युत् आपूर्ति प्रभावित हुन नदिन के छ प्राधिकरणको तयारी?",
+   "ne": "तिहार र छठमा विद्युत् आपूर्ति प्रभावित हुन नदिन के छ प्राधिकरणको तयारी?",
+   "imp": 3,
+   "tags": [
+    "PowerSupply",
+    "Tihar",
+    "Chhath"
+   ],
+   "cat": "society",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Devotees Flock to Kagewshwor Mahadev Temple for Kag Tihar",
+   "summary": "Kathmandu. On the occasion of Kag Tihar, celebrated on the day of Kartik Krishna Trayodashi, devotees have been flocking to...",
+   "link": "http://english.ratopati.com/story/85938/kag-tihar-devotees-throng-kageshwari-temple",
+   "source": "Ratopati EN",
+   "ts": 1794029544,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/kageshwari-dham_3iIrqOrxap.jpg",
+   "lang": "en",
+   "hl": "Devotees Flock to Kagewshwor Mahadev Temple for Kag Tihar",
+   "en": "Devotees Flock to Kagewshwor Mahadev Temple for Kag Tihar",
+   "ne": "Devotees Flock to Kagewshwor Mahadev Temple for Kag Tihar",
+   "imp": 2,
+   "tags": [
+    "KagewshworMahadev",
+    "KagTihar"
+   ],
+   "cat": "culture",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "PM Shah urges upholding truth, justice and honesty",
+   "summary": "KATHMANDU: Prime Minister Balendra Shah (Balen) has expressed hope that the Tihar festival will inspire people to uphold truth, justice and honesty and remain committed to good governance and people-centred development....",
+   "link": "https://english.khabarhub.com/2026/07/574802/",
+   "source": "Khabarhub EN",
+   "ts": 1794028981,
+   "weight": 2,
+   "img": "https://english.khabarhub.com/wp-content/uploads/2026/10/Balendra-Shah-e1792548729748-400x220.jpg",
+   "lang": "en",
+   "hl": "PM Shah urges upholding truth, justice and honesty",
+   "en": "PM Shah urges upholding truth, justice and honesty",
+   "ne": "PM Shah urges upholding truth, justice and honesty",
+   "imp": 2,
+   "tags": [
+    "BalenShah",
+    "Governance"
+   ],
+   "cat": "politics",
+   "val": 1,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Nepal's sacked police chief seeks Supreme Court reinstatement",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNa1AxakJkV3lQd2p6WVpYWjB4dGM5VGFudWV5R0Flbmp1VkdwMG5ZcUNBeHN0UmxUdm5iRHhzQm9BRTU3eTg1TWdVSjY1V3E1VUZ0RllETUFBdDRxRTVIRnZGamlmblBsR0JDeGFMaGFfNlhkRWxGUU9LQjZ6TVN5NGY0QTJGcVlPbWowUVd3Wkp0cUtPSlAtajJyV2dmdGg5aERpeFZQOHdYT2E2Q0xCeGJYOTNqdVR4UkNhUzZHUzkwYXAx?oc=5",
+   "source": "The Star",
+   "ts": 1794027840,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "Nepal's sacked police chief seeks Supreme Court reinstatement",
+   "en": "Nepal's sacked police chief seeks Supreme Court reinstatement",
+   "ne": "Nepal's sacked police chief seeks Supreme Court reinstatement",
+   "imp": 3,
+   "tags": [
+    "PoliceChief",
+    "SupremeCourt"
+   ],
+   "cat": "politics",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Nepse retreats as profit-taking slows post-Dashain rally",
+   "summary": "Turnover falls nearly 18 percent as investors turn cautious ahead of Tihar, but technical support, improving earnings prospects and the dividend season could help revive the market.",
+   "link": "https://kathmandupost.com/money/2026/11/07/nepse-retreats-as-profit-taking-slows-post-dashain-rally",
+   "source": "Kathmandu Post",
+   "ts": 1794015648.9378228,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "Nepse retreats as profit-taking slows post-Dashain rally",
+   "en": "Nepse retreats as profit-taking slows post-Dashain rally",
+   "ne": "Nepse retreats as profit-taking slows post-Dashain rally",
+   "imp": 3,
+   "tags": [
+    "Nepse",
+    "Dashain",
+    "Market"
+   ],
+   "cat": "economy",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "पुच्छरले के हल्लाउँछ ?",
+   "summary": "",
+   "link": "https://baahrakhari.com/detail/506833",
+   "source": "Baahrakhari",
+   "ts": 1794027754,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "पुच्छरले के हल्लाउँछ ?",
+   "en": "पुच्छरले के हल्लाउँछ ?",
+   "ne": "पुच्छरले के हल्लाउँछ ?",
+   "imp": 1,
+   "tags": [
+    "Puchchhar",
+    "Trivia"
+   ],
+   "cat": "culture",
+   "val": 1,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "प्रधानमन्त्री राहत कोषमा १६ लाख ४० हजार सहयोग",
+   "summary": "काठमाडौँ, कात्तिक २१ गते । ठमेल पर्यटन विकास परिषद्ले प्रधानमन्त्री राहत कोषमा १६ लाख ४० हजार २१८ रुपियाँ आर्थिक सहयोग गरेको छ । परिषद्ले गत भदौ १० गते रसुवाको भोटेकोशीमा आएको बाढी...",
+   "link": "https://gorkhapatraonline.com/news/228614",
+   "source": "Gorkhapatra",
+   "ts": 1794029478,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/390841/conversions/PM_Rescu_Fond-original.jpg",
+   "lang": "ne",
+   "hl": "प्रधानमन्त्री राहत कोषमा १६ लाख ४० हजार सहयोग",
+   "en": "प्रधानमन्त्री राहत कोषमा १६ लाख ४० हजार सहयोग",
+   "ne": "प्रधानमन्त्री राहत कोषमा १६ लाख ४० हजार सहयोग",
+   "imp": 3,
+   "tags": [
+    "ReliefFund",
+    "BalenShah"
+   ],
+   "cat": "politics",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Nepal Telecom to deliver SIM cards to customers' doorsteps through postal service",
+   "summary": "BIRGUNJ: Nepal Telecom has introduced a doorstep SIM card delivery service in Parsa district in collaboration with the Department of Postal Services, aiming to make its services more accessible and convenient for...",
+   "link": "https://english.khabarhub.com/2026/07/574799/",
+   "source": "Khabarhub EN",
+   "ts": 1794028214,
+   "weight": 2,
+   "img": "https://english.khabarhub.com/wp-content/uploads/2026/08/nepal-telecom-1-400x220.jpg",
+   "lang": "en",
+   "hl": "Nepal Telecom to deliver SIM cards to customers' doorsteps through postal service",
+   "en": "Nepal Telecom to deliver SIM cards to customers' doorsteps through postal service",
+   "ne": "Nepal Telecom to deliver SIM cards to customers' doorsteps through postal service",
+   "imp": 2,
+   "tags": [
+    "NepalTelecom",
+    "SIMDelivery"
+   ],
+   "cat": "tech",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "अन्तरराष्ट्रिय कला प्रदर्शनी सम्पन्न",
+   "summary": "काठमाडौँ, कात्तिक २१ गते । दक्षिण एसियाका सांस्कृतिक तथा धार्मिक सम्पदा कसरी आफ्नो मूल थलोबाट विस्थापित भएर पश्चिमी सङ्ग्रहालयसम्म पुगे, त्यस क्रममा के-कस्ता सांस्कृतिक अर्थ हराए र...",
+   "link": "https://gorkhapatraonline.com/news/228613",
+   "source": "Gorkhapatra",
+   "ts": 1794027748,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/390840/conversions/aa-original.jpg",
+   "lang": "ne",
+   "hl": "अन्तरराष्ट्रिय कला प्रदर्शनी सम्पन्न",
+   "en": "अन्तरराष्ट्रिय कला प्रदर्शनी सम्पन्न",
+   "ne": "अन्तरराष्ट्रिय कला प्रदर्शनी सम्पन्न",
+   "imp": 2,
+   "tags": [
+    "InternationalArt",
+    "Exhibition"
+   ],
+   "cat": "culture",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1793424688.9382455,
-   "en": "Nepal Police say PMO directed journalists' summons, but Secretariat denies involvement",
-   "ne": "Nepal Police say PMO directed journalists' summons, but Secretariat denies involvement",
-   "link": "https://myrepublica.nagariknetwork.com/news/police-say-pmo-directed-journalists-summons-while-secretariat-denies-it-19-84.html",
-   "source": "myRepublica",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "politics"
-  },
   {
    "ts": 1793426491.1740818,
    "en": "Nepal: Dr. Manoj Kumar Sharma supersedes his seniors to become Chief Justice",
@@ -7908,8 +8156,8 @@
    "cat": "disaster"
   }
  ],
- "updated": 1794029492,
- "pending_since": 1794027683.7363458,
+ "updated": 1794030058,
+ "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
