@@ -1609,7 +1609,8 @@
   "https://baahrakhari.com/detail/506868": 1794070882.5843945,
   "https://gorkhapatraonline.com/news/228655": 1794070882.5843945,
   "http://english.ratopati.com/story/86005/the-original-deusivhailo-festival-is-taking-place-on-the-banks-of-fewa-lake": 1794070882.5843945,
-  "https://gorkhapatraonline.com/news/228654": 1794070882.5843945
+  "https://gorkhapatraonline.com/news/228654": 1794070882.5843945,
+  "http://english.ratopati.com/story/86010/bayern-wins-2-1-over-mainz-maintains-top-spot": 1794072046.9146101
  },
  "queue": [
   {
@@ -1861,75 +1862,6 @@
     "Pyasi"
    ],
    "cat": "politics",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "माइतीघरमा स्वतन्त्र प्रेसको पक्षमा स्वतन्त्र युवा अभियानको प्रदर्शन",
-   "summary": "मिडियामाथि नियन्त्रणको प्रयास र पत्रकारितामाथि दबाब सिर्जना गरिएको भन्दै काठमाडौंको माइतीघर मण्डलामा विरोध प्रदर्शन गरिएको छ।",
-   "link": "https://www.setopati.com/social/402237",
-   "source": "Setopati",
-   "ts": 1794042954,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "माइतीघरमा स्वतन्त्र प्रेसको पक्षमा स्वतन्त्र युवा अभियानको प्रदर्शन",
-   "en": "माइतीघरमा स्वतन्त्र प्रेसको पक्षमा स्वतन्त्र युवा अभियानको प्रदर्शन",
-   "ne": "माइतीघरमा स्वतन्त्र प्रेसको पक्षमा स्वतन्त्र युवा अभियानको प्रदर्शन",
-   "imp": 2,
-   "tags": [
-    "Maithigarh",
-    "PressFreedom",
-    "YouthCampaign"
-   ],
-   "cat": "society",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "बाँके-दाङ जोड्ने हुलाकी सडक निर्माण सुरु, ३ वर्षभित्र ५८ किमी सडकसहित १६ वटा पुल बन्ने",
-   "summary": "बाँकेको राप्ती सोनारी-१ कुसुमस्थित खोकरीमा रहेको हुलाकी सडकको निर्माण स्थल। तस्बिर : नागरिक",
-   "link": "https://nagariknews.nagariknetwork.com/economy/construction-process-of-postal-road-connecting-banke-and-dang-begins-63-91.html",
-   "source": "Nagarik News",
-   "ts": 1794043125,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1794043299_bato.png",
-   "lang": "ne",
-   "hl": "बाँके-दाङ जोड्ने हुलाकी सडक निर्माण सुरु, ३ वर्षभित्र ५८ किमी सडकसहित १६ वटा पुल बन्ने",
-   "en": "बाँके-दाङ जोड्ने हुलाकी सडक निर्माण सुरु, ३ वर्षभित्र ५८ किमी सडकसहित १६ वटा पुल बन्ने",
-   "ne": "बाँके-दाङ जोड्ने हुलाकी सडक निर्माण सुरु, ३ वर्षभित्र ५८ किमी सडकसहित १६ वटा पुल बन्ने",
-   "imp": 3,
-   "tags": [
-    "BanekeDang",
-    "RoadConstruction",
-    "Infrastructure"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Theater Scene in Kathmandu Sees Surge in Audience Engagement",
-   "summary": "Kathmandu. Not only has the hustle and bustle of plays increased in the theaters of the capital since Baisakh this...",
-   "link": "http://english.ratopati.com/story/85934/the-new-generation-is-increasingly-crazed-for-theater",
-   "source": "Ratopati EN",
-   "ts": 1794042900,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/thr_y5ryL4NT9b.webp",
-   "lang": "en",
-   "hl": "Theater Scene in Kathmandu Sees Surge in Audience Engagement",
-   "en": "Theater Scene in Kathmandu Sees Surge in Audience Engagement",
-   "ne": "Theater Scene in Kathmandu Sees Surge in Audience Engagement",
-   "imp": 1,
-   "tags": [
-    "KathmanduTheatre",
-    "AudienceGrowth",
-    "Arts"
-   ],
-   "cat": "culture",
    "val": 2,
    "teaser": false,
    "hits": 1
@@ -3917,29 +3849,6 @@
    "hits": 1
   },
   {
-   "title": "Belgium to allow home raids of undocumented migrants",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWldWOUhJRXA5QkU0QVJNdTlJMTZ0WDFQQU11QUYtaXp3UDNyQWJlZTNiQUhuY3JvcWhLMEtmRE5jQllqOVBzRTRMNmVqU3lIQ1FycmdLTEp4bGRWalpoYXFvbWw1VmZaSEZlUi1pREVXdC0zRkMxdDFYMTlLLXZ3blRaWmtxQkVMRVR2MjQxOUF5UzF2RmotbnVPVVNUZUdsMHRXbU13bDJ1RkE?oc=5",
-   "source": "myRepublica",
-   "ts": 1794042900,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Belgium to allow home raids of undocumented migrants",
-   "en": "Belgium to allow home raids of undocumented migrants",
-   "ne": "Belgium to allow home raids of undocumented migrants",
-   "imp": 1,
-   "tags": [
-    "Belgium",
-    "Migration",
-    "Europe"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "NC President Thapa calls for balancing cultural preservation with modernity",
    "summary": "LALITPUR: Nepali Congress (NC) President Gagan Thapa has stressed the need for Nepali society to embrace modernity while preserving its originality, traditions and cultural heritage. Addressing a program in Lalitpur on...",
    "link": "https://english.khabarhub.com/2026/07/574859/",
@@ -4437,20 +4346,32 @@
    "val": 2,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "Bayern Munich Defeats Mainz 2-1 in Bundesliga",
+   "summary": "Kathmandu. In a German Bundesliga match on Saturday, Bayern Munich defeated Mainz 2-1.For Bayern's victory, Joshua Kimmich and Leonhart Carl...",
+   "link": "http://english.ratopati.com/story/86010/bayern-wins-2-1-over-mainz-maintains-top-spot",
+   "source": "Ratopati EN",
+   "ts": 1794071537,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/bayern_zPNpeH39y6.webp",
+   "lang": "en",
+   "hl": "Bayern Munich Defeats Mainz 2-1 in Bundesliga",
+   "en": "Bayern Munich Defeats Mainz 2-1 in Bundesliga",
+   "ne": "Bayern Munich Defeats Mainz 2-1 in Bundesliga",
+   "imp": 1,
+   "tags": [
+    "BayernMunich",
+    "Bundesliga",
+    "Football"
+   ],
+   "cat": "sports",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1793466652.6522515,
-   "en": "Rain-triggered floods and landslides disrupt traffic on major highways",
-   "ne": "Rain-triggered floods and landslides disrupt traffic on major highways",
-   "link": "https://myrepublica.nagariknetwork.com/news/incessant-rainfall-disrupts-vehicular-traffic-on-several-highways-22-91.html",
-   "source": "myRepublica",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "disaster"
-  },
   {
    "ts": 1793485277.1343474,
    "en": "During Balen Shah's first India visit, Nepal to seek aid, investment",
@@ -7510,7 +7431,7 @@
    "cat": "world"
   }
  ],
- "updated": 1794071451,
+ "updated": 1794072051,
  "pending_since": 1794071447.6261923,
  "fb_blocks": [
   1790350880.4125228,
