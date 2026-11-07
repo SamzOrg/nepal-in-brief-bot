@@ -1,8 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVVBHZndCUU1XVXgzYVZ6MzlLVnFfTElBRGhURWxQRkVwLXdkWFZxbUdXNnpzTG5EczdjSUk2bmg3NkNPeUlqLWVha1F1SUhmbjJGcjlBenhmUmxxMGUxYWtMcXZIVWNtSUJRLURpUm92Z0x4WjRwS09ENnY1aTZKQUY0dGo1YTk1SzhUZzRoT3BZQkNPd1B6cUl6bElILUZtcGp4aEp2Yw?oc=5": 1793851853.9205363,
-  "https://theannapurnaexpress.com/story/68528": 1793852445.8736947,
-  "https://theannapurnaexpress.com/story/68527": 1793852445.8736947,
   "http://english.ratopati.com/story/85715/cyber-bureau-summons-congress-joint-general-secretary-shiwakoti": 1793853066.2163575,
   "http://english.ratopati.com/story/85714/congress-calls-informal-meeting-of-office-bearers": 1793853066.2163575,
   "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQS0o1Qk1QYnZYeVBwQ0dDNjZ5dk5JQjFnMEhXSUpKRTR6c19ERTVSRURGQ2xKR0h4aTc1TGNQUl9oX1ZlamFGMEphQWE3cWNPNkI3c0xva09lQ1BxZWtzZW9IckRWcGhaOHc3bHdXcTB1a0pmQjZDZ2ZQVkpPZXdCdmVtUGZnenMxcTJsd2JIQ0p6Vmo2eVJoTUdQNmNlQXh6eGlNZ2dfcHE?oc=5": 1793853066.2163575,
@@ -1916,7 +1913,8 @@
   "https://gorkhapatraonline.com/news/228606": 1794024648.357155,
   "https://nagariknews.nagariknetwork.com/sports/miller-s-surprise-in-his-debut-br-79-10.html": 1794024648.357155,
   "https://gorkhapatraonline.com/news/228604": 1794024648.357155,
-  "https://gorkhapatraonline.com/news/228603": 1794024648.357155
+  "https://gorkhapatraonline.com/news/228603": 1794024648.357155,
+  "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOR3ZUc3JIQW90TkFaaUtST0doY1psUGNmNGo1SUhpN0lrMEF5cGxsdkxmdkhhd3VZc3Zjd1p0NWtJQlFPNjBpQlpiVzBXQ1VGTTA4NFBQOGc4Nmd4UWdrV1FISHNFSHNaSkJHdmVXa3dVUEVjNGM3Y09NZWtBQWFsZ0FFaHJudVV2S3ZJc181NHhmSWh0STdNaHJaRXpYS0toNzhYcXlBUEk5TWtDZ01sVkYyZGM3SWtCMkJOd0NMZGhFZw?oc=5": 1794025249.5808184
  },
  "queue": [
   {
@@ -4210,30 +4208,6 @@
    "val": 3,
    "teaser": false,
    "hits": 3
-  },
-  {
-   "title": "नालामा जमेको पानीमा डुबेर दुई बालकको मृत्यु",
-   "summary": "तिहारको पूर्वसन्ध्यामा दुई बालकको डुबेर मृत्यु भएपछि परिवार तथा आफन्त शोकमा परेका छन्।",
-   "link": "https://www.setopati.com/social/402224",
-   "source": "Setopati",
-   "ts": 1794023386,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "नालामा जमेको पानीमा डुबेर दुई बालकको मृत्यु",
-   "en": "नालामा जमेको पानीमा डुबेर दुई बालकको मृत्यु",
-   "ne": "नालामा जमेको पानीमा डुबेर दुई बालकको मृत्यु",
-   "imp": 4,
-   "tags": [
-    "Naala",
-    "Drowning",
-    "Accident",
-    "बालक"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
   },
   {
    "title": "गोरखामा मोटरसाइकल दुर्घटनामा एक युवकको मृत्यु",
@@ -7646,10 +7620,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "sports"
+  },
+  {
+   "ts": 1794025255.2282872,
+   "en": "सल्यानमा नालामा जमेको पानीमा डुबेर दुई बालकको मृत्यु",
+   "ne": "सल्यानमा नालामा जमेको पानीमा डुबेर दुई बालकको मृत्यु",
+   "link": "https://www.setopati.com/social/402224",
+   "source": "Setopati",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "disaster"
   }
  ],
- "updated": 1794024656,
- "pending_since": null,
+ "updated": 1794025266,
+ "pending_since": 1794025249.5808184,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
