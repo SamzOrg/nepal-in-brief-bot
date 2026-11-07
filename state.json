@@ -1606,7 +1606,12 @@
   "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMjdjODZjeHNGcFNxQVcwallrMHR0NHlxVTVwT013QlBaM2xhLWRzMGRRRThaSUhJYUdBTGM3ZVdpUGlGa0haWWZ0OVhXaEJjMnlqUklvdG9ldXRqTTJlX0hvUEpSejFrRmEtQlFocV9aa0hiMUxBNHUtc2xzM0dURlNSR0dzYXlrYkxhcGJXZnhEdHZud2NKQlFWbTR5NHE4cHc?oc=5": 1794086448.5901556,
   "http://english.ratopati.com/story/86014/real-madrid-comfortably-beat-valencia-3-0": 1794091250.1031628,
   "https://news.google.com/rss/articles/CBMioAFBVV95cUxNd3pYRU8wX1hTdU9qRDhMM2NrUlFoRkxENF94R0l0bFpoUGVwa1JnajNCdENVdlZhS1hPUWdLdXE0VmctNUY1cW1zWFRZUUhUQTRsX0JhdEJjWlVTSVhwc19xTjZrd0JLV0xzUExqVFlUODh2NDdfUWFLYmVvSWVqbVd5MmozREZJazJ2NGlJNVpMREdMMzRIQk9ZTjNraUx1?oc=5": 1794091250.1031628,
-  "http://english.ratopati.com/story/86015/how-was-your-day-check-out-todays-horoscope": 1794093646.9572978
+  "http://english.ratopati.com/story/86015/how-was-your-day-check-out-todays-horoscope": 1794093646.9572978,
+  "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbkdsdV9ZRV91TnRXLTJjNDBHN0hmZDlkMGk2OURVRWotOWRqM3hfOUJCM1djWGI5Qnp3YW1WNlNON3c3Y3BNd3hua2EzNnlSWnBUTGJhS19SQzAyVkpuV29PNXE3WmJLWnRrLVZnNDFYdWdSTHFOX3ZBcFV1dGZoYTZ0U1piSDAxTjNvVQ?oc=5": 1794095447.9720058,
+  "https://gorkhapatraonline.com/news/228664": 1794095447.9720058,
+  "http://english.ratopati.com/story/86017/this-is-the-foreign-exchange-rate-on-sunday": 1794095447.9720058,
+  "https://gorkhapatraonline.com/news/228663": 1794095447.9720058,
+  "http://english.ratopati.com/story/86016/today-is-the-second-day-of-yama-panchak-lakshmi-puja-is-being-performed-in-the-evening-along-with-kukur-tihar-and-narak-chaturdashi": 1794095447.9720058
  },
  "queue": [
   {
@@ -1886,29 +1891,6 @@
    "hits": 1
   },
   {
-   "title": "हारपछि पनि रोहित निराश छैनन्, भने- अझै शीर्ष दुईमा पुग्न सक्छौं",
-   "summary": "नेपाल प्रिमियर लिग (एनपीएल) मा पहिलो हार बेहोरेपछि लुम्बिनी लायन्सका कप्तान रोहितकुमार पौडेलले पावर प्लेमा ६ विकेट गुमाउनु नै पराजयको मुख्य कारण भएको बताएका छन्।",
-   "link": "https://www.setopati.com/sports/npl/402260",
-   "source": "Setopati",
-   "ts": 1794071220,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "हारपछि पनि रोहित निराश छैनन्, भने- अझै शीर्ष दुईमा पुग्न सक्छौं",
-   "en": "हारपछि पनि रोहित निराश छैनन्, भने- अझै शीर्ष दुईमा पुग्न सक्छौं",
-   "ne": "हारपछि पनि रोहित निराश छैनन्, भने- अझै शीर्ष दुईमा पुग्न सक्छौं",
-   "imp": 3,
-   "tags": [
-    "RohitPaudel",
-    "Cricket",
-    "Nepal"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Seven Nepalis Deported From U.S. in October, All Men",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZGNPeUt5VXBVUUdOSjV2eGk0WDg2UnRLdlYxLTBsOTdBdWhCMU5BY2U3YUpWeENJVkY2OFc2N21tRDJpeE9qNTVfeXhWcF9TWHVrWlVjWmFMdU4wSEhaQnJ3c245LTlTc2dkU3NlMFFyRS1mVjhQOU05S1dEUlVMbzBXeTJ5akxocmc?oc=5",
@@ -2136,20 +2118,76 @@
    "val": 3,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "Tihar Festival Celebrated in Nepal: Worship of Dogs and Goddess Lakshmi",
+   "summary": "Kathmandu. On the second day of Yamapanchak, the Tihar festival, the worship of the honest guardian animal dog is being...",
+   "link": "http://english.ratopati.com/story/86016/today-is-the-second-day-of-yama-panchak-lakshmi-puja-is-being-performed-in-the-evening-along-with-kukur-tihar-and-narak-chaturdashi",
+   "source": "Ratopati EN",
+   "ts": 1794095345,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/kukur-tihar-laxmi_trTHu4IS21.webp",
+   "lang": "en",
+   "hl": "Tihar Festival Celebrated in Nepal: Worship of Dogs and Goddess Lakshmi",
+   "en": "Tihar Festival Celebrated in Nepal: Worship of Dogs and Goddess Lakshmi",
+   "ne": "Tihar Festival Celebrated in Nepal: Worship of Dogs and Goddess Lakshmi",
+   "imp": 2,
+   "tags": [
+    "TiharFestival",
+    "Nepal",
+    "LakshmiPuja"
+   ],
+   "cat": "culture",
+   "val": 3,
+   "teaser": false,
+   "hits": 2
+  },
+  {
+   "title": "Nepal Rastra Bank Sets Today's Exchange Rates",
+   "summary": "Kathmandu. Nepal Rastra Bank has determined the exchange rate for foreign currencies today. According to the central bank, the buying...",
+   "link": "http://english.ratopati.com/story/86017/this-is-the-foreign-exchange-rate-on-sunday",
+   "source": "Ratopati EN",
+   "ts": 1794095100,
+   "weight": 2,
+   "img": "https://rpcdn.ratopati.com/media/albums/forex_3HNlavACP4.jpg",
+   "lang": "en",
+   "hl": "Nepal Rastra Bank Sets Today's Exchange Rates",
+   "en": "Nepal Rastra Bank Sets Today's Exchange Rates",
+   "ne": "Nepal Rastra Bank Sets Today's Exchange Rates",
+   "imp": 2,
+   "tags": [
+    "NepalRastraBank",
+    "ExchangeRate"
+   ],
+   "cat": "economy",
+   "val": 1,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "भरोसायोग्य साथी कुकुर",
+   "summary": "काठमाडौँ, कात्तिक २२ गते । घरको सुरक्षा होस् वा अपराध अनुसन्धान, प्राकृतिक विपत्तिमा खोजी होस् वा भग्नावशेषमा पुरिएका मानिसको उद्धार । कुकुर मानिसको भरोसायोग्य साथी बन्दै आएको छ ।...",
+   "link": "https://gorkhapatraonline.com/news/228663",
+   "source": "Gorkhapatra",
+   "ts": 1794095003,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/390910/conversions/kukur-puja-keshab-original.jpg",
+   "lang": "ne",
+   "hl": "भरोसायोग्य साथी कुकुर",
+   "en": "भरोसायोग्य साथी कुकुर",
+   "ne": "भरोसायोग्य साथी कुकुर",
+   "imp": 1,
+   "tags": [
+    "Tihar",
+    "KukurTihar"
+   ],
+   "cat": "culture",
+   "val": 1,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1793490647.5866988,
-   "en": "Nepal Police Detain Three Journalists and Search Newsrooms in Kathmandu",
-   "ne": "Nepal Police Detain Three Journalists and Search Newsrooms in Kathmandu",
-   "link": "https://www.etvbharat.com/en/international/nepal-police-detain-three-journalists-media-body-protests-enn26103107035",
-   "source": "ETV Bharat",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "society"
-  },
   {
    "ts": 1793492449.397751,
    "en": "Nepal Premier League Opens With Warner, Russell and DRS",
@@ -5196,10 +5234,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "health"
+  },
+  {
+   "ts": 1794095455.1134336,
+   "en": "एनपीएल: काठमाडौं गोर्खाजसँग ३६ रनले पराजित भयो लुम्बिनी लायन्स",
+   "ne": "एनपीएल: काठमाडौं गोर्खाजसँग ३६ रनले पराजित भयो लुम्बिनी लायन्स",
+   "link": "https://www.setopati.com/sports/npl/402260",
+   "source": "Setopati",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "sports"
   }
  ],
- "updated": 1794094850,
- "pending_since": 1794093052.8134878,
+ "updated": 1794095467,
+ "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
