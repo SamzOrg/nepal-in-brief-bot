@@ -1,10 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNczdZSXlWSTY4THRqQTJ4VWdqNDZPMTJhc0VqRTdEcGx5dG9ORkY5SGZzMEc3X3JudDVQamhJc3RwSl9Bdks0Yl95OUNUZi1saEN0d1kwOG5yT1lJUXhheVVFLXlOd1BtNmRlT0NGSWliVGdJM2FDaEdmbVJpaG83ZWktWWRESUtiRi1vdHM5UWljdmt0OWF0WFhneXRzekVFNHhLNExHcGpCZ0RORFU2c1ZrYVBFQXlG?oc=5": 1793845862.0355303,
-  "https://english.khabarhub.com/2026/05/574527/": 1793845862.0355303,
-  "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9HVklfMlprR25UZVFfMWhFZG1LRHdMV0ZtaFdBTUF0RmdScERudnFHZHhYTGRFRXNDV0NrQjY2bGVnVjBRakk5OVFfYjRiSDlRZmNWUFBwNDg?oc=5": 1793845862.0355303,
-  "https://kathmandupost.com/politics/2026/11/05/in-kathmandu-misri-discusses-potential-agenda-for-pm-shah-s-india-visit": 1793845862.0355303,
-  "http://english.ratopati.com/story/85704/historic-success-for-women-and-minority-candidates-in-us-midterm-elections": 1793845862.0355303,
   "https://kathmandupost.com/national/2026/11/05/saudi-firm-to-pay-181-000-riyals-to-family-of-nepali-killed-in-drone-strike": 1793846448.045117,
   "https://news.google.com/rss/articles/CBMivgFBVV95cUxOV19lYjdhcnptcW9jUmxSTzdKMGRtOVU2QUViZkdDVTZ1d0JaamxKV1lFWkhfV2FTR2lCUG4wc1h2UHZIcDdrSHdLZzdMWUFWbzQtRVUwSGxWcGdPSTdkYllONC1WTEhwU2V6R0Z0Yjk1ZUpsVTZyZUtjanlJc1lUUkdzc2JrSGFUcHlwdURIMmU2aFRfVHZFMnpoRDR6aDZ5bW85aC15aDRKbldYSkhiX1c4T2xkUHE2SnlKT25n?oc=5": 1793846448.045117,
   "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaFVHd25wSEJJRzNlbGVURkNXRjQ0enVhMHk1OVNIVV9YOExhWk1EYV9Gc3c2S1VXQXZMZjVjWTFSdVBsczVvSWRFckxaQ3RCbW9KWTZVNFIyQVlYOVNwZDFoeDBuVExJbDFVUkVZYkhHTV9qUWdPNmJSWXZrYkJwMGtJUjJJaGNoLVRubE9kRUdObzR1T2xqM2Fn?oc=5": 1793846448.045117,
@@ -1920,7 +1915,8 @@
   "https://gorkhapatraonline.com/news/228581": 1794017448.737786,
   "https://kathmandupost.com/sports/2026/11/07/pokhara-avengers-losing-streak-continues-in-npl": 1794018089.931415,
   "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMkxaUTlTWlJvRF9iamM0UjN6aEVjUmQ4LXpOQVRHVEdrNDZJWHV5MmpMckdlMUcwcG9JMXREdzIyUWFOLTlCUUk1aXRlOHBDN3VDbDFqMHlyVWY5aHJnc3hkVXk2Zk9xaldUYUlPcmd5UG5ZQ0JDVVhrNWRaTDNtc09pbFM0RXpwWjNPaUVxbDlhTmNILTVhU2wwam1kYWlCSk80ZVprVzQ4LThjZ2pNUHpjVlJzU2IzUFVMSQ?oc=5": 1794018089.931415,
-  "https://theannapurnaexpress.com/story/68584": 1794018089.931415
+  "https://theannapurnaexpress.com/story/68584": 1794018089.931415,
+  "https://www.setopati.com/social/402220": 1794018666.040441
  },
  "queue": [
   {
@@ -2513,7 +2509,7 @@
    "cat": "culture",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Nepal Rastra Bank fixes today's foreign currency exchange rates",
@@ -6487,7 +6483,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1794018111,
+ "updated": 1794018671,
  "pending_since": 1794018089.931415,
  "fb_blocks": [
   1790350880.4125228,
