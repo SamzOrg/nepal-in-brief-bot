@@ -1744,7 +1744,8 @@
   "http://english.ratopati.com/story/85967/protest-at-maitighar-mandala-alleging-attempts-to-control-the-media-photos": 1794042080.1885784,
   "http://english.ratopati.com/story/85966/trump-names-stephen-miller-as-chief-of-staff-after-midterm-election-defeat": 1794042080.1885784,
   "https://www.setopati.com/social/402236": 1794042652.5092485,
-  "https://risingnepaldaily.com/news/88498": 1794042652.5092485
+  "https://risingnepaldaily.com/news/88498": 1794042652.5092485,
+  "http://english.ratopati.com/story/85972/australian-prime-minister-celebrates-tihar-with-nepali-community-dresses-in-nepali-dhaka-topi-photos": 1794042789.9736066
  },
  "queue": [
   {
@@ -5743,17 +5744,6 @@
  ],
  "posted": [
   {
-   "ts": 1793437858.365996,
-   "en": "PM Shah pledges policy reforms to help Nepal IT and game dev firms become global unicorns",
-   "ne": "PM Shah pledges policy reforms to help Nepal IT and game dev firms become global unicorns",
-   "link": "https://risingnepaldaily.com/news/88262",
-   "source": "Rising Nepal",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "economy"
-  },
-  {
    "ts": 1793439068.7881985,
    "en": "Nepali Trail Runner Roshila Tamang Wins Bhutan's Colon Trail Run",
    "ne": "Nepali Trail Runner Roshila Tamang Wins Bhutan's Colon Trail Run",
@@ -8834,7 +8824,7 @@
    "cat": "society"
   }
  ],
- "updated": 1794042655,
+ "updated": 1794042793,
  "pending_since": 1794042652.5092485,
  "fb_blocks": [
   1790350880.4125228,
