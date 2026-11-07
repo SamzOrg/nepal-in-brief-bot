@@ -1,9 +1,5 @@
 {
  "seen": {
-  "https://baahrakhari.com/detail/506665": 1793871063.0458934,
-  "http://english.ratopati.com/story/85771/janakpurs-fifth-wicket-falls-half-the-team-out-for-55-runs": 1793871063.0458934,
-  "https://english.khabarhub.com/2026/05/574579/": 1793871063.0458934,
-  "https://theannapurnaexpress.com/story/68547": 1793871063.0458934,
   "https://www.setopati.com/politics/402083": 1793871645.8588002,
   "https://baahrakhari.com/detail/506666": 1793871645.8588002,
   "https://nagariknews.nagariknetwork.com/politics/prime-minister-holds-briefing-on-peace-and-security-with-security-chiefs-27-36.html": 1793871645.8588002,
@@ -1747,7 +1743,9 @@
   "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5rMC1halRxZE9IT1JocnJvelNNWVpXSVlaYXhnVGs1ZVJIamRCSXhWNWhzQ08zc21RQUh1VzRycWZ5cE1DRGdjRlJCd0NfR1ZF?oc=5": 1794043249.567264,
   "https://english.khabarhub.com/2026/07/574815/": 1794043249.567264,
   "https://risingnepaldaily.com/news/88499": 1794043249.567264,
-  "https://theannapurnaexpress.com/story/68590": 1794043249.567264
+  "https://theannapurnaexpress.com/story/68590": 1794043249.567264,
+  "https://nagariknews.nagariknetwork.com/international/trump-appoints-stephen-miller-as-chief-of-staff-br-57-93.html": 1794043870.21977,
+  "https://nagariknews.nagariknetwork.com/politics/foreign-minister-khanal-leaves-for-turkey-to-participate-in-cop-31-leading-nepali-delegation-br-27-59.html": 1794043870.21977
  },
  "queue": [
   {
@@ -1798,28 +1796,6 @@
    "hits": 1
   },
   {
-   "title": "मध्यावधि चुनाव हारेपछि ट्रम्पले गरे ह्वाइट हाउसमा ठुलो परिवर्तन",
-   "summary": "मिलर विशेषगरी ट्रम्प प्रशासनको कडा आप्रवासन नीतिका प्रमुख योजनाकारका रूपमा चिनिन्छन्। उनले आप्रवासन नियन्त्रणका लागि विभिन्न योजना बनाउन र सरकारी निकायबिच समन्वय गर्न महत्त्वपूर्ण भूमिका खेलेका छन्।...",
-   "link": "https://nagariknews.nagariknetwork.com/international/trump-makes-major-changes-to-the-white-house-after-losing-the-midterm-elections-48-70.html",
-   "source": "Nagarik News",
-   "ts": 1794014806,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1794014748_Trump%20made%20change.jpg",
-   "lang": "ne",
-   "hl": "मध्यावधि चुनाव हारेपछि ट्रम्पले गरे ह्वाइट हाउसमा ठुलो परिवर्तन",
-   "en": "मध्यावधि चुनाव हारेपछि ट्रम्पले गरे ह्वाइट हाउसमा ठुलो परिवर्तन",
-   "ne": "मध्यावधि चुनाव हारेपछि ट्रम्पले गरे ह्वाइट हाउसमा ठुलो परिवर्तन",
-   "imp": 1,
-   "tags": [
-    "DonaldTrump",
-    "WhiteHouse"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
    "title": "Japanese Food Festival Held at Radisson Hotel Kathmandu",
    "summary": "Kathmandu. A 'Japanese Food Festival' is being operated at the five-star hotel Radisson in Lazimpat, Kathmandu, targeting Japanese food lovers.This...",
    "link": "http://english.ratopati.com/story/85920/japanese-food-festival-at-radisson-hokkaido-group-serving-japanese-flavors",
@@ -1861,76 +1837,6 @@
     "Cricket"
    ],
    "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "स्मार्ट लाइसेन्स पालिकामै वितरण",
-   "summary": "सप्तरी समाचारदाता सप्तरी, कात्तिक २१ गते । सेवाग्राहीलाई सरकारी सेवा लिन सदरमुकाम धाउनुपर्ने बाध्यता अन्त्य गर्दै स्थानीयस्तरमै सेवा पु-याउने उद्देश्यले यातायात व्यवस्था कार्यालय र...",
-   "link": "https://gorkhapatraonline.com/news/228579",
-   "source": "Gorkhapatra",
-   "ts": 1794015022,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/390804/conversions/1-original.jpg",
-   "lang": "ne",
-   "hl": "स्मार्ट लाइसेन्स पालिकामै वितरण",
-   "en": "स्मार्ट लाइसेन्स पालिकामै वितरण",
-   "ne": "स्मार्ट लाइसेन्स पालिकामै वितरण",
-   "imp": 3,
-   "tags": [
-    "SmartLicense",
-    "LocalGov",
-    "स्मार्टलाइसेन्स"
-   ],
-   "cat": "technology",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "समावेशीकरणको दिशामा नयाँ फड्को : गोरखापत्रद्वारा प्रकाशित मगही भाषा",
-   "summary": "",
-   "link": "https://gorkhapatraonline.com/news/228572",
-   "source": "Gorkhapatra",
-   "ts": 1794014654,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/390797/conversions/7-original.jpg",
-   "lang": "ne",
-   "hl": "समावेशीकरणको दिशामा नयाँ फड्को : गोरखापत्रद्वारा प्रकाशित मगही भाषा",
-   "en": "समावेशीकरणको दिशामा नयाँ फड्को : गोरखापत्रद्वारा प्रकाशित मगही भाषा",
-   "ne": "समावेशीकरणको दिशामा नयाँ फड्को : गोरखापत्रद्वारा प्रकाशित मगही भाषा",
-   "imp": 2,
-   "tags": [
-    "Gorkhapatra",
-    "MaghiLanguage",
-    "Gorakhapatra",
-    "मगर"
-   ],
-   "cat": "culture",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Kala Sahitya Dot Com releases collections of poems",
-   "summary": "By A Staff Reporter,Kathmandu, Nov. 7: Poets from Nepal and abroad recited their poetry during an event organised by the...",
-   "link": "https://risingnepaldaily.com/news/88482",
-   "source": "Rising Nepal",
-   "ts": 1794014455,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Kala Sahitya Dot Com releases collections of poems",
-   "en": "Kala Sahitya Dot Com releases collections of poems",
-   "ne": "Kala Sahitya Dot Com releases collections of poems",
-   "imp": 1,
-   "tags": [
-    "Poetry",
-    "Literature",
-    "DotCom"
-   ],
-   "cat": "culture",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -4508,7 +4414,7 @@
    "cat": "world",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "'हाम्रो प्रदर्शन राम्रो छैन, पोखराको खेलमा दर्शक घट्नु स्वाभाविक हो' : अर्जुन कुमाल",
@@ -5219,7 +5125,7 @@
    "cat": "world",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "Proposed Supreme Court Justice Gokarna Danghi Emphasizes Judicial Governance and Accountability",
@@ -5603,17 +5509,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1793439068.7881985,
-   "en": "Nepali Trail Runner Roshila Tamang Wins Bhutan's Colon Trail Run",
-   "ne": "Nepali Trail Runner Roshila Tamang Wins Bhutan's Colon Trail Run",
-   "link": "http://english.ratopati.com/story/85209/nepals-rashila-wins-cologne-trail-run",
-   "source": "Ratopati EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": true,
-   "cat": "sports"
-  },
   {
    "ts": 1793439657.9736354,
    "en": "Roads Reopened After Landslides and Mud Cleared",
@@ -8695,7 +8590,7 @@
    "cat": "crime"
   }
  ],
- "updated": 1794043271,
+ "updated": 1794043873,
  "pending_since": 1794042652.5092485,
  "fb_blocks": [
   1790350880.4125228,
