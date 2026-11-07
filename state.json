@@ -1911,7 +1911,8 @@
   "https://nagariknews.nagariknetwork.com/sports/miller-s-surprise-in-his-debut-br-79-10.html": 1794024648.357155,
   "https://gorkhapatraonline.com/news/228604": 1794024648.357155,
   "https://gorkhapatraonline.com/news/228603": 1794024648.357155,
-  "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOR3ZUc3JIQW90TkFaaUtST0doY1psUGNmNGo1SUhpN0lrMEF5cGxsdkxmdkhhd3VZc3Zjd1p0NWtJQlFPNjBpQlpiVzBXQ1VGTTA4NFBQOGc4Nmd4UWdrV1FISHNFSHNaSkJHdmVXa3dVUEVjNGM3Y09NZWtBQWFsZ0FFaHJudVV2S3ZJc181NHhmSWh0STdNaHJaRXpYS0toNzhYcXlBUEk5TWtDZ01sVkYyZGM3SWtCMkJOd0NMZGhFZw?oc=5": 1794025249.5808184
+  "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOR3ZUc3JIQW90TkFaaUtST0doY1psUGNmNGo1SUhpN0lrMEF5cGxsdkxmdkhhd3VZc3Zjd1p0NWtJQlFPNjBpQlpiVzBXQ1VGTTA4NFBQOGc4Nmd4UWdrV1FISHNFSHNaSkJHdmVXa3dVUEVjNGM3Y09NZWtBQWFsZ0FFaHJudVV2S3ZJc181NHhmSWh0STdNaHJaRXpYS0toNzhYcXlBUEk5TWtDZ01sVkYyZGM3SWtCMkJOd0NMZGhFZw?oc=5": 1794025249.5808184,
+  "https://www.setopati.com/social/402226": 1794026448.8094893
  },
  "queue": [
   {
@@ -4502,20 +4503,32 @@
    "val": 3,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "जिप दुर्घटनामा एक जनाको मृत्यु, ६ जना घाइते",
+   "summary": "उनीहरू सबैको अवस्था सामान्य रहेको प्रहरीले जनाएको छ। घाइतेहरूको प्रतिष्ठानमा उपचार भइरहेको छ।",
+   "link": "https://www.setopati.com/social/402226",
+   "source": "Setopati",
+   "ts": 1794026418,
+   "weight": 3,
+   "img": null,
+   "lang": "ne",
+   "hl": "जिप दुर्घटनामा एक जनाको मृत्यु, ६ जना घाइते",
+   "en": "जिप दुर्घटनामा एक जनाको मृत्यु, ६ जना घाइते",
+   "ne": "जिप दुर्घटनामा एक जनाको मृत्यु, ६ जना घाइते",
+   "imp": 4,
+   "tags": [
+    "JeepAccident",
+    "RoadSafety",
+    "दुर्घटना"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1793421075.9099514,
-   "en": "Rain threatens two NPL matches in Kathmandu on Saturday",
-   "ne": "Rain threatens two NPL matches in Kathmandu on Saturday",
-   "link": "https://myrepublica.nagariknetwork.com/news/rain-threatens-to-disrupt-two-npl-matches-in-kathmandu-30-35.html",
-   "source": "myRepublica",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "sports"
-  },
   {
    "ts": 1793422883.9879339,
    "en": "Flood Forecasting Division Issues Landslide Risk Alert for Major Highways Due to Cyclone Arnab",
@@ -7630,7 +7643,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1794025870,
+ "updated": 1794026455,
  "pending_since": 1794025249.5808184,
  "fb_blocks": [
   1790350880.4125228,
