@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://gorkhapatraonline.com/news/228349": 1793844080.439,
-  "http://english.ratopati.com/story/85701/one-person-killed-6-injured-including-driver-in-jeep-accident": 1793844080.439,
   "https://english.khabarhub.com/2026/05/574524/": 1793845242.7375355,
   "https://kathmandupost.com/money/2026/11/05/india-secures-4-700mw-in-nepal-but-little-progress-on-projects": 1793845242.7375355,
   "http://english.ratopati.com/story/85703/process-of-distributing-compensation-to-those-affected-by-rahughat-tunnel-begins": 1793845242.7375355,
@@ -1921,32 +1919,10 @@
   "https://nagariknews.nagariknetwork.com/international/pena-relieved-of-post-after-bank-crisis-placed-under-house-arrest-15-96.html": 1794015647.2372139,
   "https://gorkhapatraonline.com/news/228576": 1794015647.2372139,
   "https://nagariknews.nagariknetwork.com/arts/a-world-lost-in-the-light-of-tihar-br-68-37.html": 1794015647.2372139,
-  "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVFQxVmp2Vk9HQlBmVC1VUmJuaXRENG9ucnlFck9DZW9ZNjFFNXhReTktN1Utb1hpaUVEQUNfZkI3WjhaeGVTc2NteHcxVXd6cnY2YkxVWml4b1NGS3hyMzQtVUVWUGZFMUt2aFhDNW9nSkpiS2xySzMxLW9xZFZNeVFPU2k0TkhST00tT1pPVjVob2F4VnVxQzFBV05WV0ZMYUU4YkM5Q0ZTendETFpNYUhsaEFoODhKRXl5MVdpQ1ZUOEdpTVJGUUtnMVhJQ3l5ZS0tLWJ4cw?oc=5": 1794016247.177757
+  "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVFQxVmp2Vk9HQlBmVC1VUmJuaXRENG9ucnlFck9DZW9ZNjFFNXhReTktN1Utb1hpaUVEQUNfZkI3WjhaeGVTc2NteHcxVXd6cnY2YkxVWml4b1NGS3hyMzQtVUVWUGZFMUt2aFhDNW9nSkpiS2xySzMxLW9xZFZNeVFPU2k0TkhST00tT1pPVjVob2F4VnVxQzFBV05WV0ZMYUU4YkM5Q0ZTendETFpNYUhsaEFoODhKRXl5MVdpQ1ZUOEdpTVJGUUtnMVhJQ3l5ZS0tLWJ4cw?oc=5": 1794016247.177757,
+  "http://english.ratopati.com/story/85924/bp-highway-jica-begins-reconstruction": 1794016884.4311438
  },
  "queue": [
-  {
-   "title": "बालबालिकाका हरेक 'हठ' पूरा गर्ने कि उचित सीमामा 'हुन्न' भन्ने ?",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/506809",
-   "source": "Baahrakhari",
-   "ts": 1793987449,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "बालबालिकाका हरेक 'हठ' पूरा गर्ने कि उचित सीमामा 'हुन्न' भन्ने ?",
-   "en": "बालबालिकाका हरेक 'हठ' पूरा गर्ने कि उचित सीमामा 'हुन्न' भन्ने ?",
-   "ne": "बालबालिकाका हरेक 'हठ' पूरा गर्ने कि उचित सीमामा 'हुन्न' भन्ने ?",
-   "imp": 2,
-   "tags": [
-    "Parenting",
-    "Children",
-    "बालबालिका"
-   ],
-   "cat": "society",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
-  },
   {
    "title": "Egremont: Concert to benefit Nepal youth program",
    "summary": "",
@@ -2469,7 +2445,7 @@
    "cat": "economy",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "Dr. Govinda KC Ends 25th Hunger Strike After 6-Point Agreement with Government",
@@ -6236,7 +6212,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1794016266,
+ "updated": 1794016888,
  "pending_since": 1794015647.2372139,
  "fb_blocks": [
   1790350880.4125228,
