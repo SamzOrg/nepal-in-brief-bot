@@ -1935,29 +1935,6 @@
  },
  "queue": [
   {
-   "title": "20 Killed in Saudi-led Coalition Attack in Yemen's Taiz Province",
-   "summary": "Yemen. 20 people have died in an attack by the Saudi Arabian coalition in Yemen. Houthi rebels claimed on Friday...",
-   "link": "http://english.ratopati.com/story/85912/saudi-led-coalition-attacks-in-yemen-20-killed",
-   "source": "Ratopati EN",
-   "ts": 1793982877,
-   "weight": 2,
-   "img": "https://rpcdn.ratopati.com/media/albums/saudi-army-bombing-yamun_MFpN3PjIlr.jpg",
-   "lang": "en",
-   "hl": "20 Killed in Saudi-led Coalition Attack in Yemen's Taiz Province",
-   "en": "20 Killed in Saudi-led Coalition Attack in Yemen's Taiz Province",
-   "ne": "20 Killed in Saudi-led Coalition Attack in Yemen's Taiz Province",
-   "imp": 1,
-   "tags": [
-    "Yemen",
-    "SaudiArabia",
-    "Taiz"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "बुुढानीकलण्ठ नगरबासीलाई सहुुुुलियतमा स्वास्थ्य उपचार दिन सम्झौता",
    "summary": "गोरखापत्र अनलाइन काठमाडौँ, कात्तिक २० गते । बुढानीलकण्ठ नगरपालिका र काठमाडौँको चावेल स्थित् हेल्पिङ ह्याण्ड्स सामुदायिक अस्पतालसँग सहकार्य गरी नगरबासीलाई विभिन्न स्वास्थ्य उपचारमा...",
    "link": "https://gorkhapatraonline.com/news/228554",
@@ -2068,29 +2045,6 @@
     "न्यायाधीश"
    ],
    "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "पदक वितरणमा अनियमितताको आरोपपछि गखेप सदस्य सचिव शर्मा बर्खास्त",
-   "summary": "बुधबार बसेको गण्डकी प्रदेश मन्त्रिपरिषद् बैठकले शर्मालाई पदबाट हटाउने निर्णय गरेको सरकारका प्रवक्ता तथा आर्थिक मामिला मन्त्री जितबहादुर शेरचनले जानकारी दिए।...",
-   "link": "https://nagariknews.nagariknetwork.com/sports/gkhep-member-secretary-sharma-dismissed-after-allegations-of-irregularities-in-medal-distribution-28-30.html",
-   "source": "Nagarik News",
-   "ts": 1793982854,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1793377256_Shreedhar.jpg",
-   "lang": "ne",
-   "hl": "पदक वितरणमा अनियमितताको आरोपपछि गखेप सदस्य सचिव शर्मा बर्खास्त",
-   "en": "पदक वितरणमा अनियमितताको आरोपपछि गखेप सदस्य सचिव शर्मा बर्खास्त",
-   "ne": "पदक वितरणमा अनियमितताको आरोपपछि गखेप सदस्य सचिव शर्मा बर्खास्त",
-   "imp": 3,
-   "tags": [
-    "NationalSportsCouncil",
-    "TankaLalSharma",
-    "गखेप"
-   ],
-   "cat": "sports",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -5735,8 +5689,8 @@
    "cat": "economy"
   }
  ],
- "updated": 1794011480,
- "pending_since": null,
+ "updated": 1794012054,
+ "pending_since": 1794012049.4078777,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
