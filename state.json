@@ -1,8 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMidkFVX3lxTE1vS0tPVm1jZkZpY1RDbXB5TmNpU01mNUFvMnJ6VVJJcUlRTENCS2M2UkpBNkNoQmdNQjU2RkRPUlhsM3FkX1NhejVQTC1VUVBWR0w0aFhrSXIxSkhBMVplU0NiZEZWZ1N0MlI5XzNGbEI3NXc2Z2c?oc=5": 1793877647.3531241,
-  "https://kathmandupost.com/world/2026/11/05/cristiano-ronaldo-announces-retirement-from-portugal-national-team": 1793877647.3531241,
-  "https://kathmandupost.com/columns/2026/11/05/why-the-npl-can-turn-nepal-s-promises-into-wins": 1793877647.3531241,
   "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVG5vNUZiX0NvYk9jYk4wTUlsZmhnUHk0bGs5aXRMd0dLRmE3aF9zN2RpNG1DY3UtN0tPc3pBWjg5QkM0cFV5c0dOT1hDVThrN1ZvY3h3MXBHQVNJMk9zRHZndUFoUWhURlhSVnFGV2RlODRUaFExN0dYd3BSOUFxYldMR09kYWNQakdza1RTX1dzWE1BdHJr?oc=5": 1793878273.5395043,
   "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbWNmcjFzbldJOWNaQVBkend4M25HZS1GQ0Z0UWNsd0h2WDVYeFg1a3Bmb19Uck9pSEJ3MnZTQlFxRTFsZnlqUi1NczROTmdTVFo2YmxTOElNWFhOZkh2U0VCRGRMdDZHdE54YlNLcnVlMWJ2cndpVEVVZmVwamowTHRVcw?oc=5": 1793878273.5395043,
   "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeGxyOTV6VzNWeGRTaVVvT1pBRVYzS3VHOUZJQlZLdXBUVzZkcEF2OTg3eHVrYWItTk9QbmJFaGRGR0xsZVVpcW9sTEhWLXF3VlNRaDlzZmlpbWFkX2tObGRibVFqREVFNk5lQnIweGNaUEZiM3ZGZUlEVnBOTDRGOElFeDNXbVRrcnVBcVE0XzcybDN1ZENnS1hnc1FKalFtSUlIejlyLThqZndpRGd0V3I1WE9TTlBmM1pVdFl0c1piSW9temJNUUp3?oc=5": 1793878273.5395043,
@@ -1693,7 +1690,8 @@
   "https://www.setopati.com/sports/npl/402244": 1794049853.0594099,
   "https://nagariknews.nagariknetwork.com/social-affairs/bhotekoshi-disaster-more-pain-for-the-weak-99-62.html": 1794049853.0594099,
   "https://gorkhapatraonline.com/news/228632": 1794049853.0594099,
-  "https://gorkhapatraonline.com/news/228631": 1794049853.0594099
+  "https://gorkhapatraonline.com/news/228631": 1794049853.0594099,
+  "https://nagariknews.nagariknetwork.com/social-affairs/auto-accident-in-sindhuli-five-in-critical-condition-br-29-27.html": 1794050448.9355948
  },
  "queue": [
   {
@@ -1833,29 +1831,6 @@
    "cat": "politics",
    "val": 1,
    "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "भाइटीका (कविता)",
-   "summary": "मखमली फूलको माला उनी बसी राख्नु ।भाइटीकामा आउने छुबैनी पर्खिबसी राख्नु ।।परदेशी तिम्रो दाजु फर्किएर आउ\"दै छ ।धेरैपछि तिम्रा हातको टीका लाउ\"दै छ ।। बाध्यता र विवशताले अझ पछ्याउ\"दै छ...",
-   "link": "https://gorkhapatraonline.com/news/228599",
-   "source": "Gorkhapatra",
-   "ts": 1794021260,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/390824/conversions/554-original.jpg",
-   "lang": "ne",
-   "hl": "भाइटीका (कविता)",
-   "en": "भाइटीका (कविता)",
-   "ne": "भाइटीका (कविता)",
-   "imp": 1,
-   "tags": [
-    "BhaiTika",
-    "Poetry",
-    "भाइटीका"
-   ],
-   "cat": "culture",
-   "val": 1,
-   "teaser": false,
    "hits": 1
   },
   {
@@ -4565,7 +4540,7 @@
    "cat": "disaster",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "Pakistani Astronaut to Join China's Shenzhou-24 Mission, First Foreign National on Chinese Space Station",
@@ -4658,29 +4633,6 @@
    "val": 2,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "Government Prepares to Establish Data Protection Board for Cyber Security",
-   "summary": "Kathmandu. The government has moved forward with preparations to establish a separate Data Protection Board for cyber security. Subash Dhakal,...",
-   "link": "http://english.ratopati.com/story/85973/government-preparing-to-form-data-protection-board-bill-being-drafted",
-   "source": "Ratopati EN",
-   "ts": 1794043135,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/856690716_1726381945578230_2582028131061962466_n_iL10W6XTij.webp",
-   "lang": "en",
-   "hl": "Government Prepares to Establish Data Protection Board for Cyber Security",
-   "en": "Government Prepares to Establish Data Protection Board for Cyber Security",
-   "ne": "Government Prepares to Establish Data Protection Board for Cyber Security",
-   "imp": 3,
-   "tags": [
-    "DataProtection",
-    "CyberSecurity",
-    "Board"
-   ],
-   "cat": "tech",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "बाँके-दाङ जोड्ने हुलाकी सडक निर्माण सुरु, ३ वर्षभित्र ५८ किमी सडकसहित १६ वटा पुल बन्ने",
@@ -5433,17 +5385,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1793445058.1491735,
-   "en": "Heavy snowfall hits five Himalayan districts in Karnali",
-   "ne": "Heavy snowfall hits five Himalayan districts in Karnali",
-   "link": "https://english.khabarhub.com/2026/31/573861/",
-   "source": "Khabarhub EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "disaster"
-  },
   {
    "ts": 1793446888.9325092,
    "en": "Writer Dil Nishani Magar receives death threat over Inam Sapkota controversy",
@@ -8512,10 +8453,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "economy"
+  },
+  {
+   "ts": 1794050458.6010153,
+   "en": "Nepal Government Prepares to Establish Data Protection Board for Cyber Security",
+   "ne": "Nepal Government Prepares to Establish Data Protection Board for Cyber Security",
+   "link": "http://english.ratopati.com/story/85973/government-preparing-to-form-data-protection-board-bill-being-drafted",
+   "source": "Ratopati EN",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "tech"
   }
  ],
- "updated": 1794049862,
- "pending_since": null,
+ "updated": 1794050472,
+ "pending_since": 1794050448.9355948,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
