@@ -1,9 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSk5CUDctS1NqZGl0Ujc2WURrLUZlUnBkcUpFaTY4VzVhZVNaUEVhTHk5dWlGZE5OcHNlNTVCdk82TGtmV1hWUjhCODl3N1U5WGdoOU5PMFN6LTlyRkVKVkxuNGxsS2JOeHh3b0tpeUlBTnJJUUxLUGFwU3FqT1llSUYwSzJKbkFsMS1rRENR?oc=5": 1793847681.840418,
-  "https://www.setopati.com/social/402045": 1793848244.317814,
-  "https://english.onlinekhabar.com/indian-foreign-secretary-balen.html": 1793848244.317814,
-  "http://english.ratopati.com/story/85707/bhotekoshi-flood-victims-say-we-cant-stay-in-kathmandu-forever-we-will-return-to-our-hometown-after-tihar": 1793848244.317814,
   "https://gorkhapatraonline.com/news/228360": 1793848844.617262,
   "http://english.ratopati.com/story/85708/kathmandu-metropolitan-city-urges-to-reduce-air-pollution-risks": 1793848844.617262,
   "https://english.onlinekhabar.com/igp-appointment-govt-decision.html": 1793848844.617262,
@@ -3869,17 +3865,6 @@
  ],
  "posted": [
   {
-   "ts": 1793415685.652799,
-   "en": "सुनकोसी-मरिण डाइभर्सन आयोजनाको नयाँ ठेक्का प्रक्रिया रद्द",
-   "ne": "सुनकोसी-मरिण डाइभर्सन आयोजनाको नयाँ ठेक्का प्रक्रिया रद्द",
-   "link": "https://baahrakhari.com/detail/506174",
-   "source": "Baahrakhari",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "economy"
-  },
-  {
    "ts": 1793417469.3829792,
    "en": "Nepal Flood Kills 1,386 and Leaves Over 5,100 Missing After Glacier Collapse",
    "ne": "Nepal Flood Kills 1,386 and Leaves Over 5,100 Missing After Glacier Collapse",
@@ -6993,7 +6978,7 @@
    "cat": "politics"
   }
  ],
- "updated": 1794020484,
+ "updated": 1794021053,
  "pending_since": 1794020481.6332374,
  "fb_blocks": [
   1790350880.4125228,
