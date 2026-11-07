@@ -1,7 +1,5 @@
 {
  "seen": {
-  "http://english.ratopati.com/story/85793/hospitals-investment-worth-crores-at-risk-after-ciaa-case": 1793892672.136795,
-  "http://english.ratopati.com/story/85795/egyptians-return-with-prime-minister-balens-visit-to-india-as-main-agenda": 1793893247.109523,
   "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWFdvRS1GMTZSQjZTMGRsZndzc1RVUnlySWJycmFKaUp6d2RIb1pjSFRTMS14Q0ZQQUpUcGNtMjdEOHZGUTMyZ2lnamJOek5IRjhKY1B1aS1oS2kyTmIwYUtxZkoxakNiRWN3Y0s3ZDEtRThaZHlSeGxqMEVVbThJaGUxNy1saG1DeFJUR3BQSXVvUEpMVUVCOGs4QjZydnZneWRRdlAtZ3FoZ3RQdllwdHpLWHc?oc=5": 1793893667.5690327,
   "http://english.ratopati.com/story/85796/npl-lumbinis-undefeated-journey-continues-kathmandus-stunning-win-janakpur-and-biratnagar-under-pressure": 1793893667.5690327,
   "https://risingnepaldaily.com/news/88428": 1793894504.0626001,
@@ -1637,29 +1635,6 @@
  },
  "queue": [
   {
-   "title": "First Sunrise Tea Festival-2083 to be held in Ilam",
-   "summary": "Ilam. With the objective of promoting tourism, the 'First Sunrise Tea Festival-2083' is to be organized in Ilam. The festival...",
-   "link": "http://english.ratopati.com/story/85962/preparations-for-tea-festival-in-ilam",
-   "source": "Ratopati EN",
-   "ts": 1794037049,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/ilamt-ea_1mQx4LR3H4.jpg",
-   "lang": "en",
-   "hl": "First Sunrise Tea Festival-2083 to be held in Ilam",
-   "en": "First Sunrise Tea Festival-2083 to be held in Ilam",
-   "ne": "First Sunrise Tea Festival-2083 to be held in Ilam",
-   "imp": 2,
-   "tags": [
-    "TeaFestival",
-    "Ilam",
-    "इलाम"
-   ],
-   "cat": "culture",
-   "val": 3,
-   "teaser": false,
-   "hits": 3
-  },
-  {
    "title": "Catch-22 and the contradictions of Nepal's democracy",
    "summary": "For many Nepalis, the choice is deceptively simple. They can stay in a country where opportunities to build a decent life remain scarce, or leave in search of work abroad and send money back to support those who remain....",
    "link": "https://english.onlinekhabar.com/catch-22-nepals-democracy.html",
@@ -1909,29 +1884,6 @@
    ],
    "cat": "politics",
    "val": 1,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "'दैवज्ञराज न्याैपाने स्मृति प्रतिष्ठान' बाट सम्मान तथा पुरस्कारको घोषणा",
-   "summary": "दैवज्ञराज न्यौपाने स्मृति प्रतिष्ठानबाट २०८३ सालमा अर्पण गरिने सम्मान तथा पुरस्कारको घोषणा गरिएको छ।...",
-   "link": "https://nagariknews.nagariknetwork.com/arts/announcement-of-honors-and-awards-from-the-daivagya-foundation-br-56-91.html",
-   "source": "Nagarik News",
-   "ts": 1794036766,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1794037744_sammanit.jpg",
-   "lang": "ne",
-   "hl": "'दैवज्ञराज न्याैपाने स्मृति प्रतिष्ठान' बाट सम्मान तथा पुरस्कारको घोषणा",
-   "en": "'दैवज्ञराज न्याैपाने स्मृति प्रतिष्ठान' बाट सम्मान तथा पुरस्कारको घोषणा",
-   "ne": "'दैवज्ञराज न्याैपाने स्मृति प्रतिष्ठान' बाट सम्मान तथा पुरस्कारको घोषणा",
-   "imp": 1,
-   "tags": [
-    "Award",
-    "Literature",
-    "प्रतिष्ठान"
-   ],
-   "cat": "culture",
-   "val": 2,
    "teaser": false,
    "hits": 1
   },
@@ -8006,8 +7958,8 @@
    "cat": "economy"
   }
  ],
- "updated": 1794065475,
- "pending_since": null,
+ "updated": 1794066053,
+ "pending_since": 1794066049.086321,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
