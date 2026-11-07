@@ -1692,29 +1692,6 @@
  },
  "queue": [
   {
-   "title": "गोरखामा मोटरसाइकल दुर्घटनामा एक युवकको मृत्यु",
-   "summary": "अस्मिता सिंखडागोरखा, कात्तिक २१ गते । गोरखामा मोटरसाइकल दुर्घटनामा परी एक युवकको मृत्यु भएको छ । गोरखा नगरपालिका-८, माथिल्लो खोलखोलेस्थित गैरी चौतारामा ग. प्र. ०३-००१ प ०८१० नम्बरक...",
-   "link": "https://gorkhapatraonline.com/news/228609",
-   "source": "Gorkhapatra",
-   "ts": 1794024398,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/390834/conversions/death-original.jpg",
-   "lang": "ne",
-   "hl": "गोरखामा मोटरसाइकल दुर्घटनामा एक युवकको मृत्यु",
-   "en": "गोरखामा मोटरसाइकल दुर्घटनामा एक युवकको मृत्यु",
-   "ne": "गोरखामा मोटरसाइकल दुर्घटनामा एक युवकको मृत्यु",
-   "imp": 3,
-   "tags": [
-    "Gorkha",
-    "MotorcycleAccident",
-    "गोरखा"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "विष्णु माझीले ल्याइन् नयाँ गीत 'फूल प्याउलीको'",
    "summary": "",
    "link": "https://baahrakhari.com/detail/506832",
@@ -8480,8 +8457,8 @@
    "cat": "sports"
   }
  ],
- "updated": 1794052890,
- "pending_since": null,
+ "updated": 1794053471,
+ "pending_since": 1794053448.4826336,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
