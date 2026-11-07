@@ -2013,28 +2013,6 @@
    "hits": 1
   },
   {
-   "title": "Minister Dr Timilsina directs officials to keep citizens in centre",
-   "summary": "Kathmandu, Nov 6: Minister for Information and Communications, Dr Bikram Timilsina, directed the ministry officials and...",
-   "link": "https://risingnepaldaily.com/news/88475",
-   "source": "Rising Nepal",
-   "ts": 1793981908,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Minister Dr Timilsina directs officials to keep citizens in centre",
-   "en": "Minister Dr Timilsina directs officials to keep citizens in centre",
-   "ne": "Minister Dr Timilsina directs officials to keep citizens in centre",
-   "imp": 2,
-   "tags": [
-    "Timilsina",
-    "Minister"
-   ],
-   "cat": "politics",
-   "val": 1,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Belgium's PM Bart De Wever to Meet King Philippe Amid Budget Crisis",
    "summary": "Kathmandu. Belgium's Prime Minister Bart De Wever is scheduled to meet King Philippe on Friday morning.Analysts expect that this meeting...",
    "link": "http://english.ratopati.com/story/85913/belgian-pm-meets-king-after-budget-impasse-post-at-risk",
@@ -2173,29 +2151,6 @@
    "hits": 1
   },
   {
-   "title": "यो युरोपेली देशमा आप्रवासीको घरमै छिर्न पाउने भयो प्रहरी, यस्तो छ नयाँ कानुन",
-   "summary": "कानुनअनुसार घरमा प्रवेश गर्नुअघि अनुसन्धान न्यायाधीशबाट अनुमति लिनुपर्नेछ। प्रहरीसँगै अध्यागमन कार्यालयका कर्मचारी पनि उपस्थित हुनुपर्नेछ। घरमा छापा मार्ने समय बिहान ५ बजेदेखि ९ बजेसम्म तोकिएको छ।...",
-   "link": "https://nagariknews.nagariknetwork.com/international/this-european-country-allows-police-to-enter-immigrants-homes-this-is-the-new-law-40-74.html",
-   "source": "Nagarik News",
-   "ts": 1793981854,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1793981842_Migration%20.jpg",
-   "lang": "ne",
-   "hl": "यो युरोपेली देशमा आप्रवासीको घरमै छिर्न पाउने भयो प्रहरी, यस्तो छ नयाँ कानुन",
-   "en": "यो युरोपेली देशमा आप्रवासीको घरमै छिर्न पाउने भयो प्रहरी, यस्तो छ नयाँ कानुन",
-   "ne": "यो युरोपेली देशमा आप्रवासीको घरमै छिर्न पाउने भयो प्रहरी, यस्तो छ नयाँ कानुन",
-   "imp": 1,
-   "tags": [
-    "Europe",
-    "Immigration",
-    "Police"
-   ],
-   "cat": "world",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
-  },
-  {
    "title": "बालबालिकाका हरेक 'हठ' पूरा गर्ने कि उचित सीमामा 'हुन्न' भन्ने ?",
    "summary": "",
    "link": "https://baahrakhari.com/detail/506809",
@@ -2216,29 +2171,6 @@
    "cat": "society",
    "val": 1,
    "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "धान जोनमा पाँच हजार मेट्रिक टन उत्पादन बढ्ने अनुमान",
-   "summary": "शालिग्राम नेपाल चितवन, कात्तिक २० गते । चितवनको धान जोनमा यस वर्ष धान उत्पादन पाँच हजार मेट्रिक टनले बढ्ने अनुमान गरिएको छ । गत वर्ष आठ हजार ५०० हेक्टर क्षेत्रफलमा ४५ हजार मेट्रिक...",
-   "link": "https://gorkhapatraonline.com/news/228556",
-   "source": "Gorkhapatra",
-   "ts": 1793987334,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/390779/conversions/dhan-1-original.jpg",
-   "lang": "ne",
-   "hl": "धान जोनमा पाँच हजार मेट्रिक टन उत्पादन बढ्ने अनुमान",
-   "en": "धान जोनमा पाँच हजार मेट्रिक टन उत्पादन बढ्ने अनुमान",
-   "ne": "धान जोनमा पाँच हजार मेट्रिक टन उत्पादन बढ्ने अनुमान",
-   "imp": 3,
-   "tags": [
-    "Agriculture",
-    "Rice",
-    "धान"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
    "hits": 1
   },
   {
@@ -5515,9 +5447,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "crime"
+  },
+  {
+   "ts": 1794010855.3589685,
+   "en": "चितवनको धान जोनमा यस वर्ष ५ हजार मेट्रिक टन धान उत्पादन बढ्ने अनुमान",
+   "ne": "चितवनको धान जोनमा यस वर्ष ५ हजार मेट्रिक टन धान उत्पादन बढ्ने अनुमान",
+   "link": "https://gorkhapatraonline.com/news/228556",
+   "source": "Gorkhapatra",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "economy"
   }
  ],
- "updated": 1794010249,
+ "updated": 1794010869,
  "pending_since": 1794009050.0706694,
  "fb_blocks": [
   1790350880.4125228,
