@@ -1,8 +1,5 @@
 {
  "seen": {
-  "https://kathmandupost.com/national/2026/11/05/saudi-firm-to-pay-181-000-riyals-to-family-of-nepali-killed-in-drone-strike": 1793846448.045117,
-  "https://news.google.com/rss/articles/CBMivgFBVV95cUxOV19lYjdhcnptcW9jUmxSTzdKMGRtOVU2QUViZkdDVTZ1d0JaamxKV1lFWkhfV2FTR2lCUG4wc1h2UHZIcDdrSHdLZzdMWUFWbzQtRVUwSGxWcGdPSTdkYllONC1WTEhwU2V6R0Z0Yjk1ZUpsVTZyZUtjanlJc1lUUkdzc2JrSGFUcHlwdURIMmU2aFRfVHZFMnpoRDR6aDZ5bW85aC15aDRKbldYSkhiX1c4T2xkUHE2SnlKT25n?oc=5": 1793846448.045117,
-  "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaFVHd25wSEJJRzNlbGVURkNXRjQ0enVhMHk1OVNIVV9YOExhWk1EYV9Gc3c2S1VXQXZMZjVjWTFSdVBsczVvSWRFckxaQ3RCbW9KWTZVNFIyQVlYOVNwZDFoeDBuVExJbDFVUkVZYkhHTV9qUWdPNmJSWXZrYkJwMGtJUjJJaGNoLVRubE9kRUdObzR1T2xqM2Fn?oc=5": 1793846448.045117,
   "http://english.ratopati.com/story/85706/this-is-how-the-mental-health-bill-is-coming": 1793847051.2088552,
   "https://nagariknews.nagariknetwork.com/international/after-humiliating-defeat-trump-claims-the-decision-to-attack-iran-was-right-89-98.html": 1793847051.2088552,
   "https://baahrakhari.com/detail/506624": 1793847051.2088552,
@@ -1916,7 +1913,9 @@
   "https://kathmandupost.com/sports/2026/11/07/pokhara-avengers-losing-streak-continues-in-npl": 1794018089.931415,
   "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMkxaUTlTWlJvRF9iamM0UjN6aEVjUmQ4LXpOQVRHVEdrNDZJWHV5MmpMckdlMUcwcG9JMXREdzIyUWFOLTlCUUk1aXRlOHBDN3VDbDFqMHlyVWY5aHJnc3hkVXk2Zk9xaldUYUlPcmd5UG5ZQ0JDVVhrNWRaTDNtc09pbFM0RXpwWjNPaUVxbDlhTmNILTVhU2wwam1kYWlCSk80ZVprVzQ4LThjZ2pNUHpjVlJzU2IzUFVMSQ?oc=5": 1794018089.931415,
   "https://theannapurnaexpress.com/story/68584": 1794018089.931415,
-  "https://www.setopati.com/social/402220": 1794018666.040441
+  "https://www.setopati.com/social/402220": 1794018666.040441,
+  "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZFE1TGc5cVRGN0JRcjRkNU80ZnM0cnk5Ty1mQV9jclp3LXh0QkU1Uk05S1VZQU9fdkpiOU5zbDhXUlFXWFRBdFpDSXRLNGl4c3NiRm5ZdTdYNzFuS2sxQ29xR3dJanF0eHJUOE9WWjNOQm5PRXc2eEVHTmVNcllwd085d2xLa08xR3Bvbk44M2hGMlVyMHJpblRPaV81OTZ0Mzlzc1JGMA?oc=5": 1794019249.663362,
+  "https://gorkhapatraonline.com/news/228591": 1794019249.663362
  },
  "queue": [
   {
@@ -1940,28 +1939,6 @@
    "cat": "culture",
    "val": 3,
    "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Why Nepal are missing from the SAFF Championship 2026",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaU5PSllIdmxIYUxuZl9FSTZhSmJlMHlmRzZjRXp3QzltUWVGeVpRd2tPS3BHdGxrZ3dFZ3pBaUN4NTkxaEhHVjNDZVU1NUZ4aFk3RHplcjNFeDIydnVBanBuQS1TaGlJaFZrWmRhWUFoWlFFMlF3dFc5WHk4LWlCeFZENmM4bnFJbHBDZURoanVRQXpHN3YtdFhrWURFblFRTkJiZWZ6aUNLUQ?oc=5",
-   "source": "The Daily Star",
-   "ts": 1793989877,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Why Nepal are missing from the SAFF Championship 2026",
-   "en": "Why Nepal are missing from the SAFF Championship 2026",
-   "ne": "Why Nepal are missing from the SAFF Championship 2026",
-   "imp": 2,
-   "tags": [
-    "SAFF2026",
-    "Nepal"
-   ],
-   "cat": "sports",
-   "val": 2,
-   "teaser": true,
    "hits": 1
   },
   {
@@ -3228,7 +3205,7 @@
    "cat": "sports",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "तिहारका लागि पोखरा आइपुगे भेँडाच्याङ्ग्रा",
@@ -3344,20 +3321,32 @@
    "val": 3,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "भोटेकोशी बाढीमा बेपत्ता सप्तरीका ५२ जनाको नामावली स्वीकृत",
+   "summary": "धीरेन्द्रप्रसाद साहसप्तरी, कात्तिक २१ गते । रसुवाको भोटेकोशीमा गत भदौ १० गते आएको बाढीमा परी बेपत्ता भएका सप्तरीका ५२ जनाको नाम जिल्ला विपद् व्यवस्थापन समितिले यकिन गरेको छ ।लामो स...",
+   "link": "https://gorkhapatraonline.com/news/228591",
+   "source": "Gorkhapatra",
+   "ts": 1794018933,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/390816/conversions/Bipad-meeting-original.jpg",
+   "lang": "ne",
+   "hl": "भोटेकोशी बाढीमा बेपत्ता सप्तरीका ५२ जनाको नामावली स्वीकृत",
+   "en": "भोटेकोशी बाढीमा बेपत्ता सप्तरीका ५२ जनाको नामावली स्वीकृत",
+   "ne": "भोटेकोशी बाढीमा बेपत्ता सप्तरीका ५२ जनाको नामावली स्वीकृत",
+   "imp": 4,
+   "tags": [
+    "BhoteKoshi",
+    "Flood",
+    "Saptari"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1793413877.2822254,
-   "en": "Nepal finish 163rd at FIFA U-15 World Cup after beating Grenada 2-1",
-   "ne": "Nepal finish 163rd at FIFA U-15 World Cup after beating Grenada 2-1",
-   "link": "https://risingnepaldaily.com/news/88247",
-   "source": "The Rising Nepal",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "sports"
-  },
   {
    "ts": 1793415057.4530563,
    "en": "बाढी र पहिरोले गोरखा, काभ्रे र सुर्खेतका विभिन्न सडक अवरुद्ध",
@@ -6483,7 +6472,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1794018671,
+ "updated": 1794019255,
  "pending_since": 1794018089.931415,
  "fb_blocks": [
   1790350880.4125228,
