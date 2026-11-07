@@ -1652,28 +1652,6 @@
  },
  "queue": [
   {
-   "title": "बाढीग्रस्त फोर्से- न दसैंले छोयो, न तिहारको रौनक",
-   "summary": "'घरसँगै हाम्रो सबै सम्पत्ति बाढीले बगायो। अहिले आफन्तको घरमा सिंगो परिवार नै बसेका छौँ,' क्षेत्रीले भने",
-   "link": "https://www.setopati.com/social/402228",
-   "source": "Setopati",
-   "ts": 1794029199,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "बाढीग्रस्त फोर्से- न दसैंले छोयो, न तिहारको रौनक",
-   "en": "बाढीग्रस्त फोर्से- न दसैंले छोयो, न तिहारको रौनक",
-   "ne": "बाढीग्रस्त फोर्से- न दसैंले छोयो, न तिहारको रौनक",
-   "imp": 2,
-   "tags": [
-    "Flood",
-    "Forshe"
-   ],
-   "cat": "disaster",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Waste management services to be disrupted in Valley for two days",
    "summary": "KATHMANDU: Waste management services across the Kathmandu Valley will be disrupted on November 10 and 11 due to the closure of the Bancharedanda landfill site during the Tihar festival. According to Sarita Rai, Chief of...",
    "link": "https://english.khabarhub.com/2026/07/574811/",
@@ -1737,28 +1715,6 @@
    ],
    "cat": "culture",
    "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "PM Shah urges upholding truth, justice and honesty",
-   "summary": "KATHMANDU: Prime Minister Balendra Shah (Balen) has expressed hope that the Tihar festival will inspire people to uphold truth, justice and honesty and remain committed to good governance and people-centred development....",
-   "link": "https://english.khabarhub.com/2026/07/574802/",
-   "source": "Khabarhub EN",
-   "ts": 1794028981,
-   "weight": 2,
-   "img": "https://english.khabarhub.com/wp-content/uploads/2026/10/Balendra-Shah-e1792548729748-400x220.jpg",
-   "lang": "en",
-   "hl": "PM Shah urges upholding truth, justice and honesty",
-   "en": "PM Shah urges upholding truth, justice and honesty",
-   "ne": "PM Shah urges upholding truth, justice and honesty",
-   "imp": 2,
-   "tags": [
-    "BalenShah",
-    "Governance"
-   ],
-   "cat": "politics",
-   "val": 1,
    "teaser": false,
    "hits": 1
   },
@@ -8341,8 +8297,8 @@
    "cat": "crime"
   }
  ],
- "updated": 1794057673,
- "pending_since": null,
+ "updated": 1794058273,
+ "pending_since": 1794058268.883052,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
