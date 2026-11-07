@@ -1,11 +1,5 @@
 {
  "seen": {
-  "https://english.khabarhub.com/2026/05/574576/": 1793867465.4701114,
-  "https://risingnepaldaily.com/news/88413": 1793867465.4701114,
-  "https://www.setopati.com/sports/npl/402075": 1793867465.4701114,
-  "https://baahrakhari.com/detail/506656": 1793867465.4701114,
-  "https://english.khabarhub.com/2026/05/574573/": 1793867465.4701114,
-  "https://news.google.com/rss/articles/CBMiXEFVX3lxTE96WlFzMG5makdvMlMtSWpIb3ltQ3d0QVptaEJuUThhQW9GSXNkUnp6aUtUanBWbU5NWHpDUnlnbENvR0FpZjh5Z1hsaDNnVDdkNTlRR0pYNmhiWTh4?oc=5": 1793867465.4701114,
   "https://risingnepaldaily.com/news/88414": 1793868042.9995258,
   "https://gorkhapatraonline.com/news/228406": 1793868042.9995258,
   "https://news.google.com/rss/articles/CBMipgFBVV95cUxPY05jcUNRWE5VUUg4QndMRFI4T2x2ajZVdEhBc2liNGd1UzM4U1ZWNFhmMGZNaG5xa3hOcnhLTUQzRkRYSG56eVZsSzJuUS04ejlvVnkwZ1ZqMWdpNXJTaGJ1VGVyTHNaWTlfYnFEQlItVF8yOVMxQzItLVFhMzhDZ0lKZk5rZFE5ZDA1ZHM3MUExRm9hSVRnTGtOd3dYcnVtYl95VXJ3?oc=5": 1793868042.9995258,
@@ -1768,74 +1762,6 @@
  },
  "queue": [
   {
-   "title": "Japan protests Russia's takeover of JT subsidiaries",
-   "summary": "Tokyo, Nov. 7: Japan has protested to Moscow after Russia placed four subsidiaries belonging to Japan Tobacco Inc. under...",
-   "link": "https://risingnepaldaily.com/news/88487",
-   "source": "Rising Nepal",
-   "ts": 1794011174,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Japan protests Russia's takeover of JT subsidiaries",
-   "en": "Japan protests Russia's takeover of JT subsidiaries",
-   "ne": "Japan protests Russia's takeover of JT subsidiaries",
-   "imp": 1,
-   "tags": [
-    "Japan",
-    "Russia"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "प्रधानमन्त्रीको भारत भ्रमण तयारी तीव्र",
-   "summary": "गोरखापत्र समाचारदाताकाठमाडौँ, कात्तिक २१ गते । प्रधानमन्त्री वालेन्द्र शाहको आसन्न भारत भ्रमण फलदायी बनाउन नेपाल सरकारले उच्चस्तरको आन्तरिक तयारी तीव्र बनाएको छ । भारतका प्रधानमन्त...",
-   "link": "https://gorkhapatraonline.com/news/228560",
-   "source": "Gorkhapatra",
-   "ts": 1794011138,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/390784/conversions/PM-Balendra-shah-gorkhapatra-cover-original.jpg",
-   "lang": "ne",
-   "hl": "प्रधानमन्त्रीको भारत भ्रमण तयारी तीव्र",
-   "en": "प्रधानमन्त्रीको भारत भ्रमण तयारी तीव्र",
-   "ne": "प्रधानमन्त्रीको भारत भ्रमण तयारी तीव्र",
-   "imp": 4,
-   "tags": [
-    "PrimeMinister",
-    "India",
-    "प्रधानमन्त्री"
-   ],
-   "cat": "politics",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "गर्भावस्थाका तीन चरणमा के-के हुन्छन् समस्या? (भिडिओ)",
-   "summary": "श्रीमानले घरको काममा सघाउने, स्वास्थ्य जाँचका लागि सँगै जाने र महिलालाई आराम गर्ने समय उपलब्ध गराउने गर्नुपर्छ। श्रीमान् विदेशमा भए सम्भव भएसम्म सुत्केरी हुने समयमा बिदा मिलाएर साथ दिनु उपयुक्त हुने उनको सुझाव छ।",
-   "link": "https://www.setopati.com/social/402071",
-   "source": "Setopati",
-   "ts": 1794011118,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "गर्भावस्थाका तीन चरणमा के-के हुन्छन् समस्या? (भिडिओ)",
-   "en": "गर्भावस्थाका तीन चरणमा के-के हुन्छन् समस्या? (भिडिओ)",
-   "ne": "गर्भावस्थाका तीन चरणमा के-के हुन्छन् समस्या? (भिडिओ)",
-   "imp": 2,
-   "tags": [
-    "Pregnancy",
-    "Health",
-    "स्वास्थ्य"
-   ],
-   "cat": "health",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
-  },
-  {
    "title": "पाँचवटा प्रदेशका केही स्थानमा वर्षाको सम्भावना",
    "summary": "",
    "link": "https://baahrakhari.com/detail/506821",
@@ -2504,29 +2430,6 @@
    "cat": "society",
    "val": 3,
    "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "तिहारको उज्यालोमा हराएको संसार",
-   "summary": "तिहारसँगै घरघरमा दीपावलीको उज्यालो छाएको छ। आँगनमा सयपत्री र मखमली फुलेका छन्।",
-   "link": "https://nagariknews.nagariknetwork.com/arts/a-world-lost-in-the-light-of-tihar-br-68-37.html",
-   "source": "Nagarik News",
-   "ts": 1794011050,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1794011161_tihar%20katha%2098.jpg",
-   "lang": "ne",
-   "hl": "तिहारको उज्यालोमा हराएको संसार",
-   "en": "तिहारको उज्यालोमा हराएको संसार",
-   "ne": "तिहारको उज्यालोमा हराएको संसार",
-   "imp": 1,
-   "tags": [
-    "Tihar",
-    "PhotoFeature",
-    "तिहार"
-   ],
-   "cat": "culture",
-   "val": 1,
-   "teaser": true,
    "hits": 1
   },
   {
@@ -9117,7 +9020,7 @@
    "cat": "economy"
   }
  ],
- "updated": 1794039668,
+ "updated": 1794040273,
  "pending_since": 1794039648.6167116,
  "fb_blocks": [
   1790350880.4125228,
