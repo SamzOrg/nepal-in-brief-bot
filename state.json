@@ -1,9 +1,5 @@
 {
  "seen": {
-  "https://english.onlinekhabar.com/nepal-australia-trade-and-investment.html": 1793861445.5565097,
-  "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NeHlhTlpBSUxkcm9sS2o5VFltOHhSS2hEb1I4bWVnbGh6TW5qbVFwTEk5cjRUTFdEbDJycU1tNy01eWgxTDMzakdsYVFNOV8tNUdxOU53M3VNOUtxWkpVLU9SVUNKMVFIeGFDbDM5NEV1OU8tWUZ5ZC10czdqNXc?oc=5": 1793861445.5565097,
-  "http://english.ratopati.com/story/85737/janakpur-bolts-and-lumbini-lions-compete": 1793861445.5565097,
-  "https://baahrakhari.com/detail/506639": 1793861445.5565097,
   "http://english.ratopati.com/story/85740/sale-of-gold-asrafis-and-silver-medallions-begins-photos": 1793862079.852584,
   "https://english.onlinekhabar.com/shah-meets-secretary-misri.html": 1793862079.852584,
   "http://english.ratopati.com/story/85739/censorship-committees-stance-not-to-stop-screening-of-the-film-panch-pandav": 1793862079.852584,
@@ -1824,7 +1820,10 @@
   "https://nagariknews.nagariknetwork.com/social-affairs/garbage-management-in-the-kathmandu-valley-to-be-affected-on-kartik-24-and-25-65-72.html": 1794033070.432049,
   "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOFpzRHhUdVZvdGFOcGhTUXdLdzUtYzBtSkZRUVNzcVIzdGlILXRaanhRX2Ztbzh5WHNodTJOWVRpQldWdm9BWFpJWUZYcXNGSzJ0bjlFSE9aNkRZa1hITDV4UGQ1dUk4bFRzbHBseDBHSFB5bTFVMHpHWlQwbGxvTXlrS2tBaF9wSWNmMTd5QkxxdjBuNHBwb092OFV5b2NFNmVoSzNiOVBoX1BPS2hMay1Ib1l3emtRUmdlOHZFUW9yRG9tNzZJedIBzgFBVV95cUxNUmtSS2lyaUg0X25uV0pvVmFfY1l4MmVsMTk1Z0RId2pBZkFsN3NFWWxUZTNxUGRvRmNrdGd3T1oyRFFaZEhSYXNILTdvNmJzQWowN19hWGxtR19YbUpyR3lJRVVjS2pNdi1TWXgzMkdhTENLYjBmX1Y2eUQ3NVp1cExnNUdEdmZzWG0zOFc1bEREQjhlTHlvVFpXQVQ0RVRwSmZpc1ludjFYWWxsZDhZc0JKNXIxajNVZldOejYtd21hTUs2cmkyVlNUaGl5dw?oc=5": 1794033070.432049,
   "http://english.ratopati.com/story/85949/rashtriya-swayamsevak-sangh-rss-mp-chaulagain-seeks-clarification-from-proposed-judge-janak-pandey-regarding-in-laws-land": 1794033647.9169555,
-  "https://nagariknews.nagariknetwork.com/politics/democracy-weakens-if-institutions-from-courts-to-the-press-are-weak-ravi-lamichhane-br-86-50.html": 1794033647.9169555
+  "https://nagariknews.nagariknetwork.com/politics/democracy-weakens-if-institutions-from-courts-to-the-press-are-weak-ravi-lamichhane-br-86-50.html": 1794033647.9169555,
+  "http://english.ratopati.com/story/85950/the-situation-of-having-to-find-a-lawyer-to-understand-the-verdict-should-end-proposed-judge-pandey": 1794034250.575228,
+  "https://nagariknews.nagariknetwork.com/arts/52-lakh-beads-br-15-90.html": 1794034250.575228,
+  "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1PU2s2STBlc1ItQ3JaS2NmZ0xGVTI0LVFiWnQ5QjZmUlpVbndkSXMweGtxTk44c3paTDR3ejVqZURhbFB1VXFyOXUwdFRkeWxZdnk2bGR3dHYxdEFJanMzX3NLNWkzV0tk?oc=5": 1794034250.575228
  },
  "queue": [
   {
@@ -3039,30 +3038,6 @@
     "BhoteKoshi",
     "Flood",
     "Saptari"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "National Disaster Risk Reduction and Management Authority Publishes Details of 2,294 Missing Nepalis and 171 Foreigners",
-   "summary": "Kathmandu. The National Disaster Risk Reduction and Management Authority has published the details of 2,294 Nepalis and 171 foreign citizens...",
-   "link": "http://english.ratopati.com/story/85930/seven-day-deadline-for-amending-claims-of-those-missing-in-disasters",
-   "source": "Ratopati EN",
-   "ts": 1794019764,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/rasuwa-badi_FZ41ULgBmp.webp",
-   "lang": "en",
-   "hl": "National Disaster Risk Reduction and Management Authority Publishes Details of 2,294 Missing Nepalis and 171 Foreigners",
-   "en": "National Disaster Risk Reduction and Management Authority Publishes Details of 2,294 Missing Nepalis and 171 Foreigners",
-   "ne": "National Disaster Risk Reduction and Management Authority Publishes Details of 2,294 Missing Nepalis and 171 Foreigners",
-   "imp": 4,
-   "tags": [
-    "NDRRMA",
-    "MissingPersons",
-    "Nepal",
-    "बेपत्ता"
    ],
    "cat": "disaster",
    "val": 3,
@@ -4623,7 +4598,7 @@
    "cat": "economy",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "बाढीग्रस्त फोर्से- न दसैंले छोयो, न तिहारको रौनक",
@@ -5092,7 +5067,7 @@
    "cat": "other",
    "val": 1,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Delhi Implements Strict Pollution Control Measures Amid Rising Air Quality Index",
@@ -5371,17 +5346,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1793428855.692862,
-   "en": "Kulekhani reservoir nears full capacity; downstream residents urged to stay alert",
-   "ne": "Kulekhani reservoir nears full capacity; downstream residents urged to stay alert",
-   "link": "https://english.khabarhub.com/2026/31/573833/",
-   "source": "Khabarhub EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": true,
-   "cat": "disaster"
-  },
   {
    "ts": 1793430090.2750742,
    "en": "कोसीका पाँच जिल्लामा आज र भोलि आठ घण्टा विद्युत् आपूर्ति बन्द",
@@ -8472,9 +8436,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "politics"
+  },
+  {
+   "ts": 1794034266.6676168,
+   "en": "NDRRMA Publishes Details of 2,294 Missing Nepalis and 171 Foreigners",
+   "ne": "NDRRMA Publishes Details of 2,294 Missing Nepalis and 171 Foreigners",
+   "link": "http://english.ratopati.com/story/85930/seven-day-deadline-for-amending-claims-of-those-missing-in-disasters",
+   "source": "Ratopati EN",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "disaster"
   }
  ],
- "updated": 1794033651,
+ "updated": 1794034278,
  "pending_since": 1794033070.432049,
  "fb_blocks": [
   1790350880.4125228,
