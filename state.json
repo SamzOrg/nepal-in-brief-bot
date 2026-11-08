@@ -1255,29 +1255,6 @@
  },
  "queue": [
   {
-   "title": "चार महिलाको हवाई उद्धार, सुरक्षित अस्पताल पुर्‍याइयो",
-   "summary": "गोरखापत्र अनलाइनकाठमाडौँ, कात्तिक २२ गते। महिला, बालबालिका, लैङ्गिक तथा यौनिक अल्पसङ्ख्यक र सामाजिक सुरक्षा मन्त्रालयद्वारा राष्ट्रिय महिला सशक्तीकरण परियोजनाअन्तर्गत गर्भवती तथा स...",
-   "link": "https://gorkhapatraonline.com/news/228715",
-   "source": "Gorkhapatra",
-   "ts": 1794148256,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/390983/conversions/Heath-Minister-original.jpg",
-   "lang": "ne",
-   "hl": "चार महिलाको हवाई उद्धार, सुरक्षित अस्पताल पुर्‍याइयो",
-   "en": "चार महिलाको हवाई उद्धार, सुरक्षित अस्पताल पुर्‍याइयो",
-   "ne": "चार महिलाको हवाई उद्धार, सुरक्षित अस्पताल पुर्‍याइयो",
-   "imp": 3,
-   "tags": [
-    "AirRescue",
-    "Women",
-    "उद्धार"
-   ],
-   "cat": "disaster",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "होर्मुजमा फेरि तनाव : तीन तेल ट्यांकरमा क्षति पुगेको इरानको दाबी",
    "summary": "इरानको इस्लामिक रिभोलुसनरी गार्ड कप्र्स (आईआरजीसी) ले अनुमति बिना जलमार्ग पार गर्न खोजेका जहाजमा यस्तो घटना भएको दाबी गरेको हो।...",
    "link": "https://nagariknews.nagariknetwork.com/international/tensions-rise-again-in-hormuz-iran-claims-three-oil-tankers-were-damaged-38-87.html",
@@ -4992,9 +4969,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "culture"
+  },
+  {
+   "ts": 1794176453.7615833,
+   "en": "जटिल प्रसूति समस्यामा परेका चार महिलाको हवाई उद्धार गरी अस्पताल पुर्‍याइयो",
+   "ne": "जटिल प्रसूति समस्यामा परेका चार महिलाको हवाई उद्धार गरी अस्पताल पुर्‍याइयो",
+   "link": "https://gorkhapatraonline.com/news/228715",
+   "source": "Gorkhapatra",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "disaster"
   }
  ],
- "updated": 1794175851,
+ "updated": 1794176468,
  "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
