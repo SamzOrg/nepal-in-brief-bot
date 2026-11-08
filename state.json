@@ -1,9 +1,5 @@
 {
  "seen": {
-  "https://english.onlinekhabar.com/baggage-handling-on-a-live-feed.html": 1793944246.4407544,
-  "https://www.setopati.com/art/art-activity/402146": 1793944246.4407544,
-  "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVDJIbGVXU2RGNGRubWxqQjlacEVVVVI0YVJnMjNIbVYybGJSZDVHb2N2OFNvWVRZNHI5ajBfMllMeUlicnh3ZDk1WEx5b1BlUHNpTUlxd1JXd1BZenpYcHVNWjRiejl2WE9NMlNqbVhkSG1ydlh4akswQkt1eFNQRDl3cThVQnlsaXF4OXRDcDF6ZVdjLVpRcllac2VwRlRSc2RhZFF6bUJabUV1blRfdlJR?oc=5": 1793944246.4407544,
-  "https://theannapurnaexpress.com/story/68565": 1793944246.4407544,
   "http://english.ratopati.com/story/85843/the-role-of-creators-is-important-in-the-development-of-the-arts-sector-actress-bhusal": 1793944884.7772899,
   "https://gorkhapatraonline.com/news/228508": 1793944884.7772899,
   "https://english.onlinekhabar.com/ashutosh-energy-to-issue-ipo.html": 1793944884.7772899,
@@ -1549,7 +1545,12 @@
   "https://nagariknews.nagariknetwork.com/social-affairs/more-than-3-000-tourists-reached-sikles-in-six-days-br-66-34.html": 1794116449.8354483,
   "https://www.setopati.com/social/402273": 1794116449.8354483,
   "https://news.google.com/rss/articles/CBMivgFBVV95cUxNOURpOUVVc18yVVRQUFNmSU82Z0RrQmZPSHBUTzRFRHF6bm1vSGZpRXg0cThfS05TSmJsRWIxQkc2QjIyLXhLWFowWkt6VW9DaHU0V19kT3g3OWUzbHk0UkFRUEJjRlB6VFl4em9WOUNoMW5vcmhSSlJBeXNvRlF5a19XdW9XeWk5emZHTUhJd2Y1NE9nZmFkZWNSYTZlTDBIcGxjaXZhTUJWaC00Z0RwbDdEWDdic21fRXZHR2h3?oc=5": 1794116449.8354483,
-  "https://nagariknews.nagariknetwork.com/politics/home-minister-s-anger-and-nepali-destiny-why-do-leaders-distance-themselves-from-the-people-after-winning-the-election-31-35.html": 1794116449.8354483
+  "https://nagariknews.nagariknetwork.com/politics/home-minister-s-anger-and-nepali-destiny-why-do-leaders-distance-themselves-from-the-people-after-winning-the-election-31-35.html": 1794116449.8354483,
+  "http://english.ratopati.com/story/86052/today-goddess-lakshmi-the-goddess-of-wealth-and-prosperity-is-being-worshipped": 1794117047.42919,
+  "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSTRtSlpUcjRGNFItWjNpMzJjd0c4WlhNMWxOZkNPTmRPVEF2OHBoaHhqcWNpeFRnT1VHeHFwZGc5bXNiQjQzSFRqZ1N5ZWhjUmFMeXVEMGVqb1dKLXNhMmRYd0pIZ1owdmJGdTg3SU41MXFQcDVwbUxJZGJINUNPQ1VLNDNnM0twbVlNQnBDX2hvcDVSY190VklOY3VJeVJHckF3WHNkTF9XVW9UQU01UUdkRWE?oc=5": 1794117047.42919,
+  "https://english.onlinekhabar.com/leo-named-best-police-canine.html": 1794117047.42919,
+  "https://english.onlinekhabar.com/dry-landslide-at-ghoptebhir.html": 1794117047.42919,
+  "https://nagariknews.nagariknetwork.com/social-affairs/wife-also-dies-shortly-after-husband-s-death-in-itahari-95-32.html": 1794117047.42919
  },
  "queue": [
   {
@@ -1595,7 +1596,7 @@
    "cat": "culture",
    "val": 3,
    "teaser": false,
-   "hits": 5
+   "hits": 7
   },
   {
    "title": "आजका लागि तोकियो विदेशी मुद्राको विनिमयदर",
@@ -4361,6 +4362,51 @@
    ],
    "cat": "politics",
    "val": 1,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Leo, deployed in Bhotekoshi flood rescue, named best police canine",
+   "summary": "Kathmandu, November 8 Leo, a Nepal Police dog deployed in search and rescue operations during the Bhotekoshi flood in August, has been named the best canine in the force. Leo outperformed police dogs from across the...",
+   "link": "https://english.onlinekhabar.com/leo-named-best-police-canine.html",
+   "source": "Onlinekhabar EN",
+   "ts": 1794116808,
+   "weight": 3,
+   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/11/Leo-k9-1024x500-1.jpg",
+   "lang": "en",
+   "hl": "Leo, deployed in Bhotekoshi flood rescue, named best police canine",
+   "en": "Leo, deployed in Bhotekoshi flood rescue, named best police canine",
+   "ne": "Leo, deployed in Bhotekoshi flood rescue, named best police canine",
+   "imp": 2,
+   "tags": [
+    "PoliceCanine",
+    "Bhotekoshi",
+    "FloodRescue"
+   ],
+   "cat": "society",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "इटहरीमा श्रीमानको मृत्यु भएको केही समयपछि श्रीमतीको पनि ज्यान गयो",
+   "summary": "इलाका प्रहरी कार्यालय दुवैको पोष्टमार्टमका लागि वीपी कोइराला स्वास्थ्य विज्ञान प्रतिष्ठान धरान लगेको छ ।...",
+   "link": "https://nagariknews.nagariknetwork.com/social-affairs/wife-also-dies-shortly-after-husband-s-death-in-itahari-95-32.html",
+   "source": "Nagarik News",
+   "ts": 1794116524,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2025/third-party/1767236945_1756729847_death-1200x560.jpg",
+   "lang": "ne",
+   "hl": "इटहरीमा श्रीमानको मृत्यु भएको केही समयपछि श्रीमतीको पनि ज्यान गयो",
+   "en": "इटहरीमा श्रीमानको मृत्यु भएको केही समयपछि श्रीमतीको पनि ज्यान गयो",
+   "ne": "इटहरीमा श्रीमानको मृत्यु भएको केही समयपछि श्रीमतीको पनि ज्यान गयो",
+   "imp": 2,
+   "tags": [
+    "Itahari",
+    "Death"
+   ],
+   "cat": "society",
+   "val": 3,
    "teaser": false,
    "hits": 1
   }
@@ -7412,10 +7458,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "disaster"
+  },
+  {
+   "ts": 1794117057.4551697,
+   "en": "Dry Landslide at Ghoptebhir Blocks Prithvi Highway in Chitwan",
+   "ne": "Dry Landslide at Ghoptebhir Blocks Prithvi Highway in Chitwan",
+   "link": "https://english.onlinekhabar.com/dry-landslide-at-ghoptebhir.html",
+   "source": "Onlinekhabar EN",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "disaster"
   }
  ],
- "updated": 1794116457,
- "pending_since": null,
+ "updated": 1794117068,
+ "pending_since": 1794117047.42919,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
