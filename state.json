@@ -1,8 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOU9neUVYMzNZN2p0R0pJbzR1UXJtVEs4cVFLV3c4QXJZNG84dmlrYXpuSjg3R1YzWmRUcFhtTjhKbUtkdDNxTXVHQURkS01HZHZCWVd4M3c2QTctLUVSNjlrSVZoOG5HTXVCVGtHREdXVFhralV6NElpQTJEV2ZtY3Vva1NST2s0c0JUMmY3X0RNYmpES2dPbThrTXB5MFI1bTJBZ3hDNTZWQVE?oc=5": 1793982674.3642418,
-  "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVndhMWdLcG01U0hLbkNkUGhFRDVuU0dVdVVwa2Z3ZEpQUVJMUWNEaUd2elk4WHlMR2s4TW44YTFZTkx4d2JwSkUtX2RtRVZsREt5UmFSYVZudkVWX0R3QVdnRkhYTXlPbVI0Tm9Va190ZnpxanZXa29rbW9ENHByTkx6WkhhUlpuLXBsZ1BxaEswU0hmSGx5eGJMMkItWGZ1V0x2dDRNX3hWb2dLRTB1MFd6YkR1cjdpZXc?oc=5": 1793983246.2106512,
-  "http://english.ratopati.com/story/85912/saudi-led-coalition-attacks-in-yemen-20-killed": 1793983246.2106512,
   "https://gorkhapatraonline.com/news/228554": 1793983849.3290288,
   "https://baahrakhari.com/detail/506813": 1793983849.3290288,
   "https://nagariknews.nagariknetwork.com/social-affairs/integrated-cyber-scam-response-center-in-operation-complaints-can-be-filed-24-hours-a-day-12-73.html": 1793983849.3290288,
@@ -1265,31 +1262,10 @@
   "https://baahrakhari.com/detail/506919": 1794154851.7967942,
   "https://baahrakhari.com/detail/506918": 1794154851.7967942,
   "https://baahrakhari.com/detail/506921": 1794155470.0063388,
-  "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZTNGYXFJNVBfUEhURW9aQndGNXhBWXU4bHJiUjByczVWdlpGSldULWVmaDF0dWk4ZHJGaHNDRFRxaC1LZXVfVkFZbzVVSjd3SnlSc2pfaWVRWlVFMHR6dGItNHFsWHl6ZDBTbGRJRkYtcjUzLUZEYTNJMDJaMFp0QjVXQ0Y1Vmt5LU0wV0FVZU5wQ1FzNFNLOHU3dUhvN21yWnRJR3pPaDVMSnAy?oc=5": 1794155470.0063388
+  "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZTNGYXFJNVBfUEhURW9aQndGNXhBWXU4bHJiUjByczVWdlpGSldULWVmaDF0dWk4ZHJGaHNDRFRxaC1LZXVfVkFZbzVVSjd3SnlSc2pfaWVRWlVFMHR6dGItNHFsWHl6ZDBTbGRJRkYtcjUzLUZEYTNJMDJaMFp0QjVXQ0Y1Vmt5LU0wV0FVZU5wQ1FzNFNLOHU3dUhvN21yWnRJR3pPaDVMSnAy?oc=5": 1794155470.0063388,
+  "https://nagariknews.nagariknetwork.com/social-affairs/prisoner-who-escaped-from-genji-movement-arrested-from-home-52-97.html": 1794156054.7127419
  },
  "queue": [
-  {
-   "title": "Central Japan Earthquake Injures 24",
-   "summary": "Tokiyo. At least 24 people were injured in an earthquake of magnitude 5 in central Japan on Sunday morning. Officials...",
-   "link": "http://english.ratopati.com/story/86075/57-magnitude-earthquake-hits-central-japan",
-   "source": "Ratopati EN",
-   "ts": 1794127224,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/earthquake-seismograph-line-960x480_6ronbcdy6t_sjxvey9of8_zCJEuzWauk.jpg",
-   "lang": "en",
-   "hl": "Central Japan Earthquake Injures 24",
-   "en": "Central Japan Earthquake Injures 24",
-   "ne": "Central Japan Earthquake Injures 24",
-   "imp": 1,
-   "tags": [
-    "Japan",
-    "Earthquake"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
   {
    "title": "कला प्रदर्शन",
    "summary": "",
@@ -1402,29 +1378,6 @@
    ],
    "cat": "society",
    "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "आजका तस्बिर- कात्तिक २२",
-   "summary": "",
-   "link": "https://www.setopati.com/photo-detail/402292",
-   "source": "Setopati",
-   "ts": 1794127236,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "आजका तस्बिर- कात्तिक २२",
-   "en": "आजका तस्बिर- कात्तिक २२",
-   "ne": "आजका तस्बिर- कात्तिक २२",
-   "imp": 1,
-   "tags": [
-    "Photos",
-    "DailyLife",
-    "तस्बिर"
-   ],
-   "cat": "society",
-   "val": 1,
    "teaser": false,
    "hits": 2
   },
@@ -1563,29 +1516,6 @@
    "cat": "health",
    "val": 1,
    "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "'It stood like a serpent right there staring at us': American who survived deadly Nepal flood tells her story",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTzVxVVFWbXRKc3AwQXJzcHFMNnFoSDI2d2g3U3daTjllUnNLRkptRVBtRF8yS1dUNFdoX2k3bUtjVWtFQXFnV2FYY1hab05jN05jNEEwa0Y4UnM0Wjk0QlZaUlBzb1JpcWRIVjl0eVFuZVI1c3BJRkI1aE1CdlY2aHEtUVpCODhGeUJHUWhyZnhXLVVSLVFTN05aNklQTEZyblRta1EyWjBMTGFu0gGyAUFVX3lxTE9TdkNSVmk0c2FaeWNaSGwtem80NVVUZWhXYnUyenhxRlotLTNNQ2NUZHdpYXREOWVha2szd005Uk4xaWltSi1TRURaSFZkOTFrbk9JSzNEZjJ1SXozdVJ4b240NlczT0tyLXhZMWc3aU0xMEladHdudm04Q1ZMTWdOeURVdUxpQzRUWmtxaGl6eWdaTXU4ZFktQlpTS3hHUHNvN0xQblBqSGNYellWOTBaQ2c?oc=5",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "ts": 1794128379,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "'It stood like a serpent right there staring at us': American who survived deadly Nepal flood tells her story",
-   "en": "'It stood like a serpent right there staring at us': American who survived deadly Nepal flood tells her story",
-   "ne": "'It stood like a serpent right there staring at us': American who survived deadly Nepal flood tells her story",
-   "imp": 3,
-   "tags": [
-    "NepalFlood",
-    "Tourist",
-    "बाढी"
-   ],
-   "cat": "disaster",
-   "val": 2,
-   "teaser": false,
    "hits": 1
   },
   {
@@ -2053,29 +1983,6 @@
    "hits": 1
   },
   {
-   "title": "Kathmandu Faces Garbage Crisis During Festivals",
-   "summary": "Kathmandu. During the major festivals of Dashain and Tihar, a large amount of garbage accumulates in the Kathmandu Valley. However,...",
-   "link": "http://english.ratopati.com/story/86089/reason-behind-kathmandus-garbage-not-being-picked-up-during-festivals-employee-leave-or-local-pressure",
-   "source": "Ratopati EN",
-   "ts": 1794138137,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/dust_y8d9E14tnE.webp",
-   "lang": "en",
-   "hl": "Kathmandu Faces Garbage Crisis During Festivals",
-   "en": "Kathmandu Faces Garbage Crisis During Festivals",
-   "ne": "Kathmandu Faces Garbage Crisis During Festivals",
-   "imp": 3,
-   "tags": [
-    "Kathmandu",
-    "Garbage",
-    "Festival"
-   ],
-   "cat": "society",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "यी महिलाले सुतेरै जितिन् १५ लाख बढी रुपैयाँ, फेरि खुल्यो आवेदन",
    "summary": "प्रतियोगितामा सहभागीले निद्रा पूरा गरेर मात्र पुग्दैनथ्यो। उनीहरूले विभिन्न रमाइला र सिर्जनात्मक काम पनि गर्नुपर्थ्यो।...",
    "link": "https://nagariknews.nagariknetwork.com/others/this-woman-won-over-1-5-million-rupees-while-sleeping-applications-are-open-again-53-94.html",
@@ -2370,29 +2277,6 @@
    ],
    "cat": "world",
    "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "CIB Expands Investigation into Sujal Dairy's Multi-Crore Scam at Dairy Development Corporation",
-   "summary": "Kathmandu. The Central Investigation Bureau (CIB) of Nepal Police has widened the scope of its investigation into the multi-crore rupee...",
-   "link": "http://english.ratopati.com/story/86096/sujal-dairy-cib-probe-into-ddc-scam-worth-crores",
-   "source": "Ratopati EN",
-   "ts": 1794146184,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/sujal-anjan_faD1gH2tks.webp",
-   "lang": "en",
-   "hl": "CIB Expands Investigation into Sujal Dairy's Multi-Crore Scam at Dairy Development Corporation",
-   "en": "CIB Expands Investigation into Sujal Dairy's Multi-Crore Scam at Dairy Development Corporation",
-   "ne": "CIB Expands Investigation into Sujal Dairy's Multi-Crore Scam at Dairy Development Corporation",
-   "imp": 3,
-   "tags": [
-    "CIB",
-    "SujalDairy",
-    "Scam"
-   ],
-   "cat": "economy",
-   "val": 3,
    "teaser": false,
    "hits": 1
   },
@@ -6137,9 +6021,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "crime"
+  },
+  {
+   "ts": 1794156061.9090376,
+   "en": "Kathmandu Garbage Collection Halted During Dashain and Tihar Festivals",
+   "ne": "Kathmandu Garbage Collection Halted During Dashain and Tihar Festivals",
+   "link": "http://english.ratopati.com/story/86089/reason-behind-kathmandus-garbage-not-being-picked-up-during-festivals-employee-leave-or-local-pressure",
+   "source": "Ratopati EN",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "society"
   }
  ],
- "updated": 1794155474,
+ "updated": 1794156071,
  "pending_since": 1794155470.0063388,
  "fb_blocks": [
   1790350880.4125228,
