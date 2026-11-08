@@ -1260,52 +1260,6 @@
  },
  "queue": [
   {
-   "title": "२६ वर्षदेखि हराएको छोरा खोज्दै",
-   "summary": "सन्तोष सुवेदी धनकुटा, कात्तिक २२ गते । धनकुटाको तत्कालीन मुगा गाविस वडा नम्बर ६, साविक पाख्रीबास नगरपालिका-८, स्थित फाङ्दुवा थापा टोल घरभएका ८३ वर्षीय ज्ञानेन्द्रबहादुर थापाले हराए...",
-   "link": "https://gorkhapatraonline.com/news/228708",
-   "source": "Gorkhapatra",
-   "ts": 1794143264,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/390976/conversions/DSC04114-original.jpg",
-   "lang": "ne",
-   "hl": "२६ वर्षदेखि हराएको छोरा खोज्दै",
-   "en": "२६ वर्षदेखि हराएको छोरा खोज्दै",
-   "ne": "२६ वर्षदेखि हराएको छोरा खोज्दै",
-   "imp": 2,
-   "tags": [
-    "MissingSon",
-    "Family",
-    "छोरा"
-   ],
-   "cat": "society",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "हामीलाई किन कोही मन पर्दैन?",
-   "summary": "कुनै नेताको भाषणमुनिका प्रतिक्रिया हेरौं। कुनै महिलाले आफ्नो विचार राखेको भिडिओका टिप्पणी पढौं। व्यक्त गरिएको विचारमाथि छलफल हुनुअघि नै बोल्ने मानिसको अनुहार र चरित्रबारे टिप्पणी सुरू भइसकेको हुन्छ। उसले के भन्यो...",
-   "link": "https://www.setopati.com/opinion/401916",
-   "source": "Setopati",
-   "ts": 1794143160,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "हामीलाई किन कोही मन पर्दैन?",
-   "en": "हामीलाई किन कोही मन पर्दैन?",
-   "ne": "हामीलाई किन कोही मन पर्दैन?",
-   "imp": 1,
-   "tags": [
-    "Psychology",
-    "Society",
-    "ससमाज"
-   ],
-   "cat": "society",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
-  },
-  {
    "title": "अमेरिकामा हिन्दु समुदायलक्षित 'देश निकाला गर' भन्दै प्रदर्शन भएपछि विवाद",
    "summary": "दक्षिणपन्थी कार्यकर्ता जेक ल्याङ र थोमस एलेनले दीपावली कार्यक्रममा पुगेर 'टीका लगाउने सबैलाई देश निकाला गर' र 'इसाईहरूको हिन्दु प्रतिस्थापन रोक' लेखिएका प्लेकार्ड प्रदर्शन गरेका थिए।...",
    "link": "https://nagariknews.nagariknetwork.com/international/controversy-after-protests-targeting-hindu-community-in-us-demanding-deportation-81-61.html",
@@ -1528,28 +1482,6 @@
    "val": 2,
    "teaser": false,
    "hits": 2
-  },
-  {
-   "title": "दियोको उज्यालोले समाजको निराशा र अविश्वास चिर्न सकोस्: गगन थापा",
-   "summary": "नेपाली कांग्रेसका सभापति गगन थापाले दीपावलीको उज्यालोले समाजमा व्याप्त निराशा, अविश्वास र विभाजनलाई चिर्दै एकता र सद्भाव मजबुत बनाउनुपर्ने बताएका छन्।...",
-   "link": "https://nagariknews.nagariknetwork.com/politics/may-the-light-of-the-lamp-overcome-the-despair-and-distrust-of-society-gagan-thapa-93-90.html",
-   "source": "Nagarik News",
-   "ts": 1794143250,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1793288948_gagan.png",
-   "lang": "ne",
-   "hl": "दियोको उज्यालोले समाजको निराशा र अविश्वास चिर्न सकोस्: गगन थापा",
-   "en": "दियोको उज्यालोले समाजको निराशा र अविश्वास चिर्न सकोस्: गगन थापा",
-   "ne": "दियोको उज्यालोले समाजको निराशा र अविश्वास चिर्न सकोस्: गगन थापा",
-   "imp": 2,
-   "tags": [
-    "GaganThapa",
-    "Diya"
-   ],
-   "cat": "society",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
   },
   {
    "title": "चार महिलाको हवाई उद्धार, सुरक्षित अस्पताल पुर्‍याइयो",
@@ -5314,7 +5246,7 @@
    "cat": "culture"
   }
  ],
- "updated": 1794171687,
+ "updated": 1794172252,
  "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
