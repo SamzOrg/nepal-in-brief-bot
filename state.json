@@ -1298,7 +1298,8 @@
   "https://nagariknews.nagariknetwork.com/Aparadh/one-arrested-with-rifle-bullets-from-kalanki-69-74.html": 1794146484.7677147,
   "https://nagariknews.nagariknetwork.com/social-affairs/kathmandu-valley-becomes-a-glittering-place-on-the-evening-of-lakshmi-puja-18-84.html": 1794146484.7677147,
   "https://nagariknews.nagariknetwork.com/politics/may-the-light-of-the-lamp-overcome-the-despair-and-distrust-of-society-gagan-thapa-93-90.html": 1794146484.7677147,
-  "https://nagariknews.nagariknetwork.com/Aparadh/10-people-arrested-from-five-districts-with-31-kg-of-marijuana-and-brown-heroin-79-96.html": 1794146484.7677147
+  "https://nagariknews.nagariknetwork.com/Aparadh/10-people-arrested-from-five-districts-with-31-kg-of-marijuana-and-brown-heroin-79-96.html": 1794146484.7677147,
+  "https://gorkhapatraonline.com/news/228714": 1794147048.7683053
  },
  "queue": [
   {
@@ -1323,29 +1324,6 @@
    "val": 3,
    "teaser": false,
    "hits": 2
-  },
-  {
-   "title": "Gold and silver prices remain stable in domestic market",
-   "summary": "KATHMANDU: Gold and silver prices remained unchanged in the domestic market today compared to Friday. According to the Federation of Nepal Gold and Silver Dealers' Associations, the price of fine gold has been fixed at...",
-   "link": "https://english.khabarhub.com/2026/08/574905/",
-   "source": "Khabarhub EN",
-   "ts": 1794117745,
-   "weight": 2,
-   "img": "https://english.khabarhub.com/wp-content/uploads/2026/01/gold-shop-9-400x220.jpg",
-   "lang": "en",
-   "hl": "Gold and silver prices remain stable in domestic market",
-   "en": "Gold and silver prices remain stable in domestic market",
-   "ne": "Gold and silver prices remain stable in domestic market",
-   "imp": 2,
-   "tags": [
-    "Gold",
-    "Silver",
-    "Market"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 4
   },
   {
    "title": "EU Inclusion Run 2026 concludes with around 400 participants",
@@ -3180,29 +3158,6 @@
    "hits": 1
   },
   {
-   "title": "Indian flowers worth over Rs 2.5 million seized and destroyed in Jhapa",
-   "summary": "The Armed Police Force seized and destroyed Indian flowers worth Rs 2,563,400 from Devibasti in Bhadrapur Municipality-8, Jhapa.Acting on a tip-off, a patrol team led by Armed Police Force Sub-Inspector Amar Bahadur...",
-   "link": "https://theannapurnaexpress.com/story/68616",
-   "source": "Annapurna Express",
-   "ts": 1794124881.4312396,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Indian flowers worth over Rs 2.5 million seized and destroyed in Jhapa",
-   "en": "Indian flowers worth over Rs 2.5 million seized and destroyed in Jhapa",
-   "ne": "Indian flowers worth over Rs 2.5 million seized and destroyed in Jhapa",
-   "imp": 3,
-   "tags": [
-    "Jhapa",
-    "Flowers",
-    "Smuggling"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Kathmandu Faces Garbage Crisis During Festivals",
    "summary": "Kathmandu. During the major festivals of Dashain and Tihar, a large amount of garbage accumulates in the Kathmandu Valley. However,...",
    "link": "http://english.ratopati.com/story/86089/reason-behind-kathmandus-garbage-not-being-picked-up-during-festivals-employee-leave-or-local-pressure",
@@ -3743,7 +3698,7 @@
    "cat": "culture",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "दियोको उज्यालोले समाजको निराशा र अविश्वास चिर्न सकोस्: गगन थापा",
@@ -3792,17 +3747,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1793541704.7546315,
-   "en": "National Pride Project Tender Cancelled Amidst Political Pressure",
-   "ne": "National Pride Project Tender Cancelled Amidst Political Pressure",
-   "link": "http://english.ratopati.com/story/85361/the-balen-teams-selfishness-in-sunkoshi-marineand-the-contract-was-canceled",
-   "source": "Ratopati EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "politics"
-  },
   {
    "ts": 1793543467.5650501,
    "en": "PM Balen Shah warns no one can escape accountability in social media post",
@@ -6838,10 +6782,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "society"
+  },
+  {
+   "ts": 1794147055.2827148,
+   "en": "Indian Flowers Worth Over Rs 2.5 Million Seized And Destroyed In Jhapa",
+   "ne": "Indian Flowers Worth Over Rs 2.5 Million Seized And Destroyed In Jhapa",
+   "link": "https://theannapurnaexpress.com/story/68616",
+   "source": "Annapurna Express",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "economy"
   }
  ],
- "updated": 1794146494,
- "pending_since": null,
+ "updated": 1794147067,
+ "pending_since": 1794147048.7683053,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
