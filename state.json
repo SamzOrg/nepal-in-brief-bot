@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://gorkhapatraonline.com/news/228553": 1793979649.8706355,
-  "https://news.google.com/rss/articles/CBMi5AFBVV95cUxONGVFUWpaOHY3SWJ4bUwycFRKLXNxMVRfVWlyWkViRmc0aDNOV29qSWN2R3IwMk9hMWk1MGZSaDJXVC1fajctRjJ4ZzVLYjR1eFdTM0k0SmhsOVJKZmFjUEZxUUMxSHdTVFcteElkV01tN253ZFVVWDAycVVNQVhxc2RWMWk1aDNkU19EdlJJN3kyanMwd0VSRzNfRHJ2cjlDdS1LNGd5eWJwVkxycWR3b2FPaC0zdW0waUZxZWY4dFZlLUR1cEJCSDU0TXFhc3dYc21PcFFjN3VJbGpfaUVQdzZkYzU?oc=5": 1793979649.8706355,
   "https://english.khabarhub.com/2026/06/574764/": 1793980247.3077235,
   "https://risingnepaldaily.com/news/88472": 1793980882.3395987,
   "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWXdwT002emhtVkhidFFYRVRZdXdDdzY0M2twTTMwYzBPZE1nRDRvc3JFTWhPbEluRWxQc3ktdjhSbkJDTlAtbHN0bi1XR2RfYU54aGNibkpqcEpTY203T3RodGFBbjEwczNtdkRzbGhXYzNpb29iNU1HZUF3Y3QyeEZub1JEeWQyQThhQXlMOWhOaVo3S1ltUkRfWmk1WllQaGR0bVRVUmNQbUJEdFVBaUxuVlM0eDBhRXBv?oc=5": 1793980882.3395987,
@@ -1273,7 +1271,9 @@
   "https://nagariknews.nagariknetwork.com/social-affairs/the-gandigad-bridge-connecting-achham-doti-has-been-abandoned-for-16-months-with-even-the-suspension-bridge-collapsing-making-travel-risky-60-66.html": 1794151869.925924,
   "https://nagariknews.nagariknetwork.com/international/trump-claims-that-the-stock-market-lost-three-trillion-dollars-after-the-election-saying-we-will-come-back-stronger-33-51.html": 1794151869.925924,
   "https://nagariknews.nagariknetwork.com/economy/a-concrete-bridge-worth-rs-20-million-was-built-at-sundikhola-in-dhulikhel-81-88.html": 1794151869.925924,
-  "https://nagariknews.nagariknetwork.com/economy/apples-changed-the-face-of-the-village-trucks-arrive-in-the-courtyard-millions-of-rupees-enter-a-single-village-68-85.html": 1794151869.925924
+  "https://nagariknews.nagariknetwork.com/economy/apples-changed-the-face-of-the-village-trucks-arrive-in-the-courtyard-millions-of-rupees-enter-a-single-village-68-85.html": 1794151869.925924,
+  "https://english.khabarhub.com/2026/08/574960/": 1794152456.5970783,
+  "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdWd3aWhDSEFRQ0p4WVNza2NaUW5OT0xrc0EtZ2doRjdwU1M2ZmoySXZWVEhmMGhfLTByMG04UHNsRWg5UTRWaG5iMHJsTWR2Rkk1bFY1UWdCZ0NiOHotOEFYazhwVjdrS3hjd2hjT3k1elVEdlkwV19KMk40VHZuOGFxeWFEanJpZHphMHM5SkpBRllhVG5JRUNwRm9HQzVNN0JTZ1pjN1hqUm1DV3FMbjhTSk0?oc=5": 1794152456.5970783
  },
  "queue": [
   {
@@ -1319,75 +1319,6 @@
    "cat": "economy",
    "val": 1,
    "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "यस वर्षको छठ पर्वमा मनाउन लामिछानेले जनकपुरधाम जाने",
-   "summary": "रास्वपाका सभापति रवि लामिछानेले तिहार, नेपाल संवत् तथा छठ पर्वको अवसरमा सम्पूर्ण नेपालीलाई सुख, शान्ति, समृद्धि र नयाँ आशाको शुभकामना व्यक्त गरेका छन् ।...",
-   "link": "https://nagariknews.nagariknetwork.com/politics/lamichhane-to-visit-janakpurdham-to-celebrate-this-year-s-chhath-festival-55-78.html",
-   "source": "Nagarik News",
-   "ts": 1794123654,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1788945617_rabi_.jpg",
-   "lang": "ne",
-   "hl": "यस वर्षको छठ पर्वमा मनाउन लामिछानेले जनकपुरधाम जाने",
-   "en": "यस वर्षको छठ पर्वमा मनाउन लामिछानेले जनकपुरधाम जाने",
-   "ne": "यस वर्षको छठ पर्वमा मनाउन लामिछानेले जनकपुरधाम जाने",
-   "imp": 2,
-   "tags": [
-    "Chhath",
-    "RabiLamichhane",
-    "Janakpurdham"
-   ],
-   "cat": "culture",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "Marigold farming replaces millet cultivation in Syangja",
-   "summary": "Syangja, November 8 Farmers in Syangja are increasingly replacing traditional millet and other cereal crops with commercial marigold farming, attracted by strong market demand and lower risks of crop damage from...",
-   "link": "https://english.onlinekhabar.com/marigold-farming-replaces-millet-cultivation-in-syangja.html",
-   "source": "Onlinekhabar EN",
-   "ts": 1794123510,
-   "weight": 3,
-   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/11/Flower-3-1024x576-1.jpg",
-   "lang": "en",
-   "hl": "Marigold farming replaces millet cultivation in Syangja",
-   "en": "Marigold farming replaces millet cultivation in Syangja",
-   "ne": "Marigold farming replaces millet cultivation in Syangja",
-   "imp": 2,
-   "tags": [
-    "Agriculture",
-    "Syangja",
-    "Marigold"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "TU to hold convocation ceremonies in all 7 provinces; 21,274 students apply",
-   "summary": "Kathmandu, November 8 Tribhuvan University (TU) is set to organise convocation ceremonies in all seven provinces. Previously, the university held the ceremony only in Kathmandu, but it is expanding the event to all...",
-   "link": "https://english.onlinekhabar.com/tu-to-hold-convocation-ceremonies-in-all-7-provinces-21274-students-apply.html",
-   "source": "Onlinekhabar EN",
-   "ts": 1794123187,
-   "weight": 3,
-   "img": "http://english.onlinekhabar.com/wp-content/uploads/2020/12/TU-Convocation-2076-17.jpg",
-   "lang": "en",
-   "hl": "TU to hold convocation ceremonies in all 7 provinces; 21,274 students apply",
-   "en": "TU to hold convocation ceremonies in all 7 provinces; 21,274 students apply",
-   "ne": "TU to hold convocation ceremonies in all 7 provinces; 21,274 students apply",
-   "imp": 3,
-   "tags": [
-    "TribhuvanUniversity",
-    "Convocation",
-    "Students"
-   ],
-   "cat": "education",
-   "val": 3,
-   "teaser": false,
    "hits": 1
   },
   {
@@ -2993,7 +2924,7 @@
    "cat": "culture",
    "val": 2,
    "teaser": false,
-   "hits": 3
+   "hits": 4
   },
   {
    "title": "स्वदेशी सयपत्रीले धान्दै तिहार",
@@ -3244,30 +3175,6 @@
    "hits": 1
   },
   {
-   "title": "India Revises Nepal and Bhutan Travel Rules: Passport Exemption Explained",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPb0lqeks1a1FxWE02RTNKNTZIYzdMWWpLQzdJWnZmblJiVWlXdE1kNTJWNDlHd1FUaTMtb1ZrNHRlem55cGFMYVphbG44aEZ2N18zTEU4bzE0ZkRhdFZ6X1Z4TnBMRHo3bU5uLV9NeXZJSFV3QWVHOHVTbllOb2swejhkMUYxc2wxanlJeXFFTV85Z3cwb05MVUNDM1lBa1BVdWxFczF4aWk2dw?oc=5",
-   "source": "www.nationpathindia.com",
-   "ts": 1794151147,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "India Revises Nepal and Bhutan Travel Rules: Passport Exemption Explained",
-   "en": "India Revises Nepal and Bhutan Travel Rules: Passport Exemption Explained",
-   "ne": "India Revises Nepal and Bhutan Travel Rules: Passport Exemption Explained",
-   "imp": 4,
-   "tags": [
-    "India",
-    "Nepal",
-    "TravelRules",
-    "Passport"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Trump Calls US Midterm Elections 'Biggest Regression in History'",
    "summary": "Kathmandu. This year's American midterm elections have been 'the biggest regression in history' for America, US President Donald Trump said...",
    "link": "http://english.ratopati.com/story/86099/midterm-elections-are-greatest-setback-in-us-history-donald-trump",
@@ -3382,7 +3289,7 @@
    "cat": "tech",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Two Trains Collide in Giza, Egypt, Injuring Dozens",
@@ -6535,10 +6442,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "sports"
+  },
+  {
+   "ts": 1794152470.6422524,
+   "en": "India Revises Travel Rules for Citizens of Nepal, India, and Bhutan",
+   "ne": "India Revises Travel Rules for Citizens of Nepal, India, and Bhutan",
+   "link": "https://www.nationpathindia.com/travel/india-nepal-bhutan-travel-passport-exemption-immigration-order-2026",
+   "source": "www.nationpathindia.com",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "politics"
   }
  ],
- "updated": 1794151875,
- "pending_since": null,
+ "updated": 1794152491,
+ "pending_since": 1794152456.5970783,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
