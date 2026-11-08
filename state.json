@@ -1,8 +1,5 @@
 {
  "seen": {
-  "http://english.ratopati.com/story/85872/lumbini-province-to-launch-child-marriage-reduction-program": 1793956845.3965719,
-  "https://english.khabarhub.com/2026/06/574728/": 1793956845.3965719,
-  "https://news.google.com/rss/articles/CBMifkFVX3lxTE40aC1xdGNia2s4NTBqaEtvVHh4VHhpeVVyQV9mNEthaDVGNDJWVkpyUEEwbjB1RmN6Y0xMVWNxMjZhd2JYVmk0MXdTSlUxSFhVaUljN0JrOG5YbndibFViM291ZUhNREZ6VVlqZFpnZFRlZjN4djhwcklzUXVRdw?oc=5": 1793956845.3965719,
   "https://gorkhapatraonline.com/news/228529": 1793957471.3509629,
   "https://risingnepaldaily.com/news/88461": 1793957471.3509629,
   "https://www.setopati.com/kinmel/business/402168": 1793957471.3509629,
@@ -1462,7 +1459,13 @@
   "https://www.setopati.com/photo-detail/402292": 1794129053.1991017,
   "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMks2VzVRQ1ZMOXpIWGstTE9VWS02UU9xU1VOa1JjbmtfcTBoMjM3aFVhQTJGUnlWdjZsNmZEMmZ3OWFCRnJtX2pWYkFBRTB2bFBTeUI5TllkUU1IMEhUZ2tVR042QmgyTy11NU11bm5nXzhBY2w0X2RxWEtDUkswS1F3bm9JekJVakRKNVlmdl93N2RlVEF0OWJPTW5hUjlNc2xQdF9mcEh0VlpySG9yUQ?oc=5": 1794129053.1991017,
   "https://baahrakhari.com/detail/506898": 1794129053.1991017,
-  "https://gorkhapatraonline.com/news/228702": 1794129053.1991017
+  "https://gorkhapatraonline.com/news/228702": 1794129053.1991017,
+  "http://english.ratopati.com/story/86079/police-dogs-from-crime-investigation-to-disaster-relief": 1794129648.6281111,
+  "http://english.ratopati.com/story/86078/festivals-like-kukur-tihar-should-be-internationalized-prime-ministers-wife": 1794129648.6281111,
+  "https://www.setopati.com/social/402294": 1794129648.6281111,
+  "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbzhVT2tCNkxUenpQYU1EYXlfRWdkbnVmZm9NaXRJY3JzNkl5czhRMkJqRkc0RWZXRDR3ZUc1LXN0cGpEYllHaVdBQmlnTUlFUXo0YThRUEkzVFFXdW15em5VdklwNWIzYmtNd256QmtvdVlhRmJldVZWd2ZtR1Z4OG00emVYMVN2U0w3TGRuQW11cmV4SDJINWJ2Z2hMV3ZmZTVrQS1aX1F1V0t3cE9XRTAwanQwZw?oc=5": 1794129648.6281111,
+  "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQ1hRbnM2dmt6UTJjbE01Ul9CSWs4Q3FRZzJBNDBJWUpJYlBqbVhlbTJpanR6RlotUFljSFJCNUVGQjRGckVVazU4TGFyNURJdS1qeU1oZS0xcGpnckJQalpic3Z3dE1TVnh0TEliS3hodl9MbzVGRjBEYi1fZWpMOTdRWFBVZWlBYTNVc29TX2ttbHd1YS0xeGNiWWxDTHlMNEVQbHdGOGhuT3FVR0lzLTRXbXloQQ?oc=5": 1794129648.6281111,
+  "https://english.onlinekhabar.com/nepal-wins-first-ever-gold-medal-at-junior-international-astronomy-olympiad.html": 1794129648.6281111
  },
  "queue": [
   {
@@ -1533,29 +1536,6 @@
    "val": 3,
    "teaser": false,
    "hits": 7
-  },
-  {
-   "title": "Nine Dead in Mass Shooting in Krakow, Poland",
-   "summary": "Poland. At least nine people have died in a mass shooting in the main square of the southern Polish city...",
-   "link": "http://english.ratopati.com/story/86025/nine-people-including-foreigners-killed-in-shooting-in-krakow-poland",
-   "source": "Ratopati EN",
-   "ts": 1794100841,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/poland_vZd4TCQo3v.webp",
-   "lang": "en",
-   "hl": "Nine Dead in Mass Shooting in Krakow, Poland",
-   "en": "Nine Dead in Mass Shooting in Krakow, Poland",
-   "ne": "Nine Dead in Mass Shooting in Krakow, Poland",
-   "imp": 1,
-   "tags": [
-    "Poland",
-    "Shooting",
-    "World"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
   },
   {
    "title": "सहरको मागले गाउँमा घिउ अभाव",
@@ -4200,7 +4180,7 @@
    "cat": "culture",
    "val": 3,
    "teaser": false,
-   "hits": 3
+   "hits": 4
   },
   {
    "title": "केटिएम हस्पिटालिटी तेस्रो वर्षमा, आइपिओ जारी गर्ने तयारी",
@@ -4453,7 +4433,7 @@
    "cat": "culture",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "Central Japan Earthquake Injures 24",
@@ -4613,7 +4593,7 @@
    "cat": "culture",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 3
   },
   {
    "title": "Jijivisha stitched Everest onto a red-carpet suit. Nothing came from Paris, Milan or New York.",
@@ -4680,6 +4660,29 @@
     "उद्धार"
    ],
    "cat": "health",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Nepal wins first-ever gold medal at Junior International Astronomy Olympiad",
+   "summary": "Kathmandu, November 8 Nepal has won its first-ever gold medal at the International Olympiad on Astronomy and Astrophysics - Junior (IOAA-jr), with a student securing the top award at the competition held in Thailand. At...",
+   "link": "https://english.onlinekhabar.com/nepal-wins-first-ever-gold-medal-at-junior-international-astronomy-olympiad.html",
+   "source": "Onlinekhabar EN",
+   "ts": 1794129510,
+   "weight": 3,
+   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/11/NASO-1024x683.jpg",
+   "lang": "en",
+   "hl": "Nepal wins first-ever gold medal at Junior International Astronomy Olympiad",
+   "en": "Nepal wins first-ever gold medal at Junior International Astronomy Olympiad",
+   "ne": "Nepal wins first-ever gold medal at Junior International Astronomy Olympiad",
+   "imp": 4,
+   "tags": [
+    "Nepal",
+    "AstronomyOlympiad",
+    "GoldMedal"
+   ],
+   "cat": "sports",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -7712,8 +7715,8 @@
    "cat": "society"
   }
  ],
- "updated": 1794129058,
- "pending_since": null,
+ "updated": 1794129653,
+ "pending_since": 1794129648.6281111,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
