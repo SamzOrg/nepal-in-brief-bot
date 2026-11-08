@@ -2808,30 +2808,6 @@
    "hits": 1
   },
   {
-   "title": "Foreign Minister Khanal arrives in Antalya for COP-31",
-   "summary": "Foreign Minister Shisir Khanal has arrived in Antalya, T&uuml;rkiye, leading Nepali delegation to the 31st Conference of the Parties to the United Nations Framework Convention on Climate Change (UNFCCC), or COP-31....",
-   "link": "https://theannapurnaexpress.com/story/68600",
-   "source": "Annapurna Express",
-   "ts": 1794091854.1914165,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Foreign Minister Khanal arrives in Antalya for COP-31",
-   "en": "Foreign Minister Khanal arrives in Antalya for COP-31",
-   "ne": "Foreign Minister Khanal arrives in Antalya for COP-31",
-   "imp": 3,
-   "tags": [
-    "ArzuRanaDeuba",
-    "COP31",
-    "Antalya",
-    "ForeignMinister"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 4
-  },
-  {
    "title": "\"Rahul Gandhi pushing international conspiracy for Nepal, Bangladesh-like regime change in India\": Maharashtra CM Fadnavis",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNTy1YS1ZZcE00bDdFMDVDR1ljTGhEMkFhWnlhM3Iydm1iMzNKVTZyUmFQRVd0czFZLUlqazZnaTFYVmU1OWFWdGFCQm5LclpHNmpVeEtqSjdIa1BMV3djdndVcDdVVFV5Ui1YWU1OdG1nQ2t6dkdldllhTmlfQmx2aHRmdHl5M0o3a293UGs5d0JmOVd2TFd4a2FFMVNOSUF2SS1UY1kyLUU4Mk1raXAtNm5IZE5JNmJjZU5DRmU5V2t4M2dSZVdwck9QZlhDcThZX0NfblJ6V2xDem83dHEwbkFXU3NlZlo3d25zRTIwVzdBX2Na?oc=5",
@@ -2877,29 +2853,6 @@
    "val": 3,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "२१औं शताब्दीका संकटको वास्तविक विकल्प समाजवाद हुन सक्छ- प्रदीप ज्ञवाली",
-   "summary": "ज्ञवालीले विश्वव्यापी वामपन्थी आन्दोलनबीच शान्ति, समानता, श्रमिक अधिकार, सामाजिक सुरक्षा र जलवायु न्यायका लागि अन्तर्राष्ट्रिय ऐक्यबद्धता आवश्यक रहेको बताए।",
-   "link": "https://www.setopati.com/politics/402267",
-   "source": "Setopati",
-   "ts": 1794104277,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "२१औं शताब्दीका संकटको वास्तविक विकल्प समाजवाद हुन सक्छ- प्रदीप ज्ञवाली",
-   "en": "२१औं शताब्दीका संकटको वास्तविक विकल्प समाजवाद हुन सक्छ- प्रदीप ज्ञवाली",
-   "ne": "२१औं शताब्दीका संकटको वास्तविक विकल्प समाजवाद हुन सक्छ- प्रदीप ज्ञवाली",
-   "imp": 3,
-   "tags": [
-    "PradeepGyawali",
-    "Socialism",
-    "CPN_UML"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 3
   },
   {
    "title": "State Capacity And Good Governance",
@@ -6891,10 +6844,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "economy"
+  },
+  {
+   "ts": 1794111656.5124762,
+   "en": "२१औं शताब्दीका संकटको विकल्प समाजवाद: एमाले नेता ज्ञवाली",
+   "ne": "२१औं शताब्दीका संकटको विकल्प समाजवाद: एमाले नेता ज्ञवाली",
+   "link": "https://www.setopati.com/politics/402267",
+   "source": "Setopati",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "politics"
   }
  ],
- "updated": 1794111057,
- "pending_since": null,
+ "updated": 1794111668,
+ "pending_since": 1794111651.0139675,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
