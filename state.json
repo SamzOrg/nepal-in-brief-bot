@@ -1273,31 +1273,11 @@
   "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNk1yVWxoWi1wekFPY3REWngtVEVvQUgwZjZyLVBOdVYzMV9ITFgyOUxVTlBob0VoX1NHT1pmNkxOTHdfNHJRNGc0alkxMUZNRG15NDMyVUFKSFNfTnpoN2U2M2Q0QVR5bUVmRUdINVRtZEp5d2F0SEx1bmpidW9BY2oyakFLOUd1SWkyMFkxb2ktbDRfM01qdHB0SnRUc01QVGwzdDVlbW9LLV9sNFJKQ0VtV1c4cUdVdm5Sa1g4UllteDVteDVUbkFTNnVadmtMZU9xTzRBNNIB3AFBVV95cUxOMjJ3aW82dFQtMHVDdXVGelZxOW5CNGUwdjFYcnQ5a042OXhnNXpzTGlyclM2R0J6R2Jnd013SXFKMlB1c0w4WDFGN1N5cG5sMjJ4WWtPYk9JTG5SM0VKMUh3SEhFblFndG95VjFjeGE0NEw1Mmp0ZXJxQTZPdkRwd0dhNVdub21hUHE2VG1jVGJtd19ybjRHN1dyM0NaWHdMTzlnNzVrX2pZVURCcTdreDlLOE8tcEdzbkxnQVZKQTVVUF9rZDVmZ0lQeWxUcklCWFZMdG9FODZwRGRW?oc=5": 1794149455.3091261,
   "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSy1Sb0pGYVk0ZG9KRHdOWXlWS1V4ZTdBdVhBU0Y3enlKTGZDRFEzenBFaHZfMkxiQ1BpcDZsYjFrTDBsMXpNRjhqUGt6UEhGMGN5ZU9Za0dBM0d6UTdlZWRXUDhRTjFwYXVyWnVTMUtpTEVQVHQ0bGRuQzlmMG1JVjd6UEMxUFhRZE9CdUZna3ZzbnpsVE85QXlrdGZDYVFPS1ltNlhTLXJFZ2RobUE?oc=5": 1794150650.0117264,
   "https://gorkhapatraonline.com/news/228716": 1794150650.0117264,
-  "https://kathmandupost.com/money/2026/11/08/nepal-s-peak-electricity-demand-hits-1-813mw-on-laxmi-puja-evening": 1794150650.0117264
+  "https://kathmandupost.com/money/2026/11/08/nepal-s-peak-electricity-demand-hits-1-813mw-on-laxmi-puja-evening": 1794150650.0117264,
+  "https://theannapurnaexpress.com/story/68620": 1794151246.3396218,
+  "https://gorkhapatraonline.com/news/228718": 1794151246.3396218
  },
  "queue": [
-  {
-   "title": "जुम्लामा जीप दुर्घटना, एकजनाको मृत्यु",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/506893",
-   "source": "Baahrakhari",
-   "ts": 1794122421,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "जुम्लामा जीप दुर्घटना, एकजनाको मृत्यु",
-   "en": "जुम्लामा जीप दुर्घटना, एकजनाको मृत्यु",
-   "ne": "जुम्लामा जीप दुर्घटना, एकजनाको मृत्यु",
-   "imp": 2,
-   "tags": [
-    "Jumla",
-    "JeepAccident"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
   {
    "title": "इरानको मिसाइल केन्द्रनजिक नयाँ संरचना निर्माण",
    "summary": "",
@@ -3200,7 +3180,7 @@
    "cat": "culture",
    "val": 2,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "स्वदेशी सयपत्रीले धान्दै तिहार",
@@ -3424,6 +3404,28 @@
     "Politics"
    ],
    "cat": "world",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "ट्याक्टरको ठक्करबाट प्रहरी जवानको मृत्यु",
+   "summary": "नवलपुर समाचारदातानवलपुर, कात्तिक २२ गते । पूर्वपश्चिम राजमार्ग अन्तर्गत नवलपुरको देवचुलीमा ट्याक्टरको ठक्करबाट मोटरसाइकलमा सवार एक प्रहरी जवानको मृत्यु भएको छ । नारायणघाटबाट कावासो...",
+   "link": "https://gorkhapatraonline.com/news/228718",
+   "source": "Gorkhapatra",
+   "ts": 1794151002,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/390987/conversions/accident-original.jpg",
+   "lang": "ne",
+   "hl": "ट्याक्टरको ठक्करबाट प्रहरी जवानको मृत्यु",
+   "en": "ट्याक्टरको ठक्करबाट प्रहरी जवानको मृत्यु",
+   "ne": "ट्याक्टरको ठक्करबाट प्रहरी जवानको मृत्यु",
+   "imp": 2,
+   "tags": [
+    "Police",
+    "Tractor"
+   ],
+   "cat": "society",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -6478,7 +6480,7 @@
    "cat": "sports"
   }
  ],
- "updated": 1794150664,
+ "updated": 1794151251,
  "pending_since": 1794149455.3091261,
  "fb_blocks": [
   1790350880.4125228,
