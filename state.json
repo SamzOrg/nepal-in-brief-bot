@@ -1255,7 +1255,8 @@
   "https://nagariknews.nagariknetwork.com/international/new-party-wins-seven-seats-in-new-zealand-election-as-no-one-wins-majority-74-75.html": 1794162051.8774974,
   "https://nagariknews.nagariknetwork.com/politics/janardan-said-i-freed-the-country-from-years-of-darkness-55-58.html": 1794162051.8774974,
   "https://news.google.com/rss/articles/CBMickFVX3lxTE1RWGsyNUE0NGZRWE00NG54enNtdng1Tm1GMjBJeDJnTVU2OURhRk1yY0lxZDVBTHVlQ3hDUms5TVotRHU1MXZuZkVvRzFZZUdwSlFIUmR6Sk9pVEFvOFlqRFllcnJFMURTdmRHYy1TZEVidw?oc=5": 1794164480.1436627,
-  "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMGhyVjVkVzJFVVl1alNUV2N2QkJ5ZHd3MUtTSXVsM2V6dWNuVENJcF9ic0pkeGtESXpvanh3dUx4Y09UZ2dzX2prTVh0a0liTHg1S2VzeVRmWUJUeG9YTHl3azZOTFBXLWRwTGE4VzZ6X1ZxLVdsZjB0V2R3c21fWDR3elA?oc=5": 1794167449.825066
+  "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMGhyVjVkVzJFVVl1alNUV2N2QkJ5ZHd3MUtTSXVsM2V6dWNuVENJcF9ic0pkeGtESXpvanh3dUx4Y09UZ2dzX2prTVh0a0liTHg1S2VzeVRmWUJUeG9YTHl3azZOTFBXLWRwTGE4VzZ6X1ZxLVdsZjB0V2R3c21fWDR3elA?oc=5": 1794167449.825066,
+  "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5JOVlfcEVIYW01S0NOZ0w5TkRNVDRfODRzYTBmbV81Z2VYN1FtRkdkb0xFdFJpTTFMTE96R1A3NjRjUjFTbDk1cUFFRThYZkFZbWp0ZjF6bGM4ZWVZNk9pSmFJcGFqUQ?oc=5": 1794171682.902976
  },
  "queue": [
   {
@@ -1548,29 +1549,6 @@
    "cat": "society",
    "val": 1,
    "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "३१ किलो गाँजा र खैरो हेरोइनसहित पाँच जिल्लाबाट १० जना पक्राउ",
-   "summary": "प्रहरीले देशका विभिन्न पाँच जिल्लाबाट ठूलो परिमाणको गाँजा र खैरो हेरोइनसहित १० जनालाई पक्राउ गरेको छ।...",
-   "link": "https://nagariknews.nagariknetwork.com/Aparadh/10-people-arrested-from-five-districts-with-31-kg-of-marijuana-and-brown-heroin-79-96.html",
-   "source": "Nagarik News",
-   "ts": 1794142296,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1786282078_pakrau.png",
-   "lang": "ne",
-   "hl": "३१ किलो गाँजा र खैरो हेरोइनसहित पाँच जिल्लाबाट १० जना पक्राउ",
-   "en": "३१ किलो गाँजा र खैरो हेरोइनसहित पाँच जिल्लाबाट १० जना पक्राउ",
-   "ne": "३१ किलो गाँजा र खैरो हेरोइनसहित पाँच जिल्लाबाट १० जना पक्राउ",
-   "imp": 4,
-   "tags": [
-    "Ganja",
-    "Heroin",
-    "FiveDistricts"
-   ],
-   "cat": "crime",
-   "val": 3,
-   "teaser": false,
    "hits": 1
   },
   {
@@ -2261,6 +2239,28 @@
    ],
    "cat": "politics",
    "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Tag",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5JOVlfcEVIYW01S0NOZ0w5TkRNVDRfODRzYTBmbV81Z2VYN1FtRkdkb0xFdFJpTTFMTE96R1A3NjRjUjFTbDk1cUFFRThYZkFZbWp0ZjF6bGM4ZWVZNk9pSmFJcGFqUQ?oc=5",
+   "source": "myRepublica",
+   "ts": 1794162742,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "Tag",
+   "en": "Tag",
+   "ne": "Tag",
+   "imp": 1,
+   "tags": [
+    "Tag",
+    "News"
+   ],
+   "cat": "other",
+   "val": 1,
    "teaser": false,
    "hits": 1
   }
@@ -5314,8 +5314,8 @@
    "cat": "culture"
   }
  ],
- "updated": 1794171051,
- "pending_since": 1794169866.5505743,
+ "updated": 1794171687,
+ "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
