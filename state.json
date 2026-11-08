@@ -1,9 +1,5 @@
 {
  "seen": {
-  "http://english.ratopati.com/story/85817/ronaldos-international-career-seems-to-be-on-the-verge-of-a-final-straw": 1793929844.3487322,
-  "https://risingnepaldaily.com/news/88438": 1793929844.3487322,
-  "http://english.ratopati.com/story/85816/bhai-masala-imports-worth-rs-244-billion-targeted-for-festivals": 1793929844.3487322,
-  "https://kathmandupost.com/province-no-1/2026/11/06/nepal-s-remaining-bhutanese-refugees-seek-legal-recognition-1793929421": 1793929844.3487322,
   "https://baahrakhari.com/detail/506718": 1793930481.288999,
   "https://risingnepaldaily.com/news/88439": 1793930481.288999,
   "https://www.setopati.com/politics/402130": 1793930481.288999,
@@ -1586,7 +1582,10 @@
   "https://gorkhapatraonline.com/news/228667": 1794101464.9170105,
   "https://gorkhapatraonline.com/news/228666": 1794101464.9170105,
   "https://english.khabarhub.com/2026/08/574889/": 1794102050.5935755,
-  "https://kathmandupost.com/cricket/2026/11/08/david-warner-lifts-tu-as-kathmandu-hand-lumbini-their-first-defeat-of-the-season": 1794102050.5935755
+  "https://kathmandupost.com/cricket/2026/11/08/david-warner-lifts-tu-as-kathmandu-hand-lumbini-their-first-defeat-of-the-season": 1794102050.5935755,
+  "https://nagariknews.nagariknetwork.com/social-affairs/dog-festival-from-farmer-s-fields-to-police-investigations-man-s-most-trusted-charioteer-96-21.html": 1794102648.7806184,
+  "https://baahrakhari.com/detail/506873": 1794102648.7806184,
+  "https://nagariknews.nagariknetwork.com/social-affairs/confirmed-list-of-63-people-from-jumla-who-went-missing-in-the-bhotekoshi-flood-made-public-br-48-13.html": 1794102648.7806184
  },
  "queue": [
   {
@@ -1745,7 +1744,7 @@
    "cat": "culture",
    "val": 1,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Sainik Kalyan Kosh Enhances Welfare for Soldiers and Families",
@@ -2340,29 +2339,6 @@
    "val": 2,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "Four Supreme Court nominees approved after scrutiny of judicial conduct and allegations",
-   "summary": "Parliamentary hearings raised concerns over alleged judicial interference, middlemen and controversial rulings, while nominees defended their records and outlined plans for reform.",
-   "link": "https://kathmandupost.com/national/2026/11/08/four-supreme-court-nominees-approved-after-scrutiny-of-judicial-conduct-and-allegations",
-   "source": "Kathmandu Post",
-   "ts": 1794087065.7911732,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Four Supreme Court nominees approved after scrutiny of judicial conduct and allegations",
-   "en": "Four Supreme Court nominees approved after scrutiny of judicial conduct and allegations",
-   "ne": "Four Supreme Court nominees approved after scrutiny of judicial conduct and allegations",
-   "imp": 3,
-   "tags": [
-    "SupremeCourt",
-    "Judiciary",
-    "Nepal"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "घट्यो फूल र मालाको मूल्य",
@@ -5561,9 +5537,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "economy"
+  },
+  {
+   "ts": 1794102655.1316633,
+   "en": "Parliamentary committee approves four Supreme Court nominees",
+   "ne": "Parliamentary committee approves four Supreme Court nominees",
+   "link": "https://kathmandupost.com/national/2026/11/08/four-supreme-court-nominees-approved-after-scrutiny-of-judicial-conduct-and-allegations",
+   "source": "Kathmandu Post",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "politics"
   }
  ],
- "updated": 1794102054,
+ "updated": 1794102664,
  "pending_since": 1794102050.5935755,
  "fb_blocks": [
   1790350880.4125228,
