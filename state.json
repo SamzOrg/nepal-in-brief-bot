@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://theannapurnaexpress.com/story/68556": 1793923844.0564315,
   "https://english.khabarhub.com/2026/06/574634/": 1793924447.7554758,
   "https://news.google.com/rss/articles/CBMieEFVX3lxTE1DMTY3T1ZBTmtkVkg3RzhnLXpQN2V5UldaWXlnSkZMSkV5clBIQ2JWN3l5cmdweWZoNVBmUkpLelljaEttOTdmZkg4azNKU2ZJS0d2a25tUy0ySU51dTJNUXBhMG1BNmVCX0FuTU9rb2hyd0QxUlUwbQ?oc=5": 1793924447.7554758,
   "https://baahrakhari.com/detail/506711": 1793924447.7554758,
@@ -1653,53 +1652,6 @@
    "cat": "other",
    "val": 1,
    "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "विश्वप्रकाशको दाबी : विशेषदेखि १५औँ महाधिवेशनसम्म सबै प्रक्रिया विधिसम्मत",
-   "summary": "शर्माले महाधिवेशन प्रतिनिधिहरूको सहभागिता र योगदानबाट पार्टीको महाधिवेशन प्रक्रिया सम्पन्न भएको उल्लेख गरे।...",
-   "link": "https://nagariknews.nagariknetwork.com/politics/bishwa-prakash-claims-all-processes-from-special-to-15th-general-convention-are-legal-44-55.html",
-   "source": "Nagarik News",
-   "ts": 1794067395,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1740485766_Biswaprakash%20Sharma.jpg",
-   "lang": "ne",
-   "hl": "विश्वप्रकाशको दाबी : विशेषदेखि १५औँ महाधिवेशनसम्म सबै प्रक्रिया विधिसम्मत",
-   "en": "विश्वप्रकाशको दाबी : विशेषदेखि १५औँ महाधिवेशनसम्म सबै प्रक्रिया विधिसम्मत",
-   "ne": "विश्वप्रकाशको दाबी : विशेषदेखि १५औँ महाधिवेशनसम्म सबै प्रक्रिया विधिसम्मत",
-   "imp": 3,
-   "tags": [
-    "NepaliCongress",
-    "BishwaPrakashSharma",
-    "राजनीति"
-   ],
-   "cat": "politics",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "बजेट विवाद नसुल्झिँदै सुदूरपश्चिममा प्रतिपक्षीको घेराबन्दी, बैठक बस्नै सकेन",
-   "summary": "प्रमुख प्रतिपक्षी दल नेपाली कांग्रेसले आर्थिक वर्ष २०८३/८४ को बजेट विवादलाई लिएर सुदूरपश्चिम प्रदेशसभा बैठक अवरुद्ध गरेको छ।...",
-   "link": "https://nagariknews.nagariknetwork.com/politics/congress-obstructs-far-west-provincial-assembly-over-budget-dispute-meeting-postponed-indefinitely-43-11.html",
-   "source": "Nagarik News",
-   "ts": 1794067286,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1787904543_1686668796_sudurpaschim-1200x560.jpg",
-   "lang": "ne",
-   "hl": "बजेट विवाद नसुल्झिँदै सुदूरपश्चिममा प्रतिपक्षीको घेराबन्दी, बैठक बस्नै सकेन",
-   "en": "बजेट विवाद नसुल्झिँदै सुदूरपश्चिममा प्रतिपक्षीको घेराबन्दी, बैठक बस्नै सकेन",
-   "ne": "बजेट विवाद नसुल्झिँदै सुदूरपश्चिममा प्रतिपक्षीको घेराबन्दी, बैठक बस्नै सकेन",
-   "imp": 3,
-   "tags": [
-    "Sudurpashchim",
-    "Budget",
-    "Parliament",
-    "सुदूरपश्चिम"
-   ],
-   "cat": "politics",
-   "val": 2,
-   "teaser": false,
    "hits": 1
   },
   {
@@ -5219,8 +5171,8 @@
    "cat": "sports"
   }
  ],
- "updated": 1794096085,
- "pending_since": null,
+ "updated": 1794096655,
+ "pending_since": 1794096651.2979414,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
