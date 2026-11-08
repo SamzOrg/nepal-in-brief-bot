@@ -1458,7 +1458,10 @@
   "https://english.onlinekhabar.com/ciaa-biratnagar-land-swap-case.html": 1794131450.3085775,
   "http://english.ratopati.com/story/86080/third-day-of-tihar-dog-tihar-celebrated": 1794131450.3085775,
   "https://baahrakhari.com/detail/506901": 1794131450.3085775,
-  "https://english.onlinekhabar.com/supreme-court-judicial-failures.html": 1794131450.3085775
+  "https://english.onlinekhabar.com/supreme-court-judicial-failures.html": 1794131450.3085775,
+  "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQ2tnd0pVNWtXMHk5YXVteHN2bWRhWWtpT0FUMFhNalZPeVc3amxqdEduLWJCRGxqRFRUZWR6Z3pnYURpYk5JLWdtS1QtWHlWT3hsSVk0czdhNVZKdWtBdDRJcEdReEhSWVJIX3lWZzgxejNIcGpHUFFhVHllaWRsUG5ER0wzLU9ZVF9Yc01TM2N6OExSajJhaHFUTW5NUXpfeU1TdnhFQjgweEoxR2VlWjFLNVQyMGt2OXc?oc=5": 1794132077.9357204,
+  "https://english.onlinekhabar.com/road-reopens-in-both-directions-after-landslide-cleared-at-ghoptebhir.html": 1794132077.9357204,
+  "https://baahrakhari.com/detail/506904": 1794132077.9357204
  },
  "queue": [
   {
@@ -1483,52 +1486,6 @@
    "val": 2,
    "teaser": false,
    "hits": 3
-  },
-  {
-   "title": "Deepfake Trust Deficit",
-   "summary": "KAMUD GAUTAMFor years, people have been told not to believe everything they read on the internet. Today, the warning has...",
-   "link": "https://risingnepaldaily.com/news/88517",
-   "source": "Rising Nepal",
-   "ts": 1794103241,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Deepfake Trust Deficit",
-   "en": "Deepfake Trust Deficit",
-   "ne": "Deepfake Trust Deficit",
-   "imp": 1,
-   "tags": [
-    "Deepfake",
-    "Technology",
-    "Trust"
-   ],
-   "cat": "tech",
-   "val": 1,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Pokhara Metropolis Intensifies Market Surveillance Against Plastic Flower Malas",
-   "summary": "Kaski. Pokhara Metropolitan City has intensified market surveillance to discourage the use of plastic artificial flower garlands during Tihar and...",
-   "link": "http://english.ratopati.com/story/86028/metropolitan-city-monitors-shops-selling-plastic-flower-garlands",
-   "source": "Ratopati EN",
-   "ts": 1794103093,
-   "weight": 2,
-   "img": "https://rpcdn.ratopati.com/media/albums/tihar_-_mala_csAt2UMrOF.jpg",
-   "lang": "en",
-   "hl": "Pokhara Metropolis Intensifies Market Surveillance Against Plastic Flower Malas",
-   "en": "Pokhara Metropolis Intensifies Market Surveillance Against Plastic Flower Malas",
-   "ne": "Pokhara Metropolis Intensifies Market Surveillance Against Plastic Flower Malas",
-   "imp": 2,
-   "tags": [
-    "Pokhara",
-    "Tihar",
-    "Market"
-   ],
-   "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
   },
   {
    "title": "Nepal Must Follow Balanced Diplomacy",
@@ -3087,7 +3044,7 @@
    "cat": "world",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "Over 3,000 tourists visit Sikles in six days",
@@ -4497,6 +4454,54 @@
    "cat": "health",
    "val": 1,
    "teaser": true,
+   "hits": 1
+  },
+  {
+   "title": "Road reopens in both directions after landslide cleared at Ghoptebhir",
+   "summary": "Chitwan, November 8 Traffic along the Prithvi Highway has resumed in both directions after a dry landslide at Ghoptebhir in Ichchhakamana Rural Municipality-4 was cleared. The landslide, which occurred on Sunday...",
+   "link": "https://english.onlinekhabar.com/road-reopens-in-both-directions-after-landslide-cleared-at-ghoptebhir.html",
+   "source": "Onlinekhabar EN",
+   "ts": 1794131668,
+   "weight": 3,
+   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/11/ghoptebhir-1024x500-1.jpg",
+   "lang": "en",
+   "hl": "Road reopens in both directions after landslide cleared at Ghoptebhir",
+   "en": "Road reopens in both directions after landslide cleared at Ghoptebhir",
+   "ne": "Road reopens in both directions after landslide cleared at Ghoptebhir",
+   "imp": 4,
+   "tags": [
+    "Landslide",
+    "Ghoptebhir",
+    "Highway",
+    "पहिरो"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "ट्र्याक्टरको ठक्करबाट प्रहरी जवानको मृत्यु",
+   "summary": "",
+   "link": "https://baahrakhari.com/detail/506904",
+   "source": "Baahrakhari",
+   "ts": 1794131646,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "ट्र्याक्टरको ठक्करबाट प्रहरी जवानको मृत्यु",
+   "en": "ट्र्याक्टरको ठक्करबाट प्रहरी जवानको मृत्यु",
+   "ne": "ट्र्याक्टरको ठक्करबाट प्रहरी जवानको मृत्यु",
+   "imp": 3,
+   "tags": [
+    "Accident",
+    "Police",
+    "Tractor",
+    "दुर्घटना"
+   ],
+   "cat": "crime",
+   "val": 3,
+   "teaser": false,
    "hits": 1
   }
  ],
@@ -7538,8 +7543,8 @@
    "cat": "disaster"
   }
  ],
- "updated": 1794131456,
- "pending_since": null,
+ "updated": 1794132081,
+ "pending_since": 1794132077.9357204,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
