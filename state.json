@@ -1,14 +1,5 @@
 {
  "seen": {
-  "http://english.ratopati.com/story/85853/home-made-liquor-factory-destroyed-in-birgunj-over-1000-liters-of-liquor-seized": 1793947244.5717845,
-  "https://baahrakhari.com/detail/506741": 1793947244.5717845,
-  "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdDhxV01wV240SHh4dDBZdXZaY2hVdGlwZXViUGhLMGozR0xISnZaam9KZ0FSSUoyeUFoZWhMeF9HalRrUlhUVXRqSXNlM1ZsdVdRV21UNS1CUkF4cFFSN2tpZ3FpdnFHeS1MTEc1MTlHN3FYaTFTTUZpZHNDVjV5RFVWUTNpVU1wRXYyczRsSnk4Y0tMa1VJSzhubVo3bjFFYndxQ0JMNDJuYkctcUdjOVFZaw?oc=5": 1793947244.5717845,
-  "https://nagariknews.nagariknetwork.com/economy/construction-on-the-middle-kali-gandaki-has-been-stalled-for-a-month-12-56.html": 1793947244.5717845,
-  "https://nagariknews.nagariknetwork.com/economy/tanahun-hydropower-project-powerhouse-construction-in-final-phase-br-92-46.html": 1793947244.5717845,
-  "https://nagariknews.nagariknetwork.com/arts/five-pandavas-to-be-screened-from-friday-71-27.html": 1793947244.5717845,
-  "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVjB4QjZXSFZNUDlhZWwxZVE4a0VlVXZrR1dkRGJQcHBiZWptalhrVmNLYmFLdm83eVNwWmtyUG1NTTJQZW1MWjkzVnY1Mjl5Z3V3Vy0ybGdLN0hYOUdfUFVVU2RIS2tUWGU3SFlCUWZuM0ZZWUF6S1FGeGNzX1RDeFljMGlpa0NRcUtqTXdNazVrRU9TNXNib2tvX1pMQTRWUEVN?oc=5": 1793947244.5717845,
-  "https://kathmandupost.com/national/2026/11/06/passengers-to-get-live-view-of-baggage-handling-at-kathmandu-airport": 1793947244.5717845,
-  "https://gorkhapatraonline.com/news/228512": 1793947244.5717845,
   "https://english.onlinekhabar.com/salt-costs-up-to-rs-200-per-packet-in-remote-villages-of-gorkhas-chumnubri.html": 1793947844.7021482,
   "https://baahrakhari.com/detail/506744": 1793947844.7021482,
   "https://english.khabarhub.com/2026/06/574687/": 1793947844.7021482,
@@ -1533,7 +1524,15 @@
   "https://news.google.com/rss/articles/CBMiswFBVV95cUxOallOTU1kTXRYMEwwdllaVk04ZVdKLWY5T3JYdmF5T3RnNk9HV1lMckcyWE9NYTAxbWE5TVpmQ3dfVDdBeU5PdmhJU05iWktLWnROOXJ4QnpiVUNjVWpIeFFxVDBrS1JMVjR0cUxxbVhBMjJGMkh0cXdZRHVLTklldTF2SjlLUHlzVDZReXJKR2ltUXpudVc3djQxTUc1dFRIcWRFVS1yMzdJei1CN2hJZEdzVQ?oc=5": 1794119468.8259947,
   "https://news.google.com/rss/articles/CBMitAFBVV95cUxPd0dhbjczQkpjRE9NdGJYZk5ZcVJ1ZUpiUTJVeWhuc3BrdGJiRDFZM1dqNFE0LVoyMXBsWVVWUWpMZEptejRROXdLVE4xamF6bjl0UGVKVkFSZHJqSEVqcDlrNU9XbU1sRGRoWTF6N3JzUG40OGtPaG8tQW9XVlhKWUJlcHVMbjY3MTZ1NVhweTJHQ3NkbGdwZWQtbjBkb1otMWZfZ3owVUhZRXc5c0tLdXRqRjg?oc=5": 1794119468.8259947,
   "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZXVIeER3QUVsM3R4b0NfWXBRR2YycnRfd1Fob0g0ZEstcmctVEV1OWZkSWJRRjdLLUttQ1prTzBFeXpSTEJ2QkpwUW9Mcl9aNEtKVjZjV3dFVnZ1YWlkS1J6V1BGV0g1OEtJM2ZfM1hsRUdxZ3kwOXdtRmcxaVBmM0VXQzhFQmNGV2paTjRFOEZ1VDFHVHZRamlTaUlVanZVX2t4Q3ZBcw?oc=5": 1794119468.8259947,
-  "https://theannapurnaexpress.com/story/68607": 1794119468.8259947
+  "https://theannapurnaexpress.com/story/68607": 1794119468.8259947,
+  "https://www.setopati.com/social/402280": 1794120050.5499837,
+  "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcnlFaEJsV1lRZWFNdzFnWEt2S2hyeEpELUxpRzFETjQ2SHdZZmFITmY0OUgwdUxEOVVHZmxyLVJDbmFDZlFyMDBrU2JMZzVfd0hRMXp1aUFmMGxFWHNhZUtTVmhoOVpjRm9lM3d3VVNIU0wxNHdKZThacUYyYV80V20zSWpRNFBrZUlKZFVQQmlyWmVKMV9xVzNQVUt2WWx6ZkxNWFFxU2JvLXhVUS1XMnA5UGNnQQ?oc=5": 1794120050.5499837,
+  "http://english.ratopati.com/story/86057/one-person-dies-in-bolero-jeep-accident-in-jumla": 1794120050.5499837,
+  "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcVpKQ1pyUXlWQzF3dWd0dG8wd05hVDhFTEVsV1ptS1BuOVlzMkQyQzZOMTZWWk1TMk9wUjF3NW5jX2ZpNG5SSFBMVFpMMmIwd2VXMk91Nmo1a2oydG1qNE9BcFVkb3JEV1F3S1M5enM2amREQkVwaWxlbDFCSFFLR25MaDYwRE1JUnJHWTlLcjlkVm9aVlhMZ2RrcTR0bVR6Zm1iT1Q3RG9heGRyNW1JX2FBWQ?oc=5": 1794120050.5499837,
+  "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUWdoV3l3MDh3QVF0U2tGbDMzeVV1ZF81b2IzblJZZGc4ajVONWJqMmE0YlFKcTBCUEZ1TmpNSnU1NmtkY2t1MGxaa19RQXcyblcteV9DaUlMVTgydXdhYnZ3SGpaalUyVldOV2x6U1VBUTk2eDVLV1FLWnd4dHR1c3lROS1HYTZ1M0s5cExwdW9LWXB4dzdQb3Z0XzNvZFJGTFMxRXBPcDQ3a0RLVWJYR3JsQkg?oc=5": 1794120050.5499837,
+  "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQ3MxLXR5VHp2WGxYQ21fZnZWMzhpYnAwLUp3b1QxbEpmMDNfWHlERkktdHlPQVBrbkhUbFZDRUs1LTN5czlwWVlXaXRZUHB0a1NxbV9KYkRxdUhpZ0dEeWliM09na044U3AzUXJlOWFVeFQ5VnctMzhkUFNMQ215Wjl4UWtpeFV0MDlqYUV5ZGNnSEc3aUNYblRWOUJNS0dFQjVvS0dFazl5ekg4bl81U1EtbTRPZw?oc=5": 1794120050.5499837,
+  "https://news.google.com/rss/articles/CBMiswFBVV95cUxQamdubWREMFg3TjEyU3NlcE1TM1kzY295LUhHc3ZxQl9lMF9UblpaalBWRXQtb3FXRHZrNzJMQXdOMGxaRGhkQ3k0RTlqeGNLS2Q5b3o3LWFPM3QySUNMY2tGd09UZk4wWk1EbE44d1BnQWI3MTlxbDk2QmUtekR4dzhyTlFXMkM4b1JodE9mRUxxV0JxZE5pS1N1bmVUVTVxOTBQNjJIMUxwVXoyc0pqRWFoYw?oc=5": 1794120050.5499837,
+  "https://news.google.com/rss/articles/CBMitgFBVV95cUxQY2wxd1g4bVVDdW9Cd1BEVi1WVWFaZ2RUbk1adjVHdklGSmtnWllTLXRJYjYwUVYtQ1dzOUJYQWMwa1BYNGpkcXhqQVBfaUZMQS1jaC15NFFwb1R2dFUtUmpCSldyODV0NjBRYjdnUHVVU3FaX3JTYlFCa1prZy1UanlNRkRfYktZMFRfYmxUbWs1eDlxaUUwRUhseWtBUnQ0c2Q0OTdjNWJ1RUJWQXA3dW9GaHhkQQ?oc=5": 1794120050.5499837
  },
  "queue": [
   {
@@ -1557,7 +1556,7 @@
    "cat": "culture",
    "val": 3,
    "teaser": false,
-   "hits": 19
+   "hits": 25
   },
   {
    "title": "आजका लागि तोकियो विदेशी मुद्राको विनिमयदर",
@@ -2606,29 +2605,7 @@
    "cat": "crime",
    "val": 2,
    "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Six killed in Krakow 'far-right' shooting, as three more bodies found in attacker's home",
-   "summary": "A gunman believed to have been inspired by far-right ideology has killed six people and injured more than a dozen others in an attack in the busy centre of Poland's second largest city, BBC reported. Police said the...",
-   "link": "https://theannapurnaexpress.com/story/68596",
-   "source": "Annapurna Express",
-   "ts": 1794091248.9317489,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Six killed in Krakow 'far-right' shooting, as three more bodies found in attacker's home",
-   "en": "Six killed in Krakow 'far-right' shooting, as three more bodies found in attacker's home",
-   "ne": "Six killed in Krakow 'far-right' shooting, as three more bodies found in attacker's home",
-   "imp": 1,
-   "tags": [
-    "Krakow",
-    "Shooting"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Nepal Must Follow Balanced Diplomacy",
@@ -7605,7 +7582,7 @@
    "cat": "society"
   }
  ],
- "updated": 1794119472,
+ "updated": 1794120053,
  "pending_since": 1794119468.8259947,
  "fb_blocks": [
   1790350880.4125228,
