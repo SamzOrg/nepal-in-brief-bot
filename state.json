@@ -1,6 +1,5 @@
 {
  "seen": {
-  "http://english.ratopati.com/story/85810/partial-influence-of-westerly-winds-persists-light-rain-likely-in-these-four-provinces-today": 1793925642.949208,
   "https://www.setopati.com/social/402126": 1793926879.8677561,
   "https://english.khabarhub.com/2026/06/574648/": 1793926879.8677561,
   "http://english.ratopati.com/story/85811/karnali-and-sudurpaschim-clash-for-prestige-pokhara-in-search-of-first-win": 1793926879.8677561,
@@ -1588,31 +1587,10 @@
   "http://english.ratopati.com/story/86017/this-is-the-foreign-exchange-rate-on-sunday": 1794095447.9720058,
   "https://gorkhapatraonline.com/news/228663": 1794095447.9720058,
   "http://english.ratopati.com/story/86016/today-is-the-second-day-of-yama-panchak-lakshmi-puja-is-being-performed-in-the-evening-along-with-kukur-tihar-and-narak-chaturdashi": 1794095447.9720058,
-  "https://risingnepaldaily.com/news/88502": 1794097250.3723056
+  "https://risingnepaldaily.com/news/88502": 1794097250.3723056,
+  "http://english.ratopati.com/story/86019/israeli-president-calls-on-opposition-leader-eisenkot-to-form-government": 1794098447.7804575
  },
  "queue": [
-  {
-   "title": "Five Dead, Dozen Injured in Krakow Market Square Shooting",
-   "summary": "Kathmandu. At least five people have died and about a dozen people have been injured in a shooting incident in...",
-   "link": "http://english.ratopati.com/story/86007/5-dead-about-a-dozen-injured-in-random-shooting-in-krakow-poland",
-   "source": "Ratopati EN",
-   "ts": 1794069621,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/poland-gunshot_1gcHQ9NT6P.webp",
-   "lang": "en",
-   "hl": "Five Dead, Dozen Injured in Krakow Market Square Shooting",
-   "en": "Five Dead, Dozen Injured in Krakow Market Square Shooting",
-   "ne": "Five Dead, Dozen Injured in Krakow Market Square Shooting",
-   "imp": 1,
-   "tags": [
-    "Krakow",
-    "Shooting"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
   {
    "title": "King Sultan Ibrahim Criticizes Attorney General Over Najib Razak's Release Delay",
    "summary": "Malaysia. Malaysia's Attorney General sought to defy the royal order by delaying the release of former Prime Minister Najib Razak...",
@@ -1633,53 +1611,6 @@
    ],
    "cat": "world",
    "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "मोती शोभाका पाँच कृति एकसाथ लोकार्पित",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/506868",
-   "source": "Baahrakhari",
-   "ts": 1794069101,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "मोती शोभाका पाँच कृति एकसाथ लोकार्पित",
-   "en": "मोती शोभाका पाँच कृति एकसाथ लोकार्पित",
-   "ne": "मोती शोभाका पाँच कृति एकसाथ लोकार्पित",
-   "imp": 2,
-   "tags": [
-    "MotiShova",
-    "Literature",
-    "Nepal"
-   ],
-   "cat": "culture",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "पोकली झरनालाई अन्तर्राष्ट्रिय पर्यटकीय गन्तव्य बनाउनुपर्नेमा जोड",
-   "summary": "सरोज ढुङ्गेलकाठमाडौँ, कात्तिक २१ गते । नेपालकै दोस्रो अग्लो झरनाका रुपमा परिचित तथा सरकारले घोषणा गरेका उत्कृष्ट १०० पर्यटकीय गन्तव्यमा समेटिएको पोकली झरनालाई राष्ट्रिय तथा अन्तर्र...",
-   "link": "https://gorkhapatraonline.com/news/228654",
-   "source": "Gorkhapatra",
-   "ts": 1794069152,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/390900/conversions/IMG_0533-original.jpg",
-   "lang": "ne",
-   "hl": "पोकली झरनालाई अन्तर्राष्ट्रिय पर्यटकीय गन्तव्य बनाउनुपर्नेमा जोड",
-   "en": "पोकली झरनालाई अन्तर्राष्ट्रिय पर्यटकीय गन्तव्य बनाउनुपर्नेमा जोड",
-   "ne": "पोकली झरनालाई अन्तर्राष्ट्रिय पर्यटकीय गन्तव्य बनाउनुपर्नेमा जोड",
-   "imp": 2,
-   "tags": [
-    "PokaliWaterfall",
-    "Tourism",
-    "Okhaldhunga",
-    "नेपाल"
-   ],
-   "cat": "culture",
-   "val": 2,
    "teaser": false,
    "hits": 1
   },
@@ -5084,7 +5015,7 @@
    "cat": "sports"
   }
  ],
- "updated": 1794097872,
+ "updated": 1794098450,
  "pending_since": 1794096651.2979414,
  "fb_blocks": [
   1790350880.4125228,
