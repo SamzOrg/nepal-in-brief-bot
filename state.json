@@ -1550,7 +1550,8 @@
   "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSTRtSlpUcjRGNFItWjNpMzJjd0c4WlhNMWxOZkNPTmRPVEF2OHBoaHhqcWNpeFRnT1VHeHFwZGc5bXNiQjQzSFRqZ1N5ZWhjUmFMeXVEMGVqb1dKLXNhMmRYd0pIZ1owdmJGdTg3SU41MXFQcDVwbUxJZGJINUNPQ1VLNDNnM0twbVlNQnBDX2hvcDVSY190VklOY3VJeVJHckF3WHNkTF9XVW9UQU01UUdkRWE?oc=5": 1794117047.42919,
   "https://english.onlinekhabar.com/leo-named-best-police-canine.html": 1794117047.42919,
   "https://english.onlinekhabar.com/dry-landslide-at-ghoptebhir.html": 1794117047.42919,
-  "https://nagariknews.nagariknetwork.com/social-affairs/wife-also-dies-shortly-after-husband-s-death-in-itahari-95-32.html": 1794117047.42919
+  "https://nagariknews.nagariknetwork.com/social-affairs/wife-also-dies-shortly-after-husband-s-death-in-itahari-95-32.html": 1794117047.42919,
+  "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNOUJ4RDNBcS14YVk0N2x1dk01cUk5bHlvcHNhTktjejdoY0xtM3BLS0dQWVB0Yl9YRU54V0xYVDU4UnpPSDVzSmdfMk9MQTZfRlZmNElPcmp5Z1JhbnZYd0dMbzFNWXhVX29RdmpEWGxXWXRGQkJMUVFSd0NzT19VMEJsNHZfTy0yZk9uU2ViMEJSbjhjV3pOdllhWF9RSFBmWlhLNWRTRF9JTzAyMVZIcDFlM0ZjSjN5TU5oM25XNW9zVXJmNEVHSFBmYmVfNS15UHFWSTc5V193OEg2c1NWRURn?oc=5": 1794117227.3562596
  },
  "queue": [
   {
@@ -4271,7 +4272,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "वैदेशिक सहयोगको घट्दो आकारसँगै स्वरूपमा पनि परिवर्तन",
@@ -4412,17 +4413,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1793512249.8451545,
-   "en": "Nepal Tests Artificial Scent Technology to Deter Tigers and Leopards from Livestock Areas",
-   "ne": "Nepal Tests Artificial Scent Technology to Deter Tigers and Leopards from Livestock Areas",
-   "link": "http://english.ratopati.com/story/85291/artificial-scents-tested-in-nepal-to-deter-tigers-and-leopards-from-entering-villages-what-were-the-results",
-   "source": "Ratopati EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "tech"
-  },
   {
    "ts": 1793514052.4585438,
    "en": "Sudurpaschim industries operate at 51% capacity, NRB report shows",
@@ -7471,7 +7461,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1794117068,
+ "updated": 1794117230,
  "pending_since": 1794117047.42919,
  "fb_blocks": [
   1790350880.4125228,
