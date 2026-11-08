@@ -1264,7 +1264,8 @@
   "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUTk4cFpJeENiSm1VemJIQm1QVzFJaFNlVWtTd0pST21ObmFNaUdxRXNyNUZHdU5NT19IcldYbFA4V3N5ZnJscDJwcVcxODJycWRoVmZLcGR5N1FMeFZXbzU0dU1ubjZiWWVzOWJzdHZYMlIzd1JuUmN4U1dfVzBBX1BlOC1pMzdtZUQtUHgxRHUzZkNKMGlZbnhXeV9ZU1lSbzdsWEdiUVBzbWw3alY5eHN6Nk1uTmkxejdr?oc=5": 1794162051.8774974,
   "https://nagariknews.nagariknetwork.com/politics/yesterday-we-removed-the-darkness-of-electricity-now-we-will-remove-the-darkness-of-corruption-and-unrest-90-81.html": 1794162051.8774974,
   "https://nagariknews.nagariknetwork.com/international/new-party-wins-seven-seats-in-new-zealand-election-as-no-one-wins-majority-74-75.html": 1794162051.8774974,
-  "https://nagariknews.nagariknetwork.com/politics/janardan-said-i-freed-the-country-from-years-of-darkness-55-58.html": 1794162051.8774974
+  "https://nagariknews.nagariknetwork.com/politics/janardan-said-i-freed-the-country-from-years-of-darkness-55-58.html": 1794162051.8774974,
+  "https://news.google.com/rss/articles/CBMickFVX3lxTE1RWGsyNUE0NGZRWE00NG54enNtdng1Tm1GMjBJeDJnTVU2OURhRk1yY0lxZDVBTHVlQ3hDUms5TVotRHU1MXZuZkVvRzFZZUdwSlFIUmR6Sk9pVEFvOFlqRFllcnJFMURTdmRHYy1TZEVidw?oc=5": 1794164480.1436627
  },
  "queue": [
   {
@@ -1355,29 +1356,6 @@
     "Arrest"
    ],
    "cat": "crime",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "बिल लिने उपभोक्तासँगै बिल जारी गर्ने व्यवसायीले पनि पाउने भए उपहार",
-   "summary": "सरकारले करदाता प्रोत्साहन उपहार कार्यक्रमअन्तर्गत खरिद बिल लिने उपभोक्तासँगै बिल जारी गर्ने व्यवसायीलाई समेत उपहार दिने व्यवस्था गरेको छ।...",
-   "link": "https://nagariknews.nagariknetwork.com/economy/along-with-the-consumer-who-receives-the-bill-the-business-person-who-issues-the-bill-would-also-receive-a-gift-92-67.html",
-   "source": "Nagarik News",
-   "ts": 1794135096,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1794135084_Balen.jpg",
-   "lang": "ne",
-   "hl": "बिल लिने उपभोक्तासँगै बिल जारी गर्ने व्यवसायीले पनि पाउने भए उपहार",
-   "en": "बिल लिने उपभोक्तासँगै बिल जारी गर्ने व्यवसायीले पनि पाउने भए उपहार",
-   "ne": "बिल लिने उपभोक्तासँगै बिल जारी गर्ने व्यवसायीले पनि पाउने भए उपहार",
-   "imp": 2,
-   "tags": [
-    "Bill",
-    "Tax",
-    "Consumer"
-   ],
-   "cat": "economy",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -2728,6 +2706,29 @@
     "ऊर्जा"
    ],
    "cat": "politics",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Nepal must lobby for climate debt relief",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1RWGsyNUE0NGZRWE00NG54enNtdng1Tm1GMjBJeDJnTVU2OURhRk1yY0lxZDVBTHVlQ3hDUms5TVotRHU1MXZuZkVvRzFZZUdwSlFIUmR6Sk9pVEFvOFlqRFllcnJFMURTdmRHYy1TZEVidw?oc=5",
+   "source": "Nepali Times",
+   "ts": 1794140206,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "Nepal must lobby for climate debt relief",
+   "en": "Nepal must lobby for climate debt relief",
+   "ne": "Nepal must lobby for climate debt relief",
+   "imp": 4,
+   "tags": [
+    "ClimateChange",
+    "Nepal",
+    "ClimateDebt"
+   ],
+   "cat": "world",
    "val": 2,
    "teaser": false,
    "hits": 1
@@ -5782,8 +5783,8 @@
    "cat": "culture"
   }
  ],
- "updated": 1794163852,
- "pending_since": 1794162545.5486221,
+ "updated": 1794164484,
+ "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
