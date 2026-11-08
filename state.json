@@ -1,7 +1,5 @@
 {
  "seen": {
-  "http://english.ratopati.com/story/85824/earthquake-hits-humla-with-epicenter": 1793934079.8221128,
-  "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQWtiTFVZUGRRUG96QmR6NEtUc1EyYXljVW1XQVFJYVRnc1ZJalVZVmVoOWZsQXVETUw5c3g4aTZ1VkFyN2tYREY4Q0xybGVxTl8ySm1KMlNkdVN0Q0xUaHdzam43MTYwUjAwT3dKTC1VY1ZDWWpuV3Mxb2tweERvSTR2NHp1SGRWXzVV?oc=5": 1793934079.8221128,
   "https://gorkhapatraonline.com/news/228479": 1793934650.2244425,
   "https://gorkhapatraonline.com/news/228480": 1793934650.2244425,
   "http://english.ratopati.com/story/85826/dhanteras-today-crowds-of-customers-flock-to-buy-gold-silver-and-new-utensils-photos": 1793934650.2244425,
@@ -1578,7 +1576,10 @@
   "https://theannapurnaexpress.com/story/68594": 1794106252.9294002,
   "https://theannapurnaexpress.com/story/68601": 1794106877.904933,
   "https://kathmandupost.com/art-culture/2026/11/08/your-guide-to-this-week-s-cultural-events-in-kathmandu-valley": 1794106877.904933,
-  "https://www.setopati.com/politics/402269": 1794106877.904933
+  "https://www.setopati.com/politics/402269": 1794106877.904933,
+  "https://gorkhapatraonline.com/news/228685": 1794107447.8992908,
+  "https://news.google.com/rss/articles/CBMitAFBVV95cUxORDVySTlXcHNscm1jR1hiSjdsS0g1SEtHZ2cyazZxVXFjb0VHNXU2QUdEeGlrY0lneEJDeHhja2c4bmNBOUhhZURqT0RUbkNpOTdKUzlJeUJkallKUU1YNnBkYTFtalZ5Ym44NmJibTZIc3E5OFRTejJxN3pNZDNsRWlhYkZHRm1MdndwOUROamZJT0NjRVBvenJfamJqemo0UENSYTREWFBNNTZRZmw3X0Rhd1o?oc=5": 1794107447.8992908,
+  "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTGpkZk8xMVNTaXp3am15YUFLWFNLT1ZsX3hXX1VzTmNYMGEyM2FWbmxrSGNjOE8zRXJsRlFYYjJNMDJFVW94WmkwdlFQakN4c25HQXZxRE1EZ3QxSDVXaHJjcEUtX01DSXBoVHcyZnVrNnVBZDJZemZtVFhfT0ptSlVBVU9WWnNjcUFGbEZLOVBxckFUUzQtOTlTUG8zTms3cGNhZXVqYkhPZkE5aTA2d3RBdERIWER1UFZJNkRrbTJCdU9VR2tBTFNB?oc=5": 1794107447.8992908
  },
  "queue": [
   {
@@ -2901,7 +2902,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "Sugar supplies assured for Tihar, but LPG shortages persist",
@@ -2925,7 +2926,7 @@
    "cat": "economy",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "\"Rahul Gandhi pushing international conspiracy for Nepal, Bangladesh-like regime change in India\": Maharashtra CM Fadnavis",
@@ -6240,7 +6241,7 @@
    "cat": "health"
   }
  ],
- "updated": 1794106882,
+ "updated": 1794107451,
  "pending_since": 1794106877.904933,
  "fb_blocks": [
   1790350880.4125228,
