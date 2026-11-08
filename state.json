@@ -1473,7 +1473,10 @@
   "https://nagariknews.nagariknetwork.com/social-affairs/bangladesh-s-national-revolution-and-unity-day-celebrated-br-91-52.html": 1794124250.7161102,
   "https://baahrakhari.com/detail/506895": 1794124884.2763047,
   "http://english.ratopati.com/story/86065/7-killed-in-road-accident-in-eastern-afghanistan": 1794124884.2763047,
-  "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTEtEOWY4R01KbjY2Q3VWYW9ObWRJQUxaOXpIVTNPT2xtZkVKa2lvNlBSX25jZGtBVkIta080SDFfRU1ycE81SGhJc1NvbFJVYnUxNHRaZld2ZFIyZ2toWTNoUXY0Qlhsbi1JSGRQOWZyQWhsN2ZsWFRKbWlSUUt0STc1UWlOX0RJbm9Kd0l2OW1WVll3Ri1FcENXVHladlFKWkJ6TDBVVXpoM2MySHFzcTBZUTFGNGxUb2Y5Q05uOVZkcnhrM2xqMHhpYnpraVk?oc=5": 1794125447.608684
+  "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTEtEOWY4R01KbjY2Q3VWYW9ObWRJQUxaOXpIVTNPT2xtZkVKa2lvNlBSX25jZGtBVkIta080SDFfRU1ycE81SGhJc1NvbFJVYnUxNHRaZld2ZFIyZ2toWTNoUXY0Qlhsbi1JSGRQOWZyQWhsN2ZsWFRKbWlSUUt0STc1UWlOX0RJbm9Kd0l2OW1WVll3Ri1FcENXVHladlFKWkJ6TDBVVXpoM2MySHFzcTBZUTFGNGxUb2Y5Q05uOVZkcnhrM2xqMHhpYnpraVk?oc=5": 1794125447.608684,
+  "https://english.khabarhub.com/2026/08/574915/": 1794126046.6043952,
+  "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZWlfdXZFa1QyVHY5N3A5ZkdkLVo3c090dFB5RzltbGhvU1lCSDhPU0RMMVMtam5MdlZsOHJOYUJxWFZ6MHpwNWRaMnhOMF9jVzV5VWcyYlVQdE1SVEhidHVtRV9kdkZQVkl5dFNjbng4SkRONmFGZDdkRzliRDYwYWNlbGlOZw?oc=5": 1794126046.6043952,
+  "http://english.ratopati.com/story/86067/mahendra-chaudhary-is-still-going-to-court-after-20-lakh-rupees-were-spent-on-a-half-acre-land-case-worth-2-lakh-rupees": 1794126046.6043952
  },
  "queue": [
   {
@@ -1584,29 +1587,6 @@
     "Mugu"
    ],
    "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Tallest Hanuman statue built in Nepalgunj",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ieDVmSEdMS2NXVmg2OWloRkxUVUtFUkt6ejlnNXJ6eXQ2NWFnQWd4WlRlS0g1NnV1dGJvRVdwUjBEMnBXVzczcVVDOFpfVGhm?oc=5",
-   "source": "The Rising Nepal",
-   "ts": 1794096719,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Tallest Hanuman statue built in Nepalgunj",
-   "en": "Tallest Hanuman statue built in Nepalgunj",
-   "ne": "Tallest Hanuman statue built in Nepalgunj",
-   "imp": 2,
-   "tags": [
-    "Hanuman",
-    "Nepalgunj",
-    "Tourism"
-   ],
-   "cat": "culture",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -3143,7 +3123,7 @@
    "cat": "society",
    "val": 3,
    "teaser": false,
-   "hits": 5
+   "hits": 6
   },
   {
    "title": "च्याउको मूल्य किलोमै १०५ रुपैयाँ बढ्यो",
@@ -4804,6 +4784,28 @@
    ],
    "cat": "politics",
    "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Mahendra Chaudhary Wins Land Dispute Case, But Legal Battle Continues",
+   "summary": "Barā. 60-year-old Mahendra Chaudhary of Kalaiya Sub-Metropolitan City-21 looks much older than his age at first glance. He has no...",
+   "link": "http://english.ratopati.com/story/86067/mahendra-chaudhary-is-still-going-to-court-after-20-lakh-rupees-were-spent-on-a-half-acre-land-case-worth-2-lakh-rupees",
+   "source": "Ratopati EN",
+   "ts": 1794125516,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/chauddd_xUTs2i2ugm.webp",
+   "lang": "en",
+   "hl": "Mahendra Chaudhary Wins Land Dispute Case, But Legal Battle Continues",
+   "en": "Mahendra Chaudhary Wins Land Dispute Case, But Legal Battle Continues",
+   "ne": "Mahendra Chaudhary Wins Land Dispute Case, But Legal Battle Continues",
+   "imp": 2,
+   "tags": [
+    "MahendraChaudhary",
+    "LandDispute"
+   ],
+   "cat": "politics",
+   "val": 3,
    "teaser": false,
    "hits": 1
   }
@@ -7835,7 +7837,7 @@
    "cat": "crime"
   }
  ],
- "updated": 1794125450,
+ "updated": 1794126051,
  "pending_since": 1794124884.2763047,
  "fb_blocks": [
   1790350880.4125228,
