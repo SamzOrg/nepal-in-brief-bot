@@ -1274,30 +1274,6 @@
  },
  "queue": [
   {
-   "title": "Flower trade booms in the capital during Tihar",
-   "summary": "Kathmandu, November 8 Flower sales have surged in Kathmandu on Sunday, the day of Laxmi Puja, which falls during the five-day Tihar festival. Marigold flowers, which are in the highest demand during Tihar, are being...",
-   "link": "https://english.onlinekhabar.com/flower-trade-booms-in-the-capital-during-tihar.html",
-   "source": "Onlinekhabar EN",
-   "ts": 1794133276,
-   "weight": 3,
-   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/11/Ktm-Fulmala-Bikri-1024x609-1.jpg",
-   "lang": "en",
-   "hl": "Flower trade booms in the capital during Tihar",
-   "en": "Flower trade booms in the capital during Tihar",
-   "ne": "Flower trade booms in the capital during Tihar",
-   "imp": 2,
-   "tags": [
-    "FlowerTrade",
-    "Tihar",
-    "Kathmandu",
-    "फूल"
-   ],
-   "cat": "economy",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "काठको रोटे पिङको परम्परा जोगाउँदै युवा",
    "summary": "सन्तोष सुवेदीधनकुटा, कात्तिक २२ गते । आधुनिकतासँगै हराउँदै गएको काठको रोटे पिङ पछिल्लो सयम परम्परागत रुपमा जोगाउन थालिएको छ । गाउँघरमा दसैँ तथा तिहार लगायतका चाडपर्व, मेला महोत्सवम...",
    "link": "https://gorkhapatraonline.com/news/228712",
@@ -1431,29 +1407,6 @@
     "Consumer"
    ],
    "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "साइबर ब्युरो पुगेका कांग्रेस सहमहामन्त्रीका कानुन व्यवसायीलाई प्रवेश रोक",
-   "summary": "नेपाली कांग्रेसका सहमहामन्त्री अजयबाबु शिवाकोटीलाई लक्ष्मीपूजाको बिदामासमेत नेपाल प्रहरीको साइबर ब्युरोको कार्यालयमा पुगेका छन्।...",
-   "link": "https://nagariknews.nagariknetwork.com/politics/nepali-congress-joint-general-secretary-s-legal-practitioner-denied-entry-to-cyber-bureau-19-88.html",
-   "source": "Nagarik News",
-   "ts": 1794133295,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1794133276_Ajya.jpg",
-   "lang": "ne",
-   "hl": "साइबर ब्युरो पुगेका कांग्रेस सहमहामन्त्रीका कानुन व्यवसायीलाई प्रवेश रोक",
-   "en": "साइबर ब्युरो पुगेका कांग्रेस सहमहामन्त्रीका कानुन व्यवसायीलाई प्रवेश रोक",
-   "ne": "साइबर ब्युरो पुगेका कांग्रेस सहमहामन्त्रीका कानुन व्यवसायीलाई प्रवेश रोक",
-   "imp": 3,
-   "tags": [
-    "CyberBureau",
-    "NepaliCongress",
-    "AjaybabuShiwakoti"
-   ],
-   "cat": "politics",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -5858,8 +5811,8 @@
    "cat": "culture"
   }
  ],
- "updated": 1794162057,
- "pending_since": null,
+ "updated": 1794162548,
+ "pending_since": 1794162545.5486221,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
