@@ -1,9 +1,5 @@
 {
  "seen": {
-  "https://english.khabarhub.com/2026/06/574629/": 1793931648.1215365,
-  "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWWgyQjQyd1lSdTFUTUlPVG9CbVpBanRvQVduZy1ObVIzN1J6d0lIdDlLS0U1ZEM3TzZTM2FpU2NlQkxtWnM3MzFOMExscTFBNDRVcUo4RGlxb3NqWW54QmxMV056N3ZzWFR0dWhBVlIwbC1qemh4NVVwTU5OUzhvY3dKOTEwbG04VjVJZmxBcVFva1lfcHhVZmVVN2owcDFIb2o4c1NSMmRyQk82bUcwenpIVFFmOWtzY0d0Ukk5TmlhejdSVEZz0gHPAUFVX3lxTE01a1FvcDBiTHZiUlhtQ1ZSTlM5SnExYkhlX05VS3RjbXpRdEw1b2ZHMUU4UndHY1hIeERpbnl3X1VkOHVnNl85X3BfQ0ZPY05NazFZV0NLTWJkUW5UdFV4dk5SN3B2b3RHRUl0d1JaWjM4Mjd1WHVLYVJBVlRJZWNEZ2l3cDJ6OVNSM0xEUjYwaEVZTFRJaFIzOXdFd0VqMzA0dkRLMC0zejRUaDZuVC16Z1UtaHI4V2F3VDNXcWpXZmZxM3poZU0wT1cwTUw3dw?oc=5": 1793931648.1215365,
-  "https://kathmandupost.com/nepali-diaspora/2026/11/06/naresh-bhatt-says-he-dismembered-wife-s-body-after-finding-her-dead": 1793931648.1215365,
-  "https://baahrakhari.com/detail/506719": 1793931648.1215365,
   "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWWw4alhwZTZaMlMwV0hUM0tldnhvVkZoVHJfU0JmWk5vWVVLZm53N1dickltME5hN3RyaWRfdmZUNXVDTjlvNXh3V1U4NGxONnJrQmtzeFhWVDNPaHgweEdnLVJFeTIwMlByNWYxSE9vdGpjMDVnUTk5cHh3eUtYNnlRRmQ4YXNBM0pmYXRUSTRzOHBoZ3E1N2tKRlE2cmE1N2tnUXFMQjRxWmlFeGJpMy04Wnp0LUEyS0E?oc=5": 1793932265.049651,
   "http://english.ratopati.com/story/85821/who-is-behind-the-threats-targeting-european-flights": 1793932844.2718954,
   "https://baahrakhari.com/detail/506721": 1793932844.2718954,
@@ -1579,7 +1575,8 @@
   "https://nagariknews.nagariknetwork.com/social-affairs/tourists-flock-to-annapurna-base-camp-br-35-12.html": 1794103849.5741322,
   "https://gorkhapatraonline.com/news/228675": 1794103849.5741322,
   "https://nagariknews.nagariknetwork.com/social-affairs/14-illegally-loaded-guns-found-in-barahatal-29-85.html": 1794103849.5741322,
-  "https://gorkhapatraonline.com/news/228674": 1794103849.5741322
+  "https://gorkhapatraonline.com/news/228674": 1794103849.5741322,
+  "https://english.khabarhub.com/2026/08/574840/": 1794104448.824426
  },
  "queue": [
   {
@@ -2471,29 +2468,6 @@
    "val": 2,
    "teaser": false,
    "hits": 3
-  },
-  {
-   "title": "इटहरीमा ट्रकको ठक्करबाट मोटरसाइकलमा सवार दुई जनाको मृत्यु",
-   "summary": "सुनसरीको इटहरी उपमहानगरपालिका-१३ स्थित गणेश पेट्रोल पम्प नजिक गएराति ट्रकको ठक्करबाट मोटरसाइकलमा सवार दुई जनाको मृत्यु भएको छ।...",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/two-motorcycle-riders-die-in-truck-collision-in-itahari-29-20.html",
-   "source": "Nagarik News",
-   "ts": 1794103353,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1784615247_Accident.jpg",
-   "lang": "ne",
-   "hl": "इटहरीमा ट्रकको ठक्करबाट मोटरसाइकलमा सवार दुई जनाको मृत्यु",
-   "en": "इटहरीमा ट्रकको ठक्करबाट मोटरसाइकलमा सवार दुई जनाको मृत्यु",
-   "ne": "इटहरीमा ट्रकको ठक्करबाट मोटरसाइकलमा सवार दुई जनाको मृत्यु",
-   "imp": 4,
-   "tags": [
-    "Itahari",
-    "Accident",
-    "डट्स"
-   ],
-   "cat": "crime",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
   },
   {
    "title": "Deepfake Trust Deficit",
@@ -5826,10 +5800,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "politics"
+  },
+  {
+   "ts": 1794104453.7564893,
+   "en": "इटहरीमा ट्रकको ठक्करबाट मोटरसाइकलमा सवार दुई जनाको मृत्यु",
+   "ne": "इटहरीमा ट्रकको ठक्करबाट मोटरसाइकलमा सवार दुई जनाको मृत्यु",
+   "link": "https://nagariknews.nagariknetwork.com/social-affairs/two-motorcycle-riders-die-in-truck-collision-in-itahari-29-20.html",
+   "source": "Nagarik News",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "crime"
   }
  ],
- "updated": 1794103855,
- "pending_since": null,
+ "updated": 1794104468,
+ "pending_since": 1794104448.824426,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
