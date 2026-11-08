@@ -1,10 +1,5 @@
 {
  "seen": {
-  "https://www.setopati.com/art/art-activity/402157": 1793950265.316711,
-  "https://www.setopati.com/art/art-activity/402156": 1793950265.316711,
-  "http://english.ratopati.com/story/85862/writ-petition-filed-by-dan-bahadur-karki-demanding-reinstatement-to-igp-registered": 1793950265.316711,
-  "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZkc3T0Z5OTQwNWZMcnJEODdkbk55UHdINzlxZmhLU19IVkZ3ZUZGX2p4cFg5dE4xcFM4VjQxUjh1YWJYYlhzX05UZXI4bnFYXzM2a1JQOUxLbmRXUTRLTERxRlRvelBMR1B0SUgwQkJQT2VhWDhTZmFncDlqWXdFbDNVbWtSMXQ2cC1jTkVrU2gtTjVndnZZSnJjSVA0aDI0SURJRVE1cERkTGtJSFRaLXM2ZGd6T0Rn?oc=5": 1793950265.316711,
-  "https://kathmandupost.com/national/2026/11/06/supreme-court-registers-petition-challenging-removal-of-nepal-police-chief": 1793950265.316711,
   "https://risingnepaldaily.com/news/88456": 1793950845.9403772,
   "https://risingnepaldaily.com/news/88455": 1793950845.9403772,
   "https://news.google.com/rss/articles/CBMicEFVX3lxTE45Yzhram1oZFM4a1hIVFkzQjRkaGd3V202dnN2SnZXMkpPSFFqUmdsTG8zUnZJSldQaDFpNWdZWFJYWWlCMzB6WnV4ekhQSlF1Njhmdm9wY29lRVhvSHBYbjJTSWxZR0t3TjV2TWxhcjg?oc=5": 1793950845.9403772,
@@ -1510,7 +1505,9 @@
   "https://theannapurnaexpress.com/story/68611": 1794122450.243751,
   "https://baahrakhari.com/detail/506893": 1794122450.243751,
   "https://english.onlinekhabar.com/uttargaya-confirms-655-deaths-linked-to-rasuwa-flood.html": 1794122450.243751,
-  "https://nagariknews.nagariknetwork.com/social-affairs/prithvi-highway-blocked-by-dry-landslide-br-10-54.html": 1794122450.243751
+  "https://nagariknews.nagariknetwork.com/social-affairs/prithvi-highway-blocked-by-dry-landslide-br-10-54.html": 1794122450.243751,
+  "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZURKZHB5aExXdUtPQWVyRHp0Mi1fcndVOUtQUHVYUW1PN2ZOQmpsc1BNekNXMzN4a2puZmE3UGRnQUpQY1ZGWmVIWENyaFMtVGM4QTFiQ3cxenlEMUZqd1dHTkpKMmluRkNXQllsRjhKLVNHTUFzVWY2LWFSMmRuZ2FVa1FJZG5YLUpjTUNKQm8wd0ZX?oc=5": 1794123068.6474223,
+  "https://news.google.com/rss/articles/CBMihAFBVV95cUxQLVREaHpneEp6VDBHZE5Jc2Fra20zTkd5cVRiaVdQa2tRNHdjOFhNOG9FQmw5bjZHR1NZeGtJRm9Mci1KT25GY0dHSmxGRF9yS3BBcmtLSlA4RnRYLTlTb3E5WXBrS0pzYkNIU2tvTjJFd2NKbGh3ckR0SEZrTnNOVGJUcWQ?oc=5": 1794123068.6474223
  },
  "queue": [
   {
@@ -4530,29 +4527,6 @@
    "hits": 1
   },
   {
-   "title": "कांग्रेस सहमहामन्त्री शिवाकोटीलाई साइबर ब्युरोले बोलायो",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/506891",
-   "source": "Baahrakhari",
-   "ts": 1794120000,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "कांग्रेस सहमहामन्त्री शिवाकोटीलाई साइबर ब्युरोले बोलायो",
-   "en": "कांग्रेस सहमहामन्त्री शिवाकोटीलाई साइबर ब्युरोले बोलायो",
-   "ne": "कांग्रेस सहमहामन्त्री शिवाकोटीलाई साइबर ब्युरोले बोलायो",
-   "imp": 3,
-   "tags": [
-    "CyberBureau",
-    "NepaliCongress",
-    "Shiwakoti"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
    "title": "11:11 Weekend | Birdwatching escapes, finding love in Finland & why Aadhaar won't get you into Nepal or Bhutan",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQTlFDRkdmWExlYVdSOV9kaGp1WjFhbUdSSWZQTG95Mi0wMjJpOXFLeVE3al95bHBMa3FxejlOd19KbGN4MkduOTV3T1BDRlZfc3g5Q1NEcUxhTlhmc3ROWnlNbkROeE5jSjMyLXItMFZhNEphWEhXOGxxU1J6cFl0bzQ4NnZ1c2U3eWFMOXZ6U0c0QVBEazU5bUl6UFhVUEN2dHgyT0oxTnRSd1RxUDkzNENwYm5kS1pyWHp6ZEs2TFVySWRPakdsSTVpRE56d1ZsdlRaOTN6NVd2VndLXzNra1hB0gHnAUFVX3lxTE11S015VEozUjZJTV81Q2x5NnFKbnJjNWpCMlk3Q2J3RzgteEpBUy1aV24wd3ZqM2MxQkMtM1hhcmo0dkRidGNPZlQ4MVhXSDBxbmwwR0hWcFY4YjRfbEF0Qmx5dHRDSUZ1X3RjcW9xYmYzdjIwMW9OZUVrZ2FLR0c5WEdUX1VBcENaNzU4dnNudUJmVWt5ejAyV2RnT1dzeHNZMi1YLXp0N2t5bXRZXzRqMnBDRldmVkdVenZtaVhfeGNTcnV0YTU3Tm1nU3JDTlY2b1R4X2xuaUt1WS1weE9jOTV2UWsxaw?oc=5",
@@ -4799,17 +4773,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1793517655.307879,
-   "en": "RSP to Select Local-Level Candidates Through 'Candidate Club'",
-   "ne": "RSP to Select Local-Level Candidates Through 'Candidate Club'",
-   "link": "https://english.khabarhub.com/2026/01/573925/",
-   "source": "Khabarhub EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "politics"
-  },
   {
    "ts": 1793518853.6262867,
    "en": "Manish Bohara found dead, another rescued after snowstorm in Badimalika",
@@ -7845,9 +7808,20 @@
    "n_ig": 1,
    "brk": true,
    "cat": "disaster"
+  },
+  {
+   "ts": 1794123073.8318653,
+   "en": "कांग्रेस सहमहामन्त्री अजयबाबु शिवाकोटीलाई साइबर ब्युरोले बोलायो",
+   "ne": "कांग्रेस सहमहामन्त्री अजयबाबु शिवाकोटीलाई साइबर ब्युरोले बोलायो",
+   "link": "https://baahrakhari.com/detail/506891",
+   "source": "Baahrakhari",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "politics"
   }
  ],
- "updated": 1794122469,
+ "updated": 1794123085,
  "pending_since": 1794122450.243751,
  "fb_blocks": [
   1790350880.4125228,
