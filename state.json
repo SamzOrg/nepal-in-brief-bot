@@ -1575,7 +1575,10 @@
   "https://gorkhapatraonline.com/news/228680": 1794106252.9294002,
   "https://risingnepaldaily.com/news/88518": 1794106252.9294002,
   "https://theannapurnaexpress.com/story/68598": 1794106252.9294002,
-  "https://theannapurnaexpress.com/story/68594": 1794106252.9294002
+  "https://theannapurnaexpress.com/story/68594": 1794106252.9294002,
+  "https://theannapurnaexpress.com/story/68601": 1794106877.904933,
+  "https://kathmandupost.com/art-culture/2026/11/08/your-guide-to-this-week-s-cultural-events-in-kathmandu-valley": 1794106877.904933,
+  "https://www.setopati.com/politics/402269": 1794106877.904933
  },
  "queue": [
   {
@@ -3151,20 +3154,33 @@
    "val": 3,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "भोटेकोशी बाढीमा ज्यान गुमाएका र बेपत्ताका सन्तानलाई उच्च शिक्षासम्म पूर्ण छात्रवृत्ति दिने निर्णय",
+   "summary": "प्रस्तावित व्यवस्था अनुसार निजी विद्यालयमा अध्ययन गरिरहेका बालबालिकाको हकमा शिक्षा विभागले अभिलेख राखेर सम्बन्धित छाता संस्था र स्थानीय तहलाई पत्राचार गर्नेछ।",
+   "link": "https://www.setopati.com/politics/402269",
+   "source": "Setopati",
+   "ts": 1794106441,
+   "weight": 3,
+   "img": null,
+   "lang": "ne",
+   "hl": "भोटेकोशी बाढीमा ज्यान गुमाएका र बेपत्ताका सन्तानलाई उच्च शिक्षासम्म पूर्ण छात्रवृत्ति दिने निर्णय",
+   "en": "भोटेकोशी बाढीमा ज्यान गुमाएका र बेपत्ताका सन्तानलाई उच्च शिक्षासम्म पूर्ण छात्रवृत्ति दिने निर्णय",
+   "ne": "भोटेकोशी बाढीमा ज्यान गुमाएका र बेपत्ताका सन्तानलाई उच्च शिक्षासम्म पूर्ण छात्रवृत्ति दिने निर्णय",
+   "imp": 3,
+   "tags": [
+    "BhoteKoshi",
+    "Flood",
+    "Scholarship",
+    "भोटेकोशी"
+   ],
+   "cat": "society",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1793501456.5383844,
-   "en": "चालु आर्थिक वर्षको वैशाखयता सर्पदंशबाट ११३ जनाको मृत्यु, १६४९ जना प्रभावित",
-   "ne": "चालु आर्थिक वर्षको वैशाखयता सर्पदंशबाट ११३ जनाको मृत्यु, १६४९ जना प्रभावित",
-   "link": "https://baahrakhari.com/detail/506230",
-   "source": "Baahrakhari",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "health"
-  },
   {
    "ts": 1793503258.3337407,
    "en": "Irregularity reported in Nepal Supreme Court lottery system after second cause list appears",
@@ -6224,8 +6240,8 @@
    "cat": "health"
   }
  ],
- "updated": 1794106283,
- "pending_since": null,
+ "updated": 1794106882,
+ "pending_since": 1794106877.904933,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
