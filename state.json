@@ -1264,7 +1264,9 @@
   "https://gorkhapatraonline.com/news/228723": 1794157283.3137066,
   "https://gorkhapatraonline.com/news/228722": 1794157283.3137066,
   "http://english.ratopati.com/story/86104/brighton-ease-to-victory-over-10-man-brentford": 1794157848.9730194,
-  "http://english.ratopati.com/story/86103/chelsea-defeated-by-sunderland": 1794157848.9730194
+  "http://english.ratopati.com/story/86103/chelsea-defeated-by-sunderland": 1794157848.9730194,
+  "http://english.ratopati.com/story/86106/demand-for-electricity-on-lakshmi-puja-day-reaches-1813-megawatts": 1794158448.8329318,
+  "http://english.ratopati.com/story/86105/liverpools-3-1-win-over-crystal-palace": 1794158448.8329318
  },
  "queue": [
   {
@@ -1310,28 +1312,6 @@
    ],
    "cat": "culture",
    "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "चिल सत्ता र चिलिङ इफेक्ट!",
-   "summary": "यति बेला सरकारको प्राथमिकता खासमा नागरिकका दैनन्दिन सहज बनाउनेतर्फ ज्यादा केन्द्रित हुनुपर्थ्यो। अर्थात् रोजगारी, आम्दानी, सुशासन, शिक्षा, स्वास्थ्य, विपद व्यवस्थापन तथा महँगी नियन्त्रणजस्ता विषयको सम्बोधनमा सरकार...",
-   "link": "https://www.setopati.com/opinion/402290",
-   "source": "Setopati",
-   "ts": 1794129417,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "चिल सत्ता र चिलिङ इफेक्ट!",
-   "en": "चिल सत्ता र चिलिङ इफेक्ट!",
-   "ne": "चिल सत्ता र चिलिङ इफेक्ट!",
-   "imp": 2,
-   "tags": [
-    "Opinion",
-    "Politics"
-   ],
-   "cat": "politics",
-   "val": 1,
    "teaser": false,
    "hits": 1
   },
@@ -1701,29 +1681,6 @@
    "tags": [
     "KukurTihar",
     "Thapa",
-    "Festival"
-   ],
-   "cat": "culture",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "कुकुर तिहारलाई अन्तर्राष्ट्रियकरण गर्नु हाम्रो प्रमुख उद्देश्य हो : प्रथम महिला काफ्ले",
-   "summary": "प्रथम महिला सबिना काफ्लेले नेपाली मौलिक संस्कृति, परम्परा र प्रकृतिसँगको मानव सम्बन्धलाई विश्वमाझ चिनाउन कुकुर तिहारजस्ता पर्वलाई अन्तर्राष्ट्रियकरण गर्नुपर्नेमा जोड दिएकी छन्।...",
-   "link": "https://nagariknews.nagariknetwork.com/politics/internationalizing-kukur-tihar-is-our-main-objective-first-lady-kafle-84-14.html",
-   "source": "Nagarik News",
-   "ts": 1794129099,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1794129089_Sabina%20.jpg",
-   "lang": "ne",
-   "hl": "कुकुर तिहारलाई अन्तर्राष्ट्रियकरण गर्नु हाम्रो प्रमुख उद्देश्य हो : प्रथम महिला काफ्ले",
-   "en": "कुकुर तिहारलाई अन्तर्राष्ट्रियकरण गर्नु हाम्रो प्रमुख उद्देश्य हो : प्रथम महिला काफ्ले",
-   "ne": "कुकुर तिहारलाई अन्तर्राष्ट्रियकरण गर्नु हाम्रो प्रमुख उद्देश्य हो : प्रथम महिला काफ्ले",
-   "imp": 2,
-   "tags": [
-    "KukurTihar",
-    "FirstLady",
     "Festival"
    ],
    "cat": "culture",
@@ -5965,7 +5922,7 @@
    "cat": "culture"
   }
  ],
- "updated": 1794157867,
+ "updated": 1794158452,
  "pending_since": 1794157848.9730194,
  "fb_blocks": [
   1790350880.4125228,
