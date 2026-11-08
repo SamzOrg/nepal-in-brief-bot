@@ -1371,29 +1371,6 @@
    "hits": 1
   },
   {
-   "title": "Two Trains Collide in Giza, Egypt, Injuring Dozens",
-   "summary": "Kathmandu. Egypt's National Railways Authority has stated that several passengers were injured when two trains collided in Egypt's Giza province...",
-   "link": "http://english.ratopati.com/story/86098/train-accident-in-egypt-dozens-injured",
-   "source": "Ratopati EN",
-   "ts": 1794149032,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/setting/banner-image_sPOGzj8QHe.jpg",
-   "lang": "en",
-   "hl": "Two Trains Collide in Giza, Egypt, Injuring Dozens",
-   "en": "Two Trains Collide in Giza, Egypt, Injuring Dozens",
-   "ne": "Two Trains Collide in Giza, Egypt, Injuring Dozens",
-   "imp": 1,
-   "tags": [
-    "Egypt",
-    "TrainCrash",
-    "Giza"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "गण्डीगाडमा नयाँ पुल बनेन, भएको पनि रहेन",
    "summary": "अछाम र डोटी जिल्लाको सिमानास्थित गण्डीगाडमा सम्झौता भएको १६ महिना बितिसक्दा पनि मोटरेबल पुल निर्माणको काम अघि बढ्न सकेको छैन। पुल निर्माणका क्रममा डोजरले ढुङ्गा खसालेर पुरानो झोलुङ्गे पुलसमेत क्षतिग्रस्त बनाइदिएपछि...",
    "link": "https://nagariknews.nagariknetwork.com/social-affairs/the-gandigad-bridge-connecting-achham-doti-has-been-abandoned-for-16-months-with-even-the-suspension-bridge-collapsing-making-travel-risky-60-66.html",
@@ -1709,52 +1686,6 @@
    ],
    "cat": "culture",
    "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Why the UN climate summit will miss the point on Nepal",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQbm5NY2NNT1B3UWhXdWZ6WXF4Sm93OFpSd0w2U0N6aHlIeDNweG5XRWNpX21KaDAwdm5Ncmh6RnRpS0hPb1NESVBaQ1hjc3dYTVNWdW9uNUVESHdyUk9hcFA5VFRnREs4N2hqU2FhUGlWUFpiQmZRSkJyYTZqUjB1ZVozeVdZWmFpaEdOOXdrTC1mZ3lUYVZLLXpPa0ozcWZ3a2NQY1U5NVZDdE9TTkNFQmtvZ0s5aFZwNG9KVm9MODVQRm1fdjNnbDRsTUVvY0h3Rm5HcjFzbmV3VzJzYjBzMFlnVllydjQ?oc=5",
-   "source": "The Australian",
-   "ts": 1794160895,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Why the UN climate summit will miss the point on Nepal",
-   "en": "Why the UN climate summit will miss the point on Nepal",
-   "ne": "Why the UN climate summit will miss the point on Nepal",
-   "imp": 3,
-   "tags": [
-    "ClimateSummit",
-    "Nepal",
-    "जलवायु"
-   ],
-   "cat": "world",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "भोलि सुरू हुने विश्व जलवायु सम्मेलनमा अमेरिकी सरकार अनुपस्थित, १९ सांसद भने सहभागी हुने",
-   "summary": "राष्ट्रपति डोनाल्ड ट्रम्पको प्रशासनले लगातार दोस्रो वर्ष राष्ट्रसंघको जलवायु सम्मेलनमा आधिकारिक प्रतिनिधिमण्डल नपठाउने भएको हो।",
-   "link": "https://www.setopati.com/politics/402308",
-   "source": "Setopati",
-   "ts": 1794160032,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "भोलि सुरू हुने विश्व जलवायु सम्मेलनमा अमेरिकी सरकार अनुपस्थित, १९ सांसद भने सहभागी हुने",
-   "en": "भोलि सुरू हुने विश्व जलवायु सम्मेलनमा अमेरिकी सरकार अनुपस्थित, १९ सांसद भने सहभागी हुने",
-   "ne": "भोलि सुरू हुने विश्व जलवायु सम्मेलनमा अमेरिकी सरकार अनुपस्थित, १९ सांसद भने सहभागी हुने",
-   "imp": 3,
-   "tags": [
-    "ClimateSummit",
-    "COP31",
-    "जलवायुसम्मेलन"
-   ],
-   "cat": "world",
-   "val": 3,
    "teaser": false,
    "hits": 1
   },
@@ -4946,10 +4877,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "disaster"
+  },
+  {
+   "ts": 1794178254.492396,
+   "en": "टर्कीमा भोलिदेखि सुरू हुने कोप-३१ सम्मेलनमा अमेरिकी सरकार अनुपस्थित रहने, १९ सांसद सहभागी हुने",
+   "ne": "टर्कीमा भोलिदेखि सुरू हुने कोप-३१ सम्मेलनमा अमेरिकी सरकार अनुपस्थित रहने, १९ सांसद सहभागी हुने",
+   "link": "https://www.setopati.com/politics/402308",
+   "source": "Setopati",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "world"
   }
  ],
- "updated": 1794177654,
- "pending_since": null,
+ "updated": 1794178267,
+ "pending_since": 1794178248.7442973,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
