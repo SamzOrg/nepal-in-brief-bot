@@ -1,9 +1,5 @@
 {
  "seen": {
-  "https://nagariknews.nagariknetwork.com/arts/emotional-vijay-and-anjana-in-sindure-jatra-23-91.html": 1793948480.5010343,
-  "http://english.ratopati.com/story/85858/a-dry-landslide-blocked-the-remunang-river-forming-a-lake": 1793948480.5010343,
-  "https://english.onlinekhabar.com/dry-landslide-blocks-kaligandaki-corridor-road-section.html": 1793948480.5010343,
-  "https://www.setopati.com/social/402155": 1793949045.2728243,
   "https://english.onlinekhabar.com/supreme-court-registers-dan-bahadur-karkis-writ-petition-challenging-his-removal-as-igp.html": 1793949645.0889976,
   "https://english.khabarhub.com/2026/06/574690/": 1793949645.0889976,
   "https://english.onlinekhabar.com/nepal-rastra-bank-suspends-gold-coin-sales-due-to-stock-shortage.html": 1793949645.0889976,
@@ -1507,7 +1503,36 @@
   "https://nagariknews.nagariknetwork.com/social-affairs/one-person-dies-in-bolero-jeep-accident-in-jumla-68-98.html": 1794120651.9982476,
   "https://news.google.com/rss/articles/CBMirAFBVV95cUxNREVLRDNKUDhsYjBTMHFzc0xJZGhEN0JCSThzaEdLLXhNd1FIM0hXYkNpdWZJdXZNdWxjUTFmb29xb3JZTmowbHpUTHpBSlQtbUdYeGtabTUyVURLQlVnVVNPX0tHR3JzVzJITlJBNXg4WWV1X1JhOVBnczMwanV3ZjFkQnFHYkVyWFdXa3F5aHY2eWNocXBGREVBX28tZGJFYndPcld1NXptRnVU?oc=5": 1794120651.9982476,
   "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVjBQQll4d0JwYTc1bmFzbWY3S1JHSlYxSGlRcXg1UFptR1F6dFpkUzY5QkNJR200dldXcXllekFVMDNkT1RTVHBTUVdQbFA5LUZUMDZNWDNMbVFwUXpMS0hDZGpuLUltenBPbGk4SGRPMlp2OHZtZEtLaXdIdkdZandFaHVZSVAzdnpScXB3Yl9IYTNlQ3czZEF6WUxDeEJBSGZ0UG1mMU40bUZ3b1dGVTBBTTlYWmIybVY0cENn?oc=5": 1794120651.9982476,
-  "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNVJPS2NWNGdpNG9QRjBtendVazg3M01UaGZXakh1U1gwWTE0WFNSWHkyckl6dDhlTzdTbnF0NjZPeFY3UEUwYkxjYjBUMUFZRDV2elM1SGJjSjVxbEpFcUlrbTI0cHJLVUg4ZnNLdE5ZeDUxWHQ0UU9QbjBQc0I3eUZYZm1jWjFSclVPQXk5OTFaSElmQW1kNlBZWkxTekY3VTJpcWR1TWZ5Y29NQjFKMQ?oc=5": 1794120651.9982476
+  "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNVJPS2NWNGdpNG9QRjBtendVazg3M01UaGZXakh1U1gwWTE0WFNSWHkyckl6dDhlTzdTbnF0NjZPeFY3UEUwYkxjYjBUMUFZRDV2elM1SGJjSjVxbEpFcUlrbTI0cHJLVUg4ZnNLdE5ZeDUxWHQ0UU9QbjBQc0I3eUZYZm1jWjFSclVPQXk5OTFaSElmQW1kNlBZWkxTekY3VTJpcWR1TWZ5Y29NQjFKMQ?oc=5": 1794120651.9982476,
+  "https://english.khabarhub.com/2026/08/574909/": 1794121849.679254,
+  "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVGJIdHk4aXZoWWl1YTVGOUZQcXVFUVpqS0JfTlN6aGIwY1RFcHBvMG1SYW0wZUx4MDRHOGwxTW5aVDhjeFJUSnRZRkZMRktMb1ZUU3QwTUxja0lHZGpyM3N6UTlKUzlzSHRpek94SmczVTdBVUlCMDNCVVdrVVZUSjFQeDdFNHppTFg5QTJTelk5c0UtZVRVMG9ISllObWZacXE4R1ByYXR3RjJObWxESTNR?oc=5": 1794121849.679254,
+  "https://english.onlinekhabar.com/1700-mw-on-laxmi-puja-evening.html": 1794121849.679254,
+  "http://english.ratopati.com/story/86059/festivals-strengthen-social-harmony-and-national-unity-provincial-chief-devkota": 1794121849.679254,
+  "http://english.ratopati.com/story/86058/congress-joint-general-secretary-siwakoti-attending-the-cyber-bureau-today": 1794121849.679254,
+  "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUmw4V2NWd1B5bnpmMmhnX2ZWQXo1OUkySTY3V3FVUzd4RWh1eGJkNmhzWWx2UkM3NGs4d1Iyem5rWnRvWmZXc0NFSnlUb2dwNm9ZZmFJTUtVZ1M0elI2ZVNQelhxanR4bWZwaTFTcEJBWXNCS3dWSUw3aGF1eEtzTy1nb0pYcDFWeUFocmZPX3ZZWUVuWVlVVzc2QW9nVVFadDhBNVhqLUlSTWFLTC1PcjdONk8?oc=5": 1794121849.679254,
+  "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcmRrZEZRZ18yYWN2WXQwWExiNEYxcXBva0F1SS1pVFVFWDAxNkFTUFRzQWNGWlMyVXd2QkUzTk4yQndwbWstaHd1M0NnaVktUDRheldZa252MG5kYWpyZ0RiZkZJNl9oRmlVVGpWVjRzS1VvTURhdnA5MWJKN19WWlJ3d0VtVF9WNS1xejlSMWhnNlUyYWt0Y2NNdTk3V2ZPNDNLclVxQ0lpMDNO?oc=5": 1794121849.679254,
+  "https://theannapurnaexpress.com/story/68610": 1794121849.679254,
+  "https://theannapurnaexpress.com/story/68609": 1794121849.679254,
+  "https://english.onlinekhabar.com/eu-inclusion-run-2026-concluds.html": 1794121849.679254,
+  "https://english.khabarhub.com/2026/08/574912/": 1794121849.679254,
+  "https://www.setopati.com/social/402286": 1794121849.679254,
+  "http://english.ratopati.com/story/86060/ramayana-aggressive-at-the-box-office-rajinikanths-jailer-2-slows-down": 1794121849.679254,
+  "https://baahrakhari.com/detail/506891": 1794121849.679254,
+  "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQTlFDRkdmWExlYVdSOV9kaGp1WjFhbUdSSWZQTG95Mi0wMjJpOXFLeVE3al95bHBMa3FxejlOd19KbGN4MkduOTV3T1BDRlZfc3g5Q1NEcUxhTlhmc3ROWnlNbkROeE5jSjMyLXItMFZhNEphWEhXOGxxU1J6cFl0bzQ4NnZ1c2U3eWFMOXZ6U0c0QVBEazU5bUl6UFhVUEN2dHgyT0oxTnRSd1RxUDkzNENwYm5kS1pyWHp6ZEs2TFVySWRPakdsSTVpRE56d1ZsdlRaOTN6NVd2VndLXzNra1hB0gHnAUFVX3lxTE11S015VEozUjZJTV81Q2x5NnFKbnJjNWpCMlk3Q2J3RzgteEpBUy1aV24wd3ZqM2MxQkMtM1hhcmo0dkRidGNPZlQ4MVhXSDBxbmwwR0hWcFY4YjRfbEF0Qmx5dHRDSUZ1X3RjcW9xYmYzdjIwMW9OZUVrZ2FLR0c5WEdUX1VBcENaNzU4dnNudUJmVWt5ejAyV2RnT1dzeHNZMi1YLXp0N2t5bXRZXzRqMnBDRldmVkdVenZtaVhfeGNTcnV0YTU3Tm1nU3JDTlY2b1R4X2xuaUt1WS1weE9jOTV2UWsxaw?oc=5": 1794121849.679254,
+  "https://theannapurnaexpress.com/story/68608": 1794121849.679254,
+  "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Tel9OZXhUb0JrSXVncjFKWFJ3MFFVY2FkNGlxNzhKN1ZoTkxPQmVzNXh2UG5LUHEzWmRISmxIaTJodjUtb2FtZlIybEVhaExw?oc=5": 1794121849.679254,
+  "https://english.onlinekhabar.com/rangoli-for-tihar-10-attractive-designs-to-brighten-up-your-home.html": 1794121849.679254,
+  "https://www.setopati.com/art/art-activity/402285": 1794121849.679254,
+  "http://english.ratopati.com/story/86056/the-minimum-daily-wage-of-workers-remains-at-rs-1740-and-the-monthly-wage-at-rs-32607": 1794121849.679254,
+  "https://baahrakhari.com/detail/506890": 1794121849.679254,
+  "https://english.onlinekhabar.com/ai-assisted-software-engineering.html": 1794121849.679254,
+  "https://www.setopati.com/politics/402284": 1794121849.679254,
+  "https://baahrakhari.com/detail/506889": 1794121849.679254,
+  "https://english.onlinekhabar.com/nepali-congress-joint-general-secretary-shiwakoti-summoned-by-cyber-bureau.html": 1794121849.679254,
+  "https://www.setopati.com/social/402282": 1794121849.679254,
+  "https://english.onlinekhabar.com/15-arrested-for-gambling-in-dhankuta.html": 1794121849.679254,
+  "https://www.setopati.com/art/art-activity/402281": 1794121849.679254,
+  "https://english.onlinekhabar.com/npl-playoff-race-intensifies.html": 1794121849.679254
  },
  "queue": [
   {
@@ -1531,7 +1556,7 @@
    "cat": "culture",
    "val": 3,
    "teaser": false,
-   "hits": 27
+   "hits": 29
   },
   {
    "title": "आजका लागि तोकियो विदेशी मुद्राको विनिमयदर",
@@ -2695,28 +2720,6 @@
    "hits": 1
   },
   {
-   "title": "New Zealand preliminary vote leaves unclear who will govern",
-   "summary": "The National-led coalition holds 67 seats in a projected 131-seat parliament, just above the majority threshold, but 14 percent of votes remain uncounted and could alter the balance.",
-   "link": "https://kathmandupost.com/world/2026/11/08/new-zealand-preliminary-vote-leaves-unclear-who-will-govern",
-   "source": "Kathmandu Post",
-   "ts": 1794091854.0243504,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "New Zealand preliminary vote leaves unclear who will govern",
-   "en": "New Zealand preliminary vote leaves unclear who will govern",
-   "ne": "New Zealand preliminary vote leaves unclear who will govern",
-   "imp": 1,
-   "tags": [
-    "NewZealand",
-    "Elections"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
    "title": "धान काट्दै",
    "summary": "",
    "link": "https://baahrakhari.com/detail/506874",
@@ -2779,29 +2782,6 @@
     "USA",
     "DonaldTrump",
     "Politics"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Rubio warns top staff against conflicts of interest as Republicans look to 2028",
-   "summary": "US Secretary of State Marco Rubio has moved to tighten control over the State Department, telling senior officials that staff must stay in their lanes and avoid actions that present conflicts of interest, four people...",
-   "link": "https://theannapurnaexpress.com/story/68598",
-   "source": "Annapurna Express",
-   "ts": 1794091854.1914165,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Rubio warns top staff against conflicts of interest as Republicans look to 2028",
-   "en": "Rubio warns top staff against conflicts of interest as Republicans look to 2028",
-   "ne": "Rubio warns top staff against conflicts of interest as Republicans look to 2028",
-   "imp": 1,
-   "tags": [
-    "MarcoRubio",
-    "USA",
-    "RepublicanParty"
    ],
    "cat": "world",
    "val": 3,
@@ -3404,7 +3384,7 @@
    "cat": "society",
    "val": 3,
    "teaser": false,
-   "hits": 3
+   "hits": 4
   },
   {
    "title": "च्याउको मूल्य किलोमै १०५ रुपैयाँ बढ्यो",
@@ -3977,7 +3957,7 @@
    "cat": "society",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "ढकमक्क फूलले ढाकियो धनकुटा",
@@ -4298,7 +4278,7 @@
    "cat": "economy",
    "val": 3,
    "teaser": false,
-   "hits": 3
+   "hits": 4
   },
   {
    "title": "Rinku Thakur turned her fight against child marriage into a mission",
@@ -4370,27 +4350,26 @@
    "hits": 1
   },
   {
-   "title": "श्रमिकको पारिश्रमिक तथा सामाजिक सुरक्षासम्बन्धी कार्यविधि स्वीकृत, श्रम गराउनेले बुझ्ने पर्ने कुरा",
-   "summary": "सरकारले 'सार्वजनिक खरिदमा आबद्ध श्रमिकको पारिश्रमिक तथा सामाजिक सुरक्षासम्बन्धी कार्यविधि, २०८३' स्वीकृत गरेको छ ।...",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/procedures-for-workers-wages-and-social-security-approved-things-to-understand-for-those-hiring-labor-br-28-37.html",
-   "source": "Nagarik News",
+   "title": "Government Issues New Procedures for Worker Welfare in Public Procurement",
+   "summary": "Kathmandu. The government has issued a new procedure to ensure the welfare and social security of workers involved in public...",
+   "link": "http://english.ratopati.com/story/86056/the-minimum-daily-wage-of-workers-remains-at-rs-1740-and-the-monthly-wage-at-rs-32607",
+   "source": "Ratopati EN",
    "ts": 1794118416,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1781249254_kanun.jpg",
-   "lang": "ne",
-   "hl": "श्रमिकको पारिश्रमिक तथा सामाजिक सुरक्षासम्बन्धी कार्यविधि स्वीकृत, श्रम गराउनेले बुझ्ने पर्ने कुरा",
-   "en": "श्रमिकको पारिश्रमिक तथा सामाजिक सुरक्षासम्बन्धी कार्यविधि स्वीकृत, श्रम गराउनेले बुझ्ने पर्ने कुरा",
-   "ne": "श्रमिकको पारिश्रमिक तथा सामाजिक सुरक्षासम्बन्धी कार्यविधि स्वीकृत, श्रम गराउनेले बुझ्ने पर्ने कुरा",
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/purbhadar-bikash-mantrilia_lNTUOC5kbc.png",
+   "lang": "en",
+   "hl": "Government Issues New Procedures for Worker Welfare in Public Procurement",
+   "en": "Government Issues New Procedures for Worker Welfare in Public Procurement",
+   "ne": "Government Issues New Procedures for Worker Welfare in Public Procurement",
    "imp": 3,
    "tags": [
-    "Labor",
-    "SocialSecurity",
-    "श्रम"
+    "WorkerWelfare",
+    "Government"
    ],
    "cat": "economy",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
+   "val": 3,
+   "teaser": false,
+   "hits": 2
   },
   {
    "title": "Over 3,000 tourists visit Sikles in six days",
@@ -4483,20 +4462,321 @@
    "val": 3,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "EU Inclusion Run 2026 concludes with around 400 participants",
+   "summary": "Kathmandu, November 8 Around 400 people, including persons with disabilities, took part in the European Union Inclusion Run, held at Narayan Chaur, Naxal on Saturday. Organised by the Delegation of the European Union to...",
+   "link": "https://english.onlinekhabar.com/eu-inclusion-run-2026-concluds.html",
+   "source": "Onlinekhabar EN",
+   "ts": 1794121738,
+   "weight": 3,
+   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/11/MELTDOWN_EU_INCLUSION_RUN20261106_1551-1024x683.jpg",
+   "lang": "en",
+   "hl": "EU Inclusion Run 2026 concludes with around 400 participants",
+   "en": "EU Inclusion Run 2026 concludes with around 400 participants",
+   "ne": "EU Inclusion Run 2026 concludes with around 400 participants",
+   "imp": 2,
+   "tags": [
+    "EUInclusionRun",
+    "Kathmandu"
+   ],
+   "cat": "society",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "One killed, six injured in Bolero jeep accident in Jumla",
+   "summary": "JUMLA: One person was killed and six others injured when a Bolero jeep travelling from Mugu to Jumla met with an accident at Chautha in Kanakasundari Rural Municipality-1 of Jumla district last evening. According to the...",
+   "link": "https://english.khabarhub.com/2026/08/574912/",
+   "source": "Khabarhub EN",
+   "ts": 1794121508,
+   "weight": 2,
+   "img": "https://english.khabarhub.com/wp-content/uploads/2024/10/Khabar-Hub-News_Accident_1200px-630X-px-Final_2021.01.21-Upload-e1748330914908-400x220.webp",
+   "lang": "en",
+   "hl": "One killed, six injured in Bolero jeep accident in Jumla",
+   "en": "One killed, six injured in Bolero jeep accident in Jumla",
+   "ne": "One killed, six injured in Bolero jeep accident in Jumla",
+   "imp": 3,
+   "tags": [
+    "Jumla",
+    "JeepAccident"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "पाँच मिनेटको दूरी पार गर्न ५५ किलोमिटर घुम्नुपर्ने बाध्यता",
+   "summary": "गाउँ नजिकैको नदी पार गर्न पुल नहुँदा पाँच मिनेटमा पुग्न सकिने ठाउँमा जान पनि उनीहरूले ५० देखि ५५ किलोमिटर घुम्नुपर्ने बाध्यता छ। सवारीसाधनमा जाँदासमेत डेढदेखि दुई घण्टा लाग्ने स्थानीय बताउँछन्।",
+   "link": "https://www.setopati.com/social/402286",
+   "source": "Setopati",
+   "ts": 1794121427,
+   "weight": 3,
+   "img": null,
+   "lang": "ne",
+   "hl": "पाँच मिनेटको दूरी पार गर्न ५५ किलोमिटर घुम्नुपर्ने बाध्यता",
+   "en": "पाँच मिनेटको दूरी पार गर्न ५५ किलोमिटर घुम्नुपर्ने बाध्यता",
+   "ne": "पाँच मिनेटको दूरी पार गर्न ५५ किलोमिटर घुम्नुपर्ने बाध्यता",
+   "imp": 2,
+   "tags": [
+    "सडक",
+    "बाध्यता"
+   ],
+   "cat": "society",
+   "val": 1,
+   "teaser": true,
+   "hits": 1
+  },
+  {
+   "title": "Ranbir Kapoor's 'Ramayana' Earns 186.86 Crores Net, 'Jailer 2' Collection Drops",
+   "summary": "Mumbai. Nitesh Tiwari-directed and Ranbir Kapoor-starrer film 'Ramayana' is doing aggressive business at the box office. The film has been...",
+   "link": "http://english.ratopati.com/story/86060/ramayana-aggressive-at-the-box-office-rajinikanths-jailer-2-slows-down",
+   "source": "Ratopati EN",
+   "ts": 1794121283,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/capture_A7tqaIaCky.webp",
+   "lang": "en",
+   "hl": "Ranbir Kapoor's 'Ramayana' Earns 186.86 Crores Net, 'Jailer 2' Collection Drops",
+   "en": "Ranbir Kapoor's 'Ramayana' Earns 186.86 Crores Net, 'Jailer 2' Collection Drops",
+   "ne": "Ranbir Kapoor's 'Ramayana' Earns 186.86 Crores Net, 'Jailer 2' Collection Drops",
+   "imp": 1,
+   "tags": [
+    "RanbirKapoor",
+    "Ramayana"
+   ],
+   "cat": "culture",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "कांग्रेस सहमहामन्त्री शिवाकोटीलाई साइबर ब्युरोले बोलायो",
+   "summary": "",
+   "link": "https://baahrakhari.com/detail/506891",
+   "source": "Baahrakhari",
+   "ts": 1794120000,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "कांग्रेस सहमहामन्त्री शिवाकोटीलाई साइबर ब्युरोले बोलायो",
+   "en": "कांग्रेस सहमहामन्त्री शिवाकोटीलाई साइबर ब्युरोले बोलायो",
+   "ne": "कांग्रेस सहमहामन्त्री शिवाकोटीलाई साइबर ब्युरोले बोलायो",
+   "imp": 3,
+   "tags": [
+    "CyberBureau",
+    "NepaliCongress",
+    "Shiwakoti"
+   ],
+   "cat": "politics",
+   "val": 3,
+   "teaser": false,
+   "hits": 2
+  },
+  {
+   "title": "11:11 Weekend | Birdwatching escapes, finding love in Finland & why Aadhaar won't get you into Nepal or Bhutan",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQTlFDRkdmWExlYVdSOV9kaGp1WjFhbUdSSWZQTG95Mi0wMjJpOXFLeVE3al95bHBMa3FxejlOd19KbGN4MkduOTV3T1BDRlZfc3g5Q1NEcUxhTlhmc3ROWnlNbkROeE5jSjMyLXItMFZhNEphWEhXOGxxU1J6cFl0bzQ4NnZ1c2U3eWFMOXZ6U0c0QVBEazU5bUl6UFhVUEN2dHgyT0oxTnRSd1RxUDkzNENwYm5kS1pyWHp6ZEs2TFVySWRPakdsSTVpRE56d1ZsdlRaOTN6NVd2VndLXzNra1hB0gHnAUFVX3lxTE11S015VEozUjZJTV81Q2x5NnFKbnJjNWpCMlk3Q2J3RzgteEpBUy1aV24wd3ZqM2MxQkMtM1hhcmo0dkRidGNPZlQ4MVhXSDBxbmwwR0hWcFY4YjRfbEF0Qmx5dHRDSUZ1X3RjcW9xYmYzdjIwMW9OZUVrZ2FLR0c5WEdUX1VBcENaNzU4dnNudUJmVWt5ejAyV2RnT1dzeHNZMi1YLXp0N2t5bXRZXzRqMnBDRldmVkdVenZtaVhfeGNTcnV0YTU3Tm1nU3JDTlY2b1R4X2xuaUt1WS1weE9jOTV2UWsxaw?oc=5",
+   "source": "CNBC TV18",
+   "ts": 1794118917,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "11:11 Weekend | Birdwatching escapes, finding love in Finland & why Aadhaar won't get you into Nepal or Bhutan",
+   "en": "11:11 Weekend | Birdwatching escapes, finding love in Finland & why Aadhaar won't get you into Nepal or Bhutan",
+   "ne": "11:11 Weekend | Birdwatching escapes, finding love in Finland & why Aadhaar won't get you into Nepal or Bhutan",
+   "imp": 1,
+   "tags": [
+    "Birdwatching",
+    "Finland"
+   ],
+   "cat": "world",
+   "val": 1,
+   "teaser": true,
+   "hits": 1
+  },
+  {
+   "title": "Gold being traded at Rs 283, 000 per tola on Sunday",
+   "summary": "The gold is being traded at Rs 283, 000 per tola in the domestic market on Sunday, according to the Federation of Nepal Gold and Silver Dealers' Association.Similarly, the silver is being traded at Rs 3, 810 per tola.",
+   "link": "https://theannapurnaexpress.com/story/68608",
+   "source": "Annapurna Express",
+   "ts": 1794107450.8843887,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "Gold being traded at Rs 283, 000 per tola on Sunday",
+   "en": "Gold being traded at Rs 283, 000 per tola on Sunday",
+   "ne": "Gold being traded at Rs 283, 000 per tola on Sunday",
+   "imp": 2,
+   "tags": [
+    "GoldPrice",
+    "Market"
+   ],
+   "cat": "economy",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Rangoli for Tihar: 10 attractive designs to brighten up your home",
+   "summary": "A sparkling evening during Tihar. Oil lamps glowing at the entrance, the fragrance of flowers filling the courtyard, and the melodious tunes of Deusi-Bhailo. Amid this festive atmosphere, colourful rangoli designs...",
+   "link": "https://english.onlinekhabar.com/rangoli-for-tihar-10-attractive-designs-to-brighten-up-your-home.html",
+   "source": "Onlinekhabar EN",
+   "ts": 1794121655,
+   "weight": 3,
+   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/11/rangoli.jpg",
+   "lang": "en",
+   "hl": "Rangoli for Tihar: 10 attractive designs to brighten up your home",
+   "en": "Rangoli for Tihar: 10 attractive designs to brighten up your home",
+   "ne": "Rangoli for Tihar: 10 attractive designs to brighten up your home",
+   "imp": 1,
+   "tags": [
+    "Tihar",
+    "Rangoli"
+   ],
+   "cat": "culture",
+   "val": 1,
+   "teaser": true,
+   "hits": 1
+  },
+  {
+   "title": "'पाँच पाण्डव'का दर्शक भेट्न हल पुग्दा हरिवंशले कस्तो पाए प्रतिक्रिया?",
+   "summary": "हलमा दर्शकसँग प्रत्यक्ष भेटघाट गरेका हरिवंशले फिल्म हेर्ने अधिकांश दर्शकले सकारात्मक प्रतिक्रिया दिएको बताए।",
+   "link": "https://www.setopati.com/art/art-activity/402285",
+   "source": "Setopati",
+   "ts": 1794121200,
+   "weight": 3,
+   "img": null,
+   "lang": "ne",
+   "hl": "'पाँच पाण्डव'का दर्शक भेट्न हल पुग्दा हरिवंशले कस्तो पाए प्रतिक्रिया?",
+   "en": "'पाँच पाण्डव'का दर्शक भेट्न हल पुग्दा हरिवंशले कस्तो पाए प्रतिक्रिया?",
+   "ne": "'पाँच पाण्डव'का दर्शक भेट्न हल पुग्दा हरिवंशले कस्तो पाए प्रतिक्रिया?",
+   "imp": 1,
+   "tags": [
+    "HaribanshaAcharya",
+    "Movie"
+   ],
+   "cat": "culture",
+   "val": 1,
+   "teaser": true,
+   "hits": 1
+  },
+  {
+   "title": "लक्ष्मीपूजामा दुई हजार मेगावाटसम्म विद्युत् माग हुने अनुमान",
+   "summary": "",
+   "link": "https://baahrakhari.com/detail/506890",
+   "source": "Baahrakhari",
+   "ts": 1794119685,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "लक्ष्मीपूजामा दुई हजार मेगावाटसम्म विद्युत् माग हुने अनुमान",
+   "en": "लक्ष्मीपूजामा दुई हजार मेगावाटसम्म विद्युत् माग हुने अनुमान",
+   "ne": "लक्ष्मीपूजामा दुई हजार मेगावाटसम्म विद्युत् माग हुने अनुमान",
+   "imp": 2,
+   "tags": [
+    "Electricity",
+    "LaxmiPuja",
+    "Tihar"
+   ],
+   "cat": "economy",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Youth in Birgunj build working tech solutions in intensive AI-Assisted Software Engineering Bootcamp",
+   "summary": "Kathmandu, November 8 Leapfrog Connect has concluded an intensive training program titled \"AI-Assisted Software Engineering Training,\" empowering local youth in Birgunj to design, build, and deploy functional software...",
+   "link": "https://english.onlinekhabar.com/ai-assisted-software-engineering.html",
+   "source": "Onlinekhabar EN",
+   "ts": 1794121393,
+   "weight": 3,
+   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/11/DJI_20261105112332_0005_D-1000kb-1024x576.jpg",
+   "lang": "en",
+   "hl": "Youth in Birgunj build working tech solutions in intensive AI-Assisted Software Engineering Bootcamp",
+   "en": "Youth in Birgunj build working tech solutions in intensive AI-Assisted Software Engineering Bootcamp",
+   "ne": "Youth in Birgunj build working tech solutions in intensive AI-Assisted Software Engineering Bootcamp",
+   "imp": 2,
+   "tags": [
+    "Birgunj",
+    "Bootcamp"
+   ],
+   "cat": "tech",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "निष्पक्ष अनुसन्धान हुने हो भने जवाफदेही हुनुपर्ने गगन थापा हो कि कुमार बेन?: कांग्रेस महामन्त्री पौडेल",
+   "summary": "नेपाली कांग्रेसका महामन्त्री प्रदीप पौडेलले पार्टी सभापति गगन थापालाई गिरफ्तार गर्न लागिएको भन्ने चर्चाबीच प्रधानमन्त्रीका राजनीतिक सल्लाहकार कुमार बेनमाथि अनुसन्धान हुनुपर्ने बताएका छन्।",
+   "link": "https://www.setopati.com/politics/402284",
+   "source": "Setopati",
+   "ts": 1794120900,
+   "weight": 3,
+   "img": null,
+   "lang": "ne",
+   "hl": "निष्पक्ष अनुसन्धान हुने हो भने जवाफदेही हुनुपर्ने गगन थापा हो कि कुमार बेन?: कांग्रेस महामन्त्री पौडेल",
+   "en": "निष्पक्ष अनुसन्धान हुने हो भने जवाफदेही हुनुपर्ने गगन थापा हो कि कुमार बेन?: कांग्रेस महामन्त्री पौडेल",
+   "ne": "निष्पक्ष अनुसन्धान हुने हो भने जवाफदेही हुनुपर्ने गगन थापा हो कि कुमार बेन?: कांग्रेस महामन्त्री पौडेल",
+   "imp": 3,
+   "tags": [
+    "NepaliCongress",
+    "GaganThapa",
+    "Poudel"
+   ],
+   "cat": "politics",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "15 arrested for gambling in Dhankuta",
+   "summary": "Dhankuta, November 8 Fifteen people have been arrested in Dhankuta on charges of playing kauda, a cowrie-shell gambling game. According to police, they were taken into custody while gambling at a house in Pakhribas...",
+   "link": "https://english.onlinekhabar.com/15-arrested-for-gambling-in-dhankuta.html",
+   "source": "Onlinekhabar EN",
+   "ts": 1794119820,
+   "weight": 3,
+   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/11/kauda-khel-1024x500-1.jpg",
+   "lang": "en",
+   "hl": "15 arrested for gambling in Dhankuta",
+   "en": "15 arrested for gambling in Dhankuta",
+   "ne": "15 arrested for gambling in Dhankuta",
+   "imp": 2,
+   "tags": [
+    "Dhankuta",
+    "Gambling",
+    "Police"
+   ],
+   "cat": "crime",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "'तिरिमिरी झ्याइँ' माघ २८ देखि हलमा आउने",
+   "summary": "समीरको निर्देशनमा बनेको फिल्म आगामी माघ २८ गतेदेखि देशभरका सिनेमाघरमा प्रदर्शनमा आउने भएको हो।",
+   "link": "https://www.setopati.com/art/art-activity/402281",
+   "source": "Setopati",
+   "ts": 1794120180,
+   "weight": 3,
+   "img": null,
+   "lang": "ne",
+   "hl": "'तिरिमिरी झ्याइँ' माघ २८ देखि हलमा आउने",
+   "en": "'तिरिमिरी झ्याइँ' माघ २८ देखि हलमा आउने",
+   "ne": "'तिरिमिरी झ्याइँ' माघ २८ देखि हलमा आउने",
+   "imp": 1,
+   "tags": [
+    "NepaliMovie",
+    "TirimiriJhyai"
+   ],
+   "cat": "culture",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1793515856.3628237,
-   "en": "डोल्पा कारागारबाट सुरूङ खनेर ८ कैदी फरार, छानबिन समिति गठन",
-   "ne": "डोल्पा कारागारबाट सुरूङ खनेर ८ कैदी फरार, छानबिन समिति गठन",
-   "link": "https://www.setopati.com/social/401736",
-   "source": "Setopati",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "crime"
-  },
   {
    "ts": 1793517655.307879,
    "en": "RSP to Select Local-Level Candidates Through 'Candidate Club'",
@@ -7534,8 +7814,8 @@
    "cat": "crime"
   }
  ],
- "updated": 1794120671,
- "pending_since": 1794119468.8259947,
+ "updated": 1794121855,
+ "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
