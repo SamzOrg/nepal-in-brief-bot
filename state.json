@@ -1,8 +1,5 @@
 {
  "seen": {
-  "https://gorkhapatraonline.com/news/228532": 1793959280.0478663,
-  "https://news.google.com/rss/articles/CBMipAFBVV95cUxQU0pLTE1PaWUxa0wzckllNlYxMF9jMzIwR1RrRDU5MEl1d3pKcEk0VnZkUWlpOW5NRG1MYjVhSDJfcjdkaGhlUXVGWV9WdFB2Y3FscXRWWHRKV21YUEk5QVRERXktWUYtZUpmNUd0RG5HZXpLQXZtZ09BMzJzVmZkMWg1WnpnTWZQdm40bUFPVGRTRmstN1NkZ1REeU5WTm9yODRSVg?oc=5": 1793959280.0478663,
-  "https://kathmandupost.com/nepali-diaspora/2026/11/06/explained-after-bhatt-s-testimony-the-mamta-kafle-murder-trial-turns-on-one-question-how-she-died": 1793959280.0478663,
   "https://english.khabarhub.com/2026/06/574712/": 1793960446.2235599,
   "https://www.setopati.com/kinmel/business/402177": 1793960446.2235599,
   "https://gorkhapatraonline.com/news/228534": 1793960446.2235599,
@@ -1461,32 +1458,15 @@
   "https://english.onlinekhabar.com/supreme-court-judicial-failures.html": 1794131450.3085775,
   "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQ2tnd0pVNWtXMHk5YXVteHN2bWRhWWtpT0FUMFhNalZPeVc3amxqdEduLWJCRGxqRFRUZWR6Z3pnYURpYk5JLWdtS1QtWHlWT3hsSVk0czdhNVZKdWtBdDRJcEdReEhSWVJIX3lWZzgxejNIcGpHUFFhVHllaWRsUG5ER0wzLU9ZVF9Yc01TM2N6OExSajJhaHFUTW5NUXpfeU1TdnhFQjgweEoxR2VlWjFLNVQyMGt2OXc?oc=5": 1794132077.9357204,
   "https://english.onlinekhabar.com/road-reopens-in-both-directions-after-landslide-cleared-at-ghoptebhir.html": 1794132077.9357204,
-  "https://baahrakhari.com/detail/506904": 1794132077.9357204
+  "https://baahrakhari.com/detail/506904": 1794132077.9357204,
+  "https://risingnepaldaily.com/news/88521": 1794132648.4148443,
+  "https://english.onlinekhabar.com/24-injured-in-5-7-magnitude-earthquake-in-central-japan.html": 1794132648.4148443,
+  "https://nagariknews.nagariknetwork.com/social-affairs/policeman-dies-after-being-hit-by-tractor-in-nawalpur-60-88.html": 1794132648.4148443,
+  "https://kathmandupost.com/fashion/2026/11/08/jijivisha-stitched-everest-onto-a-red-carpet-suit-nothing-came-from-paris-milan-or-new-york": 1794132648.4148443,
+  "https://english.khabarhub.com/2026/08/574931/": 1794132648.4148443,
+  "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTzVxVVFWbXRKc3AwQXJzcHFMNnFoSDI2d2g3U3daTjllUnNLRkptRVBtRF8yS1dUNFdoX2k3bUtjVWtFQXFnV2FYY1hab05jN05jNEEwa0Y4UnM0Wjk0QlZaUlBzb1JpcWRIVjl0eVFuZVI1c3BJRkI1aE1CdlY2aHEtUVpCODhGeUJHUWhyZnhXLVVSLVFTN05aNklQTEZyblRta1EyWjBMTGFu0gGyAUFVX3lxTE9TdkNSVmk0c2FaeWNaSGwtem80NVVUZWhXYnUyenhxRlotLTNNQ2NUZHdpYXREOWVha2szd005Uk4xaWltSi1TRURaSFZkOTFrbk9JSzNEZjJ1SXozdVJ4b240NlczT0tyLXhZMWc3aU0xMEladHdudm04Q1ZMTWdOeURVdUxpQzRUWmtxaGl6eWdaTXU4ZFktQlpTS3hHUHNvN0xQblBqSGNYellWOTBaQ2c?oc=5": 1794132648.4148443
  },
  "queue": [
-  {
-   "title": "The Evolutionary Journey of Dogs From Wolves to Companions",
-   "summary": "Domesticated dogs (Canis lupus familiaris) hold a unique place in human history as our oldest animal companions. Unlike other pets...",
-   "link": "http://english.ratopati.com/story/86029/this-is-the-history-of-dog-breeding-how-did-it-become-mans-best-friend",
-   "source": "Ratopati EN",
-   "ts": 1794103480,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/dog-story_CJugR3hnXw.jpg",
-   "lang": "en",
-   "hl": "The Evolutionary Journey of Dogs From Wolves to Companions",
-   "en": "The Evolutionary Journey of Dogs From Wolves to Companions",
-   "ne": "The Evolutionary Journey of Dogs From Wolves to Companions",
-   "imp": 1,
-   "tags": [
-    "Dogs",
-    "Evolution",
-    "Pets"
-   ],
-   "cat": "society",
-   "val": 2,
-   "teaser": false,
-   "hits": 3
-  },
   {
    "title": "Nepal Must Follow Balanced Diplomacy",
    "summary": "",
@@ -3180,7 +3160,7 @@
    "cat": "disaster",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "पाँच मिनेटको दूरी पार गर्न ५५ किलोमिटर घुम्नुपर्ने बाध्यता",
@@ -4041,7 +4021,7 @@
    "cat": "world",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "कला प्रदर्शन",
@@ -4202,7 +4182,7 @@
    "cat": "culture",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "आजका तस्बिर- कात्तिक २२",
@@ -4502,21 +4482,33 @@
    "cat": "crime",
    "val": 3,
    "teaser": false,
+   "hits": 2
+  },
+  {
+   "title": "'It stood like a serpent right there staring at us': American who survived deadly Nepal flood tells her story",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTzVxVVFWbXRKc3AwQXJzcHFMNnFoSDI2d2g3U3daTjllUnNLRkptRVBtRF8yS1dUNFdoX2k3bUtjVWtFQXFnV2FYY1hab05jN05jNEEwa0Y4UnM0Wjk0QlZaUlBzb1JpcWRIVjl0eVFuZVI1c3BJRkI1aE1CdlY2aHEtUVpCODhGeUJHUWhyZnhXLVVSLVFTN05aNklQTEZyblRta1EyWjBMTGFu0gGyAUFVX3lxTE9TdkNSVmk0c2FaeWNaSGwtem80NVVUZWhXYnUyenhxRlotLTNNQ2NUZHdpYXREOWVha2szd005Uk4xaWltSi1TRURaSFZkOTFrbk9JSzNEZjJ1SXozdVJ4b240NlczT0tyLXhZMWc3aU0xMEladHdudm04Q1ZMTWdOeURVdUxpQzRUWmtxaGl6eWdaTXU4ZFktQlpTS3hHUHNvN0xQblBqSGNYellWOTBaQ2c?oc=5",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "ts": 1794128379,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "'It stood like a serpent right there staring at us': American who survived deadly Nepal flood tells her story",
+   "en": "'It stood like a serpent right there staring at us': American who survived deadly Nepal flood tells her story",
+   "ne": "'It stood like a serpent right there staring at us': American who survived deadly Nepal flood tells her story",
+   "imp": 3,
+   "tags": [
+    "NepalFlood",
+    "Tourist",
+    "बाढी"
+   ],
+   "cat": "disaster",
+   "val": 2,
+   "teaser": false,
    "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1793527289.248687,
-   "en": "धादिङको मझिमटारमा सोमबार तीन घण्टा पृथ्वी राजमार्ग बन्द हुने",
-   "ne": "धादिङको मझिमटारमा सोमबार तीन घण्टा पृथ्वी राजमार्ग बन्द हुने",
-   "link": "https://baahrakhari.com/detail/506263",
-   "source": "Baahrakhari",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "society"
-  },
   {
    "ts": 1793529073.9962225,
    "en": "Sikta Irrigation Project Reaches 51 Percent Progress and Collects Data on Water Users",
@@ -7541,9 +7533,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "disaster"
+  },
+  {
+   "ts": 1794132655.0072541,
+   "en": "Police constable killed in Nawalpur tractor-motorcycle collision",
+   "ne": "Police constable killed in Nawalpur tractor-motorcycle collision",
+   "link": "https://english.khabarhub.com/2026/08/574931/",
+   "source": "Khabarhub EN",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "crime"
   }
  ],
- "updated": 1794132081,
+ "updated": 1794132668,
  "pending_since": 1794132077.9357204,
  "fb_blocks": [
   1790350880.4125228,
