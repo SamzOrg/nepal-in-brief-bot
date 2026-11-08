@@ -1267,29 +1267,6 @@
  },
  "queue": [
   {
-   "title": "अवैध पटका बेच्ने दुई व्यापारी पक्राउ",
-   "summary": "तिलाचन पाण्डेतम्घास (गुल्मी), कात्तिक २२ गते । गुल्मीमा अवैध पटका बिक्री गर्ने दुई जना ब्यापारीलाई प्रहरीले नियन्त्रणमा लिएको छ । जिल्लाको रेसुंगा नगरपालिका वडा नम्बर ८ खानीगाउँको...",
-   "link": "https://gorkhapatraonline.com/news/228707",
-   "source": "Gorkhapatra",
-   "ts": 1794131228,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/390963/conversions/awadha-pataka-original.jpg",
-   "lang": "ne",
-   "hl": "अवैध पटका बेच्ने दुई व्यापारी पक्राउ",
-   "en": "अवैध पटका बेच्ने दुई व्यापारी पक्राउ",
-   "ne": "अवैध पटका बेच्ने दुई व्यापारी पक्राउ",
-   "imp": 2,
-   "tags": [
-    "Police",
-    "Fireworks",
-    "Crime"
-   ],
-   "cat": "crime",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Flower trade booms in the capital during Tihar",
    "summary": "Kathmandu, November 8 Flower sales have surged in Kathmandu on Sunday, the day of Laxmi Puja, which falls during the five-day Tihar festival. Marigold flowers, which are in the highest demand during Tihar, are being...",
    "link": "https://english.onlinekhabar.com/flower-trade-booms-in-the-capital-during-tihar.html",
@@ -5828,8 +5805,8 @@
    "cat": "culture"
   }
  ],
- "updated": 1794159654,
- "pending_since": null,
+ "updated": 1794160253,
+ "pending_since": 1794160249.4248261,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
