@@ -1,9 +1,5 @@
 {
  "seen": {
-  "https://risingnepaldaily.com/news/88459": 1793952081.4091156,
-  "https://english.onlinekhabar.com/high-altitude-mountain-sickness.html": 1793952081.4091156,
-  "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQWVpa3RHLXZnYzRjSU1qcFZMbWJWelNydVhybVJib3Q2cFpEdFNRY3d1X0FqVi01LTlMRUlIWTBGNWFEU1U3X3pyQ0NGMkc1Y01fLXVfZFdiNXBTbWhEclFaUXE3WWZ2bGgtc1JyVF9FWWJabGc0OE1PRzNJLWRVRnhqRC1iU2lLSHlJNFNUVdIBkwFBVV95cUxNaTZEaTVuVWN4LW0tLUVlSTI4c041aXM0a0RnWmg4R2FTYS1NZ0oycmx0X0xYTmtvejJzVE5PU0tRX2ZEMzZPWXpHd2NLRHFkbEVCWWp6LUNsLUVuSFE2aFRSczBzc1cyRFoyb2FleVhTbE5ld3J3a0lSU3NjQ3hkcmFXc1pBeGNheUI1aHNBalBENzg?oc=5": 1793952081.4091156,
-  "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUDBYaGc4TjA0TUM2NnE5c0NoeVJwV1p0bzBqOEZDOWJnTEFCQVc2RWkzbDBFbmhTN05uNmJYY29Fa3FKelk2OEFMbDdwTHRkSmJITGtZQzJPVzJXRm5zTmduOVUwclIxRUVuaDRGNC1RVGNkR1JuYWZabDlEdUJpc0REZEVSLXk5R3QtVWtiS0YwWUtjTXhTYUY3VVd2bkV4M0YtcFpOTGd2Z2tqNE9PbGoya9IBugFBVV95cUxPa0JQZEVzLVZEd1QyYkJWdVF4bVF1RzdaN2ctcjhxUjJGeUFmSll4WmktZTZhdUxoaGUxb3NUcjE2SVpaRWlYSGNoMTBERU5PLXBzQU5aTUc1OVpBd1Z2ZXZLbUwyVkRDUkpDRVhGX3h5SXRKVUc2WkdzZmVFWHR4SWM2bEt4OF8xVk4tc3dPVjJSdEVaZzc0VmJiM0Z3a3NQb2dCSXR1QXNORno1ZkkwX0R3b2RYVDRNNXc?oc=5": 1793952081.4091156,
   "https://english.onlinekhabar.com/november-16-karkis-writ-petition.html": 1793952644.9072611,
   "http://english.ratopati.com/story/85866/congress-mps-demand-investigation-into-sunkoshi-marine-contract-cancellation-and-pressure-on-employees": 1793952644.9072611,
   "https://baahrakhari.com/detail/506755": 1793952644.9072611,
@@ -1496,7 +1492,9 @@
   "https://english.onlinekhabar.com/nepal-army-organises-special-dog-show-on-kukur-tihar.html": 1794124250.7161102,
   "http://english.ratopati.com/story/86061/ravi-lamichhane-to-visit-janakpurdham-to-celebrate-chhath-festival": 1794124250.7161102,
   "https://nagariknews.nagariknetwork.com/politics/gagan-thapa-extends-best-wishes-on-tihar-nepal-sambat-and-chhath-pledges-to-move-forward-by-uniting-the-congress-51-14.html": 1794124250.7161102,
-  "https://nagariknews.nagariknetwork.com/social-affairs/bangladesh-s-national-revolution-and-unity-day-celebrated-br-91-52.html": 1794124250.7161102
+  "https://nagariknews.nagariknetwork.com/social-affairs/bangladesh-s-national-revolution-and-unity-day-celebrated-br-91-52.html": 1794124250.7161102,
+  "https://baahrakhari.com/detail/506895": 1794124884.2763047,
+  "http://english.ratopati.com/story/86065/7-killed-in-road-accident-in-eastern-afghanistan": 1794124884.2763047
  },
  "queue": [
   {
@@ -3488,7 +3486,7 @@
    "cat": "crime",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "Nepal protests against press freedom violations",
@@ -4602,29 +4600,6 @@
    "hits": 1
   },
   {
-   "title": "एकै घरका पाँच जनामाथि हँसिया प्रहार, सुत्केरीसहित ३ गम्भीर घाइते",
-   "summary": "",
-   "link": "https://www.setopati.com/social/402287",
-   "source": "Setopati",
-   "ts": 1794123900,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "एकै घरका पाँच जनामाथि हँसिया प्रहार, सुत्केरीसहित ३ गम्भीर घाइते",
-   "en": "एकै घरका पाँच जनामाथि हँसिया प्रहार, सुत्केरीसहित ३ गम्भीर घाइते",
-   "ne": "एकै घरका पाँच जनामाथि हँसिया प्रहार, सुत्केरीसहित ३ गम्भीर घाइते",
-   "imp": 4,
-   "tags": [
-    "Crime",
-    "Dailekh",
-    "हँसियाप्रहार"
-   ],
-   "cat": "crime",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "इरानको मिसाइल केन्द्रनजिक नयाँ संरचना निर्माण",
    "summary": "",
    "link": "https://baahrakhari.com/detail/506894",
@@ -4878,28 +4853,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1793519454.9781692,
-   "en": "Nepal plans Rs 7B project to lower 4 glacial lakes and expand flood warnings",
-   "ne": "Nepal plans Rs 7B project to lower 4 glacial lakes and expand flood warnings",
-   "link": "https://english.onlinekhabar.com/govt-plans-to-lower-water-levels-in-four-glacial-lakes-expand-flood-early-warning-systems.html",
-   "source": "Onlinekhabar EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": true,
-   "cat": "disaster"
-  },
-  {
-   "ts": 1793520084.2473173,
-   "en": "एनएमबि बैंकको खुद नाफा २७.११ प्रतिशतले बढेर १.१६ अर्ब रुपैयाँ पुग्यो",
-   "ne": "एनएमबि बैंकको खुद नाफा २७.११ प्रतिशतले बढेर १.१६ अर्ब रुपैयाँ पुग्यो",
-   "link": "https://baahrakhari.com/detail/506237",
-   "source": "Baahrakhari",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "economy"
-  },
   {
    "ts": 1793521866.837628,
    "en": "Nepal and Bhutan propose COP31 agenda item on mountain warming",
@@ -7913,10 +7866,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "politics"
+  },
+  {
+   "ts": 1794124890.3257759,
+   "en": "दैलेखमा छिमेकीको घरमा पसेर हँसिया प्रहार गर्दा सुत्केरीसहित ५ जना घाइते",
+   "ne": "दैलेखमा छिमेकीको घरमा पसेर हँसिया प्रहार गर्दा सुत्केरीसहित ५ जना घाइते",
+   "link": "https://www.setopati.com/social/402287",
+   "source": "Setopati",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "crime"
   }
  ],
- "updated": 1794124256,
- "pending_since": null,
+ "updated": 1794124902,
+ "pending_since": 1794124884.2763047,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
