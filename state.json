@@ -1616,7 +1616,9 @@
   "https://english.khabarhub.com/2026/08/574843/": 1794099046.2961462,
   "https://risingnepaldaily.com/news/88505": 1794099046.2961462,
   "https://risingnepaldaily.com/news/88504": 1794099046.2961462,
-  "https://risingnepaldaily.com/news/88503": 1794099046.2961462
+  "https://risingnepaldaily.com/news/88503": 1794099046.2961462,
+  "https://www.setopati.com/kinmel/banking/402263": 1794099677.8369536,
+  "https://risingnepaldaily.com/news/88515": 1794099677.8369536
  },
  "queue": [
   {
@@ -1683,29 +1685,6 @@
     "PremierLeague"
    ],
    "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Seven Nepalis Deported From U.S. in October, All Men",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZGNPeUt5VXBVUUdOSjV2eGk0WDg2UnRLdlYxLTBsOTdBdWhCMU5BY2U3YUpWeENJVkY2OFc2N21tRDJpeE9qNTVfeXhWcF9TWHVrWlVjWmFMdU4wSEhaQnJ3c245LTlTc2dkU3NlMFFyRS1mVjhQOU05S1dEUlVMbzBXeTJ5akxocmc?oc=5",
-   "source": "NepYork",
-   "ts": 1794070631,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Seven Nepalis Deported From U.S. in October, All Men",
-   "en": "Seven Nepalis Deported From U.S. in October, All Men",
-   "ne": "Seven Nepalis Deported From U.S. in October, All Men",
-   "imp": 2,
-   "tags": [
-    "Deportation",
-    "USA",
-    "Nepali"
-   ],
-   "cat": "society",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -1936,7 +1915,7 @@
    "cat": "economy",
    "val": 3,
    "teaser": false,
-   "hits": 3
+   "hits": 4
   },
   {
    "title": "भरोसायोग्य साथी कुकुर",
@@ -2301,20 +2280,31 @@
    "val": 2,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "Emmanuel and Kelsey win KVR Summit Challenge",
+   "summary": "BY a STAFF REPORTER Kathmandu, Nov. 8: In the latest edition of the KVR Summit Challenge held on Saturday, Emmanuel Gauh...",
+   "link": "https://risingnepaldaily.com/news/88515",
+   "source": "Rising Nepal",
+   "ts": 1794099181,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "Emmanuel and Kelsey win KVR Summit Challenge",
+   "en": "Emmanuel and Kelsey win KVR Summit Challenge",
+   "ne": "Emmanuel and Kelsey win KVR Summit Challenge",
+   "imp": 2,
+   "tags": [
+    "Emmanuel",
+    "KVRSummit"
+   ],
+   "cat": "sports",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1793494256.9457107,
-   "en": "Nepali Congress CWC to discuss police raids on media and parallel convention",
-   "ne": "Nepali Congress CWC to discuss police raids on media and parallel convention",
-   "link": "https://english.khabarhub.com/2026/01/573876/",
-   "source": "Khabarhub EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "politics"
-  },
   {
    "ts": 1793496063.9370074,
    "en": "एनपीएलमा आज जनकपुर बोल्ट्स र पोखरा एभेन्जर्स भिड्दै",
@@ -5374,8 +5364,8 @@
    "cat": "tech"
   }
  ],
- "updated": 1794099072,
- "pending_since": null,
+ "updated": 1794099685,
+ "pending_since": 1794099677.8369536,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
