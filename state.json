@@ -1318,50 +1318,6 @@
  },
  "queue": [
   {
-   "title": "पोल्यान्डको क्राकोमा अन्धाधुन्ध गोली प्रहार, ६ जनाको मृत्यु, १५ घाइते",
-   "summary": "एक व्यक्तिले अन्धाधुन्ध गोली चलाउँदा कम्तीमा ६ जनाको मृत्यु भएको छ भने १५ जना घाइते भएका छन्।",
-   "link": "https://nagariknews.nagariknetwork.com/international/indiscriminate-shooting-in-krakow-poland-6-dead-15-injured-81-13.html",
-   "source": "Nagarik News",
-   "ts": 1794115669,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1794115660_poland.png",
-   "lang": "ne",
-   "hl": "पोल्यान्डको क्राकोमा अन्धाधुन्ध गोली प्रहार, ६ जनाको मृत्यु, १५ घाइते",
-   "en": "पोल्यान्डको क्राकोमा अन्धाधुन्ध गोली प्रहार, ६ जनाको मृत्यु, १५ घाइते",
-   "ne": "पोल्यान्डको क्राकोमा अन्धाधुन्ध गोली प्रहार, ६ जनाको मृत्यु, १५ घाइते",
-   "imp": 1,
-   "tags": [
-    "Poland",
-    "Shooting"
-   ],
-   "cat": "crime",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Woman Dies After Sharp Weapon Attack in Dailekh; Four Others Injured",
-   "summary": "Dailekh. In an incident where a person indiscriminately attacked with a sharp weapon in Dhankot, Thatikandh Rural Municipality-4, Western Dailekh,...",
-   "link": "http://english.ratopati.com/story/86048/killed",
-   "source": "Ratopati EN",
-   "ts": 1794115620,
-   "weight": 2,
-   "img": "https://rpcdn.ratopati.com/media/albums/dailekh_jZy1OvSD6I.jpg",
-   "lang": "en",
-   "hl": "Woman Dies After Sharp Weapon Attack in Dailekh; Four Others Injured",
-   "en": "Woman Dies After Sharp Weapon Attack in Dailekh; Four Others Injured",
-   "ne": "Woman Dies After Sharp Weapon Attack in Dailekh; Four Others Injured",
-   "imp": 2,
-   "tags": [
-    "Dailekh",
-    "Attack"
-   ],
-   "cat": "crime",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
    "title": "Bagmati Province Chief Minister Emphasizes Respect for Women on Laxmi Puja",
    "summary": "Hetauda. Bagmati Province Chief Minister Kiran Thapa Magar has emphasized the need to respect women in homes, families, and society...",
    "link": "http://english.ratopati.com/story/86051/chief-minister-thapa-magar-urges-to-respect-womens-power",
@@ -1383,53 +1339,6 @@
    "val": 2,
    "teaser": false,
    "hits": 2
-  },
-  {
-   "title": "ढकमक्क फूलले ढाकियो धनकुटा",
-   "summary": "पहेँलपुर र सुन्तला रङका फूलले गाउँका पाखा र बारीको सौन्दर्य मात्र बढाएका छैनन्, किसानको आम्दानीको आशा पनि बढाएका छन्।...",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/dhankuta-covered-in-a-profusion-of-flowers-br-98-31.html",
-   "source": "Nagarik News",
-   "ts": 1794115510,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1794115500_dhankuta%20ful%2098.jpg",
-   "lang": "ne",
-   "hl": "ढकमक्क फूलले ढाकियो धनकुटा",
-   "en": "ढकमक्क फूलले ढाकियो धनकुटा",
-   "ne": "ढकमक्क फूलले ढाकियो धनकुटा",
-   "imp": 2,
-   "tags": [
-    "Dhankuta",
-    "Flowers",
-    "Tihar",
-    "फूल"
-   ],
-   "cat": "culture",
-   "val": 1,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "नार्कलाई आन्तरिक स्रोत परिचालनमा सकस, साढे तीन अर्ब निष्क्रिय",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/506884",
-   "source": "Baahrakhari",
-   "ts": 1794115326,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "नार्कलाई आन्तरिक स्रोत परिचालनमा सकस, साढे तीन अर्ब निष्क्रिय",
-   "en": "नार्कलाई आन्तरिक स्रोत परिचालनमा सकस, साढे तीन अर्ब निष्क्रिय",
-   "ne": "नार्कलाई आन्तरिक स्रोत परिचालनमा सकस, साढे तीन अर्ब निष्क्रिय",
-   "imp": 3,
-   "tags": [
-    "NARC",
-    "Agriculture",
-    "Budget"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
   },
   {
    "title": "Leo, deployed in Bhotekoshi flood rescue, named best police canine",
@@ -6909,8 +6818,8 @@
    "cat": "politics"
   }
  ],
- "updated": 1794144054,
- "pending_since": null,
+ "updated": 1794144668,
+ "pending_since": 1794144665.5553818,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
