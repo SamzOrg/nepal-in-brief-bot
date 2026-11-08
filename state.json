@@ -1255,29 +1255,6 @@
  },
  "queue": [
   {
-   "title": "होर्मुजमा फेरि तनाव : तीन तेल ट्यांकरमा क्षति पुगेको इरानको दाबी",
-   "summary": "इरानको इस्लामिक रिभोलुसनरी गार्ड कप्र्स (आईआरजीसी) ले अनुमति बिना जलमार्ग पार गर्न खोजेका जहाजमा यस्तो घटना भएको दाबी गरेको हो।...",
-   "link": "https://nagariknews.nagariknetwork.com/international/tensions-rise-again-in-hormuz-iran-claims-three-oil-tankers-were-damaged-38-87.html",
-   "source": "Nagarik News",
-   "ts": 1794148004,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1778754998_hormuz.jpg",
-   "lang": "ne",
-   "hl": "होर्मुजमा फेरि तनाव : तीन तेल ट्यांकरमा क्षति पुगेको इरानको दाबी",
-   "en": "होर्मुजमा फेरि तनाव : तीन तेल ट्यांकरमा क्षति पुगेको इरानको दाबी",
-   "ne": "होर्मुजमा फेरि तनाव : तीन तेल ट्यांकरमा क्षति पुगेको इरानको दाबी",
-   "imp": 2,
-   "tags": [
-    "Hormuz",
-    "Iran",
-    "OilTanker"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "ट्याक्टरको ठक्करबाट प्रहरी जवानको मृत्यु",
    "summary": "नवलपुर समाचारदातानवलपुर, कात्तिक २२ गते । पूर्वपश्चिम राजमार्ग अन्तर्गत नवलपुरको देवचुलीमा ट्याक्टरको ठक्करबाट मोटरसाइकलमा सवार एक प्रहरी जवानको मृत्यु भएको छ । नारायणघाटबाट कावासो...",
    "link": "https://gorkhapatraonline.com/news/228718",
@@ -1923,17 +1900,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1793571673.60013,
-   "en": "Nepal's commercial banks post Rs 19.14b net profit in Q1, up 45.58%",
-   "ne": "Nepal's commercial banks post Rs 19.14b net profit in Q1, up 45.58%",
-   "link": "https://myrepublica.nagariknetwork.com/news/banks-net-profits-hit-rs-1914-billion-a-4558-percent-rise-due-to-decline-in-36-40.html",
-   "source": "myRepublica",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "economy"
-  },
   {
    "ts": 1793573454.8682492,
    "en": "43 Disasters Across Nepal Injure 13 People With Rs 940,000 Damage",
@@ -4982,7 +4948,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1794176468,
+ "updated": 1794176863,
  "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
