@@ -1255,7 +1255,8 @@
   "https://nagariknews.nagariknetwork.com/politics/yesterday-we-removed-the-darkness-of-electricity-now-we-will-remove-the-darkness-of-corruption-and-unrest-90-81.html": 1794162051.8774974,
   "https://nagariknews.nagariknetwork.com/international/new-party-wins-seven-seats-in-new-zealand-election-as-no-one-wins-majority-74-75.html": 1794162051.8774974,
   "https://nagariknews.nagariknetwork.com/politics/janardan-said-i-freed-the-country-from-years-of-darkness-55-58.html": 1794162051.8774974,
-  "https://news.google.com/rss/articles/CBMickFVX3lxTE1RWGsyNUE0NGZRWE00NG54enNtdng1Tm1GMjBJeDJnTVU2OURhRk1yY0lxZDVBTHVlQ3hDUms5TVotRHU1MXZuZkVvRzFZZUdwSlFIUmR6Sk9pVEFvOFlqRFllcnJFMURTdmRHYy1TZEVidw?oc=5": 1794164480.1436627
+  "https://news.google.com/rss/articles/CBMickFVX3lxTE1RWGsyNUE0NGZRWE00NG54enNtdng1Tm1GMjBJeDJnTVU2OURhRk1yY0lxZDVBTHVlQ3hDUms5TVotRHU1MXZuZkVvRzFZZUdwSlFIUmR6Sk9pVEFvOFlqRFllcnJFMURTdmRHYy1TZEVidw?oc=5": 1794164480.1436627,
+  "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMGhyVjVkVzJFVVl1alNUV2N2QkJ5ZHd3MUtTSXVsM2V6dWNuVENJcF9ic0pkeGtESXpvanh3dUx4Y09UZ2dzX2prTVh0a0liTHg1S2VzeVRmWUJUeG9YTHl3azZOTFBXLWRwTGE4VzZ6X1ZxLVdsZjB0V2R3c21fWDR3elA?oc=5": 1794167449.825066
  },
  "queue": [
   {
@@ -1557,7 +1558,7 @@
    "cat": "culture",
    "val": 3,
    "teaser": false,
-   "hits": 8
+   "hits": 9
   },
   {
    "title": "लक्ष्मीपूजामा उज्यालिएको काठमाडौं",
@@ -2422,29 +2423,6 @@
    ],
    "cat": "economy",
    "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Religious studies class transports students to Nepal through virtual reality",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUTk4cFpJeENiSm1VemJIQm1QVzFJaFNlVWtTd0pST21ObmFNaUdxRXNyNUZHdU5NT19IcldYbFA4V3N5ZnJscDJwcVcxODJycWRoVmZLcGR5N1FMeFZXbzU0dU1ubjZiWWVzOWJzdHZYMlIzd1JuUmN4U1dfVzBBX1BlOC1pMzdtZUQtUHgxRHUzZkNKMGlZbnhXeV9ZU1lSbzdsWEdiUVBzbWw3alY5eHN6Nk1uTmkxejdr?oc=5",
-   "source": "The Daily Tar Heel",
-   "ts": 1794138628,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Religious studies class transports students to Nepal through virtual reality",
-   "en": "Religious studies class transports students to Nepal through virtual reality",
-   "ne": "Religious studies class transports students to Nepal through virtual reality",
-   "imp": 1,
-   "tags": [
-    "VirtualReality",
-    "Nepal",
-    "ReligiousStudies"
-   ],
-   "cat": "education",
-   "val": 3,
    "teaser": false,
    "hits": 1
   },
@@ -5592,8 +5570,8 @@
    "cat": "culture"
   }
  ],
- "updated": 1794166854,
- "pending_since": null,
+ "updated": 1794167454,
+ "pending_since": 1794167449.825066,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
