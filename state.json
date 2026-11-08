@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWWw4alhwZTZaMlMwV0hUM0tldnhvVkZoVHJfU0JmWk5vWVVLZm53N1dickltME5hN3RyaWRfdmZUNXVDTjlvNXh3V1U4NGxONnJrQmtzeFhWVDNPaHgweEdnLVJFeTIwMlByNWYxSE9vdGpjMDVnUTk5cHh3eUtYNnlRRmQ4YXNBM0pmYXRUSTRzOHBoZ3E1N2tKRlE2cmE1N2tnUXFMQjRxWmlFeGJpMy04Wnp0LUEyS0E?oc=5": 1793932265.049651,
   "http://english.ratopati.com/story/85821/who-is-behind-the-threats-targeting-european-flights": 1793932844.2718954,
   "https://baahrakhari.com/detail/506721": 1793932844.2718954,
   "https://risingnepaldaily.com/news/88442": 1793932844.2718954,
@@ -1580,28 +1579,6 @@
  },
  "queue": [
   {
-   "title": "Before his stunning claims, Bhatt told the jury of his harrowing upbringing in Nepal",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNY2d0dFJSd24xZ0Ryc2d5WGJqN2xQZUJTOG1GRFNRdFBZZ2std2J2LXFmdHJGNVJESXNjUG11VWVwVTJ1LUxJUEJFdHpWZGdKQnJyQWpDcjNUSlVZbWdRcDJ4R3JsSnM3eVUybTVoSTMwRGZaX3lWeWVCMkVsZFJ5M1RjVFlOOFB0YlFLOHZSaXJaVTZZQkZTcXAyV1dONnVoM0hJYXVCOUhIXzdINXg4MkFaUGk4QXJfSDVfVEtDQ3VVSWV4cFEwX2wxZEtUcm5MRm1jbm5ocXBBN2dQckRfbHgwZWFmaEQyUWtrTmpJSzJ3VW02cjdfNFFVOTdmek9fWElQTU04SGlBdw?oc=5",
-   "source": "Prince William Times",
-   "ts": 1794075720,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Before his stunning claims, Bhatt told the jury of his harrowing upbringing in Nepal",
-   "en": "Before his stunning claims, Bhatt told the jury of his harrowing upbringing in Nepal",
-   "ne": "Before his stunning claims, Bhatt told the jury of his harrowing upbringing in Nepal",
-   "imp": 1,
-   "tags": [
-    "Nepal",
-    "Court"
-   ],
-   "cat": "world",
-   "val": 1,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Nottingham Forest Defeats Manchester City 3-1 in Premier League",
    "summary": "Kathmandu. In a match held under the English Premier League, Nottingham Forest registered a spectacular 3-1 victory over strong opponent...",
    "link": "http://english.ratopati.com/story/86013/manchester-city-stunned-3-1-by-nottingham-forest",
@@ -2743,17 +2720,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1793499660.4260132,
-   "en": "UN Extends Nepal's LDC Graduation Preparatory Period to November 2029",
-   "ne": "UN Extends Nepal's LDC Graduation Preparatory Period to November 2029",
-   "link": "https://risingnepaldaily.com/news/88276",
-   "source": "Rising Nepal",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "economy"
-  },
   {
    "ts": 1793501456.5383844,
    "en": "चालु आर्थिक वर्षको वैशाखयता सर्पदंशबाट ११३ जनाको मृत्यु, १६४९ जना प्रभावित",
@@ -5813,7 +5779,7 @@
    "cat": "crime"
   }
  ],
- "updated": 1794104468,
+ "updated": 1794105075,
  "pending_since": 1794104448.824426,
  "fb_blocks": [
   1790350880.4125228,
