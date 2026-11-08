@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://theannapurnaexpress.com/story/68560": 1793935871.2797844,
-  "https://theannapurnaexpress.com/story/68559": 1793935871.2797844,
   "https://english.khabarhub.com/2026/06/574665/": 1793936449.8229976,
   "https://news.google.com/rss/articles/CBMixAFBVV95cUxPelJiSnc5SUpvWkJhYnNSX1VhWjBuLVlvdUxKTm1nZmVKVnhkRUNaRHp0R3hQQ2FFallLRFYxTC1uUVVHM2VYdUVXMDc0ODdNZnpJT0ZFckRIY21LWmtVLXVzbWFJbFBzYXBwUXNFWXlIQ1RKRlk5UGlYbzVSVnp5ZjJfd2xoNFotZFEtYms2RENnVnlSMnhCZkFJai1sbkV0cDEzdlhScXVCLWdHQm5lRWIwMVU3MWpHQ28yQ1VoLTlXTDZx?oc=5": 1793936449.8229976,
   "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeld0QnNFRmhXTVNIaUU0b1l5M1BMc25EM3pvZTItRWRidDZERl9BZThad0F6MHZuV0VNOWdScFZxbnk3LTlTSTFWQ284LU5xRV9LUFY1WDBVdTZNRkJ3WFJKWGVEcU5JdlR2cl9Td0hDaHJQWnNlYlpJRE1pSXV3WTVPVHVCNXh3X09iMFVweU9NYldqcVpjMTNFaUtnYkhYRldFaDRoMWJyYjlCbDhQczFWN3BRWEhJT3Q0QzhmUGRyQdIBwgFBVV95cUxPeld0QnNFRmhXTVNIaUU0b1l5M1BMc25EM3pvZTItRWRidDZERl9BZThad0F6MHZuV0VNOWdScFZxbnk3LTlTSTFWQ284LU5xRV9LUFY1WDBVdTZNRkJ3WFJKWGVEcU5JdlR2cl9Td0hDaHJQWnNlYlpJRE1pSXV3WTVPVHVCNXh3X09iMFVweU9NYldqcVpjMTNFaUtnYkhYRldFaDRoMWJyYjlCbDhQczFWN3BRWEhJT3Q0QzhmUGRyQQ?oc=5": 1793936449.8229976,
@@ -1589,32 +1587,11 @@
   "https://nagariknews.nagariknetwork.com/social-affairs/temperatures-continue-to-rise-october-becomes-hottest-ever-44-44.html": 1794108669.0397453,
   "https://gorkhapatraonline.com/news/228686": 1794108669.0397453,
   "https://gorkhapatraonline.com/news/228684": 1794108669.0397453,
-  "https://gorkhapatraonline.com/news/228683": 1794108669.0397453
+  "https://gorkhapatraonline.com/news/228683": 1794108669.0397453,
+  "https://baahrakhari.com/detail/506879": 1794109248.923203,
+  "https://thehimalayantimes.com/nepal/kukur-tihar-being-observed-across-nepal": 1794109248.923203
  },
  "queue": [
-  {
-   "title": "Nottingham Forest Defeats Manchester City 3-1 in Premier League",
-   "summary": "Kathmandu. In a match held under the English Premier League, Nottingham Forest registered a spectacular 3-1 victory over strong opponent...",
-   "link": "http://english.ratopati.com/story/86013/manchester-city-stunned-3-1-by-nottingham-forest",
-   "source": "Ratopati EN",
-   "ts": 1794080160,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/man-city_oGTI9MsNHA.webp",
-   "lang": "en",
-   "hl": "Nottingham Forest Defeats Manchester City 3-1 in Premier League",
-   "en": "Nottingham Forest Defeats Manchester City 3-1 in Premier League",
-   "ne": "Nottingham Forest Defeats Manchester City 3-1 in Premier League",
-   "imp": 1,
-   "tags": [
-    "NottinghamForest",
-    "ManchesterCity",
-    "PremierLeague"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
   {
    "title": "Real Madrid Secures 3-0 Victory Over Valencia in La Liga",
    "summary": "Kathmandu. In a match held under the Spanish La Liga, Real Madrid secured an easy 3-0 goal victory over Valencia.Federico...",
@@ -2274,7 +2251,7 @@
    "cat": "culture",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "Kalopani Pond revived after conservation efforts",
@@ -3627,17 +3604,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1793503869.5659885,
-   "en": "6 Indian Tourists Missing During Trek to Nepal's Shey-Phoksundo Lake Amid Heavy Snowfall",
-   "ne": "6 Indian Tourists Missing During Trek to Nepal's Shey-Phoksundo Lake Amid Heavy Snowfall",
-   "link": "https://www.aninews.in/news/world/asia/6-indian-tourists-go-missing-during-trek-to-deepest-lake-of-nepal-shey-phoksundo20261101084316",
-   "source": "ANI News",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": true,
-   "cat": "disaster"
-  },
   {
    "ts": 1793505053.385623,
    "en": "नागढुंगा सुरुङमार्ग प्रयोग गर्ने सवारीसाधनले आजदेखि शुल्क तिर्नुपर्ने",
@@ -6686,8 +6652,8 @@
    "cat": "society"
   }
  ],
- "updated": 1794108693,
- "pending_since": null,
+ "updated": 1794109252,
+ "pending_since": 1794109248.923203,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
