@@ -1263,7 +1263,8 @@
   "https://baahrakhari.com/detail/506918": 1794154851.7967942,
   "https://baahrakhari.com/detail/506921": 1794155470.0063388,
   "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZTNGYXFJNVBfUEhURW9aQndGNXhBWXU4bHJiUjByczVWdlpGSldULWVmaDF0dWk4ZHJGaHNDRFRxaC1LZXVfVkFZbzVVSjd3SnlSc2pfaWVRWlVFMHR6dGItNHFsWHl6ZDBTbGRJRkYtcjUzLUZEYTNJMDJaMFp0QjVXQ0Y1Vmt5LU0wV0FVZU5wQ1FzNFNLOHU3dUhvN21yWnRJR3pPaDVMSnAy?oc=5": 1794155470.0063388,
-  "https://nagariknews.nagariknetwork.com/social-affairs/prisoner-who-escaped-from-genji-movement-arrested-from-home-52-97.html": 1794156054.7127419
+  "https://nagariknews.nagariknetwork.com/social-affairs/prisoner-who-escaped-from-genji-movement-arrested-from-home-52-97.html": 1794156054.7127419,
+  "http://english.ratopati.com/story/86101/a-woman-died-after-being-hit-by-a-car-in-kathmandu": 1794156647.7607222
  },
  "queue": [
   {
@@ -1377,29 +1378,6 @@
     "Chauri"
    ],
    "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "सुत्केरीको हेलिकोप्टरबाट उद्धार",
-   "summary": "हुम्ला समाचारदाताहुम्ला, कात्तिक २२ गते । तीन दिनदेखी सुत्केरी बेथा लागेकी २० वर्षकी बसन्ती फडेराको आइतबार प्रदेश अस्पताल कालागाउँ सुर्खेत हेलिकोप्टरबाट उद्धार गरिएको छ । बेथा लागे...",
-   "link": "https://gorkhapatraonline.com/news/228702",
-   "source": "Gorkhapatra",
-   "ts": 1794127284,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/390957/conversions/0-original.jpg",
-   "lang": "ne",
-   "hl": "सुत्केरीको हेलिकोप्टरबाट उद्धार",
-   "en": "सुत्केरीको हेलिकोप्टरबाट उद्धार",
-   "ne": "सुत्केरीको हेलिकोप्टरबाट उद्धार",
-   "imp": 3,
-   "tags": [
-    "HelicopterRescue",
-    "Maternity",
-    "उद्धार"
-   ],
-   "cat": "health",
    "val": 3,
    "teaser": false,
    "hits": 2
@@ -2981,6 +2959,29 @@
    ],
    "cat": "world",
    "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Woman Dies in Kathmandu Car-Scooter Collision",
+   "summary": "Kathmandu. A woman has died in a car accident in Kathmandu. A 27-year-old woman riding a scooter died when a...",
+   "link": "http://english.ratopati.com/story/86101/a-woman-died-after-being-hit-by-a-car-in-kathmandu",
+   "source": "Ratopati EN",
+   "ts": 1794156045,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/accident1_0HVVwEUEAJ.jpg",
+   "lang": "en",
+   "hl": "Woman Dies in Kathmandu Car-Scooter Collision",
+   "en": "Woman Dies in Kathmandu Car-Scooter Collision",
+   "ne": "Woman Dies in Kathmandu Car-Scooter Collision",
+   "imp": 4,
+   "tags": [
+    "Kathmandu",
+    "Accident",
+    "RoadSafety"
+   ],
+   "cat": "crime",
+   "val": 3,
    "teaser": false,
    "hits": 1
   }
@@ -6034,7 +6035,7 @@
    "cat": "society"
   }
  ],
- "updated": 1794156071,
+ "updated": 1794156651,
  "pending_since": 1794155470.0063388,
  "fb_blocks": [
   1790350880.4125228,
