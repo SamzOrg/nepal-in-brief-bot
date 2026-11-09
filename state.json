@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://baahrakhari.com/detail/506822": 1794013847.8716884,
-  "http://english.ratopati.com/story/85918/here-are-the-foreign-currency-exchange-rates-for-today": 1794013847.8716884,
   "https://nagariknews.nagariknetwork.com/Dharma-Saskriti/kartik-krishna-trayodashi-celebrate-dhanvantari-s-birthday-and-health-day-25-12.html": 1794014449.909227,
   "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYVU4MGk3NldHUHNnUFFZY1E5MGg3ZnpnOTVuSGdTOFY0c2N0VWJSMThKcC1CVHpXeFdzT2dKNXhBckRrUWZFVWw4THZlVTNfd1U5NnRRcElFS2hVY202LVR4akJpSFB0aktTeXgzcU1lVGF2UHZxdWh5YWZxYVZpVEpvUnNTTDJrX0dJNFVnamNZaW53MFlLZlRSOA?oc=5": 1794014449.909227,
   "https://gorkhapatraonline.com/news/228571": 1794015068.0013928,
@@ -1228,32 +1226,10 @@
   "https://english.khabarhub.com/2026/09/574966/": 1794186082.2706223,
   "https://nagariknews.nagariknetwork.com/social-affairs/cop-31-begins-today-nepal-will-seek-climate-justice-by-showing-reality-br-73-96.html": 1794186082.2706223,
   "https://www.setopati.com/social/402306": 1794186082.2706223,
-  "https://english.khabarhub.com/2026/09/574957/": 1794186082.2706223
+  "https://english.khabarhub.com/2026/09/574957/": 1794186082.2706223,
+  "https://www.setopati.com/social/402314": 1794187248.7962527
  },
  "queue": [
-  {
-   "title": "घट्दै मादलको माग, सङ्कटमा परम्परागत पेसा",
-   "summary": "धनकुटा, कात्तिक २२ गते । तिहार भन्ने बित्तिकै देउसी-भैलो, गीतसङ्गीत र रमाइलोको पर्व भन्ने बुझिन्छ । गाउँघरदेखि सहर बजारसम्म तिहारको उल्लास छाउँदा देउसी-भैलोका भाकासँगै मादलको तालले...",
-   "link": "https://gorkhapatraonline.com/news/228724",
-   "source": "Gorkhapatra",
-   "ts": 1794158172,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/390994/conversions/Image-2026-11-07-at-11.53.28-AM-original.jpg",
-   "lang": "ne",
-   "hl": "घट्दै मादलको माग, सङ्कटमा परम्परागत पेसा",
-   "en": "घट्दै मादलको माग, सङ्कटमा परम्परागत पेसा",
-   "ne": "घट्दै मादलको माग, सङ्कटमा परम्परागत पेसा",
-   "imp": 2,
-   "tags": [
-    "Madal",
-    "Culture",
-    "TraditionalProfession"
-   ],
-   "cat": "culture",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
   {
    "title": "Tag",
    "summary": "",
@@ -1551,6 +1527,30 @@
    "cat": "health",
    "val": 1,
    "teaser": true,
+   "hits": 1
+  },
+  {
+   "title": "घोप्टेभीरमा सुक्खा पहिरो खस्यो, पृथ्वी राजमार्ग दुईतर्फी अवरुद्ध",
+   "summary": "बिहानै पहिरो खसेपछि सडकमा यातायात ठप्प भएको हो।",
+   "link": "https://www.setopati.com/social/402314",
+   "source": "Setopati",
+   "ts": 1794186700,
+   "weight": 3,
+   "img": null,
+   "lang": "ne",
+   "hl": "घोप्टेभीरमा सुक्खा पहिरो खस्यो, पृथ्वी राजमार्ग दुईतर्फी अवरुद्ध",
+   "en": "घोप्टेभीरमा सुक्खा पहिरो खस्यो, पृथ्वी राजमार्ग दुईतर्फी अवरुद्ध",
+   "ne": "घोप्टेभीरमा सुक्खा पहिरो खस्यो, पृथ्वी राजमार्ग दुईतर्फी अवरुद्ध",
+   "imp": 4,
+   "tags": [
+    "Ghoptebhir",
+    "PrithviHighway",
+    "Landslide",
+    "पहिरो"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
    "hits": 1
   }
  ],
@@ -4592,7 +4592,7 @@
    "cat": "culture"
   }
  ],
- "updated": 1794186648,
+ "updated": 1794187252,
  "pending_since": 1794186645.4433348,
  "fb_blocks": [
   1790350880.4125228,
