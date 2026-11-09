@@ -1,8 +1,5 @@
 {
  "seen": {
-  "https://risingnepaldaily.com/news/88501": 1794057048.9518914,
-  "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZzk1cVhfdHoyWGZzeGNqOXpTVkMzTXhUZ3NaTVZUR2VKQVF4TzlMUUtDanBBTmpBa3F6ejY4bkJSVk1XY1RKcmN3WkZOek80WW8tcldaWjZTRjctZEoxbU1ZUV9hU3NlZUEtUUgtX2d6NzFOWXMtVnhHTHZGQ2hCS184WkpVU1M4cHNxWExBRllwN3ZIQkVUTDhoU0J0d0V4UFRxdnN1TEZwaGdhMExlTXJ3?oc=5": 1794057048.9518914,
-  "https://kathmandupost.com/nepali-diaspora/2026/11/07/australian-pm-albanese-dons-dhaka-topi-to-celebrate-nepal-festival-in-sydney": 1794057048.9518914,
   "https://kathmandupost.com/cricket/2026/11/07/warner-sahil-patel-put-on-century-stand-as-kathmandu-set-lumbini-161-run-target": 1794057650.1170123,
   "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdUMtSWNxOW11cldpUk92Y0RQaXl3UDE5WVNqVW1qajN4TE1ia29ZcTNnVlcyZTlHNTFWLW45NTVQRWtuYjVHaXBJckI0Q2VJbW5IVkYxaXg3b0YzVnF3bWpNUUZlWEs1NWdVU2JOckF6VUlZeGY4RlNFQ3ZjLU8yUkhzckwtUUkxbVNZbG16Yw?oc=5": 1794057650.1170123,
   "http://english.ratopati.com/story/85994/i-am-not-a-chief-minister-who-does-stunts-saying-i-will-do-this-and-that-in-fact-i-have-done-more-than-in-the-past": 1794057650.1170123,
@@ -1271,7 +1268,11 @@
   "https://www.ujyaaloonline.com/detail/133341": 1794229284.0187016,
   "http://english.ratopati.com/story/86148/mass-worship-of-over-600-cows": 1794229284.0187016,
   "https://gorkhapatraonline.com/news/228772": 1794229284.0187016,
-  "https://www.setopati.com/sports/npl/402351": 1794229284.0187016
+  "https://www.setopati.com/sports/npl/402351": 1794229284.0187016,
+  "http://english.ratopati.com/story/86156/kathmandu-loses-its-eighth-wicket-kamal-airee-takes-the-second-wicket": 1794229857.6685593,
+  "https://english.khabarhub.com/2026/09/575059/": 1794229857.6685593,
+  "https://news.google.com/rss/articles/CBMiWEFVX3lxTE01VVdGNWhJVFJkS1ZENVROV1JzU0pyR1ZSOWgtZnpyaFNMUUlVOXZxYzJMVDE5RTlEanFjUFJybzl4STRXMEcwREV5Z2xLZTF6Y2FDMWxuekI?oc=5": 1794229857.6685593,
+  "https://theannapurnaexpress.com/story/68641": 1794229857.6685593
  },
  "queue": [
   {
@@ -1364,29 +1365,6 @@
    "hits": 1
   },
   {
-   "title": "Foreign batters dominate run charts as Nepali bowlers top wicket list in NPL",
-   "summary": "Kathmandu, November 9 After 18 matches in the third edition of the Nepal Premier League (NPL), foreign players have made a bigger impact with the bat, while Nepali players have excelled with the ball. Foreigners...",
-   "link": "https://english.onlinekhabar.com/nepali-bowlers-shine-in-npl.html",
-   "source": "Onlinekhabar EN",
-   "ts": 1794200925,
-   "weight": 3,
-   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/11/npl-bat-ball.png",
-   "lang": "en",
-   "hl": "Foreign batters dominate run charts as Nepali bowlers top wicket list in NPL",
-   "en": "Foreign batters dominate run charts as Nepali bowlers top wicket list in NPL",
-   "ne": "Foreign batters dominate run charts as Nepali bowlers top wicket list in NPL",
-   "imp": 3,
-   "tags": [
-    "NPL",
-    "ForeignBatters",
-    "Bowling"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "सर्लाहीको चुरेभेगमा खानेपानीको सँधै दुःख",
    "summary": "जनार्जन खत्रीसर्लाही, कात्तिक २३ गते । सर्लाहीको चुरेवर्ती क्षेत्रका स्थानीय अहिले पनि खानेपानीको चरम समस्या झेल्न बाध्य छन् । चुरेभेगको घारिबथान, परवानीपुर, पत्थरकोट, नारायणखोला,...",
    "link": "https://gorkhapatraonline.com/news/228737",
@@ -1456,29 +1434,6 @@
    "hits": 1
   },
   {
-   "title": "कोप-३१ को उद्घाटनकै दिन नेपालका महत्वपूर्ण कार्यक्रम",
-   "summary": "टर्किए, कात्तिक २३ गते । संयुक्त राष्ट्रसङ्घीय जलवायु परिवर्तनसम्बन्धी महासन्धि (युएनएफसीसीसी) का पक्ष राष्ट्रको ३१औँ सम्मेलन (कोप-३१) आजदेखि सुरु हुँदैछ ।टर्किएको अन्ताल्यामा आगा...",
-   "link": "https://gorkhapatraonline.com/news/228736",
-   "source": "Gorkhapatra",
-   "ts": 1794200665,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/391008/conversions/1-original.jpg",
-   "lang": "ne",
-   "hl": "कोप-३१ को उद्घाटनकै दिन नेपालका महत्वपूर्ण कार्यक्रम",
-   "en": "कोप-३१ को उद्घाटनकै दिन नेपालका महत्वपूर्ण कार्यक्रम",
-   "ne": "कोप-३१ को उद्घाटनकै दिन नेपालका महत्वपूर्ण कार्यक्रम",
-   "imp": 3,
-   "tags": [
-    "COP31",
-    "OpeningDay",
-    "NationalProgram"
-   ],
-   "cat": "politics",
-   "val": 2,
-   "teaser": true,
-   "hits": 1
-  },
-  {
    "title": "त्रिमूर्ति निकेतनमा देवकोटा जयन्ती",
    "summary": "काठमाडौँ , कात्तिक २३ गते । महाकवि लक्ष्मीप्रसाद देवकोटाको ११८औँ जयन्तीका अवसरमा सञ्चारग्रामस्थित त्रिमूर्ति निकेतनमा माल्यार्पण गरिएको छ ।निकेतनका संस्थापक तथा अध्यक्ष इन्दिरा प्र...",
    "link": "https://gorkhapatraonline.com/news/228745",
@@ -1498,28 +1453,6 @@
    ],
    "cat": "culture",
    "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "The dreamer who wants the world to read Nepali literature",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVE5oeTVGUGJsRVo2bEx2TzkxOVJLLWVBTnBra3UtSnNlc1Vwa3k2blY4RUxpMGZtcFI2RmdiSHpuRHZwdkZlZ3JiRnFkTURjQlBPM1hiX1ljcUtzcnR0Q3NrOTRSeVJwRFRFU1BLUEFKTXo2ZG5teWpxMmY1S0QyMjI5QjB6Qk9XNWExanZqWXVkZzZZc1YwRDNn?oc=5",
-   "source": "Global Voices",
-   "ts": 1794200527,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "The dreamer who wants the world to read Nepali literature",
-   "en": "The dreamer who wants the world to read Nepali literature",
-   "ne": "The dreamer who wants the world to read Nepali literature",
-   "imp": 2,
-   "tags": [
-    "NepaliLiterature",
-    "Translation"
-   ],
-   "cat": "culture",
-   "val": 2,
    "teaser": false,
    "hits": 1
   },
@@ -2076,28 +2009,6 @@
    "hits": 4
   },
   {
-   "title": "Madhesh's revolving door of chief ministers turns again",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYkNIM2JzYTNlVkI2Mm5TVzJKTWp3UnhqellobUF6Ul96MnhaSUVnLWc5UFVqX2JnN3JYYVFfQVBvWHZCdU1IekFvbGdKTk5DSEdJRGlYLVZnMlRmakV4Y0QtOFhqbkZDNV9MM3l1ZGJ1MnkyMC1fTlEwM1dINzNKdFFiallZekl2bThhV21xaGc5OEZWek9B?oc=5",
-   "source": "OnlineKhabar English News",
-   "ts": 1794200823,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Madhesh's revolving door of chief ministers turns again",
-   "en": "Madhesh's revolving door of chief ministers turns again",
-   "ne": "Madhesh's revolving door of chief ministers turns again",
-   "imp": 3,
-   "tags": [
-    "Madhesh",
-    "ChiefMinister"
-   ],
-   "cat": "politics",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "कर्णालीविरुद्ध सर्म्राको अर्धशतक",
    "summary": "",
    "link": "https://baahrakhari.com/detail/506957",
@@ -2484,7 +2395,7 @@
    "cat": "crime",
    "val": 3,
    "teaser": false,
-   "hits": 3
+   "hits": 4
   },
   {
    "title": "झापामा लाखौं मूल्यका भारतीय सयपत्री फूल बरामद, स्वदेशी कृषकलाई राहत",
@@ -3111,7 +3022,7 @@
    "cat": "disaster",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "'An emptiness no light can fill': Durban mother marks Diwali without daughter missing after Nepal floods",
@@ -3507,7 +3418,7 @@
    "cat": "sports",
    "val": 3,
    "teaser": false,
-   "hits": 8
+   "hits": 9
   },
   {
    "title": "उद्योगमन्त्री साह र भारतीय राजदूतबिच भेट, यी हुन् छलफलका विषय",
@@ -7843,8 +7754,8 @@
    "cat": "economy"
   }
  ],
- "updated": 1794229292,
- "pending_since": null,
+ "updated": 1794229875,
+ "pending_since": 1794229857.6685593,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
