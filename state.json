@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVFQxVmp2Vk9HQlBmVC1VUmJuaXRENG9ucnlFck9DZW9ZNjFFNXhReTktN1Utb1hpaUVEQUNfZkI3WjhaeGVTc2NteHcxVXd6cnY2YkxVWml4b1NGS3hyMzQtVUVWUGZFMUt2aFhDNW9nSkpiS2xySzMxLW9xZFZNeVFPU2k0TkhST00tT1pPVjVob2F4VnVxQzFBV05WV0ZMYUU4YkM5Q0ZTendETFpNYUhsaEFoODhKRXl5MVdpQ1ZUOEdpTVJGUUtnMVhJQ3l5ZS0tLWJ4cw?oc=5": 1794016247.177757,
   "http://english.ratopati.com/story/85924/bp-highway-jica-begins-reconstruction": 1794016884.4311438,
   "http://english.ratopati.com/story/85922/janakpur-to-be-connected-by-rail-to-indias-religious-city-of-ayodhya": 1794017448.737786,
   "https://www.setopati.com/social/402219": 1794017448.737786,
@@ -1210,7 +1209,11 @@
   "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWG5fN0d1bVBTVVIzVW5wREVLV1hnSmFmZmd0c3AyNmN5bGhGb3NNTFd3bUY0TGlEU0ZBLWRSam9wX0FOb1draDdRYlZ5RXdaMUV0ODc1eHdER0ZlenM5ZVQzeFMzQ2ZJc3lZXzNVckVCQ19qY25MclVKdHotRnlHYVdONmFybUFfQWNyZGotcWhYaGdGMUVPYjJDTE1RTTJDb2R6UDJrZGZzaTRtOU51cWQ1cWU?oc=5": 1794188447.4402795,
   "https://theannapurnaexpress.com/story/68621": 1794188447.4402795,
   "https://kathmandupost.com/national/2026/11/09/nepal-launches-tiktok-campaign-to-promote-tourism-to-global-audiences": 1794188447.4402795,
-  "https://news.google.com/rss/articles/CBMilAFBVV95cUxON0gzbTBxLWdCc292cDdVb1BfS2tOU0ZwclJpYWxvZ2ZobWExSnJjNVl0eXRkQ3pxaEJwc0JpNk9XaWhZODBVV3VSNGtUR2dWaGgxc3owVjJOUzFQdFFCSTdjRTM4dTdIUk1FZzN2bHhfZWJ5RlFlSVhaVnp1UThYR2oxTGVoV19OR1lLSk5pNWpWcTdP?oc=5": 1794188447.4402795
+  "https://news.google.com/rss/articles/CBMilAFBVV95cUxON0gzbTBxLWdCc292cDdVb1BfS2tOU0ZwclJpYWxvZ2ZobWExSnJjNVl0eXRkQ3pxaEJwc0JpNk9XaWhZODBVV3VSNGtUR2dWaGgxc3owVjJOUzFQdFFCSTdjRTM4dTdIUk1FZzN2bHhfZWJ5RlFlSVhaVnp1UThYR2oxTGVoV19OR1lLSk5pNWpWcTdP?oc=5": 1794188447.4402795,
+  "https://english.khabarhub.com/2026/09/574976/": 1794189049.5577397,
+  "https://www.setopati.com/social/402311": 1794189049.5577397,
+  "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRnE0dVpkYlVaSmItS0JxMkhNak52VU5VUHFTdUdXRkdhTUNfYk00VWxiaUl4MDB3M0s2SHloTUdUN3lELUhQTURrdHg3LUc1VFNqMVl2TVJJQXhidzIyNHVPcXJjWVVvR0pRT2c3NFFuM1lLb1RDYmRxYXFFeUpKUFFmM3Q1RUg0TlFGMExXMWRjRG5WZkpVNlpmeUZxMnNjVDFaZ3VEd19CRzhsbXMzUTA4SUlaZw?oc=5": 1794189049.5577397,
+  "https://theannapurnaexpress.com/story/68623": 1794189049.5577397
  },
  "queue": [
   {
@@ -1646,7 +1649,7 @@
    "cat": "society",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Nepal's share market weathers political jitters",
@@ -4721,8 +4724,8 @@
    "cat": "politics"
   }
  ],
- "updated": 1794188463,
- "pending_since": null,
+ "updated": 1794189052,
+ "pending_since": 1794189049.5577397,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
