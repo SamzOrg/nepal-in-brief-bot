@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOR3ZUc3JIQW90TkFaaUtST0doY1psUGNmNGo1SUhpN0lrMEF5cGxsdkxmdkhhd3VZc3Zjd1p0NWtJQlFPNjBpQlpiVzBXQ1VGTTA4NFBQOGc4Nmd4UWdrV1FISHNFSHNaSkJHdmVXa3dVUEVjNGM3Y09NZWtBQWFsZ0FFaHJudVV2S3ZJc181NHhmSWh0STdNaHJaRXpYS0toNzhYcXlBUEk5TWtDZ01sVkYyZGM3SWtCMkJOd0NMZGhFZw?oc=5": 1794025249.5808184,
   "https://www.setopati.com/social/402226": 1794026448.8094893,
   "https://baahrakhari.com/detail/506832": 1794027050.815281,
   "https://english.khabarhub.com/2026/07/574796/": 1794027050.815281,
@@ -1187,7 +1186,9 @@
   "https://nagariknews.nagariknetwork.com/sports/npl-karnali-and-pokhara-and-chitwan-and-kathmandu-to-clash-today-88-92.html": 1794196877.5931242,
   "https://nagariknews.nagariknetwork.com/social-affairs/beekeeping-business-in-crisis-due-to-disease-and-pesticides-br-50-28.html": 1794196877.5931242,
   "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTTNhc2xZbTZJMEZJeDRZZndXb2J5alNlemJGckVNbHBSVmoxYkRJc2tpTkVfUXJ4MGE3NlJWbE1EUmI1REh4YlhfMTNJXzVjcGRYc3VSMml1RUVEWlpiQXhiTmJCQVVKOU01bE1IeERrWXpCVEJXUlhBY0ZPTzI1SldFQ195eV9oMVFFZmRn?oc=5": 1794197452.5359316,
-  "https://baahrakhari.com/detail/506936": 1794198047.495142
+  "https://baahrakhari.com/detail/506936": 1794198047.495142,
+  "https://www.setopati.com/social/402321": 1794198672.3641596,
+  "https://news.google.com/rss/articles/CBMipAFBVV95cUxNd0hVYXlzUTg5cXlTRHhtZzlDZUxyeWhWaGNMOHlwRmRZbnFDQkZHSGNJZjZqSXBpY0xiQTd3UXN3MTQxRGk3TmJiWV9QSUtxcHZCdVZPcXgtb0ItSnJoSTBGMmxLazM4c0hsVTZTWHBid2lFN1h2Z0dkTjFwYldLRlBiaGFOUkQxTUVaWF8xcjA0LXp4WjJnSlR4SmNNb0NDeG5ndw?oc=5": 1794198672.3641596
  },
  "queue": [
   {
@@ -2078,7 +2079,7 @@
    "cat": "disaster",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "पर्यटकीय गन्तव्य मोहरे डाँडाबाट देखियो मनमोहक दृश्य",
@@ -2312,17 +2313,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1793593256.350122,
-   "en": "दाङमा ट्रक र मोटरसाइकल ठोक्किँदा चालकको मृत्यु, दुई घाइते",
-   "ne": "दाङमा ट्रक र मोटरसाइकल ठोक्किँदा चालकको मृत्यु, दुई घाइते",
-   "link": "https://gorkhapatraonline.com/news/228007",
-   "source": "Gorkhapatra",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": true,
-   "cat": "disaster"
-  },
   {
    "ts": 1793593873.4140964,
    "en": "Land subdivision halted in 333 local units in Nepal",
@@ -5371,7 +5361,7 @@
    "cat": "economy"
   }
  ],
- "updated": 1794198053,
+ "updated": 1794198676,
  "pending_since": 1794197452.5359316,
  "fb_blocks": [
   1790350880.4125228,
