@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbnBQM2lFNkFDM1B0TDlLRTEzRjNmTFhTUWZocXpSVGVvZ3hXVVY3SFl6TWNWZTZOZm9wbWNhdnIwVnQxVXRLbVlaSEtHLUZhWWFjTVhMQVlhUlprU3Q0bGF5dWE3YXRrSXJtM1NpVUFmN0x3S3NteEYzNlBRdlpjUzJMU09DUnptVHlwZVZwSG1qY0lWcHBRekpQX3M5T0oydjI4M0pCeXU5Uk1HQjFpTjZYbw?oc=5": 1794045678.7709615,
   "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5JeUdTZ3FzWUdXODJiTkptakx5YUJfWENjcUZNcnE4ejJIUzY4S09zcFFGSFJCNDJuSWNZbElLcjdhWWpCLUdmTkctdHlBZzlCZWJmZ091WlI?oc=5": 1794046250.6898706,
   "https://www.setopati.com/sports/cricket/402241": 1794046853.6387267,
   "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZXZVRXBra3Nkc0o3ZEZzLTA0a0ZTQk9kN1pnWDF0cGxLcjNRUjZHNzJUNHF0VEFGTS1kMjFRVmlUcWtkMGhTbmJseG9nRU9UOFFEU2dsN2FYX05Zb2VFeTdHcXAzSnpOTjljbk01bm1SVE1KYnk3MzdNUzhiVHZScQ?oc=5": 1794047484.592942,
@@ -1222,7 +1221,9 @@
   "http://english.ratopati.com/story/86126/tihar-firecrackers-increase-pollution": 1794217259.8728013,
   "https://baahrakhari.com/detail/506968": 1794217259.8728013,
   "https://www.ujyaaloonline.com/detail/133333": 1794217259.8728013,
-  "https://www.ujyaaloonline.com/detail/133332": 1794217259.8728013
+  "https://www.ujyaaloonline.com/detail/133332": 1794217259.8728013,
+  "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBIOWhwRzBnX2pLZVlzcGIwWEp4dHBRTFVOT21OVE4xRzVPZE9YS1hEMnV5TWVLMGRXcmF2b3FrWVlzT3U1WHJFaWlsREVjRzhuQnlmOWY3ZkY?oc=5": 1794218485.4683933,
+  "https://english.khabarhub.com/2026/09/575035/": 1794218485.4683933
  },
  "queue": [
   {
@@ -1249,29 +1250,6 @@
    "hits": 5
   },
   {
-   "title": "Opinion | Can Nepal cook dal bhat on its own electricity?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSGFEbV9WRlhvUmhmVXdDNFdDdHg5emJRX0ZBeDRmMm9QNm01UVJxNlBTbGUwZm1Xb1RoaFh3MW80eTRXN1puRmNzNmJQR2JQcUJDMEdwMHpHQ0RvUzZrREhNS3dIQWFTeHEwZ2cxcjdvbXlreW9HZnpXM3JvdGNKeUU5Vk5MYXI4RGNrRWd4U3ByaVI4Zmc?oc=5",
-   "source": "The Kathmandu Post",
-   "ts": 1794189212,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Opinion | Can Nepal cook dal bhat on its own electricity?",
-   "en": "Opinion | Can Nepal cook dal bhat on its own electricity?",
-   "ne": "Opinion | Can Nepal cook dal bhat on its own electricity?",
-   "imp": 2,
-   "tags": [
-    "Electricity",
-    "Energy",
-    "Nepal"
-   ],
-   "cat": "economy",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
-  },
-  {
    "title": "केराका बोट, आम्दानीको स्रोत",
    "summary": "मिथिला क्षेत्रमा दीपावली पर्व केराखेती गर्ने किसानका लागि अतिरिक्त आम्दानीको अवसर बनेको छ।",
    "link": "https://nagariknews.nagariknetwork.com/social-affairs/banana-trees-a-source-of-income-br-25-63.html",
@@ -1293,29 +1271,6 @@
    "val": 1,
    "teaser": false,
    "hits": 2
-  },
-  {
-   "title": "Delhi's air quality slips into 'severe' category on Diwali, AQI at 406",
-   "summary": "NEW DELHI: Air quality across the national capital continued to deteriorate, with the Air Quality Index (AQI) slipping into the 'Severe' category in parts of Delhi in the early hours on Monday, according to data shared...",
-   "link": "https://english.khabarhub.com/2026/09/574978/",
-   "source": "Khabarhub EN",
-   "ts": 1794189425,
-   "weight": 2,
-   "img": "https://english.khabarhub.com/wp-content/uploads/2026/11/Delhi-pollution-ANI-400x220.jpg",
-   "lang": "en",
-   "hl": "Delhi's air quality slips into 'severe' category on Diwali, AQI at 406",
-   "en": "Delhi's air quality slips into 'severe' category on Diwali, AQI at 406",
-   "ne": "Delhi's air quality slips into 'severe' category on Diwali, AQI at 406",
-   "imp": 1,
-   "tags": [
-    "Delhi",
-    "AirQuality",
-    "Pollution"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
   },
   {
    "title": "Disease outbreaks, pesticide use push beekeeping business into crisis",
@@ -1612,7 +1567,7 @@
    "cat": "disaster",
    "val": 2,
    "teaser": false,
-   "hits": 5
+   "hits": 6
   },
   {
    "title": "हरिचौर-मल्म पाण्डवखानी सडक : ठेक्काको चार वर्षपछि कालोपत्र तयारी",
@@ -4091,6 +4046,30 @@
    ],
    "cat": "economy",
    "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Two-way traffic resumes on Prithvi Highway after landslide clearance",
+   "summary": "CHITWAN: Two-way vehicular movement has resumed along the Prithvi Highway following the clearance of a dry landslide at Ghoptebhir. Traffic operations resumed at 1:30 pm today after authorities cleared the landslide...",
+   "link": "https://english.khabarhub.com/2026/09/575035/",
+   "source": "Khabarhub EN",
+   "ts": 1794218205,
+   "weight": 2,
+   "img": "https://english.khabarhub.com/wp-content/uploads/2026/11/Prithvi-Highway-400x220.jpg",
+   "lang": "en",
+   "hl": "Two-way traffic resumes on Prithvi Highway after landslide clearance",
+   "en": "Two-way traffic resumes on Prithvi Highway after landslide clearance",
+   "ne": "Two-way traffic resumes on Prithvi Highway after landslide clearance",
+   "imp": 4,
+   "tags": [
+    "PrithviHighway",
+    "Traffic",
+    "Landslide",
+    "पहिरो"
+   ],
+   "cat": "disaster",
+   "val": 3,
    "teaser": false,
    "hits": 1
   }
@@ -7144,7 +7123,7 @@
    "cat": "crime"
   }
  ],
- "updated": 1794217858,
+ "updated": 1794218491,
  "pending_since": 1794217853.373974,
  "fb_blocks": [
   1790350880.4125228,
