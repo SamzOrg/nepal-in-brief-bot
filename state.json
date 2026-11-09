@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://nagariknews.nagariknetwork.com/international/trump-appoints-stephen-miller-as-chief-of-staff-br-57-93.html": 1794043870.21977,
-  "https://nagariknews.nagariknetwork.com/politics/foreign-minister-khanal-leaves-for-turkey-to-participate-in-cop-31-leading-nepali-delegation-br-27-59.html": 1794043870.21977,
   "https://www.setopati.com/politics/402239": 1794044447.964827,
   "https://gorkhapatraonline.com/news/228627": 1794044447.964827,
   "https://risingnepaldaily.com/news/88500": 1794044447.964827,
@@ -1235,7 +1233,9 @@
   "https://english.khabarhub.com/2026/09/575029/": 1794216667.1107872,
   "https://gorkhapatraonline.com/news/228764": 1794216667.1107872,
   "https://www.ujyaaloonline.com/detail/133336": 1794216667.1107872,
-  "https://theannapurnaexpress.com/story/68633": 1794216667.1107872
+  "https://theannapurnaexpress.com/story/68633": 1794216667.1107872,
+  "https://baahrakhari.com/detail/506971": 1794217226.966122,
+  "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNmlmLTJITUNEQ2d6UHpxaExlZWRkekRyQ3hVcFJXXzl5anN3ZEJMZ3EtNmxYbFMxZjA3bHE5bUlmeERzUXF2NGM0OS1Zekd2c3hhVC12Sld2Y3ZZUFlTNHZvQ3JVb2lQMmpxX04wVnNid2FzTWp1M1l1eEZuY1phUXdwalNsVzZfZWJubzlnS1lLY0t4aVExUVNQbEx1eHF2UHBXTW9EWHd1b0NnbmYxRXlMOFJXbVA4bUF5dEFfNmVJaGhkeXhmdUdPeUxDUQ?oc=5": 1794217226.966122
  },
  "queue": [
   {
@@ -1970,7 +1970,7 @@
    "cat": "disaster",
    "val": 3,
    "teaser": false,
-   "hits": 4
+   "hits": 5
   },
   {
    "title": "हराउँदै ढिकी र काठका ओखल",
@@ -2728,29 +2728,6 @@
    "hits": 2
   },
   {
-   "title": "Elderly Man Dies After Bus Collision in Kapilvastu",
-   "summary": "Kapilvastu. A local 77-year-old Lakhan Ahir died after being hit by a bus in Bargada, Maharajganj Municipality-3, Kapilvastu.The bus, Lu...",
-   "link": "http://english.ratopati.com/story/86109/77-year-old-man-dies-after-being-hit-by-bus-in-kapilvastu",
-   "source": "Ratopati EN",
-   "ts": 1794206992,
-   "weight": 2,
-   "img": "https://rpcdn.ratopati.com/media/albums/kapilbastu_hpUAuzFK1J.jpg",
-   "lang": "en",
-   "hl": "Elderly Man Dies After Bus Collision in Kapilvastu",
-   "en": "Elderly Man Dies After Bus Collision in Kapilvastu",
-   "ne": "Elderly Man Dies After Bus Collision in Kapilvastu",
-   "imp": 3,
-   "tags": [
-    "Kapilvastu",
-    "Accident",
-    "RoadSafety"
-   ],
-   "cat": "crime",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
    "title": "पोखराले गर्‍यो तीन र कर्णालीले दुई खेलाडी परिवर्तन",
    "summary": "नेपाल प्रिमियर लिग (एनपीएल) अन्तर्गत आजको पहिलो खेलमा पोखरा एभेन्जर्स र कर्णाली याक्सले टोलीमा परिवर्तन गरेका छन्।",
    "link": "https://www.setopati.com/sports/npl/402329",
@@ -3092,7 +3069,7 @@
    "cat": "culture",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "Madhesh's revolving door of chief ministers turns again",
@@ -3962,17 +3939,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1793611938.6358337,
-   "en": "Nepal Jailbreak and Blast Near Jogbani Border Put Indian Agencies on Alert",
-   "ne": "Nepal Jailbreak and Blast Near Jogbani Border Put Indian Agencies on Alert",
-   "link": "https://www.etvbharat.com/en/bharat/nepal-jailbreak-suspected-bomb-blast-near-jogbani-border-put-indian-security-agencies-on-alert-enn26110202776",
-   "source": "ETV Bharat",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "world"
-  },
   {
    "ts": 1793613699.6439714,
    "en": "Three people found dead in Khotang, Dhanusha and Kailali districts",
@@ -7008,9 +6974,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "disaster"
+  },
+  {
+   "ts": 1794217232.0912745,
+   "en": "77-Year-Old Man Dies After Bus Collision in Kapilvastu",
+   "ne": "77-Year-Old Man Dies After Bus Collision in Kapilvastu",
+   "link": "http://english.ratopati.com/story/86109/77-year-old-man-dies-after-being-hit-by-bus-in-kapilvastu",
+   "source": "Ratopati EN",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "crime"
   }
  ],
- "updated": 1794216669,
+ "updated": 1794217244,
  "pending_since": 1794215449.5440938,
  "fb_blocks": [
   1790350880.4125228,
