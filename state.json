@@ -1216,7 +1216,11 @@
   "https://gorkhapatraonline.com/news/228755": 1794211281.5483425,
   "https://baahrakhari.com/detail/506960": 1794211281.5483425,
   "http://english.ratopati.com/story/86115/3-killed-in-motorcycle-accident-in-nuwakot": 1794211281.5483425,
-  "https://nagariknews.nagariknetwork.com/sports/yuvraj-samra-s-explosive-half-century-gives-pokhara-a-strong-start-13-86.html": 1794211281.5483425
+  "https://nagariknews.nagariknetwork.com/sports/yuvraj-samra-s-explosive-half-century-gives-pokhara-a-strong-start-13-86.html": 1794211281.5483425,
+  "https://baahrakhari.com/detail/506962": 1794211848.9233775,
+  "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWlRoLVYybno1UVh2bWdGWnFSUDdZcmE1MGI1LVl5LVkza2VtdU0zbjJ6bmlzTGZmTEViTnhVUUI4MmNDcGZxb1NGY1MyWUY3YVdUcWVkb2kxZ0dfTG1fTnpiXzhWYWhpamdTczVkYTFhdW9NeEdnQjZud2RUT0h1X0lZNTNGWFVXdDJ2ME8xb2x6d1g0R0dTM2xWendrXzItbm1nQWxoU0tLamFRYkxtOGMwUjJTR3dvN3c?oc=5": 1794211848.9233775,
+  "http://english.ratopati.com/story/86116/yuvraj-samra-scores-first-century-of-npls-third-edition": 1794211848.9233775,
+  "https://english.onlinekhabar.com/14-killed-more-than-30-injured-in-fire-at-apartment-building-in-china.html": 1794211848.9233775
  },
  "queue": [
   {
@@ -1287,29 +1291,6 @@
    "val": 2,
    "teaser": false,
    "hits": 2
-  },
-  {
-   "title": "Woman buys a ₹40,000 pillow for better sleep: Dogs worshipped during Diwali in Nepal | Top 5 interesting stories",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcmhpdGlGTmhCMEZwMkZPa2ZqSXlyd3U3dWRtdUJ1RkpRdkd3dElxek1WbFBaZVdBWHdYRE81VVhnTUV1b3BSN0gwOGI2SndWb0dfUnJaSHdTbkhsZmlpVkk0cTQ3RHFaVDQwOWpiU3U2eVVjVzFzSl85bWxnQnY3OVphVFdTYmZjREVSSnZVOWVpa1lrUUxyYk9Pb0VYUUxoZE54SmVEVjhxRktrbUJTd1RkQ3ZtdlNVbG04R3BubnhlYWRRYUE?oc=5",
-   "source": "Bhaskar English",
-   "ts": 1794182681,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Woman buys a ₹40,000 pillow for better sleep: Dogs worshipped during Diwali in Nepal | Top 5 interesting stories",
-   "en": "Woman buys a ₹40,000 pillow for better sleep: Dogs worshipped during Diwali in Nepal | Top 5 interesting stories",
-   "ne": "Woman buys a ₹40,000 pillow for better sleep: Dogs worshipped during Diwali in Nepal | Top 5 interesting stories",
-   "imp": 1,
-   "tags": [
-    "Diwali",
-    "Tihar",
-    "Lifestyle"
-   ],
-   "cat": "world",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
   },
   {
    "title": "सुर्खेतमा जुवा खेलिरहेका आठजना पक्राउ",
@@ -2867,29 +2848,6 @@
    "hits": 1
   },
   {
-   "title": "Two ordinances sent to President's Office for approval",
-   "summary": "Kathmandu, November 9 The government has decided to introduce two ordinances, both of which have been sent to the President's Office for approval. A Cabinet meeting on November 3 decided to introduce an ordinance...",
-   "link": "https://english.onlinekhabar.com/ordinances-presidents-office.html",
-   "source": "Onlinekhabar EN",
-   "ts": 1794207510,
-   "weight": 3,
-   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/04/Ramchandra-paudel-rastrapati-1024x500-1.jpg",
-   "lang": "en",
-   "hl": "Two ordinances sent to President's Office for approval",
-   "en": "Two ordinances sent to President's Office for approval",
-   "ne": "Two ordinances sent to President's Office for approval",
-   "imp": 4,
-   "tags": [
-    "PresidentOffice",
-    "Ordinance",
-    "RamChandraPaudel"
-   ],
-   "cat": "politics",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Bhairav Dance: Arghakhanchi's Unique Cultural Heritage",
    "summary": "Arghakhanchi. Bhairav dance, connected with the religious faith, cultural identity, and generations-old tradition of the Newar community, is established as...",
    "link": "http://english.ratopati.com/story/86110/the-original-bhairav-dance-of-arghakhanchi-alive-for-generations",
@@ -3526,7 +3484,7 @@
    "cat": "sports",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "तिहारले आपसी सद्भाव र समृद्धिको भावना अभिवृद्धि गर्छ : राष्ट्रपति पौडेल",
@@ -3704,20 +3662,32 @@
    "val": 3,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "14 killed, more than 30 injured in fire at apartment building in China",
+   "summary": "Beijing, November 9 At least 14 people have died and more than 30 others have been injured after a fire broke out at a high-rise building in Taiyuan, the capital of China's northern Shanxi province, on Sunday evening....",
+   "link": "https://english.onlinekhabar.com/14-killed-more-than-30-injured-in-fire-at-apartment-building-in-china.html",
+   "source": "Onlinekhabar EN",
+   "ts": 1794211429,
+   "weight": 3,
+   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/11/china-1024x500-1.png",
+   "lang": "en",
+   "hl": "14 killed, more than 30 injured in fire at apartment building in China",
+   "en": "14 killed, more than 30 injured in fire at apartment building in China",
+   "ne": "14 killed, more than 30 injured in fire at apartment building in China",
+   "imp": 1,
+   "tags": [
+    "China",
+    "Fire",
+    "Apartment"
+   ],
+   "cat": "world",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1793606491.972893,
-   "en": "Five Arrested in Dharan with 210kg of Marijuana",
-   "ne": "Five Arrested in Dharan with 210kg of Marijuana",
-   "link": "http://english.ratopati.com/story/85394/five-arrested-while-loading-marijuana-into-scorpio-two-rounds-of-air-fire",
-   "source": "Ratopati EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "crime"
-  },
   {
    "ts": 1793608274.1356027,
    "en": "Nepali Congress to demand early convening of federal parliament",
@@ -6753,9 +6723,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "disaster"
+  },
+  {
+   "ts": 1794211857.6834233,
+   "en": "Nepal sends two new ordinances to President's Office for approval",
+   "ne": "Nepal sends two new ordinances to President's Office for approval",
+   "link": "https://english.onlinekhabar.com/ordinances-presidents-office.html",
+   "source": "Onlinekhabar EN",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "politics"
   }
  ],
- "updated": 1794211287,
+ "updated": 1794211873,
  "pending_since": 1794210651.21682,
  "fb_blocks": [
   1790350880.4125228,
