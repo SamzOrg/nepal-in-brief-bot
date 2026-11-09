@@ -1,26 +1,5 @@
 {
  "seen": {
-  "https://gorkhapatraonline.com/news/228602": 1794022269.0910983,
-  "https://baahrakhari.com/detail/506825": 1794022269.0910983,
-  "https://nagariknews.nagariknetwork.com/sports/kathmandu-and-lumbini-clash-in-npl-today-52-35.html": 1794022269.0910983,
-  "https://www.setopati.com/social/402223": 1794022269.0910983,
-  "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcEI1SE9UZlBIVjZxYU5iZEx2SzRVZkNDT2pjdEtVQnFIRnhDNnUzX3FNZnBRMzhRdXFzUHFoMmFzRFVwU24wVWFwMFNYU3pnSGRtdkRYUUhER1hmcUFSZ2xQSzVXbEVoOFNfd2F0T0hfWlZwVllNU3BnbFBGd2hHR1lsMDVLUm1xMmtqTU8tcHVnaEJjM3J2bVhwQ01wM0xZNDY3U1JBMGlIeVBqc21BYzBzVmhGU0NG?oc=5": 1794022269.0910983,
-  "https://english.khabarhub.com/2026/07/574790/": 1794022269.0910983,
-  "https://news.google.com/rss/articles/CBMingFBVV95cUxPWkNUa0tMVHotc2szMkJDU01pWGhDa1c2MHl5YzBMeXNHR2N2eVlqY1FCaWloYXRwc0JIOEpkY21wTjZyOFBtU0J5bVdaOGpfMmhZRlNtVlBHTjl0d0plck5nOHVkY2ZMYmc2RVZJQ0lmNDRhNFlKa0pQLWNBMlBudllRRnZFM3VwRGd0ZHcwRmlfOXdTR0l1YURoUUxEUQ?oc=5": 1794022269.0910983,
-  "https://gorkhapatraonline.com/news/228601": 1794022269.0910983,
-  "https://nagariknews.nagariknetwork.com/social-affairs/partially-cloudy-conditions-will-prevail-in-the-mountainous-regions-of-gandaki-karnali-and-the-far-west-31-70.html": 1794022269.0910983,
-  "https://www.setopati.com/kinmel/banking/402222": 1794022269.0910983,
-  "https://english.khabarhub.com/2026/07/574788/": 1794022269.0910983,
-  "https://gorkhapatraonline.com/news/228600": 1794022269.0910983,
-  "https://nagariknews.nagariknetwork.com/social-affairs/dhangadhi-making-money-from-stray-cattle-br-76-77.html": 1794022269.0910983,
-  "https://www.setopati.com/blog/402212": 1794022269.0910983,
-  "https://gorkhapatraonline.com/news/228599": 1794022269.0910983,
-  "https://nagariknews.nagariknetwork.com/politics/minister-sita-badi-performs-puja-at-deuti-bajyai-temple-19-10.html": 1794022269.0910983,
-  "https://gorkhapatraonline.com/news/228598": 1794022269.0910983,
-  "https://nagariknews.nagariknetwork.com/politics/hark-sampang-s-demand-property-investigation-should-start-with-mine-and-also-be-done-for-balen-and-sudhan-80-90.html": 1794022269.0910983,
-  "https://gorkhapatraonline.com/news/228597": 1794022269.0910983,
-  "https://gorkhapatraonline.com/news/228596": 1794022269.0910983,
-  "https://gorkhapatraonline.com/news/228595": 1794022269.0910983,
   "https://gorkhapatraonline.com/news/228605": 1794022848.192806,
   "https://www.setopati.com/social/402224": 1794023451.8367622,
   "https://baahrakhari.com/detail/506828": 1794024078.4578693,
@@ -1619,29 +1598,6 @@
    ],
    "cat": "crime",
    "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "मोबाइल पसलमा आगलागी, ७० लाख बराबरको क्षति",
-   "summary": "भरत विकरोल्पा, कात्तिक २३ गते । रोल्पाको सुनिलस्मृति गाउँपालिका -३ रुइनिबाङ बजारस्थित एक मोबाइल पसलमा आगलागी भएको छ । आइतबार बिहान करिब साढे २ बजे विकास गुप्ताले सञ्चालन गर्दैआएको...",
-   "link": "https://gorkhapatraonline.com/news/228726",
-   "source": "Gorkhapatra",
-   "ts": 1794190802,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/390996/conversions/mobile-pasal-original.jpg",
-   "lang": "ne",
-   "hl": "मोबाइल पसलमा आगलागी, ७० लाख बराबरको क्षति",
-   "en": "मोबाइल पसलमा आगलागी, ७० लाख बराबरको क्षति",
-   "ne": "मोबाइल पसलमा आगलागी, ७० लाख बराबरको क्षति",
-   "imp": 3,
-   "tags": [
-    "Fire",
-    "MobileShop",
-    "आगो"
-   ],
-   "cat": "disaster",
-   "val": 3,
    "teaser": false,
    "hits": 1
   },
@@ -5137,9 +5093,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "disaster"
+  },
+  {
+   "ts": 1794195653.6224396,
+   "en": "रोल्पाको मोबाइल पसलमा आगलागी हुँदा ७० लाख क्षति",
+   "ne": "रोल्पाको मोबाइल पसलमा आगलागी हुँदा ७० लाख क्षति",
+   "link": "https://gorkhapatraonline.com/news/228726",
+   "source": "Gorkhapatra",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "disaster"
   }
  ],
- "updated": 1794195074,
+ "updated": 1794195663,
  "pending_since": 1794195067.871442,
  "fb_blocks": [
   1790350880.4125228,
