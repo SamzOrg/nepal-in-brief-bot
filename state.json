@@ -1244,7 +1244,10 @@
   "https://theannapurnaexpress.com/story/68636": 1794225048.7621877,
   "http://english.ratopati.com/story/86138/report-released-on-the-day-cop-31-begins-record-after-record-in-2026-warning-that-2027-will-be-even-hotter": 1794225048.7621877,
   "https://www.setopati.com/art/art-activity/402346": 1794225048.7621877,
-  "https://baahrakhari.com/detail/506988": 1794225684.2781982
+  "https://baahrakhari.com/detail/506988": 1794225684.2781982,
+  "https://nagariknews.nagariknetwork.com/social-affairs/dry-landslide-in-ghattekhola-annapurna-blocks-pokhara-baglung-highway-35-96.html": 1794226249.711735,
+  "http://english.ratopati.com/story/86147/kathmandu-lost-3-wickets": 1794226249.711735,
+  "http://english.ratopati.com/story/86146/dailekh-accident-update-two-injured-people-die-during-treatment": 1794226249.711735
  },
  "queue": [
   {
@@ -1748,29 +1751,6 @@
    "val": 2,
    "teaser": true,
    "hits": 1
-  },
-  {
-   "title": "जुवाखालबाट साढे तीन लाखसहित ८ जना पक्राउ",
-   "summary": "सुर्खेतको वीरेन्द्रनगरमा जुवातास खेलिरहेको अवस्थामा ८ जना पक्राउ परेका छन्। प्रहरीले उनीहरूको साथबाट ३ लाख ७७ हजार ८ सय ५० रुपैयाँ नगदसमेत बरामद गरेको छ।...",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/8-people-arrested-with-rs-3-5-lakh-from-gambling-den-88-63.html",
-   "source": "Nagarik News",
-   "ts": 1794197019,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1760357544_Juwa_Tas.jpg",
-   "lang": "ne",
-   "hl": "जुवाखालबाट साढे तीन लाखसहित ८ जना पक्राउ",
-   "en": "जुवाखालबाट साढे तीन लाखसहित ८ जना पक्राउ",
-   "ne": "जुवाखालबाट साढे तीन लाखसहित ८ जना पक्राउ",
-   "imp": 3,
-   "tags": [
-    "Juvakhal",
-    "Arrest",
-    "ThreeLakh"
-   ],
-   "cat": "crime",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "त्रिमूर्ति निकेतनमा देवकोटा जयन्ती",
@@ -3428,7 +3408,7 @@
    "cat": "disaster",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "'An emptiness no light can fill': Durban mother marks Diwali without daughter missing after Nepal floods",
@@ -3871,7 +3851,7 @@
    "cat": "sports",
    "val": 3,
    "teaser": false,
-   "hits": 3
+   "hits": 4
   },
   {
    "title": "उद्योगमन्त्री साह र भारतीय राजदूतबिच भेट, यी हुन् छलफलका विषय",
@@ -4662,44 +4642,9 @@
    "val": 3,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "सुक्खा पहिरोले पोखरा-बागलुङ सडक अवरुद्ध",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/506988",
-   "source": "Baahrakhari",
-   "ts": 1794225496,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "सुक्खा पहिरोले पोखरा-बागलुङ सडक अवरुद्ध",
-   "en": "सुक्खा पहिरोले पोखरा-बागलुङ सडक अवरुद्ध",
-   "ne": "सुक्खा पहिरोले पोखरा-बागलुङ सडक अवरुद्ध",
-   "imp": 4,
-   "tags": [
-    "Pokhara",
-    "Baglung",
-    "Landslide",
-    "पहिरो"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1793621052.1369534,
-   "en": "Dr. Govinda KC airlifted from Ilam to Kathmandu for further treatment",
-   "ne": "Dr. Govinda KC airlifted from Ilam to Kathmandu for further treatment",
-   "link": "https://english.khabarhub.com/2026/02/574035/",
-   "source": "Khabarhub EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "health"
-  },
   {
    "ts": 1793623262.8477755,
    "en": "Monsoon Disasters Affect 789 Households and Cause 7 Deaths in Myagdi District",
@@ -7735,9 +7680,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "disaster"
+  },
+  {
+   "ts": 1794226257.1969662,
+   "en": "कास्कीको अन्नपूर्ण गाउँपालिका-१, घट्टेखोलामा सुक्खा पहिरोले पोखरा-बागलुङ सडक अवरुद्ध",
+   "ne": "कास्कीको अन्नपूर्ण गाउँपालिका-१, घट्टेखोलामा सुक्खा पहिरोले पोखरा-बागलुङ सडक अवरुद्ध",
+   "link": "https://baahrakhari.com/detail/506988",
+   "source": "Baahrakhari",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": true,
+   "cat": "disaster"
   }
  ],
- "updated": 1794225688,
+ "updated": 1794226269,
  "pending_since": 1794225048.7621877,
  "fb_blocks": [
   1790350880.4125228,
