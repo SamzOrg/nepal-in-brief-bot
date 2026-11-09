@@ -1327,28 +1327,6 @@
    "hits": 2
   },
   {
-   "title": "दाङ उपत्यका",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/506996",
-   "source": "Baahrakhari",
-   "ts": 1794230284,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "दाङ उपत्यका",
-   "en": "दाङ उपत्यका",
-   "ne": "दाङ उपत्यका",
-   "imp": 2,
-   "tags": [
-    "Dang",
-    "दाङ"
-   ],
-   "cat": "other",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
-  },
-  {
    "title": "स्याफ्रुबेँसीमा आवतजावत सहज",
    "summary": "रसुवा, कात्तिक २३ गते । स्याफ्रुबेँसीको काठे पुल निर्माण भएको छ । गत कात्तिक १४ गते भोटेकोशी बाढीले स्याफ्रुबेँसी खोलाको पुल बगाएको थियो । उक्त पुल तीन दिनको निरन्तर प्रयासपछि पुनर...",
    "link": "https://gorkhapatraonline.com/news/228777",
@@ -1508,29 +1486,6 @@
    "val": 1,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "Street dramas promote safe motherhood in Humla",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZnNNZGtDQ3NXVDJGYUNBWmhOUl9pMWpxUXpmTVBZV1lUX3pQQmlIYzhCdWhFc1FMZExjd00xTEtIVzFIQzFzZXlOZjd6RWp3MmZHRnRFUl9kbm9id2VUa2lLa2JpRk9sZXFxcDMyUWVFREtBSkpLeHd4X2V0eTdyNUJxdUxJRjJja3htcGIwbGdTM0daVzRjMEZ1SncyNFRSTmVyZ1dGYjk?oc=5",
-   "source": "myRepublica",
-   "ts": 1794230100,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Street dramas promote safe motherhood in Humla",
-   "en": "Street dramas promote safe motherhood in Humla",
-   "ne": "Street dramas promote safe motherhood in Humla",
-   "imp": 2,
-   "tags": [
-    "Humla",
-    "SafeMotherhood",
-    "StreetDrama"
-   ],
-   "cat": "society",
-   "val": 2,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "39 Dead as Migrant Boat Capsizes Off Senegal Coast",
@@ -1985,29 +1940,6 @@
    "val": 3,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "आईटीयू महासम्मेलनमा नेपालको नेतृत्व गर्दै सञ्चारमन्त्री तिमिल्सिना दोहामा",
-   "summary": "अन्तर्राष्ट्रिय दूरसञ्चार संघ (आईटीयू) को महासम्मेलनमा नेपाली प्रतिनिधिमण्डलको नेतृत्व गर्दै सूचना तथा सञ्चारमन्त्री डा. विक्रम तिमिल्सिना कतारको राजधानी दोहा पुगेका छन्।...",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/communications-minister-timilsina-in-doha-leading-nepal-at-itu-general-assembly-50-69.html",
-   "source": "Nagarik News",
-   "ts": 1794229938,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1794229896_Bikram.jpg",
-   "lang": "ne",
-   "hl": "आईटीयू महासम्मेलनमा नेपालको नेतृत्व गर्दै सञ्चारमन्त्री तिमिल्सिना दोहामा",
-   "en": "आईटीयू महासम्मेलनमा नेपालको नेतृत्व गर्दै सञ्चारमन्त्री तिमिल्सिना दोहामा",
-   "ne": "आईटीयू महासम्मेलनमा नेपालको नेतृत्व गर्दै सञ्चारमन्त्री तिमिल्सिना दोहामा",
-   "imp": 3,
-   "tags": [
-    "ITU",
-    "PrithviSubbaGurung",
-    "Technology"
-   ],
-   "cat": "tech",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "Nepal Premier League: Pokhara Avengers Secure First Win, Kathmandu Gurkhas Top Standings",
@@ -5376,8 +5308,8 @@
    "cat": "disaster"
   }
  ],
- "updated": 1794258653,
- "pending_since": 1794258649.579849,
+ "updated": 1794259250,
+ "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
