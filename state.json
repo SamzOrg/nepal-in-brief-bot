@@ -1,7 +1,5 @@
 {
  "seen": {
-  "http://english.ratopati.com/story/85949/rashtriya-swayamsevak-sangh-rss-mp-chaulagain-seeks-clarification-from-proposed-judge-janak-pandey-regarding-in-laws-land": 1794033647.9169555,
-  "https://nagariknews.nagariknetwork.com/politics/democracy-weakens-if-institutions-from-courts-to-the-press-are-weak-ravi-lamichhane-br-86-50.html": 1794033647.9169555,
   "http://english.ratopati.com/story/85950/the-situation-of-having-to-find-a-lawyer-to-understand-the-verdict-should-end-proposed-judge-pandey": 1794034250.575228,
   "https://nagariknews.nagariknetwork.com/arts/52-lakh-beads-br-15-90.html": 1794034250.575228,
   "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1PU2s2STBlc1ItQ3JaS2NmZ0xGVTI0LVFiWnQ5QjZmUlpVbndkSXMweGtxTk44c3paTDR3ejVqZURhbFB1VXFyOXUwdFRkeWxZdnk2bGR3dHYxdEFJanMzX3NLNWkzV0tk?oc=5": 1794034250.575228,
@@ -1197,32 +1195,11 @@
   "https://gorkhapatraonline.com/news/228746": 1794205248.952317,
   "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9qZ1NjQWtvRHM0bEVtYWYxYldqYUFCRTJJMk10THFBYmU5SlFLMjBMbEM1RjhUNzM0eXhpYmtSN2dxdVdGZkhJenowSGdHeV9pNmFha0M2WXk?oc=5": 1794205248.952317,
   "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeGlyTHdES1h5YmlkRzhielBRVEpCMF9NTkRjZmRhUTFWQ1dTallsVkNKSGlHa1phSlYyZmY5OU1HLUZMcGlCYlJza2o0LXVHZHVTa29lVnlST2FPOExDVXZEdERfZ19fYnRvcUM3VkJNUHJTWkR2Mkg0RDlpUU5IdTM4Umx1MWRwZjMtdS1peHFLVmNXeTN1czczb2xnS2hidmlnZFhySWxWNjhTekljMWVtdWlvR0RqQm42RmN0RXlNSFlNZ29yYXhB?oc=5": 1794205248.952317,
-  "https://english.onlinekhabar.com/bhotekoshi-relief-remains-stalled.html": 1794205871.848821
+  "https://english.onlinekhabar.com/bhotekoshi-relief-remains-stalled.html": 1794205871.848821,
+  "https://nagariknews.nagariknetwork.com/politics/president-poudel-performs-cow-worship-79-43.html": 1794206450.7469249,
+  "https://gorkhapatraonline.com/news/228747": 1794206450.7469249
  },
  "queue": [
-  {
-   "title": "Eurovision Asia 2026: Meet Nepal's Pratik Himal Rai",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUjc4ZFZwczZTeldBTnpVZ2RBOFRYbjJtTWlDeXJXMDBuVWVUQkpiay10ajZCdjk2bzhyQng2X3VwclpqUHdiY3l0U0V4Z1RpMFlTbl9Ecm4yMnB2enI0b2J3UGZBSEItY1Y0REIwcWpWNkljNlRxV3ZGNUJ2cXFkN0JFVlc1OTNkZlp5Yg?oc=5",
-   "source": "Aussievision",
-   "ts": 1794177557,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Eurovision Asia 2026: Meet Nepal's Pratik Himal Rai",
-   "en": "Eurovision Asia 2026: Meet Nepal's Pratik Himal Rai",
-   "ne": "Eurovision Asia 2026: Meet Nepal's Pratik Himal Rai",
-   "imp": 2,
-   "tags": [
-    "EurovisionAsia",
-    "PratikHimalRai",
-    "Music"
-   ],
-   "cat": "culture",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
   {
    "title": "Mamdani, Ocasio-Cortez Wish Nepali Community a Happy Tihar",
    "summary": "",
@@ -2642,7 +2619,7 @@
    "cat": "culture",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "कहिले होला राष्ट्रिय सभाका दुई सदस्यको पदपूर्ति?",
@@ -2942,17 +2919,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1793601079.3507814,
-   "en": "पत्रकारमाथि धरपकडको छानबिन गर्न संसदीय समिति गठनको कांग्रेसको माग",
-   "ne": "पत्रकारमाथि धरपकडको छानबिन गर्न संसदीय समिति गठनको कांग्रेसको माग",
-   "link": "https://baahrakhari.com/detail/506338",
-   "source": "Baahrakhari",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "politics"
-  },
   {
    "ts": 1793602891.9574382,
    "en": "CIB arrests eight as DDC employees embezzle Rs 120M meant for farmers",
@@ -5988,9 +5954,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "sports"
+  },
+  {
+   "ts": 1794206457.4784167,
+   "en": "सुक्खा पहिरोका कारण कालीगण्डकी करिडोर अवरुद्ध",
+   "ne": "सुक्खा पहिरोका कारण कालीगण्डकी करिडोर अवरुद्ध",
+   "link": "https://gorkhapatraonline.com/news/228747",
+   "source": "Gorkhapatra",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "disaster"
   }
  ],
- "updated": 1794205875,
+ "updated": 1794206475,
  "pending_since": 1794205248.952317,
  "fb_blocks": [
   1790350880.4125228,
