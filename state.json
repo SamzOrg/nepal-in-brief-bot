@@ -1199,32 +1199,12 @@
   "https://risingnepaldaily.com/news/88527": 1794200482.632689,
   "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMklzakxFS1N0azNBd3NGdFVUR1ZQbWVkTkpkbnBDbHdUekJPQTdTSkRidlVuNmNnYVY0TUlpV21hcmh0d0JVTnRKRkhkZ1ladHdvTlg4akkyX21PbmdCNmRwTjc4TTVHZ3lGeFRjaUZkaW5kNFR5SGdielZJejljODZNWHBrcTY0Nm1zQVY2Z0tDZ2RRWjR0MG5QZVM0S0dvT0VVQlBR?oc=5": 1794200482.632689,
   "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcWREem1hQy16X2RUcDZ4dUUtSXNsN0xMdzlfY1g3SkpNUWUta0R5R09MbjNORUMtcDlSakhndW9RWGpjT2c4a1RDSi15c1doVERvN3NyTm1rckQyRk92T3NwdXVpZl90Yl9qUXhjd0FoS3RLd0tJYjhOTmZBWXZjNEZHY1BJV3I4bjNDZTZaMU43LVJmbVhDd0tUX1ZwQzBlSGhSXzZpbXh0MzlQaE52empNNGxIWHhDUkxxYUZR?oc=5": 1794200482.632689,
-  "https://www.setopati.com/social/402323": 1794201050.8851433
+  "https://www.setopati.com/social/402323": 1794201050.8851433,
+  "https://news.google.com/rss/articles/CBMic0FVX3lxTFBiZGxLM2NHSXVIalRhVGdpeG9QR2Q2VTcxd3VkX0xmazhrQ29zbThRVEN1SzhPaEZ5OVVXWVZJRkZ3SjJuY1VyTWRlZ3VURnhrYk0tQnJQMG9MSUlzMjNpUUR0aEJ0LUdRT2JQTW5mcFBFMlk?oc=5": 1794201650.19268,
+  "https://baahrakhari.com/detail/506943": 1794201650.19268,
+  "https://www.setopati.com/social/402324": 1794201650.19268
  },
  "queue": [
-  {
-   "title": "Vivek Ghosh: An Honour and a Privilege to Represent Nepal at LUNGO 2026",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9QRTdNeDZiOVR4Q3NHVmhBX3VYTzgzOG9EUlFDX0VRWjdfcXBwZkhiZHhvOF83clBoZVpHYnNyU3F4RWxlaHRrdHV0RGNJNXVoSFZkdGJzd1NabzM2SUxhNzdDak1jQXpmX3Nv?oc=5",
-   "source": "Oncodaily",
-   "ts": 1794172723,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Vivek Ghosh: An Honour and a Privilege to Represent Nepal at LUNGO 2026",
-   "en": "Vivek Ghosh: An Honour and a Privilege to Represent Nepal at LUNGO 2026",
-   "ne": "Vivek Ghosh: An Honour and a Privilege to Represent Nepal at LUNGO 2026",
-   "imp": 2,
-   "tags": [
-    "VivekGhosh",
-    "Nepal",
-    "LUNGO2026"
-   ],
-   "cat": "world",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
   {
    "title": "Eurovision Asia 2026: Meet Nepal's Pratik Himal Rai",
    "summary": "",
@@ -2502,6 +2482,52 @@
     "Iran"
    ],
    "cat": "world",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "दैलेखमा जीप दुर्घटना : एकजनाको मृत्यु, पाँच 'गम्भीर' घाइते",
+   "summary": "दुर्घटनामा जीपचालक सान्नी त्रिवेणी-७ का २२ वर्षीय योगेश सिंखडा, सोही ठाउँका १८ वर्षीय गंग सार्की, २१ वर्षीय तपेन्द्र सिंखडा गम्भीर घाइते भएका छन् ।",
+   "link": "https://baahrakhari.com/detail/506943",
+   "source": "Baahrakhari",
+   "ts": 1794201244,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "दैलेखमा जीप दुर्घटना : एकजनाको मृत्यु, पाँच 'गम्भीर' घाइते",
+   "en": "दैलेखमा जीप दुर्घटना : एकजनाको मृत्यु, पाँच 'गम्भीर' घाइते",
+   "ne": "दैलेखमा जीप दुर्घटना : एकजनाको मृत्यु, पाँच 'गम्भीर' घाइते",
+   "imp": 3,
+   "tags": [
+    "Dailekh",
+    "JeepAccident",
+    "सवारीदुर्घटना"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "पाँच वटा मेसिन प्रयोग गरी हटाइँदै छ घोप्टेभीरको पहिरो",
+   "summary": "पृथ्वी राजमार्गअन्तर्गत चितवनको कुरिनटार नजिकै घोप्टेभीरमा सुक्खा पहिरो खसेपछि सडक दुईतर्फी नै अवरूद्ध भएको हो।",
+   "link": "https://www.setopati.com/social/402324",
+   "source": "Setopati",
+   "ts": 1794201060,
+   "weight": 3,
+   "img": null,
+   "lang": "ne",
+   "hl": "पाँच वटा मेसिन प्रयोग गरी हटाइँदै छ घोप्टेभीरको पहिरो",
+   "en": "पाँच वटा मेसिन प्रयोग गरी हटाइँदै छ घोप्टेभीरको पहिरो",
+   "ne": "पाँच वटा मेसिन प्रयोग गरी हटाइँदै छ घोप्टेभीरको पहिरो",
+   "imp": 4,
+   "tags": [
+    "Ghoptebhir",
+    "Landslide",
+    "पहिरो"
+   ],
+   "cat": "disaster",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -5556,7 +5582,7 @@
    "cat": "society"
   }
  ],
- "updated": 1794201071,
+ "updated": 1794201655,
  "pending_since": 1794200482.632689,
  "fb_blocks": [
   1790350880.4125228,
