@@ -1213,7 +1213,10 @@
   "https://english.khabarhub.com/2026/09/574976/": 1794189049.5577397,
   "https://www.setopati.com/social/402311": 1794189049.5577397,
   "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRnE0dVpkYlVaSmItS0JxMkhNak52VU5VUHFTdUdXRkdhTUNfYk00VWxiaUl4MDB3M0s2SHloTUdUN3lELUhQTURrdHg3LUc1VFNqMVl2TVJJQXhidzIyNHVPcXJjWVVvR0pRT2c3NFFuM1lLb1RDYmRxYXFFeUpKUFFmM3Q1RUg0TlFGMExXMWRjRG5WZkpVNlpmeUZxMnNjVDFaZ3VEd19CRzhsbXMzUTA4SUlaZw?oc=5": 1794189049.5577397,
-  "https://theannapurnaexpress.com/story/68623": 1794189049.5577397
+  "https://theannapurnaexpress.com/story/68623": 1794189049.5577397,
+  "https://nagariknews.nagariknetwork.com/social-affairs/chance-of-rain-in-some-places-today-51-21.html": 1794189419.9388342,
+  "https://nagariknews.nagariknetwork.com/social-affairs/landslide-blocks-prithvi-highway-br-36-36.html": 1794189419.9388342,
+  "https://kathmandupost.com/columns/2026/11/09/can-nepal-cook-dal-bhat-on-its-own-electricity": 1794189419.9388342
  },
  "queue": [
   {
@@ -1375,7 +1378,7 @@
    "cat": "disaster",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "बहराइन दिनारको मूल्य कति छ ?",
@@ -1676,17 +1679,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1793584255.6384807,
-   "en": "एनपिएलमा आज कर्णाली र काठमाडौं तथा चितवन र सुदूरपश्चिम भिड्दै",
-   "ne": "एनपिएलमा आज कर्णाली र काठमाडौं तथा चितवन र सुदूरपश्चिम भिड्दै",
-   "link": "https://www.setopati.com/sports/npl/401785",
-   "source": "Setopati",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "sports"
-  },
   {
    "ts": 1793586086.0321252,
    "en": "मलेखु-मुग्लिङ सडकखण्ड आज बिहान ११ देखि दिउँसो ३ बजेसम्म चार घण्टा बन्द हुने",
@@ -4724,7 +4716,7 @@
    "cat": "politics"
   }
  ],
- "updated": 1794189052,
+ "updated": 1794189422,
  "pending_since": 1794189049.5577397,
  "fb_blocks": [
   1790350880.4125228,
