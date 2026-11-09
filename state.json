@@ -1231,32 +1231,13 @@
   "https://www.setopati.com/politics/402335": 1794214892.5298731,
   "https://english.onlinekhabar.com/pokhara-set-karnali-a-target-of-218.html": 1794214892.5298731,
   "https://english.onlinekhabar.com/3-killed-in-motorcycle-accident-in-nuwakot.html": 1794216053.531994,
-  "https://gorkhapatraonline.com/news/228762": 1794216053.531994
+  "https://gorkhapatraonline.com/news/228762": 1794216053.531994,
+  "https://english.khabarhub.com/2026/09/575029/": 1794216667.1107872,
+  "https://gorkhapatraonline.com/news/228764": 1794216667.1107872,
+  "https://www.ujyaaloonline.com/detail/133336": 1794216667.1107872,
+  "https://theannapurnaexpress.com/story/68633": 1794216667.1107872
  },
  "queue": [
-  {
-   "title": "Nepal's game developers seek tax relief, Google access to scale globally",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWG5fN0d1bVBTVVIzVW5wREVLV1hnSmFmZmd0c3AyNmN5bGhGb3NNTFd3bUY0TGlEU0ZBLWRSam9wX0FOb1draDdRYlZ5RXdaMUV0ODc1eHdER0ZlenM5ZVQzeFMzQ2ZJc3lZXzNVckVCQ19qY25MclVKdHotRnlHYVdONmFybUFfQWNyZGotcWhYaGdGMUVPYjJDTE1RTTJDb2R6UDJrZGZzaTRtOU51cWQ1cWU?oc=5",
-   "source": "The Kathmandu Post",
-   "ts": 1794187737,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Nepal's game developers seek tax relief, Google access to scale globally",
-   "en": "Nepal's game developers seek tax relief, Google access to scale globally",
-   "ne": "Nepal's game developers seek tax relief, Google access to scale globally",
-   "imp": 2,
-   "tags": [
-    "GameDev",
-    "Google",
-    "NepalTech"
-   ],
-   "cat": "tech",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
   {
    "title": "Man arrested with live ammunition; nine held on gambling charge",
    "summary": "",
@@ -2103,27 +2084,6 @@
    "val": 3,
    "teaser": false,
    "hits": 2
-  },
-  {
-   "title": "One disaster away",
-   "summary": "Bhotekoshi flood pushed poverty up 2.7 percentage points. Prevention, not just relief, must be the answer.",
-   "link": "https://kathmandupost.com/editorial/2026/11/09/one-disaster-away",
-   "source": "Kathmandu Post",
-   "ts": 1794187866.5538762,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "One disaster away",
-   "en": "One disaster away",
-   "ne": "One disaster away",
-   "imp": 5,
-   "tags": [
-    "Disaster"
-   ],
-   "cat": "disaster",
-   "val": 1,
-   "teaser": false,
-   "hits": 1
   },
   {
    "title": "सर्लाहीको चुरेभेगमा खानेपानीको सँधै दुःख",
@@ -2998,7 +2958,7 @@
    "cat": "sports",
    "val": 3,
    "teaser": false,
-   "hits": 3
+   "hits": 4
   },
   {
    "title": "COP31 opens amid climate emergency and geopolitical tensions",
@@ -3352,7 +3312,7 @@
    "cat": "disaster",
    "val": 3,
    "teaser": false,
-   "hits": 4
+   "hits": 5
   },
   {
    "title": "युवराज सम्राको विस्फोटक अर्धशतक, पोखरालाई दिलाए बलियो सुरुआत",
@@ -7050,7 +7010,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1794216057,
+ "updated": 1794216669,
  "pending_since": 1794215449.5440938,
  "fb_blocks": [
   1790350880.4125228,
