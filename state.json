@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://baahrakhari.com/detail/506844": 1794041446.9899545,
-  "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1nc2xQR1B0eC1RQlE3UDVSVWpJV1c1YU5sMDc5MEdXdktNTzJpRjZsbHVJV0ZLZkY2WGxtMU5ReGRfcFBRRmRZQWdaeWtnX3dF?oc=5": 1794041446.9899545,
   "http://english.ratopati.com/story/85971/mps-questions-on-supreme-court-nominee-justice-dangi": 1794042080.1885784,
   "https://gorkhapatraonline.com/news/228625": 1794042080.1885784,
   "http://english.ratopati.com/story/85970/the-indian-film-that-no-one-wanted-to-release-finally-became-a-hit": 1794042080.1885784,
@@ -1224,32 +1222,13 @@
   "https://english.onlinekhabar.com/yuvraaj-first-century-of-npls.html": 1794213068.8665204,
   "https://english.onlinekhabar.com/syafrubesi-bridge-reopens.html": 1794213068.8665204,
   "https://english.onlinekhabar.com/nepal-heritage-project-documents-over-2000-monuments-8000-archaeological-objects.html": 1794213068.8665204,
-  "http://english.ratopati.com/story/86122/pokhara-sets-a-target-of-218-runs-for-karnali": 1794213651.4077365
+  "http://english.ratopati.com/story/86122/pokhara-sets-a-target-of-218-runs-for-karnali": 1794213651.4077365,
+  "https://gorkhapatraonline.com/news/228759": 1794214250.826367,
+  "https://news.google.com/rss/articles/CBMib0FVX3lxTFBOYzZ6Y0ljaGszZTVlNlozQjcxYWV4ZkFkUkkzc283bnVsaG9UYVplOE5sMUNBOHJfZlRmcXJwWVBaYUU0VV9DWWpKLWpEeXBjRjFaaHNLaVdQbXV1cnFHQ0VBVko4a1FyTlljek9pSQ?oc=5": 1794214250.826367,
+  "http://english.ratopati.com/story/86123/jeep-accident-in-rukum-west-2-dead-13-injured": 1794214250.826367,
+  "https://www.setopati.com/social/402338": 1794214250.826367
  },
  "queue": [
-  {
-   "title": "इजिप्टमा रेल दुर्घटना, सातजनाको मृत्यु",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/506925",
-   "source": "Baahrakhari",
-   "ts": 1794185044,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "इजिप्टमा रेल दुर्घटना, सातजनाको मृत्यु",
-   "en": "इजिप्टमा रेल दुर्घटना, सातजनाको मृत्यु",
-   "ne": "इजिप्टमा रेल दुर्घटना, सातजनाको मृत्यु",
-   "imp": 1,
-   "tags": [
-    "Egypt",
-    "TrainAccident",
-    "दुर्घटना"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
   {
    "title": "बहराइन दिनारको मूल्य कति छ ?",
    "summary": "राष्ट्र बैंकले हङकङ डलर एकको खरिददर १९ रुपैयाँ १३ पैसा र बिक्रीदर १९ रुपैयाँ २० पैसा, कुवेती दिनार एकको खरिददर ४८७ रुपैयाँ १२ पैसा र बिक्रीदर ४८९ रुपैयाँ ०७ पैसा तोकेको छ ।",
@@ -1272,52 +1251,6 @@
    "val": 3,
    "teaser": false,
    "hits": 3
-  },
-  {
-   "title": "उत्पादन बढेपछि फूलको मूल्य घट्यो",
-   "summary": "यस वर्ष तिहार केही ढिला परेको र मौसम अनुकूल हुँदा स्थानीय फूलको उत्पादन बढेको छ।",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/flower-prices-drop-as-production-increases-br-20-39.html",
-   "source": "Nagarik News",
-   "ts": 1794185298,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2024/third-party/1794185426_ful%20utpadan%20%2098.jpg",
-   "lang": "ne",
-   "hl": "उत्पादन बढेपछि फूलको मूल्य घट्यो",
-   "en": "उत्पादन बढेपछि फूलको मूल्य घट्यो",
-   "ne": "उत्पादन बढेपछि फूलको मूल्य घट्यो",
-   "imp": 2,
-   "tags": [
-    "Flower",
-    "Tihar",
-    "Market"
-   ],
-   "cat": "economy",
-   "val": 2,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "गाई- आस्था, संस्कार र मानव सभ्यतासँग जोडिएको मातृस्वरूप",
-   "summary": "विशेषगरी तिहारअन्तर्गत पर्ने गाई तिहार वा लक्ष्मीपूजाका दिन गाईको विशेष पूजा गरिन्छ। गाईलाई धन, समृद्धि, शान्ति र लक्ष्मीसँग जोडेर हेर्ने धार्मिक परम्परा छ।...",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/cow-a-maternal-figure-linked-to-faith-culture-and-human-civilization-br-55-69.html",
-   "source": "Nagarik News",
-   "ts": 1794184925,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1794184910_cow.png",
-   "lang": "ne",
-   "hl": "गाई- आस्था, संस्कार र मानव सभ्यतासँग जोडिएको मातृस्वरूप",
-   "en": "गाई- आस्था, संस्कार र मानव सभ्यतासँग जोडिएको मातृस्वरूप",
-   "ne": "गाई- आस्था, संस्कार र मानव सभ्यतासँग जोडिएको मातृस्वरूप",
-   "imp": 2,
-   "tags": [
-    "GaiPuja",
-    "Tihar",
-    "Culture"
-   ],
-   "cat": "culture",
-   "val": 2,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "Nepal's game developers seek tax relief, Google access to scale globally",
@@ -1387,29 +1320,6 @@
    "val": 1,
    "teaser": true,
    "hits": 1
-  },
-  {
-   "title": "Fire breaks out at Lakhimpur market, 50 shops gutted: Fire engines called from Nepal; blaze triggered by a ...",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOWE5S3U3ZkdBMktPalhTVmtzd0EzUEZKS21yal82LVFvd3kwR1gxN19NRVVUeXN3SVJlQVl2b0FiRFZ0cGgwV0FJcFpSY3FQZS10VnFUVFdhZ0dpR204d2xhaDMzNWw1UTVEUHc2TnVYVXRhekQtbW54WExUZXY3emZGUTBrWHUxVk5idjhYVzNjV3pSOXdwSzlQYk82WHg0cFhscWNPV0ktNmtoT0h5Slp2aGtwT2VQeE85VkZwMNIBxAFBVV95cUxQSFlsZG9hSlNtVGlzWXF2d2M2SEY3dFVNa3l1T3Bhb2d5UC1KMU5jaDhtVUI2aVVfRGFIX2ZMc3BXQWZCWXh6RWZzOUl6VjZOeUdKdFVaRlFrai1lR2VqeDkyenFJeHV2NlE5Z3NUdTZFdDBNYk9KT3NFa3JOdWthZmlOY094TzJWc0pNb1lTRXZCTmZqQmxtSXhqSTJzVk5WLVRoajJ4aEhTUVlQaGJFaHRPU29uRTl1ZDIyMXdxVWQ4U1Qt?oc=5",
-   "source": "Bhaskar English",
-   "ts": 1794185392,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Fire breaks out at Lakhimpur market, 50 shops gutted: Fire engines called from Nepal; blaze triggered by a ...",
-   "en": "Fire breaks out at Lakhimpur market, 50 shops gutted: Fire engines called from Nepal; blaze triggered by a ...",
-   "ne": "Fire breaks out at Lakhimpur market, 50 shops gutted: Fire engines called from Nepal; blaze triggered by a ...",
-   "imp": 2,
-   "tags": [
-    "Fire",
-    "India",
-    "Lakhimpur"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "केराका बोट, आम्दानीको स्रोत",
@@ -2101,29 +2011,6 @@
    "hits": 1
   },
   {
-   "title": "From traditional songs to modern celebrations, Tihar is changing with the times and a new generation",
-   "summary": "Traditional games and rituals are fading, celebrations are taking new forms, and younger Nepalis are questioning long-held social norms while embracing more environmentally conscious ways of marking the festival.",
-   "link": "https://kathmandupost.com/national/2026/11/09/from-traditional-songs-to-modern-celebrations-tihar-is-changing-with-the-times-and-a-new-generation",
-   "source": "Kathmandu Post",
-   "ts": 1794185449.9072948,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "From traditional songs to modern celebrations, Tihar is changing with the times and a new generation",
-   "en": "From traditional songs to modern celebrations, Tihar is changing with the times and a new generation",
-   "ne": "From traditional songs to modern celebrations, Tihar is changing with the times and a new generation",
-   "imp": 2,
-   "tags": [
-    "Tihar",
-    "Tradition",
-    "तिहार"
-   ],
-   "cat": "culture",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
-  },
-  {
    "title": "सिँचाइ अभाव हुँदा हिउँदे खेती गर्न समस्या",
    "summary": "डडेल्धुरा, कात्तिक २३ गते । सिँचाइ सुविधाको अभाव र प्रतिकूल मौसमका कारण डडेल्धुरामा हिउँदे खेती विस्तार हुन सकेको छैन । बर्खायाममा खेतीपाती गर्ने किसानले हिउँद लागेसँगै अधिकांश जमि...",
    "link": "https://gorkhapatraonline.com/news/228732",
@@ -2212,7 +2099,7 @@
    "cat": "disaster",
    "val": 3,
    "teaser": false,
-   "hits": 3
+   "hits": 4
   },
   {
    "title": "पाँच वटा मेसिन प्रयोग गरी हटाइँदै छ घोप्टेभीरको पहिरो",
@@ -6977,7 +6864,7 @@
    "cat": "sports"
   }
  ],
- "updated": 1794213665,
+ "updated": 1794214255,
  "pending_since": 1794213651.4077365,
  "fb_blocks": [
   1790350880.4125228,
