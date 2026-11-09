@@ -1,6 +1,5 @@
 {
  "seen": {
-  "http://english.ratopati.com/story/85924/bp-highway-jica-begins-reconstruction": 1794016884.4311438,
   "http://english.ratopati.com/story/85922/janakpur-to-be-connected-by-rail-to-indias-religious-city-of-ayodhya": 1794017448.737786,
   "https://www.setopati.com/social/402219": 1794017448.737786,
   "https://baahrakhari.com/detail/506823": 1794017448.737786,
@@ -1218,7 +1217,9 @@
   "https://nagariknews.nagariknetwork.com/social-affairs/landslide-blocks-prithvi-highway-br-36-36.html": 1794189419.9388342,
   "https://kathmandupost.com/columns/2026/11/09/can-nepal-cook-dal-bhat-on-its-own-electricity": 1794189419.9388342,
   "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1HTDlISW92Z3pIX244MmJ4U1loUGlFaHEtWDdodHpQdS1QdGl6TkhtWE13YmUyUEI4MmwyZUJOeVB0SzNOVlBlTi1lanRRMlJuVThnREdMbGdjTjNLcXpKS3gwMlVkc2lS?oc=5": 1794189680.1133118,
-  "https://theannapurnaexpress.com/story/68624": 1794189680.1133118
+  "https://theannapurnaexpress.com/story/68624": 1794189680.1133118,
+  "https://gorkhapatraonline.com/news/228725": 1794190247.7896464,
+  "https://nagariknews.nagariknetwork.com/social-affairs/six-prisoners-who-escaped-from-dolpa-prison-arrested-br-19-79.html": 1794190247.7896464
  },
  "queue": [
   {
@@ -1561,29 +1562,6 @@
     "TechNews"
    ],
    "cat": "tech",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Top-four race goes down to the wire as NPL Season 3 nears league-stage conclusion",
-   "summary": "With defending champions Lumbini Lions leading the pack, six franchises remain in mathematical contention for playoff qualification.",
-   "link": "https://kathmandupost.com/cricket/2026/11/09/top-four-race-goes-down-to-the-wire-as-npl-season-3-nears-league-stage-conclusion",
-   "source": "Kathmandu Post",
-   "ts": 1794174048.234447,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Top-four race goes down to the wire as NPL Season 3 nears league-stage conclusion",
-   "en": "Top-four race goes down to the wire as NPL Season 3 nears league-stage conclusion",
-   "ne": "Top-four race goes down to the wire as NPL Season 3 nears league-stage conclusion",
-   "imp": 3,
-   "tags": [
-    "NPL",
-    "Cricket",
-    "NepalSports"
-   ],
-   "cat": "sports",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -4716,9 +4694,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "politics"
+  },
+  {
+   "ts": 1794190255.485437,
+   "en": "Nepal Premier League Season 3 top-four race nears league-stage conclusion",
+   "ne": "Nepal Premier League Season 3 top-four race nears league-stage conclusion",
+   "link": "https://kathmandupost.com/cricket/2026/11/09/top-four-race-goes-down-to-the-wire-as-npl-season-3-nears-league-stage-conclusion",
+   "source": "Kathmandu Post",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "sports"
   }
  ],
- "updated": 1794189683,
+ "updated": 1794190273,
  "pending_since": 1794189049.5577397,
  "fb_blocks": [
   1790350880.4125228,
