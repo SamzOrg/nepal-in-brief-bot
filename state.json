@@ -1882,29 +1882,6 @@
    "hits": 1
   },
   {
-   "title": "Snowfall blocks roads, disrupting food transport to Limi",
-   "summary": "Authorities have begun clearing snow at Nyalulek to reopen the road to Namkha Rural Municipalities 5 and 6 (Limi) in Humla. Snowfall has cut off road access to the area, creating a situation similar to an internal...",
-   "link": "https://english.onlinekhabar.com/snowfall-blocks-roads.html",
-   "source": "Onlinekhabar EN",
-   "ts": 1794199572,
-   "weight": 3,
-   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/11/limi-himpat-1024x599-1.jpg",
-   "lang": "en",
-   "hl": "Snowfall blocks roads, disrupting food transport to Limi",
-   "en": "Snowfall blocks roads, disrupting food transport to Limi",
-   "ne": "Snowfall blocks roads, disrupting food transport to Limi",
-   "imp": 4,
-   "tags": [
-    "Snowfall",
-    "Limi",
-    "RoadBlocked"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "दुई हजारभन्दा बढी स्मारक, आठ हजार पुरातात्विक वस्तुको अभिलेखीकरण",
    "summary": "काठमाडौँ, कात्तिक २३ गते । नेपाल सम्पदा अभिलेखीकरण परियोजना (एनएचडिपी) ले आठ वर्षमा नेपालका दुई हजारभन्दा बढी ऐतिहासिक स्मारक, दुई हजार ५०० भन्दा बढी शिलालेख र आठ हजारभन्दा बढी पुर...",
    "link": "https://gorkhapatraonline.com/news/228733",
@@ -2064,29 +2041,6 @@
    "val": 3,
    "teaser": false,
    "hits": 4
-  },
-  {
-   "title": "पाँच वटा मेसिन प्रयोग गरी हटाइँदै छ घोप्टेभीरको पहिरो",
-   "summary": "पृथ्वी राजमार्गअन्तर्गत चितवनको कुरिनटार नजिकै घोप्टेभीरमा सुक्खा पहिरो खसेपछि सडक दुईतर्फी नै अवरूद्ध भएको हो।",
-   "link": "https://www.setopati.com/social/402324",
-   "source": "Setopati",
-   "ts": 1794201060,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "पाँच वटा मेसिन प्रयोग गरी हटाइँदै छ घोप्टेभीरको पहिरो",
-   "en": "पाँच वटा मेसिन प्रयोग गरी हटाइँदै छ घोप्टेभीरको पहिरो",
-   "ne": "पाँच वटा मेसिन प्रयोग गरी हटाइँदै छ घोप्टेभीरको पहिरो",
-   "imp": 4,
-   "tags": [
-    "Ghoptebhir",
-    "Landslide",
-    "पहिरो"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
   },
   {
    "title": "हराउँदै ढिकी र काठका ओखल",
@@ -4076,17 +4030,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1793610100.3310764,
-   "en": "Rapid Gender Analysis: Bhotekoshi Flood 2026, Nepal",
-   "ne": "Rapid Gender Analysis: Bhotekoshi Flood 2026, Nepal",
-   "link": "https://reliefweb.int/report/nepal/rapid-gender-analysis-bhotekoshi-flood-2026-nepal",
-   "source": "ReliefWeb",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "disaster"
-  },
   {
    "ts": 1793611938.6358337,
    "en": "Nepal Jailbreak and Blast Near Jogbani Border Put Indian Agencies on Alert",
@@ -7122,10 +7065,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "sports"
+  },
+  {
+   "ts": 1794215456.6067193,
+   "en": "Snowfall blocks road to Limi in Humla, disrupting food transport",
+   "ne": "Snowfall blocks road to Limi in Humla, disrupting food transport",
+   "link": "https://english.onlinekhabar.com/snowfall-blocks-roads.html",
+   "source": "Onlinekhabar EN",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "disaster"
   }
  ],
- "updated": 1794214898,
- "pending_since": null,
+ "updated": 1794215468,
+ "pending_since": 1794215449.5440938,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
