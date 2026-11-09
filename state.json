@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMiWEFVX3lxTE52NFZGLU9kRHptMm9xYXp3VjhuaDJYdndvYk5ma1Y1Q0xZRW5RQktGWHk4enJCOWJfZkc5VGVvUXBKZEVYeGM4Z2F5NUdtcVhPekgycm4yWDc?oc=5": 1794029468.6183317,
-  "https://www.setopati.com/social/402228": 1794029468.6183317,
   "https://www.setopati.com/social/402227": 1794030048.4436514,
   "https://news.google.com/rss/articles/CBMixwFBVV95cUxNM1NFVW1HZDZhZWoxQXRwb0loUUN2LXctSUYxRVVJWGV6ZEJ0cU1RNGlFRkRWUE5ieEdqeDg3RGNWZ1A3eDYzblkwd3pabWdoYXdfU3F1YVNtTEZrYlJGMlhxVE5lSVhyTEFKblZhWVI1WlVLX1E2MDNBUXU3bjdXU1J3YUhubnozT0dtUjZ5c2VZVVNSRUZ4d2FyS2hKek5MbGxoek1mTnlQZG0xazBvNHNROTJyU2wyckRMZjZKanlsS3FYbkNJ?oc=5": 1794030048.4436514,
   "https://baahrakhari.com/detail/506835": 1794030048.4436514,
@@ -1224,7 +1222,11 @@
   "https://gorkhapatraonline.com/news/228734": 1794202265.4354985,
   "https://nagariknews.nagariknetwork.com/education/jamuna-kharka-secondary-school-visiting-students-homes-to-understand-their-studies-and-academic-status-br-65-34.html": 1794202265.4354985,
   "https://nagariknews.nagariknetwork.com/social-affairs/8-people-arrested-with-rs-3-5-lakh-from-gambling-den-88-63.html": 1794202265.4354985,
-  "https://nagariknews.nagariknetwork.com/social-affairs/rajkumar-has-been-involved-in-vegetable-production-for-two-decades-12-95.html": 1794202265.4354985
+  "https://nagariknews.nagariknetwork.com/social-affairs/rajkumar-has-been-involved-in-vegetable-production-for-two-decades-12-95.html": 1794202265.4354985,
+  "https://gorkhapatraonline.com/news/228739": 1794202848.2413673,
+  "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQenl1ZUl0cWd4SlVXU1MyY2E1Y254eEd6X0NEVXBrU3V0WmVaNUNsc2JzdkdIcG9jODhxM0p3T1p4RTdwTjdfd3djQ3Fma3Z4T0VXbnpYNnh1RldCTEU3RGxkeUtyZ0xSLWJISTJmY1czMDdjSWhuNFhkcmw1M18yMGtFUFpyUjVKdDBzZFNnZEJGaUpwQ1dGWFdlMlE4TktkTk1YVmNrSkl2eUZqdk1MSS1wdzJCVWZW?oc=5": 1794202848.2413673,
+  "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdlVpbmZybkQyT0l4V1BpVkNFSDdxa1VDdE05RUdocDR2VDVld0VkYVUtdzcwU1FzZC13Sk0ycHZ1NExqb1NYdnBaLVBCRUN1TVZ6a3JhdnFZaTU2QjFPeVdQb0FPRkpZR3FwcGxOcnJRV0FwQk5rRF9nbWxKbmlvdW9JbHhoU2JwSlUzNTFTSFlHTV81UGRNdFVGWmwzbi00RktUSjFJdksxQmJxcUI0TnRBWUN1Y2p3?oc=5": 1794202848.2413673,
+  "https://gorkhapatraonline.com/news/228740": 1794202848.2413673
  },
  "queue": [
   {
@@ -1503,29 +1505,6 @@
    "hits": 2
   },
   {
-   "title": "Nepal launches TikTok campaign to promote tourism to global audiences",
-   "summary": "The campaign, running until the end of 2026, aims to showcase Nepal's natural beauty, cultural heritage and diverse tourism experiences through digital storytelling and international content creators.",
-   "link": "https://kathmandupost.com/national/2026/11/09/nepal-launches-tiktok-campaign-to-promote-tourism-to-global-audiences",
-   "source": "Kathmandu Post",
-   "ts": 1794174048.234447,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Nepal launches TikTok campaign to promote tourism to global audiences",
-   "en": "Nepal launches TikTok campaign to promote tourism to global audiences",
-   "ne": "Nepal launches TikTok campaign to promote tourism to global audiences",
-   "imp": 2,
-   "tags": [
-    "TikTok",
-    "Tourism",
-    "पर्यटन"
-   ],
-   "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
    "title": "Seven dead and more than 100 injured after trains collide in Egypt",
    "summary": "At least seven people have died in a train crash near the Egyptian city of Giza, with more than 100 injured, BBC reported. The country's railway authority said two trains travelling south from Giza and Cairo collided,...",
    "link": "https://theannapurnaexpress.com/story/68625",
@@ -1568,7 +1547,7 @@
    "cat": "crime",
    "val": 3,
    "teaser": false,
-   "hits": 4
+   "hits": 5
   },
   {
    "title": "Opinion | Can Nepal cook dal bhat on its own electricity?",
@@ -2688,7 +2667,7 @@
    "cat": "sports",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "One disaster away",
@@ -2801,29 +2780,6 @@
    "cat": "culture",
    "val": 2,
    "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "Madhesh's revolving door of chief ministers turns again",
-   "summary": "Kathmandu, November 9 Madhesh Province Chief Minister Krishna Prasad Yadav, who took office 11 months ago under unusual political circumstances, is now fighting to retain his position. Unless there is a last-minute...",
-   "link": "https://english.onlinekhabar.com/madheshs-revolving-door-of-chief-ministers-turns-again.html",
-   "source": "Onlinekhabar EN",
-   "ts": 1794200823,
-   "weight": 3,
-   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/11/kp-prachanda-upendra-1024x500-1.jpg",
-   "lang": "en",
-   "hl": "Madhesh's revolving door of chief ministers turns again",
-   "en": "Madhesh's revolving door of chief ministers turns again",
-   "ne": "Madhesh's revolving door of chief ministers turns again",
-   "imp": 4,
-   "tags": [
-    "Madhesh",
-    "ChiefMinister",
-    "Turnover"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
    "hits": 1
   },
   {
@@ -3030,20 +2986,33 @@
    "val": 2,
    "teaser": true,
    "hits": 1
+  },
+  {
+   "title": "घोप्टेभिरको पहिरो पन्छाएर सडक सञ्चालन गर्ने तयारी",
+   "summary": "चितवन, कात्तिक २३ गते । पृथ्वी राजमार्गअन्तर्गत इच्छाकामना गाउँपालिका-४ स्थित घोप्टेभिरमा आज बिहान खसेको पहिरो पन्छाएर सडक दुईतर्फी सञ्चालन गर्ने तयारीसहित काम तीव्र पारिएको छ । पह...",
+   "link": "https://gorkhapatraonline.com/news/228740",
+   "source": "Gorkhapatra",
+   "ts": 1794202599,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/391013/conversions/Pahiro-original.jpg",
+   "lang": "ne",
+   "hl": "घोप्टेभिरको पहिरो पन्छाएर सडक सञ्चालन गर्ने तयारी",
+   "en": "घोप्टेभिरको पहिरो पन्छाएर सडक सञ्चालन गर्ने तयारी",
+   "ne": "घोप्टेभिरको पहिरो पन्छाएर सडक सञ्चालन गर्ने तयारी",
+   "imp": 4,
+   "tags": [
+    "Ghoptebhir",
+    "Landslide",
+    "पहिरो",
+    "Highway"
+   ],
+   "cat": "disaster",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1793597488.6114993,
-   "en": "Nepal's capital expenditure stuck at 6.83% three and a half months into fiscal year 2083/84",
-   "ne": "Nepal's capital expenditure stuck at 6.83% three and a half months into fiscal year 2083/84",
-   "link": "https://myrepublica.nagariknetwork.com/news/development-spending-stuck-at-683-as-budget-execution-lags-66-52.html",
-   "source": "myRepublica",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "economy"
-  },
   {
    "ts": 1793599291.529152,
    "en": "PM Balen plans to shift all land services to local level within a month",
@@ -6079,10 +6048,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "society"
+  },
+  {
+   "ts": 1794202855.5709171,
+   "en": "Madhesh CM Krishna Prasad Yadav likely to be removed by Nov 15",
+   "ne": "Madhesh CM Krishna Prasad Yadav likely to be removed by Nov 15",
+   "link": "https://english.onlinekhabar.com/madheshs-revolving-door-of-chief-ministers-turns-again.html",
+   "source": "Onlinekhabar EN",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "politics"
   }
  ],
- "updated": 1794202281,
- "pending_since": null,
+ "updated": 1794202867,
+ "pending_since": 1794202848.2413673,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
