@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://www.setopati.com/social/402226": 1794026448.8094893,
   "https://baahrakhari.com/detail/506832": 1794027050.815281,
   "https://english.khabarhub.com/2026/07/574796/": 1794027050.815281,
   "https://gorkhapatraonline.com/news/228612": 1794027050.815281,
@@ -1188,7 +1187,9 @@
   "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTTNhc2xZbTZJMEZJeDRZZndXb2J5alNlemJGckVNbHBSVmoxYkRJc2tpTkVfUXJ4MGE3NlJWbE1EUmI1REh4YlhfMTNJXzVjcGRYc3VSMml1RUVEWlpiQXhiTmJCQVVKOU01bE1IeERrWXpCVEJXUlhBY0ZPTzI1SldFQ195eV9oMVFFZmRn?oc=5": 1794197452.5359316,
   "https://baahrakhari.com/detail/506936": 1794198047.495142,
   "https://www.setopati.com/social/402321": 1794198672.3641596,
-  "https://news.google.com/rss/articles/CBMipAFBVV95cUxNd0hVYXlzUTg5cXlTRHhtZzlDZUxyeWhWaGNMOHlwRmRZbnFDQkZHSGNJZjZqSXBpY0xiQTd3UXN3MTQxRGk3TmJiWV9QSUtxcHZCdVZPcXgtb0ItSnJoSTBGMmxLazM4c0hsVTZTWHBid2lFN1h2Z0dkTjFwYldLRlBiaGFOUkQxTUVaWF8xcjA0LXp4WjJnSlR4SmNNb0NDeG5ndw?oc=5": 1794198672.3641596
+  "https://news.google.com/rss/articles/CBMipAFBVV95cUxNd0hVYXlzUTg5cXlTRHhtZzlDZUxyeWhWaGNMOHlwRmRZbnFDQkZHSGNJZjZqSXBpY0xiQTd3UXN3MTQxRGk3TmJiWV9QSUtxcHZCdVZPcXgtb0ItSnJoSTBGMmxLazM4c0hsVTZTWHBid2lFN1h2Z0dkTjFwYldLRlBiaGFOUkQxTUVaWF8xcjA0LXp4WjJnSlR4SmNNb0NDeG5ndw?oc=5": 1794198672.3641596,
+  "https://english.khabarhub.com/2026/09/574992/": 1794199249.3667443,
+  "https://theannapurnaexpress.com/story/68631": 1794199249.3667443
  },
  "queue": [
   {
@@ -1513,29 +1514,6 @@
    "hits": 2
   },
   {
-   "title": "Nepal's share market weathers political jitters",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxON0gzbTBxLWdCc292cDdVb1BfS2tOU0ZwclJpYWxvZ2ZobWExSnJjNVl0eXRkQ3pxaEJwc0JpNk9XaWhZODBVV3VSNGtUR2dWaGgxc3owVjJOUzFQdFFCSTdjRTM4dTdIUk1FZzN2bHhfZWJ5RlFlSVhaVnp1UThYR2oxTGVoV19OR1lLSk5pNWpWcTdP?oc=5",
-   "source": "The Kathmandu Post",
-   "ts": 1794187449,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Nepal's share market weathers political jitters",
-   "en": "Nepal's share market weathers political jitters",
-   "ne": "Nepal's share market weathers political jitters",
-   "imp": 3,
-   "tags": [
-    "ShareMarket",
-    "NEPSE",
-    "शेयरबजार"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Seven dead and more than 100 injured after trains collide in Egypt",
    "summary": "At least seven people have died in a train crash near the Egyptian city of Giza, with more than 100 injured, BBC reported. The country's railway authority said two trains travelling south from Giza and Cairo collided,...",
    "link": "https://theannapurnaexpress.com/story/68625",
@@ -1737,7 +1715,7 @@
    "cat": "world",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "Q&A;: Before we get high on the cannabis law, let's measure the plant",
@@ -2171,7 +2149,7 @@
    "cat": "disaster",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "हरिचौर-मल्म पाण्डवखानी सडक : ठेक्काको चार वर्षपछि कालोपत्र तयारी",
@@ -2313,17 +2291,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1793593873.4140964,
-   "en": "Land subdivision halted in 333 local units in Nepal",
-   "ne": "Land subdivision halted in 333 local units in Nepal",
-   "link": "https://ua.news/en/nerukhomist/u-nepali-zupinili-podil-zemli-u-333-gromadakh-kathmandu-post",
-   "source": "UA.NEWS",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "economy"
-  },
   {
    "ts": 1793595683.7930486,
    "en": "UN chief 'saddened' by Nepal tragedy, offers help",
@@ -5359,9 +5326,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "economy"
+  },
+  {
+   "ts": 1794199255.6277332,
+   "en": "Nepal share market recovers to lose 12 points amid political arrest rumours",
+   "ne": "Nepal share market recovers to lose 12 points amid political arrest rumours",
+   "link": "https://kathmandupost.com/money/2026/11/09/nepal-s-share-market-weathers-political-jitters",
+   "source": "The Kathmandu Post",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "economy"
   }
  ],
- "updated": 1794198676,
+ "updated": 1794199263,
  "pending_since": 1794197452.5359316,
  "fb_blocks": [
   1790350880.4125228,
