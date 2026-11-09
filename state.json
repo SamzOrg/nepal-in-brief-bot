@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWlI5UTE5aENGeUNyZlpkanlhNHNkSFJuWFB3aFBMZTR3Nm5ZLXB1LUZuVldhN21FYXJrRzY3ZnhTTGxaT19hWjJxUFFhZFJwQksxOVYwTUl0NE9HbnU0SHY4OUZDUjl2M3pHTTlnLUpDOWhzUjIyV2VvT0RqWUlXN3ZZeHFXNU0tWWRuNVk4M3JRVjl0R3hnTnViOUVxT1ZuUFZkd3l4NlEwMDNBcmxZMzJnNldsTFVJZlpiMUJTWDVva2NaQVg2UUtpbHZRWTlXVzRGaF85NGE5V3c?oc=5": 1794073851.0944371,
   "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWnF3M1dZZXd6cXI3TVMzeEtEWU5GRkxfV0ZaRzlPcHNLcEtlaXBZdDctSGY4RHgwRHNsTk1CeFk0X1FaelYzT2otSmlZWFBVUjFYcDdxMDBuQk9kNU95ZTZ2ZnNqXzh1cGMweVIwanY3WllsZ3ZaYUloZXdhRTAwd0xuWllSSENUNWhWSmF0VS16SlJRb2tWWEo4Tlowb0Q2Ql9NQ0w1a0zSAa4BQVVfeXFMTkdzcEN3Z05XZElpYXg1U2lmLWFGQzVNd2hpQWkzdGVidk05UkljcEZ1d3ZnRTRwZF9jcmZzNTdtZ1E1UU9UWC1VenhReDJRS2FKU0JndHhCN05XcHhxQ180ZGg4RzNZc0JNMERzUkVSSVBEcXFWd3RFWHlqYTJ5NEVnOHFBZXR0dE1KcElWWTZWSW53d1o0aGZwaDNvdk05UEZBRmh5elJSdXBhTnR3?oc=5": 1794076266.9939532,
   "https://gorkhapatraonline.com/news/228661": 1794076266.9939532,
   "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQmwydk5CVnF6YnhGWEgyNTJuQTZHOEN0MWNBQndjZXhjckQtcnVGekFBcVJxNkU1ZG9LX1JRbG1kOHhldEoySVFoTjVkU3RIQ2ZKOGtfWWpsSW1jMUUyclJMbzJzempfYzFOU3lhTmgwX0dQNzdFam5PZDFSazNybF9lMTZoSW11Z0xyYUdR?oc=5": 1794076266.9939532,
@@ -1467,29 +1466,6 @@
     "AirPollution"
    ],
    "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "ब्याक गर्ने क्रममा ५० मिटर तल खस्यो जीप : दुई जनाको मृ`त्यु, १३ घाइते",
-   "summary": "सामान्य घाइते हुनेमा २३ वर्षीया सुशिला थापा एरी, २८ वर्षीया भावना थापा एरी, २७ वर्षीया खिममाया थापा, २० वर्षीया रमिता एरी र १९ वर्षीया निर्मला एरी रहेका छन्।...",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/jeep-falls-50-meters-while-backing-up-two-dead-13-injured-69-83.html",
-   "source": "Nagarik News",
-   "ts": 1794217519,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1784615247_Accident.jpg",
-   "lang": "ne",
-   "hl": "ब्याक गर्ने क्रममा ५० मिटर तल खस्यो जीप : दुई जनाको मृ`त्यु, १३ घाइते",
-   "en": "ब्याक गर्ने क्रममा ५० मिटर तल खस्यो जीप : दुई जनाको मृ`त्यु, १३ घाइते",
-   "ne": "ब्याक गर्ने क्रममा ५० मिटर तल खस्यो जीप : दुई जनाको मृ`त्यु, १३ घाइते",
-   "imp": 4,
-   "tags": [
-    "RukumWest",
-    "JeepAccident",
-    "RoadSafety"
-   ],
-   "cat": "disaster",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -6698,8 +6674,8 @@
    "cat": "disaster"
   }
  ],
- "updated": 1794246060,
- "pending_since": null,
+ "updated": 1794246658,
+ "pending_since": 1794246654.3360758,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
