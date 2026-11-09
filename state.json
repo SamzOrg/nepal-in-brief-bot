@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://nagariknews.nagariknetwork.com/politics/foreign-minister-khanal-departs-for-turkey-to-attend-cop-31-will-address-the-inaugural-session-73-44.html": 1794040845.9530823,
-  "https://news.google.com/rss/articles/CBMicEFVX3lxTE5xRFpxdktIcTh3dGVXMUVjZWFtR3ZUbjRGVU1qbGRLX3daOHAwd09EdWZINVhmQmI5QVBhYnFXUWRPbXN6cm5HWEFvYy1wLVZUUlBDenB3UTM3Z1gtMlJoTnp4TGtQWWtKeHRHcVQ2M0Y?oc=5": 1794040845.9530823,
   "https://baahrakhari.com/detail/506844": 1794041446.9899545,
   "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1nc2xQR1B0eC1RQlE3UDVSVWpJV1c1YU5sMDc5MEdXdktNTzJpRjZsbHVJV0ZLZkY2WGxtMU5ReGRfcFBRRmRZQWdaeWtnX3dF?oc=5": 1794041446.9899545,
   "http://english.ratopati.com/story/85971/mps-questions-on-supreme-court-nominee-justice-dangi": 1794042080.1885784,
@@ -1225,7 +1223,8 @@
   "https://english.onlinekhabar.com/oli-says-declining-cultural-values-have-destabilised-politics.html": 1794213068.8665204,
   "https://english.onlinekhabar.com/yuvraaj-first-century-of-npls.html": 1794213068.8665204,
   "https://english.onlinekhabar.com/syafrubesi-bridge-reopens.html": 1794213068.8665204,
-  "https://english.onlinekhabar.com/nepal-heritage-project-documents-over-2000-monuments-8000-archaeological-objects.html": 1794213068.8665204
+  "https://english.onlinekhabar.com/nepal-heritage-project-documents-over-2000-monuments-8000-archaeological-objects.html": 1794213068.8665204,
+  "http://english.ratopati.com/story/86122/pokhara-sets-a-target-of-218-runs-for-karnali": 1794213651.4077365
  },
  "queue": [
   {
@@ -3245,7 +3244,7 @@
    "cat": "sports",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "COP31 opens amid climate emergency and geopolitical tensions",
@@ -3718,30 +3717,6 @@
    "hits": 1
   },
   {
-   "title": "युवराज सर्म्राको शतकमा पोखराले कर्णालीलाई दियो २१८ रनको लक्ष्य",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/506963",
-   "source": "Baahrakhari",
-   "ts": 1794212900,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "युवराज सर्म्राको शतकमा पोखराले कर्णालीलाई दियो २१८ रनको लक्ष्य",
-   "en": "युवराज सर्म्राको शतकमा पोखराले कर्णालीलाई दियो २१८ रनको लक्ष्य",
-   "ne": "युवराज सर्म्राको शतकमा पोखराले कर्णालीलाई दियो २१८ रनको लक्ष्य",
-   "imp": 3,
-   "tags": [
-    "NPL",
-    "Pokhara",
-    "Karnali",
-    "YuvraajSamra"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 5
-  },
-  {
    "title": "छिमेकी मुलुक भारतको घाउमा धनगढी उपमहानगरपालिकाको मलम",
    "summary": "अविनाश चौधरीधनगढी, कात्तिक २३ गते । विकासदेखि पर्यावरण स्वच्छतामा चर्चा पाइरहेको कैलालीको धनगढी उपमहानगरपालिकाले अर्को वाहवाहीको कार्य गरेको छ । गोपाल हमाल नेतृत्वको सो पालिकाले छि...",
    "link": "https://gorkhapatraonline.com/news/228756",
@@ -3954,17 +3929,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1793608274.1356027,
-   "en": "Nepali Congress to demand early convening of federal parliament",
-   "ne": "Nepali Congress to demand early convening of federal parliament",
-   "link": "https://english.onlinekhabar.com/nepali-congress-to-press-for-early-convening-of-federal-parliament.html",
-   "source": "Onlinekhabar EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "politics"
-  },
   {
    "ts": 1793610100.3310764,
    "en": "Rapid Gender Analysis: Bhotekoshi Flood 2026, Nepal",
@@ -7000,10 +6964,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "politics"
+  },
+  {
+   "ts": 1794213656.6315944,
+   "en": "एनपीएल: युवराजको शतकमा पोखराले कर्णालीलाई दियो २१८ रनको लक्ष्य",
+   "ne": "एनपीएल: युवराजको शतकमा पोखराले कर्णालीलाई दियो २१८ रनको लक्ष्य",
+   "link": "https://baahrakhari.com/detail/506963",
+   "source": "Baahrakhari",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "sports"
   }
  ],
- "updated": 1794213076,
- "pending_since": null,
+ "updated": 1794213665,
+ "pending_since": 1794213651.4077365,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
