@@ -1,10 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbkdsdV9ZRV91TnRXLTJjNDBHN0hmZDlkMGk2OURVRWotOWRqM3hfOUJCM1djWGI5Qnp3YW1WNlNON3c3Y3BNd3hua2EzNnlSWnBUTGJhS19SQzAyVkpuV29PNXE3WmJLWnRrLVZnNDFYdWdSTHFOX3ZBcFV1dGZoYTZ0U1piSDAxTjNvVQ?oc=5": 1794095447.9720058,
-  "https://gorkhapatraonline.com/news/228664": 1794095447.9720058,
-  "http://english.ratopati.com/story/86017/this-is-the-foreign-exchange-rate-on-sunday": 1794095447.9720058,
-  "https://gorkhapatraonline.com/news/228663": 1794095447.9720058,
-  "http://english.ratopati.com/story/86016/today-is-the-second-day-of-yama-panchak-lakshmi-puja-is-being-performed-in-the-evening-along-with-kukur-tihar-and-narak-chaturdashi": 1794095447.9720058,
   "https://risingnepaldaily.com/news/88502": 1794097250.3723056,
   "http://english.ratopati.com/story/86019/israeli-president-calls-on-opposition-leader-eisenkot-to-form-government": 1794098447.7804575,
   "https://risingnepaldaily.com/news/88509": 1794099046.2961462,
@@ -1320,29 +1315,6 @@
    "val": 3,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "Nepal Premier League: Pokhara Avengers Secure First Win, Kathmandu Gurkhas Top Standings",
-   "summary": "Kathmandu. The two matches played on Monday under the third edition of the Nepal Premier League (NPL) have made the...",
-   "link": "http://english.ratopati.com/story/86171/today-in-npl-four-important-aspects-of-two-games",
-   "source": "Ratopati EN",
-   "ts": 1794241057,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/npl-pokhara-win_RzwwGXoHpI.webp",
-   "lang": "en",
-   "hl": "Nepal Premier League: Pokhara Avengers Secure First Win, Kathmandu Gurkhas Top Standings",
-   "en": "Nepal Premier League: Pokhara Avengers Secure First Win, Kathmandu Gurkhas Top Standings",
-   "ne": "Nepal Premier League: Pokhara Avengers Secure First Win, Kathmandu Gurkhas Top Standings",
-   "imp": 3,
-   "tags": [
-    "PremierLeague",
-    "PokharaAvengers",
-    "KathmanduGurkhas"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "New gold Sri Chakra proposed for Karnataka's Basrur, with rituals at Nepal's Pashupatinath Temple before",
@@ -4594,9 +4566,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "politics"
+  },
+  {
+   "ts": 1794268254.263374,
+   "en": "Pokhara Avengers Secure First Win in Nepal Premier League, Kathmandu Gurkhas Top Standings",
+   "ne": "Pokhara Avengers Secure First Win in Nepal Premier League, Kathmandu Gurkhas Top Standings",
+   "link": "http://english.ratopati.com/story/86171/today-in-npl-four-important-aspects-of-two-games",
+   "source": "Ratopati EN",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "sports"
   }
  ],
- "updated": 1794267652,
+ "updated": 1794268269,
  "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
