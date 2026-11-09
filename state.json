@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMieEFVX3lxTE1VMXpZY1hWZjRNMVJkMTBNQXljUVVWVHJTU0F5SUx6ejVTLVp0SHp5X0lfc2cxd0xQeS1YaEllQjN5VV9aMXRtNjE2NnlaQ19fRDl2ZEoxUXN2Nm9wWHBjU19UUC1ZV3VsUTdRb1JJX3N0MmpoQmlTTQ?oc=5": 1794058848.2692912,
-  "http://english.ratopati.com/story/85995/decision-to-provide-free-scholarships-up-to-higher-education-to-children-of-those-who-lost-their-lives-and-disappeared-in-the-bhotekoshi-flood": 1794058848.2692912,
   "http://english.ratopati.com/story/85996/kathmandus-deadly-bowling-lumbini-loses-6-wickets-in-the-powerplay": 1794059448.890269,
   "https://www.theguardian.com/world/2026/nov/08/nepal-tibet-floods-australians-still-missing-families": 1794060079.8733535,
   "https://gorkhapatraonline.com/news/228652": 1794060079.8733535,
@@ -1257,7 +1255,12 @@
   "https://theannapurnaexpress.com/story/68641": 1794229857.6685593,
   "https://kathmandupost.com/cricket/2026/11/09/rashid-s-half-century-lifts-kathmandu-to-180-against-chitwan": 1794230448.8865986,
   "https://theannapurnaexpress.com/story/68642": 1794230448.8865986,
-  "http://english.ratopati.com/story/86157/chitwan-begins-batting-in-reply": 1794231069.065954
+  "http://english.ratopati.com/story/86157/chitwan-begins-batting-in-reply": 1794231069.065954,
+  "https://news.google.com/rss/articles/CBMifEFVX3lxTE9SYks4bmd4X0tFX19PbmFUSDExSklRVTBlTWwybVdWWm9zRUlVbzFLTjJsODVvZnpNZFlEOVo2YVRsYllOR2tKUEZJbGxKM0ZCOVR4NXZhNllEbGhsNGZGV1ZPTHhpdV9IYmw4c0pXbEFXM21Ldk8wcHY0SkM?oc=5": 1794231651.9896894,
+  "http://english.ratopati.com/story/86159/23-mega-projects-worth-17-billion-are-being-showcased-at-the-infrastructure-conference-which-ones-will-be-shortlisted": 1794231651.9896894,
+  "https://gorkhapatraonline.com/news/228776": 1794231651.9896894,
+  "https://nagariknews.nagariknetwork.com/sports/the-all-rounder-has-presented-a-competitive-target-79-32.html": 1794231651.9896894,
+  "http://english.ratopati.com/story/86160/explosion-at-steel-factory-in-western-turkey-kills-three": 1794231651.9896894
  },
  "queue": [
   {
@@ -4356,7 +4359,7 @@
    "cat": "culture",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "ARC Europe selects NRMA Nepal as medical assistance partner",
@@ -4492,6 +4495,29 @@
     "Century"
    ],
    "cat": "sports",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Three Dead, Ten Missing in Turkish Steel Factory Explosion and Fire",
+   "summary": "Kathmandu. Three people have died and 10 workers are missing in an explosion and subsequent fire at a iron and...",
+   "link": "http://english.ratopati.com/story/86160/explosion-at-steel-factory-in-western-turkey-kills-three",
+   "source": "Ratopati EN",
+   "ts": 1794231546,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/turkey-map_Opp4lB9Hu2.jpg",
+   "lang": "en",
+   "hl": "Three Dead, Ten Missing in Turkish Steel Factory Explosion and Fire",
+   "en": "Three Dead, Ten Missing in Turkish Steel Factory Explosion and Fire",
+   "ne": "Three Dead, Ten Missing in Turkish Steel Factory Explosion and Fire",
+   "imp": 1,
+   "tags": [
+    "Turkey",
+    "Explosion",
+    "Fire"
+   ],
+   "cat": "disaster",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -7557,7 +7583,7 @@
    "cat": "crime"
   }
  ],
- "updated": 1794231073,
+ "updated": 1794231657,
  "pending_since": 1794229857.6685593,
  "fb_blocks": [
   1790350880.4125228,
