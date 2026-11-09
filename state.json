@@ -1261,29 +1261,6 @@
  },
  "queue": [
   {
-   "title": "'An emptiness no light can fill': Durban mother marks Diwali without daughter missing after Nepal floods",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOV2Y0UTVIR1NuNE9GbmNYSF95b0dfQWVXQnJOZ0U0aG1fZ045NUNjN2gtRThaUWV4SmFpZnpYUWtwQ1RJMUxrTmh6OUZaTVpTdElUczdCVEVCbW5XelZmWi16WWxIX0dPZ21mSllvOGJQR2RaV2ZVT2FFR1NPR1M4bk5aSzB2bzVGclEyem9uRDZxMlUtY0JHUlJWNmNpUHNSa2xrSEN2N2I5QnZ3a0hHQXBVeWIxLW94RlNRQ3doQUhsbXdJcXN6empYRTBlV3NVRmlTYzdyNA?oc=5",
-   "source": "Post",
-   "ts": 1794217925,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "'An emptiness no light can fill': Durban mother marks Diwali without daughter missing after Nepal floods",
-   "en": "'An emptiness no light can fill': Durban mother marks Diwali without daughter missing after Nepal floods",
-   "ne": "'An emptiness no light can fill': Durban mother marks Diwali without daughter missing after Nepal floods",
-   "imp": 2,
-   "tags": [
-    "Diwali",
-    "Durban",
-    "NepalFloods"
-   ],
-   "cat": "world",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "पहिरोको जोखिममा छेडेदह ताल, जग्गा विवादले संरक्षण रोकियो",
    "summary": "'पहिरो तालको छेउमै पुगेकाले अब ताल नै खोलिने जोखिम छ,' उनले भने, 'तत्काल रोकथामको पहल नभए ताल फुटेर सयौँ परिवार विस्थापित हुन सक्छन्।'",
    "link": "https://www.setopati.com/social/402341",
@@ -1445,30 +1422,6 @@
    "val": 3,
    "teaser": false,
    "hits": 2
-  },
-  {
-   "title": "पटाकाको कहर: पर्सामा बालकको मृ'त्यु, उपत्यकामा वायु प्रदूषण, जनावरलाई सास्ती",
-   "summary": "तिहारको उल्लासबीच जथाभावी पड्काइने पटाकाका कारण एकातिर मानवीय क्षति भइरहेको छ भने अर्कातिर वायु प्रदूषण र बहिरोपनको स्वास्थ्य जोखिम निम्तिएको छ। पर्सामा आज आफ्नै घरअगाडि पटाका पड्काउने क्रममा छर्रा लागेर ८ वर्षीय एक...",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/firecracker-havoc-death-of-a-child-in-parsa-air-pollution-in-the-valley-suffering-for-animals-95-41.html",
-   "source": "Nagarik News",
-   "ts": 1794218328,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1794218192_kym.jpg",
-   "lang": "ne",
-   "hl": "पटाकाको कहर: पर्सामा बालकको मृ'त्यु, उपत्यकामा वायु प्रदूषण, जनावरलाई सास्ती",
-   "en": "पटाकाको कहर: पर्सामा बालकको मृ'त्यु, उपत्यकामा वायु प्रदूषण, जनावरलाई सास्ती",
-   "ne": "पटाकाको कहर: पर्सामा बालकको मृ'त्यु, उपत्यकामा वायु प्रदूषण, जनावरलाई सास्ती",
-   "imp": 4,
-   "tags": [
-    "Tihar",
-    "Firecrackers",
-    "Parsa",
-    "AirPollution"
-   ],
-   "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
   },
   {
    "title": "चितवनले काठमाण्डूविरुद्ध पहिले फिल्डिङ गर्ने",
@@ -2734,28 +2687,6 @@
     "Chitwan"
    ],
    "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "COP31: Yearbook of Global Climate Action charts ten years of climate progress and highlights priorities for faster action",
-   "summary": "As world leaders gather for COP31, the Yearbook of Global Climate Action 2026 shows climate solutions scaling across sectors - from energy and transport to nature and food - while highlighting where implementation must...",
-   "link": "https://theannapurnaexpress.com/story/68643",
-   "source": "Annapurna Express",
-   "ts": 1794217858.8057039,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "COP31: Yearbook of Global Climate Action charts ten years of climate progress and highlights priorities for faster action",
-   "en": "COP31: Yearbook of Global Climate Action charts ten years of climate progress and highlights priorities for faster action",
-   "ne": "COP31: Yearbook of Global Climate Action charts ten years of climate progress and highlights priorities for faster action",
-   "imp": 2,
-   "tags": [
-    "COP31",
-    "ClimateAction"
-   ],
-   "cat": "world",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -6674,7 +6605,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1794246658,
+ "updated": 1794247291,
  "pending_since": 1794246654.3360758,
  "fb_blocks": [
   1790350880.4125228,
