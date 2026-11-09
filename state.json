@@ -1203,7 +1203,11 @@
   "https://www.setopati.com/social/402316": 1794194448.8964627,
   "https://baahrakhari.com/detail/506931": 1794194448.8964627,
   "https://www.setopati.com/sports/npl/402315": 1794194448.8964627,
-  "https://baahrakhari.com/detail/506930": 1794194448.8964627
+  "https://baahrakhari.com/detail/506930": 1794194448.8964627,
+  "https://www.setopati.com/politics/402317": 1794195067.871442,
+  "https://theannapurnaexpress.com/story/68629": 1794195067.871442,
+  "https://theannapurnaexpress.com/story/68628": 1794195067.871442,
+  "https://news.google.com/rss/articles/CBMiywFBVV95cUxNb3JPa28wVlU5XzZDbnUzVWFqRHI4ZjJkaU5RcE90cHhmcGM3V1l1cHM5YnRWNjZNX3JLVHhENHV4VFNfTG5nQm5xVXNGVmFFalA0cTRVUTJPOXlVWVRMYkRkenE5YkJ6dlJ3RFE3X0xQZ19SSHpDdWZTMm5COVRCRGF5OVdzVjREM0F6cllUNE0xd2xaNkJWRE05TnJJeWZXcmplM25fd0lpNEhqVnhBRmNLZlNpTjFyRFgtdEtoRGx1R09aQVBSeWJuUQ?oc=5": 1794195067.871442
  },
  "queue": [
   {
@@ -1248,29 +1252,6 @@
     "Music"
    ],
    "cat": "culture",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Manisha Koirala Champions Animal Welfare in Nepal: \"Compassion Must Extend Beyond Our Homes\"",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQeUpvY3hpRFlkWVVZNmo3cUVOanFrUFB6QUxjVmFSUFdjMVdsZmNoTGYxOGl0bFp4RTZvSXN5OTV3YW1Ua1pTVElIMGt1MHZvelJSdzRfeWRuWHZTMmg3T3dRRVJ6SGVydkpPd3l2RHhZdzMySlpQVk9TMHVjQ09lZmdDQW9aT05ld1FPY01nSURycF9vb295M3R5cF9sRHhRNGxTSW0zZUg2WWZTMVFyR3NsQWJQa2tQMEowako1QnVhZnh5b05ZdExDYjVCSmpXOWFZYXJBODnSAd4BQVVfeXFMT295X3U2RzN0VXNvb1BNQV83NElYRUtGTDhvdDhQVWk4cTJpdVpQX0hOSmwzbEplejlUZEJKQWVyalpvbmVqcGVweUh1SmNXVjJhSFB0Y3pIYmZCQmRfcWF3RjQ2RXd1YzRyaVZkRWZCQmxycmtESTlsaTdCR0xPSG90MGZhb3R5NTEwTXU1aUxLdkNXQnlsT0NacHcxZThWOEwwQjlVRDRtalpVVTdXblJGbFVrc3hFaEs4dVI1T0QtbzlaSjlYQkZqOXFCdzZVX0t4WTBZMlRWZWV1WUp3?oc=5",
-   "source": "Lokmat Times",
-   "ts": 1794166070,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Manisha Koirala Champions Animal Welfare in Nepal: \"Compassion Must Extend Beyond Our Homes\"",
-   "en": "Manisha Koirala Champions Animal Welfare in Nepal: \"Compassion Must Extend Beyond Our Homes\"",
-   "ne": "Manisha Koirala Champions Animal Welfare in Nepal: \"Compassion Must Extend Beyond Our Homes\"",
-   "imp": 2,
-   "tags": [
-    "ManishaKoirala",
-    "AnimalWelfare",
-    "Nepal"
-   ],
-   "cat": "society",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -1776,7 +1757,7 @@
    "cat": "economy",
    "val": 1,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Delhi's air quality slips into 'severe' category on Diwali, AQI at 406",
@@ -2094,20 +2075,33 @@
    "val": 3,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "Taskforce Kiwi Deployed Third Volunteer Rotation To Nepal To Support Flood Relief",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNb3JPa28wVlU5XzZDbnUzVWFqRHI4ZjJkaU5RcE90cHhmcGM3V1l1cHM5YnRWNjZNX3JLVHhENHV4VFNfTG5nQm5xVXNGVmFFalA0cTRVUTJPOXlVWVRMYkRkenE5YkJ6dlJ3RFE3X0xQZ19SSHpDdWZTMm5COVRCRGF5OVdzVjREM0F6cllUNE0xd2xaNkJWRE05TnJJeWZXcmplM25fd0lpNEhqVnhBRmNLZlNpTjFyRFgtdEtoRGx1R09aQVBSeWJuUQ?oc=5",
+   "source": "Scoop - New Zealand News",
+   "ts": 1794192060,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "Taskforce Kiwi Deployed Third Volunteer Rotation To Nepal To Support Flood Relief",
+   "en": "Taskforce Kiwi Deployed Third Volunteer Rotation To Nepal To Support Flood Relief",
+   "ne": "Taskforce Kiwi Deployed Third Volunteer Rotation To Nepal To Support Flood Relief",
+   "imp": 3,
+   "tags": [
+    "TaskforceKiwi",
+    "Nepal",
+    "FloodRelief",
+    "बाढी"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1793589673.6244326,
-   "en": "कांग्रेसद्वारा प्रतिपक्षी दलहरूको बैठक आह्वान, सोमबार दिउँसो १ बजे सिंहदरबारमा बस्ने",
-   "ne": "कांग्रेसद्वारा प्रतिपक्षी दलहरूको बैठक आह्वान, सोमबार दिउँसो १ बजे सिंहदरबारमा बस्ने",
-   "link": "http://lokaantar.com/story/332363/2026/11/2/nepali-congress-",
-   "source": "Lokaantar",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "politics"
-  },
   {
    "ts": 1793591458.3524547,
    "en": "न्यायालयको आरोपबारे छलफल गर्न सर्वोच्च अदालतको फुलकोर्ट बैठक आज बस्दै",
@@ -5145,8 +5139,8 @@
    "cat": "disaster"
   }
  ],
- "updated": 1794194454,
- "pending_since": null,
+ "updated": 1794195074,
+ "pending_since": 1794195067.871442,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
