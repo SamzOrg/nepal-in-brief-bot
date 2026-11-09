@@ -1395,28 +1395,6 @@
    "hits": 3
   },
   {
-   "title": "Wife, lover arrested for allegedly murdering husband to conceal affair",
-   "summary": "Biratnagar, November 9 Police have arrested a woman and her alleged lover for allegedly murdering her husband with an iron rod to conceal their extramarital relationship in Mohanpur, Ward 2 of Jahada Rural Municipality...",
-   "link": "https://english.onlinekhabar.com/wife-lover-arrested-for-allegedly-murdering-husband-to-conceal-affair.html",
-   "source": "Onlinekhabar EN",
-   "ts": 1794220556,
-   "weight": 3,
-   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/11/hatya-1024x500-1.jpg",
-   "lang": "en",
-   "hl": "Wife, lover arrested for allegedly murdering husband to conceal affair",
-   "en": "Wife, lover arrested for allegedly murdering husband to conceal affair",
-   "ne": "Wife, lover arrested for allegedly murdering husband to conceal affair",
-   "imp": 2,
-   "tags": [
-    "Murder",
-    "Affair"
-   ],
-   "cat": "crime",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "पोखरामा जुवातास खेलिरहेका ६ जना पक्राउ",
    "summary": "",
    "link": "https://baahrakhari.com/detail/506981",
@@ -1507,73 +1485,6 @@
    "val": 3,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "Prime Minister Balen Shah Seen in Relaxed Mood During Tihar Holiday",
-   "summary": "Kathmandu. Prime Minister Balendra Shah (Balen) has been seen in a carefree mood during the Tihar public holiday. He made...",
-   "link": "http://english.ratopati.com/story/86132/balens-cheerful-mood-with-the-song-lucifer-on-tihar",
-   "source": "Ratopati EN",
-   "ts": 1794220479,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/848931498_2174925216732100_317524271171335476_n_DcmY0877Di.webp",
-   "lang": "en",
-   "hl": "Prime Minister Balen Shah Seen in Relaxed Mood During Tihar Holiday",
-   "en": "Prime Minister Balen Shah Seen in Relaxed Mood During Tihar Holiday",
-   "ne": "Prime Minister Balen Shah Seen in Relaxed Mood During Tihar Holiday",
-   "imp": 2,
-   "tags": [
-    "BalenShah",
-    "Tihar"
-   ],
-   "cat": "politics",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "जलवायु परिवर्तनले बढाउँदै स्वास्थ्य जोखिम, स्वास्थ्य क्षेत्रलाई केन्द्रमा राख्न मन्त्री मेहताको जोड",
-   "summary": "स्वास्थ्य तथा खाद्य स्वच्छतामन्त्री निशा मेहताले जलवायु परिवर्तनलाई वातावरणीय चुनौतीका रूपमा मात्र नभई गम्भीर स्वास्थ्य समस्याका रूपमा बुझ्नुपर्ने बताएकी छन्।...",
-   "link": "https://nagariknews.nagariknetwork.com/politics/climate-change-increasing-health-risks-minister-mehta-stresses-on-keeping-the-health-sector-at-the-center-29-17.html",
-   "source": "Nagarik News",
-   "ts": 1794220426,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1794220361_Nisha.jpg",
-   "lang": "ne",
-   "hl": "जलवायु परिवर्तनले बढाउँदै स्वास्थ्य जोखिम, स्वास्थ्य क्षेत्रलाई केन्द्रमा राख्न मन्त्री मेहताको जोड",
-   "en": "जलवायु परिवर्तनले बढाउँदै स्वास्थ्य जोखिम, स्वास्थ्य क्षेत्रलाई केन्द्रमा राख्न मन्त्री मेहताको जोड",
-   "ne": "जलवायु परिवर्तनले बढाउँदै स्वास्थ्य जोखिम, स्वास्थ्य क्षेत्रलाई केन्द्रमा राख्न मन्त्री मेहताको जोड",
-   "imp": 3,
-   "tags": [
-    "ClimateChange",
-    "HealthRisks",
-    "MinisterMehta"
-   ],
-   "cat": "health",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "पोखराले खोल्यो जितको खाता",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/506979",
-   "source": "Baahrakhari",
-   "ts": 1794220800,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "पोखराले खोल्यो जितको खाता",
-   "en": "पोखराले खोल्यो जितको खाता",
-   "ne": "पोखराले खोल्यो जितको खाता",
-   "imp": 2,
-   "tags": [
-    "Pokhara",
-    "WinAccount"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "चितवनले टस जित्यो, काठमान्डुलाई ब्याटिङको निम्तो",
@@ -6509,8 +6420,8 @@
    "cat": "disaster"
   }
  ],
- "updated": 1794249078,
- "pending_since": null,
+ "updated": 1794249658,
+ "pending_since": 1794249653.4303317,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
