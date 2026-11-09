@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5JeUdTZ3FzWUdXODJiTkptakx5YUJfWENjcUZNcnE4ejJIUzY4S09zcFFGSFJCNDJuSWNZbElLcjdhWWpCLUdmTkctdHlBZzlCZWJmZ091WlI?oc=5": 1794046250.6898706,
   "https://www.setopati.com/sports/cricket/402241": 1794046853.6387267,
   "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZXZVRXBra3Nkc0o3ZEZzLTA0a0ZTQk9kN1pnWDF0cGxLcjNRUjZHNzJUNHF0VEFGTS1kMjFRVmlUcWtkMGhTbmJseG9nRU9UOFFEU2dsN2FYX05Zb2VFeTdHcXAzSnpOTjljbk01bm1SVE1KYnk3MzdNUzhiVHZScQ?oc=5": 1794047484.592942,
   "https://www.setopati.com/politics/402242": 1794047484.592942,
@@ -1223,7 +1222,12 @@
   "https://www.ujyaaloonline.com/detail/133333": 1794217259.8728013,
   "https://www.ujyaaloonline.com/detail/133332": 1794217259.8728013,
   "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBIOWhwRzBnX2pLZVlzcGIwWEp4dHBRTFVOT21OVE4xRzVPZE9YS1hEMnV5TWVLMGRXcmF2b3FrWVlzT3U1WHJFaWlsREVjRzhuQnlmOWY3ZkY?oc=5": 1794218485.4683933,
-  "https://english.khabarhub.com/2026/09/575035/": 1794218485.4683933
+  "https://english.khabarhub.com/2026/09/575035/": 1794218485.4683933,
+  "https://baahrakhari.com/detail/506973": 1794219053.0627458,
+  "https://nagariknews.nagariknetwork.com/sports/dharmarayo-karnali-in-the-powerplay-4-wickets-lost-while-scoring-56-runs-in-6-overs-11-62.html": 1794219053.0627458,
+  "https://english.khabarhub.com/2026/09/575039/": 1794219053.0627458,
+  "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRG5Jbkl4VC1BZUJCNDllMzVMXy1YbjNfUV9EZXJxel9tdDNXTnlRSTZvRjZobDZIMVRsWm9jM21sbm8wbnJienAteWx0RjZNY0dxZVF4RDR4dzZHak1FbnVIeUN0dlVZaGYzNm1wUlJBSExVU1hieHk0ZDgxdDB5ZGFmYmRKclZTeGRkVEM3Z05MdUwyYXhNVUNCMDVncHBoX09J?oc=5": 1794219053.0627458,
+  "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOV2Y0UTVIR1NuNE9GbmNYSF95b0dfQWVXQnJOZ0U0aG1fZ045NUNjN2gtRThaUWV4SmFpZnpYUWtwQ1RJMUxrTmh6OUZaTVpTdElUczdCVEVCbW5XelZmWi16WWxIX0dPZ21mSllvOGJQR2RaV2ZVT2FFR1NPR1M4bk5aSzB2bzVGclEyem9uRDZxMlUtY0JHUlJWNmNpUHNSa2xrSEN2N2I5QnZ3a0hHQXBVeWIxLW94RlNRQ3doQUhsbXdJcXN6empYRTBlV3NVRmlTYzdyNA?oc=5": 1794219053.0627458
  },
  "queue": [
   {
@@ -1362,27 +1366,6 @@
    "val": 3,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "Tag",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9USk9PUmYweVc1alBiYzgwZ2wzb2pXUW83M3ItUUxST044dEdJOW0yUHVQejJxT3RPaFZfbFhiLUhfbm5XWklUdGg3WHctZVZqbHdESzBQbVRhQkdvUnZQM0JsUktkaFFNMXAxcjZ5cUVUQVk?oc=5",
-   "source": "myRepublica",
-   "ts": 1794189789,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Tag",
-   "en": "Tag",
-   "ne": "Tag",
-   "imp": 1,
-   "tags": [
-    "Tag"
-   ],
-   "cat": "other",
-   "val": 1,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "Revisiting Last Week: Governance, Security and Diplomacy",
@@ -2344,28 +2327,6 @@
    ],
    "cat": "culture",
    "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Hasina seeks new passport in clearest sign of Bangladesh return",
-   "summary": "Hasina has asked Bangladesh's embassy in New Delhi to issue her a new passport and identity card, signalling a possible return in December amid a death sentence and deepening political divisions at home.",
-   "link": "https://kathmandupost.com/world/2026/11/09/hasina-seeks-new-passport-in-clearest-sign-of-bangladesh-return",
-   "source": "Kathmandu Post",
-   "ts": 1794190250.6548445,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Hasina seeks new passport in clearest sign of Bangladesh return",
-   "en": "Hasina seeks new passport in clearest sign of Bangladesh return",
-   "ne": "Hasina seeks new passport in clearest sign of Bangladesh return",
-   "imp": 1,
-   "tags": [
-    "SheikhHasina",
-    "Bangladesh"
-   ],
-   "cat": "world",
-   "val": 3,
    "teaser": false,
    "hits": 1
   },
@@ -3881,7 +3842,7 @@
    "cat": "world",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Nvidia CEO Jensen Huang Becomes World's Tenth Richest Person With $155 Billion Net Worth",
@@ -4072,20 +4033,55 @@
    "val": 3,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "Two killed, 13 injured in jeep accident in Rukum West",
+   "summary": "RUKUM WEST: Two people were killed and 13 others injured when a jeep met with an accident at Nayadanda in Aathbiskot Municipality-5, Rukum West, on Monday afternoon. According to the District Police Office, the...",
+   "link": "https://english.khabarhub.com/2026/09/575039/",
+   "source": "Khabarhub EN",
+   "ts": 1794218574,
+   "weight": 2,
+   "img": "https://english.khabarhub.com/wp-content/uploads/2024/10/Khabar-Hub-News_Accident_1200px-630X-px-Final_2021.01.21-Upload-e1748330914908-400x220.webp",
+   "lang": "en",
+   "hl": "Two killed, 13 injured in jeep accident in Rukum West",
+   "en": "Two killed, 13 injured in jeep accident in Rukum West",
+   "ne": "Two killed, 13 injured in jeep accident in Rukum West",
+   "imp": 4,
+   "tags": [
+    "JeepAccident",
+    "RukumWest",
+    "सवारीदुर्घटना"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "'An emptiness no light can fill': Durban mother marks Diwali without daughter missing after Nepal floods",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOV2Y0UTVIR1NuNE9GbmNYSF95b0dfQWVXQnJOZ0U0aG1fZ045NUNjN2gtRThaUWV4SmFpZnpYUWtwQ1RJMUxrTmh6OUZaTVpTdElUczdCVEVCbW5XelZmWi16WWxIX0dPZ21mSllvOGJQR2RaV2ZVT2FFR1NPR1M4bk5aSzB2bzVGclEyem9uRDZxMlUtY0JHUlJWNmNpUHNSa2xrSEN2N2I5QnZ3a0hHQXBVeWIxLW94RlNRQ3doQUhsbXdJcXN6empYRTBlV3NVRmlTYzdyNA?oc=5",
+   "source": "Post",
+   "ts": 1794217925,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "'An emptiness no light can fill': Durban mother marks Diwali without daughter missing after Nepal floods",
+   "en": "'An emptiness no light can fill': Durban mother marks Diwali without daughter missing after Nepal floods",
+   "ne": "'An emptiness no light can fill': Durban mother marks Diwali without daughter missing after Nepal floods",
+   "imp": 2,
+   "tags": [
+    "Diwali",
+    "Durban",
+    "NepalFloods"
+   ],
+   "cat": "world",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1793613699.6439714,
-   "en": "Three people found dead in Khotang, Dhanusha and Kailali districts",
-   "ne": "Three people found dead in Khotang, Dhanusha and Kailali districts",
-   "link": "https://english.onlinekhabar.com/3-people-found-dead-in-khotang-dhanusha-and-kailali.html",
-   "source": "Onlinekhabar EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "crime"
-  },
   {
    "ts": 1793615486.5558708,
    "en": "Nepal's extreme poverty fell to 2.4% by 2022, but over half remain economically vulnerable",
@@ -7121,9 +7117,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "crime"
+  },
+  {
+   "ts": 1794219059.4174104,
+   "en": "Bhote Koshi Flood Rescue Continues in Nepal Three Months Later",
+   "ne": "Bhote Koshi Flood Rescue Continues in Nepal Three Months Later",
+   "link": "https://www.studvest.no/english/floods-in-nepal-we-have-been-calling-for-environmental-justice/182368",
+   "source": "Studvest",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "disaster"
   }
  ],
- "updated": 1794218491,
+ "updated": 1794219067,
  "pending_since": 1794217853.373974,
  "fb_blocks": [
   1790350880.4125228,
