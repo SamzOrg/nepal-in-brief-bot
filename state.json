@@ -1260,75 +1260,6 @@
  },
  "queue": [
   {
-   "title": "जलवायु कार्ययोजनाको केन्द्रमा स्वास्थ्यलाई राख्न स्वास्थ्यमन्त्रीको आग्रह",
-   "summary": "सरोज ढुंगेलकाठमाडौं, कात्तिक २३ गते । स्वास्थ्य तथा खाद्य स्वच्छतामन्त्री निशा मेहताले जलवायु परिवर्तनका कारण उत्पन्न स्वास्थ्य सङ्कट न्यूनीकरणका लागि स्वास्थ्य क्षेत्रलाई राष्ट्रि...",
-   "link": "https://gorkhapatraonline.com/news/228775",
-   "source": "Gorkhapatra",
-   "ts": 1794229099,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/391065/conversions/nisha-mehata-original.jpg",
-   "lang": "ne",
-   "hl": "जलवायु कार्ययोजनाको केन्द्रमा स्वास्थ्यलाई राख्न स्वास्थ्यमन्त्रीको आग्रह",
-   "en": "जलवायु कार्ययोजनाको केन्द्रमा स्वास्थ्यलाई राख्न स्वास्थ्यमन्त्रीको आग्रह",
-   "ne": "जलवायु कार्ययोजनाको केन्द्रमा स्वास्थ्यलाई राख्न स्वास्थ्यमन्त्रीको आग्रह",
-   "imp": 3,
-   "tags": [
-    "HealthMinister",
-    "ClimateAction",
-    "Health"
-   ],
-   "cat": "health",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "दुई हजारभन्दा बढी स्मारक, आठ हजार पुरातात्विक वस्तुको अभिलेखीकरण",
-   "summary": "",
-   "link": "https://www.setopati.com/social/402353",
-   "source": "Setopati",
-   "ts": 1794229070,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "दुई हजारभन्दा बढी स्मारक, आठ हजार पुरातात्विक वस्तुको अभिलेखीकरण",
-   "en": "दुई हजारभन्दा बढी स्मारक, आठ हजार पुरातात्विक वस्तुको अभिलेखीकरण",
-   "ne": "दुई हजारभन्दा बढी स्मारक, आठ हजार पुरातात्विक वस्तुको अभिलेखीकरण",
-   "imp": 2,
-   "tags": [
-    "Monuments",
-    "Archaeology",
-    "Heritage"
-   ],
-   "cat": "culture",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "देउसी-भैलो खेल्न चौबिसै घण्टा अनुमति, मन्त्रालयले तोक्यो यी सात सर्त",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/506993",
-   "source": "Baahrakhari",
-   "ts": 1794228900,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "देउसी-भैलो खेल्न चौबिसै घण्टा अनुमति, मन्त्रालयले तोक्यो यी सात सर्त",
-   "en": "देउसी-भैलो खेल्न चौबिसै घण्टा अनुमति, मन्त्रालयले तोक्यो यी सात सर्त",
-   "ne": "देउसी-भैलो खेल्न चौबिसै घण्टा अनुमति, मन्त्रालयले तोक्यो यी सात सर्त",
-   "imp": 2,
-   "tags": [
-    "Tihar",
-    "DeusiBhailo",
-    "HomeMinistry"
-   ],
-   "cat": "society",
-   "val": 2,
-   "teaser": false,
-   "hits": 2
-  },
-  {
    "title": "Three Dead, Ten Missing in Turkish Steel Factory Explosion and Fire",
    "summary": "Kathmandu. Three people have died and 10 workers are missing in an explosion and subsequent fire at a iron and...",
    "link": "http://english.ratopati.com/story/86160/explosion-at-steel-factory-in-western-turkey-kills-three",
@@ -5536,7 +5467,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1794257454,
+ "updated": 1794258083,
  "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
