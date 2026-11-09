@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://gorkhapatraonline.com/news/228605": 1794022848.192806,
   "https://www.setopati.com/social/402224": 1794023451.8367622,
   "https://baahrakhari.com/detail/506828": 1794024078.4578693,
   "https://news.google.com/rss/articles/CBMihgJBVV95cUxNZFhKYlJOZGRscE12V1U2aE45MUhZYmdtbGNUdmVoN0xvVlBoMS1OUllqODVJM2RwNXFuSW9pN0lOaHlMUjNNNkltaWpwM2I1THdPckJjaTVTa1NCMEFtSnJfdEZEVzlFSnBVWHkzeTExVmJZYkZHVElETHhOVVRTM3ZhUmZMY3RtZ1NsQU53bl9rTzdpb2dlNm12emFHQTZkQzlScDVyVEVpQU1UU01VWFE0SHpLTDlEenZ2amlNSVJNMGVPbk5SQmhncWNSTjBOeFYzYUhLLWd0SU10RXMxSmQ0ZmdVLUdXbHdFUEVIbFRoOFBfWUZUY2UyYWhRdUUyYXFLc2hR?oc=5": 1794024078.4578693,
@@ -1186,7 +1185,10 @@
   "https://www.setopati.com/politics/402317": 1794195067.871442,
   "https://theannapurnaexpress.com/story/68629": 1794195067.871442,
   "https://theannapurnaexpress.com/story/68628": 1794195067.871442,
-  "https://news.google.com/rss/articles/CBMiywFBVV95cUxNb3JPa28wVlU5XzZDbnUzVWFqRHI4ZjJkaU5RcE90cHhmcGM3V1l1cHM5YnRWNjZNX3JLVHhENHV4VFNfTG5nQm5xVXNGVmFFalA0cTRVUTJPOXlVWVRMYkRkenE5YkJ6dlJ3RFE3X0xQZ19SSHpDdWZTMm5COVRCRGF5OVdzVjREM0F6cllUNE0xd2xaNkJWRE05TnJJeWZXcmplM25fd0lpNEhqVnhBRmNLZlNpTjFyRFgtdEtoRGx1R09aQVBSeWJuUQ?oc=5": 1794195067.871442
+  "https://news.google.com/rss/articles/CBMiywFBVV95cUxNb3JPa28wVlU5XzZDbnUzVWFqRHI4ZjJkaU5RcE90cHhmcGM3V1l1cHM5YnRWNjZNX3JLVHhENHV4VFNfTG5nQm5xVXNGVmFFalA0cTRVUTJPOXlVWVRMYkRkenE5YkJ6dlJ3RFE3X0xQZ19SSHpDdWZTMm5COVRCRGF5OVdzVjREM0F6cllUNE0xd2xaNkJWRE05TnJJeWZXcmplM25fd0lpNEhqVnhBRmNLZlNpTjFyRFgtdEtoRGx1R09aQVBSeWJuUQ?oc=5": 1794195067.871442,
+  "https://www.setopati.com/social/402318": 1794196248.8538718,
+  "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTHhkdFlHLW5YdE1Na0FqbDhCcTV1bi1veXdFOEhWSjYyX2YtS3lRV3RRUkpvREJtUk9GUVplWWFQUXpBS2Vsc0ZUbmk0ai1yVE1hZEIzdVJZN3V1WXRvVlh0RTdKbDdST05sVGx1UDQ2ZnNKWXFLUWtxd09DN2hyTmRJaXVaY2JHU1YydzE4dFpXeDg?oc=5": 1794196248.8538718,
+  "https://news.google.com/rss/articles/CBMipgFBVV95cUxPX3dpcWwySkYwRU1jbTg2X3BDVHY4VDRfdms5cVhlVHhGQmhXN2ZtZm52SWtwcXF5YlN3Sm1qWVM1bC16alljVFNyRkNadFNZcHN5bDhHQUt6Qi0zT3pqa2NpWThYYW45NEItcDdlUWQ1dDgybjlsQ2NpYWhVZTRKc1AtTDRyZHlVaGVaMHdOOXY3M0RqODZ5ZzVvbDZjZnhiWlZBVHln?oc=5": 1794196248.8538718
  },
  "queue": [
   {
@@ -1326,7 +1328,7 @@
    "cat": "economy",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Woman buys a ₹40,000 pillow for better sleep: Dogs worshipped during Diwali in Nepal | Top 5 interesting stories",
@@ -2053,6 +2055,29 @@
    ],
    "cat": "disaster",
    "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "From flood-hit areas to crime scenes, Nepal's police dogs sniff out vital clues",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPX3dpcWwySkYwRU1jbTg2X3BDVHY4VDRfdms5cVhlVHhGQmhXN2ZtZm52SWtwcXF5YlN3Sm1qWVM1bC16alljVFNyRkNadFNZcHN5bDhHQUt6Qi0zT3pqa2NpWThYYW45NEItcDdlUWQ1dDgybjlsQ2NpYWhVZTRKc1AtTDRyZHlVaGVaMHdOOXY3M0RqODZ5ZzVvbDZjZnhiWlZBVHln?oc=5",
+   "source": "Asia News Network",
+   "ts": 1794185992,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "From flood-hit areas to crime scenes, Nepal's police dogs sniff out vital clues",
+   "en": "From flood-hit areas to crime scenes, Nepal's police dogs sniff out vital clues",
+   "ne": "From flood-hit areas to crime scenes, Nepal's police dogs sniff out vital clues",
+   "imp": 2,
+   "tags": [
+    "NepalPolice",
+    "PoliceDogs",
+    "Crime"
+   ],
+   "cat": "society",
+   "val": 2,
    "teaser": false,
    "hits": 1
   }
@@ -5106,7 +5131,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1794195663,
+ "updated": 1794196252,
  "pending_since": 1794195067.871442,
  "fb_blocks": [
   1790350880.4125228,
