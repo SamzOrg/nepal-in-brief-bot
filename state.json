@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://theannapurnaexpress.com/story/68586": 1794036049.7214527,
-  "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdU8yZHpVRENsUVY3TmlWZ3RhMjNjcTY0OFdTWmlodmtiM1llOVo0MFhXa0d6R0gxN1VFYXhaQ3l4UWFHV0xkSVYtU2ZQZkVMMkcwNkd5ZjU0ZWZ5cFh5UmVNcVBMMnZiQnBjNVA4T0tNSnc0OElfODlUbzB1X1JHSzZ5YTNlUHlRRTZkNVpZR1ZuNi1EN3JqVUl5OV9TQUc1emd5d0w5bHA0VWZOdkhFTkFR?oc=5": 1794036049.7214527,
   "http://english.ratopati.com/story/85959/the-controversy-begins-as-soon-as-the-hearing-of-supreme-court-nominee-justice-pandey-is-over": 1794036669.0343478,
   "http://english.ratopati.com/story/85961/foreign-minister-khanal-leaves-for-turkey-to-participate-in-cop-31": 1794037250.9928796,
   "http://english.ratopati.com/story/85962/preparations-for-tea-festival-in-ilam": 1794037250.9928796,
@@ -1206,7 +1204,12 @@
   "https://www.setopati.com/art/art-activity/402327": 1794207680.6431468,
   "https://baahrakhari.com/detail/506950": 1794207680.6431468,
   "https://gorkhapatraonline.com/news/228750": 1794208250.6288714,
-  "https://gorkhapatraonline.com/news/228749": 1794208250.6288714
+  "https://gorkhapatraonline.com/news/228749": 1794208250.6288714,
+  "https://english.khabarhub.com/2026/09/575009/": 1794208850.3358352,
+  "https://nagariknews.nagariknetwork.com/Dharma-Saskriti/the-original-bhairav-dance-of-arghakhanchi-alive-for-generations-br-19-22.html": 1794208850.3358352,
+  "https://english.khabarhub.com/2026/09/575015/": 1794208850.3358352,
+  "https://english.khabarhub.com/2026/09/575012/": 1794208850.3358352,
+  "https://english.onlinekhabar.com/cop31-climate-emergency-geopolitics.html": 1794208850.3358352
  },
  "queue": [
   {
@@ -3132,7 +3135,7 @@
    "cat": "crime",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "पोखराले गर्‍यो तीन र कर्णालीले दुई खेलाडी परिवर्तन",
@@ -3316,6 +3319,75 @@
     "एनपिएल"
    ],
    "cat": "sports",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "NPL: Pokhara Avengers win toss",
+   "summary": "KATHMANDU: Pokhara Avengers have elected to bat first after winning the toss against Karnali Yaks in the third edition of the Nepal Premier League (NPL) at the Tribhuvan University International Cricket Ground in...",
+   "link": "https://english.khabarhub.com/2026/09/575015/",
+   "source": "Khabarhub EN",
+   "ts": 1794208684,
+   "weight": 2,
+   "img": "https://english.khabarhub.com/wp-content/uploads/2026/11/pokhara-karnali-4-400x220.jpg",
+   "lang": "en",
+   "hl": "NPL: Pokhara Avengers win toss",
+   "en": "NPL: Pokhara Avengers win toss",
+   "ne": "NPL: Pokhara Avengers win toss",
+   "imp": 3,
+   "tags": [
+    "NPL",
+    "PokharaAvengers",
+    "Cricket"
+   ],
+   "cat": "sports",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Dailekh Bolero accident: One dead, five injured",
+   "summary": "DAILEKH: One person died and five others were injured when a Bolero jeep overturned on the Karnali Highway at Kafaltoli, Gurans Rural Municipality-1, Dailekh, on Monday morning. The deceased has been identified as...",
+   "link": "https://english.khabarhub.com/2026/09/575012/",
+   "source": "Khabarhub EN",
+   "ts": 1794208462,
+   "weight": 2,
+   "img": "https://english.khabarhub.com/wp-content/uploads/2021/05/Accident-_-Car-640x360.jpg",
+   "lang": "en",
+   "hl": "Dailekh Bolero accident: One dead, five injured",
+   "en": "Dailekh Bolero accident: One dead, five injured",
+   "ne": "Dailekh Bolero accident: One dead, five injured",
+   "imp": 4,
+   "tags": [
+    "Dailekh",
+    "Accident",
+    "सवारीदुर्घटना"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "COP31 opens amid climate emergency and geopolitical tensions",
+   "summary": "Antalya, November 9 The UN's annual climate summit opened in Turkey on Monday, with rising global temperatures increasing pressure for urgent action as financial constraints, energy market uncertainty and geopolitical...",
+   "link": "https://english.onlinekhabar.com/cop31-climate-emergency-geopolitics.html",
+   "source": "Onlinekhabar EN",
+   "ts": 1794208312,
+   "weight": 3,
+   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/11/COP31.png",
+   "lang": "en",
+   "hl": "COP31 opens amid climate emergency and geopolitical tensions",
+   "en": "COP31 opens amid climate emergency and geopolitical tensions",
+   "ne": "COP31 opens amid climate emergency and geopolitical tensions",
+   "imp": 1,
+   "tags": [
+    "COP31",
+    "ClimateChange",
+    "World"
+   ],
+   "cat": "world",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -6370,7 +6442,7 @@
    "cat": "crime"
   }
  ],
- "updated": 1794208270,
+ "updated": 1794208855,
  "pending_since": 1794207680.6431468,
  "fb_blocks": [
   1790350880.4125228,
