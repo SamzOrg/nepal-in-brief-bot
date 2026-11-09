@@ -1198,7 +1198,8 @@
   "https://risingnepaldaily.com/news/88528": 1794200482.632689,
   "https://risingnepaldaily.com/news/88527": 1794200482.632689,
   "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMklzakxFS1N0azNBd3NGdFVUR1ZQbWVkTkpkbnBDbHdUekJPQTdTSkRidlVuNmNnYVY0TUlpV21hcmh0d0JVTnRKRkhkZ1ladHdvTlg4akkyX21PbmdCNmRwTjc4TTVHZ3lGeFRjaUZkaW5kNFR5SGdielZJejljODZNWHBrcTY0Nm1zQVY2Z0tDZ2RRWjR0MG5QZVM0S0dvT0VVQlBR?oc=5": 1794200482.632689,
-  "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcWREem1hQy16X2RUcDZ4dUUtSXNsN0xMdzlfY1g3SkpNUWUta0R5R09MbjNORUMtcDlSakhndW9RWGpjT2c4a1RDSi15c1doVERvN3NyTm1rckQyRk92T3NwdXVpZl90Yl9qUXhjd0FoS3RLd0tJYjhOTmZBWXZjNEZHY1BJV3I4bjNDZTZaMU43LVJmbVhDd0tUX1ZwQzBlSGhSXzZpbXh0MzlQaE52empNNGxIWHhDUkxxYUZR?oc=5": 1794200482.632689
+  "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcWREem1hQy16X2RUcDZ4dUUtSXNsN0xMdzlfY1g3SkpNUWUta0R5R09MbjNORUMtcDlSakhndW9RWGpjT2c4a1RDSi15c1doVERvN3NyTm1rckQyRk92T3NwdXVpZl90Yl9qUXhjd0FoS3RLd0tJYjhOTmZBWXZjNEZHY1BJV3I4bjNDZTZaMU43LVJmbVhDd0tUX1ZwQzBlSGhSXzZpbXh0MzlQaE52empNNGxIWHhDUkxxYUZR?oc=5": 1794200482.632689,
+  "https://www.setopati.com/social/402323": 1794201050.8851433
  },
  "queue": [
   {
@@ -2507,17 +2508,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1793595683.7930486,
-   "en": "UN chief 'saddened' by Nepal tragedy, offers help",
-   "ne": "UN chief 'saddened' by Nepal tragedy, offers help",
-   "link": "https://ddnews.gov.in/en/un-chief-saddened-by-nepal-tragedy-offers-help/",
-   "source": "DD News",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "disaster"
-  },
   {
    "ts": 1793597488.6114993,
    "en": "Nepal's capital expenditure stuck at 6.83% three and a half months into fiscal year 2083/84",
@@ -5553,9 +5543,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "economy"
+  },
+  {
+   "ts": 1794201056.3282714,
+   "en": "पर्सामा पटका पट्काउने क्रममा छर्रा लागेर ८ वर्षीय बालकको मृत्यु",
+   "ne": "पर्सामा पटका पट्काउने क्रममा छर्रा लागेर ८ वर्षीय बालकको मृत्यु",
+   "link": "https://www.setopati.com/social/402323",
+   "source": "Setopati",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "society"
   }
  ],
- "updated": 1794200485,
+ "updated": 1794201071,
  "pending_since": 1794200482.632689,
  "fb_blocks": [
   1790350880.4125228,
