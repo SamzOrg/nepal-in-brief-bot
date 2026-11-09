@@ -1212,7 +1212,11 @@
   "https://gorkhapatraonline.com/news/228751": 1794210048.8175797,
   "https://baahrakhari.com/detail/506954": 1794210048.8175797,
   "https://nagariknews.nagariknetwork.com/social-affairs/taxation-for-407-drivers-who-drink-and-violate-the-rules-96-85.html": 1794210048.8175797,
-  "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBIVURxZzlwRXZDb3ZOYU90YVZWc1hjYngycDMxOXZVYzJwbGhMbnkyRUJUNnRNOTRDaWhVVmlaOGZyX2Y2ZFBLdHRqd2hCMHNwa05RV25MM0NtcGVB?oc=5": 1794210651.21682
+  "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBIVURxZzlwRXZDb3ZOYU90YVZWc1hjYngycDMxOXZVYzJwbGhMbnkyRUJUNnRNOTRDaWhVVmlaOGZyX2Y2ZFBLdHRqd2hCMHNwa05RV25MM0NtcGVB?oc=5": 1794210651.21682,
+  "https://gorkhapatraonline.com/news/228755": 1794211281.5483425,
+  "https://baahrakhari.com/detail/506960": 1794211281.5483425,
+  "http://english.ratopati.com/story/86115/3-killed-in-motorcycle-accident-in-nuwakot": 1794211281.5483425,
+  "https://nagariknews.nagariknetwork.com/sports/yuvraj-samra-s-explosive-half-century-gives-pokhara-a-strong-start-13-86.html": 1794211281.5483425
  },
  "queue": [
   {
@@ -3653,6 +3657,51 @@
    ],
    "cat": "society",
    "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Three Dead in Nuwakot Motorcycle Accident",
+   "summary": "Nuwakot. 3 people have died in a motorcycle accident in Nuwakot. The accident occurred when a motorcycle went out of...",
+   "link": "http://english.ratopati.com/story/86115/3-killed-in-motorcycle-accident-in-nuwakot",
+   "source": "Ratopati EN",
+   "ts": 1794210620,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/accident_oIs6IU8neE.webp",
+   "lang": "en",
+   "hl": "Three Dead in Nuwakot Motorcycle Accident",
+   "en": "Three Dead in Nuwakot Motorcycle Accident",
+   "ne": "Three Dead in Nuwakot Motorcycle Accident",
+   "imp": 3,
+   "tags": [
+    "Nuwakot",
+    "MotorcycleAccident"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "युवराज सम्राको विस्फोटक अर्धशतक, पोखरालाई दिलाए बलियो सुरुआत",
+   "summary": "पोखरा एभेन्जर्सका युवराज सिंह सम्राले नेपाल प्रिमियर लिग (एनपीएल)मा कर्णाली याक्सविरुद्ध विस्फोटक अर्धशतक प्रहार गरेका छन्।...",
+   "link": "https://nagariknews.nagariknetwork.com/sports/yuvraj-samra-s-explosive-half-century-gives-pokhara-a-strong-start-13-86.html",
+   "source": "Nagarik News",
+   "ts": 1794210373,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2025/third-party/1794210667_pohD.png",
+   "lang": "ne",
+   "hl": "युवराज सम्राको विस्फोटक अर्धशतक, पोखरालाई दिलाए बलियो सुरुआत",
+   "en": "युवराज सम्राको विस्फोटक अर्धशतक, पोखरालाई दिलाए बलियो सुरुआत",
+   "ne": "युवराज सम्राको विस्फोटक अर्धशतक, पोखरालाई दिलाए बलियो सुरुआत",
+   "imp": 3,
+   "tags": [
+    "YuvrajSamra",
+    "Pokhara",
+    "Cricket"
+   ],
+   "cat": "sports",
+   "val": 3,
    "teaser": false,
    "hits": 1
   }
@@ -6706,7 +6755,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1794210654,
+ "updated": 1794211287,
  "pending_since": 1794210651.21682,
  "fb_blocks": [
   1790350880.4125228,
