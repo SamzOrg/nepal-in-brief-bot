@@ -1248,7 +1248,10 @@
   "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQmwydk5CVnF6YnhGWEgyNTJuQTZHOEN0MWNBQndjZXhjckQtcnVGekFBcVJxNkU1ZG9LX1JRbG1kOHhldEoySVFoTjVkU3RIQ2ZKOGtfWWpsSW1jMUUyclJMbzJzempfYzFOU3lhTmgwX0dQNzdFam5PZDFSazNybF9lMTZoSW11Z0xyYUdR?oc=5": 1794256825.9230075,
   "https://news.google.com/rss/articles/CBMiogFBVV95cUxQc1k1a2M2TzEtY2dBcG5wNWd6Z0RHS09hV0lHZS1SN041Yl9xWDI3MWx3MjFHVzV1eGxIUy1Xeks5S0dTbW55by1GZmp2aFpKWDJ5Z29ZQ0Q1UDJnbml5TmtLNmhVWVRJU2VNUjRnb09sNHM2ZjNfd1Y1Zkd4cEQtUjlXZnRJeEY4YkdoZW0xUHNuUnNBYVpwR2xkNnlWcEZvYmc?oc=5": 1794256825.9230075,
   "https://news.google.com/rss/articles/CBMifEFVX3lxTE04cmJDYXMwdzMzbXF4T2RhMWtoRElsNHJjNU9reWhhYTRnSzZiR2xGQ0o2UTYtckUwc25rbi05S2lTMWVTYnNVcHFFanRvcGlWMS1iQ1I1dmFZWTJFdzh5eXRwc2p2Z0F5d0Ffdl9aeUNBOVAxSGpDQjdjalY?oc=5": 1794267649.523736,
-  "https://www.ujyaaloonline.com/detail/133344": 1794270051.5064225
+  "https://www.ujyaaloonline.com/detail/133344": 1794270051.5064225,
+  "https://english.khabarhub.com/2026/10/575090/": 1794270666.2132337,
+  "https://baahrakhari.com/detail/507007": 1794270666.2132337,
+  "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZHJoa0pkblhqTHRkNm1sZUo0MmlLUUVCOWJiNDNGQUhfNWNsbVNCNWhlVFgtNFBvOWpPNzFITkt3b09CN0ZWSkR4d0h1TUxNS0V6eWE4X2RPMEQ0bjBJX0t3a0Fuejg5M200cktRd2o0WTZSUDJwbW1hQlA5ZGUyZUpSb2h1SUszMmlqOA?oc=5": 1794270666.2132337
  },
  "queue": [
   {
@@ -1270,50 +1273,6 @@
     "SriChakra"
    ],
    "cat": "culture",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Traffic Police Chief Directs Effective Management During Festivals",
-   "summary": "Kathmandu. Chief of Kathmandu Valley Traffic Police Office and Senior Superintendent of Police Suresh Prasad Kafle has directed subordinate police...",
-   "link": "http://english.ratopati.com/story/86173/traffic-police-chief-kafle-directs-to-make-traffic-management-effective-during-festivals",
-   "source": "Ratopati EN",
-   "ts": 1794241846,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/suresh-kafle_GH22tY3eQd.jpg",
-   "lang": "en",
-   "hl": "Traffic Police Chief Directs Effective Management During Festivals",
-   "en": "Traffic Police Chief Directs Effective Management During Festivals",
-   "ne": "Traffic Police Chief Directs Effective Management During Festivals",
-   "imp": 2,
-   "tags": [
-    "TrafficPolice",
-    "Festival"
-   ],
-   "cat": "society",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Former Israeli Army Chief Gadi Eisenkot Given Time to Form Government",
-   "summary": "Israel. Former Israeli Army Chief Gadi Eisenkot has a few weeks to form a government, even though there is no...",
-   "link": "http://english.ratopati.com/story/86172/tough-coalition-choices-face-eisenkot-for-israeli-leadership",
-   "source": "Ratopati EN",
-   "ts": 1794241525,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/d9aea170-daf1-11f1-a701-fddedf244c16jpg_0onx6zfpdc_VCp6LqXwWm.webp",
-   "lang": "en",
-   "hl": "Former Israeli Army Chief Gadi Eisenkot Given Time to Form Government",
-   "en": "Former Israeli Army Chief Gadi Eisenkot Given Time to Form Government",
-   "ne": "Former Israeli Army Chief Gadi Eisenkot Given Time to Form Government",
-   "imp": 1,
-   "tags": [
-    "Israel",
-    "GadiEisenkot"
-   ],
-   "cat": "world",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -1411,17 +1370,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1793665273.4764779,
-   "en": "Nepal's public debt exceeds Rs. 3 trillion in Q1 of 2026/27, reaching 45.59% of GDP",
-   "ne": "Nepal's public debt exceeds Rs. 3 trillion in Q1 of 2026/27, reaching 45.59% of GDP",
-   "link": "https://risingnepaldaily.com/news/88329",
-   "source": "Rising Nepal",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "economy"
-  },
   {
    "ts": 1793667059.9246984,
    "en": "NEA announces three-hour power outage in Kathmandu today",
@@ -4470,7 +4418,7 @@
    "cat": "society"
   }
  ],
- "updated": 1794270102,
+ "updated": 1794270670,
  "pending_since": 1794270051.5064225,
  "fb_blocks": [
   1790350880.4125228,
