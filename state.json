@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaC1CZGRxZlZVU0M5bGhSaGRJUmprMnVpZ2VMeC16b1BQM0hBLV85cUM2ME1rcU5TV2ZuVG5vQlRtSHU1X0hDVUdIMWVCR2ZOaXIzYXc5V0JxUFM2aWVzXzk0VkhoUnE3YzBmYzJYS1VVZlZRN25VYmZONzhFTGJseGRDTF9ZZkZEZ1o0R1dKbjBqdE9UeUhvV0hndGJwa1ZqcHhTSUVIQjhsYVk?oc=5": 1794148264.817566,
-  "https://nagariknews.nagariknetwork.com/sports/india-s-georgian-fc-wins-triyuga-gold-cup-title-99-64.html": 1794148264.817566,
   "https://baahrakhari.com/detail/506916": 1794148850.5970266,
   "https://nagariknews.nagariknetwork.com/social-affairs/six-prisoners-who-escaped-by-digging-a-tunnel-arrested-two-still-at-large-73-42.html": 1794148850.5970266,
   "https://baahrakhari.com/detail/506917": 1794148850.5970266,
@@ -1182,7 +1180,8 @@
   "http://english.ratopati.com/story/86236/zelensky-nordic-leaders-discuss-military-cooperation-air-defense-and-energy-security": 1794320453.085665,
   "https://nagariknews.nagariknetwork.com/photo-feature/muscat-s-deusi-bhailo-heats-up-the-npl-field-with-photos-58-34.html": 1794320453.085665,
   "https://nagariknews.nagariknetwork.com/sports/janakpur-suffers-setback-in-powerplay-3-wickets-lost-while-scoring-28-runs-33-89.html": 1794320453.085665,
-  "https://nagariknews.nagariknetwork.com/international/famous-tv-presenter-rabia-s-death-husband-under-investigation-66-68.html": 1794320453.085665
+  "https://nagariknews.nagariknetwork.com/international/famous-tv-presenter-rabia-s-death-husband-under-investigation-66-68.html": 1794320453.085665,
+  "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRTg1Z0UxaFl4eUtzREtjbXBTcjRmLUlrbWVKZTlVVlNuZDkwU1ZFbDNzUmZfU2I4YU9Ic3R3UEJhS1BEeTF0V2QxREV3VXZoZFpLWkIwWlVNQ3hvVWFOaDd4WWZhb2tSS3BRYWRabHlxcEY3VVZsb1poazdBMVVLOGhPRVRyN3owOEM5UHRRaW9xbEc5ZFFCZF9wWm5abTV0UTZN?oc=5": 1794321074.1378243
  },
  "queue": [
   {
@@ -1225,29 +1224,6 @@
     "PrakashmanSingh",
     "GaneshManSingh",
     "NepaliCongress"
-   ],
-   "cat": "politics",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "निर्वाचित पार्टी सभापतिलाई विस्थापित गर्ने अधिकार कसैलाई छैन : सिंह",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/507027",
-   "source": "Baahrakhari",
-   "ts": 1794291960,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "निर्वाचित पार्टी सभापतिलाई विस्थापित गर्ने अधिकार कसैलाई छैन : सिंह",
-   "en": "निर्वाचित पार्टी सभापतिलाई विस्थापित गर्ने अधिकार कसैलाई छैन : सिंह",
-   "ne": "निर्वाचित पार्टी सभापतिलाई विस्थापित गर्ने अधिकार कसैलाई छैन : सिंह",
-   "imp": 3,
-   "tags": [
-    "NepaliCongress",
-    "PrakashmanSingh",
-    "राजनीति"
    ],
    "cat": "politics",
    "val": 2,
@@ -7039,8 +7015,8 @@
    "cat": "disaster"
   }
  ],
- "updated": 1794320491,
- "pending_since": null,
+ "updated": 1794321076,
+ "pending_since": 1794321074.1378243,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
