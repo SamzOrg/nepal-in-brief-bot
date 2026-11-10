@@ -1,6 +1,5 @@
 {
  "seen": {
-  "http://english.ratopati.com/story/86083/28-people-arrested-from-various-districts-while-gambling": 1794133869.7718904,
   "https://gorkhapatraonline.com/news/228710": 1794134447.3217475,
   "https://baahrakhari.com/detail/506906": 1794134447.3217475,
   "https://english.onlinekhabar.com/flower-trade-booms-in-the-capital-during-tihar.html": 1794134447.3217475,
@@ -1250,29 +1249,6 @@
    "hits": 3
   },
   {
-   "title": "नयाँ राहदानी माग्दै शेख हसिनाले पठाइन् पत्र, बंगलादेश सरकारले गर्‍यो अस्वीकार",
-   "summary": "बंगलादेशकी अपदस्थ प्रधानमन्त्री शेख हसिनाले भारतमा रहेको निर्वासन अन्त्य गरी स्वदेश फर्कने तयारीस्वरूप नयाँ राहदानी र राष्ट्रिय परिचयपत्र (एनआईडी) जारी गर्न माग गरेकी छन्। तर बंगलादेश सरकारले उनको माग अस्वीकार गरेको छ।",
-   "link": "https://www.setopati.com/social/402361",
-   "source": "Setopati",
-   "ts": 1794277643,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "नयाँ राहदानी माग्दै शेख हसिनाले पठाइन् पत्र, बंगलादेश सरकारले गर्‍यो अस्वीकार",
-   "en": "नयाँ राहदानी माग्दै शेख हसिनाले पठाइन् पत्र, बंगलादेश सरकारले गर्‍यो अस्वीकार",
-   "ne": "नयाँ राहदानी माग्दै शेख हसिनाले पठाइन् पत्र, बंगलादेश सरकारले गर्‍यो अस्वीकार",
-   "imp": 2,
-   "tags": [
-    "SheikhHasina",
-    "Bangladesh",
-    "Passport"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "मध्यावधि चुनावमा पराजयपछि ट्रम्पद्वारा धाँधलीको आरोप",
    "summary": "",
    "link": "https://baahrakhari.com/detail/507016",
@@ -1315,29 +1291,6 @@
    ],
    "cat": "culture",
    "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "आज विश्व विज्ञान दिवस मनाइँदै, शान्ति र विकासमा विज्ञानको भूमिकामाथि जोड",
-   "summary": "समाजमा विज्ञानको महत्वबारे जनचेतना अभिवृद्धि गर्ने तथा वैज्ञानिक उपलब्धि र अनुसन्धानलाई आम नागरिकसम्म पुर्‍याउने उद्देश्यले यो दिवस मनाउने गरिन्छ।...",
-   "link": "https://nagariknews.nagariknetwork.com/technology/world-science-day-being-celebrated-today-emphasis-on-the-role-of-science-in-peace-and-development-55-38.html",
-   "source": "Nagarik News",
-   "ts": 1794277725,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1786158855_Prabidhi%2098.jpg",
-   "lang": "ne",
-   "hl": "आज विश्व विज्ञान दिवस मनाइँदै, शान्ति र विकासमा विज्ञानको भूमिकामाथि जोड",
-   "en": "आज विश्व विज्ञान दिवस मनाइँदै, शान्ति र विकासमा विज्ञानको भूमिकामाथि जोड",
-   "ne": "आज विश्व विज्ञान दिवस मनाइँदै, शान्ति र विकासमा विज्ञानको भूमिकामाथि जोड",
-   "imp": 2,
-   "tags": [
-    "ScienceDay",
-    "WorldScienceDay",
-    "विज्ञान"
-   ],
-   "cat": "tech",
-   "val": 3,
    "teaser": false,
    "hits": 1
   },
@@ -7085,7 +7038,7 @@
    "cat": "sports"
   }
  ],
- "updated": 1794306086,
+ "updated": 1794306674,
  "pending_since": 1794304882.7979336,
  "fb_blocks": [
   1790350880.4125228,
