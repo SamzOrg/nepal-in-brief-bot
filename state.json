@@ -1184,7 +1184,8 @@
   "https://news.google.com/rss/articles/CBMibkFVX3lxTFBpQzNMdEhHOWNTLU5tdlBqaUlwSFdhYjVzMGZmZ3hLWHhTN3ZJWHNTdHpUWGlxbTNSd0JFai1XR0hURVpRTWVJVVRlOGtOa004ODY3SW0zY2M5UVpQaktELS1zYUJmbkNLOG5ROVRn?oc=5": 1794340881.4159675,
   "https://news.google.com/rss/articles/CBMifkFVX3lxTE0zd3lKSDdTdm1RTEc2MnpkMFVLTHlzVDBJZXVzVDU1elAwVk9tTUNsdjU2a2FMMEFvY2lCSnpjWHNjT1RrVUNtejFVNXJ1Z3QwRnpES3BFNGF5RkJWVWt4YTFGSVBqNTdOanRQMDRVbHNXX0VqNTVFeTJfNkc5QQ?oc=5": 1794341451.0194018,
   "https://news.google.com/rss/articles/CBMinwFBVV95cUxOS3FJdjZ2aFA2Zy1VSF9sNDU4Z3VvbUYyNDVwbjY0aXg3cElwXzFwM0dscTJqRVhzbFhmam9jOXFGT1ZwTzUwX1JMSWh1bVJiUGp0bktaZVNLRkIzZDYxNzcyXzR3a1d2TFNGM1NjXzBpTEsyc0kzT2hWRFVUcGRYR0sxVi1qSmRiNTNVR2x2cUdRZ3BnR0xaaEk5elFFZVk?oc=5": 1794345049.2255647,
-  "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOGx0c1lFY0NSaFhRY2JqbXFIVHBDSmJ0eDdzVF9YQUFwdkVnemkzbDNzVUVYV3JCbjU3VXFMQnFrZXZpLWRDX3hDVENQaXkxa2tUSlRiMDdyTFo1MWZ6VmNzZVdhZVdaR01VQm1vbmJkc1BHNUN0UkVydXJOYktRYTdBWENnQTB4NEpIaWo4RDFhbl8wYVE?oc=5": 1794345049.2255647
+  "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOGx0c1lFY0NSaFhRY2JqbXFIVHBDSmJ0eDdzVF9YQUFwdkVnemkzbDNzVUVYV3JCbjU3VXFMQnFrZXZpLWRDX3hDVENQaXkxa2tUSlRiMDdyTFo1MWZ6VmNzZVdhZVdaR01VQm1vbmJkc1BHNUN0UkVydXJOYktRYTdBWENnQTB4NEpIaWo4RDFhbl8wYVE?oc=5": 1794345049.2255647,
+  "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdkFveDJSUkFkZkJidmdmSGVaMHlIcEVGTlhjRlU5a3A5NWVHRzZRby0xd0pZUG52UWpqQnYwb0czUVJwNHpiUTNYbGlha0VfWmNEN19kZEVTVWsyc2c2a2tGLS1odFB1LU9EeGZFT0xtY2tnOWZKRGQya0FCS2tSQVhvUFZyT1B2Q1FlaXktX21Idk8wbUFUZDdQR1JQb25aMWh2MVRtQXFCOWFsQzZYX2d6TWtLQjg?oc=5": 1794349867.8124518
  },
  "queue": [
   {
@@ -1325,29 +1326,6 @@
    "cat": "politics",
    "val": 1,
    "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "सामाजिक सञ्जालमा ज्ञानेन्द्र शाही र आशिका तामाङबीच 'दोहोरी'",
-   "summary": "ठेलागाडा व्यापारीमाथि दुर्व्यवहार गरिएको एक पुरानो भिडियोलाई लिएर राष्ट्रिय प्रजातन्त्र पार्टी (राप्रपा) का सांसद ज्ञानेन्द्र शाही र राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) की सांसद आशिका तामाङबीच सामाजिक सञ्जालमा दोहोरी...",
-   "link": "https://nagariknews.nagariknetwork.com/politics/there-is-a-cart-24-72.html",
-   "source": "Nagarik News",
-   "ts": 1794320475,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1794320221_s.png",
-   "lang": "ne",
-   "hl": "सामाजिक सञ्जालमा ज्ञानेन्द्र शाही र आशिका तामाङबीच 'दोहोरी'",
-   "en": "सामाजिक सञ्जालमा ज्ञानेन्द्र शाही र आशिका तामाङबीच 'दोहोरी'",
-   "ne": "सामाजिक सञ्जालमा ज्ञानेन्द्र शाही र आशिका तामाङबीच 'दोहोरी'",
-   "imp": 2,
-   "tags": [
-    "SocialMedia",
-    "GyanendraShahi",
-    "AshikaTamang"
-   ],
-   "cat": "society",
-   "val": 1,
-   "teaser": true,
    "hits": 1
   },
   {
@@ -1891,20 +1869,32 @@
    "val": 2,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "Digital Health in Nepal: A 3-Year Roadmap to Connect Hospital EMRs",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdkFveDJSUkFkZkJidmdmSGVaMHlIcEVGTlhjRlU5a3A5NWVHRzZRby0xd0pZUG52UWpqQnYwb0czUVJwNHpiUTNYbGlha0VfWmNEN19kZEVTVWsyc2c2a2tGLS1odFB1LU9EeGZFT0xtY2tnOWZKRGQya0FCS2tSQVhvUFZyT1B2Q1FlaXktX21Idk8wbUFUZDdQR1JQb25aMWh2MVRtQXFCOWFsQzZYX2d6TWtLQjg?oc=5",
+   "source": "DataDrivenInvestor",
+   "ts": 1794322992,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "Digital Health in Nepal: A 3-Year Roadmap to Connect Hospital EMRs",
+   "en": "Digital Health in Nepal: A 3-Year Roadmap to Connect Hospital EMRs",
+   "ne": "Digital Health in Nepal: A 3-Year Roadmap to Connect Hospital EMRs",
+   "imp": 2,
+   "tags": [
+    "DigitalHealth",
+    "EMR",
+    "Hospital"
+   ],
+   "cat": "tech",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1793744512.203305,
-   "en": "Devastating flash flood hits Nepal",
-   "ne": "Devastating flash flood hits Nepal",
-   "link": "https://www.modernghana.com/videonews/abc/3/733294",
-   "source": "Modern Ghana",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "disaster"
-  },
   {
    "ts": 1793746259.2434871,
    "en": "Nepal Seeks More Than $2 Billion in Economic Assistance from India",
@@ -4942,8 +4932,8 @@
    "cat": "world"
   }
  ],
- "updated": 1794349288,
- "pending_since": 1794347448.3843718,
+ "updated": 1794349892,
+ "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
