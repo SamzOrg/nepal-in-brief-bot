@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTmp5c0tEenVhZGRmVUNQTEdnOTg0UlNxN25iemc3OGhuRDBTNGV2RUVlR2RJSGhyNE1nTk9XUUloRkZhUDlRUk1hdktJWTllT2hDLXllOUdGSVlVQXF0NTdKTGIzd19aWFQzWUdKaFFKSDZxN2djdkdQX3g0emhjajVUVDhVOWhidER5YVY5dmVRdWcxeHpoQ3gwWTA1ODBGM2JUdDdJbGZvdWJZNFBfazk0QQ?oc=5": 1794138648.0949974,
-  "https://theannapurnaexpress.com/story/68617": 1794138648.0949974,
   "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ic1FYMXBIRUNmb0lwY2NxTEZlTERaQVhRWUZPREdJMDdLQ3hFQlFhc3hLbm5pZW9vX253MlA2bWp6dTM3YTRycHBkaUkyOXpMd0gxbVB0RQ?oc=5": 1794139280.2387135,
   "https://news.google.com/rss/articles/CBMitgFBVV95cUxOY1c5b2RkemU4cFJyTWYwdFlXbmVYVWpVQVl0UVRvTDE0ODZ0TmIzajVRWHpOVmFCNUlJMzJDU1NGWlg5eFlNbmhPV3RDSmNPZkxHaWlISUVWQ1pIZEVJdGRvM2RJTVJYNzIzcjZsX3VCQVFvaUpqX1ZKT1dLaTlodk1faW9jS1ZtelZkZVNnb0ZWYlRYTlZIVm0wUHI3cmx5Rkx6RC1kMWpPR2NDY2VYLTlGeXYtZw?oc=5": 1794139280.2387135,
   "http://english.ratopati.com/story/86091/nepali-congress-joint-general-secretary-siwakoti-resigns-from-cyber-bureau": 1794139280.2387135,
@@ -1241,29 +1239,6 @@
    ],
    "cat": "culture",
    "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "मेचीनगरमा शङ्खधर साख्वाको शालिक निर्माण",
-   "summary": "मेचीनगर नगरपालिका-१० धुलाबारीमा राष्ट्रिय विभूति एवं नेपाल संवत्का प्रवर्तक शङ्खधर साख्वाको शालिक निर्माण भएको छ।...",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/construction-of-a-statue-of-shankhadhar-sakhwa-in-mechinagar-br-37-19.html",
-   "source": "Nagarik News",
-   "ts": 1794282274,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1794282851_sankhadhar%2098.jpg",
-   "lang": "ne",
-   "hl": "मेचीनगरमा शङ्खधर साख्वाको शालिक निर्माण",
-   "en": "मेचीनगरमा शङ्खधर साख्वाको शालिक निर्माण",
-   "ne": "मेचीनगरमा शङ्खधर साख्वाको शालिक निर्माण",
-   "imp": 2,
-   "tags": [
-    "Mechinagar",
-    "SankhadharSakhwa",
-    "Statue"
-   ],
-   "cat": "culture",
-   "val": 3,
    "teaser": false,
    "hits": 1
   },
@@ -3915,29 +3890,6 @@
    "val": 3,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "मोटरसाइकल दुर्घटनामा १६ वर्षीय किशोरको मृत्यु",
-   "summary": "मोटरसाइकल चालक कोहलपुर-९ कै २० वर्षीय दीक्षित श्रेष्ठ गम्भीर घाइते भएका छन्।",
-   "link": "https://www.setopati.com/social/402382",
-   "source": "Setopati",
-   "ts": 1794307436,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "मोटरसाइकल दुर्घटनामा १६ वर्षीय किशोरको मृत्यु",
-   "en": "मोटरसाइकल दुर्घटनामा १६ वर्षीय किशोरको मृत्यु",
-   "ne": "मोटरसाइकल दुर्घटनामा १६ वर्षीय किशोरको मृत्यु",
-   "imp": 3,
-   "tags": [
-    "Accident",
-    "Motorcycle",
-    "दुर्घटना"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "Nepal flood victims' families may wait up to a year for death certificates",
@@ -7170,9 +7122,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "crime"
+  },
+  {
+   "ts": 1794311468.860232,
+   "en": "बर्दियामा मोटरसाइकल दुर्घटनामा १६ वर्षीय किशोरको मृत्यु, एक गम्भीर घाइते",
+   "ne": "बर्दियामा मोटरसाइकल दुर्घटनामा १६ वर्षीय किशोरको मृत्यु, एक गम्भीर घाइते",
+   "link": "https://www.setopati.com/social/402382",
+   "source": "Setopati",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "disaster"
   }
  ],
- "updated": 1794311003,
+ "updated": 1794311482,
  "pending_since": 1794310271.6187787,
  "fb_blocks": [
   1790350880.4125228,
