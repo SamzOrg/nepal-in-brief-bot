@@ -1,10 +1,5 @@
 {
  "seen": {
-  "https://english.khabarhub.com/2026/08/574889/": 1794102050.5935755,
-  "https://kathmandupost.com/cricket/2026/11/08/david-warner-lifts-tu-as-kathmandu-hand-lumbini-their-first-defeat-of-the-season": 1794102050.5935755,
-  "https://nagariknews.nagariknetwork.com/social-affairs/dog-festival-from-farmer-s-fields-to-police-investigations-man-s-most-trusted-charioteer-96-21.html": 1794102648.7806184,
-  "https://baahrakhari.com/detail/506873": 1794102648.7806184,
-  "https://nagariknews.nagariknetwork.com/social-affairs/confirmed-list-of-63-people-from-jumla-who-went-missing-in-the-bhotekoshi-flood-made-public-br-48-13.html": 1794102648.7806184,
   "http://english.ratopati.com/story/86029/this-is-the-history-of-dog-breeding-how-did-it-become-mans-best-friend": 1794103849.5741322,
   "https://nagariknews.nagariknetwork.com/social-affairs/two-motorcycle-riders-die-in-truck-collision-in-itahari-29-20.html": 1794103849.5741322,
   "https://risingnepaldaily.com/news/88517": 1794103849.5741322,
@@ -1233,7 +1228,8 @@
   "https://www.ujyaaloonline.com/detail/133350": 1794274849.0853925,
   "https://english.khabarhub.com/2026/10/575116/": 1794274849.0853925,
   "https://nagariknews.nagariknetwork.com/social-affairs/leaving-the-glitter-of-tihar-behind-and-heading-abroad-compulsion-or-desire-26-88.html": 1794274849.0853925,
-  "https://nagariknews.nagariknetwork.com/social-affairs/nepal-sambat-is-a-living-symbol-of-social-justice-and-human-coexistence-vice-president-yadav-br-68-34.html": 1794274849.0853925
+  "https://nagariknews.nagariknetwork.com/social-affairs/nepal-sambat-is-a-living-symbol-of-social-justice-and-human-coexistence-vice-president-yadav-br-68-34.html": 1794274849.0853925,
+  "https://kathmandupost.com/national/2026/11/10/fresh-landslide-blocks-prithvi-highway-again-disrupting-traffic-to-and-from-kathmandu": 1794275448.800431
  },
  "queue": [
   {
@@ -1549,29 +1545,6 @@
    ],
    "cat": "politics",
    "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Four years without Nepali Gorkhas: Can India's new Agnipath rules break the deadlock?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPLW1QeGYwX3B0dVBzTV9XYmEySi1jcDhHWGtjRG1vb1V3NlFrakZmTFZraXFTdU9iNTEwTzNqS3BROEw1cXZackQ4M2F2REE1QzZ2NXZxV1B0a1FtUVU1bG5WWFpWRENVaXd5dDB1S0RLazlyM3ZOOTFtWkc4UTN1cUk4djVCMGNHR2FuYjJCeHBvdE5KaUpSdEdSLVBCeVhmQVlQblBabGxaT1hxYmhsTTdxa3g1a3lXak83Wk4tSjVveXgzZ29oaVlyQU1WX0wydkhkSThKVETSAd4BQVVfeXFMUDI4SXpMbHBBUWxmc3NsZ2tJU241Tm1HZG9xQkRMaUdXNTFMbkRTWUFxcXRnWXhROEJtNTZ1dkJFUWpncmRiOHVQMldEWkR0M2g4ekM4RWNzcXhyak84SlZkYWxQUk9hR3laeHJsbmF2bG5KMmo0Zkh4SW1FR0NrU3pBal9RWFRiaWdZMDFuOGhENmUzanFGeE1xMDNQYURaeDZibk9yUGE5cDdJZ25BYTJmZXhZcHVaN0x2SHFjWVBoaWM3TzlrZGVLbHBNNlkwV0tUX0J6SHpsRXRXdWRR?oc=5",
-   "source": "Business Today",
-   "ts": 1794272406,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Four years without Nepali Gorkhas: Can India's new Agnipath rules break the deadlock?",
-   "en": "Four years without Nepali Gorkhas: Can India's new Agnipath rules break the deadlock?",
-   "ne": "Four years without Nepali Gorkhas: Can India's new Agnipath rules break the deadlock?",
-   "imp": 3,
-   "tags": [
-    "Gorkha",
-    "India",
-    "Agnipath"
-   ],
-   "cat": "world",
-   "val": 3,
    "teaser": false,
    "hits": 1
   },
@@ -4646,10 +4619,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "culture"
+  },
+  {
+   "ts": 1794275457.2672303,
+   "en": "India revises Agnipath rules, but Nepal Gorkha recruitment deadlock remains",
+   "ne": "India revises Agnipath rules, but Nepal Gorkha recruitment deadlock remains",
+   "link": "https://www.businesstoday.in/india/story/four-years-without-nepali-gorkhas-can-indias-new-agnipath-rules-break-the-deadlock-566474-2026-11-10",
+   "source": "Business Today",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "world"
   }
  ],
- "updated": 1794274854,
- "pending_since": null,
+ "updated": 1794275470,
+ "pending_since": 1794275448.800431,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
