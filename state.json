@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPRnhLVTVTOGxrTnNTLWpCbGZ1aF8yZklwbXJPanh5TTNMMExZdGN2NlBqbmVNVWpuN1FkeXRBYm9hZzBrbm5pbHkyVUs3Z2x1WmNXUE45UGZIcW1kMHNBcFBRODhQcFo3bVkwSW8zWGVkMk93a2tEa2tRcTNhaTZCSWVjdDJkTklQcDYyNnRQd3pXUWlmY3JUdGc2QVFOMEd6aEY1WjZCSHNMY0NvcXV3SWZRMVBKSl9NQnFIbFU3V3pIM1RtY1pkS2xXSkxfcUVYTVA1NUpaSEpaeFNGemtzSm1qeU5wQdIB7AFBVV95cUxPNWZsZ3ZZeUtDR2VHMVltWU1BYlcwWnJQM2JoVFNUOGZfNkY0MDhxYm8zZTFrNXRwSnBNUXRfTXBmREllS1h2TXA0TFRZV01LZy02OVNOcm5vLVBIeXRBQVd1bWVKODdIVExPM2duelVrNEdJM1VWc0oxWGNqdTFIa0dOZnNza0xDU3ZFUk8yNzgxS3hWZ2hUcDRCbkUzZENVR0xVblNqZmd2RHJhQ3BVeXpTeXE3a3h0b2hqZ3RqNlAxTTdOME53Z2d6ODFDM2VxcW1xWnBVcVltbllUUHUtNl9mTTd2N1lqT2I5dw?oc=5": 1794112268.434754,
-  "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWXpVRWptQUNtbzBxSGw2REpqZG5OczA2eFphOVFnUU5QR0s3Y3hhVGpYc0pWblY0TktQNHppdXgzbkUwOW9UVUlHUjFIYUgtTzdsTW5OWmd0VlRtWVhCZFRkTng4Uy1EX0g3QlVDanFBMmx3T0R1UGMyWlR3MEVLN3dtVElSdGlRQWlWMnlSRVlYMnU0M0t1STNWLThkVGhvMFNjS0c4UHZoWDg?oc=5": 1794112268.434754,
   "http://english.ratopati.com/story/86039/dog-festival-at-the-armed-police-forces-dog-branch-demonstration-of-skills-of-dogs-deployed-in-crime-investigation-photo-feature": 1794112852.4633546,
   "http://english.ratopati.com/story/86044/armys-dog-show-on-the-occasion-of-kukur-tihar-photos": 1794113448.368601,
   "http://english.ratopati.com/story/86042/army-dogs-worshipped-in-bhaktapur": 1794113448.368601,
@@ -1200,7 +1198,9 @@
   "https://nagariknews.nagariknetwork.com/social-affairs/construction-of-a-statue-of-shankhadhar-sakhwa-in-mechinagar-br-37-19.html": 1794285066.0358038,
   "https://theannapurnaexpress.com/story/68649": 1794285066.0358038,
   "https://www.ujyaaloonline.com/detail/133355": 1794285066.0358038,
-  "https://nagariknews.nagariknetwork.com/sports/u-19-women-s-cricket-team-announced-under-the-captaincy-of-soni-pakhrin-71-51.html": 1794285066.0358038
+  "https://nagariknews.nagariknetwork.com/sports/u-19-women-s-cricket-team-announced-under-the-captaincy-of-soni-pakhrin-71-51.html": 1794285066.0358038,
+  "https://news.google.com/rss/articles/CBMic0FVX3lxTE1PMk1WX2dlSW14S1phdXVmb05uZEw1ZktrUVVoeTVzOGZUMk5ULUpDQ1FXQ0dWZWlrdE9fMW1qNmlQRzBCZlBVTmgxYUpEZVJlWXJ2MjcyckxNMWtVOXJjUndPbThRb1hRTE1lcENad3VXRzQ?oc=5": 1794285651.4393332,
+  "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTXVFV1JSMHIzR1JlNkJZNkpGdUFBR3hvNkd3Zjhwcm5QZ3A5OENBcG5iVDZGZzBlTE41N1JIdE1zeXozOTRIOV8wWEM4amo0elhrOE5tMWNfOGk3a0g1NWUtek9WSEEyQUVydUtUQ2RpTXZHbGVjTHd6eGVkYkMwZzlGc1MyaUtyeWU0Q1RXand1VGJHRDlNX0p6Q1R1YmMtYjA5dmJn?oc=5": 1794285651.4393332
  },
  "queue": [
   {
@@ -2052,7 +2052,7 @@
    "cat": "society",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "PETA Demands Ban on Elephant Games at Chitwan Festival Following Supreme Court Ruling",
@@ -2122,7 +2122,7 @@
    "cat": "society",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "Living alongside rhinos on the fringes of Chitwan",
@@ -2218,17 +2218,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1793680281.7805233,
-   "en": "Two Nepal Premier League matches scheduled today in Kirtipur",
-   "ne": "Two Nepal Premier League matches scheduled today in Kirtipur",
-   "link": "https://english.khabarhub.com/2026/03/574199/",
-   "source": "Khabarhub EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "sports"
-  },
   {
    "ts": 1793682090.7110631,
    "en": "काठमाडौंबाट गैरकानूनी रूपमा बसेका ५ बंगलादेशी नागरिक सशस्त्र प्रहरीको नियन्त्रणमा",
@@ -5266,8 +5255,8 @@
    "cat": "culture"
   }
  ],
- "updated": 1794285092,
- "pending_since": null,
+ "updated": 1794285654,
+ "pending_since": 1794285651.4393332,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
