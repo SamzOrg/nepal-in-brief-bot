@@ -1,10 +1,5 @@
 {
  "seen": {
-  "http://english.ratopati.com/story/86037/see-the-heavenly-apsara-in-the-shade-of-rara-lake-photos": 1794109849.0053174,
-  "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOTdCOGxIYnloMWZ0QWRZaERUUTFhRVdfRjlpQmZaZEd0UGJDOURHWVBrT0VfQkh1OFh6WWFhc19CRGJiV1pDLU9VUWZLVnBiTWlsNWVLNEZUNXZfWkk3MEFIajdMRVh3WG9JX1VTTmFseFNhSHFVTzZXU0lmSXg5Mkl0amtBemhGOFktRF84S2lSTFg1bHFLbzVmdjYtZnBxMUpWd05tc2RjTzg0Mml5dDNOTTRvbVhzLUpwWmNPZ3JMQQ?oc=5": 1794109849.0053174,
-  "https://kathmandupost.com/national/2026/11/08/from-flood-hit-areas-to-crime-scenes-nepal-s-police-dogs-sniff-out-vital-clues": 1794109849.0053174,
-  "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPamQyN1l6SUwyal9kRVNCQkxhbXJweDhibHhnQWR5T2NaSkhCZlJoemt3Z1oxQzE3dXZheU1hekZHQmlDSUZSS3VzdTBWUFFWdS1KNWpxamxlaXBXQVdwaWRjVFhERFVaMl9GaWpzNms3VFpQV0xGMFZRR1JZTkctQ3lsX0gxemxOaEtrRjhkcmFyNElXTjd4TGg2Qk54MHhGcEFTRTJJczNrT2hGaHJlNHlNeFltdzBwZDBXZUJ5YlNEQQ?oc=5": 1794109849.0053174,
-  "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYjZRci1TTnJId2pfUFVScUtoR3kyWC15OXpvazBYWWVlYXo5cGRzeGZpLTdlajRPak8zdjdxTDFZeHJNbWctWnozUEM3bDkzRnZaeFJ0RS1LdDV5N2NlVmgzRDdOU0FPaEhsVzJjMWNLanF0aFR6TFFCTExWZHg4OWJONTItZlV3MjZtbzVBWGptMUQ5YS1XU1l1YXZtS0UwMXc2VWxwUmVWbG15RmEzWEZ2WGRyOEtfV1RlUEswMThnd2I4?oc=5": 1794109849.0053174,
   "https://english.khabarhub.com/2026/08/574893/": 1794110479.5377643,
   "https://english.onlinekhabar.com/kathmandu-location-flower-sales.html": 1794110479.5377643,
   "https://news.google.com/rss/articles/CBMieEFVX3lxTE9GV2VkSmU0cGU1Nmc5TDcwRzljLXZPTHFYbmZzRWpZbFF1bmtVZEROX0gwTVNIalhjVmREc3B5bFUxVU9Ea2llUDA1WXJNTG9ZYnM2TVljRHhfRnJGRkVVTEhTMFZ5ZEowdVd6d2pSNWhwYVNfSk9ndQ?oc=5": 1794110479.5377643,
@@ -1959,29 +1954,6 @@
     "नेपाल"
    ],
    "cat": "culture",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "घोप्टेभिरमा खसेको पहिरो पन्छाइयो, राजमार्ग सञ्चालनमा",
-   "summary": "शालिग्राम नेपालचितवन, कात्तिक २४ गते। पृथ्वी राजमार्गअन्तर्गत चितवनको इच्छाकामना गाउँपालिका -४ घोप्टेभिरमा फेरि सुख्खा पहिरो खस्दा दुईतर्फी अवरुद्ध भएको सडक केही बेरअघि सञ्चालनमा आ...",
-   "link": "https://gorkhapatraonline.com/news/228792",
-   "source": "Gorkhapatra",
-   "ts": 1794281656,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/391096/conversions/pahiro-original.jpg",
-   "lang": "ne",
-   "hl": "घोप्टेभिरमा खसेको पहिरो पन्छाइयो, राजमार्ग सञ्चालनमा",
-   "en": "घोप्टेभिरमा खसेको पहिरो पन्छाइयो, राजमार्ग सञ्चालनमा",
-   "ne": "घोप्टेभिरमा खसेको पहिरो पन्छाइयो, राजमार्ग सञ्चालनमा",
-   "imp": 4,
-   "tags": [
-    "Ghoptebhir",
-    "Landslide",
-    "HighwayOpen"
-   ],
-   "cat": "disaster",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -5127,10 +5099,21 @@
    "n_ig": 0,
    "brk": false,
    "cat": "politics"
+  },
+  {
+   "ts": 1794282669.0421689,
+   "en": "चितवनको घोप्टेभिरमा खसेको पहिरो पन्छाइयो, पृथ्वी राजमार्ग सञ्चालनमा",
+   "ne": "चितवनको घोप्टेभिरमा खसेको पहिरो पन्छाइयो, पृथ्वी राजमार्ग सञ्चालनमा",
+   "link": "https://gorkhapatraonline.com/news/228792",
+   "source": "Gorkhapatra",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "disaster"
   }
  ],
- "updated": 1794282063,
- "pending_since": null,
+ "updated": 1794282680,
+ "pending_since": 1794282653.558653,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
