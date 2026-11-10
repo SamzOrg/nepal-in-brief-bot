@@ -1208,28 +1208,6 @@
    "hits": 1
   },
   {
-   "title": "Asia Album: Moments of Tihar festival in Nepal",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1wcHkzZFlwN1ktQy1CQVV0TS1FWEh0cmxrVnVBMlkyV1dRWmE3LUhxNnlIcE4tQzR6ZVZQdVRKWUUxdWxubTlqb1JBMVRSMlhwMVJETEc5b2ZPakdMeVp2cFZVamhwRDBhYTM4Vlpfb2dkVDBZTEs2OE5XZmM?oc=5",
-   "source": "Xinhua",
-   "ts": 1794285555,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Asia Album: Moments of Tihar festival in Nepal",
-   "en": "Asia Album: Moments of Tihar festival in Nepal",
-   "ne": "Asia Album: Moments of Tihar festival in Nepal",
-   "imp": 2,
-   "tags": [
-    "Tihar",
-    "AsiaAlbum"
-   ],
-   "cat": "culture",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "5 ways countries stymie climate negotiations without actually saying 'no'",
    "summary": "Nearly every country in the world has acknowledged that climate change is a serious problem. It's hard to ignore, as billions of people suffer through increasingly destructive storms and extreme heat. In response, most...",
    "link": "https://english.onlinekhabar.com/countries-stymie-climate-negotiations.html",
@@ -1249,28 +1227,6 @@
    "cat": "politics",
    "val": 2,
    "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "Transitional justice commissions remain without office-bearers for seven months",
-   "summary": "Kathmandu, November 10 The Truth and Reconciliation Commission (TRC) and the Commission of Investigation on Enforced Disappeared Persons, established to address Nepal's transitional justice process, have been without...",
-   "link": "https://english.onlinekhabar.com/transitional-justice-no-office-bearers.html",
-   "source": "Onlinekhabar EN",
-   "ts": 1794285349,
-   "weight": 3,
-   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/11/Truth-and-Reconciliation-Commission.jpg",
-   "lang": "en",
-   "hl": "Transitional justice commissions remain without office-bearers for seven months",
-   "en": "Transitional justice commissions remain without office-bearers for seven months",
-   "ne": "Transitional justice commissions remain without office-bearers for seven months",
-   "imp": 2,
-   "tags": [
-    "TransitionalJustice",
-    "Commission"
-   ],
-   "cat": "politics",
-   "val": 2,
-   "teaser": false,
    "hits": 1
   },
   {
@@ -1501,29 +1457,6 @@
    "cat": "culture",
    "val": 1,
    "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "मिर्गौलाले काम गर्न छाडेपछि प्रिजलको उपचारका लागि परिवारको हारगुहार",
-   "summary": "दिक्तेल रुपाकोट मझुवागढी नगरपालिका-११ खार्मीका चार वर्षीय प्रिजल मगरको दुवै मिर्गौलाले काम गर्न छाडेपछि परिवार उपचारका लागि आर्थिक सहयोग जुटाउन अपिल गरिरहेको छ।...",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/family-pleads-for-prizzle-s-treatment-after-kidney-failure-98-60.html",
-   "source": "Nagarik News",
-   "ts": 1794285322,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1794285638_Pri%20jal%2098.jpg",
-   "lang": "ne",
-   "hl": "मिर्गौलाले काम गर्न छाडेपछि प्रिजलको उपचारका लागि परिवारको हारगुहार",
-   "en": "मिर्गौलाले काम गर्न छाडेपछि प्रिजलको उपचारका लागि परिवारको हारगुहार",
-   "ne": "मिर्गौलाले काम गर्न छाडेपछि प्रिजलको उपचारका लागि परिवारको हारगुहार",
-   "imp": 2,
-   "tags": [
-    "KidneyFailure",
-    "MedicalTreatment",
-    "Health"
-   ],
-   "cat": "health",
-   "val": 2,
-   "teaser": false,
    "hits": 1
   },
   {
@@ -7100,7 +7033,7 @@
    "cat": "politics"
   }
  ],
- "updated": 1794313874,
+ "updated": 1794314454,
  "pending_since": 1794312652.714229,
  "fb_blocks": [
   1790350880.4125228,
