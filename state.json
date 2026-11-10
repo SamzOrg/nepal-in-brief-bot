@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMilAFBVV95cUxPM1l6Zms5T2taaEh1cldIbXdwc24zaTZ6VllZNEsxZFhMcGlkNm16U1cxLUh0SFNxVDBRUURibVB5TXVHdGs0WjRodFkya1VDSXRkanlQdHN1enQ3ckx1eXl0RlRsaG9MQ2llZlB0Xy0xbmxUb210d2J4ZjE1bUlUMmlkek5xVDBGblRaNGV1VEVPMlVE?oc=5": 1794136249.4619646,
   "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUzBRU25tamJLRG85eTdobFFGTmxnZjdXNVNrVkJubWY2eTJXMkwzUDh1YjF2OG9PdFJHclF2eGotME9ubm12Z0dUbm81MXUwcXpWU0Zxc1ZraWR2U0g1XzMyNXppNGNaLWZvaXhrZ2d4TU9lYW5oOERmdzNRc3hpQkNJOTZOMDN3WnY5WmV3MWk1LURRU0hCb1NhN3RlbnY5Uzd6YThmQVFKaEh6ekVzbVhlMWJsQQ?oc=5": 1794136851.2579713,
   "https://english.khabarhub.com/2026/08/574936/": 1794136851.2579713,
   "http://english.ratopati.com/story/86086/nepal-suffers-second-consecutive-defeat-in-acc-u-19-asia-cup": 1794136851.2579713,
@@ -1182,7 +1181,10 @@
   "https://gorkhapatraonline.com/news/228821": 1794307853.2657719,
   "https://www.setopati.com/social/402382": 1794307853.2657719,
   "https://english.khabarhub.com/2026/10/575166/": 1794308485.8036084,
-  "https://gorkhapatraonline.com/news/228822": 1794308485.8036084
+  "https://gorkhapatraonline.com/news/228822": 1794308485.8036084,
+  "https://baahrakhari.com/detail/507046": 1794309054.4900148,
+  "https://gorkhapatraonline.com/news/228824": 1794309054.4900148,
+  "https://news.google.com/rss/articles/CBMisgFBVV95cUxPV0stUHd4UEotYW8tZGRMRDduQWdIdlhQNnZVM25rWVpwOVlNM0JlUzhVeHNBem02SkRxVkFXc1ZxOS1YSXdfWEhuMThBUXJrWkRWUFBHMEVmRmFhWWlpT3o3OVlPLUJybTVoc090NWNtelBldTRRZ25jZWtpbWNOUUdxSHhZeEU1SjVFekdmTjBYVVlobVV1REZtSmNEWlpoc2xndV9tNWFVRURJakRyU3NB0gG3AUFVX3lxTE1SUlZXMXFOb01keWZaSHRBQnNKZzU3bmVJQUJkLVJybXhkODd6bURCQkViOFVmeEVWUHNCaEdiU1VyYVZZUWhoTkZNb1B4MFBOdTRKakJ5Ykt1RTZDdmljdjVLU0E0NzVscjNmVVdxZHVMRTd5azlrYkM0RVRuVWVNaG8wQlVYNXJEWEdlNlByQVBrbk80bDRNRjNtRnZhaEV5OTJYZEZ1TEJsSGRQWE1nMXFENDVFSQ?oc=5": 1794309054.4900148
  },
  "queue": [
   {
@@ -1230,29 +1232,6 @@
    "val": 3,
    "teaser": false,
    "hits": 3
-  },
-  {
-   "title": "From traditional songs to modern celebrations, Nepal's Tihar is changing with the times",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOUZpNkdCRmpKd0tZNWlRSkRpM2FIa0dLbWlWZFdsYXdIajZhaEVRMFU0bDR4M0h2a0hMNFdpcnhrYWFjaGk5Z3NBaWJSa0NmNWI2RlJBUjhoMVQzMUxJMk1ZVXY3SjZibzBBTzJ3OXhZVWlTWVV5WVRqZ2pvQlI3QU5tS2tVTDhtREpBd08yY190enpFakRTOUVDTk1mYkJDV0tNak0tZkFFWjhqdXl0TQ?oc=5",
-   "source": "Asia News Network",
-   "ts": 1794280249,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "From traditional songs to modern celebrations, Nepal's Tihar is changing with the times",
-   "en": "From traditional songs to modern celebrations, Nepal's Tihar is changing with the times",
-   "ne": "From traditional songs to modern celebrations, Nepal's Tihar is changing with the times",
-   "imp": 2,
-   "tags": [
-    "Tihar",
-    "Festival",
-    "NepalCulture"
-   ],
-   "cat": "culture",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
   },
   {
    "title": "'न्हु दँया भिन्तुना' उत्सवभित्र हराएको आन्दोलन!",
@@ -1413,7 +1392,7 @@
    "cat": "sports",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Nepal advances telecommunications agenda at global ITU conference",
@@ -4192,6 +4171,28 @@
     "Accident",
     "Motorcycle",
     "दुर्घटना"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Nepal flood victims' families may wait up to a year for death certificates",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPV0stUHd4UEotYW8tZGRMRDduQWdIdlhQNnZVM25rWVpwOVlNM0JlUzhVeHNBem02SkRxVkFXc1ZxOS1YSXdfWEhuMThBUXJrWkRWUFBHMEVmRmFhWWlpT3o3OVlPLUJybTVoc090NWNtelBldTRRZ25jZWtpbWNOUUdxSHhZeEU1SjVFekdmTjBYVVlobVV1REZtSmNEWlpoc2xndV9tNWFVRURJakRyU3NB0gG3AUFVX3lxTE1SUlZXMXFOb01keWZaSHRBQnNKZzU3bmVJQUJkLVJybXhkODd6bURCQkViOFVmeEVWUHNCaEdiU1VyYVZZUWhoTkZNb1B4MFBOdTRKakJ5Ykt1RTZDdmljdjVLU0E0NzVscjNmVVdxZHVMRTd5azlrYkM0RVRuVWVNaG8wQlVYNXJEWEdlNlByQVBrbk80bDRNRjNtRnZhaEV5OTJYZEZ1TEJsSGRQWE1nMXFENDVFSQ?oc=5",
+   "source": "NST Online",
+   "ts": 1794308628,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "Nepal flood victims' families may wait up to a year for death certificates",
+   "en": "Nepal flood victims' families may wait up to a year for death certificates",
+   "ne": "Nepal flood victims' families may wait up to a year for death certificates",
+   "imp": 3,
+   "tags": [
+    "Flood",
+    "DeathCertificate"
    ],
    "cat": "disaster",
    "val": 3,
@@ -7237,7 +7238,7 @@
    "cat": "culture"
   }
  ],
- "updated": 1794308501,
+ "updated": 1794309059,
  "pending_since": 1794307853.2657719,
  "fb_blocks": [
   1790350880.4125228,
