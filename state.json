@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://kathmandupost.com/sports/2026/11/08/nepal-clinch-u-19-women-s-cricket-title-unbeaten-in-china": 1794139847.1463943,
   "http://english.ratopati.com/story/86087/youth": 1794140449.2484336,
   "https://nagariknews.nagariknetwork.com/international/5-7-magnitude-earthquake-hits-central-japan-injuring-24-74-43.html": 1794140449.2484336,
   "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTTBxYlM0MFFxQWZvdWQ4c2RrZFp2c1BISFZLYUtHaFk0WW5sTHRfV0x4WFpaR014UGVYUTV1bWpDeVdhMkxxc1lLa2pfcElFR1NZTDRCNHF2RzUtRFpuaUZ5SEJTamVScUFYWV8zbTBwYjdhem1pemoyUEFxSVV0QUZXZ3JTdEtPS3N4YnhDSWxzVDhlNmZReXE2cENOcWJEcnEzRzl3?oc=5": 1794141067.1910472,
@@ -1162,7 +1161,9 @@
   "http://english.ratopati.com/story/86228/un-expresses-concern-over-humanitarian-aid-shortage-in-gaza-after-heavy-rains": 1794312084.6938343,
   "https://gorkhapatraonline.com/news/228827": 1794312084.6938343,
   "https://baahrakhari.com/detail/507049": 1794312084.6938343,
-  "http://english.ratopati.com/story/86227/diplomatic-pressure-on-us-secretary-of-state-rubio-at-g-7-to-ensure-europes-role-in-russia-ukraine-peace-talks": 1794312084.6938343
+  "http://english.ratopati.com/story/86227/diplomatic-pressure-on-us-secretary-of-state-rubio-at-g-7-to-ensure-europes-role-in-russia-ukraine-peace-talks": 1794312084.6938343,
+  "http://english.ratopati.com/story/86230/acc-u-19-asia-cup-nepal-defeated-by-pakistan-by-101-runs": 1794312652.714229,
+  "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSDZFY3pUU0hDMjlJNWd1UzVVMkZTRUxVLUNLbTVJRGx4YVpfVVdGR3UtVXlPUlNaMnhocXIxbUNSRC1haHlOV2pFYjJXakVGMWh3NDNucUpzdl83bFJjZXJHdzM1Rm96bExCWm1WOVJPbkpEWE5kaG81Nkw2ZklHSURpb2JiNVFoSkE?oc=5": 1794312652.714229
  },
  "queue": [
   {
@@ -1187,52 +1188,6 @@
    "val": 3,
    "teaser": false,
    "hits": 2
-  },
-  {
-   "title": "Nepal police dogs honored during Hindu festival of Tihar",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWHBHNk51YVJvQ3FYcm9NdG0wekhfVDRmLTVQc2JYRS00QkZYLWZQYjd1TlBSXy1rSzVFRHFyT1lVNkZtSFpFQmpMYXl4WW9EYTFZS0w0X1hGMERORktMcHhnNWh1dzc4ZjBTQzRkakJMR0VDZnc5TVpxS2dSU09zZHNjR1BiTEstQVk4cjJBNlJkQUlCXzJranZ1dGwxaTNRYlpsOXJ2Zw?oc=5",
-   "source": "Bangkok Post",
-   "ts": 1794283586,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Nepal police dogs honored during Hindu festival of Tihar",
-   "en": "Nepal police dogs honored during Hindu festival of Tihar",
-   "ne": "Nepal police dogs honored during Hindu festival of Tihar",
-   "imp": 2,
-   "tags": [
-    "Tihar",
-    "NepalPolice",
-    "KukurTihar"
-   ],
-   "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 5
-  },
-  {
-   "title": "Cartoonist Anup Tamu Gurung: A Visual Artist Critiquing Politics and Society",
-   "summary": "Kathmandu. The third edition of the Nepal Premier League is grandly underway at the TU International Cricket Ground in Kirtipur....",
-   "link": "http://english.ratopati.com/story/86181/anup-quits-his-job-in-singapore-and-becomes-a-cartoonist",
-   "source": "Ratopati EN",
-   "ts": 1794283328,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/anup_QlpAHsIGIz.webp",
-   "lang": "en",
-   "hl": "Cartoonist Anup Tamu Gurung: A Visual Artist Critiquing Politics and Society",
-   "en": "Cartoonist Anup Tamu Gurung: A Visual Artist Critiquing Politics and Society",
-   "ne": "Cartoonist Anup Tamu Gurung: A Visual Artist Critiquing Politics and Society",
-   "imp": 2,
-   "tags": [
-    "AnupTamuGurung",
-    "Cartoonist",
-    "Art"
-   ],
-   "cat": "culture",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
   },
   {
    "title": "Nepal advances telecommunications agenda at global ITU conference",
@@ -2183,29 +2138,6 @@
    "hits": 1
   },
   {
-   "title": "\"He had no idea she was a spy\": Trump defends Nvidia CEO Jensen Huang amid FBI probe",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTUxDMWJzeHAzdXJZcUwzRFh0QndxRlNQOWZkUUM0ZFQ4Zm5SSjJ6ZmpFV1VQeVBUNTVTMUI0bmw0VFlCZ1FLREdOTEFSNVJseW4zMWhjVlZtaDBoaXh4UkNleS1aSXVyS19Yc0ozdHlZdE5jd01pdG5LNEdUY1pKcnI3Z29wSHFGQ3ZPZHZNN3Z4N2ZlczhKNWxCSVdFREpMMXdQWVlsTU92bTdmbHBYY1V2NzBMaEhnWEdEVzd3Q1l6M3VLRjRWVF9R?oc=5",
-   "source": "myRepublica",
-   "ts": 1794283428,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "\"He had no idea she was a spy\": Trump defends Nvidia CEO Jensen Huang amid FBI probe",
-   "en": "\"He had no idea she was a spy\": Trump defends Nvidia CEO Jensen Huang amid FBI probe",
-   "ne": "\"He had no idea she was a spy\": Trump defends Nvidia CEO Jensen Huang amid FBI probe",
-   "imp": 1,
-   "tags": [
-    "DonaldTrump",
-    "JensenHuang",
-    "Nvidia"
-   ],
-   "cat": "tech",
-   "val": 3,
-   "teaser": false,
-   "hits": 3
-  },
-  {
    "title": "रियादमा क्षेप्यास्त्र रोकिएपछि विस्फोटका आवाज",
    "summary": "गठबन्धनले यसअघि रातभर देशको दक्षिणी क्षेत्रतर्फ प्रहार गरिएको अर्को ब्यालिस्टिक क्षेप्यास्त्र पनि हवाई सुरक्षामार्फत नष्ट गरिएको जनाएको थियो ।",
    "link": "https://baahrakhari.com/detail/507034",
@@ -2410,29 +2342,6 @@
    "val": 3,
    "teaser": false,
    "hits": 2
-  },
-  {
-   "title": "Who is Alice Huang, the Chinese businesswoman tied to Nvidia's CEO?",
-   "summary": "Former Chinese finance executive Alice Huang became Megaspeed International's controlling shareholder in 2023 and is under scrutiny over alleged espionage links to Nvidia CEO Jensen Huang.",
-   "link": "https://kathmandupost.com/world/2026/11/10/who-is-alice-huang-the-chinese-businesswoman-tied-to-nvidia-s-ceo",
-   "source": "Kathmandu Post",
-   "ts": 1794283285.6952176,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Who is Alice Huang, the Chinese businesswoman tied to Nvidia's CEO?",
-   "en": "Who is Alice Huang, the Chinese businesswoman tied to Nvidia's CEO?",
-   "ne": "Who is Alice Huang, the Chinese businesswoman tied to Nvidia's CEO?",
-   "imp": 1,
-   "tags": [
-    "Nvidia",
-    "AliceHuang",
-    "TechNews"
-   ],
-   "cat": "tech",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
   },
   {
    "title": "Rijan Dhakal Leads NPL Wicket Takers",
@@ -4108,7 +4017,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "हराउन लाग्यो अन्न भण्डारण गर्ने थारु डेहरी",
@@ -7329,8 +7238,8 @@
    "cat": "disaster"
   }
  ],
- "updated": 1794312093,
- "pending_since": null,
+ "updated": 1794312656,
+ "pending_since": 1794312652.714229,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
