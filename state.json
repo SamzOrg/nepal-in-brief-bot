@@ -1164,28 +1164,6 @@
  },
  "queue": [
   {
-   "title": "Nepal advances telecommunications agenda at global ITU conference",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5vNGlIWnN3djJVT2Q3U1d0V3lJZUwyOG0wX2hiUFhHU3hoRTFpSWdaRlFRdzB2WTJmVk9VUFhWRk9OMFpEYzBpZS1YalI0VHBK?oc=5",
-   "source": "The Rising Nepal",
-   "ts": 1794287115,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Nepal advances telecommunications agenda at global ITU conference",
-   "en": "Nepal advances telecommunications agenda at global ITU conference",
-   "ne": "Nepal advances telecommunications agenda at global ITU conference",
-   "imp": 2,
-   "tags": [
-    "TelecomAgenda",
-    "ITU"
-   ],
-   "cat": "tech",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Festivals strengthen social unity and tolerance: PM Shah",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNczYzS2t1YkhuU08zNUc3ejZLakt4UGdFc0VsQ3lYQ1lQbjhNTmZ5a0x6OERKMmtmam1JN1hiY1hFQmFwQnpJMXR5V19Bb0JreFZva1JQS2JOZk1MWG51SzRsSE5nLU10cDB5NEpwSTFtYmpJQXhtcDB6NUdVTEVRSHZFMDdaRGhkTFFvZDRPczRUYjl3X09PNWhndUNfaldvQUNGM0JuRVpuMzZnTzhF?oc=5",
@@ -1366,29 +1344,6 @@
    ],
    "cat": "economy",
    "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "सुनसरी-मोरङको सीमा बुढीखोलामा छठ पर्वको तयारी तीव्र",
-   "summary": "इटहरीमा छठ पर्व व्यवस्थित ढंगले ३६ वर्षदेखि मनाउने गरिएको छ । त्यसअघि पनि सामान्य ढंगले छठ पर्व भने मनाउने गरिएको थियो ।...",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/preparations-for-chhath-festival-intensify-at-budikhola-on-the-sunsari-morang-border-64-95.html",
-   "source": "Nagarik News",
-   "ts": 1794287229,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1794287215_895790203_3037690593247988_2677745167369956719_n.jpg",
-   "lang": "ne",
-   "hl": "सुनसरी-मोरङको सीमा बुढीखोलामा छठ पर्वको तयारी तीव्र",
-   "en": "सुनसरी-मोरङको सीमा बुढीखोलामा छठ पर्वको तयारी तीव्र",
-   "ne": "सुनसरी-मोरङको सीमा बुढीखोलामा छठ पर्वको तयारी तीव्र",
-   "imp": 2,
-   "tags": [
-    "ChhathFestival",
-    "Sunsari",
-    "Morang"
-   ],
-   "cat": "culture",
-   "val": 2,
    "teaser": false,
    "hits": 1
   },
@@ -3125,28 +3080,6 @@
    "val": 2,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "NEPAL-KATHMANDU-NEPAL SAMBAT-NEW YEAR-RALLY",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQckJ3bDE4VmNQS1VlV2cwMFlNUGMtdjdrN1BCTFVGQ3NmYmdhLUdpX1h3azJtS1pTUFNrcV84enM1TnMxTllUYTNKYlRqcWZzbndUQ0VsTGZkMXpmaGpjNVExUHFfVXd5QldzX2d5QzQybzJ1alBFMTRYTFRUZFZXNWdmRlBRcVd6cEJSaVRn?oc=5",
-   "source": "www.malaysiasun.com",
-   "ts": 1794286980,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "NEPAL-KATHMANDU-NEPAL SAMBAT-NEW YEAR-RALLY",
-   "en": "NEPAL-KATHMANDU-NEPAL SAMBAT-NEW YEAR-RALLY",
-   "ne": "NEPAL-KATHMANDU-NEPAL SAMBAT-NEW YEAR-RALLY",
-   "imp": 1,
-   "tags": [
-    "NewYearRally",
-    "Kathmandu"
-   ],
-   "cat": "culture",
-   "val": 1,
-   "teaser": false,
-   "hits": 3
   },
   {
    "title": "IPL May Add Two New Franchises From 2028",
@@ -7176,7 +7109,7 @@
    "cat": "world"
   }
  ],
- "updated": 1794315685,
+ "updated": 1794316256,
  "pending_since": 1794315682.608023,
  "fb_blocks": [
   1790350880.4125228,
