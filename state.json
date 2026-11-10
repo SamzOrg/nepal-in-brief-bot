@@ -1,8 +1,5 @@
 {
  "seen": {
-  "https://english.khabarhub.com/2026/08/574893/": 1794110479.5377643,
-  "https://english.onlinekhabar.com/kathmandu-location-flower-sales.html": 1794110479.5377643,
-  "https://news.google.com/rss/articles/CBMieEFVX3lxTE9GV2VkSmU0cGU1Nmc5TDcwRzljLXZPTHFYbmZzRWpZbFF1bmtVZEROX0gwTVNIalhjVmREc3B5bFUxVU9Ea2llUDA1WXJNTG9ZYnM2TVljRHhfRnJGRkVVTEhTMFZ5ZEowdVd6d2pSNWhwYVNfSk9ndQ?oc=5": 1794110479.5377643,
   "https://gorkhapatraonline.com/news/228696": 1794111051.445156,
   "https://english.khabarhub.com/2026/08/574899/": 1794111051.445156,
   "https://english.onlinekhabar.com/october-global-temperature-rise.html": 1794111051.445156,
@@ -2054,17 +2051,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1793678495.285148,
-   "en": "Two months after Bhotekoshi floods, older survivors face trauma and data gaps",
-   "ne": "Two months after Bhotekoshi floods, older survivors face trauma and data gaps",
-   "link": "https://kathmandupost.com/national/2026/11/03/bhotekoshi-floods-leave-older-survivors-grappling-with-loss-uncertainty-and-trauma",
-   "source": "Kathmandu Post",
-   "n_fb": 1,
-   "n_ig": 0,
-   "brk": false,
-   "cat": "disaster"
-  },
   {
    "ts": 1793680281.7805233,
    "en": "Two Nepal Premier League matches scheduled today in Kirtipur",
@@ -5102,7 +5088,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1794283282,
+ "updated": 1794283852,
  "pending_since": 1794282653.558653,
  "fb_blocks": [
   1790350880.4125228,
