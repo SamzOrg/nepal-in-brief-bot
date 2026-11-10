@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTEtEOWY4R01KbjY2Q3VWYW9ObWRJQUxaOXpIVTNPT2xtZkVKa2lvNlBSX25jZGtBVkIta080SDFfRU1ycE81SGhJc1NvbFJVYnUxNHRaZld2ZFIyZ2toWTNoUXY0Qlhsbi1JSGRQOWZyQWhsN2ZsWFRKbWlSUUt0STc1UWlOX0RJbm9Kd0l2OW1WVll3Ri1FcENXVHladlFKWkJ6TDBVVXpoM2MySHFzcTBZUTFGNGxUb2Y5Q05uOVZkcnhrM2xqMHhpYnpraVk?oc=5": 1794125447.608684,
   "https://english.khabarhub.com/2026/08/574915/": 1794126046.6043952,
   "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZWlfdXZFa1QyVHY5N3A5ZkdkLVo3c090dFB5RzltbGhvU1lCSDhPU0RMMVMtam5MdlZsOHJOYUJxWFZ6MHpwNWRaMnhOMF9jVzV5VWcyYlVQdE1SVEhidHVtRV9kdkZQVkl5dFNjbng4SkRONmFGZDdkRzliRDYwYWNlbGlOZw?oc=5": 1794126046.6043952,
   "http://english.ratopati.com/story/86067/mahendra-chaudhary-is-still-going-to-court-after-20-lakh-rupees-were-spent-on-a-half-acre-land-case-worth-2-lakh-rupees": 1794126046.6043952,
@@ -1182,7 +1181,10 @@
   "https://english.onlinekhabar.com/pm-shah-extends-nepal-sambat-and-mha-puja-greetings-highlights-their-cultural-significance.html": 1794297684.5634925,
   "https://gorkhapatraonline.com/news/228809": 1794297684.5634925,
   "http://english.ratopati.com/story/86199/cyber-attack-on-700-supermarkets-in-france-iran-blamed-sanctions-warned": 1794297684.5634925,
-  "http://english.ratopati.com/story/86198/tourist-activity-in-dhorpatan-foreigners-busy-with-hunting-locals-trekking-and-sightseeing": 1794297684.5634925
+  "http://english.ratopati.com/story/86198/tourist-activity-in-dhorpatan-foreigners-busy-with-hunting-locals-trekking-and-sightseeing": 1794297684.5634925,
+  "http://english.ratopati.com/story/86204/7-people-arrested-for-bursting-firecrackers-in-rupandehi": 1794298254.2719467,
+  "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOXdLMUFfOFlvNlFoa0R3MmJpOVl5ekFScy1hQ3BHNldvNXREN1lKMklqZ3dnY1hmZWNEX203Z2JUQkczeTVLSVNkQy03cUlqOHpucVpTNjBpNUVaWWdvU01UV0FvbFVRWnpZUTM4MDB6bktvcHhuZ2lOT1FCX3RSQmhSd0lROHdha2tEdU8wWC14ZU1SVjllbGN5UUNIMGxJRjZ2OWpIRHZNNHpsMWNIZkFxYkgwMXVFejd0RXVpb05qU2kwUXJCbTdB?oc=5": 1794298254.2719467,
+  "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWU1jT3dFenFXaF8yUmpQZHU2TmFEblBjSHFSeE85T3pZNFIzdDZLdDA2VnlpeUJsU19NZGt1WWs0WlhEaHhRMXdyZ3BybGpqVkhrWXNHQW5LeUxmcTdLVEtQTDRDLS1IcS11S0tCakZCRGRMc0ZqTWo4Y3JMVU93d2lfdHVWRkZFZi1VZ3d30gGOAUFVX3lxTE5MaU44NmJTQ1hEcjBsTHgyQTRlSTJIZ1FuUEZwRWxCRG43VC1NbzlxRmVzUEtEelNqajJ5cDN5LUx1SzcwZDVkRldsZ19jbF9POFRleXFNVHV1NnF5TzhmalZzUU54UjgteFFlN1R0QnlteDFHOVdPQ3VGV2lrTnhuMFVmYVNNME1zcG94Tmc?oc=5": 1794298254.2719467
  },
  "queue": [
   {
@@ -2369,7 +2371,7 @@
    "cat": "world",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "युरोपमा फैलिएको विरोध प्रदर्शन, फ्रान्सबाट सुरु प्रदर्शन कहाँ-कहाँ फैलियो ?",
@@ -3572,7 +3574,7 @@
    "cat": "crime",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Two Shree Airlines Planes Return to Parking Due to Technical Issues",
@@ -3665,20 +3667,33 @@
    "val": 3,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "Nepal flood: Death toll tops 1,000 as rescue continues",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWU1jT3dFenFXaF8yUmpQZHU2TmFEblBjSHFSeE85T3pZNFIzdDZLdDA2VnlpeUJsU19NZGt1WWs0WlhEaHhRMXdyZ3BybGpqVkhrWXNHQW5LeUxmcTdLVEtQTDRDLS1IcS11S0tCakZCRGRMc0ZqTWo4Y3JMVU93d2lfdHVWRkZFZi1VZ3d30gGOAUFVX3lxTE5MaU44NmJTQ1hEcjBsTHgyQTRlSTJIZ1FuUEZwRWxCRG43VC1NbzlxRmVzUEtEelNqajJ5cDN5LUx1SzcwZDVkRldsZ19jbF9POFRleXFNVHV1NnF5TzhmalZzUU54UjgteFFlN1R0QnlteDFHOVdPQ3VGV2lrTnhuMFVmYVNNME1zcG94Tmc?oc=5",
+   "source": "DW.com",
+   "ts": 1794276868,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "Nepal flood: Death toll tops 1,000 as rescue continues",
+   "en": "Nepal flood: Death toll tops 1,000 as rescue continues",
+   "ne": "Nepal flood: Death toll tops 1,000 as rescue continues",
+   "imp": 5,
+   "tags": [
+    "NepalFlood",
+    "DeathToll",
+    "Rescue",
+    "बाढी"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1793692925.7797499,
-   "en": "विराटनगरका इमरान शेखद्वारा जनकपुरविरुद्ध अर्धशतक प्रहार",
-   "ne": "विराटनगरका इमरान शेखद्वारा जनकपुरविरुद्ध अर्धशतक प्रहार",
-   "link": "https://baahrakhari.com/detail/506455",
-   "source": "Baahrakhari",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "sports"
-  },
   {
    "ts": 1793694676.1296363,
    "en": "8 Inmates Escape Dolpa Prison Via Tunnel; DIG Investigates",
@@ -6705,8 +6720,8 @@
    "cat": "politics"
   }
  ],
- "updated": 1794297696,
- "pending_since": null,
+ "updated": 1794298273,
+ "pending_since": 1794298254.2719467,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
