@@ -1178,32 +1178,10 @@
   "https://nagariknews.nagariknetwork.com/Dharma-Saskriti/100-foreign-tourists-to-be-vaccinated-at-bhaitika-festival-77-26.html": 1794333684.4910495,
   "http://english.ratopati.com/story/86242/trinidad-and-tobago-lifts-ban-on-same-sex-marriage": 1794336056.1052384,
   "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPMm1IQzBSS3pCVGxLcktEZXJBb1ZsUFBlZk5IZWFteEE2UXJZdG0xMDIzUGdCVW5YYmx0ZlFadFhSSURuVHgwUkw3UnRYNWotajdBendZTWgzRzZzbVZLc21qTlJhQ0hSbk05RFAwNnJWNU1CU3FVek1KSnpyYnlwYS1FbUVuaVlEa3hiM1E4aDB0c2xpVXlpSHVpVHA4OUxpSjJMT1dsa04weTU4UFVOVW1ENURZcFR3U2hTZ3dhRHJNakgtMGRaaU94VnBFMHppUVNjZnUxTlBBUXh0M3I4M0Z2ZWNfNnpRMTJ2RHhYZ0JvS2p0M1dpRHg3N1dIdw?oc=5": 1794336650.759754,
-  "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB5ZE5lV0EyMTlaUF8ydVdsNGZNdEczNTd4TFE0T1VCd2lUTHFUcXVIUVZWZ28tbDVmQktjc1AwMnZKRFBhV1RBbQ?oc=5": 1794337286.9256968
+  "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB5ZE5lV0EyMTlaUF8ydVdsNGZNdEczNTd4TFE0T1VCd2lUTHFUcXVIUVZWZ28tbDVmQktjc1AwMnZKRFBhV1RBbQ?oc=5": 1794337286.9256968,
+  "https://news.google.com/rss/articles/CBMiggFBVV95cUxObS1EbEFuWlE5dXFFdlZ3NGFkUEVUU0RNOGpxZ0ZIZUc5NkRtM3JpbnN5czVidlA5bVZUN2pRaXAydy1wUUVoNHhBWVRRN2FKUkJUc2Z4TjdkZXZJTjdUek9MenU4Yl9pS1NXbEJ1ZnZXSFhFZGNHTk9ZbGI4SDJwdkJn?oc=5": 1794338449.6528764
  },
  "queue": [
-  {
-   "title": "Child drowns in Rapti river in Dang",
-   "summary": "DANG: A six-year-old child died after drowning in the Rapti River in Dang district today. According to the District Police Office, Dang, the deceased has been identified as Kishan Dangi, the six-year-old son of Khadak...",
-   "link": "https://english.khabarhub.com/2026/10/575171/",
-   "source": "Khabarhub EN",
-   "ts": 1794309096,
-   "weight": 2,
-   "img": "https://english.khabarhub.com/wp-content/uploads/2025/07/Drown-Drowning-400x220.jpg",
-   "lang": "en",
-   "hl": "Child drowns in Rapti river in Dang",
-   "en": "Child drowns in Rapti river in Dang",
-   "ne": "Child drowns in Rapti river in Dang",
-   "imp": 3,
-   "tags": [
-    "RaptiRiver",
-    "Dang",
-    "Drowning"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
   {
    "title": "'कायर' भएको भन्दै डीआर कङ्गाेले ६६ सैनिकलाई मृत्युदण्डको सजाय सुनायो",
    "summary": "डीआर कङ्गाेमा सन् २०२५ को शुरुआतयता कम्तीमा ५०७ जना सैनिक दोषी ठहरिएका छन् जसमध्ये ३८१ जनालाई मृत्युदण्डको सजाय सुनाइएको छ ।",
@@ -2181,29 +2159,6 @@
    ],
    "cat": "politics",
    "val": 1,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "How Israel's new parliament can make Netanyahu's life difficult",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPT0ZsRTNYQm5abTU1dHp1d2c2Wi1YVkEzdDQyNkpwcjF2RHNiVm0tSUlTREN6ME5GYzdpZHh6SnliUjVTejd0OFM3QjY0SWlDV2ZZUm9FSkhaU2JTVHFHZG91VThmeFhZZ25Nd2xtYjllTExiTW5FXzFkTzJNNTMtLXdBeE1oTjI2WjNMcGtqWVd5UWNTU0RNVHB6b0JrU1VfWnFvTUdHbEYyTXFsejNERklYZ2F4ZEE?oc=5",
-   "source": "myRepublica",
-   "ts": 1794309300,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "How Israel's new parliament can make Netanyahu's life difficult",
-   "en": "How Israel's new parliament can make Netanyahu's life difficult",
-   "ne": "How Israel's new parliament can make Netanyahu's life difficult",
-   "imp": 1,
-   "tags": [
-    "Israel",
-    "Parliament",
-    "Netanyahu"
-   ],
-   "cat": "world",
-   "val": 2,
    "teaser": false,
    "hits": 1
   },
@@ -5789,8 +5744,8 @@
    "cat": "sports"
   }
  ],
- "updated": 1794337855,
- "pending_since": null,
+ "updated": 1794338452,
+ "pending_since": 1794338449.6528764,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
