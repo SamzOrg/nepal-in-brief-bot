@@ -1231,7 +1231,8 @@
   "https://nagariknews.nagariknetwork.com/politics/prime-minister-balen-urges-to-preserve-indigenous-culture-br-50-97.html": 1794277246.994411,
   "https://nagariknews.nagariknetwork.com/sports/sudurpaschim-aims-to-ease-playoff-journey-janakpur-under-pressure-11-22.html": 1794277246.994411,
   "http://english.ratopati.com/story/86179/what-did-prime-minister-balen-say-while-wishing-nepal-samvat": 1794277866.1963193,
-  "https://www.ujyaaloonline.com/detail/133353": 1794278450.4790769
+  "https://www.ujyaaloonline.com/detail/133353": 1794278450.4790769,
+  "https://english.khabarhub.com/2026/10/575133/": 1794279047.2233024
  },
  "queue": [
   {
@@ -1412,29 +1413,6 @@
    ],
    "cat": "sports",
    "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "जलवायु सङ्कट विश्वव्यापी स्वास्थ्य सङ्कटका रूपमा विकसित !",
-   "summary": "अन्ताल्या (टर्किए), कात्तिक २४ गते । जलवायु परिवर्तनका कारण अत्यधिक गर्मी, वायु प्रदूषण र जलवायुसम्बन्धी विपद् बढ्दै जाँदा विश्वव्यापी स्वास्थ्य सङ्कट गहिरिँदै गएको जलवायु तथा स्वा...",
-   "link": "https://gorkhapatraonline.com/news/228786",
-   "source": "Gorkhapatra",
-   "ts": 1794274676,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/391083/conversions/image-(2)-original.jpg",
-   "lang": "ne",
-   "hl": "जलवायु सङ्कट विश्वव्यापी स्वास्थ्य सङ्कटका रूपमा विकसित !",
-   "en": "जलवायु सङ्कट विश्वव्यापी स्वास्थ्य सङ्कटका रूपमा विकसित !",
-   "ne": "जलवायु सङ्कट विश्वव्यापी स्वास्थ्य सङ्कटका रूपमा विकसित !",
-   "imp": 3,
-   "tags": [
-    "ClimateChange",
-    "Health",
-    "जलवायुसङ्कट"
-   ],
-   "cat": "health",
-   "val": 2,
    "teaser": false,
    "hits": 1
   },
@@ -4834,9 +4812,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "sports"
+  },
+  {
+   "ts": 1794279056.9754908,
+   "en": "जलवायु परिवर्तनले विश्वव्यापी स्वास्थ्य सङ्कट गहिरिँदै, सङ्कट महामारीको स्तरमा पुगेको विज्ञहरूको चेतावनी",
+   "ne": "जलवायु परिवर्तनले विश्वव्यापी स्वास्थ्य सङ्कट गहिरिँदै, सङ्कट महामारीको स्तरमा पुगेको विज्ञहरूको चेतावनी",
+   "link": "https://gorkhapatraonline.com/news/228786",
+   "source": "Gorkhapatra",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "health"
   }
  ],
- "updated": 1794278453,
+ "updated": 1794279076,
  "pending_since": 1794277866.1963193,
  "fb_blocks": [
   1790350880.4125228,
