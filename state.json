@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTGdUUGl6WnB6TThsZWxWejdBNV9DUzJBNk14WGlzNFVGNXJnS1EwcURRTUFyWFY3NWJ4NTdoalFSaUY1SHZkamFrVWdySVBTNjhGa0RGQkFxa3ZJN0laZGhJbjBRVlRIcWtWSDFMMlJQNUd1aVc3WVlhTGUzdXJSMElhcFByd3VOd3RXMlNMS001X3E3ZG9sR01XektpMWxYcGk2YXFTRHpQMEMyVWhqRkVsTF9vd1dS?oc=5": 1794128486.0807815,
   "https://baahrakhari.com/detail/506900": 1794129053.1991017,
   "https://gorkhapatraonline.com/news/228704": 1794129053.1991017,
   "https://www.setopati.com/social/402293": 1794129053.1991017,
@@ -1176,7 +1175,11 @@
   "http://english.ratopati.com/story/86205/a-model-of-global-south-unity-chinese-citizens-consider-china-brazil-relations-excellent": 1794300057.2389672,
   "https://www.ujyaaloonline.com/detail/133362": 1794300653.545126,
   "https://news.google.com/rss/articles/CBMie0FVX3lxTE9wcWFVNy1DU1gzOVRxSnJsS09GVk40MjlKSEcwS3J2eDZfbVEtT0g4Y2FHR1hrTGZzdVE5V0lqcnhOSU1TUkxndWNIMGpubk51Wm01UE9wTVpFZmZiSi14MTlqb29tTnpZeWRDNkpOTnBERDVZWDJoX1BLONIBe0FVX3lxTE1FNE5QV3J1MWE2OXltMXpJRjZvX2thVmEtRHdMTC1kWENkaUhsZXlaWGs5aWlGV1RuSkw3SkNsZjRHVmlNNTdiLUZWZTRBT0VuNHhWWVJVSTNOWlo2M3pSV0FjeFlxNkNLZmstMWhzWVBKeXM4c3UwRFg5WQ?oc=5": 1794300653.545126,
-  "https://english.onlinekhabar.com/7-arrested-for-gambling-in-dhankuta.html": 1794301285.0073223
+  "https://english.onlinekhabar.com/7-arrested-for-gambling-in-dhankuta.html": 1794301285.0073223,
+  "https://english.khabarhub.com/2026/10/575158/": 1794301851.926772,
+  "https://english.onlinekhabar.com/prithvi-highway-reopens-after-ghoptebhir-landslide-clearance-traffic-congestion-persists.html": 1794301851.926772,
+  "https://news.google.com/rss/articles/CBMickFVX3lxTE0ycUlVUVY4dUVaY1ZNOVJ1TWpiQkFjaWlfRDh6azgySnJmcDdwbktBX0lXSzVhNEYteW1MZHFSbUgzbE0zR3pVTTBscVR2Zk14ZWRMRnV4cWhVWVBxRWYtR2ZzR0FrNDhZdUhrNWg4WDF0QQ?oc=5": 1794301851.926772,
+  "https://www.ujyaaloonline.com/detail/133363": 1794301851.926772
  },
  "queue": [
   {
@@ -1247,29 +1250,6 @@
    "val": 3,
    "teaser": false,
    "hits": 2
-  },
-  {
-   "title": "तिहारको झिलिमिली छोडेर परदेशको बाटो : बाध्यता कि रहर?",
-   "summary": "वैदेशिक रोजगारी, उच्च शिक्षा तथा विभिन्न व्यक्तिगत प्रयोजनका लागि विदेशिने नेपालीहरूको भीडले चाडपर्वको समयमा पनि विमानस्थल व्यस्त देखियो।...",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/leaving-the-glitter-of-tihar-behind-and-heading-abroad-compulsion-or-desire-26-88.html",
-   "source": "Nagarik News",
-   "ts": 1794272909,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1757522205_Airport.jpg",
-   "lang": "ne",
-   "hl": "तिहारको झिलिमिली छोडेर परदेशको बाटो : बाध्यता कि रहर?",
-   "en": "तिहारको झिलिमिली छोडेर परदेशको बाटो : बाध्यता कि रहर?",
-   "ne": "तिहारको झिलिमिली छोडेर परदेशको बाटो : बाध्यता कि रहर?",
-   "imp": 2,
-   "tags": [
-    "Tihar",
-    "Migration",
-    "तिहार"
-   ],
-   "cat": "society",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
   },
   {
    "title": "यौन अपराधमा बेलायती कमेडियन रसेल ब्रान्डलाई साढे १० वर्ष जेल सजाय",
@@ -2840,7 +2820,7 @@
    "cat": "culture",
    "val": 3,
    "teaser": false,
-   "hits": 4
+   "hits": 5
   },
   {
    "title": "Madhesh prepares for Chhath as families return home",
@@ -3178,7 +3158,7 @@
    "cat": "disaster",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "टोखा नगरपालिकामा भौतिक पूर्वाधार र आधुनिक प्रविधिमैत्री सेवा विस्तार",
@@ -3714,17 +3694,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1793696494.0782077,
-   "en": "Officials allegedly held at PMO until they agreed to scrap Sunkoshi Marin tender",
-   "ne": "Officials allegedly held at PMO until they agreed to scrap Sunkoshi Marin tender",
-   "link": "https://english.onlinekhabar.com/officials-pmo-sunkoshi-marin-tender.html",
-   "source": "Onlinekhabar EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "politics"
-  },
   {
    "ts": 1793698280.6827648,
    "en": "Kathmandu Metropolitan City Bans Plastic Flowers and Malas During Tihar",
@@ -6751,7 +6720,7 @@
    "cat": "politics"
   }
  ],
- "updated": 1794301301,
+ "updated": 1794301855,
  "pending_since": 1794300653.545126,
  "fb_blocks": [
   1790350880.4125228,
