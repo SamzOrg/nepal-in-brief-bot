@@ -1,25 +1,5 @@
 {
  "seen": {
-  "http://english.ratopati.com/story/86029/this-is-the-history-of-dog-breeding-how-did-it-become-mans-best-friend": 1794103849.5741322,
-  "https://nagariknews.nagariknetwork.com/social-affairs/two-motorcycle-riders-die-in-truck-collision-in-itahari-29-20.html": 1794103849.5741322,
-  "https://risingnepaldaily.com/news/88517": 1794103849.5741322,
-  "https://www.setopati.com/politics/402266": 1794103849.5741322,
-  "https://gorkhapatraonline.com/news/228679": 1794103849.5741322,
-  "https://english.onlinekhabar.com/can-riu-river-madi-asset.html": 1794103849.5741322,
-  "https://kathmandupost.com/art-culture/2026/11/08/we-ve-been-best-friends-with-dogs-for-thousands-of-years-here-s-how-it-began": 1794103849.5741322,
-  "http://english.ratopati.com/story/86028/metropolitan-city-monitors-shops-selling-plastic-flower-garlands": 1794103849.5741322,
-  "https://nagariknews.nagariknetwork.com/politics/foreign-minister-khanal-in-antalya-to-lead-nepali-delegation-to-participate-in-cop-31-br-26-90.html": 1794103849.5741322,
-  "https://gorkhapatraonline.com/news/228678": 1794103849.5741322,
-  "http://english.ratopati.com/story/86027/13-interesting-facts-about-dogs": 1794103849.5741322,
-  "https://nagariknews.nagariknetwork.com/sports/this-is-a-defeat-at-the-right-time-captain-rohit-72-87.html": 1794103849.5741322,
-  "https://gorkhapatraonline.com/news/228677": 1794103849.5741322,
-  "http://english.ratopati.com/story/86026/yama-the-guardian-of-snakes-previously-afraid-now-rejoicing": 1794103849.5741322,
-  "https://nagariknews.nagariknetwork.com/social-affairs/security-personnel-s-four-legged-companions-following-the-scent-searching-for-everything-from-criminals-to-life-in-the-rubble-br-84-74.html": 1794103849.5741322,
-  "https://gorkhapatraonline.com/news/228676": 1794103849.5741322,
-  "https://nagariknews.nagariknetwork.com/social-affairs/tourists-flock-to-annapurna-base-camp-br-35-12.html": 1794103849.5741322,
-  "https://gorkhapatraonline.com/news/228675": 1794103849.5741322,
-  "https://nagariknews.nagariknetwork.com/social-affairs/14-illegally-loaded-guns-found-in-barahatal-29-85.html": 1794103849.5741322,
-  "https://gorkhapatraonline.com/news/228674": 1794103849.5741322,
   "https://english.khabarhub.com/2026/08/574840/": 1794104448.824426,
   "https://theannapurnaexpress.com/story/68597": 1794105647.8925571,
   "https://www.setopati.com/social/402268": 1794105647.8925571,
@@ -1229,7 +1209,9 @@
   "https://english.khabarhub.com/2026/10/575116/": 1794274849.0853925,
   "https://nagariknews.nagariknetwork.com/social-affairs/leaving-the-glitter-of-tihar-behind-and-heading-abroad-compulsion-or-desire-26-88.html": 1794274849.0853925,
   "https://nagariknews.nagariknetwork.com/social-affairs/nepal-sambat-is-a-living-symbol-of-social-justice-and-human-coexistence-vice-president-yadav-br-68-34.html": 1794274849.0853925,
-  "https://kathmandupost.com/national/2026/11/10/fresh-landslide-blocks-prithvi-highway-again-disrupting-traffic-to-and-from-kathmandu": 1794275448.800431
+  "https://kathmandupost.com/national/2026/11/10/fresh-landslide-blocks-prithvi-highway-again-disrupting-traffic-to-and-from-kathmandu": 1794275448.800431,
+  "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9qbFpraF9CYmkweDllZDJMN0NSNko5ajR1VFZpcHRxTXBpREJnYnpldlZQdUVYdF9yem4zZUZHOG1DdWtfaVg0cDRZblIwQkR5ekUtN2thZlpRSzZ6endvZ2tR?oc=5": 1794276652.9255278,
+  "https://kathmandupost.com/cricket/2026/11/10/janakpur-face-must-win-test-against-sudurpaschim-in-npl": 1794276652.9255278
  },
  "queue": [
   {
@@ -1547,6 +1529,30 @@
    "cat": "society",
    "val": 1,
    "teaser": true,
+   "hits": 1
+  },
+  {
+   "title": "Janakpur face must-win test against Sudurpaschim in NPL",
+   "summary": "Janakpur need a victory to keep their playoff hopes alive, while Sudurpaschim can strengthen their position with a win in Kirtipur.",
+   "link": "https://kathmandupost.com/cricket/2026/11/10/janakpur-face-must-win-test-against-sudurpaschim-in-npl",
+   "source": "Kathmandu Post",
+   "ts": 1794262253.88889,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "Janakpur face must-win test against Sudurpaschim in NPL",
+   "en": "Janakpur face must-win test against Sudurpaschim in NPL",
+   "ne": "Janakpur face must-win test against Sudurpaschim in NPL",
+   "imp": 4,
+   "tags": [
+    "NPL",
+    "Janakpur",
+    "Sudurpaschim",
+    "Cricket"
+   ],
+   "cat": "sports",
+   "val": 3,
+   "teaser": false,
    "hits": 1
   }
  ],
@@ -4599,7 +4605,7 @@
    "cat": "world"
   }
  ],
- "updated": 1794276086,
+ "updated": 1794276657,
  "pending_since": 1794275448.800431,
  "fb_blocks": [
   1790350880.4125228,
