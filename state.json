@@ -1,8 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQ2tnd0pVNWtXMHk5YXVteHN2bWRhWWtpT0FUMFhNalZPeVc3amxqdEduLWJCRGxqRFRUZWR6Z3pnYURpYk5JLWdtS1QtWHlWT3hsSVk0czdhNVZKdWtBdDRJcEdReEhSWVJIX3lWZzgxejNIcGpHUFFhVHllaWRsUG5ER0wzLU9ZVF9Yc01TM2N6OExSajJhaHFUTW5NUXpfeU1TdnhFQjgweEoxR2VlWjFLNVQyMGt2OXc?oc=5": 1794132077.9357204,
-  "https://english.onlinekhabar.com/road-reopens-in-both-directions-after-landslide-cleared-at-ghoptebhir.html": 1794132077.9357204,
-  "https://baahrakhari.com/detail/506904": 1794132077.9357204,
   "https://risingnepaldaily.com/news/88521": 1794132648.4148443,
   "https://english.onlinekhabar.com/24-injured-in-5-7-magnitude-earthquake-in-central-japan.html": 1794132648.4148443,
   "https://nagariknews.nagariknetwork.com/social-affairs/policeman-dies-after-being-hit-by-tractor-in-nawalpur-60-88.html": 1794132648.4148443,
@@ -1182,7 +1179,8 @@
   "https://gorkhapatraonline.com/news/228818": 1794304256.1276433,
   "https://nagariknews.nagariknetwork.com/politics/we-must-not-forget-our-original-customs-culture-and-civilization-home-minister-gurung-br-22-93.html": 1794304256.1276433,
   "http://english.ratopati.com/story/86218/hanuman-ansh-which-earned-rs-450-crores-after-being-made-for-rs-25-crores-is-being-released-on-ott": 1794304256.1276433,
-  "https://nagariknews.nagariknetwork.com/social-affairs/farmers-in-a-hurry-to-store-rice-br-77-98.html": 1794304256.1276433
+  "https://nagariknews.nagariknetwork.com/social-affairs/farmers-in-a-hurry-to-store-rice-br-77-98.html": 1794304256.1276433,
+  "https://nagariknews.nagariknetwork.com/politics/despite-landslide-removal-heavy-traffic-in-ghoptebhir-traffic-management-struggling-to-clear-highway-br-93-62.html": 1794304882.7979336
  },
  "queue": [
   {
@@ -1298,76 +1296,6 @@
    ],
    "cat": "other",
    "val": 1,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "८१ वर्षमा बुकर पुरस्कार जित्दै एम जोन ह्यारिसन बने सबैभन्दा पाका विजेता",
-   "summary": "८१ वर्षीय ह्यारिसन बुकर पुरस्कारको इतिहासमै यो सम्मान प्राप्त गर्ने सबैभन्दा पाका लेखक बनेका छन्।...",
-   "link": "https://nagariknews.nagariknetwork.com/education/m-john-harrison-becomes-oldest-winner-of-booker-prize-at-81-74-46.html",
-   "source": "Nagarik News",
-   "ts": 1794276045,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1794276022_booker.png",
-   "lang": "ne",
-   "hl": "८१ वर्षमा बुकर पुरस्कार जित्दै एम जोन ह्यारिसन बने सबैभन्दा पाका विजेता",
-   "en": "८१ वर्षमा बुकर पुरस्कार जित्दै एम जोन ह्यारिसन बने सबैभन्दा पाका विजेता",
-   "ne": "८१ वर्षमा बुकर पुरस्कार जित्दै एम जोन ह्यारिसन बने सबैभन्दा पाका विजेता",
-   "imp": 1,
-   "tags": [
-    "BookerPrize",
-    "Literature",
-    "बुकरपुरस्कार"
-   ],
-   "cat": "culture",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "'म्ह पूजा'ले आत्मशुद्धि र चेतनाको बोध गराउँछ : प्रधानमन्त्री",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/507012",
-   "source": "Baahrakhari",
-   "ts": 1794275940,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "'म्ह पूजा'ले आत्मशुद्धि र चेतनाको बोध गराउँछ : प्रधानमन्त्री",
-   "en": "'म्ह पूजा'ले आत्मशुद्धि र चेतनाको बोध गराउँछ : प्रधानमन्त्री",
-   "ne": "'म्ह पूजा'ले आत्मशुद्धि र चेतनाको बोध गराउँछ : प्रधानमन्त्री",
-   "imp": 2,
-   "tags": [
-    "MhaPuja",
-    "Tihar",
-    "PrimeMinister",
-    "म्हपूजा"
-   ],
-   "cat": "culture",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "मौलिक संस्कृति जोगाउन आग्रह प्रधानमन्त्री बालेनको आग्रह",
-   "summary": "शाहले राष्ट्रिय विभूति शङ्खधर साख्वाःले देशभरका जनतालाई ऋणमुक्त पारेर सुरु गरेको नेपाल संवत् चन्द्रमामा आधारित नेपालको मौलिक समयचक्र र पहिचान भएको उल्लेख गरेका छन्। ...",
-   "link": "https://nagariknews.nagariknetwork.com/politics/prime-minister-balen-urges-to-preserve-indigenous-culture-br-50-97.html",
-   "source": "Nagarik News",
-   "ts": 1794275487,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1793892672_balen.png",
-   "lang": "ne",
-   "hl": "मौलिक संस्कृति जोगाउन आग्रह प्रधानमन्त्री बालेनको आग्रह",
-   "en": "मौलिक संस्कृति जोगाउन आग्रह प्रधानमन्त्री बालेनको आग्रह",
-   "ne": "मौलिक संस्कृति जोगाउन आग्रह प्रधानमन्त्री बालेनको आग्रह",
-   "imp": 3,
-   "tags": [
-    "BalenShah",
-    "Culture",
-    "संस्कृति"
-   ],
-   "cat": "culture",
-   "val": 2,
    "teaser": false,
    "hits": 1
   },
@@ -1868,28 +1796,6 @@
     "AsiaAlbum"
    ],
    "cat": "culture",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Pakistan U19 vs Nepal U19 Live Streaming: When And Where To Watch U19 Asia Cup 2026 Match",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVFVuN0h0MnB6Q0pXWUhweDctbGh1THM5TnZISV92bThvZHFMZ3RDaDhVNHIyS2pIYnpqOVlpRnNHQ1RrTnUweW1JbG1zZW9OR0h0VjhINWRucDM5SjJJVFZCamJmaUZOa1ZLbmlZYnhsRnQwSk5vVzBtb3ZKaHFkU3RaUnpON2VsN29qY1RoT01JTTNtMFNBcUstMDU3anZ5R1BDTEZuQ0Zjc0xtYTdkZ2ZKSWxUOVA5UG50b3FrazFraGVHemxxTEhrZ9IB0wFBVV95cUxQNjlSbENoOG1fNDViU0Vqb1pmWVhoZVQwUmNMSVlvZ0wzRGVDSEU0bEZYUjMzSzE3NG9TN094Y1Joc3B6ZjBkcHo2TkhWcjBudWNGTHNiRVlCSy1NVHVScGRjY1YtbThsQlBBNzVRU05hTXdyWGE4Z2JQaV94UDJ0WFhNeFU2MDJQMUY4MW1YNWp6MVlEbmdCTXFDMkhpUGtfdk5ZNmhKNHNYZHRWRVBHMDlSNV9vU0M5NmJaY2JtUzliSzB0MzZsT2N1R0ZkYUJVaWQw?oc=5",
-   "source": "NDTV Profit",
-   "ts": 1794276001,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Pakistan U19 vs Nepal U19 Live Streaming: When And Where To Watch U19 Asia Cup 2026 Match",
-   "en": "Pakistan U19 vs Nepal U19 Live Streaming: When And Where To Watch U19 Asia Cup 2026 Match",
-   "ne": "Pakistan U19 vs Nepal U19 Live Streaming: When And Where To Watch U19 Asia Cup 2026 Match",
-   "imp": 2,
-   "tags": [
-    "U19AsiaCup",
-    "Pakistan"
-   ],
-   "cat": "sports",
    "val": 2,
    "teaser": false,
    "hits": 1
@@ -4280,6 +4186,28 @@
    "cat": "economy",
    "val": 3,
    "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "पहिरो पन्छाए पनि घोप्टेभीरमा सवारीको अत्यधिक चाप, राजमार्ग खुलाउन ट्राफिकलाई हम्मेहम्मे",
+   "summary": "तिहार मनाउन घर फर्किने र राजधानी जाने सर्वसाधारणको चापबीच पृथ्वी राजमार्गअन्तर्गत चितवनको घोप्टेभीरमा खसेको सुक्खा पहिरो पन्छाइए पनि नारायणगढ-मुग्लिन सडकखण्डमा यात्रुहरू घण्टौंदेखि जामको सास्ती भोग्न बाध्य भएका छन्।...",
+   "link": "https://nagariknews.nagariknetwork.com/politics/despite-landslide-removal-heavy-traffic-in-ghoptebhir-traffic-management-struggling-to-clear-highway-br-93-62.html",
+   "source": "Nagarik News",
+   "ts": 1794304169,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2025/third-party/1758639003_jam_.jpg",
+   "lang": "ne",
+   "hl": "पहिरो पन्छाए पनि घोप्टेभीरमा सवारीको अत्यधिक चाप, राजमार्ग खुलाउन ट्राफिकलाई हम्मेहम्मे",
+   "en": "पहिरो पन्छाए पनि घोप्टेभीरमा सवारीको अत्यधिक चाप, राजमार्ग खुलाउन ट्राफिकलाई हम्मेहम्मे",
+   "ne": "पहिरो पन्छाए पनि घोप्टेभीरमा सवारीको अत्यधिक चाप, राजमार्ग खुलाउन ट्राफिकलाई हम्मेहम्मे",
+   "imp": 2,
+   "tags": [
+    "Landslide",
+    "Ghoptibhir"
+   ],
+   "cat": "disaster",
+   "val": 2,
+   "teaser": true,
    "hits": 1
   }
  ],
@@ -7321,8 +7249,8 @@
    "cat": "world"
   }
  ],
- "updated": 1794304288,
- "pending_since": null,
+ "updated": 1794304893,
+ "pending_since": 1794304882.7979336,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
