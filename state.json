@@ -1183,7 +1183,9 @@
   "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOGx0c1lFY0NSaFhRY2JqbXFIVHBDSmJ0eDdzVF9YQUFwdkVnemkzbDNzVUVYV3JCbjU3VXFMQnFrZXZpLWRDX3hDVENQaXkxa2tUSlRiMDdyTFo1MWZ6VmNzZVdhZVdaR01VQm1vbmJkc1BHNUN0UkVydXJOYktRYTdBWENnQTB4NEpIaWo4RDFhbl8wYVE?oc=5": 1794345049.2255647,
   "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdkFveDJSUkFkZkJidmdmSGVaMHlIcEVGTlhjRlU5a3A5NWVHRzZRby0xd0pZUG52UWpqQnYwb0czUVJwNHpiUTNYbGlha0VfWmNEN19kZEVTVWsyc2c2a2tGLS1odFB1LU9EeGZFT0xtY2tnOWZKRGQya0FCS2tSQVhvUFZyT1B2Q1FlaXktX21Idk8wbUFUZDdQR1JQb25aMWh2MVRtQXFCOWFsQzZYX2d6TWtLQjg?oc=5": 1794349867.8124518,
   "https://news.google.com/rss/articles/CBMisAFBVV95cUxPLXdrWUFIWXhhUEY2Q3RrM2VNc2VJZWlMS0ZOYjZqMmJXbjlNZkNmc0JHS2FBemIwVzBtMG1rSDNfLW9PZlo3bExLcUlMY3VtUHdqU3h4SEsxampPVENMZlhMM25TSEpLbUk4MXRSS0hqdmdTekc3QVBsT3RIMjdXUDRUU09nTWpkSGd6akFlVWdxMDd2NU43N0FVdTB5OXVmR25USFZwN00yZHM0QUN6bw?oc=5": 1794351051.8338027,
-  "https://news.google.com/rss/articles/CBMif0FVX3lxTE82OWE5M1k3eDdnaW5qc3JmUTMwSG5hMGVMRm1QUDc4cEdTMGZ6aVVwd3FVbi1YeTZtcUludWxYREVvQWhYWk0yT0U5WnNQd0wzVlhUU2ZpZEVzUkd0VEhXcnBTcFc0S1UtMVZOSUN4eUV5bkJ0d2ZJWWdEbHMtX0U?oc=5": 1794352850.029643
+  "https://news.google.com/rss/articles/CBMif0FVX3lxTE82OWE5M1k3eDdnaW5qc3JmUTMwSG5hMGVMRm1QUDc4cEdTMGZ6aVVwd3FVbi1YeTZtcUludWxYREVvQWhYWk0yT0U5WnNQd0wzVlhUU2ZpZEVzUkd0VEhXcnBTcFc0S1UtMVZOSUN4eUV5bkJ0d2ZJWWdEbHMtX0U?oc=5": 1794352850.029643,
+  "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZ0ROaHd5NDk1TVlmMUg2TUMwcVQyYU5OZVhiQ21MRGZUOGEzOGR5Z2lKbk1YTUU1OGViaHRQeHFsdTFPdUgzRlZncXhSTno5OFgtb28tS1dQUmdQRzdTN3FLTVV5cS1ocXJiblc4aUVjWHY2bFRRN1FvRG5DV1RCeDVZSXJHOGdMdGc?oc=5": 1794354047.0664744,
+  "http://english.ratopati.com/story/86243/the-best-time-for-bhai-tika-is-at-1107-am": 1794354047.0664744
  },
  "queue": [
   {
@@ -1254,28 +1256,6 @@
    "val": 2,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "भक्तपुरमा हर्षोल्लासका साथ किजापुजा मनाइयो",
-   "summary": "ख्वप (भक्तपुर), कात्तिक २४ गते । नेवार समुदायमा दाजुभाइ तथा दिदीबहिनीबिचको प्रेम, सद्भाव र आत्मियताको प्रतीकका रूपमा मनाइने किजा पूजा अर्थात् भाइटीका आज भक्तपुरलगायत नेवार समुदायको...",
-   "link": "https://gorkhapatraonline.com/news/228835",
-   "source": "Gorkhapatra",
-   "ts": 1794324865,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/391158/conversions/kijapuja-original.jpg",
-   "lang": "ne",
-   "hl": "भक्तपुरमा हर्षोल्लासका साथ किजापुजा मनाइयो",
-   "en": "भक्तपुरमा हर्षोल्लासका साथ किजापुजा मनाइयो",
-   "ne": "भक्तपुरमा हर्षोल्लासका साथ किजापुजा मनाइयो",
-   "imp": 2,
-   "tags": [
-    "Bhaktapur",
-    "Kijapuja"
-   ],
-   "cat": "culture",
-   "val": 1,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "Nine Displaced Civilians Killed in Drone Attack in Sudan's Blue Nile State",
@@ -4632,8 +4612,8 @@
    "cat": "health"
   }
  ],
- "updated": 1794353470,
- "pending_since": null,
+ "updated": 1794354050,
+ "pending_since": 1794354047.0664744,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
