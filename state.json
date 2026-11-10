@@ -1244,7 +1244,8 @@
   "https://nagariknews.nagariknetwork.com/Dharma-Saskriti/worship-of-govardhan-bali-bull-and-hali-on-the-kartik-shukla-pratipada-br-31-79.html": 1794272486.6699913,
   "https://www.ujyaaloonline.com/detail/133346": 1794272486.6699913,
   "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1XMGRNX1duLUE2NkNNY015YS1jY2duX2xjaVhOWjM1ZkJCNlcwaDhJLWdwdE01cG1LMHp3V1JhRlJqNktzanp1Z1B5MGpRRFE5cXRRaFlwZmI?oc=5": 1794272486.6699913,
-  "https://www.ujyaaloonline.com/detail/133345": 1794272486.6699913
+  "https://www.ujyaaloonline.com/detail/133345": 1794272486.6699913,
+  "https://www.ujyaaloonline.com/detail/133349": 1794273048.386219
  },
  "queue": [
   {
@@ -1289,29 +1290,6 @@
    ],
    "cat": "sports",
    "val": 1,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Nepal Premier League 2026 schedule, match times, results and points table",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbk9UbERrRUFhZkpPNFpoLTR2Y1FacTBUUjhCOTBKQl9uNE9pbmJMZU5pTGpwak1hNGFXQjBCMGtpR3ZPUkhFb2QyTWhFeE9EbDBLcUVNV1hrMklSc3pDQ01mQzRjOFlJSVBpcW45ZWk5amw0UUdUS3lyYTVwb05LWTJGdVJXampX?oc=5",
-   "source": "Yahoo Sports",
-   "ts": 1794244111,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Nepal Premier League 2026 schedule, match times, results and points table",
-   "en": "Nepal Premier League 2026 schedule, match times, results and points table",
-   "ne": "Nepal Premier League 2026 schedule, match times, results and points table",
-   "imp": 2,
-   "tags": [
-    "NPL2026",
-    "Schedule",
-    "Cricket"
-   ],
-   "cat": "sports",
-   "val": 3,
    "teaser": false,
    "hits": 1
   },
@@ -4567,8 +4545,8 @@
    "cat": "politics"
   }
  ],
- "updated": 1794272495,
- "pending_since": null,
+ "updated": 1794273052,
+ "pending_since": 1794273048.386219,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
