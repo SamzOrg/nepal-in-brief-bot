@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://risingnepaldaily.com/news/88502": 1794097250.3723056,
   "http://english.ratopati.com/story/86019/israeli-president-calls-on-opposition-leader-eisenkot-to-form-government": 1794098447.7804575,
   "https://risingnepaldaily.com/news/88509": 1794099046.2961462,
   "https://risingnepaldaily.com/news/88506": 1794099046.2961462,
@@ -1248,7 +1247,8 @@
   "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZzJ2dXQzZlBXTThKYUZaVmtVMlJVWnJLcVM0YnRxYnphRDlQRlR1Q2gxekwtTnNhWGYxMUc1Zi02S2JLODc0bDBaZ19KYTNKV1BuRzk3bHhZSE1CUHVvUHhUcHRKVWtBSllfbF9aeGdOVHBDWTEtWVFoNXNMVTJyM3ppMzJsNlpqRUdORm5oRGlndlJUV0JER2I1NGJweEhoZnVRNjYteHFYNmE1VklfZThDYWjSAbsBQVVfeXFMTy1VTkZISTNQbGg5Y2dQT1VtVHdkWkRkMVRyTlVveV94d0J6V1Nld1UtOGotQVN3R3lwOUF0VjRUclE5bmRkYUE5ajhnY2RBdkI5VWZHeDRWTlowUTFxUVRabmVZQ0hnb1dNN0hlS3RoZnhRaDl6aDJCUzRQTU9aamh3MlhyY2ZCSUI2VldINU9tbnVRTktpWVlnWjJaa3UxV1FQRmlHNk42QXdaSGJtN25uX3g3V2Ftb3pZaw?oc=5": 1794256825.9230075,
   "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQmwydk5CVnF6YnhGWEgyNTJuQTZHOEN0MWNBQndjZXhjckQtcnVGekFBcVJxNkU1ZG9LX1JRbG1kOHhldEoySVFoTjVkU3RIQ2ZKOGtfWWpsSW1jMUUyclJMbzJzempfYzFOU3lhTmgwX0dQNzdFam5PZDFSazNybF9lMTZoSW11Z0xyYUdR?oc=5": 1794256825.9230075,
   "https://news.google.com/rss/articles/CBMiogFBVV95cUxQc1k1a2M2TzEtY2dBcG5wNWd6Z0RHS09hV0lHZS1SN041Yl9xWDI3MWx3MjFHVzV1eGxIUy1Xeks5S0dTbW55by1GZmp2aFpKWDJ5Z29ZQ0Q1UDJnbml5TmtLNmhVWVRJU2VNUjRnb09sNHM2ZjNfd1Y1Zkd4cEQtUjlXZnRJeEY4YkdoZW0xUHNuUnNBYVpwR2xkNnlWcEZvYmc?oc=5": 1794256825.9230075,
-  "https://news.google.com/rss/articles/CBMifEFVX3lxTE04cmJDYXMwdzMzbXF4T2RhMWtoRElsNHJjNU9reWhhYTRnSzZiR2xGQ0o2UTYtckUwc25rbi05S2lTMWVTYnNVcHFFanRvcGlWMS1iQ1I1dmFZWTJFdzh5eXRwc2p2Z0F5d0Ffdl9aeUNBOVAxSGpDQjdjalY?oc=5": 1794267649.523736
+  "https://news.google.com/rss/articles/CBMifEFVX3lxTE04cmJDYXMwdzMzbXF4T2RhMWtoRElsNHJjNU9reWhhYTRnSzZiR2xGQ0o2UTYtckUwc25rbi05S2lTMWVTYnNVcHFFanRvcGlWMS1iQ1I1dmFZWTJFdzh5eXRwc2p2Z0F5d0Ffdl9aeUNBOVAxSGpDQjdjalY?oc=5": 1794267649.523736,
+  "https://www.ujyaaloonline.com/detail/133344": 1794270051.5064225
  },
  "queue": [
   {
@@ -1271,50 +1271,6 @@
    ],
    "cat": "culture",
    "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Morang Municipality Project Completed 10 Months Ahead of Schedule",
-   "summary": "Morang. A development project in Ratuwamai Municipality of Morang has been completed 10 months ahead of schedule. The construction of...",
-   "link": "http://english.ratopati.com/story/86174/katanukhola-was-built-10-months-ahead-of-the-contract-period",
-   "source": "Ratopati EN",
-   "ts": 1794242353,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/morang-district_GMbflkhohU.jpg",
-   "lang": "en",
-   "hl": "Morang Municipality Project Completed 10 Months Ahead of Schedule",
-   "en": "Morang Municipality Project Completed 10 Months Ahead of Schedule",
-   "ne": "Morang Municipality Project Completed 10 Months Ahead of Schedule",
-   "imp": 3,
-   "tags": [
-    "Morang",
-    "Development"
-   ],
-   "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "'बात बहादुर' होइन 'काम बहादुर' बनौं: ओली",
-   "summary": "नेकपा एमालेका अध्यक्ष एवं पूर्वप्रधानमन्त्री केपी शर्मा ओलीले समाजमा घृणा र विध्वंसको प्रवृत्ति त्यागेर निर्माण तथा सकारात्मक सोचको विकास गर्न आह्वान गरेका छन्। उनले नागरिकलाई कुरा मात्र गर्ने 'बात बहादुर' नभई काम गरेर...",
-   "link": "https://nagariknews.nagariknetwork.com/politics/let-s-be-brave-in-action-not-brave-in-speech-oli-53-76.html",
-   "source": "Nagarik News",
-   "ts": 1794240923,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1767093512_pm_oli.jpg",
-   "lang": "ne",
-   "hl": "'बात बहादुर' होइन 'काम बहादुर' बनौं: ओली",
-   "en": "'बात बहादुर' होइन 'काम बहादुर' बनौं: ओली",
-   "ne": "'बात बहादुर' होइन 'काम बहादुर' बनौं: ओली",
-   "imp": 3,
-   "tags": [
-    "KPSharmaOli",
-    "Politics"
-   ],
-   "cat": "politics",
-   "val": 2,
    "teaser": false,
    "hits": 1
   },
@@ -4501,10 +4457,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "sports"
+  },
+  {
+   "ts": 1794270088.1142185,
+   "en": "Katnukhola bridge in Ratuwamai, Morang completed 10 months ahead of schedule",
+   "ne": "Katnukhola bridge in Ratuwamai, Morang completed 10 months ahead of schedule",
+   "link": "http://english.ratopati.com/story/86174/katanukhola-was-built-10-months-ahead-of-the-contract-period",
+   "source": "Ratopati EN",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "society"
   }
  ],
- "updated": 1794269453,
- "pending_since": null,
+ "updated": 1794270102,
+ "pending_since": 1794270051.5064225,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
