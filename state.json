@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://baahrakhari.com/detail/506878": 1794108049.2394488,
   "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZGhDdm5BT1k2elM3aGhaQmNDNkNlWU9oS3RYQlZjaDNHSVJJcU85R192OU45UEhQRkJKSWJKVHhwTVphLVNlZWM1VUtBRE1ocEdSUUFPNjVwWXd3U19EdzBlREU1OUtTbklWY3BheUtncm9hUFBXRU5GVlJnTzVFNNIBXEFVX3lxTE1waHYyY19zUFVGVVY2M0N5S0ozYU9wazV4T1FxSDFjcUgxRm5pcXd1a0RfYUlnVHRBTTJPLVBBMzN1U1hjVnBxdjBMcFM2R2xMVThpTnFOVjFzR25E?oc=5": 1794108669.0397453,
   "https://nagariknews.nagariknetwork.com/politics/socialism-may-be-the-alternative-to-the-current-crisis-pradeep-gyawali-80-36.html": 1794108669.0397453,
   "https://kathmandupost.com/columns/2026/11/08/nepal-s-250-year-old-foreign-policy-still-works-why-does-no-one-use-it": 1794108669.0397453,
@@ -1221,7 +1220,8 @@
   "https://nagariknews.nagariknetwork.com/technology/world-science-day-being-celebrated-today-emphasis-on-the-role-of-science-in-peace-and-development-55-38.html": 1794279684.3140175,
   "https://theannapurnaexpress.com/story/68645": 1794279684.3140175,
   "https://nagariknews.nagariknetwork.com/social-affairs/un-climate-chief-steele-urges-health-to-be-at-the-center-of-climate-action-45-74.html": 1794279684.3140175,
-  "https://theannapurnaexpress.com/story/68644": 1794279684.3140175
+  "https://theannapurnaexpress.com/story/68644": 1794279684.3140175,
+  "https://english.khabarhub.com/2026/10/575127/": 1794280849.547534
  },
  "queue": [
   {
@@ -1473,29 +1473,6 @@
    "val": 3,
    "teaser": false,
    "hits": 2
-  },
-  {
-   "title": "सांस्कृतिक पर्वले राष्ट्रिय एकतालाई सुदृढ बनाएका छन्ः अध्यक्ष दाहाल",
-   "summary": "राष्ट्रियसभाका अध्यक्ष नारायणप्रसाद दाहालले तिहार, नेपाल संवत् र छठजस्ता पर्वले विविधताबीचको एकता, सहिष्णुता र पारस्परिक सम्मानलाई प्रवर्द्धन गर्दै राष्ट्रिय एकतालाई सुदृढ बनाउन महत्त्वपूर्ण योगदान पुर्‍याउँदै आएका...",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/cultural-festivals-have-strengthened-national-unity-chairman-dahal-br-71-41.html",
-   "source": "Nagarik News",
-   "ts": 1794273538,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2024/third-party/1794273887_Narayan%2098.jpg",
-   "lang": "ne",
-   "hl": "सांस्कृतिक पर्वले राष्ट्रिय एकतालाई सुदृढ बनाएका छन्ः अध्यक्ष दाहाल",
-   "en": "सांस्कृतिक पर्वले राष्ट्रिय एकतालाई सुदृढ बनाएका छन्ः अध्यक्ष दाहाल",
-   "ne": "सांस्कृतिक पर्वले राष्ट्रिय एकतालाई सुदृढ बनाएका छन्ः अध्यक्ष दाहाल",
-   "imp": 3,
-   "tags": [
-    "PushpaKamalDahal",
-    "Festival",
-    "राष्ट्रियएकता"
-   ],
-   "cat": "politics",
-   "val": 2,
-   "teaser": false,
-   "hits": 3
   },
   {
    "title": "तिहारको झिलिमिली छोडेर परदेशको बाटो : बाध्यता कि रहर?",
@@ -5007,9 +4984,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "health"
+  },
+  {
+   "ts": 1794280865.7696087,
+   "en": "सांस्कृतिक पर्वले राष्ट्रिय एकतालाई सुदृढ बनाएका छन्ः अध्यक्ष दाहाल",
+   "ne": "सांस्कृतिक पर्वले राष्ट्रिय एकतालाई सुदृढ बनाएका छन्ः अध्यक्ष दाहाल",
+   "link": "https://nagariknews.nagariknetwork.com/social-affairs/cultural-festivals-have-strengthened-national-unity-chairman-dahal-br-71-41.html",
+   "source": "Nagarik News",
+   "n_fb": 1,
+   "n_ig": 0,
+   "brk": false,
+   "cat": "politics"
   }
  ],
- "updated": 1794280252,
+ "updated": 1794280872,
  "pending_since": 1794280248.9139342,
  "fb_blocks": [
   1790350880.4125228,
