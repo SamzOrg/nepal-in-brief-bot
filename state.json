@@ -1191,7 +1191,12 @@
   "http://english.ratopati.com/story/86183/10th-national-games-what-else-is-happening-when-23-games-are-scheduled-to-be-played-in-surkhet": 1794287452.0020697,
   "https://www.setopati.com/sports/NationalGames/402366": 1794287452.0020697,
   "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBYN3hvcEVjaTlvQnVUV1BxZWxlZlA2bHZDcnN4UjQ5Z0dIWWhtc0FRZEVEUDBvdkJxdFpuUFdDZG9vMTNtYUtPbzE2UVRLdE8t?oc=5": 1794287452.0020697,
-  "https://english.onlinekhabar.com/transitional-justice-no-office-bearers.html": 1794287452.0020697
+  "https://english.onlinekhabar.com/transitional-justice-no-office-bearers.html": 1794287452.0020697,
+  "https://english.onlinekhabar.com/chitwan-elephant-festival-under-scrutiny.html": 1794288049.0439014,
+  "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMmVDXzg3NzI4WXFsQmFnRGp5WExOVXZic05XRWktYnJldlVzdWJRLW1vSUlVekkwM3lJYi12WFpMYnM0UDJWbVl1Y3Ztdjk2WFZkbHpOOG5BSjFDanVteG1oMzdHNHpFOTU5YlRrd0tFQ255NU1CY3lwcFotVml3R3BSNjM?oc=5": 1794288049.0439014,
+  "https://english.khabarhub.com/2026/10/575111/": 1794288049.0439014,
+  "https://news.google.com/rss/articles/CBMiekFVX3lxTE9lZndDYkJ2dUxoTVZhTWgtZ3BMYzZ3b1JuRWE4ek42SW40aWVTNFNHVHFkOVRsbGgzNkFjRTNIaXlJLS1penhTdlhhTVgxRl9VQlhpT2R2WXZqOVpZNllFTDJtUGdSSjZ0RzR5VGJPSzRpNlZBT3JETGxR?oc=5": 1794288049.0439014,
+  "https://news.google.com/rss/articles/CBMioAFBVV95cUxOd056U1BfeVFOZGZQLXRNQWU4Y2lJUU55bkJuX0k2VmVDRkVnaEdoSlJQQTJEaENpTF95b05uTndOUzk4QTJJajF5UWlRVnA5bGIxS25WbFZQRENla1cySE9DZE1zOWUweFoxWEY5dmRVNzZ0OVdBa3dfZFNnU0Y2WlAwN01feE44blBHUko3MHFtUUEyb3BVRXEyTGFYQjBQ?oc=5": 1794288049.0439014
  },
  "queue": [
   {
@@ -2044,7 +2049,7 @@
    "cat": "society",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 3
   },
   {
    "title": "मौलिक पर्वले सामाजिक एकता र सहिष्णुताको भावनालाई बलियो बनाउँछन् : प्रधानमन्त्री शाह",
@@ -2185,28 +2190,6 @@
    "hits": 1
   },
   {
-   "title": "Bagmati Province Government Cuts 6 Billion Rupees Budget for Flood Reconstruction",
-   "summary": "Hetauda. The Bagmati Province Government has cut 6 billion rupees in budget for the reconstruction of damages caused by the...",
-   "link": "http://english.ratopati.com/story/86184/bagmatis-budget-cut-by-6-billion-to-rebuild-bhotekoshi-flood-how-much-from-which-ministry",
-   "source": "Ratopati EN",
-   "ts": 1794287231,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/flood_2nJ08CijOO.webp",
-   "lang": "en",
-   "hl": "Bagmati Province Government Cuts 6 Billion Rupees Budget for Flood Reconstruction",
-   "en": "Bagmati Province Government Cuts 6 Billion Rupees Budget for Flood Reconstruction",
-   "ne": "Bagmati Province Government Cuts 6 Billion Rupees Budget for Flood Reconstruction",
-   "imp": 4,
-   "tags": [
-    "FloodReconstruction",
-    "Bagmati"
-   ],
-   "cat": "disaster",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Nepal advances telecommunications agenda at global ITU conference",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5vNGlIWnN3djJVT2Q3U1d0V3lJZUwyOG0wX2hiUFhHU3hoRTFpSWdaRlFRdzB2WTJmVk9VUFhWRk9OMFpEYzBpZS1YalI0VHBK?oc=5",
@@ -2269,7 +2252,7 @@
    "cat": "disaster",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Asia Album: Moments of Tihar festival in Nepal",
@@ -5462,10 +5445,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "society"
+  },
+  {
+   "ts": 1794288055.3548272,
+   "en": "Bagmati Province Cuts 6 Billion Rupees Budget for Flood Reconstruction",
+   "ne": "Bagmati Province Cuts 6 Billion Rupees Budget for Flood Reconstruction",
+   "link": "http://english.ratopati.com/story/86184/bagmatis-budget-cut-by-6-billion-to-rebuild-bhotekoshi-flood-how-much-from-which-ministry",
+   "source": "Ratopati EN",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "disaster"
   }
  ],
- "updated": 1794287461,
- "pending_since": null,
+ "updated": 1794288065,
+ "pending_since": 1794288049.0439014,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
