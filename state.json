@@ -1,11 +1,5 @@
 {
  "seen": {
-  "https://risingnepaldaily.com/news/88521": 1794132648.4148443,
-  "https://english.onlinekhabar.com/24-injured-in-5-7-magnitude-earthquake-in-central-japan.html": 1794132648.4148443,
-  "https://nagariknews.nagariknetwork.com/social-affairs/policeman-dies-after-being-hit-by-tractor-in-nawalpur-60-88.html": 1794132648.4148443,
-  "https://kathmandupost.com/fashion/2026/11/08/jijivisha-stitched-everest-onto-a-red-carpet-suit-nothing-came-from-paris-milan-or-new-york": 1794132648.4148443,
-  "https://english.khabarhub.com/2026/08/574931/": 1794132648.4148443,
-  "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTzVxVVFWbXRKc3AwQXJzcHFMNnFoSDI2d2g3U3daTjllUnNLRkptRVBtRF8yS1dUNFdoX2k3bUtjVWtFQXFnV2FYY1hab05jN05jNEEwa0Y4UnM0Wjk0QlZaUlBzb1JpcWRIVjl0eVFuZVI1c3BJRkI1aE1CdlY2aHEtUVpCODhGeUJHUWhyZnhXLVVSLVFTN05aNklQTEZyblRta1EyWjBMTGFu0gGyAUFVX3lxTE9TdkNSVmk0c2FaeWNaSGwtem80NVVUZWhXYnUyenhxRlotLTNNQ2NUZHdpYXREOWVha2szd005Uk4xaWltSi1TRURaSFZkOTFrbk9JSzNEZjJ1SXozdVJ4b240NlczT0tyLXhZMWc3aU0xMEladHdudm04Q1ZMTWdOeURVdUxpQzRUWmtxaGl6eWdaTXU4ZFktQlpTS3hHUHNvN0xQblBqSGNYellWOTBaQ2c?oc=5": 1794132648.4148443,
   "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdWZpWW9rRU52ajNFX2xsc0FhcDdvVDlDV09xMWJJMkctWEozZm43TlA1SHUxZUJfcWttaFdzamkzRl9JeGRzd2owNi01SjFhX0FXWDJQRFQ4X3RWUElHZUlzNXBQcllGLXJDQXlQdlVqMUZIeVlSREg3Z1o2QnlKMmhBQWI1YjBPNU5xOWlybzBBZlhJY05fV3ZwM0ZwdDZ3LVEtTTFJSlItdWFJUDFaU040WQ?oc=5": 1794133249.216162,
   "https://english.onlinekhabar.com/2-killed-as-truck-hits-motorcycle-in-itahari.html": 1794133249.216162,
   "http://english.ratopati.com/story/86083/28-people-arrested-from-various-districts-while-gambling": 1794133869.7718904,
@@ -1180,7 +1174,9 @@
   "https://nagariknews.nagariknetwork.com/politics/we-must-not-forget-our-original-customs-culture-and-civilization-home-minister-gurung-br-22-93.html": 1794304256.1276433,
   "http://english.ratopati.com/story/86218/hanuman-ansh-which-earned-rs-450-crores-after-being-made-for-rs-25-crores-is-being-released-on-ott": 1794304256.1276433,
   "https://nagariknews.nagariknetwork.com/social-affairs/farmers-in-a-hurry-to-store-rice-br-77-98.html": 1794304256.1276433,
-  "https://nagariknews.nagariknetwork.com/politics/despite-landslide-removal-heavy-traffic-in-ghoptebhir-traffic-management-struggling-to-clear-highway-br-93-62.html": 1794304882.7979336
+  "https://nagariknews.nagariknetwork.com/politics/despite-landslide-removal-heavy-traffic-in-ghoptebhir-traffic-management-struggling-to-clear-highway-br-93-62.html": 1794304882.7979336,
+  "http://english.ratopati.com/story/86223/110-people-arrested-while-gambling-from-various-locations": 1794305458.044541,
+  "https://baahrakhari.com/detail/507041": 1794305458.044541
  },
  "queue": [
   {
@@ -1250,52 +1246,6 @@
    ],
    "cat": "society",
    "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "ढपक्क कुहिरो",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/507014",
-   "source": "Baahrakhari",
-   "ts": 1794276546,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "ढपक्क कुहिरो",
-   "en": "ढपक्क कुहिरो",
-   "ne": "ढपक्क कुहिरो",
-   "imp": 1,
-   "tags": [
-    "Fog",
-    "Weather",
-    "कुहिरो"
-   ],
-   "cat": "disaster",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "सूर्योदय",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/507013",
-   "source": "Baahrakhari",
-   "ts": 1794276356,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "सूर्योदय",
-   "en": "सूर्योदय",
-   "ne": "सूर्योदय",
-   "imp": 1,
-   "tags": [
-    "Sunrise",
-    "Weather",
-    "सूर्योदय"
-   ],
-   "cat": "other",
-   "val": 1,
    "teaser": false,
    "hits": 1
   },
@@ -1457,28 +1407,6 @@
    ],
    "cat": "tech",
    "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "जलवायु कार्यको केन्द्रमा स्वास्थ्यलाई राख्न राष्ट्रसङ्घीय जलवायु प्रमुख स्टिलको जोड",
-   "summary": "संयुक्त राष्ट्रसङ्घीय जलवायु परिवर्तनसम्बन्धी कार्यकारी सचिव साइमन स्टिलले जलवायु परिवर्तनविरुद्धका विश्वव्यापी प्रयासमा स्वास्थ्य क्षेत्रलाई केन्द्रमा राख्नुपर्नेमा जोड दिएका छन्।...",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/un-climate-chief-steele-urges-health-to-be-at-the-center-of-climate-action-45-74.html",
-   "source": "Nagarik News",
-   "ts": 1794276545,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1794277866_steel%2098.jpg",
-   "lang": "ne",
-   "hl": "जलवायु कार्यको केन्द्रमा स्वास्थ्यलाई राख्न राष्ट्रसङ्घीय जलवायु प्रमुख स्टिलको जोड",
-   "en": "जलवायु कार्यको केन्द्रमा स्वास्थ्यलाई राख्न राष्ट्रसङ्घीय जलवायु प्रमुख स्टिलको जोड",
-   "ne": "जलवायु कार्यको केन्द्रमा स्वास्थ्यलाई राख्न राष्ट्रसङ्घीय जलवायु प्रमुख स्टिलको जोड",
-   "imp": 3,
-   "tags": [
-    "COP31",
-    "ClimateHealth"
-   ],
-   "cat": "world",
-   "val": 2,
    "teaser": false,
    "hits": 1
   },
@@ -4212,17 +4140,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1793700260.8435297,
-   "en": "कर्णाली प्रदेशसभाका सचिव डा. अर्जुनकुमार खड्काविरुद्ध भ्रष्टाचार मुद्दा दायर, ९७ जनाविरुद्ध, ७३ करोड ४९ लाख ५६ हजार माग",
-   "ne": "कर्णाली प्रदेशसभाका सचिव डा. अर्जुनकुमार खड्काविरुद्ध भ्रष्टाचार मुद्दा दायर, ९७ जनाविरुद्ध, ७३ करोड ४९ लाख ५६ हजार माग",
-   "link": "https://baahrakhari.com/detail/506463",
-   "source": "Baahrakhari",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "politics"
-  },
   {
    "ts": 1793702457.5698495,
    "en": "Biratnagar Kings Lose Second Wicket Against Janakpur Bolts in NPL",
@@ -7249,7 +7166,7 @@
    "cat": "world"
   }
  ],
- "updated": 1794304893,
+ "updated": 1794305465,
  "pending_since": 1794304882.7979336,
  "fb_blocks": [
   1790350880.4125228,
