@@ -1255,51 +1255,6 @@
    "hits": 1
   },
   {
-   "title": "Rastriya Swatantra Party Koshi Province Chairman Chandra Rai Discusses Election Preparations and Political Landscape",
-   "summary": "Biratnagar. In the election held on Falgun 21, 2082, the Rastriya Swatantra Party (RSP) won 17 seats, more than a...",
-   "link": "http://english.ratopati.com/story/86234/the-issue-of-identity-will-be-carried-by-the-rashtriya-swayamsevak-sangh-rss-and-the-majority-will-come-in-koshi",
-   "source": "Ratopati EN",
-   "ts": 1794318300,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/chandra-rai_Y1ym0Rvx2Y.webp",
-   "lang": "en",
-   "hl": "Rastriya Swatantra Party Koshi Province Chairman Chandra Rai Discusses Election Preparations and Political Landscape",
-   "en": "Rastriya Swatantra Party Koshi Province Chairman Chandra Rai Discusses Election Preparations and Political Landscape",
-   "ne": "Rastriya Swatantra Party Koshi Province Chairman Chandra Rai Discusses Election Preparations and Political Landscape",
-   "imp": 3,
-   "tags": [
-    "ChandraRai",
-    "KoshiProvince",
-    "Election"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "सुदूरपश्चिमविरुद्ध जनकपुरको खराब सुरुआत",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/507057",
-   "source": "Baahrakhari",
-   "ts": 1794318540,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "सुदूरपश्चिमविरुद्ध जनकपुरको खराब सुरुआत",
-   "en": "सुदूरपश्चिमविरुद्ध जनकपुरको खराब सुरुआत",
-   "ne": "सुदूरपश्चिमविरुद्ध जनकपुरको खराब सुरुआत",
-   "imp": 2,
-   "tags": [
-    "Janakpur",
-    "Sudurpaschim"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "भाइटीकाको दिन विभिन्न भू-भागमा वर्षाको सम्भावना",
    "summary": "यस वर्षको भाइटीकाको दिन अर्थात् बुधबार काठमाडौं उपत्यकासहित देशका विभिन्न भागमा हल्का वर्षाको सम्भावना रहेको छ।...",
    "link": "https://nagariknews.nagariknetwork.com/social-affairs/rain-likely-in-various-areas-on-bhaitika-day-79-52.html",
@@ -1318,29 +1273,6 @@
    ],
    "cat": "health",
    "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Nordic Leaders Meet in Denmark to Discuss Military Aid and Energy Security for Ukraine",
-   "summary": "Kathmandu. A meeting has been organized in Denmark to discuss military cooperation, air defense, and the security of energy infrastructure...",
-   "link": "http://english.ratopati.com/story/86236/zelensky-nordic-leaders-discuss-military-cooperation-air-defense-and-energy-security",
-   "source": "Ratopati EN",
-   "ts": 1794318182,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/jelenski_1RmbamEOiz.png",
-   "lang": "en",
-   "hl": "Nordic Leaders Meet in Denmark to Discuss Military Aid and Energy Security for Ukraine",
-   "en": "Nordic Leaders Meet in Denmark to Discuss Military Aid and Energy Security for Ukraine",
-   "ne": "Nordic Leaders Meet in Denmark to Discuss Military Aid and Energy Security for Ukraine",
-   "imp": 1,
-   "tags": [
-    "NordicLeaders",
-    "Denmark",
-    "Ukraine"
-   ],
-   "cat": "world",
-   "val": 3,
    "teaser": false,
    "hits": 1
   },
@@ -5203,8 +5135,8 @@
    "cat": "sports"
   }
  ],
- "updated": 1794346853,
- "pending_since": null,
+ "updated": 1794347451,
+ "pending_since": 1794347448.3843718,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
