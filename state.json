@@ -1099,7 +1099,9 @@
   "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZjFBUklGcl8zR1FGdy12eUVjQVNEaGJYYTJPU3VsUW1QMHYwX2tYYlptWXRtakZFUzR0N1BkdXBTZE4zV1ZLSEVZdlB5WWk5bWhhZkhNRzN4SDFkSFlXR2cwX1JTMFcwUjZzRURCMndfb2xkNGYwZmhsdHpSTVFSSjVFRzQ0d0dibWJSZEVfeVlMRkVqeUREYWx1TE5ac0ZnY25Kd1h2V0czR0dTdC1tYXJzaWV4eFB1?oc=5": 1794385254.803611,
   "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVmN3dG1mOEpybjZGbjlDanhpQURwemtyeE9xek1FZ2pZTHRuTXpOOGdJVGNVMC1pRjRfVVFneDJaNFVqYzltSUZUYXptR1laUGl6TUMzY3YzbVBZbzgyQURXV051T3pLOENtSmJSMERGS2hmeDdoQUxISE9ScTRDZFVURXlsd2JGbWxFQy1hMlVjOWZ2czVYWjEzY240aWFxc2REcldWOGczaUUzZEtYUjliVllaNlNKSlhYLWVZNjZGMTA?oc=5": 1794385254.803611,
   "https://baahrakhari.com/detail/507085": 1794385869.494013,
-  "http://english.ratopati.com/story/86273/humanitarian-crisis-in-gaza-after-heavy-rains-aid-agencies-mobilize-for-relief-and-rescue": 1794385869.494013
+  "http://english.ratopati.com/story/86273/humanitarian-crisis-in-gaza-after-heavy-rains-aid-agencies-mobilize-for-relief-and-rescue": 1794385869.494013,
+  "https://risingnepaldaily.com/news/88547": 1794386448.7912598,
+  "https://nagariknews.nagariknetwork.com/social-affairs/wife-dies-in-her-home-after-domestic-dispute-husband-arrested-48-23.html": 1794386448.7912598
  },
  "queue": [
   {
@@ -2173,7 +2175,7 @@
    "cat": "crime",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "How women bore the consequences of the First World War in British India",
@@ -2445,52 +2447,6 @@
    "cat": "culture",
    "val": 1,
    "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "रोकिराखेको ट्याक्सी ब्याक भएर दुर्घटना, पाँचजना घाइते",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/507084",
-   "source": "Baahrakhari",
-   "ts": 1794384221,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "रोकिराखेको ट्याक्सी ब्याक भएर दुर्घटना, पाँचजना घाइते",
-   "en": "रोकिराखेको ट्याक्सी ब्याक भएर दुर्घटना, पाँचजना घाइते",
-   "ne": "रोकिराखेको ट्याक्सी ब्याक भएर दुर्घटना, पाँचजना घाइते",
-   "imp": 3,
-   "tags": [
-    "TaxiAccident",
-    "Injured",
-    "दुर्घटना"
-   ],
-   "cat": "accident",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Bhai Tika strengthens bonds of love among siblings: PM Shah",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZjFBUklGcl8zR1FGdy12eUVjQVNEaGJYYTJPU3VsUW1QMHYwX2tYYlptWXRtakZFUzR0N1BkdXBTZE4zV1ZLSEVZdlB5WWk5bWhhZkhNRzN4SDFkSFlXR2cwX1JTMFcwUjZzRURCMndfb2xkNGYwZmhsdHpSTVFSSjVFRzQ0d0dibWJSZEVfeVlMRkVqeUREYWx1TE5ac0ZnY25Kd1h2V0czR0dTdC1tYXJzaWV4eFB1?oc=5",
-   "source": "myRepublica",
-   "ts": 1794373920,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Bhai Tika strengthens bonds of love among siblings: PM Shah",
-   "en": "Bhai Tika strengthens bonds of love among siblings: PM Shah",
-   "ne": "Bhai Tika strengthens bonds of love among siblings: PM Shah",
-   "imp": 3,
-   "tags": [
-    "BhaiTika",
-    "PMShah",
-    "Siblings"
-   ],
-   "cat": "culture",
-   "val": 3,
-   "teaser": false,
    "hits": 1
   },
   {
@@ -5542,9 +5498,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "politics"
+  },
+  {
+   "ts": 1794386456.3597288,
+   "en": "गोरखामा ट्याक्सी ब्याक भई दुर्घटना हुँदा पाँचजना घाइते",
+   "ne": "गोरखामा ट्याक्सी ब्याक भई दुर्घटना हुँदा पाँचजना घाइते",
+   "link": "https://baahrakhari.com/detail/507084",
+   "source": "Baahrakhari",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "accident"
   }
  ],
- "updated": 1794385875,
+ "updated": 1794386470,
  "pending_since": 1794385869.494013,
  "fb_blocks": [
   1790350880.4125228,
