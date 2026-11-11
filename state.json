@@ -1178,7 +1178,9 @@
   "https://gorkhapatraonline.com/news/228842": 1794369679.012293,
   "https://baahrakhari.com/detail/507076": 1794369679.012293,
   "https://gorkhapatraonline.com/news/228841": 1794369679.012293,
-  "https://gorkhapatraonline.com/news/228840": 1794369679.012293
+  "https://gorkhapatraonline.com/news/228840": 1794369679.012293,
+  "https://gorkhapatraonline.com/news/228844": 1794370249.8488197,
+  "https://nagariknews.nagariknetwork.com/politics/language-bill-being-implemented-in-koshi-99-80.html": 1794370249.8488197
  },
  "queue": [
   {
@@ -1954,7 +1956,7 @@
    "cat": "politics",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "भाउ बढेपछि भाइमसलाको अपेक्षित व्यापार हुन नसकेको व्यवसायीको गुनासो",
@@ -5110,8 +5112,8 @@
    "cat": "economy"
   }
  ],
- "updated": 1794369689,
- "pending_since": null,
+ "updated": 1794370252,
+ "pending_since": 1794370249.8488197,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
