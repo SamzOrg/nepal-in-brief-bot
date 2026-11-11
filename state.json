@@ -2189,29 +2189,6 @@
    "hits": 1
   },
   {
-   "title": "ललितपुरको सानेपामा आगलागी",
-   "summary": "",
-   "link": "https://www.ujyaaloonline.com/detail/133380",
-   "source": "Ujyaalo",
-   "ts": 1794372900,
-   "weight": 2,
-   "img": "https://www.ujyaaloonline.com/uploads/posts/fire_GCd0eoEv6T.jpg",
-   "lang": "ne",
-   "hl": "ललितपुरको सानेपामा आगलागी",
-   "en": "ललितपुरको सानेपामा आगलागी",
-   "ne": "ललितपुरको सानेपामा आगलागी",
-   "imp": 3,
-   "tags": [
-    "Sanepa",
-    "Lalitpur",
-    "आगलागी"
-   ],
-   "cat": "disaster",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Tag",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1fZTlxTnFmYVB6V1ZCcFJXelVBTjdCS1NRMmtySFNTangyUWJHRDBKbFNrb1VSaklDb1NYRkxhY2hpdDd1MjRYclJzSFM0ZFgySng1eG5XQjRmMFJfU0dnWENBRWVUcUhRRGxuLTNUWHhQdDZwc1gyV3hWUQ?oc=5",
@@ -5269,9 +5246,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "disaster"
+  },
+  {
+   "ts": 1794376275.432033,
+   "en": "ललितपुरको सानेपामा आगलागी",
+   "ne": "ललितपुरको सानेपामा आगलागी",
+   "link": "https://www.ujyaaloonline.com/detail/133380",
+   "source": "Ujyaalo",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "disaster"
   }
  ],
- "updated": 1794375653,
+ "updated": 1794376289,
  "pending_since": 1794375067.6471465,
  "fb_blocks": [
   1790350880.4125228,
