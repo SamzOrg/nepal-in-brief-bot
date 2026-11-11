@@ -1188,7 +1188,16 @@
   "https://baahrakhari.com/detail/507064": 1794358882.5816543,
   "http://english.ratopati.com/story/86250/bangladesh-tear-gas-rubber-bullets-fired-after-protests-in-support-of-sheikh-hasina": 1794358882.5816543,
   "http://english.ratopati.com/story/86249/us-soldier-arrested-in-britain-on-suspicion-of-spying-for-russia": 1794358882.5816543,
-  "https://baahrakhari.com/detail/507068": 1794359447.98737
+  "https://baahrakhari.com/detail/507068": 1794359447.98737,
+  "https://nagariknews.nagariknetwork.com/social-affairs/what-is-the-weather-like-on-bhai-tika-day-89-32.html": 1794361847.495061,
+  "https://www.ujyaaloonline.com/detail/133374": 1794361847.495061,
+  "https://baahrakhari.com/detail/507069": 1794361847.495061,
+  "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTUJ3TDNidnZXN3NZN09VRVV3eldvMk9LTjJ2VFA3dnpob2ZJajgtYlFtWFhtVUROWnFEVnlIMW05NlRSOWZ4b3J1aFFoQ3lSZEdvN2FSRDRqUzJRT3M2ZmNWalBHY1cteW1LY1V2UmNOc3V0WnIyRzJXbHFXV2tiQnhzOWtzZXRDUVk0QW83bDhOWUdDQVRTMmhWaw?oc=5": 1794361847.495061,
+  "http://english.ratopati.com/story/86260/52-motorcycles-seized-for-making-loud-noises-by-changing-their-appearance": 1794361847.495061,
+  "https://nagariknews.nagariknetwork.com/Aparadh/nepali-girl-s-tragic-death-in-america-murder-confirmed-without-autopsy-64-43.html": 1794361847.495061,
+  "http://english.ratopati.com/story/86259/elderly-woman-rescued-after-falling-from-cliff-and-getting-stuck-in-tree-roots": 1794361847.495061,
+  "https://nagariknews.nagariknetwork.com/social-affairs/bhaitika-the-festival-of-unbreakable-love-between-brothers-and-sisters-nepaliness-reflected-around-the-world-53-44.html": 1794361847.495061,
+  "http://english.ratopati.com/story/86258/falgunandas-thoughts-are-equally-relevant-today-vice-president": 1794361847.495061
  },
  "queue": [
   {
@@ -1597,6 +1606,145 @@
    ],
    "cat": "world",
    "val": 1,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "भाइटीकाका दिनको मौसम कस्तो ?",
+   "summary": "हाल गण्डकी, लुम्बिनी, कर्णाली र सुदूरपश्चिम प्रदेशका हिमाली भूभागमा आंशिक बदली रहेको छ भने देशका बाँकी भूभागमा मौसम मुख्यतया सफा रहेको छ।...",
+   "link": "https://nagariknews.nagariknetwork.com/social-affairs/what-is-the-weather-like-on-bhai-tika-day-89-32.html",
+   "source": "Nagarik News",
+   "ts": 1794361652,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2025/third-party/1736739184_Mausam.jpg",
+   "lang": "ne",
+   "hl": "भाइटीकाका दिनको मौसम कस्तो ?",
+   "en": "भाइटीकाका दिनको मौसम कस्तो ?",
+   "ne": "भाइटीकाका दिनको मौसम कस्तो ?",
+   "imp": 2,
+   "tags": [
+    "BhaiTika",
+    "Weather",
+    "भाइटीका"
+   ],
+   "cat": "society",
+   "val": 1,
+   "teaser": true,
+   "hits": 1
+  },
+  {
+   "title": "सलमानको सिनेमा 'मातृभूमि'को ट्रेलरमा अनुपविक्रम शाहीको दबदबा",
+   "summary": "",
+   "link": "https://baahrakhari.com/detail/507069",
+   "source": "Baahrakhari",
+   "ts": 1794360972,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "सलमानको सिनेमा 'मातृभूमि'को ट्रेलरमा अनुपविक्रम शाहीको दबदबा",
+   "en": "सलमानको सिनेमा 'मातृभूमि'को ट्रेलरमा अनुपविक्रम शाहीको दबदबा",
+   "ne": "सलमानको सिनेमा 'मातृभूमि'को ट्रेलरमा अनुपविक्रम शाहीको दबदबा",
+   "imp": 2,
+   "tags": [
+    "Maatribhumi",
+    "SalmanKhan",
+    "AnupBikramShahi",
+    "Movie"
+   ],
+   "cat": "culture",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Police Seize 52 Modified Motorcycles for Loud Noise in Kathmandu",
+   "summary": "Kathmandu. Police have taken control of 52 motorcycles that were making loud noises and had their forms changed from various...",
+   "link": "http://english.ratopati.com/story/86260/52-motorcycles-seized-for-making-loud-noises-by-changing-their-appearance",
+   "source": "Ratopati EN",
+   "ts": 1794359763,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/899545354_29371261119135608_3589470411716273205_n_6uBXYGiJXU.webp",
+   "lang": "en",
+   "hl": "Police Seize 52 Modified Motorcycles for Loud Noise in Kathmandu",
+   "en": "Police Seize 52 Modified Motorcycles for Loud Noise in Kathmandu",
+   "ne": "Police Seize 52 Modified Motorcycles for Loud Noise in Kathmandu",
+   "imp": 2,
+   "tags": [
+    "KathmanduPolice",
+    "Traffic",
+    "Motorcycle"
+   ],
+   "cat": "crime",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Elderly Woman Rescued After Falling Down Cliff",
+   "summary": "Bajhang. An 84-year-old elderly woman who fell from a cliff in Seku, Kedarsyun Rural Municipality Ward No. 9, Bajhang, and...",
+   "link": "http://english.ratopati.com/story/86259/elderly-woman-rescued-after-falling-from-cliff-and-getting-stuck-in-tree-roots",
+   "source": "Ratopati EN",
+   "ts": 1794359377,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/900213379_1657585149492570_1565922327263656502_n_NvOohZdDxX.webp",
+   "lang": "en",
+   "hl": "Elderly Woman Rescued After Falling Down Cliff",
+   "en": "Elderly Woman Rescued After Falling Down Cliff",
+   "ne": "Elderly Woman Rescued After Falling Down Cliff",
+   "imp": 2,
+   "tags": [
+    "Rescue",
+    "Cliff",
+    "ElderlyWoman"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "दाजुभाइ-दिदीबहिनीको अटुट प्रेमको पर्व भाइटीका : विश्वभर झल्किँदै नेपालीपन",
+   "summary": "भाइटीकाले सधैं सम्बन्धको मूल्य धन वा दूरीले होइन, प्रेम, विश्वास र आत्मीयताले निर्धारण गर्छ। बदलिँदो समय र विश्वव्यापी जीवनशैलीका बीच पनि दिदीबहिनी र दाजुभाइबीचको यही अटुट स्नेहले तिहारको मौलिकता र महत्वलाई अझ जीवन्त...",
+   "link": "https://nagariknews.nagariknetwork.com/social-affairs/bhaitika-the-festival-of-unbreakable-love-between-brothers-and-sisters-nepaliness-reflected-around-the-world-53-44.html",
+   "source": "Nagarik News",
+   "ts": 1794359534,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2025/third-party/1794359521_Tihar%20Family%20Celebration%20with%20Global%20Horizons.png",
+   "lang": "ne",
+   "hl": "दाजुभाइ-दिदीबहिनीको अटुट प्रेमको पर्व भाइटीका : विश्वभर झल्किँदै नेपालीपन",
+   "en": "दाजुभाइ-दिदीबहिनीको अटुट प्रेमको पर्व भाइटीका : विश्वभर झल्किँदै नेपालीपन",
+   "ne": "दाजुभाइ-दिदीबहिनीको अटुट प्रेमको पर्व भाइटीका : विश्वभर झल्किँदै नेपालीपन",
+   "imp": 2,
+   "tags": [
+    "BhaiTika",
+    "Festival",
+    "भाइटीका"
+   ],
+   "cat": "culture",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Vice President Yadav Extends Greetings on Mahaguru Falgunanda's Birth Anniversary",
+   "summary": "Kathmandu. Vice President Ramsahay Prasad Yadav has extended best wishes on the occasion of the birth anniversary of Mahaguru Falgunanda...",
+   "link": "http://english.ratopati.com/story/86258/falgunandas-thoughts-are-equally-relevant-today-vice-president",
+   "source": "Ratopati EN",
+   "ts": 1794359180,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/ramsahaya-prasad-yadav_oBxjyKoI7Q.jpg",
+   "lang": "en",
+   "hl": "Vice President Yadav Extends Greetings on Mahaguru Falgunanda's Birth Anniversary",
+   "en": "Vice President Yadav Extends Greetings on Mahaguru Falgunanda's Birth Anniversary",
+   "ne": "Vice President Yadav Extends Greetings on Mahaguru Falgunanda's Birth Anniversary",
+   "imp": 2,
+   "tags": [
+    "VicePresident",
+    "MahaguruFalgunanda",
+    "Greetings"
+   ],
+   "cat": "politics",
+   "val": 3,
    "teaser": false,
    "hits": 1
   }
@@ -4637,10 +4785,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "culture"
+  },
+  {
+   "ts": 1794361861.028305,
+   "en": "Balendra Shah government faces task to fix Nepal's foreign policy and diplomacy",
+   "ne": "Balendra Shah government faces task to fix Nepal's foreign policy and diplomacy",
+   "link": "https://asianews.network/nepals-250-year-old-foreign-policy-still-works-why-does-no-one-use-it/",
+   "source": "Asia News Network",
+   "n_fb": 1,
+   "n_ig": 0,
+   "brk": false,
+   "cat": "politics"
   }
  ],
- "updated": 1794361250,
- "pending_since": 1794359447.98737,
+ "updated": 1794361869,
+ "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
