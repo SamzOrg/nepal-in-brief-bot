@@ -1,9 +1,5 @@
 {
  "seen": {
-  "https://baahrakhari.com/detail/506956": 1794209467.7539191,
-  "http://english.ratopati.com/story/86113/yuvraj-samras-first-half-century-in-npl": 1794209467.7539191,
-  "http://english.ratopati.com/story/86112/cultural-procession-with-traditional-costumes-in-bhaktapur": 1794209467.7539191,
-  "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdlpHbVo0UlRzMGpUdjdpQTNBclVZUGZLVDhvaVN1ZXY0MWhtelhFeVptaWsya3FvbmtqQmlveEFvR05sTmVyM1BuRThnbVJURFRIMEszVWo1Mkd2cHZzVkg2bUJZckRNQ1hpdnNBTUllTnlzNm1XcjVJOEM1WVlCemRVUGVtamlsNTZLQklFRWxWbWFiWHRuY1kxX2xDUEdMQ1pKRTN3N3NIdWg2ZjJvWXJmQ0thZk9senZ6Q3lUY0hxenVtWk9MdjVOUW52VXM?oc=5": 1794209467.7539191,
   "https://baahrakhari.com/detail/506958": 1794210048.8175797,
   "http://english.ratopati.com/story/86114/tihar-enhances-the-spirit-of-mutual-harmony-and-prosperity-president-poudel": 1794210048.8175797,
   "https://nagariknews.nagariknetwork.com/social-affairs/fire-caused-by-electrical-short-circuit-in-nepalgunj-causes-damage-worth-crores-26-39.html": 1794210048.8175797,
@@ -1132,7 +1128,9 @@
   "https://kathmandupost.com/national/2026/11/11/palpa-s-dhaka-cloth-weaves-its-way-from-festive-gifts-to-tourist-keepsakes": 1794379850.3116171,
   "https://nagariknews.nagariknetwork.com/social-affairs/genji-leader-ravi-kiran-receiving-the-bhaitika-from-his-sister-s-hand-said-this-is-a-charade-that-increases-intimacy-67-54.html": 1794381007.5717583,
   "https://nagariknews.nagariknetwork.com/social-affairs/president-poudel-receives-brotherly-greetings-from-his-sister-sharda-69-60.html": 1794381653.0220165,
-  "https://theannapurnaexpress.com/story/68671": 1794381653.0220165
+  "https://theannapurnaexpress.com/story/68671": 1794381653.0220165,
+  "https://english.khabarhub.com/2026/11/575243/": 1794382268.6328163,
+  "https://baahrakhari.com/detail/507083": 1794382268.6328163
  },
  "queue": [
   {
@@ -2390,20 +2388,30 @@
    "val": 3,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "श्रीमान्‌को कुटपिटबाट श्रीमतीको मृत्यु",
+   "summary": "",
+   "link": "https://baahrakhari.com/detail/507083",
+   "source": "Baahrakhari",
+   "ts": 1794381981,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "श्रीमान्‌को कुटपिटबाट श्रीमतीको मृत्यु",
+   "en": "श्रीमान्‌को कुटपिटबाट श्रीमतीको मृत्यु",
+   "ne": "श्रीमान्‌को कुटपिटबाट श्रीमतीको मृत्यु",
+   "imp": 2,
+   "tags": [
+    "DomesticViolence"
+   ],
+   "cat": "crime",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1793776859.1154344,
-   "en": "PM Balen Shah Calls Cabinet Meeting in Kathmandu Today",
-   "ne": "PM Balen Shah Calls Cabinet Meeting in Kathmandu Today",
-   "link": "http://english.ratopati.com/story/85629/cabinet-meeting-being-held-at-the-prime-ministers-office",
-   "source": "Ratopati EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "politics"
-  },
   {
    "ts": 1793778659.9579024,
    "en": "Nepal gold price rises by Rs 600 per tola to Rs 275,600 on Wednesday",
@@ -5408,7 +5416,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1794381657,
+ "updated": 1794382275,
  "pending_since": 1794380481.0783668,
  "fb_blocks": [
   1790350880.4125228,
