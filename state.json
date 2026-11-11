@@ -1,11 +1,5 @@
 {
  "seen": {
-  "https://english.onlinekhabar.com/3-killed-in-motorcycle-accident-in-nuwakot.html": 1794216053.531994,
-  "https://gorkhapatraonline.com/news/228762": 1794216053.531994,
-  "https://english.khabarhub.com/2026/09/575029/": 1794216667.1107872,
-  "https://gorkhapatraonline.com/news/228764": 1794216667.1107872,
-  "https://www.ujyaaloonline.com/detail/133336": 1794216667.1107872,
-  "https://theannapurnaexpress.com/story/68633": 1794216667.1107872,
   "https://baahrakhari.com/detail/506971": 1794217259.8728013,
   "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNmlmLTJITUNEQ2d6UHpxaExlZWRkekRyQ3hVcFJXXzl5anN3ZEJMZ3EtNmxYbFMxZjA3bHE5bUlmeERzUXF2NGM0OS1Zekd2c3hhVC12Sld2Y3ZZUFlTNHZvQ3JVb2lQMmpxX04wVnNid2FzTWp1M1l1eEZuY1phUXdwalNsVzZfZWJubzlnS1lLY0t4aVExUVNQbEx1eHF2UHBXTW9EWHd1b0NnbmYxRXlMOFJXbVA4bUF5dEFfNmVJaGhkeXhmdUdPeUxDUQ?oc=5": 1794217259.8728013,
   "https://www.setopati.com/politics/402340": 1794217259.8728013,
@@ -1085,7 +1079,10 @@
   "https://nagariknews.nagariknetwork.com/sports/big-player-trade-in-ipl-hardik-punjab-and-arshdeep-to-mumbai-24-28.html": 1794387682.7791665,
   "http://english.ratopati.com/story/86272/conflict-over-oil-wells-in-myanmar": 1794387682.7791665,
   "https://nagariknews.nagariknetwork.com/social-affairs/five-injured-two-in-critical-condition-after-taxi-reverses-into-parked-car-15-45.html": 1794388253.2902997,
-  "https://www.ujyaaloonline.com/detail/133389": 1794388853.0904002
+  "https://www.ujyaaloonline.com/detail/133389": 1794388853.0904002,
+  "https://baahrakhari.com/detail/507086": 1794389468.4175904,
+  "https://nagariknews.nagariknetwork.com/social-affairs/five-injured-two-in-critical-condition-after-taxi-overturns-in-gorkha-33-83.html": 1794389468.4175904,
+  "http://english.ratopati.com/story/86278/trumps-party-becomes-more-aggressive-even-after-midterm-election-defeat": 1794389468.4175904
  },
  "queue": [
   {
@@ -2362,6 +2359,28 @@
    "cat": "world",
    "val": 3,
    "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Republican Party Intensifies Trump's Political Style Post-Midterm Election Defeat",
+   "summary": "Washington DC. After President Donald Trump and his Republican Party suffered a major defeat in the US midterm elections, it...",
+   "link": "http://english.ratopati.com/story/86278/trumps-party-becomes-more-aggressive-even-after-midterm-election-defeat",
+   "source": "Ratopati EN",
+   "ts": 1794388928,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/trump-photo1_sHHScwq0hC.webp",
+   "lang": "en",
+   "hl": "Republican Party Intensifies Trump's Political Style Post-Midterm Election Defeat",
+   "en": "Republican Party Intensifies Trump's Political Style Post-Midterm Election Defeat",
+   "ne": "Republican Party Intensifies Trump's Political Style Post-Midterm Election Defeat",
+   "imp": 1,
+   "tags": [
+    "RepublicanParty",
+    "Trump"
+   ],
+   "cat": "politics",
+   "val": 2,
+   "teaser": true,
    "hits": 1
   }
  ],
@@ -5381,7 +5400,7 @@
    "cat": "crime"
   }
  ],
- "updated": 1794388857,
+ "updated": 1794389475,
  "pending_since": 1794388253.2902997,
  "fb_blocks": [
   1790350880.4125228,
