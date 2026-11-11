@@ -1,11 +1,5 @@
 {
  "seen": {
-  "http://english.ratopati.com/story/86157/chitwan-begins-batting-in-reply": 1794231069.065954,
-  "https://news.google.com/rss/articles/CBMifEFVX3lxTE9SYks4bmd4X0tFX19PbmFUSDExSklRVTBlTWwybVdWWm9zRUlVbzFLTjJsODVvZnpNZFlEOVo2YVRsYllOR2tKUEZJbGxKM0ZCOVR4NXZhNllEbGhsNGZGV1ZPTHhpdV9IYmw4c0pXbEFXM21Ldk8wcHY0SkM?oc=5": 1794231651.9896894,
-  "http://english.ratopati.com/story/86159/23-mega-projects-worth-17-billion-are-being-showcased-at-the-infrastructure-conference-which-ones-will-be-shortlisted": 1794231651.9896894,
-  "https://gorkhapatraonline.com/news/228776": 1794231651.9896894,
-  "https://nagariknews.nagariknetwork.com/sports/the-all-rounder-has-presented-a-competitive-target-79-32.html": 1794231651.9896894,
-  "http://english.ratopati.com/story/86160/explosion-at-steel-factory-in-western-turkey-kills-three": 1794231651.9896894,
   "https://risingnepaldaily.com/news/88531": 1794232251.522621,
   "https://gorkhapatraonline.com/news/228778": 1794232251.522621,
   "https://risingnepaldaily.com/news/88530": 1794232251.522621,
@@ -997,7 +991,8 @@
   "https://kathmandupost.com/world/2026/11/11/russia-ukraine-and-us-start-second-day-of-abu-dhabi-peace-talks": 1794403867.8040679,
   "https://www.setopati.com/opinion/402403": 1794403867.8040679,
   "https://nagariknews.nagariknetwork.com/international/female-soldiers-unsafe-within-german-army-38-percent-experienced-sexual-abuse-12-78.html": 1794403867.8040679,
-  "https://news.google.com/rss/articles/CBMif0FVX3lxTE0xM29zMnBVaDhDZkl6aEtWQ1RoNG9GeFVWcU1FWGNqVUV5Q0lNN0Q2NTk4dmZ4R2xHOVVoQXd2ZHNQUnR6ZDU4clFudzdPRjJpdDU1NWd4MXhlcWRsc3ZiQjl5dUh6N0RPUUpRVklTT09OdzNvd2c3c0o0WUFENk0?oc=5": 1794403867.8040679
+  "https://news.google.com/rss/articles/CBMif0FVX3lxTE0xM29zMnBVaDhDZkl6aEtWQ1RoNG9GeFVWcU1FWGNqVUV5Q0lNN0Q2NTk4dmZ4R2xHOVVoQXd2ZHNQUnR6ZDU4clFudzdPRjJpdDU1NWd4MXhlcWRsc3ZiQjl5dUh6N0RPUUpRVklTT09OdzNvd2c3c0o0WUFENk0?oc=5": 1794403867.8040679,
+  "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9WUkhzMkphU1Z4cmNvY1dvTWc1RkJpdmdnYnpUYkZTREJmc1J0UUFNYmRDZmQxYUlaR0JSY0RIVkZnd0VJU21ZVElPVV9JMjRNcUxJMWwyc21fLUE2YUU2LURR?oc=5": 1794404452.6727252
  },
  "queue": [
   {
@@ -1657,7 +1652,7 @@
    "cat": "culture",
    "val": 3,
    "teaser": false,
-   "hits": 5
+   "hits": 6
   },
   {
    "title": "Digital Entertainment in Nepal: Understanding Online Platforms, Payments, and Responsible Choices",
@@ -2460,29 +2455,6 @@
     "Military"
    ],
    "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Nepal Expands Open-Source Electronic Medical Records Across Nineteen Public Hospitals",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOblF1TVVZS2ZyOHpJdTNkN0otaExlY1FNMU4yMmlDNklmaU41OXJldnc0bDdMb3NWelpOVWxEc092RlB1NEJFMzRaM1JPVzhkeDJmSzY1SmZ5QUM2YnJYeXpLX3EzNFBWUkFIc1puWWRibFJCQmExTlRxaGZPUmZSY25ZZW4xbmVCTUlHMXVaQnV1T0YxeDdvTDBKUmhiWU9zb3hIT3d5UnN0YXc1azBr?oc=5",
-   "source": "Bioengineer.org",
-   "ts": 1794401025,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Nepal Expands Open-Source Electronic Medical Records Across Nineteen Public Hospitals",
-   "en": "Nepal Expands Open-Source Electronic Medical Records Across Nineteen Public Hospitals",
-   "ne": "Nepal Expands Open-Source Electronic Medical Records Across Nineteen Public Hospitals",
-   "imp": 3,
-   "tags": [
-    "EMR",
-    "Hospital",
-    "DigitalHealth"
-   ],
-   "cat": "health",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -5559,9 +5531,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "politics"
+  },
+  {
+   "ts": 1794404460.755247,
+   "en": "Nepal Expands Open-Source Electronic Medical Records in 19 Hospitals",
+   "ne": "Nepal Expands Open-Source Electronic Medical Records in 19 Hospitals",
+   "link": "https://bioengineer.org/nepal-expands-open-source-electronic-medical-records-across-nineteen-public-hospitals/",
+   "source": "Bioengineer.org",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "health"
   }
  ],
- "updated": 1794403872,
+ "updated": 1794404478,
  "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
