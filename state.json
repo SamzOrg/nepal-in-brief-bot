@@ -949,7 +949,8 @@
   "https://nagariknews.nagariknetwork.com/social-affairs/main-headline-of-the-news-99-33.html": 1794418268.4227583,
   "http://english.ratopati.com/story/86291/bomb-threats-to-over-6300-schools-in-italy-pm-meloni-calls-high-level-meeting": 1794418268.4227583,
   "https://news.google.com/rss/articles/CBMizwFBVV95cUxPbTIwWUowTDBrX0ZJcTdkMmM3UXRwTXBOWDZiZjZhWlFySVNUSG5mQ3BaVXlqa1BhNWNsRkJfdDNTaGUzdUExQWIxUVRtUkpkRzhwV0tSVnBxcll0ZXRDN3V3dnN4RFNkZkRaclE4VDJLLXlaSTJGM0ZLUHFGQVE4dFdTUWM0M0tiRVM4VGVDdjduWkVFa2hkV3dvdVhjNG5sV2VEeS1wVmVTcHY4S2VweWR0SUt1d2dtdVdaZUlEeGtJTXlmLTlCc3RUVFdyeGs?oc=5": 1794418851.3609014,
-  "https://news.google.com/rss/articles/CBMivAFBVV95cUxNU2NDZzZfdlo2Ui1EQ1lNdTdEbFBsYXhjak42TF83ZHc2MTlQdmctZ3FmczlxQlJ3TnFjSjNzanlwX0pzbFg4YzVrUnRKT05FaXFPb19OQVd5VUlFNi1oSmtxWUNZeklvQnJ4UElxMFZocDNLcjRZZFRwV3Z3b2Jwa0t3UUJrS0NqY0hvSVUtTVBqbVhuU3o2dWpwa2JFLTQ2UWRBMlF5VG9hamd4VXA5NEhCUm5xZlFnd3pzMQ?oc=5": 1794418851.3609014
+  "https://news.google.com/rss/articles/CBMivAFBVV95cUxNU2NDZzZfdlo2Ui1EQ1lNdTdEbFBsYXhjak42TF83ZHc2MTlQdmctZ3FmczlxQlJ3TnFjSjNzanlwX0pzbFg4YzVrUnRKT05FaXFPb19OQVd5VUlFNi1oSmtxWUNZeklvQnJ4UElxMFZocDNLcjRZZFRwV3Z3b2Jwa0t3UUJrS0NqY0hvSVUtTVBqbVhuU3o2dWpwa2JFLTQ2UWRBMlF5VG9hamd4VXA5NEhCUm5xZlFnd3pzMQ?oc=5": 1794418851.3609014,
+  "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSnFLTEFpZTVtVU5JcmhvTUNMMjRScl9vaVE5ZjE5d2hfenpiTnhuZTZUS0hMZmtFUWt0MTFWell1VFluNUJnS3pQcEM5dHVwNG5LNzA0c09mYlJaZFNPbWpYT21IQVBvaXBGWlVNTlgtSkhSWkk4dWR2OFJrbFJ4blFXa1Y2dENidEVRX0JNQWlUcXJ3N2xiTTJCaVVHVkZWY3FmeVRFNzVCNUwwYVFTbFl1bw?oc=5": 1794421252.9773233
  },
  "queue": [
   {
@@ -974,30 +975,6 @@
    "cat": "culture",
    "val": 1,
    "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "Historic 'Madhavnar Leela' Play to be Performed After 76 Years During Kartik Dance",
-   "summary": "Kathmandu. The historic 'Madhavnar Leela' play, which has not been performed for 76 years, will be staged this year. The...",
-   "link": "http://english.ratopati.com/story/86254/interesting-aspects-of-the-386-year-old-kartik-dance",
-   "source": "Ratopati EN",
-   "ts": 1794392100,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/kartik-nach_8htjHiy6rj.jpg",
-   "lang": "en",
-   "hl": "Historic 'Madhavnar Leela' Play to be Performed After 76 Years During Kartik Dance",
-   "en": "Historic 'Madhavnar Leela' Play to be Performed After 76 Years During Kartik Dance",
-   "ne": "Historic 'Madhavnar Leela' Play to be Performed After 76 Years During Kartik Dance",
-   "imp": 2,
-   "tags": [
-    "MadhavnarLeela",
-    "KartikDance",
-    "Patan",
-    "Culture"
-   ],
-   "cat": "culture",
-   "val": 3,
-   "teaser": false,
    "hits": 1
   },
   {
@@ -1958,7 +1935,7 @@
    "cat": "tech",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Nepal Pledges to Implement LIAF-AR Facility for Climate Change Adaptation",
@@ -5036,7 +5013,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1794420657,
+ "updated": 1794421275,
  "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
