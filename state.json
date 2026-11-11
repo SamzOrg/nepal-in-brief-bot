@@ -1,9 +1,5 @@
 {
  "seen": {
-  "https://nagariknews.nagariknetwork.com/politics/president-poudel-performs-cow-worship-79-43.html": 1794206450.7469249,
-  "https://gorkhapatraonline.com/news/228747": 1794206450.7469249,
-  "http://english.ratopati.com/story/86108/a-quarter-of-a-million-rupees-was-earned-in-three-months": 1794207048.6668134,
-  "http://english.ratopati.com/story/86107/what-impact-will-the-audio-of-18-crores-have-on-the-ongoing-case": 1794207048.6668134,
   "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMklLbHhyd0Y0UzliTGs2UnNnOEhDNG80cC0zcmZQeS10RDktQnNzRnRmX3dkXzFsOHJtRnRQZTNwSjVESjR5MHJ0MlpiX0o4WnZfVWJ4TUUyZm11V0hxaUNtRDBsU09VZEV6TFZsLVN2STFkYmNlVkJQX0U2SC1FaF9vejN5ZUhIMUE?oc=5": 1794207680.6431468,
   "https://nagariknews.nagariknetwork.com/social-affairs/elderly-man-dies-after-being-hit-by-bus-br-81-91.html": 1794207680.6431468,
   "https://english.onlinekhabar.com/ordinances-presidents-office.html": 1794207680.6431468,
@@ -1153,7 +1149,21 @@
   "https://theannapurnaexpress.com/story/68666": 1794376884.8633382,
   "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZUVEMXRuRzVXbE4wanczbnRwRUJJOHo0QThsak1lRE84S2dhUVRZRG1VV2M1eWxMQkFRaGdjQ2FNVThJTlZyVVVMamF1a3c3Y1NLNFhialdlZEVDQXV5S1FVVmQwaFpzMS0ybFp5SmR4R1oxX3RJdzkwX0QtTDUyMHNhcjU3SWYzOF9xY1Y1Rm9FMFI3SnpFdkZ4NzA5RW1yNWxiZ2gxZXc4UQ?oc=5": 1794377453.4461694,
   "http://english.ratopati.com/story/86271/the-main-basis-for-convicting-naresh-bhatt-from-blood-dna-forensic-evidence-to-internet-searches": 1794378053.2167566,
-  "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSW5VbzVyaXJHZTJ0OFZGeUVhdTNycnk4R1hzbHJ1a3dKR1JybWR2SnhmNU9rZ0FLdGFvWjdhNW43T01LRFVYLXJaVnZJX0kweVV2OW5IVUVxbVd0aEE0TEEtWWRpU0czUnpYT0JTN2xXTFNRNEZSUVFYN0tGdmtWSjBjdXZaQU9DMURLaUZocDF5Y1dfZV9Ua0tsNmg4aVpDSEh0bGpuaERjNkZPZ2dZ?oc=5": 1794378670.054659
+  "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSW5VbzVyaXJHZTJ0OFZGeUVhdTNycnk4R1hzbHJ1a3dKR1JybWR2SnhmNU9rZ0FLdGFvWjdhNW43T01LRFVYLXJaVnZJX0kweVV2OW5IVUVxbVd0aEE0TEEtWWRpU0czUnpYT0JTN2xXTFNRNEZSUVFYN0tGdmtWSjBjdXZaQU9DMURLaUZocDF5Y1dfZV9Ua0tsNmg4aVpDSEh0bGpuaERjNkZPZ2dZ?oc=5": 1794378670.054659,
+  "https://gorkhapatraonline.com/news/228849": 1794379850.3116171,
+  "https://www.ujyaaloonline.com/detail/133384": 1794379850.3116171,
+  "https://theannapurnaexpress.com/story/68670": 1794379850.3116171,
+  "https://baahrakhari.com/detail/507082": 1794379850.3116171,
+  "https://www.ujyaaloonline.com/detail/133385": 1794379850.3116171,
+  "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQk5qMU1kWTZrYlF2azRPUTlvaUM0bmY2ck1yTGRGUEZMRHcxQmNyUmtmU2Q5cTRXRFVCWWM5ZEdRSjFtNkRqdmhHc2txZ1JPQVJrSXlFM3U2dkUxaTI5Zk8tbEx0TnlrdzNRWFl3VXN6NlJ1Vjc3Y3o3a1E3Z3dZMlgzVk5wOWd0aWJvTjYzNXpMaFZjaFdhcU8tV20xMXdiWVgwMUIyLTVrcFM5NERkYl9IdWxjSmJYcW5pdWoySk4wVkQ3VTVIMTljVlBLcWhpT0E?oc=5": 1794379850.3116171,
+  "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVUoydUJjTHZweHExMzhkcnFsQWVrU3hIeDIyNDdLOWlrbVVqd3MzMDR5eTJVS2F5N2FOVnBXajVqYnlMWHpXU2VjM1NtMnh0WTdwWnE3Wm1USjhfTjB0R2psWmpodWhnLTdTeTRQQXZaangxQzNRRGNKSDZ1OExSTFlvQUIwOU4wZS1uNkJUZFVESVNFUVI5cldMT0RlYTBEMl85N3BBaktrOTNOWGVhSW5qd010Y3Vkc1BReTktWkRTZmt1bzlQVGF0cDZrZw?oc=5": 1794379850.3116171,
+  "https://nagariknews.nagariknetwork.com/international/trump-s-defamation-lawsuit-against-bbc-to-move-forward-20-59.html": 1794379850.3116171,
+  "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcUlFMVlCeHY4S3h1YThaWmhocVozdmFuYWxkZzZKOHVscHV0SmZPNUh3LTZXMjJFd2k1ZWhqS0stWnhMS0pkZ20xVHFtYVg1bnBRUExpalFsdXRlSDRJTWVlcVlyUWtiYWFBeXNNcVFOVUpOMG0xaXhXN2VteXFvRVRCNjFLcUE3NGJHYVpR0gGTAUFVX3lxTE5oVWRWbWFwekJGQ3dIVUhqeUowQU5xV1g5NjBxa3lnY25WcmgtZjJKcmlFdEtOWXcyMVpoaHRnaUR5dkgxRnRQUjNKNWRhVnU5RjJFd2tRLVpQQllDMTFEWXR6RVhDYWNKMDluZVBoZ1BTdk96NWJON3Q2UG56bW01NHRMVFpSYlo1cEMzSU4ySkRwYw?oc=5": 1794379850.3116171,
+  "https://kathmandupost.com/world/2026/11/11/nvidia-faces-deepening-scrutiny-over-china-chip-ties-ceo-affair": 1794379850.3116171,
+  "https://www.ujyaaloonline.com/detail/133383": 1794379850.3116171,
+  "https://nagariknews.nagariknetwork.com/international/violence-erupts-across-bangladesh-as-supporters-take-to-streets-demanding-hasina-s-return-83-63.html": 1794379850.3116171,
+  "https://kathmandupost.com/province-no-1/2026/11/11/koshi-recognises-13-additional-languages-for-official-use": 1794379850.3116171,
+  "https://kathmandupost.com/national/2026/11/11/palpa-s-dhaka-cloth-weaves-its-way-from-festive-gifts-to-tourist-keepsakes": 1794379850.3116171
  },
  "queue": [
   {
@@ -1292,7 +1302,7 @@
    "cat": "culture",
    "val": 2,
    "teaser": false,
-   "hits": 3
+   "hits": 4
   },
   {
    "title": "दाजुभाइ-दिदीबहिनीले हाम्रो खुसी र मानसिक स्वास्थ्यमा कति फरक पार्छन्?",
@@ -1452,7 +1462,7 @@
    "cat": "world",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "US Army Soldier Arrested in UK on Suspicion of Spying for Russia",
@@ -1675,29 +1685,6 @@
    "tags": [
     "Sudan",
     "DroneStrike"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "Pakistan blames India's Diwali fireworks for Lahore's toxic air",
-   "summary": "Pakistan says winds carried pollution from Diwali fireworks in India into Lahore, pushing the city's air quality index to 263 and making it the world's most polluted major city for a second consecutive day.",
-   "link": "https://kathmandupost.com/world/2026/11/11/pakistan-blames-india-s-diwali-fireworks-for-lahore-s-toxic-air",
-   "source": "Kathmandu Post",
-   "ts": 1794350448.5527916,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Pakistan blames India's Diwali fireworks for Lahore's toxic air",
-   "en": "Pakistan blames India's Diwali fireworks for Lahore's toxic air",
-   "ne": "Pakistan blames India's Diwali fireworks for Lahore's toxic air",
-   "imp": 1,
-   "tags": [
-    "Pakistan",
-    "India",
-    "LahoreAirPollution"
    ],
    "cat": "world",
    "val": 3,
@@ -2294,6 +2281,143 @@
     "Politics"
    ],
    "cat": "world",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "राष्ट्रपति पौडेलद्वारा भाइटीका ग्रहण",
+   "summary": "",
+   "link": "https://baahrakhari.com/detail/507082",
+   "source": "Baahrakhari",
+   "ts": 1794379827,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "राष्ट्रपति पौडेलद्वारा भाइटीका ग्रहण",
+   "en": "राष्ट्रपति पौडेलद्वारा भाइटीका ग्रहण",
+   "ne": "राष्ट्रपति पौडेलद्वारा भाइटीका ग्रहण",
+   "imp": 2,
+   "tags": [
+    "RamchandraPoudel",
+    "BhaiTika",
+    "राष्ट्रपति"
+   ],
+   "cat": "culture",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "मौरीले टोकेर वीरबहादुर ज्यान गयो",
+   "summary": "",
+   "link": "https://www.ujyaaloonline.com/detail/133385",
+   "source": "Ujyaalo",
+   "ts": 1794379715,
+   "weight": 2,
+   "img": "https://www.ujyaaloonline.com/uploads/posts/bee_36JTy00RSg.jpg",
+   "lang": "ne",
+   "hl": "मौरीले टोकेर वीरबहादुर ज्यान गयो",
+   "en": "मौरीले टोकेर वीरबहादुर ज्यान गयो",
+   "ne": "मौरीले टोकेर वीरबहादुर ज्यान गयो",
+   "imp": 2,
+   "tags": [
+    "BeeAttack",
+    "वीरबहादुर"
+   ],
+   "cat": "society",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Thali For Son-In-Law, King Of Yoghurt, Jhol Momo: Discovering Authentic Nepalese Food In Gurugram",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVUoydUJjTHZweHExMzhkcnFsQWVrU3hIeDIyNDdLOWlrbVVqd3MzMDR5eTJVS2F5N2FOVnBXajVqYnlMWHpXU2VjM1NtMnh0WTdwWnE3Wm1USjhfTjB0R2psWmpodWhnLTdTeTRQQXZaangxQzNRRGNKSDZ1OExSTFlvQUIwOU4wZS1uNkJUZFVESVNFUVI5cldMT0RlYTBEMl85N3BBaktrOTNOWGVhSW5qd010Y3Vkc1BReTktWkRTZmt1bzlQVGF0cDZrZw?oc=5",
+   "source": "NDTV Food",
+   "ts": 1794378702,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "Thali For Son-In-Law, King Of Yoghurt, Jhol Momo: Discovering Authentic Nepalese Food In Gurugram",
+   "en": "Thali For Son-In-Law, King Of Yoghurt, Jhol Momo: Discovering Authentic Nepalese Food In Gurugram",
+   "ne": "Thali For Son-In-Law, King Of Yoghurt, Jhol Momo: Discovering Authentic Nepalese Food In Gurugram",
+   "imp": 1,
+   "tags": [
+    "NepaliFood",
+    "Gurugram",
+    "Momo"
+   ],
+   "cat": "culture",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "ट्रम्पको बीबीसीविरुद्धको मानहानी मुद्दा अघि बढ्ने",
+   "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्पले बेलायती प्रसारण संस्था बीबीसीविरुद्ध दायर गरेको पाँच अर्ब अमेरिकी डलरको मानहानिसम्बन्धी मुद्दा अघि बढ्ने भएको छ ।...",
+   "link": "https://nagariknews.nagariknetwork.com/international/trump-s-defamation-lawsuit-against-bbc-to-move-forward-20-59.html",
+   "source": "Nagarik News",
+   "ts": 1794376322,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2025/third-party/1790137091_Trump%20Claim%20(1).jpg",
+   "lang": "ne",
+   "hl": "ट्रम्पको बीबीसीविरुद्धको मानहानी मुद्दा अघि बढ्ने",
+   "en": "ट्रम्पको बीबीसीविरुद्धको मानहानी मुद्दा अघि बढ्ने",
+   "ne": "ट्रम्पको बीबीसीविरुद्धको मानहानी मुद्दा अघि बढ्ने",
+   "imp": 1,
+   "tags": [
+    "DonaldTrump",
+    "BBC",
+    "Lawsuit"
+   ],
+   "cat": "world",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Nvidia faces deepening scrutiny over China chip ties, CEO affair",
+   "summary": "Allegations linking Huang to a suspected Chinese spy have triggered a board investigation and renewed scrutiny of Nvidia's chip shipments to China.",
+   "link": "https://kathmandupost.com/world/2026/11/11/nvidia-faces-deepening-scrutiny-over-china-chip-ties-ceo-affair",
+   "source": "Kathmandu Post",
+   "ts": 1794365451.259333,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "Nvidia faces deepening scrutiny over China chip ties, CEO affair",
+   "en": "Nvidia faces deepening scrutiny over China chip ties, CEO affair",
+   "ne": "Nvidia faces deepening scrutiny over China chip ties, CEO affair",
+   "imp": 1,
+   "tags": [
+    "Nvidia",
+    "China",
+    "TechPolicy"
+   ],
+   "cat": "tech",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Palpa's Dhaka cloth weaves its way from festive gifts to tourist keepsakes",
+   "summary": "Growing demand for Dhaka products as gifts for brothers and relatives during Tihar is helping sustain a traditional craft that embodies Nepal's cultural identity, even as local production and employment decline.",
+   "link": "https://kathmandupost.com/national/2026/11/11/palpa-s-dhaka-cloth-weaves-its-way-from-festive-gifts-to-tourist-keepsakes",
+   "source": "Kathmandu Post",
+   "ts": 1794365451.259333,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "Palpa's Dhaka cloth weaves its way from festive gifts to tourist keepsakes",
+   "en": "Palpa's Dhaka cloth weaves its way from festive gifts to tourist keepsakes",
+   "ne": "Palpa's Dhaka cloth weaves its way from festive gifts to tourist keepsakes",
+   "imp": 2,
+   "tags": [
+    "Palpa",
+    "DhakaCloth",
+    "Handloom"
+   ],
+   "cat": "culture",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -5326,8 +5450,8 @@
    "cat": "disaster"
   }
  ],
- "updated": 1794379250,
- "pending_since": 1794377453.4461694,
+ "updated": 1794379862,
+ "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
