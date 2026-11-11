@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTTNhc2xZbTZJMEZJeDRZZndXb2J5alNlemJGckVNbHBSVmoxYkRJc2tpTkVfUXJ4MGE3NlJWbE1EUmI1REh4YlhfMTNJXzVjcGRYc3VSMml1RUVEWlpiQXhiTmJCQVVKOU01bE1IeERrWXpCVEJXUlhBY0ZPTzI1SldFQ195eV9oMVFFZmRn?oc=5": 1794197452.5359316,
-  "https://baahrakhari.com/detail/506936": 1794198047.495142,
   "https://www.setopati.com/social/402321": 1794198672.3641596,
   "https://news.google.com/rss/articles/CBMipAFBVV95cUxNd0hVYXlzUTg5cXlTRHhtZzlDZUxyeWhWaGNMOHlwRmRZbnFDQkZHSGNJZjZqSXBpY0xiQTd3UXN3MTQxRGk3TmJiWV9QSUtxcHZCdVZPcXgtb0ItSnJoSTBGMmxLazM4c0hsVTZTWHBid2lFN1h2Z0dkTjFwYldLRlBiaGFOUkQxTUVaWF8xcjA0LXp4WjJnSlR4SmNNb0NDeG5ndw?oc=5": 1794198672.3641596,
   "https://english.khabarhub.com/2026/09/574992/": 1794199249.3667443,
@@ -1180,7 +1178,10 @@
   "https://gorkhapatraonline.com/news/228841": 1794369679.012293,
   "https://gorkhapatraonline.com/news/228840": 1794369679.012293,
   "https://gorkhapatraonline.com/news/228844": 1794370249.8488197,
-  "https://nagariknews.nagariknetwork.com/politics/language-bill-being-implemented-in-koshi-99-80.html": 1794370249.8488197
+  "https://nagariknews.nagariknetwork.com/politics/language-bill-being-implemented-in-koshi-99-80.html": 1794370249.8488197,
+  "https://www.setopati.com/art/bollywood/402393": 1794370853.422221,
+  "https://theannapurnaexpress.com/story/68661": 1794370853.422221,
+  "https://theannapurnaexpress.com/story/68660": 1794370853.422221
  },
  "queue": [
   {
@@ -1570,7 +1571,7 @@
    "cat": "culture",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Police Seize 52 Modified Motorcycles for Loud Noise in Kathmandu",
@@ -1684,7 +1685,7 @@
    "cat": "disaster",
    "val": 3,
    "teaser": false,
-   "hits": 3
+   "hits": 4
   },
   {
    "title": "Vinayraj Pandey: Five Decades of Experience in Nepali Cricket",
@@ -1707,30 +1708,6 @@
    "val": 2,
    "teaser": false,
    "hits": 2
-  },
-  {
-   "title": "भाइटीकाको दिन आज काठमाण्डौ र भक्तपुरमा सशस्त्र प्रहरीको निःशुल्क बस सेवा",
-   "summary": "",
-   "link": "https://www.ujyaaloonline.com/detail/133375",
-   "source": "Ujyaalo",
-   "ts": 1794363533,
-   "weight": 2,
-   "img": "https://www.ujyaaloonline.com/uploads/posts/photo-1794363504.jpg",
-   "lang": "ne",
-   "hl": "भाइटीकाको दिन आज काठमाण्डौ र भक्तपुरमा सशस्त्र प्रहरीको निःशुल्क बस सेवा",
-   "en": "भाइटीकाको दिन आज काठमाण्डौ र भक्तपुरमा सशस्त्र प्रहरीको निःशुल्क बस सेवा",
-   "ne": "भाइटीकाको दिन आज काठमाण्डौ र भक्तपुरमा सशस्त्र प्रहरीको निःशुल्क बस सेवा",
-   "imp": 3,
-   "tags": [
-    "BhaiTika",
-    "Kathmandu",
-    "Bhaktapur",
-    "सशस्त्रप्रहरी"
-   ],
-   "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
   },
   {
    "title": "9 displaced people kil*led in drone strike on SE Sudan",
@@ -1934,29 +1911,6 @@
    "val": 1,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "'सरकारी कामकाजको भाषा सम्बन्धमा व्यवस्था गर्न बनेको ऐन कार्यान्वयनमा'",
-   "summary": "विराटनगर, कात्तिक २५ गते । कोशी प्रदेशका मुख्यमन्त्री हिक्मतकुमार कार्कीले कोशी प्रदेश सरकारले प्रदेशको बहुजातीय, बहुभाषिक र बहुसांस्कृतिक पहिचानलाई सम्मान गर्दै आजदेखि प्रत्येक वर...",
-   "link": "https://gorkhapatraonline.com/news/228843",
-   "source": "Gorkhapatra",
-   "ts": 1794369524,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/391166/conversions/koshiprades-original.jpg",
-   "lang": "ne",
-   "hl": "'सरकारी कामकाजको भाषा सम्बन्धमा व्यवस्था गर्न बनेको ऐन कार्यान्वयनमा'",
-   "en": "'सरकारी कामकाजको भाषा सम्बन्धमा व्यवस्था गर्न बनेको ऐन कार्यान्वयनमा'",
-   "ne": "'सरकारी कामकाजको भाषा सम्बन्धमा व्यवस्था गर्न बनेको ऐन कार्यान्वयनमा'",
-   "imp": 3,
-   "tags": [
-    "GovernmentLanguage",
-    "Act",
-    "NepaliLanguage"
-   ],
-   "cat": "politics",
-   "val": 2,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "भाउ बढेपछि भाइमसलाको अपेक्षित व्यापार हुन नसकेको व्यवसायीको गुनासो",
@@ -5110,9 +5064,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "economy"
+  },
+  {
+   "ts": 1794370864.8872147,
+   "en": "कोशी प्रदेशका मुख्यमन्त्री हिक्मतकुमार कार्कीले कात्तिक २५ गतेदेखि भाषा दिवस मनाउने र सरकारी कामकाजको भाषा ऐन कार्यान्वयन घोषणा",
+   "ne": "कोशी प्रदेशका मुख्यमन्त्री हिक्मतकुमार कार्कीले कात्तिक २५ गतेदेखि भाषा दिवस मनाउने र सरकारी कामकाजको भाषा ऐन कार्यान्वयन घोषणा",
+   "link": "https://gorkhapatraonline.com/news/228843",
+   "source": "Gorkhapatra",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "politics"
   }
  ],
- "updated": 1794370252,
+ "updated": 1794370875,
  "pending_since": 1794370249.8488197,
  "fb_blocks": [
   1790350880.4125228,
