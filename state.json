@@ -1,8 +1,5 @@
 {
  "seen": {
-  "https://baahrakhari.com/detail/506997": 1794232883.6390762,
-  "https://risingnepaldaily.com/news/88532": 1794232883.6390762,
-  "https://nagariknews.nagariknetwork.com/social-affairs/jeep-carrying-patient-crashes-in-dailekh-death-toll-reaches-two-including-driver-71-15.html": 1794232883.6390762,
   "https://english.khabarhub.com/2026/09/575075/": 1794234052.0184457,
   "http://english.ratopati.com/story/86161/have-workers-salaries-increased-new-procedures-confuse-both-businessmen-and-unions": 1794234052.0184457,
   "http://english.ratopati.com/story/86163/chitwan-loses-third-wicket-needs-74-runs-off-41-balls-to-win": 1794234670.6082034,
@@ -977,7 +974,8 @@
   "https://www.setopati.com/opinion/402403": 1794403867.8040679,
   "https://nagariknews.nagariknetwork.com/international/female-soldiers-unsafe-within-german-army-38-percent-experienced-sexual-abuse-12-78.html": 1794403867.8040679,
   "https://news.google.com/rss/articles/CBMif0FVX3lxTE0xM29zMnBVaDhDZkl6aEtWQ1RoNG9GeFVWcU1FWGNqVUV5Q0lNN0Q2NTk4dmZ4R2xHOVVoQXd2ZHNQUnR6ZDU4clFudzdPRjJpdDU1NWd4MXhlcWRsc3ZiQjl5dUh6N0RPUUpRVklTT09OdzNvd2c3c0o0WUFENk0?oc=5": 1794403867.8040679,
-  "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9WUkhzMkphU1Z4cmNvY1dvTWc1RkJpdmdnYnpUYkZTREJmc1J0UUFNYmRDZmQxYUlaR0JSY0RIVkZnd0VJU21ZVElPVV9JMjRNcUxJMWwyc21fLUE2YUU2LURR?oc=5": 1794404452.6727252
+  "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9WUkhzMkphU1Z4cmNvY1dvTWc1RkJpdmdnYnpUYkZTREJmc1J0UUFNYmRDZmQxYUlaR0JSY0RIVkZnd0VJU21ZVElPVV9JMjRNcUxJMWwyc21fLUE2YUU2LURR?oc=5": 1794404452.6727252,
+  "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSzk1bnlfU2h1TVltM0xyeV8waGxYa2RiMnBRVEpKWFM1LVpnQTlPMGcwNGFHYVNOR3VOVEQwSHh2WUsxX1BpaWpMUjNtNGNuczBfUmdEdWR1YWR5M2NNVml5UmJ4YlNhZkhHS0xJVXBQeWd0Z0pTSjVGS2tDWnFpRG1nMUdOUTE0S3puOUlWd25IcF9fT2FTaEtsRk1tbFVDOHRRYjJ3Z0M0TDZXYW0yYlVMcFk1RFJoSmJV?oc=5": 1794406250.036191
  },
  "queue": [
   {
@@ -1205,50 +1203,6 @@
    ],
    "cat": "education",
    "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "३५ वर्षको दोष कि आजको जवाफदेहिता ?&nbsp;",
-   "summary": "कुनै दल वा सरकारको पक्षविपक्षमा सीमित हुनुहुँदैन। यो नेपाली नागरिकको क्रयशक्ति, जीवनस्तर,आर्थिक अवसर र राज्यप्रतिको उत्तरदायित्वसँग जोडिएको विषय हो।...",
-   "link": "https://nagariknews.nagariknetwork.com/economy/35-years-of-guilt-or-today-s-accountability-85-61.html",
-   "source": "Nagarik News",
-   "ts": 1794377121,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1794377100_vansa%20mahagiyo%20kin.png",
-   "lang": "ne",
-   "hl": "३५ वर्षको दोष कि आजको जवाफदेहिता ?&nbsp;",
-   "en": "३५ वर्षको दोष कि आजको जवाफदेहिता ?&nbsp;",
-   "ne": "३५ वर्षको दोष कि आजको जवाफदेहिता ?&nbsp;",
-   "imp": 2,
-   "tags": [
-    "Accountability"
-   ],
-   "cat": "politics",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "मधेसमा छठ पर्वको रौनक सुरु",
-   "summary": "मधेसमा लोकआस्था, श्रद्धा र निष्ठाको महापर्व छठको तयारी बिहानैदेखि सुरु भएको छ ।",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/the-excitement-of-chhath-festival-begins-in-madhesh-52-28.html",
-   "source": "Nagarik News",
-   "ts": 1794376882,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1794376870_AS_Dhanusha_RSS_25_gobardhanpuja(3).jpg",
-   "lang": "ne",
-   "hl": "मधेसमा छठ पर्वको रौनक सुरु",
-   "en": "मधेसमा छठ पर्वको रौनक सुरु",
-   "ne": "मधेसमा छठ पर्वको रौनक सुरु",
-   "imp": 2,
-   "tags": [
-    "ChhathFestival",
-    "Madhesh",
-    "छठपर्व"
-   ],
-   "cat": "culture",
-   "val": 2,
    "teaser": false,
    "hits": 1
   },
@@ -2099,29 +2053,6 @@
    "hits": 1
   },
   {
-   "title": "Eisenkot unveils agenda to reverse Netanyahu's policies as Israel's new parliament is sworn in",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORGktRTBaOHJCNkhIbUt6Ui11OFFKcHZoMFpyUm1kb0ZoLWJtMWk0VDBvdC0wRXVQTVFQaF9SSkc1UF96YUEwRzVlbGV6UC1ZUG95TFRxVEUtUHR6UTVvUk5ZQzF2VUQ5b1dNOGRSWWV0WjBBQV9HaFB2UUlybk5SeHdLWVBYbmNnTVd1M0EzZ1hfVmtFbHFVUXJDZTFVeHhwdGZQTkRJMFhWVFlaYnI0TENYaXBZOFRWUFVMXzBFUmxrVmU4N3ZmSzNB?oc=5",
-   "source": "myRepublica",
-   "ts": 1794384900,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Eisenkot unveils agenda to reverse Netanyahu's policies as Israel's new parliament is sworn in",
-   "en": "Eisenkot unveils agenda to reverse Netanyahu's policies as Israel's new parliament is sworn in",
-   "ne": "Eisenkot unveils agenda to reverse Netanyahu's policies as Israel's new parliament is sworn in",
-   "imp": 3,
-   "tags": [
-    "Eisenkot",
-    "Netanyahu",
-    "Israel"
-   ],
-   "cat": "world",
-   "val": 2,
-   "teaser": true,
-   "hits": 1
-  },
-  {
    "title": "दक्षिण कोरियामा रोजगारी बढ्दा पनि युवाले किन अवसर पाइरहेका छैनन् ?",
    "summary": "जुलाईदेखि लगातार चार महिनासम्म रोजगारी वृद्धि एक लाखभन्दा माथि रहेको हो। यसले समग्र श्रम बजारमा सुधार देखिए पनि त्यसको लाभ सबै उमेर समूहमा समान रूपमा पुग्न नसकेको देखाउँछ।...",
    "link": "https://nagariknews.nagariknetwork.com/international/why-are-young-people-not-getting-opportunities-despite-the-increase-in-employment-in-south-korea-95-39.html",
@@ -2463,6 +2394,29 @@
    ],
    "cat": "other",
    "val": 1,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Humanitarian charity boss reflects on human tragedy after visit to flood-stricken Nepal",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSzk1bnlfU2h1TVltM0xyeV8waGxYa2RiMnBRVEpKWFM1LVpnQTlPMGcwNGFHYVNOR3VOVEQwSHh2WUsxX1BpaWpMUjNtNGNuczBfUmdEdWR1YWR5M2NNVml5UmJ4YlNhZkhHS0xJVXBQeWd0Z0pTSjVGS2tDWnFpRG1nMUdOUTE0S3puOUlWd25IcF9fT2FTaEtsRk1tbFVDOHRRYjJ3Z0M0TDZXYW0yYlVMcFk1RFJoSmJV?oc=5",
+   "source": "Charity Today News",
+   "ts": 1794405601,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "Humanitarian charity boss reflects on human tragedy after visit to flood-stricken Nepal",
+   "en": "Humanitarian charity boss reflects on human tragedy after visit to flood-stricken Nepal",
+   "ne": "Humanitarian charity boss reflects on human tragedy after visit to flood-stricken Nepal",
+   "imp": 3,
+   "tags": [
+    "Nepal",
+    "Flood",
+    "Humanitarian"
+   ],
+   "cat": "disaster",
+   "val": 2,
    "teaser": false,
    "hits": 1
   }
@@ -5470,9 +5424,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "health"
+  },
+  {
+   "ts": 1794406277.8064663,
+   "en": "Gadi Eisenkot pledges to reverse Netanyahu's policies as Israel's new parliament is sworn in",
+   "ne": "Gadi Eisenkot pledges to reverse Netanyahu's policies as Israel's new parliament is sworn in",
+   "link": "https://myrepublica.nagariknetwork.com/news/eisenkot-unveils-agenda-to-reverse-netanyahus-policies-as-israels-new-parli-95-73.html",
+   "source": "myRepublica",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "world"
   }
  ],
- "updated": 1794405692,
+ "updated": 1794406288,
  "pending_since": 1794405051.922937,
  "fb_blocks": [
   1790350880.4125228,
