@@ -951,30 +951,6 @@
  },
  "queue": [
   {
-   "title": "US Treasury Secretary Scott Bessent Relocates Due to Death Threat from Iran",
-   "summary": "Kathmandu. After receiving a death threat from Iran, US Treasury Secretary Scott Bessent has prioritized his security and moved from...",
-   "link": "http://english.ratopati.com/story/86282/us-treasury-secretary-targeted-by-iran-takes-refuge-in-military-base-for-safety",
-   "source": "Ratopati EN",
-   "ts": 1794395248,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/iran-flag_TkC5X0MaQr.webp",
-   "lang": "en",
-   "hl": "US Treasury Secretary Scott Bessent Relocates Due to Death Threat from Iran",
-   "en": "US Treasury Secretary Scott Bessent Relocates Due to Death Threat from Iran",
-   "ne": "US Treasury Secretary Scott Bessent Relocates Due to Death Threat from Iran",
-   "imp": 1,
-   "tags": [
-    "USTreasury",
-    "ScottBessent",
-    "Iran",
-    "अमेरिका"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
    "title": "Rastriya Swatantra Party President Criticizes Focus on Mayor Positions",
    "summary": "Kathmandu. Last Friday, Rastriya Swatantra Party (RSP) Chairman Rabi Lamichhane expressed strong dissatisfaction with the fact that everyone's attention was...",
    "link": "http://english.ratopati.com/story/86280/candidate-club-in-rsp-attraction-in-key-positions-no-enthusiasm-in-other-positions",
@@ -1018,29 +994,6 @@
    "val": 3,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "Singapore Expands Robot Use in Daily Life",
-   "summary": "Kathmandu. Singapore has begun to make automated technology a part of daily life by expanding the use of robots in...",
-   "link": "http://english.ratopati.com/story/86281/singapore-sees-increasing-use-of-robots",
-   "source": "Ratopati EN",
-   "ts": 1794394897,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/robot4_hOA13HT8MQ.jpg",
-   "lang": "en",
-   "hl": "Singapore Expands Robot Use in Daily Life",
-   "en": "Singapore Expands Robot Use in Daily Life",
-   "ne": "Singapore Expands Robot Use in Daily Life",
-   "imp": 1,
-   "tags": [
-    "Singapore",
-    "Robots",
-    "Technology"
-   ],
-   "cat": "tech",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "सर्वोच्च सगरमाथाको काखमा रहेको गाउँ भयो हिउँले सेताम्य",
@@ -1686,30 +1639,6 @@
    "val": 3,
    "teaser": false,
    "hits": 2
-  },
-  {
-   "title": "UN Climate Chief to world leaders in Antalya: \"The political costs of fossil fuel dependency are unforgiving\"",
-   "summary": "Addressing world leaders at the opening of the Leaders' Summit in Antalya, UN Climate Change Executive Secretary Simon Stiell made the case that a clean energy revolution has taken hold. Addressing world leaders at the...",
-   "link": "https://theannapurnaexpress.com/story/68680",
-   "source": "Annapurna Express",
-   "ts": 1794394886.7346227,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "UN Climate Chief to world leaders in Antalya: \"The political costs of fossil fuel dependency are unforgiving\"",
-   "en": "UN Climate Chief to world leaders in Antalya: \"The political costs of fossil fuel dependency are unforgiving\"",
-   "ne": "UN Climate Chief to world leaders in Antalya: \"The political costs of fossil fuel dependency are unforgiving\"",
-   "imp": 2,
-   "tags": [
-    "UNClimateChief",
-    "Antalya",
-    "COP31",
-    "FossilFuels"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
   },
   {
    "title": "'किसान तीन महिना मात्रै काम गर्छन्, बाँकी नौ महिना गाँजा पिएर जय भोले भन्छन्'",
@@ -4964,7 +4893,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1794423688,
+ "updated": 1794424258,
  "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
