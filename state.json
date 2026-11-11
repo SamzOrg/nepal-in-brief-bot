@@ -1,13 +1,5 @@
 {
  "seen": {
-  "http://english.ratopati.com/story/86151/kathmandus-fourth-wicket-lost-rashid-khans-half-century": 1794228053.6118753,
-  "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZ1hOT09GT0FHcWJCelpDaTdCanVIQlk1VjZuRnUxV2ZQb2hjUUdMQURELXl5cW52Mk13REx1a19IbmpudGhvMDVSMzNzUjNHYUtUYk5PTWstU0ZGWTk5MUhnYnd6RzQ3MEpJTzNvZmpOTUJBdWRGSG9Hb1NCal9UcmMzNjRxLTJOdHZUSTVLMWRidUlrSDlzYmxybkpCQ0lCTU9UOXlwcTJZR0dZWllzWXR0S25hUnZRb1J5eFVMOTdtMzNSZmY4THpYUlBWdw?oc=5": 1794228053.6118753,
-  "http://english.ratopati.com/story/86149/restrictions-on-indian-flowers-nepali-flowers-worth-over-rs-500-million-take-over-the-market": 1794228053.6118753,
-  "https://www.setopati.com/social/402352": 1794228053.6118753,
-  "https://kathmandupost.com/national/2026/11/09/wagle-heads-to-cop31-to-press-nepal-s-climate-agenda": 1794228053.6118753,
-  "https://baahrakhari.com/detail/506992": 1794228053.6118753,
-  "http://english.ratopati.com/story/86153/kathmandu-loses-its-sixth-wicket": 1794228648.18242,
-  "http://english.ratopati.com/story/86152/rashid-khan-out-after-scoring-a-half-century-kathmandu-loses-its-fifth-wicket": 1794228648.18242,
   "https://baahrakhari.com/detail/506994": 1794229284.0187016,
   "http://english.ratopati.com/story/86155/kathmandu-sets-chitwan-a-target-of-181-runs": 1794229284.0187016,
   "https://english.khabarhub.com/2026/09/575056/": 1794229284.0187016,
@@ -1022,7 +1014,10 @@
   "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZEk4SUxpcjE3NG1PZVVWSmVNM3RsLXU0VDFXVzJmUWRwLW9PcVUxY3dhNWcxMW5iNmdpM0xSSWhQcTZRYnNaSWZDMXJpY0R0TGFOaVYyeDg4THA4TVR0Sjl6aTVPaDRhV3lIVGR4ZUR3cjFOcGt6T0NYaV8ySGIxa2hjTktkZ2tkVThnbERmMUZRUEJnd0s0X3paaExGU3hmX3FjRkxUanpRdHoycjhESldyZWFFQU41V093SGs3QkFVamFtUkE?oc=5": 1794400850.359574,
   "http://english.ratopati.com/story/86274/judge-abdul-aziz-muslim-in-whose-courtyard-eid-sevai-and-tihar-sela-roti-are-exchanged": 1794400850.359574,
   "https://www.ujyaaloonline.com/detail/133397": 1794400850.359574,
-  "https://www.ujyaaloonline.com/detail/133396": 1794400850.359574
+  "https://www.ujyaaloonline.com/detail/133396": 1794400850.359574,
+  "http://english.ratopati.com/story/86286/pokhara-sparkles-during-tihar-beauty-added-to-the-lap-of-the-himalayas-photo-feature": 1794401450.8639963,
+  "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaHR0ZGJpbXcxSmc3SFRtVHJyU0hwMUs3QmdRazYwaDhxdFluV05qOU9UN3VvVlBSa3MtbzFQcnpBNGFKZHJMcHdzTUtWQ1BtVTJ6QkhqUnlUY28waWxQaFhydnA3czFOaXU5YndYVHRWYnQtWVNrX2Z0REltWHEyMU9xQzI?oc=5": 1794401450.8639963,
+  "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPeFU2NDdCVkRCRWJ1VDZkRDRLSmhJbjdSSm9keEpMS3pzSVZiclVKdlg4dUVaTDdWTURWNE42ZVk0blk5R1ROd2FGSDYwWi1hRmVBb1kwY1VhbEswYVZibzZoZ2NMWDF3REhDc00zNHY3RmZfVWlGZEJha3lxcFpiM3BHREtPYlpVV0h5bTcwcjRmYXFoT1UwbzVRdXpkSFdLYl9RUGQtYlZMaTRmM2VhX3pLdUUybldJRm9Zc2dYYTlBSUNGcVVBOGJGbDNCQlBoeXdVbFdCTl8?oc=5": 1794401450.8639963
  },
  "queue": [
   {
@@ -2417,7 +2412,7 @@
    "cat": "culture",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 3
   },
   {
    "title": "परराष्ट्रमन्त्री खनाल र फिनल्यान्डका विकासमन्त्री ताभियोबिच भेटवार्ता",
@@ -5563,8 +5558,8 @@
    "cat": "sports"
   }
  ],
- "updated": 1794400877,
- "pending_since": null,
+ "updated": 1794401455,
+ "pending_since": 1794401450.8639963,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
