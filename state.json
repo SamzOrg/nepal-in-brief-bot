@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBIOWhwRzBnX2pLZVlzcGIwWEp4dHBRTFVOT21OVE4xRzVPZE9YS1hEMnV5TWVLMGRXcmF2b3FrWVlzT3U1WHJFaWlsREVjRzhuQnlmOWY3ZkY?oc=5": 1794218485.4683933,
-  "https://english.khabarhub.com/2026/09/575035/": 1794218485.4683933,
   "https://baahrakhari.com/detail/506973": 1794219053.0627458,
   "https://nagariknews.nagariknetwork.com/sports/dharmarayo-karnali-in-the-powerplay-4-wickets-lost-while-scoring-56-runs-in-6-overs-11-62.html": 1794219053.0627458,
   "https://english.khabarhub.com/2026/09/575039/": 1794219053.0627458,
@@ -1077,7 +1075,9 @@
   "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcVRMd1F6MzlqZS1COGhKc3FjYzR1dTlhV2gtdEZ4Y1NScDZaMnI0OG9RLUFSbk9pUFJ3Q240UFluLWRlM2ZWWVlnUVMtcE5XcTFORmZGOWlnWFIyYzl2X0gxMno1VjlLc2dhcWlWWDE1T3RmdjByLTVwVUxzNVBsUnlGeEFQNFd5dTRoWm9SVFcyWGdIbFlqalBKWDVKODhVd2dtUHVCVmF0S3FmWjVzSTM1dzNZR0dp?oc=5": 1794390646.8959806,
   "https://www.setopati.com/social/402396": 1794390646.8959806,
   "http://english.ratopati.com/story/86277/south-koreas-labor-market-improves-but-youth-employment-continues-to-decline": 1794390646.8959806,
-  "https://www.ujyaaloonline.com/detail/133390": 1794390646.8959806
+  "https://www.ujyaaloonline.com/detail/133390": 1794390646.8959806,
+  "https://baahrakhari.com/detail/507087": 1794391849.6093643,
+  "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUkF2ME9UVG5Nc1h0NGFiOHlFTzNiVUVCVExxQjBtUzFDNzJqU3VsQWlvVjQ4QmFmSVA0dHhialI0OGlRNWVrTWlmVnI5RHBVNDdUUnZSWURkelZrakUyemZvblR1WXVsNlRZTVBuQmlHZUhpcnBlMDUxd21IM3M4ZXdEX01pQ1R5QkQ5cG5FQ1hFeVk?oc=5": 1794391849.6093643
  },
  "queue": [
   {
@@ -1559,29 +1559,6 @@
    "hits": 1
   },
   {
-   "title": "China's foreign trade growth picks up pace on stellar imports, booming AI demand",
-   "summary": "China's foreign trade in goods maintained strong growth momentum in the first 10 months of 2026, with imports posting especially robust gains and booming artificial intelligence (AI) demand lifting exports of electronic...",
-   "link": "https://theannapurnaexpress.com/story/68669",
-   "source": "Annapurna Express",
-   "ts": 1794362485.9789653,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "China's foreign trade growth picks up pace on stellar imports, booming AI demand",
-   "en": "China's foreign trade growth picks up pace on stellar imports, booming AI demand",
-   "ne": "China's foreign trade growth picks up pace on stellar imports, booming AI demand",
-   "imp": 1,
-   "tags": [
-    "China",
-    "Trade",
-    "Economy"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "प्रताप मल्लले रानीपोखरी उद्घाटन गर्दाको त्यो भव्य समारोह",
    "summary": "रानीपोखरी बीचमा रहेको बालगोपालेश्वर मन्दिर प्रत्येक वर्ष भाइटीकाको एक दिन मात्र खुल्छ। कान्तिपुरका राजा प्रताप मल्लले निर्माण गराएको यो पोखरीको भव्य उद्घाटन समारोह कलाकार हरिप्रसाद शर्माले आफ्नो चित्रमार्फत् वर्णन गरेका...",
    "link": "https://www.setopati.com/opinion/402391",
@@ -1600,52 +1577,6 @@
     "History"
    ],
    "cat": "culture",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Spain braces for nationwide strike as anger over housing, costs boils over",
-   "summary": "Spain is bracing for a nationwide general strike over soaring rents and the cost of living, as a deepening housing crisis fuels social unrest weeks before a crucial election, Aljazeera reported. The 24-hour walkout due...",
-   "link": "https://theannapurnaexpress.com/story/68668",
-   "source": "Annapurna Express",
-   "ts": 1794362485.9789653,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Spain braces for nationwide strike as anger over housing, costs boils over",
-   "en": "Spain braces for nationwide strike as anger over housing, costs boils over",
-   "ne": "Spain braces for nationwide strike as anger over housing, costs boils over",
-   "imp": 1,
-   "tags": [
-    "Spain",
-    "Strike",
-    "Housing"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Malaysia's Najib moved from prison to house arrest after royal clemency",
-   "summary": "Malaysia's former Prime Minister Najib Razak has been transferred from prison to his home to serve the remainder of his sentence for his role in the 1MDB scandal, one of the largest financial frauds in history,...",
-   "link": "https://theannapurnaexpress.com/story/68667",
-   "source": "Annapurna Express",
-   "ts": 1794362485.9789653,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Malaysia's Najib moved from prison to house arrest after royal clemency",
-   "en": "Malaysia's Najib moved from prison to house arrest after royal clemency",
-   "ne": "Malaysia's Najib moved from prison to house arrest after royal clemency",
-   "imp": 1,
-   "tags": [
-    "Malaysia",
-    "NajibRazak",
-    "Politics"
-   ],
-   "cat": "world",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -2627,17 +2558,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1793786495.93825,
-   "en": "CIAA Files Corruption Case Against NID Chief Hira Babu Bhattarai Over Fake Certificates",
-   "ne": "CIAA Files Corruption Case Against NID Chief Hira Babu Bhattarai Over Fake Certificates",
-   "link": "http://english.ratopati.com/story/85633/corruption-case-against-bhattarai-chief-investigating-officer-of-the-national-investigation-agency",
-   "source": "Ratopati EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "crime"
-  },
   {
    "ts": 1793788280.8716002,
    "en": "SJVN Fast-Tracks Arun-3 and Lower Arun Hydropower Projects in Nepal",
@@ -5640,9 +5560,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "sports"
+  },
+  {
+   "ts": 1794391862.1033938,
+   "en": "Nepal flood recovery costs hit $4.8B after avalanches kill 1,500+",
+   "ne": "Nepal flood recovery costs hit $4.8B after avalanches kill 1,500+",
+   "link": "https://www.csmonitor.com/World/Asia-South-Central/2026/1111/nepal-flood-rebuilding-homes",
+   "source": "The Christian Science Monitor",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "disaster"
   }
  ],
- "updated": 1794391286,
+ "updated": 1794391874,
  "pending_since": 1794391282.603917,
  "fb_blocks": [
   1790350880.4125228,
