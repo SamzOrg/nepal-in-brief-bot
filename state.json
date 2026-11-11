@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://gorkhapatraonline.com/news/228782": 1794240086.1507778,
   "https://english.khabarhub.com/2026/09/575094/": 1794240650.898709,
   "https://nagariknews.nagariknetwork.com/social-affairs/light-rain-and-snowfall-likely-in-hills-and-mountains-until-november-10-37-49.html": 1794240650.898709,
   "https://nagariknews.nagariknetwork.com/economy/nearly-one-billion-worth-of-cardamom-exported-from-kakadbhitta-border-in-a-single-month-94-12.html": 1794240650.898709,
@@ -973,7 +972,9 @@
   "http://english.ratopati.com/story/86289/10-news-at-10-tihar-ends-with-bhai-tika-opportunism-of-rsp-workers": 1794412252.5556939,
   "https://news.google.com/rss/articles/CBMid0FVX3lxTFBPNXpqNDFuOFFKOElsN0gxeHZ2UUdzRkJGWndBdHlYNG9Dd0ZGR2MxZTVteWJRTW5Sc0o0U0lIM25veWtobkx3Rmoyd0FIVWtoVjA3MGNLcmtSQVFYZVpkZ2RwYWlyQkpzVXRmYkdCQnBhLUwtZ1Nn?oc=5": 1794412252.5556939,
   "https://kathmandupost.com/world/2026/11/11/cop31-leaders-try-out-new-sales-pitch-for-climate-action-do-it-for-the-economy": 1794412252.5556939,
-  "https://baahrakhari.com/detail/507097": 1794412252.5556939
+  "https://baahrakhari.com/detail/507097": 1794412252.5556939,
+  "https://nagariknews.nagariknetwork.com/social-affairs/two-injured-in-lightning-strike-at-home-in-khandbari-sankhuwasabha-41-99.html": 1794412886.5829568,
+  "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdU1Qc2N5cS1pdFJlTkhTcmtIQjZkVXp2YmlDLUJBMFdUdE9palJJUTA0OS1SU1U3WUU4aWpGc2hsRjNoTmZkb3VZNEZuTjcyWTBtemxlWkRoUmVNOFJwU1EybmhVcVR6bjJpaWtPbjk2YWlYbmk3TEh4cjJmYkI2aWNtYVNZX1hsclNZeUc1LUc3NmVfRi0ybEgxVDlBejRYMHp6TzdNaXh3MHdPSFlUb0lB?oc=5": 1794412886.5829568
  },
  "queue": [
   {
@@ -2373,7 +2374,7 @@
    "cat": "world",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "UN Climate Chief to world leaders in Antalya: \"The political costs of fossil fuel dependency are unforgiving\"",
@@ -2534,17 +2535,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1793807499.2485588,
-   "en": "NEPSE Index Rises 1.40 Points with Daily Turnover Reaching Rs 7.43 Billion",
-   "ne": "NEPSE Index Rises 1.40 Points with Daily Turnover Reaching Rs 7.43 Billion",
-   "link": "https://myrepublica.nagariknetwork.com/news/nepse-inches-up-140-points-as-daily-turnover-soars-to-rs-743-billion-31-49.html",
-   "source": "myRepublica",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "economy"
-  },
   {
    "ts": 1793809398.8630583,
    "en": "Nepal targets 28,000 MW clean power by 2035 but women remain absent from energy jobs",
@@ -5560,8 +5550,8 @@
    "cat": "health"
   }
  ],
- "updated": 1794412343,
- "pending_since": null,
+ "updated": 1794412890,
+ "pending_since": 1794412886.5829568,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
