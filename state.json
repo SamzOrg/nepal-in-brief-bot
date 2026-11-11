@@ -1,8 +1,5 @@
 {
  "seen": {
-  "https://nagariknews.nagariknetwork.com/politics/finance-minister-wagle-among-100-most-influential-people-in-the-world-19-71.html": 1794238851.1781914,
-  "https://english.khabarhub.com/2026/09/575082/": 1794238851.1781914,
-  "https://kathmandupost.com/cricket/2026/11/09/kathmandu-move-to-top-with-fourth-straight-win-beat-chitwan-by-10-runs": 1794238851.1781914,
   "https://gorkhapatraonline.com/news/228782": 1794240086.1507778,
   "https://english.khabarhub.com/2026/09/575094/": 1794240650.898709,
   "https://nagariknews.nagariknetwork.com/social-affairs/light-rain-and-snowfall-likely-in-hills-and-mountains-until-november-10-37-49.html": 1794240650.898709,
@@ -971,7 +968,12 @@
   "https://nagariknews.nagariknetwork.com/international/farmers-work-for-only-three-months-smoke-marijuana-for-the-remaining-nine-months-and-say-jai-bhole-86-65.html": 1794409285.2746775,
   "https://theannapurnaexpress.com/story/68679": 1794409285.2746775,
   "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBJakNZWk1ic01fMzdZXzBUM2R3TjB3LXpkNFVaeWtjMmlYenAzekNiWlpKS0VXMGVhdWlPUVFwVGNMY3ZrMnphU01UQU1NVzVtMWR1ekdkZDNvNHR4bWJLUk55Z2ZRc0Nw?oc=5": 1794410452.8880122,
-  "http://english.ratopati.com/story/86290/bhai-tika-in-sauraha-with-foreign-tourists-seven-color-tika-for-poojakali-elephant": 1794411073.6875925
+  "http://english.ratopati.com/story/86290/bhai-tika-in-sauraha-with-foreign-tourists-seven-color-tika-for-poojakali-elephant": 1794411073.6875925,
+  "https://baahrakhari.com/detail/507098": 1794412252.5556939,
+  "http://english.ratopati.com/story/86289/10-news-at-10-tihar-ends-with-bhai-tika-opportunism-of-rsp-workers": 1794412252.5556939,
+  "https://news.google.com/rss/articles/CBMid0FVX3lxTFBPNXpqNDFuOFFKOElsN0gxeHZ2UUdzRkJGWndBdHlYNG9Dd0ZGR2MxZTVteWJRTW5Sc0o0U0lIM25veWtobkx3Rmoyd0FIVWtoVjA3MGNLcmtSQVFYZVpkZ2RwYWlyQkpzVXRmYkdCQnBhLUwtZ1Nn?oc=5": 1794412252.5556939,
+  "https://kathmandupost.com/world/2026/11/11/cop31-leaders-try-out-new-sales-pitch-for-climate-action-do-it-for-the-economy": 1794412252.5556939,
+  "https://baahrakhari.com/detail/507097": 1794412252.5556939
  },
  "queue": [
   {
@@ -2419,6 +2421,115 @@
    "cat": "society",
    "val": 2,
    "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "प्रदेशसभा सदस्य खातुनले लिइन् पद तथा गोपनीयताको शपथ",
+   "summary": "",
+   "link": "https://baahrakhari.com/detail/507098",
+   "source": "Baahrakhari",
+   "ts": 1794411506,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "प्रदेशसभा सदस्य खातुनले लिइन् पद तथा गोपनीयताको शपथ",
+   "en": "प्रदेशसभा सदस्य खातुनले लिइन् पद तथा गोपनीयताको शपथ",
+   "ne": "प्रदेशसभा सदस्य खातुनले लिइन् पद तथा गोपनीयताको शपथ",
+   "imp": 2,
+   "tags": [
+    "ProvincialAssembly",
+    "Oath"
+   ],
+   "cat": "politics",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Daily News Briefing: Bhai Tika Celebrated, Banking Evolution, Kartik Dance, Climate Summit, Political Developments, and International News",
+   "summary": "Kathmandu. Today is Wednesday, Kartik 25, 2083, Bhai Tika.We have presented the main events of the day in RatoPati.com's regular...",
+   "link": "http://english.ratopati.com/story/86289/10-news-at-10-tihar-ends-with-bhai-tika-opportunism-of-rsp-workers",
+   "source": "Ratopati EN",
+   "ts": 1794409986,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/ramchandra-raswapa_SaTztEROXF.webp",
+   "lang": "en",
+   "hl": "Daily News Briefing: Bhai Tika Celebrated, Banking Evolution, Kartik Dance, Climate Summit, Political Developments, and International News",
+   "en": "Daily News Briefing: Bhai Tika Celebrated, Banking Evolution, Kartik Dance, Climate Summit, Political Developments, and International News",
+   "ne": "Daily News Briefing: Bhai Tika Celebrated, Banking Evolution, Kartik Dance, Climate Summit, Political Developments, and International News",
+   "imp": 1,
+   "tags": [
+    "DailyBriefing"
+   ],
+   "cat": "other",
+   "val": 1,
+   "teaser": true,
+   "hits": 1
+  },
+  {
+   "title": "Crisis in Nepal Tests the Viability of International Climate Finance",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBPNXpqNDFuOFFKOElsN0gxeHZ2UUdzRkJGWndBdHlYNG9Dd0ZGR2MxZTVteWJRTW5Sc0o0U0lIM25veWtobkx3Rmoyd0FIVWtoVjA3MGNLcmtSQVFYZVpkZ2RwYWlyQkpzVXRmYkdCQnBhLUwtZ1Nn?oc=5",
+   "source": "THE INTERNATIONAL AFFAIRS REVIEW",
+   "ts": 1794409204,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "Crisis in Nepal Tests the Viability of International Climate Finance",
+   "en": "Crisis in Nepal Tests the Viability of International Climate Finance",
+   "ne": "Crisis in Nepal Tests the Viability of International Climate Finance",
+   "imp": 4,
+   "tags": [
+    "ClimateFinance",
+    "InternationalAid"
+   ],
+   "cat": "economy",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "COP31 leaders try out new sales pitch for climate action: do it for the economy",
+   "summary": "Consumer price pressures from fuel to food were a major driver in the US midterm elections that handed control of Congress to Democrats, and are an important vulnerability for leaders across Europe, ⁠Asia and elsewhere.",
+   "link": "https://kathmandupost.com/world/2026/11/11/cop31-leaders-try-out-new-sales-pitch-for-climate-action-do-it-for-the-economy",
+   "source": "Kathmandu Post",
+   "ts": 1794397853.0779412,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "COP31 leaders try out new sales pitch for climate action: do it for the economy",
+   "en": "COP31 leaders try out new sales pitch for climate action: do it for the economy",
+   "ne": "COP31 leaders try out new sales pitch for climate action: do it for the economy",
+   "imp": 3,
+   "tags": [
+    "COP31",
+    "ClimateAction"
+   ],
+   "cat": "politics",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "ठूलो आवाज निकाल्ने ५६ वटा मोटरसाइकल र स्कुटर नियन्त्रणमा",
+   "summary": "",
+   "link": "https://baahrakhari.com/detail/507097",
+   "source": "Baahrakhari",
+   "ts": 1794410054,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "ठूलो आवाज निकाल्ने ५६ वटा मोटरसाइकल र स्कुटर नियन्त्रणमा",
+   "en": "ठूलो आवाज निकाल्ने ५६ वटा मोटरसाइकल र स्कुटर नियन्त्रणमा",
+   "ne": "ठूलो आवाज निकाल्ने ५६ वटा मोटरसाइकल र स्कुटर नियन्त्रणमा",
+   "imp": 2,
+   "tags": [
+    "MotorcycleControl",
+    "Safety"
+   ],
+   "cat": "society",
+   "val": 2,
+   "teaser": true,
    "hits": 1
   }
  ],
@@ -5449,8 +5560,8 @@
    "cat": "health"
   }
  ],
- "updated": 1794411694,
- "pending_since": 1794409851.8834558,
+ "updated": 1794412343,
+ "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
