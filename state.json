@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMifEFVX3lxTE04cmJDYXMwdzMzbXF4T2RhMWtoRElsNHJjNU9reWhhYTRnSzZiR2xGQ0o2UTYtckUwc25rbi05S2lTMWVTYnNVcHFFanRvcGlWMS1iQ1I1dmFZWTJFdzh5eXRwc2p2Z0F5d0Ffdl9aeUNBOVAxSGpDQjdjalY?oc=5": 1794267649.523736,
   "https://www.ujyaaloonline.com/detail/133344": 1794270051.5064225,
   "https://english.khabarhub.com/2026/10/575090/": 1794270666.2132337,
   "https://baahrakhari.com/detail/507007": 1794270666.2132337,
@@ -957,7 +956,8 @@
   "http://english.ratopati.com/story/86293/todays-almanac-and-horoscope-whats-in-store-for-which-zodiac-sign": 1794440447.5229173,
   "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbVNJVjBXTFc4dm1teWxxNlpQaWRTS2htYm1ua0xKSk1aOG8wMlNGR0UwQUNsVm9RWXFPekt3cXhHZlRJN1VfSHBZOWpvSmQyd1Iyb252TExFWktDWG95ZkxLTmd4SG9Sdmd0QTM4TUVmekc4eFNrcG50NXZKVDdwUnZvUkFaQ2s3ZkNubEE2cmhmNmtzOXQtdER6Q2Z6NmM4RUQ1RkcwLVBHem_SAa8BQVVfeXFMTVA0UTRvRGxsTWlmaUlMN2Zpa0tOMXZFdjZUMm9BOEdOQW1uanFNNUo5dm9PQ0RiY3czVjBQWWwwc1J0ZHJIVlZ6X05PTy1NdVFmTHprUUNzd1Jzc19TcDd2b2ZQRlNfSW9YbXZsYXRaY1dBMzNjU1ZfSE5pYTM2QWV0NzhfZ0NWbHJDTXRzVV9xY1lLU3dUYzdocjdlQXkwb2xWWlNTSVQxQl9UT3RQOA?oc=5": 1794440447.5229173,
   "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZExRSkNpZHA5R25GR0h1enBGUzJEMWhLeHdMRVBWZ1pNOFczTXU2LVZTd1BORVotN2xiRGZzNzN3eXRPRHR2cHItQTZFMWdVbHBPSDUxT2l3UzFGNE1FU3lrZDlHdlgtZ0RKeDFWVU1JdDdNdFg0QmNiQXA5UVREOWVLUTBvQU5WejIzRDJtZjdOWk1xQnF2SA?oc=5": 1794440447.5229173,
-  "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZmlGMDNOTFBjNDZITk1URnVDWkJnZ1RfRmRRbzhIbkNPcWdvX2NlcFAySUhSNWZoU2dBaDJIVWtyR1dsVzBIdUJVWGh3Yk9wdlA2aHJVbHV4X01KMjhFbVVMR2Z3QVA1ZFpoWGp3clZFVmxIc29rak85MDhWSGh5VWIxbjU5OGpnT0JfcHFNeEo0Zmt5ZWtEQVlCMk9LY3h0X0xka0UtekdPaGFRczk5UjJKaUh4aFFIVHhN?oc=5": 1794440447.5229173
+  "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZmlGMDNOTFBjNDZITk1URnVDWkJnZ1RfRmRRbzhIbkNPcWdvX2NlcFAySUhSNWZoU2dBaDJIVWtyR1dsVzBIdUJVWGh3Yk9wdlA2aHJVbHV4X01KMjhFbVVMR2Z3QVA1ZFpoWGp3clZFVmxIc29rak85MDhWSGh5VWIxbjU5OGpnT0JfcHFNeEo0Zmt5ZWtEQVlCMk9LY3h0X0xka0UtekdPaGFRczk5UjJKaUh4aFFIVHhN?oc=5": 1794440447.5229173,
+  "http://english.ratopati.com/story/86294/historic-victory-for-the-democratic-party-in-mississippi-black-leader-after-140-years": 1794441050.9626977
  },
  "queue": [
   {
@@ -1142,20 +1142,32 @@
    "val": 1,
    "teaser": true,
    "hits": 1
+  },
+  {
+   "title": "Scott Colom Wins Mississippi Senate Election, Becomes First Black Senator from State",
+   "summary": "Mississippi. In the Senate election held in the American state of Mississippi, Democratic Party's Scott Colom has won. This result...",
+   "link": "http://english.ratopati.com/story/86294/historic-victory-for-the-democratic-party-in-mississippi-black-leader-after-140-years",
+   "source": "Ratopati EN",
+   "ts": 1794440466,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/scott-colom_A8kfQnUsWu.webp",
+   "lang": "en",
+   "hl": "Scott Colom Wins Mississippi Senate Election, Becomes First Black Senator from State",
+   "en": "Scott Colom Wins Mississippi Senate Election, Becomes First Black Senator from State",
+   "ne": "Scott Colom Wins Mississippi Senate Election, Becomes First Black Senator from State",
+   "imp": 1,
+   "tags": [
+    "ScottColom",
+    "Mississippi",
+    "USPolitics"
+   ],
+   "cat": "world",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1793836250.43888,
-   "en": "India Foreign Secretary Vikram Misri Meets Nepal FM in Kathmandu",
-   "ne": "India Foreign Secretary Vikram Misri Meets Nepal FM in Kathmandu",
-   "link": "https://www.dailyexcelsior.com/india-foreign-secy-misri-meets-nepal-foreign-minister-discusses-bilateral-ties/",
-   "source": "Daily Excelsior",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "politics"
-  },
   {
    "ts": 1793838060.5510197,
    "en": "बिर्तामोडमा आगलागीबाट ६ करोड क्षति, पाँच घण्टापछि आगो नियन्त्रण",
@@ -4171,8 +4183,8 @@
    "cat": "culture"
   }
  ],
- "updated": 1794440465,
- "pending_since": null,
+ "updated": 1794441054,
+ "pending_since": 1794441050.9626977,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
