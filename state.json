@@ -1193,7 +1193,10 @@
   "https://nagariknews.nagariknetwork.com/social-affairs/free-buses-are-running-in-three-districts-today-29-94.html": 1794372057.432039,
   "https://theannapurnaexpress.com/story/68662": 1794372057.432039,
   "https://nagariknews.nagariknetwork.com/social-affairs/91-dolis-entered-thanimai-temple-in-a-single-day-27-77.html": 1794372057.432039,
-  "https://nagariknews.nagariknetwork.com/social-affairs/gachhe-bhalubang-road-under-construction-120-km-circuitous-journey-now-reduced-to-73-km-64-88.html": 1794372057.432039
+  "https://nagariknews.nagariknetwork.com/social-affairs/gachhe-bhalubang-road-under-construction-120-km-circuitous-journey-now-reduced-to-73-km-64-88.html": 1794372057.432039,
+  "https://www.ujyaaloonline.com/detail/133379": 1794372648.5173519,
+  "https://www.setopati.com/social/402390": 1794372648.5173519,
+  "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5hTTZyY2EzXzg2czQtTnpKaktrMDRaUFJHdGxNNlpYVVJ1cmlWNXZ3dE5UYXlHUjVhdHF0U29aUzVMTHF1U2NIdW4zbjZ3NUxlV2pHVGltTDFhekdrVVozZ3kyRlhfeTDSAVxBVV95cUxNdmNhdW5nNHpYVjN2dXZ0aWxkVkp0LXZMRzB2d0dyUXBCQTZCaHdRdDVkWTVLQ3RuWWphT0E3alBsaXZTcWhfcXJORk9aVFFFSGpNVHVwUDhxeHBveA?oc=5": 1794372648.5173519
  },
  "queue": [
   {
@@ -1652,7 +1655,7 @@
    "cat": "culture",
    "val": 2,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "Vice President Yadav Extends Greetings on Mahaguru Falgunanda's Birth Anniversary",
@@ -2040,29 +2043,6 @@
    "hits": 1
   },
   {
-   "title": "Koshi Province implements Official Language Act, declares November 11 Language Day",
-   "summary": "BIRATNAGAR: The Koshi Province Government has implemented the Act on the Use of Languages in Official Government Business from Tuesday, marking a significant step towards recognising, protecting and promoting the...",
-   "link": "https://english.khabarhub.com/2026/11/575235/",
-   "source": "Khabarhub EN",
-   "ts": 1794370504,
-   "weight": 2,
-   "img": "https://english.khabarhub.com/wp-content/uploads/2023/06/Koshi-Province-Government-640x360.jpg",
-   "lang": "en",
-   "hl": "Koshi Province implements Official Language Act, declares November 11 Language Day",
-   "en": "Koshi Province implements Official Language Act, declares November 11 Language Day",
-   "ne": "Koshi Province implements Official Language Act, declares November 11 Language Day",
-   "imp": 3,
-   "tags": [
-    "KoshiProvince",
-    "LanguageAct",
-    "LanguageDay"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "'भाइटीकाले दाजुभाइ तथा दिदीबहिनीबीचको आत्मीयतालाई प्रगाढ बनाउँछ'",
    "summary": "",
    "link": "https://baahrakhari.com/detail/507079",
@@ -2243,30 +2223,6 @@
     "Doli"
    ],
    "cat": "culture",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "बन्दैछ गच्छे-भालुबाङ सडकः १२० किमीको घुमाउरो यात्रा अब ७३ किलोमिटरमा झर्दै",
-   "summary": "ग्रामीण क्षेत्रमा उत्पादित तरकारी, फलफूल, दूध तथा अन्य कृषि उपजले बजार पाउने सम्भावना बढ्नेछ । सडक पहुँच विस्तारसँगै स्थानीयस्तरमा व्यापार व्यवसाय, होटल तथा पर्यटन गतिविधि बढाउन पनि सहयोग पुग्ने अपेक्षा गरिएको छ ।...",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/gachhe-bhalubang-road-under-construction-120-km-circuitous-journey-now-reduced-to-73-km-64-88.html",
-   "source": "Nagarik News",
-   "ts": 1794367495,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1794367464_road.jpg",
-   "lang": "ne",
-   "hl": "बन्दैछ गच्छे-भालुबाङ सडकः १२० किमीको घुमाउरो यात्रा अब ७३ किलोमिटरमा झर्दै",
-   "en": "बन्दैछ गच्छे-भालुबाङ सडकः १२० किमीको घुमाउरो यात्रा अब ७३ किलोमिटरमा झर्दै",
-   "ne": "बन्दैछ गच्छे-भालुबाङ सडकः १२० किमीको घुमाउरो यात्रा अब ७३ किलोमिटरमा झर्दै",
-   "imp": 3,
-   "tags": [
-    "GachheBhalubangRoad",
-    "Infrastructure",
-    "Transport",
-    "सडक"
-   ],
-   "cat": "economy",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -5308,10 +5264,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "politics"
+  },
+  {
+   "ts": 1794372656.9066749,
+   "en": "गच्छे-भालुबाङ सडक: १२० किमी बाट ७३ किमीमा घट्यो, अर्घाखाँची-भालुबाङ दूरी छोटियो",
+   "ne": "गच्छे-भालुबाङ सडक: १२० किमी बाट ७३ किमीमा घट्यो, अर्घाखाँची-भालुबाङ दूरी छोटियो",
+   "link": "https://nagariknews.nagariknetwork.com/social-affairs/gachhe-bhalubang-road-under-construction-120-km-circuitous-journey-now-reduced-to-73-km-64-88.html",
+   "source": "Nagarik News",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "economy"
   }
  ],
- "updated": 1794372064,
- "pending_since": null,
+ "updated": 1794372672,
+ "pending_since": 1794372648.5173519,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
