@@ -1109,30 +1109,6 @@
    "hits": 1
   },
   {
-   "title": "सलमानको सिनेमा 'मातृभूमि'को ट्रेलरमा अनुपविक्रम शाहीको दबदबा",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/507069",
-   "source": "Baahrakhari",
-   "ts": 1794360972,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "सलमानको सिनेमा 'मातृभूमि'को ट्रेलरमा अनुपविक्रम शाहीको दबदबा",
-   "en": "सलमानको सिनेमा 'मातृभूमि'को ट्रेलरमा अनुपविक्रम शाहीको दबदबा",
-   "ne": "सलमानको सिनेमा 'मातृभूमि'को ट्रेलरमा अनुपविक्रम शाहीको दबदबा",
-   "imp": 2,
-   "tags": [
-    "Maatribhumi",
-    "SalmanKhan",
-    "AnupBikramShahi",
-    "Movie"
-   ],
-   "cat": "culture",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
    "title": "Vinayraj Pandey: Five Decades of Experience in Nepali Cricket",
    "summary": "Kathmandu. Vinayraj Pandey is known as a key figure in laying the foundation of modern Nepali cricket.He spent more than...",
    "link": "http://english.ratopati.com/story/86264/what-can-can-do-to-make-nepal-a-test-nation-video-interview",
@@ -2316,29 +2292,6 @@
    "hits": 1
   },
   {
-   "title": "आइपिएलमा ठूलो खेलाडी ट्रेड, हार्दिक पञ्जाब र अर्शदीप मुम्बईमा",
-   "summary": "मुम्बई इन्डियन्सका कप्तान हार्दिक पाण्ड्या पञ्जाब किङ्समा जाने भएका छन् भने पञ्जाबका प्रमुख तीव्र गतिका बलर अर्शदीप सिंह मुम्बई इन्डियन्समा आबद्ध हुने भएका छन् ।...",
-   "link": "https://nagariknews.nagariknetwork.com/sports/big-player-trade-in-ipl-hardik-punjab-and-arshdeep-to-mumbai-24-28.html",
-   "source": "Nagarik News",
-   "ts": 1794384332,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1794384319_899482807_1564553305433882_8627801267663066950_n.jpg",
-   "lang": "ne",
-   "hl": "आइपिएलमा ठूलो खेलाडी ट्रेड, हार्दिक पञ्जाब र अर्शदीप मुम्बईमा",
-   "en": "आइपिएलमा ठूलो खेलाडी ट्रेड, हार्दिक पञ्जाब र अर्शदीप मुम्बईमा",
-   "ne": "आइपिएलमा ठूलो खेलाडी ट्रेड, हार्दिक पञ्जाब र अर्शदीप मुम्बईमा",
-   "imp": 3,
-   "tags": [
-    "IPL",
-    "HardikPandya",
-    "Cricket"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
    "title": "Myanmar's Oil Fields Targeted Amidst Civil War and Rising Fuel Prices",
    "summary": "Kathmandu. Small oil industries in the dry central region of Myanmar have become targets of the civil war after the...",
    "link": "http://english.ratopati.com/story/86272/conflict-over-oil-wells-in-myanmar",
@@ -2385,17 +2338,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1793784680.533726,
-   "en": "Massive Landslide Near Krak Village in Nepal's Manaslu Region Marks Third Disaster in Two Months",
-   "ne": "Massive Landslide Near Krak Village in Nepal's Manaslu Region Marks Third Disaster in Two Months",
-   "link": "https://english.gujaratsamachar.com/news/international/nepal-landslide-massive-mountain-collapse-near-manaslu-village-triggers-panic-rescue-operations-underway-79014341102",
-   "source": "Gujarat Samachar",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "disaster"
-  },
   {
    "ts": 1793786495.93825,
    "en": "CIAA Files Corruption Case Against NID Chief Hira Babu Bhattarai Over Fake Certificates",
@@ -5398,9 +5340,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "crime"
+  },
+  {
+   "ts": 1794390078.1989255,
+   "en": "आइपिएल २०२७ अघि ट्रेड: हार्दिक पञ्जाबमा र अर्शदीप मुम्बईमा आबद्ध",
+   "ne": "आइपिएल २०२७ अघि ट्रेड: हार्दिक पञ्जाबमा र अर्शदीप मुम्बईमा आबद्ध",
+   "link": "https://nagariknews.nagariknetwork.com/sports/big-player-trade-in-ipl-hardik-punjab-and-arshdeep-to-mumbai-24-28.html",
+   "source": "Nagarik News",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "sports"
   }
  ],
- "updated": 1794389475,
+ "updated": 1794390089,
  "pending_since": 1794388253.2902997,
  "fb_blocks": [
   1790350880.4125228,
