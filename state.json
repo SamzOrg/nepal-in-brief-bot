@@ -1189,29 +1189,6 @@
  },
  "queue": [
   {
-   "title": "Nine Displaced Civilians Killed in Drone Attack in Sudan's Blue Nile State",
-   "summary": "Kathmandu. Nine displaced civilians were killed and some others injured in a drone attack in Sudan's southeastern Blue Nile state...",
-   "link": "http://english.ratopati.com/story/86241/drone-attack-in-southeastern-sudan-kills-9",
-   "source": "Ratopati EN",
-   "ts": 1794326229,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/drone-attack_vjCU39ojBX.jpg",
-   "lang": "en",
-   "hl": "Nine Displaced Civilians Killed in Drone Attack in Sudan's Blue Nile State",
-   "en": "Nine Displaced Civilians Killed in Drone Attack in Sudan's Blue Nile State",
-   "ne": "Nine Displaced Civilians Killed in Drone Attack in Sudan's Blue Nile State",
-   "imp": 1,
-   "tags": [
-    "Sudan",
-    "DroneAttack",
-    "BlueNile"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Nepal embassy closes",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9wME5zNnk5Q1RRWXdCYWstYzdJUnNVMmJjQjhGQUpTX3Vzek8zVDFzVG9ZRlY5MzZKZEVjVzVjeXRJdzR6bTFyekRjNDBrV3UtUWt2LWRUR1VaNFNFdDZzZzVrbXFqRkxu?oc=5",
@@ -1461,17 +1438,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1793749858.2339678,
-   "en": "Nepali Congress President Gagan Thapa meets UML Chair KP Oli in Gundu",
-   "ne": "Nepali Congress President Gagan Thapa meets UML Chair KP Oli in Gundu",
-   "link": "https://english.onlinekhabar.com/gagan-thapa-meet-kp-oli.html",
-   "source": "Onlinekhabar EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "politics"
-  },
   {
    "ts": 1793751658.4097745,
    "en": "New documentary 'Dangerous Wonder' to premiere in December following Nepal floods",
@@ -4509,7 +4475,7 @@
    "cat": "culture"
   }
  ],
- "updated": 1794354673,
+ "updated": 1794355288,
  "pending_since": 1794354047.0664744,
  "fb_blocks": [
   1790350880.4125228,
