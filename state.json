@@ -1,9 +1,5 @@
 {
  "seen": {
-  "https://gorkhapatraonline.com/news/228755": 1794211281.5483425,
-  "https://baahrakhari.com/detail/506960": 1794211281.5483425,
-  "http://english.ratopati.com/story/86115/3-killed-in-motorcycle-accident-in-nuwakot": 1794211281.5483425,
-  "https://nagariknews.nagariknetwork.com/sports/yuvraj-samra-s-explosive-half-century-gives-pokhara-a-strong-start-13-86.html": 1794211281.5483425,
   "https://baahrakhari.com/detail/506962": 1794211848.9233775,
   "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWlRoLVYybno1UVh2bWdGWnFSUDdZcmE1MGI1LVl5LVkza2VtdU0zbjJ6bmlzTGZmTEViTnhVUUI4MmNDcGZxb1NGY1MyWUY3YVdUcWVkb2kxZ0dfTG1fTnpiXzhWYWhpamdTczVkYTFhdW9NeEdnQjZud2RUT0h1X0lZNTNGWFVXdDJ2ME8xb2x6d1g0R0dTM2xWendrXzItbm1nQWxoU0tLamFRYkxtOGMwUjJTR3dvN3c?oc=5": 1794211848.9233775,
   "http://english.ratopati.com/story/86116/yuvraj-samra-scores-first-century-of-npls-third-edition": 1794211848.9233775,
@@ -1158,52 +1154,6 @@
    "hits": 1
   },
   {
-   "title": "Nepal Weather Forecast: Light Rain and Snow Expected in Himalayan and Hilly Regions",
-   "summary": "Kathmandu. Partial influence of westerly wind in Nepal, possibility of light rain and snowfall in hilly and mountainous regions.Currently, there...",
-   "link": "http://english.ratopati.com/story/86247/partial-influence-of-westerly-winds-chance-of-rain-and-snowfall-in-these-places",
-   "source": "Ratopati EN",
-   "ts": 1794355116,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/kathmandu-weather_npl-(14)_odbRr9NF66.jpg",
-   "lang": "en",
-   "hl": "Nepal Weather Forecast: Light Rain and Snow Expected in Himalayan and Hilly Regions",
-   "en": "Nepal Weather Forecast: Light Rain and Snow Expected in Himalayan and Hilly Regions",
-   "ne": "Nepal Weather Forecast: Light Rain and Snow Expected in Himalayan and Hilly Regions",
-   "imp": 2,
-   "tags": [
-    "WeatherForecast",
-    "Rain",
-    "Snow"
-   ],
-   "cat": "disaster",
-   "val": 2,
-   "teaser": false,
-   "hits": 3
-  },
-  {
-   "title": "Minister Timilsina calls for global cooperation on disaster-resilient communication infrastructure",
-   "summary": "KATHMANDU: Minister for Information and Communications Dr. Bikram Timilsina has stressed the need for resilient communication infrastructure and stronger international cooperation to ensure uninterrupted communication...",
-   "link": "https://english.khabarhub.com/2026/11/575202/",
-   "source": "Khabarhub EN",
-   "ts": 1794354687,
-   "weight": 2,
-   "img": "https://english.khabarhub.com/wp-content/uploads/2026/11/Bikram-Timilsina-Datuk-Seri-Fahmi-Fadzil-400x220.jpg",
-   "lang": "en",
-   "hl": "Minister Timilsina calls for global cooperation on disaster-resilient communication infrastructure",
-   "en": "Minister Timilsina calls for global cooperation on disaster-resilient communication infrastructure",
-   "ne": "Minister Timilsina calls for global cooperation on disaster-resilient communication infrastructure",
-   "imp": 2,
-   "tags": [
-    "MinisterTimilsina",
-    "Infrastructure",
-    "DisasterManagement"
-   ],
-   "cat": "politics",
-   "val": 2,
-   "teaser": false,
-   "hits": 4
-  },
-  {
    "title": "भाइटीकाको दिन आज देशका धेरै ठाउँको मौसम सफा",
    "summary": "",
    "link": "https://www.ujyaaloonline.com/detail/133373",
@@ -1837,29 +1787,6 @@
    ],
    "cat": "sports",
    "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Behind Bangladesh's garment boom, workers cut food, healthcare as wages fall short",
-   "summary": "Bangladesh's garment workers say stagnant wages and rising living costs are forcing families to cut back on food, forgo healthcare and pull children out of school, even as the industry drives the country's export...",
-   "link": "https://kathmandupost.com/world/2026/11/11/behind-bangladesh-s-garment-boom-workers-cut-food-healthcare-as-wages-fall-short",
-   "source": "Kathmandu Post",
-   "ts": 1794355279.6966712,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Behind Bangladesh's garment boom, workers cut food, healthcare as wages fall short",
-   "en": "Behind Bangladesh's garment boom, workers cut food, healthcare as wages fall short",
-   "ne": "Behind Bangladesh's garment boom, workers cut food, healthcare as wages fall short",
-   "imp": 1,
-   "tags": [
-    "Bangladesh",
-    "GarmentIndustry",
-    "Wages"
-   ],
-   "cat": "world",
-   "val": 3,
    "teaser": false,
    "hits": 1
   },
@@ -2687,17 +2614,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1793778659.9579024,
-   "en": "Nepal gold price rises by Rs 600 per tola to Rs 275,600 on Wednesday",
-   "ne": "Nepal gold price rises by Rs 600 per tola to Rs 275,600 on Wednesday",
-   "link": "https://english.khabarhub.com/2026/04/574424/",
-   "source": "Khabarhub EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "economy"
-  },
   {
    "ts": 1793780549.3351874,
    "en": "UML suffered unimaginable defeat with just nine directly elected seats: Pokhrel",
@@ -5702,7 +5618,7 @@
    "cat": "economy"
   }
  ],
- "updated": 1794383455,
+ "updated": 1794384086,
  "pending_since": 1794383451.2249837,
  "fb_blocks": [
   1790350880.4125228,
