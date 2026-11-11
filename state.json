@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://english.khabarhub.com/2026/09/574955/": 1794190848.230425,
-  "https://theannapurnaexpress.com/story/68625": 1794190848.230425,
   "https://nagariknews.nagariknetwork.com/social-affairs/police-conducted-an-all-night-operation-to-find-the-gambler-59-45.html": 1794191467.7338865,
   "https://gorkhapatraonline.com/news/228726": 1794191467.7338865,
   "https://news.google.com/rss/articles/CBMiWEFVX3lxTE80VlFvTkstbzRPT0poSEZ3TmMtSmJzcVhZcUd5TmZFd09oMnUzX2hrRWdiTzY2LTdPaWp6aDd0VjQ2cndSbUQzUkhsdWt3Y2lneTNzOU1CYXI?oc=5": 1794191467.7338865,
@@ -1190,7 +1188,9 @@
   "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbDhUd3A3TWpYaEwwR1d4S3V0WXRTY3hoTUZNa2FoVkpablVxNXhHblUySjJDX2pZMndGZDRHZDM4cmJ0VmtXUXRVNWphZGJOZURZbnNjZUN3Q3JJbjJNUFEwNml5R0RINmxrLVJlbnJsRUJ5TWJUVmU1YktKY0NMWlB5SzNtMnlOUWdVc1dmTGt5UUg1dVZISQ?oc=5": 1794362482.5974543,
   "https://baahrakhari.com/detail/507070": 1794362482.5974543,
   "http://english.ratopati.com/story/86261/elderly-woman-dies-after-being-attacked-by-wild-elephant": 1794362482.5974543,
-  "https://kathmandupost.com/sudurpaschim-province/2026/11/11/woman-killed-in-elephant-attack-in-kanchanpur-1794362605": 1794363051.974122
+  "https://kathmandupost.com/sudurpaschim-province/2026/11/11/woman-killed-in-elephant-attack-in-kanchanpur-1794362605": 1794363051.974122,
+  "https://english.khabarhub.com/2026/11/575196/": 1794363649.940819,
+  "http://english.ratopati.com/story/86262/those-without-sisters-wear-bhai-tika-at-balgopaleshwar-temple": 1794363649.940819
  },
  "queue": [
   {
@@ -1350,7 +1350,7 @@
    "cat": "culture",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "दाजुभाइ-दिदीबहिनीले हाम्रो खुसी र मानसिक स्वास्थ्यमा कति फरक पार्छन्?",
@@ -1717,29 +1717,6 @@
    "val": 1,
    "teaser": true,
    "hits": 1
-  },
-  {
-   "title": "हात्तीको आक्रमणमा वृद्धाको मृत्यु",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/507070",
-   "source": "Baahrakhari",
-   "ts": 1794362094,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "हात्तीको आक्रमणमा वृद्धाको मृत्यु",
-   "en": "हात्तीको आक्रमणमा वृद्धाको मृत्यु",
-   "ne": "हात्तीको आक्रमणमा वृद्धाको मृत्यु",
-   "imp": 3,
-   "tags": [
-    "ElephantAttack",
-    "Wildlife",
-    "हात्ती"
-   ],
-   "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "Woman killed in elephant attack in Kanchanpur",
@@ -4800,9 +4777,20 @@
    "n_ig": 0,
    "brk": false,
    "cat": "politics"
+  },
+  {
+   "ts": 1794363666.1046016,
+   "en": "कञ्चनपुरको शुक्लाफाँटामा जंगली हात्तीको आक्रमणबाट ६० वर्षीया वृद्धाको मृत्यु",
+   "ne": "कञ्चनपुरको शुक्लाफाँटामा जंगली हात्तीको आक्रमणबाट ६० वर्षीया वृद्धाको मृत्यु",
+   "link": "https://baahrakhari.com/detail/507070",
+   "source": "Baahrakhari",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "society"
   }
  ],
- "updated": 1794363062,
+ "updated": 1794363680,
  "pending_since": 1794362482.5974543,
  "fb_blocks": [
   1790350880.4125228,
