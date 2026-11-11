@@ -1,9 +1,5 @@
 {
  "seen": {
-  "https://gorkhapatraonline.com/news/228769": 1794220853.394983,
-  "https://english.onlinekhabar.com/sah-meets-indian-ambassador-dalela.html": 1794220853.394983,
-  "https://www.setopati.com/politics/402343": 1794220853.394983,
-  "https://baahrakhari.com/detail/506978": 1794220853.394983,
   "http://english.ratopati.com/story/86135/107-people-arrested-while-gambling": 1794221449.1878986,
   "http://english.ratopati.com/story/86133/eight-people-die-in-separate-road-accidents": 1794221449.1878986,
   "https://kathmandupost.com/cricket/2026/11/09/samra-s-century-powers-pokhara-to-first-npl-win": 1794221449.1878986,
@@ -1058,7 +1054,9 @@
   "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWDJZRHFTTHRmNGw3RFF6MlJkN09ZY0ZZSVF4a21hbllRSlhFLU81MldsVzhzaW1ISU1tbHdsM0J3UG9XdFp5ZEpHVG82TGdFU1p1OV9VZ003c3k4UmJhR2YzZC1sODhuTkNrQklEYURHNGxFakU4bWtpN0RESVEyXzZKS1BUaXhYSXM4WGRKRmduSFAzUEtXNnRRTmI2c3JRb2FyaE9MTUtXUVNKdzY0SjNfOERWOHlMUFg5eWxXbkxjMnoyaUFN0gHMAUFVX3lxTE1TQUh1SlpfR2dQcUMwMkJiZl9mRTV6OHVaaXFmSVhjdUpFN0ticmdWVl9iLU4ybTlfeUxzNVpfbUJBeDE0c2NveHRDZ3NuRGR2bF90QTREclNLNkZZUHNfa21POGlfQnVMRnRiWnROY3lVWnVlb3htMGNnaHBKSVV5dGxvVHpnWXJKamJ0bVVieTk2WXdVbjhGZzlzV3BmTlVqb2ljaUt6dnhyeHAxQkRRZ0R2bzAyR2RiMTFTRWhfX0R6UC1kekQtTzZXMQ?oc=5": 1794393650.618087,
   "https://nagariknews.nagariknetwork.com/social-affairs/hailstorm-in-various-districts-including-the-valley-on-bhai-tika-day-49-87.html": 1794393650.618087,
   "https://nagariknews.nagariknetwork.com/social-affairs/seven-people-including-a-child-injured-in-auto-scooter-collision-two-in-critical-condition-14-59.html": 1794393650.618087,
-  "https://nagariknews.nagariknetwork.com/social-affairs/police-take-56-vehicles-under-control-for-making-loud-noises-and-disturbing-the-public-20-49.html": 1794393650.618087
+  "https://nagariknews.nagariknetwork.com/social-affairs/police-take-56-vehicles-under-control-for-making-loud-noises-and-disturbing-the-public-20-49.html": 1794393650.618087,
+  "https://nagariknews.nagariknetwork.com/interview/the-process-of-mobilizing-climate-finance-should-be-simple-and-predictable-foreign-minister-khanal-36-64.html": 1794394249.1563864,
+  "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaXZtVFI5cVNsTEpPblVUZDZCQXJscE5VcGxjcGpQWHZhdnFlUGJaVGdoSUp0a2tmeVlpQ1k5QWVwQ1N1UklBb2Z3bVpmSFk0TEkyeTg0dGdQaGxLa0JqRHBFdEk0QmZ3ZlQ0dGlucDdUVFpNbzB4ZDAwOWh6dy1QVGNZS3ZiUkpwSXJIX2NmQnF5eXEyUzlaUUFsd0NCRFBJcEhoM0ZJN3cxRlp0OXJnWEVLVmI?oc=5": 1794394249.1563864
  },
  "queue": [
   {
@@ -1584,7 +1582,7 @@
    "cat": "tech",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "Palpa's Dhaka cloth weaves its way from festive gifts to tourist keepsakes",
@@ -2333,7 +2331,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Digital Entertainment in Nepal: Understanding Online Platforms, Payments, and Responsible Choices",
@@ -5561,8 +5559,8 @@
    "cat": "economy"
   }
  ],
- "updated": 1794393680,
- "pending_since": null,
+ "updated": 1794394254,
+ "pending_since": 1794394249.1563864,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
