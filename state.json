@@ -974,54 +974,11 @@
   "https://nagariknews.nagariknetwork.com/politics/the-global-community-s-readiness-to-assist-countries-like-nepal-is-not-sufficient-foreign-minister-khanal-29-77.html": 1794406854.2408383,
   "https://nagariknews.nagariknetwork.com/social-affairs/bhaitika-festival-concludes-in-pokhara-more-than-51-tourists-from-17-countries-wear-bhaitika-from-the-hands-of-nepali-girls-br-42-37.html": 1794406854.2408383,
   "https://nagariknews.nagariknetwork.com/social-affairs/listed-33-86.html": 1794406854.2408383,
-  "https://english.khabarhub.com/2026/11/575268/": 1794407469.661074
+  "https://english.khabarhub.com/2026/11/575268/": 1794407469.661074,
+  "https://news.google.com/rss/articles/CBMic0FVX3lxTE5VVGRCX3NUdFV2YXktVldoam81dndoa2tWOWdNTmdpQXE5U2N2blg3N3c4OHp0OEF2cF85Z2RPQW5VY2N0VV96ZXZ1OE0wRmFFc0xrZ1U4OUtDa1lpQURFc0x3UkZSdkVxMkFxN1k4anpiWW8?oc=5": 1794408650.9126608,
+  "https://baahrakhari.com/detail/507096": 1794408650.9126608
  },
  "queue": [
-  {
-   "title": "राष्ट्रपति पौडेलद्वारा भाइटीका ग्रहण",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/507082",
-   "source": "Baahrakhari",
-   "ts": 1794379827,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "राष्ट्रपति पौडेलद्वारा भाइटीका ग्रहण",
-   "en": "राष्ट्रपति पौडेलद्वारा भाइटीका ग्रहण",
-   "ne": "राष्ट्रपति पौडेलद्वारा भाइटीका ग्रहण",
-   "imp": 2,
-   "tags": [
-    "RamchandraPoudel",
-    "BhaiTika",
-    "राष्ट्रपति"
-   ],
-   "cat": "culture",
-   "val": 3,
-   "teaser": false,
-   "hits": 5
-  },
-  {
-   "title": "मौरीले टोकेर वीरबहादुर ज्यान गयो",
-   "summary": "",
-   "link": "https://www.ujyaaloonline.com/detail/133385",
-   "source": "Ujyaalo",
-   "ts": 1794379715,
-   "weight": 2,
-   "img": "https://www.ujyaaloonline.com/uploads/posts/bee_36JTy00RSg.jpg",
-   "lang": "ne",
-   "hl": "मौरीले टोकेर वीरबहादुर ज्यान गयो",
-   "en": "मौरीले टोकेर वीरबहादुर ज्यान गयो",
-   "ne": "मौरीले टोकेर वीरबहादुर ज्यान गयो",
-   "imp": 2,
-   "tags": [
-    "BeeAttack",
-    "वीरबहादुर"
-   ],
-   "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
   {
    "title": "श्रीमान्‌को कुटपिटबाट श्रीमतीको मृत्यु",
    "summary": "",
@@ -2325,7 +2282,7 @@
    "cat": "other",
    "val": 1,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Forest Minister Chaudhary attends COP31 in Sherpa attire to highlight Himalayan issues",
@@ -2555,20 +2512,32 @@
    "val": 3,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "सुनसरीमा तीन सवारीसाधन ठोक्किँदा सात वर्षीया बालिकाको मृत्यु, पाँचजना घाइते",
+   "summary": "",
+   "link": "https://baahrakhari.com/detail/507096",
+   "source": "Baahrakhari",
+   "ts": 1794408109,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "सुनसरीमा तीन सवारीसाधन ठोक्किँदा सात वर्षीया बालिकाको मृत्यु, पाँचजना घाइते",
+   "en": "सुनसरीमा तीन सवारीसाधन ठोक्किँदा सात वर्षीया बालिकाको मृत्यु, पाँचजना घाइते",
+   "ne": "सुनसरीमा तीन सवारीसाधन ठोक्किँदा सात वर्षीया बालिकाको मृत्यु, पाँचजना घाइते",
+   "imp": 4,
+   "tags": [
+    "Sunsari",
+    "RoadAccident",
+    "सुन्सरी"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1793803279.9236023,
-   "en": "Nepali Congress accuses govt of fabricating conspiracy against opposition",
-   "ne": "Nepali Congress accuses govt of fabricating conspiracy against opposition",
-   "link": "http://english.ratopati.com/story/85672/congress-says-government-sponsored-conspiracy-against-party-convention-leak-of-statement-from-custody-objectionable",
-   "source": "Ratopati EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "politics"
-  },
   {
    "ts": 1793805132.2856767,
    "en": "नेपाल-भारत द्विपक्षीय बैठक प्रधानमन्त्री बालेनको भारत भ्रमणमा केन्द्रित रहने",
@@ -5573,7 +5542,7 @@
    "cat": "politics"
   }
  ],
- "updated": 1794408096,
+ "updated": 1794408669,
  "pending_since": 1794407469.661074,
  "fb_blocks": [
   1790350880.4125228,
