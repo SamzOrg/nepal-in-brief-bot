@@ -1201,7 +1201,8 @@
   "http://english.ratopati.com/story/86251/america-and-china-in-a-race-for-energy-leadership-when-will-consumers-get-relief": 1794358882.5816543,
   "https://baahrakhari.com/detail/507064": 1794358882.5816543,
   "http://english.ratopati.com/story/86250/bangladesh-tear-gas-rubber-bullets-fired-after-protests-in-support-of-sheikh-hasina": 1794358882.5816543,
-  "http://english.ratopati.com/story/86249/us-soldier-arrested-in-britain-on-suspicion-of-spying-for-russia": 1794358882.5816543
+  "http://english.ratopati.com/story/86249/us-soldier-arrested-in-britain-on-suspicion-of-spying-for-russia": 1794358882.5816543,
+  "https://baahrakhari.com/detail/507068": 1794359447.98737
  },
  "queue": [
   {
@@ -1657,6 +1658,28 @@
    ],
    "cat": "world",
    "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "हसिना बंगलादेश फर्किए मृत्युदण्ड कार्यान्वयन गरिने चेतावनी",
+   "summary": "",
+   "link": "https://baahrakhari.com/detail/507068",
+   "source": "Baahrakhari",
+   "ts": 1794359040,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "हसिना बंगलादेश फर्किए मृत्युदण्ड कार्यान्वयन गरिने चेतावनी",
+   "en": "हसिना बंगलादेश फर्किए मृत्युदण्ड कार्यान्वयन गरिने चेतावनी",
+   "ne": "हसिना बंगलादेश फर्किए मृत्युदण्ड कार्यान्वयन गरिने चेतावनी",
+   "imp": 1,
+   "tags": [
+    "Bangladesh",
+    "DeathPenalty"
+   ],
+   "cat": "world",
+   "val": 1,
    "teaser": false,
    "hits": 1
   }
@@ -4699,8 +4722,8 @@
    "cat": "crime"
   }
  ],
- "updated": 1794358890,
- "pending_since": null,
+ "updated": 1794359456,
+ "pending_since": 1794359447.98737,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
