@@ -1190,7 +1190,11 @@
   "http://english.ratopati.com/story/86261/elderly-woman-dies-after-being-attacked-by-wild-elephant": 1794362482.5974543,
   "https://kathmandupost.com/sudurpaschim-province/2026/11/11/woman-killed-in-elephant-attack-in-kanchanpur-1794362605": 1794363051.974122,
   "https://english.khabarhub.com/2026/11/575196/": 1794363649.940819,
-  "http://english.ratopati.com/story/86262/those-without-sisters-wear-bhai-tika-at-balgopaleshwar-temple": 1794363649.940819
+  "http://english.ratopati.com/story/86262/those-without-sisters-wear-bhai-tika-at-balgopaleshwar-temple": 1794363649.940819,
+  "https://english.khabarhub.com/2026/11/575224/": 1794364265.7239466,
+  "http://english.ratopati.com/story/86263/the-truth-came-out-mamata-got-justice": 1794364265.7239466,
+  "https://nagariknews.nagariknetwork.com/social-affairs/one-person-dies-in-elephant-attack-36-32.html": 1794364265.7239466,
+  "https://www.ujyaaloonline.com/detail/133376": 1794364265.7239466
  },
  "queue": [
   {
@@ -1739,20 +1743,33 @@
    "val": 3,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "भोटेकोशी बाढी प्रभावित क्षेत्रमा यसपालि तिहार खल्लो",
+   "summary": "",
+   "link": "https://www.ujyaaloonline.com/detail/133376",
+   "source": "Ujyaalo",
+   "ts": 1794364049,
+   "weight": 2,
+   "img": "https://www.ujyaaloonline.com/uploads/posts/bhotekoshi-flood-1787724585-1789434994.jpg",
+   "lang": "ne",
+   "hl": "भोटेकोशी बाढी प्रभावित क्षेत्रमा यसपालि तिहार खल्लो",
+   "en": "भोटेकोशी बाढी प्रभावित क्षेत्रमा यसपालि तिहार खल्लो",
+   "ne": "भोटेकोशी बाढी प्रभावित क्षेत्रमा यसपालि तिहार खल्लो",
+   "imp": 3,
+   "tags": [
+    "BhoteKoshi",
+    "Flood",
+    "Tihar",
+    "बाढी"
+   ],
+   "cat": "disaster",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1793758860.031346,
-   "en": "रौतहटको गौरमा गोली प्रहारबाट २८ वर्षीय राकेश यादव गम्भीर घाइते",
-   "ne": "रौतहटको गौरमा गोली प्रहारबाट २८ वर्षीय राकेश यादव गम्भीर घाइते",
-   "link": "https://baahrakhari.com/detail/506520",
-   "source": "Baahrakhari",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "crime"
-  },
   {
    "ts": 1793760659.7913241,
    "en": "India U19s A Women to play Nepal U19s Women in Bengaluru on 14 Nov 2026",
@@ -4790,7 +4807,7 @@
    "cat": "society"
   }
  ],
- "updated": 1794363680,
+ "updated": 1794364276,
  "pending_since": 1794362482.5974543,
  "fb_blocks": [
   1790350880.4125228,
