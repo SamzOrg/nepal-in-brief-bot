@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMmk3b1loZ0xiMUI1MmJyaU16TUViVjlXRkpBTWxiNG5WOVBBeUswTmZKcF9XTHY5OGZoVmp5QnFCVDQ0UGs3VUc4em5QckszdVhTSzFZeHlqc0wtUkgyaGNHZWhublFfX0FOLTVMNkZtT1E0UHc5cTM0N1J2NjdrdDgzSVlkdURDSDJLZmxvcDVteTA?oc=5": 1794182484.69579,
   "https://baahrakhari.com/detail/506922": 1794184847.620588,
   "https://nagariknews.nagariknetwork.com/Dharma-Saskriti/cow-worship-being-performed-on-the-fourth-day-of-tihar-br-13-37.html": 1794185449.1433651,
   "https://baahrakhari.com/detail/506925": 1794185449.1433651,
@@ -1185,7 +1184,19 @@
   "https://news.google.com/rss/articles/CBMisAFBVV95cUxPLXdrWUFIWXhhUEY2Q3RrM2VNc2VJZWlMS0ZOYjZqMmJXbjlNZkNmc0JHS2FBemIwVzBtMG1rSDNfLW9PZlo3bExLcUlMY3VtUHdqU3h4SEsxampPVENMZlhMM25TSEpLbUk4MXRSS0hqdmdTekc3QVBsT3RIMjdXUDRUU09nTWpkSGd6akFlVWdxMDd2NU43N0FVdTB5OXVmR25USFZwN00yZHM0QUN6bw?oc=5": 1794351051.8338027,
   "https://news.google.com/rss/articles/CBMif0FVX3lxTE82OWE5M1k3eDdnaW5qc3JmUTMwSG5hMGVMRm1QUDc4cEdTMGZ6aVVwd3FVbi1YeTZtcUludWxYREVvQWhYWk0yT0U5WnNQd0wzVlhUU2ZpZEVzUkd0VEhXcnBTcFc0S1UtMVZOSUN4eUV5bkJ0d2ZJWWdEbHMtX0U?oc=5": 1794352850.029643,
   "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZ0ROaHd5NDk1TVlmMUg2TUMwcVQyYU5OZVhiQ21MRGZUOGEzOGR5Z2lKbk1YTUU1OGViaHRQeHFsdTFPdUgzRlZncXhSTno5OFgtb28tS1dQUmdQRzdTN3FLTVV5cS1ocXJiblc4aUVjWHY2bFRRN1FvRG5DV1RCeDVZSXJHOGdMdGc?oc=5": 1794354047.0664744,
-  "http://english.ratopati.com/story/86243/the-best-time-for-bhai-tika-is-at-1107-am": 1794354047.0664744
+  "http://english.ratopati.com/story/86243/the-best-time-for-bhai-tika-is-at-1107-am": 1794354047.0664744,
+  "https://english.khabarhub.com/2026/11/575206/": 1794355852.5307364,
+  "https://www.ujyaaloonline.com/detail/133370": 1794355852.5307364,
+  "http://english.ratopati.com/story/86248/impeachment-motion-against-pete-hegseth-halted": 1794355852.5307364,
+  "https://english.khabarhub.com/2026/11/575210/": 1794355852.5307364,
+  "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA0cFE2Skc3UUlPSWw1QmtQcUZjeXRJbE1zUlMzaXRuelk4V2VqMTVCZElPX0lRQlUyQ1ZxNngwM0pwbTd6OVhiWTR1MmhCNDN5cXpGR253QzY?oc=5": 1794355852.5307364,
+  "https://kathmandupost.com/nepali-diaspora/2026/11/11/us-jury-finds-naresh-bhatt-guilty-of-murdering-wife-mamta-kafle": 1794355852.5307364,
+  "http://english.ratopati.com/story/86247/partial-influence-of-westerly-winds-chance-of-rain-and-snowfall-in-these-places": 1794355852.5307364,
+  "https://english.khabarhub.com/2026/11/575202/": 1794355852.5307364,
+  "http://english.ratopati.com/story/86246/what-is-the-zodiac-sign-like-on-bhai-tika": 1794355852.5307364,
+  "https://english.khabarhub.com/2026/11/575162/": 1794355852.5307364,
+  "http://english.ratopati.com/story/86245/balgopaleshwar-temple-is-open-for-those-who-do-not-have-sisters-or-brothers": 1794355852.5307364,
+  "http://english.ratopati.com/story/86244/todays-bhaitika-this-is-the-method-and-importance": 1794355852.5307364
  },
  "queue": [
   {
@@ -1367,7 +1378,7 @@
    "cat": "culture",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 5
   },
   {
    "title": "Trinidad and Tobago Decriminalizes Homosexuality as Privy Council Upholds Lower Court Ruling",
@@ -1433,6 +1444,121 @@
    ],
    "cat": "disaster",
    "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "NRB issues today's foreign currency exchange rates",
+   "summary": "KATHMANDU: Nepal Rastra Bank (NRB) has published the official foreign exchange rates for Wednesday, with the euro, British pound and Australian dollar gaining value against the Nepali rupee. The US dollar's exchange...",
+   "link": "https://english.khabarhub.com/2026/11/575210/",
+   "source": "Khabarhub EN",
+   "ts": 1794355475,
+   "weight": 2,
+   "img": "https://english.khabarhub.com/wp-content/uploads/2024/04/FOREX-e1764984075308-400x220.webp",
+   "lang": "en",
+   "hl": "NRB issues today's foreign currency exchange rates",
+   "en": "NRB issues today's foreign currency exchange rates",
+   "ne": "NRB issues today's foreign currency exchange rates",
+   "imp": 2,
+   "tags": [
+    "NRB",
+    "ExchangeRates",
+    "NepalRastraBank"
+   ],
+   "cat": "economy",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "US jury finds Naresh Bhatt guilty of murdering wife Mamta Kafle",
+   "summary": "The Virginia jury also convicted Bhatt of concealing and defiling his wife's body, which has never been found. He had claimed she died by suicide before he dismembered and disposed of her remains.",
+   "link": "https://kathmandupost.com/nepali-diaspora/2026/11/11/us-jury-finds-naresh-bhatt-guilty-of-murdering-wife-mamta-kafle",
+   "source": "Kathmandu Post",
+   "ts": 1794341453.581509,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "US jury finds Naresh Bhatt guilty of murdering wife Mamta Kafle",
+   "en": "US jury finds Naresh Bhatt guilty of murdering wife Mamta Kafle",
+   "ne": "US jury finds Naresh Bhatt guilty of murdering wife Mamta Kafle",
+   "imp": 3,
+   "tags": [
+    "MamtaKafle",
+    "NareshBhatt",
+    "USCourt"
+   ],
+   "cat": "crime",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Nepal Weather Forecast: Light Rain and Snow Expected in Himalayan and Hilly Regions",
+   "summary": "Kathmandu. Partial influence of westerly wind in Nepal, possibility of light rain and snowfall in hilly and mountainous regions.Currently, there...",
+   "link": "http://english.ratopati.com/story/86247/partial-influence-of-westerly-winds-chance-of-rain-and-snowfall-in-these-places",
+   "source": "Ratopati EN",
+   "ts": 1794355116,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/kathmandu-weather_npl-(14)_odbRr9NF66.jpg",
+   "lang": "en",
+   "hl": "Nepal Weather Forecast: Light Rain and Snow Expected in Himalayan and Hilly Regions",
+   "en": "Nepal Weather Forecast: Light Rain and Snow Expected in Himalayan and Hilly Regions",
+   "ne": "Nepal Weather Forecast: Light Rain and Snow Expected in Himalayan and Hilly Regions",
+   "imp": 2,
+   "tags": [
+    "WeatherForecast",
+    "Rain",
+    "Snow"
+   ],
+   "cat": "disaster",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Minister Timilsina calls for global cooperation on disaster-resilient communication infrastructure",
+   "summary": "KATHMANDU: Minister for Information and Communications Dr. Bikram Timilsina has stressed the need for resilient communication infrastructure and stronger international cooperation to ensure uninterrupted communication...",
+   "link": "https://english.khabarhub.com/2026/11/575202/",
+   "source": "Khabarhub EN",
+   "ts": 1794354687,
+   "weight": 2,
+   "img": "https://english.khabarhub.com/wp-content/uploads/2026/11/Bikram-Timilsina-Datuk-Seri-Fahmi-Fadzil-400x220.jpg",
+   "lang": "en",
+   "hl": "Minister Timilsina calls for global cooperation on disaster-resilient communication infrastructure",
+   "en": "Minister Timilsina calls for global cooperation on disaster-resilient communication infrastructure",
+   "ne": "Minister Timilsina calls for global cooperation on disaster-resilient communication infrastructure",
+   "imp": 2,
+   "tags": [
+    "MinisterTimilsina",
+    "Infrastructure",
+    "DisasterManagement"
+   ],
+   "cat": "politics",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Panchanga and Horoscope for November 11, 2026",
+   "summary": "Today's Panchanga Bikram Sambat 2083, Kartik 25, Wednesday. Gregorian date November 11, 2026. Nepal Sambat 1147. Raudra Samvatsar. Dakshinayan. Autumn...",
+   "link": "http://english.ratopati.com/story/86246/what-is-the-zodiac-sign-like-on-bhai-tika",
+   "source": "Ratopati EN",
+   "ts": 1794354465,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/horoscope_wraKHnbZ5T.jpg",
+   "lang": "en",
+   "hl": "Panchanga and Horoscope for November 11, 2026",
+   "en": "Panchanga and Horoscope for November 11, 2026",
+   "ne": "Panchanga and Horoscope for November 11, 2026",
+   "imp": 1,
+   "tags": [
+    "Horoscope",
+    "Panchanga",
+    "Astrology"
+   ],
+   "cat": "culture",
+   "val": 3,
    "teaser": false,
    "hits": 1
   }
@@ -4475,8 +4601,8 @@
    "cat": "culture"
   }
  ],
- "updated": 1794355288,
- "pending_since": 1794354047.0664744,
+ "updated": 1794355858,
+ "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
