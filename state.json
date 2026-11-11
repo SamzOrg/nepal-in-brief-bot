@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://gorkhapatraonline.com/news/228725": 1794190247.7896464,
-  "https://nagariknews.nagariknetwork.com/social-affairs/six-prisoners-who-escaped-from-dolpa-prison-arrested-br-19-79.html": 1794190247.7896464,
   "https://english.khabarhub.com/2026/09/574955/": 1794190848.230425,
   "https://theannapurnaexpress.com/story/68625": 1794190848.230425,
   "https://nagariknews.nagariknetwork.com/social-affairs/police-conducted-an-all-night-operation-to-find-the-gambler-59-45.html": 1794191467.7338865,
@@ -1191,32 +1189,10 @@
   "http://english.ratopati.com/story/86258/falgunandas-thoughts-are-equally-relevant-today-vice-president": 1794361847.495061,
   "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbDhUd3A3TWpYaEwwR1d4S3V0WXRTY3hoTUZNa2FoVkpablVxNXhHblUySjJDX2pZMndGZDRHZDM4cmJ0VmtXUXRVNWphZGJOZURZbnNjZUN3Q3JJbjJNUFEwNml5R0RINmxrLVJlbnJsRUJ5TWJUVmU1YktKY0NMWlB5SzNtMnlOUWdVc1dmTGt5UUg1dVZISQ?oc=5": 1794362482.5974543,
   "https://baahrakhari.com/detail/507070": 1794362482.5974543,
-  "http://english.ratopati.com/story/86261/elderly-woman-dies-after-being-attacked-by-wild-elephant": 1794362482.5974543
+  "http://english.ratopati.com/story/86261/elderly-woman-dies-after-being-attacked-by-wild-elephant": 1794362482.5974543,
+  "https://kathmandupost.com/sudurpaschim-province/2026/11/11/woman-killed-in-elephant-attack-in-kanchanpur-1794362605": 1794363051.974122
  },
  "queue": [
-  {
-   "title": "Trinidad and Tobago Decriminalizes Homosexuality as Privy Council Upholds Lower Court Ruling",
-   "summary": "Kathmandu. The law criminalizing homosexual relations in the Caribbean nation of Trinidad and Tobago has been abolished. The 'Judicial Committee...",
-   "link": "http://english.ratopati.com/story/86242/trinidad-and-tobago-lifts-ban-on-same-sex-marriage",
-   "source": "Ratopati EN",
-   "ts": 1794334001,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/lgbtq_GJHL4qyrhd.webp",
-   "lang": "en",
-   "hl": "Trinidad and Tobago Decriminalizes Homosexuality as Privy Council Upholds Lower Court Ruling",
-   "en": "Trinidad and Tobago Decriminalizes Homosexuality as Privy Council Upholds Lower Court Ruling",
-   "ne": "Trinidad and Tobago Decriminalizes Homosexuality as Privy Council Upholds Lower Court Ruling",
-   "imp": 1,
-   "tags": [
-    "TrinidadAndTobago",
-    "Homosexuality",
-    "PrivyCouncil"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
   {
    "title": "Tag",
    "summary": "",
@@ -1764,6 +1740,28 @@
    "val": 3,
    "teaser": false,
    "hits": 2
+  },
+  {
+   "title": "Woman killed in elephant attack in Kanchanpur",
+   "summary": "A herd of elephants entered a settlement inside Shuklaphanta National Park, damaged a house and trampled a 60-year-old woman to death while she was asleep.",
+   "link": "https://kathmandupost.com/sudurpaschim-province/2026/11/11/woman-killed-in-elephant-attack-in-kanchanpur-1794362605",
+   "source": "Kathmandu Post",
+   "ts": 1794348653.092145,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "Woman killed in elephant attack in Kanchanpur",
+   "en": "Woman killed in elephant attack in Kanchanpur",
+   "ne": "Woman killed in elephant attack in Kanchanpur",
+   "imp": 2,
+   "tags": [
+    "Elephant",
+    "Kanchanpur"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
@@ -4804,7 +4802,7 @@
    "cat": "politics"
   }
  ],
- "updated": 1794362502,
+ "updated": 1794363062,
  "pending_since": 1794362482.5974543,
  "fb_blocks": [
   1790350880.4125228,
