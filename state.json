@@ -1023,28 +1023,6 @@
    "hits": 1
   },
   {
-   "title": "बम राखिएको धम्कीपछि इटालीका ३०० विद्यालय खाली, बेलायत र आयरल्यान्डमा पनि त्रास",
-   "summary": "इटालीका कम्तिमा ३०० विद्यालयमा बम राखिएको धम्की आएपछि बुधबार विद्यार्थी र शिक्षकहरूलाई सुरक्षित स्थानमा सारिएको छ।",
-   "link": "https://www.setopati.com/politics/402405",
-   "source": "Setopati",
-   "ts": 1794404585,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "बम राखिएको धम्कीपछि इटालीका ३०० विद्यालय खाली, बेलायत र आयरल्यान्डमा पनि त्रास",
-   "en": "बम राखिएको धम्कीपछि इटालीका ३०० विद्यालय खाली, बेलायत र आयरल्यान्डमा पनि त्रास",
-   "ne": "बम राखिएको धम्कीपछि इटालीका ३०० विद्यालय खाली, बेलायत र आयरल्यान्डमा पनि त्रास",
-   "imp": 1,
-   "tags": [
-    "Italy",
-    "BombThreat"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
    "title": "Sashastra Prahari Provided Free Bus Service to 2,486 Passengers in Kathmandu Valley",
    "summary": "Kathmandu. On the day of Bhai Tika, 2,486 passengers benefited from the free bus service operated by the Armed Police...",
    "link": "http://english.ratopati.com/story/86288/armed-police-forces-free-bus-service-on-bhai-tika-day-nearly-2500-benefit",
@@ -1066,29 +1044,6 @@
    "val": 3,
    "teaser": false,
    "hits": 3
-  },
-  {
-   "title": "अमेरिका, रुस र युक्रेनबीच आबुधाबीमा वार्ता : ठूलो परिमाणमा बन्दी साटफेर गर्ने सहमति",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/507094",
-   "source": "Baahrakhari",
-   "ts": 1794404820,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "अमेरिका, रुस र युक्रेनबीच आबुधाबीमा वार्ता : ठूलो परिमाणमा बन्दी साटफेर गर्ने सहमति",
-   "en": "अमेरिका, रुस र युक्रेनबीच आबुधाबीमा वार्ता : ठूलो परिमाणमा बन्दी साटफेर गर्ने सहमति",
-   "ne": "अमेरिका, रुस र युक्रेनबीच आबुधाबीमा वार्ता : ठूलो परिमाणमा बन्दी साटफेर गर्ने सहमति",
-   "imp": 2,
-   "tags": [
-    "AbuDhabi",
-    "Russia",
-    "Ukraine"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
   },
   {
    "title": "टर्कीमा नमिलेको १०० अर्ब डलरको हिसाब!",
@@ -4437,8 +4392,8 @@
    "cat": "disaster"
   }
  ],
- "updated": 1794433252,
- "pending_since": 1794433248.3318179,
+ "updated": 1794433853,
+ "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
