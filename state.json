@@ -1181,7 +1181,8 @@
   "https://nagariknews.nagariknetwork.com/politics/language-bill-being-implemented-in-koshi-99-80.html": 1794370249.8488197,
   "https://www.setopati.com/art/bollywood/402393": 1794370853.422221,
   "https://theannapurnaexpress.com/story/68661": 1794370853.422221,
-  "https://theannapurnaexpress.com/story/68660": 1794370853.422221
+  "https://theannapurnaexpress.com/story/68660": 1794370853.422221,
+  "http://english.ratopati.com/story/86268/what-is-the-nepali-delegation-doing-in-turkey-how-productive-will-cop-31-be": 1794371466.768965
  },
  "queue": [
   {
@@ -2029,17 +2030,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1793766053.984483,
-   "en": "LP gas bottlers to separate blue and red cylinders for household and commercial users",
-   "ne": "LP gas bottlers to separate blue and red cylinders for household and commercial users",
-   "link": "https://myrepublica.nagariknetwork.com/news/lp-gas-bottlers-to-separate-blue-and-red-cylinders-for-household-and-commer-27-73.html",
-   "source": "myRepublica",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "economy"
-  },
   {
    "ts": 1793767853.8798034,
    "en": "Two More Escaped Prisoners Apprehended in Dolpa District",
@@ -5077,7 +5067,7 @@
    "cat": "politics"
   }
  ],
- "updated": 1794370875,
+ "updated": 1794371469,
  "pending_since": 1794370249.8488197,
  "fb_blocks": [
   1790350880.4125228,
