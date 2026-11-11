@@ -2327,30 +2327,6 @@
    "hits": 1
   },
   {
-   "title": "WHO declares El Niño a health emergency; India, Nepal, & Europe worst affected countries so far",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPd2FTLWJVZWM5b0t6bDFnZFQ3UVJLd0dxcFdJSVdfOFBQTUU4RmdNc0c3VWdtWWoyeWlBUEJCYjhRclVlUTZMMFBNb2YyMXctaE01SXRzcUhieEpoeEJZWVZEVk1zNUNvaXhlLTVISUJnbndmNVEtOUNhdFVrX0s2MTdHY21rZjdxdUxJOGtyVXVCcGIxMzlnYkNvdEVqNmREVno5WEtTMWotaXhVNVhFNlZ3QzhINk4zYmVSRV9Td3dXMDcwR19jSEVoNVNsS3ZCNjU5ZjdkaDF0UXBsSWc?oc=5",
-   "source": "Deccan Herald",
-   "ts": 1794408377,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "WHO declares El Niño a health emergency; India, Nepal, & Europe worst affected countries so far",
-   "en": "WHO declares El Niño a health emergency; India, Nepal, & Europe worst affected countries so far",
-   "ne": "WHO declares El Niño a health emergency; India, Nepal, & Europe worst affected countries so far",
-   "imp": 4,
-   "tags": [
-    "WHO",
-    "ElNino",
-    "HealthEmergency",
-    "India"
-   ],
-   "cat": "health",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "टर्कीमा नमिलेको १०० अर्ब डलरको हिसाब!",
    "summary": "नेपालका लागि पनि यो विवाद महत्त्वपूर्ण छ। किनभने, जलवायु परिवर्तनको ठूलो जोखिममा रहेको नेपालले केही समयअघि भोटेकोशी-त्रिशूली क्षेत्रमा आएको विनाशकारी बाढीपछि अन्तर्राष्ट्रिय समुदायसँग सहयोग मागेको थियो।",
    "link": "https://www.setopati.com/politics/402381",
@@ -5460,9 +5436,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "politics"
+  },
+  {
+   "ts": 1794411685.7516613,
+   "en": "WHO declares El Niño a health emergency; India, Nepal, & Europe worst affected countries so far",
+   "ne": "WHO declares El Niño a health emergency; India, Nepal, & Europe worst affected countries so far",
+   "link": "https://www.deccanherald.com/health/healthcare/who-declares-el-nino-a-health-emergency-india-nepal-europe-worst-affected-countries-so-far-4215054",
+   "source": "Deccan Herald",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "health"
   }
  ],
- "updated": 1794411347,
+ "updated": 1794411694,
  "pending_since": 1794409851.8834558,
  "fb_blocks": [
   1790350880.4125228,
