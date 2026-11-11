@@ -1201,28 +1201,6 @@
  },
  "queue": [
   {
-   "title": "Nepal embassy closes",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9wME5zNnk5Q1RRWXdCYWstYzdJUnNVMmJjQjhGQUpTX3Vzek8zVDFzVG9ZRlY5MzZKZEVjVzVjeXRJdzR6bTFyekRjNDBrV3UtUWt2LWRUR1VaNFNFdDZzZzVrbXFqRkxu?oc=5",
-   "source": "Travel News",
-   "ts": 1794327900,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Nepal embassy closes",
-   "en": "Nepal embassy closes",
-   "ne": "Nepal embassy closes",
-   "imp": 2,
-   "tags": [
-    "NepalEmbassy",
-    "ForeignAffairs"
-   ],
-   "cat": "world",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "UN Experts Raise Human Rights Concerns Over Developments in Azad Kashmir",
    "summary": "The latest significant development concerning Azad Jammu and Kashmir (AJK) has come from Geneva. In a communication, six United Nations human rights experts have questioned Pakistan's decision to designate the Joint...",
    "link": "https://english.khabarhub.com/2026/10/575182/",
@@ -1309,29 +1287,6 @@
     "GenZ"
    ],
    "cat": "crime",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "रुखको जरामा अड्किएकी ८४ वर्षीया वृद्धाको यसरी भयो उद्धार",
-   "summary": "प्रहरी र स्थानीयवासीको सहयोगमा दिउँसो करिब १:२० बजे उनको सकुशल उद्धार गरिएको हो।",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/this-is-how-an-84-year-old-woman-stuck-in-a-tree-root-was-rescued-86-56.html",
-   "source": "Nagarik News",
-   "ts": 1794327964,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1794327904_Aama.jpg",
-   "lang": "ne",
-   "hl": "रुखको जरामा अड्किएकी ८४ वर्षीया वृद्धाको यसरी भयो उद्धार",
-   "en": "रुखको जरामा अड्किएकी ८४ वर्षीया वृद्धाको यसरी भयो उद्धार",
-   "ne": "रुखको जरामा अड्किएकी ८४ वर्षीया वृद्धाको यसरी भयो उद्धार",
-   "imp": 2,
-   "tags": [
-    "Rescue",
-    "Elderly",
-    "उद्धार"
-   ],
-   "cat": "society",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -1520,17 +1475,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1793751658.4097745,
-   "en": "New documentary 'Dangerous Wonder' to premiere in December following Nepal floods",
-   "ne": "New documentary 'Dangerous Wonder' to premiere in December following Nepal floods",
-   "link": "https://getthewordout.com.au/press-release/press-release-new-documentary-dangerous-wonder-captures-an-australian-nepali-doctors-faith-and-frontline-relief-in-flood-ravaged-nepal/",
-   "source": "Press Release Distribution Australia",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "culture"
-  },
   {
    "ts": 1793753462.391244,
    "en": "Nepal to raise climate justice and mountain conservation at COP-31: Minister Chaudhary",
@@ -4568,7 +4512,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1794356473,
+ "updated": 1794357071,
  "pending_since": 1794356450.5653365,
  "fb_blocks": [
   1790350880.4125228,
