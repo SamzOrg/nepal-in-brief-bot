@@ -1296,29 +1296,6 @@
    "hits": 4
   },
   {
-   "title": "The delivery that rebuilt safety: Shelter kits by truck, Nepal",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOGx0c1lFY0NSaFhRY2JqbXFIVHBDSmJ0eDdzVF9YQUFwdkVnemkzbDNzVUVYV3JCbjU3VXFMQnFrZXZpLWRDX3hDVENQaXkxa2tUSlRiMDdyTFo1MWZ6VmNzZVdhZVdaR01VQm1vbmJkc1BHNUN0UkVydXJOYktRYTdBWENnQTB4NEpIaWo4RDFhbl8wYVE?oc=5",
-   "source": "Save the Children UK",
-   "ts": 1794341910,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "The delivery that rebuilt safety: Shelter kits by truck, Nepal",
-   "en": "The delivery that rebuilt safety: Shelter kits by truck, Nepal",
-   "ne": "The delivery that rebuilt safety: Shelter kits by truck, Nepal",
-   "imp": 3,
-   "tags": [
-    "Shelter",
-    "Nepal",
-    "DisasterRelief"
-   ],
-   "cat": "disaster",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "NRB issues today's foreign currency exchange rates",
    "summary": "KATHMANDU: Nepal Rastra Bank (NRB) has published the official foreign exchange rates for Wednesday, with the euro, British pound and Australian dollar gaining value against the Nepali rupee. The US dollar's exchange...",
    "link": "https://english.khabarhub.com/2026/11/575210/",
@@ -1544,29 +1521,6 @@
     "Gaza"
    ],
    "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "भाइटीका आज, उत्तम साइत बिहान ११:०७ बजे",
-   "summary": "यमपञ्चक अर्थात् तिहारको अन्तिम दिन आज दाजुभाइले दिदीबहिनीबाट टीका ग्रहण गरी भाइटीका पर्व मनाउँदैछन् ।...",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/bhaitika-today-uttam-sait-at-11-07-am-45-83.html",
-   "source": "Nagarik News",
-   "ts": 1794356916,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1760779736_Tihar.jpg",
-   "lang": "ne",
-   "hl": "भाइटीका आज, उत्तम साइत बिहान ११:०७ बजे",
-   "en": "भाइटीका आज, उत्तम साइत बिहान ११:०७ बजे",
-   "ne": "भाइटीका आज, उत्तम साइत बिहान ११:०७ बजे",
-   "imp": 3,
-   "tags": [
-    "BhaiTika",
-    "Tihar",
-    "भाइटीका"
-   ],
-   "cat": "culture",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -4720,9 +4674,20 @@
    "n_ig": 0,
    "brk": false,
    "cat": "crime"
+  },
+  {
+   "ts": 1794360066.0570834,
+   "en": "आज भाइटीका, उत्तम साइत बिहान ११:०७ बजे",
+   "ne": "आज भाइटीका, उत्तम साइत बिहान ११:०७ बजे",
+   "link": "https://nagariknews.nagariknetwork.com/social-affairs/bhaitika-today-uttam-sait-at-11-07-am-45-83.html",
+   "source": "Nagarik News",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "culture"
   }
  ],
- "updated": 1794359456,
+ "updated": 1794360081,
  "pending_since": 1794359447.98737,
  "fb_blocks": [
   1790350880.4125228,
