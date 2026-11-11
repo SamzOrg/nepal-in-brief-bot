@@ -1,8 +1,5 @@
 {
  "seen": {
-  "https://baahrakhari.com/detail/506922": 1794184847.620588,
-  "https://nagariknews.nagariknetwork.com/Dharma-Saskriti/cow-worship-being-performed-on-the-fourth-day-of-tihar-br-13-37.html": 1794185449.1433651,
-  "https://baahrakhari.com/detail/506925": 1794185449.1433651,
   "https://baahrakhari.com/detail/506926": 1794186082.2706223,
   "https://english.khabarhub.com/2026/09/574973/": 1794186082.2706223,
   "https://nagariknews.nagariknetwork.com/social-affairs/flower-prices-drop-as-production-increases-br-20-39.html": 1794186082.2706223,
@@ -1198,31 +1195,11 @@
   "http://english.ratopati.com/story/86245/balgopaleshwar-temple-is-open-for-those-who-do-not-have-sisters-or-brothers": 1794355852.5307364,
   "http://english.ratopati.com/story/86244/todays-bhaitika-this-is-the-method-and-importance": 1794355852.5307364,
   "https://www.ujyaaloonline.com/detail/133371": 1794356450.5653365,
-  "https://baahrakhari.com/detail/507063": 1794357647.6104102
+  "https://baahrakhari.com/detail/507063": 1794357647.6104102,
+  "http://english.ratopati.com/story/86253/naresh-bhatt-found-guilty-in-mamta-kafles-murder-case": 1794358249.3239982,
+  "https://nagariknews.nagariknetwork.com/social-affairs/balgopaleshwar-temple-open-since-morning-br-59-69.html": 1794358249.3239982
  },
  "queue": [
-  {
-   "title": "UN Experts Raise Human Rights Concerns Over Developments in Azad Kashmir",
-   "summary": "The latest significant development concerning Azad Jammu and Kashmir (AJK) has come from Geneva. In a communication, six United Nations human rights experts have questioned Pakistan's decision to designate the Joint...",
-   "link": "https://english.khabarhub.com/2026/10/575182/",
-   "source": "Khabarhub EN",
-   "ts": 1794329147,
-   "weight": 2,
-   "img": "https://english.khabarhub.com/wp-content/uploads/2026/11/Ajad-Kashmir-Photobankimages-400x220.png",
-   "lang": "en",
-   "hl": "UN Experts Raise Human Rights Concerns Over Developments in Azad Kashmir",
-   "en": "UN Experts Raise Human Rights Concerns Over Developments in Azad Kashmir",
-   "ne": "UN Experts Raise Human Rights Concerns Over Developments in Azad Kashmir",
-   "imp": 1,
-   "tags": [
-    "Kashmir",
-    "HumanRights"
-   ],
-   "cat": "world",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
   {
    "title": "The Postcard Hotel to enter Nepal with 22-suite Chitwan wildlife retreat",
    "summary": "",
@@ -1355,29 +1332,6 @@
     "NepalRastraBank"
    ],
    "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "US jury finds Naresh Bhatt guilty of murdering wife Mamta Kafle",
-   "summary": "The Virginia jury also convicted Bhatt of concealing and defiling his wife's body, which has never been found. He had claimed she died by suicide before he dismembered and disposed of her remains.",
-   "link": "https://kathmandupost.com/nepali-diaspora/2026/11/11/us-jury-finds-naresh-bhatt-guilty-of-murdering-wife-mamta-kafle",
-   "source": "Kathmandu Post",
-   "ts": 1794341453.581509,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "US jury finds Naresh Bhatt guilty of murdering wife Mamta Kafle",
-   "en": "US jury finds Naresh Bhatt guilty of murdering wife Mamta Kafle",
-   "ne": "US jury finds Naresh Bhatt guilty of murdering wife Mamta Kafle",
-   "imp": 3,
-   "tags": [
-    "MamtaKafle",
-    "NareshBhatt",
-    "USCourt"
-   ],
-   "cat": "crime",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -4488,9 +4442,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "disaster"
+  },
+  {
+   "ts": 1794358278.1556737,
+   "en": "Virginia jury convicts Naresh Bhatt of first-degree murder of wife Mamta Kafle, July 2024 disappearance",
+   "ne": "Virginia jury convicts Naresh Bhatt of first-degree murder of wife Mamta Kafle, July 2024 disappearance",
+   "link": "https://kathmandupost.com/nepali-diaspora/2026/11/11/us-jury-finds-naresh-bhatt-guilty-of-murdering-wife-mamta-kafle",
+   "source": "Kathmandu Post",
+   "n_fb": 1,
+   "n_ig": 0,
+   "brk": false,
+   "cat": "crime"
   }
  ],
- "updated": 1794357650,
+ "updated": 1794358285,
  "pending_since": 1794356450.5653365,
  "fb_blocks": [
   1790350880.4125228,
