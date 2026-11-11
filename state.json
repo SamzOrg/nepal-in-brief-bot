@@ -1,9 +1,5 @@
 {
  "seen": {
-  "https://www.setopati.com/politics/402358": 1794246055.7914658,
-  "https://gorkhapatraonline.com/news/228785": 1794246055.7914658,
-  "https://baahrakhari.com/detail/507004": 1794246055.7914658,
-  "https://www.setopati.com/sports/npl/402359": 1794246055.7914658,
   "https://baahrakhari.com/detail/507005": 1794249072.8963923,
   "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbk9UbERrRUFhZkpPNFpoLTR2Y1FacTBUUjhCOTBKQl9uNE9pbmJMZU5pTGpwak1hNGFXQjBCMGtpR3ZPUkhFb2QyTWhFeE9EbDBLcUVNV1hrMklSc3pDQ01mQzRjOFlJSVBpcW45ZWk5amw0UUdUS3lyYTVwb05LWTJGdVJXampX?oc=5": 1794249072.8963923,
   "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTjdpemlzdVVlcENja05EYlhmald1QlNBQlVzaHN1ZWtDWURiT1QxSFQ2eFBFSTNtdnd2czBOX1RrTmFyaVAxTUt3MkF5WkhxOHhpRlRhdGZjUlA3dDdnV1lNU2M3eWRTSHhaWnZDREVwVXR5ZzdxZURCd0tLU0J6Yllad1Myd3hGUHNEcGhpSHRYYmpPTEthVm83ZTIySWxKWEkwcVhvOUY3UzdDQWZ5bG03MW03cm9kaUdJSDBXYnpzQWh0R0JlcFpR?oc=5": 1794249072.8963923,
@@ -956,29 +952,6 @@
   "https://news.google.com/rss/articles/CBMivAFBVV95cUxNU2NDZzZfdlo2Ui1EQ1lNdTdEbFBsYXhjak42TF83ZHc2MTlQdmctZ3FmczlxQlJ3TnFjSjNzanlwX0pzbFg4YzVrUnRKT05FaXFPb19OQVd5VUlFNi1oSmtxWUNZeklvQnJ4UElxMFZocDNLcjRZZFRwV3Z3b2Jwa0t3UUJrS0NqY0hvSVUtTVBqbVhuU3o2dWpwa2JFLTQ2UWRBMlF5VG9hamd4VXA5NEhCUm5xZlFnd3pzMQ?oc=5": 1794418851.3609014
  },
  "queue": [
-  {
-   "title": "Online Gaming in Nepal: Digital Awareness, Security, and Responsible Participation",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObkRVdjhYUmIwNFZDSEhCdm03X2dyelBQX2gwdHRZU29BUG5ubkpVSU9JVm5QS3ZzZUlWQlBoWjBSMUxKUEFWT3FlSDVlWU9Wam5mQjlWZ3BUb2JYekZITmRtTlNZYnBqQWw1S0huTm5TZDZremdRd2tyMmdsUDF3T3E2Sk5lMFVaTkVzQXBqMUYwT2M2QzVVYXBWbzlxYkNNVUszYQ?oc=5",
-   "source": "Vocal",
-   "ts": 1794390303,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Online Gaming in Nepal: Digital Awareness, Security, and Responsible Participation",
-   "en": "Online Gaming in Nepal: Digital Awareness, Security, and Responsible Participation",
-   "ne": "Online Gaming in Nepal: Digital Awareness, Security, and Responsible Participation",
-   "imp": 2,
-   "tags": [
-    "OnlineGaming",
-    "DigitalSecurity",
-    "Nepal"
-   ],
-   "cat": "tech",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
   {
    "title": "सोनिया गान्धीको आत्मकथाबाट कुन-कुन अंश हटाउन चाहन्थ्यो प्रकाशक, किन तोडियो सम्झौता?",
    "summary": "भारतीय राष्ट्रिय कांग्रेसकी वरिष्ठ नेता सोनिया गान्धीले आफ्नो आत्मकथामा प्रधानमन्त्री नरेन्द्र मोदीको सरकारमाथि एउटा गम्भीर आरोप लगाएकी छन्।",
@@ -5134,8 +5107,8 @@
    "cat": "disaster"
   }
  ],
- "updated": 1794418858,
- "pending_since": 1794418851.3609014,
+ "updated": 1794419456,
+ "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
