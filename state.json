@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://nagariknews.nagariknetwork.com/politics/industry-minister-sah-meets-with-indian-ambassador-dalela-86-62.html": 1794223867.2327452,
   "http://english.ratopati.com/story/86142/chitwan-rhinos-and-kathmandu-gorkhas-clash-live-updates": 1794224451.0340762,
   "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZDdoQS1vQ0NqWDhnNV80eVdWUTBPYWZLZkg1N0plNVpUU3Z6V3BxMFF4bmF1SG43QTBYYXRudFFZaFZvdVppUTcxZmEzYlY2QjNHNThseVVGejRRa3lWZ0dKY3pBSkYzbWdVWmc0bkNrenV5SXJDYWFvSTcyazhWUkxaTmtETnN1WTJUeFZXUWFscldmcGFVbDlqNVE?oc=5": 1794224451.0340762,
   "https://www.ujyaaloonline.com/detail/133340": 1794224451.0340762,
@@ -1044,7 +1043,8 @@
   "http://english.ratopati.com/story/86283/eus-new-rules-against-digital-addiction": 1794396051.2234461,
   "https://www.ujyaaloonline.com/detail/133392": 1794396051.2234461,
   "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTEtwanh1cGU2aGh6LWdDV3ZJVEdjbVB5dm9mb2JmVnZWVDhlRy1PUHZ1blB4T0VXTlFHS3ZqTWQ3emJ3a2VPZ0VKTXVRYkZuQ1ppTzd6VTJPcjM3OFBqdTJVNlBTX2F2bDZmODI2R2YxQkhkenN2Q3htaXU5N3JPUHRFa0EwSUxjb3I4TEdDbVpTaXZ1bnZqRkpPTUNNdWJ5V0ZXcnh6TmY2YmliZmh6TEREMzlPeHhERDhRVmw0YzkzOVF0R29yUFNB?oc=5": 1794396051.2234461,
-  "http://english.ratopati.com/story/86281/singapore-sees-increasing-use-of-robots": 1794396051.2234461
+  "http://english.ratopati.com/story/86281/singapore-sees-increasing-use-of-robots": 1794396051.2234461,
+  "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWmtydHRIZi1rY1J4X05sU0pNWGNRVFJzRzJiWjU4dGFCZVlwaVA0ZjdFN1Z5ZGxfQXVxbldWYlhnb0w4QkRSS1Eyd0JBTDl3a0V6eWFjYUo4NjhLY0lPdzNSVGZYUGxDZUlkX2lmY081UUUtOWRoOVlLZFJSTHVTckFxeVM2TTEzcG11OExDT2RXZFdIVlBwalJRV2dkTzhHb1lySlhn0gGrAUFVX3lxTFB0U1VDbWRmbGdpczh0Sm9oUllINk9xSDhQZVc3SFAtLVNzR3p6M3U2WGJMQmNjVXBSU3ROOFg5YXhKdlJoeWZ0OVRMMGpRNnlTaEMtZGU1andlNGRVY2M2dkJIOWJ0RmNMbTB4OS1zallwcTBMNkgzYkE3SlhiMHdtRFM3Z2pmUm9OOU9fdmdGOVg3Z2ZESVlzRjdQM2tEYXFzS2xMZ0NjMnkxaw?oc=5": 1794396668.2136338
  },
  "queue": [
   {
@@ -1275,29 +1275,6 @@
    ],
    "cat": "society",
    "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "थानीमाई मन्दिरमा एकै दिन भित्रिए ९१ डोली",
-   "summary": "विशेषगरी वर्षका निश्चित महिनाका मङ्गलबार यहाँ लाग्ने भक्तजनको भीड, फूलको डोली र पञ्चैबाजाको गुञ्जनले बसन्तपुर क्षेत्रलाई धार्मिक उत्सवमय बनाउने गरेको छ ।...",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/91-dolis-entered-thanimai-temple-in-a-single-day-27-77.html",
-   "source": "Nagarik News",
-   "ts": 1794367808,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1794367774_ful%20ko%20doli%20photo%20(1).jpg",
-   "lang": "ne",
-   "hl": "थानीमाई मन्दिरमा एकै दिन भित्रिए ९१ डोली",
-   "en": "थानीमाई मन्दिरमा एकै दिन भित्रिए ९१ डोली",
-   "ne": "थानीमाई मन्दिरमा एकै दिन भित्रिए ९१ डोली",
-   "imp": 1,
-   "tags": [
-    "ThanimaiTemple",
-    "Festival",
-    "Doli"
-   ],
-   "cat": "culture",
-   "val": 3,
    "teaser": false,
    "hits": 1
   },
@@ -2396,7 +2373,7 @@
    "cat": "world",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Industry Minister Sah visits India for CII Partnership Summit",
@@ -5516,8 +5493,8 @@
    "cat": "crime"
   }
  ],
- "updated": 1794396057,
- "pending_since": null,
+ "updated": 1794396671,
+ "pending_since": 1794396668.2136338,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
