@@ -1676,29 +1676,6 @@
    "hits": 4
   },
   {
-   "title": "जलवायु वित्त परिचालनको प्रक्रिया अनुमानयोग्य हुनुपर्छः परराष्ट्रमन्त्री खनाल",
-   "summary": "अन्ताल्या (टर्किए), कात्तिक २५ गते । संयुक्त राष्ट्रसङ्घीय जलवायु परिवर्तनसम्बन्धी पक्ष राष्ट्रहरूको ३१ औँ सम्मेलन (कोप-३१) टर्किएको अन्ताल्या सहरमा जारी छ। यही नोभेम्बर ९ देखि २०...",
-   "link": "https://gorkhapatraonline.com/news/228853",
-   "source": "Gorkhapatra",
-   "ts": 1794387969,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/391178/conversions/Sisir-khanal-1-original.jpg",
-   "lang": "ne",
-   "hl": "जलवायु वित्त परिचालनको प्रक्रिया अनुमानयोग्य हुनुपर्छः परराष्ट्रमन्त्री खनाल",
-   "en": "जलवायु वित्त परिचालनको प्रक्रिया अनुमानयोग्य हुनुपर्छः परराष्ट्रमन्त्री खनाल",
-   "ne": "जलवायु वित्त परिचालनको प्रक्रिया अनुमानयोग्य हुनुपर्छः परराष्ट्रमन्त्री खनाल",
-   "imp": 3,
-   "tags": [
-    "ClimateFinance",
-    "Khanaal",
-    "Nepal"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 3
-  },
-  {
    "title": "Digital Entertainment in Nepal: Understanding Online Platforms, Payments, and Responsible Choices",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcVRMd1F6MzlqZS1COGhKc3FjYzR1dTlhV2gtdEZ4Y1NScDZaMnI0OG9RLUFSbk9pUFJ3Q240UFluLWRlM2ZWWVlnUVMtcE5XcTFORmZGOWlnWFIyYzl2X0gxMno1VjlLc2dhcWlWWDE1T3RmdjByLTVwVUxzNVBsUnlGeEFQNFd5dTRoWm9SVFcyWGdIbFlqalBKWDVKODhVd2dtUHVCVmF0S3FmWjVzSTM1dzNZR0dp?oc=5",
@@ -2435,17 +2412,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1793797408.3930578,
-   "en": "PM's Secretariat Cancels Sun Koshi-Marin Diversion Project Contract Amidst Controversy",
-   "ne": "PM's Secretariat Cancels Sun Koshi-Marin Diversion Project Contract Amidst Controversy",
-   "link": "http://english.ratopati.com/story/85662/sunkoshi-marin-contract-cancellation-case-what-happens-if-the-construction-company-goes-to-court",
-   "source": "Ratopati EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "economy"
-  },
   {
    "ts": 1793799659.907886,
    "en": "Investigation Leaks Implicate Officials in Enam Sapkota Case",
@@ -5437,9 +5403,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "sports"
+  },
+  {
+   "ts": 1794402661.6697118,
+   "en": "कोप-३१ मा जलवायु वित्त परिचालनको प्रक्रिया सरल र अनुमानयोग्य हुनुपर्छः परराष्ट्रमन्त्री खनाल",
+   "ne": "कोप-३१ मा जलवायु वित्त परिचालनको प्रक्रिया सरल र अनुमानयोग्य हुनुपर्छः परराष्ट्रमन्त्री खनाल",
+   "link": "https://gorkhapatraonline.com/news/228853",
+   "source": "Gorkhapatra",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "politics"
   }
  ],
- "updated": 1794402094,
+ "updated": 1794402677,
  "pending_since": 1794401450.8639963,
  "fb_blocks": [
   1790350880.4125228,
