@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://risingnepaldaily.com/news/88541": 1794317470.1241894,
   "https://risingnepaldaily.com/news/88542": 1794318050.9150944,
   "https://risingnepaldaily.com/news/88543": 1794318050.9150944,
   "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOR0phbkJ5TXZGTkdzbWlicU5nb0lpczUwSUZXZTJISkl2VDB6TVI4eG1QT252YWNCYXEzZkFSOVpxaTBpU08wQjRjb3A5OW5xU3I4Si1Ca2FNRVNxb2JXSjRHb0hUM1YxeXBmcmJ1Q1FmMVpSSkJqbUF2SEljamJNdTdkc2VZYlpzUjN2d1E3SXpScWMxY0MwU2FSbnlZZ0o3dndsczVDMjhrajg?oc=5": 1794318050.9150944,
@@ -1101,32 +1100,12 @@
   "https://nagariknews.nagariknetwork.com/social-affairs/19-people-died-in-road-accidents-in-24-hours-21-41.html": 1794489055.1798491,
   "https://english.khabarhub.com/2026/12/575369/": 1794489652.7915144,
   "https://risingnepaldaily.com/news/88555": 1794489652.7915144,
-  "https://nagariknews.nagariknetwork.com/social-affairs/bhimphedi-accident-update-all-14-deceased-identified-6-members-of-the-same-family-die-53-90.html": 1794489652.7915144
+  "https://nagariknews.nagariknetwork.com/social-affairs/bhimphedi-accident-update-all-14-deceased-identified-6-members-of-the-same-family-die-53-90.html": 1794489652.7915144,
+  "https://risingnepaldaily.com/news/88558": 1794490272.8741698,
+  "https://risingnepaldaily.com/news/88556": 1794490272.8741698,
+  "https://nagariknews.nagariknetwork.com/social-affairs/nepal-raises-issues-of-climate-related-disasters-and-bridging-the-digital-divide-at-the-world-telecommunication-policy-forum-78-85.html": 1794490272.8741698
  },
  "queue": [
-  {
-   "title": "Police Team Attacked in Pakistan's Khyber Pakhtunkhwa; 10 Security Personnel Dead, 18 Extremists Killed",
-   "summary": "Kohat. An attack occurred on a police team returning after an operation against illegal gold mining in the Kohat district...",
-   "link": "http://english.ratopati.com/story/86328/pakistani-police-returning-from-an-operation-against-illegal-gold-mining-attacked-10-security-personnel-and-18-attackers-killed",
-   "source": "Ratopati EN",
-   "ts": 1794460926,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/c8460780-de3d-11f1-93e1-3b657b665bcfjpg_92uGhnrMpy.webp",
-   "lang": "en",
-   "hl": "Police Team Attacked in Pakistan's Khyber Pakhtunkhwa; 10 Security Personnel Dead, 18 Extremists Killed",
-   "en": "Police Team Attacked in Pakistan's Khyber Pakhtunkhwa; 10 Security Personnel Dead, 18 Extremists Killed",
-   "ne": "Police Team Attacked in Pakistan's Khyber Pakhtunkhwa; 10 Security Personnel Dead, 18 Extremists Killed",
-   "imp": 1,
-   "tags": [
-    "Pakistan",
-    "KhyberPakhtunkhwa",
-    "Terrorism"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
   {
    "title": "सिटी सफारीको ठक्करबाट पैदलयात्रुको मृत्यु",
    "summary": "लीलाराज खड्काझापा, कात्तिक २६ गते । झापाको मेचीनगरमा सिटी सफारीको ठक्करबाट एक पैदलयात्रुकाे मृत्यु भएको छ ।हिजो बुधबार साँझ ६:५० बजे मेचीनगर १५चौधरी चोकस्थित धुलाबारी- चन्द्रगढी सड...",
@@ -3700,7 +3679,7 @@
    "cat": "tech",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "प्रदेश प्रमुखविहीन बन्यो कोशी प्रदेश",
@@ -4134,7 +4113,7 @@
    "cat": "disaster",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "साफ च्याम्पियनसिपको इतिहासमै पहिलोपटक भीएआर प्रयोग हुँदै",
@@ -7350,7 +7329,7 @@
    "cat": "society"
   }
  ],
- "updated": 1794489657,
+ "updated": 1794490296,
  "pending_since": 1794489652.7915144,
  "fb_blocks": [
   1790350880.4125228,
