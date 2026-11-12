@@ -1108,7 +1108,7 @@
   "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQnJGZnpMd1lRMFZ0b0loYTVQeF95Q2hoYnNRTnlKcTh4eGlWbFBWMmxEemZ1cHBNRkFFNEdwR2I2TUpLNGVNazgzNXk2dlEwemphRE9pTmVkbGhDWmw0NENmNEpIaVNjMnlBaU9yc1hDTUE4OTB1MUJSYWdydWg0d0huckFNR3NyckV2MnVZbE5LRG1jN3pxOUlEb3hsZ2J1bTN6V0FTZFRIZw?oc=5": 1794511249.815967,
   "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWXNjbnVlb1dnY01Qd2gtbWZlc1I3Q2tjV3NHSF9VckhZZFVvZVZvSWJ5ODhXUFNzS1V0dUxQNGxNOXVEbkF2RjR1R1BKeUhadW8wQlZoZ3hEV0R6Zm42ZzFDc0FiM0hnUGF3WFJDRkxVQ3NsYzRaQ3Y5STRoVmFReG5EN0RrOFNibXByRHJwQk5kbUo1Z0dSVzZ3aG9SZTRzOVczbkJZeG0zalNuUnc?oc=5": 1794511871.6010134,
   "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeE95Rk1FSFlaekoyQXl5dUkzZW5CYXpFQ3FkTEFRbldqQWt5X0t1bmU5YTQzUGFxOUVZRjRPMUNDYlRnQ1gzVmxranh4aFZmbmh6Ny1iUmRCR2tOWUY4a3BoNnJsVUpJYXduUHZZcHhCblRIeDdkeFYzQkFJUTR3cTJSRjA5VS1iWW8zaNIBmgFBVV95cUxPdmxwdVFtdll0OUVuZFF3eVd6TWpuX3Nkb1BYODYwSF85SElUMXhVV2w4LUg4RkppSjcwaWQ4QmpFWWlibHRkbHlJVzdHN0ZiWGFGbEl3U1FpaFpCZjBaV21zRkhPRzc3bW1XbWlqU3dLSEhIODVKMUZ5eUNfOGlwbTJQNURpdWtra1IwYTZwWlN1b003ZVo5RmJn?oc=5": 1794512451.5284023,
-  "https://english.khabarhub.com/2026/13/575373/": 1794513062.3621829
+  "https://english.khabarhub.com/2026/13/575373/": 1794513104.141329
  },
  "queue": [
   {
@@ -3174,10 +3174,10 @@
    "hl": "The Missing Half of Global Climate Policy",
    "en": "The Missing Half of Global Climate Policy",
    "ne": "The Missing Half of Global Climate Policy",
-   "imp": 1,
+   "imp": 2,
    "tags": [
-    "ClimatePolicy",
-    "Global"
+    "GlobalClimatePolicy",
+    "ClimateChange"
    ],
    "cat": "world",
    "val": 1,
@@ -6179,7 +6179,7 @@
    "cat": "crime"
   }
  ],
- "updated": 1794513070,
+ "updated": 1794513109,
  "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
