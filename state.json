@@ -1,6 +1,5 @@
 {
  "seen": {
-  "http://english.ratopati.com/story/86180/new-years-joy-in-the-newar-community-photos": 1794283279.4580708,
   "https://nagariknews.nagariknetwork.com/politics/ganeshman-singh-s-112th-birth-anniversary-being-celebrated-br-65-92.html": 1794284446.1997054,
   "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcm9mbVBwdW9VOWI0RFNfdnRianVQdVhfcVlnbUludHRMdmhGVFk1aWd6c2VsLTVxZ0xmbTkxeXFodDZab1pLdUZubU5MekIxTnY2b3FEd191TkIwejR0Ujgyemh4dU93VDE2bjFTQXBrbmN6MzFrdW1aWk5ucWdpc1pWX2FjcjZZbnpRazV2dlBBWi03czBRdG4zRDlyazVXU3lHTTNaYjlNbGM?oc=5": 1794284446.1997054,
   "https://english.onlinekhabar.com/more-citizenship-copies-new.html": 1794285066.0358038,
@@ -997,7 +996,11 @@
   "https://theannapurnaexpress.com/story/68688": 1794456078.86513,
   "https://nagariknews.nagariknetwork.com/social-affairs/one-way-operation-along-ghopte-high-vehicle-traffic-br-47-58.html": 1794456078.86513,
   "https://theannapurnaexpress.com/story/68684": 1794456078.86513,
-  "https://nagariknews.nagariknetwork.com/social-affairs/construction-of-manedanda-basic-hospital-at-a-cost-of-48-million-rupees-71-44.html": 1794456078.86513
+  "https://nagariknews.nagariknetwork.com/social-affairs/construction-of-manedanda-basic-hospital-at-a-cost-of-48-million-rupees-71-44.html": 1794456078.86513,
+  "https://baahrakhari.com/detail/507116": 1794456649.773455,
+  "https://kathmandupost.com/national/2026/11/12/nepal-seeks-mountain-specific-early-warning-systems-after-devastating-flood": 1794456649.773455,
+  "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMC1Cc3BxZHRsSGtqdVY3cTdqWHhjRkUxbEpHVTBDQk9zYlVjdDd1MUdVQVdraFBCLWh5ZWNuX0xQMWFrTFppV2tBQ0FDTko0b2hmVFI2UExLZGx3OGxucl9YY0hXRWtfcmhJR2VzZnV6VzlPOVU1bnJuQzRNUTFMV0NqMUhJbkZPaUUyTkd6UDJ0Z1ZvcS1nOW50VkRVUjJXeERCVUpFdW5uOFBYaXY0OVNsVF8yQkhyT0RpR1dR?oc=5": 1794456649.773455,
+  "https://news.google.com/rss/articles/CBMioAFBVV95cUxPd2VKcTJkQ1FEblR5VVJ0ektZNlBZbnRFd01hdTlvaUdONWJXQjFEQVJRZXc0YldyaTd3VDliaDd4S2hya2NQa05FMTJQUms3bVZXV2RrbDdCcDdFdThlVjV4UXFQZnMybzZRYXNHR0pOTGxNejhka21DejVqekwwRW1DWVdWdHczYUdiZDdnOFQwbWplWDQzVkticTUzRmpL?oc=5": 1794456649.773455
  },
  "queue": [
   {
@@ -1774,28 +1777,6 @@
    "hits": 1
   },
   {
-   "title": "डिल्लीबजार कारागारमा रहेका टोपबहादुर रायमाझी रिहा",
-   "summary": "",
-   "link": "https://www.ujyaaloonline.com/detail/133407",
-   "source": "Ujyaalo",
-   "ts": 1794451202,
-   "weight": 2,
-   "img": "https://www.ujyaaloonline.com/uploads/posts/topbahadur_rayamajhi_VgHNBSfTVC.jpg",
-   "lang": "ne",
-   "hl": "डिल्लीबजार कारागारमा रहेका टोपबहादुर रायमाझी रिहा",
-   "en": "डिल्लीबजार कारागारमा रहेका टोपबहादुर रायमाझी रिहा",
-   "ne": "डिल्लीबजार कारागारमा रहेका टोपबहादुर रायमाझी रिहा",
-   "imp": 3,
-   "tags": [
-    "TopBahadurRayamajhi",
-    "Release"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 3
-  },
-  {
    "title": "स्पेनमा आवास संकटविरुद्ध आमहड्ताल, मड्रिड र बार्सिलोनामा व्यापक प्रदर्शन",
    "summary": "",
    "link": "https://baahrakhari.com/detail/507109",
@@ -2536,7 +2517,7 @@
    "cat": "crime",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "As Dashain ends, Chhath devotional songs fill the air",
@@ -2649,6 +2630,29 @@
     "अस्पताल"
    ],
    "cat": "society",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Nepal seeks mountain-specific early warning systems after devastating flood",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMC1Cc3BxZHRsSGtqdVY3cTdqWHhjRkUxbEpHVTBDQk9zYlVjdDd1MUdVQVdraFBCLWh5ZWNuX0xQMWFrTFppV2tBQ0FDTko0b2hmVFI2UExLZGx3OGxucl9YY0hXRWtfcmhJR2VzZnV6VzlPOVU1bnJuQzRNUTFMV0NqMUhJbkZPaUUyTkd6UDJ0Z1ZvcS1nOW50VkRVUjJXeERCVUpFdW5uOFBYaXY0OVNsVF8yQkhyT0RpR1dR?oc=5",
+   "source": "The Kathmandu Post",
+   "ts": 1794456144,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "Nepal seeks mountain-specific early warning systems after devastating flood",
+   "en": "Nepal seeks mountain-specific early warning systems after devastating flood",
+   "ne": "Nepal seeks mountain-specific early warning systems after devastating flood",
+   "imp": 4,
+   "tags": [
+    "Nepal",
+    "EarlyWarningSystem",
+    "Flood"
+   ],
+   "cat": "disaster",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -5657,10 +5661,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "disaster"
+  },
+  {
+   "ts": 1794456658.5902743,
+   "en": "नक्कली भुटानी शरणार्थी प्रकरणका टोपबहादुर रायमाझी डिल्लीबजार कारागारबाट रिहा",
+   "ne": "नक्कली भुटानी शरणार्थी प्रकरणका टोपबहादुर रायमाझी डिल्लीबजार कारागारबाट रिहा",
+   "link": "https://www.ujyaaloonline.com/detail/133407",
+   "source": "Ujyaalo",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "politics"
   }
  ],
- "updated": 1794456085,
- "pending_since": null,
+ "updated": 1794456676,
+ "pending_since": 1794456649.773455,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
