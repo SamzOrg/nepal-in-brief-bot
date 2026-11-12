@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMirwFBVV95cUxQM3lEb3k5Z2FHSE9keElLN00zMV9aeWctMmhBb2pNazU3cDg5RS1aUG10cXVGSHpqckFjNkFMZmtkOUxSMHAzVS1pYm9jbXZWSDlDdFJDTmZOdTY5UEZjeHRDajA3OVpLMEdYRTFFUDJ4WWdwMjBwN0hTQlU1SGhpekNTMnl5dVp0a1d0a3BaSWUzLVdtZDRISmZvQ2pVc1NFM3A1cklZRlRlUVpxcjc0?oc=5": 1794316852.6403701,
-  "https://english.khabarhub.com/2026/10/575186/": 1794316852.6403701,
   "https://risingnepaldaily.com/news/88541": 1794317470.1241894,
   "https://risingnepaldaily.com/news/88542": 1794318050.9150944,
   "https://risingnepaldaily.com/news/88543": 1794318050.9150944,
@@ -1100,30 +1098,12 @@
   "https://nagariknews.nagariknetwork.com/international/dozens-of-garment-factories-in-bangladesh-go-on-strike-80-84.html": 1794489055.1798491,
   "https://nagariknews.nagariknetwork.com/sports/main-news-headline-84-78.html": 1794489055.1798491,
   "https://nagariknews.nagariknetwork.com/politics/what-is-the-congress-doing-two-organizations-two-general-conventions-and-leadership-claims-in-one-party-71-40.html": 1794489055.1798491,
-  "https://nagariknews.nagariknetwork.com/social-affairs/19-people-died-in-road-accidents-in-24-hours-21-41.html": 1794489055.1798491
+  "https://nagariknews.nagariknetwork.com/social-affairs/19-people-died-in-road-accidents-in-24-hours-21-41.html": 1794489055.1798491,
+  "https://english.khabarhub.com/2026/12/575369/": 1794489652.7915144,
+  "https://risingnepaldaily.com/news/88555": 1794489652.7915144,
+  "https://nagariknews.nagariknetwork.com/social-affairs/bhimphedi-accident-update-all-14-deceased-identified-6-members-of-the-same-family-die-53-90.html": 1794489652.7915144
  },
  "queue": [
-  {
-   "title": "बिर्सने रोग 'डिमेन्सिया' पहिचानका लागि बेलायतमा एआई परियोजना",
-   "summary": "",
-   "link": "https://www.ujyaaloonline.com/detail/133412",
-   "source": "Ujyaalo",
-   "ts": 1794460276,
-   "weight": 2,
-   "img": "https://www.ujyaaloonline.com/uploads/posts/ai-artificial-intelligence-1784635490.jpg",
-   "lang": "ne",
-   "hl": "बिर्सने रोग 'डिमेन्सिया' पहिचानका लागि बेलायतमा एआई परियोजना",
-   "en": "बिर्सने रोग 'डिमेन्सिया' पहिचानका लागि बेलायतमा एआई परियोजना",
-   "ne": "बिर्सने रोग 'डिमेन्सिया' पहिचानका लागि बेलायतमा एआई परियोजना",
-   "imp": 2,
-   "tags": [
-    "Dementia"
-   ],
-   "cat": "health",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
   {
    "title": "Police Team Attacked in Pakistan's Khyber Pakhtunkhwa; 10 Security Personnel Dead, 18 Extremists Killed",
    "summary": "Kohat. An attack occurred on a police team returning after an operation against illegal gold mining in the Kohat district...",
@@ -1144,29 +1124,6 @@
    ],
    "cat": "world",
    "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Krishna Bhattarai: From Struggle to Entrepreneurship and Social Media Influence",
-   "summary": "Butwal. Krishna Bhattarai, born into a simple farming family in Saina-11, Saljhandi, Rupandehi, experienced a childhood of deprivation and struggle....",
-   "link": "http://english.ratopati.com/story/86320/krishna-who-has-worked-in-nepal-and-india-is-settling-into-entrepreneurship-in-dubai",
-   "source": "Ratopati EN",
-   "ts": 1794460500,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/krishna-bhattarai_xtsUDS2k26.webp",
-   "lang": "en",
-   "hl": "Krishna Bhattarai: From Struggle to Entrepreneurship and Social Media Influence",
-   "en": "Krishna Bhattarai: From Struggle to Entrepreneurship and Social Media Influence",
-   "ne": "Krishna Bhattarai: From Struggle to Entrepreneurship and Social Media Influence",
-   "imp": 1,
-   "tags": [
-    "KrishnaBhattarai",
-    "Entrepreneurship",
-    "SocialMedia"
-   ],
-   "cat": "other",
-   "val": 2,
    "teaser": false,
    "hits": 1
   },
@@ -2471,7 +2428,7 @@
    "cat": "politics",
    "val": 2,
    "teaser": false,
-   "hits": 3
+   "hits": 4
   },
   {
    "title": "Health Minister Nisha Mehta Returns Home After BIMSTEC Meeting",
@@ -3720,7 +3677,7 @@
    "cat": "crime",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Minister Timilsina Calls for International Cooperation on Digital Transformation and Climate Resilience",
@@ -4385,20 +4342,32 @@
    "val": 3,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "भीमफेदी दुर्घटना अपडेट: मृतक सबै १४ जनाको पहिचान खुल्यो, एकै परिवारका ६ जनाको मृ'त्यु",
+   "summary": "दुर्घटनामा एकै परिवारका ६ जनासहित १४ जनाले ज्यान गुमाएका छन्। मृत्यु हुनेमा आठ महिनाकी गर्भवती महिलासमेत रहेकी छन्।...",
+   "link": "https://nagariknews.nagariknetwork.com/social-affairs/bhimphedi-accident-update-all-14-deceased-identified-6-members-of-the-same-family-die-53-90.html",
+   "source": "Nagarik News",
+   "ts": 1794489348,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2026/third-party/1794465511_gadi%20pahichan%2098.jpg",
+   "lang": "ne",
+   "hl": "भीमफेदी दुर्घटना अपडेट: मृतक सबै १४ जनाको पहिचान खुल्यो, एकै परिवारका ६ जनाको मृ'त्यु",
+   "en": "भीमफेदी दुर्घटना अपडेट: मृतक सबै १४ जनाको पहिचान खुल्यो, एकै परिवारका ६ जनाको मृ'त्यु",
+   "ne": "भीमफेदी दुर्घटना अपडेट: मृतक सबै १४ जनाको पहिचान खुल्यो, एकै परिवारका ६ जनाको मृ'त्यु",
+   "imp": 4,
+   "tags": [
+    "Bhedifedi",
+    "Accident",
+    "दुर्घटना"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1793884851.419959,
-   "en": "Finance Minister Swarnim Wagle says Nepal Infrastructure Summit will break from past practices and push reforms",
-   "ne": "Finance Minister Swarnim Wagle says Nepal Infrastructure Summit will break from past practices and push reforms",
-   "link": "https://english.khabarhub.com/2026/05/574617/",
-   "source": "Khabarhub EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "economy"
-  },
   {
    "ts": 1793886674.129025,
    "en": "Nepal and Bhutan propose making climate risks in mountain regions a key agenda at COP31",
@@ -7381,8 +7350,8 @@
    "cat": "society"
   }
  ],
- "updated": 1794489077,
- "pending_since": null,
+ "updated": 1794489657,
+ "pending_since": 1794489652.7915144,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
