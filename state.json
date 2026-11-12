@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9qbFpraF9CYmkweDllZDJMN0NSNko5ajR1VFZpcHRxTXBpREJnYnpldlZQdUVYdF9yem4zZUZHOG1DdWtfaVg0cDRZblIwQkR5ekUtN2thZlpRSzZ6endvZ2tR?oc=5": 1794276652.9255278,
-  "https://kathmandupost.com/cricket/2026/11/10/janakpur-face-must-win-test-against-sudurpaschim-in-npl": 1794276652.9255278,
   "https://english.khabarhub.com/2026/10/575106/": 1794277246.994411,
   "https://nagariknews.nagariknetwork.com/social-affairs/nepal-stresses-need-to-increase-access-to-adaptation-finance-for-climate-resilience-in-mountainous-areas-br-12-25.html": 1794277246.994411,
   "https://nagariknews.nagariknetwork.com/politics/minister-of-communications-dr-timilsina-participates-in-itu-conference-meets-with-counterparts-from-various-countries-br-88-90.html": 1794277246.994411,
@@ -970,7 +968,8 @@
   "https://nagariknews.nagariknetwork.com/social-affairs/road-drinking-water-and-irrigation-projects-completed-in-bhimad-within-a-year-br-66-30.html": 1794448882.21264,
   "http://english.ratopati.com/story/86309/ramayana-earns-aggressively-at-the-box-office-crosses-rs-500-crore-in-india": 1794448882.21264,
   "https://nagariknews.nagariknetwork.com/social-affairs/road-repair-by-donating-labor-br-56-91.html": 1794448882.21264,
-  "http://english.ratopati.com/story/86308/tigers-car-shooting-case-remand-of-five-accused-extended": 1794448882.21264
+  "http://english.ratopati.com/story/86308/tigers-car-shooting-case-remand-of-five-accused-extended": 1794448882.21264,
+  "https://www.setopati.com/social/402413": 1794449453.5489564
  },
  "queue": [
   {
@@ -1470,7 +1469,7 @@
    "cat": "economy",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Iran's Speaker: Strait of Hormuz Will Never Return to Pre-War State",
@@ -1816,17 +1815,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1793844149.6556082,
-   "en": "Jeep Accident in Baitadi Leaves One Dead and Six Injured",
-   "ne": "Jeep Accident in Baitadi Leaves One Dead and Six Injured",
-   "link": "https://english.khabarhub.com/2026/05/574521/",
-   "source": "Khabarhub EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": true,
-   "cat": "disaster"
-  },
   {
    "ts": 1793845259.5930521,
    "en": "Nepal government removes police chief Dan Bahadur Karki and appoints him adviser",
@@ -4831,8 +4819,8 @@
    "cat": "sports"
   }
  ],
- "updated": 1794448900,
- "pending_since": null,
+ "updated": 1794449458,
+ "pending_since": 1794449453.5489564,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
