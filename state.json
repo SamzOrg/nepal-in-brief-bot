@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMingFBVV95cUxPcW1DZlgtc3haRjg5NUg4aF90NmpnVjJuR2thRnRMX0pVTHdoLUY4SlpGQkFtb0VBS1pQdHpHVFJvX192Y1V5NldJUkg2QU96UWlwcVdMWmFQNTFHOVdjb3JMN18xMld3Y19wTlIyNEo5SzNUM1ZOQXEzcEJXbVNyUTdjNVZJeGpLTDhXWEtfUHl4Y0xlaTM3d0RpUkNzUdIBVkFVX3lxTFBxMlhvMkMwem54WVRsU3JscmdZaERLd2tOQW9SdlFHZTBGVEVJOHpkMWw2NV9XRTEtWjREQTYxQm4zdEhHSG5MMV9raXg2WE9qdldEd1dB?oc=5": 1794322254.250529,
   "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQ3I2a2RTbWpEZGtveVNpMEw0UThsMEVMLUkzc19Gby1QRlRudWJVT2Zkby1lUmRBaVo1S2R1TGZ5TVVmQXNxWDF4dWo1U2RNdFJvSHBLX1FCOUtwUmZnQS1pYnFRSUd3dmpkN3laam5SYUh0SjgyMVVWSU1qeDFVTw?oc=5": 1794322902.933195,
   "http://english.ratopati.com/story/86238/janakpurs-shameful-defeat-to-sudur": 1794322902.933195,
   "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONDJXNm9fRV9JcGdVRFlDcVNZYjFId2lUTWs5MFVXNmlYN2R4ZDg3YXlCTWNLQkIwb3FrU1I3dzNEVXZHVjVpNFVRZE0zSHlLSzhpRTFOWTl4aDFZenFOcDRzQm5uZnNYYzVFcmJDUVl0dXBTdDJELU92V0Z2cmZ4UnpKQ21DT3dDVV92NXNhUDFrdlR2OFlJYU1xUTFKWXVEMXczMVZaQWNSVURPaHVYeUxNdjdkNWNyanNfOGJNU3oxdTNhNi1Oa2pQbXp3b1lzU05YT0NXdw?oc=5": 1794322902.933195,
@@ -1107,32 +1106,12 @@
   "https://nagariknews.nagariknetwork.com/politics/nepal-demands-grant-based-climate-finance-for-himalayan-countries-30-41.html": 1794494453.516923,
   "https://english.onlinekhabar.com/nvidia-ceo-jensen-huang-resign.html": 1794495052.7606027,
   "https://news.google.com/rss/articles/CBMigwFBVV95cUxONm5ydnQwTG1wSDJWZENsdnE2eVIxTzhQU3ZUY0JiRmJWTE9MQTZpOGphNkRuWjZXX1BtM1dNV2RZZC1GdlhCV2dQeUdsM0RLdTN6bmlvOGpYNzB1QkIteTRLZzdfUWJhRlY5NU9NSHZtNlNlME1vYjdWS1Q4cTdBM2lCOA?oc=5": 1794495052.7606027,
-  "http://english.ratopati.com/story/86372/newyork": 1794495052.7606027
+  "http://english.ratopati.com/story/86372/newyork": 1794495052.7606027,
+  "https://kathmandupost.com/cricket/2026/11/12/lumbini-lions-seal-playoff-spot-as-karnali-yaks-suffer-fourth-straight-defeat": 1794495687.0545883,
+  "https://kathmandupost.com/world/2026/11/12/nvidia-ceo-jensen-huang-resigns-in-big-blow-to-ai-boom": 1794495687.0545883,
+  "https://nagariknews.nagariknetwork.com/social-affairs/scooter-driver-dies-after-being-hit-by-tipper-54-43.html": 1794495687.0545883
  },
  "queue": [
-  {
-   "title": "न्युयोर्कमा भवन भत्कँदा दुईजनाको मृत्यु, १७ घाइते",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/507130",
-   "source": "Baahrakhari",
-   "ts": 1794466869,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "न्युयोर्कमा भवन भत्कँदा दुईजनाको मृत्यु, १७ घाइते",
-   "en": "न्युयोर्कमा भवन भत्कँदा दुईजनाको मृत्यु, १७ घाइते",
-   "ne": "न्युयोर्कमा भवन भत्कँदा दुईजनाको मृत्यु, १७ घाइते",
-   "imp": 1,
-   "tags": [
-    "NewYork",
-    "BuildingCollapse",
-    "USA"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
   {
    "title": "‍मोटरसाइकलको ठक्करबाट दुई जनाको मृत्यु",
    "summary": "",
@@ -1310,29 +1289,6 @@
    ],
    "cat": "culture",
    "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "GIS Model Maps Sustainable Urban Growth in Nepal",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB4UDRmcnNtN0QzbzdvcVI3M1lRZDBMdzRpV1Z3Y1AtbmFFMzZiVWVYVWo4TlFNblJ1VUNfZjhhbHQ2bmp6QnY4N1pweno5dmhlQXhxQjhveWFQUlh2cEowMVZZbHdKekdFSFpHX0FZQl9aYjFtX2ktSWFnN3pvUQ?oc=5",
-   "source": "Bioengineer.org",
-   "ts": 1794466847,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "GIS Model Maps Sustainable Urban Growth in Nepal",
-   "en": "GIS Model Maps Sustainable Urban Growth in Nepal",
-   "ne": "GIS Model Maps Sustainable Urban Growth in Nepal",
-   "imp": 3,
-   "tags": [
-    "GIS",
-    "UrbanGrowth",
-    "Nepal"
-   ],
-   "cat": "tech",
-   "val": 3,
    "teaser": false,
    "hits": 1
   },
@@ -1703,28 +1659,6 @@
    "val": 3,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "Strait of Hormuz will \"never return\" to pre-war status: Ghalibaf says \"ball in US court\" on peace talks",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVl9iLVhJVWNabC02NUNSVjJiVTZ0MkpfbnprNVBBZ29zeC14M1VqSWJONi03VEMwY25aX0hhZ0NNOU1JLWRhMndEZUZxdW5Ca1UtOVN5aFR5c0plTnZDcXhxVDNneng3TmZnd2tfVEYzVkVpY0xZbWItQ25HcEJwRmpyNG5qdVNjNF83NWpfSEZzVW54WkdZUnppZW90NHJ0Yjg1dF9pbE10Y0lBVW1ZMklBb0J4WW00cEw0N2RxZkJoaFZWX1NTTUFn?oc=5",
-   "source": "myRepublica",
-   "ts": 1794466459,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Strait of Hormuz will \"never return\" to pre-war status: Ghalibaf says \"ball in US court\" on peace talks",
-   "en": "Strait of Hormuz will \"never return\" to pre-war status: Ghalibaf says \"ball in US court\" on peace talks",
-   "ne": "Strait of Hormuz will \"never return\" to pre-war status: Ghalibaf says \"ball in US court\" on peace talks",
-   "imp": 1,
-   "tags": [
-    "StraitOfHormuz",
-    "Iran"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "Opinion | Nepal's calendar gives Chhath one day. The festival takes five",
@@ -2370,52 +2304,6 @@
    ],
    "cat": "health",
    "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "COP31: Net-Zero Recognition Framework launched to spotlight non-State actors' leadership",
-   "summary": "UN Climate Change launched the Net-Zero Recognition Framework (NZRF) today at COP31. Designed to recognize climate leadership by non-State actors and strengthen transparency around their diverse net-zero journeys, the...",
-   "link": "https://theannapurnaexpress.com/story/68703",
-   "source": "Annapurna Express",
-   "ts": 1794466256.8423483,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "COP31: Net-Zero Recognition Framework launched to spotlight non-State actors' leadership",
-   "en": "COP31: Net-Zero Recognition Framework launched to spotlight non-State actors' leadership",
-   "ne": "COP31: Net-Zero Recognition Framework launched to spotlight non-State actors' leadership",
-   "imp": 1,
-   "tags": [
-    "COP31",
-    "NetZero",
-    "Climate"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Shangri-La Literature Festival to Celebrate Literature and Arts in Lalitpur on December 26 & 27",
-   "summary": "LALITPUR, NEPAL - The inaugural edition of the Shangri-La Literature Festival is set to take place on December 26 and 27, 2026, at Hotel Himalaya, Lalitpur, bringing together literature, arts and performance in a...",
-   "link": "https://theannapurnaexpress.com/story/68702",
-   "source": "Annapurna Express",
-   "ts": 1794466256.8423483,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Shangri-La Literature Festival to Celebrate Literature and Arts in Lalitpur on December 26 & 27",
-   "en": "Shangri-La Literature Festival to Celebrate Literature and Arts in Lalitpur on December 26 & 27",
-   "ne": "Shangri-La Literature Festival to Celebrate Literature and Arts in Lalitpur on December 26 & 27",
-   "imp": 2,
-   "tags": [
-    "LiteratureFestival",
-    "Lalitpur",
-    "ShangriLa"
-   ],
-   "cat": "culture",
-   "val": 3,
    "teaser": false,
    "hits": 1
   },
@@ -3843,7 +3731,7 @@
    "cat": "sports",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Scooter Driver Dies in Tipper Collision in Janakpurdham",
@@ -3909,7 +3797,7 @@
    "cat": "tech",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "लुम्बिनी प्लेअफमा पुग्ने पहिलो टोली, कर्णालीको यात्रा कठिन",
@@ -4261,20 +4149,32 @@
    "val": 3,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "धनुषामा टिपरको ठक्करबाट स्कुटर चालकको मृत्यु",
+   "summary": "धनुषाको जनकपुरधाम उपमहानगरपालिका-१३ स्थित पिडारीचोकमा आज टिपरको ठक्करबाट स्कुटर चालकको मृत्यु भएको छ।...",
+   "link": "https://nagariknews.nagariknetwork.com/social-affairs/scooter-driver-dies-after-being-hit-by-tipper-54-43.html",
+   "source": "Nagarik News",
+   "ts": 1794495353,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2025/third-party/1754835464_tipper.jpg",
+   "lang": "ne",
+   "hl": "धनुषामा टिपरको ठक्करबाट स्कुटर चालकको मृत्यु",
+   "en": "धनुषामा टिपरको ठक्करबाट स्कुटर चालकको मृत्यु",
+   "ne": "धनुषामा टिपरको ठक्करबाट स्कुटर चालकको मृत्यु",
+   "imp": 3,
+   "tags": [
+    "Dhanusha",
+    "Accident",
+    "धनुषा"
+   ],
+   "cat": "crime",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1793890260.163031,
-   "en": "Nepal Supreme Court orders regulated cannabis cultivation for medicinal, scientific and industrial use",
-   "ne": "Nepal Supreme Court orders regulated cannabis cultivation for medicinal, scientific and industrial use",
-   "link": "https://today.rtl.lu/news/world/nepal-court-gives-green-light-to-controlled-cannabis-cultivation-1678342935",
-   "source": "RTL Today",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "politics"
-  },
   {
    "ts": 1793892064.0221004,
    "en": "Government launches winter cold wave and snowfall mitigation preparations across Nepal, citing health and transport risks",
@@ -7257,7 +7157,7 @@
    "cat": "world"
   }
  ],
- "updated": 1794495056,
+ "updated": 1794495691,
  "pending_since": 1794495052.7606027,
  "fb_blocks": [
   1790350880.4125228,
