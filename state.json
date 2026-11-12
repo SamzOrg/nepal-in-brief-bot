@@ -1038,7 +1038,11 @@
   "https://nagariknews.nagariknetwork.com/Aparadh/prisoner-escapes-after-tricking-security-personnel-could-not-hide-for-long-28-37.html": 1794477685.5095217,
   "http://english.ratopati.com/story/86354/8-contracts-for-rural-roads-from-ministers-residence-to-the-final-stage-of-contract-termination-with-list": 1794477685.5095217,
   "https://nagariknews.nagariknetwork.com/social-affairs/prisoner-who-escaped-from-birgunj-jail-arrested-from-border-area-within-5-hours-10-41.html": 1794477685.5095217,
-  "https://nagariknews.nagariknetwork.com/sports/chasing-pokhara-s-target-of-133-runs-biratnagar-lost-2-wickets-in-the-powerplay-lokesh-and-bashir-were-at-the-crease-72-79.html": 1794477685.5095217
+  "https://nagariknews.nagariknetwork.com/sports/chasing-pokhara-s-target-of-133-runs-biratnagar-lost-2-wickets-in-the-powerplay-lokesh-and-bashir-were-at-the-crease-72-79.html": 1794477685.5095217,
+  "https://www.setopati.com/social/402440": 1794478257.6526875,
+  "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOHZlSFhkR2ZPMzBsbWJ5MU1Ua2k0Mk5vZV9vTWM0d0tpcnhyd2NIeEgyZlYzeS1IVzdLaUhySlNpZ3dVb1pZT0dMdDRkSGFCUnVJb0oxbnZyOGg3VGRLd1ZNelNBUHQ4SnU3RXg1R2lNNFkxdE45OXVyWURSQ1UwNXhzTnFzUzNtTGRQZVctRW83YTgtbU1KME5OZXUzUlBC?oc=5": 1794478257.6526875,
+  "https://theannapurnaexpress.com/story/68701": 1794478257.6526875,
+  "https://kathmandupost.com/national/2026/11/12/11-of-13-killed-in-makawanpur-microbus-crash-identified": 1794478257.6526875
  },
  "queue": [
   {
@@ -3386,7 +3390,7 @@
    "cat": "politics",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "A journey home for Chhath turns deadly",
@@ -3592,29 +3596,6 @@
    ],
    "cat": "society",
    "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Opposition Parties Prepare for Protests Against Government",
-   "summary": "Kathmandu. Opposition parties preparing to form a front against the government on national issues have not yet made a concrete...",
-   "link": "http://english.ratopati.com/story/86332/uml-ready-to-protest-against-the-government-ncp-in-confusion",
-   "source": "Ratopati EN",
-   "ts": 1794474900,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/prachanda-kp_1KK8fLabAo.jpg",
-   "lang": "en",
-   "hl": "Opposition Parties Prepare for Protests Against Government",
-   "en": "Opposition Parties Prepare for Protests Against Government",
-   "ne": "Opposition Parties Prepare for Protests Against Government",
-   "imp": 4,
-   "tags": [
-    "Opposition",
-    "Protest",
-    "Government"
-   ],
-   "cat": "politics",
-   "val": 2,
    "teaser": false,
    "hits": 1
   },
@@ -4013,6 +3994,29 @@
    "val": 3,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "14 killed, 6 injured as electric vehicle plunges off road in MakwanpurIll-fated vehicle",
+   "summary": "MAKWANPUR: The death toll from Thursday morning's electric vehicle (EV) crash in Bhimphedi Rural Municipality-6, Makwanpur, has risen to 14, while six others were injured, Armed Police said. According to authorities,...",
+   "link": "https://theannapurnaexpress.com/story/68701",
+   "source": "Annapurna Express",
+   "ts": 1794463858.8879385,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "14 killed, 6 injured as electric vehicle plunges off road in MakwanpurIll-fated vehicle",
+   "en": "14 killed, 6 injured as electric vehicle plunges off road in MakwanpurIll-fated vehicle",
+   "ne": "14 killed, 6 injured as electric vehicle plunges off road in MakwanpurIll-fated vehicle",
+   "imp": 4,
+   "tags": [
+    "Makwanpur",
+    "RoadAccident",
+    "सवारीदुर्घटना"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 2
   }
  ],
  "posted": [
@@ -6996,10 +7000,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "disaster"
+  },
+  {
+   "ts": 1794478270.9105666,
+   "en": "Opposition parties in Nepal prepare for potential street protests against government",
+   "ne": "Opposition parties in Nepal prepare for potential street protests against government",
+   "link": "http://english.ratopati.com/story/86332/uml-ready-to-protest-against-the-government-ncp-in-confusion",
+   "source": "Ratopati EN",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "politics"
   }
  ],
- "updated": 1794477693,
- "pending_since": null,
+ "updated": 1794478286,
+ "pending_since": 1794478257.6526875,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
