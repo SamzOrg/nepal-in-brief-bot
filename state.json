@@ -1115,28 +1115,6 @@
  },
  "queue": [
   {
-   "title": "सर्टको विस्फोटक इनिङ, लुम्बिनी जितनजिक",
-   "summary": "कीर्तिपुरस्थित त्रिवि क्रिकेट मैदानमा जारी नेपाल प्रिमियर लिग (एनपीएल) अन्तर्गत बिहीबारको दोस्रो खेलमा १०६ रनको सामान्य लक्ष्य पछ्याइरहेको लुम्बिनी लायन्स जितनजिक पुगेको छ।...",
-   "link": "https://nagariknews.nagariknetwork.com/sports/short-s-explosive-innings-brings-lumbini-close-to-victory-69-63.html",
-   "source": "Nagarik News",
-   "ts": 1794492471,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1794492286_lum.png",
-   "lang": "ne",
-   "hl": "सर्टको विस्फोटक इनिङ, लुम्बिनी जितनजिक",
-   "en": "सर्टको विस्फोटक इनिङ, लुम्बिनी जितनजिक",
-   "ne": "सर्टको विस्फोटक इनिङ, लुम्बिनी जितनजिक",
-   "imp": 2,
-   "tags": [
-    "Cricket",
-    "Lumbini"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Lumbini Lions beat Karnali Yaks by four wickets",
    "summary": "Kathmandu, November 12 Lumbini Lions defeated Karnali Yaks by four wickets in the Nepal Premier League (NPL), chasing down a target of 106 runs with 20 balls to spare. Chasing a modest target of 106, Lumbini reached 107...",
    "link": "https://english.onlinekhabar.com/lumbini-lions-beat-karnali-yaks-by-four-wickets.html",
@@ -1308,28 +1286,6 @@
     "Poudel"
    ],
    "cat": "politics",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "तलब विवादले जर्मनीको अटोमोबाइल र स्टिल उद्योगमा २४ घण्टे हडताल",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/507163",
-   "source": "Baahrakhari",
-   "ts": 1794492115,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "तलब विवादले जर्मनीको अटोमोबाइल र स्टिल उद्योगमा २४ घण्टे हडताल",
-   "en": "तलब विवादले जर्मनीको अटोमोबाइल र स्टिल उद्योगमा २४ घण्टे हडताल",
-   "ne": "तलब विवादले जर्मनीको अटोमोबाइल र स्टिल उद्योगमा २४ घण्टे हडताल",
-   "imp": 1,
-   "tags": [
-    "Germany",
-    "AutoIndustry"
-   ],
-   "cat": "world",
    "val": 2,
    "teaser": false,
    "hits": 1
@@ -5227,8 +5183,8 @@
    "cat": "crime"
   }
  ],
- "updated": 1794520889,
- "pending_since": 1794520882.9818945,
+ "updated": 1794521455,
+ "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
