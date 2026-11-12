@@ -1,6 +1,5 @@
 {
  "seen": {
-  "http://english.ratopati.com/story/86179/what-did-prime-minister-balen-say-while-wishing-nepal-samvat": 1794277866.1963193,
   "https://www.ujyaaloonline.com/detail/133353": 1794278450.4790769,
   "https://english.khabarhub.com/2026/10/575133/": 1794279047.2233024,
   "https://news.google.com/rss/articles/CBMikAFBVV95cUxQV1B1RFMtMjlSLThtbUQ0VjlNeHQtRTA3c3ZnREU5V2o4b2R5VDItZlVvR2taUlN1UUFLOEsycXdjQ0V4bkVseGkxWW80S1NPU1FEUnBscXgtWllmemFvRXNQVWtzTDRCcF9sazE4MFViTUJjc19Cc20wY1hwTzIwRkN4dU5zWXIyRVlTUnpaR2M?oc=5": 1794279684.3140175,
@@ -946,7 +945,8 @@
   "http://english.ratopati.com/story/86309/ramayana-earns-aggressively-at-the-box-office-crosses-rs-500-crore-in-india": 1794448882.21264,
   "https://nagariknews.nagariknetwork.com/social-affairs/road-repair-by-donating-labor-br-56-91.html": 1794448882.21264,
   "http://english.ratopati.com/story/86308/tigers-car-shooting-case-remand-of-five-accused-extended": 1794448882.21264,
-  "https://www.setopati.com/social/402413": 1794449453.5489564
+  "https://www.setopati.com/social/402413": 1794449453.5489564,
+  "https://english.khabarhub.com/2026/12/575266/": 1794450668.7488902
  },
  "queue": [
   {
@@ -1538,28 +1538,6 @@
    "hits": 1
   },
   {
-   "title": "'जलवायु सङ्कटले विश्वको तयारी र प्रतिकार्य क्षमतालाई उछिन्दै'",
-   "summary": "संयुक्त राष्ट्रसङ्घका महासचिव एन्टोनियो गुटेरेसले जलवायु सङ्कट विश्वको तयारी र प्रतिकार्य क्षमताभन्दा तीव्र गतिमा बढिरहेको उल्लेख गर्दै हरितगृह ग्यास उत्सर्जन कटौती र जलवायु कार्यलाई तीव्रता दिन विश्व नेताहरूलाई आग्रह...",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/climate-crisis-surpasses-world-s-preparedness-and-response-capacity-br-44-31.html",
-   "source": "Nagarik News",
-   "ts": 1794444334,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1794444387_Antoniyo%20n.jpg",
-   "lang": "ne",
-   "hl": "'जलवायु सङ्कटले विश्वको तयारी र प्रतिकार्य क्षमतालाई उछिन्दै'",
-   "en": "'जलवायु सङ्कटले विश्वको तयारी र प्रतिकार्य क्षमतालाई उछिन्दै'",
-   "ne": "'जलवायु सङ्कटले विश्वको तयारी र प्रतिकार्य क्षमतालाई उछिन्दै'",
-   "imp": 3,
-   "tags": [
-    "ClimateCrisis",
-    "Global"
-   ],
-   "cat": "environment",
-   "val": 2,
-   "teaser": true,
-   "hits": 1
-  },
-  {
    "title": "Indian Cricketer Arshdeep Singh Engages to Girlfriend Samreen Kaur",
    "summary": "New Delhi. Indian cricket team's star fast bowler Arshdeep Singh has got engaged to his girlfriend Samreen Kaur.'Life partner forever'...",
    "link": "http://english.ratopati.com/story/86304/cricketer-arshdeep-singh-gets-engaged-to-girlfriend-samreen-kaur-photos-go-viral",
@@ -1792,17 +1770,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1793845259.5930521,
-   "en": "Nepal government removes police chief Dan Bahadur Karki and appoints him adviser",
-   "ne": "Nepal government removes police chief Dan Bahadur Karki and appoints him adviser",
-   "link": "https://ua.news/en/dovkolo-svitu/uriad-nepalu-usunuv-glavu-politsiyi-ta-priznachiv-iogo-radnikom-kathmandu-post",
-   "source": "UA.NEWS",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "politics"
-  },
   {
    "ts": 1793847077.8111355,
    "en": "रूपन्देहीमा महिलाको हत्या आरोपमा चार जना पक्राउ",
@@ -4794,9 +4761,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "sports"
+  },
+  {
+   "ts": 1794450674.490874,
+   "en": "जलवायु सङ्कट विश्वको तयारीभन्दा तीव्र गतिमा बढिरहेको छ: महासचिव गुटेरेस",
+   "ne": "जलवायु सङ्कट विश्वको तयारीभन्दा तीव्र गतिमा बढिरहेको छ: महासचिव गुटेरेस",
+   "link": "https://nagariknews.nagariknetwork.com/social-affairs/climate-crisis-surpasses-world-s-preparedness-and-response-capacity-br-44-31.html",
+   "source": "Nagarik News",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "environment"
   }
  ],
- "updated": 1794450053,
+ "updated": 1794450683,
  "pending_since": 1794449453.5489564,
  "fb_blocks": [
   1790350880.4125228,
