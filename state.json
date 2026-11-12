@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSWp3Ri1pYnJDLTk3YmlReDcyTlpfYmRKM0R3cjJXNzFIdzR4REZMRXJJRmRqXzBETEpFSElnT3BrVTk3UzVVVFhONkZYM25zM3YtT3RIeEpjSG9XTzRsNlN0Z21ySklrb2s2QjA3RTRfR0R1aHZDU2Q5cGVpSEZxV3ZzbVpzcDVja3AyZGQ1TjhkdEs3cVdFR2JfZDNzYnhTYTlFWVFKcHpNWFE?oc=5": 1794286250.6974764,
   "https://risingnepaldaily.com/news/88534": 1794286885.0874252,
   "https://gorkhapatraonline.com/news/228794": 1794287452.0020697,
   "https://risingnepaldaily.com/news/88535": 1794287452.0020697,
@@ -1007,7 +1006,8 @@
   "https://nagariknews.nagariknetwork.com/social-affairs/hail-damage-to-bhojpur-farmers-ripe-rice-crop-77-13.html": 1794459050.0033085,
   "http://english.ratopati.com/story/86319/two-women-arrested-for-allegedly-performing-obscene-dance-in-deusi-bhailo": 1794459050.0033085,
   "https://nagariknews.nagariknetwork.com/international/stolen-children-reunited-with-mother-after-four-decades-64-71.html": 1794459050.0033085,
-  "https://nagariknews.nagariknetwork.com/politics/nepal-is-committed-to-bringing-climate-finance-to-local-communities-minister-chaudhary-br-57-37.html": 1794459050.0033085
+  "https://nagariknews.nagariknetwork.com/politics/nepal-is-committed-to-bringing-climate-finance-to-local-communities-minister-chaudhary-br-57-37.html": 1794459050.0033085,
+  "http://english.ratopati.com/story/86324/at-least-two-dead-seven-children-among-19-injured-in-new-york-building-collapse": 1794459682.3224866
  },
  "queue": [
   {
@@ -2827,20 +2827,31 @@
    "val": 2,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "Building Collapse in New York City Kills Two, Injures 19",
+   "summary": "New York. City officials said at least two people died when a three-story building collapsed in New York City on...",
+   "link": "http://english.ratopati.com/story/86324/at-least-two-dead-seven-children-among-19-injured-in-new-york-building-collapse",
+   "source": "Ratopati EN",
+   "ts": 1794458990,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/c-ap26315815126513_jBk1xONBPH.webp",
+   "lang": "en",
+   "hl": "Building Collapse in New York City Kills Two, Injures 19",
+   "en": "Building Collapse in New York City Kills Two, Injures 19",
+   "ne": "Building Collapse in New York City Kills Two, Injures 19",
+   "imp": 1,
+   "tags": [
+    "NewYork",
+    "BuildingCollapse"
+   ],
+   "cat": "world",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1793854253.2147746,
-   "en": "Rahughat Hydropower Project Begins Compensation Distribution for Tunnel Affected in Myagdi",
-   "ne": "Rahughat Hydropower Project Begins Compensation Distribution for Tunnel Affected in Myagdi",
-   "link": "http://english.ratopati.com/story/85703/process-of-distributing-compensation-to-those-affected-by-rahughat-tunnel-begins",
-   "source": "Ratopati EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "economy"
-  },
   {
    "ts": 1793856056.3606124,
    "en": "Vehicles start crossing Tikulia bridge over Lalbakaiya River in Rautahat after 12-year build",
@@ -5845,8 +5856,8 @@
    "cat": "world"
   }
  ],
- "updated": 1794459056,
- "pending_since": null,
+ "updated": 1794459686,
+ "pending_since": 1794459682.3224866,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
