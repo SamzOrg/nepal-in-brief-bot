@@ -1108,75 +1108,6 @@
  },
  "queue": [
   {
-   "title": "Car Driver Arrested Two Years After Fatal Motorcycle Collision",
-   "summary": "Dhanusha. Police have arrested a car driver who fled after taking the life of a motorcycle rider in a collision...",
-   "link": "http://english.ratopati.com/story/86352/fugitive-driver-arrested-after-two-years-for-killing-young-man-by-hitting-motorcycle",
-   "source": "Ratopati EN",
-   "ts": 1794474614,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/903797724_1598060648282638_6256430452298398029_n_0dhFr1uTZQ.webp",
-   "lang": "en",
-   "hl": "Car Driver Arrested Two Years After Fatal Motorcycle Collision",
-   "en": "Car Driver Arrested Two Years After Fatal Motorcycle Collision",
-   "ne": "Car Driver Arrested Two Years After Fatal Motorcycle Collision",
-   "imp": 2,
-   "tags": [
-    "CarDriver",
-    "Arrest",
-    "Accident"
-   ],
-   "cat": "crime",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "AIG promotions in Nepal Police intensify amid future IGP succession race",
-   "summary": "Kathmandu, November 12 The government transferred Nepal Police Inspector General (IGP) Dan Bahadur Karki to the position of the Prime Minister's special security adviser. An emergency Cabinet meeting on November 4 not...",
-   "link": "https://english.onlinekhabar.com/aig-promotions-in-nepal-police-intensify-amid-future-igp-succession-race.html",
-   "source": "Onlinekhabar EN",
-   "ts": 1794474223,
-   "weight": 3,
-   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/11/Nepal-police-1024x500-1.jpg",
-   "lang": "en",
-   "hl": "AIG promotions in Nepal Police intensify amid future IGP succession race",
-   "en": "AIG promotions in Nepal Police intensify amid future IGP succession race",
-   "ne": "AIG promotions in Nepal Police intensify amid future IGP succession race",
-   "imp": 3,
-   "tags": [
-    "NepalPolice",
-    "AIG",
-    "Promotion"
-   ],
-   "cat": "politics",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "European Spacecraft Hera Observes Asteroid After NASA Impact",
-   "summary": "London. Four years ago, a European spacecraft has started observing from close range the asteroid that the American space agency...",
-   "link": "http://english.ratopati.com/story/86351/european-spacecraft-monitors-asteroid-that-was-deflected-by-nasa-collision",
-   "source": "Ratopati EN",
-   "ts": 1794474341,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/asteroid_rFDatjkUgo.webp",
-   "lang": "en",
-   "hl": "European Spacecraft Hera Observes Asteroid After NASA Impact",
-   "en": "European Spacecraft Hera Observes Asteroid After NASA Impact",
-   "ne": "European Spacecraft Hera Observes Asteroid After NASA Impact",
-   "imp": 1,
-   "tags": [
-    "Hera",
-    "Asteroid",
-    "Space"
-   ],
-   "cat": "tech",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "पानी पर्न छाडे पनि सडकमा पहिरोको सास्ती रोकिएन",
    "summary": "भूगर्भविद्का अनुसार सडक विस्तारका क्रममा भित्ता काट्दा चट्टानको प्राकृतिक सन्तुलन बिग्रिनु नै यसको मुख्य कारण हो ।",
    "link": "https://www.ujyaaloonline.com/detail/133417",
@@ -1962,30 +1893,6 @@
    "val": 3,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "Police Arrest 5 with Drugs, Seize 231kg Ganja",
-   "summary": "Kathmandu. A police team on regular patrol has arrested 5 people with drugs from various places in the country. According...",
-   "link": "http://english.ratopati.com/story/86361/5-people-arrested-with-drugs",
-   "source": "Ratopati EN",
-   "ts": 1794483690,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/crime-arrest-group_96fmorhkhe_7WoDTETOAR.jpg",
-   "lang": "en",
-   "hl": "Police Arrest 5 with Drugs, Seize 231kg Ganja",
-   "en": "Police Arrest 5 with Drugs, Seize 231kg Ganja",
-   "ne": "Police Arrest 5 with Drugs, Seize 231kg Ganja",
-   "imp": 3,
-   "tags": [
-    "Drugs",
-    "Ganja",
-    "Police",
-    "लागुऔषध"
-   ],
-   "cat": "crime",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "प्रदेश प्रमुखविहीन बन्यो कोशी प्रदेश",
@@ -6832,9 +6739,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "sports"
+  },
+  {
+   "ts": 1794503464.606826,
+   "en": "Police Arrest 5 People with Drugs and Seize 231kg Ganja in Nepal",
+   "ne": "Police Arrest 5 People with Drugs and Seize 231kg Ganja in Nepal",
+   "link": "http://english.ratopati.com/story/86361/5-people-arrested-with-drugs",
+   "source": "Ratopati EN",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "crime"
   }
  ],
- "updated": 1794502894,
+ "updated": 1794503478,
  "pending_since": 1794502890.7851236,
  "fb_blocks": [
   1790350880.4125228,
