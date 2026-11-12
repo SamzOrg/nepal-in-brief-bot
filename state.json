@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://english.khabarhub.com/2026/10/575103/": 1794271850.6371944,
   "https://english.khabarhub.com/2026/10/575108/": 1794272486.6699913,
   "https://www.setopati.com/social/402360": 1794272486.6699913,
   "https://nagariknews.nagariknetwork.com/Dharma-Saskriti/nepal-samvat-1147-begins-newar-community-celebrates-mhah-puja-br-72-51.html": 1794272486.6699913,
@@ -971,7 +970,8 @@
   "https://nagariknews.nagariknetwork.com/social-affairs/tourist-activity-increases-in-gosainkunda-after-floods-50-34.html": 1794444649.2687423,
   "https://www.setopati.com/social/402411": 1794444649.2687423,
   "https://www.ujyaaloonline.com/detail/133403": 1794444649.2687423,
-  "https://www.setopati.com/social/402410": 1794444649.2687423
+  "https://www.setopati.com/social/402410": 1794444649.2687423,
+  "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdUw2azJCVThteW1UVFZwT3JLOUdrdHVvVkpCd1JnQ1AzT2ZvU0lpSk5vLUNKMFlOM1JzQ1lpcDdyQXZvbmcySjloZHIxUldxYmRfeFJWUzBlYnZQUjB5TEd0S1NwSEFRaFhENmRVdURfRC1QQUVHSnlQUldBZHlNTVp0MjQzMUlmOThvb0p5SEVUSDNMMUJpRTdWZG8?oc=5": 1794445279.905177
  },
  "queue": [
   {
@@ -1065,7 +1065,7 @@
    "cat": "culture",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Which religious traditions are most widely followed in Nepal?",
@@ -1270,52 +1270,6 @@
     "गोसाइँकुण्ड"
    ],
    "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "पूर्वी क्षेत्रमा बिहानै भूकम्पको धक्का महसुस",
-   "summary": "",
-   "link": "https://www.ujyaaloonline.com/detail/133403",
-   "source": "Ujyaalo",
-   "ts": 1794444586,
-   "weight": 2,
-   "img": "https://www.ujyaaloonline.com/uploads/posts/earth_bdBQRmways.jpg",
-   "lang": "ne",
-   "hl": "पूर्वी क्षेत्रमा बिहानै भूकम्पको धक्का महसुस",
-   "en": "पूर्वी क्षेत्रमा बिहानै भूकम्पको धक्का महसुस",
-   "ne": "पूर्वी क्षेत्रमा बिहानै भूकम्पको धक्का महसुस",
-   "imp": 3,
-   "tags": [
-    "Earthquake",
-    "Nepal",
-    "भूकम्प"
-   ],
-   "cat": "disaster",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "सवारी दुर्घटनामा सात वर्षीया बालिकाको मृत्यु, ५ जना घाइते",
-   "summary": "इनरुवा नगरपालिका-५ बलाहामा मोटरसाइकल, स्कुटर र साइकल एकआपसमा ठोक्किँदा सात वर्षीया बालिकाको मृत्यु भएको छ भने पाँच जना घाइते भएका छन्।",
-   "link": "https://www.setopati.com/social/402410",
-   "source": "Setopati",
-   "ts": 1794444240,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "सवारी दुर्घटनामा सात वर्षीया बालिकाको मृत्यु, ५ जना घाइते",
-   "en": "सवारी दुर्घटनामा सात वर्षीया बालिकाको मृत्यु, ५ जना घाइते",
-   "ne": "सवारी दुर्घटनामा सात वर्षीया बालिकाको मृत्यु, ५ जना घाइते",
-   "imp": 4,
-   "tags": [
-    "RoadAccident",
-    "FatalAccident",
-    "सवारीदुर्घटना"
-   ],
-   "cat": "accident",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -4324,9 +4278,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "economy"
+  },
+  {
+   "ts": 1794445287.551722,
+   "en": "ताप्लेजुङ केन्द्रबिन्दु भएर ४.६ म्याग्निच्युडको भूकम्प, पूर्वी क्षेत्रमा धक्का महसुस",
+   "ne": "ताप्लेजुङ केन्द्रबिन्दु भएर ४.६ म्याग्निच्युडको भूकम्प, पूर्वी क्षेत्रमा धक्का महसुस",
+   "link": "https://www.ujyaaloonline.com/detail/133403",
+   "source": "Ujyaalo",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "disaster"
   }
  ],
- "updated": 1794444654,
+ "updated": 1794445300,
  "pending_since": 1794444051.4807734,
  "fb_blocks": [
   1790350880.4125228,
