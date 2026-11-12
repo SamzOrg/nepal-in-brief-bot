@@ -1,9 +1,5 @@
 {
  "seen": {
-  "https://baahrakhari.com/detail/507048": 1794310271.6187787,
-  "https://baahrakhari.com/detail/507047": 1794310271.6187787,
-  "https://gorkhapatraonline.com/news/228826": 1794310271.6187787,
-  "https://www.ujyaaloonline.com/detail/133366": 1794310271.6187787,
   "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQnRrZHB2N3NiM1I0QWFVSy00WXdCTkQxeU04dlhvMnRxSkFkdEw1dmFTMWRNXzhVM1NMSDRVTnB2MzZzRWszMThPQk42cTlwX1JMY3pZRldCVzY4Vm9uZG9uZVd2ajE0VlVNTlhRSExrc3hheFo0YmE4WkRiQ05paC1ZVjhzbDBSWU5hYWk0My1oV1FWQXFoNXZEeXowNzJkckd6cmExeVBWNVRJN0w1SzlWWnBpbHFnVGFyTkFZWklHZUIy0gG3AUFVX3lxTE1SUlZXMXFOb01keWZaSHRBQnNKZzU3bmVJQUJkLVJybXhkODd6bURCQkViOFVmeEVWUHNCaEdiU1VyYVZZUWhoTkZNb1B4MFBOdTRKakJ5Ykt1RTZDdmljdjVLU0E0NzVscjNmVVdxZHVMRTd5azlrYkM0RVRuVWVNaG8wQlVYNXJEWEdlNlByQVBrbk80bDRNRjNtRnZhaEV5OTJYZEZ1TEJsSGRQWE1nMXFENDVFSQ?oc=5": 1794310853.2862897,
   "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYThrZG9xU2NRX0xlY1BLQ2NScWsxdXhOVzBNQThFNUxGSjZTYzFOcnpFanhkbXBXcFNoeW02YWtpaWh6MGFDbC1ZOFFsUk8zQ1NHQ2RFcDlKRG53elBGRlNPblo1T21iZUk4QUVqY2FST3hHc0ZUYzl1TGhOcmVnSVkyX0VKUzJFLW5UOUthdXF5MXdjRU1FVEVDdExnOWlkSWU0cGdVNU9hbS1CTWhYcHcyRnBBLWE4RmNjQjk2dURHbjA?oc=5": 1794310853.2862897,
   "http://english.ratopati.com/story/86229/demand-to-ensure-a-just-energy-transition": 1794312084.6938343,
@@ -1059,7 +1055,10 @@
   "https://nagariknews.nagariknetwork.com/politics/the-pain-of-the-himalayas-is-a-global-challenge-foreign-minister-khanal-s-five-point-proposal-to-solve-the-climate-crisis-11-57.html": 1794482451.8666685,
   "https://nagariknews.nagariknetwork.com/politics/madhes-provincial-assembly-meeting-called-for-kartik-12-br-82-31.html": 1794482451.8666685,
   "https://nagariknews.nagariknetwork.com/sports/the-main-title-of-sama-char-74-20.html": 1794482451.8666685,
-  "https://gorkhapatraonline.com/news/228899": 1794483068.0171485
+  "https://gorkhapatraonline.com/news/228899": 1794483068.0171485,
+  "https://nagariknews.nagariknetwork.com/Aparadh/three-more-people-arrested-for-obscene-dancing-in-deusi-bhailo-35-89.html": 1794483650.7717102,
+  "https://gorkhapatraonline.com/news/228900": 1794483650.7717102,
+  "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSXltdDF0eFNxdEprblJZTzhfUHd6djE1b0tFU2duRElUZkxrX012RTl1anFCbVlqSjcyREN5bjkybmhpRWRacEtSOU9CNGIyVTBnN0daY2hGTEZ6eGhEeVBqNnpmRHFTaHRud09kZEc5elhjYXRqTzN2ZzlMSDlac1lPSjJISTJzMUpkZXN0alhhQdIBlwFBVV95cUxQVjl2MW9uZUZFYjZSeGxFMEVRbmsyY3laUlo0TDBHS3htdnVSRE9CVUNKS3R6a1lKREs0UXhlTEF2bXNkOGN1MlJhMzBXdzBTUkVwV29ad2lzQlgtRXltNmtZVzJnLW1IcWU3LWNKTFRNbWhsX250c1lnWkV4b2tkYUR0X2VhX3F4WGtFT2VEcUdWVzQ4ejl3?oc=5": 1794483650.7717102
  },
  "queue": [
   {
@@ -1177,7 +1176,7 @@
    "cat": "crime",
    "val": 3,
    "teaser": false,
-   "hits": 5
+   "hits": 6
   },
   {
    "title": "पटका पड्काउँदा बालक घाइते",
@@ -2407,29 +2406,6 @@
    ],
    "cat": "tech",
    "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Russia, Ukraine exchange attacks on capitals as US envoys land in Moscow",
-   "summary": "Russia and Ukraine exchanged attacks on each other's capitals early on Thursday, a day after peace talks ended and shortly before US envoys arrived in Moscow to meet President Vladimir Putin, Reuters reported. Kirill...",
-   "link": "https://theannapurnaexpress.com/story/68698",
-   "source": "Annapurna Express",
-   "ts": 1794454269.8789902,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Russia, Ukraine exchange attacks on capitals as US envoys land in Moscow",
-   "en": "Russia, Ukraine exchange attacks on capitals as US envoys land in Moscow",
-   "ne": "Russia, Ukraine exchange attacks on capitals as US envoys land in Moscow",
-   "imp": 2,
-   "tags": [
-    "Russia",
-    "Ukraine",
-    "Moscow"
-   ],
-   "cat": "world",
-   "val": 2,
    "teaser": false,
    "hits": 1
   },
@@ -3883,29 +3859,6 @@
     "Police"
    ],
    "cat": "crime",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Madhesh chief minister to seek confidence vote on November 14",
-   "summary": "Chief Minister Krishna Prasad Yadav is seeking a vote of confidence after the CPN-UML and Nepali Communist Party, both members of his coalition government, withdrew their support.",
-   "link": "https://kathmandupost.com/province-no-2/2026/11/12/madhesh-chief-minister-to-seek-confidence-vote-on-november-14",
-   "source": "Kathmandu Post",
-   "ts": 1794468052.8852787,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Madhesh chief minister to seek confidence vote on November 14",
-   "en": "Madhesh chief minister to seek confidence vote on November 14",
-   "ne": "Madhesh chief minister to seek confidence vote on November 14",
-   "imp": 4,
-   "tags": [
-    "Madhesh",
-    "ChiefMinister",
-    "ConfidenceVote"
-   ],
-   "cat": "politics",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -7123,9 +7076,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "economy"
+  },
+  {
+   "ts": 1794483658.4232948,
+   "en": "Madhesh CM Krishna Prasad Yadav to seek confidence vote on Nov 14",
+   "ne": "Madhesh CM Krishna Prasad Yadav to seek confidence vote on Nov 14",
+   "link": "https://kathmandupost.com/province-no-2/2026/11/12/madhesh-chief-minister-to-seek-confidence-vote-on-november-14",
+   "source": "Kathmandu Post",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "politics"
   }
  ],
- "updated": 1794483070,
+ "updated": 1794483671,
  "pending_since": 1794483068.0171485,
  "fb_blocks": [
   1790350880.4125228,
