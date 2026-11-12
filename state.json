@@ -1,8 +1,5 @@
 {
  "seen": {
-  "https://www.ujyaaloonline.com/detail/133362": 1794300653.545126,
-  "https://news.google.com/rss/articles/CBMie0FVX3lxTE9wcWFVNy1DU1gzOVRxSnJsS09GVk40MjlKSEcwS3J2eDZfbVEtT0g4Y2FHR1hrTGZzdVE5V0lqcnhOSU1TUkxndWNIMGpubk51Wm01UE9wTVpFZmZiSi14MTlqb29tTnpZeWRDNkpOTnBERDVZWDJoX1BLONIBe0FVX3lxTE1FNE5QV3J1MWE2OXltMXpJRjZvX2thVmEtRHdMTC1kWENkaUhsZXlaWGs5aWlGV1RuSkw3SkNsZjRHVmlNNTdiLUZWZTRBT0VuNHhWWVJVSTNOWlo2M3pSV0FjeFlxNkNLZmstMWhzWVBKeXM4c3UwRFg5WQ?oc=5": 1794300653.545126,
-  "https://english.onlinekhabar.com/7-arrested-for-gambling-in-dhankuta.html": 1794301285.0073223,
   "https://english.khabarhub.com/2026/10/575158/": 1794301851.926772,
   "https://english.onlinekhabar.com/prithvi-highway-reopens-after-ghoptebhir-landslide-clearance-traffic-congestion-persists.html": 1794301851.926772,
   "https://news.google.com/rss/articles/CBMickFVX3lxTE0ycUlVUVY4dUVaY1ZNOVJ1TWpiQkFjaWlfRDh6azgySnJmcDdwbktBX0lXSzVhNEYteW1MZHFSbUgzbE0zR3pVTTBscVR2Zk14ZWRMRnV4cWhVWVBxRWYtR2ZzR0FrNDhZdUhrNWg4WDF0QQ?oc=5": 1794301851.926772,
@@ -1025,7 +1022,13 @@
   "http://english.ratopati.com/story/86346/health-minister-mehta-returns-home-after-attending-bimstec-meeting": 1794473452.6821132,
   "https://english.onlinekhabar.com/handful-nepali-films-earned-big.html": 1794473452.6821132,
   "https://www.setopati.com/social/402433": 1794473452.6821132,
-  "http://english.ratopati.com/story/86340/politics-family-and-struggle-unanswered-questions-hidden-in-sonia-gandhis-book": 1794473452.6821132
+  "http://english.ratopati.com/story/86340/politics-family-and-struggle-unanswered-questions-hidden-in-sonia-gandhis-book": 1794473452.6821132,
+  "http://english.ratopati.com/story/86349/kulman-ghising-expresses-grief-over-bhimphedi-accident-urges-training-for-electric-vehicle-drivers": 1794474085.9060488,
+  "https://news.google.com/rss/articles/CBMieEFVX3lxTE5YZjhXX2ZVcXJYR3pESVdYREFaZTVCRnlXbmlOWnJEemU2NDk4a0doaVc3aG5ieVJ1SjRrcGlvUkFyX3dCM0dRa05GMzRXOUFfOS01ZFBTdXQ3XzRNbWpqV0JDOVlfVkg4X3NweVVnVnBoMzlCSFJ3Ng?oc=5": 1794474085.9060488,
+  "https://news.google.com/rss/articles/CBMib0FVX3lxTE9VU3hNUzJWc2dSQXB4WXVFYkNFWDJBUFNNWjMxai14SUdGb1NQVHVLLVQzbjE0WlZlcGRLOTUyd1JmbURkZGR3d2xvb1Y1UUVram9qTzFoWWJReURkMTlEU2ZmZHVjNmFLU3NwaHUtTQ?oc=5": 1794474085.9060488,
+  "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSHlyUGhGMHpxU0VuQ2RYWXkwazVMM2RoUkNyTG0xU0k5RC1mQUo3MVh1Y3ItaXBQbGUxQTlhb0FIRmxMaVR6UFBzSm1tdlBFVTlMeGx6cTVMbmpPS1RvS2oteEdNR2V1YV9hb3BUUndBSmJsaFY3TFczNTE0cjRBVmNwbFM0T2tPU1dzVHRPVmhucWMtY1ZxTEJvdHNlaFJmZ0E?oc=5": 1794474085.9060488,
+  "https://news.google.com/rss/articles/CBMikgFBVV95cUxNd2JUYi1IMTl0bHhVclhIQTN2NGF5b1F1QTNsbU92SGt2ZVlxWk9jNVNLU2JGZ2VlX2FjcVlHcWxuSF9xTHNPWm83TkZZUS1UeDVMMXVOSGFFdy1QR08yNmZLX2YtT1J5UllCVG1zdjlOT2QyZDFvbnRwSXd0VlQydHpNQVhublROMXJsMjVNTjFFQQ?oc=5": 1794474085.9060488,
+  "https://news.google.com/rss/articles/CBMie0FVX3lxTE9wcWFVNy1DU1gzOVRxSnJsS09GVk40MjlKSEcwS3J2eDZfbVEtT0g4Y2FHR1hrTGZzdVE5V0lqcnhOSU1TUkxndWNIMGpubk51Wm01UE9wTVpFZmZiSi14MTlqb29tTnpZeWRDNkpOTnBERDVZWDJoX1BLONIBe0FVX3lxTE1FNE5QV3J1MWE2OXltMXpJRjZvX2thVmEtRHdMTC1kWENkaUhsZXlaWGs5aWlGV1RuSkw3SkNsZjRHVmlNNTdiLUZWZTRBT0VuNHhWWVJVSTNOWlo2M3pSV0FjeFlxNkNLZmstMWhzWVBKeXM4c3UwRFg5WQ?oc=5": 1794474085.9060488
  },
  "queue": [
   {
@@ -1091,49 +1094,6 @@
     "Espionage"
    ],
    "cat": "world",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "दश वर्षमा एआईको सहयोगमा क्यान्सरको उपचारमा क्रान्तिकारी परिवर्तन हुने दाबी",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/507103",
-   "source": "Baahrakhari",
-   "ts": 1794445190,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "दश वर्षमा एआईको सहयोगमा क्यान्सरको उपचारमा क्रान्तिकारी परिवर्तन हुने दाबी",
-   "en": "दश वर्षमा एआईको सहयोगमा क्यान्सरको उपचारमा क्रान्तिकारी परिवर्तन हुने दाबी",
-   "ne": "दश वर्षमा एआईको सहयोगमा क्यान्सरको उपचारमा क्रान्तिकारी परिवर्तन हुने दाबी",
-   "imp": 2,
-   "tags": [
-    "Cancer"
-   ],
-   "cat": "health",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "Kathmandu Valley's minimum temperature drops to 8 degrees Celsius",
-   "summary": "KATHMANDU: Temperatures in the Kathmandu Valley have continued to fall, with the minimum temperature dropping to 8 degrees Celsius on Thursday morning. According to the Weather Forecasting Division, the preliminary...",
-   "link": "https://english.khabarhub.com/2026/12/575288/",
-   "source": "Khabarhub EN",
-   "ts": 1794445184,
-   "weight": 2,
-   "img": "https://english.khabarhub.com/wp-content/uploads/2025/11/Kathmandu-weather-e1762062623207-400x220.jpg",
-   "lang": "en",
-   "hl": "Kathmandu Valley's minimum temperature drops to 8 degrees Celsius",
-   "en": "Kathmandu Valley's minimum temperature drops to 8 degrees Celsius",
-   "ne": "Kathmandu Valley's minimum temperature drops to 8 degrees Celsius",
-   "imp": 2,
-   "tags": [
-    "KathmanduValley",
-    "Temperature"
-   ],
-   "cat": "weather",
    "val": 2,
    "teaser": false,
    "hits": 1
@@ -1205,51 +1165,6 @@
    "val": 2,
    "teaser": false,
    "hits": 2
-  },
-  {
-   "title": "Italy and France Face Off in Crucial UEFA Nations League Match",
-   "summary": "Milan. Italy and France will face each other in a crucial match in Group 'A 1' of the UEFA Nations...",
-   "link": "http://english.ratopati.com/story/86305/italy-and-france-clash-at-san-siro-mbappes-participation-uncertain-due-to-injury",
-   "source": "Ratopati EN",
-   "ts": 1794445210,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/mbappe_uHEdTjc1Cs.webp",
-   "lang": "en",
-   "hl": "Italy and France Face Off in Crucial UEFA Nations League Match",
-   "en": "Italy and France Face Off in Crucial UEFA Nations League Match",
-   "ne": "Italy and France Face Off in Crucial UEFA Nations League Match",
-   "imp": 2,
-   "tags": [
-    "UEFA",
-    "Italy",
-    "France"
-   ],
-   "cat": "sports",
-   "val": 2,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "Indian Cricketer Arshdeep Singh Engages to Girlfriend Samreen Kaur",
-   "summary": "New Delhi. Indian cricket team's star fast bowler Arshdeep Singh has got engaged to his girlfriend Samreen Kaur.'Life partner forever'...",
-   "link": "http://english.ratopati.com/story/86304/cricketer-arshdeep-singh-gets-engaged-to-girlfriend-samreen-kaur-photos-go-viral",
-   "source": "Ratopati EN",
-   "ts": 1794445174,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/wed_TYE22kFCwQ.webp",
-   "lang": "en",
-   "hl": "Indian Cricketer Arshdeep Singh Engages to Girlfriend Samreen Kaur",
-   "en": "Indian Cricketer Arshdeep Singh Engages to Girlfriend Samreen Kaur",
-   "ne": "Indian Cricketer Arshdeep Singh Engages to Girlfriend Samreen Kaur",
-   "imp": 2,
-   "tags": [
-    "ArshdeepSingh",
-    "Engagement"
-   ],
-   "cat": "sports",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
   },
   {
    "title": "Electric Vehicle Accident in Bhimphedi, Makwanpur",
@@ -1479,28 +1394,6 @@
    "val": 2,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "Foreign Minister discusses expansion of cooperation with Finland",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaHdZTjNtODVQM1hKX2VCUGdqWGF1WkE5WTA3T3h6ejFMcWFoOVZWVWt2YzRQV2tTeDF0LVNQQldMNjdQOVJPdlBIdXdDT3hhOF82MVIxSldQMlA5TWFUaU1xREhOc2tXWFhEeHVzdWF3Qjd0OGJBTTFib2dPZFV1X2xhYzR3MmtaNjR1MnJ2WlFQa2xVdGptc05aOGd0V2tGcU5ZV2h2SlNUV3BnTDc5V2VOamhYTUw1dk1F?oc=5",
-   "source": "myRepublica",
-   "ts": 1794445010,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Foreign Minister discusses expansion of cooperation with Finland",
-   "en": "Foreign Minister discusses expansion of cooperation with Finland",
-   "ne": "Foreign Minister discusses expansion of cooperation with Finland",
-   "imp": 2,
-   "tags": [
-    "Finland",
-    "Cooperation"
-   ],
-   "cat": "politics",
-   "val": 2,
-   "teaser": false,
-   "hits": 4
   },
   {
    "title": "भाइटीकाको दिन हिजो २ हजार ५०० यात्रुलाई सशस्त्र प्रहरीको निःशुल्क बस सेवा",
@@ -2844,7 +2737,7 @@
    "cat": "sports",
    "val": 2,
    "teaser": false,
-   "hits": 3
+   "hits": 4
   },
   {
    "title": "Crossing the border for a better education",
@@ -3273,7 +3166,7 @@
    "cat": "other",
    "val": 1,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Which overseas players left and how did they perform?",
@@ -3968,7 +3861,7 @@
    "cat": "culture",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "छठका लागि सिँगारिँदै काठमाडौंका पोखरी",
@@ -4015,20 +3908,57 @@
    "val": 2,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "Nepal Tragedy: 10 Dead as EV Van Plunges into Gorge",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNd2JUYi1IMTl0bHhVclhIQTN2NGF5b1F1QTNsbU92SGt2ZVlxWk9jNVNLU2JGZ2VlX2FjcVlHcWxuSF9xTHNPWm83TkZZUS1UeDVMMXVOSGFFdy1QR08yNmZLX2YtT1J5UllCVG1zdjlOT2QyZDFvbnRwSXd0VlQydHpNQVhublROMXJsMjVNTjFFQQ?oc=5",
+   "source": "jeevanutsahnews.in",
+   "ts": 1794468519,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "Nepal Tragedy: 10 Dead as EV Van Plunges into Gorge",
+   "en": "Nepal Tragedy: 10 Dead as EV Van Plunges into Gorge",
+   "ne": "Nepal Tragedy: 10 Dead as EV Van Plunges into Gorge",
+   "imp": 4,
+   "tags": [
+    "Nepal",
+    "Accident",
+    "EvVan",
+    "दुर्घटना"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Deadly flash flood wipes away villages in Nepal, Tibet",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9wcWFVNy1DU1gzOVRxSnJsS09GVk40MjlKSEcwS3J2eDZfbVEtT0g4Y2FHR1hrTGZzdVE5V0lqcnhOSU1TUkxndWNIMGpubk51Wm01UE9wTVpFZmZiSi14MTlqb29tTnpZeWRDNkpOTnBERDVZWDJoX1BLONIBe0FVX3lxTE1FNE5QV3J1MWE2OXltMXpJRjZvX2thVmEtRHdMTC1kWENkaUhsZXlaWGs5aWlGV1RuSkw3SkNsZjRHVmlNNTdiLUZWZTRBT0VuNHhWWVJVSTNOWlo2M3pSV0FjeFlxNkNLZmstMWhzWVBKeXM4c3UwRFg5WQ?oc=5",
+   "source": "DW.com",
+   "ts": 1794449169,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "Deadly flash flood wipes away villages in Nepal, Tibet",
+   "en": "Deadly flash flood wipes away villages in Nepal, Tibet",
+   "ne": "Deadly flash flood wipes away villages in Nepal, Tibet",
+   "imp": 4,
+   "tags": [
+    "Nepal",
+    "Flood",
+    "Tibet",
+    "बाढी"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1793868684.721771,
-   "en": "Families of 54 missing Malaysians seek answers 72 days after Nepal floods",
-   "ne": "Families of 54 missing Malaysians seek answers 72 days after Nepal floods",
-   "link": "https://www.nst.com.my/news/nation/2026/11/1571477/families-54-missing-malaysians-seek-answers-72-days-after-nepal-floods",
-   "source": "NST Online",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "disaster"
-  },
   {
    "ts": 1793870461.4975812,
    "en": "Gold Price Jumps By Rs 13,300 Per Tola On Thursday",
@@ -7022,8 +6952,8 @@
    "cat": "economy"
   }
  ],
- "updated": 1794473459,
- "pending_since": null,
+ "updated": 1794474090,
+ "pending_since": 1794474085.9060488,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
