@@ -1,7 +1,5 @@
 {
  "seen": {
-  "http://english.ratopati.com/story/86235/what-is-can-doing-to-make-nepal-a-test-nation": 1794321655.1405628,
-  "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNHp3TUVwRDNUdVpmN2M2bDgtTHRmTEFWdFFtVGJ0YktOX014cEljb2lERTlob25GTmVVZ0VxUllpUmxSb3NmWFlHME1haklDSV9kNUdsaExtZHFIdVd6SkRBWmtWYXhmdFk2MFM3dFIxUXZ6ZDFBN29RQnZ0YVA2STM0SURkSGt0QlpJc3FFNW1hRlIzck1pZE1Bam9kak15?oc=5": 1794321655.1405628,
   "https://news.google.com/rss/articles/CBMingFBVV95cUxPcW1DZlgtc3haRjg5NUg4aF90NmpnVjJuR2thRnRMX0pVTHdoLUY4SlpGQkFtb0VBS1pQdHpHVFJvX192Y1V5NldJUkg2QU96UWlwcVdMWmFQNTFHOVdjb3JMN18xMld3Y19wTlIyNEo5SzNUM1ZOQXEzcEJXbVNyUTdjNVZJeGpLTDhXWEtfUHl4Y0xlaTM3d0RpUkNzUdIBVkFVX3lxTFBxMlhvMkMwem54WVRsU3JscmdZaERLd2tOQW9SdlFHZTBGVEVJOHpkMWw2NV9XRTEtWjREQTYxQm4zdEhHSG5MMV9raXg2WE9qdldEd1dB?oc=5": 1794322254.250529,
   "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQ3I2a2RTbWpEZGtveVNpMEw0UThsMEVMLUkzc19Gby1QRlRudWJVT2Zkby1lUmRBaVo1S2R1TGZ5TVVmQXNxWDF4dWo1U2RNdFJvSHBLX1FCOUtwUmZnQS1pYnFRSUd3dmpkN3laam5SYUh0SjgyMVVWSU1qeDFVTw?oc=5": 1794322902.933195,
   "http://english.ratopati.com/story/86238/janakpurs-shameful-defeat-to-sudur": 1794322902.933195,
@@ -1106,7 +1104,10 @@
   "https://nagariknews.nagariknetwork.com/politics/mourning-holiday-declared-at-three-local-levels-following-the-death-of-former-kapilvastu-mayor-ramdas-gupta-52-28.html": 1794494453.516923,
   "https://nagariknews.nagariknetwork.com/politics/clashes-at-tea-reception-attended-by-rsp-mp-ansari-73-12.html": 1794494453.516923,
   "https://nagariknews.nagariknetwork.com/sports/lumbini-under-pressure-3-wickets-lost-while-scoring-19-runs-73-12.html": 1794494453.516923,
-  "https://nagariknews.nagariknetwork.com/politics/nepal-demands-grant-based-climate-finance-for-himalayan-countries-30-41.html": 1794494453.516923
+  "https://nagariknews.nagariknetwork.com/politics/nepal-demands-grant-based-climate-finance-for-himalayan-countries-30-41.html": 1794494453.516923,
+  "https://english.onlinekhabar.com/nvidia-ceo-jensen-huang-resign.html": 1794495052.7606027,
+  "https://news.google.com/rss/articles/CBMigwFBVV95cUxONm5ydnQwTG1wSDJWZENsdnE2eVIxTzhQU3ZUY0JiRmJWTE9MQTZpOGphNkRuWjZXX1BtM1dNV2RZZC1GdlhCV2dQeUdsM0RLdTN6bmlvOGpYNzB1QkIteTRLZzdfUWJhRlY5NU9NSHZtNlNlME1vYjdWS1Q4cTdBM2lCOA?oc=5": 1794495052.7606027,
+  "http://english.ratopati.com/story/86372/newyork": 1794495052.7606027
  },
  "queue": [
   {
@@ -3908,7 +3909,7 @@
    "cat": "tech",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "लुम्बिनी प्लेअफमा पुग्ने पहिलो टोली, कर्णालीको यात्रा कठिन",
@@ -4236,6 +4237,28 @@
    ],
    "cat": "politics",
    "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "8 Dead, 17 Injured in New York Building Collapse",
+   "summary": "New York. The death toll in a building collapse in New York, USA has reached 8. At least 17 people,...",
+   "link": "http://english.ratopati.com/story/86372/newyork",
+   "source": "Ratopati EN",
+   "ts": 1794494121,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/a071df85-5538-4ff6-a5e5-35f3fb38f05djpg_TRbYcGA2ov.webp",
+   "lang": "en",
+   "hl": "8 Dead, 17 Injured in New York Building Collapse",
+   "en": "8 Dead, 17 Injured in New York Building Collapse",
+   "ne": "8 Dead, 17 Injured in New York Building Collapse",
+   "imp": 1,
+   "tags": [
+    "NewYork",
+    "BuildingCollapse"
+   ],
+   "cat": "world",
+   "val": 3,
    "teaser": false,
    "hits": 1
   }
@@ -7234,8 +7257,8 @@
    "cat": "world"
   }
  ],
- "updated": 1794494488,
- "pending_since": null,
+ "updated": 1794495056,
+ "pending_since": 1794495052.7606027,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
