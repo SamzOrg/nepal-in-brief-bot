@@ -958,7 +958,8 @@
   "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZExRSkNpZHA5R25GR0h1enBGUzJEMWhLeHdMRVBWZ1pNOFczTXU2LVZTd1BORVotN2xiRGZzNzN3eXRPRHR2cHItQTZFMWdVbHBPSDUxT2l3UzFGNE1FU3lrZDlHdlgtZ0RKeDFWVU1JdDdNdFg0QmNiQXA5UVREOWVLUTBvQU5WejIzRDJtZjdOWk1xQnF2SA?oc=5": 1794440447.5229173,
   "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZmlGMDNOTFBjNDZITk1URnVDWkJnZ1RfRmRRbzhIbkNPcWdvX2NlcFAySUhSNWZoU2dBaDJIVWtyR1dsVzBIdUJVWGh3Yk9wdlA2aHJVbHV4X01KMjhFbVVMR2Z3QVA1ZFpoWGp3clZFVmxIc29rak85MDhWSGh5VWIxbjU5OGpnT0JfcHFNeEo0Zmt5ZWtEQVlCMk9LY3h0X0xka0UtekdPaGFRczk5UjJKaUh4aFFIVHhN?oc=5": 1794440447.5229173,
   "http://english.ratopati.com/story/86294/historic-victory-for-the-democratic-party-in-mississippi-black-leader-after-140-years": 1794441050.9626977,
-  "http://english.ratopati.com/story/86295/the-impact-of-the-low-pressure-system-is-causing-changes-in-the-weather": 1794441683.780361
+  "http://english.ratopati.com/story/86295/the-impact-of-the-low-pressure-system-is-causing-changes-in-the-weather": 1794441683.780361,
+  "http://english.ratopati.com/story/86296/biratnagar-and-karnali-want-to-return-to-winning-ways-pokhara-has-a-chance-to-maintain-the-momentum": 1794442253.7752156
  },
  "queue": [
   {
@@ -982,27 +983,6 @@
    "cat": "culture",
    "val": 3,
    "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Today's News in a Nutshell",
-   "summary": "KATHMANDU: Khabarhub brings you a glimpse of major developments of the day in Nepal, including politics, business/economy, sports, entertainment, and more. Nepal hopes to secure mountain issues in final COP-31 decision...",
-   "link": "https://english.khabarhub.com/2026/11/575233/",
-   "source": "Khabarhub EN",
-   "ts": 1794413422,
-   "weight": 2,
-   "img": "https://english.khabarhub.com/wp-content/uploads/2024/05/News-Nutshell-640x360.jpg",
-   "lang": "en",
-   "hl": "Today's News in a Nutshell",
-   "en": "Today's News in a Nutshell",
-   "ne": "Today's News in a Nutshell",
-   "imp": 1,
-   "tags": [
-    "NewsRoundup"
-   ],
-   "cat": "other",
-   "val": 1,
-   "teaser": true,
    "hits": 1
   },
   {
@@ -1050,7 +1030,7 @@
    "cat": "sports",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Why has tourism in Nepal been concentrated in the Kathmandu Valley?",
@@ -4184,7 +4164,7 @@
    "cat": "culture"
   }
  ],
- "updated": 1794441687,
+ "updated": 1794442257,
  "pending_since": 1794441050.9626977,
  "fb_blocks": [
   1790350880.4125228,
