@@ -1003,7 +1003,9 @@
   "https://www.setopati.com/social/402420": 1794457254.2714548,
   "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUzlUZmVmSHU4TVVWT1cyZWRTcmczbzFzemlxWnVwMWdUdE95T3dEOUJuYS12VDlMWlFCaUpDaHN2Tkl6SVJRdExRS1ZMZ21nUFRPSHlmS0JmOWVUeXZkal9KS2p6MXRJNENrWTUxMnhxS3dCR0MtRGpwRFJPc3c1aWlHclNhSDRLWE1Pcjg5YUZRNzhvcW9oYjJxNzZ2XzJMWWJLRjdxRUg5V2JxU3RqakhUdHVMRnlYNlJyVlh3SkFNOHdnV0pDWGFDTFrSAdIBQVVfeXFMTmJDR3dXUTNaNzlac1A4dE9qYURrXy1Ya3FjbzVlMVgta3lwQUZXNWxmWXNKeUhuM0FWRENLS0lUc05oZHVLN1c2NlN3bU1QV3pNaU9kb1poaFBhemxpQzdNVkxUZzRqU0xrdlZqdXRBcktBV0Z6Y0hnZV8yamlBcjJaQjlueTdfbFdhUU1Yc0dtTVFXVUs5a0JkanMxUThMNjB1VEx2UGdsTWR0ZFJ4ZnVkT3NKbmlRLTBrTzg5bnAyOUtJUkU0Rm51WjdGWjFaaER3?oc=5": 1794457254.2714548,
   "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbVNwVF8wbVFRN2I1UDVyVWd2ZDVWeFhQcEdMXzB6NlAxQ3VlSThFVlE5cDlLZXFHZVRHY2ZnVXNBLVlJUHNTdlVLUnFFY1hCejI4dEJFcUJzenVEM2tnc1RZdHpFUFVyWFZRRGllU19iZ1dMNHRvYzlQSDR4dTNGdWRzM0NETVRTaUVLbzdnTmEtaUdjNG0xTlVtcXJ2V0s5RGlMXzltTTRhdVJ3R0JhVmZ2c3hORnpfaUJLR1gybWlrekxZVVpvSmxfLXJ6UQ?oc=5": 1794457254.2714548,
-  "https://theannapurnaexpress.com/story/68692": 1794457254.2714548
+  "https://theannapurnaexpress.com/story/68692": 1794457254.2714548,
+  "https://www.setopati.com/social/402422": 1794457865.5441577,
+  "https://www.ujyaaloonline.com/detail/133410": 1794457865.5441577
  },
  "queue": [
   {
@@ -1754,7 +1756,7 @@
    "cat": "society",
    "val": 1,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Mumbai Court Extends Police Custody of Five Accused in Tiger Shroff Firing Case",
@@ -2403,7 +2405,7 @@
    "cat": "disaster",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "८ डिग्रीमा झर्‍यो काठमाडौंको तापक्रम, जुम्लामा -३.४",
@@ -2662,17 +2664,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1793852458.5524063,
-   "en": "Kathmandu Metropolitan City urges residents not to burn plastic waste amid rising winter air pollution",
-   "ne": "Kathmandu Metropolitan City urges residents not to burn plastic waste amid rising winter air pollution",
-   "link": "http://english.ratopati.com/story/85708/kathmandu-metropolitan-city-urges-to-reduce-air-pollution-risks",
-   "source": "Ratopati EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "society"
-  },
   {
    "ts": 1793854253.2147746,
    "en": "Rahughat Hydropower Project Begins Compensation Distribution for Tunnel Affected in Myagdi",
@@ -5677,7 +5668,7 @@
    "cat": "politics"
   }
  ],
- "updated": 1794457258,
+ "updated": 1794457869,
  "pending_since": 1794456649.773455,
  "fb_blocks": [
   1790350880.4125228,
