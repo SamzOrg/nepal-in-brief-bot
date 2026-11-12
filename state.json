@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://baahrakhari.com/detail/507010": 1794273652.463173,
   "https://nagariknews.nagariknetwork.com/politics/president-believes-nepal-sambat-will-inspire-us-to-move-towards-social-equality-br-57-40.html": 1794274266.6418417,
   "https://nagariknews.nagariknetwork.com/social-affairs/landslide-blocks-prithvi-highway-in-both-directions-br-59-32.html": 1794274849.0853925,
   "https://gorkhapatraonline.com/news/228786": 1794274849.0853925,
@@ -971,7 +970,8 @@
   "https://english.khabarhub.com/2026/12/575277/": 1794446450.78071,
   "https://nagariknews.nagariknetwork.com/social-affairs/climate-crisis-surpasses-world-s-preparedness-and-response-capacity-br-44-31.html": 1794446450.78071,
   "http://english.ratopati.com/story/86304/cricketer-arshdeep-singh-gets-engaged-to-girlfriend-samreen-kaur-photos-go-viral": 1794446450.78071,
-  "http://english.ratopati.com/story/86303/rahmat-shah-becomes-first-afghan-player-to-reach-top-10-of-icc-test-rankings": 1794446450.78071
+  "http://english.ratopati.com/story/86303/rahmat-shah-becomes-first-afghan-player-to-reach-top-10-of-icc-test-rankings": 1794446450.78071,
+  "https://nagariknews.nagariknetwork.com/politics/top-bahadur-rayamajhi-to-be-released-from-prison-today-62-57.html": 1794447066.4956963
  },
  "queue": [
   {
@@ -1453,28 +1453,6 @@
    "hits": 1
   },
   {
-   "title": "Palestinian Footballer Mahmoud Kamal Faris Abdel-Malek Killed in Israeli Gaza Attack",
-   "summary": "Gaza. The Palestinian Football Association (PFA) has confirmed the death of Palestinian footballer Mahmoud Kamal Faris Abdel-Malek in an Israeli...",
-   "link": "http://english.ratopati.com/story/86307/palestinian-soccer-player-killed-in-israeli-airstrike",
-   "source": "Ratopati EN",
-   "ts": 1794446026,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/888089522_2087448071888882_85489_42PshxvKTr.webp",
-   "lang": "en",
-   "hl": "Palestinian Footballer Mahmoud Kamal Faris Abdel-Malek Killed in Israeli Gaza Attack",
-   "en": "Palestinian Footballer Mahmoud Kamal Faris Abdel-Malek Killed in Israeli Gaza Attack",
-   "ne": "Palestinian Footballer Mahmoud Kamal Faris Abdel-Malek Killed in Israeli Gaza Attack",
-   "imp": 4,
-   "tags": [
-    "MahmoudKamal",
-    "Gaza"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "उमेर हदका कारण आज कैदमुक्त हुँदै टोपबहादुर रायमाझी",
    "summary": "",
    "link": "https://baahrakhari.com/detail/507102",
@@ -1494,7 +1472,7 @@
    "cat": "society",
    "val": 1,
    "teaser": true,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Food grain imports through Birgunj border decline by 63 percent",
@@ -1700,17 +1678,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1793841653.9329648,
-   "en": "Bhotekoshi Flood Relief Fund Reaches Rs 18 Billion, Yet Victims Struggle",
-   "ne": "Bhotekoshi Flood Relief Fund Reaches Rs 18 Billion, Yet Victims Struggle",
-   "link": "https://myrepublica.nagariknetwork.com/news/billions-in-relief-fund-little-change-for-flood-victims-46-71.html",
-   "source": "myRepublica",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "disaster"
-  },
   {
    "ts": 1793843470.2779667,
    "en": "Democrats Win Both US Congress Houses in Midterms, Boosting Oversight on Trump",
@@ -4713,10 +4680,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "disaster"
+  },
+  {
+   "ts": 1794447072.0333123,
+   "en": "Palestinian footballer Mahmoud Kamal Faris Abdel-Malek killed in Israeli Gaza airstrike",
+   "ne": "Palestinian footballer Mahmoud Kamal Faris Abdel-Malek killed in Israeli Gaza airstrike",
+   "link": "http://english.ratopati.com/story/86307/palestinian-soccer-player-killed-in-israeli-airstrike",
+   "source": "Ratopati EN",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "world"
   }
  ],
- "updated": 1794446459,
- "pending_since": null,
+ "updated": 1794447082,
+ "pending_since": 1794447066.4956963,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
