@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://baahrakhari.com/detail/507024": 1794290483.8813846,
   "https://baahrakhari.com/detail/507025": 1794291651.0059614,
   "http://english.ratopati.com/story/86188/nepal-sambat-is-the-common-and-fundamental-calendar-of-all-nepalis-vice-president-acharya": 1794292269.7034957,
   "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUVB1R09udkpVZTdXcGVxY1FTOWxINk9WSVM1NEJQcF9fTEtHQl9jeHBGOVkxTHdJNWoxOVBGN2VVN1lYR1NwUGp1a1JtelYzVzdQcHpud3BLMWtRbzFGV3NFejJ0ckZHV0twTmpjcUl2OUd0VGJTNVlUdlpDYVdHYUF6RFNnSFZyUnlIdGt6MHZTYmNQaFBGODNlTl9hQjVNRTBCY2R0V3F6NVRDVlNiUXhB?oc=5": 1794292269.7034957,
@@ -1016,7 +1015,11 @@
   "https://baahrakhari.com/detail/507121": 1794463282.6158695,
   "https://nagariknews.nagariknetwork.com/Dharma-Saskriti/preparations-for-chhath-festival-begin-in-kathmandu-valley-br-44-91.html": 1794463282.6158695,
   "https://baahrakhari.com/detail/507120": 1794463282.6158695,
-  "https://nagariknews.nagariknetwork.com/politics/let-s-get-out-of-the-festive-spirit-and-understand-the-plight-of-the-poor-and-the-suffering-chandra-bhandari-50-52.html": 1794463282.6158695
+  "https://nagariknews.nagariknetwork.com/politics/let-s-get-out-of-the-festive-spirit-and-understand-the-plight-of-the-poor-and-the-suffering-chandra-bhandari-50-52.html": 1794463282.6158695,
+  "https://thehimalayantimes.com/nepal/youth-dies-after-pokhara-jeep-accident-injures-12-others": 1794463853.25457,
+  "https://nagariknews.nagariknetwork.com/social-affairs/prisoner-escapes-from-birgunj-jail-br-44-22.html": 1794463853.25457,
+  "https://news.google.com/rss/articles/CBMiekFVX3lxTFAzVzlKWWxVNHRVbDFYdjNMbTBHUmo2S2swOTNLLXpyMGdWQS05WmF5MWx3RzBnd0lHcHNsYnZOdDBHMEtkcE1wdG5obmY2a0xzbHRzckpVTjQ2Q3FIUmZ0cC14R3lWZVlTMEI5QVpmbVdaMHRuOERjbUt3?oc=5": 1794463853.25457,
+  "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPZUEwNTF5aW52RS03NGdYcUFYM2djTFN4RWF0WnlJZlZ1dmJTbl84bHZrSENfRG9GamxSXzNhZENjYjlEd2ZzcEc4OXJhcG1WbVpQd0Mtbno3ZlBWVklmbWdLYWxNWFNaTUlLQnFZVlFGYm5UbEhneW11bjJUaGl2Tzk5NGNQWmIySkNzc053Y2dpYlRjUkU0WDlzRWphcFkxUEotWEVIQ09KVy01akJibWpxR2IyWmdqUEswMlExOUR0V09oeHQ4cFZRNzV3SE9UaUV1UEZneWdJRDNTRHd6d0pQOUt3MUNiajBTZUxaME4?oc=5": 1794463853.25457
  },
  "queue": [
   {
@@ -1401,28 +1404,6 @@
    "val": 2,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "Gosainkunda tourism picks up as road access improves",
-   "summary": "RASUWA: Tourist arrivals in Gosainkunda, a renowned religious and natural attraction in Rasuwa district, have started increasing following a gradual improvement in road and trekking route conditions damaged by the...",
-   "link": "https://english.khabarhub.com/2026/12/575281/",
-   "source": "Khabarhub EN",
-   "ts": 1794444508,
-   "weight": 2,
-   "img": "https://english.khabarhub.com/wp-content/uploads/2026/11/Gosainkunda-e1794444501942-400x220.jpg",
-   "lang": "en",
-   "hl": "Gosainkunda tourism picks up as road access improves",
-   "en": "Gosainkunda tourism picks up as road access improves",
-   "ne": "Gosainkunda tourism picks up as road access improves",
-   "imp": 3,
-   "tags": [
-    "Gosainkunda",
-    "RoadAccess"
-   ],
-   "cat": "tourism",
-   "val": 2,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "Italy and France Face Off in Crucial UEFA Nations League Match",
@@ -2718,7 +2699,7 @@
    "cat": "disaster",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "Seven-year-old dies, five injured in accident",
@@ -3013,7 +2994,7 @@
    "cat": "crime",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "दुर्घटनाप्रति दुःख व्यक्त गर्दै सांसद गजुरेलले भने : सडक सुरक्षा सुधार गर्न ठुलो मिहिनेत र लगानी गर्नुपर्छ",
@@ -6317,10 +6298,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "society"
+  },
+  {
+   "ts": 1794463861.0181293,
+   "en": "Gosainkunda tourism in Rasuwa revives as road access improves",
+   "ne": "Gosainkunda tourism in Rasuwa revives as road access improves",
+   "link": "https://english.khabarhub.com/2026/12/575281/",
+   "source": "Khabarhub EN",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "tourism"
   }
  ],
- "updated": 1794463291,
- "pending_since": null,
+ "updated": 1794463875,
+ "pending_since": 1794463853.25457,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
