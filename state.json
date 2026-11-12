@@ -976,7 +976,12 @@
   "https://risingnepaldaily.com/news/88550": 1794454269.9435384,
   "https://nagariknews.nagariknetwork.com/politics/top-bahadur-rayamajhi-released-from-prison-89-60.html": 1794454269.9435384,
   "https://news.google.com/rss/articles/CBMiowFBVV95cUxPLU1hVllFdHhWMkhkY2QwRTMwMmN5c1dLWk5FeG5ZbEE5bE5meUZRREdPbnp1OXUzRWdHT01wRUFkaVdFY043NC1FWGpfcU1obTA5LUwtbEFjb29LYk82bGRXcFYzZWNYVTZNaEVVczFtUlV2dE9vTUhnQjVwWmV4QzBBYW8xaFU0a25KLUhkaHVmRWtZOFNIY29adW1TZGdkTW1R?oc=5": 1794454269.9435384,
-  "https://english.onlinekhabar.com/ghoptebhir-landslide-highway-one-way.html": 1794454269.9435384
+  "https://english.onlinekhabar.com/ghoptebhir-landslide-highway-one-way.html": 1794454269.9435384,
+  "https://theannapurnaexpress.com/story/68685": 1794454846.950168,
+  "https://theannapurnaexpress.com/story/68683": 1794454846.950168,
+  "https://risingnepaldaily.com/news/88551": 1794454846.950168,
+  "https://theannapurnaexpress.com/story/68686": 1794454846.950168,
+  "https://kathmandupost.com/national/2026/11/12/10-killed-as-electric-passenger-vehicle-plunges-off-road-in-makawanpur": 1794454846.950168
  },
  "queue": [
   {
@@ -1115,7 +1120,7 @@
    "cat": "world",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "घरको पर्खाल बनाउँदा ढुंगाभित्र भेटियो २४ करोड वर्ष पुरानो जीव, त्यो देख्ने बालक नै पछि बने वैज्ञानिक",
@@ -2055,7 +2060,7 @@
    "cat": "tech",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "कुहिरो",
@@ -2308,26 +2313,48 @@
    "hits": 1
   },
   {
-   "title": "Ghoptebhir landslide leaves Prithvi Highway operating one-way",
-   "summary": "Kathmandu, November 12 Traffic along the Prithvi Highway has been restricted to one-way operation following a landslide at Ghoptebhir in Ichchhakamana Rural Municipality-4 of Chitwan district. The road was reopened for...",
-   "link": "https://english.onlinekhabar.com/ghoptebhir-landslide-highway-one-way.html",
-   "source": "Onlinekhabar EN",
-   "ts": 1794453675,
-   "weight": 3,
-   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/11/ghopte-bhir-7-1024x500-2.jpg",
+   "title": "Seven-year-old dies, five injured in accident",
+   "summary": "Sunsari, Nov 12: A seven-year-old girl was killed and seven others were injured when a motorcycle, a scooter and a bicyc...",
+   "link": "https://risingnepaldaily.com/news/88551",
+   "source": "Rising Nepal",
+   "ts": 1794454233,
+   "weight": 2,
+   "img": null,
    "lang": "en",
-   "hl": "Ghoptebhir landslide leaves Prithvi Highway operating one-way",
-   "en": "Ghoptebhir landslide leaves Prithvi Highway operating one-way",
-   "ne": "Ghoptebhir landslide leaves Prithvi Highway operating one-way",
-   "imp": 4,
+   "hl": "Seven-year-old dies, five injured in accident",
+   "en": "Seven-year-old dies, five injured in accident",
+   "ne": "Seven-year-old dies, five injured in accident",
+   "imp": 3,
    "tags": [
-    "Landslide",
-    "PrithviHighway",
-    "Ghoptebhir",
-    "पहिरो"
+    "Accident",
+    "Nepal",
+    "दुर्घटना"
    ],
    "cat": "disaster",
-   "val": 3,
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Israeli strikes hit medical complex as nine killed across Gaza",
+   "summary": "Israeli attacks have killed at least nine Palestinians across Gaza, as the United Nations made an emergency appeal for waterproof tents to shelter hundreds of thousands exposed to flooding due to heavy rains, Aljazeera...",
+   "link": "https://theannapurnaexpress.com/story/68686",
+   "source": "Annapurna Express",
+   "ts": 1794440448.1633608,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "Israeli strikes hit medical complex as nine killed across Gaza",
+   "en": "Israeli strikes hit medical complex as nine killed across Gaza",
+   "ne": "Israeli strikes hit medical complex as nine killed across Gaza",
+   "imp": 1,
+   "tags": [
+    "Gaza",
+    "Israel",
+    "Airstrike"
+   ],
+   "cat": "world",
+   "val": 2,
    "teaser": false,
    "hits": 1
   }
@@ -5335,9 +5362,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "economy"
+  },
+  {
+   "ts": 1794454853.4416647,
+   "en": "Ghoptebhir landslide restricts Prithvi Highway to one-way traffic in Chitwan",
+   "ne": "Ghoptebhir landslide restricts Prithvi Highway to one-way traffic in Chitwan",
+   "link": "https://english.onlinekhabar.com/ghoptebhir-landslide-highway-one-way.html",
+   "source": "Onlinekhabar EN",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "disaster"
   }
  ],
- "updated": 1794454275,
+ "updated": 1794454869,
  "pending_since": 1794454269.9435384,
  "fb_blocks": [
   1790350880.4125228,
