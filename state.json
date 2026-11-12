@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://baahrakhari.com/detail/507025": 1794291651.0059614,
   "http://english.ratopati.com/story/86188/nepal-sambat-is-the-common-and-fundamental-calendar-of-all-nepalis-vice-president-acharya": 1794292269.7034957,
   "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUVB1R09udkpVZTdXcGVxY1FTOWxINk9WSVM1NEJQcF9fTEtHQl9jeHBGOVkxTHdJNWoxOVBGN2VVN1lYR1NwUGp1a1JtelYzVzdQcHpud3BLMWtRbzFGV3NFejJ0ckZHV0twTmpjcUl2OUd0VGJTNVlUdlpDYVdHYUF6RFNnSFZyUnlIdGt6MHZTYmNQaFBGODNlTl9hQjVNRTBCY2R0V3F6NVRDVlNiUXhB?oc=5": 1794292269.7034957,
   "http://english.ratopati.com/story/86189/nepali-and-tamang-languages-have-been-made-official-languages-in-bagmati-province-chief-minister-thapa": 1794292853.4155157,
@@ -1026,7 +1025,11 @@
   "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUS1KbDRyU3owS2dKMFRtVnR6dy1CYUdJcWNrcUlEVVozRFJWR2NZMU9MSnFBZl8yN1lCSWNhZFRSS0xyQmE5dGs3SGhFeW9YVF9naFRXWG9rRnZwSUJGc3g3VDJwZ2M3RFhjcEFGazJieG8tN0JCWVBkZFJDVUQzblBiVHpPN1dXcnJmR2xwWTEySlotdVRpNXRWaTRRZ0ZQUFNLUG92a2J4clVidHZvRWVDa3hUZ3RNVWFibF9UTTJTU3dxbElMcU4yTlQ3SlpmLXk5SGxhc1F0QQ?oc=5": 1794464449.2915618,
   "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPU3RzeC1uQnYzdF9PWEJZTVY4a3kxelhXUnJSazZPY0V5YUNhVVZnOXRWZkhScnkwUVppUUdaZ0paYlQ4dGVkTjdWSTR5c0RseTVCV21SS3Y4UEJ0VUJNZWJpRFFSRlBEM2lTbU5qbWVNVGYwWkRSYUpfNU1femszT090R2c3WmVyek9yaEtJZGZSQWxsSVFMZ1VfSlVjSTMxUUl4TTNEdjk?oc=5": 1794464449.2915618,
   "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWHlHSzJZd2ZhSHhxQ1JQdUhDVkt2WC14ZGJmMjdBZnhMSmtpOXNzc3hEMDlzUUZJcFdiZ3A2NGM0SlFFNFktdnhjWGRxa1BtX19OWTJQVm5GMEcwWmEtQkJlYWRjOU43TGJiSUpNNXJxUndlOXNBM2k3cXRVejR1TzM1OVlEdUNFZWc?oc=5": 1794464449.2915618,
-  "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQSTB2LTd1UlFkU2d5Uy15UzVCQmVURU0xWnJOb25jbXRzdWpCeTZMNEQ4ZFE4eldPQVgtaFd5MW5BWHVfUkdNc19pOS1CdGVwR0xYZVllRWJRUnI5ektNcnNOSWNHaExTRk1HTGdwTkRaTkVremFlbURmdmNKb3QzYnZIUlB2WDR5VWo2VDA4RFFTaXZvSWtCS0F6TzdLdm5LZWU2bUFVZDhjREdmMUJDUEVnMTNEem94MzRieXpxZkh3MURaZmhDb3ZLYlRuMVpuLWtud3NESU0xaU5rR2F5Z1VmWTPSAeoBQVVfeXFMTW1HSjV2WFIxZVRad0xXbGlVem9nanJ3UDdwRG12Z3hYYkF1SkJVV0JES3VHRjhlaDdVT2RTZl9VYnY5ZlZyR19pczRJeVZ3UUY2UDBxbHFqbFhnekdUTEdxUmNiOGh0cXY2clNuRzQwNWk5VUJtZHBERFhPYVEtYk9FT2lDMHktRndrVDFKRXJxYWtsdm9XMHVHbGVsekhyaV9qanN6cVZxbk5xZHg5OVJtYXMwaE1nODZFQmlWRG9pWktRa09mdUtVREFpcGx3VEM2dmxmMG4tcm84YUNnWDlKcUN2NkdSRUl3?oc=5": 1794464449.2915618
+  "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQSTB2LTd1UlFkU2d5Uy15UzVCQmVURU0xWnJOb25jbXRzdWpCeTZMNEQ4ZFE4eldPQVgtaFd5MW5BWHVfUkdNc19pOS1CdGVwR0xYZVllRWJRUnI5ektNcnNOSWNHaExTRk1HTGdwTkRaTkVremFlbURmdmNKb3QzYnZIUlB2WDR5VWo2VDA4RFFTaXZvSWtCS0F6TzdLdm5LZWU2bUFVZDhjREdmMUJDUEVnMTNEem94MzRieXpxZkh3MURaZmhDb3ZLYlRuMVpuLWtud3NESU0xaU5rR2F5Z1VmWTPSAeoBQVVfeXFMTW1HSjV2WFIxZVRad0xXbGlVem9nanJ3UDdwRG12Z3hYYkF1SkJVV0JES3VHRjhlaDdVT2RTZl9VYnY5ZlZyR19pczRJeVZ3UUY2UDBxbHFqbFhnekdUTEdxUmNiOGh0cXY2clNuRzQwNWk5VUJtZHBERFhPYVEtYk9FT2lDMHktRndrVDFKRXJxYWtsdm9XMHVHbGVsekhyaV9qanN6cVZxbk5xZHg5OVJtYXMwaE1nODZFQmlWRG9pWktRa09mdUtVREFpcGx3VEM2dmxmMG4tcm84YUNnWDlKcUN2NkdSRUl3?oc=5": 1794464449.2915618,
+  "https://english.onlinekhabar.com/climate-change-shared-challenge.html": 1794465068.2606547,
+  "http://english.ratopati.com/story/86334/pokhara-avengers-cricket-ambassador-irfan-pathan-arrives-in-nepal": 1794465068.2606547,
+  "https://baahrakhari.com/detail/507125": 1794465068.2606547,
+  "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTEtBUUZfNW1LMWNuRHVDaEItSjVOVDBjalF0UURrdW5EQXlkWHBRaUxEdFdPQVpkaHp1eVRaci1ZWENQa09TdHkwOFJZTWdKUXBBRmVTa1RXSE02OW8zQmdCOTg1T0lBbTFoXzBiMEZyVkVPMHVHZEl2bWF5VzlraDJGcml2TTRiaEZWQm41c25rWTQzNE5iaThYS0hlNGVVZ3c?oc=5": 1794465068.2606547
  },
  "queue": [
   {
@@ -3303,17 +3306,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1793859653.76091,
-   "en": "Nepal Premier League: Lumbini faces Janakpur and Kathmandu plays Biratnagar today",
-   "ne": "Nepal Premier League: Lumbini faces Janakpur and Kathmandu plays Biratnagar today",
-   "link": "http://english.ratopati.com/story/85695/lumbini-and-janakpur-and-kathmandu-and-biratnagar-are-facing-off-which-team-is-stronger-in-a-head-to-head-match",
-   "source": "Ratopati EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "sports"
-  },
   {
    "ts": 1793861454.2121453,
    "en": "Nepal Police Cyber Bureau Summons Nepali Congress Co-General Secretary Ajaya Babu Shiwakoti in Kathmandu",
@@ -6318,7 +6310,7 @@
    "cat": "tourism"
   }
  ],
- "updated": 1794464472,
+ "updated": 1794465073,
  "pending_since": 1794463853.25457,
  "fb_blocks": [
   1790350880.4125228,
