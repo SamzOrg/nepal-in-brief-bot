@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://english.khabarhub.com/2026/10/575133/": 1794279047.2233024,
   "https://news.google.com/rss/articles/CBMikAFBVV95cUxQV1B1RFMtMjlSLThtbUQ0VjlNeHQtRTA3c3ZnREU5V2o4b2R5VDItZlVvR2taUlN1UUFLOEsycXdjQ0V4bkVseGkxWW80S1NPU1FEUnBscXgtWllmemFvRXNQVWtzTDRCcF9sazE4MFViTUJjc19Cc20wY1hwTzIwRkN4dU5zWXIyRVlTUnpaR2M?oc=5": 1794279684.3140175,
   "https://nagariknews.nagariknetwork.com/politics/singing-deusi-bhailo-rabi-lamichhane-promises-those-who-know-will-teach-those-who-don-t-this-government-will-last-for-five-years-br-11-52.html": 1794279684.3140175,
   "https://baahrakhari.com/detail/507017": 1794279684.3140175,
@@ -968,7 +967,9 @@
   "http://english.ratopati.com/story/86313/prakash-raj-on-casting-questions-in-varanasi-boycott-cannot-stop-films-earnings": 1794451251.254882,
   "https://baahrakhari.com/detail/507106": 1794451251.254882,
   "http://english.ratopati.com/story/86312/top-bahadur-rayamajhi-released-from-dillibazaar-prison": 1794451251.254882,
-  "https://baahrakhari.com/detail/507105": 1794451251.254882
+  "https://baahrakhari.com/detail/507105": 1794451251.254882,
+  "https://baahrakhari.com/detail/507110": 1794451848.2771838,
+  "https://www.setopati.com/social/402416": 1794451848.2771838
  },
  "queue": [
   {
@@ -2157,6 +2158,29 @@
    ],
    "cat": "tech",
    "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "भीमफेदीमा गाडी दुर्घटना हुँदा १० जनाको मृत्यु, ५ जना घाइते (अपडेट)",
+   "summary": "मकवानपुरको भीमफेदी गाउँपालिका-६ स्थित चिसापानी गढीमा गाडी दुर्घटना हुँदा १० जनाको मृत्यु भएको छ भने ५ जना घाइते भएका छन्।",
+   "link": "https://www.setopati.com/social/402416",
+   "source": "Setopati",
+   "ts": 1794451654,
+   "weight": 3,
+   "img": null,
+   "lang": "ne",
+   "hl": "भीमफेदीमा गाडी दुर्घटना हुँदा १० जनाको मृत्यु, ५ जना घाइते (अपडेट)",
+   "en": "भीमफेदीमा गाडी दुर्घटना हुँदा १० जनाको मृत्यु, ५ जना घाइते (अपडेट)",
+   "ne": "भीमफेदीमा गाडी दुर्घटना हुँदा १० जनाको मृत्यु, ५ जना घाइते (अपडेट)",
+   "imp": 4,
+   "tags": [
+    "Bhedifedi",
+    "CarAccident",
+    "दुर्घटना"
+   ],
+   "cat": "disaster",
+   "val": 3,
    "teaser": false,
    "hits": 1
   }
@@ -5166,8 +5190,8 @@
    "cat": "environment"
   }
  ],
- "updated": 1794451262,
- "pending_since": null,
+ "updated": 1794451854,
+ "pending_since": 1794451848.2771838,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
