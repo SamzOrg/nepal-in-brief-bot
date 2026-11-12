@@ -960,7 +960,21 @@
   "http://english.ratopati.com/story/86302/why-is-the-deadline-for-nepals-upgrading-being-extended-repeatedly": 1794453582.9514194,
   "https://baahrakhari.com/detail/507111": 1794453582.9514194,
   "https://news.google.com/rss/articles/CBMieEFVX3lxTE9LMVh5cEt1TVNFNkZjYjAxaHRCOXZaQ3FGN1V3a19VMnhqaWptV3NMTFNlazl4MkJkdUpKbXJmQzNhbFpKbS1zZm15MmVrSGFMdHQwLWJlZTJIeGRSZ2pGT2xoemtYbjNSamNrRjZjR0VOMzd3aG9oTg?oc=5": 1794453582.9514194,
-  "https://www.setopati.com/social/402415": 1794453582.9514194
+  "https://www.setopati.com/social/402415": 1794453582.9514194,
+  "https://www.setopati.com/social/402418": 1794453649.0553284,
+  "https://baahrakhari.com/detail/507112": 1794453649.0553284,
+  "https://nagariknews.nagariknetwork.com/sports/npl-two-matches-taking-place-today-20-57.html": 1794453649.0553284,
+  "https://english.onlinekhabar.com/wild-elephants-alert-bahundangi.html": 1794453649.0553284,
+  "https://gorkhapatraonline.com/news/228863": 1794453649.0553284,
+  "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSjlxU1pVamxvYzBCd1BjNFAxRkwxZDAweVpXU0FoZ1NPY0VpZGhnZGJxLVd4R1JNakFZckNVUmVUWkRoNXhnaDBYTG95VWFCTUtzczBBaDZYWERnNnE1ZUE0aUxiRFJtOWFJb2tDMjhDNzhsX3Rxb0szZDd2YWRkQm1pZlRSTDd2OXlJczBER0NSNHVOYmE5bTczZklFd2hrYjlTbVItUm13cGJlTFJTcGZZY3E1Um9WSDlNM2pGTGFXODA4alA4cjN3?oc=5": 1794453649.0553284,
+  "https://nagariknews.nagariknetwork.com/international/trump-on-iran-war-we-want-total-victory-not-93-percent-86-41.html": 1794453649.0553284,
+  "https://gorkhapatraonline.com/news/228862": 1794453649.0553284,
+  "https://nagariknews.nagariknetwork.com/social-affairs/ev-high-speed-accident-in-makawanpur-10-dead-five-injured-45-36.html": 1794453649.0553284,
+  "https://nagariknews.nagariknetwork.com/social-affairs/wild-elephant-scare-in-bahundangi-security-alert-high-in-border-area-br-41-53.html": 1794453649.0553284,
+  "https://nagariknews.nagariknetwork.com/social-affairs/jeep-accident-in-pokhara-one-dead-12-injured-br-20-40.html": 1794453649.0553284,
+  "https://nagariknews.nagariknetwork.com/social-affairs/passenger-ev-falls-500-meters-off-road-in-makawanpur-38-31.html": 1794453649.0553284,
+  "https://nagariknews.nagariknetwork.com/social-affairs/kantital-due-to-lack-of-protection-br-95-54.html": 1794453649.0553284,
+  "https://nagariknews.nagariknetwork.com/social-affairs/campaigner-harjit-singh-s-anger-towards-developed-countries-after-mountain-issue-not-included-in-cop-31-s-formal-agenda-br-51-80.html": 1794453649.0553284
  },
  "queue": [
   {
@@ -1642,7 +1656,7 @@
    "cat": "society",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "भिमादमा एक वर्षमा सडक, खानेपानी र सिँचाइका योजना सम्पन्न",
@@ -2103,6 +2117,167 @@
    ],
    "cat": "tech",
    "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "एनभिडियाका सिइओ जेन्सेन हुआङलाई हटाउने तयारी",
+   "summary": "हुआङसँग एनभिडियाको करिब ३.६ प्रतिशत सेयर छ। उनी पदबाट हटे कम्पनीको नेतृत्व कसले सम्हाल्ने भन्ने अझै खुलेको छैन।",
+   "link": "https://www.setopati.com/social/402418",
+   "source": "Setopati",
+   "ts": 1794453560,
+   "weight": 3,
+   "img": null,
+   "lang": "ne",
+   "hl": "एनभिडियाका सिइओ जेन्सेन हुआङलाई हटाउने तयारी",
+   "en": "एनभिडियाका सिइओ जेन्सेन हुआङलाई हटाउने तयारी",
+   "ne": "एनभिडियाका सिइओ जेन्सेन हुआङलाई हटाउने तयारी",
+   "imp": 1,
+   "tags": [
+    "Nvidia",
+    "JensenHuang",
+    "TechNews"
+   ],
+   "cat": "tech",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "घोप्टेभिरमा दुईतर्फी यातायात सञ्चालन गर्न कठिन",
+   "summary": "",
+   "link": "https://baahrakhari.com/detail/507112",
+   "source": "Baahrakhari",
+   "ts": 1794453540,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "घोप्टेभिरमा दुईतर्फी यातायात सञ्चालन गर्न कठिन",
+   "en": "घोप्टेभिरमा दुईतर्फी यातायात सञ्चालन गर्न कठिन",
+   "ne": "घोप्टेभिरमा दुईतर्फी यातायात सञ्चालन गर्न कठिन",
+   "imp": 3,
+   "tags": [
+    "Ghoptebhir",
+    "Traffic",
+    "पहिरो"
+   ],
+   "cat": "society",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Security heightened in Jhapa as wild elephants attempt to enter Nepal from India",
+   "summary": "Jhapa, November 12 Security has been tightened in the border area of Mechinagar Municipality-4 in Jhapa after wild elephants began attempting to enter Nepal from Prasad Gauda along the Nepal-India border. Chief District...",
+   "link": "https://english.onlinekhabar.com/wild-elephants-alert-bahundangi.html",
+   "source": "Onlinekhabar EN",
+   "ts": 1794452874,
+   "weight": 3,
+   "img": "http://english.onlinekhabar.com/wp-content/uploads/2023/05/Bahundangi-elephant-1024x683.jpg",
+   "lang": "en",
+   "hl": "Security heightened in Jhapa as wild elephants attempt to enter Nepal from India",
+   "en": "Security heightened in Jhapa as wild elephants attempt to enter Nepal from India",
+   "ne": "Security heightened in Jhapa as wild elephants attempt to enter Nepal from India",
+   "imp": 3,
+   "tags": [
+    "Jhapa",
+    "WildElephants",
+    "Wildlife"
+   ],
+   "cat": "society",
+   "val": 3,
+   "teaser": false,
+   "hits": 2
+  },
+  {
+   "title": "Harjeet Singh slams developed nations over failure to put Himalayan agenda on COP31 table",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSjlxU1pVamxvYzBCd1BjNFAxRkwxZDAweVpXU0FoZ1NPY0VpZGhnZGJxLVd4R1JNakFZckNVUmVUWkRoNXhnaDBYTG95VWFCTUtzczBBaDZYWERnNnE1ZUE0aUxiRFJtOWFJb2tDMjhDNzhsX3Rxb0szZDd2YWRkQm1pZlRSTDd2OXlJczBER0NSNHVOYmE5bTczZklFd2hrYjlTbVItUm13cGJlTFJTcGZZY3E1Um9WSDlNM2pGTGFXODA4alA4cjN3?oc=5",
+   "source": "myRepublica",
+   "ts": 1794450579,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "Harjeet Singh slams developed nations over failure to put Himalayan agenda on COP31 table",
+   "en": "Harjeet Singh slams developed nations over failure to put Himalayan agenda on COP31 table",
+   "ne": "Harjeet Singh slams developed nations over failure to put Himalayan agenda on COP31 table",
+   "imp": 3,
+   "tags": [
+    "COP31",
+    "HarjeetSingh",
+    "ClimateCrisis"
+   ],
+   "cat": "world",
+   "val": 3,
+   "teaser": false,
+   "hits": 2
+  },
+  {
+   "title": "इरान युद्धबारे ट्रम्पले भने : ९३ प्रतिशत होइन, पूर्ण जित चाहन्छौँ",
+   "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्पले इरानसँगको युद्धमा अमेरिकाले जित हासिल गरिसकेको दाबी गर्दै आफूहरू ९३ प्रतिशत नभई पूर्ण जित चाहने बताएका छन्।...",
+   "link": "https://nagariknews.nagariknetwork.com/international/trump-on-iran-war-we-want-total-victory-not-93-percent-86-41.html",
+   "source": "Nagarik News",
+   "ts": 1794452959,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2025/third-party/1794452935_trump.jpg",
+   "lang": "ne",
+   "hl": "इरान युद्धबारे ट्रम्पले भने : ९३ प्रतिशत होइन, पूर्ण जित चाहन्छौँ",
+   "en": "इरान युद्धबारे ट्रम्पले भने : ९३ प्रतिशत होइन, पूर्ण जित चाहन्छौँ",
+   "ne": "इरान युद्धबारे ट्रम्पले भने : ९३ प्रतिशत होइन, पूर्ण जित चाहन्छौँ",
+   "imp": 1,
+   "tags": [
+    "DonaldTrump",
+    "Iran",
+    "USPolitics"
+   ],
+   "cat": "world",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "बैतडीबाट देखिन्छ सुदूरपश्चिमको शिर 'अपी हिमाल'",
+   "summary": "बैतडी, कात्तिक २६ गते । बैतडीको सतबाँझ क्षेत्रबाट देखिएको सुदूरपश्चिम प्रदेशको सर्वोच्च शिखर अपी (७,१३२ मिटर) लगायतका हिमशृङ्खला देखिन्छन् । तस्बिरमा दार्चुलाको अपी-नाम्पा संरक्षण...",
+   "link": "https://gorkhapatraonline.com/news/228862",
+   "source": "Gorkhapatra",
+   "ts": 1794451681,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/391192/conversions/api-1-original.jpg",
+   "lang": "ne",
+   "hl": "बैतडीबाट देखिन्छ सुदूरपश्चिमको शिर 'अपी हिमाल'",
+   "en": "बैतडीबाट देखिन्छ सुदूरपश्चिमको शिर 'अपी हिमाल'",
+   "ne": "बैतडीबाट देखिन्छ सुदूरपश्चिमको शिर 'अपी हिमाल'",
+   "imp": 2,
+   "tags": [
+    "Baitadi",
+    "ApiHimal",
+    "Sudurpashchim"
+   ],
+   "cat": "culture",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "पोखरामा जिप दुर्घटना : एकको मृ*त्यु, १२ जना घाइते",
+   "summary": "घाँटीछिनाबाट पोखरातर्फ आउँदै गरेको ग ४ च १३४४ नम्बरको जिप गएराति सडकबाट अनियन्त्रित भई दुर्घटना भएको प्रहरीले जनाएको छ।...",
+   "link": "https://nagariknews.nagariknetwork.com/social-affairs/jeep-accident-in-pokhara-one-dead-12-injured-br-20-40.html",
+   "source": "Nagarik News",
+   "ts": 1794452013,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2025/third-party/1764911820_1649837678_accident-1200x560.jpg",
+   "lang": "ne",
+   "hl": "पोखरामा जिप दुर्घटना : एकको मृ*त्यु, १२ जना घाइते",
+   "en": "पोखरामा जिप दुर्घटना : एकको मृ*त्यु, १२ जना घाइते",
+   "ne": "पोखरामा जिप दुर्घटना : एकको मृ*त्यु, १२ जना घाइते",
+   "imp": 3,
+   "tags": [
+    "Pokhara",
+    "JeepAccident",
+    "RoadSafety"
+   ],
+   "cat": "disaster",
+   "val": 3,
    "teaser": false,
    "hits": 1
   }
@@ -5123,8 +5298,8 @@
    "cat": "economy"
   }
  ],
- "updated": 1794453587,
- "pending_since": 1794451848.2771838,
+ "updated": 1794453654,
+ "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
