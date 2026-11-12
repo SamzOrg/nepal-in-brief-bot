@@ -1,7 +1,5 @@
 {
  "seen": {
-  "http://english.ratopati.com/story/86197/nvidia-ceos-wealth-drops-by-74-billion-in-a-single-day-shareholders-sue": 1794295868.975635,
-  "https://gorkhapatraonline.com/news/228803": 1794295868.975635,
   "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNemp6amVWaWtRaThKajUzb2NGUjY3X1dEcFlsaktlNDkyXzBncENXZzhFVERyeV9HcVpXWVMyNEhsSllZU2w2Z0FTRVlRSFhaMWZrWXRDWlpoRk1EbEJyWFB2VFJ2LXE5NFZFYU5sODFuTVEyT3JJaFNDTzMySVBXRTJrYkdVMWlYamE1Zm9GRU8xT3JqTkJZVW5uTXpUQktRcnRVdklPcFFjd1k?oc=5": 1794296452.879367,
   "https://kathmandupost.com/world/2026/11/10/explained-why-is-sheikh-hasina-s-plan-to-return-to-bangladesh-contentious": 1794296452.879367,
   "https://baahrakhari.com/detail/507034": 1794296452.879367,
@@ -1028,7 +1026,8 @@
   "https://english.khabarhub.com/2026/12/575328/": 1794468668.336681,
   "https://www.setopati.com/social/402428": 1794468668.336681,
   "https://english.onlinekhabar.com/20-injured-as-two-buses-collide.html": 1794468668.336681,
-  "https://baahrakhari.com/detail/507129": 1794468668.336681
+  "https://baahrakhari.com/detail/507129": 1794468668.336681,
+  "https://english.khabarhub.com/2026/12/575336/": 1794469249.6737952
  },
  "queue": [
   {
@@ -2045,29 +2044,6 @@
    "val": 3,
    "teaser": false,
    "hits": 2
-  },
-  {
-   "title": "Israeli strikes hit medical complex as nine killed across Gaza",
-   "summary": "Israeli attacks have killed at least nine Palestinians across Gaza, as the United Nations made an emergency appeal for waterproof tents to shelter hundreds of thousands exposed to flooding due to heavy rains, Aljazeera...",
-   "link": "https://theannapurnaexpress.com/story/68686",
-   "source": "Annapurna Express",
-   "ts": 1794440448.1633608,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Israeli strikes hit medical complex as nine killed across Gaza",
-   "en": "Israeli strikes hit medical complex as nine killed across Gaza",
-   "ne": "Israeli strikes hit medical complex as nine killed across Gaza",
-   "imp": 1,
-   "tags": [
-    "Gaza",
-    "Israel",
-    "Airstrike"
-   ],
-   "cat": "world",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
   },
   {
    "title": "Matrika Prasad Sharma Cultivates Kiwi in Baglung",
@@ -3685,28 +3661,6 @@
    ],
    "cat": "other",
    "val": 1,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Government Faces Challenges with 72 Problematic Construction Projects",
-   "summary": "Kathmandu. Construction and beautification works in highly VIP areas such as the country's main administrative center Singhdarbar, the President's Office,...",
-   "link": "http://english.ratopati.com/story/86321/barely-10-of-the-72-problematic-projects-of-the-department-of-urban-development-and-building-construction-have-been-completed",
-   "source": "Ratopati EN",
-   "ts": 1794467700,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/s_ikuTIRKYnp.webp",
-   "lang": "en",
-   "hl": "Government Faces Challenges with 72 Problematic Construction Projects",
-   "en": "Government Faces Challenges with 72 Problematic Construction Projects",
-   "ne": "Government Faces Challenges with 72 Problematic Construction Projects",
-   "imp": 4,
-   "tags": [
-    "Construction",
-    "Infrastructure"
-   ],
-   "cat": "politics",
-   "val": 3,
    "teaser": false,
    "hits": 1
   },
@@ -6815,10 +6769,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "sports"
+  },
+  {
+   "ts": 1794469256.7900834,
+   "en": "Nepal Government Faces Delays on 72 Problematic Construction Projects",
+   "ne": "Nepal Government Faces Delays on 72 Problematic Construction Projects",
+   "link": "http://english.ratopati.com/story/86321/barely-10-of-the-72-problematic-projects-of-the-department-of-urban-development-and-building-construction-have-been-completed",
+   "source": "Ratopati EN",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "politics"
   }
  ],
- "updated": 1794468679,
- "pending_since": null,
+ "updated": 1794469269,
+ "pending_since": 1794469249.6737952,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
