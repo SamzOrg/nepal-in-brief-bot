@@ -1,8 +1,5 @@
 {
  "seen": {
-  "https://english.khabarhub.com/2026/10/575127/": 1794280849.547534,
-  "https://news.google.com/rss/articles/CBMisAFBVV95cUxOY2dCaUk5RzZpbXB6X1hpeWxsN2R4RF9IblA3R2hoam51Qm1HeDVTN2pUQzlQaVJVN2thb3ZhakZLbHk3SS15M1FXbGdidTBZTmE1WVM4Rm5jVHJvd0FxbDJaNFpzTE1QNkRsc2hKd2NMZDJwUU45Y3lTdmN5bVZkVXFOWmhaQUVDWUNobWRhaG10aGp5VkJvUThaVmVrRTNGeC1TUEwxc3NLUVRvUUQwZA?oc=5": 1794281356.9916072,
-  "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQX3BJeTR0aFJHeWJ1NDZ1Y0ZBVDVtNXZ1MXdaTVRYWFhkTWNNMXBJeVVLSU1DM0JXN1FiN2RLaE16bWNaU3M1ZXpqYmxnUjVsZklpSUQtNHBNWFZXUkZYcENONGh5UmwyaHBYNEE0VHFfRGFVS2NabS1EYXhLSEpMajE4VFQ0Y0hkMmo2ZEttM1h0UVFLQ3V4T2pVSjRlM2d1ZDlqeVA5NFhTR3Y5WGNIc3gtcXdHeno3dV9Od1dWcXBONHJnUXAtd2JBcU5tNTZYc2otaDZpX3d6bnBDdDR6bXZidG9UdzF4cE1RTEdBaTNhSkJSMFJySW44R1l0dw?oc=5": 1794281467.6207438,
   "https://baahrakhari.com/detail/507019": 1794282051.4809363,
   "https://baahrakhari.com/detail/507020": 1794282051.4809363,
   "https://www.ujyaaloonline.com/detail/133354": 1794282051.4809363,
@@ -974,7 +971,12 @@
   "https://nagariknews.nagariknetwork.com/social-affairs/jeep-accident-in-pokhara-one-dead-12-injured-br-20-40.html": 1794453649.0553284,
   "https://nagariknews.nagariknetwork.com/social-affairs/passenger-ev-falls-500-meters-off-road-in-makawanpur-38-31.html": 1794453649.0553284,
   "https://nagariknews.nagariknetwork.com/social-affairs/kantital-due-to-lack-of-protection-br-95-54.html": 1794453649.0553284,
-  "https://nagariknews.nagariknetwork.com/social-affairs/campaigner-harjit-singh-s-anger-towards-developed-countries-after-mountain-issue-not-included-in-cop-31-s-formal-agenda-br-51-80.html": 1794453649.0553284
+  "https://nagariknews.nagariknetwork.com/social-affairs/campaigner-harjit-singh-s-anger-towards-developed-countries-after-mountain-issue-not-included-in-cop-31-s-formal-agenda-br-51-80.html": 1794453649.0553284,
+  "https://gorkhapatraonline.com/news/228864": 1794454269.9435384,
+  "https://risingnepaldaily.com/news/88550": 1794454269.9435384,
+  "https://nagariknews.nagariknetwork.com/politics/top-bahadur-rayamajhi-released-from-prison-89-60.html": 1794454269.9435384,
+  "https://news.google.com/rss/articles/CBMiowFBVV95cUxPLU1hVllFdHhWMkhkY2QwRTMwMmN5c1dLWk5FeG5ZbEE5bE5meUZRREdPbnp1OXUzRWdHT01wRUFkaVdFY043NC1FWGpfcU1obTA5LUwtbEFjb29LYk82bGRXcFYzZWNYVTZNaEVVczFtUlV2dE9vTUhnQjVwWmV4QzBBYW8xaFU0a25KLUhkaHVmRWtZOFNIY29adW1TZGdkTW1R?oc=5": 1794454269.9435384,
+  "https://english.onlinekhabar.com/ghoptebhir-landslide-highway-one-way.html": 1794454269.9435384
  },
  "queue": [
   {
@@ -1382,7 +1384,7 @@
    "cat": "society",
    "val": 1,
    "teaser": true,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "Food grain imports through Birgunj border decline by 63 percent",
@@ -1405,7 +1407,7 @@
    "cat": "economy",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "बाँसको चोयाका सामग्री बनाएर जीविकोपार्जन",
@@ -2280,20 +2282,57 @@
    "val": 3,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "4.9-magnitude earthquake jolts Sikkim-Nepal region, tremors felt in Gangtok",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPLU1hVllFdHhWMkhkY2QwRTMwMmN5c1dLWk5FeG5ZbEE5bE5meUZRREdPbnp1OXUzRWdHT01wRUFkaVdFY043NC1FWGpfcU1obTA5LUwtbEFjb29LYk82bGRXcFYzZWNYVTZNaEVVczFtUlV2dE9vTUhnQjVwWmV4QzBBYW8xaFU0a25KLUhkaHVmRWtZOFNIY29adW1TZGdkTW1R?oc=5",
+   "source": "Telangana Today",
+   "ts": 1794453902,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "4.9-magnitude earthquake jolts Sikkim-Nepal region, tremors felt in Gangtok",
+   "en": "4.9-magnitude earthquake jolts Sikkim-Nepal region, tremors felt in Gangtok",
+   "ne": "4.9-magnitude earthquake jolts Sikkim-Nepal region, tremors felt in Gangtok",
+   "imp": 3,
+   "tags": [
+    "Earthquake",
+    "Sikkim",
+    "Nepal",
+    "भूकम्प"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Ghoptebhir landslide leaves Prithvi Highway operating one-way",
+   "summary": "Kathmandu, November 12 Traffic along the Prithvi Highway has been restricted to one-way operation following a landslide at Ghoptebhir in Ichchhakamana Rural Municipality-4 of Chitwan district. The road was reopened for...",
+   "link": "https://english.onlinekhabar.com/ghoptebhir-landslide-highway-one-way.html",
+   "source": "Onlinekhabar EN",
+   "ts": 1794453675,
+   "weight": 3,
+   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/11/ghopte-bhir-7-1024x500-2.jpg",
+   "lang": "en",
+   "hl": "Ghoptebhir landslide leaves Prithvi Highway operating one-way",
+   "en": "Ghoptebhir landslide leaves Prithvi Highway operating one-way",
+   "ne": "Ghoptebhir landslide leaves Prithvi Highway operating one-way",
+   "imp": 4,
+   "tags": [
+    "Landslide",
+    "PrithviHighway",
+    "Ghoptebhir",
+    "पहिरो"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1793848859.8629377,
-   "en": "Nepal Ministry Drafts Mental Health Bill to Protect Citizen Rights",
-   "ne": "Nepal Ministry Drafts Mental Health Bill to Protect Citizen Rights",
-   "link": "http://english.ratopati.com/story/85706/this-is-how-the-mental-health-bill-is-coming",
-   "source": "Ratopati EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "health"
-  },
   {
    "ts": 1793850655.1694572,
    "en": "Indian Foreign Secretary Vikram Misri assesses PM Balen's India visit prep in Kathmandu",
@@ -5298,8 +5337,8 @@
    "cat": "economy"
   }
  ],
- "updated": 1794453654,
- "pending_since": null,
+ "updated": 1794454275,
+ "pending_since": 1794454269.9435384,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
