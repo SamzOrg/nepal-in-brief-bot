@@ -1,6 +1,5 @@
 {
  "seen": {
-  "http://english.ratopati.com/story/86195/police-raid-on-card-and-poker-arena-in-jhapa-22-arrested": 1794294651.0866048,
   "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMFI0a3hYT3VxeVpseWlaR3RyLWFybmhBaWdOZnI4dzF2di04NlNwN1o2OXJnNmE0VUM3RXFMSnprR21zNk9kS1Jvd0J4UzNpeGV5dDk2SG1JazBmcEJWWXVwM1pDaVp0ZWpISl9HeHFtWTlsSEVha0lwbTdCQnZUNk5LVlRqSjN2WkE1YlE3WmxpNDI0RDB0RTgxUm40cmtKcWszNk9TTnJKa2s5OXdwbVJTTlRFNUhMUkVLanZKU1FjRm1TTzVB?oc=5": 1794295253.9036083,
   "https://nagariknews.nagariknetwork.com/social-affairs/police-increasing-patrols-and-surveillance-to-control-the-use-of-firecrackers-br-90-41.html": 1794295253.9036083,
   "https://nagariknews.nagariknetwork.com/politics/ncp-coordinator-dahal-wishes-nepal-sambat-br-11-10.html": 1794295253.9036083,
@@ -1033,7 +1032,11 @@
   "https://nagariknews.nagariknetwork.com/social-affairs/trained-dogs-deployed-to-search-for-escaped-prisoner-from-birgunj-jail-69-72.html": 1794467449.7048028,
   "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcTdZMTFhRGJDZTh3bzc0M2g1ZkN3MG56aS0yU2d3WFFuN0I4bi1nQzlLdmJEOWR5RnR5WU1hNzB2WWFua2g2TzRqUW1Nd0JaYmdMVjdOd1R3akhCcFVncHFTOTQ0QzFzSXBYSmNka0JTUWNxX1JpU1hDQkJWOVU2X3VKU0tkS3BBTkMyX2NmVWRkZ2Y0bnFNZWQyd3BVcFI3?oc=5": 1794467449.7048028,
   "https://www.setopati.com/social/402429": 1794467449.7048028,
-  "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOVFSM1hOeEw3WFZjZG44MmY0cEtKTjZDT29OaV94aERCenF2UWZYUldsWnhsd21ubnZabGU0ZzJuT2ttZllEeVpwdW1kQVIzb01VdzgwcFdKWTFDNXlPX3hacktBTzZiR0xRNjRaYnZZMnRhYkNydXVvUk1LeUplZW03Y3ZfNm5JUU9MdHBEb2w0V3dSMjJnVm1VQUEtTEtOSGRhRl9Ec0hrZDhrVEtwblFzTjNGZlZlVDZCRVA1RlBPZw?oc=5": 1794467449.7048028
+  "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOVFSM1hOeEw3WFZjZG44MmY0cEtKTjZDT29OaV94aERCenF2UWZYUldsWnhsd21ubnZabGU0ZzJuT2ttZllEeVpwdW1kQVIzb01VdzgwcFdKWTFDNXlPX3hacktBTzZiR0xRNjRaYnZZMnRhYkNydXVvUk1LeUplZW03Y3ZfNm5JUU9MdHBEb2w0V3dSMjJnVm1VQUEtTEtOSGRhRl9Ec0hrZDhrVEtwblFzTjNGZlZlVDZCRVA1RlBPZw?oc=5": 1794467449.7048028,
+  "https://www.setopati.com/social/402431": 1794468047.312994,
+  "http://english.ratopati.com/story/86338/israeli-airstrike-on-gazas-largest-hospital-kills-at-least-six": 1794468047.312994,
+  "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTDduVDkyajJsYUp5VnNPam53bFhGakJtaEIxdlE5UTB6dm5CMThFNlIyaDA2Nnh5LWZLT1pzVEJocDV0MVZxeGNjeXd6aXRQb2JFcWRLU0cyNnZmaEtvalREb3JodklOR0YtdzFzdnlfQ2hUWjM2ODJMX3h1cFVlbVN3YmRQZG01U3p1ck9SdUFOTi1FZXdRdUhtUm5XLXlxRFBhb3QtVV9UV2ZtLUVGMA?oc=5": 1794468047.312994,
+  "https://baahrakhari.com/detail/507131": 1794468047.312994
  },
  "queue": [
   {
@@ -2235,7 +2238,7 @@
    "cat": "crime",
    "val": 3,
    "teaser": false,
-   "hits": 4
+   "hits": 5
   },
   {
    "title": "As Dashain ends, Chhath devotional songs fill the air",
@@ -3401,7 +3404,7 @@
    "cat": "disaster",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "न्युयोर्कमा भवन भत्कँदा दुईजनाको मृत्यु, १७ घाइते",
@@ -3469,6 +3472,29 @@
    "cat": "disaster",
    "val": 3,
    "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "बाढीबाट जोगिएको प्राण जाडोले नहरोस् !",
+   "summary": "",
+   "link": "https://baahrakhari.com/detail/507131",
+   "source": "Baahrakhari",
+   "ts": 1794467992,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "बाढीबाट जोगिएको प्राण जाडोले नहरोस् !",
+   "en": "बाढीबाट जोगिएको प्राण जाडोले नहरोस् !",
+   "ne": "बाढीबाट जोगिएको प्राण जाडोले नहरोस् !",
+   "imp": 3,
+   "tags": [
+    "Winter",
+    "ColdWave",
+    "शीतलहर"
+   ],
+   "cat": "society",
+   "val": 1,
+   "teaser": true,
    "hits": 1
   }
  ],
@@ -6477,7 +6503,7 @@
    "cat": "sports"
   }
  ],
- "updated": 1794467482,
+ "updated": 1794468056,
  "pending_since": 1794466249.6173081,
  "fb_blocks": [
   1790350880.4125228,
