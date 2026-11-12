@@ -1111,29 +1111,6 @@
  },
  "queue": [
   {
-   "title": "भीमफेदी दुर्घटना अपडेट: मृतक सबै १४ जनाको पहिचान खुल्यो, एकै परिवारका ६ जनाको मृ'त्यु",
-   "summary": "दुर्घटनामा एकै परिवारका ६ जनासहित १४ जनाले ज्यान गुमाएका छन्। मृत्यु हुनेमा आठ महिनाकी गर्भवती महिलासमेत रहेकी छन्।...",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/bhimphedi-accident-update-all-14-deceased-identified-6-members-of-the-same-family-die-53-90.html",
-   "source": "Nagarik News",
-   "ts": 1794489348,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1794465511_gadi%20pahichan%2098.jpg",
-   "lang": "ne",
-   "hl": "भीमफेदी दुर्घटना अपडेट: मृतक सबै १४ जनाको पहिचान खुल्यो, एकै परिवारका ६ जनाको मृ'त्यु",
-   "en": "भीमफेदी दुर्घटना अपडेट: मृतक सबै १४ जनाको पहिचान खुल्यो, एकै परिवारका ६ जनाको मृ'त्यु",
-   "ne": "भीमफेदी दुर्घटना अपडेट: मृतक सबै १४ जनाको पहिचान खुल्यो, एकै परिवारका ६ जनाको मृ'त्यु",
-   "imp": 4,
-   "tags": [
-    "Bhedifedi",
-    "Accident",
-    "दुर्घटना"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "U.S. Embassy in Nepal Urges Public to Report Suspected Visa Fraud",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNF91TUJQdlFHOG52YlpoaGNQeHFLMHgtVFZKNW5fVWY5cThKRllJcm1DVWRhak5hd0ZOVy1Na2pzTHdrSGtEQkRqUUxIS3dHMHNycXFnaFNIMUtxVlExR0twU2ZRaVNNYzBzS2tjZFBobXNnZnF3d1d2VzJfR1RjNWtCdHJwQUp6R3VDY0RHWXVCVmo1c0V0UmV0MDU?oc=5",
@@ -1197,52 +1174,6 @@
     "ITU"
    ],
    "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "गाउँकै आँगनमा छुटेको तिहार",
-   "summary": "यसरी नै, हरेक वर्ष तिहार आउँछ तर हाम्रो एउटा तिहार अझै गाउँकै आँगनमा छुटिरहेको छ।",
-   "link": "https://www.setopati.com/blog/402446",
-   "source": "Setopati",
-   "ts": 1794489300,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "गाउँकै आँगनमा छुटेको तिहार",
-   "en": "गाउँकै आँगनमा छुटेको तिहार",
-   "ne": "गाउँकै आँगनमा छुटेको तिहार",
-   "imp": 1,
-   "tags": [
-    "Tihar",
-    "Feature",
-    "चाडपर्व"
-   ],
-   "cat": "culture",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "New Alignment for Hulaki Road Project Underway",
-   "summary": "Kathmandu. The process of constructing a new road section under the national pride project, Hulaki Highway, connecting Madi and Bharatpur...",
-   "link": "http://english.ratopati.com/story/86341/new-track-of-postal-highway-inside-chitwan-national-park-budget-proposal-of-rs-625-crore-to-protect-wildlife",
-   "source": "Ratopati EN",
-   "ts": 1794489300,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/chitwan-national-park_zirU7v3TL0.webp",
-   "lang": "en",
-   "hl": "New Alignment for Hulaki Road Project Underway",
-   "en": "New Alignment for Hulaki Road Project Underway",
-   "ne": "New Alignment for Hulaki Road Project Underway",
-   "imp": 2,
-   "tags": [
-    "HulakiRoad",
-    "Infrastructure",
-    "RoadProject"
-   ],
-   "cat": "economy",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -5424,7 +5355,7 @@
    "cat": "crime"
   }
  ],
- "updated": 1794517856,
+ "updated": 1794518456,
  "pending_since": 1794517851.4377718,
  "fb_blocks": [
   1790350880.4125228,
