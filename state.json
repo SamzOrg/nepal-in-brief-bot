@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPMm1IQzBSS3pCVGxLcktEZXJBb1ZsUFBlZk5IZWFteEE2UXJZdG0xMDIzUGdCVW5YYmx0ZlFadFhSSURuVHgwUkw3UnRYNWotajdBendZTWgzRzZzbVZLc21qTlJhQ0hSbk05RFAwNnJWNU1CU3FVek1KSnpyYnlwYS1FbUVuaVlEa3hiM1E4aDB0c2xpVXlpSHVpVHA4OUxpSjJMT1dsa04weTU4UFVOVW1ENURZcFR3U2hTZ3dhRHJNakgtMGRaaU94VnBFMHppUVNjZnUxTlBBUXh0M3I4M0Z2ZWNfNnpRMTJ2RHhYZ0JvS2p0M1dpRHg3N1dIdw?oc=5": 1794336650.759754,
   "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB5ZE5lV0EyMTlaUF8ydVdsNGZNdEczNTd4TFE0T1VCd2lUTHFUcXVIUVZWZ28tbDVmQktjc1AwMnZKRFBhV1RBbQ?oc=5": 1794337286.9256968,
   "https://news.google.com/rss/articles/CBMiggFBVV95cUxObS1EbEFuWlE5dXFFdlZ3NGFkUEVUU0RNOGpxZ0ZIZUc5NkRtM3JpbnN5czVidlA5bVZUN2pRaXAydy1wUUVoNHhBWVRRN2FKUkJUc2Z4TjdkZXZJTjdUek9MenU4Yl9pS1NXbEJ1ZnZXSFhFZGNHTk9ZbGI4SDJwdkJn?oc=5": 1794338449.6528764,
   "https://news.google.com/rss/articles/CBMifEFVX3lxTE9EUGpmZlIzRjlHQm9FMUFVdnZwT0ZybGs2NzIxbFB2aEZ2RGQzZnZLMldiek1aRDVRUGxEM3dfUU84RVZLcTlacndWWElVRlEtWWVaMWpMbm5UdEktWFh4ZTlpOGNsb29sYkRWS2gzOTdud1VsQmZsTXpVNmY?oc=5": 1794340251.583008,
@@ -1109,7 +1108,8 @@
   "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdklDc3I4dEdCRVc3VWVzZDhvQXZ1dTAzMnVhSTBaT3p2WDUwZHBaWkJxYVphZHhzeGhpUmRCdVNfYldSV0UxQzNES3FDeFk5WkRGeV8xaUpUOVNsRmRkZVBGTkppb0dGNFZ3Z3FLWGp4RXBkUF9OcHJtNjNqUFRIRHd2RzA2VnhoM2c?oc=5": 1794508273.8665254,
   "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSmJDOFlaYzZidzFjbUlkV1RrN0U4VzNscjllQ2ZYaEFDQ0xncFBRc1FSWmtRZEliY1dNeTcxRzY4Nno3SG92TGxGWVprVEFHeE9kSFRud2dLNGd0bkVyUmkwbUZpRWVmTUIwdHVzR2labVBsZkhnX3BWRW0zZklpTDFHU29FUktyblJiNkZxSWkyd3hCdmZuSDdWYUhhSFlL0gG0AUFVX3lxTE5VWV9nVENqTFJCdGc3di1sSWhCN2U4bG5hWWVhWjFvRnJ4X3NIb1FBbmRHeVJkZlUwVV9vcHNKNHE3NG5Ra3hadks3cHpPNU5xcFk5MXBnZkFpY09qWElZODFXNVhHMEkxdzMwUDItbHVuLTJSLXJfNWxXZTdhV1lvdUpqRmtYOWZXT0c1QjBKS0staVptR1drVVFSc0xjeHE3WXRpZl9ERW9vWnFETkFCUzVobw?oc=5": 1794508861.236741,
   "https://baahrakhari.com/detail/507175": 1794508861.236741,
-  "https://nagariknews.nagariknetwork.com/Dharma-Saskriti/chhath-preparations-targeting-60-000-devotees-in-hetauda-50-61.html": 1794508861.236741
+  "https://nagariknews.nagariknetwork.com/Dharma-Saskriti/chhath-preparations-targeting-60-000-devotees-in-hetauda-50-61.html": 1794508861.236741,
+  "https://news.google.com/rss/articles/CBMisgFBVV95cUxNa3B3WXNlX1JqUDNNaXFkWnNGWHVOZ1hISU9yM0REMWlHOHY0T2c2RlMtVENBOXZwWUpPa3pad2VSWmZrY05VSGRhVWNwd3N4SU1sNDRGZEdwVnAwYUVJTGs4RzM0c2k4bGM5anNOUnJINTYxTFhXR21SS1pMU1J3UEt2RURINGdxOHZNdk1PSU45c1F1VF9sMWU3dXJtdHAyYmZpcGN0azF5ZC16eGxra09B?oc=5": 1794509452.682697
  },
  "queue": [
   {
@@ -3530,6 +3530,30 @@
    ],
    "cat": "culture",
    "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Centre closely monitoring Nepal flood situation; border areas in Bihar, UP on high alert",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNa3B3WXNlX1JqUDNNaXFkWnNGWHVOZ1hISU9yM0REMWlHOHY0T2c2RlMtVENBOXZwWUpPa3pad2VSWmZrY05VSGRhVWNwd3N4SU1sNDRGZEdwVnAwYUVJTGs4RzM0c2k4bGM5anNOUnJINTYxTFhXR21SS1pMU1J3UEt2RURINGdxOHZNdk1PSU45c1F1VF9sMWU3dXJtdHAyYmZpcGN0azF5ZC16eGxra09B?oc=5",
+   "source": "DD News",
+   "ts": 1794488250,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "Centre closely monitoring Nepal flood situation; border areas in Bihar, UP on high alert",
+   "en": "Centre closely monitoring Nepal flood situation; border areas in Bihar, UP on high alert",
+   "ne": "Centre closely monitoring Nepal flood situation; border areas in Bihar, UP on high alert",
+   "imp": 4,
+   "tags": [
+    "Flood",
+    "Bihar",
+    "UttarPradesh",
+    "बाढी"
+   ],
+   "cat": "disaster",
+   "val": 2,
    "teaser": false,
    "hits": 1
   }
@@ -6528,8 +6552,8 @@
    "cat": "crime"
   }
  ],
- "updated": 1794508880,
- "pending_since": null,
+ "updated": 1794509471,
+ "pending_since": 1794509452.682697,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
