@@ -1102,7 +1102,8 @@
   "https://baahrakhari.com/detail/507172": 1794505251.4201462,
   "https://baahrakhari.com/detail/507171": 1794505251.4201462,
   "https://baahrakhari.com/detail/507169": 1794505251.4201462,
-  "https://baahrakhari.com/detail/507174": 1794505851.7962983
+  "https://baahrakhari.com/detail/507174": 1794505851.7962983,
+  "https://theannapurnaexpress.com/story/68706": 1794507654.5721684
  },
  "queue": [
   {
@@ -1144,52 +1145,6 @@
    "tags": [
     "Iran",
     "Nuclear"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Millions of Women Suffer Long-Term Health Issues Post-Childbirth",
-   "summary": "Millions of women continue to struggle with health problems years after giving birth, ranging from inability to control urine and...",
-   "link": "http://english.ratopati.com/story/86343/the-heavy-cost-of-motherhood-why-does-a-womans-pain-not-diminish-even-20-years-after-giving-birth",
-   "source": "Ratopati EN",
-   "ts": 1794478500,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/pregnancy_AlYAOpdyYF.webp",
-   "lang": "en",
-   "hl": "Millions of Women Suffer Long-Term Health Issues Post-Childbirth",
-   "en": "Millions of Women Suffer Long-Term Health Issues Post-Childbirth",
-   "ne": "Millions of Women Suffer Long-Term Health Issues Post-Childbirth",
-   "imp": 2,
-   "tags": [
-    "Health",
-    "Women",
-    "Childbirth"
-   ],
-   "cat": "health",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "पुटिनसँग भेटवार्ता गर्न अमेरिकी प्रतिनिधि रुसमा",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/507144",
-   "source": "Baahrakhari",
-   "ts": 1794478678,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "पुटिनसँग भेटवार्ता गर्न अमेरिकी प्रतिनिधि रुसमा",
-   "en": "पुटिनसँग भेटवार्ता गर्न अमेरिकी प्रतिनिधि रुसमा",
-   "ne": "पुटिनसँग भेटवार्ता गर्न अमेरिकी प्रतिनिधि रुसमा",
-   "imp": 2,
-   "tags": [
-    "Putin",
-    "USA",
-    "Russia"
    ],
    "cat": "world",
    "val": 3,
@@ -2477,7 +2432,7 @@
    "cat": "tech",
    "val": 3,
    "teaser": false,
-   "hits": 7
+   "hits": 8
   },
   {
    "title": "लुम्बिनी प्लेअफमा पुग्ने पहिलो टोली, कर्णालीको यात्रा कठिन",
@@ -6564,7 +6519,7 @@
    "cat": "crime"
   }
  ],
- "updated": 1794507084,
+ "updated": 1794507658,
  "pending_since": 1794506484.19451,
  "fb_blocks": [
   1790350880.4125228,
