@@ -1110,7 +1110,8 @@
   "https://news.google.com/rss/articles/CBMid0FVX3lxTE1DMEtFWTdxMGlFZmg2cFlfVDVUYnp5S3Y3WWIwUnJlS0h3eHJrbC15Z3dMTU50VUFvTWowekhua0UxanBPTG9WU0J3LVU0MF9KV3BIb1FVNFUyY29QWmhRNEhDRkJ3Zml6cHhHU1d4cDdVWUxCRlJ3?oc=5": 1794520882.9818945,
   "https://news.google.com/rss/articles/CBMidEFVX3lxTFBYNHc3TV8weTNlVzNoSkMxMFpfcUFhQ1VFQzBvSEFiNFg2Y1RsaTF1czl2TWE4cl9mSEpNVUkwMlFHMGtnSjlnOFRBY2lwNkF2TW9ReVl1aDB0MEVGLVdkR3psM0t3b0dqTmg2RE5uUDVZdmxI?oc=5": 1794520882.9818945,
   "https://news.google.com/rss/articles/CBMilwFBVV95cUxNc0taYVdMOVN2Zkpwc1dQalhOZVJuRUtsLW5Zek56TU1oaWtoczBWWHZCTjgtRzhxbnItR2NOS19ZdWM1aEk3T0k3NjlsRDY2N1EyS2FpZHkxa0tzTG11YWk2Q0N1SGF4QTY2LWtHVElmajVweFRaRW14cWF3bzRranRJUEN4YnBKYjJUbWFrUy11MW5JMV9J?oc=5": 1794526268.2152193,
-  "http://english.ratopati.com/story/86383/spain-stays-top-of-group-with-2-0-win-over-czech-republic": 1794526268.2152193
+  "http://english.ratopati.com/story/86383/spain-stays-top-of-group-with-2-0-win-over-czech-republic": 1794526268.2152193,
+  "https://news.google.com/rss/articles/CBMimAFBVV95cUxObVVKSmlkdHF5WkJuRU9TTkRNVkp3WVlHYmZyd0xUU2w3TDZvVTE5MU9FOXp3c0N6aGN0UVRSTkh2cFdUUTJDZ3YxZXVKN0hxcUtqQmV0aGF0TWpORDdYZVdoZExBUEp2dWx1MFlEQWthVVNUWmxOQUtTc3VDSnlfdDB1Q3pSMGd5R1RuN0pDU0FpVmY2Qy1YT9IBnAFBVV95cUxNQjBzZHpCblhqeEdSV1RPdVZiRVdleW9zUGR4ckIyajhCWFZxbHVCWDJlMGpaNmFkb05PaUM2ek03MjlqQ1FzcUI0QWE0akdwMk8wMkwweDRLQmZ0U3FGWHhMSm5DYlhvMmloQzVCRmhiajg2Um5uU3Bzb3F6TjI2bFhZT2RmN29zUUdUX3VnVUNzNzIzalNZSElZclg?oc=5": 1794526846.2152755
  },
  "queue": [
   {
@@ -1242,30 +1243,6 @@
     "USPolitics"
    ],
    "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Community forestry strengthens resilience to climate pressures in Nepal",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaTN6M2Qxc1Z2cFdWRnpaRXZocEFUMGpjUWJUVWRyMHBCV21feHpRR0VxM004NDdKZ1VfajdhYi1ZWDZWRFpJZ2xLNU4ySGJkblFFTmI2VFRlaGFMQ3RBb0FJM0lfZzUxLTlmdmlua3l2WVN4cl9MeGdhNFNIdW1ER0hlZlVxLU1UazVqa3VtZWhKWEl2bHd2MURJYWtQUU9MZm5XX0UzTEJBRFpUaE9pOHRHVk1KelFyUnphcjNJVENBa0pkaXhTWlA3aWhaWGt3?oc=5",
-   "source": "Imperial College London",
-   "ts": 1794498033,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Community forestry strengthens resilience to climate pressures in Nepal",
-   "en": "Community forestry strengthens resilience to climate pressures in Nepal",
-   "ne": "Community forestry strengthens resilience to climate pressures in Nepal",
-   "imp": 3,
-   "tags": [
-    "CommunityForestry",
-    "ClimateChange",
-    "Nepal",
-    "सामुदायिकवन"
-   ],
-   "cat": "society",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -4516,7 +4493,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1794526273,
+ "updated": 1794526851,
  "pending_since": 1794525052.8595414,
  "fb_blocks": [
   1790350880.4125228,
