@@ -969,7 +969,11 @@
   "http://english.ratopati.com/story/86312/top-bahadur-rayamajhi-released-from-dillibazaar-prison": 1794451251.254882,
   "https://baahrakhari.com/detail/507105": 1794451251.254882,
   "https://baahrakhari.com/detail/507110": 1794451848.2771838,
-  "https://www.setopati.com/social/402416": 1794451848.2771838
+  "https://www.setopati.com/social/402416": 1794451848.2771838,
+  "https://www.setopati.com/social/402417": 1794452481.0190747,
+  "https://www.ujyaaloonline.com/detail/133408": 1794452481.0190747,
+  "https://theannapurnaexpress.com/story/68682": 1794452481.0190747,
+  "https://english.onlinekhabar.com/microbus-accident-makwanpur.html": 1794452481.0190747
  },
  "queue": [
   {
@@ -1964,7 +1968,7 @@
    "cat": "world",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "भाइटीकाको दिन हिजो २ हजार ५०० यात्रुलाई सशस्त्र प्रहरीको निःशुल्क बस सेवा",
@@ -2162,21 +2166,21 @@
    "hits": 1
   },
   {
-   "title": "भीमफेदीमा गाडी दुर्घटना हुँदा १० जनाको मृत्यु, ५ जना घाइते (अपडेट)",
-   "summary": "मकवानपुरको भीमफेदी गाउँपालिका-६ स्थित चिसापानी गढीमा गाडी दुर्घटना हुँदा १० जनाको मृत्यु भएको छ भने ५ जना घाइते भएका छन्।",
-   "link": "https://www.setopati.com/social/402416",
-   "source": "Setopati",
-   "ts": 1794451654,
+   "title": "10 killed, five injured in microbus accident in Makwanpur",
+   "summary": "Kathmandu, November 12 Ten people have died and five others have been injured after a microbus plunged off the road at Chisapani Gadhi in Bhimphedi Rural Municipality-6 of Makwanpur district on Thursday morning....",
+   "link": "https://english.onlinekhabar.com/microbus-accident-makwanpur.html",
+   "source": "Onlinekhabar EN",
+   "ts": 1794452298,
    "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "भीमफेदीमा गाडी दुर्घटना हुँदा १० जनाको मृत्यु, ५ जना घाइते (अपडेट)",
-   "en": "भीमफेदीमा गाडी दुर्घटना हुँदा १० जनाको मृत्यु, ५ जना घाइते (अपडेट)",
-   "ne": "भीमफेदीमा गाडी दुर्घटना हुँदा १० जनाको मृत्यु, ५ जना घाइते (अपडेट)",
+   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/11/micro-bus-accident.jpg",
+   "lang": "en",
+   "hl": "10 killed, five injured in microbus accident in Makwanpur",
+   "en": "10 killed, five injured in microbus accident in Makwanpur",
+   "ne": "10 killed, five injured in microbus accident in Makwanpur",
    "imp": 4,
    "tags": [
-    "Bhedifedi",
-    "CarAccident",
+    "Makwanpur",
+    "Accident",
     "दुर्घटना"
    ],
    "cat": "disaster",
@@ -2186,17 +2190,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1793847077.8111355,
-   "en": "रूपन्देहीमा महिलाको हत्या आरोपमा चार जना पक्राउ",
-   "ne": "रूपन्देहीमा महिलाको हत्या आरोपमा चार जना पक्राउ",
-   "link": "https://www.setopati.com/social/402041",
-   "source": "Setopati",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "crime"
-  },
   {
    "ts": 1793848859.8629377,
    "en": "Nepal Ministry Drafts Mental Health Bill to Protect Citizen Rights",
@@ -5188,9 +5181,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "environment"
+  },
+  {
+   "ts": 1794452487.1044571,
+   "en": "भीमफेदीमा गाडी दुर्घटना हुँदा १० जनाको मृत्यु, ५ घाइते",
+   "ne": "भीमफेदीमा गाडी दुर्घटना हुँदा १० जनाको मृत्यु, ५ घाइते",
+   "link": "https://www.setopati.com/social/402416",
+   "source": "Setopati",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": true,
+   "cat": "disaster"
   }
  ],
- "updated": 1794451854,
+ "updated": 1794452498,
  "pending_since": 1794451848.2771838,
  "fb_blocks": [
   1790350880.4125228,
