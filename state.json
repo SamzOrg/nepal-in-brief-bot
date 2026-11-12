@@ -1038,7 +1038,9 @@
   "https://baahrakhari.com/detail/507145": 1794480655.6066098,
   "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaXB3LUxPODNjdmgyb2pPcEx2eWZva2RHTHFRMWx1R2Rpak92U0lzSXBFTFd0RW1EYzlPS29CMGRSVFpfLXNjWGRGME1VcS1wRkpLczJReUFsWXlWSVd3MEJVSi1ISEl0ak1nWEtkVS12cUd4NHZ2TlBXRDUwYk5qNjQyMkl6bmhmUXFCZEVYZUJveGs5TE9xX3hxbm1XcGliWU5sX1hBNHNjckc4dHJBakctNHNHenpFWWR2M25Md3VMZw?oc=5": 1794480655.6066098,
   "https://theannapurnaexpress.com/story/68702": 1794480655.6066098,
-  "https://baahrakhari.com/detail/507144": 1794480655.6066098
+  "https://baahrakhari.com/detail/507144": 1794480655.6066098,
+  "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUmw5VEU4VFRZWFE1aWtIOHU3VDdfUjE1bDB3X0swc2xWdlZIM0UxcGlJSmhRZkQ5am9DTG1rM0ZrMzdWUmxLWFhXNnJlUU1CSkpTRkJfRlRnZURHYWFMLTFGb0NHUWhqSzBvYVVDbkpRMGQ0SWJJT2tNQU9VRW0yMTFjZVZadjV2QV9rMElQSUdWWnlPMHl6ckJjN3Bhc3Y3SlJyWkJ2S3liLWNYcDE3UEdzUTl1Rzh5dXBjWVBTenI5ZzZuRDRJcHZn?oc=5": 1794481284.0745845,
+  "https://english.onlinekhabar.com/death-toll-in-makwanpur-ev-accident-rises-to-14-six-injured.html": 1794481284.0745845
  },
  "queue": [
   {
@@ -1083,29 +1085,6 @@
     "USPolitics"
    ],
    "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "पोखरामा जिप दुर्घटना : एकको मृ*त्यु, १२ जना घाइते",
-   "summary": "घाँटीछिनाबाट पोखरातर्फ आउँदै गरेको ग ४ च १३४४ नम्बरको जिप गएराति सडकबाट अनियन्त्रित भई दुर्घटना भएको प्रहरीले जनाएको छ।...",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/jeep-accident-in-pokhara-one-dead-12-injured-br-20-40.html",
-   "source": "Nagarik News",
-   "ts": 1794452013,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1764911820_1649837678_accident-1200x560.jpg",
-   "lang": "ne",
-   "hl": "पोखरामा जिप दुर्घटना : एकको मृ*त्यु, १२ जना घाइते",
-   "en": "पोखरामा जिप दुर्घटना : एकको मृ*त्यु, १२ जना घाइते",
-   "ne": "पोखरामा जिप दुर्घटना : एकको मृ*त्यु, १२ जना घाइते",
-   "imp": 3,
-   "tags": [
-    "Pokhara",
-    "JeepAccident",
-    "RoadSafety"
-   ],
-   "cat": "disaster",
    "val": 3,
    "teaser": false,
    "hits": 2
@@ -2893,7 +2872,7 @@
    "cat": "world",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "National employment act being drafted",
@@ -3864,20 +3843,33 @@
    "val": 3,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "Death toll in Makwanpur EV accident rises to 14, six injured",
+   "summary": "Kathmandu, November 12 The death toll in an electric vehicle (EV) accident at Chisapani Gadhi in Bhimphedi Rural Municipality-6, Makwanpur, has risen to 14, while six others were injured. Deputy Superintendent of Police...",
+   "link": "https://english.onlinekhabar.com/death-toll-in-makwanpur-ev-accident-rises-to-14-six-injured.html",
+   "source": "Onlinekhabar EN",
+   "ts": 1794480673,
+   "weight": 3,
+   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/11/micro-bus-accident.jpg",
+   "lang": "en",
+   "hl": "Death toll in Makwanpur EV accident rises to 14, six injured",
+   "en": "Death toll in Makwanpur EV accident rises to 14, six injured",
+   "ne": "Death toll in Makwanpur EV accident rises to 14, six injured",
+   "imp": 4,
+   "tags": [
+    "Makwanpur",
+    "ElectricVehicle",
+    "Accident",
+    "दुर्घटना"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1793875857.039213,
-   "en": "Govt halts film Paanch Pandav screening after censor board clearance",
-   "ne": "Govt halts film Paanch Pandav screening after censor board clearance",
-   "link": "https://english.onlinekhabar.com/govt-halts-paanch-pandav-screening.html",
-   "source": "Onlinekhabar EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "society"
-  },
   {
    "ts": 1793877658.510241,
    "en": "Cristiano Ronaldo announces retirement from international football",
@@ -6860,8 +6852,8 @@
    "cat": "disaster"
   }
  ],
- "updated": 1794480664,
- "pending_since": null,
+ "updated": 1794481288,
+ "pending_since": 1794481284.0745845,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
