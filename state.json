@@ -1554,7 +1554,8 @@
   "https://baahrakhari.com/detail/507256": 1794588050.400829,
   "http://english.ratopati.com/story/86524/today-in-npl-run-drought-on-slow-pitch-janakpur-karnalis-journey-ends": 1794588050.400829,
   "https://theannapurnaexpress.com/story/68735": 1794589852.0311754,
-  "https://theannapurnaexpress.com/story/68734": 1794589852.0311754
+  "https://theannapurnaexpress.com/story/68734": 1794589852.0311754,
+  "https://theannapurnaexpress.com/story/68736": 1794590451.0089493
  },
  "queue": [
   {
@@ -1625,28 +1626,6 @@
    "hits": 1
   },
   {
-   "title": "Indian storyteller Laksh Maheshwari to make Nepal debut on November 29",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNS2dfdXFPYm9pNjZ5eWtVcjFYV3pmTldFYl9leDhZdHRQdDcwX1hwd1MwcVFpNlhqYi1BVmVkRElQdmVHNlU5b0tZWkZoUjdhb1FpUVBLdl9YaU9ZYW4yN1NKeXRzYlJxazRWeWZxRkRrMDd1T1Fnb0xSM1pKUTBoeWxQbExCY0RWSlFTVnRSM1dfZ05QUGc5b1V1VjNDLUxSTkFhSGhwa20xMmZ3bVVSM3ctd0U?oc=5",
-   "source": "The Himalayan Times",
-   "ts": 1794561151,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Indian storyteller Laksh Maheshwari to make Nepal debut on November 29",
-   "en": "Indian storyteller Laksh Maheshwari to make Nepal debut on November 29",
-   "ne": "Indian storyteller Laksh Maheshwari to make Nepal debut on November 29",
-   "imp": 2,
-   "tags": [
-    "LakshMaheshwari",
-    "Event"
-   ],
-   "cat": "culture",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Space Debris Impacts Earth's Weather and Ozone Layer",
    "summary": "When observing the clear night sky, a satellite can be seen moving rapidly. These are among the thousands of man-made...",
    "link": "http://english.ratopati.com/story/86479/space-junk-a-new-threat-to-earths-climate-and-atmosphere",
@@ -1665,29 +1644,6 @@
     "OzoneLayer"
    ],
    "cat": "tech",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "'आइफोन १८ प्रो सिरिज लक्की ड्र'का बम्पर विजेता तुम्रोकलाई २५ लाख प्रदान",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/507215",
-   "source": "Baahrakhari",
-   "ts": 1794561414,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "'आइफोन १८ प्रो सिरिज लक्की ड्र'का बम्पर विजेता तुम्रोकलाई २५ लाख प्रदान",
-   "en": "'आइफोन १८ प्रो सिरिज लक्की ड्र'का बम्पर विजेता तुम्रोकलाई २५ लाख प्रदान",
-   "ne": "'आइफोन १८ प्रो सिरिज लक्की ड्र'का बम्पर विजेता तुम्रोकलाई २५ लाख प्रदान",
-   "imp": 2,
-   "tags": [
-    "IPhone",
-    "LuckyDraw",
-    "टुपोक"
-   ],
-   "cat": "economy",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -1716,29 +1672,6 @@
    "hits": 1
   },
   {
-   "title": "सिटी होटलको नोक्सानी २८ प्रतिशतले घट्यो, कुल आम्दानीमा ४.७ प्रतिशत वृद्धि",
-   "summary": "चालु आर्थिक वर्षको असोज मसान्तसम्म कम्पनीको खुद नोक्सानी ४ करोड ३ लाख रूपैयाँ रहेको छ।",
-   "link": "https://www.setopati.com/kinmel/banking/402504",
-   "source": "Setopati",
-   "ts": 1794561532,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "सिटी होटलको नोक्सानी २८ प्रतिशतले घट्यो, कुल आम्दानीमा ४.७ प्रतिशत वृद्धि",
-   "en": "सिटी होटलको नोक्सानी २८ प्रतिशतले घट्यो, कुल आम्दानीमा ४.७ प्रतिशत वृद्धि",
-   "ne": "सिटी होटलको नोक्सानी २८ प्रतिशतले घट्यो, कुल आम्दानीमा ४.७ प्रतिशत वृद्धि",
-   "imp": 2,
-   "tags": [
-    "CityHotel",
-    "Revenue",
-    "ShareMarket"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Share Market Declines Slightly After Tihar Break",
    "summary": "Kathmandu. The stock market declined by a small margin on Friday. The market, which opened after a week due to...",
    "link": "http://english.ratopati.com/story/86476/nepse",
@@ -1760,29 +1693,6 @@
    "val": 3,
    "teaser": false,
    "hits": 5
-  },
-  {
-   "title": "सुदूरपश्चिमविरुद्धको पावर प्लेमा काठमाण्डूका दुई ब्याटर पभेलियन",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/507214",
-   "source": "Baahrakhari",
-   "ts": 1794561280,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "सुदूरपश्चिमविरुद्धको पावर प्लेमा काठमाण्डूका दुई ब्याटर पभेलियन",
-   "en": "सुदूरपश्चिमविरुद्धको पावर प्लेमा काठमाण्डूका दुई ब्याटर पभेलियन",
-   "ne": "सुदूरपश्चिमविरुद्धको पावर प्लेमा काठमाण्डूका दुई ब्याटर पभेलियन",
-   "imp": 3,
-   "tags": [
-    "NPL",
-    "Kathmandu",
-    "Sudurpaschim"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
   },
   {
    "title": "त्रिविका सबै क्याम्पसमा सेमेस्टर प्रणाली लागू गर्ने तयारी, शैक्षिक गुणस्तर सुधारमा नयाँ योजना",
@@ -1807,29 +1717,6 @@
    "hits": 1
   },
   {
-   "title": "बिग्ही किनारमा नेपाल भारतको संयुक्त छठ घाट",
-   "summary": "घाट निर्माणमा हुने खर्चमा पनि दुवै देशका नागरिकको समान भागिदारी हुने गरेको मण्डलले बताए।",
-   "link": "https://www.setopati.com/social/402505",
-   "source": "Setopati",
-   "ts": 1794561485,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "बिग्ही किनारमा नेपाल भारतको संयुक्त छठ घाट",
-   "en": "बिग्ही किनारमा नेपाल भारतको संयुक्त छठ घाट",
-   "ne": "बिग्ही किनारमा नेपाल भारतको संयुक्त छठ घाट",
-   "imp": 2,
-   "tags": [
-    "Chhath",
-    "NepalIndia",
-    "Border"
-   ],
-   "cat": "culture",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "चीन जाने रास्वपाको टोलीलाई प्रधानमन्त्री बालेनले भने- आर्थिक विकाससँग जोड्ने एजेण्डा उठाउनूहोस्",
    "summary": "र प्रधानमन्त्रीले चीनसँगको नेपालको विशिष्ट सम्बन्धलाई थप सुदृढ बनाउन भ्रमण फलदायी हुनुपर्नेमा जोड दिए । साथै, भ्रमणलाई केवल औपचारिक वा पर्यटकीय भ्रमणमा सीमित नराखी नेपालको राष्ट्रिय हित र आर्थिक विकाससँग जोड्न निर्देशन...",
    "link": "https://nagariknews.nagariknetwork.com/politics/prime-minister-balen-tells-the-rspb-team-going-to-china-raise-the-agenda-that-links-it-to-economic-development-68-38.html",
@@ -1848,29 +1735,6 @@
     "Balen"
    ],
    "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Youth Arrested with Brown Sugar in Sunsari",
-   "summary": "Sunsari. A youth has been arrested with brown sugar in Sunsari. Police arrested 25-year-old Amar Darji of Dharan Sub-metropolis-1 on...",
-   "link": "http://english.ratopati.com/story/86473/a-young-man-was-arrested-with-brown-sugar-hidden-in-his-anus",
-   "source": "Ratopati EN",
-   "ts": 1794561638,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/capture_BExnLtop16.webp",
-   "lang": "en",
-   "hl": "Youth Arrested with Brown Sugar in Sunsari",
-   "en": "Youth Arrested with Brown Sugar in Sunsari",
-   "ne": "Youth Arrested with Brown Sugar in Sunsari",
-   "imp": 2,
-   "tags": [
-    "Sunsari",
-    "BrownSugar",
-    "DrugArrest"
-   ],
-   "cat": "crime",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -2459,7 +2323,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "दुःख दिने चितुवा नियन्त्रणमा",
@@ -2922,29 +2786,6 @@
     "स्वास्थ्य"
    ],
    "cat": "health",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "सन्यासको घोषणापछि रोनाल्डोको अर्को धमाका, 'डे १एस' मार्फत नयाँ अवतारमा देखिँदै",
-   "summary": "अन्तर्राष्ट्रिय फुटबलबाट सन्यास लिने घोषणा गरेका पोर्चुगिज स्टार क्रिस्टियानो रोनाल्डोले आफ्नो करियरको नयाँ अध्याय सुरु गर्दै समर्थकलाई सरप्राइज दिएका छन्।...",
-   "link": "https://nagariknews.nagariknetwork.com/sports/ronaldo-s-next-explosion-after-retirement-announcement-seen-in-a-new-avatar-through-day-1s-90-83.html",
-   "source": "Nagarik News",
-   "ts": 1794561218,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1794560708_Ronaldo.jpg",
-   "lang": "ne",
-   "hl": "सन्यासको घोषणापछि रोनाल्डोको अर्को धमाका, 'डे १एस' मार्फत नयाँ अवतारमा देखिँदै",
-   "en": "सन्यासको घोषणापछि रोनाल्डोको अर्को धमाका, 'डे १एस' मार्फत नयाँ अवतारमा देखिँदै",
-   "ne": "सन्यासको घोषणापछि रोनाल्डोको अर्को धमाका, 'डे १एस' मार्फत नयाँ अवतारमा देखिँदै",
-   "imp": 1,
-   "tags": [
-    "Ronaldo",
-    "Football",
-    "Sports"
-   ],
-   "cat": "sports",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -3812,30 +3653,6 @@
    "val": 3,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "Janakpur collapse against Chitwan in must-win match",
-   "summary": "The first-season champions managed just 88 for nine, dealing a major blow to their slim hopes of reaching the Nepal Premier League playoffs.",
-   "link": "https://kathmandupost.com/cricket/2026/11/13/janakpur-collapse-against-chitwan-in-must-win-match",
-   "source": "Kathmandu Post",
-   "ts": 1794561052.5738766,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Janakpur collapse against Chitwan in must-win match",
-   "en": "Janakpur collapse against Chitwan in must-win match",
-   "ne": "Janakpur collapse against Chitwan in must-win match",
-   "imp": 3,
-   "tags": [
-    "JanakpurBolts",
-    "Chitwan",
-    "Cricket",
-    "क्रिकेट"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "महिलाको शव फेला",
@@ -4742,29 +4559,6 @@
    "val": 2,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "US, Ukraine say Europe to join Russia talks as Putin sticks to hardline stance",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMEdGZkt2UG9GNTc5YW1UU1RReS1nS0p5czNjMnlWWkY0UzVKUVZzRDJLSUFIM2hhMmZxV25PVS14cExOLVFtaHg4RG1qSUQzMFJxRWlvcFIxLXdsTjBPeGRERE4yc1pBWEI3WHNod3JoRzB6UmE0QmpOX25iZXZHRlE4VFNaZUhFSmlzZm0zZ2stX0dxc1BrVkpoU0tfZThBNDllR2puX3gtbkVveGpMM1lGV0hBeDRiazllUGpWSUt3YXFlQWpwVE13?oc=5",
-   "source": "myRepublica",
-   "ts": 1794561300,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "US, Ukraine say Europe to join Russia talks as Putin sticks to hardline stance",
-   "en": "US, Ukraine say Europe to join Russia talks as Putin sticks to hardline stance",
-   "ne": "US, Ukraine say Europe to join Russia talks as Putin sticks to hardline stance",
-   "imp": 1,
-   "tags": [
-    "Europe",
-    "RussiaTalks",
-    "Putin"
-   ],
-   "cat": "world",
-   "val": 2,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "Arjun Kumar Karki urges developed countries to provide climate finance as grants, not loans",
@@ -8469,7 +8263,7 @@
    "cat": "crime"
   }
  ],
- "updated": 1794589856,
+ "updated": 1794590454,
  "pending_since": 1794588653.2978065,
  "fb_blocks": [
   1790350880.4125228,
