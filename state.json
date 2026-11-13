@@ -1291,7 +1291,8 @@
   "http://english.ratopati.com/story/86448/question-to-the-balen-government-is-good-governance-possible-by-suppressing-the-voice-of-the-people": 1794555650.278886,
   "http://english.ratopati.com/story/86447/congress-expresses-deep-sorrow-over-bhimphedi-accident": 1794555650.278886,
   "https://www.setopati.com/art/bollywood/402493": 1794556261.0594993,
-  "https://kathmandupost.com/national/2026/11/13/sarlahi-village-mourns-13-residents-killed-in-makawanpur-crash": 1794556261.0594993
+  "https://kathmandupost.com/national/2026/11/13/sarlahi-village-mourns-13-residents-killed-in-makawanpur-crash": 1794556261.0594993,
+  "http://english.ratopati.com/story/86457/indian-youth-dies-after-eating-bomb-mistaking-it-for-candy": 1794556880.6838229
  },
  "queue": [
   {
@@ -1451,29 +1452,6 @@
    "hits": 2
   },
   {
-   "title": "Chhath festival begins, filling Mithila with religious fervour",
-   "summary": "MAHOTTARI: The Mithila region, including Mahottari district, has come alive with festive activities as preparations intensify for the four-day Chhath festival, which begins today on Kartik Shukla Chaturthi, following...",
-   "link": "https://english.khabarhub.com/2026/13/575398/",
-   "source": "Khabarhub EN",
-   "ts": 1794527632,
-   "weight": 2,
-   "img": "https://english.khabarhub.com/wp-content/uploads/2023/11/Chhath_-RSS-scaled-e1700236735234-640x360.jpg",
-   "lang": "en",
-   "hl": "Chhath festival begins, filling Mithila with religious fervour",
-   "en": "Chhath festival begins, filling Mithila with religious fervour",
-   "ne": "Chhath festival begins, filling Mithila with religious fervour",
-   "imp": 2,
-   "tags": [
-    "ChhathFestival",
-    "Mithila",
-    "छठपर्व"
-   ],
-   "cat": "culture",
-   "val": 3,
-   "teaser": false,
-   "hits": 7
-  },
-  {
    "title": "जर्मनीका एआई इन्जिनियर जितेन्द्र",
    "summary": "कम्पनीको बिजनेस इन्टेलिजेन्स टिममा पाँच जना सदस्य छन्। उनी पोल्यान्ड, युक्रेन र जर्मनीका सहकर्मीसँग मिलेर काम गरिरहेका छन्। उनी टिमका सबभन्दा वरिष्ठ सदस्य हुन्।",
    "link": "https://www.setopati.com/global/europe/402462",
@@ -1493,28 +1471,6 @@
    "val": 2,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "Manchester United Sacks Head Coach Michael Carrick",
-   "summary": "Manchester. English Premier League club Manchester United has sacked head coach Michael Carrick. The club confirmed his dismissal in a statement...",
-   "link": "http://english.ratopati.com/story/86385/michael-carrick-sacked-after-worst-start-in-40-years-pochettino-main-contender",
-   "source": "Ratopati EN",
-   "ts": 1794527590,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/carrik_jPsoea6XPQ.webp",
-   "lang": "en",
-   "hl": "Manchester United Sacks Head Coach Michael Carrick",
-   "en": "Manchester United Sacks Head Coach Michael Carrick",
-   "ne": "Manchester United Sacks Head Coach Michael Carrick",
-   "imp": 3,
-   "tags": [
-    "ManchesterUnited",
-    "MichaelCarrick"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "Gandhi-Mandela Foundation Nepal Chapter Launched to Promote Peace",
@@ -3050,28 +3006,6 @@
     "हात्ती"
    ],
    "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "New York City building collapse kills 8, mayor expands probe",
-   "summary": "Rescue teams worked through torrential rain on Thursday and found no more victims in the rubble of a New York City apartment building collapse that killed at least eight people and prompted Mayor Zohran Mamdani to order...",
-   "link": "https://theannapurnaexpress.com/story/68713",
-   "source": "Annapurna Express",
-   "ts": 1794528076.7180388,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "New York City building collapse kills 8, mayor expands probe",
-   "en": "New York City building collapse kills 8, mayor expands probe",
-   "ne": "New York City building collapse kills 8, mayor expands probe",
-   "imp": 1,
-   "tags": [
-    "NewYork",
-    "BuildingCollapse"
-   ],
-   "cat": "world",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -5527,6 +5461,29 @@
     "सवारीदुर्घटना"
    ],
    "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Youth Dies After Eating Explosive-Filled Sweet in Madhya Pradesh",
+   "summary": "India. A youth has died in Madhya Pradesh after an explosive-filled dough ball, resembling a traditional Indian sweet, exploded in...",
+   "link": "http://english.ratopati.com/story/86457/indian-youth-dies-after-eating-bomb-mistaking-it-for-candy",
+   "source": "Ratopati EN",
+   "ts": 1794556675,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/india-map_fuq7GLhm0D.webp",
+   "lang": "en",
+   "hl": "Youth Dies After Eating Explosive-Filled Sweet in Madhya Pradesh",
+   "en": "Youth Dies After Eating Explosive-Filled Sweet in Madhya Pradesh",
+   "ne": "Youth Dies After Eating Explosive-Filled Sweet in Madhya Pradesh",
+   "imp": 1,
+   "tags": [
+    "MadhyaPradesh",
+    "India",
+    "Crime"
+   ],
+   "cat": "world",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -8515,7 +8472,7 @@
    "cat": "politics"
   }
  ],
- "updated": 1794556339,
+ "updated": 1794556884,
  "pending_since": 1794556261.0594993,
  "fb_blocks": [
   1790350880.4125228,
