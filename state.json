@@ -1124,7 +1124,8 @@
   "http://english.ratopati.com/story/86393/youth-arrested-for-stealing-goods-from-workshop-during-lakshmi-puja": 1794532851.0633242,
   "https://nagariknews.nagariknetwork.com/politics/government-committed-to-resolving-the-problems-of-nepalis-in-turkey-79-69.html": 1794532851.0633242,
   "http://english.ratopati.com/story/86392/three-more-women-arrested-for-allegedly-performing-obscene-dance-in-deusivhailo": 1794532851.0633242,
-  "http://english.ratopati.com/story/86391/knife-fight-over-accident": 1794532851.0633242
+  "http://english.ratopati.com/story/86391/knife-fight-over-accident": 1794532851.0633242,
+  "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNV0dCNEhleldzRGpwbVcyOWVyemlpM2RHaTd1ajFlNWhWQk5FcmhJVzRSQnhiNkRyMURzcHBla0VJMmxSWjVpOXh5MlR6TVJlM0tuR3lDU3hpYlJOeUVhRl85dGF4M2Y0T1pQNU5sMnhjNlF6Tk44R3BPWERqaC11RXpMS29SUGR3TDRWMDhKamo4T0ExaVdzRzJqNUJrWUVIbDJ0RDQzWjBIS09tWWVGTlpSLUE2UHhLOXdUZVlQcy16RWdTV2FjRDJJWFRHZ1BxbFppZ3ZlYTdGMXRQSFdsN0NONA?oc=5": 1794533465.919656
  },
  "queue": [
   {
@@ -1148,29 +1149,6 @@
    ],
    "cat": "world",
    "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Investigators Probe Pilot Miscommunication in Nepal Helicopter Collision",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbmYtNnVfZ0RlVUM4ZzRCR0VfckFfbVNYVG9ZOWJtWGR0NEFYVmhJRllOaHFLTndobDZWZ0pndENKalc0VGk5TzBoYnR3eTNlTmhSTzFuZTFoVE40SGR4ZkU5cDAySEpfNHNoS1pwTVE3cm50cXVrUTQtNWhUbWpQVS1YbnQzdkNDMzdETWhCY2d2ck1rYkEtR1BmenVSY2ZuRk5pa1lrdndGbG5EVTlWNDlnbEpZM3pMVkc0S3ROUlI?oc=5",
-   "source": "Aviation International News",
-   "ts": 1794504346,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Investigators Probe Pilot Miscommunication in Nepal Helicopter Collision",
-   "en": "Investigators Probe Pilot Miscommunication in Nepal Helicopter Collision",
-   "ne": "Investigators Probe Pilot Miscommunication in Nepal Helicopter Collision",
-   "imp": 3,
-   "tags": [
-    "NepalHelicopter",
-    "Aviation",
-    "Investigation"
-   ],
-   "cat": "disaster",
-   "val": 2,
    "teaser": false,
    "hits": 1
   },
@@ -1554,7 +1532,7 @@
    "cat": "society",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Bhairav Kunda in Rasuwa steeped in religious beliefs and ancient legends",
@@ -4944,8 +4922,8 @@
    "cat": "disaster"
   }
  ],
- "updated": 1794532875,
- "pending_since": null,
+ "updated": 1794533469,
+ "pending_since": 1794533465.919656,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
