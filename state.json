@@ -1218,7 +1218,8 @@
   "https://theannapurnaexpress.com/story/68716": 1794548455.6662283,
   "https://www.ujyaaloonline.com/detail/133440": 1794549048.894095,
   "https://theannapurnaexpress.com/story/68719": 1794549048.894095,
-  "http://english.ratopati.com/story/86429/uml-national-gathering-expectations-to-end-cadres-frustration-and-organizational-chaos": 1794549048.894095
+  "http://english.ratopati.com/story/86429/uml-national-gathering-expectations-to-end-cadres-frustration-and-organizational-chaos": 1794549048.894095,
+  "https://english.onlinekhabar.com/wild-male-elephants-vie-of-sauraha.html": 1794549680.8659174
  },
  "queue": [
   {
@@ -3945,6 +3946,30 @@
    ],
    "cat": "politics",
    "val": 1,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Wild male elephants vie for control of Sauraha breeding centre after Ronaldo's death",
+   "summary": "Chitwan, November 13 A power struggle is intensifying among wild male elephants for control of the Sauraha Elephant Breeding Centre after the death of 'Ronaldo'. The well-known 45-year-old male elephant died on...",
+   "link": "https://english.onlinekhabar.com/wild-male-elephants-vie-of-sauraha.html",
+   "source": "Onlinekhabar EN",
+   "ts": 1794549403,
+   "weight": 3,
+   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/11/hatti-prajanan-kendra_sauraha-1024x500-1.jpg",
+   "lang": "en",
+   "hl": "Wild male elephants vie for control of Sauraha breeding centre after Ronaldo's death",
+   "en": "Wild male elephants vie for control of Sauraha breeding centre after Ronaldo's death",
+   "ne": "Wild male elephants vie for control of Sauraha breeding centre after Ronaldo's death",
+   "imp": 2,
+   "tags": [
+    "Sauraha",
+    "Elephant",
+    "Chitwan",
+    "हात्ती"
+   ],
+   "cat": "society",
+   "val": 3,
    "teaser": false,
    "hits": 1
   }
@@ -6943,7 +6968,7 @@
    "cat": "politics"
   }
  ],
- "updated": 1794549067,
+ "updated": 1794549692,
  "pending_since": 1794548455.6662283,
  "fb_blocks": [
   1790350880.4125228,
