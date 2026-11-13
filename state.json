@@ -1112,7 +1112,8 @@
   "https://news.google.com/rss/articles/CBMimAFBVV95cUxObVVKSmlkdHF5WkJuRU9TTkRNVkp3WVlHYmZyd0xUU2w3TDZvVTE5MU9FOXp3c0N6aGN0UVRSTkh2cFdUUTJDZ3YxZXVKN0hxcUtqQmV0aGF0TWpORDdYZVdoZExBUEp2dWx1MFlEQWthVVNUWmxOQUtTc3VDSnlfdDB1Q3pSMGd5R1RuN0pDU0FpVmY2Qy1YT9IBnAFBVV95cUxNQjBzZHpCblhqeEdSV1RPdVZiRVdleW9zUGR4ckIyajhCWFZxbHVCWDJlMGpaNmFkb05PaUM2ek03MjlqQ1FzcUI0QWE0akdwMk8wMkwweDRLQmZ0U3FGWHhMSm5DYlhvMmloQzVCRmhiajg2Um5uU3Bzb3F6TjI2bFhZT2RmN29zUUdUX3VnVUNzNzIzalNZSElZclg?oc=5": 1794526846.2152755,
   "https://www.ujyaaloonline.com/detail/133426": 1794527449.9962265,
   "http://english.ratopati.com/story/86382/chhath-festival-begins-today-mithila-region-is-celebrating-chhath": 1794527449.9962265,
-  "http://english.ratopati.com/story/86381/italy-top-group-after-beating-france-3-1": 1794527449.9962265
+  "http://english.ratopati.com/story/86381/italy-top-group-after-beating-france-3-1": 1794527449.9962265,
+  "http://english.ratopati.com/story/86387/at-least-14-killed-30-injured-in-23-vehicle-collision-in-uae": 1794528650.2933936
  },
  "queue": [
   {
@@ -1270,29 +1271,6 @@
    ],
    "cat": "sports",
    "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "प्राविधिक नहुँदा सेती नदीको पुल निर्माणमा ढिलाइ",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/507169",
-   "source": "Baahrakhari",
-   "ts": 1794499590,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "प्राविधिक नहुँदा सेती नदीको पुल निर्माणमा ढिलाइ",
-   "en": "प्राविधिक नहुँदा सेती नदीको पुल निर्माणमा ढिलाइ",
-   "ne": "प्राविधिक नहुँदा सेती नदीको पुल निर्माणमा ढिलाइ",
-   "imp": 2,
-   "tags": [
-    "SetiRiver",
-    "Bridge",
-    "Infrastructure"
-   ],
-   "cat": "economy",
-   "val": 2,
    "teaser": false,
    "hits": 1
   },
@@ -1478,20 +1456,32 @@
    "val": 3,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "14 Dead, 30 Injured in Fujairah Multi-Vehicle Collision",
+   "summary": "Fujairah. At least 14 people have died and 30 others have been injured in a collision involving 18 cars and...",
+   "link": "http://english.ratopati.com/story/86387/at-least-14-killed-30-injured-in-23-vehicle-collision-in-uae",
+   "source": "Ratopati EN",
+   "ts": 1794528220,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/pic_d1650_1794496099_pKL3xl71YI.webp",
+   "lang": "en",
+   "hl": "14 Dead, 30 Injured in Fujairah Multi-Vehicle Collision",
+   "en": "14 Dead, 30 Injured in Fujairah Multi-Vehicle Collision",
+   "ne": "14 Dead, 30 Injured in Fujairah Multi-Vehicle Collision",
+   "imp": 1,
+   "tags": [
+    "Fujairah",
+    "RoadAccident",
+    "UAE"
+   ],
+   "cat": "world",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1793923284.8754475,
-   "en": "Nepal PM Balendra Shah Thanks India for Flood Support in Kathmandu",
-   "ne": "Nepal PM Balendra Shah Thanks India for Flood Support in Kathmandu",
-   "link": "https://tripurachronicle.in/world-news/balendra-shah-lauds-pm-modi-expresses-gratitude-to-india-for-standing-by-nepal/",
-   "source": "Tripura Chronicle",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "politics"
-  },
   {
    "ts": 1793925073.0955443,
    "en": "Nepal avalanche leaves over 1,400 dead and 5,000 missing in Trishuli Valley",
@@ -4485,7 +4475,7 @@
    "cat": "sports"
   }
  ],
- "updated": 1794528086,
+ "updated": 1794528655,
  "pending_since": 1794528081.3694067,
  "fb_blocks": [
   1790350880.4125228,
