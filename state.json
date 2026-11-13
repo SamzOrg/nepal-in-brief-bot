@@ -1247,7 +1247,11 @@
   "https://nagariknews.nagariknetwork.com/social-affairs/2-500-trees-cut-down-to-build-landfill-site-br-14-30.html": 1794552052.7023442,
   "https://nagariknews.nagariknetwork.com/international/north-korean-hacker-involved-in-largest-crypto-theft-ever-this-is-how-a-person-s-identity-was-stolen-22-76.html": 1794552052.7023442,
   "https://nagariknews.nagariknetwork.com/politics/from-mahayagya-to-menstruation-free-ward-goths-have-been-destroyed-but-not-the-thoughts-in-jumla-br-46-53.html": 1794552052.7023442,
-  "https://news.google.com/rss/articles/CBMivgFBVV95cUxQLXJOZDVKTFhBZTk2Y3ljNm54SXVqbXNMbzUtcC1UTzlBY2liazN0T3NpbllFOTl0TlFmQlplTlc2VE9NMy1jbG5BWnJnNWRQSDlXVUpfSW5HUGJScHN5T0wyZ1NvNDVKSkRUeFNFWEdzeW44NFJYMGJHVXNYY1ZjcDVyNjRHdHZrTl9sd2JWNVpkY1FwWk94NUxPY1JHMTZNbkJiT3psYmVFR0VXa0ROME5NbXhMdzc0SDI0SkZR?oc=5": 1794552651.3201146
+  "https://news.google.com/rss/articles/CBMivgFBVV95cUxQLXJOZDVKTFhBZTk2Y3ljNm54SXVqbXNMbzUtcC1UTzlBY2liazN0T3NpbllFOTl0TlFmQlplTlc2VE9NMy1jbG5BWnJnNWRQSDlXVUpfSW5HUGJScHN5T0wyZ1NvNDVKSkRUeFNFWEdzeW44NFJYMGJHVXNYY1ZjcDVyNjRHdHZrTl9sd2JWNVpkY1FwWk94NUxPY1JHMTZNbkJiT3psYmVFR0VXa0ROME5NbXhMdzc0SDI0SkZR?oc=5": 1794552651.3201146,
+  "https://www.ujyaaloonline.com/detail/133443": 1794553285.7282743,
+  "https://www.setopati.com/politics/402488": 1794553285.7282743,
+  "https://www.setopati.com/politics/402489": 1794553285.7282743,
+  "https://theannapurnaexpress.com/story/68722": 1794553285.7282743
  },
  "queue": [
   {
@@ -1473,7 +1477,7 @@
    "cat": "other",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Chhath festival begins, filling Mithila with religious fervour",
@@ -4729,6 +4733,29 @@
    "val": 2,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "1 killed, 2 injured in Chitwan car hit",
+   "summary": "A woman died and two others were injured after being hit by a car at Phurtichok in Bharatpur Metropolitan City-16, Chitwan on Friday.An electric car (Ba Pra 01--034 Cha 9221) heading towards Nabinchowk from Phurtichowk...",
+   "link": "https://theannapurnaexpress.com/story/68722",
+   "source": "Annapurna Express",
+   "ts": 1794538886.9746892,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "1 killed, 2 injured in Chitwan car hit",
+   "en": "1 killed, 2 injured in Chitwan car hit",
+   "ne": "1 killed, 2 injured in Chitwan car hit",
+   "imp": 4,
+   "tags": [
+    "Chitwan",
+    "CarAccident",
+    "पहिरो"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
@@ -7725,7 +7752,7 @@
    "cat": "world"
   }
  ],
- "updated": 1794552678,
+ "updated": 1794553291,
  "pending_since": 1794552651.3201146,
  "fb_blocks": [
   1790350880.4125228,
