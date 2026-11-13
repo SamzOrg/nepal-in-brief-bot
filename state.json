@@ -1567,51 +1567,6 @@
  },
  "queue": [
   {
-   "title": "26 Dead in Assam Road Accident: Mini Bus Collides with Container Truck",
-   "summary": "Assam. In Kaziranga, Assam, India, a mini bus and a container truck collided with each other on Friday, killing 26...",
-   "link": "http://english.ratopati.com/story/86521/26-killed-in-minibus-container-truck-collision-in-assam",
-   "source": "Ratopati EN",
-   "ts": 1794583796,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/udf9jkng_assam-crash_650x400_13_zipNlW0fba.webp",
-   "lang": "en",
-   "hl": "26 Dead in Assam Road Accident: Mini Bus Collides with Container Truck",
-   "en": "26 Dead in Assam Road Accident: Mini Bus Collides with Container Truck",
-   "ne": "26 Dead in Assam Road Accident: Mini Bus Collides with Container Truck",
-   "imp": 1,
-   "tags": [
-    "Assam",
-    "RoadAccident"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "प्रेस काउन्सिल अध्यादेश : राष्ट्रपतिलाई ब्रिफिङ हुनै बाँकी, जारी होला कि फिर्ता ?",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/507254",
-   "source": "Baahrakhari",
-   "ts": 1794583620,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "प्रेस काउन्सिल अध्यादेश : राष्ट्रपतिलाई ब्रिफिङ हुनै बाँकी, जारी होला कि फिर्ता ?",
-   "en": "प्रेस काउन्सिल अध्यादेश : राष्ट्रपतिलाई ब्रिफिङ हुनै बाँकी, जारी होला कि फिर्ता ?",
-   "ne": "प्रेस काउन्सिल अध्यादेश : राष्ट्रपतिलाई ब्रिफिङ हुनै बाँकी, जारी होला कि फिर्ता ?",
-   "imp": 3,
-   "tags": [
-    "PressCouncil",
-    "President",
-    "अध्यादेश"
-   ],
-   "cat": "politics",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
-  },
-  {
    "title": "फेला परेको चार दिनमा शवको पहिचान",
    "summary": "तिलाचन पाण्डेगुल्मी, कात्तिक २७ गते । गुल्मीमा चार दिन अघि फेला परेको शवको शुक्रबार पहिचान भएको छ ।जिल्ला प्रहरी कार्यालय गुल्मीका प्रहरी नायव उपरीक्षक वीरेन्द्र विश्वकर्माका अनुसा...",
    "link": "https://gorkhapatraonline.com/news/228982",
@@ -2000,17 +1955,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1794007254.6353216,
-   "en": "India beats Nepal by 10 wickets in U-19 Asia Cup opener",
-   "ne": "India beats Nepal by 10 wickets in U-19 Asia Cup opener",
-   "link": "https://www.indiatribune.com/public/sehwag-raichandani-fifties-help-india-thrash-nepal-by-ten-wickets-in-u-19-asia-cup-opener",
-   "source": "India Tribune - Chicago",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "sports"
-  },
   {
    "ts": 1794009056.2617657,
    "en": "Police Chief Dr. Manoj Kumar KC Directs Enhanced Security for Festivals",
@@ -4982,7 +4926,7 @@
    "cat": "economy"
   }
  ],
- "updated": 1794612072,
+ "updated": 1794612676,
  "pending_since": 1794611447.8050468,
  "fb_blocks": [
   1790350880.4125228,
