@@ -1,9 +1,5 @@
 {
  "seen": {
-  "https://www.setopati.com/art/bollywood/402393": 1794370853.422221,
-  "https://theannapurnaexpress.com/story/68661": 1794370853.422221,
-  "https://theannapurnaexpress.com/story/68660": 1794370853.422221,
-  "http://english.ratopati.com/story/86268/what-is-the-nepali-delegation-doing-in-turkey-how-productive-will-cop-31-be": 1794371466.768965,
   "https://gorkhapatraonline.com/news/228847": 1794372057.432039,
   "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZjd0SkpJQWlsTWtfTW1ma3c4bGgyYmtyVEd5cEYwNXJHa2dZamRmSEMteEhoc0R6Sk1SR1lKU3JGaEc1QlJESXlkTjh0VWlTS2FzMnc3Z3NJTFBaNktFelBwLUFFSDNNYV82ODktTU9QWE00dmtpSUx1SU9Zb2k2NG9BSDJQekE0MTdhWElsNEdZSW41eU5Lc1pKdmh2MGs0RW8zcVVoclpZWlFTbHhadDVibmhOUFU?oc=5": 1794372057.432039,
   "https://thehimalayantimes.com/nepal/bhai-tika-being-observed-today-auspicious-time-set-for-1107-am": 1794372057.432039,
@@ -1199,7 +1195,9 @@
   "https://www.setopati.com/politics/402471": 1794543648.3425806,
   "http://english.ratopati.com/story/86408/nyauli-falls-in-north-gorkha-becoming-an-attractive-tourist-destination-photos": 1794543648.3425806,
   "https://theannapurnaexpress.com/story/68712": 1794543648.3425806,
-  "https://theannapurnaexpress.com/story/68711": 1794543648.3425806
+  "https://theannapurnaexpress.com/story/68711": 1794543648.3425806,
+  "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbi1aUTczcUQza2NDQlZwMjFEdGw2S1JMOG9CeUJTQnJuWVdSNnJMVnBKZ1JHZW51MThVWk5YMkFidmx6NVBGOTJVS0pvMTI1YUdLbkpTMnlhdFNqWnZiQnMwZG9IMXE4VGpIb3A5WlRVbjVOR29SSnRSSUFBM3R6dXktdGJCMEFLOWN6a2NadTNicGJNY3VtMWQtUlV6YTA?oc=5": 1794544280.303109,
+  "http://english.ratopati.com/story/86416/10-killed-in-guinea-gold-mine-dispute": 1794544280.303109
  },
  "queue": [
   {
@@ -1268,7 +1266,7 @@
    "cat": "culture",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Italy Secures 3-1 Comeback Victory Over France in Nations League",
@@ -3389,6 +3387,29 @@
     "Zelensky",
     "Ukraine",
     "USA"
+   ],
+   "cat": "world",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Clash in Guinea Over Illegal Gold Mine Ban Leaves 10 Dead",
+   "summary": "Guinea. At least 10 people, including five foreign nationals, have died in clashes between security forces and mine workers in...",
+   "link": "http://english.ratopati.com/story/86416/10-killed-in-guinea-gold-mine-dispute",
+   "source": "Ratopati EN",
+   "ts": 1794543635,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/gold_IKqe1p10uX.webp",
+   "lang": "en",
+   "hl": "Clash in Guinea Over Illegal Gold Mine Ban Leaves 10 Dead",
+   "en": "Clash in Guinea Over Illegal Gold Mine Ban Leaves 10 Dead",
+   "ne": "Clash in Guinea Over Illegal Gold Mine Ban Leaves 10 Dead",
+   "imp": 1,
+   "tags": [
+    "Guinea",
+    "GoldMine",
+    "Dead"
    ],
    "cat": "world",
    "val": 3,
@@ -6390,8 +6411,8 @@
    "cat": "disaster"
   }
  ],
- "updated": 1794543669,
- "pending_since": null,
+ "updated": 1794544285,
+ "pending_since": 1794544280.303109,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
