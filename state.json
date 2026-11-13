@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://gorkhapatraonline.com/news/228844": 1794370249.8488197,
-  "https://nagariknews.nagariknetwork.com/politics/language-bill-being-implemented-in-koshi-99-80.html": 1794370249.8488197,
   "https://www.setopati.com/art/bollywood/402393": 1794370853.422221,
   "https://theannapurnaexpress.com/story/68661": 1794370853.422221,
   "https://theannapurnaexpress.com/story/68660": 1794370853.422221,
@@ -1186,7 +1184,22 @@
   "https://english.khabarhub.com/2026/13/575424/": 1794542475.3823652,
   "https://theannapurnaexpress.com/story/68713": 1794542475.3823652,
   "https://www.ujyaaloonline.com/detail/133433": 1794543049.0299184,
-  "https://nagariknews.nagariknetwork.com/sports/kathmandu-and-sudurpaschim-and-janakpur-and-chitwan-clash-in-npl-today-44-19.html": 1794543049.0299184
+  "https://nagariknews.nagariknetwork.com/sports/kathmandu-and-sudurpaschim-and-janakpur-and-chitwan-clash-in-npl-today-44-19.html": 1794543049.0299184,
+  "https://english.khabarhub.com/2026/13/575429/": 1794543648.3425806,
+  "https://news.google.com/rss/articles/CBMiygFBVV95cUxONFRuLVVnQkJpZ283Q0lnVEVuUXowOG5fWmEySkFxNnJYaXhnM2s4dU9Kb0JHTW9hWWVGUmRRS3FscjV6VVgtYWpHNkc5R050X1p4UFhYSWk1N2dON3VoZmR4UWJ2ODJiY1Y0NVVsS1ZWemo5WUNuM3VuX3NnMGtXRHJnWXl0OE0tVG1SZVp3NnZCYzBVdm4zUWUyNWVsUFowOWhCQ29uSDBYWGozZGxIZ01ZZ3hheWFMSjRhTktEb0NlSm9ER3VXMWNB?oc=5": 1794543648.3425806,
+  "https://english.onlinekhabar.com/former-pm-dahal-leaves-for-russia.html": 1794543648.3425806,
+  "https://gorkhapatraonline.com/news/228928": 1794543648.3425806,
+  "https://baahrakhari.com/detail/507189": 1794543648.3425806,
+  "https://www.setopati.com/social/402473": 1794543648.3425806,
+  "http://english.ratopati.com/story/86409/suspension-bridge-to-be-built-to-connect-mundu-village-and-sera": 1794543648.3425806,
+  "https://theannapurnaexpress.com/story/68714": 1794543648.3425806,
+  "https://kathmandupost.com/national/2026/11/13/families-refuse-to-claim-bodies-of-14-crash-victims": 1794543648.3425806,
+  "https://english.onlinekhabar.com/kathmandu-face-sudurpaschim-npl.html": 1794543648.3425806,
+  "https://gorkhapatraonline.com/news/228927": 1794543648.3425806,
+  "https://www.setopati.com/politics/402471": 1794543648.3425806,
+  "http://english.ratopati.com/story/86408/nyauli-falls-in-north-gorkha-becoming-an-attractive-tourist-destination-photos": 1794543648.3425806,
+  "https://theannapurnaexpress.com/story/68712": 1794543648.3425806,
+  "https://theannapurnaexpress.com/story/68711": 1794543648.3425806
  },
  "queue": [
   {
@@ -2136,29 +2149,6 @@
    "hits": 5
   },
   {
-   "title": "सवारी दुर्घटनामा एकको मृत्यु, पाँच जना घाइते",
-   "summary": "सुदूरपश्चिम, कात्तिक २७ गते । कैलालीको धनगढी उपमहानगरपालिका-१५ मा मोटरसाइकल र स्कुटर एकापसमा ठोक्किँदा एक जनाको मृत्यु भएको छ भने अन्य पाँच जना घाइते भएका छन् ।धनगढीबाट फूलबारीतर्फ...",
-   "link": "https://gorkhapatraonline.com/news/228914",
-   "source": "Gorkhapatra",
-   "ts": 1794535831,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/391259/conversions/accident--original.jpg",
-   "lang": "ne",
-   "hl": "सवारी दुर्घटनामा एकको मृत्यु, पाँच जना घाइते",
-   "en": "सवारी दुर्घटनामा एकको मृत्यु, पाँच जना घाइते",
-   "ne": "सवारी दुर्घटनामा एकको मृत्यु, पाँच जना घाइते",
-   "imp": 3,
-   "tags": [
-    "RoadAccident",
-    "سवारीदुर्घटना",
-    "Nepal"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
    "title": "अलैँची पुरस्कारका लागि आठ टोली भिड्दै",
    "summary": "साहारा लिम्बूताप्लेजुङ, कात्तिक २७ गते । ताप्लेजुङको मिक्वाखोला गाउँपालिकामा आयोजना हुने फुङ्फुङ्देन झरना पर्यटन तथा सांस्कृतिक मेला-२०८३ अन्तर्गत पुरुष फुटबल प्रतियोगितामा आठ टोली...",
    "link": "https://gorkhapatraonline.com/news/228916",
@@ -2271,7 +2261,7 @@
    "cat": "tech",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Kathmandu airport unable to collect Rs1.5 billion from 42 entities",
@@ -2500,29 +2490,30 @@
    "cat": "sports",
    "val": 3,
    "teaser": false,
-   "hits": 5
+   "hits": 6
   },
   {
-   "title": "युक्रेनी ड्रोन आक्रमणबाट रुसी युद्धपोतमा क्षति",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/507185",
-   "source": "Baahrakhari",
+   "title": "Finland says it detects strike on Russian warship in Baltic Sea",
+   "summary": "Finland's military said on Thursday its forces had detected \"a strike\" on a Russian warship in the Baltic Sea a day earlier, but that the security situation in the area remained stable, Reuters reported. It was not...",
+   "link": "https://theannapurnaexpress.com/story/68714",
+   "source": "Annapurna Express",
    "ts": 1794539015,
-   "weight": 2,
+   "weight": 3,
    "img": null,
-   "lang": "ne",
-   "hl": "युक्रेनी ड्रोन आक्रमणबाट रुसी युद्धपोतमा क्षति",
-   "en": "युक्रेनी ड्रोन आक्रमणबाट रुसी युद्धपोतमा क्षति",
-   "ne": "युक्रेनी ड्रोन आक्रमणबाट रुसी युद्धपोतमा क्षति",
+   "lang": "en",
+   "hl": "Finland says it detects strike on Russian warship in Baltic Sea",
+   "en": "Finland says it detects strike on Russian warship in Baltic Sea",
+   "ne": "Finland says it detects strike on Russian warship in Baltic Sea",
    "imp": 1,
    "tags": [
-    "UkrainianDrone",
-    "RussianWarship"
+    "Russia",
+    "BalticSea",
+    "Finland"
    ],
    "cat": "world",
-   "val": 2,
+   "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "मोटरसाइकल र स्कुटर ठोक्किँदा एकको मृत्यु",
@@ -3197,20 +3188,215 @@
    "val": 3,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "डल्ले सराय नाच प्यूठानको मौलिक सांस्कृतिक पहिचान",
+   "summary": "सलिम मियाँबिजुवार, कात्तिक २७ गते । भाइटीकाको भोलिपल्ट प्यूठान नगरपालिका-७, पुण्यखोलामा ऐतिहासिक डल्ले सराय नाचको रौनक छायो । ढोल र मादलको तालसँगै तरबार बोकेका गाउँलेहरू 'वाख्यै......",
+   "link": "https://gorkhapatraonline.com/news/228928",
+   "source": "Gorkhapatra",
+   "ts": 1794543523,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/391274/conversions/dallee-original.jpg",
+   "lang": "ne",
+   "hl": "डल्ले सराय नाच प्यूठानको मौलिक सांस्कृतिक पहिचान",
+   "en": "डल्ले सराय नाच प्यूठानको मौलिक सांस्कृतिक पहिचान",
+   "ne": "डल्ले सराय नाच प्यूठानको मौलिक सांस्कृतिक पहिचान",
+   "imp": 2,
+   "tags": [
+    "Pyuthan",
+    "SaraiDance",
+    "सरायनाच"
+   ],
+   "cat": "culture",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "इरानमाथि फेरि आक्रमण गर्न पछि नहट्ने ट्रम्पको चेतावनी",
+   "summary": "",
+   "link": "https://baahrakhari.com/detail/507189",
+   "source": "Baahrakhari",
+   "ts": 1794543000,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "इरानमाथि फेरि आक्रमण गर्न पछि नहट्ने ट्रम्पको चेतावनी",
+   "en": "इरानमाथि फेरि आक्रमण गर्न पछि नहट्ने ट्रम्पको चेतावनी",
+   "ne": "इरानमाथि फेरि आक्रमण गर्न पछि नहट्ने ट्रम्पको चेतावनी",
+   "imp": 1,
+   "tags": [
+    "Trump",
+    "Iran",
+    "अमेरिका"
+   ],
+   "cat": "world",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "मोरङको जंगलमा महिलाको शव फेला",
+   "summary": "मोरङको केराबारी गाउँपालिका-२ फैबास्थित जंगलमा महिलाको शव फेला परेको छ।",
+   "link": "https://www.setopati.com/social/402473",
+   "source": "Setopati",
+   "ts": 1794542280,
+   "weight": 3,
+   "img": null,
+   "lang": "ne",
+   "hl": "मोरङको जंगलमा महिलाको शव फेला",
+   "en": "मोरङको जंगलमा महिलाको शव फेला",
+   "ne": "मोरङको जंगलमा महिलाको शव फेला",
+   "imp": 3,
+   "tags": [
+    "Morang",
+    "Crime",
+    "मोरङ"
+   ],
+   "cat": "crime",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Mugu to Get 250-Meter Suspension Bridge",
+   "summary": "Mugu. A 250-meter-long suspension bridge connecting Mundu village and Sera will be constructed. Karnali Province Chief Minister Mangal Bahadur Shahi...",
+   "link": "http://english.ratopati.com/story/86409/suspension-bridge-to-be-built-to-connect-mundu-village-and-sera",
+   "source": "Ratopati EN",
+   "ts": 1794540418,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/jholunge-pul_M5uOaB9J2e.webp",
+   "lang": "en",
+   "hl": "Mugu to Get 250-Meter Suspension Bridge",
+   "en": "Mugu to Get 250-Meter Suspension Bridge",
+   "ne": "Mugu to Get 250-Meter Suspension Bridge",
+   "imp": 2,
+   "tags": [
+    "Mugu",
+    "Bridge",
+    "मुगु"
+   ],
+   "cat": "society",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Families refuse to claim bodies of 14 crash victims",
+   "summary": "Relatives are demanding compensation, jobs for family members and government-funded treatment for the injured before accepting the bodies.",
+   "link": "https://kathmandupost.com/national/2026/11/13/families-refuse-to-claim-bodies-of-14-crash-victims",
+   "source": "Kathmandu Post",
+   "ts": 1794529249.379254,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "Families refuse to claim bodies of 14 crash victims",
+   "en": "Families refuse to claim bodies of 14 crash victims",
+   "ne": "Families refuse to claim bodies of 14 crash victims",
+   "imp": 3,
+   "tags": [
+    "Accident",
+    "Bodies",
+    "दुर्घटना"
+   ],
+   "cat": "society",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "राप्ती तटमा छठ पूजाको तयारी",
+   "summary": "अनिल पराजुलीमकवानपुर, कात्तिक २७ गते । बागमती प्रदेशको राजधानी हेटौँडास्थित राप्ती खोलाको तटमा छठ पूजा मनाउन भव्य तयारी भइरहेको छ । तिहारलगत्तै हेटौँडा उपमहानगरपालिका-१ स्थित राप्त...",
+   "link": "https://gorkhapatraonline.com/news/228927",
+   "source": "Gorkhapatra",
+   "ts": 1794542287,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/391273/conversions/cover-original.jpg",
+   "lang": "ne",
+   "hl": "राप्ती तटमा छठ पूजाको तयारी",
+   "en": "राप्ती तटमा छठ पूजाको तयारी",
+   "ne": "राप्ती तटमा छठ पूजाको तयारी",
+   "imp": 2,
+   "tags": [
+    "Chhath",
+    "Rapti"
+   ],
+   "cat": "culture",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Nyauli Waterfall Emerging as Tourist Destination in Gorkha",
+   "summary": "Gorkha. Nyauali Waterfall located in Lapubansi, Dharche Rural Municipality-7 of northern Gorkha has been developing as an attractive tourist destination...",
+   "link": "http://english.ratopati.com/story/86408/nyauli-falls-in-north-gorkha-becoming-an-attractive-tourist-destination-photos",
+   "source": "Ratopati EN",
+   "ts": 1794540173,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/01-nyauli-jharana_gorkha_1_kvmNktEzdQ.webp",
+   "lang": "en",
+   "hl": "Nyauli Waterfall Emerging as Tourist Destination in Gorkha",
+   "en": "Nyauli Waterfall Emerging as Tourist Destination in Gorkha",
+   "ne": "Nyauli Waterfall Emerging as Tourist Destination in Gorkha",
+   "imp": 2,
+   "tags": [
+    "Gorkha",
+    "NyauliWaterfall",
+    "गोर्खा"
+   ],
+   "cat": "culture",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
+   "summary": "Six people have been killed and about 30 injured in an Israeli air strike on Nasser hospital in the southern Gaza Strip, the Hamas-run health ministry says, BBC reported. The hospital's director said two missiles hit a...",
+   "link": "https://theannapurnaexpress.com/story/68712",
+   "source": "Annapurna Express",
+   "ts": 1794529249.7195337,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
+   "en": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
+   "ne": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
+   "imp": 1,
+   "tags": [
+    "Gaza",
+    "Israel",
+    "Palestine"
+   ],
+   "cat": "world",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
+   "summary": "Ukraine's president has welcomed a pledge from US envoys, Jared Kushner and Steve Witkoff, to include delegates from the European Union in the next round of peace talks with Russia, BBC reported. European leaders have...",
+   "link": "https://theannapurnaexpress.com/story/68711",
+   "source": "Annapurna Express",
+   "ts": 1794529249.7195337,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
+   "en": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
+   "ne": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
+   "imp": 1,
+   "tags": [
+    "Zelensky",
+    "Ukraine",
+    "USA"
+   ],
+   "cat": "world",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1793938256.0881805,
-   "en": "India secures 4,700MW in Nepal, but little progress on projects",
-   "ne": "India secures 4,700MW in Nepal, but little progress on projects",
-   "link": "https://asianews.network/india-secures-4700mw-in-nepal-but-little-progress-on-projects/",
-   "source": "Asia News Network",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "economy"
-  },
   {
    "ts": 1793940051.6098857,
    "en": "भोटेकोसी बाढी-पीडित पुनर्वासका लागि ४४ स्थानमा ३२७९ रोपनी जग्गा सिफारिस",
@@ -6191,10 +6377,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "politics"
+  },
+  {
+   "ts": 1794543658.6450522,
+   "en": "कैलालीमा मोटरसाइकल र स्कुटर ठोक्किँदा एक जनाको मृत्यु, पाँच घाइते",
+   "ne": "कैलालीमा मोटरसाइकल र स्कुटर ठोक्किँदा एक जनाको मृत्यु, पाँच घाइते",
+   "link": "https://gorkhapatraonline.com/news/228914",
+   "source": "Gorkhapatra",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "disaster"
   }
  ],
- "updated": 1794543055,
- "pending_since": 1794541847.962296,
+ "updated": 1794543669,
+ "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
