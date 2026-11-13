@@ -1,14 +1,5 @@
 {
  "seen": {
-  "https://nagariknews.nagariknetwork.com/social-affairs/what-is-the-weather-like-on-bhai-tika-day-89-32.html": 1794361847.495061,
-  "https://www.ujyaaloonline.com/detail/133374": 1794361847.495061,
-  "https://baahrakhari.com/detail/507069": 1794361847.495061,
-  "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTUJ3TDNidnZXN3NZN09VRVV3eldvMk9LTjJ2VFA3dnpob2ZJajgtYlFtWFhtVUROWnFEVnlIMW05NlRSOWZ4b3J1aFFoQ3lSZEdvN2FSRDRqUzJRT3M2ZmNWalBHY1cteW1LY1V2UmNOc3V0WnIyRzJXbHFXV2tiQnhzOWtzZXRDUVk0QW83bDhOWUdDQVRTMmhWaw?oc=5": 1794361847.495061,
-  "http://english.ratopati.com/story/86260/52-motorcycles-seized-for-making-loud-noises-by-changing-their-appearance": 1794361847.495061,
-  "https://nagariknews.nagariknetwork.com/Aparadh/nepali-girl-s-tragic-death-in-america-murder-confirmed-without-autopsy-64-43.html": 1794361847.495061,
-  "http://english.ratopati.com/story/86259/elderly-woman-rescued-after-falling-from-cliff-and-getting-stuck-in-tree-roots": 1794361847.495061,
-  "https://nagariknews.nagariknetwork.com/social-affairs/bhaitika-the-festival-of-unbreakable-love-between-brothers-and-sisters-nepaliness-reflected-around-the-world-53-44.html": 1794361847.495061,
-  "http://english.ratopati.com/story/86258/falgunandas-thoughts-are-equally-relevant-today-vice-president": 1794361847.495061,
   "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbDhUd3A3TWpYaEwwR1d4S3V0WXRTY3hoTUZNa2FoVkpablVxNXhHblUySjJDX2pZMndGZDRHZDM4cmJ0VmtXUXRVNWphZGJOZURZbnNjZUN3Q3JJbjJNUFEwNml5R0RINmxrLVJlbnJsRUJ5TWJUVmU1YktKY0NMWlB5SzNtMnlOUWdVc1dmTGt5UUg1dVZISQ?oc=5": 1794362482.5974543,
   "https://baahrakhari.com/detail/507070": 1794362482.5974543,
   "http://english.ratopati.com/story/86261/elderly-woman-dies-after-being-attacked-by-wild-elephant": 1794362482.5974543,
@@ -1129,7 +1120,8 @@
   "https://gorkhapatraonline.com/news/228912": 1794534048.5459032,
   "http://english.ratopati.com/story/86399/us-dollar-to-qatari-riyal-todays-exchange-rate-with-list": 1794534048.5459032,
   "https://kathmandupost.com/editorial/2026/11/12/chhath-has-spread-across-nepal-state-support-has-not": 1794534048.5459032,
-  "https://kathmandupost.com/columns/2026/11/12/are-nepal-s-celebrated-technocrats-serving-the-country-or-global-capital": 1794534048.5459032
+  "https://kathmandupost.com/columns/2026/11/12/are-nepal-s-celebrated-technocrats-serving-the-country-or-global-capital": 1794534048.5459032,
+  "https://www.setopati.com/social/402465": 1794534649.3762648
  },
  "queue": [
   {
@@ -1674,31 +1666,7 @@
    "cat": "society",
    "val": 3,
    "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "मुग्लिन नजिकैको घोप्टेभीरको सडक अझै एकतर्फी मात्रै सञ्चालन",
-   "summary": "",
-   "link": "https://www.ujyaaloonline.com/detail/133430",
-   "source": "Ujyaalo",
-   "ts": 1794530923,
-   "weight": 2,
-   "img": "https://www.ujyaaloonline.com/uploads/posts/ghopte-vir-road--2-1794530855.jpg",
-   "lang": "ne",
-   "hl": "मुग्लिन नजिकैको घोप्टेभीरको सडक अझै एकतर्फी मात्रै सञ्चालन",
-   "en": "मुग्लिन नजिकैको घोप्टेभीरको सडक अझै एकतर्फी मात्रै सञ्चालन",
-   "ne": "मुग्लिन नजिकैको घोप्टेभीरको सडक अझै एकतर्फी मात्रै सञ्चालन",
-   "imp": 4,
-   "tags": [
-    "Mugling",
-    "Ghoptebhir",
-    "Highway",
-    "मुग्लिन"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Nepali Culture Celebrated in Lisbon Home",
@@ -1909,17 +1877,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1793929258.2511764,
-   "en": "Kathmandu Gurkhas beat Biratnagar Kings by nine wickets in NPL on Thursday",
-   "ne": "Kathmandu Gurkhas beat Biratnagar Kings by nine wickets in NPL on Thursday",
-   "link": "https://myrepublica.nagariknetwork.com/news/kathmandu-register-second-npl-win-with-dominant-nine-wicket-victory-over-bi-47-66.html",
-   "source": "myRepublica",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "sports"
-  },
   {
    "ts": 1793931050.9930007,
    "en": "Nepali Congress calls arrest rumours against Gagan Thapa a political plot",
@@ -4900,9 +4857,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "disaster"
+  },
+  {
+   "ts": 1794534655.7510397,
+   "en": "मुग्लिन-कुरिनटार सडकखण्ड अझै एकतर्फी मात्रै सञ्चालनमा",
+   "ne": "मुग्लिन-कुरिनटार सडकखण्ड अझै एकतर्फी मात्रै सञ्चालनमा",
+   "link": "https://www.ujyaaloonline.com/detail/133430",
+   "source": "Ujyaalo",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "disaster"
   }
  ],
- "updated": 1794534054,
+ "updated": 1794534674,
  "pending_since": 1794533465.919656,
  "fb_blocks": [
   1790350880.4125228,
