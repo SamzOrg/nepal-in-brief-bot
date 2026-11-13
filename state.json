@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9WUkhzMkphU1Z4cmNvY1dvTWc1RkJpdmdnYnpUYkZTREJmc1J0UUFNYmRDZmQxYUlaR0JSY0RIVkZnd0VJU21ZVElPVV9JMjRNcUxJMWwyc21fLUE2YUU2LURR?oc=5": 1794404452.6727252,
   "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSzk1bnlfU2h1TVltM0xyeV8waGxYa2RiMnBRVEpKWFM1LVpnQTlPMGcwNGFHYVNOR3VOVEQwSHh2WUsxX1BpaWpMUjNtNGNuczBfUmdEdWR1YWR5M2NNVml5UmJ4YlNhZkhHS0xJVXBQeWd0Z0pTSjVGS2tDWnFpRG1nMUdOUTE0S3puOUlWd25IcF9fT2FTaEtsRk1tbFVDOHRRYjJ3Z0M0TDZXYW0yYlVMcFk1RFJoSmJV?oc=5": 1794406250.036191,
   "https://english.khabarhub.com/2026/11/575256/": 1794406854.2408383,
   "https://english.khabarhub.com/2026/11/575261/": 1794406854.2408383,
@@ -1485,7 +1484,9 @@
   "https://english.khabarhub.com/2026/13/575467/": 1794576053.8651268,
   "https://gorkhapatraonline.com/news/228974": 1794576053.8651268,
   "https://baahrakhari.com/detail/507240": 1794576053.8651268,
-  "http://english.ratopati.com/story/86517/chitwan-lost-3-wickets": 1794576671.5422363
+  "http://english.ratopati.com/story/86517/chitwan-lost-3-wickets": 1794576671.5422363,
+  "https://english.khabarhub.com/2026/13/575480/": 1794577253.860061,
+  "https://nagariknews.nagariknetwork.com/social-affairs/home-minister-gurung-departs-for-dubai-to-attend-world-police-summit-76-71.html": 1794577253.860061
  },
  "queue": [
   {
@@ -1628,29 +1629,6 @@
    "val": 3,
    "teaser": false,
    "hits": 3
-  },
-  {
-   "title": "Secretary level officer Dalela is new Indian Ambassador to Nepal",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaXk5MW9UdE94emlOR1UtQUI2aEtpMm5PZldJbVJwNWh4dGlkRnA5b3NyT3BXQURlc1Q5Skh5R0c0amFzWE9jY1RFUWJ4cHdxMUxQSnlFOE9wZC1fYW1WVmwtTUpBTXJQT3M1TXp4WVF4aUtXZjJCaXZLelVUT0FRVHlUQTJlYVM0UUwtVEtWakNXaDU4Qzc2TDU5bjBLOS1nXzhSNlNWNA?oc=5",
-   "source": "https://whispersinthecorridors.net/",
-   "ts": 1794548315,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Secretary level officer Dalela is new Indian Ambassador to Nepal",
-   "en": "Secretary level officer Dalela is new Indian Ambassador to Nepal",
-   "ne": "Secretary level officer Dalela is new Indian Ambassador to Nepal",
-   "imp": 3,
-   "tags": [
-    "IndianAmbassador",
-    "NepalIndia",
-    "Diplomacy"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
   },
   {
    "title": "अमेरिकी नौसेनामा वरिष्ठ कमान्डरहरू हटाइएपछि विवाद",
@@ -1815,30 +1793,6 @@
    "hits": 1
   },
   {
-   "title": "चीन भ्रमणमा जाँदै रास्वपाका २० जना नेता",
-   "summary": "राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) को प्रतिनिधिमण्डल कात्तिक २९ गतेदेखि चीनको भ्रमणमा जाने भएको छ।",
-   "link": "https://www.setopati.com/politics/402478",
-   "source": "Setopati",
-   "ts": 1794547980,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "चीन भ्रमणमा जाँदै रास्वपाका २० जना नेता",
-   "en": "चीन भ्रमणमा जाँदै रास्वपाका २० जना नेता",
-   "ne": "चीन भ्रमणमा जाँदै रास्वपाका २० जना नेता",
-   "imp": 3,
-   "tags": [
-    "RSP",
-    "China",
-    "Politics",
-    "रास्वपा"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 3
-  },
-  {
    "title": "Nepali Congress Warns of Protests if Democracy Attacked",
    "summary": "Janakpur. Nepali Congress General Secretary Pradip Poudel has warned that Congress will not remain silent if there is an attempt...",
    "link": "http://english.ratopati.com/story/86431/congress-general-secretary-poudel-warns-that-if-democracy-is-attacked-it-will-not-remain-silent",
@@ -1883,30 +1837,6 @@
    "val": 3,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "नेपाल एसबिआई बैंकले घोषणा गऱ्यो लाभांश, बोनस र नगद कति?",
-   "summary": "बैंकले हाल कायम चुक्ता पुँजीको ३.४ प्रतिशत बोनस सेयर र ४.८५ प्रतिशत नगद लाभांश (कर प्रयोजन सहित) वितरण गर्ने घोषणा गरेको हो।",
-   "link": "https://www.setopati.com/kinmel/banking/402477",
-   "source": "Setopati",
-   "ts": 1794547937,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "नेपाल एसबिआई बैंकले घोषणा गऱ्यो लाभांश, बोनस र नगद कति?",
-   "en": "नेपाल एसबिआई बैंकले घोषणा गऱ्यो लाभांश, बोनस र नगद कति?",
-   "ne": "नेपाल एसबिआई बैंकले घोषणा गऱ्यो लाभांश, बोनस र नगद कति?",
-   "imp": 3,
-   "tags": [
-    "NepalSBI",
-    "Dividend",
-    "Banking",
-    "बैंक"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 3
   },
   {
    "title": "Five New Species of Horned Frogs Discovered in India's Eastern Himalayas",
@@ -2240,30 +2170,6 @@
    "hits": 1
   },
   {
-   "title": "अहिलेसम्मकै ठूलो क्रिप्टो चोरीमा उत्तर कोरियाली ह्याकरको संलग्नता, यसरी चोरियो मानिसको पहिचान",
-   "summary": "अमेरिकी अधिकारीहरूले ४० करोड डलरभन्दा बढी मूल्यको क्रिप्टोकरेन्सी चोरीमा उत्तर कोरियाली सरकारका ह्याकरहरूको संलग्नता रहेको दाबी गरेका छन्।...",
-   "link": "https://nagariknews.nagariknetwork.com/international/north-korean-hacker-involved-in-largest-crypto-theft-ever-this-is-how-a-person-s-identity-was-stolen-22-76.html",
-   "source": "Nagarik News",
-   "ts": 1794548116,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1794548219_hacker.jpg",
-   "lang": "ne",
-   "hl": "अहिलेसम्मकै ठूलो क्रिप्टो चोरीमा उत्तर कोरियाली ह्याकरको संलग्नता, यसरी चोरियो मानिसको पहिचान",
-   "en": "अहिलेसम्मकै ठूलो क्रिप्टो चोरीमा उत्तर कोरियाली ह्याकरको संलग्नता, यसरी चोरियो मानिसको पहिचान",
-   "ne": "अहिलेसम्मकै ठूलो क्रिप्टो चोरीमा उत्तर कोरियाली ह्याकरको संलग्नता, यसरी चोरियो मानिसको पहिचान",
-   "imp": 3,
-   "tags": [
-    "Crypto",
-    "Hacking",
-    "NorthKorea",
-    "साइबर"
-   ],
-   "cat": "tech",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "'नेपाली डायस्पोराका समस्या समाधान सरकारको प्राथमिकतामा छन्': परराष्ट्र मन्त्री खनाल",
    "summary": "काठमाडौँ, कात्तिक २७ गते । परराष्ट्रमन्त्री शिशिर खनालले तुर्किएलगायत विदेशमा बसोबास तथा कार्यरत नेपाली समुदायका समस्या र सरोकारलाई सम्बोधन गर्नु सरकारको प्राथमिकतामा रहेको बताउनुभ...",
    "link": "https://gorkhapatraonline.com/news/228940",
@@ -2466,28 +2372,6 @@
    "val": 3,
    "teaser": false,
    "hits": 2
-  },
-  {
-   "title": "Performance that reminded everyone of Sandeep's class",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMlllVWZmdXlrcVZwRGlZZmEwbW1QQ3J1UWhLNklSZkVPdkFPY0hFb2N0clVmYTVzSVhiMFFsVlVuM1B5bWJvd2pBYm8wWklXUlRHd1BiTjJsRkFndUllaEx3OFRtcFVtejd6UWx6V3BibDFQaG90aEJYQkctOEFqSjFoWVVVd19fNVhWZGV0X2o2bzUxejQzYnhLaFdLUnM4Z24yMm93aVlkcGM?oc=5",
-   "source": "myRepublica",
-   "ts": 1794548400,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Performance that reminded everyone of Sandeep's class",
-   "en": "Performance that reminded everyone of Sandeep's class",
-   "ne": "Performance that reminded everyone of Sandeep's class",
-   "imp": 3,
-   "tags": [
-    "SandeepLamichhane",
-    "Cricket"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
   },
   {
    "title": "New Delhi Becomes World's Most Polluted City, Surpassing Lahore",
@@ -5067,7 +4951,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "वडाध्यक्ष संज्यालद्वारा राजीनामा",
@@ -5136,7 +5020,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 3
+   "hits": 4
   },
   {
    "title": "भारतले १०० रन पनि बनाउन सकेन, न्युजिल्यान्ड ठूलाे अन्तरले विजयी",
@@ -9465,7 +9349,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1794576675,
+ "updated": 1794577258,
  "pending_since": 1794576671.5422363,
  "fb_blocks": [
   1790350880.4125228,
