@@ -1541,7 +1541,9 @@
   "https://nagariknews.nagariknetwork.com/social-affairs/kathmandu-hetauda-road-closed-after-hayas-accident-need-to-reach-pharping-by-8-pm-br-41-37.html": 1794584453.6961682,
   "https://nagariknews.nagariknetwork.com/social-affairs/armed-police-force-moves-to-its-own-building-after-8-years-27-98.html": 1794584453.6961682,
   "https://nagariknews.nagariknetwork.com/politics/it-is-sad-that-caste-discrimination-persists-even-in-the-21st-century-53-44.html": 1794584453.6961682,
-  "https://nagariknews.nagariknetwork.com/economy/korla-border-revenue-collected-exceeds-annual-target-by-more-than-rs-3-billion-in-four-months-75-16.html": 1794584453.6961682
+  "https://nagariknews.nagariknetwork.com/economy/korla-border-revenue-collected-exceeds-annual-target-by-more-than-rs-3-billion-in-four-months-75-16.html": 1794584453.6961682,
+  "https://baahrakhari.com/detail/507255": 1794585051.647651,
+  "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQd3czaGNDbEZaX0o5eGdhcDROYWF4eHppNklvODJCSl9TM1RIckctcDlZRWNjeTFHUDhIYURpWmdib0dUX0NBSmJ6Q25QcnU0UkFoMm44U2l5VG51MlJfV2pCV0c5ZXZoVmt2ZmI5WmRKOTlBMXhnTjNUaWwtc1RwRThCYUYzaUVUU1YtcG1hdC1XekhhMW9UWDZoSVVYaFcyaUxGLWQxeEI2UGtCOEQ4YWVwXzRNVXV5SmUzZGxONFV3NEFEbGtFNA?oc=5": 1794585051.647651
  },
  "queue": [
   {
@@ -1817,29 +1819,6 @@
    "cat": "culture",
    "val": 1,
    "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "Rapti Health Science Academy in Dang Launches Advanced Cardiac Services",
-   "summary": "Dang. Advanced cardiac treatment services have become effective at Rapti Health Science Academy in Ghorahi, Dang, after the commencement of...",
-   "link": "http://english.ratopati.com/story/86455/rapti-institutes-achievements-in-heart-treatment-seven-successful-surgeries-in-asoj",
-   "source": "Ratopati EN",
-   "ts": 1794555987,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/setting/banner-image_sPOGzj8QHe.jpg",
-   "lang": "en",
-   "hl": "Rapti Health Science Academy in Dang Launches Advanced Cardiac Services",
-   "en": "Rapti Health Science Academy in Dang Launches Advanced Cardiac Services",
-   "ne": "Rapti Health Science Academy in Dang Launches Advanced Cardiac Services",
-   "imp": 3,
-   "tags": [
-    "Dang",
-    "RaptiHealth",
-    "Cardiac"
-   ],
-   "cat": "health",
-   "val": 3,
-   "teaser": false,
    "hits": 1
   },
   {
@@ -5369,29 +5348,6 @@
    "hits": 1
   },
   {
-   "title": "14-year-old girl dies after bus hits motorcycle",
-   "summary": "BHAKTAPUR: A 14-year-old girl died after a bus collided with a motorcycle in Bhaktapur. The bus (Ba 01-005 Kha 9697), travelling from Kavre towards Bhaktapur, hit a motorcycle (Ba 02-001 Pa 2366) travelling in the same...",
-   "link": "https://english.khabarhub.com/2026/13/575491/",
-   "source": "Khabarhub EN",
-   "ts": 1794580003,
-   "weight": 2,
-   "img": "https://english.khabarhub.com/wp-content/uploads/2025/08/Khabar-Hub-News_Bike-Bus-Accident_1200px-630X-px-Final_2021.05.13-Nep-400x220.jpg",
-   "lang": "en",
-   "hl": "14-year-old girl dies after bus hits motorcycle",
-   "en": "14-year-old girl dies after bus hits motorcycle",
-   "ne": "14-year-old girl dies after bus hits motorcycle",
-   "imp": 4,
-   "tags": [
-    "Accident",
-    "RoadSafety",
-    "दुर्घटना"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "सडकमा मृत्युको शृंखला : दुर्घटना बढ्दो, रोकथामका सरकारी योजना कागजमै",
    "summary": "",
    "link": "https://baahrakhari.com/detail/507250",
@@ -5803,7 +5759,7 @@
    "cat": "world",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Xi to attend APEC Economic Leaders' Meeting, related events in Shenzhen",
@@ -9051,9 +9007,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "health"
+  },
+  {
+   "ts": 1794585056.90681,
+   "en": "14-year-old girl dies after bus hits motorcycle in Bhaktapur",
+   "ne": "14-year-old girl dies after bus hits motorcycle in Bhaktapur",
+   "link": "https://english.khabarhub.com/2026/13/575491/",
+   "source": "Khabarhub EN",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "disaster"
   }
  ],
- "updated": 1794584461,
+ "updated": 1794585066,
  "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
