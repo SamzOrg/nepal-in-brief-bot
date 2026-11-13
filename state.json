@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://nagariknews.nagariknetwork.com/social-affairs/president-poudel-receives-brotherly-greetings-from-his-sister-sharda-69-60.html": 1794381653.0220165,
-  "https://theannapurnaexpress.com/story/68671": 1794381653.0220165,
   "https://english.khabarhub.com/2026/11/575243/": 1794382268.6328163,
   "https://baahrakhari.com/detail/507083": 1794382268.6328163,
   "https://nagariknews.nagariknetwork.com/politics/chief-minister-yadav-to-take-vote-of-confidence-on-kartik-12-73-77.html": 1794382848.101637,
@@ -1282,32 +1280,13 @@
   "https://english.onlinekhabar.com/1-killed-2-injured-after-car-hits-pedestrians-in-chitwan.html": 1794554451.241199,
   "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZ191TjNxMzFzbUFob3dUWUlZLXhPUWRjT1UxYTFPRnotSFpjNFFneGg2NldGS0IzNnh5NVIxWEpucnk2YkJtNUYxVjVtcFRlMzBiWUJiaDUzbDl1TDBqaXNHVTFvUHdhMk1xV2o3bVdsN253dF9sVUFqdjU2Q3ltVTdGVF85MUhWWDlQcVZDM1Y3YnJ1TU9LbVF1Ukx6QjJLbWlxeFc5WW1OSVRuTXpkemt6TWtvMTJneHVXN3gxQWZGekRCNlZfVW1sWHpZcGc?oc=5": 1794554451.241199,
   "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZl95cW1yc05jb3V4SVFOZFBMTEtpbngtZFZhYUhpVkxud3RONnJDY2dJeU1iM0hUcUZHN2pNMVhmTE5YcEZnU29ZcHdralF2bXBHb3pLV3JBX2tZbHNFb0FybkNnaGZvNGh2azRkUXZnVUhpN3IxSWstOUFQQ0xFeFZYc2FzLXZlamRjMUdrNloyYjFndXBXMFVKLWFoamc0TEN3SDhka0xIVEJadzJqZGV1Z2lkVEE?oc=5": 1794554451.241199,
-  "https://www.ujyaaloonline.com/detail/133438": 1794554451.241199
+  "https://www.ujyaaloonline.com/detail/133438": 1794554451.241199,
+  "http://english.ratopati.com/story/86451/over-3000-participants-in-uml-national-cadres-gathering": 1794555065.1974201,
+  "https://www.ujyaaloonline.com/detail/133444": 1794555065.1974201,
+  "https://kathmandupost.com/national/2026/11/13/president-appoints-four-new-supreme-court-justices": 1794555065.1974201,
+  "https://baahrakhari.com/detail/507199": 1794555065.1974201
  },
  "queue": [
-  {
-   "title": "Spain Defeats Czech Republic 2-0 in Nations League",
-   "summary": "Kathmandu. In the fifth match of the group stage under the UEFA Nations League, Spain registered an easy 2-0 goal...",
-   "link": "http://english.ratopati.com/story/86383/spain-stays-top-of-group-with-2-0-win-over-czech-republic",
-   "source": "Ratopati EN",
-   "ts": 1794525653,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/spain-team_cMjgvItbMH.webp",
-   "lang": "en",
-   "hl": "Spain Defeats Czech Republic 2-0 in Nations League",
-   "en": "Spain Defeats Czech Republic 2-0 in Nations League",
-   "ne": "Spain Defeats Czech Republic 2-0 in Nations League",
-   "imp": 1,
-   "tags": [
-    "Spain",
-    "CzechRepublic",
-    "NationsLeague"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
   {
    "title": "14 Dead, 30 Injured in Fujairah Multi-Vehicle Collision",
    "summary": "Fujairah. At least 14 people have died and 30 others have been injured in a collision involving 18 cars and...",
@@ -4896,7 +4875,7 @@
    "cat": "culture",
    "val": 2,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "आज कोप-३१ को पाँचौं दिन, नेपालका लागि अहिलेसम्म भएका ५ महत्त्वपूर्ण कुरा",
@@ -4942,7 +4921,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 3
+   "hits": 4
   },
   {
    "title": "आइटियुमा नेपालको सहभागिता अर्थपूर्ण रह्यो : मन्त्री तिमिल्सिना",
@@ -5123,6 +5102,29 @@
     "पहिरो"
    ],
    "cat": "disaster",
+   "val": 1,
+   "teaser": true,
+   "hits": 1
+  },
+  {
+   "title": "घाइतेलाई उपचार खर्च र मृतकका परिवारलाई क्षतिपूर्ति उपलब्ध गराइने",
+   "summary": "",
+   "link": "https://baahrakhari.com/detail/507199",
+   "source": "Baahrakhari",
+   "ts": 1794554689,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "घाइतेलाई उपचार खर्च र मृतकका परिवारलाई क्षतिपूर्ति उपलब्ध गराइने",
+   "en": "घाइतेलाई उपचार खर्च र मृतकका परिवारलाई क्षतिपूर्ति उपलब्ध गराइने",
+   "ne": "घाइतेलाई उपचार खर्च र मृतकका परिवारलाई क्षतिपूर्ति उपलब्ध गराइने",
+   "imp": 3,
+   "tags": [
+    "Compensation",
+    "Treatment",
+    "राहत"
+   ],
+   "cat": "society",
    "val": 1,
    "teaser": true,
    "hits": 1
@@ -8122,7 +8124,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1794554473,
+ "updated": 1794555070,
  "pending_since": 1794554451.241199,
  "fb_blocks": [
   1790350880.4125228,
