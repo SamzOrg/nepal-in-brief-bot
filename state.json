@@ -1562,7 +1562,8 @@
   "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZGNEZUtIMEppei1HaXVfSDl5ZnlMbmZCbXpPbUpSZWhRNUVjVlB6QjhnRkNZY0tHMUE3aDFvZkFFYW1taEpvLXZjUktlbUJVS3BQTzdoVlpSQmx3ODhIb3psTzZ6UjhxTVVWaEVBejgxNDRHQmY1Z1hFR0ctLS1TVVNQSkVNcVE1ZzhKLWpXUmpZV0x6WHZXQ2RxUUpkTkd6eEE?oc=5": 1794597654.1738281,
   "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOUdjTkVMelE4WVhtbFBBcE5FRjdORGRXNmx0SWFuMFFfTWRMNU8xN3hKUVVabFd6Y0N5RzNfdlJvaW4ySzVlVVFBUEtEYWg1M1FMM3dFVEhYc2lEOGN0T0ptYW9KOHdzUkY3NXppREtza2R4WTZrVFV0N0dLeGRlWk5BSEM?oc=5": 1794598854.3842816,
   "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNmtteUJLM3p5eno0SDl0QzFJb1k4LU9tNHhTSlBncVVYUlNFLTB5TlJFNWtoUVFNS01yMXRUbC10bkh5dE5ybHVmdTA5YnJLazhWX2Rfa1BsVWdMaVhSUXRRVXJfUmZ4NlRQY29td3BQcVlvQWlYNW9TMXVBZEhEZlN3OFpKREt6QWxVZFhYVGhOTjBXZFNpRkNFVk00RG5HOFBuTGtmMlRKZw?oc=5": 1794598854.3842816,
-  "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQ1RReXVRd2x6SkZVMWFtN2lFY0NMcGdIdWNEMHVEelVIeGpMVUNsTHJXUFIxY1dRVHJCc21oYk9fSHFfeXdfN0tZZXE4NnJjLUdwTlhydlFKQWdiY2VYRTZpY0JhR3NWUlltNlRFTlBHNGJZckt6X3hTUjJvc1BMbVI4b09FM1hf?oc=5": 1794598854.3842816
+  "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQ1RReXVRd2x6SkZVMWFtN2lFY0NMcGdIdWNEMHVEelVIeGpMVUNsTHJXUFIxY1dRVHJCc21oYk9fSHFfeXdfN0tZZXE4NnJjLUdwTlhydlFKQWdiY2VYRTZpY0JhR3NWUlltNlRFTlBHNGJZckt6X3hTUjJvc1BMbVI4b09FM1hf?oc=5": 1794598854.3842816,
+  "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWTJUOEpuZ1JkV0pZb01XN1RkMmNZS2c0UHRHX0NIbWE1NXYteWdNclVCV3VnUll1ekcwUGRGWmFWc3JyZEVtQ0t2QTNuTXVCeWxoR3J6VVpabVpZdGtFMDFKTW5FVzNJWXE1Y184LWJqV0pxOWkza0hZTjVwcVVuOQ?oc=5": 1794607736.549248
  },
  "queue": [
   {
@@ -1678,29 +1679,6 @@
    "val": 2,
    "teaser": false,
    "hits": 3
-  },
-  {
-   "title": "Epic resonance: Ramayana breaks opening records across SE Asia, Nepal",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUUVGdS1ZdTdYQlpUeUlqMHFFX2pfb3JrWGQ4ZVIwUWxVSXdBdzN6RFBNdldKMFI0X1hyMW5QY1BSeDJscUtDU3FxZXV6STNHQXJDb0ZSQm1fYnhoS2RoOFpPQ2h0TWFfQU1hNXpydWJURFYwSUxKdXJEazV6VURKenpkX1VIdmxqSGFvd01wSktqUktzdFAwQzFtaWs0Y01IWkQtbmxB?oc=5",
-   "source": "The Federal",
-   "ts": 1794578572,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Epic resonance: Ramayana breaks opening records across SE Asia, Nepal",
-   "en": "Epic resonance: Ramayana breaks opening records across SE Asia, Nepal",
-   "ne": "Epic resonance: Ramayana breaks opening records across SE Asia, Nepal",
-   "imp": 2,
-   "tags": [
-    "Ramayana",
-    "SEAsia",
-    "Records"
-   ],
-   "cat": "culture",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
   },
   {
    "title": "मधेस प्रदेशसभा शनिबार दिउँसो १ बजे आह्वान",
@@ -2435,7 +2413,7 @@
    "cat": "culture",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Nepal: Janjatiya Gaurav Diwas celebrated in Kathmandu",
@@ -5455,8 +5433,8 @@
    "cat": "crime"
   }
  ],
- "updated": 1794607283,
- "pending_since": null,
+ "updated": 1794607739,
+ "pending_since": 1794607736.549248,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
