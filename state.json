@@ -1519,7 +1519,13 @@
   "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMEdGZkt2UG9GNTc5YW1UU1RReS1nS0p5czNjMnlWWkY0UzVKUVZzRDJLSUFIM2hhMmZxV25PVS14cExOLVFtaHg4RG1qSUQzMFJxRWlvcFIxLXdsTjBPeGRERE4yc1pBWEI3WHNod3JoRzB6UmE0QmpOX25iZXZHRlE4VFNaZUhFSmlzZm0zZ2stX0dxc1BrVkpoU0tfZThBNDllR2puX3gtbkVveGpMM1lGV0hBeDRiazllUGpWSUt3YXFlQWpwVE13?oc=5": 1794581453.0178878,
   "https://english.onlinekhabar.com/arjun-kumar-karki-urges-developed-countries-to-provide-climate-finance-as-grants-not-loans.html": 1794581453.0178878,
   "https://baahrakhari.com/detail/507249": 1794581453.0178878,
-  "https://baahrakhari.com/detail/507248": 1794581453.0178878
+  "https://baahrakhari.com/detail/507248": 1794581453.0178878,
+  "https://risingnepaldaily.com/news/88576": 1794582084.4731567,
+  "https://risingnepaldaily.com/news/88575": 1794582084.4731567,
+  "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5VX2FmdTd4U1VfNTlBeU1STGZkRTlGSFljVHdIREZJZGQzTnRZLTFMNHJxU3pvMHFQSkxmNjdRaERXMnp2TkJPLUpxNF9TRk93?oc=5": 1794582084.4731567,
+  "https://risingnepaldaily.com/news/88574": 1794582084.4731567,
+  "https://news.google.com/rss/articles/CBMicEFVX3lxTFBXQzZqcUFOTlBaNnFuQTQ0ak9FTllVVi1oenBGT1BZQzllNUQwSHlMV08zbVBTTFRUUVBVQmhyMER4WEthYXNzSDFScnVORkxTaFFuaXA1OEktV3ltY2psdENXN2h5UnhIT3lpd3BRaUI?oc=5": 1794582084.4731567,
+  "https://nagariknews.nagariknetwork.com/sports/npl-chitwan-s-playoff-chances-remain-janakpur-eliminated-23-22.html": 1794582084.4731567
  },
  "queue": [
   {
@@ -1586,99 +1592,6 @@
    ],
    "cat": "culture",
    "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "मुकुलको आरोप : 'डिजिटल नेपाल'का नाममा अनुत्पादक एप बनाएर जनताको कर दुरुपयोग",
-   "summary": "प्रधानमन्त्री बालेन्द्र शाह नेतृत्वको सरकारमा समेत यस्तो बेथिति देखिएको भन्दै ढकालले मन्त्रालयहरू जनताले प्रयोग नै नगर्ने एप बनाउन केन्द्रित भएको आरोप लगाए।...",
-   "link": "https://nagariknews.nagariknetwork.com/politics/mukul-s-allegation-misuse-of-public-taxes-has-increased-by-creating-unproductive-apps-in-the-name-of-digital-nepal-71-87.html",
-   "source": "Nagarik News",
-   "ts": 1794552910,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1794552865_mukul.jpg",
-   "lang": "ne",
-   "hl": "मुकुलको आरोप : 'डिजिटल नेपाल'का नाममा अनुत्पादक एप बनाएर जनताको कर दुरुपयोग",
-   "en": "मुकुलको आरोप : 'डिजिटल नेपाल'का नाममा अनुत्पादक एप बनाएर जनताको कर दुरुपयोग",
-   "ne": "मुकुलको आरोप : 'डिजिटल नेपाल'का नाममा अनुत्पादक एप बनाएर जनताको कर दुरुपयोग",
-   "imp": 3,
-   "tags": [
-    "DigitalNepal",
-    "MukulDhakal",
-    "Corruption"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Nepal's participation in ITU Conference meaningful and effective: Communications Minister",
-   "summary": "Kathmandu, November 13 Minister for Communications and Information Technology Dr Bikram Timilsina has said Nepal made meaningful and effective participation in the International Telecommunication Union (ITU)...",
-   "link": "https://english.onlinekhabar.com/nepals-participation-in-itu-conference-meaningful-and-effective-communications-minister.html",
-   "source": "Onlinekhabar EN",
-   "ts": 1794552782,
-   "weight": 3,
-   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/11/bikram-timilshina-1024x500-1.jpg",
-   "lang": "en",
-   "hl": "Nepal's participation in ITU Conference meaningful and effective: Communications Minister",
-   "en": "Nepal's participation in ITU Conference meaningful and effective: Communications Minister",
-   "ne": "Nepal's participation in ITU Conference meaningful and effective: Communications Minister",
-   "imp": 2,
-   "tags": [
-    "ITU",
-    "CommunicationsMinister",
-    "Nepal"
-   ],
-   "cat": "tech",
-   "val": 3,
-   "teaser": false,
-   "hits": 4
-  },
-  {
-   "title": "पश्चिमी वायु सक्रिय हुँदा आइतबार वर्षा र हिमपात हुन सक्ने, धानबाली भित्र्याउन मौसमविद्को सुझाव",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/507195",
-   "source": "Baahrakhari",
-   "ts": 1794552827,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "पश्चिमी वायु सक्रिय हुँदा आइतबार वर्षा र हिमपात हुन सक्ने, धानबाली भित्र्याउन मौसमविद्को सुझाव",
-   "en": "पश्चिमी वायु सक्रिय हुँदा आइतबार वर्षा र हिमपात हुन सक्ने, धानबाली भित्र्याउन मौसमविद्को सुझाव",
-   "ne": "पश्चिमी वायु सक्रिय हुँदा आइतबार वर्षा र हिमपात हुन सक्ने, धानबाली भित्र्याउन मौसमविद्को सुझाव",
-   "imp": 3,
-   "tags": [
-    "Weather",
-    "Rainfall",
-    "Snowfall",
-    "Agriculture"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "New Delhi Becomes World's Most Polluted City, Surpassing Lahore",
-   "summary": "New Delhi. India's capital New Delhi on Friday became the world's most polluted city, surpassing Pakistan's Lahore. The air pollution...",
-   "link": "http://english.ratopati.com/story/86443/delhi-has-become-the-worlds-number-one-air-polluted-city",
-   "source": "Ratopati EN",
-   "ts": 1794552923,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/capture1_Xwopkck16L.webp",
-   "lang": "en",
-   "hl": "New Delhi Becomes World's Most Polluted City, Surpassing Lahore",
-   "en": "New Delhi Becomes World's Most Polluted City, Surpassing Lahore",
-   "ne": "New Delhi Becomes World's Most Polluted City, Surpassing Lahore",
-   "imp": 2,
-   "tags": [
-    "NewDelhi",
-    "AirPollution",
-    "India"
-   ],
-   "cat": "world",
-   "val": 3,
    "teaser": false,
    "hits": 1
   },
@@ -3415,28 +3328,6 @@
    "val": 2,
    "teaser": false,
    "hits": 3
-  },
-  {
-   "title": "Sudurpaschim close in on Qualifier after thrilling win over Kathmandu",
-   "summary": "Sudurpaschim Royals have won four consecutive matches after losing two of their first three, moving to the top of the Nepal Premier League table with 10 points.",
-   "link": "https://kathmandupost.com/cricket/2026/11/13/sudurpaschim-close-in-on-qualifier-after-thrilling-win-over-kathmandu",
-   "source": "Kathmandu Post",
-   "ts": 1794552657.2801247,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Sudurpaschim close in on Qualifier after thrilling win over Kathmandu",
-   "en": "Sudurpaschim close in on Qualifier after thrilling win over Kathmandu",
-   "ne": "Sudurpaschim close in on Qualifier after thrilling win over Kathmandu",
-   "imp": 3,
-   "tags": [
-    "Sudurpaschim",
-    "Qualifier"
-   ],
-   "cat": "sports",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
   },
   {
    "title": "Road Accidents Claim Lives Annually, Trauma Service Expansion Slow",
@@ -5460,7 +5351,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 3
   },
   {
    "title": "बेनीमा पूर्वाधार विकास डिभिजन कार्यालय स्थापना",
@@ -5548,7 +5439,7 @@
    "cat": "sports",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Madhes govt announces monetary aid to Bhimphedi accident victims",
@@ -5571,7 +5462,7 @@
    "cat": "disaster",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "बसको ठक्करबाट बालिकाको मृत्यु",
@@ -6098,7 +5989,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "चितवनको जितले २ टोली बाहिरिए, प्लेअफको बाँकी २ स्थानका लागि ३ टोलीको भिडन्त",
@@ -6144,7 +6035,7 @@
    "cat": "sports",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Match Predictions: Nepal Premier League 2026 - 26th Match - Biratnagar Kings vs Lumbini Lions - 14th November",
@@ -9337,8 +9228,8 @@
    "cat": "politics"
   }
  ],
- "updated": 1794581478,
- "pending_since": null,
+ "updated": 1794582088,
+ "pending_since": 1794582084.4731567,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
