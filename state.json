@@ -1191,7 +1191,11 @@
   "https://nagariknews.nagariknetwork.com/Dharma-Saskriti/chhath-connecting-economic-and-cultural-aspects-br-91-12.html": 1794541847.962296,
   "http://english.ratopati.com/story/86410/ramayana-enters-rs-1000-crore-club-in-eight-days-breaks-animal-record": 1794541847.962296,
   "https://gorkhapatraonline.com/news/228921": 1794541847.962296,
-  "https://nagariknews.nagariknetwork.com/politics/prachanda-departs-for-moscow-to-attend-world-conference-59-15.html": 1794541847.962296
+  "https://nagariknews.nagariknetwork.com/politics/prachanda-departs-for-moscow-to-attend-world-conference-59-15.html": 1794541847.962296,
+  "https://www.setopati.com/social/402472": 1794542475.3823652,
+  "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUkNGb0lrck0taTNtbS1WSktoWVQ0dkZHTXRBNHpOa0pnX1IzaUk1elpUclZEV0xUbXphbWJWZXZEUmVtSW12ZzRlXzdzWjNQck9BNUxLWkUxcDNSRXlMR3F5SDFYNmpoam91bThPeW80U2xKMC1kMTdqVTZRSi1RNUNBbVJDUFhZaVR4MTBNZkN3bks4dTE3OTRhOGVFZlQxYl9Bdk1KQnhFLWo1MGVuZWxadExmY1NEa0ZyUU5zUQ?oc=5": 1794542475.3823652,
+  "https://english.khabarhub.com/2026/13/575424/": 1794542475.3823652,
+  "https://theannapurnaexpress.com/story/68713": 1794542475.3823652
  },
  "queue": [
   {
@@ -1713,7 +1717,7 @@
    "cat": "culture",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Tilottama Multipurpose View Tower Remains Inaccessible Five Years After Inauguration",
@@ -3018,7 +3022,7 @@
    "cat": "economy",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "ट्रम्पले इरानसँगको शान्ति वार्ताबाट जेडी भान्सलाई हटाए",
@@ -3177,6 +3181,28 @@
     "हात्ती"
    ],
    "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "New York City building collapse kills 8, mayor expands probe",
+   "summary": "Rescue teams worked through torrential rain on Thursday and found no more victims in the rubble of a New York City apartment building collapse that killed at least eight people and prompted Mayor Zohran Mamdani to order...",
+   "link": "https://theannapurnaexpress.com/story/68713",
+   "source": "Annapurna Express",
+   "ts": 1794528076.7180388,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "New York City building collapse kills 8, mayor expands probe",
+   "en": "New York City building collapse kills 8, mayor expands probe",
+   "ne": "New York City building collapse kills 8, mayor expands probe",
+   "imp": 1,
+   "tags": [
+    "NewYork",
+    "BuildingCollapse"
+   ],
+   "cat": "world",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -6176,7 +6202,7 @@
    "cat": "politics"
   }
  ],
- "updated": 1794541873,
+ "updated": 1794542479,
  "pending_since": 1794541847.962296,
  "fb_blocks": [
   1790350880.4125228,
