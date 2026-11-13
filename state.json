@@ -1569,52 +1569,6 @@
  },
  "queue": [
   {
-   "title": "विश्वभर किन अवरुद्ध भयो माइक्रोसफ्टको सेवा ?",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/507219",
-   "source": "Baahrakhari",
-   "ts": 1794564160,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "विश्वभर किन अवरुद्ध भयो माइक्रोसफ्टको सेवा ?",
-   "en": "विश्वभर किन अवरुद्ध भयो माइक्रोसफ्टको सेवा ?",
-   "ne": "विश्वभर किन अवरुद्ध भयो माइक्रोसफ्टको सेवा ?",
-   "imp": 3,
-   "tags": [
-    "Microsoft",
-    "GlobalOutage",
-    "माइक्रोसफ्ट"
-   ],
-   "cat": "tech",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Nineteen Public Holidays in Kartik Month of Fiscal Year 2083",
-   "summary": "Kathmandu. In the month of Kartik alone in the current fiscal year 2083, there have been 19 public holidays.Including various...",
-   "link": "http://english.ratopati.com/story/86483/19-days-of-public-holidays-in-the-month-of-kartik-alone",
-   "source": "Ratopati EN",
-   "ts": 1794564220,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/bida-holiday_6BEynpQOw7.jpg",
-   "lang": "en",
-   "hl": "Nineteen Public Holidays in Kartik Month of Fiscal Year 2083",
-   "en": "Nineteen Public Holidays in Kartik Month of Fiscal Year 2083",
-   "ne": "Nineteen Public Holidays in Kartik Month of Fiscal Year 2083",
-   "imp": 2,
-   "tags": [
-    "PublicHoliday",
-    "Government",
-    "सार्वजनिकबिदा"
-   ],
-   "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "भीमफेदी दुर्घटनामा एकै गाउँका १३ जनाको मृत्यु, शवको पर्खाइमा आफन्त",
    "summary": "",
    "link": "https://baahrakhari.com/detail/507222",
@@ -1833,28 +1787,6 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "'विद्युतीय माइक्रोबसको सिट क्षमता र रुट परमिटमाथि छानबिन हुनुपर्छ'",
-   "summary": "विद्युतीय माइक्रोबसको सिट क्षमता परिवर्तन, रुट परमिट वितरण र रात्रिकालीन सेवा सञ्चालनसम्बन्धी निर्णयमाथि निष्पक्ष छानबिन गर्नुपर्ने नेपाल यातायात व्यवसायी राष्ट्रिय महासंघका अध्यक्ष सरोज सिटौलाले बताएका छन् ।...",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/the-seating-capacity-and-route-permits-of-electric-microbuses-should-be-investigated-96-10.html",
-   "source": "Nagarik News",
-   "ts": 1794564434,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1794491818_BhimPhedi.png",
-   "lang": "ne",
-   "hl": "'विद्युतीय माइक्रोबसको सिट क्षमता र रुट परमिटमाथि छानबिन हुनुपर्छ'",
-   "en": "'विद्युतीय माइक्रोबसको सिट क्षमता र रुट परमिटमाथि छानबिन हुनुपर्छ'",
-   "ne": "'विद्युतीय माइक्रोबसको सिट क्षमता र रुट परमिटमाथि छानबिन हुनुपर्छ'",
-   "imp": 2,
-   "tags": [
-    "Microbus",
-    "Capacity"
-   ],
-   "cat": "transport",
-   "val": 1,
-   "teaser": true,
    "hits": 1
   },
   {
@@ -8098,8 +8030,8 @@
    "cat": "crime"
   }
  ],
- "updated": 1794592889,
- "pending_since": null,
+ "updated": 1794593453,
+ "pending_since": 1794593450.462378,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
