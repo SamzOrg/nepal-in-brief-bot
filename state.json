@@ -1,8 +1,5 @@
 {
  "seen": {
-  "http://english.ratopati.com/story/86286/pokhara-sparkles-during-tihar-beauty-added-to-the-lap-of-the-himalayas-photo-feature": 1794401450.8639963,
-  "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaHR0ZGJpbXcxSmc3SFRtVHJyU0hwMUs3QmdRazYwaDhxdFluV05qOU9UN3VvVlBSa3MtbzFQcnpBNGFKZHJMcHdzTUtWQ1BtVTJ6QkhqUnlUY28waWxQaFhydnA3czFOaXU5YndYVHRWYnQtWVNrX2Z0REltWHEyMU9xQzI?oc=5": 1794401450.8639963,
-  "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPeFU2NDdCVkRCRWJ1VDZkRDRLSmhJbjdSSm9keEpMS3pzSVZiclVKdlg4dUVaTDdWTURWNE42ZVk0blk5R1ROd2FGSDYwWi1hRmVBb1kwY1VhbEswYVZibzZoZ2NMWDF3REhDc00zNHY3RmZfVWlGZEJha3lxcFpiM3BHREtPYlpVV0h5bTcwcjRmYXFoT1UwbzVRdXpkSFdLYl9RUGQtYlZMaTRmM2VhX3pLdUUybldJRm9Zc2dYYTlBSUNGcVVBOGJGbDNCQlBoeXdVbFdCTl8?oc=5": 1794401450.8639963,
   "https://theannapurnaexpress.com/story/68678": 1794402089.7458086,
   "http://english.ratopati.com/story/86284/7-revolutions-of-nepali-banking-from-monetization-to-digitization": 1794403249.9010859,
   "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbVh5eWstdzlqNk5pbVVSRjJyYnlOc2pZakhZOVFVZFl1cVQzVzNtS1Qya29DQTctblFZOVdOSXBDcG9TSi1nRXhlOGZlcXlZSWFiMEtSMVRqMi15SFBxUWRZUWN3SmNjV2ZXTHBRaXgwRC1zSWRFMjhLNXFJaWRNaGNPUFFKblpITkRPNXR3ZDFtdkZmR0NPQVVwLTZfSEdSV1BjZTVWbFRoUQ?oc=5": 1794403867.8040679,
@@ -1472,7 +1469,11 @@
   "http://english.ratopati.com/story/86509/creating-new-words-is-essential-for-the-transmission-of-mundhum-bairagi-kainla": 1794573650.7512453,
   "http://english.ratopati.com/story/86508/22-absconding-defendants-arrested-in-morang": 1794573650.7512453,
   "http://english.ratopati.com/story/86506/iaea-requests-inspection-of-irans-nuclear-facilities": 1794573650.7512453,
-  "http://english.ratopati.com/story/86484/question-to-jagdish-kharel-has-the-conflict-between-the-party-and-the-government-increased": 1794573650.7512453
+  "http://english.ratopati.com/story/86484/question-to-jagdish-kharel-has-the-conflict-between-the-party-and-the-government-increased": 1794573650.7512453,
+  "http://english.ratopati.com/story/86513/janakpur-loses-ninth-wicket": 1794574251.3599396,
+  "https://www.ujyaaloonline.com/detail/133458": 1794574251.3599396,
+  "https://baahrakhari.com/detail/507238": 1794574251.3599396,
+  "https://theannapurnaexpress.com/story/68728": 1794574251.3599396
  },
  "queue": [
   {
@@ -1496,29 +1497,6 @@
    "val": 2,
    "teaser": false,
    "hits": 4
-  },
-  {
-   "title": "सामूहिक रूपमा सयपत्री फूलखेती : १० लाख आम्दानी",
-   "summary": "अमरराज नहर्कीतनहुँ, कात्तिक २७ गते । फुर्सदको समय फेसबुक, टिकटक र युट्युब हेरेर बिताउने प्रवृत्तिलाई उत्पादनमूलक काममा बदल्दै तनहुँको आँबुखैरेनी गाउँपालिकाका महिला सयपत्री फूलखेतीम...",
-   "link": "https://gorkhapatraonline.com/news/228930",
-   "source": "Gorkhapatra",
-   "ts": 1794544948,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/391277/conversions/222-original.jpg",
-   "lang": "ne",
-   "hl": "सामूहिक रूपमा सयपत्री फूलखेती : १० लाख आम्दानी",
-   "en": "सामूहिक रूपमा सयपत्री फूलखेती : १० लाख आम्दानी",
-   "ne": "सामूहिक रूपमा सयपत्री फूलखेती : १० लाख आम्दानी",
-   "imp": 2,
-   "tags": [
-    "SayiPatri",
-    "FlowerFarming",
-    "Income"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
   },
   {
    "title": "Protein Deficiency in Diet and Solutions",
@@ -3813,29 +3791,6 @@
    "hits": 1
   },
   {
-   "title": "भीमफेदी दुर्घटना : क्षतिपूर्तिको माग राखेर परिवार र आफन्तले शव उठाउन मानेनन्",
-   "summary": "१ जनाकाे शव परिवारले बुझे पनि बाँकी १३ जनाको शव हेटौँडा अस्पतालमा रहेको छ ।",
-   "link": "https://www.ujyaaloonline.com/detail/133449",
-   "source": "Ujyaalo",
-   "ts": 1794560034,
-   "weight": 2,
-   "img": "https://www.ujyaaloonline.com/uploads/posts/Accident-pic-1794539725.jpg",
-   "lang": "ne",
-   "hl": "भीमफेदी दुर्घटना : क्षतिपूर्तिको माग राखेर परिवार र आफन्तले शव उठाउन मानेनन्",
-   "en": "भीमफेदी दुर्घटना : क्षतिपूर्तिको माग राखेर परिवार र आफन्तले शव उठाउन मानेनन्",
-   "ne": "भीमफेदी दुर्घटना : क्षतिपूर्तिको माग राखेर परिवार र आफन्तले शव उठाउन मानेनन्",
-   "imp": 3,
-   "tags": [
-    "Bhimfedi",
-    "Makwanpur",
-    "भिमफेदी"
-   ],
-   "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 3
-  },
-  {
    "title": "Indonesian woman posing as Kolkata resident held at India-Nepal border with fake IDs",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMjAzcmt5OVN6bTIxVDJJWG96aU9jN2JDTzRzd2ZNX0ZvcUxFZnVtVlN1V3dNWmpjeU1iUjNHTGxVU0t0dExqQXJfVHg2cFNNMndnT0h1QXJwSUd2MGtiYVRHZkd3bEZObVJ4LWlSaGlrMUZNTjg4ZnN3M0xOaGJ0MnJYYlVsU05SVjl6RTU0Tkd3OXF6bU1fUWsxcjZJaGNNTXZtbk9SWDVEWlNPNlF3RkNubGtkMjREQlE?oc=5",
@@ -5032,30 +4987,6 @@
    "hits": 3
   },
   {
-   "title": "Two arrested in Kailali with leopard skin",
-   "summary": "Kathmandu, November 13 Two people have been arrested in Kailali with a leopard skin, police said. The suspects were arrested near Naya Ram Hotel in Dhangadhi Sub-Metropolitan City-4 after police found them moving around...",
-   "link": "https://english.onlinekhabar.com/two-arrested-in-kailali-with-leopard-skin.html",
-   "source": "Onlinekhabar EN",
-   "ts": 1794568230,
-   "weight": 3,
-   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/08/pakrau.jpg",
-   "lang": "en",
-   "hl": "Two arrested in Kailali with leopard skin",
-   "en": "Two arrested in Kailali with leopard skin",
-   "ne": "Two arrested in Kailali with leopard skin",
-   "imp": 3,
-   "tags": [
-    "Kailali",
-    "LeopardSkin",
-    "Arrest",
-    "तस्करी"
-   ],
-   "cat": "crime",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
    "title": "बलिउडमा 'अन्डरवर्ल्ड'को त्रास, सुरक्षा कडा",
    "summary": "",
    "link": "https://baahrakhari.com/detail/507227",
@@ -5926,7 +5857,7 @@
    "cat": "disaster",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "RSP delegation to study technology, disaster management and governance in China",
@@ -6279,7 +6210,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "पहिलोपटक तौल घटाउने औषधि स्वीकृत, चीनले ल्यायो चक्की",
@@ -9582,10 +9513,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "sports"
+  },
+  {
+   "ts": 1794574260.2625096,
+   "en": "Two Arrested in Kailali With Leopard Skin",
+   "ne": "Two Arrested in Kailali With Leopard Skin",
+   "link": "https://english.onlinekhabar.com/two-arrested-in-kailali-with-leopard-skin.html",
+   "source": "Onlinekhabar EN",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "crime"
   }
  ],
- "updated": 1794573656,
- "pending_since": null,
+ "updated": 1794574275,
+ "pending_since": 1794574251.3599396,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
