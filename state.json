@@ -1292,55 +1292,12 @@
   "http://english.ratopati.com/story/86447/congress-expresses-deep-sorrow-over-bhimphedi-accident": 1794555650.278886,
   "https://www.setopati.com/art/bollywood/402493": 1794556261.0594993,
   "https://kathmandupost.com/national/2026/11/13/sarlahi-village-mourns-13-residents-killed-in-makawanpur-crash": 1794556261.0594993,
-  "http://english.ratopati.com/story/86457/indian-youth-dies-after-eating-bomb-mistaking-it-for-candy": 1794556880.6838229
+  "http://english.ratopati.com/story/86457/indian-youth-dies-after-eating-bomb-mistaking-it-for-candy": 1794556880.6838229,
+  "https://gorkhapatraonline.com/news/228945": 1794557450.3226147,
+  "http://english.ratopati.com/story/86459/job-openings-at-nepal-rastra-bank-61-employees-to-be-recruited": 1794557450.3226147,
+  "http://english.ratopati.com/story/86458/is-there-rice-in-the-fields-meteorologists-urge-to-bring-it-in-before-sunday": 1794557450.3226147
  },
  "queue": [
-  {
-   "title": "14 Dead, 30 Injured in Fujairah Multi-Vehicle Collision",
-   "summary": "Fujairah. At least 14 people have died and 30 others have been injured in a collision involving 18 cars and...",
-   "link": "http://english.ratopati.com/story/86387/at-least-14-killed-30-injured-in-23-vehicle-collision-in-uae",
-   "source": "Ratopati EN",
-   "ts": 1794528220,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/pic_d1650_1794496099_pKL3xl71YI.webp",
-   "lang": "en",
-   "hl": "14 Dead, 30 Injured in Fujairah Multi-Vehicle Collision",
-   "en": "14 Dead, 30 Injured in Fujairah Multi-Vehicle Collision",
-   "ne": "14 Dead, 30 Injured in Fujairah Multi-Vehicle Collision",
-   "imp": 1,
-   "tags": [
-    "Fujairah",
-    "RoadAccident",
-    "UAE"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "Harry Kane Scores in Record-Breaking 126th England Appearance",
-   "summary": "London. England captain Harry Kane celebrated his record-breaking 126th match with a goal. He achieved this historic milestone while leading...",
-   "link": "http://english.ratopati.com/story/86388/harry-kanes-record-126th-game-he-made-history-with-a-goal",
-   "source": "Ratopati EN",
-   "ts": 1794528626,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/harry-kane_wCMHGofBhK.webp",
-   "lang": "en",
-   "hl": "Harry Kane Scores in Record-Breaking 126th England Appearance",
-   "en": "Harry Kane Scores in Record-Breaking 126th England Appearance",
-   "ne": "Harry Kane Scores in Record-Breaking 126th England Appearance",
-   "imp": 1,
-   "tags": [
-    "HarryKane",
-    "England",
-    "Football"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
   {
    "title": "टर्कीएमा संयुक्त राष्ट्रसङ्घका महासचिव गुटेरेससँग परराष्ट्रमन्त्री खनालको भेटवार्ता",
    "summary": "",
@@ -2733,7 +2690,7 @@
    "cat": "society",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "दोस्रो हिमालयन पर्यटन प्रवर्द्धन 'राइड'मा १३२ जना भाग लिँदै",
@@ -5490,17 +5447,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1793952088.508185,
-   "en": "JSP to lead new Madhesh coalition with UML and CPN, displacing Congress government",
-   "ne": "JSP to lead new Madhesh coalition with UML and CPN, displacing Congress government",
-   "link": "http://english.ratopati.com/story/85830/preparations-for-the-formation-of-a-new-government-under-the-leadership-of-jsp-nepal-in-madhesh",
-   "source": "Ratopati EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "politics"
-  },
   {
    "ts": 1793953870.8104906,
    "en": "India U19 vs Nepal U19 | ACC Men's U19 Asia Cup 2026",
@@ -8472,7 +8418,7 @@
    "cat": "politics"
   }
  ],
- "updated": 1794556884,
+ "updated": 1794557454,
  "pending_since": 1794556261.0594993,
  "fb_blocks": [
   1790350880.4125228,
