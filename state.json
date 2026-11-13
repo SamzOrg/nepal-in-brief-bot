@@ -1215,7 +1215,10 @@
   "http://english.ratopati.com/story/86421/pillow-talk-intimate-nighttime-conversations-that-add-new-warmth-to-relationships": 1794547870.704344,
   "https://nagariknews.nagariknetwork.com/opinion/political-renaissance-and-national-consciousness-br-62-58.html": 1794547870.704344,
   "https://gorkhapatraonline.com/news/228935": 1794548455.6662283,
-  "https://theannapurnaexpress.com/story/68716": 1794548455.6662283
+  "https://theannapurnaexpress.com/story/68716": 1794548455.6662283,
+  "https://www.ujyaaloonline.com/detail/133440": 1794549048.894095,
+  "https://theannapurnaexpress.com/story/68719": 1794549048.894095,
+  "http://english.ratopati.com/story/86429/uml-national-gathering-expectations-to-end-cadres-frustration-and-organizational-chaos": 1794549048.894095
  },
  "queue": [
   {
@@ -1331,7 +1334,7 @@
    "cat": "sports",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "टर्कीएमा संयुक्त राष्ट्रसङ्घका महासचिव गुटेरेससँग परराष्ट्रमन्त्री खनालको भेटवार्ता",
@@ -2030,7 +2033,7 @@
    "cat": "economy",
    "val": 2,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "Kalimati Market Releases Wholesale Prices for Fruits and Vegetables on November 13, 2026",
@@ -3947,17 +3950,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1793943673.0154235,
-   "en": "Kathmandu Valley Air Pollution Rises as Dry Season Begins",
-   "ne": "Kathmandu Valley Air Pollution Rises as Dry Season Begins",
-   "link": "https://english.onlinekhabar.com/air-pollution-rises-in-kathmandu.html",
-   "source": "Onlinekhabar EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "disaster"
-  },
   {
    "ts": 1793945457.6284173,
    "en": "Bagmati Province allocates Rs400M to build homes for 1,000 homeless families",
@@ -6938,9 +6930,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "sports"
+  },
+  {
+   "ts": 1794549058.1447155,
+   "en": "CPN-UML National Convention in Kathmandu on Mangsir 2-3 to Address Defeat",
+   "ne": "CPN-UML National Convention in Kathmandu on Mangsir 2-3 to Address Defeat",
+   "link": "http://english.ratopati.com/story/86429/uml-national-gathering-expectations-to-end-cadres-frustration-and-organizational-chaos",
+   "source": "Ratopati EN",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "politics"
   }
  ],
- "updated": 1794548459,
+ "updated": 1794549067,
  "pending_since": 1794548455.6662283,
  "fb_blocks": [
   1790350880.4125228,
