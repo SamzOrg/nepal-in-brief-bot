@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://gorkhapatraonline.com/news/228838": 1794366081.4699323,
   "https://www.setopati.com/social/402392": 1794367249.531868,
   "https://nagariknews.nagariknetwork.com/Dharma-Saskriti/maithil-celebrates-bhaiyaduj-wishes-for-long-life-and-well-being-of-brothers-92-88.html": 1794367249.531868,
   "http://english.ratopati.com/story/86266/prime-minister-balens-best-wishes-on-the-occasion-of-bhai-tika": 1794367249.531868,
@@ -1151,7 +1150,8 @@
   "https://nagariknews.nagariknetwork.com/international/shooting-near-white-house-two-dead-four-injured-85-54.html": 1794537065.232828,
   "https://nagariknews.nagariknetwork.com/sports/the-game-that-gave-sandeep-his-identity-br-68-79.html": 1794537065.232828,
   "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNDlCMk56S0t6czg1M011cHFkT3lUemlIVHpwWUVTUy1taEFIelBjQWhWY2ZNdkktOHpSM1gzaEY0ZURCMktNRjE2elNuZTU0RWN5dW1JOXhIYTdRem9BVFl4bXNZYjh1dlRmQmNIbmlwR0dfX051MFA0NFRHd1haaXNWZWV5cmxpTVBfbzZuZHJHaU1HdG1kcG1qRG1UNkNQTXBDZ1hEenZ1T3FFdEdIYXktbG5xMXAxSmlnT29EQ3ZfQW1E?oc=5": 1794538250.496496,
-  "https://kathmandupost.com/sports/2026/11/13/international-cricketers-fall-in-love-with-nepal-beyond-tu-ground": 1794538250.496496
+  "https://kathmandupost.com/sports/2026/11/13/international-cricketers-fall-in-love-with-nepal-beyond-tu-ground": 1794538250.496496,
+  "http://english.ratopati.com/story/86406/endowment-fund-to-help-those-in-need": 1794538881.5464647
  },
  "queue": [
   {
@@ -2485,6 +2485,28 @@
    ],
    "cat": "sports",
    "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Beg Residents Establish Emergency Fund",
+   "summary": "Myagdi. Residents of Beg, Ward No. 1 of रघुगङ्गा Rural Municipality have established an emergency endowment fund of Rs 1...",
+   "link": "http://english.ratopati.com/story/86406/endowment-fund-to-help-those-in-need",
+   "source": "Ratopati EN",
+   "ts": 1794538807,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/setting/banner-image_sPOGzj8QHe.jpg",
+   "lang": "en",
+   "hl": "Beg Residents Establish Emergency Fund",
+   "en": "Beg Residents Establish Emergency Fund",
+   "ne": "Beg Residents Establish Emergency Fund",
+   "imp": 2,
+   "tags": [
+    "Beg",
+    "EmergencyFund"
+   ],
+   "cat": "society",
+   "val": 3,
    "teaser": false,
    "hits": 1
   }
@@ -5483,7 +5505,7 @@
    "cat": "world"
   }
  ],
- "updated": 1794538269,
+ "updated": 1794538886,
  "pending_since": 1794537648.3083556,
  "fb_blocks": [
   1790350880.4125228,
