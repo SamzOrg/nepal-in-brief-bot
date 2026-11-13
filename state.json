@@ -1197,7 +1197,11 @@
   "https://theannapurnaexpress.com/story/68712": 1794543648.3425806,
   "https://theannapurnaexpress.com/story/68711": 1794543648.3425806,
   "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbi1aUTczcUQza2NDQlZwMjFEdGw2S1JMOG9CeUJTQnJuWVdSNnJMVnBKZ1JHZW51MThVWk5YMkFidmx6NVBGOTJVS0pvMTI1YUdLbkpTMnlhdFNqWnZiQnMwZG9IMXE4VGpIb3A5WlRVbjVOR29SSnRSSUFBM3R6dXktdGJCMEFLOWN6a2NadTNicGJNY3VtMWQtUlV6YTA?oc=5": 1794544280.303109,
-  "http://english.ratopati.com/story/86416/10-killed-in-guinea-gold-mine-dispute": 1794544280.303109
+  "http://english.ratopati.com/story/86416/10-killed-in-guinea-gold-mine-dispute": 1794544280.303109,
+  "http://english.ratopati.com/story/86417/sri-lankas-thanuka-dabare-signs-with-sudurpaschim-royals": 1794544850.468661,
+  "https://news.google.com/rss/articles/CBMimgFBVV95cUxPekxNakdVTVpRUHRTTjU2NEdZMlNMajJEUTVnTi1wY0E2YmdyY2lHeXVLX3dFeWQzc3hYYm5YZUZrR0ctbE9kUXNNb1dmLUdYejllUm83RUh4eDVyel9Ma25YTjltM0xROVF5eWo3TUFxNFRHeDhzMlVmU19ncnBjT3ZDWkFJVDNiTWlTc2JrZzE0LUQxVU90bU1B?oc=5": 1794544850.468661,
+  "https://theannapurnaexpress.com/story/68715": 1794544850.468661,
+  "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUUdqSHB1UUNicTdZck5IUHc3MjE4Wmgzd181VUJOS2l5aWNSS3dNWDJ4TFJEMVFzdEJDbHNpODFSTEZNMlJVT3RpTnY0c3ZmR1kwcHRYNHc3UDgyQXpOTVdCN3Nvamo0ekdtRFlkbFN5NTZrTVRWNWZXMHpWVllVN055dllYRUNDNDJkcGtxLVYxUms?oc=5": 1794544850.468661
  },
  "queue": [
   {
@@ -1266,7 +1270,7 @@
    "cat": "culture",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "Italy Secures 3-1 Comeback Victory Over France in Nations League",
@@ -3412,6 +3416,29 @@
     "Dead"
    ],
    "cat": "world",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "After Nepal-China flood, rescuers race to reach survivors",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUUdqSHB1UUNicTdZck5IUHc3MjE4Wmgzd181VUJOS2l5aWNSS3dNWDJ4TFJEMVFzdEJDbHNpODFSTEZNMlJVT3RpTnY0c3ZmR1kwcHRYNHc3UDgyQXpOTVdCN3Nvamo0ekdtRFlkbFN5NTZrTVRWNWZXMHpWVllVN055dllYRUNDNDJkcGtxLVYxUms?oc=5",
+   "source": "DW.com",
+   "ts": 1794516388,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "After Nepal-China flood, rescuers race to reach survivors",
+   "en": "After Nepal-China flood, rescuers race to reach survivors",
+   "ne": "After Nepal-China flood, rescuers race to reach survivors",
+   "imp": 3,
+   "tags": [
+    "Flood",
+    "ChinaBorder",
+    "Rescue"
+   ],
+   "cat": "disaster",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -6411,7 +6438,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1794544285,
+ "updated": 1794544855,
  "pending_since": 1794544280.303109,
  "fb_blocks": [
   1790350880.4125228,
