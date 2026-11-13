@@ -1166,7 +1166,11 @@
   "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNW9YVEsyR0RONnIzQmpGbVVqUDkzSUs4Zno4NFdDcmx1c05xZWRMV0xmcG1mM0Zmc0dMZEZncDhMY0RQUkdfQTRzak5oMkYwTW9jSThhRFJrdW5IWGhwdmx0ajJVYi05bHFRbFVWRzhqajQzUW9QY2RWbkppdlhZaG9SVVVEbGZvOUlxaW1MSW83SmxUWGhpYXNR?oc=5": 1794539452.0755618,
   "https://nagariknews.nagariknetwork.com/social-affairs/two-hours-to-cover-a-two-minute-distance-75-17.html": 1794539452.0755618,
   "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNU1KYmpYbnZsNWFXNE1YM1IwaldyTXhrU2FGWnZMX1E5Tnd5VlF0c0NhSUItLUV3QWdTRW1JTlA3RDVBamd5R0NGMjRWOTNWVGtNdTI3c2J3RDVya0VhZFRRR2FSdFgybTZmT0xtSkVocW5hM0hZN2dzTGNTcUVNRjRlVzg5T1ZTMUtHVS1MdVB1U2MxTkhwcnhwcGNjUXc?oc=5": 1794540052.4069104,
-  "https://www.ujyaaloonline.com/detail/133436": 1794540052.4069104
+  "https://www.ujyaaloonline.com/detail/133436": 1794540052.4069104,
+  "https://www.setopati.com/social/402469": 1794540668.635225,
+  "https://nagariknews.nagariknetwork.com/social-affairs/mourning-holiday-in-chakraghatta-sarlahi-today-municipality-to-give-rs-50-000-to-the-family-of-the-deceased-br-28-78.html": 1794540668.635225,
+  "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONjVVTlJwYVJfLXFoV0ZQQWJ5RU84UU8yUEJITzFyNk1ZZTJCREJ1amt1cE1kVXRLU3VFazBSZFdfSmQwZ0Z4ZmlXME1icGpRZHRzQWFPbDY0QVRxM1U3VmFIRWxiRWc1TUc3aF9INHF1Y2ZPNlNISEpqM0lmSDV1QzJvZEJMNkJTQjFXX09nZXdFY1JTTUZBVExJQ0R1ZmNsUEVDZzRwVjdxX3hQTl9aZzVITG11WWxu?oc=5": 1794540668.635225,
+  "https://gorkhapatraonline.com/news/228924": 1794540668.635225
  },
  "queue": [
   {
@@ -2873,6 +2877,28 @@
     "Sarlahi",
     "Chakraghatta",
     "शोकबिदा"
+   ],
+   "cat": "society",
+   "val": 3,
+   "teaser": false,
+   "hits": 2
+  },
+  {
+   "title": "मोटरसाइकलको ठक्करबाट पैदल यात्रीको मृत्यु",
+   "summary": "नवलपुर समाचारदातानवलपुर, कात्तिक २७ गते । नवलपुरको हुप्सेकोट गाउँपालिका-३ देउरालीको भित्री सडक खण्डमा मोटरसाइकलको ठक्करबाट एक जनाको मृत्यु भएको छ । गिरुबारीबाट बेलाहानीतर्फ जाँदै ग...",
+   "link": "https://gorkhapatraonline.com/news/228924",
+   "source": "Gorkhapatra",
+   "ts": 1794540389,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/391270/conversions/accident-original.jpg",
+   "lang": "ne",
+   "hl": "मोटरसाइकलको ठक्करबाट पैदल यात्रीको मृत्यु",
+   "en": "मोटरसाइकलको ठक्करबाट पैदल यात्रीको मृत्यु",
+   "ne": "मोटरसाइकलको ठक्करबाट पैदल यात्रीको मृत्यु",
+   "imp": 2,
+   "tags": [
+    "Motorcycle",
+    "Pedestrian"
    ],
    "cat": "society",
    "val": 3,
@@ -5874,7 +5900,7 @@
    "cat": "economy"
   }
  ],
- "updated": 1794540075,
+ "updated": 1794540674,
  "pending_since": 1794540052.4069104,
  "fb_blocks": [
   1790350880.4125228,
