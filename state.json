@@ -1564,7 +1564,8 @@
   "https://theannapurnaexpress.com/story/68733": 1794591074.6663299,
   "https://gorkhapatraonline.com/news/228988": 1794591074.6663299,
   "https://gorkhapatraonline.com/news/228986": 1794591074.6663299,
-  "https://baahrakhari.com/detail/507261": 1794592253.7888172
+  "https://baahrakhari.com/detail/507261": 1794592253.7888172,
+  "https://baahrakhari.com/detail/507262": 1794592885.6346655
  },
  "queue": [
   {
@@ -1610,29 +1611,6 @@
    ],
    "cat": "society",
    "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Home Remedies for Throat Irritation During Winter",
-   "summary": "Kathmandu. With the onset of winter, the problem of air pollution starts to increase rapidly.Exposure to dust particles and pollutants...",
-   "link": "http://english.ratopati.com/story/86482/throat-problems-due-to-winter-pollution-effective-home-remedies-to-provide-relief",
-   "source": "Ratopati EN",
-   "ts": 1794563749,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/image-2026-11-40a6523dd6d98f4d71_OhHMr5xmVH.webp",
-   "lang": "en",
-   "hl": "Home Remedies for Throat Irritation During Winter",
-   "en": "Home Remedies for Throat Irritation During Winter",
-   "ne": "Home Remedies for Throat Irritation During Winter",
-   "imp": 1,
-   "tags": [
-    "HealthTips",
-    "HomeRemedies",
-    "Throat"
-   ],
-   "cat": "health",
-   "val": 1,
    "teaser": false,
    "hits": 1
   },
@@ -1903,28 +1881,6 @@
    "hits": 3
   },
   {
-   "title": "विमानस्थलबाट भारतीय नागरिक पक्राउ",
-   "summary": "ब्यूरोको शाखा कार्यालय त्रिभुवन अन्तर्राष्ट्रिय विमानस्थल गौचरणबाट खटिएको प्रहरी टोलीले उनलाई बिहीबार नियन्त्रणमा लिएको हो।...",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/indian-citizen-arrested-at-airport-68-47.html",
-   "source": "Nagarik News",
-   "ts": 1794563848,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1794563679_Indian%20(1).jpg",
-   "lang": "ne",
-   "hl": "विमानस्थलबाट भारतीय नागरिक पक्राउ",
-   "en": "विमानस्थलबाट भारतीय नागरिक पक्राउ",
-   "ne": "विमानस्थलबाट भारतीय नागरिक पक्राउ",
-   "imp": 2,
-   "tags": [
-    "Airport",
-    "IndianCitizen"
-   ],
-   "cat": "crime",
-   "val": 1,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Tribhuvan University plans to introduce semester system across all faculties",
    "summary": "Kathmandu. November 13 Tribhuvan University (TU) is working on plans to introduce the semester system across all its faculties and academic programmes as part of efforts to improve the quality of higher education. The...",
    "link": "https://english.onlinekhabar.com/tribhuvan-university-plans-to-introduce-semester-system-across-all-faculties.html",
@@ -1944,28 +1900,6 @@
    "cat": "education",
    "val": 2,
    "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "सरकारले अरू दलमाथि हस्तक्षेप गर्न खोज्दैछ : प्रदीप पौडेल",
-   "summary": "उनले सरकारका गतिविधिमाथि प्रश्न उठाउँदै पुराना दलका पुराना नेताहरूको कार्यशैली र अहिलेको सरकारको व्यवहारमा खासै भिन्नता नरहेको टिप्पणी गरे।...",
-   "link": "https://nagariknews.nagariknetwork.com/politics/government-is-trying-to-interfere-with-other-parties-pradeep-poudel-87-80.html",
-   "source": "Nagarik News",
-   "ts": 1794563730,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1787294643_pradip%20paudel.jpg",
-   "lang": "ne",
-   "hl": "सरकारले अरू दलमाथि हस्तक्षेप गर्न खोज्दैछ : प्रदीप पौडेल",
-   "en": "सरकारले अरू दलमाथि हस्तक्षेप गर्न खोज्दैछ : प्रदीप पौडेल",
-   "ne": "सरकारले अरू दलमाथि हस्तक्षेप गर्न खोज्दैछ : प्रदीप पौडेल",
-   "imp": 2,
-   "tags": [
-    "PradeepPaudel",
-    "Interference"
-   ],
-   "cat": "politics",
-   "val": 1,
-   "teaser": true,
    "hits": 1
   },
   {
@@ -3700,7 +3634,7 @@
    "cat": "crime",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "प्रकृति र सामाजिक सद्भावको अनुपम उत्सव छठ पर्व",
@@ -8164,8 +8098,8 @@
    "cat": "crime"
   }
  ],
- "updated": 1794592258,
- "pending_since": 1794592253.7888172,
+ "updated": 1794592889,
+ "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
