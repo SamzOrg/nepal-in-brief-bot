@@ -1473,31 +1473,12 @@
   "http://english.ratopati.com/story/86513/janakpur-loses-ninth-wicket": 1794574251.3599396,
   "https://www.ujyaaloonline.com/detail/133458": 1794574251.3599396,
   "https://baahrakhari.com/detail/507238": 1794574251.3599396,
-  "https://theannapurnaexpress.com/story/68728": 1794574251.3599396
+  "https://theannapurnaexpress.com/story/68728": 1794574251.3599396,
+  "https://nagariknews.nagariknetwork.com/social-affairs/passport-department-to-remain-open-even-during-chhath-festival-91-46.html": 1794574882.0649045,
+  "https://baahrakhari.com/detail/507239": 1794574882.0649045,
+  "https://theannapurnaexpress.com/story/68730": 1794574882.0649045
  },
  "queue": [
-  {
-   "title": "Foreign Minister Khanal calls on UN Secretary-General Guterres",
-   "summary": "Antalya (Turkey), Nov 13: Foreign Minister Shisir Khanal has called on Secretary-General of the United Nations, Antonio...",
-   "link": "https://risingnepaldaily.com/news/88562",
-   "source": "Rising Nepal",
-   "ts": 1794545527,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Foreign Minister Khanal calls on UN Secretary-General Guterres",
-   "en": "Foreign Minister Khanal calls on UN Secretary-General Guterres",
-   "ne": "Foreign Minister Khanal calls on UN Secretary-General Guterres",
-   "imp": 2,
-   "tags": [
-    "Khanal",
-    "Diplomacy"
-   ],
-   "cat": "politics",
-   "val": 2,
-   "teaser": false,
-   "hits": 4
-  },
   {
    "title": "Protein Deficiency in Diet and Solutions",
    "summary": "Kathmandu. There is often a protein deficiency in the body. The main reason for this is the low consumption of...",
@@ -1775,29 +1756,6 @@
    ],
    "cat": "society",
    "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "राजनीतिक पुनर्जागरण र राष्ट्रिय चेतना",
-   "summary": "आजको विश्व राजनीति एउटा गम्भीर वैचारिक संक्रमणबाट गुज्रिरहेको छ।",
-   "link": "https://nagariknews.nagariknetwork.com/opinion/political-renaissance-and-national-consciousness-br-62-58.html",
-   "source": "Nagarik News",
-   "ts": 1794545688,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1794545854_bichar%20foto.jpg",
-   "lang": "ne",
-   "hl": "राजनीतिक पुनर्जागरण र राष्ट्रिय चेतना",
-   "en": "राजनीतिक पुनर्जागरण र राष्ट्रिय चेतना",
-   "ne": "राजनीतिक पुनर्जागरण र राष्ट्रिय चेतना",
-   "imp": 2,
-   "tags": [
-    "PoliticalAwakening",
-    "NationalConsciousness",
-    "राजनीति"
-   ],
-   "cat": "politics",
-   "val": 1,
    "teaser": false,
    "hits": 1
   },
@@ -5289,7 +5247,7 @@
    "cat": "society",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "साक्षी सिरेटी",
@@ -6538,6 +6496,53 @@
     "Politics"
    ],
    "cat": "politics",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "पोखरामा बोलेरोमा स्कुटर ठोक्कियो, दुईजनाको मृत्यु",
+   "summary": "",
+   "link": "https://baahrakhari.com/detail/507239",
+   "source": "Baahrakhari",
+   "ts": 1794574467,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "पोखरामा बोलेरोमा स्कुटर ठोक्कियो, दुईजनाको मृत्यु",
+   "en": "पोखरामा बोलेरोमा स्कुटर ठोक्कियो, दुईजनाको मृत्यु",
+   "ne": "पोखरामा बोलेरोमा स्कुटर ठोक्कियो, दुईजनाको मृत्यु",
+   "imp": 4,
+   "tags": [
+    "Pokhara",
+    "Accident",
+    "Bolero",
+    "दुर्घटना"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "23 killed in head-on collision between mini-bus, truck in Assam's Kaziranga",
+   "summary": "At least 23 people were killed and 20 others injured after a minibus collided head-on with a container truck near Kaziranga National Park in Assam on Friday. Many of those travelling in the minibus were college students...",
+   "link": "https://theannapurnaexpress.com/story/68730",
+   "source": "Annapurna Express",
+   "ts": 1794560483.4928596,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "23 killed in head-on collision between mini-bus, truck in Assam's Kaziranga",
+   "en": "23 killed in head-on collision between mini-bus, truck in Assam's Kaziranga",
+   "ne": "23 killed in head-on collision between mini-bus, truck in Assam's Kaziranga",
+   "imp": 2,
+   "tags": [
+    "Assam",
+    "Accident",
+    "India"
+   ],
+   "cat": "world",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -9526,7 +9531,7 @@
    "cat": "crime"
   }
  ],
- "updated": 1794574275,
+ "updated": 1794574888,
  "pending_since": 1794574251.3599396,
  "fb_blocks": [
   1790350880.4125228,
