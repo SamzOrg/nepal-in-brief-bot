@@ -1201,7 +1201,8 @@
   "https://nagariknews.nagariknetwork.com/international/10-dead-13-injured-in-guinea-gold-mine-dispute-br-47-12.html": 1794546085.3736587,
   "https://english.onlinekhabar.com/global-disruption-hits-microsoft.html": 1794546085.3736587,
   "https://nagariknews.nagariknetwork.com/social-affairs/sundarpur-plunged-into-mourning-village-shocked-by-death-of-14-people-relatives-waiting-for-bodies-stoves-not-lit-in-every-household-18-69.html": 1794546085.3736587,
-  "https://nagariknews.nagariknetwork.com/arts/ramayana-enters-rs-1-000-crore-club-in-eight-days-breaking-records-of-baahubali-2-and-jawan-89-76.html": 1794546085.3736587
+  "https://nagariknews.nagariknetwork.com/arts/ramayana-enters-rs-1-000-crore-club-in-eight-days-breaking-records-of-baahubali-2-and-jawan-89-76.html": 1794546085.3736587,
+  "http://english.ratopati.com/story/86420/chhath-targeted-business-increases-in-kalimati-see-photos": 1794546649.6726677
  },
  "queue": [
   {
@@ -1270,7 +1271,7 @@
    "cat": "culture",
    "val": 3,
    "teaser": false,
-   "hits": 3
+   "hits": 4
   },
   {
    "title": "Italy Secures 3-1 Comeback Victory Over France in Nations League",
@@ -6598,8 +6599,8 @@
    "cat": "crime"
   }
  ],
- "updated": 1794546102,
- "pending_since": null,
+ "updated": 1794546655,
+ "pending_since": 1794546649.6726677,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
