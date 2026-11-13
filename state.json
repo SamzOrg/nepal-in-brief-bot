@@ -1,8 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbDhUd3A3TWpYaEwwR1d4S3V0WXRTY3hoTUZNa2FoVkpablVxNXhHblUySjJDX2pZMndGZDRHZDM4cmJ0VmtXUXRVNWphZGJOZURZbnNjZUN3Q3JJbjJNUFEwNml5R0RINmxrLVJlbnJsRUJ5TWJUVmU1YktKY0NMWlB5SzNtMnlOUWdVc1dmTGt5UUg1dVZISQ?oc=5": 1794362482.5974543,
-  "https://baahrakhari.com/detail/507070": 1794362482.5974543,
-  "http://english.ratopati.com/story/86261/elderly-woman-dies-after-being-attacked-by-wild-elephant": 1794362482.5974543,
   "https://kathmandupost.com/sudurpaschim-province/2026/11/11/woman-killed-in-elephant-attack-in-kanchanpur-1794362605": 1794363051.974122,
   "https://english.khabarhub.com/2026/11/575196/": 1794363649.940819,
   "http://english.ratopati.com/story/86262/those-without-sisters-wear-bhai-tika-at-balgopaleshwar-temple": 1794363649.940819,
@@ -1140,33 +1137,12 @@
   "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMDFkSlM1RnlZSHNBWG5vbjRzTmw0YWNLcmJiQ210RW1LMW14OHlOdWdLbGc0bnZEVU02bkxkRm92OGpvMmkxYmFpZk9yMmNfbm1BUngyanpSY2JHMGE3NHRWWnlfNWFJMGRndExlZnNmZWV0Wi12WGtySS1vVVEzd05XcEtpMHlESmI0OUpVdVJVTU5uV2RIU0ZadUVhZGV4YmRJdW1QZWRkc0lxMTg4b05xbXNEZ2Fn?oc=5": 1794535282.4628968,
   "https://gorkhapatraonline.com/news/228910": 1794535282.4628968,
   "https://news.google.com/rss/articles/CBMioAFBVV95cUxONFZpZUJ4eHdOQUZyT0xoSW14eUttQ0pTUGpJQ2txTnRSQWl6WU9SMDRtWHdLVU1ITVltR2V6T1RQSlZmX2VxSV9wRWZ1WGtqV0pVUnNRZVBnY0RYSjlHSC1LYm9YSkZnQmJaSkQ3VjBDXy1CY1FYOHA5TGJSOFY3dVR4dW9sOHMzX1BoWHBoUVd4dlIwNkdOY3BGVjg3Mzln?oc=5": 1794535282.4628968,
-  "https://gorkhapatraonline.com/news/228909": 1794535282.4628968
+  "https://gorkhapatraonline.com/news/228909": 1794535282.4628968,
+  "https://baahrakhari.com/detail/507182": 1794535848.4965048,
+  "http://english.ratopati.com/story/86403/one-dead-five-injured-in-road-accident": 1794535848.4965048,
+  "https://kathmandupost.com/national/2026/11/13/the-nepali-border-villages-that-empty-for-six-months-every-year": 1794535848.4965048
  },
  "queue": [
-  {
-   "title": "पर्साको कालिकामाई गाउँपालिकाको कार्यालयमा आगजनी",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/507175",
-   "source": "Baahrakhari",
-   "ts": 1794506904,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "पर्साको कालिकामाई गाउँपालिकाको कार्यालयमा आगजनी",
-   "en": "पर्साको कालिकामाई गाउँपालिकाको कार्यालयमा आगजनी",
-   "ne": "पर्साको कालिकामाई गाउँपालिकाको कार्यालयमा आगजनी",
-   "imp": 3,
-   "tags": [
-    "Parsa",
-    "Kalikamai",
-    "Fire",
-    "आगजनी"
-   ],
-   "cat": "crime",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
   {
    "title": "The Missing Half of Global Climate Policy",
    "summary": "For three decades, international climate diplomacy has been organised around preventing dangerous global warming. The Paris Agreement gave that ambition a common framework, national commitments and a long-term...",
@@ -1301,7 +1277,7 @@
    "cat": "world",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Harry Kane Scores in Record-Breaking 126th England Appearance",
@@ -5197,8 +5173,8 @@
    "cat": "disaster"
   }
  ],
- "updated": 1794535292,
- "pending_since": null,
+ "updated": 1794535851,
+ "pending_since": 1794535848.4965048,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
