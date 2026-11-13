@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZUVEMXRuRzVXbE4wanczbnRwRUJJOHo0QThsak1lRE84S2dhUVRZRG1VV2M1eWxMQkFRaGdjQ2FNVThJTlZyVVVMamF1a3c3Y1NLNFhialdlZEVDQXV5S1FVVmQwaFpzMS0ybFp5SmR4R1oxX3RJdzkwX0QtTDUyMHNhcjU3SWYzOF9xY1Y1Rm9FMFI3SnpFdkZ4NzA5RW1yNWxiZ2gxZXc4UQ?oc=5": 1794377453.4461694,
   "http://english.ratopati.com/story/86271/the-main-basis-for-convicting-naresh-bhatt-from-blood-dna-forensic-evidence-to-internet-searches": 1794378053.2167566,
   "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSW5VbzVyaXJHZTJ0OFZGeUVhdTNycnk4R1hzbHJ1a3dKR1JybWR2SnhmNU9rZ0FLdGFvWjdhNW43T01LRFVYLXJaVnZJX0kweVV2OW5IVUVxbVd0aEE0TEEtWWRpU0czUnpYT0JTN2xXTFNRNEZSUVFYN0tGdmtWSjBjdXZaQU9DMURLaUZocDF5Y1dfZV9Ua0tsNmg4aVpDSEh0bGpuaERjNkZPZ2dZ?oc=5": 1794378670.054659,
   "https://gorkhapatraonline.com/news/228849": 1794379850.3116171,
@@ -1232,7 +1231,10 @@
   "http://english.ratopati.com/story/86431/congress-general-secretary-poudel-warns-that-if-democracy-is-attacked-it-will-not-remain-silent": 1794550248.9888349,
   "https://nagariknews.nagariknetwork.com/international/nvidia-case-jensen-and-howard-summoned-by-us-congress-46-21.html": 1794550248.9888349,
   "https://www.setopati.com/kinmel/banking/402477": 1794550248.9888349,
-  "http://english.ratopati.com/story/86430/five-new-frog-species-discovered-in-the-eastern-himalayas": 1794550248.9888349
+  "http://english.ratopati.com/story/86430/five-new-frog-species-discovered-in-the-eastern-himalayas": 1794550248.9888349,
+  "http://english.ratopati.com/story/86437/madheshs-chhath-ghats-being-decorated-locals-busy-cleaning-and-decorating-photos": 1794550851.3359895,
+  "https://gorkhapatraonline.com/news/228937": 1794550851.3359895,
+  "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNTBfSUlFbEdCbHpJaGFFcHZJeU1uU3ozV3BPaHBIZmVSaUl1ZWRGdDlWMncwQmwtdk1JM05jWFpmUEtpRnlCLUM4WWNDbEc1Y2ZGTFJkakE0a3RiQ1pMcGs0YzJ2WFBIeDdfVjFvVm5JY0QyM1JKQklMZ3NVZzJCRGY4Q3MtWUF4WXJHa1R4YlM0LTVXcENsZ3hZUDQ2aXhzanFPbG93WDVwdjc4a0dlYVd3STVka2luS01Vc2dyQzZvTkpDWi1TOExPSlNwSDR5bXc?oc=5": 1794550851.3359895
  },
  "queue": [
   {
@@ -1279,7 +1281,7 @@
    "cat": "culture",
    "val": 3,
    "teaser": false,
-   "hits": 4
+   "hits": 5
   },
   {
    "title": "Italy Secures 3-1 Comeback Victory Over France in Nations League",
@@ -3590,29 +3592,6 @@
    "hits": 1
   },
   {
-   "title": "सुनको भाउ १२ हजार ६०० रुपैयाँले घट्यो",
-   "summary": "नेपाल सुनचाँदी व्यवासायी महासंघका अनुसार आज सुनको भाउ तोलाको १२ हजार ६०० रुपैयाँ र चाँदी १५५ रुपैयाँले घटेको हो ।",
-   "link": "https://www.ujyaaloonline.com/detail/133439",
-   "source": "Ujyaalo",
-   "ts": 1794547753,
-   "weight": 2,
-   "img": "https://www.ujyaaloonline.com/uploads/posts/gold-1783401949.JPG",
-   "lang": "ne",
-   "hl": "सुनको भाउ १२ हजार ६०० रुपैयाँले घट्यो",
-   "en": "सुनको भाउ १२ हजार ६०० रुपैयाँले घट्यो",
-   "ne": "सुनको भाउ १२ हजार ६०० रुपैयाँले घट्यो",
-   "imp": 3,
-   "tags": [
-    "GoldPrice",
-    "Market",
-    "सुन"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 7
-  },
-  {
    "title": "Protein Deficiency in Diet and Solutions",
    "summary": "Kathmandu. There is often a protein deficiency in the body. The main reason for this is the low consumption of...",
    "link": "http://english.ratopati.com/story/86426/how-much-protein-does-the-body-need-daily",
@@ -4403,7 +4382,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "एनभिडिया प्रकरण : जेन्सेन र हावर्डलाई अमेरिकी संसदले बोलायो",
@@ -4478,17 +4457,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1793945457.6284173,
-   "en": "Bagmati Province allocates Rs400M to build homes for 1,000 homeless families",
-   "ne": "Bagmati Province allocates Rs400M to build homes for 1,000 homeless families",
-   "link": "https://kathmandupost.com/national/2026/11/06/bagmati-province-to-build-homes-for-1-000-homeless-families",
-   "source": "Kathmandu Post",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "society"
-  },
   {
    "ts": 1793947251.2297497,
    "en": "Karnali Elects to Bowl Against Sudurpashchim in NPL Match",
@@ -7469,9 +7437,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "politics"
+  },
+  {
+   "ts": 1794550859.4995067,
+   "en": "सुनको भाउ तोलाको १२ हजार ६०० रुपैयाँले घटेर २ लाख ७१ हजार ७०० पुग्यो",
+   "ne": "सुनको भाउ तोलाको १२ हजार ६०० रुपैयाँले घटेर २ लाख ७१ हजार ७०० पुग्यो",
+   "link": "https://www.ujyaaloonline.com/detail/133439",
+   "source": "Ujyaalo",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "economy"
   }
  ],
- "updated": 1794550261,
+ "updated": 1794550875,
  "pending_since": 1794550248.9888349,
  "fb_blocks": [
   1790350880.4125228,
