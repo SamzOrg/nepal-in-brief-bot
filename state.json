@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMXBNRUhTZkdXWXpscXQ3djNEUzhoT01fYmZ2UUE4STBwMDM2bDdVTndKbmZYSkNfU3ZqSlpscHhqRTRENG9LeXBPNlYyVGFrRS05YVpRc0N0TmsxM3BWZmx1OE8zdXNfbTU5eWhGbGNfT184OWg1UkFFM085WUVnb2pMTkcyZUFlMmJsMzdHSFVxZXdhX3FrLW5JN2VXZ0E3cDR3WGdZdHdjekIyakhhSTJ0dmhSUkJyV3FXT2RDXzNtR05JR253X1JQTmxoU0XSAdQBQVVfeXFMTTlKbXJNUDZDSkZoNjFON0pHZTdUcjZpWmhUY2lGU1VrNTZMMmY5dzdraVJPd05fSmp5aHFjOThWNXhQQWxqNUYyWlZJUzVRamJ3YV9iMDZHc1JISFVHMWk1b3FpQS1UWnpjYlhVSncyRm11bjFkQlA1Z0FHR0FjNVNjZ1hjcEVpeTg2S2h0T0RKcklWM1pKX1R6M1NXbWF1cjdxaHFPSzFPX1otcnBQamJ0ZndTR2lCNmhVcHZwRWZpT1NPMHpTdmVBNFNNcm9nMFFOVFk?oc=5": 1794375649.5407345,
-  "https://kathmandupost.com/national/2026/11/11/nepal-s-push-for-himalayan-climate-agenda-falls-short-at-cop31": 1794375649.5407345,
   "https://news.google.com/rss/articles/CBMiswFBVV95cUxOLWF3ODNGRERfbHBIS2F2bzF2aE40VWdZcW9xcHJmR0x5NHlpRWhxZ0RxdnRNeU9OTGNTb09kZWltWXFQeGZEZldFeFZER3dJOHJ3aFFfSjBhdGRjX0laWlZkdWtBSnRqcWdZUVFRemhpeVBlNDY1VDVMUnhKbG1NcGgxa3dDNUpTeVFLeThyTzNUR1JyenRUYVR1Ul9aWFl3WVo0S0twdTdhdWNoMExfT0l3Zw?oc=5": 1794376884.8633382,
   "http://english.ratopati.com/story/86270/12-questions-to-the-artist-painter-about-kartik-dance": 1794376884.8633382,
   "https://baahrakhari.com/detail/507081": 1794376884.8633382,
@@ -1215,7 +1213,9 @@
   "http://english.ratopati.com/story/86422/the-price-of-gold-has-dropped-sharply-what-is-the-trading-price-today": 1794547870.704344,
   "https://nagariknews.nagariknetwork.com/Bazar/gold-fell-by-more-than-12-000-in-the-market-that-opened-after-tihar-silver-also-became-cheaper-16-83.html": 1794547870.704344,
   "http://english.ratopati.com/story/86421/pillow-talk-intimate-nighttime-conversations-that-add-new-warmth-to-relationships": 1794547870.704344,
-  "https://nagariknews.nagariknetwork.com/opinion/political-renaissance-and-national-consciousness-br-62-58.html": 1794547870.704344
+  "https://nagariknews.nagariknetwork.com/opinion/political-renaissance-and-national-consciousness-br-62-58.html": 1794547870.704344,
+  "https://gorkhapatraonline.com/news/228935": 1794548455.6662283,
+  "https://theannapurnaexpress.com/story/68716": 1794548455.6662283
  },
  "queue": [
   {
@@ -1507,7 +1507,7 @@
    "cat": "sports",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Gandhi-Mandela Foundation Nepal Chapter Launched to Promote Peace",
@@ -3501,7 +3501,7 @@
    "cat": "disaster",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Global disruption hits Microsoft Teams, Outlook and Copilot",
@@ -6940,8 +6940,8 @@
    "cat": "sports"
   }
  ],
- "updated": 1794547877,
- "pending_since": null,
+ "updated": 1794548459,
+ "pending_since": 1794548455.6662283,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
