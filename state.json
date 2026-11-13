@@ -1503,33 +1503,11 @@
   "https://baahrakhari.com/detail/507247": 1794579055.110221,
   "https://english.khabarhub.com/2026/13/575488/": 1794579656.3465195,
   "http://english.ratopati.com/story/86498/no-standards-no-infrastructure-uncontrolled-ev-speed-on-the-roads": 1794579656.3465195,
-  "http://english.ratopati.com/story/86519/pakistani-army-claims-to-have-killed-74-militants-in-10-days": 1794579656.3465195
+  "http://english.ratopati.com/story/86519/pakistani-army-claims-to-have-killed-74-militants-in-10-days": 1794579656.3465195,
+  "https://english.khabarhub.com/2026/13/575491/": 1794580268.0704436,
+  "https://baahrakhari.com/detail/507250": 1794580268.0704436
  },
  "queue": [
-  {
-   "title": "Kathmandu Ghorkaj Wins Toss Against Sudurpashchim Royals in NPL",
-   "summary": "Kathmandu. Kathmandu Ghorkaj has won the toss in the first match of the Nepal Premier League (NPL) to be held...",
-   "link": "http://english.ratopati.com/story/86438/kathmandu-to-bowl-first-against-sudurpaschim",
-   "source": "Ratopati EN",
-   "ts": 1794550968,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/tos_kyXpnYpYX2.webp",
-   "lang": "en",
-   "hl": "Kathmandu Ghorkaj Wins Toss Against Sudurpashchim Royals in NPL",
-   "en": "Kathmandu Ghorkaj Wins Toss Against Sudurpashchim Royals in NPL",
-   "ne": "Kathmandu Ghorkaj Wins Toss Against Sudurpashchim Royals in NPL",
-   "imp": 3,
-   "tags": [
-    "NPL",
-    "SudurpashchimRoyals",
-    "Cricket",
-    "क्रिकेट"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 3
-  },
   {
    "title": "महत्त्वपूर्ण खेलमा काठमाडौं र सुदूरपश्चिमले गरे समान दुई खेलाडी परिवर्तन",
    "summary": "नेपाल प्रिमियर लिग (एनपिएल) अन्तर्गत शुक्रबारको पहिलो खेलमा काठमाडौं गोर्खाजले सुदूरपश्चिम रोयल्यसविरूद्ध टस जितेर पहिले बलिङ गर्ने भएको छ।",
@@ -1575,77 +1553,6 @@
    "cat": "culture",
    "val": 1,
    "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "देउवापक्ष कांग्रेसले ४३ जिल्लामा सक्यो अधिवेशन",
-   "summary": "केन्द्रीय निर्वाचन समिति संयोजक एवं वरिष्ठ अधिवक्ता एगराज पोखरेलका अनुसार हालसम्म ४३ जिल्लामा अधिवेशन सम्पन्न भएको छ । ६ जिल्लामा अधिवेशन प्रक्रिया अघि बढेको छ ।",
-   "link": "https://baahrakhari.com/detail/507193",
-   "source": "Baahrakhari",
-   "ts": 1794550980,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "देउवापक्ष कांग्रेसले ४३ जिल्लामा सक्यो अधिवेशन",
-   "en": "देउवापक्ष कांग्रेसले ४३ जिल्लामा सक्यो अधिवेशन",
-   "ne": "देउवापक्ष कांग्रेसले ४३ जिल्लामा सक्यो अधिवेशन",
-   "imp": 3,
-   "tags": [
-    "NepaliCongress",
-    "Deuba",
-    "Convention",
-    "कांग्रेस"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "नुहाउन पोखरीमा पसेका युवा बेपत्ता",
-   "summary": "अनुप अघिल्लो दिन मात्रै मामाको घरमा गएका थिए।",
-   "link": "https://www.setopati.com/social/402485",
-   "source": "Setopati",
-   "ts": 1794551351,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "नुहाउन पोखरीमा पसेका युवा बेपत्ता",
-   "en": "नुहाउन पोखरीमा पसेका युवा बेपत्ता",
-   "ne": "नुहाउन पोखरीमा पसेका युवा बेपत्ता",
-   "imp": 3,
-   "tags": [
-    "Missing",
-    "Pond",
-    "बेपत्ता"
-   ],
-   "cat": "disaster",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "सरकारलाई आङ्देम्बेको प्रश्न : नागरिकको जीवनसँग जोडिएको विषयमा उदासीनता कहिलेसम्म ?",
-   "summary": "नेपाली कांग्रेस संसदीय दलका नेता भीष्मराज आङ्देम्बेले सडक सुरक्षा, सवारीको प्राविधिक परीक्षण, यात्रुको विवरण अभिलेख र प्रहरीको निगरानी प्रभावकारी बनाउन सरकार किन गम्भीर हुन नसकेको भन्दै प्रश्न गरेका छन्।...",
-   "link": "https://nagariknews.nagariknetwork.com/politics/angdembe-s-question-to-the-government-how-long-will-the-government-remain-indifferent-to-issues-related-to-the-lives-of-citizens-82-50.html",
-   "source": "Nagarik News",
-   "ts": 1794550877,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1784703454_bhismaraj%20aangdebe.jpg",
-   "lang": "ne",
-   "hl": "सरकारलाई आङ्देम्बेको प्रश्न : नागरिकको जीवनसँग जोडिएको विषयमा उदासीनता कहिलेसम्म ?",
-   "en": "सरकारलाई आङ्देम्बेको प्रश्न : नागरिकको जीवनसँग जोडिएको विषयमा उदासीनता कहिलेसम्म ?",
-   "ne": "सरकारलाई आङ्देम्बेको प्रश्न : नागरिकको जीवनसँग जोडिएको विषयमा उदासीनता कहिलेसम्म ?",
-   "imp": 3,
-   "tags": [
-    "Angdembe",
-    "Parliament",
-    "Government",
-    "संसद"
-   ],
-   "cat": "politics",
-   "val": 2,
-   "teaser": true,
    "hits": 1
   },
   {
@@ -6270,6 +6177,52 @@
    "val": 3,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "14-year-old girl dies after bus hits motorcycle",
+   "summary": "BHAKTAPUR: A 14-year-old girl died after a bus collided with a motorcycle in Bhaktapur. The bus (Ba 01-005 Kha 9697), travelling from Kavre towards Bhaktapur, hit a motorcycle (Ba 02-001 Pa 2366) travelling in the same...",
+   "link": "https://english.khabarhub.com/2026/13/575491/",
+   "source": "Khabarhub EN",
+   "ts": 1794580003,
+   "weight": 2,
+   "img": "https://english.khabarhub.com/wp-content/uploads/2025/08/Khabar-Hub-News_Bike-Bus-Accident_1200px-630X-px-Final_2021.05.13-Nep-400x220.jpg",
+   "lang": "en",
+   "hl": "14-year-old girl dies after bus hits motorcycle",
+   "en": "14-year-old girl dies after bus hits motorcycle",
+   "ne": "14-year-old girl dies after bus hits motorcycle",
+   "imp": 4,
+   "tags": [
+    "Accident",
+    "RoadSafety",
+    "दुर्घटना"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "सडकमा मृत्युको शृंखला : दुर्घटना बढ्दो, रोकथामका सरकारी योजना कागजमै",
+   "summary": "",
+   "link": "https://baahrakhari.com/detail/507250",
+   "source": "Baahrakhari",
+   "ts": 1794579676,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "सडकमा मृत्युको शृंखला : दुर्घटना बढ्दो, रोकथामका सरकारी योजना कागजमै",
+   "en": "सडकमा मृत्युको शृंखला : दुर्घटना बढ्दो, रोकथामका सरकारी योजना कागजमै",
+   "ne": "सडकमा मृत्युको शृंखला : दुर्घटना बढ्दो, रोकथामका सरकारी योजना कागजमै",
+   "imp": 3,
+   "tags": [
+    "RoadAccident",
+    "Government",
+    "सडक"
+   ],
+   "cat": "society",
+   "val": 1,
+   "teaser": true,
+   "hits": 1
   }
  ],
  "posted": [
@@ -9255,7 +9208,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1794579686,
+ "updated": 1794580273,
  "pending_since": 1794579055.110221,
  "fb_blocks": [
   1790350880.4125228,
