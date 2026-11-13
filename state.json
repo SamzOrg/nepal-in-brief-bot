@@ -1571,50 +1571,6 @@
  },
  "queue": [
   {
-   "title": "आफ्नो फोन ट्याप भइरहेको राहुल गान्धीको आरोप",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/507237",
-   "source": "Baahrakhari",
-   "ts": 1794573188,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "आफ्नो फोन ट्याप भइरहेको राहुल गान्धीको आरोप",
-   "en": "आफ्नो फोन ट्याप भइरहेको राहुल गान्धीको आरोप",
-   "ne": "आफ्नो फोन ट्याप भइरहेको राहुल गान्धीको आरोप",
-   "imp": 1,
-   "tags": [
-    "RahulGandhi",
-    "India"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Civil Society Representatives Protest for Climate Justice and Debt Relief at COP-31",
-   "summary": "Antalya. Representatives of civil society from around the world have protested at the United Nations Climate Change Conference (COP-31) underway...",
-   "link": "http://english.ratopati.com/story/86510/civil-society-protests-at-cop31-demanding-climate-justice-and-debt-relief",
-   "source": "Ratopati EN",
-   "ts": 1794573168,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/1794570615-tgjzz_205HC149RS.webp",
-   "lang": "en",
-   "hl": "Civil Society Representatives Protest for Climate Justice and Debt Relief at COP-31",
-   "en": "Civil Society Representatives Protest for Climate Justice and Debt Relief at COP-31",
-   "ne": "Civil Society Representatives Protest for Climate Justice and Debt Relief at COP-31",
-   "imp": 3,
-   "tags": [
-    "ClimateJustice",
-    "COP31"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "महिलाको शव फेला",
    "summary": "मोरङ समाचारदातामोरङ (केराबारी) कात्तिक २७ गते । मोरङको केराबारी गाउँपालिका-२ फाइवामा अर्धनग्न अवस्थामा महिलाको शव फेला परेको छ। बिहीबार साँझ ३१ वर्षीया पार्वती लिम्बूको शव घरदेखि क...",
    "link": "https://gorkhapatraonline.com/news/228976",
@@ -6254,8 +6210,8 @@
    "cat": "crime"
   }
  ],
- "updated": 1794601874,
- "pending_since": null,
+ "updated": 1794602454,
+ "pending_since": 1794602450.4190187,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
