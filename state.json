@@ -1566,29 +1566,6 @@
  },
  "queue": [
   {
-   "title": "बसको ठक्करबाट बालिकाको मृत्यु",
-   "summary": "भक्तपुर, कात्तिक २७ गते । बसको ठक्करबाट एक बालिकाको मृत्यु भएको छ । काभ्रेबाट भक्तपुरतर्फ आउँदै गरेको बा ०१-००५ख ९६९७ नम्बरको बसले सोही दिशाबाट आउँदै गरेको बागमती प्रदेशको ०२-००१-२...",
-   "link": "https://gorkhapatraonline.com/news/228979",
-   "source": "Gorkhapatra",
-   "ts": 1794577792,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/391342/conversions/death-child2-original.jpg",
-   "lang": "ne",
-   "hl": "बसको ठक्करबाट बालिकाको मृत्यु",
-   "en": "बसको ठक्करबाट बालिकाको मृत्यु",
-   "ne": "बसको ठक्करबाट बालिकाको मृत्यु",
-   "imp": 3,
-   "tags": [
-    "BusAccident",
-    "RoadSafety",
-    "दुर्घटना"
-   ],
-   "cat": "crime",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
    "title": "प्रकृति र सामाजिक सद्भावको अनुपम उत्सव छठ पर्व",
    "summary": "धनुषा, कात्तिक २७ गते । 'केरवा जे फरल घउरस,ओपर सुगा मडराय,मारबौ रे सुगवा धनुषस,सुगा गिरे मुरझाय' । छठ पर्वको यो लोकगीत यतिबेला मिथिलाञ्चलका गाउँसहरमा गुञ्जिरहेका छन् । छठीमातालाई च...",
    "link": "https://gorkhapatraonline.com/news/228977",
@@ -1652,52 +1629,6 @@
     "Politics"
    ],
    "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "चीनसँग सीमा जोडिएका दुई जिल्लाका सुरक्षा अधिकारीबिच भयो यस्तो सहमति",
-   "summary": "चीनसँग सीमा जोडिएका ताप्लेजुङ र संखुवासभाका सुरक्षा अधिकारीबिचको जिल्ला सुरक्षा समन्वय बैठक शुक्रबार सम्पन्न भएको छ।...",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/security-officials-from-two-districts-bordering-china-reached-an-agreement-14-75.html",
-   "source": "Nagarik News",
-   "ts": 1794577839,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1794577824_Taplejung%20new.jpg",
-   "lang": "ne",
-   "hl": "चीनसँग सीमा जोडिएका दुई जिल्लाका सुरक्षा अधिकारीबिच भयो यस्तो सहमति",
-   "en": "चीनसँग सीमा जोडिएका दुई जिल्लाका सुरक्षा अधिकारीबिच भयो यस्तो सहमति",
-   "ne": "चीनसँग सीमा जोडिएका दुई जिल्लाका सुरक्षा अधिकारीबिच भयो यस्तो सहमति",
-   "imp": 2,
-   "tags": [
-    "China",
-    "BorderSecurity",
-    "NepalChina"
-   ],
-   "cat": "politics",
-   "val": 2,
-   "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "German Drone Maker Quantum Systems Faces Cyberattack, Suspected Russian Involvement",
-   "summary": "Kathmandu. German defense equipment manufacturer Quantum Systems has stated that it faced a cyberattack last month. Following the attack, the...",
-   "link": "http://english.ratopati.com/story/86518/cyber-attack-on-german-company-supplying-drones-to-ukraine",
-   "source": "Ratopati EN",
-   "ts": 1794577640,
-   "weight": 2,
-   "img": "https://rpcdn.ratopati.com/media/albums/cyber_attack_CD73ZpuyHL.jpg",
-   "lang": "en",
-   "hl": "German Drone Maker Quantum Systems Faces Cyberattack, Suspected Russian Involvement",
-   "en": "German Drone Maker Quantum Systems Faces Cyberattack, Suspected Russian Involvement",
-   "ne": "German Drone Maker Quantum Systems Faces Cyberattack, Suspected Russian Involvement",
-   "imp": 1,
-   "tags": [
-    "QuantumSystems",
-    "Cyberattack",
-    "Germany"
-   ],
-   "cat": "tech",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -5639,8 +5570,8 @@
    "cat": "crime"
   }
  ],
- "updated": 1794606057,
- "pending_since": 1794606049.8483016,
+ "updated": 1794606654,
+ "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
