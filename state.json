@@ -1567,28 +1567,6 @@
  },
  "queue": [
   {
-   "title": "Pakistan Army Claims 74 Militants Killed in Border Operations",
-   "summary": "Kathmandu. Pakistan's army has stated that 74 militants were killed in security operations conducted in the northwestern and southwestern regions...",
-   "link": "http://english.ratopati.com/story/86519/pakistani-army-claims-to-have-killed-74-militants-in-10-days",
-   "source": "Ratopati EN",
-   "ts": 1794579160,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/pakistan-flag_VxB0GaBXso.jpg",
-   "lang": "en",
-   "hl": "Pakistan Army Claims 74 Militants Killed in Border Operations",
-   "en": "Pakistan Army Claims 74 Militants Killed in Border Operations",
-   "ne": "Pakistan Army Claims 74 Militants Killed in Border Operations",
-   "imp": 1,
-   "tags": [
-    "PakistanArmy",
-    "BorderOperation"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "सडकमा मृत्युको शृंखला : दुर्घटना बढ्दो, रोकथामका सरकारी योजना कागजमै",
    "summary": "",
    "link": "https://baahrakhari.com/detail/507250",
@@ -1610,29 +1588,6 @@
    "val": 1,
    "teaser": true,
    "hits": 1
-  },
-  {
-   "title": "Five Nepali ministers attend COP31 in Turkey, raising questions over size of delegation",
-   "summary": "Kathmandu, November 13 Five Nepali ministers have travelled to Antalya, Turkey, to attend the 31st United Nations Climate Change Conference (COP31), prompting questions over whether all of them needed to be present at...",
-   "link": "https://english.onlinekhabar.com/nepali-ministers-at-cop31.html",
-   "source": "Onlinekhabar EN",
-   "ts": 1794581300,
-   "weight": 3,
-   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/11/Nepali-ministers-at-COP31.png",
-   "lang": "en",
-   "hl": "Five Nepali ministers attend COP31 in Turkey, raising questions over size of delegation",
-   "en": "Five Nepali ministers attend COP31 in Turkey, raising questions over size of delegation",
-   "ne": "Five Nepali ministers attend COP31 in Turkey, raising questions over size of delegation",
-   "imp": 3,
-   "tags": [
-    "COP31",
-    "ForeignMinisters",
-    "Turkey"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 4
   },
   {
    "title": "चितवनको जितले २ टोली बाहिरिए, प्लेअफको बाँकी २ स्थानका लागि ३ टोलीको भिडन्त",
@@ -1704,75 +1659,6 @@
    "hits": 1
   },
   {
-   "title": "Arjun Kumar Karki urges developed countries to provide climate finance as grants, not loans",
-   "summary": "Kathmandu, November 12 Dr Arjun Kumar Karki has called on developed countries to fulfil their climate finance obligations by providing adequate, predictable and accessible public funding in the form of grants rather...",
-   "link": "https://english.onlinekhabar.com/arjun-kumar-karki-urges-developed-countries-to-provide-climate-finance-as-grants-not-loans.html",
-   "source": "Onlinekhabar EN",
-   "ts": 1794579132,
-   "weight": 3,
-   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/11/Arjun-Kumar-Karki-1024x576.jpeg",
-   "lang": "en",
-   "hl": "Arjun Kumar Karki urges developed countries to provide climate finance as grants, not loans",
-   "en": "Arjun Kumar Karki urges developed countries to provide climate finance as grants, not loans",
-   "ne": "Arjun Kumar Karki urges developed countries to provide climate finance as grants, not loans",
-   "imp": 3,
-   "tags": [
-    "ArjunKumarKarki",
-    "ClimateFinance",
-    "Grants"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "अमेरिकी सिनेटले एनभिडियाका हुआङ र वाणिज्यमन्त्री लुट्निकलाई बयानमा बोलायो",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/507249",
-   "source": "Baahrakhari",
-   "ts": 1794579283,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "अमेरिकी सिनेटले एनभिडियाका हुआङ र वाणिज्यमन्त्री लुट्निकलाई बयानमा बोलायो",
-   "en": "अमेरिकी सिनेटले एनभिडियाका हुआङ र वाणिज्यमन्त्री लुट्निकलाई बयानमा बोलायो",
-   "ne": "अमेरिकी सिनेटले एनभिडियाका हुआङ र वाणिज्यमन्त्री लुट्निकलाई बयानमा बोलायो",
-   "imp": 2,
-   "tags": [
-    "USSenate",
-    "Nvidia",
-    "Lutnick"
-   ],
-   "cat": "politics",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "नेपाली समाजको बदलिँदो राजनीतिक मनोविज्ञान",
-   "summary": "नेपाली जनताले कुनै पनि दल वा नेतालाई स्थायीरूपमा आफ्नो मालिक बनाएका छैनन् । उनीहरूले राजनीतिक दलहरूलाई शासन गर्ने जिम्मेवारी दिएका हुन् प्रश्नभन्दा माथि रहने अधिकार होइन । निर्वाचनमा मत दिनु भनेको आफ्नो विवेक सुम्पिनु...",
-   "link": "https://baahrakhari.com/detail/507248",
-   "source": "Baahrakhari",
-   "ts": 1794579083,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "नेपाली समाजको बदलिँदो राजनीतिक मनोविज्ञान",
-   "en": "नेपाली समाजको बदलिँदो राजनीतिक मनोविज्ञान",
-   "ne": "नेपाली समाजको बदलिँदो राजनीतिक मनोविज्ञान",
-   "imp": 2,
-   "tags": [
-    "Society",
-    "PoliticalPsychology",
-    "Nepal"
-   ],
-   "cat": "society",
-   "val": 1,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Russia's leaked death register turns up fewer war dead from Nepal, India, and Sri Lanka than their governments report",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNUzZONXExaGZ4VThFV3ZPb0FFUVF3TTJKZHUtR2tfTDBTbUZ1bUc4ZVl3bUVvWTFBTFFUZU1TQjY1dFBXN0lRUzd4cUI0ZlZleFdKalJiSFpJWGRfbGlRWGtLNEtMWThyY3I4aEhCQjhLczhqcm84Skd0Snp1bTlaSk55eHZkWWhRaGNubGJ4VWs3U3RhaFBpc2lhWFFIYVdjS1dubGhZVGhmYXVuT1B0Zm1YdVpQOG0tSEZwaUVMWGt3UEFaOURvZlhWSDlXY3lVb09QMktwOW5iRlo2VlhIa2hOQ095M1g4MHc?oc=5",
@@ -1839,29 +1725,6 @@
    "val": 1,
    "teaser": true,
    "hits": 1
-  },
-  {
-   "title": "परराष्ट्रमन्त्री खनाल र बंगलादेशका प्रधानमन्त्री रहमान बीच भेटवार्ता",
-   "summary": "परराष्ट्रमन्त्री शिशिर खनालले तुर्कीएको अन्ताल्यामा जारी जलवायु परिवर्तनसम्बन्धी संयुक्त राष्ट्रसंघीय सम्मेलन (कोप-३१) का अवसरमा बंगलादेशका प्रधानमन्त्री तारिक रहमानसँग साइडलाइनमा भेटवार्ता गरेका छन् ।...",
-   "link": "https://nagariknews.nagariknetwork.com/politics/meeting-between-foreign-minister-khanal-and-bangladesh-prime-minister-rahman-69-79.html",
-   "source": "Nagarik News",
-   "ts": 1794583286,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1794583272_photo_037ffd65.jpg",
-   "lang": "ne",
-   "hl": "परराष्ट्रमन्त्री खनाल र बंगलादेशका प्रधानमन्त्री रहमान बीच भेटवार्ता",
-   "en": "परराष्ट्रमन्त्री खनाल र बंगलादेशका प्रधानमन्त्री रहमान बीच भेटवार्ता",
-   "ne": "परराष्ट्रमन्त्री खनाल र बंगलादेशका प्रधानमन्त्री रहमान बीच भेटवार्ता",
-   "imp": 3,
-   "tags": [
-    "ForeignMinister",
-    "Bangladesh",
-    "Diplomacy"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 3
   },
   {
    "title": "Xi to attend APEC Economic Leaders' Meeting, related events in Shenzhen",
@@ -2045,29 +1908,6 @@
    "cat": "society",
    "val": 3,
    "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "'२१औँ शताब्दीमा पनि जातीय विभेद कायम रहनु दुःखद'",
-   "summary": "जेनजी अभियन्ता मिराज ढुंगानाले जातीय विभेद तथा छुवाछूतविरुद्ध लामो समयदेखि प्रदर्शन भइरहँदा पनि सरकारले वार्ता र समस्या समाधानका लागि कुनै प्रभावकारी पहल नगरेको भन्दै आलोचना गरेका छन्।...",
-   "link": "https://nagariknews.nagariknetwork.com/politics/it-is-sad-that-caste-discrimination-persists-even-in-the-21st-century-53-44.html",
-   "source": "Nagarik News",
-   "ts": 1794579121,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1777461797_Miraj.jpg",
-   "lang": "ne",
-   "hl": "'२१औँ शताब्दीमा पनि जातीय विभेद कायम रहनु दुःखद'",
-   "en": "'२१औँ शताब्दीमा पनि जातीय विभेद कायम रहनु दुःखद'",
-   "ne": "'२१औँ शताब्दीमा पनि जातीय विभेद कायम रहनु दुःखद'",
-   "imp": 3,
-   "tags": [
-    "CasteDiscrimination",
-    "SocialJustice",
-    "जातीयविभेद"
-   ],
-   "cat": "society",
-   "val": 1,
-   "teaser": true,
    "hits": 1
   },
   {
@@ -2437,42 +2277,9 @@
    "val": 3,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "11 seek to run in Kyrgyzstan's presidential election",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNmtteUJLM3p5eno0SDl0QzFJb1k4LU9tNHhTSlBncVVYUlNFLTB5TlJFNWtoUVFNS01yMXRUbC10bkh5dE5ybHVmdTA5YnJLazhWX2Rfa1BsVWdMaVhSUXRRVXJfUmZ4NlRQY29td3BQcVlvQWlYNW9TMXVBZEhEZlN3OFpKREt6QWxVZFhYVGhOTjBXZFNpRkNFVk00RG5HOFBuTGtmMlRKZw?oc=5",
-   "source": "myRepublica",
-   "ts": 1794579300,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "11 seek to run in Kyrgyzstan's presidential election",
-   "en": "11 seek to run in Kyrgyzstan's presidential election",
-   "ne": "11 seek to run in Kyrgyzstan's presidential election",
-   "imp": 1,
-   "tags": [
-    "Kyrgyzstan",
-    "Election"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1794003650.1075587,
-   "en": "Former IGP Dan Bahadur Karki challenges Supreme Court on removal and transfer",
-   "ne": "Former IGP Dan Bahadur Karki challenges Supreme Court on removal and transfer",
-   "link": "https://myrepublica.nagariknetwork.com/news/karki-challenges-removal-questions-two-igps-in-one-force-88-10.html",
-   "source": "myRepublica",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "politics"
-  },
   {
    "ts": 1794005467.906551,
    "en": "Nepal journalists challenge media laws after police raids",
@@ -5431,9 +5238,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "crime"
+  },
+  {
+   "ts": 1794608458.348136,
+   "en": "परराष्ट्रमन्त्री खनाल र बंगलादेशका प्रधानमन्त्री रहमानबीच भेटवार्ता",
+   "ne": "परराष्ट्रमन्त्री खनाल र बंगलादेशका प्रधानमन्त्री रहमानबीच भेटवार्ता",
+   "link": "https://nagariknews.nagariknetwork.com/politics/meeting-between-foreign-minister-khanal-and-bangladesh-prime-minister-rahman-69-79.html",
+   "source": "Nagarik News",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "world"
   }
  ],
- "updated": 1794607869,
+ "updated": 1794608470,
  "pending_since": 1794607736.549248,
  "fb_blocks": [
   1790350880.4125228,
