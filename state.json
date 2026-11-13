@@ -1202,31 +1202,12 @@
   "https://english.onlinekhabar.com/global-disruption-hits-microsoft.html": 1794546085.3736587,
   "https://nagariknews.nagariknetwork.com/social-affairs/sundarpur-plunged-into-mourning-village-shocked-by-death-of-14-people-relatives-waiting-for-bodies-stoves-not-lit-in-every-household-18-69.html": 1794546085.3736587,
   "https://nagariknews.nagariknetwork.com/arts/ramayana-enters-rs-1-000-crore-club-in-eight-days-breaking-records-of-baahubali-2-and-jawan-89-76.html": 1794546085.3736587,
-  "http://english.ratopati.com/story/86420/chhath-targeted-business-increases-in-kalimati-see-photos": 1794546649.6726677
+  "http://english.ratopati.com/story/86420/chhath-targeted-business-increases-in-kalimati-see-photos": 1794546649.6726677,
+  "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5VU3czSVNPRGpMVHJYdnE2RzNtS0p4U3BYYjd6RGd4aENTemlrTXpESU1YWmJUVHJmMEJBOVZXcDRLMVJQV3h6NXBod1Ixa0hXd2pWTmtWMkI?oc=5": 1794547248.966808,
+  "https://english.khabarhub.com/2026/13/575439/": 1794547248.966808,
+  "https://gorkhapatraonline.com/news/228931": 1794547248.966808
  },
  "queue": [
-  {
-   "title": "MRCS aids US$50,000 for Nepal flood victims",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBYNHc3TV8weTNlVzNoSkMxMFpfcUFhQ1VFQzBvSEFiNFg2Y1RsaTF1czl2TWE4cl9mSEpNVUkwMlFHMGtnSjlnOFRBY2lwNkF2TW9ReVl1aDB0MEVGLVdkR3psM0t3b0dqTmg2RE5uUDVZdmxI?oc=5",
-   "source": "Global New Light Of Myanmar",
-   "ts": 1794518143,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "MRCS aids US$50,000 for Nepal flood victims",
-   "en": "MRCS aids US$50,000 for Nepal flood victims",
-   "ne": "MRCS aids US$50,000 for Nepal flood victims",
-   "imp": 3,
-   "tags": [
-    "Flood",
-    "Nepal"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
   {
    "title": "Spain Defeats Czech Republic 2-0 in Nations League",
    "summary": "Kathmandu. In the fifth match of the group stage under the UEFA Nations League, Spain registered an easy 2-0 goal...",
@@ -3444,29 +3425,6 @@
    "hits": 1
   },
   {
-   "title": "Sri Lanka's Thanuka Dabare signs with Sudurpaschim Royals for NPL",
-   "summary": "Kathmandu, November 13 Sri Lankan batter Thanuka Dabare has signed with Sudurpaschim Royals for the third edition of the Nepal Premier League (NPL). Dabare, who bats in the top order, has shown his ability in domestic...",
-   "link": "https://english.onlinekhabar.com/thanuka-dabare-sudurpaschim-royals.html",
-   "source": "Onlinekhabar EN",
-   "ts": 1794544759,
-   "weight": 3,
-   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/11/Untitled-design-21-1024x576.jpg",
-   "lang": "en",
-   "hl": "Sri Lanka's Thanuka Dabare signs with Sudurpaschim Royals for NPL",
-   "en": "Sri Lanka's Thanuka Dabare signs with Sudurpaschim Royals for NPL",
-   "ne": "Sri Lanka's Thanuka Dabare signs with Sudurpaschim Royals for NPL",
-   "imp": 3,
-   "tags": [
-    "ThanukaDabare",
-    "SudurpaschimRoyals",
-    "NPL"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
    "title": "आवासीय र स्मार्ट विद्यालय बनाउन दिपशिखामा महायज्ञ सुरु",
    "summary": "म्याग्दी समाचारदाताम्याग्दी, कात्तिक २७ गते । म्याग्दीको मंगला गाउँपालिका-१ कुहुँस्थित दिपशिखा माध्यमिक विद्यालयलाई आवासीय तथा स्मार्ट विद्यालयका रुपमा विकास गर्ने उद्देश्यले शैक्ष...",
    "link": "https://gorkhapatraonline.com/news/228929",
@@ -3606,17 +3564,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1793941851.8692245,
-   "en": "Nepal PM Balendra Shah To Arrive In India On November 22 For First Bilateral Visit",
-   "ne": "Nepal PM Balendra Shah To Arrive In India On November 22 For First Bilateral Visit",
-   "link": "https://www.news18.com/india/nepal-pm-balendra-shah-to-visit-india-officials-discuss-india-nepal-ties-ws-l-10414849.html",
-   "source": "News18",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "politics"
-  },
   {
    "ts": 1793943673.0154235,
    "en": "Kathmandu Valley Air Pollution Rises as Dry Season Begins",
@@ -6597,9 +6544,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "crime"
+  },
+  {
+   "ts": 1794547257.076354,
+   "en": "Sri Lankan batter Thanuka Dabare joins Sudurpaschim Royals for NPL",
+   "ne": "Sri Lankan batter Thanuka Dabare joins Sudurpaschim Royals for NPL",
+   "link": "https://english.onlinekhabar.com/thanuka-dabare-sudurpaschim-royals.html",
+   "source": "Onlinekhabar EN",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "sports"
   }
  ],
- "updated": 1794546655,
+ "updated": 1794547268,
  "pending_since": 1794546649.6726677,
  "fb_blocks": [
   1790350880.4125228,
