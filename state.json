@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMinwFBVV95cUxOODMyelJsalRWN2x0b0NjRmRBSzVwb3p5ejlpVXNzVlVCSkxMd1NJdllESU1HM1RQQzV6ZDVfRnVKNXlmRmlDMnRCdkUtcmlPY0IxRGpHTlFzZVRaQ1F0UWdtODN2T0lKbUZxOHJQOXBEeGNPM0NISTBUcGIzWWpHNGUwUGU0TDhzSlRCakx6QXJWdEI3RHV0QU9oNnAwdDQ?oc=5": 1794472851.548063,
   "https://www.setopati.com/social/402435": 1794473452.6821132,
   "https://theannapurnaexpress.com/story/68700": 1794473452.6821132,
   "https://kathmandupost.com/columns/2026/11/12/nepal-s-calendar-gives-chhath-one-day-the-festival-takes-five": 1794473452.6821132,
@@ -1591,7 +1590,11 @@
   "http://english.ratopati.com/story/86584/the-responsibility-to-save-united-now-falls-on-pochettinos-shoulders": 1794645651.1873415,
   "http://english.ratopati.com/story/86603/four-chinese-nationals-arrested-for-drunken-brawl-in-thamel": 1794645651.1873415,
   "http://english.ratopati.com/story/86602/two-arrested-with-pistol-in-makawanpur": 1794645651.1873415,
-  "http://english.ratopati.com/story/86601/novelist-nihari-wins-chitwans-highest-grossing-short-story-award": 1794645651.1873415
+  "http://english.ratopati.com/story/86601/novelist-nihari-wins-chitwans-highest-grossing-short-story-award": 1794645651.1873415,
+  "https://baahrakhari.com/detail/507291": 1794646248.5955932,
+  "http://english.ratopati.com/story/86609/madhesh-chief-minister-krishna-prasad-yadav-resigns": 1794646248.5955932,
+  "https://news.google.com/rss/articles/CBMiowFBVV95cUxOV3ZmaDk4VUgybHVOVjVFY2R0RzlyZjlfbjk5N0o3YVlvM1JhcE43a0xPWHMyQzByeVlBaEI5REdheHM2dW5TbmJaeldoSFFsYi1scllwUjFCWVh0NnZ3SENqVl9jYUtLOXVUX3A5SjBtcmNiMUV0SThsUUQ5WWowbTZBUFNpWjBBSEVzSTZKYW9BVjU2MmV6WjVhd0FydVVYT1Jn?oc=5": 1794646248.5955932,
+  "https://kathmandupost.com/politics/2026/11/14/madhesh-chief-minister-quits-ahead-of-confidence-vote": 1794646248.5955932
  },
  "queue": [
   {
@@ -1685,28 +1688,6 @@
    "val": 1,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "सद्भाव र समृद्धिको संगम छठ",
-   "summary": "सन्तान प्राप्ति, सन्तानको सुख-समृद्धि तथा पतिको दीर्घायुको कामना गर्दै सूर्य भगवानकाे उपासना गरी मनाइने छठ पर्व शुक्रबारदेखि सुरु भएको छ।...",
-   "link": "https://nagariknews.nagariknetwork.com/Dharma-Saskriti/chhath-the-confluence-of-harmony-and-prosperity-br-12-39.html",
-   "source": "Nagarik News",
-   "ts": 1794617208,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1794617504_chhat%20yadav.jpg",
-   "lang": "ne",
-   "hl": "सद्भाव र समृद्धिको संगम छठ",
-   "en": "सद्भाव र समृद्धिको संगम छठ",
-   "ne": "सद्भाव र समृद्धिको संगम छठ",
-   "imp": 3,
-   "tags": [
-    "Chhath",
-    "Festival"
-   ],
-   "cat": "culture",
-   "val": 2,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "Westerly winds bring partial cloud cover today",
@@ -2527,29 +2508,6 @@
    "val": 2,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "Nepal demands grants, not loans, to finance climate action at COP31",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRWtBR015cng2aHlLYnF6U0Z6bDBKZmxCeWpwakZoQ19HNzIzcV8zWVRNeXJfOEdJTElHQ2s3LXg3bTNlSlpwR0JSMDB4NTNZZXJSUFBkNkE0LVJ2VTdUT1ZNNFQxV3ktWWYtbW1WanZaQ1lCOEN0SXNfQ3Roc1VNaDB6amxVLTFSUElhdHN1UEtvd1pmcTBqdndrWXF3a2YzQktHMHp5aXJ4eVhibGNKVm9rUjJfOS1jQWJVSFhCRlRCNk0?oc=5",
-   "source": "myRepublica",
-   "ts": 1794619963,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Nepal demands grants, not loans, to finance climate action at COP31",
-   "en": "Nepal demands grants, not loans, to finance climate action at COP31",
-   "ne": "Nepal demands grants, not loans, to finance climate action at COP31",
-   "imp": 3,
-   "tags": [
-    "COP31",
-    "ClimateChange",
-    "Nepal"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 3
   },
   {
    "title": "Trump, Putin, Xi to Hold Historic Trilateral Meeting in China",
@@ -4239,7 +4197,7 @@
    "cat": "disaster",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Five Former NRNA Presidents Meet Speaker Aryal, Invite to Middle East Regional Conference",
@@ -4503,29 +4461,6 @@
    "val": 3,
    "teaser": false,
    "hits": 2
-  },
-  {
-   "title": "RSP lawmakers meet party chair Lamichhane ahead of China visit",
-   "summary": "KATHMANDU: Rastriya Swatantra Party (RSP) lawmakers scheduled to visit the People's Republic of China have held discussions with party Chair Rabi Lamichhane ahead of their departure. The meeting, held at the party...",
-   "link": "https://english.khabarhub.com/2026/14/575553/",
-   "source": "Khabarhub EN",
-   "ts": 1794640315,
-   "weight": 2,
-   "img": "https://english.khabarhub.com/wp-content/uploads/2026/03/Rabi-Lamichhane-e1778407271850-400x220.jpg",
-   "lang": "en",
-   "hl": "RSP lawmakers meet party chair Lamichhane ahead of China visit",
-   "en": "RSP lawmakers meet party chair Lamichhane ahead of China visit",
-   "ne": "RSP lawmakers meet party chair Lamichhane ahead of China visit",
-   "imp": 3,
-   "tags": [
-    "RSP",
-    "RabiLamichhane",
-    "China"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 5
   },
   {
    "title": "अमेरिकामा घण्टौँपछि हवाई सेवा पुनः सञ्चालन, पुरानो उपकरणका कारण अवरोध",
@@ -5303,29 +5238,6 @@
     "दुर्घटना"
    ],
    "cat": "crime",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Over 21,000 killed in road accidents in Nepal in nine years, yet authorities fail to act on investigation reports",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPNlJPWmhtTksxTzhLNjFnbExRVHUxRzJ0WnVlcndXMDdnQU1temtKTnFVd2t0cHY5dXpwaTcyS25LQ2F0YmtyNl9naUZrWG95WWx2QVRrdzNFbklQSXVNYjB2cU1kS1V2N1dXZGVybnlEdm5XRlJIdXpIRlZSUENSUDhaUVFCdFZKazJ0UV8zaHdnMEZjRWVTeUMxVHBGdEk4VVhHeElPM2p6b044YUo5MlNHdThlRi03MWd3aFBPZlVaWWstUWRpbU5ibVdQQUJyTHlzaU85Z2dCeGw0SVBpMVZreWc4dmtienFySWp2Z2w3a2VvaHFfOXhhbzdMZ21KMl9SZg?oc=5",
-   "source": "The Star",
-   "ts": 1794643980,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Over 21,000 killed in road accidents in Nepal in nine years, yet authorities fail to act on investigation reports",
-   "en": "Over 21,000 killed in road accidents in Nepal in nine years, yet authorities fail to act on investigation reports",
-   "ne": "Over 21,000 killed in road accidents in Nepal in nine years, yet authorities fail to act on investigation reports",
-   "imp": 4,
-   "tags": [
-    "RoadAccidents",
-    "Nepal",
-    "सडकदुर्घटना"
-   ],
-   "cat": "society",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -8622,10 +8534,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "health"
+  },
+  {
+   "ts": 1794646256.7400463,
+   "en": "Nepal Demands Climate Grants Over Loans at COP31 in Antalya",
+   "ne": "Nepal Demands Climate Grants Over Loans at COP31 in Antalya",
+   "link": "https://myrepublica.nagariknetwork.com/news/nepal-urges-more-grant-based-climate-finance-as-loans-dominate-funding-89-88.html",
+   "source": "myRepublica",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "world"
   }
  ],
- "updated": 1794645658,
- "pending_since": null,
+ "updated": 1794646267,
+ "pending_since": 1794646248.5955932,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
