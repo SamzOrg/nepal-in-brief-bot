@@ -1581,7 +1581,8 @@
   "https://nagariknews.nagariknetwork.com/arts/raibar-of-the-district-headquarters-chainpur-br-18-22.html": 1794633649.7251256,
   "http://english.ratopati.com/story/86558/the-rsp-team-preparing-for-its-china-visit-met-with-president-lamichhane": 1794633649.7251256,
   "https://risingnepaldaily.com/news/88599": 1794634269.2280645,
-  "https://gorkhapatraonline.com/news/229029": 1794634269.2280645
+  "https://gorkhapatraonline.com/news/229029": 1794634269.2280645,
+  "http://english.ratopati.com/story/86568/job-opportunities-in-the-army-applications-are-invited-for-the-positions-of-lieutenant-colonel-and-officer": 1794635449.4736774
  },
  "queue": [
   {
@@ -2996,29 +2997,6 @@
    "val": 3,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "RSP Chair Rabi Lamichhane to celebrate Chhath in Janakpur",
-   "summary": "KATHMANDU: Rastriya Swatantra Party (RSP) Chair Rabi Lamichhane is scheduled to travel to Janakpurdham today (Saturday) with his wife, Nikita Poudel, to celebrate the Chhath festival. According to the party, the couple...",
-   "link": "https://english.khabarhub.com/2026/14/575529/",
-   "source": "Khabarhub EN",
-   "ts": 1794627130,
-   "weight": 2,
-   "img": "https://english.khabarhub.com/wp-content/uploads/2026/02/rabi-lamichhane-3-400x220.jpg",
-   "lang": "en",
-   "hl": "RSP Chair Rabi Lamichhane to celebrate Chhath in Janakpur",
-   "en": "RSP Chair Rabi Lamichhane to celebrate Chhath in Janakpur",
-   "ne": "RSP Chair Rabi Lamichhane to celebrate Chhath in Janakpur",
-   "imp": 3,
-   "tags": [
-    "RabiLamichhane",
-    "Chhath",
-    "Janakpur"
-   ],
-   "cat": "culture",
-   "val": 3,
-   "teaser": false,
-   "hits": 3
   },
   {
    "title": "What two decades of photographs might tell us about the Himalayas",
@@ -7472,9 +7450,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "sports"
+  },
+  {
+   "ts": 1794635474.6698506,
+   "en": "RSP Chair Rabi Lamichhane to celebrate Chhath in Janakpur",
+   "ne": "RSP Chair Rabi Lamichhane to celebrate Chhath in Janakpur",
+   "link": "https://english.khabarhub.com/2026/14/575529/",
+   "source": "Khabarhub EN",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "culture"
   }
  ],
- "updated": 1794634854,
+ "updated": 1794635486,
  "pending_since": 1794634269.2280645,
  "fb_blocks": [
   1790350880.4125228,
