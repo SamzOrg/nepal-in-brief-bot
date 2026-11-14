@@ -1587,7 +1587,8 @@
   "https://nagariknews.nagariknetwork.com/social-affairs/nepal-and-south-korea-sign-important-agreement-to-combat-climate-crisis-64-45.html": 1794620448.6075513,
   "https://gorkhapatraonline.com/news/228997": 1794620448.6075513,
   "https://nagariknews.nagariknetwork.com/social-affairs/light-to-moderate-rain-likely-in-western-nepal-on-chhath-day-34-57.html": 1794620448.6075513,
-  "https://gorkhapatraonline.com/news/228996": 1794620448.6075513
+  "https://gorkhapatraonline.com/news/228996": 1794620448.6075513,
+  "https://kathmandupost.com/politics/2026/11/14/pm-asks-lawmakers-to-advance-nepal-s-interest-in-china-ties": 1794621045.716371
  },
  "queue": [
   {
@@ -1770,29 +1771,6 @@
    "val": 3,
    "teaser": false,
    "hits": 6
-  },
-  {
-   "title": "South Korea and Nepal Sign Framework Agreement on Climate Change to Cooperate on Greenhouse Gas Reductions",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ycFdWdlRJUjAwVExzNHBEeEpEVWlKMkMwMWJ0cTZlcHpBUVBJVE1lNVZzMVY3a2J6RkdrWTRtLTNYbFJQWkEwWlc5Y0VQSnlEbkRiQ283OXFla0tUa1U3c2Q2bk15ZEphUG5kR01n?oc=5",
-   "source": "news.sbs.co.kr",
-   "ts": 1794615667,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "South Korea and Nepal Sign Framework Agreement on Climate Change to Cooperate on Greenhouse Gas Reductions",
-   "en": "South Korea and Nepal Sign Framework Agreement on Climate Change to Cooperate on Greenhouse Gas Reductions",
-   "ne": "South Korea and Nepal Sign Framework Agreement on Climate Change to Cooperate on Greenhouse Gas Reductions",
-   "imp": 3,
-   "tags": [
-    "SouthKorea",
-    "Nepal",
-    "ClimateChange"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 3
   },
   {
    "title": "Will PM Balen Shah's India visit resolve cross-border QR payment problem?",
@@ -5539,9 +5517,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "politics"
+  },
+  {
+   "ts": 1794621052.2918575,
+   "en": "South Korea and Nepal Sign Framework Agreement on Climate Change",
+   "ne": "South Korea and Nepal Sign Framework Agreement on Climate Change",
+   "link": "https://news.sbs.co.kr/english/article.do?news_id=N1008845752",
+   "source": "news.sbs.co.kr",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "world"
   }
  ],
- "updated": 1794620455,
+ "updated": 1794621067,
  "pending_since": 1794620448.6075513,
  "fb_blocks": [
   1790350880.4125228,
