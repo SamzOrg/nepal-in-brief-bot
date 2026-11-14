@@ -1777,28 +1777,6 @@
    "hits": 1
   },
   {
-   "title": "Nepal Daily Life",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQS2xfVzF5YzJCTnFpa3BLT1RjMFZxOXJZNWpOaTVCMHpwaVZPTjMwcWdKMjFIV1ZHc2V5ZDQ4ajYweTFDLXBqeHpDOEVrTC14cUd4d042T3ZORnJkX2xpV1Z0a1JLSkpPZlppZlowTngtVDQ2OTNrQVhaN3RmOVZHejFoc25JZXhBQmVZRU1YSGc4YWY0alMxaV8yb2FYM3NTc2dfUEVUZFFKX0hiUk5B?oc=5",
-   "source": "Goshen News",
-   "ts": 1794669609,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Nepal Daily Life",
-   "en": "Nepal Daily Life",
-   "ne": "Nepal Daily Life",
-   "imp": 1,
-   "tags": [
-    "Nepal",
-    "DailyLife"
-   ],
-   "cat": "other",
-   "val": 1,
-   "teaser": false,
-   "hits": 2
-  },
-  {
    "title": "एपेक बैठकको 'साइडलाइन'मा ट्रम्प, सी र पुटिनबीच 'त्रिपक्षीय भेटवार्ता हुने'",
    "summary": "",
    "link": "https://baahrakhari.com/detail/507319",
@@ -2057,29 +2035,6 @@
    ],
    "cat": "culture",
    "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "बूढीगण्डकी जलविद्युत् आयोजनामा लगानी गर्न युएईसमक्ष नेपालको प्रस्ताव",
-   "summary": "नेपालले बूढीगण्डकी जलविद्युत् आयोजनामा लगानीका लागि संयुक्त अरब इमिरेट्स (युएई) सँग प्रस्ताव गरेको छ।...",
-   "link": "https://nagariknews.nagariknetwork.com/politics/nepal-s-proposal-to-the-uae-to-invest-in-the-budhigandaki-hydropower-project-50-53.html",
-   "source": "Nagarik News",
-   "ts": 1794675538,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1794675628_SAVE_20261114_220628.jpg",
-   "lang": "ne",
-   "hl": "बूढीगण्डकी जलविद्युत् आयोजनामा लगानी गर्न युएईसमक्ष नेपालको प्रस्ताव",
-   "en": "बूढीगण्डकी जलविद्युत् आयोजनामा लगानी गर्न युएईसमक्ष नेपालको प्रस्ताव",
-   "ne": "बूढीगण्डकी जलविद्युत् आयोजनामा लगानी गर्न युएईसमक्ष नेपालको प्रस्ताव",
-   "imp": 4,
-   "tags": [
-    "BudhiGandaki",
-    "UAE",
-    "Hydropower"
-   ],
-   "cat": "economy",
-   "val": 3,
    "teaser": false,
    "hits": 1
   },
@@ -5214,9 +5169,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "economy"
+  },
+  {
+   "ts": 1794698465.0111756,
+   "en": "बुढीगण्डकी जलविद्युत् आयोजनामा लगानी गर्न युएईसमक्ष नेपालको प्रस्ताव",
+   "ne": "बुढीगण्डकी जलविद्युत् आयोजनामा लगानी गर्न युएईसमक्ष नेपालको प्रस्ताव",
+   "link": "https://nagariknews.nagariknetwork.com/politics/nepal-s-proposal-to-the-uae-to-invest-in-the-budhigandaki-hydropower-project-50-53.html",
+   "source": "Nagarik News",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "economy"
   }
  ],
- "updated": 1794697850,
+ "updated": 1794698479,
  "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
