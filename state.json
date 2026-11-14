@@ -1589,7 +1589,12 @@
   "http://english.ratopati.com/story/86586/eu-prepares-to-increase-investment-in-ai-technology-and-strengthen-cooperation": 1794640852.3345504,
   "http://english.ratopati.com/story/86585/what-should-i-become": 1794640852.3345504,
   "http://english.ratopati.com/story/86583/textbook-printing-inventory-begins-books-should-arrive-within-15-days-of-the-start-of-the-academic-session": 1794640852.3345504,
-  "http://english.ratopati.com/story/86569/growing-faith-in-shani-dev-and-sankta-shani-mandir": 1794640852.3345504
+  "http://english.ratopati.com/story/86569/growing-faith-in-shani-dev-and-sankta-shani-mandir": 1794640852.3345504,
+  "https://risingnepaldaily.com/news/88601": 1794641467.2600517,
+  "https://gorkhapatraonline.com/news/229035": 1794641467.2600517,
+  "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUVktRldoMS1HMFZNS0c0aVRsMXl2N3RRejBJMmljOVhDcTVlVnFaUjhDQjJ2TEhKNW4zZHBoRVJiazR1bmItUkxGWktsWEVSc1NrTlIyYXFZU0NpTzNZOUpzUC1zM3Bqa2pWYlVNRGgtWTJFUTZqMEJZdlFwSlBXQUwtWlZjMDNZd09SUWZlMllkRDgyZWR6Y3dxdlZpSnpxVnc?oc=5": 1794641467.2600517,
+  "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcnlrMTNZWHJrQmRtZ0pBS1ZrZnNwclVPWm5xZFktZ2xBZU1acTE5WnlBOTdVRDE4NkxqUHVCRjFVajVQX203WnJqLWIxTWwwLV9LMWtwdmR5V3BvaFhaU0pwZjc2QlY5d08wZy1PUENPSjFVX044ZEcyNVl0eWJkZ2ozN0R1eFdhcGN4LUJQQUd0cXp4NDRMS2tBMkw?oc=5": 1794641467.2600517,
+  "http://english.ratopati.com/story/86591/call-for-help-in-protecting-flood-affected-children": 1794641467.2600517
  },
  "queue": [
   {
@@ -2636,7 +2641,7 @@
    "cat": "culture",
    "val": 3,
    "teaser": false,
-   "hits": 8
+   "hits": 9
   },
   {
    "title": "Int'l writers set to gather in Kathmandu for HLF-WWK",
@@ -2774,7 +2779,7 @@
    "cat": "health",
    "val": 3,
    "teaser": false,
-   "hits": 3
+   "hits": 4
   },
   {
    "title": "Nepal's Stolen Gods Are Coming Home - Hindu Press International",
@@ -4837,7 +4842,7 @@
    "cat": "sports",
    "val": 3,
    "teaser": false,
-   "hits": 4
+   "hits": 5
   },
   {
    "title": "Ministry Seeks Recommendations for National Forensic Science Laboratory Board",
@@ -5003,7 +5008,7 @@
    "cat": "disaster",
    "val": 2,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "RSP lawmakers meet party chair Lamichhane ahead of China visit",
@@ -5323,20 +5328,32 @@
    "val": 2,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "National Child Rights Council Seeks Applications for Flood-Affected Children's Care Plan",
+   "summary": "Kathmandu. The National Child Rights Council has called for applications from philanthropic organizations and individuals to be included in the...",
+   "link": "http://english.ratopati.com/story/86591/call-for-help-in-protecting-flood-affected-children",
+   "source": "Ratopati EN",
+   "ts": 1794640872,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/council-child-rights_R9ujqKdo6E.jpg",
+   "lang": "en",
+   "hl": "National Child Rights Council Seeks Applications for Flood-Affected Children's Care Plan",
+   "en": "National Child Rights Council Seeks Applications for Flood-Affected Children's Care Plan",
+   "ne": "National Child Rights Council Seeks Applications for Flood-Affected Children's Care Plan",
+   "imp": 3,
+   "tags": [
+    "NationalChildRightsCouncil",
+    "Flood",
+    "Nepal"
+   ],
+   "cat": "society",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1794036058.978042,
-   "en": "कर्णालीका मुख्यमन्त्री शाहीको सय दिन पूरा, आफ्नै दल र मन्त्रीको आलोचना",
-   "ne": "कर्णालीका मुख्यमन्त्री शाहीको सय दिन पूरा, आफ्नै दल र मन्त्रीको आलोचना",
-   "link": "https://baahrakhari.com/detail/506837",
-   "source": "Baahrakhari",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "politics"
-  },
   {
    "ts": 1794037856.2535355,
    "en": "Gov't announces RM10,000 special financial aid for families of Nepal-Tibet flood victims",
@@ -8308,8 +8325,8 @@
    "cat": "disaster"
   }
  ],
- "updated": 1794640871,
- "pending_since": null,
+ "updated": 1794641471,
+ "pending_since": 1794641467.2600517,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
