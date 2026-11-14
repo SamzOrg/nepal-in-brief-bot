@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://baahrakhari.com/detail/507170": 1794502890.7851236,
-  "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZ1NtQWZSRnBqaFNIY1JHTUN3RDVDSENNMVZDWjBsWm9Kb0VHbmdBYktqWUlQWUc1dTI3TTF5TGEyNXUtOHNsTmFSNHBObENVUDVrb01pZlIwNFg0T1Vxa1Z1ZXlIOTMzNDNmN1hrdFBvRm1qZi0tb2J0RVNmTkhhT091REdELWNnSlRWU0NqTmlleWhtM2tfUjNKbGluWDh6LWlGcXhwZnk5eXFYQmRXMmtCT0pqVnp4MWNydHZB?oc=5": 1794502890.7851236,
   "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTFZBOTE5VmI2T0VMdmlmaFlkNjZoU19raVRocUhyYXdQYVk5anl0WHdyd0dwNUpDWFJzaWNWcmlsa1FocVg1UGRDZ28wRDZlYUF0elNkUXZ5ME0ybWppQlB4RDBYMVJvMFZPSDNOakgwSEYwbVNfN1dUelVOMkZjNGxsTXV6NEFMd0pjSDRjVXJEYlAwWU9sWUNZQ1RlYTdjQ3NJX3l2YjV2NFBhZ2tR?oc=5": 1794504669.9310596,
   "https://baahrakhari.com/detail/507173": 1794505251.4201462,
   "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbmYtNnVfZ0RlVUM4ZzRCR0VfckFfbVNYVG9ZOWJtWGR0NEFYVmhJRllOaHFLTndobDZWZ0pndENKalc0VGk5TzBoYnR3eTNlTmhSTzFuZTFoVE40SGR4ZkU5cDAySEpfNHNoS1pwTVE3cm50cXVrUTQtNWhUbWpQVS1YbnQzdkNDMzdETWhCY2d2ck1rYkEtR1BmenVSY2ZuRk5pa1lrdndGbG5EVTlWNDlnbEpZM3pMVkc0S3ROUlI?oc=5": 1794505251.4201462,
@@ -1677,29 +1675,6 @@
    "hits": 2
   },
   {
-   "title": "Pokhara Police Arrest 44 in 'Operation Civility'",
-   "summary": "Pokhara. The District Police Office, Kaski has taken 44 people involved in illegal activities under control and initiated action from...",
-   "link": "http://english.ratopati.com/story/86613/operation-civilization-in-lakeside-44-people-taken-into-action-in-three-days",
-   "source": "Ratopati EN",
-   "ts": 1794647076,
-   "weight": 2,
-   "img": "https://rpcdn.ratopati.com/media/albums/kaski_police_office_iYHnTeU4vv.PNG",
-   "lang": "en",
-   "hl": "Pokhara Police Arrest 44 in 'Operation Civility'",
-   "en": "Pokhara Police Arrest 44 in 'Operation Civility'",
-   "ne": "Pokhara Police Arrest 44 in 'Operation Civility'",
-   "imp": 3,
-   "tags": [
-    "Pokhara",
-    "OperationCivility",
-    "Arrests"
-   ],
-   "cat": "crime",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "South African Cricketer David Miller Reaches Everest Base Camp",
    "summary": "Kathmandu. South African cricketer David Miller, who came to Nepal to play the third edition of the Nepal Premier League...",
    "link": "http://english.ratopati.com/story/86622/david-miller-reaches-everest-base-camp",
@@ -2883,29 +2858,6 @@
    ],
    "cat": "culture",
    "val": 1,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "'रामायण' नवौँ दिनमा एक हजार करोड भारु पार",
-   "summary": "फिल्म 'रामायण'ले बक्स अफिसमा उत्कृष्ट प्रदर्शन गर्दै दोस्रो हप्तामा शानदार प्रवेश गरेको छ।",
-   "link": "https://nagariknews.nagariknetwork.com/arts/ramayana-crosses-rs-1-000-crore-mark-in-ninth-day-95-43.html",
-   "source": "Nagarik News",
-   "ts": 1794647240,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1794647219_ramayan.jpg",
-   "lang": "ne",
-   "hl": "'रामायण' नवौँ दिनमा एक हजार करोड भारु पार",
-   "en": "'रामायण' नवौँ दिनमा एक हजार करोड भारु पार",
-   "ne": "'रामायण' नवौँ दिनमा एक हजार करोड भारु पार",
-   "imp": 1,
-   "tags": [
-    "Ramayana",
-    "Bollywood",
-    "BoxOffice"
-   ],
-   "cat": "culture",
-   "val": 3,
    "teaser": false,
    "hits": 1
   },
@@ -6993,7 +6945,7 @@
    "cat": "politics"
   }
  ],
- "updated": 1794675689,
+ "updated": 1794676255,
  "pending_since": 1794675049.184948,
  "fb_blocks": [
   1790350880.4125228,
