@@ -1588,7 +1588,8 @@
   "https://gorkhapatraonline.com/news/228997": 1794620448.6075513,
   "https://nagariknews.nagariknetwork.com/social-affairs/light-to-moderate-rain-likely-in-western-nepal-on-chhath-day-34-57.html": 1794620448.6075513,
   "https://gorkhapatraonline.com/news/228996": 1794620448.6075513,
-  "https://kathmandupost.com/politics/2026/11/14/pm-asks-lawmakers-to-advance-nepal-s-interest-in-china-ties": 1794621045.716371
+  "https://kathmandupost.com/politics/2026/11/14/pm-asks-lawmakers-to-advance-nepal-s-interest-in-china-ties": 1794621045.716371,
+  "https://nagariknews.nagariknetwork.com/politics/nepal-s-preparations-for-climate-diplomacy-should-be-further-strengthened-foreign-minister-khanal-br-15-31.html": 1794621677.5405488
  },
  "queue": [
   {
@@ -2205,7 +2206,7 @@
    "cat": "world",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "Westerly winds bring partial cloud cover today",
@@ -2548,17 +2549,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1794016256.5408463,
-   "en": "53 dead and 835 injured in Nepal road accidents over six days (Nov 1-5)",
-   "ne": "53 dead and 835 injured in Nepal road accidents over six days (Nov 1-5)",
-   "link": "https://theannapurnaexpress.com/story/68582",
-   "source": "Annapurna Express",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "disaster"
-  },
   {
    "ts": 1794018098.3272138,
    "en": "Nepal flood causes Rs 472.66B in damage, needs Rs 706.65B for recovery",
@@ -5530,7 +5520,7 @@
    "cat": "world"
   }
  ],
- "updated": 1794621067,
+ "updated": 1794621680,
  "pending_since": 1794620448.6075513,
  "fb_blocks": [
   1790350880.4125228,
