@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://gorkhapatraonline.com/news/228899": 1794483068.0171485,
   "https://nagariknews.nagariknetwork.com/Aparadh/three-more-people-arrested-for-obscene-dancing-in-deusi-bhailo-35-89.html": 1794483650.7717102,
   "https://gorkhapatraonline.com/news/228900": 1794483650.7717102,
   "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSXltdDF0eFNxdEprblJZTzhfUHd6djE1b0tFU2duRElUZkxrX012RTl1anFCbVlqSjcyREN5bjkybmhpRWRacEtSOU9CNGIyVTBnN0daY2hGTEZ6eGhEeVBqNnpmRHFTaHRud09kZEc5elhjYXRqTzN2ZzlMSDlac1lPSjJISTJzMUpkZXN0alhhQdIBlwFBVV95cUxQVjl2MW9uZUZFYjZSeGxFMEVRbmsyY3laUlo0TDBHS3htdnVSRE9CVUNKS3R6a1lKREs0UXhlTEF2bXNkOGN1MlJhMzBXdzBTUkVwV29ad2lzQlgtRXltNmtZVzJnLW1IcWU3LWNKTFRNbWhsX250c1lnWkV4b2tkYUR0X2VhX3F4WGtFT2VEcUdWVzQ4ejl3?oc=5": 1794483650.7717102,
@@ -1556,7 +1555,8 @@
   "https://english.khabarhub.com/2026/14/575570/": 1794655252.4537427,
   "http://english.ratopati.com/story/86640/live-updates-between-lumbini-lions-and-biratnagar-kings": 1794655252.4537427,
   "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5BUkNUODNZUmNOdVBXZUtBWTBkN1lVZEdKWEh0Qms1dmdYOWM5OWNYOHgyWDJjdl93ZXlYQ3JUMUQwUldUNUJOUmZZa3FJZTVj?oc=5": 1794655252.4537427,
-  "https://risingnepaldaily.com/news/88608": 1794655252.4537427
+  "https://risingnepaldaily.com/news/88608": 1794655252.4537427,
+  "https://gorkhapatraonline.com/news/229054": 1794655870.7903056
  },
  "queue": [
   {
@@ -1579,52 +1579,6 @@
    ],
    "cat": "culture",
    "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Trump, Putin, Xi to Hold Historic Trilateral Meeting in China",
-   "summary": "Washington. A historic joint meeting between US President Donald Trump, Russian President Vladimir Putin, and Chinese President Xi Jinping is...",
-   "link": "http://english.ratopati.com/story/86544/historic-trilateral-meeting-between-trump-putin-and-xi-jinping-to-take-place-in-china-next-week",
-   "source": "Ratopati EN",
-   "ts": 1794626787,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/trump-putin-xi_WDnh74oxMk.webp",
-   "lang": "en",
-   "hl": "Trump, Putin, Xi to Hold Historic Trilateral Meeting in China",
-   "en": "Trump, Putin, Xi to Hold Historic Trilateral Meeting in China",
-   "ne": "Trump, Putin, Xi to Hold Historic Trilateral Meeting in China",
-   "imp": 1,
-   "tags": [
-    "Trump",
-    "Putin",
-    "China"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "ट्राफिक कारबाहीले दुर्घटनामा कमी",
-   "summary": "भरतपुर समाचारदाताभरतपुर, कात्तिक २८ गते । चाडपर्वमा सवारीसाधनको चाप बढेसँगै ट्राफिक प्रहरीले निगरानी र कारबाहीलाई तीव्र बनाउँदा चितवनमा सवारी दुर्घटनाको सङ्ख्या झन्डै आधाले घटेको छ...",
-   "link": "https://gorkhapatraonline.com/news/229012",
-   "source": "Gorkhapatra",
-   "ts": 1794626609,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/391386/conversions/8c676004-8fe6-4231-910b-dabc2c7bb96c-original.jpg",
-   "lang": "ne",
-   "hl": "ट्राफिक कारबाहीले दुर्घटनामा कमी",
-   "en": "ट्राफिक कारबाहीले दुर्घटनामा कमी",
-   "ne": "ट्राफिक कारबाहीले दुर्घटनामा कमी",
-   "imp": 2,
-   "tags": [
-    "Traffic",
-    "Accident",
-    "ट्रफिक"
-   ],
-   "cat": "society",
-   "val": 2,
    "teaser": false,
    "hits": 1
   },
@@ -5565,17 +5519,6 @@
  ],
  "posted": [
   {
-   "ts": 1794050458.6010153,
-   "en": "Nepal Government Prepares to Establish Data Protection Board for Cyber Security",
-   "ne": "Nepal Government Prepares to Establish Data Protection Board for Cyber Security",
-   "link": "http://english.ratopati.com/story/85973/government-preparing-to-form-data-protection-board-bill-being-drafted",
-   "source": "Ratopati EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "tech"
-  },
-  {
    "ts": 1794052253.2100887,
    "en": "चीनमा जारी सिरिजमा नेपालको यू-१९ महिला क्रिकेट टोलीद्वारा चीन ८४ रनले पराजित",
    "ne": "चीनमा जारी सिरिजमा नेपालको यू-१९ महिला क्रिकेट टोलीद्वारा चीन ८४ रनले पराजित",
@@ -8557,7 +8500,7 @@
    "cat": "crime"
   }
  ],
- "updated": 1794655271,
+ "updated": 1794655876,
  "pending_since": 1794655252.4537427,
  "fb_blocks": [
   1790350880.4125228,
