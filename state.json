@@ -1,9 +1,5 @@
 {
  "seen": {
-  "https://english.onlinekhabar.com/climate-change-shared-challenge.html": 1794465068.2606547,
-  "http://english.ratopati.com/story/86334/pokhara-avengers-cricket-ambassador-irfan-pathan-arrives-in-nepal": 1794465068.2606547,
-  "https://baahrakhari.com/detail/507125": 1794465068.2606547,
-  "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTEtBUUZfNW1LMWNuRHVDaEItSjVOVDBjalF0UURrdW5EQXlkWHBRaUxEdFdPQVpkaHp1eVRaci1ZWENQa09TdHkwOFJZTWdKUXBBRmVTa1RXSE02OW8zQmdCOTg1T0lBbTFoXzBiMEZyVkVPMHVHZEl2bWF5VzlraDJGcml2TTRiaEZWQm41c25rWTQzNE5iaThYS0hlNGVVZ3c?oc=5": 1794465068.2606547,
   "https://news.google.com/rss/articles/CBMingFBVV95cUxNT2dKT2hBcS1uZzFSRmNEaXBQeFlTelptQmpTTnNNcTM3Um1aTFBHc1ZNZlBKSXN2RWtkU0tjV1NQSFd0Vkh0TTlvdWpFSGFxQllFa1V3NE52SldSTUxvcUxjMmtyNjBpc3JfT1dBcy1iSWw0Mk9vSF9MV1ZYR3l1TS14Z0V0RDBFOXBIbTBpSWo4dEU1aWtlQzlqbWtZZ9IBXEFVX3lxTFB1VXgweTRLWkl4amI0RGdvX3BMcDVDTk5rTENsOVB2cTA5WncybmJieFVIb2JXNnZ2X0FJUmZfUjFNOTVBdXBhcVp4QzRHRHl1QkNvMzVSNkxXUFlB?oc=5": 1794465651.8493378,
   "http://english.ratopati.com/story/86336/us-and-chinese-foreign-ministers-discuss-trilateral-meeting-between-trump-xi-and-putin": 1794465651.8493378,
   "https://baahrakhari.com/detail/507128": 1794465651.8493378,
@@ -1577,7 +1573,10 @@
   "http://english.ratopati.com/story/86573/minister-chaudhary-and-chinese-counterpart-runqiu-hold-discussions-emphasize-cooperation-on-himalayan-challenges": 1794636648.8365216,
   "https://nagariknews.nagariknetwork.com/economy/rtgs-system-to-operate-even-on-public-holidays-22-68.html": 1794636648.8365216,
   "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSmJ3cEZwRngzbzRoTVNkZUR5VlRGNHJNZ0x0VHlCQk9uaTFYOW56VlhwcG5uTkVQRDg2NVdLdGR6VVRaYVRtaVFBSFh4TVc1OTg5SHhIc195WURtMV9qUEpjS1hjUDk1Tmk3NDgySkxtcG9MZUt1b21tSGRodUtRWU1B?oc=5": 1794637250.2634764,
-  "https://baahrakhari.com/detail/507283": 1794637250.2634764
+  "https://baahrakhari.com/detail/507283": 1794637250.2634764,
+  "http://english.ratopati.com/story/86579/rabi-lamichhane-to-stay-in-janakpur-for-three-days-on-the-occasion-of-chhath-programs-ranging-from-religious-rituals-to-meetings": 1794637870.361752,
+  "https://english.khabarhub.com/2026/14/575548/": 1794637870.361752,
+  "https://gorkhapatraonline.com/news/229032": 1794637870.361752
  },
  "queue": [
   {
@@ -2624,7 +2623,7 @@
    "cat": "culture",
    "val": 3,
    "teaser": false,
-   "hits": 5
+   "hits": 6
   },
   {
    "title": "Int'l writers set to gather in Kathmandu for HLF-WWK",
@@ -4751,20 +4750,53 @@
    "val": 3,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "Massive dry landslide occurs in Gorkha forest area",
+   "summary": "GORKHA: A massive dry landslide has occurred in the forest area of Thado Bharyang in Dharche Rural Municipality-1, Gorkha district. The landslide occurred at Bagar, near Yaru Bridge. Assistant Chief District Officer of...",
+   "link": "https://english.khabarhub.com/2026/14/575548/",
+   "source": "Khabarhub EN",
+   "ts": 1794637459,
+   "weight": 2,
+   "img": "https://english.khabarhub.com/wp-content/uploads/2026/11/Dry-landslide-Gorkha-400x220.png",
+   "lang": "en",
+   "hl": "Massive dry landslide occurs in Gorkha forest area",
+   "en": "Massive dry landslide occurs in Gorkha forest area",
+   "ne": "Massive dry landslide occurs in Gorkha forest area",
+   "imp": 3,
+   "tags": [
+    "Landslide",
+    "Gorkha"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "अछाममा भिरबाट लडेर एक जनाको मृत्यु",
+   "summary": "अछाम, कात्तिक २८ गते । अछाममा भिरबाट लडेर एक जनाको मृत्यु भएको छ भने अर्का एक जना घाइते भएका छन् ।शुक्रबार साँझ ढकारी गाउँपालिका-१ बासल्लाका ३२ वर्षीय बिर्खे बुढा र ३१ वर्षीय गणेश...",
+   "link": "https://gorkhapatraonline.com/news/229032",
+   "source": "Gorkhapatra",
+   "ts": 1794637310,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/391413/conversions/images-original.jpg",
+   "lang": "ne",
+   "hl": "अछाममा भिरबाट लडेर एक जनाको मृत्यु",
+   "en": "अछाममा भिरबाट लडेर एक जनाको मृत्यु",
+   "ne": "अछाममा भिरबाट लडेर एक जनाको मृत्यु",
+   "imp": 2,
+   "tags": [
+    "SnakeBite",
+    "Achham"
+   ],
+   "cat": "disaster",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1794032461.163404,
-   "en": "Nepal's PM Balen Shah to visit India on Nov 22 as both sides seek to strengthen ties",
-   "ne": "Nepal's PM Balen Shah to visit India on Nov 22 as both sides seek to strengthen ties",
-   "link": "https://www.firstpost.com/world/nepals-pm-balen-shah-to-visit-india-on-nov-22-as-both-sides-seek-to-strengthen-ties-14058545.html/amp",
-   "source": "Firstpost",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "politics"
-  },
   {
    "ts": 1794034266.6676168,
    "en": "NDRRMA Publishes Details of 2,294 Missing Nepalis and 171 Foreigners",
@@ -7736,7 +7768,7 @@
    "cat": "society"
   }
  ],
- "updated": 1794637271,
+ "updated": 1794637876,
  "pending_since": 1794636648.8365216,
  "fb_blocks": [
   1790350880.4125228,
