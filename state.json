@@ -1,8 +1,5 @@
 {
  "seen": {
-  "https://english.onlinekhabar.com/nvidia-ceo-jensen-huang-resign.html": 1794495052.7606027,
-  "https://news.google.com/rss/articles/CBMigwFBVV95cUxONm5ydnQwTG1wSDJWZENsdnE2eVIxTzhQU3ZUY0JiRmJWTE9MQTZpOGphNkRuWjZXX1BtM1dNV2RZZC1GdlhCV2dQeUdsM0RLdTN6bmlvOGpYNzB1QkIteTRLZzdfUWJhRlY5NU9NSHZtNlNlME1vYjdWS1Q4cTdBM2lCOA?oc=5": 1794495052.7606027,
-  "http://english.ratopati.com/story/86372/newyork": 1794495052.7606027,
   "https://kathmandupost.com/cricket/2026/11/12/lumbini-lions-seal-playoff-spot-as-karnali-yaks-suffer-fourth-straight-defeat": 1794495687.0545883,
   "https://kathmandupost.com/world/2026/11/12/nvidia-ceo-jensen-huang-resigns-in-big-blow-to-ai-boom": 1794495687.0545883,
   "https://nagariknews.nagariknetwork.com/social-affairs/scooter-driver-dies-after-being-hit-by-tipper-54-43.html": 1794495687.0545883,
@@ -1721,49 +1718,6 @@
    ],
    "cat": "culture",
    "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "EU Leaders Pledge to Boost AI Competitiveness and Support Ukraine Peace Efforts",
-   "summary": "Kathmandu. European Union (EU) leaders have pledged to enhance Europe's competitiveness by expanding the development and investment in artificial intelligence...",
-   "link": "http://english.ratopati.com/story/86586/eu-prepares-to-increase-investment-in-ai-technology-and-strengthen-cooperation",
-   "source": "Ratopati EN",
-   "ts": 1794639294,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/antonio-costa-1699421172_wHoZqCZWpw.jpg",
-   "lang": "en",
-   "hl": "EU Leaders Pledge to Boost AI Competitiveness and Support Ukraine Peace Efforts",
-   "en": "EU Leaders Pledge to Boost AI Competitiveness and Support Ukraine Peace Efforts",
-   "ne": "EU Leaders Pledge to Boost AI Competitiveness and Support Ukraine Peace Efforts",
-   "imp": 1,
-   "tags": [
-    "Ukraine"
-   ],
-   "cat": "world",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Life is a Journey of Self-Discovery",
-   "summary": "Life becomes beautiful with travel. The end of one journey is the beginning of another. One should not stop traveling...",
-   "link": "http://english.ratopati.com/story/86585/what-should-i-become",
-   "source": "Ratopati EN",
-   "ts": 1794639259,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/sujan_OfEEUX5rve.webp",
-   "lang": "en",
-   "hl": "Life is a Journey of Self-Discovery",
-   "en": "Life is a Journey of Self-Discovery",
-   "ne": "Life is a Journey of Self-Discovery",
-   "imp": 1,
-   "tags": [
-    "Life",
-    "SelfDiscovery"
-   ],
-   "cat": "other",
-   "val": 1,
    "teaser": false,
    "hits": 1
   },
@@ -4931,17 +4885,6 @@
  ],
  "posted": [
   {
-   "ts": 1794063060.0192592,
-   "en": "Former PM Sher Bahadur Deuba alleges 18 crore rupees influenced Nepali Congress authenticity dispute at Kathmandu district convention",
-   "ne": "Former PM Sher Bahadur Deuba alleges 18 crore rupees influenced Nepali Congress authenticity dispute at Kathmandu district convention",
-   "link": "http://english.ratopati.com/story/85993/deuba-accuses-gagan-those-who-sell-the-party-for-money-cannot-save-the-congress",
-   "source": "Ratopati EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "politics"
-  },
-  {
    "ts": 1794064869.062656,
    "en": "Kathmandu expects over $2b in loans, grants from Delhi",
    "ne": "Kathmandu expects over $2b in loans, grants from Delhi",
@@ -7923,7 +7866,7 @@
    "cat": "society"
   }
  ],
- "updated": 1794667874,
+ "updated": 1794668500,
  "pending_since": 1794667248.0726125,
  "fb_blocks": [
   1790350880.4125228,
