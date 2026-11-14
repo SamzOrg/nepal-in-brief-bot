@@ -1556,7 +1556,9 @@
   "https://nagariknews.nagariknetwork.com/politics/nepal-s-push-to-bring-himalayan-issues-into-the-mainstream-of-global-climate-talks-65-78.html": 1794651051.0484643,
   "http://english.ratopati.com/story/86623/jitjungs-attack-on-gagan-and-bishwaprakash-demand-to-investigate-ngo-connections-and-financial-irregularities": 1794651051.0484643,
   "http://english.ratopati.com/story/86626/five-people-die-in-road-accidents-in-four-districts-including-bhaktapur": 1794651051.0484643,
-  "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQVhHWEdBQnlmU00xYkgxQkJKWjVGQTBkZnA0eTZQZ3VJY056dEh2aDBkVnd0cnhBMHgtZ3hSbDhYNzhPRy01cnQzb2dabUhwSVdsaGZNSk1aWHFvQmpKZEpkZnJxRks0NWRSN3JRdmVraVpWTFpFa29QeE13aFRiWmJKR0dtU2RjS092Zm1Fa1lFRzJ3ZXBfcDNrdVR5Wnk1SW1sMG5NNEFZd3ZyXzJyX3d3?oc=5": 1794651212.9122179
+  "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQVhHWEdBQnlmU00xYkgxQkJKWjVGQTBkZnA0eTZQZ3VJY056dEh2aDBkVnd0cnhBMHgtZ3hSbDhYNzhPRy01cnQzb2dabUhwSVdsaGZNSk1aWHFvQmpKZEpkZnJxRks0NWRSN3JRdmVraVpWTFpFa29QeE13aFRiWmJKR0dtU2RjS092Zm1Fa1lFRzJ3ZXBfcDNrdVR5Wnk1SW1sMG5NNEFZd3ZyXzJyX3d3?oc=5": 1794651212.9122179,
+  "https://nagariknews.nagariknetwork.com/social-affairs/rashtriya-swayamsevak-sangh-rss-president-lamichhane-reaches-janakpur-to-celebrate-chhath-17-86.html": 1794651649.962576,
+  "https://english.khabarhub.com/2026/14/575564/": 1794651649.962576
  },
  "queue": [
   {
@@ -1693,29 +1695,6 @@
    "cat": "culture",
    "val": 2,
    "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "विकल्पको खोजीमा नेपाली श्रमिक",
-   "summary": "नेपालका अदक्ष र अर्धदक्ष श्रमिकको प्रमुख श्रम गन्तव्य मलेसियामा तत्कालका लागि नयाँ श्रम स्वीकृति स्थगित भएको छ । नेपाल र मलेसिया सरकारबिच श्रमिक पठाउने विवाद (वैदेशिक रोजगार व्यवसा...",
-   "link": "https://gorkhapatraonline.com/news/229004",
-   "source": "Gorkhapatra",
-   "ts": 1794622795,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/391372/conversions/444-original.jpg",
-   "lang": "ne",
-   "hl": "विकल्पको खोजीमा नेपाली श्रमिक",
-   "en": "विकल्पको खोजीमा नेपाली श्रमिक",
-   "ne": "विकल्पको खोजीमा नेपाली श्रमिक",
-   "imp": 3,
-   "tags": [
-    "MigrantWorkers",
-    "Employment",
-    "वैदेशिकरोजगार"
-   ],
-   "cat": "society",
-   "val": 1,
-   "teaser": true,
    "hits": 1
   },
   {
@@ -1966,29 +1945,6 @@
    ],
    "cat": "politics",
    "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Minister Shah meets Indian counterpart Goyal",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbHRRaFBwVWhxakJkSEJlOUtFblkweGdhMEE3RmkzaUYwU3J5TGNVcUd5aGltNkg3UzVnY2pUaTU0ZkkwcUpCMnhDNFg0ZHAtRUJJbVRjZE42aThmUUdtTDdxYnprcTh4b0xrTHJhUExJQU9lUWJIOFZoLVFrZjloWTNERzljaC1yZW9NSHBYbzF4RXhYcS1yc0tCYVRCSlVw?oc=5",
-   "source": "myRepublica",
-   "ts": 1794622500,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Minister Shah meets Indian counterpart Goyal",
-   "en": "Minister Shah meets Indian counterpart Goyal",
-   "ne": "Minister Shah meets Indian counterpart Goyal",
-   "imp": 3,
-   "tags": [
-    "MinisterShah",
-    "IndianCounterpart",
-    "Goyal"
-   ],
-   "cat": "politics",
-   "val": 3,
    "teaser": false,
    "hits": 1
   },
@@ -4184,7 +4140,7 @@
    "cat": "society",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Book Review: 'Khadama' Explores Nepali Migrant Worker Experiences",
@@ -4250,7 +4206,7 @@
    "cat": "economy",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "उत्तरी नाका बन्द हुँदा सकस",
@@ -5258,28 +5214,6 @@
    ],
    "cat": "politics",
    "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Supreme Court Orders Government to Regulate Cannabis Cultivation for Medicinal and Industrial Use",
-   "summary": "Role:Cannabis is not an unfamiliar plant in the hilly villages and settlements of Nepal. This plant, which grows naturally in...",
-   "link": "http://english.ratopati.com/story/86612/supreme-courts-order-on-marijuana-cultivation-the-potential-of-barren-hills-and-five-decades-of-state-inaction",
-   "source": "Ratopati EN",
-   "ts": 1794649500,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/gaja-kheti_4YdOxJom74.jpg",
-   "lang": "en",
-   "hl": "Supreme Court Orders Government to Regulate Cannabis Cultivation for Medicinal and Industrial Use",
-   "en": "Supreme Court Orders Government to Regulate Cannabis Cultivation for Medicinal and Industrial Use",
-   "ne": "Supreme Court Orders Government to Regulate Cannabis Cultivation for Medicinal and Industrial Use",
-   "imp": 4,
-   "tags": [
-    "SupremeCourt",
-    "CannabisRegulation"
-   ],
-   "cat": "health",
-   "val": 3,
    "teaser": false,
    "hits": 1
   },
@@ -8287,9 +8221,20 @@
    "n_ig": 1,
    "brk": true,
    "cat": "disaster"
+  },
+  {
+   "ts": 1794651654.4545987,
+   "en": "Nepal Supreme Court Orders Government to Regulate Cannabis Cultivation for Medicinal and Industrial Use",
+   "ne": "Nepal Supreme Court Orders Government to Regulate Cannabis Cultivation for Medicinal and Industrial Use",
+   "link": "http://english.ratopati.com/story/86612/supreme-courts-order-on-marijuana-cultivation-the-potential-of-barren-hills-and-five-decades-of-state-inaction",
+   "source": "Ratopati EN",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "health"
   }
  ],
- "updated": 1794651235,
+ "updated": 1794651665,
  "pending_since": 1794651051.0484643,
  "fb_blocks": [
   1790350880.4125228,
