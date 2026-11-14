@@ -1582,7 +1582,8 @@
   "https://nagariknews.nagariknetwork.com/international/guterres-urges-6-percent-emissions-cut-every-year-to-save-the-planet-71-37.html": 1794629447.4758046,
   "https://nagariknews.nagariknetwork.com/sports/chitwan-playoffs-near-the-only-match-on-saturday-will-be-between-lumbini-lions-and-biratnagar-kings-br-92-48.html": 1794629447.4758046,
   "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQk9fOUVBV3BEQVg4anpvdmZGQXdkdndlazRpelJtMmNiaFI1Y2Q5TVM0MzB0Ulhta2gwWmlrcnd3SHhVTktvYWNqaEpNOGtBOWM0YlFRd1dkRzZOQ25rYTU5bnFUcEV6S3F6dDFfWGJVa1NWVnpDZnVVekhaRlVCTjBzd21FYURWVGotWG42OW5oaHF3WjhnZlpDZVVFR29TTVlNY21yWmhUdGUwMHBENDMxSlpRbmRYTENLQTNpQnhqelc4UHJVT2pfQnA4aEk?oc=5": 1794630055.5103533,
-  "http://english.ratopati.com/story/86552/germany-wins-over-serbia-which-was-reduced-to-nine-players": 1794630055.5103533
+  "http://english.ratopati.com/story/86552/germany-wins-over-serbia-which-was-reduced-to-nine-players": 1794630055.5103533,
+  "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUXphRnVIVmZUVE9lenc2elNGZ0VJYXRaWVI0dm5aMXNzVC1LeDY4ajlkOFNQRGFyM1ZlOTNEX0c2empUUHNTOUctaFBGZV9uZ1pCalZjWnEyZ0VQN1VadlFYdFh6bDFWT0tGYzZpVEtBOHQyX1dtcTR0bWtWcUhkZnh1NmpSMWM?oc=5": 1794630664.4488952
  },
  "queue": [
   {
@@ -3637,6 +3638,29 @@
    ],
    "cat": "sports",
    "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Disaster Preparedness Saves Lives in Nepal Floods",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUXphRnVIVmZUVE9lenc2elNGZ0VJYXRaWVI0dm5aMXNzVC1LeDY4ajlkOFNQRGFyM1ZlOTNEX0c2empUUHNTOUctaFBGZV9uZ1pCalZjWnEyZ0VQN1VadlFYdFh6bDFWT0tGYzZpVEtBOHQyX1dtcTR0bWtWcUhkZnh1NmpSMWM?oc=5",
+   "source": "unicef usa",
+   "ts": 1794626077,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "Disaster Preparedness Saves Lives in Nepal Floods",
+   "en": "Disaster Preparedness Saves Lives in Nepal Floods",
+   "ne": "Disaster Preparedness Saves Lives in Nepal Floods",
+   "imp": 4,
+   "tags": [
+    "NepalFloods",
+    "DisasterPreparedness",
+    "बाढी"
+   ],
+   "cat": "disaster",
+   "val": 2,
    "teaser": false,
    "hits": 1
   }
@@ -6613,7 +6637,7 @@
    "cat": "world"
   }
  ],
- "updated": 1794630072,
+ "updated": 1794630668,
  "pending_since": 1794630055.5103533,
  "fb_blocks": [
   1790350880.4125228,
