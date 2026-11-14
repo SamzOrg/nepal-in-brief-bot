@@ -1566,7 +1566,8 @@
   "http://english.ratopati.com/story/86593/lip-sore": 1794648051.4290333,
   "https://gorkhapatraonline.com/news/229042": 1794648051.4290333,
   "http://english.ratopati.com/story/86608/provincial-level-player-selection-begins-in-the-far-west-for-the-10th-national-games": 1794648051.4290333,
-  "https://gorkhapatraonline.com/news/229041": 1794648051.4290333
+  "https://gorkhapatraonline.com/news/229041": 1794648051.4290333,
+  "http://english.ratopati.com/story/86617/farmers-of-siraha-busy-selling-sugarcane-during-chhath-festival": 1794648667.0316012
  },
  "queue": [
   {
@@ -1588,75 +1589,6 @@
    ],
    "cat": "disaster",
    "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "बुद्ध, गान्धी र मन्डेलाको दर्शनलाई नयाँ पुस्तासम्म पुर्‍याइने",
-   "summary": "गोरखापत्र समाचारदाताकाठमाडौँ, कात्तिक २८ गते । गौतम बुद्धको जन्मभूमि नेपालबाट शान्ति, अहिंसा र मानवताको सन्देशलाई अन्तर्राष्ट्रियस्तरमा प्रवर्धन गर्ने उद्देश्यले गान्धी-मन्डेला फाउ...",
-   "link": "https://gorkhapatraonline.com/news/229002",
-   "source": "Gorkhapatra",
-   "ts": 1794619866,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/391370/conversions/buddha--gandhi-original.jpg",
-   "lang": "ne",
-   "hl": "बुद्ध, गान्धी र मन्डेलाको दर्शनलाई नयाँ पुस्तासम्म पुर्‍याइने",
-   "en": "बुद्ध, गान्धी र मन्डेलाको दर्शनलाई नयाँ पुस्तासम्म पुर्‍याइने",
-   "ne": "बुद्ध, गान्धी र मन्डेलाको दर्शनलाई नयाँ पुस्तासम्म पुर्‍याइने",
-   "imp": 2,
-   "tags": [
-    "Buddha",
-    "Gandhi",
-    "Mandela",
-    "Philosophy"
-   ],
-   "cat": "culture",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Morang Administration Drafts New Criteria for Nighttime Businesses in Biratnagar",
-   "summary": "Biratnagar. The District Administration Office, Morang has prepared a preliminary draft of new criteria to make the operation of nighttime...",
-   "link": "http://english.ratopati.com/story/86535/you-are-not-allowed-to-wear-a-turban-in-a-massage-parlor",
-   "source": "Ratopati EN",
-   "ts": 1794619843,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/massage_Z1hAyhUPet.webp",
-   "lang": "en",
-   "hl": "Morang Administration Drafts New Criteria for Nighttime Businesses in Biratnagar",
-   "en": "Morang Administration Drafts New Criteria for Nighttime Businesses in Biratnagar",
-   "ne": "Morang Administration Drafts New Criteria for Nighttime Businesses in Biratnagar",
-   "imp": 2,
-   "tags": [
-    "Morang",
-    "Biratnagar",
-    "Business"
-   ],
-   "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "गोलेका दुई पुस्तक लोकार्पण",
-   "summary": "गोरखापत्र समाचारदाताकाठमाडौँ, कात्तिक २८ गते । लेखक तथा अभियन्ता मोहन गोले तामाङका दुई पुस्तक 'तामाङ राष्ट्रको राजनीति' र 'तामाङ संस्कार संस्कृति' को लोकार्पण भएको छ । तामसालिङ सङ्...",
-   "link": "https://gorkhapatraonline.com/news/229001",
-   "source": "Gorkhapatra",
-   "ts": 1794619704,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/391369/conversions/mohan-goleko-book-lokarpan-pic-original.jpg",
-   "lang": "ne",
-   "hl": "गोलेका दुई पुस्तक लोकार्पण",
-   "en": "गोलेका दुई पुस्तक लोकार्पण",
-   "ne": "गोलेका दुई पुस्तक लोकार्पण",
-   "imp": 1,
-   "tags": [
-    "BookLaunch",
-    "Golay"
-   ],
-   "cat": "culture",
-   "val": 2,
    "teaser": false,
    "hits": 2
   },
@@ -4046,7 +3978,7 @@
    "cat": "culture",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "अमेरिकामा घण्टौँपछि हवाई सेवा पुनः सञ्चालन, पुरानो उपकरणका कारण अवरोध",
@@ -5511,17 +5443,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1794043261.8417025,
-   "en": "CIAA seeks land return in Biratnagar orchard scandal",
-   "ne": "CIAA seeks land return in Biratnagar orchard scandal",
-   "link": "https://english.onlinekhabar.com/biratnagar-land-scandal.html",
-   "source": "Onlinekhabar EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "crime"
-  },
   {
    "ts": 1794045062.1967258,
    "en": "10 dead and 266 injured in road accidents across Nepal over 24 hours",
@@ -8493,8 +8414,8 @@
    "cat": "disaster"
   }
  ],
- "updated": 1794648075,
- "pending_since": null,
+ "updated": 1794648670,
+ "pending_since": 1794648667.0316012,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
