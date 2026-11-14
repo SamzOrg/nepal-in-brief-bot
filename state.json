@@ -1582,7 +1582,11 @@
   "https://nagariknews.nagariknetwork.com/arts/neighbor-br-10-11.html": 1794631249.455191,
   "http://english.ratopati.com/story/86557/a-window-into-the-intricacies-of-school-education-35-years-in-the-classroom": 1794631848.0262024,
   "https://gorkhapatraonline.com/news/229024": 1794632485.043139,
-  "https://gorkhapatraonline.com/news/229023": 1794632485.043139
+  "https://gorkhapatraonline.com/news/229023": 1794632485.043139,
+  "https://risingnepaldaily.com/news/88598": 1794633049.508444,
+  "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYkdwVHJSczQ2aVhNRHNxWEhmbDIzQTRKWkdqODhjazBKRHgtVllrMGtuVXpCc2Nsd1pma1V6a2pEd2c3NVBuSWZNLU1nV01NbUw5R1NsWTdQNVNzTFpiYVdScnFpN2VMX21zRklrWGU2ZDlwWXp4Ql9kX2xoR1BNcXFaQ3daLXpZRl9MQk95TDRGZl94M1FFZU1RaVZXbmF4TVp1eV83QnNrY200Q0xTUQ?oc=5": 1794633049.508444,
+  "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeFFkRXlVZFFKbXNkSFZYT21JLTAxRTlPOXkxeGpjV0pJQndPQ2NLN0lEWjViQnNPSmMzNlpxR20wek02elVJbGwwM044YkxkclE1UWpDR0Vxd0dFdG1UZUJuQjZuNHRrZ0pvWmtQeHFHZ3Y3UVlRVXdzTGx2ekV2ZzdYOXVZdWdXUGZGbmdnRkRLVTdHWS1JakNpMlBfZG5aMGQ0cHRPOGtQaVBj?oc=5": 1794633049.508444,
+  "https://baahrakhari.com/detail/507281": 1794633049.508444
  },
  "queue": [
   {
@@ -2813,7 +2817,7 @@
    "cat": "health",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Nepal's Stolen Gods Are Coming Home - Hindu Press International",
@@ -4092,6 +4096,29 @@
    ],
    "cat": "disaster",
    "val": 1,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "गोरखाको धार्चेमा सुक्खा पहिरो",
+   "summary": "",
+   "link": "https://baahrakhari.com/detail/507281",
+   "source": "Baahrakhari",
+   "ts": 1794633034,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "गोरखाको धार्चेमा सुक्खा पहिरो",
+   "en": "गोरखाको धार्चेमा सुक्खा पहिरो",
+   "ne": "गोरखाको धार्चेमा सुक्खा पहिरो",
+   "imp": 3,
+   "tags": [
+    "Gorkha",
+    "Landslide",
+    "पहिरो"
+   ],
+   "cat": "disaster",
+   "val": 2,
    "teaser": false,
    "hits": 1
   }
@@ -7068,7 +7095,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1794632490,
+ "updated": 1794633054,
  "pending_since": 1794631848.0262024,
  "fb_blocks": [
   1790350880.4125228,
