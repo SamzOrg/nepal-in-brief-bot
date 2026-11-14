@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://baahrakhari.com/detail/507147": 1794480055.5474813,
-  "https://news.google.com/rss/articles/CBMipgFBVV95cUxONmRtazlpc053OEx2X1dUeHRId2Z2YVpGMEs4X3FjSzhjeWxLVlMyNEtTc2ZyZDlndUx5eXlENUxobkxTeHlCOXVsVXVqa1dyWUN1SmpmSW9VakhwaUUxdW04Q2FQLWRTZElWa0ZmVlkxcnNVQXNQMlFVbF9UMkxKSTZpa0tKRXVtd1ZvSzNqLVpVTkZZSS15dmYybG9wV3lIa0I0Y0pB?oc=5": 1794480055.5474813,
   "https://english.onlinekhabar.com/lamichhane-biratnagar-kings-beat-pokhara.html": 1794480655.6066098,
   "https://www.setopati.com/kinmel/employment/402442": 1794480655.6066098,
   "https://www.ujyaaloonline.com/detail/133420": 1794480655.6066098,
@@ -1579,77 +1577,10 @@
   "http://english.ratopati.com/story/86614/female-characters-of-the-ramayana-who-made-rama-and-ravana-realize-their-destiny-and-strength": 1794652849.1928735,
   "https://nagariknews.nagariknetwork.com/arts/after-the-artist-was-arrested-by-the-police-during-the-event-60-92.html": 1794652849.1928735,
   "http://english.ratopati.com/story/86624/two-arrested-from-salyan-and-banke-on-charges-of-raping-a-girl": 1794652849.1928735,
-  "https://nagariknews.nagariknetwork.com/social-affairs/chhath-ghat-construction-at-70-places-in-kapilvastu-preparations-complete-39-21.html": 1794652849.1928735
+  "https://nagariknews.nagariknetwork.com/social-affairs/chhath-ghat-construction-at-70-places-in-kapilvastu-preparations-complete-39-21.html": 1794652849.1928735,
+  "http://english.ratopati.com/story/86633/congress-and-uml-leaders-were-selectively-targeted-in-the-genji-movement-deuba": 1794653453.990892
  },
  "queue": [
-  {
-   "title": "गृहमन्त्री सुधन गुरूङ युएई प्रस्थान",
-   "summary": "युएई सरकारको औपचारिक निमन्त्रणामा उनी शुक्रबार साँझ ७ बजे त्रिभुवन अन्तर्राष्ट्रिय विमानस्थलबाट दुबई प्रस्थान गरेका हुन्।",
-   "link": "https://www.setopati.com/social/402535",
-   "source": "Setopati",
-   "ts": 1794624513,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "गृहमन्त्री सुधन गुरूङ युएई प्रस्थान",
-   "en": "गृहमन्त्री सुधन गुरूङ युएई प्रस्थान",
-   "ne": "गृहमन्त्री सुधन गुरूङ युएई प्रस्थान",
-   "imp": 3,
-   "tags": [
-    "SudhanGurung",
-    "UAE",
-    "HomeMinistry",
-    "गृहमन्त्री"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "सौन्दर्यको जादु",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/507271",
-   "source": "Baahrakhari",
-   "ts": 1794624300,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "सौन्दर्यको जादु",
-   "en": "सौन्दर्यको जादु",
-   "ne": "सौन्दर्यको जादु",
-   "imp": 1,
-   "tags": [
-    "Beauty",
-    "सौन्दर्य"
-   ],
-   "cat": "culture",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "आदर्श प्रेमको प्रतीक",
-   "summary": "मानव जातिको प्रादुर्भाव भएसँगै उसले सर्वप्रथम आकाशमा गोलाकार चम्किलो सूर्यलाई देखेको हुनु पर्छ । सूर्यले प्रकाश दियो, जिउमा स्फूर्ति दियो, काम गर्न जाँगर दियो अनि सूर्य अनायास सबै...",
-   "link": "https://gorkhapatraonline.com/news/229008",
-   "source": "Gorkhapatra",
-   "ts": 1794624118,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/391380/conversions/456-original.jpg",
-   "lang": "ne",
-   "hl": "आदर्श प्रेमको प्रतीक",
-   "en": "आदर्श प्रेमको प्रतीक",
-   "ne": "आदर्श प्रेमको प्रतीक",
-   "imp": 1,
-   "tags": [
-    "Love",
-    "प्रेम"
-   ],
-   "cat": "culture",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
-  },
   {
    "title": "Amargadhi Fort: A Historical Military Base in Dadeldhura",
    "summary": "Dadeldhura. Amargadhi Fort, located in Dadeldhura headquarters Khalanga, holds an important history of Nepal's unification campaign. This fort, built in...",
@@ -1694,29 +1625,6 @@
    "val": 1,
    "teaser": true,
    "hits": 2
-  },
-  {
-   "title": "The Great Liquidity Paradox: Nepal's Banking Vaults Overflow",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQLWlRaDlpdllYR2RQbURITXlsaFVMMjlhM1Q1OGhvV0lvNE82LUpXNEZZOUdkRmhkYnVEWUhScEw2QXItZkw5ZV9mWlhLa1Y4b3RDamVXME9ud2RfaGU3LWhZbzBMQzNaR20ybmVuMFJlbnVvNHJCeVR1OUotTEVyOW02RlpkaUthb2VWTzRSaEhONDYwdm4zR2VOeHdTN2FneUtYT2xCM25kNEl0?oc=5",
-   "source": "NEPSE Trading",
-   "ts": 1794624459,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "The Great Liquidity Paradox: Nepal's Banking Vaults Overflow",
-   "en": "The Great Liquidity Paradox: Nepal's Banking Vaults Overflow",
-   "ne": "The Great Liquidity Paradox: Nepal's Banking Vaults Overflow",
-   "imp": 3,
-   "tags": [
-    "Banking",
-    "Liquidity",
-    "Nepal"
-   ],
-   "cat": "economy",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
   },
   {
    "title": "Trump, Putin, Xi to Hold Historic Trilateral Meeting in China",
@@ -3602,29 +3510,6 @@
    "val": 3,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "Widening trade deficit and revenue shortfall add to economic woes",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZjNQaDZQY0RsbnFFeVBtMFVhWlY3Z3NlWlBNdzlSQXJDbTlfRnBzd2NINmNUaGNrWFpUdUJXX1BoM0FScUVyODBHdnd1OWlfRTlScTRNSTJ4ZEp3Z19LUURnbUlKMmc3UXl4MERyQWxnc3hVdi04cTNsQXg5MjNsemlSalVTcS01endtWnpXYU81dU9GUUgtNjhBYnNINkV5VGIxaEloY1JuNUFNekl5cG5wSDhITm5HVjc4OVNyaDZVdw?oc=5",
-   "source": "myRepublica",
-   "ts": 1794634322,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Widening trade deficit and revenue shortfall add to economic woes",
-   "en": "Widening trade deficit and revenue shortfall add to economic woes",
-   "ne": "Widening trade deficit and revenue shortfall add to economic woes",
-   "imp": 3,
-   "tags": [
-    "TradeDeficit",
-    "Revenue",
-    "Economy"
-   ],
-   "cat": "economy",
-   "val": 2,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "AI and the Future of Capitalism: A Paradigm Shift",
@@ -8518,10 +8403,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "health"
+  },
+  {
+   "ts": 1794653459.9585214,
+   "en": "Nepal's trade deficit grows 34.71 percent as revenue falls short in first three months",
+   "ne": "Nepal's trade deficit grows 34.71 percent as revenue falls short in first three months",
+   "link": "https://myrepublica.nagariknetwork.com/amp/news/widening-trade-deficit-and-revenue-shortfall-add-to-economic-woes-36-17.html",
+   "source": "myRepublica",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "economy"
   }
  ],
- "updated": 1794652857,
- "pending_since": null,
+ "updated": 1794653476,
+ "pending_since": 1794653453.990892,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
