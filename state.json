@@ -1613,32 +1613,10 @@
   "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeFFKTkVyR1J4Rk1Bd2dqZW12bW1XUjFaLVc4dFRVVjY1ZkY5SUFnMF9kZ25Ld3BUa0I4dUpBTXpCVklvX0I5LUY5aFdQaWxaRFVkX2ZMNVdHRFl3Rk1tZGI1UHJYQ2xLbExoQ1luM1FFVUFTRmpESUh4UUhLd1k1a3E1WGxrSlAyd2QwMVJ5bEJhYTNuWF9PZ2o4MjdPcjZIWHBSNDhWU0p5U1h0WmZGR1dELWJGeER2YkxR?oc=5": 1794692447.6671977,
   "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQUx5VThSZnBKTXlCYmwxQnEySnZKcGI2UC04SXB0cG0yelpBM0ZXMnM1Z0tVVGtSWlJHSUtMUnk4NzNQSHJVVEFBYzg1YkNKMEhtY25INWpyRTQxbGhTSm90azNodHBLaVNQM1NjUWc2Qm83bVc0RTF6MTlGYmx6X3RJVmpRWWlBclVJVUpTQzlGTG8tTDVFMFNLRjlYb2d6RFRyM1J3SEY1Njk2c1lKNGdIaFp5N3c?oc=5": 1794694251.7346342,
   "http://english.ratopati.com/story/86682/portugal-defeated-4-1-by-denmark-in-the-nations-league": 1794694847.1903467,
-  "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOVFSM1hOeEw3WFZjZG44MmY0cEtKTjZDT29OaV94aERCenF2UWZYUldsWnhsd21ubnZabGU0ZzJuT2ttZllEeVpwdW1kQVIzb01VdzgwcFdKWTFDNXlPX3hacktBTzZiR0xRNjRaYnZZMnRhYkNydXVvUk1LeUplZW03Y3ZfNm5JUU9MdHBEb2w0V3dSMjJnVm1VQUEtTEtOSGRhRl9Ec0hrZDhrVEtwblFzTjNGZlZlVDZCRVA1RlBPZw?oc=5": 1794695465.3522818
+  "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOVFSM1hOeEw3WFZjZG44MmY0cEtKTjZDT29OaV94aERCenF2UWZYUldsWnhsd21ubnZabGU0ZzJuT2ttZllEeVpwdW1kQVIzb01VdzgwcFdKWTFDNXlPX3hacktBTzZiR0xRNjRaYnZZMnRhYkNydXVvUk1LeUplZW03Y3ZfNm5JUU9MdHBEb2w0V3dSMjJnVm1VQUEtTEtOSGRhRl9Ec0hrZDhrVEtwblFzTjNGZlZlVDZCRVA1RlBPZw?oc=5": 1794695465.3522818,
+  "http://english.ratopati.com/story/86681/kartik-shukla-shashthi-offering-evening-arghya-to-the-setting-sun-while-standing-in-a-reservoir": 1794697280.499189
  },
  "queue": [
-  {
-   "title": "Climate Justice Banner Displayed During Cricket Match",
-   "summary": "Kathmandu. A banner with 'Climate Justice' written on it was displayed in the spectator stands during the ongoing cricket match...",
-   "link": "http://english.ratopati.com/story/86668/a-message-of-climate-justice-from-the-cricket-field-climate-justice-banner-in-the-stands",
-   "source": "Ratopati EN",
-   "ts": 1794668104,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/climate-justice_nViVBs3S3o.webp",
-   "lang": "en",
-   "hl": "Climate Justice Banner Displayed During Cricket Match",
-   "en": "Climate Justice Banner Displayed During Cricket Match",
-   "ne": "Climate Justice Banner Displayed During Cricket Match",
-   "imp": 2,
-   "tags": [
-    "ClimateJustice",
-    "Cricket",
-    "COP31"
-   ],
-   "cat": "world",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
   {
    "title": "Biratnagar Kings Captain Charith Asalanka Blames Poor Bowling in Final Overs for Loss",
    "summary": "Kathmandu. Biratnagar Kings captain Charith Asalanka has said that the team had to face defeat after failing to bowl well...",
@@ -2220,20 +2198,31 @@
    "val": 3,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "Chhath Festival Celebrated with Devotion and Enthusiasm",
+   "summary": "Kathmandu. The great festival of Chhath, associated with the main faith, devotion, and nature worship of Hindus, is being celebrated...",
+   "link": "http://english.ratopati.com/story/86681/kartik-shukla-shashthi-offering-evening-arghya-to-the-setting-sun-while-standing-in-a-reservoir",
+   "source": "Ratopati EN",
+   "ts": 1794694500,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/chhath_62bp0sEc5k.jpg",
+   "lang": "en",
+   "hl": "Chhath Festival Celebrated with Devotion and Enthusiasm",
+   "en": "Chhath Festival Celebrated with Devotion and Enthusiasm",
+   "ne": "Chhath Festival Celebrated with Devotion and Enthusiasm",
+   "imp": 3,
+   "tags": [
+    "ChhathFestival",
+    "Festival"
+   ],
+   "cat": "culture",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1794091859.639942,
-   "en": "Nepal urged to revive stalled transitional justice process: UN expert",
-   "ne": "Nepal urged to revive stalled transitional justice process: UN expert",
-   "link": "https://borneobulletin.com.bn/nepal-urged-to-revive-stalled-transitional-justice-process-un-expert/",
-   "source": "Borneo Bulletin",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "politics"
-  },
   {
    "ts": 1794093653.4826932,
    "en": "ललितपुरका १३ फार्मेसीमा चिकित्सकको प्रेस्क्रिप्सनबिनै एन्टिबायोटिक बिक्री",
@@ -5227,8 +5216,8 @@
    "cat": "economy"
   }
  ],
- "updated": 1794696667,
- "pending_since": 1794694847.1903467,
+ "updated": 1794697285,
+ "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
