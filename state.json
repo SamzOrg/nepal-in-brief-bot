@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://baahrakhari.com/detail/507110": 1794451848.2771838,
-  "https://www.setopati.com/social/402416": 1794451848.2771838,
   "https://www.setopati.com/social/402417": 1794452481.0190747,
   "https://www.ujyaaloonline.com/detail/133408": 1794452481.0190747,
   "https://theannapurnaexpress.com/story/68682": 1794452481.0190747,
@@ -1598,7 +1596,8 @@
   "https://kathmandupost.com/sports/2026/11/14/why-the-first-six-overs-have-become-a-survival-test-in-npl-season-3": 1794624648.270645,
   "https://gorkhapatraonline.com/news/229006": 1794624648.270645,
   "https://gorkhapatraonline.com/news/229005": 1794624648.270645,
-  "https://gorkhapatraonline.com/news/229004": 1794624648.270645
+  "https://gorkhapatraonline.com/news/229004": 1794624648.270645,
+  "https://gorkhapatraonline.com/news/229009": 1794625278.4032764
  },
  "queue": [
   {
@@ -3108,17 +3107,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1794019862.7378697,
-   "en": "Government forms 5-member committee to probe 110-seat increase at Army Medical College in Kathmandu",
-   "ne": "Government forms 5-member committee to probe 110-seat increase at Army Medical College in Kathmandu",
-   "link": "http://english.ratopati.com/story/85921/after-army-medical-college-seat-becomes-more-controversial-investigation-committee-forms-matching-will-be-done-only-after-report-comes",
-   "source": "Ratopati EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "politics"
-  },
   {
    "ts": 1794021658.5220895,
    "en": "JICA begins BP Highway reconstruction in Sindhuli as Kavre work progresses",
@@ -6090,8 +6078,8 @@
    "cat": "politics"
   }
  ],
- "updated": 1794624672,
- "pending_since": null,
+ "updated": 1794625282,
+ "pending_since": 1794625278.4032764,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
