@@ -1615,52 +1615,6 @@
  },
  "queue": [
   {
-   "title": "'तामाङ संस्कार-संस्कृति निर्देशिका' पुनः संशोधनका लागि छलफल",
-   "summary": "काठमाडौँ, कात्तिक २८ गते । तामाङ समुदायको जन्मदेखि मृत्युसम्ममा अपनाउने विभिन्न संस्कार संस्कृतिमा एकरुपता ल्याउन प्रकाशित \"तामाङ संस्कार-संस्कृति निर्देशिका\" लाई पुनः संसोधनका लाग...",
-   "link": "https://gorkhapatraonline.com/news/229062",
-   "source": "Gorkhapatra",
-   "ts": 1794660591,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/391463/conversions/IMG_20261114_095607-original.jpg",
-   "lang": "ne",
-   "hl": "'तामाङ संस्कार-संस्कृति निर्देशिका' पुनः संशोधनका लागि छलफल",
-   "en": "'तामाङ संस्कार-संस्कृति निर्देशिका' पुनः संशोधनका लागि छलफल",
-   "ne": "'तामाङ संस्कार-संस्कृति निर्देशिका' पुनः संशोधनका लागि छलफल",
-   "imp": 2,
-   "tags": [
-    "Tamang",
-    "Culture",
-    "तामाङ"
-   ],
-   "cat": "culture",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Sexual Violence Used as Weapon in Palestine Conflict",
-   "summary": "I recently came across a tweet that read: 'Let us not forget that rape is regularly used as a weapon...",
-   "link": "http://english.ratopati.com/story/86627/rape-as-a-tool-of-war-and-the-silence-of-western-feminism",
-   "source": "Ratopati EN",
-   "ts": 1794660300,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/gaza-rape_OIqyw8yoTT.webp",
-   "lang": "en",
-   "hl": "Sexual Violence Used as Weapon in Palestine Conflict",
-   "en": "Sexual Violence Used as Weapon in Palestine Conflict",
-   "ne": "Sexual Violence Used as Weapon in Palestine Conflict",
-   "imp": 1,
-   "tags": [
-    "Palestine",
-    "Conflict",
-    "Violence"
-   ],
-   "cat": "world",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "India Wins ACC U-19 Asia Cup Final Against Pakistan by 1 Wicket",
    "summary": "Oman. India has lifted the title by achieving an extremely thrilling 1-wicket victory over arch-rival Pakistan in the ACC U-19...",
    "link": "http://english.ratopati.com/story/86660/india-wins-acc-u-19-asia-cup-defeating-pakistan-by-one-wicket",
@@ -2391,28 +2345,6 @@
    "val": 1,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "Who is the real prime minister?",
-   "summary": "After the IGP removal and journalist detentions, Lamichhane's claim of a right to intervene has reopened a question the RSP's landslide was meant to settle.",
-   "link": "https://kathmandupost.com/columns/2026/11/14/who-is-the-real-prime-minister",
-   "source": "Kathmandu Post",
-   "ts": 1794660187.0708528,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Who is the real prime minister?",
-   "en": "Who is the real prime minister?",
-   "ne": "Who is the real prime minister?",
-   "imp": 1,
-   "tags": [
-    "PrimeMinister",
-    "Politics"
-   ],
-   "cat": "politics",
-   "val": 1,
-   "teaser": true,
-   "hits": 3
   },
   {
    "title": "एपेक बैठकको 'साइडलाइन'मा ट्रम्प, सी र पुटिनबीच 'त्रिपक्षीय भेटवार्ता हुने'",
@@ -5832,7 +5764,7 @@
    "cat": "accident"
   }
  ],
- "updated": 1794688861,
+ "updated": 1794689453,
  "pending_since": 1794687651.0146933,
  "fb_blocks": [
   1790350880.4125228,
