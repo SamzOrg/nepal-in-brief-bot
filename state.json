@@ -1686,29 +1686,6 @@
    "hits": 1
   },
   {
-   "title": "Drafting of Ganges treaty must include Nepal, China, UN: expert",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSDlzQzlfQlVmbWtiNTExODh6VFBPLVoxTUJRQXhEdGstTTZobUd5NmRqc3MzTjQ2X1pLRkFxakd3LUV6dW9IdHhaVnFDU1JhSGxvdXFIZ25lS2J3QlE0VnQxYXFXMnE1M1UtSHlRbU1YVVBRRDgwU3hNUTdtVGtBMXhWTTVjZ3hUSkluRDhJMmRyanFhTF93RnFvT0FSMFpPSEJPR0pVdjAwaWFOOG02d19tMjdQbkFpV0wwSVFQZzhPZw?oc=5",
-   "source": "New Age BD",
-   "ts": 1794648420,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Drafting of Ganges treaty must include Nepal, China, UN: expert",
-   "en": "Drafting of Ganges treaty must include Nepal, China, UN: expert",
-   "ne": "Drafting of Ganges treaty must include Nepal, China, UN: expert",
-   "imp": 3,
-   "tags": [
-    "GangesTreaty",
-    "Nepal",
-    "China"
-   ],
-   "cat": "politics",
-   "val": 2,
-   "teaser": false,
-   "hits": 2
-  },
-  {
    "title": "Fire Erupts in Restaurant Building in Lalitpur Ward 10",
    "summary": "Kathmandu. A fire has broken out in a house located to the left of the Lalitpur Metropolitan City Ward No....",
    "link": "http://english.ratopati.com/story/86619/fire-breaks-out-in-a-building-run-by-a-security-company-in-front-of-un-park",
@@ -1727,50 +1704,6 @@
    ],
    "cat": "disaster",
    "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "हिमाली मुद्दालाई विश्वव्यापी जलवायु वार्ताको मूलधारमा ल्याउन जोड: परराष्ट्रमन्त्री खनाल",
-   "summary": "काठमाडौँ, कात्तिक २८ गते । परराष्ट्रमन्त्री शिशिर खनाल संयुक्त राष्ट्रसङ्घीय जलवायु परिवर्तनसम्बन्धी महासन्धिका पक्ष राष्ट्रहरूको ३१औँ सम्मेलन (कोप-३१) मा सहभागी भई स्वदेश फर्कनुभए...",
-   "link": "https://gorkhapatraonline.com/news/229045",
-   "source": "Gorkhapatra",
-   "ts": 1794648419,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/391436/conversions/1000223726f-original.jpg",
-   "lang": "ne",
-   "hl": "हिमाली मुद्दालाई विश्वव्यापी जलवायु वार्ताको मूलधारमा ल्याउन जोड: परराष्ट्रमन्त्री खनाल",
-   "en": "हिमाली मुद्दालाई विश्वव्यापी जलवायु वार्ताको मूलधारमा ल्याउन जोड: परराष्ट्रमन्त्री खनाल",
-   "ne": "हिमाली मुद्दालाई विश्वव्यापी जलवायु वार्ताको मूलधारमा ल्याउन जोड: परराष्ट्रमन्त्री खनाल",
-   "imp": 3,
-   "tags": [
-    "हिमाली",
-    "जलवायु"
-   ],
-   "cat": "politics",
-   "val": 2,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "'Sita Cave' in Rasuwa in Disrepair Due to Lack of Conservation",
-   "summary": "Rasuwa. The historic and religiously significant 'Sita Cave' or 'Sangtormo' in Bokejhunda, Gosainkunda Rural Municipality-6, Rasuwa, is falling into disrepair...",
-   "link": "http://english.ratopati.com/story/86616/sita-cave-in-rasuwa-is-falling-into-ruin-due-to-lack-of-protection",
-   "source": "Ratopati EN",
-   "ts": 1794648243,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/rasuwa-map_5ptxmJBUA0.jpg",
-   "lang": "en",
-   "hl": "'Sita Cave' in Rasuwa in Disrepair Due to Lack of Conservation",
-   "en": "'Sita Cave' in Rasuwa in Disrepair Due to Lack of Conservation",
-   "ne": "'Sita Cave' in Rasuwa in Disrepair Due to Lack of Conservation",
-   "imp": 2,
-   "tags": [
-    "SitaCave",
-    "Rasuwa"
-   ],
-   "cat": "culture",
-   "val": 2,
    "teaser": false,
    "hits": 1
   },
@@ -7050,8 +6983,8 @@
    "cat": "accident"
   }
  ],
- "updated": 1794676871,
- "pending_since": null,
+ "updated": 1794677473,
+ "pending_since": 1794677469.5937874,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
