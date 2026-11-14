@@ -1663,29 +1663,6 @@
    "hits": 1
   },
   {
-   "title": "US pretzel chain Auntie Anne's to open first Nepal outlet on November 21",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPX1gxVWd3T0xicjdCT1liVnZDVHpFVU5nb1I1NVQzMmhxOUVkanVmd1NLNXN6ZFd6ZXR5ZDVIM1pwUGJPQk5aUk5HcWphT180VlpnbVFIQU1qQldkc0hrSXQ1OEh1cThaRDY1Q1JFLV93aW1CYVRoUWNDREZCNTdhODNSekFzRnh1QXcxVjFCZVRZRGh1RXd1N0xHRlItV1ZWaWhaRVlKUWFab2pFUEF2OExnVnZ0dw?oc=5",
-   "source": "The Kathmandu Post",
-   "ts": 1794669750,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "US pretzel chain Auntie Anne's to open first Nepal outlet on November 21",
-   "en": "US pretzel chain Auntie Anne's to open first Nepal outlet on November 21",
-   "ne": "US pretzel chain Auntie Anne's to open first Nepal outlet on November 21",
-   "imp": 2,
-   "tags": [
-    "AuntieAnnes",
-    "Kathmandu",
-    "Business"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "१६८ जनाको स्वास्थ्य परीक्षण, १३ प्रतिशतमा नयाँ मधुमेह",
    "summary": "सरोज ढुंगेल काठमाडौँ, कात्तिक २८ गते । विश्व मधुमेह दिवसको अवसरमा नेपाल मधुमेही समाजले आयोजना गरेको निःशुल्क स्वास्थ्य शिविरमा १६८ जनाको स्वास्थ्य परीक्षण गरिएको छ । परीक्षण गरिएका...",
    "link": "https://gorkhapatraonline.com/news/229075",
@@ -2178,17 +2155,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1794093653.4826932,
-   "en": "ललितपुरका १३ फार्मेसीमा चिकित्सकको प्रेस्क्रिप्सनबिनै एन्टिबायोटिक बिक्री",
-   "ne": "ललितपुरका १३ फार्मेसीमा चिकित्सकको प्रेस्क्रिप्सनबिनै एन्टिबायोटिक बिक्री",
-   "link": "https://nagariknews.nagariknetwork.com/health/antibiotics-sold-without-doctor-s-prescription-in-13-pharmacies-in-lalitpur-21-29.html",
-   "source": "Nagarik News",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "health"
-  },
   {
    "ts": 1794095455.1134336,
    "en": "एनपीएल: काठमाडौं गोर्खाजसँग ३६ रनले पराजित भयो लुम्बिनी लायन्स",
@@ -5182,8 +5148,8 @@
    "cat": "economy"
   }
  ],
- "updated": 1794698479,
- "pending_since": null,
+ "updated": 1794699069,
+ "pending_since": 1794699066.2022672,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
