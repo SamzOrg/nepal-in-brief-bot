@@ -1,9 +1,5 @@
 {
  "seen": {
-  "https://baahrakhari.com/detail/507140": 1794475868.678315,
-  "https://news.google.com/rss/articles/CBMingFBVV95cUxNbzU3Ty05a2dWOV9CZlhjVTlOaHZDT2FjLWVkSzR6bmZmd05NVDFwbGtzTjVKVnp4eF9nX1k4Wm1ENFA1bnUwZ3o4R3ZsMEZxMTJuYkpqbWttdGM5ck5lRndUMU1FSFdZS04xdXVUcW4tZE8wbi11Y2NNSlJQTUZrQlM3YXQtTXgwRlpneXZtQ1owU3ZiZUotZnBMTDVfUQ?oc=5": 1794475868.678315,
-  "https://www.ujyaaloonline.com/detail/133417": 1794475868.678315,
-  "https://english.onlinekhabar.com/5-killed-in-road-accidents-in-kathmandu-valley-during-tihar.html": 1794475868.678315,
   "https://gorkhapatraonline.com/news/228891": 1794476451.7348454,
   "https://baahrakhari.com/detail/507141": 1794476451.7348454,
   "https://english.khabarhub.com/2026/12/575344/": 1794476451.7348454,
@@ -1567,31 +1563,10 @@
   "https://gorkhapatraonline.com/news/229042": 1794648051.4290333,
   "http://english.ratopati.com/story/86608/provincial-level-player-selection-begins-in-the-far-west-for-the-10th-national-games": 1794648051.4290333,
   "https://gorkhapatraonline.com/news/229041": 1794648051.4290333,
-  "http://english.ratopati.com/story/86617/farmers-of-siraha-busy-selling-sugarcane-during-chhath-festival": 1794648667.0316012
+  "http://english.ratopati.com/story/86617/farmers-of-siraha-busy-selling-sugarcane-during-chhath-festival": 1794648667.0316012,
+  "http://english.ratopati.com/story/86618/nepal-u-19-womens-team-defeated-by-india-a-by-125-runs": 1794649249.8924286
  },
  "queue": [
-  {
-   "title": "Westerly winds bring partial cloud cover today",
-   "summary": "KATHMANDU: The country is currently experiencing a partial influence of westerly winds, resulting in cloudy conditions in parts of the Himalayan and hilly regions. According to the Weather Forecasting Division, the...",
-   "link": "https://english.khabarhub.com/2026/14/575518/",
-   "source": "Khabarhub EN",
-   "ts": 1794620174,
-   "weight": 2,
-   "img": "https://english.khabarhub.com/wp-content/uploads/2025/11/Kathmndu-weather-5-400x220.jpg",
-   "lang": "en",
-   "hl": "Westerly winds bring partial cloud cover today",
-   "en": "Westerly winds bring partial cloud cover today",
-   "ne": "Westerly winds bring partial cloud cover today",
-   "imp": 2,
-   "tags": [
-    "Weather",
-    "WesterlyWinds"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
   {
    "title": "Rebuilding Nepal's Politics For Accountable Governance",
    "summary": "",
@@ -1704,28 +1679,6 @@
    ],
    "cat": "economy",
    "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "जलवायु न्याय खोजीसँगै अर्थपूर्ण सहभागिता",
-   "summary": "काठमाडौँ, कात्तिक २८ गते । संयुक्त राष्ट्रसङ्घीय जलवायु परिवर्तनसम्बन्धी संरचना महासन्धिका पक्ष राष्ट्रको ३१ औँ सम्मेलन (कोप-३१) मा नेपालले जलवायु न्यायको खोजीसँगै अर्थपूर्ण सहभागि...",
-   "link": "https://gorkhapatraonline.com/news/229003",
-   "source": "Gorkhapatra",
-   "ts": 1794620393,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/391371/conversions/455-original.jpg",
-   "lang": "ne",
-   "hl": "जलवायु न्याय खोजीसँगै अर्थपूर्ण सहभागिता",
-   "en": "जलवायु न्याय खोजीसँगै अर्थपूर्ण सहभागिता",
-   "ne": "जलवायु न्याय खोजीसँगै अर्थपूर्ण सहभागिता",
-   "imp": 2,
-   "tags": [
-    "ClimateJustice",
-    "Environment"
-   ],
-   "cat": "world",
-   "val": 1,
    "teaser": false,
    "hits": 1
   },
@@ -8414,7 +8367,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1794648670,
+ "updated": 1794649253,
  "pending_since": 1794648667.0316012,
  "fb_blocks": [
   1790350880.4125228,
