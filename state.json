@@ -1562,7 +1562,10 @@
   "https://www.ujyaaloonline.com/detail/133461": 1794616847.5050151,
   "https://english.khabarhub.com/2026/14/575485/": 1794616847.5050151,
   "https://www.ujyaaloonline.com/detail/133460": 1794616847.5050151,
-  "https://english.khabarhub.com/2026/14/575506/": 1794616847.5050151
+  "https://english.khabarhub.com/2026/14/575506/": 1794616847.5050151,
+  "https://www.setopati.com/social/402531": 1794617447.4878745,
+  "http://english.ratopati.com/story/86531/partial-influence-of-westerly-winds-persists-possibility-of-rain-and-snowfall-in-these-five-provinces": 1794617447.4878745,
+  "https://risingnepaldaily.com/news/88589": 1794617447.4878745
  },
  "queue": [
   {
@@ -1608,30 +1611,6 @@
     "Tourist"
    ],
    "cat": "crime",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Canberra Charity Dinner to Raise Funds for Children with Disabilities and Autism in Nepal",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYk1nOGxDN1JOTnQyWURxZk4zLUF1cGxKekRlZENoNHFJWUhsa09WSXNSX1hWeU4xRVRzQ2hXMVVzNktDd05uTjdPbU9VQ1QtSnNXRlFtOC01YzBxTi05azUyM1pyOUg5Ylg1N3cxUjVBdkE2SjQwZnJwZTZzRk5kdWh1dGgxVkdKeHJ5NzJwZDZ2ZG5kMzFyOG1xeE5TbFNQREtXLTZMdVNIZ0V0OHFDclhGU0JaTzM1Zi1yTDN2Tm1ZdEU?oc=5",
-   "source": "kendranewsaustralia.com.au",
-   "ts": 1794588391,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Canberra Charity Dinner to Raise Funds for Children with Disabilities and Autism in Nepal",
-   "en": "Canberra Charity Dinner to Raise Funds for Children with Disabilities and Autism in Nepal",
-   "ne": "Canberra Charity Dinner to Raise Funds for Children with Disabilities and Autism in Nepal",
-   "imp": 2,
-   "tags": [
-    "Canberra",
-    "Charity",
-    "Autism",
-    "Australia"
-   ],
-   "cat": "society",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -1882,7 +1861,7 @@
    "cat": "disaster",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "South Korea and Nepal Sign Framework Agreement on Climate Change to Cooperate on Greenhouse Gas Reductions",
@@ -1949,29 +1928,6 @@
     "Aviation"
    ],
    "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "मुग्लिन नजिकैको घोप्टेभीरमा दुुईतर्फी गाडी सञ्चालनमा समस्या",
-   "summary": "पृथ्वीराजमार्ग अन्तर्गत मुग्लिन र कुरिनटारकोबीचमा पर्ने घोप्टेभीरको सडक एकतर्फी सञ्चालन भएको आज चार दिन भैसकेको छ ।",
-   "link": "https://www.ujyaaloonline.com/detail/133461",
-   "source": "Ujyaalo",
-   "ts": 1794615720,
-   "weight": 2,
-   "img": "https://www.ujyaaloonline.com/uploads/posts/ghopte-vir-road-1794615684.jpg",
-   "lang": "ne",
-   "hl": "मुग्लिन नजिकैको घोप्टेभीरमा दुुईतर्फी गाडी सञ्चालनमा समस्या",
-   "en": "मुग्लिन नजिकैको घोप्टेभीरमा दुुईतर्फी गाडी सञ्चालनमा समस्या",
-   "ne": "मुग्लिन नजिकैको घोप्टेभीरमा दुुईतर्फी गाडी सञ्चालनमा समस्या",
-   "imp": 4,
-   "tags": [
-    "Mugling",
-    "PrithviHighway",
-    "मुग्लिन"
-   ],
-   "cat": "disaster",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -5015,10 +4971,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "politics"
+  },
+  {
+   "ts": 1794617457.4039276,
+   "en": "मुग्लिन नजिकैको घोप्टेभीरमा चार दिनदेखि एकतर्फी मात्रै सञ्चालनमा छ सडक",
+   "ne": "मुग्लिन नजिकैको घोप्टेभीरमा चार दिनदेखि एकतर्फी मात्रै सञ्चालनमा छ सडक",
+   "link": "https://www.ujyaaloonline.com/detail/133461",
+   "source": "Ujyaalo",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "disaster"
   }
  ],
- "updated": 1794616871,
- "pending_since": null,
+ "updated": 1794617471,
+ "pending_since": 1794617447.4878745,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
