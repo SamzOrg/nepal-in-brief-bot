@@ -1,8 +1,5 @@
 {
  "seen": {
-  "http://english.ratopati.com/story/86371/herd-of-elephants-in-dasgaja-all-day-causing-panic-in-the-village": 1794493871.8094378,
-  "https://baahrakhari.com/detail/507165": 1794493871.8094378,
-  "https://english.khabarhub.com/2026/12/575378/": 1794493871.8094378,
   "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPemRja2FYdDZoLW52Q3ZsMU5XVEZCdm85MlBvLUFUdUg5ZXlrZUR4LVlKYWxGWG53RUZlNnpSQ0Z5MnFaSXZTdWdsS242RkNCMy1kV3JqVy15TjdwN3l4NXFoMlR2WEVqX21fd0VqdGNtand6Vlp3anBLY3RkNnF6Slh0cEtDSE1xZDFOWEMwU3lFc2tPOEFkdEJPVzd5eVliTWctV2JCUm9Ldw?oc=5": 1794494453.516923,
   "https://english.onlinekhabar.com/lumbini-lions-beat-karnali-yaks-by-four-wickets.html": 1794494453.516923,
   "https://thehimalayantimes.com/nepal/makwanpur-ev-crash-death-toll-rises-to-14-six-from-one-family-killed": 1794494453.516923,
@@ -1608,57 +1605,10 @@
   "https://nagariknews.nagariknetwork.com/politics/mahesh-basnet-claims-that-load-shedding-ended-during-the-oli-government-s-tenure-81-19.html": 1794666669.8269992,
   "https://nagariknews.nagariknetwork.com/sports/aslanka-s-half-century-sets-lumbini-a-target-of-167-runs-for-biratnagar-83-60.html": 1794666669.8269992,
   "https://nagariknews.nagariknetwork.com/international/protest-against-immigration-policy-in-front-of-australian-parliament-house-demand-to-stop-mass-immigration-97-81.html": 1794666669.8269992,
-  "https://nagariknews.nagariknetwork.com/sports/kshitij-sindra-rajeev-and-padmakrishnalai-wardadhyaksha-cup-chesko-title-37-96.html": 1794666669.8269992
+  "https://nagariknews.nagariknetwork.com/sports/kshitij-sindra-rajeev-and-padmakrishnalai-wardadhyaksha-cup-chesko-title-37-96.html": 1794666669.8269992,
+  "https://risingnepaldaily.com/news/88610": 1794667248.0726125
  },
  "queue": [
-  {
-   "title": "Five Former NRNA Presidents Meet Speaker Aryal, Invite to Middle East Regional Conference",
-   "summary": "Kathmandu. Five former presidents of the Non-Resident Nepali Association (NRNA) have held a joint meeting with the Speaker of the...",
-   "link": "http://english.ratopati.com/story/86580/emphasizing-the-emotional-unity-of-nrna-five-former-presidents-meet-the-speaker",
-   "source": "Ratopati EN",
-   "ts": 1794638191,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/rk-sharma_Vz3qd0ddUv.webp",
-   "lang": "en",
-   "hl": "Five Former NRNA Presidents Meet Speaker Aryal, Invite to Middle East Regional Conference",
-   "en": "Five Former NRNA Presidents Meet Speaker Aryal, Invite to Middle East Regional Conference",
-   "ne": "Five Former NRNA Presidents Meet Speaker Aryal, Invite to Middle East Regional Conference",
-   "imp": 3,
-   "tags": [
-    "NRNA",
-    "SpeakerAryal",
-    "MiddleEast",
-    "एनआरएनए"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "जेन्सन हुआङ: कसरी एनभिडियाले गुमायो आफ्नो 'रकस्टार' सीईओ",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/507284",
-   "source": "Baahrakhari",
-   "ts": 1794638086,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "जेन्सन हुआङ: कसरी एनभिडियाले गुमायो आफ्नो 'रकस्टार' सीईओ",
-   "en": "जेन्सन हुआङ: कसरी एनभिडियाले गुमायो आफ्नो 'रकस्टार' सीईओ",
-   "ne": "जेन्सन हुआङ: कसरी एनभिडियाले गुमायो आफ्नो 'रकस्टार' सीईओ",
-   "imp": 1,
-   "tags": [
-    "JensenHuang",
-    "Nvidia",
-    "Tech",
-    "जेन्सनहुआङ"
-   ],
-   "cat": "tech",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
   {
    "title": "Chhath Festival Boosts Banana Sales in Kathmandu'solesale Fruit Market",
    "summary": "Kathmandu. With the Chhath festival of faith approaching, banana trade has significantly increased in the wholesale fruit market in Kuleshwor,...",
@@ -4745,7 +4695,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "दुध बिक्रीबाट लाखौँ आम्दानी गर्ने किसान सम्मानित",
@@ -8076,8 +8026,8 @@
    "cat": "politics"
   }
  ],
- "updated": 1794666678,
- "pending_since": null,
+ "updated": 1794667252,
+ "pending_since": 1794667248.0726125,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
