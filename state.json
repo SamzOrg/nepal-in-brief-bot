@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://www.setopati.com/social/402413": 1794449453.5489564,
   "https://english.khabarhub.com/2026/12/575266/": 1794450668.7488902,
   "http://english.ratopati.com/story/86316/main-roads-including-the-prithvi-highway-and-kaligandaki-corridor-are-blocked": 1794451251.254882,
   "https://www.ujyaaloonline.com/detail/133407": 1794451251.254882,
@@ -1596,32 +1595,11 @@
   "https://gorkhapatraonline.com/news/228995": 1794622251.0853496,
   "https://risingnepaldaily.com/news/88592": 1794622251.0853496,
   "https://risingnepaldaily.com/news/88591": 1794622251.0853496,
-  "https://risingnepaldaily.com/news/88590": 1794622251.0853496
+  "https://risingnepaldaily.com/news/88590": 1794622251.0853496,
+  "https://english.khabarhub.com/2026/14/575504/": 1794622846.6920135,
+  "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQmQycVI4Nm5KbDh1Q1FqNS1JcE9wd2IxTlp3dDJHaVB1OGdBZlFsd2NSSk5tTHdqMjhaSnh1dmdpZnB4TWFjMHFqT1JfODR2ZkRRZ1dJSVdkV2l4Z3kzVk5KVWVuUW9oWTI4ZHE4WDZhRVlndkxzYXJSMWFjekpzZVJmQ1I5aXMwMEhLbGF2TXFHZVA0RTZ1Qjc5WEZHZnY5UVQzWWI1dDlfNnI3bzEtbTRhUS1abzBWcE9EcVJnRUdoUGNOMmtCaw?oc=5": 1794622846.6920135
  },
  "queue": [
-  {
-   "title": "Nepali Animated Feature 'Lost in Mandala' Casts Kai Cech to Star",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVzl4RmVTOUVJUDV5R2FDV1NaVnNzblZOZnR6a0hQRS1lYnp6ZE5Pd2FhNTRnWFFDRFlWeVN2VlBTYUNJMERBWk9Md001Qi02bDdYLTRYbTQyNUF6LUtkQXFOckdkNmdPOHNTUjVuUmo0LTBMbHY1bFhaQTNaOFdGSU04dDNSWDIzeHJ2WU01WEdBYUVPMjFBdzZsbS1acFZIUFVLeXpZX2o?oc=5",
-   "source": "Animation Magazine",
-   "ts": 1794593729,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Nepali Animated Feature 'Lost in Mandala' Casts Kai Cech to Star",
-   "en": "Nepali Animated Feature 'Lost in Mandala' Casts Kai Cech to Star",
-   "ne": "Nepali Animated Feature 'Lost in Mandala' Casts Kai Cech to Star",
-   "imp": 2,
-   "tags": [
-    "LostInMandala",
-    "KaiCech",
-    "NepaliAnimation"
-   ],
-   "cat": "culture",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
   {
    "title": "Nepal: Janjatiya Gaurav Diwas celebrated in Kathmandu",
    "summary": "",
@@ -1985,29 +1963,6 @@
    "val": 2,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "सवारी दुर्घटना: पाँच वर्षमा तेह्र हजारको गयो ज्यान",
-   "summary": "काठमाडौँ, कात्तिक २८ गते । देशभर पछिल्लो पाँच वर्षमा भएका एक लाख २९ हजार ७४१ सवारी दुर्घटनामा १२ हजार ९९४ जनाले ज्यान गुमाउनुका साथै एक लाख ८७ हजार १९८ जना घाइते भएका छन् । दुर्घटन...",
-   "link": "https://gorkhapatraonline.com/news/228992",
-   "source": "Gorkhapatra",
-   "ts": 1794616960,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/391360/conversions/Nepal-Road-Crash-Aftermath-original.jpg",
-   "lang": "ne",
-   "hl": "सवारी दुर्घटना: पाँच वर्षमा तेह्र हजारको गयो ज्यान",
-   "en": "सवारी दुर्घटना: पाँच वर्षमा तेह्र हजारको गयो ज्यान",
-   "ne": "सवारी दुर्घटना: पाँच वर्षमा तेह्र हजारको गयो ज्यान",
-   "imp": 4,
-   "tags": [
-    "RoadAccident",
-    "TrafficNepal",
-    "सवारीदुर्घटना"
-   ],
-   "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "सद्भाव र समृद्धिको संगम छठ",
@@ -5869,10 +5824,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "world"
+  },
+  {
+   "ts": 1794622851.532724,
+   "en": "पछिल्लो पाँच वर्षमा देशभर भएका सवारी दुर्घटनामा १२ हजार ९९४ जनाको मृत्यु",
+   "ne": "पछिल्लो पाँच वर्षमा देशभर भएका सवारी दुर्घटनामा १२ हजार ९९४ जनाको मृत्यु",
+   "link": "https://gorkhapatraonline.com/news/228992",
+   "source": "Gorkhapatra",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "society"
   }
  ],
- "updated": 1794622257,
- "pending_since": null,
+ "updated": 1794622866,
+ "pending_since": 1794622846.6920135,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
