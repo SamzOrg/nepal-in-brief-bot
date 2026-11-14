@@ -1612,7 +1612,8 @@
   "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWGxmU3hUTTc3RzJ0MXpzMTY2cDFWSEY2RXEyTkhHRVd2aDZOOElPaEw2aFBPd3dtaHZseEdERmpGVWNDUDZ6eVFZZ05vd2RrRG5TMXhOWGFSTVRMZVZjTmVjMHNHWmhuRno2NkFoc213R2FLQ2M2WlFhOWJiOWVyUnZabXNHLU1jcTN0UUFHVWFQd2J2QjhMWlJHRk1GLUxIZXFrZW5USG1JOHE1N0M0?oc=5": 1794692447.6671977,
   "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeFFKTkVyR1J4Rk1Bd2dqZW12bW1XUjFaLVc4dFRVVjY1ZkY5SUFnMF9kZ25Ld3BUa0I4dUpBTXpCVklvX0I5LUY5aFdQaWxaRFVkX2ZMNVdHRFl3Rk1tZGI1UHJYQ2xLbExoQ1luM1FFVUFTRmpESUh4UUhLd1k1a3E1WGxrSlAyd2QwMVJ5bEJhYTNuWF9PZ2o4MjdPcjZIWHBSNDhWU0p5U1h0WmZGR1dELWJGeER2YkxR?oc=5": 1794692447.6671977,
   "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQUx5VThSZnBKTXlCYmwxQnEySnZKcGI2UC04SXB0cG0yelpBM0ZXMnM1Z0tVVGtSWlJHSUtMUnk4NzNQSHJVVEFBYzg1YkNKMEhtY25INWpyRTQxbGhTSm90azNodHBLaVNQM1NjUWc2Qm83bVc0RTF6MTlGYmx6X3RJVmpRWWlBclVJVUpTQzlGTG8tTDVFMFNLRjlYb2d6RFRyM1J3SEY1Njk2c1lKNGdIaFp5N3c?oc=5": 1794694251.7346342,
-  "http://english.ratopati.com/story/86682/portugal-defeated-4-1-by-denmark-in-the-nations-league": 1794694847.1903467
+  "http://english.ratopati.com/story/86682/portugal-defeated-4-1-by-denmark-in-the-nations-league": 1794694847.1903467,
+  "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOVFSM1hOeEw3WFZjZG44MmY0cEtKTjZDT29OaV94aERCenF2UWZYUldsWnhsd21ubnZabGU0ZzJuT2ttZllEeVpwdW1kQVIzb01VdzgwcFdKWTFDNXlPX3hacktBTzZiR0xRNjRaYnZZMnRhYkNydXVvUk1LeUplZW03Y3ZfNm5JUU9MdHBEb2w0V3dSMjJnVm1VQUEtTEtOSGRhRl9Ec0hrZDhrVEtwblFzTjNGZlZlVDZCRVA1RlBPZw?oc=5": 1794695465.3522818
  },
  "queue": [
   {
@@ -2266,20 +2267,32 @@
    "val": 3,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "4.9 Magnitude Earthquake with epicentre in Nepal shakes Darjeeling & adjoining areas of North Bengal",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOVFSM1hOeEw3WFZjZG44MmY0cEtKTjZDT29OaV94aERCenF2UWZYUldsWnhsd21ubnZabGU0ZzJuT2ttZllEeVpwdW1kQVIzb01VdzgwcFdKWTFDNXlPX3hacktBTzZiR0xRNjRaYnZZMnRhYkNydXVvUk1LeUplZW03Y3ZfNm5JUU9MdHBEb2w0V3dSMjJnVm1VQUEtTEtOSGRhRl9Ec0hrZDhrVEtwblFzTjNGZlZlVDZCRVA1RlBPZw?oc=5",
+   "source": "News On AIR",
+   "ts": 1794695238,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "4.9 Magnitude Earthquake with epicentre in Nepal shakes Darjeeling & adjoining areas of North Bengal",
+   "en": "4.9 Magnitude Earthquake with epicentre in Nepal shakes Darjeeling & adjoining areas of North Bengal",
+   "ne": "4.9 Magnitude Earthquake with epicentre in Nepal shakes Darjeeling & adjoining areas of North Bengal",
+   "imp": 2,
+   "tags": [
+    "Earthquake",
+    "Nepal",
+    "Darjeeling"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1794090064.9890702,
-   "en": "Nepal Premier League 2026 Points Table",
-   "ne": "Nepal Premier League 2026 Points Table",
-   "link": "https://www.cricbuzz.com/cricket-series/13430/nepal-premier-league-2026/points-table",
-   "source": "Cricbuzz",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "sports"
-  },
   {
    "ts": 1794091859.639942,
    "en": "Nepal urged to revive stalled transitional justice process: UN expert",
@@ -5273,7 +5286,7 @@
    "cat": "politics"
   }
  ],
- "updated": 1794694869,
+ "updated": 1794695471,
  "pending_since": 1794694847.1903467,
  "fb_blocks": [
   1790350880.4125228,
