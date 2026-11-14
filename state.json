@@ -1,19 +1,5 @@
 {
  "seen": {
-  "https://www.setopati.com/social/402418": 1794453649.0553284,
-  "https://baahrakhari.com/detail/507112": 1794453649.0553284,
-  "https://nagariknews.nagariknetwork.com/sports/npl-two-matches-taking-place-today-20-57.html": 1794453649.0553284,
-  "https://english.onlinekhabar.com/wild-elephants-alert-bahundangi.html": 1794453649.0553284,
-  "https://gorkhapatraonline.com/news/228863": 1794453649.0553284,
-  "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSjlxU1pVamxvYzBCd1BjNFAxRkwxZDAweVpXU0FoZ1NPY0VpZGhnZGJxLVd4R1JNakFZckNVUmVUWkRoNXhnaDBYTG95VWFCTUtzczBBaDZYWERnNnE1ZUE0aUxiRFJtOWFJb2tDMjhDNzhsX3Rxb0szZDd2YWRkQm1pZlRSTDd2OXlJczBER0NSNHVOYmE5bTczZklFd2hrYjlTbVItUm13cGJlTFJTcGZZY3E1Um9WSDlNM2pGTGFXODA4alA4cjN3?oc=5": 1794453649.0553284,
-  "https://nagariknews.nagariknetwork.com/international/trump-on-iran-war-we-want-total-victory-not-93-percent-86-41.html": 1794453649.0553284,
-  "https://gorkhapatraonline.com/news/228862": 1794453649.0553284,
-  "https://nagariknews.nagariknetwork.com/social-affairs/ev-high-speed-accident-in-makawanpur-10-dead-five-injured-45-36.html": 1794453649.0553284,
-  "https://nagariknews.nagariknetwork.com/social-affairs/wild-elephant-scare-in-bahundangi-security-alert-high-in-border-area-br-41-53.html": 1794453649.0553284,
-  "https://nagariknews.nagariknetwork.com/social-affairs/jeep-accident-in-pokhara-one-dead-12-injured-br-20-40.html": 1794453649.0553284,
-  "https://nagariknews.nagariknetwork.com/social-affairs/passenger-ev-falls-500-meters-off-road-in-makawanpur-38-31.html": 1794453649.0553284,
-  "https://nagariknews.nagariknetwork.com/social-affairs/kantital-due-to-lack-of-protection-br-95-54.html": 1794453649.0553284,
-  "https://nagariknews.nagariknetwork.com/social-affairs/campaigner-harjit-singh-s-anger-towards-developed-countries-after-mountain-issue-not-included-in-cop-31-s-formal-agenda-br-51-80.html": 1794453649.0553284,
   "https://gorkhapatraonline.com/news/228864": 1794454269.9435384,
   "https://risingnepaldaily.com/news/88550": 1794454269.9435384,
   "https://nagariknews.nagariknetwork.com/politics/top-bahadur-rayamajhi-released-from-prison-89-60.html": 1794454269.9435384,
@@ -1590,7 +1576,8 @@
   "https://gorkhapatraonline.com/news/229004": 1794624648.270645,
   "https://gorkhapatraonline.com/news/229009": 1794625278.4032764,
   "http://english.ratopati.com/story/86542/nepals-emphasis-on-strengthening-the-social-security-system": 1794625849.9842172,
-  "https://www.ujyaaloonline.com/detail/133468": 1794626447.5509043
+  "https://www.ujyaaloonline.com/detail/133468": 1794626447.5509043,
+  "https://news.google.com/rss/articles/CBMivwFBVV95cUxNekdLZXN2MlExTGF6dkdNeGk2MEExMEdHNWNGX1dRcHZDTnZZMkNpMmtqaGdmZ1JRdHhzNnpieDY4UzhDMzRTTXBCbHhFUkRXTmxId29CWlloMVo3akl0cnl1NjM4VWdtQ0xsV0RzWlRaWnJ3My0xY2lidmR3REFFUEdVa1V3d2V4WUVRTUIwT2ltdDJOd3dwSEdhdXlNMEJvV2lCZ1VNMGVuRlVGZC1wMzRTM2RkbHFNc2dKTmNUSQ?oc=5": 1794627067.0316052
  },
  "queue": [
   {
@@ -2890,7 +2877,7 @@
    "cat": "society",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "A photographer's personal journey through Banaras",
@@ -3032,17 +3019,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1794021658.5220895,
-   "en": "JICA begins BP Highway reconstruction in Sindhuli as Kavre work progresses",
-   "ne": "JICA begins BP Highway reconstruction in Sindhuli as Kavre work progresses",
-   "link": "https://english.khabarhub.com/2026/07/574779/",
-   "source": "Khabarhub EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "economy"
-  },
   {
    "ts": 1794023457.8634508,
    "en": "Nepal Premier League: Lumbini Lions face Kathmandu Gurkhas on Saturday at TU Ground",
@@ -6014,7 +5990,7 @@
    "cat": "culture"
   }
  ],
- "updated": 1794626471,
+ "updated": 1794627072,
  "pending_since": 1794625278.4032764,
  "fb_blocks": [
   1790350880.4125228,
