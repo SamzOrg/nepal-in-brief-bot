@@ -1,9 +1,5 @@
 {
  "seen": {
-  "https://www.setopati.com/social/402417": 1794452481.0190747,
-  "https://www.ujyaaloonline.com/detail/133408": 1794452481.0190747,
-  "https://theannapurnaexpress.com/story/68682": 1794452481.0190747,
-  "https://english.onlinekhabar.com/microbus-accident-makwanpur.html": 1794452481.0190747,
   "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVGZWTF90T2dlT3FOM2VrcHY1MzA2RHFJVjQzVXBwSlB6R05WUzB6dzZfTDhqOHdQcXlLTGJRWlNoemM4MXB6VmZMVlNDdzkzS2tUQV9VTDAzTVlEM3lqNnBzb21GNjBaZnRzemF6V1lKMEl4QTRsMUpQVmRZcktwdFNXdG1Jcmxrc3NiT21lWlhLOWJKeHRBQzRJRGxpOTBvVHhlSjhCREJTQ2c?oc=5": 1794453582.9514194,
   "http://english.ratopati.com/story/86302/why-is-the-deadline-for-nepals-upgrading-being-extended-repeatedly": 1794453582.9514194,
   "https://baahrakhari.com/detail/507111": 1794453582.9514194,
@@ -1597,32 +1593,10 @@
   "https://gorkhapatraonline.com/news/229006": 1794624648.270645,
   "https://gorkhapatraonline.com/news/229005": 1794624648.270645,
   "https://gorkhapatraonline.com/news/229004": 1794624648.270645,
-  "https://gorkhapatraonline.com/news/229009": 1794625278.4032764
+  "https://gorkhapatraonline.com/news/229009": 1794625278.4032764,
+  "http://english.ratopati.com/story/86542/nepals-emphasis-on-strengthening-the-social-security-system": 1794625849.9842172
  },
  "queue": [
-  {
-   "title": "Nepal: Janjatiya Gaurav Diwas celebrated in Kathmandu",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOUdjTkVMelE4WVhtbFBBcE5FRjdORGRXNmx0SWFuMFFfTWRMNU8xN3hKUVVabFd6Y0N5RzNfdlJvaW4ySzVlVVFBUEtEYWg1M1FMM3dFVEhYc2lEOGN0T0ptYW9KOHdzUkY3NXppREtza2R4WTZrVFV0N0dLeGRlWk5BSEM?oc=5",
-   "source": "News On AIR",
-   "ts": 1794596962,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Nepal: Janjatiya Gaurav Diwas celebrated in Kathmandu",
-   "en": "Nepal: Janjatiya Gaurav Diwas celebrated in Kathmandu",
-   "ne": "Nepal: Janjatiya Gaurav Diwas celebrated in Kathmandu",
-   "imp": 2,
-   "tags": [
-    "JanjatiyaGauravDiwas",
-    "Kathmandu",
-    "जनजाति"
-   ],
-   "cat": "culture",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
   {
    "title": "गोठमा गोरु नहुँदा खल्लो बन्यो पूजा",
    "summary": "काठमाडौँ, कात्तिक २८ गते । कुनै समय सिन्धुपाल्चोकको इन्द्रावती गाउँपालिकाका रामकाजी श्रेष्ठको घरमा दुई हल गोरु थिए । ठुलो खेतीपाती भएकाले एक हल बेँसीमा र अर्को हल गाउँको गोठमा बाँध...",
@@ -6078,7 +6052,7 @@
    "cat": "politics"
   }
  ],
- "updated": 1794625282,
+ "updated": 1794625854,
  "pending_since": 1794625278.4032764,
  "fb_blocks": [
   1790350880.4125228,
