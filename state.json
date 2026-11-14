@@ -1,6 +1,5 @@
 {
  "seen": {
-  "http://english.ratopati.com/story/86296/biratnagar-and-karnali-want-to-return-to-winning-ways-pokhara-has-a-chance-to-maintain-the-momentum": 1794442253.7752156,
   "https://english.khabarhub.com/2026/12/575079/": 1794442848.7067351,
   "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQN3lxRmt2ajY4bVVFWXhvcnVqeFY5TVlHcHM2Wnlab3FqNUNTTU9aY1ZuRWZ3M2VVdHlINUxkTGkwOXF4SEVVOWtpSllPTmFqb2hxYzBzVWthajZRR2NCX3EwdWRxTndPSjVxUUY0ZGJ1SXNJLWVaMFMtczloYkNtbENKcHBnaEpoVDgyYlZwMVcwemZ2T1Ewem5fRC1zMUFMZ2dfMXQwWlJKSk5SMGZ6Y2lBNFRaWkFmQngxSGpocDNFX1paV3NVVnhOQWJNa0lzbnV1OTQyVQ?oc=5": 1794442848.7067351,
   "https://www.ujyaaloonline.com/detail/133400": 1794443469.1975071,
@@ -1566,29 +1565,6 @@
  },
  "queue": [
   {
-   "title": "Nepal News Briefing: Flood Victims Await Relief, Weather Forecast, Public Holidays, Judicial Appointments, EV Safety Concerns, Ambassadorial Updates, and More",
-   "summary": "Kathmandu. Today is Friday, Kartik 27, 2083 BS. We are here with the main events of the day and '10...",
-   "link": "http://english.ratopati.com/story/86525/19-days-in-the-month-of-kartik-from-public-holidays-to-bad-weather-from-sundays",
-   "source": "Ratopati EN",
-   "ts": 1794586566,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/bbb_g5fWGnQnaJ.webp",
-   "lang": "en",
-   "hl": "Nepal News Briefing: Flood Victims Await Relief, Weather Forecast, Public Holidays, Judicial Appointments, EV Safety Concerns, Ambassadorial Updates, and More",
-   "en": "Nepal News Briefing: Flood Victims Await Relief, Weather Forecast, Public Holidays, Judicial Appointments, EV Safety Concerns, Ambassadorial Updates, and More",
-   "ne": "Nepal News Briefing: Flood Victims Await Relief, Weather Forecast, Public Holidays, Judicial Appointments, EV Safety Concerns, Ambassadorial Updates, and More",
-   "imp": 2,
-   "tags": [
-    "NepalNews",
-    "NewsBriefing",
-    "समाचार"
-   ],
-   "cat": "other",
-   "val": 1,
-   "teaser": true,
-   "hits": 2
-  },
-  {
    "title": "NMKP Chairman Bijukchhen Stresses Need to Inform New Generation About History and Struggles",
    "summary": "Bhaktapur. Nepal Majdoor Kisan Party Chairman Narayanman Bijukchhen has pointed out the need to inform the new generation about history,...",
    "link": "http://english.ratopati.com/story/86528/the-new-generation-should-be-informed-about-the-struggles-of-the-elders-chairman-bijukchhe",
@@ -1882,29 +1858,6 @@
    ],
    "cat": "culture",
    "val": 1,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Indian envoy calls on Nepal foreign secy; discusses bilateral ties",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUEtCdHNGWDlRT2lUaXdFc3BNVE9VS241QV8yZHRiVi1Rb1h6dVpVNnV0NHRLZ0Q3c0xIQjRLVl94X0twQzRqVm56cWl1X1Y0bGtrZDUzREhYNWEwbFBFZW9NWnZ1bHpjc3lWWDZoWTlVTTVDWGh1QWkyZWhiajFvZUt6Yzk0UEVEY1RRQ1g1SGhPRHNBVjI4aHJTRzl4QdIBogFBVV95cUxNbkNpMGp0emlDaWt0azl5bG1XT1I0NHpmTzVMN1lkY21YUHZEQXpZaGVUUG9tdVN4ZXd3UUE5MDlCMFU4cmEyVUtGeEhzbktxekhOMHZvTzVZX3VqYTlUWHM4bF9HSXlNQ0pNZ2U0YVRKaFJuaUYwUm1pRGpQN3VZZ1ZZWGh6aXMxcEhyQi03QXo2QXZKX0c5XzR2MTNkWWdpb3c?oc=5",
-   "source": "Daily Excelsior",
-   "ts": 1794609596,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Indian envoy calls on Nepal foreign secy; discusses bilateral ties",
-   "en": "Indian envoy calls on Nepal foreign secy; discusses bilateral ties",
-   "ne": "Indian envoy calls on Nepal foreign secy; discusses bilateral ties",
-   "imp": 3,
-   "tags": [
-    "India",
-    "ForeignSecretary",
-    "Diplomacy"
-   ],
-   "cat": "politics",
-   "val": 3,
    "teaser": false,
    "hits": 1
   },
@@ -4902,9 +4855,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "disaster"
+  },
+  {
+   "ts": 1794615656.723004,
+   "en": "Indian Ambassador Sudhakar Dalela Meets Nepal Foreign Secretary Amrit Bahadur Rai in Kathmandu",
+   "ne": "Indian Ambassador Sudhakar Dalela Meets Nepal Foreign Secretary Amrit Bahadur Rai in Kathmandu",
+   "link": "https://www.dailyexcelsior.com/indian-envoy-calls-on-nepal-foreign-secy-discusses-bilateral-ties/",
+   "source": "Daily Excelsior",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "politics"
   }
  ],
- "updated": 1794615051,
+ "updated": 1794615667,
  "pending_since": 1794614481.045678,
  "fb_blocks": [
   1790350880.4125228,
