@@ -1599,7 +1599,8 @@
   "https://baahrakhari.com/detail/507277": 1794631249.455191,
   "https://gorkhapatraonline.com/news/229018": 1794631249.455191,
   "https://nagariknews.nagariknetwork.com/social-affairs/employers-must-deposit-workers-regular-contributions-to-the-social-security-fund-37-39.html": 1794631249.455191,
-  "https://nagariknews.nagariknetwork.com/arts/neighbor-br-10-11.html": 1794631249.455191
+  "https://nagariknews.nagariknetwork.com/arts/neighbor-br-10-11.html": 1794631249.455191,
+  "http://english.ratopati.com/story/86557/a-window-into-the-intricacies-of-school-education-35-years-in-the-classroom": 1794631848.0262024
  },
  "queue": [
   {
@@ -3654,29 +3655,6 @@
    ],
    "cat": "sports",
    "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Disaster Preparedness Saves Lives in Nepal Floods",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUXphRnVIVmZUVE9lenc2elNGZ0VJYXRaWVI0dm5aMXNzVC1LeDY4ajlkOFNQRGFyM1ZlOTNEX0c2empUUHNTOUctaFBGZV9uZ1pCalZjWnEyZ0VQN1VadlFYdFh6bDFWT0tGYzZpVEtBOHQyX1dtcTR0bWtWcUhkZnh1NmpSMWM?oc=5",
-   "source": "unicef usa",
-   "ts": 1794626077,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Disaster Preparedness Saves Lives in Nepal Floods",
-   "en": "Disaster Preparedness Saves Lives in Nepal Floods",
-   "ne": "Disaster Preparedness Saves Lives in Nepal Floods",
-   "imp": 4,
-   "tags": [
-    "NepalFloods",
-    "DisasterPreparedness",
-    "बाढी"
-   ],
-   "cat": "disaster",
-   "val": 2,
    "teaser": false,
    "hits": 1
   },
@@ -7083,10 +7061,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "world"
+  },
+  {
+   "ts": 1794631853.138461,
+   "en": "Disaster Preparedness Saves Lives in Nepal Floods",
+   "ne": "Disaster Preparedness Saves Lives in Nepal Floods",
+   "link": "https://www.unicefusa.org/stories/disaster-preparedness-saves-lives-nepal-floods",
+   "source": "unicef usa",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "disaster"
   }
  ],
- "updated": 1794631256,
- "pending_since": null,
+ "updated": 1794631866,
+ "pending_since": 1794631848.0262024,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
