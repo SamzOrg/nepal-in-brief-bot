@@ -1,9 +1,5 @@
 {
  "seen": {
-  "https://www.setopati.com/social/402440": 1794478257.6526875,
-  "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOHZlSFhkR2ZPMzBsbWJ5MU1Ua2k0Mk5vZV9vTWM0d0tpcnhyd2NIeEgyZlYzeS1IVzdLaUhySlNpZ3dVb1pZT0dMdDRkSGFCUnVJb0oxbnZyOGg3VGRLd1ZNelNBUHQ4SnU3RXg1R2lNNFkxdE45OXVyWURSQ1UwNXhzTnFzUzNtTGRQZVctRW83YTgtbU1KME5OZXUzUlBC?oc=5": 1794478257.6526875,
-  "https://theannapurnaexpress.com/story/68701": 1794478257.6526875,
-  "https://kathmandupost.com/national/2026/11/12/11-of-13-killed-in-makawanpur-microbus-crash-identified": 1794478257.6526875,
   "https://www.setopati.com/sports/npl/402441": 1794479477.4805603,
   "https://nagariknews.nagariknetwork.com/sports/pokhara-eliminated-from-npl-biratnagar-s-playoff-chances-strong-18-29.html": 1794479477.4805603,
   "https://baahrakhari.com/detail/507143": 1794479477.4805603,
@@ -1559,7 +1555,8 @@
   "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZW5oMUotN1lKR2hKQTE2aEsyb1RtQWpDMmswOHQ2UHNYQW04elZVSXVaMmViLVVxbTZsTmtoczhlUkhyWWtqdzlRem9TNXVRUFNmazJMd1NDWHNUbWdOZFBKLXV3Tk43Vm1ZS3laZ3F5MjgweHNyN2VkUENkVWdMREtCb0J0QQ?oc=5": 1794651051.0484643,
   "https://nagariknews.nagariknetwork.com/politics/nepal-s-push-to-bring-himalayan-issues-into-the-mainstream-of-global-climate-talks-65-78.html": 1794651051.0484643,
   "http://english.ratopati.com/story/86623/jitjungs-attack-on-gagan-and-bishwaprakash-demand-to-investigate-ngo-connections-and-financial-irregularities": 1794651051.0484643,
-  "http://english.ratopati.com/story/86626/five-people-die-in-road-accidents-in-four-districts-including-bhaktapur": 1794651051.0484643
+  "http://english.ratopati.com/story/86626/five-people-die-in-road-accidents-in-four-districts-including-bhaktapur": 1794651051.0484643,
+  "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQVhHWEdBQnlmU00xYkgxQkJKWjVGQTBkZnA0eTZQZ3VJY056dEh2aDBkVnd0cnhBMHgtZ3hSbDhYNzhPRy01cnQzb2dabUhwSVdsaGZNSk1aWHFvQmpKZEpkZnJxRks0NWRSN3JRdmVraVpWTFpFa29QeE13aFRiWmJKR0dtU2RjS092Zm1Fa1lFRzJ3ZXBfcDNrdVR5Wnk1SW1sMG5NNEFZd3ZyXzJyX3d3?oc=5": 1794651212.9122179
  },
  "queue": [
   {
@@ -1652,30 +1649,6 @@
    "val": 3,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "विश्व मधुमेह दिवसमा अल्का अस्पतालको जनचेतनामूलक र्‍याली",
-   "summary": "अल्का अस्पतालबाट सुरु भएको र्‍याली जावलाखेल, कुमारीपाटी, मंगलबजार हुँदै पुल्चोक पुगेको थियो।",
-   "link": "https://www.setopati.com/social/402534",
-   "source": "Setopati",
-   "ts": 1794622380,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "विश्व मधुमेह दिवसमा अल्का अस्पतालको जनचेतनामूलक र्‍याली",
-   "en": "विश्व मधुमेह दिवसमा अल्का अस्पतालको जनचेतनामूलक र्‍याली",
-   "ne": "विश्व मधुमेह दिवसमा अल्का अस्पतालको जनचेतनामूलक र्‍याली",
-   "imp": 3,
-   "tags": [
-    "AlkaHospital",
-    "WorldDiabetesDay",
-    "Rally",
-    "अल्काअस्पताल"
-   ],
-   "cat": "health",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "इतिहासको गर्भमा अम्बासगढी",
@@ -5331,29 +5304,6 @@
    "val": 2,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "Five Dead in Separate Road Accidents Across Nepal",
-   "summary": "Kathmandu. Five people have died in separate road accidents in various places in the districts of Bhaktapur, Nuwakot, Kaski, and...",
-   "link": "http://english.ratopati.com/story/86626/five-people-die-in-road-accidents-in-four-districts-including-bhaktapur",
-   "source": "Ratopati EN",
-   "ts": 1794650882,
-   "weight": 2,
-   "img": "https://rpcdn.ratopati.com/media/albums/bike-accident_bIiKUr8yFw.jpg",
-   "lang": "en",
-   "hl": "Five Dead in Separate Road Accidents Across Nepal",
-   "en": "Five Dead in Separate Road Accidents Across Nepal",
-   "ne": "Five Dead in Separate Road Accidents Across Nepal",
-   "imp": 4,
-   "tags": [
-    "RoadAccident",
-    "Nepal",
-    "सवारीदुर्घटना"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
   }
  ],
  "posted": [
@@ -8326,9 +8276,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "politics"
+  },
+  {
+   "ts": 1794651222.5313609,
+   "en": "Five Dead in Separate Road Accidents Across Bhaktapur, Nuwakot, Kaski, and Udaypur",
+   "ne": "Five Dead in Separate Road Accidents Across Bhaktapur, Nuwakot, Kaski, and Udaypur",
+   "link": "http://english.ratopati.com/story/86626/five-people-die-in-road-accidents-in-four-districts-including-bhaktapur",
+   "source": "Ratopati EN",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": true,
+   "cat": "disaster"
   }
  ],
- "updated": 1794651054,
+ "updated": 1794651235,
  "pending_since": 1794651051.0484643,
  "fb_blocks": [
   1790350880.4125228,
