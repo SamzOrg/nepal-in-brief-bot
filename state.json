@@ -1,10 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVGZWTF90T2dlT3FOM2VrcHY1MzA2RHFJVjQzVXBwSlB6R05WUzB6dzZfTDhqOHdQcXlLTGJRWlNoemM4MXB6VmZMVlNDdzkzS2tUQV9VTDAzTVlEM3lqNnBzb21GNjBaZnRzemF6V1lKMEl4QTRsMUpQVmRZcktwdFNXdG1Jcmxrc3NiT21lWlhLOWJKeHRBQzRJRGxpOTBvVHhlSjhCREJTQ2c?oc=5": 1794453582.9514194,
-  "http://english.ratopati.com/story/86302/why-is-the-deadline-for-nepals-upgrading-being-extended-repeatedly": 1794453582.9514194,
-  "https://baahrakhari.com/detail/507111": 1794453582.9514194,
-  "https://news.google.com/rss/articles/CBMieEFVX3lxTE9LMVh5cEt1TVNFNkZjYjAxaHRCOXZaQ3FGN1V3a19VMnhqaWptV3NMTFNlazl4MkJkdUpKbXJmQzNhbFpKbS1zZm15MmVrSGFMdHQwLWJlZTJIeGRSZ2pGT2xoemtYbjNSamNrRjZjR0VOMzd3aG9oTg?oc=5": 1794453582.9514194,
-  "https://www.setopati.com/social/402415": 1794453582.9514194,
   "https://www.setopati.com/social/402418": 1794453649.0553284,
   "https://baahrakhari.com/detail/507112": 1794453649.0553284,
   "https://nagariknews.nagariknetwork.com/sports/npl-two-matches-taking-place-today-20-57.html": 1794453649.0553284,
@@ -1594,7 +1589,8 @@
   "https://gorkhapatraonline.com/news/229005": 1794624648.270645,
   "https://gorkhapatraonline.com/news/229004": 1794624648.270645,
   "https://gorkhapatraonline.com/news/229009": 1794625278.4032764,
-  "http://english.ratopati.com/story/86542/nepals-emphasis-on-strengthening-the-social-security-system": 1794625849.9842172
+  "http://english.ratopati.com/story/86542/nepals-emphasis-on-strengthening-the-social-security-system": 1794625849.9842172,
+  "https://www.ujyaaloonline.com/detail/133468": 1794626447.5509043
  },
  "queue": [
   {
@@ -1616,29 +1612,6 @@
    ],
    "cat": "culture",
    "val": 1,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Nepal and Bhutan's final diplomatic push to establish mountain issues at COP31",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcVpaeWV4VWhkRlBzdUpwSU4tUWZNVlNHVVlscVkyek1KTzdXa05ZM1MyMmlMTmZpVVlwQng3WExUVDFsbGFaQUkyaTVfaW1zMVoxRS13bS10U2pPdXlhTGZRazRNS3VaOE5BdFlqUE9TMFBjMWJ5SHpuWlgtTzAzUnotUHlZLUNqX1JmQjItRHVQMTJFVk9RelI5cmRyV2ROSUZCZmhXU3cxbmh3WVY2aG0yT3ZuVkRPOU1oOVV2S0R6eURkZzlVcUVJZFdrQ3J5?oc=5",
-   "source": "Ekantipur",
-   "ts": 1794597090,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Nepal and Bhutan's final diplomatic push to establish mountain issues at COP31",
-   "en": "Nepal and Bhutan's final diplomatic push to establish mountain issues at COP31",
-   "ne": "Nepal and Bhutan's final diplomatic push to establish mountain issues at COP31",
-   "imp": 3,
-   "tags": [
-    "Nepal",
-    "Bhutan",
-    "COP31"
-   ],
-   "cat": "politics",
-   "val": 3,
    "teaser": false,
    "hits": 1
   },
@@ -2665,28 +2638,6 @@
    "val": 2,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "छठ पर्वको दोस्रो दिन आज 'खरना'",
-   "summary": "आज दिनभरि उपवास गर्ने बर्तालुले सूर्यास्तपछि चन्द्रदर्शन गरेर यो विधि सम्पन्न गर्नेछन्।",
-   "link": "https://www.setopati.com/social/402532",
-   "source": "Setopati",
-   "ts": 1794621120,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "छठ पर्वको दोस्रो दिन आज 'खरना'",
-   "en": "छठ पर्वको दोस्रो दिन आज 'खरना'",
-   "ne": "छठ पर्वको दोस्रो दिन आज 'खरना'",
-   "imp": 3,
-   "tags": [
-    "Chhath",
-    "Kharna"
-   ],
-   "cat": "culture",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "Whispers Of Mountains",
@@ -6050,9 +6001,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "politics"
+  },
+  {
+   "ts": 1794626455.1934555,
+   "en": "मिथिला क्षेत्रमा छठ पर्वको दोस्रो दिन आज 'खरना' विधि गरिँदै",
+   "ne": "मिथिला क्षेत्रमा छठ पर्वको दोस्रो दिन आज 'खरना' विधि गरिँदै",
+   "link": "https://www.setopati.com/social/402532",
+   "source": "Setopati",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "culture"
   }
  ],
- "updated": 1794625854,
+ "updated": 1794626471,
  "pending_since": 1794625278.4032764,
  "fb_blocks": [
   1790350880.4125228,
