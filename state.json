@@ -1615,51 +1615,6 @@
  },
  "queue": [
   {
-   "title": "US Nationwide Flight Operations Halted Due to Technical Glitch in Air Traffic Control System",
-   "summary": "Washington DC. Nationwide flight operations in America have been halted due to a technical problem in the air traffic control...",
-   "link": "http://english.ratopati.com/story/86639/air-travel-ban-in-the-us-what-was-the-reason",
-   "source": "Ratopati EN",
-   "ts": 1794654503,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/usa-flight-disruption_szE0VtfT1H.webp",
-   "lang": "en",
-   "hl": "US Nationwide Flight Operations Halted Due to Technical Glitch in Air Traffic Control System",
-   "en": "US Nationwide Flight Operations Halted Due to Technical Glitch in Air Traffic Control System",
-   "ne": "US Nationwide Flight Operations Halted Due to Technical Glitch in Air Traffic Control System",
-   "imp": 1,
-   "tags": [
-    "AirTrafficControl",
-    "FlightOperations"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "पुलिस धेरै उत्ताउलिएको थियो, अहिले दुई भागमा बाँडियो : ओली",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/507301",
-   "source": "Baahrakhari",
-   "ts": 1794654381,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "पुलिस धेरै उत्ताउलिएको थियो, अहिले दुई भागमा बाँडियो : ओली",
-   "en": "पुलिस धेरै उत्ताउलिएको थियो, अहिले दुई भागमा बाँडियो : ओली",
-   "ne": "पुलिस धेरै उत्ताउलिएको थियो, अहिले दुई भागमा बाँडियो : ओली",
-   "imp": 3,
-   "tags": [
-    "KPSharmaOli",
-    "CPNUML",
-    "राजनीति"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Lumbini wins toss, opt for ball",
    "summary": "By TRN Online, Kathmandu, Nov 14: Lumbini lions won toss and elected to ball first in the Nepal Premier League (NPL) Sea...",
    "link": "https://risingnepaldaily.com/news/88608",
@@ -6569,8 +6524,8 @@
    "cat": "accident"
   }
  ],
- "updated": 1794682881,
- "pending_since": 1794682878.580127,
+ "updated": 1794683464,
+ "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
