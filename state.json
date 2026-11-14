@@ -1617,29 +1617,6 @@
  },
  "queue": [
   {
-   "title": "सरकार रहस्यमय ढङ्गले चलेको छ: पूर्ण बस्नेत",
-   "summary": "जनता समाजवादी पार्टी (जसपा) नेपालका नेता पूर्ण बस्नेतले बालेन्द्र शाह नेतृत्वको सरकार रहस्यमय ढङ्गले चलेको टिप्पणी गरेका छन् ।...",
-   "link": "https://nagariknews.nagariknetwork.com/politics/the-government-is-operating-in-a-mysterious-manner-purna-basnet-68-74.html",
-   "source": "Nagarik News",
-   "ts": 1794667318,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1794667308_purna%20basnet11.png",
-   "lang": "ne",
-   "hl": "सरकार रहस्यमय ढङ्गले चलेको छ: पूर्ण बस्नेत",
-   "en": "सरकार रहस्यमय ढङ्गले चलेको छ: पूर्ण बस्नेत",
-   "ne": "सरकार रहस्यमय ढङ्गले चलेको छ: पूर्ण बस्नेत",
-   "imp": 3,
-   "tags": [
-    "MaheshBasnet",
-    "Politics",
-    "राजनीति"
-   ],
-   "cat": "politics",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Climate Justice Banner Displayed During Cricket Match",
    "summary": "Kathmandu. A banner with 'Climate Justice' written on it was displayed in the spectator stands during the ongoing cricket match...",
    "link": "http://english.ratopati.com/story/86668/a-message-of-climate-justice-from-the-cricket-field-climate-justice-banner-in-the-stands",
@@ -2150,30 +2127,6 @@
    "val": 3,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "Nepal Telecom earns profits of Rs 1.82 billion, a 37 percent rise in Q1",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcVRBSzNjTkxycmJDNEQyZzZvYVNIOE1oa1ZkYjFEbDU0eDVoa2w1SE5Jczg1QWZ4dVN5VEx0Vko5Q0JSNzBwd2paekdvRkwtUHhWc3p3NWhxNVJEUmo5czdwSzgwYkJyZ0szQ2U1b01WYVFUN1pBbWFvWjNJQ1d1T2hObE5pOEdyalJnM2ZJbkRUa05FZUtZd3hVS3JlSWp2bU53ZjZUX05BaEZzY0hGUFU0TmduaHRRQXpTZk9mN2owTFBBMlZ6QS1uVVY?oc=5",
-   "source": "myRepublica",
-   "ts": 1794677254,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Nepal Telecom earns profits of Rs 1.82 billion, a 37 percent rise in Q1",
-   "en": "Nepal Telecom earns profits of Rs 1.82 billion, a 37 percent rise in Q1",
-   "ne": "Nepal Telecom earns profits of Rs 1.82 billion, a 37 percent rise in Q1",
-   "imp": 3,
-   "tags": [
-    "NepalTelecom",
-    "Profit",
-    "Economy",
-    "नेपालटेलिकम"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "Nepal Cricket Team matches, scorecards, news and statistics",
@@ -5261,9 +5214,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "politics"
+  },
+  {
+   "ts": 1794696651.9918509,
+   "en": "Nepal Telecom Q1 Net Profit Rises 37.35 Percent to Rs 1.82 Billion",
+   "ne": "Nepal Telecom Q1 Net Profit Rises 37.35 Percent to Rs 1.82 Billion",
+   "link": "https://www.myrepublica.nagariknetwork.com/amp/news/nepal-telecom-earns-profits-of-rs-182-billion-a-37-percent-rise-in-q1-32-82.html",
+   "source": "myRepublica",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "economy"
   }
  ],
- "updated": 1794696058,
+ "updated": 1794696667,
  "pending_since": 1794694847.1903467,
  "fb_blocks": [
   1790350880.4125228,
