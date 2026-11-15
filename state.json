@@ -1,6 +1,5 @@
 {
  "seen": {
-  "http://english.ratopati.com/story/86517/chitwan-lost-3-wickets": 1794576671.5422363,
   "https://english.khabarhub.com/2026/13/575480/": 1794577253.860061,
   "https://nagariknews.nagariknetwork.com/social-affairs/home-minister-gurung-departs-for-dubai-to-attend-world-police-summit-76-71.html": 1794577253.860061,
   "https://gorkhapatraonline.com/news/228979": 1794577850.0973015,
@@ -1599,32 +1598,10 @@
   "https://www.setopati.com/kinmel/banking/402645": 1794748250.4089413,
   "https://nagariknews.nagariknetwork.com/sports/karan-kc-s-double-blow-in-the-19th-over-kusal-out-in-99-and-yuvraj-out-in-89-pokhara-209-3-in-19-overs-39-89.html": 1794748250.4089413,
   "https://nagariknews.nagariknetwork.com/Dharma-Saskriti/chhath-celebrated-by-offering-argha-to-the-setting-sun-at-79-places-in-kapilvastu-98-29.html": 1794748250.4089413,
-  "https://nagariknews.nagariknetwork.com/social-affairs/jeep-heading-from-kathmandu-to-rara-meets-with-accident-in-mugu-three-dead-96-29.html": 1794749468.9067295
+  "https://nagariknews.nagariknetwork.com/social-affairs/jeep-heading-from-kathmandu-to-rara-meets-with-accident-in-mugu-three-dead-96-29.html": 1794749468.9067295,
+  "https://kathmandupost.com/money/2026/11/15/nepal-sets-up-accreditation-centre-to-ease-testing-and-certification": 1794750048.5688074
  },
  "queue": [
-  {
-   "title": "Motorcycle Driver Dies in Udaipur Tractor Collision",
-   "summary": "Udaypur. A motorcycle driver has died in a collision between a tractor and a motorcycle in Udaypur. The accident, which...",
-   "link": "http://english.ratopati.com/story/86714/accident",
-   "source": "Ratopati EN",
-   "ts": 1794721098,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/accident1_0hvvweueaj_opitpBEPf3.webp",
-   "lang": "en",
-   "hl": "Motorcycle Driver Dies in Udaipur Tractor Collision",
-   "en": "Motorcycle Driver Dies in Udaipur Tractor Collision",
-   "ne": "Motorcycle Driver Dies in Udaipur Tractor Collision",
-   "imp": 3,
-   "tags": [
-    "Udaipur",
-    "Accident",
-    "Motorcycle"
-   ],
-   "cat": "crime",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
   {
    "title": "बालुवाडाँडादेखि नारायणी तीरसम्म साइकल यात्रा",
    "summary": "बोमलाल गिरीनवलपुर, कात्तिक २९ गते । नवलपुरको पर्यटन प्रवर्द्धन गर्ने उद्देश्यले झण्डै एक सय ५० जनाले आइतबार सामूहिक साइकल यात्रा गरेका छन् ।कावासोती नगरपालिकाको आयोजना र कावासोती स...",
@@ -1718,29 +1695,6 @@
    "hits": 1
   },
   {
-   "title": "खानी, विद्युत र वन तीनै क्षेत्रको रोयल्टी घट्यो, चार महिनामा २७ प्रतिशत कमी",
-   "summary": "खानी तथा खनिज पदार्थ नियमावलीअनुसार खानीबाट निकालिएको खनिजको परिमाणका आधारमा रोयल्टी तिर्नुपर्छ।",
-   "link": "https://www.setopati.com/kinmel/economy/402602",
-   "source": "Setopati",
-   "ts": 1794721020,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "खानी, विद्युत र वन तीनै क्षेत्रको रोयल्टी घट्यो, चार महिनामा २७ प्रतिशत कमी",
-   "en": "खानी, विद्युत र वन तीनै क्षेत्रको रोयल्टी घट्यो, चार महिनामा २७ प्रतिशत कमी",
-   "ne": "खानी, विद्युत र वन तीनै क्षेत्रको रोयल्टी घट्यो, चार महिनामा २७ प्रतिशत कमी",
-   "imp": 3,
-   "tags": [
-    "Royalty",
-    "Economy",
-    "रोयल्टी"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "US Intensifies Diplomatic Efforts to End Russia-Ukraine War",
    "summary": "Washington DC. The United States has intensified diplomatic efforts with the aim of ending the Russia-Ukraine war. US Special Envoy...",
    "link": "http://english.ratopati.com/story/86716/us-diplomatic-efforts-intensify-to-end-russia-ukraine-war",
@@ -1782,75 +1736,6 @@
    ],
    "cat": "politics",
    "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "तमोर कोरिडोरले राँके बजारको व्यापार घटायो",
-   "summary": "तमोर कोरिडोर सडकबाट ताप्लेजुङ जाने यात्रुको सङ्ख्या बढेपछि मेची राजमार्गस्थित पाँचथर-इलाम सीमावर्ती राँके बजारको व्यापार घटेको छ।...",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/tamor-corridor-reduces-business-in-ranke-bazaar-br-76-77.html",
-   "source": "Nagarik News",
-   "ts": 1794720793,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1794721236_sadalk%20news%2098.jpg",
-   "lang": "ne",
-   "hl": "तमोर कोरिडोरले राँके बजारको व्यापार घटायो",
-   "en": "तमोर कोरिडोरले राँके बजारको व्यापार घटायो",
-   "ne": "तमोर कोरिडोरले राँके बजारको व्यापार घटायो",
-   "imp": 2,
-   "tags": [
-    "TamorCorridor",
-    "Business",
-    "Trade"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "उमेरले छेकेन : ८४ वर्षपछिका मेरा पेन्टिङहरू",
-   "summary": "त्यो पुस्तकको प्रकाशनले मलाई थप ऊर्जा दियो। मेरो चित्रकला यात्रा त्यसपछि पनि रोकिएन। त्यसैले ८४ वर्ष कटेपछि बनाएका चित्रहरूको यो शृंखलालाई मैले '८४ पछिका चित्रकलाहरू' नाम दिएको छु।",
-   "link": "https://www.setopati.com/opinion/402582",
-   "source": "Setopati",
-   "ts": 1794720745,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "उमेरले छेकेन : ८४ वर्षपछिका मेरा पेन्टिङहरू",
-   "en": "उमेरले छेकेन : ८४ वर्षपछिका मेरा पेन्टिङहरू",
-   "ne": "उमेरले छेकेन : ८४ वर्षपछिका मेरा पेन्टिङहरू",
-   "imp": 1,
-   "tags": [
-    "Art",
-    "Painting",
-    "कला"
-   ],
-   "cat": "culture",
-   "val": 1,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "उपल्लो मुस्ताङको निषेधित क्षेत्र हटाउने प्रक्रिया अघि बढ्यो",
-   "summary": "मुस्ताङ (मुक्तिनाथ), कात्तिक २९ गते । तीन दशकदेखि अर्धनिषेधित क्षेत्रका रूपमा कायम रहेको उपल्लो मुस्ताङलाई उक्त कानुनी व्यवस्थाबाट हटाउन सरकारी प्रक्रिया अघि बढेको छ । अध्यागमन विभ...",
-   "link": "https://gorkhapatraonline.com/news/229128",
-   "source": "Gorkhapatra",
-   "ts": 1794720691,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/391546/conversions/converted_image---2026-11-15T111708.079-original.jpg",
-   "lang": "ne",
-   "hl": "उपल्लो मुस्ताङको निषेधित क्षेत्र हटाउने प्रक्रिया अघि बढ्यो",
-   "en": "उपल्लो मुस्ताङको निषेधित क्षेत्र हटाउने प्रक्रिया अघि बढ्यो",
-   "ne": "उपल्लो मुस्ताङको निषेधित क्षेत्र हटाउने प्रक्रिया अघि बढ्यो",
-   "imp": 2,
-   "tags": [
-    "Mustang",
-    "RestrictedArea",
-    "मुस्ताङ"
-   ],
-   "cat": "society",
-   "val": 3,
    "teaser": false,
    "hits": 1
   },
@@ -8757,7 +8642,7 @@
    "cat": "politics"
   }
  ],
- "updated": 1794749473,
+ "updated": 1794750052,
  "pending_since": 1794748851.3026993,
  "fb_blocks": [
   1790350880.4125228,
