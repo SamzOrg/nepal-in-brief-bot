@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://nagariknews.nagariknetwork.com/Dharma-Saskriti/chhath-festival-starts-from-today-mithila-region-chhathmaya-br-62-88.html": 1794531698.381918,
   "https://nagariknews.nagariknetwork.com/international/14-killed-30-injured-in-collision-involving-18-cars-and-five-trucks-in-fujairah-uae-30-67.html": 1794532851.0633242,
   "https://www.setopati.com/social/402464": 1794532851.0633242,
   "http://english.ratopati.com/story/86398/gandhi-mandela-foundation-launches-chapter-in-nepal-connecting-the-philosophies-of-buddha-gandhi-and-mandela": 1794532851.0633242,
@@ -1630,7 +1629,9 @@
   "https://kathmandupost.com/politics/2026/11/15/balendra-shah-administration-goes-fast-with-ordinances-13-issued-2-forwarded-in-8-months": 1794703849.1105876,
   "https://news.google.com/rss/articles/CBMivgFBVV95cUxNODRYYXZzZC1ZdDJWTnhJSVJ3N1I0YUZNQjF1SHduck9keVR2YjVRd1lVOUY5RHVpU0c4RFNRTlZNQmdPeXU0WHdGRzlvZUkxOWg0S0NWS0FXVmpHYUZoUm5lQ3E3NVY1dmc2d2NRYllNaFRJaF9PNmRVcjV0RUQ0VUR5RWNldEJrTmJrZ3BvRS1tQlB4a1FLLUEyWllOckFDSjJLOU9heWVQR2l6eHlwOXluSlJJTlp2T2hfQTBR?oc=5": 1794704479.0562115,
   "http://english.ratopati.com/story/86686/competition-for-the-final-position-between-chitwan-karnali-and-kathmandu-pokhara": 1794704479.0562115,
-  "https://gorkhapatraonline.com/news/229093": 1794704479.0562115
+  "https://gorkhapatraonline.com/news/229093": 1794704479.0562115,
+  "https://nagariknews.nagariknetwork.com/Dharma-Saskriti/today-is-the-main-day-of-chhath-offering-arghya-to-the-setting-sun-this-is-the-fasting-ritual-48-25.html": 1794705055.7703848,
+  "https://nagariknews.nagariknetwork.com/social-affairs/chance-of-rain-and-snowfall-with-thunderstorms-in-these-provinces-today-14-45.html": 1794705055.7703848
  },
  "queue": [
   {
@@ -1658,30 +1659,6 @@
    "hits": 1
   },
   {
-   "title": "इनमको मोबाइल २ दिनसम्म आफूसँग राख्ने अधिकार कुमार बेनलाई कसले दियो- कांग्रेस सहमहामन्त्री चौधरी",
-   "summary": "",
-   "link": "https://www.setopati.com/politics/402580",
-   "source": "Setopati",
-   "ts": 1794675960,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "इनमको मोबाइल २ दिनसम्म आफूसँग राख्ने अधिकार कुमार बेनलाई कसले दियो- कांग्रेस सहमहामन्त्री चौधरी",
-   "en": "इनमको मोबाइल २ दिनसम्म आफूसँग राख्ने अधिकार कुमार बेनलाई कसले दियो- कांग्रेस सहमहामन्त्री चौधरी",
-   "ne": "इनमको मोबाइल २ दिनसम्म आफूसँग राख्ने अधिकार कुमार बेनलाई कसले दियो- कांग्रेस सहमहामन्त्री चौधरी",
-   "imp": 3,
-   "tags": [
-    "Congress",
-    "Farhan",
-    "KumarBen",
-    "Politics"
-   ],
-   "cat": "politics",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Brazil's Decision on Raphinha Sparks Controversy with Barcelona",
    "summary": "Kathmandu. Brazil's captain and Barcelona star player Raphinha's unexpected decision by the Brazilian Football Federation has stunned Barcelona. Raphinha, who...",
    "link": "http://english.ratopati.com/story/86678/brazils-strange-decision-regarding-rafinha-barcelona-shocked-new-tension-between-the-two-sides",
@@ -1699,30 +1676,6 @@
     "Raphinha",
     "Barcelona",
     "Football"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Portugal to Honor Cristiano Ronaldo with Unprecedented Tribute",
-   "summary": "Kathmandu. Portugal will hold an unprecedented and historic farewell program on Saturday in honor of player Cristiano Ronaldo, who recently...",
-   "link": "http://english.ratopati.com/story/86677/all-portugal-players-to-wear-number-7-jersey-in-honour-of-cristiano-ronaldo-special-permission-granted-by-uefa",
-   "source": "Ratopati EN",
-   "ts": 1794676212,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/ronaldo1_04XhPbVCwC.webp",
-   "lang": "en",
-   "hl": "Portugal to Honor Cristiano Ronaldo with Unprecedented Tribute",
-   "en": "Portugal to Honor Cristiano Ronaldo with Unprecedented Tribute",
-   "ne": "Portugal to Honor Cristiano Ronaldo with Unprecedented Tribute",
-   "imp": 1,
-   "tags": [
-    "Portugal",
-    "CristianoRonaldo",
-    "Football",
-    "Tribute"
    ],
    "cat": "sports",
    "val": 3,
@@ -5356,7 +5309,7 @@
    "cat": "politics"
   }
  ],
- "updated": 1794704488,
+ "updated": 1794705059,
  "pending_since": 1794704479.0562115,
  "fb_blocks": [
   1790350880.4125228,
