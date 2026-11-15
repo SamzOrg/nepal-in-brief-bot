@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://baahrakhari.com/detail/507177": 1794529869.4163754,
-  "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNXzVLVzFScTJrMWdJcTBmaUkzY0NCdFBfT3FsUmZNQnI4Q0s5VFZINEp5V3k5TFp2ZXBqckpfMkxsZkQ5ZWV3Wi1nLTdya1k0T19ReTBvZmtqajRfTnNWbVZJUFlkV2pzNXVyVllZMDZUVmZmNkdWdVNSLU9YT3l5ZGRhdGtiNUFiZ1hxVWRsbXh4U1htUGY2SjhIZmRHdE83SU1TV09GS09TQ0FXNjZQNXloWGloMEhYR0djQThJSzZET1N4eHE3WHZZSDFUcHRTUFhpZ0UwaVhlMkk?oc=5": 1794529869.4163754,
   "http://english.ratopati.com/story/86389/nepal-urges-institutionalization-of-mountain-areas-and-climate-change-issues": 1794530459.161997,
   "https://www.ujyaaloonline.com/detail/133429": 1794530459.161997,
   "https://baahrakhari.com/detail/507178": 1794530459.161997,
@@ -1611,7 +1609,9 @@
   "http://english.ratopati.com/story/86684/this-is-the-foreign-exchange-rate-on-sunday": 1794700879.1183999,
   "https://www.ujyaaloonline.com/detail/133495": 1794700879.1183999,
   "http://english.ratopati.com/story/86683/four-nepali-cricketers-in-form-in-npl-3": 1794700879.1183999,
-  "https://risingnepaldaily.com/news/88616": 1794702048.411417
+  "https://risingnepaldaily.com/news/88616": 1794702048.411417,
+  "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRkVSWU9fbHhyUDRBUFlXM0lCazUwYWpfV2Znbm90ZE82RFpnWkFmSzhfejZ3XzdfUzhIOFMyX0RrYmc3aW03U0RHakdPb19KenZPekFQVndHRkp5SXM2QnJxN3hBWTRDMmFlSlRhZzhjWTdOaENjNDhQMGxEWF9OUVY5MzBNOGx3Vy1mZkhIbUVGcExELTUzMTA4dTBiV0c0YnFGbzFJbw?oc=5": 1794703249.9049077,
+  "https://theannapurnaexpress.com/story/68752": 1794703249.9049077
  },
  "queue": [
   {
@@ -1896,7 +1896,7 @@
    "cat": "sports",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "4.9 Magnitude Earthquake with epicentre in Nepal shakes Darjeeling & adjoining areas of North Bengal",
@@ -4938,7 +4938,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1794702668,
+ "updated": 1794703253,
  "pending_since": 1794701450.6845043,
  "fb_blocks": [
   1790350880.4125228,
