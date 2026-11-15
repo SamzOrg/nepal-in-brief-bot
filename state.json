@@ -1,8 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5VU3czSVNPRGpMVHJYdnE2RzNtS0p4U3BYYjd6RGd4aENTemlrTXpESU1YWmJUVHJmMEJBOVZXcDRLMVJQV3h6NXBod1Ixa0hXd2pWTmtWMkI?oc=5": 1794547248.966808,
-  "https://english.khabarhub.com/2026/13/575439/": 1794547248.966808,
-  "https://gorkhapatraonline.com/news/228931": 1794547248.966808,
   "http://english.ratopati.com/story/86425/collaboration-with-technology-leading-countries-necessary-for-digital-transformation-communications-minister-timilsina": 1794547870.704344,
   "https://gorkhapatraonline.com/news/228933": 1794547870.704344,
   "https://www.ujyaaloonline.com/detail/133439": 1794547870.704344,
@@ -1653,7 +1650,8 @@
   "https://baahrakhari.com/detail/507342": 1794719450.108525,
   "https://gorkhapatraonline.com/news/229122": 1794719450.108525,
   "https://gorkhapatraonline.com/news/229121": 1794719450.108525,
-  "https://gorkhapatraonline.com/news/229120": 1794719450.108525
+  "https://gorkhapatraonline.com/news/229120": 1794719450.108525,
+  "https://risingnepaldaily.com/news/88638": 1794720057.19203
  },
  "queue": [
   {
@@ -2040,29 +2038,6 @@
    "hits": 1
   },
   {
-   "title": "Nākaloka makes Kathmandu debut with an evening of music, devotion and silence",
-   "summary": "The movement brought together spiritual traditions, music and meditative practices in an evening of collective reflection at Basantapur.",
-   "link": "https://kathmandupost.com/art-culture/2026/11/15/nakaloka-makes-kathmandu-debut-with-an-evening-of-music-devotion-and-silence",
-   "source": "Kathmandu Post",
-   "ts": 1794691053.802482,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Nākaloka makes Kathmandu debut with an evening of music, devotion and silence",
-   "en": "Nākaloka makes Kathmandu debut with an evening of music, devotion and silence",
-   "ne": "Nākaloka makes Kathmandu debut with an evening of music, devotion and silence",
-   "imp": 2,
-   "tags": [
-    "Nakaloka",
-    "Kathmandu",
-    "Music"
-   ],
-   "cat": "culture",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "मुलुक अब केरामा आत्मनिर्भर",
    "summary": "काठमाडौँ, कात्तिक २९ गते । स्थानीय उत्पादन बढेसँगै केरामा नेपाल आत्मनिर्भर भएको छ । सरकारले एक वर्षअघि केरा आयातमा कडाइ गरेपछि व्यावसायिक केरा खेती विस्तार भएसँगै नेपालकै उत्पादन प...",
    "link": "https://gorkhapatraonline.com/news/229095",
@@ -2126,29 +2101,6 @@
     "तुवाचुङकप"
    ],
    "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "How Ishuta Shrestha found her calling in the fierce imagery of Paubha",
-   "summary": "What began as a discovery in her grandfather's room became Ishuta Shrestha's entry into Paubha and an exploration of faith, discipline and the symbolism of wrathful deities.",
-   "link": "https://kathmandupost.com/art-culture/2026/11/15/how-ishuta-shrestha-found-her-calling-in-the-fierce-imagery-of-paubha",
-   "source": "Kathmandu Post",
-   "ts": 1794691053.802482,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "How Ishuta Shrestha found her calling in the fierce imagery of Paubha",
-   "en": "How Ishuta Shrestha found her calling in the fierce imagery of Paubha",
-   "ne": "How Ishuta Shrestha found her calling in the fierce imagery of Paubha",
-   "imp": 2,
-   "tags": [
-    "Paubha",
-    "IshutaShrestha",
-    "Art"
-   ],
-   "cat": "culture",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -4124,29 +4076,6 @@
    "val": 1,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "Nepal wins four medals, including first silver, at Astronomy Olympiad",
-   "summary": "Kathmandu, November 15 Nepali students have won four medals, including Nepal's first silver, at the fifth Open World Astronomy Olympiad held in Russia. At the competition, which concluded on Saturday in Sirius, Russia,...",
-   "link": "https://english.onlinekhabar.com/nepal-medals-astronomy-olympiad.html",
-   "source": "Onlinekhabar EN",
-   "ts": 1794717725,
-   "weight": 3,
-   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/11/khagol.jpg",
-   "lang": "en",
-   "hl": "Nepal wins four medals, including first silver, at Astronomy Olympiad",
-   "en": "Nepal wins four medals, including first silver, at Astronomy Olympiad",
-   "ne": "Nepal wins four medals, including first silver, at Astronomy Olympiad",
-   "imp": 3,
-   "tags": [
-    "Nepal",
-    "AstronomyOlympiad",
-    "SilverMedal"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "सुनको मूल्य तोलामा १५ सयले घट्यो",
@@ -7460,10 +7389,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "crime"
+  },
+  {
+   "ts": 1794720073.1387782,
+   "en": "Nepali students win four medals including first silver at Open World Astronomy Olympiad in Russia",
+   "ne": "Nepali students win four medals including first silver at Open World Astronomy Olympiad in Russia",
+   "link": "https://english.onlinekhabar.com/nepal-medals-astronomy-olympiad.html",
+   "source": "Onlinekhabar EN",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "sports"
   }
  ],
- "updated": 1794719458,
- "pending_since": null,
+ "updated": 1794720087,
+ "pending_since": 1794720057.19203,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
