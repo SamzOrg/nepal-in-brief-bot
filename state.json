@@ -1648,7 +1648,9 @@
   "https://nagariknews.nagariknetwork.com/international/what-will-be-iran-s-strategy-after-trump-removes-vance-from-talks-13-64.html": 1794736882.822747,
   "https://kathmandupost.com/money/2026/11/15/hydropower-firms-to-need-50-percent-construction-progress-for-ipos": 1794736882.822747,
   "https://english.onlinekhabar.com/us-intelligence-estimates-iran-still-has-up-to-2500-missiles.html": 1794736882.822747,
-  "https://baahrakhari.com/detail/507367": 1794736882.822747
+  "https://baahrakhari.com/detail/507367": 1794736882.822747,
+  "https://gorkhapatraonline.com/news/229150": 1794737451.2027435,
+  "https://theannapurnaexpress.com/story/68768": 1794737451.2027435
  },
  "queue": [
   {
@@ -2107,28 +2109,6 @@
    "val": 2,
    "teaser": false,
    "hits": 2
-  },
-  {
-   "title": "साहित्यकार हरि कट्टेल 'मुक्तिनाथ साहित्य सम्मान' बाट सम्मानित",
-   "summary": "साहित्यकार हरि कट्टेल मुक्तिनाथ साहित्य सम्मान २०८३ बाट सम्मानित भएका छन्।",
-   "link": "https://nagariknews.nagariknetwork.com/arts/writer-hari-kattel-honored-with-muktinath-literary-award-br-50-47.html",
-   "source": "Nagarik News",
-   "ts": 1794708356,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1794707906_kattel%20foto%2098.jpg",
-   "lang": "ne",
-   "hl": "साहित्यकार हरि कट्टेल 'मुक्तिनाथ साहित्य सम्मान' बाट सम्मानित",
-   "en": "साहित्यकार हरि कट्टेल 'मुक्तिनाथ साहित्य सम्मान' बाट सम्मानित",
-   "ne": "साहित्यकार हरि कट्टेल 'मुक्तिनाथ साहित्य सम्मान' बाट सम्मानित",
-   "imp": 2,
-   "tags": [
-    "HariKattel",
-    "MuktinathAward"
-   ],
-   "cat": "culture",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
   },
   {
    "title": "विराटनगरका असलंकाले भने- अन्तिम १० ओभरमा खराब बलिङले हार्‍यौं",
@@ -4405,7 +4385,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 3
+   "hits": 4
   },
   {
    "title": "Chhath promotes social harmony and religious tolerance: CM Bhatta",
@@ -5672,7 +5652,7 @@
    "cat": "world",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "ब्राउन सुगर कारोबार र सेवनको आरोपमा जुम्लामा चारजना पक्राउ",
@@ -9252,7 +9232,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1794736889,
+ "updated": 1794737456,
  "pending_since": 1794736882.822747,
  "fb_blocks": [
   1790350880.4125228,
