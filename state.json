@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWTJUOEpuZ1JkV0pZb01XN1RkMmNZS2c0UHRHX0NIbWE1NXYteWdNclVCV3VnUll1ekcwUGRGWmFWc3JyZEVtQ0t2QTNuTXVCeWxoR3J6VVpabVpZdGtFMDFKTW5FVzNJWXE1Y184LWJqV0pxOWkza0hZTjVwcVVuOQ?oc=5": 1794607736.549248,
   "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTEt2Y3d5VXNsMzN0anpwaFNDYVdyT05XR3lxNE93V0g5S0JNd291NHN4c1lyRFpzM0ViSmFSREpmbWdSY1BZY3YybFdxcVNidy1lcVVLTElqQVZTeWFpVWlvUUdlcFlIN3pIUWx0d0RDZDFINmRNVWlKQ3RWSUZzNWRxcXFyRWJieDNzWVAzbVF5c3J0a2dUSU96S09XbWd0X2xF?oc=5": 1794609648.0389588,
   "https://news.google.com/rss/articles/CBMid0FVX3lxTE1OMnNURXZwdHhzU3FmWTMxWk9XdU5RQ2tqZlFvdXNDTFd4cHlSZ2VLSTJGZHU4Rm1ZOXdWMFhJVGVCRlJ3YlN4ZHZsLTFybGtqTlI3eXlDS2F1YVltZkRzbjJzQk8wbFRzeGRhT1Z5R0xUaU42M1Nj?oc=5": 1794609648.0389588,
   "https://news.google.com/rss/articles/CBMidkFVX3lxTFBiN1dFR01JbDA2dWVERVBaWnR3SGdEM3oxTkxUa0NGbHJIQi03b3JQX21KM2E4blhGenUxVTkyQXpFQnRsODNGbVVRb0RPSzRBWjVPOWZaZDBaUFlsRDhxTllZOWdmY2RDT01jV0xjT0JMR3l2TkE?oc=5": 1794612049.126503,
@@ -1584,7 +1583,8 @@
   "https://news.google.com/rss/articles/CBMigwFBVV95cUxPU1drQUZKdkdyUGtOdVlDYVZLV2M1TmJNc2hPN2x3VmVVdUFvUFVFdUVucGJia09SMjRsUWVYYjE4T2FoeWo1LTF6QkM1RWJXYmlta3FwWGcwcFoyRldFTXU0OWRwem5yckFRb0xsaVJNeFh3eUNFRVpDVXU4RW5XeWFqUQ?oc=5": 1794778850.7825413,
   "http://english.ratopati.com/story/86777/france-beats-turkey-2-1-to-move-to-top-spot": 1794779447.3704932,
   "http://english.ratopati.com/story/86779/belgium-overturns-one-goal-deficit-to-win-4-1-over-italy": 1794780078.7730837,
-  "http://english.ratopati.com/story/86778/england-beat-spain-3-2-with-10-players": 1794780078.7730837
+  "http://english.ratopati.com/story/86778/england-beat-spain-3-2-with-10-players": 1794780078.7730837,
+  "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbk9Ld19FOUs2bDR1dTBpZ19yMU5yYlJRODRlZjVyNElhOVRlLUhXTV9iQTRjNndXNU9FVlNjRk1TZkw0ZUpzZHc0V0tsUlVvdm80RkVrZ1NvcFpsNkl5eS0tNzlST2ZrZFJQenBxRXRJVFdSejhzRTVSNnVmaUs2MWg5YmdheEpQVWNCQ1BqeWZlVEpubnBoLWZJbHNLaVlHRmV3SFV5SjhVTTl4ZEd0dG13alYwRkhuTV9veTRXU1E3ejh5TFE?oc=5": 1794780650.4713917
  },
  "queue": [
   {
@@ -1679,29 +1679,6 @@
    "hits": 1
   },
   {
-   "title": "छठघाटमा सम्भावित दुर्घटना रोक्न सशस्त्र प्रहरी परिचालन",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/507392",
-   "source": "Baahrakhari",
-   "ts": 1794751467,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "छठघाटमा सम्भावित दुर्घटना रोक्न सशस्त्र प्रहरी परिचालन",
-   "en": "छठघाटमा सम्भावित दुर्घटना रोक्न सशस्त्र प्रहरी परिचालन",
-   "ne": "छठघाटमा सम्भावित दुर्घटना रोक्न सशस्त्र प्रहरी परिचालन",
-   "imp": 2,
-   "tags": [
-    "Chhath",
-    "ArmedPolice",
-    "Festival"
-   ],
-   "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "मेगास्पिडले भन्यो- एलिस हुआङले एक वर्षअघि नै कम्पनी छाडिसकिन्",
    "summary": "",
    "link": "https://www.setopati.com/kinmel/information-technology/402649",
@@ -1765,51 +1742,6 @@
     "Chhath"
    ],
    "cat": "culture",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "पोखरामा छठको रौनक : चार स्थानमा हजारौं भक्तजन, घर फर्कनेको संख्या घट्यो",
-   "summary": "तराई र मिथिला क्षेत्रमा मनाइने छठ पर्वको तेस्रो दिन आइतबार साँझ अस्ताउँदो सूर्यलाई अर्घ्य दिएर छठ पर्व मनाइएको हो।...",
-   "link": "https://nagariknews.nagariknetwork.com/Dharma-Saskriti/chhath-celebrations-in-pokhara-thousands-of-devotees-gather-at-four-places-number-of-people-returning-home-decreases-46-25.html",
-   "source": "Nagarik News",
-   "ts": 1794751641,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1794751617_Pokhara.jpg",
-   "lang": "ne",
-   "hl": "पोखरामा छठको रौनक : चार स्थानमा हजारौं भक्तजन, घर फर्कनेको संख्या घट्यो",
-   "en": "पोखरामा छठको रौनक : चार स्थानमा हजारौं भक्तजन, घर फर्कनेको संख्या घट्यो",
-   "ne": "पोखरामा छठको रौनक : चार स्थानमा हजारौं भक्तजन, घर फर्कनेको संख्या घट्यो",
-   "imp": 2,
-   "tags": [
-    "Pokhara",
-    "Chhath"
-   ],
-   "cat": "culture",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "दिनेश खरेलको कसिलो बलिङले धर्मरायो काठमाडौं",
-   "summary": "नेपाल प्रिमियर लिग (एनपीएल) अन्तर्गत पोखरा एभेन्जर्सले दिएको २२५ रनको विशाल लक्ष्य पछ्याइरहेको काठमाडौं गोर्खाज १०.५ ओभरको समाप्तिमा दबाबमा देखिएको छ।...",
-   "link": "https://nagariknews.nagariknetwork.com/sports/kathmandu-under-pressure-while-chasing-a-target-of-225-runs-86-3-in-10-5-overs-139-runs-needed-in-55-balls-70-40.html",
-   "source": "Nagarik News",
-   "ts": 1794751535,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1794751409_gorkha.png",
-   "lang": "ne",
-   "hl": "दिनेश खरेलको कसिलो बलिङले धर्मरायो काठमाडौं",
-   "en": "दिनेश खरेलको कसिलो बलिङले धर्मरायो काठमाडौं",
-   "ne": "दिनेश खरेलको कसिलो बलिङले धर्मरायो काठमाडौं",
-   "imp": 3,
-   "tags": [
-    "NepalPremierLeague",
-    "Kathmandu",
-    "Cricket"
-   ],
-   "cat": "sports",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -2453,7 +2385,7 @@
    "cat": "world",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Three killed in SUV accident in western Nepal",
@@ -5486,7 +5418,7 @@
    "cat": "world"
   }
  ],
- "updated": 1794780082,
+ "updated": 1794780653,
  "pending_since": 1794778850.7825413,
  "fb_blocks": [
   1790350880.4125228,
