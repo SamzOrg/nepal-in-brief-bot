@@ -1609,55 +1609,12 @@
   "https://gorkhapatraonline.com/news/229156": 1794741650.3826807,
   "https://gorkhapatraonline.com/news/229155": 1794741650.3826807,
   "https://baahrakhari.com/detail/507380": 1794742857.1814742,
-  "https://www.ujyaaloonline.com/detail/133523": 1794742857.1814742
+  "https://www.ujyaaloonline.com/detail/133523": 1794742857.1814742,
+  "https://risingnepaldaily.com/news/88653": 1794743447.311795,
+  "https://www.setopati.com/social/402640": 1794743447.311795,
+  "https://baahrakhari.com/detail/507381": 1794743447.311795
  },
  "queue": [
-  {
-   "title": "पेट्रोल छर्केर आगो लगाइएका चौधरीको उपचारका क्रममा मृत्यु",
-   "summary": "सन्तोष दहितदाङ, कात्तिक २९ गते । दाङको राजपुर गाउँपालिकामा पेट्रोल छर्केर आगो लगाइएका एक पुरुषको उपचारका क्रममा मृत्यु भएको छ । राजपुर गाउँपालिका-२ निवासी ४९ वर्षीय रुपलाल चौधरीको...",
-   "link": "https://gorkhapatraonline.com/news/229112",
-   "source": "Gorkhapatra",
-   "ts": 1794714415,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/391525/conversions/mirtak-chaudhary-original.jpg",
-   "lang": "ne",
-   "hl": "पेट्रोल छर्केर आगो लगाइएका चौधरीको उपचारका क्रममा मृत्यु",
-   "en": "पेट्रोल छर्केर आगो लगाइएका चौधरीको उपचारका क्रममा मृत्यु",
-   "ne": "पेट्रोल छर्केर आगो लगाइएका चौधरीको उपचारका क्रममा मृत्यु",
-   "imp": 2,
-   "tags": [
-    "PetrolArson",
-    "Chaudhary",
-    "Police"
-   ],
-   "cat": "crime",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "९ विकेट गुमाइसकेको भारतले अन्तिम बलमा यसरी जित्यो यू-१९ एसिया कपको उपाधि",
-   "summary": "ओमानको अल अमेरात क्रिकेट मैदानमा शनिबार सम्पन्न रोमाञ्चक खेलमा भारतले अन्तिम बलमा लक्ष्य पूरा गर्दै उपाधि जितेको हो।...",
-   "link": "https://nagariknews.nagariknetwork.com/sports/india-won-the-u-19-asia-cup-title-on-the-last-ball-after-losing-9-wickets-28-37.html",
-   "source": "Nagarik News",
-   "ts": 1794714385,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1794714370_India%20win.jpg",
-   "lang": "ne",
-   "hl": "९ विकेट गुमाइसकेको भारतले अन्तिम बलमा यसरी जित्यो यू-१९ एसिया कपको उपाधि",
-   "en": "९ विकेट गुमाइसकेको भारतले अन्तिम बलमा यसरी जित्यो यू-१९ एसिया कपको उपाधि",
-   "ne": "९ विकेट गुमाइसकेको भारतले अन्तिम बलमा यसरी जित्यो यू-१९ एसिया कपको उपाधि",
-   "imp": 1,
-   "tags": [
-    "U19AsiaCup",
-    "India",
-    "Cricket"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
   {
    "title": "'ककाकिकी'को प्रचार शैली विवादमा, आलोचना भएपछि मनोज गजुरेलले मागे माफी",
    "summary": "फिल्म 'ककाकिकी'को टिम यतिबेला आफ्नो प्रचार शैलीका कारण आलोचनाको घेरामा परेको छ।",
@@ -1746,75 +1703,6 @@
    "cat": "crime",
    "val": 1,
    "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "इरानको खतरा देखाउँदै नेतान्याहूले फेरि मागे राष्ट्रिय एकताको सरकार, आइसेनकोटले दिए यस्तो जवाफ",
-   "summary": "इजरायलका कामचलाउ प्रधानमन्त्री बेन्जामिन नेतान्याहूले विपक्षी नेता गादी आइसेनकोटसँग फेरि राष्ट्रिय एकता सरकार बनाउन प्रस्ताव गरेका छन्।...",
-   "link": "https://nagariknews.nagariknetwork.com/international/netanyahu-again-calls-for-national-unity-government-citing-iran-threat-eisenkot-gives-this-response-81-56.html",
-   "source": "Nagarik News",
-   "ts": 1794714339,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1794715916_Unity%20government.jpg",
-   "lang": "ne",
-   "hl": "इरानको खतरा देखाउँदै नेतान्याहूले फेरि मागे राष्ट्रिय एकताको सरकार, आइसेनकोटले दिए यस्तो जवाफ",
-   "en": "इरानको खतरा देखाउँदै नेतान्याहूले फेरि मागे राष्ट्रिय एकताको सरकार, आइसेनकोटले दिए यस्तो जवाफ",
-   "ne": "इरानको खतरा देखाउँदै नेतान्याहूले फेरि मागे राष्ट्रिय एकताको सरकार, आइसेनकोटले दिए यस्तो जवाफ",
-   "imp": 2,
-   "tags": [
-    "Israel",
-    "Netanyahu",
-    "Eisenkot"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "Khula Manch Grass Replanting and Repair Work Begins",
-   "summary": "Kathmandu. Replanting of grass and repair work has started at Khula Manch in Kathmandu, which was damaged after being used...",
-   "link": "http://english.ratopati.com/story/86704/replanting-of-trees-begins-at-open-stage-after-damage-at-congress-convention-photos",
-   "source": "Ratopati EN",
-   "ts": 1794714424,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/09-khullamanch--3625_TeQYnxc1y1.webp",
-   "lang": "en",
-   "hl": "Khula Manch Grass Replanting and Repair Work Begins",
-   "en": "Khula Manch Grass Replanting and Repair Work Begins",
-   "ne": "Khula Manch Grass Replanting and Repair Work Begins",
-   "imp": 2,
-   "tags": [
-    "KhulaManch",
-    "Kathmandu",
-    "Grass"
-   ],
-   "cat": "society",
-   "val": 2,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "भक्तपुरमा धार्मिक, सांस्कृतिक पर्यटन सर्किट निर्माण गरिने",
-   "summary": "भक्तपुर, कात्तिक २९ गते । भक्तपुर जिल्लाको एकीकृत पर्यटन तथा सांस्कृतिक सम्पदाको संरक्षण र प्रवर्धन गर्ने उद्देश्यले भक्तपुरको धार्मिक तथा सांस्कृतिक सम्पदालाई जोड्ने गरी एकीकृत पर...",
-   "link": "https://gorkhapatraonline.com/news/229111",
-   "source": "Gorkhapatra",
-   "ts": 1794714110,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/391523/conversions/44-original.jpg",
-   "lang": "ne",
-   "hl": "भक्तपुरमा धार्मिक, सांस्कृतिक पर्यटन सर्किट निर्माण गरिने",
-   "en": "भक्तपुरमा धार्मिक, सांस्कृतिक पर्यटन सर्किट निर्माण गरिने",
-   "ne": "भक्तपुरमा धार्मिक, सांस्कृतिक पर्यटन सर्किट निर्माण गरिने",
-   "imp": 2,
-   "tags": [
-    "Bhaktapur",
-    "Tourism",
-    "CulturalCircuit"
-   ],
-   "cat": "culture",
-   "val": 3,
-   "teaser": false,
    "hits": 1
   },
   {
@@ -3490,29 +3378,6 @@
    "val": 3,
    "teaser": false,
    "hits": 2
-  },
-  {
-   "title": "Tesla opens Cybercab sales to 'select customers'",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTFpGZjJYc3hxQlNBa0xEbi1GTWdXc2VWc0dxbmNrbkczeElHX3Y0aTJQVVFlUjM0ZGFHTHRMNzhleDUtcDM4S3JxV093NzNueUtFaEVVQ2NuSW1Fa003SWpKS01IWDRfU3BOc2hJaFdlRE5MaUdkSDhEYlpYZUhmVHJDNkFOQ3B1SmZGOGFaNm03YU5NSFI1WUtRUl9RSkxWeWow?oc=5",
-   "source": "myRepublica",
-   "ts": 1794714300,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Tesla opens Cybercab sales to 'select customers'",
-   "en": "Tesla opens Cybercab sales to 'select customers'",
-   "ne": "Tesla opens Cybercab sales to 'select customers'",
-   "imp": 1,
-   "tags": [
-    "Tesla",
-    "Cybercab",
-    "Automotive"
-   ],
-   "cat": "tech",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
   },
   {
    "title": "How the fog of war puts journalism in the frame",
@@ -5739,7 +5604,7 @@
    "cat": "politics",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "कसरी चल्छ चीनले सफल परीक्षण गरेको विद्युतीय विमान ?",
@@ -9001,9 +8866,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "disaster"
+  },
+  {
+   "ts": 1794743454.3965392,
+   "en": "पोखरा एभेन्जर्सको विस्फोटक सुरुआत, ६ ओभरमा ६५ रन बनाउँदा एक विकेट पतन",
+   "ne": "पोखरा एभेन्जर्सको विस्फोटक सुरुआत, ६ ओभरमा ६५ रन बनाउँदा एक विकेट पतन",
+   "link": "https://baahrakhari.com/detail/507381",
+   "source": "Baahrakhari",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "sports"
   }
  ],
- "updated": 1794742859,
+ "updated": 1794743464,
  "pending_since": 1794742271.480748,
  "fb_blocks": [
   1790350880.4125228,
