@@ -1587,7 +1587,9 @@
   "https://www.setopati.com/kinmel/information-technology/402649": 1794756056.8810549,
   "https://nagariknews.nagariknetwork.com/Dharma-Saskriti/chhath-festival-in-udayapur-devotees-throng-the-600-meter-long-ghat-47-24.html": 1794756056.8810549,
   "https://nagariknews.nagariknetwork.com/sports/pokhara-wins-consolation-in-last-league-match-kathmandu-misses-out-on-qualifier-1-56-28.html": 1794756056.8810549,
-  "https://nagariknews.nagariknetwork.com/sports/kathmandu-gorkhas-will-have-a-tough-time-playing-in-playoff-1-78-10.html": 1794756056.8810549
+  "https://nagariknews.nagariknetwork.com/sports/kathmandu-gorkhas-will-have-a-tough-time-playing-in-playoff-1-78-10.html": 1794756056.8810549,
+  "https://news.google.com/rss/articles/CBMiugFBVV95cUxOT1F4bmdoMlJ3cGRrQVAxMkRyd2wxOGZEQjBMZk1feHlZaDVRdjFVSks0eFV1VnRReVlRLUhFNng2alFObWxVZmh2aFREeGVCNTBhVTZuT1ZuVDBlR25MWHNZNExGWEhCc3BXVXpMZUVkeHBHVy1fbk1nNC03TXRqSnVoWE9RZUh6b2ZtdnhYRGt0T0JLR3hTYUVpc19wSWJLdk51RDROSmxrNUt3Mk42TUk5TWJMSl93SEE?oc=5": 1794756669.9827662,
+  "https://news.google.com/rss/articles/CBMixgFBVV95cUxOM1dCWkxHNEY3QklJV202LW5XR3QxYVRaZnpmd01tRWJlX2MwWTljT3VtQ2xjSkRzR1Zyc3BoOU5XbUZDb2VXUHJZRDF0N1dObHlhM0wzcFdfbm81UzFpQTV1Q0pKa3lTWXJuWVZjWTZYby03S0o4Uk9SOWlNblFSOGNDM3lGYnZrdVJveUYzUVg2MDJ4ZkNaUElBZlA3VTJkN0hVLS12bXdWS1VEX1RMVHdJc3VpY2lMSGhXZDl5UVVrZXJqbVE?oc=5": 1794756669.9827662
  },
  "queue": [
   {
@@ -1612,29 +1614,6 @@
    "val": 3,
    "teaser": false,
    "hits": 2
-  },
-  {
-   "title": "Mandala Theatre to Stage New Play 'Neelo Sindoor'",
-   "summary": "Kathmandu. Mandala Theatre is going to stage a new play 'Neelo Sindoor'. The play is based on the famous play...",
-   "link": "http://english.ratopati.com/story/86730/blue-vermilion-now-in-the-mandala",
-   "source": "Ratopati EN",
-   "ts": 1794727565,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/4bc42a70-ae8a-4d89-8ac3-8cb223b5ce7a_RhpQGAoaG1.webp",
-   "lang": "en",
-   "hl": "Mandala Theatre to Stage New Play 'Neelo Sindoor'",
-   "en": "Mandala Theatre to Stage New Play 'Neelo Sindoor'",
-   "ne": "Mandala Theatre to Stage New Play 'Neelo Sindoor'",
-   "imp": 2,
-   "tags": [
-    "MandalaTheatre",
-    "NeeloSindoor",
-    "Drama"
-   ],
-   "cat": "culture",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
   },
   {
    "title": "दूध बेचेर आत्मनिर्भर, दुई जनालाई रोजगारी",
@@ -1681,52 +1660,6 @@
    "val": 3,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "भारतबाट नेपाल आउँदा थाई गाँजा ल्याएपछि",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/507356",
-   "source": "Baahrakhari",
-   "ts": 1794727389,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "भारतबाट नेपाल आउँदा थाई गाँजा ल्याएपछि",
-   "en": "भारतबाट नेपाल आउँदा थाई गाँजा ल्याएपछि",
-   "ne": "भारतबाट नेपाल आउँदा थाई गाँजा ल्याएपछि",
-   "imp": 3,
-   "tags": [
-    "Drugs",
-    "Customs",
-    "ThailCannabis"
-   ],
-   "cat": "crime",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "SpaceX's Starship makes history with first-ever catch by launch tower after spaceflight",
-   "summary": "Kathmandu, November 15 Starship 15, the most powerful rocket developed by Elon Musk's space company SpaceX, has accomplished something no rocket has achieved before. Launched from Starbase on November 14, the rocket...",
-   "link": "https://english.onlinekhabar.com/spacexs-starship-makes-history-with-first-ever-catch-by-launch-tower-after-spaceflight.html",
-   "source": "Onlinekhabar EN",
-   "ts": 1794727365,
-   "weight": 3,
-   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/11/starship.jpg",
-   "lang": "en",
-   "hl": "SpaceX's Starship makes history with first-ever catch by launch tower after spaceflight",
-   "en": "SpaceX's Starship makes history with first-ever catch by launch tower after spaceflight",
-   "ne": "SpaceX's Starship makes history with first-ever catch by launch tower after spaceflight",
-   "imp": 1,
-   "tags": [
-    "SpaceX",
-    "Starship",
-    "Space"
-   ],
-   "cat": "tech",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "भोटेकोसीजस्तै बाढीको चपेटामा भारतको धराली : एक वर्षपछि पुनर्वासको अवस्था के छ ?",
@@ -4614,7 +4547,7 @@
    "cat": "tech",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "छठ पर्वको तेस्रो दिन संझिया अर्घ्य दिइयो",
@@ -8187,10 +8120,21 @@
    "n_ig": 1,
    "brk": true,
    "cat": "sports"
+  },
+  {
+   "ts": 1794756677.3626463,
+   "en": "Rasuwagadhi Hydropower's cumulative loss reaches Rs 2.87B after floods",
+   "ne": "Rasuwagadhi Hydropower's cumulative loss reaches Rs 2.87B after floods",
+   "link": "https://myrepublica.nagariknetwork.com/news/flood-hit-rasuwagadhi-hydropowers-cumulative-loss-reaches-rs-287-billion-93-24.html",
+   "source": "myRepublica",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "economy"
   }
  ],
- "updated": 1794756082,
- "pending_since": null,
+ "updated": 1794756687,
+ "pending_since": 1794756669.9827662,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
