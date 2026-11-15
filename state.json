@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVXRLSUgyN2VPN0hvWU0tZmM2cGpLZGJJS0Q3V3ozTkh4SmtfUW8wUF9MOV9kQ0FTZ3I1SHladjhpd2JiY2V1eGxTVUFMMmFNenNhQXVreXZsazdfdUFtUGloUmFrR2Z1eXZxVG52ZllxNHpQSEEzcW1CTnlwaFlUVEg4RVhnQ0lqUHQ0MXc1Q3UtS2t3VzhKTElsdE9ESHd2VllzTGs3LXNsaFZQVnlYT2dZbk4?oc=5": 1794541251.8878272,
   "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNXRUeHF6Y3NlaTFvRGhIRVhTWXpoZUxXSlBPUjFoelZLM0xwYkdtU3FpNFc1QmRkdEpENnV0ZVoyMWlPcTJpT2VCd3ZTWk0wS1JBenhIdHhLa2w3SXZZVEZHNkoxdXh6Z2JlbnFHMFBmc1E0MjFMbzlGMXgxU1BrS24tRXIwWTNINWxGeUpvaXRPM1FnTzBVZXVnZDlVSi1yV3ZIMDkybWNHeUdTaHc?oc=5": 1794541847.962296,
   "http://english.ratopati.com/story/86413/about-70-percent-of-those-going-for-foreign-employment-are-unskilled": 1794541847.962296,
   "https://theannapurnaexpress.com/story/68710": 1794541847.962296,
@@ -1639,7 +1638,10 @@
   "https://gorkhapatraonline.com/news/229106": 1794713470.695846,
   "https://nagariknews.nagariknetwork.com/politics/top-leaders-visit-madhesh-for-chhath-security-alert-high-along-with-prayers-35-47.html": 1794713470.695846,
   "https://nagariknews.nagariknetwork.com/arts/the-243rd-series-of-virat-sahitya-sangam-concludes-with-devkota-jayanti-br-46-96.html": 1794713470.695846,
-  "http://english.ratopati.com/story/86703/indian-railways-announces-weekly-operation-of-janakpurdham-ayodhya-service": 1794714050.3293717
+  "http://english.ratopati.com/story/86703/indian-railways-announces-weekly-operation-of-janakpurdham-ayodhya-service": 1794714050.3293717,
+  "https://www.ujyaaloonline.com/detail/133506": 1794714647.2416933,
+  "https://gorkhapatraonline.com/news/229112": 1794714647.2416933,
+  "https://nagariknews.nagariknetwork.com/sports/india-won-the-u-19-asia-cup-title-on-the-last-ball-after-losing-9-wickets-28-37.html": 1794714647.2416933
  },
  "queue": [
   {
@@ -2739,30 +2741,6 @@
    "hits": 1
   },
   {
-   "title": "Only 47.5 percent of Nepalis get safe and sufficient drinking water supply: NSO report",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdkdmNkVpcFEwaTVlaFVLQWluSjF2WXhDd3JLYW8wczA5ZlZLbkJJZ01VT250VnctSzFoNjdmMWI3WWlvcml1amt5VnVVOXQxTjR1bm1hTTkwckoza3pja2c5WXlIUHJnel9zQVhMTHctbDlkckdKM3kwV0NuWEQ0UlNSRkV6a29Ec1laNGZSWk5na0N2ZXVQaW1vRVN3QU5BOENUU1kta1ZKVTF0NnZGcGlueHAwVTNrNTFDczFCdnVMRWxGdFZyUkhB?oc=5",
-   "source": "myRepublica",
-   "ts": 1794701700,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Only 47.5 percent of Nepalis get safe and sufficient drinking water supply: NSO report",
-   "en": "Only 47.5 percent of Nepalis get safe and sufficient drinking water supply: NSO report",
-   "ne": "Only 47.5 percent of Nepalis get safe and sufficient drinking water supply: NSO report",
-   "imp": 3,
-   "tags": [
-    "WaterSupply",
-    "NSO",
-    "Report",
-    "खानेपानी"
-   ],
-   "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
    "title": "Kathmandu Metropolitan City Organizes Video Contest for School Children on Climate Action",
    "summary": "Kathmandu. Kathmandu Metropolitan City is organizing a video competition for school-aged children for up to one minute as part of...",
    "link": "http://english.ratopati.com/story/86693/one-minute-video-competition-for-children-50000-prizes",
@@ -3240,7 +3218,7 @@
    "cat": "education",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "साहित्यकार हरि कट्टेल 'मुक्तिनाथ साहित्य सम्मान' बाट सम्मानित",
@@ -3611,6 +3589,52 @@
     "साहित्य"
    ],
    "cat": "culture",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "पेट्रोल छर्केर आगो लगाइएका चौधरीको उपचारका क्रममा मृत्यु",
+   "summary": "सन्तोष दहितदाङ, कात्तिक २९ गते । दाङको राजपुर गाउँपालिकामा पेट्रोल छर्केर आगो लगाइएका एक पुरुषको उपचारका क्रममा मृत्यु भएको छ । राजपुर गाउँपालिका-२ निवासी ४९ वर्षीय रुपलाल चौधरीको...",
+   "link": "https://gorkhapatraonline.com/news/229112",
+   "source": "Gorkhapatra",
+   "ts": 1794714415,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/391525/conversions/mirtak-chaudhary-original.jpg",
+   "lang": "ne",
+   "hl": "पेट्रोल छर्केर आगो लगाइएका चौधरीको उपचारका क्रममा मृत्यु",
+   "en": "पेट्रोल छर्केर आगो लगाइएका चौधरीको उपचारका क्रममा मृत्यु",
+   "ne": "पेट्रोल छर्केर आगो लगाइएका चौधरीको उपचारका क्रममा मृत्यु",
+   "imp": 2,
+   "tags": [
+    "PetrolArson",
+    "Chaudhary",
+    "Police"
+   ],
+   "cat": "crime",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "९ विकेट गुमाइसकेको भारतले अन्तिम बलमा यसरी जित्यो यू-१९ एसिया कपको उपाधि",
+   "summary": "ओमानको अल अमेरात क्रिकेट मैदानमा शनिबार सम्पन्न रोमाञ्चक खेलमा भारतले अन्तिम बलमा लक्ष्य पूरा गर्दै उपाधि जितेको हो।...",
+   "link": "https://nagariknews.nagariknetwork.com/sports/india-won-the-u-19-asia-cup-title-on-the-last-ball-after-losing-9-wickets-28-37.html",
+   "source": "Nagarik News",
+   "ts": 1794714385,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2026/third-party/1794714370_India%20win.jpg",
+   "lang": "ne",
+   "hl": "९ विकेट गुमाइसकेको भारतले अन्तिम बलमा यसरी जित्यो यू-१९ एसिया कपको उपाधि",
+   "en": "९ विकेट गुमाइसकेको भारतले अन्तिम बलमा यसरी जित्यो यू-१९ एसिया कपको उपाधि",
+   "ne": "९ विकेट गुमाइसकेको भारतले अन्तिम बलमा यसरी जित्यो यू-१९ एसिया कपको उपाधि",
+   "imp": 1,
+   "tags": [
+    "U19AsiaCup",
+    "India",
+    "Cricket"
+   ],
+   "cat": "sports",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -6608,9 +6632,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "politics"
+  },
+  {
+   "ts": 1794714659.2612095,
+   "en": "Only 47.5 Percent of Nepalis Get Safe and Sufficient Drinking Water: NSO",
+   "ne": "Only 47.5 Percent of Nepalis Get Safe and Sufficient Drinking Water: NSO",
+   "link": "https://myrepublica.nagariknetwork.com/news/only-475-percent-of-nepalis-get-safe-and-sufficient-drinking-water-supply-n-64-20.html",
+   "source": "myRepublica",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "society"
   }
  ],
- "updated": 1794714054,
+ "updated": 1794714669,
  "pending_since": 1794714050.3293717,
  "fb_blocks": [
   1790350880.4125228,
