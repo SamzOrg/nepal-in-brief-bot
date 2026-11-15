@@ -1579,29 +1579,6 @@
  },
  "queue": [
   {
-   "title": "कठमाण्डूले टस जित्यो, पहिले फिल्डिङ गर्ने",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/507378",
-   "source": "Baahrakhari",
-   "ts": 1794740899,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "कठमाण्डूले टस जित्यो, पहिले फिल्डिङ गर्ने",
-   "en": "कठमाण्डूले टस जित्यो, पहिले फिल्डिङ गर्ने",
-   "ne": "कठमाण्डूले टस जित्यो, पहिले फिल्डिङ गर्ने",
-   "imp": 3,
-   "tags": [
-    "NPL",
-    "Cricket",
-    "Kathmandu"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
    "title": "President Ram Chandra Paudel Offers Arghya to Setting Sun on Chhath Festival",
    "summary": "Kathmandu. On the occasion of the Chhath festival, President Ram Chandra Paudel and the general public offered arghya to the...",
    "link": "http://english.ratopati.com/story/86755/arghya-offered-to-the-setting-sun-at-gaurighat-see-the-photo",
@@ -1647,29 +1624,6 @@
    "hits": 2
   },
   {
-   "title": "पूर्वआइजीपी कार्कीले सुरक्षा सल्लाहकारको पत्र बुझिसकेको गृहको दाबी",
-   "summary": "प्रधानमन्त्री शाहको विशेष सुरक्षा सल्लाहकारमा नियुक्त हुनुभएका तत्कालीन आईजीपी कार्कीले त्यही दिन पत्र बुझेकाे गृह मन्त्रालयले जानकारी दिएको छ ।",
-   "link": "https://www.ujyaaloonline.com/detail/133524",
-   "source": "Ujyaalo",
-   "ts": 1794740940,
-   "weight": 2,
-   "img": "https://www.ujyaaloonline.com/uploads/posts/danbahadur_karki_FeTgmSMz4S.jpg",
-   "lang": "ne",
-   "hl": "पूर्वआइजीपी कार्कीले सुरक्षा सल्लाहकारको पत्र बुझिसकेको गृहको दाबी",
-   "en": "पूर्वआइजीपी कार्कीले सुरक्षा सल्लाहकारको पत्र बुझिसकेको गृहको दाबी",
-   "ne": "पूर्वआइजीपी कार्कीले सुरक्षा सल्लाहकारको पत्र बुझिसकेको गृहको दाबी",
-   "imp": 2,
-   "tags": [
-    "ExIGP",
-    "HomeMinistry",
-    "SecurityAdvisor"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 5
-  },
-  {
    "title": "बाल सुधार गृहबाट बालबन्दी फरार",
    "summary": "कास्की समाचारदाताकास्की, कात्तिक २९ गते । कास्कीको पोखरा महानगरपालिका वडा नम्बर १८, सराङकोटमा रहेको बाल सुधार गृहबाट आइतबार एक बालबन्दी फरार भएका छन् । आइतबार बिहान साढे ७ बजेतिर ए...",
    "link": "https://gorkhapatraonline.com/news/229160",
@@ -1688,28 +1642,6 @@
    ],
    "cat": "society",
    "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "सतर्कताको अनुुगमन : छ हजार ३८५ कर्मचारीलाई कारबाहीका लागि सिफारिस",
-   "summary": "नगेन्द्र सापकोटा काठमाडौँ, कात्तिक २९ गते । राष्ट्रिय सर्तकता केन्द्रले चालुु आर्थिक वर्ष २०८३/ ८४ को साउनदेखि हालसम्म ४४२ वटा सरकारी कार्यालयको अनुुगमन गरी छ हजार ३८५ जना कर्मचारी...",
-   "link": "https://gorkhapatraonline.com/news/229159",
-   "source": "Gorkhapatra",
-   "ts": 1794740956,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/391596/conversions/karmchari-anugaman-photo-original.jpg",
-   "lang": "ne",
-   "hl": "सतर्कताको अनुुगमन : छ हजार ३८५ कर्मचारीलाई कारबाहीका लागि सिफारिस",
-   "en": "सतर्कताको अनुुगमन : छ हजार ३८५ कर्मचारीलाई कारबाहीका लागि सिफारिस",
-   "ne": "सतर्कताको अनुुगमन : छ हजार ३८५ कर्मचारीलाई कारबाहीका लागि सिफारिस",
-   "imp": 2,
-   "tags": [
-    "Sarakshya",
-    "EmployeeDiscipline"
-   ],
-   "cat": "politics",
-   "val": 2,
    "teaser": false,
    "hits": 1
   },
@@ -6433,7 +6365,7 @@
    "cat": "world"
   }
  ],
- "updated": 1794769283,
+ "updated": 1794769852,
  "pending_since": 1794768052.8656332,
  "fb_blocks": [
   1790350880.4125228,
