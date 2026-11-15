@@ -1,10 +1,5 @@
 {
  "seen": {
-  "https://gorkhapatraonline.com/news/228935": 1794548455.6662283,
-  "https://theannapurnaexpress.com/story/68716": 1794548455.6662283,
-  "https://www.ujyaaloonline.com/detail/133440": 1794549048.894095,
-  "https://theannapurnaexpress.com/story/68719": 1794549048.894095,
-  "http://english.ratopati.com/story/86429/uml-national-gathering-expectations-to-end-cadres-frustration-and-organizational-chaos": 1794549048.894095,
   "https://english.onlinekhabar.com/wild-male-elephants-vie-of-sauraha.html": 1794549680.8659174,
   "https://www.ujyaaloonline.com/detail/133441": 1794550248.9888349,
   "http://english.ratopati.com/story/86435/one-person-killed-two-injured-in-car-crash": 1794550248.9888349,
@@ -1639,7 +1634,10 @@
   "https://news.google.com/rss/articles/CBMitwFBVV95cUxQY0pzRWZBMUlvcG9lNVZDaU5BYkFxRWlvNFp6bjhkMng1OHJhWldQVDduVjZrMzRFU1ZrT09NNkxhSnNhcVphRHF6SS0tZmgwZnRtNk95M0NybG5wdlZ1cnMzWk04WlJnY0thelpGYzdWUXpZc1l3SVV1ZERWZEM4QUZOSTBHNURROXJLR2lrZzhaX201RlVZaW15X09mM2tsdHNMeU1KQk9iNTdtNFVZZzdmZmVGV1k?oc=5": 1794720667.4377334,
   "https://baahrakhari.com/detail/507346": 1794721250.19118,
   "https://news.google.com/rss/articles/CBMid0FVX3lxTFBhUlFxR3I0dzU4a19JOFVNOVFrVV85ZTlSbWItdDhNV0M0YjU4ZDRtd2ZWb3c5SXF5aFRWREhjM09IRDVveUxTamJkM0syVFBoVGVNMnpKcDlicmJ2bGltanR5ZEhFODlSbFNmTTdzNXZTTVlhT2pV?oc=5": 1794721250.19118,
-  "http://english.ratopati.com/story/86714/accident": 1794721250.19118
+  "http://english.ratopati.com/story/86714/accident": 1794721250.19118,
+  "https://www.setopati.com/politics/402603": 1794721852.9147744,
+  "https://www.setopati.com/politics/402601": 1794721852.9147744,
+  "https://kathmandupost.com/national/2026/11/15/india-s-nitin-gadkari-to-attend-nepal-infrastructure-summit-as-keynote-speaker": 1794721852.9147744
  },
  "queue": [
   {
@@ -2734,7 +2732,7 @@
    "cat": "politics",
    "val": 2,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "वायु प्रदूषणले तराईको आकाश धुम्मियो, बुटवल र झापामा प्रदूषण उच्च",
@@ -3145,30 +3143,6 @@
     "Australia",
     "Himalayas",
     "वातावरण"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "जनकपुरदेखि अयोध्यासम्म साप्ताहिक रेल सेवा सञ्चालन हुने",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/507335",
-   "source": "Baahrakhari",
-   "ts": 1794713077,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "जनकपुरदेखि अयोध्यासम्म साप्ताहिक रेल सेवा सञ्चालन हुने",
-   "en": "जनकपुरदेखि अयोध्यासम्म साप्ताहिक रेल सेवा सञ्चालन हुने",
-   "ne": "जनकपुरदेखि अयोध्यासम्म साप्ताहिक रेल सेवा सञ्चालन हुने",
-   "imp": 3,
-   "tags": [
-    "Janakpur",
-    "Ayodhya",
-    "Railway",
-    "Tourism"
    ],
    "cat": "world",
    "val": 3,
@@ -7423,9 +7397,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "sports"
+  },
+  {
+   "ts": 1794721858.2379262,
+   "en": "जनकपुरदेखि अयोध्यासम्म साप्ताहिक रेल सेवा सञ्चालन हुने",
+   "ne": "जनकपुरदेखि अयोध्यासम्म साप्ताहिक रेल सेवा सञ्चालन हुने",
+   "link": "https://baahrakhari.com/detail/507335",
+   "source": "Baahrakhari",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "world"
   }
  ],
- "updated": 1794721256,
+ "updated": 1794721871,
  "pending_since": 1794720057.19203,
  "fb_blocks": [
   1790350880.4125228,
