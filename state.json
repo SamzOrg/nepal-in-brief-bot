@@ -1,6 +1,5 @@
 {
  "seen": {
-  "http://english.ratopati.com/story/86387/at-least-14-killed-30-injured-in-23-vehicle-collision-in-uae": 1794528650.2933936,
   "http://english.ratopati.com/story/86384/kathmandu-and-the-far-west-eye-the-top-spot-while-chitwan-and-janakpur-fight-for-survival": 1794529250.5859234,
   "http://english.ratopati.com/story/86388/harry-kanes-record-126th-game-he-made-history-with-a-goal": 1794529250.5859234,
   "https://baahrakhari.com/detail/507177": 1794529869.4163754,
@@ -1635,53 +1634,6 @@
    ],
    "cat": "society",
    "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "एपेक बैठकको 'साइडलाइन'मा ट्रम्प, सी र पुटिनबीच 'त्रिपक्षीय भेटवार्ता हुने'",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/507319",
-   "source": "Baahrakhari",
-   "ts": 1794672605,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "एपेक बैठकको 'साइडलाइन'मा ट्रम्प, सी र पुटिनबीच 'त्रिपक्षीय भेटवार्ता हुने'",
-   "en": "एपेक बैठकको 'साइडलाइन'मा ट्रम्प, सी र पुटिनबीच 'त्रिपक्षीय भेटवार्ता हुने'",
-   "ne": "एपेक बैठकको 'साइडलाइन'मा ट्रम्प, सी र पुटिनबीच 'त्रिपक्षीय भेटवार्ता हुने'",
-   "imp": 2,
-   "tags": [
-    "APEC",
-    "Trump",
-    "XiJinping",
-    "Putin"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "चोरी भएका देवमूर्ति स्वदेश फर्काउन विभिन्न देशका राजदूतको आग्रह",
-   "summary": "भक्तपुर, कात्तिक २८ गते । नेपालबाट चोरी भइ विभिन्न विश्वका देश पुगेका धार्मिक तथा सांस्कृतिक सम्पदा स्वदेश फर्काउने अभियानलाई सशक्त बनाउन भक्तपुरमा आजदेखि 'मलाई घर फर्काउ' महोत्सव...",
-   "link": "https://gorkhapatraonline.com/news/229078",
-   "source": "Gorkhapatra",
-   "ts": 1794672303,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/391485/conversions/IMG_2832-original.jpg",
-   "lang": "ne",
-   "hl": "चोरी भएका देवमूर्ति स्वदेश फर्काउन विभिन्न देशका राजदूतको आग्रह",
-   "en": "चोरी भएका देवमूर्ति स्वदेश फर्काउन विभिन्न देशका राजदूतको आग्रह",
-   "ne": "चोरी भएका देवमूर्ति स्वदेश फर्काउन विभिन्न देशका राजदूतको आग्रह",
-   "imp": 3,
-   "tags": [
-    "StolenArtifacts",
-    "Heritage",
-    "देवमूर्ति"
-   ],
-   "cat": "culture",
-   "val": 3,
    "teaser": false,
    "hits": 1
   },
@@ -5032,8 +4984,8 @@
    "cat": "culture"
   }
  ],
- "updated": 1794700884,
- "pending_since": null,
+ "updated": 1794701454,
+ "pending_since": 1794701450.6845043,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
