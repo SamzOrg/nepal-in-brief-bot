@@ -1,9 +1,5 @@
 {
  "seen": {
-  "https://baahrakhari.com/detail/507213": 1794561052.2437062,
-  "https://nagariknews.nagariknetwork.com/social-affairs/chhath-public-holiday-on-monday-too-52-44.html": 1794561052.2437062,
-  "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTC0weXdwZEZZMk94N2Rzd21YWE1Gel84cm1tOFVXS2xiOVd3TXZlcnJFOWdvLXdjRHBDd2ZWeF90V1dXQWVsdWlaNDRVY3FUOXFqLUp3dzN1VFpEVEFHYXdWQThJeFdDQnAyRHg0S2xNaWJtUS1RamdwSU8wQUpGX1pjcDVSNHR0X0Q3YUh0QVlrUGxMTkE3VVVDWEJDNk5OSTdTRGlnSTB5WFdDOGJ1aXBNQ3B1S3diVHlfeXlSa1NHOWxO?oc=5": 1794561052.2437062,
-  "https://news.google.com/rss/articles/CBMieEFVX3lxTE8xR09EMXc4dmZ6QUZTTXVPNG5XcW8tcXFpZjluNHZnclNKajNaenhPX1NRNkQxOS0xdkhYeDJWc1pUN1UtdUc1WUpzZTJ5eG13V0dpUjZEblkzUUVMSmVKLWdsaGFDamI0ZVc5ZVBqZHNuQ1ZaQWMyMA?oc=5": 1794561052.2437062,
   "http://english.ratopati.com/story/86462/nepals-invisible-foreign-employment-seen-at-the-border": 1794561651.965616,
   "https://www.ujyaaloonline.com/detail/133448": 1794561651.965616,
   "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYVo0RDhsWDBtUUFTZHlrdnR5d0dlQldURXFEOVI5aGhFYmJoUDJRcE1ZeVhRVkF1RkF5SjM0S0VoNEJ0N3M5ZmNFMXBhOVljUkhraTdhdGhLaEFFY09aZlI2a094SWVtOHZxMkFvQXJ6SjRhQXIyOU5iU3dBTlN4TURKYzI3TFBfd1owR0lGeWFDbU5aVU5EUEN3dWZNTFlkTmwyWUNjWmdPMy11WElnUA?oc=5": 1794561651.965616,
@@ -1626,31 +1622,33 @@
   "https://theannapurnaexpress.com/story/68762": 1794733286.5230353,
   "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0yd3dGLS02dmEwRVlLc0E0UHhRelFwTHZzb1V4bDFCUWg2QWh6MTJVZ2xCN3pWaTdaQ25zOXpzc0hJaXB6UDBlWVRqVnEzdllZcFQtQ3hXYw?oc=5": 1794733286.5230353,
   "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQXNNX0U1cW9fdE1aS1ZNb0V5RmpZZ0ZLZ1cwOWdscUpnQU5vMnRBYVU5Mzl3aWdGWWN4eWV0NFZvSEJvNmlFUGdTUlNVLXRzNDRCTGp2UjVET0RrdEw0ejdFaFItbDl6dkpIZmd3NGoyWW1yTTVNWVZrcF9hczJVZTdZV0s?oc=5": 1794733848.7160423,
-  "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOY29CN0htZHoyTlBsTzRTOTZiVlZTMVB2RDVfZVNjRzhESkJONmRpVmxxSDNqU0tWd2J0RkRhdGFScWlEOWVFc3BsS3h3aGxxRF9VQ1ZZQTJMX3BZcEQtU25OU3daNGkxSFJhbGZKV2JKa0NaVmlFSmw2VDd1dTRKSnB1TldzcUY1NU1LWU5zdVU3RDMzeFFFU2RSZmg4SmwyVktwT1B4c2ZPU2NIY3RyVDVQdHdLNVZwcG9tbWZEZ1hHcVhTQ2s5Ng?oc=5": 1794733848.7160423
+  "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOY29CN0htZHoyTlBsTzRTOTZiVlZTMVB2RDVfZVNjRzhESkJONmRpVmxxSDNqU0tWd2J0RkRhdGFScWlEOWVFc3BsS3h3aGxxRF9VQ1ZZQTJMX3BZcEQtU25OU3daNGkxSFJhbGZKV2JKa0NaVmlFSmw2VDd1dTRKSnB1TldzcUY1NU1LWU5zdVU3RDMzeFFFU2RSZmg4SmwyVktwT1B4c2ZPU2NIY3RyVDVQdHdLNVZwcG9tbWZEZ1hHcVhTQ2s5Ng?oc=5": 1794733848.7160423,
+  "https://risingnepaldaily.com/news/88646": 1794734450.571433,
+  "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMHBWcWt1a0V3SDltNE11NERZTU5SU2E4Yk1uOHd6SWNtR1dEVGg4eE9XVzZFSVdPVG1qTTMwT0c5S3I4RU1IcEx2WGJ5Z3gxaERESG5tMUVRWWp5c2tCcXBfcmlZNkR5dEdNUmlmTW5KVWJ3QnU1TnBfYTgyRzVCRlBYZnpsMnZobnhINUJjci1lT3EtOWs5ZG5wb05Wc3V4UGV2VllrTGhycFIxUkNzeDgxWkE?oc=5": 1794734450.571433,
+  "https://english.khabarhub.com/2026/15/575694/": 1794734450.571433,
+  "https://www.setopati.com/blog/402622": 1794734450.571433,
+  "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1PNEM5eDdkZnZORU42V0toM2dpWWVVTnNfelBBSGJ3d1JrRUdlTXhaZElCQzc4RUxXWFQ5bnZpYmRSVHRWQ2NyQTc0VlpFTWJC?oc=5": 1794734450.571433,
+  "https://english.onlinekhabar.com/ilam-farmer-earns-a-living-from-dairy-farming-employs-2-local-youths.html": 1794734450.571433,
+  "http://english.ratopati.com/story/86742/nepals-country-rating-has-stabilized-despite-the-disaster-what-prevented-the-upgrade": 1794734450.571433,
+  "https://baahrakhari.com/detail/507366": 1794734450.571433,
+  "https://gorkhapatraonline.com/news/229147": 1794734450.571433,
+  "https://www.ujyaaloonline.com/detail/133516": 1794734450.571433,
+  "https://risingnepaldaily.com/news/88644": 1794734450.571433,
+  "https://theannapurnaexpress.com/story/68764": 1794734450.571433,
+  "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdVNwTW1yQ2RWbld2SUN3ZkxLZ1JOX2kxeEotSnp2M2ZickJMd0lwc0lmSzJDeG4tWlZIQlVhVkRSeGZibFZNQ1lwc0JHM2NXUXZyNk93VTJfYjY3dHE4OUpRVVM4Yy1qZGd3ZHJEclI3NTBoN3ZOa1NLYkMzUUgxNks0MG0wZEwyVy1oRlY5U2VXamducGdwT3Z0N3Qza0dvRmdxbjZ4anAwdTVuaWw3QTBaNUc?oc=5": 1794734450.571433,
+  "https://www.setopati.com/literature/402621": 1794734450.571433,
+  "https://english.onlinekhabar.com/nepal-invite-uae-budhigandaki-hydropower.html": 1794734450.571433,
+  "http://english.ratopati.com/story/86745/three-sentenced-to-death-for-church-attack-in-jordan": 1794734450.571433,
+  "https://baahrakhari.com/detail/507365": 1794734450.571433,
+  "https://gorkhapatraonline.com/news/229145": 1794734450.571433,
+  "https://www.ujyaaloonline.com/detail/133515": 1794734450.571433,
+  "https://theannapurnaexpress.com/story/68763": 1794734450.571433,
+  "https://www.setopati.com/literature/402620": 1794734450.571433,
+  "https://english.onlinekhabar.com/uml-calls-central-committee-meeting-after-national-gathering-of-party-cadres.html": 1794734450.571433,
+  "http://english.ratopati.com/story/86744/how-is-the-new-secretary-general-of-the-united-nations-elected": 1794734450.571433,
+  "http://english.ratopati.com/story/86741/ravis-pilgrimage-to-madhesh-importance-of-culture-or-motivated-by-political-interests": 1794734450.571433
  },
  "queue": [
-  {
-   "title": "संस्कार संस्कृतिमा एकरूपता ल्याउन छलफल",
-   "summary": "गोरखापत्र समाचारदाताकाठमाडौँ, कात्तिक २९ गते । तामाङ समुदायको जन्मेदेखि मृत्युसम्ममा समुदायले अपनाउने विभिन्न संस्कार संस्कृतिमा एकरूपता ल्याउन प्रकाशित 'तामाङ संस्कार-संस्कृति निर...",
-   "link": "https://gorkhapatraonline.com/news/229096",
-   "source": "Gorkhapatra",
-   "ts": 1794705390,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/391507/conversions/tamang-saskriti-original.jpg",
-   "lang": "ne",
-   "hl": "संस्कार संस्कृतिमा एकरूपता ल्याउन छलफल",
-   "en": "संस्कार संस्कृतिमा एकरूपता ल्याउन छलफल",
-   "ne": "संस्कार संस्कृतिमा एकरूपता ल्याउन छलफल",
-   "imp": 2,
-   "tags": [
-    "Culture",
-    "संस्कृति"
-   ],
-   "cat": "culture",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
-  },
   {
    "title": "Lions break Kings' hearts in dramatic final-over thriller",
    "summary": "BY A STAFF REPORTERKathmandu, Nov. 15: Lumbini Lions climbed to the top of the table with 11 points after edging past Bi...",
@@ -1928,52 +1926,6 @@
    "hits": 1
   },
   {
-   "title": "Orange farming declines in Rumjatar",
-   "summary": "By Shubhakala RaiOkhaldhunga, Nov. 15: The open fields and plains of Rumjatar in Okhaldhunga were once laden with orange...",
-   "link": "https://risingnepaldaily.com/news/88620",
-   "source": "Rising Nepal",
-   "ts": 1794705594,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Orange farming declines in Rumjatar",
-   "en": "Orange farming declines in Rumjatar",
-   "ne": "Orange farming declines in Rumjatar",
-   "imp": 2,
-   "tags": [
-    "OrangeFarming",
-    "Rumjatar",
-    "Agriculture"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Neglect leaves Rs. 100M Kanti Lake in ruins",
-   "summary": "By Siraj KhanNepalgunj, Nov. 15: Kanti Lake, developed by Nepalgunj Sub-Metropolitan City as a tourist destination at a...",
-   "link": "https://risingnepaldaily.com/news/88619",
-   "source": "Rising Nepal",
-   "ts": 1794705496,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Neglect leaves Rs. 100M Kanti Lake in ruins",
-   "en": "Neglect leaves Rs. 100M Kanti Lake in ruins",
-   "ne": "Neglect leaves Rs. 100M Kanti Lake in ruins",
-   "imp": 2,
-   "tags": [
-    "KantiLake",
-    "Infrastructure",
-    "Neglect"
-   ],
-   "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Nepal Implements Strict Regulations for High Altitude Tourism Safety",
    "summary": "Kathmandu. Imagine, you are enjoying climbing uphill while reveling in the scenic trekking routes of Everest Base Camp or Manang-Mustang....",
    "link": "http://english.ratopati.com/story/86692/what-to-do-if-you-get-stuck-while-hiking-government-sets-treatment-and-emergency-rescue-standards",
@@ -2116,30 +2068,6 @@
    "hits": 1
   },
   {
-   "title": "बङ्गुरपालनबाट मनग्य आम्दानी",
-   "summary": "वैदेशिक रोजगारीका क्रममा करिब १५ वर्ष साउदी अरबमा बसेर फर्किएपछि नवलपुरको मध्यविन्दु-३ ब्रम्हस्थानका नन्दे गुरुङ बङ्गुरपालनमा जुटेका छन्।...",
-   "link": "https://nagariknews.nagariknetwork.com/economy/generous-income-from-pig-farming-br-83-40.html",
-   "source": "Nagarik News",
-   "ts": 1794705244,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1794705578_bangur%2098.jpg",
-   "lang": "ne",
-   "hl": "बङ्गुरपालनबाट मनग्य आम्दानी",
-   "en": "बङ्गुरपालनबाट मनग्य आम्दानी",
-   "ne": "बङ्गुरपालनबाट मनग्य आम्दानी",
-   "imp": 2,
-   "tags": [
-    "PigFarming",
-    "Agriculture",
-    "Income",
-    "बङ्गुरपालन"
-   ],
-   "cat": "economy",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "विश्व सम्बन्धका आयाम",
    "summary": "सूचना प्रविधिको सुविधाले विश्वलाई सीमित घेरामा राखेको छ । विश्वका गतिविधिले ल्याएको प्रभावलाई जान्न र बुझ्न सामाजिक सञ्जालका 'प्लेटफर्म' प्रभावकारी देखिएका छन् । यसले विश्वका जनताब...",
    "link": "https://gorkhapatraonline.com/news/229105",
@@ -2180,7 +2108,7 @@
    "cat": "culture",
    "val": 3,
    "teaser": false,
-   "hits": 8
+   "hits": 9
   },
   {
    "title": "छठ पूजाको तयारी",
@@ -3528,28 +3456,6 @@
     "NepalCricket"
    ],
    "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Jayanti Memorial Trust marks 25 years of expanding access to heart care",
-   "summary": "Trust has supported more than 10,000 heart surgeries, organised cardiac health camps in 53 districts and provided heart health education to over 6,000 students.",
-   "link": "https://kathmandupost.com/health/2026/11/15/jayanti-memorial-trust-marks-25-years-of-expanding-access-to-heart-care",
-   "source": "Kathmandu Post",
-   "ts": 1794705051.2295513,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Jayanti Memorial Trust marks 25 years of expanding access to heart care",
-   "en": "Jayanti Memorial Trust marks 25 years of expanding access to heart care",
-   "ne": "Jayanti Memorial Trust marks 25 years of expanding access to heart care",
-   "imp": 2,
-   "tags": [
-    "JayantiMemorialTrust",
-    "HeartCare"
-   ],
-   "cat": "health",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -5331,29 +5237,6 @@
    "hits": 1
   },
   {
-   "title": "Dhaulagiri Hospital still waiting for trauma centre a decade after announcement",
-   "summary": "The Hari Khadka Trauma Centre, announced in 2015, remains short of buildings, staff and infrastructure despite the availability of equipment and some specialist doctors.",
-   "link": "https://kathmandupost.com/health/2026/11/15/dhaulagiri-hospital-still-waiting-for-trauma-centre-a-decade-after-announcement",
-   "source": "Kathmandu Post",
-   "ts": 1794715284.5644493,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Dhaulagiri Hospital still waiting for trauma centre a decade after announcement",
-   "en": "Dhaulagiri Hospital still waiting for trauma centre a decade after announcement",
-   "ne": "Dhaulagiri Hospital still waiting for trauma centre a decade after announcement",
-   "imp": 3,
-   "tags": [
-    "DhaulagiriHospital",
-    "TraumaCentre",
-    "Baglung"
-   ],
-   "cat": "health",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Harka Sampang falls for film publicity stunt, demands answers from Gauri Malla and team",
    "summary": "\"Veteran actress Gauri Malla and formidable stand-up comedian Manoj Gajurel were picked up by police right where they stood. They were handcuffed, put into a van and taken away.\" Who wouldn't sit up and take notice...",
    "link": "https://english.onlinekhabar.com/harka-sampang-falls-for-film-publicity-stunt-demands-answers-from-gauri-malla-and-team.html",
@@ -5604,7 +5487,7 @@
    "cat": "politics",
    "val": 2,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "India Under-19s B Women vs Nepal Under-19s Women at Bengaluru, 18 Nov 2026",
@@ -5906,6 +5789,437 @@
    ],
    "cat": "disaster",
    "val": 1,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Finance Minister Wagle returns home after participating in COP-31",
+   "summary": "KATHMANDU: Finance Minister Dr. Swarnim Wagle returned home on Sunday after participating in various high-level programmes during the 31st Conference of the Parties (COP-31) to the United Nations Framework Convention on...",
+   "link": "https://english.khabarhub.com/2026/15/575694/",
+   "source": "Khabarhub EN",
+   "ts": 1794734372,
+   "weight": 2,
+   "img": "https://english.khabarhub.com/wp-content/uploads/2026/11/Swarnim-Wagle-400x220.jpg",
+   "lang": "en",
+   "hl": "Finance Minister Wagle returns home after participating in COP-31",
+   "en": "Finance Minister Wagle returns home after participating in COP-31",
+   "ne": "Finance Minister Wagle returns home after participating in COP-31",
+   "imp": 3,
+   "tags": [
+    "FinanceMinister",
+    "COP31",
+    "Wagle"
+   ],
+   "cat": "politics",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "एउटी महिलाको आफ्नै घर कहाँ छ?",
+   "summary": "छोरी हुँदा बुबाको घर, बुहारी हुँदा श्रीमान्को घर, आमा हुँदा सन्तानको घर, आखिर एउटी महिलाले आफ्नै नामले, आफ्नै अस्तित्वले, निर्धक्कसँग 'यो मेरो घर हो' भन्न पाउने दिन कहिले आउला?",
+   "link": "https://www.setopati.com/blog/402622",
+   "source": "Setopati",
+   "ts": 1794734328,
+   "weight": 3,
+   "img": null,
+   "lang": "ne",
+   "hl": "एउटी महिलाको आफ्नै घर कहाँ छ?",
+   "en": "एउटी महिलाको आफ्नै घर कहाँ छ?",
+   "ne": "एउटी महिलाको आफ्नै घर कहाँ छ?",
+   "imp": 1,
+   "tags": [
+    "Women",
+    "Home"
+   ],
+   "cat": "society",
+   "val": 1,
+   "teaser": true,
+   "hits": 1
+  },
+  {
+   "title": "CM Karki extends Chhath best wishes to all Nepalis",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1PNEM5eDdkZnZORU42V0toM2dpWWVVTnNfelBBSGJ3d1JrRUdlTXhaZElCQzc4RUxXWFQ5bnZpYmRSVHRWQ2NyQTc0VlpFTWJC?oc=5",
+   "source": "The Rising Nepal",
+   "ts": 1794734302,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "CM Karki extends Chhath best wishes to all Nepalis",
+   "en": "CM Karki extends Chhath best wishes to all Nepalis",
+   "ne": "CM Karki extends Chhath best wishes to all Nepalis",
+   "imp": 2,
+   "tags": [
+    "Karki",
+    "Chhath"
+   ],
+   "cat": "politics",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Ilam farmer earns a living from dairy farming, employs 2 local youths",
+   "summary": "Ilam, November 15 Dinesh Mahat of Kajeni in Suryodaya Municipality-8 has been earning a good income through commercial cattle farming while also providing employment to two local youths. Mahat established B&M...",
+   "link": "https://english.onlinekhabar.com/ilam-farmer-earns-a-living-from-dairy-farming-employs-2-local-youths.html",
+   "source": "Onlinekhabar EN",
+   "ts": 1794734160,
+   "weight": 3,
+   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/11/milk900.jpg",
+   "lang": "en",
+   "hl": "Ilam farmer earns a living from dairy farming, employs 2 local youths",
+   "en": "Ilam farmer earns a living from dairy farming, employs 2 local youths",
+   "ne": "Ilam farmer earns a living from dairy farming, employs 2 local youths",
+   "imp": 2,
+   "tags": [
+    "Ilam",
+    "DairyFarming",
+    "YouthEmployment"
+   ],
+   "cat": "economy",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Nepal Maintains 'BB-minus' Country Rating by Fitch",
+   "summary": "Kathmandu. Nepal's 'BB-minus' country rating has continued. In the report published by international rating agency 'Fitch' on November 12, 2026...",
+   "link": "http://english.ratopati.com/story/86742/nepals-country-rating-has-stabilized-despite-the-disaster-what-prevented-the-upgrade",
+   "source": "Ratopati EN",
+   "ts": 1794734100,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/fitch-rating-nepal_XyPTbzpkyE.webp",
+   "lang": "en",
+   "hl": "Nepal Maintains 'BB-minus' Country Rating by Fitch",
+   "en": "Nepal Maintains 'BB-minus' Country Rating by Fitch",
+   "ne": "Nepal Maintains 'BB-minus' Country Rating by Fitch",
+   "imp": 3,
+   "tags": [
+    "Fitch",
+    "CountryRating",
+    "BBminus"
+   ],
+   "cat": "economy",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "न्यायाधीश-बिचौलिया छानबिन समितिको जिम्मेवारीबाट पछि हटे संयोजक-सदस्य",
+   "summary": "",
+   "link": "https://baahrakhari.com/detail/507366",
+   "source": "Baahrakhari",
+   "ts": 1794733965,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "न्यायाधीश-बिचौलिया छानबिन समितिको जिम्मेवारीबाट पछि हटे संयोजक-सदस्य",
+   "en": "न्यायाधीश-बिचौलिया छानबिन समितिको जिम्मेवारीबाट पछि हटे संयोजक-सदस्य",
+   "ne": "न्यायाधीश-बिचौलिया छानबिन समितिको जिम्मेवारीबाट पछि हटे संयोजक-सदस्य",
+   "imp": 2,
+   "tags": [
+    "Judiciary",
+    "InvestigationCommittee"
+   ],
+   "cat": "politics",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "छठ पर्वका लागि रघुनाथपुर पोखरी सिँगारियो",
+   "summary": "जीवछ यादवलहान, कात्तिक २९ गते । लहान नगरपालिका-३ मा रहेको रघुनाथपुर पोखरी छठ पर्वका लागि दुलहीझैँ सिँगारिएको छ । दुई सय भक्तजनका लागि अस्ताउँदो र उदाउँदो सूर्यलाई अर्घ्य दिन घाट नि...",
+   "link": "https://gorkhapatraonline.com/news/229147",
+   "source": "Gorkhapatra",
+   "ts": 1794733788,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/391577/conversions/converted_image---2026-11-15T145536.201-original.jpg",
+   "lang": "ne",
+   "hl": "छठ पर्वका लागि रघुनाथपुर पोखरी सिँगारियो",
+   "en": "छठ पर्वका लागि रघुनाथपुर पोखरी सिँगारियो",
+   "ne": "छठ पर्वका लागि रघुनाथपुर पोखरी सिँगारियो",
+   "imp": 2,
+   "tags": [
+    "Chhath",
+    "Raghunathpur",
+    "Pond"
+   ],
+   "cat": "society",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "कोप ३१ मा नेपाली कूटनीति चुक्यो, ५ मन्त्री र सांसदसहितको लर्को घुमफिरमै सीमित",
+   "summary": "परराष्ट्रमन्त्री खनालको नेतृत्वमा वन, अर्थ, स्वास्थ्य र शिक्षासहित ५ जना मन्त्री, सांसद, सरकारी अधिकारी र गैरसरकारी क्षेत्रका प्रतिनिधि टर्किए पुगेको छ ।",
+   "link": "https://www.ujyaaloonline.com/detail/133516",
+   "source": "Ujyaalo",
+   "ts": 1794733200,
+   "weight": 2,
+   "img": "https://www.ujyaaloonline.com/uploads/posts/1-1794733072.jpg",
+   "lang": "ne",
+   "hl": "कोप ३१ मा नेपाली कूटनीति चुक्यो, ५ मन्त्री र सांसदसहितको लर्को घुमफिरमै सीमित",
+   "en": "कोप ३१ मा नेपाली कूटनीति चुक्यो, ५ मन्त्री र सांसदसहितको लर्को घुमफिरमै सीमित",
+   "ne": "कोप ३१ मा नेपाली कूटनीति चुक्यो, ५ मन्त्री र सांसदसहितको लर्को घुमफिरमै सीमित",
+   "imp": 3,
+   "tags": [
+    "COP31",
+    "Diplomacy",
+    "Nepal"
+   ],
+   "cat": "politics",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Karnali set 154 runs target to Chitwan",
+   "summary": "By TRN Online, Kathmandu, Nov 15: Karnali Yaks set 154 runs target to Chitwan Rhinos at the NPL season-3 match being pla...",
+   "link": "https://risingnepaldaily.com/news/88644",
+   "source": "Rising Nepal",
+   "ts": 1794733065,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "Karnali set 154 runs target to Chitwan",
+   "en": "Karnali set 154 runs target to Chitwan",
+   "ne": "Karnali set 154 runs target to Chitwan",
+   "imp": 2,
+   "tags": [
+    "Karnali",
+    "Chitwan",
+    "NPL"
+   ],
+   "cat": "sports",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "China's independently developed 10-tonne electric aircraft completes first piloted flight",
+   "summary": "China's independently developed 10-tonne electric commercial aircraft CE-25A completed its maiden piloted flight on Saturday, according to the Commercial Aircraft Corporation of China (COMAC).The aircraft carried two...",
+   "link": "https://theannapurnaexpress.com/story/68764",
+   "source": "Annapurna Express",
+   "ts": 1794720052.3126602,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "China's independently developed 10-tonne electric aircraft completes first piloted flight",
+   "en": "China's independently developed 10-tonne electric aircraft completes first piloted flight",
+   "ne": "China's independently developed 10-tonne electric aircraft completes first piloted flight",
+   "imp": 2,
+   "tags": [
+    "ElectricAircraft",
+    "China",
+    "Flight"
+   ],
+   "cat": "tech",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Gold, silver prices decline in domestic market",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdVNwTW1yQ2RWbld2SUN3ZkxLZ1JOX2kxeEotSnp2M2ZickJMd0lwc0lmSzJDeG4tWlZIQlVhVkRSeGZibFZNQ1lwc0JHM2NXUXZyNk93VTJfYjY3dHE4OUpRVVM4Yy1qZGd3ZHJEclI3NTBoN3ZOa1NLYkMzUUgxNks0MG0wZEwyVy1oRlY5U2VXamducGdwT3Z0N3Qza0dvRmdxbjZ4anAwdTVuaWw3QTBaNUc?oc=5",
+   "source": "myRepublica",
+   "ts": 1794718590,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "Gold, silver prices decline in domestic market",
+   "en": "Gold, silver prices decline in domestic market",
+   "ne": "Gold, silver prices decline in domestic market",
+   "imp": 2,
+   "tags": [
+    "Gold",
+    "Silver",
+    "Prices"
+   ],
+   "cat": "economy",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "सत्ता, शक्ति र नारी!",
+   "summary": "इतिहास साक्षी छ नारीको सामर्थ्य कहिल्यै सिंहासनको मोहताज थिएन मोहताज त समाजको चेतना थियो जसले उसको योग्यतालाई जन्मको लिङ्गले नापिरह्यो।",
+   "link": "https://www.setopati.com/literature/402621",
+   "source": "Setopati",
+   "ts": 1794732540,
+   "weight": 3,
+   "img": null,
+   "lang": "ne",
+   "hl": "सत्ता, शक्ति र नारी!",
+   "en": "सत्ता, शक्ति र नारी!",
+   "ne": "सत्ता, शक्ति र नारी!",
+   "imp": 1,
+   "tags": [
+    "Power",
+    "Women"
+   ],
+   "cat": "society",
+   "val": 1,
+   "teaser": true,
+   "hits": 1
+  },
+  {
+   "title": "Jordanian Court Sentences Three to Death for Deadly Church Attack",
+   "summary": "Jordan. A Jordanian court has sentenced three people involved in a deadly shooting at a church to death by hanging....",
+   "link": "http://english.ratopati.com/story/86745/three-sentenced-to-death-for-church-attack-in-jordan",
+   "source": "Ratopati EN",
+   "ts": 1794733976,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/2026-10-24t072839z_1337625626_rc2h9oap3sjs_rtrmadp_3_jordan-church-1792845520_ptVtqrpfRz.webp",
+   "lang": "en",
+   "hl": "Jordanian Court Sentences Three to Death for Deadly Church Attack",
+   "en": "Jordanian Court Sentences Three to Death for Deadly Church Attack",
+   "ne": "Jordanian Court Sentences Three to Death for Deadly Church Attack",
+   "imp": 1,
+   "tags": [
+    "Jordan",
+    "Court",
+    "DeathSentences"
+   ],
+   "cat": "world",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "ब्राउन सुगर कारोबार र सेवनको आरोपमा जुम्लामा चारजना पक्राउ",
+   "summary": "",
+   "link": "https://baahrakhari.com/detail/507365",
+   "source": "Baahrakhari",
+   "ts": 1794732434,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "ब्राउन सुगर कारोबार र सेवनको आरोपमा जुम्लामा चारजना पक्राउ",
+   "en": "ब्राउन सुगर कारोबार र सेवनको आरोपमा जुम्लामा चारजना पक्राउ",
+   "ne": "ब्राउन सुगर कारोबार र सेवनको आरोपमा जुम्लामा चारजना पक्राउ",
+   "imp": 2,
+   "tags": [
+    "BrownSugar",
+    "Arrests",
+    "Nepal"
+   ],
+   "cat": "crime",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "सप्तकोशी नदीको पानी सुकेपछि छठका घाट सारिए",
+   "summary": "बाबुराम कार्कीसुनसरी, कात्तिक २९ गते । सप्तकोशी नदीको पूर्वी तटबन्धअन्तर्गत राजाबास क्षेत्रदेखि दक्षिणतर्फ नदी किनारमा सुक्खा लाग्दा यस वर्ष छठ पर्व मनाउनेहरूले पूजा गर्ने घाट सारे...",
+   "link": "https://gorkhapatraonline.com/news/229145",
+   "source": "Gorkhapatra",
+   "ts": 1794732424,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/391574/conversions/saptakoshi--original.jpg",
+   "lang": "ne",
+   "hl": "सप्तकोशी नदीको पानी सुकेपछि छठका घाट सारिए",
+   "en": "सप्तकोशी नदीको पानी सुकेपछि छठका घाट सारिए",
+   "ne": "सप्तकोशी नदीको पानी सुकेपछि छठका घाट सारिए",
+   "imp": 2,
+   "tags": [
+    "Saptakoshi",
+    "Chhath",
+    "Drought"
+   ],
+   "cat": "disaster",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Representatives from 115 Fortune Global 500 companies to attend APEC CEO Summit 2026",
+   "summary": "- Representatives from 115 Fortune Global 500 companies will attend the Asia-Pacific Economic Cooperation (APEC) CEO Summit 2026, the China Council for the Promotion of International Trade (CCPIT) said Sunday.U.S....",
+   "link": "https://theannapurnaexpress.com/story/68763",
+   "source": "Annapurna Express",
+   "ts": 1794720052.3126602,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "Representatives from 115 Fortune Global 500 companies to attend APEC CEO Summit 2026",
+   "en": "Representatives from 115 Fortune Global 500 companies to attend APEC CEO Summit 2026",
+   "ne": "Representatives from 115 Fortune Global 500 companies to attend APEC CEO Summit 2026",
+   "imp": 3,
+   "tags": [
+    "APEC",
+    "Fortune500",
+    "Summit2026"
+   ],
+   "cat": "economy",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "तिम्रा बा र देश!",
+   "summary": "अक्सर हिमालको फेदमुनि फक्रने गर्छन् हिमफूल म हिमफूल टिपेर चुल्ठोमा सिउरन्छु र जिस्कन्छु नजिकै बगिरहेको हिमनदीको प्रवाहसँग।",
+   "link": "https://www.setopati.com/literature/402620",
+   "source": "Setopati",
+   "ts": 1794731880,
+   "weight": 3,
+   "img": null,
+   "lang": "ne",
+   "hl": "तिम्रा बा र देश!",
+   "en": "तिम्रा बा र देश!",
+   "ne": "तिम्रा बा र देश!",
+   "imp": 1,
+   "tags": [
+    "Timbra",
+    "Country"
+   ],
+   "cat": "politics",
+   "val": 1,
+   "teaser": true,
+   "hits": 1
+  },
+  {
+   "title": "UML calls central committee meeting after national gathering of party cadres",
+   "summary": "Kathmandu, November 15 The CPN-UML has called a central committee meeting immediately after its national gathering of party cadres. The party's fourth central committee meeting is scheduled for November 21, according to...",
+   "link": "https://english.onlinekhabar.com/uml-calls-central-committee-meeting-after-national-gathering-of-party-cadres.html",
+   "source": "Onlinekhabar EN",
+   "ts": 1794732075,
+   "weight": 3,
+   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/11/CPN-UML-flag-Logo.jpg",
+   "lang": "en",
+   "hl": "UML calls central committee meeting after national gathering of party cadres",
+   "en": "UML calls central committee meeting after national gathering of party cadres",
+   "ne": "UML calls central committee meeting after national gathering of party cadres",
+   "imp": 3,
+   "tags": [
+    "UML",
+    "CentralCommittee",
+    "Party"
+   ],
+   "cat": "politics",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Eight Candidates Vie for UN Secretary-General Position Amidst Veto Power Concerns",
+   "summary": "Kathmandu. There are eight candidates competing for the top administrative and diplomatic post of the United Nations (UN) Secretary-General this...",
+   "link": "http://english.ratopati.com/story/86744/how-is-the-new-secretary-general-of-the-united-nations-elected",
+   "source": "Ratopati EN",
+   "ts": 1794733430,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/un_united-213432_A70jpQ5IqF.jpg",
+   "lang": "en",
+   "hl": "Eight Candidates Vie for UN Secretary-General Position Amidst Veto Power Concerns",
+   "en": "Eight Candidates Vie for UN Secretary-General Position Amidst Veto Power Concerns",
+   "ne": "Eight Candidates Vie for UN Secretary-General Position Amidst Veto Power Concerns",
+   "imp": 2,
+   "tags": [
+    "SecretaryGeneral",
+    "Veto"
+   ],
+   "cat": "world",
+   "val": 2,
    "teaser": false,
    "hits": 1
   }
@@ -8891,10 +9205,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "economy"
+  },
+  {
+   "ts": 1794734463.3169892,
+   "en": "Dhaulagiri Hospital in Baglung awaits trauma centre a decade after 2015 plan announcement",
+   "ne": "Dhaulagiri Hospital in Baglung awaits trauma centre a decade after 2015 plan announcement",
+   "link": "https://kathmandupost.com/health/2026/11/15/dhaulagiri-hospital-still-waiting-for-trauma-centre-a-decade-after-announcement",
+   "source": "Kathmandu Post",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "health"
   }
  ],
- "updated": 1794733852,
- "pending_since": 1794732652.1942976,
+ "updated": 1794734477,
+ "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
