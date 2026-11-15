@@ -1,9 +1,5 @@
 {
  "seen": {
-  "https://www.ujyaaloonline.com/detail/133443": 1794553285.7282743,
-  "https://www.setopati.com/politics/402488": 1794553285.7282743,
-  "https://www.setopati.com/politics/402489": 1794553285.7282743,
-  "https://theannapurnaexpress.com/story/68722": 1794553285.7282743,
   "https://gorkhapatraonline.com/news/228939": 1794553854.5138125,
   "https://gorkhapatraonline.com/news/228940": 1794553854.5138125,
   "https://www.setopati.com/social/402490": 1794553854.5138125,
@@ -1660,7 +1656,11 @@
   "https://nagariknews.nagariknetwork.com/Dharma-Saskriti/offering-argha-to-the-setting-sun-today-the-third-day-of-chhath-puja-br-15-91.html": 1794726079.091466,
   "https://nagariknews.nagariknetwork.com/politics/we-will-not-form-another-front-against-leftist-forces-angwo-14-69.html": 1794726079.091466,
   "https://nagariknews.nagariknetwork.com/sports/npl-karnali-batting-against-chitwan-br-64-31.html": 1794726079.091466,
-  "https://nagariknews.nagariknetwork.com/arts/the-memory-will-forever-hurt-in-my-heart-br-22-47.html": 1794726079.091466
+  "https://nagariknews.nagariknetwork.com/arts/the-memory-will-forever-hurt-in-my-heart-br-22-47.html": 1794726079.091466,
+  "http://english.ratopati.com/story/86728/goat-farming-changed-dambars-life": 1794726649.5877755,
+  "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaE9TZjBjdFAwV09ZclplajV0ejUwN3ZWX09vRUs0MzZPYnBmLVJlWEFpOWU3X3FNUm1hNW1XR09rV1NNUEJIcDJUM2xfd3FjSDNHTnpLRFh3QVQ2UldzdHZNRFpDNGFORmVSYVhhSXV5bXVMbFduUExWVE9ZN3lMYm40a3lkWmI4UVNaMGdFUzRkWEZKVG1wREhFby1kZXZQdk84TlZTMWJ6dGVNZFE?oc=5": 1794726649.5877755,
+  "https://english.onlinekhabar.com/himalayan-distillerys-profit-rises.html": 1794726649.5877755,
+  "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTFVJZl90SG9QVkJ4UUlzMGdvRFdfdjRrTDNUQ2Y1Q0dkc3JUU3lwMkFtT2wxZTI5THJsWXFxTGl3NlgzakRWWUFJN3ZINlRldFRsNG1qNVJJWFRuZGh3SW1XV3ljMzlpbDhRWEZmVWRNc3BXMHJOd0tWenJJSmVNaHJqaXV3NlF0a3U5VTNhUDI5UFNGRVRJcGRlR1B6elgwek5mWkdtemluN2E3Qll2bDJvTUZjS1hwY0c3TVhneXMzdGY1?oc=5": 1794726649.5877755
  },
  "queue": [
   {
@@ -3170,7 +3170,7 @@
    "cat": "economy",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "UK's Prince William to be joined by wife Kate for visit to India",
@@ -8369,8 +8369,8 @@
    "cat": "crime"
   }
  ],
- "updated": 1794726085,
- "pending_since": null,
+ "updated": 1794726653,
+ "pending_since": 1794726649.5877755,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
