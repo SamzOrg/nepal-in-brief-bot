@@ -1651,7 +1651,15 @@
   "https://gorkhapatraonline.com/news/229122": 1794719450.108525,
   "https://gorkhapatraonline.com/news/229121": 1794719450.108525,
   "https://gorkhapatraonline.com/news/229120": 1794719450.108525,
-  "https://risingnepaldaily.com/news/88638": 1794720057.19203
+  "https://risingnepaldaily.com/news/88638": 1794720057.19203,
+  "http://english.ratopati.com/story/86713/the-price-of-gold-has-dropped-at-what-price-is-it-being-traded": 1794720667.4377334,
+  "https://www.setopati.com/politics/402600": 1794720667.4377334,
+  "https://risingnepaldaily.com/news/88639": 1794720667.4377334,
+  "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1SbHhPcHYxckxhbXNTR2FOd3RtV1FNczJWSG5ac2U3Vnc3YV9WbFp6OE5LblpOZS1nZVJOWWxlVjE1c2NSOXJZMC1DVldQVUI4?oc=5": 1794720667.4377334,
+  "https://risingnepaldaily.com/news/88637": 1794720667.4377334,
+  "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTXhOeXIxZVpTN2VhZE1faUNIZDRwb2o2N0F5RjV5UDMzLWRGbWl2em95RGpoeG1sdVBFMXBtQzA5NExKRkcyTl9iVmJIWlIxVXN3XzVnb0ZmaTdZYlNKZDc3SkVLc3h6TXRIR2V4eUNoOUpyOTJLdkQ3cDByMTdGQ2tycEUweHJ4a01ia01Sa002T2tMelNHeXJrMlpJZ2lhVWhVWHpOSDJPU0NjaHlERTR0RjU3VWJf?oc=5": 1794720667.4377334,
+  "https://news.google.com/rss/articles/CBMizwFBVV95cUxQaDdjUXBiTC1iRFgwbjl3eEd0aUZCdHpXUlJmN0otYUNVNEZlT0NUNV9uVkM1TEVxWG1wa3R3WmJXQ3c5NHZtcmpZQkpfWlRXNVZRZUNvUlFQLVNjYjB5WXlmZFQ3Um5mRnNDTkYtQWM2SHBLa0xGZWkxYlgxb1lDTTJYSGhwTHZScklRaG9UWWZyMWtqYW81cmpuejl4WHdDdE9JejhqRTFHY2FlZk5vNXVRbTVIYWxwdjA1U0o2eW5IcTB5SlNzX0xWdnNkeTQ?oc=5": 1794720667.4377334,
+  "https://news.google.com/rss/articles/CBMitwFBVV95cUxQY0pzRWZBMUlvcG9lNVZDaU5BYkFxRWlvNFp6bjhkMng1OHJhWldQVDduVjZrMzRFU1ZrT09NNkxhSnNhcVphRHF6SS0tZmgwZnRtNk95M0NybG5wdlZ1cnMzWk04WlJnY0thelpGYzdWUXpZc1l3SVV1ZERWZEM4QUZOSTBHNURROXJLR2lrZzhaX201RlVZaW15X09mM2tsdHNMeU1KQk9iNTdtNFVZZzdmZmVGV1k?oc=5": 1794720667.4377334
  },
  "queue": [
   {
@@ -2703,7 +2711,7 @@
    "cat": "culture",
    "val": 3,
    "teaser": false,
-   "hits": 6
+   "hits": 7
   },
   {
    "title": "छठ पूजाको तयारी",
@@ -4348,7 +4356,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "स्तरोन्नति हुन सकेन विमानस्थल",
@@ -4395,20 +4403,32 @@
    "val": 2,
    "teaser": true,
    "hits": 1
+  },
+  {
+   "title": "Vietnam Buddhist Sangha, Drukpa nuns donate Rs17.1m to Nepal flood relief",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQY0pzRWZBMUlvcG9lNVZDaU5BYkFxRWlvNFp6bjhkMng1OHJhWldQVDduVjZrMzRFU1ZrT09NNkxhSnNhcVphRHF6SS0tZmgwZnRtNk95M0NybG5wdlZ1cnMzWk04WlJnY0thelpGYzdWUXpZc1l3SVV1ZERWZEM4QUZOSTBHNURROXJLR2lrZzhaX201RlVZaW15X09mM2tsdHNMeU1KQk9iNTdtNFVZZzdmZmVGV1k?oc=5",
+   "source": "The Tourism Times",
+   "ts": 1794719100,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "Vietnam Buddhist Sangha, Drukpa nuns donate Rs17.1m to Nepal flood relief",
+   "en": "Vietnam Buddhist Sangha, Drukpa nuns donate Rs17.1m to Nepal flood relief",
+   "ne": "Vietnam Buddhist Sangha, Drukpa nuns donate Rs17.1m to Nepal flood relief",
+   "imp": 3,
+   "tags": [
+    "FloodRelief",
+    "Vietnam",
+    "Drukpa"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1794115257.9096086,
-   "en": "NDRRMA releases list of 63 missing Jumla residents from Rasuwa flood",
-   "ne": "NDRRMA releases list of 63 missing Jumla residents from Rasuwa flood",
-   "link": "https://myrepublica.nagariknetwork.com/amp/news/bhotekoshi-flood-official-list-of-63-missing-people-from-jumla-released-97-31.html",
-   "source": "myRepublica",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "disaster"
-  },
   {
    "ts": 1794117057.4551697,
    "en": "Dry Landslide at Ghoptebhir Blocks Prithvi Highway in Chitwan",
@@ -7402,7 +7422,7 @@
    "cat": "sports"
   }
  ],
- "updated": 1794720087,
+ "updated": 1794720679,
  "pending_since": 1794720057.19203,
  "fb_blocks": [
   1790350880.4125228,
