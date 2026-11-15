@@ -1622,7 +1622,10 @@
   "https://gorkhapatraonline.com/news/229109": 1794715847.4714737,
   "https://news.google.com/rss/articles/CBMifkFVX3lxTE5rN2pGWFBYemhyeFhvZ3dyRGE2dlBzTTA3elhEZXNnbV9zQ0NlZ3NTaG1mcG4wYkV6c1RGQ2l1RGpMZUdqaENLdW9zWW9Nd2VBQ2IzMTU1ZUczVVNrRC1GNGZXUy1Jb1hxaHcxRkdaTHpZM281V3JqSUdYcld1Zw?oc=5": 1794716449.5981183,
   "https://news.google.com/rss/articles/CBMilAFBVV95cUxQREVGUkE4dElCN0pMVjBHalNROGlFeXVKaTRSZXdGQTdzMU5BYmFfQ2prYlhGd2NMOEEzOG5ZZVJxbGdCMHVwY3M4TC1XbkdzZDVJeV9jVUg2OVpFTmh5MXVNdWZ6cjhCVjVjQXdZUmlrTXBtNVlYb0NLYU82Y2FjTDN2alMydm41d2ZSMlg3MFNJRldw?oc=5": 1794716449.5981183,
-  "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5GVDViUzMyMVRaVXJBRGhndklUQVhlNUFBM2NqY1I4XzVxZDNrLUI4YW9XeWh4Vmxla2pKTV94MjhBYm1lNjRUTg?oc=5": 1794716449.5981183
+  "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5GVDViUzMyMVRaVXJBRGhndklUQVhlNUFBM2NqY1I4XzVxZDNrLUI4YW9XeWh4Vmxla2pKTV94MjhBYm1lNjRUTg?oc=5": 1794716449.5981183,
+  "https://news.google.com/rss/articles/CBMickFVX3lxTE92SWtDbFZIX0tmU25SYktQUWYyd0kxY2NsMDBTRzF5LXk4ekU0ZVhFbmwwSXRRcUVPNTFnLUo5RmJFN1ZxMmxmT3p2YmZJVFFsQmg4TGh2M1VySmxQYmVZdUE3Q0pTNEJHdXVFVFlKYTVVdw?oc=5": 1794717066.2940478,
+  "https://news.google.com/rss/articles/CBMidkFVX3lxTE1IUFp1MlhKZjhNYWx6eEl2WE90TGYxNzRyb0xTcldwcDJkQjdXUE5ueEItZHpHaFZ1S1BndkNaS3VTXzU4VEczWWRJVklpeEY5RGVUSWpoZFVTNXBvOTJGaS1tdmdqdzhEVXlHT3VZOGwwVUFRMmc?oc=5": 1794717066.2940478,
+  "http://english.ratopati.com/story/86707/the-ongoing-dispute-between-locals-of-mugu-and-humla-regarding-herb-collection-will-be-resolved": 1794717066.2940478
  },
  "queue": [
   {
@@ -3938,20 +3941,32 @@
    "val": 2,
    "teaser": true,
    "hits": 1
+  },
+  {
+   "title": "Chief Minister Meets Families of Victims Who Died While Collecting Herbs",
+   "summary": "Mugu. Karnali Chief Minister Mangal Bahadur Shahi has met the victim families who died while collecting herbs. Chief Minister Shahi...",
+   "link": "http://english.ratopati.com/story/86707/the-ongoing-dispute-between-locals-of-mugu-and-humla-regarding-herb-collection-will-be-resolved",
+   "source": "Ratopati EN",
+   "ts": 1794716559,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/12683_KJi0vzShO5.webp",
+   "lang": "en",
+   "hl": "Chief Minister Meets Families of Victims Who Died While Collecting Herbs",
+   "en": "Chief Minister Meets Families of Victims Who Died While Collecting Herbs",
+   "ne": "Chief Minister Meets Families of Victims Who Died While Collecting Herbs",
+   "imp": 3,
+   "tags": [
+    "ChiefMinister",
+    "Herbs",
+    "Victims"
+   ],
+   "cat": "society",
+   "val": 1,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1794111656.5124762,
-   "en": "२१औं शताब्दीका संकटको विकल्प समाजवाद: एमाले नेता ज्ञवाली",
-   "ne": "२१औं शताब्दीका संकटको विकल्प समाजवाद: एमाले नेता ज्ञवाली",
-   "link": "https://www.setopati.com/politics/402267",
-   "source": "Setopati",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "politics"
-  },
   {
    "ts": 1794113456.3097103,
    "en": "कांग्रेस आधिकारिकता विवादमा १८ करोडको चलखेलबारे निष्पक्ष छानबिन गर्न देउवाको माग",
@@ -6945,7 +6960,7 @@
    "cat": "politics"
   }
  ],
- "updated": 1794716475,
+ "updated": 1794717071,
  "pending_since": 1794716449.5981183,
  "fb_blocks": [
   1790350880.4125228,
