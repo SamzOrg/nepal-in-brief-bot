@@ -1656,29 +1656,6 @@
    "hits": 1
   },
   {
-   "title": "काठमाडौं गोर्खाजलाई 'प्लेअफ १' खेल्न कठिन",
-   "summary": "नेपाल प्रिमियर लिग (एनपीएल) को लिग चरणको अन्तिम खेलमा पोखरा एभेन्जर्सविरुद्ध ब्याटिङ धराशायी भएपछि काठमाडौं गोर्खाजका लागि शीर्ष दुईमा रहेर पहिलो क्वालिफायर खेल्ने सम्भावना कठिन बनेको छ।...",
-   "link": "https://nagariknews.nagariknetwork.com/sports/kathmandu-gorkhas-will-have-a-tough-time-playing-in-playoff-1-78-10.html",
-   "source": "Nagarik News",
-   "ts": 1794753837,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1794753694_gorkha.png",
-   "lang": "ne",
-   "hl": "काठमाडौं गोर्खाजलाई 'प्लेअफ १' खेल्न कठिन",
-   "en": "काठमाडौं गोर्खाजलाई 'प्लेअफ १' खेल्न कठिन",
-   "ne": "काठमाडौं गोर्खाजलाई 'प्लेअफ १' खेल्न कठिन",
-   "imp": 3,
-   "tags": [
-    "NPL",
-    "KathmanduGorkhas",
-    "Playoffs"
-   ],
-   "cat": "sports",
-   "val": 1,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Niger Orders Thousands of Nomads to Leave by Year-End",
    "summary": "Kathmandu. Thousands of Arab nomads from the Mahamid tribe, who have been living in southeastern Niger for decades, have been...",
    "link": "http://english.ratopati.com/story/86769/niger-orders-thousands-of-arab-nomads-to-leave-country",
@@ -2085,30 +2062,6 @@
    "cat": "other",
    "val": 1,
    "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "Nepal celebrates Bhai Tika, marking the conclusion of its five | Akashvani News",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbVh5eWstdzlqNk5pbVVSRjJyYnlOc2pZakhZOVFVZFl1cVQzVzNtS1Qya29DQTctblFZOVdOSXBDcG9TSi1nRXhlOGZlcXlZSWFiMEtSMVRqMi15SFBxUWRZUWN3SmNjV2ZXTHBRaXgwRC1zSWRFMjhLNXFJaWRNaGNPUFFKblpITkRPNXR3ZDFtdkZmR0NPQVVwLTZfSEdSV1BjZTVWbFRoUQ?oc=5",
-   "source": "News On AIR",
-   "ts": 1794773853,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Nepal celebrates Bhai Tika, marking the conclusion of its five | Akashvani News",
-   "en": "Nepal celebrates Bhai Tika, marking the conclusion of its five | Akashvani News",
-   "ne": "Nepal celebrates Bhai Tika, marking the conclusion of its five | Akashvani News",
-   "imp": 4,
-   "tags": [
-    "BhaiTika",
-    "Tihar",
-    "Nepal",
-    "Festival"
-   ],
-   "cat": "culture",
-   "val": 3,
-   "teaser": false,
    "hits": 1
   },
   {
@@ -5186,9 +5139,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "disaster"
+  },
+  {
+   "ts": 1794783058.95623,
+   "en": "Nepal celebrates Bhai Tika, marking the conclusion of its five | Akashvani News",
+   "ne": "Nepal celebrates Bhai Tika, marking the conclusion of its five | Akashvani News",
+   "link": "https://newsonair.gov.in/nepal-celebrates-bhai-tika-marking-the-conclusion-of-its-five-day-tihar-festival/",
+   "source": "News On AIR",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "culture"
   }
  ],
- "updated": 1794782452,
+ "updated": 1794783073,
  "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
