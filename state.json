@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://baahrakhari.com/detail/507262": 1794592885.6346655,
   "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVzl4RmVTOUVJUDV5R2FDV1NaVnNzblZOZnR6a0hQRS1lYnp6ZE5Pd2FhNTRnWFFDRFlWeVN2VlBTYUNJMERBWk9Md001Qi02bDdYLTRYbTQyNUF6LUtkQXFOckdkNmdPOHNTUjVuUmo0LTBMbHY1bFhaQTNaOFdGSU04dDNSWDIzeHJ2WU01WEdBYUVPMjFBdzZsbS1acFZIUFVLeXpZX2o?oc=5": 1794595250.807321,
   "https://baahrakhari.com/detail/507263": 1794595250.807321,
   "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZGNEZUtIMEppei1HaXVfSDl5ZnlMbmZCbXpPbUpSZWhRNUVjVlB6QjhnRkNZY0tHMUE3aDFvZkFFYW1taEpvLXZjUktlbUJVS3BQTzdoVlpSQmx3ODhIb3psTzZ6UjhxTVVWaEVBejgxNDRHQmY1Z1hFR0ctLS1TVVNQSkVNcVE1ZzhKLWpXUmpZV0x6WHZXQ2RxUUpkTkd6eEE?oc=5": 1794597654.1738281,
@@ -1573,7 +1572,11 @@
   "https://gorkhapatraonline.com/news/229186": 1794763866.8710718,
   "https://gorkhapatraonline.com/news/229184": 1794763866.8710718,
   "https://gorkhapatraonline.com/news/229185": 1794763866.8710718,
-  "https://baahrakhari.com/detail/507402": 1794765679.4103818
+  "https://baahrakhari.com/detail/507402": 1794765679.4103818,
+  "https://gorkhapatraonline.com/news/229189": 1794766252.5587528,
+  "https://baahrakhari.com/detail/507401": 1794766252.5587528,
+  "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVDF0UTY4ZTFLRzIwMnJVMTJjcS1aWEhyZ0tGTHFsejVfYXR0NnFfSW1VSkFPM2RtZWUwWkRvQWpOQUlpQ3UyQkhqZUJuS2U2QW9YTFBPVnpGSEhQVVBNTXVxMGRldGR3X25JeDJKSFV3ZUhEOFpBY1RocGVtdGZsNWliRktVaTViTEo3YkJ0WXh6cW1KTDJDeDRsalpGaXRmdnE4a2hQcmlxY09EZVlvSGNHR3RzNHVvbVE?oc=5": 1794766252.5587528,
+  "https://gorkhapatraonline.com/news/229188": 1794766252.5587528
  },
  "queue": [
   {
@@ -1686,75 +1689,6 @@
     "Kathmandu"
    ],
    "cat": "education",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Free jeep service, new trekking route among Badimalika tourism plans",
-   "summary": "Key Takeaways: Budhinanda Municipality has adopted an 11-point tourism plan for Badimalika A free jeep service will operate between Kolti and Phulchadhaune for one year Authori...",
-   "link": "https://thehimalayantimes.com/nepal/free-jeep-service-new-trekking-route-among-badimalika-tourism-plans",
-   "source": "Himalayan Times",
-   "ts": 1794737321,
-   "weight": 3,
-   "img": "https://thehimalayantimes.com/thehimalayantimes/uploads/images/2026/11/15/51786.jpg",
-   "lang": "en",
-   "hl": "Free jeep service, new trekking route among Badimalika tourism plans",
-   "en": "Free jeep service, new trekking route among Badimalika tourism plans",
-   "ne": "Free jeep service, new trekking route among Badimalika tourism plans",
-   "imp": 2,
-   "tags": [
-    "Badimalika",
-    "Tourism",
-    "Trekking"
-   ],
-   "cat": "culture",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Senior citizens call for dedicated ministry to ensure their rights and welfare",
-   "summary": "Dhankuta, November 15 Senior citizens have called on the government to ensure that they can easily access the services, facilities and rights guaranteed to them by the state. Participants at the 12th General Assembly of...",
-   "link": "https://english.onlinekhabar.com/senior-citizens-call-for-dedicated-ministry-to-ensure-their-rights-and-welfare.html",
-   "source": "Onlinekhabar EN",
-   "ts": 1794737292,
-   "weight": 3,
-   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/11/jestha-nagarik-1024x500-1.jpg",
-   "lang": "en",
-   "hl": "Senior citizens call for dedicated ministry to ensure their rights and welfare",
-   "en": "Senior citizens call for dedicated ministry to ensure their rights and welfare",
-   "ne": "Senior citizens call for dedicated ministry to ensure their rights and welfare",
-   "imp": 2,
-   "tags": [
-    "SeniorCitizens",
-    "Rights",
-    "Nepal"
-   ],
-   "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Narayani River Bank Emerging as Tourist Hub in Nawalparasi",
-   "summary": "Nawalpurasi. The Narayani River bank in Madhyabindu Municipality-3, Nawalpurasi (Bardaghat-Susta East), is developing as a new tourist destination for domestic...",
-   "link": "http://english.ratopati.com/story/86749/riverside-becoming-a-destination-for-domestic-tourists",
-   "source": "Ratopati EN",
-   "ts": 1794737038,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/tourist_VESmmhswgy.webp",
-   "lang": "en",
-   "hl": "Narayani River Bank Emerging as Tourist Hub in Nawalparasi",
-   "en": "Narayani River Bank Emerging as Tourist Hub in Nawalparasi",
-   "ne": "Narayani River Bank Emerging as Tourist Hub in Nawalparasi",
-   "imp": 2,
-   "tags": [
-    "NarayaniRiver",
-    "Tourism",
-    "Nawalparasi"
-   ],
-   "cat": "society",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -2948,29 +2882,6 @@
    "hits": 1
   },
   {
-   "title": "SpaceX Starship returns to landing pad from orbit, acing test for reusable rockets",
-   "summary": "The spacecraft completed a 22-hour orbital flight before being caught by mechanical arms at its Texas launch tower, marking a major step towards SpaceX's goal of developing fully reusable rockets.",
-   "link": "https://kathmandupost.com/science-technology/2026/11/15/spacex-starship-returns-to-landing-pad-from-orbit-acing-test-for-reusable-rockets",
-   "source": "Kathmandu Post",
-   "ts": 1794736880.4151359,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "SpaceX Starship returns to landing pad from orbit, acing test for reusable rockets",
-   "en": "SpaceX Starship returns to landing pad from orbit, acing test for reusable rockets",
-   "ne": "SpaceX Starship returns to landing pad from orbit, acing test for reusable rockets",
-   "imp": 1,
-   "tags": [
-    "SpaceX",
-    "Starship",
-    "ReusableRockets"
-   ],
-   "cat": "tech",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "छठ पर्वको तेस्रो दिन संझिया अर्घ्य दिइयो",
    "summary": "नागेन्द्रकुमार कर्णमहोत्तरी, कात्तिक २९ गते । चार दिवसीय छठ पर्वको तेस्रो दिन आइतबार साँझ अस्ताउँदो सुर्यलाई पुजापाठसँगै संझिया अर्घ्र्य दिइएको छ । तराई क्षेत्रमा मनाइने प्रमुख पर्...",
    "link": "https://gorkhapatraonline.com/news/229175",
@@ -3058,29 +2969,6 @@
    ],
    "cat": "politics",
    "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Bhurtel falls one run short as Pokhara post record NPL total",
-   "summary": "Kushal Bhurtel hits 99 off 51 balls as Pokhara Avengers pile up 224 for two against Kathmandu Gorkhas, the highest total in the competition's history.",
-   "link": "https://kathmandupost.com/cricket/2026/11/15/bhurtel-falls-one-run-short-as-pokhara-post-record-npl-total",
-   "source": "Kathmandu Post",
-   "ts": 1794736880.4151359,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Bhurtel falls one run short as Pokhara post record NPL total",
-   "en": "Bhurtel falls one run short as Pokhara post record NPL total",
-   "ne": "Bhurtel falls one run short as Pokhara post record NPL total",
-   "imp": 2,
-   "tags": [
-    "Bhurtel",
-    "NPL",
-    "Pokhara"
-   ],
-   "cat": "sports",
-   "val": 2,
    "teaser": false,
    "hits": 1
   },
@@ -3649,7 +3537,7 @@
    "cat": "sports",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Annapurna welcomes 41,758 foreign tourists in October",
@@ -4012,7 +3900,7 @@
    "cat": "crime",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   }
  ],
  "posted": [
@@ -6998,8 +6886,8 @@
    "cat": "world"
   }
  ],
- "updated": 1794765684,
- "pending_since": 1794764451.0280616,
+ "updated": 1794766257,
+ "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
