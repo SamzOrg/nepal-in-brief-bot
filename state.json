@@ -1652,7 +1652,11 @@
   "https://www.setopati.com/blog/402633": 1794739256.9169297,
   "https://baahrakhari.com/detail/507372": 1794739256.9169297,
   "https://gorkhapatraonline.com/news/229152": 1794739256.9169297,
-  "https://nagariknews.nagariknetwork.com/politics/a-country-is-not-built-by-mps-and-ministers-traveling-abroad-purna-basnet-17-94.html": 1794739256.9169297
+  "https://nagariknews.nagariknetwork.com/politics/a-country-is-not-built-by-mps-and-ministers-traveling-abroad-purna-basnet-17-94.html": 1794739256.9169297,
+  "https://baahrakhari.com/detail/507375": 1794739851.7155943,
+  "https://risingnepaldaily.com/news/88650": 1794739851.7155943,
+  "https://risingnepaldaily.com/news/88645": 1794739851.7155943,
+  "https://kathmandupost.com/cricket/2026/11/15/karnali-sign-off-with-consolation-win-as-chitwan-finish-fourth": 1794739851.7155943
  },
  "queue": [
   {
@@ -1715,72 +1719,6 @@
     "ChhathPreparation"
    ],
    "cat": "culture",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "आज चीन जाँदै रास्वपाका २० सांसद",
-   "summary": "नोभेम्बर १५ देखि २६ तारिखसम्म हुने भ्रमणका क्रममा उनीहरूले चिनियाँ कम्युनिष्ट पार्टीका पोलिट्ब्युरो सदस्यसँग भेटघाट गर्ने कार्यक्रम छ।",
-   "link": "https://www.setopati.com/politics/402588",
-   "source": "Setopati",
-   "ts": 1794710995,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "आज चीन जाँदै रास्वपाका २० सांसद",
-   "en": "आज चीन जाँदै रास्वपाका २० सांसद",
-   "ne": "आज चीन जाँदै रास्वपाका २० सांसद",
-   "imp": 3,
-   "tags": [
-    "ChinaTrip",
-    "Rashtrapati"
-   ],
-   "cat": "politics",
-   "val": 2,
-   "teaser": false,
-   "hits": 4
-  },
-  {
-   "title": "वायु प्रदूषणले तराईको आकाश धुम्मियो, बुटवल र झापामा प्रदूषण उच्च",
-   "summary": "तराई क्षेत्रमा वायु प्रदूषणको मात्रा अत्यधिक बढेको छ ।",
-   "link": "https://www.ujyaaloonline.com/detail/133503",
-   "source": "Ujyaalo",
-   "ts": 1794710460,
-   "weight": 2,
-   "img": "https://www.ujyaaloonline.com/uploads/posts/air_pollution_ktm_valley_dWTMZKmrBd.jpg",
-   "lang": "ne",
-   "hl": "वायु प्रदूषणले तराईको आकाश धुम्मियो, बुटवल र झापामा प्रदूषण उच्च",
-   "en": "वायु प्रदूषणले तराईको आकाश धुम्मियो, बुटवल र झापामा प्रदूषण उच्च",
-   "ne": "वायु प्रदूषणले तराईको आकाश धुम्मियो, बुटवल र झापामा प्रदूषण उच्च",
-   "imp": 3,
-   "tags": [
-    "AirPollution",
-    "Butwal",
-    "Jhapa"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "शैक्षिक नवयुगको प्रस्थानविन्दु",
-   "summary": "मुलुकमा सङ्घीय लोकतान्त्रिक गणतन्त्र स्थापना भएको १८ वर्ष नाघिसकेको छ । यस अवधिमा राज्यका धेरै क्षेत्रका कानुन परिमार्जित र रूपान्तरित भए तर मुलुकको भविष्य कोर्ने शिक्षा क्षेत्रको...",
-   "link": "https://gorkhapatraonline.com/news/229104",
-   "source": "Gorkhapatra",
-   "ts": 1794710798,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/391516/conversions/rrra-original.jpg",
-   "lang": "ne",
-   "hl": "शैक्षिक नवयुगको प्रस्थानविन्दु",
-   "en": "शैक्षिक नवयुगको प्रस्थानविन्दु",
-   "ne": "शैक्षिक नवयुगको प्रस्थानविन्दु",
-   "imp": 2,
-   "tags": [
-    "Education"
-   ],
-   "cat": "education",
    "val": 2,
    "teaser": false,
    "hits": 1
@@ -3394,30 +3332,6 @@
    "hits": 3
   },
   {
-   "title": "Police Arrest 3 with Brown Sugar in Jhapa and Sunsari",
-   "summary": "Biratnagar. Police have arrested 3 people with the drug brown sugar. Police have arrested 3 people with brown sugar from...",
-   "link": "http://english.ratopati.com/story/86719/3-arrested-with-brown-sugar-from-jhapa-and-sunsari",
-   "source": "Ratopati EN",
-   "ts": 1794723406,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/crime-arrest-group_3_4GHHJE5ZrB.jpg",
-   "lang": "en",
-   "hl": "Police Arrest 3 with Brown Sugar in Jhapa and Sunsari",
-   "en": "Police Arrest 3 with Brown Sugar in Jhapa and Sunsari",
-   "ne": "Police Arrest 3 with Brown Sugar in Jhapa and Sunsari",
-   "imp": 3,
-   "tags": [
-    "BrownSugar",
-    "Jhapa",
-    "Sunsari",
-    "DrugArrest"
-   ],
-   "cat": "crime",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
    "title": "सरकारका आन्तरिक कामकारबाहीमा पार्टीले हस्तक्षेप गर्दैन : प्रवक्ता खरेल",
    "summary": "राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) ले सरकार सञ्चालनमा प्रधानमन्त्री बालेन्द्र शाहको कदममा पूर्ण समर्थन जनाउने बताएको छ।...",
    "link": "https://nagariknews.nagariknetwork.com/politics/party-does-not-interfere-in-internal-affairs-of-government-spokesperson-kharel-br-25-89.html",
@@ -4683,7 +4597,7 @@
    "cat": "politics",
    "val": 2,
    "teaser": false,
-   "hits": 3
+   "hits": 4
   },
   {
    "title": "India Under-19s B Women vs Nepal Under-19s Women at Bengaluru, 18 Nov 2026",
@@ -5190,7 +5104,7 @@
    "cat": "sports",
    "val": 3,
    "teaser": false,
-   "hits": 3
+   "hits": 4
   },
   {
    "title": "China's independently developed 10-tonne electric aircraft completes first piloted flight",
@@ -9238,9 +9152,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "politics"
+  },
+  {
+   "ts": 1794739859.0101678,
+   "en": "Police Arrest 3 People with Brown Sugar in Jhapa and Sunsari",
+   "ne": "Police Arrest 3 People with Brown Sugar in Jhapa and Sunsari",
+   "link": "http://english.ratopati.com/story/86719/3-arrested-with-brown-sugar-from-jhapa-and-sunsari",
+   "source": "Ratopati EN",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "crime"
   }
  ],
- "updated": 1794739264,
+ "updated": 1794739870,
  "pending_since": 1794739256.9169297,
  "fb_blocks": [
   1790350880.4125228,
