@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://risingnepaldaily.com/news/88561": 1794545452.8525326,
-  "https://risingnepaldaily.com/news/88560": 1794545452.8525326,
   "https://thehimalayantimes.com/nepal/youth-injured-in-knife-attack-following-motorcycle-collision-dispute-in-bara": 1794546085.3736587,
   "https://risingnepaldaily.com/news/88563": 1794546085.3736587,
   "https://english.khabarhub.com/2026/13/575434/": 1794546085.3736587,
@@ -1640,7 +1638,10 @@
   "https://gorkhapatraonline.com/news/229116": 1794717653.5735686,
   "https://nagariknews.nagariknetwork.com/international/netanyahu-again-calls-for-national-unity-government-citing-iran-threat-eisenkot-gives-this-response-81-56.html": 1794717653.5735686,
   "https://gorkhapatraonline.com/news/229115": 1794717653.5735686,
-  "https://nagariknews.nagariknetwork.com/arts/the-desire-to-walk-br-48-52.html": 1794717653.5735686
+  "https://nagariknews.nagariknetwork.com/arts/the-desire-to-walk-br-48-52.html": 1794717653.5735686,
+  "https://baahrakhari.com/detail/507341": 1794718262.4990606,
+  "https://risingnepaldaily.com/news/88633": 1794718262.4990606,
+  "https://english.onlinekhabar.com/nepal-medals-astronomy-olympiad.html": 1794718262.4990606
  },
  "queue": [
   {
@@ -1803,51 +1804,6 @@
    "hits": 3
   },
   {
-   "title": "More than 100,000 rally across France in new Yellow Vest protests",
-   "summary": "More than 100,000 people have taken to the streets in France in another round of cost-of-living rallies organised by the \"Yellow Vests\" and various youth movements, Aljazeera reported. Saturday's protests saw a decline...",
-   "link": "https://theannapurnaexpress.com/story/68751",
-   "source": "Annapurna Express",
-   "ts": 1794689455.4317882,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "More than 100,000 rally across France in new Yellow Vest protests",
-   "en": "More than 100,000 rally across France in new Yellow Vest protests",
-   "ne": "More than 100,000 rally across France in new Yellow Vest protests",
-   "imp": 1,
-   "tags": [
-    "France",
-    "YellowVest"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "And then there were four: Lumbini lead NPL playoff pack",
-   "summary": "The defending champions sealed the top spot with a four-wicket win over Biratnagar, leaving Sudurpaschim, Kathmandu and Chitwan to fight over second to fourth on Sunday.",
-   "link": "https://kathmandupost.com/cricket/2026/11/15/and-then-there-were-four-lumbini-lead-npl-playoff-pack",
-   "source": "Kathmandu Post",
-   "ts": 1794689450.1344478,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "And then there were four: Lumbini lead NPL playoff pack",
-   "en": "And then there were four: Lumbini lead NPL playoff pack",
-   "ne": "And then there were four: Lumbini lead NPL playoff pack",
-   "imp": 3,
-   "tags": [
-    "NPL",
-    "Lumbini",
-    "Cricket"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "CPN (UML) to Hold National Assembly, Local Representatives' Assembly, and Central Committee Meeting in November/December",
    "summary": "Kathmandu. CPN (UML) is going to hold a national assembly on November 17 and 18. Immediately after the national assembly,...",
    "link": "http://english.ratopati.com/story/86694/central-committee-meeting-and-peoples-representatives-meeting-immediately-after-umls-national-gathering",
@@ -1914,7 +1870,7 @@
    "cat": "world",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "Sama-Chakewa festivities begin alongside Chhath",
@@ -1934,52 +1890,6 @@
     "Chhath"
    ],
    "cat": "culture",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
-   "summary": "Donald Trump, Vladimir Putin and Xi Jinping are planning to meet on the sidelines of a summit in China next week, the White House has said, BBC reported. The historic meeting between the respective leaders of the US,...",
-   "link": "https://theannapurnaexpress.com/story/68750",
-   "source": "Annapurna Express",
-   "ts": 1794689455.4317882,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
-   "en": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
-   "ne": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
-   "imp": 1,
-   "tags": [
-    "Trump",
-    "Putin",
-    "China"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "SIPs attracted investors in the past. Current low returns frustrate them",
-   "summary": "Investors say returns have fallen short of expectations, partly because many entered SIPs believing their money would multiply over time.",
-   "link": "https://kathmandupost.com/money/2026/11/15/sips-attracted-investors-in-the-past-current-low-returns-frustrate-them",
-   "source": "Kathmandu Post",
-   "ts": 1794689450.1344478,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "SIPs attracted investors in the past. Current low returns frustrate them",
-   "en": "SIPs attracted investors in the past. Current low returns frustrate them",
-   "ne": "SIPs attracted investors in the past. Current low returns frustrate them",
-   "imp": 3,
-   "tags": [
-    "SIP",
-    "Investment",
-    "NepalShareMarket"
-   ],
-   "cat": "economy",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -2049,29 +1959,6 @@
    "val": 2,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "Lamichhane asks China-bound MPs to keep third countries out of talks",
-   "summary": "The RSP chair asks the 20-member delegation to focus on Nepal-China ties and study China's experience in governance, technology and development.",
-   "link": "https://kathmandupost.com/politics/2026/11/15/lamichhane-asks-china-bound-mps-to-keep-third-countries-out-of-talks",
-   "source": "Kathmandu Post",
-   "ts": 1794689450.1344478,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Lamichhane asks China-bound MPs to keep third countries out of talks",
-   "en": "Lamichhane asks China-bound MPs to keep third countries out of talks",
-   "ne": "Lamichhane asks China-bound MPs to keep third countries out of talks",
-   "imp": 3,
-   "tags": [
-    "RabiLamichhane",
-    "China",
-    "Parliament"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 3
   },
   {
    "title": "लिखित परीक्षा नलिई सिधै स्थायी",
@@ -2852,7 +2739,7 @@
    "cat": "culture",
    "val": 3,
    "teaser": false,
-   "hits": 4
+   "hits": 5
   },
   {
    "title": "छठ पूजाको तयारी",
@@ -3708,29 +3595,6 @@
    "hits": 1
   },
   {
-   "title": "Umesh Shrestha's brother Mahesh arrested in Kathmandu",
-   "summary": "Kathmandu, November 15 Mahesh Shrestha, brother of Nepali Congress leader Umesh Shrestha, has been arrested from Pangha, Kirtipur. Senior Superintendent of Police (SSP) Dilip Ghimire of the Kathmandu District Police...",
-   "link": "https://english.onlinekhabar.com/umesh-shresthas-brother-mahesh-arrested-in-kathmandu.html",
-   "source": "Onlinekhabar EN",
-   "ts": 1794715557,
-   "weight": 3,
-   "img": "http://english.onlinekhabar.com/wp-content/uploads/2024/05/arrested-police.jpg",
-   "lang": "en",
-   "hl": "Umesh Shrestha's brother Mahesh arrested in Kathmandu",
-   "en": "Umesh Shrestha's brother Mahesh arrested in Kathmandu",
-   "ne": "Umesh Shrestha's brother Mahesh arrested in Kathmandu",
-   "imp": 3,
-   "tags": [
-    "MaheshShrestha",
-    "Arrest",
-    "Kathmandu"
-   ],
-   "cat": "crime",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
    "title": "कांग्रेसले खुलामञ्चमा रोप्यो दुबो",
    "summary": "क्षति पुगेका केही स्थानमा नयाँ दुबो रोप्ने तथा त्यसको संरक्षण र हुर्काउने व्यवस्था समेत कांग्रेसले गर्नेछ।",
    "link": "https://www.setopati.com/politics/402593",
@@ -4248,20 +4112,32 @@
    "val": 1,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "Nepal wins four medals, including first silver, at Astronomy Olympiad",
+   "summary": "Kathmandu, November 15 Nepali students have won four medals, including Nepal's first silver, at the fifth Open World Astronomy Olympiad held in Russia. At the competition, which concluded on Saturday in Sirius, Russia,...",
+   "link": "https://english.onlinekhabar.com/nepal-medals-astronomy-olympiad.html",
+   "source": "Onlinekhabar EN",
+   "ts": 1794717725,
+   "weight": 3,
+   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/11/khagol.jpg",
+   "lang": "en",
+   "hl": "Nepal wins four medals, including first silver, at Astronomy Olympiad",
+   "en": "Nepal wins four medals, including first silver, at Astronomy Olympiad",
+   "ne": "Nepal wins four medals, including first silver, at Astronomy Olympiad",
+   "imp": 3,
+   "tags": [
+    "Nepal",
+    "AstronomyOlympiad",
+    "SilverMedal"
+   ],
+   "cat": "sports",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1794113456.3097103,
-   "en": "कांग्रेस आधिकारिकता विवादमा १८ करोडको चलखेलबारे निष्पक्ष छानबिन गर्न देउवाको माग",
-   "ne": "कांग्रेस आधिकारिकता विवादमा १८ करोडको चलखेलबारे निष्पक्ष छानबिन गर्न देउवाको माग",
-   "link": "https://www.setopati.com/politics/402272",
-   "source": "Setopati",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "politics"
-  },
   {
    "ts": 1794115257.9096086,
    "en": "NDRRMA releases list of 63 missing Jumla residents from Rasuwa flood",
@@ -7242,10 +7118,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "politics"
+  },
+  {
+   "ts": 1794718269.5907538,
+   "en": "Mahesh Shrestha, brother of NC leader Umesh Shrestha, arrested in Kirtipur",
+   "ne": "Mahesh Shrestha, brother of NC leader Umesh Shrestha, arrested in Kirtipur",
+   "link": "https://english.onlinekhabar.com/umesh-shresthas-brother-mahesh-arrested-in-kathmandu.html",
+   "source": "Onlinekhabar EN",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "crime"
   }
  ],
- "updated": 1794717659,
- "pending_since": null,
+ "updated": 1794718285,
+ "pending_since": 1794718262.4990606,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
