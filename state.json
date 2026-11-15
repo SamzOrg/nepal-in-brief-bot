@@ -1588,28 +1588,6 @@
  },
  "queue": [
   {
-   "title": "Dry landslide blocks Kaligandaki Corridor",
-   "summary": "GULMI: The Kaligandaki Corridor has been blocked again following a dry landslide in the Rakse section of Kaligandaki Rural Municipality-2, Gulmi. The road has remained completely impassable since this evening after...",
-   "link": "https://english.khabarhub.com/2026/15/575742/",
-   "source": "Khabarhub EN",
-   "ts": 1794754601,
-   "weight": 2,
-   "img": "https://english.khabarhub.com/wp-content/uploads/2025/08/Kaligandaki-Corridor-RSS-400x220.jpeg",
-   "lang": "en",
-   "hl": "Dry landslide blocks Kaligandaki Corridor",
-   "en": "Dry landslide blocks Kaligandaki Corridor",
-   "ne": "Dry landslide blocks Kaligandaki Corridor",
-   "imp": 3,
-   "tags": [
-    "Landslide",
-    "Kaligandaki"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 3
-  },
-  {
    "title": "सन्दीपको कप्तानीमा 'राइजिङ स्टार्स' खेल्ने नेपाली टोली घोषणा",
    "summary": "नेपाल क्रिकेट सङ्घ (क्यान) ले 'एसीसी मेन्स एसिया कप राइजिङ स्टार्स, २०२६' का लागि सन्दीप लामिछानेको कप्तानीमा १५ सदस्यीय नेपाली टोली घोषणा गरेको छ।...",
    "link": "https://nagariknews.nagariknetwork.com/sports/main-headline-of-the-news-78-42.html",
@@ -2159,17 +2137,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1794178254.492396,
-   "en": "टर्कीमा भोलिदेखि सुरू हुने कोप-३१ सम्मेलनमा अमेरिकी सरकार अनुपस्थित रहने, १९ सांसद सहभागी हुने",
-   "ne": "टर्कीमा भोलिदेखि सुरू हुने कोप-३१ सम्मेलनमा अमेरिकी सरकार अनुपस्थित रहने, १९ सांसद सहभागी हुने",
-   "link": "https://www.setopati.com/politics/402308",
-   "source": "Setopati",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "world"
-  },
   {
    "ts": 1794180058.244336,
    "en": "१०औँ राष्ट्रिय खेलकुद: कर्णालीमा पहिलो चरणको बन्द प्रशिक्षण सुरु",
@@ -5152,7 +5119,7 @@
    "cat": "culture"
   }
  ],
- "updated": 1794783073,
+ "updated": 1794783685,
  "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
