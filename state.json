@@ -1907,28 +1907,6 @@
    "hits": 2
   },
   {
-   "title": "Mass funeral held for Bhimphedi accident victims",
-   "summary": "By Janarjan KhatriSarlahi, Nov. 15: The bodies of 12 people from Sundarpur village in Ward 4 of Chakraghatta Rural Munic...",
-   "link": "https://risingnepaldaily.com/news/88618",
-   "source": "Rising Nepal",
-   "ts": 1794702186,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Mass funeral held for Bhimphedi accident victims",
-   "en": "Mass funeral held for Bhimphedi accident victims",
-   "ne": "Mass funeral held for Bhimphedi accident victims",
-   "imp": 4,
-   "tags": [
-    "Bhimphedi",
-    "Accident"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Nepal lobbies for mountain agenda at COP31",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBtTzlab1h0QndrNDZBcVhMUXJiZUREZHZrOVNiODBmRUJ1UVZaVEhmSjM5cUJhams0SFF6d3dhTHFrV3hNbFZSWTdvU01VNF8w?oc=5",
@@ -2307,29 +2285,6 @@
    "cat": "culture",
    "val": 1,
    "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "Bajura: Stone Fall Kills Child",
-   "summary": "Dhangadhi. A child has died after being hit by a falling stone from a cliff in Bajura. 8-year-old Samir Buda,...",
-   "link": "http://english.ratopati.com/story/86689/8-year-old-boy-dies-after-being-hit-by-falling-rocks-in-bajura",
-   "source": "Ratopati EN",
-   "ts": 1794704874,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/bajura_p4f28qgojq_GTbkl6JXnV.jpg",
-   "lang": "en",
-   "hl": "Bajura: Stone Fall Kills Child",
-   "en": "Bajura: Stone Fall Kills Child",
-   "ne": "Bajura: Stone Fall Kills Child",
-   "imp": 4,
-   "tags": [
-    "Bajura",
-    "Landslide",
-    "बाजुरा"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
    "hits": 1
   },
   {
@@ -5508,10 +5463,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "politics"
+  },
+  {
+   "ts": 1794705656.283713,
+   "en": "8-Year-Old Boy Dies After Being Hit by Falling Stone in Bajura",
+   "ne": "8-Year-Old Boy Dies After Being Hit by Falling Stone in Bajura",
+   "link": "http://english.ratopati.com/story/86689/8-year-old-boy-dies-after-being-hit-by-falling-rocks-in-bajura",
+   "source": "Ratopati EN",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "disaster"
   }
  ],
- "updated": 1794705460,
- "pending_since": null,
+ "updated": 1794705668,
+ "pending_since": 1794705647.689772,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
