@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://english.khabarhub.com/2026/13/575495/": 1794583250.8383489,
-  "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNUzZONXExaGZ4VThFV3ZPb0FFUVF3TTJKZHUtR2tfTDBTbUZ1bUc4ZVl3bUVvWTFBTFFUZU1TQjY1dFBXN0lRUzd4cUI0ZlZleFdKalJiSFpJWGRfbGlRWGtLNEtMWThyY3I4aEhCQjhLczhqcm84Skd0Snp1bTlaSk55eHZkWWhRaGNubGJ4VWs3U3RhaFBpc2lhWFFIYVdjS1dubGhZVGhmYXVuT1B0Zm1YdVpQOG0tSEZwaUVMWGt3UEFaOURvZlhWSDlXY3lVb09QMktwOW5iRlo2VlhIa2hOQ095M1g4MHc?oc=5": 1794583250.8383489,
   "http://english.ratopati.com/story/86521/26-killed-in-minibus-container-truck-collision-in-assam": 1794583881.5388093,
   "http://english.ratopati.com/story/86522/a-do-or-die-situation-for-biratnagar-kings": 1794584453.6961682,
   "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZGtOZUQ3d3RKLUNkNzZmUV9KbGJ0N2ZQVUh5QmxrN2tONHV0SklCb2luSVh1bGFFdFltOThFX1pDcUdXeVBCQlBoWTlQU1Vya2I5TFRobWY0a0oxV2loemJGbmNqLXRmUGV5VTZiVWtLUzN4dS1tMVFiRU9idzgyWlB2Qm9TMlVOWUpHTnBRTGxFc0dhNUxKWmM5bjZBcUk2?oc=5": 1794584453.6961682,
@@ -1581,7 +1579,15 @@
   "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQ0ctS19hZmFNWFRNUWx0OWYycTlDZVBROEY0c2M4eFZEaUhxN0otbUs3ZENSTjE1NzRyb21yUmpKYTV4dGw4UDFOMDhLRDFpazNVZXRjRGVJbi05NnVwdmxUU3J1b1pBWFhHLThtOEh2N2hhVmEzOW9YN2FlaVJHdGYtbC1TT0NtLXc?oc=5": 1794754250.3239331,
   "https://english.khabarhub.com/2026/15/575742/": 1794754883.1032004,
   "https://baahrakhari.com/detail/507393": 1794755457.8855484,
-  "https://english.khabarhub.com/2026/15/575746/": 1794755457.8855484
+  "https://english.khabarhub.com/2026/15/575746/": 1794755457.8855484,
+  "https://nagariknews.nagariknetwork.com/sports/main-headline-of-the-news-78-42.html": 1794756056.8810549,
+  "https://www.setopati.com/sports/npl/402650": 1794756056.8810549,
+  "https://kathmandupost.com/sports/2026/11/15/kathmandu-to-face-chitwan-in-npl-eliminator-after-loss-to-pokhara": 1794756056.8810549,
+  "https://nagariknews.nagariknetwork.com/sports/npl-playoff-equation-lumbini-and-sudurpaschim-in-qualifier-1-kathmandu-s-rival-chitwan-70-20.html": 1794756056.8810549,
+  "https://www.setopati.com/kinmel/information-technology/402649": 1794756056.8810549,
+  "https://nagariknews.nagariknetwork.com/Dharma-Saskriti/chhath-festival-in-udayapur-devotees-throng-the-600-meter-long-ghat-47-24.html": 1794756056.8810549,
+  "https://nagariknews.nagariknetwork.com/sports/pokhara-wins-consolation-in-last-league-match-kathmandu-misses-out-on-qualifier-1-56-28.html": 1794756056.8810549,
+  "https://nagariknews.nagariknetwork.com/sports/kathmandu-gorkhas-will-have-a-tough-time-playing-in-playoff-1-78-10.html": 1794756056.8810549
  },
  "queue": [
   {
@@ -1677,29 +1683,6 @@
    "hits": 1
   },
   {
-   "title": "GANDAKI PROVINCE CHIEF DILLIRAJ BHATTA EXTENDS CHHATH FESTIVAL GREETINGS",
-   "summary": "Pokhara. Gandaki Province Chief Dilliraj Bhatta has stated that the Chhath festival highlights the relationship between nature and human life,...",
-   "link": "http://english.ratopati.com/story/86729/chhath-festival-promotes-national-unity-and-harmony-provincial-chief-bhatta",
-   "source": "Ratopati EN",
-   "ts": 1794727007,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/dilliraj-bhatta_rCkrSx2Acd.webp",
-   "lang": "en",
-   "hl": "GANDAKI PROVINCE CHIEF DILLIRAJ BHATTA EXTENDS CHHATH FESTIVAL GREETINGS",
-   "en": "GANDAKI PROVINCE CHIEF DILLIRAJ BHATTA EXTENDS CHHATH FESTIVAL GREETINGS",
-   "ne": "GANDAKI PROVINCE CHIEF DILLIRAJ BHATTA EXTENDS CHHATH FESTIVAL GREETINGS",
-   "imp": 2,
-   "tags": [
-    "Chhath",
-    "GandakiProvince",
-    "DillirajBhatta"
-   ],
-   "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "भारतबाट नेपाल आउँदा थाई गाँजा ल्याएपछि",
    "summary": "",
    "link": "https://baahrakhari.com/detail/507356",
@@ -1720,29 +1703,6 @@
    "cat": "crime",
    "val": 1,
    "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "च्याटजिपिटी सिकाएर महिनामा २२ लाख बढी कमाउने २० वर्षीय युवा",
-   "summary": "उनी पढ्दै गर्दा गोदाममा काम गर्थे। पछि आफ्नो प्राविधिक सीप अरूको समस्या समाधान गर्न प्रयोग गर्न सकिने महसुस भएपछि उनले एआईसम्बन्धी काम सुरु गरेको बताए।...",
-   "link": "https://nagariknews.nagariknetwork.com/others/20-year-old-earns-over-2-2-million-per-month-by-teaching-chatgpti-30-19.html",
-   "source": "Nagarik News",
-   "ts": 1794726971,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1794726691_Ansu.jpg",
-   "lang": "ne",
-   "hl": "च्याटजिपिटी सिकाएर महिनामा २२ लाख बढी कमाउने २० वर्षीय युवा",
-   "en": "च्याटजिपिटी सिकाएर महिनामा २२ लाख बढी कमाउने २० वर्षीय युवा",
-   "ne": "च्याटजिपिटी सिकाएर महिनामा २२ लाख बढी कमाउने २० वर्षीय युवा",
-   "imp": 2,
-   "tags": [
-    "ChatGPT",
-    "Youth",
-    "TechEntrepreneur"
-   ],
-   "cat": "tech",
-   "val": 3,
-   "teaser": false,
    "hits": 1
   },
   {
@@ -1767,29 +1727,6 @@
    "val": 3,
    "teaser": false,
    "hits": 2
-  },
-  {
-   "title": "How the fog of war puts journalism in the frame",
-   "summary": "Since the October 2023 Hamas attack on Israel, and during Israel's now three-year-long retaliation against Gaza, journalism's traditional commitment to objectivity has been on trial. Reporting on the Israel-Gaza war has...",
-   "link": "https://english.onlinekhabar.com/fog-of-war-journalism.html",
-   "source": "Onlinekhabar EN",
-   "ts": 1794727200,
-   "weight": 3,
-   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/11/gaza-1024x683.jpg",
-   "lang": "en",
-   "hl": "How the fog of war puts journalism in the frame",
-   "en": "How the fog of war puts journalism in the frame",
-   "ne": "How the fog of war puts journalism in the frame",
-   "imp": 1,
-   "tags": [
-    "Journalism",
-    "War",
-    "Media"
-   ],
-   "cat": "world",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
   },
   {
    "title": "भोटेकोसीजस्तै बाढीको चपेटामा भारतको धराली : एक वर्षपछि पुनर्वासको अवस्था के छ ?",
@@ -2323,29 +2260,6 @@
    "val": 3,
    "teaser": false,
    "hits": 2
-  },
-  {
-   "title": "Moscow confirms Trump, Xi, Putin meeting in China",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWjdIOEhST2JVaU0zOElNQkszOW9TR3YtQXpwMWQzLXZIM3BNQ3diWVFmVWc3dEF6aDU4Z0RuOW4xbUxwaTJybzVscXR0OUZPNTlqdFVhT1p2ZWhOZ2pxaFRiRG5UM1IzV2k4V1lEdnotdDUzdl9Zc0h4c29KTFotSVkxYjl0ZnRRTkxiN2hpS282aHVWWHBla1MwMXZtd1hNVE1fcQ?oc=5",
-   "source": "myRepublica",
-   "ts": 1794726969,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Moscow confirms Trump, Xi, Putin meeting in China",
-   "en": "Moscow confirms Trump, Xi, Putin meeting in China",
-   "ne": "Moscow confirms Trump, Xi, Putin meeting in China",
-   "imp": 1,
-   "tags": [
-    "Trump",
-    "Putin",
-    "China"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
   },
   {
    "title": "भेटुवालको 'बालसाहित्यमा जलेश्वरी श्रेष्ठ' लोकार्पित",
@@ -4426,7 +4340,7 @@
    "cat": "culture",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "Good Bricks Announces Landmark US$60 Million Carbon Financing Initiative to Transform Nepal's Brick Industry",
@@ -4954,26 +4868,27 @@
    "hits": 1
   },
   {
-   "title": "एनभिडिया विवादमा नयाँ ट्विस्ट : एलिसले एक वर्षअघि नै यसकारण छाडेकी थिइन् मेगास्पिड",
-   "summary": "चीनका कम्पनीलाई अमेरिकी निर्यात नियन्त्रणसम्बन्धी प्रतिबन्ध छल्न सघाउने गरी एनभिडियाका चिप खरिद गरेर दक्षिणपूर्वी एसियाका डाटा सेन्टरमार्फत चीन पठाएको आरोप मेगास्पिडमाथि लागेको छ।...",
-   "link": "https://nagariknews.nagariknetwork.com/international/new-twist-in-nvidia-controversy-alice-left-megaspeed-a-year-ago-for-this-reason-69-55.html",
-   "source": "Nagarik News",
+   "title": "मेगास्पिडले भन्यो- एलिस हुआङले एक वर्षअघि नै कम्पनी छाडिसकिन्",
+   "summary": "",
+   "link": "https://www.setopati.com/kinmel/information-technology/402649",
+   "source": "Setopati",
    "ts": 1794753339,
    "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1794753299_Megaspeed%20says%20Alice%20Huang%20left%20in%202025%20as%20company.jpg",
+   "img": null,
    "lang": "ne",
-   "hl": "एनभिडिया विवादमा नयाँ ट्विस्ट : एलिसले एक वर्षअघि नै यसकारण छाडेकी थिइन् मेगास्पिड",
-   "en": "एनभिडिया विवादमा नयाँ ट्विस्ट : एलिसले एक वर्षअघि नै यसकारण छाडेकी थिइन् मेगास्पिड",
-   "ne": "एनभिडिया विवादमा नयाँ ट्विस्ट : एलिसले एक वर्षअघि नै यसकारण छाडेकी थिइन् मेगास्पिड",
+   "hl": "मेगास्पिडले भन्यो- एलिस हुआङले एक वर्षअघि नै कम्पनी छाडिसकिन्",
+   "en": "मेगास्पिडले भन्यो- एलिस हुआङले एक वर्षअघि नै कम्पनी छाडिसकिन्",
+   "ne": "मेगास्पिडले भन्यो- एलिस हुआङले एक वर्षअघि नै कम्पनी छाडिसकिन्",
    "imp": 1,
    "tags": [
-    "Nvidia",
-    "TechNews"
+    "Megaspeed",
+    "AliceHuang",
+    "Nvidia"
    ],
    "cat": "tech",
-   "val": 2,
+   "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "सप्तरीमा छठको खरना विधि गरेर व्रत बसेकी महिलाको निधन",
@@ -5199,26 +5114,94 @@
    "hits": 1
   },
   {
-   "title": "NPL: Pokhara Avengers defeat Kathmandu Gorkhas by 55 runs",
-   "summary": "KATHMANDU: Pokhara Avengers defeated Kathmandu Gorkhas by 55 runs in the Nepal Premier League (NPL) on Sunday, powered by aggressive batting from Kushal Bhurtel and Yuvraj Singh Samra and an impressive bowling...",
-   "link": "https://english.khabarhub.com/2026/15/575746/",
-   "source": "Khabarhub EN",
-   "ts": 1794755156,
-   "weight": 2,
-   "img": "https://english.khabarhub.com/wp-content/uploads/2026/11/Pokhara-NPL-1-e1794755021635-400x220.jpg",
-   "lang": "en",
-   "hl": "NPL: Pokhara Avengers defeat Kathmandu Gorkhas by 55 runs",
-   "en": "NPL: Pokhara Avengers defeat Kathmandu Gorkhas by 55 runs",
-   "ne": "NPL: Pokhara Avengers defeat Kathmandu Gorkhas by 55 runs",
-   "imp": 4,
+   "title": "सन्दीपको कप्तानीमा 'राइजिङ स्टार्स' खेल्ने नेपाली टोली घोषणा",
+   "summary": "नेपाल क्रिकेट सङ्घ (क्यान) ले 'एसीसी मेन्स एसिया कप राइजिङ स्टार्स, २०२६' का लागि सन्दीप लामिछानेको कप्तानीमा १५ सदस्यीय नेपाली टोली घोषणा गरेको छ।...",
+   "link": "https://nagariknews.nagariknetwork.com/sports/main-headline-of-the-news-78-42.html",
+   "source": "Nagarik News",
+   "ts": 1794755792,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2025/third-party/1779096889_nepal.jpg",
+   "lang": "ne",
+   "hl": "सन्दीपको कप्तानीमा 'राइजिङ स्टार्स' खेल्ने नेपाली टोली घोषणा",
+   "en": "सन्दीपको कप्तानीमा 'राइजिङ स्टार्स' खेल्ने नेपाली टोली घोषणा",
+   "ne": "सन्दीपको कप्तानीमा 'राइजिङ स्टार्स' खेल्ने नेपाली टोली घोषणा",
+   "imp": 3,
    "tags": [
-    "NPL",
-    "PokharaAvengers",
-    "KathmanduGorkhas",
-    "क्रिकेट"
+    "SandeepLamichhane",
+    "RisingStars",
+    "Cricket"
    ],
    "cat": "sports",
    "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Kathmandu to face Chitwan in NPL Eliminator after loss to Pokhara",
+   "summary": "Kathmandu finish third with a 55-run defeat, while Kushal Bhurtel misses a century by one run as Pokhara post a record 224.",
+   "link": "https://kathmandupost.com/sports/2026/11/15/kathmandu-to-face-chitwan-in-npl-eliminator-after-loss-to-pokhara",
+   "source": "Kathmandu Post",
+   "ts": 1794741657.831467,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "Kathmandu to face Chitwan in NPL Eliminator after loss to Pokhara",
+   "en": "Kathmandu to face Chitwan in NPL Eliminator after loss to Pokhara",
+   "ne": "Kathmandu to face Chitwan in NPL Eliminator after loss to Pokhara",
+   "imp": 3,
+   "tags": [
+    "NPL",
+    "Kathmandu",
+    "Chitwan"
+   ],
+   "cat": "sports",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "एनपीएलको प्लेअफ समीकरण: क्वालिफायर १ मा लुम्बिनी र सुदूरपश्चिम, काठमाडौंको प्रतिद्वन्द्वी चितवन",
+   "summary": "नेपाल प्रिमियर लिग (एनपीएल) को लिग चरणका सबै २८ खेल समाप्त भएसँगै प्लेअफ समीकरण र खेल तालिका तय भएको छ।...",
+   "link": "https://nagariknews.nagariknetwork.com/sports/npl-playoff-equation-lumbini-and-sudurpaschim-in-qualifier-1-kathmandu-s-rival-chitwan-70-20.html",
+   "source": "Nagarik News",
+   "ts": 1794755237,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2025/third-party/1793002632_nplpic.jpg",
+   "lang": "ne",
+   "hl": "एनपीएलको प्लेअफ समीकरण: क्वालिफायर १ मा लुम्बिनी र सुदूरपश्चिम, काठमाडौंको प्रतिद्वन्द्वी चितवन",
+   "en": "एनपीएलको प्लेअफ समीकरण: क्वालिफायर १ मा लुम्बिनी र सुदूरपश्चिम, काठमाडौंको प्रतिद्वन्द्वी चितवन",
+   "ne": "एनपीएलको प्लेअफ समीकरण: क्वालिफायर १ मा लुम्बिनी र सुदूरपश्चिम, काठमाडौंको प्रतिद्वन्द्वी चितवन",
+   "imp": 3,
+   "tags": [
+    "NPL",
+    "Playoffs",
+    "Cricket"
+   ],
+   "cat": "sports",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "काठमाडौं गोर्खाजलाई 'प्लेअफ १' खेल्न कठिन",
+   "summary": "नेपाल प्रिमियर लिग (एनपीएल) को लिग चरणको अन्तिम खेलमा पोखरा एभेन्जर्सविरुद्ध ब्याटिङ धराशायी भएपछि काठमाडौं गोर्खाजका लागि शीर्ष दुईमा रहेर पहिलो क्वालिफायर खेल्ने सम्भावना कठिन बनेको छ।...",
+   "link": "https://nagariknews.nagariknetwork.com/sports/kathmandu-gorkhas-will-have-a-tough-time-playing-in-playoff-1-78-10.html",
+   "source": "Nagarik News",
+   "ts": 1794753837,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2025/third-party/1794753694_gorkha.png",
+   "lang": "ne",
+   "hl": "काठमाडौं गोर्खाजलाई 'प्लेअफ १' खेल्न कठिन",
+   "en": "काठमाडौं गोर्खाजलाई 'प्लेअफ १' खेल्न कठिन",
+   "ne": "काठमाडौं गोर्खाजलाई 'प्लेअफ १' खेल्न कठिन",
+   "imp": 3,
+   "tags": [
+    "NPL",
+    "KathmanduGorkhas",
+    "Playoffs"
+   ],
+   "cat": "sports",
+   "val": 1,
    "teaser": false,
    "hits": 1
   }
@@ -8193,10 +8176,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "economy"
+  },
+  {
+   "ts": 1794756071.5574346,
+   "en": "Pokhara Avengers Defeat Kathmandu Gorkhas by 55 Runs in NPL",
+   "ne": "Pokhara Avengers Defeat Kathmandu Gorkhas by 55 Runs in NPL",
+   "link": "https://english.khabarhub.com/2026/15/575746/",
+   "source": "Khabarhub EN",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": true,
+   "cat": "sports"
   }
  ],
- "updated": 1794755469,
- "pending_since": 1794754250.3239331,
+ "updated": 1794756082,
+ "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
