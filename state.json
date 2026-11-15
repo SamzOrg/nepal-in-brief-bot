@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://english.khabarhub.com/2026/13/575480/": 1794577253.860061,
-  "https://nagariknews.nagariknetwork.com/social-affairs/home-minister-gurung-departs-for-dubai-to-attend-world-police-summit-76-71.html": 1794577253.860061,
   "https://gorkhapatraonline.com/news/228979": 1794577850.0973015,
   "https://gorkhapatraonline.com/news/228977": 1794578482.862844,
   "https://baahrakhari.com/detail/507246": 1794578482.862844,
@@ -1599,7 +1597,10 @@
   "https://nagariknews.nagariknetwork.com/sports/karan-kc-s-double-blow-in-the-19th-over-kusal-out-in-99-and-yuvraj-out-in-89-pokhara-209-3-in-19-overs-39-89.html": 1794748250.4089413,
   "https://nagariknews.nagariknetwork.com/Dharma-Saskriti/chhath-celebrated-by-offering-argha-to-the-setting-sun-at-79-places-in-kapilvastu-98-29.html": 1794748250.4089413,
   "https://nagariknews.nagariknetwork.com/social-affairs/jeep-heading-from-kathmandu-to-rara-meets-with-accident-in-mugu-three-dead-96-29.html": 1794749468.9067295,
-  "https://kathmandupost.com/money/2026/11/15/nepal-sets-up-accreditation-centre-to-ease-testing-and-certification": 1794750048.5688074
+  "https://kathmandupost.com/money/2026/11/15/nepal-sets-up-accreditation-centre-to-ease-testing-and-certification": 1794750048.5688074,
+  "https://baahrakhari.com/detail/507388": 1794750648.0904522,
+  "https://baahrakhari.com/detail/507391": 1794750648.0904522,
+  "https://kathmandupost.com/karnali-province/2026/11/15/three-dead-two-injured-in-mugu-jeep-crash": 1794750648.0904522
  },
  "queue": [
   {
@@ -1647,120 +1648,6 @@
    "val": 3,
    "teaser": false,
    "hits": 2
-  },
-  {
-   "title": "India's Nitin Gadkari to attend Nepal Infrastructure Summit as keynote speaker",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMHAyc25ESXBQWC16UXpNdHY2UmdVeEhPOUpxQzZoVU9RRFpiVkVRQUppaFZ6cXZCUnBpZ2duOFhYQUJVdDl5bC16QXF1WW1WNzV4NjNIa3o0N09hd1kzaHgtMm9GWFc5Y0RfWmhhRV9vbHF5LV9jM0k4dk4yUGwyMzBLbDZKV0UyS1FNVEdaSDlZb1Y4eFQ1cV9jczkybkNwS1VRUllhWWN6eE9vQnAyNmVYajdFaHljeDVZcUxFRGZOdw?oc=5",
-   "source": "The Kathmandu Post",
-   "ts": 1794721725,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "India's Nitin Gadkari to attend Nepal Infrastructure Summit as keynote speaker",
-   "en": "India's Nitin Gadkari to attend Nepal Infrastructure Summit as keynote speaker",
-   "ne": "India's Nitin Gadkari to attend Nepal Infrastructure Summit as keynote speaker",
-   "imp": 3,
-   "tags": [
-    "NitinGadkari",
-    "Infrastructure",
-    "Summit"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "हिन्दु राष्ट्रको कामना गर्दै कांग्रेस सांसदले सुरु गरे दण्डवत् प्रणाम यात्रा",
-   "summary": "नेपाली कांग्रेसका केन्द्रीय सदस्य तथा कोशी प्रदेशका सांसद भीम पराजुलीले हिन्दुराष्ट्र नेपालको कामना गर्दै दण्डवत् प्रणामयात्रा सुरु गरेका छन्।...",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/congress-mps-begin-dandawat-pranam-yatra-wishing-for-a-hindu-nation-93-34.html",
-   "source": "Nagarik News",
-   "ts": 1794721613,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1794721606_bhim%20parajuli.jpg",
-   "lang": "ne",
-   "hl": "हिन्दु राष्ट्रको कामना गर्दै कांग्रेस सांसदले सुरु गरे दण्डवत् प्रणाम यात्रा",
-   "en": "हिन्दु राष्ट्रको कामना गर्दै कांग्रेस सांसदले सुरु गरे दण्डवत् प्रणाम यात्रा",
-   "ne": "हिन्दु राष्ट्रको कामना गर्दै कांग्रेस सांसदले सुरु गरे दण्डवत् प्रणाम यात्रा",
-   "imp": 3,
-   "tags": [
-    "Congress",
-    "HinduNation",
-    "Dandavat"
-   ],
-   "cat": "politics",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "US Intensifies Diplomatic Efforts to End Russia-Ukraine War",
-   "summary": "Washington DC. The United States has intensified diplomatic efforts with the aim of ending the Russia-Ukraine war. US Special Envoy...",
-   "link": "http://english.ratopati.com/story/86716/us-diplomatic-efforts-intensify-to-end-russia-ukraine-war",
-   "source": "Ratopati EN",
-   "ts": 1794721466,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/setting/banner-image_sPOGzj8QHe.jpg",
-   "lang": "en",
-   "hl": "US Intensifies Diplomatic Efforts to End Russia-Ukraine War",
-   "en": "US Intensifies Diplomatic Efforts to End Russia-Ukraine War",
-   "ne": "US Intensifies Diplomatic Efforts to End Russia-Ukraine War",
-   "imp": 1,
-   "tags": [
-    "RussiaUkraineWar",
-    "Diplomacy"
-   ],
-   "cat": "world",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "सुशासनमा रास्वपाले सम्झौता गर्दैन, दोषीले उन्मुक्ति पाउँदैन : आचार्य",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/507347",
-   "source": "Baahrakhari",
-   "ts": 1794721722,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "सुशासनमा रास्वपाले सम्झौता गर्दैन, दोषीले उन्मुक्ति पाउँदैन : आचार्य",
-   "en": "सुशासनमा रास्वपाले सम्झौता गर्दैन, दोषीले उन्मुक्ति पाउँदैन : आचार्य",
-   "ne": "सुशासनमा रास्वपाले सम्झौता गर्दैन, दोषीले उन्मुक्ति पाउँदैन : आचार्य",
-   "imp": 3,
-   "tags": [
-    "RSP",
-    "GoodGovernance",
-    "Acharya"
-   ],
-   "cat": "politics",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Festivals Fueling Billions in Imports, Draining National Wealth",
-   "summary": "As the great festivals of Dashain and Tihar approach, an atmosphere of joy and celebration fills the air. Tihar, in...",
-   "link": "http://english.ratopati.com/story/86715/the-treasure-chest-that-is-being-released-during-the-festival-and-our-irony",
-   "source": "Ratopati EN",
-   "ts": 1794721321,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/janak_HaZH49QoMl.webp",
-   "lang": "en",
-   "hl": "Festivals Fueling Billions in Imports, Draining National Wealth",
-   "en": "Festivals Fueling Billions in Imports, Draining National Wealth",
-   "ne": "Festivals Fueling Billions in Imports, Draining National Wealth",
-   "imp": 3,
-   "tags": [
-    "Festivals",
-    "Imports",
-    "Economy"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
   },
   {
    "title": "रास्वपा सभापति लामिछानेलाई २५ किलोको मालाले स्वागत",
@@ -5672,17 +5559,6 @@
  ],
  "posted": [
   {
-   "ts": 1794145256.0453963,
-   "en": "Dhading local governments install pontoon bridge at Furke Khola",
-   "ne": "Dhading local governments install pontoon bridge at Furke Khola",
-   "link": "https://english.onlinekhabar.com/dhading-local-govts-join-hands-to-install-temporary-pontoon-bridge-at-furke-khola.html",
-   "source": "Onlinekhabar EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "society"
-  },
-  {
    "ts": 1794147055.2827148,
    "en": "Indian Flowers Worth Over Rs 2.5 Million Seized And Destroyed In Jhapa",
    "ne": "Indian Flowers Worth Over Rs 2.5 Million Seized And Destroyed In Jhapa",
@@ -8640,9 +8516,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "politics"
+  },
+  {
+   "ts": 1794750653.6680017,
+   "en": "मुगुमा जीप दुर्घटना हुँदा तीनजनाको मृत्यु, दुई घाइते",
+   "ne": "मुगुमा जीप दुर्घटना हुँदा तीनजनाको मृत्यु, दुई घाइते",
+   "link": "https://baahrakhari.com/detail/507391",
+   "source": "Baahrakhari",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": true,
+   "cat": "disaster"
   }
  ],
- "updated": 1794750052,
+ "updated": 1794750667,
  "pending_since": 1794748851.3026993,
  "fb_blocks": [
   1790350880.4125228,
