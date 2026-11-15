@@ -1,8 +1,5 @@
 {
  "seen": {
-  "https://www.ujyaaloonline.com/detail/133426": 1794527449.9962265,
-  "http://english.ratopati.com/story/86382/chhath-festival-begins-today-mithila-region-is-celebrating-chhath": 1794527449.9962265,
-  "http://english.ratopati.com/story/86381/italy-top-group-after-beating-france-3-1": 1794527449.9962265,
   "http://english.ratopati.com/story/86387/at-least-14-killed-30-injured-in-23-vehicle-collision-in-uae": 1794528650.2933936,
   "http://english.ratopati.com/story/86384/kathmandu-and-the-far-west-eye-the-top-spot-while-chitwan-and-janakpur-fight-for-survival": 1794529250.5859234,
   "http://english.ratopati.com/story/86388/harry-kanes-record-126th-game-he-made-history-with-a-goal": 1794529250.5859234,
@@ -1611,32 +1608,14 @@
   "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQUx5VThSZnBKTXlCYmwxQnEySnZKcGI2UC04SXB0cG0yelpBM0ZXMnM1Z0tVVGtSWlJHSUtMUnk4NzNQSHJVVEFBYzg1YkNKMEhtY25INWpyRTQxbGhTSm90azNodHBLaVNQM1NjUWc2Qm83bVc0RTF6MTlGYmx6X3RJVmpRWWlBclVJVUpTQzlGTG8tTDVFMFNLRjlYb2d6RFRyM1J3SEY1Njk2c1lKNGdIaFp5N3c?oc=5": 1794694251.7346342,
   "http://english.ratopati.com/story/86682/portugal-defeated-4-1-by-denmark-in-the-nations-league": 1794694847.1903467,
   "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOVFSM1hOeEw3WFZjZG44MmY0cEtKTjZDT29OaV94aERCenF2UWZYUldsWnhsd21ubnZabGU0ZzJuT2ttZllEeVpwdW1kQVIzb01VdzgwcFdKWTFDNXlPX3hacktBTzZiR0xRNjRaYnZZMnRhYkNydXVvUk1LeUplZW03Y3ZfNm5JUU9MdHBEb2w0V3dSMjJnVm1VQUEtTEtOSGRhRl9Ec0hrZDhrVEtwblFzTjNGZlZlVDZCRVA1RlBPZw?oc=5": 1794695465.3522818,
-  "http://english.ratopati.com/story/86681/kartik-shukla-shashthi-offering-evening-arghya-to-the-setting-sun-while-standing-in-a-reservoir": 1794697280.499189
+  "http://english.ratopati.com/story/86681/kartik-shukla-shashthi-offering-evening-arghya-to-the-setting-sun-while-standing-in-a-reservoir": 1794697280.499189,
+  "https://gorkhapatraonline.com/news/229087": 1794700879.1183999,
+  "https://www.ujyaaloonline.com/detail/133496": 1794700879.1183999,
+  "http://english.ratopati.com/story/86684/this-is-the-foreign-exchange-rate-on-sunday": 1794700879.1183999,
+  "https://www.ujyaaloonline.com/detail/133495": 1794700879.1183999,
+  "http://english.ratopati.com/story/86683/four-nepali-cricketers-in-form-in-npl-3": 1794700879.1183999
  },
  "queue": [
-  {
-   "title": "Biratnagar Kings Captain Charith Asalanka Blames Poor Bowling in Final Overs for Loss",
-   "summary": "Kathmandu. Biratnagar Kings captain Charith Asalanka has said that the team had to face defeat after failing to bowl well...",
-   "link": "http://english.ratopati.com/story/86672/we-didnt-do-well-in-the-last-over-humidity-and-fielding-also-affected-us-aslanka",
-   "source": "Ratopati EN",
-   "ts": 1794671605,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/asalanka_PKGidu9FrQ.webp",
-   "lang": "en",
-   "hl": "Biratnagar Kings Captain Charith Asalanka Blames Poor Bowling in Final Overs for Loss",
-   "en": "Biratnagar Kings Captain Charith Asalanka Blames Poor Bowling in Final Overs for Loss",
-   "ne": "Biratnagar Kings Captain Charith Asalanka Blames Poor Bowling in Final Overs for Loss",
-   "imp": 3,
-   "tags": [
-    "BiratnagarKings",
-    "CharithAsalanka",
-    "NepalPremierLeague"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
   {
    "title": "Police Chief Orders Enhanced Security for Chhath Festival",
    "summary": "Kathmandu. Inspector General of Police Dr. Manoj Kumar KC has directed to further strengthen security arrangements to prevent undesirable activities...",
@@ -2012,20 +1991,54 @@
    "val": 3,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "Nepal Rastra Bank Sets Today's Exchange Rates",
+   "summary": "Kathmandu. Nepal Rastra Bank has determined the exchange rate for foreign currencies today. According to the central bank, the purchase...",
+   "link": "http://english.ratopati.com/story/86684/this-is-the-foreign-exchange-rate-on-sunday",
+   "source": "Ratopati EN",
+   "ts": 1794699684,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/setting/banner-image_sPOGzj8QHe.jpg",
+   "lang": "en",
+   "hl": "Nepal Rastra Bank Sets Today's Exchange Rates",
+   "en": "Nepal Rastra Bank Sets Today's Exchange Rates",
+   "ne": "Nepal Rastra Bank Sets Today's Exchange Rates",
+   "imp": 2,
+   "tags": [
+    "NepalRastraBank",
+    "ExchangeRate"
+   ],
+   "cat": "economy",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "पहाडी र हिमाली केही ठाउँमा हल्का वर्षा, केही ठाउँमा असिना र हिमपातको सम्भावना",
+   "summary": "पहाडी र हिमाली भेगका केही ठाउँमा बिहानैदेखि हल्का पानी पर्न थालेको छ ।",
+   "link": "https://www.ujyaaloonline.com/detail/133495",
+   "source": "Ujyaalo",
+   "ts": 1794699000,
+   "weight": 2,
+   "img": "https://www.ujyaaloonline.com/uploads/posts/rain_ab8n7Giyql_ZOJfsIViTk.jpg",
+   "lang": "ne",
+   "hl": "पहाडी र हिमाली केही ठाउँमा हल्का वर्षा, केही ठाउँमा असिना र हिमपातको सम्भावना",
+   "en": "पहाडी र हिमाली केही ठाउँमा हल्का वर्षा, केही ठाउँमा असिना र हिमपातको सम्भावना",
+   "ne": "पहाडी र हिमाली केही ठाउँमा हल्का वर्षा, केही ठाउँमा असिना र हिमपातको सम्भावना",
+   "imp": 3,
+   "tags": [
+    "Weather",
+    "Rain",
+    "मौसम"
+   ],
+   "cat": "disaster",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1794095455.1134336,
-   "en": "एनपीएल: काठमाडौं गोर्खाजसँग ३६ रनले पराजित भयो लुम्बिनी लायन्स",
-   "ne": "एनपीएल: काठमाडौं गोर्खाजसँग ३६ रनले पराजित भयो लुम्बिनी लायन्स",
-   "link": "https://www.setopati.com/sports/npl/402260",
-   "source": "Setopati",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "sports"
-  },
   {
    "ts": 1794097258.2000551,
    "en": "दसौँ राष्ट्रिय खेलकुद: लुम्बिनीबाट पौडीमा २० खेलाडी छनोट",
@@ -5019,8 +5032,8 @@
    "cat": "culture"
   }
  ],
- "updated": 1794700265,
- "pending_since": 1794699066.2022672,
+ "updated": 1794700884,
+ "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
