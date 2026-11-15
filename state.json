@@ -1612,31 +1612,10 @@
   "https://www.ujyaaloonline.com/detail/133496": 1794700879.1183999,
   "http://english.ratopati.com/story/86684/this-is-the-foreign-exchange-rate-on-sunday": 1794700879.1183999,
   "https://www.ujyaaloonline.com/detail/133495": 1794700879.1183999,
-  "http://english.ratopati.com/story/86683/four-nepali-cricketers-in-form-in-npl-3": 1794700879.1183999
+  "http://english.ratopati.com/story/86683/four-nepali-cricketers-in-form-in-npl-3": 1794700879.1183999,
+  "https://risingnepaldaily.com/news/88616": 1794702048.411417
  },
  "queue": [
-  {
-   "title": "Police Chief Orders Enhanced Security for Chhath Festival",
-   "summary": "Kathmandu. Inspector General of Police Dr. Manoj Kumar KC has directed to further strengthen security arrangements to prevent undesirable activities...",
-   "link": "http://english.ratopati.com/story/86673/igp-directs-to-strengthen-security-plan-for-chhath",
-   "source": "Ratopati EN",
-   "ts": 1794672834,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/manoj-kc_9CsHB5LJ2j.webp",
-   "lang": "en",
-   "hl": "Police Chief Orders Enhanced Security for Chhath Festival",
-   "en": "Police Chief Orders Enhanced Security for Chhath Festival",
-   "ne": "Police Chief Orders Enhanced Security for Chhath Festival",
-   "imp": 3,
-   "tags": [
-    "ChhathFestival",
-    "NepalPolice"
-   ],
-   "cat": "society",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
   {
    "title": "अछाममा निःशुल्क रक्तचाप तथा मधुमेह परीक्षण शिविर",
    "summary": "गोरखापत्र समाचारदाताअछाम, कार्तिक २८ गते । विश्व मधुमेह दिवसको अवसरमा अछामको साँफेबगरमा निःशुल्क रक्तचाप तथा मधुमेह परीक्षण शिविर सम्पन्न भएको छ।शनिबार लाइफलाइन अछाम र धन योग फाउन्...",
@@ -1963,29 +1942,6 @@
    ],
    "cat": "economy",
    "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "पहाडी र हिमाली केही ठाउँमा हल्का वर्षा, केही ठाउँमा असिना र हिमपातको सम्भावना",
-   "summary": "पहाडी र हिमाली भेगका केही ठाउँमा बिहानैदेखि हल्का पानी पर्न थालेको छ ।",
-   "link": "https://www.ujyaaloonline.com/detail/133495",
-   "source": "Ujyaalo",
-   "ts": 1794699000,
-   "weight": 2,
-   "img": "https://www.ujyaaloonline.com/uploads/posts/rain_ab8n7Giyql_ZOJfsIViTk.jpg",
-   "lang": "ne",
-   "hl": "पहाडी र हिमाली केही ठाउँमा हल्का वर्षा, केही ठाउँमा असिना र हिमपातको सम्भावना",
-   "en": "पहाडी र हिमाली केही ठाउँमा हल्का वर्षा, केही ठाउँमा असिना र हिमपातको सम्भावना",
-   "ne": "पहाडी र हिमाली केही ठाउँमा हल्का वर्षा, केही ठाउँमा असिना र हिमपातको सम्भावना",
-   "imp": 3,
-   "tags": [
-    "Weather",
-    "Rain",
-    "मौसम"
-   ],
-   "cat": "disaster",
-   "val": 2,
    "teaser": false,
    "hits": 1
   }
@@ -4982,9 +4938,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "culture"
+  },
+  {
+   "ts": 1794702054.7868698,
+   "en": "पहाडी र हिमाली केही ठाउँमा हल्का वर्षा, असिना र हिमपातको सम्भावना",
+   "ne": "पहाडी र हिमाली केही ठाउँमा हल्का वर्षा, असिना र हिमपातको सम्भावना",
+   "link": "https://www.ujyaaloonline.com/detail/133495",
+   "source": "Ujyaalo",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "disaster"
   }
  ],
- "updated": 1794701454,
+ "updated": 1794702064,
  "pending_since": 1794701450.6845043,
  "fb_blocks": [
   1790350880.4125228,
