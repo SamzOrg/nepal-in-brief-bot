@@ -1580,30 +1580,6 @@
  },
  "queue": [
   {
-   "title": "Nepal flood deepens poverty",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0yd3dGLS02dmEwRVlLc0E0UHhRelFwTHZzb1V4bDFCUWg2QWh6MTJVZ2xCN3pWaTdaQ25zOXpzc0hJaXB6UDBlWVRqVnEzdllZcFQtQ3hXYw?oc=5",
-   "source": "The Annapurna Express",
-   "ts": 1794732999,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Nepal flood deepens poverty",
-   "en": "Nepal flood deepens poverty",
-   "ne": "Nepal flood deepens poverty",
-   "imp": 4,
-   "tags": [
-    "Nepal",
-    "Flood",
-    "Poverty",
-    "बाढी"
-   ],
-   "cat": "disaster",
-   "val": 1,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Finance Minister Wagle returns home after participating in COP-31",
    "summary": "KATHMANDU: Finance Minister Dr. Swarnim Wagle returned home on Sunday after participating in various high-level programmes during the 31st Conference of the Parties (COP-31) to the United Nations Framework Convention on...",
    "link": "https://english.khabarhub.com/2026/15/575694/",
@@ -1737,52 +1713,6 @@
    "val": 2,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "कोप ३१ मा नेपाली कूटनीति चुक्यो, ५ मन्त्री र सांसदसहितको लर्को घुमफिरमै सीमित",
-   "summary": "परराष्ट्रमन्त्री खनालको नेतृत्वमा वन, अर्थ, स्वास्थ्य र शिक्षासहित ५ जना मन्त्री, सांसद, सरकारी अधिकारी र गैरसरकारी क्षेत्रका प्रतिनिधि टर्किए पुगेको छ ।",
-   "link": "https://www.ujyaaloonline.com/detail/133516",
-   "source": "Ujyaalo",
-   "ts": 1794733200,
-   "weight": 2,
-   "img": "https://www.ujyaaloonline.com/uploads/posts/1-1794733072.jpg",
-   "lang": "ne",
-   "hl": "कोप ३१ मा नेपाली कूटनीति चुक्यो, ५ मन्त्री र सांसदसहितको लर्को घुमफिरमै सीमित",
-   "en": "कोप ३१ मा नेपाली कूटनीति चुक्यो, ५ मन्त्री र सांसदसहितको लर्को घुमफिरमै सीमित",
-   "ne": "कोप ३१ मा नेपाली कूटनीति चुक्यो, ५ मन्त्री र सांसदसहितको लर्को घुमफिरमै सीमित",
-   "imp": 3,
-   "tags": [
-    "COP31",
-    "Diplomacy",
-    "Nepal"
-   ],
-   "cat": "politics",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Karnali set 154 runs target to Chitwan",
-   "summary": "By TRN Online, Kathmandu, Nov 15: Karnali Yaks set 154 runs target to Chitwan Rhinos at the NPL season-3 match being pla...",
-   "link": "https://risingnepaldaily.com/news/88644",
-   "source": "Rising Nepal",
-   "ts": 1794733065,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Karnali set 154 runs target to Chitwan",
-   "en": "Karnali set 154 runs target to Chitwan",
-   "ne": "Karnali set 154 runs target to Chitwan",
-   "imp": 2,
-   "tags": [
-    "Karnali",
-    "Chitwan",
-    "NPL"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 6
   },
   {
    "title": "Jordanian Court Sentences Three to Death for Deadly Church Attack",
@@ -4473,29 +4403,6 @@
     "Sports"
    ],
    "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Bangladesh, Bhutan and Nepal call for fair climate finance at COP31",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWktHQXBaYmVqVWJFXzl6N1ZuUTdMYVU0ZGRCdTdndFRqTm1nSTFOd25xUTlpUlBuN0FUOHd2VWJYa0tkcEI2OGp3NWxQRS12Z0lYd2RnbHVXeTZFckVWbmxhcDBqM25UVk9EYXR2OE1OVndFNmhiZ0hsNEM2Mm50d3hzME9DT2xjYnlFMHRkS2lKSHRPUUhudW1VNA?oc=5",
-   "source": "The Climate Watch",
-   "ts": 1794759126,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Bangladesh, Bhutan and Nepal call for fair climate finance at COP31",
-   "en": "Bangladesh, Bhutan and Nepal call for fair climate finance at COP31",
-   "ne": "Bangladesh, Bhutan and Nepal call for fair climate finance at COP31",
-   "imp": 4,
-   "tags": [
-    "COP31",
-    "ClimateFinance",
-    "Nepal"
-   ],
-   "cat": "world",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -7571,9 +7478,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "culture"
+  },
+  {
+   "ts": 1794762090.1387112,
+   "en": "Bangladesh, Bhutan and Nepal call for fair climate finance at COP31",
+   "ne": "Bangladesh, Bhutan and Nepal call for fair climate finance at COP31",
+   "link": "https://theclimatewatch.com/bangladesh-bhutan-and-nepal-call-for-fair-climate-finance-at-cop31/",
+   "source": "The Climate Watch",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "world"
   }
  ],
- "updated": 1794761464,
+ "updated": 1794762102,
  "pending_since": 1794761459.7415357,
  "fb_blocks": [
   1790350880.4125228,
