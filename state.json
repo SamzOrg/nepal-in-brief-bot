@@ -1,6 +1,5 @@
 {
  "seen": {
-  "http://english.ratopati.com/story/86682/portugal-defeated-4-1-by-denmark-in-the-nations-league": 1794694847.1903467,
   "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOVFSM1hOeEw3WFZjZG44MmY0cEtKTjZDT29OaV94aERCenF2UWZYUldsWnhsd21ubnZabGU0ZzJuT2ttZllEeVpwdW1kQVIzb01VdzgwcFdKWTFDNXlPX3hacktBTzZiR0xRNjRaYnZZMnRhYkNydXVvUk1LeUplZW03Y3ZfNm5JUU9MdHBEb2w0V3dSMjJnVm1VQUEtTEtOSGRhRl9Ec0hrZDhrVEtwblFzTjNGZlZlVDZCRVA1RlBPZw?oc=5": 1794695465.3522818,
   "http://english.ratopati.com/story/86681/kartik-shukla-shashthi-offering-evening-arghya-to-the-setting-sun-while-standing-in-a-reservoir": 1794697280.499189,
   "https://gorkhapatraonline.com/news/229087": 1794700879.1183999,
@@ -1752,29 +1751,6 @@
    "hits": 1
   },
   {
-   "title": "प्रहरी र जनप्रतिधि मिलेर धान काट्न व्यस्त",
-   "summary": "लीलाराज खड्का झापा, कात्तिक ३० गते । हुलका हुल आउने हात्तीले कृषकको पाकेको धानबालीमा क्षति पुर्‍याउन थालेपछि झापाको मेचीनगर- ४ बाहुण्डाँगीमा प्रहरी र जनप्रतिनिधि मिलेर कृषकको धान थ...",
-   "link": "https://gorkhapatraonline.com/news/229284",
-   "source": "Gorkhapatra",
-   "ts": 1794838831,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/391759/conversions/b6a0dac7-2f3d-4e53-a9ed-67c185385ac0-original.jpg",
-   "lang": "ne",
-   "hl": "प्रहरी र जनप्रतिधि मिलेर धान काट्न व्यस्त",
-   "en": "प्रहरी र जनप्रतिधि मिलेर धान काट्न व्यस्त",
-   "ne": "प्रहरी र जनप्रतिधि मिलेर धान काट्न व्यस्त",
-   "imp": 1,
-   "tags": [
-    "Police",
-    "Janapratidhi",
-    "RiceHarvest"
-   ],
-   "cat": "society",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "जर्ज मन्से सुदूरपश्चिम रोयल्समा, एनपीएलका बाँकी खेल खेल्ने",
    "summary": "",
    "link": "https://baahrakhari.com/detail/507475",
@@ -2773,30 +2749,6 @@
    "val": 3,
    "teaser": false,
    "hits": 3
-  },
-  {
-   "title": "India asks Nepal for airspace access for Bagdogra and Raxaul flights; Kathmandu open to Bagdogra request",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB4Y3BOTXA1TXk1ZHZ0MkE5N2ZZZXM5ckVNYWx4Zk5sYTBvYW9fUWtwV2FmSlVnVjhLbF9kV2h5OFJOdERJZ3RnZVE3aHkyaFFtLVVvVkdDMW1rMGtMZmlKRWNDUkVsbWtZdFFyV19YdS1NOFU?oc=5",
-   "source": "Avi-Go",
-   "ts": 1794849681,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "India asks Nepal for airspace access for Bagdogra and Raxaul flights; Kathmandu open to Bagdogra request",
-   "en": "India asks Nepal for airspace access for Bagdogra and Raxaul flights; Kathmandu open to Bagdogra request",
-   "ne": "India asks Nepal for airspace access for Bagdogra and Raxaul flights; Kathmandu open to Bagdogra request",
-   "imp": 4,
-   "tags": [
-    "India",
-    "Nepal",
-    "Airspace",
-    "Kathmandu"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
   }
  ],
  "posted": [
@@ -5780,10 +5732,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "economy"
+  },
+  {
+   "ts": 1794867668.8072076,
+   "en": "Nepal open to India's airspace request for Bagdogra flights",
+   "ne": "Nepal open to India's airspace request for Bagdogra flights",
+   "link": "https://avi-go.com/news/articles/9aba777ccf73f69ec6be50254bc0d181",
+   "source": "Avi-Go",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "politics"
   }
  ],
- "updated": 1794867056,
- "pending_since": 1794867052.7804365,
+ "updated": 1794867680,
+ "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
