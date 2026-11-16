@@ -1,6 +1,5 @@
 {
  "seen": {
-  "http://english.ratopati.com/story/86681/kartik-shukla-shashthi-offering-evening-arghya-to-the-setting-sun-while-standing-in-a-reservoir": 1794697280.499189,
   "https://gorkhapatraonline.com/news/229087": 1794700879.1183999,
   "https://www.ujyaaloonline.com/detail/133496": 1794700879.1183999,
   "http://english.ratopati.com/story/86684/this-is-the-foreign-exchange-rate-on-sunday": 1794700879.1183999,
@@ -1752,29 +1751,6 @@
    "hits": 1
   },
   {
-   "title": "जर्ज मन्से सुदूरपश्चिम रोयल्समा, एनपीएलका बाँकी खेल खेल्ने",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/507475",
-   "source": "Baahrakhari",
-   "ts": 1794840835,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "जर्ज मन्से सुदूरपश्चिम रोयल्समा, एनपीएलका बाँकी खेल खेल्ने",
-   "en": "जर्ज मन्से सुदूरपश्चिम रोयल्समा, एनपीएलका बाँकी खेल खेल्ने",
-   "ne": "जर्ज मन्से सुदूरपश्चिम रोयल्समा, एनपीएलका बाँकी खेल खेल्ने",
-   "imp": 2,
-   "tags": [
-    "GeorgeMunce",
-    "NPL",
-    "RoyalS"
-   ],
-   "cat": "sports",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Former Minister Bhim Parajuli Completes 29th Dandavat Pranama Journey During Chhath Festival",
    "summary": "Biratnagar. Nepali Congress Central Committee member, Koshi Province Assembly member, and former minister Bhim Parajuli has completed his 29th consecutive...",
    "link": "http://english.ratopati.com/story/86898/there-is-intense-pressure-to-stand-for-mayor-of-biratnagar-i-dont-know-what-gods-will-is",
@@ -1860,28 +1836,6 @@
     "DebtRecovery",
     "FinanceMinister",
     "Wagle"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "सार्वजनिक ऋण ३० खर्ब नाघ्यो",
-   "summary": "चालु आर्थिक वर्ष २०८३/८४ को पहिलो तीन महिना (असोज मसान्त) सम्ममा नेपालको कुल सार्वजनिक ऋण दायित्व ३० खर्ब नौ अर्ब ११ करोड रुपैयाँ पुगेको छ।...",
-   "link": "https://nagariknews.nagariknetwork.com/economy/public-debt-exceeds-3-trillion-61-92.html",
-   "source": "Nagarik News",
-   "ts": 1794841085,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1784120521_balen.png",
-   "lang": "ne",
-   "hl": "सार्वजनिक ऋण ३० खर्ब नाघ्यो",
-   "en": "सार्वजनिक ऋण ३० खर्ब नाघ्यो",
-   "ne": "सार्वजनिक ऋण ३० खर्ब नाघ्यो",
-   "imp": 4,
-   "tags": [
-    "PublicDebt",
-    "30Kharch"
    ],
    "cat": "economy",
    "val": 3,
@@ -5463,7 +5417,7 @@
    "cat": "tech"
   }
  ],
- "updated": 1794869479,
+ "updated": 1794870088,
  "pending_since": 1794868864.2995079,
  "fb_blocks": [
   1790350880.4125228,
