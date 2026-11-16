@@ -1692,7 +1692,8 @@
   "http://english.ratopati.com/story/86836/icc-changes-world-cup-qualification-format": 1794815684.632413,
   "https://nagariknews.nagariknetwork.com/social-affairs/three-people-die-in-auto-accident-in-bajhang-52-35.html": 1794815684.632413,
   "http://english.ratopati.com/story/86835/dailekh-petroleum-project-first-phase-completed-well-testing-and-second-phase-agreement-delayed": 1794815684.632413,
-  "https://nagariknews.nagariknetwork.com/sports/legendary-footballer-ronaldinho-returns-to-the-field-at-the-age-of-46-13-79.html": 1794815684.632413
+  "https://nagariknews.nagariknetwork.com/sports/legendary-footballer-ronaldinho-returns-to-the-field-at-the-age-of-46-13-79.html": 1794815684.632413,
+  "http://english.ratopati.com/story/86838/notorious-mexican-drug-trafficker-felix-gallardo-dies-at-80": 1794816087.3585675
  },
  "queue": [
   {
@@ -1921,29 +1922,6 @@
     "SideEffects"
    ],
    "cat": "health",
-   "val": 1,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "मलेसियन रिंगेटको मूल्य कति छ ?",
-   "summary": "राष्ट्र बैंकले हङकङ डलर एकको खरिददर १९ रुपैयाँ १८ पैसा र बिक्रीदर १९ रुपैयाँ २६ पैसा, कुवेती दिनार एकको खरिददर ४८७ रुपैयाँ ६५ पैसा र बिक्रीदर ४८९ रुपैयाँ ६० पैसा कायम गरेको छ ।",
-   "link": "https://baahrakhari.com/detail/507403",
-   "source": "Baahrakhari",
-   "ts": 1794787156,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "मलेसियन रिंगेटको मूल्य कति छ ?",
-   "en": "मलेसियन रिंगेटको मूल्य कति छ ?",
-   "ne": "मलेसियन रिंगेटको मूल्य कति छ ?",
-   "imp": 2,
-   "tags": [
-    "MalaysianRinggit",
-    "ExchangeRate",
-    "Currency"
-   ],
-   "cat": "economy",
    "val": 1,
    "teaser": false,
    "hits": 1
@@ -6812,6 +6790,29 @@
    "val": 3,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "Infamous Mexican Drug Lord Miguel Angel Felix Gallardo Dies at 80",
+   "summary": "Kathmandu. Notorious Mexican drug trafficker Miguel Angel Felix Gallardo has died at the age of 80. BBC has reported that...",
+   "link": "http://english.ratopati.com/story/86838/notorious-mexican-drug-trafficker-felix-gallardo-dies-at-80",
+   "source": "Ratopati EN",
+   "ts": 1794815894,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/capture11_5l8atT3xEt.webp",
+   "lang": "en",
+   "hl": "Infamous Mexican Drug Lord Miguel Angel Felix Gallardo Dies at 80",
+   "en": "Infamous Mexican Drug Lord Miguel Angel Felix Gallardo Dies at 80",
+   "ne": "Infamous Mexican Drug Lord Miguel Angel Felix Gallardo Dies at 80",
+   "imp": 1,
+   "tags": [
+    "Mexico",
+    "DrugLord",
+    "MiguelAngelFelixGallardo"
+   ],
+   "cat": "world",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
@@ -9797,7 +9798,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1794815687,
+ "updated": 1794816091,
  "pending_since": 1794815450.256802,
  "fb_blocks": [
   1790350880.4125228,
