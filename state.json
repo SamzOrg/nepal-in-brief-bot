@@ -1800,29 +1800,6 @@
    "hits": 1
   },
   {
-   "title": "Chhath Festival Concludes Amidst Political Discourse in Madhesh",
-   "summary": "Siraha. The great festival of Terai-Madhesh, Chhath, has officially concluded today. This year, the Chhath festival, celebrated with traditional faith,...",
-   "link": "http://english.ratopati.com/story/86904/leaders-madhesh-race-faith-in-chhath-or-a-race-to-garner-public-opinion",
-   "source": "Ratopati EN",
-   "ts": 1794845180,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/netaharu-chhath_QCDyoJxpYB.webp",
-   "lang": "en",
-   "hl": "Chhath Festival Concludes Amidst Political Discourse in Madhesh",
-   "en": "Chhath Festival Concludes Amidst Political Discourse in Madhesh",
-   "ne": "Chhath Festival Concludes Amidst Political Discourse in Madhesh",
-   "imp": 3,
-   "tags": [
-    "Chhath",
-    "Madhesh",
-    "PoliticalDiscourse"
-   ],
-   "cat": "culture",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Palpa Cycling Association Organizes Two-Day Heritage Ride",
    "summary": "Palpa. A two-day 'Heritage Ride (Heritage Journey)' is going to be organized with the objective of promoting domestic and foreign...",
    "link": "http://english.ratopati.com/story/86903/third-heritage-ride-underway-in-palpa-200-cyclists-to-participate",
@@ -5260,10 +5237,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "world"
+  },
+  {
+   "ts": 1794873065.4588432,
+   "en": "Chhath Festival Concludes in Madhesh Amid Political Debate Over Leaders' Visits",
+   "ne": "Chhath Festival Concludes in Madhesh Amid Political Debate Over Leaders' Visits",
+   "link": "http://english.ratopati.com/story/86904/leaders-madhesh-race-faith-in-chhath-or-a-race-to-garner-public-opinion",
+   "source": "Ratopati EN",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "culture"
   }
  ],
- "updated": 1794872455,
- "pending_since": null,
+ "updated": 1794873077,
+ "pending_since": 1794873052.139748,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
