@@ -1676,7 +1676,8 @@
   "https://baahrakhari.com/detail/507477": 1794844889.5381632,
   "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZkZCSHhkaC1XcFdvMy1PWEtNMzBUeDJ0eWJwd1M1dUtGT0d0ejBEbE1KUEJOU3NnZ2lKM3NZclFnX3pJRTFPVm1nT1JoZUI1RzZqNEtDMVhBbnNvbDNCWGRRaU82Z3B4djA2Q2N1eFphQmdrbFJTWHZrdlpSRUM0QjVJUEFUSnM0Wl81WXpBWV9PRXRHQVBNb1F2NWpmQW02eUtobzk1amFRQnc5dGgxbWVxLWpzaVZsMTM2WDBZVGNhVHRyaUZyV082RnpCQnM?oc=5": 1794844889.5381632,
   "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcUtack1GQ2pXWmdoZGtBWHg4YXU0SGlSMm92WXc2a0YyRW9aSm93U3dFSHJJMGNLTUtRcHlpZVRfOXEzZDBuZ3NqRnU2aC13UWhSVVhmYkVUa0lJZ1dubG55LVU4dUxRYjlPMjBWbEZMb2tUUWE0cE9BOVE1N2tKS0pxTmUtZWVDZlJTTnplVGFIUV9OQ3RIYlk2eTUxc3pROXNYX3dJN0YwUQ?oc=5": 1794844889.5381632,
-  "http://english.ratopati.com/story/86902/baglung-and-parbat-champions-in-volleyball-selection-for-10th-national-games": 1794844889.5381632
+  "http://english.ratopati.com/story/86902/baglung-and-parbat-champions-in-volleyball-selection-for-10th-national-games": 1794844889.5381632,
+  "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQWtiTFVZUGRRUG96QmR6NEtUc1EyYXljVW1XQVFJYVRnc1ZJalVZVmVoOWZsQXVETUw5c3g4aTZ1VkFyN2tYREY4Q0xybGVxTl8ySm1KMlNkdVN0Q0xUaHdzam43MTYwUjAwT3dKTC1VY1ZDWWpuV3Mxb2tweERvSTR2NHp1SGRWXzVV?oc=5": 1794845453.2012584
  },
  "queue": [
   {
@@ -1721,166 +1722,6 @@
    ],
    "cat": "tech",
    "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Malaysia's foreign worker recruitment system disrupts the entry of Nepalese security guards",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRk53cGdjeE4zUko5MlFTdVctaWxwWkRONmNseUdSc2tTYk1JdTc5Z1Fla2RtVWlqVW9vLVVzdHhnSGhmRjAzRjdnRHVLT1hlZmtaNV9qUms3ZEx0VGJGMDhGbzQxNFFzMnoxZ1VLcVotS1phbUNqclpaMXR0TlExR1N3VDhBYnBTekhVMVl0ZHRFWXNFT1k1WGVCdU92V28?oc=5",
-   "source": "Traders Union",
-   "ts": 1794816638,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Malaysia's foreign worker recruitment system disrupts the entry of Nepalese security guards",
-   "en": "Malaysia's foreign worker recruitment system disrupts the entry of Nepalese security guards",
-   "ne": "Malaysia's foreign worker recruitment system disrupts the entry of Nepalese security guards",
-   "imp": 3,
-   "tags": [
-    "Malaysia",
-    "SecurityGuards",
-    "ForeignWorkers"
-   ],
-   "cat": "economy",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "The Postcard Hotel to debut in Nepal with riverfront retreat",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTG5ncU5fSFlYSUZmc3E0OGZfQ2pXeWRhZEczMEtaOHlYSDJqeGdCYmxXclpDT1dKb2o1al96OW9zbjVlZklYRVhJT0g5WmVUNUlmUzJUYkQwd0F2emgzZEp4dmpZS3pLOVctbXRuam1OZ0luZjhDX0lKMXB2eDRCZU02UnFrQ2hjVlBwNXl2NEd1UUdvZWdkOVczUm9XV3VIWU96X2dqSk94TXp1VTZN?oc=5",
-   "source": "Sleeper Magazine",
-   "ts": 1794816210,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "The Postcard Hotel to debut in Nepal with riverfront retreat",
-   "en": "The Postcard Hotel to debut in Nepal with riverfront retreat",
-   "ne": "The Postcard Hotel to debut in Nepal with riverfront retreat",
-   "imp": 2,
-   "tags": [
-    "ThePostcardHotel",
-    "Nepal",
-    "Tourism"
-   ],
-   "cat": "culture",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "जेनजी आन्दोलनमा फरार कैदी पक्राउ",
-   "summary": "जबरजस्ती करणी मुद्दामा कैद भुक्तान गरिरहेका फरार कैदी पक्राउ परेका छन्।",
-   "link": "https://nagariknews.nagariknetwork.com/Aparadh/escaped-prisoner-arrested-in-genji-movement-83-54.html",
-   "source": "Nagarik News",
-   "ts": 1794816179,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1794816172_New%20Project%20(13).jpg",
-   "lang": "ne",
-   "hl": "जेनजी आन्दोलनमा फरार कैदी पक्राउ",
-   "en": "जेनजी आन्दोलनमा फरार कैदी पक्राउ",
-   "ne": "जेनजी आन्दोलनमा फरार कैदी पक्राउ",
-   "imp": 2,
-   "tags": [
-    "GenZ",
-    "Prisoner",
-    "Arrest"
-   ],
-   "cat": "crime",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "Nepali Congress senior vice-president to automatically become acting president in party chief's absence",
-   "summary": "Kathmandu, November 16 The Nepali Congress has amended its statute to provide that the senior vice-president will automatically serve as acting party president in the absence of the central president. The provision was...",
-   "link": "https://english.onlinekhabar.com/nepali-congress-default-party-chief.html",
-   "source": "Onlinekhabar EN",
-   "ts": 1794816159,
-   "weight": 3,
-   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/09/gagan-thapa-biswaprakash-sharma-joint-phot-content-1024x569-1.png",
-   "lang": "en",
-   "hl": "Nepali Congress senior vice-president to automatically become acting president in party chief's absence",
-   "en": "Nepali Congress senior vice-president to automatically become acting president in party chief's absence",
-   "ne": "Nepali Congress senior vice-president to automatically become acting president in party chief's absence",
-   "imp": 3,
-   "tags": [
-    "NepaliCongress",
-    "Leadership",
-    "ActingPresident"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "मुद्रास्फीति र खराब मौसमले जापानी अर्थतन्त्र सुस्त",
-   "summary": "टोकियो, कात्तिक ३० गते । इरान युद्धका कारण बढेको मुद्रास्फीति, खराब मौसम र भूकम्पको असरले जापानको अर्थतन्त्र तेस्रो त्रैमासिकमा स्थिर भएको छ । जुलाईदेखि सेप्टेम्बरसम्म अर्थतन्त्रमा...",
-   "link": "https://gorkhapatraonline.com/news/229252",
-   "source": "Gorkhapatra",
-   "ts": 1794816613,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/391718/conversions/Japan-original.jpg",
-   "lang": "ne",
-   "hl": "मुद्रास्फीति र खराब मौसमले जापानी अर्थतन्त्र सुस्त",
-   "en": "मुद्रास्फीति र खराब मौसमले जापानी अर्थतन्त्र सुस्त",
-   "ne": "मुद्रास्फीति र खराब मौसमले जापानी अर्थतन्त्र सुस्त",
-   "imp": 1,
-   "tags": [
-    "Japan",
-    "Inflation",
-    "Economy"
-   ],
-   "cat": "economy",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "तिम्रो अनुपस्थितिमा!",
-   "summary": "टाँसिन आइपुग्छु एक बालक झैँ एक्लो तिम्रो तस्बिरको छेवैमा र, तिम्रो अनुपस्थितिमा कहिलेकाहीँ यसरी नै मेट्छु म आफ्नो एक्लोपनको भोकलाई।",
-   "link": "https://www.setopati.com/literature/402683",
-   "source": "Setopati",
-   "ts": 1794816540,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "तिम्रो अनुपस्थितिमा!",
-   "en": "तिम्रो अनुपस्थितिमा!",
-   "ne": "तिम्रो अनुपस्थितिमा!",
-   "imp": 1,
-   "tags": [
-    "Poetry",
-    "Nepal"
-   ],
-   "cat": "culture",
-   "val": 1,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "मुस्ताङको ठिनी खोलामा मोटरेबल पुल उद्घाटन, कृषक र पर्यटकलाई सहज",
-   "summary": "मुस्ताङ समाचारदातामुस्ताङ (मुक्तिनाथ), कात्तिक ३० गते । जोमसोम-ठिनी-धुम्बा-मार्फा चक्रपथअन्तर्गत घरपझोङ गाउँपालिका-५ मा निर्माणाधीन ठिनी खोलामा मोटरेबल पुल निर्माण गरिएको छ ।घरपझोङ...",
-   "link": "https://gorkhapatraonline.com/news/229251",
-   "source": "Gorkhapatra",
-   "ts": 1794816211,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/391717/conversions/Pool-original.jpg",
-   "lang": "ne",
-   "hl": "मुस्ताङको ठिनी खोलामा मोटरेबल पुल उद्घाटन, कृषक र पर्यटकलाई सहज",
-   "en": "मुस्ताङको ठिनी खोलामा मोटरेबल पुल उद्घाटन, कृषक र पर्यटकलाई सहज",
-   "ne": "मुस्ताङको ठिनी खोलामा मोटरेबल पुल उद्घाटन, कृषक र पर्यटकलाई सहज",
-   "imp": 3,
-   "tags": [
-    "Mustang",
-    "Bridge",
-    "ThiniKhola"
-   ],
-   "cat": "society",
-   "val": 3,
    "teaser": false,
    "hits": 1
   },
@@ -5479,6 +5320,30 @@
    "val": 3,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "Nepal-Tibet flash flood: Rescuers race against time",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQWtiTFVZUGRRUG96QmR6NEtUc1EyYXljVW1XQVFJYVRnc1ZJalVZVmVoOWZsQXVETUw5c3g4aTZ1VkFyN2tYREY4Q0xybGVxTl8ySm1KMlNkdVN0Q0xUaHdzam43MTYwUjAwT3dKTC1VY1ZDWWpuV3Mxb2tweERvSTR2NHp1SGRWXzVV?oc=5",
+   "source": "DW.com",
+   "ts": 1794817737,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "Nepal-Tibet flash flood: Rescuers race against time",
+   "en": "Nepal-Tibet flash flood: Rescuers race against time",
+   "ne": "Nepal-Tibet flash flood: Rescuers race against time",
+   "imp": 4,
+   "tags": [
+    "NepalTibet",
+    "FlashFlood",
+    "Rescue",
+    "बाढी"
+   ],
+   "cat": "disaster",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
@@ -8453,7 +8318,7 @@
    "cat": "crime"
   }
  ],
- "updated": 1794844934,
+ "updated": 1794845458,
  "pending_since": 1794844256.8392024,
  "fb_blocks": [
   1790350880.4125228,
