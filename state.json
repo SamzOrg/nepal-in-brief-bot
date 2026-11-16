@@ -1,8 +1,5 @@
 {
  "seen": {
-  "https://nagariknews.nagariknetwork.com/politics/madhesh-chief-minister-yadav-s-resignation-accepted-call-to-submit-demands-for-new-government-by-mangsir-4-11-52.html": 1794665450.5613914,
-  "https://english.khabarhub.com/2026/14/575605/": 1794665450.5613914,
-  "https://nagariknews.nagariknetwork.com/politics/rehabilitation-of-bhotekoshi-trishuli-flood-victims-decision-to-provide-monthly-expenses-discussion-on-land-exchange-16-71.html": 1794665450.5613914,
   "https://gorkhapatraonline.com/news/229072": 1794666049.8507648,
   "http://english.ratopati.com/story/86664/biratnagars-first-success-lumbinis-darcy-short-out-for-45-runs": 1794666049.8507648,
   "https://kathmandupost.com/politics/2026/11/14/deuba-faction-prepares-parallel-provincial-conventions-ahead-of-kathmandu-gathering": 1794666049.8507648,
@@ -1710,7 +1707,9 @@
   "https://nagariknews.nagariknetwork.com/social-affairs/main-headline-of-the-news-75-93.html": 1794837690.8677368,
   "https://nagariknews.nagariknetwork.com/politics/how-can-we-consider-someone-who-weakens-the-party-in-elections-as-a-leader-rpp-leader-shahi-66-12.html": 1794837690.8677368,
   "https://nagariknews.nagariknetwork.com/international/what-is-the-white-snow-seen-on-the-yamuna-river-in-india-54-34.html": 1794837690.8677368,
-  "https://nagariknews.nagariknetwork.com/social-affairs/the-main-title-of-sama-char-49-77.html": 1794837690.8677368
+  "https://nagariknews.nagariknetwork.com/social-affairs/the-main-title-of-sama-char-49-77.html": 1794837690.8677368,
+  "https://www.setopati.com/social/402716": 1794838257.214277,
+  "https://gorkhapatraonline.com/news/229283": 1794838257.214277
  },
  "queue": [
   {
@@ -1781,28 +1780,6 @@
    "val": 3,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "४६ वर्षको उमेरमा मैदानमा फर्किए रोनाल्डिन्हो",
-   "summary": "गएको अगस्टमा लगानीकर्ताका रूपमा राभेन्नामा आबद्ध भएका राेनाल्डिन्हाे अहिले त्यही क्लबका लागि खेल्न फर्किएका छन् ।",
-   "link": "https://www.ujyaaloonline.com/detail/133545",
-   "source": "Ujyaalo",
-   "ts": 1794809176,
-   "weight": 2,
-   "img": "https://www.ujyaaloonline.com/uploads/posts/1-1794809029.jpg",
-   "lang": "ne",
-   "hl": "४६ वर्षको उमेरमा मैदानमा फर्किए रोनाल्डिन्हो",
-   "en": "४६ वर्षको उमेरमा मैदानमा फर्किए रोनाल्डिन्हो",
-   "ne": "४६ वर्षको उमेरमा मैदानमा फर्किए रोनाल्डिन्हो",
-   "imp": 1,
-   "tags": [
-    "Ronaldinho",
-    "Football"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "एसीसी प्रिमियर कप राइजिङ स्टार्स खेल्ने नेपाली राष्ट्रिय टिम घोषणा",
@@ -2743,53 +2720,6 @@
    ],
    "cat": "society",
    "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "राजीनामा दिएका हुआङलाई सीईओमा फर्काउन दबाब, एक लाख ७१ हजार बढीले गरे हस्ताक्षर",
-   "summary": "चिप निर्माता कम्पनी एनभिडियाका पूर्वप्रमुख कार्यकारी अधिकृत (सीईओ) जेन्सेन हुआङलाई पुनः कम्पनीको नेतृत्वमा फर्काउन दबाब बढेको छ।...",
-   "link": "https://nagariknews.nagariknetwork.com/international/pressure-to-reinstate-huang-as-ceo-after-resigning-over-171-000-signatures-61-51.html",
-   "source": "Nagarik News",
-   "ts": 1794809410,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1794809214_Elon%20back%20Jensen.jpg",
-   "lang": "ne",
-   "hl": "राजीनामा दिएका हुआङलाई सीईओमा फर्काउन दबाब, एक लाख ७१ हजार बढीले गरे हस्ताक्षर",
-   "en": "राजीनामा दिएका हुआङलाई सीईओमा फर्काउन दबाब, एक लाख ७१ हजार बढीले गरे हस्ताक्षर",
-   "ne": "राजीनामा दिएका हुआङलाई सीईओमा फर्काउन दबाब, एक लाख ७१ हजार बढीले गरे हस्ताक्षर",
-   "imp": 1,
-   "tags": [
-    "TechCEO",
-    "Resignation",
-    "GlobalBusiness"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "कृषक र उपभोक्ता जोड्दै हाटबजार",
-   "summary": "गुर्भाकोट नगरपालिकाले सातामा चार पटक हाटबजार लगाउने गरेको छ।",
-   "link": "https://nagariknews.nagariknetwork.com/economy/markets-connecting-farmers-and-consumers-br-30-58.html",
-   "source": "Nagarik News",
-   "ts": 1794809143,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1794809495_tarkari.jpg",
-   "lang": "ne",
-   "hl": "कृषक र उपभोक्ता जोड्दै हाटबजार",
-   "en": "कृषक र उपभोक्ता जोड्दै हाटबजार",
-   "ne": "कृषक र उपभोक्ता जोड्दै हाटबजार",
-   "imp": 2,
-   "tags": [
-    "HaatBazar",
-    "Agriculture",
-    "Market",
-    "हाटबजार"
-   ],
-   "cat": "economy",
-   "val": 2,
    "teaser": false,
    "hits": 1
   },
@@ -5735,29 +5665,6 @@
    "hits": 1
   },
   {
-   "title": "Two Arrested with Brown Heroin in Kanchanpur",
-   "summary": "Kathmandu. Two people have been arrested with brown heroin in Kanchanpur. A police team from the Narcotics Control Bureau Office,...",
-   "link": "http://english.ratopati.com/story/86889/two-arrested-with-brown-heroin-in-kanchanpur",
-   "source": "Ratopati EN",
-   "ts": 1794832804,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/capture_kjjS0A046S.webp",
-   "lang": "en",
-   "hl": "Two Arrested with Brown Heroin in Kanchanpur",
-   "en": "Two Arrested with Brown Heroin in Kanchanpur",
-   "ne": "Two Arrested with Brown Heroin in Kanchanpur",
-   "imp": 4,
-   "tags": [
-    "DrugBust",
-    "Kanchanpur",
-    "BrownHeroin"
-   ],
-   "cat": "crime",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Chitwan dairy cooperatives demand minimum milk price of Rs 75 per litre",
    "summary": "Kathmandu, November 16 The Chitwan District Milk Producers' Cooperative Union Ltd has urged the government to set the minimum price of raw milk at Rs 75 per litre. Issuing a statement, the union said dairy farmers were...",
    "link": "https://english.onlinekhabar.com/chitwan-farmer-raise-milk-price.html",
@@ -6107,6 +6014,29 @@
    ],
    "cat": "politics",
    "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "सुत्केरीको मृत्युपछि सञ्जीवनी अस्पतालमा तनाव, पाँच जना पक्राउ",
+   "summary": "सिराज खानबाँके, कात्तिक ३० गते । बाँकेको नेपालगन्जस्थित सञ्जीवनी कलेज अफ मेडिकल साइन्सेसमा जुम्ल्याहा बच्चा जन्माएकी १९ वर्षीया सुत्केरीको मृत्यु भएपछि अस्पतालमा दुई दिनदेखि तनाव उ...",
+   "link": "https://gorkhapatraonline.com/news/229283",
+   "source": "Gorkhapatra",
+   "ts": 1794837783,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/391758/conversions/sanjivini-aspatal-nepalgunj-original.jpg",
+   "lang": "ne",
+   "hl": "सुत्केरीको मृत्युपछि सञ्जीवनी अस्पतालमा तनाव, पाँच जना पक्राउ",
+   "en": "सुत्केरीको मृत्युपछि सञ्जीवनी अस्पतालमा तनाव, पाँच जना पक्राउ",
+   "ne": "सुत्केरीको मृत्युपछि सञ्जीवनी अस्पतालमा तनाव, पाँच जना पक्राउ",
+   "imp": 3,
+   "tags": [
+    "Hospital",
+    "MaternityDeath",
+    "सुत्केरी"
+   ],
+   "cat": "health",
+   "val": 2,
    "teaser": false,
    "hits": 1
   }
@@ -9092,10 +9022,21 @@
    "n_ig": 1,
    "brk": true,
    "cat": "economy"
+  },
+  {
+   "ts": 1794838324.5299046,
+   "en": "Two men arrested with 19.68 g brown heroin in Kanchanpur, Nepal",
+   "ne": "Two men arrested with 19.68 g brown heroin in Kanchanpur, Nepal",
+   "link": "http://english.ratopati.com/story/86889/two-arrested-with-brown-heroin-in-kanchanpur",
+   "source": "Ratopati EN",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "crime"
   }
  ],
- "updated": 1794837744,
- "pending_since": null,
+ "updated": 1794838335,
+ "pending_since": 1794838257.214277,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
