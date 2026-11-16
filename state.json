@@ -1,11 +1,5 @@
 {
  "seen": {
-  "http://english.ratopati.com/story/86625/chief-minister-yadav-submits-resignation-to-the-provincial-chief": 1794651051.0484643,
-  "https://baahrakhari.com/detail/507296": 1794651051.0484643,
-  "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZW5oMUotN1lKR2hKQTE2aEsyb1RtQWpDMmswOHQ2UHNYQW04elZVSXVaMmViLVVxbTZsTmtoczhlUkhyWWtqdzlRem9TNXVRUFNmazJMd1NDWHNUbWdOZFBKLXV3Tk43Vm1ZS3laZ3F5MjgweHNyN2VkUENkVWdMREtCb0J0QQ?oc=5": 1794651051.0484643,
-  "https://nagariknews.nagariknetwork.com/politics/nepal-s-push-to-bring-himalayan-issues-into-the-mainstream-of-global-climate-talks-65-78.html": 1794651051.0484643,
-  "http://english.ratopati.com/story/86623/jitjungs-attack-on-gagan-and-bishwaprakash-demand-to-investigate-ngo-connections-and-financial-irregularities": 1794651051.0484643,
-  "http://english.ratopati.com/story/86626/five-people-die-in-road-accidents-in-four-districts-including-bhaktapur": 1794651051.0484643,
   "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQVhHWEdBQnlmU00xYkgxQkJKWjVGQTBkZnA0eTZQZ3VJY056dEh2aDBkVnd0cnhBMHgtZ3hSbDhYNzhPRy01cnQzb2dabUhwSVdsaGZNSk1aWHFvQmpKZEpkZnJxRks0NWRSN3JRdmVraVpWTFpFa29QeE13aFRiWmJKR0dtU2RjS092Zm1Fa1lFRzJ3ZXBfcDNrdVR5Wnk1SW1sMG5NNEFZd3ZyXzJyX3d3?oc=5": 1794651212.9122179,
   "https://nagariknews.nagariknetwork.com/social-affairs/rashtriya-swayamsevak-sangh-rss-president-lamichhane-reaches-janakpur-to-celebrate-chhath-17-86.html": 1794651649.962576,
   "https://english.khabarhub.com/2026/14/575564/": 1794651649.962576,
@@ -1708,7 +1702,9 @@
   "https://www.setopati.com/politics/402699": 1794823285.7798116,
   "https://baahrakhari.com/detail/507448": 1794823285.7798116,
   "https://www.setopati.com/politics/402698": 1794823285.7798116,
-  "https://www.setopati.com/politics/402697": 1794823285.7798116
+  "https://www.setopati.com/politics/402697": 1794823285.7798116,
+  "https://english.onlinekhabar.com/drivers-traffic-violations-kathmandu.html": 1794823858.4437776,
+  "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUDdMYkN1V1Fncjc2VWw0dm1rQXpUSy15WE5QUmh6ekpZajFIcnpEaVJEVE9Hay1rMERBSzdua2J6VFBSM3ctbmdLTnVaY1JwZ1NEM3Q0NlV5X1ByTzVfYnZRM09iN0V4TnNUUEUzWVBRSThDUWZyTW5uSHE3WEdhOWtaSEdMM09rTGdMVnhvcHdkVmsxXzNqUzI5QmhTTmFaaXV0eU4zeG94RGFsMzF5alhHdVR4YzVISEhR?oc=5": 1794823858.4437776
  },
  "queue": [
   {
@@ -1915,29 +1911,6 @@
    "val": 3,
    "teaser": false,
    "hits": 2
-  },
-  {
-   "title": "Changing farming practices threaten food and habitats of migratory birds in Nepal",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVHJ3UWJQS2ppNUZDdmhvd0VoWmVzZlFNTElQajZmUG9iZ3hQX28wQUlnTXJBbWJuSzZPNDB2TWItZFZJRVV3THIxQmdFbmFSNllkNWZFWWFnVDRKUjlPYWJlQ0pwcld2bE9rWDdFSTJDU0Jxb2ExVzRUanZFSC1WVHhPUkMwWWdJN1JwQnJkQXJ2X0tyTTQtc3VSZjhMN250Mng4YVU0cWFZMWs?oc=5",
-   "source": "Asia News Network",
-   "ts": 1794794539,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Changing farming practices threaten food and habitats of migratory birds in Nepal",
-   "en": "Changing farming practices threaten food and habitats of migratory birds in Nepal",
-   "ne": "Changing farming practices threaten food and habitats of migratory birds in Nepal",
-   "imp": 2,
-   "tags": [
-    "MigratoryBirds",
-    "Farming",
-    "Environment"
-   ],
-   "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
   },
   {
    "title": "समावेशीकरणको दिशामा नयाँ फड्को : गोरखापत्रद्वारा प्रकाशित जिरेल भाषा",
@@ -6434,7 +6407,7 @@
    "cat": "world",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Nepal seeks investment to produce 5 lakh tonnes of green urea annually within five years",
@@ -6482,7 +6455,7 @@
    "cat": "society",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "China, India and Nepal can find common ground in the Himalayas",
@@ -9679,8 +9652,8 @@
    "cat": "health"
   }
  ],
- "updated": 1794823310,
- "pending_since": null,
+ "updated": 1794823862,
+ "pending_since": 1794823858.4437776,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
