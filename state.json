@@ -1,8 +1,5 @@
 {
  "seen": {
-  "https://thehimalayantimes.com/nepal/sama-chakewa-festival-begins-across-mithila-region": 1794642650.2732165,
-  "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOTZUZ0RSRjg3X2VVbzdqcnRkS3FMMG5kSFBHdWZKZTVjZmFTVmZDSUJfRkpOa2ZuenBoOTNjQ0ZpbmlOck01ZldCTjdOUFhFdnFRXzB4a1BKVFA1ZzlrOWg0NF9ocUFIRk9wSzRIWlg1ZGtNSzNGWTllSFBkLVZYVnVHSGZmRnZ2c2QzenpHZ0ZMZWlRVHA2WmJ0M0tVaDNO?oc=5": 1794642650.2732165,
-  "https://www.ujyaaloonline.com/detail/133481": 1794642650.2732165,
   "http://english.ratopati.com/story/86600/we-are-hopeful-that-cop-will-address-the-agenda-of-mountainous-countries-foreign-minister-khanal": 1794643288.2244973,
   "https://gorkhapatraonline.com/news/229036": 1794643288.2244973,
   "https://baahrakhari.com/detail/507287": 1794643288.2244973,
@@ -1689,7 +1686,13 @@
   "https://nagariknews.nagariknetwork.com/international/pressure-to-reinstate-huang-as-ceo-after-resigning-over-171-000-signatures-61-51.html": 1794814852.8854463,
   "https://nagariknews.nagariknetwork.com/economy/markets-connecting-farmers-and-consumers-br-30-58.html": 1794814852.8854463,
   "https://nagariknews.nagariknetwork.com/international/preparations-for-trump-xi-putin-meeting-new-debate-on-global-balance-of-power-78-44.html": 1794814852.8854463,
-  "https://english.onlinekhabar.com/3-killed-1-missing-in-auto-rickshaw-accident-in-bajhang.html": 1794815450.256802
+  "https://english.onlinekhabar.com/3-killed-1-missing-in-auto-rickshaw-accident-in-bajhang.html": 1794815450.256802,
+  "https://baahrakhari.com/detail/507439": 1794815684.632413,
+  "https://gorkhapatraonline.com/news/229250": 1794815684.632413,
+  "http://english.ratopati.com/story/86836/icc-changes-world-cup-qualification-format": 1794815684.632413,
+  "https://nagariknews.nagariknetwork.com/social-affairs/three-people-die-in-auto-accident-in-bajhang-52-35.html": 1794815684.632413,
+  "http://english.ratopati.com/story/86835/dailekh-petroleum-project-first-phase-completed-well-testing-and-second-phase-agreement-delayed": 1794815684.632413,
+  "https://nagariknews.nagariknetwork.com/sports/legendary-footballer-ronaldinho-returns-to-the-field-at-the-age-of-46-13-79.html": 1794815684.632413
  },
  "queue": [
   {
@@ -3349,7 +3352,7 @@
    "cat": "culture",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Changing farming practices threaten food and habitats of migratory birds in Nepal",
@@ -5496,7 +5499,7 @@
    "cat": "sports",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "काठमाडौँ फर्किने टिकट पाउनै मुस्किल",
@@ -5857,7 +5860,7 @@
    "cat": "sports",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "घोषणापत्रका प्रतिबद्धता कार्यान्वयन गर्ने समय आयोः रवि लामिछाने",
@@ -6593,7 +6596,7 @@
    "cat": "world",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Juvenile inmate who escaped from Sarangkot Rehabilitation Centre arrested in Lakeside",
@@ -9794,7 +9797,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1794815468,
+ "updated": 1794815687,
  "pending_since": 1794815450.256802,
  "fb_blocks": [
   1790350880.4125228,
