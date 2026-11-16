@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWTBDdnRtZ21ORFp1SkZpeWJ1UlIyUzA3bVkyLVdmeUQ3MUM1N1BsQkpNcWktb0VCcHBkd3JOeElLQVdDdGo2cklyaEczNklPOEhNTGtHTi1wTGhoODFIQmcyX2pReWpmQ1F6VVZLQUw1dWFaRkRnRVZJZFFzQk93d2xrYU4xQVF5ckpjTGVwTjRrTGF5ckQ3UjlHSVlWTURoaHBRcUl6T3JBYjZVLTdQNEZ6Nk9ibE91UEJfem5pMDgydw?oc=5": 1794686491.6000717,
   "https://news.google.com/rss/articles/CBMizgFBVV95cUxQanlWUThCeHc5N2l3Q3B1TmdVdGt6ZDVEVG5SdnpfOW8xSUN6dGU0d0FIWERzbEUwYjNyWHFSX2tzWDljNGl3dlAzaGk2YjNEV2J4cjYyRzdjN1VZcWNmRTM3Yk5xUFFSV1AzTTRWTjQ3VnJQSGJBSTZsNlExMWlfaE5fMkxkOTBUZm9TSTBkMFBZaUFqSmk1OUNQU3Ryd0ZWWUhvc0psVkIyUzBNRmtaRlZKREs3TnMyaUZLdnYtdWktR2FxSkdfOF85NVl4UQ?oc=5": 1794687050.3845527,
   "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdWxObEQ3N0I4YXZPRTVCd2daQmUtTjdSOU1vQzNwbmhOclJGRmdVTFd0bExKR2JzVUVwRzVsaVhaa2Y5WEhFSVlvUERhNkNrV05xNUpOajBEcmpzRUFrWURBLVJSbEhTaXowZlJlaWJFZktMNlZWQ3p3WTFqc2l4Z3B3WHlZQWx0TlpPMtIBkgFBVV95cUxQdjdoR2g3VWlfUkxzSWxONXZlRzU3WTRGREticmtGNlZocUdOR1o2SjRVMzU0dW1FYktqV1FSVFRzVU5UZDhYVzdfRmJqSGltU2tvQmEyeFNlTTNPdWtFbW1TX0ZNQ2YtQk1TOGtjdThfMXVOOEFid0xkTTVGa3NUaVl3ZGZ1dTFyTEc2MDIzNjdHZw?oc=5": 1794687651.0146933,
   "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdkZ5dktvWVRhN3FOWGp6bEkyRnBlcHdtbEpsYmkxRUVMcWg3T091bWdzT1VPdXdPQV9rd2FoY2J6dHlOX05PZGptaDZBdUFERW5pUHZ3QXJlbngtNV9XRXgwbjcyay1oalVvX05pNjJHbkFFRzVwdTRSQzVHdm1CVGJUNUFSU25TLW1qS1RMOUFHdmxxdGlrUXdnQWtFZmNkaGhYV2h1Y3dGeEg4OGRoSW9Jd2NiUmxxYWkyUTduS3FkbDNpRzBsUGJXNWZZRnN3X1RVRDhJTVo?oc=5": 1794688858.0971003,
@@ -1698,29 +1697,6 @@
     "ThaneshworGautam",
     "Cyberbullying",
     "Singer"
-   ],
-   "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "यौन हिंसासम्बन्धी प्रस्तावित विधेयकमा थप सुधार गर्न माग",
-   "summary": "कानून मन्त्रालयले यौन हिंसासम्बन्धी तयार पारेको विधेयकमा थप सुधारको आवश्यकता रहेकामा सरोकारवालाले जोड दिएका छन् ।",
-   "link": "https://www.ujyaaloonline.com/detail/133559",
-   "source": "Ujyaalo",
-   "ts": 1794829974,
-   "weight": 2,
-   "img": "https://www.ujyaaloonline.com/uploads/posts/1-1794829893.jpg",
-   "lang": "ne",
-   "hl": "यौन हिंसासम्बन्धी प्रस्तावित विधेयकमा थप सुधार गर्न माग",
-   "en": "यौन हिंसासम्बन्धी प्रस्तावित विधेयकमा थप सुधार गर्न माग",
-   "ne": "यौन हिंसासम्बन्धी प्रस्तावित विधेयकमा थप सुधार गर्न माग",
-   "imp": 3,
-   "tags": [
-    "SexualViolence",
-    "Law",
-    "Bill"
    ],
    "cat": "society",
    "val": 3,
@@ -6606,8 +6582,8 @@
    "cat": "economy"
   }
  ],
- "updated": 1794858662,
- "pending_since": null,
+ "updated": 1794859297,
+ "pending_since": 1794859293.1225042,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
