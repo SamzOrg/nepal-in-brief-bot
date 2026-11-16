@@ -1595,33 +1595,10 @@
   "https://nagariknews.nagariknetwork.com/social-affairs/a-person-was-found-dead-in-a-guesthouse-investigation-began-64-87.html": 1794790879.2780454,
   "https://kathmandupost.com/columns/2026/11/15/why-drying-madhesh-is-a-disaster-in-the-making": 1794790879.2780454,
   "https://nagariknews.nagariknetwork.com/social-affairs/police-in-the-fields-to-protect-farmers-crops-86-29.html": 1794790879.2780454,
-  "https://nagariknews.nagariknetwork.com/editorial/the-need-now-is-for-a-production-oriented-economy-61-73.html": 1794790879.2780454
+  "https://nagariknews.nagariknetwork.com/editorial/the-need-now-is-for-a-production-oriented-economy-61-73.html": 1794790879.2780454,
+  "https://kathmandupost.com/interviews/2026/11/16/why-did-nepal-s-mountain-agenda-stall-at-cop31-a-delegation-insider-explains": 1794791448.75295
  },
  "queue": [
-  {
-   "title": "Kaski and Nawalpur Win in Gandaki Province Level PM Cup Women's T20 Qualifiers",
-   "summary": "Kaski. In the Gandaki Province Level 'PM Cup' Women's T20 Qualifier Cricket Tournament underway at the Pokhara Stadium cricket ground,...",
-   "link": "http://english.ratopati.com/story/86774/gandaki-pm-cup-womens-cricket-kaski-and-nawalpur-win",
-   "source": "Ratopati EN",
-   "ts": 1794762530,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/APoViRSUNF.jpg",
-   "lang": "en",
-   "hl": "Kaski and Nawalpur Win in Gandaki Province Level PM Cup Women's T20 Qualifiers",
-   "en": "Kaski and Nawalpur Win in Gandaki Province Level PM Cup Women's T20 Qualifiers",
-   "ne": "Kaski and Nawalpur Win in Gandaki Province Level PM Cup Women's T20 Qualifiers",
-   "imp": 3,
-   "tags": [
-    "Kaski",
-    "Nawalpur",
-    "PM_Cup",
-    "Cricket"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
   {
    "title": "Tag",
    "summary": "",
@@ -2643,17 +2620,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1794186094.3541865,
-   "en": "Gai Puja being observed across Nepal on third day of Tihar",
-   "ne": "Gai Puja being observed across Nepal on third day of Tihar",
-   "link": "https://english.khabarhub.com/2026/09/574957/",
-   "source": "Khabarhub EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "culture"
-  },
   {
    "ts": 1794187870.8134942,
    "en": "घोप्टेभीरमा सुक्खा पहिरो खस्यो, पृथ्वी राजमार्ग दुईतर्फी अवरुद्ध",
@@ -5647,8 +5613,8 @@
    "cat": "crime"
   }
  ],
- "updated": 1794790888,
- "pending_since": null,
+ "updated": 1794791452,
+ "pending_since": 1794791448.75295,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
