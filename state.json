@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMivwFBVV95cUxNekdLZXN2MlExTGF6dkdNeGk2MEExMEdHNWNGX1dRcHZDTnZZMkNpMmtqaGdmZ1JRdHhzNnpieDY4UzhDMzRTTXBCbHhFUkRXTmxId29CWlloMVo3akl0cnl1NjM4VWdtQ0xsV0RzWlRaWnJ3My0xY2lidmR3REFFUEdVa1V3d2V4WUVRTUIwT2ltdDJOd3dwSEdhdXlNMEJvV2lCZ1VNMGVuRlVGZC1wMzRTM2RkbHFNc2dKTmNUSQ?oc=5": 1794627067.0316052,
   "https://english.khabarhub.com/2026/14/575532/": 1794627646.840321,
   "http://english.ratopati.com/story/86545/see-in-pictures-the-236-year-old-amargadhi-fort-a-witness-to-nepals-unification": 1794627646.840321,
   "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9RX0lhTTdkSXloLVRnZHBLM2t6akZiZ1pjMmVqdU1ESU4wa3BicXBDV1N5RUZEbldhTnJYVXozSWFudWlzV1lBbTN6b2hSaGlFWVhUX0dGeTA?oc=5": 1794627646.840321,
@@ -1638,7 +1637,9 @@
   "http://english.ratopati.com/story/86799/actor-sharad-kapoors-heartfelt-appeal-i-need-work-and-support": 1794799251.4604812,
   "https://nagariknews.nagariknetwork.com/politics/rpp-chief-whip-oli-demands-action-against-those-who-discriminate-against-caste-during-chhath-63-35.html": 1794799251.4604812,
   "http://english.ratopati.com/story/86798/invisible-object-found-in-space-that-challenges-the-laws-of-science": 1794799251.4604812,
-  "https://nagariknews.nagariknetwork.com/politics/dissatisfaction-with-thapa-leadership-in-search-of-deuba-s-successor-br-81-26.html": 1794799251.4604812
+  "https://nagariknews.nagariknetwork.com/politics/dissatisfaction-with-thapa-leadership-in-search-of-deuba-s-successor-br-81-26.html": 1794799251.4604812,
+  "http://english.ratopati.com/story/86805/gagan-thapas-mistakes-after-taking-the-leadership": 1794799885.351538,
+  "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWU1jT3dFenFXaF8yUmpQZHU2TmFEblBjSHFSeE85T3pZNFIzdDZLdDA2VnlpeUJsU19NZGt1WWs0WlhEaHhRMXdyZ3BybGpqVkhrWXNHQW5LeUxmcTdLVEtQTDRDLS1IcS11S0tCakZCRGRMc0ZqTWo4Y3JMVU93d2lfdHVWRkZFZi1VZ3d30gGOAUFVX3lxTE5MaU44NmJTQ1hEcjBsTHgyQTRlSTJIZ1FuUEZwRWxCRG43VC1NbzlxRmVzUEtEelNqajJ5cDN5LUx1SzcwZDVkRldsZ19jbF9POFRleXFNVHV1NnF5TzhmalZzUU54UjgteFFlN1R0QnlteDFHOVdPQ3VGV2lrTnhuMFVmYVNNME1zcG94Tmc?oc=5": 1794799885.351538
  },
  "queue": [
   {
@@ -4032,6 +4033,29 @@
     "SherBahadurDeuba"
    ],
    "cat": "politics",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Nepal flood: Death toll tops 1,000 as rescue continues",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWU1jT3dFenFXaF8yUmpQZHU2TmFEblBjSHFSeE85T3pZNFIzdDZLdDA2VnlpeUJsU19NZGt1WWs0WlhEaHhRMXdyZ3BybGpqVkhrWXNHQW5LeUxmcTdLVEtQTDRDLS1IcS11S0tCakZCRGRMc0ZqTWo4Y3JMVU93d2lfdHVWRkZFZi1VZ3d30gGOAUFVX3lxTE5MaU44NmJTQ1hEcjBsTHgyQTRlSTJIZ1FuUEZwRWxCRG43VC1NbzlxRmVzUEtEelNqajJ5cDN5LUx1SzcwZDVkRldsZ19jbF9POFRleXFNVHV1NnF5TzhmalZzUU54UjgteFFlN1R0QnlteDFHOVdPQ3VGV2lrTnhuMFVmYVNNME1zcG94Tmc?oc=5",
+   "source": "DW.com",
+   "ts": 1794786538,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "Nepal flood: Death toll tops 1,000 as rescue continues",
+   "en": "Nepal flood: Death toll tops 1,000 as rescue continues",
+   "ne": "Nepal flood: Death toll tops 1,000 as rescue continues",
+   "imp": 5,
+   "tags": [
+    "NepalFlood",
+    "Flood",
+    "बाढी"
+   ],
+   "cat": "disaster",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -7031,8 +7055,8 @@
    "cat": "politics"
   }
  ],
- "updated": 1794799278,
- "pending_since": null,
+ "updated": 1794799890,
+ "pending_since": 1794799885.351538,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
