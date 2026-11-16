@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://english.khabarhub.com/2026/14/575504/": 1794622846.6920135,
-  "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQmQycVI4Nm5KbDh1Q1FqNS1JcE9wd2IxTlp3dDJHaVB1OGdBZlFsd2NSSk5tTHdqMjhaSnh1dmdpZnB4TWFjMHFqT1JfODR2ZkRRZ1dJSVdkV2l4Z3kzVk5KVWVuUW9oWTI4ZHE4WDZhRVlndkxzYXJSMWFjekpzZVJmQ1I5aXMwMEhLbGF2TXFHZVA0RTZ1Qjc5WEZHZnY5UVQzWWI1dDlfNnI3bzEtbTRhUS1abzBWcE9EcVJnRUdoUGNOMmtCaw?oc=5": 1794622846.6920135,
   "http://english.ratopati.com/story/86538/today-is-world-diabetes-day-how-to-reduce-the-risk": 1794623465.2510638,
   "http://english.ratopati.com/story/86540/nepal-sambat-mentioned-in-official-notice-of-nepali-embassy-in-portugal-welcomed-by-stakeholders": 1794624029.0101125,
   "http://english.ratopati.com/story/86539/are-you-diabetic-these-5-signs-appear-at-night": 1794624029.0101125,
@@ -1601,7 +1599,12 @@
   "https://kathmandupost.com/world/2026/11/16/megaspeed-says-alice-huang-left-the-company-in-august-2025": 1794794480.88312,
   "https://nagariknews.nagariknetwork.com/sports/the-pitch-that-stops-the-global-star-br-62-91.html": 1794794480.88312,
   "https://risingnepaldaily.com/news/88673": 1794794480.88312,
-  "https://risingnepaldaily.com/news/88667": 1794794480.88312
+  "https://risingnepaldaily.com/news/88667": 1794794480.88312,
+  "https://gorkhapatraonline.com/news/229203": 1794795655.9957097,
+  "https://english.khabarhub.com/2026/16/575760/": 1794795655.9957097,
+  "https://gorkhapatraonline.com/news/229202": 1794795655.9957097,
+  "https://gorkhapatraonline.com/news/229201": 1794795655.9957097,
+  "https://news.google.com/rss/articles/CBMizwFBVV95cUxNd2dpeTRLSUVwTzIwVWFua2VwVUxJNzdUOVMyamdvOFJuc0F5VE85QkFIZ2VCWFJHdFliVUs5MUxMWDZmbUQ4VmdWeEZJOWRWN0p1UllaYUhpckRZTWxqVjlqcVQyZ01JRl8zV1lQamY3cUUwVjF5QkNUakhNMEJzRFBDSWdGZE1QamFLaU9Zb2pMYmtTNkx0UTFNMlBQTkJZQ1lsY3RvNmJIUHVnc1E4RUlSQkhuZmd2XzJXSGVCU1lTeGpaX2RjeE9VOC12TVk?oc=5": 1794795655.9957097
  },
  "queue": [
   {
@@ -2603,7 +2606,7 @@
    "cat": "sports",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "Things to do in Kathmandu Valley this week",
@@ -3023,30 +3026,6 @@
    "hits": 1
   },
   {
-   "title": "मुगुमा जिप दुर्घटना, काठमाडौंबाट रारा ताल घुम्न गएका तीन जनाको मृत्यु",
-   "summary": "दुर्घटनास्थलको प्रकृति नियाल्दा सडक भासिएर दुर्घटना परेको हुनसक्ने डिएसपी थपलियाले बताए ।",
-   "link": "https://www.setopati.com/social/402656",
-   "source": "Setopati",
-   "ts": 1794793314,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "मुगुमा जिप दुर्घटना, काठमाडौंबाट रारा ताल घुम्न गएका तीन जनाको मृत्यु",
-   "en": "मुगुमा जिप दुर्घटना, काठमाडौंबाट रारा ताल घुम्न गएका तीन जनाको मृत्यु",
-   "ne": "मुगुमा जिप दुर्घटना, काठमाडौंबाट रारा ताल घुम्न गएका तीन जनाको मृत्यु",
-   "imp": 4,
-   "tags": [
-    "Mugu",
-    "JeepAccident",
-    "Rara",
-    "मुगु"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Tourist influx surges in Bandipur, leaving hotels and homestays fully occupied",
    "summary": "DAMAULI: The popular tourist destination of Bandipur in Tanahun has witnessed a significant rise in both domestic and international visitors, driven by festive holidays and the beginning of the peak tourist season. The...",
    "link": "https://english.khabarhub.com/2026/16/575771/",
@@ -3335,17 +3314,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1794190255.485437,
-   "en": "Nepal Premier League Season 3 top-four race nears league-stage conclusion",
-   "ne": "Nepal Premier League Season 3 top-four race nears league-stage conclusion",
-   "link": "https://kathmandupost.com/cricket/2026/11/09/top-four-race-goes-down-to-the-wire-as-npl-season-3-nears-league-stage-conclusion",
-   "source": "Kathmandu Post",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "sports"
-  },
   {
    "ts": 1794192057.0824475,
    "en": "Nepal's peak electricity demand hits record 1,813 MW on Laxmi Puja",
@@ -6326,9 +6294,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "environment"
+  },
+  {
+   "ts": 1794795662.464712,
+   "en": "मुगुमा जिप दुर्घटना हुँदा तीन जनाको मृत्यु, दुई घाइते",
+   "ne": "मुगुमा जिप दुर्घटना हुँदा तीन जनाको मृत्यु, दुई घाइते",
+   "link": "https://www.setopati.com/social/402656",
+   "source": "Setopati",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "disaster"
   }
  ],
- "updated": 1794795056,
+ "updated": 1794795674,
  "pending_since": 1794795051.438526,
  "fb_blocks": [
   1790350880.4125228,
