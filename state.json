@@ -1707,7 +1707,10 @@
   "http://english.ratopati.com/story/86865/1336-ukrainian-drones-hit-crimean-bridge": 1794825074.6072364,
   "https://nagariknews.nagariknetwork.com/social-affairs/bajhang-auto-accident-update-missing-child-also-found-dead-death-toll-reaches-four-br-83-11.html": 1794825074.6072364,
   "https://baahrakhari.com/detail/507457": 1794825652.1582162,
-  "https://english.onlinekhabar.com/27-year-old-woman-found-dead-at-home-in-birendranagar.html": 1794825652.1582162
+  "https://english.onlinekhabar.com/27-year-old-woman-found-dead-at-home-in-birendranagar.html": 1794825652.1582162,
+  "https://baahrakhari.com/detail/507458": 1794826253.7299075,
+  "https://news.google.com/rss/articles/CBMijAFBVV95cUxObWJaYVo0WUxRcVBzSGlLMW9qWFFpNlJXdnMwOC1TdG5qSEJXUlo1U2NhclhZTjRCRHVMWnRPZG9JRTBYRnduRHN0c1E1dHppblJsTEdQREUyRXBGNXJVa01mNkx2SjhRVlBfNmJISHd3aXZBRW0tcFpiR1dVSmFaNXJqX1ZOU3UyMElaeQ?oc=5": 1794826253.7299075,
+  "https://gorkhapatraonline.com/news/229266": 1794826253.7299075
  },
  "queue": [
   {
@@ -1779,29 +1782,6 @@
    "hits": 1
   },
   {
-   "title": "आज विराटनगरको हावा अति अस्वस्थ, देशका धेरैजसो शहरमा प्रदूषण बढ्यो",
-   "summary": "अब सुख्खा र चिसो मौसम बढ्दै जाँदा वायु प्रदूषणको मात्रा थप उकालो लाग्ने सम्भावना हुन्छ । यसले जनस्वास्थ्यमा गम्भीर असर पार्न सक्ने भन्दै विज्ञहरूले विशेष सावधानी अपनाउन आग्रह गरेका छन् ।",
-   "link": "https://www.ujyaaloonline.com/detail/133535",
-   "source": "Ujyaalo",
-   "ts": 1794796897,
-   "weight": 2,
-   "img": "https://www.ujyaaloonline.com/uploads/posts/polution-kathmandu-weather_MM5dNQ8zPx.jpg",
-   "lang": "ne",
-   "hl": "आज विराटनगरको हावा अति अस्वस्थ, देशका धेरैजसो शहरमा प्रदूषण बढ्यो",
-   "en": "आज विराटनगरको हावा अति अस्वस्थ, देशका धेरैजसो शहरमा प्रदूषण बढ्यो",
-   "ne": "आज विराटनगरको हावा अति अस्वस्थ, देशका धेरैजसो शहरमा प्रदूषण बढ्यो",
-   "imp": 3,
-   "tags": [
-    "Biratnagar",
-    "AirPollution",
-    "प्रदूषण"
-   ],
-   "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "छठ पूजास्थल तोडफोड गरेको आरोपमा दुई जना पक्राउ",
    "summary": "सुनसरीमा छठ पूजास्थल तोडफोड गरेको आरोपमा प्रहरीले दुई जनालाई पक्राउ गरेको छ।",
    "link": "https://nagariknews.nagariknetwork.com/social-affairs/two-arrested-for-vandalizing-chhath-puja-site-38-97.html",
@@ -1866,98 +1846,6 @@
     "Business"
    ],
    "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "कर्जाको दिगो विस्तार",
-   "summary": "सर्वसाधारण व्यक्ति तथा व्यावसायिक क्षेत्रबाट सङ्कलित बचतलाई उपभोग, उत्पादन, रोजगारी र आय वृद्धिको क्षेत्रमा परिचालन गरी देशको आर्थिक समृद्धिमा योगदान पुर्‍याउने कार्य बैङ्किङ क्षेत...",
-   "link": "https://gorkhapatraonline.com/news/229207",
-   "source": "Gorkhapatra",
-   "ts": 1794796924,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/391662/conversions/arjun-original.jpg",
-   "lang": "ne",
-   "hl": "कर्जाको दिगो विस्तार",
-   "en": "कर्जाको दिगो विस्तार",
-   "ne": "कर्जाको दिगो विस्तार",
-   "imp": 2,
-   "tags": [
-    "Loan",
-    "Credit",
-    "कर्जा"
-   ],
-   "cat": "economy",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "काठमाडौं आउँदै गरेको बस कावासोतीमा पल्टियो",
-   "summary": "दुर्घटनामा २५ जना सामान्य तथा मध्यम घाइते भएका छन्। घाइतेहरूलाई उपचारका लागि डण्डास्थित मध्यविन्दु प्रादेशिक अस्पताल पठाइएको छ।...",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/kathmandu-bound-bus-overturns-in-kawasoti-41-56.html",
-   "source": "Nagarik News",
-   "ts": 1794797411,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1794797380_Accident.jpg",
-   "lang": "ne",
-   "hl": "काठमाडौं आउँदै गरेको बस कावासोतीमा पल्टियो",
-   "en": "काठमाडौं आउँदै गरेको बस कावासोतीमा पल्टियो",
-   "ne": "काठमाडौं आउँदै गरेको बस कावासोतीमा पल्टियो",
-   "imp": 3,
-   "tags": [
-    "Kawasoti",
-    "BusAccident",
-    "Accident"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 4
-  },
-  {
-   "title": "Bollywood Actor Sharad Kapoor Seeks Financial Help Amidst Crisis",
-   "summary": "Mumbai. After a video of Bollywood actor Sharad Kapoor appearing in a pathetic condition at his residence went viral on...",
-   "link": "http://english.ratopati.com/story/86799/actor-sharad-kapoors-heartfelt-appeal-i-need-work-and-support",
-   "source": "Ratopati EN",
-   "ts": 1794797234,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/sharad-kapoor_n7Z8rNdK2V.webp",
-   "lang": "en",
-   "hl": "Bollywood Actor Sharad Kapoor Seeks Financial Help Amidst Crisis",
-   "en": "Bollywood Actor Sharad Kapoor Seeks Financial Help Amidst Crisis",
-   "ne": "Bollywood Actor Sharad Kapoor Seeks Financial Help Amidst Crisis",
-   "imp": 1,
-   "tags": [
-    "SharadKapoor",
-    "Bollywood",
-    "FinancialCrisis"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Astronomers Discover Invisible Binary Companion Challenging Neutron Star Limits",
-   "summary": "A team of astronomers, studying data from the 'Large Sky Area Multi-Object Fiber Spectroscopic Telescope' (LAMOST) and the 'Apache Point...",
-   "link": "http://english.ratopati.com/story/86798/invisible-object-found-in-space-that-challenges-the-laws-of-science",
-   "source": "Ratopati EN",
-   "ts": 1794797100,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/newton-star_icfNBBGxaq.webp",
-   "lang": "en",
-   "hl": "Astronomers Discover Invisible Binary Companion Challenging Neutron Star Limits",
-   "en": "Astronomers Discover Invisible Binary Companion Challenging Neutron Star Limits",
-   "ne": "Astronomers Discover Invisible Binary Companion Challenging Neutron Star Limits",
-   "imp": 1,
-   "tags": [
-    "Astronomy",
-    "NeutronStar",
-    "Science"
-   ],
-   "cat": "tech",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -5997,7 +5885,7 @@
    "cat": "sports",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "Payments Execs Trek to Everest Base Camp for Global Children's Charity Street Child",
@@ -6397,29 +6285,6 @@
    "hits": 1
   },
   {
-   "title": "सप्तरीमा जंगली हात्तीको आक्रमणबाट वृद्धको मृत्यु",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/507455",
-   "source": "Baahrakhari",
-   "ts": 1794824654,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "सप्तरीमा जंगली हात्तीको आक्रमणबाट वृद्धको मृत्यु",
-   "en": "सप्तरीमा जंगली हात्तीको आक्रमणबाट वृद्धको मृत्यु",
-   "ne": "सप्तरीमा जंगली हात्तीको आक्रमणबाट वृद्धको मृत्यु",
-   "imp": 4,
-   "tags": [
-    "Saptari",
-    "WildElephant",
-    "WildlifeAttack"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Fire Destroys Paddy and Straw in Jhapa",
    "summary": "Jhapa. In Jhapa's Kankai Municipality-9 Ghailadubba, unidentified individuals set fire to two paddy stacks, resulting in the complete destruction of...",
    "link": "http://english.ratopati.com/story/86867/unknown-person-sets-fire-to-paddy-field",
@@ -6602,20 +6467,31 @@
    "val": 3,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "मोटरसाइकलको ठक्करबाट युवकको मृत्यु, चालक पक्राउ",
+   "summary": "जनकपुरधाम, कात्तिक ३० गते । धनुषाको जनकपुरधाम उपमहानगरपालिका-१९ कठाइतमा मोटरसाइकलको ठक्करबाट एक युवकको मृत्यु भएको छ ।श्रीपुरबाट कठाइततर्फ जाँदै गरेको प्रदेश २-००४ प २०४६ नम्बरको म...",
+   "link": "https://gorkhapatraonline.com/news/229266",
+   "source": "Gorkhapatra",
+   "ts": 1794825874,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/391733/conversions/death-original.jpg",
+   "lang": "ne",
+   "hl": "मोटरसाइकलको ठक्करबाट युवकको मृत्यु, चालक पक्राउ",
+   "en": "मोटरसाइकलको ठक्करबाट युवकको मृत्यु, चालक पक्राउ",
+   "ne": "मोटरसाइकलको ठक्करबाट युवकको मृत्यु, चालक पक्राउ",
+   "imp": 2,
+   "tags": [
+    "MotorcycleAccident",
+    "Fatality"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1794220862.2022834,
-   "en": "Industry Minister Shah and Indian Ambassador Dalela Discuss Bilateral Trade",
-   "ne": "Industry Minister Shah and Indian Ambassador Dalela Discuss Bilateral Trade",
-   "link": "http://english.ratopati.com/story/86131/industry-minister-sah-meets-with-indian-ambassador-dalela",
-   "source": "Ratopati EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "politics"
-  },
   {
    "ts": 1794222660.7896285,
    "en": "UN defers Nepal and Bangladesh LDC graduation to November 24, 2029",
@@ -9585,9 +9461,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "world"
+  },
+  {
+   "ts": 1794826263.045652,
+   "en": "सप्तरीमा ७० वर्षीय गोपी चौधरीको जंगली हात्ती आक्रमणले मृत्यु",
+   "ne": "सप्तरीमा ७० वर्षीय गोपी चौधरीको जंगली हात्ती आक्रमणले मृत्यु",
+   "link": "https://baahrakhari.com/detail/507455",
+   "source": "Baahrakhari",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "disaster"
   }
  ],
- "updated": 1794825657,
+ "updated": 1794826282,
  "pending_since": 1794825074.6072364,
  "fb_blocks": [
   1790350880.4125228,
