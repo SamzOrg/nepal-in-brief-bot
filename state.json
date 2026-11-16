@@ -1591,7 +1591,9 @@
   "https://risingnepaldaily.com/news/88661": 1794789658.2621937,
   "http://english.ratopati.com/story/86785/those-who-help-foreigners-climb-mountains-and-explain-nepal-to-them": 1794790252.625731,
   "https://nagariknews.nagariknetwork.com/sports/women-s-gold-cup-sajina-s-hat-trick-takes-swarnim-to-semifinals-71-58.html": 1794790252.625731,
-  "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9mOEZFVnZIQTN0NlRLYWpHZ2QzeXIxUldGQU9NeXhaLWp3U251dGlKejVFUlI0ZlF1ZG9FU2JIaFZkTms0OTdpOXlMbU9QOFlySDU5Rld0dDY?oc=5": 1794790252.625731
+  "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9mOEZFVnZIQTN0NlRLYWpHZ2QzeXIxUldGQU9NeXhaLWp3U251dGlKejVFUlI0ZlF1ZG9FU2JIaFZkTms0OTdpOXlMbU9QOFlySDU5Rld0dDY?oc=5": 1794790252.625731,
+  "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcDZmTWlSVnViS3oxbEtGcHhwT1IwUmhmd2NhVllaZGtXamRaNGZ0TWs5SFcyRUFsVWhVSlhON3JXQlpwZHE5UHItUjFVZXhwWTNycHR2XzJoUW41MFJPV1p2MFRxZHQ5OWpUQ1BBOEFicDM5RkdBYjJRZkg3S2xMQ0s5R19aR2tJYWJEVmgxQjFFNVl2SV9sSHBZWHpqSHNrVjZxblMwM3FZYXVNT0JfMHVMWFYtb09ld3c?oc=5": 1794790650.268664,
+  "http://english.ratopati.com/story/86786/elderly-man-dies-after-being-attacked-by-wild-elephant-in-saptari": 1794790650.268664
  },
  "queue": [
   {
@@ -1615,29 +1617,6 @@
    ],
    "cat": "sports",
    "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "इजाजत नभएका बन्दुक बरामद",
-   "summary": "म्याग्दी, कात्तिक २९ गते । म्याग्दीको मालिका गाउँपालिका-५ देवीस्थानबाट आज इजाजत नभएका चार थान भरुवा बन्दुक बरामद गरिएको छ । देवीस्थानको पन्थोकमा लुकाएर राखेको अवस्थामा भेटिएका बन्...",
-   "link": "https://gorkhapatraonline.com/news/229184",
-   "source": "Gorkhapatra",
-   "ts": 1794761662,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/391633/conversions/Banduk-Baramad--original.jpg",
-   "lang": "ne",
-   "hl": "इजाजत नभएका बन्दुक बरामद",
-   "en": "इजाजत नभएका बन्दुक बरामद",
-   "ne": "इजाजत नभएका बन्दुक बरामद",
-   "imp": 3,
-   "tags": [
-    "Gun",
-    "Police",
-    "बन्दुक"
-   ],
-   "cat": "crime",
-   "val": 2,
    "teaser": false,
    "hits": 2
   },
@@ -1846,7 +1825,7 @@
    "cat": "economy",
    "val": 1,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "अस्ट्रेलियामा भ्याइ-नभ्याइ छ बालचन्द्रलाई!",
@@ -2144,6 +2123,28 @@
    ],
    "cat": "culture",
    "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Elderly Man Killed by Wild Elephant in Saptari",
+   "summary": "Saptari. An elderly man has died in an attack by a wild elephant in Surunga Municipality-4 of Saptari. Local 65-year-old...",
+   "link": "http://english.ratopati.com/story/86786/elderly-man-dies-after-being-attacked-by-wild-elephant-in-saptari",
+   "source": "Ratopati EN",
+   "ts": 1794790240,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/wild-elephant_iO8UimIzQa.webp",
+   "lang": "en",
+   "hl": "Elderly Man Killed by Wild Elephant in Saptari",
+   "en": "Elderly Man Killed by Wild Elephant in Saptari",
+   "ne": "Elderly Man Killed by Wild Elephant in Saptari",
+   "imp": 2,
+   "tags": [
+    "Elephant",
+    "Saptari"
+   ],
+   "cat": "disaster",
+   "val": 3,
    "teaser": false,
    "hits": 1
   }
@@ -5153,7 +5154,7 @@
    "cat": "crime"
   }
  ],
- "updated": 1794790270,
+ "updated": 1794790655,
  "pending_since": 1794790252.625731,
  "fb_blocks": [
   1790350880.4125228,
