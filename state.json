@@ -1695,7 +1695,8 @@
   "http://english.ratopati.com/story/86896/american-basketball-player-arrested-at-nigerian-airport": 1794840660.2681608,
   "https://www.setopati.com/politics/402715": 1794840660.2681608,
   "https://kathmandupost.com/national/2026/11/16/why-is-tatopani-border-still-closed-stakeholders-say-it-s-time-kathmandu-asked-beijing": 1794840660.2681608,
-  "http://english.ratopati.com/story/86894/foreign-tourists-are-increasingly-flocking-to-the-streets-of-thamel": 1794840660.2681608
+  "http://english.ratopati.com/story/86894/foreign-tourists-are-increasingly-flocking-to-the-streets-of-thamel": 1794840660.2681608,
+  "https://nagariknews.nagariknetwork.com/economy/foreign-tourists-are-increasingly-flocking-to-the-streets-of-thamel-39-81.html": 1794841320.368788
  },
  "queue": [
   {
@@ -1815,29 +1816,6 @@
    "hits": 1
   },
   {
-   "title": "'राष्ट्रिय हाइकु वाचन' आरम्भ, डा. दुवसु क्षेत्रीलाई हाइकु सम्मान",
-   "summary": "नेपाल हाइकु सङ्घ केन्द्रीय समितिले राष्ट्रिय हाइकु वाचन शृङ्खला-१ सुरु गरेको छ।",
-   "link": "https://nagariknews.nagariknetwork.com/arts/first-series-of-national-haiku-reading-completed-br-35-64.html",
-   "source": "Nagarik News",
-   "ts": 1794812265,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2024/third-party/1794812415_haiku%20kbr%2098.jpg",
-   "lang": "ne",
-   "hl": "'राष्ट्रिय हाइकु वाचन' आरम्भ, डा. दुवसु क्षेत्रीलाई हाइकु सम्मान",
-   "en": "'राष्ट्रिय हाइकु वाचन' आरम्भ, डा. दुवसु क्षेत्रीलाई हाइकु सम्मान",
-   "ne": "'राष्ट्रिय हाइकु वाचन' आरम्भ, डा. दुवसु क्षेत्रीलाई हाइकु सम्मान",
-   "imp": 1,
-   "tags": [
-    "Haiku",
-    "VasuChhetri",
-    "साहित्य"
-   ],
-   "cat": "culture",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Water supply resumes in Beni Bazar after one and a half months",
    "summary": "Myagdi, November 16 Water supply from the Dandakharka source has resumed in Beni Bazar, the district headquarters of Myagdi, after one and a half months. The Beni Drinking Water and Sanitation Consumers' Institution has...",
    "link": "https://english.onlinekhabar.com/water-supply-resumes-in-beni-bazar-after-one-and-a-half-months.html",
@@ -1856,52 +1834,6 @@
     "म्याग्दी"
    ],
    "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "जनसम्पर्क समिति अमेरिकाको सभापतिमा सञ्जीव श्रेष्ठ निर्वाचित",
-   "summary": "नेपाली कांग्रेसको नियमित १५औँ महाधिवेशनअन्तर्गत जनसम्पर्क समिति अमेरिकाको तेस्रो अधिवेशन सम्पन्न भएको छ।...",
-   "link": "https://nagariknews.nagariknetwork.com/diaspora/sanjeev-shrestha-elected-as-the-chairman-of-the-public-relations-committee-usa-19-83.html",
-   "source": "Nagarik News",
-   "ts": 1794811991,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1794812208_pic.jpg",
-   "lang": "ne",
-   "hl": "जनसम्पर्क समिति अमेरिकाको सभापतिमा सञ्जीव श्रेष्ठ निर्वाचित",
-   "en": "जनसम्पर्क समिति अमेरिकाको सभापतिमा सञ्जीव श्रेष्ठ निर्वाचित",
-   "ne": "जनसम्पर्क समिति अमेरिकाको सभापतिमा सञ्जीव श्रेष्ठ निर्वाचित",
-   "imp": 2,
-   "tags": [
-    "NepaliJansamparkSamiti",
-    "USA",
-    "SanjeevShrestha"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Human-made noise pollution increases wildlife mortality by up to 138 %",
-   "summary": "Kathmandu, November 16 Noise from vehicles, urban commotion and industrial activities, which people consider part of everyday life, is having serious effects on wildlife, according to a study. The research has found...",
-   "link": "https://english.onlinekhabar.com/human-made-noise-pollution-increases-wildlife-mortality-by-up-to-138.html",
-   "source": "Onlinekhabar EN",
-   "ts": 1794812277,
-   "weight": 3,
-   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/11/chitwan-national-park-lockdown-2-1.jpg",
-   "lang": "en",
-   "hl": "Human-made noise pollution increases wildlife mortality by up to 138 %",
-   "en": "Human-made noise pollution increases wildlife mortality by up to 138 %",
-   "ne": "Human-made noise pollution increases wildlife mortality by up to 138 %",
-   "imp": 1,
-   "tags": [
-    "NoisePollution",
-    "Wildlife",
-    "Environment"
-   ],
-   "cat": "tech",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -5554,6 +5486,28 @@
    "val": 3,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "१० महिनामा भित्रिए १० लाख बढी पर्यटक, बाढीपछि लयमा फर्किँदै ठमेल",
+   "summary": "सन् २०२६ को १० महिनामा हवाई मार्ग हुँदै १० लाख आठ हजार ६१६ विदेशी पर्यटक नेपाल भित्रिएसँगै प्रमुख पर्यटकीय केन्द्र ठमेलका गल्लीमा चहलपहल बाक्लिएको छ।...",
+   "link": "https://nagariknews.nagariknetwork.com/economy/foreign-tourists-are-increasingly-flocking-to-the-streets-of-thamel-39-81.html",
+   "source": "Nagarik News",
+   "ts": 1794840778,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2025/third-party/1756796044_1%20Thamel-1200x560.jpg",
+   "lang": "ne",
+   "hl": "१० महिनामा भित्रिए १० लाख बढी पर्यटक, बाढीपछि लयमा फर्किँदै ठमेल",
+   "en": "१० महिनामा भित्रिए १० लाख बढी पर्यटक, बाढीपछि लयमा फर्किँदै ठमेल",
+   "ne": "१० महिनामा भित्रिए १० लाख बढी पर्यटक, बाढीपछि लयमा फर्किँदै ठमेल",
+   "imp": 3,
+   "tags": [
+    "Tourism",
+    "Thamel"
+   ],
+   "cat": "economy",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
@@ -8539,8 +8493,8 @@
    "cat": "politics"
   }
  ],
- "updated": 1794840689,
- "pending_since": null,
+ "updated": 1794841360,
+ "pending_since": 1794841320.368788,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
