@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdWxObEQ3N0I4YXZPRTVCd2daQmUtTjdSOU1vQzNwbmhOclJGRmdVTFd0bExKR2JzVUVwRzVsaVhaa2Y5WEhFSVlvUERhNkNrV05xNUpOajBEcmpzRUFrWURBLVJSbEhTaXowZlJlaWJFZktMNlZWQ3p3WTFqc2l4Z3B3WHlZQWx0TlpPMtIBkgFBVV95cUxQdjdoR2g3VWlfUkxzSWxONXZlRzU3WTRGREticmtGNlZocUdOR1o2SjRVMzU0dW1FYktqV1FSVFRzVU5UZDhYVzdfRmJqSGltU2tvQmEyeFNlTTNPdWtFbW1TX0ZNQ2YtQk1TOGtjdThfMXVOOEFid0xkTTVGa3NUaVl3ZGZ1dTFyTEc2MDIzNjdHZw?oc=5": 1794687651.0146933,
   "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdkZ5dktvWVRhN3FOWGp6bEkyRnBlcHdtbEpsYmkxRUVMcWg3T091bWdzT1VPdXdPQV9rd2FoY2J6dHlOX05PZGptaDZBdUFERW5pUHZ3QXJlbngtNV9XRXgwbjcyay1oalVvX05pNjJHbkFFRzVwdTRSQzVHdm1CVGJUNUFSU25TLW1qS1RMOUFHdmxxdGlrUXdnQWtFZmNkaGhYV2h1Y3dGeEg4OGRoSW9Jd2NiUmxxYWkyUTduS3FkbDNpRzBsUGJXNWZZRnN3X1RVRDhJTVo?oc=5": 1794688858.0971003,
   "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYTV6ZGx3NnlpOFV0MEExeC1OQmZCTG83M0pmZ0Q1UlZhNzBvY21QcV9UdlRUd0J1eVE5R3NTZ05iNzVWTVdOTFAxcXRiNDdZV2FkOTlsYVFRM01JY3hIS1lPWmJWa0Zsa1pHbUYtYU1ZS2dYdEVtOVdWUTc1TFJtVWIwWlMxeVg5Y3JhOHlLdzY4UUE4Vnd1WWdaWklZZXZYbTN3SUc1UlpnRk9tbXVMVmd6TlRKanAwLXpn?oc=5": 1794690081.3450427,
   "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQblJuS1I2MnVROW5lSjJFVFZfTy1ud0N4OVdtU0RXX3Q0RnNFQjNIXzltVTRGSHE0RzVTQi1BTGNacEtPX2dLZnZnSjdmNVVRUnZ2cDllVEhPaUxNWFUybXpHMTVtdHRyR0FjcXJSNWJvOG1id3dhUk9va0pEcTNoSENJRXRaWW1UNG8xNklESkhTemdJOW5jN2lfRzlzc2wtYmFPYXB4YUN1VnZXaE1fbDdFRUljUzcxSVo3NEVIQ2xmU2dXOFM5by15dUZEQUd6dDFSTTRFd9IB3AFBVV95cUxPODdjS1QwNzZGZXVmbjlVODlXd2NUeUxPWDFjemlpSUdqaTNXZkpEbV83Y3YyVmk5cmJvdXl5enlWa3lPc0Y5VHQ5ZEd1V1pSYTlkR0NTLUtTM3dHeV9qWjV1M3A4dW01eC0xQkpBWkFFRElEdjVTeVZXOUJWT2hqT3BGTlJ3aEg1OGUtbzdMVjl4WTVPanZhb3JNM3JOdGVxbXdEN3VHOF82ODQ0cTFJQWFTT0R5Vl80NDVUcFlSRzFWeG92ejhCakF5bW9vVUFIcG93UzBtQ3l0elha?oc=5": 1794690081.3450427,
@@ -1676,32 +1675,10 @@
   "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTGNXZGxsdjdxbjd5bXB3d0FDWWpiNTRWU0R3VTNMN3JWYk9FQmtSTFZHTnAxZHEwMGZVWVNzNlpla1lyZUtsaTktNEFRV1ZPbWd1UURvbTZ3SHgtaTdDR0VtSEtuT0hiRHJ0cW9MSUxZODh5X3NETDlzRWJzdE5LYzYzMkx5RjR2aG1ENFlfekUzYmgycksyeTNFRW1LSnZBWmQ2djhiSHdmQnZDRUpNX25ZVXdHQQ?oc=5": 1794856254.2214968,
   "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTnJIMW1ydlZkMHU0c3JjRnE3SGo3aC1BSkV4V05RLVU0bXpzODhpN0pOYm5Od24xcDFncENkM1Z4U0VvaS00RldwVmRuWlA3RzFodXhiVWRwWkpvZmdCdEw3WTEwWnlLQk9mZTUzZ01hWGxQS0cyVWRtdWowZEZjN3U3OEpVeURIbVQzcnZkWGJCc3pmczJNV2tUSjN3bnZLVVRZcUpXNmdHWHdhYjl1Qk1PVHFfRk80ZnY1cElINWVTWm16WXo0TVhoRnIyR1k?oc=5": 1794856854.119592,
   "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZHZTcEFlVC1KVzBsUGtadVpHS2poT3pqOGZ6RVVLUTVqMlhoVXdPV3JpMkU1RzVnejZjQUZESUdvWnVabmJicXB2eXp4UDRCUHplOHpqREI0SUdycXBKZTdnRUh5dzY5Vk84SzVVZFVPUFZPcEtYNkt2VE9zOVRPUVczcXhUUlBoNW9zNWtPOEg0bk1kUzZoV2o3eXFtQUJWVG04bzZzZkFIbDNBc2JhN2VaMm9NQkk?oc=5": 1794856854.119592,
-  "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaUt2NkkzZUlBSEo2MGdVN3l5N2JIejBucjdGazFBU21ienN4a0ZCOGtIZXJvRFRmYk9vdzFrMjFDYzFHa00zdjNuNmZjcW5DUl9veWhvbVk3M3AycEw3MFl1Z3ctRVI2M1RmQUxiVW9pWHRIV3J5bUNKUU41enRiNjAtdnBTMmt0SjNvaUJ5ZlhYTnJGaXFCNVhIN2ZTMmd1M1E?oc=5": 1794858061.0041308
+  "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaUt2NkkzZUlBSEo2MGdVN3l5N2JIejBucjdGazFBU21ienN4a0ZCOGtIZXJvRFRmYk9vdzFrMjFDYzFHa00zdjNuNmZjcW5DUl9veWhvbVk3M3AycEw3MFl1Z3ctRVI2M1RmQUxiVW9pWHRIV3J5bUNKUU41enRiNjAtdnBTMmt0SjNvaUJ5ZlhYTnJGaXFCNVhIN2ZTMmd1M1E?oc=5": 1794858061.0041308,
+  "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUjF4aHJKU1FBYmNvUVkwcWkzYWczd1Q2Um1FU1N5anAwblo5WDRpNkZ1SjRoWWx6THRESzZXUzMwaVhha0h2bUF3aHB2QTg1TUFTZnczRTJ3T2hoRGVDblFUemo5MVh0QVQ3SXUyWU1xSWlFZDVQLUY0S1V2Z0EyNHRhS3RVY3hyMEJBeHMwaHNmR1VwMlhJWjZ3aXNxWVROMS1qbV9xYjE0VVB4bkkxenZfSU51aDV0RjRUUWlzYWItdFZGTEUxQV9kTldudE0?oc=5": 1794860454.7363183
  },
  "queue": [
-  {
-   "title": "Singer Thaneshwor Gautam Faces Cyberbullying Over Song",
-   "summary": "Kathmandu. Singer and composer Thaneshwor Gautam is currently a victim of cyberbullying. He is being attacked on social media by...",
-   "link": "http://english.ratopati.com/story/86861/cyberbullying-against-artists-creator-and-presenter-say-this-is-a-crime",
-   "source": "Ratopati EN",
-   "ts": 1794831300,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/thaneshwor-gautam_vjHrTup2Q9.webp",
-   "lang": "en",
-   "hl": "Singer Thaneshwor Gautam Faces Cyberbullying Over Song",
-   "en": "Singer Thaneshwor Gautam Faces Cyberbullying Over Song",
-   "ne": "Singer Thaneshwor Gautam Faces Cyberbullying Over Song",
-   "imp": 2,
-   "tags": [
-    "ThaneshworGautam",
-    "Cyberbullying",
-    "Singer"
-   ],
-   "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
   {
    "title": "कांग्रेस कोशी सभापतिमा रमेशजंग रायमाझीको दाबी",
    "summary": "",
@@ -3459,7 +3436,7 @@
    "cat": "economy",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Over 64,000 devotees visit Pathibhara temple in one month",
@@ -6491,7 +6468,7 @@
    "cat": "economy"
   }
  ],
- "updated": 1794859859,
+ "updated": 1794860459,
  "pending_since": 1794859293.1225042,
  "fb_blocks": [
   1790350880.4125228,
