@@ -1680,29 +1680,6 @@
  },
  "queue": [
   {
-   "title": "Land Donors Protest Against Provincial Government for Unfulfilled Hospital Promise",
-   "summary": "Biratnagar. Land donors and leaders of the struggle committee, carrying the pain of being cheated for seven years and the...",
-   "link": "http://english.ratopati.com/story/86891/almost-40-lakhs-have-been-spent-on-dpr-and-soil-leveling-there-is-no-interest-in-building-the-proposed-hospital-worth-89-crores",
-   "source": "Ratopati EN",
-   "ts": 1794835047,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/ansan_C6znvid7AT.webp",
-   "lang": "en",
-   "hl": "Land Donors Protest Against Provincial Government for Unfulfilled Hospital Promise",
-   "en": "Land Donors Protest Against Provincial Government for Unfulfilled Hospital Promise",
-   "ne": "Land Donors Protest Against Provincial Government for Unfulfilled Hospital Promise",
-   "imp": 3,
-   "tags": [
-    "Hospital",
-    "Protest",
-    "Health"
-   ],
-   "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "रौतहटमा स्कुटर पुलमा ठोक्किँदा दुईजनाको मृत्यु, दुई घाइते",
    "summary": "",
    "link": "https://baahrakhari.com/detail/507473",
@@ -1876,28 +1853,6 @@
    "cat": "health",
    "val": 2,
    "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "२५ घण्टा भारतमा बस्दा के के गर्छन् प्रधानमन्त्री बालेनले ?",
-   "summary": "प्रधानमन्त्री बालेन्द्र शाहको भारत भ्रमणका क्रममा दिल्ली बसाई करिब २५ घण्टा मात्रै रहने भएको छ।...",
-   "link": "https://nagariknews.nagariknetwork.com/politics/what-does-prime-minister-balen-do-while-staying-in-india-for-25-hours-27-19.html",
-   "source": "Nagarik News",
-   "ts": 1794834991,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1793892672_balen.png",
-   "lang": "ne",
-   "hl": "२५ घण्टा भारतमा बस्दा के के गर्छन् प्रधानमन्त्री बालेनले ?",
-   "en": "२५ घण्टा भारतमा बस्दा के के गर्छन् प्रधानमन्त्री बालेनले ?",
-   "ne": "२५ घण्टा भारतमा बस्दा के के गर्छन् प्रधानमन्त्री बालेनले ?",
-   "imp": 2,
-   "tags": [
-    "BalendraShah",
-    "IndiaTrip"
-   ],
-   "cat": "politics",
-   "val": 1,
-   "teaser": true,
    "hits": 1
   },
   {
@@ -6060,8 +6015,8 @@
    "cat": "economy"
   }
  ],
- "updated": 1794863469,
- "pending_since": null,
+ "updated": 1794864061,
+ "pending_since": 1794864056.7703383,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
