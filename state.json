@@ -1,7 +1,5 @@
 {
  "seen": {
-  "http://english.ratopati.com/story/86546/social-security-mandatory-for-workers-involved-in-government-procurement-and-contracts-employers-urged-to-register-with-the-fund": 1794628250.047344,
-  "http://english.ratopati.com/story/86547/ilam-elderly-woman-murder-case-accused-arrested-while-coming-through-forest-path-to-celebrate-tihar": 1794628250.047344,
   "http://english.ratopati.com/story/86549/nepal-telecoms-net-profit-increases-by-3735-percent": 1794629447.4758046,
   "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSmRwSkhUME95bW5PZnIzTlRiRllvOHFDbVd1UFVXN2JnWFZuSnpDbXAxUm42d1hNNTJuaWdybmNfQk1NcElMNkg3dTRObzdzdmhwVzRjVGdVZFdIT1lpZzFkeDhlUXZubHdjVDk3TTR1UVJfYW5uYjF0UjJtQ3BreWNBMEVIV3d1UE4zaXV3bTFaWVBtQ1RhQ25ZWTJVTTFuVklIMUlYX3R4Rk0?oc=5": 1794629447.4758046,
   "https://www.setopati.com/social/402541": 1794629447.4758046,
@@ -1643,7 +1641,8 @@
   "https://baahrakhari.com/detail/507416": 1794801048.71722,
   "https://gorkhapatraonline.com/news/229213": 1794801048.71722,
   "https://baahrakhari.com/detail/507415": 1794801048.71722,
-  "https://gorkhapatraonline.com/news/229212": 1794801048.71722
+  "https://gorkhapatraonline.com/news/229212": 1794801048.71722,
+  "https://kathmandupost.com/visual-stories/2026/11/16/chhath-festival-concludes-with-offerings-to-rising-sun": 1794801682.0774326
  },
  "queue": [
   {
@@ -2218,7 +2217,7 @@
    "cat": "culture",
    "val": 3,
    "teaser": false,
-   "hits": 8
+   "hits": 9
   },
   {
    "title": "इङ्ल्यान्डसँग हार्‍यो स्पेन, टुट्यो ४३ खेलको अपराजित यात्रा",
@@ -7357,8 +7356,8 @@
    "cat": "politics"
   }
  ],
- "updated": 1794801070,
- "pending_since": null,
+ "updated": 1794801685,
+ "pending_since": 1794801682.0774326,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
