@@ -1,7 +1,5 @@
 {
  "seen": {
-  "http://english.ratopati.com/story/86532/how-is-the-head-to-head-competition-between-lumbini-which-has-reached-the-playoffs-and-biratnagar-which-is-under-pressure": 1794619252.3103218,
-  "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jQTk1WDRDSmpyQlNYMFFMcHd1SVBsWlFHcWFHek5FVjgwUF9mNWNVXzBzWTVQUGpWbWp4Zm93bll2bUlfeDVBZDhuZmwyMHRhaVZEQ19RclkxZWxidXlFV18wWmtqYllqd3Q3Tk44Y1NHcGFySDdF?oc=5": 1794619252.3103218,
   "https://english.khabarhub.com/2026/14/575514/": 1794620448.6075513,
   "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9HNEJnNGROcWl2NGxCSm8wXzhtc3hab1NaOS03bk93T0JuRndvTGJSeDF1bmtkSlJBV2RxV0gydFFNazU1QVpETVMwOGdFZGxUN3BpNVotano?oc=5": 1794620448.6075513,
   "https://english.khabarhub.com/2026/14/575518/": 1794620448.6075513,
@@ -1596,7 +1594,9 @@
   "https://kathmandupost.com/columns/2026/11/15/why-drying-madhesh-is-a-disaster-in-the-making": 1794790879.2780454,
   "https://nagariknews.nagariknetwork.com/social-affairs/police-in-the-fields-to-protect-farmers-crops-86-29.html": 1794790879.2780454,
   "https://nagariknews.nagariknetwork.com/editorial/the-need-now-is-for-a-production-oriented-economy-61-73.html": 1794790879.2780454,
-  "https://kathmandupost.com/interviews/2026/11/16/why-did-nepal-s-mountain-agenda-stall-at-cop31-a-delegation-insider-explains": 1794791448.75295
+  "https://kathmandupost.com/interviews/2026/11/16/why-did-nepal-s-mountain-agenda-stall-at-cop31-a-delegation-insider-explains": 1794791448.75295,
+  "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVU9taFVpQWVpeS0zZzNwbmZfdUVORTZrbWVyNmJMNHYxZ3Q0NlVtcEdnWDk4dW9UQjB1WnNfOWVEc1VPR1hnUGZ5cTd2RVlfblRpazJ3bUxYRUlOcExaZDhBNlFPQzJFLUdvU2ZzMWJaSVZXS2lUbVlzYXIzZE8yLXdHeWw5RzlHcHg1TXJtWV95UGxOaGpKaFlROFM0a1hXdWswYnlfc0hBRW9jekNUMlhMS2ctdmJFckpla29n?oc=5": 1794792057.04696,
+  "https://kathmandupost.com/national/2026/11/16/nepal-india-to-launch-ayodhya-janakpur-train-service-during-pm-shah-s-visit": 1794792057.04696
  },
  "queue": [
   {
@@ -2259,28 +2259,6 @@
    "cat": "culture",
    "val": 1,
    "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "Thousands of US flights still cancelled or delayed two days after grounding of planes nationwide",
-   "summary": "Thousands of US flights were cancelled or delayed on Sunday as the US air-traffic control system continued to recover from a technical failure that led to a rare national ground stop, BBC reported. Secretary of...",
-   "link": "https://theannapurnaexpress.com/story/68772",
-   "source": "Annapurna Express",
-   "ts": 1794776480.6007633,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Thousands of US flights still cancelled or delayed two days after grounding of planes nationwide",
-   "en": "Thousands of US flights still cancelled or delayed two days after grounding of planes nationwide",
-   "ne": "Thousands of US flights still cancelled or delayed two days after grounding of planes nationwide",
-   "imp": 4,
-   "tags": [
-    "USFlights",
-    "Grounding"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
    "hits": 1
   },
   {
@@ -5611,9 +5589,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "crime"
+  },
+  {
+   "ts": 1794792061.9091117,
+   "en": "Thousands of US flights still cancelled or delayed two days after system failure",
+   "ne": "Thousands of US flights still cancelled or delayed two days after system failure",
+   "link": "https://theannapurnaexpress.com/story/68772",
+   "source": "Annapurna Express",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "world"
   }
  ],
- "updated": 1794791452,
+ "updated": 1794792076,
  "pending_since": 1794791448.75295,
  "fb_blocks": [
   1790350880.4125228,
