@@ -1,8 +1,5 @@
 {
  "seen": {
-  "https://www.setopati.com/social/402531": 1794617447.4878745,
-  "http://english.ratopati.com/story/86531/partial-influence-of-westerly-winds-persists-possibility-of-rain-and-snowfall-in-these-five-provinces": 1794617447.4878745,
-  "https://risingnepaldaily.com/news/88589": 1794617447.4878745,
   "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYXNMVmk0d0diNnlPb295TTBmTUM0VWtwS3FMLVNtdHhSdWN4N0VHNWFoZ3EySTBON1FQaXE1OHZ0SUNYZmZkdFVET0E5N09SRWMwSjZYVGxyUEM5LWVtWFg3LWhYVUMyS1RYMEdFUi1QNHRoMHYyZlZEWXpjaTlOR2NaTVZjOGQ3Rms2UXpYR0s2ZmVoU21aZElHakMxRjlXTEJxMjU3ZTJqUQ?oc=5": 1794618077.1002655,
   "https://gorkhapatraonline.com/news/228994": 1794618077.1002655,
   "https://www.ujyaaloonline.com/detail/133463": 1794618077.1002655,
@@ -1591,7 +1588,10 @@
   "https://risingnepaldaily.com/news/88664": 1794789658.2621937,
   "http://english.ratopati.com/story/86782/two-youths-arrested-for-vandalizing-chhath-puja-site-in-harinagar-sunsari": 1794789658.2621937,
   "https://risingnepaldaily.com/news/88663": 1794789658.2621937,
-  "https://risingnepaldaily.com/news/88661": 1794789658.2621937
+  "https://risingnepaldaily.com/news/88661": 1794789658.2621937,
+  "http://english.ratopati.com/story/86785/those-who-help-foreigners-climb-mountains-and-explain-nepal-to-them": 1794790252.625731,
+  "https://nagariknews.nagariknetwork.com/sports/women-s-gold-cup-sajina-s-hat-trick-takes-swarnim-to-semifinals-71-58.html": 1794790252.625731,
+  "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9mOEZFVnZIQTN0NlRLYWpHZ2QzeXIxUldGQU9NeXhaLWp3U251dGlKejVFUlI0ZlF1ZG9FU2JIaFZkTms0OTdpOXlMbU9QOFlySDU5Rld0dDY?oc=5": 1794790252.625731
  },
  "queue": [
   {
@@ -1617,51 +1617,6 @@
    "val": 3,
    "teaser": false,
    "hits": 2
-  },
-  {
-   "title": "Man Found Dead in Rukum Paschim Guest House",
-   "summary": "Rukum Paschim. A person has been found dead in a room of a guest house in Jhulnetta, Triveni Rural Municipality-3,...",
-   "link": "http://english.ratopati.com/story/86776/a-person-was-found-dead-in-a-guesthouse",
-   "source": "Ratopati EN",
-   "ts": 1794762896,
-   "weight": 2,
-   "img": "https://rpcdn.ratopati.com/media/albums/rukum_paschim_JuBuj9K0vw.jpg",
-   "lang": "en",
-   "hl": "Man Found Dead in Rukum Paschim Guest House",
-   "en": "Man Found Dead in Rukum Paschim Guest House",
-   "ne": "Man Found Dead in Rukum Paschim Guest House",
-   "imp": 3,
-   "tags": [
-    "RukumPaschim",
-    "Crime",
-    "मृत्यु"
-   ],
-   "cat": "crime",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "Israel's Transport Minister Claims Netanyahu Offered Unity; Gadi Eisenkot Faces Choice",
-   "summary": "Kathmandu. Israel's Transport and Road Safety Minister Miri Regev has said that Prime Minister Benjamin Netanyahu has extended a hand...",
-   "link": "http://english.ratopati.com/story/86773/israeli-minister-claims-netanyahu-offered-unity-to-eisenhower",
-   "source": "Ratopati EN",
-   "ts": 1794761377,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/benjamin-netanyahu_F4CCfeoG1N.webp",
-   "lang": "en",
-   "hl": "Israel's Transport Minister Claims Netanyahu Offered Unity; Gadi Eisenkot Faces Choice",
-   "en": "Israel's Transport Minister Claims Netanyahu Offered Unity; Gadi Eisenkot Faces Choice",
-   "ne": "Israel's Transport Minister Claims Netanyahu Offered Unity; Gadi Eisenkot Faces Choice",
-   "imp": 1,
-   "tags": [
-    "Israel",
-    "Netanyahu"
-   ],
-   "cat": "world",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
   },
   {
    "title": "इजाजत नभएका बन्दुक बरामद",
@@ -1937,7 +1892,7 @@
    "cat": "sports",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Smartphones import bill surges to nearly Rs. 19 bn",
@@ -2006,7 +1961,7 @@
    "cat": "disaster",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "वाग्मतीसहित यी प्रदेशमा छ वर्षाको सम्भावना",
@@ -5185,10 +5140,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "disaster"
+  },
+  {
+   "ts": 1794790258.8810139,
+   "en": "39-Year-Old Man Found Dead in Rukum Paschim Guest House Room",
+   "ne": "39-Year-Old Man Found Dead in Rukum Paschim Guest House Room",
+   "link": "http://english.ratopati.com/story/86776/a-person-was-found-dead-in-a-guesthouse",
+   "source": "Ratopati EN",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "crime"
   }
  ],
- "updated": 1794789669,
- "pending_since": null,
+ "updated": 1794790270,
+ "pending_since": 1794790252.625731,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
