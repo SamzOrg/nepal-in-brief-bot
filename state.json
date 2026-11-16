@@ -1622,7 +1622,10 @@
   "http://english.ratopati.com/story/86790/two-top-bollywood-actors-get-y-plus-security-after-tiger-shroffs-shooting-others-under-tight-surveillance": 1794792671.8773508,
   "https://nagariknews.nagariknetwork.com/social-affairs/kapase-bhanjyang-is-becoming-a-tourist-destination-with-the-construction-of-infrastructure-19-66.html": 1794792671.8773508,
   "https://risingnepaldaily.com/news/88668": 1794792671.8773508,
-  "https://nagariknews.nagariknetwork.com/politics/prime-minister-s-india-visit-focuses-on-border-dispute-trade-deficit-export-promotion-br-13-72.html": 1794792671.8773508
+  "https://nagariknews.nagariknetwork.com/politics/prime-minister-s-india-visit-focuses-on-border-dispute-trade-deficit-export-promotion-br-13-72.html": 1794792671.8773508,
+  "https://nagariknews.nagariknetwork.com/Dharma-Saskriti/chhath-festival-concludes-with-offering-prayers-to-the-rising-sun-br-90-93.html": 1794793248.1054137,
+  "https://kathmandupost.com/art-culture/2026/11/16/nepal-s-stolen-uma-maheshvara-statues-belong-back-in-their-shrines": 1794793248.1054137,
+  "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBJRGF3RzlHY2NuRGJPczZGUzQyYlRDUmxZenlFbi1fRjk5cVdYbWpZR2JtV0dXdVNpb1ItSjhDa3ozamRhTmNTU1hoZGtpdTE1?oc=5": 1794793248.1054137
  },
  "queue": [
   {
@@ -3083,6 +3086,29 @@
     "Trade"
    ],
    "cat": "politics",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Record-breaking Pokhara sign off with victory over Kathmandu",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBJRGF3RzlHY2NuRGJPczZGUzQyYlRDUmxZenlFbi1fRjk5cVdYbWpZR2JtV0dXdVNpb1ItSjhDa3ozamRhTmNTU1hoZGtpdTE1?oc=5",
+   "source": "The Rising Nepal",
+   "ts": 1794792624,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "Record-breaking Pokhara sign off with victory over Kathmandu",
+   "en": "Record-breaking Pokhara sign off with victory over Kathmandu",
+   "ne": "Record-breaking Pokhara sign off with victory over Kathmandu",
+   "imp": 3,
+   "tags": [
+    "Pokhara",
+    "Kathmandu",
+    "NepalCricket"
+   ],
+   "cat": "sports",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -6082,7 +6108,7 @@
    "cat": "world"
   }
  ],
- "updated": 1794792678,
+ "updated": 1794793253,
  "pending_since": 1794792671.8773508,
  "fb_blocks": [
   1790350880.4125228,
