@@ -1,8 +1,5 @@
 {
  "seen": {
-  "http://english.ratopati.com/story/86579/rabi-lamichhane-to-stay-in-janakpur-for-three-days-on-the-occasion-of-chhath-programs-ranging-from-religious-rituals-to-meetings": 1794637870.361752,
-  "https://english.khabarhub.com/2026/14/575548/": 1794637870.361752,
-  "https://gorkhapatraonline.com/news/229032": 1794637870.361752,
   "http://english.ratopati.com/story/86580/emphasizing-the-emotional-unity-of-nrna-five-former-presidents-meet-the-speaker": 1794638450.1921678,
   "https://baahrakhari.com/detail/507284": 1794638450.1921678,
   "https://nagariknews.nagariknetwork.com/politics/those-who-shout-balena-dhal-in-the-morning-will-reach-jwagal-in-the-evening-gokul-baskota-11-45.html": 1794638450.1921678,
@@ -1641,7 +1638,12 @@
   "https://gorkhapatraonline.com/news/229236": 1794810051.7360566,
   "https://theannapurnaexpress.com/story/68782": 1794810051.7360566,
   "https://baahrakhari.com/detail/507425": 1794810051.7360566,
-  "https://baahrakhari.com/detail/507424": 1794810051.7360566
+  "https://baahrakhari.com/detail/507424": 1794810051.7360566,
+  "https://nagariknews.nagariknetwork.com/social-affairs/60-year-old-yadav-found-dead-while-waiting-at-chhatghat-br-15-81.html": 1794810732.2821245,
+  "https://nagariknews.nagariknetwork.com/social-affairs/the-organization-s-leadership-role-in-disasters-has-become-an-important-foundation-for-the-state-s-disaster-response-capacity-army-br-51-12.html": 1794810732.2821245,
+  "https://nagariknews.nagariknetwork.com/social-affairs/mugu-accident-injured-rescued-by-helicopter-br-80-77.html": 1794810732.2821245,
+  "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZTFQSWp4S1htbGU2bGNlNUlObzRRRG5reWNYUzEtRC1RZmlMN3dNcjV6ZHdvOWt0VXJFQmRkLTAyUS1EN1VvQ241VFp0aDFfSXVfZlVOUHBnc0ZYYUc4M0dOWDJQTlVfcUs5aHJ1S21sU21YS09vV3RHUG5JX18tMjBOY2tDMVNrY1dqWU9Ea3hrTndKSzRwTjVxaEFKSW0yZmRHUW5ZejBkUQ?oc=5": 1794810732.2821245,
+  "https://theannapurnaexpress.com/story/68785": 1794810732.2821245
  },
  "queue": [
   {
@@ -2010,7 +2012,7 @@
    "cat": "crime",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "ABC packed with tourists during holidays",
@@ -4743,7 +4745,7 @@
    "cat": "world",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "India Under-19s A Women vs Nepal Under-19s Women at Bengaluru , 20 Nov 2026",
@@ -5702,7 +5704,7 @@
    "cat": "disaster",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "सभामुख अर्यालद्वारा सहिदहरूप्रति श्रद्धाञ्जली अर्पण",
@@ -8757,8 +8759,8 @@
    "cat": "politics"
   }
  ],
- "updated": 1794810075,
- "pending_since": null,
+ "updated": 1794810753,
+ "pending_since": 1794810732.2821245,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
