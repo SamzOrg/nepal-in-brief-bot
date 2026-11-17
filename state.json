@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://kathmandupost.com/money/2026/11/15/nepal-sets-up-accreditation-centre-to-ease-testing-and-certification": 1794750048.5688074,
   "https://baahrakhari.com/detail/507388": 1794750648.0904522,
   "https://baahrakhari.com/detail/507391": 1794750648.0904522,
   "https://kathmandupost.com/karnali-province/2026/11/15/three-dead-two-injured-in-mugu-jeep-crash": 1794750648.0904522,
@@ -1791,7 +1790,10 @@
   "https://nagariknews.nagariknetwork.com/arts/garima-sharma-s-warning-next-post-will-come-with-pictures-68-45.html": 1794921653.8841722,
   "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZXBiOWNSX0dENDBnclljSlBoUTV3SnNvOXBYcXVXNFNzVk9QclhlNi1UVXRtLVNWRXU1SUZ3VnEyWlowVmhYbzZrTHRoSDRxZlJVWDNBbC13VlEwa3pSN3QyQTZxUzFCVW84eWFCVWw5RnlUY3lCdl9CRHVnVFBDUHpvZm84dmgyb2pfdDB4QS1KSS1WTkN4LUJES2dEaFFXeWNFN0o5Q2VUXzNMel9NZndmVEUyeS1BYl95bHZBSjlxZw?oc=5": 1794922278.9852352,
   "https://news.google.com/rss/articles/CBMimAFBVV95cUxONHFYenZIWW9CUk51bk9DMklpT2laM29vZmh2dW1OTmZ0aC03dGxJNThIelA0ZWVxTm0zZ2N0OHdRN2VXajQzaENZcnZvdnBtcFprNjg0YjFELW5MUEpRNjV1RTd1Uzl1UTlzWlhNQVFOOFlCUXAxVFdXekpmZEJ3UU04RWJpRmVQMU8zbURHNkpEU200U1FYRA?oc=5": 1794922278.9852352,
-  "https://theannapurnaexpress.com/story/68825": 1794922278.9852352
+  "https://theannapurnaexpress.com/story/68825": 1794922278.9852352,
+  "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSDc1MU9pOXBKQm9INXF4Sjc3MkxEclRCOWNYN0pJRE53WGw2OTZoRjBjd0tuN0pWWURJVHUwYkgzU2NBVzh2Wk1jeE1ZdkpMeXpzb0Q5YzZ4Vk9COF9TX00tU0pTRHdNT3R6R04xT0FxRDR0UWpuR2xvNGxmcURNODJBY1VxeUhZc0NJUFZwcVZiY0l2M1p5X1FQV1dDLTBzYmw4ZkZad2RCdU01Q3R3Ql91VmZwUlU?oc=5": 1794922853.675451,
+  "https://theannapurnaexpress.com/story/68826": 1794922853.675451,
+  "https://kathmandupost.com/money/2026/11/17/explained-nepal-and-india-have-revived-stalled-air-route-talks-here-s-what-you-need-to-know": 1794922853.675451
  },
  "queue": [
   {
@@ -1840,28 +1842,6 @@
    "hits": 2
   },
   {
-   "title": "कक्षाकोठाका भित्तामा सिर्जना भरेर विदाको सुदपयोग",
-   "summary": "घोराही समाचारदाता घोराही,मङ्सिर १ गते । दाङका एक शिक्षकले दसैँ-तिहारको बिदा विद्यालयका कक्षाकोठा सजाएर बिताउनुभएको छ । तुलसीपुर उपमहानगरपालिका-१, छोटेमा रहेको सृजनशील आधारभूत विद्य...",
-   "link": "https://gorkhapatraonline.com/news/229338",
-   "source": "Gorkhapatra",
-   "ts": 1794893961,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/391831/conversions/santosh-1-original.jpg",
-   "lang": "ne",
-   "hl": "कक्षाकोठाका भित्तामा सिर्जना भरेर विदाको सुदपयोग",
-   "en": "कक्षाकोठाका भित्तामा सिर्जना भरेर विदाको सुदपयोग",
-   "ne": "कक्षाकोठाका भित्तामा सिर्जना भरेर विदाको सुदपयोग",
-   "imp": 1,
-   "tags": [
-    "StudentArt",
-    "Education"
-   ],
-   "cat": "culture",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Nepal Cricket Team Departs for ACC Men's Asia Cup Rising Stars Tournament in Qatar",
    "summary": "Kathmandu. The Nepali national cricket team has departed for Qatar today to participate in the ACC Men's Asia Cup Rising...",
    "link": "http://english.ratopati.com/story/86965/nepali-team-leaves-for-qatar-to-play-in-asia-cup-rising-stars",
@@ -1883,72 +1863,6 @@
    "val": 3,
    "teaser": false,
    "hits": 5
-  },
-  {
-   "title": "करको भार न्यायोचित गराउनुपर्छ : मुख्यमन्त्री थापा",
-   "summary": "सरिता दाहालहेटौंडा, मंसिर १ गते । बागमती प्रदेशका मुख्यमन्त्री किरण थापा मगरले करको भार सबैमाथि समान रूपमा पर्नु न्यायोचित नहुने बताउनुभएको छ। जसको आर्थिक क्षमता बढी छ, उसले आफ्नो...",
-   "link": "https://gorkhapatraonline.com/news/229337",
-   "source": "Gorkhapatra",
-   "ts": 1794893484,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/391829/conversions/CM-thapa-original.jpg",
-   "lang": "ne",
-   "hl": "करको भार न्यायोचित गराउनुपर्छ : मुख्यमन्त्री थापा",
-   "en": "करको भार न्यायोचित गराउनुपर्छ : मुख्यमन्त्री थापा",
-   "ne": "करको भार न्यायोचित गराउनुपर्छ : मुख्यमन्त्री थापा",
-   "imp": 3,
-   "tags": [
-    "TaxPolicy",
-    "ChiefMinister"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Climate Justice Banner Displayed at Tribhuvan University",
-   "summary": "Kathmandu. A large banner with 'Climate Justice for Nepal' written on it has been placed in front of the clock...",
-   "link": "http://english.ratopati.com/story/86964/tu-students-demand-climate-justice-saying-nepals-voice-is-weak-at-cop-conference",
-   "source": "Ratopati EN",
-   "ts": 1794893877,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/tu_yd0YfHW9gx.webp",
-   "lang": "en",
-   "hl": "Climate Justice Banner Displayed at Tribhuvan University",
-   "en": "Climate Justice Banner Displayed at Tribhuvan University",
-   "ne": "Climate Justice Banner Displayed at Tribhuvan University",
-   "imp": 2,
-   "tags": [
-    "ClimateJustice",
-    "TribhuvanUniversity"
-   ],
-   "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Citizens Mutual Fund-2 Successfully Completes Seven-Year Term and Liquidation Process",
-   "summary": "Kathmandu. Citizens Mutual Fund-2, a closed-end collective investment fund scheme with Citizens Bank International Limited as the fund promoter and...",
-   "link": "http://english.ratopati.com/story/86962/citizens-mutual-fund-2-provides-average-annual-return-of-1040-percent-withdrawals-begin",
-   "source": "Ratopati EN",
-   "ts": 1794893531,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/citizens-capital_VFBGkVdnnf.webp",
-   "lang": "en",
-   "hl": "Citizens Mutual Fund-2 Successfully Completes Seven-Year Term and Liquidation Process",
-   "en": "Citizens Mutual Fund-2 Successfully Completes Seven-Year Term and Liquidation Process",
-   "ne": "Citizens Mutual Fund-2 Successfully Completes Seven-Year Term and Liquidation Process",
-   "imp": 2,
-   "tags": [
-    "CitizensMutualFund",
-    "Finance"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
   },
   {
    "title": "Supreme Court to hear Dan Bahadur Karki's writ petition on Wednesday",
@@ -2178,7 +2092,7 @@
    "cat": "society",
    "val": 3,
    "teaser": false,
-   "hits": 3
+   "hits": 4
   },
   {
    "title": "नइ एकेडेमी अस्ट्रेलियाबाट १४ जनालाई पुरस्कार",
@@ -3519,7 +3433,7 @@
    "cat": "society",
    "val": 3,
    "teaser": false,
-   "hits": 3
+   "hits": 4
   },
   {
    "title": "Macroeconomic Update: Nepal 2026",
@@ -10659,7 +10573,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1794922311,
+ "updated": 1794922857,
  "pending_since": 1794922278.9852352,
  "fb_blocks": [
   1790350880.4125228,
