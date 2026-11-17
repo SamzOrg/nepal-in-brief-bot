@@ -1698,7 +1698,10 @@
   "https://nagariknews.nagariknetwork.com/social-affairs/the-success-of-collective-flower-farming-br-28-50.html": 1794884482.344424,
   "https://news.google.com/rss/articles/CBMihwFBVV95cUxOazZObElBekZKQTRIbzlyQnBjWURscF94aHlQVDItMW1EV1IwWnVGYWdFZmo4T0NkZWU4SE1mZ0JiRzh5UTFzYk5mSDhSclRLbzk2ZFJZQ2NoUERxWFZualJiaUdjUlQ1VHpzUGp6MjJXWGdIUFlCdi1SYTlua1p2REV5WFRQRDQ?oc=5": 1794884482.344424,
   "https://nagariknews.nagariknetwork.com/social-affairs/todke-farmers-are-becoming-proficient-in-tomato-farming-21-88.html": 1794884482.344424,
-  "https://nagariknews.nagariknetwork.com/economy/6-banks-reduce-interest-rates-12-15.html": 1794884482.344424
+  "https://nagariknews.nagariknetwork.com/economy/6-banks-reduce-interest-rates-12-15.html": 1794884482.344424,
+  "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMDJGTHR6NWdJdloxd1FTbDdMSHVxOEhhWmdDb1hxczFfYWN2cDNGYVVpMGQyMzV2NFNBbmlEU3hXM3EzY0dfSm9qdjBfZlFrZ19fbEJtZXpzbnh3UXpHelE4Vlcyc1pZbTVQcnBxNEd2eUlUUUJEb0VxOWE3VXBKRkNrRnF6NDdrSVR6MUxIWjZKdVNiVTdseEgyWnlvTmdJb3JaZ0ZBWDFiUDFWc2tDUVE2VnNzWmRWQUVWUFZQVTJaNjRZWV9RSElHcndEUG1CSWc?oc=5": 1794885053.7386153,
+  "https://news.google.com/rss/articles/CBMilwFBVV95cUxPX2NuZU5UN21Gd0FfUkF4ZzBFOUVlbk1KTkRvdnJEWTNzc2xQVFE0Tk5vTi1pVnMwUFRSTUFRUlJ0dWJlUWlNZmI5TXllR2NabEpVcUw2RDE5ODY2Sm5heVpJbkd4Tlc4VlNITTNlX0xaQkppYzEwRHBXTGNhRU9IWVMyNTdGVjN0dEJmZDU0UHRkYlNyZENZ?oc=5": 1794885053.7386153,
+  "https://kathmandupost.com/climate-environment/2026/11/17/nepal-s-push-for-mountain-climate-action-features-in-cop31-draft-decision": 1794885053.7386153
  },
  "queue": [
   {
@@ -3391,7 +3394,7 @@
    "cat": "culture",
    "val": 1,
    "teaser": true,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "आजदेखि काठमाण्डौ उपत्यकामा 'पशु वधशाला तथा मासु जाँच ऐन-२०५५' कार्यान्वयनमा",
@@ -3619,7 +3622,7 @@
    "cat": "society",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "दत्तात्रय मन्दिर",
@@ -6973,8 +6976,8 @@
    "cat": "economy"
   }
  ],
- "updated": 1794884505,
- "pending_since": null,
+ "updated": 1794885057,
+ "pending_since": 1794885053.7386153,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
