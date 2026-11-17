@@ -1,8 +1,5 @@
 {
  "seen": {
-  "https://www.ujyaaloonline.com/detail/133506": 1794714647.2416933,
-  "https://gorkhapatraonline.com/news/229112": 1794714647.2416933,
-  "https://nagariknews.nagariknetwork.com/sports/india-won-the-u-19-asia-cup-title-on-the-last-ball-after-losing-9-wickets-28-37.html": 1794714647.2416933,
   "https://theannapurnaexpress.com/story/68756": 1794715278.069399,
   "https://english.onlinekhabar.com/india-weekly-train-janakpur-ayodhya.html": 1794715847.4714737,
   "http://english.ratopati.com/story/86706/un-stresses-implementation-of-climate-commitments": 1794715847.4714737,
@@ -1702,7 +1699,8 @@
   "https://theannapurnaexpress.com/story/68804": 1794886855.6631882,
   "https://gorkhapatraonline.com/news/229317": 1794886855.6631882,
   "http://english.ratopati.com/story/86933/chitwan-milk-industry-which-was-closed-due-to-milk-shortage-is-reopening": 1794886855.6631882,
-  "https://theannapurnaexpress.com/story/68803": 1794886855.6631882
+  "https://theannapurnaexpress.com/story/68803": 1794886855.6631882,
+  "http://english.ratopati.com/story/86937/five-european-countries-to-open-migrant-deportation-centers-in-rwanda": 1794887455.9372995
  },
  "queue": [
   {
@@ -3833,29 +3831,6 @@
    "hits": 1
   },
   {
-   "title": "Nepal's attorney general's office claims flaws in court verdicts on 33.5 kg gold smuggling case",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdFpIbFlCcnlVbFpiZzV6ZDVSTncxU1hYZFR2XzN4Ui1lTlV5WEFzdlFXUllSTWtLWmJGRXpzOWVCZzBnQ0xHczlwZ1gwcm5IS0tTWTEwNEJqdUlIaE5lVmx0b2N6R1pNUDdJWmlyelR6c2hTWnMxcktfY3U0M054YXV4bXZpb3NOVkRUQlkwNzFTSlpIWnVZOGlmclJsMEZsQ3poMlAxZ1BVT2Jud1hMRmtBd1AzYmxSSF9R?oc=5",
-   "source": "Asia News Network",
-   "ts": 1794881574,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Nepal's attorney general's office claims flaws in court verdicts on 33.5 kg gold smuggling case",
-   "en": "Nepal's attorney general's office claims flaws in court verdicts on 33.5 kg gold smuggling case",
-   "ne": "Nepal's attorney general's office claims flaws in court verdicts on 33.5 kg gold smuggling case",
-   "imp": 4,
-   "tags": [
-    "AttorneyGeneral",
-    "GoldSmuggling",
-    "SupremeCourt"
-   ],
-   "cat": "crime",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "समावेशीकरणको दिशामा नयाँ फड्को : गोरखापत्रद्वारा प्रकाशित संस्कृत भाषा",
    "summary": "",
    "link": "https://gorkhapatraonline.com/news/229313",
@@ -4377,7 +4352,7 @@
    "cat": "world",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   }
  ],
  "posted": [
@@ -7361,10 +7336,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "society"
+  },
+  {
+   "ts": 1794887463.6081293,
+   "en": "Nepal's attorney general's office claims flaws in court verdicts on 33.5 kg gold smuggling case",
+   "ne": "Nepal's attorney general's office claims flaws in court verdicts on 33.5 kg gold smuggling case",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdFpIbFlCcnlVbFpiZzV6ZDVSTncxU1hYZFR2XzN4Ui1lTlV5WEFzdlFXUllSTWtLWmJGRXpzOWVCZzBnQ0xHczlwZ1gwcm5IS0tTWTEwNEJqdUlIaE5lVmx0b2N6R1pNUDdJWmlyelR6c2hTWnMxcktfY3U0M054YXV4bXZpb3NOVkRUQlkwNzFTSlpIWnVZOGlmclJsMEZsQ3poMlAxZ1BVT2Jud1hMRmtBd1AzYmxSSF9R?oc=5",
+   "source": "Asia News Network",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "crime"
   }
  ],
- "updated": 1794886863,
- "pending_since": null,
+ "updated": 1794887479,
+ "pending_since": 1794887455.9372995,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
