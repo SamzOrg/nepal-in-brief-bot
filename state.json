@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQXNNX0U1cW9fdE1aS1ZNb0V5RmpZZ0ZLZ1cwOWdscUpnQU5vMnRBYVU5Mzl3aWdGWWN4eWV0NFZvSEJvNmlFUGdTUlNVLXRzNDRCTGp2UjVET0RrdEw0ejdFaFItbDl6dkpIZmd3NGoyWW1yTTVNWVZrcF9hczJVZTdZV0s?oc=5": 1794733848.7160423,
-  "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOY29CN0htZHoyTlBsTzRTOTZiVlZTMVB2RDVfZVNjRzhESkJONmRpVmxxSDNqU0tWd2J0RkRhdGFScWlEOWVFc3BsS3h3aGxxRF9VQ1ZZQTJMX3BZcEQtU25OU3daNGkxSFJhbGZKV2JKa0NaVmlFSmw2VDd1dTRKSnB1TldzcUY1NU1LWU5zdVU3RDMzeFFFU2RSZmg4SmwyVktwT1B4c2ZPU2NIY3RyVDVQdHdLNVZwcG9tbWZEZ1hHcVhTQ2s5Ng?oc=5": 1794733848.7160423,
   "https://risingnepaldaily.com/news/88646": 1794734450.571433,
   "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMHBWcWt1a0V3SDltNE11NERZTU5SU2E4Yk1uOHd6SWNtR1dEVGg4eE9XVzZFSVdPVG1qTTMwT0c5S3I4RU1IcEx2WGJ5Z3gxaERESG5tMUVRWWp5c2tCcXBfcmlZNkR5dEdNUmlmTW5KVWJ3QnU1TnBfYTgyRzVCRlBYZnpsMnZobnhINUJjci1lT3EtOWs5ZG5wb05Wc3V4UGV2VllrTGhycFIxUkNzeDgxWkE?oc=5": 1794734450.571433,
   "https://english.khabarhub.com/2026/15/575694/": 1794734450.571433,
@@ -1732,7 +1730,10 @@
   "https://english.onlinekhabar.com/arrested-misleading-information.html": 1794905452.9902275,
   "https://english.khabarhub.com/2026/17/575905/": 1794906087.724938,
   "https://theannapurnaexpress.com/story/68818": 1794906087.724938,
-  "https://theannapurnaexpress.com/story/68817": 1794906087.724938
+  "https://theannapurnaexpress.com/story/68817": 1794906087.724938,
+  "https://english.khabarhub.com/2026/17/575911/": 1794906655.2946143,
+  "https://english.onlinekhabar.com/govt-annual-budget-spending.html": 1794906655.2946143,
+  "https://news.google.com/rss/articles/CBMihAJBVV95cUxPRHhrRWZSZDRsdGNNTzZ2VXVpd2JIaXJ3QVNKeG1tQmV0MDI0TVlrU3Vud1dfLWgxeHIzN2w1UV84UkVSSm42S3hJdTJEWDBFeVJCdGhmV3Q1b3d6Tm1JNVA0a2dpcm54Y1p0LWlkQnIxZW1yRHNpa2pmNEtYWk02YnFNSkVsVUxCUnhnMk5ELVFoZ0lVajc0TWxQM3RwLS04dTBCRE13dnNISUx1ajFnVDh2eXFtVXlUVFFVRFp1N25KSEFIOFRSUUxRdkdKRWZia2huODNCNDAtYzVjRk1TSWdlQ3ZBQ0cwQmhYZV9KbVMtNGkyVFF6VG9EM1pDb184WGMxag?oc=5": 1794906655.2946143
  },
  "queue": [
   {
@@ -1885,27 +1886,6 @@
     "Dhankuta"
    ],
    "cat": "culture",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "UK Prime Minister Andy Burnham Calls for Closer EU Ties Post-Brexit",
-   "summary": "London. British Prime Minister Andy Burnham has stated that the decision to leave the European Union (EU) (Brexit) has caused...",
-   "link": "http://english.ratopati.com/story/86916/britain-launches-initiative-to-improve-relations-with-the-european-union-saying-brexit-has-failed",
-   "source": "Ratopati EN",
-   "ts": 1794877413,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/2026-11-16t213551z_1833612859_rc26poajk359_rtrmadp_3_britain-eu-burnham-1794870258_LRB4oDBDdq.webp",
-   "lang": "en",
-   "hl": "UK Prime Minister Andy Burnham Calls for Closer EU Ties Post-Brexit",
-   "en": "UK Prime Minister Andy Burnham Calls for Closer EU Ties Post-Brexit",
-   "ne": "UK Prime Minister Andy Burnham Calls for Closer EU Ties Post-Brexit",
-   "imp": 1,
-   "tags": [
-    "AndyBurnham"
-   ],
-   "cat": "world",
    "val": 2,
    "teaser": false,
    "hits": 1
@@ -2492,29 +2472,6 @@
    "val": 2,
    "teaser": false,
    "hits": 2
-  },
-  {
-   "title": "पर्यटक पर्खिरहेको रसुवाको डिल्पु कुण्ड",
-   "summary": "हिमाली जिल्ला रसुवा प्राकृतिक सौन्दर्य, धार्मिक आस्था र जैविक विविधतामा धनी रहेको छ।",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/dilpu-kund-in-rasuwa-awaits-tourists-br-26-61.html",
-   "source": "Nagarik News",
-   "ts": 1794877549,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1794877541_dilpu%20kunda%20rasua.jpg",
-   "lang": "ne",
-   "hl": "पर्यटक पर्खिरहेको रसुवाको डिल्पु कुण्ड",
-   "en": "पर्यटक पर्खिरहेको रसुवाको डिल्पु कुण्ड",
-   "ne": "पर्यटक पर्खिरहेको रसुवाको डिल्पु कुण्ड",
-   "imp": 2,
-   "tags": [
-    "Rasuwa",
-    "DilpuKunda",
-    "Tourism"
-   ],
-   "cat": "other",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
   },
   {
    "title": "Indian Couple and Son Apprehended with Heroin in Morang",
@@ -5650,7 +5607,7 @@
    "cat": "economy",
    "val": 2,
    "teaser": true,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "टमाटरले उचित मूल्य नपाएको किसानको गुनासो",
@@ -6202,7 +6159,7 @@
    "cat": "economy",
    "val": 2,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "Consumer who spent Rs 300 wins Rs 1 million in government incentive scheme",
@@ -7081,7 +7038,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "बालेन्द्र र रविसँगको 'अविस्मरणीय' तस्बिर छ ? रास्वपा सांसदले दिने भए नगद पुरस्कार",
@@ -10479,7 +10436,7 @@
    "cat": "politics"
   }
  ],
- "updated": 1794906093,
+ "updated": 1794906658,
  "pending_since": 1794906087.724938,
  "fb_blocks": [
   1790350880.4125228,
