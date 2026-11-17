@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://risingnepaldaily.com/news/88631": 1794710448.7371166,
   "https://english.khabarhub.com/2026/15/575632/": 1794711051.4308467,
   "https://english.khabarhub.com/2026/15/575608/": 1794711051.4308467,
   "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB1Ni12SmRqdTBpWnE4U3dPd3JZZFJGT2hnMFlXTDc1aEtqRmtIUW9XS2ItUGctZklqY1QzQW12Z0Y0ME0yX3JqWndrWHQ4UHpWMXpoVUJ1Rnc?oc=5": 1794711051.4308467,
@@ -1675,7 +1674,24 @@
   "https://gorkhapatraonline.com/news/229311": 1794882668.414749,
   "http://english.ratopati.com/story/86927/applications-are-invited-to-conduct-training-for-300-people-with-tourist-guides": 1794882668.414749,
   "https://english.khabarhub.com/2026/17/575849/": 1794882668.414749,
-  "https://nagariknews.nagariknetwork.com/politics/uml-standing-committee-meeting-to-be-held-today-to-approve-agenda-of-national-gathering-69-49.html": 1794882668.414749
+  "https://nagariknews.nagariknetwork.com/politics/uml-standing-committee-meeting-to-be-held-today-to-approve-agenda-of-national-gathering-69-49.html": 1794882668.414749,
+  "https://baahrakhari.com/detail/507487": 1794883262.544386,
+  "http://english.ratopati.com/story/86930/three-indian-nationals-arrested-with-brown-heroin": 1794883262.544386,
+  "https://risingnepaldaily.com/news/88705": 1794883262.544386,
+  "https://www.ujyaaloonline.com/detail/133568": 1794883262.544386,
+  "https://gorkhapatraonline.com/news/229312": 1794883262.544386,
+  "https://www.setopati.com/social/402723": 1794883262.544386,
+  "https://nagariknews.nagariknetwork.com/politics/uml-gathering-a-message-of-unity-or-a-test-of-the-balance-of-power-45-37.html": 1794883262.544386,
+  "http://english.ratopati.com/story/86929/the-thesis-was-rejected-outright-without-even-being-given-a-chance-to-explain": 1794883262.544386,
+  "https://risingnepaldaily.com/news/88704": 1794883262.544386,
+  "https://www.ujyaaloonline.com/detail/133567": 1794883262.544386,
+  "https://gorkhapatraonline.com/news/229310": 1794883262.544386,
+  "http://english.ratopati.com/story/86928/employment-opportunities-for-16-people-including-10-staff-nurses-open": 1794883262.544386,
+  "https://risingnepaldaily.com/news/88703": 1794883262.544386,
+  "https://www.ujyaaloonline.com/detail/133566": 1794883262.544386,
+  "https://gorkhapatraonline.com/news/229309": 1794883262.544386,
+  "http://english.ratopati.com/story/86926/applications-for-secondary-level-teaching-licenses-open": 1794883262.544386,
+  "https://risingnepaldaily.com/news/88702": 1794883262.544386
  },
  "queue": [
   {
@@ -2892,7 +2908,7 @@
    "cat": "sports",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Ilam's Todke Village Becomes Hub for Commercial Tomato Farming",
@@ -3231,6 +3247,370 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Indian Couple and Son Apprehended with Heroin in Morang",
+   "summary": "Morang. An Indian couple and their son have been taken into custody with banned narcotic drug brown heroin from Rangeli...",
+   "link": "http://english.ratopati.com/story/86930/three-indian-nationals-arrested-with-brown-heroin",
+   "source": "Ratopati EN",
+   "ts": 1794883014,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/crime-arrest-group_3_4GHHJE5ZrB.jpg",
+   "lang": "en",
+   "hl": "Indian Couple and Son Apprehended with Heroin in Morang",
+   "en": "Indian Couple and Son Apprehended with Heroin in Morang",
+   "ne": "Indian Couple and Son Apprehended with Heroin in Morang",
+   "imp": 3,
+   "tags": [
+    "Heroin",
+    "Morang",
+    "DrugArrest"
+   ],
+   "cat": "crime",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Respite To Flood Victims",
+   "summary": "The Bhotekoshi flash flood that struck four districts in central Nepal on August 26 caused heavy loss of life and extens...",
+   "link": "https://risingnepaldaily.com/news/88705",
+   "source": "Rising Nepal",
+   "ts": 1794882965,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "Respite To Flood Victims",
+   "en": "Respite To Flood Victims",
+   "ne": "Respite To Flood Victims",
+   "imp": 3,
+   "tags": [
+    "FloodVictims",
+    "Relief",
+    "बाढी"
+   ],
+   "cat": "disaster",
+   "val": 1,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "आज राष्ट्रिय कर दिवस मनाइँदै",
+   "summary": "आज राष्ट्रिय कर दिवस, विभिन्न कार्यक्रम गरी मनाइँदै छ ।",
+   "link": "https://www.ujyaaloonline.com/detail/133568",
+   "source": "Ujyaalo",
+   "ts": 1794882964,
+   "weight": 2,
+   "img": "https://www.ujyaaloonline.com/uploads/posts/tax1_EZhFv5vdoa.jpg",
+   "lang": "ne",
+   "hl": "आज राष्ट्रिय कर दिवस मनाइँदै",
+   "en": "आज राष्ट्रिय कर दिवस मनाइँदै",
+   "ne": "आज राष्ट्रिय कर दिवस मनाइँदै",
+   "imp": 2,
+   "tags": [
+    "TaxDay",
+    "NationalTaxDay",
+    "करदिवस"
+   ],
+   "cat": "economy",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "सुपथ मूल्य पसलबाट ४९ लाखको कारोबार",
+   "summary": "घोराही समाचारदाताघोराही, मंसिर १ गते । घोराहीमा सञ्चालन भएको चाडपर्व लक्षित सुपथ मूल्य पसलबाट ४९ लाख रुपियाँभन्दा बढीको चिनी र नुन बिक्री भएको छ । दसैँ, तिहार र छठ पर्वलाई लक्षित ग...",
+   "link": "https://gorkhapatraonline.com/news/229312",
+   "source": "Gorkhapatra",
+   "ts": 1794882875,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/391798/conversions/Ghorahi-supatha-original.jpg",
+   "lang": "ne",
+   "hl": "सुपथ मूल्य पसलबाट ४९ लाखको कारोबार",
+   "en": "सुपथ मूल्य पसलबाट ४९ लाखको कारोबार",
+   "ne": "सुपथ मूल्य पसलबाट ४९ लाखको कारोबार",
+   "imp": 2,
+   "tags": [
+    "FairPriceShop",
+    "सुपथमूल्यपसल"
+   ],
+   "cat": "economy",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "४० वर्षदेखि भीरमा झुन्डिएर काढ्दै छन् मह, छुट्ट्याउँछन् मौरीको भाग!",
+   "summary": "न तल टेक्ने ठाउँ छ, न समात्ने हाँगा। डोरीको भर्‍याङमा झुन्डिएर मह काढ्नुपर्छ। मौरीको टोकाइ र भीरबाट खस्ने जोखिम त छँदै छ। तर मह काढ्दा केही चाका मौरीकै लागि छाड्छन्।",
+   "link": "https://www.setopati.com/social/402723",
+   "source": "Setopati",
+   "ts": 1794882060,
+   "weight": 3,
+   "img": null,
+   "lang": "ne",
+   "hl": "४० वर्षदेखि भीरमा झुन्डिएर काढ्दै छन् मह, छुट्ट्याउँछन् मौरीको भाग!",
+   "en": "४० वर्षदेखि भीरमा झुन्डिएर काढ्दै छन् मह, छुट्ट्याउँछन् मौरीको भाग!",
+   "ne": "४० वर्षदेखि भीरमा झुन्डिएर काढ्दै छन् मह, छुट्ट्याउँछन् मौरीको भाग!",
+   "imp": 1,
+   "tags": [
+    "HoneyHunting",
+    "TraditionalSkills"
+   ],
+   "cat": "culture",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "एमाले भेला : एकता सन्देश कि शक्ति सन्तुलनको परीक्षा",
+   "summary": "नेकपा एमालेले बुधबार सुरु हुने दुई दिने राष्ट्रिय भेलाको तयारी पूरा भएको जनाएको छ। एमालेले सोमबार पत्रकार सम्मेलन गरेर भेलाको तयारी पूरा भएको जनाएको हो।...",
+   "link": "https://nagariknews.nagariknetwork.com/politics/uml-gathering-a-message-of-unity-or-a-test-of-the-balance-of-power-45-37.html",
+   "source": "Nagarik News",
+   "ts": 1794882018,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2026/third-party/1794881959_Oli%20Bidhya.jpg",
+   "lang": "ne",
+   "hl": "एमाले भेला : एकता सन्देश कि शक्ति सन्तुलनको परीक्षा",
+   "en": "एमाले भेला : एकता सन्देश कि शक्ति सन्तुलनको परीक्षा",
+   "ne": "एमाले भेला : एकता सन्देश कि शक्ति सन्तुलनको परीक्षा",
+   "imp": 3,
+   "tags": [
+    "UML",
+    "PartyMeeting",
+    "एमाले"
+   ],
+   "cat": "politics",
+   "val": 1,
+   "teaser": true,
+   "hits": 1
+  },
+  {
+   "title": "Tribhuvan University Students File Lawsuit Against AI Software Use",
+   "summary": "Kathmandu. Tribhuvan University students are in serious trouble after research papers (theses) and clinical reports prepared with months of hard...",
+   "link": "http://english.ratopati.com/story/86929/the-thesis-was-rejected-outright-without-even-being-given-a-chance-to-explain",
+   "source": "Ratopati EN",
+   "ts": 1794882446,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/tribhuwan-university_wy1rk50crt_67nnt3rrft_xhrukeuukk_8vupetmw6k_2ISwH5xZcV.jpg",
+   "lang": "en",
+   "hl": "Tribhuvan University Students File Lawsuit Against AI Software Use",
+   "en": "Tribhuvan University Students File Lawsuit Against AI Software Use",
+   "ne": "Tribhuvan University Students File Lawsuit Against AI Software Use",
+   "imp": 2,
+   "tags": [
+    "TribhuvanUniversity",
+    "AISoftware",
+    "Lawsuit"
+   ],
+   "cat": "education",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Discovering Nepal Thru New Ken",
+   "summary": "It has been a little over two months since I arrived in Nepal at the end of August. Beginning a new diplomatic assignmen...",
+   "link": "https://risingnepaldaily.com/news/88704",
+   "source": "Rising Nepal",
+   "ts": 1794882855,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "Discovering Nepal Thru New Ken",
+   "en": "Discovering Nepal Thru New Ken",
+   "ne": "Discovering Nepal Thru New Ken",
+   "imp": 1,
+   "tags": [
+    "Tourism",
+    "Photography",
+    "Nepal"
+   ],
+   "cat": "culture",
+   "val": 1,
+   "teaser": true,
+   "hits": 1
+  },
+  {
+   "title": "आजदेखि काठमाण्डौ उपत्यकामा 'पशु वधशाला तथा मासु जाँच ऐन-२०५५' कार्यान्वयनमा",
+   "summary": "सरकारले आजदेखि काठमाण्डौ उपत्यकामा 'पशु वधशाला तथा मासु जाँच ऐन २०५५' कार्यान्वयनमा ल्याएको छ ।",
+   "link": "https://www.ujyaaloonline.com/detail/133567",
+   "source": "Ujyaalo",
+   "ts": 1794882240,
+   "weight": 2,
+   "img": "https://www.ujyaaloonline.com/uploads/posts/MMM-1794882407.JPG",
+   "lang": "ne",
+   "hl": "आजदेखि काठमाण्डौ उपत्यकामा 'पशु वधशाला तथा मासु जाँच ऐन-२०५५' कार्यान्वयनमा",
+   "en": "आजदेखि काठमाण्डौ उपत्यकामा 'पशु वधशाला तथा मासु जाँच ऐन-२०५५' कार्यान्वयनमा",
+   "ne": "आजदेखि काठमाण्डौ उपत्यकामा 'पशु वधशाला तथा मासु जाँच ऐन-२०५५' कार्यान्वयनमा",
+   "imp": 3,
+   "tags": [
+    "MeatInspectionAct",
+    "Kathmandu",
+    "मासुजाँचऐन"
+   ],
+   "cat": "society",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "जहाजविहीन बने सुदूरपश्चिमका पहाडी विमानस्थल",
+   "summary": "तारामान खड्काअछाम, मङ्सिर १ गते । सुदूरपश्चिमका पहाडी जिल्लामा रहेका विमानस्थल जहाजको प्रतीक्षामा छन् । तत्कालीन विद्रोही पक्ष माओवादी आन्दोलनको समयमा ध्वस्त बनेका विमानस्थल शान्ति...",
+   "link": "https://gorkhapatraonline.com/news/229310",
+   "source": "Gorkhapatra",
+   "ts": 1794882069,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/391795/conversions/IMG_1977-original.jpg",
+   "lang": "ne",
+   "hl": "जहाजविहीन बने सुदूरपश्चिमका पहाडी विमानस्थल",
+   "en": "जहाजविहीन बने सुदूरपश्चिमका पहाडी विमानस्थल",
+   "ne": "जहाजविहीन बने सुदूरपश्चिमका पहाडी विमानस्थल",
+   "imp": 3,
+   "tags": [
+    "Sudurpaschim",
+    "Airport",
+    "विमानस्थल"
+   ],
+   "cat": "economy",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Pokhara University Teaching Hospital to Hire 16 Contract Staff",
+   "summary": "Pokhara University Teaching Hospital is hiring 16 employees on contract service in various posts.The hospital has demanded 10 Staff Nurses,...",
+   "link": "http://english.ratopati.com/story/86928/employment-opportunities-for-16-people-including-10-staff-nurses-open",
+   "source": "Ratopati EN",
+   "ts": 1794882246,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/pokhara-hospital_o81eWd2aGi.webp",
+   "lang": "en",
+   "hl": "Pokhara University Teaching Hospital to Hire 16 Contract Staff",
+   "en": "Pokhara University Teaching Hospital to Hire 16 Contract Staff",
+   "ne": "Pokhara University Teaching Hospital to Hire 16 Contract Staff",
+   "imp": 2,
+   "tags": [
+    "PokharaUniversity",
+    "Hospital",
+    "Hiring"
+   ],
+   "cat": "education",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Deferred Period For Robust Preparations",
+   "summary": "Nepal's graduation from the category of LDCs has been deferred again. At the request of the government, the United Natio...",
+   "link": "https://risingnepaldaily.com/news/88703",
+   "source": "Rising Nepal",
+   "ts": 1794882654,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "Deferred Period For Robust Preparations",
+   "en": "Deferred Period For Robust Preparations",
+   "ne": "Deferred Period For Robust Preparations",
+   "imp": 1,
+   "tags": [
+    "Preparation",
+    "Deferred"
+   ],
+   "cat": "other",
+   "val": 1,
+   "teaser": true,
+   "hits": 1
+  },
+  {
+   "title": "प्रधानमन्त्री शाह र समकक्षी मोदीबीच आधा घण्टा एक्लाएक्लै वार्ता हुने",
+   "summary": "प्रधानमन्त्री बालेन्द्र शाहको भारत भ्रमणका क्रममा समकक्षी नरेन्द्र मोदीबीच नयाँदिल्लीमा आधा घण्टा एक्लाएक्लै वार्ता हुने भएको छ ।",
+   "link": "https://www.ujyaaloonline.com/detail/133566",
+   "source": "Ujyaalo",
+   "ts": 1794881220,
+   "weight": 2,
+   "img": "https://www.ujyaaloonline.com/uploads/posts/PM-1794881378.jpg",
+   "lang": "ne",
+   "hl": "प्रधानमन्त्री शाह र समकक्षी मोदीबीच आधा घण्टा एक्लाएक्लै वार्ता हुने",
+   "en": "प्रधानमन्त्री शाह र समकक्षी मोदीबीच आधा घण्टा एक्लाएक्लै वार्ता हुने",
+   "ne": "प्रधानमन्त्री शाह र समकक्षी मोदीबीच आधा घण्टा एक्लाएक्लै वार्ता हुने",
+   "imp": 4,
+   "tags": [
+    "BalenShah",
+    "NarendraModi",
+    "IndiaVisit"
+   ],
+   "cat": "politics",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "गन्धर्वको पुर्ख्यौली पेसा सङ्कटमा",
+   "summary": "गणेश खनालअर्घाखाँची, मङ्सिर १ गते । कुनै समय गाउँघरमा महत्वपूर्ण सूचना तथा खबर गीतमार्फत सुनाउँदै हिँड्ने गन्धर्व समुदायको पुर्ख्यौली पेसा पछिल्लो समय लोप हुने अवस्थामा पुगेको छ ।...",
+   "link": "https://gorkhapatraonline.com/news/229309",
+   "source": "Gorkhapatra",
+   "ts": 1794881066,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/391793/conversions/gandarba-original.jpg",
+   "lang": "ne",
+   "hl": "गन्धर्वको पुर्ख्यौली पेसा सङ्कटमा",
+   "en": "गन्धर्वको पुर्ख्यौली पेसा सङ्कटमा",
+   "ne": "गन्धर्वको पुर्ख्यौली पेसा सङ्कटमा",
+   "imp": 2,
+   "tags": [
+    "Gandharba",
+    "TraditionalMusic",
+    "गन्धर्व"
+   ],
+   "cat": "culture",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Teacher Service Commission Announces Teaching License Exam Application",
+   "summary": "Kathmandu. Teacher Service Commission has opened applications for the secondary level teaching license examination.Publishing a notice on Tuesday, the commission...",
+   "link": "http://english.ratopati.com/story/86926/applications-for-secondary-level-teaching-licenses-open",
+   "source": "Ratopati EN",
+   "ts": 1794881383,
+   "weight": 2,
+   "img": "https://rpcdn.ratopati.com/media/albums/Sikshak-sewa-aayog_4bu2wt4ov3_pE8On718vD.jpg",
+   "lang": "en",
+   "hl": "Teacher Service Commission Announces Teaching License Exam Application",
+   "en": "Teacher Service Commission Announces Teaching License Exam Application",
+   "ne": "Teacher Service Commission Announces Teaching License Exam Application",
+   "imp": 2,
+   "tags": [
+    "TeacherServiceCommission",
+    "TeachingLicense",
+    "शिक्षक"
+   ],
+   "cat": "education",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Beyond Seasonal Labels",
+   "summary": "Silu Shrestha, PhDFor years, Nepal's tourism calendar has been divided into two familiar categories: spring and autumn a...",
+   "link": "https://risingnepaldaily.com/news/88702",
+   "source": "Rising Nepal",
+   "ts": 1794882361,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "Beyond Seasonal Labels",
+   "en": "Beyond Seasonal Labels",
+   "ne": "Beyond Seasonal Labels",
+   "imp": 1,
+   "tags": [
+    "Seasonal",
+    "Labels"
+   ],
+   "cat": "other",
+   "val": 1,
+   "teaser": true,
    "hits": 1
   }
  ],
@@ -6217,8 +6597,8 @@
    "cat": "disaster"
   }
  ],
- "updated": 1794882675,
- "pending_since": 1794881452.0490284,
+ "updated": 1794883277,
+ "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
