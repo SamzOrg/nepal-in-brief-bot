@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMirgFBVV95cUxOakVVcVZ3X0VYX1l1ZTM5ajk1bWxRMk1iWTI1WVo3R2Q4V2tpOFFLQzNqLXBBejlKTzFYRHN2TVlQYzVWS2Z5SWJfcUV0WE12bDIzTlNuRFY5SUhTRnpDaGdrc3ppdS15MWphR1pUc0pGb0dMc2EycTVYMWg4ZHNhR1U1M1RJdmlrYjhJTEJLTFoxWkFseE90OUUxUDVoOFk2U29ReDF2ZDVFd0w2SEE?oc=5": 1794709866.5033722,
-  "https://news.google.com/rss/articles/CBMizwFBVV95cUxNc3ZKRzhvQjNyR2RSanplR1d6aHdNck84cm94RUdKT05aVTkyWEgwRURwWk5LbXJTRE84VF9KZWF2OHBXRFphMk9SUXNaNUV1YVV2ZlB0M28wMnhwV3NSRGx5X3MydkJYNldFb2dkaXNVOFpzcDdxQnBBOXFESzI4dF9sY2Z1NjZLakVHQjBKSUppRnNoTlBMeEsyb0pDZzBxSjZNUl9aZnJiYzMyQ3J6MHlZUDdtaTZ4Ynk4WjhQNmw5cUZPMmxfVlhQTml5cHc?oc=5": 1794709866.5033722,
   "https://risingnepaldaily.com/news/88631": 1794710448.7371166,
   "https://english.khabarhub.com/2026/15/575632/": 1794711051.4308467,
   "https://english.khabarhub.com/2026/15/575608/": 1794711051.4308467,
@@ -1673,7 +1671,11 @@
   "https://nagariknews.nagariknetwork.com/social-affairs/dilpu-kund-in-rasuwa-awaits-tourists-br-26-61.html": 1794881031.2793431,
   "https://nagariknews.nagariknetwork.com/social-affairs/kanti-lake-is-abandoned-its-structure-is-collapsing-br-41-16.html": 1794881031.2793431,
   "https://nagariknews.nagariknetwork.com/international/america-became-chaotic-in-five-days-flights-grounded-microsoft-shut-down-banking-services-also-facing-problems-49-76.html": 1794881031.2793431,
-  "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaERsTFpsUmdYYmV0elR6WjMwa2JfcWxqWXpBSUlEV2N5TlFWS2VZUU9JN2xmZGhiMFo2M0VyYjF6VTJya0pQa05TX21KSi1nT1FDM09aeFRDMUptejFiaElDS2JoUXdIaFFkOENIbHZkV3FBa3Rlcmw3UnR3bTItdFBieFhoNzlVOTJXTzRPNzRNVEN2RGNETFpkVjlMU3lTaWVv?oc=5": 1794881452.0490284
+  "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaERsTFpsUmdYYmV0elR6WjMwa2JfcWxqWXpBSUlEV2N5TlFWS2VZUU9JN2xmZGhiMFo2M0VyYjF6VTJya0pQa05TX21KSi1nT1FDM09aeFRDMUptejFiaElDS2JoUXdIaFFkOENIbHZkV3FBa3Rlcmw3UnR3bTItdFBieFhoNzlVOTJXTzRPNzRNVEN2RGNETFpkVjlMU3lTaWVv?oc=5": 1794881452.0490284,
+  "https://gorkhapatraonline.com/news/229311": 1794882668.414749,
+  "http://english.ratopati.com/story/86927/applications-are-invited-to-conduct-training-for-300-people-with-tourist-guides": 1794882668.414749,
+  "https://english.khabarhub.com/2026/17/575849/": 1794882668.414749,
+  "https://nagariknews.nagariknetwork.com/politics/uml-standing-committee-meeting-to-be-held-today-to-approve-agenda-of-national-gathering-69-49.html": 1794882668.414749
  },
  "queue": [
   {
@@ -2958,7 +2960,7 @@
    "cat": "politics",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "बढ्दै छन् कफी पारखी",
@@ -3137,7 +3139,7 @@
    "cat": "sports",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "पर्यटक पर्खिरहेको रसुवाको डिल्पु कुण्ड",
@@ -3233,17 +3235,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1794277256.608333,
-   "en": "Janakpur Bolts face Sudurpaschim Royals in crucial NPL match in Kirtipur",
-   "ne": "Janakpur Bolts face Sudurpaschim Royals in crucial NPL match in Kirtipur",
-   "link": "https://kathmandupost.com/cricket/2026/11/10/janakpur-face-must-win-test-against-sudurpaschim-in-npl",
-   "source": "Kathmandu Post",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "sports"
-  },
   {
    "ts": 1794279056.9754908,
    "en": "जलवायु परिवर्तनले विश्वव्यापी स्वास्थ्य सङ्कट गहिरिँदै, सङ्कट महामारीको स्तरमा पुगेको विज्ञहरूको चेतावनी",
@@ -6226,7 +6217,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1794882095,
+ "updated": 1794882675,
  "pending_since": 1794881452.0490284,
  "fb_blocks": [
   1790350880.4125228,
