@@ -1,8 +1,5 @@
 {
  "seen": {
-  "https://baahrakhari.com/detail/507346": 1794721250.19118,
-  "https://news.google.com/rss/articles/CBMid0FVX3lxTFBhUlFxR3I0dzU4a19JOFVNOVFrVV85ZTlSbWItdDhNV0M0YjU4ZDRtd2ZWb3c5SXF5aFRWREhjM09IRDVveUxTamJkM0syVFBoVGVNMnpKcDlicmJ2bGltanR5ZEhFODlSbFNmTTdzNXZTTVlhT2pV?oc=5": 1794721250.19118,
-  "http://english.ratopati.com/story/86714/accident": 1794721250.19118,
   "https://www.setopati.com/politics/402603": 1794721852.9147744,
   "https://www.setopati.com/politics/402601": 1794721852.9147744,
   "https://kathmandupost.com/national/2026/11/15/india-s-nitin-gadkari-to-attend-nepal-infrastructure-summit-as-keynote-speaker": 1794721852.9147744,
@@ -1687,7 +1684,12 @@
   "https://nagariknews.nagariknetwork.com/economy/administrative-building-has-been-abandoned-for-four-and-a-half-years-br-99-92.html": 1794892253.7469807,
   "https://nagariknews.nagariknetwork.com/economy/national-tax-day-these-are-this-year-s-20-best-taxpayers-with-list-93-17.html": 1794892856.3548505,
   "https://nagariknews.nagariknetwork.com/economy/raj-bahadur-shah-became-the-highest-tax-payer-82-53.html": 1794893470.2981722,
-  "https://thehimalayantimes.com/nepal/two-teenagers-killed-two-injured-in-rautahat-scooter-crash": 1794893470.2981722
+  "https://thehimalayantimes.com/nepal/two-teenagers-killed-two-injured-in-rautahat-scooter-crash": 1794893470.2981722,
+  "https://baahrakhari.com/detail/507499": 1794894054.6707792,
+  "https://news.google.com/rss/articles/CBMidkFVX3lxTE1hWW50NU1xQmx3Xy0tX2Y4LTRLaG1JT3JFdmg1REp3ZElfZHAtS0tQNTBpcG85VVZJLUFIVUowRHBfY3hfcXZYSWYzTnBHU190em1PYlhMemhGREpXeTlrcjFsVTVUamcwaXhsaVkxelotMUxvZ3c?oc=5": 1794894054.6707792,
+  "https://baahrakhari.com/detail/507498": 1794894054.6707792,
+  "http://english.ratopati.com/story/86960/gulmis-resunga-park-becomes-a-favorite-among-domestic-tourists-visited-by-over-40000-people": 1794894054.6707792,
+  "https://kathmandupost.com/art-culture/2026/11/17/british-actor-robert-pattinson-named-as-new-james-bond": 1794894054.6707792
  },
  "queue": [
   {
@@ -4160,7 +4162,7 @@
    "cat": "culture",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "सडक सुरक्षाका बहुआयाम",
@@ -4763,7 +4765,7 @@
    "cat": "crime",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "National Tax Day 2083: Top Taxpayers Announced",
@@ -8495,7 +8497,7 @@
    "cat": "economy"
   }
  ],
- "updated": 1794893497,
+ "updated": 1794894058,
  "pending_since": 1794892856.3548505,
  "fb_blocks": [
   1790350880.4125228,
