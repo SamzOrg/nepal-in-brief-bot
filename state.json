@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://theannapurnaexpress.com/story/68756": 1794715278.069399,
   "https://english.onlinekhabar.com/india-weekly-train-janakpur-ayodhya.html": 1794715847.4714737,
   "http://english.ratopati.com/story/86706/un-stresses-implementation-of-climate-commitments": 1794715847.4714737,
   "https://english.onlinekhabar.com/two-npl-matches-today.html": 1794715847.4714737,
@@ -1700,7 +1699,8 @@
   "https://gorkhapatraonline.com/news/229317": 1794886855.6631882,
   "http://english.ratopati.com/story/86933/chitwan-milk-industry-which-was-closed-due-to-milk-shortage-is-reopening": 1794886855.6631882,
   "https://theannapurnaexpress.com/story/68803": 1794886855.6631882,
-  "http://english.ratopati.com/story/86937/five-european-countries-to-open-migrant-deportation-centers-in-rwanda": 1794887455.9372995
+  "http://english.ratopati.com/story/86937/five-european-countries-to-open-migrant-deportation-centers-in-rwanda": 1794887455.9372995,
+  "https://theannapurnaexpress.com/story/68808": 1794888087.7325919
  },
  "queue": [
   {
@@ -2382,7 +2382,7 @@
    "cat": "sports",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "Opposition urges PM to forge national consensus before India visit",
@@ -4356,17 +4356,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1794282669.0421689,
-   "en": "चितवनको घोप्टेभिरमा खसेको पहिरो पन्छाइयो, पृथ्वी राजमार्ग सञ्चालनमा",
-   "ne": "चितवनको घोप्टेभिरमा खसेको पहिरो पन्छाइयो, पृथ्वी राजमार्ग सञ्चालनमा",
-   "link": "https://gorkhapatraonline.com/news/228792",
-   "source": "Gorkhapatra",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "disaster"
-  },
   {
    "ts": 1794284453.930704,
    "en": "तिहार अन्तर्गत आज गोवर्द्धन, गोरु, बली र हलीको पूजा गरिँदै",
@@ -7349,7 +7338,7 @@
    "cat": "crime"
   }
  ],
- "updated": 1794887479,
+ "updated": 1794888103,
  "pending_since": 1794887455.9372995,
  "fb_blocks": [
   1790350880.4125228,
