@@ -1,6 +1,5 @@
 {
  "seen": {
-  "http://english.ratopati.com/story/86691/when-will-the-issue-of-equal-pension-for-former-gurkhas-be-resolved": 1794708652.01627,
   "http://english.ratopati.com/story/86692/what-to-do-if-you-get-stuck-while-hiking-government-sets-treatment-and-emergency-rescue-standards": 1794709248.716082,
   "https://www.setopati.com/special-stories/we-people/402581": 1794709248.716082,
   "https://baahrakhari.com/detail/507329": 1794709248.716082,
@@ -1693,7 +1692,8 @@
   "https://nagariknews.nagariknetwork.com/sports/lumbini-and-sudurpaschim-in-the-running-to-reach-the-final-decisive-clash-today-35-24.html": 1794881031.2793431,
   "https://nagariknews.nagariknetwork.com/social-affairs/dilpu-kund-in-rasuwa-awaits-tourists-br-26-61.html": 1794881031.2793431,
   "https://nagariknews.nagariknetwork.com/social-affairs/kanti-lake-is-abandoned-its-structure-is-collapsing-br-41-16.html": 1794881031.2793431,
-  "https://nagariknews.nagariknetwork.com/international/america-became-chaotic-in-five-days-flights-grounded-microsoft-shut-down-banking-services-also-facing-problems-49-76.html": 1794881031.2793431
+  "https://nagariknews.nagariknetwork.com/international/america-became-chaotic-in-five-days-flights-grounded-microsoft-shut-down-banking-services-also-facing-problems-49-76.html": 1794881031.2793431,
+  "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaERsTFpsUmdYYmV0elR6WjMwa2JfcWxqWXpBSUlEV2N5TlFWS2VZUU9JN2xmZGhiMFo2M0VyYjF6VTJya0pQa05TX21KSi1nT1FDM09aeFRDMUptejFiaElDS2JoUXdIaFFkOENIbHZkV3FBa3Rlcmw3UnR3bTItdFBieFhoNzlVOTJXTzRPNzRNVEN2RGNETFpkVjlMU3lTaWVv?oc=5": 1794881452.0490284
  },
  "queue": [
   {
@@ -3247,6 +3247,30 @@
    ],
    "cat": "world",
    "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Nepal elections: Rastriya Swatantra Party wins majority seats",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaERsTFpsUmdYYmV0elR6WjMwa2JfcWxqWXpBSUlEV2N5TlFWS2VZUU9JN2xmZGhiMFo2M0VyYjF6VTJya0pQa05TX21KSi1nT1FDM09aeFRDMUptejFiaElDS2JoUXdIaFFkOENIbHZkV3FBa3Rlcmw3UnR3bTItdFBieFhoNzlVOTJXTzRPNzRNVEN2RGNETFpkVjlMU3lTaWVv?oc=5",
+   "source": "News On AIR",
+   "ts": 1794877430,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "Nepal elections: Rastriya Swatantra Party wins majority seats",
+   "en": "Nepal elections: Rastriya Swatantra Party wins majority seats",
+   "ne": "Nepal elections: Rastriya Swatantra Party wins majority seats",
+   "imp": 4,
+   "tags": [
+    "NepalElections",
+    "RSP",
+    "ElectionResults",
+    "निर्वाचन"
+   ],
+   "cat": "politics",
+   "val": 3,
    "teaser": false,
    "hits": 1
   }
@@ -6234,8 +6258,8 @@
    "cat": "politics"
   }
  ],
- "updated": 1794881044,
- "pending_since": null,
+ "updated": 1794881456,
+ "pending_since": 1794881452.0490284,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
