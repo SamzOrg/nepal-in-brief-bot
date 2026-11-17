@@ -1,14 +1,5 @@
 {
  "seen": {
-  "https://risingnepaldaily.com/news/88638": 1794720057.19203,
-  "http://english.ratopati.com/story/86713/the-price-of-gold-has-dropped-at-what-price-is-it-being-traded": 1794720667.4377334,
-  "https://www.setopati.com/politics/402600": 1794720667.4377334,
-  "https://risingnepaldaily.com/news/88639": 1794720667.4377334,
-  "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1SbHhPcHYxckxhbXNTR2FOd3RtV1FNczJWSG5ac2U3Vnc3YV9WbFp6OE5LblpOZS1nZVJOWWxlVjE1c2NSOXJZMC1DVldQVUI4?oc=5": 1794720667.4377334,
-  "https://risingnepaldaily.com/news/88637": 1794720667.4377334,
-  "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTXhOeXIxZVpTN2VhZE1faUNIZDRwb2o2N0F5RjV5UDMzLWRGbWl2em95RGpoeG1sdVBFMXBtQzA5NExKRkcyTl9iVmJIWlIxVXN3XzVnb0ZmaTdZYlNKZDc3SkVLc3h6TXRIR2V4eUNoOUpyOTJLdkQ3cDByMTdGQ2tycEUweHJ4a01ia01Sa002T2tMelNHeXJrMlpJZ2lhVWhVWHpOSDJPU0NjaHlERTR0RjU3VWJf?oc=5": 1794720667.4377334,
-  "https://news.google.com/rss/articles/CBMizwFBVV95cUxQaDdjUXBiTC1iRFgwbjl3eEd0aUZCdHpXUlJmN0otYUNVNEZlT0NUNV9uVkM1TEVxWG1wa3R3WmJXQ3c5NHZtcmpZQkpfWlRXNVZRZUNvUlFQLVNjYjB5WXlmZFQ3Um5mRnNDTkYtQWM2SHBLa0xGZWkxYlgxb1lDTTJYSGhwTHZScklRaG9UWWZyMWtqYW81cmpuejl4WHdDdE9JejhqRTFHY2FlZk5vNXVRbTVIYWxwdjA1U0o2eW5IcTB5SlNzX0xWdnNkeTQ?oc=5": 1794720667.4377334,
-  "https://news.google.com/rss/articles/CBMitwFBVV95cUxQY0pzRWZBMUlvcG9lNVZDaU5BYkFxRWlvNFp6bjhkMng1OHJhWldQVDduVjZrMzRFU1ZrT09NNkxhSnNhcVphRHF6SS0tZmgwZnRtNk95M0NybG5wdlZ1cnMzWk04WlJnY0thelpGYzdWUXpZc1l3SVV1ZERWZEM4QUZOSTBHNURROXJLR2lrZzhaX201RlVZaW15X09mM2tsdHNMeU1KQk9iNTdtNFVZZzdmZmVGV1k?oc=5": 1794720667.4377334,
   "https://baahrakhari.com/detail/507346": 1794721250.19118,
   "https://news.google.com/rss/articles/CBMid0FVX3lxTFBhUlFxR3I0dzU4a19JOFVNOVFrVV85ZTlSbWItdDhNV0M0YjU4ZDRtd2ZWb3c5SXF5aFRWREhjM09IRDVveUxTamJkM0syVFBoVGVNMnpKcDlicmJ2bGltanR5ZEhFODlSbFNmTTdzNXZTTVlhT2pV?oc=5": 1794721250.19118,
   "http://english.ratopati.com/story/86714/accident": 1794721250.19118,
@@ -1694,7 +1685,9 @@
   "https://nagariknews.nagariknetwork.com/politics/report-with-common-action-plan-for-climate-crisis-mitigation-handed-over-to-minister-chaudhary-15-45.html": 1794892253.7469807,
   "https://nagariknews.nagariknetwork.com/opinion/original-copy-of-the-sugauli-treaty-72-64.html": 1794892253.7469807,
   "https://nagariknews.nagariknetwork.com/economy/administrative-building-has-been-abandoned-for-four-and-a-half-years-br-99-92.html": 1794892253.7469807,
-  "https://nagariknews.nagariknetwork.com/economy/national-tax-day-these-are-this-year-s-20-best-taxpayers-with-list-93-17.html": 1794892856.3548505
+  "https://nagariknews.nagariknetwork.com/economy/national-tax-day-these-are-this-year-s-20-best-taxpayers-with-list-93-17.html": 1794892856.3548505,
+  "https://nagariknews.nagariknetwork.com/economy/raj-bahadur-shah-became-the-highest-tax-payer-82-53.html": 1794893470.2981722,
+  "https://thehimalayantimes.com/nepal/two-teenagers-killed-two-injured-in-rautahat-scooter-crash": 1794893470.2981722
  },
  "queue": [
   {
@@ -5012,7 +5005,7 @@
    "cat": "economy",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "हिमाल र नेपाल बुझाउने नेपाल मण्डप",
@@ -5492,6 +5485,29 @@
    ],
    "cat": "society",
    "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Two teenagers killed, two injured in Rautahat scooter crash",
+   "summary": "Key Takeaways: Two teenagers died after a scooter crashed into a bridge in Rautahat The accident occurred in Rajdevi Municipality-1 on Monday afternoon Two other riders sustain...",
+   "link": "https://thehimalayantimes.com/nepal/two-teenagers-killed-two-injured-in-rautahat-scooter-crash",
+   "source": "Himalayan Times",
+   "ts": 1794893259,
+   "weight": 3,
+   "img": "https://thehimalayantimes.com/thehimalayantimes/uploads/images/2026/11/17/51816.jpeg",
+   "lang": "en",
+   "hl": "Two teenagers killed, two injured in Rautahat scooter crash",
+   "en": "Two teenagers killed, two injured in Rautahat scooter crash",
+   "ne": "Two teenagers killed, two injured in Rautahat scooter crash",
+   "imp": 3,
+   "tags": [
+    "Rautahat",
+    "Accident",
+    "दुर्घटना"
+   ],
+   "cat": "crime",
+   "val": 3,
    "teaser": false,
    "hits": 1
   }
@@ -8479,7 +8495,7 @@
    "cat": "economy"
   }
  ],
- "updated": 1794892879,
+ "updated": 1794893497,
  "pending_since": 1794892856.3548505,
  "fb_blocks": [
   1790350880.4125228,
