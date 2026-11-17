@@ -1,8 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMUNQTjBxenVwT2FJOXdCUzd6cGpGaG9kSG9IaENqOHk0UlpLUzNidEY5T05MR0NaLUx3d0l6MVQ5Y1E5YXRKOGpUOGFmT29sc0JXM0g5ajZ5aUUyVnNFeXY2T3o1b1FjOFpZOVFwQjBranJQNWZLS2ZlZVhsbzVPVlktcHZSU1BJMDQyXzZYd3dtUjhLRmgySVZHeU5hendMaUFMWVdMVFY0ZENvWjhwOXhCWFBTUDdlSl9WSTF6MUNWc2hyd3VsWlBMU09ITkVFb2R5aEdR?oc=5": 1794763255.1547284,
-  "https://baahrakhari.com/detail/507400": 1794763255.1547284,
-  "http://english.ratopati.com/story/86776/a-person-was-found-dead-in-a-guesthouse": 1794763255.1547284,
   "https://gorkhapatraonline.com/news/229187": 1794763866.8710718,
   "https://baahrakhari.com/detail/507399": 1794763866.8710718,
   "http://english.ratopati.com/story/86773/israeli-minister-claims-netanyahu-offered-unity-to-eisenhower": 1794763866.8710718,
@@ -1805,7 +1802,8 @@
   "https://nagariknews.nagariknetwork.com/international/iran-accuses-us-of-attacking-qeshm-island-damages-five-oil-tankers-in-hormuz-20-96.html": 1794934893.973594,
   "https://gorkhapatraonline.com/news/229411": 1794934893.973594,
   "https://nagariknews.nagariknetwork.com/politics/uml-is-not-complete-even-with-the-combination-of-domestic-and-foreign-forces-oli-60-31.html": 1794934893.973594,
-  "https://nagariknews.nagariknetwork.com/arts/global-film-festival-over-500-films-received-from-around-the-world-96-30.html": 1794934893.973594
+  "https://nagariknews.nagariknetwork.com/arts/global-film-festival-over-500-films-received-from-around-the-world-96-30.html": 1794934893.973594,
+  "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSk92NFdINEYybUFUUzRNQ0RUTkNnbEpNZU9jNGRJQ0I5LWtlSE12RWZyei1sLWV3WGhqMHFjbW12NWJtLVlKVmFLQVkwNUVUeEJ6a29PSk82V3o5dnNxX0h3WkM0c0tMRDBmYWVaWGJoZlVURXFtc2ltZlFsdDBCZF8zc0lPRDU0MW9mVmRFZE00OFpwZ3d1MTlXTjBTTTR1UE5iZXp6WVRzLTRzRU16NndrMmY5U3FuOXJSYXJLVkFfMUZuY0JsQV9R?oc=5": 1794936057.8639398
  },
  "queue": [
   {
@@ -1851,144 +1849,6 @@
    ],
    "cat": "economy",
    "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "व्यासमा आँखा उपचार सेवा",
-   "summary": "अमरराज नहर्कीतनहुँ, मंसिर १ गते । तनहुँको व्यास नगरपालिकाले सेवा लिन आउने सेवाग्राहीलाई सहज रूपमा आँखा उपचार सेवा उपलब्ध गराउने उद्देश्यले आँखा उपचार केन्द्र सञ्चालनमा ल्याएको छ ।न...",
-   "link": "https://gorkhapatraonline.com/news/229367",
-   "source": "Gorkhapatra",
-   "ts": 1794907250,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/391875/conversions/IMG_8541-original.jpg",
-   "lang": "ne",
-   "hl": "व्यासमा आँखा उपचार सेवा",
-   "en": "व्यासमा आँखा उपचार सेवा",
-   "ne": "व्यासमा आँखा उपचार सेवा",
-   "imp": 2,
-   "tags": [
-    "Byas",
-    "EyeCare",
-    "व्यास"
-   ],
-   "cat": "health",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Commissions formed to probe Gen Z movement did no real work, Oli objects",
-   "summary": "Kathmandu, November 17 CPN-UML Chair KP Sharma Oli has claimed that the government he led was removed not through a democratic process but through force, arson and looting. Addressing a meeting of the All Nepal...",
-   "link": "https://english.onlinekhabar.com/gen-z-movement-real-work-oli-objects.html",
-   "source": "Onlinekhabar EN",
-   "ts": 1794907036,
-   "weight": 3,
-   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/10/KP-Sharma-Oli-1.jpg",
-   "lang": "en",
-   "hl": "Commissions formed to probe Gen Z movement did no real work, Oli objects",
-   "en": "Commissions formed to probe Gen Z movement did no real work, Oli objects",
-   "ne": "Commissions formed to probe Gen Z movement did no real work, Oli objects",
-   "imp": 3,
-   "tags": [
-    "KPSharmaOli",
-    "GenZ",
-    "CPNUML"
-   ],
-   "cat": "politics",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "९ जिल्लाबाट लागूऔषधसहित एकैदिन २० जना पक्राउ",
-   "summary": "पक्राउ पर्नेमा भारतीय नागरिकसमेत छन् भने उनीहरूको साथबाट खैरो हेरोइन, ब्राउनसुगर, हजारौँ थान नियन्त्रित औषधि, गाँजा, नगद र ६ वटा मोटरसाइकल बरामद गरिएको छ।...",
-   "link": "https://nagariknews.nagariknetwork.com/Aparadh/20-people-arrested-from-the-district-in-one-day-98-64.html",
-   "source": "Nagarik News",
-   "ts": 1794907030,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1786282078_pakrau.png",
-   "lang": "ne",
-   "hl": "९ जिल्लाबाट लागूऔषधसहित एकैदिन २० जना पक्राउ",
-   "en": "९ जिल्लाबाट लागूऔषधसहित एकैदिन २० जना पक्राउ",
-   "ne": "९ जिल्लाबाट लागूऔषधसहित एकैदिन २० जना पक्राउ",
-   "imp": 3,
-   "tags": [
-    "DrugArrests",
-    "Crime",
-    "लागूऔषध"
-   ],
-   "cat": "crime",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "कांग्रेस वरिष्ठ उपसभापतिका चार मुख्य जिम्मेवारी",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/507526",
-   "source": "Baahrakhari",
-   "ts": 1794906899,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "कांग्रेस वरिष्ठ उपसभापतिका चार मुख्य जिम्मेवारी",
-   "en": "कांग्रेस वरिष्ठ उपसभापतिका चार मुख्य जिम्मेवारी",
-   "ne": "कांग्रेस वरिष्ठ उपसभापतिका चार मुख्य जिम्मेवारी",
-   "imp": 2,
-   "tags": [
-    "NepaliCongress",
-    "Leadership",
-    "कांग्रेस"
-   ],
-   "cat": "politics",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "एनआरएनए पदाधिकारीलाई राजनीतिक दलको आबद्धता त्याग्न निर्देशन",
-   "summary": "संघका महासचिव डा. चिरञ्जीवी खड्काले एक परिपत्र जारी गर्दै केही पदाधिकारी तथा सदस्यहरू राजनीतिक उद्देश्य भएका संस्था वा संगठनमा पदाधिकारी वा कार्यकारी सदस्यका रूपमा निर्वाचित, मनोनीत वा चयन भएको भन्दै त्यस्तो आवद्धता...",
-   "link": "https://www.setopati.com/global/other-global/402760",
-   "source": "Setopati",
-   "ts": 1794907026,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "एनआरएनए पदाधिकारीलाई राजनीतिक दलको आबद्धता त्याग्न निर्देशन",
-   "en": "एनआरएनए पदाधिकारीलाई राजनीतिक दलको आबद्धता त्याग्न निर्देशन",
-   "ne": "एनआरएनए पदाधिकारीलाई राजनीतिक दलको आबद्धता त्याग्न निर्देशन",
-   "imp": 3,
-   "tags": [
-    "NRN",
-    "Politics",
-    "एनआरएनए"
-   ],
-   "cat": "politics",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "हेल्थ फाउन्डेसन नेपालको १४औँ सम्मेलन सम्पन्न, अध्यक्षमा डा. पौडेल पुनः निर्वाचित",
-   "summary": "काठमाडौँ, मङ्सिर १ गते । हेल्थ फाउन्डेसन नेपालको १४औँ वार्षिक सम्मेलन सम्पन्न भएको छ । नेपालका ग्रामीण तथा सहरी क्षेत्रका स्वास्थ्य सेवाबाट वञ्चित र आर्थिक रूपमा कमजोर समुदायमा स्व...",
-   "link": "https://gorkhapatraonline.com/news/229366",
-   "source": "Gorkhapatra",
-   "ts": 1794906940,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/391873/conversions/health-foundation--original.jpg",
-   "lang": "ne",
-   "hl": "हेल्थ फाउन्डेसन नेपालको १४औँ सम्मेलन सम्पन्न, अध्यक्षमा डा. पौडेल पुनः निर्वाचित",
-   "en": "हेल्थ फाउन्डेसन नेपालको १४औँ सम्मेलन सम्पन्न, अध्यक्षमा डा. पौडेल पुनः निर्वाचित",
-   "ne": "हेल्थ फाउन्डेसन नेपालको १४औँ सम्मेलन सम्पन्न, अध्यक्षमा डा. पौडेल पुनः निर्वाचित",
-   "imp": 2,
-   "tags": [
-    "HealthFoundationNepal",
-    "DrPaudel",
-    "स्वास्थ्य"
-   ],
-   "cat": "health",
-   "val": 3,
    "teaser": false,
    "hits": 1
   },
@@ -2981,7 +2841,7 @@
    "cat": "politics",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "कर प्रशासनमा एआईदेखि डिजिटल स्टिकरसम्म, आन्तरिक राजस्व विभागका १५ संकल्प",
@@ -3117,29 +2977,6 @@
    ],
    "cat": "crime",
    "val": 1,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Nepal, India urged to institutionalize private sector partnership for shared prosperity",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbFNUM0hYSk9XTGVtUDRMS0I5d1NxNTdEVXlrY245TU84dnJOMk9Hc243VndPaDRld2VibllSU2YtbFR6blhKX01HVWdwSGxObVhSbEFvUE14YW5ZeDdJSDFiT3BKNEhoWG91UWlLZ2hzNXV5dG9oVzlhUWttUllvZU15LUIxM2ZpTXBQcFdHeEkyOTFmNURjSnBZczF5M0FXS0F3WDZHSkZRUHQ1UFJ5UUtjbFVSX3RJV2s3ZGowTG5EbDlFc2xiTm1B?oc=5",
-   "source": "myRepublica",
-   "ts": 1794907254,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Nepal, India urged to institutionalize private sector partnership for shared prosperity",
-   "en": "Nepal, India urged to institutionalize private sector partnership for shared prosperity",
-   "ne": "Nepal, India urged to institutionalize private sector partnership for shared prosperity",
-   "imp": 2,
-   "tags": [
-    "NepalIndia",
-    "PrivateSector",
-    "Economy"
-   ],
-   "cat": "economy",
-   "val": 2,
    "teaser": false,
    "hits": 1
   },
@@ -3799,28 +3636,6 @@
    ],
    "cat": "world",
    "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "El Nino Watch: the impacts around the world this week",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTXhxWWQwT196SFlTelRJWEJEbHlxUjR2VmF1MXp6d1RkTXpEV3I5Z1RsRE5qeUtjcXF2Yzh3dUV6dmJpTjFQQ2xIam85eW1pbWI3eERrUzR5OXZ0bWZOXzZIMTlvRjRrempSOU4tWVd2bzZpNWVkZE9PS0VyVHdHLWVWbWdIcmhoQ0JKWHRKRGRNanFkSzhIeXFIWGtfT3pPRjNEaDU1Q0JDaGM?oc=5",
-   "source": "myRepublica",
-   "ts": 1794906900,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "El Nino Watch: the impacts around the world this week",
-   "en": "El Nino Watch: the impacts around the world this week",
-   "ne": "El Nino Watch: the impacts around the world this week",
-   "imp": 1,
-   "tags": [
-    "ElNino",
-    "GlobalImpact"
-   ],
-   "cat": "world",
-   "val": 1,
    "teaser": false,
    "hits": 1
   },
@@ -4543,28 +4358,6 @@
     "Holland"
    ],
    "cat": "economy",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "RSP delegation pledges to enhance cooperation with China under BRI",
-   "summary": "A 20-member delegation of the Rastriya Swatantra Party (RSP), led by General Secretary Bipin Acharya, has stated that Nepal is committed to enhancing cooperation with China under the Belt and Road Initiative (BRI).On...",
-   "link": "https://theannapurnaexpress.com/story/68824",
-   "source": "Annapurna Express",
-   "ts": 1794907255.1307776,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "RSP delegation pledges to enhance cooperation with China under BRI",
-   "en": "RSP delegation pledges to enhance cooperation with China under BRI",
-   "ne": "RSP delegation pledges to enhance cooperation with China under BRI",
-   "imp": 3,
-   "tags": [
-    "RSP",
-    "BRI"
-   ],
-   "cat": "politics",
    "val": 2,
    "teaser": false,
    "hits": 1
@@ -9124,7 +8917,7 @@
    "cat": "politics"
   }
  ],
- "updated": 1794935501,
+ "updated": 1794936062,
  "pending_since": 1794935456.9336126,
  "fb_blocks": [
   1790350880.4125228,
