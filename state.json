@@ -1911,28 +1911,6 @@
    "hits": 2
   },
   {
-   "title": "कर प्रशासनमा एआईदेखि डिजिटल स्टिकरसम्म, आन्तरिक राजस्व विभागका १५ संकल्प",
-   "summary": "कर प्रशासनमा डिजिटल पहुँच विस्तार गर्न आगामी माघदेखि विद्यमान कर प्रणालीलाई स्वचालनमा लैजाने गरी काम सुरू गर्ने पनि विभागले जनाएको छ।",
-   "link": "https://www.setopati.com/kinmel/economy/402774",
-   "source": "Setopati",
-   "ts": 1794913651,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "कर प्रशासनमा एआईदेखि डिजिटल स्टिकरसम्म, आन्तरिक राजस्व विभागका १५ संकल्प",
-   "en": "कर प्रशासनमा एआईदेखि डिजिटल स्टिकरसम्म, आन्तरिक राजस्व विभागका १५ संकल्प",
-   "ne": "कर प्रशासनमा एआईदेखि डिजिटल स्टिकरसम्म, आन्तरिक राजस्व विभागका १५ संकल्प",
-   "imp": 3,
-   "tags": [
-    "TaxAdministration",
-    "IRD"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": true,
-   "hits": 1
-  },
-  {
    "title": "Nepal-India economic partnership should not be hampered by political differences",
    "summary": "The contemporary Nepal-India relationship must be understood in the context of a world in great turmoil. The multilateral system is increasingly disordered, conflicts and wars are continuing, and the global energy...",
    "link": "https://english.onlinekhabar.com/nepal-india-economic-partnership.html",
@@ -1951,29 +1929,6 @@
     "Diplomacy"
    ],
    "cat": "politics",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Government Budget Expenditure Lags Despite Revenue Growth",
-   "summary": "Kathmandu. The government led by Balendra Shah, which has a two-thirds majority, has not been able to spend the budget...",
-   "link": "http://english.ratopati.com/story/87023/four-months-of-the-budget-enthusiasm-in-income-old-trend-in-expenditure-unchanged",
-   "source": "Ratopati EN",
-   "ts": 1794913436,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/budget_CRH5sof99O.webp",
-   "lang": "en",
-   "hl": "Government Budget Expenditure Lags Despite Revenue Growth",
-   "en": "Government Budget Expenditure Lags Despite Revenue Growth",
-   "ne": "Government Budget Expenditure Lags Despite Revenue Growth",
-   "imp": 3,
-   "tags": [
-    "Budget",
-    "GovernmentExpenditure",
-    "Revenue"
-   ],
-   "cat": "economy",
    "val": 2,
    "teaser": false,
    "hits": 1
@@ -2411,29 +2366,6 @@
     "MinisterYadav"
    ],
    "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "नेपाल टेलिकमको खुद नाफा ३७ प्रतिशतले वृद्धि",
-   "summary": "कम्पनीले सार्वजनिक गरेको अपरिष्कृत वित्तीय विवरणअनुसार समीक्षा अवधिमा खुद नाफा ३७.३५ प्रतिशतले बढेको हो।...",
-   "link": "https://nagariknews.nagariknetwork.com/economy/nepal-telecom-s-net-profit-increases-by-37-percent-71-98.html",
-   "source": "Nagarik News",
-   "ts": 1794913573,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1792397088_nepal%20telecom.jpg",
-   "lang": "ne",
-   "hl": "नेपाल टेलिकमको खुद नाफा ३७ प्रतिशतले वृद्धि",
-   "en": "नेपाल टेलिकमको खुद नाफा ३७ प्रतिशतले वृद्धि",
-   "ne": "नेपाल टेलिकमको खुद नाफा ३७ प्रतिशतले वृद्धि",
-   "imp": 3,
-   "tags": [
-    "NepalTelecom",
-    "Profit",
-    "Telecom"
-   ],
-   "cat": "economy",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -8123,8 +8055,8 @@
    "cat": "politics"
   }
  ],
- "updated": 1794942091,
- "pending_since": 1794941456.0510814,
+ "updated": 1794942673,
+ "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
