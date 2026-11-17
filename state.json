@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://english.khabarhub.com/2026/15/575646/": 1794712848.3432968,
-  "https://news.google.com/rss/articles/CBMiswFBVV95cUxQS09pS1pseHkxREU3djdpWlE0djZqblZ5b0Y4RWh5NnZEcFpwV1VTWFB4eTZDQ2JtNi1rVnVGRUhSZWdjU2JXa0VDN0w0d2pKOHRMdlc2eEd5TFJwVWZPazNZREdHalRkaVlxRUlIWUFLYVlGY25LSDQxU1IydllMYkIyZG9EQkdOakRwNUk5SDVwTEhCckt1TnBmZy14NlZ3eW1rT2VMYm1FWERUVjZ1V2hTUdIBwAFBVV95cUxQZVZNOFpfdkFZd2NOeHZ3dWdhSjViMl9VY3lNbEU2VHMwaFV6T2pCelA5M09xSHpJb2pfb0gtdGtyM1M0SmRieUMwR0pMMjc4b3hab3NQR21OOVZSVTZURndUSkJXSDNFb2lQOGdFbkRYbFQ1eDFLU3NXWFJ6Tm9JcThsX2hJWFkxZHNyXzdFNFd3YmF2V0RleGtXeFEtSEhKc0ozZFFqUHlxaUktSHdubDlXVXU2RW5IWnN3M2J3Tkw?oc=5": 1794712848.3432968,
   "http://english.ratopati.com/story/86701/chhath-sends-a-message-of-social-harmony-and-cultural-unity-oli": 1794713470.695846,
   "https://english.khabarhub.com/2026/15/575652/": 1794713470.695846,
   "https://www.ujyaaloonline.com/detail/133505": 1794713470.695846,
@@ -1701,7 +1699,8 @@
   "https://nagariknews.nagariknetwork.com/economy/6-banks-reduce-interest-rates-12-15.html": 1794884482.344424,
   "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMDJGTHR6NWdJdloxd1FTbDdMSHVxOEhhWmdDb1hxczFfYWN2cDNGYVVpMGQyMzV2NFNBbmlEU3hXM3EzY0dfSm9qdjBfZlFrZ19fbEJtZXpzbnh3UXpHelE4Vlcyc1pZbTVQcnBxNEd2eUlUUUJEb0VxOWE3VXBKRkNrRnF6NDdrSVR6MUxIWjZKdVNiVTdseEgyWnlvTmdJb3JaZ0ZBWDFiUDFWc2tDUVE2VnNzWmRWQUVWUFZQVTJaNjRZWV9RSElHcndEUG1CSWc?oc=5": 1794885053.7386153,
   "https://news.google.com/rss/articles/CBMilwFBVV95cUxPX2NuZU5UN21Gd0FfUkF4ZzBFOUVlbk1KTkRvdnJEWTNzc2xQVFE0Tk5vTi1pVnMwUFRSTUFRUlJ0dWJlUWlNZmI5TXllR2NabEpVcUw2RDE5ODY2Sm5heVpJbkd4Tlc4VlNITTNlX0xaQkppYzEwRHBXTGNhRU9IWVMyNTdGVjN0dEJmZDU0UHRkYlNyZENZ?oc=5": 1794885053.7386153,
-  "https://kathmandupost.com/climate-environment/2026/11/17/nepal-s-push-for-mountain-climate-action-features-in-cop31-draft-decision": 1794885053.7386153
+  "https://kathmandupost.com/climate-environment/2026/11/17/nepal-s-push-for-mountain-climate-action-features-in-cop31-draft-decision": 1794885053.7386153,
+  "https://www.ujyaaloonline.com/detail/133570": 1794885649.7491736
  },
  "queue": [
   {
@@ -3281,7 +3280,7 @@
    "cat": "economy",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "सुपथ मूल्य पसलबाट ४९ लाखको कारोबार",
@@ -3600,29 +3599,6 @@
    "val": 1,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "Far-Western Nepal Sees Alarming Rise in Road Accidents Despite Enforcement Efforts",
-   "summary": "Dhangadhi. Efforts are underway to take action against traffic rule violators, raise awareness among drivers, and improve accident-prone road sections...",
-   "link": "http://english.ratopati.com/story/86932/road-accidents-continue-unabated-in-the-far-west-awareness-campaigns-and-actions-are-increasing",
-   "source": "Ratopati EN",
-   "ts": 1794884335,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/bus-accident_k07G2NzvBd.webp",
-   "lang": "en",
-   "hl": "Far-Western Nepal Sees Alarming Rise in Road Accidents Despite Enforcement Efforts",
-   "en": "Far-Western Nepal Sees Alarming Rise in Road Accidents Despite Enforcement Efforts",
-   "ne": "Far-Western Nepal Sees Alarming Rise in Road Accidents Despite Enforcement Efforts",
-   "imp": 4,
-   "tags": [
-    "FarWesternNepal",
-    "RoadAccidents",
-    "TrafficSafety"
-   ],
-   "cat": "society",
-   "val": 2,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "दत्तात्रय मन्दिर",
@@ -6974,9 +6950,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "economy"
+  },
+  {
+   "ts": 1794885655.367616,
+   "en": "287 Road Accidents in Sudurpaschim Province in Kartik Leave 13 Dead",
+   "ne": "287 Road Accidents in Sudurpaschim Province in Kartik Leave 13 Dead",
+   "link": "http://english.ratopati.com/story/86932/road-accidents-continue-unabated-in-the-far-west-awareness-campaigns-and-actions-are-increasing",
+   "source": "Ratopati EN",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "society"
   }
  ],
- "updated": 1794885057,
+ "updated": 1794885665,
  "pending_since": 1794885053.7386153,
  "fb_blocks": [
   1790350880.4125228,
