@@ -1,8 +1,5 @@
 {
  "seen": {
-  "http://english.ratopati.com/story/86739/iran-drone-attack-in-bahrain": 1794731467.7771134,
-  "http://english.ratopati.com/story/86738/iran-drone-attack-in-bahrain-explosion-near-us-military-base": 1794731467.7771134,
-  "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUm1uZWdzR1lJWFo3SlluZjRjQ0pUQzhKRFd3M1VWVUdMU0pfNmU3UVFHZjM1Z2VrdE5yT0ZYUmRmUHBvcTQ3WWJIU0VydmNBVXBERjNuZHJhTzQweDYzd1lvVFVyd2Vac2dvejE2TkFlVnF6cXIxa2F5Z1pkbXZxTnlVT2dGME1tV0d4T1pVcDRmY2tsb09PbDJ5M0t4S0Ezbm54N3dZTGVSWENu?oc=5": 1794731467.7771134,
   "https://nagariknews.nagariknetwork.com/sports/npl-karnali-sets-chitwan-a-target-of-154-runs-35-70.html": 1794732049.5523849,
   "https://kathmandupost.com/cricket/2026/11/15/karnali-set-chitwan-a-target-of-154-in-final-league-match": 1794732049.5523849,
   "https://www.setopati.com/opinion/402619": 1794732049.5523849,
@@ -1731,7 +1728,10 @@
   "http://english.ratopati.com/story/86990/klopp-lashes-out-at-infantino-says-worse-than-sepp-blatter": 1794903058.0047448,
   "https://gorkhapatraonline.com/news/229356": 1794903058.0047448,
   "https://risingnepaldaily.com/news/88714": 1794903653.4223197,
-  "http://english.ratopati.com/story/86991/gagan-and-ravis-chhath-parva-faith-or-political-hypocrisy": 1794903653.4223197
+  "http://english.ratopati.com/story/86991/gagan-and-ravis-chhath-parva-faith-or-political-hypocrisy": 1794903653.4223197,
+  "https://news.google.com/rss/articles/CBMifkFVX3lxTE5QRjVmbjQtUHdQazhmZzU3Q0pSLUdjSTdkTS1IV09La3NDV05sbjU0SXR1MVB5UGZLaG5IX2FYSFZLZWJfR2N3NE1uQkVjczc2bS1uODJ6WE5DR2F1WmlndzkzNEJEOU5hT3h5YmtrckFzbXIwUm5LakNHeDRhUQ?oc=5": 1794904273.7354498,
+  "http://english.ratopati.com/story/86996/uml-standing-committee-meeting-begins-see-photos": 1794904273.7354498,
+  "https://www.setopati.com/politics/402755": 1794904273.7354498
  },
  "queue": [
   {
@@ -1797,48 +1797,6 @@
    "cat": "economy",
    "val": 1,
    "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "Weather Forecast: Partial Influence of Westerly Winds",
-   "summary": "Kathmandu. Currently, there is a partial influence of westerly winds in Nepal, the Department of Hydrology and Meteorology has informed....",
-   "link": "http://english.ratopati.com/story/86912/partial-influence-of-westerly-winds-persists-light-rain-likely-in-these-two-provinces-today",
-   "source": "Ratopati EN",
-   "ts": 1794875371,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/rain_rDpXgxB6yl.webp",
-   "lang": "en",
-   "hl": "Weather Forecast: Partial Influence of Westerly Winds",
-   "en": "Weather Forecast: Partial Influence of Westerly Winds",
-   "ne": "Weather Forecast: Partial Influence of Westerly Winds",
-   "imp": 2,
-   "tags": [
-    "WesterlyWinds"
-   ],
-   "cat": "disaster",
-   "val": 1,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "What is gynecomastia, what are treatment methods",
-   "summary": "Kathmandu, Nov. 17: In recent years, several cases of breast enlargement in men have been reported. When a man experienc...",
-   "link": "https://risingnepaldaily.com/news/88690",
-   "source": "Rising Nepal",
-   "ts": 1794875013,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "What is gynecomastia, what are treatment methods",
-   "en": "What is gynecomastia, what are treatment methods",
-   "ne": "What is gynecomastia, what are treatment methods",
-   "imp": 1,
-   "tags": [
-    "Gynecomastia"
-   ],
-   "cat": "health",
-   "val": 1,
-   "teaser": false,
    "hits": 1
   },
   {
@@ -1908,28 +1866,6 @@
    "hits": 2
   },
   {
-   "title": "किसान र बजारलाई जोड्दै हाट",
-   "summary": "नेपालको कृषि क्षेत्रको एउटा प्रमुख समस्या उत्पादनको अभाव मात्र होइन, उत्पादित वस्तुले उचित बजार र मूल्य नपाउनु पनि हो।...",
-   "link": "https://nagariknews.nagariknetwork.com/editorial/haat-connecting-farmers-and-markets-47-74.html",
-   "source": "Nagarik News",
-   "ts": 1794875129,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1767658562_Sampadakiya.jpg",
-   "lang": "ne",
-   "hl": "किसान र बजारलाई जोड्दै हाट",
-   "en": "किसान र बजारलाई जोड्दै हाट",
-   "ne": "किसान र बजारलाई जोड्दै हाट",
-   "imp": 2,
-   "tags": [
-    "Haat",
-    "Farmers"
-   ],
-   "cat": "economy",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "प्राकृतिक सौन्दर्यले भरिपूर्ण डिल्पु कुण्ड ओझेलमा",
    "summary": "रसुवा, मङ्सिर १ गते । हिमाली जिल्ला रसुवा प्राकृतिक सौन्दर्य, धार्मिक आस्था र जैविक विविधतामा धनी रहेको छ । यहाँको गोसाइँकुण्ड र पार्वतीकुण्डजस्ता गन्तव्य स्वदेश तथा विदेशमा परिचित...",
    "link": "https://gorkhapatraonline.com/news/229298",
@@ -1969,28 +1905,6 @@
     "Commission"
    ],
    "cat": "politics",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "नीतिगत व्यवस्थाले सहज बन्दै कार्बन व्यापार",
-   "summary": "काठमाडौँ, मङ्सिर १ गते । नेपालले नीतिगत आधारहरू बलियो बनाएसँगै विश्वव्यापी कार्बन व्यापारमा जाने मार्ग थप सहज भएको छ । नेपालको नीतिगत सहजताकै कारण टर्किएको एनताल्यामा जारी जलवायु प...",
-   "link": "https://gorkhapatraonline.com/news/229296",
-   "source": "Gorkhapatra",
-   "ts": 1794875454,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/391777/conversions/carbon-original.jpg",
-   "lang": "ne",
-   "hl": "नीतिगत व्यवस्थाले सहज बन्दै कार्बन व्यापार",
-   "en": "नीतिगत व्यवस्थाले सहज बन्दै कार्बन व्यापार",
-   "ne": "नीतिगत व्यवस्थाले सहज बन्दै कार्बन व्यापार",
-   "imp": 3,
-   "tags": [
-    "CarbonTrade",
-    "Policy"
-   ],
-   "cat": "economy",
    "val": 2,
    "teaser": false,
    "hits": 1
@@ -2638,7 +2552,7 @@
    "cat": "politics",
    "val": 2,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "बढ्दै छन् कफी पारखी",
@@ -2682,7 +2596,7 @@
    "cat": "politics",
    "val": 2,
    "teaser": false,
-   "hits": 3
+   "hits": 4
   },
   {
    "title": "बैंकमा किन थुप्रियो ८ खर्ब ?",
@@ -4003,7 +3917,7 @@
    "cat": "transport",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "करदाता प्रोत्साहनमा कसले पाए विक्रेता तर्फको पहिलो बम्पर पुरस्कार?",
@@ -4066,47 +3980,6 @@
     "MundumTrail"
    ],
    "cat": "culture",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Minister Chaudhary requests additional support from ADB",
-   "summary": "Nepal has urged the Asian Development Bank (ADB) to increase assistance to Nepal for the post-disaster reconstruction, climate-resilient infrastructure and the programmes relating to climate adaptation.Minister for...",
-   "link": "https://theannapurnaexpress.com/story/68807",
-   "source": "Annapurna Express",
-   "ts": 1794874855.8737705,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Minister Chaudhary requests additional support from ADB",
-   "en": "Minister Chaudhary requests additional support from ADB",
-   "ne": "Minister Chaudhary requests additional support from ADB",
-   "imp": 3,
-   "tags": [
-    "MinisterChaudhary",
-    "ADB"
-   ],
-   "cat": "politics",
-   "val": 2,
-   "teaser": false,
-   "hits": 4
-  },
-  {
-   "title": "Dubai flights raise hopes for Pokhara's tourism sector",
-   "summary": "Tourism operators want Prime Minister Balendra Shah to push for direct flights to Delhi and three additional air-entry points during his upcoming visit to India.",
-   "link": "https://kathmandupost.com/gandaki-province/2026/11/17/dubai-flights-raise-hopes-for-pokhara-s-tourism-sector",
-   "source": "Kathmandu Post",
-   "ts": 1794874855.672479,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Dubai flights raise hopes for Pokhara's tourism sector",
-   "en": "Dubai flights raise hopes for Pokhara's tourism sector",
-   "ne": "Dubai flights raise hopes for Pokhara's tourism sector",
-   "imp": 3,
-   "tags": [],
-   "cat": "tourism",
    "val": 2,
    "teaser": false,
    "hits": 1
@@ -4200,29 +4073,6 @@
    "cat": "culture",
    "val": 2,
    "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Trump to kick off Asia trip with Quad talks in Manila ahead of China visit",
-   "summary": "Trump will join the first Quad leaders' meeting in two years in Manila before heading to China for APEC and talks with Chinese and Russian leaders.",
-   "link": "https://kathmandupost.com/world/2026/11/17/trump-to-kick-off-asia-trip-with-quad-talks-in-manila-ahead-of-china-visit",
-   "source": "Kathmandu Post",
-   "ts": 1794874855.672479,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Trump to kick off Asia trip with Quad talks in Manila ahead of China visit",
-   "en": "Trump to kick off Asia trip with Quad talks in Manila ahead of China visit",
-   "ne": "Trump to kick off Asia trip with Quad talks in Manila ahead of China visit",
-   "imp": 3,
-   "tags": [
-    "Trump",
-    "Quad",
-    "Manila"
-   ],
-   "cat": "politics",
-   "val": 2,
-   "teaser": true,
    "hits": 1
   },
   {
@@ -7522,17 +7372,6 @@
  ],
  "posted": [
   {
-   "ts": 1794298866.585587,
-   "en": "Seven held in Rupandehi for setting off firecrackers, one injured",
-   "ne": "Seven held in Rupandehi for setting off firecrackers, one injured",
-   "link": "https://kathmandupost.com/province-no-5/2026/11/10/seven-held-for-setting-off-firecrackers-in-rupandehi-one-injured",
-   "source": "Kathmandu Post",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "crime"
-  },
-  {
    "ts": 1794300663.7025151,
    "en": "Madhesh CM Krishna Yadav Prepares to Resign Amid Vote Crisis",
    "ne": "Madhesh CM Krishna Yadav Prepares to Resign Amid Vote Crisis",
@@ -10514,7 +10353,7 @@
    "cat": "crime"
   }
  ],
- "updated": 1794903677,
+ "updated": 1794904277,
  "pending_since": 1794903653.4223197,
  "fb_blocks": [
   1790350880.4125228,
