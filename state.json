@@ -1,8 +1,5 @@
 {
  "seen": {
-  "https://risingnepaldaily.com/news/88625": 1794706261.2293403,
-  "https://gorkhapatraonline.com/news/229098": 1794706261.2293403,
-  "https://risingnepaldaily.com/news/88622": 1794706261.2293403,
   "https://english.khabarhub.com/2026/15/575630/": 1794707455.1079688,
   "https://risingnepaldaily.com/news/88628": 1794707455.1079688,
   "https://gorkhapatraonline.com/news/229101": 1794707455.1079688,
@@ -1666,7 +1663,8 @@
   "http://english.ratopati.com/story/86915/epstein-expert-claims-murder-took-place-inside-prison": 1794877280.9783168,
   "http://english.ratopati.com/story/86918/newly-appointed-ambassador-pandey-to-leave-for-india-today": 1794877853.478965,
   "http://english.ratopati.com/story/86917/muktinath-rath-yatra-concludes-month-long-mahayagya-begins-today": 1794877853.478965,
-  "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWEN1ZHZwUjB5UkpkdjBIUHZxWWhrdDZySFlrWWNyQmRUR3ZndHhYRXQ4SVNrd0YwNFpzLTVYeGNlWVFCYm1wNDgxV3ZVTUdJUVk4Z1djRWwtelZ1Ymw3WVZJeVJEVTFQR3kzckVleXN5aVpUOVZFZjZZYzZEUzBjVGY0U0h5R1IxbHJGcnBEOUZsWmtFd1cyV2tsTThQMkhP?oc=5": 1794878451.961959
+  "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWEN1ZHZwUjB5UkpkdjBIUHZxWWhrdDZySFlrWWNyQmRUR3ZndHhYRXQ4SVNrd0YwNFpzLTVYeGNlWVFCYm1wNDgxV3ZVTUdJUVk4Z1djRWwtelZ1Ymw3WVZJeVJEVTFQR3kzckVleXN5aVpUOVZFZjZZYzZEUzBjVGY0U0h5R1IxbHJGcnBEOUZsWmtFd1cyV2tsTThQMkhP?oc=5": 1794878451.961959,
+  "https://baahrakhari.com/detail/507484": 1794879069.8054633
  },
  "queue": [
   {
@@ -1690,29 +1688,6 @@
    "cat": "health",
    "val": 3,
    "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "भारत, अमेरिकासहित १० देशको प्रविधि गठबन्धन, के गर्छ यसले ?",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/507469",
-   "source": "Baahrakhari",
-   "ts": 1794850221,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "भारत, अमेरिकासहित १० देशको प्रविधि गठबन्धन, के गर्छ यसले ?",
-   "en": "भारत, अमेरिकासहित १० देशको प्रविधि गठबन्धन, के गर्छ यसले ?",
-   "ne": "भारत, अमेरिकासहित १० देशको प्रविधि गठबन्धन, के गर्छ यसले ?",
-   "imp": 3,
-   "tags": [
-    "TechAlliance",
-    "IndiaUS",
-    "Innovation"
-   ],
-   "cat": "tech",
-   "val": 2,
-   "teaser": true,
    "hits": 1
   },
   {
@@ -2157,7 +2132,7 @@
    "cat": "world",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "किसान र बजारलाई जोड्दै हाट",
@@ -2336,17 +2311,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1794273659.4497094,
-   "en": "नेपाल संवत् ११४७ आजदेखि शुरु, नेवार समुदायद्वारा म्हः पूजा गरिँदै",
-   "ne": "नेपाल संवत् ११४७ आजदेखि शुरु, नेवार समुदायद्वारा म्हः पूजा गरिँदै",
-   "link": "https://www.ujyaaloonline.com/detail/133348",
-   "source": "Ujyaalo",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "culture"
-  },
   {
    "ts": 1794275457.2672303,
    "en": "India revises Agnipath rules, but Nepal Gorkha recruitment deadlock remains",
@@ -5329,7 +5293,7 @@
    "cat": "sports"
   }
  ],
- "updated": 1794878474,
+ "updated": 1794879092,
  "pending_since": 1794877280.9783168,
  "fb_blocks": [
   1790350880.4125228,
