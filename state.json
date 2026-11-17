@@ -1687,7 +1687,9 @@
   "https://risingnepaldaily.com/news/88695": 1794879660.7995417,
   "https://risingnepaldaily.com/news/88694": 1794879660.7995417,
   "https://risingnepaldaily.com/news/88693": 1794879660.7995417,
-  "https://risingnepaldaily.com/news/88692": 1794879660.7995417
+  "https://risingnepaldaily.com/news/88692": 1794879660.7995417,
+  "http://english.ratopati.com/story/86922/congresss-we-are-ready-campaign-begins-today": 1794880249.7399466,
+  "https://www.ujyaaloonline.com/detail/133565": 1794880249.7399466
  },
  "queue": [
   {
@@ -2486,28 +2488,6 @@
    "hits": 1
   },
   {
-   "title": "PM Balen Shah's India Visit Agenda Focuses on Agriculture Cooperation, Fertilizer Plant",
-   "summary": "Kathmandu. The cabinet's formal agenda approval is still pending for Prime Minister Balendra (Balen) Shah's India visit, scheduled for the...",
-   "link": "http://english.ratopati.com/story/86919/agriculture-aspect-of-prime-ministers-visit-to-india-what-else-is-there-besides-the-chemical-fertilizer-factory",
-   "source": "Ratopati EN",
-   "ts": 1794878782,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/balen_qWnvAyXQqk.webp",
-   "lang": "en",
-   "hl": "PM Balen Shah's India Visit Agenda Focuses on Agriculture Cooperation, Fertilizer Plant",
-   "en": "PM Balen Shah's India Visit Agenda Focuses on Agriculture Cooperation, Fertilizer Plant",
-   "ne": "PM Balen Shah's India Visit Agenda Focuses on Agriculture Cooperation, Fertilizer Plant",
-   "imp": 4,
-   "tags": [
-    "AgricultureCooperation",
-    "FertilizerPlant"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Aathpahariya festival begins in Dhankuta",
    "summary": "By Our Correspondent Dhankuta, Nov. 17: The month-long Wadangmet (Mansire) festival, the main festival of the marginalis...",
    "link": "https://risingnepaldaily.com/news/88700",
@@ -2786,6 +2766,30 @@
    "tags": [
     "Humla",
     "AppleProduction"
+   ],
+   "cat": "economy",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "बाढीपछिको पुनर्निर्माण र जलवायु अनुकूलनमा सहयोग बढाउन एडीबीसँग आग्रह",
+   "summary": "नेपालले बाढीबाट प्रभावित क्षेत्रको पुनर्निर्माण कार्यक्रमका लागि एशियाली विकास बैंक (एडीबी) लाई सहयोग बढाउन आग्रह गरेको छ ।",
+   "link": "https://www.ujyaaloonline.com/detail/133565",
+   "source": "Ujyaalo",
+   "ts": 1794880080,
+   "weight": 2,
+   "img": "https://www.ujyaaloonline.com/uploads/posts/gita_chaudhary_781JqPeCV6.jpg",
+   "lang": "ne",
+   "hl": "बाढीपछिको पुनर्निर्माण र जलवायु अनुकूलनमा सहयोग बढाउन एडीबीसँग आग्रह",
+   "en": "बाढीपछिको पुनर्निर्माण र जलवायु अनुकूलनमा सहयोग बढाउन एडीबीसँग आग्रह",
+   "ne": "बाढीपछिको पुनर्निर्माण र जलवायु अनुकूलनमा सहयोग बढाउन एडीबीसँग आग्रह",
+   "imp": 3,
+   "tags": [
+    "ADB",
+    "ClimateChange",
+    "Reconstruction",
+    "वाढीपछिकोपुनर्निर्माण"
    ],
    "cat": "economy",
    "val": 2,
@@ -5774,10 +5778,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "sports"
+  },
+  {
+   "ts": 1794880258.1416,
+   "en": "PM Balen Shah plans India visit in second week of Mangsir to discuss agriculture cooperation and fertilizer MOU",
+   "ne": "PM Balen Shah plans India visit in second week of Mangsir to discuss agriculture cooperation and fertilizer MOU",
+   "link": "http://english.ratopati.com/story/86919/agriculture-aspect-of-prime-ministers-visit-to-india-what-else-is-there-besides-the-chemical-fertilizer-factory",
+   "source": "Ratopati EN",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "politics"
   }
  ],
- "updated": 1794879674,
- "pending_since": null,
+ "updated": 1794880274,
+ "pending_since": 1794880249.7399466,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
