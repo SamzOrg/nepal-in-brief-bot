@@ -1858,29 +1858,6 @@
    "hits": 2
   },
   {
-   "title": "इलामका किसानलाई धान थन्क्याउने चटारो",
-   "summary": "प्रकाश नेपालइलाम, कात्तिक ३० गते । इलामका किसानलाई यतिबेला धान काटेर थन्क्याउने चटारो छ । खेतमा धान पाकेर पहेँलपुर भएपछि किसानहरू धमाधम धान काट्ने, सुकाउने र भित्र्याउने काममा जुटे...",
-   "link": "https://gorkhapatraonline.com/news/229289",
-   "source": "Gorkhapatra",
-   "ts": 1794846296,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/391768/conversions/dhan-kheti-amchok-original.jpg",
-   "lang": "ne",
-   "hl": "इलामका किसानलाई धान थन्क्याउने चटारो",
-   "en": "इलामका किसानलाई धान थन्क्याउने चटारो",
-   "ne": "इलामका किसानलाई धान थन्क्याउने चटारो",
-   "imp": 2,
-   "tags": [
-    "IlamFarmers",
-    "RiceFlooding",
-    "Agriculture"
-   ],
-   "cat": "economy",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "40 percent of people with diabetes unaware of their condition",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWGxBVGQwZVpxVVdOZmxFYnE0TjZtdnl5OUhHVFZyblQ1Sm96SGxxRlZyUzZlejc5TEE1Y3RYeTZkZVlEempjUGt1X0RhLUdzdEhxUEdsZXhYVTdmdDdqc2ZsTmk3VGlwNTJFSUQ3TldVc3dmbDdWRktzMm81U1JTNXN4MFNqQ3BkXzZZZzRoWDQ5UkU5V3M0ZkhuTmszRTNWTWJaOTlabERjazZrRUh3LUpYNWMyN05XcUJUMw?oc=5",
@@ -2175,17 +2152,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1794270088.1142185,
-   "en": "Katnukhola bridge in Ratuwamai, Morang completed 10 months ahead of schedule",
-   "ne": "Katnukhola bridge in Ratuwamai, Morang completed 10 months ahead of schedule",
-   "link": "http://english.ratopati.com/story/86174/katanukhola-was-built-10-months-ahead-of-the-contract-period",
-   "source": "Ratopati EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "society"
-  },
   {
    "ts": 1794271856.7824376,
    "en": "Nepal's August 2026 Floods Spark Debate on Climate Litigation Against Major Emitters",
@@ -5168,8 +5134,8 @@
    "cat": "economy"
   }
  ],
- "updated": 1794874887,
- "pending_since": null,
+ "updated": 1794875474,
+ "pending_since": 1794875470.6231685,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
