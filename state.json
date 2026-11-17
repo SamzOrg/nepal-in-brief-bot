@@ -1763,123 +1763,11 @@
   "https://gorkhapatraonline.com/news/229371": 1794911474.5774534,
   "http://english.ratopati.com/story/87011/when-the-doctor-said-singer-anil-singhs-leg-had-to-be-amputated": 1794911474.5774534,
   "https://gorkhapatraonline.com/news/229370": 1794911474.5774534,
-  "http://english.ratopati.com/story/87010/government-plans-to-expand-coffee-farming-limited-to-gulmi-and-gandaki-to-western-nepal-secretary-dr-mishra": 1794911474.5774534
+  "http://english.ratopati.com/story/87010/government-plans-to-expand-coffee-farming-limited-to-gulmi-and-gandaki-to-western-nepal-secretary-dr-mishra": 1794911474.5774534,
+  "https://gorkhapatraonline.com/news/229376": 1794911926.4498196,
+  "https://nagariknews.nagariknetwork.com/politics/energy-minister-shrestha-meets-with-indian-ambassador-dalela-br-81-92.html": 1794911926.4498196
  },
  "queue": [
-  {
-   "title": "Indian Couple and Son Apprehended with Heroin in Morang",
-   "summary": "Morang. An Indian couple and their son have been taken into custody with banned narcotic drug brown heroin from Rangeli...",
-   "link": "http://english.ratopati.com/story/86930/three-indian-nationals-arrested-with-brown-heroin",
-   "source": "Ratopati EN",
-   "ts": 1794883014,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/crime-arrest-group_3_4GHHJE5ZrB.jpg",
-   "lang": "en",
-   "hl": "Indian Couple and Son Apprehended with Heroin in Morang",
-   "en": "Indian Couple and Son Apprehended with Heroin in Morang",
-   "ne": "Indian Couple and Son Apprehended with Heroin in Morang",
-   "imp": 3,
-   "tags": [
-    "Heroin",
-    "Morang",
-    "DrugArrest"
-   ],
-   "cat": "crime",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Respite To Flood Victims",
-   "summary": "The Bhotekoshi flash flood that struck four districts in central Nepal on August 26 caused heavy loss of life and extens...",
-   "link": "https://risingnepaldaily.com/news/88705",
-   "source": "Rising Nepal",
-   "ts": 1794882965,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Respite To Flood Victims",
-   "en": "Respite To Flood Victims",
-   "ne": "Respite To Flood Victims",
-   "imp": 3,
-   "tags": [
-    "FloodVictims",
-    "Relief",
-    "बाढी"
-   ],
-   "cat": "disaster",
-   "val": 1,
-   "teaser": false,
-   "hits": 3
-  },
-  {
-   "title": "आज राष्ट्रिय कर दिवस मनाइँदै",
-   "summary": "आज राष्ट्रिय कर दिवस, विभिन्न कार्यक्रम गरी मनाइँदै छ ।",
-   "link": "https://www.ujyaaloonline.com/detail/133568",
-   "source": "Ujyaalo",
-   "ts": 1794882964,
-   "weight": 2,
-   "img": "https://www.ujyaaloonline.com/uploads/posts/tax1_EZhFv5vdoa.jpg",
-   "lang": "ne",
-   "hl": "आज राष्ट्रिय कर दिवस मनाइँदै",
-   "en": "आज राष्ट्रिय कर दिवस मनाइँदै",
-   "ne": "आज राष्ट्रिय कर दिवस मनाइँदै",
-   "imp": 2,
-   "tags": [
-    "TaxDay",
-    "NationalTaxDay",
-    "करदिवस"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 5
-  },
-  {
-   "title": "सुपथ मूल्य पसलबाट ४९ लाखको कारोबार",
-   "summary": "घोराही समाचारदाताघोराही, मंसिर १ गते । घोराहीमा सञ्चालन भएको चाडपर्व लक्षित सुपथ मूल्य पसलबाट ४९ लाख रुपियाँभन्दा बढीको चिनी र नुन बिक्री भएको छ । दसैँ, तिहार र छठ पर्वलाई लक्षित ग...",
-   "link": "https://gorkhapatraonline.com/news/229312",
-   "source": "Gorkhapatra",
-   "ts": 1794882875,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/391798/conversions/Ghorahi-supatha-original.jpg",
-   "lang": "ne",
-   "hl": "सुपथ मूल्य पसलबाट ४९ लाखको कारोबार",
-   "en": "सुपथ मूल्य पसलबाट ४९ लाखको कारोबार",
-   "ne": "सुपथ मूल्य पसलबाट ४९ लाखको कारोबार",
-   "imp": 2,
-   "tags": [
-    "FairPriceShop",
-    "सुपथमूल्यपसल"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Discovering Nepal Thru New Ken",
-   "summary": "It has been a little over two months since I arrived in Nepal at the end of August. Beginning a new diplomatic assignmen...",
-   "link": "https://risingnepaldaily.com/news/88704",
-   "source": "Rising Nepal",
-   "ts": 1794882855,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Discovering Nepal Thru New Ken",
-   "en": "Discovering Nepal Thru New Ken",
-   "ne": "Discovering Nepal Thru New Ken",
-   "imp": 1,
-   "tags": [
-    "Tourism",
-    "Photography",
-    "Nepal"
-   ],
-   "cat": "culture",
-   "val": 1,
-   "teaser": true,
-   "hits": 3
-  },
   {
    "title": "विद्युत् आयोजनाको पुनर्निर्माण",
    "summary": "गत भदौ १० गते भोटेकोशी नदीमा आएको महाविनाशकारी हिमबाढी र पहिरोले ठुलो जनधनको क्षति भयो । यसले नदीकिनारमा बनेका र बन्दै गरेका विद्युत् आयोजनाका बाँध, इन्टेक, सुरुङ, पावरहाउस, पहुँचम...",
@@ -1970,29 +1858,6 @@
    "cat": "world",
    "val": 3,
    "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Travelling to Nepal or Bhutan? Check India's new 2026 immigration rules, valid IDs and passport norms",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNWk54YXFVWlhncExZbFMtbkF4TFhUbXNOZXJnQ2VPb3NSYUtWOEFOdHRZbTl6UWJzRE85Z0pmVWJFVEt2MkFQUTBhUTY4N2tuSWVQeklTZU9iSE1uZjB2VDhXWFpscUY5WlNFdFdEVEtRd1lrSFlnVEtFREJHcVBNUmNhNnhjMTZhYnlpMkZmTUtIeW9ZX1h2OV9JcFpUMXdTTUdXTWJJa1BxMzZ6d3UxdVBDc2ZjejhhSlMwNzZ0RFlCbzhxdUoyNVEtc3MxZ2VWOEUza1NlZGhtN2JuNGNUR9IB7gFBVV95cUxQTVVWVExOTS12Nkgybk1mS2tyNThBVkIwQ2VPR19zR3NrUnZtWmxoVWxrQTJUekRfd0UzMl9uamNiYVlUOUxIc3JoWHA2dktfTkc3Ny1NQzgtcjAySHJYV245dkgtM0h5OVZNYUh2TFg3RmEwR0I2ZC1UNkhYb09WNW4xQ3F5dXFFeVZDYlhwbUQtVloyOFVuLXVNMjhPMXlmSHdhem1veUdMWXlYS3hZM1UzOW1CWlJVY0E0S3hQdXNvWi1kalJiLURMbGNlOUpsMEIwcHVVNVp3SVRCTDE2M24zWmY3UVJNbE1kTU53?oc=5",
-   "source": "IndulgExpress",
-   "ts": 1794882999,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Travelling to Nepal or Bhutan? Check India's new 2026 immigration rules, valid IDs and passport norms",
-   "en": "Travelling to Nepal or Bhutan? Check India's new 2026 immigration rules, valid IDs and passport norms",
-   "ne": "Travelling to Nepal or Bhutan? Check India's new 2026 immigration rules, valid IDs and passport norms",
-   "imp": 3,
-   "tags": [
-    "IndiaImmigration",
-    "TravelRules",
-    "Nepal"
-   ],
-   "cat": "world",
-   "val": 1,
-   "teaser": true,
    "hits": 1
   },
   {
@@ -2106,29 +1971,6 @@
     "Inclusion"
    ],
    "cat": "culture",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "सामूहिक फूलखेतीले दिलाएको सफलता",
-   "summary": "तिहारमा सयपत्री फूलको माग बढेसँगै तनहुँको आँबुखैरेनीका किसानले रु ११ लाख बराबरको फूल बिक्री गरेका छन्।...",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/the-success-of-collective-flower-farming-br-28-50.html",
-   "source": "Nagarik News",
-   "ts": 1794882810,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1760574485_flower.jpg",
-   "lang": "ne",
-   "hl": "सामूहिक फूलखेतीले दिलाएको सफलता",
-   "en": "सामूहिक फूलखेतीले दिलाएको सफलता",
-   "ne": "सामूहिक फूलखेतीले दिलाएको सफलता",
-   "imp": 2,
-   "tags": [
-    "Floriculture",
-    "Agriculture",
-    "फूलखेती"
-   ],
-   "cat": "economy",
    "val": 2,
    "teaser": false,
    "hits": 1
@@ -4191,7 +4033,7 @@
    "cat": "culture",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Rare Bird 'Kande Vyakur' Recorded for First Time in Arghakhanchi",
@@ -7465,7 +7307,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "हिमाल र जैविक विविधताको अनुपम गन्तव्य मर्दी पदमार्ग",
@@ -10543,8 +10385,8 @@
    "cat": "world"
   }
  ],
- "updated": 1794911484,
- "pending_since": null,
+ "updated": 1794911937,
+ "pending_since": 1794911926.4498196,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
