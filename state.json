@@ -1723,7 +1723,13 @@
   "http://english.ratopati.com/story/86980/bill-being-introduced-to-broaden-the-scope-of-punishment": 1794900056.7240884,
   "https://baahrakhari.com/detail/507511": 1794900056.7240884,
   "https://gorkhapatraonline.com/news/229351": 1794900056.7240884,
-  "https://english.onlinekhabar.com/government-spends-23-37-of-annual-budget-in-first-four-months.html": 1794900056.7240884
+  "https://english.onlinekhabar.com/government-spends-23-37-of-annual-budget-in-first-four-months.html": 1794900056.7240884,
+  "https://english.onlinekhabar.com/traffic-police-seize-401-motorcycles-in-bullet-operation-crackdown.html": 1794900675.4441056,
+  "https://english.khabarhub.com/2026/17/575889/": 1794900675.4441056,
+  "https://english.onlinekhabar.com/nepal-bhutan-and-kyrgyzstans-in-cop31.html": 1794900675.4441056,
+  "http://english.ratopati.com/story/86987/hours-long-queues-for-services-at-government-hospitals-that-reopened-after-consecutive-holidays-photos": 1794900675.4441056,
+  "https://english.khabarhub.com/2026/17/575887/": 1794900675.4441056,
+  "https://nagariknews.nagariknetwork.com/economy/nepal-s-sovereign-credit-rating-score-increases-to-3-66-br-19-14.html": 1794900675.4441056
  },
  "queue": [
   {
@@ -5479,7 +5485,7 @@
    "cat": "society",
    "val": 3,
    "teaser": false,
-   "hits": 3
+   "hits": 4
   },
   {
    "title": "Animal Slaughterhouse and Meat Inspection Act, 2055 Enforced After 28 Years",
@@ -5569,7 +5575,7 @@
    "cat": "sports",
    "val": 3,
    "teaser": false,
-   "hits": 3
+   "hits": 4
   },
   {
    "title": "सानिमा माई हाइड्रोपावरले १५ प्रतिशत लाभांश दिने, बोनस सेयर कति?",
@@ -5887,7 +5893,7 @@
    "cat": "world",
    "val": 3,
    "teaser": false,
-   "hits": 5
+   "hits": 6
   },
   {
    "title": "प्रधानमन्त्री कपका लागि लुम्बिनीमा महिला क्रिकेट छनोट सुरु",
@@ -6140,7 +6146,7 @@
    "cat": "society",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "राप्रपाको कार्यक्रममा बजाइयो 'श्रीमान् गम्भीर नेपाली', पार्टीभित्रै उठ्यो प्रश्न",
@@ -6525,7 +6531,7 @@
    "cat": "economy",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "३७ दिनपछि उत्तरी गोरखामा बल्यो बिजुली",
@@ -6946,17 +6952,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1794295282.4462574,
-   "en": "PETA Demands Ban on Elephant Games at Chitwan Festival After Supreme Court Ruling",
-   "ne": "PETA Demands Ban on Elephant Games at Chitwan Festival After Supreme Court Ruling",
-   "link": "http://english.ratopati.com/story/86182/peta-demands-to-stop-games-at-chitwan-elephant-festival",
-   "source": "Ratopati EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "society"
-  },
   {
    "ts": 1794297065.5038285,
    "en": "प्रधानमन्त्री शाहको आसन्न भारत भ्रमणको एजेन्डा तय गर्न मन्त्रालयहरू जुटे",
@@ -9939,7 +9934,7 @@
    "cat": "society"
   }
  ],
- "updated": 1794900081,
+ "updated": 1794900679,
  "pending_since": 1794900056.7240884,
  "fb_blocks": [
   1790350880.4125228,
