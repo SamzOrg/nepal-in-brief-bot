@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUkNGb0lrck0taTNtbS1WSktoWVQ0dkZHTXRBNHpOa0pnX1IzaUk1elpUclZEV0xUbXphbWJWZXZEUmVtSW12ZzRlXzdzWjNQck9BNUxLWkUxcDNSRXlMR3F5SDFYNmpoam91bThPeW80U2xKMC1kMTdqVTZRSi1RNUNBbVJDUFhZaVR4MTBNZkN3bks4dTE3OTRhOGVFZlQxYl9Bdk1KQnhFLWo1MGVuZWxadExmY1NEa0ZyUU5zUQ?oc=5": 1794781247.9672303,
-  "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOUdjTkVMelE4WVhtbFBBcE5FRjdORGRXNmx0SWFuMFFfTWRMNU8xN3hKUVVabFd6Y0N5RzNfdlJvaW4ySzVlVVFBUEtEYWg1M1FMM3dFVEhYc2lEOGN0T0ptYW9KOHdzUkY3NXppREtza2R4WTZrVFV0N0dLeGRlWk5BSEM?oc=5": 1794781247.9672303,
   "http://english.ratopati.com/story/86780/us-dollar-to-qatari-riyal-here-is-todays-exchange-rate": 1794786052.292785,
   "https://www.ujyaaloonline.com/detail/133527": 1794786653.8283463,
   "https://gorkhapatraonline.com/news/229190": 1794786653.8283463,
@@ -1858,29 +1856,6 @@
    "hits": 1
   },
   {
-   "title": "Kathmandu Administration Prepares to Open Markets 24 Hours",
-   "summary": "Kathmandu. The District Administration Office Kathmandu has started preparations to open trade, business and market areas throughout the district 24...",
-   "link": "http://english.ratopati.com/story/87030/kathmandu-district-to-open-24-hours-a-day-existing-hours-to-remain-in-effect-for-now",
-   "source": "Ratopati EN",
-   "ts": 1794924663,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/ktm_6yhN9UWIM8.webp",
-   "lang": "en",
-   "hl": "Kathmandu Administration Prepares to Open Markets 24 Hours",
-   "en": "Kathmandu Administration Prepares to Open Markets 24 Hours",
-   "ne": "Kathmandu Administration Prepares to Open Markets 24 Hours",
-   "imp": 3,
-   "tags": [
-    "Kathmandu",
-    "Markets",
-    "Business"
-   ],
-   "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "नेपाली सेनाको प्रवक्तमा सहायक रथी राजेन्द्र श्रेष्ठ नियुक्त",
    "summary": "जंगी अड्डा स्रोतका अनुसार श्रेष्ठले यसै साता सैनिक जनसम्पर्क तथा सूचना निर्देशनालयको नेतृत्व सम्हाल्ने तयारी छ।...",
    "link": "https://nagariknews.nagariknetwork.com/social-affairs/assistant-lieutenant-general-rajendra-shrestha-appointed-as-nepal-army-spokesperson-38-98.html",
@@ -2954,30 +2929,6 @@
     "Arrest"
    ],
    "cat": "crime",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Sentinel-2 captures before and after Nepal flash flood",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZXRObk9maDdpaE5PUDRoRnYwSzNyREJqWWNHTVhmeVI3RG5JVVJ6NFVwYkE0NUlMeG0zU2RZX1UyaGxoS3ozRnFSVU9kZjFXMWN1RlpIbUJHelJSVzBZblF1bnJvcmpnazlKQ3pNZ1hlNG5uNEpRLWhCSnA3c0I4dzVwNXpKZlB4dkVF?oc=5",
-   "source": "ESA",
-   "ts": 1794928324,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Sentinel-2 captures before and after Nepal flash flood",
-   "en": "Sentinel-2 captures before and after Nepal flash flood",
-   "ne": "Sentinel-2 captures before and after Nepal flash flood",
-   "imp": 4,
-   "tags": [
-    "Sentinel2",
-    "FlashFlood",
-    "Nepal",
-    "बाढी"
-   ],
-   "cat": "disaster",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -6073,9 +6024,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "politics"
+  },
+  {
+   "ts": 1794954064.8881142,
+   "en": "Sentinel-2 satellite captures before and after images of northern Nepal flash flood",
+   "ne": "Sentinel-2 satellite captures before and after images of northern Nepal flash flood",
+   "link": "https://www.esa.int/el/media/sentinel-2-captures-before-and-after-nepal-flash-flood",
+   "source": "ESA",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "disaster"
   }
  ],
- "updated": 1794953454,
+ "updated": 1794954077,
  "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
