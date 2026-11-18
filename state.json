@@ -1,10 +1,5 @@
 {
  "seen": {
-  "https://gorkhapatraonline.com/news/229248": 1794814268.791751,
-  "https://english.onlinekhabar.com/elderly-man-found-dead-in-suspicious-circumstances-at-chhath-ghat-in-dhanusha.html": 1794814268.791751,
-  "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONWh1dHJ4dW5TeHBqQUJOSWxJbWJycW9DVW40QzNNeElYQnFYc3Z1MmNlaVF1MWoxRzFaSGdfak0wVy0yWTEwcUpuYm5XUkZ5X2Q5dmVLYzFnMl9nR3MxdnJHa2lDbWZYT25FeGw2OVg5ZlJoUkJGRkZhMkZCVllvd1dWWVNaS0NBVWRGbFU1bkhlWnl4dTRoZHRKMy0wa001ZFl0YkRZbGlKRnJRS29oaEF4dWgxQ1g2bXZjVVlQbDY?oc=5": 1794814268.791751,
-  "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeXRTSEUwR3VrMmUyWGFQSE1aUWhVeE5fem5LekVFT2w3ZGVIcXpQWjdtU2tCcnFmMFdaTFZJZGxUd1lHaXhQWEZ0UzVJN293b2FYNGMyeFJDWVFBT092Y3ZQeUpjazBleUJZMGFKRzQwVE96aGpJVktGcHVkNllEaFBaLUh3NnNxUm1LUjRQejdnZ1BRVW53d3FBV1lsd1JLa3BQTkZn?oc=5": 1794814268.791751,
-  "https://kathmandupost.com/national/2026/11/16/bhutanese-rights-groups-urge-shah-to-raise-refugee-issue-with-india": 1794814268.791751,
   "https://english.onlinekhabar.com/15-arrested-for-gambling-in-dangs-tulsipur.html": 1794814852.8854463,
   "http://english.ratopati.com/story/86833/pakistani-ambassador-hosts-dinner-for-sudurpaschim-coach-misbah": 1794814852.8854463,
   "https://nagariknews.nagariknetwork.com/sports/jay-shah-elected-unopposed-as-icc-president-for-second-term-73-57.html": 1794814852.8854463,
@@ -1847,7 +1842,12 @@
   "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUG1JVm9MMzB4VnkzaUxRWmZ1cUtENTN5Q0pLS0JKUk1zQnNPd254aXdXT2s1Z1VJb1lMZ3R3NU1PSHR4cWcyOTJfcXQyUW51U0ZTTFRoUUk3WWJaWkxMQ3pXQUktdER4ZkhLVjNUOExLTW5WdEVkYlFyT1dVRERrMDNBTjBUekJmTFhTekRWQ1VJak1xOUhUUGdYaFJobzZtZ2piZ3llYnpPeDRyRFE?oc=5": 1794986454.0805008,
   "https://theannapurnaexpress.com/story/68844": 1794986454.0805008,
   "https://baahrakhari.com/detail/507612": 1794986454.0805008,
-  "https://nagariknews.nagariknetwork.com/politics/uml-cadres-should-not-only-ask-questions-but-also-answer-them-secretary-aryal-61-56.html": 1794986454.0805008
+  "https://nagariknews.nagariknetwork.com/politics/uml-cadres-should-not-only-ask-questions-but-also-answer-them-secretary-aryal-61-56.html": 1794986454.0805008,
+  "http://english.ratopati.com/story/87107/prime-minister-balen-meets-with-newly-appointed-indian-ambassador-dalela": 1794987073.3025894,
+  "https://english.onlinekhabar.com/indian-ambassador-dalela-meets-balen.html": 1794987073.3025894,
+  "https://baahrakhari.com/detail/507616": 1794987073.3025894,
+  "https://nagariknews.nagariknetwork.com/politics/foreign-minister-khanal-urges-chinese-side-to-immediately-open-tatopani-border-crossing-br-59-94.html": 1794987073.3025894,
+  "https://theannapurnaexpress.com/story/68849": 1794987073.3025894
  },
  "queue": [
   {
@@ -2533,7 +2533,7 @@
    "cat": "politics",
    "val": 2,
    "teaser": false,
-   "hits": 6
+   "hits": 7
   },
   {
    "title": "स्रोत नखुलेको १ करोड ६७ लाखसहित ललितपुरबाट तीन जना पक्राउ",
@@ -6533,7 +6533,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Man Utd teenager Gabriel announces departure amid expected Real Madrid move",
@@ -10230,8 +10230,8 @@
    "cat": "crime"
   }
  ],
- "updated": 1794986485,
- "pending_since": null,
+ "updated": 1794987081,
+ "pending_since": 1794987073.3025894,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
