@@ -1872,7 +1872,8 @@
   "http://english.ratopati.com/story/87151/the-system-requiring-victims-to-provide-witnesses-in-sexual-violence-cases-should-be-abolished-mp-bk": 1794997882.0167599,
   "https://gorkhapatraonline.com/news/229491": 1794997882.0167599,
   "https://www.setopati.com/literature/402848": 1794997882.0167599,
-  "http://english.ratopati.com/story/87150/violence-arson-in-bangladesh-ahead-of-sheikh-hasinas-possible-return": 1794997882.0167599
+  "http://english.ratopati.com/story/87150/violence-arson-in-bangladesh-ahead-of-sheikh-hasinas-possible-return": 1794997882.0167599,
+  "https://news.google.com/rss/articles/CBMizwFBVV95cUxQdi1MM0p4anMzbTNhT1QyenY0dTdBd3VGYkVpNUgzMWptRk9SRVlLcGVJZUVMYkJta2Z1OVFqbTZhc1huS0NuazFCa19DQ2M4WW1qMU1BYVBIZ1JXQXJNVi05eXgtVGxOUVhoYkVYdlcxWUlYX0hDODkwUHJaQU1QVEU1ckduc25rRm9rSEdfRmdDdzBPTkdUY3llRUt5dnlqU2d5TkZQWmhhU0VRdkFnc2NnZ0ZtQVdnM21wSkZ4V2N3OVRlUkNxdEZJTnVPbW8?oc=5": 1794998444.5819929
  },
  "queue": [
   {
@@ -2190,28 +2191,6 @@
    "val": 1,
    "teaser": true,
    "hits": 2
-  },
-  {
-   "title": "Rising Student Protests",
-   "summary": "Dixya PoudelThis year has seen an unprecedented surge in student protests led by Gen Z. Across countries, there has been...",
-   "link": "https://risingnepaldaily.com/news/88744",
-   "source": "Rising Nepal",
-   "ts": 1794969435,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Rising Student Protests",
-   "en": "Rising Student Protests",
-   "ne": "Rising Student Protests",
-   "imp": 3,
-   "tags": [
-    "Students",
-    "Protest"
-   ],
-   "cat": "education",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
   },
   {
    "title": "Delhi's air quality dips marginally post GRAP-3 revocation, AQI at 214",
@@ -6350,7 +6329,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "क्षतिग्रस्त झोलुङ्गे पुलको मर्मत सुरु",
@@ -10668,8 +10647,8 @@
    "cat": "disaster"
   }
  ],
- "updated": 1794997891,
- "pending_since": null,
+ "updated": 1794998448,
+ "pending_since": 1794998444.5819929,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
