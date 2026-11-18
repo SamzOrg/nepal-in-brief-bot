@@ -1,10 +1,5 @@
 {
  "seen": {
-  "https://gorkhapatraonline.com/news/229203": 1794795655.9957097,
-  "https://english.khabarhub.com/2026/16/575760/": 1794795655.9957097,
-  "https://gorkhapatraonline.com/news/229202": 1794795655.9957097,
-  "https://gorkhapatraonline.com/news/229201": 1794795655.9957097,
-  "https://news.google.com/rss/articles/CBMizwFBVV95cUxNd2dpeTRLSUVwTzIwVWFua2VwVUxJNzdUOVMyamdvOFJuc0F5VE85QkFIZ2VCWFJHdFliVUs5MUxMWDZmbUQ4VmdWeEZJOWRWN0p1UllaYUhpckRZTWxqVjlqcVQyZ01JRl8zV1lQamY3cUUwVjF5QkNUakhNMEJzRFBDSWdGZE1QamFLaU9Zb2pMYmtTNkx0UTFNMlBQTkJZQ1lsY3RvNmJIUHVnc1E4RUlSQkhuZmd2XzJXSGVCU1lTeGpaX2RjeE9VOC12TVk?oc=5": 1794795655.9957097,
   "https://english.khabarhub.com/2026/16/575779/": 1794796268.1915455,
   "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUHlyWEpTZF9zNnE2UlR0c0ptQ0tJcEZpanhtQUZiUlYzckFXRFNGcHlnNWJrTnlWd3hBUDVRRWRGbjB6WV83S1V0WGQxQkx5UXVZT2ItRkNXTnd5Y3NUQll5X3VhOGY0VmNnNVZCR2xoenQ2NVFkc0NxTmc5YUttRjdzOE1kUjVUczlXVS0wWmR4NlB3T29TTHhkcXM4QWY5Yk5sUnRHMU5sVVk?oc=5": 1794796268.1915455,
   "https://kathmandupost.com/money/2026/11/16/qatar-s-economic-slump-puts-nepali-workers-jobs-at-risk": 1794796847.7280996,
@@ -1810,7 +1805,8 @@
   "https://nagariknews.nagariknetwork.com/social-affairs/demand-to-redefine-child-marriage-15-82.html": 1794967283.564061,
   "https://nagariknews.nagariknetwork.com/social-affairs/three-day-mahalaxmi-sadhana-concludes-with-prayers-for-debt-relief-for-the-country-68-24.html": 1794967283.564061,
   "https://nagariknews.nagariknetwork.com/politics/uml-in-election-strategy-br-68-52.html": 1794967283.564061,
-  "https://risingnepaldaily.com/news/88739": 1794967851.8304234
+  "https://risingnepaldaily.com/news/88739": 1794967851.8304234,
+  "https://english.khabarhub.com/2026/18/575952/": 1794968571.4791844
  },
  "queue": [
   {
@@ -3312,17 +3308,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1794363666.1046016,
-   "en": "कञ्चनपुरको शुक्लाफाँटामा जंगली हात्तीको आक्रमणबाट ६० वर्षीया वृद्धाको मृत्यु",
-   "ne": "कञ्चनपुरको शुक्लाफाँटामा जंगली हात्तीको आक्रमणबाट ६० वर्षीया वृद्धाको मृत्यु",
-   "link": "https://baahrakhari.com/detail/507070",
-   "source": "Baahrakhari",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "society"
-  },
   {
    "ts": 1794365464.6896133,
    "en": "Nepal stresses grant-based climate finance for energy transition at COP31",
@@ -6294,7 +6279,7 @@
    "cat": "crime"
   }
  ],
- "updated": 1794968470,
+ "updated": 1794968578,
  "pending_since": 1794967851.8304234,
  "fb_blocks": [
   1790350880.4125228,
