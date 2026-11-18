@@ -1927,30 +1927,6 @@
  },
  "queue": [
   {
-   "title": "शिशुको मृत्यु भएपछि अस्पतालमा तनाव",
-   "summary": "दिपक गौतम वीरगञ्ज (पर्सा), मङ्सिर २ गते । उपचारका क्रममा १५ दिने नवजात शिशुको मृत्यु भएपछि वीरगञ्जमा रहेको नेशनल मेडिकल कलेज तथा शिक्षण अस्पताल तनावग्रस्त बनेको छ ।शिशुको मृत्यु चि...",
-   "link": "https://gorkhapatraonline.com/news/229506",
-   "source": "Gorkhapatra",
-   "ts": 1795008971,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/392067/conversions/birgunj-1-original.jpg",
-   "lang": "ne",
-   "hl": "शिशुको मृत्यु भएपछि अस्पतालमा तनाव",
-   "en": "शिशुको मृत्यु भएपछि अस्पतालमा तनाव",
-   "ne": "शिशुको मृत्यु भएपछि अस्पतालमा तनाव",
-   "imp": 3,
-   "tags": [
-    "Hospital",
-    "InfantDeath",
-    "अस्पताल",
-    "तनाव"
-   ],
-   "cat": "society",
-   "val": 1,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Integrated Cyber Scam Response Center Established to Combat Digital Fraud",
    "summary": "Kathmandu. While digital technology has made life easier, cyber fraud has become a major headache for the general public in...",
    "link": "http://english.ratopati.com/story/87188/500-complaints-filed-at-cyber-scam-center-50-percent-of-fraud-money-held",
@@ -2060,50 +2036,6 @@
    "cat": "economy",
    "val": 1,
    "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "संसद अधिवेशन आह्वान गर्ने विषयमा छलफल भइरहेको छ : मन्त्री गौतम",
-   "summary": "सरकारले संसद्को आगामी अधिवेशन छिट्टै आह्वान गर्ने तयारी गरेको छ।",
-   "link": "https://nagariknews.nagariknetwork.com/politics/discussions-underway-on-convening-a-parliamentary-session-minister-gautam-br-94-15.html",
-   "source": "Nagarik News",
-   "ts": 1795008979,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1789026382_SOBITA%20025.jpg",
-   "lang": "ne",
-   "hl": "संसद अधिवेशन आह्वान गर्ने विषयमा छलफल भइरहेको छ : मन्त्री गौतम",
-   "en": "संसद अधिवेशन आह्वान गर्ने विषयमा छलफल भइरहेको छ : मन्त्री गौतम",
-   "ne": "संसद अधिवेशन आह्वान गर्ने विषयमा छलफल भइरहेको छ : मन्त्री गौतम",
-   "imp": 3,
-   "tags": [
-    "ParliamentSession",
-    "MinisterGautam"
-   ],
-   "cat": "politics",
-   "val": 2,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "बालिका करणीको अभियोगमा झापाबाट एक पक्राउ",
-   "summary": "१७ वर्षीया बालिकालाई जबरजस्ती करणी गरेको अभियोगमा प्रहरीले शिवसताक्षी नगरपालिका-४ बिश्वडुब्बाका २५ वर्षीय बनेश्वर सोरेनलाई पक्राउ गरेको छ।...",
-   "link": "https://nagariknews.nagariknetwork.com/Aparadh/one-arrested-from-jhapa-on-charges-of-child-abuse-39-73.html",
-   "source": "Nagarik News",
-   "ts": 1795008776,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1786282078_pakrau.png",
-   "lang": "ne",
-   "hl": "बालिका करणीको अभियोगमा झापाबाट एक पक्राउ",
-   "en": "बालिका करणीको अभियोगमा झापाबाट एक पक्राउ",
-   "ne": "बालिका करणीको अभियोगमा झापाबाट एक पक्राउ",
-   "imp": 3,
-   "tags": [
-    "Kidnapping",
-    "Jhapa"
-   ],
-   "cat": "crime",
-   "val": 2,
-   "teaser": false,
    "hits": 1
   },
   {
@@ -6275,7 +6207,7 @@
    "cat": "politics"
   }
  ],
- "updated": 1795037482,
+ "updated": 1795038066,
  "pending_since": 1795037478.5975199,
  "fb_blocks": [
   1790350880.4125228,
