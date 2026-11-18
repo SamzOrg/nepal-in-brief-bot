@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVU9taFVpQWVpeS0zZzNwbmZfdUVORTZrbWVyNmJMNHYxZ3Q0NlVtcEdnWDk4dW9UQjB1WnNfOWVEc1VPR1hnUGZ5cTd2RVlfblRpazJ3bUxYRUlOcExaZDhBNlFPQzJFLUdvU2ZzMWJaSVZXS2lUbVlzYXIzZE8yLXdHeWw5RzlHcHg1TXJtWV95UGxOaGpKaFlROFM0a1hXdWswYnlfc0hBRW9jekNUMlhMS2ctdmJFckpla29n?oc=5": 1794792057.04696,
-  "https://kathmandupost.com/national/2026/11/16/nepal-india-to-launch-ayodhya-janakpur-train-service-during-pm-shah-s-visit": 1794792057.04696,
   "https://kathmandupost.com/art-culture/2026/11/16/things-to-do-in-kathmandu-valley-this-week": 1794792671.8773508,
   "https://risingnepaldaily.com/news/88672": 1794792671.8773508,
   "https://baahrakhari.com/detail/507408": 1794792671.8773508,
@@ -1844,28 +1842,6 @@
    "hits": 1
   },
   {
-   "title": "From Nepal to U'khand, cycle yatra reaches Doon; CM felicitates 13",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdzJsTTUySlc4NFdWU1R5N2hHWnFrUTdyb3NGSFBpOWpXa1RpQXQ0dWprZzlXYl9SLWpQSEFTdTMybGlUVlgzZzl4TUNFbDNEV2JKUEVDTHhJOFVNY2g5MGd5ZDhnMW82Skh3S2RTdkRGalgzT0czWFQ3TWp1ZGVBbF9majBWRGFDUURYXzVrSUdkdmlra2E3US1OVnRPM2hqZzdNb2I4eklScUtPTXNKcXMzcERsc1NCN0lnZ2sxbi1qTVh0LWZVbDZ5bkFtOWp6ZkNtdFZR0gHbAUFVX3lxTE5LYUZBa1F6QjI3Ums0dm9WNFBTWUN2NUVGYmhWTlBsWTlRVGMtNmJfbERENHcyWmIwRFUzcnpINzFLcnpISmEwV0RBTmlxZ1QtRF82Vkc4UllpQkJPdzg4UUZ2ckNzWEJTM2ZnVE5fNVdBcEpHbWp3MThBbGxMOGFyRlNjNXZkWVhndHhXeTdwSzRXWnNWOEpWTVBaVjJwNjI5ZFcwajB1VlBha3JkNFJobmZ3a0t5VVRtTHpHWWF2TFRzMVdjVzRsT2JiclZMdmJ5czR4WDhReVhabw?oc=5",
-   "source": "The Times of India",
-   "ts": 1794936420,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "From Nepal to U'khand, cycle yatra reaches Doon; CM felicitates 13",
-   "en": "From Nepal to U'khand, cycle yatra reaches Doon; CM felicitates 13",
-   "ne": "From Nepal to U'khand, cycle yatra reaches Doon; CM felicitates 13",
-   "imp": 2,
-   "tags": [
-    "CycleYatra",
-    "CMFelicitates"
-   ],
-   "cat": "culture",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "पोखराको लेकसाइडमा देउसी हेर्दा झैझगडा गर्ने नौजना पक्राउ",
    "summary": "",
    "link": "https://baahrakhari.com/detail/507568",
@@ -2716,17 +2692,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1794360066.0570834,
-   "en": "आज भाइटीका, उत्तम साइत बिहान ११:०७ बजे",
-   "ne": "आज भाइटीका, उत्तम साइत बिहान ११:०७ बजे",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/bhaitika-today-uttam-sait-at-11-07-am-45-83.html",
-   "source": "Nagarik News",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "culture"
-  },
   {
    "ts": 1794361861.028305,
    "en": "Balendra Shah government faces task to fix Nepal's foreign policy and diplomacy",
@@ -5698,7 +5663,7 @@
    "cat": "sports"
   }
  ],
- "updated": 1794964878,
+ "updated": 1794965470,
  "pending_since": 1794964253.6697996,
  "fb_blocks": [
   1790350880.4125228,
