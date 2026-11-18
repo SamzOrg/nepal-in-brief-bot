@@ -1818,7 +1818,8 @@
   "http://english.ratopati.com/story/87063/two-arrested-for-stealing-tractor-batteries-in-siraha": 1794971453.1997495,
   "https://risingnepaldaily.com/news/88745": 1794971453.1997495,
   "http://english.ratopati.com/story/87061/kathmandu-rises-to-fifth-place-in-the-list-of-most-polluted-cities-in-the-world": 1794971453.1997495,
-  "https://risingnepaldaily.com/news/88744": 1794971453.1997495
+  "https://risingnepaldaily.com/news/88744": 1794971453.1997495,
+  "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcWxIeF9KOTJ2QUJUcUtjeF8yeUhzVm1HZm1pejZyallXZWljeV9wUG53SzVOZnBwc3lkckE3SV9jamlxVXZsMy1DQUVwRFdTbDdZbTZxOVFqeGlqMXZNbUJYUXRwRDNCY1ZMeV9qNDV2dGNoN1Rma2VrNi03a242bDR2WDVLZXNOWGNrSVF6X2c3SGc2WEZFVjdQSHVCa09scWlpamRlOEgxMm00TnkydmtFVGhjTmVqQzBlcnZSaGY?oc=5": 1794972048.724253
  },
  "queue": [
   {
@@ -2416,29 +2417,6 @@
    "val": 3,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "Why has Election Commission yet to update Nepali Congress leadership records?",
-   "summary": "The commission says it is still examining documents and constitutional amendments submitted by the party, but the delay has raised questions within the Congress amid a lingering dispute over its leadership.",
-   "link": "https://kathmandupost.com/politics/2026/11/18/why-has-election-commission-yet-to-update-nepali-congress-leadership-records",
-   "source": "Kathmandu Post",
-   "ts": 1794949854.8530402,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Why has Election Commission yet to update Nepali Congress leadership records?",
-   "en": "Why has Election Commission yet to update Nepali Congress leadership records?",
-   "ne": "Why has Election Commission yet to update Nepali Congress leadership records?",
-   "imp": 3,
-   "tags": [
-    "ElectionCommission",
-    "NepaliCongress",
-    "Politics"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "At Nepal tax awards, finance minister raises low investment paradox",
@@ -3499,7 +3477,7 @@
    "cat": "disaster",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Review Identifies Widespread Behavioural and Metabolic Chronic Disease Risks Across Nepal",
@@ -7039,10 +7017,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "world"
+  },
+  {
+   "ts": 1794972055.6435416,
+   "en": "Election Commission Delays Updating Nepali Congress Leadership Records",
+   "ne": "Election Commission Delays Updating Nepali Congress Leadership Records",
+   "link": "https://kathmandupost.com/politics/2026/11/18/why-has-election-commission-yet-to-update-nepali-congress-leadership-records",
+   "source": "Kathmandu Post",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "politics"
   }
  ],
- "updated": 1794971459,
- "pending_since": null,
+ "updated": 1794972070,
+ "pending_since": 1794972048.724253,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
