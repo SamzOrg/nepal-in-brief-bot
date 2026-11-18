@@ -1809,7 +1809,8 @@
   "http://english.ratopati.com/story/87052/explanation-sought-from-employees-who-have-been-absent-from-the-office-for-more-than-90-days": 1794967283.564061,
   "https://nagariknews.nagariknetwork.com/social-affairs/demand-to-redefine-child-marriage-15-82.html": 1794967283.564061,
   "https://nagariknews.nagariknetwork.com/social-affairs/three-day-mahalaxmi-sadhana-concludes-with-prayers-for-debt-relief-for-the-country-68-24.html": 1794967283.564061,
-  "https://nagariknews.nagariknetwork.com/politics/uml-in-election-strategy-br-68-52.html": 1794967283.564061
+  "https://nagariknews.nagariknetwork.com/politics/uml-in-election-strategy-br-68-52.html": 1794967283.564061,
+  "https://risingnepaldaily.com/news/88739": 1794967851.8304234
  },
  "queue": [
   {
@@ -1833,75 +1834,6 @@
    ],
    "cat": "culture",
    "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "ताप्लेजुङमा मनाइयो चासोक तङ्नाम",
-   "summary": "साहारा लिम्बू ताप्लेजुङ, मङ्सिर १ गते । ताप्लेजुङमा लिम्बू समुदायको महान् पर्व चासोक तङ्नाम विभिन्न कार्यक्रम गरी मनाइएको छ । याक्थुङ चुम्लुङ जिल्ला शाखा ताप्लेजुङको आयोजनामा फुङ्ल...",
-   "link": "https://gorkhapatraonline.com/news/229401",
-   "source": "Gorkhapatra",
-   "ts": 1794938633,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/391954/conversions/Chasok-Tangnam-3-original.jpg",
-   "lang": "ne",
-   "hl": "ताप्लेजुङमा मनाइयो चासोक तङ्नाम",
-   "en": "ताप्लेजुङमा मनाइयो चासोक तङ्नाम",
-   "ne": "ताप्लेजुङमा मनाइयो चासोक तङ्नाम",
-   "imp": 2,
-   "tags": [
-    "Taplejung",
-    "ChasokTangnam",
-    "चासोकतङ्नाम"
-   ],
-   "cat": "culture",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "चिया उद्योगमा आगलागीबाट ३० लाखको क्षति",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/507571",
-   "source": "Baahrakhari",
-   "ts": 1794938522,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "चिया उद्योगमा आगलागीबाट ३० लाखको क्षति",
-   "en": "चिया उद्योगमा आगलागीबाट ३० लाखको क्षति",
-   "ne": "चिया उद्योगमा आगलागीबाट ३० लाखको क्षति",
-   "imp": 2,
-   "tags": [
-    "TeaIndustry",
-    "Fire",
-    "चिया"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "२७ लाख मूल्यको सामान बरामद",
-   "summary": "रुपन्देही समाचारदातारुपन्देही, मंसिर १ गते । रुपन्देहीको सीमा क्षेत्रमा ठूलो परिमाणमा अबैध सामान बरामद भएको छ । सशस्त्र प्रहरीले भारतबाट अवैध रूपमा नेपाल भित्राउँदै गरेको गाडीका पा...",
-   "link": "https://gorkhapatraonline.com/news/229416",
-   "source": "Gorkhapatra",
-   "ts": 1794938525,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/391953/conversions/baramad-original.jpg",
-   "lang": "ne",
-   "hl": "२७ लाख मूल्यको सामान बरामद",
-   "en": "२७ लाख मूल्यको सामान बरामद",
-   "ne": "२७ लाख मूल्यको सामान बरामद",
-   "imp": 2,
-   "tags": [
-    "Smuggling",
-    "Police",
-    "बरामद"
-   ],
-   "cat": "crime",
-   "val": 2,
    "teaser": false,
    "hits": 1
   },
@@ -6397,8 +6329,8 @@
    "cat": "society"
   }
  ],
- "updated": 1794967292,
- "pending_since": null,
+ "updated": 1794967855,
+ "pending_since": 1794967851.8304234,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
