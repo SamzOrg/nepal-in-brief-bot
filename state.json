@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcVE2MzFRaFFkRTdkS1ZpLXhXc2NfZzFVdWhhQ3dTSmdFNnEwVDMtbXVzNnJGZ0FfcU9pSWo4SEd4YmRaZXBWTy05RmM1TU9CODJXY0lBLURETk1kVkJnZDJuRmVwZE5OYTZRN0tjTjlObWpyTFhabmZSWDVpdlk3dUxnbjVSQnhuOHlyYmN4RHRxelJWVWg3UVZMZVItU0diTzUzNDBOZUVVdVlkX1FLbVBXRkhOeHVOaDdkVXNjMTVWbjFPbDN0aHo3NFJfcGc?oc=5": 1794789064.5603878,
   "https://www.ujyaaloonline.com/detail/133531": 1794789658.2621937,
   "https://gorkhapatraonline.com/news/229191": 1794789658.2621937,
   "https://english.khabarhub.com/2026/16/575758/": 1794789658.2621937,
@@ -1805,7 +1804,9 @@
   "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRTczSW00NDhQUEY3TlNZbWxiNDVYMG1fczZpazB4Q094WDIzSzJ6UjBiVENleXB5dDc1X2tyX3JFeXBSaEZfa1ZZa2tuaUFfOXAwaEx0eWxVSkZWRlEyWnJOeDE3ejZ3QTZnYm9DSjBqSmxrU3VueTd4ZG5VU3U5YTB0eURpOE44T1FRQVlVQXJYOXNwa0lxLU5FZ2pHNVd1RnV0aWFhcjVyeWZITlY4eWlCZkZvNXBvT2xTUw?oc=5": 1794958851.7225766,
   "http://english.ratopati.com/story/87043/nvidias-quarterly-sales-double-former-ceo-huang-rules-out-return": 1794958851.7225766,
   "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQ0UySXM4eWdWX00xMXEyYWZkMVRDa2hQWDZEc29VeTdWal9EbVBqR3Y1QW15YU1fempGdEh4SFhXNGFyU08zYmw4Z2xCN1VDM3hFLWhqUXk3QlpuU1FyRFVEWGhNVmJWNnZDVXFFcGlNM2JqdG5DMGI3TkVld212b210eXJvcXB0eEJ5ekFHNUtlZHN3MmpZSWgxQ0FMZGZuUDN5VWF5aS0waU8wa2c?oc=5": 1794959449.2810338,
-  "https://risingnepaldaily.com/news/88731": 1794961251.3361955
+  "https://risingnepaldaily.com/news/88731": 1794961251.3361955,
+  "https://baahrakhari.com/detail/507576": 1794961869.8979886,
+  "https://risingnepaldaily.com/news/88733": 1794961869.8979886
  },
  "queue": [
   {
@@ -2056,7 +2057,7 @@
    "cat": "politics",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "जापानी हवाई क्षेत्रमा रुसी विमानको प्रवेश, जपानको कडा विरोध",
@@ -2385,17 +2386,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1794356463.529148,
-   "en": "सुक्खा पहिरोले पृथ्वी राजमार्ग फेरी बन्द, खुलाउने प्रयास चल्दै",
-   "ne": "सुक्खा पहिरोले पृथ्वी राजमार्ग फेरी बन्द, खुलाउने प्रयास चल्दै",
-   "link": "https://www.ujyaaloonline.com/detail/133371",
-   "source": "Ujyaalo",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "disaster"
-  },
   {
    "ts": 1794358278.1556737,
    "en": "Virginia jury convicts Naresh Bhatt of first-degree murder of wife Mamta Kafle, July 2024 disappearance",
@@ -5367,7 +5357,7 @@
    "cat": "world"
   }
  ],
- "updated": 1794961275,
+ "updated": 1794961874,
  "pending_since": 1794960087.0792563,
  "fb_blocks": [
   1790350880.4125228,
