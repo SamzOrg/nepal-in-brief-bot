@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://english.onlinekhabar.com/3-killed-1-missing-in-auto-rickshaw-accident-in-bajhang.html": 1794815450.256802,
   "https://baahrakhari.com/detail/507439": 1794815684.632413,
   "https://gorkhapatraonline.com/news/229250": 1794815684.632413,
   "http://english.ratopati.com/story/86836/icc-changes-world-cup-qualification-format": 1794815684.632413,
@@ -2542,29 +2541,6 @@
    "val": 3,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "Nepal Pavilion emerges as a shared meeting place for Nepalis at COP31",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUW52eG52c2xlOVlrRXlFa0cyOWZ0ampMeXI4NnFod01Zdy12ME8xQjQ3X2dLQkpPYlNicU5CcVlxZlo1a3JtQU10di1sbXMycEYwSGNzY1BTS0pYZDVQTTR0ZDNtRWM0T3Jid3MyMDJjVmZTVHdOMEZGSU13VkZ6YVEtbUlZRkFvWjRVek1qYlJPYS1nWm5nTnFfY2lrZ0FmaG9MRk5OV3FrUWJvSF9VSy13UF95SGpSMl9QM2N1ckZHUQ?oc=5",
-   "source": "myRepublica",
-   "ts": 1794961679,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Nepal Pavilion emerges as a shared meeting place for Nepalis at COP31",
-   "en": "Nepal Pavilion emerges as a shared meeting place for Nepalis at COP31",
-   "ne": "Nepal Pavilion emerges as a shared meeting place for Nepalis at COP31",
-   "imp": 3,
-   "tags": [
-    "COP31",
-    "NepalPavilion",
-    "Belém"
-   ],
-   "cat": "world",
-   "val": 2,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "Computer Stolen from National Innovation Center in Kirtipur",
@@ -7188,17 +7164,6 @@
  ],
  "posted": [
   {
-   "ts": 1794382860.853696,
-   "en": "Nepal's exports surged 57% in Q1 FY 2026/27, but trade deficit widened to Rs 532.49bn",
-   "ne": "Nepal's exports surged 57% in Q1 FY 2026/27, but trade deficit widened to Rs 532.49bn",
-   "link": "https://theannapurnaexpress.com/story/68673",
-   "source": "Annapurna Express",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "economy"
-  },
-  {
    "ts": 1794384659.2110202,
    "en": "मधेशका मुख्यमन्त्री कृष्णप्रसाद यादवले कात्तिक २८ गते दिउँसो १ बजे विश्वासको मत लिने",
    "ne": "मधेशका मुख्यमन्त्री कृष्णप्रसाद यादवले कात्तिक २८ गते दिउँसो १ बजे विश्वासको मत लिने",
@@ -10189,9 +10154,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "crime"
+  },
+  {
+   "ts": 1794988268.3950524,
+   "en": "Nepal Pavilion serves as a meeting place for Nepalis at COP31 in Antalya",
+   "ne": "Nepal Pavilion serves as a meeting place for Nepalis at COP31 in Antalya",
+   "link": "https://myrepublica.nagariknetwork.com/news/nepal-pavilion-emerges-as-a-shared-meeting-place-for-nepalis-at-cop31-16-10.html",
+   "source": "myRepublica",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "world"
   }
  ],
- "updated": 1794987672,
+ "updated": 1794988284,
  "pending_since": 1794987073.3025894,
  "fb_blocks": [
   1790350880.4125228,
