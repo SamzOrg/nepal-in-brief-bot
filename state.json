@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://baahrakhari.com/detail/507457": 1794825652.1582162,
-  "https://english.onlinekhabar.com/27-year-old-woman-found-dead-at-home-in-birendranagar.html": 1794825652.1582162,
   "https://baahrakhari.com/detail/507458": 1794826253.7299075,
   "https://news.google.com/rss/articles/CBMijAFBVV95cUxObWJaYVo0WUxRcVBzSGlLMW9qWFFpNlJXdnMwOC1TdG5qSEJXUlo1U2NhclhZTjRCRHVMWnRPZG9JRTBYRnduRHN0c1E1dHppblJsTEdQREUyRXBGNXJVa01mNkx2SjhRVlBfNmJISHd3aXZBRW0tcFpiR1dVSmFaNXJqX1ZOU3UyMElaeQ?oc=5": 1794826253.7299075,
   "https://gorkhapatraonline.com/news/229266": 1794826253.7299075,
@@ -1873,7 +1871,7 @@
   "https://gorkhapatraonline.com/news/229491": 1794997882.0167599,
   "https://www.setopati.com/literature/402848": 1794997882.0167599,
   "http://english.ratopati.com/story/87150/violence-arson-in-bangladesh-ahead-of-sheikh-hasinas-possible-return": 1794997882.0167599,
-  "https://news.google.com/rss/articles/CBMizwFBVV95cUxQdi1MM0p4anMzbTNhT1QyenY0dTdBd3VGYkVpNUgzMWptRk9SRVlLcGVJZUVMYkJta2Z1OVFqbTZhc1huS0NuazFCa19DQ2M4WW1qMU1BYVBIZ1JXQXJNVi05eXgtVGxOUVhoYkVYdlcxWUlYX0hDODkwUHJaQU1QVEU1ckduc25rRm9rSEdfRmdDdzBPTkdUY3llRUt5dnlqU2d5TkZQWmhhU0VRdkFnc2NnZ0ZtQVdnM21wSkZ4V2N3OVRlUkNxdEZJTnVPbW8?oc=5": 1794998444.5819929
+  "https://news.google.com/rss/articles/CBMizwFBVV95cUxQdi1MM0p4anMzbTNhT1QyenY0dTdBd3VGYkVpNUgzMWptRk9SRVlLcGVJZUVMYkJta2Z1OVFqbTZhc1huS0NuazFCa19DQ2M4WW1qMU1BYVBIZ1JXQXJNVi05eXgtVGxOUVhoYkVYdlcxWUlYX0hDODkwUHJaQU1QVEU1ckduc25rRm9rSEdfRmdDdzBPTkdUY3llRUt5dnlqU2d5TkZQWmhhU0VRdkFnc2NnZ0ZtQVdnM21wSkZ4V2N3OVRlUkNxdEZJTnVPbW8?oc=5": 1794998475.8309784
  },
  "queue": [
   {
@@ -7644,17 +7642,6 @@
  ],
  "posted": [
   {
-   "ts": 1794393662.1570203,
-   "en": "अर्थमन्त्री वाग्लेले जलवायुजन्य विपद्पछि नेपाललाई विशेष अन्तर्राष्ट्रिय वित्तीय प्याकेज आवश्यक भने",
-   "ne": "अर्थमन्त्री वाग्लेले जलवायुजन्य विपद्पछि नेपाललाई विशेष अन्तर्राष्ट्रिय वित्तीय प्याकेज आवश्यक भने",
-   "link": "https://baahrakhari.com/detail/507088",
-   "source": "Baahrakhari",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "economy"
-  },
-  {
    "ts": 1794395455.910596,
    "en": "Nepalese man jailed 35 years for fatal scissors stabbing",
    "ne": "Nepalese man jailed 35 years for fatal scissors stabbing",
@@ -10647,8 +10634,8 @@
    "cat": "disaster"
   }
  ],
- "updated": 1794998448,
- "pending_since": 1794998444.5819929,
+ "updated": 1794998482,
+ "pending_since": 1794998475.8309784,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
