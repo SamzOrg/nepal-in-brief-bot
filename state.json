@@ -1817,32 +1817,10 @@
   "https://gorkhapatraonline.com/news/229420": 1794964253.6697996,
   "https://nagariknews.nagariknetwork.com/sports/far-west-becomes-easier-for-lumbini-again-br-17-77.html": 1794964253.6697996,
   "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdUlnQTdUNmFOTndkZ0ZlQ2oxQmJadGVoUWJOTUgzZ2s4Q2RERk1RV1h5VTZoYzQ0WlZYcFNmRXowWFJrTGt1WmNaRWR4bmNsVXEwenlPR2Q5blVqMnFSeEFkdFBNOGhGX1A2clVPNzZFRFVyeTJJMlBrcDVfenI5RW80SkRVbEhHSkxsVEhJcTQ0UzR3dFlHNnVyU0c5REN5dXpsSnVnOVpTa2NIV0E?oc=5": 1794964253.6697996,
-  "https://kathmandupost.com/editorial/2026/11/17/shah-must-use-his-india-visit-to-push-for-progress-on-longstanding-issues": 1794964253.6697996
+  "https://kathmandupost.com/editorial/2026/11/17/shah-must-use-his-india-visit-to-push-for-progress-on-longstanding-issues": 1794964253.6697996,
+  "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVnhzZ0drbVhNcUpGcS1KLUpvU2ZGM2tnNmRkX3JRS0FuUW9aZlZGdi1TSzdMcC03TTRldWVpS0NsSUF2MWFtaEhmZzFlQWpQVVJTOVZnTXRvYjNmb2NreWpWZVA5aEsyR0RMVUxqYVlOZHRjaWlDWjNybkxLcTltZGtsRHdreDRyQnIyN2cxNW02TmtEcklrdERRcDhWa1JuYWVXemVEejVSRW5XQ0x5eGlZUlJldkREeUxMXy1qUQ?oc=5": 1794964854.7607713
  },
  "queue": [
-  {
-   "title": "एनपीएलमा सट्टेबाजी गराएको आरोपमा भारतीय नागरिक पक्राउ",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/507569",
-   "source": "Baahrakhari",
-   "ts": 1794937722,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "एनपीएलमा सट्टेबाजी गराएको आरोपमा भारतीय नागरिक पक्राउ",
-   "en": "एनपीएलमा सट्टेबाजी गराएको आरोपमा भारतीय नागरिक पक्राउ",
-   "ne": "एनपीएलमा सट्टेबाजी गराएको आरोपमा भारतीय नागरिक पक्राउ",
-   "imp": 3,
-   "tags": [
-    "NPL",
-    "Betting",
-    "IndianCitizen"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
   {
    "title": "राप्ती प्रतिष्ठानमा खरिदमा पनि प्रतिस्पर्धा गराइने",
    "summary": "सन्तोष दहितदाङ, मंसिर १ गते । राप्ती स्वास्थ्य विज्ञान प्रतिष्ठानले खरिद प्रक्रियालाई थप पारदर्शी, प्रतिस्पर्धात्मक र मितव्ययी बनाउन सोझै खरिद गर्नुपर्ने अवस्थामा समेत सार्वजनिक सू...",
@@ -1907,29 +1885,6 @@
    ],
    "cat": "crime",
    "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "जापानी हवाई क्षेत्रमा रुसी विमानको प्रवेश, जपानको कडा विरोध",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/507566",
-   "source": "Baahrakhari",
-   "ts": 1794935721,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "जापानी हवाई क्षेत्रमा रुसी विमानको प्रवेश, जपानको कडा विरोध",
-   "en": "जापानी हवाई क्षेत्रमा रुसी विमानको प्रवेश, जपानको कडा विरोध",
-   "ne": "जापानी हवाई क्षेत्रमा रुसी विमानको प्रवेश, जपानको कडा विरोध",
-   "imp": 3,
-   "tags": [
-    "Russia",
-    "Japan",
-    "Airspace"
-   ],
-   "cat": "world",
-   "val": 3,
    "teaser": false,
    "hits": 1
   },
@@ -5730,9 +5685,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "economy"
+  },
+  {
+   "ts": 1794964861.729265,
+   "en": "एनपीएलमा अनलाइन सट्टेबाजी गराएको आरोपमा भारतीय नागरिक पक्राउ",
+   "ne": "एनपीएलमा अनलाइन सट्टेबाजी गराएको आरोपमा भारतीय नागरिक पक्राउ",
+   "link": "https://baahrakhari.com/detail/507569",
+   "source": "Baahrakhari",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "sports"
   }
  ],
- "updated": 1794964262,
+ "updated": 1794964878,
  "pending_since": 1794964253.6697996,
  "fb_blocks": [
   1790350880.4125228,
