@@ -1811,31 +1811,10 @@
   "https://gorkhapatraonline.com/news/229426": 1794966051.1037471,
   "https://gorkhapatraonline.com/news/229425": 1794966051.1037471,
   "https://gorkhapatraonline.com/news/229424": 1794966051.1037471,
-  "https://gorkhapatraonline.com/news/229423": 1794966051.1037471
+  "https://gorkhapatraonline.com/news/229423": 1794966051.1037471,
+  "https://news.google.com/rss/articles/CBMiywFBVV95cUxNb3VteGJyN3JGaWVmMEpKZWl4VzRYMzh3Z0lOZldHOWFEd2FVT2U4Wmp2MXJsNFZSdTktZnhWX0Jpd1Q3TUJ5YkhpM0ZubHhhTGtNcTdUb2xFUHNzYkxYal8yN0VvSUtEY0IyTlJnRTFFcVRHZC04Ui1pVUxJcVEza0hQX2c3bTdkVjMxMTViNmxxS0VvMXFUMVc0Qlo3MktBSzVNcVVRU3lDTDRTVGEwYWd0UVNUTzNFWl9KYV9nLU5UVG1LRmJjV3pMaw?oc=5": 1794966648.574005
  },
  "queue": [
-  {
-   "title": "राप्ती प्रतिष्ठानमा खरिदमा पनि प्रतिस्पर्धा गराइने",
-   "summary": "सन्तोष दहितदाङ, मंसिर १ गते । राप्ती स्वास्थ्य विज्ञान प्रतिष्ठानले खरिद प्रक्रियालाई थप पारदर्शी, प्रतिस्पर्धात्मक र मितव्ययी बनाउन सोझै खरिद गर्नुपर्ने अवस्थामा समेत सार्वजनिक सू...",
-   "link": "https://gorkhapatraonline.com/news/229414",
-   "source": "Gorkhapatra",
-   "ts": 1794937531,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/391951/conversions/unnamed-(3)-original.jpg",
-   "lang": "ne",
-   "hl": "राप्ती प्रतिष्ठानमा खरिदमा पनि प्रतिस्पर्धा गराइने",
-   "en": "राप्ती प्रतिष्ठानमा खरिदमा पनि प्रतिस्पर्धा गराइने",
-   "ne": "राप्ती प्रतिष्ठानमा खरिदमा पनि प्रतिस्पर्धा गराइने",
-   "imp": 2,
-   "tags": [
-    "Rapti",
-    "Procurement"
-   ],
-   "cat": "politics",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
   {
    "title": "कर्णालीमा खस र मगर भाषालाई पनि सरकारी कामकाजको भाषा बनाउन माग",
    "summary": "",
@@ -2683,7 +2662,7 @@
    "cat": "economy",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "वासिंटनमा 'डर्टी बम' आक्रमणको योजना सम्बन्धी रिपोर्ट इरानद्वारा खारेज",
@@ -2729,29 +2708,6 @@
    "cat": "culture",
    "val": 1,
    "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "काठमाडौंका सबै ठाउँ चौबीसै घन्टा खुला गर्न प्रशासनले थाल्यो तयारी",
-   "summary": "अहिले ठमेल र दरबारमार्ग चौबीसै घन्टा खुला हुन्छ।",
-   "link": "https://www.setopati.com/social/402802",
-   "source": "Setopati",
-   "ts": 1794965524,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "काठमाडौंका सबै ठाउँ चौबीसै घन्टा खुला गर्न प्रशासनले थाल्यो तयारी",
-   "en": "काठमाडौंका सबै ठाउँ चौबीसै घन्टा खुला गर्न प्रशासनले थाल्यो तयारी",
-   "ne": "काठमाडौंका सबै ठाउँ चौबीसै घन्टा खुला गर्न प्रशासनले थाल्यो तयारी",
-   "imp": 3,
-   "tags": [
-    "Kathmandu",
-    "Nightlife",
-    "काठमाडौँ"
-   ],
-   "cat": "society",
-   "val": 3,
-   "teaser": false,
    "hits": 1
   },
   {
@@ -6120,10 +6076,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "sports"
+  },
+  {
+   "ts": 1794966654.0908272,
+   "en": "काठमाडौंका सबै क्षेत्र चौबीसै घन्टा खुला गर्न प्रशासनले थाल्यो तयारी",
+   "ne": "काठमाडौंका सबै क्षेत्र चौबीसै घन्टा खुला गर्न प्रशासनले थाल्यो तयारी",
+   "link": "https://www.setopati.com/social/402802",
+   "source": "Setopati",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "society"
   }
  ],
- "updated": 1794966057,
- "pending_since": null,
+ "updated": 1794966668,
+ "pending_since": 1794966648.574005,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
