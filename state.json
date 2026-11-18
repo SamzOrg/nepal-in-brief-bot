@@ -1933,31 +1933,14 @@
   "https://gorkhapatraonline.com/news/229508": 1795021290.5655055,
   "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQLVVFMG1IVk1aTjdLSkRWUHM0RThEb0theGR6Qng1RGlNeU9pSkdjUFlZdzZJUUlVN3EwU1IxM2djNEpYaENTSFY3QjU0NTcwQ2ZyY1JaMDJ5ZGM4QUJ1X2d1aDhhM1lUR0xGZ3JWckd5enRxRWdZU1ZiNmItN3NXdi1PejltMHRzenlGZ3YxdXpFYldpdzgzbEFoZ1oyNnVzZ05vNFg4RjBDVWJsZkZHODVYZXlTV1hmWHVVbThvcGowMWNUNXhGRjVxM2luWWpYbjVGeG9VbVR4UnI4S3c?oc=5": 1795021290.5655055,
   "https://www.setopati.com/sports/npl/402877": 1795021290.5655055,
-  "https://baahrakhari.com/detail/507681": 1795023073.4471238
+  "https://baahrakhari.com/detail/507681": 1795023073.4471238,
+  "https://baahrakhari.com/detail/507682": 1795023656.1418958,
+  "https://gorkhapatraonline.com/news/229509": 1795023656.1418958,
+  "https://news.google.com/rss/articles/CBMiswFBVV95cUxNa1B4TU03RHFtRXhnQ1FLLUp3UlRqa2JCaXdZdmVTRS1CTTc0UkljNGl0M0lkNVQ3Nk9aWGwyaTczRlU2bHJCQnBfUjRiLUx1RTlFOTZORG1xUi0wX29MbHpQc3piSVJnaWNuOWFFUEZKaEVQdFd5S3ByQTRrOVV6UXRnWlAyQTd1Wm0wQ28zQlk2WDlnZ2tSOExjeE1heWM2YTNrNjVrSkczVzVDYU53S3ZGVQ?oc=5": 1795023656.1418958,
+  "https://baahrakhari.com/detail/507680": 1795023656.1418958,
+  "https://baahrakhari.com/detail/507679": 1795023656.1418958
  },
  "queue": [
-  {
-   "title": "Two Arrested in Taplejung Death Case",
-   "summary": "Taplejung. Police have arrested two people on suspicion of involvement in the death of 55-year-old Somraj Gurung, who was found...",
-   "link": "http://english.ratopati.com/story/87144/two-arrested-in-somraj-gurung-death-case-in-taplejung",
-   "source": "Ratopati EN",
-   "ts": 1794994460,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/hatya-murder_1tjyfv6vfk_0v0OCBkaI9.jpg",
-   "lang": "en",
-   "hl": "Two Arrested in Taplejung Death Case",
-   "en": "Two Arrested in Taplejung Death Case",
-   "ne": "Two Arrested in Taplejung Death Case",
-   "imp": 2,
-   "tags": [
-    "Taplejung",
-    "Arrest"
-   ],
-   "cat": "crime",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
   {
    "title": "एआईमा सहकार्य बढाउन सीको आग्रह",
    "summary": "सेन्जेन (चीन), मङ्सिर २ गते । चिनियाँ राष्ट्रपति सी जिनपिङले कृत्रिम बौद्धिकता (एआई), डिजिटल अर्थतन्त्र र स्वतन्त्र व्यापारमा अन्तर्राष्ट्रिय सहकार्य विस्तार गर्न आह्वान गर्नुभएको...",
@@ -1978,28 +1961,6 @@
    "val": 2,
    "teaser": false,
    "hits": 2
-  },
-  {
-   "title": "Nepal Rastra Bank destroys banknotes worth Rs 765.74 billion",
-   "summary": "Kathmandu, November 18 Nepal Rastra Bank (NRB) has destroyed banknotes worth Rs 765.74 billion that were unfit for circulation. During the last fiscal year, the central bank destroyed worn-out, dirty and torn banknotes...",
-   "link": "https://english.onlinekhabar.com/nepal-rastra-bank-destroys-banknotes-worth-rs-765-74-billion.html",
-   "source": "Onlinekhabar EN",
-   "ts": 1794994746,
-   "weight": 3,
-   "img": "http://english.onlinekhabar.com/wp-content/uploads/2016/07/Nrb-810.gif",
-   "lang": "en",
-   "hl": "Nepal Rastra Bank destroys banknotes worth Rs 765.74 billion",
-   "en": "Nepal Rastra Bank destroys banknotes worth Rs 765.74 billion",
-   "ne": "Nepal Rastra Bank destroys banknotes worth Rs 765.74 billion",
-   "imp": 3,
-   "tags": [
-    "NepalRastraBank",
-    "Banknotes"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
   },
   {
    "title": "त्रिपक्षीय शिखर सम्मेलन उपयोगी हुने पुटिनको अपेक्षा",
@@ -2067,98 +2028,6 @@
    "val": 1,
    "teaser": true,
    "hits": 1
-  },
-  {
-   "title": "पर्यटकको चाप बढेसँगै लुक्लामा उडान वृद्धि",
-   "summary": "सन्तोष राउतसोलुखुम्बु, मङ्सिर २ गते । सोलुखुम्बुको पर्यटकीय क्षेत्रमा पर्ने अति व्यस्त तेन्जिङ हिलारी विमानस्थल लुक्लामा आजभोलि सगरमाथा तथा अन्य हिमशृङ्खला अवलोकन गर्न आउने पर्यटकक...",
-   "link": "https://gorkhapatraonline.com/news/229488",
-   "source": "Gorkhapatra",
-   "ts": 1794994570,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/392046/conversions/lukla-airport-original.jpg",
-   "lang": "ne",
-   "hl": "पर्यटकको चाप बढेसँगै लुक्लामा उडान वृद्धि",
-   "en": "पर्यटकको चाप बढेसँगै लुक्लामा उडान वृद्धि",
-   "ne": "पर्यटकको चाप बढेसँगै लुक्लामा उडान वृद्धि",
-   "imp": 2,
-   "tags": [
-    "Lukla",
-    "Tourism",
-    "Flights"
-   ],
-   "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Two Technical Officers Charged with Corruption in Birgunj",
-   "summary": "Kathmandu. The Commission for Investigation of Abuse of Authority has filed a corruption case against two technical officers working at...",
-   "link": "http://english.ratopati.com/story/87146/bribery-scandal-in-payment-for-well-construction-case-filed-against-two-technical-officers",
-   "source": "Ratopati EN",
-   "ts": 1794994599,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/bisesh-adalat-2-001_3G6oRmlZsl.jpg",
-   "lang": "en",
-   "hl": "Two Technical Officers Charged with Corruption in Birgunj",
-   "en": "Two Technical Officers Charged with Corruption in Birgunj",
-   "ne": "Two Technical Officers Charged with Corruption in Birgunj",
-   "imp": 3,
-   "tags": [
-    "CIAA",
-    "Birgunj",
-    "Corruption"
-   ],
-   "cat": "crime",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "पार्टी सभापतिलाई सल्लाह दिन कांग्रेसमा प्रज्ञा तथा अनुभव परिषद् गठन गरिने",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/507643",
-   "source": "Baahrakhari",
-   "ts": 1794994332,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "पार्टी सभापतिलाई सल्लाह दिन कांग्रेसमा प्रज्ञा तथा अनुभव परिषद् गठन गरिने",
-   "en": "पार्टी सभापतिलाई सल्लाह दिन कांग्रेसमा प्रज्ञा तथा अनुभव परिषद् गठन गरिने",
-   "ne": "पार्टी सभापतिलाई सल्लाह दिन कांग्रेसमा प्रज्ञा तथा अनुभव परिषद् गठन गरिने",
-   "imp": 3,
-   "tags": [
-    "NepaliCongress",
-    "Politics",
-    "कांग्रेस"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "US President Donald Trump Arrives in Shenzhen, Welcomed by Chinese President Xi Jinping",
-   "summary": "Shenzhen. US President Donald Trump has landed in Shenzhen, China.As soon as he disembarked from the plane, Chinese President Xi...",
-   "link": "http://english.ratopati.com/story/87142/trump-lands-in-shenzhen-china-welcomed-with-a-hug-by-xi",
-   "source": "Ratopati EN",
-   "ts": 1794994283,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/39378e6a-dabc-4b34-abb7-d03141e9df8ejpg_qHlNoAlIwS.webp",
-   "lang": "en",
-   "hl": "US President Donald Trump Arrives in Shenzhen, Welcomed by Chinese President Xi Jinping",
-   "en": "US President Donald Trump Arrives in Shenzhen, Welcomed by Chinese President Xi Jinping",
-   "ne": "US President Donald Trump Arrives in Shenzhen, Welcomed by Chinese President Xi Jinping",
-   "imp": 1,
-   "tags": [
-    "DonaldTrump",
-    "XiJinping",
-    "USChina"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "भोटेकोशी बाढी पीडितको सम्झनामा कोप-३१ मा प्रदर्शन",
@@ -5588,29 +5457,6 @@
    "hits": 1
   },
   {
-   "title": "Cricket match squads | SPR vs CHR, Qualifier 2, Nepal Premier League 2026",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPR0FyLWNSMUdCZnNKOUxhc2VrcHBVYTdBQ1dHUHlvWlU0bDBLNi1yd2hjS05CbzByM1k4MkQ1alZVMktOVGhJNE52aFlWWjJyNFVlYmR5ZnhmQTlPT29aWGc1QTJEeEtCSUhjbThCV2g3bkdUZkx5VEJYYVFiLXVpSVgyeE5MRmkyWHpSdUJFUzBvQUZ1NWE4bzl4ck5qRkdMU0Rn?oc=5",
-   "source": "Cricbuzz",
-   "ts": 1794994490,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Cricket match squads | SPR vs CHR, Qualifier 2, Nepal Premier League 2026",
-   "en": "Cricket match squads | SPR vs CHR, Qualifier 2, Nepal Premier League 2026",
-   "ne": "Cricket match squads | SPR vs CHR, Qualifier 2, Nepal Premier League 2026",
-   "imp": 2,
-   "tags": [
-    "NPL",
-    "Qualifier2",
-    "Cricket"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Government Prepares to Keep Kathmandu Markets Open 24 Hours",
    "summary": "Kathmandu. The government has started preparations with the objective of making the markets of the federal capital Kathmandu dynamic 24...",
    "link": "http://english.ratopati.com/story/87198/kathmandu-prepares-to-make-gulzar-24-hours-a-day-private-sector-says-prepare-the-groundwork",
@@ -5970,6 +5816,118 @@
    ],
    "cat": "world",
    "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "नाम्पा हिमाल",
+   "summary": "",
+   "link": "https://baahrakhari.com/detail/507682",
+   "source": "Baahrakhari",
+   "ts": 1795023445,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "नाम्पा हिमाल",
+   "en": "नाम्पा हिमाल",
+   "ne": "नाम्पा हिमाल",
+   "imp": 1,
+   "tags": [
+    "Namppa"
+   ],
+   "cat": "other",
+   "val": 1,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "बिहीबारदेखि औषधीको उचित प्रयोगसम्बन्धी अन्तर्राष्ट्रिय सम्मेलन",
+   "summary": "सरोज ढुंगेलकाठमाडौँ, मङ्सिर २ गते । औषधीको उचित प्रयोगसम्बन्धी अन्तर्राष्ट्रिय सम्मेलन हुने भएको छ । औषधीको उचित प्रयोग प्रवर्धन तथा औषधी उपचारको प्रभावकारिता सुधार गर्ने उद्देश्यल...",
+   "link": "https://gorkhapatraonline.com/news/229509",
+   "source": "Gorkhapatra",
+   "ts": 1795022012,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/392077/conversions/press-meet-original.jpg",
+   "lang": "ne",
+   "hl": "बिहीबारदेखि औषधीको उचित प्रयोगसम्बन्धी अन्तर्राष्ट्रिय सम्मेलन",
+   "en": "बिहीबारदेखि औषधीको उचित प्रयोगसम्बन्धी अन्तर्राष्ट्रिय सम्मेलन",
+   "ne": "बिहीबारदेखि औषधीको उचित प्रयोगसम्बन्धी अन्तर्राष्ट्रिय सम्मेलन",
+   "imp": 2,
+   "tags": [
+    "MedicineConference",
+    "Kathmandu"
+   ],
+   "cat": "health",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Climate change, household economies, and credit repayment challenges in rural Nepal",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNa1B4TU03RHFtRXhnQ1FLLUp3UlRqa2JCaXdZdmVTRS1CTTc0UkljNGl0M0lkNVQ3Nk9aWGwyaTczRlU2bHJCQnBfUjRiLUx1RTlFOTZORG1xUi0wX29MbHpQc3piSVJnaWNuOWFFUEZKaEVQdFd5S3ByQTRrOVV6UXRnWlAyQTd1Wm0wQ28zQlk2WDlnZ2tSOExjeE1heWM2YTNrNjVrSkczVzVDYU53S3ZGVQ?oc=5",
+   "source": "The Farsight Nepal",
+   "ts": 1794999848,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "Climate change, household economies, and credit repayment challenges in rural Nepal",
+   "en": "Climate change, household economies, and credit repayment challenges in rural Nepal",
+   "ne": "Climate change, household economies, and credit repayment challenges in rural Nepal",
+   "imp": 3,
+   "tags": [
+    "ClimateChange",
+    "RuralEconomy",
+    "Credit"
+   ],
+   "cat": "economy",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "जुम्लाबाट ब्राउन सुगरजस्तो पदार्थसहित दुई युवक पक्राउ",
+   "summary": "",
+   "link": "https://baahrakhari.com/detail/507680",
+   "source": "Baahrakhari",
+   "ts": 1795022150,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "जुम्लाबाट ब्राउन सुगरजस्तो पदार्थसहित दुई युवक पक्राउ",
+   "en": "जुम्लाबाट ब्राउन सुगरजस्तो पदार्थसहित दुई युवक पक्राउ",
+   "ne": "जुम्लाबाट ब्राउन सुगरजस्तो पदार्थसहित दुई युवक पक्राउ",
+   "imp": 2,
+   "tags": [
+    "Jumla",
+    "BrownSugar",
+    "Arrest"
+   ],
+   "cat": "crime",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "जोर्डनमा सैन्य अभ्यासका क्रममा हेलिकोप्टर दुर्घटना, पाँच सैनिक घाइते",
+   "summary": "",
+   "link": "https://baahrakhari.com/detail/507679",
+   "source": "Baahrakhari",
+   "ts": 1795021666,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "जोर्डनमा सैन्य अभ्यासका क्रममा हेलिकोप्टर दुर्घटना, पाँच सैनिक घाइते",
+   "en": "जोर्डनमा सैन्य अभ्यासका क्रममा हेलिकोप्टर दुर्घटना, पाँच सैनिक घाइते",
+   "ne": "जोर्डनमा सैन्य अभ्यासका क्रममा हेलिकोप्टर दुर्घटना, पाँच सैनिक घाइते",
+   "imp": 1,
+   "tags": [
+    "Jordan",
+    "HelicopterCrash",
+    "Military"
+   ],
+   "cat": "world",
+   "val": 2,
    "teaser": false,
    "hits": 1
   }
@@ -8968,8 +8926,8 @@
    "cat": "politics"
   }
  ],
- "updated": 1795023085,
- "pending_since": 1795021855.0676665,
+ "updated": 1795023667,
+ "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
