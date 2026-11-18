@@ -1816,7 +1816,10 @@
   "https://baahrakhari.com/detail/507590": 1794975061.5484362,
   "https://gorkhapatraonline.com/news/229445": 1794975061.5484362,
   "http://english.ratopati.com/story/87069/today-kushmanda-navami-special-worship-of-lord-vishnu-will-be-performed-until-purnima": 1794975061.5484362,
-  "https://gorkhapatraonline.com/news/229444": 1794975061.5484362
+  "https://gorkhapatraonline.com/news/229444": 1794975061.5484362,
+  "https://baahrakhari.com/detail/507594": 1794975652.7360916,
+  "https://www.setopati.com/politics/402811": 1794975652.7360916,
+  "https://gorkhapatraonline.com/news/229449": 1794975652.7360916
  },
  "queue": [
   {
@@ -2643,7 +2646,7 @@
    "cat": "politics",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 3
   },
   {
    "title": "स्रोत नखुलेको १ करोड ६७ लाखसहित ललितपुरबाट तीन जना पक्राउ",
@@ -3682,29 +3685,6 @@
    "val": 1,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "फास्ट ट्र्याकको मकवानपुर महादेवटारमा बन्दै गरेको सुरुङ आज छिचोलिँदै",
-   "summary": "तराई-मधेश द्रुतमार्ग अर्थात् (फास्ट ट्र्याक) अन्तर्गत मकवानपुरको महादेवटारमा बन्दै गरेको सुरुङ आज छिचोलिँदैछ ।",
-   "link": "https://www.ujyaaloonline.com/detail/133597",
-   "source": "Ujyaalo",
-   "ts": 1794971363,
-   "weight": 2,
-   "img": "https://www.ujyaaloonline.com/uploads/posts/mahadevtar-1794971270.JPG",
-   "lang": "ne",
-   "hl": "फास्ट ट्र्याकको मकवानपुर महादेवटारमा बन्दै गरेको सुरुङ आज छिचोलिँदै",
-   "en": "फास्ट ट्र्याकको मकवानपुर महादेवटारमा बन्दै गरेको सुरुङ आज छिचोलिँदै",
-   "ne": "फास्ट ट्र्याकको मकवानपुर महादेवटारमा बन्दै गरेको सुरुङ आज छिचोलिँदै",
-   "imp": 3,
-   "tags": [
-    "FastTrack",
-    "Makwanpur",
-    "सुरुङ"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "१६७ रोपनी जग्गा लिएर अस्पताल नबनाएको कोशी सरकारसँग अनसनपछि पाँचबुँदे सहमति",
@@ -4864,6 +4844,29 @@
    "cat": "culture",
    "val": 3,
    "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "पुनर्निर्माणको पर्खाइमा भूकम्पपीडित",
+   "summary": "रुकुमपश्चिम समाचारदातारुकुमपश्चिम, मङ्सिर २ गते । जाजरकोटको रामीडाँडा केन्द्रविन्दु भएर चार वर्षअघि गएको भूकम्पले घरबासविहीन भएका परिवार अस्थायी आवासमा बस्न बाध्य छन् । सरकारले पुन...",
+   "link": "https://gorkhapatraonline.com/news/229449",
+   "source": "Gorkhapatra",
+   "ts": 1794975356,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/391989/conversions/Tahara_Rukum_Raju-(2)-original.jpg",
+   "lang": "ne",
+   "hl": "पुनर्निर्माणको पर्खाइमा भूकम्पपीडित",
+   "en": "पुनर्निर्माणको पर्खाइमा भूकम्पपीडित",
+   "ne": "पुनर्निर्माणको पर्खाइमा भूकम्पपीडित",
+   "imp": 3,
+   "tags": [
+    "Earthquake",
+    "Reconstruction",
+    "भूकम्पपीडित"
+   ],
+   "cat": "disaster",
+   "val": 1,
+   "teaser": true,
    "hits": 1
   }
  ],
@@ -7837,10 +7840,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "sports"
+  },
+  {
+   "ts": 1794975659.9774945,
+   "en": "फास्ट ट्र्याकको मकवानपुर महादेवटार सुरुङ आज छिचोलिँदै",
+   "ne": "फास्ट ट्र्याकको मकवानपुर महादेवटार सुरुङ आज छिचोलिँदै",
+   "link": "https://www.ujyaaloonline.com/detail/133597",
+   "source": "Ujyaalo",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "economy"
   }
  ],
- "updated": 1794975067,
- "pending_since": null,
+ "updated": 1794975672,
+ "pending_since": 1794975652.7360916,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
