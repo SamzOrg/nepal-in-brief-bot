@@ -1861,7 +1861,8 @@
   "https://baahrakhari.com/detail/507599": 1794982251.4203715,
   "https://gorkhapatraonline.com/news/229464": 1794982251.4203715,
   "http://english.ratopati.com/story/87089/president-breaks-ground-on-long-fast-track-tunnel": 1794982251.4203715,
-  "http://english.ratopati.com/story/87088/ceo-subedis-commitment-to-cooperate-in-implementing-the-21-point-action-plan-for-capital-market-reform": 1794982251.4203715
+  "http://english.ratopati.com/story/87088/ceo-subedis-commitment-to-cooperate-in-implementing-the-21-point-action-plan-for-capital-market-reform": 1794982251.4203715,
+  "https://kathmandupost.com/world/2026/11/18/xi-putin-blast-western-protectionism-sanctions-before-meeting-trump-at-apec": 1794982851.2289536
  },
  "queue": [
   {
@@ -5646,29 +5647,6 @@
    "hits": 1
   },
   {
-   "title": "राजस्व संकलन रफ्तारमा, विकास खर्च विगतको भन्दा कमजोर",
-   "summary": "कात्तिक मसान्तसम्म सरकारले ४ खर्ब २२ अर्बको राजस्व संकलनको लक्ष्य राखेकोमा करिब ९० प्रतिशत बराबरको लक्ष्य पूरा गरेको छ। यता खर्च स्थिती भने विगतको भन्दा पनि कमजोर देखिएको छ।",
-   "link": "https://www.setopati.com/kinmel/economy/402814",
-   "source": "Setopati",
-   "ts": 1794978601,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "राजस्व संकलन रफ्तारमा, विकास खर्च विगतको भन्दा कमजोर",
-   "en": "राजस्व संकलन रफ्तारमा, विकास खर्च विगतको भन्दा कमजोर",
-   "ne": "राजस्व संकलन रफ्तारमा, विकास खर्च विगतको भन्दा कमजोर",
-   "imp": 4,
-   "tags": [
-    "Revenue",
-    "DevelopmentSpending",
-    "अर्थतन्त्र"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Canada, China agree further tariff cuts: PM Carney at APEC",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSDZmM1lLQVNfZElxS0hkMWlld3FNT1pLclI1ZjZ1cUNzakNKazVpbFFkMWtRd0poLWxfb1p6VGhPWUdJSGItaVBSUkQxUDd6cUZyNTVHcDExLV84RlhLZWpUcDNkcm1YSzA4MVo3RjA0ckJMbHJNNE9Qei1ZTlkxdDNwM29rNWxJVkVFeVNLcmItbjdOSWliTzBpUjIxLTNPeDIzTW91VnduQ3JlT1V3SUFNaEdrZw?oc=5",
@@ -6179,6 +6157,29 @@
     "नेप्से"
    ],
    "cat": "economy",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Xi, Putin blast Western 'protectionism', sanctions before meeting Trump at APEC",
+   "summary": "The remarks came ahead of a high-stakes trilateral meeting with Donald Trump, where the three leaders are expected to discuss the wars in Ukraine and Iran, trade and other global flashpoints.",
+   "link": "https://kathmandupost.com/world/2026/11/18/xi-putin-blast-western-protectionism-sanctions-before-meeting-trump-at-apec",
+   "source": "Kathmandu Post",
+   "ts": 1794968452.2342844,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "Xi, Putin blast Western 'protectionism', sanctions before meeting Trump at APEC",
+   "en": "Xi, Putin blast Western 'protectionism', sanctions before meeting Trump at APEC",
+   "ne": "Xi, Putin blast Western 'protectionism', sanctions before meeting Trump at APEC",
+   "imp": 1,
+   "tags": [
+    "XiJinping",
+    "VladimirPutin",
+    "APEC"
+   ],
+   "cat": "world",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -9154,10 +9155,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "disaster"
+  },
+  {
+   "ts": 1794982859.7661872,
+   "en": "चार महिनामा ३ खर्ब ७५ अर्ब राजस्व संकलन, पुँजीगत खर्च ७ प्रतिशतमा सीमित",
+   "ne": "चार महिनामा ३ खर्ब ७५ अर्ब राजस्व संकलन, पुँजीगत खर्च ७ प्रतिशतमा सीमित",
+   "link": "https://www.setopati.com/kinmel/economy/402814",
+   "source": "Setopati",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "economy"
   }
  ],
- "updated": 1794982262,
- "pending_since": null,
+ "updated": 1794982874,
+ "pending_since": 1794982851.2289536,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
