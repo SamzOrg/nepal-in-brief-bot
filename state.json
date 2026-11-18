@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://kathmandupost.com/visual-stories/2026/11/16/chhath-festival-concludes-with-offerings-to-rising-sun": 1794801682.0774326,
   "https://kathmandupost.com/visual-stories/2026/11/16/nepal-s-stolen-uma-maheshvara-statues-belong-back-in-their-shrines": 1794802254.575455,
   "https://news.google.com/rss/articles/CBMiekFVX3lxTE9Wb0gzbTlNTFBMbmliUDgzTWs0VU1kcVg2RHBfejJINzFpU0dndXo3VjVpS0RKYzlMUnUwdkt0dk8zRkdlM19mNjZRbUUwNlBZZUF1WDB3SzNXdUpOMl9SY0RDbm9ycnUwU2x3QXVCb3pQc1g2TDRURWlR?oc=5": 1794802853.390017,
   "https://gorkhapatraonline.com/news/229226": 1794802853.390017,
@@ -1797,7 +1796,8 @@
   "https://nagariknews.nagariknetwork.com/social-affairs/karnali-s-roads-are-death-roads-br-66-27.html": 1794973253.1774344,
   "https://nagariknews.nagariknetwork.com/Bazar/potatoes-cost-rs-30-per-kg-in-kalimati-46-57.html": 1794973253.1774344,
   "https://english.khabarhub.com/2026/18/575996/": 1794973851.0677602,
-  "https://gorkhapatraonline.com/news/229443": 1794973851.0677602
+  "https://gorkhapatraonline.com/news/229443": 1794973851.0677602,
+  "https://baahrakhari.com/detail/507592": 1794974488.016781
  },
  "queue": [
   {
@@ -3226,7 +3226,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 3
+   "hits": 4
   },
   {
    "title": "सहकारी ठगी मुद्दामा देवकुमार नेपालीसहित ७ जनालाई कैद र जरिवाना",
@@ -4473,17 +4473,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1794369072.4110851,
-   "en": "Bhotekoshi flood raised poverty by 2.7 percentage points, says National Planning Commission",
-   "ne": "Bhotekoshi flood raised poverty by 2.7 percentage points, says National Planning Commission",
-   "link": "https://asianews.network/how-many-nepalis-are-one-flood-away-from-poverty-the-kathmandu-post/",
-   "source": "Asia News Network",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "economy"
-  },
   {
    "ts": 1794370864.8872147,
    "en": "कोशी प्रदेशका मुख्यमन्त्री हिक्मतकुमार कार्कीले कात्तिक २५ गतेदेखि भाषा दिवस मनाउने र सरकारी कामकाजको भाषा ऐन कार्यान्वयन घोषणा",
@@ -7455,7 +7444,7 @@
    "cat": "sports"
   }
  ],
- "updated": 1794973867,
+ "updated": 1794974490,
  "pending_since": 1794973253.1774344,
  "fb_blocks": [
   1790350880.4125228,
