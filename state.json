@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMizwFBVV95cUxNNC16Um91emxRZmV4dFNhSnl6V2UtMXdFaEZsM0R2Nm9IaG1yZUJOTXY5MC00eGs0cncwTC1yUi11VVI3UmRSUTNWRlVQd2d1SlVYRkhJMzZicTdTQU9rVUxOc0JsMV9XYkYtVGtrSUlEQ0EzUUc5NmpZSTEyZnF5ZWhkMXhGd3FQTjQwRk1SY3VEUjRpLVBvZTdxSFRiRThtcktxLWFtQW1YaW40dzZ0V3RlZEZhZHFseWRiQjAxaEt1N2tsd0laVEZpb2ZENEE?oc=5": 1794847259.7619207,
   "https://news.google.com/rss/articles/CBMifEFVX3lxTE1XVG1rX3pFSnhwbVkxVTR3X2NZZGRlVUp3Q0hRbnZfaXE3YlVnaU5XcTExY1BtTm1tR2twbXVVYm5HTUROenRKMWZUd1d5a0lhd09Md1VmT2xjYzhmdV8wamw2UDh5VkJ1eFdaeTd0YTFDTjlYanl6X0prcjg?oc=5": 1794847859.4551299,
   "http://english.ratopati.com/story/86909/npl-nepali-players-dominate-in-bowling-foreigners-lead-in-batting": 1794852704.1551352,
   "https://gorkhapatraonline.com/news/229292": 1794852704.1551352,
@@ -1924,33 +1923,10 @@
   "https://theannapurnaexpress.com/story/68868": 1795019478.8924165,
   "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbWxRMVNxT0FNS3F2ZThoYlNDS2N2VmJJLWh5bmE5dU1zMThrbER3MHFKSTQ3QjB2d3dxM3NJd0o0SzktTDh4cjUycEtuQmRXOVR2S29KZlJjMURHNHJuRUxjZi1KQ1Z5ZDR3Yk5RT2x0UkpDVW1tdXktanBxT0NkTmFyMlZadEdDN1hLcVZ2bm1mNVJYYXR3NXNWaU8ta0RNaDYwbUxmbEt6ckdfN1dndC1kdi1wNndJcVE?oc=5": 1795019478.8924165,
   "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNHpxd3plak5ubHVUeTNKU3RHRHlUWkNuNzhyNVg3UVVyYjc3dnI4Z1lfZ2V6WVlxOThaOGhPMWxrX2tTY0FKXzd5Y0ltYzVHS3hWOGFGb1hiaDAyMWxjY25jQUVhMlpmQkxNNmptcHdjaVdpRjYwMzVKSFRETEhpSFNNeU9sSi10U0E4QngxemNLbjg5TDZZbDZ3dHQ?oc=5": 1795019478.8924165,
-  "http://english.ratopati.com/story/87203/misharas-record-breaking-century-sends-chitwan-into-second-qualifier-kathmandu-out": 1795020058.497395
+  "http://english.ratopati.com/story/87203/misharas-record-breaking-century-sends-chitwan-into-second-qualifier-kathmandu-out": 1795020058.497395,
+  "https://baahrakhari.com/detail/507678": 1795020657.9403841
  },
  "queue": [
-  {
-   "title": "भारतले जित्यो टेक्नो साफ च्याम्पियनसिप",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/507630",
-   "source": "Baahrakhari",
-   "ts": 1794991527,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "भारतले जित्यो टेक्नो साफ च्याम्पियनसिप",
-   "en": "भारतले जित्यो टेक्नो साफ च्याम्पियनसिप",
-   "ne": "भारतले जित्यो टेक्नो साफ च्याम्पियनसिप",
-   "imp": 3,
-   "tags": [
-    "SAFFChampionship",
-    "India",
-    "Football",
-    "भारत"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
   {
    "title": "फेर्ने के हो- सत्ता कि सत्ताको चरित्र?",
    "summary": "हामीले कसैलाई सिंहदरबार पुर्‍याउन आन्दोलन गरेका थिएनौं, राज्यको चरित्र फेर्न गरेका थियौं। त्यसैले आज बालेन र रविसँग हाम्रो सीधा प्रश्न छ- तपाईंहरू सत्तामा त पुग्नुभयो, अब सत्ता मात्र फेर्ने कि सत्ताको चरित्र पनि?",
@@ -2043,75 +2019,6 @@
    "hits": 1
   },
   {
-   "title": "Why fighting antimicrobial resistance requires a One Health approach",
-   "summary": "What if a simple infection could become life-threatening? What if the antibiotics needed to treat infections no longer worked? This is not a hypothetical future. It is a reality we are already beginning to face because...",
-   "link": "https://english.onlinekhabar.com/fighting-antimicrobial-resistance-nepal.html",
-   "source": "Onlinekhabar EN",
-   "ts": 1794991762,
-   "weight": 3,
-   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/11/antimicrobial-resistance-1024x569.jpeg",
-   "lang": "en",
-   "hl": "Why fighting antimicrobial resistance requires a One Health approach",
-   "en": "Why fighting antimicrobial resistance requires a One Health approach",
-   "ne": "Why fighting antimicrobial resistance requires a One Health approach",
-   "imp": 3,
-   "tags": [
-    "AMR",
-    "OneHealth",
-    "PublicHealth"
-   ],
-   "cat": "health",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Shared efforts essential for AMR prevention: Health Minister Mehta",
-   "summary": "Kathmandu, Nov 18: Minister for Health and Food Safety Nisha Mehta has pointed out the need of coordination and collabor...",
-   "link": "https://risingnepaldaily.com/news/88753",
-   "source": "Rising Nepal",
-   "ts": 1794991569,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Shared efforts essential for AMR prevention: Health Minister Mehta",
-   "en": "Shared efforts essential for AMR prevention: Health Minister Mehta",
-   "ne": "Shared efforts essential for AMR prevention: Health Minister Mehta",
-   "imp": 3,
-   "tags": [
-    "PradeepYadav",
-    "AMR",
-    "HealthMinistry"
-   ],
-   "cat": "health",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "धमाधम हुँदैछ सिमेन्ट उद्योगको काम",
-   "summary": "रजनी योगीसुर्खेत, मंसिर २ गते । सूर्यतारा सिमेन्ट उद्योगको काम धमाधम अघि बढेको छ । चौकुने गाउँपालिका -९ सुनाकाँडामा उद्योगको काम थालिएको हो । क्रसर प्लान्ट, आवास लगायतका भौतिक संरच...",
-   "link": "https://gorkhapatraonline.com/news/229482",
-   "source": "Gorkhapatra",
-   "ts": 1794991543,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/392039/conversions/udhog-(1)-original.jpg",
-   "lang": "ne",
-   "hl": "धमाधम हुँदैछ सिमेन्ट उद्योगको काम",
-   "en": "धमाधम हुँदैछ सिमेन्ट उद्योगको काम",
-   "ne": "धमाधम हुँदैछ सिमेन्ट उद्योगको काम",
-   "imp": 2,
-   "tags": [
-    "CementIndustry",
-    "Manufacturing",
-    "सिमेन्ट"
-   ],
-   "cat": "economy",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
-  },
-  {
    "title": "Police Recover 7 Hunting Rifles Hidden in Forest in Myagdi",
    "summary": "Myagdi. Police have recovered 7 hunting rifles hidden in the forest in Myagdi. Seven hunting rifles have been recovered from...",
    "link": "http://english.ratopati.com/story/87133/7-loaded-guns-hidden-in-the-forest-recovered",
@@ -2133,75 +2040,6 @@
    "val": 3,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "Businessman Arrested for Revenue Leakage and Tax Evasion",
-   "summary": "Kathmandu. A businessman has been arrested in a case of revenue leakage, sentenced to a fine of over 538.1 million...",
-   "link": "http://english.ratopati.com/story/87132/businessman-arrested-fined-rs-5381-million-and-sentenced-to-two-years-in-prison",
-   "source": "Ratopati EN",
-   "ts": 1794991828,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/cover-cib_PHawnDfOPw.jpg",
-   "lang": "en",
-   "hl": "Businessman Arrested for Revenue Leakage and Tax Evasion",
-   "en": "Businessman Arrested for Revenue Leakage and Tax Evasion",
-   "ne": "Businessman Arrested for Revenue Leakage and Tax Evasion",
-   "imp": 3,
-   "tags": [
-    "RevenueLeakage",
-    "TaxEvasion",
-    "Arrest"
-   ],
-   "cat": "crime",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Cyclone Akvan Nears Andhra Pradesh Coast, Intensifies",
-   "summary": "Amravati. The powerful cyclone 'Akvan' developed in the west-central Bay of Bengal is slowly moving towards the coast of Andhra...",
-   "link": "http://english.ratopati.com/story/87131/cyclone-akvan-approaches-andhra-pradesh-warning-of-landfall-winds-of-up-to-120-kmph",
-   "source": "Ratopati EN",
-   "ts": 1794991602,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/cylone_eiV30vAQ8z.webp",
-   "lang": "en",
-   "hl": "Cyclone Akvan Nears Andhra Pradesh Coast, Intensifies",
-   "en": "Cyclone Akvan Nears Andhra Pradesh Coast, Intensifies",
-   "ne": "Cyclone Akvan Nears Andhra Pradesh Coast, Intensifies",
-   "imp": 1,
-   "tags": [
-    "CycloneAkvan",
-    "AndhraPradesh",
-    "Weather"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "President Paudel Praises Army's Contribution to Infrastructure Development",
-   "summary": "Hetauda. President Ramchandra Paudel has stated that the Nepali Army has been making significant contributions to the country's road infrastructure...",
-   "link": "http://english.ratopati.com/story/87130/army-has-significant-contribution-in-road-infrastructure-construction-president",
-   "source": "Ratopati EN",
-   "ts": 1794991584,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/rILI9remkT.jpg",
-   "lang": "en",
-   "hl": "President Paudel Praises Army's Contribution to Infrastructure Development",
-   "en": "President Paudel Praises Army's Contribution to Infrastructure Development",
-   "ne": "President Paudel Praises Army's Contribution to Infrastructure Development",
-   "imp": 3,
-   "tags": [
-    "RamChandraPaudel",
-    "NepaliArmy",
-    "Infrastructure"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 3
   },
   {
    "title": "Newborn Dies at National Medical College, Birgunj; Family Alleges Negligence, Protests Erupt",
@@ -2593,29 +2431,6 @@
    "hits": 1
   },
   {
-   "title": "चीनले गर्यो कपाल पलाउने काइँयोको आविष्कार, मुसामा देखियो उत्साहजनक नतिजा",
-   "summary": "कपाल झर्ने र तालुपनको समस्याबाट चिन्तित व्यक्तिहरूका लागि वैज्ञानिकहरूले नयाँ प्रविधिको विकास गरेका छन्।...",
-   "link": "https://nagariknews.nagariknetwork.com/technology/china-invents-hair-growing-drug-shows-encouraging-results-in-mice-br-70-83.html",
-   "source": "Nagarik News",
-   "ts": 1794991502,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1794991003_talu%20electric%20comb%20bald.jpg",
-   "lang": "ne",
-   "hl": "चीनले गर्यो कपाल पलाउने काइँयोको आविष्कार, मुसामा देखियो उत्साहजनक नतिजा",
-   "en": "चीनले गर्यो कपाल पलाउने काइँयोको आविष्कार, मुसामा देखियो उत्साहजनक नतिजा",
-   "ne": "चीनले गर्यो कपाल पलाउने काइँयोको आविष्कार, मुसामा देखियो उत्साहजनक नतिजा",
-   "imp": 1,
-   "tags": [
-    "China",
-    "Innovation",
-    "Tech"
-   ],
-   "cat": "tech",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Two Arrested in Taplejung Death Case",
    "summary": "Taplejung. Police have arrested two people on suspicion of involvement in the death of 55-year-old Somraj Gurung, who was found...",
    "link": "http://english.ratopati.com/story/87144/two-arrested-in-somraj-gurung-death-case-in-taplejung",
@@ -2979,30 +2794,6 @@
    "hits": 1
   },
   {
-   "title": "Nepal, India urged to institutionalize private sector partnership for shared prosperity",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRVNXcTV6dzg3ZnMxTXdUVGJMU1hwMzhqVHJxYzNhYzh5VVJMTmxsVXh6T2dfcDh1WEdYT2l5YXU0aTlJRzlpWS02Yk1XWHp6YXVuQk42UG9rcVdVSVRSeWxuVHlZaEZjelpoczd0VGlrZ1duRjJGUmRhQVZGUkZWWWJfWHZPWE9scVBmZWloa2FpUFFzWnhPaHRXM0lxN2xZcFktNUI4UU1KdDRXVGd5cURSSTBvc2xkMXVCRWt3bkdJazlXN090VjhNN05mY3M?oc=5",
-   "source": "myRepublica",
-   "ts": 1794991342,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Nepal, India urged to institutionalize private sector partnership for shared prosperity",
-   "en": "Nepal, India urged to institutionalize private sector partnership for shared prosperity",
-   "ne": "Nepal, India urged to institutionalize private sector partnership for shared prosperity",
-   "imp": 3,
-   "tags": [
-    "Nepal",
-    "India",
-    "PrivateSector",
-    "Economy"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Experts Call for Stricter Laws to Combat Human Trafficking Amidst Foreign Employment",
    "summary": "Kathmandu. Experts have pointed out the need for strict policy and legal reforms to stop women from becoming victims of...",
    "link": "http://english.ratopati.com/story/87152/illegal-trade-from-organization-called-stop-human-trafficking-150000-women-abroad-at-risk",
@@ -3330,29 +3121,6 @@
    "val": 3,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "Protecting Privacy in the Digital Age",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONVEyMjdWS0hPRVF4YjRCTTJSYjgtNFdfWGllSFRkQnMxUnFGbi16T0M4UVJRZ3V4ckNwc3NxNUwxQU1wN0g4VzR6Y1FjQy1HaFROMGFIUjJsOG5JamctOW1ITEZMNEZxZnJ5VVk0X2VPSThBUDc0Z2lVbDR6a2J0OGRqQzMxN2J6WG5QblhNNk9GbUNUVVNR?oc=5",
-   "source": "myRepublica",
-   "ts": 1794991500,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Protecting Privacy in the Digital Age",
-   "en": "Protecting Privacy in the Digital Age",
-   "ne": "Protecting Privacy in the Digital Age",
-   "imp": 1,
-   "tags": [
-    "Privacy",
-    "DigitalAge",
-    "Technology"
-   ],
-   "cat": "tech",
-   "val": 1,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "एमालेमा नेताहरूको सम्पत्ति स्वघोषणा अनिवार्य गर्न महासचिव पोखरेलको प्रस्ताव",
@@ -4833,27 +4601,6 @@
    "hits": 1
   },
   {
-   "title": "Mathematics of Pi",
-   "summary": "Let's call Pi as one of the grammars of the language of this universe. Everything is inside it. We see Pi everywhere. It is also connected with the universe. But what is a Pi? Well, the answer is very philosophical: Pi...",
-   "link": "https://theannapurnaexpress.com/story/68862",
-   "source": "Annapurna Express",
-   "ts": 1794991267.1595867,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Mathematics of Pi",
-   "en": "Mathematics of Pi",
-   "ne": "Mathematics of Pi",
-   "imp": 1,
-   "tags": [
-    "Mathematics"
-   ],
-   "cat": "tech",
-   "val": 1,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "मासुमा 'सरकारी छाप'को अन्योलबारे पशु सेवा विभागका वरिष्ठ चिकित्सकलाई ९ जिज्ञासा",
    "summary": "",
    "link": "https://baahrakhari.com/detail/507634",
@@ -5053,7 +4800,7 @@
    "cat": "culture",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Nepali Congress President Gagan Thapa Yet to Nominate Office Bearers and Members",
@@ -6655,17 +6402,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1794415262.7268708,
-   "en": "Minister Chaudhary attends COP31 in Sherpa attire to highlight Himalayan climate issues",
-   "ne": "Minister Chaudhary attends COP31 in Sherpa attire to highlight Himalayan climate issues",
-   "link": "https://english.khabarhub.com/2026/11/575261/",
-   "source": "Khabarhub EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "politics"
-  },
   {
    "ts": 1794417064.8855796,
    "en": "संखुवासभाको खाँदबारीमा चट्याङ लागेर दुईजना घाइते",
@@ -9659,7 +9395,7 @@
    "cat": "economy"
   }
  ],
- "updated": 1795020070,
+ "updated": 1795020662,
  "pending_since": 1795019478.8924165,
  "fb_blocks": [
   1790350880.4125228,
