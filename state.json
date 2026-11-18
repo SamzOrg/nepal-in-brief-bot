@@ -1820,7 +1820,10 @@
   "http://english.ratopati.com/story/87079/five-ways-to-increase-iron-in-the-body-without-eating-meat-cooking-method-also-has-an-effect": 1794978652.9780226,
   "https://english.onlinekhabar.com/pregnant-woman-airlifted-to-surkhet-province-hospital.html": 1794978652.9780226,
   "https://gorkhapatraonline.com/news/229455": 1794978652.9780226,
-  "http://english.ratopati.com/story/87078/peltolas-historic-victory-strengthens-the-democratic-partys-majority-in-the-senate": 1794978652.9780226
+  "http://english.ratopati.com/story/87078/peltolas-historic-victory-strengthens-the-democratic-partys-majority-in-the-senate": 1794978652.9780226,
+  "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUmFXOUhfT3EwMFBHU0VDRVFXZE9kaEVCRnhiUXMzOFR5S3dyRUNtSnU5RVh2NWM4bDJlZEF1amZUV3FaRkR1dlNyeHczZmdtOFJ0ZWExWVIzR2FtalBFM2xua0czcllOQndHdlVwMUxKeDZIYnFjZkc2RDdULUhfaTIyYVJYSVh5M0xHellvQ1FRVlBWak1uaFJMbElRQmxIRzBZdnQwcnlxNVk?oc=5": 1794979254.748505,
+  "https://nagariknews.nagariknetwork.com/international/military-cargo-plane-crashes-in-russia-19-dead-94-48.html": 1794979254.748505,
+  "https://news.google.com/rss/articles/CBMinwFBVV95cUxOenhCdmJPNDVuMzBKa3V3SVFGSGlTWDJ3VHE0ZnpBVG42Z0EyN1Q2Q3A1R3JNRFhsa05CTjU1NnhKMFprVnlzbHh2RXFOaVlLZk5PQXJ5dFdOdXBqTUk2cy02WEREMGtQVjhObVY5eFhhYW1SM0phYlRZX3FDeFRsS2w4a2QzX0d4R21pX3ZkMTJHR2tlTXNULVNBbUotYzQ?oc=5": 1794979254.748505
  },
  "queue": [
   {
@@ -3087,7 +3090,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 4
+   "hits": 5
   },
   {
    "title": "आन्तरिक नियन्त्रण प्रणाली : विषयगत प्रश्नोत्तर",
@@ -5191,29 +5194,6 @@
    "hits": 1
   },
   {
-   "title": "Climate Justice Opens Doors, Credibility Brings Capital",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdXBKbjRPQktfdmRpeUZyM0JJLURUQnNxN0FFZ0ZHeUJadHhPVFdNbWo3a2VUY0VFVUpOTFNYQ20yYUNzWEk3OWtPX0F5UUlCcWZwNjI2cGNnU2pXRUlybUItUVdFSTNGSHptUW5Ic05mNDFjc21KcjI2U2UyNXBTV0NsaVEwemwxRHVJaHFiSVZXNWJPanVQZVFuVEpZbEEwZmpjR2pyLU5jSDNiNFE?oc=5",
-   "source": "myRepublica",
-   "ts": 1794973854,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Climate Justice Opens Doors, Credibility Brings Capital",
-   "en": "Climate Justice Opens Doors, Credibility Brings Capital",
-   "ne": "Climate Justice Opens Doors, Credibility Brings Capital",
-   "imp": 3,
-   "tags": [
-    "ClimateJustice",
-    "COP",
-    "Finance"
-   ],
-   "cat": "world",
-   "val": 2,
-   "teaser": false,
-   "hits": 2
-  },
-  {
    "title": "बालेन सरकारमाथि सीकेको आरोप : ८ महिनामा सिन्को पनि भाँच्न सकेनन्, बाँकी त एल्गोरिदम हुन्",
    "summary": "जनमत पार्टीका अध्यक्ष डा. सीके राउतले प्रधानमन्त्री बालेन्द्र शाह (बालेन) नेतृत्वको सरकारको कार्यशैलीप्रति असन्तुष्टि जनाउँदै चुनावअघि गरेका प्रतिबद्धता पूरा नगरेको आरोप लगाएका छन्।...",
    "link": "https://nagariknews.nagariknetwork.com/politics/ck-s-accusation-against-balen-government-couldn-t-break-even-five-in-8-months-the-rest-are-algorithms-26-94.html",
@@ -5280,7 +5260,7 @@
    "cat": "politics",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "युवाले लगाउन थाले 'फेरी'",
@@ -8598,10 +8578,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "society"
+  },
+  {
+   "ts": 1794979263.1769671,
+   "en": "Nepal Needs USD 121B+ for Climate Adaptation and Mitigation by 2050",
+   "ne": "Nepal Needs USD 121B+ for Climate Adaptation and Mitigation by 2050",
+   "link": "https://myrepublica.nagariknetwork.com/news/climate-justice-opens-doors-credibility-brings-capital-78-86.html",
+   "source": "myRepublica",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "world"
   }
  ],
- "updated": 1794978671,
- "pending_since": null,
+ "updated": 1794979275,
+ "pending_since": 1794979254.748505,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
