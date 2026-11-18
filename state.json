@@ -1814,30 +1814,6 @@
  },
  "queue": [
   {
-   "title": "कर्णालीमा खस र मगर भाषालाई पनि सरकारी कामकाजको भाषा बनाउन माग",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/507573",
-   "source": "Baahrakhari",
-   "ts": 1794939219,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "कर्णालीमा खस र मगर भाषालाई पनि सरकारी कामकाजको भाषा बनाउन माग",
-   "en": "कर्णालीमा खस र मगर भाषालाई पनि सरकारी कामकाजको भाषा बनाउन माग",
-   "ne": "कर्णालीमा खस र मगर भाषालाई पनि सरकारी कामकाजको भाषा बनाउन माग",
-   "imp": 3,
-   "tags": [
-    "Karnali",
-    "KhasLanguage",
-    "MagarLanguage",
-    "खसभाषा"
-   ],
-   "cat": "culture",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Apple harvest reaches 5,500 tons in Nepal's Humla district",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeTl6ODRxZVVMUGFaSXhYb25fZThQWU1tNUxfUUhROXhKc0t4MTdTM3JvNTU2VnhEczlBeHRyd2FIWmxoWFRHQ1piUTFXaHZ5OGtqOHIyWE12Q055ekQxR0pZaGJ0RFlKVEFFSGRfV0hMWXpiNGlRT241c21sdEZnLVczV1VoelVDUDdIVEdBSnpmVTgxV05mbUxvX0tYTnIyTHJRblhhQVFIbE0?oc=5",
@@ -2066,28 +2042,6 @@
    "val": 2,
    "teaser": false,
    "hits": 4
-  },
-  {
-   "title": "Millions flowed into former teacher Inam Sapkota's account in a year",
-   "summary": "Bank records show Rs63.1 million deposited into the fixer's account, with large sums transferred to company accounts soon afterwards.",
-   "link": "https://kathmandupost.com/national/2026/11/18/millions-flowed-into-former-teacher-inam-sapkota-s-account-in-a-year",
-   "source": "Kathmandu Post",
-   "ts": 1794948051.205085,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Millions flowed into former teacher Inam Sapkota's account in a year",
-   "en": "Millions flowed into former teacher Inam Sapkota's account in a year",
-   "ne": "Millions flowed into former teacher Inam Sapkota's account in a year",
-   "imp": 3,
-   "tags": [
-    "InamSapkota",
-    "FinancialCrime"
-   ],
-   "cat": "crime",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "Livelihood of Bote community under threat",
@@ -6327,9 +6281,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "society"
+  },
+  {
+   "ts": 1794968457.1315515,
+   "en": "Rs63.1M deposited in former teacher Inam Sapkota's bank account within a year",
+   "ne": "Rs63.1M deposited in former teacher Inam Sapkota's bank account within a year",
+   "link": "https://kathmandupost.com/national/2026/11/18/millions-flowed-into-former-teacher-inam-sapkota-s-account-in-a-year",
+   "source": "Kathmandu Post",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "crime"
   }
  ],
- "updated": 1794967855,
+ "updated": 1794968470,
  "pending_since": 1794967851.8304234,
  "fb_blocks": [
   1790350880.4125228,
