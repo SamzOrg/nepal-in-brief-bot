@@ -1881,29 +1881,6 @@
    "hits": 1
   },
   {
-   "title": "Nepal Proposes Separate Mountain Climate Program at COP-31",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRTczSW00NDhQUEY3TlNZbWxiNDVYMG1fczZpazB4Q094WDIzSzJ6UjBiVENleXB5dDc1X2tyX3JFeXBSaEZfa1ZZa2tuaUFfOXAwaEx0eWxVSkZWRlEyWnJOeDE3ejZ3QTZnYm9DSjBqSmxrU3VueTd4ZG5VU3U5YTB0eURpOE44T1FRQVlVQXJYOXNwa0lxLU5FZ2pHNVd1RnV0aWFhcjVyeWZITlY4eWlCZkZvNXBvT2xTUw?oc=5",
-   "source": "Hamro Patro",
-   "ts": 1794954969,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Nepal Proposes Separate Mountain Climate Program at COP-31",
-   "en": "Nepal Proposes Separate Mountain Climate Program at COP-31",
-   "ne": "Nepal Proposes Separate Mountain Climate Program at COP-31",
-   "imp": 3,
-   "tags": [
-    "MountainClimate",
-    "COP31",
-    "Nepal"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 6
-  },
-  {
    "title": "Nvidia Records Quarterly Sales Exceeding $100 Billion, Confirms Founder Jensen Huang Not Returning",
    "summary": "Kathmandu. Artificial intelligence (AI) chip manufacturing company Nvidia's quarterly sales have set a new record, surpassing $100 billion (1 kharba)...",
    "link": "http://english.ratopati.com/story/87043/nvidias-quarterly-sales-double-former-ceo-huang-rules-out-return",
@@ -3691,29 +3668,6 @@
     "JeffreyEpstein"
    ],
    "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Lumbini Lions roar into second straight NPL final",
-   "summary": "By Pramod JoshiKirtipur, Nov. 18: Lumbini Lions booked their place in a second consecutive Nepal Premier League (NPL) fi...",
-   "link": "https://risingnepaldaily.com/news/88740",
-   "source": "Rising Nepal",
-   "ts": 1794967653,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Lumbini Lions roar into second straight NPL final",
-   "en": "Lumbini Lions roar into second straight NPL final",
-   "ne": "Lumbini Lions roar into second straight NPL final",
-   "imp": 4,
-   "tags": [
-    "LumbiniLions",
-    "NPL",
-    "Cricket"
-   ],
-   "cat": "sports",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -6712,9 +6666,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "crime"
+  },
+  {
+   "ts": 1794970257.4701667,
+   "en": "Nepal Proposes Separate Mountain Climate Program at COP-31",
+   "ne": "Nepal Proposes Separate Mountain Climate Program at COP-31",
+   "link": "https://www.hamropatro.com/en/news/detail/1794955322684046967-nepal-proposes-separate-mountain-climate-program-at-cop-31",
+   "source": "Hamro Patro",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "world"
   }
  ],
- "updated": 1794969665,
+ "updated": 1794970267,
  "pending_since": 1794969661.4298546,
  "fb_blocks": [
   1790350880.4125228,
