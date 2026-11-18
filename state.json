@@ -1,8 +1,5 @@
 {
  "seen": {
-  "http://english.ratopati.com/story/86824/nawalparasi-bus-accident-update-number-of-injured-reaches-33-identities-of-all-revealed-list": 1794811263.4385042,
-  "https://english.onlinekhabar.com/icc-removes-super-six-stage.html": 1794811263.4385042,
-  "http://english.ratopati.com/story/86823/congress-amends-statutes-in-58-places-with-list-of-amendments": 1794811263.4385042,
   "http://english.ratopati.com/story/86827/karna-appointed-as-nepali-ambassador-to-israel": 1794811853.0937173,
   "https://news.google.com/rss/articles/CBMigwFBVV95cUxONWJWNE4tQzVfRFBfY0FQdmVBTDVfN28wX2JPR0VFZUJIV3dPLVByWTNUTDgyeUlDTnFJd1JiSV9VeVhua1VPWnZXb1ZtVngxMVhpME41UU9yeFpYalEwUlJPeFg0eDJGeF9ETG1mTlFCU202VkdMZXRRWlJTMllWYzlqbw?oc=5": 1794811853.0937173,
   "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWXpmeEs5MG9BVGVsVXJkaW5JTnFFMzNkcTMyQmMzcGZZZXk2c0VVclZoc1N1NVlKTWJoWlVONmE2X0k5V0JWYXhMa1B4cWJuT0JsLUk0dmZfYmhFNFY4ZU1iNUhFS2twZmhRRERPUFp3MFJ0dmp3RTlQdHQ2eFlvT2VkTQ?oc=5": 1794811853.0937173,
@@ -1861,7 +1858,33 @@
   "http://english.ratopati.com/story/87096/cpn-uml-national-gathering-begins-photos": 1794984050.217937,
   "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcTN0Tmszc0V5U0tPbkxpcFQ5am43OHAwVVhSN29qRGlGWjlkMk5Cd2ZManItZkR4bHZxanMtMTRLOGxGbC1oYTFQc09rOVg1NnI2MTFZMEFfUXVpYXFGNi1yWWlEQlBWLWJKcWFiM00xTV9CT0FFRDUtRVVWckFoV1JIVjkwVHd3Nk96WlEyRnZ1RXZKTjRoWVhFQ2NZREMxOE11V251MXRYVFZs0gG6AUFVX3lxTE5XWTNhSjVfR1Zxb1czcWFBcUtzbUUxNnhJZjRDTWlscC1uY2lYWThPelQwWm1paFJYdDZpWDdWQzBGMThzbVBUMkZTZGozQkNPbkVKRHVwZE11N3ZmWl9xWlZOM3lVMG43aHpJdnk1UDZZQnlGekZJMk5saTVUbE5CZk9PQjNqcFEyMVF6TjBlSXBtMTNZMi03QUR3RUp4R2FiYktldDlwRWJsdlZIR25WazJ6R3I1cWgyQQ?oc=5": 1794984050.217937,
   "https://kathmandupost.com/national/2026/11/18/nepal-urges-china-to-reopen-tatopani-border-crossing": 1794984050.217937,
-  "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVG10M2J3WEpTVF8wWXVub0J5a0hnRDVBNHU0WmM0Sk5rcWFTXzVMWXNYcXpMZjg5R1dGSGtQRllmUVhjanpubU9CVWtUS0xCaUFwR2JBTFctcnlPTkpJU2hxQlhObE5GNm03ZVRZbWI4eWhQZDBvZ0Q1UkI0cXFnLWFSWUt2ZkowdlI3QW9DOHQ3clF6clFSVG5wXzNFODlUendMNnFTZmNvYkZjSWRpZjZJTXkxU2lhOFHSAb8BQVVfeXFMT0FGNGUzdHNIdFh6X1FvblNvUldsWDFNU1puTmplOTV1QTJFalpfcERLOU4zRTlPc1o1bUlHMVoyTHZhUjd2MXZDT0lfb0FOMmcxY0hiX0VHT1JmUTZWc2NoZk40WkR5Qnpzdlc0Sm81bTJhYVVkT1BJNS1WbTZKbnctcTBDMy14WVlja2xGSjg0Uy0yZnhOY2tUVDJmak9OYWlUUVE4MnhTX1BLajZfWkZuVUNoY0lQdXVtVVA3eUk?oc=5": 1794984050.217937
+  "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVG10M2J3WEpTVF8wWXVub0J5a0hnRDVBNHU0WmM0Sk5rcWFTXzVMWXNYcXpMZjg5R1dGSGtQRllmUVhjanpubU9CVWtUS0xCaUFwR2JBTFctcnlPTkpJU2hxQlhObE5GNm03ZVRZbWI4eWhQZDBvZ0Q1UkI0cXFnLWFSWUt2ZkowdlI3QW9DOHQ3clF6clFSVG5wXzNFODlUendMNnFTZmNvYkZjSWRpZjZJTXkxU2lhOFHSAb8BQVVfeXFMT0FGNGUzdHNIdFh6X1FvblNvUldsWDFNU1puTmplOTV1QTJFalpfcERLOU4zRTlPc1o1bUlHMVoyTHZhUjd2MXZDT0lfb0FOMmcxY0hiX0VHT1JmUTZWc2NoZk40WkR5Qnpzdlc0Sm81bTJhYVVkT1BJNS1WbTZKbnctcTBDMy14WVlja2xGSjg0Uy0yZnhOY2tUVDJmak9OYWlUUVE4MnhTX1BLajZfWkZuVUNoY0lQdXVtVVA3eUk?oc=5": 1794984050.217937,
+  "https://english.onlinekhabar.com/kathmandu-gorkhas-chitwan-rhinos-npl.html": 1794984652.2706988,
+  "http://english.ratopati.com/story/87101/preparations-for-review-of-polling-stations-and-centers-in-banke": 1794984652.2706988,
+  "https://baahrakhari.com/detail/507610": 1794984652.2706988,
+  "https://baahrakhari.com/detail/507608": 1794984652.2706988,
+  "https://nagariknews.nagariknetwork.com/international/trump-japanese-pm-meet-pledge-cooperation-in-indo-pacific-92-42.html": 1794984652.2706988,
+  "https://www.setopati.com/politics/402826": 1794984652.2706988,
+  "https://gorkhapatraonline.com/news/229471": 1794984652.2706988,
+  "http://english.ratopati.com/story/87102/sumana-shrestha-announces-candidacy-for-kathmandu-mayor": 1794984652.2706988,
+  "https://baahrakhari.com/detail/507611": 1794984652.2706988,
+  "https://english.onlinekhabar.com/nepal-political-leadership-india.html": 1794984652.2706988,
+  "https://english.khabarhub.com/2026/18/576016/": 1794984652.2706988,
+  "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQzFyekF4YlFfQUMzYzFYUi1LSE9hUnQ1V3RyV0dLR29NVzB6aDVobDV3d1o4RjB1Qkd6clFXU2tJbVVyc0xpeEFOa0tJbkl1cVFnNjVwbFBWdm1hbUZUb3BHRXVsdFE2ZWZXblpLMnlQb2otT2c3SVNKWGluQ2RhNGcwMXluY2dzdDZQRXpXdDhUbGM?oc=5": 1794984652.2706988,
+  "https://theannapurnaexpress.com/story/68843": 1794984652.2706988,
+  "https://nagariknews.nagariknetwork.com/social-affairs/minister-badi-makes-seven-point-commitment-to-end-child-violence-br-36-67.html": 1794984652.2706988,
+  "https://www.setopati.com/social/402825": 1794984652.2706988,
+  "https://gorkhapatraonline.com/news/229465": 1794984652.2706988,
+  "http://english.ratopati.com/story/87100/changan-officially-launches-sda-pilot-with-the-aim-of-providing-a-safe-comfortable-and-stress-free-intelligent-driving-experience": 1794984652.2706988,
+  "https://baahrakhari.com/detail/507609": 1794984652.2706988,
+  "https://theannapurnaexpress.com/story/68842": 1794984652.2706988,
+  "https://nagariknews.nagariknetwork.com/blog/early-childhood-development-and-early-childhood-education-in-the-grip-of-schooling-br-30-41.html": 1794984652.2706988,
+  "https://www.setopati.com/kinmel/business/402820": 1794984652.2706988,
+  "https://gorkhapatraonline.com/news/229470": 1794984652.2706988,
+  "http://english.ratopati.com/story/87097/village-council-chairman-arrested-on-charges-of-forging-ward-members-signature-to-hold-village-assembly": 1794984652.2706988,
+  "https://theannapurnaexpress.com/story/68841": 1794984652.2706988,
+  "https://www.setopati.com/politics/402823": 1794984652.2706988,
+  "https://theannapurnaexpress.com/story/68840": 1794984652.2706988
  },
  "queue": [
   {
@@ -4089,7 +4112,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "स्वस्थ मासु बजार",
@@ -5184,29 +5207,6 @@
    "hits": 1
   },
   {
-   "title": "India Under-19s A Women vs Nepal Under-19s Women at Bengaluru , 20 Nov 2026",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOXZyal9UbnZfeEV0QTI2R19WVXB0bm41dWoyTVpjZXJIQUluREw2aHFVWDlaLXEzZzlGd0I2MTNhbW9YM2pESGNEd1lweUtNYU43YV81eklGVkZZSWVZakZMUUMwR21HLUYtNEZmMXgyTUV4Y1dieFRFSWoxTjZvekJqdDdDdzdMODZJeVN1RUl6LXZRTEJ3Y09lcXhGS0RDa0NJSnlsYll6aDdPVTV4SDVsSklyNEZiS1Jj?oc=5",
-   "source": "BCCI",
-   "ts": 1794955775,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "India Under-19s A Women vs Nepal Under-19s Women at Bengaluru , 20 Nov 2026",
-   "en": "India Under-19s A Women vs Nepal Under-19s Women at Bengaluru , 20 Nov 2026",
-   "ne": "India Under-19s A Women vs Nepal Under-19s Women at Bengaluru , 20 Nov 2026",
-   "imp": 2,
-   "tags": [
-    "Cricket",
-    "Under19",
-    "NepalVsIndia"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Wild elephant herds terrorise villagers in Saptari",
    "summary": "Saptari, November 18 Residents of Shripur village in Surunga Municipality-6, Saptari, are living in fear after herds of wild elephants began entering the village at night. According to locals, a herd of around 26...",
    "link": "https://english.onlinekhabar.com/wild-elephant-herds-terrorise-villagers-in-saptari.html",
@@ -5572,7 +5572,7 @@
    "cat": "world",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Canada, China agree further tariff cuts: PM Carney at APEC",
@@ -5826,7 +5826,7 @@
    "cat": "sports",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "नेतृत्व र प्रदर्शनमा कप्तानहरूको प्रतिस्पर्धा",
@@ -6132,7 +6132,7 @@
    "cat": "crime",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "काठमाडौं-दानाङ चार्टर उडान सञ्चालन गर्दै रुप्से होलिडेज",
@@ -6341,27 +6341,28 @@
    "hits": 1
   },
   {
-   "title": "राष्ट्रिय भेला उद्घाटनका लागि अध्यक्ष ओली कार्की बैंक्वेटमा, पुराना वामपन्थी नेता अधिकारी र पुष्पलालका भाइ पनि उपस्थित",
-   "summary": "भेलामा सहभागी प्रतिनिधिहरू यतिखेर भेलास्थल कार्की बेङ्क्वेट थापाथली हाइटमा जुट्दै छन्। देशभरबाट ३४ सय १४ प्रतिनिधिहरू सहभागी हुँदै छन्।...",
-   "link": "https://nagariknews.nagariknetwork.com/politics/chairman-oli-karki-at-the-banquet-to-inaugurate-the-national-gathering-old-leftist-leader-adhikari-and-pushpalal-s-brother-also-present-br-23-12.html",
-   "source": "Nagarik News",
+   "title": "बबरमहलमा सुरू भयो एमालेको राष्ट्रिय भेला",
+   "summary": "भेलाले पार्टीको तेस्रो पूर्ण बैठकले पारित गरेका दुई प्रमुख कार्यभार र १५ कामको कार्यान्वयनबारे छलफल गर्नेछ। यसलाई एमालेले स्थानीय तह निर्वाचनको तयारी समेत भनेको छ।",
+   "link": "https://www.setopati.com/politics/402823",
+   "source": "Setopati",
    "ts": 1794981391,
    "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1794981461_emale.png",
+   "img": null,
    "lang": "ne",
-   "hl": "राष्ट्रिय भेला उद्घाटनका लागि अध्यक्ष ओली कार्की बैंक्वेटमा, पुराना वामपन्थी नेता अधिकारी र पुष्पलालका भाइ पनि उपस्थित",
-   "en": "राष्ट्रिय भेला उद्घाटनका लागि अध्यक्ष ओली कार्की बैंक्वेटमा, पुराना वामपन्थी नेता अधिकारी र पुष्पलालका भाइ पनि उपस्थित",
-   "ne": "राष्ट्रिय भेला उद्घाटनका लागि अध्यक्ष ओली कार्की बैंक्वेटमा, पुराना वामपन्थी नेता अधिकारी र पुष्पलालका भाइ पनि उपस्थित",
+   "hl": "बबरमहलमा सुरू भयो एमालेको राष्ट्रिय भेला",
+   "en": "बबरमहलमा सुरू भयो एमालेको राष्ट्रिय भेला",
+   "ne": "बबरमहलमा सुरू भयो एमालेको राष्ट्रिय भेला",
    "imp": 2,
    "tags": [
-    "KPSharmaOli",
-    "UML",
-    "NationalGathering"
+    "CPNUML",
+    "Babarmahal",
+    "NationalGathering",
+    "एमाले"
    ],
    "cat": "politics",
-   "val": 2,
+   "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "बिआरआई सम्झौता र बहसमै सीमित",
@@ -6452,6 +6453,330 @@
    ],
    "cat": "disaster",
    "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "ट्रम्प र जापानी प्रधानमन्त्रीबीच भेटवार्ता, इन्डो-प्यासिफिकमा सहकार्यको प्रतिबद्धता",
+   "summary": "जापानको विदेश मन्त्रालयका अनुसार दुवै नेताबीच मंगलबार फिलिपिन्सको मनिलामा आयोजित रात्रिभोजका क्रममा कुराकानी भएको हो।...",
+   "link": "https://nagariknews.nagariknetwork.com/international/trump-japanese-pm-meet-pledge-cooperation-in-indo-pacific-92-42.html",
+   "source": "Nagarik News",
+   "ts": 1794984488,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2026/third-party/1794984432_takaichi%20and%20trump.jpg",
+   "lang": "ne",
+   "hl": "ट्रम्प र जापानी प्रधानमन्त्रीबीच भेटवार्ता, इन्डो-प्यासिफिकमा सहकार्यको प्रतिबद्धता",
+   "en": "ट्रम्प र जापानी प्रधानमन्त्रीबीच भेटवार्ता, इन्डो-प्यासिफिकमा सहकार्यको प्रतिबद्धता",
+   "ne": "ट्रम्प र जापानी प्रधानमन्त्रीबीच भेटवार्ता, इन्डो-प्यासिफिकमा सहकार्यको प्रतिबद्धता",
+   "imp": 1,
+   "tags": [
+    "Trump",
+    "Japan",
+    "IndoPacific"
+   ],
+   "cat": "world",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "एन्टिबायोटिक बिक्री र प्रयोगमा कडाइ गर्दै औषधी व्यवस्था विभाग",
+   "summary": "काठमाडौँ, मङ्सिर २ गते । औषधी व्यवस्था विभागले चिकित्सकको सिफारिसबिना एन्टिबायोटिक प्रयोग नगर्न सर्वसाधारणलाई आग्रह गरेको छ । विश्व प्रतिजैविक प्रतिरोध सचेतना सप्ताहका अवसरमा विभाग...",
+   "link": "https://gorkhapatraonline.com/news/229471",
+   "source": "Gorkhapatra",
+   "ts": 1794984358,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/392016/conversions/dda-original.jpg",
+   "lang": "ne",
+   "hl": "एन्टिबायोटिक बिक्री र प्रयोगमा कडाइ गर्दै औषधी व्यवस्था विभाग",
+   "en": "एन्टिबायोटिक बिक्री र प्रयोगमा कडाइ गर्दै औषधी व्यवस्था विभाग",
+   "ne": "एन्टिबायोटिक बिक्री र प्रयोगमा कडाइ गर्दै औषधी व्यवस्था विभाग",
+   "imp": 3,
+   "tags": [
+    "Antibiotics",
+    "DepartmentOfDrugAdministration",
+    "औषधिव्यवस्थाविभाग"
+   ],
+   "cat": "health",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "देश आतंकको छायामुनि चलिरहेको छ : ओली",
+   "summary": "",
+   "link": "https://baahrakhari.com/detail/507611",
+   "source": "Baahrakhari",
+   "ts": 1794984300,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "देश आतंकको छायामुनि चलिरहेको छ : ओली",
+   "en": "देश आतंकको छायामुनि चलिरहेको छ : ओली",
+   "ne": "देश आतंकको छायामुनि चलिरहेको छ : ओली",
+   "imp": 3,
+   "tags": [
+    "KPSharmaOli",
+    "Terror",
+    "Politics"
+   ],
+   "cat": "politics",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Nepal's Long-Pending Demand for Mahendranagar Air Route Gains Momentum Ahead of PM's India Visit",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQzFyekF4YlFfQUMzYzFYUi1LSE9hUnQ1V3RyV0dLR29NVzB6aDVobDV3d1o4RjB1Qkd6clFXU2tJbVVyc0xpeEFOa0tJbkl1cVFnNjVwbFBWdm1hbUZUb3BHRXVsdFE2ZWZXblpLMnlQb2otT2c3SVNKWGluQ2RhNGcwMXluY2dzdDZQRXpXdDhUbGM?oc=5",
+   "source": "Hindusthan Samachar English",
+   "ts": 1794982944,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "Nepal's Long-Pending Demand for Mahendranagar Air Route Gains Momentum Ahead of PM's India Visit",
+   "en": "Nepal's Long-Pending Demand for Mahendranagar Air Route Gains Momentum Ahead of PM's India Visit",
+   "ne": "Nepal's Long-Pending Demand for Mahendranagar Air Route Gains Momentum Ahead of PM's India Visit",
+   "imp": 4,
+   "tags": [
+    "MahendranagarAirRoute",
+    "IndiaVisit",
+    "NepalIndia"
+   ],
+   "cat": "politics",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Morocco, Senegal among six teams to seal Cup of Nations qualification",
+   "summary": "Morocco and Senegal booked their places at the 2027 Africa Cup of Nations finals with two qualification rounds to spare on Tuesday along with Benin, Burkina Faso, Cameroon and Mali, Reuters reported. The 24-team...",
+   "link": "https://theannapurnaexpress.com/story/68843",
+   "source": "Annapurna Express",
+   "ts": 1794970253.6397774,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "Morocco, Senegal among six teams to seal Cup of Nations qualification",
+   "en": "Morocco, Senegal among six teams to seal Cup of Nations qualification",
+   "ne": "Morocco, Senegal among six teams to seal Cup of Nations qualification",
+   "imp": 1,
+   "tags": [
+    "Morocco",
+    "Senegal",
+    "AfricaCupOfNations"
+   ],
+   "cat": "sports",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "बाल हिंसा अन्त्यका लागि मन्त्री बादीले गरिन् सातबुँदे प्रतिबद्धता",
+   "summary": "मन्त्री बादीले सन् २०२८ सम्म अनलाइन दुर्व्यवहारलगायत बालबालिकाविरुद्ध हुने सबै प्रकारका हिंसाबाट संरक्षण गर्न कानुन, नीति तथा राष्ट्रिय मापदण्ड सुदृढ बनाउने प्रतिबद्धता व्यक्त गरिन्।...",
+   "link": "https://nagariknews.nagariknetwork.com/social-affairs/minister-badi-makes-seven-point-commitment-to-end-child-violence-br-36-67.html",
+   "source": "Nagarik News",
+   "ts": 1794983733,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2026/third-party/1794983727_sita%20badi.jpg",
+   "lang": "ne",
+   "hl": "बाल हिंसा अन्त्यका लागि मन्त्री बादीले गरिन् सातबुँदे प्रतिबद्धता",
+   "en": "बाल हिंसा अन्त्यका लागि मन्त्री बादीले गरिन् सातबुँदे प्रतिबद्धता",
+   "ne": "बाल हिंसा अन्त्यका लागि मन्त्री बादीले गरिन् सातबुँदे प्रतिबद्धता",
+   "imp": 3,
+   "tags": [
+    "ChildViolence",
+    "MinisterBadi",
+    "बालहिंसा"
+   ],
+   "cat": "society",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "माटाका दियोको माग र बिक्री बढ्यो",
+   "summary": "सिराज खानबाँके, मङ्सिर २ गते । यस वर्ष तिहारमा माटाका दियो, पाला र अन्य भाडाको बिक्री विगतभन्दा धेरै बढेको छ । झिलिमिली बत्ती र आधुनिक सजावटका आधुनिक सामग्रीको प्रयोग बढ्दै गएपनि त...",
+   "link": "https://gorkhapatraonline.com/news/229465",
+   "source": "Gorkhapatra",
+   "ts": 1794983921,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/392007/conversions/bikri-ka-lagi-rakhiyeka-mata-ko-bhadaharu-original.jpg",
+   "lang": "ne",
+   "hl": "माटाका दियोको माग र बिक्री बढ्यो",
+   "en": "माटाका दियोको माग र बिक्री बढ्यो",
+   "ne": "माटाका दियोको माग र बिक्री बढ्यो",
+   "imp": 2,
+   "tags": [
+    "MatakoDiyo",
+    "Festival",
+    "माटाकादियो"
+   ],
+   "cat": "culture",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Changan Group Launches SDA Pilot Driver Assistance System",
+   "summary": "Changan Group has launched the advanced driver assistance system SDA Pilot, developed by its own engineering team. This system has...",
+   "link": "http://english.ratopati.com/story/87100/changan-officially-launches-sda-pilot-with-the-aim-of-providing-a-safe-comfortable-and-stress-free-intelligent-driving-experience",
+   "source": "Ratopati EN",
+   "ts": 1794984075,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/970608e9-f7b9-416e-ad98-9249cab33047_0EPdphcaps.webp",
+   "lang": "en",
+   "hl": "Changan Group Launches SDA Pilot Driver Assistance System",
+   "en": "Changan Group Launches SDA Pilot Driver Assistance System",
+   "ne": "Changan Group Launches SDA Pilot Driver Assistance System",
+   "imp": 1,
+   "tags": [
+    "ChanganGroup",
+    "SDA",
+    "DriverAssistance"
+   ],
+   "cat": "tech",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "परराष्ट्रमन्त्री खनालद्वारा चिनियाँ पक्षसँग तत्काल तातोपानी नाका खुलाउन जोड",
+   "summary": "",
+   "link": "https://baahrakhari.com/detail/507609",
+   "source": "Baahrakhari",
+   "ts": 1794984098,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "परराष्ट्रमन्त्री खनालद्वारा चिनियाँ पक्षसँग तत्काल तातोपानी नाका खुलाउन जोड",
+   "en": "परराष्ट्रमन्त्री खनालद्वारा चिनियाँ पक्षसँग तत्काल तातोपानी नाका खुलाउन जोड",
+   "ne": "परराष्ट्रमन्त्री खनालद्वारा चिनियाँ पक्षसँग तत्काल तातोपानी नाका खुलाउन जोड",
+   "imp": 3,
+   "tags": [
+    "TatopaniBorder",
+    "ForeignMinisterKhanal",
+    "China",
+    "तातपानीनाका"
+   ],
+   "cat": "politics",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Man Utd teenager Gabriel announces departure amid expected Real Madrid move",
+   "summary": "Manchester United prodigy JJ Gabriel has said he is leaving the club, with the 16-year-old ‌expected to join Real Madrid. Gabriel announced the news in an Instagram video on Tuesday, Reuters reported.",
+   "link": "https://theannapurnaexpress.com/story/68842",
+   "source": "Annapurna Express",
+   "ts": 1794970253.6397774,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "Man Utd teenager Gabriel announces departure amid expected Real Madrid move",
+   "en": "Man Utd teenager Gabriel announces departure amid expected Real Madrid move",
+   "ne": "Man Utd teenager Gabriel announces departure amid expected Real Madrid move",
+   "imp": 1,
+   "tags": [
+    "ManUtd",
+    "Gabriel",
+    "RealMadrid"
+   ],
+   "cat": "sports",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "विद्यालयीकरणको चपेटामा प्रारम्भिक बाल विकास र बालशिक्षा",
+   "summary": "प्रारम्भिक बाल विकास र बाल शिक्षा (इसिइडी) को प्राथमिक ध्येय बालबालिकाको सर्वाङ्गीण (शारीरिक, संवेगात्मक, सामाजिक, भाषिक तथा संज्ञानात्मक) उन्नति हासिल गराउनु हो।...",
+   "link": "https://nagariknews.nagariknetwork.com/blog/early-childhood-development-and-early-childhood-education-in-the-grip-of-schooling-br-30-41.html",
+   "source": "Nagarik News",
+   "ts": 1794983645,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2026/third-party/1794984556_Paramvik%20babi.jpg",
+   "lang": "ne",
+   "hl": "विद्यालयीकरणको चपेटामा प्रारम्भिक बाल विकास र बालशिक्षा",
+   "en": "विद्यालयीकरणको चपेटामा प्रारम्भिक बाल विकास र बालशिक्षा",
+   "ne": "विद्यालयीकरणको चपेटामा प्रारम्भिक बाल विकास र बालशिक्षा",
+   "imp": 2,
+   "tags": [
+    "ECD",
+    "SchoolEducation",
+    "प्रारम्भिकबालविकास"
+   ],
+   "cat": "education",
+   "val": 1,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "याङ्गो ग्रुपले नियुक्त गर्‍यो मोबिलिटी सेवाको ग्लोबल हेड अफ सेफ्टी",
+   "summary": "",
+   "link": "https://www.setopati.com/kinmel/business/402820",
+   "source": "Setopati",
+   "ts": 1794983627,
+   "weight": 3,
+   "img": null,
+   "lang": "ne",
+   "hl": "याङ्गो ग्रुपले नियुक्त गर्‍यो मोबिलिटी सेवाको ग्लोबल हेड अफ सेफ्टी",
+   "en": "याङ्गो ग्रुपले नियुक्त गर्‍यो मोबिलिटी सेवाको ग्लोबल हेड अफ सेफ्टी",
+   "ne": "याङ्गो ग्रुपले नियुक्त गर्‍यो मोबिलिटी सेवाको ग्लोबल हेड अफ सेफ्टी",
+   "imp": 1,
+   "tags": [
+    "Yango",
+    "GlobalHeadOfSafety",
+    "Mobility"
+   ],
+   "cat": "tech",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Sarlahi Village Chairman Arrested for Forging Government Documents",
+   "summary": "Sarlahi. Ramasihan Rai, chairman of Basbaria Rural Municipality in Sarlahi, has been arrested on charges of forging government documents.He was...",
+   "link": "http://english.ratopati.com/story/87097/village-council-chairman-arrested-on-charges-of-forging-ward-members-signature-to-hold-village-assembly",
+   "source": "Ratopati EN",
+   "ts": 1794983654,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/915037284_2037477713538380_9160217976297772131_n_ZNcplL9v6r.webp",
+   "lang": "en",
+   "hl": "Sarlahi Village Chairman Arrested for Forging Government Documents",
+   "en": "Sarlahi Village Chairman Arrested for Forging Government Documents",
+   "ne": "Sarlahi Village Chairman Arrested for Forging Government Documents",
+   "imp": 3,
+   "tags": [
+    "Sarlahi",
+    "VillageChairman",
+    "Forgery",
+    "Corruption"
+   ],
+   "cat": "crime",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Former England striker Rooney says he contemplated suicide during playing career",
+   "summary": "Former England and Manchester United striker Wayne Rooney contemplated suicide during his playing career, he said in a podcast episode released on Tuesday, Reuters reported. One of the country's most decorated players,...",
+   "link": "https://theannapurnaexpress.com/story/68841",
+   "source": "Annapurna Express",
+   "ts": 1794970253.6397774,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "Former England striker Rooney says he contemplated suicide during playing career",
+   "en": "Former England striker Rooney says he contemplated suicide during playing career",
+   "ne": "Former England striker Rooney says he contemplated suicide during playing career",
+   "imp": 1,
+   "tags": [
+    "WayneRooney",
+    "MentalHealth",
+    "Football"
+   ],
+   "cat": "sports",
+   "val": 3,
    "teaser": false,
    "hits": 1
   }
@@ -9437,10 +9762,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "economy"
+  },
+  {
+   "ts": 1794984662.4562771,
+   "en": "पूर्व शिक्षामन्त्री सुमना श्रेष्ठद्वारा काठमाडौं महानगरको मेयरमा उम्मेदवारी दिने घोषणा",
+   "ne": "पूर्व शिक्षामन्त्री सुमना श्रेष्ठद्वारा काठमाडौं महानगरको मेयरमा उम्मेदवारी दिने घोषणा",
+   "link": "https://www.setopati.com/politics/402826",
+   "source": "Setopati",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "politics"
   }
  ],
- "updated": 1794984055,
- "pending_since": 1794984050.217937,
+ "updated": 1794984679,
+ "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
