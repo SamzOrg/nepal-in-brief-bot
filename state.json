@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBBVWR5MVdPcGFqVjRyTnpLX1RDWDRBS25UeWZnMXNERGxrRXJCT0QwMFNkbTQyTTdNQTcwTGpyNjBOY0dJUTVTZ3J6bzR6YWc2?oc=5": 1794897074.355194,
-  "https://theannapurnaexpress.com/story/68809": 1794897074.355194,
   "https://nagariknews.nagariknetwork.com/social-affairs/kande-bhakur-also-seen-in-arghakhanchi-br-72-91.html": 1794897652.2152097,
   "https://kathmandupost.com/national/2026/11/17/advocates-seek-sweeping-changes-to-nepal-s-sexual-violence-laws": 1794897652.2152097,
   "https://gorkhapatraonline.com/news/229349": 1794898255.653488,
@@ -1955,7 +1953,17 @@
   "http://english.ratopati.com/story/87259/there-is-no-need-for-religious-fanaticism-in-politics-chairman-oli": 1795069263.368551,
   "https://baahrakhari.com/detail/507716": 1795069263.368551,
   "https://nagariknews.nagariknetwork.com/social-affairs/kathmandu-is-the-third-most-polluted-city-in-the-world-96-52.html": 1795069263.368551,
-  "https://nagariknews.nagariknetwork.com/politics/the-current-government-is-not-within-its-limits-br-85-44.html": 1795069263.368551
+  "https://nagariknews.nagariknetwork.com/politics/the-current-government-is-not-within-its-limits-br-85-44.html": 1795069263.368551,
+  "https://gorkhapatraonline.com/news/229567": 1795069878.999105,
+  "https://english.onlinekhabar.com/gold-price-falls-by-rs-3300-per-tola.html": 1795069878.999105,
+  "https://news.google.com/rss/articles/CBMie0FVX3lxTE1yUFE5NV9mNV80RmdKcUdXZVh0YVB6SWhLR09NeVRpdk9vMFRkZXVDZVM5VGZfR3U4YWJWcUN4RkxqbU5LYTNLd0ZTQWVVY2owTkNUb2dId1RQOHFBNDloMWJpM1FNekc5ZmRFdXdMS1RKNnZmQXpOWGRuNA?oc=5": 1795069878.999105,
+  "http://english.ratopati.com/story/87264/army-should-know-why-the-security-of-the-rashtrapati-bhavan-could-not-be-ensured-oli": 1795069878.999105,
+  "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeGZSU0tKWnpuZFdHM2xkQk9VRjlLcmU0dUQ1SkZDME9BcUJNOWFBR0R6MjR4aGhiVkgzN1ZfdHNFZGYtaEdhRGFWaWZQcWV0NzhvOEdVN1FHREdVWWktaTNTcjV4MUd2TnprUVRXTDNfV2wxaWNjQi1sVnNSdGpqNTVsaDc5MjEwbl94aEZyZmE?oc=5": 1795069878.999105,
+  "https://nagariknews.nagariknetwork.com/social-affairs/bhimphedi-sumo-accident-three-dead-and-seven-injured-identified-with-names-85-93.html": 1795069878.999105,
+  "https://kathmandupost.com/sports/2026/11/19/anfa-suspension-lifted-after-months-of-restrictions": 1795069878.999105,
+  "https://risingnepaldaily.com/news/88779": 1795069878.999105,
+  "https://baahrakhari.com/detail/507721": 1795069878.999105,
+  "https://nagariknews.nagariknetwork.com/social-affairs/relief-of-2-lakh-rupees-to-the-families-of-those-who-went-missing-in-the-bhotekoshi-flood-in-kanchanpur-br-83-71.html": 1795069878.999105
  },
  "queue": [
   {
@@ -4743,7 +4751,7 @@
    "cat": "disaster",
    "val": 3,
    "teaser": false,
-   "hits": 3
+   "hits": 4
   },
   {
    "title": "Government's 'one health worker, one institution' programme stalls amid doctors' opposition",
@@ -6021,29 +6029,6 @@
    "hits": 2
   },
   {
-   "title": "Kanchapur Families of 26 Missing in Bhote Koshi Flood to Receive Rs 2 Lakh Relief Each",
-   "summary": "Kanchanpur. Families of 26 people from Kanchanpur who went missing in the flood in Bhote Koshi will be provided relief...",
-   "link": "http://english.ratopati.com/story/87255/relief-of-2-lakh-rupees-to-the-families-of-those-who-went-missing-in-the-bhotekoshi-flood-in-kanchanpur",
-   "source": "Ratopati EN",
-   "ts": 1795066685,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/kanchanpur_e3gtuuoi9c_NWReY0jTdJ.jpg",
-   "lang": "en",
-   "hl": "Kanchapur Families of 26 Missing in Bhote Koshi Flood to Receive Rs 2 Lakh Relief Each",
-   "en": "Kanchapur Families of 26 Missing in Bhote Koshi Flood to Receive Rs 2 Lakh Relief Each",
-   "ne": "Kanchapur Families of 26 Missing in Bhote Koshi Flood to Receive Rs 2 Lakh Relief Each",
-   "imp": 4,
-   "tags": [
-    "BhoteKoshi",
-    "Flood",
-    "Relief"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Parliamentary Committee Monitors Flood-Hit Gandaki Province",
    "summary": "Pokhara. A parliamentary special committee for study and monitoring of disaster related to the Bhote Koshi and Kaligandaki Corridor under...",
    "link": "http://english.ratopati.com/story/87254/parliamentary-special-committee-team-monitoring-disaster-affected-areas",
@@ -6317,7 +6302,7 @@
    "cat": "sports",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "४ महिनामा ६ हजार २९ सवारीलाई कारबाही, ८९ लाख बढी राजस्व संकलन",
@@ -6708,6 +6693,29 @@
    "cat": "politics",
    "val": 1,
    "teaser": true,
+   "hits": 1
+  },
+  {
+   "title": "कञ्चनपुरका भोटेकोशी बाढीमा बेपत्ता भएका परिवारलाई दुई लाख राहत",
+   "summary": "भोटेकोशीमा आएको बाढीमा परी बेपत्ता भएका कञ्चनपुरका २६ जनाका परिवारलाई जनही दुई लाख रुपैयाँ राहत उपलब्ध गराउने निर्णय गरिएको छ।...",
+   "link": "https://nagariknews.nagariknetwork.com/social-affairs/relief-of-2-lakh-rupees-to-the-families-of-those-who-went-missing-in-the-bhotekoshi-flood-in-kanchanpur-br-83-71.html",
+   "source": "Nagarik News",
+   "ts": 1795069006,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2024/third-party/1789891355_badhi%2098.jpg",
+   "lang": "ne",
+   "hl": "कञ्चनपुरका भोटेकोशी बाढीमा बेपत्ता भएका परिवारलाई दुई लाख राहत",
+   "en": "कञ्चनपुरका भोटेकोशी बाढीमा बेपत्ता भएका परिवारलाई दुई लाख राहत",
+   "ne": "कञ्चनपुरका भोटेकोशी बाढीमा बेपत्ता भएका परिवारलाई दुई लाख राहत",
+   "imp": 3,
+   "tags": [
+    "Kanchanpur",
+    "Flood",
+    "राहत"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
    "hits": 1
   }
  ],
@@ -9714,9 +9722,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "economy"
+  },
+  {
+   "ts": 1795069893.5702832,
+   "en": "Kanchanpur Families of 26 Missing in Bhote Koshi Flood to Get Rs 2 Lakh Relief",
+   "ne": "Kanchanpur Families of 26 Missing in Bhote Koshi Flood to Get Rs 2 Lakh Relief",
+   "link": "http://english.ratopati.com/story/87255/relief-of-2-lakh-rupees-to-the-families-of-those-who-went-missing-in-the-bhotekoshi-flood-in-kanchanpur",
+   "source": "Ratopati EN",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "disaster"
   }
  ],
- "updated": 1795069273,
+ "updated": 1795069908,
  "pending_since": 1795069263.368551,
  "fb_blocks": [
   1790350880.4125228,
