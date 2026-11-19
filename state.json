@@ -2015,7 +2015,8 @@
   "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdWpXOFFwNnZnM0lNQ3l1OHF6MngydkpFX1o5ZkpkT2Z2LTRZSklGRFJ6S3V2MjM5YmUyVEd0Q3g0blA4TnNBNWhjd2JQZ0lFUG5fWDkzdThUZ3VIR3VITG1md3VMYmlJYU9uMnF1aTlUWU51RzZGaG9aOEZQcWVCUzNyT0wtR3lYVi1ZSkZrbmRsSUl1azhsUjhpZ9IBlwFBVV95cUxPVkFLMGZKcnpFSEVoY0R5SVBRTmo4clNGQzdweGdWSTFiVGxGajF6TVNKUThOTkt4cWN3X25ZY2lmS0xINGFvRktGYTJ2TTVZc1lRQ25XM2dyMlR5SWRvRVlaZ3FyeG5pUWc0ejNWeGVUZmhwVEstVHlfeERTaTA4NmNMZlFrTUtfcXdzdjNMMGxMd1ppVllz?oc=5": 1795117853.628309,
   "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVUpSTzRfY2tVU0dKajNDamhPNFZaQUU4YTU5RGV2Mkxfc05hUlZLQXBnNkNGWDUzajZiNDd1QmV3MU1qd2RLQWRSSHpwSGNiMDlXM3Q4U3hxYzRQdnBoVmlkS213SThSUVFnY04zb0JidTA4OTRlS29JY1A1T0o2MjlJV2NkQVhsbWRETk1FaGxPTXpHZlpnaE92cUVRUE1BTHlacFdlak1ZSng0Q3NTWWxJdGF2ZXdNM3ppaDI5b29XY3dITEdiam1ZdU9CTDQ?oc=5": 1795119657.0615432,
   "https://news.google.com/rss/articles/CBMizwFBVV95cUxPcmc1YkJ2NGZ2M3NIMTA2UGFmU1dFd2Jhak5WcEYyTFUzNXgzeUMtT0NTcEkwM3YwLTZRUnM5NUxlR2hXZ1pPVUM4Tjc2SU9UMXc2M2N1dGZGeHVIUVFYOURxdGFJSFhWT3F4Y2QtTW81b0I4aS05eVY5ajNyd3BSY2Y5cHhfY1VzcXdGVmJOTnVyYWNYb3c3ckl6N3ladjJNX1pnNkVGcTBsYzByTlJpVTRqQXQ0allzMU9ReXRzVjdYYU1qcWNsLW1aUzlsWEk?oc=5": 1795119657.0615432,
-  "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9KQmZYM1ZkUkVJYndmV1dWTFJKSTVHaDlMWmw0QVJ1MEQ4TWJOQ2V0dzVkdWVsLXVGbU5WV2puWnJLNXhVUHNGUHJnOVFRRHVPOGc1WjZ3?oc=5": 1795125062.5792613
+  "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9KQmZYM1ZkUkVJYndmV1dWTFJKSTVHaDlMWmw0QVJ1MEQ4TWJOQ2V0dzVkdWVsLXVGbU5WV2puWnJLNXhVUHNGUHJnOVFRRHVPOGc1WjZ3?oc=5": 1795125062.5792613,
+  "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1UN1l4THRhS2ZpeVlzaUp3UUxlT1hCeGpDTF9ZWU1nQjJaX1h2Q25rT09vdXhSMFZRc29peFhHLThtQ1RxOWlhMjFjZGxnV0px?oc=5": 1795126854.531642
  },
  "queue": [
   {
@@ -2315,7 +2316,7 @@
    "cat": "sports",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "Today's News in a Nutshell",
@@ -2739,29 +2740,6 @@
     "India"
    ],
    "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "विपद्को पूर्वसूचना दिने 'सेल ब्रोडकास्टिङ' प्रणाली परीक्षण गरिँदै",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/507789",
-   "source": "Baahrakhari",
-   "ts": 1795107608,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "विपद्को पूर्वसूचना दिने 'सेल ब्रोडकास्टिङ' प्रणाली परीक्षण गरिँदै",
-   "en": "विपद्को पूर्वसूचना दिने 'सेल ब्रोडकास्टिङ' प्रणाली परीक्षण गरिँदै",
-   "ne": "विपद्को पूर्वसूचना दिने 'सेल ब्रोडकास्टिङ' प्रणाली परीक्षण गरिँदै",
-   "imp": 4,
-   "tags": [
-    "EarlyWarning",
-    "CellBroadcast",
-    "Disaster"
-   ],
-   "cat": "disaster",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -6054,9 +6032,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "politics"
+  },
+  {
+   "ts": 1795126860.3228612,
+   "en": "विपद्को पूर्वसूचना दिन 'सेल ब्रोडकास्टिङ' प्रणालीको परीक्षण मंसिर ४ गते हुँदै",
+   "ne": "विपद्को पूर्वसूचना दिन 'सेल ब्रोडकास्टिङ' प्रणालीको परीक्षण मंसिर ४ गते हुँदै",
+   "link": "https://baahrakhari.com/detail/507789",
+   "source": "Baahrakhari",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "disaster"
   }
  ],
- "updated": 1795126265,
+ "updated": 1795126879,
  "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
