@@ -1943,7 +1943,8 @@
   "https://theannapurnaexpress.com/story/68883": 1795064491.3053627,
   "https://kathmandupost.com/national/2026/11/19/three-killed-seven-injured-in-jeep-crash-in-makawanpur": 1795064491.3053627,
   "http://english.ratopati.com/story/87245/this-is-what-kathmandu-looked-like-after-becoming-the-third-most-polluted-city-in-the-world": 1795065054.648184,
-  "https://news.google.com/rss/articles/CBMiygFBVV95cUxPb19zdDlVSkVBYmhnSkczOGNHN1EyVW90NlpidU9pbU45b21HQ1R1QTVSS0wyNVYtTnA5eFdjcU4ycmdoMmFiREp3SnB6MGdUMk5xbFlpblJmdmp5QnRCTUFaOUU5NElEczVLaktlMkxyS1AxSTJ4QXRRQW5BSTZ4aWdzend0SFJFemJQN2xNamtFQzhfUlFheVFrOGhRS2drWkVOOGZDZjZHYzFHTWNCMjVWVFFWRk5nNTNGc1dURnV3eUdpUFo2UHd3?oc=5": 1795065054.648184
+  "https://news.google.com/rss/articles/CBMiygFBVV95cUxPb19zdDlVSkVBYmhnSkczOGNHN1EyVW90NlpidU9pbU45b21HQ1R1QTVSS0wyNVYtTnA5eFdjcU4ycmdoMmFiREp3SnB6MGdUMk5xbFlpblJmdmp5QnRCTUFaOUU5NElEczVLaktlMkxyS1AxSTJ4QXRRQW5BSTZ4aWdzend0SFJFemJQN2xNamtFQzhfUlFheVFrOGhRS2drWkVOOGZDZjZHYzFHTWNCMjVWVFFWRk5nNTNGc1dURnV3eUdpUFo2UHd3?oc=5": 1795065054.648184,
+  "http://english.ratopati.com/story/87249/santiago-network-provides-technical-assistance-to-nepal-in-climate-related-damage-and-glacier-risk-management": 1795065652.589245
  },
  "queue": [
   {
@@ -5648,17 +5649,6 @@
  ],
  "posted": [
   {
-   "ts": 1794460256.486013,
-   "en": "Nepal Foreign Minister Calls For Mountain-Specific Early Warning Systems At COP31",
-   "ne": "Nepal Foreign Minister Calls For Mountain-Specific Early Warning Systems At COP31",
-   "link": "https://kathmandupost.com/national/2026/11/12/nepal-seeks-mountain-specific-early-warning-systems-after-devastating-flood",
-   "source": "The Kathmandu Post",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "disaster"
-  },
-  {
    "ts": 1794462060.0187907,
    "en": "Security tightened in Jhapa border as wild elephants attempt to enter from India",
    "ne": "Security tightened in Jhapa border as wild elephants attempt to enter from India",
@@ -8662,7 +8652,7 @@
    "cat": "politics"
   }
  ],
- "updated": 1795065059,
+ "updated": 1795065656,
  "pending_since": 1795064491.3053627,
  "fb_blocks": [
   1790350880.4125228,
