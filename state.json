@@ -1944,7 +1944,11 @@
   "https://gorkhapatraonline.com/news/229545": 1795061457.8449216,
   "https://nagariknews.nagariknetwork.com/economy/energy-minister-shrestha-moves-forward-with-ppa-first-phase-to-be-with-government-company-with-1-000-mw-capacity-57-47.html": 1795061457.8449216,
   "https://nagariknews.nagariknetwork.com/interview/uml-rises-again-by-connecting-with-the-people-br-67-90.html": 1795061457.8449216,
-  "https://nagariknews.nagariknetwork.com/politics/home-minister-gurung-returns-home-after-dubai-visit-88-95.html": 1795061457.8449216
+  "https://nagariknews.nagariknetwork.com/politics/home-minister-gurung-returns-home-after-dubai-visit-88-95.html": 1795061457.8449216,
+  "http://english.ratopati.com/story/87233/sumo-driver-who-crashed-in-buffalo-says-his-eyes-suddenly-closed-he-couldnt-see-anything": 1795062053.9035816,
+  "http://english.ratopati.com/story/87232/two-youths-die-after-motorcycle-crashes-into-rice-harvester": 1795062053.9035816,
+  "https://baahrakhari.com/detail/507708": 1795062053.9035816,
+  "https://baahrakhari.com/detail/507707": 1795062053.9035816
  },
  "queue": [
   {
@@ -3769,29 +3773,6 @@
    "hits": 1
   },
   {
-   "title": "Two killed in tractor-motorcycle collision in Jhapa",
-   "summary": "JHAPA: Two people died after a motorcycle collided with a tractor on the Charpane-Rajgadh inner road in Khatkhati Tol, Bahradashi Rural Municipality-5, Jhapa, last night. According to Deputy Superintendent of Police...",
-   "link": "https://english.khabarhub.com/2026/19/576129/",
-   "source": "Khabarhub EN",
-   "ts": 1795056127,
-   "weight": 2,
-   "img": "https://english.khabarhub.com/wp-content/uploads/2024/10/Khabar-Hub-News_Accident_1200px-630X-px-Final_2021.01.21-Upload-e1748330914908-400x220.webp",
-   "lang": "en",
-   "hl": "Two killed in tractor-motorcycle collision in Jhapa",
-   "en": "Two killed in tractor-motorcycle collision in Jhapa",
-   "ne": "Two killed in tractor-motorcycle collision in Jhapa",
-   "imp": 4,
-   "tags": [
-    "Jhapa",
-    "Accident",
-    "दुर्घटना"
-   ],
-   "cat": "crime",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Trump says historic summit with Xi, Putin already a 'win' before event",
    "summary": "US President Donald Trump said his meeting on Thursday with Chinese and Russian counterparts Xi Jinping and Vladimir Putin was already a \"win\" before it took place, as China gave him a warm welcome, Reuters reported....",
    "link": "https://theannapurnaexpress.com/story/68872",
@@ -4826,20 +4807,53 @@
    "val": 3,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "धान काट्ने मेसिनमा मोटरसाइकल ठोक्कियो, दुई युवकको मृत्यु",
+   "summary": "झापाको बाह्रदशी गाउँपालिका-५, चारपाने-राजगढ सडकमा धान काट्ने मेसिनमा मोटरसाइकल ठोक्किँदा दुई युवकको मृत्यु भएको छ ।",
+   "link": "https://baahrakhari.com/detail/507708",
+   "source": "Baahrakhari",
+   "ts": 1795062033,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "धान काट्ने मेसिनमा मोटरसाइकल ठोक्कियो, दुई युवकको मृत्यु",
+   "en": "धान काट्ने मेसिनमा मोटरसाइकल ठोक्कियो, दुई युवकको मृत्यु",
+   "ne": "धान काट्ने मेसिनमा मोटरसाइकल ठोक्कियो, दुई युवकको मृत्यु",
+   "imp": 2,
+   "tags": [
+    "Harvester",
+    "Death"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "राप्ती पुलमा मोटरसाइकल दुर्घटना : युवकको मृत्यु, दुईजना घाइते",
+   "summary": "",
+   "link": "https://baahrakhari.com/detail/507707",
+   "source": "Baahrakhari",
+   "ts": 1795061652,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "राप्ती पुलमा मोटरसाइकल दुर्घटना : युवकको मृत्यु, दुईजना घाइते",
+   "en": "राप्ती पुलमा मोटरसाइकल दुर्घटना : युवकको मृत्यु, दुईजना घाइते",
+   "ne": "राप्ती पुलमा मोटरसाइकल दुर्घटना : युवकको मृत्यु, दुईजना घाइते",
+   "imp": 2,
+   "tags": [
+    "RaptiBridge",
+    "Motorcycle"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1794456658.5902743,
-   "en": "नक्कली भुटानी शरणार्थी प्रकरणका टोपबहादुर रायमाझी डिल्लीबजार कारागारबाट रिहा",
-   "ne": "नक्कली भुटानी शरणार्थी प्रकरणका टोपबहादुर रायमाझी डिल्लीबजार कारागारबाट रिहा",
-   "link": "https://www.ujyaaloonline.com/detail/133407",
-   "source": "Ujyaalo",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "politics"
-  },
   {
    "ts": 1794458453.5312817,
    "en": "COP31 presidency declines Nepal and Bhutan's Himalayan climate agenda",
@@ -7831,10 +7845,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "economy"
+  },
+  {
+   "ts": 1795062062.2952194,
+   "en": "Two killed in tractor-motorcycle collision in Jhapa",
+   "ne": "Two killed in tractor-motorcycle collision in Jhapa",
+   "link": "https://english.khabarhub.com/2026/19/576129/",
+   "source": "Khabarhub EN",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "crime"
   }
  ],
- "updated": 1795061464,
- "pending_since": null,
+ "updated": 1795062078,
+ "pending_since": 1795062053.9035816,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
