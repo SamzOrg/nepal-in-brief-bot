@@ -1951,7 +1951,9 @@
   "https://gorkhapatraonline.com/news/229550": 1795062675.83404,
   "https://news.google.com/rss/articles/CBMiowFBVV95cUxNc0dVQXVWUDc1Mk5zWDV5N0ZacDF0YjI4WG9WVU9OMVN6SXhaNlFVT2lMRTB5UEMtbXlMLWFjZTl4aExqbk0xSFRhVFNmczYtUXg0QlVKcXNkc1c0LXFXYnJqdW50bE44TFR4QWZqclZBZVItOUlJT3lqazRKZWhpR2FGUzdMZUdGdWJnaG4yODhFS2htUC1IbmJDQTU0ZnI2TGxj?oc=5": 1795062675.83404,
   "https://gorkhapatraonline.com/news/229549": 1795062675.83404,
-  "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUTFVa0tVZFRSQS15T3VQRFZ1MUdnaS1WYmJ1ekJwRllTRjUtYTc4blNCUUt1dDhLZUFsVnhJWklHYUVsSTd3TW56WDhwcjB5MWU4U2ZiQTNaX21oUUY2QnA0MVB5WjltenlEbGdsWURfVXdVLWtfeG5FeG93S1Etcm1oc3RoaVFtQnNMRUVtZl9yM0NybHlJSHcwOGY0YkYtSFZaeWtKM0hUalpf?oc=5": 1795062675.83404
+  "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUTFVa0tVZFRSQS15T3VQRFZ1MUdnaS1WYmJ1ekJwRllTRjUtYTc4blNCUUt1dDhLZUFsVnhJWklHYUVsSTd3TW56WDhwcjB5MWU4U2ZiQTNaX21oUUY2QnA0MVB5WjltenlEbGdsWURfVXdVLWtfeG5FeG93S1Etcm1oc3RoaVFtQnNMRUVtZl9yM0NybHlJSHcwOGY0YkYtSFZaeWtKM0hUalpf?oc=5": 1795062675.83404,
+  "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeWFUV1p5SkQ1SkZfcHBYQ1pGTVhyXzByNTBoRGd5T3oxeTA2ZkhlajRlTkc0VHBrV01NRjNxVGdTN1Z2d2ppLWFGdmg5NlR3a0lxVzk3SDQ5YkI5bldiRkYzd3ZaUE1uU2lWVi11MHVuM2prcUtIS1RaaGtDTGczbzV2WG9LTk5odjNkNkxJT0FBN0tCLU1LOWZmdUNiSzVYalNsaWRVOXM?oc=5": 1795063254.0270636,
+  "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUlZneEtaMjhqV25reXFNdkxxWHU2c1czUkdpdW9HYVhqREoyeEVORjREd0ZWU0RsUmJRU0VzeFpsbkRjYjVxcUJCSEtHSldBeVdjcXBnS3lrN3lFdW5nbDBmNHZNcnk4NFJtVnhYNzd0VGxwU3RpQ0E5YkpzbGg0eUZIYW5PdlZOMkV1WC1KaFJWamMzSU5qR0prX0pVWWN5Rk5KYWpORlEyQTlLa0E?oc=5": 1795063254.0270636
  },
  "queue": [
   {
@@ -2152,28 +2154,6 @@
     "Shenzhen"
    ],
    "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Nepal launches $60 million carbon finance drive to modernise brick industry",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZjVHUExPLUtEc2hNa0Z0dlF1U0lwaUsxWmt0MjFZbXNSUWhSSUNiQnJhVFp6VUF1R05RdzlMZEJLQkQtSlFxZm1aZ0FHRjFyLWZXdllVcUtCa2Fqb3hObGNTVlhBREw3bkhxQVdlc2tBWXh1LVoyUEhwX3BYeFNrc3hzVndHQ3RhbVJFMmxBVzQxQk5HVi1JSTMzLU9LMTl1QWhwVk93?oc=5",
-   "source": "The Climate Watch",
-   "ts": 1795034012,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Nepal launches $60 million carbon finance drive to modernise brick industry",
-   "en": "Nepal launches $60 million carbon finance drive to modernise brick industry",
-   "ne": "Nepal launches $60 million carbon finance drive to modernise brick industry",
-   "imp": 3,
-   "tags": [
-    "CarbonFinance",
-    "BrickIndustry"
-   ],
-   "cat": "economy",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -5360,20 +5340,54 @@
    "val": 2,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "Nepal's invisible flood losses: Fear, insecurity, and social disruption",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeWFUV1p5SkQ1SkZfcHBYQ1pGTVhyXzByNTBoRGd5T3oxeTA2ZkhlajRlTkc0VHBrV01NRjNxVGdTN1Z2d2ppLWFGdmg5NlR3a0lxVzk3SDQ5YkI5bldiRkYzd3ZaUE1uU2lWVi11MHVuM2prcUtIS1RaaGtDTGczbzV2WG9LTk5odjNkNkxJT0FBN0tCLU1LOWZmdUNiSzVYalNsaWRVOXM?oc=5",
+   "source": "The Himalayan Times",
+   "ts": 1795062600,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "Nepal's invisible flood losses: Fear, insecurity, and social disruption",
+   "en": "Nepal's invisible flood losses: Fear, insecurity, and social disruption",
+   "ne": "Nepal's invisible flood losses: Fear, insecurity, and social disruption",
+   "imp": 2,
+   "tags": [
+    "Flood",
+    "Nepal",
+    "बाढी"
+   ],
+   "cat": "disaster",
+   "val": 1,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Algorithms must not determine life and death: Red Cross",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUlZneEtaMjhqV25reXFNdkxxWHU2c1czUkdpdW9HYVhqREoyeEVORjREd0ZWU0RsUmJRU0VzeFpsbkRjYjVxcUJCSEtHSldBeVdjcXBnS3lrN3lFdW5nbDBmNHZNcnk4NFJtVnhYNzd0VGxwU3RpQ0E5YkpzbGg0eUZIYW5PdlZOMkV1WC1KaFJWamMzSU5qR0prX0pVWWN5Rk5KYWpORlEyQTlLa0E?oc=5",
+   "source": "myRepublica",
+   "ts": 1795055700,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "Algorithms must not determine life and death: Red Cross",
+   "en": "Algorithms must not determine life and death: Red Cross",
+   "ne": "Algorithms must not determine life and death: Red Cross",
+   "imp": 1,
+   "tags": [
+    "Algorithms",
+    "RedCross"
+   ],
+   "cat": "tech",
+   "val": 1,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1794458453.5312817,
-   "en": "COP31 presidency declines Nepal and Bhutan's Himalayan climate agenda",
-   "ne": "COP31 presidency declines Nepal and Bhutan's Himalayan climate agenda",
-   "link": "https://myrepublica.nagariknetwork.com/news/harjeet-singh-slams-developed-nations-over-failure-to-put-himalayan-agenda--61-23.html",
-   "source": "myRepublica",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "world"
-  },
   {
    "ts": 1794460256.486013,
    "en": "Nepal Foreign Minister Calls For Mountain-Specific Early Warning Systems At COP31",
@@ -8367,8 +8381,8 @@
    "cat": "crime"
   }
  ],
- "updated": 1795062684,
- "pending_since": null,
+ "updated": 1795063263,
+ "pending_since": 1795063254.0270636,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
