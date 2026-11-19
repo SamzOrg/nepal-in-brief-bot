@@ -2020,7 +2020,8 @@
   "https://baahrakhari.com/detail/507787": 1795108254.5473468,
   "https://baahrakhari.com/detail/507786": 1795108254.5473468,
   "http://english.ratopati.com/story/87372/with-controlled-batting-and-effective-bowling-sudurpaschim-reached-the-final-ending-chitwans-journey": 1795109475.1903992,
-  "https://www.setopati.com/sports/football/402963": 1795109475.1903992
+  "https://www.setopati.com/sports/football/402963": 1795109475.1903992,
+  "https://baahrakhari.com/detail/507793": 1795110653.5553412
  },
  "queue": [
   {
@@ -2162,29 +2163,6 @@
    "hits": 1
   },
   {
-   "title": "Kathmandu Administration Plans 24-Hour Operation",
-   "summary": "Kathmandu. The District Administration Office has put forward an ambitious plan to keep the federal capital Kathmandu open 24 hours...",
-   "link": "http://english.ratopati.com/story/87307/preparations-to-keep-kathmandu-open-24-hours-a-day-new-security-and-management-framework-being-drawn-up",
-   "source": "Ratopati EN",
-   "ts": 1795081500,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/thamel_6eFbxtVkky.webp",
-   "lang": "en",
-   "hl": "Kathmandu Administration Plans 24-Hour Operation",
-   "en": "Kathmandu Administration Plans 24-Hour Operation",
-   "ne": "Kathmandu Administration Plans 24-Hour Operation",
-   "imp": 3,
-   "tags": [
-    "Kathmandu",
-    "Administration",
-    "24HourService"
-   ],
-   "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "अधिवक्ता परीक्षाको केन्द्र तोक्ने मापदण्ड गैरकानुनी भन्दै सर्वोच्चमा रिट",
    "summary": "",
    "link": "https://baahrakhari.com/detail/507745",
@@ -2226,76 +2204,6 @@
     "Depositors"
    ],
    "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "जलवायु अनुकुलन कार्यक्रममा नेपाल कति सफल ?",
-   "summary": "अन्तल्या (टर्किय) मङ्सिर ३ गते । बढ्दो तापक्रम र जलवायु परिवर्तनको असरबाट बच्न नेपालमा सफल र नमूनायोग्य अनुकुलनको कार्यक्रम सञ्चालन भइरहेको कुराहरुमा विज्ञहरुले जोड दिएका छन् । संय...",
-   "link": "https://gorkhapatraonline.com/news/229588",
-   "source": "Gorkhapatra",
-   "ts": 1795081379,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/392181/conversions/chure-nepal-scuecc-progm-nepal-original.jpg",
-   "lang": "ne",
-   "hl": "जलवायु अनुकुलन कार्यक्रममा नेपाल कति सफल ?",
-   "en": "जलवायु अनुकुलन कार्यक्रममा नेपाल कति सफल ?",
-   "ne": "जलवायु अनुकुलन कार्यक्रममा नेपाल कति सफल ?",
-   "imp": 2,
-   "tags": [
-    "ClimateChange",
-    "Adaptation",
-    "जलवायु"
-   ],
-   "cat": "disaster",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "Sompal Kami to miss Rising Stars Asia Cup due to injury",
-   "summary": "Kathmandu, November 19 Sompal Kami has been ruled out of Nepal's squad for the ongoing ACC Men's Rising Stars Asia Cup in Qatar due to injury. Kami sustained the injury during Nepal's final match against Chitwan in the...",
-   "link": "https://english.onlinekhabar.com/sompal-kami-to-miss-rising-stars-asia-cup-due-to-injury.html",
-   "source": "Onlinekhabar EN",
-   "ts": 1795081598,
-   "weight": 3,
-   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/11/sompal-2026-1024x645-1.png",
-   "lang": "en",
-   "hl": "Sompal Kami to miss Rising Stars Asia Cup due to injury",
-   "en": "Sompal Kami to miss Rising Stars Asia Cup due to injury",
-   "ne": "Sompal Kami to miss Rising Stars Asia Cup due to injury",
-   "imp": 3,
-   "tags": [
-    "SompalKami",
-    "Cricket",
-    "Injury",
-    "AsiaCup"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "Rajbiraj locals block road, protesting footpath encroachment and poor waste management",
-   "summary": "Rajbiraj, November 19 Locals blocked a road along the Hulaki Highway in Rajbiraj, Saptari, protesting the municipality's alleged neglect of waste management and its failure to prevent shops from encroaching on...",
-   "link": "https://english.onlinekhabar.com/rajbiraj-locals-block-road-protesting-footpath-encroachment-and-poor-waste-management.html",
-   "source": "Onlinekhabar EN",
-   "ts": 1795081374,
-   "weight": 3,
-   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/11/rajbiraj-protest.jpg",
-   "lang": "en",
-   "hl": "Rajbiraj locals block road, protesting footpath encroachment and poor waste management",
-   "en": "Rajbiraj locals block road, protesting footpath encroachment and poor waste management",
-   "ne": "Rajbiraj locals block road, protesting footpath encroachment and poor waste management",
-   "imp": 2,
-   "tags": [
-    "Rajbiraj",
-    "Protest",
-    "WasteManagement"
-   ],
-   "cat": "society",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -5371,7 +5279,7 @@
    "cat": "world",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "एनटीपीसीले सम्झौता गर्न नमानेपछि १५० मेगावाट बिजुली किन्न प्राधिकरणको अन्तर्राष्ट्रिय बोलपत्र तयारी",
@@ -8527,7 +8435,7 @@
    "cat": "politics"
   }
  ],
- "updated": 1795110061,
+ "updated": 1795110657,
  "pending_since": 1795108867.869502,
  "fb_blocks": [
   1790350880.4125228,
