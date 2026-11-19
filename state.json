@@ -1925,30 +1925,11 @@
   "https://nagariknews.nagariknetwork.com/Bazar/foreign-currency-exchange-rates-set-for-today-76-95.html": 1795050656.6177933,
   "https://risingnepaldaily.com/news/88767": 1795050656.6177933,
   "https://nagariknews.nagariknetwork.com/editorial/a-world-changing-with-technology-br-85-81.html": 1795050656.6177933,
-  "http://english.ratopati.com/story/87214/second-qualifier-sudurpaschim-and-chitwan-clash-to-reach-the-final-both-teams-aiming-to-make-history": 1795051252.8493333
+  "http://english.ratopati.com/story/87214/second-qualifier-sudurpaschim-and-chitwan-clash-to-reach-the-final-both-teams-aiming-to-make-history": 1795051252.8493333,
+  "https://www.setopati.com/politics/402882": 1795052455.117012,
+  "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQN2wtanVRc0kxeF9tTDEtYWtuNlB0bkFVVlFhUVh4LUhiMzlhVHhrREFJOWd1WkFLdHlnU3phR193NVNtSXZma0E5Z1FVRFNFX2Ryb3JHNF9NY2ZRcUxpazVlRHowdWtscWlwUmRES2U0VXVrV3dlbFNBMVdtOWFJWnAzSEhPaGd2X3F3R3lFMi1OUnUzSk1wcnJpejYzSzR0SHB2eGRuUFdrQm9Pbko1dG9RSkh0Q1AtQ19xWm56cnRWN3dmWXNOY1NDN2Ryb2xEM1JpQkR0MGw?oc=5": 1795052455.117012
  },
  "queue": [
-  {
-   "title": "नाम्पा हिमाल",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/507682",
-   "source": "Baahrakhari",
-   "ts": 1795023445,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "नाम्पा हिमाल",
-   "en": "नाम्पा हिमाल",
-   "ne": "नाम्पा हिमाल",
-   "imp": 1,
-   "tags": [
-    "Namppa"
-   ],
-   "cat": "other",
-   "val": 1,
-   "teaser": false,
-   "hits": 2
-  },
   {
    "title": "हुम्लामा पहिलोपटक ३९ किलोमिटर सडक कालोपत्रे हुँदै, दुई अर्बको ठेक्का सम्झौता",
    "summary": "",
@@ -2015,30 +1996,6 @@
    "val": 1,
    "teaser": false,
    "hits": 2
-  },
-  {
-   "title": "India Under-19s A Women vs Nepal Under-19s Women at Bengaluru , 20 Nov 2026",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVDF0UTY4ZTFLRzIwMnJVMTJjcS1aWEhyZ0tGTHFsejVfYXR0NnFfSW1VSkFPM2RtZWUwWkRvQWpOQUlpQ3UyQkhqZUJuS2U2QW9YTFBPVnpGSEhQVVBNTXVxMGRldGR3X25JeDJKSFV3ZUhEOFpBY1RocGVtdGZsNWliRktVaTViTEo3YkJ0WXh6cW1KTDJDeDRsalpGaXRmdnE4a2hQcmlxY09EZVlvSGNHR3RzNHVvbVE?oc=5",
-   "source": "BCCI",
-   "ts": 1795023098,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "India Under-19s A Women vs Nepal Under-19s Women at Bengaluru , 20 Nov 2026",
-   "en": "India Under-19s A Women vs Nepal Under-19s Women at Bengaluru , 20 Nov 2026",
-   "ne": "India Under-19s A Women vs Nepal Under-19s Women at Bengaluru , 20 Nov 2026",
-   "imp": 3,
-   "tags": [
-    "NepalWomen",
-    "Cricket",
-    "Under19",
-    "क्रिकेट"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
   },
   {
    "title": "NRB issues today's foreign currency exchange rates",
@@ -5753,7 +5710,7 @@
    "cat": "crime"
   }
  ],
- "updated": 1795051875,
+ "updated": 1795052458,
  "pending_since": 1795051252.8493333,
  "fb_blocks": [
   1790350880.4125228,
