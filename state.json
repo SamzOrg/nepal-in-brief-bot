@@ -1923,7 +1923,11 @@
   "https://nagariknews.nagariknetwork.com/international/at-what-speed-per-hour-is-cyclone-akwan-moving-36-27.html": 1795057853.7720299,
   "https://nagariknews.nagariknetwork.com/social-affairs/marijuana-smuggling-network-cultivation-in-the-mountains-storage-in-the-terai-trade-in-india-br-70-58.html": 1795057853.7720299,
   "https://news.google.com/rss/articles/CBMingFBVV95cUxOb2FveU1zUEExVmpfSERFaVZzTVFXMTNKUmR6MDhzOHZHQmF2NDRYcmdMN0IyWE5VazdHWFVwYXJuQlRqT0tManBPR1dxWm5lZk55ZldwdG5kZFh0UERDRjhyWFRmUXhxUi1UZ05LdTcxUDB2UFpnLVYzRGNXTjNzM3RsTmxrR2c3Y3pBUEMwdlVsMExiLWhFelJIUGxCZw?oc=5": 1795058455.4883354,
-  "https://gorkhapatraonline.com/news/229540": 1795059078.2348795
+  "https://gorkhapatraonline.com/news/229540": 1795059078.2348795,
+  "https://www.ujyaaloonline.com/detail/133632": 1795059655.5196223,
+  "http://english.ratopati.com/story/87227/ncp-coordinator-prachanda-returns-home": 1795059655.5196223,
+  "http://english.ratopati.com/story/87226/kathmandus-public-toilets-are-in-poor-condition-making-it-difficult-to-enter-photos": 1795059655.5196223,
+  "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5iLTFRQ1k0MkdYd2FVSlctVEdzaVg2YTI0SkRPZ1k5eDBhSFZPWXVqQmt0TlBJTHcxTnBwbFRTb2pvMEl1ZnBBTm90OXJ4M0FKZlZ0SkVVQU0?oc=5": 1795059655.5196223
  },
  "queue": [
   {
@@ -3065,7 +3069,7 @@
    "cat": "disaster",
    "val": 2,
    "teaser": true,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Who gets to participate in Nepal's creative industries?",
@@ -4133,17 +4137,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1794454853.4416647,
-   "en": "Ghoptebhir landslide restricts Prithvi Highway to one-way traffic in Chitwan",
-   "ne": "Ghoptebhir landslide restricts Prithvi Highway to one-way traffic in Chitwan",
-   "link": "https://english.onlinekhabar.com/ghoptebhir-landslide-highway-one-way.html",
-   "source": "Onlinekhabar EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "disaster"
-  },
   {
    "ts": 1794456658.5902743,
    "en": "नक्कली भुटानी शरणार्थी प्रकरणका टोपबहादुर रायमाझी डिल्लीबजार कारागारबाट रिहा",
@@ -7137,7 +7130,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1795059087,
+ "updated": 1795059658,
  "pending_since": 1795058455.4883354,
  "fb_blocks": [
   1790350880.4125228,
