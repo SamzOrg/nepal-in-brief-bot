@@ -1,9 +1,5 @@
 {
  "seen": {
-  "https://english.khabarhub.com/2026/17/575921/": 1794910855.5638137,
-  "https://english.khabarhub.com/2026/17/575918/": 1794910855.5638137,
-  "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTmpLakozZkM2YnJHTjVhTEduZWxmemNDSFZWMFEycU1UVG9ORnhsdUxXMmNaeUZIVHJlUld0YlBqemFkbzZwOTVJRVEtdUFUdzZ5ZnF0T0x2eFZnM1ZiZVItbExlTUVhRUpJNE5yN0M0NXdsWnRyWEcxZ3lDVjhUd2R1TVJ6c2V2VkpWRVJDWDZSSVliVXFCV2hleXFjU25KTjlRQg?oc=5": 1794910855.5638137,
-  "https://news.google.com/rss/articles/CBMiygFBVV95cUxOd0lBbXRmMHlKZGREaXR2ZUxNNU9NbjdxUXlMdlRCRFVXWnFZQ1dEWnNySkk1WU1zYU9aTjRudExJME5YUzVwdXEwY2N4YW9ZTi1KZ1dFWFJrZzlBb1pvbjUyeUhRZ2dpQk5KV29Wa3dfSUxsN1VFcEE1X0ZvV2FMT19oUTliSE5KTmdFQ3UzUU12V0tQd0JtMUhmOW5UMVBtdVdwR1A5VnBreUR6SXlZeEZXUnpGbmlDV2dMSnFVMWVRdENmSGphZDlR?oc=5": 1794910855.5638137,
   "https://news.google.com/rss/articles/CBMisgFBVV95cUxQb2JPbHY2NlFaRlhCdl9fUmxGOXhmQmduemxBMmZaalJMNThnbmFMTlIyVmx0UVFicVRZbkpUU2E3R0Z6LWI2T0NDaWJPRFk4WDBKeGdUaGNpLWZXNUVvOW9jVVF0WldybG5WQ3BNUW9zNEpkRnlqYTJ2bmtqWThZU3J2Tko3T0NwaGNUTVZualVqdDc0cUJUOFVZVW9tYWlLZFZ2aFp4VTh1S1ZLY0hvd3J3?oc=5": 1794911474.5774534,
   "https://news.google.com/rss/articles/CBMiUEFVX3lxTE13cGlKUHIxX0g5QlBFV0FUOWVSLU1NdzVGRk1kZjZERVJ4dXhsUlFERDdSclZCcy1HcjgwXzRYUms3RmNlV1Yzb1pTS1NPbkc5?oc=5": 1794911474.5774534,
   "http://english.ratopati.com/story/87015/governments-negligence-in-managing-flood-victims-settlement-on-nea-land": 1794911474.5774534,
@@ -1982,7 +1978,9 @@
   "https://baahrakhari.com/detail/507744": 1795083056.8708646,
   "https://english.onlinekhabar.com/sompal-kami-to-miss-rising-stars-asia-cup-due-to-injury.html": 1795083056.8708646,
   "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZEU2cndzQ2puMldQd2o5Ym1WdVlzbFRxaEltS2pibm5laElxSVJmakphcksxU2hQNHNld3I3ekZDeXVjblg0ekxDNUNqMG94aC10N09DWlV5RS1fTEZPZFYyWVVaR3Y1OE12STJUWHctVWxiUXdJdXQtX0dsc2FxS3pEVjVyTzdBdjFBNzc4Z19fV1FPRm1fYXN0UENYT3FSWW8wYWFNY1RwaVR4VEpEQ3pRaW12blFFbzBvMHVn?oc=5": 1795083056.8708646,
-  "https://english.onlinekhabar.com/rajbiraj-locals-block-road-protesting-footpath-encroachment-and-poor-waste-management.html": 1795083056.8708646
+  "https://english.onlinekhabar.com/rajbiraj-locals-block-road-protesting-footpath-encroachment-and-poor-waste-management.html": 1795083056.8708646,
+  "https://gorkhapatraonline.com/news/229591": 1795083666.716073,
+  "https://baahrakhari.com/detail/507748": 1795083666.716073
  },
  "queue": [
   {
@@ -2099,30 +2097,6 @@
    "val": 3,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "Xi, Trump and Putin set for unprecedented trilateral meeting in China",
-   "summary": "BEIJING: Chinese President Xi Jinping, US President Donald Trump and Russian President Vladimir Putin are scheduled to hold a historic trilateral meeting in China on Thursday, marking the first formal gathering...",
-   "link": "https://english.khabarhub.com/2026/19/576121/",
-   "source": "Khabarhub EN",
-   "ts": 1795054434,
-   "weight": 2,
-   "img": "https://english.khabarhub.com/wp-content/uploads/2026/11/Trump-Xi-Putin-400x220.webp",
-   "lang": "en",
-   "hl": "Xi, Trump and Putin set for unprecedented trilateral meeting in China",
-   "en": "Xi, Trump and Putin set for unprecedented trilateral meeting in China",
-   "ne": "Xi, Trump and Putin set for unprecedented trilateral meeting in China",
-   "imp": 1,
-   "tags": [
-    "XiJinping",
-    "DonaldTrump",
-    "VladimirPutin",
-    "China"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 5
   },
   {
    "title": "Tractor Accident in Bajura Injures Driver",
@@ -2255,29 +2229,6 @@
     "Gorkhapatra",
     "History",
     "गोर्खापत्र"
-   ],
-   "cat": "culture",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "नमोबुद्धको ऐतिहासिक मेला",
-   "summary": "काभ्रेपलाञ्चोक, मङ्सिर ३ गते । कात्तिक शुक्ल पूर्णिमाका अवसरमा काभ्रेपलाञ्चोकको नमोबुद्धमा लाग्ने तीनदिने जात्रा यस वर्ष आउँदो सोमबारदेखि सुरु हुँदै छ । गौतम बुद्धको पूर्वजन्ममा एक...",
-   "link": "https://gorkhapatraonline.com/news/229531",
-   "source": "Gorkhapatra",
-   "ts": 1795054387,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/392101/conversions/Namobuddha_Kavre-1-original.jpg",
-   "lang": "ne",
-   "hl": "नमोबुद्धको ऐतिहासिक मेला",
-   "en": "नमोबुद्धको ऐतिहासिक मेला",
-   "ne": "नमोबुद्धको ऐतिहासिक मेला",
-   "imp": 2,
-   "tags": [
-    "Namobuddha",
-    "Festival",
-    "नमोबुद्ध"
    ],
    "cat": "culture",
    "val": 2,
@@ -4661,29 +4612,6 @@
    "hits": 1
   },
   {
-   "title": "Bhandari accuses government of targeting political opponents, media",
-   "summary": "Former president Bidya Devi Bhandari says due process and democratic freedoms are being undermined, urging political parties to unite in defence of the constitution.",
-   "link": "https://kathmandupost.com/politics/2026/11/19/bhandari-accuses-government-of-targeting-political-opponents-media",
-   "source": "Kathmandu Post",
-   "ts": 1795054864.3606586,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Bhandari accuses government of targeting political opponents, media",
-   "en": "Bhandari accuses government of targeting political opponents, media",
-   "ne": "Bhandari accuses government of targeting political opponents, media",
-   "imp": 3,
-   "tags": [
-    "BidyaDeviBhandari",
-    "Govt",
-    "Media"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Former Minister Varshaman Pun Criticizes Government for Lack of Ownership and Arbitrary Rule",
    "summary": "Surkhet. Former Minister and leader of the Communist Party of Nepal, Varshaman Pun, has stated that the current government does...",
    "link": "http://english.ratopati.com/story/87262/government-does-not-want-to-take-ownership-of-the-system-and-constitution-barshaman-pun",
@@ -5944,7 +5872,7 @@
    "cat": "sports",
    "val": 3,
    "teaser": false,
-   "hits": 4
+   "hits": 5
   },
   {
    "title": "ढिलो रोपाइँपछि धान भित्र्याउन व्यस्त किसान",
@@ -7934,7 +7862,7 @@
    "cat": "culture",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "एनसेलले थ्रीजी पूर्ण रूपमा बन्द गर्दै, ग्राहकलाई भोल्टे सेवा लिन आग्रह",
@@ -8354,17 +8282,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1794478270.9105666,
-   "en": "Opposition parties in Nepal prepare for potential street protests against government",
-   "ne": "Opposition parties in Nepal prepare for potential street protests against government",
-   "link": "http://english.ratopati.com/story/86332/uml-ready-to-protest-against-the-government-ncp-in-confusion",
-   "source": "Ratopati EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "politics"
-  },
   {
    "ts": 1794480065.0155704,
    "en": "25 Injured in Bus Collision on Banepa-Dhulikhel Road",
@@ -11369,8 +11286,8 @@
    "cat": "society"
   }
  ],
- "updated": 1795083066,
- "pending_since": null,
+ "updated": 1795083669,
+ "pending_since": 1795083666.716073,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
