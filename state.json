@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSk92NFdINEYybUFUUzRNQ0RUTkNnbEpNZU9jNGRJQ0I5LWtlSE12RWZyei1sLWV3WGhqMHFjbW12NWJtLVlKVmFLQVkwNUVUeEJ6a29PSk82V3o5dnNxX0h3WkM0c0tMRDBmYWVaWGJoZlVURXFtc2ltZlFsdDBCZF8zc0lPRDU0MW9mVmRFZE00OFpwZ3d1MTlXTjBTTTR1UE5iZXp6WVRzLTRzRU16NndrMmY5U3FuOXJSYXJLVkFfMUZuY0JsQV9R?oc=5": 1794936057.8639398,
   "https://baahrakhari.com/detail/507567": 1794936680.0327263,
   "https://theannapurnaexpress.com/story/68830": 1794937256.0845869,
   "https://baahrakhari.com/detail/507569": 1794937855.2053962,
@@ -2025,76 +2024,6 @@
  },
  "queue": [
   {
-   "title": "Kathmandu Division fills 25,500 square metres of road potholes in first four months",
-   "summary": "Kathmandu, November 19 The Kathmandu Road Division has filled potholes covering a total area of 25,500 square metres during the first four months of the current fiscal year 2083/84 (mid-July to mid-November). The...",
-   "link": "https://english.onlinekhabar.com/kathmandu-division-fills-25500-square-metres-of-road-potholes-in-first-four-months.html",
-   "source": "Onlinekhabar EN",
-   "ts": 1795079976,
-   "weight": 3,
-   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/08/road-repair.jpg",
-   "lang": "en",
-   "hl": "Kathmandu Division fills 25,500 square metres of road potholes in first four months",
-   "en": "Kathmandu Division fills 25,500 square metres of road potholes in first four months",
-   "ne": "Kathmandu Division fills 25,500 square metres of road potholes in first four months",
-   "imp": 3,
-   "tags": [
-    "Kathmandu",
-    "RoadPotholes",
-    "Infrastructure"
-   ],
-   "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 3
-  },
-  {
-   "title": "बर्खास्तीमा परेका सशस्त्रका एआईजी दाहालद्वारा मन्त्रिपरिषद‍्मा पुनरावेदन",
-   "summary": "सोझै अदालत जाने बाटो नभएकाले दाहालले शुरूमा मन्त्रिपरिषद‍्मा निवेदन दिनुभएको हो ।",
-   "link": "https://www.ujyaaloonline.com/detail/133645",
-   "source": "Ujyaalo",
-   "ts": 1795079947,
-   "weight": 2,
-   "img": "https://www.ujyaaloonline.com/uploads/posts/Banshiraj-Dahal-1795079904.jpg",
-   "lang": "ne",
-   "hl": "बर्खास्तीमा परेका सशस्त्रका एआईजी दाहालद्वारा मन्त्रिपरिषद‍्मा पुनरावेदन",
-   "en": "बर्खास्तीमा परेका सशस्त्रका एआईजी दाहालद्वारा मन्त्रिपरिषद‍्मा पुनरावेदन",
-   "ne": "बर्खास्तीमा परेका सशस्त्रका एआईजी दाहालद्वारा मन्त्रिपरिषद‍्मा पुनरावेदन",
-   "imp": 3,
-   "tags": [
-    "ArmedPoliceForce",
-    "Cabinet",
-    "सशस्त्रप्रहरी"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "बाजुरामा यस वर्ष ३३७ मेट्रिकटन स्याउ उत्पादन",
-   "summary": "बाजुरा, मङ्सिर ३ गते । हिमाली तथा उच्च पहाडी क्षेत्रको हावापानी स्याउखेतीका लागि अनुकूल मानिने बाजुरामा पछिल्लो समय उत्पादनमा वृद्धि हुँदै गएको छ । जिल्लामा स्याउखेती विस्तार हुन थ...",
-   "link": "https://gorkhapatraonline.com/news/229585",
-   "source": "Gorkhapatra",
-   "ts": 1795079895,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/392177/conversions/converted_image-(14)-original.jpg",
-   "lang": "ne",
-   "hl": "बाजुरामा यस वर्ष ३३७ मेट्रिकटन स्याउ उत्पादन",
-   "en": "बाजुरामा यस वर्ष ३३७ मेट्रिकटन स्याउ उत्पादन",
-   "ne": "बाजुरामा यस वर्ष ३३७ मेट्रिकटन स्याउ उत्पादन",
-   "imp": 3,
-   "tags": [
-    "Bajura",
-    "AppleProduction",
-    "बाजुरा",
-    "स्याउ"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
    "title": "बंगलादेशमा युनुसको पुर्ख्यौली घरमा आगजनी, ढाकामा बम विस्फोट : ५६५ जना पक्राउ",
    "summary": "",
    "link": "https://baahrakhari.com/detail/507740",
@@ -2555,29 +2484,6 @@
    "val": 3,
    "teaser": false,
    "hits": 12
-  },
-  {
-   "title": "Pacific island nations declare El Nino drought crisis",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYzl1UXgyMzR5SExzMmF5eTNRZVV3ckpYZzZlUFV4anFpSWE0VnpQWlA5UEcxZXNZSlh1VkZULWhtb2xFMGpUSHpWVkpaaFEtZWU2NVVaYnI1OVJRbXg4NnNfWkRyNmlJTjIyYzlXUWZEY0ZNc3p0MXFKWmh4WGZNMmlkZHBIOW0zeUM0ZDBrY3RjMU5KQWZNTWdRVUR0VHRQNU1maEFOQWlQSUVq?oc=5",
-   "source": "myRepublica",
-   "ts": 1795079700,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Pacific island nations declare El Nino drought crisis",
-   "en": "Pacific island nations declare El Nino drought crisis",
-   "ne": "Pacific island nations declare El Nino drought crisis",
-   "imp": 1,
-   "tags": [
-    "ElNino",
-    "Drought",
-    "Pacific"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "सामसङ र एनसेलबीच सहकार्य, ग्यालेक्सी फोन खरिदमा ग्राहकले पाउनेछन् यस्ता छुट",
@@ -6044,17 +5950,6 @@
  ],
  "posted": [
   {
-   "ts": 1794503464.606826,
-   "en": "Police Arrest 5 People with Drugs and Seize 231kg Ganja in Nepal",
-   "ne": "Police Arrest 5 People with Drugs and Seize 231kg Ganja in Nepal",
-   "link": "http://english.ratopati.com/story/86361/5-people-arrested-with-drugs",
-   "source": "Ratopati EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "crime"
-  },
-  {
    "ts": 1794522059.1597242,
    "en": "नेपाल, भुटान, पाकिस्तान, ताजिकिस्तान, किर्गिस्तानले कोप-३१मा 'सगरमाथादेखि समुद्रसम्म' साझेदारी प्रस्ताव, पाँच प्राथमिकता प्रस्तुत",
    "ne": "नेपाल, भुटान, पाकिस्तान, ताजिकिस्तान, किर्गिस्तानले कोप-३१मा 'सगरमाथादेखि समुद्रसम्म' साझेदारी प्रस्ताव, पाँच प्राथमिकता प्रस्तुत",
@@ -9047,8 +8942,8 @@
    "cat": "politics"
   }
  ],
- "updated": 1795108327,
- "pending_since": null,
+ "updated": 1795108871,
+ "pending_since": 1795108867.869502,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
