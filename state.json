@@ -1,8 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMifkFVX3lxTE5QRjVmbjQtUHdQazhmZzU3Q0pSLUdjSTdkTS1IV09La3NDV05sbjU0SXR1MVB5UGZLaG5IX2FYSFZLZWJfR2N3NE1uQkVjczc2bS1uODJ6WE5DR2F1WmlndzkzNEJEOU5hT3h5YmtrckFzbXIwUm5LakNHeDRhUQ?oc=5": 1794904273.7354498,
-  "http://english.ratopati.com/story/86996/uml-standing-committee-meeting-begins-see-photos": 1794904273.7354498,
-  "https://www.setopati.com/politics/402755": 1794904273.7354498,
   "https://baahrakhari.com/detail/507522": 1794904853.9001389,
   "https://baahrakhari.com/detail/507521": 1794904853.9001389,
   "http://english.ratopati.com/story/86995/the-need-to-protest-may-arise-at-any-time-be-prepared-chairman-oli": 1794905452.9902275,
@@ -1961,7 +1958,8 @@
   "http://english.ratopati.com/story/87261/nepal-india-relations-more-than-diplomacy": 1795076459.1830196,
   "https://risingnepaldaily.com/news/88781": 1795076459.1830196,
   "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRjRqTVBNalpEUXJPd2hncTNFNnBIUV9oajR0ajVEcFVaZTc0LUtUNHlmMXZTTHZHM3gwWnBpYy1xYUF1MXlXRXFQMXhXZVpFY0pWREtjUURXVjB2cmE3akQ1ZTNnQzZwVHlpc3BNMDNEZlNaNkVNM0NxUlBYT0JleXMxVQ?oc=5": 1795076459.1830196,
-  "https://gorkhapatraonline.com/news/229578": 1795076459.1830196
+  "https://gorkhapatraonline.com/news/229578": 1795076459.1830196,
+  "http://english.ratopati.com/story/87295/bilateral-meeting-between-trump-and-xi-concluded-what-was-discussed": 1795077080.093354
  },
  "queue": [
   {
@@ -2118,50 +2116,6 @@
     "Sichuan"
    ],
    "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Patient inflow rises at Bharatpur Hospital after festive holidays",
-   "summary": "CHITWAN: Bharatpur Hospital has witnessed a significant increase in patient visits following the extended holidays during the Dashain, Tihar and Chhath festivals, with a growing number of people seeking treatment after...",
-   "link": "https://english.khabarhub.com/2026/19/576094/",
-   "source": "Khabarhub EN",
-   "ts": 1795047955,
-   "weight": 2,
-   "img": "https://english.khabarhub.com/wp-content/uploads/2026/11/Bharatpur-Hospital-patients-400x220.jpg",
-   "lang": "en",
-   "hl": "Patient inflow rises at Bharatpur Hospital after festive holidays",
-   "en": "Patient inflow rises at Bharatpur Hospital after festive holidays",
-   "ne": "Patient inflow rises at Bharatpur Hospital after festive holidays",
-   "imp": 2,
-   "tags": [
-    "BharatpurHospital",
-    "Health"
-   ],
-   "cat": "health",
-   "val": 3,
-   "teaser": false,
-   "hits": 4
-  },
-  {
-   "title": "Nagdhunga tunnel awaits RFID system amid operational hurdles",
-   "summary": "By A Staff ReporterKathmandu, Nov. 19: An RFID (Radio Frequency Identification)-based electronic toll payment system is...",
-   "link": "https://risingnepaldaily.com/news/88764",
-   "source": "Rising Nepal",
-   "ts": 1795048277,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Nagdhunga tunnel awaits RFID system amid operational hurdles",
-   "en": "Nagdhunga tunnel awaits RFID system amid operational hurdles",
-   "ne": "Nagdhunga tunnel awaits RFID system amid operational hurdles",
-   "imp": 3,
-   "tags": [
-    "Nagdhunga",
-    "Tunnel"
-   ],
-   "cat": "economy",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -2540,29 +2494,6 @@
    "hits": 1
   },
   {
-   "title": "एनपीएलको फाइनल प्रवेशका लागि आज चितवन र सुदूरपश्चिम खेल्दै",
-   "summary": "नेपाल प्रिमियर लिग (एनपीएल) क्रिकेटको फाइनलमा प्रवेश गर्ने अर्को टोलीको टुङ्गो आज लाग्दैछ ।",
-   "link": "https://www.ujyaaloonline.com/detail/133627",
-   "source": "Ujyaalo",
-   "ts": 1795053043,
-   "weight": 2,
-   "img": "https://www.ujyaaloonline.com/uploads/posts/TU-Cricket-1793500628.JPG",
-   "lang": "ne",
-   "hl": "एनपीएलको फाइनल प्रवेशका लागि आज चितवन र सुदूरपश्चिम खेल्दै",
-   "en": "एनपीएलको फाइनल प्रवेशका लागि आज चितवन र सुदूरपश्चिम खेल्दै",
-   "ne": "एनपीएलको फाइनल प्रवेशका लागि आज चितवन र सुदूरपश्चिम खेल्दै",
-   "imp": 3,
-   "tags": [
-    "NPL",
-    "Chitwan",
-    "Sudurpaschim"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 4
-  },
-  {
    "title": "Gold cheaper by Rs78,400 a tola in 10 months",
    "summary": "Stronger dollar and expectations of US interest rate hikes push international prices down. Traders say domestic rates could fall to Rs250,000 if current conditions persist.",
    "link": "https://kathmandupost.com/money/2026/11/19/gold-cheaper-by-rs78-400-a-tola-in-10-months",
@@ -2653,29 +2584,6 @@
    "val": 1,
    "teaser": true,
    "hits": 2
-  },
-  {
-   "title": "Continued Support for Nepal's Healthcare System",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcmM0dlVCd0t4OWl3ZUZxVDZOT1Bid09yUDYyNTN3VlNXeFQxYk0zeFdWNGNacE1ORWdGMmpNVWxiT0N6X19kUHlMQkNjNHhhakk1dEs1UzBhTHZoZTloMl93S29BVWwzdG1wTnJHdmx2T3ltd3lQODl5TURPWGdfQXZicFpaTW11WUV1VlBCQnNmcVhCVW0yN25UbHFVaFV1bHpR?oc=5",
-   "source": "Project HOPE",
-   "ts": 1795048158,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Continued Support for Nepal's Healthcare System",
-   "en": "Continued Support for Nepal's Healthcare System",
-   "ne": "Continued Support for Nepal's Healthcare System",
-   "imp": 2,
-   "tags": [
-    "Healthcare",
-    "Nepal",
-    "Health"
-   ],
-   "cat": "health",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
   },
   {
    "title": "एएमआर नियन्त्रण गर्न सबै क्षेत्रबीच सहकार्य आवश्यक",
@@ -3375,30 +3283,6 @@
    "cat": "culture",
    "val": 2,
    "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "25 Hours to Reset Decades Of 'Old-Guards': What Balen Shah's Delhi Visit Means for India and Nepal: A Pre-visit Analysis",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPT2dlRTFramNrUElZSlpIZl8zNVZNaWZiT3VYZExrNzJIYlFlT3BKMzJHb1ZqREllTFgyeXBUMEhVeUg2Z21pdXl4dEU0SzY1aU0tZVlIdE9aOGgzRWRraUVUNUM2bllFWjk0Y3VLOUFlY3N1OXRlMUp5YXE1Z1hCWUR4QjF2UnFoUE5ZVjJWZzFodUFYNnRmRmllb2MzQ0ZWLU1vc213SHFTSURBcHRJUnVQeXE1dzBCWXBCenNLUUF0YkY4MFN2NnBpMUFfc3c0Z056cTQwRVFpQXRDdEVwcENLX29vREJwdFFr?oc=5",
-   "source": "India Narrative",
-   "ts": 1795048260,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "25 Hours to Reset Decades Of 'Old-Guards': What Balen Shah's Delhi Visit Means for India and Nepal: A Pre-visit Analysis",
-   "en": "25 Hours to Reset Decades Of 'Old-Guards': What Balen Shah's Delhi Visit Means for India and Nepal: A Pre-visit Analysis",
-   "ne": "25 Hours to Reset Decades Of 'Old-Guards': What Balen Shah's Delhi Visit Means for India and Nepal: A Pre-visit Analysis",
-   "imp": 3,
-   "tags": [
-    "BalenShah",
-    "India",
-    "Nepal",
-    "Delhi"
-   ],
-   "cat": "politics",
-   "val": 2,
-   "teaser": true,
    "hits": 1
   },
   {
@@ -4621,29 +4505,6 @@
    "hits": 1
   },
   {
-   "title": "All eyes on Messi and Inter Miami as they chase back-to-back MLS Cups",
-   "summary": "All eyes will be on Lionel Messi and Inter Miami when Major League Soccer's playoffs kick off this week as they look to become the ‌first back-to-back MLS Cup champions in nearly 15 years, Reuters reported. Miami's...",
-   "link": "https://theannapurnaexpress.com/story/68879",
-   "source": "Annapurna Express",
-   "ts": 1795048277.1256804,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "All eyes on Messi and Inter Miami as they chase back-to-back MLS Cups",
-   "en": "All eyes on Messi and Inter Miami as they chase back-to-back MLS Cups",
-   "ne": "All eyes on Messi and Inter Miami as they chase back-to-back MLS Cups",
-   "imp": 1,
-   "tags": [
-    "Messi",
-    "InterMiami",
-    "MLS"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "CPN UML Chairman Oli Directs Participants to Maintain Discipline at National Assembly",
    "summary": "Kathmandu. CPN UML Chairman KP Sharma Oli has directed the leaders and workers participating in the national assembly to remain...",
    "link": "http://english.ratopati.com/story/87235/after-workers-failed-to-maintain-discipline-oli-said-umls-national-gathering-is-not-a-bazaar",
@@ -4735,29 +4596,6 @@
    "val": 3,
    "teaser": false,
    "hits": 2
-  },
-  {
-   "title": "German FA backs Diallo for FIFA presidency",
-   "summary": "The German Football Association (DFB) is fully behind French football chief Philippe Diallo's bid to become FIFA President, its president Bernd Neuendorf said on Wednesday, Reuters reported. French Football Federation...",
-   "link": "https://theannapurnaexpress.com/story/68878",
-   "source": "Annapurna Express",
-   "ts": 1795048277.1256804,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "German FA backs Diallo for FIFA presidency",
-   "en": "German FA backs Diallo for FIFA presidency",
-   "ne": "German FA backs Diallo for FIFA presidency",
-   "imp": 1,
-   "tags": [
-    "FIFA",
-    "Diallo",
-    "GermanFA"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
   },
   {
    "title": "धान उत्पादनमा वृद्धि",
@@ -5436,7 +5274,7 @@
    "cat": "politics",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "विद्याको प्रतिवेदनमा ओलीलाई सन्देश- कमिटी मानार्थ होइनन्, कार्यार्थ हुन्",
@@ -8141,29 +7979,6 @@
    "val": 3,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "Prime Minister Balen Shah to Visit India, Over a Dozen Agreements Expected",
-   "summary": "Kathmandu. Prime Minister Balendra Shah is scheduled to visit neighboring India on the 6th and 7th at the official invitation...",
-   "link": "http://english.ratopati.com/story/87288/more-than-a-dozen-agreements-to-be-signed-during-prime-ministers-visit-to-india",
-   "source": "Ratopati EN",
-   "ts": 1795074354,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/balen-modi_lEjOaKmqld.jpg",
-   "lang": "en",
-   "hl": "Prime Minister Balen Shah to Visit India, Over a Dozen Agreements Expected",
-   "en": "Prime Minister Balen Shah to Visit India, Over a Dozen Agreements Expected",
-   "ne": "Prime Minister Balen Shah to Visit India, Over a Dozen Agreements Expected",
-   "imp": 4,
-   "tags": [
-    "BalenShah",
-    "India",
-    "ForeignVisit"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "दशौँ राष्ट्रिय खेलकुद : व्यक्तिगत प्रतिस्पर्धातर्फ स्वर्ण विजेताले २० हजार पाउने",
@@ -11307,9 +11122,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "world"
+  },
+  {
+   "ts": 1795077099.5481803,
+   "en": "एनपीएलको फाइनल प्रवेशका लागि आज चितवन राइनोज र सुदूरपश्चिम रोयल्स खेल्दै",
+   "ne": "एनपीएलको फाइनल प्रवेशका लागि आज चितवन राइनोज र सुदूरपश्चिम रोयल्स खेल्दै",
+   "link": "https://www.ujyaaloonline.com/detail/133627",
+   "source": "Ujyaalo",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "sports"
   }
  ],
- "updated": 1795076463,
+ "updated": 1795077110,
  "pending_since": 1795075855.5734031,
  "fb_blocks": [
   1790350880.4125228,
