@@ -1974,7 +1974,9 @@
   "https://english.khabarhub.com/2026/19/576184/": 1795080467.451186,
   "https://english.onlinekhabar.com/speaker-aryal-stresses-geological-study-before-constructing-development-infrastructures.html": 1795080467.451186,
   "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVGl4dDhmbFIzdWI1bEZKUzZHcDdMOGJkUU9RUC1ITWFvQ1o0R1pYM2g4bWo2TzEtSlpaTVZqUXhiMmRhYUJfNEZiQjVEWUE3OHdVQVFYTnllOXdNdlpGSXpiV0lmbjRnbEI4ZnpucWpwWjJMVlJyRUJUUjRORmF5a1ZtSnA4TjNsbkpCR0YtbkowVTZUdlVfS0M4Um4wbkpZV1VYX1RCbVo2QjBJQ1g2VHduV2hHdVZ1?oc=5": 1795080467.451186,
-  "https://baahrakhari.com/detail/507740": 1795080467.451186
+  "https://baahrakhari.com/detail/507740": 1795080467.451186,
+  "https://nagariknews.nagariknetwork.com/social-affairs/twelve-people-arrested-for-gambling-br-64-55.html": 1795080676.290169,
+  "https://gorkhapatraonline.com/news/229586": 1795080676.290169
  },
  "queue": [
   {
@@ -2116,28 +2118,6 @@
    "hits": 6
   },
   {
-   "title": "एमाले राष्ट्रिय भेलाको दोस्रो दिन आज, ओलीले १५ कामबारे प्रशिक्षण दिने",
-   "summary": "नेकपा एमालेको राष्ट्रिय भेलाको दोस्रो दिनको कार्यक्रम आज बिहान ८ बजेदेखि सुरु हुँदैछ।",
-   "link": "https://nagariknews.nagariknetwork.com/politics/second-day-of-uml-national-gathering-today-oli-will-provide-training-on-15-tasks-57-13.html",
-   "source": "Nagarik News",
-   "ts": 1795051812,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1795053438_emale.jpg",
-   "lang": "ne",
-   "hl": "एमाले राष्ट्रिय भेलाको दोस्रो दिन आज, ओलीले १५ कामबारे प्रशिक्षण दिने",
-   "en": "एमाले राष्ट्रिय भेलाको दोस्रो दिन आज, ओलीले १५ कामबारे प्रशिक्षण दिने",
-   "ne": "एमाले राष्ट्रिय भेलाको दोस्रो दिन आज, ओलीले १५ कामबारे प्रशिक्षण दिने",
-   "imp": 3,
-   "tags": [
-    "CPNUML",
-    "KPoli"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 4
-  },
-  {
    "title": "लेकसाइडमा मध्यरातमा ग्याङ फाइट, ५ जना पक्राउ",
    "summary": "पोखराको लेकसाइडमा मध्यरातमा ग्याङ फाइट गर्ने पाँच जना पक्राउ परेका छन्।",
    "link": "https://www.setopati.com/social/402883",
@@ -2158,7 +2138,7 @@
    "cat": "crime",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "रासायनिक मल विस्थापन गर्दै किसान",
@@ -7848,29 +7828,6 @@
    "hits": 1
   },
   {
-   "title": "बिटौरी जग्गा व्यक्तिका नाममा दर्ता गर्ने सरकारको निर्णय सर्वोच्चको फैसलासँग बाझियो",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/507738",
-   "source": "Baahrakhari",
-   "ts": 1795079611,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "बिटौरी जग्गा व्यक्तिका नाममा दर्ता गर्ने सरकारको निर्णय सर्वोच्चको फैसलासँग बाझियो",
-   "en": "बिटौरी जग्गा व्यक्तिका नाममा दर्ता गर्ने सरकारको निर्णय सर्वोच्चको फैसलासँग बाझियो",
-   "ne": "बिटौरी जग्गा व्यक्तिका नाममा दर्ता गर्ने सरकारको निर्णय सर्वोच्चको फैसलासँग बाझियो",
-   "imp": 4,
-   "tags": [
-    "SupremeCourt",
-    "LandRegistration",
-    "सर्वोच्चअदालत"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Four Arrested in Surkhet with Brown Heroin",
    "summary": "Surkhet. Four people have been arrested in Surkhet with the narcotic drug brown heroin. On Wednesday night, during the checking...",
    "link": "http://english.ratopati.com/story/87302/4-arrested-with-brown-heroin-in-surkhet",
@@ -8142,6 +8099,29 @@
     "आगजनी"
    ],
    "cat": "world",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "कपिलवस्तुमा कम्बाइन मेसिन दुर्घटना, एकको मृत्यु तीन घाइते",
+   "summary": "जानु पाण्डेकपिलवस्तु, मङ्सिर ३ गते । कपिलवस्तुको महाराजगञ्ज नगरपालिका-९ सेमरीमा धान काट्ने कम्बाइन मेसिन पोखरीमा पल्टिँदा एक जनाको मृत्यु भएको छ भने तीन जना घाइते भएका छन् ।लु.५ त....",
+   "link": "https://gorkhapatraonline.com/news/229586",
+   "source": "Gorkhapatra",
+   "ts": 1795080603,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/392178/conversions/1000293794-original.jpg",
+   "lang": "ne",
+   "hl": "कपिलवस्तुमा कम्बाइन मेसिन दुर्घटना, एकको मृत्यु तीन घाइते",
+   "en": "कपिलवस्तुमा कम्बाइन मेसिन दुर्घटना, एकको मृत्यु तीन घाइते",
+   "ne": "कपिलवस्तुमा कम्बाइन मेसिन दुर्घटना, एकको मृत्यु तीन घाइते",
+   "imp": 3,
+   "tags": [
+    "Kapilvastu",
+    "Accident",
+    "कपिलवस्तु"
+   ],
+   "cat": "disaster",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -11150,9 +11130,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "disaster"
+  },
+  {
+   "ts": 1795080693.6677666,
+   "en": "बिटौरी जग्गा व्यक्तिका नाममा दर्ता गर्ने सरकारको निर्णय सर्वोच्च अदालतको फैसलासँग बाझियो",
+   "ne": "बिटौरी जग्गा व्यक्तिका नाममा दर्ता गर्ने सरकारको निर्णय सर्वोच्च अदालतको फैसलासँग बाझियो",
+   "link": "https://baahrakhari.com/detail/507738",
+   "source": "Baahrakhari",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "politics"
   }
  ],
- "updated": 1795080474,
+ "updated": 1795080711,
  "pending_since": 1795080467.451186,
  "fb_blocks": [
   1790350880.4125228,
