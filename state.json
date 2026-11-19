@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://baahrakhari.com/detail/507572": 1794939053.021256,
-  "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbHhHZGpMWVVqOTdEZVZyV2dqeUNncHBpMlJ0SHhpaktYMmgyQ0RTc1VCT3VVaV9KUHJfa3hWeXRUS1Y4Mmo3Ti1UNlpTT1BoU01TRXJYd0JMZ1NsZUdCX3NjelFZR2NQeHVHWUNORnFNMzF2Nm02QnVOcnVqTWFSQ2JFQjNVNlByOGx1ekhKdDNaZDhNYzBENtIBngFBVV95cUxNZzFjMlpxclRrVGFjQmNKUXBQb1d1SWE3MmJXZjdUdmlXZER2M3hSZFpkblB0ay1WcWk5RlliV3Z1MzBmcGhERnEwOUZua19JeDF5d2VwUE80SHluNHVsTjZmMWtsNDMzWG01ZEpGa2dINUVUSkswM1Y1VjdWUzFiSndMcTl0dXZLa0lIdG9CemlibFg5eWVUZDBXXzNwZw?oc=5": 1794939053.021256,
   "https://baahrakhari.com/detail/507573": 1794940854.942236,
   "https://gorkhapatraonline.com/news/229401": 1794940854.942236,
   "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMl9FbFFlenZWa2dfWkNTZ20yQVVQOHRrcE8tcGxQVVFFSVl2TUJNZHlIdlZDLUJPSVRVTzhXMXdtT1NqRVhJeWw4UnJjZU9IWmxKS2NDVzJBNWM1ZnpOeE02eW9YYUE2R3VIUHVkZDNZaUQ4UFQ2ZjVHeDhSRG1tNVpJU0ZkYWtYQlYtSDRhQWVkdFM2UDNPTUZhLUl6clBaNWtyUWZFVDRxTDZic3ZzdU82azBCVHRyS21Gak42QXFnQQ?oc=5": 1794940854.942236,
@@ -2022,122 +2020,6 @@
   "https://gorkhapatraonline.com/news/229611": 1795111285.93894
  },
  "queue": [
-  {
-   "title": "एनसेलले थ्रीजी पूर्ण रूपमा बन्द गर्दै, ग्राहकलाई भोल्टे सेवा लिन आग्रह",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/507747",
-   "source": "Baahrakhari",
-   "ts": 1795083010,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "एनसेलले थ्रीजी पूर्ण रूपमा बन्द गर्दै, ग्राहकलाई भोल्टे सेवा लिन आग्रह",
-   "en": "एनसेलले थ्रीजी पूर्ण रूपमा बन्द गर्दै, ग्राहकलाई भोल्टे सेवा लिन आग्रह",
-   "ne": "एनसेलले थ्रीजी पूर्ण रूपमा बन्द गर्दै, ग्राहकलाई भोल्टे सेवा लिन आग्रह",
-   "imp": 3,
-   "tags": [
-    "Ncell",
-    "VoLTE",
-    "Telecom"
-   ],
-   "cat": "tech",
-   "val": 3,
-   "teaser": false,
-   "hits": 3
-  },
-  {
-   "title": "नक्कली शैक्षिक प्रमाणपत्र पेस गरी बढुवा लिएको आरोपमा मुद्दा दायर",
-   "summary": "काठमाडौँ, मङ्सिर ३ गते । नक्कली शैक्षिक प्रमाणपत्र पेस गरेर बढुवा तथा पदस्थापन भएको आरोपमा राष्ट्रिय अनुसन्धान विभागका प्रमुख अनुसन्धान अधिकृत (राप द्वितीय श्रेणी) रामबाबु प्रसाद च...",
-   "link": "https://gorkhapatraonline.com/news/229590",
-   "source": "Gorkhapatra",
-   "ts": 1795082741,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/392183/conversions/CIAA-original.jpg",
-   "lang": "ne",
-   "hl": "नक्कली शैक्षिक प्रमाणपत्र पेस गरी बढुवा लिएको आरोपमा मुद्दा दायर",
-   "en": "नक्कली शैक्षिक प्रमाणपत्र पेस गरी बढुवा लिएको आरोपमा मुद्दा दायर",
-   "ne": "नक्कली शैक्षिक प्रमाणपत्र पेस गरी बढुवा लिएको आरोपमा मुद्दा दायर",
-   "imp": 3,
-   "tags": [
-    "CIAA",
-    "FakeCertificate",
-    "Corruption"
-   ],
-   "cat": "crime",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "President Murmu Receives Credentials From Nepalese Ambassador",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQX21tS1kxY3FLaFI0d1FmUWFySmFEbktBZVJXeFB6Z0k1bEpvVDM0a2VuZkxiMWFkMi16QUlJeE8zQjlDbVBtMVQwZDdqWnFZaUlDZVlIZU5NbnlfSjM0VDRmTWkwaHl0bGVyLVlrcjBCSUxaZFhuWEZfTkFYdWtvX0dKeTcwRFk?oc=5",
-   "source": "Sarkaritel.com",
-   "ts": 1795082518,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "President Murmu Receives Credentials From Nepalese Ambassador",
-   "en": "President Murmu Receives Credentials From Nepalese Ambassador",
-   "ne": "President Murmu Receives Credentials From Nepalese Ambassador",
-   "imp": 2,
-   "tags": [
-    "India",
-    "NepalAmbassador",
-    "DroupadiMurmu"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 12
-  },
-  {
-   "title": "सामसङ र एनसेलबीच सहकार्य, ग्यालेक्सी फोन खरिदमा ग्राहकले पाउनेछन् यस्ता छुट",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/507746",
-   "source": "Baahrakhari",
-   "ts": 1795082719,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "सामसङ र एनसेलबीच सहकार्य, ग्यालेक्सी फोन खरिदमा ग्राहकले पाउनेछन् यस्ता छुट",
-   "en": "सामसङ र एनसेलबीच सहकार्य, ग्यालेक्सी फोन खरिदमा ग्राहकले पाउनेछन् यस्ता छुट",
-   "ne": "सामसङ र एनसेलबीच सहकार्य, ग्यालेक्सी फोन खरिदमा ग्राहकले पाउनेछन् यस्ता छुट",
-   "imp": 2,
-   "tags": [
-    "Samsung",
-    "Ncell",
-    "Smartphone",
-    "Discounts"
-   ],
-   "cat": "tech",
-   "val": 2,
-   "teaser": true,
-   "hits": 2
-  },
-  {
-   "title": "सौराहामा गुञ्जिँदै छ नेपथ्यको धुन",
-   "summary": "मोहसिन अलिभरतपुर, मंसिर ३ गते । संगीतमार्फत पर्यटन प्रवर्धन गर्ने उद्देश्यसहित पर्यटकीय नगरी सौराहामा पहिलो पटक लोकप्रिय नेपाली ब्याण्ड नेपथ्यले सांगीतिक प्रस्तुति दिने भएको छ । आज...",
-   "link": "https://gorkhapatraonline.com/news/229589",
-   "source": "Gorkhapatra",
-   "ts": 1795082516,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/392182/conversions/nepathya-1-original.jpg",
-   "lang": "ne",
-   "hl": "सौराहामा गुञ्जिँदै छ नेपथ्यको धुन",
-   "en": "सौराहामा गुञ्जिँदै छ नेपथ्यको धुन",
-   "ne": "सौराहामा गुञ्जिँदै छ नेपथ्यको धुन",
-   "imp": 2,
-   "tags": [
-    "Sauraha",
-    "Nepathya",
-    "Music"
-   ],
-   "cat": "culture",
-   "val": 1,
-   "teaser": false,
-   "hits": 1
-  },
   {
    "title": "सुनील थापाको अन्तिम फिल्म हेरेपछि छोराले भने- यो सामान्य नेपाली फिल्म होइन",
    "summary": "बुवाको आवाज सुन्दा र पर्दामा उनको अभिनय हेर्दा पुराना सम्झनाहरू ताजा भएर आएको अनमोलले सुनाए।",
@@ -8478,8 +8360,8 @@
    "cat": "politics"
   }
  ],
- "updated": 1795111297,
- "pending_since": null,
+ "updated": 1795111860,
+ "pending_since": 1795111857.1805465,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
