@@ -1,10 +1,5 @@
 {
  "seen": {
-  "https://baahrakhari.com/detail/507499": 1794894054.6707792,
-  "https://news.google.com/rss/articles/CBMidkFVX3lxTE1hWW50NU1xQmx3Xy0tX2Y4LTRLaG1JT3JFdmg1REp3ZElfZHAtS0tQNTBpcG85VVZJLUFIVUowRHBfY3hfcXZYSWYzTnBHU190em1PYlhMemhGREpXeTlrcjFsVTVUamcwaXhsaVkxelotMUxvZ3c?oc=5": 1794894054.6707792,
-  "https://baahrakhari.com/detail/507498": 1794894054.6707792,
-  "http://english.ratopati.com/story/86960/gulmis-resunga-park-becomes-a-favorite-among-domestic-tourists-visited-by-over-40000-people": 1794894054.6707792,
-  "https://kathmandupost.com/art-culture/2026/11/17/british-actor-robert-pattinson-named-as-new-james-bond": 1794894054.6707792,
   "https://baahrakhari.com/detail/507501": 1794894650.256699,
   "https://baahrakhari.com/detail/507500": 1794894650.256699,
   "https://nagariknews.nagariknetwork.com/sports/nepali-team-leaves-for-qatar-to-play-in-asia-cup-rising-stars-96-87.html": 1794894650.256699,
@@ -1972,7 +1967,9 @@
   "https://www.setopati.com/kinmel/jewellery/402898": 1795066283.5088937,
   "https://nagariknews.nagariknetwork.com/politics/falgun-21-election-setback-is-temporary-senior-leader-bhandari-96-96.html": 1795066283.5088937,
   "https://baahrakhari.com/detail/507710": 1795066283.5088937,
-  "http://english.ratopati.com/story/87248/geological-studies-and-scientific-research-should-be-linked-to-national-development-speaker-aryal": 1795066283.5088937
+  "http://english.ratopati.com/story/87248/geological-studies-and-scientific-research-should-be-linked-to-national-development-speaker-aryal": 1795066283.5088937,
+  "http://english.ratopati.com/story/87255/relief-of-2-lakh-rupees-to-the-families-of-those-who-went-missing-in-the-bhotekoshi-flood-in-kanchanpur": 1795066866.1994371,
+  "http://english.ratopati.com/story/87254/parliamentary-special-committee-team-monitoring-disaster-affected-areas": 1795066866.1994371
  },
  "queue": [
   {
@@ -6127,20 +6124,55 @@
    "val": 2,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "Kanchapur Families of 26 Missing in Bhote Koshi Flood to Receive Rs 2 Lakh Relief Each",
+   "summary": "Kanchanpur. Families of 26 people from Kanchanpur who went missing in the flood in Bhote Koshi will be provided relief...",
+   "link": "http://english.ratopati.com/story/87255/relief-of-2-lakh-rupees-to-the-families-of-those-who-went-missing-in-the-bhotekoshi-flood-in-kanchanpur",
+   "source": "Ratopati EN",
+   "ts": 1795066685,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/kanchanpur_e3gtuuoi9c_NWReY0jTdJ.jpg",
+   "lang": "en",
+   "hl": "Kanchapur Families of 26 Missing in Bhote Koshi Flood to Receive Rs 2 Lakh Relief Each",
+   "en": "Kanchapur Families of 26 Missing in Bhote Koshi Flood to Receive Rs 2 Lakh Relief Each",
+   "ne": "Kanchapur Families of 26 Missing in Bhote Koshi Flood to Receive Rs 2 Lakh Relief Each",
+   "imp": 4,
+   "tags": [
+    "BhoteKoshi",
+    "Flood",
+    "Relief"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Parliamentary Committee Monitors Flood-Hit Gandaki Province",
+   "summary": "Pokhara. A parliamentary special committee for study and monitoring of disaster related to the Bhote Koshi and Kaligandaki Corridor under...",
+   "link": "http://english.ratopati.com/story/87254/parliamentary-special-committee-team-monitoring-disaster-affected-areas",
+   "source": "Ratopati EN",
+   "ts": 1795066409,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/krishna-paudel_5uepwojbmy_QU3Dmcd32o.webp",
+   "lang": "en",
+   "hl": "Parliamentary Committee Monitors Flood-Hit Gandaki Province",
+   "en": "Parliamentary Committee Monitors Flood-Hit Gandaki Province",
+   "ne": "Parliamentary Committee Monitors Flood-Hit Gandaki Province",
+   "imp": 3,
+   "tags": [
+    "Gandaki",
+    "Flood",
+    "ParliamentaryCommittee"
+   ],
+   "cat": "disaster",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1794462060.0187907,
-   "en": "Security tightened in Jhapa border as wild elephants attempt to enter from India",
-   "ne": "Security tightened in Jhapa border as wild elephants attempt to enter from India",
-   "link": "https://english.onlinekhabar.com/wild-elephants-alert-bahundangi.html",
-   "source": "Onlinekhabar EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "society"
-  },
   {
    "ts": 1794463861.0181293,
    "en": "Gosainkunda tourism in Rasuwa revives as road access improves",
@@ -9145,7 +9177,7 @@
    "cat": "crime"
   }
  ],
- "updated": 1795066343,
+ "updated": 1795066878,
  "pending_since": 1795066283.5088937,
  "fb_blocks": [
   1790350880.4125228,
