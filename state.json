@@ -2018,52 +2018,6 @@
  },
  "queue": [
   {
-   "title": "सुनको सिक्री चोरी आरोपमा एक जना पक्राउ",
-   "summary": "ताप्लेजुङ समाचारदाताताप्लेजुङ, मङ्सिर ३ गते । ताप्लेजुङमा वृद्धाको घाँटीबाट सुनको सिक्री चोरी गरेको आरोपमा एक युवक पक्राउ परेका छन् ।पक्राउ पर्नेमा फुङलिङ नगरपालिका-४ का ३० वर्षीय...",
-   "link": "https://gorkhapatraonline.com/news/229608",
-   "source": "Gorkhapatra",
-   "ts": 1795095462,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/392211/conversions/gold--ornament-original.jpg",
-   "lang": "ne",
-   "hl": "सुनको सिक्री चोरी आरोपमा एक जना पक्राउ",
-   "en": "सुनको सिक्री चोरी आरोपमा एक जना पक्राउ",
-   "ne": "सुनको सिक्री चोरी आरोपमा एक जना पक्राउ",
-   "imp": 2,
-   "tags": [
-    "Gold",
-    "Crime",
-    "चोरी"
-   ],
-   "cat": "crime",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "सांसदहरूको विदेश भ्रमण मोह, संसदीय समिति निस्क्रिय",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/507774",
-   "source": "Baahrakhari",
-   "ts": 1795095527,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "सांसदहरूको विदेश भ्रमण मोह, संसदीय समिति निस्क्रिय",
-   "en": "सांसदहरूको विदेश भ्रमण मोह, संसदीय समिति निस्क्रिय",
-   "ne": "सांसदहरूको विदेश भ्रमण मोह, संसदीय समिति निस्क्रिय",
-   "imp": 2,
-   "tags": [
-    "Parliament",
-    "ForeignTrip",
-    "सांसद"
-   ],
-   "cat": "politics",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
-  },
-  {
    "title": "महँगियो उपभोग्य वस्तुको मूल्य, अघिल्लो वर्षभन्दा ५ प्रतिशत विन्दुले बढी",
    "summary": "खाद्य तथा पेय पदार्थ समूहमा सबैभन्दा धेरै घ्यू तथा तेलको मूल्य बढेको छ।",
    "link": "https://www.setopati.com/kinmel/economy/402951",
@@ -2214,28 +2168,6 @@
    ],
    "cat": "politics",
    "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "हरिबोधिनी एकादशीका लागि बूढानीलकण्ठमा दर्शन र पार्किङको तयारी पूरा",
-   "summary": "शुक्रबार मनाइने हरिबोधिनी एकादशीका अवसरमा काठमाडौंको बूढानीलकण्ठ नारायणस्थानमा भक्तजनको सहज दर्शनका लागि आवश्यक तयारी पूरा भएको छ।...",
-   "link": "https://nagariknews.nagariknetwork.com/Dharma-Saskriti/preparations-for-darshan-and-parking-at-budhanilkantha-completed-for-haribodhini-ekadashi-98-24.html",
-   "source": "Nagarik News",
-   "ts": 1795095564,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1795095584_op.png",
-   "lang": "ne",
-   "hl": "हरिबोधिनी एकादशीका लागि बूढानीलकण्ठमा दर्शन र पार्किङको तयारी पूरा",
-   "en": "हरिबोधिनी एकादशीका लागि बूढानीलकण्ठमा दर्शन र पार्किङको तयारी पूरा",
-   "ne": "हरिबोधिनी एकादशीका लागि बूढानीलकण्ठमा दर्शन र पार्किङको तयारी पूरा",
-   "imp": 1,
-   "tags": [
-    "Haribodhini",
-    "Boudhanilakhet"
-   ],
-   "cat": "culture",
-   "val": 1,
    "teaser": false,
    "hits": 1
   },
@@ -6277,8 +6209,8 @@
    "cat": "politics"
   }
  ],
- "updated": 1795123880,
- "pending_since": 1795123877.4957514,
+ "updated": 1795124460,
+ "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
