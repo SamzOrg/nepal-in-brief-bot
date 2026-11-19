@@ -1,8 +1,5 @@
 {
  "seen": {
-  "https://english.khabarhub.com/2026/17/575905/": 1794906087.724938,
-  "https://theannapurnaexpress.com/story/68818": 1794906087.724938,
-  "https://theannapurnaexpress.com/story/68817": 1794906087.724938,
   "https://english.khabarhub.com/2026/17/575911/": 1794906655.2946143,
   "https://english.onlinekhabar.com/govt-annual-budget-spending.html": 1794906655.2946143,
   "https://news.google.com/rss/articles/CBMihAJBVV95cUxPRHhrRWZSZDRsdGNNTzZ2VXVpd2JIaXJ3QVNKeG1tQmV0MDI0TVlrU3Vud1dfLWgxeHIzN2w1UV84UkVSSm42S3hJdTJEWDBFeVJCdGhmV3Q1b3d6Tm1JNVA0a2dpcm54Y1p0LWlkQnIxZW1yRHNpa2pmNEtYWk02YnFNSkVsVUxCUnhnMk5ELVFoZ0lVajc0TWxQM3RwLS04dTBCRE13dnNISUx1ajFnVDh2eXFtVXlUVFFVRFp1N25KSEFIOFRSUUxRdkdKRWZia2huODNCNDAtYzVjRk1TSWdlQ3ZBQ0cwQmhYZV9KbVMtNGkyVFF6VG9EM1pDb184WGMxag?oc=5": 1794906655.2946143,
@@ -1951,7 +1948,12 @@
   "https://www.setopati.com/social/402921": 1795077656.9564602,
   "https://baahrakhari.com/detail/507733": 1795077656.9564602,
   "https://www.setopati.com/social/402918": 1795077656.9564602,
-  "http://english.ratopati.com/story/87297/dry-landslides-continue-in-ghoptebhir": 1795078269.8316753
+  "http://english.ratopati.com/story/87297/dry-landslides-continue-in-ghoptebhir": 1795078269.8316753,
+  "http://english.ratopati.com/story/87299/permission-granted-for-export-of-a-total-of-1198-mw-of-electricity-from-nepal-to-india": 1795078888.8224623,
+  "https://baahrakhari.com/detail/507737": 1795078888.8224623,
+  "http://english.ratopati.com/story/87298/12-people-arrested-while-gambling": 1795078888.8224623,
+  "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTkdzVE5KVjJ1NklaSUR5TFZCQkFzeUJaV3Nja0UycHUtc2JZUDJlRFpaR0hnVDdxbzFtb3BrS1BKaFBRTVJENXBGVng1eGpZM0RHU3VjVzlfWm5CLVdxWmlMX3JQNUVzd0ZIOTRnRFlYRWxKZHRsRFlnZHduc1JkVXRuVXB5SnVnUmtUVU5jYnNvaTBpWllXQ3RhS2lHMWZOSThNVUJiYWpkR3RQMkl6TjMzcXN4RjliWTBkSUwyMEViZ1NhVE9DNlln?oc=5": 1795078888.8224623,
+  "https://www.setopati.com/kinmel/medical/402923": 1795078888.8224623
  },
  "queue": [
   {
@@ -1975,75 +1977,6 @@
    "cat": "politics",
    "val": 1,
    "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "प्रधानमन्त्रीको भारत भ्रमण : भेटवार्ता उपलब्धिमूलक हुने",
-   "summary": "काठमाडौँ, मङ्सिर ३ गते । प्रधानमन्त्री वालेन्द्र शाहको आसन्न भारत भ्रमणमा भारतका प्रधानमन्त्री नरेन्द्रदामोदर मोदीसँग ऐतिहासिक वार्ता हुने गरी दुई देशले अन्तिम तयारी गरेका छन् । प्...",
-   "link": "https://gorkhapatraonline.com/news/229515",
-   "source": "Gorkhapatra",
-   "ts": 1795050081,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/392084/conversions/PM-and-Indian-Envoy-Dalela-original.jpg",
-   "lang": "ne",
-   "hl": "प्रधानमन्त्रीको भारत भ्रमण : भेटवार्ता उपलब्धिमूलक हुने",
-   "en": "प्रधानमन्त्रीको भारत भ्रमण : भेटवार्ता उपलब्धिमूलक हुने",
-   "ne": "प्रधानमन्त्रीको भारत भ्रमण : भेटवार्ता उपलब्धिमूलक हुने",
-   "imp": 3,
-   "tags": [
-    "PrimeMinister",
-    "IndiaVisit",
-    "Diplomacy"
-   ],
-   "cat": "politics",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "स्थानीय र प्रदेश सरकार प्रतिस्पर्धी होइन, सहयोगी बन्नुपर्छ : मुख्यमन्त्री शाही",
-   "summary": "कर्णाली प्रदेश सरकारका मुख्यमन्त्री मङ्गलबहादुर शाहीले सङ्घीय व्यवस्था सफल बनाउन वित्तीय सङ्घीयताको प्रभावकारी कार्यान्वयन हुनुपर्ने बताएका छन्।...",
-   "link": "https://nagariknews.nagariknetwork.com/politics/local-and-provincial-governments-should-be-cooperative-not-competitive-chief-minister-shahi-br-17-90.html",
-   "source": "Nagarik News",
-   "ts": 1795049888,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1793496317_mangal.jpg",
-   "lang": "ne",
-   "hl": "स्थानीय र प्रदेश सरकार प्रतिस्पर्धी होइन, सहयोगी बन्नुपर्छ : मुख्यमन्त्री शाही",
-   "en": "स्थानीय र प्रदेश सरकार प्रतिस्पर्धी होइन, सहयोगी बन्नुपर्छ : मुख्यमन्त्री शाही",
-   "ne": "स्थानीय र प्रदेश सरकार प्रतिस्पर्धी होइन, सहयोगी बन्नुपर्छ : मुख्यमन्त्री शाही",
-   "imp": 2,
-   "tags": [
-    "LocalGovernment",
-    "ProvincialGovernment",
-    "Shahi"
-   ],
-   "cat": "politics",
-   "val": 1,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "एमबीबीएसमा १० हजार ३२१ उत्तीर्ण, दुई हजार ७४५ सिटका लागि प्रतिस्पर्धा",
-   "summary": "काठमाडौँ, मङ्सिर ३ गते । चिकित्सा शिक्षा आयोगले शैक्षिक सत्र २०८३/०८४ का लागि सञ्चालन गरेको एमबीबीएसको एकीकृत प्रवेश परीक्षामा सहभागीमध्ये करिब ५० प्रतिशत विद्यार्थी उत्तीर्ण भएका...",
-   "link": "https://gorkhapatraonline.com/news/229514",
-   "source": "Gorkhapatra",
-   "ts": 1795049648,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/392082/conversions/chikitsa-aayog-pic-original.jpg",
-   "lang": "ne",
-   "hl": "एमबीबीएसमा १० हजार ३२१ उत्तीर्ण, दुई हजार ७४५ सिटका लागि प्रतिस्पर्धा",
-   "en": "एमबीबीएसमा १० हजार ३२१ उत्तीर्ण, दुई हजार ७४५ सिटका लागि प्रतिस्पर्धा",
-   "ne": "एमबीबीएसमा १० हजार ३२१ उत्तीर्ण, दुई हजार ७४५ सिटका लागि प्रतिस्पर्धा",
-   "imp": 3,
-   "tags": [
-    "MBBS",
-    "EntranceExam",
-    "Education"
-   ],
-   "cat": "education",
-   "val": 3,
-   "teaser": false,
    "hits": 1
   },
   {
@@ -6775,7 +6708,7 @@
    "cat": "sports",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "ढिलो रोपाइँपछि धान भित्र्याउन व्यस्त किसान",
@@ -7961,23 +7894,22 @@
    "hits": 1
   },
   {
-   "title": "Dry Landslide Continues at Ghoptebhir on Prithvi Highway, Efforts Underway for Traffic Resumption",
-   "summary": "Kathmandu. The process of dry landslide continues at Ghoptebhir on the Prithvi Highway in Dhading. Although traffic has been resumed...",
-   "link": "http://english.ratopati.com/story/87297/dry-landslides-continue-in-ghoptebhir",
-   "source": "Ratopati EN",
-   "ts": 1795077853,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/ghoptebhir_7hmHreLU1X.webp",
-   "lang": "en",
-   "hl": "Dry Landslide Continues at Ghoptebhir on Prithvi Highway, Efforts Underway for Traffic Resumption",
-   "en": "Dry Landslide Continues at Ghoptebhir on Prithvi Highway, Efforts Underway for Traffic Resumption",
-   "ne": "Dry Landslide Continues at Ghoptebhir on Prithvi Highway, Efforts Underway for Traffic Resumption",
-   "imp": 4,
+   "title": "पृथ्वी राजमार्गको घोप्टे भिरमा आज पनि खस्यो सुक्खा पहिरो",
+   "summary": "पृथ्वी राजमार्गको मुग्लिन-कुरिनटार सडकखण्डस्थित घोप्टे भिरमा सुक्खा पहिरो खस्ने क्रम रोकिएको छैन।",
+   "link": "https://www.setopati.com/kinmel/medical/402923",
+   "source": "Setopati",
+   "ts": 1795078440,
+   "weight": 3,
+   "img": null,
+   "lang": "ne",
+   "hl": "पृथ्वी राजमार्गको घोप्टे भिरमा आज पनि खस्यो सुक्खा पहिरो",
+   "en": "पृथ्वी राजमार्गको घोप्टे भिरमा आज पनि खस्यो सुक्खा पहिरो",
+   "ne": "पृथ्वी राजमार्गको घोप्टे भिरमा आज पनि खस्यो सुक्खा पहिरो",
+   "imp": 2,
    "tags": [
     "Landslide",
     "PrithviHighway",
-    "Traffic",
-    "पहिरो"
+    "Ghote"
    ],
    "cat": "disaster",
    "val": 3,
@@ -10988,9 +10920,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "sports"
+  },
+  {
+   "ts": 1795078900.5329673,
+   "en": "Dry Landslide Continues at Ghoptebhir on Prithvi Highway in Dhading",
+   "ne": "Dry Landslide Continues at Ghoptebhir on Prithvi Highway in Dhading",
+   "link": "http://english.ratopati.com/story/87297/dry-landslides-continue-in-ghoptebhir",
+   "source": "Ratopati EN",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "disaster"
   }
  ],
- "updated": 1795078275,
+ "updated": 1795078910,
  "pending_since": 1795078269.8316753,
  "fb_blocks": [
   1790350880.4125228,
