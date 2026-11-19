@@ -1928,32 +1928,12 @@
   "https://english.khabarhub.com/2026/19/576103/": 1795053054.3725893,
   "https://kathmandupost.com/columns/2026/11/18/police-is-my-friend-can-a-friend-be-questioned": 1795053054.3725893,
   "https://gorkhapatraonline.com/news/229519": 1795053054.3725893,
-  "https://gorkhapatraonline.com/news/229518": 1795053054.3725893
+  "https://gorkhapatraonline.com/news/229518": 1795053054.3725893,
+  "https://kathmandupost.com/art-culture/2026/11/19/who-gets-to-participate-in-nepal-s-creative-industries": 1795053686.140072,
+  "https://gorkhapatraonline.com/news/229525": 1795053686.140072,
+  "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNms5N1NSR2ZHVE82NnZWV2NybWNEa29JREdRc09DUjlHb2lIMlp4d0Z3MWtDSTF4aUZDdEVFcjNLS0FjQkhCZmwwb1lBQnFxM0MxNG5DNVhNOVpuUTlGUVVFcVc5eHI3aEczcXFJWWZYNzFvbmdCR3dXU0kzUVhwbVh2eDRKc0k?oc=5": 1795053686.140072
  },
  "queue": [
-  {
-   "title": "हुम्लामा पहिलोपटक ३९ किलोमिटर सडक कालोपत्रे हुँदै, दुई अर्बको ठेक्का सम्झौता",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/507684",
-   "source": "Baahrakhari",
-   "ts": 1795024287,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "हुम्लामा पहिलोपटक ३९ किलोमिटर सडक कालोपत्रे हुँदै, दुई अर्बको ठेक्का सम्झौता",
-   "en": "हुम्लामा पहिलोपटक ३९ किलोमिटर सडक कालोपत्रे हुँदै, दुई अर्बको ठेक्का सम्झौता",
-   "ne": "हुम्लामा पहिलोपटक ३९ किलोमिटर सडक कालोपत्रे हुँदै, दुई अर्बको ठेक्का सम्झौता",
-   "imp": 3,
-   "tags": [
-    "Humla",
-    "Road",
-    "सडक"
-   ],
-   "cat": "infrastructure",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
   {
    "title": "India Fined 35% of Match Fee for Slow Over-Rate Against New Zealand",
    "summary": "Kathmandu. The International Cricket Council (ICC) has fined the Indian team 35 percent of their match fee for not completing...",
@@ -3094,6 +3074,52 @@
    "cat": "society",
    "val": 3,
    "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "बाढीपीडितलाई पेन्सनको प्रक्रिया सुरु",
+   "summary": "काठमाडौँ, मङ्सिर ३ गते । रसुवाको भोटेकोशी नदीमा गत भदौ १० गते आएको बाढीमा ज्यान गुमाएका योगदानकर्ताका आश्रित परिवारलाई सामाजिक सुरक्षा कोषले पेन्सन दिने प्रक्रिया सुरु गरेको छ । को...",
+   "link": "https://gorkhapatraonline.com/news/229525",
+   "source": "Gorkhapatra",
+   "ts": 1795053446,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/392095/conversions/1000124607-original.jpg",
+   "lang": "ne",
+   "hl": "बाढीपीडितलाई पेन्सनको प्रक्रिया सुरु",
+   "en": "बाढीपीडितलाई पेन्सनको प्रक्रिया सुरु",
+   "ne": "बाढीपीडितलाई पेन्सनको प्रक्रिया सुरु",
+   "imp": 3,
+   "tags": [
+    "Flood",
+    "Pension",
+    "बाढी"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "After Nepal's epic flood, they're restoring their community ... and their lives",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNms5N1NSR2ZHVE82NnZWV2NybWNEa29JREdRc09DUjlHb2lIMlp4d0Z3MWtDSTF4aUZDdEVFcjNLS0FjQkhCZmwwb1lBQnFxM0MxNG5DNVhNOVpuUTlGUVVFcVc5eHI3aEczcXFJWWZYNzFvbmdCR3dXU0kzUVhwbVh2eDRKc0k?oc=5",
+   "source": "NPR",
+   "ts": 1795039277,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "After Nepal's epic flood, they're restoring their community ... and their lives",
+   "en": "After Nepal's epic flood, they're restoring their community ... and their lives",
+   "ne": "After Nepal's epic flood, they're restoring their community ... and their lives",
+   "imp": 3,
+   "tags": [
+    "Flood",
+    "Recovery",
+    "नेपाल"
+   ],
+   "cat": "disaster",
+   "val": 2,
+   "teaser": true,
    "hits": 1
   }
  ],
@@ -6113,7 +6139,7 @@
    "cat": "crime"
   }
  ],
- "updated": 1795053096,
+ "updated": 1795053698,
  "pending_since": 1795053054.3725893,
  "fb_blocks": [
   1790350880.4125228,
