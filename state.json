@@ -2365,28 +2365,6 @@
    "hits": 2
   },
   {
-   "title": "भौगर्भिक सम्मेलन आजदेखि, २७ देशका ३५० भूगर्भविद् सहभागी हुँदै",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/507689",
-   "source": "Baahrakhari",
-   "ts": 1795048260,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "भौगर्भिक सम्मेलन आजदेखि, २७ देशका ३५० भूगर्भविद् सहभागी हुँदै",
-   "en": "भौगर्भिक सम्मेलन आजदेखि, २७ देशका ३५० भूगर्भविद् सहभागी हुँदै",
-   "ne": "भौगर्भिक सम्मेलन आजदेखि, २७ देशका ३५० भूगर्भविद् सहभागी हुँदै",
-   "imp": 3,
-   "tags": [
-    "Geology",
-    "Conference"
-   ],
-   "cat": "culture",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
    "title": "Government warns Army to accelerate Kathmandu-Terai fast track project",
    "summary": "Kathmandu, November 19 The government has warned the Nepali Army to speed up construction of the Kathmandu-Terai-Madhes Fast Track, while pledging to resolve problems at the project's starting point in Kathmandu. The...",
    "link": "https://english.onlinekhabar.com/govt-warn-army-fast-track-project.html",
@@ -5590,10 +5568,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "society"
+  },
+  {
+   "ts": 1795049461.9024017,
+   "en": "काठमाडौंमा १२औँ नेपाल भौगर्भिक सम्मेलन सुरु, २७ देशका ३५० भूगर्भविद् सहभागी हुँदै",
+   "ne": "काठमाडौंमा १२औँ नेपाल भौगर्भिक सम्मेलन सुरु, २७ देशका ३५० भूगर्भविद् सहभागी हुँदै",
+   "link": "https://baahrakhari.com/detail/507689",
+   "source": "Baahrakhari",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "culture"
   }
  ],
- "updated": 1795048873,
- "pending_since": null,
+ "updated": 1795049478,
+ "pending_since": 1795049455.532438,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
