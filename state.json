@@ -2017,7 +2017,10 @@
   "https://baahrakhari.com/detail/507792": 1795111285.93894,
   "https://gorkhapatraonline.com/news/229612": 1795111285.93894,
   "https://baahrakhari.com/detail/507791": 1795111285.93894,
-  "https://gorkhapatraonline.com/news/229611": 1795111285.93894
+  "https://gorkhapatraonline.com/news/229611": 1795111285.93894,
+  "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYm04a2xNTU01Q3lDNG1oTmp6c0xMOVJtTFhrMXhzbWphS0lMc3hraTYyYVowVzAxMnlEeFdJZU1USkx6aXFxZWVWM3MxdEZQWVdhOHdfT1pIVDdnVmxJbE9BWW9teklibURjMUdUc3BsODkyQndCN0IwS3MxQUI4VnUzUWc?oc=5": 1795113075.9894798,
+  "https://news.google.com/rss/articles/CBMib0FVX3lxTFBhUm81aTlJVzJSay1MckIxYmpGU25ISGtaanltcVFPY1diZHVxRU12RV9TblJJcC11LWREQkVMbVdURHBNY25HeHJJN25aRW13OHNOV0Ezejlmd3NPMkxLU0NxZWg2cWpkM3VrVEYtSQ?oc=5": 1795113075.9894798,
+  "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeG44RThsTDFnMEF6NDJVajNnN1BVdTlzVVR5anlndV81S0ltMmVHcWxKbU5OdXI2VG5oYU12NE0yMDMyZGdKc01yRGRucnZPWjNZRjh2NWpyamE4aTIxNDNOdGhHMWk4SHM5aThJLWxaVnJyOUdlYklidFNIM2ZzSTV1MENBb1M3YnpQTlFNa2lKUlB0TWVCcVJtQ29aSnp0SXdxYzEyMDJzZFU?oc=5": 1795113075.9894798
  },
  "queue": [
   {
@@ -2113,52 +2116,6 @@
    "hits": 1
   },
   {
-   "title": "5,000 Litres Of Gangajal Sent From Haridwar To Nepal's Pashupatinath Temple",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOWWtIT3pPODBUUkRhSmVUR3FtemNmM1JGdVZBcERmZHA5OGtBVnhLTFlsOXNZdTRnellXSHlVMWI0RmNQWDI2UmI5S1BqQklJOHZQSVVKQUk1TDd2azE3S0hqM2NvNTJuYnFQY19nR2J1VlpRQmpnNm0xNmJ1Q05FYk10VVVJOFFHd3hVX1l0aDFzektPcUNfQmtNRHRGSVFhaVN6ZGdhZ2wyTVhXckYtcUdKbmwtTFhOVWFraGxvZGtBVklOU2Y2WGFsUDhhaU9OMUtWOTVFLWZOWVoyc181SHh4T1lpemZHMEE?oc=5",
-   "source": "The Times of India",
-   "ts": 1795084204,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "5,000 Litres Of Gangajal Sent From Haridwar To Nepal's Pashupatinath Temple",
-   "en": "5,000 Litres Of Gangajal Sent From Haridwar To Nepal's Pashupatinath Temple",
-   "ne": "5,000 Litres Of Gangajal Sent From Haridwar To Nepal's Pashupatinath Temple",
-   "imp": 2,
-   "tags": [
-    "Pashupatinath",
-    "Gangajal",
-    "Haridwar"
-   ],
-   "cat": "culture",
-   "val": 3,
-   "teaser": false,
-   "hits": 3
-  },
-  {
-   "title": "नेपाल हवाई दुर्घटना न्यूनीकरण: एक प्रस्तावित मार्गचित्र",
-   "summary": "चालक दलका सदस्यहरूबीच ककपिटमा सञ्चारको कमी वा मानक सञ्चालन प्रक्रियालाई बेवास्ता गर्दा स-साना गल्तीले ठुलो दुर्घटनाको रूप लिने गरेको पाइन्छ।",
-   "link": "https://www.setopati.com/blog/402932",
-   "source": "Setopati",
-   "ts": 1795084140,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "नेपाल हवाई दुर्घटना न्यूनीकरण: एक प्रस्तावित मार्गचित्र",
-   "en": "नेपाल हवाई दुर्घटना न्यूनीकरण: एक प्रस्तावित मार्गचित्र",
-   "ne": "नेपाल हवाई दुर्घटना न्यूनीकरण: एक प्रस्तावित मार्गचित्र",
-   "imp": 3,
-   "tags": [
-    "AviationSafety",
-    "NepalAirlines",
-    "हवाईदुर्घटना"
-   ],
-   "cat": "society",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
-  },
-  {
    "title": "आईएमईको ग्रुप भाइस प्रेसिडेन्टमा जगदीश खड्का नियुक्त",
    "summary": "",
    "link": "https://baahrakhari.com/detail/507752",
@@ -2180,120 +2137,6 @@
    "val": 3,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "Nepal Rastra Bank to chair Asian Clearing Union for 2026/27",
-   "summary": "Kathmandu, November 19 Nepal Rastra Bank (NRB) has been appointed chair of the Asian Clearing Union (ACU) for 2026/27. The 54th meeting of the ACU Board of Directors handed over the chairmanship to Nepal Rastra Bank for...",
-   "link": "https://english.onlinekhabar.com/nepal-rastra-bank-to-chair-asian-clearing-union-for-2026-27.html",
-   "source": "Onlinekhabar EN",
-   "ts": 1795084149,
-   "weight": 3,
-   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/11/acu.jpg",
-   "lang": "en",
-   "hl": "Nepal Rastra Bank to chair Asian Clearing Union for 2026/27",
-   "en": "Nepal Rastra Bank to chair Asian Clearing Union for 2026/27",
-   "ne": "Nepal Rastra Bank to chair Asian Clearing Union for 2026/27",
-   "imp": 3,
-   "tags": [
-    "NepalRastraBank",
-    "AsianClearingUnion",
-    "NRB"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Nepal ranks third globally for youth optimism about the future",
-   "summary": "Kathmandu, November 19 Nepal has ranked third globally among countries with the most optimistic youth about the future, according to a global survey conducted by the UK-based Oxford Scholastica Academy. In the survey,...",
-   "link": "https://english.onlinekhabar.com/nepal-ranks-third-globally-for-youth-optimism-about-the-future.html",
-   "source": "Onlinekhabar EN",
-   "ts": 1795083793,
-   "weight": 3,
-   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/11/Nepali-Youth.jpg",
-   "lang": "en",
-   "hl": "Nepal ranks third globally for youth optimism about the future",
-   "en": "Nepal ranks third globally for youth optimism about the future",
-   "ne": "Nepal ranks third globally for youth optimism about the future",
-   "imp": 2,
-   "tags": [
-    "YouthOptimism",
-    "NepalRank",
-    "GlobalStudy"
-   ],
-   "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "MP Ain Bahadur Mahar Accuses Government of Being Run by Middlemen",
-   "summary": "Kathmandu. CPN (UML) MP Ain Bahadur Mahar has accused the current government of being run by middlemen.He alleged that the...",
-   "link": "http://english.ratopati.com/story/87318/mp-mahar-alleges-that-the-current-government-is-being-run-by-middlemen",
-   "source": "Ratopati EN",
-   "ts": 1795083770,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/ain-mahar_tix4gikOZo.webp",
-   "lang": "en",
-   "hl": "MP Ain Bahadur Mahar Accuses Government of Being Run by Middlemen",
-   "en": "MP Ain Bahadur Mahar Accuses Government of Being Run by Middlemen",
-   "ne": "MP Ain Bahadur Mahar Accuses Government of Being Run by Middlemen",
-   "imp": 3,
-   "tags": [
-    "AinBahadurMahar",
-    "Government"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Brigadier General Rajendra Shrestha takes charge as new Nepal Army spokesperson",
-   "summary": "Kathmandu, November 19 Brigadier General Rajendra Shrestha has taken over as director of the Nepal Army's Directorate of Public Relations and Information and as its spokesperson. Shrestha formally assumed the role of...",
-   "link": "https://english.onlinekhabar.com/rajendra-shrestha-army-spokesperson.html",
-   "source": "Onlinekhabar EN",
-   "ts": 1795083747,
-   "weight": 3,
-   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/11/rajendra-shrestha-nepali-sena.jpg",
-   "lang": "en",
-   "hl": "Brigadier General Rajendra Shrestha takes charge as new Nepal Army spokesperson",
-   "en": "Brigadier General Rajendra Shrestha takes charge as new Nepal Army spokesperson",
-   "ne": "Brigadier General Rajendra Shrestha takes charge as new Nepal Army spokesperson",
-   "imp": 2,
-   "tags": [
-    "NepalArmy",
-    "RajendraShrestha",
-    "Spokesperson"
-   ],
-   "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 4
-  },
-  {
-   "title": "दशौँ राष्ट्रिय खेलकुदमा एक हजार ३३७ पदकका लागि प्रतिस्पर्धा हुने",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/507749",
-   "source": "Baahrakhari",
-   "ts": 1795083678,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "दशौँ राष्ट्रिय खेलकुदमा एक हजार ३३७ पदकका लागि प्रतिस्पर्धा हुने",
-   "en": "दशौँ राष्ट्रिय खेलकुदमा एक हजार ३३७ पदकका लागि प्रतिस्पर्धा हुने",
-   "ne": "दशौँ राष्ट्रिय खेलकुदमा एक हजार ३३७ पदकका लागि प्रतिस्पर्धा हुने",
-   "imp": 3,
-   "tags": [
-    "NationalGames",
-    "Medals",
-    "राष्ट्रियखेलकुद"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 3
   },
   {
    "title": "चितवनले टस जित्यो, पहिले ब्याटिङ गर्ने",
@@ -2497,7 +2340,7 @@
    "cat": "sports",
    "val": 3,
    "teaser": false,
-   "hits": 5
+   "hits": 6
   },
   {
    "title": "Congress Hetauda Ward 19 Committee Issues 7-Day Ultimatum for Road Repair",
@@ -4100,28 +3943,6 @@
    "hits": 1
   },
   {
-   "title": "A strong mandate, weak delivery: Balendra Shah government fails to accelerate capital spending",
-   "summary": "Despite commanding a strong parliamentary majority of 182 seats, the Balendra Shah-led government has yet to translate its political strength into faster public investment. Four months into the current fiscal year,...",
-   "link": "https://theannapurnaexpress.com/story/68896",
-   "source": "Annapurna Express",
-   "ts": 1795083664.0888734,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "A strong mandate, weak delivery: Balendra Shah government fails to accelerate capital spending",
-   "en": "A strong mandate, weak delivery: Balendra Shah government fails to accelerate capital spending",
-   "ne": "A strong mandate, weak delivery: Balendra Shah government fails to accelerate capital spending",
-   "imp": 2,
-   "tags": [
-    "BalendraShah",
-    "CapitalSpending"
-   ],
-   "cat": "politics",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "इपिजी हो कि पान्डोराको बाकस? भारतले सुन्नै नचाहेको एउटा प्रतिवेदनको कथा",
    "summary": "आठ वर्षअघि दुवै देशका विज्ञले तयार गरेको प्रतिवेदन नै ग्रहण गर्न नसक्ने भारतले अब तयार गर्ने भनिएको भिजन पेपर कार्यान्वयन हुने विश्वासको आधार कसरी निर्माण गर्छ?",
    "link": "https://www.setopati.com/politics/402947",
@@ -4184,28 +4005,6 @@
    ],
    "cat": "politics",
    "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Mahadevtar Tunnel break through accelerates fast track",
-   "summary": "The Kathmandu Tarai/Madhes Expressway has gained fresh momentum following the breakthrough of the Mahadevtar Tunnel, marking a significant milestone in the construction of the national pride project. The achievement...",
-   "link": "https://theannapurnaexpress.com/story/68895",
-   "source": "Annapurna Express",
-   "ts": 1795083664.0888734,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Mahadevtar Tunnel break through accelerates fast track",
-   "en": "Mahadevtar Tunnel break through accelerates fast track",
-   "ne": "Mahadevtar Tunnel break through accelerates fast track",
-   "imp": 3,
-   "tags": [
-    "MahadevtarTunnel",
-    "Infrastructure"
-   ],
-   "cat": "other",
-   "val": 3,
    "teaser": false,
    "hits": 1
   },
@@ -4685,30 +4484,7 @@
    "cat": "other",
    "val": 1,
    "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "India and Nepal to launch weekly train to boost Ramayana tourism",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ZUGs3bmszZE1jQTg5YUpLQkhoWWJGLXB6UXh0aW9pR0xHdlVJSmhNc0hrYzlhMm5TNlZNYjdGbE15OGtiM3JmQWlpanZIazZRX2lzZVZmb1BKeE1JWGZpbU5ab2FvSk1KQm14TnVlYjhZWmM?oc=5",
-   "source": "TravelMole",
-   "ts": 1795084064,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "India and Nepal to launch weekly train to boost Ramayana tourism",
-   "en": "India and Nepal to launch weekly train to boost Ramayana tourism",
-   "ne": "India and Nepal to launch weekly train to boost Ramayana tourism",
-   "imp": 4,
-   "tags": [
-    "WeeklyTrain",
-    "RamayanaTourism",
-    "IndiaNepal"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "इरान युद्धको आलोचनापछि उपराष्ट्रपति भान्ससँग ट्रम्प असन्तुष्ट",
@@ -8314,7 +8090,7 @@
    "cat": "politics"
   }
  ],
- "updated": 1795112465,
+ "updated": 1795113079,
  "pending_since": 1795111857.1805465,
  "fb_blocks": [
   1790350880.4125228,
