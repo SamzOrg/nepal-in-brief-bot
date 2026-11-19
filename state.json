@@ -1960,7 +1960,8 @@
   "https://nagariknews.nagariknetwork.com/politics/the-setback-suffered-by-uml-is-not-due-to-the-election-results-chairman-oli-28-77.html": 1795071055.5454538,
   "https://nagariknews.nagariknetwork.com/international/bilateral-talks-between-trump-and-xi-br-30-95.html": 1795071055.5454538,
   "http://english.ratopati.com/story/87271/vidya-bhandari-urges-cadres-not-to-be-discouraged-by-defeat-in-one-election": 1795071691.5881543,
-  "https://english.onlinekhabar.com/wfn-and-hhrd-winter-relief.html": 1795071691.5881543
+  "https://english.onlinekhabar.com/wfn-and-hhrd-winter-relief.html": 1795071691.5881543,
+  "http://english.ratopati.com/story/87277/vice-president-thapa-concludes-that-the-party-suffered-defeat-in-the-election-due-to-weak-internal-unity": 1795072253.9617279
  },
  "queue": [
   {
@@ -7013,6 +7014,30 @@
    "val": 3,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "CP(UML) Vice Chairman Thapa Points to Internal Weakness as Cause of Electoral Defeat",
+   "summary": "Kathmandu. CPN (UML) Vice Chairman and Parliamentary Party Leader in the House of Representatives, Ram Bahadur Thapa, has concluded that...",
+   "link": "http://english.ratopati.com/story/87277/vice-president-thapa-concludes-that-the-party-suffered-defeat-in-the-election-due-to-weak-internal-unity",
+   "source": "Ratopati EN",
+   "ts": 1795071885,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/ram-bahadur-thapa-badal_adSPzMpvJ9.webp",
+   "lang": "en",
+   "hl": "CP(UML) Vice Chairman Thapa Points to Internal Weakness as Cause of Electoral Defeat",
+   "en": "CP(UML) Vice Chairman Thapa Points to Internal Weakness as Cause of Electoral Defeat",
+   "ne": "CP(UML) Vice Chairman Thapa Points to Internal Weakness as Cause of Electoral Defeat",
+   "imp": 3,
+   "tags": [
+    "CPNUML",
+    "Thapa",
+    "Election",
+    "NepaliPolitics"
+   ],
+   "cat": "politics",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
@@ -10031,7 +10056,7 @@
    "cat": "politics"
   }
  ],
- "updated": 1795071717,
+ "updated": 1795072262,
  "pending_since": 1795071691.5881543,
  "fb_blocks": [
   1790350880.4125228,
