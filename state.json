@@ -1985,7 +1985,10 @@
   "http://english.ratopati.com/story/87317/action-plan-being-prepared-to-control-rising-air-pollution-acting-chief-dangol": 1795084860.8844554,
   "https://baahrakhari.com/detail/507749": 1795084860.8844554,
   "https://english.onlinekhabar.com/supreme-court-bars-siddharthanagar-municipality-from-dumping-waste-into-danda-river.html": 1795084860.8844554,
-  "http://english.ratopati.com/story/87316/umls-fourth-central-committee-meeting-begins-with-the-conclusion-of-the-national-assembly": 1795084860.8844554
+  "http://english.ratopati.com/story/87316/umls-fourth-central-committee-meeting-begins-with-the-conclusion-of-the-national-assembly": 1795084860.8844554,
+  "https://news.google.com/rss/articles/CBMifEFVX3lxTE5zSDhtMkdvaXpFOENUVktBYUhMM2h2MXkxTW5sV3dhTmh6Y2hEQmM4bjdBR1E3U2NTdUtKNVRjai1XdFFnQ1BDTWhiLWIyVUNBWlhNS1RFWVU3WmE1WmhzMUJXOGgwRnJMS0dEVXFlajNTQUNiQWlFekE3OFk?oc=5": 1795085456.578103,
+  "https://news.google.com/rss/articles/CBMizwFBVV95cUxNT2pmczE3SlY0MXdsNmwyc25zVTFNcU05blpSUXk4TkFIdTNMVWh3cjFMOC1MUkpHZFpYeElnZjVJVjBjSHVURFVyMUhqUzMwWkpLcG1IM3NtckRqRGtJaVNLMWpUaFhCSlctcXdQS2RJWUY2UmRodHFvLXotTklVTWpKakgtYnFDVUk0UC1vYzFrbjZSc1JmeXhpcEU3dlprdENGa3JqblZTb20tMWI4VEktTXJNUllNYXJDdWE3ZE5INUhxWVk5WFQzcWV0bjg?oc=5": 1795085456.578103,
+  "https://baahrakhari.com/detail/507754": 1795085456.578103
  },
  "queue": [
   {
@@ -2104,28 +2107,6 @@
    "hits": 1
   },
   {
-   "title": "Focus On Cooperation",
-   "summary": "With Prime Minister Balendra Shah set to visit India next week, experts have suggested multiple areas of Nepal-India eco...",
-   "link": "https://risingnepaldaily.com/news/88777",
-   "source": "Rising Nepal",
-   "ts": 1795056644,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Focus On Cooperation",
-   "en": "Focus On Cooperation",
-   "ne": "Focus On Cooperation",
-   "imp": 2,
-   "tags": [
-    "Cooperation",
-    "Diplomacy"
-   ],
-   "cat": "world",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
-  },
-  {
    "title": "फोहोरलाई मोहर बनाउँदै पोखरा",
    "summary": "फोहोरबाट आम्दानी दिलाउने र हरित रोजगारीको बाटो देखाउने उद्देश्यसहित पोखरामा आरयु (रिसाइकल र अपसाइकल) फेस्ट सुरु भएको छ।...",
    "link": "https://nagariknews.nagariknetwork.com/social-affairs/pokhara-sealing-off-waste-br-81-56.html",
@@ -2146,73 +2127,6 @@
    "cat": "society",
    "val": 2,
    "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Motorcycle Accident Suspect Driver Arrested in Siraha",
-   "summary": "Janakpurdham. Police have arrested a tipper and its driver on suspicion of involvement in the incident where a youth died...",
-   "link": "http://english.ratopati.com/story/87224/youth-dies-in-mirchaiya-accident-driver-arrested-along-with-tipper-10-days-later",
-   "source": "Ratopati EN",
-   "ts": 1795056607,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/pakrau_Xt8vv5W8Xw.webp",
-   "lang": "en",
-   "hl": "Motorcycle Accident Suspect Driver Arrested in Siraha",
-   "en": "Motorcycle Accident Suspect Driver Arrested in Siraha",
-   "ne": "Motorcycle Accident Suspect Driver Arrested in Siraha",
-   "imp": 2,
-   "tags": [
-    "Siraha",
-    "Accident",
-    "Police"
-   ],
-   "cat": "crime",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Learning From Democratic Pushbacks",
-   "summary": "For much of the past decade, political observers concluded that democracy was in retreat. They watched ambitious leaders...",
-   "link": "https://risingnepaldaily.com/news/88776",
-   "source": "Rising Nepal",
-   "ts": 1795056619,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Learning From Democratic Pushbacks",
-   "en": "Learning From Democratic Pushbacks",
-   "ne": "Learning From Democratic Pushbacks",
-   "imp": 2,
-   "tags": [
-    "Democracy",
-    "Politics"
-   ],
-   "cat": "world",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "Art Of Conversation",
-   "summary": "Garima DhakalHow long has it been since you last had a real conversation with your parents, siblings, friends or a loved...",
-   "link": "https://risingnepaldaily.com/news/88774",
-   "source": "Rising Nepal",
-   "ts": 1795056254,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Art Of Conversation",
-   "en": "Art Of Conversation",
-   "ne": "Art Of Conversation",
-   "imp": 1,
-   "tags": [
-    "Conversation",
-    "Opinion"
-   ],
-   "cat": "culture",
-   "val": 1,
-   "teaser": true,
    "hits": 1
   },
   {
@@ -5511,7 +5425,7 @@
    "cat": "crime",
    "val": 2,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "एन्फामाथि राखेपले लगाएको निलम्बन र प्रतिबन्ध फुकुवा",
@@ -7617,7 +7531,7 @@
    "cat": "world",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "Pacific island nations declare El Nino drought crisis",
@@ -8262,20 +8176,31 @@
    "val": 3,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "चितवनले टस जित्यो, पहिले ब्याटिङ गर्ने",
+   "summary": "",
+   "link": "https://baahrakhari.com/detail/507754",
+   "source": "Baahrakhari",
+   "ts": 1795085383,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "चितवनले टस जित्यो, पहिले ब्याटिङ गर्ने",
+   "en": "चितवनले टस जित्यो, पहिले ब्याटिङ गर्ने",
+   "ne": "चितवनले टस जित्यो, पहिले ब्याटिङ गर्ने",
+   "imp": 2,
+   "tags": [
+    "Chitwan",
+    "Toss"
+   ],
+   "cat": "sports",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1794480065.0155704,
-   "en": "25 Injured in Bus Collision on Banepa-Dhulikhel Road",
-   "ne": "25 Injured in Bus Collision on Banepa-Dhulikhel Road",
-   "link": "http://english.ratopati.com/story/86353/two-buses-coming-from-opposite-directions-collided-on-dhulikhel-banepa-road-section-25-passengers-injured",
-   "source": "Ratopati EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "disaster"
-  },
   {
    "ts": 1794481873.166326,
    "en": "सामाजिक सुरक्षा कोषमा करिब १ अर्ब ३० अर्ब संकलन, ३२ लाख ४३ हजार योगदानकर्ता आबद्ध",
@@ -11280,8 +11205,8 @@
    "cat": "economy"
   }
  ],
- "updated": 1795084870,
- "pending_since": null,
+ "updated": 1795085462,
+ "pending_since": 1795085456.578103,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
