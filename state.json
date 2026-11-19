@@ -2039,29 +2039,6 @@
    "hits": 1
   },
   {
-   "title": "नेपालमा 'रामायण'को कमाइ २४ करोड नाघ्यो",
-   "summary": "'रामायण'को व्यापार अझै उत्साहजनक रहेकाले यसले 'पुष्पा २'को रेकर्ड तोड्दै नेपालमा सर्वाधिक कमाइ गर्ने विदेशी फिल्मको कीर्तिमान बनाउन सक्ने देखिएको छ।",
-   "link": "https://www.setopati.com/art/bollywood/402961",
-   "source": "Setopati",
-   "ts": 1795105320,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "नेपालमा 'रामायण'को कमाइ २४ करोड नाघ्यो",
-   "en": "नेपालमा 'रामायण'को कमाइ २४ करोड नाघ्यो",
-   "ne": "नेपालमा 'रामायण'को कमाइ २४ करोड नाघ्यो",
-   "imp": 3,
-   "tags": [
-    "Ramayan",
-    "Revenue",
-    "Culture"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "फिफाका अध्यक्षसँग खेलकुदमन्त्रीको भेट, एन्फामाथिको प्रतिबन्ध फुकाउन सकारात्मक",
    "summary": "राष्ट्रिय खेलकुद परिषद् (राखेप) ले अखिल नेपाल फुटबल संघ (एन्फा) माथिको प्रतिबन्ध हटाएसँगै विश्व फुटबल महासंघ (फिफा) ले पनि निलम्बन फुकुवा गर्ने मौखिक सहमति भएको छ।...",
    "link": "https://nagariknews.nagariknetwork.com/sports/sports-minister-meets-fifa-president-positive-on-lifting-ban-on-anfa-23-74.html",
@@ -2396,28 +2373,6 @@
    ],
    "cat": "politics",
    "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "उखुको मूल्य प्रतिक्विन्टल १ हजार २५ रुपैयाँ कायम गर्न किसानको अडान",
-   "summary": "उखुको मूल्य तय गर्नुअघि किसानको उत्पादन लागत, चिनीको बजार मूल्य तथा उद्योगीहरूको अवस्थाबारे जानकारी लिन सरकारले दुवै पक्षसँग परामर्श थालेको हो।...",
-   "link": "https://nagariknews.nagariknetwork.com/economy/farmers-stand-to-maintain-sugarcane-price-at-rs-1-025-per-quintal-86-22.html",
-   "source": "Nagarik News",
-   "ts": 1795101532,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1795101505_Kisan%20News.png",
-   "lang": "ne",
-   "hl": "उखुको मूल्य प्रतिक्विन्टल १ हजार २५ रुपैयाँ कायम गर्न किसानको अडान",
-   "en": "उखुको मूल्य प्रतिक्विन्टल १ हजार २५ रुपैयाँ कायम गर्न किसानको अडान",
-   "ne": "उखुको मूल्य प्रतिक्विन्टल १ हजार २५ रुपैयाँ कायम गर्न किसानको अडान",
-   "imp": 3,
-   "tags": [
-    "UkhukPrice",
-    "Farmers"
-   ],
-   "cat": "economy",
-   "val": 3,
    "teaser": false,
    "hits": 1
   },
@@ -5731,9 +5686,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "sports"
+  },
+  {
+   "ts": 1795130462.6399076,
+   "en": "नेपालमा बलिउड फिल्म 'रामायण'को ग्रस कमाइ २४ करोड ५५ लाख नाघ्यो",
+   "ne": "नेपालमा बलिउड फिल्म 'रामायण'को ग्रस कमाइ २४ करोड ५५ लाख नाघ्यो",
+   "link": "https://www.setopati.com/art/bollywood/402961",
+   "source": "Setopati",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "economy"
   }
  ],
- "updated": 1795129871,
+ "updated": 1795130472,
  "pending_since": 1795129288.796294,
  "fb_blocks": [
   1790350880.4125228,
