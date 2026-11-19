@@ -1,9 +1,5 @@
 {
  "seen": {
-  "https://baahrakhari.com/detail/507505": 1794895851.995023,
-  "https://gorkhapatraonline.com/news/229339": 1794895851.995023,
-  "https://news.google.com/rss/articles/CBMitwFBVV95cUxPX2J6WVVkcmNtTmtzWDVsOExtaXBIdkg1WVdDenlRTlJLcndfc3BsekhseURlTk5EVWExU3YtQjdMSnVESnlvNmt5ejhPSU5YQnp2b0lzdVZmaEJOb0ItelBQY0dIRWEtcjIyay1JNjcxSXMzUXdFNE9hbzR1d2Y4S2JpbXZuZ3NUYVd1bW9ucnFCUzQ5MFFnbXhxcTI2RWsyakJnSl9zM09QTndoamdCOG0tbjJjZEU?oc=5": 1794895851.995023,
-  "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQk9OYU1vRkNwYkZjOGNuWWtGZTUwb3J0dV9kMW5oU01VSUhmb3kydU00Ym0yTW5RUXdzM000NzFGeXRWUlBjc2JHNnJmT25OREo0aFRNQ2U0OTNJV2RiMm9FVEhzdVZSSl9MTjROb3dBR3I0cjd5RjZHZHNHTW5lVlZLVjJQNFFZTFJCLVRua0JQSmt5Xy1IYlBabUlkeEwwZWRBbUVuSkZSMFgza3ladjNfdmJ3VTQ?oc=5": 1794895851.995023,
   "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNC1YdEdPM1RfUFZvVGNwaWIwSVBMM0RwZzhBZWo3NXRuZk9ta29DOWlQenhiUDRLZ3E5VU5fVTB5Rm9KcjY2Sl9odHZvYTQwak52SlUwUWJZeVkzSUlPclVCcExOUjRINEF2Vm5EWVh2dEdfQ3hYVkNseHZwTVMwUlUwOTIzb1hocUVuRHg3M2cwdWlnNm05Sm5fUXI2elg5MzVYakdPVHdzZzBLTURiZHNZUEpEMjQ?oc=5": 1794896454.560432,
   "http://english.ratopati.com/story/86970/the-price-of-gold-has-fallen-today-as-well-at-what-price-is-it-being-traded": 1794896454.560432,
   "http://english.ratopati.com/story/86953/dr-rosies-presence-at-the-organization-where-einstein-and-newton-are-fellows-she-received-a-grant-of-525-million": 1794896454.560432,
@@ -1957,7 +1953,9 @@
   "https://www.ujyaaloonline.com/detail/133638": 1795068086.3827755,
   "http://english.ratopati.com/story/87247/what-did-badal-say-while-addressing-the-workers-gathering-with-full-text": 1795068086.3827755,
   "http://english.ratopati.com/story/87246/oli-directs-to-make-identity-cards-mandatory-for-unknown-persons-attending-national-gatherings": 1795068086.3827755,
-  "http://english.ratopati.com/story/87244/healthy-criticism-of-someone-in-the-party-is-not-done-to-end-it-self-criticism-is-not-synonymous-with-inferiority-complex-full-text": 1795068086.3827755
+  "http://english.ratopati.com/story/87244/healthy-criticism-of-someone-in-the-party-is-not-done-to-end-it-self-criticism-is-not-synonymous-with-inferiority-complex-full-text": 1795068086.3827755,
+  "https://theannapurnaexpress.com/story/68884": 1795068653.8627036,
+  "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRjV5NDZtMzQ3cmRLYlJEdXNENUZUOTYyZ3RTWTF6QVExOVVUX3RBamRXMmVUQ2VzT1cwLXY2d0dncVJpQkMzZHBDeTQ1WU1ENEJUWU52X29DVkxYUGtWSWZOVjRwSlIzWmk4TTZsVkVBNDlaWjdySnhGUFVLTThhNjluaW5YTFlJbm9STU5BdmhUTjlZUjFkVXVpWTFJbUU1RGZMYkY3Q212RHpI?oc=5": 1795068653.8627036
  },
  "queue": [
   {
@@ -3711,7 +3709,7 @@
    "cat": "world",
    "val": 3,
    "teaser": false,
-   "hits": 3
+   "hits": 4
   },
   {
    "title": "एनपीएल : आज चितवन र सुदूरपश्चिम भिड्दै, आज जित्ने टोलीले फाइनलमा लुम्बिनीसँग खेल्ने",
@@ -9315,8 +9313,8 @@
    "cat": "economy"
   }
  ],
- "updated": 1795068117,
- "pending_since": null,
+ "updated": 1795068658,
+ "pending_since": 1795068653.8627036,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
