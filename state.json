@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMivwFBVV95cUxPa3lYMFZKZXpzQ0kzWVVSWlBmVEk3VlRKcjFqMmhhNndLa25mZG5GRUJlTkdLYVN2YXFPRC16Z3RQeUU5VjI5YWFDQzB5bHZnaHdOUVZubzg4cW04b0oxZUx1M2N3UjJXbmhvZlp1LVdYYVNmQlVLLU9kZ3Fkc2dvTEs2QmZqRUtKcUFwRjBTNmlFMWZwVWI4eldXY1diVU10V1R0OUdONm8zZjVPci1OMW9iNzVBMUdQNW01cW4yZw?oc=5": 1794949853.1750977,
   "http://english.ratopati.com/story/87040/portugal-beat-wales-in-thrilling-match-remain-top-of-group-d": 1794954676.365791,
   "http://english.ratopati.com/story/87041/haaland-scores-twice-to-give-norway-dramatic-win-over-denmark": 1794955250.3181942,
   "http://english.ratopati.com/story/87042/nepal-proposes-to-operate-a-mountain-climate-program-from-2027": 1794955858.7190878,
@@ -2241,28 +2240,6 @@
    ],
    "cat": "economy",
    "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "NEA set to sign PPAs for 1,000 MW of power from state-owned companies",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTkRBNEVnRW9MbWdfNGdKY1N5Y01tM2o0TzdzUmVwZjNlMXBPeWN6MVItTl9PeWNDdWtlV3pSc2ZocUdwSXNmNXF6Z1l4UkZ0QXZ4cGdISFVULUM3NEM4dTFGZktVbnhzWlZoV25SVTNkVy1Penk2Q1BpRTNndWpZeFBQZnJGLXNwc3VwTkxwZGVqNHFsVlJYMnlxUU9wVDRHTHdma0tXOVRnd194QlktM2ZOUkpnVWNFTXRqUEhBT0M?oc=5",
-   "source": "myRepublica",
-   "ts": 1795093476,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "NEA set to sign PPAs for 1,000 MW of power from state-owned companies",
-   "en": "NEA set to sign PPAs for 1,000 MW of power from state-owned companies",
-   "ne": "NEA set to sign PPAs for 1,000 MW of power from state-owned companies",
-   "imp": 3,
-   "tags": [
-    "NEA",
-    "PowerPurchaseAgreement"
-   ],
-   "cat": "economy",
-   "val": 2,
    "teaser": false,
    "hits": 1
   },
@@ -6392,8 +6369,8 @@
    "cat": "politics"
   }
  ],
- "updated": 1795122093,
- "pending_since": null,
+ "updated": 1795122659,
+ "pending_since": 1795122655.1786706,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
