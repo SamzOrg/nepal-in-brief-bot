@@ -2065,7 +2065,11 @@
   "http://english.ratopati.com/story/87437/nidhi-urges-pm-to-prioritize-janakpur-ayodhya-rail-and-air-services-during-india-visit": 1795158657.3603814,
   "http://english.ratopati.com/story/87436/i-came-so-that-people-wouldnt-have-to-say-i-didnt-come-oli": 1795158657.3603814,
   "http://english.ratopati.com/story/87435/see-the-meeting-of-major-parties-called-by-the-election-commission-in-the-photo": 1795158657.3603814,
-  "http://english.ratopati.com/story/87434/cyclone-akwan-hits-odishas-gopalpur-coast-heavy-rain-continues": 1795158657.3603814
+  "http://english.ratopati.com/story/87434/cyclone-akwan-hits-odishas-gopalpur-coast-heavy-rain-continues": 1795158657.3603814,
+  "https://english.khabarhub.com/2026/20/576319/": 1795159253.5656724,
+  "https://gorkhapatraonline.com/news/229686": 1795159253.5656724,
+  "https://english.khabarhub.com/2026/20/576315/": 1795159253.5656724,
+  "https://nagariknews.nagariknetwork.com/Aparadh/25-people-arrested-from-gambling-den-26-98.html": 1795159253.5656724
  },
  "queue": [
   {
@@ -4268,7 +4272,7 @@
    "cat": "crime",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "अछाममा एक महिनामा १३ अपराधका घटना दर्ता, २२ प्रतिवादी पक्राउ",
@@ -6084,7 +6088,7 @@
    "cat": "world",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "U-19 National Cricket Competition Preparation in Final Stage",
@@ -9940,8 +9944,8 @@
    "cat": "crime"
   }
  ],
- "updated": 1795158684,
- "pending_since": null,
+ "updated": 1795159257,
+ "pending_since": 1795159253.5656724,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
