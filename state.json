@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://baahrakhari.com/detail/507685": 1795024890.5260966,
   "https://baahrakhari.com/detail/507686": 1795025453.1935077,
   "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSVdRXy15SmNxaEozUUhYWUNDUzh1djRFQmxUMjhpMGl1THd3d2lPYVdUT1c2dXBCRERYTGxnbU9reU9KaEZWX3RkUFBNOUlhbFlOSEtoc1ZnT2k4djgyM2xxNHQ2aDM2bnhYdVBhQlJ0MXdUWUpmNW9sM2pNNHlFeGlyTG1EWi1URG1XSU5ZNHdpRTdRdWE1Y042UVkwQjBkQmg0ejNRbjVSNUtnU3Z3U00tWFplb0NkNFJ1Sw?oc=5": 1795025453.1935077,
   "https://news.google.com/rss/articles/CBMimgFBVV95cUxQY0pwdDUyNGRSQWZGOFE0ZmUwaS11SFBsM2JiNjR0WG1UeHNQanEteEI4Y3NwUXh1VmFGRGM1bFBrR0d3M2Zpd19uNDVWbktISUlHZGVIbjVMYkNJejhnWEpEVVE0OWNpeU80S1N3eUVsT1R1Nko3WFkwNFl6THUycFA2V1BxUjNBeXkySHBCTHBmdVM4OUl6X0ln?oc=5": 1795025453.1935077,
@@ -2111,32 +2110,13 @@
   "https://gorkhapatraonline.com/news/229729": 1795195257.5541413,
   "https://gorkhapatraonline.com/news/229733": 1795195257.5541413,
   "https://news.google.com/rss/articles/CBMic0FVX3lxTFBRN2tWTXJjZjVPUG5lMjV4MFlFZWdRV192YlBFRndOZVZsZ2xIWGpFTWJvYUE4REdUaUtwVENnTE82ZXhVSTdVbl9Gb3N5cHBidVhEQzloSW45TlZ2QzRFcEhxVVdZajZZSHZhMlNpUjN2dUE?oc=5": 1795195871.4660168,
-  "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWjU4TF9fbVlTUENVdFBfMl85akw2MUhrWXF5R2hWRmZocGpEQTFlb2ZDWURCWHZkUElVZGdsdVBhaW4yT1pDYXo1SnpLYXVERHJUUU1kT1dyQkJQYWJrbVNPaFFWcDNjUV91V2pMYzdrY2hCSWFVXzd6SGpwMTBoc1NYSVBOVmQ3SVBrbVhGc0xpSFZhMTY1a3hPTHVOT0kwSDhGQndjVXUzeG9yV2x3?oc=5": 1795196457.030071
+  "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWjU4TF9fbVlTUENVdFBfMl85akw2MUhrWXF5R2hWRmZocGpEQTFlb2ZDWURCWHZkUElVZGdsdVBhaW4yT1pDYXo1SnpLYXVERHJUUU1kT1dyQkJQYWJrbVNPaFFWcDNjUV91V2pMYzdrY2hCSWFVXzd6SGpwMTBoc1NYSVBOVmQ3SVBrbVhGc0xpSFZhMTY1a3hPTHVOT0kwSDhGQndjVXUzeG9yV2x3?oc=5": 1795196457.030071,
+  "https://baahrakhari.com/detail/507883": 1795197702.174571,
+  "https://gorkhapatraonline.com/news/229734": 1795197702.174571,
+  "https://nagariknews.nagariknetwork.com/politics/people-s-votes-are-not-permanent-trust-must-be-earned-through-work-rsp-mp-neupane-36-59.html": 1795197702.174571,
+  "https://baahrakhari.com/detail/507882": 1795197702.174571
  },
  "queue": [
-  {
-   "title": "नेपालले टस जित्यो, भारत 'ए'लाई ब्याटिङको निम्तो",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/507851",
-   "source": "Baahrakhari",
-   "ts": 1795168887,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "नेपालले टस जित्यो, भारत 'ए'लाई ब्याटिङको निम्तो",
-   "en": "नेपालले टस जित्यो, भारत 'ए'लाई ब्याटिङको निम्तो",
-   "ne": "नेपालले टस जित्यो, भारत 'ए'लाई ब्याटिङको निम्तो",
-   "imp": 3,
-   "tags": [
-    "NepalIndia",
-    "Cricket",
-    "क्रिकेट"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 4
-  },
   {
    "title": "Top Leaders Emphasize Tech-Friendly Elections",
    "summary": "Kathmandu. Top leaders of nationally recognized political parties have emphasized the need to make upcoming local and provincial level elections...",
@@ -2200,29 +2180,6 @@
     "कांग्रेस"
    ],
    "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Iran warns US to accept its terms or face renewed conflict",
-   "summary": "Tehran, November 20 Iran has warned the United States to accept its conditions or face another war. Making clear that it will not tolerate an uncertain situation between war and peace, Iran has said it will respond...",
-   "link": "https://english.onlinekhabar.com/iran-warns-us-to-accept-its-terms-or-face-renewed-conflict.html",
-   "source": "Onlinekhabar EN",
-   "ts": 1795168875,
-   "weight": 3,
-   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/11/Iran-and-USA-Flag-1024x576-1.jpg",
-   "lang": "en",
-   "hl": "Iran warns US to accept its terms or face renewed conflict",
-   "en": "Iran warns US to accept its terms or face renewed conflict",
-   "ne": "Iran warns US to accept its terms or face renewed conflict",
-   "imp": 1,
-   "tags": [
-    "Iran",
-    "USA",
-    "Conflict"
-   ],
-   "cat": "world",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -5831,6 +5788,98 @@
    "val": 2,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "राजस्व चुहावट रोक्न अर्थमन्त्री डा.स्वर्णिम वाग्लेको निर्देशन",
+   "summary": "",
+   "link": "https://baahrakhari.com/detail/507883",
+   "source": "Baahrakhari",
+   "ts": 1795197330,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "राजस्व चुहावट रोक्न अर्थमन्त्री डा.स्वर्णिम वाग्लेको निर्देशन",
+   "en": "राजस्व चुहावट रोक्न अर्थमन्त्री डा.स्वर्णिम वाग्लेको निर्देशन",
+   "ne": "राजस्व चुहावट रोक्न अर्थमन्त्री डा.स्वर्णिम वाग्लेको निर्देशन",
+   "imp": 3,
+   "tags": [
+    "SwarnimWagle",
+    "Revenue",
+    "FinanceMinistry"
+   ],
+   "cat": "economy",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "बत्तीस जना सहसचिवको सरुवा",
+   "summary": "नगेन्द्र सापकोटाकाठमाडौँ, मङ्सिर ४ गते । सरकारले राजपत्राङक्ति प्रथम श्रेणीका सहसचिवहरुको सरुवा गरेको छ । शुुक्रबार बसेको मन्त्रीपरिषद्को बैठकले विभिन्न सेवा र समूूहमा कार्यारत ३२...",
+   "link": "https://gorkhapatraonline.com/news/229734",
+   "source": "Gorkhapatra",
+   "ts": 1795196061,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/392387/conversions/PM-Office-original.jpg",
+   "lang": "ne",
+   "hl": "बत्तीस जना सहसचिवको सरुवा",
+   "en": "बत्तीस जना सहसचिवको सरुवा",
+   "ne": "बत्तीस जना सहसचिवको सरुवा",
+   "imp": 2,
+   "tags": [
+    "CivilServants",
+    "Government",
+    "सरुवा"
+   ],
+   "cat": "politics",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "जनताको मत स्थायी हुँदैन, कामबाट विश्वास जित्नुपर्छ : रास्वपा सांसद न्यौपाने",
+   "summary": "चीन भ्रमणका क्रममा रास्वपा सांसदहरूबिच भएको अनौपचारिक राजनीतिक छलफलको भिडियो सार्वजनिक भएपछि न्यौपानेले यस्तो स्पष्टीकरण दिएका हुन्।...",
+   "link": "https://nagariknews.nagariknetwork.com/politics/people-s-votes-are-not-permanent-trust-must-be-earned-through-work-rsp-mp-neupane-36-59.html",
+   "source": "Nagarik News",
+   "ts": 1795195807,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2025/third-party/1795195796_Shri%20Ram%20Neupane.jpg",
+   "lang": "ne",
+   "hl": "जनताको मत स्थायी हुँदैन, कामबाट विश्वास जित्नुपर्छ : रास्वपा सांसद न्यौपाने",
+   "en": "जनताको मत स्थायी हुँदैन, कामबाट विश्वास जित्नुपर्छ : रास्वपा सांसद न्यौपाने",
+   "ne": "जनताको मत स्थायी हुँदैन, कामबाट विश्वास जित्नुपर्छ : रास्वपा सांसद न्यौपाने",
+   "imp": 3,
+   "tags": [
+    "RSP",
+    "Nnyaupane",
+    "Politics"
+   ],
+   "cat": "politics",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "कर्णाली प्रदेश सरकारले चार महिनामा यातायात क्षेत्रबाट कति उठायो राजस्व ?",
+   "summary": "",
+   "link": "https://baahrakhari.com/detail/507882",
+   "source": "Baahrakhari",
+   "ts": 1795195840,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "कर्णाली प्रदेश सरकारले चार महिनामा यातायात क्षेत्रबाट कति उठायो राजस्व ?",
+   "en": "कर्णाली प्रदेश सरकारले चार महिनामा यातायात क्षेत्रबाट कति उठायो राजस्व ?",
+   "ne": "कर्णाली प्रदेश सरकारले चार महिनामा यातायात क्षेत्रबाट कति उठायो राजस्व ?",
+   "imp": 2,
+   "tags": [
+    "Karnali",
+    "Revenue",
+    "कर्णाली"
+   ],
+   "cat": "economy",
+   "val": 1,
+   "teaser": true,
+   "hits": 1
   }
  ],
  "posted": [
@@ -8871,8 +8920,8 @@
    "cat": "crime"
   }
  ],
- "updated": 1795197551,
- "pending_since": 1795195871.4660168,
+ "updated": 1795197720,
+ "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
