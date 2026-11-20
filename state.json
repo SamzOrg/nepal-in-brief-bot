@@ -1,10 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4yX1lMWW9lZjlHejFHcTdmR2M2Z0ExQ3U0VGI4TFpPOUtRXzNZWTlnZXVsclJpRXFGVUYzZ3ktUkRTTHRTenhpR3Jvcm13RW1BWWxoVjEzWnE?oc=5": 1794963680.552654,
-  "https://english.khabarhub.com/2026/18/575967/": 1794963680.552654,
-  "https://kathmandupost.com/cricket/2026/11/18/kathmandu-gorkhas-and-chitwan-rhinos-target-first-eliminator-win": 1794963680.552654,
-  "https://kathmandupost.com/columns/2026/11/17/what-mithila-s-stray-bulls-tell-us-about-nepal-s-economy": 1794963680.552654,
-  "https://kathmandupost.com/columns/2026/11/17/how-crony-capitalism-keeps-nepalis-poor": 1794963680.552654,
   "https://nagariknews.nagariknetwork.com/sports/indian-national-arrested-for-betting-on-npl-94-90.html": 1794964253.6697996,
   "https://baahrakhari.com/detail/507578": 1794964253.6697996,
   "https://english.khabarhub.com/2026/18/575977/": 1794964253.6697996,
@@ -2023,7 +2018,10 @@
   "https://gorkhapatraonline.com/news/229619": 1795135861.9788694,
   "https://kathmandupost.com/columns/2026/11/19/why-nepal-s-statutory-rape-law-needs-a-close-in-age-exemption": 1795135861.9788694,
   "https://gorkhapatraonline.com/news/229618": 1795135861.9788694,
-  "https://kathmandupost.com/columns/2026/11/19/when-shah-meets-modi-can-they-rewrite-history": 1795135861.9788694
+  "https://kathmandupost.com/columns/2026/11/19/when-shah-meets-modi-can-they-rewrite-history": 1795135861.9788694,
+  "https://www.setopati.com/social/402966": 1795136485.6629615,
+  "https://kathmandupost.com/cricket/2026/11/20/npl-final-will-not-miss-out-sudurpaschim-royals": 1795136485.6629615,
+  "https://www.ujyaaloonline.com/detail/133661": 1795136485.6629615
  },
  "queue": [
   {
@@ -2044,29 +2042,6 @@
     "Lumbini"
    ],
    "cat": "health",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "NATTA Invites Indian Travel Industry to Invest in Nepal's Emerging Tourism Destinations",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQa2VSVG1qbTFWdHlNeDJtbUhQeGYzY0R1OTJfQmQ2TDg2cXNLdUswR1EzTXQwV1VCMkFGVnBxU0pKTTRtV25yRTJ0eVJXeUkwVHZ3TmtpakhidkU3VVg2MG5ycjkzRG5mdEFDVE1SMmxjZV9xbUhxc2xxSnVKVjNrbHRWRzIxdUxuRmc2WlJwOEk0QzVqbHBQQWllMmVEY3hpcHlVa0lMNjlxRDZQWlQ0RkJxM3VLeEk?oc=5",
-   "source": "Travel World Online",
-   "ts": 1795107314,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "NATTA Invites Indian Travel Industry to Invest in Nepal's Emerging Tourism Destinations",
-   "en": "NATTA Invites Indian Travel Industry to Invest in Nepal's Emerging Tourism Destinations",
-   "ne": "NATTA Invites Indian Travel Industry to Invest in Nepal's Emerging Tourism Destinations",
-   "imp": 3,
-   "tags": [
-    "NATTA",
-    "TourismInvestment",
-    "India"
-   ],
-   "cat": "economy",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -2433,7 +2408,7 @@
    "cat": "culture",
    "val": 3,
    "teaser": false,
-   "hits": 3
+   "hits": 4
   },
   {
    "title": "बढ्दो प्रदूषण, जोखिममा फोक्सो",
@@ -2935,6 +2910,28 @@
     "BhoteKoshi",
     "Flood",
     "भोटेकोशी"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "घोप्टेभीरमा सुक्खा पहिरो हटाएपछि गाडी दुईतर्फी नै सञ्चालनमा",
+   "summary": "पहिरो पन्छाएर बेलुका ५ बजेदेखि नै गाडी चल्न थालेका मुग्लिन प्रहरीले जनाएको छ । पहिरोको जोखिम कायमै रहेकाले यात्रा गर्दा सतर्कता अपनाउन ट्राफिक प्रहरीले यात्रु तथा चालकलाई आग्रह गरेको छ ।",
+   "link": "https://www.ujyaaloonline.com/detail/133661",
+   "source": "Ujyaalo",
+   "ts": 1795136126,
+   "weight": 2,
+   "img": "https://www.ujyaaloonline.com/uploads/posts/muglin-sadak_ghopte_chitawan_r1FgVjOAlw.jpg",
+   "lang": "ne",
+   "hl": "घोप्टेभीरमा सुक्खा पहिरो हटाएपछि गाडी दुईतर्फी नै सञ्चालनमा",
+   "en": "घोप्टेभीरमा सुक्खा पहिरो हटाएपछि गाडी दुईतर्फी नै सञ्चालनमा",
+   "ne": "घोप्टेभीरमा सुक्खा पहिरो हटाएपछि गाडी दुईतर्फी नै सञ्चालनमा",
+   "imp": 2,
+   "tags": [
+    "DryLandslide",
+    "Ghoptebihar"
    ],
    "cat": "disaster",
    "val": 3,
@@ -5936,7 +5933,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1795135891,
+ "updated": 1795136492,
  "pending_since": 1795135861.9788694,
  "fb_blocks": [
   1790350880.4125228,
