@@ -2008,7 +2008,9 @@
   "https://news.google.com/rss/articles/CBMizwFBVV95cUxPcmc1YkJ2NGZ2M3NIMTA2UGFmU1dFd2Jhak5WcEYyTFUzNXgzeUMtT0NTcEkwM3YwLTZRUnM5NUxlR2hXZ1pPVUM4Tjc2SU9UMXc2M2N1dGZGeHVIUVFYOURxdGFJSFhWT3F4Y2QtTW81b0I4aS05eVY5ajNyd3BSY2Y5cHhfY1VzcXdGVmJOTnVyYWNYb3c3ckl6N3ladjJNX1pnNkVGcTBsYzByTlJpVTRqQXQ0allzMU9ReXRzVjdYYU1qcWNsLW1aUzlsWEk?oc=5": 1795119657.0615432,
   "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9KQmZYM1ZkUkVJYndmV1dWTFJKSTVHaDlMWmw0QVJ1MEQ4TWJOQ2V0dzVkdWVsLXVGbU5WV2puWnJLNXhVUHNGUHJnOVFRRHVPOGc1WjZ3?oc=5": 1795125062.5792613,
   "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1UN1l4THRhS2ZpeVlzaUp3UUxlT1hCeGpDTF9ZWU1nQjJaX1h2Q25rT09vdXhSMFZRc29peFhHLThtQ1RxOWlhMjFjZGxnV0px?oc=5": 1795126854.531642,
-  "https://news.google.com/rss/articles/CBMimwFBVV95cUxObDEzZ2Rwb2FXcl9XMlcwQ0N4bUwzaDc5Yk5RVnBRMHF5Vi1rWGVFSktIZ0JnbElCYjJZQjNtNE1QTGc4MFp6b3NoZ3VFT1MyYjZqbWktX2ZXQ0pVSjhlbUh6d0xzSUpuMjFIbFJWbWdmWlhHb01jRGhqY2dPYU1zejFlOVMxTmxzTGc0OHpYeUJsM3Y3S1NnTHQxdw?oc=5": 1795131650.0303743
+  "https://news.google.com/rss/articles/CBMimwFBVV95cUxObDEzZ2Rwb2FXcl9XMlcwQ0N4bUwzaDc5Yk5RVnBRMHF5Vi1rWGVFSktIZ0JnbElCYjJZQjNtNE1QTGc4MFp6b3NoZ3VFT1MyYjZqbWktX2ZXQ0pVSjhlbUh6d0xzSUpuMjFIbFJWbWdmWlhHb01jRGhqY2dPYU1zejFlOVMxTmxzTGc0OHpYeUJsM3Y3S1NnTHQxdw?oc=5": 1795131650.0303743,
+  "https://english.khabarhub.com/2026/20/576246/": 1795133469.4927297,
+  "https://risingnepaldaily.com/news/88794": 1795133469.4927297
  },
  "queue": [
   {
@@ -2102,29 +2104,6 @@
    "val": 3,
    "teaser": false,
    "hits": 3
-  },
-  {
-   "title": "इरान युद्धको आलोचनापछि उपराष्ट्रपति भान्ससँग ट्रम्प असन्तुष्ट",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/507784",
-   "source": "Baahrakhari",
-   "ts": 1795104655,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "इरान युद्धको आलोचनापछि उपराष्ट्रपति भान्ससँग ट्रम्प असन्तुष्ट",
-   "en": "इरान युद्धको आलोचनापछि उपराष्ट्रपति भान्ससँग ट्रम्प असन्तुष्ट",
-   "ne": "इरान युद्धको आलोचनापछि उपराष्ट्रपति भान्ससँग ट्रम्प असन्तुष्ट",
-   "imp": 2,
-   "tags": [
-    "IranWar",
-    "Trump",
-    "Bhan"
-   ],
-   "cat": "world",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
   },
   {
    "title": "विद्यार्थीसँगको सम्बन्धबाट बच्चा जन्माउने शिक्षिकालाई साढे ८ वर्ष जेल सजाय",
@@ -5461,7 +5440,7 @@
    "cat": "crime"
   }
  ],
- "updated": 1795132892,
+ "updated": 1795133472,
  "pending_since": 1795132253.998115,
  "fb_blocks": [
   1790350880.4125228,
