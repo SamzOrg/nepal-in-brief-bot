@@ -1,9 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMic0FVX3lxTE9QNjh3MFR5QV9XdmNfWU1QSkhieGtnQUlQbm5hYWpqd1JSSkdudzRxNXhvejZLRHU0aExBUGd1amJ4ejE1QTZVb0RLbzZXdkJQVnZfRWxDT3h0Q05LampnOWtOTGRxSGpoamdWa3NRZVlGa2M?oc=5": 1794978083.0429325,
-  "https://gorkhapatraonline.com/news/229456": 1794978083.0429325,
-  "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZGpGZEFKVjNYR2M2RmVPNi1kVHIyTzY5end6MDlZWXE2anpwaFc2LXRDMS1OeFdEVGdsazg3bkVtM0VOQ1Y0Qi1OQjY2LVA3bWRndVZUSnhEZklrUjFpUktGeFFuTU9uUGl0SUozQi1fUkVDRUEybGFNTVYtSllMR3l2LTNYQ2ZkMktpTlluM0FHam9ZTU9lRC1idmlrTHAtNjYweHN2MVVNRHFjNW90UnV0MXBkY0dVeUtXQzNRLVJoc1ZSdXFENFZzS2Y3SWlXVEHSAdgBQVVfeXFMTmVTZHVkTVRiMlV2VUxvQi1xbVFoOGZ4aGNfMUl4UFFPNlBmWmhFTi1XUFZNaTQwUXQweVZjUjRNY0lGNEdKdUI0NHpMcklxUk9IQWQtVGRnc09idzM5Wm1sMHRZcmVaTVIwQmFZcGp6V3NZRXlDcGo2U2YwdlJFNGEwT2RjbjRETVNpRWphTjBtbnVjRUlUdEhBRkNSV0h5NkszWE9mTV80RlpqZzhIX1NMYWJYeHVoZThWcXRGRmhWTC1KLWRVM09JeHVMT1llT0RfMDhHQzYt?oc=5": 1794978083.0429325,
-  "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUW1RY2hTdEdzMzZCZzBJYXBrbEFNMVM1LVRBNVNnRi1FbVo5YzdfOE1POXotLW84TVR5MHplM19yOFVjZ0NlbEI4OEp5VUtPUE9nQXZLOTA3T2xaNHpJNTVmdlZCVjU3cGNfaTFsckRyZ0FteXdWWmRTNHdmNDY5R3J0MWxVNVBCa2F5Y1RPSnhNbUh2X0tyVXJMTTZwbmdmX3pBeg?oc=5": 1794978083.0429325,
   "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPR1JDUVoyeDU3TWhjZnZLNHJXM0JzMTFrQ01ITFE3MlRZTXl5SlBDMS1TLUFMYzFGaVd0aHdwV0tWRUpCU29MTTV2dW9FdGZ2aVlRWlkzQkFQd004OGxreWN2TTVMRDR4UmJaazJrRWI0aHREZjlxelpmRHpWcXcwQlVMWkl3MEFD?oc=5": 1794978652.9780226,
   "https://english.onlinekhabar.com/all-19-killed-in-russian-military-cargo-plane-crash-in-siberia.html": 1794978652.9780226,
   "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQelRhVnlNbGtxOXQwNWVIaklpZmwwRmgxaUNJUWpOVGl6R21lYzBqaDA1N1kzcUVYUDBfZGplYjdaMlVPbU5BWEp5OTBUUWJCNXEyTnJTc0NuVXJ4UnhxdGlNekRQcGx1QTF1MmZ2b2lRbE9MWlZNNGdnWVNhbTJ5NXJGNldheWdUOHE2bExnUVVqV3BxT2VjX0psd3lKcEtER3M5aTlqVERGOHdCSm01UTBMQndPZUtFTERTZ3p3dGU4UdIByAFBVV95cUxPLXd0S0Nxazlkd3lTeTV6QlFVUXFHd1ZZdHk5WDhYYnN6NnZUYjl2ZENpS0ZON013QkFUVk1EWmM5UGVzUXhwVzE0RlN5bFNjRDJmVnlLZGVYMjRfbVhZTzFQQi1fZzdjdGZEQXhOeTg3MXRzcXdxWWtkMjdHbkFaZmFpWmlmM2ZtVWMwalo3R0FoelFjemtuQTBjcy1IYWE4ZXJRcUVTczdpeXd5SXdLMUFZZE9TTUZ2THBlTVBLbm1zMWMxdXh4Yg?oc=5": 1794978652.9780226,
@@ -2022,7 +2018,30 @@
   "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZ0V1Z1hMbnl4clY0ZDFSeGxrYjVPZlB2VF9WOTlVYnhobU05cXJGMzZmZG1YTXlBakxNeWNhWlRGQVNCYWdSYmhkMXpKOUNTX1Y3cW5oVGVSRTYySlY2STM2RnR2MmJRN2xvSXFlMDg3UFIwNXlXSmxueThmX1RkNlRCTE9uZlVkdGVfbngyVW8zZm9uREZnY05BZUx4NzdmTmR6aF9tZW41RUdzc0E0Y3Z6VGhRdjVFZ1o2UTBtQ1BiLVluSFHSAcgBQVVfeXFMTTRid1dRdE9LejJwanFJZXFiamJwZjZWNHJWenJoalBnWEY3dFNUeTRWTks4QzZkenBFZGNWVURUM1FFLTFhUmpPRWgxVThFWmhzX0VzY3M5dWZ4a2VsRnpoYUhYbDBNTDhXcTZvOW1rX0t2cWpUeks0MHE2S1Z4ZUNwVEhmcVFvcktHMGZZTFNlUUlEXzVOSFRMQldBeEdrX2hpd0ZDYTRjdjh0ekZPdkpwYkFwX3dXM1RKSHdzd1JCZG9lNkNldVU?oc=5": 1795149654.2686212,
   "https://risingnepaldaily.com/news/88820": 1795149654.2686212,
   "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOG8wel9qN184UlVaREtuaS1WUjZmd2Q4cEVwX3VoQTBrQ0VCWXFQdDdmb2Vacm5SLUIwREhTYl9reXhKVVhUVmMzVUEwM3hITzU4ZXhZc3FGU1h2WFBpbW51VGExLTNhX091czd4RXRpaExtSUZRbFp4RS12MWRSalBsN2RDX0ZQQUtMdDdPV0NZYmxTTjdCeFM2WlVlbFhIcDBad19CeW1naVpBRUhtXzNqOXZ5OWNEZ2RSWHdn?oc=5": 1795149654.2686212,
-  "https://news.google.com/rss/articles/CBMikgFBVV95cUxPb2NNV1E0SDF6VUVzeTI1ZEtiVFFyMG1NM3dURl9jRm0wN3NpVTJqbUVDb0FGb0FzbzJyUTRtYlVaZnRfUDJJZF9Na2FaUURZY1FaVEtWQkhZN0NUMy1iZHhIeXRFU0gweGhodlpZMUxYZmV2NEtzNXo3c1VoWFQ1TzhlUGRvMThxTFJ5TXpjWXhnQQ?oc=5": 1795149654.2686212
+  "https://news.google.com/rss/articles/CBMikgFBVV95cUxPb2NNV1E0SDF6VUVzeTI1ZEtiVFFyMG1NM3dURl9jRm0wN3NpVTJqbUVDb0FGb0FzbzJyUTRtYlVaZnRfUDJJZF9Na2FaUURZY1FaVEtWQkhZN0NUMy1iZHhIeXRFU0gweGhodlpZMUxYZmV2NEtzNXo3c1VoWFQ1TzhlUGRvMThxTFJ5TXpjWXhnQQ?oc=5": 1795149654.2686212,
+  "http://english.ratopati.com/story/87404/nepal-faces-strong-india-a-all-eyes-on-sandeep-and-suryavanshi": 1795150883.7033937,
+  "https://risingnepaldaily.com/news/88822": 1795150883.7033937,
+  "https://theannapurnaexpress.com/story/68912": 1795150883.7033937,
+  "https://gorkhapatraonline.com/news/229664": 1795150883.7033937,
+  "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8zbHcweFZSaTJqdlY1SWdLZUhyRFlKR1l3eFQ3WDZZdGhVRHc3Qmk1VGp6UGI0MGNlUng3N1ZkYVJuN0lnS3h3TnUtUHBONXBP?oc=5": 1795150883.7033937,
+  "https://risingnepaldaily.com/news/88815": 1795150883.7033937,
+  "https://www.setopati.com/kinmel/business/402976": 1795150883.7033937,
+  "https://english.onlinekhabar.com/china-balen-reluctant-advance-bri.html": 1795150883.7033937,
+  "https://news.google.com/rss/articles/CBMiowFBVV95cUxOY2QxV0dYNWk2SVVBM2dKMjFqZDBfbGZKNDBuOG9mVVI2anhBVG95NktIc21IcV9TUFMyRUdDX0JfdnJ3NnBDZURueWdEM0hCM29Qb0JzN1JpUXh6RUdNdHNXX0VVNzFVR3R1RGZHbVRaeHRMcGltSXFqVkw0X1hpdnRUODJxT0o0cDNZSndiY09kQ0QtaFNURm5jRFhraFlwMlFN?oc=5": 1795150883.7033937,
+  "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaUswcGhDZ0hfUWp3SDRXTUYzd0R0RVE2UjkwOFpuVkYzc1VKY3RWUVRSSVlWOVZ6djl3ZHQweXRQcFlrbnRoaEdCaEFnWjRmNEljd1h4TnVrd1FlTUh1LTFHcjNSS1JsRHU2Ym05MzBQYWxHNlhpSzZDaGlISnB4QWpIQUNRb2VuVHBKeTNBNTJyRXlPZklOcWxJU09mbFJZRDg0cEJB?oc=5": 1795150883.7033937,
+  "http://english.ratopati.com/story/87405/all-structures-connected-to-janaki-temple-will-be-reconstructed-minister-lamsal": 1795150883.7033937,
+  "https://baahrakhari.com/detail/507817": 1795150883.7033937,
+  "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOLXRkYnVKOXFCeHZrNFJxS1JxTDkyVWVKNVkyRWlfNFE4bUpYSlNCZFdiOXJVVldiYlY4d1R3cW1FTGFxS0lYOVpSc2FkSTVFeW5VVFc2NkVsSDNkaFFlNHRKNHluRWFRUVktSkh5OFlQejU5NTFwMjhKMjVEWTBNV0Jfem1lYmVEa25XMUhCNHlPUTdJVUxta1g5bDVSbDdhUFlLbGY3SkY?oc=5": 1795150883.7033937,
+  "https://nagariknews.nagariknetwork.com/economy/draft-alternative-investment-fund-regulations-made-public-br-95-18.html": 1795150883.7033937,
+  "https://gorkhapatraonline.com/news/229663": 1795150883.7033937,
+  "https://risingnepaldaily.com/news/88821": 1795150883.7033937,
+  "https://www.setopati.com/politics/402975": 1795150883.7033937,
+  "http://english.ratopati.com/story/87403/gandaki-governments-functioning-affected-for-one-and-a-half-months-vacancy-in-supreme-court-demanding-cancellation-of-interim-order": 1795150883.7033937,
+  "https://nagariknews.nagariknetwork.com/economy/foreign-investment-commitments-halved-br-20-25.html": 1795150883.7033937,
+  "https://gorkhapatraonline.com/news/229662": 1795150883.7033937,
+  "http://english.ratopati.com/story/87402/kushner-believes-russia-will-agree-to-provide-nato-like-security-guarantees-to-ukraine": 1795150883.7033937,
+  "https://gorkhapatraonline.com/news/229661": 1795150883.7033937,
+  "https://gorkhapatraonline.com/news/229660": 1795150883.7033937
  },
  "queue": [
   {
@@ -2302,29 +2321,6 @@
    "hits": 2
   },
   {
-   "title": "Can Bidya Bhandari change the fate of UML and the leftist movement?",
-   "summary": "Former president says she will work to foster cooperation among fragmented Nepali communists.",
-   "link": "https://kathmandupost.com/politics/2026/11/20/can-bidya-bhandari-change-the-fate-of-uml-and-the-leftist-movement",
-   "source": "Kathmandu Post",
-   "ts": 1795121462.3696358,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Can Bidya Bhandari change the fate of UML and the leftist movement?",
-   "en": "Can Bidya Bhandari change the fate of UML and the leftist movement?",
-   "ne": "Can Bidya Bhandari change the fate of UML and the leftist movement?",
-   "imp": 3,
-   "tags": [
-    "BidyaBhandari",
-    "UML",
-    "LeftistMovement"
-   ],
-   "cat": "politics",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
-  },
-  {
    "title": "धनगढीका धड्कन!",
    "summary": "मेयर गोपी हमालले गत चुनावमा 'एउटा मात्र कार्यकालका लागि' भन्दै भोट मागेका थिए। मैले उनलाई उनको त्यही भनाइ सम्झाउँदै जिज्ञासा राखेँ- अब कार्यकाल सकिन लाग्यो, आउने चुनावमा के गर्ने योजना छ? उनी एकछिन घोत्लिए। त्यसपछि छोटो...",
    "link": "https://www.setopati.com/social/402960",
@@ -2463,29 +2459,6 @@
    "hits": 2
   },
   {
-   "title": "Old differences continue to weigh on Nepal-India ties",
-   "summary": "Successive prime ministers have secured deals on trade, energy and connectivity, but the 1950 treaty, border disputes, and Pancheshwar project remain on table for Shah's visit.",
-   "link": "https://kathmandupost.com/national/2026/11/20/old-differences-continue-to-weigh-on-nepal-india-ties",
-   "source": "Kathmandu Post",
-   "ts": 1795121462.3696358,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Old differences continue to weigh on Nepal-India ties",
-   "en": "Old differences continue to weigh on Nepal-India ties",
-   "ne": "Old differences continue to weigh on Nepal-India ties",
-   "imp": 3,
-   "tags": [
-    "NepalIndia",
-    "Diplomacy",
-    "ForeignPolicy"
-   ],
-   "cat": "world",
-   "val": 2,
-   "teaser": false,
-   "hits": 2
-  },
-  {
    "title": "विज्ञसहितको टोली मधेश र सुदूरपश्चिम जाँदै",
    "summary": "गोरखापत्र समाचारदाताकाठमाडौँ, मङ्सिर ४ गते । राष्ट्रिय सभाको विधायन व्यवस्थापन समिति ऐन कार्यान्वयनको अवस्था मापन र विधायिकी अन्तरसम्बन्धबारे स्थलगत अध्ययन गर्न मधेश र सुदूरपश्चिम...",
    "link": "https://gorkhapatraonline.com/news/229620",
@@ -2576,29 +2549,6 @@
    "val": 3,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "Why Nepal's statutory rape law needs a close-in-age exemption",
-   "summary": "A gender-neutral, queer-inclusive close-in-age exemption in Nepal's statutory rape law would be a necessary, if modest, fix.",
-   "link": "https://kathmandupost.com/columns/2026/11/19/why-nepal-s-statutory-rape-law-needs-a-close-in-age-exemption",
-   "source": "Kathmandu Post",
-   "ts": 1795121462.3696358,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Why Nepal's statutory rape law needs a close-in-age exemption",
-   "en": "Why Nepal's statutory rape law needs a close-in-age exemption",
-   "ne": "Why Nepal's statutory rape law needs a close-in-age exemption",
-   "imp": 3,
-   "tags": [
-    "RapeLaw",
-    "LegalReform",
-    "NepalLaw"
-   ],
-   "cat": "society",
-   "val": 1,
-   "teaser": true,
-   "hits": 2
   },
   {
    "title": "भोटेकोशी विपद्लाई विश्वका लागि चेतावनीका रूपमा प्रस्तुत",
@@ -4113,7 +4063,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "पर्यटकको रोजाइमा शुक्लाफाँटा राष्ट्रिय निकुञ्ज",
@@ -4663,7 +4613,7 @@
    "cat": "society",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Union of Arab FAs backs Infantino for another term as FIFA president",
@@ -4985,20 +4935,386 @@
    "val": 2,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "आदिकवि भानुभक्त आचार्यको शालिक निर्माण गरिँदै",
+   "summary": "भुवन कार्कीरुपन्देही, मङ्सिर ४ गते । आदिकवि भानुभक्त आचार्यको सम्मानस्वरूप रुपन्देहीको भैरहवास्थित सिद्धार्थ बसपार्कमा पूर्णकदको शालिक निर्माण सुरु गरिएको छ । सिद्धार्थनगर नगरपालिक...",
+   "link": "https://gorkhapatraonline.com/news/229664",
+   "source": "Gorkhapatra",
+   "ts": 1795150798,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/392286/conversions/salik-silannyash-original.jpg",
+   "lang": "ne",
+   "hl": "आदिकवि भानुभक्त आचार्यको शालिक निर्माण गरिँदै",
+   "en": "आदिकवि भानुभक्त आचार्यको शालिक निर्माण गरिँदै",
+   "ne": "आदिकवि भानुभक्त आचार्यको शालिक निर्माण गरिँदै",
+   "imp": 2,
+   "tags": [
+    "BhanuBhaktaAcharya",
+    "Statue",
+    "भानुभक्त"
+   ],
+   "cat": "culture",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Govt to sign PPAs for 1,000 MW projects",
+   "summary": "Kathmandu, Nov. 20: The Nepal Electricity Authority (NEA) is preparing to sign Power Purchase Agreements (PPAs) with hyd...",
+   "link": "https://risingnepaldaily.com/news/88815",
+   "source": "Rising Nepal",
+   "ts": 1795150555,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "Govt to sign PPAs for 1,000 MW projects",
+   "en": "Govt to sign PPAs for 1,000 MW projects",
+   "ne": "Govt to sign PPAs for 1,000 MW projects",
+   "imp": 3,
+   "tags": [
+    "PPA",
+    "Hydropower",
+    "Energy"
+   ],
+   "cat": "economy",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "China sees Balen government reluctant to advance BRI commitments, officials say",
+   "summary": "Kathmandu, November 20 Eight months into the government led by Prime Minister Balendra Shah and the Rastriya Swatantra Party (RSP), Chinese officials have offered an initial assessment of the administration, with...",
+   "link": "https://english.onlinekhabar.com/china-balen-reluctant-advance-bri.html",
+   "source": "Onlinekhabar EN",
+   "ts": 1795150419,
+   "weight": 3,
+   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/11/Balen-china-2-1024x500-1.png",
+   "lang": "en",
+   "hl": "China sees Balen government reluctant to advance BRI commitments, officials say",
+   "en": "China sees Balen government reluctant to advance BRI commitments, officials say",
+   "ne": "China sees Balen government reluctant to advance BRI commitments, officials say",
+   "imp": 4,
+   "tags": [
+    "BalenShah",
+    "BRI",
+    "China"
+   ],
+   "cat": "politics",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Scoping Review Highlights Substantial Animal Welfare and Legal Gaps in Nepal",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOY2QxV0dYNWk2SVVBM2dKMjFqZDBfbGZKNDBuOG9mVVI2anhBVG95NktIc21IcV9TUFMyRUdDX0JfdnJ3NnBDZURueWdEM0hCM29Qb0JzN1JpUXh6RUdNdHNXX0VVNzFVR3R1RGZHbVRaeHRMcGltSXFqVkw0X1hpdnRUODJxT0o0cDNZSndiY09kQ0QtaFNURm5jRFhraFlwMlFN?oc=5",
+   "source": "Bioengineer.org",
+   "ts": 1795150302,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "Scoping Review Highlights Substantial Animal Welfare and Legal Gaps in Nepal",
+   "en": "Scoping Review Highlights Substantial Animal Welfare and Legal Gaps in Nepal",
+   "ne": "Scoping Review Highlights Substantial Animal Welfare and Legal Gaps in Nepal",
+   "imp": 2,
+   "tags": [
+    "AnimalWelfare",
+    "Nepal",
+    "ScopingReview"
+   ],
+   "cat": "society",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Infrastructure Minister Sunil Lamsal Launches Campaign for Janakpurdham Development",
+   "summary": "Janakpur. Infrastructure Development Minister Sunil Lamsal has said that a campaign has already started to develop Janakpurdham as a beautiful...",
+   "link": "http://english.ratopati.com/story/87405/all-structures-connected-to-janaki-temple-will-be-reconstructed-minister-lamsal",
+   "source": "Ratopati EN",
+   "ts": 1795150245,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/sunil-lamsal_7wNn4wOsDs.webp",
+   "lang": "en",
+   "hl": "Infrastructure Minister Sunil Lamsal Launches Campaign for Janakpurdham Development",
+   "en": "Infrastructure Minister Sunil Lamsal Launches Campaign for Janakpurdham Development",
+   "ne": "Infrastructure Minister Sunil Lamsal Launches Campaign for Janakpurdham Development",
+   "imp": 2,
+   "tags": [
+    "SunilLamsal",
+    "Janakpurdham",
+    "Infrastructure"
+   ],
+   "cat": "politics",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "'स्किम' प्रभाव : कोसी प्रदेशको सवारी कर राजस्वमा झन्डै ८० प्रतिशत वृद्धि",
+   "summary": "",
+   "link": "https://baahrakhari.com/detail/507817",
+   "source": "Baahrakhari",
+   "ts": 1795150012,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "'स्किम' प्रभाव : कोसी प्रदेशको सवारी कर राजस्वमा झन्डै ८० प्रतिशत वृद्धि",
+   "en": "'स्किम' प्रभाव : कोसी प्रदेशको सवारी कर राजस्वमा झन्डै ८० प्रतिशत वृद्धि",
+   "ne": "'स्किम' प्रभाव : कोसी प्रदेशको सवारी कर राजस्वमा झन्डै ८० प्रतिशत वृद्धि",
+   "imp": 3,
+   "tags": [
+    "KoshiProvince",
+    "VehicleTax",
+    "Revenue",
+    "राजस्व"
+   ],
+   "cat": "economy",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Indian border restrictions stall development projects in Nepal's Tinkar, Chhangru",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOLXRkYnVKOXFCeHZrNFJxS1JxTDkyVWVKNVkyRWlfNFE4bUpYSlNCZFdiOXJVVldiYlY4d1R3cW1FTGFxS0lYOVpSc2FkSTVFeW5VVFc2NkVsSDNkaFFlNHRKNHluRWFRUVktSkh5OFlQejU5NTFwMjhKMjVEWTBNV0Jfem1lYmVEa25XMUhCNHlPUTdJVUxta1g5bDVSbDdhUFlLbGY3SkY?oc=5",
+   "source": "Asia News Network",
+   "ts": 1795149853,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "Indian border restrictions stall development projects in Nepal's Tinkar, Chhangru",
+   "en": "Indian border restrictions stall development projects in Nepal's Tinkar, Chhangru",
+   "ne": "Indian border restrictions stall development projects in Nepal's Tinkar, Chhangru",
+   "imp": 3,
+   "tags": [
+    "Tinkar",
+    "Chhangru",
+    "India",
+    "Border"
+   ],
+   "cat": "politics",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "वैकल्पिक लगानी कोष नियमावलीको मस्यौदा सार्वजनिक",
+   "summary": "नेपाल धितोपत्र बोर्डले 'वैकल्पिक लगानी कोष नियमावली-२०८३' को मस्यौदा सार्वजनिक गरेको छ।",
+   "link": "https://nagariknews.nagariknetwork.com/economy/draft-alternative-investment-fund-regulations-made-public-br-95-18.html",
+   "source": "Nagarik News",
+   "ts": 1795149562,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2025/third-party/1793839944_dhito%20patra%2098.jpg",
+   "lang": "ne",
+   "hl": "वैकल्पिक लगानी कोष नियमावलीको मस्यौदा सार्वजनिक",
+   "en": "वैकल्पिक लगानी कोष नियमावलीको मस्यौदा सार्वजनिक",
+   "ne": "वैकल्पिक लगानी कोष नियमावलीको मस्यौदा सार्वजनिक",
+   "imp": 2,
+   "tags": [
+    "AlternativeInvestment",
+    "SEBON",
+    "Regulations",
+    "नियमावली"
+   ],
+   "cat": "economy",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "मतदान केन्द्रको पुनरवलोकन सुरु",
+   "summary": "बाँके समाचारदाताबाँके, मङ्सिर ४ गते । स्थानीय तहको निर्वाचनलाई लक्ष्य गरी बाँके जिल्लामा मतदान स्थल तथा मतदान केन्द्र पुनरवलोकनको प्रक्रिया सुरु गरिएको छ ।जिल्ला मतदान स्थल तथा मतद...",
+   "link": "https://gorkhapatraonline.com/news/229663",
+   "source": "Gorkhapatra",
+   "ts": 1795150693,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/392285/conversions/jilla-nirwachan-karryalay-banke-original.jpg",
+   "lang": "ne",
+   "hl": "मतदान केन्द्रको पुनरवलोकन सुरु",
+   "en": "मतदान केन्द्रको पुनरवलोकन सुरु",
+   "ne": "मतदान केन्द्रको पुनरवलोकन सुरु",
+   "imp": 3,
+   "tags": [
+    "ElectionCommission",
+    "VotingCenter",
+    "Election",
+    "निर्वाचन"
+   ],
+   "cat": "politics",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "In Quest Of Eurasian Security Architecture",
+   "summary": "The world is undergoing profound changes. The multipolar world is emerging. The Western dominance in the international s...",
+   "link": "https://risingnepaldaily.com/news/88821",
+   "source": "Rising Nepal",
+   "ts": 1795149380,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "In Quest Of Eurasian Security Architecture",
+   "en": "In Quest Of Eurasian Security Architecture",
+   "ne": "In Quest Of Eurasian Security Architecture",
+   "imp": 1,
+   "tags": [
+    "EurasianSecurity",
+    "World",
+    "Security"
+   ],
+   "cat": "world",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "GANDAKI PROVINCE GOVERNMENT SEEKS CANCELLATION OF SUPREME COURT'S INTERIM ORDER",
+   "summary": "Pokhara. The Gandaki Province government has filed a vakalatnama (appeal) seeking the cancellation of the Supreme Court's interim order not...",
+   "link": "http://english.ratopati.com/story/87403/gandaki-governments-functioning-affected-for-one-and-a-half-months-vacancy-in-supreme-court-demanding-cancellation-of-interim-order",
+   "source": "Ratopati EN",
+   "ts": 1795150142,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/surendra-raj-pandey_9wLVZZNrZe.webp",
+   "lang": "en",
+   "hl": "GANDAKI PROVINCE GOVERNMENT SEEKS CANCELLATION OF SUPREME COURT'S INTERIM ORDER",
+   "en": "GANDAKI PROVINCE GOVERNMENT SEEKS CANCELLATION OF SUPREME COURT'S INTERIM ORDER",
+   "ne": "GANDAKI PROVINCE GOVERNMENT SEEKS CANCELLATION OF SUPREME COURT'S INTERIM ORDER",
+   "imp": 3,
+   "tags": [
+    "GandakiProvince",
+    "SupremeCourt",
+    "InterimOrder"
+   ],
+   "cat": "politics",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "आधा घट्यो विदेशी लगानी प्रतिबद्धता",
+   "summary": "मुलुकमा स्थिर सरकार बनेपछि विदेशी लगानी बढ्ने अपेक्षा गरिए पनि चालु आर्थिक वर्ष २०८३/८४ को पहिलो चौमासमा लगानी प्रतिबद्धता अघिल्लो आवको सोही अवधिको तुलनामा आधा घटेको छ।...",
+   "link": "https://nagariknews.nagariknetwork.com/economy/foreign-investment-commitments-halved-br-20-25.html",
+   "source": "Nagarik News",
+   "ts": 1795145547,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2024/third-party/1795146306_Lagani%2098.jpg",
+   "lang": "ne",
+   "hl": "आधा घट्यो विदेशी लगानी प्रतिबद्धता",
+   "en": "आधा घट्यो विदेशी लगानी प्रतिबद्धता",
+   "ne": "आधा घट्यो विदेशी लगानी प्रतिबद्धता",
+   "imp": 3,
+   "tags": [
+    "FDI",
+    "ForeignInvestment",
+    "Economy",
+    "लगानी"
+   ],
+   "cat": "economy",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "धान बिक्रीका लागि टोकन लिन रातभरि लाइन",
+   "summary": "यज्ञप्रसाद सापकोटाबर्दिया, मङ्सिर ४ गते । खाद्य व्यवस्था तथा व्यापार कम्पनी लिमिटेड राजापुरमा धान बिक्रीका लागि टोकन लिन किसान रातभर लाइन बसेका छन् । सीमित कोटामा धान खरिद हुने भएप...",
+   "link": "https://gorkhapatraonline.com/news/229662",
+   "source": "Gorkhapatra",
+   "ts": 1795150529,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/392284/conversions/khaddy-bebastha-company,-Banke-original.jpg",
+   "lang": "ne",
+   "hl": "धान बिक्रीका लागि टोकन लिन रातभरि लाइन",
+   "en": "धान बिक्रीका लागि टोकन लिन रातभरि लाइन",
+   "ne": "धान बिक्रीका लागि टोकन लिन रातभरि लाइन",
+   "imp": 2,
+   "tags": [
+    "Paddy",
+    "Agriculture",
+    "FoodManagement",
+    "धान"
+   ],
+   "cat": "economy",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "US Envoy Believes Russia May Agree to NATO-Like Security Guarantees for Ukraine",
+   "summary": "Berlin. US President Donald Trump's special envoy Jared Kushner has expressed confidence that Russia may agree to a proposal for...",
+   "link": "http://english.ratopati.com/story/87402/kushner-believes-russia-will-agree-to-provide-nato-like-security-guarantees-to-ukraine",
+   "source": "Ratopati EN",
+   "ts": 1795149021,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/aGW0yZaAgh.jpg",
+   "lang": "en",
+   "hl": "US Envoy Believes Russia May Agree to NATO-Like Security Guarantees for Ukraine",
+   "en": "US Envoy Believes Russia May Agree to NATO-Like Security Guarantees for Ukraine",
+   "ne": "US Envoy Believes Russia May Agree to NATO-Like Security Guarantees for Ukraine",
+   "imp": 1,
+   "tags": [
+    "USEnvoy",
+    "Russia",
+    "Ukraine",
+    "NATO"
+   ],
+   "cat": "world",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "हरिबोधिनी एकादशीका अवसरमा नवलपुरका विभिन्न धार्मिक स्थलमा मेला",
+   "summary": "बोमलाल गिरी नवलपुर, मङ्सिर ४ गते । आज कात्तिक शुक्लपक्षको एकादशी तिथि अर्थात् हरिबोधिनी वा ठूली एकादशी । हरि भनेका साक्षात् भगवान् विष्णुलाई भनिन्छ भने बोधिनीको अर्थ जागृत हुने वा...",
+   "link": "https://gorkhapatraonline.com/news/229661",
+   "source": "Gorkhapatra",
+   "ts": 1795149851,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/392282/conversions/yakadashi-original.jpg",
+   "lang": "ne",
+   "hl": "हरिबोधिनी एकादशीका अवसरमा नवलपुरका विभिन्न धार्मिक स्थलमा मेला",
+   "en": "हरिबोधिनी एकादशीका अवसरमा नवलपुरका विभिन्न धार्मिक स्थलमा मेला",
+   "ne": "हरिबोधिनी एकादशीका अवसरमा नवलपुरका विभिन्न धार्मिक स्थलमा मेला",
+   "imp": 2,
+   "tags": [
+    "HaribodhiniEkadashi",
+    "Nawalpur",
+    "Festival",
+    "मेला"
+   ],
+   "cat": "culture",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "गोरखामा दुई हजार ३८५ मतदाताको नाम सूचीबाट हटाइयो",
+   "summary": "अस्मिता सिंखडागोरखा, मङ्सिर ४ गते । जिल्ला निर्वाचन कार्यालय गोरखाले मतदाता नामावली अद्यावधिक गर्ने क्रममा दुई हजार ३८५ जना मतदाताको नाम सूचीबाट हटाएको छ ।कार्यालयले भदौ र असोज महि...",
+   "link": "https://gorkhapatraonline.com/news/229660",
+   "source": "Gorkhapatra",
+   "ts": 1795149032,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/392275/conversions/Gorkhapatra-original.jpg",
+   "lang": "ne",
+   "hl": "गोरखामा दुई हजार ३८५ मतदाताको नाम सूचीबाट हटाइयो",
+   "en": "गोरखामा दुई हजार ३८५ मतदाताको नाम सूचीबाट हटाइयो",
+   "ne": "गोरखामा दुई हजार ३८५ मतदाताको नाम सूचीबाट हटाइयो",
+   "imp": 2,
+   "tags": [
+    "Gorkha",
+    "VoterList",
+    "ElectionCommission",
+    "गोरखा"
+   ],
+   "cat": "politics",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1794545468.5178742,
-   "en": "मोरङको केराबारी जंगलमा ३२ वर्षीया पार्वती लिम्बूको शव फेला",
-   "ne": "मोरङको केराबारी जंगलमा ३२ वर्षीया पार्वती लिम्बूको शव फेला",
-   "link": "https://www.setopati.com/social/402473",
-   "source": "Setopati",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "crime"
-  },
   {
    "ts": 1794547257.076354,
    "en": "Sri Lankan batter Thanuka Dabare joins Sudurpaschim Royals for NPL",
@@ -7992,8 +8308,8 @@
    "cat": "crime"
   }
  ],
- "updated": 1795150283,
- "pending_since": 1795149073.5492702,
+ "updated": 1795150892,
+ "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
