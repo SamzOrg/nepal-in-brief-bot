@@ -2122,7 +2122,9 @@
   "https://news.google.com/rss/articles/CBMikgFBVV95cUxNb3BLWEx4N1ItYTJ5T0g3S3Y2amNhSnp5aTVheTdQNFhuRHRJazA0bW5tOTRlS3BhUGlIaW5RWkJYTmdpY3Q2YnBRdnF4M2ZCWi15MW9Qa1lhNE5zVzZBdGRCWXNfZTBTMEI3U0lxam0wVmpWTUpwdTZXbDNBNmZfa1lUZURfY1RQYkpOLThJbGVBQQ?oc=5": 1795214451.094298,
   "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcS1kY1ducFlQNzdDRjBvQmJnMEhnaWJ4NjdSeWJia2RmSWJ4MWdlajFIZDEtQldxLVZEdHBsRi0xWDc3dnVBZFlkVExMS1hGZWdyVjlWUGRRYnFZeDVuaWJBbnk3YVBZbjQxVmN5VDNuVkF2bkxXNXhGRGdocVRiRG9BUlBKQTc4SkVzaUo0Y3ZrMVFLMkZybE1QNkMtdWhYcXBMNg?oc=5": 1795214451.094298,
   "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBYUkVhREl5eG9OYlZXdzB1dFFXVzhtbVNUNjlMQnFtWXQ2MHRlZlY2UkNqUWFVS3IxSWRqZklPTFdyakNpcFIwbkxlU3h3X3FOdUliOUZpeGo4QnZT?oc=5": 1795217465.917941,
-  "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1acTNfOWpLRVJwczVXZ3EwdkFrZk9wS29FMHd3bTVPUzk3eHZiQTh0UnlQZENOUV9iems3dlpvclk1cWhsV3FGdFhhNm83YlV1cDlNVG1rZGZtUWs?oc=5": 1795217465.917941
+  "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1acTNfOWpLRVJwczVXZ3EwdkFrZk9wS29FMHd3bTVPUzk3eHZiQTh0UnlQZENOUV9iems3dlpvclk1cWhsV3FGdFhhNm83YlV1cDlNVG1rZGZtUWs?oc=5": 1795217465.917941,
+  "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVUdmQ250d3o3S05Ic1dXcWhSLWtUWGtlaEY5NUZtNXZjV2RtQmQ3QmlDTEFBLS1HWVQ4bnE1LTd4bkNBRy1WWEcxcTVMWmE4MjlnWkJfM2hRV3kwSlZGMUNsTEJKYVNOaGN6eElFOGRJR1JsTmxNR1ZEWVd2VHNVSHdxYWQ1RVYwRHpSZjF4YXNpeUc3elE?oc=5": 1795218049.2410266,
+  "https://www.bbc.co.uk/news/articles/c6jre8xd83qgo?at_medium=RSS&at_campaign=rss": 1795218049.2410266
  },
  "queue": [
   {
@@ -2617,29 +2619,6 @@
    "val": 3,
    "teaser": false,
    "hits": 3
-  },
-  {
-   "title": "Fan Ratings - India A vs Nepal 4th Match, Group B 2026/27 - Cricket Insights",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZXdCQWc2MnEyb0dST1BXdFJUb1BWLUlqMFdheUxYQnRqclRiTzJGcm9fX2ViZG1VSWlfbkR3WUVYMUM2eEFLOFdUMm1qeVB5MGJkdHZ6SVZQNVBzb29rUXhwbDRQV09wYmdLWHVlSXJyOXVlUFA5eFY1ZTVsdVNCVmZyT191WGU0V2dQTjNCejFPQ2dWVEJqUmp3NXkyMGRkdkhjMjBCZmh6bnlSaG11aHBOaVptRkVBeU5jYmtkcjBrV1Q1YVh0M0xOOExfU0gxU1lCZ1Vn?oc=5",
-   "source": "Cricinfo",
-   "ts": 1795189059,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Fan Ratings - India A vs Nepal 4th Match, Group B 2026/27 - Cricket Insights",
-   "en": "Fan Ratings - India A vs Nepal 4th Match, Group B 2026/27 - Cricket Insights",
-   "ne": "Fan Ratings - India A vs Nepal 4th Match, Group B 2026/27 - Cricket Insights",
-   "imp": 2,
-   "tags": [
-    "CricketInsights",
-    "FanRatings",
-    "NepalCricket"
-   ],
-   "cat": "sports",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
   },
   {
    "title": "Nepal cricket fans celebrate their team's global rise | AJ #shorts",
@@ -5838,7 +5817,7 @@
    "cat": "world"
   }
  ],
- "updated": 1795217468,
+ "updated": 1795218052,
  "pending_since": 1795216251.1164293,
  "fb_blocks": [
   1790350880.4125228,
