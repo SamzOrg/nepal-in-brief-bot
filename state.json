@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://english.khabarhub.com/2026/18/575952/": 1794968571.4791844,
   "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTFZiaFlKTmZPNkVEREl4c085S052aHprWWxSbS1fVEJaT1RhLXJuR2V5SGZCYlRlV0pEdE1fLXR1ZlNwQ0NENmpWbnBoLWUwekh1RjFiaHZORWdTa1FabW1VdjBPMkpXNTNYZURzWU9Rb3BDLVpFWkVOOEdDVk5faTFTSlhpYXNRbFlVb1E2QS1pcTFxbG5kTWp0U2tla0VL?oc=5": 1794969075.585726,
   "https://news.google.com/rss/articles/CBMivwFBVV95cUxOS2FmS2JuSDU3U05XQWZPYU1HZURORGNoYVdFOWhkR2R4cFZsVDllY3JiYm1tMVNIclJfVnotcFpEZE9sQ1MyWHdwbzlnVlc5VHJIcENmNVJjTFpYM2tnSkMzNXpLR3ZKejRsRENjRUxyaVNpd3M4cm4tMUtJeFA3Y201OE1jY0dEY1BwQUp6NEpMUmNHUkg1UVBNV1N2VzExdHBjbWRhOThldEMtcEY2N0tIU2cwZUQwVDI2VVdTUQ?oc=5": 1794969075.585726,
   "https://www.ujyaaloonline.com/detail/133595": 1794969075.585726,
@@ -2012,7 +2011,11 @@
   "https://gorkhapatraonline.com/news/229632": 1795140654.7816112,
   "https://nagariknews.nagariknetwork.com/Dharma-Saskriti/ladkeshwor-mela-a-confluence-of-faith-and-tradition-br-35-33.html": 1795140654.7816112,
   "https://gorkhapatraonline.com/news/229631": 1795140654.7816112,
-  "https://baahrakhari.com/detail/507805": 1795141253.5160468
+  "https://baahrakhari.com/detail/507805": 1795141253.5160468,
+  "https://gorkhapatraonline.com/news/229638": 1795141873.167155,
+  "https://nagariknews.nagariknetwork.com/politics/cabinet-meeting-to-be-held-today-27-84.html": 1795141873.167155,
+  "https://english.khabarhub.com/2026/20/576227/": 1795141873.167155,
+  "https://nagariknews.nagariknetwork.com/politics/commission-begins-preparations-for-local-elections-holds-discussions-with-parties-today-66-45.html": 1795141873.167155
  },
  "queue": [
   {
@@ -3490,17 +3493,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1794536457.689216,
-   "en": "Injured workers stranded at Kirtipur Burn Hospital as contractors fail to pay bills",
-   "ne": "Injured workers stranded at Kirtipur Burn Hospital as contractors fail to pay bills",
-   "link": "https://english.onlinekhabar.com/workers-injured-by-electric-shocks-left-in-limbo-as-contractors-fail-to-pay-hospital-bills.html",
-   "source": "Onlinekhabar EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "society"
-  },
   {
    "ts": 1794538256.7813966,
    "en": "परराष्ट्रमन्त्री खनालद्वारा राष्ट्रसंघमा हिमाली क्षेत्रको जलवायु जोखिमबारे ध्यानाकर्षण",
@@ -6494,7 +6486,7 @@
    "cat": "politics"
   }
  ],
- "updated": 1795141280,
+ "updated": 1795141877,
  "pending_since": 1795141253.5160468,
  "fb_blocks": [
   1790350880.4125228,
