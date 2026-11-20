@@ -2017,7 +2017,8 @@
   "https://news.google.com/rss/articles/CBMiygFBVV95cUxQS1VIeFhvRlRDMGxoNVREd2g1dm9NcGZPNmd1MGxSZlBTc0UyWlNxeGUzSWtmSXpVLUxlZUQ5dDJxUzMzWXJBMlN6SGxRTHMxMnpESmp0Z0MyNlp2TXNVMGZUTE1yaFFVSG80djFxYmVidWFmbl9BUER5c3hFMHEwUzlMMDF1WjdheFNvZmZtY2VrbGRPT2NGYWlCWkdNU3FKSURyWmpRRkZlazBxQWNkUjVXR182V19QdzE3blEzakNOdk5HZloxZE9B?oc=5": 1795142462.1753538,
   "http://english.ratopati.com/story/87385/cabinet-meeting-to-take-formal-decision-on-prime-ministers-visit-to-india": 1795142462.1753538,
   "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMU1FMnBLNThFVE5Ya1ZyUFpqeTc1RmpJNlRGbHRpTnIzRmViSFdqT1VzTHhnTnZ6MFVjbHNGc21vWEw3dG9pTHRETGgtU1U2ZTJzSzExejRBZUU4bkxHbDU5SEZFQTR4UjU4TzdaOVpDd3FtWkphWTVqeXFvd1p3RUZUcWp2Vld4dW1mUHV0d19jMU4yT3FoTThHWGpRaFM1eWpyNw?oc=5": 1795142462.1753538,
-  "http://english.ratopati.com/story/87337/back-then-when-i-got-the-lead-role-my-co-stars-were-hostile": 1795142462.1753538
+  "http://english.ratopati.com/story/87337/back-then-when-i-got-the-lead-role-my-co-stars-were-hostile": 1795142462.1753538,
+  "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNlhMLUFGYkJzcWxkODExWnVkUjNHTkR0aDltaTAwTmU2MTlJelRMc1VZTXdoYTFnY1lfMkYwbDctYy1YTkpiaEpRcmNfV2hEWE9iVUZnMmtDUmJsc1hzNEw5anNFVlNWUmxKS3NLSHNtajFqN1RwVE9FQ0RNWmJpOVc2QVZ0QmlxNDFOX3h1NnFPSEVwM2FSTTRFZ2hsYnpFV0tRcVpyTWJ6M2NKd0NkSHZubEVQOHFKek1EXw?oc=5": 1795143052.684586
  },
  "queue": [
   {
@@ -2703,30 +2704,6 @@
    "tags": [
     "DryLandslide",
     "Ghoptebihar"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "One Woman Dies, Nine Injured in Dhading Bolero Accident",
-   "summary": "Kathmandu. One woman has died and nine people have been injured in a Bolero vehicle accident in Kaldang, Ruby Valley...",
-   "link": "http://english.ratopati.com/story/87379/bolero-accident-in-dhading-one-woman-dies-9-injured",
-   "source": "Ratopati EN",
-   "ts": 1795137169,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/accident1_0hvvweueaj_opitpBEPf3.webp",
-   "lang": "en",
-   "hl": "One Woman Dies, Nine Injured in Dhading Bolero Accident",
-   "en": "One Woman Dies, Nine Injured in Dhading Bolero Accident",
-   "ne": "One Woman Dies, Nine Injured in Dhading Bolero Accident",
-   "imp": 4,
-   "tags": [
-    "Dhading",
-    "Accident",
-    "Bolero",
-    "सवारीदुर्घटना"
    ],
    "cat": "disaster",
    "val": 3,
@@ -3720,7 +3697,7 @@
    "cat": "society",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "सलोनीको घरमा पुगेको त्यो सरप्राइज!",
@@ -6853,10 +6830,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "politics"
+  },
+  {
+   "ts": 1795143057.8411977,
+   "en": "One Woman Dies, Nine Injured in Dhading Bolero Accident",
+   "ne": "One Woman Dies, Nine Injured in Dhading Bolero Accident",
+   "link": "http://english.ratopati.com/story/87379/bolero-accident-in-dhading-one-woman-dies-9-injured",
+   "source": "Ratopati EN",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "disaster"
   }
  ],
- "updated": 1795142471,
- "pending_since": null,
+ "updated": 1795143077,
+ "pending_since": 1795143052.684586,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
