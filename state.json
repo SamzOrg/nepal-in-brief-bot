@@ -2022,7 +2022,29 @@
   "https://gorkhapatraonline.com/news/229641": 1795144251.9872136,
   "https://theannapurnaexpress.com/story/68899": 1795144251.9872136,
   "https://nagariknews.nagariknetwork.com/politics/uml-is-holding-a-meeting-of-local-level-people-s-representatives-today-24-59.html": 1795144856.3871467,
-  "https://theannapurnaexpress.com/story/68903": 1795144856.3871467
+  "https://theannapurnaexpress.com/story/68903": 1795144856.3871467,
+  "https://theannapurnaexpress.com/story/68905": 1795145470.7160008,
+  "http://english.ratopati.com/story/87395/congress-central-working-committee-meeting-to-be-held-on-november-21": 1795145470.7160008,
+  "https://gorkhapatraonline.com/news/229650": 1795145470.7160008,
+  "https://www.ujyaaloonline.com/detail/133667": 1795145470.7160008,
+  "https://baahrakhari.com/detail/507811": 1795145470.7160008,
+  "https://english.khabarhub.com/2026/20/576273/": 1795145470.7160008,
+  "https://risingnepaldaily.com/news/88798": 1795145470.7160008,
+  "https://nagariknews.nagariknetwork.com/politics/minister-badi-s-message-on-world-children-s-day-let-s-protect-childhood-build-a-secure-future-58-43.html": 1795145470.7160008,
+  "https://www.setopati.com/kinmel/jewellery/402949": 1795145470.7160008,
+  "https://news.google.com/rss/articles/CBMivgFBVV95cUxObjhWeDlLWXptaV9ZeS1aYkNpbFh6V0RGU29uWmdha1VMaXVwYXV6d2czNlhJWUpLWHE1VTR4NTJJNHNKMHBRb0c2N2UzVG1YZHBGTUpDREhZUnV6bFc5cmtYWkFnRENzUklMMk1ZTTdpaHNucEhXQ3ZKUGNXdk1ZcnhPUWRvTkw5bkxqZ2xPOXVCcllnQ1V1T1JrRjJYbF9SUkhIRGdYZ1NvMGZ1cHoza2VBMkFCNlZHR3RnRTZ3?oc=5": 1795145470.7160008,
+  "https://theannapurnaexpress.com/story/68904": 1795145470.7160008,
+  "https://kathmandupost.com/national/2026/11/20/nagdhunga-tunnelway-collects-rs16-4-million-in-tolls-in-first-15-days": 1795145470.7160008,
+  "http://english.ratopati.com/story/87394/india-accused-of-targeting-minorities-through-voter-list-revision": 1795145470.7160008,
+  "https://gorkhapatraonline.com/news/229649": 1795145470.7160008,
+  "https://baahrakhari.com/detail/507810": 1795145470.7160008,
+  "https://english.khabarhub.com/2026/20/576271/": 1795145470.7160008,
+  "https://nagariknews.nagariknetwork.com/economy/opening-the-door-to-investment-in-electricity-br-92-50.html": 1795145470.7160008,
+  "http://english.ratopati.com/story/87393/devotees-throng-changunarayan-temple-on-the-occasion-of-haribodhini-ekadashi-photos": 1795145470.7160008,
+  "https://gorkhapatraonline.com/news/229648": 1795145470.7160008,
+  "http://english.ratopati.com/story/87392/gaur-customs-collects-rs-177-crore-in-revenue-in-four-months-24-percent-more-than-target": 1795145470.7160008,
+  "https://gorkhapatraonline.com/news/229647": 1795145470.7160008,
+  "https://gorkhapatraonline.com/news/229646": 1795145470.7160008
  },
  "queue": [
   {
@@ -3406,27 +3428,27 @@
    "hits": 1
   },
   {
-   "title": "मन्त्रिपरिषद् बैठक बस्दै",
-   "summary": "बैठक सिंहदरबारस्थित प्रधानमन्त्री एवम् मन्त्रिपरिषदको कार्यालयमा बस्नेछ।",
-   "link": "https://www.setopati.com/politics/402971",
-   "source": "Setopati",
+   "title": "Cabinet meeting taking place today",
+   "summary": "KATHMANDU: A meeting of the Council of Ministers is scheduled to take place at 11:00 am today at the Office of the Prime Minister and Council of Ministers in Singha Durbar. Prime Minister Balendra Shah is expected to...",
+   "link": "https://english.khabarhub.com/2026/20/576273/",
+   "source": "Khabarhub EN",
    "ts": 1795142338,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "मन्त्रिपरिषद् बैठक बस्दै",
-   "en": "मन्त्रिपरिषद् बैठक बस्दै",
-   "ne": "मन्त्रिपरिषद् बैठक बस्दै",
+   "weight": 2,
+   "img": "https://english.khabarhub.com/wp-content/uploads/2026/09/cabinet-1-400x220.jpg",
+   "lang": "en",
+   "hl": "Cabinet meeting taking place today",
+   "en": "Cabinet meeting taking place today",
+   "ne": "Cabinet meeting taking place today",
    "imp": 3,
    "tags": [
-    "CabinetMeeting",
+    "Cabinet",
     "Government",
     "मन्त्रिपरिषद्"
    ],
    "cat": "politics",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
+   "val": 2,
+   "teaser": false,
+   "hits": 2
   },
   {
    "title": "गुणस्तरीय कि गुणात्मक शिक्षा",
@@ -3518,7 +3540,7 @@
    "cat": "culture",
    "val": 3,
    "teaser": false,
-   "hits": 3
+   "hits": 4
   },
   {
    "title": "अरुण तेस्रो प्रसारण लाइन प्रभावित जग्गाधनीले गरे मुआब्जा पुनरावलोकनको माग",
@@ -3701,7 +3723,7 @@
    "cat": "society",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Inflation rises over fourfold to 6.37 percent in mid-October; food and beverage prices hike 8 percent",
@@ -3908,7 +3930,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "सम्बन्धको नयाँ अध्याय",
@@ -4137,20 +4159,397 @@
    "val": 3,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "Congress Central Committee Meeting on Mangsir 8",
+   "summary": "Kathmandu. The meeting of the Central Working Committee of the Nepali Congress is scheduled to be held on Mangsir 8. The...",
+   "link": "http://english.ratopati.com/story/87395/congress-central-working-committee-meeting-to-be-held-on-november-21",
+   "source": "Ratopati EN",
+   "ts": 1795145373,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/congress-party-office_LtuRIB9uMV.jpg",
+   "lang": "en",
+   "hl": "Congress Central Committee Meeting on Mangsir 8",
+   "en": "Congress Central Committee Meeting on Mangsir 8",
+   "ne": "Congress Central Committee Meeting on Mangsir 8",
+   "imp": 3,
+   "tags": [
+    "NepaliCongress",
+    "Politics",
+    "CentralCommittee"
+   ],
+   "cat": "politics",
+   "val": 2,
+   "teaser": true,
+   "hits": 1
+  },
+  {
+   "title": "पर्यटकको रोजाइमा शुक्लाफाँटा राष्ट्रिय निकुञ्ज",
+   "summary": "कञ्चनपुर समाचारदाताकञ्चनपुर, मङ्सिर ४ गते । कञ्चनपुरको शुक्लाफाँटा राष्ट्रिय निकुञ्ज आन्तरिक तथा बाह्य पर्यटकको आकर्षक गन्तव्यका रूपमा विकसित हुन थालेको छ । पर्यटकका लागि निकुञ्ज ख...",
+   "link": "https://gorkhapatraonline.com/news/229650",
+   "source": "Gorkhapatra",
+   "ts": 1795145306,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/392264/conversions/Shuklaphanta-Tourism-original.jpg",
+   "lang": "ne",
+   "hl": "पर्यटकको रोजाइमा शुक्लाफाँटा राष्ट्रिय निकुञ्ज",
+   "en": "पर्यटकको रोजाइमा शुक्लाफाँटा राष्ट्रिय निकुञ्ज",
+   "ne": "पर्यटकको रोजाइमा शुक्लाफाँटा राष्ट्रिय निकुञ्ज",
+   "imp": 2,
+   "tags": [
+    "Shuklaphanta",
+    "Tourism",
+    "शुक्लाफाँटा"
+   ],
+   "cat": "culture",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "एसीसी एसिया कप राइजिङ स्टार्समा भारत 'ए'सँग खेल्दै नेपाल",
+   "summary": "समूहमा नेपालसहित भारत 'ए', पाकिस्तान 'ए' र युनाइटेड अरब इमिरेट्स (यूएई) छन् । खेल एकदिवसीय प्रणालीमा हुनेछ ।",
+   "link": "https://baahrakhari.com/detail/507811",
+   "source": "Baahrakhari",
+   "ts": 1795144934,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "एसीसी एसिया कप राइजिङ स्टार्समा भारत 'ए'सँग खेल्दै नेपाल",
+   "en": "एसीसी एसिया कप राइजिङ स्टार्समा भारत 'ए'सँग खेल्दै नेपाल",
+   "ne": "एसीसी एसिया कप राइजिङ स्टार्समा भारत 'ए'सँग खेल्दै नेपाल",
+   "imp": 4,
+   "tags": [
+    "Cricket",
+    "AsiaCup",
+    "NepalIndia"
+   ],
+   "cat": "sports",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "US firm wins minerals pact",
+   "summary": "Nairobi, Nov. 20: A US consortium, Frontier Minerals, won the contract Thursday for a critical minerals mining project a...",
+   "link": "https://risingnepaldaily.com/news/88798",
+   "source": "Rising Nepal",
+   "ts": 1795144833,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "US firm wins minerals pact",
+   "en": "US firm wins minerals pact",
+   "ne": "US firm wins minerals pact",
+   "imp": 3,
+   "tags": [
+    "Minerals",
+    "Investment"
+   ],
+   "cat": "economy",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "विश्व बाल दिवसमा मन्त्री बादीको सन्देश : बालापनको रक्षा गरौँ, सुरक्षित भविष्य निर्माण गरौँ",
+   "summary": "महिला, बालबालिका तथा ज्येष्ठ नागरिकमन्त्री सीता बादीले बालबालिकाको सुरक्षित, स्वस्थ, सम्मानित र खुसी बाल्यकाल सुनिश्चित गर्नु राज्य, परिवार र समाज सबैको साझा जिम्मेवारी भएको बताएकी छन्।...",
+   "link": "https://nagariknews.nagariknetwork.com/politics/minister-badi-s-message-on-world-children-s-day-let-s-protect-childhood-build-a-secure-future-58-43.html",
+   "source": "Nagarik News",
+   "ts": 1795144830,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2025/third-party/1780571336_sita_badi.jpg",
+   "lang": "ne",
+   "hl": "विश्व बाल दिवसमा मन्त्री बादीको सन्देश : बालापनको रक्षा गरौँ, सुरक्षित भविष्य निर्माण गरौँ",
+   "en": "विश्व बाल दिवसमा मन्त्री बादीको सन्देश : बालापनको रक्षा गरौँ, सुरक्षित भविष्य निर्माण गरौँ",
+   "ne": "विश्व बाल दिवसमा मन्त्री बादीको सन्देश : बालापनको रक्षा गरौँ, सुरक्षित भविष्य निर्माण गरौँ",
+   "imp": 2,
+   "tags": [
+    "ChildrensDay",
+    "MinisterBadi",
+    "बालदिवस"
+   ],
+   "cat": "society",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "सुन सस्तिएपछि गहना किन्नेको भीड, दैनिक ४० किलो कारोबार",
+   "summary": "विवाहका लागि पाँच-दस तोला सुन किन्नुपर्ने परिवारलाई मूल्यमा आएको यो गिरावटले ठूलो राहत दिनेछ। पहिले छुट्ट्याएको बजेटमै बढी परिमाणमा सुन किन्न सकिने अवस्था बनेको छ।",
+   "link": "https://www.setopati.com/kinmel/jewellery/402949",
+   "source": "Setopati",
+   "ts": 1795144521,
+   "weight": 3,
+   "img": null,
+   "lang": "ne",
+   "hl": "सुन सस्तिएपछि गहना किन्नेको भीड, दैनिक ४० किलो कारोबार",
+   "en": "सुन सस्तिएपछि गहना किन्नेको भीड, दैनिक ४० किलो कारोबार",
+   "ne": "सुन सस्तिएपछि गहना किन्नेको भीड, दैनिक ४० किलो कारोबार",
+   "imp": 3,
+   "tags": [
+    "Gold",
+    "Market",
+    "सुन"
+   ],
+   "cat": "economy",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "WEPs Forum calls for stronger action on women's economic leadership",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObjhWeDlLWXptaV9ZeS1aYkNpbFh6V0RGU29uWmdha1VMaXVwYXV6d2czNlhJWUpLWHE1VTR4NTJJNHNKMHBRb0c2N2UzVG1YZHBGTUpDREhZUnV6bFc5cmtYWkFnRENzUklMMk1ZTTdpaHNucEhXQ3ZKUGNXdk1ZcnhPUWRvTkw5bkxqZ2xPOXVCcllnQ1V1T1JrRjJYbF9SUkhIRGdYZ1NvMGZ1cHoza2VBMkFCNlZHR3RnRTZ3?oc=5",
+   "source": "myRepublica",
+   "ts": 1795142700,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "WEPs Forum calls for stronger action on women's economic leadership",
+   "en": "WEPs Forum calls for stronger action on women's economic leadership",
+   "ne": "WEPs Forum calls for stronger action on women's economic leadership",
+   "imp": 2,
+   "tags": [
+    "WEPs",
+    "WomenEmpowerment",
+    "Leadership"
+   ],
+   "cat": "economy",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Cyclone 'Akwan' and Westerly winds to influence weather across the country",
+   "summary": "Currently, the country is experiencing the influence of both the Westerly winds and the 'Akwan' tropical cyclone that has developed over the Bay of Bengal.According to the Meteorological Forecasting Division, cloudy...",
+   "link": "https://theannapurnaexpress.com/story/68904",
+   "source": "Annapurna Express",
+   "ts": 1795131072.1620574,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "Cyclone 'Akwan' and Westerly winds to influence weather across the country",
+   "en": "Cyclone 'Akwan' and Westerly winds to influence weather across the country",
+   "ne": "Cyclone 'Akwan' and Westerly winds to influence weather across the country",
+   "imp": 3,
+   "tags": [
+    "Weather",
+    "CycloneAkwan",
+    "मौसम"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Nagdhunga tunnelway collects Rs16.4 million in tolls in first 15 days",
+   "summary": "The tunnelway carried 119,029 vehicles, generating revenue of Rs16.44 million, while its annual operating costs are estimated at Rs220 million.",
+   "link": "https://kathmandupost.com/national/2026/11/20/nagdhunga-tunnelway-collects-rs16-4-million-in-tolls-in-first-15-days",
+   "source": "Kathmandu Post",
+   "ts": 1795131071.749331,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "Nagdhunga tunnelway collects Rs16.4 million in tolls in first 15 days",
+   "en": "Nagdhunga tunnelway collects Rs16.4 million in tolls in first 15 days",
+   "ne": "Nagdhunga tunnelway collects Rs16.4 million in tolls in first 15 days",
+   "imp": 3,
+   "tags": [
+    "NagdhungaTunnel",
+    "Toll",
+    "Traffic"
+   ],
+   "cat": "economy",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "US Commission Alleges India Targets Muslims in Voter Roll Purge",
+   "summary": "Washington. The US Commission on International Religious Freedom has accused India of targeting religious minorities, especially the Muslim community, during...",
+   "link": "http://english.ratopati.com/story/87394/india-accused-of-targeting-minorities-through-voter-list-revision",
+   "source": "Ratopati EN",
+   "ts": 1795145098,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/india_m2VkM3ZueY.webp",
+   "lang": "en",
+   "hl": "US Commission Alleges India Targets Muslims in Voter Roll Purge",
+   "en": "US Commission Alleges India Targets Muslims in Voter Roll Purge",
+   "ne": "US Commission Alleges India Targets Muslims in Voter Roll Purge",
+   "imp": 1,
+   "tags": [
+    "India",
+    "Muslims"
+   ],
+   "cat": "world",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "चाडपर्व मनाएर भारततिर जानेको लर्को",
+   "summary": "डडेलधुरा समाचारदाताडडेलधुरा, मङ्सिर ४ गते । भारतको चेन्नईमा रोजगारी गर्दै आउनुभएका गन्यापधुरा गाउँपालिका-१ का खेम भट्ट यस वर्ष दसैँतिहार मनाउन घर फर्किनुभयो । वर्षभरि परिवारबाट टाढ...",
+   "link": "https://gorkhapatraonline.com/news/229649",
+   "source": "Gorkhapatra",
+   "ts": 1795145148,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/392263/conversions/2334-original.jpg",
+   "lang": "ne",
+   "hl": "चाडपर्व मनाएर भारततिर जानेको लर्को",
+   "en": "चाडपर्व मनाएर भारततिर जानेको लर्को",
+   "ne": "चाडपर्व मनाएर भारततिर जानेको लर्को",
+   "imp": 2,
+   "tags": [
+    "Migration",
+    "Festivals",
+    "चाडपर्व"
+   ],
+   "cat": "society",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "ट्रम्प-सी-पुटिन शिखर सम्मेलनका पाँच मुख्य निष्कर्ष",
+   "summary": "",
+   "link": "https://baahrakhari.com/detail/507810",
+   "source": "Baahrakhari",
+   "ts": 1795144816,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "ट्रम्प-सी-पुटिन शिखर सम्मेलनका पाँच मुख्य निष्कर्ष",
+   "en": "ट्रम्प-सी-पुटिन शिखर सम्मेलनका पाँच मुख्य निष्कर्ष",
+   "ne": "ट्रम्प-सी-पुटिन शिखर सम्मेलनका पाँच मुख्य निष्कर्ष",
+   "imp": 3,
+   "tags": [
+    "Trump",
+    "Putin"
+   ],
+   "cat": "world",
+   "val": 3,
+   "teaser": true,
+   "hits": 1
+  },
+  {
+   "title": "विद्युतमा लगानीको ढोका फराकिलो बनाइँदै",
+   "summary": "जलविद्युत् उत्पादन, प्रसारण र विद्युत् व्यापारमा ठूलो सम्भावना बोकेको नेपालले पछिल्लो समय स्वदेशी तथा विदेशी लगानीकर्ताका लागि ऊर्जा क्षेत्रमा लगानीको ढोका फराकिलो बनाउँदै लगेको छ।...",
+   "link": "https://nagariknews.nagariknetwork.com/economy/opening-the-door-to-investment-in-electricity-br-92-50.html",
+   "source": "Nagarik News",
+   "ts": 1795144296,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2024/third-party/1682828300_bidhut%20line-1200x560-wm.jpg",
+   "lang": "ne",
+   "hl": "विद्युतमा लगानीको ढोका फराकिलो बनाइँदै",
+   "en": "विद्युतमा लगानीको ढोका फराकिलो बनाइँदै",
+   "ne": "विद्युतमा लगानीको ढोका फराकिलो बनाइँदै",
+   "imp": 3,
+   "tags": [
+    "Electricity",
+    "Investment",
+    "विद्युत"
+   ],
+   "cat": "economy",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "दलहरूबिच जुटेन सहमति सभाको बैठक अन्योल",
+   "summary": "धनगढी समाचारदाताधनगढी, मङ्सिर ४ गते । बजेट विवादमा अल्झेको सुदूरपश्चिम प्रदेशमा दलहरूबिच सहमति जुट्न नसक्दा प्रदेश सभाको बैठक अन्योल बनेको छ । सत्तापक्षभित्रै विवाद बढ्नुका साथै प्...",
+   "link": "https://gorkhapatraonline.com/news/229648",
+   "source": "Gorkhapatra",
+   "ts": 1795144934,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/392262/conversions/322-original.jpg",
+   "lang": "ne",
+   "hl": "दलहरूबिच जुटेन सहमति सभाको बैठक अन्योल",
+   "en": "दलहरूबिच जुटेन सहमति सभाको बैठक अन्योल",
+   "ne": "दलहरूबिच जुटेन सहमति सभाको बैठक अन्योल",
+   "imp": 3,
+   "tags": [
+    "Parliament",
+    "PoliticalCrisis",
+    "संसद"
+   ],
+   "cat": "politics",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Rautahat Customs Office Exceeds Revenue Target by 24% in First Four Months",
+   "summary": "Rautahat. The Gaur Customs Office has collected more revenue than targeted in the first four months of the current fiscal...",
+   "link": "http://english.ratopati.com/story/87392/gaur-customs-collects-rs-177-crore-in-revenue-in-four-months-24-percent-more-than-target",
+   "source": "Ratopati EN",
+   "ts": 1795144248,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/1000683897_pnNT9WZrCd.webp",
+   "lang": "en",
+   "hl": "Rautahat Customs Office Exceeds Revenue Target by 24% in First Four Months",
+   "en": "Rautahat Customs Office Exceeds Revenue Target by 24% in First Four Months",
+   "ne": "Rautahat Customs Office Exceeds Revenue Target by 24% in First Four Months",
+   "imp": 3,
+   "tags": [
+    "Rautahat",
+    "Customs",
+    "Revenue"
+   ],
+   "cat": "economy",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "जुवाको खालबाट कौडा र नगदसहित २० जना पक्राउ",
+   "summary": "सन्तोष सुवेदीधनकुटा, मङ्सिर ४ गते । धनकटाको महालक्ष्मी नगरपालिका-४, स्थित दमारमा जुवाको खालबाट कौडा र नगदसहित प्रहरीले २० जनालाइ पक्राउ गरेको छ । आज बिहानको राति करिब २ः१५ बजे जुवा...",
+   "link": "https://gorkhapatraonline.com/news/229647",
+   "source": "Gorkhapatra",
+   "ts": 1795144892,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/392261/conversions/kauda-original.jpg",
+   "lang": "ne",
+   "hl": "जुवाको खालबाट कौडा र नगदसहित २० जना पक्राउ",
+   "en": "जुवाको खालबाट कौडा र नगदसहित २० जना पक्राउ",
+   "ne": "जुवाको खालबाट कौडा र नगदसहित २० जना पक्राउ",
+   "imp": 2,
+   "tags": [
+    "Gambling",
+    "Police",
+    "जुवा"
+   ],
+   "cat": "crime",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "अछाममा एक महिनामा १३ अपराधका घटना दर्ता, २२ प्रतिवादी पक्राउ",
+   "summary": "अछाम समाचारदाता अछाम, मङ्सिर ४ गते । जिल्ला प्रहरी कार्यालय अछामले कात्तिक महिनामा सम्पादन गरेका कार्यहरूको प्रगति विवरण सार्वजनिक गरेको छ । कार्यालयले प्रेस विज्ञप्तिमार्फत सार्वज...",
+   "link": "https://gorkhapatraonline.com/news/229646",
+   "source": "Gorkhapatra",
+   "ts": 1795144420,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/392260/conversions/69560-original.jpg",
+   "lang": "ne",
+   "hl": "अछाममा एक महिनामा १३ अपराधका घटना दर्ता, २२ प्रतिवादी पक्राउ",
+   "en": "अछाममा एक महिनामा १३ अपराधका घटना दर्ता, २२ प्रतिवादी पक्राउ",
+   "ne": "अछाममा एक महिनामा १३ अपराधका घटना दर्ता, २२ प्रतिवादी पक्राउ",
+   "imp": 2,
+   "tags": [
+    "Achham",
+    "Crime",
+    "अछाम"
+   ],
+   "cat": "crime",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1794540061.1265368,
-   "en": "SSF collects Rs 130 billion from over 3.24 million contributors",
-   "ne": "SSF collects Rs 130 billion from over 3.24 million contributors",
-   "link": "https://myrepublica.nagariknetwork.com/amp/news/ssf-collects-rs-130-billion-from-over-324-million-contributors-45-53.html",
-   "source": "myRepublica",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "economy"
-  },
   {
    "ts": 1794541860.114815,
    "en": "Maoist Centre Chair Prachanda Departs for Russia for World Conference",
@@ -7144,8 +7543,8 @@
    "cat": "society"
   }
  ],
- "updated": 1795144883,
- "pending_since": 1795144856.3871467,
+ "updated": 1795145478,
+ "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
