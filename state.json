@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMihAFBVV95cUxQelRZUGhPZXlrV250VF9OX1ZqSVBwcHdPWGNjX0FfclVnSzYwbDl5WThTOFdwVXpUd3VLUTFKSmd4T3pqOGlYUDVFN1JVNG1fblZWeGpld2NGc2Vhb2RKNm8yZnVLbXgxdDBSZGhqU1BGVTNnT3k2RTFabnJhQ0V4Wno1N2k?oc=5": 1795043455.2963526,
   "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4cjA4Mnp5S3hsUFQ3emJmd200Q0oySDZpUWx6RGg1VTd0M2ptVkRUZDdVWjZXZzJhSjZXQ2VNUEh6YktScEJ5NlBpTHUwZF9IUmVFMVNGTzV6R05rQjhobFFDeEdMV21acUdYZQ?oc=5": 1795045261.0270786,
   "https://www.ujyaaloonline.com/detail/133623": 1795046495.695958,
   "http://english.ratopati.com/story/87206/this-is-the-foreign-exchange-rate-on-thursday": 1795046495.695958,
@@ -2171,29 +2170,6 @@
    "hits": 2
   },
   {
-   "title": "Home Ministry Forms Task Force to Combat Foreign Employment Fraud and Exploitation",
-   "summary": "Kathmandu. The Home Ministry has formed a special task force to control fraud and labor exploitation in the name of...",
-   "link": "http://english.ratopati.com/story/87536/ministry-of-home-affairs-forms-special-task-force-to-control-fraud-in-the-name-of-foreign-employment",
-   "source": "Ratopati EN",
-   "ts": 1795187913,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/karyadal_wU7Gs7amCH.webp",
-   "lang": "en",
-   "hl": "Home Ministry Forms Task Force to Combat Foreign Employment Fraud and Exploitation",
-   "en": "Home Ministry Forms Task Force to Combat Foreign Employment Fraud and Exploitation",
-   "ne": "Home Ministry Forms Task Force to Combat Foreign Employment Fraud and Exploitation",
-   "imp": 3,
-   "tags": [
-    "HomeMinistry",
-    "Fraud",
-    "Employment"
-   ],
-   "cat": "crime",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Today's News in a Nutshell",
    "summary": "KATHMANDU: Khabarhub brings you a glimpse of major developments of the day in Nepal, including politics, business/economy, sports, entertainment, and more. MoFA announces schedule for PM Balen Shah's state visit to...",
    "link": "https://english.khabarhub.com/2026/20/576291/",
@@ -2729,30 +2705,6 @@
    ],
    "cat": "sports",
    "val": 2,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "First regular India-Nepal passenger train to link birthplaces of Lord Ram and Mata Sita",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxPMm01UDk5aFJzMEduTFBMa2tFSm41RTBnRnY0OXdqYVpadGxlNEhQT0kxcmVSTXFIYXd5cE1CVnFlakgtdnFqd0pMWUR5RDJCdS1TVnJiYUZIUmVwY0VXRkJQbE5XNTBVT1dlLThBTzlQOGI4dlZ6RlloU3NYMkhEVWRCNnhyQXBHMzd4YVZ6Qjg4MGEzUy1ZUU9ud3NBRFpVSF93cUktX3ZVdkFrSFc2SHIxTlVkX0hWMThSQVVDeFQ5WnktVGlzR1pZb0lmNzhmUWxDbVZiMm5Ecmc5UFhvVHFzZVNPblZmeUpMTkNVakpkVHZBNzNBekFDbEtqVDhabGxVT1E0b2s0b1V0Y0VjS2FVQXRrSEpkTTk5MmN2U1Nuc1J6WlEwMDZzdWVTZmVKNXZTODRYbUV1QU3SAfABQVVfeXFMTkZkNU9TQWN0S1RCaU9DTzV6S3I2aVFvc0RsbFhGUDBNRFlYYXZXbG91aGc1TGo4Qlp2ZXA5V2NfYUhybXNPTVVVVm5NVjJPdTd5MkdfNlNpZ3JoekJ3R2RYX0h4QW9pRGZMR2w1d0dWaXVhTnNnejlORHQ2ckt6anhrVVN3b3pLNVRFV3RybE9SOElkMzlHS1M1VURfbGtjSXFBNUVqWkxnZ1ZldmxpWkhlRG9BbU10RWhWRzZGOGNzb1R5TFRJQWNqT0pNZDhFZko2RGhDU093UnZrbDl6aWdDeUtHdUNpS29vcFUzeHBP?oc=5",
-   "source": "The Times of India",
-   "ts": 1795206960,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "First regular India-Nepal passenger train to link birthplaces of Lord Ram and Mata Sita",
-   "en": "First regular India-Nepal passenger train to link birthplaces of Lord Ram and Mata Sita",
-   "ne": "First regular India-Nepal passenger train to link birthplaces of Lord Ram and Mata Sita",
-   "imp": 3,
-   "tags": [
-    "India",
-    "Nepal",
-    "Train",
-    "Janakpur"
-   ],
-   "cat": "world",
-   "val": 3,
    "teaser": false,
    "hits": 2
   },
@@ -5928,9 +5880,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "sports"
+  },
+  {
+   "ts": 1795216856.3934212,
+   "en": "First regular India-Nepal passenger train to link birthplaces of Lord Ram and Mata Sita",
+   "ne": "First regular India-Nepal passenger train to link birthplaces of Lord Ram and Mata Sita",
+   "link": "https://timesofindia.indiatimes.com/india/first-regular-india-nepal-passenger-train-to-link-birthplaces-of-lord-ram-and-mata-sita/articleshow/136039011.cms?utm_source=newsletter&utm_medium=email&utm_campaign=amp_rss",
+   "source": "The Times of India",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "world"
   }
  ],
- "updated": 1795216255,
+ "updated": 1795216872,
  "pending_since": 1795216251.1164293,
  "fb_blocks": [
   1790350880.4125228,
