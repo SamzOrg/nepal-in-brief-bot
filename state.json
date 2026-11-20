@@ -2094,29 +2094,6 @@
  },
  "queue": [
   {
-   "title": "Nepal and Norway Discuss Climate Change and Mountain Conservation at COP-31",
-   "summary": "Kathmandu, November 20: A bilateral meeting was held between Gita Chaudhary, Minister for Agriculture, Forest and Environment, and Sigrun Gjerløw...",
-   "link": "http://english.ratopati.com/story/87396/nepal-norway-discuss-strengthening-climate-cooperation",
-   "source": "Ratopati EN",
-   "ts": 1795145707,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/gita_JQ2Ncv8CSA.webp",
-   "lang": "en",
-   "hl": "Nepal and Norway Discuss Climate Change and Mountain Conservation at COP-31",
-   "en": "Nepal and Norway Discuss Climate Change and Mountain Conservation at COP-31",
-   "ne": "Nepal and Norway Discuss Climate Change and Mountain Conservation at COP-31",
-   "imp": 2,
-   "tags": [
-    "COP31",
-    "Norway",
-    "ClimateChange"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 7
-  },
-  {
    "title": "Lenin's Legacy Refuses To Fade",
    "summary": "On the morning of November 12, a cloudy sky hung above Moscow's Red Square. Drizzle and shivering cold greeted the visit...",
    "link": "https://risingnepaldaily.com/news/88819",
@@ -2230,29 +2207,6 @@
    "val": 2,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "दमकस्थित भाटभटेनी भोलिदेखि पुनः सञ्चालनमा आउने",
-   "summary": "गुरुङले जारी गरेको विज्ञप्तिमा भनेका छन्- यति ठूलो क्षति बेहोर्दा पनि कम्पनीले आफ्नो व्यवसायिक गतिविधि तथा कर्मचारीप्रतिको जिम्मेवारीलाई बेवास्ता गरेन । भाटभटेनीमा कार्यरत १० हजारभन्दा बढी कर्मचारीको रोजगारीमा हामीले...",
-   "link": "https://baahrakhari.com/detail/507813",
-   "source": "Baahrakhari",
-   "ts": 1795145933,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "दमकस्थित भाटभटेनी भोलिदेखि पुनः सञ्चालनमा आउने",
-   "en": "दमकस्थित भाटभटेनी भोलिदेखि पुनः सञ्चालनमा आउने",
-   "ne": "दमकस्थित भाटभटेनी भोलिदेखि पुनः सञ्चालनमा आउने",
-   "imp": 2,
-   "tags": [
-    "Damak",
-    "Bhatbhateni",
-    "दमक"
-   ],
-   "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "Pay Heed To Our Woes: Nepali Diasporas",
@@ -2711,30 +2665,6 @@
     "InterimOrder"
    ],
    "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "आधा घट्यो विदेशी लगानी प्रतिबद्धता",
-   "summary": "मुलुकमा स्थिर सरकार बनेपछि विदेशी लगानी बढ्ने अपेक्षा गरिए पनि चालु आर्थिक वर्ष २०८३/८४ को पहिलो चौमासमा लगानी प्रतिबद्धता अघिल्लो आवको सोही अवधिको तुलनामा आधा घटेको छ।...",
-   "link": "https://nagariknews.nagariknetwork.com/economy/foreign-investment-commitments-halved-br-20-25.html",
-   "source": "Nagarik News",
-   "ts": 1795145547,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2024/third-party/1795146306_Lagani%2098.jpg",
-   "lang": "ne",
-   "hl": "आधा घट्यो विदेशी लगानी प्रतिबद्धता",
-   "en": "आधा घट्यो विदेशी लगानी प्रतिबद्धता",
-   "ne": "आधा घट्यो विदेशी लगानी प्रतिबद्धता",
-   "imp": 3,
-   "tags": [
-    "FDI",
-    "ForeignInvestment",
-    "Economy",
-    "लगानी"
-   ],
-   "cat": "economy",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -10860,8 +10790,8 @@
    "cat": "society"
   }
  ],
- "updated": 1795174279,
- "pending_since": null,
+ "updated": 1795174854,
+ "pending_since": 1795174849.0270174,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
