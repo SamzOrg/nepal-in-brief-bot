@@ -2027,29 +2027,6 @@
  },
  "queue": [
   {
-   "title": "सीप तथा रोजगार मेला सञ्चालनका लागि महासंघ र सरकारबीच सम्झौता",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/507785",
-   "source": "Baahrakhari",
-   "ts": 1795105469,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "सीप तथा रोजगार मेला सञ्चालनका लागि महासंघ र सरकारबीच सम्झौता",
-   "en": "सीप तथा रोजगार मेला सञ्चालनका लागि महासंघ र सरकारबीच सम्झौता",
-   "ne": "सीप तथा रोजगार मेला सञ्चालनका लागि महासंघ र सरकारबीच सम्झौता",
-   "imp": 2,
-   "tags": [
-    "EmploymentFair",
-    "Government",
-    "Union"
-   ],
-   "cat": "economy",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "कुष्ठरोगको जोखिममा लुम्बिनीका १० जिल्ला",
    "summary": "",
    "link": "https://baahrakhari.com/detail/507790",
@@ -2575,17 +2552,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1794529257.4422574,
-   "en": "Nepal's textile industry faces new tariffs upon losing least developed country status",
-   "ne": "Nepal's textile industry faces new tariffs upon losing least developed country status",
-   "link": "https://asia.nikkei.com/spotlight/policy-asia/buffer-or-crutch-nepal-clings-to-least-developed-country-perks",
-   "source": "Nikkei Asia",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "economy"
-  },
   {
    "ts": 1794531055.2016222,
    "en": "नेपालद्वारा पर्वतीय र जलवायु परिवर्तनका मुद्दालाई संस्थागत एजेन्डा बनाउन आग्रह",
@@ -5579,8 +5545,8 @@
    "cat": "health"
   }
  ],
- "updated": 1795134079,
- "pending_since": null,
+ "updated": 1795134675,
+ "pending_since": 1795134669.7366054,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
