@@ -2027,7 +2027,8 @@
   "https://risingnepaldaily.com/news/88811": 1795147866.7669153,
   "https://www.ujyaaloonline.com/detail/133668": 1795147866.7669153,
   "https://gorkhapatraonline.com/news/229655": 1795147866.7669153,
-  "http://english.ratopati.com/story/87396/nepal-norway-discuss-strengthening-climate-cooperation": 1795147866.7669153
+  "http://english.ratopati.com/story/87396/nepal-norway-discuss-strengthening-climate-cooperation": 1795147866.7669153,
+  "https://news.google.com/rss/articles/CBMikgFBVV95cUxOV2JweF8ycXZNa241QmxmUEFRQXpEQXE1bkR0SnlCaExDSGkzaTF0MVNoX2U5UWR0WW54U2YyVTVOZFhBbXNaWlZJMWVnbzFWbU5VMWdSYnltRzF3Q1UzaTlrc0JpQWZZX0hsd0lnck1xcWZuc1dESnVjZVhnYkEyUWk4SlR1aU9BRGh6VDhOendvdw?oc=5": 1795148452.2504752
  },
  "queue": [
   {
@@ -2212,29 +2213,6 @@
    "val": 3,
    "teaser": false,
    "hits": 3
-  },
-  {
-   "title": "सात वर्षमा पनि बनेन मुस्ताङको लेते-धम्पु पुल",
-   "summary": "निर्माणमा चरम ढिलासुस्ती हुँदा पुल पछिल्लो १० महिनादेखि अलपत्र परेको छ।",
-   "link": "https://www.setopati.com/social/402965",
-   "source": "Setopati",
-   "ts": 1795135699,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "सात वर्षमा पनि बनेन मुस्ताङको लेते-धम्पु पुल",
-   "en": "सात वर्षमा पनि बनेन मुस्ताङको लेते-धम्पु पुल",
-   "ne": "सात वर्षमा पनि बनेन मुस्ताङको लेते-धम्पु पुल",
-   "imp": 3,
-   "tags": [
-    "Mustang",
-    "Bridge",
-    "पुल"
-   ],
-   "cat": "infrastructure",
-   "val": 2,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "जिसस महासङ्घका पदाधिकारीको शपथ ग्रहण",
@@ -3133,7 +3111,7 @@
    "cat": "sports",
    "val": 3,
    "teaser": false,
-   "hits": 3
+   "hits": 4
   },
   {
    "title": "Nepali Youth Demand Climate Justice at COP-31",
@@ -7525,9 +7503,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "sports"
+  },
+  {
+   "ts": 1795148458.4275954,
+   "en": "मुस्ताङको लेते-धम्पु पुल सात वर्षमा पनि बनेन, १० महिनादेखि काम अलपत्र",
+   "ne": "मुस्ताङको लेते-धम्पु पुल सात वर्षमा पनि बनेन, १० महिनादेखि काम अलपत्र",
+   "link": "https://www.setopati.com/social/402965",
+   "source": "Setopati",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "infrastructure"
   }
  ],
- "updated": 1795147873,
+ "updated": 1795148476,
  "pending_since": 1795147866.7669153,
  "fb_blocks": [
   1790350880.4125228,
