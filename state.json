@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://gorkhapatraonline.com/news/229437": 1794970881.3543365,
   "https://baahrakhari.com/detail/507586": 1794971453.1997495,
   "https://www.ujyaaloonline.com/detail/133597": 1794971453.1997495,
   "https://www.setopati.com/politics/402806": 1794971453.1997495,
@@ -2919,29 +2918,6 @@
    "hits": 2
   },
   {
-   "title": "Nepal calls for stronger economic cooperation and close coordination with India",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTGxKX09sRXdfNzY1aU5LZHlLeU5tUHE5MGNWME85VHFzOWJvOEtfVkFYMGJIM3ZsOGg1V0l0SWRNeE1MNU82dVlNR2hBQ1JOUjZ5WFoyR2NFcGgtS3l5UlhmUGYwTzFZT2hPYWl4OElCNW1NanN5cExxOEpyRGI2LTVIZUVvaXE2SEZSeWlOZ1owV2oxWWk5eXhGUzhubGxodmY3UV96bEM?oc=5",
-   "source": "News On AIR",
-   "ts": 1795114651,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Nepal calls for stronger economic cooperation and close coordination with India",
-   "en": "Nepal calls for stronger economic cooperation and close coordination with India",
-   "ne": "Nepal calls for stronger economic cooperation and close coordination with India",
-   "imp": 3,
-   "tags": [
-    "Nepal",
-    "India",
-    "EconomicCooperation"
-   ],
-   "cat": "politics",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "'अक्वान' चक्रवातको आंशिक प्रभाव",
    "summary": "काठमाडौँ, मङ्सिर ४ गते । हाल देशमा पश्चिमी वायुका साथै 'अक्वान' चक्रवातको आंशिक प्रभाव रहेको छ ।मौसम पूर्वानुमान महाशाखाका अनुसार कोशी, मधेस, बागमती प्रदेशलगायत तथा गण्डकी प्रदेशको...",
    "link": "https://gorkhapatraonline.com/news/229629",
@@ -3839,17 +3815,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1794538256.7813966,
-   "en": "परराष्ट्रमन्त्री खनालद्वारा राष्ट्रसंघमा हिमाली क्षेत्रको जलवायु जोखिमबारे ध्यानाकर्षण",
-   "ne": "परराष्ट्रमन्त्री खनालद्वारा राष्ट्रसंघमा हिमाली क्षेत्रको जलवायु जोखिमबारे ध्यानाकर्षण",
-   "link": "https://nagariknews.nagariknetwork.com/politics/foreign-minister-khanal-draws-un-s-attention-to-increasing-climate-risks-in-himalayan-region-74-93.html",
-   "source": "Nagarik News",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "world"
-  },
   {
    "ts": 1794540061.1265368,
    "en": "SSF collects Rs 130 billion from over 3.24 million contributors",
@@ -6843,7 +6808,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1795143077,
+ "updated": 1795143688,
  "pending_since": 1795143052.684586,
  "fb_blocks": [
   1790350880.4125228,
