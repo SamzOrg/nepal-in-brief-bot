@@ -1,6 +1,5 @@
 {
  "seen": {
-  "http://english.ratopati.com/story/87167/nepali-consulate-in-cyprus-has-become-mandatory": 1795011660.565872,
   "https://www.setopati.com/politics/402873": 1795012858.4366643,
   "https://baahrakhari.com/detail/507671": 1795012858.4366643,
   "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUTdwYzJLQzJMSEx0TktkNjVTVjNNb29VbzVjRVFJQ3F5NERUVUUyRXlxNWRwTURpMEYzS0N6dEx2WGRQNHhNR1hEek9qdVdvNzV6VTFHVldfVlVWSmZfTmxTY241OXVWaE16OGlYcDRoM0hqX0VjaWZfd1EzYTBrRENXb1l3VVJtQW9McFd5VU0?oc=5": 1795012858.4366643,
@@ -2114,7 +2113,8 @@
   "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZ3Z0cUg0YkhsXzBPS3Rwd1ZmMl8xMjJSdVZzaXljYzljMGdwOWZtQ3BXbXM3bG5hMVZVdzZndGF2WU5rNVRIOU53bjVzZnFZTmlyWkJjd1E5Ym1QY3pvamN3X2dlbV9mb0RsTUUtMFR6bDAwdVpncThVTFkxRWdDWm45Y2luV0dfbWh6NGJOdVZFUUNIM0cxU2hORm15ZS0xZWc3bHIzcGNwN0I2Q05iSWY4TDBnSnQtdDF3aXhrOA?oc=5": 1795184456.245477,
   "http://english.ratopati.com/story/87524/the-main-responsibility-for-education-reform-should-lie-with-the-local-level-and-community-former-president-yadav": 1795184456.245477,
   "https://gorkhapatraonline.com/news/229723": 1795184456.245477,
-  "https://www.setopati.com/sports/cricket/403035": 1795184456.245477
+  "https://www.setopati.com/sports/cricket/403035": 1795184456.245477,
+  "http://english.ratopati.com/story/87527/pakistan-beat-sri-lanka-by-8-wickets-to-win-the-series": 1795185079.9325342
  },
  "queue": [
   {
@@ -2138,29 +2138,6 @@
    "cat": "world",
    "val": 3,
    "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "आइतवारको बिदा : विद्यालयलाई पढाइ नसकिने चिन्ता, विद्यार्थीलाई भने नयाँ कुरा सिक्ने अवसर",
-   "summary": "",
-   "link": "https://www.ujyaaloonline.com/detail/133672",
-   "source": "Ujyaalo",
-   "ts": 1795156017,
-   "weight": 2,
-   "img": "https://www.ujyaaloonline.com/uploads/posts/school_LBlKlD5efw.jpeg",
-   "lang": "ne",
-   "hl": "आइतवारको बिदा : विद्यालयलाई पढाइ नसकिने चिन्ता, विद्यार्थीलाई भने नयाँ कुरा सिक्ने अवसर",
-   "en": "आइतवारको बिदा : विद्यालयलाई पढाइ नसकिने चिन्ता, विद्यार्थीलाई भने नयाँ कुरा सिक्ने अवसर",
-   "ne": "आइतवारको बिदा : विद्यालयलाई पढाइ नसकिने चिन्ता, विद्यार्थीलाई भने नयाँ कुरा सिक्ने अवसर",
-   "imp": 2,
-   "tags": [
-    "SundayHoliday",
-    "School",
-    "Education"
-   ],
-   "cat": "society",
-   "val": 1,
-   "teaser": true,
    "hits": 1
   },
   {
@@ -2188,52 +2165,6 @@
    "hits": 2
   },
   {
-   "title": "The Giant Returns: Botaa Momo Makes a Grand Comeback",
-   "summary": "KATHMANDU: One of Nepal's most recognizable homegrown food brands is officially back. Botaa Momo, which once dominated the country's quick-service dining scene with over 26 outlets nationwide, is ending its post-COVID...",
-   "link": "https://english.khabarhub.com/2026/20/576301/",
-   "source": "Khabarhub EN",
-   "ts": 1795156105,
-   "weight": 2,
-   "img": "https://english.khabarhub.com/wp-content/uploads/2026/11/Botaa-Momo-400x220.jpeg",
-   "lang": "en",
-   "hl": "The Giant Returns: Botaa Momo Makes a Grand Comeback",
-   "en": "The Giant Returns: Botaa Momo Makes a Grand Comeback",
-   "ne": "The Giant Returns: Botaa Momo Makes a Grand Comeback",
-   "imp": 1,
-   "tags": [
-    "BotaaMomo",
-    "Food",
-    "Kathmandu"
-   ],
-   "cat": "culture",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Nepal can attract global fashion productions if it makes the process easier",
-   "summary": "The world's leading fashion houses take their collections and campaigns to extraordinary locations, from remote landscapes to historic landmarks. Nepal has the settings. Attracting these productions, however, requires...",
-   "link": "https://english.onlinekhabar.com/nepal-attract-global-fashion-production.html",
-   "source": "Onlinekhabar EN",
-   "ts": 1795156199,
-   "weight": 3,
-   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/11/BTS_2-1024x537.jpg",
-   "lang": "en",
-   "hl": "Nepal can attract global fashion productions if it makes the process easier",
-   "en": "Nepal can attract global fashion productions if it makes the process easier",
-   "ne": "Nepal can attract global fashion productions if it makes the process easier",
-   "imp": 2,
-   "tags": [
-    "Fashion",
-    "Nepal",
-    "GlobalProduction"
-   ],
-   "cat": "culture",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
    "title": "Saif Ali Khan Receives Death Threat; Zeeshan Akhtar Named in Case",
    "summary": "Mumbai. Bollywood actor Saif Ali Khan has received a death threat. The name of NCP leader Baba Siddiqui murder case...",
    "link": "http://english.ratopati.com/story/87432/saif-ali-khan-receives-death-threats-name-of-absconding-accused-in-baba-siddiqui-murder-case-added",
@@ -2255,143 +2186,6 @@
    "val": 3,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "अज्ञात पुरुषको शव फेला",
-   "summary": "विजयकुमार साह ढल्केबर, मङ्सिर ४ गते । धनुषाको जनकनन्दिनी गाउँपालिका -२, बलहागोठस्थित छोटी भन्सार कार्यालयको परिसरमा शुक्रबार बिहान अज्ञात पुरुषको शव फेला परेको छ ।इलाका प्रहरी कार्...",
-   "link": "https://gorkhapatraonline.com/news/229681",
-   "source": "Gorkhapatra",
-   "ts": 1795156021,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/392315/conversions/dhanusa-original.jpg",
-   "lang": "ne",
-   "hl": "अज्ञात पुरुषको शव फेला",
-   "en": "अज्ञात पुरुषको शव फेला",
-   "ne": "अज्ञात पुरुषको शव फेला",
-   "imp": 2,
-   "tags": [
-    "DeadBody",
-    "Crime"
-   ],
-   "cat": "crime",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "न्यायाधीशका पिएसओले आफैलाई हाने गोली",
-   "summary": "काठमाडौंमा एक जना न्यायाधीशका अंगरक्षक (पिएसओ)ले आफैमाथि गोली प्रहार गरेका छन्।",
-   "link": "https://www.setopati.com/social/402985",
-   "source": "Setopati",
-   "ts": 1795155788,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "न्यायाधीशका पिएसओले आफैलाई हाने गोली",
-   "en": "न्यायाधीशका पिएसओले आफैलाई हाने गोली",
-   "ne": "न्यायाधीशका पिएसओले आफैलाई हाने गोली",
-   "imp": 3,
-   "tags": [
-    "Police",
-    "Gunshot",
-    "सुरक्षाकर्मी"
-   ],
-   "cat": "crime",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Weather Forecast: Clear Skies Expected for Three Days",
-   "summary": "Kathmandu. The Department of Hydrology and Meteorology has projected that the weather will remain generally clear in most parts of...",
-   "link": "http://english.ratopati.com/story/87429/meteorologists-say-there-has-been-no-rain-anywhere-in-the-past-24-hours-and-there-is-no-immediate-warning",
-   "source": "Ratopati EN",
-   "ts": 1795156277,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/fullscreen-capture-11202026-121519-pm_kbaOxnGgN7.webp",
-   "lang": "en",
-   "hl": "Weather Forecast: Clear Skies Expected for Three Days",
-   "en": "Weather Forecast: Clear Skies Expected for Three Days",
-   "ne": "Weather Forecast: Clear Skies Expected for Three Days",
-   "imp": 2,
-   "tags": [
-    "WeatherForecast",
-    "Nepal",
-    "मौसम"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Man Rescued from Kidnapping in Sarlahi After Financial Dispute",
-   "summary": "Sarlahi. As the night of Kartik 27 deepened, Fulparasi in Kaudena Rural Municipality-2, Sarlahi, was becoming deserted. Around 10 PM,...",
-   "link": "http://english.ratopati.com/story/87428/dramatic-series-of-kidnappings-in-sarlahi-even-those-who-fabricated-false-stories-of-ransom-are-trapped",
-   "source": "Ratopati EN",
-   "ts": 1795156046,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/911318315_3055293071482541_217914081425013256_n_1JakHwx8We.webp",
-   "lang": "en",
-   "hl": "Man Rescued from Kidnapping in Sarlahi After Financial Dispute",
-   "en": "Man Rescued from Kidnapping in Sarlahi After Financial Dispute",
-   "ne": "Man Rescued from Kidnapping in Sarlahi After Financial Dispute",
-   "imp": 3,
-   "tags": [
-    "Kidnapping",
-    "Sarlahi",
-    "Rescue"
-   ],
-   "cat": "crime",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "Mithila Region Celebrates Dev Uthani Festival with Tulsi-Vishnu Wedding",
-   "summary": "Mahottari. The ancient Mithila region of Madhesh is festive today. The Mithila region is festive today with the belief that...",
-   "link": "http://english.ratopati.com/story/87427/mithila-region-is-festive-today",
-   "source": "Ratopati EN",
-   "ts": 1795155943,
-   "weight": 2,
-   "img": "https://rpcdn.ratopati.com/media/albums/Tulasiko-Motha_Ygj406hYuv.jpg",
-   "lang": "en",
-   "hl": "Mithila Region Celebrates Dev Uthani Festival with Tulsi-Vishnu Wedding",
-   "en": "Mithila Region Celebrates Dev Uthani Festival with Tulsi-Vishnu Wedding",
-   "ne": "Mithila Region Celebrates Dev Uthani Festival with Tulsi-Vishnu Wedding",
-   "imp": 2,
-   "tags": [
-    "Mithila",
-    "DevUthani",
-    "Festival"
-   ],
-   "cat": "culture",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Samsung Nepal and Ncell Collaborate to Expand AI Technology Access",
-   "summary": "Kathmandu. Samsung Nepal and Ncell have collaborated with the objective of expanding access to AI technology, strengthening digital connectivity, and...",
-   "link": "http://english.ratopati.com/story/87426/samsung-and-ncell-collaborate-get-12-months-of-free-data-and-voice-pack-when-you-buy-a-galaxy-phone",
-   "source": "Ratopati EN",
-   "ts": 1795155884,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/ncell_l1UTYVIFjM.webp",
-   "lang": "en",
-   "hl": "Samsung Nepal and Ncell Collaborate to Expand AI Technology Access",
-   "en": "Samsung Nepal and Ncell Collaborate to Expand AI Technology Access",
-   "ne": "Samsung Nepal and Ncell Collaborate to Expand AI Technology Access",
-   "imp": 2,
-   "tags": [
-    "SamsungNepal",
-    "Ncell",
-    "ArtificialIntelligence"
-   ],
-   "cat": "tech",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "Communications Minister Vikram Timalsina States No Cabinet Discussion on Convening Parliament",
@@ -2789,29 +2583,6 @@
    "val": 3,
    "teaser": false,
    "hits": 3
-  },
-  {
-   "title": "वित्तीय सङ्घीयताका लागि गर्नुपर्ने बहस",
-   "summary": "नेपालको सङ्घीयता कार्यान्वयनको एक दशक पुग्न लाग्दा यसको उपलब्धि, कमजोरी र भावी दिशाबारे गम्भीर समीक्षा गर्नुपर्ने बेला आएको छ।...",
-   "link": "https://nagariknews.nagariknetwork.com/blog/debate-for-fiscal-federalism-br-36-43.html",
-   "source": "Nagarik News",
-   "ts": 1795156265,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2024/third-party/1795158400_sanghiyata%2098.jpg",
-   "lang": "ne",
-   "hl": "वित्तीय सङ्घीयताका लागि गर्नुपर्ने बहस",
-   "en": "वित्तीय सङ्घीयताका लागि गर्नुपर्ने बहस",
-   "ne": "वित्तीय सङ्घीयताका लागि गर्नुपर्ने बहस",
-   "imp": 2,
-   "tags": [
-    "Federalism",
-    "Economy",
-    "वित्तीयसंघीयता"
-   ],
-   "cat": "politics",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
   },
   {
    "title": "Actress Pooja Sharma and Singer Ashok Darji Pair Up for New Film 'Seto Coat'",
@@ -4858,30 +4629,6 @@
     "चलचित्र"
    ],
    "cat": "culture",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Chinese Ambassador distributes scholarships to flood-affected students in Nuwakot",
-   "summary": "The Chinese Ambassador to Nepal Zhang Maoming has launched the first distribution ceremony of the 2026 Chinese Ambassador's Scholarship for Disaster-Affected Students in Nuwakot today.During the event, 99 flood-affected...",
-   "link": "https://theannapurnaexpress.com/story/68923",
-   "source": "Annapurna Express",
-   "ts": 1795156276.8404925,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Chinese Ambassador distributes scholarships to flood-affected students in Nuwakot",
-   "en": "Chinese Ambassador distributes scholarships to flood-affected students in Nuwakot",
-   "ne": "Chinese Ambassador distributes scholarships to flood-affected students in Nuwakot",
-   "imp": 2,
-   "tags": [
-    "China",
-    "Nuwakot",
-    "Scholarship",
-    "चीन"
-   ],
-   "cat": "society",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -7821,20 +7568,32 @@
    "val": 2,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "Pakistan Defeats Sri Lanka by 8 Wickets in Second Test",
+   "summary": "Rawalpindi. In the second Test match held at Rawalpindi Cricket Stadium, the home team Pakistan defeated Sri Lanka by 8...",
+   "link": "http://english.ratopati.com/story/87527/pakistan-beat-sri-lanka-by-8-wickets-to-win-the-series",
+   "source": "Ratopati EN",
+   "ts": 1795184551,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/pakistan_D52dIoiyEf.webp",
+   "lang": "en",
+   "hl": "Pakistan Defeats Sri Lanka by 8 Wickets in Second Test",
+   "en": "Pakistan Defeats Sri Lanka by 8 Wickets in Second Test",
+   "ne": "Pakistan Defeats Sri Lanka by 8 Wickets in Second Test",
+   "imp": 1,
+   "tags": [
+    "Pakistan",
+    "SriLanka",
+    "TestCricket"
+   ],
+   "cat": "sports",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1794579672.6632154,
-   "en": "14 Dead, 6 Injured in Bhimfedi EV Microbus Accident in Makwanpur",
-   "ne": "14 Dead, 6 Injured in Bhimfedi EV Microbus Accident in Makwanpur",
-   "link": "http://english.ratopati.com/story/86498/no-standards-no-infrastructure-uncontrolled-ev-speed-on-the-roads",
-   "source": "Ratopati EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "disaster"
-  },
   {
    "ts": 1794581466.8323216,
    "en": "India, China, and Israel Grant Agrément to Three Nepali Ambassadors",
@@ -10872,7 +10631,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1795184512,
+ "updated": 1795185086,
  "pending_since": 1795184456.245477,
  "fb_blocks": [
   1790350880.4125228,
