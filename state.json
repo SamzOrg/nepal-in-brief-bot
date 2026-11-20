@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMiywFBVV95cUxNb3VteGJyN3JGaWVmMEpKZWl4VzRYMzh3Z0lOZldHOWFEd2FVT2U4Wmp2MXJsNFZSdTktZnhWX0Jpd1Q3TUJ5YkhpM0ZubHhhTGtNcTdUb2xFUHNzYkxYal8yN0VvSUtEY0IyTlJnRTFFcVRHZC04Ui1pVUxJcVEza0hQX2c3bTdkVjMxMTViNmxxS0VvMXFUMVc0Qlo3MktBSzVNcVVRU3lDTDRTVGEwYWd0UVNUTzNFWl9KYV9nLU5UVG1LRmJjV3pMaw?oc=5": 1794966648.574005,
   "http://english.ratopati.com/story/87056/kathmandu-ranks-11th-in-the-list-of-most-polluted-cities-in-the-world": 1794967283.564061,
   "https://baahrakhari.com/detail/507581": 1794967283.564061,
   "https://gorkhapatraonline.com/news/229434": 1794967283.564061,
@@ -2007,7 +2006,8 @@
   "https://gorkhapatraonline.com/news/229623": 1795138272.9503133,
   "https://www.setopati.com/social/402968": 1795138852.3990328,
   "http://english.ratopati.com/story/87381/haribodhini-ekadashi-devotees-queue-at-narayan-temples-across-the-country": 1795138852.3990328,
-  "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRTNwNm4zb3FvcFFFUEJEcy1yWUwzT2Z5ZUk1YWJKVDRJaUx2RW9QQ3loUjRfbGIzWWlnZVROcFpiRFIzamZEY1FIQVNvcjhsZDhjaVF2YmtYTElYS090N0dQQUFKRDBjWmNPVEw0OHBVcmF1RkpNQmlHaDRlM09RMkM1cDY1em1nQkQySQ?oc=5": 1795138852.3990328
+  "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRTNwNm4zb3FvcFFFUEJEcy1yWUwzT2Z5ZUk1YWJKVDRJaUx2RW9QQ3loUjRfbGIzWWlnZVROcFpiRFIzamZEY1FIQVNvcjhsZDhjaVF2YmtYTElYS090N0dQQUFKRDBjWmNPVEw0OHBVcmF1RkpNQmlHaDRlM09RMkM1cDY1em1nQkQySQ?oc=5": 1795138852.3990328,
+  "https://nagariknews.nagariknetwork.com/social-affairs/partial-impact-of-cyclone-akwan-95-40.html": 1795139452.3455513
  },
  "queue": [
   {
@@ -2929,30 +2929,6 @@
    "hits": 1
   },
   {
-   "title": "Nepal closer to having FIFA suspension lifted after NSC revokes domestic ban",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUDdOLU9NTjk1N21pNW1Zd2VaZ2plbEVVTGQtZ1V6N0p1UWlmZGZkcDR2dlhNVXlNbEJpZmZlbVNGZTF0WjczSUVzWG9WV3Y1U0dmZWxwTWpBR003MUtaaUhwNHA4SjZBMkg3MmpZaEk0WHg5Y1llUjhnbGFRdGwzTXlRVTlsYUpkYnBXMVNVZ1F1b2FkdEg1dlNwMVZjcE1NOG9OZHNKTFppaF9SMVRfRW1vUm1uS25yQmw0eDBZNA?oc=5",
-   "source": "The Kathmandu Post",
-   "ts": 1795136665,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Nepal closer to having FIFA suspension lifted after NSC revokes domestic ban",
-   "en": "Nepal closer to having FIFA suspension lifted after NSC revokes domestic ban",
-   "ne": "Nepal closer to having FIFA suspension lifted after NSC revokes domestic ban",
-   "imp": 4,
-   "tags": [
-    "FIFA",
-    "Nepal",
-    "NSC",
-    "Football"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "10th National Games to feature 7,260 athletes",
    "summary": "By A Staff Reporter, Kathmandu, Nov. 20: The 10th National Games will feature 7,260 athletes from 11 teams competing acr...",
    "link": "https://risingnepaldaily.com/news/88800",
@@ -3066,7 +3042,7 @@
    "cat": "disaster",
    "val": 1,
    "teaser": true,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "नेपाललाई आइएक्समा विद्युत् बिक्रीको अनुमति",
@@ -6154,9 +6130,20 @@
    "n_ig": 0,
    "brk": false,
    "cat": "sports"
+  },
+  {
+   "ts": 1795139459.2439084,
+   "en": "NSC lifts ANFA ban after eight months, paving way for FIFA suspension lift",
+   "ne": "NSC lifts ANFA ban after eight months, paving way for FIFA suspension lift",
+   "link": "https://kathmandupost.com/football/2026/11/20/nepal-closer-to-having-fifa-suspension-lifted-after-nsc-revokes-domestic-ban",
+   "source": "The Kathmandu Post",
+   "n_fb": 1,
+   "n_ig": 0,
+   "brk": false,
+   "cat": "sports"
   }
  ],
- "updated": 1795138857,
+ "updated": 1795139467,
  "pending_since": 1795138852.3990328,
  "fb_blocks": [
   1790350880.4125228,
