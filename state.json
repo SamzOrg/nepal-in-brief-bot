@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVDF0UTY4ZTFLRzIwMnJVMTJjcS1aWEhyZ0tGTHFsejVfYXR0NnFfSW1VSkFPM2RtZWUwWkRvQWpOQUlpQ3UyQkhqZUJuS2U2QW9YTFBPVnpGSEhQVVBNTXVxMGRldGR3X25JeDJKSFV3ZUhEOFpBY1RocGVtdGZsNWliRktVaTViTEo3YkJ0WXh6cW1KTDJDeDRsalpGaXRmdnE4a2hQcmlxY09EZVlvSGNHR3RzNHVvbVE?oc=5": 1795042256.1700287,
   "https://news.google.com/rss/articles/CBMihAFBVV95cUxQelRZUGhPZXlrV250VF9OX1ZqSVBwcHdPWGNjX0FfclVnSzYwbDl5WThTOFdwVXpUd3VLUTFKSmd4T3pqOGlYUDVFN1JVNG1fblZWeGpld2NGc2Vhb2RKNm8yZnVLbXgxdDBSZGhqU1BGVTNnT3k2RTFabnJhQ0V4Wno1N2k?oc=5": 1795043455.2963526,
   "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4cjA4Mnp5S3hsUFQ3emJmd200Q0oySDZpUWx6RGg1VTd0M2ptVkRUZDdVWjZXZzJhSjZXQ2VNUEh6YktScEJ5NlBpTHUwZF9IUmVFMVNGTzV6R05rQjhobFFDeEdMV21acUdYZQ?oc=5": 1795045261.0270786,
   "https://www.ujyaaloonline.com/detail/133623": 1795046495.695958,
@@ -2195,52 +2194,6 @@
    "hits": 1
   },
   {
-   "title": "'जनताको आलोचना होइन विश्वास जित्नुहोस्'",
-   "summary": "नेकपा एमालेका महासचिव शंकर पोखरेलले जनप्रतिनिधिहरुलाई जनताको आलोचना होइन विश्वास जित्न निर्देशन दिएका छन् ।...",
-   "link": "https://nagariknews.nagariknetwork.com/politics/win-people-s-trust-not-criticism-46-11.html",
-   "source": "Nagarik News",
-   "ts": 1795186854,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1793779969_shankar%20pokhrel.jpg",
-   "lang": "ne",
-   "hl": "'जनताको आलोचना होइन विश्वास जित्नुहोस्'",
-   "en": "'जनताको आलोचना होइन विश्वास जित्नुहोस्'",
-   "ne": "'जनताको आलोचना होइन विश्वास जित्नुहोस्'",
-   "imp": 1,
-   "tags": [
-    "ClimateChange",
-    "Zoonotic",
-    "Bats"
-   ],
-   "cat": "health",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "South Africa: Nearly 600 Women Murdered in Three Months",
-   "summary": "Johannesburg. In South Africa, nearly 600 women were murdered in the three months from July to September this year. The...",
-   "link": "http://english.ratopati.com/story/87533/581-women-murdered-in-south-africa-in-three-months",
-   "source": "Ratopati EN",
-   "ts": 1795186525,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/1f7166f0-e4c2-11f1-87df-79d8910e0f29jpg_78ThpQbnI3.webp",
-   "lang": "en",
-   "hl": "South Africa: Nearly 600 Women Murdered in Three Months",
-   "en": "South Africa: Nearly 600 Women Murdered in Three Months",
-   "ne": "South Africa: Nearly 600 Women Murdered in Three Months",
-   "imp": 2,
-   "tags": [
-    "RSP",
-    "ShriramNeupane",
-    "Controversy"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Today's News in a Nutshell",
    "summary": "KATHMANDU: Khabarhub brings you a glimpse of major developments of the day in Nepal, including politics, business/economy, sports, entertainment, and more. MoFA announces schedule for PM Balen Shah's state visit to...",
    "link": "https://english.khabarhub.com/2026/20/576291/",
@@ -2940,17 +2893,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1794610256.6261737,
-   "en": "41.3% of Parsa Female Health Volunteers Experience Depression",
-   "ne": "41.3% of Parsa Female Health Volunteers Experience Depression",
-   "link": "https://bioengineer.org/over-forty-percent-of-parsa-health-volunteers-experience-depression-in-nepal/",
-   "source": "Bioengineer.org",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "health"
-  },
   {
    "ts": 1794612055.8637779,
    "en": "वातावरण मन्त्रालयको सुस्तताले १३८ भन्दा बढी पूर्वाधार तथा जलविद्युत् आयोजनाका ईआईए थन्किए",
@@ -5988,7 +5930,7 @@
    "cat": "sports"
   }
  ],
- "updated": 1795215067,
+ "updated": 1795215688,
  "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
