@@ -2081,7 +2081,8 @@
   "https://gorkhapatraonline.com/news/229713": 1795177880.3934827,
   "https://nagariknews.nagariknetwork.com/politics/protest-against-rsp-mp-amresh-kumar-by-showing-black-flags-br-19-74.html": 1795177880.3934827,
   "http://english.ratopati.com/story/87506/the-company-registrars-office-waives-off-fines-worth-nearly-rs-10-billion": 1795177880.3934827,
-  "https://gorkhapatraonline.com/news/229712": 1795177880.3934827
+  "https://gorkhapatraonline.com/news/229712": 1795177880.3934827,
+  "https://theannapurnaexpress.com/story/68929": 1795178452.8748927
  },
  "queue": [
   {
@@ -2225,30 +2226,6 @@
    "hits": 1
   },
   {
-   "title": "वैकल्पिक लगानी कोष नियमावलीको मस्यौदा सार्वजनिक",
-   "summary": "नेपाल धितोपत्र बोर्डले 'वैकल्पिक लगानी कोष नियमावली-२०८३' को मस्यौदा सार्वजनिक गरेको छ।",
-   "link": "https://nagariknews.nagariknetwork.com/economy/draft-alternative-investment-fund-regulations-made-public-br-95-18.html",
-   "source": "Nagarik News",
-   "ts": 1795149562,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1793839944_dhito%20patra%2098.jpg",
-   "lang": "ne",
-   "hl": "वैकल्पिक लगानी कोष नियमावलीको मस्यौदा सार्वजनिक",
-   "en": "वैकल्पिक लगानी कोष नियमावलीको मस्यौदा सार्वजनिक",
-   "ne": "वैकल्पिक लगानी कोष नियमावलीको मस्यौदा सार्वजनिक",
-   "imp": 2,
-   "tags": [
-    "AlternativeInvestment",
-    "SEBON",
-    "Regulations",
-    "नियमावली"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "मतदान केन्द्रको पुनरवलोकन सुरु",
    "summary": "बाँके समाचारदाताबाँके, मङ्सिर ४ गते । स्थानीय तहको निर्वाचनलाई लक्ष्य गरी बाँके जिल्लामा मतदान स्थल तथा मतदान केन्द्र पुनरवलोकनको प्रक्रिया सुरु गरिएको छ ।जिल्ला मतदान स्थल तथा मतद...",
    "link": "https://gorkhapatraonline.com/news/229663",
@@ -2269,29 +2246,6 @@
    ],
    "cat": "politics",
    "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "In Quest Of Eurasian Security Architecture",
-   "summary": "The world is undergoing profound changes. The multipolar world is emerging. The Western dominance in the international s...",
-   "link": "https://risingnepaldaily.com/news/88821",
-   "source": "Rising Nepal",
-   "ts": 1795149380,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "In Quest Of Eurasian Security Architecture",
-   "en": "In Quest Of Eurasian Security Architecture",
-   "ne": "In Quest Of Eurasian Security Architecture",
-   "imp": 1,
-   "tags": [
-    "EurasianSecurity",
-    "World",
-    "Security"
-   ],
-   "cat": "world",
-   "val": 2,
    "teaser": false,
    "hits": 1
   },
@@ -6067,7 +6021,7 @@
    "cat": "economy",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "हत्तेरी!",
@@ -10982,7 +10936,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1795177900,
+ "updated": 1795178456,
  "pending_since": 1795177880.3934827,
  "fb_blocks": [
   1790350880.4125228,
