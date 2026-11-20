@@ -2011,7 +2011,8 @@
   "https://nagariknews.nagariknetwork.com/international/what-is-in-the-peace-declaration-issued-after-the-meeting-between-trump-putin-and-xi-15-69.html": 1795140654.7816112,
   "https://gorkhapatraonline.com/news/229632": 1795140654.7816112,
   "https://nagariknews.nagariknetwork.com/Dharma-Saskriti/ladkeshwor-mela-a-confluence-of-faith-and-tradition-br-35-33.html": 1795140654.7816112,
-  "https://gorkhapatraonline.com/news/229631": 1795140654.7816112
+  "https://gorkhapatraonline.com/news/229631": 1795140654.7816112,
+  "https://baahrakhari.com/detail/507805": 1795141253.5160468
  },
  "queue": [
   {
@@ -3119,7 +3120,7 @@
    "cat": "disaster",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "UN Human Rights Chief Demands Release of Former Pakistan PM Imran Khan",
@@ -3166,29 +3167,6 @@
    "val": 3,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "आयोगले थाल्यो स्थानीय निर्वाचनको तयारी, आज दलहरुसँग छलफल",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/507804",
-   "source": "Baahrakhari",
-   "ts": 1795140099,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "आयोगले थाल्यो स्थानीय निर्वाचनको तयारी, आज दलहरुसँग छलफल",
-   "en": "आयोगले थाल्यो स्थानीय निर्वाचनको तयारी, आज दलहरुसँग छलफल",
-   "ne": "आयोगले थाल्यो स्थानीय निर्वाचनको तयारी, आज दलहरुसँग छलफल",
-   "imp": 4,
-   "tags": [
-    "ElectionCommission",
-    "LocalElection",
-    "निर्वाचन"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "म्याकडोनाल्ड्समा यौन दुर्व्यवहार : किशोरीहरू १८ वर्ष पुग्ने प्रतीक्षामा थिए",
@@ -6503,10 +6481,21 @@
    "n_ig": 0,
    "brk": false,
    "cat": "sports"
+  },
+  {
+   "ts": 1795141261.095009,
+   "en": "निर्वाचन आयोगद्वारा स्थानीय तह निर्वाचनको तयारी सुरु, आज दलहरूसँग छलफल",
+   "ne": "निर्वाचन आयोगद्वारा स्थानीय तह निर्वाचनको तयारी सुरु, आज दलहरूसँग छलफल",
+   "link": "https://baahrakhari.com/detail/507804",
+   "source": "Baahrakhari",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "politics"
   }
  ],
- "updated": 1795140663,
- "pending_since": null,
+ "updated": 1795141280,
+ "pending_since": 1795141253.5160468,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
