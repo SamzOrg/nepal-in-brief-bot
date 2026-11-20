@@ -2018,7 +2018,8 @@
   "https://baahrakhari.com/detail/507812": 1795146051.0614834,
   "https://nagariknews.nagariknetwork.com/social-affairs/jeep-accident-in-dhading-one-woman-dies-nine-injured-including-driver-50-44.html": 1795146051.0614834,
   "https://risingnepaldaily.com/news/88809": 1795146051.0614834,
-  "https://www.ujyaaloonline.com/detail/133669": 1795146651.629991
+  "https://www.ujyaaloonline.com/detail/133669": 1795146651.629991,
+  "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMmNBeFFNRFRScTdfU1h0MEFUOE55dGNNZFVvRmNqODNmLXhkY2FEaHdsNzkzS19RRUozaXduTlFqQmRTTHJhckRSbUJEdUJHUWJuVDZrek5KSGpMMzRrTjlpb0FzbnRtcXNMLXBuYWQ5bDB2ai1BN1djYkxpRGRDX0ktaE52ZzdKeFhVNVlJWXk?oc=5": 1795147287.0214572
  },
  "queue": [
   {
@@ -3124,7 +3125,7 @@
    "cat": "sports",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Nepali Youth Demand Climate Justice at COP-31",
@@ -4502,17 +4503,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1794541860.114815,
-   "en": "Maoist Centre Chair Prachanda Departs for Russia for World Conference",
-   "ne": "Maoist Centre Chair Prachanda Departs for Russia for World Conference",
-   "link": "http://english.ratopati.com/story/86411/ncp-coordinator-prachanda-departs-for-russia",
-   "source": "Ratopati EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "politics"
-  },
   {
    "ts": 1794543658.6450522,
    "en": "कैलालीमा मोटरसाइकल र स्कुटर ठोक्किँदा एक जनाको मृत्यु, पाँच घाइते",
@@ -7506,7 +7496,7 @@
    "cat": "sports"
   }
  ],
- "updated": 1795146675,
+ "updated": 1795147292,
  "pending_since": 1795146051.0614834,
  "fb_blocks": [
   1790350880.4125228,
