@@ -1,8 +1,5 @@
 {
  "seen": {
-  "https://english.khabarhub.com/2026/19/576218/": 1795095075.5516355,
-  "https://nagariknews.nagariknetwork.com/sports/npl-chitwan-sets-sudur-target-of-134-runs-to-reach-finals-br-80-69.html": 1795095075.5516355,
-  "https://nagariknews.nagariknetwork.com/international/china-us-and-russia-jointly-issue-peace-declaration-15-99.html": 1795095075.5516355,
   "http://english.ratopati.com/story/87360/sudurpaschim-loses-first-wicket-munsey-out-for-8-runs": 1795095658.83066,
   "https://english.khabarhub.com/2026/19/576222/": 1795095658.83066,
   "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQjliZUpsT1RSbHZ6MWZpcmhyZE96MVZJQ0hHcG1lRHcyay1QMXVVN2I2TmtBMTBQUVM0YnUtdGJYbkZMNGlLSHBoWjRsVnN0SmtTSjYwRmlDM2FUelhWeERLUkhrSnByRXBTdkdPYkJXTTlOMGNCZURMNFZqRnFlX2JqTU9vZ2pnMUdTbW9LYUYwdHdGaFh4dHZlYmUza0huODZZNXB5aHJrYW5Ya3BDVQ?oc=5": 1795095658.83066,
@@ -1929,7 +1926,9 @@
   "http://english.ratopati.com/story/87675/sudurpaschim-needs-to-score-156-runs-to-win-the-title": 1795267250.7985582,
   "http://english.ratopati.com/story/87674/spectators-throng-tribhuvan-university-cricket-ground-to-watch-npl-final": 1795267250.7985582,
   "http://english.ratopati.com/story/87646/software-companys-monopoly-on-cooperative-data-warning-of-legal-battle": 1795267250.7985582,
-  "https://gorkhapatraonline.com/news/229856": 1795267866.867198
+  "https://gorkhapatraonline.com/news/229856": 1795267866.867198,
+  "https://gorkhapatraonline.com/news/229857": 1795268452.0655174,
+  "http://english.ratopati.com/story/87681/big-blow-to-bjp-in-rajasthan-party-defeated-in-cms-home-district-and-ministers-constituency": 1795268452.0655174
  },
  "queue": [
   {
@@ -1997,121 +1996,6 @@
     "Politics"
    ],
    "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "राप्रपामा मभन्दा राम्रो मान्छे नेतृत्वमा आए हुन्थ्यो : राजेन्द्र लिङ्देन",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/507874",
-   "source": "Baahrakhari",
-   "ts": 1795239621,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "राप्रपामा मभन्दा राम्रो मान्छे नेतृत्वमा आए हुन्थ्यो : राजेन्द्र लिङ्देन",
-   "en": "राप्रपामा मभन्दा राम्रो मान्छे नेतृत्वमा आए हुन्थ्यो : राजेन्द्र लिङ्देन",
-   "ne": "राप्रपामा मभन्दा राम्रो मान्छे नेतृत्वमा आए हुन्थ्यो : राजेन्द्र लिङ्देन",
-   "imp": 3,
-   "tags": [
-    "RajendraLingden",
-    "RPP",
-    "Leadership"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "रुपन्देहीमा एक महिनामै दुई सय ३४ वटा सवारी दुर्घटना",
-   "summary": "भुवन कार्कीरुपन्देही, मङ्सिर ५ गते । रुपन्देहीमा एकै महिनामा दुई सय ३४ वटा सवारी दुर्घटना भएका छन् । जिल्ला प्रहरी कार्यालय रूपन्देहीको कात्तिक महिनाको तथ्यांकअनुसार ती दुर्घटनामा...",
-   "link": "https://gorkhapatraonline.com/news/229787",
-   "source": "Gorkhapatra",
-   "ts": 1795239549,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/392456/conversions/accident-original.jpg",
-   "lang": "ne",
-   "hl": "रुपन्देहीमा एक महिनामै दुई सय ३४ वटा सवारी दुर्घटना",
-   "en": "रुपन्देहीमा एक महिनामै दुई सय ३४ वटा सवारी दुर्घटना",
-   "ne": "रुपन्देहीमा एक महिनामै दुई सय ३४ वटा सवारी दुर्घटना",
-   "imp": 3,
-   "tags": [
-    "Rupandehi",
-    "RoadAccident",
-    "Traffic"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "गीतकार नानुमैया दाहालकाे 'हरेक दिन जिन्दगीको' सार्वजनिक",
-   "summary": "खोटाङमा जन्मिएर हाल विराटनगरमा बसोबास गर्दै आएकी स्रष्टा नानुमैया दाहालको नयाँ गीत 'हरेक दिन जिन्दगीको' सार्वजनिक भएको छ।...",
-   "link": "https://nagariknews.nagariknetwork.com/arts/lyricist-dahal-brings-every-day-of-life-10-43.html",
-   "source": "Nagarik News",
-   "ts": 1795239237,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2024/third-party/1795239049_geet%20news%2098.jpg",
-   "lang": "ne",
-   "hl": "गीतकार नानुमैया दाहालकाे 'हरेक दिन जिन्दगीको' सार्वजनिक",
-   "en": "गीतकार नानुमैया दाहालकाे 'हरेक दिन जिन्दगीको' सार्वजनिक",
-   "ne": "गीतकार नानुमैया दाहालकाे 'हरेक दिन जिन्दगीको' सार्वजनिक",
-   "imp": 2,
-   "tags": [
-    "Music",
-    "SongRelease",
-    "NanumaiyaDahal"
-   ],
-   "cat": "culture",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Acting Mayor Sunita Dangol States New Residences for Ganesh and Bhairav Will Aid Living Heritage Preservation",
-   "summary": "Kathmandu. Acting Chief of Kathmandu Metropolitan City, Sunita Dangol, has stated that the construction of separate residences for Shri Ganesh...",
-   "link": "http://english.ratopati.com/story/87574/building-separate-residences-for-ganesh-and-bhairav-contributes-to-the-preservation-of-living-heritage-acting-chief-dangol",
-   "source": "Ratopati EN",
-   "ts": 1795239622,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/sunita-dangol_b5uSuiGj1d.webp",
-   "lang": "en",
-   "hl": "Acting Mayor Sunita Dangol States New Residences for Ganesh and Bhairav Will Aid Living Heritage Preservation",
-   "en": "Acting Mayor Sunita Dangol States New Residences for Ganesh and Bhairav Will Aid Living Heritage Preservation",
-   "ne": "Acting Mayor Sunita Dangol States New Residences for Ganesh and Bhairav Will Aid Living Heritage Preservation",
-   "imp": 3,
-   "tags": [
-    "SunitaDangol",
-    "Heritage",
-    "Kathmandu"
-   ],
-   "cat": "culture",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Group Stranded in Jungle After Failing to Find Water for Cooking",
-   "summary": "It was getting dark. Drizzle was falling from the sky. The jungle path was cold and muddy, and the GPS...",
-   "link": "http://english.ratopati.com/story/87573/it-seems-like-the-day-has-arrived",
-   "source": "Ratopati EN",
-   "ts": 1795239070,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/story-2_4pLzWvzHdw.webp",
-   "lang": "en",
-   "hl": "Group Stranded in Jungle After Failing to Find Water for Cooking",
-   "en": "Group Stranded in Jungle After Failing to Find Water for Cooking",
-   "ne": "Group Stranded in Jungle After Failing to Find Water for Cooking",
-   "imp": 2,
-   "tags": [
-    "Jungle",
-    "Rescue",
-    "Stranded"
-   ],
-   "cat": "society",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -6506,7 +6390,7 @@
    "cat": "sports",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Rupandehi Releases Fish Fry to Combat Declining Numbers",
@@ -6899,6 +6783,29 @@
     "DataConflict"
    ],
    "cat": "economy",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Congress Defeats BJP in Rajasthan District Council Elections",
+   "summary": "Rajasthan. The results of the District Council and Panchayat Samiti elections held in Rajasthan, India have been released. Out of...",
+   "link": "http://english.ratopati.com/story/87681/big-blow-to-bjp-in-rajasthan-party-defeated-in-cms-home-district-and-ministers-constituency",
+   "source": "Ratopati EN",
+   "ts": 1795268083,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/8960806f-bd5a-4eae-9edd-06875e9f68c6jpg_U0Ny9oOCxn.webp",
+   "lang": "en",
+   "hl": "Congress Defeats BJP in Rajasthan District Council Elections",
+   "en": "Congress Defeats BJP in Rajasthan District Council Elections",
+   "ne": "Congress Defeats BJP in Rajasthan District Council Elections",
+   "imp": 1,
+   "tags": [
+    "Congress",
+    "BJP",
+    "Rajasthan"
+   ],
+   "cat": "politics",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -9931,7 +9838,7 @@
    "cat": "politics"
   }
  ],
- "updated": 1795267870,
+ "updated": 1795268457,
  "pending_since": 1795267866.867198,
  "fb_blocks": [
   1790350880.4125228,
