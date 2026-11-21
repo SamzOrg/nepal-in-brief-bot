@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMingFBVV95cUxOb2FveU1zUEExVmpfSERFaVZzTVFXMTNKUmR6MDhzOHZHQmF2NDRYcmdMN0IyWE5VazdHWFVwYXJuQlRqT0tManBPR1dxWm5lZk55ZldwdG5kZFh0UERDRjhyWFRmUXhxUi1UZ05LdTcxUDB2UFpnLVYzRGNXTjNzM3RsTmxrR2c3Y3pBUEMwdlVsMExiLWhFelJIUGxCZw?oc=5": 1795058455.4883354,
   "https://gorkhapatraonline.com/news/229540": 1795059078.2348795,
   "https://www.ujyaaloonline.com/detail/133632": 1795059655.5196223,
   "http://english.ratopati.com/story/87227/ncp-coordinator-prachanda-returns-home": 1795059655.5196223,
@@ -2175,27 +2174,6 @@
    "val": 2,
    "teaser": false,
    "hits": 3
-  },
-  {
-   "title": "Tag",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1iVksxaEtic0JfSkxJYVgzVklYQ1FpVnFQWW5YOVgtYVl2dk1LMzl0QU1JMmpldi1pRFNhTFJqSThiSUtfSU9obWFnbGtBcGxqUk1sMGdGRVlvQU14NzFidno0WjFoT2N2RXc?oc=5",
-   "source": "myRepublica",
-   "ts": 1795202871,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Tag",
-   "en": "Tag",
-   "ne": "Tag",
-   "imp": 1,
-   "tags": [
-    "Tag"
-   ],
-   "cat": "other",
-   "val": 1,
-   "teaser": false,
-   "hits": 1
   },
   {
    "title": "From Islands to the Himalayas: UN Resident Coordinators Bring Urgency to Antalya",
@@ -4402,17 +4380,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1794626455.1934555,
-   "en": "मिथिला क्षेत्रमा छठ पर्वको दोस्रो दिन आज 'खरना' विधि गरिँदै",
-   "ne": "मिथिला क्षेत्रमा छठ पर्वको दोस्रो दिन आज 'खरना' विधि गरिँदै",
-   "link": "https://www.setopati.com/social/402532",
-   "source": "Setopati",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "culture"
-  },
   {
    "ts": 1794628275.378742,
    "en": "Youth Arrested in Ilam Over 66-Year-Old Woman's Murder",
@@ -7450,7 +7417,7 @@
    "cat": "economy"
   }
  ],
- "updated": 1795231287,
+ "updated": 1795231871,
  "pending_since": 1795231250.1499193,
  "fb_blocks": [
   1790350880.4125228,
