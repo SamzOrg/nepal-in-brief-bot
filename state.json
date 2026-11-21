@@ -2054,7 +2054,10 @@
   "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVWFuUEFxTTg4My1EWG9HbFlYR2xCOTV0aGZlaFpqMDdrdXYzRkhHNlpUUS1HUndqb3ptTHpfNV9mdGtrUTdMaTl2dzIzbXhJbWpVOEMzZmhfNFpJV0dMbHVWSl9NTHE4RmRaZlVZZ0xFVW1ERFlsaFZ4eVRJM09DMW9aYjZnMFRDeDBnTk94TmhJNnljV01PSFc5dTFXU1k?oc=5": 1795240878.3411834,
   "https://www.ujyaaloonline.com/detail/133708": 1795241453.8807032,
   "https://www.ujyaaloonline.com/detail/133707": 1795241453.8807032,
-  "http://english.ratopati.com/story/87579/red-cross-membership-can-now-be-purchased-through-the-mobile-app": 1795241453.8807032
+  "http://english.ratopati.com/story/87579/red-cross-membership-can-now-be-purchased-through-the-mobile-app": 1795241453.8807032,
+  "https://news.google.com/rss/articles/CBMibEFVX3lxTE5jRVRIdG9LYzlMTGVJSEJPNEctNkl6ZDM0eG9Xb2FSMVVGekdoZ2pnR0pfN2VSOUxsVGhvSHZMMVR5Nk9pRlQ0bHJCaTAzN08tNGZyM0FIQjBtb3otbVVHazVEMThQUzBkd0Y5aQ?oc=5": 1795242049.6440086,
+  "https://english.khabarhub.com/2026/21/576410/": 1795242049.6440086,
+  "https://kathmandupost.com/national/2026/11/21/no-indian-minister-to-attend-india-nepal-business-roundtable-during-shah-s-state-visit": 1795242049.6440086
  },
  "queue": [
   {
@@ -3147,28 +3150,6 @@
    ],
    "cat": "other",
    "val": 1,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "RSP joins local polls race as old parties move to guard their base",
-   "summary": "The party has opened its Candidate Club for aspiring candidates, while the Congress, the UML and the Nepali Communist Party seek to retain and expand their local electoral base.",
-   "link": "https://kathmandupost.com/politics/2026/11/21/rsp-joins-local-polls-race-as-old-parties-move-to-guard-their-base",
-   "source": "Kathmandu Post",
-   "ts": 1795212655.461652,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "RSP joins local polls race as old parties move to guard their base",
-   "en": "RSP joins local polls race as old parties move to guard their base",
-   "ne": "RSP joins local polls race as old parties move to guard their base",
-   "imp": 3,
-   "tags": [
-    "RSP",
-    "LocalElections"
-   ],
-   "cat": "politics",
-   "val": 2,
    "teaser": false,
    "hits": 1
   },
@@ -4870,29 +4851,6 @@
    "val": 3,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "One Dead, Four Injured in Two Separate Accidents in Sunsari",
-   "summary": "Sunsari. One person died and four people were injured in two separate accidents in the district last night. Jayaprakash Yadav,...",
-   "link": "http://english.ratopati.com/story/87567/one-dead-four-injured-in-road-accident",
-   "source": "Ratopati EN",
-   "ts": 1795237307,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/accident1_0hvvweueaj_opitpBEPf3.webp",
-   "lang": "en",
-   "hl": "One Dead, Four Injured in Two Separate Accidents in Sunsari",
-   "en": "One Dead, Four Injured in Two Separate Accidents in Sunsari",
-   "ne": "One Dead, Four Injured in Two Separate Accidents in Sunsari",
-   "imp": 3,
-   "tags": [
-    "Accident",
-    "Sunsari",
-    "दुर्घटना"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "Interim Committee of Nepal Video Journalists Association Formed",
@@ -8536,9 +8494,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "sports"
+  },
+  {
+   "ts": 1795242057.6335068,
+   "en": "One Dead, Four Injured in Two Separate Motorcycle Accidents in Sunsari",
+   "ne": "One Dead, Four Injured in Two Separate Motorcycle Accidents in Sunsari",
+   "link": "http://english.ratopati.com/story/87567/one-dead-four-injured-in-road-accident",
+   "source": "Ratopati EN",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "disaster"
   }
  ],
- "updated": 1795241460,
+ "updated": 1795242070,
  "pending_since": 1795240878.3411834,
  "fb_blocks": [
   1790350880.4125228,
