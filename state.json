@@ -1922,30 +1922,6 @@
  },
  "queue": [
   {
-   "title": "रिजन ढकालले पाए ओमोडा कार र पल्सर बाइक",
-   "summary": "नेपाल प्रिमियर लिग (एनपिएल) को तेस्रो सिजनमा चितवन राइनोजका बलर रिजन ढकाल सर्वोत्कृष्ट खेलाडी र उत्कृष्ट बलर घोषित भएका छन्।...",
-   "link": "https://nagariknews.nagariknetwork.com/sports/region-dhakal-received-an-omoda-car-and-a-pulsar-bike-87-10.html",
-   "source": "Nagarik News",
-   "ts": 1795274751,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1795274581_41.png",
-   "lang": "ne",
-   "hl": "रिजन ढकालले पाए ओमोडा कार र पल्सर बाइक",
-   "en": "रिजन ढकालले पाए ओमोडा कार र पल्सर बाइक",
-   "ne": "रिजन ढकालले पाए ओमोडा कार र पल्सर बाइक",
-   "imp": 2,
-   "tags": [
-    "RegionDhakal",
-    "Cricket",
-    "NPL",
-    "रिजनढकाल"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "रिजन ढकाल एनपीएल ३ का सर्वोत्कृष्ट बलर",
    "summary": "",
    "link": "https://baahrakhari.com/detail/507944",
@@ -2498,17 +2474,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1794698465.0111756,
-   "en": "बुढीगण्डकी जलविद्युत् आयोजनामा लगानी गर्न युएईसमक्ष नेपालको प्रस्ताव",
-   "ne": "बुढीगण्डकी जलविद्युत् आयोजनामा लगानी गर्न युएईसमक्ष नेपालको प्रस्ताव",
-   "link": "https://nagariknews.nagariknetwork.com/politics/nepal-s-proposal-to-the-uae-to-invest-in-the-budhigandaki-hydropower-project-50-53.html",
-   "source": "Nagarik News",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "economy"
-  },
   {
    "ts": 1794700252.3644886,
    "en": "Chhath Festival Celebrated with Devotion and Enthusiasm in Nepal",
@@ -5535,7 +5500,7 @@
    "cat": "politics"
   }
  ],
- "updated": 1795303278,
+ "updated": 1795303870,
  "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
