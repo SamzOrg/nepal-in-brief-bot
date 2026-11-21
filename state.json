@@ -1,9 +1,5 @@
 {
  "seen": {
-  "https://baahrakhari.com/detail/507769": 1795094464.716937,
-  "https://theannapurnaexpress.com/story/68894": 1795094464.716937,
-  "https://theannapurnaexpress.com/story/68893": 1795094464.716937,
-  "https://theannapurnaexpress.com/story/68892": 1795094464.716937,
   "https://english.khabarhub.com/2026/19/576218/": 1795095075.5516355,
   "https://nagariknews.nagariknetwork.com/sports/npl-chitwan-sets-sudur-target-of-134-runs-to-reach-finals-br-80-69.html": 1795095075.5516355,
   "https://nagariknews.nagariknetwork.com/international/china-us-and-russia-jointly-issue-peace-declaration-15-99.html": 1795095075.5516355,
@@ -1932,7 +1928,8 @@
   "https://gorkhapatraonline.com/news/229850": 1795267250.7985582,
   "http://english.ratopati.com/story/87675/sudurpaschim-needs-to-score-156-runs-to-win-the-title": 1795267250.7985582,
   "http://english.ratopati.com/story/87674/spectators-throng-tribhuvan-university-cricket-ground-to-watch-npl-final": 1795267250.7985582,
-  "http://english.ratopati.com/story/87646/software-companys-monopoly-on-cooperative-data-warning-of-legal-battle": 1795267250.7985582
+  "http://english.ratopati.com/story/87646/software-companys-monopoly-on-cooperative-data-warning-of-legal-battle": 1795267250.7985582,
+  "https://gorkhapatraonline.com/news/229856": 1795267866.867198
  },
  "queue": [
   {
@@ -2118,29 +2115,6 @@
    "val": 3,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "Opposition Leader Liberman Confident Ultra-Orthodox Parties Will Join Eisenkot Government",
-   "summary": "Israel. Opposition leader Avigdor Liberman has said that both ultra-Orthodox Jewish parties (Haredi) will participate in the upcoming government to...",
-   "link": "http://english.ratopati.com/story/87572/lieberman-confident-of-forming-coalition-with-haredi-party",
-   "source": "Ratopati EN",
-   "ts": 1795238866,
-   "weight": 2,
-   "img": "https://rpcdn.ratopati.com/media/albums/avigdor_lieberman_kSJnMjpMQs.jpg",
-   "lang": "en",
-   "hl": "Opposition Leader Liberman Confident Ultra-Orthodox Parties Will Join Eisenkot Government",
-   "en": "Opposition Leader Liberman Confident Ultra-Orthodox Parties Will Join Eisenkot Government",
-   "ne": "Opposition Leader Liberman Confident Ultra-Orthodox Parties Will Join Eisenkot Government",
-   "imp": 1,
-   "tags": [
-    "Israel",
-    "Politics",
-    "Liberman"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "Prachanda Stresses Social Media Use in Upcoming Elections",
@@ -6671,7 +6645,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "ओलम्पिक टर्च दैलेखको हजारौं वर्ष पुरानो प्राकृतिक ज्वालाबाट बाल्न सुझाव",
@@ -6931,17 +6905,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1794662459.1788313,
-   "en": "एन्फाद्वारा अर्ली इलेक्सनको निर्णय खारेज, नियमित अधिवेशन प्रक्रिया अगाडि बढाउने निर्णय",
-   "ne": "एन्फाद्वारा अर्ली इलेक्सनको निर्णय खारेज, नियमित अधिवेशन प्रक्रिया अगाडि बढाउने निर्णय",
-   "link": "https://www.ujyaaloonline.com/detail/133493",
-   "source": "Ujyaalo",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "sports"
-  },
   {
    "ts": 1794664258.250606,
    "en": "Kaski Police Take 44 People Into Custody During Lakeside Operation",
@@ -9968,8 +9931,8 @@
    "cat": "politics"
   }
  ],
- "updated": 1795267287,
- "pending_since": null,
+ "updated": 1795267870,
+ "pending_since": 1795267866.867198,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
