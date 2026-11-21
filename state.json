@@ -2108,28 +2108,6 @@
    "hits": 1
   },
   {
-   "title": "Supreme Court Rejects Law Students' Writ Against Tribhuvan University's AI Report Policy",
-   "summary": "Kathmandu. The Supreme Court has rejected the writ petition filed by law students against Tribhuvan University for rejecting research papers...",
-   "link": "http://english.ratopati.com/story/87602/supreme-court-dismisses-writ-petition-filed-alleging-rejection-of-thesis-based-on-ai-report",
-   "source": "Ratopati EN",
-   "ts": 1795245495,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/supreme_court_by_subash_2_zjyyrbs4rc_htfqd5jqns_MuSnJbEeF8.jpg",
-   "lang": "en",
-   "hl": "Supreme Court Rejects Law Students' Writ Against Tribhuvan University's AI Report Policy",
-   "en": "Supreme Court Rejects Law Students' Writ Against Tribhuvan University's AI Report Policy",
-   "ne": "Supreme Court Rejects Law Students' Writ Against Tribhuvan University's AI Report Policy",
-   "imp": 2,
-   "tags": [
-    "SupremeCourt",
-    "TribhuvanUniversity"
-   ],
-   "cat": "education",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "भारतमा दूषित मदिरा सेवनबाट ११ जनाको मृत्यु",
    "summary": "नयाँदिल्ली, मङ्सिर ५ गते । भारतको उत्तरपूर्वी राज्य मणिपुरमा दूषित मदिरा सेवनबाट कम्तीमा ११ जनाको मृत्यु भएको छ भने १८० भन्दा बढी बिरामी अस्पताल भर्ना भएका छन् ।मदिरा सेवनपछि मानिस...",
    "link": "https://gorkhapatraonline.com/news/229803",
@@ -6206,30 +6184,6 @@
    "hits": 1
   },
   {
-   "title": "NEA seeks 150 MW power deal with India as dry-season supply tightens",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTFFtYlFCQXpNelhvWjNsSDdFaUV5YUdGS1dDMDZ1NmxFb2gwVmFsMmJZZEJocjAtSGRvWGNsNElxdkFuRlE1Uk5MV3JOdWtKVk4zVDBuMXkxVlZnU01fS0VMN1o1TDdrVFp5TzZJMDR5NTEtbWVncjJqR1c0YXBfU1U5emgzTEt6VHJSaXBDR1pKeFA4VTRHTEdFV0FTTUk3R05kejJMWDVtcUZtMW9ENG0wNUN2RExoR1duWFBmVU4?oc=5",
-   "source": "myRepublica",
-   "ts": 1795269660,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "NEA seeks 150 MW power deal with India as dry-season supply tightens",
-   "en": "NEA seeks 150 MW power deal with India as dry-season supply tightens",
-   "ne": "NEA seeks 150 MW power deal with India as dry-season supply tightens",
-   "imp": 4,
-   "tags": [
-    "NEA",
-    "India",
-    "PowerDeal",
-    "Electricity"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Gyanendra Shahi Announces Candidacy for Rastriya Prajatantra Party Chairman",
    "summary": "Gyanendra Shahi, Chief Whip, Spokesperson, and Member of Parliament of the Rastriya Prajatantra Party (RPP), has announced his candidacy for...",
    "link": "http://english.ratopati.com/story/87638/this-is-not-a-desire-for-position-it-is-a-fight-for-existence",
@@ -6484,30 +6438,6 @@
     "Disarmament"
    ],
    "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Sudurpaschim crowned NPL champions after dominant final win",
-   "summary": "George Munsey's spectacular century powers Sudurpaschim to a 10-wicket victory over Lumbini Lions in the final of the Nepal Premier League's third season.",
-   "link": "https://kathmandupost.com/visual-stories/2026/11/21/sudurpaschim-crowned-npl-champions-after-dominant-final-win",
-   "source": "Kathmandu Post",
-   "ts": 1795259466.7137992,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Sudurpaschim crowned NPL champions after dominant final win",
-   "en": "Sudurpaschim crowned NPL champions after dominant final win",
-   "ne": "Sudurpaschim crowned NPL champions after dominant final win",
-   "imp": 4,
-   "tags": [
-    "Sudurpaschim",
-    "NPL",
-    "Cricket",
-    "क्रिकेट"
-   ],
-   "cat": "sports",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -9538,9 +9468,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "sports"
+  },
+  {
+   "ts": 1795274459.8604913,
+   "en": "NEA seeks 150 MW power deal with India for dry season",
+   "ne": "NEA seeks 150 MW power deal with India for dry season",
+   "link": "https://myrepublica.nagariknetwork.com/news/nea-seeks-150-mw-power-deal-with-india-as-dry-season-supply-tightens-33-58.html",
+   "source": "myRepublica",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "economy"
   }
  ],
- "updated": 1795274260,
+ "updated": 1795274472,
  "pending_since": 1795272656.3234766,
  "fb_blocks": [
   1790350880.4125228,
