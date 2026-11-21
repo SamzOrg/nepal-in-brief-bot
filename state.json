@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://gorkhapatraonline.com/news/229591": 1795083666.716073,
-  "https://baahrakhari.com/detail/507748": 1795083666.716073,
   "http://english.ratopati.com/story/87319/prime-ministers-visit-to-india-seeks-breakthrough-in-energy-sector-demands-to-facilitate-10000-mw-export": 1795084280.4223711,
   "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZ045WUxpVXQ1YVFoZndiOHZGY01fUktsOXdpU1hHalpiejZpbl9XRDMzdTVYNFZtdkctMzV3WnlNTDNmc245Z2laZlY1N2dZVUJiRHlYVHpaTEFuTzRJSkNydVZFdWpYUXJsb2Y4UXpjTjJRTzN6ZjRpUkk2TXR5OGFpV18ybzNPMTltNUd2RFMxZ1VVQXRJVHlyaWxSZHFONnc?oc=5": 1795084280.4223711,
   "https://news.google.com/rss/articles/CBMifkFVX3lxTE41Rk9HMHpLSERwcl9OQ0wzd3pzY3Ixd2RETVpVMTBLWngzRmh0LWt2RmVqcUtmaWxTak1BczBTdThBa201N2NlREVzX2JaSFBqdU9iZGMzb3AzQlkxR2lkR1RWeEltSHpZR1hmaE5UYWMwblhmeFpWeTF3Vi1LQQ?oc=5": 1795084280.4223711,
@@ -1977,7 +1975,8 @@
   "https://kathmandupost.com/sports/2026/11/21/santoshi-shrestha-wins-two-golds-with-course-records-in-maldives": 1795255856.0860436,
   "https://www.ujyaaloonline.com/detail/133715": 1795256465.357381,
   "https://gorkhapatraonline.com/news/229825": 1795256465.357381,
-  "https://gorkhapatraonline.com/news/229824": 1795256465.357381
+  "https://gorkhapatraonline.com/news/229824": 1795256465.357381,
+  "https://baahrakhari.com/detail/507920": 1795257069.9842622
  },
  "queue": [
   {
@@ -2048,28 +2047,6 @@
    "hits": 1
   },
   {
-   "title": "आज विश्व मत्स्य दिवस, नेपालमा पनि विभिन्न कार्यक्रम गरी मनाइँदै",
-   "summary": "नेपालमा माछाको उत्पादन वृद्धि, पोषण र स्वास्थ्य सुधार तथा खाद्य सुरक्षामा जोड दिएर दिवस मनाउन लागिएको हो ।",
-   "link": "https://www.ujyaaloonline.com/detail/133698",
-   "source": "Ujyaalo",
-   "ts": 1795227990,
-   "weight": 2,
-   "img": "https://www.ujyaaloonline.com/uploads/posts/Capture-1795227839.JPG",
-   "lang": "ne",
-   "hl": "आज विश्व मत्स्य दिवस, नेपालमा पनि विभिन्न कार्यक्रम गरी मनाइँदै",
-   "en": "आज विश्व मत्स्य दिवस, नेपालमा पनि विभिन्न कार्यक्रम गरी मनाइँदै",
-   "ne": "आज विश्व मत्स्य दिवस, नेपालमा पनि विभिन्न कार्यक्रम गरी मनाइँदै",
-   "imp": 2,
-   "tags": [
-    "WorldFisheriesDay",
-    "मत्स्यदिवस"
-   ],
-   "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
    "title": "मृगस्थलीका मृग",
    "summary": "",
    "link": "https://baahrakhari.com/detail/507895",
@@ -2115,28 +2092,6 @@
    "hits": 1
   },
   {
-   "title": "सिसिफस हाँसिरहेका थिए",
-   "summary": "राम्रो लेख्न सकिएको हुन्थ्यो भने यतिका लेखिरहनुपर्ने थिएन। अस्ति मात्र गन्ती गर्दा एक सय एघारवटा कथा पुगेका थिए, अर्थात् यो पनि कथा भइगयो भने एक सय बाह्रौं कथा हुनेछ।...",
-   "link": "https://nagariknews.nagariknetwork.com/arts/sisyphus-was-laughing-62-39.html",
-   "source": "Nagarik News",
-   "ts": 1795227999,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1795228144_foto%20%20sisifas%2098.jpg",
-   "lang": "ne",
-   "hl": "सिसिफस हाँसिरहेका थिए",
-   "en": "सिसिफस हाँसिरहेका थिए",
-   "ne": "सिसिफस हाँसिरहेका थिए",
-   "imp": 1,
-   "tags": [
-    "Literature",
-    "साहित्य"
-   ],
-   "cat": "culture",
-   "val": 1,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "मानव जीवनका मार्ग",
    "summary": "मानव जीवन केवल जन्म, वृद्धि, सङ्घर्ष, प्राप्ति र मृत्युको जैविक यात्रा मात्र होइन; यो चेतनाको पनि निरन्तरता हो । मानिस बाहिरी संसारसँग जोडिन्छ, त्यसलाई अनुभव गर्छ, सुखदु:ख प्राप्त...",
    "link": "https://gorkhapatraonline.com/news/229757",
@@ -2150,29 +2105,6 @@
    "ne": "मानव जीवनका मार्ग",
    "imp": 1,
    "tags": [
-    "Life",
-    "जीवन"
-   ],
-   "cat": "society",
-   "val": 1,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "दीर्घायुसँगै अर्थपूर्ण जीवन",
-   "summary": "मानव सभ्यता यतिबेला इतिहासकै अभूतपूर्व जनसाङ्खिकीय रूपान्तरणको चरणबाट गुज्रिरहेको छ । आधुनिक चिकित्साको विकास, जनस्वास्थ्य सेवाको विस्तार, पोषणमा सुधार तथा जीवनशैलीमा आएको सकारात्म...",
-   "link": "https://gorkhapatraonline.com/news/229756",
-   "source": "Gorkhapatra",
-   "ts": 1795227898,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/392421/conversions/4566-original.jpg",
-   "lang": "ne",
-   "hl": "दीर्घायुसँगै अर्थपूर्ण जीवन",
-   "en": "दीर्घायुसँगै अर्थपूर्ण जीवन",
-   "ne": "दीर्घायुसँगै अर्थपूर्ण जीवन",
-   "imp": 1,
-   "tags": [
-    "Longevity",
     "Life",
     "जीवन"
    ],
@@ -2622,7 +2554,7 @@
    "cat": "disaster",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Mostly clear weather expected across Nepal",
@@ -9489,7 +9421,7 @@
    "cat": "sports"
   }
  ],
- "updated": 1795256483,
+ "updated": 1795257074,
  "pending_since": 1795255277.4072876,
  "fb_blocks": [
   1790350880.4125228,
