@@ -1,6 +1,5 @@
 {
  "seen": {
-  "http://english.ratopati.com/story/87277/vice-president-thapa-concludes-that-the-party-suffered-defeat-in-the-election-due-to-weak-internal-unity": 1795072253.9617279,
   "https://news.google.com/rss/articles/CBMixAFBVV95cUxOT0FPbHlBQ3lGdEE2a29WdFhFVVlqTHZqd1ozX0pJcWJPT2FaWlNVazdTQVgwTVp2Qm10MTlDUXU2d2pjOUxNenhMazdJZU9fbTY0VWhyMmxId2tDQ3ItT3ZRa0VSeEdDa0tJUG5vSVdyejhtanBGRXAyMkxCaXRQbmdtN0ROVVY5YzhrVHhKM2U5TGJ4T0FranpMbjdXM0tXZW9Bdm92Q3pxZXNvQ01lWXpiMDYzMVQ5eklMc01OU25iUVll?oc=5": 1795072864.7907348,
   "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaXpUWVgtVzV5Z2o2eTE2ekFpMGhZb2JfMXUxb2tpVWhRanpScHFqY2tONDE0UHhTZU1YRnZlanNpZVJqVjFpVFlOOEVnMGhPUTh4dGlFUU9CNlJXTWttWjZ5YnBabVBqVmhuaExLaW8tUWk0M2F4ZUh1SGk2TFpTdFFOV0NoWDFfcmY1WW5SMERPVXRVQmQ1Y2VXY1dOYTMwZUdCTmdaVk4zRDYycC1B?oc=5": 1795072864.7907348,
   "https://www.setopati.com/politics/402909": 1795072864.7907348,
@@ -2045,7 +2044,8 @@
   "http://english.ratopati.com/story/87589/four-arrested-for-hacking-into-facebook-accounts-of-people-living-abroad-defrauding-them-of-millions": 1795245049.7839663,
   "https://nagariknews.nagariknetwork.com/arts/why-was-miss-universe-vietnam-s-crown-taken-away-in-48-days-91-87.html": 1795245049.7839663,
   "https://gorkhapatraonline.com/news/229792": 1795245049.7839663,
-  "https://gorkhapatraonline.com/news/229791": 1795245049.7839663
+  "https://gorkhapatraonline.com/news/229791": 1795245049.7839663,
+  "http://english.ratopati.com/story/87599/the-peace-process-cannot-be-ignored-as-a-burden-of-the-past-pradeep-gyawali": 1795245651.3422205
  },
  "queue": [
   {
@@ -3693,28 +3693,6 @@
    ],
    "cat": "world",
    "val": 1,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Who gets blamed when families fall apart in Nepali films?",
-   "summary": "More often than not, it is the women. Filmmakers cast daughters-in-law and mothers-in-law as the source of domestic discord, rarely examining the men and social expectations behind it.",
-   "link": "https://kathmandupost.com/art-culture/2026/11/21/who-gets-blamed-when-families-fall-apart-in-nepali-films",
-   "source": "Kathmandu Post",
-   "ts": 1795216850.6162255,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Who gets blamed when families fall apart in Nepali films?",
-   "en": "Who gets blamed when families fall apart in Nepali films?",
-   "ne": "Who gets blamed when families fall apart in Nepali films?",
-   "imp": 2,
-   "tags": [
-    "NepaliFilms",
-    "Family"
-   ],
-   "cat": "culture",
-   "val": 2,
    "teaser": false,
    "hits": 1
   },
@@ -5909,29 +5887,6 @@
    "cat": "society",
    "val": 1,
    "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "Nepal PM's India visit hints at strategic reset with damage control?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNHNFeVJYaGJkdWllMEdDT2VuUmx5RmxSMUVCUldCeVdkQllmZGRWbTZNNVRmNUtLeTd0RVk3YkttbWRlYWdFQlRaaTBMMzJYaDE2TjJLZ0llQjBfaF9CRHVCUjFwRGc5by1halVkd0puWFg5MG1uOTZOVG9rQlNRYUZHTkZpeHFDZ3VnOTNOZWM0MjhnUDNISjFrX2E0bEtuRWhSVlFlenJjUDA?oc=5",
-   "source": "https://whispersinthecorridors.net/",
-   "ts": 1795242438,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Nepal PM's India visit hints at strategic reset with damage control?",
-   "en": "Nepal PM's India visit hints at strategic reset with damage control?",
-   "ne": "Nepal PM's India visit hints at strategic reset with damage control?",
-   "imp": 4,
-   "tags": [
-    "NepalIndia",
-    "ForeignPolicy",
-    "PrimeMinister"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
    "hits": 1
   },
   {
@@ -9200,10 +9155,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "crime"
+  },
+  {
+   "ts": 1795245658.0938735,
+   "en": "Nepal PM Balendra Shah to visit India Nov 22-23 for first trip",
+   "ne": "Nepal PM Balendra Shah to visit India Nov 22-23 for first trip",
+   "link": "https://whispersinthecorridors.net/news/nepal-pm-s-india-visit-hints-at-strategic-reset-with-damage-control",
+   "source": "https://whispersinthecorridors.net/",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "politics"
   }
  ],
- "updated": 1795245057,
- "pending_since": null,
+ "updated": 1795245674,
+ "pending_since": 1795245651.3422205,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
