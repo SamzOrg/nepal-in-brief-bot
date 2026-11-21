@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://gorkhapatraonline.com/news/229540": 1795059078.2348795,
   "https://www.ujyaaloonline.com/detail/133632": 1795059655.5196223,
   "http://english.ratopati.com/story/87227/ncp-coordinator-prachanda-returns-home": 1795059655.5196223,
   "http://english.ratopati.com/story/87226/kathmandus-public-toilets-are-in-poor-condition-making-it-difficult-to-enter-photos": 1795059655.5196223,
@@ -2126,32 +2125,12 @@
   "https://nagariknews.nagariknetwork.com/social-affairs/bir-bahadur-earns-rs-2-5-million-annually-from-vegetable-farming-br-73-12.html": 1795231250.1499193,
   "https://gorkhapatraonline.com/news/229763": 1795231250.1499193,
   "https://nagariknews.nagariknetwork.com/Aparadh/19-year-old-man-arrested-for-raping-disabled-teenager-br-84-69.html": 1795231250.1499193,
-  "https://gorkhapatraonline.com/news/229762": 1795231250.1499193
+  "https://gorkhapatraonline.com/news/229762": 1795231250.1499193,
+  "https://nagariknews.nagariknetwork.com/sports/sudurpaschim-and-lumbini-are-clashing-for-the-npl-title-today-the-match-will-start-at-5-pm-92-50.html": 1795232454.1405265,
+  "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBQQnhta1V5YzFWb0JBM2Y2T2h4VVNKU05GLVktU3FNMEFCUDRHLUNCZFJ5TGFkb2N1aWVtcy1oT0xKMnZ0YzJ3SUh2b09YczRf?oc=5": 1795232454.1405265,
+  "https://nagariknews.nagariknetwork.com/international/6-9-magnitude-earthquake-hits-peru-s-andes-mountains-49-21.html": 1795232454.1405265
  },
  "queue": [
-  {
-   "title": "Nepal cricket fans celebrate their team's global rise | AJ #shorts",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5BdnFoUmN3dHpkcUVkeTRFb255anhnSTlzcHdKVmNETGFLNmpTTjhFc3NtTUgyY0tKc0lzODFUeF8yNDhMV2xqZnBibFpaTWRqLVU4RUpkSkhIcHJmY1hIY1lEZ095dzjSAVxBVV95cUxPVDFwQ0RpcDdRM3U4WjZpbk5rdkRjdnZvdTEwdFVqVlBIR1c3dUZhcHRybjFNZmhpVUdpbFpzQmVJaGF1LUc1WlJuNDlkcmxzWDBRX3Q4YnhDMHlYUw?oc=5",
-   "source": "Modern Ghana",
-   "ts": 1795203600,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Nepal cricket fans celebrate their team's global rise | AJ #shorts",
-   "en": "Nepal cricket fans celebrate their team's global rise | AJ #shorts",
-   "ne": "Nepal cricket fans celebrate their team's global rise | AJ #shorts",
-   "imp": 3,
-   "tags": [
-    "Cricket",
-    "GlobalRise",
-    "NepalCricket"
-   ],
-   "cat": "sports",
-   "val": 2,
-   "teaser": false,
-   "hits": 2
-  },
   {
    "title": "Nepali cricket fans in Qatar want to see their team competing with the best",
    "summary": "As thousands from Qatar's Nepali community watch their team play, they hope that the team will rise in global rankings.",
@@ -2952,7 +2931,7 @@
    "cat": "culture",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "म बिचौलिया हुँ !",
@@ -4374,6 +4353,29 @@
     "MahakaliBridge"
    ],
    "cat": "politics",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "पेरुको एन्डिज पर्वतीय क्षेत्रमा ६.९ म्याग्निच्युडको भूकम्प",
+   "summary": "पेरु प्रशान्त महासागर वरिपरि फैलिएको 'रिङ अफ फायर' क्षेत्रमा पर्छ।",
+   "link": "https://nagariknews.nagariknetwork.com/international/6-9-magnitude-earthquake-hits-peru-s-andes-mountains-49-21.html",
+   "source": "Nagarik News",
+   "ts": 1795231190,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2025/third-party/1795231175_peru.jpg",
+   "lang": "ne",
+   "hl": "पेरुको एन्डिज पर्वतीय क्षेत्रमा ६.९ म्याग्निच्युडको भूकम्प",
+   "en": "पेरुको एन्डिज पर्वतीय क्षेत्रमा ६.९ म्याग्निच्युडको भूकम्प",
+   "ne": "पेरुको एन्डिज पर्वतीय क्षेत्रमा ६.९ म्याग्निच्युडको भूकम्प",
+   "imp": 1,
+   "tags": [
+    "Peru",
+    "Earthquake",
+    "भूकम्प"
+   ],
+   "cat": "disaster",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -7417,7 +7419,7 @@
    "cat": "economy"
   }
  ],
- "updated": 1795231871,
+ "updated": 1795232458,
  "pending_since": 1795231250.1499193,
  "fb_blocks": [
   1790350880.4125228,
