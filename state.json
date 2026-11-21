@@ -1,7 +1,5 @@
 {
  "seen": {
-  "http://english.ratopati.com/story/87256/trump-said-before-the-summit-with-xi-jinping-and-putin-this-is-our-victory": 1795067463.679769,
-  "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQlE0VktzVEJCZ3RqZVZTdTdreXYyVFpkRkVHZXNxcld2NGd3RWI5dGdrazk5aWxWcmFGZ2tHSEFHbU1lY3NRS3lOd0R1LXYxOGJZdTJFdVEtc1lzMnVka24tYU9uTmZxX1pnRm5tWUJFSHhfek9rOFRlY0ViOW1oSTRjNl8tVjhKOUpSZHJaQy05MHczNmNTUWFZbVNMdUcxSkhYN1Z3cFQ?oc=5": 1795067463.679769,
   "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdmN3MDBDLWszTE1ZcjZlb2hxVlB5T2gxQzM5cmJ2cnpsQnZfZUptQVpkSUFxaTNDaThyWl96VnZrZjVrSENtZTBmX2dnbzNQUVpmdjVUU3Jwa190ci10enRMZ05ZRGo0NVJKZlp0dGJydS1yOF9IT1dVcjZ5X0lQZzRndkVONVlHLU11dndZTmFRVG5zUTcwWXozVVh4TDJXaklFb3RYTDR5aGFBYXNaX05VcV9SUFN3WE95VkpB?oc=5": 1795068086.3827755,
   "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbndyMWloY3ctN3lCTENFUGNEZlJvYVRuMEM1eTItbzNZa05iRmpkdWVpYTBvNkZRN0hPbVVUSjBOUTBVdVRlVVJ6aVRRSDVhRjlIaTgwQktEbkZXakViQi1qQUMza2dsVnhhMkYwUUlqQTFLaW1hRldXXzVydzZ1Q0xPdlpySVZQQ2VyUzl0Q2N1TEdobUlpeW11TnUwU1h1YUVheUZ5NFZwdkhzRktvMXp3?oc=5": 1795068086.3827755,
   "https://www.ujyaaloonline.com/detail/133640": 1795068086.3827755,
@@ -2071,7 +2069,8 @@
   "https://nagariknews.nagariknetwork.com/sports/anfa-suspension-lifting-process-moves-forward-minister-pokharel-32-78.html": 1795240249.8386972,
   "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVmpXakpXMG4zdWlMTjJaQU9GdXhTWEtueDlZbC1tSGJOXzF0WEQ1Nm9lMGdwNTVGYXFKWC1yczEwVXpfWmVmR1RiZVA0QktrNnpydWlDQlpaemJiYkowVTBsZF9KWGJ3MS1ZM19LVzlpRUt5MHNoanlnWlRsUy1Gd1ZjYlYzQVF4S1hUTF9SWWR0ZUpMV2xEeWZ2QTN4R0xFSnNrLXJ2ZnR4bWtVYzdqMG5CX3V6Q2MtcG9UY3dtZFFnRWQ5VVE4?oc=5": 1795240249.8386972,
   "http://english.ratopati.com/story/87573/it-seems-like-the-day-has-arrived": 1795240249.8386972,
-  "http://english.ratopati.com/story/87572/lieberman-confident-of-forming-coalition-with-haredi-party": 1795240249.8386972
+  "http://english.ratopati.com/story/87572/lieberman-confident-of-forming-coalition-with-haredi-party": 1795240249.8386972,
+  "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVWFuUEFxTTg4My1EWG9HbFlYR2xCOTV0aGZlaFpqMDdrdXYzRkhHNlpUUS1HUndqb3ptTHpfNV9mdGtrUTdMaTl2dzIzbXhJbWpVOEMzZmhfNFpJV0dMbHVWSl9NTHE4RmRaZlVZZ0xFVW1ERFlsaFZ4eVRJM09DMW9aYjZnMFRDeDBnTk94TmhJNnljV01PSFc5dTFXU1k?oc=5": 1795240878.3411834
  },
  "queue": [
   {
@@ -5519,17 +5518,6 @@
  ],
  "posted": [
   {
-   "ts": 1794635474.6698506,
-   "en": "RSP Chair Rabi Lamichhane to celebrate Chhath in Janakpur",
-   "ne": "RSP Chair Rabi Lamichhane to celebrate Chhath in Janakpur",
-   "link": "https://english.khabarhub.com/2026/14/575529/",
-   "source": "Khabarhub EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "culture"
-  },
-  {
    "ts": 1794637256.7569969,
    "en": "7,179 Nepali workers get Romania permits in 3 months",
    "ne": "7,179 Nepali workers get Romania permits in 3 months",
@@ -8566,8 +8554,8 @@
    "cat": "sports"
   }
  ],
- "updated": 1795240273,
- "pending_since": null,
+ "updated": 1795240883,
+ "pending_since": 1795240878.3411834,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
