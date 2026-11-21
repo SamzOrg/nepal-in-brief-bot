@@ -1,7 +1,5 @@
 {
  "seen": {
-  "http://english.ratopati.com/story/87364/despite-chasing-a-target-of-134-runs-the-away-batsmen-could-not-hold-on-the-fourth-wicket-fell": 1795096890.2525458,
-  "http://english.ratopati.com/story/87363/sudurpaschim-lost-their-third-wicket-ishan-pandey-was-out-for-10-runs": 1795096890.2525458,
   "https://www.setopati.com/kinmel/economy/402952": 1795097456.3375597,
   "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOLW9GY2NnTWktc1M2RHhRaGFVVzg3bF81ZXNCZzNLZXZzUGxvYWtZRkZGRUtQNFNtZzJBRkdCbkN6S0R1ZzNSdkt0VUNKemRNMVllUEFBc3ZLdkkzR2t3VlYwYzZVTnZMeXZFSUlOWTF0M3NDaWVYa1N6NG1FRjFoTVc0dlZ2NjcyN0RtVnppLVEzeTZ2QXBtM2V6QV9OY01kVHBuVlpsZ1rSAa4BQVVfeXFMTXFxMV90UlN2cG9sblFNd1FPSkp2SGZSTy1PazUtX2E3NkZJaGdOblNRY1lRa2FROEg3RWktTWhUODZfbG1EQUlWbXEwREMtb0p5TUVuM3hjRXhreGNIME1nak9tMzF5QUd5cmlVTlZTQVRIOEhkaHpGQTU0XzA4UkVfWlZLSUVkQkx4SkFzR0JKcWphdnBKaHE0MGZ3M084VFZINnpCMXAyMTgtQjdB?oc=5": 1795097456.3375597,
   "https://news.google.com/rss/articles/CBMilwFBVV95cUxPakJMb2d0SVh3SkJzRjZNVl9vYlhmdTVHV1plbkJrTHhsN3ZheEdadUU4SWdVM2k1enp6R216Vy1XeHBZbTVrTXpaWUNUVzJacXB0bVRFd01CQkN2dzVvUUZ1V0E1U2NKTlRuVUcyTzNfYTN4VVI5SmZ2Z2dpVi1ySmdtbmR4S21ydUMxcmVhYUtPdkkySVZR?oc=5": 1795097456.3375597,
@@ -2045,28 +2043,6 @@
    "hits": 1
   },
   {
-   "title": "विदेशमा डेटा सेन्टर बनाउने अमेरिकी कम्पनीलाई भारी जरिबाना लगाउने ट्रम्पको चेतावनी",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/507903",
-   "source": "Baahrakhari",
-   "ts": 1795240888,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "विदेशमा डेटा सेन्टर बनाउने अमेरिकी कम्पनीलाई भारी जरिबाना लगाउने ट्रम्पको चेतावनी",
-   "en": "विदेशमा डेटा सेन्टर बनाउने अमेरिकी कम्पनीलाई भारी जरिबाना लगाउने ट्रम्पको चेतावनी",
-   "ne": "विदेशमा डेटा सेन्टर बनाउने अमेरिकी कम्पनीलाई भारी जरिबाना लगाउने ट्रम्पको चेतावनी",
-   "imp": 1,
-   "tags": [
-    "DonaldTrump",
-    "Tech"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "President Ram Chandra Paudel Participates in Mahayagya for World Peace",
    "summary": "Kathmandu. President Ram Chandra Paudel has participated in a Mahayagya organized after 50 years for world welfare and peace at...",
    "link": "http://english.ratopati.com/story/87587/ayuta-huti-mahayagya-completed-at-kanak-chaitya-mahavihar-president-poudel-participates",
@@ -2201,30 +2177,6 @@
     "Tourism"
    ],
    "cat": "culture",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Weather Forecast: Light Rain Expected in Koshi and Madhesh Regions",
-   "summary": "Kathmandu. The Department of Hydrology and Meteorology has projected that there is a possibility of light rain in one or...",
-   "link": "http://english.ratopati.com/story/87581/three-day-weather-forecast-light-rain-and-snowfall-in-some-places-possibility-of-fog-in-the-terai",
-   "source": "Ratopati EN",
-   "ts": 1795241106,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/916770813_1476705141232692_7770481416717062371_n_UKzL1QOsAa.webp",
-   "lang": "en",
-   "hl": "Weather Forecast: Light Rain Expected in Koshi and Madhesh Regions",
-   "en": "Weather Forecast: Light Rain Expected in Koshi and Madhesh Regions",
-   "ne": "Weather Forecast: Light Rain Expected in Koshi and Madhesh Regions",
-   "imp": 2,
-   "tags": [
-    "Weather",
-    "Koshi",
-    "Madhesh",
-    "मौसम"
-   ],
-   "cat": "disaster",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -10016,8 +9968,8 @@
    "cat": "disaster"
   }
  ],
- "updated": 1795269690,
- "pending_since": null,
+ "updated": 1795270252,
+ "pending_since": 1795270248.4874308,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
