@@ -1,10 +1,5 @@
 {
  "seen": {
-  "https://baahrakhari.com/detail/507711": 1795064491.3053627,
-  "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPbVdBTXRCVkhnTnNlYTc1TFNrREZ2cVQ2WTV0Q3hUbG1LaWVYclROLUMxVU9xYjQyTnd5N2RjbnFsR3JBR25KV0kwWGFzQzVXeDJKRURRUzJsQi1xVDFrQ2pOdnlkZzk2T1dLOHVqZkF3NWMtU2NhTklmRzBremRNQjF2MkI1SVo1VVB6MjFoc2RTcnQyOW92aU1faEdNWHMyMHExWFZYZ3pPWExYUmxscU4tR2N5LUVRN192bnNYUzZCVVlLZTM4RWo3YnhjQ3pOOHlPbFgyTDh5T1pSYW1aUEM1X1ZYZ21ZS3RsSzhsNkx0ZjZYQTIyOQ?oc=5": 1795064491.3053627,
-  "http://english.ratopati.com/story/87242/lets-resolve-to-create-new-energy-enthusiasm-and-confidence-in-the-party-bidya-devi-bhandari": 1795064491.3053627,
-  "https://theannapurnaexpress.com/story/68883": 1795064491.3053627,
-  "https://kathmandupost.com/national/2026/11/19/three-killed-seven-injured-in-jeep-crash-in-makawanpur": 1795064491.3053627,
   "http://english.ratopati.com/story/87245/this-is-what-kathmandu-looked-like-after-becoming-the-third-most-polluted-city-in-the-world": 1795065054.648184,
   "https://news.google.com/rss/articles/CBMiygFBVV95cUxPb19zdDlVSkVBYmhnSkczOGNHN1EyVW90NlpidU9pbU45b21HQ1R1QTVSS0wyNVYtTnA5eFdjcU4ycmdoMmFiREp3SnB6MGdUMk5xbFlpblJmdmp5QnRCTUFaOUU5NElEczVLaktlMkxyS1AxSTJ4QXRRQW5BSTZ4aWdzend0SFJFemJQN2xNamtFQzhfUlFheVFrOGhRS2drWkVOOGZDZjZHYzFHTWNCMjVWVFFWRk5nNTNGc1dURnV3eUdpUFo2UHd3?oc=5": 1795065054.648184,
   "http://english.ratopati.com/story/87249/santiago-network-provides-technical-assistance-to-nepal-in-climate-related-damage-and-glacier-risk-management": 1795065652.589245,
@@ -2062,7 +2057,11 @@
   "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTHY5U1dhMlVTZS1QWnlLa1ByaE8yazRvSXM0anNic1dYbU56Umt5U2x1RHk1Yl9iLUxuSmlqSUtXVFAxLVI4ajlfSDd5TUJGSTU3N2lTTTdhTlhSQXUtbUJ4ZmtTUGVpTkctM1ZhdGFlOVBqeVpnNVBEenQxTXNvY0RkNWZmaWNoS0R6MWhvdVhrWWFBTDJjbnBHT0RNLVZ6cU1KSklWSWRHdzdQR2FXRVBUWml0ekM3aDFWRUZoZw?oc=5": 1795236658.6253574,
   "http://english.ratopati.com/story/87565/activities-that-undermine-national-pride-are-unacceptable-madhav-kumar-nepal": 1795237286.103049,
   "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUVBITmsta2szbG12bGRCQ0sxWDVOLVl0bG9obVg1cUxjeU53dF8xUnlrSG81ZTc4bHZNbTdlOWtxeU9VNzBuQXhSUzhELWs4Q3pWOGUzQlZuXzZBODdjc0F1WHJtaXlwTFNaQ2ZWX3NPTjhFYWJyUWVpX3h5eFEycXp1UmtRMmd2bXZ6R3QwVks3amN2?oc=5": 1795237286.103049,
-  "https://www.setopati.com/sports/football/403054": 1795237286.103049
+  "https://www.setopati.com/sports/football/403054": 1795237286.103049,
+  "http://english.ratopati.com/story/87566/prime-minister-balens-visit-to-india-who-will-welcome-him-at-delhi-airport": 1795237848.2362008,
+  "https://www.setopati.com/politics/403055": 1795237848.2362008,
+  "https://news.google.com/rss/articles/CBMiigFBVV95cUxNclhUejQ4WFV0RUZCekpDZmwxaklQM1p0cTh6b1dwOWo1THJ3Mlo2MkVTUjhjV3IxYmo1SGpWMnVPWGtJSnJoSjJlQVp1dXhjTXBzUkEzaldxa1lNTVNlMXJ1M2liNmN1b1NhLVlOMFc4NGlvdnZpNGY4RmV4WUZyTm9tdHZtSUhUTHc?oc=5": 1795237848.2362008,
+  "http://english.ratopati.com/story/87567/one-dead-four-injured-in-road-accident": 1795237848.2362008
  },
  "queue": [
   {
@@ -4920,6 +4919,29 @@
     "Cricket"
    ],
    "cat": "sports",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "One Dead, Four Injured in Two Separate Accidents in Sunsari",
+   "summary": "Sunsari. One person died and four people were injured in two separate accidents in the district last night. Jayaprakash Yadav,...",
+   "link": "http://english.ratopati.com/story/87567/one-dead-four-injured-in-road-accident",
+   "source": "Ratopati EN",
+   "ts": 1795237307,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/accident1_0hvvweueaj_opitpBEPf3.webp",
+   "lang": "en",
+   "hl": "One Dead, Four Injured in Two Separate Accidents in Sunsari",
+   "en": "One Dead, Four Injured in Two Separate Accidents in Sunsari",
+   "ne": "One Dead, Four Injured in Two Separate Accidents in Sunsari",
+   "imp": 3,
+   "tags": [
+    "Accident",
+    "Sunsari",
+    "दुर्घटना"
+   ],
+   "cat": "disaster",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -7963,7 +7985,7 @@
    "cat": "crime"
   }
  ],
- "updated": 1795237291,
+ "updated": 1795237852,
  "pending_since": 1795236658.6253574,
  "fb_blocks": [
   1790350880.4125228,
