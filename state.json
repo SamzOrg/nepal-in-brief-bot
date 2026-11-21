@@ -2177,28 +2177,6 @@
    "hits": 1
   },
   {
-   "title": "काठमाडौंमा १० मिटर तल खस्यो बुलेट मोटरसाइकल, चालकको मृ`त्यु",
-   "summary": "काठमाडौंको चन्द्रागिरिमा मोटरसाइकल दुर्घटना हुँदा चालकको मृत्यु भएको छ भने पछाडि सवार व्यक्ति घाइते भएका छन्।...",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/bullet-motorcycle-falls-10-meters-in-kathmandu-driver-dies-61-67.html",
-   "source": "Nagarik News",
-   "ts": 1795193516,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1762909259_Accident.jpg",
-   "lang": "ne",
-   "hl": "काठमाडौंमा १० मिटर तल खस्यो बुलेट मोटरसाइकल, चालकको मृ`त्यु",
-   "en": "काठमाडौंमा १० मिटर तल खस्यो बुलेट मोटरसाइकल, चालकको मृ`त्यु",
-   "ne": "काठमाडौंमा १० मिटर तल खस्यो बुलेट मोटरसाइकल, चालकको मृ`त्यु",
-   "imp": 3,
-   "tags": [
-    "Kathmandu",
-    "MotorcycleAccident"
-   ],
-   "cat": "accident",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "कालीगण्डकी कोरिडोरको विपद् क्षति अध्ययन गर्दै संसदीय समिति",
    "summary": "ठाकुरप्रसाद आचार्य म्याग्दी, मंसिर ४ गते । राष्ट्रिय सभा अन्तर्गतको भोटेकोशी एवं कालीगण्डकी कोरिडोर विपद्सम्बन्धी अध्ययन तथा अनुगमन संसदीय विशेष समितिले शुक्रबार बेनीमा विपद्जन्य घ...",
    "link": "https://gorkhapatraonline.com/news/229730",
@@ -2239,28 +2217,6 @@
    ],
    "cat": "sports",
    "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "एनपीएल ट्रफी भित्र्याउने दाउमा सुदूरपश्चिम",
-   "summary": "अविनाश चौधरीधनगढी, मंसिर ४ गते । नेपाल प्रिमियर लिग (एनपीएल) अघिल्लो दुई संस्करण सुदूरपश्चिम प्रदेशको लागि निराशाजनक रह्यो । पहिलो र दोस्रो संस्करणमा उपाधिबाट बञ्चित सुदूरपश्चिम रो...",
-   "link": "https://gorkhapatraonline.com/news/229729",
-   "source": "Gorkhapatra",
-   "ts": 1795193864,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/392381/conversions/NPL2-original.jpg",
-   "lang": "ne",
-   "hl": "एनपीएल ट्रफी भित्र्याउने दाउमा सुदूरपश्चिम",
-   "en": "एनपीएल ट्रफी भित्र्याउने दाउमा सुदूरपश्चिम",
-   "ne": "एनपीएल ट्रफी भित्र्याउने दाउमा सुदूरपश्चिम",
-   "imp": 3,
-   "tags": [
-    "NPL",
-    "SudurpaschimRoyals"
-   ],
-   "cat": "sports",
-   "val": 2,
    "teaser": false,
    "hits": 1
   },
@@ -2816,17 +2772,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1794617457.4039276,
-   "en": "मुग्लिन नजिकैको घोप्टेभीरमा चार दिनदेखि एकतर्फी मात्रै सञ्चालनमा छ सडक",
-   "ne": "मुग्लिन नजिकैको घोप्टेभीरमा चार दिनदेखि एकतर्फी मात्रै सञ्चालनमा छ सडक",
-   "link": "https://www.ujyaaloonline.com/detail/133461",
-   "source": "Ujyaalo",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "disaster"
-  },
   {
    "ts": 1794619260.2261558,
    "en": "Madhesh Chief Minister Krishna Prasad Yadav to seek vote of confidence today",
@@ -5864,7 +5809,7 @@
    "cat": "society"
   }
  ],
- "updated": 1795222276,
+ "updated": 1795222889,
  "pending_since": 1795222257.1162753,
  "fb_blocks": [
   1790350880.4125228,
