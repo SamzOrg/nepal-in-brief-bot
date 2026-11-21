@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://risingnepaldaily.com/news/88761": 1795047653.9388065,
   "https://risingnepaldaily.com/news/88762": 1795048275.9380333,
   "https://baahrakhari.com/detail/507688": 1795048866.3983037,
   "https://news.google.com/rss/articles/CBMiogFBVV95cUxPODEzM1haUE93VlBlbHRCSFhhUkZwQUN2LWE1QTRxdmZvbTdVak5rTUxiMGd5THEzUmxBUnlEVkZOZW45R082cVoxVEtoUHVNLVBGZkFxMVJpVDlBOWlFbUVOdHZ3V1JKak05WHBrWFZJTXcwMWJLQUszc19ndHphZGtuN1NWZ1Q1cTJsTU5URnM4bGxSSlZiOWp3LXdtT1Q4X1E?oc=5": 1795048866.3983037,
@@ -2134,7 +2133,10 @@
   "https://risingnepaldaily.com/news/88840": 1795218652.8094585,
   "https://english.khabarhub.com/2026/21/576362/": 1795219031.064159,
   "https://english.khabarhub.com/2026/21/576385/": 1795219850.3337102,
-  "https://gorkhapatraonline.com/news/229736": 1795220450.292941
+  "https://gorkhapatraonline.com/news/229736": 1795220450.292941,
+  "http://english.ratopati.com/story/87541/this-is-todays-weather-forecast": 1795221068.8486745,
+  "https://news.google.com/rss/articles/CBMid0FVX3lxTFBpTFI1UzlqSU9NUVJ2dDJ6eXVXRldHMm1PWXBGU2o3cmpTdEo3N1d4X3k4ZnloSW9oSXF4cDUxZzBCUjVxbWVMQVQ1MXVTbFV3UDI1NDFnbWt0anN4QThZRm5XLTJ2UE5yM1hkajUxR2hoNzlYZmFB?oc=5": 1795221068.8486745,
+  "https://www.ujyaaloonline.com/detail/133692": 1795221068.8486745
  },
  "queue": [
   {
@@ -2634,17 +2636,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1794615656.723004,
-   "en": "Indian Ambassador Sudhakar Dalela Meets Nepal Foreign Secretary Amrit Bahadur Rai in Kathmandu",
-   "ne": "Indian Ambassador Sudhakar Dalela Meets Nepal Foreign Secretary Amrit Bahadur Rai in Kathmandu",
-   "link": "https://www.dailyexcelsior.com/indian-envoy-calls-on-nepal-foreign-secy-discusses-bilateral-ties/",
-   "source": "Daily Excelsior",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "politics"
-  },
   {
    "ts": 1794617457.4039276,
    "en": "मुग्लिन नजिकैको घोप्टेभीरमा चार दिनदेखि एकतर्फी मात्रै सञ्चालनमा छ सडक",
@@ -5682,7 +5673,7 @@
    "cat": "politics"
   }
  ],
- "updated": 1795220482,
+ "updated": 1795221072,
  "pending_since": 1795219286.0247586,
  "fb_blocks": [
   1790350880.4125228,
