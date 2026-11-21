@@ -2081,7 +2081,8 @@
   "https://gorkhapatraonline.com/news/229783": 1795238459.0664642,
   "http://english.ratopati.com/story/87564/5-day-ultimatum-to-contractor-who-fails-to-repair-dhansar-churiamai-road-warning-of-contract-cancellation": 1795238459.0664642,
   "https://nagariknews.nagariknetwork.com/politics/home-ministry-forms-special-task-force-to-control-fraud-and-labor-exploitation-in-the-name-of-foreign-employment-24-25.html": 1795238459.0664642,
-  "http://english.ratopati.com/story/87563/strict-action-will-be-taken-against-employees-who-harass-leaders-home-minister-gurung": 1795238459.0664642
+  "http://english.ratopati.com/story/87563/strict-action-will-be-taken-against-employees-who-harass-leaders-home-minister-gurung": 1795238459.0664642,
+  "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVEk5SUJZQmdqVWZ3QVFVVFdyLXJlNmtBRXBqOVl3Y3ZiRGQwcUlrNTl0NDVNemRFQ0xxcUNCZlBHWVVrQU5XdjF3YlZ2aDV3c1BHWl9GMDVrSHV0M2pWU1MyRUx5XzlIX3NsVmExbmxxNThnZ0tyY3JONXVoT1dwME00UHVvX1BSLXV6Sm16cFhWd0hHUGtSVw?oc=5": 1795239075.702924
  },
  "queue": [
   {
@@ -4964,7 +4965,7 @@
    "cat": "society",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "बेरोजगारी र महँगीविरुद्ध युरोपभर युवाको प्रदर्शन, शिक्षा र रोजगारीमा लगानी बढाउन माग",
@@ -8315,8 +8316,8 @@
    "cat": "politics"
   }
  ],
- "updated": 1795238477,
- "pending_since": null,
+ "updated": 1795239078,
+ "pending_since": 1795239075.702924,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
