@@ -1,9 +1,5 @@
 {
  "seen": {
-  "http://english.ratopati.com/story/87233/sumo-driver-who-crashed-in-buffalo-says-his-eyes-suddenly-closed-he-couldnt-see-anything": 1795062053.9035816,
-  "http://english.ratopati.com/story/87232/two-youths-die-after-motorcycle-crashes-into-rice-harvester": 1795062053.9035816,
-  "https://baahrakhari.com/detail/507708": 1795062053.9035816,
-  "https://baahrakhari.com/detail/507707": 1795062053.9035816,
   "https://gorkhapatraonline.com/news/229554": 1795062675.83404,
   "https://www.setopati.com/social/402894": 1795062675.83404,
   "https://nagariknews.nagariknetwork.com/social-affairs/sumo-accident-in-bhimphedi-three-dead-seven-injured-34-58.html": 1795062675.83404,
@@ -2098,7 +2094,8 @@
   "https://news.google.com/rss/articles/CBMiygFBVV95cUxOck81TjdMR28zbFhvYU1iVkMtMGhiMWJ2ZWlkNXMtNE9IM3hsYlVlLXFLOUVCX0RkclBHbmFCYl9Db3pyNDBqZmdrRnotcXNFODR4RHpJdlRZalQtWUxEOWxRYUNvUDVnaXpJMm81XzlyaTJKQS12TWtKcWlTYUdScjhsMG9WSnFpY0RKUmZubVFmR241QU9XV1gtczl6cWd0OVBuU2tESW5ISEZsNW9EU2tlb2ZmUDUzdnV2OHB4aEtkUFpRbXQxdC1R?oc=5": 1795233686.204987,
   "http://english.ratopati.com/story/87559/the-process-of-lifting-anfa-suspension-has-moved-forward": 1795234253.1719558,
   "https://gorkhapatraonline.com/news/229772": 1795234853.5051794,
-  "http://english.ratopati.com/story/87560/powerful-earthquake-hits-central-peru-damage-details-being-collected": 1795234853.5051794
+  "http://english.ratopati.com/story/87560/powerful-earthquake-hits-central-peru-damage-details-being-collected": 1795234853.5051794,
+  "https://gorkhapatraonline.com/news/229778": 1795235468.2349358
  },
  "queue": [
   {
@@ -4617,17 +4614,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1794630062.3947875,
-   "en": "जलवायु कूटनीतिमा नेपालको तयारी सुदृढ बनाउनुपर्ने परराष्ट्रमन्त्री खनालको भनाइ",
-   "ne": "जलवायु कूटनीतिमा नेपालको तयारी सुदृढ बनाउनुपर्ने परराष्ट्रमन्त्री खनालको भनाइ",
-   "link": "https://baahrakhari.com/detail/507269",
-   "source": "Baahrakhari",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "world"
-  },
   {
    "ts": 1794631853.138461,
    "en": "Disaster Preparedness Saves Lives in Nepal Floods",
@@ -7665,7 +7651,7 @@
    "cat": "health"
   }
  ],
- "updated": 1795234876,
+ "updated": 1795235472,
  "pending_since": 1795233686.204987,
  "fb_blocks": [
   1790350880.4125228,
