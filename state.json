@@ -1,10 +1,5 @@
 {
  "seen": {
-  "http://english.ratopati.com/story/87294/national-sports-council-lifts-anfa-suspension": 1795076459.1830196,
-  "http://english.ratopati.com/story/87261/nepal-india-relations-more-than-diplomacy": 1795076459.1830196,
-  "https://risingnepaldaily.com/news/88781": 1795076459.1830196,
-  "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRjRqTVBNalpEUXJPd2hncTNFNnBIUV9oajR0ajVEcFVaZTc0LUtUNHlmMXZTTHZHM3gwWnBpYy1xYUF1MXlXRXFQMXhXZVpFY0pWREtjUURXVjB2cmE3akQ1ZTNnQzZwVHlpc3BNMDNEZlNaNkVNM0NxUlBYT0JleXMxVQ?oc=5": 1795076459.1830196,
-  "https://gorkhapatraonline.com/news/229578": 1795076459.1830196,
   "http://english.ratopati.com/story/87295/bilateral-meeting-between-trump-and-xi-concluded-what-was-discussed": 1795077080.093354,
   "https://thehimalayantimes.com/nepal/police-recover-27-rounds-of-9mm-ammunition-near-nepal-india-border": 1795077656.9564602,
   "http://english.ratopati.com/story/87296/uml-asks-for-explanation-for-going-abroad-without-informing-party": 1795077656.9564602,
@@ -2007,7 +2002,9 @@
   "http://english.ratopati.com/story/87580/chinas-general-election-politics-beyond-the-ballot": 1795248649.6349463,
   "https://risingnepaldaily.com/news/88860": 1795249259.1386502,
   "https://theannapurnaexpress.com/story/68938": 1795249259.1386502,
-  "https://baahrakhari.com/detail/507911": 1795249259.1386502
+  "https://baahrakhari.com/detail/507911": 1795249259.1386502,
+  "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdmhjN1NwRnRFRzRZNEZia2RpQmt5RkJhSEh1cUxQSU1EX2pCZVdwaTNtc0I5VlZ6MGs5RlZJdVRMa1NmR2Fra0lsVlVDNzd6UnFxS2pXZ0RUaGpPZlc5cmhVdzZCbVp3V0FWQUtQT1BVakJNVWtGRFVXdTI4WUNMRlRBbFJLSEUwemNGcWVDRGc4WmJ3UV94djFpY3hxaTQ?oc=5": 1795249870.8921201,
+  "http://english.ratopati.com/story/87613/cpn-kathmandu-district-committee-unity-meeting-and-awareness-campaign-inauguration": 1795249870.8921201
  },
  "queue": [
   {
@@ -2031,97 +2028,6 @@
    "cat": "politics",
    "val": 1,
    "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "देशका धेरैजसो ठाउँमा आंशिक बादल",
-   "summary": "महाशाखाले आज र भोलि पानी पार्ने कुनै पनि मौसमी प्रणाालीको प्रभाव नरहेको जनाएको हो ।",
-   "link": "https://www.ujyaaloonline.com/detail/133693",
-   "source": "Ujyaalo",
-   "ts": 1795220921,
-   "weight": 2,
-   "img": "https://www.ujyaaloonline.com/uploads/posts/weather_pJuP0nyJCm.jpg",
-   "lang": "ne",
-   "hl": "देशका धेरैजसो ठाउँमा आंशिक बादल",
-   "en": "देशका धेरैजसो ठाउँमा आंशिक बादल",
-   "ne": "देशका धेरैजसो ठाउँमा आंशिक बादल",
-   "imp": 2,
-   "tags": [
-    "Weather",
-    "मौसम"
-   ],
-   "cat": "disaster",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Trump threatens vetoes but signals willingness to work with Jeffries",
-   "summary": "WASHINGTON DC: US President Donald Trump on Friday (local time) indicated that he plans to use his veto power to pressure Democrats into negotiating over legislation in the incoming Congress, while signalling his...",
-   "link": "https://english.khabarhub.com/2026/21/576391/",
-   "source": "Khabarhub EN",
-   "ts": 1795220656,
-   "weight": 2,
-   "img": "https://english.khabarhub.com/wp-content/uploads/2026/10/Donald-Trump-Reuters-1-400x220.jpg",
-   "lang": "en",
-   "hl": "Trump threatens vetoes but signals willingness to work with Jeffries",
-   "en": "Trump threatens vetoes but signals willingness to work with Jeffries",
-   "ne": "Trump threatens vetoes but signals willingness to work with Jeffries",
-   "imp": 1,
-   "tags": [
-    "Trump",
-    "Jeffries",
-    "USA"
-   ],
-   "cat": "world",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "अब स्थानीय तहबाटै एकद्वार सेवा",
-   "summary": "काठमाडौँ, मङ्सिर ५ गते । सरकारले स्थानीय तहमा सुशासन र प्रभावकारी सेवा प्रवाहका लागि 'एकद्वार सेवा प्रवाह प्रणाली' लाई कार्यान्वयनमा ल्याउने भएको छ । नागरिकलाई घरदैलोमै छिटोछरितो,...",
-   "link": "https://gorkhapatraonline.com/news/229738",
-   "source": "Gorkhapatra",
-   "ts": 1795220779,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/392391/conversions/Sthaniya-Sarkar-(1)-original.jpg",
-   "lang": "ne",
-   "hl": "अब स्थानीय तहबाटै एकद्वार सेवा",
-   "en": "अब स्थानीय तहबाटै एकद्वार सेवा",
-   "ne": "अब स्थानीय तहबाटै एकद्वार सेवा",
-   "imp": 3,
-   "tags": [
-    "LocalGov",
-    "Services",
-    "स्थानीयतह"
-   ],
-   "cat": "politics",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "सुनको मूल्य निरन्तर ओरालो",
-   "summary": "काठमाडौँ, मङ्सिर ५ गते । बजारमा सुनको मूल्य निरन्तर ओरालो लागिरहेको छ । अन्तर्राष्ट्रिय बजारमा मूल्य घट्दा त्यसको प्रभाव स्थानीय बजारमा पर्न गएको हो । शुक्रबार सुनको मूल्य एकै दिन...",
-   "link": "https://gorkhapatraonline.com/news/229737",
-   "source": "Gorkhapatra",
-   "ts": 1795220553,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/392390/conversions/Gold-original.jpg",
-   "lang": "ne",
-   "hl": "सुनको मूल्य निरन्तर ओरालो",
-   "en": "सुनको मूल्य निरन्तर ओरालो",
-   "ne": "सुनको मूल्य निरन्तर ओरालो",
-   "imp": 2,
-   "tags": [
-    "Gold",
-    "PriceDrop",
-    "सुन"
-   ],
-   "cat": "economy",
-   "val": 2,
-   "teaser": false,
    "hits": 1
   },
   {
@@ -2373,29 +2279,6 @@
    ],
    "cat": "education",
    "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "नेपालको आकाश, आर्थिक स्वार्थ र छिमेकी कूटनीति",
-   "summary": "प्रधानमन्त्री बालेन्द्र शाहको नोभेम्बर २२ र २३ मा हुने भारतको राजकीय भ्रमणलाई नेपालले केवल कूटनीतिक औपचारिकताका रूपमा हेर्नु हुँदैन।...",
-   "link": "https://nagariknews.nagariknetwork.com/opinion/nepal-s-skies-economic-interests-and-neighborhood-diplomacy-71-77.html",
-   "source": "Nagarik News",
-   "ts": 1795220583,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1795220794_ximeki%20kutniti%2098.jpg",
-   "lang": "ne",
-   "hl": "नेपालको आकाश, आर्थिक स्वार्थ र छिमेकी कूटनीति",
-   "en": "नेपालको आकाश, आर्थिक स्वार्थ र छिमेकी कूटनीति",
-   "ne": "नेपालको आकाश, आर्थिक स्वार्थ र छिमेकी कूटनीति",
-   "imp": 3,
-   "tags": [
-    "ForeignPolicy",
-    "Diplomacy",
-    "कूटनीति"
-   ],
-   "cat": "world",
-   "val": 1,
    "teaser": false,
    "hits": 1
   },
@@ -6522,17 +6405,6 @@
  ],
  "posted": [
   {
-   "ts": 1794644460.0983381,
-   "en": "World Diabetes Day observed globally on November 14 to raise awareness",
-   "ne": "World Diabetes Day observed globally on November 14 to raise awareness",
-   "link": "https://english.khabarhub.com/2026/14/575523/",
-   "source": "Khabarhub EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "health"
-  },
-  {
    "ts": 1794646256.7400463,
    "en": "Nepal Demands Climate Grants Over Loans at COP31 in Antalya",
    "ne": "Nepal Demands Climate Grants Over Loans at COP31 in Antalya",
@@ -9569,7 +9441,7 @@
    "cat": "economy"
   }
  ],
- "updated": 1795249281,
+ "updated": 1795249874,
  "pending_since": 1795249259.1386502,
  "fb_blocks": [
   1790350880.4125228,
