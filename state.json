@@ -2151,7 +2151,9 @@
   "https://gorkhapatraonline.com/news/229747": 1795225261.4963267,
   "https://risingnepaldaily.com/news/88845": 1795225261.4963267,
   "https://nagariknews.nagariknetwork.com/social-affairs/how-much-money-did-malaysia-spend-during-whose-time-br-38-72.html": 1795225261.4963267,
-  "https://gorkhapatraonline.com/news/229746": 1795225261.4963267
+  "https://gorkhapatraonline.com/news/229746": 1795225261.4963267,
+  "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMFo0RGpaMG1HcGpjV3AyTjNvSk9HQ0tvcUdjRlhpT0ZCSEhNMi1EVUc1dHYtbUswdVkxend0RUN4cmJVVHZPeGtGcDAtQzlWYnlackloZ1NjWTcwczFZaDZoRG5MeEJ1NEhjeDlTYXZoYjhKSEM0MktXekFRZ0VCVzNZenlObk95Z3FRTnJpRUxmcER2cEZjc1BSendhUGVvU0ZEaXFnSQ?oc=5": 1795225848.6354256,
+  "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNdTRRTnZ5WDl1MmVQTWI5OHhfSno2ZjU3M2FKdWROLXRReEFxZHdyYUFjdEl1SFp6aEhrai1SNXk4ME9uME5lMXVLX3kwRFhvUVJnMjhNTEJHZ0kyNWtIbXdRelc0VkY2cS10bE5oNUIycEJUT0V0Mkh2T0JFWlhUd1RDekVlakxzX2ZKQzNRaUFVRmF0SFJyWXZTUXA1VlE1QWFJbG8tMjEtek1BTmJaeTdvek80LTVlX0FkamdCVnpNdzkyVENpcHd5M3hTWjVOTktyZ1djMUd3NDlqaUtJ0gHkAUFVX3lxTE5xeHB6REVkc29QSThaakJLYmFTYlR0ZFR2ZFBwZWw3WGFBc0lrNUlmWTJqd18wSDB3NTg2Wk9SVXZKRjFBTHJSNTF2WHQ3R0tGUTBJU2JkS1FKTF8xaWVFaklXRFlZTGdkRDdCVEhrd21oMWRhWG9PNF9adG9XTi12aEl6VGpOQWxFcTNua0pEb1BxQmE0RF9xUm9GTHRKNTRvcU9OMy1xcmx4bk9meTFGenZuYnpZaDNSTVN2czlWZDBTVEpLTzRENjdVbElFb1VBUGJ0ZmtFMnU1dElJQmhvYll1Ug?oc=5": 1795225848.6354256
  },
  "queue": [
   {
@@ -2377,30 +2379,6 @@
    ],
    "cat": "health",
    "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "FIFA, AFC to chart a way out of Nepal's football crisis",
-   "summary": "Kathmandu, November 21 The process to lift FIFA's suspension of Nepali football has moved forward following discussions between Nepali officials and representatives of FIFA and the Asian Football Confederation (AFC),...",
-   "link": "https://english.onlinekhabar.com/fifa-afc-nepal-football-crisis.html",
-   "source": "Onlinekhabar EN",
-   "ts": 1795220700,
-   "weight": 3,
-   "img": "http://english.onlinekhabar.com/wp-content/uploads/2023/05/Anfa-Logo.jpg",
-   "lang": "en",
-   "hl": "FIFA, AFC to chart a way out of Nepal's football crisis",
-   "en": "FIFA, AFC to chart a way out of Nepal's football crisis",
-   "ne": "FIFA, AFC to chart a way out of Nepal's football crisis",
-   "imp": 4,
-   "tags": [
-    "FIFA",
-    "AFC",
-    "Football",
-    "फुटबल"
-   ],
-   "cat": "sports",
-   "val": 3,
    "teaser": false,
    "hits": 1
   },
@@ -3021,7 +2999,7 @@
    "cat": "economy",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Janakpur begins preparations for Vivah Panchami",
@@ -6340,10 +6318,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "sports"
+  },
+  {
+   "ts": 1795225852.7971947,
+   "en": "FIFA and AFC advance process to lift Nepal football suspension",
+   "ne": "FIFA and AFC advance process to lift Nepal football suspension",
+   "link": "https://english.onlinekhabar.com/fifa-afc-nepal-football-crisis.html",
+   "source": "Onlinekhabar EN",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "sports"
   }
  ],
- "updated": 1795225269,
- "pending_since": null,
+ "updated": 1795225865,
+ "pending_since": 1795225848.6354256,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
