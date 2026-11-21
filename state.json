@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://nagariknews.nagariknetwork.com/sports/nsc-lifts-suspension-on-anfa-br-19-54.html": 1795079456.4801917,
   "http://english.ratopati.com/story/87304/kathmandu-climate-action-week-2083-to-be-held-from-november-20": 1795080056.6553245,
   "http://english.ratopati.com/story/87303/protests-in-kathmandu-over-increased-activities-against-the-one-china-policy": 1795080056.6553245,
   "https://english.onlinekhabar.com/kathmandu-division-fills-25500-square-metres-of-road-potholes-in-first-four-months.html": 1795080056.6553245,
@@ -2034,7 +2033,11 @@
   "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQmVILU1SVUxCMG1ONTJMNGRZbEJJbjVMSGZaakMtWW5xLU5BRmlwZFVmUlBCTlBXNTd5VDV6QUFJLWpsWDFwYm92WnBCYUhjWGxMM09xNF9QbU4yanA0QVF0VzVHXzBOMVBDVGlaWXo0MXdhQkdBeEFpU3RDNWIyWW5NNmxwdzZtV05haUhJd2FGRFViTUpERUdEUU5xODkyM21QWnF6MUJ5RUc2SGszZmhBSTZTWUhON3pFNVRpazBKQlhKejNGYy1B?oc=5": 1795252254.2142997,
   "http://english.ratopati.com/story/87625/objections-raised-over-the-absence-of-representatives-from-the-export-import-goods-association-in-the-prime-ministers-india-visit-team": 1795252254.2142997,
   "http://english.ratopati.com/story/87622/even-if-crops-are-imported-it-is-difficult-to-save-the-barn": 1795252254.2142997,
-  "http://english.ratopati.com/story/87621/cruelty-to-animals-under-the-guise-of-ritual": 1795252254.2142997
+  "http://english.ratopati.com/story/87621/cruelty-to-animals-under-the-guise-of-ritual": 1795252254.2142997,
+  "http://english.ratopati.com/story/87594/when-will-the-state-learn-the-language-of-its-citizens": 1795252848.4049516,
+  "https://www.ujyaaloonline.com/detail/133714": 1795252848.4049516,
+  "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5sd0RXTE14WTJpcDJDT0hhQjVXUGdtSlVWZnlLVHA0cFU4T1U3SktZZnJCc1NBcThaa0dER2cyNVFEVF9PLWlMZFZnVDEtY1NoZkUwNXB3?oc=5": 1795252848.4049516,
+  "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZEt5TUxnX211U2ZZWmFTeDZ5NjhYZThqNEN4SlMxZ0t4Wm1IVld4allndnYtTTZ2al8ycEJ4cUFUNFZ5dVh1N3JCMzNuRnZEeWVOUnc3RzZUNEduRGo1d2U1MkpSUTB5Smdvd2w5emNYU0FtVGhCdzI2dVk0ODFFdHpUcXM2U1ROclk0dGo2UVBpZkdpUi0tTnNOVE42aERPM3lZMEFCTXZMRU9ZMmtrQg?oc=5": 1795252848.4049516
  },
  "queue": [
   {
@@ -2104,29 +2107,6 @@
    "hits": 1
   },
   {
-   "title": "विश्वभर डिजिटल सरकारी सेवामा उल्लेख्य प्रगति",
-   "summary": "उत्कृष्ट १० देशमा दक्षिण कोरियापछि डेनमार्क, सिङ्गापुर, साउदी अरब, यूएई, आइसल्यान्ड, बेलायत, इस्टोनिया, फिनल्यान्ड र अस्ट्रेलिया रहेका छन् ।",
-   "link": "https://www.ujyaaloonline.com/detail/133697",
-   "source": "Ujyaalo",
-   "ts": 1795224033,
-   "weight": 2,
-   "img": "https://www.ujyaaloonline.com/uploads/posts/Digital-Int-pic-1795223994.JPG",
-   "lang": "ne",
-   "hl": "विश्वभर डिजिटल सरकारी सेवामा उल्लेख्य प्रगति",
-   "en": "विश्वभर डिजिटल सरकारी सेवामा उल्लेख्य प्रगति",
-   "ne": "विश्वभर डिजिटल सरकारी सेवामा उल्लेख्य प्रगति",
-   "imp": 2,
-   "tags": [
-    "DigitalGovernment",
-    "World",
-    "Tech"
-   ],
-   "cat": "tech",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Janakpur begins preparations for Vivah Panchami",
    "summary": "By Our Correspondent, Janakpur, Nov. 21: Preparations have begun for the week-long Vivah Panchami festival in Janakpurdh...",
    "link": "https://risingnepaldaily.com/news/88847",
@@ -2191,170 +2171,6 @@
     "मौसम"
    ],
    "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "दक्षिण कोरियामा १० वर्षपछि हैजा",
-   "summary": "दक्षिण कोरियामा एक दशकपछि पहिलो पटक हैजाको सङ्क्रमण पुष्टि भएपछि स्वास्थ्य अधिकारीहरूले सुरक्षित पानी र स्वच्छ खानपानमा सतर्कता अपनाउन सर्वसाधारणलाई आग्रह गरेका छन्।...",
-   "link": "https://nagariknews.nagariknetwork.com/international/cholera-in-south-korea-after-10-years-62-80.html",
-   "source": "Nagarik News",
-   "ts": 1795223829,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1741852861_korea.jpg",
-   "lang": "ne",
-   "hl": "दक्षिण कोरियामा १० वर्षपछि हैजा",
-   "en": "दक्षिण कोरियामा १० वर्षपछि हैजा",
-   "ne": "दक्षिण कोरियामा १० वर्षपछि हैजा",
-   "imp": 3,
-   "tags": [
-    "SouthKorea",
-    "Cholera",
-    "Health"
-   ],
-   "cat": "health",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "पाथीभराबारे तीन भाषामा पुस्तक प्रकाशन",
-   "summary": "साहारा लिम्बूताप्लेजुङ, मङ्सिर ५ गते । ताप्लेजुङस्थित प्रसिद्ध धार्मिक तीर्थस्थल पाथीभरा मन्दिरका बारेमा नेपाली, अंग्रेजी र हिन्दी भाषामा तयार पारिएको 'शक्तिपीठ पाथीभरा' नामक पुस्त...",
-   "link": "https://gorkhapatraonline.com/news/229748",
-   "source": "Gorkhapatra",
-   "ts": 1795223820,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/392401/conversions/Bimochan-original.jpg",
-   "lang": "ne",
-   "hl": "पाथीभराबारे तीन भाषामा पुस्तक प्रकाशन",
-   "en": "पाथीभराबारे तीन भाषामा पुस्तक प्रकाशन",
-   "ne": "पाथीभराबारे तीन भाषामा पुस्तक प्रकाशन",
-   "imp": 2,
-   "tags": [
-    "Pathibhara",
-    "Book",
-    "Culture",
-    "पाथीभरा"
-   ],
-   "cat": "culture",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Thousands of Ambulances Idle Following New Health Directive",
-   "summary": "Kathmandu. Following the implementation of the 'Ambulance Service Directive, 2082' by the Ministry of Health and Population, claiming to make...",
-   "link": "http://english.ratopati.com/story/87543/technology-friendly-and-free-service-on-paper-in-practice-thousands-of-ambulances-stuck-in-garages",
-   "source": "Ratopati EN",
-   "ts": 1795223700,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/ambulance_20FNYiwHrJ.webp",
-   "lang": "en",
-   "hl": "Thousands of Ambulances Idle Following New Health Directive",
-   "en": "Thousands of Ambulances Idle Following New Health Directive",
-   "ne": "Thousands of Ambulances Idle Following New Health Directive",
-   "imp": 3,
-   "tags": [
-    "Ambulance",
-    "HealthDirective",
-    "Health"
-   ],
-   "cat": "health",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "आर्थिक आत्मनिर्भरता र पारिवारिक जीवन सुरु गर्न युवालाई चुनौती बढ्दै",
-   "summary": "विगतका पुस्ताको तुलनामा अहिलेका युवा बढी शिक्षित भए पनि उचित रोजगारी, आर्थिक आत्मनिर्भरता र पारिवारिक जीवन सुरु गर्न उनीहरूलाई कठिनाइ बढ्दै गएको संयुक्त राष्ट्रसङ्घको नयाँ प्रतिवेदनले देखाएको छ।...",
-   "link": "https://nagariknews.nagariknetwork.com/international/youth-face-increasing-challenges-in-starting-financial-independence-and-family-life-79-12.html",
-   "source": "Nagarik News",
-   "ts": 1795223725,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1795223695_youth.jpg",
-   "lang": "ne",
-   "hl": "आर्थिक आत्मनिर्भरता र पारिवारिक जीवन सुरु गर्न युवालाई चुनौती बढ्दै",
-   "en": "आर्थिक आत्मनिर्भरता र पारिवारिक जीवन सुरु गर्न युवालाई चुनौती बढ्दै",
-   "ne": "आर्थिक आत्मनिर्भरता र पारिवारिक जीवन सुरु गर्न युवालाई चुनौती बढ्दै",
-   "imp": 2,
-   "tags": [
-    "Youth",
-    "Economy",
-    "Family"
-   ],
-   "cat": "society",
-   "val": 1,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "राजस्व लक्ष्य पूरा गर्दै वीरगन्ज भन्सार",
-   "summary": "पर्सा समाचारदातापर्सा, मङ्सिर ५ गते । वीरगन्ज भन्सार कार्यालयले चालु आर्थिक वर्ष २०८३/८४ को पछिल्लो चार महिनामा प्राप्त राजस्व सङ्कलनको लक्ष्य पूरा गर्दै आएको छ । कार्यालयका सूचना...",
-   "link": "https://gorkhapatraonline.com/news/229747",
-   "source": "Gorkhapatra",
-   "ts": 1795223535,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/392400/conversions/322-original.jpg",
-   "lang": "ne",
-   "hl": "राजस्व लक्ष्य पूरा गर्दै वीरगन्ज भन्सार",
-   "en": "राजस्व लक्ष्य पूरा गर्दै वीरगन्ज भन्सार",
-   "ne": "राजस्व लक्ष्य पूरा गर्दै वीरगन्ज भन्सार",
-   "imp": 3,
-   "tags": [
-    "BirgunjCustoms",
-    "Revenue",
-    "Economy",
-    "वीरगन्ज"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "कसको पालामा कति पैसा गयो मलेसिया?",
-   "summary": "श्रमका लागि मलेसिया जाने नेपाली कामदारसँग दुई देशबिचको सम्झौताविपरीत स्वास्थ्य परीक्षणका नाममा रकम असुल गरेको विषयमा चलिरहेको अनुसन्धानमा पूर्वमन्त्रीदेखि मुख्यसचिवसम्म तानिएका छन्।...",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/how-much-money-did-malaysia-spend-during-whose-time-br-38-72.html",
-   "source": "Nagarik News",
-   "ts": 1795223707,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1795224580_bides%2098.jpg",
-   "lang": "ne",
-   "hl": "कसको पालामा कति पैसा गयो मलेसिया?",
-   "en": "कसको पालामा कति पैसा गयो मलेसिया?",
-   "ne": "कसको पालामा कति पैसा गयो मलेसिया?",
-   "imp": 3,
-   "tags": [
-    "Malaysia",
-    "ForeignEmployment",
-    "Remittance"
-   ],
-   "cat": "economy",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "बालबालिकाबिच पञ्चेबाजा प्रतियोगिता",
-   "summary": "साजन परियार पर्वत, मङ्सिर ५ गते । नयाँ पुस्तामा मौलिक कला र संस्कृतिको पुस्तान्तरण तथा बालबालिकाको अन्तर्निहित प्रतिभा प्रस्फुटन गर्ने उद्देश्यले पर्वतमा पहिलो पटक जिल्ला स्तरीय बा...",
-   "link": "https://gorkhapatraonline.com/news/229746",
-   "source": "Gorkhapatra",
-   "ts": 1795223509,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/392399/conversions/panche-baja-photo-original.jpg",
-   "lang": "ne",
-   "hl": "बालबालिकाबिच पञ्चेबाजा प्रतियोगिता",
-   "en": "बालबालिकाबिच पञ्चेबाजा प्रतियोगिता",
-   "ne": "बालबालिकाबिच पञ्चेबाजा प्रतियोगिता",
-   "imp": 2,
-   "tags": [
-    "Panchebaja",
-    "Children",
-    "Culture",
-    "पञ्चेबाजा"
-   ],
-   "cat": "culture",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -5167,7 +4983,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 3
+   "hits": 4
   },
   {
    "title": "दुई सय डलर जरिवानाले सिकाएको 'सिभिक सेन्स'!",
@@ -6134,29 +5950,6 @@
    "hits": 1
   },
   {
-   "title": "सर्लाहीमा सुतिरहेका वृद्ध दम्पतीमाथि इँटाले आ'क्रमण: श्रीमान्‌को मृ'त्यु, छिमेकी युवक पक्राउ",
-   "summary": "सर्लाहीको हरिपूर्वा नगरपालिका-१ बसन्तपुरमा लागुऔषध गाँजा किनबेचको विवादका कारण सुतिरहेका वृद्ध दम्पतीमाथि इँटाले आक्रमण हुँदा एक जनाको मृत्यु भएको छ।...",
-   "link": "https://nagariknews.nagariknetwork.com/Aparadh/elderly-couple-attacked-with-bricks-while-sleeping-in-dispute-over-marijuana-purchase-one-dies-89-16.html",
-   "source": "Nagarik News",
-   "ts": 1795250046,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1786282078_pakrau.png",
-   "lang": "ne",
-   "hl": "सर्लाहीमा सुतिरहेका वृद्ध दम्पतीमाथि इँटाले आ'क्रमण: श्रीमान्‌को मृ'त्यु, छिमेकी युवक पक्राउ",
-   "en": "सर्लाहीमा सुतिरहेका वृद्ध दम्पतीमाथि इँटाले आ'क्रमण: श्रीमान्‌को मृ'त्यु, छिमेकी युवक पक्राउ",
-   "ne": "सर्लाहीमा सुतिरहेका वृद्ध दम्पतीमाथि इँटाले आ'क्रमण: श्रीमान्‌को मृ'त्यु, छिमेकी युवक पक्राउ",
-   "imp": 4,
-   "tags": [
-    "सर्लाही",
-    "हत्या",
-    "Sarlahi"
-   ],
-   "cat": "crime",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
    "title": "'हावाहुरी' ल्याएर चुनाव जित्ने सोच नराख्न रास्वपालाई प्रचण्डको चेतावनी",
    "summary": "",
    "link": "https://baahrakhari.com/detail/507912",
@@ -6517,7 +6310,7 @@
    "cat": "politics",
    "val": 2,
    "teaser": true,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "विदेशमा रहेका नेपालीलाई मताधिकार दिन कानुन संशोधनको लागि आयोगको प्रस्ताव",
@@ -9929,10 +9722,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "politics"
+  },
+  {
+   "ts": 1795252854.4446056,
+   "en": "सर्लाहीमा सुतिरहेका वृद्ध दम्पतीमाथि इँटा प्रहार, श्रीमान्‌को मृत्यु",
+   "ne": "सर्लाहीमा सुतिरहेका वृद्ध दम्पतीमाथि इँटा प्रहार, श्रीमान्‌को मृत्यु",
+   "link": "https://nagariknews.nagariknetwork.com/Aparadh/elderly-couple-attacked-with-bricks-while-sleeping-in-dispute-over-marijuana-purchase-one-dies-89-16.html",
+   "source": "Nagarik News",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "crime"
   }
  ],
- "updated": 1795252264,
- "pending_since": null,
+ "updated": 1795252866,
+ "pending_since": 1795252848.4049516,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
