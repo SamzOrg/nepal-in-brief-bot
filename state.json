@@ -1,8 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMie0FVX3lxTFBWZ29NWTNfeTNZY01HTnpNZ3lWbExod0NQRXVJc1A4RWdxN3FQd0JraFNBZG5TVUtBMVdUdEVBS1F1d2RSaFN6ajR2akNndlo3LU1XZTNON2tjeHFMUzlUWFQzVGNaZzlJWGo1c3R3X2g0cHZ1WUJicDhYQQ?oc=5": 1795070460.0520263,
-  "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVS14Z182YXFoNTQ2WGpLZ1lsSnlZSVBLVVZfZ05BTThDS1daVXlhTzlHVlBnQzBRM2FadkdLLXB5d0xLa1MzMFoxeXRMTXowMHFsNVluUFRtUDNzLW5wVS11WklWdWZ3WW16RDYtQ25rVGNSMHZXblpqWDNSejFkUHNuX25NU2U0S3BSd2JGazhDQWw4U2dlTVVLNDNEVVM3TS1xUkhWSVVHTWFrejBjcTlTYw?oc=5": 1795070460.0520263,
-  "https://gorkhapatraonline.com/news/229568": 1795070460.0520263,
   "https://www.setopati.com/social/402906": 1795071055.5454538,
   "https://gorkhapatraonline.com/news/229569": 1795071055.5454538,
   "https://baahrakhari.com/detail/507723": 1795071055.5454538,
@@ -2044,7 +2041,8 @@
   "http://english.ratopati.com/story/87578/man-arrested-for-seriously-injuring-wife-and-three-children-with-axe": 1795242670.923277,
   "https://www.ujyaaloonline.com/detail/133709": 1795243248.2109318,
   "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1DZV9lb21tWXYtcVd0X3JiTkJrY2tWMnFKVjRQUjNhQ1M4VjFpclpwRjhXT19aTFRtLUplTHU3STZBdDdHSlVjblRrQXBNYllD?oc=5": 1795243248.2109318,
-  "http://english.ratopati.com/story/87590/khatyad-rara-road-still-blocked-for-two-months": 1795243248.2109318
+  "http://english.ratopati.com/story/87590/khatyad-rara-road-still-blocked-for-two-months": 1795243248.2109318,
+  "https://gorkhapatraonline.com/news/229793": 1795243850.5952032
  },
  "queue": [
   {
@@ -5819,50 +5817,25 @@
    "hits": 1
   },
   {
-   "title": "Man Attacks Wife and Three Children with Axe in Dailekh",
-   "summary": "Dailekh. Police have arrested a man who seriously injured his wife and three minor children by attacking them with an...",
-   "link": "http://english.ratopati.com/story/87578/man-arrested-for-seriously-injuring-wife-and-three-children-with-axe",
-   "source": "Ratopati EN",
-   "ts": 1795240343,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/pakrau-arrest_cFmetVHVbw.jpg",
-   "lang": "en",
-   "hl": "Man Attacks Wife and Three Children with Axe in Dailekh",
-   "en": "Man Attacks Wife and Three Children with Axe in Dailekh",
-   "ne": "Man Attacks Wife and Three Children with Axe in Dailekh",
-   "imp": 4,
+   "title": "बाढीले पुल बगाएपछि तुइनको भरमा धार्चेबासी",
+   "summary": "अस्मिता सिंखडागोरखा, मङ्सिर ५ गते । बूढीगण्डकी नदीमा आएको बाढीले झोलुङ्गे पुल बगाएपछि उत्तरी गोरखाको धार्चे गाउँपालिकास्थित खोर्लाबेँसी क्षेत्रका बासिन्दा अस्थायी तुइनको भरमा खाद्य...",
+   "link": "https://gorkhapatraonline.com/news/229793",
+   "source": "Gorkhapatra",
+   "ts": 1795243271,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/392463/conversions/gorkha-original.jpg",
+   "lang": "ne",
+   "hl": "बाढीले पुल बगाएपछि तुइनको भरमा धार्चेबासी",
+   "en": "बाढीले पुल बगाएपछि तुइनको भरमा धार्चेबासी",
+   "ne": "बाढीले पुल बगाएपछि तुइनको भरमा धार्चेबासी",
+   "imp": 3,
    "tags": [
-    "Dailekh",
-    "Attack",
-    "Crime",
-    "दैलेख"
-   ],
-   "cat": "crime",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Mugu Road Blocked for Two Months Due to Landslides, Affecting Locals and Tourists",
-   "summary": "Mugu. The Jhugla-Rara-Gamgadhi road in the western part of the district, Khartyad Rural Municipality, has been blocked for two months,...",
-   "link": "http://english.ratopati.com/story/87590/khatyad-rara-road-still-blocked-for-two-months",
-   "source": "Ratopati EN",
-   "ts": 1795242958,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/gamagadha-nagacalgana-sadakaka-magara-bhara_y61rAkMoAF.webp",
-   "lang": "en",
-   "hl": "Mugu Road Blocked for Two Months Due to Landslides, Affecting Locals and Tourists",
-   "en": "Mugu Road Blocked for Two Months Due to Landslides, Affecting Locals and Tourists",
-   "ne": "Mugu Road Blocked for Two Months Due to Landslides, Affecting Locals and Tourists",
-   "imp": 4,
-   "tags": [
-    "Mugu",
-    "Landslide",
-    "RoadBlocked",
-    "पहिरो"
+    "Flood",
+    "Dharche",
+    "बाढी"
    ],
    "cat": "disaster",
-   "val": 3,
+   "val": 2,
    "teaser": false,
    "hits": 1
   }
@@ -8903,9 +8876,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "disaster"
+  },
+  {
+   "ts": 1795243858.358271,
+   "en": "Man Arrested for Axe Attack on Wife and Three Children in Dailekh",
+   "ne": "Man Arrested for Axe Attack on Wife and Three Children in Dailekh",
+   "link": "http://english.ratopati.com/story/87578/man-arrested-for-seriously-injuring-wife-and-three-children-with-axe",
+   "source": "Ratopati EN",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "crime"
   }
  ],
- "updated": 1795243257,
+ "updated": 1795243874,
  "pending_since": 1795243248.2109318,
  "fb_blocks": [
   1790350880.4125228,
