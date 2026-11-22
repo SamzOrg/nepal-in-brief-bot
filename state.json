@@ -1916,7 +1916,9 @@
   "https://risingnepaldaily.com/news/88872": 1795307465.9296932,
   "http://english.ratopati.com/story/87700/from-dollar-to-qatari-riyal-here-are-the-foreign-currency-exchange-rates-with-list": 1795308056.7285419,
   "https://baahrakhari.com/detail/507947": 1795308056.7285419,
-  "https://risingnepaldaily.com/news/88875": 1795308056.7285419
+  "https://risingnepaldaily.com/news/88875": 1795308056.7285419,
+  "https://nagariknews.nagariknetwork.com/politics/prime-minister-shah-is-leaving-for-a-state-visit-to-india-today-will-meet-modi-tomorrow-65-55.html": 1795308650.9162757,
+  "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZUxmYWJBUmZxQWcyUDFZOVdJajFPbVBYOW9rNDdSNGxpZWx3UFhsb1hTUnBhVHJ2a2VxWUU5em1XcmU4MmQ2VEU4anN1dGZUSW9nRnhlSkZQTVZmTlVvbkxXdkd0QkhOcGd4VzN5M0FxcXVqUzBwZXpGM28wSm8yRnBDeDhIV19IS0ExdUcxdUVWeUFQMi1jX1EyQ3E2LWplS2NIVk56Zm1RLVdKYkhGaENiODA?oc=5": 1795308650.9162757
  },
  "queue": [
   {
@@ -1938,29 +1940,6 @@
     "BankAccounts"
    ],
    "cat": "crime",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Lumbini Lions Receive Rs 20 Lakh Less Than Announced Prize Money",
-   "summary": "Kathmandu. Lumbini Lions, the runner-up of the third edition of the Nepal Premier League (NPL), has received Rs 20 lakh...",
-   "link": "http://english.ratopati.com/story/87696/the-prize-was-announced-at-rs-8-million-lumbini-received-only-rs-6-million-why-did-the-prize-decrease",
-   "source": "Ratopati EN",
-   "ts": 1795279705,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/npl_4HW8XoHUuB.webp",
-   "lang": "en",
-   "hl": "Lumbini Lions Receive Rs 20 Lakh Less Than Announced Prize Money",
-   "en": "Lumbini Lions Receive Rs 20 Lakh Less Than Announced Prize Money",
-   "ne": "Lumbini Lions Receive Rs 20 Lakh Less Than Announced Prize Money",
-   "imp": 3,
-   "tags": [
-    "LumbiniLions",
-    "NPL",
-    "PrizeMoney"
-   ],
-   "cat": "sports",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -2128,52 +2107,6 @@
    "val": 3,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "India-Nepal Energy Grid Integration (2026)",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTkxyYjBSOXBmZjZvYTlrMHZiNjExc3YzTUVxVjZWV1dwX3dYanptSndCNTB3eGg0UElNeGpNX1V4SDZ5RTFjWS1LMnlhVmtGTDFfR2JBMVlQZ3JncXNlcndDZW5JZ2JlSjNlX2VVYmh0ejRfei1JRUNwcWlySURzOGZPci1XUVNpZ0lSRmZqekFFTHM?oc=5",
-   "source": "IMPRI Impact and Policy Research Institute",
-   "ts": 1795279515,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "India-Nepal Energy Grid Integration (2026)",
-   "en": "India-Nepal Energy Grid Integration (2026)",
-   "ne": "India-Nepal Energy Grid Integration (2026)",
-   "imp": 3,
-   "tags": [
-    "India",
-    "Nepal",
-    "EnergyGrid",
-    "Electricity"
-   ],
-   "cat": "economy",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "प्रधानमन्त्री बालेन आज भारतको राजकीय भ्रमणमा जाँदै",
-   "summary": "उनी आज मध्याह्न १ बजेर ४५ मिनेटमा नेपाल वायुसेवाको नियमित उडानबाट नयाँ दिल्ली प्रस्थान गर्नेछन्।",
-   "link": "https://www.setopati.com/politics/403092",
-   "source": "Setopati",
-   "ts": 1795307423,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "प्रधानमन्त्री बालेन आज भारतको राजकीय भ्रमणमा जाँदै",
-   "en": "प्रधानमन्त्री बालेन आज भारतको राजकीय भ्रमणमा जाँदै",
-   "ne": "प्रधानमन्त्री बालेन आज भारतको राजकीय भ्रमणमा जाँदै",
-   "imp": 4,
-   "tags": [
-    "IndiaVisit",
-    "BalenShah"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 6
   },
   {
    "title": "Daily Horoscope for November 22, 2026",
@@ -5397,9 +5330,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "sports"
+  },
+  {
+   "ts": 1795308656.0836506,
+   "en": "प्रधानमन्त्री बालेन शाह आज भारतको राजकीय भ्रमणमा जाँदै",
+   "ne": "प्रधानमन्त्री बालेन शाह आज भारतको राजकीय भ्रमणमा जाँदै",
+   "link": "https://www.setopati.com/politics/403092",
+   "source": "Setopati",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "politics"
   }
  ],
- "updated": 1795308061,
+ "updated": 1795308669,
  "pending_since": 1795308056.7285419,
  "fb_blocks": [
   1790350880.4125228,
