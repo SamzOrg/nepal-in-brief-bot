@@ -2563,30 +2563,6 @@
    "hits": 1
   },
   {
-   "title": "Winter chill slows tourism, hits local economy in Nepal",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOV2MwLTR2OUlMWjgtQkMxLW5zSmM3b1J3VW9DQkttLTFEelFuaGx0YjZHSEI5cmpPRS13NXh2dnZXQURDcTJ5T0VxLVFPanJ4N2VWSnd0RE5OcFJVWVN6c3NfdnZoZWdqNUxYUU1NMjZ2MFF2MF9KcXdJTUg5NXFKcUZLTTAwM0Vzc09fRE1FVnkwanJaWmNVQTlyVDA2QdIBowFBVV95cUxPcEFvSFlfU1I4ZFFHLXdOWGM3UDduQVhENlVFVGZMcFotaktxcExNYmtXNDZZZDdLaEhvNWJVUVlzZjRDaktMWm9DSFcycHg1a3diaG9wREdLUXN3cFBKNXhGYktWTlJ4MzFXcjNCRTJ4WHJUUGZhc0RPQnF6bEVUSmJqa3Jud1Zud3A0Vm10YVV1dUVBaWdKNV9wc3VLRlI1OFFV?oc=5",
-   "source": "MillenniumPost",
-   "ts": 1795370312,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Winter chill slows tourism, hits local economy in Nepal",
-   "en": "Winter chill slows tourism, hits local economy in Nepal",
-   "ne": "Winter chill slows tourism, hits local economy in Nepal",
-   "imp": 3,
-   "tags": [
-    "WinterChill",
-    "Tourism",
-    "NepalEconomy",
-    "पर्यटन"
-   ],
-   "cat": "economy",
-   "val": 2,
-   "teaser": false,
-   "hits": 2
-  },
-  {
    "title": "Syrian Authorities Destroy Large Quantities of Narcotics Including 400 Million Captagon Pills",
    "summary": "Damascus. Syrian authorities have announced the destruction of a large quantity of narcotics, including 400 million Captagon pills, seized during...",
    "link": "http://english.ratopati.com/story/87812/syria-destroys-400-million-captagon-pills",
@@ -2628,29 +2604,6 @@
    ],
    "cat": "sports",
    "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "85 Americans still missing as Nepal flood traps hundreds in hydropower tunnels",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxPWmk5elpoTWhYY2xRVW5zZmdaSlFTQmpCUDd4QVdDSkVJc1ZpUFU4ekpWa0pDdDlTRG5FOGJEcm5EVEgyM2dLT003dUFxcjdMTzZIRnRtWkExS3dsejlrWHJ1LWZTSlpGcDZYTTlIM1ctbWFBbGhfdDh4bVpZRGZUQ1NwdTVWYjdpVUdWdVF4bmMxb1NDd29ZSWNLWGhESS1BNjVwdU9xYUJVUmpBY09aVmc3VG5BbXJsSzc0b045X0plbVJ0bzFJbFhyUWNBTW9Rek5zNUliY2NBZWZkWmZKdTMyTFZ6bU96MlRFRDdmWlFKUTZlY0plcktpWVZYS01xV0I1cV9DM2V3RDJ0Ums5dWtGaWhzLW1xNGZLSWpQeVVFaklHNGdwTEJKUnhMRXBXdVhUcnNVUlNUMkc2VVJra09XV2pmaDhoblpkQmNmbEZTWk94a2IwNA?oc=5",
-   "source": "WSMH",
-   "ts": 1795369814,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "85 Americans still missing as Nepal flood traps hundreds in hydropower tunnels",
-   "en": "85 Americans still missing as Nepal flood traps hundreds in hydropower tunnels",
-   "ne": "85 Americans still missing as Nepal flood traps hundreds in hydropower tunnels",
-   "imp": 4,
-   "tags": [
-    "Flood",
-    "Hydropower",
-    "AmericansMissing"
-   ],
-   "cat": "disaster",
-   "val": 3,
    "teaser": false,
    "hits": 1
   },
@@ -5681,10 +5634,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "sports"
+  },
+  {
+   "ts": 1795389659.4665987,
+   "en": "Winter chill ends Nepal autumn trekking season as 1,180 leave Khumbu",
+   "ne": "Winter chill ends Nepal autumn trekking season as 1,180 leave Khumbu",
+   "link": "https://www.millenniumpost.in/world/winter-chill-slows-tourism-hits-local-economy-in-nepal-684187",
+   "source": "MillenniumPost",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "economy"
   }
  ],
- "updated": 1795389058,
- "pending_since": null,
+ "updated": 1795389674,
+ "pending_since": 1795389648.3788588,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
