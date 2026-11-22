@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://gorkhapatraonline.com/news/229636": 1795140084.5301692,
   "https://www.ujyaaloonline.com/detail/133663": 1795140654.7816112,
   "https://nagariknews.nagariknetwork.com/politics/shovel-workers-to-receive-rs-1-700-daily-from-mangsir-minister-lamsal-83-64.html": 1795140654.7816112,
   "https://www.ujyaaloonline.com/detail/133662": 1795140654.7816112,
@@ -1939,7 +1938,8 @@
   "https://gorkhapatraonline.com/news/229885": 1795312882.9436395,
   "https://nagariknews.nagariknetwork.com/social-affairs/preparations-for-city-bus-operation-in-four-municipalities-of-parsa-bara-29-35.html": 1795312882.9436395,
   "https://gorkhapatraonline.com/news/229884": 1795312882.9436395,
-  "https://nagariknews.nagariknetwork.com/arts/hemchandra-pokharel-in-the-garden-of-creation-collection-released-br-96-57.html": 1795312882.9436395
+  "https://nagariknews.nagariknetwork.com/arts/hemchandra-pokharel-in-the-garden-of-creation-collection-released-br-96-57.html": 1795312882.9436395,
+  "http://english.ratopati.com/story/87710/the-problems-of-nepalis-living-in-delhi-are-countless": 1795313451.6247132
  },
  "queue": [
   {
@@ -6184,8 +6184,8 @@
    "cat": "politics"
   }
  ],
- "updated": 1795312890,
- "pending_since": null,
+ "updated": 1795313454,
+ "pending_since": 1795313451.6247132,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
