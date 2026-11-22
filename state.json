@@ -1885,51 +1885,6 @@
  },
  "queue": [
   {
-   "title": "Princess Kate Middleton Speaks Openly About Cancer Experience in New Documentary 'The Crown'",
-   "summary": "Britain. British Princess Kate Middleton has spoken openly about her experience with cancer in a new documentary. She said that...",
-   "link": "http://english.ratopati.com/story/87705/british-princess-kate-opens-up-about-her-cancer-experience",
-   "source": "Ratopati EN",
-   "ts": 1795310924,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/kk_vlqp2w8O67.webp",
-   "lang": "en",
-   "hl": "Princess Kate Middleton Speaks Openly About Cancer Experience in New Documentary 'The Crown'",
-   "en": "Princess Kate Middleton Speaks Openly About Cancer Experience in New Documentary 'The Crown'",
-   "ne": "Princess Kate Middleton Speaks Openly About Cancer Experience in New Documentary 'The Crown'",
-   "imp": 1,
-   "tags": [
-    "KateMiddleton",
-    "Cancer"
-   ],
-   "cat": "world",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Discover Fun KOREA Quiz 2026 held",
-   "summary": "By A Staff Reporter, Kathmandu, Nov. 22: The Embassy of the Republic of Korea in Kathmandu organised the \"Discover Fun K...",
-   "link": "https://risingnepaldaily.com/news/88880",
-   "source": "Rising Nepal",
-   "ts": 1795310890,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Discover Fun KOREA Quiz 2026 held",
-   "en": "Discover Fun KOREA Quiz 2026 held",
-   "ne": "Discover Fun KOREA Quiz 2026 held",
-   "imp": 1,
-   "tags": [
-    "Korea",
-    "Quiz",
-    "Kathmandu"
-   ],
-   "cat": "culture",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Mahesh Sah Panel Wins Siraha Golbazar Chamber of Commerce Election",
    "summary": "Siraha. Mahesh Sah (Kokwa) has been elected along with his panel in the election of Siraha Golbazar Chamber of Commerce....",
    "link": "http://english.ratopati.com/story/87708/mahesh-sah-elected-to-golbazar-industry-and-trade-association-along-with-panel",
@@ -6461,17 +6416,6 @@
  ],
  "posted": [
   {
-   "ts": 1794734463.3169892,
-   "en": "Dhaulagiri Hospital in Baglung awaits trauma centre a decade after 2015 plan announcement",
-   "ne": "Dhaulagiri Hospital in Baglung awaits trauma centre a decade after 2015 plan announcement",
-   "link": "https://kathmandupost.com/health/2026/11/15/dhaulagiri-hospital-still-waiting-for-trauma-centre-a-decade-after-announcement",
-   "source": "Kathmandu Post",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "health"
-  },
-  {
    "ts": 1794736261.6106553,
    "en": "Govt to declare 2,465 missing from Bhotekoshi, Trishuli floods dead",
    "ne": "Govt to declare 2,465 missing from Bhotekoshi, Trishuli floods dead",
@@ -9497,8 +9441,8 @@
    "cat": "world"
   }
  ],
- "updated": 1795339284,
- "pending_since": null,
+ "updated": 1795339869,
+ "pending_since": 1795339865.8188255,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
