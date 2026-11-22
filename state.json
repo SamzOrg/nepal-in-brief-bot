@@ -1923,7 +1923,10 @@
   "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNUFh4a0V5Z1ZCWDJOdVJXZkxPZHRtVTkxVEI5Qm5VdXRXSV9uSVRaQ2Z1S2JPN0dzbzBRX2Vvc2F0blc1Y1RoRGhSd2ZxbEE0LXZYOXJPQTZQQVNybGdrWExIYV9tUnk5anJfT2lKWVRYQnpUbzZJUnNEN0lHTlF2X3c0ZzAzSkstcmtpWFM1dHVHZ0Y0dE44MkFDVE4temNHSmRWSkdqTWhVeWRsTXBMS3ZWalBOWnJ2ZFE0b1NnbTUzc3UzV1RucjRlTXNrclF4OTRXS0s1Q2ZQaUNWY2t5Z1ZWa0xrR2stTVZCUg?oc=5": 1795321259.4018874,
   "https://www.ujyaaloonline.com/detail/133734": 1795321259.4018874,
   "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRVMzLWtsdTJOeGFGZWRobEhQaTJKT3JsejBib0ZiMHFUdTVIdi1XeVlNaHIxQzN6Q0lIalFva1Y0SGZVRFVuLUljTXFqNGVQUms2bDdDVTBNQlNZRHFCcmFOajcxXzlZRjRuTXlKUUtaWWRMbTU1ckgxeGJEMkZZOEx5LUtnOXpUcEV6Wnc3YkFpYW9WTUJqM0IzeFdjWk5OWVVyUDJfVGZCZjZMbndCaFlNQmlrZFhaT2RHLVgyakhhU0ZVcHdxYWJ2ZDJfQ3Fxb1BjNQ?oc=5": 1795321259.4018874,
-  "https://thehimalayantimes.com/nepal/sudurpaschim-royals-clinch-first-npl-title-with-10-wicket-win": 1795321259.4018874
+  "https://thehimalayantimes.com/nepal/sudurpaschim-royals-clinch-first-npl-title-with-10-wicket-win": 1795321259.4018874,
+  "https://gorkhapatraonline.com/news/229914": 1795321870.0502374,
+  "https://www.ujyaaloonline.com/detail/133735": 1795321870.0502374,
+  "http://english.ratopati.com/story/87725/15-militants-killed-in-security-operation-in-pakistans-balochistan": 1795321870.0502374
  },
  "queue": [
   {
@@ -3184,7 +3187,7 @@
    "cat": "culture",
    "val": 3,
    "teaser": false,
-   "hits": 4
+   "hits": 5
   },
   {
    "title": "Dashain purchases surge QR and digital wallet transactions",
@@ -4206,7 +4209,7 @@
    "cat": "crime",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Police open organised-crime probe into 21.75kg gold seizure",
@@ -4392,6 +4395,29 @@
     "Cricket"
    ],
    "cat": "sports",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "15 Militants Killed in Balochistan Security Operations",
+   "summary": "Balochistan. In two separate security operations in Mastung district of Pakistan's southwestern province of Balochistan on Saturday, 15 militants were...",
+   "link": "http://english.ratopati.com/story/87725/15-militants-killed-in-security-operation-in-pakistans-balochistan",
+   "source": "Ratopati EN",
+   "ts": 1795321489,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/pakistan-map_rNnsOe0siF.png",
+   "lang": "en",
+   "hl": "15 Militants Killed in Balochistan Security Operations",
+   "en": "15 Militants Killed in Balochistan Security Operations",
+   "ne": "15 Militants Killed in Balochistan Security Operations",
+   "imp": 1,
+   "tags": [
+    "Balochistan",
+    "Pakistan",
+    "Militants"
+   ],
+   "cat": "world",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -7424,7 +7450,7 @@
    "cat": "economy"
   }
  ],
- "updated": 1795321288,
+ "updated": 1795321880,
  "pending_since": 1795321259.4018874,
  "fb_blocks": [
   1790350880.4125228,
