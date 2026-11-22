@@ -1,7 +1,5 @@
 {
  "seen": {
-  "http://english.ratopati.com/story/87518/26-journalists-to-join-pms-visit-to-india": 1795181473.8308887,
-  "https://baahrakhari.com/detail/507868": 1795181473.8308887,
   "https://news.google.com/rss/articles/CBMiowFBVV95cUxQLWlkV25Dc1BBeTRkaC1lRk1SVmt1aXV1d0FmMzZHM3RYRzZNaXdOOXEwZzFTd2ozOXF0dmRsYzdUOGlWZTZTWGY3Rm9haG1jSm1Mc1hySDlFbWlRU21hT1dISGhxTktWemlQUTBzTG1RTUJydzkxVEhfeUJkNUNXRVZtejJxeVFZcDZ3QkNoUldiN0Q0S0ZYUS1uRGFXWDc1NFEw?oc=5": 1795182056.2344048,
   "https://nagariknews.nagariknetwork.com/sports/asia-cup-rising-stars-high-scoring-india-against-nepal-lalit-takes-two-wickets-88-71.html": 1795182056.2344048,
   "https://gorkhapatraonline.com/news/229722": 1795182056.2344048,
@@ -1905,7 +1903,36 @@
   "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQY2kwelpsNFdiakhCaENWLXBsOWh6VUl0VEJUNUxDeEZTMFFRVS1aOUlaem5OQ2MyMnY5N2ZIcTZmSjAtVDJwWDJYd3JuZXZGMVhLbnpMTlF4RGg2VGFHclE1RFdpSFBEMjVTdmJGYjJKRExTdDhlNmtWbWtIS1g0YU5hbktSUkFiMWpnblpiamRSYzV2OGh6R3hjNi04SmVZeWtJVmRKVVQtNU82S25EcGF2bElveU9FcmpfZW9yNkJTaXVlX2pHYnp0SHZGTEY0VXZrYWE5MXpMMmh0d1lWUUQtY09OdE9EMExzZDV2ME9Zb3dDNmY2WGkwMWVZVzTSAf8BQVVfeXFMUGNpMHpabDRXYmpIQmhDVi1wbDloelVJdFRCVDVMQ3hGUzBRUVUtWjlJWnpuTkNjMjJ2OTdmSHE2ZkowLVQycFgyWHdybmV2RjFYS256TE5ReERoNlRhR3JRNURXaUhQRDI1U3ZiRmIySkRMU3Q4ZTZrVm1rSEtYNGFOYW5LUlJBYjFqZ25aYmpkUmM1djhoekd4YzYtOEplWXlrSVZkSlVULTVPNktuRHBhdmxJb3lPRXJqX2VvcjZCU2l1ZV9qR2J6dEh2RkxGNFV2a2FhOTF6TDJodHdZVlFELWNPTnRPRDBMc2Q1djBPWW93QzZmNlhpMDFlWVc0?oc=5": 1795353649.039519,
   "https://news.google.com/rss/articles/CBMiugFBVV95cUxPckdtNzhxRHA0M29tREVQRzNWekZzMGhmT054S0ZRSzU1UlNfTVkxZDJKWHpTRjBGSkVNcVNLZnJULWJiU280TTM5c1ZOWHlVUnJnRHg2TmVvVnFWMGMyalVoR3ZHSHp4cXBTSW1YOTh1RmZKZTJPMURXdDI4NzBRQ2RCYmZ2cjdHMHBjVmJ1YXg1RFhqVG5saHNRWXJoODZBdnNObFp6T2gwelRHbno1NkkxWEdvRmtKQlHSAboBQVVfeXFMT3JHbTc4cURwNDNvbURFUEczVnpGczBoZk9OeEtGUUs1NVJTX01ZMWQySlh6U0YwRkpFTXFTS2ZyVC1iYlNvNE0zOXNWTlh5VVJyZ0R4Nk5lb1ZxVjBjMmpVaEd2R0h6eHFwU0ltWDk4dUZmSmUyTzFEV3QyODcwUUNkQmJmdnI3RzBwY1ZidWF4NURYalRubGhzUVlyaDg2QXZzTmxaek9oMHpUR256NTZJMVhHb0ZrSkJR?oc=5": 1795353649.039519,
   "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNWDNZaGZYY01RVzdzRGUtaHhlODRIem1SaVptYWt2Wkg3ajNGUnhqZFdLYjFNNk5DX2E5VnFQX09NeGJzVDVPWTRlTThsazJSUEpCaTBuY3lSNmNseHBPcUV5S3UzNWRPQWlhMDJMS2duOUdjMDNtNGIta2gtVTlKMW5pSzczTTZ3U3ZVWU5SOWdkZTJPcUFjOGtNZ2RnWWNkRVJQbTRhbjNib0lGNjhBU1JwNW9IY2FQZldmR0U2dERWMkRPQkVQR0tiQ0tWQVJWWk9Kbk9SYVlnOGEzbUhJ0gHfAUFVX3lxTE1YM1loZlhjTVFXN3NEZS1oeGU4NEh6bVJpWm1ha3ZaSDdqM0ZSeGpkV0tiMU02TkNfYTlWcVBfT014YnNUNU9ZNGVNOGxrMlJQSkJpMG5jeVI2Y2x4cE9xRXlLdTM1ZE9BaWEwMkxLZ245R2MwM200Yi1raC1VOUoxbmlLNzNNNndTdlVZTlI5Z2RlMk9xQWM4a01nZGdZY2RFUlBtNGFuM2JvSUY2OEFTUnA1b0hjYVBmV2ZHRTZ0RFYyRE9CRVBHS2JDS1ZBUlZaT0puT1JhWWc4YTNtSEk?oc=5": 1795353649.039519,
-  "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9KanBNRFN3bWd1bF80cndhS0t2WmZONE9XOThCR0YwQVV6aXAxNFc1WjhvWTZHZkxlZmtvdk9OZ3V6eGdoal90dU10SQ?oc=5": 1795354268.0278077
+  "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9KanBNRFN3bWd1bF80cndhS0t2WmZONE9XOThCR0YwQVV6aXAxNFc1WjhvWTZHZkxlZmtvdk9OZ3V6eGdoal90dU10SQ?oc=5": 1795354268.0278077,
+  "https://english.khabarhub.com/2026/22/576613/": 1795354846.1163795,
+  "https://nagariknews.nagariknetwork.com/politics/meeting-between-prime-minister-balendra-shah-and-indian-foreign-minister-jaishankar-69-15.html": 1795354846.1163795,
+  "https://nagariknews.nagariknetwork.com/social-affairs/farmers-demand-to-maintain-milk-price-at-rs-80-per-liter-br-52-11.html": 1795354846.1163795,
+  "https://nagariknews.nagariknetwork.com/politics/pm-shah-s-visit-to-india-possibility-of-agreement-on-air-route-br-13-60.html": 1795354846.1163795,
+  "https://baahrakhari.com/detail/508010": 1795354846.1163795,
+  "https://english.onlinekhabar.com/livestock-suffer-no-animal-welfare.html": 1795354846.1163795,
+  "https://nagariknews.nagariknetwork.com/Bazar/apple-s-namedrop-feature-faces-rs-1-500-crore-lawsuit-in-india-demand-to-stop-sales-44-42.html": 1795354846.1163795,
+  "https://gorkhapatraonline.com/news/230001": 1795354846.1163795,
+  "https://www.setopati.com/politics/403153": 1795354846.1163795,
+  "https://english.khabarhub.com/2026/22/576618/": 1795354846.1163795,
+  "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPbDkzSTJ0NVZEd3dYdENPZVhZNlZ2RVpuVTEwaGZpU0ZkSER0SUpucXRiYnFBRlgwM2pBTUZsV3ZySjYyR2dNcFlJTHNqcXRVelVVZ1U0V2pBbDZYMDNRZDZmQlp3RDl3T1AxcDR1ZkxYZy1Vc3J3LWlLUzg4WFlZZEtKREVmSnY5dC1Bclg2eTMzMHFNQ0Fvdm9teGJlMXg4NVBuTEM2UlR4cDdGNmk0LW1hd2d2aGZYSk9DV1NXbU1vLVMyTmVSOEJuaFVkbWo5Y3NQZ0c3NFUyb3U1MXNVUG1zcFfSAeoBQVVfeXFMTW1kb1ZpNjBoT0xObVRQZnZWMWIzX2ZXdEJ0ajhpa3lyVC04NmZSVTFkSlI1VmtNY3dIVTRvUUJrUTBkak1VSGFOQjFHTlR2ZFBndE1aZkVkaWJEamtUZ29CS3RROXp5aDIzMm55QXlqb2ZoNTlaX0Q5Smx2V0prS2ZOUWlaRldYTnMtNFNVU1I3SU5obnlDcklMeHBidWJ3MUVrU0xkT3dnT0pQQ0JEZnN3c05ya1U2d2t4RDN2amNYcEh6cnhXSkEtcW8wakxQTFE3YklrVWs0dVg0clRMcVNIYmNHazFFUjJR?oc=5": 1795354846.1163795,
+  "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNR0RqQXR3bjJxRXJqZmw2dzN6THMxTEd4TDdEU09JZEV5NGpIak1ncnJsQ193b1ZEeWlQWlRRWTBuc295VUdIU3YxdWQtQWZiU2w0SkdWSGEtQzIxN3Q2WEQtZzlXRTAyRjl3eTFqeGtqMlJTcXU1MklKd2M4b0dNMkZfLU1xZkxyS1VQU25wU1JaS3oxWTB0Tm9xZTgzQTlPdTh2b2FIOUJlWHp0THdpSHU5YnJ0NnN1eVdEMHV4WUpjOFVjVW1tMVZjYnVoTHI4bFHSAdgBQVVfeXFMT0Z1ajRrT3Z2RlJ5cEZkY2pLY253U2sxMUtQdzZoM1o1NVE4dG0wWXNNOG53VDJjSUpRVHJlS2dKQjdTU3ZnNFJiSFlheFB3dGZnOG1CT0w5dmpNYndmWVJqd1k0V2VnYTRidjRCUGRiZGJlMks4YjJ3VU84YTZnekdJNG5VUkZtOFE0TkJvd2M4RXl0QllwR0psTzZFOENWSXdDclZuRGdxOUE2eDloWUlBcU9CQVRpd3BBRnBlWV9tZGxqRGloT2ZhRmx5R3FtZzROU3JDS3Fz?oc=5": 1795354846.1163795,
+  "http://english.ratopati.com/story/87802/why-has-the-appeal-file-against-the-casino-operator-been-stuck-in-the-attorney-generals-office-for-two-years": 1795354846.1163795,
+  "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNUkdiUkVyZVMyVmxUcjJRLTNYSnVkWVlOOVZCZG1peWVBcC03RmIzNGF1V0NmUlcxc0wxX0c0blE4TzhjVW9Ga3RJLTBSMVJzd296TmN1XzdmVk9XdmNWTmdZaFMxeFZUNER6c01DQW5lVjVnNllmOXlKYUZxS0w0eFF5UHhnVE5iV0pXVmFXbVFHOUsySk05SVZIY2h0b0tOVjBzcmpfWlloWUY1bHlZRU1rVHlsYWJDWm54eUJBUXVvVVhoWWt0dWhKcHVQT0s3TTQ0UktGRF9ITDNVeDB6aVZYZHhTcFNIWHVXOVd6Wm1WS1VQOFFpQdIBhgJBVV95cUxORlNWODNMNmM3WmhzRG51M3JULXRXbGtBVWxNRk5FXzFPZGRqeEpscmNRTWpKSnVJalB6QXlFQUUzZS1sN1U4SFBqZEFOSUJOZERqb0FvUHpMbkxmRVFXQjJZczdCd0JGUXIzNWx3Z0g5SFdnNGFtRVM2OF9aSWU3MERtcUg1MV91bGozUWR1WHVKU3BrNHZRTDFyUEpScWhaSGsyWTBKRHZnZ3RyYWdmc3RtS2ZFVV8yN1g3b3UxNVRQSVFFZ1VaWkxHU3NHQWRXbmstOXhVUnF4TGNMVkFLMFZ1QUdicUNLLWVNbnM2RXljWDBNcnlvNzZKZUR6anpWM24wblNB?oc=5": 1795354846.1163795,
+  "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1jODJDS002RVZja0Z4c2M5X01FUXhaXzNQNXI5ZWFPVUxiUDBEd0poMDl5X2J3VmRhcXR2LVEtSVhOZW51VzV4OTV1cV9SNlV4d2JoZjQtRVJsM0Ft?oc=5": 1795354846.1163795,
+  "https://baahrakhari.com/detail/508009": 1795354846.1163795,
+  "https://english.onlinekhabar.com/balen-jaishankar-meeting-delhi.html": 1795354846.1163795,
+  "https://nagariknews.nagariknetwork.com/politics/balen-who-studied-in-bangalore-as-a-student-is-in-delhi-today-as-the-prime-minister-12-95.html": 1795354846.1163795,
+  "https://gorkhapatraonline.com/news/230000": 1795354846.1163795,
+  "https://news.google.com/rss/articles/CBMi3gFBVV95cUxON2tsTHN1c1FkMFN5UWdUaFRtN2ZOX0xnWHpGbm5wS3dQaG1FUjFFUkhobHRFQnl6QXYzVG02NjRHaEw2Ni00V1ZycFlZLWFNaWtnc0JuMkdSV2NKbld4QWYyWmU4N2lMTlBnZ2p5WkxsOVVWS0MwNGJuN1BzWWwwNFg1cG0yUl9oN2lyRTVIbzk0ZE9ELVdJQ0U5SmJzQjhLM0hVR2ZDWmNOU0V3dEI5NGlGNXdzd2M1aEwwNmFHU1JvQzBOXzRCazd3NERUN1BKVjFFUzdBaTJhVHlJTnfSAd4BQVVfeXFMTjdrbExzdXNRZDBTeVFnVGhUbTdmTl9MZ1h6Rm5ucEt3UGhtRVIxRVJIaGx0RUJ5ekF2M1RtNjY0R2hMNjYtNFdWcnBZWS1hTWlrZ3NCbjJHUldjSm5XeEFmMlplODdpTE5QZ2dqeVpMbDlVVktDMDRibjdQc1lsMDRYNXBtMlJfaDdpckU1SG85NGRPRC1XSUNFOUpic0I4SzNIVUdmQ1pjTlNFd3RCOTRpRjV3c3djNWhMMDZhR1NSb0MwTl80Qms3dzREVDdQSlYxRVM3QWkyYVR5SU53?oc=5": 1795354846.1163795,
+  "https://baahrakhari.com/detail/508008": 1795354846.1163795,
+  "https://nagariknews.nagariknetwork.com/others/when-the-police-gave-the-wrong-person-a-guard-of-honor-18-48.html": 1795354846.1163795,
+  "https://gorkhapatraonline.com/news/229999": 1795354846.1163795,
+  "https://nagariknews.nagariknetwork.com/Bazar/royal-enfield-s-hunterhood-to-be-held-for-the-first-time-in-kathmandu-on-december-12-44-11.html": 1795354846.1163795,
+  "https://nagariknews.nagariknetwork.com/politics/the-government-appears-indifferent-to-rehabilitation-even-if-it-means-buying-private-land-flood-victims-should-be-provided-with-housing-18-15.html": 1795354846.1163795,
+  "https://nagariknews.nagariknetwork.com/international/new-agenda-for-students-in-serbia-45-minute-reality-show-four-day-work-week-89-41.html": 1795354846.1163795,
+  "https://nagariknews.nagariknetwork.com/Aparadh/two-youths-arrested-for-stealing-microbus-53-68.html": 1795354846.1163795,
+  "https://nagariknews.nagariknetwork.com/politics/indian-external-affairs-minister-jaishankar-arrives-to-meet-prime-minister-balen-61-12.html": 1795354846.1163795,
+  "https://nagariknews.nagariknetwork.com/Bazar/gwm-s-ora-5-and-haval-h7-receive-five-star-safety-ratings-from-euro-ncap-76-81.html": 1795354846.1163795
  },
  "queue": [
   {
@@ -2020,29 +2047,6 @@
    ],
    "cat": "sports",
    "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "फ्रान्सका समाचार च्यानलविरुद्ध आक्रोश, दक्षिणपन्थी विचारधारालाई बढावा दिएको आरोप",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/507967",
-   "source": "Baahrakhari",
-   "ts": 1795325986,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "फ्रान्सका समाचार च्यानलविरुद्ध आक्रोश, दक्षिणपन्थी विचारधारालाई बढावा दिएको आरोप",
-   "en": "फ्रान्सका समाचार च्यानलविरुद्ध आक्रोश, दक्षिणपन्थी विचारधारालाई बढावा दिएको आरोप",
-   "ne": "फ्रान्सका समाचार च्यानलविरुद्ध आक्रोश, दक्षिणपन्थी विचारधारालाई बढावा दिएको आरोप",
-   "imp": 1,
-   "tags": [
-    "France",
-    "Media",
-    "News"
-   ],
-   "cat": "world",
-   "val": 2,
    "teaser": false,
    "hits": 1
   },
@@ -2365,52 +2369,6 @@
     "चितुवा"
    ],
    "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Tiger Shroff Performs Publicly for First Time Since October Shooting Incident",
-   "summary": "Mumbai. Bollywood actor Tiger Shroff has performed publicly for the first time since the shooting incident in October. On Saturday,...",
-   "link": "http://english.ratopati.com/story/87734/tiger-shroff-makes-first-public-appearance-since-shooting-incident",
-   "source": "Ratopati EN",
-   "ts": 1795325616,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/capture-2_MaiMruXpJT.webp",
-   "lang": "en",
-   "hl": "Tiger Shroff Performs Publicly for First Time Since October Shooting Incident",
-   "en": "Tiger Shroff Performs Publicly for First Time Since October Shooting Incident",
-   "ne": "Tiger Shroff Performs Publicly for First Time Since October Shooting Incident",
-   "imp": 1,
-   "tags": [
-    "TigerShroff",
-    "Bollywood",
-    "India"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "बहत्तर घण्टामा दोब्बर बनाइदिने भन्दै करोडौँ ठगी",
-   "summary": "सप्तरी समाचारदाता सप्तरी, मङ्सिर ६ गते । रकम दिएको ७२ घण्टाभित्रै दोब्बर बनाएर फिर्ता दिने भनी सर्वसाधारणलाई प्रलोभनमा परेर करोडौँ रुपियाँको ठगीमा परेका चार जिल्लाका पीडितले आरोपित...",
-   "link": "https://gorkhapatraonline.com/news/229920",
-   "source": "Gorkhapatra",
-   "ts": 1795325978,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/392671/conversions/Untitled-1-original.jpg",
-   "lang": "ne",
-   "hl": "बहत्तर घण्टामा दोब्बर बनाइदिने भन्दै करोडौँ ठगी",
-   "en": "बहत्तर घण्टामा दोब्बर बनाइदिने भन्दै करोडौँ ठगी",
-   "ne": "बहत्तर घण्टामा दोब्बर बनाइदिने भन्दै करोडौँ ठगी",
-   "imp": 3,
-   "tags": [
-    "Fraud",
-    "Crime",
-    "ठगी"
-   ],
-   "cat": "crime",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -3084,7 +3042,7 @@
    "cat": "politics",
    "val": 2,
    "teaser": false,
-   "hits": 4
+   "hits": 5
   },
   {
    "title": "घरजग्गा र निर्माण क्षेत्रलाई गति दिन 'बिल्ड नेपाल एक्स्पो-२०२६' हुँदै",
@@ -5225,7 +5183,7 @@
    "cat": "economy",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "विपद्ले थलिएको अन्नपूर्ण क्षेत्रको पदयात्रा फेरि पूर्ण रूपमा चलायमान",
@@ -6587,6 +6545,320 @@
     "DriverError"
    ],
    "cat": "society",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "भारतको औपचारिक भ्रमणबारे किन भएन राष्ट्रप्रमुखलाई ब्रिफिङ ?",
+   "summary": "",
+   "link": "https://baahrakhari.com/detail/508010",
+   "source": "Baahrakhari",
+   "ts": 1795354680,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "भारतको औपचारिक भ्रमणबारे किन भएन राष्ट्रप्रमुखलाई ब्रिफिङ ?",
+   "en": "भारतको औपचारिक भ्रमणबारे किन भएन राष्ट्रप्रमुखलाई ब्रिफिङ ?",
+   "ne": "भारतको औपचारिक भ्रमणबारे किन भएन राष्ट्रप्रमुखलाई ब्रिफिङ ?",
+   "imp": 2,
+   "tags": [
+    "IndiaVisit",
+    "Briefing"
+   ],
+   "cat": "politics",
+   "val": 2,
+   "teaser": true,
+   "hits": 1
+  },
+  {
+   "title": "Livestock suffer as transporters disregard animal welfare standards",
+   "summary": "Kathmandu, November 22 Livestock transported to Kathmandu from various districts for meat consumption are being subjected to severe mistreatment, with animals reportedly transported over long distances without food or...",
+   "link": "https://english.onlinekhabar.com/livestock-suffer-no-animal-welfare.html",
+   "source": "Onlinekhabar EN",
+   "ts": 1795354623,
+   "weight": 3,
+   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/11/pasu-dhuwani-1.jpg",
+   "lang": "en",
+   "hl": "Livestock suffer as transporters disregard animal welfare standards",
+   "en": "Livestock suffer as transporters disregard animal welfare standards",
+   "ne": "Livestock suffer as transporters disregard animal welfare standards",
+   "imp": 3,
+   "tags": [
+    "LivestockWelfare",
+    "Transport"
+   ],
+   "cat": "society",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "एप्पलको 'नेमड्रप' फिचरमाथि भारतमा १ हजार ५०० करोड भारुको मुद्दा, बिक्री रोक्न माग",
+   "summary": "कम्पनीले क्षतिपूर्तिसँगै पेटेन्ट उल्लंघन भएको दाबी गरिएका एप्पलका उपकरणको भारतमा आयात र बिक्री रोक्नसमेत अदालतसँग माग गरेको छ।...",
+   "link": "https://nagariknews.nagariknetwork.com/Bazar/apple-s-namedrop-feature-faces-rs-1-500-crore-lawsuit-in-india-demand-to-stop-sales-44-42.html",
+   "source": "Nagarik News",
+   "ts": 1795354611,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2025/third-party/1795354588_Apple%20Mobile.png",
+   "lang": "ne",
+   "hl": "एप्पलको 'नेमड्रप' फिचरमाथि भारतमा १ हजार ५०० करोड भारुको मुद्दा, बिक्री रोक्न माग",
+   "en": "एप्पलको 'नेमड्रप' फिचरमाथि भारतमा १ हजार ५०० करोड भारुको मुद्दा, बिक्री रोक्न माग",
+   "ne": "एप्पलको 'नेमड्रप' फिचरमाथि भारतमा १ हजार ५०० करोड भारुको मुद्दा, बिक्री रोक्न माग",
+   "imp": 2,
+   "tags": [
+    "Apple",
+    "NamDrop"
+   ],
+   "cat": "economy",
+   "val": 2,
+   "teaser": true,
+   "hits": 1
+  },
+  {
+   "title": "प्रधानमन्त्री शाहसँग विदेशमन्त्री जयशंकरको शिष्टाचार भेट",
+   "summary": "नयाँ दिल्ली (भारत), मंसिर ६ गते । प्रधानमन्त्री वालेन्द्र शाहसँग भारतका विदेशमन्त्री डा. एस. जयशंकरले शिष्टाचार भेटवार्ता गर्नुभएको छ। नयाँ दिल्लीस्थित होटल ताजमहलमा साँझ ६ बजेपछि...",
+   "link": "https://gorkhapatraonline.com/news/230001",
+   "source": "Gorkhapatra",
+   "ts": 1795354173,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/392813/conversions/PM-and-S-1-original.jpg",
+   "lang": "ne",
+   "hl": "प्रधानमन्त्री शाहसँग विदेशमन्त्री जयशंकरको शिष्टाचार भेट",
+   "en": "प्रधानमन्त्री शाहसँग विदेशमन्त्री जयशंकरको शिष्टाचार भेट",
+   "ne": "प्रधानमन्त्री शाहसँग विदेशमन्त्री जयशंकरको शिष्टाचार भेट",
+   "imp": 4,
+   "tags": [
+    "Shah",
+    "Jaishankar",
+    "Meeting"
+   ],
+   "cat": "politics",
+   "val": 3,
+   "teaser": false,
+   "hits": 12
+  },
+  {
+   "title": "Casino Operator Surendra Bahadur Singh Faces Appeal Delay in Money Laundering Case",
+   "summary": "Kathmandu. The file prepared for appeal in the Supreme Court against casino operator Surendra Bahadur Singh, who was acquitted by...",
+   "link": "http://english.ratopati.com/story/87802/why-has-the-appeal-file-against-the-casino-operator-been-stuck-in-the-attorney-generals-office-for-two-years",
+   "source": "Ratopati EN",
+   "ts": 1795353620,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/mayanyaya_nRWGrunP77.webp",
+   "lang": "en",
+   "hl": "Casino Operator Surendra Bahadur Singh Faces Appeal Delay in Money Laundering Case",
+   "en": "Casino Operator Surendra Bahadur Singh Faces Appeal Delay in Money Laundering Case",
+   "ne": "Casino Operator Surendra Bahadur Singh Faces Appeal Delay in Money Laundering Case",
+   "imp": 3,
+   "tags": [
+    "Casino",
+    "MoneyLaundering",
+    "SurendraBahadurSingh"
+   ],
+   "cat": "crime",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "दूधको मूल्य वृद्धि गर्न माग",
+   "summary": "अमरराज नहर्की तनहुँ, मङ्सिर ६ गते । विगत तीन वर्षदेखि दूधको मूल्य वृद्धि नभएको भन्दै दुग्ध उत्पादक किसानले प्रतिलिटर १३ रुपियाँ मूल्यवृद्धिको माग गरेका छन् । सरकारले मङ्सिर १० गतेभ...",
+   "link": "https://gorkhapatraonline.com/news/230000",
+   "source": "Gorkhapatra",
+   "ts": 1795354089,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/392810/conversions/IMG_8865-original.jpg",
+   "lang": "ne",
+   "hl": "दूधको मूल्य वृद्धि गर्न माग",
+   "en": "दूधको मूल्य वृद्धि गर्न माग",
+   "ne": "दूधको मूल्य वृद्धि गर्न माग",
+   "imp": 2,
+   "tags": [
+    "MilkPrice",
+    "Increase"
+   ],
+   "cat": "economy",
+   "val": 2,
+   "teaser": true,
+   "hits": 1
+  },
+  {
+   "title": "नयाँ भनिएकाहरूको सरकार आएपछि जनताले दुःख पाए : शंकर पोखरेल",
+   "summary": "",
+   "link": "https://baahrakhari.com/detail/508008",
+   "source": "Baahrakhari",
+   "ts": 1795353373,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "नयाँ भनिएकाहरूको सरकार आएपछि जनताले दुःख पाए : शंकर पोखरेल",
+   "en": "नयाँ भनिएकाहरूको सरकार आएपछि जनताले दुःख पाए : शंकर पोखरेल",
+   "ne": "नयाँ भनिएकाहरूको सरकार आएपछि जनताले दुःख पाए : शंकर पोखरेल",
+   "imp": 2,
+   "tags": [
+    "Government",
+    "PublicSuffering"
+   ],
+   "cat": "society",
+   "val": 1,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "जब प्रहरीले गलत व्यक्तिलाई दियो 'गार्ड अफ अनर'!",
+   "summary": "प्रहरीले सम्मान दिन थालेपछि ओवैसी केहीबेर रोकिएर सलामी ग्रहण गरेका थिए। पछि मात्रै प्रहरीले आफूले गलत व्यक्तिलाई सम्मान दिएको थाहा पाएको थियो।...",
+   "link": "https://nagariknews.nagariknetwork.com/others/when-the-police-gave-the-wrong-person-a-guard-of-honor-18-48.html",
+   "source": "Nagarik News",
+   "ts": 1795353948,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2026/third-party/1795353916_Asaduddin%20Owaisi%20guard%20of%20owner.jpg",
+   "lang": "ne",
+   "hl": "जब प्रहरीले गलत व्यक्तिलाई दियो 'गार्ड अफ अनर'!",
+   "en": "जब प्रहरीले गलत व्यक्तिलाई दियो 'गार्ड अफ अनर'!",
+   "ne": "जब प्रहरीले गलत व्यक्तिलाई दियो 'गार्ड अफ अनर'!",
+   "imp": 2,
+   "tags": [
+    "Police",
+    "WrongArrest"
+   ],
+   "cat": "crime",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "साहित्यकारले विकृतिमाथि प्रश्न उठाउँदै सकारात्मक प्रयासलाई प्रोत्साहन गर्नुपर्छ : सभामुख अर्याल",
+   "summary": "काठमाडौँ, मङ्सिर ६ गते । सभामुख डोलप्रसाद अर्यालले जनताको अपेक्षा र विश्वासलाई आत्मसात गर्दै राजनीतिक नेतृत्वले इमानदारिता, प्रतिबद्धता र जवाफदेहिताका साथ कार्यसम्पादन गर्नुपर्ने...",
+   "link": "https://gorkhapatraonline.com/news/229999",
+   "source": "Gorkhapatra",
+   "ts": 1795353088,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/392809/conversions/db-aryal-original.jpg",
+   "lang": "ne",
+   "hl": "साहित्यकारले विकृतिमाथि प्रश्न उठाउँदै सकारात्मक प्रयासलाई प्रोत्साहन गर्नुपर्छ : सभामुख अर्याल",
+   "en": "साहित्यकारले विकृतिमाथि प्रश्न उठाउँदै सकारात्मक प्रयासलाई प्रोत्साहन गर्नुपर्छ : सभामुख अर्याल",
+   "ne": "साहित्यकारले विकृतिमाथि प्रश्न उठाउँदै सकारात्मक प्रयासलाई प्रोत्साहन गर्नुपर्छ : सभामुख अर्याल",
+   "imp": 2,
+   "tags": [
+    "Writer",
+    "Distortion"
+   ],
+   "cat": "culture",
+   "val": 1,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "रोयल इन्फिल्डको 'हन्टरहुड' पहिलोपटक काठमाडौंमा डिसेम्बर १२ मा आयोजना हुने",
+   "summary": "रोयल इन्फिल्डले आगामी डिसेम्बर १२ मा काठमाडौंको भृकुटीमण्डपमा 'हन्टरहुड काठमाडौं' आयोजना गर्न लागेको हो।...",
+   "link": "https://nagariknews.nagariknetwork.com/Bazar/royal-enfield-s-hunterhood-to-be-held-for-the-first-time-in-kathmandu-on-december-12-44-11.html",
+   "source": "Nagarik News",
+   "ts": 1795352914,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2025/third-party/1795352905_Royal%20Enfield.png",
+   "lang": "ne",
+   "hl": "रोयल इन्फिल्डको 'हन्टरहुड' पहिलोपटक काठमाडौंमा डिसेम्बर १२ मा आयोजना हुने",
+   "en": "रोयल इन्फिल्डको 'हन्टरहुड' पहिलोपटक काठमाडौंमा डिसेम्बर १२ मा आयोजना हुने",
+   "ne": "रोयल इन्फिल्डको 'हन्टरहुड' पहिलोपटक काठमाडौंमा डिसेम्बर १२ मा आयोजना हुने",
+   "imp": 2,
+   "tags": [
+    "RoyalInfild",
+    "Hanthurd",
+    "Kathmandu"
+   ],
+   "cat": "culture",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "'पुनर्स्थापनामा सरकार उदासीन देखियो, निजी जग्गा किनेर भए पनि बाढीपीडितलाई बसोबास मिलाउनुपर्छ'",
+   "summary": "नेपाली कांग्रेसका सभापति गगन थापाले भोटेकोशी-त्रिशूली बाढी प्रभावितको पुनर्स्थापनामा संघीय सरकार उदासीन देखिएको बताएका छन्।...",
+   "link": "https://nagariknews.nagariknetwork.com/politics/the-government-appears-indifferent-to-rehabilitation-even-if-it-means-buying-private-land-flood-victims-should-be-provided-with-housing-18-15.html",
+   "source": "Nagarik News",
+   "ts": 1795352780,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2025/third-party/1795352861_thapa.png",
+   "lang": "ne",
+   "hl": "'पुनर्स्थापनामा सरकार उदासीन देखियो, निजी जग्गा किनेर भए पनि बाढीपीडितलाई बसोबास मिलाउनुपर्छ'",
+   "en": "'पुनर्स्थापनामा सरकार उदासीन देखियो, निजी जग्गा किनेर भए पनि बाढीपीडितलाई बसोबास मिलाउनुपर्छ'",
+   "ne": "'पुनर्स्थापनामा सरकार उदासीन देखियो, निजी जग्गा किनेर भए पनि बाढीपीडितलाई बसोबास मिलाउनुपर्छ'",
+   "imp": 3,
+   "tags": [
+    "Resettlement",
+    "FloodVictims",
+    "PrivateLand"
+   ],
+   "cat": "disaster",
+   "val": 2,
+   "teaser": true,
+   "hits": 1
+  },
+  {
+   "title": "सर्बियामा विद्यार्थीको नयाँ एजेन्डा : रियालिटी शो ४५ मिनेट, हप्तामा चार दिन काम",
+   "summary": "विद्यार्थी नेतृत्वको 'स्टुडेन्ट लिस्ट' ले टेलिभिजनमा रियालिटी शोको प्रसारण दैनिक ४५ मिनेटमा सीमित गर्ने र कर्मचारीका लागि हप्तामा चार दिन मात्रै काम गर्ने व्यवस्था प्रस्ताव गरेको हो।...",
+   "link": "https://nagariknews.nagariknetwork.com/international/new-agenda-for-students-in-serbia-45-minute-reality-show-four-day-work-week-89-41.html",
+   "source": "Nagarik News",
+   "ts": 1795352744,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2026/third-party/1795352700_Serbia%E2%80%99s%20student-led%20government.jpg",
+   "lang": "ne",
+   "hl": "सर्बियामा विद्यार्थीको नयाँ एजेन्डा : रियालिटी शो ४५ मिनेट, हप्तामा चार दिन काम",
+   "en": "सर्बियामा विद्यार्थीको नयाँ एजेन्डा : रियालिटी शो ४५ मिनेट, हप्तामा चार दिन काम",
+   "ne": "सर्बियामा विद्यार्थीको नयाँ एजेन्डा : रियालिटी शो ४५ मिनेट, हप्तामा चार दिन काम",
+   "imp": 1,
+   "tags": [
+    "Serbia",
+    "StudentAgenda"
+   ],
+   "cat": "other",
+   "val": 1,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "माइक्रोबस चोर्ने दुई युवा पक्राउ",
+   "summary": "प्रहरीका अनुसार बा १ ज ९८०५ नम्बरको माइक्रोबस गत कात्तिक २९ गते नागार्जुन नगरपालिका-बाफलबाट हराएको थियो।...",
+   "link": "https://nagariknews.nagariknetwork.com/Aparadh/two-youths-arrested-for-stealing-microbus-53-68.html",
+   "source": "Nagarik News",
+   "ts": 1795352011,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2025/third-party/1795351984_Micro%20Bus.png",
+   "lang": "ne",
+   "hl": "माइक्रोबस चोर्ने दुई युवा पक्राउ",
+   "en": "माइक्रोबस चोर्ने दुई युवा पक्राउ",
+   "ne": "माइक्रोबस चोर्ने दुई युवा पक्राउ",
+   "imp": 2,
+   "tags": [
+    "Microbus",
+    "Theft",
+    "Arrest"
+   ],
+   "cat": "crime",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "जीडब्लूएमका ओरा ५ र हाभल एच ७ ले पाए युरो एनक्यापको पाँचतारे सुरक्षा रेटिङ",
+   "summary": "अन्तर्राष्ट्रिय स्तरको सवारी सुरक्षा परीक्षणमा दुवै मोडलले उच्चतम रेटिङ पाएसँगै कम्पनीको सुरक्षा प्रविधि तथा इन्जिनियरिङ क्षमताले थप अन्तर्राष्ट्रिय मान्यता पाएको छ।...",
+   "link": "https://nagariknews.nagariknetwork.com/Bazar/gwm-s-ora-5-and-haval-h7-receive-five-star-safety-ratings-from-euro-ncap-76-81.html",
+   "source": "Nagarik News",
+   "ts": 1795351157,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2025/third-party/1795351589_GMW1.jpg",
+   "lang": "ne",
+   "hl": "जीडब्लूएमका ओरा ५ र हाभल एच ७ ले पाए युरो एनक्यापको पाँचतारे सुरक्षा रेटिङ",
+   "en": "जीडब्लूएमका ओरा ५ र हाभल एच ७ ले पाए युरो एनक्यापको पाँचतारे सुरक्षा रेटिङ",
+   "ne": "जीडब्लूएमका ओरा ५ र हाभल एच ७ ले पाए युरो एनक्यापको पाँचतारे सुरक्षा रेटिङ",
+   "imp": 2,
+   "tags": [
+    "GWMA",
+    "EuroNCAP",
+    "SafetyRating"
+   ],
+   "cat": "tech",
    "val": 2,
    "teaser": false,
    "hits": 1
@@ -9619,8 +9891,8 @@
    "cat": "disaster"
   }
  ],
- "updated": 1795354290,
- "pending_since": 1795353649.039519,
+ "updated": 1795354874,
+ "pending_since": 1795354846.1163795,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
