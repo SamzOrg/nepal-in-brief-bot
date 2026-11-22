@@ -1,9 +1,5 @@
 {
  "seen": {
-  "https://english.khabarhub.com/2026/20/576319/": 1795159253.5656724,
-  "https://gorkhapatraonline.com/news/229686": 1795159253.5656724,
-  "https://english.khabarhub.com/2026/20/576315/": 1795159253.5656724,
-  "https://nagariknews.nagariknetwork.com/Aparadh/25-people-arrested-from-gambling-den-26-98.html": 1795159253.5656724,
   "https://nagariknews.nagariknetwork.com/Dharma-Saskriti/25-people-arrested-from-gambling-den-br-59-76.html": 1795159875.5508208,
   "https://www.ujyaaloonline.com/detail/133680": 1795159875.5508208,
   "https://nagariknews.nagariknetwork.com/politics/gyanendra-shahi-announces-candidacy-for-rpp-chairmanship-br-40-71.html": 1795159875.5508208,
@@ -1906,7 +1902,15 @@
   "https://gorkhapatraonline.com/news/229947": 1795332050.0901842,
   "https://nagariknews.nagariknetwork.com/Aparadh/one-arrested-with-5-quintals-of-marijuana-from-sunsari-br-39-84.html": 1795332050.0901842,
   "https://gorkhapatraonline.com/news/229941": 1795332050.0901842,
-  "https://gorkhapatraonline.com/news/229940": 1795332050.0901842
+  "https://gorkhapatraonline.com/news/229940": 1795332050.0901842,
+  "http://english.ratopati.com/story/87756/balens-devaluation-of-the-constitution-and-the-president-dissatisfaction-in-the-diplomatic-sector": 1795332669.214953,
+  "https://baahrakhari.com/detail/507965": 1795332669.214953,
+  "https://gorkhapatraonline.com/news/229953": 1795332669.214953,
+  "https://news.google.com/rss/articles/CBMic0FVX3lxTE9BcVRLeE5rb3UwNmt6OXVUaHZiMUhHS0YzYTZUVnM3YmNqLXpjZjlKRVFxZG85RkhVUXZ0ZGctUDhlcDZFeTR2NnNTcmlaV0hwZ1dGUkRMSG9TU2tSREJldXBFUVpDNFdNbjhPeU5jbHNKRDg?oc=5": 1795332669.214953,
+  "https://news.google.com/rss/articles/CBMikgJBVV95cUxPUFl3TTRGVV9vc2xzNFZYYWQ4TmVQeUg4YzF2TEZWelZfcTZQOGxMTlVhX2o5dzhZbnRxb0k1dzY0ZWVzMk5rNGdlVnBySkhVbGJMXzFBalQ5SUxDdFVud0M1S3J2eVRJNUliQUJKXzFESzVrN01XX1J1R2hoYk04YTJMZFdwVEEzazZZLVpWYThrX0p6WFpaYkNDVmtxMUlBbjlWSTJWSUJ5UzdEcXRJbDF6NUpEdEV4TGcyOEg4dWpLblRreXlVdFJDdkdXRDJ2a1FPaGtKY0NYRFhxUVBCRGkxSmRGRy0xZl9veTYtNFltRl9NLTJzUWN1dDhabkhXZHM2aEFEUzFfck10d2ZtLW9R0gGXAkFVX3lxTE9HRzF0MXB6YmhBcUNRcUtZa0RCbk1jc3QwQy1hS0d0RjZySTg0blkyOWdLSUtEZVhMNUJncy1OS2JrMFJpZjRvZTVsMnF3YzBvazlPYnBiVVNSMWVBeTNiWmw5aUhHZXM4bk00X3A4OUQzcGtKc1pNdGF2eUtJbmNVLUQ4RjlZRERweFh1QkNjMFBiNUhUanRpaWV6SE5ZeTZOTWhzOWR6MkxIWUt4U2VMU1AzbGo2d2hrNWh3WWxPb1UzSld0R2hxTEVzNDZIOGdrSnhNLUkyT0lGY1duTTBDbjdJS1I1dmJvMlBPWk9ndWxhNnZ6cXB6dHBMTmY2UWV5QmRlWm0zWThxRG5WWGhKdEk5NnNRWQ?oc=5": 1795332669.214953,
+  "https://news.google.com/rss/articles/CBMizwFBVV95cUxPa2N0ZlBuTC1ERkx1ZXM0Q05WUkIxdEpGZXg3TEFHYnlZWml5dlphUUdDWGs5OC1reXZDcjJsM2VNcUtKVU1xZnR5TlB4NVV0RkREZ2JzN0FKRGFXNDNmWFB4eXJIWFJ1QllEVm5sSGd4ZXZOZGNuYkhrU19mUEdLX3dGOHRGSEdFWG50WEduUmpZWFZqV0paeGl6OFZHQlpQQWVWWnpYc2FlaUFfZF9VTTlwS0h4OFppdzBMMXNjUmM0TnVYdHl4dWM5SmVhajQ?oc=5": 1795332669.214953,
+  "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNWUI1NXA3WVI3UjRGX21wclZlWUFjWW56OUlKbEcwRmZRQmtlSUtBN210LVpKbk13WUtjb3VwczhpemV1anVlaUN5dWY1R2dZYmRYZWdkSmlSQkk4X1lVVl8tTzFkVmVqZmpnSWh2enFqTlNoZnZhdW8wcDZjU2dseVhySlFRaV9OM1FyaHRLR1ptVjJrdWcwT1hGVUEwQkVibUNreFhpV3g5NnhPRHRyLUFTczczS0N6c0NFTTMzbU5hSjlqNEYzVVpqbi1YYnJ6Vk9iLXpNOU1najRVNTc0STVleU9CUXlhM2RTRWlldHjSAfYBQVVfeXFMUFQ3emhWYWZHbWxoTTJRSTBXVmZQVDlEMUJiTHUxRjNiei1idGZDU08tNWZzaDE2aGU5TnUycjZUeWNYT1lOUld0ZjNMWWZOUm11V0xZeDlPeFBKbmZYemdvem9kYjVVRGFySTdyQzFqeGJObTFHRVE2b3Y0UFBXWFp4YnpBc1Z2Q1UtMU5uVmpJb1FCcV9QRzJqbzZSbWU5cXhHR1FVZ1pTcDI4bHBZSnQ2ZTVaeUtPSWJqQ3RDUlhaRHpxTTdYVm1xWWFXY004Y3hnQUp5TnpZOHkzUGh0ZmNFNk1qMm5sX2dSZWVRN25LeU1PSS1n?oc=5": 1795332669.214953,
+  "https://theannapurnaexpress.com/story/68967": 1795332669.214953
  },
  "queue": [
   {
@@ -3379,7 +3383,7 @@
    "cat": "world",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Credit expansion accelerates as deposit growth slows",
@@ -5408,7 +5412,7 @@
    "cat": "culture",
    "val": 1,
    "teaser": true,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Arsenal held to 2-2 draw by Newcastle",
@@ -5893,7 +5897,7 @@
    "cat": "other",
    "val": 1,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "दक्षिण कोरियामा भएको एसिया मोडेल फेस्टिभलमा सदीक्षा श्रेष्ठले जितिन् महिला उपाधि",
@@ -6286,7 +6290,7 @@
    "cat": "world",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Gold and Silver Prices Decline Sharply Amidst Global Economic Factors",
@@ -6356,20 +6360,31 @@
    "val": 3,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "New draft deal aims to avert collapse of talks at climate summit",
+   "summary": "Talks were set to resume at the UN COP31 summit on Sunday for a second day of overtime as countries struggled to reach a new global climate deal, BBC reported. A new draft agreement was published in the early hours of...",
+   "link": "https://theannapurnaexpress.com/story/68967",
+   "source": "Annapurna Express",
+   "ts": 1795318270.5414944,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "New draft deal aims to avert collapse of talks at climate summit",
+   "en": "New draft deal aims to avert collapse of talks at climate summit",
+   "ne": "New draft deal aims to avert collapse of talks at climate summit",
+   "imp": 1,
+   "tags": [
+    "ClimateSummit",
+    "World"
+   ],
+   "cat": "world",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1794727255.576945,
-   "en": "RSP China visit fully funded by Chinese side, says GS Acharya",
-   "ne": "RSP China visit fully funded by Chinese side, says GS Acharya",
-   "link": "https://english.onlinekhabar.com/bipin-kumar-acharya-china-fund-trip.html",
-   "source": "Onlinekhabar EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "politics"
-  },
   {
    "ts": 1794729059.7800906,
    "en": "Man dies in Dang after friend sets him on fire with petrol following an argument",
@@ -9396,8 +9411,8 @@
    "cat": "crime"
   }
  ],
- "updated": 1795332070,
- "pending_since": null,
+ "updated": 1795332696,
+ "pending_since": 1795332669.214953,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
