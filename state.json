@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZXJEVzJUeXZCWnJUMFV6ZUdsQnR5Y3ljUHdpcWtjQ1FjQkNuc2hRSVc0TXdUYVMtZGxXS1BxQXpXR2t2OElaNWdJZXItQUtPdWlQdUU2WEZYX1BocmdfbkdpcTdZLUc4ZWU3a3VGQlhsbGQta0w3UlYzbkJNVll0Rw?oc=5": 1795167076.8144414,
   "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdjBqelFlMXBlMVJYa29Ub0J0OXdpdFpIQlNwSWtrS1diQXlURnM1ZEFKTDU2alR1T0hUUDBPUjlHRjM5ZVAwSE5QY3dVWktmaW1WY2JBMy1XS1BSenQ3emhhRGtidEdNTjJuR3BVR1VpdTZBT1ZWSkRSM214b0NJS2h2anJsTkF3aE9QRXA2MkpBYW03TnA3c2g2dw?oc=5": 1795167659.8116093,
   "https://www.setopati.com/art/art-activity/403008": 1795167659.8116093,
   "http://english.ratopati.com/story/87482/uttar-pradesh-chief-minister-yogi-adityanaths-mother-passes-away-at-the-age-of-91": 1795167659.8116093,
@@ -1881,7 +1880,9 @@
   "https://baahrakhari.com/detail/507983": 1795339259.2669218,
   "https://gorkhapatraonline.com/news/229959": 1795339259.2669218,
   "https://baahrakhari.com/detail/507982": 1795339259.2669218,
-  "https://gorkhapatraonline.com/news/229958": 1795339259.2669218
+  "https://gorkhapatraonline.com/news/229958": 1795339259.2669218,
+  "http://english.ratopati.com/story/87775/the-final-match-schedule-and-venue-of-the-10th-national-games-have-been-finalized": 1795340447.9190874,
+  "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUnJJQzhPTzVWR3hjd3J0X29oaU5xbVV5SDAwWUpQMG45Zm9YakJhbXJ1SjVPaVV4ZG5UdWdoclFmaUNuaWRXV2dyZzhwb1dmQS0xUGVwdlV0X2JmYjNJX3FjVDJGbS0xUEpwVXdtTXBMYnFtc2o2YjJ1WVpvUmd2c0pJem1YNnFEYjUxQS1NNG9MM1VsdHloZW9QLUdIby1UMklQRkl3?oc=5": 1795340447.9190874
  },
  "queue": [
   {
@@ -2000,27 +2001,6 @@
    "hits": 1
   },
   {
-   "title": "UN AI weapons talks end without action",
-   "summary": "Geneva, Nov. 22: Efforts to set firm rules on AI-powered killer robots and drones ran aground Saturday as U.N.-backed ta...",
-   "link": "https://risingnepaldaily.com/news/88881",
-   "source": "Rising Nepal",
-   "ts": 1795311264,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "UN AI weapons talks end without action",
-   "en": "UN AI weapons talks end without action",
-   "ne": "UN AI weapons talks end without action",
-   "imp": 1,
-   "tags": [
-    "Weapons"
-   ],
-   "cat": "tech",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "स्वरसम्राट्को स्मृतिमा कवितामार्फत शब्दाञ्जलि",
    "summary": "काठमाडौँ, मङ्सिर ६ गते । स्वरसम्राट् नारायणगोपालको स्मृतिमा 'नझरेका फूलहरू'ले मङ्सिर महिनाभर विभिन्न साहित्यिक तथा साङ्गीतिक कार्यक्रम आयोजना गरेको छ ।कार्यक्रमअन्तर्गत यस महिनाको...",
    "link": "https://gorkhapatraonline.com/news/229886",
@@ -2062,29 +2042,6 @@
     "Sports"
    ],
    "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Shree Krishna Pranami Dharma International Festival to be Held in Bara",
-   "summary": "Barah. A 'Shree Krishna Pranami Dharma International Festival' is to be organized in the premises of the newly constructed Shree...",
-   "link": "http://english.ratopati.com/story/87707/international-festival-of-shri-krishna-pranami-dharma-to-be-held-in-simara-from-november-10",
-   "source": "Ratopati EN",
-   "ts": 1795311410,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/d1_cxrIjB3JB4.webp",
-   "lang": "en",
-   "hl": "Shree Krishna Pranami Dharma International Festival to be Held in Bara",
-   "en": "Shree Krishna Pranami Dharma International Festival to be Held in Bara",
-   "ne": "Shree Krishna Pranami Dharma International Festival to be Held in Bara",
-   "imp": 2,
-   "tags": [
-    "ShreeKrishnaPranami",
-    "Bara",
-    "Festival"
-   ],
-   "cat": "culture",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -2154,29 +2111,6 @@
     "मुस्ताङ"
    ],
    "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "'सिर्जनाबागमा हेमचन्द्र पोखरेल' कृतिसङ्ग्रह सार्वजनिक",
-   "summary": "धीरकुमार श्रेष्ठको सम्पादन र भारती गौतमको अतिथि सम्पादनमा प्रकाशित 'सिर्जनाबागमा हेमचन्द्र पोखरेल' (कृतिसङ्ग्रह) लाेकार्पण भएकाे छ।...",
-   "link": "https://nagariknews.nagariknetwork.com/arts/hemchandra-pokharel-in-the-garden-of-creation-collection-released-br-96-57.html",
-   "source": "Nagarik News",
-   "ts": 1795311491,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1795312469_program%20foto.jpg",
-   "lang": "ne",
-   "hl": "'सिर्जनाबागमा हेमचन्द्र पोखरेल' कृतिसङ्ग्रह सार्वजनिक",
-   "en": "'सिर्जनाबागमा हेमचन्द्र पोखरेल' कृतिसङ्ग्रह सार्वजनिक",
-   "ne": "'सिर्जनाबागमा हेमचन्द्र पोखरेल' कृतिसङ्ग्रह सार्वजनिक",
-   "imp": 2,
-   "tags": [
-    "HemChandraPokharel",
-    "BookLaunch",
-    "सिर्जनाबाग"
-   ],
-   "cat": "culture",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -6036,7 +5970,7 @@
    "cat": "sports",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "बाढी प्रभावित त्रिशूली बहुमुखी क्याम्पसको पठनपाठन सुचारु गर्न एनसेल फाउन्डेसनको सहयोग",
@@ -9441,7 +9375,7 @@
    "cat": "world"
   }
  ],
- "updated": 1795339869,
+ "updated": 1795340450,
  "pending_since": 1795339865.8188255,
  "fb_blocks": [
   1790350880.4125228,
