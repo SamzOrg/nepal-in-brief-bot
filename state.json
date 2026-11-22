@@ -1,9 +1,5 @@
 {
  "seen": {
-  "https://www.setopati.com/social/402968": 1795138852.3990328,
-  "http://english.ratopati.com/story/87381/haribodhini-ekadashi-devotees-queue-at-narayan-temples-across-the-country": 1795138852.3990328,
-  "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRTNwNm4zb3FvcFFFUEJEcy1yWUwzT2Z5ZUk1YWJKVDRJaUx2RW9QQ3loUjRfbGIzWWlnZVROcFpiRFIzamZEY1FIQVNvcjhsZDhjaVF2YmtYTElYS090N0dQQUFKRDBjWmNPVEw0OHBVcmF1RkpNQmlHaDRlM09RMkM1cDY1em1nQkQySQ?oc=5": 1795138852.3990328,
-  "https://nagariknews.nagariknetwork.com/social-affairs/partial-impact-of-cyclone-akwan-95-40.html": 1795139452.3455513,
   "https://gorkhapatraonline.com/news/229636": 1795140084.5301692,
   "https://www.ujyaaloonline.com/detail/133663": 1795140654.7816112,
   "https://nagariknews.nagariknetwork.com/politics/shovel-workers-to-receive-rs-1-700-daily-from-mangsir-minister-lamsal-83-64.html": 1795140654.7816112,
@@ -1918,7 +1914,11 @@
   "https://kathmandupost.com/columns/2026/11/21/how-do-birds-know-where-to-go": 1795311064.72536,
   "http://english.ratopati.com/story/87706/venue-schedule-for-10th-national-games-announced": 1795311646.2620282,
   "https://news.google.com/rss/articles/CBMingFBVV95cUxQaTNoWVB2dmY2enllV1pWb1NLSzRPOWR4TUYxT2s0NjF4WEstQWZ4bEpPSjBHc3dEc0o0Z2dzVW8zZ3BJNllQb0RaZnd6eThXRExHaloweUhHWmVCNmRYTmlkT1prajhfWXJoellBb0dVLWNmVjBqZEktRndZRGczeE9YYklQY3laNUwwU09OWVVDUlNsRDNWdGNfR1RsQQ?oc=5": 1795311646.2620282,
-  "https://news.google.com/rss/articles/CBMisAFBVV95cUxPajQ0UDdTdHZwSGlYX2FjbzZkNEZwaTVCTHA1NFlNUzNLRWZTZFRVNHNZTjRjZ2xtS3hGcE1KelhuZTV1MW53bzBhWVd2MFM5a0x0bUdTdFlHX0ZlZl9CemRYUFZMMlNhOTNhWlRCem95ZkNpNVUyUVN4X0R1R2dmM3ExYzVxMW5zSjlJTmZYdHF1UENUeUY2VWhYcDR6TElLOHBwZmxWaG40ZHZROTZsZQ?oc=5": 1795311646.2620282
+  "https://news.google.com/rss/articles/CBMisAFBVV95cUxPajQ0UDdTdHZwSGlYX2FjbzZkNEZwaTVCTHA1NFlNUzNLRWZTZFRVNHNZTjRjZ2xtS3hGcE1KelhuZTV1MW53bzBhWVd2MFM5a0x0bUdTdFlHX0ZlZl9CemRYUFZMMlNhOTNhWlRCem95ZkNpNVUyUVN4X0R1R2dmM3ExYzVxMW5zSjlJTmZYdHF1UENUeUY2VWhYcDR6TElLOHBwZmxWaG40ZHZROTZsZQ?oc=5": 1795311646.2620282,
+  "https://risingnepaldaily.com/news/88882": 1795312255.3762314,
+  "https://baahrakhari.com/detail/507950": 1795312255.3762314,
+  "https://nagariknews.nagariknetwork.com/sports/preparations-for-the-10th-national-games-are-in-the-final-stages-karnali-eagerly-awaits-the-mahakumbha-br-71-84.html": 1795312255.3762314,
+  "http://english.ratopati.com/story/87708/mahesh-sah-elected-to-golbazar-industry-and-trade-association-along-with-panel": 1795312255.3762314
  },
  "queue": [
   {
@@ -2143,29 +2143,6 @@
    "hits": 1
   },
   {
-   "title": "Nepal has two major elections next year. Search on for ways to hold them together",
-   "summary": "Former election officials say simultaneous polls could cut costs and avoid administrative disruption, but differences in the terms of elected representatives and existing legal provisions need to be addressed.",
-   "link": "https://kathmandupost.com/politics/2026/11/22/nepal-has-two-major-elections-next-year-search-on-for-ways-to-hold-them-together",
-   "source": "Kathmandu Post",
-   "ts": 1795294887.4572084,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Nepal has two major elections next year. Search on for ways to hold them together",
-   "en": "Nepal has two major elections next year. Search on for ways to hold them together",
-   "ne": "Nepal has two major elections next year. Search on for ways to hold them together",
-   "imp": 4,
-   "tags": [
-    "ElectionCommission",
-    "Elections",
-    "Nepal"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 3
-  },
-  {
    "title": "Gosainkunda: A Year-Round Destination for Pilgrimage and Trekking",
    "summary": "Rasauwa. The religious and tourist destination Gosainkunda, located in the high Himalayan region of Rasauwa, is becoming an attractive destination...",
    "link": "http://english.ratopati.com/story/87702/gosainkunda-is-becoming-an-attractive-destination-for-trekking-all-year-round",
@@ -2325,7 +2302,7 @@
    "cat": "sports",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "व्यायामबाट दमको उपचार",
@@ -2721,6 +2698,29 @@
    "cat": "tech",
    "val": 1,
    "teaser": true,
+   "hits": 1
+  },
+  {
+   "title": "Mahesh Sah Panel Wins Siraha Golbazar Chamber of Commerce Election",
+   "summary": "Siraha. Mahesh Sah (Kokwa) has been elected along with his panel in the election of Siraha Golbazar Chamber of Commerce....",
+   "link": "http://english.ratopati.com/story/87708/mahesh-sah-elected-to-golbazar-industry-and-trade-association-along-with-panel",
+   "source": "Ratopati EN",
+   "ts": 1795311674,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/sirha_PHdeR7x0oQ.webp",
+   "lang": "en",
+   "hl": "Mahesh Sah Panel Wins Siraha Golbazar Chamber of Commerce Election",
+   "en": "Mahesh Sah Panel Wins Siraha Golbazar Chamber of Commerce Election",
+   "ne": "Mahesh Sah Panel Wins Siraha Golbazar Chamber of Commerce Election",
+   "imp": 2,
+   "tags": [
+    "Siraha",
+    "Golbazar",
+    "Election"
+   ],
+   "cat": "economy",
+   "val": 3,
+   "teaser": false,
    "hits": 1
   }
  ],
@@ -5749,9 +5749,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "crime"
+  },
+  {
+   "ts": 1795312261.822787,
+   "en": "Nepal considers holding 2028 local (753) and provincial (550) elections together to save costs",
+   "ne": "Nepal considers holding 2028 local (753) and provincial (550) elections together to save costs",
+   "link": "https://kathmandupost.com/politics/2026/11/22/nepal-has-two-major-elections-next-year-search-on-for-ways-to-hold-them-together",
+   "source": "Kathmandu Post",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "politics"
   }
  ],
- "updated": 1795311649,
+ "updated": 1795312278,
  "pending_since": 1795311646.2620282,
  "fb_blocks": [
   1790350880.4125228,
