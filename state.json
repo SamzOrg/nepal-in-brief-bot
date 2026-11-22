@@ -1946,30 +1946,6 @@
    "hits": 1
   },
   {
-   "title": "PM Modi, Nepal PM Balendra Shah to meet on November 23; new air routes, economic aid on agenda",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUXZWZEZ6YTlKbG4wdFR6c1A3R3kzYjJFUXYwLUR3bm9rZC14WERnanZPSkMyMG52YnlqZkpjTEdNRHh2UjBISVBxN2VKTUxUNGR1S3luMWprQmNtVFdURk92bWYxWW53SWtLNl80S0NSNFZhSlgzSWJxRkMteWY1ZVpFaW5ILWlZZ3IzZmNocWRFbXF2Y0xrdDBLT2ZkYkdKOVJpZmdUdFFjczBVd1cyS3RnWnFfMmh1NWR2SUpnR2xCTm5sYThBeTdYNUw0Qm_SAdwBQVVfeXFMTjlITElvVzhyRDJLcmxsbG5FUlpYZ1ZUbE83U1hEWU5NaV9ReFJZWm5ya0oxNC10ODJmMFhrblcwUWs2N2Rla01FYUZYLTZkWlA5ZzFZOG0tak5jaWFDYVA1Q2U1V3J4bUcxSUJDVDJjOWVSTHdhVUs0WnUtNkhaNDdIdktGMC1FUWNjdFFtM1VkVGYxS1lOVzRibV9iNGhUQ210aVc3V1ZyY3d4Q2VMSGJyZG1QMmJYbnZZSkFRWGlhWG5LOUE0NHpuZFlKVmNXRFdlWmtrcG5SVWpQbg?oc=5",
-   "source": "Deccan Herald",
-   "ts": 1795357545,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "PM Modi, Nepal PM Balendra Shah to meet on November 23; new air routes, economic aid on agenda",
-   "en": "PM Modi, Nepal PM Balendra Shah to meet on November 23; new air routes, economic aid on agenda",
-   "ne": "PM Modi, Nepal PM Balendra Shah to meet on November 23; new air routes, economic aid on agenda",
-   "imp": 4,
-   "tags": [
-    "NarendraModi",
-    "BalendraShah",
-    "IndiaNepal",
-    "कूटनीति"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 6
-  },
-  {
    "title": "विवाहपछि भिसा बदल्न खोज्ने अमेरिकी महिलालाई अदालतको झट्का, निवेदन खारेज",
    "summary": "आवश्यक कागजात बुझाउँदा पनि अध्यागमन अधिकारीहरूले आवेदन अघि नबढाएको र उमेरको अन्तरलाई आधार बनाएर पटक-पटक सोधपुछ गरेको उनको आरोप थियो।...",
    "link": "https://nagariknews.nagariknetwork.com/international/court-rejects-petition-of-american-woman-seeking-to-change-visa-after-marriage-69-96.html",
@@ -2123,29 +2099,6 @@
    ],
    "cat": "economy",
    "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "चिया पसलको छलफलदेखि चुनावी मैदानसम्म : महिलालाई राजनीति गर्न अझै सकस",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/508018",
-   "source": "Baahrakhari",
-   "ts": 1795363380,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "चिया पसलको छलफलदेखि चुनावी मैदानसम्म : महिलालाई राजनीति गर्न अझै सकस",
-   "en": "चिया पसलको छलफलदेखि चुनावी मैदानसम्म : महिलालाई राजनीति गर्न अझै सकस",
-   "ne": "चिया पसलको छलफलदेखि चुनावी मैदानसम्म : महिलालाई राजनीति गर्न अझै सकस",
-   "imp": 3,
-   "tags": [
-    "WomenInPolitics",
-    "Election",
-    "राजनीति"
-   ],
-   "cat": "politics",
-   "val": 2,
    "teaser": false,
    "hits": 1
   },
@@ -5792,9 +5745,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "world"
+  },
+  {
+   "ts": 1795386056.2026281,
+   "en": "राजनीतिमा महिलालाई अझै सकस : पारिवारिक जिम्मेवारी र खर्चिलो निर्वाचन मुख्य चुनौती",
+   "ne": "राजनीतिमा महिलालाई अझै सकस : पारिवारिक जिम्मेवारी र खर्चिलो निर्वाचन मुख्य चुनौती",
+   "link": "https://baahrakhari.com/detail/508018",
+   "source": "Baahrakhari",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "politics"
   }
  ],
- "updated": 1795385450,
+ "updated": 1795386072,
  "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
