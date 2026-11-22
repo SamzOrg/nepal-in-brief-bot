@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://baahrakhari.com/detail/507876": 1795188674.4650037,
-  "https://news.google.com/rss/articles/CBMiugFBVV95cUxPR25WU1Zaa0k2Q3E0N1BNTkhZbkczNkl4STNOUEU1T1pXeWFkTXBNM09BeVJ0OGdJUUpHTEtNNnNhSWprZTV6SDROX09uZG9QRkx5YURUWEdoVzJCVHo1b1NoREpiaDZmeEhJd2xNOHhQQ1RPR2gtVGVpRnh5OURrUHVtaHY5bVAxSGFVSGROQ0pWcktkNkRya2JkMUlJUmI3bVdGZGNiUm5QWVN0Q1BZVmthRnZoMVFMUGc?oc=5": 1795188674.4650037,
   "https://kathmandupost.com/art-culture/2026/11/20/nepali-rock-gets-its-moment-on-the-world-stage": 1795189253.4001267,
   "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBIUmlPdzdDTWtVNFh6VVFzeEoyeGYxb1VRbXQ2SGdHeFJ6dmxFX2ZWaDVRdmVpeFlDbGJYdWhZU3VhWEJHQjE2b2pQLXNCUFVBdjFLVw?oc=5": 1795189253.4001267,
   "https://risingnepaldaily.com/news/88838": 1795189253.4001267,
@@ -1901,7 +1899,23 @@
   "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZ1NXODdmOExsQ256Wk1nY3Rvc0JJWktDMDZCc3ExblRUdFJWTVV4cGVxOEhxMGhlTDB6bnc5N1EyUzUyRER5WnVNeG44WTh0YVE5VXJwUVc4Qk4xamtmOXAzem1MMWRUWVNpNm11REMyNHVyVW5HakMyYnBDYnFJcncxb3RGQ2dfTFNUejMtYVR5dk1SSXc1UlF4TTFaRmhPY0lLdDE1cjUzQVlN?oc=5": 1795360849.5454319,
   "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVW03eVRTODVKVV85XzJIX3dxMzVFUnYxUnN1MkxTSHNPRTVHTHlta2ZFakkyNHNMeXp0eXFzbGRXVF9BN0RRR2p1QlY1NlNoS3BhUFBKWkIzemhsQnhnSUdYajgtek9nM1M4Wk9lUW81NEhPUFZXSFZKdFI4VG1YeVlBMklHbTh4YzBhZjY0YzUxVm5DdmNDMjM0MUl4aEtSUXpabnpFbTUtaXNlNk1IcTNVdkFDQQ?oc=5": 1795360849.5454319,
   "https://baahrakhari.com/detail/508016": 1795361469.8510778,
-  "https://news.google.com/rss/articles/CBMisAFBVV95cUxNR2ZZanpsUF9fdC1hVWZkSG8yWV9kX0REWXNoY2VLMHIxZ1VrTmxsd3RPTUxhTjB4Q3VweUp0WHFLbGlmN2RNaUtxZlk2MU00c0g2VUdzd3dpd3h2M216dWJJY3R6cWlGTUR6dnIyWWpPR292N3hob2NmNy16b09fcUNDdHdPT0p3eWNIRlF3Q2swczJCMWRib25sTE8tTVFyQWp1b0plckdwb3lIdElKdA?oc=5": 1795361469.8510778
+  "https://news.google.com/rss/articles/CBMisAFBVV95cUxNR2ZZanpsUF9fdC1hVWZkSG8yWV9kX0REWXNoY2VLMHIxZ1VrTmxsd3RPTUxhTjB4Q3VweUp0WHFLbGlmN2RNaUtxZlk2MU00c0g2VUdzd3dpd3h2M216dWJJY3R6cWlGTUR6dnIyWWpPR292N3hob2NmNy16b09fcUNDdHdPT0p3eWNIRlF3Q2swczJCMWRib25sTE8tTVFyQWp1b0plckdwb3lIdElKdA?oc=5": 1795361469.8510778,
+  "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQTFPbGlTMDA5SW1jYTQ3YXVCODNFYUFxOW1NWjNFc2t6eEMxVkxVaDZmX3piLUVOYjRUTXI1Z1BYbUIwaGl2TjFQRjNwM2FTaUdwSkJBR2F3Z29vcHV3aWF5Q0NHMEx6cjZubGMyWl9pQnJEZHN3VmozUjh0QTRCQ3lQNHZfNFRUb2ViWWF4RFJWWnREY2FyVVJhWkhrcDFVd3ZvZjd0MDNCdlBKR2VLNXFTeThPRjNOSG9mWlVCaHdUMkpHcS03NVUtS3ZnZFozaHc?oc=5": 1795362051.0861459,
+  "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeUpFX2xOUXNtaEdndVhQWWx4dUtTQU9kWXdwaFRMRUlqRVRULXNwODBNbEVQenBfY1pKaWxiMU9IU1E0SzhQeDlzbDhHeWlEZGVKRm5Wek9vTWY4MXdGXzVzV1V6SUJfTXBnTFBRbUFZUXVNLWpSb1pmMENpQk1pVTlmWnIyQVEtMkdmWllod29DX1RWNzVabnpvMktvaTJaeW9jYjFNdHBkUTBwZDNqS1pMRjB1Yl80UlHSAboBQVVfeXFMUHlKRV9sTlFzbWhHZ3VYUFlseHVLU0FPZFl3cGhUTEVJakVUVC1zcDgwTWxFUHpwX2NaSmlsYjFPSFNRNEs4UHg5c2w4R3lpRGRlSkZuVnpPb01mODF3Rl81c1dVeklCX01wZ0xQUW1BWVF1TS1qUm9aZjBDaUJNaVU5ZlpyMkFRLTJHZlpZaHdvQ19UVjc1Wm56bzJLb2kyWnlvY2IxTXRwZFEwcGQzaktaTEYwdWJfNFJR?oc=5": 1795362051.0861459,
+  "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPSGYzbFFsRVZiZGh1b3Zlc1Iwb3V2ZnQyNHdJRmVXUW51QklBb29HNERWOThhYUZFbGxlbzNJOHR3SzhIa0ktZkNnVnI2SHU2QWx3UVdjbzJPQ2JZSWZYOVlubmxCcjg1YkFEVDlhRHZNTEpMWklPM3g5VTRMZ0dtSGo0ZDFva1VvRXlpRlhwYUtLU2dyVE5iNXk2a3FxSldiRGp6MXNHdzZZMzJNWmFYRXlBWWhXUUpSbmg0R21BekwtVktRbk9iaE1QRUdzN3FCLUpCZW01dXh0c2h1cUVWa0Q5YjZ1YUdia0U2cUFhU3TSAfYBQVVfeXFMUGRhME5hbmh6X3ZwR0p1c2lVZWZmMU9ZWkFBLXRzcDVvaFpwYXRPdjdkU05XZkQ5Ny1rbmNXS3BjbkxBVlN2b2ZLWVBZdXpkXzBucWZaOFJ2V3U4dmJ6Q0VndnRNMkdKSzVRa1VWUUZraG9hSkhkVG9uR3ByRVFwSzJWTmZnYVd6SDBuVlNBX1N2S1prNWhKY0FaM28wLUdqd3BZV2E5STJSQ0MyckpMOG5neUV4VFM2RkM5VXZfakVWeUFwREJKZVNZZDRRelhFbFZTMDZCODhLa1VGNFc3N09WaW5zVkVXd2JMSmhURmhJRlJZVFB3?oc=5": 1795362051.0861459,
+  "https://baahrakhari.com/detail/508017": 1795362051.0861459,
+  "https://english.onlinekhabar.com/balen-modi-nepal-india-partnership.html": 1795362051.0861459,
+  "https://news.google.com/rss/articles/CBMiygFBVV95cUxONFJZVG9TNG5oVjZuaFJHN2x2MU5lOXFvbkFYcEtJTmN5QjllckZvWmM0RFRESHh6WGVpWVdjSkhXeWlUZ3h2dG9aUHhZMnZCOVdQY2QyeHdxTHR6WlhvTXhzRlc2UVFiVDRkOURXb3o0emM2NXUzMDJ2ZEhLb1U2MXFYZ1lBZUxrX2VaNkFFWmpxRTV2MXlsS3FKVFh1MmlkcUtGNEJpRkppTlJqS2oyTmdRYzRvZE1Bb0UtY0hyVDQ3Tzl6VG5JNlZn0gHKAUFVX3lxTE40UllUb1M0bmhWNm5oUkc3bHYxTmU5cW9uQVhwS0lOY3lCOWVyRm9aYzREVERIeHpYZWlZV2NKSFd5aVRneHZ0b1pQeFkydkI5V1BjZDJ4d3FMdHpaWG9NeHNGVzZRUWJUNGQ5RFdvejR6YzY1dTMwMnZkSEtvVTYxcVhnWUFlTGtfZVo2QUVaanFFNXYxeWxLcUpUWHUyaWRxS0Y0QmlGSmlOUmpLajJOZ1FjNG9kTUFvRS1jSHJUNDdPOXpUbkk2Vmc?oc=5": 1795362051.0861459,
+  "https://news.google.com/rss/articles/CBMiygFBVV95cUxONzJwUzlXX0JJdk5tbUFzYW5FNzRFb0ducHVOX1Q4M19FeHFQcWN2U09LNkpBX3h6NWZ2OXVJVmxRbE1FdnRKRVl4Wnd1Y291cFRzVS0wQUkwRUZXeEkzak1wM0lrbzVxY0xLS2VpMkp2SHF0bHNTU2E1UW1rRjFjcVNMV3BYUTM3b3pwdlFEZkx5WmJCQkRlRTFYMXhxbHc0QnZYUzRzczZabkkyUjN1TEVHdjBNT1ZGM0FUcTFxQjNybzNZNU5Pa0Nn?oc=5": 1795362051.0861459,
+  "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQX3ljNWpFRDRKQk5vVktfOG9SQlFfSUpKcjAyQV9fT0N3VjFzdEdCMDhkNGZUZ0xmdTM4VFRpa3VySTNwZHdjZjRoVC1Dc0FNQ195V1NGTDREMXlWYXVTT2F3RXRvaGdQMWF6elJqR0lSQ24zcGxvbm1CWGx6VkV5S3dHOW1ndXFaRkRJUnZpck5lMzlieXFWbk4yNG9SdlBNRkx3QjFjb2pEWG5fZlRZRHBfTDQ2dUp3LUlz0gG7AUFVX3lxTFBfeWM1akVENEpCTm9WS184b1JCUV9JSkpyMDJBX19PQ3dWMXN0R0IwOGQ0ZlRnTGZ1MzhUVGlrdXJJM3Bkd2NmNGhULUNzQU1DX3lXU0ZMNEQxeVZhdVNPYXdFdG9oZ1AxYXp6UmpHSVJDbjNwbG9ubUJYbHpWRXlLd0c5bWd1cVpGRElSdmlyTmUzOWJ5cVZuTjI0b1J2UE1GTHdCMWNvakRYbl9mVFlEcF9MNDZ1SnctSXM?oc=5": 1795362051.0861459,
+  "https://kathmandupost.com/art-culture/2026/11/22/jalaki-gets-lost-in-a-stale-love-story-and-a-muddled-plot": 1795362051.0861459,
+  "https://news.google.com/rss/articles/CBMirAFBVV95cUxOY2xyYnkyRUZXM3JscFRuMG54OFZXcHVEVFFUZ05rRmVQR0VOeFV4YzZQS2trSEtvSlQ5VlhQV1RDRklWNlVkT1hyd1RvYzVCcmJ3em5PSjV1NVJlMkN0RHV3cHlib3BKcDZXZHRfSzVRalRtX3NWVTIxNUJsVWZzVlFtTjBoWUlacWQ0Mk5tX29oV2pEbmVlUXBaekNmWTk5c0dGSlMzSjVVWDV30gGyAUFVX3lxTE82aXBqTzgzNmViMUJTa0VDcXJ0azNlYThxWWFTYmpvX3pWZ1RzN3RsMzZIdDA1Y3B4MXBaS1ZGdm8xYjJSUkw5LXlpVEFkd2tFdjNSN3hkdlY1Q3FQX1A3ekNSSzNLWjFyUm1EaWo4MkM3b3EwMVhFTGZaOHhabHBkamFWUzlvenpUaHc0Z0NycXA0ZXRiSXJUTkR0bGJ2b0xWN3hCWFM1QVVHMUV6cU56WXc?oc=5": 1795362051.0861459,
+  "https://baahrakhari.com/detail/508015": 1795362051.0861459,
+  "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdFFNajZmQzR2bnRyZUdPU2FfZHhKYjl1U2pwUjl3ZnMyM3VMNnJGSS1lWWRDR1d0b3JYSHVoR3ZoRzJ6bzJRU3dLUlhFVHRGc2RxR1hhbWZRdDBBeElMSnJUNDhuR2pLaXRGZlE1NzNHZi1naV96R2xmemVkcVZCdDlJTUVOdnNYTmVnV1lraTBUSkpqbVVVbEdXbXg?oc=5": 1795362051.0861459,
+  "https://baahrakhari.com/detail/508014": 1795362051.0861459,
+  "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRHI3aUxoSEhtLWJ6RHVRY25qVHBqOFVoU24tNmlBbXdxUm1tMVBiTXFheWlLeWdVOS1yRFdWenk5OUhhZzNFZ3o5eHBlb2QtUjVGVU9YSTI1a2hqRVk4bVBoaF96ZWVSMEJNeDh5MF94bEh3NWFlb3B6aEEySTlZdlpCUHhaVVJrLW42cjdJNTdhMjg1NnZlWndYc1l1MzAxVEdiRmNyZm9mdVpVeWJYVXFZM2lGZjkzOXZTb2xnci1lOHR0cXJaemFjRjBmMzg?oc=5": 1795362051.0861459,
+  "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRXJTXzJveTIyLUswdGRSTUYwazlsU1pCQmlNeHFEUHZHR2IwUnhxeWcxdFhVTHNVZ0luTTFCaU9WVlQtYkcyQ2dtdlVWcTVGalhUa2NhSlpuSHFxNTgxWkphMkRGQjQ2NUt4RHpMQ2NvSFhRRUJkb3pKTWM2anktM09COGYyQm5WX183eVV0Q0tET1hVTWFfQ0o1azZ5OUtQZUFWM1QxeHo2V29FWlpRZQ?oc=5": 1795362051.0861459,
+  "https://news.google.com/rss/articles/CBMiygFBVV95cUxPb1d6SzVJSHJNc1BYUTh2VE82eEdybm12SkpwcmdIdkl5aWJlLVlTY1FHR2FPS0s2VXNnNlBUYzlSQmdHYkhIMmFVNnAzd05EX1VaQm5BcHA3MXdUYVdvR3Z0VVhkNjk0OEttNlltdzR2QU1RUmRVcEVldm9CbW5lYTNMY1diYmFqSUduakFydDlRd2JZRFZ6V05OUGhzQzM3cHRzSEpUOUVoWE01QkIyeUgxcmlzbWUzM1pLbnhrcUkxYm5rNHF3ZGhB?oc=5": 1795362051.0861459
  },
  "queue": [
   {
@@ -1926,51 +1940,6 @@
    "val": 2,
    "teaser": false,
    "hits": 2
-  },
-  {
-   "title": "निःशुल्क आँखा शिविरमा ६८ जनाको शल्यक्रिया",
-   "summary": "साहारा लिम्बूताप्लेजुङ, मङ्सिर ६ गते । विश्वविख्यात नेत्ररोग विशेषज्ञ डा. सन्दुक रुइतको उपस्थितमा ताप्लेजुङ सदरमुकाम फुङ्लिङमा सञ्चालित निःशुल्क आँखा शिविरको पहिलो दिन ६८ जनाको आँख...",
-   "link": "https://gorkhapatraonline.com/news/229955",
-   "source": "Gorkhapatra",
-   "ts": 1795333248,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/392722/conversions/Sanduk-original.jpg",
-   "lang": "ne",
-   "hl": "निःशुल्क आँखा शिविरमा ६८ जनाको शल्यक्रिया",
-   "en": "निःशुल्क आँखा शिविरमा ६८ जनाको शल्यक्रिया",
-   "ne": "निःशुल्क आँखा शिविरमा ६८ जनाको शल्यक्रिया",
-   "imp": 2,
-   "tags": [
-    "EyeCamp",
-    "Health",
-    "स्वास्थ्य"
-   ],
-   "cat": "health",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "त्रिविको प्रादेशिक दिक्षान्त, कुन प्रदेशका लागि कति आवेदन परे ?",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/507977",
-   "source": "Baahrakhari",
-   "ts": 1795333020,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "त्रिविको प्रादेशिक दिक्षान्त, कुन प्रदेशका लागि कति आवेदन परे ?",
-   "en": "त्रिविको प्रादेशिक दिक्षान्त, कुन प्रदेशका लागि कति आवेदन परे ?",
-   "ne": "त्रिविको प्रादेशिक दिक्षान्त, कुन प्रदेशका लागि कति आवेदन परे ?",
-   "imp": 2,
-   "tags": [
-    "Convocation",
-    "त्रिवि"
-   ],
-   "cat": "education",
-   "val": 2,
-   "teaser": true,
-   "hits": 1
   },
   {
    "title": "TU to waive 16 types of fees for Rasuwa flood-affected students",
@@ -5085,7 +5054,7 @@
    "cat": "politics",
    "val": 2,
    "teaser": true,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Indian External Affairs Minister Jaishankar arrives at hotel to meet PM Shah",
@@ -5131,7 +5100,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 7
+   "hits": 14
   },
   {
    "title": "Gold tumbles 14 months low as price nosedives Rs 26,300 in a week; silver sheds Rs 590",
@@ -5583,26 +5552,27 @@
    "hits": 1
   },
   {
-   "title": "नेपालसँगको विशेष मित्रतालाई भारतले महत्त्वका साथ लिएको छ: जयशंकर",
-   "summary": "भारतीय विदेशमन्त्री डा. एस. जयशंकरले नेपालसँगको विशेष मित्रतालाई भारतले उच्च महत्त्वका साथ लिएको बताएका छन्।...",
-   "link": "https://nagariknews.nagariknetwork.com/politics/india-values-its-special-friendship-with-nepal-jaishankar-71-77.html",
-   "source": "Nagarik News",
+   "title": "बालेनसँगको भेटपछि भारतीय विदेशमन्त्री- भारत नेपालसँगको विशेष मित्रतालाई उच्च महत्त्व दिन्छ",
+   "summary": "",
+   "link": "https://baahrakhari.com/detail/508014",
+   "source": "Baahrakhari",
    "ts": 1795356260,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1795352496_balen.png",
+   "weight": 2,
+   "img": null,
    "lang": "ne",
-   "hl": "नेपालसँगको विशेष मित्रतालाई भारतले महत्त्वका साथ लिएको छ: जयशंकर",
-   "en": "नेपालसँगको विशेष मित्रतालाई भारतले महत्त्वका साथ लिएको छ: जयशंकर",
-   "ne": "नेपालसँगको विशेष मित्रतालाई भारतले महत्त्वका साथ लिएको छ: जयशंकर",
+   "hl": "बालेनसँगको भेटपछि भारतीय विदेशमन्त्री- भारत नेपालसँगको विशेष मित्रतालाई उच्च महत्त्व दिन्छ",
+   "en": "बालेनसँगको भेटपछि भारतीय विदेशमन्त्री- भारत नेपालसँगको विशेष मित्रतालाई उच्च महत्त्व दिन्छ",
+   "ne": "बालेनसँगको भेटपछि भारतीय विदेशमन्त्री- भारत नेपालसँगको विशेष मित्रतालाई उच्च महत्त्व दिन्छ",
    "imp": 3,
    "tags": [
-    "Jaishankar",
-    "SpecialFriendship"
+    "SJaishankar",
+    "BalendraShah",
+    "IndiaNepal"
    ],
    "cat": "politics",
-   "val": 2,
+   "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "Jaishankar says India values its special friendship with Nepal after meeting PM Balen",
@@ -5627,26 +5597,27 @@
    "hits": 6
   },
   {
-   "title": "चीनले समर्थन गर्दा पनि कोप-३१ मा जुटेन सहमति, हिमालबारे नेपालको प्रस्ताव पनि अड्कियो",
-   "summary": "टर्कीको अन्ताल्यामा आयोजित संयुक्त राष्ट्रसंघीय जलवायु सम्मेलन (कोप-३१) अन्तिम सम्झौतामा सहमति जुटाउन असफल भएको छ।",
-   "link": "https://www.setopati.com/politics/403154",
-   "source": "Setopati",
+   "title": "कोप-३१को मस्यौदाबाट जीवाश्म इन्धनको उल्लेख हटाइएपछि चर्कियो विवाद",
+   "summary": "",
+   "link": "https://baahrakhari.com/detail/508015",
+   "source": "Baahrakhari",
    "ts": 1795355040,
-   "weight": 3,
+   "weight": 2,
    "img": null,
    "lang": "ne",
-   "hl": "चीनले समर्थन गर्दा पनि कोप-३१ मा जुटेन सहमति, हिमालबारे नेपालको प्रस्ताव पनि अड्कियो",
-   "en": "चीनले समर्थन गर्दा पनि कोप-३१ मा जुटेन सहमति, हिमालबारे नेपालको प्रस्ताव पनि अड्कियो",
-   "ne": "चीनले समर्थन गर्दा पनि कोप-३१ मा जुटेन सहमति, हिमालबारे नेपालको प्रस्ताव पनि अड्कियो",
+   "hl": "कोप-३१को मस्यौदाबाट जीवाश्म इन्धनको उल्लेख हटाइएपछि चर्कियो विवाद",
+   "en": "कोप-३१को मस्यौदाबाट जीवाश्म इन्धनको उल्लेख हटाइएपछि चर्कियो विवाद",
+   "ne": "कोप-३१को मस्यौदाबाट जीवाश्म इन्धनको उल्लेख हटाइएपछि चर्कियो विवाद",
    "imp": 3,
    "tags": [
     "COP31",
-    "HimalayaProposal"
+    "FossilFuels",
+    "कोप३१"
    ],
    "cat": "politics",
-   "val": 2,
+   "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "7,000 EVs imported through Korala border point in four months",
@@ -5982,20 +5953,139 @@
    "val": 3,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "विराटनगर महानगरको एक दशकको यात्रा समेटिएको पुस्तक सार्वजनिक",
+   "summary": "",
+   "link": "https://baahrakhari.com/detail/508017",
+   "source": "Baahrakhari",
+   "ts": 1795361949,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "विराटनगर महानगरको एक दशकको यात्रा समेटिएको पुस्तक सार्वजनिक",
+   "en": "विराटनगर महानगरको एक दशकको यात्रा समेटिएको पुस्तक सार्वजनिक",
+   "ne": "विराटनगर महानगरको एक दशकको यात्रा समेटिएको पुस्तक सार्वजनिक",
+   "imp": 2,
+   "tags": [
+    "Biratnagar",
+    "BookLaunch"
+   ],
+   "cat": "culture",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "'Jalaki' is just another run-of-the-mill romance with a muddled plot",
+   "summary": "Ashok Thapa Magar's film has beautiful cinematography and striking landscapes, but a meandering screenplay, unconvincing characters and forced melodrama leave little to hold the audience's attention.",
+   "link": "https://kathmandupost.com/art-culture/2026/11/22/jalaki-gets-lost-in-a-stale-love-story-and-a-muddled-plot",
+   "source": "Kathmandu Post",
+   "ts": 1795347651.5816684,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "'Jalaki' is just another run-of-the-mill romance with a muddled plot",
+   "en": "'Jalaki' is just another run-of-the-mill romance with a muddled plot",
+   "ne": "'Jalaki' is just another run-of-the-mill romance with a muddled plot",
+   "imp": 1,
+   "tags": [
+    "Jalaki",
+    "MovieReview"
+   ],
+   "cat": "culture",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "'I'll be back': vows Kane after ankle surgery",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdFFNajZmQzR2bnRyZUdPU2FfZHhKYjl1U2pwUjl3ZnMyM3VMNnJGSS1lWWRDR1d0b3JYSHVoR3ZoRzJ6bzJRU3dLUlhFVHRGc2RxR1hhbWZRdDBBeElMSnJUNDhuR2pLaXRGZlE1NzNHZi1naV96R2xmemVkcVZCdDlJTUVOdnNYTmVnV1lraTBUSkpqbVVVbEdXbXg?oc=5",
+   "source": "myRepublica",
+   "ts": 1795356579,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "'I'll be back': vows Kane after ankle surgery",
+   "en": "'I'll be back': vows Kane after ankle surgery",
+   "ne": "'I'll be back': vows Kane after ankle surgery",
+   "imp": 1,
+   "tags": [
+    "HarryKane",
+    "Football"
+   ],
+   "cat": "sports",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "BFIs' base rates fall by up to 1.74 percentage points in a year amid sluggish loan demand",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRHI3aUxoSEhtLWJ6RHVRY25qVHBqOFVoU24tNmlBbXdxUm1tMVBiTXFheWlLeWdVOS1yRFdWenk5OUhhZzNFZ3o5eHBlb2QtUjVGVU9YSTI1a2hqRVk4bVBoaF96ZWVSMEJNeDh5MF94bEh3NWFlb3B6aEEySTlZdlpCUHhaVVJrLW42cjdJNTdhMjg1NnZlWndYc1l1MzAxVEdiRmNyZm9mdVpVeWJYVXFZM2lGZjkzOXZTb2xnci1lOHR0cXJaemFjRjBmMzg?oc=5",
+   "source": "myRepublica",
+   "ts": 1795355100,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "BFIs' base rates fall by up to 1.74 percentage points in a year amid sluggish loan demand",
+   "en": "BFIs' base rates fall by up to 1.74 percentage points in a year amid sluggish loan demand",
+   "ne": "BFIs' base rates fall by up to 1.74 percentage points in a year amid sluggish loan demand",
+   "imp": 3,
+   "tags": [
+    "BFIs",
+    "InterestRates"
+   ],
+   "cat": "economy",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Ncell to phase out 3G services nationwide by December 17",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRXJTXzJveTIyLUswdGRSTUYwazlsU1pCQmlNeHFEUHZHR2IwUnhxeWcxdFhVTHNVZ0luTTFCaU9WVlQtYkcyQ2dtdlVWcTVGalhUa2NhSlpuSHFxNTgxWkphMkRGQjQ2NUt4RHpMQ2NvSFhRRUJkb3pKTWM2anktM09COGYyQm5WX183eVV0Q0tET1hVTWFfQ0o1azZ5OUtQZUFWM1QxeHo2V29FWlpRZQ?oc=5",
+   "source": "myRepublica",
+   "ts": 1795340861,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "Ncell to phase out 3G services nationwide by December 17",
+   "en": "Ncell to phase out 3G services nationwide by December 17",
+   "ne": "Ncell to phase out 3G services nationwide by December 17",
+   "imp": 3,
+   "tags": [
+    "Ncell"
+   ],
+   "cat": "tech",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "A decade after Brexit, EU and UK strike sweeping trade, youth mobility, and security deals to end \"decade of drift\"",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPb1d6SzVJSHJNc1BYUTh2VE82eEdybm12SkpwcmdIdkl5aWJlLVlTY1FHR2FPS0s2VXNnNlBUYzlSQmdHYkhIMmFVNnAzd05EX1VaQm5BcHA3MXdUYVdvR3Z0VVhkNjk0OEttNlltdzR2QU1RUmRVcEVldm9CbW5lYTNMY1diYmFqSUduakFydDlRd2JZRFZ6V05OUGhzQzM3cHRzSEpUOUVoWE01QkIyeUgxcmlzbWUzM1pLbnhrcUkxYm5rNHF3ZGhB?oc=5",
+   "source": "myRepublica",
+   "ts": 1795333826,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "A decade after Brexit, EU and UK strike sweeping trade, youth mobility, and security deals to end \"decade of drift\"",
+   "en": "A decade after Brexit, EU and UK strike sweeping trade, youth mobility, and security deals to end \"decade of drift\"",
+   "ne": "A decade after Brexit, EU and UK strike sweeping trade, youth mobility, and security deals to end \"decade of drift\"",
+   "imp": 1,
+   "tags": [
+    "Brexit"
+   ],
+   "cat": "world",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1794756677.3626463,
-   "en": "Rasuwagadhi Hydropower's cumulative loss reaches Rs 2.87B after floods",
-   "ne": "Rasuwagadhi Hydropower's cumulative loss reaches Rs 2.87B after floods",
-   "link": "https://myrepublica.nagariknetwork.com/news/flood-hit-rasuwagadhi-hydropowers-cumulative-loss-reaches-rs-287-billion-93-24.html",
-   "source": "myRepublica",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "economy"
-  },
   {
    "ts": 1794758491.4802287,
    "en": "Nepal to host ICC ODI World Cup 2027 Qualifier Playoffs in December",
@@ -9000,8 +9090,8 @@
    "cat": "sports"
   }
  ],
- "updated": 1795361475,
- "pending_since": 1795359679.6135886,
+ "updated": 1795362056,
+ "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
