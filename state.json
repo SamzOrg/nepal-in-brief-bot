@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://english.khabarhub.com/2026/20/576246/": 1795133469.4927297,
-  "https://risingnepaldaily.com/news/88794": 1795133469.4927297,
   "https://english.khabarhub.com/2026/20/576252/": 1795134054.760717,
   "https://baahrakhari.com/detail/507798": 1795134054.760717,
   "https://english.onlinekhabar.com/kidney-patient-no-dialysis-fluid.html": 1795134054.760717,
@@ -2150,30 +2148,6 @@
    ],
    "cat": "culture",
    "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Bangladesh to make historic Lord's T20I debut against Nepal",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRHZoZzE0Qzk3QWJ5bS1LeXhMXzNRaGRDQm5rMzNITVZFVUF1NXMwZGd1UXQyTXJHMUg1YkwtR3RQOEFfMjdkV2F5c2pFeV9nYVhOVW1zejNYbm56SEJna2RrekgxeUhqLWliUEhaVTQxWlZfTkNmUWp1akY0T1AyaDludjl0U3pQQmI3RVNNT3RQUW9HTlR0TmdidURVOTliYWJUOGRTNk1rV1AycTJmWWhn?oc=5",
-   "source": "The Daily Star",
-   "ts": 1795290933,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Bangladesh to make historic Lord's T20I debut against Nepal",
-   "en": "Bangladesh to make historic Lord's T20I debut against Nepal",
-   "ne": "Bangladesh to make historic Lord's T20I debut against Nepal",
-   "imp": 4,
-   "tags": [
-    "Bangladesh",
-    "Lords",
-    "T20I",
-    "Nepal"
-   ],
-   "cat": "sports",
-   "val": 3,
    "teaser": false,
    "hits": 1
   },
@@ -5251,9 +5225,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "disaster"
+  },
+  {
+   "ts": 1795306869.8647413,
+   "en": "Bangladesh to play historic T20I against Nepal at Lord's on June 3, 2027",
+   "ne": "Bangladesh to play historic T20I against Nepal at Lord's on June 3, 2027",
+   "link": "https://www.thedailystar.net/sports/cricket/news/bangladesh-make-historic-lords-t20i-debut-against-nepal-4328271",
+   "source": "The Daily Star",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "sports"
   }
  ],
- "updated": 1795306252,
+ "updated": 1795306886,
  "pending_since": 1795305049.654168,
  "fb_blocks": [
   1790350880.4125228,
