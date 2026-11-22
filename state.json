@@ -1945,27 +1945,6 @@
    "hits": 1
   },
   {
-   "title": "Today's News in a Nutshell",
-   "summary": "KATHMANDU: Khabarhub brings you a glimpse of major developments of the day in Nepal, including politics, business/economy, sports, entertainment, and more. PM Balen Shah arrives in New Delhi for two-day state visit...",
-   "link": "https://english.khabarhub.com/2026/22/576528/",
-   "source": "Khabarhub EN",
-   "ts": 1795362357,
-   "weight": 2,
-   "img": "https://english.khabarhub.com/wp-content/uploads/2024/05/News-Nutshell-640x360.jpg",
-   "lang": "en",
-   "hl": "Today's News in a Nutshell",
-   "en": "Today's News in a Nutshell",
-   "ne": "Today's News in a Nutshell",
-   "imp": 1,
-   "tags": [
-    "NewsInANutshell"
-   ],
-   "cat": "other",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
-  },
-  {
    "title": "उच्च जोखिमको प्रसूति शल्यक्रियाबाट पाँच किलोको शिशु जन्माइयो",
    "summary": "नवराज नेपाली बागलुङ, मंसिर ६ गते । बागलुङको बुर्तिबाङ प्रदेश अस्पतालमा पाँच किलो तौलको शिशु जन्माउन उच्च जोखिममा रहेकी महिलाको आपतकालीन शल्यक्रिया गरिएको छ ।पाँचौँ गर्भ रहेकी महिला...",
    "link": "https://gorkhapatraonline.com/news/230008",
@@ -2008,29 +1987,6 @@
    ],
    "cat": "politics",
    "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "डेन्टल हाइजेनिस्ट एसोसिएसन आन्दोलनमा",
-   "summary": "काठमाडौँ, मङ्सिर ६ गते । डेन्टल साइन्स हाइजेनिस्ट एसोसिएसन अफ नेपालले १० बुँदे माग अघि सार्दै आगामी सोमबारदेखि धर्ना तथा रिले अनशन सुरु गर्ने घोषणा गरेको छ । नेपाल स्वास्थ्य व्यवसा...",
-   "link": "https://gorkhapatraonline.com/news/230006",
-   "source": "Gorkhapatra",
-   "ts": 1795362791,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/392821/conversions/ab45983d-ef3f-41ab-8abc-1f1628c5dab4-original.jpg",
-   "lang": "ne",
-   "hl": "डेन्टल हाइजेनिस्ट एसोसिएसन आन्दोलनमा",
-   "en": "डेन्टल हाइजेनिस्ट एसोसिएसन आन्दोलनमा",
-   "ne": "डेन्टल हाइजेनिस्ट एसोसिएसन आन्दोलनमा",
-   "imp": 3,
-   "tags": [
-    "DentalHygienist",
-    "Protest",
-    "आन्दोलन"
-   ],
-   "cat": "society",
-   "val": 2,
    "teaser": false,
    "hits": 1
   },
@@ -2327,28 +2283,6 @@
     "पुल"
    ],
    "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "नेपाल छाड्दै गर्दा एन्ड्रयुको भावुक सन्देश : जीवनभरका सम्झना बोकेर जाँदै छु",
-   "summary": "नेपाल प्रिमियर लिग (एनपीएल) को तेस्रो संस्करणमा कमेन्ट्री गरेका एन्ड्रयु लियोनार्डले नेपाल छाड्दै गर्दा नेपाली समर्थकका नाममा भावुक सन्देश दिएका छन्।...",
-   "link": "https://nagariknews.nagariknetwork.com/sports/andrew-s-emotional-message-as-he-leaves-nepal-i-am-leaving-with-a-lifetime-of-memories-47-37.html",
-   "source": "Nagarik News",
-   "ts": 1795362392,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1795362341_Andrew%20Leonard.jpg",
-   "lang": "ne",
-   "hl": "नेपाल छाड्दै गर्दा एन्ड्रयुको भावुक सन्देश : जीवनभरका सम्झना बोकेर जाँदै छु",
-   "en": "नेपाल छाड्दै गर्दा एन्ड्रयुको भावुक सन्देश : जीवनभरका सम्झना बोकेर जाँदै छु",
-   "ne": "नेपाल छाड्दै गर्दा एन्ड्रयुको भावुक सन्देश : जीवनभरका सम्झना बोकेर जाँदै छु",
-   "imp": 1,
-   "tags": [
-    "Farewell",
-    "Andrew"
-   ],
-   "cat": "society",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -5562,9 +5496,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "economy"
+  },
+  {
+   "ts": 1795391455.14822,
+   "en": "डेन्टल हाइजेनिस्ट एसोसिएसनद्वारा १० बुँदे माग राख्दै सोमबारदेखि आन्दोलनको घोषणा",
+   "ne": "डेन्टल हाइजेनिस्ट एसोसिएसनद्वारा १० बुँदे माग राख्दै सोमबारदेखि आन्दोलनको घोषणा",
+   "link": "https://gorkhapatraonline.com/news/230006",
+   "source": "Gorkhapatra",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "society"
   }
  ],
- "updated": 1795390870,
+ "updated": 1795391472,
  "pending_since": 1795389648.3788588,
  "fb_blocks": [
   1790350880.4125228,
