@@ -1,7 +1,5 @@
 {
  "seen": {
-  "http://english.ratopati.com/story/87374/foreign-currency-exchange-rates-set-for-today": 1795135254.192099,
-  "http://english.ratopati.com/story/87373/how-was-your-day-today-check-your-horoscope": 1795135254.192099,
   "https://nagariknews.nagariknetwork.com/Dharma-Saskriti/kartik-shukla-ekadashi-tulsi-damodar-being-solemnized-82-74.html": 1795135861.9788694,
   "https://www.setopati.com/social/402965": 1795135861.9788694,
   "http://english.ratopati.com/story/87375/today-is-haribodhani-ekadashi-this-is-the-worship-method": 1795135861.9788694,
@@ -1915,7 +1913,10 @@
   "https://gorkhapatraonline.com/news/229873": 1795307465.9296932,
   "https://risingnepaldaily.com/news/88873": 1795307465.9296932,
   "https://gorkhapatraonline.com/news/229872": 1795307465.9296932,
-  "https://risingnepaldaily.com/news/88872": 1795307465.9296932
+  "https://risingnepaldaily.com/news/88872": 1795307465.9296932,
+  "http://english.ratopati.com/story/87700/from-dollar-to-qatari-riyal-here-are-the-foreign-currency-exchange-rates-with-list": 1795308056.7285419,
+  "https://baahrakhari.com/detail/507947": 1795308056.7285419,
+  "https://risingnepaldaily.com/news/88875": 1795308056.7285419
  },
  "queue": [
   {
@@ -1960,29 +1961,6 @@
     "PrizeMoney"
    ],
    "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "नर्सिङ प्रवेश परीक्षाको नतिजा सार्वजनिक : दश हजार ८०५ विद्यार्थी योग्य",
-   "summary": "काठमाडौँ, मङ्सिर ५ गते । चिकित्सा शिक्षा आयोगले शैक्षिक सत्र २०८३/०८४ का लागि सञ्चालन गरेको एकीकृत प्रवेश परीक्षा अन्तर्गत बीएस्सी नर्सिङको नतिजा सार्वजनिक गरेको छ ।आयोगले सार्वजनि...",
-   "link": "https://gorkhapatraonline.com/news/229866",
-   "source": "Gorkhapatra",
-   "ts": 1795279249,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/392596/conversions/1581da82-45cf-400d-a0f6-5afa7308b6ac-original.jpg",
-   "lang": "ne",
-   "hl": "नर्सिङ प्रवेश परीक्षाको नतिजा सार्वजनिक : दश हजार ८०५ विद्यार्थी योग्य",
-   "en": "नर्सिङ प्रवेश परीक्षाको नतिजा सार्वजनिक : दश हजार ८०५ विद्यार्थी योग्य",
-   "ne": "नर्सिङ प्रवेश परीक्षाको नतिजा सार्वजनिक : दश हजार ८०५ विद्यार्थी योग्य",
-   "imp": 3,
-   "tags": [
-    "Nursing",
-    "ExamResult",
-    "नर्सिङ"
-   ],
-   "cat": "education",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -2195,7 +2173,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 5
+   "hits": 6
   },
   {
    "title": "Daily Horoscope for November 22, 2026",
@@ -2367,6 +2345,29 @@
    ],
    "cat": "economy",
    "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Sudurpaschim Royals win NPL Season 3 title",
+   "summary": "BY BIBEK SHRESTHA, Kathmandu, Nov. 22: George Munsey produced a breathtaking innings to finally deliver Sudurpaschim Roy...",
+   "link": "https://risingnepaldaily.com/news/88875",
+   "source": "Rising Nepal",
+   "ts": 1795307519,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "Sudurpaschim Royals win NPL Season 3 title",
+   "en": "Sudurpaschim Royals win NPL Season 3 title",
+   "ne": "Sudurpaschim Royals win NPL Season 3 title",
+   "imp": 4,
+   "tags": [
+    "SudurpaschimRoyals",
+    "NPL",
+    "Cricket"
+   ],
+   "cat": "sports",
+   "val": 3,
    "teaser": false,
    "hits": 1
   }
@@ -5398,8 +5399,8 @@
    "cat": "sports"
   }
  ],
- "updated": 1795307475,
- "pending_since": null,
+ "updated": 1795308061,
+ "pending_since": 1795308056.7285419,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
