@@ -4816,17 +4816,6 @@
  ],
  "posted": [
   {
-   "ts": 1794718269.5907538,
-   "en": "Mahesh Shrestha, brother of NC leader Umesh Shrestha, arrested in Kirtipur",
-   "ne": "Mahesh Shrestha, brother of NC leader Umesh Shrestha, arrested in Kirtipur",
-   "link": "https://english.onlinekhabar.com/umesh-shresthas-brother-mahesh-arrested-in-kathmandu.html",
-   "source": "Onlinekhabar EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "crime"
-  },
-  {
    "ts": 1794720073.1387782,
    "en": "Nepali students win four medals including first silver at Open World Astronomy Olympiad in Russia",
    "ne": "Nepali students win four medals including first silver at Open World Astronomy Olympiad in Russia",
@@ -7852,8 +7841,8 @@
    "cat": "crime"
   }
  ],
- "updated": 1795323086,
- "pending_since": null,
+ "updated": 1795323683,
+ "pending_since": 1795323680.349781,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
