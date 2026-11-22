@@ -1945,74 +1945,6 @@
    "hits": 1
   },
   {
-   "title": "Azerbaijan, Nepal discuss prospects for cultural cooperation",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9yb2pkdGY3VHVQaWE4bm9vMC1selIyT2xGVTVTcFdDaUJGUWJ0YmtlOVJDSWhZWjBUMGFabktKaTlHWklCWlJhUHd4Z0l1cW1LRWtPWlVCbw?oc=5",
-   "source": "trend.az",
-   "ts": 1795276560,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Azerbaijan, Nepal discuss prospects for cultural cooperation",
-   "en": "Azerbaijan, Nepal discuss prospects for cultural cooperation",
-   "ne": "Azerbaijan, Nepal discuss prospects for cultural cooperation",
-   "imp": 2,
-   "tags": [
-    "Azerbaijan",
-    "Nepal",
-    "CulturalCooperation"
-   ],
-   "cat": "culture",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "अबको जीवन जनता र लोकतन्त्रका लागि समर्पित गर्छु: देउवा",
-   "summary": "पूर्वप्रधानमन्त्री एवं नेपाली कांग्रेसका नेता शेरबहादुर देउवाले आफ्नो बाँकी जीवन जनता र लोकतन्त्रको सुदृढीकरणका लागि समर्पित गर्ने बताएका छन्।...",
-   "link": "https://nagariknews.nagariknetwork.com/politics/i-will-dedicate-my-life-to-the-people-and-democracy-deuba-55-43.html",
-   "source": "Nagarik News",
-   "ts": 1795276502,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1786701609_Deuba.jpg",
-   "lang": "ne",
-   "hl": "अबको जीवन जनता र लोकतन्त्रका लागि समर्पित गर्छु: देउवा",
-   "en": "अबको जीवन जनता र लोकतन्त्रका लागि समर्पित गर्छु: देउवा",
-   "ne": "अबको जीवन जनता र लोकतन्त्रका लागि समर्पित गर्छु: देउवा",
-   "imp": 1,
-   "tags": [
-    "Deuba",
-    "Democracy"
-   ],
-   "cat": "politics",
-   "val": 1,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Unity among leftist forces is inevitable: NCP Coordinator Prachanda",
-   "summary": "Kathmandu, Nov 21: Coordinator of the Nepali Communist Party (NCP), Pushpa Kamal Dahal 'Prachanda', has said that unity...",
-   "link": "https://risingnepaldaily.com/news/88870",
-   "source": "Rising Nepal",
-   "ts": 1795276304,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Unity among leftist forces is inevitable: NCP Coordinator Prachanda",
-   "en": "Unity among leftist forces is inevitable: NCP Coordinator Prachanda",
-   "ne": "Unity among leftist forces is inevitable: NCP Coordinator Prachanda",
-   "imp": 2,
-   "tags": [
-    "IntellectualDisability",
-    "Education",
-    "Skills"
-   ],
-   "cat": "education",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Bank Accounts of Foreign Employment Fraud Fugitives to be Frozen",
    "summary": "Kathmandu. The process of freezing the bank accounts of individuals who are absconding despite arrest warrants being issued in cases...",
    "link": "http://english.ratopati.com/story/87697/bank-account-of-absconding-foreign-employment-fraud-accused-to-be-frozen-as-35-day-ultimatum-expires",
@@ -2318,17 +2250,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1794700252.3644886,
-   "en": "Chhath Festival Celebrated with Devotion and Enthusiasm in Nepal",
-   "ne": "Chhath Festival Celebrated with Devotion and Enthusiasm in Nepal",
-   "link": "http://english.ratopati.com/story/86681/kartik-shukla-shashthi-offering-evening-arghya-to-the-setting-sun-while-standing-in-a-reservoir",
-   "source": "Ratopati EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "culture"
-  },
   {
    "ts": 1794702054.7868698,
    "en": "पहाडी र हिमाली केही ठाउँमा हल्का वर्षा, असिना र हिमपातको सम्भावना",
@@ -5355,7 +5276,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1795305072,
+ "updated": 1795305685,
  "pending_since": 1795305049.654168,
  "fb_blocks": [
   1790350880.4125228,
