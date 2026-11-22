@@ -1,10 +1,5 @@
 {
  "seen": {
-  "https://www.ujyaaloonline.com/detail/133677": 1795154483.9234972,
-  "https://baahrakhari.com/detail/507824": 1795154483.9234972,
-  "https://english.onlinekhabar.com/balen-shah-india-sunday.html": 1795154483.9234972,
-  "https://english.khabarhub.com/2026/20/576284/": 1795154483.9234972,
-  "https://kathmandupost.com/national/2026/11/20/shah-to-lead-34-member-delegation-on-india-visit": 1795154483.9234972,
   "http://english.ratopati.com/story/87420/balens-visit-to-india-is-official-ministry-of-foreign-affairs": 1795155059.0171237,
   "https://nagariknews.nagariknetwork.com/politics/prime-minister-s-visit-to-india-former-foreign-ministers-suggest-focusing-on-bilateral-interests-and-expanding-relations-br-77-18.html": 1795155654.99186,
   "https://gorkhapatraonline.com/news/229679": 1795155654.99186,
@@ -1896,7 +1891,12 @@
   "https://baahrakhari.com/detail/507966": 1795327275.180944,
   "https://theannapurnaexpress.com/story/68961": 1795327275.180944,
   "https://nagariknews.nagariknetwork.com/Bazar/gold-fell-again-today-how-much-is-it-being-traded-91-70.html": 1795327275.180944,
-  "https://gorkhapatraonline.com/news/229930": 1795327275.180944
+  "https://gorkhapatraonline.com/news/229930": 1795327275.180944,
+  "https://baahrakhari.com/detail/507971": 1795327848.635836,
+  "https://news.google.com/rss/articles/CBMid0FVX3lxTE1zVGNYRWhvaXhVaF9Obk5XSHA3LWlZRkNrdFhKbU40UmZXcTNVQWQyUVhCNTNJa3hZb1RfZUdOU0Y0TjVDakc5WWpRdW0zRlk3YUh5OFUycGpHRTRQc0VyNlpGMWlqR0tiMmZ2UWFDSTYwUkF4WElr?oc=5": 1795327848.635836,
+  "https://www.setopati.com/global/europe/403108": 1795327848.635836,
+  "https://news.google.com/rss/articles/CBMizgFBVV95cUxOb2xZMGlad0tUOUVqVGN1bXZYLVY0Yk5sOTRycjJ3RVZTams3d2Zxa3E5NmlsV3BWVTU1R2VYM2pnRlhZNTlrSW1iNmN3TVRJR3NJN1NqNnI2S3BicEM1VUxVOTBSRzFsSmpTaGYxUm5rWllJVmxMZ19jd0lpMEVaTHJHS0VtTmFQbFlQMUV5WktwVVZjRldQMzdIQ0JRbWFkN0c1VWI0VEQ3ZmNrUV91MDhFc3lxSURiQ1BBVTZBcXlXcy1EMWdtMEJKWEo2UdIB1AFBVV95cUxQYng5UHpibDN6dUhHa0dvNzJsSDBoSjY3YUNjZWNJQlhkYU5ONXZpMWZ4OW1UQ2QyakxpMV9kNEM5Uk50Z1RJbTEyMzF3MGdKSUpNYjE0NGZuNFBJWTl2WThUT0JQWE03MUZCM3JoZWVhaWpMQnE2bC05X19lajNhYW1QRXhGZENUYlZzRWlRX2JWVzZsWjZVWDl1YndrWUNSNmlnZWtEWlZqNTloTVBDZ1dKZGRXTnJsdDZ5MDlNVzZkMmtwTU9XWHE3RUhlY3lZb29tQw?oc=5": 1795327848.635836,
+  "http://english.ratopati.com/story/87739/death-toll-from-consuming-toxic-alcohol-in-manipur-india-reaches-16-600-under-treatment": 1795327848.635836
  },
  "queue": [
   {
@@ -2280,7 +2280,7 @@
    "cat": "sports",
    "val": 2,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "व्यायामबाट दमको उपचार",
@@ -2768,29 +2768,6 @@
    "hits": 3
   },
   {
-   "title": "As Trump basks in summit pomp, China's Xi strengthens his hand",
-   "summary": "Trump has few concrete gains from his latest meeting with Xi, while Beijing has strengthened its global standing and kept trade tensions in check without making major concessions",
-   "link": "https://kathmandupost.com/world/2026/11/22/trump-gains-little-from-xi-meeting-as-china-strengthens-global-standing",
-   "source": "Kathmandu Post",
-   "ts": 1795298483.894526,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "As Trump basks in summit pomp, China's Xi strengthens his hand",
-   "en": "As Trump basks in summit pomp, China's Xi strengthens his hand",
-   "ne": "As Trump basks in summit pomp, China's Xi strengthens his hand",
-   "imp": 1,
-   "tags": [
-    "Trump",
-    "XiJinping",
-    "Summit"
-   ],
-   "cat": "world",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "स्वरसम्राट्को स्मृतिमा कवितामार्फत शब्दाञ्जलि",
    "summary": "काठमाडौँ, मङ्सिर ६ गते । स्वरसम्राट् नारायणगोपालको स्मृतिमा 'नझरेका फूलहरू'ले मङ्सिर महिनाभर विभिन्न साहित्यिक तथा साङ्गीतिक कार्यक्रम आयोजना गरेको छ ।कार्यक्रमअन्तर्गत यस महिनाको...",
    "link": "https://gorkhapatraonline.com/news/229886",
@@ -2853,29 +2830,6 @@
     "ShreeKrishnaPranami",
     "Bara",
     "Festival"
-   ],
-   "cat": "culture",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "EU film festival opens in Kathmandu, discussing forbidden films and changing perceptions",
-   "summary": "The two-day festival combines European and Nepali film screenings with conversations about censorship, representation and the pressures shaping Nepali cinema.",
-   "link": "https://kathmandupost.com/art-culture/2026/11/22/eu-film-festival-opens-in-kathmandu-discussing-forbidden-films-and-changing-perceptions",
-   "source": "Kathmandu Post",
-   "ts": 1795298483.894526,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "EU film festival opens in Kathmandu, discussing forbidden films and changing perceptions",
-   "en": "EU film festival opens in Kathmandu, discussing forbidden films and changing perceptions",
-   "ne": "EU film festival opens in Kathmandu, discussing forbidden films and changing perceptions",
-   "imp": 2,
-   "tags": [
-    "EUFilmFestival",
-    "Kathmandu",
-    "Cinema"
    ],
    "cat": "culture",
    "val": 3,
@@ -5028,7 +4982,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "Health Insurance Board Upgrades Management System with Latest Technology",
@@ -5327,6 +5281,29 @@
     "सरसफाइ"
    ],
    "cat": "society",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "16 Dead in Manipur After Consuming Toxic Liquor, Hundreds Hospitalized",
+   "summary": "New Delhi. The death toll from consuming toxic liquor in India's northeastern state of Manipur has reached 16. Officials said...",
+   "link": "http://english.ratopati.com/story/87739/death-toll-from-consuming-toxic-alcohol-in-manipur-india-reaches-16-600-under-treatment",
+   "source": "Ratopati EN",
+   "ts": 1795327419,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/india-map_fuq7GLhm0D.webp",
+   "lang": "en",
+   "hl": "16 Dead in Manipur After Consuming Toxic Liquor, Hundreds Hospitalized",
+   "en": "16 Dead in Manipur After Consuming Toxic Liquor, Hundreds Hospitalized",
+   "ne": "16 Dead in Manipur After Consuming Toxic Liquor, Hundreds Hospitalized",
+   "imp": 1,
+   "tags": [
+    "Manipur",
+    "ToxicLiquor",
+    "India"
+   ],
+   "cat": "world",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -8359,7 +8336,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1795327281,
+ "updated": 1795327857,
  "pending_since": 1795327275.180944,
  "fb_blocks": [
   1790350880.4125228,
