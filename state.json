@@ -1,8 +1,5 @@
 {
  "seen": {
-  "http://english.ratopati.com/story/87559/the-process-of-lifting-anfa-suspension-has-moved-forward": 1795234253.1719558,
-  "https://gorkhapatraonline.com/news/229772": 1795234853.5051794,
-  "http://english.ratopati.com/story/87560/powerful-earthquake-hits-central-peru-damage-details-being-collected": 1795234853.5051794,
   "https://gorkhapatraonline.com/news/229778": 1795235468.2349358,
   "https://gorkhapatraonline.com/news/229782": 1795236048.62549,
   "http://english.ratopati.com/story/87562/deuba-led-congresss-gandaki-convention-begins-today": 1795236048.62549,
@@ -1959,7 +1956,10 @@
   "https://nagariknews.nagariknetwork.com/social-affairs/chapter-31-prisoner-of-indecision-br-39-64.html": 1795407050.09966,
   "https://www.setopati.com/social/403168": 1795407050.09966,
   "https://news.google.com/rss/articles/CBMifkFVX3lxTE5kbEdtQnFVd19IdEVFaFpMMmU0Wl9TM2hJTEJWUjI0aEl0ZE9nY01WMkhmaUZBNUpDbTVVSWZIZUNkaUlta1FFamNITU5MaEIzYURfLS1GVFFMRGNoX3NQN0JHMk5tX005SDB3MGlrRlpHc01uQjU2bl9DWlUwQQ?oc=5": 1795407050.09966,
-  "https://gorkhapatraonline.com/news/230045": 1795407050.09966
+  "https://gorkhapatraonline.com/news/230045": 1795407050.09966,
+  "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVEU5RUhsaV80d2hTVXU3bFlaQ09YYjgtQnVTVjJOc3lLSm0yNHF6RTQ0WXJDNlFNTlRfOVJyTnBhRzhZalZjcmdsSHQ4M2VHckdmQ1dJaWxibVR3MW9md1JpTE9oS2JJenZ2UW16TVhGbFBYSk84Z1dOUDZGM3Q5TllFd1hqY0Y4WF9PY3BxWC1ENms?oc=5": 1795407657.7891443,
+  "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdU8wU1NrNlMyVGpzWVUxNTJWZnI4SFNhNk9WbHFQakUzMk5lMS1vMXZrd0xDM3d1bkhubU1LNDZwVzZUZDFOOUxKcUMtY3FtMFdIUENoLUNwM1hDVS1FWExLUGpiM285aUFlcUlIVm9pYXBrVFJKRGVsVXNjSHpFS1pNS0tfVFl1UnVVNnAtNlZZTXF5Y2h6Vk02UnZJb2ZuZDFzS2VR?oc=5": 1795407657.7891443,
+  "https://kathmandupost.com/world/2026/11/23/indonesia-says-24-killed-in-factory-blaze-as-rescuers-search-for-dozens-missing": 1795407657.7891443
  },
  "queue": [
   {
@@ -5186,6 +5186,51 @@
    "val": 3,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "Months after Nepal's Aug 26 flood, devastated families, survivors live in trauma",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdU8wU1NrNlMyVGpzWVUxNTJWZnI4SFNhNk9WbHFQakUzMk5lMS1vMXZrd0xDM3d1bkhubU1LNDZwVzZUZDFOOUxKcUMtY3FtMFdIUENoLUNwM1hDVS1FWExLUGpiM285aUFlcUlIVm9pYXBrVFJKRGVsVXNjSHpFS1pNS0tfVFl1UnVVNnAtNlZZTXF5Y2h6Vk02UnZJb2ZuZDFzS2VR?oc=5",
+   "source": "Asia News Network",
+   "ts": 1795407370,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "Months after Nepal's Aug 26 flood, devastated families, survivors live in trauma",
+   "en": "Months after Nepal's Aug 26 flood, devastated families, survivors live in trauma",
+   "ne": "Months after Nepal's Aug 26 flood, devastated families, survivors live in trauma",
+   "imp": 3,
+   "tags": [
+    "Flood",
+    "Trauma",
+    "बाढी"
+   ],
+   "cat": "disaster",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Indonesia says 24 killed in factory blaze as rescuers search for dozens missing",
+   "summary": "Around 30 people remain missing as rescuers navigate unstable structures at the burned factory, with a possible air-conditioner short circuit suspected as the cause.",
+   "link": "https://kathmandupost.com/world/2026/11/23/indonesia-says-24-killed-in-factory-blaze-as-rescuers-search-for-dozens-missing",
+   "source": "Kathmandu Post",
+   "ts": 1795393258.8571408,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "Indonesia says 24 killed in factory blaze as rescuers search for dozens missing",
+   "en": "Indonesia says 24 killed in factory blaze as rescuers search for dozens missing",
+   "ne": "Indonesia says 24 killed in factory blaze as rescuers search for dozens missing",
+   "imp": 1,
+   "tags": [
+    "Indonesia",
+    "FactoryBlaze"
+   ],
+   "cat": "world",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
@@ -8204,8 +8249,8 @@
    "cat": "society"
   }
  ],
- "updated": 1795407055,
- "pending_since": null,
+ "updated": 1795407662,
+ "pending_since": 1795407657.7891443,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
