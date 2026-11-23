@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQLXVXTDFRaUJ4V1JpX1Vha0VtSlhwOF9Ga3QzZ1pMbmh2eTRndEZrV1IwZng2TmVDWVRUSXdnTlVBUEktV1ZfXy1YZmg2eU80dk10RWtTQU9oMWtOTHZBaEwzaEFDQVVfTWlJT19ncE1Jbi1FWFlqTHJTeW80V3QxdXVGTnRNaS0wNm5rNXNNdWRoMXBqVXNrdDQxZHA4eDFzRDdaYnlrclQ3M1E?oc=5": 1795279856.1449256,
-  "https://theannapurnaexpress.com/story/68947": 1795279856.1449256,
   "https://baahrakhari.com/detail/507945": 1795280490.5457306,
   "http://english.ratopati.com/story/87697/bank-account-of-absconding-foreign-employment-fraud-accused-to-be-frozen-as-35-day-ultimatum-expires": 1795280490.5457306,
   "https://gorkhapatraonline.com/news/229868": 1795280490.5457306,
@@ -2634,7 +2632,9 @@
   "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTzFNb0ZNbG9GaW93ZEoydVJnQ0N3aHJNR0FlejZyVnRvX2FrX25sTWdUa3pTZ1Z1d3ROWjZNX0pnenUtVjdXT1VieUxHTHdEVHNYUzVoWl9BOV85NjdZTTdtbFVON1NRU1A2WlVtTXpzeUpmTXJyNXBidk0tOXZDdDhHZTEwZ3c0dWhLbko1ZVdSTFBoa2JsYzJzT2ZEenZSMDl3cHNTODBfb1FacEZzbzFLaFZFQUp2TDBQcGlqbGQ1WVBPaTdoMQ?oc=5": 1795452652.841267,
   "https://gorkhapatraonline.com/news/230143": 1795452652.841267,
   "http://english.ratopati.com/story/87986/bagmati-government-to-manage-rs-6-billion-for-disaster-reconstruction": 1795452652.841267,
-  "http://english.ratopati.com/story/87985/special-train-service-to-be-operated-for-kamala-snan-pilgrims": 1795452652.841267
+  "http://english.ratopati.com/story/87985/special-train-service-to-be-operated-for-kamala-snan-pilgrims": 1795452652.841267,
+  "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTWpZSWRJYUxXamtOcThmSWsyTFJ2U2xpR0NZY2FwN3NXQnR6b2plX21hVFJLOFlZYnYtWUJzcXVURkhKNlFEeGlDQWpPckFWck82cTU5cE9FeXd4V1hkTUktQ05wWlZVZ2xvWXZWLXBXZm1GcGpDN0xHVHdGSTF6ZnF3ZkFOUUR5WEhZc3RPeWNqa1VvQUxrVmpEek55U1N0VkhURmh5akJtc1FJUDJTa0ZpYnJGcFRIeEtrUDdWNHZlRTFYTWtn?oc=5": 1795453290.347872,
+  "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVHlRQVE5NUV6N01TNDFzQ3dQSnRnWDI3Z2dia2N2TEtXZ2hjeVZFT0lGTlpwaVVUZ0NoMlI0ZkpvOGt5SzZ0ODNaNV9DWTNDWFZwdlV6bGZxTHlHN3FERWNVNnhxNGh3NGVwbEVOUTZ5WnJTdlBfcXdSLXNRQ09PZ3c3ZEhHOVdoOEhZYVdXRHFkZ2JPRlRYS0NuUkw2OG5IOUZpUDVqOF9HV2JKUGVCeTFOSGNrVDZKY1E?oc=5": 1795453290.347872
  },
  "queue": [
   {
@@ -2704,101 +2704,6 @@
     "सहकार्य"
    ],
    "cat": "crime",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "भारतीय लगानीकर्तालाई नेपालमा लगानी गर्न प्रधानमन्त्री शाहको आग्रह",
-   "summary": "भारत भ्रमणका क्रममा भारतीय प्रधानमन्त्री नरेन्द्र मोदीसँगको संयुक्त पत्रकार सम्मेलनमा बोल्दै उनले नेपालमा लगानी, व्यापार र व्यवसाय विस्तारका लागि भारतीय लगानीकर्तालाई स्वागत गरेका हुन्।...",
-   "link": "https://nagariknews.nagariknetwork.com/politics/prime-minister-shah-urges-indian-investors-to-invest-in-nepal-16-71.html",
-   "source": "Nagarik News",
-   "ts": 1795424339,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1795423888_balen%20(1).jpg",
-   "lang": "ne",
-   "hl": "भारतीय लगानीकर्तालाई नेपालमा लगानी गर्न प्रधानमन्त्री शाहको आग्रह",
-   "en": "भारतीय लगानीकर्तालाई नेपालमा लगानी गर्न प्रधानमन्त्री शाहको आग्रह",
-   "ne": "भारतीय लगानीकर्तालाई नेपालमा लगानी गर्न प्रधानमन्त्री शाहको आग्रह",
-   "imp": 4,
-   "tags": [
-    "BalenShah",
-    "IndianInvestors",
-    "ForeignInvestment",
-    "लगानी"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 3
-  },
-  {
-   "title": "पीडितको आवश्यकता कि संस्थाको प्राथमिकता ?",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/508081",
-   "source": "Baahrakhari",
-   "ts": 1795424342,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "पीडितको आवश्यकता कि संस्थाको प्राथमिकता ?",
-   "en": "पीडितको आवश्यकता कि संस्थाको प्राथमिकता ?",
-   "ne": "पीडितको आवश्यकता कि संस्थाको प्राथमिकता ?",
-   "imp": 2,
-   "tags": [
-    "Victims",
-    "Priority",
-    "पीडित"
-   ],
-   "cat": "society",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "PM Modi references Ramayana's appeal among youth at joint briefing with Nepal PM",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOWDMzb1R6VS1iY3JjbmZxNEZVRDlSUnB1OEp4OVFaSVNQV1BscHN4VWh3RUxTeW01S0VaeWo4S3d3Z0I5Smc3bndrZFdHNVMzbFZsQUtMcnBmczBGblJTc2dERUtWREpvcUpnR2ViNmloVmJhYm1sV3JObUdab0RVMlhNblRmX2hDTnAzVjRsNURZeEsxWjR4YWJ1bW5INEN2MDFpUzNycHZwTEtnM0lXem85Tm1jcTZqNVg0RmVlV0dBTG1IRkp0OWgyS2tSNW1SRWluUHJ6enNnbjNRNVhWNTJiTy1rVEVBV0NIOTBLaDVhSzJrUGF3X0lUUGNsbDZL0gGGAkFVX3lxTE9YTGFDTnFnUzZMRUQ0OFRMUkFsMXNfaWdUVUFfSU9MR1NIdU4xLUg5VDJNQUtQN3l4bjE1amJ3NEtqTEVFSlVLN3BJMlItSmJaanpCMzRWb0ZRQWlYaTdyZkRhaDNERUpQckpnVXhjZlIyZGFGUFhDOWpKY1o1U1ZuRm16V09fTUxBYzJpSUE5TlZDdEVrdFBtVUgxNlQ5Q29iOXFhc0hwX3Q2eWxudHQ0TGhkYmdLTmdZWHJpT1NvR0wwTVVHOXdZSjJZa2V6Y29iam5qRjBxVnVsTFFYZThHQnpOX0pCRkkxUDFYenhGYkxMZnFyaTVOZERUNVJ6dlVWZk4yY3c?oc=5",
-   "source": "India Today",
-   "ts": 1795424153,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "PM Modi references Ramayana's appeal among youth at joint briefing with Nepal PM",
-   "en": "PM Modi references Ramayana's appeal among youth at joint briefing with Nepal PM",
-   "ne": "PM Modi references Ramayana's appeal among youth at joint briefing with Nepal PM",
-   "imp": 3,
-   "tags": [
-    "NarendraModi",
-    "Ramayana",
-    "Youth",
-    "NepalIndia"
-   ],
-   "cat": "culture",
-   "val": 3,
-   "teaser": false,
-   "hits": 3
-  },
-  {
-   "title": "जग्गा सट्टापट्टा प्रकरणमा पूर्वमन्त्री रिजालसहितका प्रतिवादीलाई बयानमा डाकियो",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/508078",
-   "source": "Baahrakhari",
-   "ts": 1795423887,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "जग्गा सट्टापट्टा प्रकरणमा पूर्वमन्त्री रिजालसहितका प्रतिवादीलाई बयानमा डाकियो",
-   "en": "जग्गा सट्टापट्टा प्रकरणमा पूर्वमन्त्री रिजालसहितका प्रतिवादीलाई बयानमा डाकियो",
-   "ne": "जग्गा सट्टापट्टा प्रकरणमा पूर्वमन्त्री रिजालसहितका प्रतिवादीलाई बयानमा डाकियो",
-   "imp": 3,
-   "tags": [
-    "Rijal",
-    "LandSwap",
-    "CBI",
-    "Corruption"
-   ],
-   "cat": "politics",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -10580,8 +10485,8 @@
    "cat": "politics"
   }
  ],
- "updated": 1795452671,
- "pending_since": null,
+ "updated": 1795453294,
+ "pending_since": 1795453290.347872,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
