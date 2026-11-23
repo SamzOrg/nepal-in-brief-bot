@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://www.ujyaaloonline.com/detail/133722": 1795264274.828086,
-  "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPcWw2VzJvOEVzZTdhS0s2b1dvUkRFR2ZnYXVWRFFKTW9ub2k4QjV2WHhoZGJkb3N6Q29DdTF1YXA2U0F1VTdLQnBhanZsaGlYVFR5RHZWaFpjaG5nbERTZm9TUnZvRzAtWWM2T2hUbWowZXRQaDVENTZUeVhlcVpNb2Nhd1VDOUt1dklHVlBYSWh4cEhTamVFQ2txYjljUFptNkxfVEJWRmk3c1FKbnpRZVpsUE8tamR4QUZNd2dGSUdOMXA1LXBDZEhUa1cyNjdieGZGYXI5MEp3eU1kdE5fZ0JR0gHoAUFVX3lxTE9nVG1qNkFSLVRrVmFOZFY0V1ZTb3g5eVljVnVsdDdpanV5WDVTNFVEM0RpcnhBMU0xMnI3em9wYWFVYmpReXROS2IzYkpOSHFlMmRlYzlVZ2xLNUxvY1V0RXVLcGlmOWVLM1VneEJkV2xlb2ZGMWJCS1A1bm90SlJKdFpZUVVSRl9fSk1jbi1CYzN5ZERZUXBjRFlVazA1cVBqWnItWXZWSHBfaTJLb3ppX0VJMzlpVTkwZWFhQ01GTHhVcWNSVmlHTURzMkxmSksyUTlzTkNHZmxDVWlUYTNGZHpNaEl5NVM?oc=5": 1795264274.828086,
   "https://gorkhapatraonline.com/news/229847": 1795264855.739907,
   "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5KbUluSjZNR3U3STczLUQ4b2pWVExTWnBSdFp0bTVtMUpob3NpYjN2bUVYdUNwZzh3bTNwelFwcWp0TEFKZ1pibkJYczBSc0R5?oc=5": 1795264855.739907,
   "http://english.ratopati.com/story/87671/delhis-streets-decorated-with-nepal-india-flags": 1795264855.739907,
@@ -2517,7 +2515,41 @@
   "https://news.google.com/rss/articles/CBMijAJBVV95cUxOdWdVeUxzUlZZbHBLaXVvdWVZdkk4d3otSmM3SlBEY2hwcEE2cmpGeWNTdVA5eEtkalQ3VE15Zm1teERQekFVRTBubFlJY1VqdDVWblFaLThmY1A2aFpoaGdrcENyREw5dXhNTG43TDAtaHFFSXBrMFZfSEdTaDM3M2hwUlRwSkdRWVN0aUV0S01QMjhvSVlodFpsX1pmU1V0c2ZETkM1RVYyaHRqV0M0aWFpRS1kQ29DQzZrRExhS1E1LXBNNXJFVXFnUm1UMXh4SjZobFRPVHJNSmlhNjR4dG5zZjZPRUN0MWRjN25yc1h5TTdJWnNBc3R3SVZjNHFuNmoyRFhickZWVWtr0gGSAkFVX3lxTE1QQm5OT2VQVlNObTZUZWFLS0Y2R3lYYTl2TEdYd0g1SEQwM3dYcUpSc0prSW1HdVBYMy1PbEYzVmpzaFhmekRWQjhmQnd6bDlOY1RPSFM3amhmbktSYlkxbnM1TGV6azVDOU1aUG9NUDZMdUtOeE1fdDZtSGFVclhBMm9nZVhmRU81U1BXcnFsaG5GZ0tHd1lzRDljMVV1SkpkTzJUcUxVOVRTRlJlUVRkUTdENWJlS3IzSk5PVUNNV1VkQ0prenpBd1pOV2tBT0NfN3dLOHlCQnJnWXV3RU11a014OFNOR3lBT0hmUEJxdnVqNHhBSzBJUGVaZW5PV0lGWkVZdl9zMVVXNEpvc1AzeFE?oc=5": 1795436686.748067,
   "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPNEt5S2NjQW9ycmFUR1ZpUWJTUGRhU0NlNFZMc1cyZnVYZmVuWmFvZjZGM3JiOEtUMEV6Nk1yOFJDNmFLLW5JclZLOWtEMWhxbENVS3BNczE0RXdxNTZjZUxJUU1BUXd2RFBuVG5yTnJpS3NzUHk2cDliNWpFUnYyOXBJd0xSNHBWUVRfWWQ5M2VxU2hiWUZJMWk5UHR4ZnowQWt6LWowOG50MGVSb0ZIVF95RmpxR0kxc2tXNE9KT0YxMzlCRjZfaXZEXzludGFFQ2Y4a1kxQUctRWZy0gHcAUFVX3lxTE80S3lLY2NBb3JyYVRHVmlRYlNQZGFTQ2U0VkxzVzJmdVhmZW5aYW9mNkYzcmI4S1QwRXo2TXI4UkM2YUstbklyVks5a0QxaHFsQ1VLcE1zMTRFd3E1NmNlTElRTUFRd3ZEUG5UbnJOcmlLc3NQeTZwOWI1akVSdjI5cEl3TFI0cFZRVF9ZZDkzZXFTaGJZRkkxaTlQdHhmejBBa3otajA4bnQwZVJvRkhUX3lGanFHSTFza1c0T0pPRjEzOUJGNl9pdkRfOW50YUVDZjhrWTFBRy1FZnI?oc=5": 1795436686.748067,
   "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQZU5PWUExb0xPYThJalJ3TmxVd2NlR2k2N0hNMHY3YU1nbGItNkdnTi1WRWF2cnY5eGhnQlV3ejBEUHVUbjZSM2p5OVFHT01NUjUtWllFZ285YUF2UzJsTzZwaFFkUnFxS3h6RktVQk83bWo5VXd3UnZ5OEM3VVhhUVhIcHlwSV9RMUgzRTZaZV9KY1UyOVQwUXNMRXNUMExTSjd3clJtbl90TVp4bFpYaGRnVFBFa1lNdU8xSkxsTGVuOV8wTnVTNnNJRlNtSG9VMEdua2NmQTRhSU1FSXU1eDU0TkkwMzVDUHFCUWk3Zw?oc=5": 1795436686.748067,
-  "https://baahrakhari.com/detail/508110": 1795437071.365148
+  "https://baahrakhari.com/detail/508110": 1795437071.365148,
+  "https://news.google.com/rss/articles/CBMiUEFVX3lxTE11a3p2UDZ5X25SMzBlWERMcUlJWGg0Q0U2cll4VTBIRWRIX2RSelBBVEloaXlDaHZEVjVoTVFNTV94c1NfcndPM0l5LU1uSmM4?oc=5": 1795437649.3435228,
+  "https://risingnepaldaily.com/news/88944": 1795437649.3435228,
+  "http://english.ratopati.com/story/87971/how-convenient-will-it-be-for-flights-coming-to-nepal-if-the-bhairahawa-air-route-is-available": 1795437649.3435228,
+  "https://risingnepaldaily.com/news/88943": 1795437649.3435228,
+  "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQREh5U0E4Y2VYM3ZKWWowTFJWbzFQT2ZkT3lNSTA5WnFUYWJsX0FaVUhmdEM3ZG9MUEJQb2NGLVFQc2FkdnpGZ0tteElsN1VfNDhQU3RtLXp0X2tucmNVSXF6MUtPUTRUUi05SEN4eDVBOWF2eTNSNGdIcHdZazR6d3pWbmgxekxRMDB0ZHhfaFktem5NZDhuSDNFSUVBbzFpdVRIaXoxaGNyRDExUC03YlZBYjRsSERnelN2OTV1VjdiVWpkaFFNdFRCYXdIRElMb3c?oc=5": 1795437649.3435228,
+  "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWWs3U0tWZ3JFd2VvaG9Ed1dvV3hjN2tFOV8tajFBUUpWYXJoMHNGbDRNSDJsZGUtbDE1cFdhX3BmQV91bUJqNUNfSGhTa0QtV0FLVWd1Q1BfMnJ2cl85Y3BzNjVTUTAxZ2lWaEp4SHZzaEpSZS1SdU1pa2o2SnM5Y0lUMVJDRnladWxfZG5OSXgzOWpxWGJFMFUyVWZ0MnM?oc=5": 1795437649.3435228,
+  "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQX3Z5QkNySWNKTFdjOGVZMS13Z3N0X1VycHA0WVAzYW94NFdOWXFLbjVocjVyNF85TGVZYURCcWU2SDNpaFJ0VnM0UkJRSkpIRmdDcGZ3THhtQkJvam4ybXVrZWV3Z1I0cFU4b3pFaTl3clpROWx4Sy1yZl9rR3FTc0ItOEVzZmt2ZEJ3cjVLTjhqel9iTnhxaENBaEZ5WWlKVHJxTndkaU41UWtFck1nRVozU2FCY1pOa0pQV3gxVjdIVFZRMi1MTE1DNlZId0o0Nl9FLUFBc3p4V0M3dG1GTDBzNDJUeXNTMW11SjFB0gH0AUFVX3lxTE92TVBXdi15VTlnX3hvX21kc21FRTRESm9mM3N0Y00wUF9WZ1oxa0tVZV9rWXh6bW9aVEtuU0JlSFhiOTRvdDVLandzaGpmMjZ0MWtpc0duZ0tfRi0zaDBpeXcyMkJLNjNNM1BON19hZkFpT0NBU0lvZWpmV01raFozY3E1TkQ3TjRIUnE3QmVWN0t3Mk9YTkRrRHZ3ckhpM1BnRTNzQjNHWm5mRllvcXJ1MTZtd0VEVWlDd1Awa3ZOb3hkdXpvbDRxOTlIbkJIeGthd0pzYzFsTUkyMFJUV1Zab3dQZDlXckljaDhzUU01dDFjSjI?oc=5": 1795437649.3435228,
+  "https://news.google.com/rss/articles/CBMieEFVX3lxTE51Rlp1T1dtSUhDMXc1OExoQlpORldqZ0xhR2xYRDM0Q1ZQYXZ2aHlib0hxOUZVVlUwY2o3c2I5bEFCZjQ4dTlETnRNWk1pcHFvakRGdzc5Nk9kMFN6TWxwaEo0a2JTMjNGOW5MNHNhOG0tcUpzVEdsVg?oc=5": 1795437649.3435228,
+  "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZUxpVDJUUWYyRjZ3R1ltdkVEWDlzbnVtZ0J1cF91UWIyR2J0N1J2X2hMbVA3REVDaklkMld6SDlYM19JajF0NVZRLWkzdjc5X3ZfN0VkNTVadjg1QkNhaXlTQXRyR0R2aVJCV3pQRDl3aHlXMnlPTzlxdWhzVDNPQlZtRmhnWExUM3lEeHQ5MGpNRzNVZ2x6Z24xR244M2h0cHNjSU54c1o?oc=5": 1795437649.3435228,
+  "https://www.ujyaaloonline.com/detail/133789": 1795437649.3435228,
+  "https://english.khabarhub.com/2026/23/576772/": 1795437649.3435228,
+  "https://www.setopati.com/social/403231": 1795437649.3435228,
+  "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSTZ2cFlIcXhqSHBuWGVmR2RQMWluZjhySkZuSWVYNHVITk1qZEtmTUhDNUhKRFFkRk1BZldHRUdRZzhKWkVvNUNxaUZneDlXRkl6MDR1ZlBaMldZMFQyREFTa1ItNVhueWRUUXAtbkctb1FQNzktTDFaMWl2Z2pPekI4Y2NFZnNTU1d4UWdfdzVxNjZYMEVvZmstMHk5MW13ZW4xUGhXQVZ2QjJrUHBSN0U1TTljejB6eThyWGxYWi10OEVReEs3WWRiVnJLQnJM?oc=5": 1795437649.3435228,
+  "https://baahrakhari.com/detail/508112": 1795437649.3435228,
+  "http://english.ratopati.com/story/87970/ukraine-confirms-attack-on-russian-warship-in-libya": 1795437649.3435228,
+  "https://nagariknews.nagariknetwork.com/social-affairs/three-nepalis-held-hostage-in-delhi-rescued-70-96.html": 1795437649.3435228,
+  "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQLXJzLS1KUHJteVlEZEt0bjFEUG9Dbk1qWW00c29NLTJ0a2g1ZlgwSE9FOGNFR1pNZDRRRkZzVC0wXzNsOGJnWGU5UXVRdFpFM0NqRnVIcEJqYkJvX3V1bThzRjBQTXRCb1B6X2J5TVItWmZKLXlLQTJLYWJnVkdVNUt1MEFHR1ZBcExGWkhyY3Zidlk2ODItYUVkMk4wSnZaRkZxWWozeW4?oc=5": 1795437649.3435228,
+  "https://gorkhapatraonline.com/news/230131": 1795437649.3435228,
+  "https://english.onlinekhabar.com/court-registration-ai-related-writ.html": 1795437649.3435228,
+  "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSWtCay01eVBFMFNzVG9Nd001a2RCYXQ2RGliYnNQU0lRRlc4UzAtTEdnSmh1RWdLZHZkYWFreXprZWphMllMTE5lSnByWW5CTFNvTnRlWlNCYWh4ZE45ZjdxeXdUSW9BaFdVcFpVZmV5cF9LWHROQ1VEeFMzWFF1bzRSempZN0wxUjdwNHV0M042SEZSVmdXdGtKalZfQ3lzRkQyRWdXck9hWUNzTlFxOS1GMXQ5WTE2VS04?oc=5": 1795437649.3435228,
+  "https://kathmandupost.com/world/2026/11/23/bangladesh-vows-to-arrest-hasina-if-she-returns-from-india": 1795437649.3435228,
+  "https://english.khabarhub.com/2026/23/576726/": 1795437649.3435228,
+  "https://www.setopati.com/kinmel/banking/403227": 1795437649.3435228,
+  "https://baahrakhari.com/detail/508111": 1795437649.3435228,
+  "http://english.ratopati.com/story/87969/63-acts-have-been-made-within-the-jurisdiction-of-the-province-chief-minister-bhatta": 1795437649.3435228,
+  "https://nagariknews.nagariknetwork.com/social-affairs/farmers-suffering-in-rautahat-wheat-seeds-seized-smuggler-tag-hanged-16-59.html": 1795437649.3435228,
+  "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeUR4UkVLQ0xBZmNZTjhGZ3FwQU9vTU9XU1NlOHp5ZWVfZ2F2dE5JX01rZEpKNEx1bXBvUUhUTDhiYjBBM2l5VTN1MkpoZzdyeTBTUmpDMUNwWVgwYTZaelJBb01FaS1jcUNBZ0lDOVhUSGRFem1oWnUwai0zbmdIX2tTX3dQME1mUlZldWlsSXZiUllsckxhellRWGwtU0wtSnlhSVVEejd4TjZlb1lHOV9B?oc=5": 1795437649.3435228,
+  "https://gorkhapatraonline.com/news/230126": 1795437649.3435228,
+  "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUnZyNWxuTy0tNkZVNTRuQjc3cWlSbDFudVVtZTlnMVFEOGREMXVTOVpGNC0wVmhwVnZXTEQybFBIRzI3UmVQRHdaUGlTSXpfVmZMRW5nR0RnNGMwSnhLMGFEaXVLSFR2akRJdUw5MlhfR25XTEVxNVp2OWxfQ25sS0M2M2c0LXl0S0dCSGw5azUyNEYxRlRhY0R2SVdoaGpLakpsRGVmVHQyLWc?oc=5": 1795437649.3435228,
+  "https://www.setopati.com/social/403230": 1795437649.3435228,
+  "http://english.ratopati.com/story/87968/election-commission-report-submitted-to-provincial-chief": 1795437649.3435228,
+  "https://nagariknews.nagariknetwork.com/others/50-street-lights-in-village-disappear-after-losing-election-locals-angry-54-26.html": 1795437649.3435228,
+  "https://gorkhapatraonline.com/news/230125": 1795437649.3435228,
+  "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaUR6SVpsd1Y5ckhrT1I5NDY0YkM0enN0T3BFaU1rS3MtOUYzMHVXVHMwR3R5RjdsVWNrMkVsaFNfVkx3ZmFHb3oyVks5OEp0SGlKVS12Y0FFQnlJSFFreXU4VnlPbExTaDBFNXBMUlMyQzEtbnU4bTZoSHFEX3hVLWNhVmR3SHdXeURoLUpwazlTc0N6bDdqU1QySVk0eEh1T2o0V18wUGpHdmxjUDVPdG5zRFZwT3lWbWtDeU5lbURILUpJSkE?oc=5": 1795437649.3435228
  },
  "queue": [
   {
@@ -2613,52 +2645,6 @@
    "hits": 1
   },
   {
-   "title": "Lawmakers propose mineral extraction rules to protect future generations",
-   "summary": "Kathmandu, November 23 Lawmakers have proposed legal provisions requiring mineral extraction in Nepal to take into account the interests of future generations, as they seek amendments to the Mines and Minerals Bill,...",
-   "link": "https://english.onlinekhabar.com/mps-propose-mineral-extraction-rules.html",
-   "source": "Onlinekhabar EN",
-   "ts": 1795408725,
-   "weight": 3,
-   "img": "http://english.onlinekhabar.com/wp-content/uploads/2023/11/baluwa-gitti-dhunga-chure-crusher-tripper-khola-nadi-dohan.jpg",
-   "lang": "en",
-   "hl": "Lawmakers propose mineral extraction rules to protect future generations",
-   "en": "Lawmakers propose mineral extraction rules to protect future generations",
-   "ne": "Lawmakers propose mineral extraction rules to protect future generations",
-   "imp": 3,
-   "tags": [
-    "MineralExtraction",
-    "Lawmakers",
-    "कानुन"
-   ],
-   "cat": "politics",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "The missing links in Nepal's disaster response",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0tcmliOUZmSGlfSkRKUjkwaFdtWDBNRHhqRG9fUmxxRDAzX0VGYmZldW1VdXR0NUJqRjlPRUJiWDhvemZyRnQ2QUNIaV9TVGNSdVZlTjRqTjBrY3plNnVHWmtHTWVuanZJSWlqVGV0RHdydDdrZEo0aA?oc=5",
-   "source": "Nepali Times",
-   "ts": 1795408653,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "The missing links in Nepal's disaster response",
-   "en": "The missing links in Nepal's disaster response",
-   "ne": "The missing links in Nepal's disaster response",
-   "imp": 3,
-   "tags": [
-    "DisasterResponse",
-    "Nepal",
-    "प्रकोप"
-   ],
-   "cat": "disaster",
-   "val": 1,
-   "teaser": true,
-   "hits": 4
-  },
-  {
    "title": "Hetaunda Sub-Metropolitan City Honors Cricketer Rijan Dhakal with Cash Prize",
    "summary": "Makwanpur. Hetaunda Sub-Metropolitan City has honored cricketer Rijan Dhakal, who performed excellently in the recently concluded third edition of the...",
    "link": "http://english.ratopati.com/story/87848/region-dhakal-honored-with-rs-100000-from-hetauda-sub-metropolitan-city",
@@ -2726,29 +2712,6 @@
    "val": 1,
    "teaser": true,
    "hits": 1
-  },
-  {
-   "title": "NPL 2023 Captains Reflect on Diverse Tournament Experiences",
-   "summary": "Kathmandu. Some captained the team to championship for the first time, some reached the final for the second consecutive time....",
-   "link": "http://english.ratopati.com/story/87845/what-did-the-captains-of-all-eight-teams-look-like-on-the-field-and-in-leadership",
-   "source": "Ratopati EN",
-   "ts": 1795408650,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/npl_hct36kq7wn_PQrjVFPZhu.webp",
-   "lang": "en",
-   "hl": "NPL 2023 Captains Reflect on Diverse Tournament Experiences",
-   "en": "NPL 2023 Captains Reflect on Diverse Tournament Experiences",
-   "ne": "NPL 2023 Captains Reflect on Diverse Tournament Experiences",
-   "imp": 2,
-   "tags": [
-    "NPL",
-    "Cricket",
-    "एनपिएल"
-   ],
-   "cat": "sports",
-   "val": 2,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "बर्जुतालमा चराको चहलपहल",
@@ -3189,29 +3152,6 @@
    "hits": 1
   },
   {
-   "title": "Nepal Innovation Lab",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdlhxVEFsaGctb3JUVzNFRVYxdVpIYW5QOFAyUVR3Ynd3QzlsN1hTZG9VTlpmTm54NkprLUQwbFlqMGgyWGRsd0FnelVZbUJ0cTFTRUFKbzROVTlrWEJCQjh1WHFreEZjYlVncGhQbVhxRHVhaWFfNmE3aGhFYmJKVGpENGw?oc=5",
-   "source": "World Vision International (WVI)",
-   "ts": 1795408775,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Nepal Innovation Lab",
-   "en": "Nepal Innovation Lab",
-   "ne": "Nepal Innovation Lab",
-   "imp": 2,
-   "tags": [
-    "NepalInnovationLab",
-    "Tech",
-    "Innovation"
-   ],
-   "cat": "tech",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
-  },
-  {
    "title": "Two Village Municipalities in Kapilvastu Declare Local Holiday for Ramghat Fair",
    "summary": "Butwal. Two village municipalities in Kapilvastu have given local holiday on Mangsir 8 for the famous Ramghat fair. Yashodhara and...",
    "link": "http://english.ratopati.com/story/87857/local-holiday-on-mangsir-21-in-two-rural-municipalities-of-kapilvastu",
@@ -3441,7 +3381,7 @@
    "cat": "disaster",
    "val": 3,
    "teaser": false,
-   "hits": 3
+   "hits": 4
   },
   {
    "title": "बीपीटी, बी अप्टोमेट्रीकको प्रवेश परीक्षाको नतिजा सार्वजनिक",
@@ -4770,7 +4710,7 @@
    "cat": "world",
    "val": 2,
    "teaser": false,
-   "hits": 7
+   "hits": 9
   },
   {
    "title": "दसौँ राष्ट्रिय खेलकुदको प्रचारमा सुर्खेतमा मार्चपास र र्‍याली प्रदर्शन",
@@ -6313,7 +6253,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Balen, Modi Direct Foreign Secretaries to Resolve Outstanding Boundary Issues",
@@ -6697,7 +6637,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 5
+   "hits": 6
   },
   {
    "title": "नेपाल र भारतबीच हवाई रुट र पारवहन विस्तारमा ऐतिहासिक सहमति",
@@ -7083,27 +7023,27 @@
    "hits": 1
   },
   {
-   "title": "सभामुख अर्यालसँग कोरियाका राजदूत पार्कको भेट",
-   "summary": "सभामुख डोलप्रसाद (डिपी) अर्यालसँग नेपालका लागि गणतन्त्र कोरियाका नवनियुक्त राजदूत पार्क जाई क्युंगले शिष्टाचार भेट गरेका छन्।...",
-   "link": "https://nagariknews.nagariknetwork.com/politics/korean-ambassador-park-meets-speaker-aryal-br-58-81.html",
-   "source": "Nagarik News",
+   "title": "Speaker Aryal meets newly appointed South Korean Ambassador Park",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSWtCay01eVBFMFNzVG9Nd001a2RCYXQ2RGliYnNQU0lRRlc4UzAtTEdnSmh1RWdLZHZkYWFreXprZWphMllMTE5lSnByWW5CTFNvTnRlWlNCYWh4ZE45ZjdxeXdUSW9BaFdVcFpVZmV5cF9LWHROQ1VEeFMzWFF1bzRSempZN0wxUjdwNHV0M042SEZSVmdXdGtKalZfQ3lzRkQyRWdXck9hWUNzTlFxOS1GMXQ5WTE2VS04?oc=5",
+   "source": "myRepublica",
    "ts": 1795433183,
    "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1795433175_korea%20park.jpg",
-   "lang": "ne",
-   "hl": "सभामुख अर्यालसँग कोरियाका राजदूत पार्कको भेट",
-   "en": "सभामुख अर्यालसँग कोरियाका राजदूत पार्कको भेट",
-   "ne": "सभामुख अर्यालसँग कोरियाका राजदूत पार्कको भेट",
+   "img": null,
+   "lang": "en",
+   "hl": "Speaker Aryal meets newly appointed South Korean Ambassador Park",
+   "en": "Speaker Aryal meets newly appointed South Korean Ambassador Park",
+   "ne": "Speaker Aryal meets newly appointed South Korean Ambassador Park",
    "imp": 2,
    "tags": [
     "DevRajAryal",
     "SouthKorea",
-    "Diplomacy"
+    "Ambassador"
    ],
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "एआई डिटेक्टरको रिपोर्टकै आधारमा शोधपत्र अस्वीकार हुनेविरूद्ध पेस भएको रिट दर्ता गर्न सर्वोच्चको आदेश",
@@ -7125,7 +7065,7 @@
    "cat": "education",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "TVS Motor Company and Jagdamba Motors Distribute 25 Apache Motorcycles to Government Offices and Institutions in Nuwakot and Rasuwa",
@@ -7886,6 +7826,351 @@
     "कानुन"
    ],
    "cat": "society",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "नेपालमा अन्तर्राष्ट्रिय वास्तुकला सम्मेलन 'पाथफाइन्डर २०२६' सम्पन्न",
+   "summary": "",
+   "link": "https://www.setopati.com/social/403231",
+   "source": "Setopati",
+   "ts": 1795437375,
+   "weight": 3,
+   "img": null,
+   "lang": "ne",
+   "hl": "नेपालमा अन्तर्राष्ट्रिय वास्तुकला सम्मेलन 'पाथफाइन्डर २०२६' सम्पन्न",
+   "en": "नेपालमा अन्तर्राष्ट्रिय वास्तुकला सम्मेलन 'पाथफाइन्डर २०२६' सम्पन्न",
+   "ne": "नेपालमा अन्तर्राष्ट्रिय वास्तुकला सम्मेलन 'पाथफाइन्डर २०२६' सम्पन्न",
+   "imp": 2,
+   "tags": [
+    "Architecture",
+    "Pathfinder2026",
+    "Kathmandu"
+   ],
+   "cat": "culture",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Ukraine Claims Drone Attack on Russian Warship in Libya",
+   "summary": "Kyiv. Ukrainian President Volodymyr Zelensky has confirmed an attack on a Russian warship at a naval base in Benghazi, Libya,...",
+   "link": "http://english.ratopati.com/story/87970/ukraine-confirms-attack-on-russian-warship-in-libya",
+   "source": "Ratopati EN",
+   "ts": 1795437121,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/vlodomir_upBu01CReV.png",
+   "lang": "en",
+   "hl": "Ukraine Claims Drone Attack on Russian Warship in Libya",
+   "en": "Ukraine Claims Drone Attack on Russian Warship in Libya",
+   "ne": "Ukraine Claims Drone Attack on Russian Warship in Libya",
+   "imp": 1,
+   "tags": [
+    "Ukraine",
+    "Libya",
+    "DroneAttack"
+   ],
+   "cat": "world",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "दिल्लीमा बन्धक बनाइएका तीन नेपालीको उद्धार",
+   "summary": "वैदेशिक रोजगारीको सुन्दर सपना देखाएर सर्बिया पठाउने प्रलोभनमा ४५ दिनदेखि दिल्लीको होटलमा बन्धक तीन नेपालीको उद्धार भएको छ।...",
+   "link": "https://nagariknews.nagariknetwork.com/social-affairs/three-nepalis-held-hostage-in-delhi-rescued-70-96.html",
+   "source": "Nagarik News",
+   "ts": 1795437075,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2026/third-party/1767337292_Nagariknews.jpg",
+   "lang": "ne",
+   "hl": "दिल्लीमा बन्धक बनाइएका तीन नेपालीको उद्धार",
+   "en": "दिल्लीमा बन्धक बनाइएका तीन नेपालीको उद्धार",
+   "ne": "दिल्लीमा बन्धक बनाइएका तीन नेपालीको उद्धार",
+   "imp": 3,
+   "tags": [
+    "Delhi",
+    "Rescue",
+    "Nepal"
+   ],
+   "cat": "crime",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "पुतलीबजार-११ वडाको आफ्नै भवनबाट सेवा",
+   "summary": "अर्जुन काफ्ले स्याङ्जा, मङसिर ७ गते । स्याङ्जाको पुतलीबजार नगरपालिका - ११ ले आफ्नै भवनबाट सेवा दिन थालेको छ । लामो समय भाडामा रहदै आएको कार्यालय नगरपालिकाले वडाको नयाँ भवन करेण्डाड...",
+   "link": "https://gorkhapatraonline.com/news/230131",
+   "source": "Gorkhapatra",
+   "ts": 1795437012,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/393012/conversions/ward-udghatan--original.jpg",
+   "lang": "ne",
+   "hl": "पुतलीबजार-११ वडाको आफ्नै भवनबाट सेवा",
+   "en": "पुतलीबजार-११ वडाको आफ्नै भवनबाट सेवा",
+   "ne": "पुतलीबजार-११ वडाको आफ्नै भवनबाट सेवा",
+   "imp": 2,
+   "tags": [
+    "Putalibazar",
+    "LocalGov",
+    "Syangja"
+   ],
+   "cat": "society",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Bangladesh vows to arrest Hasina if she returns from India",
+   "summary": "Dhaka is instead seeking Hasina's extradition from India, where she has lived since fleeing Bangladesh in 2024, and expects New Delhi to comply with an existing extradition treaty.",
+   "link": "https://kathmandupost.com/world/2026/11/23/bangladesh-vows-to-arrest-hasina-if-she-returns-from-india",
+   "source": "Kathmandu Post",
+   "ts": 1795423250.0815728,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "Bangladesh vows to arrest Hasina if she returns from India",
+   "en": "Bangladesh vows to arrest Hasina if she returns from India",
+   "ne": "Bangladesh vows to arrest Hasina if she returns from India",
+   "imp": 1,
+   "tags": [
+    "Bangladesh",
+    "SheikhHasina",
+    "India"
+   ],
+   "cat": "world",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "गरिमा विकास बैंकको २०औं वार्षिकोत्सवमा १४ सयभन्दा बढी धावक सहभागी",
+   "summary": "",
+   "link": "https://www.setopati.com/kinmel/banking/403227",
+   "source": "Setopati",
+   "ts": 1795437135,
+   "weight": 3,
+   "img": null,
+   "lang": "ne",
+   "hl": "गरिमा विकास बैंकको २०औं वार्षिकोत्सवमा १४ सयभन्दा बढी धावक सहभागी",
+   "en": "गरिमा विकास बैंकको २०औं वार्षिकोत्सवमा १४ सयभन्दा बढी धावक सहभागी",
+   "ne": "गरिमा विकास बैंकको २०औं वार्षिकोत्सवमा १४ सयभन्दा बढी धावक सहभागी",
+   "imp": 2,
+   "tags": [
+    "GarimaBikasBank",
+    "Marathon",
+    "Anniversary"
+   ],
+   "cat": "sports",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "वेष्ट बैंकमा प्यालेस्टिनीमाथिको आक्रमणलाई आइजेनकोटले गरे निन्दा",
+   "summary": "",
+   "link": "https://baahrakhari.com/detail/508111",
+   "source": "Baahrakhari",
+   "ts": 1795437125,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "वेष्ट बैंकमा प्यालेस्टिनीमाथिको आक्रमणलाई आइजेनकोटले गरे निन्दा",
+   "en": "वेष्ट बैंकमा प्यालेस्टिनीमाथिको आक्रमणलाई आइजेनकोटले गरे निन्दा",
+   "ne": "वेष्ट बैंकमा प्यालेस्टिनीमाथिको आक्रमणलाई आइजेनकोटले गरे निन्दा",
+   "imp": 1,
+   "tags": [
+    "WestBank",
+    "Palestine",
+    "Israel"
+   ],
+   "cat": "world",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Chief Minister Bhatta States Province Government Enacts Laws Within Constitutional Rights",
+   "summary": "Kailali. Sudurpaschim Province Chief Minister Khagraj Bhatta has stated that the provincial government has enacted necessary acts and laws within...",
+   "link": "http://english.ratopati.com/story/87969/63-acts-have-been-made-within-the-jurisdiction-of-the-province-chief-minister-bhatta",
+   "source": "Ratopati EN",
+   "ts": 1795436939,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/khagraj-bhatta_qyjrsuq2xz_SJLtSHpj34.png",
+   "lang": "en",
+   "hl": "Chief Minister Bhatta States Province Government Enacts Laws Within Constitutional Rights",
+   "en": "Chief Minister Bhatta States Province Government Enacts Laws Within Constitutional Rights",
+   "ne": "Chief Minister Bhatta States Province Government Enacts Laws Within Constitutional Rights",
+   "imp": 3,
+   "tags": [
+    "ProvinceGovernment",
+    "Bhatta",
+    "Law"
+   ],
+   "cat": "politics",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "रौतहटमा किसानको पीडा : गहुँको बीउ खोसियो, 'तस्कर'को ट्याग झुण्डियो",
+   "summary": "केही महिनाअघि किसानलाई मलखाद र बीउ ल्याउँदा अनावश्यक दुःख नदिन सशस्त्र प्रहरी बलका अतिरिक्त महानिरीक्षक (एआईजी) गणेश ठाडा मगरले सार्वजनिक रूपमै निर्देशन दिएका थिए।...",
+   "link": "https://nagariknews.nagariknetwork.com/social-affairs/farmers-suffering-in-rautahat-wheat-seeds-seized-smuggler-tag-hanged-16-59.html",
+   "source": "Nagarik News",
+   "ts": 1795437027,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2025/third-party/1795436787_Gahu%20News.png",
+   "lang": "ne",
+   "hl": "रौतहटमा किसानको पीडा : गहुँको बीउ खोसियो, 'तस्कर'को ट्याग झुण्डियो",
+   "en": "रौतहटमा किसानको पीडा : गहुँको बीउ खोसियो, 'तस्कर'को ट्याग झुण्डियो",
+   "ne": "रौतहटमा किसानको पीडा : गहुँको बीउ खोसियो, 'तस्कर'को ट्याग झुण्डियो",
+   "imp": 2,
+   "tags": [
+    "Rautahat",
+    "Farmers",
+    "Wheat"
+   ],
+   "cat": "society",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "कोप ३१ : महासचिव गुटेरेसद्वारा निराशा व्यक्त",
+   "summary": "संयुक्त राष्ट्रसंघ, मङ्सिर ७ गते । संयुक्त राष्ट्रसंघका महासचिव एन्टोनियो गुटेरेसले टर्कीको अन्ताल्यामा सम्पन्न जलवायु परिवर्तनसम्बन्धी ३१औँ अन्तर्राष्ट्रिय सम्मेलन साझा निष्कर्षम...",
+   "link": "https://gorkhapatraonline.com/news/230126",
+   "source": "Gorkhapatra",
+   "ts": 1795435575,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/393005/conversions/antonio-guterres-UN-general-secratory_20190513045402-original.jpg",
+   "lang": "ne",
+   "hl": "कोप ३१ : महासचिव गुटेरेसद्वारा निराशा व्यक्त",
+   "en": "कोप ३१ : महासचिव गुटेरेसद्वारा निराशा व्यक्त",
+   "ne": "कोप ३१ : महासचिव गुटेरेसद्वारा निराशा व्यक्त",
+   "imp": 2,
+   "tags": [
+    "COP31",
+    "Guterres",
+    "ClimateChange"
+   ],
+   "cat": "world",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "कञ्चनजंघालाई तस्बिरमा नियाल्दा",
+   "summary": "",
+   "link": "https://www.setopati.com/social/403230",
+   "source": "Setopati",
+   "ts": 1795436784,
+   "weight": 3,
+   "img": null,
+   "lang": "ne",
+   "hl": "कञ्चनजंघालाई तस्बिरमा नियाल्दा",
+   "en": "कञ्चनजंघालाई तस्बिरमा नियाल्दा",
+   "ne": "कञ्चनजंघालाई तस्बिरमा नियाल्दा",
+   "imp": 1,
+   "tags": [
+    "Kanchenjunga",
+    "Photography",
+    "Himalayas"
+   ],
+   "cat": "culture",
+   "val": 1,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Bagmati Province Chief Receives Election Commission's Annual Report",
+   "summary": "Hetauda. Bagmati Province Chief Deepak Prasad Devkota was today presented with the annual report of the Election Commission.Hari Prasad Dhakal,...",
+   "link": "http://english.ratopati.com/story/87968/election-commission-report-submitted-to-provincial-chief",
+   "source": "Ratopati EN",
+   "ts": 1795436768,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/dipak-devkota_44YyihLXfC.jpg",
+   "lang": "en",
+   "hl": "Bagmati Province Chief Receives Election Commission's Annual Report",
+   "en": "Bagmati Province Chief Receives Election Commission's Annual Report",
+   "ne": "Bagmati Province Chief Receives Election Commission's Annual Report",
+   "imp": 2,
+   "tags": [
+    "BagmatiProvince",
+    "ElectionCommission",
+    "Report"
+   ],
+   "cat": "politics",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "चुनाव हारेपछि गाउँका ५० सडक बत्ती 'गायब', स्थानीय आक्रोशित",
+   "summary": "बत्ती हटाइएपछि स्थानीयले विद्युत निगमको भूमिकामाथि प्रश्न उठाएका छन्। उनीहरूले बत्ती नियमविपरीत जडान गरिएका थिए भने चुनावअघि नै किन कारबाही गरिएन भन्दै प्रश्न गरेका छन्।...",
+   "link": "https://nagariknews.nagariknetwork.com/others/50-street-lights-in-village-disappear-after-losing-election-locals-angry-54-26.html",
+   "source": "Nagarik News",
+   "ts": 1795436752,
+   "weight": 3,
+   "img": "https://images.nagariknewscdn.com/2026/third-party/1795436741_Light%20cut.jpg",
+   "lang": "ne",
+   "hl": "चुनाव हारेपछि गाउँका ५० सडक बत्ती 'गायब', स्थानीय आक्रोशित",
+   "en": "चुनाव हारेपछि गाउँका ५० सडक बत्ती 'गायब', स्थानीय आक्रोशित",
+   "ne": "चुनाव हारेपछि गाउँका ५० सडक बत्ती 'गायब', स्थानीय आक्रोशित",
+   "imp": 2,
+   "tags": [
+    "StreetLights",
+    "Election",
+    "Protest"
+   ],
+   "cat": "society",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "पाटन र कीर्तिपुर अस्पतालबिच सम्झौता",
+   "summary": "सरोज ढुंगेलकाठमाडौँ, मङ्सिर ७ गते । चिकित्सा शिक्षा तथा स्वास्थ्यकर्मीको व्यावहारिक सिप विकास गर्ने उद्देश्यले पाटन स्वास्थ्य विज्ञान प्रतिष्ठान (पाटन अस्पताल) र कीर्तिपुर अस्पतालब...",
+   "link": "https://gorkhapatraonline.com/news/230125",
+   "source": "Gorkhapatra",
+   "ts": 1795435520,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/393003/conversions/Samjhauta-original.jpg",
+   "lang": "ne",
+   "hl": "पाटन र कीर्तिपुर अस्पतालबिच सम्झौता",
+   "en": "पाटन र कीर्तिपुर अस्पतालबिच सम्झौता",
+   "ne": "पाटन र कीर्तिपुर अस्पतालबिच सम्झौता",
+   "imp": 2,
+   "tags": [
+    "PatanHospital",
+    "KirtipurHospital",
+    "Agreement"
+   ],
+   "cat": "health",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Construction of Tulsipur-Ghorahi road resumes after seven-year delay",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaUR6SVpsd1Y5ckhrT1I5NDY0YkM0enN0T3BFaU1rS3MtOUYzMHVXVHMwR3R5RjdsVWNrMkVsaFNfVkx3ZmFHb3oyVks5OEp0SGlKVS12Y0FFQnlJSFFreXU4VnlPbExTaDBFNXBMUlMyQzEtbnU4bTZoSHFEX3hVLWNhVmR3SHdXeURoLUpwazlTc0N6bDdqU1QySVk0eEh1T2o0V18wUGpHdmxjUDVPdG5zRFZwT3lWbWtDeU5lbURILUpJSkE?oc=5",
+   "source": "myRepublica",
+   "ts": 1795428240,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "Construction of Tulsipur-Ghorahi road resumes after seven-year delay",
+   "en": "Construction of Tulsipur-Ghorahi road resumes after seven-year delay",
+   "ne": "Construction of Tulsipur-Ghorahi road resumes after seven-year delay",
+   "imp": 3,
+   "tags": [
+    "TulsipurGhorahi",
+    "RoadConstruction",
+    "Dang"
+   ],
+   "cat": "economy",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -10907,8 +11192,8 @@
    "cat": "economy"
   }
  ],
- "updated": 1795437091,
- "pending_since": 1795436453.670766,
+ "updated": 1795437657,
+ "pending_since": 1795437649.3435228,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
