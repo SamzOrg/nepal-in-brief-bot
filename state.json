@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://gorkhapatraonline.com/news/229736": 1795220450.292941,
   "http://english.ratopati.com/story/87541/this-is-todays-weather-forecast": 1795221068.8486745,
   "https://news.google.com/rss/articles/CBMid0FVX3lxTFBpTFI1UzlqSU9NUVJ2dDJ6eXVXRldHMm1PWXBGU2o3cmpTdEo3N1d4X3k4ZnloSW9oSXF4cDUxZzBCUjVxbWVMQVQ1MXVTbFV3UDI1NDFnbWt0anN4QThZRm5XLTJ2UE5yM1hkajUxR2hoNzlYZmFB?oc=5": 1795221068.8486745,
   "https://www.ujyaaloonline.com/detail/133692": 1795221068.8486745,
@@ -1898,32 +1897,12 @@
   "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRXgxZDVSSDBxQzRkT3JnWGlic0R4QUptc0Q2cHBzYWZKbERYWGFKQ3FEdGV3M29zTVNTM3JHSC1DbklibUNpV1UtaFBVUEJTX3ZvTkwyTGtCNkhMay0zQWJwbEFpdENURFlydHdiaFN4cDhLMjU3TzhSdkJuY3E5Vmp0ZTlhd9IBkwFBVV95cUxPRS1WX1kwTmdiYUtSRGxDYzhBZXdSNTBZUllIWk5lQ1FEcHZSUHpPc3BtYUJRRGNaTHdta1JFS3FnMHpiSGFVaEtocEJCTlJ6WUUxMnF4VGZCcGFJZzRGblJDZVhPRWpKaGVQRjFNUk95WjBxUlFlTXpFbm01U0ItV3RPcUI0U2tTTDV4aHhaZ25VRkU?oc=5": 1795392648.1505506,
   "https://english.khabarhub.com/2026/23/576534/": 1795393249.0857968,
   "https://news.google.com/rss/articles/CBMif0FVX3lxTE0yYjE3T2R4VnpPSXAtS0ZPYVl6b2hiSThoZG4tY0tJUV90MHBFQWh4YjRsbnlsTlJpa1JVcHkxQTdQR2pPSldldUk5Nk52NmNiUmdEVFRpVkdiZWlBMVc5VXBVZ2Q2cVFGNW5PUWRZaURQV19sUS14RUYtdS01aFk?oc=5": 1795393249.0857968,
-  "https://risingnepaldaily.com/news/88911": 1795393249.0857968
+  "https://risingnepaldaily.com/news/88911": 1795393249.0857968,
+  "http://english.ratopati.com/story/87818/asia-cup-rising-stars-hasan-nawazs-all-round-performance-leads-pakistan-to-victory-over-india": 1795393866.4004931,
+  "https://www.setopati.com/kinmel/economy/403158": 1795393866.4004931,
+  "https://www.ujyaaloonline.com/detail/133756": 1795393866.4004931
  },
  "queue": [
-  {
-   "title": "युक्रेनलाई सहायता दिने-नदिनेमा जर्मन नागरिक विभाजित",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/508020",
-   "source": "Baahrakhari",
-   "ts": 1795364880,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "युक्रेनलाई सहायता दिने-नदिनेमा जर्मन नागरिक विभाजित",
-   "en": "युक्रेनलाई सहायता दिने-नदिनेमा जर्मन नागरिक विभाजित",
-   "ne": "युक्रेनलाई सहायता दिने-नदिनेमा जर्मन नागरिक विभाजित",
-   "imp": 1,
-   "tags": [
-    "Ukraine",
-    "Germany",
-    "Aid"
-   ],
-   "cat": "world",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
   {
    "title": "चितवनमा 'बिल्ड नेपाल एक्स्पो-२०२६' हुँदै",
    "summary": "",
@@ -2082,7 +2061,7 @@
    "cat": "economy",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 4
   },
   {
    "title": "Kathmandu Metropolitan City Organizes Climate Action Week",
@@ -2310,7 +2289,7 @@
    "cat": "sports",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "We Raise Hope Holds New York Gala In Support Of Healthcare & Education In Nepal",
@@ -2428,17 +2407,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1794788458.9300296,
-   "en": "सुक्खा पहिराले कालीगण्डकी करिडोर अवरुद्ध",
-   "ne": "सुक्खा पहिराले कालीगण्डकी करिडोर अवरुद्ध",
-   "link": "https://gorkhapatraonline.com/news/229181",
-   "source": "Gorkhapatra",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "disaster"
-  },
   {
    "ts": 1794790258.8810139,
    "en": "39-Year-Old Man Found Dead in Rukum Paschim Guest House Room",
@@ -5443,7 +5411,7 @@
    "cat": "world"
   }
  ],
- "updated": 1795393268,
+ "updated": 1795393870,
  "pending_since": 1795392648.1505506,
  "fb_blocks": [
   1790350880.4125228,
