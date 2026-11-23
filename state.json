@@ -1,7 +1,5 @@
 {
  "seen": {
-  "http://english.ratopati.com/story/87637/wife-and-two-children-killed-one-son-seriously-injured-in-husbands-axe-attack-in-dailekh": 1795254053.898849,
-  "http://english.ratopati.com/story/87636/peace-society-urges-early-conclusion-of-transitional-justice-process": 1795254053.898849,
   "https://baahrakhari.com/detail/507918": 1795254653.793984,
   "http://english.ratopati.com/story/87620/prime-ministers-visit-to-india-expectations-for-result-oriented-diplomacy": 1795254653.793984,
   "https://risingnepaldaily.com/news/88863": 1795254653.793984,
@@ -2302,147 +2300,40 @@
   "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNOXZwdlF4elQxejZtcTN2Y3pjVFRoTDRnVG0wN3ZMaFBYSXhVa215ZExPVzU1Y3dyWlFQdGZqSWllMWZjS2xZM2YzMnhHUVFuby1BSDB0bUJlbXk2UlJ3VUFFclYzOU9XT2FKdFJrczhDUlpPWFZnV0lFX3BHblJXTTZreGlmREprS192T3NwVm1iSmdPYVlxV2RKSnRESVhKZjJrQndndDB6TVc2MUREb3ZSNmczcXFRdFpyVzVhOGxSMHFrQlVrLWRQN0J1OFdSSXBfYjhwQjhiNndjLXZJLV9tekI4aVF5SmpSX0ktYw?oc=5": 1795426851.973034,
   "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPVzc4M0x0SEtTWGdXVnlKZnY0VTl1eU5RSjJvbXhFWWw5d0U0Z3J4RS1nc1Atbm43ZlNsSng2RkhQSUNjMTYwOWN6UGppY25qS1Iybkp4NXZnYjFCeWtlNmRVWVU3WHQ2SVhFY3ZpOThQeThicjdoa01CRnRHLV9hY2dlV25OUnUydjJmZUZ5N3dQUklvVUhoTngyUXhmVV9fYm5HRUlBOEdMZnVkN3gtaWpyVnhEZUlTaEQ2SjFfY05hcEZqMVZ2LUVtcHdPQ18wdUZiWGFxTEJOVDVVRk11TnlvR2s2dF93bjJDc2tZNDFteWk5ZmFr?oc=5": 1795426851.973034,
   "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOS24zSUFWajFqbW5YT2JCeDdiZ2p3THRNV1hzeXk5ODViODdLV0tlcVN2RjhoVElRZjAydUZWNmdBdEQzd080a0pESGw4TEd0OTVNTG5lN0NJU0lZM0tnYWJGRTF6bE12SE42aHVGRkQybnFxQU5Xd1dSY1ZGYU1CRVhBbHBIbTctblZDd3o2YTdkNUlGQ0FPbW5DNEJiN2s3dHduRXBLemRhRnNTZHBfdWp2RjRfZDRBNXdJeXJkRnZqamRLc2d3dk1mOVRJMDEySFgtWlN1U1VYOGlCdGRJelRfOW7SAeoBQVVfeXFMT0hWQmhDbldQbHpxTTJoZTZEU3RhaVRySFN2bC01Ym9ydTZkODMtc0E1RmwzZVNyNWJfODBUbkVLdWlRdkUzTWhjeW1HWFZLbVR6aFZvbkVRV2FMemNxcGJxU1ZPaUpIX3BpZWlnWjh1U3R4Z1ZvMDdiTFdrakEwTnRHTEZ5NlpQbW1SX1pvYUlvM3lWQWNvSWxQWTZaNkVjc2lGanU3RkplZ0JFOGZwVVpsT3IxcHEtSkY0dTdJQTV2RTZMLWhPelQxazhSNWhQalJzOTJLNEtRVExuOFE5cmhMbVNaLXJKVnpR?oc=5": 1795426851.973034,
-  "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZG9RWlZFdnBFc1JtbER3WkdfVnpXUDRHRm5yVU53RGVWQWU1ZWU3ZW1RTThUbHp4OWpQc2ZjY2lNcUJLbVlocENoN19TQURJOXhsM1FRbTN0dFFia2ZrV09BV053azVKS19PUEpNUkRsTGhLTUU2cTZfajFCZFBNVEYzRUktNVVzMWRlazZRUUIxS1BOaWxIbVVnQTQ?oc=5": 1795426851.973034
+  "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZG9RWlZFdnBFc1JtbER3WkdfVnpXUDRHRm5yVU53RGVWQWU1ZWU3ZW1RTThUbHp4OWpQc2ZjY2lNcUJLbVlocENoN19TQURJOXhsM1FRbTN0dFFia2ZrV09BV053azVKS19PUEpNUkRsTGhLTUU2cTZfajFCZFBNVEYzRUktNVVzMWRlazZRUUIxS1BOaWxIbVVnQTQ?oc=5": 1795426851.973034,
+  "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdEhuZUViMW1WQlE2V2s5Zl95Z2IwS28wd1ZHZE53TWprTF95VWVGQVNsa3I4Z185X0M0dWdTZURKNEROdkhCRDlXZnZJZUpYZzh0VlQ2QjJfWE5qcWxYZGRTZHhxSUNTM01tODRvTjhNZ09BSjZDMmZ4VDJkUDhUNDUtTkxzWThHNmNqbEEycEluMVotVkhEOXJMeWxkNWxLRTkwY2VCMEkta0t4aVg2X0lSM1hkU0tYTlA0Y1BPOHRMenVaZXhodDcybw?oc=5": 1795427449.4402912,
+  "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZVRPQjMyZ0Mta09qZktaX3hYQ3kzN3l3YmpUaS1zYXltRng4ZGI2ZFlIeFUzN3U1Zl95dTFwS1J0SmlGajMzRzNIcVZBVVBiVEdETkNWQjdibGlJcmZQWWk5M1hoV044aGx0U2VJVE82X0FBQzRwZDdjRjBsZEY4eQ?oc=5": 1795427449.4402912,
+  "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNSEZFczZHT0Nydkd2QUxYTWNEWGtrVEFXOWdmckdYZDBmWEl0R3M1cTlhMFZRSXdNeEZjMGJVVE9GSldpakhPTmQ2OXFoUFlqVFNzOFkzR1ZCcG1CaFhwLXpHNUUzTHVaaWhtUk5nMGtRVGw4RzlhSE55ZlZKQnhudEUzcTRLSGJDenhESm9CUUpFSE1vaUZ2M2ZJVGxkU09KTXhTZHBNZUpQdFRJSUI1UjJwVlBId2xVSEMwWDI0enBPaEE4Z3VwcUlWWVZjT25UcF8zSWg2ZWw5czZ5cXJJUF95WDJERDIxanVTLUt30gH7AUFVX3lxTE1OcWNYRlZNSzhPcm5IQ0FQa18zSjRhd3hKMld3d3ZXcXlxUV90X3pOcW9UaHlxT1UwTE9ibzZEU2FrcVlWbm82UHRUeU9IXzd2eV9kb3hDTVV0UUZpSG9JdHE2RkptMEJKdmhZU2dWT0lMdXVlSUx4WWszUjdaZ2Z6eWZGZks4bV9LU05ueTNlNDFRTHNieXJnWmtzTHYyWksyY1pCOXFxRmx4NDRJN3RnVGJvd3A0SGhJN2NCWUpWM1h2Q0NVM1hrd1d5YUNrU3R0UG5YWWFEQ1ZMdWU1NGZ2cFRxSXRUSFdHaXEyZThrd0Fnb25lRDQxSVNZ?oc=5": 1795427449.4402912,
+  "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdmtLWExaSzJuUDl2V0ZMRFpRcGxXSXlCNC1JejZwa1ZjZUQ1NlpVU0ZTdldHbmNneDljRFBseU9yUW1tbkNWZDluZ0ZoaFZGQjh5QmtFYTRucUVhNndidXBqTmNReVpnZ2QzVE1UbTI4TVl6Q3hpZG5pYkZIN0xhWnRRbVdyaWUwdVduX0FoUllfOVVSWDRFRV8tcjd4bnRD0gGmAUFVX3lxTE9hcXA3NEJyVzc0RjVxT3ppb2VrVjZOYnk2UnpPeVBzcVROSDdZM2VZaHVfMUpFZ2M2cjZjVTVNUXZBRWxfSURsc0UzYnJ0VGhOaWZLcHZKc1lXbXNuZVJMNHdXRWQydlVxOHVzV2tLMExjQU0zZ2dDQjNrNk1PWlpTbWJ1QTFWNC1INVMtaDRfcWQzUk1GT2tXOGVCVWNBdlVRNE52Tnc?oc=5": 1795427449.4402912,
+  "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZ1AtNGY5RDdTSTEweTBXalc2aDNZYkN6NFNsR0RoTkkzSC05VUtoWGlTNjRiLUQxUnRhbTRVS3VoQ2pZSmRVbWpaM3ZaTkswVGZBT084TEtndVBoVU84SUk5ZU1lZ3lkYkhqTUxOZlE0dXh3TlZFTFcyaHk1WjhJWGpXOWtidHlaQWRpeUJTMzV2bVhWbWFyQ2F5Y1RRNWM?oc=5": 1795427449.4402912,
+  "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSTBYTTJoY3VwdUtYR2hwcENZUE5ITGlWQWZxZmFfaWZLenI3dkVuQkxfWmQxT3BnY1pzNjBuN00zVmpqY1FNQmlDZ2w2cnRIRlZUc0VIY2lHSU1tRGxHYk1xVVhUU3l4VDhLX3RwM1hDU0p6SUw5ZXFuUTl5dXpkQ0E2Q3BXcURTRWlrdzlZbnF4ZW8?oc=5": 1795427449.4402912,
+  "https://news.google.com/rss/articles/CBMimAFBVV95cUxPM2VWWElmcGFyUU5ZYzBUV2dYVVdxaVpYbjRpcm9SdmhpZWh0SDFBMzhkWVJuN2laT3g0eVhJZENhb0RacU9lNUV2Skt6Q3pFaGI2YUZuWGttNkNhR1JmY2ItVEJaa1d5ckNxaGdYeG4yYlZ0VVBvajZ1TzZWNFBjQTJVdWpXd01RSVN6bUZNSmh5WEJIVmk5VQ?oc=5": 1795427449.4402912,
+  "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPQThMSmtVblBvWWtHQ1dtakl2M2JFenNxWHM3bkd2WXB4UWtpSllwSjYxTGlUZ2N2YVptRHU4VnpHQ2ZnWWlVeUY4ZktQREhtaHNiSG9oaW8xS1FTNGhoU0dlYWtWSER5Zk1tNUtBM0hhOXNvZ1JrOXlKZDlnLVpqZGRvRk4tRWpQdXM3dGxIYUlIX2QwVmsxZ1pCM3VnN0V6X0tqS0Y1bjBVdFQyR280c19Rb2hsVS1VYm5aaUxOT2tjOWh2M0J5Z05NQWNuNmRKUjFXRmwtdUxEa0hOc0pQcDJ6MXVQM3h0am96UEpR?oc=5": 1795427449.4402912,
+  "https://news.google.com/rss/articles/CBMizwFBVV95cUxPOEtwWkNpeXJ6RjUzeGFlYU50Ny1DcW1HYTc0U0RpMlR4QzVyMlJLVzMzajc2bW1WblZaTTV3N1RyVEE2dUtpYXp4QW1qRWlrR3FibHpVX0tiZjZEUFhvS2VaeDI5b0YwSHh4Vk55ZU90emhROW1NVzV6RUFWZGtBRHhNTnkteEp2ek9URDhnRUVHSUJYRUxRck8xODAxb0I5Vks4OGxnVWg5SElCeVp2Z2pQeWItQnFMbjJxQ3pFYk1FeTVGejFxaTVwNkxQQzg?oc=5": 1795427449.4402912,
+  "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYWJFaG45NGtodW1LTEhWaFNCMUx5RDVGWE84T2pZbnZ2SEVaeGNxcFBJZmZDNUZlUDEyTVlsdjhKRENHNG1CcU0xbUYyVlpBUWRjWE5LM2hIY0tha1prMDRWUzk5Wm1uZFJ6MVJhYWVOeEtoSzYyZWpfRDBRN21hbkx2b18tOVljRmNsam13VmVnWENmVFdkWi1fblhxSjRyYnIwMGRLS092QmxISEU0?oc=5": 1795427449.4402912,
+  "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTE1TTHdGLTJDZXpSM2Y4NFdSNWVEcXNtd21pVFRVVzFueUk2S2p6bUt0ZXB3MnpZQmVTTy1pLUlOWG9LR2daS3JmakNDdzVZQnI1MmhhQjdTc1NPczRSTzE4Z1JySVF2YVJmZ09HUnhNUnppTUJXcHJYajNsejJXbGgwNHZmNzB5RzA1SWp1SXAtc3cyUUp4T2dGanZua254WGNqREVyVXA1dFNoSkhXNXhWNUs5T0hBZnc?oc=5": 1795427449.4402912,
+  "https://baahrakhari.com/detail/508088": 1795427449.4402912,
+  "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcHhvaG1VUWtnTkstUGJ0bXBYZFk2YV9BUmZYektUem4xaGxBMWlDY1NCcnI4T3ZJRkI5OW1yc3Z5SVhPeWczWTMxam8wNFlCZTJmRzg3ZThDWEVhQ3MtR2djUnotMlJrQ3FCNXc3MF9NNDdzakRMbVhKYXFQSE5wdWhQUFN0TlhnTmhEZ2EwT1AwbXlpQUtHTlhPSVpOSmVVaXFad053bUN5cE9nMWJFa3ZFYw?oc=5": 1795427449.4402912,
+  "https://www.setopati.com/blog/403209": 1795427449.4402912,
+  "https://gorkhapatraonline.com/news/230104": 1795427449.4402912,
+  "https://english.onlinekhabar.com/balen-nepal-india-partnership-blossom.html": 1795427449.4402912,
+  "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOW9BWl9tRGtaSkJLZmIzU05QLXY3SzNxbjBWdG9Bd0RhRWlZWFN5aGxRNElkUkRpN3ZacVduNVExNTNHWUtzbFRtWWFGYXgxNnM1X2JNR2JUOE5sODNIbnoyWTd5UVlWaENOWHVFVzlxTkZ2akpCd0VxR2RTVktjUU5zdXVINzRsV2NXTUk0Y3l4ckR3cFZJVS1lTkgzYTFHdjNGMzh4bWRmdw?oc=5": 1795427449.4402912,
+  "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOSVFNZFI0RndDaUNPZnFveTAyU2trRUYyTFBYY2hieWNuUjBqeHZZYmpXMUhOa3JrVjFueVAyNE4yVEdjVTdFazVSUVRTWVV6Rk5vRXh1dWhXT2EyclBvRzdOaXh3MXNaZnE5SDhKWWxfZk1TWjVVRzJMZnlkbUJEeHZUUE5NNVJ0YWExUHBzdThta3ZabndqYm1wLUpCQ1FkbE5tSk1STlRTWjQ1a0Z4aXk4VDdiLXF5NjJsUE1KWWlfQm0zMDd6bEgyUVY1YkZlT0pTMDVDc1BMbDJQSGhyNDZ3blc3UWFCaVNEZW9tTU5QcDUtak9FYUkzNljSAYICQVVfeXFMTjF2U01JdTdWY1J0V0JzbHNvcDJSSG9yajEtSzNHZ1BINjlIV29qeHZnVzRhRWZaNnNzNG5feW50cFMwemtfekhfVFhKXzktWVE4NmRFX3oxUlJMX1ZkQUt1ZmF6TUQ1SFl2VERIMEd6Y2ZrbVp0ejZQVFd5bmJXT19jdWswa3NQNUdZWXZLalEzZ2R3WE1WTGxWT0xnV081TmV0cW9YaUo0VFRzTkdKODlNUE5va2JHb0s2RkFhLXlsV2Q1NDlpaUpZVTZUUlNKY2szdDJJNHVRcGpWWjlkenVIY19wUk12VkFLY2VGSl93VUtCWnZhVWdPVVEzWGtVZ1RR?oc=5": 1795427449.4402912,
+  "http://english.ratopati.com/story/87924/womens-minister-badi-holds-dialogue-with-raute-community": 1795427449.4402912,
+  "https://www.ujyaaloonline.com/detail/133779": 1795427449.4402912,
+  "https://news.google.com/rss/articles/CBMimgFBVV95cUxObmJGTVN1S1pUcG9nWW9Tb1pnU1ZjQUlwYWx6WXVOTGt6Y3l4NXh0WW9yXzVlSS1ySjg2d20ycm4xTGxZM1RZdTdyTG9oek4tUHpZYXdKMDRaMnllT21JSC1FazJobFBSWC1CZW5LcjU0TWh1VVAwX2ZDV3ZUWjdlRUh2YkMxa1FLRVJhaFc0ckozQ2x3a19sS3h3?oc=5": 1795427449.4402912,
+  "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZ191amdMcVJkamloemEwM0k3R3JNeWNYcEItT0Y2VlFoT21aeDRFLU5XWlEtYlhubzdINXB1UUlfakZzQmlYUWZYR29RdlhKa2I1eXRLc2pkQ0FaaUU2SkRDOWxnb0U2SHFfcUhtS09DLXplcEVCZTAzWDRxZWhpRjhzSUNzVUx2QmE0OEdscDdsT01MNVJHYk5Ua3NYRlJ3VlpjR1JfMXA0ajA5?oc=5": 1795427449.4402912,
+  "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONDZSbmVXeUppc3luVWVTRkRDYXMzSGc4TXdCTW04a3JvaEVNY3hNOG9sZ203aFI1ZVU4WEgyV3lsbjBTcGowV1BOZFdLc0loMDFING9PSUdQM3FhMFVhTnk1QjRsYlRzRklka3VLOExSNkU4NzlvVTRjSjlrZlFPRUdFMUpOUjNPRVZlLWw1ckhHakxYNGxiMW1yRHBxNTJSelVfNHFZYXlzMlZnRHEwdUNxWkswbGNHeTZQbk1JbG0tU19Pbk8zUUtWd2cteDh0b2cw?oc=5": 1795427449.4402912,
+  "https://baahrakhari.com/detail/508087": 1795427449.4402912,
+  "https://www.setopati.com/kinmel/banking/403207": 1795427449.4402912,
+  "https://gorkhapatraonline.com/news/230103": 1795427449.4402912,
+  "http://english.ratopati.com/story/87914/revenue-leakage-provisions-being-repealed-to-eliminate-legal-duplication": 1795427449.4402912,
+  "https://www.setopati.com/politics/403206": 1795427449.4402912,
+  "https://gorkhapatraonline.com/news/230102": 1795427449.4402912,
+  "https://www.setopati.com/blog/403205": 1795427449.4402912,
+  "https://gorkhapatraonline.com/news/230101": 1795427449.4402912
  },
  "queue": [
-  {
-   "title": "अलैँचीले आत्मनिर्भर",
-   "summary": "प्रकाश नेपालइलाम, मङ्सिर ७ गते । विदेश जाने उमेर र अवसर दुवै हुँदा पनि इलाम सोयाङका महेशचन्द्र सापकोटाले विदेशको बाटो रोज्नुभएन । उहाँले गाउँमै बाँझो रहेको जमिनलाई हराभरा बनाउने र...",
-   "link": "https://gorkhapatraonline.com/news/230029",
-   "source": "Gorkhapatra",
-   "ts": 1795398482,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/392851/conversions/bikri-ka-lagi-tyari-biruwa-mahesh-original.jpg",
-   "lang": "ne",
-   "hl": "अलैँचीले आत्मनिर्भर",
-   "en": "अलैँचीले आत्मनिर्भर",
-   "ne": "अलैँचीले आत्मनिर्भर",
-   "imp": 2,
-   "tags": [
-    "Cardamom",
-    "Agriculture",
-    "अहिले"
-   ],
-   "cat": "economy",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "Democrats Plan to End Iran War by December, Risking Government Shutdown",
-   "summary": "Washington DC. Democrats are strategizing to force US President Donald Trump to end the war against Iran by December. However,...",
-   "link": "http://english.ratopati.com/story/87827/can-the-congress-that-stopped-the-vietnam-war-end-the-iran-war",
-   "source": "Ratopati EN",
-   "ts": 1795398431,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/trump-iran-war_MVgLB3VPXz.webp",
-   "lang": "en",
-   "hl": "Democrats Plan to End Iran War by December, Risking Government Shutdown",
-   "en": "Democrats Plan to End Iran War by December, Risking Government Shutdown",
-   "ne": "Democrats Plan to End Iran War by December, Risking Government Shutdown",
-   "imp": 1,
-   "tags": [
-    "Democrats",
-    "IranWar",
-    "USA"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "What happens to passengers' belongings after road accidents in Nepal?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNR2R0SzkyYndLWmRxZ3Ftc0dobVE3dUFUTVlVc3VFRWhGcXdRZGdMc1lCNGttbUNRTFpwN05Sd2tKU0h5WDF4MENQaXJMcGZHRVdHeE9scFVFRW1GWmRXa0VnUWhYaTlOSnp1ekl5WGtaTWRUNXUwVm1zcUxHOUpkVEVickIxeDd0UGpycGJ4aWNKRV9MTktnQg?oc=5",
-   "source": "Asia News Network",
-   "ts": 1795398364,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "What happens to passengers' belongings after road accidents in Nepal?",
-   "en": "What happens to passengers' belongings after road accidents in Nepal?",
-   "ne": "What happens to passengers' belongings after road accidents in Nepal?",
-   "imp": 2,
-   "tags": [
-    "RoadAccidents",
-    "Nepal"
-   ],
-   "cat": "society",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "मजदुरीबाट सिकेको सीपले मेघबहादुर बने उद्यमी",
-   "summary": "व्यावसायिक बङ्गुरपालन सुरु गर्नुअघि मेघबहादुरले करिब सात वर्ष 'स्याङ्जा एग्रो रिसर्च एन्ड भेटेरिनरी सेन्टर'मा काम गरेका थिए।",
-   "link": "https://www.setopati.com/social/403162",
-   "source": "Setopati",
-   "ts": 1795398227,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "मजदुरीबाट सिकेको सीपले मेघबहादुर बने उद्यमी",
-   "en": "मजदुरीबाट सिकेको सीपले मेघबहादुर बने उद्यमी",
-   "ne": "मजदुरीबाट सिकेको सीपले मेघबहादुर बने उद्यमी",
-   "imp": 2,
-   "tags": [
-    "Entrepreneur",
-    "Skills",
-    "उद्यमी"
-   ],
-   "cat": "society",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Q&A: MCC officials on opening the gates of Lord's and beyond for Nepal",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPU25vUnhCdUQ0bGczSVd4Qnp4eHQ1UXBNMlAtckpDNlg5ckQ0UFZ6QlQ4NFJIT0JpMUF2Y3ozRi1zUjc2MzNWRmpENUZfTDR2UzgzRFZpMm1XNTR1SzFQaHRMaXc2RlFUaVk1UmpDcUprVkhlcTFPUmxWQW9GQ0ZBS1UxUWp5b1hXY0xuN3lLU09GVzlMRVE0ckZmYUpYSUtGdUJocXFwUE9hVHVaRWpxZzEwWUtpcUFJ?oc=5",
-   "source": "The Kathmandu Post",
-   "ts": 1795398136,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Q&A: MCC officials on opening the gates of Lord's and beyond for Nepal",
-   "en": "Q&A: MCC officials on opening the gates of Lord's and beyond for Nepal",
-   "ne": "Q&A: MCC officials on opening the gates of Lord's and beyond for Nepal",
-   "imp": 2,
-   "tags": [
-    "MCC",
-    "Lords",
-    "Cricket"
-   ],
-   "cat": "sports",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "कोरियामा ६ वर्ष बिताएर फर्केपछि ८० लाख लगानीमा गरेका छन् पशुपन्छी पालन",
-   "summary": "बाख्रापालनबाट सुरू भएको व्यवसायमा अहिले स्थानीय जातका कुखुरा, कालिज, मौरीपालन र फलफूल खेतीसमेत थपिएको छ।",
-   "link": "https://www.setopati.com/social/403163",
-   "source": "Setopati",
-   "ts": 1795398144,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "कोरियामा ६ वर्ष बिताएर फर्केपछि ८० लाख लगानीमा गरेका छन् पशुपन्छी पालन",
-   "en": "कोरियामा ६ वर्ष बिताएर फर्केपछि ८० लाख लगानीमा गरेका छन् पशुपन्छी पालन",
-   "ne": "कोरियामा ६ वर्ष बिताएर फर्केपछि ८० लाख लगानीमा गरेका छन् पशुपन्छी पालन",
-   "imp": 2,
-   "tags": [
-    "Korea",
-    "Agriculture",
-    "Entrepreneurship",
-    "वैदेशिकरोजगारी"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
   {
    "title": "Importance Of Vitamin C",
    "summary": "Dr. Srijit Das / DR. SARUN KOIRALAVitamin C, also known as ascorbic acid, is an essential vitamin for the human body. Pl...",
@@ -2893,29 +2784,6 @@
    "cat": "tech",
    "val": 1,
    "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "एनआरएनएले काठमाडौंमा 'दोस्रो पुस्ता विश्व सम्मेलन' आयोजना गर्ने",
-   "summary": "गैरआवासीय नेपाली सङ्घ (एनआरएनए) ले आगामी सन् २०२७ जनवरी २ देखि ७ तारिख (पुस १८ देखि २३, २०८३) सम्म काठमाडौं र धुलिखेलमा 'प्रथम एनआरएनए दोस्रो पुस्ता विश्व सम्मेलन २०२७' आयोजना गर्ने भएको छ।...",
-   "link": "https://nagariknews.nagariknetwork.com/diaspora/nrna-to-organize-second-generation-world-conference-in-kathmandu-65-26.html",
-   "source": "Nagarik News",
-   "ts": 1795398423,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1795398403_prabas.jpg",
-   "lang": "ne",
-   "hl": "एनआरएनएले काठमाडौंमा 'दोस्रो पुस्ता विश्व सम्मेलन' आयोजना गर्ने",
-   "en": "एनआरएनएले काठमाडौंमा 'दोस्रो पुस्ता विश्व सम्मेलन' आयोजना गर्ने",
-   "ne": "एनआरएनएले काठमाडौंमा 'दोस्रो पुस्ता विश्व सम्मेलन' आयोजना गर्ने",
-   "imp": 2,
-   "tags": [
-    "NRNA",
-    "Kathmandu",
-    "एनआरएनए"
-   ],
-   "cat": "society",
-   "val": 3,
-   "teaser": false,
    "hits": 1
   },
   {
@@ -4405,7 +4273,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 30
+   "hits": 31
   },
   {
    "title": "जीर्ण बन्दै ऐतिहासिक दरबार",
@@ -5048,7 +4916,7 @@
    "cat": "world",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "बाढी प्रभावित क्षेत्रको पुनर्स्थापना गर्न एफएनसीसीआई र भारतीय उद्योग परिसंघबीच समझदारी",
@@ -5759,7 +5627,7 @@
    "cat": "world",
    "val": 1,
    "teaser": false,
-   "hits": 14
+   "hits": 15
   },
   {
    "title": "'Green finance must drive Nepal's economic transformation'",
@@ -6956,7 +6824,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "India grants Nepal access to Kandla and Paradip ports for trade",
@@ -7260,7 +7128,7 @@
    "cat": "economy",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "नेपाल-भारत समझदारीको लाभ किसान र युवासम्म पुग्नुपर्छ : प्रधानमन्त्री बालेन",
@@ -7352,7 +7220,7 @@
    "cat": "world",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "Minister Timilsina Suggests Reconsidering Foreign Investment in Film Sector",
@@ -7471,7 +7339,7 @@
    "cat": "economy",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "पीडितको आवश्यकता कि संस्थाको प्राथमिकता ?",
@@ -7542,7 +7410,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 3
   },
   {
    "title": "जग्गा सट्टापट्टा प्रकरणमा पूर्वमन्त्री रिजालसहितका प्रतिवादीलाई बयानमा डाकियो",
@@ -7865,6 +7733,188 @@
    "cat": "economy",
    "val": 3,
    "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "काठमाडौंमा सेल ब्रोडकास्ट प्रणालीको परीक्षण हुँदै, नआत्तिन आग्रह",
+   "summary": "",
+   "link": "https://baahrakhari.com/detail/508088",
+   "source": "Baahrakhari",
+   "ts": 1795427375,
+   "weight": 2,
+   "img": null,
+   "lang": "ne",
+   "hl": "काठमाडौंमा सेल ब्रोडकास्ट प्रणालीको परीक्षण हुँदै, नआत्तिन आग्रह",
+   "en": "काठमाडौंमा सेल ब्रोडकास्ट प्रणालीको परीक्षण हुँदै, नआत्तिन आग्रह",
+   "ne": "काठमाडौंमा सेल ब्रोडकास्ट प्रणालीको परीक्षण हुँदै, नआत्तिन आग्रह",
+   "imp": 3,
+   "tags": [
+    "CellBroadcast",
+    "Kathmandu",
+    "Telecom"
+   ],
+   "cat": "tech",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "वडाध्यक्षज्यू, नमस्कार!",
+   "summary": "नागरिकको समस्या सुन्ने र समाधानका लागि पहल गर्ने पहिलो ढोका वडा कार्यालय नै हो। त्यो ढोका खुला राख्ने जिम्मेवारी वडा अध्यक्षको हो। पदको उचाइभन्दा नागरिकसँगको निकटता र कामको प्रभावले नेतृत्वको मूल्य निर्धारण गर्छ।",
+   "link": "https://www.setopati.com/blog/403209",
+   "source": "Setopati",
+   "ts": 1795427205,
+   "weight": 3,
+   "img": null,
+   "lang": "ne",
+   "hl": "वडाध्यक्षज्यू, नमस्कार!",
+   "en": "वडाध्यक्षज्यू, नमस्कार!",
+   "ne": "वडाध्यक्षज्यू, नमस्कार!",
+   "imp": 2,
+   "tags": [
+    "LocalGovernment",
+    "WardChair"
+   ],
+   "cat": "society",
+   "val": 1,
+   "teaser": true,
+   "hits": 1
+  },
+  {
+   "title": "Minister Sita Badi Meets Raute Community Members in Kathmandu",
+   "summary": "Kathmandu. Minister for Women, Children, Gender and Social Security Sita Badi has met with members of the Raute community who...",
+   "link": "http://english.ratopati.com/story/87924/womens-minister-badi-holds-dialogue-with-raute-community",
+   "source": "Ratopati EN",
+   "ts": 1795426743,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/cxrx1h7bo0.jpg",
+   "lang": "en",
+   "hl": "Minister Sita Badi Meets Raute Community Members in Kathmandu",
+   "en": "Minister Sita Badi Meets Raute Community Members in Kathmandu",
+   "ne": "Minister Sita Badi Meets Raute Community Members in Kathmandu",
+   "imp": 3,
+   "tags": [
+    "SitaBadi",
+    "Raute",
+    "Kathmandu"
+   ],
+   "cat": "society",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "काठमाण्डाैलाई बस्नयोग्य शहर बनाउँछाैँ : मन्त्री श्रेष्ठ",
+   "summary": "मन्त्री श्रेष्ठले बागमती र विष्णुमती नदी सफा बनाई काठमाण्डाैलाई सुरक्षित र बस्नयोग्य शहर बनाउने प्रतिबद्धता व्यक्त गर्नुभयो ।",
+   "link": "https://www.ujyaaloonline.com/detail/133779",
+   "source": "Ujyaalo",
+   "ts": 1795426680,
+   "weight": 2,
+   "img": "https://www.ujyaaloonline.com/uploads/posts/1-1795426635.jpg",
+   "lang": "ne",
+   "hl": "काठमाण्डाैलाई बस्नयोग्य शहर बनाउँछाैँ : मन्त्री श्रेष्ठ",
+   "en": "काठमाण्डाैलाई बस्नयोग्य शहर बनाउँछाैँ : मन्त्री श्रेष्ठ",
+   "ne": "काठमाण्डाैलाई बस्नयोग्य शहर बनाउँछाैँ : मन्त्री श्रेष्ठ",
+   "imp": 3,
+   "tags": [
+    "Kathmandu",
+    "UrbanDevelopment"
+   ],
+   "cat": "politics",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "सामान्य अंकले बढ्यो नेप्से, कारोबार रकम भने घट्यो",
+   "summary": "सोमबार १०५ कम्पनीको सेयर मूल्य बढेको छ भने १६५ वटाको घटेको छ। यस्तै, १० कम्पनी स्थिर छन्।",
+   "link": "https://www.setopati.com/kinmel/banking/403207",
+   "source": "Setopati",
+   "ts": 1795426920,
+   "weight": 3,
+   "img": null,
+   "lang": "ne",
+   "hl": "सामान्य अंकले बढ्यो नेप्से, कारोबार रकम भने घट्यो",
+   "en": "सामान्य अंकले बढ्यो नेप्से, कारोबार रकम भने घट्यो",
+   "ne": "सामान्य अंकले बढ्यो नेप्से, कारोबार रकम भने घट्यो",
+   "imp": 3,
+   "tags": [
+    "Nepse",
+    "StockMarket",
+    "Economy"
+   ],
+   "cat": "economy",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "अलैँची कपको उपाधि सुनसरीको मरिक एफसीलाई",
+   "summary": "साहारा लिम्बूताप्लेजुङ, मङ्सिर ७ गते। ताप्लेजुङको मिक्वाखोला गाउँपालिका -४, साँवास्थित पर्यटकीयस्थल फङफङदेन झरनामा आयोजित अलैँची कप आमन्त्रित पुरुष फुटबल प्रतियोगिताको उपाधि धरानको...",
+   "link": "https://gorkhapatraonline.com/news/230103",
+   "source": "Gorkhapatra",
+   "ts": 1795426766,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/392972/conversions/Alaichi-Hastantaran-original.jpg",
+   "lang": "ne",
+   "hl": "अलैँची कपको उपाधि सुनसरीको मरिक एफसीलाई",
+   "en": "अलैँची कपको उपाधि सुनसरीको मरिक एफसीलाई",
+   "ne": "अलैँची कपको उपाधि सुनसरीको मरिक एफसीलाई",
+   "imp": 2,
+   "tags": [
+    "Football",
+    "AlaichiCup",
+    "Sunsari"
+   ],
+   "cat": "sports",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Finance Ministry Proposes Repeal of Revenue Leakage Control Laws",
+   "summary": "Kathmandu. The Ministry of Finance has moved forward with a proposal to repeal the legal provisions related to revenue leakage...",
+   "link": "http://english.ratopati.com/story/87914/revenue-leakage-provisions-being-repealed-to-eliminate-legal-duplication",
+   "source": "Ratopati EN",
+   "ts": 1795425101,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/suman-dahal_hX8K4VtOCN.webp",
+   "lang": "en",
+   "hl": "Finance Ministry Proposes Repeal of Revenue Leakage Control Laws",
+   "en": "Finance Ministry Proposes Repeal of Revenue Leakage Control Laws",
+   "ne": "Finance Ministry Proposes Repeal of Revenue Leakage Control Laws",
+   "imp": 3,
+   "tags": [
+    "FinanceMinistry",
+    "RevenueLeakage",
+    "Law"
+   ],
+   "cat": "economy",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "प्रतिजैविक औषधिको प्रयोगमा हुने सामान्य गल्तीले निम्त्याउन सक्ने गम्भीर चुनौती!",
+   "summary": "इन्टरनेट, गुगल, च्याटजिपिटी अथवा सामाजिक सञ्जालमा देखिएका अपूर्ण जानकारीका आधारमा स्वास्थ्यकर्मीको सल्लाहविना नै एन्टिबायोटिक प्रयोग गर्नु आजको समयमा देखिएको प्रमुख समस्यामध्ये एक हो।",
+   "link": "https://www.setopati.com/blog/403205",
+   "source": "Setopati",
+   "ts": 1795425960,
+   "weight": 3,
+   "img": null,
+   "lang": "ne",
+   "hl": "प्रतिजैविक औषधिको प्रयोगमा हुने सामान्य गल्तीले निम्त्याउन सक्ने गम्भीर चुनौती!",
+   "en": "प्रतिजैविक औषधिको प्रयोगमा हुने सामान्य गल्तीले निम्त्याउन सक्ने गम्भीर चुनौती!",
+   "ne": "प्रतिजैविक औषधिको प्रयोगमा हुने सामान्य गल्तीले निम्त्याउन सक्ने गम्भीर चुनौती!",
+   "imp": 3,
+   "tags": [
+    "Antibiotics",
+    "Health",
+    "Medicine"
+   ],
+   "cat": "health",
+   "val": 1,
+   "teaser": true,
    "hits": 1
   }
  ],
@@ -10884,8 +10934,8 @@
    "cat": "education"
   }
  ],
- "updated": 1795426855,
- "pending_since": 1795426269.0955598,
+ "updated": 1795427456,
+ "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
