@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://english.khabarhub.com/2026/21/576385/": 1795219850.3337102,
   "https://gorkhapatraonline.com/news/229736": 1795220450.292941,
   "http://english.ratopati.com/story/87541/this-is-todays-weather-forecast": 1795221068.8486745,
   "https://news.google.com/rss/articles/CBMid0FVX3lxTFBpTFI1UzlqSU9NUVJ2dDJ6eXVXRldHMm1PWXBGU2o3cmpTdEo3N1d4X3k4ZnloSW9oSXF4cDUxZzBCUjVxbWVMQVQ1MXVTbFV3UDI1NDFnbWt0anN4QThZRm5XLTJ2UE5yM1hkajUxR2hoNzlYZmFB?oc=5": 1795221068.8486745,
@@ -1896,7 +1895,10 @@
   "https://www.ujyaaloonline.com/detail/133755": 1795392648.1505506,
   "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZkZMTDZiZFFfWlN0dldwcU1Oam1ITUNMbDE1ZDJTTVlhY0w0Sy1La2tPWDhPZHRXNFhvZ2MyQkVLWWRUcTRrc2ZySlRXcDBpUVM0ZVd6TkxpOG1RaXYwOHgzcGZrMF9TanNSamVHWW1jTkF2cFg3R05NY0xBUnNHbUc5RjBSYXk2aXfSAYoBQVVfeXFMTWZGTEw2YmRRX1pTdHZXcHFNTmptSE1DTGwxNWQyU01ZYWNMNEstS2trT1g4T2R0VzRYb2djMkJFS1lkVHE0a3NmckpUV3AwaVFTNGVXek5MaThtUWl2MDh4M3BmazBfU2pzUmplR1ltY05BdnBYN0dOTWNMQVJzR21HOUYwUmF5Nml3?oc=5": 1795392648.1505506,
   "https://kathmandupost.com/national/2026/11/23/india-likely-to-announce-1-5-billion-package-for-nepal-air-route-deal-under-discussion": 1795392648.1505506,
-  "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRXgxZDVSSDBxQzRkT3JnWGlic0R4QUptc0Q2cHBzYWZKbERYWGFKQ3FEdGV3M29zTVNTM3JHSC1DbklibUNpV1UtaFBVUEJTX3ZvTkwyTGtCNkhMay0zQWJwbEFpdENURFlydHdiaFN4cDhLMjU3TzhSdkJuY3E5Vmp0ZTlhd9IBkwFBVV95cUxPRS1WX1kwTmdiYUtSRGxDYzhBZXdSNTBZUllIWk5lQ1FEcHZSUHpPc3BtYUJRRGNaTHdta1JFS3FnMHpiSGFVaEtocEJCTlJ6WUUxMnF4VGZCcGFJZzRGblJDZVhPRWpKaGVQRjFNUk95WjBxUlFlTXpFbm01U0ItV3RPcUI0U2tTTDV4aHhaZ25VRkU?oc=5": 1795392648.1505506
+  "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRXgxZDVSSDBxQzRkT3JnWGlic0R4QUptc0Q2cHBzYWZKbERYWGFKQ3FEdGV3M29zTVNTM3JHSC1DbklibUNpV1UtaFBVUEJTX3ZvTkwyTGtCNkhMay0zQWJwbEFpdENURFlydHdiaFN4cDhLMjU3TzhSdkJuY3E5Vmp0ZTlhd9IBkwFBVV95cUxPRS1WX1kwTmdiYUtSRGxDYzhBZXdSNTBZUllIWk5lQ1FEcHZSUHpPc3BtYUJRRGNaTHdta1JFS3FnMHpiSGFVaEtocEJCTlJ6WUUxMnF4VGZCcGFJZzRGblJDZVhPRWpKaGVQRjFNUk95WjBxUlFlTXpFbm01U0ItV3RPcUI0U2tTTDV4aHhaZ25VRkU?oc=5": 1795392648.1505506,
+  "https://english.khabarhub.com/2026/23/576534/": 1795393249.0857968,
+  "https://news.google.com/rss/articles/CBMif0FVX3lxTE0yYjE3T2R4VnpPSXAtS0ZPYVl6b2hiSThoZG4tY0tJUV90MHBFQWh4YjRsbnlsTlJpa1JVcHkxQTdQR2pPSldldUk5Nk52NmNiUmdEVFRpVkdiZWlBMVc5VXBVZ2Q2cVFGNW5PUWRZaURQV19sUS14RUYtdS01aFk?oc=5": 1795393249.0857968,
+  "https://risingnepaldaily.com/news/88911": 1795393249.0857968
  },
  "queue": [
   {
@@ -1919,29 +1921,6 @@
    ],
    "cat": "world",
    "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "अछामको बान्नीगढी जयगढ गाउँपालिकाको बन्यो आफ्नै भवन",
-   "summary": "तारामान खड्काअछाम, मंसिर ६ गते । अछामको बान्नीगढी जयगढ गाउँपालीकाको नवनिर्मित प्रशासकीय भवनको उद्घाटन गरिएको छ । आइतबार अछाम क्षेत्र नं १ बाट निवार्चित प्रतिनिधिसभा सदस्य भरत कुमार...",
-   "link": "https://gorkhapatraonline.com/news/230005",
-   "source": "Gorkhapatra",
-   "ts": 1795364237,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/392818/conversions/WhatsApp-Image-2026-11-22-at-6.54.47-PM-(1)-original.jpg",
-   "lang": "ne",
-   "hl": "अछामको बान्नीगढी जयगढ गाउँपालिकाको बन्यो आफ्नै भवन",
-   "en": "अछामको बान्नीगढी जयगढ गाउँपालिकाको बन्यो आफ्नै भवन",
-   "ne": "अछामको बान्नीगढी जयगढ गाउँपालिकाको बन्यो आफ्नै भवन",
-   "imp": 2,
-   "tags": [
-    "Achham",
-    "LocalGov",
-    "बन्यो"
-   ],
-   "cat": "politics",
-   "val": 3,
    "teaser": false,
    "hits": 1
   },
@@ -2010,29 +1989,6 @@
     "Bhutan"
    ],
    "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Indian, Nepali armies to hold 20th edition of Exercise Surya Kiran soon",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOejViVEZrT0RzYjZPZVBMV19WQXBwVjRWRXVrX1ZxSFlxeUwybHoxODhWa3JmQ19qd2RHTjQyZDZPVktvYnRZeTM5RUdEWHdfRDY2bm4zZENZbjhZNnl3b3lQQlJUSERhZlNZNm5vVi1PNmpjSGJpWV94ZWxJZ3BPdXZDVFZCc3FVd0p2V3J0U2tIQW84VjlwR3RieXQtM3NIaVB1N3h1M09lRDRPNWlKZA?oc=5",
-   "source": "India Sentinels",
-   "ts": 1795365755,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Indian, Nepali armies to hold 20th edition of Exercise Surya Kiran soon",
-   "en": "Indian, Nepali armies to hold 20th edition of Exercise Surya Kiran soon",
-   "ne": "Indian, Nepali armies to hold 20th edition of Exercise Surya Kiran soon",
-   "imp": 3,
-   "tags": [
-    "SuryaKiran",
-    "NepaliArmy",
-    "IndianArmy"
-   ],
-   "cat": "world",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -2149,7 +2105,7 @@
    "cat": "society",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "भेरिएसन विवादले रोकिएको चुहार पुलको गाँठो फुक्यो, पाँच करोड लागत बढ्यो",
@@ -5474,9 +5430,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "society"
+  },
+  {
+   "ts": 1795393256.3858232,
+   "en": "Indian and Nepali armies to hold 20th edition of Exercise Surya Kiran",
+   "ne": "Indian and Nepali armies to hold 20th edition of Exercise Surya Kiran",
+   "link": "https://www.indiasentinels.com/army/indian-nepali-armies-to-hold-20th-edition-of-exercise-surya-kiran-soon-7717",
+   "source": "India Sentinels",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "world"
   }
  ],
- "updated": 1795392651,
+ "updated": 1795393268,
  "pending_since": 1795392648.1505506,
  "fb_blocks": [
   1790350880.4125228,
