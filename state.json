@@ -1,9 +1,5 @@
 {
  "seen": {
-  "https://www.setopati.com/social/403050": 1795227661.785152,
-  "https://news.google.com/rss/articles/CBMipgFBVV95cUxPV3VXdmF3eE9MVFNqZVlXRmtWRDctZnk2bGhqb25sUTNwX1Z5enVRazNnbk5Ub1hYSmh5azRNR2hOZmIxbTBmdXBSOGJOakFNeGMyNXo1d2EyczBpc0x0eGdvUTRpZ2Z3Yll6VWxzOXVIaFpaX2plWXBfcGJNNG9BNm9CVXJZZlBpNGJvRXZWUXgtMktGbFhCT2RTQWlFUDNGZjJsZUxB?oc=5": 1795227661.785152,
-  "https://gorkhapatraonline.com/news/229755": 1795227661.785152,
-  "http://english.ratopati.com/story/87552/nepal-should-be-made-a-center-of-vedic-knowledge-and-religious-tourism-swami-kamalanayanacharya": 1795228273.1458948,
   "https://www.ujyaaloonline.com/detail/133699": 1795228849.2939715,
   "https://english.khabarhub.com/2026/21/576367/": 1795228849.2939715,
   "https://gorkhapatraonline.com/news/229760": 1795229460.7773683,
@@ -1921,7 +1917,9 @@
   "https://gorkhapatraonline.com/news/230031": 1795400448.2474334,
   "https://theannapurnaexpress.com/story/68981": 1795400448.2474334,
   "https://gorkhapatraonline.com/news/230030": 1795400448.2474334,
-  "https://gorkhapatraonline.com/news/230025": 1795400448.2474334
+  "https://gorkhapatraonline.com/news/230025": 1795400448.2474334,
+  "https://theannapurnaexpress.com/story/68986": 1795401074.4112248,
+  "https://theannapurnaexpress.com/story/68985": 1795401074.4112248
  },
  "queue": [
   {
@@ -2283,7 +2281,7 @@
    "cat": "disaster",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "कार्यालयमा नागरिक सहायता कक्ष अनिवार्य",
@@ -3266,29 +3264,6 @@
    "hits": 1
   },
   {
-   "title": "ठूलामा भएन विदेशी लगानी आकर्षण, साना उद्योगमै ९८.८ प्रतिशत",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/508024",
-   "source": "Baahrakhari",
-   "ts": 1795398125,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "ठूलामा भएन विदेशी लगानी आकर्षण, साना उद्योगमै ९८.८ प्रतिशत",
-   "en": "ठूलामा भएन विदेशी लगानी आकर्षण, साना उद्योगमै ९८.८ प्रतिशत",
-   "ne": "ठूलामा भएन विदेशी लगानी आकर्षण, साना उद्योगमै ९८.८ प्रतिशत",
-   "imp": 3,
-   "tags": [
-    "ForeignInvestment",
-    "SmallIndustries",
-    "वैदेशिकलगानी"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
    "title": "Importance Of Vitamin C",
    "summary": "Dr. Srijit Das / DR. SARUN KOIRALAVitamin C, also known as ascorbic acid, is an essential vitamin for the human body. Pl...",
    "link": "https://risingnepaldaily.com/news/88925",
@@ -3378,7 +3353,7 @@
    "cat": "culture",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "आजको राशिफल",
@@ -3673,17 +3648,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1794795662.464712,
-   "en": "मुगुमा जिप दुर्घटना हुँदा तीन जनाको मृत्यु, दुई घाइते",
-   "ne": "मुगुमा जिप दुर्घटना हुँदा तीन जनाको मृत्यु, दुई घाइते",
-   "link": "https://www.setopati.com/social/402656",
-   "source": "Setopati",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "disaster"
-  },
   {
    "ts": 1794797457.7983918,
    "en": "NPL Playoffs Set: Lumbini to Face Sudurpaschim in Qualifier 1 and Chitwan to Meet Kathmandu in Eliminator",
@@ -6686,10 +6650,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "politics"
+  },
+  {
+   "ts": 1795401088.9493375,
+   "en": "चार महिनामा दर्ता भएका विदेशी लगानीका उद्योगमध्ये ९८.८ प्रतिशत साना",
+   "ne": "चार महिनामा दर्ता भएका विदेशी लगानीका उद्योगमध्ये ९८.८ प्रतिशत साना",
+   "link": "https://baahrakhari.com/detail/508024",
+   "source": "Baahrakhari",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "economy"
   }
  ],
- "updated": 1795400453,
- "pending_since": null,
+ "updated": 1795401102,
+ "pending_since": 1795401074.4112248,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
