@@ -1,10 +1,5 @@
 {
  "seen": {
-  "https://nagariknews.nagariknetwork.com/international/three-dead-36-missing-in-indonesian-candy-factory-fire-70-26.html": 1795331453.4851177,
-  "https://english.khabarhub.com/2026/22/576526/": 1795331453.4851177,
-  "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMEtOLS0tUHBqcEtiNDNSSVR3VVJTTTBBNWxvdHQ3VXJQVmlad1VMNUtxUmtST0N4X0NTOWhiMWFYX240aFU5b25VU3o3cDJGQmY2SDdHT2NtQWVrZVUyZERhNXBRTDRBTndBOXpZVC0wT0xIWkxwYnRMLWlSTlROcUVBbGk2Q3poYzkzNFR5MUdGdXdjMFlpeVo1TQ?oc=5": 1795331453.4851177,
-  "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbWNvZ3JlbzRQSW9aT1ozaHRxbkJ6QWFMYW0wNk1BTTI0dE9kZV9XbTFPdjdsMjZHT1o5bG1DQkE1bEo2MElhVG9vcW44UUs5SlRQcTUtMUJWam44NGNhdDlKYS1LYl9EVkdrYW1hb2tadEszNTd6S0lfeWNIX3VLRjBYY2E2TXBKU0ZaeTBybjhpWTF6eW1OR1Q5SVQ3WGRHNnhMMjNtdDBkLU1aaWFvSDBVSkdVN0t1RTBJ?oc=5": 1795331453.4851177,
-  "https://baahrakhari.com/detail/507975": 1795331453.4851177,
   "http://english.ratopati.com/story/87755/this-is-how-prime-minister-balens-2-days-in-delhi-will-be-spent-with-schedule": 1795332050.0901842,
   "http://english.ratopati.com/story/87753/wishing-the-prime-minister-uml-said-dont-return-with-a-new-version-of-lampasarism": 1795332050.0901842,
   "https://risingnepaldaily.com/news/88895": 1795332050.0901842,
@@ -2818,7 +2813,12 @@
   "https://english.onlinekhabar.com/bagdogra-china-security-sd-muni.html": 1795504247.6889572,
   "http://english.ratopati.com/story/88043/this-is-why-nurses-need-oncology-nursing-training": 1795504247.6889572,
   "https://english.onlinekhabar.com/devotees-flock-to-namo-buddha-for-annual-religious-festival.html": 1795504247.6889572,
-  "https://english.onlinekhabar.com/bagmati-govt-to-mobilise-rs-6-billion-for-disaster-hit-areas.html": 1795504247.6889572
+  "https://english.onlinekhabar.com/bagmati-govt-to-mobilise-rs-6-billion-for-disaster-hit-areas.html": 1795504247.6889572,
+  "https://english.onlinekhabar.com/train-from-ayodhya-receives-grand-welcome-in-janakpur-photos.html": 1795504849.884105,
+  "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWXVtbHRmU210NTZfcThHb3ZwQW9TMHFIbEY0TlI2QzhUNHlRVm8zSFlSeE5RZ2IzUi16VlhicE9ZdU1qX0IyYXVmUk90QUJKMkJvUWU1ZkFzNjRJdFRGcktsaGJnVDNzeTA4N2JhQWF3WXV6X0VpUWM5M2g4Vmp0SDBkcUlZendxVWplMy1FdUFjMGcyekJsVVpKaElXdkJ5Sl82d0xpN1kxbGZiVVpxRU9KVVI?oc=5": 1795504849.884105,
+  "https://theannapurnaexpress.com/story/69030": 1795504849.884105,
+  "http://english.ratopati.com/story/88049/11-killed-in-bus-truck-collision-in-uae": 1795504849.884105,
+  "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZkpMckVBSlQwUUZHalE2R2pjVUMwbGdHSF9oNk9TdzJmWDZ2a0dxQXZHZlI2V0stTWJ4ZndTZ25kT055Tm9vWDVVQTF5Nmt3YzhkOE1wZ2ZIcjlERGk1Z3BtQlVOcHZFWjVPZW8tWGlVR0xROHcyZ0V0bkUwZ0pkNzRqcDNJQUdMTHZYRldvU2tuTW9ITWE0?oc=5": 1795504849.884105
  },
  "queue": [
   {
@@ -7698,6 +7698,50 @@
    "cat": "disaster",
    "val": 3,
    "teaser": false,
+   "hits": 2
+  },
+  {
+   "title": "11 Dead in UAE Bus-Truck Collision",
+   "summary": "Dubai. 11 people have died in a collision between a passenger bus and a truck in Ras Al Khaimah, United...",
+   "link": "http://english.ratopati.com/story/88049/11-killed-in-bus-truck-collision-in-uae",
+   "source": "Ratopati EN",
+   "ts": 1795504722,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/accident1_0hvvweueaj_opitpBEPf3.webp",
+   "lang": "en",
+   "hl": "11 Dead in UAE Bus-Truck Collision",
+   "en": "11 Dead in UAE Bus-Truck Collision",
+   "ne": "11 Dead in UAE Bus-Truck Collision",
+   "imp": 1,
+   "tags": [
+    "UAE",
+    "BusAccident"
+   ],
+   "cat": "other",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Magnitude 5.3 earthquake strikes Nepal's Koshi province, EMSC says, Asia News",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZkpMckVBSlQwUUZHalE2R2pjVUMwbGdHSF9oNk9TdzJmWDZ2a0dxQXZHZlI2V0stTWJ4ZndTZ25kT055Tm9vWDVVQTF5Nmt3YzhkOE1wZ2ZIcjlERGk1Z3BtQlVOcHZFWjVPZW8tWGlVR0xROHcyZ0V0bkUwZ0pkNzRqcDNJQUdMTHZYRldvU2tuTW9ITWE0?oc=5",
+   "source": "AsiaOne.com",
+   "ts": 1795504094,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "Magnitude 5.3 earthquake strikes Nepal's Koshi province, EMSC says, Asia News",
+   "en": "Magnitude 5.3 earthquake strikes Nepal's Koshi province, EMSC says, Asia News",
+   "ne": "Magnitude 5.3 earthquake strikes Nepal's Koshi province, EMSC says, Asia News",
+   "imp": 3,
+   "tags": [
+    "Earthquake",
+    "Koshi"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
    "hits": 1
   }
  ],
@@ -10739,8 +10783,8 @@
    "cat": "politics"
   }
  ],
- "updated": 1795504276,
- "pending_since": null,
+ "updated": 1795504857,
+ "pending_since": 1795504849.884105,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
