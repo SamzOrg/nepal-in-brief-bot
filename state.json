@@ -1,17 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWV96a29RaFltQjRDWERoVUZLLVJVWndSWDM4RDJOSmxVaGd6bXFGcTFvQVZJY0U4bFNUWWk1M2FHcUlPSFVJZFROdmJTNVJfci13TkxlUU5FdENJR2lMWFFlR2xSaFlFbHlfMEVibkNMSlNxdzBwTHYwOTA2VW5tWXFyZWRSay1ObG9KRVYwcXJHWEtVZFhBXy0zdzVETVlkZjJzUjB2UDUtc0RQZnc3NGJtQlNTamZtN0EzXzRqcw?oc=5": 1795370483.860428,
-  "https://news.google.com/rss/articles/CBMi8wFBVV95cUxObW9pMy1velctN21FTHBEZUhfaGZjYWpaRVozM1JQZmw5VTZEYWM1bUROWnROZnAzOU1lNUtTTnRLSlFRN1Q5YmFYdnRpRnZzX0FOc1d4SzBMNXduVE9HNmxLczZteDNDak9rWGZmWGZJWUhrbVM5V0pWMGx1bVlEallydzBJT2tzcEh2U0dTSXBfSENxcEZQX3FqX1BmdDNPMVliV01zSWZPM2ZrTE92eHgzVnN1Y0RoSXdxc3lzdlk5Sjg2SWhCbHRwalV1RHpxNWd5UGJHdjZpUEllSnJGLU5CNjNiNWFXM1hlZkJGVG5JeWfSAfgBQVVfeXFMTVNiR1YxdWNGU3BTZHJUQUZ3SG56X1c4TXRHWm9keF9mRGtZS3E2YnBHVUlyQU02MTF4QmdQNHU5dmY1d3VUMlhXSTNxTHFwTmQ2cjUtMWFsMm1aaGN6X3c5cUU0ZW9OM2FxT3Vxc0kxZTQ3ZGN6VHNWb2UyYlozV2J6NEJYUjBPUW9PUVZ6bFgzQUJlQ0NxaW81QVlZbjdJUlpTdDRwS3hDNUg1WXBsbjBGWkpyOWJlaVBIMXYxem5QR2xsUl9qNWItUEJ1aVJrZU1uMlY5MUtGRzRzUENYNjFRUEJNZTI1S1RhNlNKbDduTWR6SDZRXzE?oc=5": 1795370483.860428,
-  "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOc0t0MmdBaDFnbnVObnVmVkQ2OEV3Nllqd1pvM2pxTzRSaWdpcEQ3WUtaV1BiaUs3dHl6LTVqaTYtaFUtYzltUi1xZTBlcV9jUWZobHppREFIOGJCNTBMV2swSEF6WmkyWHRKLTQyeUtmSlpSbzhmLUFaUnI5Tjk5MzZpR2YtNkU5V0JpcVRhcGtpbU1MVldoYVJHZkh5aHo3dzRhcjZPakJLejRVdTd0dEkyckk1X2ZYRE5vVGt2aU4zcVhWSEttdDdmMmJ4Y3loS2tWR1dTVnJDcmFxV0M1X0xPZzZ4d2ZBSmVzTFRB0gHzAUFVX3lxTE11Rnc0bkpzS0l3dEc5VUNheXR3Zi1tU0swamlIUl9fTHdMamdCRTBybF9FeFhxUTR1ZnpjVXZXQl9BYVl6dGtOc2Fqc2MxVXlYeG5LeWYwSUVVcWhNTU9udDZORFF6RnhxUDVlcDloUlRhU1ZDX0p2YmlPV0QzLUFZbEI5NXRqYUVMSFlkZENNVzJtZlRFZHloZFBNU1hLMlEwYjBmTjdkZ1dxejRpSW1jcWN5Uy0wN0VpTWx4ejRhcW02YUNtaGwwLWFFc3NTTTFZdnAtT1Y0bm5Nb1hMMWsxcnQxM2dOZkNqaWhqNE8ybFNkNA?oc=5": 1795370483.860428,
-  "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZ0ZLY2NRY3FVWHJQelNyNGlqbWJMUlZLeHRBNllmR1o3MlBlOXhhWVVYUVk1RnVOTU1HLTI1bEEwS0IwelVnZUtJZlNERFRvazk3ZG1paWUtVHAxVm5oN3NWT0haSXRZYlR4UW0tM0hNaGJoQWgtcUlqRHR1Q0tFVmN4RTJVaHF3dEpqN015V3l1Q05aS2FvbTNjclhQY1o2LVgzeXNKWHZuMnpEODB5RnNRMnlEUjg5Y3dXQ2N3?oc=5": 1795370483.860428,
-  "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQSVNoMW1Nek9Fc3RKWlhKbmR4aFdySHhwZGRWUm1Ec3pVSTJiTWRURVBScVJ6MWhITld3cE1PY0JxOV92NnZUR21nTnRMcHgwMXAyMUVXa2hqVUJqRXBkNHAyMVJoaUZrMDJoSlFtMkZ0Z0JPVUZ3Z20td3dfMkhxM0dmTklITkpCcHNkMTlqeUM2eUxoUzlpejlRN1p0UVpPUjJlQVFfWF9jbjY4ai1lbjRVcHpVVjIwUVQ5TGRDWDVCZDJ2dTZ4N1F2NnpfOF9wUGlGQWNXZkM5YUs1eXk3LVdvRU1kU0lWUEd0S0dfcFFETGRpNEhQYTVB0gH_AUFVX3lxTE1lcHM0VzRZLWlESkc3WHhRdF8ydUItUUM3cXc0SUpXLTNsa2prVUo0MzMydFUzUG1HT2FrVWp1Rk84ZjYwZDNQTGRMWjBRZzVfWHQxbVQ2QXlSVGlvYkE5ZmppTVhSS2dWcEphLWxXaGJFdzYxYlQyZ0pKRU9OQ2NTSTRUY1pCYXVjdzFBSm44c2tDUDh3eG5LVE1oRTBuVTFXdlVxNzRPYl9qM1JFd3BiWUxoZ3pKWTlhSmJZZGQwZGptVUh3Zk8tYnA1eDlwUmcxaVpEU0FwSG1TV0J1cHRuZHo0bV9fOUpFVlhXa05mUnlHZFhZZVExRHk5QmkxQQ?oc=5": 1795370483.860428,
-  "https://gorkhapatraonline.com/news/230012": 1795370483.860428,
-  "https://baahrakhari.com/detail/508029": 1795370483.860428,
-  "http://english.ratopati.com/story/87811/improving-coal-mine-safety-and-production-in-afghanistan": 1795370483.860428,
-  "https://baahrakhari.com/detail/508028": 1795370483.860428,
-  "http://english.ratopati.com/story/87810/increase-in-tourist-arrivals": 1795370483.860428,
-  "https://baahrakhari.com/detail/508027": 1795370483.860428,
-  "https://baahrakhari.com/detail/508026": 1795370483.860428,
   "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPckRDUlYtS2o2dVpjSEdoaHBmZzZacS1YV1ctTjg1SHNKUnVqLXUzejVaeHY0UHk2bkNKZy10TXZFb0FPNTlNelVkWnZCRVRqYzV4NVU3MnBmYWZQSURVTG1JT1I5YUNFbVl6SERIamlYUWJyWkZtUkY5NmZSaHFOaTZlRWJHb245aEtoS3B2ekFXUXRpLWZFQ25kVU4tTGtRaVQtSzdYY1VIY01lX2l6bWpwVkVabW5HVVNVYXVTcm9KOFdrUkN3NmR3VVFTLVVNR3c?oc=5": 1795371048.9236295,
   "http://english.ratopati.com/story/87813/liverpools-4-0-win-over-manchester-united": 1795372848.6757755,
   "https://news.google.com/rss/articles/CBMingFBVV95cUxOV2MwLTR2OUlMWjgtQkMxLW5zSmM3b1J3VW9DQkttLTFEelFuaGx0YjZHSEI5cmpPRS13NXh2dnZXQURDcTJ5T0VxLVFPanJ4N2VWSnd0RE5OcFJVWVN6c3NfdnZoZWdqNUxYUU1NMjZ2MFF2MF9KcXdJTUg5NXFKcUZLTTAwM0Vzc09fRE1FVnkwanJaWmNVQTlyVDA2QdIBowFBVV95cUxPcEFvSFlfU1I4ZFFHLXdOWGM3UDduQVhENlVFVGZMcFotaktxcExNYmtXNDZZZDdLaEhvNWJVUVlzZjRDaktMWm9DSFcycHg1a3diaG9wREdLUXN3cFBKNXhGYktWTlJ4MzFXcjNCRTJ4WHJUUGZhc0RPQnF6bEVUSmJqa3Jud1Zud3A0Vm10YVV1dUVBaWdKNV9wc3VLRlI1OFFV?oc=5": 1795373448.977905,
@@ -2777,32 +2765,12 @@
   "https://gorkhapatraonline.com/news/230281": 1795542053.7958114,
   "https://gorkhapatraonline.com/news/230280": 1795542053.7958114,
   "https://gorkhapatraonline.com/news/230278": 1795542053.7958114,
-  "https://gorkhapatraonline.com/news/230277": 1795542053.7958114
+  "https://gorkhapatraonline.com/news/230277": 1795542053.7958114,
+  "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTnBtTHp0a3JEcWlXU1d3aTQ3THIwVldPRExXenhHenUzWE4yMnMyYlpqTlc1VU9FY0V3SHNfcldVSGU1LXByOWljY25SaG1zcU12THRpNjM4SFhNbkpETm5mcUpMNGFqXzhWNVc4RDNTTlZOc0J5SHFxLWo2cGt4NnFSalhDbzRIMlV2Yg?oc=5": 1795543284.8988647,
+  "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOQ3JmcG9BNmJNSDZsTEJfYVFnazc4YkhOQUN2ZTVOX3FLUVdpUEFiU2k5TnJBeU5jMkpOUjJOQ1R6M0tDYkZLMVJpNVlVTF9lUVExd0p3RUl3NVJVMVpHOUNscmtCMkNnVzhCTVNlM253VERFajNlcmlURlZDcklhbTJwWU1vQ09yUVgzMHVZWjR4SWZxek9EOHlOWm8zRFZDS0RfUm1hdFBuUkFZZU1MOTA5ZzRZSUdSaE9kV2VOZE9lYlRjTU5kdWpnc2FmVExOMmgzNNIB2gFBVV95cUxQZlpNQk5rVGJfMHN5YVIxOVlHNGlfMkpFTDVzbFl5SWVFMHlqYlFYQTB5SjVvaTRtWnM5TGYycjA3alJPb0hzRFhKX3hnb3o1RV9LUkc5RUk5azVMOHZRcjFSS092X0FBZHBjdDV5b0FxVVVtMDRnVVlLVmg2Z3FBX2lhUFh4Wl9RcnhTSUpEbXJtQld1OXNQd0lXclFQRk5oS0JjcUJ3ZTVrME5pMUpKT2hVVGFmaGxjRkpjd3pSUGlSek10aHpzd3BKbGhodjczZEtZbHBQWWY4QQ?oc=5": 1795543284.8988647,
+  "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRGxjTWF5ekxqRFN1c2hrMTJMQ2EyeC04N1hGY2hzMzdkWHItMnNxTUhiZGMwT0FMbnY3NFVRWFEzQk1IbjJ6MWdzN3ZfaHJ3aGk4S3RHRDN5S0R3N3N2a0hPcGNUQ0pNcnE3eDJyeDZQNHEwWDRwRGNWSDA2OUxZY2wtb0NCSWw3U2hUMnhwOGxJbmZiWE5oUHozWkVXVXlSLUg2TkM4dTJSTjJiWkFWcC1SM0NDQWJ2TWdVSHRtd1VjYVB2ellmakJR0gHKAUFVX3lxTFBEbGNNYXl6TGpEU3VzaGsxMkxDYTJ4LTg3WEZjaHMzN2RYci0yc3FNSGJkYzBPQUxudjc0VVFYUTNCTUhuMnoxZ3M3dl9ocndoaThLdEdEM3lLRHc3c3ZrSE9wY1RDSk1ycTd4MnJ4NlA0cTBYNHBEY1ZIMDY5TFljbC1vQ0JJbDdTaFQyeHA4bEluZmJYTmhQejNaRVdVeVItSDZOQzh1MlJOMmJaQVZwLVIzQ0NBYnZNZ1VIdG13VWNhUHZ6WWZqQlE?oc=5": 1795543284.8988647
  },
  "queue": [
-  {
-   "title": "पाकिस्तान 'ए'ले जित्यो टस, नेपाललाई फिल्डिङको निम्तो",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/508185",
-   "source": "Baahrakhari",
-   "ts": 1795513874,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "पाकिस्तान 'ए'ले जित्यो टस, नेपाललाई फिल्डिङको निम्तो",
-   "en": "पाकिस्तान 'ए'ले जित्यो टस, नेपाललाई फिल्डिङको निम्तो",
-   "ne": "पाकिस्तान 'ए'ले जित्यो टस, नेपाललाई फिल्डिङको निम्तो",
-   "imp": 3,
-   "tags": [
-    "NepalCricket",
-    "PakistanA",
-    "क्रिकेट"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
   {
    "title": "Regional cooperation must for conservation of Himalayan medicinal plants and fungi : Minister Chaudhary",
    "summary": "Kathmandu- Minister for Agriculture, Forestry and Environment Gita Chaudhary has said that regional cooperation is essential for the conservation, sustainable use, and trade management of wild medicinal and aromatic...",
@@ -2896,51 +2864,6 @@
    "hits": 4
   },
   {
-   "title": "India-Nepal Saryu-Kamala Express inaugurated today | Tap to know more | Inshorts",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONkt5UE5ERkw3bWZCazU4MGVjc2VuY1ZSX2NpNnN3Y3pxWGZSQzB6akNKcXVUdHUwQ2tVT1JNT3ZISUJFTkppZUN4dlhWTXJ4SDJwbENrcnBWQmFWTGdWQnNFQndBWkFtRXd0ZXNkbWs5bkFaeXpmVkhpOUJYTUVILVJnclJfR0tCbXJHUEhoRzFYUDFYTjhyOdIBngFBVV95cUxPTkFfZHZCNzFfWnhqOTM0andNUGVWWjduR3NOaDdVRndZcFlnT1FpSmVSWXliNHdtcjkwUFVsczVQOVVQOEFhVnBicDhnRVkzQ19wclQ0NVRrc21CQ29RYm1GSEtCazdoeXB5MVlpYXROQVhVZzkyZDEtSXRyM2JPUzkyZTl5OFBNWHdpZnRZaVZ1dHNFOUZiX2stU1RtQQ?oc=5",
-   "source": "Inshorts",
-   "ts": 1795514039,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "India-Nepal Saryu-Kamala Express inaugurated today | Tap to know more | Inshorts",
-   "en": "India-Nepal Saryu-Kamala Express inaugurated today | Tap to know more | Inshorts",
-   "ne": "India-Nepal Saryu-Kamala Express inaugurated today | Tap to know more | Inshorts",
-   "imp": 3,
-   "tags": [
-    "IndiaNepal",
-    "SaryuKamalaExpress"
-   ],
-   "cat": "world",
-   "val": 1,
-   "teaser": true,
-   "hits": 5
-  },
-  {
-   "title": "Partner Influence and Societal Norms Strongly Shape Abortion Decisions in Nepal",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcl95Q29HZXp5OVpzOENjUzVGZERFX1U2ejlqZXhIMllUYmJMSElna3JNUUdzUlcwMmJ4bGJCQkU4Yjl0b1YzUWNqcERLZ1l3Y2dMNUVKSjY0MjgyaHFtX2ZIWVNWY29jWmZuT1pCd250VG9pb1NpNnhXX1EyMDY2My16a0QyUWJsX1dQTGxFbkM0elhCbEJaOW02dk5UYUhQQ2NyTEtrYw?oc=5",
-   "source": "Bioengineer.org",
-   "ts": 1795513960,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Partner Influence and Societal Norms Strongly Shape Abortion Decisions in Nepal",
-   "en": "Partner Influence and Societal Norms Strongly Shape Abortion Decisions in Nepal",
-   "ne": "Partner Influence and Societal Norms Strongly Shape Abortion Decisions in Nepal",
-   "imp": 3,
-   "tags": [
-    "Abortion",
-    "Health",
-    "Nepal"
-   ],
-   "cat": "health",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Nepal and EU discuss expanding Nepali exports to the European market",
    "summary": "Kathmandu, November 24 The Ministry of Industry, Commerce and Supplies has held high-level discussions on expanding access to Nepali products to the European market, promoting exports and attracting investment,...",
    "link": "https://english.onlinekhabar.com/nepal-and-eu-expanding-nepali-exports.html",
@@ -2984,97 +2907,6 @@
    "val": 3,
    "teaser": false,
    "hits": 2
-  },
-  {
-   "title": "रोजेको सजाय!",
-   "summary": "महिना फेरिए, ऋतु फेरिए वर्ष फेरियो, फेरियो समय पनि सहर फेरियो, साथी फेरिए अनि तिम्रो नजरमा फेरिएँ म पनि",
-   "link": "https://www.setopati.com/literature/403281",
-   "source": "Setopati",
-   "ts": 1795513920,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "रोजेको सजाय!",
-   "en": "रोजेको सजाय!",
-   "ne": "रोजेको सजाय!",
-   "imp": 1,
-   "tags": [
-    "Editorial",
-    "Opinion"
-   ],
-   "cat": "other",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "Home Ministry Directs Swift Relief for Missing Monsoon Victims",
-   "summary": "Kathmandu. The Ministry of Home Affairs has issued a circular to all District Administration Offices to provide prompt relief to...",
-   "link": "http://english.ratopati.com/story/88087/home-ministry-circular-to-provide-relief-to-beneficiaries-of-missing-persons-in-disasters-as-if-they-were-deceased",
-   "source": "Ratopati EN",
-   "ts": 1795514449,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/home-ministry_9IV08qiflv.jpg",
-   "lang": "en",
-   "hl": "Home Ministry Directs Swift Relief for Missing Monsoon Victims",
-   "en": "Home Ministry Directs Swift Relief for Missing Monsoon Victims",
-   "ne": "Home Ministry Directs Swift Relief for Missing Monsoon Victims",
-   "imp": 3,
-   "tags": [
-    "HomeMinistry",
-    "Monsoon",
-    "Relief"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Gagan Thapa Comments on Supreme Court Ruling and Party Discipline",
-   "summary": "Kathmandu. Nepali Congress President Gagan Thapa has commented that the issue of the authenticity of Congress and the leadership coming...",
-   "link": "http://english.ratopati.com/story/88086/supreme-court-will-not-overturn-congresss-legitimacy-action-will-be-taken-against-those-who-violate-the-constitution-president-thapa",
-   "source": "Ratopati EN",
-   "ts": 1795514274,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/gagan-thapa-2_qzmaQvCCyS.webp",
-   "lang": "en",
-   "hl": "Gagan Thapa Comments on Supreme Court Ruling and Party Discipline",
-   "en": "Gagan Thapa Comments on Supreme Court Ruling and Party Discipline",
-   "ne": "Gagan Thapa Comments on Supreme Court Ruling and Party Discipline",
-   "imp": 3,
-   "tags": [
-    "GaganThapa",
-    "SupremeCourt",
-    "NepaliCongress"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Speaker Aryal Meets Qatar Ambassador Al-Ansari",
-   "summary": "Kathmandu. A courtesy call took place between Speaker Dol Prasad (DP) Aryal and Qatar's Ambassador to Nepal, Mishal Mohammed Ali...",
-   "link": "http://english.ratopati.com/story/88085/dp-ansari",
-   "source": "Ratopati EN",
-   "ts": 1795514090,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/dp_BgGa6GnLvx.webp",
-   "lang": "en",
-   "hl": "Speaker Aryal Meets Qatar Ambassador Al-Ansari",
-   "en": "Speaker Aryal Meets Qatar Ambassador Al-Ansari",
-   "ne": "Speaker Aryal Meets Qatar Ambassador Al-Ansari",
-   "imp": 2,
-   "tags": [
-    "SpeakerAryal",
-    "Qatar",
-    "Diplomacy"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 5
   },
   {
    "title": "Four Dead in Separate Road Accidents Across Nepal",
@@ -3381,28 +3213,6 @@
     "Hydropower"
    ],
    "cat": "economy",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Gagan Thapa Addresses Internal Party Disputes, Calls for Dialogue",
-   "summary": "Kathmandu. Nepali Congress President Gagan Thapa has stated that there are some disputes within the party and that these are...",
-   "link": "http://english.ratopati.com/story/88084/disputes-within-the-party-will-not-be-hidden-under-the-carpet-we-are-ready-to-discuss-with-senior-leaders-gagan-thapa",
-   "source": "Ratopati EN",
-   "ts": 1795513875,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/gagan-thapa_YpYqyOBwaZ.webp",
-   "lang": "en",
-   "hl": "Gagan Thapa Addresses Internal Party Disputes, Calls for Dialogue",
-   "en": "Gagan Thapa Addresses Internal Party Disputes, Calls for Dialogue",
-   "ne": "Gagan Thapa Addresses Internal Party Disputes, Calls for Dialogue",
-   "imp": 2,
-   "tags": [
-    "GaganThapa",
-    "PartyDispute"
-   ],
-   "cat": "politics",
    "val": 2,
    "teaser": false,
    "hits": 1
@@ -5865,7 +5675,7 @@
    "cat": "politics",
    "val": 2,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "Smartphones imports bill records Rs 20.68 billion in four months",
@@ -6537,7 +6347,7 @@
    "cat": "disaster",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Three Months After Nepal Floods, WFP Calls for Sustained Support",
@@ -6767,7 +6577,7 @@
    "cat": "economy",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "ठमेलमा रात्रिकालीन अनुगमन: पर्यटक ठग्ने र मापदण्ड मिच्ने २२ जना कारबाहीमा",
@@ -10237,7 +10047,7 @@
    "cat": "politics"
   }
  ],
- "updated": 1795542655,
+ "updated": 1795543289,
  "pending_since": 1795542651.0101426,
  "fb_blocks": [
   1790350880.4125228,
