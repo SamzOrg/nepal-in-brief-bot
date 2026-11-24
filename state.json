@@ -1,9 +1,5 @@
 {
  "seen": {
-  "https://english.khabarhub.com/2026/22/576480/": 1795309856.6978052,
-  "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcDdsenpRaHotNFY2Z0hoYkJhU3RHcC15TEk2NlVjdVM3RmY0V3lNOWMzWDdORER6Ujlac1NUQU5Nb25LYjhaeUhjNWpUMnpJeERTM2dITGdfWVY3SHRyN1VwMzRzS0wxcVFZNkhySmowckN4amZlbHZycUFJVEtQQVV4dU5CTVE3S1Qwb3ZnYXlpMXZQdXkwTEZWZXVsejJKaWgwM0hqZXlWZ2U0ZjBYWk5XYVRad094bHdqYVpueS00NlRD?oc=5": 1795309856.6978052,
-  "http://english.ratopati.com/story/87704/partial-influence-of-westerly-winds-and-low-pressure-area-light-rain-likely-in-these-three-provinces-today": 1795310201.726766,
-  "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTHAxQ0pGeTVRejVMNGNibS1aMndJdUZ1Q2UxeFlGd1c5VmFHZS1FZkhLVnZOMnY5M2VvSnBiQmRYSWxnbnhUZFJmZ3Z6QWJoTTlIZXRPb3JWN2IyRWw0ejdzZGFwN0ZQd1oxVW02Rk5zZ3NuSXdYVUFoOXNheklNQnQ5UGRpMGpOSldhNjBvRWxnZ0dKa0E?oc=5": 1795310201.726766,
   "https://kathmandupost.com/columns/2026/11/21/why-nepal-must-separate-crypto-from-the-future-of-banking": 1795310450.2146547,
   "https://kathmandupost.com/columns/2026/11/21/nepal-should-know-the-difference-between-local-and-organic": 1795310450.2146547,
   "https://nagariknews.nagariknetwork.com/sports/apf-club-wins-first-dharan-women-s-gold-cup-title-br-70-63.html": 1795311064.72536,
@@ -2704,7 +2700,9 @@
   "https://nagariknews.nagariknetwork.com/social-affairs/the-weather-will-remain-clear-today-31-69.html": 1795482650.364772,
   "https://gorkhapatraonline.com/news/230159": 1795482650.364772,
   "https://nagariknews.nagariknetwork.com/sports/questions-on-the-essence-of-national-sports-br-63-32.html": 1795482650.364772,
-  "https://nagariknews.nagariknetwork.com/Bazar/this-is-the-foreign-currency-exchange-rate-br-21-36.html": 1795482650.364772
+  "https://nagariknews.nagariknetwork.com/Bazar/this-is-the-foreign-currency-exchange-rate-br-21-36.html": 1795482650.364772,
+  "https://www.ujyaaloonline.com/detail/133792": 1795483247.6966412,
+  "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPQ2NHNkpRc2l4dnBCckZ3QTQzLVRReFBvNmt1a0xVZDR2YkF4dTZOYUg2bTBPa19lSFJEOURnWHBSZHFaYXhVMDlhdTZ3dXdSTFB2ZU1hTklmaXBocHlWT3doVXdvdmxwOWN0bk51OHR2Tk8tYXNPOVphSm5walZXYXFOcVNGaDAwOWVzTXJWWUJHWnhucWtHLXFXRFk5TkRaWW1iZ0lrd21rOE9ITnJjRXlCWGR1cUN5ZURaXzN1eGlreVk0RnB6ZjlNNXYwOUwtcDRZb2h2Wi1PbTVaa18xZ1dFaDNPUQ?oc=5": 1795483247.6966412
  },
  "queue": [
   {
@@ -3385,29 +3383,6 @@
    "hits": 3
   },
   {
-   "title": "एशिया कप राइजिङ स्टार्समा नेपालले आज पाकिस्तान 'ए' सँग खेल्दै",
-   "summary": "एशिया कप राइजिङ स्टार्समा नेपालले आज पाकिस्तान 'ए' सँग खेल्दैछ ।",
-   "link": "https://www.ujyaaloonline.com/detail/133791",
-   "source": "Ujyaalo",
-   "ts": 1795480675,
-   "weight": 2,
-   "img": "https://www.ujyaaloonline.com/uploads/posts/Raising-asia-team-1795154141.jpg",
-   "lang": "ne",
-   "hl": "एशिया कप राइजिङ स्टार्समा नेपालले आज पाकिस्तान 'ए' सँग खेल्दै",
-   "en": "एशिया कप राइजिङ स्टार्समा नेपालले आज पाकिस्तान 'ए' सँग खेल्दै",
-   "ne": "एशिया कप राइजिङ स्टार्समा नेपालले आज पाकिस्तान 'ए' सँग खेल्दै",
-   "imp": 4,
-   "tags": [
-    "AsiaCup",
-    "Cricket",
-    "Pakistan"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "विपदमा पूर्वसूचना दिन सेल ब्रोडकास्ट प्रणालीको प्रारम्भिक परीक्षण",
    "summary": "विपद्को समयमा नागरिकलाई मोबाइल फोनमार्फत समयमै पूर्वसूचना उपलब्ध गराउने उद्देश्यले नेपालमा सेल ब्रोडकास्ट प्रणालीको प्रारम्भिक प्राविधिक परीक्षण सम्पन्न भएको छ।",
    "link": "https://www.setopati.com/social/403243",
@@ -3428,7 +3403,7 @@
    "cat": "tech",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Ukrainian drones strike Russian warship in Libya",
@@ -3742,29 +3717,6 @@
     "Siliguri"
    ],
    "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Nepal's Prime Minister Balen Shah Concludes State Visit to India",
-   "summary": "New Delhi. Prime Minister Balen Shah of Nepal, who was on a state visit to India at the invitation of...",
-   "link": "http://english.ratopati.com/story/87993/the-issue-of-cricket-took-up-a-lot-of-time-in-the-discussions-between-the-two-prime-ministers-secretary-mishri",
-   "source": "Ratopati EN",
-   "ts": 1795481846,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/vikram-misri_qW06r6ywYQ.webp",
-   "lang": "en",
-   "hl": "Nepal's Prime Minister Balen Shah Concludes State Visit to India",
-   "en": "Nepal's Prime Minister Balen Shah Concludes State Visit to India",
-   "ne": "Nepal's Prime Minister Balen Shah Concludes State Visit to India",
-   "imp": 4,
-   "tags": [
-    "BalenShah",
-    "IndiaVisit",
-    "Diplomacy"
-   ],
-   "cat": "politics",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -6908,10 +6860,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "economy"
+  },
+  {
+   "ts": 1795483255.5609217,
+   "en": "एशिया कप राइजिङ स्टार्स: नेपालले आज पाकिस्तान 'ए' सँग खेल्दै",
+   "ne": "एशिया कप राइजिङ स्टार्स: नेपालले आज पाकिस्तान 'ए' सँग खेल्दै",
+   "link": "https://www.ujyaaloonline.com/detail/133791",
+   "source": "Ujyaalo",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "sports"
   }
  ],
- "updated": 1795482657,
- "pending_since": null,
+ "updated": 1795483272,
+ "pending_since": 1795483247.6966412,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
