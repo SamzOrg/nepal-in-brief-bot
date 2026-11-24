@@ -2737,7 +2737,13 @@
   "http://english.ratopati.com/story/88020/martyrs-park-at-mainche-danda-in-rivan-expected-to-promote-tourism": 1795495858.6140418,
   "https://gorkhapatraonline.com/news/230191": 1795495858.6140418,
   "https://nagariknews.nagariknetwork.com/opinion/antalya-traffic-jam-br-76-55.html": 1795495858.6140418,
-  "https://gorkhapatraonline.com/news/230189": 1795495858.6140418
+  "https://gorkhapatraonline.com/news/230189": 1795495858.6140418,
+  "https://gorkhapatraonline.com/news/230198": 1795496487.344251,
+  "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5FM1JUbVN6WDhPdWNzeWxCemNhV3hGVXBnRlRVSzI2TkxFVkFUaXFSdTdWblpyMGktR05Qcnh0MklEd2tnbmJxVGRLVFVqaTc4TmVsckJzcTF3UEgx0gFqQVVfeXFMT1FjaFhZX2xYNjhWYWNNZUt1UHRKamhxb0Z2ZDFxRW0tYmJSLVB2SVJ4d291V3ZjYkc3UjZFTHVqbmxGbkhGR3pGWGN3cnhSekdrZ245OFFVaWVZQ0x5akV6bUFYVXVvQkRVQQ?oc=5": 1795496487.344251,
+  "https://english.onlinekhabar.com/anup-timilsinas-rhythm-nepali-theatre.html": 1795496487.344251,
+  "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTnhLR0g3eVp6TS05OExSQVdVVDRacW05eXV0UVJoS2Y2OGlZSGhlQXpENnFVM3VRNEZzOGIzU1Z6V0NPZUFvVzZLMmFHeXc5RUZiNlR2VkF4VEM0YXJXcnRhOC1jWEJGZldaTTczWFJTOGpIZ2RuQTR5ejVJWFpDMjJWMnVvMm16VEFxSnl4WUdjU0RJb0hNeWRicU92OXBzanZlUFZzMWlkdEVtQ18yTGxoLWJ2NEZjcEE?oc=5": 1795496487.344251,
+  "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMXVFb0pxR3JaZnZIcTdRQzZrZngzMjc3TWVHR2Q3S1RDRHllVkdEQW5rZlR1b3lYalNkWFFkYm45TlNlMC1pd0hOSjZySHlITmZGYUFSTEJCMWRoeUZVQ2R2ZmRHOFVLcWFTWC1wQXY5d1loOWpaeVRWa3B3Y3VacFZYRWU5X0RsSkNLaF9sVzMzRlk?oc=5": 1795496487.344251,
+  "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVUZGaWd4RlptRXBNQ2xXemwzZTNab2xIOE5OaHgyRjV0dHQ4MTd1XzlkYUN0SkZFUUs3ekZWNTZDRWFvbzl1bnFuWVB6NlJYMlRhb2w1RE0xVDA0aVJTa19aVUI5MWZUSVVvcmVxWWU2Nmc5YnJUWmRZMzc2ZHRYV1FFY3kwQzRXTjhVUXBqcDdzcEdUTTEyMUF0WUttZVozZG9XZ20zQ2xhbDZYNFFkN0JEMA?oc=5": 1795496487.344251
  },
  "queue": [
   {
@@ -5465,7 +5471,7 @@
    "cat": "culture",
    "val": 1,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "What can the hydropower sector learn from the recent floods in Nepal?",
@@ -6021,17 +6027,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1794891063.5341892,
-   "en": "At COP31, Nepal pushes for billions to help disaster survivors. So far, $20 million is promised",
-   "ne": "At COP31, Nepal pushes for billions to help disaster survivors. So far, $20 million is promised",
-   "link": "https://www.bozemandailychronicle.com/wire/international/at-cop31-nepal-pushes-for-billions-to-help-disaster-survivors-so-far-20-million-is/article_97566a7b-67ba-59f1-a409-ed61f5b7f4fa.html",
-   "source": "Bozeman Daily Chronicle",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "disaster"
-  },
   {
    "ts": 1794892866.0049756,
    "en": "साउदीको अमेजन गोदाममा कार्यरत नेपाली श्रमिकमाथि श्रम शोषण भएको एम्नेष्टीको प्रतिवेदन",
@@ -9058,8 +9053,8 @@
    "cat": "sports"
   }
  ],
- "updated": 1795495886,
- "pending_since": null,
+ "updated": 1795496494,
+ "pending_since": 1795496487.344251,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
