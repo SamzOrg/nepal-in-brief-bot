@@ -2853,29 +2853,6 @@
    "hits": 1
   },
   {
-   "title": "चिया र जुटका विषयमा भारतसँग तत्काल वार्ता गर्न मोरङ उद्योग व्यापार संघको माग",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/508216",
-   "source": "Baahrakhari",
-   "ts": 1795531787,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "चिया र जुटका विषयमा भारतसँग तत्काल वार्ता गर्न मोरङ उद्योग व्यापार संघको माग",
-   "en": "चिया र जुटका विषयमा भारतसँग तत्काल वार्ता गर्न मोरङ उद्योग व्यापार संघको माग",
-   "ne": "चिया र जुटका विषयमा भारतसँग तत्काल वार्ता गर्न मोरङ उद्योग व्यापार संघको माग",
-   "imp": 3,
-   "tags": [
-    "Tea",
-    "Jute",
-    "Morang"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Nepal crash out of Asia Cup Rising Stars after 96-run defeat to Pakistan A",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPX0s3R0w2SkZueXBac3JJaGlyX3YyZndzU2Z3LWV6TVphRFhsV2dUQlF5VGhBaGRWVy1iX1pvV3ROQUdCYndLVmJiNzBQa1lmRXFhSERKclZrdWhxOGYyaU14SHMzSGF1ek9TUlJsb1ozb3hvVFNPdE1jTVJnd0VIazczQ1l3YzZOMEM3R1ZuNHhQNloyY09MR3dDNXhKSGhNQU9YYzc3cFNTclpyTFVsTTNOSF9QbktRakE?oc=5",
@@ -4035,29 +4012,6 @@
     "Pakistan",
     "Nepal",
     "Cricket"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Indian boys team beats Nepal in final to win gold at Junior International Kabaddi Championship",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZ3FXbmZXVkhuQmhJRy1qakw5N1YxakRHWU4zdUFFdWF6cG1aeHJqSE53ODhBV1lRN000eFhicEgtMkZjZWE4Q2JSWmRJYVZUUEFkalJWcWI3WEpCT0otUzNSM0lrMklqNXVEUGpfVzU1VEhRcUVoS1oteXZPeHJadU1LZHNrZTNpeEVwQ0JuME1iVjNza3NHUUNob0R6T3FWZ3Q3S2t1ZG4weFdVZlJQZ0NCcGxjNkdBTjNfYjE5c0ZtSUdEQmFINk5mLUctb0QyQWxuc1RGdVdIazBkdVE1eGR3S2NpS3lyWDhYMms4SHNMWTR5OEVqOEhJenLSAYICQVVfeXFMTTllRGFrZDdGMmZCcHBzVlhhZXo3cmVqdVhIQ2Z0eTFSWHJ4QTdpemt6THJ3alV5cGZYeUp4Tkg3b2YzelY2VWd3dGtXVzg0WXFqOWpOQ0ZvNFRqczl4TDYzTm9IMzZSTjNhQW9qWmR0V01xMVRqSm9hc2d5M2FiNEJzZVpPSmRJVDFMenlHZDk3NERLUzdnbS0weVlkVWhVZVYzTkpJa2ZwZ3BGSEdIc3V5ckJva0pKSFlnc3ctVzBMRk8xVEFwdmt1RDNpZGlhdVh6aEhja1JDVDdzQTlNQ0V4Uy1qVFRpT1ZudjVLTnFBVnBYUXhDOXc3bmpfWm8ybnZB?oc=5",
-   "source": "The Times of India",
-   "ts": 1795556400,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Indian boys team beats Nepal in final to win gold at Junior International Kabaddi Championship",
-   "en": "Indian boys team beats Nepal in final to win gold at Junior International Kabaddi Championship",
-   "ne": "Indian boys team beats Nepal in final to win gold at Junior International Kabaddi Championship",
-   "imp": 4,
-   "tags": [
-    "Kabaddi",
-    "Nepal",
-    "JuniorInternational"
    ],
    "cat": "sports",
    "val": 3,
@@ -7090,9 +7044,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "health"
+  },
+  {
+   "ts": 1795560654.3093207,
+   "en": "Indian boys team beats Nepal in final to win gold at Junior International Kabaddi Championship",
+   "ne": "Indian boys team beats Nepal in final to win gold at Junior International Kabaddi Championship",
+   "link": "https://timesofindia.indiatimes.com/city/jaipur/indian-boys-team-beats-nepal-in-final-to-win-gold-at-junior-international-kabaddi-championship/articleshow/136140018.cms",
+   "source": "The Times of India",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "sports"
   }
  ],
- "updated": 1795560052,
+ "updated": 1795560669,
  "pending_since": 1795560049.702652,
  "fb_blocks": [
   1790350880.4125228,
