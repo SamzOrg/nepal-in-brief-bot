@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://nagariknews.nagariknetwork.com/politics/prime-minister-shah-is-leaving-for-a-state-visit-to-india-today-will-meet-modi-tomorrow-65-55.html": 1795308650.9162757,
-  "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZUxmYWJBUmZxQWcyUDFZOVdJajFPbVBYOW9rNDdSNGxpZWx3UFhsb1hTUnBhVHJ2a2VxWUU5em1XcmU4MmQ2VEU4anN1dGZUSW9nRnhlSkZQTVZmTlVvbkxXdkd0QkhOcGd4VzN5M0FxcXVqUzBwZXpGM28wSm8yRnBDeDhIV19IS0ExdUcxdUVWeUFQMi1jX1EyQ3E2LWplS2NIVk56Zm1RLVdKYkhGaENiODA?oc=5": 1795308650.9162757,
   "http://english.ratopati.com/story/87701/prime-minister-balen-shah-is-leaving-for-india-today-here-is-the-schedule": 1795309286.7509198,
   "https://risingnepaldaily.com/news/88876": 1795309286.7509198,
   "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQR196UHZWbV9tYVB5WHJMOW9Ka2oyVnd1aHRmX3NkbGUxWk1YeHdZREpxY09UVzFEZDRIdWFEcmdvYXFaQzBOcUlITTYyMTgyM05JRmhuWUFPTlFGX2trY1hiSU9aTFJ6cUhFZ2QzSl9LNGJ2VkE2SGFzel94Q2NoQnFsWXJvb3lqbWZ5M2tYQXYtN2RTUlVZLW43azREOXJZaXdOTDI5bFJZMm12Y2NyVzFYZElrdjRJblBxV3prVlM?oc=5": 1795309286.7509198,
@@ -2710,7 +2708,9 @@
   "https://gorkhapatraonline.com/news/230155": 1795481448.495398,
   "https://risingnepaldaily.com/news/88953": 1795481448.495398,
   "https://gorkhapatraonline.com/news/230154": 1795481448.495398,
-  "https://gorkhapatraonline.com/news/230153": 1795481448.495398
+  "https://gorkhapatraonline.com/news/230153": 1795481448.495398,
+  "https://nagariknews.nagariknetwork.com/politics/chief-minister-calls-for-speedy-preparations-for-10th-national-games-to-be-successful-46-57.html": 1795482076.2918937,
+  "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBTVUdONk1DRWpLQnRwQ1BfZFIxS3B4M3FjYWFETjR2STdVNm5hYWFucmpPYlJQMHVpY1RucUdhTXdnZHkyb21wRGQ5N3cxNUg4?oc=5": 1795482076.2918937
  },
  "queue": [
   {
@@ -2779,29 +2779,6 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "भारतले दुई बन्दरगाह उपलब्ध गराउँदा नेपाललाई कस्तो लाभ ?",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/508133",
-   "source": "Baahrakhari",
-   "ts": 1795452915,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "भारतले दुई बन्दरगाह उपलब्ध गराउँदा नेपाललाई कस्तो लाभ ?",
-   "en": "भारतले दुई बन्दरगाह उपलब्ध गराउँदा नेपाललाई कस्तो लाभ ?",
-   "ne": "भारतले दुई बन्दरगाह उपलब्ध गराउँदा नेपाललाई कस्तो लाभ ?",
-   "imp": 3,
-   "tags": [
-    "IndiaPorts",
-    "NepalTrade",
-    "Benefit"
-   ],
-   "cat": "economy",
-   "val": 1,
-   "teaser": true,
    "hits": 1
   },
   {
@@ -3137,29 +3114,6 @@
    "val": 3,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "Significant momentum added to India-Nepal friendship: PM Modi",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMFNEcGpsNWhIUE14OE8yT1RaeWRvLW81YUc0alJRY2tRalZ5VXdwdWVUd0w1R0VOeV92SldGT0MzYmFCODkzZjV0OFkwQnAzaUVCRk9Wa2xtMENlREVpMFR3bmV2NUJEcnBpSGNpa1lPRlpINnl0anA5SEgtU1oyZkhTODJsUnc?oc=5",
-   "source": "tennews.in",
-   "ts": 1795453262,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Significant momentum added to India-Nepal friendship: PM Modi",
-   "en": "Significant momentum added to India-Nepal friendship: PM Modi",
-   "ne": "Significant momentum added to India-Nepal friendship: PM Modi",
-   "imp": 3,
-   "tags": [
-    "Modi",
-    "IndiaNepal",
-    "Friendship"
-   ],
-   "cat": "politics",
-   "val": 2,
-   "teaser": true,
-   "hits": 2
   },
   {
    "title": "We Raise Hope Brings Nepal to The Metropolitan Club",
@@ -3752,17 +3706,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1794876679.1825614,
-   "en": "केन्द्रीय कारागारबाट फरार भएका दुई कैदीबन्दी कोटेश्वरबाट पक्राउ",
-   "ne": "केन्द्रीय कारागारबाट फरार भएका दुई कैदीबन्दी कोटेश्वरबाट पक्राउ",
-   "link": "https://baahrakhari.com/detail/507479",
-   "source": "Baahrakhari",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "crime"
-  },
   {
    "ts": 1794878459.4706516,
    "en": "Dipendra Singh Airee leads Sudurpaschim Royals into NPL Qualifier 1 against Lumbini Lions",
@@ -6767,8 +6710,8 @@
    "cat": "economy"
   }
  ],
- "updated": 1795481486,
- "pending_since": null,
+ "updated": 1795482080,
+ "pending_since": 1795482076.2918937,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
