@@ -2782,27 +2782,6 @@
  },
  "queue": [
   {
-   "title": "UN report: Five women and girls killed every hour by partners or family members",
-   "summary": "United Nations, November 24 More than 47,000 women and girls worldwide were killed by their intimate partners or family members in 2025, according to a United Nations report. This means an average of nearly five women...",
-   "link": "https://english.onlinekhabar.com/un-report-five-women-and-girls-killed-every-hour-by-partners-or-family-members.html",
-   "source": "Onlinekhabar EN",
-   "ts": 1795509617,
-   "weight": 3,
-   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/11/Rape-1.jpg",
-   "lang": "en",
-   "hl": "UN report: Five women and girls killed every hour by partners or family members",
-   "en": "UN report: Five women and girls killed every hour by partners or family members",
-   "ne": "UN report: Five women and girls killed every hour by partners or family members",
-   "imp": 1,
-   "tags": [
-    "GenderBasedViolence"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Police destroy 5,100 marijuana plants in Udayapur crackdown",
    "summary": "Key Takeaways: Police destroyed 5,100 marijuana plants in Udayapur The operation was conducted in Katari Municipality-8 Plants were found in forest areas including Marjepur, Ah...",
    "link": "https://thehimalayantimes.com/nepal/police-destroy-5100-marijuana-plants-in-udayapur-crackdown",
@@ -2938,53 +2917,6 @@
    "val": 2,
    "teaser": false,
    "hits": 2
-  },
-  {
-   "title": "TU to make research centres more dynamic, says Vice-Chancellor Thapa",
-   "summary": "Kathmandu, November 24 Tribhuvan University (TU) Vice-Chancellor Prof Dr Bhola Thapa has said the university will make its research centres more dynamic. In a discussion with the directors of four research centres,...",
-   "link": "https://english.onlinekhabar.com/tu-research-centers-more-dynamic.html",
-   "source": "Onlinekhabar EN",
-   "ts": 1795509196,
-   "weight": 3,
-   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/11/TU-Chhalfal.jpg",
-   "lang": "en",
-   "hl": "TU to make research centres more dynamic, says Vice-Chancellor Thapa",
-   "en": "TU to make research centres more dynamic, says Vice-Chancellor Thapa",
-   "ne": "TU to make research centres more dynamic, says Vice-Chancellor Thapa",
-   "imp": 2,
-   "tags": [
-    "TribhuvanUniversity",
-    "Research",
-    "Thapa"
-   ],
-   "cat": "education",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "दसौंँ राष्ट्रिय खेलकुदअन्तर्गत पौडी प्रतियोगिता नेपालगन्जमा सुरु",
-   "summary": "सिराज खानबाँके, मङ्सिर ८ गते । दसौंँ राष्ट्रिय खेलकुद प्रतियोगिताअन्तर्गतको पौडी प्रतियोगिता मङ्गलबारदेखि नेपालगन्जस्थित रङ्गशालाको पौडी पोखरीमा सुरु भएको छ । चार दिनसम्म सञ्चालन ह...",
-   "link": "https://gorkhapatraonline.com/news/230229",
-   "source": "Gorkhapatra",
-   "ts": 1795509383,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/393134/conversions/partispardha-gardai-kheladi-original.jpg",
-   "lang": "ne",
-   "hl": "दसौंँ राष्ट्रिय खेलकुदअन्तर्गत पौडी प्रतियोगिता नेपालगन्जमा सुरु",
-   "en": "दसौंँ राष्ट्रिय खेलकुदअन्तर्गत पौडी प्रतियोगिता नेपालगन्जमा सुरु",
-   "ne": "दसौंँ राष्ट्रिय खेलकुदअन्तर्गत पौडी प्रतियोगिता नेपालगन्जमा सुरु",
-   "imp": 2,
-   "tags": [
-    "NationalGames",
-    "Swimming",
-    "Nepalgunj",
-    "पौडी"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
   },
   {
    "title": "Invasive Weed Ageratum Houstonianum Spreads Across Nepal Despite Low Genetic Diversity",
@@ -10855,7 +10787,7 @@
    "cat": "politics"
   }
  ],
- "updated": 1795537876,
+ "updated": 1795538457,
  "pending_since": 1795536654.4349267,
  "fb_blocks": [
   1790350880.4125228,
