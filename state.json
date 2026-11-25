@@ -2766,7 +2766,10 @@
   "https://www.setopati.com/kinmel/jewellery/403333": 1795584048.731505,
   "https://www.setopati.com/politics/403336": 1795584048.731505,
   "https://gorkhapatraonline.com/news/230336": 1795584048.731505,
-  "http://english.ratopati.com/story/88169/ippan-demands-policy-facilitation-for-reconstruction-of-bhotekoshi-flood-affected-projects-and-electricity-trade": 1795584048.731505
+  "http://english.ratopati.com/story/88169/ippan-demands-policy-facilitation-for-reconstruction-of-bhotekoshi-flood-affected-projects-and-electricity-trade": 1795584048.731505,
+  "https://baahrakhari.com/detail/508242": 1795584667.0646155,
+  "https://nagariknews.nagariknetwork.com/Aparadh/one-arrested-with-15-buckets-of-honey-mixed-with-inedible-substances-br-43-33.html": 1795584667.0646155,
+  "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5LS1BwTWJGSndoY1Y1czVadTREb25CbmZwbUk5eUx6WjFwUGFGRHhzdVpLMHN4VXU4ZTBETEdQVVViM3ZjeGpmeXpiNmpaWHRHRnhfTlB4YmJWZ2o30gFcQVVfeXFMTktLUHBNYkZKd2hjVjVzNVp1NERvbkJuZnBtSTl5THpaMXBQYUZEeHN1Wkswc3hVdThlMERMR1BVVWIzdmN4amZ5emI2alpYdEdGeF9OUHhiYlZnajc?oc=5": 1795584667.0646155
  },
  "queue": [
   {
@@ -3348,7 +3351,7 @@
    "cat": "politics",
    "val": 1,
    "teaser": true,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Ilam's Salakpur Generates Millions from Orange Farming and Tourism",
@@ -3763,29 +3766,6 @@
    "hits": 2
   },
   {
-   "title": "China's Huawei convicted in sprawling US criminal trial over Iran business",
-   "summary": "A New York jury finds the Chinese telecommunications giant guilty of 10 criminal counts, including bank fraud, sanctions violations and conspiring to steal trade secrets from US companies.",
-   "link": "https://kathmandupost.com/science-technology/2026/11/25/china-s-huawei-convicted-in-sprawling-us-criminal-trial-over-iran-business",
-   "source": "Kathmandu Post",
-   "ts": 1795555863.896426,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "China's Huawei convicted in sprawling US criminal trial over Iran business",
-   "en": "China's Huawei convicted in sprawling US criminal trial over Iran business",
-   "ne": "China's Huawei convicted in sprawling US criminal trial over Iran business",
-   "imp": 1,
-   "tags": [
-    "Huawei",
-    "USA",
-    "Iran"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "International Day for the Elimination of Violence against Women Observed Globally",
    "summary": "Kathmandu. Today, November 25, is the International Day for the Elimination of Violence against Women, being observed with various awareness...",
    "link": "http://english.ratopati.com/story/88126/today-is-the-international-day-for-the-elimination-of-violence-against-women-a-woman-and-girl-are-murdered-every-ten-minutes",
@@ -3899,28 +3879,6 @@
    "hits": 2
   },
   {
-   "title": "Why India-Pakistan cricket matches keep coming despite political tensions",
-   "summary": "Indian government policy continues to rule out bilateral sporting ties, even as participation in multilateral events remains permissible. The International Cricket Council and the Asian Cricket Council have exploited...",
-   "link": "https://kathmandupost.com/sports/2026/11/25/why-india-pakistan-cricket-matches-keep-coming-despite-political-tensions",
-   "source": "Kathmandu Post",
-   "ts": 1795555863.896426,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Why India-Pakistan cricket matches keep coming despite political tensions",
-   "en": "Why India-Pakistan cricket matches keep coming despite political tensions",
-   "ne": "Why India-Pakistan cricket matches keep coming despite political tensions",
-   "imp": 1,
-   "tags": [
-    "IndiaPakistan",
-    "Cricket"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "उप्रेतीको कवितासङ्ग्रहमाथि विमर्श",
    "summary": "गोरखापत्र समाचारदाताकाठमाडौँ, मङ्सिर ९ गते । अग्रज साहित्यकार लक्ष्मी उप्रेतीको कवितासङ्ग्रह 'जीवनगीत' ले जीवनका विविध पक्षलाई साहित्यिक अभिव्यक्तिमार्फत उजागर गरेको वक्ताले बताएका...",
    "link": "https://gorkhapatraonline.com/news/230296",
@@ -3937,29 +3895,6 @@
     "Poetry",
     "Literature",
     "उप्रेती"
-   ],
-   "cat": "culture",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "How documentary cinema captures a South Asia in transit",
-   "summary": "This year's Film Southasia brings together documentaries that explore migration, fractured histories, cultural resilience and political resistance across the subcontinent.",
-   "link": "https://kathmandupost.com/art-culture/2026/11/25/how-documentary-cinema-captures-a-south-asia-in-transit",
-   "source": "Kathmandu Post",
-   "ts": 1795555863.896426,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "How documentary cinema captures a South Asia in transit",
-   "en": "How documentary cinema captures a South Asia in transit",
-   "ne": "How documentary cinema captures a South Asia in transit",
-   "imp": 1,
-   "tags": [
-    "Documentary",
-    "SouthAsia",
-    "Cinema"
    ],
    "cat": "culture",
    "val": 2,
@@ -6697,7 +6632,7 @@
    "cat": "disaster",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "काठमाडौंमा अखाद्य पदार्थ मिसाएर मह उत्पादन र बिक्री गर्ने एक जना पक्राउ",
@@ -6720,7 +6655,7 @@
    "cat": "crime",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "दानबहादुर कार्कीको रिट निरौला र पौडेलको इजलासमा",
@@ -7002,17 +6937,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1794979263.1769671,
-   "en": "Nepal Needs USD 121B+ for Climate Adaptation and Mitigation by 2050",
-   "ne": "Nepal Needs USD 121B+ for Climate Adaptation and Mitigation by 2050",
-   "link": "https://myrepublica.nagariknetwork.com/news/climate-justice-opens-doors-credibility-brings-capital-78-86.html",
-   "source": "myRepublica",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "world"
-  },
   {
    "ts": 1794981079.4612029,
    "en": "Three Dead, 13 Injured in Separate Road Accidents in Mustang and Sindhuli",
@@ -10039,7 +9963,7 @@
    "cat": "world"
   }
  ],
- "updated": 1795584071,
+ "updated": 1795584675,
  "pending_since": 1795584048.731505,
  "fb_blocks": [
   1790350880.4125228,
