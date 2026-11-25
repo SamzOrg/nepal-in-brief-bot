@@ -2218,50 +2218,6 @@
  },
  "queue": [
   {
-   "title": "जनताका गुनासा सुन्न सांसद गाउँगाउँमा",
-   "summary": "तिलाचन पाण्डेगुल्मी, मङसिर ९ गते । गुल्मीका सांसद जनताका गुनासा र समस्याहरु सुन्न गाउँगाउँमा पुग्नुभएको छ । केही दिन अघिदेखि गुल्मी क्षेत्र नं. २ का सांसद गोबिन्द पन्थी आफ्नो निर्व...",
-   "link": "https://gorkhapatraonline.com/news/230382",
-   "source": "Gorkhapatra",
-   "ts": 1795613019,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/393359/conversions/govinda-panthi-gunaso-sundai-original.jpg",
-   "lang": "ne",
-   "hl": "जनताका गुनासा सुन्न सांसद गाउँगाउँमा",
-   "en": "जनताका गुनासा सुन्न सांसद गाउँगाउँमा",
-   "ne": "जनताका गुनासा सुन्न सांसद गाउँगाउँमा",
-   "imp": 2,
-   "tags": [
-    "Parliamentarians",
-    "गाउँगाउँ"
-   ],
-   "cat": "politics",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "किशोरीको खोजी गर्न दबाब दिँदै दुहवीमा प्रदर्शन",
-   "summary": "लामो समय बितिसक्दा पनि छोरीको अवस्था पत्ता नलागेको भन्दै परिवार र स्थानीयले तत्काल खोजी गर्न तथा न्याय दिन माग गर्दै प्रदर्शन गरेका हुन्।...",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/protest-in-duhavi-pressuring-to-find-the-girl-38-87.html",
-   "source": "Nagarik News",
-   "ts": 1795612958,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1795612935_sunsari%20pradarsan.jpg",
-   "lang": "ne",
-   "hl": "किशोरीको खोजी गर्न दबाब दिँदै दुहवीमा प्रदर्शन",
-   "en": "किशोरीको खोजी गर्न दबाब दिँदै दुहवीमा प्रदर्शन",
-   "ne": "किशोरीको खोजी गर्न दबाब दिँदै दुहवीमा प्रदर्शन",
-   "imp": 2,
-   "tags": [
-    "Duhavi",
-    "Protest"
-   ],
-   "cat": "society",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Wild Elephant Kills Man in Nepal's Saptari, the District's Second Death This Month",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNnQ5QmVVaXhhX1dleFFvcDcxZVkyTmlBRmRnZVZ5YXY3OW5jaWQ2aHdCeVcwZHFuZ2xHai13eG9NTWhoR01TcFQzUExXcDg2MHdLWTlfVFNzZm1KREZtMmkySUg4X0ZIdk4ybFpmc1pQNU4tU2cxUGd4Z0FEeGI3QXVjeVIyNGdkaU0tLS1HSDNob3pIOVJtZ2o5RksxZjJzTml3blQ3U2xVRUFwOU1JMzJ5VVFuU0ExNUpYTEdqRzZjRTlsQncwbDF1TnY?oc=5",
@@ -2986,28 +2942,6 @@
    "val": 1,
    "teaser": false,
    "hits": 2
-  },
-  {
-   "title": "Cricket match squads | SPR vs LUL, 1st Match, Nepal Premier League 2026",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbEU1MXNRUHhGMlVqTW9KNHBocDBNc0JNTkd1MkFENk1scjhUaWhVWEVVY0JxcjFMSndRcXQxMmNjbnBRZXpqQnhYNFFvYlFSM2NONDBFLUFwQkpUUEtxQnlCeWd2SnNFUF9yOVMyNkhwbTJPdG52ZTM5bDdLUFpLMGF0LXU3QWRaeXpxRU9FV2Y2RUh0ZFVmNzZta0dNY3FQ?oc=5",
-   "source": "Cricbuzz",
-   "ts": 1795612991,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Cricket match squads | SPR vs LUL, 1st Match, Nepal Premier League 2026",
-   "en": "Cricket match squads | SPR vs LUL, 1st Match, Nepal Premier League 2026",
-   "ne": "Cricket match squads | SPR vs LUL, 1st Match, Nepal Premier League 2026",
-   "imp": 2,
-   "tags": [
-    "SPRvsLUL",
-    "NPL2026"
-   ],
-   "cat": "sports",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
   },
   {
    "title": "गाउँमै पुगेर पाठेघरको मुखको क्यान्सर परीक्षण",
@@ -6844,7 +6778,7 @@
    "cat": "crime"
   }
  ],
- "updated": 1795641678,
+ "updated": 1795642268,
  "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
