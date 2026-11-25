@@ -2218,28 +2218,6 @@
  },
  "queue": [
   {
-   "title": "Wild Elephant Kills Man in Nepal's Saptari, the District's Second Death This Month",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNnQ5QmVVaXhhX1dleFFvcDcxZVkyTmlBRmRnZVZ5YXY3OW5jaWQ2aHdCeVcwZHFuZ2xHai13eG9NTWhoR01TcFQzUExXcDg2MHdLWTlfVFNzZm1KREZtMmkySUg4X0ZIdk4ybFpmc1pQNU4tU2cxUGd4Z0FEeGI3QXVjeVIyNGdkaU0tLS1HSDNob3pIOVJtZ2o5RksxZjJzTml3blQ3U2xVRUFwOU1JMzJ5VVFuU0ExNUpYTEdqRzZjRTlsQncwbDF1TnY?oc=5",
-   "source": "Nature World News",
-   "ts": 1795613572,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Wild Elephant Kills Man in Nepal's Saptari, the District's Second Death This Month",
-   "en": "Wild Elephant Kills Man in Nepal's Saptari, the District's Second Death This Month",
-   "ne": "Wild Elephant Kills Man in Nepal's Saptari, the District's Second Death This Month",
-   "imp": 2,
-   "tags": [
-    "Elephant",
-    "Saptari"
-   ],
-   "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "गढीमाई नगरपालिकामा कामै नगरेका करार कर्मचारीका नाममा करोडौँ भुक्तानी",
    "summary": "नगरपालिकाले सडकदेखि होटलका बन्द कोठासम्म बसेर करार कर्मचारी भर्ना गरेको र उनीहरूको नियुक्ति, हाजिरी तथा तलब भुक्तानी प्रक्रियामा व्यापक अनियमितता भएको स्रोतको दाबी छ।...",
    "link": "https://nagariknews.nagariknetwork.com/social-affairs/payment-of-crores-to-contract-employees-who-did-not-work-in-gadhimai-municipality-32-22.html",
@@ -2458,28 +2436,6 @@
    "val": 2,
    "teaser": false,
    "hits": 2
-  },
-  {
-   "title": "महिला गोल्डकप : घरेलु टोली झापालाई पन्छाउँदै एपीएफ फाइनलमा",
-   "summary": "विभागीय टोली सशस्त्र प्रहरी बलको एपीएफ फुटबल क्लबले घरेलु टोली झापा-११ फुटबल क्लबलाई पराजित गर्दै फाइनलमा स्थान पक्का गरेको छ।...",
-   "link": "https://nagariknews.nagariknetwork.com/sports/women-s-gold-cup-apf-advances-to-final-beating-home-team-jhapa-79-46.html",
-   "source": "Nagarik News",
-   "ts": 1795613704,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1795613656_Jhapa%20Goldcup.jpg",
-   "lang": "ne",
-   "hl": "महिला गोल्डकप : घरेलु टोली झापालाई पन्छाउँदै एपीएफ फाइनलमा",
-   "en": "महिला गोल्डकप : घरेलु टोली झापालाई पन्छाउँदै एपीएफ फाइनलमा",
-   "ne": "महिला गोल्डकप : घरेलु टोली झापालाई पन्छाउँदै एपीएफ फाइनलमा",
-   "imp": 2,
-   "tags": [
-    "WomenGoldCup",
-    "APF"
-   ],
-   "cat": "sports",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
   },
   {
    "title": "नेपालका लागि कोप- रातभरि करायो, दक्षिणा हरायो!",
@@ -6778,8 +6734,8 @@
    "cat": "crime"
   }
  ],
- "updated": 1795642268,
- "pending_since": null,
+ "updated": 1795642859,
+ "pending_since": 1795642854.2018797,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
