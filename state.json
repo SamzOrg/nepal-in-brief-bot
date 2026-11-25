@@ -2770,7 +2770,9 @@
   "https://gorkhapatraonline.com/news/230301": 1795572648.917138,
   "https://nagariknews.nagariknetwork.com/Dharma-Saskriti/today-the-luck-of-these-zodiac-signs-will-shine-97-86.html": 1795572648.917138,
   "https://gorkhapatraonline.com/news/230300": 1795572648.917138,
-  "https://theannapurnaexpress.com/story/69042": 1795573248.8939795
+  "https://theannapurnaexpress.com/story/69042": 1795573248.8939795,
+  "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcXJhajItZ0FwWkMwcnRtTVJBb1dfNzBneEJ5NTBNSmhWUFdHd1oteDhlQzZFbmc4UjdMZklyaXBiSUEtOVRzSHZab2U2MzUza09SZDVTSlFfVk1ERmtjS0hQUThiRWxnYVlXVDZOaWpTbE5SSUJQbW8yc2UzcERpTEZNVE1yTG56LXlNUm80YlNZSGFxOGQ3eg?oc=5": 1795573867.268061,
+  "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWnUzdzUtWlZMMkhaRDA3amQ0SkpUaURQaGhqc3VQVGFFWjU1U0cwMkdGVjFPYlNGYzFFSGdNOVhUNFhZWEU0d1l6ZkZFd2ExT01qT1lZcV9JR3hOOC1QczdSX0FzUnU2Xzl6VThnMWxfSl81NnlWSzNVcXlGd0hOX0QxblpsWmxVYnZIYjV3ak9zUTgwblg5N3ZWWW4xNUVBc1V6Xw?oc=5": 1795573867.268061
  },
  "queue": [
   {
@@ -4059,7 +4061,7 @@
    "cat": "economy",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "China's Huawei convicted in sprawling US criminal trial over Iran business",
@@ -4740,20 +4742,33 @@
    "val": 2,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "Nepal-India EPG report hits diplomatic dead end",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWnUzdzUtWlZMMkhaRDA3amQ0SkpUaURQaGhqc3VQVGFFWjU1U0cwMkdGVjFPYlNGYzFFSGdNOVhUNFhZWEU0d1l6ZkZFd2ExT01qT1lZcV9JR3hOOC1QczdSX0FzUnU2Xzl6VThnMWxfSl81NnlWSzNVcXlGd0hOX0QxblpsWmxVYnZIYjV3ak9zUTgwblg5N3ZWWW4xNUVBc1V6Xw?oc=5",
+   "source": "myRepublica",
+   "ts": 1795571472,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "Nepal-India EPG report hits diplomatic dead end",
+   "en": "Nepal-India EPG report hits diplomatic dead end",
+   "ne": "Nepal-India EPG report hits diplomatic dead end",
+   "imp": 4,
+   "tags": [
+    "Nepal",
+    "India",
+    "EPGReport",
+    "कूटनीति"
+   ],
+   "cat": "politics",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1794968457.1315515,
-   "en": "Rs63.1M deposited in former teacher Inam Sapkota's bank account within a year",
-   "ne": "Rs63.1M deposited in former teacher Inam Sapkota's bank account within a year",
-   "link": "https://kathmandupost.com/national/2026/11/18/millions-flowed-into-former-teacher-inam-sapkota-s-account-in-a-year",
-   "source": "Kathmandu Post",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "crime"
-  },
   {
    "ts": 1794970257.4701667,
    "en": "Nepal Proposes Separate Mountain Climate Program at COP-31",
@@ -7780,7 +7795,7 @@
    "cat": "society"
   }
  ],
- "updated": 1795573273,
+ "updated": 1795573871,
  "pending_since": 1795573248.8939795,
  "fb_blocks": [
   1790350880.4125228,
