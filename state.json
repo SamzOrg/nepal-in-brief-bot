@@ -2747,7 +2747,12 @@
   "http://english.ratopati.com/story/88134/three-vehicles-with-goods-worth-rs-22-million-seized": 1795577479.960927,
   "https://gorkhapatraonline.com/news/230307": 1795577479.960927,
   "https://gorkhapatraonline.com/news/230306": 1795577479.960927,
-  "https://theannapurnaexpress.com/story/69047": 1795578057.0584974
+  "https://theannapurnaexpress.com/story/69047": 1795578057.0584974,
+  "https://baahrakhari.com/detail/508236": 1795578645.051416,
+  "http://english.ratopati.com/story/88144/central-working-committee-meeting-of-both-groups-of-nepali-congress-is-being-held": 1795578645.051416,
+  "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZUQwZzJrV19ta2pTM3N0Tmtfa3N3eUhvcVdCckQ0RFdWMEUzbXdyV1NmSEVTaXphWGxlNlY1YnNzSUV1b2t1WUY1ZVZSVHpNSk5BVHh4Z3R5YkZaOGNEUUNwdC1uclg4c1ZxeTdieVBFaXY2clY2N0NsMlVzczBObWtIb3JrM0E?oc=5": 1795578645.051416,
+  "https://kathmandupost.com/national/2026/11/25/the-killings-have-a-name-femicide-nepal-s-law-does-not-recognise-it": 1795578645.051416,
+  "https://gorkhapatraonline.com/news/230319": 1795578645.051416
  },
  "queue": [
   {
@@ -4912,28 +4917,6 @@
    "hits": 1
   },
   {
-   "title": "Tag",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9pUG40MmI0cEloYWo2UEx4dnJVakhDQ29vMVpFVlNaWExJXzY4THBtaTRaV2paQTlvMGJwQ3JsT3Fpc2NCOVlGSkNKZWp6V25NYkZLa2hjS0pCUk1BWFdtQ2pUeVpab1ZS?oc=5",
-   "source": "myRepublica",
-   "ts": 1795549535,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Tag",
-   "en": "Tag",
-   "ne": "Tag",
-   "imp": 1,
-   "tags": [
-    "Tag",
-    "Test"
-   ],
-   "cat": "other",
-   "val": 1,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Putin says retaliation 'inevitable' after Ukraine hit Russian oil plants",
    "summary": "Ukraine has continued its attacks on Russian oil refineries despite requests from US President Donald Trump to withhold them, Russian President Vladimir Putin has said while threatening retaliation, Aljazeera reported....",
    "link": "https://theannapurnaexpress.com/story/69040",
@@ -5072,7 +5055,7 @@
    "cat": "disaster",
    "val": 3,
    "teaser": false,
-   "hits": 3
+   "hits": 4
   },
   {
    "title": "युक्रेनसँगको युद्धमा साढे ७ लाख रूसी सैनिक मारिएको अनुमान",
@@ -5118,7 +5101,7 @@
    "cat": "culture",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Fourth Karnali International Film Festival to Begin February 23",
@@ -5141,29 +5124,6 @@
    "val": 3,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "India grants Nepal two-way air route - News Today | First with the news",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE44X1NSX0d6ampVM3habjlveUhteFJFZWtTVUE2Nl83Rkg0eTRGcU9iRFZaWnhHNGE2UGtmV2dyRDQxUFlmM0ZIR2RUd3I4cnNpWXROQzNIX19CUmpSNVVWNkVoNVktUTgybVJwNW40czladG9fQjN1bUZWRnVBZw?oc=5",
-   "source": "News Today",
-   "ts": 1795577299,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "India grants Nepal two-way air route - News Today | First with the news",
-   "en": "India grants Nepal two-way air route - News Today | First with the news",
-   "ne": "India grants Nepal two-way air route - News Today | First with the news",
-   "imp": 4,
-   "tags": [
-    "India",
-    "Nepal",
-    "AirRoute"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "गोरखामा पुनर्जीवित हुँदै चन्द्रमाको उज्यालोमा मकै सुकाउने परम्परा",
@@ -5480,6 +5440,29 @@
    ],
    "cat": "sports",
    "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "करेन्ट लागेर युवकको मृत्यु",
+   "summary": "बर्दिया समाचारदाताबर्दिया, मङ्सिर ९ गते । बर्दियामा विद्युत् को पोलमा बल्ब लगाउने क्रममा करेन्ट लागेर एक युवकको मृत्यु भएको छ ।मृत्यु हुनेमा मधुवन नगरपालिका-ओराली बजारका २२ वर्षीय...",
+   "link": "https://gorkhapatraonline.com/news/230319",
+   "source": "Gorkhapatra",
+   "ts": 1795578468,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/393263/conversions/images-original.jpg",
+   "lang": "ne",
+   "hl": "करेन्ट लागेर युवकको मृत्यु",
+   "en": "करेन्ट लागेर युवकको मृत्यु",
+   "ne": "करेन्ट लागेर युवकको मृत्यु",
+   "imp": 2,
+   "tags": [
+    "Electrocution",
+    "Current",
+    "दुर्घटना"
+   ],
+   "cat": "accident",
+   "val": 1,
    "teaser": false,
    "hits": 1
   }
@@ -8509,9 +8492,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "economy"
+  },
+  {
+   "ts": 1795578651.9484007,
+   "en": "India grants Nepal two-way B345 air route and port access",
+   "ne": "India grants Nepal two-way B345 air route and port access",
+   "link": "https://newstodaynet.com/2026/11/25/india-grants-nepal-two-way-air-route/",
+   "source": "News Today",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "economy"
   }
  ],
- "updated": 1795578069,
+ "updated": 1795578664,
  "pending_since": 1795578057.0584974,
  "fb_blocks": [
   1790350880.4125228,
