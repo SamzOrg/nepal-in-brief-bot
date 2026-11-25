@@ -1,12 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTzRHd3lIc3VYVjVadUdtNDBlQW5rX0FuWXM1SDNUNENzMk9jVnVRZUlzNFQ5YXFzMU1PY0Z2TmlSZ0hpRld5cG5iTUFqN3RUSjZlVFRnNzdaLUs3NXJXVUVRUGoxMS0wWHAyZkl6VzQtUWgwM3JCUnF6VEhWMXVpLXNpM1VWMzZLYmYtV1ZGUU1aenZKLWpjT0NEUERESF9iQmNBUkdRMTB2U2RhX1FRRUxKdUplem1tR2pVcXZSaE5pNWFHYmtXRGxnMlF6Z9IBzgFBVV95cUxNTzRHd3lIc3VYVjVadUdtNDBlQW5rX0FuWXM1SDNUNENzMk9jVnVRZUlzNFQ5YXFzMU1PY0Z2TmlSZ0hpRld5cG5iTUFqN3RUSjZlVFRnNzdaLUs3NXJXVUVRUGoxMS0wWHAyZkl6VzQtUWgwM3JCUnF6VEhWMXVpLXNpM1VWMzZLYmYtV1ZGUU1aenZKLWpjT0NEUERESF9iQmNBUkdRMTB2U2RhX1FRRUxKdUplem1tR2pVcXZSaE5pNWFHYmtXRGxnMlF6Zw?oc=5": 1795428650.988751,
-  "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQeHk2VkhjQlhUQlp6WVduNUdEY250V2pOYVhLRjB3QWtqT2gzTjNaMWpKR3l3SzR2YXM5X3EzT3p1dlE3bHVKVTJMREo3VFBLX1E0eW5XMExpMC1VbXptdzllZGZYNzctN24wTGg0UGtxenNmMjlDRC1OUjVmWVFDUWJfbmJvQ1RDRnBvVWpCN1JsYjlZYlplZnl3cFVQRVFObHZiTktUaXJNSTJfVXNiVDNOLUhrczFHaEl0cVAxX0EyMXY1ZGhnbHFVUFdKWEhYdy0xQ1VoV05WVU8zWGNxN2hXZ053b2Uzb3BodVlleU4?oc=5": 1795428650.988751,
-  "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNOXRHQ3YySXdlQnp2M3JZeW03cGtFUFlDdzVSM09wdEhrcVJnd3hFOXpfdzdpTGRSZE5NcWdUUEtBN0o3WHRPQ2RUTmVGSGV5ZlJIaFVoeGNNWkZuZkhpWi0yRHZwQWFWaDFEZGxhSVQ4VkxXcGN0NFFES0Vuc3FjWjZuNmxMMWY2U3Z0ZFdFYlg4QUhMeE5zOXlyNDhkUjJJaU5LQXJjVzMxU2NqSDY2djhyajVJWHVVek5WUGNKdEU3cG5NU1FrTGR5cUZUaVVqMkFkcVA1VG5ld9IB5wFBVV95cUxOSUhZd1Foa2pBLUdiWnpCa2xPMUhHWGl0bHJZS2VldGlQS24wcUJVOWdvNF9WYUwxR2hxLVJTOE01cFpZSHFPaUZnM2dEMGZhLThTU3NXRkl5a3lBNnYtdEx3dEpnMW1NLTc2QTMzcWVIcW5Zb3g5QjBLcno5X2dMLVN0ZjlwQU92SVgySGZ3NlY1Smxlemhya1g5eVlJSUxqa2U2TURKRmxaRVZZUjREYi1yOGlSd2FzVG5GaHRRenZ5YWpYUmk2OEdOZ29TdU5BazVFLVR3VXlHTjZHTkR2Q1dXczVNU3c?oc=5": 1795428650.988751,
-  "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNdnhBZnRMYVVsVVBHSTBuSW5aSWpfRWRTbWNxRENYZjVpbjVCS0hybHBMR2tOUndOUXQzR1FidFUtek9zM09iN3FLcmRJM2dFMlJmSE5BSXBpa3piRXE1VFFQdHZQWEdmdUJWd3dwaDN2dWJsZVAzd3RSYkpoTHY2Z3NCNU9PcTA3Z1gtc3ZVU3hwM3UxbF95RkZwbU5acWZ2aUFmTEJVazc2ZXJzR21uS0dpQlktZ3J3cnZJRnd4clFsYkdRelUxRWptRnJRUFFoRjNJNEMyeUZqZjNpUy1v0gHkAUFVX3lxTE43TlBTTjBKbGJsNi1qdWxMbUtqSlRoSmZlT3YtUzhxMV9QU0xZNXRQOWdTV1dYMGdzVzZNR1lKN3FOYm90MFdJSGcybUFwMWJXUVJHVWRtdGJBMU5YZ0VwM1dkRHZ2Y2U0bk0xLXBKelcwQkk1RkFNRHg1a0k0N0Y3elVOUnBjTVVKUFBoNmEyQ2NiOGQxQm9hcHBnZ3lVZ1lJNEo0SDAweEFoT1ZIRUt1YTEtNERYTm9XMTNQTlZjdGtSbzR6bEdqQUhXbmIzMHJjeG5MMjZJMUJBd01qTlUxX0lsOA?oc=5": 1795428650.988751,
-  "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRmtjaHd5SDM2X1pseXUtOG9RNGlWSGhVN3YxWlBxY1BGVDhyRDN1YTdwTHhkZUZuaXZtMllBSHFQY055Q05WS1lCLUd2cnUzcXRrdHJMa1E5eElHVHhiWnFWMlhjUVZGaExOUUlQYUs3cUtlNmZOSzNUeExaNE92aFdvYWRsdXNZeEdCaWhyT2QtR3V2SHVuYWoyR1FTTm5lRTIySm84RVpwU3BoSVdFV2h0bU1QSUpDdGt6eWNnN0Y1S2c2aUpEalI1MXAxUWk1ZFBUbkRZVDkxZ3JqekZj0gHfAUFVX3lxTE9Ga2Nod3lIMzZfWmx5dS04b1E0aVZIaFU3djFaUHFjUEZUOHJEM3VhN3BMeGRlRm5pdm0yWUFIcVBjTnlDTlZLWUItR3ZydTNxdGt0ckxrUTl4SUdUeGJacVYyWGNRVkZoTE5RSVBhSzdxS2U2Zk5LM1R4TFo0T3ZoV29hZGx1c1l4R0JpaHJPZC1HdXZIdW5hajJHUVNObmVFMjJKbzhFWnBTcGhJV0VXaHRtTVBJSkN0a3p5Y2c3RjVLZzZpSkRqUjUxcDFRaTVkUFRuRFlUOTFncmp6RmM?oc=5": 1795428650.988751,
-  "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOWTAwQV81dVNlRU5udF9NUGlOWVZTVkF2SndKd2RWTUFIRExNLWVBV3NxQTZpcDhIM1hPNk9sb3NkcVlLYU9wYXlLdWpreDlITFRzbjFXTGpmdlBWNzRxUmY4WHZtVlo0UG56SDJ4eXdiYl93TzcxcVd3UVdHTW8yMnlKbUlUZHJvS24ySV8wcFYwX3pjVEloNUE3X3d4Qm5CZFVGS2ZNeXFXcEZJRW9UZ2NmM0hIWFNzMGJOYUw0WlJHNWpNOExqa0ltRGkwUVoxR2c?oc=5": 1795428650.988751,
-  "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTFk1SWd0Zk1ZRlcwRjFid2MtV0gtMjNvejhXYy1tODl5Vi04TnJVRFZyLWF0a09pYXQ2aUU5a2FuQmFMQS1qdy0zMkxLa1Z2TVE5REJvNHdMS3k5Y2Q5SENwSWk3T0kxM04yZ0RvZE1WNTZBelZqd3JkNFJxbGRsek90RE1oZw?oc=5": 1795428650.988751,
   "https://www.ujyaaloonline.com/detail/133781": 1795429264.7371786,
   "https://gorkhapatraonline.com/news/230109": 1795429264.7371786,
   "https://nagariknews.nagariknetwork.com/politics/pm-shah-pays-courtesy-call-on-indian-president-murmu-14-37.html": 1795429264.7371786,
@@ -2546,77 +2539,10 @@
   "https://nagariknews.nagariknetwork.com/economy/nepse-rises-for-third-consecutive-day-trading-volume-also-increases-27-52.html": 1795600885.720202,
   "https://english.onlinekhabar.com/govt-proposes-raising-citizen-investment-trusts-authorised-capital-to-rs-10-billion.html": 1795600885.720202,
   "http://english.ratopati.com/story/88199/businessmen-object-to-implementation-of-meat-inspection-law-demand-infrastructure-construction": 1795600885.720202,
-  "https://www.setopati.com/kinmel/others/403359": 1795600885.720202
+  "https://www.setopati.com/kinmel/others/403359": 1795600885.720202,
+  "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUkZISndtbG1HZWpzc1lhSDNVWWtzYW9LWWhzNEJKd25LeGxYaEZUOGZXbE00Mng4QUdqMWNNMXY0S3luM25FaWN0UFRGWWpzZ053QldXam10UVRFV1hTVjZmYVJEUTJiQ1o4RjVsTnBZTnJYcXFpOFJ0RUFZVXhJV2dPY05ZNnFvV3BFMDRyb3dRNGswVE15bVZla2xkb1pySFAwT19TenZpNURlVzJfZjltWm1CbTFtQUxLOC01SGlIZWZZTVA4UTQ1MjZvTUk?oc=5": 1795601454.8416667
  },
  "queue": [
-  {
-   "title": "आज तरकारी र फलफूलको मूल्य कति छ ?",
-   "summary": "कालीमाटी फलफूल तथा तरकारी बजार विकास समितिले आजका लागि कृषि उपजको थोक मूल्य सार्वजनिक गरेको छ।",
-   "link": "https://nagariknews.nagariknetwork.com/Bazar/what-is-the-price-of-vegetables-and-fruits-today-br-81-86.html",
-   "source": "Nagarik News",
-   "ts": 1795572270,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1771468675_tarkari.jpg",
-   "lang": "ne",
-   "hl": "आज तरकारी र फलफूलको मूल्य कति छ ?",
-   "en": "आज तरकारी र फलफूलको मूल्य कति छ ?",
-   "ne": "आज तरकारी र फलफूलको मूल्य कति छ ?",
-   "imp": 2,
-   "tags": [
-    "VegetablePrice",
-    "Market",
-    "तरकारी"
-   ],
-   "cat": "economy",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "Knowing History Key To Progress",
-   "summary": "The progress of a state relies on many interacting factors, such as its history, economic base, leadership, public parti...",
-   "link": "https://risingnepaldaily.com/news/89002",
-   "source": "Rising Nepal",
-   "ts": 1795572200,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Knowing History Key To Progress",
-   "en": "Knowing History Key To Progress",
-   "ne": "Knowing History Key To Progress",
-   "imp": 1,
-   "tags": [
-    "History",
-    "Progress"
-   ],
-   "cat": "world",
-   "val": 1,
-   "teaser": false,
-   "hits": 3
-  },
-  {
-   "title": "फिनल्याण्डको खाडीमा रूसी पानीजहाजमा भएको हमला युक्रेनले गरेको पुष्टि",
-   "summary": "तर युक्रेनको बलियो समर्थक नर्वेले भने यस्ता सैन्य कारबाही गर्दा सावधानी अपनाउन र अन्तर्राष्ट्रिय कानुनको पालना गर्न सुझाव दिएको छ।",
-   "link": "https://www.setopati.com/politics/403320",
-   "source": "Setopati",
-   "ts": 1795572095,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "फिनल्याण्डको खाडीमा रूसी पानीजहाजमा भएको हमला युक्रेनले गरेको पुष्टि",
-   "en": "फिनल्याण्डको खाडीमा रूसी पानीजहाजमा भएको हमला युक्रेनले गरेको पुष्टि",
-   "ne": "फिनल्याण्डको खाडीमा रूसी पानीजहाजमा भएको हमला युक्रेनले गरेको पुष्टि",
-   "imp": 1,
-   "tags": [
-    "Russia",
-    "Ukraine",
-    "GulfOfFinland"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
   {
    "title": "राजीव गान्धीको हत्याबारे राहुलले लगाए यस्तो आरोप",
    "summary": "",
@@ -9096,7 +9022,7 @@
    "cat": "world",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "कांग्रेस केन्द्रीय समिति बैठकमा बजाइयो राष्ट्रिय खेलकुदको सिग्नेचर गीत",
@@ -12358,7 +12284,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1795600928,
+ "updated": 1795601458,
  "pending_since": 1795600885.720202,
  "fb_blocks": [
   1790350880.4125228,
