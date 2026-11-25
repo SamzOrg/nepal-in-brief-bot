@@ -1,8 +1,5 @@
 {
  "seen": {
-  "http://english.ratopati.com/story/87847/agricultural-trade-with-india-requires-diplomatic-understanding-and-technology-not-a-written-ban": 1795410083.1074526,
-  "https://english.khabarhub.com/2026/23/576662/": 1795410083.1074526,
-  "https://kathmandupost.com/national/2026/11/23/pm-shah-receives-guard-of-honour-in-new-delhi": 1795410083.1074526,
   "http://english.ratopati.com/story/87850/pm-shah-receives-state-honours-at-rashtrapati-bhavan-modi-gives-warm-welcome": 1795410648.302849,
   "https://www.ujyaaloonline.com/detail/133768": 1795410648.302849,
   "https://baahrakhari.com/detail/508045": 1795410648.302849,
@@ -2769,7 +2766,12 @@
   "http://english.ratopati.com/story/88153/rukum-west-fined-and-banned-for-failing-to-play-kava-volleyball": 1795582252.1410196,
   "http://english.ratopati.com/story/88152/heart-tests-for-2500-children-in-mandandepur": 1795582252.1410196,
   "http://english.ratopati.com/story/88151/hearing-of-writ-petition-against-appointment-of-ani-choing-dolma-in-bench-of-judge-bagchand": 1795582252.1410196,
-  "http://english.ratopati.com/story/88150/sitaram-kattel-dhurmus-is-now-a-singer": 1795582252.1410196
+  "http://english.ratopati.com/story/88150/sitaram-kattel-dhurmus-is-now-a-singer": 1795582252.1410196,
+  "https://www.setopati.com/kinmel/economy/403315": 1795582883.8200426,
+  "https://english.onlinekhabar.com/goods-worth-rs-2-2-million-seized-in-birgunj.html": 1795582883.8200426,
+  "https://gorkhapatraonline.com/news/230332": 1795582883.8200426,
+  "https://nagariknews.nagariknetwork.com/social-affairs/supreme-court-hearing-on-karki-s-reinstatement-today-53-85.html": 1795582883.8200426,
+  "https://nagariknews.nagariknetwork.com/social-affairs/two-arrested-with-2-kg-348-grams-of-gold-hidden-in-anus-and-underwear-br-67-85.html": 1795582883.8200426
  },
  "queue": [
   {
@@ -3467,29 +3469,6 @@
    "hits": 1
   },
   {
-   "title": "Faith, folk dances and festivities at Rukum West's Digre Mela",
-   "summary": "The annual fair at the Digre Sai Kumari Temple drew an estimated 100,000 devotees this year, bringing together communities for worship, traditional performances and celebration.",
-   "link": "https://kathmandupost.com/visual-stories/2026/11/25/faith-folk-dances-and-festivities-at-rukum-west-s-digre-mela-1795567926",
-   "source": "Kathmandu Post",
-   "ts": 1795554078.7656724,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Faith, folk dances and festivities at Rukum West's Digre Mela",
-   "en": "Faith, folk dances and festivities at Rukum West's Digre Mela",
-   "ne": "Faith, folk dances and festivities at Rukum West's Digre Mela",
-   "imp": 2,
-   "tags": [
-    "RukumWest",
-    "DigreMela",
-    "Festival"
-   ],
-   "cat": "culture",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "कैलालीबाट १५ हजार ८५२ क्विन्टल धान खरिद",
    "summary": "खाद्य व्यवस्था तथा व्यापार कम्पनी लिमिटेडको प्रादेशिक कार्यालय धनगढीले कैलालीका छवटा खरिद उपकेन्द्रमार्फत किसानबाट १५ हजार ८५२ क्विन्टल धान खरिद गरेको छ।...",
    "link": "https://nagariknews.nagariknetwork.com/economy/15-852-quintals-of-paddy-purchased-from-kailali-br-10-16.html",
@@ -3555,29 +3534,6 @@
    ],
    "cat": "politics",
    "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "10th National Games kick off with two national records shattered in swimming",
-   "summary": "Bishal Kumal and Lily Bohra bettered the records in 50m breaststroke and women's 400m individual medley, respectively.",
-   "link": "https://kathmandupost.com/sports/2026/11/25/10th-national-games-kick-off-with-two-national-records-shattered-in-swimming",
-   "source": "Kathmandu Post",
-   "ts": 1795554078.7656724,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "10th National Games kick off with two national records shattered in swimming",
-   "en": "10th National Games kick off with two national records shattered in swimming",
-   "ne": "10th National Games kick off with two national records shattered in swimming",
-   "imp": 3,
-   "tags": [
-    "NationalGames",
-    "Swimming",
-    "Records"
-   ],
-   "cat": "sports",
-   "val": 3,
    "teaser": false,
    "hits": 1
   },
@@ -4536,7 +4492,7 @@
    "cat": "crime",
    "val": 3,
    "teaser": false,
-   "hits": 3
+   "hits": 4
   },
   {
    "title": "Lumbini Province Chief Minister Stresses Need for Behavioral Change to End Gender Violence",
@@ -4916,7 +4872,7 @@
    "cat": "disaster",
    "val": 3,
    "teaser": false,
-   "hits": 5
+   "hits": 6
   },
   {
    "title": "युक्रेनसँगको युद्धमा साढे ७ लाख रूसी सैनिक मारिएको अनुमान",
@@ -5348,7 +5304,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 3
+   "hits": 4
   },
   {
    "title": "पाँच वर्षदेखि सडक अलपत्र",
@@ -5624,7 +5580,7 @@
    "cat": "economy",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "महाकालीमा तटबन्ध निर्माणको माग",
@@ -6635,17 +6591,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1794977456.8192532,
-   "en": "Kathmandu Ranks 11th Among World's Most Polluted Cities with AQI of 158",
-   "ne": "Kathmandu Ranks 11th Among World's Most Polluted Cities with AQI of 158",
-   "link": "http://english.ratopati.com/story/87056/kathmandu-ranks-11th-in-the-list-of-most-polluted-cities-in-the-world",
-   "source": "Ratopati EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "society"
-  },
   {
    "ts": 1794979263.1769671,
    "en": "Nepal Needs USD 121B+ for Climate Adaptation and Mitigation by 2050",
@@ -9672,8 +9617,8 @@
    "cat": "politics"
   }
  ],
- "updated": 1795582299,
- "pending_since": null,
+ "updated": 1795582887,
+ "pending_since": 1795582883.8200426,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
