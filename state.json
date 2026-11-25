@@ -2769,7 +2769,9 @@
   "https://baahrakhari.com/detail/508233": 1795575684.842162,
   "https://www.setopati.com/social/403322": 1795575684.842162,
   "https://gorkhapatraonline.com/news/230308": 1795575684.842162,
-  "http://english.ratopati.com/story/88136/agreement-to-operate-two-way-air-routes-from-bhairahawa-is-welcome-bhattarai": 1795576257.2605488
+  "http://english.ratopati.com/story/88136/agreement-to-operate-two-way-air-routes-from-bhairahawa-is-welcome-bhattarai": 1795576257.2605488,
+  "https://news.google.com/rss/articles/CBMizwFBVV95cUxPY0VXemR6elZYSjV5NGR1ZThjd3FVYmFldy11YmhQV2k3QlFBU3QyTDg0SDJ4dnVFaUx3NW10Y012ZUFkclJYVjhuX3NqMkh1Rl9aNkplaTIwak5JdnY3aUFzZDNDaEtEcE5OSExNTnZ3YkI4RDdYdzhfTVA1dnpGQzlKUkFPaVJCSlFraDJOZjg1WW96MDlPc0hla1BfMUU3RzNQYzBkTVpHWFdDbWdEMTBMZURqbFgyUmJ3eUEtdDJLUGVHQTk1ZzNIX3JtNzg?oc=5": 1795576847.1073823,
+  "https://theannapurnaexpress.com/story/69044": 1795576847.1073823
  },
  "queue": [
   {
@@ -2975,30 +2977,6 @@
    ],
    "cat": "education",
    "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "German cyclist on Berlin-to-Nepal expedition died in southern Iraq crash",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBCVG5IN18teG9SaWtxUUZzdkxIUWdfTkRUaEdjQ3NVdWNiMzRYLTFmWjZvUmcwc1RzT1ZPTDZGajMwbzdIOTh4NXRITkFsZzhxM05reGhDOVRBb0VtbmJJbHhWaw?oc=5",
-   "source": "Rudaw",
-   "ts": 1795547946,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "German cyclist on Berlin-to-Nepal expedition died in southern Iraq crash",
-   "en": "German cyclist on Berlin-to-Nepal expedition died in southern Iraq crash",
-   "ne": "German cyclist on Berlin-to-Nepal expedition died in southern Iraq crash",
-   "imp": 1,
-   "tags": [
-    "Germany",
-    "Nepal",
-    "Cyclist",
-    "Accident"
-   ],
-   "cat": "world",
-   "val": 3,
    "teaser": false,
    "hits": 1
   },
@@ -3553,7 +3531,7 @@
    "cat": "economy",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "Iran sets conditions for talks",
@@ -3968,29 +3946,6 @@
    "hits": 2
   },
   {
-   "title": "NEPSE's Real Problem Is Uncertainty",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNS3RScldhX0xlLVVmTUFsZmVpSzVOekR4X1U3WVNKeXNRZEdMODVTbEttbjNRRVRLTGFRN2VqcXh2eEF3RXJ1WC10QW50Q1JzMUQ1emxqQU1YM1c1TVpUWjY1ZV9USzRZbm9FbkFVRHJ3NmFKbExFVllaTlI1SkNtU0tGa0RXQmRKSV9YTEZoM3lOdFE?oc=5",
-   "source": "myRepublica",
-   "ts": 1795567366,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "NEPSE's Real Problem Is Uncertainty",
-   "en": "NEPSE's Real Problem Is Uncertainty",
-   "ne": "NEPSE's Real Problem Is Uncertainty",
-   "imp": 3,
-   "tags": [
-    "NEPSE",
-    "StockMarket",
-    "Economy"
-   ],
-   "cat": "economy",
-   "val": 2,
-   "teaser": false,
-   "hits": 2
-  },
-  {
    "title": "China's Huawei convicted in sprawling US criminal trial over Iran business",
    "summary": "A New York jury finds the Chinese telecommunications giant guilty of 10 criminal counts, including bank fraud, sanctions violations and conspiring to steal trade secrets from US companies.",
    "link": "https://kathmandupost.com/science-technology/2026/11/25/china-s-huawei-convicted-in-sprawling-us-criminal-trial-over-iran-business",
@@ -4124,7 +4079,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Why India-Pakistan cricket matches keep coming despite political tensions",
@@ -8170,9 +8125,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "politics"
+  },
+  {
+   "ts": 1795576852.2644215,
+   "en": "NEPSE drops to 2,587 by early October amid policy uncertainty and market shifts",
+   "ne": "NEPSE drops to 2,587 by early October amid policy uncertainty and market shifts",
+   "link": "https://myrepublica.nagariknetwork.com/news/nepses-real-problem-is-uncertainty-41-34.html",
+   "source": "myRepublica",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "economy"
   }
  ],
- "updated": 1795576261,
+ "updated": 1795576863,
  "pending_since": 1795575047.1709116,
  "fb_blocks": [
   1790350880.4125228,
