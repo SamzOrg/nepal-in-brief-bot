@@ -2756,7 +2756,8 @@
   "https://baahrakhari.com/detail/508245": 1795585854.307387,
   "https://nagariknews.nagariknetwork.com/international/swiss-diplomat-ordered-to-leave-north-korea-within-48-hours-87-75.html": 1795585854.307387,
   "https://kathmandupost.com/world/2026/11/25/china-s-shenzhou-24-docks-at-space-station-with-pakistani-national-as-first-foreign-astronaut": 1795585854.307387,
-  "https://english.onlinekhabar.com/hamas-internal-security-chief-killed-in-israeli-airstrike-in-gaza.html": 1795585854.307387
+  "https://english.onlinekhabar.com/hamas-internal-security-chief-killed-in-israeli-airstrike-in-gaza.html": 1795585854.307387,
+  "https://baahrakhari.com/detail/508247": 1795586483.1578066
  },
  "queue": [
   {
@@ -6527,7 +6528,7 @@
    "cat": "economy",
    "val": 3,
    "teaser": false,
-   "hits": 5
+   "hits": 6
   },
   {
    "title": "सेनेगल नै अफ्रिका कप अफ नेसन्सको विजेता, खोसिएको उपाधि फिर्ता",
@@ -7297,17 +7298,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1794981079.4612029,
-   "en": "Three Dead, 13 Injured in Separate Road Accidents in Mustang and Sindhuli",
-   "ne": "Three Dead, 13 Injured in Separate Road Accidents in Mustang and Sindhuli",
-   "link": "http://english.ratopati.com/story/87086/three-people-die-in-separate-road-accidents",
-   "source": "Ratopati EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "disaster"
-  },
   {
    "ts": 1794982859.7661872,
    "en": "चार महिनामा ३ खर्ब ७५ अर्ब राजस्व संकलन, पुँजीगत खर्च ७ प्रतिशतमा सीमित",
@@ -10334,7 +10324,7 @@
    "cat": "economy"
   }
  ],
- "updated": 1795585898,
+ "updated": 1795586493,
  "pending_since": 1795585854.307387,
  "fb_blocks": [
   1790350880.4125228,
