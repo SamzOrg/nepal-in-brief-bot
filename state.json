@@ -1,11 +1,5 @@
 {
  "seen": {
-  "http://english.ratopati.com/story/87984/nvidia-ceo-jensen-huang-reinstated-after-trump-pressure": 1795450265.2545815,
-  "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSUFuZWdLZkNKSGFHMnV2VWxiREJ1U0tveXo4UjFBQWJ2d1Bqa3N4cGRNOGhPQVI3a3B5Qkl4NEdQdnF0MlF0OGd0TjBXZVBaU3dsbVlNQ1J4cFRocUl1NHJJSXVxU05HVmxqZEQyOVZJZnVGSU5TaDRmZ3Z2Njdzb1Z5UnpzSEF1OHpXOFBuNVFOTjNUakdsWlVYdjZyQ1pQVXlfbURUeW1SUWRuc0phbG1NcEkyY3lsa0ZjMElIWlBLRWp3MUlDaUxEd3VlbVlaeXpQY2V30gHjAUFVX3lxTE1vWk1qbzhLNnZaenpjTTQ3ZjYtejl2d25NdWlKZWtuSFpTNUxGUWJudV9Vd05GZWE5SjE4N2ZDNWdkNmJGQVBUUGdMR3JvTFJqb2NyYUZobnhOcUxhOXc4OWVvR2V2akpFdFpObGR6aHhMSHdqZk9udU9DR0JTOExhM3dNbElsMnNVaWNxRFB4VkY4TkJXRUg0WGUzLVZvZXZTZExjcG9jUktmREtlOU1BTFk1Y0xjSE41bVNISGdNLVRDeHk4NEpRdGIyNGY3SFZieE5fZXMzdW1xd0xxWUw2R1FB?oc=5": 1795450265.2545815,
-  "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMExoTG1vVEV5dlU4eTJHOExmb2RqOVZoY3FtWEk2aXJTT1J1YTRMbHhvemJkTE9HWXQxbXUwRUE3QXBWMzkwY0trckNDWjVqNmdub2s0RUtCZ1lCYzlaT0tBdF90VzA0MDNNU085eG9JdkZ0V1k0YjNBendTX3dJbGROak5QQWhpcWhlUHVtdVRSZDI0NVVKS0VLMGNxalhXS3V1bVFzbkRTdEExUmc?oc=5": 1795450265.2545815,
-  "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZmkwZjA4T0pUWkc4QXpYa1JZM2stanVnaGxDNjhIQjlYVU5PUzViT1NjcjNLNFNaY3R1QlNZTTdIR1lLa01FcmYybHNEcDF5NXRrQnJDUER1cXQ3Z0djaDI2RUZTd0ZRVnR3eVJxN2ZqZ1RKWE9BbXU4eU1HSzY5YV9sWFhfcl94YVp6Z1NDa1NtYUVBSm1veDg0cWIyZUU4QWo3NWtmVUtqcHRlT1Fmd1dfRVdOR2xkTExkV0dsWUV6akNLY2JIV1FCeWdkY3FabmRGRWI2clNWcjA5SDB4LTc3NElRRXVQVTJrVNIB8gFBVV95cUxQcW9QQnlodGRJcU5meXByeU55aDBlc0JvSjk0RjJObFNkR2lxclBrUjVFOTZ1NnJIWXJ0b2szMVhFVGluSDExQi1aQkpONUF3ZVd0cE9HdkNZTFd6TkhJT01GVEJQbVdaTVNKSWlKMG1CSTZHOEI1LVlYWjJ1akVDSTQ5RGcwZnFjOHFUOXBDRi1ZUVdhZ1ZOR012VlBYaThXcGVCZWU0X1ZkRkJRR0lTSjgwYUdoVnhSSjlucUlXWEx0N1VOMDhoTkYydVdjamxqMjBKZjlDdW1OSkpjaFdjT0VTX0VCRjB1YWFqbHJNZlN4UQ?oc=5": 1795450265.2545815,
-  "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZFhjZ0FGMVF4bTMwcVBydjdHUTVkUmRBZFEyMFd5STdsYzlXSS1hbkt6YThJZkJMaG5TRE5nU2tsbnJZUGFBVHFuNWptWEJ3bGZSSzhadFNtSkZBSl9nSGFldzk4cUVCbkFhT3ZKdGFVLXh4Tjc2N3FYNHowYWtkNlQ1cTlzX2ZsNUw2Wk5mTWlZRjNjckpGbk1nY0RrRDVONU5KMnFqNGl6dlAzRGM1eHpiTTJXQ3BqbWY5Nm1RcjBLaEJEaktGdA?oc=5": 1795450265.2545815,
-  "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONEtPenhscC0xUGpqMktOYm54VkYtNUVZeTFYTGJEM1ZXb2kxNGpwN2h6QXBhdHpFNGlWTjBXZTZCQ01VYnN3YkJTMTZmNzhUNE90NS1hXzJYRlcyeGhvWUdOUzhHMVVUYlpBeGgwZ2JqdThGT3hyWmlXSVBLWG1MMVdDUXpraEdPMjduampJZmJCSzZXT1F5cXRyMnc5OTFncm1nTWx1SkdFQzjSAVpBVV95cUxOMkhzNGx1bVJscHFTRjZkczZqNWl4dk5BaXQ2ajl4VHpTZXBHcmlXSWttVFNrMVBraTR4Z2dJdG9pY2JNcVhRdDdNa1pPU3V0Y3NQSWdmby1mX1E?oc=5": 1795450265.2545815,
   "https://gorkhapatraonline.com/news/230144": 1795450865.910749,
   "https://news.google.com/rss/articles/CBMiakFVX3lxTE1uQVRfSnRFdHNwbXFzaHAtVmc1U1VSVEZuX3FaUUhGa2NQS01XWkEtMUI1bktreE5yLW1QZW9QZUJHdEpDN1RqbjJkVWkxWE4tSjlYUDlhT3FNbEVJTjlZRlM2Wk5iNjNJUUE?oc=5": 1795450865.910749,
   "https://news.google.com/rss/articles/CBMibkFVX3lxTFA3azVQRllWcVNWWnJjUi0xNVNtTVlXd2RJbUNuLVM4ZDdDTksxU05CMkhyclAzQVlQYmNBV3VLaDN6djBwWDI4enRjUjk0eFNDWGsxUXhFZ1NOa2tKQkRESTZmUXlCS1BabmdPN0pn?oc=5": 1795450865.910749,
@@ -2274,31 +2268,10 @@
   "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWXFpRmp4czdTeXRMQ2E2SnR0bjRaZXMtVjd0WDFTTXAtUjF0OXpGSkhqcnpaUVJYTjkzNXhYZXZQM2NCajY3dlp1dzRlODlTY1VWLTgwczhDWUUzU2VnU3VubWxwUkUwYzUxRlVNT2x3WkQ4ZEZuNkhlOFhKNE9UMkt3REE0cTFieVNUUWpHdTVMSlY4aTJ1OE5iUzF3Z3lnb2RPdU80OXBDY2RqUEg5bjl6MGNmVThGNzNqWmZaRQ?oc=5": 1795621256.380744,
   "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5GTXZ1NGF0VVRMTU5wTnBXbFl6VThUd0J0dDVMZDBjSnZQVS1lMHBIeG5JUVQtSTN4dnhjUjdCa0xScjNwREU5ZnlvVkd3aGJQTWNpb0tHRQ?oc=5": 1795622496.1806488,
   "https://news.google.com/rss/articles/CBMitAFBVV95cUxPd25VRkl5cTZvb3JFLW1OeVRfUW5GU1NPaGstSlhhci1ROE5hbWdfX2NoakJEOEpaa0Y2eFNaWnl5UTlKSEVqSVR5WExJcllha3Y2dzl6RjZNbzhRdERWYW1QT0g0UE9QeW1wSUdqUXpRNlJlb0pXZHFocHZnQkRZcExpZlg0U1ljTnZ5ODlzaDlZODZmazBqYmhHMjFXemhrUW1vZE9YOTBTcDBxdUUwcGNJT2c?oc=5": 1795622496.1806488,
-  "https://news.google.com/rss/articles/CBMie0FVX3lxTE1oX3ZLR1pkZXpCd1JfOWJDbEoxbkVxYm54dVRDTF9aVE90ZXpQSkxQMmlicUVlQ2tJc3BzMENuVVhsWkgwRkZJOGpvLWs2LW9CYkhyajJieUNuaGJ0MWpFSGhMdkZFb2REaUQ3azV4UXFUUElfUGR6N2VzNA?oc=5": 1795622496.1806488
+  "https://news.google.com/rss/articles/CBMie0FVX3lxTE1oX3ZLR1pkZXpCd1JfOWJDbEoxbkVxYm54dVRDTF9aVE90ZXpQSkxQMmlicUVlQ2tJc3BzMENuVVhsWkgwRkZJOGpvLWs2LW9CYkhyajJieUNuaGJ0MWpFSGhMdkZFb2REaUQ3azV4UXFUUElfUGR6N2VzNA?oc=5": 1795622496.1806488,
+  "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbm0zNVB6ZEFJUU9Rb21fR25mREx6Wk5WZFUtaUg5QkNSOXh2d092SHlFR05hRWZXcmxseXluSC11MDFRLU1FZFVfbkhNMm1za21KeUNKQXVPSlMxUGlya2NKSjlmTmY1UC1TbjR2U1BSa2x2MXZiVTJHREkwd0lZQ0ViR1ItZmJFM0dsY3ptTW50WkRtb2lUUnFJUWdjaWFrQXl3?oc=5": 1795623664.6978817
  },
  "queue": [
-  {
-   "title": "14-year-old boy dies after being run over by tractor in Dhanusha",
-   "summary": "Kathmandu, November 25 A 14-year-old boy died after being run over by a tractor in Dhanusha district. The deceased has been identified as Jisanta Kumar Mandal, son of Ram Kumar Mandal of Rudauli, Hansapur...",
-   "link": "https://english.onlinekhabar.com/14-year-old-boy-dies-after-being-run-over-by-tractor-in-dhanusha.html",
-   "source": "Onlinekhabar EN",
-   "ts": 1795594819,
-   "weight": 3,
-   "img": "http://english.onlinekhabar.com/wp-content/uploads/2022/06/dead-body.jpg",
-   "lang": "en",
-   "hl": "14-year-old boy dies after being run over by tractor in Dhanusha",
-   "en": "14-year-old boy dies after being run over by tractor in Dhanusha",
-   "ne": "14-year-old boy dies after being run over by tractor in Dhanusha",
-   "imp": 2,
-   "tags": [
-    "Dhanusha",
-    "TeenFatality"
-   ],
-   "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
   {
    "title": "१०औँ राष्ट्रिय खेलकुद : महिला क्रिकेटमा वाग्मतीको विजयी सुरुआत",
    "summary": "",
@@ -2393,75 +2366,6 @@
    "hits": 1
   },
   {
-   "title": "India & Nepal Sign MoU to Strengthen Healthcare Partnership",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRVlGdU1iaDMzWHJiRkd5VUhEeGNISFg1TU8yMVlGaFFpMERENEx5UkloRzZnaEZ0azFEbWI4VVZpTFdOZllrN3Rpb3NnVjZGdjZhWEdSbWJsTEhpd0lNRGw5TGtnWUhFRkxYSnkzUnVoUGx1SEs5VzhhZFhFMnlmTFNCMHNOWTNZTUJzVTFyOUxoRWlwbXc?oc=5",
-   "source": "Digital Health News",
-   "ts": 1795594320,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "India & Nepal Sign MoU to Strengthen Healthcare Partnership",
-   "en": "India & Nepal Sign MoU to Strengthen Healthcare Partnership",
-   "ne": "India & Nepal Sign MoU to Strengthen Healthcare Partnership",
-   "imp": 3,
-   "tags": [
-    "India",
-    "Nepal",
-    "Healthcare",
-    "MoU"
-   ],
-   "cat": "health",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "त्रिवि सम्बन्धनका कलेजले अरूका कार्यक्रम चलाउन नपाउने, स्वघोषणा बुझाउन निर्देशन",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/508265",
-   "source": "Baahrakhari",
-   "ts": 1795594306,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "त्रिवि सम्बन्धनका कलेजले अरूका कार्यक्रम चलाउन नपाउने, स्वघोषणा बुझाउन निर्देशन",
-   "en": "त्रिवि सम्बन्धनका कलेजले अरूका कार्यक्रम चलाउन नपाउने, स्वघोषणा बुझाउन निर्देशन",
-   "ne": "त्रिवि सम्बन्धनका कलेजले अरूका कार्यक्रम चलाउन नपाउने, स्वघोषणा बुझाउन निर्देशन",
-   "imp": 3,
-   "tags": [
-    "TribhuvanUniversity",
-    "Education"
-   ],
-   "cat": "education",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "तीन दिदीबहिनीको हत्या भएको दिन कसरी बन्यो लैंगिक हिंसाविरूद्ध अन्तर्राष्ट्रिय दिवस?",
-   "summary": "अहिले नेपालमा पनि सञ्चालन हुँदै आएको लैंगिक हिंसाविरूद्धको १६ दिने अभियानको सुरूआत यसरी भएको हो।",
-   "link": "https://www.setopati.com/special-stories/international-feature/403342",
-   "source": "Setopati",
-   "ts": 1795593847,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "तीन दिदीबहिनीको हत्या भएको दिन कसरी बन्यो लैंगिक हिंसाविरूद्ध अन्तर्राष्ट्रिय दिवस?",
-   "en": "तीन दिदीबहिनीको हत्या भएको दिन कसरी बन्यो लैंगिक हिंसाविरूद्ध अन्तर्राष्ट्रिय दिवस?",
-   "ne": "तीन दिदीबहिनीको हत्या भएको दिन कसरी बन्यो लैंगिक हिंसाविरूद्ध अन्तर्राष्ट्रिय दिवस?",
-   "imp": 2,
-   "tags": [
-    "GenderBasedViolence",
-    "Society",
-    "WomenRights"
-   ],
-   "cat": "society",
-   "val": 1,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Man arrested with 384 kgs of adulterated honey in Kathmandu",
    "summary": "Kathmandu, November 25 Police have arrested a man from Tokha, Kathmandu, on charges of producing and selling honey adulterated with inedible substances. A police team deployed from the Kathmandu District Police Range...",
    "link": "https://english.onlinekhabar.com/man-arrested-with-384-kgs-of-adulterated-honey-in-kathmandu.html",
@@ -2504,99 +2408,6 @@
     "Economy"
    ],
    "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "होटलमा आगलागी हुँदा ४३ लाख बरावरको क्षति",
-   "summary": "सरिता दाहालहेटौडा, मंसिर ९ गते । मकवानपुरको हेटौडा उपमहानगरपालिका -५ मा रहेको एक होटलमा आगलागी हुँदा ४३ लाख बराबरको क्षति भएको जिल्ला प्रहरी कार्यालय मकवानपुरले जनाएको छ।प्रहरीका अ...",
-   "link": "https://gorkhapatraonline.com/news/230357",
-   "source": "Gorkhapatra",
-   "ts": 1795594851,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/393321/conversions/aagolagi1-original.jpg",
-   "lang": "ne",
-   "hl": "होटलमा आगलागी हुँदा ४३ लाख बरावरको क्षति",
-   "en": "होटलमा आगलागी हुँदा ४३ लाख बरावरको क्षति",
-   "ne": "होटलमा आगलागी हुँदा ४३ लाख बरावरको क्षति",
-   "imp": 2,
-   "tags": [
-    "Fire",
-    "Hotel",
-    "Disaster"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Bagmati Provincial Assembly meeting called after 3 months",
-   "summary": "Hetauda, November 25 The 19th meeting of the eighth session of the Bagmati Provincial Assembly has been scheduled. The provincial assembly had not convened since Chief Minister Kiran Thapa took a vote of confidence...",
-   "link": "https://english.onlinekhabar.com/bagmati-provincial-assembly-meeting-called-after-3-months.html",
-   "source": "Onlinekhabar EN",
-   "ts": 1795594528,
-   "weight": 3,
-   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/11/Bagmati-pradesh-sabha-bhawan-pani-chuhiyo1-1024x640-1.jpg",
-   "lang": "en",
-   "hl": "Bagmati Provincial Assembly meeting called after 3 months",
-   "en": "Bagmati Provincial Assembly meeting called after 3 months",
-   "ne": "Bagmati Provincial Assembly meeting called after 3 months",
-   "imp": 2,
-   "tags": [
-    "Bagmati",
-    "ProvincialAssembly",
-    "Politics"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Cricket Association of Nepal President Chatur Bahadur Chand Discusses NPL, ICC Recognition, and Future of Nepali Cricket",
-   "summary": "Kathmandu. Edited excerpts of a conversation with Nepal Cricket Association (CAN) President Chatur Bahadur Chand about the third edition of...",
-   "link": "http://english.ratopati.com/story/88200/question-to-can-president-chand-who-is-in-control-of-npl",
-   "source": "Ratopati EN",
-   "ts": 1795594545,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/cover-recovered-recovered-recovered_cxbIH1o5su.webp",
-   "lang": "en",
-   "hl": "Cricket Association of Nepal President Chatur Bahadur Chand Discusses NPL, ICC Recognition, and Future of Nepali Cricket",
-   "en": "Cricket Association of Nepal President Chatur Bahadur Chand Discusses NPL, ICC Recognition, and Future of Nepali Cricket",
-   "ne": "Cricket Association of Nepal President Chatur Bahadur Chand Discusses NPL, ICC Recognition, and Future of Nepali Cricket",
-   "imp": 3,
-   "tags": [
-    "CAN",
-    "ChaturBahadurChand",
-    "Cricket",
-    "NPL"
-   ],
-   "cat": "sports",
-   "val": 2,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "गोरखामा बस र ट्रक ठोक्किँदा १७ जना घाइते",
-   "summary": "अस्मिता सिंखडागोरखा, मङ्सिर ९ गते । गोरखा-आँबुखैरेनी सडकखण्डअन्तर्गत गोरखा नगरपालिका-१३ स्थित पाँचकिलोमा बुधबार बिहान बस र ट्रक एकआपसमा ठोक्किँदा चालकसहित १७ जना घाइते भएका छन् ।गो...",
-   "link": "https://gorkhapatraonline.com/news/230356",
-   "source": "Gorkhapatra",
-   "ts": 1795594540,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/393320/conversions/Gorkha-accident-original.jpg",
-   "lang": "ne",
-   "hl": "गोरखामा बस र ट्रक ठोक्किँदा १७ जना घाइते",
-   "en": "गोरखामा बस र ट्रक ठोक्किँदा १७ जना घाइते",
-   "ne": "गोरखामा बस र ट्रक ठोक्किँदा १७ जना घाइते",
-   "imp": 3,
-   "tags": [
-    "Gorkha",
-    "RoadAccident",
-    "BusCrash"
-   ],
-   "cat": "disaster",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -2667,29 +2478,6 @@
     "नागरिकलगानीकोष"
    ],
    "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "बौद्धिक अपाङ्गता भएका बालबालिका पढ्न सक्छन् भनेर प्रश्न गर्नु गलत छः डंगोल",
-   "summary": "गोरखापत्र अनलाइनकाठमाडौँ, मंसिर ९ गते । काठमाडौँ महानगरपालिकाकी कार्यवाहक प्रमुख सुनिता डंगोलले अटिजम, बौद्धिक अपाङ्गता भएका बालबालिकाले पढ्न सक्छन् त ? भनेर समाजमा गरिने प्रश्न नै...",
-   "link": "https://gorkhapatraonline.com/news/230355",
-   "source": "Gorkhapatra",
-   "ts": 1795594163,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/393318/conversions/s-1111-original.jpg",
-   "lang": "ne",
-   "hl": "बौद्धिक अपाङ्गता भएका बालबालिका पढ्न सक्छन् भनेर प्रश्न गर्नु गलत छः डंगोल",
-   "en": "बौद्धिक अपाङ्गता भएका बालबालिका पढ्न सक्छन् भनेर प्रश्न गर्नु गलत छः डंगोल",
-   "ne": "बौद्धिक अपाङ्गता भएका बालबालिका पढ्न सक्छन् भनेर प्रश्न गर्नु गलत छः डंगोल",
-   "imp": 2,
-   "tags": [
-    "SunitaDangol",
-    "Disability",
-    "काठमाडौं"
-   ],
-   "cat": "society",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -3661,29 +3449,6 @@
    "hits": 1
   },
   {
-   "title": "इरानविरुद्धको युद्धका लागि जनवरीसम्म बजेट सुरक्षितः ट्रम्प",
-   "summary": "न्युयोर्क पोस्ट' सँगको अन्तर्वार्तामा ट्रम्पले आगामी महिनासम्म सैन्य अभियानका लागि रकम उपलब्ध भए पनि राजनीतिक विरोधले त्यसलाई कमजोर बनाउन सक्ने चिन्ता व्यक्त गरेका हुन्।...",
-   "link": "https://nagariknews.nagariknetwork.com/international/trump-says-budget-secured-for-war-against-iran-until-january-54-16.html",
-   "source": "Nagarik News",
-   "ts": 1795594500,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2026/third-party/1795072520_trump.jpg",
-   "lang": "ne",
-   "hl": "इरानविरुद्धको युद्धका लागि जनवरीसम्म बजेट सुरक्षितः ट्रम्प",
-   "en": "इरानविरुद्धको युद्धका लागि जनवरीसम्म बजेट सुरक्षितः ट्रम्प",
-   "ne": "इरानविरुद्धको युद्धका लागि जनवरीसम्म बजेट सुरक्षितः ट्रम्प",
-   "imp": 1,
-   "tags": [
-    "DonaldTrump",
-    "Iran",
-    "USA"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 3
-  },
-  {
    "title": "कांग्रेस केन्द्रीय समिति बैठकमा बजाइयो राष्ट्रिय खेलकुदको सिग्नेचर गीत",
    "summary": "नेपाली कांग्रेसको केन्द्रीय कार्यसमिति बैठकको दोस्रो दिनको सुरूवात १० औँ राष्ट्रिय खेलकुद प्रतियोगिताको 'सिग्नेचर गीत' बजाएर गरिएको छ।",
    "link": "https://www.setopati.com/politics/403368",
@@ -3834,28 +3599,6 @@
     "Concert"
    ],
    "cat": "culture",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Stakeholders Oppose Meat Inspection Law Implementation Without Infrastructure",
-   "summary": "Kathmandu. Stakeholders related to the Livestock Purchase and Sale Association and the meat business have objected, stating that the government...",
-   "link": "http://english.ratopati.com/story/88199/businessmen-object-to-implementation-of-meat-inspection-law-demand-infrastructure-construction",
-   "source": "Ratopati EN",
-   "ts": 1795594370,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/santosh_rFRxkbgFpx.webp",
-   "lang": "en",
-   "hl": "Stakeholders Oppose Meat Inspection Law Implementation Without Infrastructure",
-   "en": "Stakeholders Oppose Meat Inspection Law Implementation Without Infrastructure",
-   "ne": "Stakeholders Oppose Meat Inspection Law Implementation Without Infrastructure",
-   "imp": 2,
-   "tags": [
-    "MeatInspection",
-    "Infrastructure"
-   ],
-   "cat": "economy",
    "val": 2,
    "teaser": false,
    "hits": 1
@@ -7403,20 +7146,32 @@
    "val": 3,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "Presumed Malaysian Deaths in Nepal Floods Subject to Kathmandu Laws",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbm0zNVB6ZEFJUU9Rb21fR25mREx6Wk5WZFUtaUg5QkNSOXh2d092SHlFR05hRWZXcmxseXluSC11MDFRLU1FZFVfbkhNMm1za21KeUNKQXVPSlMxUGlya2NKSjlmTmY1UC1TbjR2U1BSa2x2MXZiVTJHREkwd0lZQ0ViR1ItZmJFM0dsY3ptTW50WkRtb2lUUnFJUWdjaWFrQXl3?oc=5",
+   "source": "Malaysia-China Insight",
+   "ts": 1795606777,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "Presumed Malaysian Deaths in Nepal Floods Subject to Kathmandu Laws",
+   "en": "Presumed Malaysian Deaths in Nepal Floods Subject to Kathmandu Laws",
+   "ne": "Presumed Malaysian Deaths in Nepal Floods Subject to Kathmandu Laws",
+   "imp": 3,
+   "tags": [
+    "Floods",
+    "Malaysia",
+    "Kathmandu"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1795017715.5245428,
-   "en": "Nepal and India to unveil 10-point partnership vision during PM Balendra Shah's India visit on Nov 22-23",
-   "ne": "Nepal and India to unveil 10-point partnership vision during PM Balendra Shah's India visit on Nov 22-23",
-   "link": "https://kathmandupost.com/politics/2026/11/18/nepal-india-to-unveil-10-point-vision-for-partnership-during-pm-s-visit",
-   "source": "The Kathmandu Post",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "politics"
-  },
   {
    "ts": 1795019484.8695056,
    "en": "Prez Paudel marks Mahadevtar Tunnel's breakthrough",
@@ -10476,7 +10231,7 @@
    "cat": "politics"
   }
  ],
- "updated": 1795622607,
+ "updated": 1795623674,
  "pending_since": 1795622496.1806488,
  "fb_blocks": [
   1790350880.4125228,
