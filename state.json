@@ -2319,28 +2319,6 @@
    "hits": 1
   },
   {
-   "title": "Dhanusha Police Arrest 5 Fugitives with Warrants",
-   "summary": "Janakpurdham. Dhanusha police have arrested 5 defendants who were absconding after being sentenced to imprisonment and fines by the court....",
-   "link": "http://english.ratopati.com/story/88263/5-absconding-defendants-arrested-in-dhanusha",
-   "source": "Ratopati EN",
-   "ts": 1795608745,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/crime-arrest-group_96fmorhkhe_7WoDTETOAR.jpg",
-   "lang": "en",
-   "hl": "Dhanusha Police Arrest 5 Fugitives with Warrants",
-   "en": "Dhanusha Police Arrest 5 Fugitives with Warrants",
-   "ne": "Dhanusha Police Arrest 5 Fugitives with Warrants",
-   "imp": 2,
-   "tags": [
-    "Dhanusha",
-    "PoliceArrest"
-   ],
-   "cat": "crime",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "अर्थतन्त्रमा बागमतीको दबदबा, कर्णालीको योगदान ४.२ प्रतिशत मात्रै",
    "summary": "भेषराज बेल्बासेकाठमाडौं, मङ्सिर ९ गते । राष्ट्रिय अर्थतन्त्रमा बागमती प्रदेशको योगदान ३६.७१ प्रतिशत पुग्दा कर्णालीको हिस्सा ४.२० प्रतिशतमा सीमित भएको छ । नेपाल राष्ट्र बैंकको आर्थि...",
    "link": "https://gorkhapatraonline.com/news/230378",
@@ -2428,28 +2406,6 @@
    "val": 2,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "आईजीपीमा फर्काउने कार्कीको मागमा सर्वोच्चले दिएन अन्तरिम आदेश",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/508290",
-   "source": "Baahrakhari",
-   "ts": 1795608660,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "आईजीपीमा फर्काउने कार्कीको मागमा सर्वोच्चले दिएन अन्तरिम आदेश",
-   "en": "आईजीपीमा फर्काउने कार्कीको मागमा सर्वोच्चले दिएन अन्तरिम आदेश",
-   "ne": "आईजीपीमा फर्काउने कार्कीको मागमा सर्वोच्चले दिएन अन्तरिम आदेश",
-   "imp": 3,
-   "tags": [
-    "SupremeCourt",
-    "IGP"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "पर्सामा २९ हजार ५ सय ६८ मतदाता बढे",
@@ -2624,28 +2580,6 @@
    ],
    "cat": "sports",
    "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "२ वटा डाटाबेस चुहावटबाट साढे ३ अर्बभन्दा धेरै विवरण सार्वजनिक",
-   "summary": "एउटा डाटाबेसमा चीनसँग सम्बन्धित १ अर्बभन्दा धेरै विवरणहरू रहेका छन् ।",
-   "link": "https://www.ujyaaloonline.com/detail/133847",
-   "source": "Ujyaalo",
-   "ts": 1795608720,
-   "weight": 2,
-   "img": "https://www.ujyaaloonline.com/uploads/posts/cyber_attack_bsaCMWv8Ho.jpg",
-   "lang": "ne",
-   "hl": "२ वटा डाटाबेस चुहावटबाट साढे ३ अर्बभन्दा धेरै विवरण सार्वजनिक",
-   "en": "२ वटा डाटाबेस चुहावटबाट साढे ३ अर्बभन्दा धेरै विवरण सार्वजनिक",
-   "ne": "२ वटा डाटाबेस चुहावटबाट साढे ३ अर्बभन्दा धेरै विवरण सार्वजनिक",
-   "imp": 3,
-   "tags": [
-    "DataLeak",
-    "PersonalInfo"
-   ],
-   "cat": "crime",
-   "val": 3,
    "teaser": false,
    "hits": 1
   },
@@ -7474,7 +7408,7 @@
    "cat": "crime"
   }
  ],
- "updated": 1795637454,
+ "updated": 1795638057,
  "pending_since": null,
  "fb_blocks": [
   1790350880.4125228,
