@@ -2208,7 +2208,9 @@
   "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOWV4UTNNRUtXNktZR0hweTV2YVl1VzA2Qkc2Wi1sOHRIaEJZZ1JxdlNtdW1mX3dZYThXT1Y5TVRvXzItOEJNRVA1NEhvX1ZKRXYxcEdqQnZBMzRERjBBMmctT3ltU1BzNTRFWkNrSlVfem84TlBWcjFSYWpwRUdiSEFNNnZCSmZieGhQSFRSTVFCS2NtLW9Bd0g2bw?oc=5": 1795661447.978392,
   "https://gorkhapatraonline.com/news/230420": 1795661447.978392,
   "https://baahrakhari.com/detail/508318": 1795661447.978392,
-  "https://baahrakhari.com/detail/508317": 1795661447.978392
+  "https://baahrakhari.com/detail/508317": 1795661447.978392,
+  "https://baahrakhari.com/detail/508321": 1795662075.5142016,
+  "https://www.setopati.com/social/403408": 1795662075.5142016
  },
  "queue": [
   {
@@ -2256,29 +2258,6 @@
    "val": 3,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "PM Modi says India-Nepal relationship is rooted in a deep sense of belonging and unwavering trust",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdDItWDVEaVFQUHdRZXNGeldFejhPTWdXbGFjdmRsNWxfMFFadUJ2Y1MyWlZyam44eVZtU2QydmVWUFVBcnpMLXpUcFZIVEhNUndDMF9Rel9xR0lXWndZOUtlNDF1NG1QT3BrY2tSOWRySGpIU05RYXhoclVqNXRpY3hXRGpaT1VpM015eGdnWmZGQ0xGVXNhNHhGQktoUDBEeVNta004YzNBWU1FaC1aSW9FVGo5VDZxMlQzWnZ4Si0?oc=5",
-   "source": "News On AIR",
-   "ts": 1795633122,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "PM Modi says India-Nepal relationship is rooted in a deep sense of belonging and unwavering trust",
-   "en": "PM Modi says India-Nepal relationship is rooted in a deep sense of belonging and unwavering trust",
-   "ne": "PM Modi says India-Nepal relationship is rooted in a deep sense of belonging and unwavering trust",
-   "imp": 3,
-   "tags": [
-    "NarendraModi",
-    "Nepal",
-    "India"
-   ],
-   "cat": "politics",
-   "val": 2,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "Nepal Rastra Bank Sets Today's Foreign Exchange Rates",
@@ -3674,29 +3653,6 @@
    "hits": 2
   },
   {
-   "title": "बोलेरो र ट्याक्टर ठोक्किँदा एक जनाको मृत्यु, १३ घाइते",
-   "summary": "काठमाडौँ, मङ्सिर १० गते । नवलपरासी (बर्दघाट सुस्ता पूर्व)को मध्यबिन्दु नगरपालिका-११ बाहुनिकुनामा बोलेरो पिकअप र ट्याक्टर एकापसमा ठोक्किँदा एक जनाको मृत्यु भएको छ भने १३ जना घाइते भ...",
-   "link": "https://gorkhapatraonline.com/news/230419",
-   "source": "Gorkhapatra",
-   "ts": 1795659061,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/393403/conversions/accident-original.jpg",
-   "lang": "ne",
-   "hl": "बोलेरो र ट्याक्टर ठोक्किँदा एक जनाको मृत्यु, १३ घाइते",
-   "en": "बोलेरो र ट्याक्टर ठोक्किँदा एक जनाको मृत्यु, १३ घाइते",
-   "ne": "बोलेरो र ट्याक्टर ठोक्किँदा एक जनाको मृत्यु, १३ घाइते",
-   "imp": 4,
-   "tags": [
-    "CarAccident",
-    "Traffic",
-    "सवारीदुर्घटना"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "बार्सिलोनाको सहज जित",
    "summary": "स्पेनिस क्लब बार्सिलोनाले यूईएफए च्याम्पियन्स लिगमा अजरबैजानको सबाह एफसीविरुद्ध ४-१ को सहज जित दर्ता गरेको छ ।",
    "link": "https://baahrakhari.com/detail/508316",
@@ -4309,20 +4265,32 @@
    "val": 2,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "इजिप्टमा पेट्रोलियम पदार्थ बोकेको ट्यांकरमा आगलागी हुँदा ३१ जनाको मृत्यु",
+   "summary": "इजिप्टको राजधानी कायरोनजिकै पेट्रोलियम पदार्थ बोकेको ट्यांकर दुर्घटनामा परेर आगलागी हुँदा कम्तीमा ३१ जनाको मृत्यु भएको छ।",
+   "link": "https://www.setopati.com/social/403408",
+   "source": "Setopati",
+   "ts": 1795661712,
+   "weight": 3,
+   "img": null,
+   "lang": "ne",
+   "hl": "इजिप्टमा पेट्रोलियम पदार्थ बोकेको ट्यांकरमा आगलागी हुँदा ३१ जनाको मृत्यु",
+   "en": "इजिप्टमा पेट्रोलियम पदार्थ बोकेको ट्यांकरमा आगलागी हुँदा ३१ जनाको मृत्यु",
+   "ne": "इजिप्टमा पेट्रोलियम पदार्थ बोकेको ट्यांकरमा आगलागी हुँदा ३१ जनाको मृत्यु",
+   "imp": 1,
+   "tags": [
+    "Egypt",
+    "PetroleumTanker",
+    "Fire"
+   ],
+   "cat": "world",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1795056664.3162909,
-   "en": "Nepal Government Removes Inspector General Dan Bahadur Karki Before Tenure End",
-   "ne": "Nepal Government Removes Inspector General Dan Bahadur Karki Before Tenure End",
-   "link": "https://kathmandupost.com/editorial/2026/11/18/stop-the-repeated-arbitrary-removal-of-police-leadership",
-   "source": "Kathmandu Post",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "politics"
-  },
   {
    "ts": 1795058461.9451077,
    "en": "Nepal Road Accidents Kill 182 and Injure Over 3,700 in First 18 Days of November",
@@ -7380,10 +7348,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "politics"
+  },
+  {
+   "ts": 1795662096.665433,
+   "en": "नवलपरासीमा बोलेरो र ट्याक्टर ठोक्किँदा १ जनाको मृत्यु, १३ घाइते",
+   "ne": "नवलपरासीमा बोलेरो र ट्याक्टर ठोक्किँदा १ जनाको मृत्यु, १३ घाइते",
+   "link": "https://gorkhapatraonline.com/news/230419",
+   "source": "Gorkhapatra",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": true,
+   "cat": "disaster"
   }
  ],
- "updated": 1795661472,
- "pending_since": null,
+ "updated": 1795662110,
+ "pending_since": 1795662075.5142016,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
