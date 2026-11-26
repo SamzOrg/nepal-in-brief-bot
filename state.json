@@ -2075,7 +2075,8 @@
   "https://news.google.com/rss/articles/CBMic0FVX3lxTE1HdVlWYXAyNV9nNGIxMXN1UF9EYTV5Z25MNzBpdDRpVDROaVBXX3Z5akpONWxudlFCdTh6ZnJ3SWF6MHpwSXBkSHcyWDBmTXJoSk5sRXdxMXdiWi1KNFlkNExuYnlWa1RQcnl1a3FJNU9YN1U?oc=5": 1795733447.5795863,
   "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMDNpTTQ3UUV3Ung2TlVNWEtpUXlvT0ZTSzk5UGhCNE16V1VNN2FsdktPY0ZzZ2pjQzBNbFFtdTdRbWtJNVBtNkFQckpKQUhCdHRiV2E3bGNvQzRDUzhMaVhXNmc0U3ZWZjZIXzF1c1RGQWs5LTd4Wm5WcVBJVC0wV1FTaGtaRlIzLVc5M1RZa0d6dWtEcDJ1R19LVmV3QmJ3WWxwNGRma2p6UQ?oc=5": 1795734082.6852195,
   "https://news.google.com/rss/articles/CBMitAFBVV95cUxPemdTLXdFVEJSUGxVeE5BMnRsNjQ2VjBQZk5pcDFQMmtOLWtaaUg4dm9IaW1sdS12VlljODUyRDY0WlQzelZyYmV0TjBmd3FMSUZSLUszdHJ1a2gxOU5famttZHN3UEpGVzByR3ozX2VCNTNRbmdVdTE4NlprUUlRSmdyWlRWN25rcVBnbGxXa2lTcjY3QURCM1NKZ1RFLVYxNV9neWp2c2pkMzZKdXd0eW9UZVE?oc=5": 1795734082.6852195,
-  "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQLU5aa19fYkxHYkgzZFRsaDBIQnZSR0MxZjBuUHlLTC03TkdSVGFrUHJKY2ZNVUllRGJBYWc3WWhOd0VnZHFmMU5FN0VocDk4VVMzQzE4WEtJbmJnUGF0TnpSRlhBSEVXSUdEaVZDeEpJQ0cyRDJrX2FUNmlpakMxU3dUenRfWUtmZUM1WTdMUGhkaDNTeUxDcGtkaS1PQk1KN09PbmVIRnVseGpfa0I5aXJIQTZyYVI2eGJxcXktT0FHVy12UmxheHhpV09sQnlOZVAzbzRKV2VqU1hxeXBB?oc=5": 1795734649.3126657
+  "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQLU5aa19fYkxHYkgzZFRsaDBIQnZSR0MxZjBuUHlLTC03TkdSVGFrUHJKY2ZNVUllRGJBYWc3WWhOd0VnZHFmMU5FN0VocDk4VVMzQzE4WEtJbmJnUGF0TnpSRlhBSEVXSUdEaVZDeEpJQ0cyRDJrX2FUNmlpakMxU3dUenRfWUtmZUM1WTdMUGhkaDNTeUxDcGtkaS1PQk1KN09PbmVIRnVseGpfa0I5aXJIQTZyYVI2eGJxcXktT0FHVy12UmxheHhpV09sQnlOZVAzbzRKV2VqU1hxeXBB?oc=5": 1795734649.3126657,
+  "https://risingnepaldaily.com/news/89068": 1795737048.6433353
  },
  "queue": [
   {
@@ -2125,28 +2126,6 @@
    "hits": 1
   },
   {
-   "title": "Today's News in a Nutshell",
-   "summary": "KATHMANDU: Khabarhub brings you a glimpse of major developments of the day in Nepal, including politics, business/economy, sports, entertainment, and more. PM Balen, RSP Chair Rabi hold five-hour meeting Prime Minister...",
-   "link": "https://english.khabarhub.com/2026/26/577102/",
-   "source": "Khabarhub EN",
-   "ts": 1795707955,
-   "weight": 2,
-   "img": "https://english.khabarhub.com/wp-content/uploads/2024/05/News-Nutshell-640x360.jpg",
-   "lang": "en",
-   "hl": "Today's News in a Nutshell",
-   "en": "Today's News in a Nutshell",
-   "ne": "Today's News in a Nutshell",
-   "imp": 1,
-   "tags": [
-    "NewsNutshell",
-    "Nepal"
-   ],
-   "cat": "other",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
-  },
-  {
    "title": "दशौं राष्ट्रिय खेलकुद प्रतियोगिता : पदक तालिकामा वाग्मतीको अग्रता कायमै",
    "summary": "",
    "link": "https://baahrakhari.com/detail/508380",
@@ -2165,52 +2144,6 @@
     "खेलकुद"
    ],
    "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "मुस्ताङको जनवाल माविमा तीन भवन निर्माण हुँदै, ८० प्रतिशत लागत भारतीय दूतावासको",
-   "summary": "मुस्ताङको घरपझोङ गाउँपालिका-२ मार्फास्थित जनवाल माध्यमिक विद्यालयका तीन वटा भवनको शिलान्यास गरिएको छ।...",
-   "link": "https://nagariknews.nagariknetwork.com/education/foundation-stone-laid-for-three-buildings-of-janwal-secondary-school-in-mustang-under-indo-nepal-partnership-70-89.html",
-   "source": "Nagarik News",
-   "ts": 1795708197,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1795708099_20261126_133822.jpg",
-   "lang": "ne",
-   "hl": "मुस्ताङको जनवाल माविमा तीन भवन निर्माण हुँदै, ८० प्रतिशत लागत भारतीय दूतावासको",
-   "en": "मुस्ताङको जनवाल माविमा तीन भवन निर्माण हुँदै, ८० प्रतिशत लागत भारतीय दूतावासको",
-   "ne": "मुस्ताङको जनवाल माविमा तीन भवन निर्माण हुँदै, ८० प्रतिशत लागत भारतीय दूतावासको",
-   "imp": 2,
-   "tags": [
-    "Mustang",
-    "IndianEmbassy",
-    "मुस्ताङ"
-   ],
-   "cat": "education",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "सुकुम्बासीलाई होल्डिङ सेन्टरबाट हटाउने निर्णय फिर्ता लिन कांग्रेसको माग",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/508379",
-   "source": "Baahrakhari",
-   "ts": 1795707697,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "सुकुम्बासीलाई होल्डिङ सेन्टरबाट हटाउने निर्णय फिर्ता लिन कांग्रेसको माग",
-   "en": "सुकुम्बासीलाई होल्डिङ सेन्टरबाट हटाउने निर्णय फिर्ता लिन कांग्रेसको माग",
-   "ne": "सुकुम्बासीलाई होल्डिङ सेन्टरबाट हटाउने निर्णय फिर्ता लिन कांग्रेसको माग",
-   "imp": 3,
-   "tags": [
-    "NepaliCongress",
-    "Squatters",
-    "सुकुम्बासी"
-   ],
-   "cat": "politics",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -2578,30 +2511,6 @@
     "हिमाल"
    ],
    "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "20th edition of India-Nepal joint military exercise 'Surya Kiran' begins in Nepal",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaExuQVFaT19IVzNHSzJEZzFGUi1uSmNjeHlVempDSnkzSGhxMzU3cS04QTBybmx1TFZHc1VweF9DX20tMDE1dUhnQWNRTm90eFA0Q2d2d1JZZGRCMzNScm16U3F2SnpjdzFNV0FoZXhaaFE0VmFxQnN0blRVVnR6QWhyZlFERUtjX0RBeHFpUk1ZY2VpR2xxRVpqS25kNTZCVDl2QVNCclg?oc=5",
-   "source": "News On AIR",
-   "ts": 1795719366,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "20th edition of India-Nepal joint military exercise 'Surya Kiran' begins in Nepal",
-   "en": "20th edition of India-Nepal joint military exercise 'Surya Kiran' begins in Nepal",
-   "ne": "20th edition of India-Nepal joint military exercise 'Surya Kiran' begins in Nepal",
-   "imp": 3,
-   "tags": [
-    "India",
-    "Nepal",
-    "SuryaKiran",
-    "MilitaryExercise"
-   ],
-   "cat": "world",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -5803,9 +5712,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "tech"
+  },
+  {
+   "ts": 1795737060.28551,
+   "en": "20th edition of India-Nepal joint military exercise 'Surya Kiran' begins in Nepal",
+   "ne": "20th edition of India-Nepal joint military exercise 'Surya Kiran' begins in Nepal",
+   "link": "https://newsonair.gov.in/20th-edition-of-india-nepal-joint-military-exercise-surya-kiran-begins-in-nepal/",
+   "source": "News On AIR",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "world"
   }
  ],
- "updated": 1795736456,
+ "updated": 1795737072,
  "pending_since": 1795736453.5208557,
  "fb_blocks": [
   1790350880.4125228,
