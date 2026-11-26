@@ -2092,7 +2092,8 @@
   "https://baahrakhari.com/detail/508385": 1795711251.717925,
   "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZW5ReDBJSjAyZzUyWHlEQUV0VXF3WlJtQ05UaTgwVTNYZzJyYkFOd211SWZMZXcwVFBvSnRwRjNvRHhLd1p2eWFaNVE5amZXT3hEN1NkbDdva09fdGR0andZalFodXJCNHZvUWtzZDVzLWZpWEhWbUNOQktIQWg0SXREWHNTSF85ZHFPQnJyZG5MNjI5Z1JUWGZJN1FKVjQ?oc=5": 1795711251.717925,
   "https://baahrakhari.com/detail/508384": 1795711251.717925,
-  "https://baahrakhari.com/detail/508382": 1795711251.717925
+  "https://baahrakhari.com/detail/508382": 1795711251.717925,
+  "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOczEzcWRSSV8zV1NTSWFqTlEzUmRISVdxei1VdEhCSGc0ZERHdFcyVFg5MDVNZnRQRGRtU284R2huTlZPOXhtSEZMRzlLT3lLbHM5dFlTa1hhOXdiYWhucE4xdVlVeHd1X0dxejN2SXU2Q09KdkZWOTBJVlZ0a05nR2FuM0hINVRETlNPNXJxeGxkMEVMZ3c0R1BUMmIxLXNGY1pVa3NlWUo0QkdpV3A0T2hYTk5fNjlKTmt2YThZcUU?oc=5": 1795712486.6077497
  },
  "queue": [
   {
@@ -3221,29 +3222,6 @@
    "val": 2,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "कानुनमन्त्री सोबिताको मर्यादाक्रम बढाइयो, मन्त्रिपरिषदमा तेस्रो मर्यादा",
-   "summary": "बुधबार प्रधानमन्त्री बालेन्द्र शाहको सिफारिसमा राष्ट्रपति रामचन्द्र पौडेलले वरियताक्रम हेरफेर गरेका हुन्।",
-   "link": "https://www.setopati.com/politics/403457",
-   "source": "Setopati",
-   "ts": 1795689780,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "कानुनमन्त्री सोबिताको मर्यादाक्रम बढाइयो, मन्त्रिपरिषदमा तेस्रो मर्यादा",
-   "en": "कानुनमन्त्री सोबिताको मर्यादाक्रम बढाइयो, मन्त्रिपरिषदमा तेस्रो मर्यादा",
-   "ne": "कानुनमन्त्री सोबिताको मर्यादाक्रम बढाइयो, मन्त्रिपरिषदमा तेस्रो मर्यादा",
-   "imp": 3,
-   "tags": [
-    "SobitaGautam",
-    "Cabinet",
-    "మन्त्रिपरिषद्"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 7
   },
   {
    "title": "रैथाने खानाको प्रवर्द्धनले उत्साहित कालीकोटका किसान, भन्छन्: पहिले लाज लाग्थ्यो, अहिले आफ्नै खानाप्रति गर्व छ",
@@ -6016,29 +5994,6 @@
    "hits": 1
   },
   {
-   "title": "Nepal's Proposal to Allow 13-Year-Olds to Undertake Light Work Sparks Debate in Parliamentary Committee",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWUtyZ2R2aXUycGFfdk5nWjhrcjBURnZheGZLd1piQ0JqV0VkX2pWRTBXN1Ffa1J0WFB4amstNGFWeVhkLU9YdnlLNHIzdUxIc1J0R01KcjNzVnhaX24xZnZfdkoxRlRuejRhTENWVHdrNXpveGxMWUpGTU9jVVg0THRXUnNEc1QyeU5rQWExMWdxdw?oc=5",
-   "source": "Hindusthan Samachar English",
-   "ts": 1795683233,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Nepal's Proposal to Allow 13-Year-Olds to Undertake Light Work Sparks Debate in Parliamentary Committee",
-   "en": "Nepal's Proposal to Allow 13-Year-Olds to Undertake Light Work Sparks Debate in Parliamentary Committee",
-   "ne": "Nepal's Proposal to Allow 13-Year-Olds to Undertake Light Work Sparks Debate in Parliamentary Committee",
-   "imp": 3,
-   "tags": [
-    "ChildLabor",
-    "Parliament",
-    "Nepal"
-   ],
-   "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "'माई बडी, माई राइट' कहिलेदेखि ?",
    "summary": "अहिले पनि विवाहित महिलाले पुरुष तयार भएपछि यौनसम्पर्कका लागि तयार हुनुपर्ने बाध्यता रहेको बैठकमा सहभागी महिलाहरूको भनाइ थियो ।...",
    "link": "https://nagariknews.nagariknetwork.com/social-affairs/since-when-is-it-my-body-my-right-51-42.html",
@@ -6059,29 +6014,6 @@
    "cat": "society",
    "val": 1,
    "teaser": true,
-   "hits": 1
-  },
-  {
-   "title": "Nepal's Agriculture Minister Geeta Chaudhary Conducts Surprise Inspection of Meat Cold Storage Facilities",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbmF4b20xalBmSGYyQWdqUXk4NnZRejNvSjlRTXBRSGJjc2JhUFg3d2xXMUdfYUVXazlHRTA3UW0zaG0wTFRQelZ6NEF4Vi11RUlBc0trMXlEd2R6aWFVd2JJaWd1UzVvZk1ucFAxUXVIZE95TXNJUndFMENlNFp3V0ZQbWF1c0FEb1NZaUZESk1JUQ?oc=5",
-   "source": "Hindusthan Samachar English",
-   "ts": 1795683114,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Nepal's Agriculture Minister Geeta Chaudhary Conducts Surprise Inspection of Meat Cold Storage Facilities",
-   "en": "Nepal's Agriculture Minister Geeta Chaudhary Conducts Surprise Inspection of Meat Cold Storage Facilities",
-   "ne": "Nepal's Agriculture Minister Geeta Chaudhary Conducts Surprise Inspection of Meat Cold Storage Facilities",
-   "imp": 2,
-   "tags": [
-    "GeetaChaudhary",
-    "Agriculture",
-    "Inspection"
-   ],
-   "cat": "society",
-   "val": 3,
-   "teaser": false,
    "hits": 1
   },
   {
@@ -9693,9 +9625,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "sports"
+  },
+  {
+   "ts": 1795712496.0165,
+   "en": "कानुनमन्त्री सोबिता गौतमको मर्यादाक्रम बढाइयो, सातौं स्थानबाट तेस्रोमा",
+   "ne": "कानुनमन्त्री सोबिता गौतमको मर्यादाक्रम बढाइयो, सातौं स्थानबाट तेस्रोमा",
+   "link": "https://www.setopati.com/politics/403457",
+   "source": "Setopati",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "politics"
   }
  ],
- "updated": 1795711866,
+ "updated": 1795712509,
  "pending_since": 1795711862.9322042,
  "fb_blocks": [
   1790350880.4125228,
