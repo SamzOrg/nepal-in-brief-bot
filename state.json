@@ -1,11 +1,5 @@
 {
  "seen": {
-  "http://english.ratopati.com/story/88032/re-bidding-for-sunkoshi-marin-diversion-being-called-ministry-estimates-cost-may-decrease": 1795500080.5210295,
-  "http://english.ratopati.com/story/88031/hasina-prepares-to-return-to-bangladesh-on-december-16": 1795500080.5210295,
-  "https://nagariknews.nagariknetwork.com/economy/bagmati-government-to-mobilize-rs-6-billion-for-disaster-affected-areas-50-92.html": 1795500080.5210295,
-  "https://nagariknews.nagariknetwork.com/social-affairs/women-in-halesi-become-entrepreneurs-start-producing-hygiene-products-br-97-14.html": 1795500080.5210295,
-  "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdUZpeGgyREFWcWpjT28xczRzQ1ZabjI2anJTRjNzUVZQa3NzZG1tWWViaTRIZll0dnNSZ0hxV2k2RmlOaUllNWhHcUE4Y3gtRFhRNFhLeDU5dkJNa0c5NEJ1SVlwcS1DUGtWQVRRVzJpN1pwcXNfZjM2ZWhqUUo3UWdfN1N6ckc2djhLZmtLcDFlZ09wYXhsYXBTT3JOdGNILVdMdF9Yd0RBREJ5QlQxTlZKaEd4RHJ6RkRBaTNmZHfSAcABQVVfeXFMTnVGaXhoMkRBVnFqY09vMXM0c0NWWm4yNmpyU0Yzc1FWUGtzc2RtbVllYmk0SGZZdHZzUmdIcVdpNkZpTmlJZTVoR3FBOGN4LURYUTRYS3g1OXZCTWtHOTRCdUlZcHEtQ1BrVkFUUVcyaTdacHFzX2YzNmVoalFKN1FnXzdTenJHNnY4S2ZrS3AxZWdPcGF4bGFwU09yTnRjSC1XTHRfWHdEQURCeUJUMU5WSmhHeERyekZEQWkzZmR3?oc=5": 1795500080.5210295,
-  "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOOXVGZHFTUjdPMW1hRDd5UlM2VTZJTXE1ZXF0cDZGbVREWjVCalo5ODJDOHR4OTN2UHpSb1ZPWTZ3bElOcmFPVk41TzFGbTRCOUlEbkVjdklEOWtTaF9YdjZUOTNTR2dGSlhhM1E5LUVDTzltNXJCMGNYS2NCTEhMWVdQZE5VeVVBemUzWk9pS0xkekFJX3dsbHZTcWVoRkJUUllRVWJhSFhIcDJTLXNsYUM5d1FlWmtOS0NZSDlvLXNKQmg4a3NuNGdWTUxjY3NLZ2fSAdIBQVVfeXFMTjl1RmRxU1I3TzFtYUQ3eVJTNlU2SU1xNWVxdHA2Rm1URFo1QmpaOTgyQzh0eDkzdlB6Um9WT1k2d2xJTnJhT1ZONU8xRm00QjlJRG5FY3ZJRDlrU2hfWHY2VDkzU0dnRkpYYTNROS1FQ085bTVyQjBjWEtjQkxITFlXUGROVXlVQXplM1pPaUtMZHpBSV93bGx2U3FlaEZCVFJZUVViYUhYSHAyUy1zbGFDOXdRZVprTktDWUg5by1zSkJoOGtzbjRnVk1MY2NzS2dn?oc=5": 1795500080.5210295,
   "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZjlkWmhCeFRyZS1PdGFGUk1KN3g1MUczLVpIVEgzcExmYkhpMm9lWmVQS0lmTE82Tlp6Ym9KV001Q1hTVjdmNU1fZUNqN3AzcEI2a1RETk1ueXhCVnpva2VuNlNQMkszS0FTd3BGOFA5OHN0WE1wTFBTTXpsMVptRmZob3lQOU4tN1lnczRqTHdEc2tiemc?oc=5": 1795500651.5883589,
   "https://kathmandupost.com/nepali-diaspora/2026/11/24/over-600-nepali-workers-in-romania-report-pay-and-accommodation-dispute": 1795500651.5883589,
   "https://english.khabarhub.com/2026/24/576843/": 1795501250.5260224,
@@ -2175,7 +2169,9 @@
   "https://gorkhapatraonline.com/news/230456": 1795672879.202014,
   "https://www.setopati.com/kinmel/banking/403419": 1795672879.202014,
   "https://gorkhapatraonline.com/news/230455": 1795672879.202014,
-  "https://gorkhapatraonline.com/news/230454": 1795672879.202014
+  "https://gorkhapatraonline.com/news/230454": 1795672879.202014,
+  "https://gorkhapatraonline.com/news/230460": 1795673448.4295228,
+  "https://theannapurnaexpress.com/story/69083": 1795673448.4295228
  },
  "queue": [
   {
@@ -4387,7 +4383,7 @@
    "cat": "crime",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "क्रिकेटमा‍ अनौठो घटना- एक बल पनि नखेली ब्याटर बोल्ड आउट",
@@ -6486,17 +6482,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1795068101.1031494,
-   "en": "India Approves 615 MW Electricity Export From Nepal",
-   "ne": "India Approves 615 MW Electricity Export From Nepal",
-   "link": "https://english.onlinekhabar.com/india-approve-electricity-export.html",
-   "source": "Onlinekhabar EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "economy"
-  },
   {
    "ts": 1795069893.5702832,
    "en": "Kanchanpur Families of 26 Missing in Bhote Koshi Flood to Get Rs 2 Lakh Relief",
@@ -9567,8 +9552,8 @@
    "cat": "disaster"
   }
  ],
- "updated": 1795672904,
- "pending_since": null,
+ "updated": 1795673451,
+ "pending_since": 1795673448.4295228,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
