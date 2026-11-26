@@ -2204,7 +2204,9 @@
   "https://gorkhapatraonline.com/news/230397": 1795653649.401868,
   "https://baahrakhari.com/detail/508303": 1795653649.401868,
   "https://risingnepaldaily.com/news/89034": 1795654252.1643763,
-  "https://www.ujyaaloonline.com/detail/133852": 1795654252.1643763
+  "https://www.ujyaaloonline.com/detail/133852": 1795654252.1643763,
+  "https://english.khabarhub.com/2026/26/577062/": 1795654875.2333333,
+  "http://english.ratopati.com/story/88284/the-families-of-the-ukrainians-killed-are-unaware-whose-attack-took-their-lives": 1795654875.2333333
  },
  "queue": [
   {
@@ -2474,7 +2476,7 @@
    "cat": "economy",
    "val": 3,
    "teaser": false,
-   "hits": 3
+   "hits": 4
   },
   {
    "title": "Industrial credit piles up in Bagmati, other provinces trail far behind",
@@ -2905,20 +2907,32 @@
    "val": 1,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "BBC Journalist Investigates Family Deaths in Russia-Ukraine War",
+   "summary": "Ukraine. BBC journalist Anastasia Gribanova, who lost three family members in the Russia-Ukraine war, has investigated their deaths, examining events...",
+   "link": "http://english.ratopati.com/story/88284/the-families-of-the-ukrainians-killed-are-unaware-whose-attack-took-their-lives",
+   "source": "Ratopati EN",
+   "ts": 1795654340,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/pp_sAI2GveFX7.webp",
+   "lang": "en",
+   "hl": "BBC Journalist Investigates Family Deaths in Russia-Ukraine War",
+   "en": "BBC Journalist Investigates Family Deaths in Russia-Ukraine War",
+   "ne": "BBC Journalist Investigates Family Deaths in Russia-Ukraine War",
+   "imp": 1,
+   "tags": [
+    "BBC",
+    "RussiaUkraineWar",
+    "Journalism"
+   ],
+   "cat": "world",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1795049461.9024017,
-   "en": "काठमाडौंमा १२औँ नेपाल भौगर्भिक सम्मेलन सुरु, २७ देशका ३५० भूगर्भविद् सहभागी हुँदै",
-   "ne": "काठमाडौंमा १२औँ नेपाल भौगर्भिक सम्मेलन सुरु, २७ देशका ३५० भूगर्भविद् सहभागी हुँदै",
-   "link": "https://baahrakhari.com/detail/507689",
-   "source": "Baahrakhari",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "culture"
-  },
   {
    "ts": 1795051259.532823,
    "en": "Two Indian Youths Arrested in Sarlahi with Drugs and Bullets",
@@ -5978,7 +5992,7 @@
    "cat": "education"
   }
  ],
- "updated": 1795654278,
+ "updated": 1795654885,
  "pending_since": 1795654252.1643763,
  "fb_blocks": [
   1790350880.4125228,
