@@ -2082,50 +2082,6 @@
  },
  "queue": [
   {
-   "title": "CIT directed to submit detailed report on service expansion",
-   "summary": "Kathmandu, Nov 26: The Finance Committee under the House of Representatives has directed the Citizen Investment Trust (C...",
-   "link": "https://risingnepaldaily.com/news/89065",
-   "source": "Rising Nepal",
-   "ts": 1795703888,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "CIT directed to submit detailed report on service expansion",
-   "en": "CIT directed to submit detailed report on service expansion",
-   "ne": "CIT directed to submit detailed report on service expansion",
-   "imp": 2,
-   "tags": [
-    "CIT",
-    "ServiceExpansion"
-   ],
-   "cat": "economy",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "आगलागीबाट तीन घर जल्यो",
-   "summary": "जनार्जन खत्रीसर्लाही, मङ्सिर १० गते । सर्लाहीको बेग्लाबेग्लै तीन स्थानमा भएको आगलागीबाट तीन वटा घर जलेका छन् भने लाखौँको धनमाल नष्ट भएको छ । जिल्ला प्रहरी कार्यालय सर्लाहीका अनुसार...",
-   "link": "https://gorkhapatraonline.com/news/230520",
-   "source": "Gorkhapatra",
-   "ts": 1795703535,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/393543/conversions/Aaglagi-Photo-original.jpg",
-   "lang": "ne",
-   "hl": "आगलागीबाट तीन घर जल्यो",
-   "en": "आगलागीबाट तीन घर जल्यो",
-   "ne": "आगलागीबाट तीन घर जल्यो",
-   "imp": 3,
-   "tags": [
-    "आगलागी",
-    "Fire"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "बूढीगण्डकीको गोलचक्कर : दशकौँसम्म काम कागजमै, शिलान्यासपछि पनि विश्वस्त छैनन् स्थानीय",
    "summary": "",
    "link": "https://baahrakhari.com/detail/508377",
@@ -2236,29 +2192,6 @@
     "Economy"
    ],
    "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "म्याद सकिएको एक वर्ष बित्दासमेत मुग्लिन-मलेखु सडकको आधा काम बाँकी",
-   "summary": "पृथ्वी राजमार्गको नागढुंगा-मुग्लिन सडकखण्डको तेस्रो प्याकेजअन्तर्गत पर्ने मुग्लिन-मलेखु सडक विस्तारको सम्झौता अवधि सकिएको एक वर्ष पुग्दासमेत आधा काम हुन सकेको छैन।...",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/muglin-malekhu-road-expansion-work-slows-down-55-75.html",
-   "source": "Nagarik News",
-   "ts": 1795703676,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1795703481_1731927631_1720580989_naubise-1200x560-1200x560.jpg",
-   "lang": "ne",
-   "hl": "म्याद सकिएको एक वर्ष बित्दासमेत मुग्लिन-मलेखु सडकको आधा काम बाँकी",
-   "en": "म्याद सकिएको एक वर्ष बित्दासमेत मुग्लिन-मलेखु सडकको आधा काम बाँकी",
-   "ne": "म्याद सकिएको एक वर्ष बित्दासमेत मुग्लिन-मलेखु सडकको आधा काम बाँकी",
-   "imp": 3,
-   "tags": [
-    "MuglingMalekhu",
-    "Road",
-    "मुग्लिन"
-   ],
-   "cat": "economy",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -6082,7 +6015,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1795732271,
+ "updated": 1795732853,
  "pending_since": 1795732267.1468072,
  "fb_blocks": [
   1790350880.4125228,
