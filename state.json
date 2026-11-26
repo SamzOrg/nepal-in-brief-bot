@@ -1,10 +1,5 @@
 {
  "seen": {
-  "https://english.khabarhub.com/2026/24/576828/": 1795486849.7378864,
-  "https://baahrakhari.com/detail/508145": 1795486849.7378864,
-  "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYmVIRGhyNWpLRm1JSlRRRlg4WVkzcGNuSVpqWlQ2b2xLa19Db1BNV1N3Z0dISWhna1A0dWJuVWVqNVF0b0F0QmVheWY2SFBleW01SFBheWdqQl82c0hNbXcyeDhMUGNMYjc3Z2wySTlXT3o0QXFtR3JkT3ZCVFZnV09YRUJzbkU0d3d5QUdwUHg4U0hFbWZ4cy1IYmQ3bmhVTUpoYlFnbw?oc=5": 1795486849.7378864,
-  "https://news.google.com/rss/articles/CBMizAFBVV95cUxQemNCS3dFOG1iSDVmWXJyNUpjem1RN1g0bDd3RHZMdXNKUEtaZXlDRjl2dVotNHRLTGhlcUx3R05oMEpib0FZXzhEa0pialFlQ0tCQUNRU1dSeG5hYVRGeDk2SkhweGdOU25rYVRGOWZ4REFNaVJoYmdJa1FBLUZ2eXJ1eEFVc1NHLWtDcGZkMzFtaTNkTXJPaUdaUDczdEVnS2dKdUdyWndHV2RNMjRfaThqQk9mR1RYRHFUQjBxakY0bWVyT2F6dldNTXI?oc=5": 1795486849.7378864,
-  "https://www.setopati.com/social/403246": 1795486849.7378864,
   "https://nagariknews.nagariknetwork.com/social-affairs/5-6-magnitude-earthquake-near-olangchungola-taplejung-40-26.html": 1795487462.884619,
   "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdWpQSXFxTzFFanJpYmZZcFE5WHE5dXdNMW8yMDk3MVNVNjZ6MV9VMmIxSEdEck1iTFJYd0RzdVhqVWVkdFhneVYyTGpaY0pNZmlrRVhqc001MzVJT084TEJoQlJMNzhVRmc4a3hYc0QyMkp2bWJjR0ZqOTE2cVZTcmhaMHZ2T0djNUd4Zkl3?oc=5": 1795487462.884619,
   "https://baahrakhari.com/detail/508093": 1795487462.884619,
@@ -2219,7 +2214,11 @@
   "http://english.ratopati.com/story/88289/successful-testing-of-hybrid-rice-with-chinese-assistance": 1795659649.612284,
   "https://risingnepaldaily.com/news/89037": 1795659649.612284,
   "https://gorkhapatraonline.com/news/230416": 1795659649.612284,
-  "https://baahrakhari.com/detail/508313": 1795659649.612284
+  "https://baahrakhari.com/detail/508313": 1795659649.612284,
+  "http://english.ratopati.com/story/88295/prajwal-jung-pandey-elected-as-president-of-nepal-finland-chamber-emphasis-on-expanding-trade-and-investment-partnership": 1795660262.854488,
+  "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMDdyVnQwNC1pa0o5bE91WGdWOEhlaGo4aEZqZXFBUU5Xa1FncUw1YnlSS05ONlhkMWxsdFZXcXZ0dExnM3d0NS15Qms4Q3J6bXVGQm94RDF1cGlNV09uRXFGeF9tdHU3UHBkMEo5NGtDaXFwNmFub3VDdGY4MzRjLU1PYjhUdmYzVk5TM2FMRWJjOE1xLWJVMU9XQk1MdUJpWDVScDVDOUNHaTVzaFRuNC1ZUkpGQlF6aUcxaDAzdw?oc=5": 1795660262.854488,
+  "https://kathmandupost.com/money/2026/11/26/nepal-s-fossil-fuel-push-clashes-with-its-clean-energy-ambitions": 1795660262.854488,
+  "https://risingnepaldaily.com/news/89045": 1795660262.854488
  },
  "queue": [
   {
@@ -3997,20 +3996,31 @@
    "val": 3,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "Mine flood kills 3, traps 23",
+   "summary": "Jakarta, Nov. 26: Rescuers recovered three bodies Wednesday and searched for 23 other miners believed trapped by floodin...",
+   "link": "https://risingnepaldaily.com/news/89045",
+   "source": "Rising Nepal",
+   "ts": 1795659909,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "Mine flood kills 3, traps 23",
+   "en": "Mine flood kills 3, traps 23",
+   "ne": "Mine flood kills 3, traps 23",
+   "imp": 1,
+   "tags": [
+    "MineFlood",
+    "World"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1795054895.3247175,
-   "en": "बंगलादेशमा राजनीतिक हिंसा भड्किँदा ३ जनाको मृत्यु, प्रहरी चौकी र सांसदको घरमा आगजनी",
-   "ne": "बंगलादेशमा राजनीतिक हिंसा भड्किँदा ३ जनाको मृत्यु, प्रहरी चौकी र सांसदको घरमा आगजनी",
-   "link": "https://baahrakhari.com/detail/507694",
-   "source": "Baahrakhari",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "disaster"
-  },
   {
    "ts": 1795056664.3162909,
    "en": "Nepal Government Removes Inspector General Dan Bahadur Karki Before Tenure End",
@@ -7070,8 +7080,8 @@
    "cat": "economy"
   }
  ],
- "updated": 1795659697,
- "pending_since": null,
+ "updated": 1795660275,
+ "pending_since": 1795660262.854488,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
