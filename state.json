@@ -1,10 +1,5 @@
 {
  "seen": {
-  "https://english.onlinekhabar.com/train-from-ayodhya-receives-grand-welcome-in-janakpur-photos.html": 1795504849.884105,
-  "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWXVtbHRmU210NTZfcThHb3ZwQW9TMHFIbEY0TlI2QzhUNHlRVm8zSFlSeE5RZ2IzUi16VlhicE9ZdU1qX0IyYXVmUk90QUJKMkJvUWU1ZkFzNjRJdFRGcktsaGJnVDNzeTA4N2JhQWF3WXV6X0VpUWM5M2g4Vmp0SDBkcUlZendxVWplMy1FdUFjMGcyekJsVVpKaElXdkJ5Sl82d0xpN1kxbGZiVVpxRU9KVVI?oc=5": 1795504849.884105,
-  "https://theannapurnaexpress.com/story/69030": 1795504849.884105,
-  "http://english.ratopati.com/story/88049/11-killed-in-bus-truck-collision-in-uae": 1795504849.884105,
-  "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZkpMckVBSlQwUUZHalE2R2pjVUMwbGdHSF9oNk9TdzJmWDZ2a0dxQXZHZlI2V0stTWJ4ZndTZ25kT055Tm9vWDVVQTF5Nmt3YzhkOE1wZ2ZIcjlERGk1Z3BtQlVOcHZFWjVPZW8tWGlVR0xROHcyZ0V0bkUwZ0pkNzRqcDNJQUdMTHZYRldvU2tuTW9ITWE0?oc=5": 1795504849.884105,
   "https://gorkhapatraonline.com/news/230222": 1795505470.5926862,
   "http://english.ratopati.com/story/88053/56-billion-in-grants-and-184-billion-in-lines-of-credit-in-the-240-billion-package-with-india": 1795505470.5926862,
   "http://english.ratopati.com/story/88048/excessive-regulation-has-increased-the-burden-on-the-economy-15-old-acts-are-being-repealed-finance-minister-wagle": 1795505470.5926862,
@@ -2123,7 +2118,11 @@
   "https://gorkhapatraonline.com/news/230469": 1795677050.2815711,
   "https://gorkhapatraonline.com/news/230468": 1795677050.2815711,
   "https://gorkhapatraonline.com/news/230467": 1795677050.2815711,
-  "https://gorkhapatraonline.com/news/230466": 1795677050.2815711
+  "https://gorkhapatraonline.com/news/230466": 1795677050.2815711,
+  "https://nagariknews.nagariknetwork.com/social-affairs/former-chief-secretary-ek-narayan-aryal-arrested-17-64.html": 1795677653.1904032,
+  "https://news.google.com/rss/articles/CBMirwFBVV95cUxQejd5aDdRVndObGt3SEprOHFKcnpQSEt5Um9tbmdYTi01d3lFRTYxMjZOeElCWi1LZmZ4YkNRMWduX0Q4TnFjX25SV2JKeG1WTGRRdldlX0MxS2Y1Zkl1T3hYNzRvWVpscXpQcXBXVy1ibnFiS1Z1RzNrVGlKQ0V5em9YSHhUcHI3cmZjenM4ZVZIX1NFNFpPTFptNk9md2RRYmZnXzB2U1B6LWhDVnYw?oc=5": 1795677653.1904032,
+  "https://nagariknews.nagariknetwork.com/sports/10th-national-games-lumbini-eliminated-from-competition-after-defeat-to-madhesh-br-34-32.html": 1795677653.1904032,
+  "https://news.google.com/rss/articles/CBMisAFBVV95cUxPU1BWR1FfQTBuZ2NTNWZ6bEdzZVk2M1JORm9IQXpDY1I2ZlpKS3hLOV9tSHpqZ0xVcjROd213NHNvVW9vdFV6WHlrQ25yUHBWNkh0SXZBdWFLSFhoSGpDM0NQTEZfODlzeGxrWlFCNWtXa01PM2VmcnBBekRpMFFjMWZGaHIwaTk5SFk1VWdlS1hfRjd5N2VtTXVDSUdvYVpEdGtReTBQVkE1YkRuQkgyWQ?oc=5": 1795677653.1904032
  },
  "queue": [
   {
@@ -2169,28 +2168,6 @@
    "val": 3,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "FC Barcelona Secures 4-1 Victory Over Sabah in Champions League",
-   "summary": "Kathmandu. In a UEFA Champions League match held last night, FC Barcelona registered a spectacular 4-1 victory over Sabah. Anthony...",
-   "link": "http://english.ratopati.com/story/88280/barcelonas-stunning-victory-in-the-champions-league-defeating-sabah-4-1",
-   "source": "Ratopati EN",
-   "ts": 1795648564,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/barca_vxcLusPHhS.webp",
-   "lang": "en",
-   "hl": "FC Barcelona Secures 4-1 Victory Over Sabah in Champions League",
-   "en": "FC Barcelona Secures 4-1 Victory Over Sabah in Champions League",
-   "ne": "FC Barcelona Secures 4-1 Victory Over Sabah in Champions League",
-   "imp": 1,
-   "tags": [
-    "FCBarcelona",
-    "ChampionsLeague"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "Minister Timilsina inspects site for construction of film studio",
@@ -7142,7 +7119,7 @@
    "cat": "culture",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "RMC Foods Director Yash Agrawal honored",
@@ -7347,29 +7324,6 @@
    ],
    "cat": "world",
    "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Nepal moves to declare dead those still missing after August floods",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcGM3eWRYTkl3cFZacHI1RzFoWV9wam1rRUhSYjlmY1J2QktGclVIRkhybmdYaDhtQmlsX3pldkc3bXhMMk1SU3VHM1FnSmNsT2hKWFNNeXhTTU1mbjdVNHg5N3NNSm9oWFlmcVNSVXRPWGJGdktRSFc4N2QyNXJvd2ltcDJMWXllbzBualoycnpwWWd1aVZ6TDVDOVcwOUxybm1RdFZIMnVwU2R6dEtuc09WNGU?oc=5",
-   "source": "France 24",
-   "ts": 1795676356,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Nepal moves to declare dead those still missing after August floods",
-   "en": "Nepal moves to declare dead those still missing after August floods",
-   "ne": "Nepal moves to declare dead those still missing after August floods",
-   "imp": 4,
-   "tags": [
-    "Floods",
-    "Missing",
-    "Declaration"
-   ],
-   "cat": "disaster",
-   "val": 3,
    "teaser": false,
    "hits": 1
   },
@@ -7647,7 +7601,7 @@
    "cat": "sports",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "विशेष आर्थिक क्षेत्रसहित कोरला नाका विस्तारको माग",
@@ -10764,10 +10718,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "disaster"
+  },
+  {
+   "ts": 1795677657.692413,
+   "en": "Nepal moves to declare dead those still missing after August floods",
+   "ne": "Nepal moves to declare dead those still missing after August floods",
+   "link": "https://www.france24.com/en/live-news/20261126-nepal-moves-to-declare-dead-those-still-missing-after-august-floods",
+   "source": "France 24",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": true,
+   "cat": "disaster"
   }
  ],
- "updated": 1795677062,
- "pending_since": null,
+ "updated": 1795677668,
+ "pending_since": 1795677653.1904032,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
