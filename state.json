@@ -2120,7 +2120,12 @@
   "https://news.google.com/rss/articles/CBMisAFBVV95cUxPU1BWR1FfQTBuZ2NTNWZ6bEdzZVk2M1JORm9IQXpDY1I2ZlpKS3hLOV9tSHpqZ0xVcjROd213NHNvVW9vdFV6WHlrQ25yUHBWNkh0SXZBdWFLSFhoSGpDM0NQTEZfODlzeGxrWlFCNWtXa01PM2VmcnBBekRpMFFjMWZGaHIwaTk5SFk1VWdlS1hfRjd5N2VtTXVDSUdvYVpEdGtReTBQVkE1YkRuQkgyWQ?oc=5": 1795677653.1904032,
   "http://english.ratopati.com/story/88343/former-chief-secretary-aryal-arrested-in-india": 1795678273.046703,
   "https://www.ujyaaloonline.com/detail/133868": 1795678273.046703,
-  "https://baahrakhari.com/detail/508341": 1795678273.046703
+  "https://baahrakhari.com/detail/508341": 1795678273.046703,
+  "https://baahrakhari.com/detail/508344": 1795678850.1118782,
+  "https://www.ujyaaloonline.com/detail/133869": 1795678850.1118782,
+  "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSU5UM0xtZzhBc3VBMFo1eERfT0R1ZFlFenk1RXFBUEdCc0ZDaWczY2t2bWRBYjBDQ1NuMi10RVpTTjJEN21FZ3FqRkFVN0VCQTR0SFVneW9LcEtIUHVQODBXT3p2cWxBMTFWTjRVMzA2cTdsTlRNWHF0Nk1VQkRSTmZDTkJ3S2hXTzNVSGtNSG9Kc3k4RXYxaHB6X0JXU1czVnRJbWdGbmZiZVRkeHlDVU53?oc=5": 1795678850.1118782,
+  "https://nagariknews.nagariknetwork.com/education/artificial-intelligence-and-life-skills-to-be-included-in-school-curriculum-47-44.html": 1795678850.1118782,
+  "https://nagariknews.nagariknetwork.com/social-affairs/world-sustainable-transport-day-today-emphasis-on-the-importance-of-transport-in-sustainable-development-br-82-54.html": 1795678850.1118782
  },
  "queue": [
   {
@@ -2163,28 +2168,6 @@
     "Bagmati"
    ],
    "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Minister Timilsina inspects site for construction of film studio",
-   "summary": "By A Staff Reporter,Kathmandu, Nov. 26: Minister for Information and Communications Dr. Bikram Timilsina inspected the p...",
-   "link": "https://risingnepaldaily.com/news/89028",
-   "source": "Rising Nepal",
-   "ts": 1795649911,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Minister Timilsina inspects site for construction of film studio",
-   "en": "Minister Timilsina inspects site for construction of film studio",
-   "ne": "Minister Timilsina inspects site for construction of film studio",
-   "imp": 2,
-   "tags": [
-    "FilmStudio",
-    "Timilsina"
-   ],
-   "cat": "culture",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -3945,7 +3928,7 @@
    "cat": "world",
    "val": 3,
    "teaser": false,
-   "hits": 3
+   "hits": 4
   },
   {
    "title": "बूढीगण्डकी बाढीपीडितको सुरक्षित पुनर्वास र उचित क्षतिपूर्ति दिन सुझाव",
@@ -4216,29 +4199,6 @@
     "Switzerland"
    ],
    "cat": "world",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Five lessons in golf-and politics-for Prime Minister Balendra Shah",
-   "summary": "A golf expert offers lessons in leadership and governance for the prime minister, from setting a clear vision to knowing when to take risks.",
-   "link": "https://kathmandupost.com/art-culture/2026/11/26/five-lessons-in-golf-and-politics-for-prime-minister-balendra-shah",
-   "source": "Kathmandu Post",
-   "ts": 1795650049.6857958,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Five lessons in golf-and politics-for Prime Minister Balendra Shah",
-   "en": "Five lessons in golf-and politics-for Prime Minister Balendra Shah",
-   "ne": "Five lessons in golf-and politics-for Prime Minister Balendra Shah",
-   "imp": 3,
-   "tags": [
-    "BalendraShah",
-    "Golf",
-    "Politics"
-   ],
-   "cat": "politics",
    "val": 2,
    "teaser": false,
    "hits": 1
@@ -4834,7 +4794,7 @@
    "cat": "society",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "पूर्व-पश्चिम राजमार्गको कञ्चनपुर-कमला सडक निर्माण अन्तिम चरणमा",
@@ -7049,7 +7009,7 @@
    "cat": "society",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Historian Mahesh Raj Pant's book 'Rana' launched",
@@ -7599,21 +7559,10 @@
    "cat": "education",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   }
  ],
  "posted": [
-  {
-   "ts": 1795073491.4880543,
-   "en": "Two Former Labor Ministers Arrested in Nepal Over Malaysia Fund Scam",
-   "ne": "Two Former Labor Ministers Arrested in Nepal Over Malaysia Fund Scam",
-   "link": "https://www.hamropatro.com/en/news/detail/1795063469041003115-two-former-labor-ministers-arrested-in-nepal-for-illegal-fund",
-   "source": "Hamro Patro",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "crime"
-  },
   {
    "ts": 1795075300.2540944,
    "en": "Nepal and India commit to boosting tourism ties and connectivity at New Delhi event",
@@ -10695,7 +10644,7 @@
    "cat": "other"
   }
  ],
- "updated": 1795678295,
+ "updated": 1795678896,
  "pending_since": 1795677653.1904032,
  "fb_blocks": [
   1790350880.4125228,
