@@ -1,8 +1,5 @@
 {
  "seen": {
-  "https://english.khabarhub.com/2026/24/576818/": 1795485048.8922114,
-  "https://www.setopati.com/social/403245": 1795485048.8922114,
-  "https://nagariknews.nagariknetwork.com/social-affairs/earthquake-tremors-felt-in-kathmandu-br-87-36.html": 1795485048.8922114,
   "https://english.khabarhub.com/2026/24/576813/": 1795485682.5850058,
   "http://english.ratopati.com/story/88003/10th-national-games-begin-today": 1795485682.5850058,
   "https://risingnepaldaily.com/news/88961": 1795485682.5850058,
@@ -2218,31 +2215,12 @@
   "https://gorkhapatraonline.com/news/230411": 1795657246.7880967,
   "https://gorkhapatraonline.com/news/230410": 1795657246.7880967,
   "https://gorkhapatraonline.com/news/230409": 1795657246.7880967,
-  "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWjU4TF9fbVlTUENVdFBfMl85akw2MUhrWXF5R2hWRmZocGpEQTFlb2ZDWURCWHZkUElVZGdsdVBhaW4yT1pDYXo1SnpLYXVERHJUUU1kT1dyQkJQYWJrbVNPaFFWcDNjUV91V2pMYzdrY2hCSWFVXzd6SGpwMTBoc1NYSVBOVmQ3SVBrbVhGc0xpSFZhMTY1a3hPTHVOT0kwSDhGQndjVXUzeG9yV2x3?oc=5": 1795657847.717982
+  "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWjU4TF9fbVlTUENVdFBfMl85akw2MUhrWXF5R2hWRmZocGpEQTFlb2ZDWURCWHZkUElVZGdsdVBhaW4yT1pDYXo1SnpLYXVERHJUUU1kT1dyQkJQYWJrbVNPaFFWcDNjUV91V2pMYzdrY2hCSWFVXzd6SGpwMTBoc1NYSVBOVmQ3SVBrbVhGc0xpSFZhMTY1a3hPTHVOT0kwSDhGQndjVXUzeG9yV2x3?oc=5": 1795657847.717982,
+  "https://news.google.com/rss/articles/CBMixwFBVV95cUxONDktQ1hJbE1mOGhxUmtKM3o5RVVybjJCNXNYTkpPT3Zfd1JwUFJ1NDZlbG8zRXl2YWphcmI4MUVBQUJtUVlYVmFwNkd6Ri1DMGdNcXRmRGRXdWdqSDl3Mm5vYm5QbVhZeVgzSG8zN3d3dTZtOGFTUk56dVJOU1piREJmMVJoWHNaYU1kVWhPZWlHRjNVTjhoQlVmUFdsWExLaUVvZTZnVTFwU1M3N3U5OFA1d3ZrejJTa08ycjhHV3p5MnFDX3NJ?oc=5": 1795658474.080241,
+  "http://english.ratopati.com/story/88290/at-least-30-killed-25-injured-in-egypt-fuel-tanker-fire": 1795658474.080241,
+  "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNklkV3dGUGdEWUt1Z1dZdXRmdkRuVDZiWVZzcVNWeVR2ZEVwVDgtYmd0UkF4UWFVak1nRW9TLWo3dElUTVhaRWtCaUNEMUNKQjdvay04WHM1OFpjMzdHNWphN2JfQi1vQlN0MnJsYm4ydFVIdk5GSk5PSDJGVTI2OVpnUTFOM3dzejVHNlFQQ0RPRm9FcGNYSG0yLUxaRGRLSE82NmZHTHZiVDY1R2lZZ0NSb29Cdw?oc=5": 1795658474.080241
  },
  "queue": [
-  {
-   "title": "अमेरिकी बजारमा प्रविधि कम्पनीको सेयरमा गिरावट बढ्दो",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/508302",
-   "source": "Baahrakhari",
-   "ts": 1795629076,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "अमेरिकी बजारमा प्रविधि कम्पनीको सेयरमा गिरावट बढ्दो",
-   "en": "अमेरिकी बजारमा प्रविधि कम्पनीको सेयरमा गिरावट बढ्दो",
-   "ne": "अमेरिकी बजारमा प्रविधि कम्पनीको सेयरमा गिरावट बढ्दो",
-   "imp": 2,
-   "tags": [
-    "TechStocks",
-    "NYSE"
-   ],
-   "cat": "economy",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
   {
    "title": "Australia Lacks National Standards for Critical Infrastructure Resilience, Report Finds",
    "summary": "Kathmandu. A recent disruption in Microsoft's services has exposed the sensitivity of interconnected systems. In this context, a new report...",
@@ -3541,20 +3519,56 @@
    "val": 2,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "At least 30 killed in Egypt fuel tanker fire",
+   "summary": "Cairo. At least 30 people have died and 25 others have been injured in a fire that broke out after...",
+   "link": "http://english.ratopati.com/story/88290/at-least-30-killed-25-injured-in-egypt-fuel-tanker-fire",
+   "source": "Ratopati EN",
+   "ts": 1795658023,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/pp_a8LToSCn5j.webp",
+   "lang": "en",
+   "hl": "At least 30 killed in Egypt fuel tanker fire",
+   "en": "At least 30 killed in Egypt fuel tanker fire",
+   "ne": "At least 30 killed in Egypt fuel tanker fire",
+   "imp": 1,
+   "tags": [
+    "Egypt",
+    "FuelTanker",
+    "Accident"
+   ],
+   "cat": "world",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "UNICEF: Winter brings new threat to children three months after Nepal floods",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNklkV3dGUGdEWUt1Z1dZdXRmdkRuVDZiWVZzcVNWeVR2ZEVwVDgtYmd0UkF4UWFVak1nRW9TLWo3dElUTVhaRWtCaUNEMUNKQjdvay04WHM1OFpjMzdHNWphN2JfQi1vQlN0MnJsYm4ydFVIdk5GSk5PSDJGVTI2OVpnUTFOM3dzejVHNlFQQ0RPRm9FcGNYSG0yLUxaRGRLSE82NmZHTHZiVDY1R2lZZ0NSb29Cdw?oc=5",
+   "source": "UNICEF Australia",
+   "ts": 1795645007,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "UNICEF: Winter brings new threat to children three months after Nepal floods",
+   "en": "UNICEF: Winter brings new threat to children three months after Nepal floods",
+   "ne": "UNICEF: Winter brings new threat to children three months after Nepal floods",
+   "imp": 4,
+   "tags": [
+    "UNICEF",
+    "NepalFloods",
+    "Children",
+    "बाढी"
+   ],
+   "cat": "disaster",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1795053080.9413533,
-   "en": "Special Court acquits former minister Basnet, convicts 3 NTA officials in TERAMOCS case",
-   "ne": "Special Court acquits former minister Basnet, convicts 3 NTA officials in TERAMOCS case",
-   "link": "https://english.onlinekhabar.com/teramocs-verdict-minister-nta-staff.html",
-   "source": "Onlinekhabar EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "crime"
-  },
   {
    "ts": 1795054895.3247175,
    "en": "बंगलादेशमा राजनीतिक हिंसा भड्किँदा ३ जनाको मृत्यु, प्रहरी चौकी र सांसदको घरमा आगजनी",
@@ -6614,7 +6628,7 @@
    "cat": "crime"
   }
  ],
- "updated": 1795657866,
+ "updated": 1795658482,
  "pending_since": 1795657246.7880967,
  "fb_blocks": [
   1790350880.4125228,
