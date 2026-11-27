@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbm0zNVB6ZEFJUU9Rb21fR25mREx6Wk5WZFUtaUg5QkNSOXh2d092SHlFR05hRWZXcmxseXluSC11MDFRLU1FZFVfbkhNMm1za21KeUNKQXVPSlMxUGlya2NKSjlmTmY1UC1TbjR2U1BSa2x2MXZiVTJHREkwd0lZQ0ViR1ItZmJFM0dsY3ptTW50WkRtb2lUUnFJUWdjaWFrQXl3?oc=5": 1795623664.6978817,
   "https://baahrakhari.com/detail/508300": 1795624852.7345207,
   "http://english.ratopati.com/story/88277/growing-concerns-over-ai-investment-send-shockwaves-through-global-stock-markets": 1795624852.7345207,
   "https://gorkhapatraonline.com/news/230390": 1795624852.7345207,
@@ -2080,7 +2079,8 @@
   "https://nagariknews.nagariknetwork.com/social-affairs/seven-middlemen-arrested-for-harassing-service-recipients-83-57.html": 1795796454.6512802,
   "https://baahrakhari.com/detail/508463": 1795796454.6512802,
   "https://nagariknews.nagariknetwork.com/politics/home-minister-gurung-leaves-for-itahari-to-attend-the-central-councilors-meeting-of-the-gurung-national-council-13-93.html": 1795796454.6512802,
-  "https://nagariknews.nagariknetwork.com/social-affairs/malaysia-scam-case-former-chief-secretary-arrested-two-former-ministers-excluded-from-investigation-34-28.html": 1795796454.6512802
+  "https://nagariknews.nagariknetwork.com/social-affairs/malaysia-scam-case-former-chief-secretary-arrested-two-former-ministers-excluded-from-investigation-34-28.html": 1795796454.6512802,
+  "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWnNsbVJxS3p4QU1UenVOMGtQM0hMaUVwVWVhQTF1eG5sTGt0SW96Zm8wZVVvb1dwWTdWOC14cWpaU1E0ZkpNajZfRzV1U21xQk1nTDVnMUx4TXh3RlVHeFo3a2Zhcl9QOGRtTnFPcEE0NHBXdGtRVk5Ybmhjak5jTVViQ21udTF0dUE?oc=5": 1795797070.3376753
  },
  "queue": [
   {
@@ -7018,20 +7018,33 @@
    "val": 2,
    "teaser": true,
    "hits": 1
+  },
+  {
+   "title": "5.6 magnitude earthquake hits Nepal; tremors felt in North Bengal, Sikkim",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWnNsbVJxS3p4QU1UenVOMGtQM0hMaUVwVWVhQTF1eG5sTGt0SW96Zm8wZVVvb1dwWTdWOC14cWpaU1E0ZkpNajZfRzV1U21xQk1nTDVnMUx4TXh3RlVHeFo3a2Zhcl9QOGRtTnFPcEE0NHBXdGtRVk5Ybmhjak5jTVViQ21udTF0dUE?oc=5",
+   "source": "News On AIR",
+   "ts": 1795791436,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "5.6 magnitude earthquake hits Nepal; tremors felt in North Bengal, Sikkim",
+   "en": "5.6 magnitude earthquake hits Nepal; tremors felt in North Bengal, Sikkim",
+   "ne": "5.6 magnitude earthquake hits Nepal; tremors felt in North Bengal, Sikkim",
+   "imp": 4,
+   "tags": [
+    "Earthquake",
+    "Nepal",
+    "NorthBengal",
+    "भूकम्प"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1795191705.6934102,
-   "en": "३० वर्षदेखि बन्न सकेन पञ्चेश्वर आयोजना, महाकालीको पानीमा अझै मिल्न सकेन सहमति",
-   "ne": "३० वर्षदेखि बन्न सकेन पञ्चेश्वर आयोजना, महाकालीको पानीमा अझै मिल्न सकेन सहमति",
-   "link": "https://www.setopati.com/politics/403034",
-   "source": "Setopati",
-   "n_fb": 1,
-   "n_ig": 0,
-   "brk": false,
-   "cat": "politics"
-  },
   {
    "ts": 1795193477.7012258,
    "en": "Two Indian Nationals Arrested with 443kg of Marijuana in Chitwan",
@@ -10113,8 +10126,8 @@
    "cat": "disaster"
   }
  ],
- "updated": 1795796459,
- "pending_since": null,
+ "updated": 1795797074,
+ "pending_since": 1795797070.3376753,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
