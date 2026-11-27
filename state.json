@@ -2089,7 +2089,13 @@
   "https://risingnepaldaily.com/news/89085": 1795751447.2446003,
   "http://english.ratopati.com/story/88456/four-years-of-suryabinayak-dhulikhel-road-expansion-somewhere-smooth-somewhere-still-dusty-photos": 1795751447.2446003,
   "https://gorkhapatraonline.com/news/230558": 1795751447.2446003,
-  "http://english.ratopati.com/story/88455/uprooting-of-marijuana-planted-on-8-bighas-and-5-katthas-in-makawanpur-dhading-and-sindhuli": 1795751447.2446003
+  "http://english.ratopati.com/story/88455/uprooting-of-marijuana-planted-on-8-bighas-and-5-katthas-in-makawanpur-dhading-and-sindhuli": 1795751447.2446003,
+  "http://english.ratopati.com/story/88461/efforts-to-strengthen-nepal-bangladesh-trade-relations-in-chattogram": 1795752082.6949372,
+  "https://nagariknews.nagariknetwork.com/Bazar/this-is-the-wholesale-price-of-vegetables-and-fruits-today-43-52.html": 1795752082.6949372,
+  "http://english.ratopati.com/story/88460/land-ownership-certificates-distributed-to-83-families-in-chitwan": 1795752082.6949372,
+  "https://english.khabarhub.com/2026/27/577223/": 1795752082.6949372,
+  "https://english.khabarhub.com/2026/27/577229/": 1795752082.6949372,
+  "https://gorkhapatraonline.com/news/230566": 1795752082.6949372
  },
  "queue": [
   {
@@ -3885,7 +3891,7 @@
    "cat": "economy",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Two Arrested with Stolen Scooter in Pokhara",
@@ -5085,17 +5091,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1795146658.2212548,
-   "en": "एसीसी एसिया कप राइजिङ स्टार्समा आज नेपालले भारत 'ए'सँग खेल्दै",
-   "ne": "एसीसी एसिया कप राइजिङ स्टार्समा आज नेपालले भारत 'ए'सँग खेल्दै",
-   "link": "https://baahrakhari.com/detail/507811",
-   "source": "Baahrakhari",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "sports"
-  },
   {
    "ts": 1795148458.4275954,
    "en": "मुस्ताङको लेते-धम्पु पुल सात वर्षमा पनि बनेन, १० महिनादेखि काम अलपत्र",
@@ -8197,10 +8192,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "economy"
+  },
+  {
+   "ts": 1795752090.252313,
+   "en": "Nepali worker killed and three injured in Saudi Arabia airstrike",
+   "ne": "Nepali worker killed and three injured in Saudi Arabia airstrike",
+   "link": "https://english.khabarhub.com/2026/27/577229/",
+   "source": "Khabarhub EN",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": true,
+   "cat": "world"
   }
  ],
- "updated": 1795751472,
- "pending_since": null,
+ "updated": 1795752105,
+ "pending_since": 1795752082.6949372,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
