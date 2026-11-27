@@ -2080,75 +2080,6 @@
  },
  "queue": [
   {
-   "title": "बुटवलमा भोलिदेखि खाना महोत्सव",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/508381",
-   "source": "Baahrakhari",
-   "ts": 1795708850,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "बुटवलमा भोलिदेखि खाना महोत्सव",
-   "en": "बुटवलमा भोलिदेखि खाना महोत्सव",
-   "ne": "बुटवलमा भोलिदेखि खाना महोत्सव",
-   "imp": 2,
-   "tags": [
-    "Butwal",
-    "FoodFestival",
-    "खानाउत्सव"
-   ],
-   "cat": "culture",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "सर्लाहीमा ई-रिक्सा अनियन्त्रित भई दुर्घटना, चालकसहित ७ जना घाइते",
-   "summary": "सर्लाहीको ईश्वरपुर नगरपालिका-१३ स्थित बाँके-संग्रामपुर सडकखण्डअन्तर्गत बाँकेचोक नजिकै ई-रिक्सा दुर्घटना हुँदा चालकसहित सात जना घाइते भएका छन्।...",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/e-rickshaw-loses-control-in-sarlahi-7-injured-including-driver-68-18.html",
-   "source": "Nagarik News",
-   "ts": 1795708698,
-   "weight": 3,
-   "img": "https://images.nagariknewscdn.com/2025/third-party/1795708582_rik.png",
-   "lang": "ne",
-   "hl": "सर्लाहीमा ई-रिक्सा अनियन्त्रित भई दुर्घटना, चालकसहित ७ जना घाइते",
-   "en": "सर्लाहीमा ई-रिक्सा अनियन्त्रित भई दुर्घटना, चालकसहित ७ जना घाइते",
-   "ne": "सर्लाहीमा ई-रिक्सा अनियन्त्रित भई दुर्घटना, चालकसहित ७ जना घाइते",
-   "imp": 3,
-   "tags": [
-    "Sarlahi",
-    "Accident",
-    "दुर्घटना"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "दशौं राष्ट्रिय खेलकुद प्रतियोगिता : पदक तालिकामा वाग्मतीको अग्रता कायमै",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/508380",
-   "source": "Baahrakhari",
-   "ts": 1795708352,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "दशौं राष्ट्रिय खेलकुद प्रतियोगिता : पदक तालिकामा वाग्मतीको अग्रता कायमै",
-   "en": "दशौं राष्ट्रिय खेलकुद प्रतियोगिता : पदक तालिकामा वाग्मतीको अग्रता कायमै",
-   "ne": "दशौं राष्ट्रिय खेलकुद प्रतियोगिता : पदक तालिकामा वाग्मतीको अग्रता कायमै",
-   "imp": 3,
-   "tags": [
-    "NationalGames",
-    "Bagmati",
-    "खेलकुद"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "21-Year-Old Woman Missing in Mahakali River Found Dead",
    "summary": "Dhangadhi. A 21-year-old woman who went missing in the Mahakali River in Kanchanpur has been found dead. Kamala Pandey, originally...",
    "link": "http://english.ratopati.com/story/88428/missing-girl-found-dead-in-mahakali-river",
@@ -2611,17 +2542,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1795132260.9990265,
-   "en": "गोरखाको आरुघाट गाउँपालिका-१० का २४-वर्षीय रोशन खड्का सर्बिया पठाइदिने ३० लाख ३० हजार ठगीमा पक्राउ",
-   "ne": "गोरखाको आरुघाट गाउँपालिका-१० का २४-वर्षीय रोशन खड्का सर्बिया पठाइदिने ३० लाख ३० हजार ठगीमा पक्राउ",
-   "link": "https://baahrakhari.com/detail/507796",
-   "source": "Baahrakhari",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "crime"
-  },
   {
    "ts": 1795134063.2447333,
    "en": "Shortage of dialysis fluid disrupts treatment for over 400 kidney patients in Nepal",
@@ -5725,7 +5645,7 @@
    "cat": "world"
   }
  ],
- "updated": 1795737072,
+ "updated": 1795737687,
  "pending_since": 1795736453.5208557,
  "fb_blocks": [
   1790350880.4125228,
