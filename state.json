@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMizwFBVV95cUxPY0VXemR6elZYSjV5NGR1ZThjd3FVYmFldy11YmhQV2k3QlFBU3QyTDg0SDJ4dnVFaUx3NW10Y012ZUFkclJYVjhuX3NqMkh1Rl9aNkplaTIwak5JdnY3aUFzZDNDaEtEcE5OSExNTnZ3YkI4RDdYdzhfTVA1dnpGQzlKUkFPaVJCSlFraDJOZjg1WW96MDlPc0hla1BfMUU3RzNQYzBkTVpHWFdDbWdEMTBMZURqbFgyUmJ3eUEtdDJLUGVHQTk1ZzNIX3JtNzg?oc=5": 1795576847.1073823,
-  "https://theannapurnaexpress.com/story/69044": 1795576847.1073823,
   "https://news.google.com/rss/articles/CBMipAFBVV95cUxOV0dnX2xja0tMY1Bzc3ZHQWE0SmtVYkdKb3ZaZ1N0TkFVX1FUME1YT0swZlVseHQtRlpFbzdQSUdsNW5Qb0ZZNk5kaVp3a1A1VjJUblJfWXBxczliNmpwcklTcGM0RDEyUzk1b181eDRiWlVRMWhmSDhXeFQ3U3VLMHZsR19sSWJTNlZ4N2RtRUV4WHAteVNOalZONmstclprRFhhYQ?oc=5": 1795577479.960927,
   "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOWFLSENocmt3YlpZOUVaNGJ4cmdkTXJUclA4R3dYbWJ6WGZPQVhlNXgyUTJ5M0hOLTZwc1FLRkVRMGh0UVdWcTk3LTRhbUppb2FsY1lEaVVIUWZTbjU1djR5QnMyc3h2bmRKQkF2a3o2YlhTVTU3VVc2VGs3a3NFYXRKZXltTmgzcDV0WjgwbTE1dGpvdmJlS1ExVVJtZlduUW1VdDRwMHk0dw?oc=5": 1795577479.960927,
   "https://www.setopati.com/politics/403323": 1795577479.960927,
@@ -2095,7 +2093,9 @@
   "https://risingnepaldaily.com/news/89081": 1795749646.2748446,
   "http://english.ratopati.com/story/88451/gangs-are-active-in-vietnam-stealing-pet-dogs-and-cats-and-taking-them-to-slaughterhouses-owners-are-rushing-to-meat-markets": 1795749646.2748446,
   "https://nagariknews.nagariknetwork.com/international/bhushan-thackeray-the-son-of-a-laborer-who-left-home-with-24-rupees-in-his-pocket-became-a-millionaire-91-37.html": 1795749646.2748446,
-  "https://gorkhapatraonline.com/news/230551": 1795749646.2748446
+  "https://gorkhapatraonline.com/news/230551": 1795749646.2748446,
+  "https://kathmandupost.com/visual-stories/2026/11/27/photos-where-the-august-floods-began": 1795750276.8490386,
+  "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTmxESWdzUmU0elZxX2pyT05iVG9QSU8tOElaTG9qbTliZmZwZ3lNMWJMTkVreU1KRENEQm9jSVZGbGljcTNIRUkyaFJJdVZSLXNyVERjSFo1RWFQQWsxcHRXc0NLMFd3Q01VMGxOVkNObWpNcU81Rm1xOFdwYnpjUlMtUUtOZjZmMFRyMEJ3UllHalU1S1FnNm10bmYxVTk2c19UMTVjcWJVNjNMb0tzOWQ0UWdtbTFqbDdnOWZQQdIBxAFBVV95cUxPcEU2c3V3YjBSR0FNaGxubkJ5YWhCMXRLN1ltUGYyLXZuT3RxNS05OVZBVzZKZGRkcHlRUWVPQ2dLdzhDNXRkRk0tT3Z0dEpJckNvbUdkQWNTNEdINHU1blZURjRaV0h6dzlhVGpHTEQ0RXcyWDlCMXAzTXpaMmVYajJtMW1EWkd0VkFkR29WWVU5LXdPcWhzQkIzRkhKNXFGVWVHNFJGRUdtWnctT3BNRzlBYUxoZi04eWFiNW5iVVMwX2tj?oc=5": 1795750276.8490386
  },
  "queue": [
   {
@@ -4259,7 +4259,7 @@
    "cat": "disaster",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "कांग्रेस केन्द्रीय कार्यसमिति बैठक आज पनि",
@@ -4581,20 +4581,33 @@
    "val": 1,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "Man from Nepal killed in hit-and-run in Gurgaon",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTmxESWdzUmU0elZxX2pyT05iVG9QSU8tOElaTG9qbTliZmZwZ3lNMWJMTkVreU1KRENEQm9jSVZGbGljcTNIRUkyaFJJdVZSLXNyVERjSFo1RWFQQWsxcHRXc0NLMFd3Q01VMGxOVkNObWpNcU81Rm1xOFdwYnpjUlMtUUtOZjZmMFRyMEJ3UllHalU1S1FnNm10bmYxVTk2c19UMTVjcWJVNjNMb0tzOWQ0UWdtbTFqbDdnOWZQQdIBxAFBVV95cUxPcEU2c3V3YjBSR0FNaGxubkJ5YWhCMXRLN1ltUGYyLXZuT3RxNS05OVZBVzZKZGRkcHlRUWVPQ2dLdzhDNXRkRk0tT3Z0dEpJckNvbUdkQWNTNEdINHU1blZURjRaV0h6dzlhVGpHTEQ0RXcyWDlCMXAzTXpaMmVYajJtMW1EWkd0VkFkR29WWVU5LXdPcWhzQkIzRkhKNXFGVWVHNFJGRUdtWnctT3BNRzlBYUxoZi04eWFiNW5iVVMwX2tj?oc=5",
+   "source": "The Times of India",
+   "ts": 1795749540,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "Man from Nepal killed in hit-and-run in Gurgaon",
+   "en": "Man from Nepal killed in hit-and-run in Gurgaon",
+   "ne": "Man from Nepal killed in hit-and-run in Gurgaon",
+   "imp": 2,
+   "tags": [
+    "Gurgaon",
+    "HitAndRun",
+    "India",
+    "दुर्घटना"
+   ],
+   "cat": "world",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1795144864.8617566,
-   "en": "Air pollution causes 26,000 premature deaths annually in Nepal, reducing life expectancy by 3.4 years",
-   "ne": "Air pollution causes 26,000 premature deaths annually in Nepal, reducing life expectancy by 3.4 years",
-   "link": "https://kathmandupost.com/editorial/2026/11/19/the-air-we-breathe-shouldn-t-kill-us-tackle-nepal-s-air-pollution-head-on",
-   "source": "Kathmandu Post",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "society"
-  },
   {
    "ts": 1795146658.2212548,
    "en": "एसीसी एसिया कप राइजिङ स्टार्समा आज नेपालले भारत 'ए'सँग खेल्दै",
@@ -7698,8 +7711,8 @@
    "cat": "sports"
   }
  ],
- "updated": 1795749663,
- "pending_since": null,
+ "updated": 1795750287,
+ "pending_since": 1795750276.8490386,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
