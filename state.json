@@ -2081,7 +2081,11 @@
   "https://gorkhapatraonline.com/news/230603": 1795764667.7410321,
   "https://gorkhapatraonline.com/news/230608": 1795765252.4712453,
   "https://gorkhapatraonline.com/news/230607": 1795765252.4712453,
-  "https://english.onlinekhabar.com/nast-employees-protest-ordinance-demand-minister-mahabir-puns-resignation.html": 1795765252.4712453
+  "https://english.onlinekhabar.com/nast-employees-protest-ordinance-demand-minister-mahabir-puns-resignation.html": 1795765252.4712453,
+  "http://english.ratopati.com/story/88511/former-chief-secretary-aryal-taken-to-court": 1795765849.472909,
+  "http://english.ratopati.com/story/88510/nast-employees-warn-minister-pun-the-move-to-drive-away-skilled-manpower-is-unacceptable": 1795765849.472909,
+  "https://baahrakhari.com/detail/508421": 1795765849.472909,
+  "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBBN0twQXJKX2tiNy1xcTZxYktEZzF1UFBXaTVrSWxhbmM3bXVzVkl5V2FrQUNTLXJTUU9xcGVoSEloTFZMSHRVY3RSMkZXVS1LWXU0VU9GMGZXWDNx0gFcQVVfeXFMUEE3S3BBckpfa2I3LXFxNnFiS0RnMXVQUFdpNWtJbGFuYzdtdXNWSXlXYWtBQ1MtclNRT3FwZWhISWhMVkxIdFVjdFIyRldVLUtZdTRVT0YwZldYM3E?oc=5": 1795765849.472909
  },
  "queue": [
   {
@@ -2171,29 +2175,6 @@
     "विपत्"
    ],
    "cat": "society",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Clear skies boost paragliding activities in Pokhara",
-   "summary": "POKHARA: Clear weather in the tourist city of Pokhara has been attracting adventure enthusiasts to paragliding, with visitors enjoying aerial views of the mountains, lakes and lush green hills. According to the Nepal...",
-   "link": "https://english.khabarhub.com/2026/27/577196/",
-   "source": "Khabarhub EN",
-   "ts": 1795736716,
-   "weight": 2,
-   "img": "https://english.khabarhub.com/wp-content/uploads/2026/11/Paragliding-Pokhara-e1795706766831-400x220.jpg",
-   "lang": "en",
-   "hl": "Clear skies boost paragliding activities in Pokhara",
-   "en": "Clear skies boost paragliding activities in Pokhara",
-   "ne": "Clear skies boost paragliding activities in Pokhara",
-   "imp": 2,
-   "tags": [
-    "Pokhara",
-    "Paragliding",
-    "Tourism"
-   ],
-   "cat": "sports",
    "val": 2,
    "teaser": false,
    "hits": 1
@@ -4521,29 +4502,6 @@
    "hits": 3
   },
   {
-   "title": "Parties gear up for local elections despite no date being set",
-   "summary": "The RSP has opened applications through its Candidate Club, while the Congress plans primaries and the UML and NCP focus on strengthening their organisations.",
-   "link": "https://kathmandupost.com/politics/2026/11/27/parties-gear-up-for-local-elections-despite-no-date-being-set",
-   "source": "Kathmandu Post",
-   "ts": 1795737049.2120116,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Parties gear up for local elections despite no date being set",
-   "en": "Parties gear up for local elections despite no date being set",
-   "ne": "Parties gear up for local elections despite no date being set",
-   "imp": 3,
-   "tags": [
-    "LocalElections",
-    "PoliticalParties",
-    "NepalPolitics"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Voice Beyond Darkness",
    "summary": "\"Poetry is when an emotion has found its thought, and the thought has found words,\" American poet Robert Frost once obse...",
    "link": "https://risingnepaldaily.com/news/89087",
@@ -6648,7 +6606,7 @@
    "cat": "tech",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "लुम्बिनी क्षेत्रभित्रका पसल हटाउन २४ घन्टे अल्टिमेटम",
@@ -6932,7 +6890,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "Congress Leader Dr. Shobhakar Parajuli Calls for National Responsibility and Democratic Vigilance",
@@ -7435,7 +7393,7 @@
    "cat": "politics",
    "val": 2,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "Bagmati Province Government Re-prioritizes Budget for Reconstruction and Rehabilitation",
@@ -8159,17 +8117,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1795160465.409948,
-   "en": "Bagmati Allocates Rs 6 Billion for Flood Reconstruction Amid Coordination Hurdles",
-   "ne": "Bagmati Allocates Rs 6 Billion for Flood Reconstruction Amid Coordination Hurdles",
-   "link": "http://english.ratopati.com/story/87407/we-will-complete-the-reconstruction-work-within-our-jurisdiction-after-the-bhotekoshi-flood-by-ashar",
-   "source": "Ratopati EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "disaster"
-  },
   {
    "ts": 1795162267.4494317,
    "en": "Nepal PM Balen Shah and Indian PM Modi to hold talks in New Delhi on Monday",
@@ -11273,7 +11220,7 @@
    "cat": "politics"
   }
  ],
- "updated": 1795765256,
+ "updated": 1795765854,
  "pending_since": 1795765252.4712453,
  "fb_blocks": [
   1790350880.4125228,
