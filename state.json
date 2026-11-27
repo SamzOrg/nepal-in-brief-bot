@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMizwFBVV95cUxNblpaZnhNc012MVNELVJjWFhQZ1hKUlJXblIwMVhLY0tBUWRUOEhPcnpwWVJLWWI5ZlFENlc3X3hybTVTUThiaWN1cm5iQ05ZSHV5eW10QjBwWlZ2d21od2dmY1lQVnRUajh4aUt5VEZoVmpKbnd4a3lPUmxlY1AyeVhoajBubFh3RjUyMFk5S2lNeVM1THpyMUZ6c25nd0UyNWE5eUdPMkMtSGdCdnl5X3BQcFJ6eG50TmpfRTVNSkdudkxwb0h1YVM3UEZCTEU?oc=5": 1795596652.4197714,
-  "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeG44RThsTDFnMEF6NDJVajNnN1BVdTlzVVR5anlndV81S0ltMmVHcWxKbU5OdXI2VG5oYU12NE0yMDMyZGdKc01yRGRucnZPWjNZRjh2NWpyamE4aTIxNDNOdGhHMWk4SHM5aThJLWxaVnJyOUdlYklidFNIM2ZzSTV1MENBb1M3YnpQTlFNa2lKUlB0TWVCcVJtQ29aSnp0SXdxYzEyMDJzZFU?oc=5": 1795596652.4197714,
   "https://risingnepaldaily.com/news/89015": 1795597287.9579568,
   "http://english.ratopati.com/story/88215/10-nepali-players-in-the-ipl-auction-who-will-get-a-franchise": 1795597287.9579568,
   "https://gorkhapatraonline.com/news/230359": 1795597287.9579568,
@@ -2074,7 +2072,10 @@
   "https://theannapurnaexpress.com/story/69114": 1795768860.3926914,
   "https://english.onlinekhabar.com/squatters-live-in-fear-eviction.html": 1795768860.3926914,
   "https://nagariknews.nagariknetwork.com/social-affairs/former-chief-secretary-aryal-appears-in-court-remand-extended-98-39.html": 1795768860.3926914,
-  "https://nagariknews.nagariknetwork.com/politics/former-minister-pariyar-honored-with-aaae-fellow-award-br-27-36.html": 1795768860.3926914
+  "https://nagariknews.nagariknetwork.com/politics/former-minister-pariyar-honored-with-aaae-fellow-award-br-27-36.html": 1795768860.3926914,
+  "https://english.khabarhub.com/2026/27/577273/": 1795769453.1491728,
+  "https://nagariknews.nagariknetwork.com/social-affairs/police-inspector-general-kc-directs-to-work-to-increase-public-trust-23-54.html": 1795769453.1491728,
+  "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSkoyMTlmTm5SbHAzTTEtaTVGYmRPOGpDeW1Xd0hTTElHNk1SM1kzUU1NVXpTTWpFTUpRWndMUUhMNGdERm51OEhXajVxLW1GT3RpVTdHV3pMc3EzUUd2ZVR1cHBqaGUzRzRRWnI2a2wtNUlScFdCWFduSHpxaHhSTUFyUXQxWHZDU0xJbG9yM1VqbkkwVm9aQVp1ME1IU1ZnRFJFUFJIODA?oc=5": 1795769453.1491728
  },
  "queue": [
   {
@@ -2122,28 +2123,6 @@
    "hits": 1
   },
   {
-   "title": "Orange production expected to rise in Gulmi",
-   "summary": "By Our Correspondent, Gulmi, Nov. 27: Orange production is expected to increase in Gulmi district this year due to favou...",
-   "link": "https://risingnepaldaily.com/news/89071",
-   "source": "Rising Nepal",
-   "ts": 1795740642,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Orange production expected to rise in Gulmi",
-   "en": "Orange production expected to rise in Gulmi",
-   "ne": "Orange production expected to rise in Gulmi",
-   "imp": 2,
-   "tags": [
-    "Agriculture",
-    "Gulmi"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
    "title": "'जेठोबुढो' जोगाउँदै पोखरा",
    "summary": "कास्की समाचारदाताकास्की, मङ्सिर ११ गते । पोखरा महानगरपालिकाका विभिन्न ठाउँका फाँटमा स्थानीय र उन्नत जातका धान खेती गरिन्छ तर हाइब्रिड जातका धानको दबदबा बढ्न थालेपछि महानगरले पोखराक...",
    "link": "https://gorkhapatraonline.com/news/230532",
@@ -2161,95 +2140,6 @@
     "Rice"
    ],
    "cat": "culture",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "चीन भ्रमण सकेर स्वदेश फर्कियो रास्वपा प्रतिनिधिमण्डल",
-   "summary": "राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा)को उच्चस्तरीय प्रतिनिधिमण्डल चीन भ्रमण सकेर बिहीबार स्वदेश फर्किएको छ ।",
-   "link": "https://baahrakhari.com/detail/508395",
-   "source": "Baahrakhari",
-   "ts": 1795740640,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "चीन भ्रमण सकेर स्वदेश फर्कियो रास्वपा प्रतिनिधिमण्डल",
-   "en": "चीन भ्रमण सकेर स्वदेश फर्कियो रास्वपा प्रतिनिधिमण्डल",
-   "ne": "चीन भ्रमण सकेर स्वदेश फर्कियो रास्वपा प्रतिनिधिमण्डल",
-   "imp": 3,
-   "tags": [
-    "RSP",
-    "China",
-    "रास्वपा"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "तुम्लिङले तान्दै छ पर्यटक",
-   "summary": "इलाम समाचारदाता इलाम, मङ्सिर ११ गते । इलामको माईजोगमाई गाउँपालिका-२ मा अवस्थित तुम्लिङ पछिल्लो समय स्वदेशी तथा विदेशी पर्यटकको प्रमुख पर्यटकीय गन्तव्यका रूपमा रोजाइमा पर्दै गएको छ ...",
-   "link": "https://gorkhapatraonline.com/news/230531",
-   "source": "Gorkhapatra",
-   "ts": 1795740630,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/393558/conversions/tumling-original.jpg",
-   "lang": "ne",
-   "hl": "तुम्लिङले तान्दै छ पर्यटक",
-   "en": "तुम्लिङले तान्दै छ पर्यटक",
-   "ne": "तुम्लिङले तान्दै छ पर्यटक",
-   "imp": 2,
-   "tags": [
-    "Tumling",
-    "Tourism"
-   ],
-   "cat": "culture",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "नागरिकता अभिलेखमा किर्ते गर्ने तीन कर्मचारी सहित चार थुनामा",
-   "summary": "अर्जुन काफ्ले स्याङ्जा, मङ्सिर ११ गते । नागरिकताको सरकारी अभिलेख किर्ते तथा अनधिकृत हेरफेर गरेको आरोपमा चार जनालाई पुर्पक्षका लागि थुनामा पठाइएको छ । स्याङ्जा जिल्ला अदालतले तीन जन...",
-   "link": "https://gorkhapatraonline.com/news/230530",
-   "source": "Gorkhapatra",
-   "ts": 1795740627,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/393557/conversions/adlat-syangaj--original.jpg",
-   "lang": "ne",
-   "hl": "नागरिकता अभिलेखमा किर्ते गर्ने तीन कर्मचारी सहित चार थुनामा",
-   "en": "नागरिकता अभिलेखमा किर्ते गर्ने तीन कर्मचारी सहित चार थुनामा",
-   "ne": "नागरिकता अभिलेखमा किर्ते गर्ने तीन कर्मचारी सहित चार थुनामा",
-   "imp": 3,
-   "tags": [
-    "Fraud",
-    "Police"
-   ],
-   "cat": "crime",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "उपचार सुविधा अब एउटै छातामुनि",
-   "summary": "काठमाडौँ, मङ्सिर ११ गते । सरकारले विभिन्न सरकारी निकायमार्फत सञ्चालन भइरहेका स्वास्थ्य उपचारसम्बन्धी कार्यक्रमलाई राष्ट्रिय स्वास्थ्य बिमा कार्यक्रम अन्तर्गत एकीकृत गर्ने तयारी गरे...",
-   "link": "https://gorkhapatraonline.com/news/230529",
-   "source": "Gorkhapatra",
-   "ts": 1795740195,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/393556/conversions/Community-Care-Under-the-Blue-Umbrella-original.jpg",
-   "lang": "ne",
-   "hl": "उपचार सुविधा अब एउटै छातामुनि",
-   "en": "उपचार सुविधा अब एउटै छातामुनि",
-   "ne": "उपचार सुविधा अब एउटै छातामुनि",
-   "imp": 3,
-   "tags": [
-    "HealthService",
-    "उपचार"
-   ],
-   "cat": "health",
    "val": 2,
    "teaser": false,
    "hits": 1
@@ -2504,29 +2394,6 @@
    "hits": 1
   },
   {
-   "title": "बढ्यो अमेरिकी डलर, अस्ट्रेलियन डलर र युरोको भाउ",
-   "summary": "नेपाल राष्ट्र बैंकले आजका लागि विदेशी मुद्राको विनिमयदर निर्धारण गरेको छ।",
-   "link": "https://www.setopati.com/kinmel/banking/403480",
-   "source": "Setopati",
-   "ts": 1795740485,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "बढ्यो अमेरिकी डलर, अस्ट्रेलियन डलर र युरोको भाउ",
-   "en": "बढ्यो अमेरिकी डलर, अस्ट्रेलियन डलर र युरोको भाउ",
-   "ne": "बढ्यो अमेरिकी डलर, अस्ट्रेलियन डलर र युरोको भाउ",
-   "imp": 2,
-   "tags": [
-    "ExchangeRate",
-    "USDollar",
-    "विदेशीमुद्रा"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 3
-  },
-  {
    "title": "Use of Hand Tractors Reduces Oxen Rearing Tradition in Bhojpur",
    "summary": "Bhojpur. The traditional practice of raising oxen in the villages of Bhojpur has been declining with the increasing use of...",
    "link": "http://english.ratopati.com/story/88440/as-the-use-of-hand-tractors-increases-the-practice-of-raising-cattle-is-declining",
@@ -2774,30 +2641,6 @@
    ],
    "cat": "health",
    "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Trump, NATO chief urge Russia not to 'expand' Ukraine war",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYjRDcmVPbXpKek9RMUNtbWc5d1VhZXVycERERXBsbHR3Y3VhVEkzN3VEZnRsQ3lOTEEyNjNNbXRyQ3JIMkJ0bElZdjEtSzY2eUswZTBjVjJsSVp3WGR6ZlJTdzMyVmM1Y3dFR3NpVk1kY2x1djUzQWk5R3RuWFlKbThCU3ZybHUtMU1mcDlxcFNKbzVfYVM4NXl3TWhWdG9HTjNLNFB3R0kxV1ZGNlE?oc=5",
-   "source": "myRepublica",
-   "ts": 1795740114,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Trump, NATO chief urge Russia not to 'expand' Ukraine war",
-   "en": "Trump, NATO chief urge Russia not to 'expand' Ukraine war",
-   "ne": "Trump, NATO chief urge Russia not to 'expand' Ukraine war",
-   "imp": 1,
-   "tags": [
-    "Trump",
-    "NATO",
-    "Russia",
-    "Ukraine"
-   ],
-   "cat": "world",
-   "val": 3,
    "teaser": false,
    "hits": 1
   },
@@ -7719,7 +7562,7 @@
    "cat": "society",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "बगैँचाभरि सुन्तला, किसानलाई बजारको चिन्ता",
@@ -8545,7 +8388,7 @@
    "cat": "tech",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Squatters live in fear as authorities order them out of temporary shelters",
@@ -8615,20 +8458,33 @@
    "val": 3,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "Nepal publishes list of 213 missing Indians after devastating floods",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSkoyMTlmTm5SbHAzTTEtaTVGYmRPOGpDeW1Xd0hTTElHNk1SM1kzUU1NVXpTTWpFTUpRWndMUUhMNGdERm51OEhXajVxLW1GT3RpVTdHV3pMc3EzUUd2ZVR1cHBqaGUzRzRRWnI2a2wtNUlScFdCWFduSHpxaHhSTUFyUXQxWHZDU0xJbG9yM1VqbkkwVm9aQVp1ME1IU1ZnRFJFUFJIODA?oc=5",
+   "source": "News Today",
+   "ts": 1795768864,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "Nepal publishes list of 213 missing Indians after devastating floods",
+   "en": "Nepal publishes list of 213 missing Indians after devastating floods",
+   "ne": "Nepal publishes list of 213 missing Indians after devastating floods",
+   "imp": 4,
+   "tags": [
+    "Floods",
+    "India",
+    "Missing",
+    "बाढी"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1795164078.8059952,
-   "en": "सिंहदरबारको फोहोर नउठाउने तत्कालीन मेयर बालेनको निर्णय असंवैधानिक: सर्वोच्च",
-   "ne": "सिंहदरबारको फोहोर नउठाउने तत्कालीन मेयर बालेनको निर्णय असंवैधानिक: सर्वोच्च",
-   "link": "https://www.setopati.com/politics/402982",
-   "source": "Setopati",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "politics"
-  },
   {
    "ts": 1795165866.3113933,
    "en": "Nepal gets India's nod to import up to 350 MW power this winter",
@@ -11732,8 +11588,8 @@
    "cat": "economy"
   }
  ],
- "updated": 1795768867,
- "pending_since": null,
+ "updated": 1795769457,
+ "pending_since": 1795769453.1491728,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
