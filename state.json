@@ -2052,7 +2052,10 @@
   "https://gorkhapatraonline.com/news/230529": 1795741278.4259017,
   "https://gorkhapatraonline.com/news/230527": 1795741278.4259017,
   "https://gorkhapatraonline.com/news/230526": 1795741278.4259017,
-  "https://gorkhapatraonline.com/news/230525": 1795741278.4259017
+  "https://gorkhapatraonline.com/news/230525": 1795741278.4259017,
+  "https://nagariknews.nagariknetwork.com/politics/rsvp-delegation-returns-home-after-china-visit-15-94.html": 1795741849.0243077,
+  "https://nagariknews.nagariknetwork.com/sports/abhibh-s-four-records-eight-golds-br-44-19.html": 1795741849.0243077,
+  "https://risingnepaldaily.com/news/89072": 1795741849.0243077
  },
  "queue": [
   {
@@ -2098,75 +2101,6 @@
    ],
    "cat": "world",
    "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "डीगोको 'बिग बोस सुपर फ्यान' अभियान, विजेताले बिग बोसको सेट घुम्न पाउने",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/508388",
-   "source": "Baahrakhari",
-   "ts": 1795712721,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "डीगोको 'बिग बोस सुपर फ्यान' अभियान, विजेताले बिग बोसको सेट घुम्न पाउने",
-   "en": "डीगोको 'बिग बोस सुपर फ्यान' अभियान, विजेताले बिग बोसको सेट घुम्न पाउने",
-   "ne": "डीगोको 'बिग बोस सुपर फ्यान' अभियान, विजेताले बिग बोसको सेट घुम्न पाउने",
-   "imp": 1,
-   "tags": [
-    "Digi",
-    "BiggBoss",
-    "Entertainment"
-   ],
-   "cat": "culture",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Sashastra Prahari Officials Emphasize Local Cooperation for Border Security and Crime Control",
-   "summary": "Rautahat. Officials of the Armed Police Force Nepal have stated that the cooperation and collaboration of local representatives and civil...",
-   "link": "http://english.ratopati.com/story/88433/local-cooperation-is-essential-in-controlling-border-crime",
-   "source": "Ratopati EN",
-   "ts": 1795712672,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/rautahat-map_raE6wYSTrw.webp",
-   "lang": "en",
-   "hl": "Sashastra Prahari Officials Emphasize Local Cooperation for Border Security and Crime Control",
-   "en": "Sashastra Prahari Officials Emphasize Local Cooperation for Border Security and Crime Control",
-   "ne": "Sashastra Prahari Officials Emphasize Local Cooperation for Border Security and Crime Control",
-   "imp": 2,
-   "tags": [
-    "APF",
-    "BorderSecurity",
-    "CrimeControl"
-   ],
-   "cat": "society",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "संगठनभित्र हुने निरीक्षणलाई परिणाममुखी बनाउन सशस्त्र महानिरीक्षक पौडेलको निर्देशन",
-   "summary": "काठमाडौं, मंसिर १० गते । सशस्त्र प्रहरी बल, नेपालका महानिरीक्षक नारायणदत्त पौडेलले संगठनभित्र हुने निरीक्षणलगायतका गतिविधिहरूलाई औपचारिकतामा सीमित नराखी कार्यसम्पादनको वास्तविक नति...",
-   "link": "https://gorkhapatraonline.com/news/230522",
-   "source": "Gorkhapatra",
-   "ts": 1795713025,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/393550/conversions/WhatsApp-Image-2026-11-26-at-20.45.44-original.jpg",
-   "lang": "ne",
-   "hl": "संगठनभित्र हुने निरीक्षणलाई परिणाममुखी बनाउन सशस्त्र महानिरीक्षक पौडेलको निर्देशन",
-   "en": "संगठनभित्र हुने निरीक्षणलाई परिणाममुखी बनाउन सशस्त्र महानिरीक्षक पौडेलको निर्देशन",
-   "ne": "संगठनभित्र हुने निरीक्षणलाई परिणाममुखी बनाउन सशस्त्र महानिरीक्षक पौडेलको निर्देशन",
-   "imp": 2,
-   "tags": [
-    "APF",
-    "RajuAryal",
-    "सशस्त्रप्रहरी"
-   ],
-   "cat": "society",
-   "val": 2,
    "teaser": false,
    "hits": 1
   },
@@ -2816,6 +2750,28 @@
    ],
    "cat": "society",
    "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "31 killed in blast in Egypt",
+   "summary": "Agency, Cairo, Nov. 27: At least 31 people were reported dead on Wednesday, and 21 others were injured, following a mass...",
+   "link": "https://risingnepaldaily.com/news/89072",
+   "source": "Rising Nepal",
+   "ts": 1795741457,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "31 killed in blast in Egypt",
+   "en": "31 killed in blast in Egypt",
+   "ne": "31 killed in blast in Egypt",
+   "imp": 1,
+   "tags": [
+    "Egypt",
+    "Blast"
+   ],
+   "cat": "world",
+   "val": 3,
    "teaser": false,
    "hits": 1
   }
@@ -5924,8 +5880,8 @@
    "cat": "politics"
   }
  ],
- "updated": 1795741284,
- "pending_since": null,
+ "updated": 1795741853,
+ "pending_since": 1795741849.0243077,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
