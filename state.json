@@ -1,8 +1,5 @@
 {
  "seen": {
-  "https://baahrakhari.com/detail/508242": 1795584667.0646155,
-  "https://nagariknews.nagariknetwork.com/Aparadh/one-arrested-with-15-buckets-of-honey-mixed-with-inedible-substances-br-43-33.html": 1795584667.0646155,
-  "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5LS1BwTWJGSndoY1Y1czVadTREb25CbmZwbUk5eUx6WjFwUGFGRHhzdVpLMHN4VXU4ZTBETEdQVVViM3ZjeGpmeXpiNmpaWHRHRnhfTlB4YmJWZ2o30gFcQVVfeXFMTktLUHBNYkZKd2hjVjVzNVp1NERvbkJuZnBtSTl5THpaMXBQYUZEeHN1Wkswc3hVdThlMERMR1BVVWIzdmN4amZ5emI2alpYdEdGeF9OUHhiYlZnajc?oc=5": 1795584667.0646155,
   "https://risingnepaldaily.com/news/89008": 1795585253.291267,
   "https://baahrakhari.com/detail/508244": 1795585253.291267,
   "https://english.onlinekhabar.com/gold-price-drops-by-rs-6500.html": 1795585253.291267,
@@ -2080,7 +2077,12 @@
   "https://www.setopati.com/politics/403493": 1795756856.970517,
   "https://theannapurnaexpress.com/story/69103": 1795756856.970517,
   "http://english.ratopati.com/story/88475/twelve-people-including-9-nepalis-arrested-for-gambling-at-birgunj-casino": 1795756856.970517,
-  "https://gorkhapatraonline.com/news/230574": 1795756856.970517
+  "https://gorkhapatraonline.com/news/230574": 1795756856.970517,
+  "https://risingnepaldaily.com/news/89096": 1795757468.8226154,
+  "https://gorkhapatraonline.com/news/230580": 1795757468.8226154,
+  "https://gorkhapatraonline.com/news/230577": 1795757468.8226154,
+  "https://risingnepaldaily.com/news/89095": 1795757468.8226154,
+  "https://kathmandupost.com/national/2026/11/27/12-arrested-over-gambling-at-birgunj-casino": 1795757468.8226154
  },
  "queue": [
   {
@@ -2775,7 +2777,7 @@
    "cat": "society",
    "val": 2,
    "teaser": false,
-   "hits": 3
+   "hits": 4
   },
   {
    "title": "Bagmati Province Government Faces Rising Current Expenditure and Slow Capital Spending",
@@ -3646,7 +3648,7 @@
    "cat": "world",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "प्रधानमन्त्रीको घोषणासँगै बैजनाथपुर क्रिकेट रंगशालाको अस्तित्व खोजिदै",
@@ -5300,29 +5302,6 @@
    "hits": 1
   },
   {
-   "title": "National Grid Electricity Extended to Dhorpatan Valley in Baglung",
-   "summary": "Kathmandu. Nepal Electricity Authority has extended the national transmission system's electricity service to the Dhorpatan valley, a tourist area located...",
-   "link": "http://english.ratopati.com/story/88464/electricity-from-the-national-transmission-system-reaches-dhorpatan-valley-a-tourist-area-in-baglung",
-   "source": "Ratopati EN",
-   "ts": 1795752938,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/dhorpatan_Mqwtc5Nv1s.webp",
-   "lang": "en",
-   "hl": "National Grid Electricity Extended to Dhorpatan Valley in Baglung",
-   "en": "National Grid Electricity Extended to Dhorpatan Valley in Baglung",
-   "ne": "National Grid Electricity Extended to Dhorpatan Valley in Baglung",
-   "imp": 3,
-   "tags": [
-    "NationalGrid",
-    "Dhorpatan",
-    "Baglung"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
    "title": "Bhotekoshi: A Call For Climate Justice",
    "summary": "From Bhotekoshi to Antalya, Nepal is gaining recognition in global climate negotiations. But unless international commit...",
    "link": "https://risingnepaldaily.com/news/89089",
@@ -5891,7 +5870,7 @@
    "cat": "economy",
    "val": 3,
    "teaser": false,
-   "hits": 3
+   "hits": 4
   },
   {
    "title": "ट्रान्जिट गन्तव्य बन्दै इटहरी, होटल व्यवसायमा लगानी विस्तार",
@@ -6051,7 +6030,7 @@
    "cat": "culture",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Nepal Football League set to launch with 10 teams, ambitious home-and-away format",
@@ -6211,7 +6190,7 @@
    "cat": "crime",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "हिटलरको अधुरो इच्छा",
@@ -6238,17 +6217,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1795152063.1254475,
-   "en": "China says Balen government reluctant to advance BRI commitments",
-   "ne": "China says Balen government reluctant to advance BRI commitments",
-   "link": "https://english.onlinekhabar.com/china-balen-reluctant-advance-bri.html",
-   "source": "Onlinekhabar EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "politics"
-  },
   {
    "ts": 1795153863.0178666,
    "en": "Rasuwa-Bhotekoshi Flood Recovery Stalled Over 3 Months Later",
@@ -9361,9 +9329,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "society"
+  },
+  {
+   "ts": 1795757474.640716,
+   "en": "National Grid Electricity Extended to Dhorpatan Valley in Baglung",
+   "ne": "National Grid Electricity Extended to Dhorpatan Valley in Baglung",
+   "link": "http://english.ratopati.com/story/88464/electricity-from-the-national-transmission-system-reaches-dhorpatan-valley-a-tourist-area-in-baglung",
+   "source": "Ratopati EN",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "economy"
   }
  ],
- "updated": 1795756865,
+ "updated": 1795757487,
  "pending_since": 1795756856.970517,
  "fb_blocks": [
   1790350880.4125228,
