@@ -1,8 +1,5 @@
 {
  "seen": {
-  "https://baahrakhari.com/detail/508233": 1795575684.842162,
-  "https://www.setopati.com/social/403322": 1795575684.842162,
-  "https://gorkhapatraonline.com/news/230308": 1795575684.842162,
   "http://english.ratopati.com/story/88136/agreement-to-operate-two-way-air-routes-from-bhairahawa-is-welcome-bhattarai": 1795576257.2605488,
   "https://news.google.com/rss/articles/CBMizwFBVV95cUxPY0VXemR6elZYSjV5NGR1ZThjd3FVYmFldy11YmhQV2k3QlFBU3QyTDg0SDJ4dnVFaUx3NW10Y012ZUFkclJYVjhuX3NqMkh1Rl9aNkplaTIwak5JdnY3aUFzZDNDaEtEcE5OSExNTnZ3YkI4RDdYdzhfTVA1dnpGQzlKUkFPaVJCSlFraDJOZjg1WW96MDlPc0hla1BfMUU3RzNQYzBkTVpHWFdDbWdEMTBMZURqbFgyUmJ3eUEtdDJLUGVHQTk1ZzNIX3JtNzg?oc=5": 1795576847.1073823,
   "https://theannapurnaexpress.com/story/69044": 1795576847.1073823,
@@ -2068,7 +2065,8 @@
   "https://nagariknews.nagariknetwork.com/politics/speaker-aryal-also-joins-the-malaysia-case-br-65-91.html": 1795747848.0900922,
   "http://english.ratopati.com/story/88446/storms-hit-eastern-us-disrupting-power-to-more-than-900000-homes-on-thanksgiving": 1795747848.0900922,
   "https://nagariknews.nagariknetwork.com/politics/permission-to-detain-10-people-including-two-former-ministers-for-another-five-days-31-51.html": 1795747848.0900922,
-  "http://english.ratopati.com/story/88445/4-people-including-3-employees-arrested-for-forging-citizenship-records": 1795747848.0900922
+  "http://english.ratopati.com/story/88445/4-people-including-3-employees-arrested-for-forging-citizenship-records": 1795747848.0900922,
+  "https://news.google.com/rss/articles/CBMisgFBVV95cUxPU2ljYzgzNTZDc3J4MW01b21saEpWSVFYajBuZ1ZQcTBPNWptVmNsWnJkZXJUQ2dSVmRmRnZFY1Myd01SRHlCUVRPQ3B0dVVRSEJhNGhBRkRvdW4wNS1scEs3VmV4V2pJWG02ZnIxVl9aSVZBMDRHWTduYzJnM0VlbjJNUlI5Rm5FUWJhUGVpQ2QtRlplbFo4QW5XRFNKV3lnMU81NDVIVTRRalh4QlhFZnRB?oc=5": 1795748485.6229627
  },
  "queue": [
   {
@@ -4071,20 +4069,32 @@
    "val": 3,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "Death Certificates for 54 Malaysians Missing in Nepal Floods Expected by December 2026",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPU2ljYzgzNTZDc3J4MW01b21saEpWSVFYajBuZ1ZQcTBPNWptVmNsWnJkZXJUQ2dSVmRmRnZFY1Myd01SRHlCUVRPQ3B0dVVRSEJhNGhBRkRvdW4wNS1scEs3VmV4V2pJWG02ZnIxVl9aSVZBMDRHWTduYzJnM0VlbjJNUlI5Rm5FUWJhUGVpQ2QtRlplbFo4QW5XRFNKV3lnMU81NDVIVTRRalh4QlhFZnRB?oc=5",
+   "source": "Varnam Malaysia",
+   "ts": 1795747255,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "Death Certificates for 54 Malaysians Missing in Nepal Floods Expected by December 2026",
+   "en": "Death Certificates for 54 Malaysians Missing in Nepal Floods Expected by December 2026",
+   "ne": "Death Certificates for 54 Malaysians Missing in Nepal Floods Expected by December 2026",
+   "imp": 3,
+   "tags": [
+    "Malaysia",
+    "NepalFloods",
+    "बाढी"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1795143057.8411977,
-   "en": "One Woman Dies, Nine Injured in Dhading Bolero Accident",
-   "ne": "One Woman Dies, Nine Injured in Dhading Bolero Accident",
-   "link": "http://english.ratopati.com/story/87379/bolero-accident-in-dhading-one-woman-dies-9-injured",
-   "source": "Ratopati EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "disaster"
-  },
   {
    "ts": 1795144864.8617566,
    "en": "Air pollution causes 26,000 premature deaths annually in Nepal, reducing life expectancy by 3.4 years",
@@ -7188,8 +7198,8 @@
    "cat": "world"
   }
  ],
- "updated": 1795747871,
- "pending_since": null,
+ "updated": 1795748491,
+ "pending_since": 1795748485.6229627,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
