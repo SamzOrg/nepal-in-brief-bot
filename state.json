@@ -2083,7 +2083,11 @@
   "http://english.ratopati.com/story/88489/actress-deepashree-niraula-is-tumor-free-says-i-have-been-reborn": 1795761069.7740579,
   "https://gorkhapatraonline.com/news/230591": 1795761069.7740579,
   "https://gorkhapatraonline.com/news/230590": 1795761069.7740579,
-  "https://risingnepaldaily.com/news/89103": 1795761650.3546052
+  "https://risingnepaldaily.com/news/89103": 1795761650.3546052,
+  "https://baahrakhari.com/detail/508415": 1795762252.5819108,
+  "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVVNSMTNMSW5RR2RBcVNNLU1aSmg4aEs5Qk5SRlpNSHRaT0c1aHhDSUVOdWxTRUw1NDVfSkRWRnRJV29KQkVkQ0R0TzBkLVI4UVRKTEl0U0lGNEdPaVZzRS16TGxUWjV3X0RfdzVydlhjdlRaRHBSWWNGZ2Z6RktHbFdhbkVRSy11b0lucmZhazVmM01lU0s1OVFmWHltRWNfTzY1SXd0anhIUjZwTXc?oc=5": 1795762252.5819108,
+  "https://gorkhapatraonline.com/news/230599": 1795762252.5819108,
+  "https://english.onlinekhabar.com/bhotekoshi-782-public-transport.html": 1795762252.5819108
  },
  "queue": [
   {
@@ -3602,7 +3606,7 @@
    "cat": "society",
    "val": 3,
    "teaser": false,
-   "hits": 4
+   "hits": 5
   },
   {
    "title": "बेवारिसे अवस्थामा भेटिएकी महिलाको उद्धार",
@@ -4912,7 +4916,7 @@
    "cat": "world",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Art Enriches Human Life",
@@ -7394,20 +7398,55 @@
    "val": 3,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "ट्रकले किच्दा महिलाको मृत्यु",
+   "summary": "अनिल पराजुलीमकवानपुर, मङ्सिर ११ गते । मकवानपुरको हेटौँडामा ट्रकले किच्दा मोटरसाइकलमा सवार एक महिलाको मृत्यु भएको छ । मोटरसाइकल चालक घाइते हुनुभएको छ । बिहीबार साँझ हेटौँडा उपमहानगर...",
+   "link": "https://gorkhapatraonline.com/news/230599",
+   "source": "Gorkhapatra",
+   "ts": 1795761966,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/393644/conversions/dead-body-original.jpg",
+   "lang": "ne",
+   "hl": "ट्रकले किच्दा महिलाको मृत्यु",
+   "en": "ट्रकले किच्दा महिलाको मृत्यु",
+   "ne": "ट्रकले किच्दा महिलाको मृत्यु",
+   "imp": 3,
+   "tags": [
+    "TruckAccident",
+    "RoadSafety",
+    "दुर्घटना"
+   ],
+   "cat": "accident",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Bhotekoshi flood: 782 people, 409 vehicles hit in public transport sector",
+   "summary": "The details of human and physical losses to the public transport sector from the devastating flood in the Bhotekoshi River on August 26 have been made public. The damage assessment report was submitted today to Minister...",
+   "link": "https://english.onlinekhabar.com/bhotekoshi-782-public-transport.html",
+   "source": "Onlinekhabar EN",
+   "ts": 1795761682,
+   "weight": 3,
+   "img": "http://english.onlinekhabar.com/wp-content/uploads/2025/07/Rasuwagadhi-Flood-26.jpg",
+   "lang": "en",
+   "hl": "Bhotekoshi flood: 782 people, 409 vehicles hit in public transport sector",
+   "en": "Bhotekoshi flood: 782 people, 409 vehicles hit in public transport sector",
+   "ne": "Bhotekoshi flood: 782 people, 409 vehicles hit in public transport sector",
+   "imp": 4,
+   "tags": [
+    "Bhotekoshi",
+    "Flood",
+    "Sindhupalchok"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1795156870.8078182,
-   "en": "चालु आर्थिक वर्षको तीन महिनामा रेमिट्यान्स सात खर्ब नाघ्यो",
-   "ne": "चालु आर्थिक वर्षको तीन महिनामा रेमिट्यान्स सात खर्ब नाघ्यो",
-   "link": "https://baahrakhari.com/detail/507829",
-   "source": "Baahrakhari",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "economy"
-  },
   {
    "ts": 1795158667.637489,
    "en": "Nepal Police Detain 35 Japanese and 5 Chinese in Resort Raid Over Online Fraud",
@@ -10511,7 +10550,7 @@
    "cat": "politics"
   }
  ],
- "updated": 1795761656,
+ "updated": 1795762257,
  "pending_since": 1795761650.3546052,
  "fb_blocks": [
   1790350880.4125228,
