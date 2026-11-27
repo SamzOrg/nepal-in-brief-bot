@@ -1,8 +1,5 @@
 {
  "seen": {
-  "https://gorkhapatraonline.com/news/230323": 1795581647.41219,
-  "https://news.google.com/rss/articles/CBMikAFBVV95cUxOU2YzWmpCOGp3SVV0dEV0Ql9sOFN0QVJIZjVuZXJEUmpmWHFlSkFYZ2U0cEpNWUVYbHZFRmlLZDFxZmF0d2V2dE9zZG1kb29CNkEwVl9EemNaQmtmSFBmNE1xb0Z6dEF4Tjl2NjhjZWJDYjhuYjg0a2JPdko1ZGJyX29CYURDUE1ycGlINmRXQU8?oc=5": 1795581647.41219,
-  "https://theannapurnaexpress.com/story/69049": 1795581647.41219,
   "https://english.onlinekhabar.com/karnali-international-film-festival.html": 1795582252.1410196,
   "http://english.ratopati.com/story/88156/nepali-qr-payment-in-india-still-uncertain-where-is-the-agreement-stuck": 1795582252.1410196,
   "https://news.google.com/rss/articles/CBMiugFBVV95cUxONm9EYlk0T3ZBeUlkbU8wNFBnYUlwUXRzb3J1anlWQTh0S2pUb25qRncwdm5QY3RiMU9DamdscHYyQnNvQUxhZGlWU3dRT09QLWw0NzFucEc2VGgwN1VveVRianJhdkFSVzlUQ1JsaTFhaUVxSnpSMXlHT2ppLU5ZZExQQzlBVEhJSUlTWVlYYURqMGJtamlydl80cWw1OWRTQXRfcjVWaFpaUVBjMHZUeWJEcnlLRkdqb2c?oc=5": 1795582252.1410196,
@@ -2075,7 +2072,13 @@
   "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNdzlJWmJnSEZZZHVJalRJTDBPWTZuRGdKLXRBazJ0YktkbllhS2ZhdUpCVGpyQldsbmVmbEhSZk5qZ1hkWHZrRVVRX0ZHUC1RUXJpNG5PT3lxQWY1b2w2Ump2aUpZMGhTSkdvbVFXcG1VZ1F0RlREYk9lWE1taEJGT25pZXQwWlZ5N1VwZEtEOWNseWpRajhtV1kzMG9xUU5fR2xGWTBQU2RLZ2F1VV9wWUFZQXJFWFMyN3RHdlFiWHBMV0tLZzZBRnpxTVRzMk5tQjdLSVBoN0lZNl9HS3RzaUIwbGJsUQ?oc=5": 1795753869.2442248,
   "https://nagariknews.nagariknetwork.com/politics/landslide-problem-cannot-be-solved-by-simply-picking-up-garbage-and-throwing-it-away-baburam-bhattarai-98-33.html": 1795753869.2442248,
   "https://theannapurnaexpress.com/story/69101": 1795753869.2442248,
-  "https://theannapurnaexpress.com/story/69100": 1795753869.2442248
+  "https://theannapurnaexpress.com/story/69100": 1795753869.2442248,
+  "https://english.onlinekhabar.com/bhotekoshi-flood-affected-children-to-receive-rs-17500-in-monthly-assistance.html": 1795754448.9644501,
+  "http://english.ratopati.com/story/88469/ujjaya-nepal-party-demands-immediate-withdrawal-of-decision-to-remove-squatters-from-holding-centers": 1795754448.9644501,
+  "http://english.ratopati.com/story/88467/decision-to-remove-squatters-from-holding-centers-objectionable-uml": 1795754448.9644501,
+  "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYUwtUXFzUUdGaW5EeGI2TWxlbkFqZmVjQ0tXRmxDV2dxOEx3cGhEMGJMaGpTeG50VTBiQ2R3djRLNlJVTDBlV3dKWEQwODIxUUwxbS1vODZmcHBGTUdab2xrQUMzYk95b0JQQzQ0dXk4eFlldVJJUm9Oblp5azN1b3RzR3ltaVV4?oc=5": 1795754448.9644501,
+  "https://english.khabarhub.com/2026/27/577232/": 1795754448.9644501,
+  "https://news.google.com/rss/articles/CBMisAFBVV95cUxQb2RLcUNvc0J2Wk9abllCZFpVSVN5UGpDcmdOc0stZE1yc1hYbmo0a0tnY1NnN2VQX2t5Z1NqbC1jaGI3UmNiMzE1NXVadmI2U3p5OWp3VEVCZ3lHZFNjR2NmeFphMWlxUnJBbVhtQ1EtbThvZ1YzYS12WXl2N0hwb29CT1dsb2NLOTU5VjdPM1hDTzF4cll5YXVCY1VlaHdHWXhKbHQ3RzYyUGpaOXZHYg?oc=5": 1795754448.9644501
  },
  "queue": [
   {
@@ -5501,6 +5504,54 @@
    "val": 2,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "Nepal rolls out long-term protection plan for 810 children affected by Bhotekoshi flood",
+   "summary": "RASUWA: The government has launched a long-term protection, care and support programme for children affected by the Bhotekoshi flood in Goljungbesi, Amachodingmo Rural Municipality-5, Rasuwa. The programme was formally...",
+   "link": "https://english.khabarhub.com/2026/27/577232/",
+   "source": "Khabarhub EN",
+   "ts": 1795754355,
+   "weight": 2,
+   "img": "https://english.khabarhub.com/wp-content/uploads/2026/08/rasuwa-bhotekoshi-1-1-400x220.jpg",
+   "lang": "en",
+   "hl": "Nepal rolls out long-term protection plan for 810 children affected by Bhotekoshi flood",
+   "en": "Nepal rolls out long-term protection plan for 810 children affected by Bhotekoshi flood",
+   "ne": "Nepal rolls out long-term protection plan for 810 children affected by Bhotekoshi flood",
+   "imp": 4,
+   "tags": [
+    "Bhotekoshi",
+    "Flood",
+    "ChildProtection",
+    "बाढी"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Nepali cook's Paris Restaurant wins Le Fooding's Best Neo-Himalayan title",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQb2RLcUNvc0J2Wk9abllCZFpVSVN5UGpDcmdOc0stZE1yc1hYbmo0a0tnY1NnN2VQX2t5Z1NqbC1jaGI3UmNiMzE1NXVadmI2U3p5OWp3VEVCZ3lHZFNjR2NmeFphMWlxUnJBbVhtQ1EtbThvZ1YzYS12WXl2N0hwb29CT1dsb2NLOTU5VjdPM1hDTzF4cll5YXVCY1VlaHdHWXhKbHQ3RzYyUGpaOXZHYg?oc=5",
+   "source": "The Himalayan Times",
+   "ts": 1795754289,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "Nepali cook's Paris Restaurant wins Le Fooding's Best Neo-Himalayan title",
+   "en": "Nepali cook's Paris Restaurant wins Le Fooding's Best Neo-Himalayan title",
+   "ne": "Nepali cook's Paris Restaurant wins Le Fooding's Best Neo-Himalayan title",
+   "imp": 2,
+   "tags": [
+    "Paris",
+    "Restaurant",
+    "NepaliChef",
+    "LeFooding"
+   ],
+   "cat": "culture",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
@@ -8618,7 +8669,7 @@
    "cat": "politics"
   }
  ],
- "updated": 1795753874,
+ "updated": 1795754453,
  "pending_since": 1795753869.2442248,
  "fb_blocks": [
   1790350880.4125228,
