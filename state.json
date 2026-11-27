@@ -1,10 +1,5 @@
 {
  "seen": {
-  "https://english.onlinekhabar.com/army-begin-with-a-win.html": 1795587647.486392,
-  "https://nagariknews.nagariknetwork.com/social-affairs/joint-military-exercise-between-nepal-and-india-begins-64-34.html": 1795587647.486392,
-  "https://nagariknews.nagariknetwork.com/social-affairs/langtang-life-smiles-like-mountains-struggles-like-rocks-br-87-72.html": 1795587647.486392,
-  "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNnkxNTBjN3lac1hIRlUyMGZSb1IwblRBdXJfc2k1QlNtWGxnUkFFWWp4ODZmSkxkUEdUcEdXbEpxRDdzcTZFR2JMaEhHVTZGY25hNWVpWVF3dEdUZTh3a1VMQS1Nbkw5RG9tSGJaZnNqTmZvUC12bnNsZ1JmT1VIeXdNVVZnT1lBX0NYaU9xTV9JcHVlVS0ySFAzYjluYlVlME9UMzNxS2pMSWg4VjlyTmQ5djhQRHM2TGRyRWQyT1B1cUtOX2xsSWhTVWx0VUE2UXNHUWh1dVo?oc=5": 1795587647.486392,
-  "http://english.ratopati.com/story/88181/three-people-die-in-separate-road-accidents": 1795587647.486392,
   "http://english.ratopati.com/story/88184/removal-of-encroached-structures-on-highways-begins-in-jumla": 1795588271.4117537,
   "https://english.khabarhub.com/2026/25/576995/": 1795588271.4117537,
   "https://nagariknews.nagariknetwork.com/social-affairs/dor-bahadur-has-been-alive-in-the-hearts-of-the-people-of-chhudhabi-for-three-decades-79-54.html": 1795588271.4117537,
@@ -2087,7 +2082,10 @@
   "https://english.onlinekhabar.com/gold-price-rises-by-rs-3300-per-tola.html": 1795759859.2809832,
   "http://english.ratopati.com/story/88480/tibetan-citizen-arrested-with-24-million-rupees-in-cash-from-boudha-two-citizenships-found": 1795759859.2809832,
   "http://english.ratopati.com/story/88479/nast-employees-protest-demand-science-ministers-resignation": 1795759859.2809832,
-  "http://english.ratopati.com/story/88474/dr-parajulis-emphasis-on-fulfilling-national-responsibilities-by-leaving-petty-activities-behind": 1795759859.2809832
+  "http://english.ratopati.com/story/88474/dr-parajulis-emphasis-on-fulfilling-national-responsibilities-by-leaving-petty-activities-behind": 1795759859.2809832,
+  "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcy1fanFxRnl6M2o0YzNQS1FsMWQ0NXhUTDBNaWdWSUxUYWxnc0VpTmdwYkVDS0lqbC1QRUpGUGxfcXJMVC1icld1d1pPaFcwRTlOSjBLb2FZRTVIY2dlc016OWZtUEFEbWNZelctZVRUUkF5NnNDd1l0NkVOcXdTWUJnaS16ckhpWDVPckM4WVFpVEp1eTJtdnBCWktEUUV6M3A3WFFjWU9tMkxO?oc=5": 1795760449.1524973,
+  "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1UcHdQSXl3eXhlU0JFbmpxOGhDa0RBS3dHYW9xWVlWdThXaHA0bW1lSzNlYkg3QVctc1NmMjZlck9rNjFpajdpaEtzRDFCdzU2?oc=5": 1795760449.1524973,
+  "https://risingnepaldaily.com/news/89101": 1795760449.1524973
  },
  "queue": [
   {
@@ -5806,7 +5804,7 @@
    "cat": "economy",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 3
   },
   {
    "title": "Police destroy over 26,000 marijuana plants in Udayapur in a year",
@@ -7061,17 +7059,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1795155078.175561,
-   "en": "PM Balen Shah to Visit India on Dec 6; Former Ministers Urge Focus on Trade and Air Routes",
-   "ne": "PM Balen Shah to Visit India on Dec 6; Former Ministers Urge Focus on Trade and Air Routes",
-   "link": "http://english.ratopati.com/story/87416/prime-ministers-visit-to-india-former-foreign-ministers-suggest-focusing-on-bilateral-interests-and-expanding-relations",
-   "source": "Ratopati EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "politics"
-  },
   {
    "ts": 1795156870.8078182,
    "en": "चालु आर्थिक वर्षको तीन महिनामा रेमिट्यान्स सात खर्ब नाघ्यो",
@@ -10175,8 +10162,8 @@
    "cat": "economy"
   }
  ],
- "updated": 1795759865,
- "pending_since": null,
+ "updated": 1795760453,
+ "pending_since": 1795760449.1524973,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
