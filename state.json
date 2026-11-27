@@ -2074,7 +2074,8 @@
   "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVGsxTWlRNF9fSjFuYkRJSkZhREppZnpDRFNnOHA4WVVBQ2lSZW01M2dHc1Z6QzZ3V3B3MzJ3VzYyXzJBZlMwSTRKaURldmdxNmJDT3JoS0xfdjRQanZZZDNKUlk1MTFGazA2WjlYb1dNZzNNNk42R05pTHA4dVNRTVFTZVU1RWRiUUxpUnBqVnpOUEdISEEtSE5DWVItQng5Um8xVU1WUERPRk5DTjNR?oc=5": 1795798882.5093582,
   "https://baahrakhari.com/detail/508467": 1795798882.5093582,
   "http://english.ratopati.com/story/88594/oil-prices-rise-again-as-tensions-escalate-in-west-asia": 1795798882.5093582,
-  "http://english.ratopati.com/story/88592/seven-middlemen-arrested-for-harassing-service-recipients": 1795798882.5093582
+  "http://english.ratopati.com/story/88592/seven-middlemen-arrested-for-harassing-service-recipients": 1795798882.5093582,
+  "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaF9ZZktTblR0MC1FWXRJV0swUDI3Y0Y1eE8xRlRzTUREZWpnWi0td3FLRV9DMUlYM04ydThNLTRzRWxDT2xXZ3lDMXp0S2lwczlfcG8xdnlEMklkWjV2bGpucTlDekpBdnJpREd3WUZZSzhHY2RlMXdsUjZKd0lzNWFJLWxNZXpySXphUUFYYWhNd05SNXAwdEVabG5HZVdnemNlcTJHRDBnSWJJLTB4N1FUSExrdWcxUUE?oc=5": 1795799451.269233
  },
  "queue": [
   {
@@ -2310,30 +2311,6 @@
    "cat": "sports",
    "val": 2,
    "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "नेपालको हरियो सुन",
-   "summary": "केही वर्षअघि काठमाडौंबाट नेपालगन्ज जाँदा मैले जहाजको झ्याल नजिकको सिटमा बस्ने मौका पाएको थिएँ। म ऊर्जा क्षेत्रमा काम गर्ने भएकाले हिमालबाट तराईतर्फ बग्ने नदीहरू नियाल्न खोज्दै थिएँ।",
-   "link": "https://www.setopati.com/opinion/403382",
-   "source": "Setopati",
-   "ts": 1795770120,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "नेपालको हरियो सुन",
-   "en": "नेपालको हरियो सुन",
-   "ne": "नेपालको हरियो सुन",
-   "imp": 2,
-   "tags": [
-    "GreenGold",
-    "Herbs",
-    "Nepal",
-    "हरियोसुन"
-   ],
-   "cat": "economy",
-   "val": 1,
-   "teaser": true,
    "hits": 1
   },
   {
@@ -4723,29 +4700,6 @@
    "hits": 3
   },
   {
-   "title": "Home Minister Sudan Gurung to hold traditional wedding in Gorkha",
-   "summary": "Prime Minister Balendra Shah and Rastriya Swatantra Party chairman Rabi Lamichhane are expected to attend the ceremony on December 3, which is also intended to promote the village as a wedding destination.",
-   "link": "https://kathmandupost.com/national/2026/11/27/home-minister-sudan-gurung-to-hold-traditional-wedding-in-gorkha",
-   "source": "Kathmandu Post",
-   "ts": 1795770085.0518782,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Home Minister Sudan Gurung to hold traditional wedding in Gorkha",
-   "en": "Home Minister Sudan Gurung to hold traditional wedding in Gorkha",
-   "ne": "Home Minister Sudan Gurung to hold traditional wedding in Gorkha",
-   "imp": 2,
-   "tags": [
-    "SudanGurung",
-    "Gorkha",
-    "Wedding"
-   ],
-   "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "चुनाव चिह्न र झण्डाको दुरुपयोग रोक्न कांग्रेसले निर्वाचन आयोगलाई पत्राचार गर्ने",
    "summary": "",
    "link": "https://baahrakhari.com/detail/508454",
@@ -4857,29 +4811,6 @@
     "NTags"
    ],
    "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Embassy's refusal stalls Supreme Court ruling on video testimony from abroad",
-   "summary": "A landmark ruling allowing accused persons overseas to testify remotely remains unimplemented after Nepali embassy in Australia says it has neither authority nor the facilities to enforce the court order.",
-   "link": "https://kathmandupost.com/national/2026/11/27/embassy-s-refusal-stalls-supreme-court-ruling-on-video-testimony-from-abroad",
-   "source": "Kathmandu Post",
-   "ts": 1795770085.0518782,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Embassy's refusal stalls Supreme Court ruling on video testimony from abroad",
-   "en": "Embassy's refusal stalls Supreme Court ruling on video testimony from abroad",
-   "ne": "Embassy's refusal stalls Supreme Court ruling on video testimony from abroad",
-   "imp": 2,
-   "tags": [
-    "SupremeCourt",
-    "Embassy",
-    "Nepal"
-   ],
-   "cat": "politics",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -9516,10 +9447,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "disaster"
+  },
+  {
+   "ts": 1795799458.7729177,
+   "en": "Three Months After Nepal Floods, Mothers Lack Adequate Care",
+   "ne": "Three Months After Nepal Floods, Mothers Lack Adequate Care",
+   "link": "https://nepyork.com/2026/11/27/three-months-after-nepal-floods-pregnant-and-postpartum-women-still-lack-adequate-care/",
+   "source": "NepYork",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "society"
   }
  ],
- "updated": 1795798889,
- "pending_since": null,
+ "updated": 1795799476,
+ "pending_since": 1795799451.269233,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
