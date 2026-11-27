@@ -1,14 +1,5 @@
 {
  "seen": {
-  "https://www.ujyaaloonline.com/detail/133832": 1795585854.307387,
-  "https://news.google.com/rss/articles/CBMi8wFBVV95cUxORXFXdXNWZnlCSm1hQWl1WDh2eGVYMG1KT0gxOXBNZUZ0MEVTZGgxMXpLZ1RyR3g0VXhfcTN6RXJlLW9wNXhSeVMtMUxfTXR5alY1TXVJbDhsMEhFREFUWW5hUGtHQVB2RTdmQmtSZ0UtanRDTzB3LVd2bjI0eXZ2OXNzXzZrQ0VvUkNPZ2FhR2hNQ2plMXZTWUVna195WHVKR1lUMFdrTFY1eHF3TFkzSnBReGFIc0dDNXl4SWw3bUZDc25HcFRPTzBDdW9nMEMtdU1EQkkzMU9sNmdvTnVKTkVrX1p4Y0cyeS1fallWUGptNzA?oc=5": 1795585854.307387,
-  "https://risingnepaldaily.com/news/89010": 1795585854.307387,
-  "http://english.ratopati.com/story/88175/after-visiting-india-the-prime-minister-should-be-able-to-show-the-countrymen-a-picture-of-national-pride-and-prosperity": 1795585854.307387,
-  "https://baahrakhari.com/detail/508245": 1795585854.307387,
-  "https://nagariknews.nagariknetwork.com/international/swiss-diplomat-ordered-to-leave-north-korea-within-48-hours-87-75.html": 1795585854.307387,
-  "https://kathmandupost.com/world/2026/11/25/china-s-shenzhou-24-docks-at-space-station-with-pakistani-national-as-first-foreign-astronaut": 1795585854.307387,
-  "https://english.onlinekhabar.com/hamas-internal-security-chief-killed-in-israeli-airstrike-in-gaza.html": 1795585854.307387,
-  "https://baahrakhari.com/detail/508247": 1795586483.1578066,
   "https://risingnepaldaily.com/news/89011": 1795587049.0404696,
   "https://english.khabarhub.com/2026/25/576991/": 1795587049.0404696,
   "https://thehimalayantimes.com/nepal/pm-shah-calls-for-zero-tolerance-against-gender-based-violence": 1795587049.0404696,
@@ -2089,7 +2080,11 @@
   "https://nagariknews.nagariknetwork.com/social-affairs/tourist-arrivals-in-chitwan-increase-br-90-30.html": 1795758647.4278748,
   "https://english.onlinekhabar.com/absconding-fraud-arrested-in-sirha.html": 1795758647.4278748,
   "https://gorkhapatraonline.com/news/230579": 1795758647.4278748,
-  "http://english.ratopati.com/story/88481/shah-rukh-khans-king-could-be-the-longest-film-in-20-years": 1795758647.4278748
+  "http://english.ratopati.com/story/88481/shah-rukh-khans-king-could-be-the-longest-film-in-20-years": 1795758647.4278748,
+  "https://nagariknews.nagariknetwork.com/international/trump-urges-putin-to-stop-military-attacks-in-europe-50-17.html": 1795759283.339447,
+  "https://gorkhapatraonline.com/news/230585": 1795759283.339447,
+  "https://nagariknews.nagariknetwork.com/health/1-422-people-benefited-from-eye-camp-br-82-21.html": 1795759283.339447,
+  "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbzlHRjhoUGJISDFha3NEbkhWVVhXS0ZuNEVxYXVaTDNrb0NPWTlMWVBGNHByYlJuSjBraW92UkFFeUpUSTBLOWFNRTdwWDJjNXBobTZBZXoxZWxoaTlLR0FCcHgweHJZZEN0Ml82RllFUk9md2pHVVE5YkRhNk1JUEhCVWR0akxTc0NkOVh5MGVXemNoRkVxdzRaeUNpdGM?oc=5": 1795759283.339447
  },
  "queue": [
   {
@@ -5876,7 +5871,7 @@
    "cat": "culture",
    "val": 1,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Christopher Luxon favoured for second term as New Zealand Prime Minister",
@@ -6222,29 +6217,6 @@
    "hits": 1
   },
   {
-   "title": "Nepal Rastra Bank to Absorb Rs 40 Billion from Banking System",
-   "summary": "Kathmandu. With deposits continuously increasing in banks and financial institutions but loan disbursement not gaining expected momentum, resulting in excess...",
-   "link": "http://english.ratopati.com/story/88484/nepal-rastra-bank-to-withdraw-additional-rs-40-billion-from-the-market-after-excess-liquidity-accumulates",
-   "source": "Ratopati EN",
-   "ts": 1795758452,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/nepal-rastra-bank_5Z3MECAuxt.jpg",
-   "lang": "en",
-   "hl": "Nepal Rastra Bank to Absorb Rs 40 Billion from Banking System",
-   "en": "Nepal Rastra Bank to Absorb Rs 40 Billion from Banking System",
-   "ne": "Nepal Rastra Bank to Absorb Rs 40 Billion from Banking System",
-   "imp": 4,
-   "tags": [
-    "NepalRastraBank",
-    "Liquidity",
-    "NRB"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
    "title": "मुक्तिनाथ विकास बैंकले घोषणा गऱ्यो लाभांश",
    "summary": "बैंकले हाल कायम चुक्ता पुँजीको ७.२५ प्रतिशत नगद लाभांश (कर प्रयोजनसहित) वितरण गर्ने भएको हो।",
    "link": "https://www.setopati.com/kinmel/banking/403496",
@@ -6288,7 +6260,7 @@
    "cat": "disaster",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "148 squatter families in Mayadevi Rural Municipality receive land ownership certificates",
@@ -6614,17 +6586,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1795153863.0178666,
-   "en": "Rasuwa-Bhotekoshi Flood Recovery Stalled Over 3 Months Later",
-   "ne": "Rasuwa-Bhotekoshi Flood Recovery Stalled Over 3 Months Later",
-   "link": "http://english.ratopati.com/story/87411/confusion-over-budget-and-division-of-labor-in-the-federation-for-reconstruction-provinces-and-local-levels-are-waiting-for-resources",
-   "source": "Ratopati EN",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": true,
-   "cat": "disaster"
-  },
   {
    "ts": 1795154495.1507132,
    "en": "टोखामा आफ्नै पेस्तोल प्रहारबाट प्रहरी हवल्दार डोलनाथ ढकालको मृत्यु",
@@ -9737,9 +9698,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "economy"
+  },
+  {
+   "ts": 1795759289.5916464,
+   "en": "Nepal Rastra Bank to Absorb Rs 40 Billion from Banking System",
+   "ne": "Nepal Rastra Bank to Absorb Rs 40 Billion from Banking System",
+   "link": "http://english.ratopati.com/story/88484/nepal-rastra-bank-to-withdraw-additional-rs-40-billion-from-the-market-after-excess-liquidity-accumulates",
+   "source": "Ratopati EN",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "economy"
   }
  ],
- "updated": 1795758653,
+ "updated": 1795759309,
  "pending_since": 1795758647.4278748,
  "fb_blocks": [
   1790350880.4125228,
