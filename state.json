@@ -2059,57 +2059,11 @@
   "https://news.google.com/rss/articles/CBMiygFBVV95cUxONjFyd2dqeVNBN0pLcno4cGd6VmN1bmMzbUt2OFkwa3NrVDd3OXBkOUMzRWJ1MzMySHV5ck5QMUdNME5wcldQeWJ6aVRhcVgzeVpyNW1FelhqODBBQ1JIZVVMSjhnZ3lvVG4zZC1ldGwwRnFTb1NWYjlHTGhhWFRNaFJJNnlTZXlneFBhMUFyZkhPU3hDT05oek9iWTQzR0VpTldQQldjOHoteE5HXzRsWTVld01BYTFCWkNjNmhrX05vTXhRRWJRTmZ3?oc=5": 1795791685.0082595,
   "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0tUjZmWDFWVndrd20xTk1ndXpfTXg1aHRLTG1Pc2p6c0FvVnFlRFhXdUdvWmpZTjNfTFo4T1NoM0VXWEswNEpwTEJ3UEMtVVhW?oc=5": 1795792264.7297957,
   "https://baahrakhari.com/detail/508461": 1795792861.89721,
-  "http://english.ratopati.com/story/88588/three-indian-nationals-arrested-with-16-kg-of-thai-marijuana-at-tribhuvan-international-airport": 1795792861.89721
+  "http://english.ratopati.com/story/88588/three-indian-nationals-arrested-with-16-kg-of-thai-marijuana-at-tribhuvan-international-airport": 1795792861.89721,
+  "https://kathmandupost.com/national/2026/11/27/two-killed-five-seriously-injured-in-tractor-accident-in-bajura": 1795793474.6461504,
+  "https://theannapurnaexpress.com/story/69123": 1795793474.6461504
  },
  "queue": [
-  {
-   "title": "महिला क्रिकेटमा आर्मी सेमिफाइनलमा, कर्णाली बाहिरियो",
-   "summary": "रजनी योगीसुर्खेत, मङ्सिर ११ गते । विभागीय टोली त्रिभुवन आर्मी क्लब दसौँ राष्ट्रिय खेलकुद प्रतियोगिताको महिला क्रिकेटतर्फ सहआयोजक कर्णाली प्रदेशलाई पराजित गर्दै सेमिफाइनलमा प्रवेश ग...",
-   "link": "https://gorkhapatraonline.com/news/230606",
-   "source": "Gorkhapatra",
-   "ts": 1795764435,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/393654/conversions/d03dbcbf-8826-47a7-bc7e-0a04f4757f5eg-original.jpg",
-   "lang": "ne",
-   "hl": "महिला क्रिकेटमा आर्मी सेमिफाइनलमा, कर्णाली बाहिरियो",
-   "en": "महिला क्रिकेटमा आर्मी सेमिफाइनलमा, कर्णाली बाहिरियो",
-   "ne": "महिला क्रिकेटमा आर्मी सेमिफाइनलमा, कर्णाली बाहिरियो",
-   "imp": 3,
-   "tags": [
-    "Cricket",
-    "Army",
-    "Karnali",
-    "क्रिकेट"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 4
-  },
-  {
-   "title": "अमेरिकामा आँधी र भारी वर्षापछि १० लाख घरमा विद्युत् अवरुद्ध, सयौँ उडान रद्द",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/508419",
-   "source": "Baahrakhari",
-   "ts": 1795764073,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "अमेरिकामा आँधी र भारी वर्षापछि १० लाख घरमा विद्युत् अवरुद्ध, सयौँ उडान रद्द",
-   "en": "अमेरिकामा आँधी र भारी वर्षापछि १० लाख घरमा विद्युत् अवरुद्ध, सयौँ उडान रद्द",
-   "ne": "अमेरिकामा आँधी र भारी वर्षापछि १० लाख घरमा विद्युत् अवरुद्ध, सयौँ उडान रद्द",
-   "imp": 1,
-   "tags": [
-    "USA",
-    "Storm",
-    "PowerOutage",
-    "आँधी"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
   {
    "title": "१५० मेगावाट विद्युत् खरिद गर्न प्राधिकरणले माग्यो भारतीय कम्पनीसँग बोलपत्र",
    "summary": "",
@@ -2991,7 +2945,7 @@
    "cat": "crime",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "भाटभटेनी सुपरस्टोर सम्मानित",
@@ -6999,20 +6953,33 @@
    "val": 1,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "Floods blacked out Nepal, COP31 left it in the dark",
+   "summary": "By Gokarna Bahadur ThapaThree months after the Bhotekoshi flood, Nepal is entering winter with less electricity than planned and a reconstruction bill it cannot pay alone. Kathmandu saw the UN climate conference in...",
+   "link": "https://theannapurnaexpress.com/story/69123",
+   "source": "Annapurna Express",
+   "ts": 1795779076.1407485,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "Floods blacked out Nepal, COP31 left it in the dark",
+   "en": "Floods blacked out Nepal, COP31 left it in the dark",
+   "ne": "Floods blacked out Nepal, COP31 left it in the dark",
+   "imp": 4,
+   "tags": [
+    "Floods",
+    "COP31",
+    "Nepal",
+    "बाढी"
+   ],
+   "cat": "disaster",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1795188111.5929673,
-   "en": "India A sets 333-run target for Nepal in Asia Cup Rising Stars 2026 opener",
-   "ne": "India A sets 333-run target for Nepal in Asia Cup Rising Stars 2026 opener",
-   "link": "https://thenewsmill.com/2026/11/tilak-varma-and-kumar-kushagra-centuries-set-333-run-target-for-nepal-in-asia-cup-rising-stars-2026/",
-   "source": "The News Mill",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "sports"
-  },
   {
    "ts": 1795189888.7230122,
    "en": "Govt earns Rs 334.23 million from permits for 188 teams on 48 climbs this fiscal year",
@@ -10094,7 +10061,7 @@
    "cat": "crime"
   }
  ],
- "updated": 1795792873,
+ "updated": 1795793480,
  "pending_since": 1795791685.0082595,
  "fb_blocks": [
   1790350880.4125228,
