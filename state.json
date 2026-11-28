@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://gorkhapatraonline.com/news/230487": 1795687852.296802,
-  "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRjI3SndrNDNHcXF1M3pMWXlrLTByMDlEb1NBTHluMWgwcU9CdVQ3dm5IWDRUWEVaLXRGQVVmRGJVTllnMEJ0blVPT0VRNlpQdGFqeUVHSWhiNlhKWjV3X3lHZS1mMWNxWnBnbzRETVNHTEdCWlFXWGU5TUVfeWJDRFpxVnNRNVMzLXhXX3ZfdXY5dnhoVzI5SzJFaVJfUWRvNmgxcEFKdnp4dlVqZEJrdldRVkxTbDhONU9v0gHAAUFVX3lxTE1yRDRaWXZKMThGaUN2aXBVckVtZnJRQXVqUDg0S2RPckVHQmtnVUdxLVBjQzNtb2hfRzhMdmRSUUx1X1RWVzVzdWtnR2xuM29NSGd0cDgxMEtUSEIxRWlNN0ZQNXZ1eWhOUTNIV2NCYWZwVF9fbllVWk8wMEpGeGhSN2hTNk1RNVdCWXpQWlZ5cjlIUDUzb01QSzV1dHFaM1EtbklqaU9WT3VCWTZTOFNLY0pQVzdIcVZEYzIyUnY0cg?oc=5": 1795687852.296802,
   "http://english.ratopati.com/story/88377/janamorcha-concludes-that-prime-ministers-visit-to-india-was-not-productive": 1795688451.586013,
   "http://english.ratopati.com/story/88371/nepal-india-border-issue-becomes-more-complicated-with-epgs-chapter-closure": 1795688451.586013,
   "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVkZDWFRJREFBeFZnTEhHWUFIMFRoREQzbFJfRGMzRU9RcjZOd0R4Y3Utc2JTRlV3bWpLSDAwWWY2UWFoYjZXWUpnbDBfZ2JTWlRLOWYzVmw4VXphTFFFcUVMTGtzM0VvcjBzWEJIOXNpNVRIZlAyTm0ta24xbWc1Q25B?oc=5": 1795688451.586013,
@@ -1824,7 +1822,9 @@
   "https://www.setopati.com/politics/403568": 1795860084.354141,
   "http://english.ratopati.com/story/88682/prime-minister-shah-to-inaugurate-10th-national-games": 1795860084.354141,
   "http://english.ratopati.com/story/88680/locals-rights-are-ensured-in-hydropower-projects-minister-shrestha": 1795860084.354141,
-  "http://english.ratopati.com/story/88679/karnali-disappointed-at-home-departmental-team-and-bagmati-upset": 1795860084.354141
+  "http://english.ratopati.com/story/88679/karnali-disappointed-at-home-departmental-team-and-bagmati-upset": 1795860084.354141,
+  "https://gorkhapatraonline.com/news/230727": 1795860654.5263548,
+  "https://www.setopati.com/sports/cricket/403573": 1795860654.5263548
  },
  "queue": [
   {
@@ -1914,27 +1914,6 @@
    "hits": 1
   },
   {
-   "title": "Who Wrote That Thesis?",
-   "summary": "Envision writing every word of your dissertation, only to be told that a machine wrote it. A student says that happened...",
-   "link": "https://risingnepaldaily.com/news/89120",
-   "source": "Rising Nepal",
-   "ts": 1795831495,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Who Wrote That Thesis?",
-   "en": "Who Wrote That Thesis?",
-   "ne": "Who Wrote That Thesis?",
-   "imp": 1,
-   "tags": [
-    "Thesis"
-   ],
-   "cat": "education",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
-  },
-  {
    "title": "पृथ्वीको कान्छो छोरो !",
    "summary": "",
    "link": "https://baahrakhari.com/detail/508480",
@@ -1997,51 +1976,6 @@
     "Promotion"
    ],
    "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Manchester United Activate Bruno Fernandes Contract Extension",
-   "summary": "Manchester. Captain Bruno Fernandes's contract with a one-year option has been activated by Manchester United. Sources have indicated that the...",
-   "link": "http://english.ratopati.com/story/88607/united-activate-one-year-option-in-fernandes-contract",
-   "source": "Ratopati EN",
-   "ts": 1795831739,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/for_rlwnZmELO2.webp",
-   "lang": "en",
-   "hl": "Manchester United Activate Bruno Fernandes Contract Extension",
-   "en": "Manchester United Activate Bruno Fernandes Contract Extension",
-   "ne": "Manchester United Activate Bruno Fernandes Contract Extension",
-   "imp": 2,
-   "tags": [
-    "ManchesterUnited",
-    "BrunoFernandes",
-    "Football"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Thousands Protest in San Juan Over Rising Costs and Service Issues",
-   "summary": "San Juan. Thousands of citizens have taken to the streets in San Juan, the capital of Puerto Rico, against record...",
-   "link": "http://english.ratopati.com/story/88606/thousands-protest-in-puerto-rico-against-electricity-rates-inflation-and-crisis-in-basic-services",
-   "source": "Ratopati EN",
-   "ts": 1795831528,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/ap26331708903788-1795825299_pBf0j02ZKO.webp",
-   "lang": "en",
-   "hl": "Thousands Protest in San Juan Over Rising Costs and Service Issues",
-   "en": "Thousands Protest in San Juan Over Rising Costs and Service Issues",
-   "ne": "Thousands Protest in San Juan Over Rising Costs and Service Issues",
-   "imp": 1,
-   "tags": [
-    "SanJuan",
-    "Protest"
-   ],
-   "cat": "world",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -5980,6 +5914,52 @@
    "val": 3,
    "teaser": false,
    "hits": 1
+  },
+  {
+   "title": "पेरु र इक्वेडरका विभिन्न सहर बाढीको चपेटामा",
+   "summary": "पेरु, मङ्सिर १२ गते । शक्तिशाली एल निनो जलवायु घटनासँग सम्बन्धित भारी वर्षापछि पेरु र इक्वेडरका विभिन्न सहर बाढीको चपेटामा परेका छन् । बाढीले पेरुमा हजारौँ परिवार प्रभावित भएका छन्...",
+   "link": "https://gorkhapatraonline.com/news/230727",
+   "source": "Gorkhapatra",
+   "ts": 1795860464,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/393810/conversions/tamor-river-original.jpg",
+   "lang": "ne",
+   "hl": "पेरु र इक्वेडरका विभिन्न सहर बाढीको चपेटामा",
+   "en": "पेरु र इक्वेडरका विभिन्न सहर बाढीको चपेटामा",
+   "ne": "पेरु र इक्वेडरका विभिन्न सहर बाढीको चपेटामा",
+   "imp": 1,
+   "tags": [
+    "Floods",
+    "Peru",
+    "Ecuador"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "गण्डकीले एनआरएनएलाई पाँच विकेटले हरायो",
+   "summary": "नवीन तामाङले २३ बलमा २६ र आदित्य महताले १४ बलमा २३ रन जोडे ।",
+   "link": "https://www.setopati.com/sports/cricket/403573",
+   "source": "Setopati",
+   "ts": 1795860199,
+   "weight": 3,
+   "img": null,
+   "lang": "ne",
+   "hl": "गण्डकीले एनआरएनएलाई पाँच विकेटले हरायो",
+   "en": "गण्डकीले एनआरएनएलाई पाँच विकेटले हरायो",
+   "ne": "गण्डकीले एनआरएनएलाई पाँच विकेटले हरायो",
+   "imp": 3,
+   "tags": [
+    "Cricket",
+    "Gandaki",
+    "NRNA"
+   ],
+   "cat": "sports",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
   }
  ],
  "posted": [
@@ -9075,8 +9055,8 @@
    "cat": "economy"
   }
  ],
- "updated": 1795860091,
- "pending_since": null,
+ "updated": 1795860661,
+ "pending_since": 1795860654.5263548,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
