@@ -1744,7 +1744,13 @@
   "http://english.ratopati.com/story/88733/study-concludes-that-the-spread-of-malaria-carrying-mosquitoes-may-increase-with-rising-temperatures": 1795884648.0757406,
   "https://www.gorkhapatraonline.com/news/230754": 1795884648.0757406,
   "https://www.gorkhapatraonline.com/news/230755": 1795884648.0757406,
-  "https://www.gorkhapatraonline.com/news/230761": 1795884648.0757406
+  "https://www.gorkhapatraonline.com/news/230761": 1795884648.0757406,
+  "https://gorkhapatraonline.com/news/230764": 1795885284.8246512,
+  "https://gorkhapatraonline.com/news/230762": 1795885284.8246512,
+  "https://gorkhapatraonline.com/news/230754": 1795885284.8246512,
+  "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1weXA4WXhjR2E3eXZENGlZOVplcTFTbUY4bTRXNTlNY1VBbHZYS3c0emV4ZURqQnJIUXFjTHlFR1BVMWJtXzluMkd0Mzhvdw?oc=5": 1795885284.8246512,
+  "https://gorkhapatraonline.com/news/230755": 1795885284.8246512,
+  "https://gorkhapatraonline.com/news/230761": 1795885284.8246512
  },
  "queue": [
   {
@@ -1792,51 +1798,6 @@
    "hits": 1
   },
   {
-   "title": "अपाङ्गता सम्बन्धी ३५औँ अन्तर्राष्ट्रिय दिवस मनाइँदै",
-   "summary": "काठमाडौँ, मङ्सिर १२ गते । अपाङ्गता भएका व्यक्तिको अधिकार, सम्मान, समानता र समावेशी सहभागिताको महत्त्वलाई उजागर गर्दै ३ डिसेम्बर २०२६ (२०८३ मंसिर १७ गते बिहीबार) का दिन ३५औँ अपाङ्गत...",
-   "link": "https://gorkhapatraonline.com/news/230722",
-   "source": "Gorkhapatra",
-   "ts": 1795856080,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/393800/conversions/19_4-original.jpg",
-   "lang": "ne",
-   "hl": "अपाङ्गता सम्बन्धी ३५औँ अन्तर्राष्ट्रिय दिवस मनाइँदै",
-   "en": "अपाङ्गता सम्बन्धी ३५औँ अन्तर्राष्ट्रिय दिवस मनाइँदै",
-   "ne": "अपाङ्गता सम्बन्धी ३५औँ अन्तर्राष्ट्रिय दिवस मनाइँदै",
-   "imp": 1,
-   "tags": [
-    "DisabilityDay",
-    "Inclusion"
-   ],
-   "cat": "society",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "दुई वर्षदेखि बजेट फ्रिज भएको 'पोड-वे' परियोजना, कोसीमा निजी लगानीमा काम सुरु",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/508460",
-   "source": "Baahrakhari",
-   "ts": 1795855921,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "दुई वर्षदेखि बजेट फ्रिज भएको 'पोड-वे' परियोजना, कोसीमा निजी लगानीमा काम सुरु",
-   "en": "दुई वर्षदेखि बजेट फ्रिज भएको 'पोड-वे' परियोजना, कोसीमा निजी लगानीमा काम सुरु",
-   "ne": "दुई वर्षदेखि बजेट फ्रिज भएको 'पोड-वे' परियोजना, कोसीमा निजी लगानीमा काम सुरु",
-   "imp": 3,
-   "tags": [
-    "PodWay",
-    "Koshi",
-    "PrivateInvestment"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Eight Arrested for Selling Goat Meat as Mutton",
    "summary": "Kathmandu. Acting on information that goat and kid meat was being sold as mutton, police have taken eight people into...",
    "link": "http://english.ratopati.com/story/88676/8-people-arrested-for-selling-goat-meat-as-goat-meat",
@@ -1857,51 +1818,6 @@
    "val": 3,
    "teaser": false,
    "hits": 2
-  },
-  {
-   "title": "Training Provided to New Generation of Newar Community on Ranjana Script",
-   "summary": "Kathmandu. Training has been provided to the new generation of the Newar community with the objective of preserving and promoting...",
-   "link": "http://english.ratopati.com/story/88675/training-the-new-generation-to-preserve-the-ranjana-script",
-   "source": "Ratopati EN",
-   "ts": 1795856315,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/ranjana-lipi-photos_nepal-photo-library-8_SwsBBJ7VIS.webp",
-   "lang": "en",
-   "hl": "Training Provided to New Generation of Newar Community on Ranjana Script",
-   "en": "Training Provided to New Generation of Newar Community on Ranjana Script",
-   "ne": "Training Provided to New Generation of Newar Community on Ranjana Script",
-   "imp": 2,
-   "tags": [
-    "Newar",
-    "RanjanaScript",
-    "Training"
-   ],
-   "cat": "culture",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Russia Claims Downing Over 1,200 Ukrainian Drones; Ukraine Reports Russian Drone Attacks",
-   "summary": "Moscow. Russian officials claimed on Saturday that 1,200 Ukrainian drones sent in an attack attempt on Russia on Friday night...",
-   "link": "http://english.ratopati.com/story/88673/russia-claims-to-have-shot-down-more-than-1200-ukrainian-drones-in-one-night",
-   "source": "Ratopati EN",
-   "ts": 1795855992,
-   "weight": 2,
-   "img": "https://rpcdn.ratopati.com/media/albums/rush_ukrain_xtP8oPMUhb.jpg",
-   "lang": "en",
-   "hl": "Russia Claims Downing Over 1,200 Ukrainian Drones; Ukraine Reports Russian Drone Attacks",
-   "en": "Russia Claims Downing Over 1,200 Ukrainian Drones; Ukraine Reports Russian Drone Attacks",
-   "ne": "Russia Claims Downing Over 1,200 Ukrainian Drones; Ukraine Reports Russian Drone Attacks",
-   "imp": 1,
-   "tags": [
-    "Russia",
-    "UkrainianDrones"
-   ],
-   "cat": "world",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
   },
   {
    "title": "Banker Paudyal receives Lifetime Achievement Award",
@@ -3674,29 +3590,6 @@
    "hits": 2
   },
   {
-   "title": "Five women killed every hour by partners or family members",
-   "summary": "Some 47,000 women and girls were killed by intimate partners or family members in 2025 - five every hour - according to new UN figures published on Tuesday. Nearly one in three women worldwide have experienced physical...",
-   "link": "https://theannapurnaexpress.com/story/69129",
-   "source": "Annapurna Express",
-   "ts": 1795855858.6505897,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Five women killed every hour by partners or family members",
-   "en": "Five women killed every hour by partners or family members",
-   "ne": "Five women killed every hour by partners or family members",
-   "imp": 1,
-   "tags": [
-    "WomenSafety",
-    "GlobalCrime",
-    "DomesticViolence"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "प्रधानमन्त्रीका प्रमुख सल्लाहकारसँग जोडिएको मोबाइल प्रकरणको अनुसन्धान गर्न कांग्रेसको माग",
    "summary": "कांग्रेसले यस सम्बन्धमा प्रधानमन्त्री शाहलाई तीन प्रश्न गरेको छ।",
    "link": "https://www.setopati.com/politics/403589",
@@ -3764,30 +3657,6 @@
     "गाजा"
    ],
    "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Dahal pushes for communist unity ahead of local elections, says talks underway with UML",
-   "summary": "KATHMANDU: Pushpa Kamal Dahal, coordinator of the Nepali Communist Party, has stated that efforts are underway to bring all communist forces together, including ongoing discussions with the CPN-UML.Addressing a party...",
-   "link": "https://theannapurnaexpress.com/story/69127",
-   "source": "Annapurna Express",
-   "ts": 1795855858.6505897,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Dahal pushes for communist unity ahead of local elections, says talks underway with UML",
-   "en": "Dahal pushes for communist unity ahead of local elections, says talks underway with UML",
-   "ne": "Dahal pushes for communist unity ahead of local elections, says talks underway with UML",
-   "imp": 3,
-   "tags": [
-    "PushpaKamalDahal",
-    "CommunistUnity",
-    "UML",
-    "LocalElections"
-   ],
-   "cat": "politics",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -4531,7 +4400,7 @@
    "cat": "politics",
    "val": 1,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "पोखरामा दाइँ महोत्सव, विदेशी पर्यटकले लिए नेपाली कृषि परम्पराको अनुभव",
@@ -4737,7 +4606,7 @@
    "cat": "health",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "सुकुम्बासीलाई मन्त्री रावलले भनिन्- स्थानीय तहमा जग्गाको व्यवस्था हुन्छ, विचार गर्नुस्",
@@ -4876,7 +4745,7 @@
    "cat": "politics",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "होल्डिङ सेन्टरमा आश्रितहरूले मन्त्री रावललाई बुझाए ६ बुँदे मागपत्र",
@@ -4946,7 +4815,7 @@
    "cat": "culture",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "दीर्घकालीन योजनाका आधारमा विकास र पुनःस्थापना गर्नुपर्छ : मन्त्री श्रेष्ठ",
@@ -4969,7 +4838,7 @@
    "cat": "politics",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "श्रीमानको कुटपिटबाट गयो श्रीमतीको ज्यान",
@@ -4992,21 +4861,10 @@
    "cat": "crime",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   }
  ],
  "posted": [
-  {
-   "ts": 1795279867.77756,
-   "en": "Rijan Dhakal of Chitwan Rhinos wins car as best Nepali player in NPL 3",
-   "ne": "Rijan Dhakal of Chitwan Rhinos wins car as best Nepali player in NPL 3",
-   "link": "https://theannapurnaexpress.com/story/68947",
-   "source": "Annapurna Express",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "sports"
-  },
   {
    "ts": 1795299659.1675425,
    "en": "Nepal Introduces Locally Developed CAR-T Cell Therapy for Cancer Patients",
@@ -8088,8 +7946,8 @@
    "cat": "politics"
   }
  ],
- "updated": 1795884668,
- "pending_since": null,
+ "updated": 1795885290,
+ "pending_since": 1795885284.8246512,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
