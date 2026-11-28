@@ -1,13 +1,5 @@
 {
  "seen": {
-  "http://english.ratopati.com/story/88343/former-chief-secretary-aryal-arrested-in-india": 1795678273.046703,
-  "https://www.ujyaaloonline.com/detail/133868": 1795678273.046703,
-  "https://baahrakhari.com/detail/508341": 1795678273.046703,
-  "https://baahrakhari.com/detail/508344": 1795678850.1118782,
-  "https://www.ujyaaloonline.com/detail/133869": 1795678850.1118782,
-  "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSU5UM0xtZzhBc3VBMFo1eERfT0R1ZFlFenk1RXFBUEdCc0ZDaWczY2t2bWRBYjBDQ1NuMi10RVpTTjJEN21FZ3FqRkFVN0VCQTR0SFVneW9LcEtIUHVQODBXT3p2cWxBMTFWTjRVMzA2cTdsTlRNWHF0Nk1VQkRSTmZDTkJ3S2hXTzNVSGtNSG9Kc3k4RXYxaHB6X0JXU1czVnRJbWdGbmZiZVRkeHlDVU53?oc=5": 1795678850.1118782,
-  "https://nagariknews.nagariknetwork.com/education/artificial-intelligence-and-life-skills-to-be-included-in-school-curriculum-47-44.html": 1795678850.1118782,
-  "https://nagariknews.nagariknetwork.com/social-affairs/world-sustainable-transport-day-today-emphasis-on-the-importance-of-transport-in-sustainable-development-br-82-54.html": 1795678850.1118782,
   "https://gorkhapatraonline.com/news/230474": 1795679455.699743,
   "https://english.khabarhub.com/2026/26/577127/": 1795679455.699743,
   "https://news.google.com/rss/articles/CBMijAJBVV95cUxPSmNINjZwenFBY2J1MEJtV3lWTUViOHpTaHU3ZDdqWWZ1Nk9ldjRNT0xwY3ZyMThPTUk2dzlWRFk1NWg3djZwYjJDaHc4LV9TZDZDb05XRnV3RHJBNkdvS3Rta29GUjFYdzVNZG4zaWpHLXV3R0xmZGI4a2Ryd1dPMXBrRzNpckJXM0FKX3JfNjhweWlTSm44TURpU2JzVEFZWTBHMTBqVlRNMDdoRjlYZ21oZ3hYZkhrZmN1MlhXeWJLYlQ4b1NNaHV6NHczSjdNQXp1dEUtMWcwX0dkb2lsZnFnQmdyVHBBWWxpcGo0WDNLYjFOVnRMem5RcFE2a2hXVEV0TlZ6QV83OU9H0gGSAkFVX3lxTFBXM3R5c2pNVUlPTVQ1TWFla0QtOEg2VHJ4ZnFjYURFZkRJanFiWmYzVDkxbWZ6SC1zcWxvOERrUHhxV0JFSE5EZVEzQ0p1MjZEV0hIa1FBSS1JN2lvd2tTWEl0bnQyQlV0NmdfZ0xrSFpYY09DVTUtNGNyYy15VktQR0xqQV9iNk1HSXh3c2NLeU00czE3UW9kakNfdTVRLU5ZS1lQQWl1M1J2WDFmc2g0X2Jmb0tDTUl6LWJWVV81S2Y3V0V1aVU3T0lqNUM4TjlOWDNGS3NOOHJxRGVaaTBaMVlrWlVhcGE0MTZpaHFWb0VkVFNyZk9tVjJVTEZwQTlIVzVtVGVQZVkwbl9IZTI5UXc?oc=5": 1795679455.699743,
@@ -1894,7 +1886,9 @@
   "https://kathmandupost.com/world/2026/11/28/hackers-breach-us-air-force-flagship-cloud-one-computing-platform": 1795849854.0043678,
   "http://english.ratopati.com/story/88650/ravi-on-candidates-you-cant-sell-tickets-by-showing-a-photo-with-a-leader-saying-i-will-get-them": 1795850449.950794,
   "http://english.ratopati.com/story/88652/14-bodies-found-on-migrant-boat-near-spains-canary-islands": 1795850449.950794,
-  "http://english.ratopati.com/story/88654/10th-national-games-gandakis-first-success-in-mens-cricket": 1795851069.1256683
+  "http://english.ratopati.com/story/88654/10th-national-games-gandakis-first-success-in-mens-cricket": 1795851069.1256683,
+  "https://gorkhapatraonline.com/news/230709": 1795851652.6082127,
+  "http://english.ratopati.com/story/88656/10th-national-games-league-stage-matches-for-womens-cricket-concluded": 1795851652.6082127
  },
  "queue": [
   {
@@ -5116,7 +5110,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "नागरिक समाजको सहभागिता अनिवार्य र अपरिहार्य",
@@ -5389,7 +5383,7 @@
    "cat": "sports",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   }
  ],
  "posted": [
@@ -8485,7 +8479,7 @@
    "cat": "education"
   }
  ],
- "updated": 1795851074,
+ "updated": 1795851656,
  "pending_since": 1795849854.0043678,
  "fb_blocks": [
   1790350880.4125228,
