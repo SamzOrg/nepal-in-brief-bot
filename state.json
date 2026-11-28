@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMigAFBVV95cUxONERJWnJPRUlZb1lfZGthVDJlaXRJUWplMVZIUTFzUGV2SHVocTdPZ3ZkWkZ5QlI4WmkwNUtnZ1hOZnpwd0lCOE92YW8tekFSbEpCYXY2TnlLbExXa0hKV3Z1ZEJDeXVWRzB6OG1sQVRLbEp6dlo5NFRGeEM4NnpTYw?oc=5": 1795652452.8209472,
-  "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSTJYUWxJc2YzVV9TS3AyeVQxenB0MmhtRC13d1BQUlJpY0pkdXFHcVhaUGZhd05YZm80eUZCLUVLb0hyeWFOSnNnQ1B3QTZyaHdiSUVHdHNQSXp1ZkdwUjljcjdITWs4TFFNSkw2UjcyZVVORUYwRmZfQnR0UHFEU1RBRWxFU0tlOEdvUXBkQnhwSmg5RS0xcEpveTZlNHR2?oc=5": 1795652452.8209472,
   "http://english.ratopati.com/story/88282/how-was-the-weather-today": 1795653066.6447816,
   "https://baahrakhari.com/detail/508307": 1795653649.401868,
   "http://english.ratopati.com/story/88283/cricket-craze-in-villages-local-talent-shining-in-the-fields": 1795653649.401868,
@@ -2057,7 +2055,8 @@
   "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9LYTlJcDF4ekxLQl9PVHFUZUxLRHBQSVE1b0ttZFYyNjBNM3M5bXhrNUxmMHJwMW9qbmFXTHhzMFZycWxFd09kSmFoMjVjaTRs?oc=5": 1795825251.1224837,
   "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNT3Z6YUxxTlh6Q3dDdXM4cGM5VWp5a2tKdDRHWjY0LUZnMzlXSTZrNkp5MXVrdUN0LVAxRGE1VlhrQkFId0p3ZjZTVzNEMDBDZlVXYWNfTWRteXFzeFh4SEQ0ZUU0YW1nT3lNQ3dIN0tCd0xHOWw4Q3VnTWZDMlhGX2J1WXo0d3pvcU5HVDM3cE5kQmtKY3NIVHVhSHpPYjRyd0IyLUliTFdmZXd1TnBzR2gyMlJlQXM5a3llNGFQZHFyM0lYa0o2MUM5T2JYMG8xdHlXMXcyY3Z6NFZ2TmFWak85SUF1dw?oc=5": 1795825251.1224837,
   "https://www.ujyaaloonline.com/detail/133914": 1795825251.1224837,
-  "https://baahrakhari.com/detail/508472": 1795825251.1224837
+  "https://baahrakhari.com/detail/508472": 1795825251.1224837,
+  "https://www.ujyaaloonline.com/detail/133916": 1795825866.5625055
  },
  "queue": [
   {
@@ -2124,29 +2123,6 @@
     "WomenSports"
    ],
    "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "साइबर सुरक्षा प्रतियोगितामा सफ्टवेरिकाका विद्यार्थीको वर्चस्व",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/508467",
-   "source": "Baahrakhari",
-   "ts": 1795796769,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "साइबर सुरक्षा प्रतियोगितामा सफ्टवेरिकाका विद्यार्थीको वर्चस्व",
-   "en": "साइबर सुरक्षा प्रतियोगितामा सफ्टवेरिकाका विद्यार्थीको वर्चस्व",
-   "ne": "साइबर सुरक्षा प्रतियोगितामा सफ्टवेरिकाका विद्यार्थीको वर्चस्व",
-   "imp": 2,
-   "tags": [
-    "CyberSecurity",
-    "Softwarica",
-    "Students"
-   ],
-   "cat": "tech",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -2475,17 +2451,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1795220469.3244696,
-   "en": "Nepal Embassy in Brussels Launches Online Consular Services Portal",
-   "ne": "Nepal Embassy in Brussels Launches Online Consular Services Portal",
-   "link": "https://nepyork.com/2026/11/20/nepal-embassy-in-brussels-launches-online-consular-services-portal/",
-   "source": "NepYork",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "politics"
-  },
   {
    "ts": 1795222264.0092967,
    "en": "नागढुंगा-मुग्लिन सडकखण्ड आजदेखि दैनिक पाँच घण्टा बन्द",
@@ -5578,8 +5543,8 @@
    "cat": "society"
   }
  ],
- "updated": 1795825284,
- "pending_since": null,
+ "updated": 1795825870,
+ "pending_since": 1795825866.5625055,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
