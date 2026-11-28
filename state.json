@@ -1,7 +1,5 @@
 {
  "seen": {
-  "http://english.ratopati.com/story/88336/10th-national-games-lumbini-eliminated-from-the-competition-after-losing-to-madhes": 1795675250.7144651,
-  "https://baahrakhari.com/detail/508336": 1795675250.7144651,
   "https://english.onlinekhabar.com/ramayana-fourth-highest-grossing-film.html": 1795675849.1275597,
   "https://risingnepaldaily.com/news/89054": 1795675849.1275597,
   "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQ2VabU9WLVJWTkVwS0N2OV81TGg1RDhDa1FNOGVLZF9qR3Uwa2s1cXFjQTVGM1I1NUJtNzJXTmVpX243WGY2WlAya3pia2JId2oyVHN0dE1NUzB0RzdKdUFYblRZSTBXS2k3SFAzUjV2eTl5UlVTX3hHQjFYbm1QT3hLN2pub0lMZXRBVDFOLVpvd3VCVkhNU2JSajh5V0tacXhUT1hBZUo5dWxwMFdiTmNqZ0xrcTFVbXV4eGZ4M0hSXy1icHA3YWctOU1ZSGpia0RncW1udUI?oc=5": 1795675849.1275597,
@@ -1938,7 +1936,9 @@
   "https://www.setopati.com/social/403561": 1795846853.17654,
   "https://gorkhapatraonline.com/news/230699": 1795846853.17654,
   "https://gorkhapatraonline.com/news/230698": 1795846853.17654,
-  "http://english.ratopati.com/story/88638/10th-national-games-sudurpaschim-exits-after-sharing-points-with-apf": 1795847470.8094695
+  "http://english.ratopati.com/story/88638/10th-national-games-sudurpaschim-exits-after-sharing-points-with-apf": 1795847470.8094695,
+  "http://english.ratopati.com/story/88643/all-party-ranks-should-unite-and-participate-in-local-level-elections-general-secretary-poudel": 1795848053.139179,
+  "http://english.ratopati.com/story/88641/integrated-plan-to-be-taken-forward-to-control-sunchhap-landslides": 1795848053.139179
  },
  "queue": [
   {
@@ -2873,28 +2873,6 @@
    "val": 3,
    "teaser": false,
    "hits": 2
-  },
-  {
-   "title": "Burn wards on paper, little progress on the ground",
-   "summary": "The government's 100-point reform agenda also promises subsidised treatment, but hospitals lack the funds, equipment, and trained staff to provide specialised care.",
-   "link": "https://kathmandupost.com/health/2026/11/28/burn-wards-on-paper-little-progress-on-the-ground",
-   "source": "Kathmandu Post",
-   "ts": 1795818670.857058,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Burn wards on paper, little progress on the ground",
-   "en": "Burn wards on paper, little progress on the ground",
-   "ne": "Burn wards on paper, little progress on the ground",
-   "imp": 3,
-   "tags": [
-    "BurnWards",
-    "HealthInfrastructure"
-   ],
-   "cat": "health",
-   "val": 1,
-   "teaser": true,
-   "hits": 1
   },
   {
    "title": "पृथ्वीको कान्छो छोरो !",
@@ -3920,29 +3898,6 @@
    ],
    "cat": "society",
    "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Pakistan A defend 168 to survive Nepal scare",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNc0l0MzRHSkpPRmdZaDd6TFlPckxoVG9qUUNNTkRWYXNMVnd1TDJmR1JjbXZOTUkwYURvc0FsTGV0Q2p0aWlyRXY0OTVaZjZGdUV5SnE3QktCZUxTNlpHVTJWM2h1OFRFWExPUlFZUGhKMUkydE0xU3hzNTFaWkdRZURXUHlhbXRLempxRWJzVU1ZazNJdFNONDRuU01MWGpGeV95VnRzcG5DYy1mblFQY1FWREcwenpuNXhlZ0ZKTjEwU2pUWFVndjRZQTdhd3Z2MXc?oc=5",
-   "source": "ESPN",
-   "ts": 1795818889,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Pakistan A defend 168 to survive Nepal scare",
-   "en": "Pakistan A defend 168 to survive Nepal scare",
-   "ne": "Pakistan A defend 168 to survive Nepal scare",
-   "imp": 3,
-   "tags": [
-    "PakistanA",
-    "NepalCricket",
-    "Cricket"
-   ],
-   "cat": "sports",
-   "val": 3,
    "teaser": false,
    "hits": 1
   },
@@ -5245,6 +5200,29 @@
     "BusAccident",
     "Injured",
     "दुर्घटना"
+   ],
+   "cat": "disaster",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Energy Minister Visits Sunachhap Landslide Site in Parbat",
+   "summary": "Kathmandu. Energy, Water Resources and Irrigation Minister Biraj Bhakta Shrestha has taken stock of the problems and damages faced by...",
+   "link": "http://english.ratopati.com/story/88641/integrated-plan-to-be-taken-forward-to-control-sunchhap-landslides",
+   "source": "Ratopati EN",
+   "ts": 1795847451,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/biraj-bhakta-shrestha_AefTqH1gZw.webp",
+   "lang": "en",
+   "hl": "Energy Minister Visits Sunachhap Landslide Site in Parbat",
+   "en": "Energy Minister Visits Sunachhap Landslide Site in Parbat",
+   "ne": "Energy Minister Visits Sunachhap Landslide Site in Parbat",
+   "imp": 3,
+   "tags": [
+    "Landslide",
+    "Parbat",
+    "Sunachhap"
    ],
    "cat": "disaster",
    "val": 3,
@@ -8345,7 +8323,7 @@
    "cat": "economy"
   }
  ],
- "updated": 1795847478,
+ "updated": 1795848058,
  "pending_since": 1795847470.8094695,
  "fb_blocks": [
   1790350880.4125228,
