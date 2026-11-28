@@ -1734,7 +1734,8 @@
   "https://gorkhapatraonline.com/news/230770": 1795887650.6428194,
   "https://gorkhapatraonline.com/news/230769": 1795887650.6428194,
   "https://gorkhapatraonline.com/news/230765": 1795887650.6428194,
-  "https://gorkhapatraonline.com/news/230763": 1795887650.6428194
+  "https://gorkhapatraonline.com/news/230763": 1795887650.6428194,
+  "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9JWUtMNjNVTS15VFJjTklYYXQ5OXgwOExPdjdTSk9BUHpJYURQdDFzRFBTekwwWWtoNW40RGRQUFkzTHhrb3VZRHQxTGQ2TVdBRnpUXzduVFJSbnF0ZXc?oc=5": 1795888251.1790197
  },
  "queue": [
   {
@@ -1783,29 +1784,6 @@
    "hits": 1
   },
   {
-   "title": "आइजेनकोटलाई प्रधानमन्त्री पद सुम्पिन नेतान्याहू तयार",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/508501",
-   "source": "Baahrakhari",
-   "ts": 1795859421,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "आइजेनकोटलाई प्रधानमन्त्री पद सुम्पिन नेतान्याहू तयार",
-   "en": "आइजेनकोटलाई प्रधानमन्त्री पद सुम्पिन नेतान्याहू तयार",
-   "ne": "आइजेनकोटलाई प्रधानमन्त्री पद सुम्पिन नेतान्याहू तयार",
-   "imp": 1,
-   "tags": [
-    "Israel",
-    "Netanyahu",
-    "Politics"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Saudi Arabia Intercepts Cruise Missile Targeting Riyadh",
    "summary": "Saudi Arabia. Saudi Arabia announced on Saturday that a cruise missile targeting the capital Riyadh was shot down. Earlier, Houthi...",
    "link": "http://english.ratopati.com/story/88684/missile-attack-in-saudi-arabia",
@@ -1824,29 +1802,6 @@
     "Missile"
    ],
    "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Book Review: 'Pradip Giri: In His Own Words' Offers Insight into a Political Thinker's Life and Thoughts",
-   "summary": "Understanding any person requires more than just reading their biography. It is also necessary to know how they understood their...",
-   "link": "http://english.ratopati.com/story/88678/pradeep-giris-life-story-in-his-own-words",
-   "source": "Ratopati EN",
-   "ts": 1795859100,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/pradeep-giri-book_28PvRi06oi.webp",
-   "lang": "en",
-   "hl": "Book Review: 'Pradip Giri: In His Own Words' Offers Insight into a Political Thinker's Life and Thoughts",
-   "en": "Book Review: 'Pradip Giri: In His Own Words' Offers Insight into a Political Thinker's Life and Thoughts",
-   "ne": "Book Review: 'Pradip Giri: In His Own Words' Offers Insight into a Political Thinker's Life and Thoughts",
-   "imp": 2,
-   "tags": [
-    "BookReview",
-    "PradipGiri",
-    "Politics"
-   ],
-   "cat": "culture",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -4642,6 +4597,29 @@
     "Energy"
    ],
    "cat": "economy",
+   "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Warnings of further floods in Nepal issued after barrier lake overflows",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9JWUtMNjNVTS15VFJjTklYYXQ5OXgwOExPdjdTSk9BUHpJYURQdDFzRFBTekwwWWtoNW40RGRQUFkzTHhrb3VZRHQxTGQ2TVdBRnpUXzduVFJSbnF0ZXc?oc=5",
+   "source": "The Straits Times",
+   "ts": 1795869167,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "Warnings of further floods in Nepal issued after barrier lake overflows",
+   "en": "Warnings of further floods in Nepal issued after barrier lake overflows",
+   "ne": "Warnings of further floods in Nepal issued after barrier lake overflows",
+   "imp": 4,
+   "tags": [
+    "Flood",
+    "Nepal",
+    "DisasterAlert"
+   ],
+   "cat": "disaster",
    "val": 2,
    "teaser": false,
    "hits": 1
@@ -7729,8 +7707,8 @@
    "cat": "politics"
   }
  ],
- "updated": 1795887655,
- "pending_since": null,
+ "updated": 1795888255,
+ "pending_since": 1795888251.1790197,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
