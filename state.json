@@ -1,8 +1,5 @@
 {
  "seen": {
-  "https://english.khabarhub.com/2026/26/577091/": 1795666860.1065545,
-  "https://www.setopati.com/social/403412": 1795667470.690315,
-  "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRmtJSG5RYlhhMzlmSlMtLWtCS2gxRjdWUk8tdE1kZE4wcWJGbmpEcUtxdDZDR1ZQRno5d29qOXNNdVJFNDVCbndUMlg3NndxSFBqcmtiLVdCeE90Z2VESDFqMFNoU0xaY0tQaXc4RzI5T2p5ek1FaGdJQi1kUW1IbE9JWnF2NmxiYnphdWQ3cVVYLVZiNVBBSmFLb3I3dlhJWVpqOA?oc=5": 1795667470.690315,
   "https://gorkhapatraonline.com/news/230431": 1795668051.5863926,
   "https://www.setopati.com/social/403413": 1795668051.5863926,
   "https://thehimalayantimes.com/nepal/one-killed-13-injured-in-pickup-truck-tractor-collision-in-nawalpur": 1795668051.5863926,
@@ -2019,7 +2016,9 @@
   "https://risingnepaldaily.com/news/89093": 1795839655.3246217,
   "http://english.ratopati.com/story/88621/us-dollar-headed-for-weekly-growth": 1795839655.3246217,
   "https://gorkhapatraonline.com/news/230678": 1795839655.3246217,
-  "https://gorkhapatraonline.com/news/230677": 1795839655.3246217
+  "https://gorkhapatraonline.com/news/230677": 1795839655.3246217,
+  "https://gorkhapatraonline.com/news/230684": 1795840270.7113316,
+  "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUmIzWTVVRVpnUXhFQkVKNElnRjAzcHJjZng2YVRIUDF4bXZCOU0xNFJENUQ2UldUb0RSNlhxZWJnaXZoT0czZWVBZU9wajJ0Z0otQ01CVGxqUmJ5WUN2SUVWeTFmQk82cHc3c2lSU2ZBdUpZWk8zTXBkWTZraHRmVDRWU0R5RXlPVG05YU9wVXRyT19uanBOYl93ZEM4X2ljdmdRZ0FJbGlSaDNxWU4xT2ZFU0xfVnNOTkN2UUM5SFFudDNHRGNTWGNXV1dvZ0hvZk40TGlaVVdWeVpfaFgw?oc=5": 1795840270.7113316
  },
  "queue": [
   {
@@ -3724,7 +3723,7 @@
    "cat": "world",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Government prepares special task force to curb foreign employment fraud",
@@ -4045,7 +4044,7 @@
    "cat": "economy",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "अक्षरी भ्रम र वास्तविक धरातल",
@@ -4449,17 +4448,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1795234862.313444,
-   "en": "नेपालमै विदेश सरहको स्तन क्यान्सर उपचार सम्भव : डा. उत्सवमान श्रेष्ठ",
-   "ne": "नेपालमै विदेश सरहको स्तन क्यान्सर उपचार सम्भव : डा. उत्सवमान श्रेष्ठ",
-   "link": "https://www.setopati.com/social/403032",
-   "source": "Setopati",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "health"
-  },
   {
    "ts": 1795236665.6773589,
    "en": "Parsa Police Seize Smuggled Goods Worth NPR 7 Million in November",
@@ -7552,7 +7540,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1795839683,
+ "updated": 1795840275,
  "pending_since": 1795839655.3246217,
  "fb_blocks": [
   1790350880.4125228,
