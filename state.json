@@ -2025,7 +2025,9 @@
   "https://theannapurnaexpress.com/story/69124": 1795827679.8397431,
   "https://baahrakhari.com/detail/508474": 1795827679.8397431,
   "https://risingnepaldaily.com/news/89113": 1795827679.8397431,
-  "https://www.setopati.com/social/403551": 1795828260.7989323
+  "https://www.setopati.com/social/403551": 1795828260.7989323,
+  "https://www.setopati.com/social/403552": 1795828847.5802538,
+  "https://english.khabarhub.com/2026/28/577318/": 1795828847.5802538
  },
  "queue": [
   {
@@ -2117,30 +2119,6 @@
    ],
    "cat": "health",
    "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "India-supported school hostel inaugurated in Nepal's Mustang district",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSUxQMUdvd0ZHZzREdVpTaHZJakloZlVVS1daVU1ZT19rMkkyRm9SRVRUbWc4bXh3ZmhVeDBlQldPam1VSHg4bEp1NFpnVHp2OWxIMW5sckV0YVhDb1NzMmhYUXg1aTQzTm50RVVHNlBIOFE1NUE4eWVRUjlHdl9BX2dyNXA1YS1DT1M3UjBXZXl3VHJIb0ItakR5VHk5TFRRNDRFZWxsY2owNlN6Ti1nVEVKTnc2VUFIRUgwQlVR?oc=5",
-   "source": "ANI News",
-   "ts": 1795799520,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "India-supported school hostel inaugurated in Nepal's Mustang district",
-   "en": "India-supported school hostel inaugurated in Nepal's Mustang district",
-   "ne": "India-supported school hostel inaugurated in Nepal's Mustang district",
-   "imp": 3,
-   "tags": [
-    "Mustang",
-    "SchoolHostel",
-    "IndiaNepal",
-    "मुस्ताङ"
-   ],
-   "cat": "society",
-   "val": 3,
    "teaser": false,
    "hits": 1
   },
@@ -2280,29 +2258,6 @@
    "val": 2,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "One More Dies in Bajura Tractor Accident, Death Toll Reaches Three",
-   "summary": "Dhangadhi. One more person injured in the tractor accident in Jagannath Rural Municipality of Bajura has died. With this, the...",
-   "link": "http://english.ratopati.com/story/88601/tractor-accident-in-bajura-one-more-injured-dies-death-toll-reaches-three",
-   "source": "Ratopati EN",
-   "ts": 1795826935,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/accident1_0hvvweueaj_opitpBEPf3.webp",
-   "lang": "en",
-   "hl": "One More Dies in Bajura Tractor Accident, Death Toll Reaches Three",
-   "en": "One More Dies in Bajura Tractor Accident, Death Toll Reaches Three",
-   "ne": "One More Dies in Bajura Tractor Accident, Death Toll Reaches Three",
-   "imp": 3,
-   "tags": [
-    "Bajura",
-    "TractorAccident",
-    "दुर्घटना"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "राष्ट्रिय खेलकुद अन्तर्गत पौडीमा १६ स्वर्णसहित बागमती च्याम्पियन",
@@ -2600,29 +2555,6 @@
    ],
    "cat": "culture",
    "val": 1,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Govt gears up to implement deals inked with India",
-   "summary": "By A Staff Reporter,Kathmandu, Nov. 28: The government has initiated preparations to implement the bilateral agreements...",
-   "link": "https://risingnepaldaily.com/news/89113",
-   "source": "Rising Nepal",
-   "ts": 1795825255,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Govt gears up to implement deals inked with India",
-   "en": "Govt gears up to implement deals inked with India",
-   "ne": "Govt gears up to implement deals inked with India",
-   "imp": 4,
-   "tags": [
-    "NepalIndia",
-    "Government",
-    "Agreements"
-   ],
-   "cat": "politics",
-   "val": 2,
    "teaser": false,
    "hits": 1
   },
@@ -5740,9 +5672,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "politics"
+  },
+  {
+   "ts": 1795828875.4657733,
+   "en": "Bajura Tractor Accident Death Toll Reaches Three After One More Dies",
+   "ne": "Bajura Tractor Accident Death Toll Reaches Three After One More Dies",
+   "link": "http://english.ratopati.com/story/88601/tractor-accident-in-bajura-one-more-injured-dies-death-toll-reaches-three",
+   "source": "Ratopati EN",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "disaster"
   }
  ],
- "updated": 1795828270,
+ "updated": 1795828885,
  "pending_since": 1795828260.7989323,
  "fb_blocks": [
   1790350880.4125228,
