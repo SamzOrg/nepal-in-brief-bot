@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9qbTlvRWd1SFpRblJiLVlBNGZRT2RfZm0ydlM3SjBySHVPbklocTB5bGduNHAxUkpFT3dZLTVfVHkyekNvTkZFQkt3?oc=5": 1795689650.677304,
-  "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5CV1VyRWxHSFlGNEEyWGdnVU55MEZsZjVpcUg0MnBNdWZ4RFByWWptYUl5ODNGNDNycUhuU3RRM0JPYk80cXZRVFpGdlc2TVhGWVBoNk1BUGhYbnJOVHJMSkU4Vkg?oc=5": 1795689650.677304,
   "https://gorkhapatraonline.com/news/230495": 1795690249.8332477,
   "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdjRhazJta3NIR1ZXUWJOSHExY2RZMl8za2s4UnlVZVRxdlRBTlk4Qm1iSFZlR3pHNGs2VDhCSkhDa3dpSi1DUUpQRVM4ZXp1SzBNUm9pUDBSUkY1TUhLdHlHQ1NvVlpna0o3cGdwTkR4Vm13OE91SF96MC13RFBiTklTaWxnTjk3STJ3dEJEbzVSWDR5NEVz?oc=5": 1795690249.8332477,
   "https://news.google.com/rss/articles/CBMipgJBVV95cUxQVTJUMVp0Q3ctRXkwaVlHZGpjNmRxTHYza3k2Z0l2d1Y1Q3hDaXp3WHkzd3o5LVk1THBfdzRobHJ6ZmZUbzNzTF9hN1ctT0NSWGtxeUZPZGVBU2V3WGE3Wnc4b1NQWjNYekhXYVlFdExUeTh2WDU3MS1idWtwZUxmdUwtVGJobHAycnd1VEludjY0TU43REJncjdGWVB1MW9nbVdHdElpR3I1Tl93SDZIM2JOZ0RGdDRRVG9mLURtWVprWTNkY0g3MFA3NHVOQjZReC11UGI0akNCMjZkdDlFb29TVUtYSFlqb2t6NVhOaEZ3V3VpUHFuYlBrd0RfbXJEdks1MVhDUGxtZE4zaVlpaDFWY0x2eEdRUTFhcFhybEFfdTBzUmfSAaYCQVVfeXFMUFUyVDFadEN3LUV5MGlZR2RqYzZkcUx2M2t5NmdJdndWNUN4Q2l6d1h5M3d6OS1ZNUxwX3c0aGxyemZmVG8zc0xfYTdXLU9DUlhrcXlGT2RlQVNld1hhN1p3OG9TUFozWHpIV2FZRXRMVHk4dlg1NzEtYnVrcGVMZnVMLVRiaGxwMnJ3dVRJbnY2NE1ON0RCZ3I3RllQdTFvZ21XR3RJaUdyNU5fd0g2SDNiTmdERnQ0UVRvZi1EbVlaa1kzZGNINzBQNzR1TkI2UXgtdVBiNGpDQjI2ZHQ5RW9vU1VLWEhZam9rejVYTmhGd1d1aVBxbmJQa3dEX21yRHZLNTFYQ1BsbWROM2lZaWgxVmNMdnhHUVExYXBYcmxBX3Uwc1Jn?oc=5": 1795690249.8332477,
@@ -1814,7 +1812,9 @@
   "https://gorkhapatraonline.com/news/230728": 1795861883.8220327,
   "http://english.ratopati.com/story/88688/expanded-health-services-to-begin-at-rapti-institute-of-health-sciences-from-monday": 1795861883.8220327,
   "https://gorkhapatraonline.com/news/230726": 1795861883.8220327,
-  "http://english.ratopati.com/story/88686/it-is-not-a-lack-of-experience-but-a-flaw-in-the-governments-intentions-nepali-congress": 1795861883.8220327
+  "http://english.ratopati.com/story/88686/it-is-not-a-lack-of-experience-but-a-flaw-in-the-governments-intentions-nepali-congress": 1795861883.8220327,
+  "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdmliODhXcE8zMGROZFdNaGh5SS12SUhYbFFwczFSRTNDOHgwMy12TVRvSEljUHVzdVl6Sy1nQm9EcTNNR0VTM0QzRFAxN3NUaGd0bWRyNVotWE55SVJVbnFFby0zaDJOUlY5X1p6UDkzUHFHMURvQ25mbXJNLVlKdy01VGJTN2l3d2taZjRET3dfZl8wUUw1VWR4VWxEQTlYVEdCaFR4UkhGTUdIZVhZaGp0VjZrZEVaN0l2V1RfVmVoZnpBYnRDZkpYOTJOcFhjdUN0Z0FMNzhxdw?oc=5": 1795862451.4449532,
+  "https://gorkhapatraonline.com/news/230733": 1795862451.4449532
  },
  "queue": [
   {
@@ -1908,28 +1908,6 @@
    "hits": 1
   },
   {
-   "title": "सञ्चारका संरचनात्मक जटिलता",
-   "summary": "लोकतन्त्रमा राज्य र नागरिकबिचको सम्बन्ध अत्यन्त प्रगाढ हुनु पर्छ । यी दुई पक्षबिचको आपसी सम्बन्धले मुलुकको लोकतान्त्रिक सबलता निर्धारण गर्छ । राज्य र नागरिकबिचको सम्बन्ध केवल संविध...",
-   "link": "https://gorkhapatraonline.com/news/230666",
-   "source": "Gorkhapatra",
-   "ts": 1795833421,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/393733/conversions/sss-original.jpg",
-   "lang": "ne",
-   "hl": "सञ्चारका संरचनात्मक जटिलता",
-   "en": "सञ्चारका संरचनात्मक जटिलता",
-   "ne": "सञ्चारका संरचनात्मक जटिलता",
-   "imp": 1,
-   "tags": [
-    "Media",
-    "सञ्चार"
-   ],
-   "cat": "society",
-   "val": 1,
-   "teaser": false,
-   "hits": 2
-  },
-  {
    "title": "New Hostel Building Inaugurated at Shree Divya Deep Secondary School in Mustang",
    "summary": "Mustang. A new hostel building at Shree Divya Deep Secondary School located in Lomangthang Rural Municipality-2 of Mustang District has...",
    "link": "http://english.ratopati.com/story/88614/inauguration-of-the-dormitory-building-of-the-school-built-with-indian-assistance-in-lomanthang",
@@ -1953,28 +1931,6 @@
    "hits": 2
   },
   {
-   "title": "आलोचनात्मक चेत : समाजको ऊर्जा",
-   "summary": "आलोचनात्मक चेत भनेको ठुला भाषण होइन, दैनिक जीवनमा किन भनेर सोध्ने बानी हो । आलोचनात्मक चेतको अभाव हुनु भनेको आँखा चिम्लेर हिँड्नु सरह हो । आलोचनात्मक चेतको अभावमा समग्र प्रणाली, नी...",
-   "link": "https://gorkhapatraonline.com/news/230665",
-   "source": "Gorkhapatra",
-   "ts": 1795833291,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/393730/conversions/durga-original.jpg",
-   "lang": "ne",
-   "hl": "आलोचनात्मक चेत : समाजको ऊर्जा",
-   "en": "आलोचनात्मक चेत : समाजको ऊर्जा",
-   "ne": "आलोचनात्मक चेत : समाजको ऊर्जा",
-   "imp": 1,
-   "tags": [
-    "CriticalThinking",
-    "समाज"
-   ],
-   "cat": "society",
-   "val": 1,
-   "teaser": false,
-   "hits": 2
-  },
-  {
    "title": "Pakistan Cricket Board Reduces Women Cricketers' Central Contracts to Eight",
    "summary": "Islamabad. Pakistan Cricket Board (PCB) has made a big cut in the central contracts of women cricketers, reducing the number...",
    "link": "http://english.ratopati.com/story/88613/pakistan-womens-cricketers-central-contract-cut-only-eight-players-remain",
@@ -1991,98 +1947,6 @@
     "PCB",
     "PakistanCricket",
     "WomenCricket"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "शीतलहरको कहरबाट बचौँ",
-   "summary": "प्रकृतिको नियमित चक्र अनुसार नेपालमा पनि यस वर्षको हिउँदयाम सुरु भइसकेको छ । मनसुनले औपचारिक रूपमा बिदा नलिँदै आएको रसुवा भोटेकोशीको असाधारण बाढीले कालान्तरसम्म पनि बिर्सिन नसकिने...",
-   "link": "https://gorkhapatraonline.com/news/230664",
-   "source": "Gorkhapatra",
-   "ts": 1795833157,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/393729/conversions/shreeram-original.jpg",
-   "lang": "ne",
-   "hl": "शीतलहरको कहरबाट बचौँ",
-   "en": "शीतलहरको कहरबाट बचौँ",
-   "ne": "शीतलहरको कहरबाट बचौँ",
-   "imp": 3,
-   "tags": [
-    "ColdWave",
-    "Sheetalhar",
-    "शीतलहर"
-   ],
-   "cat": "disaster",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Two Traffic Police Jawans Suspended in Banke for Taking Bribe",
-   "summary": "Butwal. Two traffic police jawans working in Banke have been suspended after a video of them taking financial gain against...",
-   "link": "http://english.ratopati.com/story/88612/two-traffic-police-officers-suspended-after-video-of-extorting-money-from-service-recipients-goes-public",
-   "source": "Ratopati EN",
-   "ts": 1795833433,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/traffic-butwal_Et7FXbPGlr.webp",
-   "lang": "en",
-   "hl": "Two Traffic Police Jawans Suspended in Banke for Taking Bribe",
-   "en": "Two Traffic Police Jawans Suspended in Banke for Taking Bribe",
-   "ne": "Two Traffic Police Jawans Suspended in Banke for Taking Bribe",
-   "imp": 3,
-   "tags": [
-    "Banke",
-    "TrafficPolice",
-    "Corruption"
-   ],
-   "cat": "crime",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "वृद्धावस्थाको मानसिक स्वास्थ्य",
-   "summary": "वृद्धावस्था मानव जीवनको स्वाभाविक र महत्वपूर्ण चरण हो । जीवनभर परिवार, समाज र राष्ट्रका लागि योगदान गरेका मानिस उमेर बढ्दै जाँदा अनुभव, ज्ञान र जीवन दृष्टिले अझ समृद्ध हुन्छन् तर श...",
-   "link": "https://gorkhapatraonline.com/news/230663",
-   "source": "Gorkhapatra",
-   "ts": 1795833085,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/393734/conversions/lalit-original.jpg",
-   "lang": "ne",
-   "hl": "वृद्धावस्थाको मानसिक स्वास्थ्य",
-   "en": "वृद्धावस्थाको मानसिक स्वास्थ्य",
-   "ne": "वृद्धावस्थाको मानसिक स्वास्थ्य",
-   "imp": 2,
-   "tags": [
-    "MentalHealth",
-    "ElderlyCare",
-    "वृद्धावस्था"
-   ],
-   "cat": "health",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Lionel Messi to Play in Carlos Tevez's Farewell Match",
-   "summary": "Miami. Organizers have confirmed that Lionel Messi will play in the farewell match of former Argentine colleague Carlos Tevez. The...",
-   "link": "http://english.ratopati.com/story/88611/ronaldo-and-messi-face-off-again",
-   "source": "Ratopati EN",
-   "ts": 1795833109,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/messi_LwhbYW08Y0.webp",
-   "lang": "en",
-   "hl": "Lionel Messi to Play in Carlos Tevez's Farewell Match",
-   "en": "Lionel Messi to Play in Carlos Tevez's Farewell Match",
-   "ne": "Lionel Messi to Play in Carlos Tevez's Farewell Match",
-   "imp": 1,
-   "tags": [
-    "LionelMessi",
-    "CarlosTevez",
-    "Football"
    ],
    "cat": "sports",
    "val": 3,
@@ -5910,7 +5774,7 @@
    "cat": "society",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "स्थानीय तहका असल अभ्यास एकअर्काले अनुसरण गर्न सके सेवा प्रभावकारी बन्ने",
@@ -6093,6 +5957,29 @@
    ],
    "cat": "politics",
    "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "अफगानिस्तानको विद्यालयमा विस्फोट: सात जनाको मृत्यु, ९० भन्दा बढी घाइते",
+   "summary": "काबुल, मङ्सिर १२ गते । अफगानिस्तानको पूर्वी कुनार प्रान्तस्थित एक विद्यालयमा शनिबार भएको विस्फोटमा सात जनाको मृत्यु भएको छ भने ९० भन्दा बढी घाइते भएका छन् ।प्रान्तीय संस्कृति तथा स...",
+   "link": "https://gorkhapatraonline.com/news/230733",
+   "source": "Gorkhapatra",
+   "ts": 1795862020,
+   "weight": 3,
+   "img": "https://gorkhapatraonline.com/storage/media/393822/conversions/balast-original.jpg",
+   "lang": "ne",
+   "hl": "अफगानिस्तानको विद्यालयमा विस्फोट: सात जनाको मृत्यु, ९० भन्दा बढी घाइते",
+   "en": "अफगानिस्तानको विद्यालयमा विस्फोट: सात जनाको मृत्यु, ९० भन्दा बढी घाइते",
+   "ne": "अफगानिस्तानको विद्यालयमा विस्फोट: सात जनाको मृत्यु, ९० भन्दा बढी घाइते",
+   "imp": 1,
+   "tags": [
+    "Afghanistan",
+    "SchoolBlast",
+    "विस्फोट"
+   ],
+   "cat": "world",
+   "val": 3,
    "teaser": false,
    "hits": 1
   }
@@ -9190,8 +9077,8 @@
    "cat": "sports"
   }
  ],
- "updated": 1795861900,
- "pending_since": null,
+ "updated": 1795862454,
+ "pending_since": 1795862451.4449532,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
