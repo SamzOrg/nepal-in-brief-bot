@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeHNNMUJGVTcwdHRja1ZYSWQ1NlBxV2FySVhkWWFjbjc4ZFdZdWxjV3V0Z19xcTh1SUVMT25fSTUyZDdaNWwyMkFsTFYxQkxJQW9lak9hczUzY3VDbWFObkRDVVpCWmY3NEhmMzJNZWVuV0xia2NqZXlKVjFydzBua2tQVEVTeDdwdDBJc29SSHhCVGNZYUlSTHdiMA?oc=5": 1795704649.7629714,
   "https://theannapurnaexpress.com/story/69094": 1795705294.2676866,
   "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZVJDa3N3cm9yd3NXNUxxTTJTUzJRM0lnUTBGdWtXd3d3LTV4NWZwaGJ0QU5RQVItSVRHc0lOMi0ybm52ME4yWXZUTElyTUtmT09TNnpVbElTdnlHNWJ1QWpVRjFVYzNBbmFvUnd2aERadEcwUGhZbUszN1cxZG9rc0w1QW95eVQyaXNVdUQ0UQ?oc=5": 1795705294.2676866,
   "https://kathmandupost.com/national/2026/11/26/nepal-mourns-citizen-killed-in-saudi-attacks-urges-restraint": 1795705294.2676866,
@@ -1751,7 +1750,18 @@
   "https://gorkhapatraonline.com/news/230758": 1795876268.6003845,
   "https://www.setopati.com/politics/403590": 1795876268.6003845,
   "https://gorkhapatraonline.com/news/230756": 1795876268.6003845,
-  "https://www.setopati.com/politics/403596": 1795876268.6003845
+  "https://www.setopati.com/politics/403596": 1795876268.6003845,
+  "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOFBQTEh1NDE1RGlLRFVZaUN4dVZMeVdZci1ULU1obWhmMjVNT2pQYThJSF93bHhmZ2p6YWhnb1FCd3FyWXUzM1Rkdy1pY1k1UW5Tc3QyVE5QRk9kRDgyOW1JeDdEc21Ed1d6ZExLTEVWRlVPb3lvdm5wR1pSdnVMRG0tVGttMDJnYTBlcG1NcjFua0dMSTVlOEVXVkFkWFFYOEw2TXlRYjlPUS16VVlDMllmVERSM21JZDFDUXBsX3htUUhtR1BLM3pEejVCVEFjWkpV?oc=5": 1795877453.7796009,
+  "https://www.gorkhapatraonline.com/news/230760": 1795877453.7796009,
+  "https://www.gorkhapatraonline.com/news/230759": 1795877453.7796009,
+  "https://www.gorkhapatraonline.com/news/230758": 1795877453.7796009,
+  "https://www.gorkhapatraonline.com/news/230757": 1795877453.7796009,
+  "https://www.gorkhapatraonline.com/news/230756": 1795877453.7796009,
+  "https://www.gorkhapatraonline.com/news/230753": 1795877453.7796009,
+  "https://www.gorkhapatraonline.com/news/230752": 1795877453.7796009,
+  "https://www.gorkhapatraonline.com/news/230751": 1795877453.7796009,
+  "https://www.gorkhapatraonline.com/news/230750": 1795877453.7796009,
+  "https://www.gorkhapatraonline.com/news/230749": 1795877453.7796009
  },
  "queue": [
   {
@@ -1819,74 +1829,6 @@
     "Gaza",
     "MSF",
     "Israel"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Model Bridge Construction Underway on Kankadvitta-Lauvahi Road in Jhapa",
-   "summary": "Jhapa. A model bridge is being constructed over the Ratuwa River as part of the Kankadvitta-Lauvahi road section being upgraded...",
-   "link": "http://english.ratopati.com/story/88645/progress-of-construction-of-landmark-bridge-on-ratuwa-river-in-jhapa-reaches-60-percent",
-   "source": "Ratopati EN",
-   "ts": 1795848504,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/pul_8LD7GOcDmf.webp",
-   "lang": "en",
-   "hl": "Model Bridge Construction Underway on Kankadvitta-Lauvahi Road in Jhapa",
-   "en": "Model Bridge Construction Underway on Kankadvitta-Lauvahi Road in Jhapa",
-   "ne": "Model Bridge Construction Underway on Kankadvitta-Lauvahi Road in Jhapa",
-   "imp": 3,
-   "tags": [
-    "Jhapa",
-    "Bridge",
-    "Kankadvitta"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Intellectual Property Theft and AI in Literature",
-   "summary": "In a conversation with the serious writer and sensitive poet Nibha Shah, she said in a serious tone - 'Brother,...",
-   "link": "http://english.ratopati.com/story/88637/tales-of-brain-thieves-and-writers",
-   "source": "Ratopati EN",
-   "ts": 1795848300,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/np_YAWJtguNpF.webp",
-   "lang": "en",
-   "hl": "Intellectual Property Theft and AI in Literature",
-   "en": "Intellectual Property Theft and AI in Literature",
-   "ne": "Intellectual Property Theft and AI in Literature",
-   "imp": 2,
-   "tags": [
-    "IntellectualProperty",
-    "Literature"
-   ],
-   "cat": "tech",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Rare Fossilized Activity Traces of Ancient Creatures Found in Chongqing",
-   "summary": "Chongqing. Rare fossils reflecting the activity of ancient creatures have been found on Mount Tifeng in Chongqing, located in the...",
-   "link": "http://english.ratopati.com/story/88644/new-species-of-jurassic-period-fossil-discovered",
-   "source": "Ratopati EN",
-   "ts": 1795848216,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/jiwasma_50Lwn0uScd.webp",
-   "lang": "en",
-   "hl": "Rare Fossilized Activity Traces of Ancient Creatures Found in Chongqing",
-   "en": "Rare Fossilized Activity Traces of Ancient Creatures Found in Chongqing",
-   "ne": "Rare Fossilized Activity Traces of Ancient Creatures Found in Chongqing",
-   "imp": 1,
-   "tags": [
-    "Chongqing",
-    "Fossil",
-    "China"
    ],
    "cat": "world",
    "val": 3,
@@ -4832,7 +4774,7 @@
    "cat": "politics",
    "val": 2,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "KSrelief launches winter relief project in Nepal",
@@ -5186,7 +5128,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Nepal grants one-year extension to MCC projects",
@@ -5394,7 +5336,7 @@
    "cat": "economy",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "भारतमा लोकसभा सिट ८५० पुर्‍याउने तयारी",
@@ -5487,7 +5429,7 @@
    "cat": "society",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "मलाई घर फर्काऊ : सिसाभित्र थुनिएका भगवानको चित्कार",
@@ -5534,7 +5476,7 @@
    "cat": "sports",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "शक्तिखोर औद्योगिक क्षेत्रको काम अघि बढाउन मन्त्री लम्सालको निर्देशन",
@@ -5581,30 +5523,7 @@
    "cat": "crime",
    "val": 3,
    "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "विपद् प्रभावितलाई दिइने क्षतिपूर्ति रकम दोब्बर",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/508514",
-   "source": "Baahrakhari",
-   "ts": 1795875590,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "विपद् प्रभावितलाई दिइने क्षतिपूर्ति रकम दोब्बर",
-   "en": "विपद् प्रभावितलाई दिइने क्षतिपूर्ति रकम दोब्बर",
-   "ne": "विपद् प्रभावितलाई दिइने क्षतिपूर्ति रकम दोब्बर",
-   "imp": 4,
-   "tags": [
-    "DisasterRelief",
-    "Government",
-    "विपद्"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Political Parties Intensify Preparations for Local Elections with Madhes Province Campaigns",
@@ -5650,7 +5569,7 @@
    "cat": "disaster",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Gold price remains stable as silver edges up Rs 85 per tola in a week",
@@ -5740,7 +5659,7 @@
    "cat": "politics",
    "val": 2,
    "teaser": true,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Fascism's Rise and Fall: Lessons from History and Contemporary Politics",
@@ -5786,7 +5705,7 @@
    "cat": "society",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "नेपालका लागि कोप- अपेक्षित परिणाम आएन, तर कूटनीतिक लडाइँ हामीले जितेकै हो!",
@@ -5832,7 +5751,7 @@
    "cat": "sports",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "संविधानले नचिनेका व्यक्तिबाट शासन भइरहेको छः रामहरि खतिवडा",
@@ -8949,10 +8868,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "politics"
+  },
+  {
+   "ts": 1795877461.2078485,
+   "en": "सरकारले विपद् प्रभावित परिवारलाई दिने क्षतिपूर्ति रकम दोब्बर बनायो",
+   "ne": "सरकारले विपद् प्रभावित परिवारलाई दिने क्षतिपूर्ति रकम दोब्बर बनायो",
+   "link": "https://baahrakhari.com/detail/508514",
+   "source": "Baahrakhari",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "disaster"
   }
  ],
- "updated": 1795876869,
- "pending_since": null,
+ "updated": 1795877470,
+ "pending_since": 1795877453.7796009,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
