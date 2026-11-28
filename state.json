@@ -1,6 +1,5 @@
 {
  "seen": {
-  "http://english.ratopati.com/story/88282/how-was-the-weather-today": 1795653066.6447816,
   "https://baahrakhari.com/detail/508307": 1795653649.401868,
   "http://english.ratopati.com/story/88283/cricket-craze-in-villages-local-talent-shining-in-the-fields": 1795653649.401868,
   "https://gorkhapatraonline.com/news/230400": 1795653649.401868,
@@ -2101,51 +2100,6 @@
     "CleanEnergy"
    ],
    "cat": "world",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "महिला बास्केटबलतर्फ आठ टोली सेमिफाइनलमा",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/508468",
-   "source": "Baahrakhari",
-   "ts": 1795797334,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "महिला बास्केटबलतर्फ आठ टोली सेमिफाइनलमा",
-   "en": "महिला बास्केटबलतर्फ आठ टोली सेमिफाइनलमा",
-   "ne": "महिला बास्केटबलतर्फ आठ टोली सेमिफाइनलमा",
-   "imp": 2,
-   "tags": [
-    "Basketball",
-    "WomenSports"
-   ],
-   "cat": "sports",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Middle East Tensions Drive Crude Oil Prices Upward",
-   "summary": "CNN. As military tensions in West Asia escalate again, crude oil prices have started to rise again in the international...",
-   "link": "http://english.ratopati.com/story/88594/oil-prices-rise-again-as-tensions-escalate-in-west-asia",
-   "source": "Ratopati EN",
-   "ts": 1795797453,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/capture_OfpmuLM02h.webp",
-   "lang": "en",
-   "hl": "Middle East Tensions Drive Crude Oil Prices Upward",
-   "en": "Middle East Tensions Drive Crude Oil Prices Upward",
-   "ne": "Middle East Tensions Drive Crude Oil Prices Upward",
-   "imp": 2,
-   "tags": [
-    "MiddleEast",
-    "OilPrices",
-    "Economy"
-   ],
-   "cat": "economy",
    "val": 2,
    "teaser": false,
    "hits": 1
@@ -5543,7 +5497,7 @@
    "cat": "society"
   }
  ],
- "updated": 1795825870,
+ "updated": 1795826472,
  "pending_since": 1795825866.5625055,
  "fb_blocks": [
   1790350880.4125228,
