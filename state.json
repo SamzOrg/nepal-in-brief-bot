@@ -1881,7 +1881,16 @@
   "http://english.ratopati.com/story/88664/10th-national-sports-competition-police-club-advances-to-semifinals-in-mens-football-gandaki-out": 1795854674.9633484,
   "https://www.gorkhapatraonline.com/news/230711": 1795854674.9633484,
   "http://english.ratopati.com/story/88658/is-the-magic-of-the-city-over": 1795854674.9633484,
-  "http://english.ratopati.com/story/88661/rashtriya-swayamsevak-sangh-rss-president-lamichhane-inspects-the-10th-national-games": 1795854674.9633484
+  "http://english.ratopati.com/story/88661/rashtriya-swayamsevak-sangh-rss-president-lamichhane-inspects-the-10th-national-games": 1795854674.9633484,
+  "https://gorkhapatraonline.com/news/230718": 1795855252.286617,
+  "https://risingnepaldaily.com/news/89133": 1795855252.286617,
+  "https://gorkhapatraonline.com/news/230715": 1795855252.286617,
+  "https://gorkhapatraonline.com/news/230714": 1795855252.286617,
+  "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNM042bDdtNzk0TjhBekM3dlNCQW04SzNHb295elQtVWVuZ3JwRjRTV0Fzd0NMV25pVk4wOWRRYTZQZG5ZQlpzVHRwN2RSSUMtUTB2dTFON3ByR0c3dVhDMWdKQWt0dzN1SnRvdzYtZTBlMzBaMVZrYzltVjdBVVpOT18xWWpmZmFsbFczb0wtSjhDR2dNYUVrOHYySnN4SWpjeDZvbjl0T05IRlVMb0RMWnIxRWx0eUVGQmdyS0MyWjVZQ1lidnc1ci14aDZ1NmVSSUVF?oc=5": 1795855252.286617,
+  "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMTBKZE9zeXVZN0tKbHowaXcxTnJPV3Vrdjh3OEZXWWxtRW14TmNibU9udUM0RkZQSEExYmV6MFhzeWJWQTZ2M0lEeUVkVVh2U253aTYyYUZyRllFamdubXhHOWVuMlRjSlJnVHljTTJ3UGFpblJYV00xUERUMnlucVJTQ0Y0blFOUDlNTXlLU0RiM19oRlJZRVNvRFVJVzc5WTQyNzkta0lrRFE3R1hRUEU0SzFHQ1VKb2pxbHZmV0Y2eHNmRmY5bzRzX1dJVDRRaGlZZlJrQQ?oc=5": 1795855252.286617,
+  "https://gorkhapatraonline.com/news/230713": 1795855252.286617,
+  "https://gorkhapatraonline.com/news/230712": 1795855252.286617,
+  "https://thehimalayantimes.com/nepal/narayangadh-muglin-road-to-remain-closed-five-hours-daily-for-landslide-mitigation": 1795855252.286617
  },
  "queue": [
   {
@@ -1952,29 +1961,6 @@
    "val": 2,
    "teaser": true,
    "hits": 1
-  },
-  {
-   "title": "सुरक्षण मुद्रण केन्द्रमा नियमित छापिँदै लाइसेन्स",
-   "summary": "क्यूआर कोडसहितको स्मार्ट लाइसेन्स छपाइ सुरु गरेदेखि असार मसान्तसम्मको अवधिमा २७ लाख ४७ हजारथान छापेर सम्बन्धित कार्यालयमा पठाइएको तिमिल्सिनाले जानकारी दिए ।",
-   "link": "https://baahrakhari.com/detail/508475",
-   "source": "Baahrakhari",
-   "ts": 1795826400,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "सुरक्षण मुद्रण केन्द्रमा नियमित छापिँदै लाइसेन्स",
-   "en": "सुरक्षण मुद्रण केन्द्रमा नियमित छापिँदै लाइसेन्स",
-   "ne": "सुरक्षण मुद्रण केन्द्रमा नियमित छापिँदै लाइसेन्स",
-   "imp": 2,
-   "tags": [
-    "SecurityPrinting",
-    "DrivingLicence",
-    "सुरक्षणमुद्रण"
-   ],
-   "cat": "tech",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
   },
   {
    "title": "स्याउ बिक्रीबाट हुम्लाका किसानले कमाए ८ करोडभन्दा बढी",
@@ -3197,7 +3183,7 @@
    "cat": "society",
    "val": 1,
    "teaser": true,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "मनाङ गाउँ र हिमाल",
@@ -5624,7 +5610,7 @@
    "cat": "world",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Dhankuta set to receive treated drinking water as new plants near completion",
@@ -5736,7 +5722,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Home Minister Gurung inspects health services at BP Koirala Institute",
@@ -5758,7 +5744,7 @@
    "cat": "politics",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Poetry of Resistance and Social Commentary by Keshav Silwal",
@@ -5803,7 +5789,7 @@
    "cat": "sports",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Nepal Fishery Society Holds 7th Annual General Meeting and Convention",
@@ -5825,7 +5811,7 @@
    "cat": "economy",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "धारा नेपालगन्ज म्याराथनको उपाधि केन्याली जुलियस मुरिकुकेलाई",
@@ -5847,7 +5833,7 @@
    "cat": "sports",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Nepal Police Club Advances to Football Semifinals",
@@ -5869,7 +5855,7 @@
    "cat": "sports",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Manchester City Faces Crisis Amidst Structural and Mental Issues",
@@ -5912,6 +5898,29 @@
     "Surkhet"
    ],
    "cat": "sports",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "Narayangadh-Muglin road to remain closed five hours daily for landslide mitigation",
+   "summary": "Key Takeaways: The Narayangadh-Muglin road will be closed daily from 11 am to 4 pm The restriction is linked to landslide prevention work at Tuinkhola All vehicle movement will...",
+   "link": "https://thehimalayantimes.com/nepal/narayangadh-muglin-road-to-remain-closed-five-hours-daily-for-landslide-mitigation",
+   "source": "Himalayan Times",
+   "ts": 1795854826,
+   "weight": 3,
+   "img": "https://thehimalayantimes.com/thehimalayantimes/uploads/images/2026/11/28/52048.jpg",
+   "lang": "en",
+   "hl": "Narayangadh-Muglin road to remain closed five hours daily for landslide mitigation",
+   "en": "Narayangadh-Muglin road to remain closed five hours daily for landslide mitigation",
+   "ne": "Narayangadh-Muglin road to remain closed five hours daily for landslide mitigation",
+   "imp": 4,
+   "tags": [
+    "NarayangadhMuglinRoad",
+    "Landslide",
+    "TrafficUpdate"
+   ],
+   "cat": "disaster",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -9010,8 +9019,8 @@
    "cat": "disaster"
   }
  ],
- "updated": 1795854690,
- "pending_since": null,
+ "updated": 1795855257,
+ "pending_since": 1795855252.286617,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
