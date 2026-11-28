@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://gorkhapatraonline.com/news/230481": 1795686053.9423819,
-  "https://news.google.com/rss/articles/CBMiogFBVV95cUxNU1VJeUNXd05qdi0zQ0xaNDhRbC1vbnNzZjdELVI2c3VMMUlfZzFjQUJmQ3piY2xCb015YXloYklrakthM0o0aDk0aUtnVkdWRk5MOXRVeWFuUmR2LUlCcE9ZNFpCbkljTWhRRFZXTnNzYjk0a2ROZTgyN2E3N2NtZEJwNGhzOUoxdmVnbDgzUFcxNXF6NXMxaUhNcm1rT1cxWUHSAaIBQVVfeXFMTVNVSXlDV3dOanYtM0NMWjQ4UWwtb25zc2Y3RC1SNnN1TDFJX2cxY0FCZkN6YmNsQm9NeWF5aGJJa2pLYTNKNGg5NGlLZ1ZHVkZOTDl0VXlhblJkdi1JQnBPWTRaQm5JY01oUURWV05zc2I5NGtkTmU4MjdhNzdjbWRCcDRoczlKMXZlZ2w4M1BXMTVxejVzMWlITXJta09XMVlB?oc=5": 1795686053.9423819,
   "https://gorkhapatraonline.com/news/230483": 1795686660.100199,
   "https://gorkhapatraonline.com/news/230486": 1795687280.327013,
   "http://english.ratopati.com/story/88372/woman-arrested-inside-law-firm-seeking-legal-advice-bar-protests-police-intervention": 1795687280.327013,
@@ -1834,214 +1832,6 @@
  },
  "queue": [
   {
-   "title": "स्याउ बिक्रीबाट हुम्लाका किसानले कमाए ८ करोडभन्दा बढी",
-   "summary": "काँचो स्याउको निकासी रोक्न गत साउनदेखि गाउँपालिकाका कृषि प्राविधिकको सिफारिस अनिवार्य गरिएको थियो।",
-   "link": "https://www.setopati.com/social/403554",
-   "source": "Setopati",
-   "ts": 1795830596,
-   "weight": 3,
-   "img": null,
-   "lang": "ne",
-   "hl": "स्याउ बिक्रीबाट हुम्लाका किसानले कमाए ८ करोडभन्दा बढी",
-   "en": "स्याउ बिक्रीबाट हुम्लाका किसानले कमाए ८ करोडभन्दा बढी",
-   "ne": "स्याउ बिक्रीबाट हुम्लाका किसानले कमाए ८ करोडभन्दा बढी",
-   "imp": 2,
-   "tags": [
-    "Humla",
-    "Apple",
-    "हुम्ला",
-    "स्याउ"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "बाह्रबर्से श्वेतकाली नाचले जीवन्त बनायो",
-   "summary": "काठमाडौँ, मङ्सिर १२ गते । पुस्तौँदेखि हस्तान्तरण हुँदै आएको नेवार समुदायको मौलिक धार्मिक तथा सांस्कृतिक परम्परा १२ बर्से नरदेवी श्वेतकाली (ङतभुलु अजिमा) देवीनाचले उपत्यकाका ऐतिहासि...",
-   "link": "https://gorkhapatraonline.com/news/230660",
-   "source": "Gorkhapatra",
-   "ts": 1795830391,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/393725/conversions/devi-nacha--bikas-original.jpg",
-   "lang": "ne",
-   "hl": "बाह्रबर्से श्वेतकाली नाचले जीवन्त बनायो",
-   "en": "बाह्रबर्से श्वेतकाली नाचले जीवन्त बनायो",
-   "ne": "बाह्रबर्से श्वेतकाली नाचले जीवन्त बनायो",
-   "imp": 2,
-   "tags": [
-    "ShwetakaliDance",
-    "Culture",
-    "श्वेतकालीनाच"
-   ],
-   "cat": "culture",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Students of Janakalyan School take initiative to preserve Naumati Baja",
-   "summary": "By Our Correspondent, Myagdi, Nov. 28: At a time when the younger generation is increasingly drawn towards modern music...",
-   "link": "https://risingnepaldaily.com/news/89118",
-   "source": "Rising Nepal",
-   "ts": 1795830224,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Students of Janakalyan School take initiative to preserve Naumati Baja",
-   "en": "Students of Janakalyan School take initiative to preserve Naumati Baja",
-   "ne": "Students of Janakalyan School take initiative to preserve Naumati Baja",
-   "imp": 2,
-   "tags": [
-    "NaumatiBaja",
-    "JanakalyanSchool",
-    "Music"
-   ],
-   "cat": "culture",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "नेपाली र अमेरिकी सेनाबीच विस्फोटक पदार्थ निष्क्रिय पार्ने सीप आदानप्रदान हुने",
-   "summary": "",
-   "link": "https://baahrakhari.com/detail/508479",
-   "source": "Baahrakhari",
-   "ts": 1795830075,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "नेपाली र अमेरिकी सेनाबीच विस्फोटक पदार्थ निष्क्रिय पार्ने सीप आदानप्रदान हुने",
-   "en": "नेपाली र अमेरिकी सेनाबीच विस्फोटक पदार्थ निष्क्रिय पार्ने सीप आदानप्रदान हुने",
-   "ne": "नेपाली र अमेरिकी सेनाबीच विस्फोटक पदार्थ निष्क्रिय पार्ने सीप आदानप्रदान हुने",
-   "imp": 3,
-   "tags": [
-    "NepalArmy",
-    "USArmy",
-    "नेपालीसेना"
-   ],
-   "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "करेन्ट लागेर प्राधिकरणका कर्मचारीको मृत्यु",
-   "summary": "धनकुटा समाचारदाताधनकुटा, मङ्सिर १२ गते । धनकुटाको सहिदभूमी गाउँपालिकामा विद्युत मर्मत गर्ने क्रममा करेन्ट लागेर विद्युत कार्यालयका कर्मचारीको मृत्यु भएको छ । शुक्रवार साँझ करिब ७:३...",
-   "link": "https://gorkhapatraonline.com/news/230659",
-   "source": "Gorkhapatra",
-   "ts": 1795830382,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/393724/conversions/1000470618-modified-original.jpg",
-   "lang": "ne",
-   "hl": "करेन्ट लागेर प्राधिकरणका कर्मचारीको मृत्यु",
-   "en": "करेन्ट लागेर प्राधिकरणका कर्मचारीको मृत्यु",
-   "ne": "करेन्ट लागेर प्राधिकरणका कर्मचारीको मृत्यु",
-   "imp": 3,
-   "tags": [
-    "ElectricityAuthority",
-    "Accident",
-    "करेन्ट"
-   ],
-   "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "बगर खेतीले मनग्गे आम्दानी",
-   "summary": "बाजुरा समाचारदाता बाजुरा, मङ्सिर १२ गते । जिल्लाको पूर्वीउत्तर क्षेत्रमा पर्ने दानसाँगुखोलाको बगर अहिले बन्दा, काउलीसहितको तरकारीको बगर बनेको छ । खोलाका कारण बगरमा परिणत भएको बुढीन...",
-   "link": "https://gorkhapatraonline.com/news/230658",
-   "source": "Gorkhapatra",
-   "ts": 1795830333,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/393723/conversions/333-original.jpg",
-   "lang": "ne",
-   "hl": "बगर खेतीले मनग्गे आम्दानी",
-   "en": "बगर खेतीले मनग्गे आम्दानी",
-   "ne": "बगर खेतीले मनग्गे आम्दानी",
-   "imp": 2,
-   "tags": [
-    "Agriculture",
-    "BagarKheti",
-    "बगरखेती"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "निर्यात बढाउन ल्याइयो प्रोत्साहन कार्यविधि",
-   "summary": "गोरखापत्र समाचारदाताकाठमाडौँ, मङ्सिर १२ गते । सरकारले वस्तु उत्पादन तथा निर्यात गर्नेलाई ८० लाख रुपियाँसम्म उत्पादनमा आधारित प्रोत्साहन रकम उपलब्ध गराउने भएको छ । उद्योग, वाणिज्य त...",
-   "link": "https://gorkhapatraonline.com/news/230657",
-   "source": "Gorkhapatra",
-   "ts": 1795830280,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/393722/conversions/aayat-niryat-original.jpg",
-   "lang": "ne",
-   "hl": "निर्यात बढाउन ल्याइयो प्रोत्साहन कार्यविधि",
-   "en": "निर्यात बढाउन ल्याइयो प्रोत्साहन कार्यविधि",
-   "ne": "निर्यात बढाउन ल्याइयो प्रोत्साहन कार्यविधि",
-   "imp": 3,
-   "tags": [
-    "Export",
-    "CommerceMinistry",
-    "निर्यात"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "धान काट्न पुग्दैन मेसिन, पर्छ झगडा",
-   "summary": "हरिप्रसाद कोइरालाउर्लाबारी, मङ्सिर १२ गते । धान काट्न नपाएर समयमा खेत खाली गर्न नसक्दा यो वर्ष किसानले तोरी र गहुँ छर्न पाएका छैनन् । खास गरी धेरै जग्गामा खेती गर्ने ठुला किसानले ध...",
-   "link": "https://gorkhapatraonline.com/news/230656",
-   "source": "Gorkhapatra",
-   "ts": 1795830193,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/393721/conversions/dhan-original.jpg",
-   "lang": "ne",
-   "hl": "धान काट्न पुग्दैन मेसिन, पर्छ झगडा",
-   "en": "धान काट्न पुग्दैन मेसिन, पर्छ झगडा",
-   "ne": "धान काट्न पुग्दैन मेसिन, पर्छ झगडा",
-   "imp": 2,
-   "tags": [
-    "Agriculture",
-    "Harvest",
-    "धान"
-   ],
-   "cat": "economy",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "सामाजिक सुरक्षा कोषको रकम पूर्वाधार विकासमा परिचालन'",
-   "summary": "गोरखापत्र समाचारदाता काठमाडौँ, मङ्सिर १२ गते । अर्थमन्त्री डा. स्वर्णिम वाग्लेले योगदानमा आधारित सामाजिक सुरक्षा कोषमा जम्मा भएको रकमलाई राज्यको भौतिक पूर्वाधार विकासमा परिचालन गर्...",
-   "link": "https://gorkhapatraonline.com/news/230655",
-   "source": "Gorkhapatra",
-   "ts": 1795830125,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/393720/conversions/samajik-surakshya-kosh-original.jpg",
-   "lang": "ne",
-   "hl": "सामाजिक सुरक्षा कोषको रकम पूर्वाधार विकासमा परिचालन'",
-   "en": "सामाजिक सुरक्षा कोषको रकम पूर्वाधार विकासमा परिचालन'",
-   "ne": "सामाजिक सुरक्षा कोषको रकम पूर्वाधार विकासमा परिचालन'",
-   "imp": 3,
-   "tags": [
-    "SocialSecurityFund",
-    "Infrastructure",
-    "सामाजिकसुरक्षाकोष"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Myth Of Free Education In Kathmandu",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5lVWRBZ0RUMTZ2blU3UFplOUJ2eGZVcGNjeU9tb1UxU2RJbml0LVQ4T1U2MzNJQjU5cnhXV2lEd3cxTk1LbVdhdjR3TmJqMWY5?oc=5",
@@ -3850,28 +3640,6 @@
    "hits": 3
   },
   {
-   "title": "Private firms issue quality certificates to community schools without government oversight",
-   "summary": "Schools have paid up to Rs500,000 for ISO certification, but education officials question the companies' authority to assess them.",
-   "link": "https://kathmandupost.com/national/2026/11/28/private-firms-issue-quality-certificates-to-community-schools-without-government-oversight",
-   "source": "Kathmandu Post",
-   "ts": 1795830053.7431965,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Private firms issue quality certificates to community schools without government oversight",
-   "en": "Private firms issue quality certificates to community schools without government oversight",
-   "ne": "Private firms issue quality certificates to community schools without government oversight",
-   "imp": 2,
-   "tags": [
-    "QualityCertificates",
-    "PrivateFirms"
-   ],
-   "cat": "education",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Lumbini Province Chief Minister Stresses Coordination Between Governments for Quality Service Delivery",
    "summary": "Butwal. Lumbini Province Chief Minister Chet Narayan Acharya has stated that quality service delivery to citizens can be achieved only...",
    "link": "http://english.ratopati.com/story/88630/coordination-and-collaboration-between-three-levels-of-government-is-necessary-chief-minister-acharya",
@@ -5582,29 +5350,6 @@
     "CourtRemand"
    ],
    "cat": "politics",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Nepse turnover jumps 59 percent, but index makes modest gain",
-   "summary": "Weekly trading rose to Rs25.59 billion as banking stocks attracted buying interest, but nine of the exchange's 13 sub-indices ended lower.",
-   "link": "https://kathmandupost.com/money/2026/11/28/nepse-turnover-jumps-59-percent-but-index-makes-modest-gain",
-   "source": "Kathmandu Post",
-   "ts": 1795842657.8615892,
-   "weight": 3,
-   "img": null,
-   "lang": "en",
-   "hl": "Nepse turnover jumps 59 percent, but index makes modest gain",
-   "en": "Nepse turnover jumps 59 percent, but index makes modest gain",
-   "ne": "Nepse turnover jumps 59 percent, but index makes modest gain",
-   "imp": 3,
-   "tags": [
-    "NEPSE",
-    "Turnover",
-    "StockIndex"
-   ],
-   "cat": "economy",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -8990,9 +8735,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "politics"
+  },
+  {
+   "ts": 1795859464.243729,
+   "en": "Nepse turnover jumps 59% to Rs25.59B as index edges up",
+   "ne": "Nepse turnover jumps 59% to Rs25.59B as index edges up",
+   "link": "https://kathmandupost.com/money/2026/11/28/nepse-turnover-jumps-59-percent-but-index-makes-modest-gain",
+   "source": "Kathmandu Post",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "economy"
   }
  ],
- "updated": 1795858853,
+ "updated": 1795859480,
  "pending_since": 1795857656.386932,
  "fb_blocks": [
   1790350880.4125228,
