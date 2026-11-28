@@ -2026,7 +2026,8 @@
   "https://gorkhapatraonline.com/news/230653": 1795830653.3028085,
   "https://gorkhapatraonline.com/news/230652": 1795830653.3028085,
   "https://gorkhapatraonline.com/news/230651": 1795830653.3028085,
-  "https://gorkhapatraonline.com/news/230650": 1795830653.3028085
+  "https://gorkhapatraonline.com/news/230650": 1795830653.3028085,
+  "https://www.ujyaaloonline.com/detail/133920": 1795830922.8960845
  },
  "queue": [
   {
@@ -2302,7 +2303,7 @@
    "cat": "sports",
    "val": 2,
    "teaser": true,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Pakistan to host Saudi-Turkey talks",
@@ -6154,8 +6155,8 @@
    "cat": "disaster"
   }
  ],
- "updated": 1795830675,
- "pending_since": null,
+ "updated": 1795830933,
+ "pending_since": 1795830922.8960845,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
