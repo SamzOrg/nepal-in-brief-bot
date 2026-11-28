@@ -1,9 +1,5 @@
 {
  "seen": {
-  "http://english.ratopati.com/story/88323/the-global-practice-of-impeachment-and-nepals-constitutional-system": 1795672249.9939861,
-  "https://www.setopati.com/social/403420": 1795672249.9939861,
-  "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdDVYNVhhc0dFUVFsR1E5YUJPTEJxVmtqdkxUYzcteWlBQmVkXzVoZlRYZTh6SGhwdjlzZXNhZnVOZnpuMWJiWGVyYi1yN3V5QzhNdXhIZXBCWGJiU1R3SmRwNS1XdkN3UkE1QlNsNW1CY1ByT3F2bW44X0hOVlVyLWtLMjNLN2ZJUU10dzVJMTJoWUM4WW1zaFZGQ0l1OFE?oc=5": 1795672249.9939861,
-  "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdDFPd25STEE0bDRTX1I4Tm52eVZXNS1Uangtejg2MXVWV0F1ZnUxZkluZE9INXhnWC1jZy1MQmloaURxd05MSGRvdU1UaVFKdlczc3VpejhJUG0zSFczODdVcWR4X2lNQzdHek13cFlTcFJ5U0pnalBocHJtM3JTYjNiS3RSWFlVN2pmemdfbXd3bnhZcEZOZXJ2VDZpdWFMN05RWlBXSzhfcXpnVjY4U2twUWhLYlVXTkE?oc=5": 1795672249.9939861,
   "https://www.ujyaaloonline.com/detail/133867": 1795672879.202014,
   "https://www.setopati.com/social/403423": 1795672879.202014,
   "https://english.onlinekhabar.com/skybridge-two-bir-hospital-buildings.html": 1795672879.202014,
@@ -1976,7 +1972,11 @@
   "https://gorkhapatraonline.com/news/230696": 1795844452.6878705,
   "https://news.google.com/rss/articles/CBMiygFBVV95cUxPLUg3cTJnLWFPanNuYzB0a3J2TFp5ZEdSTlBDS1JGSGdNSWJYLWw3V2lnc1REc183QjhnOFc0eURQTzVGbEN3Wi1JcnQ3dWRFTklPY0J6QWpwS21fQTVTaUlra0RSZVFXVEdvSVFvTnZBWmIyemRrOHA0X2d0b0JEdVhhaDhTTmV1ckZOTUdPOHRFd0ZST2hTUEk1czd4TlNQZWJtVHJ1N2cxTHUzcURzdm9GMEp4b0t3RUh4NkFwNVJfNDVXYlRCd2FB?oc=5": 1795844452.6878705,
   "https://gorkhapatraonline.com/news/230695": 1795844452.6878705,
-  "https://gorkhapatraonline.com/news/230694": 1795844452.6878705
+  "https://gorkhapatraonline.com/news/230694": 1795844452.6878705,
+  "https://www.ujyaaloonline.com/detail/133929": 1795845050.5976388,
+  "https://risingnepaldaily.com/news/89128": 1795845050.5976388,
+  "http://english.ratopati.com/story/88632/former-joint-general-secretary-of-the-nepali-congress-npc-sah-announces-candidacy-for-the-post-of-mayor-of-lahan": 1795845050.5976388,
+  "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVUk5R05hdHNKaE9pb1ViUVdVZXVJZW92Yzh2WUxYMWZvUFNvS1FnVGRpcWk0U0MzRVQ3aHZ1MjE1dUpIbVVjZm9UZTRXX0hHZHIzMVJaNFAxSFJKMjFUejdSVlpOUTBBbXhuUVo0akN5dVNPbzN2NjhIUFI3bkFZOS1EcmJPMUJjTmdBQ0oxcGZXYjlTTlhN?oc=5": 1795845050.5976388
  },
  "queue": [
   {
@@ -2299,7 +2299,7 @@
    "cat": "tech",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "Orange farming grows in Bajhang",
@@ -4841,28 +4841,6 @@
    ],
    "cat": "crime",
    "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "India uses $1.62 billion in Nepal aid to lock in regional influence-and perhaps ward off China, analysts say",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1qRTNzeFUxNFhnd3d6a2w4djQxRS1VMUR1Z3d0STZVWWh0bThzZl9FZS1MNDQzMjlvSWRfYzJZeThEVlpEdTVtdGhWQmwxRFhDNnZNZ1k0SUt4cGNjOU1IdXhsTElHZXcyUXU1cg?oc=5",
-   "source": "Fortune",
-   "ts": 1795842060,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "India uses $1.62 billion in Nepal aid to lock in regional influence-and perhaps ward off China, analysts say",
-   "en": "India uses $1.62 billion in Nepal aid to lock in regional influence-and perhaps ward off China, analysts say",
-   "ne": "India uses $1.62 billion in Nepal aid to lock in regional influence-and perhaps ward off China, analysts say",
-   "imp": 4,
-   "tags": [
-    "IndiaAid",
-    "RegionalInfluence"
-   ],
-   "cat": "politics",
-   "val": 3,
    "teaser": false,
    "hits": 1
   },
@@ -8133,10 +8111,21 @@
    "n_ig": 1,
    "brk": false,
    "cat": "politics"
+  },
+  {
+   "ts": 1795845056.7289107,
+   "en": "India pledges $1.62B aid package to flood-hit Nepal following talks in New Delhi",
+   "ne": "India pledges $1.62B aid package to flood-hit Nepal following talks in New Delhi",
+   "link": "https://fortune.com/2026/11/28/nepal-india-aid-floods-china/",
+   "source": "Fortune",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "politics"
   }
  ],
- "updated": 1795844460,
- "pending_since": null,
+ "updated": 1795845067,
+ "pending_since": 1795845050.5976388,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
