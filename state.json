@@ -1748,7 +1748,9 @@
   "https://www.setopati.com/social/403549": 1795873259.7985206,
   "https://gorkhapatraonline.com/news/230750": 1795873259.7985206,
   "https://www.setopati.com/politics/403592": 1795873259.7985206,
-  "http://english.ratopati.com/story/85257/what-is-the-action-plan-of-the-new-congress-working-committee": 1795873854.0678308
+  "http://english.ratopati.com/story/85257/what-is-the-action-plan-of-the-new-congress-working-committee": 1795873854.0678308,
+  "https://gorkhapatraonline.com/news/230757": 1795875051.1781166,
+  "https://baahrakhari.com/detail/508513": 1795875051.1781166
  },
  "queue": [
   {
@@ -1840,29 +1842,6 @@
    "val": 3,
    "teaser": false,
    "hits": 1
-  },
-  {
-   "title": "Netanyahu weighs offering Eisenkot rotating PM deal amid coalition uncertainty: Israeli media",
-   "summary": "Jerusalem [Israel], November 28 (ANI): Israeli Prime Minister Benjamin Netanyahu is preparing to offer Yashar chairman G...",
-   "link": "https://risingnepaldaily.com/news/89130",
-   "source": "Rising Nepal",
-   "ts": 1795846021,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Netanyahu weighs offering Eisenkot rotating PM deal amid coalition uncertainty: Israeli media",
-   "en": "Netanyahu weighs offering Eisenkot rotating PM deal amid coalition uncertainty: Israeli media",
-   "ne": "Netanyahu weighs offering Eisenkot rotating PM deal amid coalition uncertainty: Israeli media",
-   "imp": 1,
-   "tags": [
-    "Netanyahu",
-    "Israel",
-    "Eisenkot"
-   ],
-   "cat": "world",
-   "val": 3,
-   "teaser": false,
-   "hits": 4
   },
   {
    "title": "विद्यालयबाट मतदान केन्द्र स्थानान्तरण गर्न माग",
@@ -9015,7 +8994,7 @@
    "cat": "society"
   }
  ],
- "updated": 1795874491,
+ "updated": 1795875057,
  "pending_since": 1795873854.0678308,
  "fb_blocks": [
   1790350880.4125228,
