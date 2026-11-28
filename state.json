@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://gorkhapatraonline.com/news/230460": 1795673448.4295228,
-  "https://theannapurnaexpress.com/story/69083": 1795673448.4295228,
   "https://english.khabarhub.com/2026/26/577109/": 1795674049.873917,
   "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQjU1dlJEY0pESUg5TlZ3U3YyWGJYdTdhN1d2QmtlOTZzdmtfTUZMTUVnQ2pDWDFRWC1DSFZxSmV5a21yekczM0JzYnN6SmVwNlRZdDlKeVZHNmFyako5T2F1V3pyQ1lfajNMUFp2TGswbEZUZzllb3NvRWZlUmc3YXQ1MWNCb3FReFg3WEJXcE1YR0o1UmVVQUtpZ3BMdGJabklR?oc=5": 1795674049.873917,
   "https://english.onlinekhabar.com/minister-chaudhary-rides-scooter.html": 1795674049.873917,
@@ -1945,7 +1943,9 @@
   "https://risingnepaldaily.com/news/89128": 1795845050.5976388,
   "http://english.ratopati.com/story/88632/former-joint-general-secretary-of-the-nepali-congress-npc-sah-announces-candidacy-for-the-post-of-mayor-of-lahan": 1795845050.5976388,
   "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVUk5R05hdHNKaE9pb1ViUVdVZXVJZW92Yzh2WUxYMWZvUFNvS1FnVGRpcWk0U0MzRVQ3aHZ1MjE1dUpIbVVjZm9UZTRXX0hHZHIzMVJaNFAxSFJKMjFUejdSVlpOUTBBbXhuUVo0akN5dVNPbzN2NjhIUFI3bkFZOS1EcmJPMUJjTmdBQ0oxcGZXYjlTTlhN?oc=5": 1795845050.5976388,
-  "https://risingnepaldaily.com/news/89129": 1795845683.5802743
+  "https://risingnepaldaily.com/news/89129": 1795845683.5802743,
+  "https://gorkhapatraonline.com/news/230701": 1795846249.4384193,
+  "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeHhJTTdveVdVNlU0MFBtcTFHelJPeFJ3YnBQTzdJdjlUZWNHakEwVnh6d211OXo2YkItdDhaejY1U3lVYkVtSUdNZi1hcjd3X2lfRE9Hem15LV9CNk5iM2VZTkFsMUpNRHlsc1FibzhwWlpwbVZLLUxvWTJIc3hrcnVJdmZJWnZCUzlEYmQxcXItSEoxSkxOV3R6R3R1ck0xbmdGZDZ4QWR5em1sU0pqQkdQZw?oc=5": 1795846249.4384193
  },
  "queue": [
   {
@@ -2060,29 +2060,6 @@
    ],
    "cat": "politics",
    "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "Nepal-India relations should be grounded in mutual respect, sovereign equality, and national interest: NC says",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9LYTlJcDF4ekxLQl9PVHFUZUxLRHBQSVE1b0ttZFYyNjBNM3M5bXhrNUxmMHJwMW9qbmFXTHhzMFZycWxFd09kSmFoMjVjaTRs?oc=5",
-   "source": "The Rising Nepal",
-   "ts": 1795816926,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "Nepal-India relations should be grounded in mutual respect, sovereign equality, and national interest: NC says",
-   "en": "Nepal-India relations should be grounded in mutual respect, sovereign equality, and national interest: NC says",
-   "ne": "Nepal-India relations should be grounded in mutual respect, sovereign equality, and national interest: NC says",
-   "imp": 3,
-   "tags": [
-    "NepaliCongress",
-    "NepalIndia",
-    "Diplomacy"
-   ],
-   "cat": "politics",
-   "val": 3,
    "teaser": false,
    "hits": 1
   },
@@ -4281,7 +4258,7 @@
    "cat": "disaster",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "घोप्टेभिरको पहिरो कटान आइतबार सकिने",
@@ -4985,6 +4962,28 @@
    ],
    "cat": "politics",
    "val": 2,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "S.Sudan leader lifts state of emergency in four regions",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeHhJTTdveVdVNlU0MFBtcTFHelJPeFJ3YnBQTzdJdjlUZWNHakEwVnh6d211OXo2YkItdDhaejY1U3lVYkVtSUdNZi1hcjd3X2lfRE9Hem15LV9CNk5iM2VZTkFsMUpNRHlsc1FibzhwWlpwbVZLLUxvWTJIc3hrcnVJdmZJWnZCUzlEYmQxcXItSEoxSkxOV3R6R3R1ck0xbmdGZDZ4QWR5em1sU0pqQkdQZw?oc=5",
+   "source": "myRepublica",
+   "ts": 1795842804,
+   "weight": 3,
+   "img": null,
+   "lang": "en",
+   "hl": "S.Sudan leader lifts state of emergency in four regions",
+   "en": "S.Sudan leader lifts state of emergency in four regions",
+   "ne": "S.Sudan leader lifts state of emergency in four regions",
+   "imp": 1,
+   "tags": [
+    "SouthSudan",
+    "StateOfEmergency"
+   ],
+   "cat": "world",
+   "val": 3,
    "teaser": false,
    "hits": 1
   }
@@ -8082,7 +8081,7 @@
    "cat": "politics"
   }
  ],
- "updated": 1795845687,
+ "updated": 1795846253,
  "pending_since": 1795845050.5976388,
  "fb_blocks": [
   1790350880.4125228,
