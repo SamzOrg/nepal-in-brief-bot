@@ -1938,7 +1938,9 @@
   "https://gorkhapatraonline.com/news/230698": 1795846853.17654,
   "http://english.ratopati.com/story/88638/10th-national-games-sudurpaschim-exits-after-sharing-points-with-apf": 1795847470.8094695,
   "http://english.ratopati.com/story/88643/all-party-ranks-should-unite-and-participate-in-local-level-elections-general-secretary-poudel": 1795848053.139179,
-  "http://english.ratopati.com/story/88641/integrated-plan-to-be-taken-forward-to-control-sunchhap-landslides": 1795848053.139179
+  "http://english.ratopati.com/story/88641/integrated-plan-to-be-taken-forward-to-control-sunchhap-landslides": 1795848053.139179,
+  "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVjVuY0lFMk92SHZuWldQOEU1blBVbEpzcC1YQ3l4WUhzYnlZcTNGVlM4cHBQdmRyb0d2N0VvaTdGU2s1M05hZ2dfZ24xNjNaeGNlYlE1Rk14ME5YeUttdVNCZVRJLVlmMk4xQ0cwZUlJeDVMeTM5UXFrMjgzb1lyWERjYUNRY0xFT1JxdWZOUm8takpDTkJYR2hIQnVQaTJ0aFhCZXhwNUJJQ0E?oc=5": 1795848648.4002728,
+  "https://kathmandupost.com/national/2026/11/28/displaced-families-eat-on-roadside-after-authorities-block-food-at-holding-centre": 1795848648.4002728
  },
  "queue": [
   {
@@ -3464,29 +3466,6 @@
    "hits": 3
   },
   {
-   "title": "Government prepares special task force to curb foreign employment fraud",
-   "summary": "Kathmandu, November 28 The government is preparing to form a special task force to tackle fraud and labour exploitation in foreign employment, including cases involving recruitment scams, workers being assigned jobs...",
-   "link": "https://english.onlinekhabar.com/govt-special-task-force-foreign-employment-fraud.html",
-   "source": "Onlinekhabar EN",
-   "ts": 1795835700,
-   "weight": 3,
-   "img": "http://english.onlinekhabar.com/wp-content/uploads/2026/11/baideshik_rojgar43-1024x629-1.png",
-   "lang": "en",
-   "hl": "Government prepares special task force to curb foreign employment fraud",
-   "en": "Government prepares special task force to curb foreign employment fraud",
-   "ne": "Government prepares special task force to curb foreign employment fraud",
-   "imp": 3,
-   "tags": [
-    "ForeignEmployment",
-    "Fraud",
-    "Government"
-   ],
-   "cat": "society",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Sushank Mainali's long road back to the big screen",
    "summary": "Debt pulled him out of Nepali cinema just as his career was taking off. A decade in the United States later, he is trying to pick up where he left off.",
    "link": "https://kathmandupost.com/art-culture/2026/11/28/sushank-mainali-s-long-road-back-to-the-big-screen",
@@ -4733,7 +4712,7 @@
    "cat": "economy",
    "val": 3,
    "teaser": false,
-   "hits": 2
+   "hits": 3
   },
   {
    "title": "Private firms issue quality certificates to community schools without government oversight",
@@ -8321,9 +8300,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "economy"
+  },
+  {
+   "ts": 1795848653.2609024,
+   "en": "Nepal Government to Form Special Task Force to Curb Foreign Employment Fraud",
+   "ne": "Nepal Government to Form Special Task Force to Curb Foreign Employment Fraud",
+   "link": "https://english.onlinekhabar.com/govt-special-task-force-foreign-employment-fraud.html",
+   "source": "Onlinekhabar EN",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "society"
   }
  ],
- "updated": 1795848058,
+ "updated": 1795848667,
  "pending_since": 1795847470.8094695,
  "fb_blocks": [
   1790350880.4125228,
