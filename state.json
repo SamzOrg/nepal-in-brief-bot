@@ -1781,103 +1781,11 @@
   "https://www.setopati.com/politics/403588": 1795870257.4432402,
   "http://english.ratopati.com/story/88729/efforts-are-being-made-to-make-all-organs-of-the-state-obedient-to-vested-interests-pradeep-gyawali": 1795870257.4432402,
   "https://www.ujyaaloonline.com/detail/133945": 1795870257.4432402,
-  "http://english.ratopati.com/story/88727/governance-is-being-run-by-people-not-recognized-by-the-constitution-khatiwada": 1795870257.4432402
+  "http://english.ratopati.com/story/88727/governance-is-being-run-by-people-not-recognized-by-the-constitution-khatiwada": 1795870257.4432402,
+  "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNY0lkQmVfYUlCanFnTmR6QU8xREY4VGpzODV2UFk0dllDOXpUVEdNUDZaak9IUy1kbkI5aG1hUTZJMXpZZmhfNGx2QWRBUXR2Tm9VMEVHcVhFR2NYWEtnX2JFa2wweVhnUnBBSFJ4RkJ6TGtaN2pHaWNENE1kQmItZXZuN0twNHB0R2tEMUQzTHVGa25pWjN5Tk05R283b3NiVkQ0REIwb3k0SGQtbW4yaGJ5WFYtR2dlWXdN?oc=5": 1795870882.3281431,
+  "https://news.google.com/rss/articles/CBMihAJBVV95cUxPREprcVpFVHNJc1FjM2lPQTl0VnFmWEhPUzJkY2NUOGhlcjRBVHRvTnN2RUt3MldZZ3Btd29MLTBIY2FHMWJhdjNHSXJFak9ELVBBUXpWb0lYQjRwS2pVVVRrdm9SQ3BRbjM0MUdONVExQTVTTXFoQVlycFYxWnpOMTFwbk9lUGFrSUV4M192dWdnb2JGRkM1X0FWeTRyWS1zVjVlaE1CVDMxRzZLNThudEVPVC16dVlZanVIUnJwbDJhUnQzQU9XRkdLMURxR2lLbl9QNnMyaGV6d3JmS21EeU0xaWxfTkRLdDZRUk5rUlJRT2J4TEUyOUk4dU1meGtwSG4wdg?oc=5": 1795870882.3281431
  },
  "queue": [
-  {
-   "title": "पेरुमा हेलिकोप्टर दुर्घटना, आठ सैनिकको मृत्यु",
-   "summary": "विज्ञप्तिमा भनिएको छ, \"पाइलट तथा दुर्घटनामा बाँच्न सफल एक मात्र व्यक्ति एन्जो एस्पिनोजा रोकलाई थप उपचारका निम्ति लिमा लगिएको छ ।\"",
-   "link": "https://baahrakhari.com/detail/508489",
-   "source": "Baahrakhari",
-   "ts": 1795842042,
-   "weight": 2,
-   "img": null,
-   "lang": "ne",
-   "hl": "पेरुमा हेलिकोप्टर दुर्घटना, आठ सैनिकको मृत्यु",
-   "en": "पेरुमा हेलिकोप्टर दुर्घटना, आठ सैनिकको मृत्यु",
-   "ne": "पेरुमा हेलिकोप्टर दुर्घटना, आठ सैनिकको मृत्यु",
-   "imp": 2,
-   "tags": [
-    "Peru",
-    "HelicopterCrash",
-    "Military",
-    "दुर्घटना"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "घोप्टेभिरको पहिरो कटान आइतबार सकिने",
-   "summary": "चितवन समाचारदाता चितवन, मङ्सिर १२ गते । पटक पटक सुक्खा पहिरो खसेर पृथ्वी राजमार्गको आवागमन प्रभावित हुँदै आएको चितवनको घोप्टेभिरमा जोखिमयुक्त पहिरो कटानको काम आइतबारसम्म सम्पन्न गर...",
-   "link": "https://gorkhapatraonline.com/news/230693",
-   "source": "Gorkhapatra",
-   "ts": 1795841731,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/393760/conversions/Untitled-1-original.jpg",
-   "lang": "ne",
-   "hl": "घोप्टेभिरको पहिरो कटान आइतबार सकिने",
-   "en": "घोप्टेभिरको पहिरो कटान आइतबार सकिने",
-   "ne": "घोप्टेभिरको पहिरो कटान आइतबार सकिने",
-   "imp": 3,
-   "tags": [
-    "Ghoptebhir",
-    "Landslide",
-    "पहिरो"
-   ],
-   "cat": "disaster",
-   "val": 3,
-   "teaser": false,
-   "hits": 2
-  },
-  {
-   "title": "दूधको मूल्य प्रतिलिटर ८० रुपियाँ कायम गर्न किसानको माग",
-   "summary": "अमरराज नहर्कीतनहुँ, मङ्सिर १२ गते । दाना, चोकर, घाँस, औषधोपचार, श्रम र ढुवानी खर्च बढ्दै गए पनि दूधको मूल्य समायोजन हुन नसकेको भन्दै दुग्ध उत्पादक किसानले प्रतिलिटर दूधको मूल्य कम्...",
-   "link": "https://gorkhapatraonline.com/news/230692",
-   "source": "Gorkhapatra",
-   "ts": 1795841636,
-   "weight": 3,
-   "img": "https://gorkhapatraonline.com/storage/media/393759/conversions/IMG_8965-original.jpg",
-   "lang": "ne",
-   "hl": "दूधको मूल्य प्रतिलिटर ८० रुपियाँ कायम गर्न किसानको माग",
-   "en": "दूधको मूल्य प्रतिलिटर ८० रुपियाँ कायम गर्न किसानको माग",
-   "ne": "दूधको मूल्य प्रतिलिटर ८० रुपियाँ कायम गर्न किसानको माग",
-   "imp": 3,
-   "tags": [
-    "MilkPrice",
-    "Farmers",
-    "दूध"
-   ],
-   "cat": "economy",
-   "val": 3,
-   "teaser": false,
-   "hits": 3
-  },
-  {
-   "title": "After the flood, Nepal feared a visitor drought. The pull of the mountains is stronger than the fear of their fury",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQY1hOLWdyTnFoQWZpMU5aUUZtZ3dXbFM4M2UycnlRdVNUN1p4VGhUa0Q4WGU0X3g2a2ZULUFyMUQ2d240LVptMGtJdVdVbEpZVG0wZEU2RGFacldGU1VvSXpqNk1QM1EtWnFablJ6RUo3bjAybWhJNlotTS1ZZDNEZzZsVDhnbDdURFE?oc=5",
-   "source": "CNN",
-   "ts": 1795842015,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "After the flood, Nepal feared a visitor drought. The pull of the mountains is stronger than the fear of their fury",
-   "en": "After the flood, Nepal feared a visitor drought. The pull of the mountains is stronger than the fear of their fury",
-   "ne": "After the flood, Nepal feared a visitor drought. The pull of the mountains is stronger than the fear of their fury",
-   "imp": 3,
-   "tags": [
-    "Tourism",
-    "Mountains",
-    "Flood",
-    "Nepal"
-   ],
-   "cat": "economy",
-   "val": 1,
-   "teaser": false,
-   "hits": 1
-  },
   {
    "title": "Federal Parliament and Provincial Assemblies Secretaries Emphasize Strengthening Legislature's Role",
    "summary": "Kaski. In the interaction and experience-sharing program of the secretaries of the Federal Parliament and Provincial Assemblies that began in...",
@@ -1940,28 +1848,6 @@
     "Video"
    ],
    "cat": "crime",
-   "val": 2,
-   "teaser": false,
-   "hits": 1
-  },
-  {
-   "title": "India supported community development project inaugurated in Nepal's Mustang",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaEplbmxLM3I0LWRKU2tyUDR0OXJQbmFRWkx6OUFLLTNoeG9EblRMX3N6RVIybVFzYlVYMndzRDdESGtTRHY4dk82R2Fla0NmMmEtMkdZR3VkX09ENkJJSEpITS1KVDY3Z0lnYUtiLS1vUnk3SmpDWU5aSHlBZXZzS2xYZUZjQzFzNkdVUXYtdkdYckptY2lHVzgxSnRkblR4VGxB?oc=5",
-   "source": "News On AIR",
-   "ts": 1795842060,
-   "weight": 2,
-   "img": null,
-   "lang": "en",
-   "hl": "India supported community development project inaugurated in Nepal's Mustang",
-   "en": "India supported community development project inaugurated in Nepal's Mustang",
-   "ne": "India supported community development project inaugurated in Nepal's Mustang",
-   "imp": 3,
-   "tags": [
-    "Mustang",
-    "CommunityDevelopment"
-   ],
-   "cat": "politics",
    "val": 2,
    "teaser": false,
    "hits": 1
@@ -6122,21 +6008,34 @@
    "cat": "politics",
    "val": 2,
    "teaser": false,
+   "hits": 2
+  },
+  {
+   "title": "Nepal: life-saving interventions for children with heart conditions following the floods",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPREprcVpFVHNJc1FjM2lPQTl0VnFmWEhPUzJkY2NUOGhlcjRBVHRvTnN2RUt3MldZZ3Btd29MLTBIY2FHMWJhdjNHSXJFak9ELVBBUXpWb0lYQjRwS2pVVVRrdm9SQ3BRbjM0MUdONVExQTVTTXFoQVlycFYxWnpOMTFwbk9lUGFrSUV4M192dWdnb2JGRkM1X0FWeTRyWS1zVjVlaE1CVDMxRzZLNThudEVPVC16dVlZanVIUnJwbDJhUnQzQU9XRkdLMURxR2lLbl9QNnMyaGV6d3JmS21EeU0xaWxfTkRLdDZRUk5rUlJRT2J4TEUyOUk4dU1meGtwSG4wdg?oc=5",
+   "source": "la Repubblica",
+   "ts": 1795868560,
+   "weight": 2,
+   "img": null,
+   "lang": "en",
+   "hl": "Nepal: life-saving interventions for children with heart conditions following the floods",
+   "en": "Nepal: life-saving interventions for children with heart conditions following the floods",
+   "ne": "Nepal: life-saving interventions for children with heart conditions following the floods",
+   "imp": 4,
+   "tags": [
+    "Nepal",
+    "ChildHealth",
+    "Floods",
+    "स्वास्थ्य"
+   ],
+   "cat": "health",
+   "val": 2,
+   "teaser": false,
    "hits": 1
   }
  ],
  "posted": [
-  {
-   "ts": 1795265467.452286,
-   "en": "APF and Nepal Police to play Dharan Women's Gold Cup final",
-   "ne": "APF and Nepal Police to play Dharan Women's Gold Cup final",
-   "link": "https://thehimalayantimes.com/nepal/apf-nepal-police-to-battle-for-dharan-womens-gold-cup-title-injured-anita-basnet-ruled-out",
-   "source": "Himalayan Times",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "sports"
-  },
   {
    "ts": 1795267275.648837,
    "en": "Election Commission Proposes Legal Amendments for Overseas and Inter-District Voting",
@@ -9229,8 +9128,8 @@
    "cat": "sports"
   }
  ],
- "updated": 1795870278,
- "pending_since": null,
+ "updated": 1795870886,
+ "pending_since": 1795870882.3281431,
  "fb_blocks": [
   1790350880.4125228,
   1790370654.0389931
