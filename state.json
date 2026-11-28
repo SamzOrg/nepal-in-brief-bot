@@ -1895,7 +1895,9 @@
   "http://english.ratopati.com/story/88639/who-chief-pledges-health-support-on-first-visit-to-venezuela": 1795849282.6728148,
   "http://english.ratopati.com/story/88636/collection-of-coins-from-12-countries-including-nepal-as-a-gift-to-muktinath-temple": 1795849282.6728148,
   "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSENKaGJHZ3BhQkY5bENwZHJiZ3hwMG9NQ3BSMEoySW00TXJ1MXpIc01fRExLS1MwY3AyZExUQXJVclNfVzVWRGpEcmMzOTZVOGFRWUNKQWFFWkFRdWJlWU1lSGVSLU5VaHdxcFpXd0hEOElBQndnS2ZGaDJSVVFuZ2xmVzQzcWxrT09ITnhYLXhjLTFYRDJ5cWVWZUZ4RGZuZGQ2Z0lFazQ?oc=5": 1795849854.0043678,
-  "https://kathmandupost.com/world/2026/11/28/hackers-breach-us-air-force-flagship-cloud-one-computing-platform": 1795849854.0043678
+  "https://kathmandupost.com/world/2026/11/28/hackers-breach-us-air-force-flagship-cloud-one-computing-platform": 1795849854.0043678,
+  "http://english.ratopati.com/story/88650/ravi-on-candidates-you-cant-sell-tickets-by-showing-a-photo-with-a-leader-saying-i-will-get-them": 1795850449.950794,
+  "http://english.ratopati.com/story/88652/14-bodies-found-on-migrant-boat-near-spains-canary-islands": 1795850449.950794
  },
  "queue": [
   {
@@ -5278,29 +5280,6 @@
    "hits": 1
   },
   {
-   "title": "Nepali Congress Leader Dr. Sunil Kumar Sharma Announces Scholarship Worth 1.14 Crore for Dolpa Students",
-   "summary": "Dolpa. Nepali Congress leader and Girija Prasad Koirala Foundation Chairman Dr. Sunil Kumar Sharma has announced a scholarship worth 1...",
-   "link": "http://english.ratopati.com/story/88646/dr-sunil-sharmas-scholarship-worth-114-crore-to-dolpa-students",
-   "source": "Ratopati EN",
-   "ts": 1795848793,
-   "weight": 2,
-   "img": "https://npcdn.ratopati.com/media/news/sunil-sharma_LQnQCblpuG.webp",
-   "lang": "en",
-   "hl": "Nepali Congress Leader Dr. Sunil Kumar Sharma Announces Scholarship Worth 1.14 Crore for Dolpa Students",
-   "en": "Nepali Congress Leader Dr. Sunil Kumar Sharma Announces Scholarship Worth 1.14 Crore for Dolpa Students",
-   "ne": "Nepali Congress Leader Dr. Sunil Kumar Sharma Announces Scholarship Worth 1.14 Crore for Dolpa Students",
-   "imp": 3,
-   "tags": [
-    "SunilKumarSharma",
-    "Dolpa",
-    "Scholarship"
-   ],
-   "cat": "education",
-   "val": 3,
-   "teaser": false,
-   "hits": 1
-  },
-  {
    "title": "Model Bridge Construction Underway on Kankadvitta-Lauvahi Road in Jhapa",
    "summary": "Jhapa. A model bridge is being constructed over the Ratuwa River as part of the Kankadvitta-Lauvahi road section being upgraded...",
    "link": "http://english.ratopati.com/story/88645/progress-of-construction-of-landmark-bridge-on-ratuwa-river-in-jhapa-reaches-60-percent",
@@ -5410,6 +5389,28 @@
     "Temple"
    ],
    "cat": "culture",
+   "val": 3,
+   "teaser": false,
+   "hits": 1
+  },
+  {
+   "title": "14 Dead Found on Migrant Boat Near Spain's Canary Islands",
+   "summary": "Spain. 14 dead bodies have been found from a boat carrying migrants near Spain's Canary Islands. News agency Reuters has...",
+   "link": "http://english.ratopati.com/story/88652/14-bodies-found-on-migrant-boat-near-spains-canary-islands",
+   "source": "Ratopati EN",
+   "ts": 1795849864,
+   "weight": 2,
+   "img": "https://npcdn.ratopati.com/media/news/image-11_qMY7yEsGFz.webp",
+   "lang": "en",
+   "hl": "14 Dead Found on Migrant Boat Near Spain's Canary Islands",
+   "en": "14 Dead Found on Migrant Boat Near Spain's Canary Islands",
+   "ne": "14 Dead Found on Migrant Boat Near Spain's Canary Islands",
+   "imp": 1,
+   "tags": [
+    "CanaryIslands",
+    "MigrantBoat"
+   ],
+   "cat": "world",
    "val": 3,
    "teaser": false,
    "hits": 1
@@ -8506,9 +8507,20 @@
    "n_ig": 1,
    "brk": false,
    "cat": "society"
+  },
+  {
+   "ts": 1795850468.267511,
+   "en": "Dr. Sunil Kumar Sharma Announces Rs 1.14 Crore Scholarship for Dolpa Students",
+   "ne": "Dr. Sunil Kumar Sharma Announces Rs 1.14 Crore Scholarship for Dolpa Students",
+   "link": "http://english.ratopati.com/story/88646/dr-sunil-sharmas-scholarship-worth-114-crore-to-dolpa-students",
+   "source": "Ratopati EN",
+   "n_fb": 1,
+   "n_ig": 1,
+   "brk": false,
+   "cat": "education"
   }
  ],
- "updated": 1795849857,
+ "updated": 1795850478,
  "pending_since": 1795849854.0043678,
  "fb_blocks": [
   1790350880.4125228,
