@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaUtJZXNsYWFMaUZPRXNxRWRScDNWbHpVTmxkMUJhZGpoTEZFVXloUHNCNjh5ZXJ1azd4dWhPZW1HbndnTkE0YXI0ZGM2Q1R4c1NKXzYyMHl3a0J1NHM4ZE1oVjFTTFh0QU1yREV4SndValB2eWxXVHN5bzlBeGtQSnNqQ0JwYXBMU0tZYVFMNExuaXVTMVNMOGRiT1JWYzlkN1MyQ0Rfdw?oc=5": 1795656049.2873085,
   "https://english.khabarhub.com/2026/26/577074/": 1795656673.6262655,
   "https://nagariknews.nagariknetwork.com/sports/cricket-craze-in-villages-local-talent-shining-in-the-fields-br-80-50.html": 1795656673.6262655,
   "https://www.setopati.com/social/403401": 1795656673.6262655,
@@ -2027,7 +2026,10 @@
   "https://risingnepaldaily.com/news/89113": 1795827679.8397431,
   "https://www.setopati.com/social/403551": 1795828260.7989323,
   "https://www.setopati.com/social/403552": 1795828847.5802538,
-  "https://english.khabarhub.com/2026/28/577318/": 1795828847.5802538
+  "https://english.khabarhub.com/2026/28/577318/": 1795828847.5802538,
+  "https://english.khabarhub.com/2026/28/577329/": 1795829467.441881,
+  "https://english.khabarhub.com/2026/28/577326/": 1795829467.441881,
+  "https://baahrakhari.com/detail/508478": 1795829467.441881
  },
  "queue": [
   {
@@ -2395,7 +2397,7 @@
    "cat": "disaster",
    "val": 3,
    "teaser": false,
-   "hits": 1
+   "hits": 2
   },
   {
    "title": "UN peacekeepers are preparing to leave southern Lebanon. There's no plan for what comes next",
@@ -2582,17 +2584,6 @@
   }
  ],
  "posted": [
-  {
-   "ts": 1795224056.9229946,
-   "en": "एनपिएलको फाइनलमा आज लुम्बिनी र सुदूरपश्चिम भिड्दै",
-   "ne": "एनपिएलको फाइनलमा आज लुम्बिनी र सुदूरपश्चिम भिड्दै",
-   "link": "https://www.setopati.com/sports/npl/403045",
-   "source": "Setopati",
-   "n_fb": 1,
-   "n_ig": 1,
-   "brk": false,
-   "cat": "sports"
-  },
   {
    "ts": 1795225852.7971947,
    "en": "FIFA and AFC advance process to lift Nepal football suspension",
@@ -5685,7 +5676,7 @@
    "cat": "disaster"
   }
  ],
- "updated": 1795828885,
+ "updated": 1795829477,
  "pending_since": 1795828260.7989323,
  "fb_blocks": [
   1790350880.4125228,
